@@ -8,3 +8,5 @@ with open("whoami.txt", 'r') as f:
     print(f.read()) 
     # Out: Coder, photographer, learner 
 ```
+## Recursive world news web scraping:
+![Graph](img/top_news.svg)
