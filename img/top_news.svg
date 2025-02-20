@@ -1,7 +1,8 @@
 <html>
-<head><title>414 Request-URI Too Large</title></head>
-<body>
-<center><h1>414 Request-URI Too Large</h1></center>
-<hr><center>cloudflare</center>
+<head><title>400 Request Header Or Cookie Too Large</title></head>
+<body bgcolor="white">
+<center><h1>400 Bad Request</h1></center>
+<center>Request Header Or Cookie Too Large</center>
+<hr><center>cloudflare-nginx</center>
 </body>
 </html>
