@@ -13,8 +13,9 @@
 <!-- START -->
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': {'primaryColor': "transparent", 'primaryTextColor': "#F9F9F9", 'lineColor': "#20C20E", 'primaryBorderColor':'#20C20E'}}}%%
-classDef txtsize font-size:20px;
 flowchart LR
+classDef txtsize font-size:20px;
+
 Tftganeetsu@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 07:45 PM_
 Trump fires top us general in unprecedented pentagon shake-up" }
 TsdniPgfsrra@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 06:03 AM_
@@ -127,5 +128,5 @@ Tfietesrfanso:::txtsize --> Ddlmlyatocy:::txtsize
 Tfietesrfanso:::txtsize --> Wrmeapeoit:::txtsize
 
 ```
-<i>Last updated: 2025-02-22 20:08:44.845730 (GMT+8)</i>
+<i>Last updated: 2025-02-22 20:09:36.419832 (GMT+8)</i>
 <!-- END -->
