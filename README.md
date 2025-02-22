@@ -22,102 +22,21 @@ Uhlygaeca@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 02:44 AM_
 Us pushes zelensky to sign ukraine resources deal" }
 TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
 Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
-Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
-Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
-Zsymnnaberumr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:14 PM_
-Zelensky says trump is in ‘disinformation’ bubble on ukraine, urges ‘more truth’" }
-Zsymnnaberumr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:14 PM_
-Zelensky says trump is in ‘disinformation’ bubble on ukraine, urges ‘more truth’" }
 ZsjUarillyate@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:05 PM_
 Zelensky rejects us demand for $670b in minerals wealth, says aid amounts to less" }
-Feisnthmmrfr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:06 PM_
-France says it does not understand why trump blames ukraine for war" }
-Zsymnnaberumr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:14 PM_
-Zelensky says trump is in ‘disinformation’ bubble on ukraine, urges ‘more truth’" }
 TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
 Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
 Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
 Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
-Usreptwua@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 06:15 PM_
-Us, russia forge ahead on peace talks, without ukraine" }
-Tdskeitly@{ shape: win-pane, label: "_UPDATED Feb 13, 2025, 11:02 AM_
-Trump discusses ukraine war with putin, zelensky" }
-Mrlspdupy@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:12 PM_
-Major risks loom as trump upends us’ russia policy" }
 Zsymnnaberumr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:14 PM_
 Zelensky says trump is in ‘disinformation’ bubble on ukraine, urges ‘more truth’" }
-Mrlspdupy@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:12 PM_
-Major risks loom as trump upends us’ russia policy" }
-Feisnthmmrfr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:06 PM_
-France says it does not understand why trump blames ukraine for war" }
-UnlypSvtiigaUsesu@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 02:28 AM_
-Ukraine’s zelensky postponed saudi visit to avoid giving ‘legitimacy’ to us-russia meeting, say sources" }
-Zsymnnaberumr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:14 PM_
-Zelensky says trump is in ‘disinformation’ bubble on ukraine, urges ‘more truth’" }
-Mrlspdupy@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:12 PM_
-Major risks loom as trump upends us’ russia policy" }
-Feisnthmmrfr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:06 PM_
-France says it does not understand why trump blames ukraine for war" }
-UnlypSvtiigaUsesu@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 02:28 AM_
-Ukraine’s zelensky postponed saudi visit to avoid giving ‘legitimacy’ to us-russia meeting, say sources" }
-Wakroniek@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 08:52 PM_
-What’s at stake as trump sours on ukraine’s zelensky" }
-UnlysSmmrpsdt@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 05:20 AM_
-Ukraine’s zelensky calls for us pragmatism after trump calls him a ‘dictator’" }
-TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
-Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
-Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
-Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
-ZsjUarillyate@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:05 PM_
-Zelensky rejects us demand for $670b in minerals wealth, says aid amounts to less" }
-Uhlygaeca@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 02:44 AM_
-Us pushes zelensky to sign ukraine resources deal" }
-TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
-Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
-ZsjUarillyate@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:05 PM_
-Zelensky rejects us demand for $670b in minerals wealth, says aid amounts to less" }
-Tskeeneanssii@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 08:35 PM_
-Trump says ukraine leaders ‘don’t have any cards’ in talks on russia’s invasion" }
-ZsjUarillyate@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:05 PM_
-Zelensky rejects us demand for $670b in minerals wealth, says aid amounts to less" }
-UprUookeiaso@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 09:59 PM_
-Us proposes rival un resolution on ukraine, pitting it against europe" }
-Uhlygaeca@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 02:44 AM_
-Us pushes zelensky to sign ukraine resources deal" }
 
 Zstygedise:::txtsize --> Uhlygaeca:::txtsize
 Uhlygaeca:::txtsize --> TcUnlytaicioiis:::txtsize
-TcUnlytaicioiis:::txtsize --> Umehtiusrnanii:::txtsize
-TcUnlytaicioiis:::txtsize --> Zsymnnaberumr:::txtsize
-TcUnlytaicioiis:::txtsize --> Zsymnnaberumr:::txtsize
 Uhlygaeca:::txtsize --> ZsjUarillyate:::txtsize
-ZsjUarillyate:::txtsize --> Feisnthmmrfr:::txtsize
-ZsjUarillyate:::txtsize --> Zsymnnaberumr:::txtsize
 Zstygedise:::txtsize --> TcUnlytaicioiis:::txtsize
 TcUnlytaicioiis:::txtsize --> Umehtiusrnanii:::txtsize
-Umehtiusrnanii:::txtsize --> Usreptwua:::txtsize
-Umehtiusrnanii:::txtsize --> Tdskeitly:::txtsize
-Umehtiusrnanii:::txtsize --> Mrlspdupy:::txtsize
 TcUnlytaicioiis:::txtsize --> Zsymnnaberumr:::txtsize
-Zsymnnaberumr:::txtsize --> Mrlspdupy:::txtsize
-Zsymnnaberumr:::txtsize --> Feisnthmmrfr:::txtsize
-Zsymnnaberumr:::txtsize --> UnlypSvtiigaUsesu:::txtsize
-TcUnlytaicioiis:::txtsize --> Zsymnnaberumr:::txtsize
-Zsymnnaberumr:::txtsize --> Mrlspdupy:::txtsize
-Zsymnnaberumr:::txtsize --> Feisnthmmrfr:::txtsize
-Zsymnnaberumr:::txtsize --> UnlypSvtiigaUsesu:::txtsize
-Zstygedise:::txtsize --> Wakroniek:::txtsize
-Wakroniek:::txtsize --> UnlysSmmrpsdt:::txtsize
-UnlysSmmrpsdt:::txtsize --> TcUnlytaicioiis:::txtsize
-UnlysSmmrpsdt:::txtsize --> Umehtiusrnanii:::txtsize
-UnlysSmmrpsdt:::txtsize --> ZsjUarillyate:::txtsize
-Wakroniek:::txtsize --> Uhlygaeca:::txtsize
-Uhlygaeca:::txtsize --> TcUnlytaicioiis:::txtsize
-Uhlygaeca:::txtsize --> ZsjUarillyate:::txtsize
-Wakroniek:::txtsize --> Tskeeneanssii:::txtsize
-Tskeeneanssii:::txtsize --> ZsjUarillyate:::txtsize
-Tskeeneanssii:::txtsize --> UprUookeiaso:::txtsize
-Tskeeneanssii:::txtsize --> Uhlygaeca:::txtsize
 
 Dnauiloudlte@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 07:49 PM_
 Dancing in damascus: syrians cling to culture under islamists' rule" }
@@ -127,88 +46,19 @@ Sntuetal@{ shape: win-pane, label: "_PUBLISHED Mar 09, 2021, 11:29 AM_
 Syrian heritage suffered 'cultural apocalypse'" }
 GhrheTastfdht@{ shape: win-pane, label: "_PUBLISHED Mar 09, 2021, 11:13 AM_
 Gap in history: afghans recall taleban's destruction of famed buddha statues" }
-GhrheTastfdht@{ shape: win-pane, label: "_PUBLISHED Mar 09, 2021, 11:13 AM_
-Gap in history: afghans recall taleban's destruction of famed buddha statues" }
-Ueaneseeasr@{ shape: win-pane, label: "_PUBLISHED Aug 03, 2021, 07:20 PM_
-Us to return 17,000 ancient artefacts looted after invasion, says iraq" }
-Uutausma@{ shape: win-pane, label: "_PUBLISHED Jun 11, 2021, 01:27 PM_
-Us returns 27 stolen antiquities to cambodia" }
-SiiieonsstotraEe@{ shape: win-pane, label: "_PUBLISHED Apr 01, 2021, 05:56 PM_
-Scottish university's return of bronze bust may start trend on looted african art in europe" }
 Wsunatysdh@{ shape: win-pane, label: "_UPDATED Dec 09, 2024, 11:56 PM_
 With assad ousted, new era starts in syria as world watches" }
 SsdsflgtlisRati@{ shape: win-pane, label: "_UPDATED Dec 09, 2024, 09:57 AM_
 Syria’s assad in moscow after fleeing country, will be given asylum: russian state media" }
-SnltiARahtoy@{ shape: win-pane, label: "_UPDATED Dec 08, 2024, 11:38 PM_
-Syrian rebels oust president assad; russia says he left the country" }
-IlhylyroaA@{ shape: win-pane, label: "_UPDATED Dec 08, 2024, 11:07 PM_
-Israel watching syria closely after ‘historic’ fall of assad" }
 Hmsis@{ shape: win-pane, label: "_UPDATED Dec 08, 2024, 10:07 PM_
 How damascus fell in 11 days" }
-SnltiARahtoy@{ shape: win-pane, label: "_UPDATED Dec 08, 2024, 11:38 PM_
-Syrian rebels oust president assad; russia says he left the country" }
-Ssasqetnr@{ shape: win-pane, label: "_UPDATED Dec 08, 2024, 02:41 PM_
-Syria's bashar al-assad's quarter century in power" }
-SnrtspehglnMo@{ shape: win-pane, label: "_UPDATED Dec 02, 2024, 12:25 PM_
-Syrian government loses aleppo after lightning rebel offensive: monitor" }
-Udariidsffdteef@{ shape: win-pane, label: "_UPDATED Dec 10, 2024, 08:55 AM_
-Us conducts air strikes in syria amid fears that fall of assad may stoke resurgence of isis" }
-SnltiARahtoy@{ shape: win-pane, label: "_UPDATED Dec 08, 2024, 11:38 PM_
-Syrian rebels oust president assad; russia says he left the country" }
-Ssalpdonosahw@{ shape: win-pane, label: "_UPDATED Jan 30, 2025, 07:23 PM_
-Syria’s sharaa declared president for transition, consolidating his power" }
-SnltiARahtoy@{ shape: win-pane, label: "_UPDATED Dec 08, 2024, 11:38 PM_
-Syrian rebels oust president assad; russia says he left the country" }
-Wasrsnnafriben@{ shape: win-pane, label: "_UPDATED Dec 08, 2024, 06:39 PM_
-Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
-SsdsflgtlisRati@{ shape: win-pane, label: "_UPDATED Dec 09, 2024, 09:57 AM_
-Syria’s assad in moscow after fleeing country, will be given asylum: russian state media" }
-IlionarnMHnfe@{ shape: win-pane, label: "_UPDATED Jan 29, 2025, 12:43 AM_
-Israel says its troops in syria will remain atop mount hermon indefinitely" }
-SnltiARahtoy@{ shape: win-pane, label: "_UPDATED Dec 08, 2024, 11:38 PM_
-Syrian rebels oust president assad; russia says he left the country" }
-Aatoorsbraea@{ shape: win-pane, label: "_UPDATED Jan 28, 2025, 05:37 PM_
-As gazans return north, some israelis near border fear another attack" }
-Ettpocnsrdcp@{ shape: win-pane, label: "_UPDATED Jan 29, 2025, 01:02 AM_
-Emirati state weapons contractor invests in israeli defence supplier" }
-Bbdrdnaas@{ shape: win-pane, label: "_UPDATED Jan 29, 2025, 12:29 PM_
-Books banned under assad now on sale at damascus shops" }
-SnltiARahtoy@{ shape: win-pane, label: "_UPDATED Dec 08, 2024, 11:38 PM_
-Syrian rebels oust president assad; russia says he left the country" }
-DtnrIeiatsg@{ shape: win-pane, label: "_UPDATED Dec 22, 2024, 05:41 PM_
-Deception and betrayal: inside the final days of the assad regime" }
-Iioodafi@{ shape: win-pane, label: "_UPDATED Dec 28, 2024, 12:34 PM_
-In syria, us hopes to avoid replay of afghanistan" }
 
 Dnauiloudlte:::txtsize --> Taessfgsha:::txtsize
 Taessfgsha:::txtsize --> Sntuetal:::txtsize
-Sntuetal:::txtsize --> GhrheTastfdht:::txtsize
 Taessfgsha:::txtsize --> GhrheTastfdht:::txtsize
-Taessfgsha:::txtsize --> Ueaneseeasr:::txtsize
-Ueaneseeasr:::txtsize --> Uutausma:::txtsize
-Ueaneseeasr:::txtsize --> SiiieonsstotraEe:::txtsize
 Dnauiloudlte:::txtsize --> Wsunatysdh:::txtsize
 Wsunatysdh:::txtsize --> SsdsflgtlisRati:::txtsize
-SsdsflgtlisRati:::txtsize --> SnltiARahtoy:::txtsize
-SsdsflgtlisRati:::txtsize --> IlhylyroaA:::txtsize
 Wsunatysdh:::txtsize --> Hmsis:::txtsize
-Hmsis:::txtsize --> SnltiARahtoy:::txtsize
-Hmsis:::txtsize --> Ssasqetnr:::txtsize
-Hmsis:::txtsize --> SnrtspehglnMo:::txtsize
-Wsunatysdh:::txtsize --> Udariidsffdteef:::txtsize
-Udariidsffdteef:::txtsize --> SnltiARahtoy:::txtsize
-Dnauiloudlte:::txtsize --> Ssalpdonosahw:::txtsize
-Ssalpdonosahw:::txtsize --> SnltiARahtoy:::txtsize
-SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
-SnltiARahtoy:::txtsize --> SsdsflgtlisRati:::txtsize
-Ssalpdonosahw:::txtsize --> IlionarnMHnfe:::txtsize
-IlionarnMHnfe:::txtsize --> SnltiARahtoy:::txtsize
-IlionarnMHnfe:::txtsize --> Aatoorsbraea:::txtsize
-IlionarnMHnfe:::txtsize --> Ettpocnsrdcp:::txtsize
-Ssalpdonosahw:::txtsize --> Bbdrdnaas:::txtsize
-Bbdrdnaas:::txtsize --> SnltiARahtoy:::txtsize
-Bbdrdnaas:::txtsize --> DtnrIeiatsg:::txtsize
-Bbdrdnaas:::txtsize --> Iioodafi:::txtsize
 
 Tftganeetsu@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 10:05 PM_
 Trump fires top us general in unprecedented pentagon shake-up" }
@@ -216,55 +66,13 @@ TsdniPgfsrra@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 06:03 AM_
 Trump’s team drawing up list of pentagon officers to fire, sources say" }
 Wmkpihatee@{ shape: win-pane, label: "_UPDATED Nov 15, 2024, 12:47 AM_
 ‘welcome back’: trump and biden shake hands at white house" }
-TsbchioUdetne@{ shape: win-pane, label: "_UPDATED Nov 07, 2024, 08:12 PM_
-Trump set to be elected 47th president of the united states in stunning comeback" }
-SiUiinenWn@{ shape: win-pane, label: "_PUBLISHED Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
-Rlsloaehujy@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 03:19 PM_
-Republicans complete power takeover with us house majority" }
 TpfrlooSeot@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 11:55 AM_
 Trump picks former rival marco rubio for us secretary of state" }
-Tpfrccrouadrrtlln@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 09:44 AM_
-Trump picks former democratic congresswoman tulsi gabbard as director of national intelligence" }
-Ttiansaertyr@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 09:16 PM_
-Trump taps firebrand congressman matt gaetz for us attorney-general" }
-Tffwtdirvvcesne@{ shape: win-pane, label: "_UPDATED Jan 22, 2025, 03:55 PM_
-Trump fires first woman to lead a us military service over lack of leadership and more" }
-Liagmeveethihd@{ shape: win-pane, label: "_UPDATED Jan 22, 2025, 03:35 PM_
-Lawsuits challenge trump’s executive orders over birthright citizenship and more" }
-TkeasgoetrsdPdr@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 07:37 PM_
-Tiktok ban delay, pardons, immigration: key executive orders signed by us president trump" }
-Aiuoreugdnthnw@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 06:02 PM_
-After inauguration, us president trump signs orders in front of a cheering crowd" }
-TkeasgoetrsdPdr@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 07:37 PM_
-Tiktok ban delay, pardons, immigration: key executive orders signed by us president trump" }
-TkeasgoetrsdPdr@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 07:37 PM_
-Tiktok ban delay, pardons, immigration: key executive orders signed by us president trump" }
-TpnrlgtUii@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 12:03 PM_
-Trump pardons nearly all charged with jan 6 us capitol riot" }
-TcioirdsGi@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 11:27 AM_
-Trump curtails protections around diversity, lgbtq rights" }
-TdragnfitirsPd@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 02:23 PM_
-Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
 
 Tftganeetsu:::txtsize --> TsdniPgfsrra:::txtsize
 TsdniPgfsrra:::txtsize --> Wmkpihatee:::txtsize
-Wmkpihatee:::txtsize --> TsbchioUdetne:::txtsize
-Wmkpihatee:::txtsize --> SiUiinenWn:::txtsize
-Wmkpihatee:::txtsize --> Rlsloaehujy:::txtsize
 TsdniPgfsrra:::txtsize --> TpfrlooSeot:::txtsize
-TpfrlooSeot:::txtsize --> Tpfrccrouadrrtlln:::txtsize
-TpfrlooSeot:::txtsize --> Ttiansaertyr:::txtsize
-Tftganeetsu:::txtsize --> Tffwtdirvvcesne:::txtsize
-Tffwtdirvvcesne:::txtsize --> Liagmeveethihd:::txtsize
-Liagmeveethihd:::txtsize --> TkeasgoetrsdPdr:::txtsize
-Liagmeveethihd:::txtsize --> Aiuoreugdnthnw:::txtsize
-Liagmeveethihd:::txtsize --> TkeasgoetrsdPdr:::txtsize
-Tffwtdirvvcesne:::txtsize --> TkeasgoetrsdPdr:::txtsize
-TkeasgoetrsdPdr:::txtsize --> TpnrlgtUii:::txtsize
-TkeasgoetrsdPdr:::txtsize --> TcioirdsGi:::txtsize
-TkeasgoetrsdPdr:::txtsize --> TdragnfitirsPd:::txtsize
 
 ```
-<i>Last updated: 2025-02-22 22:15:16.158865 (GMT+8)</i>
+<i>Last updated: 2025-02-22 22:16:08.016923 (GMT+8)</i>
 <!-- END -->
