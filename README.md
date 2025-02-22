@@ -16,7 +16,7 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tftganeetsu@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 08:27 PM_
+Tftganeetsu@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 10:05 PM_
 Trump fires top us general in unprecedented pentagon shake-up" }
 TsdniPgfsrra@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 06:03 AM_
 Trump’s team drawing up list of pentagon officers to fire, sources say" }
@@ -24,109 +24,146 @@ Wmkpihatee@{ shape: win-pane, label: "_UPDATED Nov 15, 2024, 12:47 AM_
 ‘welcome back’: trump and biden shake hands at white house" }
 TsbchioUdetne@{ shape: win-pane, label: "_UPDATED Nov 07, 2024, 08:12 PM_
 Trump set to be elected 47th president of the united states in stunning comeback" }
+Hrtoessmemt@{ shape: win-pane, label: "_UPDATED Nov 07, 2024, 01:18 AM_
+‘historic return’: world leaders praise trump as he claims victory" }
+PgfctteetiuT@{ shape: win-pane, label: "_UPDATED Nov 06, 2024, 10:45 PM_
+Pm wong reaffirms commitment to strengthening ties with us under trump" }
+Uronnuahbo@{ shape: win-pane, label: "_UPDATED Jun 25, 2022, 02:46 AM_
+Us supreme court ends constitutional right to abortion" }
 SiUiinenWn@{ shape: win-pane, label: "_PUBLISHED Jan 07, 2021, 12:55 PM_
 Storming of us capitol: timeline of key events in washington" }
+peapubmalrest@{ shape: win-pane, label: "_UPDATED Jan 08, 2021, 02:48 PM_
+4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
+HafdoptdSt@{ shape: win-pane, label: "_UPDATED Jan 07, 2021, 09:44 PM_
+How chaos unfolded as pro-trump mob stormed the us capitol" }
+Rlsloaehujy@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 03:19 PM_
+Republicans complete power takeover with us house majority" }
+TsbchioUdetne@{ shape: win-pane, label: "_UPDATED Nov 07, 2024, 08:12 PM_
+Trump set to be elected 47th president of the united states in stunning comeback" }
+Tddapooipe@{ shape: win-pane, label: "_UPDATED Nov 11, 2024, 11:30 AM_
+Trump demands senate bypass votes to confirm appointees" }
+Uamthnjsrmei@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 06:27 PM_
+Us senate democrats rush to confirm judges before trump takes office" }
 TpfrlooSeot@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 11:55 AM_
 Trump picks former rival marco rubio for us secretary of state" }
 Tpfrccrouadrrtlln@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 09:44 AM_
 Trump picks former democratic congresswoman tulsi gabbard as director of national intelligence" }
+TpfrlooSeot@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 11:55 AM_
+Trump picks former rival marco rubio for us secretary of state" }
+Ttiansaertyr@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 09:16 PM_
+Trump taps firebrand congressman matt gaetz for us attorney-general" }
+Ttiansaertyr@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 09:16 PM_
+Trump taps firebrand congressman matt gaetz for us attorney-general" }
+Ustiaaanoo@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:17 AM_
+Us house ousts kevin mccarthy as speaker in historic vote" }
+Tpfrccrouadrrtlln@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 09:44 AM_
+Trump picks former democratic congresswoman tulsi gabbard as director of national intelligence" }
+TpfrlooSeot@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 11:55 AM_
+Trump picks former rival marco rubio for us secretary of state" }
+Tffwtdirvvcesne@{ shape: win-pane, label: "_UPDATED Jan 22, 2025, 03:55 PM_
+Trump fires first woman to lead a us military service over lack of leadership and more" }
+Liagmeveethihd@{ shape: win-pane, label: "_UPDATED Jan 22, 2025, 03:35 PM_
+Lawsuits challenge trump’s executive orders over birthright citizenship and more" }
+TkeasgoetrsdPdr@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 07:37 PM_
+Tiktok ban delay, pardons, immigration: key executive orders signed by us president trump" }
+TpnrlgtUii@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 12:03 PM_
+Trump pardons nearly all charged with jan 6 us capitol riot" }
+TcioirdsGi@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 11:27 AM_
+Trump curtails protections around diversity, lgbtq rights" }
+TdragnfitirsPd@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 02:23 PM_
+Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
+Aiuoreugdnthnw@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 06:02 PM_
+After inauguration, us president trump signs orders in front of a cheering crowd" }
+TdragnfitirsPd@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 02:23 PM_
+Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
+Tfscedeopslg@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 03:23 PM_
+Trump faces stiff challenges delivering on his promised ‘golden age’" }
+Treeedeooes@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 04:46 PM_
+Trump revokes biden orders, ends federal work-from-home rules" }
+TkeasgoetrsdPdr@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 07:37 PM_
+Tiktok ban delay, pardons, immigration: key executive orders signed by us president trump" }
+TpnrlgtUii@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 12:03 PM_
+Trump pardons nearly all charged with jan 6 us capitol riot" }
+TcioirdsGi@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 11:27 AM_
+Trump curtails protections around diversity, lgbtq rights" }
+TdragnfitirsPd@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 02:23 PM_
+Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
+TkeasgoetrsdPdr@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 07:37 PM_
+Tiktok ban delay, pardons, immigration: key executive orders signed by us president trump" }
+TpnrlgtUii@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 12:03 PM_
+Trump pardons nearly all charged with jan 6 us capitol riot" }
+SiUiinenWn@{ shape: win-pane, label: "_PUBLISHED Jan 07, 2021, 12:55 PM_
+Storming of us capitol: timeline of key events in washington" }
+Hpdwtmyrr@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 12:44 PM_
+How us presidents wield their mighty power to pardon" }
+TvooddoO@{ shape: win-pane, label: "_UPDATED Dec 09, 2024, 07:11 PM_
+Trump vows to pardon jan 6 defendants on day one" }
+TcioirdsGi@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 11:27 AM_
+Trump curtails protections around diversity, lgbtq rights" }
+Asdmseetiralavtge@{ shape: win-pane, label: "_UPDATED Jan 12, 2025, 01:59 PM_
+Apple’s board recommends shareholders vote against proposal to eliminate diversity programmes" }
+MmsbiiomeTiuo@{ shape: win-pane, label: "_UPDATED Jan 11, 2025, 05:54 PM_
+Meta, amazon scale back diversity programmes ahead of trump inauguration" }
+Tvotgrctiy@{ shape: win-pane, label: "_UPDATED Dec 23, 2024, 11:10 AM_
+Trump vows to ‘stop transgender lunacy’ as a top priority" }
+TdragnfitirsPd@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 02:23 PM_
+Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
+Tpsrmtioutv@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 07:09 PM_
+Trump promises harsh immigration limits on inauguration eve" }
+TttSecaaxhue@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 03:57 AM_
+Trump threatens us trade policy of ‘tariff and tax’ on other countries" }
+TvoatlgrycbUsewos@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 02:09 AM_
+Trump vows to declare ‘national energy emergency’ that could boost us fossil fuels, power projects" }
 
 Tftganeetsu:::txtsize --> TsdniPgfsrra:::txtsize
 TsdniPgfsrra:::txtsize --> Wmkpihatee:::txtsize
 Wmkpihatee:::txtsize --> TsbchioUdetne:::txtsize
+TsbchioUdetne:::txtsize --> Hrtoessmemt:::txtsize
+TsbchioUdetne:::txtsize --> PgfctteetiuT:::txtsize
+TsbchioUdetne:::txtsize --> Uronnuahbo:::txtsize
 Wmkpihatee:::txtsize --> SiUiinenWn:::txtsize
+SiUiinenWn:::txtsize --> peapubmalrest:::txtsize
+SiUiinenWn:::txtsize --> HafdoptdSt:::txtsize
+Wmkpihatee:::txtsize --> Rlsloaehujy:::txtsize
+Rlsloaehujy:::txtsize --> TsbchioUdetne:::txtsize
+Rlsloaehujy:::txtsize --> Tddapooipe:::txtsize
+Rlsloaehujy:::txtsize --> Uamthnjsrmei:::txtsize
 TsdniPgfsrra:::txtsize --> TpfrlooSeot:::txtsize
 TpfrlooSeot:::txtsize --> Tpfrccrouadrrtlln:::txtsize
-
-Gnuoeraifrn@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 09:14 PM_
-Germany’s youth grow more polarised amid rising frustration" }
-Gnfioiigsaoc@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 06:09 PM_
-Germany set for tricky coalition building, poll shows ahead of election" }
-Gneptslaom@{ shape: win-pane, label: "_UPDATED Nov 07, 2024, 11:42 AM_
-Germany faces snap election as scholz’s coalition crumbles" }
-TocalEoaipvngs@{ shape: win-pane, label: "_UPDATED Nov 07, 2024, 08:14 PM_
-Trump on track for a triple win: electoral landslide, popular vote and congress sweep" }
-Gneptslaom@{ shape: win-pane, label: "_UPDATED Nov 07, 2024, 11:42 AM_
-Germany faces snap election as scholz’s coalition crumbles" }
-Gnnunnattlo@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 12:07 AM_
-Germany warns of russian disinformation targeting election" }
-Gnfioiigsaoc@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 06:09 PM_
-Germany set for tricky coalition building, poll shows ahead of election" }
-Peeareaondu@{ shape: win-pane, label: "_UPDATED Dec 17, 2024, 11:27 PM_
-Parties unveil plans to rescue germany from economic doldrums" }
-GnitsnnCeSznfen@{ shape: win-pane, label: "_UPDATED Dec 17, 2024, 09:38 PM_
-German parliament votes no confidence in chancellor scholz, paving way for election" }
-Tiwitnifd@{ shape: win-pane, label: "_PUBLISHED Feb 25, 2022, 08:15 AM_
-Timeline: how russia's attack on ukraine unfolded" }
-Gnnlueoets@{ shape: win-pane, label: "_UPDATED Dec 16, 2024, 07:47 AM_
-Germany is unraveling just when europe needs it the most" }
-Freerliporsce@{ shape: win-pane, label: "_UPDATED Dec 12, 2024, 05:59 AM_
-Friedrich merz, the veteran politician tipped to be germany’s next chancellor" }
-Gnhifcoslo@{ shape: win-pane, label: "_UPDATED Dec 12, 2024, 01:04 AM_
-Germany’s scholz kicks off process towards feb 23 elections" }
-Gnunrhpis@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 06:04 AM_
-Germany struggling to break the grip of twin crises" }
-
-Gnuoeraifrn:::txtsize --> Gnfioiigsaoc:::txtsize
-Gnfioiigsaoc:::txtsize --> Gneptslaom:::txtsize
-Gneptslaom:::txtsize --> TocalEoaipvngs:::txtsize
-Gneptslaom:::txtsize --> Gneptslaom:::txtsize
-Gnfioiigsaoc:::txtsize --> Gnnunnattlo:::txtsize
-Gnnunnattlo:::txtsize --> Gnfioiigsaoc:::txtsize
-Gnuoeraifrn:::txtsize --> Peeareaondu:::txtsize
-Peeareaondu:::txtsize --> GnitsnnCeSznfen:::txtsize
-GnitsnnCeSznfen:::txtsize --> Tiwitnifd:::txtsize
-GnitsnnCeSznfen:::txtsize --> Gnnlueoets:::txtsize
-Peeareaondu:::txtsize --> Freerliporsce:::txtsize
-Freerliporsce:::txtsize --> Gnhifcoslo:::txtsize
-Freerliporsce:::txtsize --> Gnunrhpis:::txtsize
-
-UnruSemmtrpece@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 10:45 AM_
-Us trans actress hunter schafer slams trump gov’t after passport gender change" }
-Naanorodtueve@{ shape: win-pane, label: "_UPDATED Feb 07, 2025, 10:03 PM_
-Ncaa bans transgender women from sports a day after trump executive order" }
-Ddpondoaiuec@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 07:51 PM_
-Donald trump’s ban on transgender sports may be difficult to enforce" }
-Biwnstorewfomv@{ shape: win-pane, label: "_UPDATED Dec 13, 2024, 12:33 AM_
-Britain’s lawn tennis association to ban transgender women from some female events" }
-NGdlalwveule@{ shape: win-pane, label: "_UPDATED Dec 05, 2024, 08:20 PM_
-New lpga gender policy bars golfers who have gone through male puberty" }
-Tosorpfanecoo@{ shape: win-pane, label: "_UPDATED Jan 29, 2025, 10:22 AM_
-Trump orders end to federal support for transgender healthcare for minors" }
-TtaDvpodseo@{ shape: win-pane, label: "_UPDATED Jan 28, 2025, 06:47 PM_
-Trump takes aim at dei, covid-19 expulsions and transgender troops" }
-Upuenasteme@{ shape: win-pane, label: "_UPDATED Jan 26, 2025, 01:01 AM_
-Us stops issuing gender-neutral ‘x’ passports under trump order" }
-Upuenasteme@{ shape: win-pane, label: "_UPDATED Jan 26, 2025, 01:01 AM_
-Us stops issuing gender-neutral ‘x’ passports under trump order" }
-Tuxiwrtnons@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 03:57 PM_
-Trump uses executive power to reinstate anti-abortion pacts" }
-Uronnuahbo@{ shape: win-pane, label: "_UPDATED Jun 25, 2022, 02:46 AM_
-Us supreme court ends constitutional right to abortion" }
-Mpssnrrseiaf@{ shape: win-pane, label: "_UPDATED Nov 06, 2024, 08:58 PM_
-Multiple us states extend abortion rights, while florida measure fails" }
-Tfietesrfanso@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 04:43 PM_
-Trump fires 17 independent inspectors-general at federal agencies, says source" }
-Ddlmlyatocy@{ shape: win-pane, label: "_UPDATED Jan 23, 2025, 11:55 AM_
-Day 2, and donald trump is already reshaping the global economy" }
-Wrmeapeoit@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 02:50 PM_
-What trump’s mass deportation plan means for immigrants" }
-
-UnruSemmtrpece:::txtsize --> Naanorodtueve:::txtsize
-Naanorodtueve:::txtsize --> Ddpondoaiuec:::txtsize
-Ddpondoaiuec:::txtsize --> Biwnstorewfomv:::txtsize
-Ddpondoaiuec:::txtsize --> NGdlalwveule:::txtsize
-Naanorodtueve:::txtsize --> Tosorpfanecoo:::txtsize
-Tosorpfanecoo:::txtsize --> TtaDvpodseo:::txtsize
-Tosorpfanecoo:::txtsize --> Upuenasteme:::txtsize
-UnruSemmtrpece:::txtsize --> Upuenasteme:::txtsize
-Upuenasteme:::txtsize --> Tuxiwrtnons:::txtsize
-Tuxiwrtnons:::txtsize --> Uronnuahbo:::txtsize
-Tuxiwrtnons:::txtsize --> Mpssnrrseiaf:::txtsize
-Upuenasteme:::txtsize --> Tfietesrfanso:::txtsize
-Tfietesrfanso:::txtsize --> Ddlmlyatocy:::txtsize
-Tfietesrfanso:::txtsize --> Wrmeapeoit:::txtsize
+Tpfrccrouadrrtlln:::txtsize --> TpfrlooSeot:::txtsize
+Tpfrccrouadrrtlln:::txtsize --> Ttiansaertyr:::txtsize
+TpfrlooSeot:::txtsize --> Ttiansaertyr:::txtsize
+Ttiansaertyr:::txtsize --> Ustiaaanoo:::txtsize
+Ttiansaertyr:::txtsize --> Tpfrccrouadrrtlln:::txtsize
+Ttiansaertyr:::txtsize --> TpfrlooSeot:::txtsize
+Tftganeetsu:::txtsize --> Tffwtdirvvcesne:::txtsize
+Tffwtdirvvcesne:::txtsize --> Liagmeveethihd:::txtsize
+Liagmeveethihd:::txtsize --> TkeasgoetrsdPdr:::txtsize
+TkeasgoetrsdPdr:::txtsize --> TpnrlgtUii:::txtsize
+TkeasgoetrsdPdr:::txtsize --> TcioirdsGi:::txtsize
+TkeasgoetrsdPdr:::txtsize --> TdragnfitirsPd:::txtsize
+Liagmeveethihd:::txtsize --> Aiuoreugdnthnw:::txtsize
+Aiuoreugdnthnw:::txtsize --> TdragnfitirsPd:::txtsize
+Aiuoreugdnthnw:::txtsize --> Tfscedeopslg:::txtsize
+Aiuoreugdnthnw:::txtsize --> Treeedeooes:::txtsize
+Liagmeveethihd:::txtsize --> TkeasgoetrsdPdr:::txtsize
+TkeasgoetrsdPdr:::txtsize --> TpnrlgtUii:::txtsize
+TkeasgoetrsdPdr:::txtsize --> TcioirdsGi:::txtsize
+TkeasgoetrsdPdr:::txtsize --> TdragnfitirsPd:::txtsize
+Tffwtdirvvcesne:::txtsize --> TkeasgoetrsdPdr:::txtsize
+TkeasgoetrsdPdr:::txtsize --> TpnrlgtUii:::txtsize
+TpnrlgtUii:::txtsize --> SiUiinenWn:::txtsize
+TpnrlgtUii:::txtsize --> Hpdwtmyrr:::txtsize
+TpnrlgtUii:::txtsize --> TvooddoO:::txtsize
+TkeasgoetrsdPdr:::txtsize --> TcioirdsGi:::txtsize
+TcioirdsGi:::txtsize --> Asdmseetiralavtge:::txtsize
+TcioirdsGi:::txtsize --> MmsbiiomeTiuo:::txtsize
+TcioirdsGi:::txtsize --> Tvotgrctiy:::txtsize
+TkeasgoetrsdPdr:::txtsize --> TdragnfitirsPd:::txtsize
+TdragnfitirsPd:::txtsize --> Tpsrmtioutv:::txtsize
+TdragnfitirsPd:::txtsize --> TttSecaaxhue:::txtsize
+TdragnfitirsPd:::txtsize --> TvoatlgrycbUsewos:::txtsize
 
 ```
-<i>Last updated: 2025-02-22 21:56:48.204412 (GMT+8)</i>
+<i>Last updated: 2025-02-22 22:07:33.611012 (GMT+8)</i>
 <!-- END -->
