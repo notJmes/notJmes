@@ -81,52 +81,6 @@ Peeareaondu:::txtsize --> Freerliporsce:::txtsize
 Freerliporsce:::txtsize --> Gnhifcoslo:::txtsize
 Freerliporsce:::txtsize --> Gnunrhpis:::txtsize
 
-UnruSemmtrpece@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 10:45 AM_
-Us trans actress hunter schafer slams trump gov’t after passport gender change" }
-Naanorodtueve@{ shape: win-pane, label: "_UPDATED Feb 07, 2025, 10:03 PM_
-Ncaa bans transgender women from sports a day after trump executive order" }
-Ddpondoaiuec@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 07:51 PM_
-Donald trump’s ban on transgender sports may be difficult to enforce" }
-Biwnstorewfomv@{ shape: win-pane, label: "_UPDATED Dec 13, 2024, 12:33 AM_
-Britain’s lawn tennis association to ban transgender women from some female events" }
-NGdlalwveule@{ shape: win-pane, label: "_UPDATED Dec 05, 2024, 08:20 PM_
-New lpga gender policy bars golfers who have gone through male puberty" }
-Tosorpfanecoo@{ shape: win-pane, label: "_UPDATED Jan 29, 2025, 10:22 AM_
-Trump orders end to federal support for transgender healthcare for minors" }
-TtaDvpodseo@{ shape: win-pane, label: "_UPDATED Jan 28, 2025, 06:47 PM_
-Trump takes aim at dei, covid-19 expulsions and transgender troops" }
-Upuenasteme@{ shape: win-pane, label: "_UPDATED Jan 26, 2025, 01:01 AM_
-Us stops issuing gender-neutral ‘x’ passports under trump order" }
-Upuenasteme@{ shape: win-pane, label: "_UPDATED Jan 26, 2025, 01:01 AM_
-Us stops issuing gender-neutral ‘x’ passports under trump order" }
-Tuxiwrtnons@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 03:57 PM_
-Trump uses executive power to reinstate anti-abortion pacts" }
-Uronnuahbo@{ shape: win-pane, label: "_UPDATED Jun 25, 2022, 02:46 AM_
-Us supreme court ends constitutional right to abortion" }
-Mpssnrrseiaf@{ shape: win-pane, label: "_UPDATED Nov 06, 2024, 08:58 PM_
-Multiple us states extend abortion rights, while florida measure fails" }
-Tfietesrfanso@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 04:43 PM_
-Trump fires 17 independent inspectors-general at federal agencies, says source" }
-Ddlmlyatocy@{ shape: win-pane, label: "_UPDATED Jan 23, 2025, 11:55 AM_
-Day 2, and donald trump is already reshaping the global economy" }
-Wrmeapeoit@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 02:50 PM_
-What trump’s mass deportation plan means for immigrants" }
-
-UnruSemmtrpece:::txtsize --> Naanorodtueve:::txtsize
-Naanorodtueve:::txtsize --> Ddpondoaiuec:::txtsize
-Ddpondoaiuec:::txtsize --> Biwnstorewfomv:::txtsize
-Ddpondoaiuec:::txtsize --> NGdlalwveule:::txtsize
-Naanorodtueve:::txtsize --> Tosorpfanecoo:::txtsize
-Tosorpfanecoo:::txtsize --> TtaDvpodseo:::txtsize
-Tosorpfanecoo:::txtsize --> Upuenasteme:::txtsize
-UnruSemmtrpece:::txtsize --> Upuenasteme:::txtsize
-Upuenasteme:::txtsize --> Tuxiwrtnons:::txtsize
-Tuxiwrtnons:::txtsize --> Uronnuahbo:::txtsize
-Tuxiwrtnons:::txtsize --> Mpssnrrseiaf:::txtsize
-Upuenasteme:::txtsize --> Tfietesrfanso:::txtsize
-Tfietesrfanso:::txtsize --> Ddlmlyatocy:::txtsize
-Tfietesrfanso:::txtsize --> Wrmeapeoit:::txtsize
-
 ```
-<i>Last updated: 2025-02-22 20:35:38.112463 (GMT+8)</i>
+<i>Last updated: 2025-02-22 20:38:26.395188 (GMT+8)</i>
 <!-- END -->
