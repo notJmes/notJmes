@@ -16,154 +16,109 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tftganeetsu@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 10:05 PM_
-Trump fires top us general in unprecedented pentagon shake-up" }
-TsdniPgfsrra@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 06:03 AM_
-Trump’s team drawing up list of pentagon officers to fire, sources say" }
-Wmkpihatee@{ shape: win-pane, label: "_UPDATED Nov 15, 2024, 12:47 AM_
-‘welcome back’: trump and biden shake hands at white house" }
-TsbchioUdetne@{ shape: win-pane, label: "_UPDATED Nov 07, 2024, 08:12 PM_
-Trump set to be elected 47th president of the united states in stunning comeback" }
-Hrtoessmemt@{ shape: win-pane, label: "_UPDATED Nov 07, 2024, 01:18 AM_
-‘historic return’: world leaders praise trump as he claims victory" }
-PgfctteetiuT@{ shape: win-pane, label: "_UPDATED Nov 06, 2024, 10:45 PM_
-Pm wong reaffirms commitment to strengthening ties with us under trump" }
-Uronnuahbo@{ shape: win-pane, label: "_UPDATED Jun 25, 2022, 02:46 AM_
-Us supreme court ends constitutional right to abortion" }
-SiUiinenWn@{ shape: win-pane, label: "_PUBLISHED Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
-peapubmalrest@{ shape: win-pane, label: "_UPDATED Jan 08, 2021, 02:48 PM_
-4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
-HafdoptdSt@{ shape: win-pane, label: "_UPDATED Jan 07, 2021, 09:44 PM_
-How chaos unfolded as pro-trump mob stormed the us capitol" }
-Rlsloaehujy@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 03:19 PM_
-Republicans complete power takeover with us house majority" }
-TsbchioUdetne@{ shape: win-pane, label: "_UPDATED Nov 07, 2024, 08:12 PM_
-Trump set to be elected 47th president of the united states in stunning comeback" }
-Tddapooipe@{ shape: win-pane, label: "_UPDATED Nov 11, 2024, 11:30 AM_
-Trump demands senate bypass votes to confirm appointees" }
-Uamthnjsrmei@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 06:27 PM_
-Us senate democrats rush to confirm judges before trump takes office" }
-TpfrlooSeot@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 11:55 AM_
-Trump picks former rival marco rubio for us secretary of state" }
-Tpfrccrouadrrtlln@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 09:44 AM_
-Trump picks former democratic congresswoman tulsi gabbard as director of national intelligence" }
-TpfrlooSeot@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 11:55 AM_
-Trump picks former rival marco rubio for us secretary of state" }
-Ttiansaertyr@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 09:16 PM_
-Trump taps firebrand congressman matt gaetz for us attorney-general" }
-Ttiansaertyr@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 09:16 PM_
-Trump taps firebrand congressman matt gaetz for us attorney-general" }
-Ustiaaanoo@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:17 AM_
-Us house ousts kevin mccarthy as speaker in historic vote" }
-Tpfrccrouadrrtlln@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 09:44 AM_
-Trump picks former democratic congresswoman tulsi gabbard as director of national intelligence" }
-TpfrlooSeot@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 11:55 AM_
-Trump picks former rival marco rubio for us secretary of state" }
-Tffwtdirvvcesne@{ shape: win-pane, label: "_UPDATED Jan 22, 2025, 03:55 PM_
-Trump fires first woman to lead a us military service over lack of leadership and more" }
-Liagmeveethihd@{ shape: win-pane, label: "_UPDATED Jan 22, 2025, 03:35 PM_
-Lawsuits challenge trump’s executive orders over birthright citizenship and more" }
-TkeasgoetrsdPdr@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 07:37 PM_
-Tiktok ban delay, pardons, immigration: key executive orders signed by us president trump" }
-TpnrlgtUii@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 12:03 PM_
-Trump pardons nearly all charged with jan 6 us capitol riot" }
-TcioirdsGi@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 11:27 AM_
-Trump curtails protections around diversity, lgbtq rights" }
-TdragnfitirsPd@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 02:23 PM_
-Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
-Aiuoreugdnthnw@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 06:02 PM_
-After inauguration, us president trump signs orders in front of a cheering crowd" }
-TdragnfitirsPd@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 02:23 PM_
-Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
-Tfscedeopslg@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 03:23 PM_
-Trump faces stiff challenges delivering on his promised ‘golden age’" }
-Treeedeooes@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 04:46 PM_
-Trump revokes biden orders, ends federal work-from-home rules" }
-TkeasgoetrsdPdr@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 07:37 PM_
-Tiktok ban delay, pardons, immigration: key executive orders signed by us president trump" }
-TpnrlgtUii@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 12:03 PM_
-Trump pardons nearly all charged with jan 6 us capitol riot" }
-TcioirdsGi@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 11:27 AM_
-Trump curtails protections around diversity, lgbtq rights" }
-TdragnfitirsPd@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 02:23 PM_
-Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
-TkeasgoetrsdPdr@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 07:37 PM_
-Tiktok ban delay, pardons, immigration: key executive orders signed by us president trump" }
-TpnrlgtUii@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 12:03 PM_
-Trump pardons nearly all charged with jan 6 us capitol riot" }
-SiUiinenWn@{ shape: win-pane, label: "_PUBLISHED Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
-Hpdwtmyrr@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 12:44 PM_
-How us presidents wield their mighty power to pardon" }
-TvooddoO@{ shape: win-pane, label: "_UPDATED Dec 09, 2024, 07:11 PM_
-Trump vows to pardon jan 6 defendants on day one" }
-TcioirdsGi@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 11:27 AM_
-Trump curtails protections around diversity, lgbtq rights" }
-Asdmseetiralavtge@{ shape: win-pane, label: "_UPDATED Jan 12, 2025, 01:59 PM_
-Apple’s board recommends shareholders vote against proposal to eliminate diversity programmes" }
-MmsbiiomeTiuo@{ shape: win-pane, label: "_UPDATED Jan 11, 2025, 05:54 PM_
-Meta, amazon scale back diversity programmes ahead of trump inauguration" }
-Tvotgrctiy@{ shape: win-pane, label: "_UPDATED Dec 23, 2024, 11:10 AM_
-Trump vows to ‘stop transgender lunacy’ as a top priority" }
-TdragnfitirsPd@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 02:23 PM_
-Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
-Tpsrmtioutv@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 07:09 PM_
-Trump promises harsh immigration limits on inauguration eve" }
-TttSecaaxhue@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 03:57 AM_
-Trump threatens us trade policy of ‘tariff and tax’ on other countries" }
-TvoatlgrycbUsewos@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 02:09 AM_
-Trump vows to declare ‘national energy emergency’ that could boost us fossil fuels, power projects" }
+Zstygedise@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 09:54 PM_
+Zelensky ‘not ready’ to sign minerals deal with us: source" }
+Uhlygaeca@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 02:44 AM_
+Us pushes zelensky to sign ukraine resources deal" }
+TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
+Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
+Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
+Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
+Zsymnnaberumr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:14 PM_
+Zelensky says trump is in ‘disinformation’ bubble on ukraine, urges ‘more truth’" }
+Zsymnnaberumr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:14 PM_
+Zelensky says trump is in ‘disinformation’ bubble on ukraine, urges ‘more truth’" }
+ZsjUarillyate@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:05 PM_
+Zelensky rejects us demand for $670b in minerals wealth, says aid amounts to less" }
+Feisnthmmrfr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:06 PM_
+France says it does not understand why trump blames ukraine for war" }
+Zsymnnaberumr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:14 PM_
+Zelensky says trump is in ‘disinformation’ bubble on ukraine, urges ‘more truth’" }
+TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
+Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
+Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
+Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
+Usreptwua@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 06:15 PM_
+Us, russia forge ahead on peace talks, without ukraine" }
+Tdskeitly@{ shape: win-pane, label: "_UPDATED Feb 13, 2025, 11:02 AM_
+Trump discusses ukraine war with putin, zelensky" }
+Mrlspdupy@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:12 PM_
+Major risks loom as trump upends us’ russia policy" }
+Zsymnnaberumr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:14 PM_
+Zelensky says trump is in ‘disinformation’ bubble on ukraine, urges ‘more truth’" }
+Mrlspdupy@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:12 PM_
+Major risks loom as trump upends us’ russia policy" }
+Feisnthmmrfr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:06 PM_
+France says it does not understand why trump blames ukraine for war" }
+UnlypSvtiigaUsesu@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 02:28 AM_
+Ukraine’s zelensky postponed saudi visit to avoid giving ‘legitimacy’ to us-russia meeting, say sources" }
+Zsymnnaberumr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:14 PM_
+Zelensky says trump is in ‘disinformation’ bubble on ukraine, urges ‘more truth’" }
+Mrlspdupy@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:12 PM_
+Major risks loom as trump upends us’ russia policy" }
+Feisnthmmrfr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:06 PM_
+France says it does not understand why trump blames ukraine for war" }
+UnlypSvtiigaUsesu@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 02:28 AM_
+Ukraine’s zelensky postponed saudi visit to avoid giving ‘legitimacy’ to us-russia meeting, say sources" }
+Wakroniek@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 08:52 PM_
+What’s at stake as trump sours on ukraine’s zelensky" }
+UnlysSmmrpsdt@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 05:20 AM_
+Ukraine’s zelensky calls for us pragmatism after trump calls him a ‘dictator’" }
+TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
+Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
+Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
+Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
+ZsjUarillyate@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:05 PM_
+Zelensky rejects us demand for $670b in minerals wealth, says aid amounts to less" }
+Uhlygaeca@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 02:44 AM_
+Us pushes zelensky to sign ukraine resources deal" }
+TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
+Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
+ZsjUarillyate@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:05 PM_
+Zelensky rejects us demand for $670b in minerals wealth, says aid amounts to less" }
+Tskeeneanssii@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 08:35 PM_
+Trump says ukraine leaders ‘don’t have any cards’ in talks on russia’s invasion" }
+ZsjUarillyate@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:05 PM_
+Zelensky rejects us demand for $670b in minerals wealth, says aid amounts to less" }
+UprUookeiaso@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 09:59 PM_
+Us proposes rival un resolution on ukraine, pitting it against europe" }
+Uhlygaeca@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 02:44 AM_
+Us pushes zelensky to sign ukraine resources deal" }
 
-Tftganeetsu:::txtsize --> TsdniPgfsrra:::txtsize
-TsdniPgfsrra:::txtsize --> Wmkpihatee:::txtsize
-Wmkpihatee:::txtsize --> TsbchioUdetne:::txtsize
-TsbchioUdetne:::txtsize --> Hrtoessmemt:::txtsize
-TsbchioUdetne:::txtsize --> PgfctteetiuT:::txtsize
-TsbchioUdetne:::txtsize --> Uronnuahbo:::txtsize
-Wmkpihatee:::txtsize --> SiUiinenWn:::txtsize
-SiUiinenWn:::txtsize --> peapubmalrest:::txtsize
-SiUiinenWn:::txtsize --> HafdoptdSt:::txtsize
-Wmkpihatee:::txtsize --> Rlsloaehujy:::txtsize
-Rlsloaehujy:::txtsize --> TsbchioUdetne:::txtsize
-Rlsloaehujy:::txtsize --> Tddapooipe:::txtsize
-Rlsloaehujy:::txtsize --> Uamthnjsrmei:::txtsize
-TsdniPgfsrra:::txtsize --> TpfrlooSeot:::txtsize
-TpfrlooSeot:::txtsize --> Tpfrccrouadrrtlln:::txtsize
-Tpfrccrouadrrtlln:::txtsize --> TpfrlooSeot:::txtsize
-Tpfrccrouadrrtlln:::txtsize --> Ttiansaertyr:::txtsize
-TpfrlooSeot:::txtsize --> Ttiansaertyr:::txtsize
-Ttiansaertyr:::txtsize --> Ustiaaanoo:::txtsize
-Ttiansaertyr:::txtsize --> Tpfrccrouadrrtlln:::txtsize
-Ttiansaertyr:::txtsize --> TpfrlooSeot:::txtsize
-Tftganeetsu:::txtsize --> Tffwtdirvvcesne:::txtsize
-Tffwtdirvvcesne:::txtsize --> Liagmeveethihd:::txtsize
-Liagmeveethihd:::txtsize --> TkeasgoetrsdPdr:::txtsize
-TkeasgoetrsdPdr:::txtsize --> TpnrlgtUii:::txtsize
-TkeasgoetrsdPdr:::txtsize --> TcioirdsGi:::txtsize
-TkeasgoetrsdPdr:::txtsize --> TdragnfitirsPd:::txtsize
-Liagmeveethihd:::txtsize --> Aiuoreugdnthnw:::txtsize
-Aiuoreugdnthnw:::txtsize --> TdragnfitirsPd:::txtsize
-Aiuoreugdnthnw:::txtsize --> Tfscedeopslg:::txtsize
-Aiuoreugdnthnw:::txtsize --> Treeedeooes:::txtsize
-Liagmeveethihd:::txtsize --> TkeasgoetrsdPdr:::txtsize
-TkeasgoetrsdPdr:::txtsize --> TpnrlgtUii:::txtsize
-TkeasgoetrsdPdr:::txtsize --> TcioirdsGi:::txtsize
-TkeasgoetrsdPdr:::txtsize --> TdragnfitirsPd:::txtsize
-Tffwtdirvvcesne:::txtsize --> TkeasgoetrsdPdr:::txtsize
-TkeasgoetrsdPdr:::txtsize --> TpnrlgtUii:::txtsize
-TpnrlgtUii:::txtsize --> SiUiinenWn:::txtsize
-TpnrlgtUii:::txtsize --> Hpdwtmyrr:::txtsize
-TpnrlgtUii:::txtsize --> TvooddoO:::txtsize
-TkeasgoetrsdPdr:::txtsize --> TcioirdsGi:::txtsize
-TcioirdsGi:::txtsize --> Asdmseetiralavtge:::txtsize
-TcioirdsGi:::txtsize --> MmsbiiomeTiuo:::txtsize
-TcioirdsGi:::txtsize --> Tvotgrctiy:::txtsize
-TkeasgoetrsdPdr:::txtsize --> TdragnfitirsPd:::txtsize
-TdragnfitirsPd:::txtsize --> Tpsrmtioutv:::txtsize
-TdragnfitirsPd:::txtsize --> TttSecaaxhue:::txtsize
-TdragnfitirsPd:::txtsize --> TvoatlgrycbUsewos:::txtsize
+Zstygedise:::txtsize --> Uhlygaeca:::txtsize
+Uhlygaeca:::txtsize --> TcUnlytaicioiis:::txtsize
+TcUnlytaicioiis:::txtsize --> Umehtiusrnanii:::txtsize
+TcUnlytaicioiis:::txtsize --> Zsymnnaberumr:::txtsize
+TcUnlytaicioiis:::txtsize --> Zsymnnaberumr:::txtsize
+Uhlygaeca:::txtsize --> ZsjUarillyate:::txtsize
+ZsjUarillyate:::txtsize --> Feisnthmmrfr:::txtsize
+ZsjUarillyate:::txtsize --> Zsymnnaberumr:::txtsize
+Zstygedise:::txtsize --> TcUnlytaicioiis:::txtsize
+TcUnlytaicioiis:::txtsize --> Umehtiusrnanii:::txtsize
+Umehtiusrnanii:::txtsize --> Usreptwua:::txtsize
+Umehtiusrnanii:::txtsize --> Tdskeitly:::txtsize
+Umehtiusrnanii:::txtsize --> Mrlspdupy:::txtsize
+TcUnlytaicioiis:::txtsize --> Zsymnnaberumr:::txtsize
+Zsymnnaberumr:::txtsize --> Mrlspdupy:::txtsize
+Zsymnnaberumr:::txtsize --> Feisnthmmrfr:::txtsize
+Zsymnnaberumr:::txtsize --> UnlypSvtiigaUsesu:::txtsize
+TcUnlytaicioiis:::txtsize --> Zsymnnaberumr:::txtsize
+Zsymnnaberumr:::txtsize --> Mrlspdupy:::txtsize
+Zsymnnaberumr:::txtsize --> Feisnthmmrfr:::txtsize
+Zsymnnaberumr:::txtsize --> UnlypSvtiigaUsesu:::txtsize
+Zstygedise:::txtsize --> Wakroniek:::txtsize
+Wakroniek:::txtsize --> UnlysSmmrpsdt:::txtsize
+UnlysSmmrpsdt:::txtsize --> TcUnlytaicioiis:::txtsize
+UnlysSmmrpsdt:::txtsize --> Umehtiusrnanii:::txtsize
+UnlysSmmrpsdt:::txtsize --> ZsjUarillyate:::txtsize
+Wakroniek:::txtsize --> Uhlygaeca:::txtsize
+Uhlygaeca:::txtsize --> TcUnlytaicioiis:::txtsize
+Uhlygaeca:::txtsize --> ZsjUarillyate:::txtsize
+Wakroniek:::txtsize --> Tskeeneanssii:::txtsize
+Tskeeneanssii:::txtsize --> ZsjUarillyate:::txtsize
+Tskeeneanssii:::txtsize --> UprUookeiaso:::txtsize
+Tskeeneanssii:::txtsize --> Uhlygaeca:::txtsize
 
 ```
-<i>Last updated: 2025-02-22 22:07:33.611012 (GMT+8)</i>
+<i>Last updated: 2025-02-22 22:08:25.082310 (GMT+8)</i>
 <!-- END -->
