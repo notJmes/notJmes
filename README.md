@@ -12,7 +12,7 @@
 
 <!-- START -->
 ```mermaid
-Graph(title='Flowchart', script='%%{init: {\'theme\':\'base\', "flowchart": {"htmlLabels": false}, \'themeVariables\': {\'primaryColor\': "transparent", \'primaryTextColor\': "#F9F9F9", \'lineColor\': "#20C20E", \'primaryBorderColor\':\'#20C20E\'}}}%%
+%%{init: {'theme':'base', "flowchart": {"htmlLabels": false}, 'themeVariables': {'primaryColor': "transparent", 'primaryTextColor': "#F9F9F9", 'lineColor': "#20C20E", 'primaryBorderColor':'#20C20E'}}}%%
 flowchart LR
 Tftganeetsu@{ shape: win-pane, label: "<i>UPDATED Feb 22, 2025, 12:22 PM</i>
 Trump fires top us general in unprecedented pentagon shake-up" }
@@ -71,7 +71,7 @@ GnitsnnCeSznfen@{ shape: win-pane, label: "<i>UPDATED Dec 17, 2024, 09:38 PM</i>
 German parliament votes no confidence in chancellor scholz, paving way for election" }
 classDef txtsize font-size:20px;
 Tiwitnifd@{ shape: win-pane, label: "<i>PUBLISHED Feb 25, 2022, 08:15 AM</i>
-Timeline: how russia\'s attack on ukraine unfolded" }
+Timeline: how russia's attack on ukraine unfolded" }
 classDef txtsize font-size:20px;
 Gnnlueoets@{ shape: win-pane, label: "<i>UPDATED Dec 16, 2024, 07:47 AM</i>
 Germany is unraveling just when europe needs it the most" }
@@ -160,7 +160,7 @@ Tuxiwrtnons:::txtsize --> Mpssnrrseiaf:::txtsize
 Upuenasteme:::txtsize --> Tfietesrfanso:::txtsize
 Tfietesrfanso:::txtsize --> Ddlmlyatocy:::txtsize
 Tfietesrfanso:::txtsize --> Wrmeapeoit:::txtsize
-', config=None)
+
 ```
-<i>Last updated: 2025-02-22 19:05:03.171353 (GMT+8)</i>
+<i>Last updated: 2025-02-22 19:06:37.625807 (GMT+8)</i>
 <!-- END -->
