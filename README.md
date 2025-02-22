@@ -13,7 +13,7 @@
 <!-- START -->
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': {'primaryColor': "transparent", 'primaryTextColor': "#F9F9F9", 'lineColor': "#20C20E", 'primaryBorderColor':'#20C20E'}}}%%
-flowchart TD
+flowchart LR
 classDef txtsize font-size:20px;
 
 Tftganeetsu@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 08:27 PM_
@@ -284,5 +284,5 @@ TcioirdsGi:::txtsize --> MmsbiiomeTiuo:::txtsize
 TcioirdsGi:::txtsize --> Tvotgrctiy:::txtsize
 
 ```
-<i>Last updated: 2025-02-22 21:53:24.051685 (GMT+8)</i>
+<i>Last updated: 2025-02-22 21:55:22.678071 (GMT+8)</i>
 <!-- END -->
