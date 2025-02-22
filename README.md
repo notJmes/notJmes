@@ -71,7 +71,7 @@ TkeasgoetrsdPdr:::txtsize --> TpnrlgtUii:::txtsize
 TkeasgoetrsdPdr:::txtsize --> TcioirdsGi:::txtsize
 TkeasgoetrsdPdr:::txtsize --> TdragnfitirsPd:::txtsize
 
-Gnuoeraifrn@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 06:22 PM_
+Gnuoeraifrn@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 09:14 PM_
 Germany’s youth grow more polarised amid rising frustration" }
 Gnfioiigsaoc@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 06:09 PM_
 Germany set for tricky coalition building, poll shows ahead of election" }
@@ -168,6 +168,121 @@ Usarithrlop:::txtsize --> GnrtanpgMut:::txtsize
 Usarithrlop:::txtsize --> VtEeosirdde:::txtsize
 Usarithrlop:::txtsize --> AfogyaecfgDy:::txtsize
 
+UnruSemmtrpece@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 10:45 AM_
+Us trans actress hunter schafer slams trump gov’t after passport gender change" }
+Naanorodtueve@{ shape: win-pane, label: "_UPDATED Feb 07, 2025, 10:03 PM_
+Ncaa bans transgender women from sports a day after trump executive order" }
+Ddpondoaiuec@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 07:51 PM_
+Donald trump’s ban on transgender sports may be difficult to enforce" }
+Biwnstorewfomv@{ shape: win-pane, label: "_UPDATED Dec 13, 2024, 12:33 AM_
+Britain’s lawn tennis association to ban transgender women from some female events" }
+NGdlalwveule@{ shape: win-pane, label: "_UPDATED Dec 05, 2024, 08:20 PM_
+New lpga gender policy bars golfers who have gone through male puberty" }
+Toscobeofocbs@{ shape: win-pane, label: "_UPDATED Jan 30, 2025, 09:00 AM_
+Trump orders agencies to scrub 'gender ideology' from contracts, websites" }
+Tosorpfanecoo@{ shape: win-pane, label: "_UPDATED Jan 29, 2025, 10:22 AM_
+Trump orders end to federal support for transgender healthcare for minors" }
+TtaDvpodseo@{ shape: win-pane, label: "_UPDATED Jan 28, 2025, 06:47 PM_
+Trump takes aim at dei, covid-19 expulsions and transgender troops" }
+Upuenasteme@{ shape: win-pane, label: "_UPDATED Jan 26, 2025, 01:01 AM_
+Us stops issuing gender-neutral ‘x’ passports under trump order" }
+Ddpondoaiuec@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 07:51 PM_
+Donald trump’s ban on transgender sports may be difficult to enforce" }
+Biwnstorewfomv@{ shape: win-pane, label: "_UPDATED Dec 13, 2024, 12:33 AM_
+Britain’s lawn tennis association to ban transgender women from some female events" }
+NGdlalwveule@{ shape: win-pane, label: "_UPDATED Dec 05, 2024, 08:20 PM_
+New lpga gender policy bars golfers who have gone through male puberty" }
+Toscobeofocbs@{ shape: win-pane, label: "_UPDATED Jan 30, 2025, 09:00 AM_
+Trump orders agencies to scrub 'gender ideology' from contracts, websites" }
+Upuenasteme@{ shape: win-pane, label: "_UPDATED Jan 26, 2025, 01:01 AM_
+Us stops issuing gender-neutral ‘x’ passports under trump order" }
+Tuxiwrtnons@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 03:57 PM_
+Trump uses executive power to reinstate anti-abortion pacts" }
+Uronnuahbo@{ shape: win-pane, label: "_UPDATED Jun 25, 2022, 02:46 AM_
+Us supreme court ends constitutional right to abortion" }
+Mpssnrrseiaf@{ shape: win-pane, label: "_UPDATED Nov 06, 2024, 08:58 PM_
+Multiple us states extend abortion rights, while florida measure fails" }
+Uadrtaaeiap@{ shape: win-pane, label: "_UPDATED Sep 17, 2024, 09:38 PM_
+Us woman died after abortion ban delayed her medical care: report" }
+Tfietesrfanso@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 04:43 PM_
+Trump fires 17 independent inspectors-general at federal agencies, says source" }
+Ddlmlyatocy@{ shape: win-pane, label: "_UPDATED Jan 23, 2025, 11:55 AM_
+Day 2, and donald trump is already reshaping the global economy" }
+Wrmeapeoit@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 02:50 PM_
+What trump’s mass deportation plan means for immigrants" }
+MocnrsUiftrmn@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 07:35 PM_
+Mexico rejects landing request for us military flight deporting migrants" }
+Taitalmacefa@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 06:29 PM_
+Trump administration says ‘gulf of america’ name change now official" }
+AmlGfiesw@{ shape: win-pane, label: "_UPDATED Jan 23, 2025, 07:56 PM_
+As trump declares gulf of america, us enters name wars" }
+YunmGfctor@{ shape: win-pane, label: "_UPDATED Jan 24, 2025, 05:53 AM_
+Yes, trump can rename the gulf of mexico – just not for everyone" }
+Tmocimdieprrafa@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 04:16 PM_
+Trump mulls over scrapping fema, pledges disaster help to north carolina, california" }
+Tastioicn@{ shape: win-pane, label: "_UPDATED Feb 16, 2025, 11:41 AM_
+Trump and his deputies wield power with ‘macho’ hand" }
+Ueeagspusesp@{ shape: win-pane, label: "_UPDATED Feb 15, 2025, 08:12 PM_
+Us defence secretary hegseth’s europe debut irks allies, wins trump’s nod" }
+UehehUnnpetbroep@{ shape: win-pane, label: "_UPDATED Feb 13, 2025, 01:11 PM_
+Us defence chief hegseth says ukraine cannot expect return to old borders, nato membership" }
+Maeatas@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 02:21 AM_
+'make nato great again', us tells allies" }
+Ttaoerkeo@{ shape: win-pane, label: "_UPDATED Feb 15, 2025, 02:32 PM_
+Trump team makes confused start to ukraine diplomacy" }
+Pgbanefogtagrsnes@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 03:15 PM_
+Pentagon to ban transgender people from joining military, pauses gender transition procedures" }
+Whnoretrnserrpn@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 05:45 PM_
+What challenges could trump’s executive order on transgender sports participation face?" }
+Tosorpfanecoo@{ shape: win-pane, label: "_UPDATED Jan 29, 2025, 10:22 AM_
+Trump orders end to federal support for transgender healthcare for minors" }
+TcioirdsGi@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 11:27 AM_
+Trump curtails protections around diversity, lgbtq rights" }
+Asdmseetiralavtge@{ shape: win-pane, label: "_UPDATED Jan 12, 2025, 01:59 PM_
+Apple’s board recommends shareholders vote against proposal to eliminate diversity programmes" }
+MmsbiiomeTiuo@{ shape: win-pane, label: "_UPDATED Jan 11, 2025, 05:54 PM_
+Meta, amazon scale back diversity programmes ahead of trump inauguration" }
+Tvotgrctiy@{ shape: win-pane, label: "_UPDATED Dec 23, 2024, 11:10 AM_
+Trump vows to ‘stop transgender lunacy’ as a top priority" }
+
+UnruSemmtrpece:::txtsize --> Naanorodtueve:::txtsize
+Naanorodtueve:::txtsize --> Ddpondoaiuec:::txtsize
+Ddpondoaiuec:::txtsize --> Biwnstorewfomv:::txtsize
+Ddpondoaiuec:::txtsize --> NGdlalwveule:::txtsize
+Ddpondoaiuec:::txtsize --> Toscobeofocbs:::txtsize
+Naanorodtueve:::txtsize --> Tosorpfanecoo:::txtsize
+Tosorpfanecoo:::txtsize --> TtaDvpodseo:::txtsize
+Tosorpfanecoo:::txtsize --> Upuenasteme:::txtsize
+Naanorodtueve:::txtsize --> Ddpondoaiuec:::txtsize
+Ddpondoaiuec:::txtsize --> Biwnstorewfomv:::txtsize
+Ddpondoaiuec:::txtsize --> NGdlalwveule:::txtsize
+Ddpondoaiuec:::txtsize --> Toscobeofocbs:::txtsize
+UnruSemmtrpece:::txtsize --> Upuenasteme:::txtsize
+Upuenasteme:::txtsize --> Tuxiwrtnons:::txtsize
+Tuxiwrtnons:::txtsize --> Uronnuahbo:::txtsize
+Tuxiwrtnons:::txtsize --> Mpssnrrseiaf:::txtsize
+Tuxiwrtnons:::txtsize --> Uadrtaaeiap:::txtsize
+Upuenasteme:::txtsize --> Tfietesrfanso:::txtsize
+Tfietesrfanso:::txtsize --> Ddlmlyatocy:::txtsize
+Tfietesrfanso:::txtsize --> Wrmeapeoit:::txtsize
+Tfietesrfanso:::txtsize --> MocnrsUiftrmn:::txtsize
+Upuenasteme:::txtsize --> Taitalmacefa:::txtsize
+Taitalmacefa:::txtsize --> AmlGfiesw:::txtsize
+Taitalmacefa:::txtsize --> YunmGfctor:::txtsize
+Taitalmacefa:::txtsize --> Tmocimdieprrafa:::txtsize
+UnruSemmtrpece:::txtsize --> Tastioicn:::txtsize
+Tastioicn:::txtsize --> Ueeagspusesp:::txtsize
+Ueeagspusesp:::txtsize --> UehehUnnpetbroep:::txtsize
+Ueeagspusesp:::txtsize --> Maeatas:::txtsize
+Ueeagspusesp:::txtsize --> Ttaoerkeo:::txtsize
+Tastioicn:::txtsize --> Pgbanefogtagrsnes:::txtsize
+Pgbanefogtagrsnes:::txtsize --> Whnoretrnserrpn:::txtsize
+Pgbanefogtagrsnes:::txtsize --> Tosorpfanecoo:::txtsize
+Tastioicn:::txtsize --> TcioirdsGi:::txtsize
+TcioirdsGi:::txtsize --> Asdmseetiralavtge:::txtsize
+TcioirdsGi:::txtsize --> MmsbiiomeTiuo:::txtsize
+TcioirdsGi:::txtsize --> Tvotgrctiy:::txtsize
+
 ```
-<i>Last updated: 2025-02-22 21:02:00.477034 (GMT+8)</i>
+<i>Last updated: 2025-02-22 21:53:24.051685 (GMT+8)</i>
 <!-- END -->
