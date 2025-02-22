@@ -17,26 +17,19 @@ flowchart LR
 classDef txtsize font-size:20px;
 
 Tftganeetsu@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 07:45 PM_
-Trump fires top us general in unprecedented pentagon shake-up
-https://www.straitstimes.com/world/united-states/trump-shakes-up-pentagon-firing-top-general-nominating-retired-three-star" }
+Trump fires top us general in unprecedented pentagon shake-up" }
 TsdniPgfsrra@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 06:03 AM_
-Trump’s team drawing up list of pentagon officers to fire, sources say
-https://www.straitstimes.com/world/united-states/trumps-team-drawing-up-list-of-pentagon-officers-to-fire-sources-say" }
+Trump’s team drawing up list of pentagon officers to fire, sources say" }
 Wmkpihatee@{ shape: win-pane, label: "_UPDATED Nov 15, 2024, 12:47 AM_
-‘welcome back’: trump and biden shake hands at white house
-https://www.straitstimes.com/world/united-states/trump-says-transition-will-be-as-smooth-as-you-can-get-in-historic-white-house-return" }
+‘welcome back’: trump and biden shake hands at white house" }
 TsbchioUdetne@{ shape: win-pane, label: "_UPDATED Nov 07, 2024, 08:12 PM_
-Trump set to be elected 47th president of the united states in stunning comeback
-https://www.straitstimes.com/world/united-states/as-polls-close-americas-long-night-begins-at-two-historic-venues" }
+Trump set to be elected 47th president of the united states in stunning comeback" }
 SiUiinenWn@{ shape: win-pane, label: "_PUBLISHED Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington
-https://www.straitstimes.com/world/united-states/the-storming-of-the-us-capitol-timeline-of-key-events?_gl=1%2A62nmbz%2A_gcl_au%2AMTQxNzk3ODE4MS4xNzI3MzAwMzUw" }
+Storming of us capitol: timeline of key events in washington" }
 TpfrlooSeot@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 11:55 AM_
-Trump picks former rival marco rubio for us secretary of state
-https://www.straitstimes.com/world/united-states/china-hawk-marco-rubio-gets-trump-nod-for-us-secretary-of-state" }
+Trump picks former rival marco rubio for us secretary of state" }
 Tpfrccrouadrrtlln@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 09:44 AM_
-Trump picks former democratic congresswoman tulsi gabbard as director of national intelligence
-https://www.straitstimes.com/world/united-states/trump-picks-former-democratic-congresswoman-gabbard-as-director-of-national-intelligence" }
+Trump picks former democratic congresswoman tulsi gabbard as director of national intelligence" }
 
 Tftganeetsu:::txtsize --> TsdniPgfsrra:::txtsize
 TsdniPgfsrra:::txtsize --> Wmkpihatee:::txtsize
@@ -46,47 +39,33 @@ TsdniPgfsrra:::txtsize --> TpfrlooSeot:::txtsize
 TpfrlooSeot:::txtsize --> Tpfrccrouadrrtlln:::txtsize
 
 Gnuoeraifrn@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 06:22 PM_
-Germany’s youth grow more polarised amid rising frustration
-https://www.straitstimes.com/world/europe/germanys-youth-is-even-more-polarised-than-the-rest-of-voters" }
+Germany’s youth grow more polarised amid rising frustration" }
 Gnfioiigsaoc@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 06:09 PM_
-Germany set for tricky coalition building, poll shows ahead of election
-https://www.straitstimes.com/world/europe/german-set-for-tricky-coalition-building-poll-shows-ahead-of-election" }
+Germany set for tricky coalition building, poll shows ahead of election" }
 Gneptslaom@{ shape: win-pane, label: "_UPDATED Nov 07, 2024, 11:42 AM_
-Germany faces snap election as scholz’s coalition crumbles
-https://www.straitstimes.com/world/europe/germanys-scholz-sacks-finance-minister-leaving-governments-future-unclear1" }
+Germany faces snap election as scholz’s coalition crumbles" }
 TocalEoaipvngs@{ shape: win-pane, label: "_UPDATED Nov 07, 2024, 08:14 PM_
-Trump on track for a triple win: electoral landslide, popular vote and congress sweep
-https://www.straitstimes.com/world/united-states/trump-on-track-for-a-triple-win-electoral-landslide-popular-vote-and-congress-sweep" }
+Trump on track for a triple win: electoral landslide, popular vote and congress sweep" }
 Gneptslaom@{ shape: win-pane, label: "_UPDATED Nov 07, 2024, 11:42 AM_
-Germany faces snap election as scholz’s coalition crumbles
-https://www.straitstimes.com/world/europe/germanys-scholz-sacks-finance-minister-leaving-governments-future-unclear1" }
+Germany faces snap election as scholz’s coalition crumbles" }
 Gnnunnattlo@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 12:07 AM_
-Germany warns of russian disinformation targeting election
-https://www.straitstimes.com/world/europe/germany-warns-of-russian-disinformation-targeting-election" }
+Germany warns of russian disinformation targeting election" }
 Gnfioiigsaoc@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 06:09 PM_
-Germany set for tricky coalition building, poll shows ahead of election
-https://www.straitstimes.com/world/europe/german-set-for-tricky-coalition-building-poll-shows-ahead-of-election" }
+Germany set for tricky coalition building, poll shows ahead of election" }
 Peeareaondu@{ shape: win-pane, label: "_UPDATED Dec 17, 2024, 11:27 PM_
-Parties unveil plans to rescue germany from economic doldrums
-https://www.straitstimes.com/world/europe/parties-unveil-plans-to-rescue-germany-from-economic-doldrums" }
+Parties unveil plans to rescue germany from economic doldrums" }
 GnitsnnCeSznfen@{ shape: win-pane, label: "_UPDATED Dec 17, 2024, 09:38 PM_
-German parliament votes no confidence in chancellor scholz, paving way for election
-https://www.straitstimes.com/world/europe/german-parliament-votes-no-confidence-in-chancellor-scholz-paving-way-for-election" }
+German parliament votes no confidence in chancellor scholz, paving way for election" }
 Tiwitnifd@{ shape: win-pane, label: "_PUBLISHED Feb 25, 2022, 08:15 AM_
-Timeline: how russia's attack on ukraine unfolded
-https://www.straitstimes.com/world/timeline-how-russias-attack-on-ukraine-unfolded" }
+Timeline: how russia's attack on ukraine unfolded" }
 Gnnlueoets@{ shape: win-pane, label: "_UPDATED Dec 16, 2024, 07:47 AM_
-Germany is unraveling just when europe needs it the most
-https://www.straitstimes.com/business/economy/germany-unraveling-just-when-europe-needs-it-the-most" }
+Germany is unraveling just when europe needs it the most" }
 Freerliporsce@{ shape: win-pane, label: "_UPDATED Dec 12, 2024, 05:59 AM_
-Friedrich merz, the veteran politician tipped to be germany’s next chancellor
-https://www.straitstimes.com/world/europe/friedrich-merz-the-veteran-politician-tipped-to-be-germanys-next-chancellor" }
+Friedrich merz, the veteran politician tipped to be germany’s next chancellor" }
 Gnhifcoslo@{ shape: win-pane, label: "_UPDATED Dec 12, 2024, 01:04 AM_
-Germany’s scholz kicks off process towards feb 23 elections
-https://www.straitstimes.com/world/europe/germanys-scholz-kicks-off-process-towards-feb-23-elections" }
+Germany’s scholz kicks off process towards feb 23 elections" }
 Gnunrhpis@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 06:04 AM_
-Germany struggling to break the grip of twin crises
-https://www.straitstimes.com/opinion/germany-struggling-to-break-the-grip-of-twin-crises" }
+Germany struggling to break the grip of twin crises" }
 
 Gnuoeraifrn:::txtsize --> Gnfioiigsaoc:::txtsize
 Gnfioiigsaoc:::txtsize --> Gneptslaom:::txtsize
@@ -103,50 +82,35 @@ Freerliporsce:::txtsize --> Gnhifcoslo:::txtsize
 Freerliporsce:::txtsize --> Gnunrhpis:::txtsize
 
 UnruSemmtrpece@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 10:45 AM_
-Us trans actress hunter schafer slams trump gov’t after passport gender change
-https://www.straitstimes.com/world/united-states/us-trans-actress-hunter-schafer-slams-trump-govt-after-passport-gender-change" }
+Us trans actress hunter schafer slams trump gov’t after passport gender change" }
 Naanorodtueve@{ shape: win-pane, label: "_UPDATED Feb 07, 2025, 10:03 PM_
-Ncaa bans transgender women from sports a day after trump executive order
-https://www.straitstimes.com/sport/ncaa-bans-transgender-women-from-sports-a-day-after-trump-executive-order" }
+Ncaa bans transgender women from sports a day after trump executive order" }
 Ddpondoaiuec@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 07:51 PM_
-Donald trump’s ban on transgender sports may be difficult to enforce
-https://www.straitstimes.com/sport/trump-signs-order-banning-transgender-females-from-womens-sports" }
+Donald trump’s ban on transgender sports may be difficult to enforce" }
 Biwnstorewfomv@{ shape: win-pane, label: "_UPDATED Dec 13, 2024, 12:33 AM_
-Britain’s lawn tennis association to ban transgender women from some female events
-https://www.straitstimes.com/sport/tennis/britains-lta-to-ban-transgender-women-from-some-female-events" }
+Britain’s lawn tennis association to ban transgender women from some female events" }
 NGdlalwveule@{ shape: win-pane, label: "_UPDATED Dec 05, 2024, 08:20 PM_
-New lpga gender policy bars golfers who have gone through male puberty
-https://www.straitstimes.com/sport/golf/new-lpga-gender-policy-bars-players-who-have-gone-through-male-puberty" }
+New lpga gender policy bars golfers who have gone through male puberty" }
 Tosorpfanecoo@{ shape: win-pane, label: "_UPDATED Jan 29, 2025, 10:22 AM_
-Trump orders end to federal support for transgender healthcare for minors
-https://www.straitstimes.com/world/united-states/trump-orders-end-to-federal-support-for-transgender-healthcare-for-minors" }
+Trump orders end to federal support for transgender healthcare for minors" }
 TtaDvpodseo@{ shape: win-pane, label: "_UPDATED Jan 28, 2025, 06:47 PM_
-Trump takes aim at dei, covid-19 expulsions and transgender troops
-https://www.straitstimes.com/world/united-states/trump-says-will-sign-order-to-get-transgender-ideology-out-of-military" }
+Trump takes aim at dei, covid-19 expulsions and transgender troops" }
 Upuenasteme@{ shape: win-pane, label: "_UPDATED Jan 26, 2025, 01:01 AM_
-Us stops issuing gender-neutral ‘x’ passports under trump order
-https://www.straitstimes.com/world/united-states/us-stops-issuing-gender-neutral-x-passports-under-trump-order" }
+Us stops issuing gender-neutral ‘x’ passports under trump order" }
 Upuenasteme@{ shape: win-pane, label: "_UPDATED Jan 26, 2025, 01:01 AM_
-Us stops issuing gender-neutral ‘x’ passports under trump order
-https://www.straitstimes.com/world/united-states/us-stops-issuing-gender-neutral-x-passports-under-trump-order" }
+Us stops issuing gender-neutral ‘x’ passports under trump order" }
 Tuxiwrtnons@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 03:57 PM_
-Trump uses executive power to reinstate anti-abortion pacts
-https://www.straitstimes.com/world/united-states/us-rejoining-international-anti-abortion-pact" }
+Trump uses executive power to reinstate anti-abortion pacts" }
 Uronnuahbo@{ shape: win-pane, label: "_UPDATED Jun 25, 2022, 02:46 AM_
-Us supreme court ends constitutional right to abortion
-https://www.straitstimes.com/world/united-states/us-supreme-court-ends-constitutional-right-to-abortion" }
+Us supreme court ends constitutional right to abortion" }
 Mpssnrrseiaf@{ shape: win-pane, label: "_UPDATED Nov 06, 2024, 08:58 PM_
-Multiple us states extend abortion rights, while florida measure fails
-https://www.straitstimes.com/world/united-states/multiple-us-states-extend-abortion-rights-while-florida-measure-fails" }
+Multiple us states extend abortion rights, while florida measure fails" }
 Tfietesrfanso@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 04:43 PM_
-Trump fires 17 independent inspectors-general at federal agencies, says source
-https://www.straitstimes.com/world/united-states/trump-fires-at-least-12-independent-inspectors-general-us-media-say" }
+Trump fires 17 independent inspectors-general at federal agencies, says source" }
 Ddlmlyatocy@{ shape: win-pane, label: "_UPDATED Jan 23, 2025, 11:55 AM_
-Day 2, and donald trump is already reshaping the global economy
-https://www.straitstimes.com/world/day-2-and-donald-trump-is-already-reshaping-the-global-economy" }
+Day 2, and donald trump is already reshaping the global economy" }
 Wrmeapeoit@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 02:50 PM_
-What trump’s mass deportation plan means for immigrants
-https://www.straitstimes.com/world/united-states/what-trumps-mass-deportation-plan-means-for-immigrants" }
+What trump’s mass deportation plan means for immigrants" }
 
 UnruSemmtrpece:::txtsize --> Naanorodtueve:::txtsize
 Naanorodtueve:::txtsize --> Ddpondoaiuec:::txtsize
@@ -164,5 +128,5 @@ Tfietesrfanso:::txtsize --> Ddlmlyatocy:::txtsize
 Tfietesrfanso:::txtsize --> Wrmeapeoit:::txtsize
 
 ```
-<i>Last updated: 2025-02-22 20:16:05.872493 (GMT+8)</i>
+<i>Last updated: 2025-02-22 20:16:41.733753 (GMT+8)</i>
 <!-- END -->
