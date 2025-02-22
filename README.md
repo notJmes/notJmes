@@ -13,10 +13,10 @@
 <!-- START -->
 ```mermaid
 %%{init: {'theme':'base', 'themeVariables': {'primaryColor': "transparent", 'primaryTextColor': "#F9F9F9", 'lineColor': "#20C20E", 'primaryBorderColor':'#20C20E'}}}%%
-flowchart LR
+flowchart TD
 classDef txtsize font-size:20px;
 
-Tftganeetsu@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 07:45 PM_
+Tftganeetsu@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 08:27 PM_
 Trump fires top us general in unprecedented pentagon shake-up" }
 TsdniPgfsrra@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 06:03 AM_
 Trump’s team drawing up list of pentagon officers to fire, sources say" }
@@ -128,5 +128,5 @@ Tfietesrfanso:::txtsize --> Ddlmlyatocy:::txtsize
 Tfietesrfanso:::txtsize --> Wrmeapeoit:::txtsize
 
 ```
-<i>Last updated: 2025-02-22 20:27:11.260345 (GMT+8)</i>
+<i>Last updated: 2025-02-22 20:35:38.112463 (GMT+8)</i>
 <!-- END -->
