@@ -16,132 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-HfhgGfoSBrn@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 11:01 PM_
-Hamas frees 6 hostages in gaza after body of shiri bibas returned" }
-IlaoiraaslfSBd@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 07:42 PM_
-Israel prepares to receive 6 more gaza hostages as family confirms shiri bibas’ death" }
-Fyihieshgsseod@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 02:38 PM_
-Family confirms shiri bibas’ death as gaza hostage-prisoner swop set to go ahead" }
-Ileayalornohgra@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 04:20 PM_
-Israeli pm netanyahu says hamas will pay for not returning body of hostage shiri bibas" }
-Hseoasscauao@{ shape: win-pane, label: "_UPDATED Feb 20, 2025, 01:50 AM_
-Hamas says ready to free all hostages at once in gaza truce phase two" }
-IlggtooaGeiaodanr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 08:31 PM_
-Israel to begin negotiations on second phase of gaza ceasefire deal in coming days, says minister" }
-Hmdulnrecsud@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:01 AM_
-How hamas’ audacious, well-planned surprise attack on israel unfolded" }
-HohaarGscmn@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 09:14 PM_
-‘hell worse than what we have already?’ gazans reject trump plans" }
-Ilseitrspno@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 11:57 PM_
-Israel-hamas truce holding after first hostage-prisoner swop" }
-Csegrshhgt@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 04:31 PM_
-Cheers and weeping as israelis watch gaza hostages return" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Hhoisianeia@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 06:27 PM_
-Hamas hands over first israeli hostages under ceasefire deal" }
-Hfhgreeeiiraei@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 02:03 PM_
-Hamas frees hostages, israel releases palestinian prisoners on day 1 of ceasefire" }
-Daahorssrseaci@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 12:34 AM_
-Displaced gazans head home, first hostages are freed as israel-hamas truce begins" }
-Csegrshhgt@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 04:31 PM_
-Cheers and weeping as israelis watch gaza hostages return" }
+TostrCsenkc@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 12:12 AM_
+Trump orders tighter curbs on chinese investments in key sectors" }
+Unnlrsionia@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 09:59 AM_
+Us, china economic leaders raise ‘serious concerns’ in first call" }
+Tsendlseins@{ shape: win-pane, label: "_UPDATED Feb 20, 2025, 02:56 PM_
+Trump says new china trade deal is ‘possible’ despite tensions" }
+Tlharsiroinnn@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 10:59 PM_
+Trump launches trade war with sweeping tariffs on mexico, canada and china" }
+Tetimeenuine@{ shape: win-pane, label: "_UPDATED Feb 20, 2025, 07:40 PM_
+Trump expects visit from chinese president xi, but no timeline given" }
+Tetimeenuine@{ shape: win-pane, label: "_UPDATED Feb 20, 2025, 07:40 PM_
+Trump expects visit from chinese president xi, but no timeline given" }
+TsehXetnoi@{ shape: win-pane, label: "_UPDATED Jan 06, 2025, 11:18 PM_
+Trump says he and china’s xi have been talking through aides" }
+Tsendlseins@{ shape: win-pane, label: "_UPDATED Feb 20, 2025, 02:56 PM_
+Trump says new china trade deal is ‘possible’ despite tensions" }
 
-HfhgGfoSBrn:::txtsize --> IlaoiraaslfSBd:::txtsize
-IlaoiraaslfSBd:::txtsize --> Fyihieshgsseod:::txtsize
-Fyihieshgsseod:::txtsize --> Ileayalornohgra:::txtsize
-Fyihieshgsseod:::txtsize --> Hseoasscauao:::txtsize
-IlaoiraaslfSBd:::txtsize --> IlggtooaGeiaodanr:::txtsize
-IlggtooaGeiaodanr:::txtsize --> Hmdulnrecsud:::txtsize
-IlggtooaGeiaodanr:::txtsize --> HohaarGscmn:::txtsize
-HfhgGfoSBrn:::txtsize --> Ilseitrspno:::txtsize
-Ilseitrspno:::txtsize --> Csegrshhgt:::txtsize
-Csegrshhgt:::txtsize --> NyeeawHakl:::txtsize
-Csegrshhgt:::txtsize --> Hhoisianeia:::txtsize
-Ilseitrspno:::txtsize --> Hfhgreeeiiraei:::txtsize
-Hfhgreeeiiraei:::txtsize --> Daahorssrseaci:::txtsize
-Hfhgreeeiiraei:::txtsize --> Csegrshhgt:::txtsize
+TostrCsenkc:::txtsize --> Unnlrsionia:::txtsize
+Unnlrsionia:::txtsize --> Tsendlseins:::txtsize
+Tsendlseins:::txtsize --> Tlharsiroinnn:::txtsize
+Tsendlseins:::txtsize --> Tetimeenuine:::txtsize
+Unnlrsionia:::txtsize --> Tetimeenuine:::txtsize
+Tetimeenuine:::txtsize --> TsehXetnoi:::txtsize
+Tetimeenuine:::txtsize --> Tsendlseins:::txtsize
 
-Dnauiloudlt@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 12:07 AM_
-Dancing in damascus: syrians cling to culture under islamist rule" }
-Taessfgsha@{ shape: win-pane, label: "_PUBLISHED Sep 10, 2021, 12:08 PM_
-Taliban takeover sparks fear for afghanistan's heritage" }
-Sntuetal@{ shape: win-pane, label: "_PUBLISHED Mar 09, 2021, 11:29 AM_
-Syrian heritage suffered 'cultural apocalypse'" }
-GhrheTastfdht@{ shape: win-pane, label: "_PUBLISHED Mar 09, 2021, 11:13 AM_
-Gap in history: afghans recall taleban's destruction of famed buddha statues" }
-GhrheTastfdht@{ shape: win-pane, label: "_PUBLISHED Mar 09, 2021, 11:13 AM_
-Gap in history: afghans recall taleban's destruction of famed buddha statues" }
-Wsunatysdh@{ shape: win-pane, label: "_UPDATED Dec 09, 2024, 11:56 PM_
-With assad ousted, new era starts in syria as world watches" }
-SsdsflgtlisRati@{ shape: win-pane, label: "_UPDATED Dec 09, 2024, 09:57 AM_
-Syria’s assad in moscow after fleeing country, will be given asylum: russian state media" }
-SnltiARahtoy@{ shape: win-pane, label: "_UPDATED Dec 08, 2024, 11:38 PM_
-Syrian rebels oust president assad; russia says he left the country" }
-Hmsis@{ shape: win-pane, label: "_UPDATED Dec 08, 2024, 10:07 PM_
-How damascus fell in 11 days" }
-SnltiARahtoy@{ shape: win-pane, label: "_UPDATED Dec 08, 2024, 11:38 PM_
-Syrian rebels oust president assad; russia says he left the country" }
-Ssasqetnr@{ shape: win-pane, label: "_UPDATED Dec 08, 2024, 02:41 PM_
-Syria's bashar al-assad's quarter century in power" }
+Prsiliahhrtts@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 05:16 AM_
+Pope francis in critical condition after health deteriorates, vatican says" }
+Prsnadafewan@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 09:21 PM_
+Pope francis will not lead sunday prayers for a second week, vatican says" }
+Prsuabpdviey@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 06:53 PM_
+Pope francis not out of danger but expected to live, medical team says" }
+Pctllrgvdht@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 11:50 AM_
+Pope’s condition ‘slightly improving’ on seventh day in hospital" }
+Prsopohet@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 08:34 PM_
+Pope francis has double pneumonia - what does that mean?" }
+Prsopohet@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 08:34 PM_
+Pope francis has double pneumonia - what does that mean?" }
+Prihnieiaei@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 07:10 PM_
+Pope ‘breathing on his own’ despite pneumonia, had a ‘peaceful night’" }
+Prsnnbuan@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 04:29 PM_
+Pope francis has pneumonia in both lungs, vatican says" }
+Prsopohet@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 08:34 PM_
+Pope francis has double pneumonia - what does that mean?" }
+Prihnieiaei@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 07:10 PM_
+Pope ‘breathing on his own’ despite pneumonia, had a ‘peaceful night’" }
+Prsnnbuan@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 04:29 PM_
+Pope francis has pneumonia in both lungs, vatican says" }
+Prsnslrire@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 07:10 PM_
+Pope francis taken to hospital for bronchitis treatment" }
+Prsnnbuan@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 04:29 PM_
+Pope francis has pneumonia in both lungs, vatican says" }
+Prsnslrire@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 07:10 PM_
+Pope francis taken to hospital for bronchitis treatment" }
+Parnwnnnesc@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:26 AM_
+Pope eating, reading but weekend events cancelled, says vatican" }
 
-Dnauiloudlt:::txtsize --> Taessfgsha:::txtsize
-Taessfgsha:::txtsize --> Sntuetal:::txtsize
-Sntuetal:::txtsize --> GhrheTastfdht:::txtsize
-Taessfgsha:::txtsize --> GhrheTastfdht:::txtsize
-Dnauiloudlt:::txtsize --> Wsunatysdh:::txtsize
-Wsunatysdh:::txtsize --> SsdsflgtlisRati:::txtsize
-SsdsflgtlisRati:::txtsize --> SnltiARahtoy:::txtsize
-Wsunatysdh:::txtsize --> Hmsis:::txtsize
-Hmsis:::txtsize --> SnltiARahtoy:::txtsize
-Hmsis:::txtsize --> Ssasqetnr:::txtsize
+Prsiliahhrtts:::txtsize --> Prsnadafewan:::txtsize
+Prsnadafewan:::txtsize --> Prsuabpdviey:::txtsize
+Prsuabpdviey:::txtsize --> Pctllrgvdht:::txtsize
+Prsuabpdviey:::txtsize --> Prsopohet:::txtsize
+Prsnadafewan:::txtsize --> Prsopohet:::txtsize
+Prsopohet:::txtsize --> Prihnieiaei:::txtsize
+Prsopohet:::txtsize --> Prsnnbuan:::txtsize
+Prsiliahhrtts:::txtsize --> Prsopohet:::txtsize
+Prsopohet:::txtsize --> Prihnieiaei:::txtsize
+Prihnieiaei:::txtsize --> Prsnnbuan:::txtsize
+Prihnieiaei:::txtsize --> Prsnslrire:::txtsize
+Prsopohet:::txtsize --> Prsnnbuan:::txtsize
+Prsnnbuan:::txtsize --> Prsnslrire:::txtsize
+Prsnnbuan:::txtsize --> Parnwnnnesc:::txtsize
 
+Mnmmrspfoeriae@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 08:24 AM_
+Macron, starmer to meet trump as europeans flesh out ideas for ukraine guarantees" }
+TsSsrkeo@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 07:07 AM_
+Trump says us wants return on ukraine aid money" }
 ZstygediSe@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 12:14 AM_
 Zelensky ‘not ready’ to sign minerals deal with us: source" }
 Uhlygaeca@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 02:44 AM_
 Us pushes zelensky to sign ukraine resources deal" }
 TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
 Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
+TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
+Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
 Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
 Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
 Zsymnnaberumr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:14 PM_
 Zelensky says trump is in ‘disinformation’ bubble on ukraine, urges ‘more truth’" }
+Tskeeneanssii@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 08:35 PM_
+Trump says ukraine leaders ‘don’t have any cards’ in talks on russia’s invasion" }
 ZsjUarillyate@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:05 PM_
 Zelensky rejects us demand for $670b in minerals wealth, says aid amounts to less" }
 Feisnthmmrfr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:06 PM_
 France says it does not understand why trump blames ukraine for war" }
 Zsymnnaberumr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:14 PM_
 Zelensky says trump is in ‘disinformation’ bubble on ukraine, urges ‘more truth’" }
-TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
-Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
+UprUookeiaso@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 09:59 PM_
+Us proposes rival un resolution on ukraine, pitting it against europe" }
 Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
 Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
-Usreptwua@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 06:15 PM_
-Us, russia forge ahead on peace talks, without ukraine" }
-Tdskeitly@{ shape: win-pane, label: "_UPDATED Feb 13, 2025, 11:02 AM_
-Trump discusses ukraine war with putin, zelensky" }
-Zsymnnaberumr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:14 PM_
-Zelensky says trump is in ‘disinformation’ bubble on ukraine, urges ‘more truth’" }
-Mrlspdupy@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:12 PM_
-Major risks loom as trump upends us’ russia policy" }
-Feisnthmmrfr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:06 PM_
-France says it does not understand why trump blames ukraine for war" }
+TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
+Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
 
+Mnmmrspfoeriae:::txtsize --> TsSsrkeo:::txtsize
+TsSsrkeo:::txtsize --> ZstygediSe:::txtsize
 ZstygediSe:::txtsize --> Uhlygaeca:::txtsize
-Uhlygaeca:::txtsize --> TcUnlytaicioiis:::txtsize
+ZstygediSe:::txtsize --> TcUnlytaicioiis:::txtsize
+TsSsrkeo:::txtsize --> TcUnlytaicioiis:::txtsize
 TcUnlytaicioiis:::txtsize --> Umehtiusrnanii:::txtsize
 TcUnlytaicioiis:::txtsize --> Zsymnnaberumr:::txtsize
-Uhlygaeca:::txtsize --> ZsjUarillyate:::txtsize
+Mnmmrspfoeriae:::txtsize --> Tskeeneanssii:::txtsize
+Tskeeneanssii:::txtsize --> ZsjUarillyate:::txtsize
 ZsjUarillyate:::txtsize --> Feisnthmmrfr:::txtsize
 ZsjUarillyate:::txtsize --> Zsymnnaberumr:::txtsize
-ZstygediSe:::txtsize --> TcUnlytaicioiis:::txtsize
-TcUnlytaicioiis:::txtsize --> Umehtiusrnanii:::txtsize
-Umehtiusrnanii:::txtsize --> Usreptwua:::txtsize
-Umehtiusrnanii:::txtsize --> Tdskeitly:::txtsize
-TcUnlytaicioiis:::txtsize --> Zsymnnaberumr:::txtsize
-Zsymnnaberumr:::txtsize --> Mrlspdupy:::txtsize
-Zsymnnaberumr:::txtsize --> Feisnthmmrfr:::txtsize
+Tskeeneanssii:::txtsize --> UprUookeiaso:::txtsize
+UprUookeiaso:::txtsize --> Umehtiusrnanii:::txtsize
+UprUookeiaso:::txtsize --> TcUnlytaicioiis:::txtsize
 
 ```
-<i>Last updated: 2025-02-23 04:10:27.648502 (GMT+8)</i>
+<i>Last updated: 2025-02-23 08:37:59.648088 (GMT+8)</i>
 <!-- END -->
