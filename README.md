@@ -16,30 +16,54 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-DsTgoacteini@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 10:10 AM_
-‘daddy’s home’: trump gets rock star welcome at conservative convention" }
-Tsthaoonrrg@{ shape: win-pane, label: "_UPDATED Feb 20, 2025, 05:32 PM_
-Trump’s first month: is he any closer to making america great again?" }
-Tsoeralcfre@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 09:20 AM_
-Trump signs order exploring ways to lower cost of ivf treatments" }
-Tuxiwrtnons@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 03:57 PM_
-Trump uses executive power to reinstate anti-abortion pacts" }
-Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
-Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
-Usreptwua@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 06:15 PM_
-Us, russia forge ahead on peace talks, without ukraine" }
-Tdskeitly@{ shape: win-pane, label: "_UPDATED Feb 13, 2025, 11:02 AM_
-Trump discusses ukraine war with putin, zelensky" }
+Pontreytna@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 07:57 PM_
+Polls open in pivotal parliamentary election in germany" }
+Mrhimrfamtii@{ shape: win-pane, label: "_UPDATED Feb 16, 2025, 05:34 AM_
+Mother and child die from injuries after car ramming attack in munich" }
+Nyipdagcubeac@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 11:14 AM_
+Nearly 30 hurt in suspected car ramming attack in munich before german election" }
+MsoatrrtwsLt@{ shape: win-pane, label: "_UPDATED Jan 30, 2025, 10:33 PM_
+Malaysian police arrest 5 after 2 cars ram into crowd outside kl nightclub" }
+Cetniirg@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 06:34 PM_
+China executes man who killed 35 in car rampage" }
+AnoosMhagiesos@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 08:27 PM_
+Afghan national confesses to munich car ramming that injured 36, prosecutor says" }
+Nyipdagcubeac@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 11:14 AM_
+Nearly 30 hurt in suspected car ramming attack in munich before german election" }
+Zspdecuaucrbs@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 08:04 AM_
+Zelensky expected to meet vance in munich as security conference begins" }
+SneBnbatlPe@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 01:59 AM_
+Syrian suspect in berlin stabbing wanted ‘to kill jews’: police" }
+Bncesibaotr@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 07:18 PM_
+Berlin police arrest suspect in stabbing at holocaust memorial" }
+Gnfioiigsaoc@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 06:09 PM_
+Germany set for tricky coalition building, poll shows ahead of election" }
+Gnnunnattlo@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 12:07 AM_
+Germany warns of russian disinformation targeting election" }
+Umketnmmsnodu@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 03:41 PM_
+Us forms task force to battle anti-semitism, focusing on schools and campuses" }
+Taitoedifaips@{ shape: win-pane, label: "_UPDATED Jan 30, 2025, 03:35 PM_
+Trump administration to cancel student visas of pro-palestinian protesters" }
+Ulbehtpsbifea@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:59 AM_
+Us colleges become flashpoints for protests on both sides of israel-hamas war" }
 
-DsTgoacteini:::txtsize --> Tsthaoonrrg:::txtsize
-Tsthaoonrrg:::txtsize --> Tsoeralcfre:::txtsize
-Tsoeralcfre:::txtsize --> Tuxiwrtnons:::txtsize
-Tsthaoonrrg:::txtsize --> Umehtiusrnanii:::txtsize
-Umehtiusrnanii:::txtsize --> Usreptwua:::txtsize
-Umehtiusrnanii:::txtsize --> Tdskeitly:::txtsize
+Pontreytna:::txtsize --> Mrhimrfamtii:::txtsize
+Mrhimrfamtii:::txtsize --> Nyipdagcubeac:::txtsize
+Nyipdagcubeac:::txtsize --> MsoatrrtwsLt:::txtsize
+Nyipdagcubeac:::txtsize --> Cetniirg:::txtsize
+Mrhimrfamtii:::txtsize --> AnoosMhagiesos:::txtsize
+AnoosMhagiesos:::txtsize --> Nyipdagcubeac:::txtsize
+AnoosMhagiesos:::txtsize --> Zspdecuaucrbs:::txtsize
+Pontreytna:::txtsize --> SneBnbatlPe:::txtsize
+SneBnbatlPe:::txtsize --> Bncesibaotr:::txtsize
+Bncesibaotr:::txtsize --> Gnfioiigsaoc:::txtsize
+Bncesibaotr:::txtsize --> Gnnunnattlo:::txtsize
+SneBnbatlPe:::txtsize --> Umketnmmsnodu:::txtsize
+Umketnmmsnodu:::txtsize --> Taitoedifaips:::txtsize
+Umketnmmsnodu:::txtsize --> Ulbehtpsbifea:::txtsize
 
-Prsrihoaia@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 03:54 PM_
-Pope francis had ‘tranquil’ night in hospital, vatican says" }
+PrsccnoaVas@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 07:49 PM_
+Pope francis is in critical condition but alert, vatican says" }
 Prihnieiaei@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 07:10 PM_
 Pope ‘breathing on his own’ despite pneumonia, had a ‘peaceful night’" }
 Prsnnbuan@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 04:29 PM_
@@ -52,7 +76,7 @@ Prsnslrire@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 07:10 PM_
 Pope francis taken to hospital for bronchitis treatment" }
 Prsrrilot@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 08:51 PM_
 Pope francis injures forearm in fall, but no fractures" }
-Prsiliahhrtt@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 01:51 PM_
+Prsiliahhrtt@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 06:09 PM_
 Pope francis in critical condition after health deteriorates: vatican" }
 Prsopohet@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 08:34 PM_
 Pope francis has double pneumonia - what does that mean?" }
@@ -60,20 +84,20 @@ Prihnieiaei@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 07:10 PM_
 Pope ‘breathing on his own’ despite pneumonia, had a ‘peaceful night’" }
 Prsnnbuan@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 04:29 PM_
 Pope francis has pneumonia in both lungs, vatican says" }
-Sprocfafill@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 02:07 PM_
+Sprocfafill@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 06:33 PM_
 Singapore archdiocese calls for prayers for critically ill pope" }
-Prsiliahhrtt@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 01:51 PM_
+Prsiliahhrtt@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 06:09 PM_
 Pope francis in critical condition after health deteriorates: vatican" }
 LAcyPrsesti@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 11:32 AM_
 Latin america prays for pope francis, the region’s first pontiff" }
 
-Prsrihoaia:::txtsize --> Prihnieiaei:::txtsize
+PrsccnoaVas:::txtsize --> Prihnieiaei:::txtsize
 Prihnieiaei:::txtsize --> Prsnnbuan:::txtsize
 Prsnnbuan:::txtsize --> Prsnslrire:::txtsize
 Prsnnbuan:::txtsize --> Parnwnnnesc:::txtsize
 Prihnieiaei:::txtsize --> Prsnslrire:::txtsize
 Prsnslrire:::txtsize --> Prsrrilot:::txtsize
-Prsrihoaia:::txtsize --> Prsiliahhrtt:::txtsize
+PrsccnoaVas:::txtsize --> Prsiliahhrtt:::txtsize
 Prsiliahhrtt:::txtsize --> Prsopohet:::txtsize
 Prsopohet:::txtsize --> Prihnieiaei:::txtsize
 Prsopohet:::txtsize --> Prsnnbuan:::txtsize
@@ -81,22 +105,8 @@ Prsiliahhrtt:::txtsize --> Sprocfafill:::txtsize
 Sprocfafill:::txtsize --> Prsiliahhrtt:::txtsize
 Sprocfafill:::txtsize --> LAcyPrsesti:::txtsize
 
-Ilyeieerassd@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 02:45 PM_
-Israel delays palestinians’ release after six gaza hostages freed" }
-HfhgGfoSBrn@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 11:01 PM_
-Hamas frees 6 hostages in gaza after body of shiri bibas returned" }
-IlaoiraaslfSBd@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 07:42 PM_
-Israel prepares to receive 6 more gaza hostages as family confirms shiri bibas’ death" }
-Fyihieshgsseod@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 02:38 PM_
-Family confirms shiri bibas’ death as gaza hostage-prisoner swop set to go ahead" }
-IlggtooaGeiaodanr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 08:31 PM_
-Israel to begin negotiations on second phase of gaza ceasefire deal in coming days, says minister" }
-Ilseitrspno@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 11:57 PM_
-Israel-hamas truce holding after first hostage-prisoner swop" }
-Csegrshhgt@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 04:31 PM_
-Cheers and weeping as israelis watch gaza hostages return" }
-Hfhgreeeiiraei@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 02:03 PM_
-Hamas frees hostages, israel releases palestinian prisoners on day 1 of ceasefire" }
+HsauaegaIlsrsa@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 08:00 PM_
+Hamas says gaza truce gravely endangered after israel’s prisoner-release delay" }
 Trhgtfdez@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 11:14 PM_
 Two israeli hostages return after a decade in gaza" }
 HfhgGfoSBrn@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 11:01 PM_
@@ -111,22 +121,36 @@ Ileayalornohgra@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 04:20 PM_
 Israeli pm netanyahu says hamas will pay for not returning body of hostage shiri bibas" }
 Hseoasscauao@{ shape: win-pane, label: "_UPDATED Feb 20, 2025, 01:50 AM_
 Hamas says ready to free all hostages at once in gaza truce phase two" }
+HfhgGfoSBrn@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 11:01 PM_
+Hamas frees 6 hostages in gaza after body of shiri bibas returned" }
+IlaoiraaslfSBd@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 07:42 PM_
+Israel prepares to receive 6 more gaza hostages as family confirms shiri bibas’ death" }
+Fyihieshgsseod@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 02:38 PM_
+Family confirms shiri bibas’ death as gaza hostage-prisoner swop set to go ahead" }
+IlggtooaGeiaodanr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 08:31 PM_
+Israel to begin negotiations on second phase of gaza ceasefire deal in coming days, says minister" }
+Ilseitrspno@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 11:57 PM_
+Israel-hamas truce holding after first hostage-prisoner swop" }
+Csegrshhgt@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 04:31 PM_
+Cheers and weeping as israelis watch gaza hostages return" }
+Hfhgreeeiiraei@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 02:03 PM_
+Hamas frees hostages, israel releases palestinian prisoners on day 1 of ceasefire" }
 
-Ilyeieerassd:::txtsize --> HfhgGfoSBrn:::txtsize
-HfhgGfoSBrn:::txtsize --> IlaoiraaslfSBd:::txtsize
-IlaoiraaslfSBd:::txtsize --> Fyihieshgsseod:::txtsize
-IlaoiraaslfSBd:::txtsize --> IlggtooaGeiaodanr:::txtsize
-HfhgGfoSBrn:::txtsize --> Ilseitrspno:::txtsize
-Ilseitrspno:::txtsize --> Csegrshhgt:::txtsize
-Ilseitrspno:::txtsize --> Hfhgreeeiiraei:::txtsize
-Ilyeieerassd:::txtsize --> Trhgtfdez:::txtsize
+HsauaegaIlsrsa:::txtsize --> Trhgtfdez:::txtsize
 Trhgtfdez:::txtsize --> HfhgGfoSBrn:::txtsize
 HfhgGfoSBrn:::txtsize --> IlaoiraaslfSBd:::txtsize
 HfhgGfoSBrn:::txtsize --> Ilseitrspno:::txtsize
 Trhgtfdez:::txtsize --> Fyihieshgsseod:::txtsize
 Fyihieshgsseod:::txtsize --> Ileayalornohgra:::txtsize
 Fyihieshgsseod:::txtsize --> Hseoasscauao:::txtsize
+HsauaegaIlsrsa:::txtsize --> HfhgGfoSBrn:::txtsize
+HfhgGfoSBrn:::txtsize --> IlaoiraaslfSBd:::txtsize
+IlaoiraaslfSBd:::txtsize --> Fyihieshgsseod:::txtsize
+IlaoiraaslfSBd:::txtsize --> IlggtooaGeiaodanr:::txtsize
+HfhgGfoSBrn:::txtsize --> Ilseitrspno:::txtsize
+Ilseitrspno:::txtsize --> Csegrshhgt:::txtsize
+Ilseitrspno:::txtsize --> Hfhgreeeiiraei:::txtsize
 
 ```
-<i>Last updated: 2025-02-23 16:00:46.710483 (GMT+8)</i>
+<i>Last updated: 2025-02-23 20:01:07.990726 (GMT+8)</i>
 <!-- END -->
