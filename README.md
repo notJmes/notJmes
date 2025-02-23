@@ -38,68 +38,51 @@ Tsthaoonrrg:::txtsize --> Umehtiusrnanii:::txtsize
 Umehtiusrnanii:::txtsize --> Usreptwua:::txtsize
 Umehtiusrnanii:::txtsize --> Tdskeitly:::txtsize
 
-Prsiliahhrtt@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 11:57 AM_
-Pope francis in critical condition after health deteriorates: vatican" }
-Prsnadafewan@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 09:21 PM_
-Pope francis will not lead sunday prayers for a second week, vatican says" }
-Prsuabpdviey@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 06:53 PM_
-Pope francis not out of danger but expected to live, medical team says" }
-Pctllrgvdht@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 11:50 AM_
-Pope’s condition ‘slightly improving’ on seventh day in hospital" }
-Prsopohet@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 08:34 PM_
-Pope francis has double pneumonia - what does that mean?" }
-Prsopohet@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 08:34 PM_
-Pope francis has double pneumonia - what does that mean?" }
+Prsrihoaia@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 03:54 PM_
+Pope francis had ‘tranquil’ night in hospital, vatican says" }
 Prihnieiaei@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 07:10 PM_
 Pope ‘breathing on his own’ despite pneumonia, had a ‘peaceful night’" }
-Prsnnbuan@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 04:29 PM_
-Pope francis has pneumonia in both lungs, vatican says" }
-Prsopohet@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 08:34 PM_
-Pope francis has double pneumonia - what does that mean?" }
-Prihnieiaei@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 07:10 PM_
-Pope ‘breathing on his own’ despite pneumonia, had a ‘peaceful night’" }
-Prsnnbuan@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 04:29 PM_
-Pope francis has pneumonia in both lungs, vatican says" }
-Prsnslrire@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 07:10 PM_
-Pope francis taken to hospital for bronchitis treatment" }
 Prsnnbuan@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 04:29 PM_
 Pope francis has pneumonia in both lungs, vatican says" }
 Prsnslrire@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 07:10 PM_
 Pope francis taken to hospital for bronchitis treatment" }
 Parnwnnnesc@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:26 AM_
 Pope eating, reading but weekend events cancelled, says vatican" }
+Prsnslrire@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 07:10 PM_
+Pope francis taken to hospital for bronchitis treatment" }
+Prsrrilot@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 08:51 PM_
+Pope francis injures forearm in fall, but no fractures" }
+Prsiliahhrtt@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 01:51 PM_
+Pope francis in critical condition after health deteriorates: vatican" }
+Prsopohet@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 08:34 PM_
+Pope francis has double pneumonia - what does that mean?" }
+Prihnieiaei@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 07:10 PM_
+Pope ‘breathing on his own’ despite pneumonia, had a ‘peaceful night’" }
+Prsnnbuan@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 04:29 PM_
+Pope francis has pneumonia in both lungs, vatican says" }
+Sprocfafill@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 02:07 PM_
+Singapore archdiocese calls for prayers for critically ill pope" }
+Prsiliahhrtt@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 01:51 PM_
+Pope francis in critical condition after health deteriorates: vatican" }
+LAcyPrsesti@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 11:32 AM_
+Latin america prays for pope francis, the region’s first pontiff" }
 
-Prsiliahhrtt:::txtsize --> Prsnadafewan:::txtsize
-Prsnadafewan:::txtsize --> Prsuabpdviey:::txtsize
-Prsuabpdviey:::txtsize --> Pctllrgvdht:::txtsize
-Prsuabpdviey:::txtsize --> Prsopohet:::txtsize
-Prsnadafewan:::txtsize --> Prsopohet:::txtsize
-Prsopohet:::txtsize --> Prihnieiaei:::txtsize
-Prsopohet:::txtsize --> Prsnnbuan:::txtsize
-Prsiliahhrtt:::txtsize --> Prsopohet:::txtsize
-Prsopohet:::txtsize --> Prihnieiaei:::txtsize
+Prsrihoaia:::txtsize --> Prihnieiaei:::txtsize
 Prihnieiaei:::txtsize --> Prsnnbuan:::txtsize
-Prihnieiaei:::txtsize --> Prsnslrire:::txtsize
-Prsopohet:::txtsize --> Prsnnbuan:::txtsize
 Prsnnbuan:::txtsize --> Prsnslrire:::txtsize
 Prsnnbuan:::txtsize --> Parnwnnnesc:::txtsize
+Prihnieiaei:::txtsize --> Prsnslrire:::txtsize
+Prsnslrire:::txtsize --> Prsrrilot:::txtsize
+Prsrihoaia:::txtsize --> Prsiliahhrtt:::txtsize
+Prsiliahhrtt:::txtsize --> Prsopohet:::txtsize
+Prsopohet:::txtsize --> Prihnieiaei:::txtsize
+Prsopohet:::txtsize --> Prsnnbuan:::txtsize
+Prsiliahhrtt:::txtsize --> Sprocfafill:::txtsize
+Sprocfafill:::txtsize --> Prsiliahhrtt:::txtsize
+Sprocfafill:::txtsize --> LAcyPrsesti:::txtsize
 
-Ilyeieerassd@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 10:38 AM_
+Ilyeieerassd@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 02:45 PM_
 Israel delays palestinians’ release after six gaza hostages freed" }
-Fyihieshgsseod@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 02:38 PM_
-Family confirms shiri bibas’ death as gaza hostage-prisoner swop set to go ahead" }
-Ileayalornohgra@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 04:20 PM_
-Israeli pm netanyahu says hamas will pay for not returning body of hostage shiri bibas" }
-Hstvggirvsb@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 10:45 PM_
-Hamas says it is investigating possible error over hostage body" }
-Pibszotgha@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 09:37 AM_
-Parading of bodies in gaza abhorrent, un rights chief says" }
-Hseoasscauao@{ shape: win-pane, label: "_UPDATED Feb 20, 2025, 01:50 AM_
-Hamas says ready to free all hostages at once in gaza truce phase two" }
-Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
-Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
-IlggtooaGeiaodanr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 08:31 PM_
-Israel to begin negotiations on second phase of gaza ceasefire deal in coming days, says minister" }
 HfhgGfoSBrn@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 11:01 PM_
 Hamas frees 6 hostages in gaza after body of shiri bibas returned" }
 IlaoiraaslfSBd@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 07:42 PM_
@@ -114,14 +97,21 @@ Csegrshhgt@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 04:31 PM_
 Cheers and weeping as israelis watch gaza hostages return" }
 Hfhgreeeiiraei@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 02:03 PM_
 Hamas frees hostages, israel releases palestinian prisoners on day 1 of ceasefire" }
+Trhgtfdez@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 11:14 PM_
+Two israeli hostages return after a decade in gaza" }
+HfhgGfoSBrn@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 11:01 PM_
+Hamas frees 6 hostages in gaza after body of shiri bibas returned" }
+IlaoiraaslfSBd@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 07:42 PM_
+Israel prepares to receive 6 more gaza hostages as family confirms shiri bibas’ death" }
+Ilseitrspno@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 11:57 PM_
+Israel-hamas truce holding after first hostage-prisoner swop" }
+Fyihieshgsseod@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 02:38 PM_
+Family confirms shiri bibas’ death as gaza hostage-prisoner swop set to go ahead" }
+Ileayalornohgra@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 04:20 PM_
+Israeli pm netanyahu says hamas will pay for not returning body of hostage shiri bibas" }
+Hseoasscauao@{ shape: win-pane, label: "_UPDATED Feb 20, 2025, 01:50 AM_
+Hamas says ready to free all hostages at once in gaza truce phase two" }
 
-Ilyeieerassd:::txtsize --> Fyihieshgsseod:::txtsize
-Fyihieshgsseod:::txtsize --> Ileayalornohgra:::txtsize
-Ileayalornohgra:::txtsize --> Hstvggirvsb:::txtsize
-Ileayalornohgra:::txtsize --> Pibszotgha:::txtsize
-Fyihieshgsseod:::txtsize --> Hseoasscauao:::txtsize
-Hseoasscauao:::txtsize --> Ilshedoooia:::txtsize
-Hseoasscauao:::txtsize --> IlggtooaGeiaodanr:::txtsize
 Ilyeieerassd:::txtsize --> HfhgGfoSBrn:::txtsize
 HfhgGfoSBrn:::txtsize --> IlaoiraaslfSBd:::txtsize
 IlaoiraaslfSBd:::txtsize --> Fyihieshgsseod:::txtsize
@@ -129,7 +119,14 @@ IlaoiraaslfSBd:::txtsize --> IlggtooaGeiaodanr:::txtsize
 HfhgGfoSBrn:::txtsize --> Ilseitrspno:::txtsize
 Ilseitrspno:::txtsize --> Csegrshhgt:::txtsize
 Ilseitrspno:::txtsize --> Hfhgreeeiiraei:::txtsize
+Ilyeieerassd:::txtsize --> Trhgtfdez:::txtsize
+Trhgtfdez:::txtsize --> HfhgGfoSBrn:::txtsize
+HfhgGfoSBrn:::txtsize --> IlaoiraaslfSBd:::txtsize
+HfhgGfoSBrn:::txtsize --> Ilseitrspno:::txtsize
+Trhgtfdez:::txtsize --> Fyihieshgsseod:::txtsize
+Fyihieshgsseod:::txtsize --> Ileayalornohgra:::txtsize
+Fyihieshgsseod:::txtsize --> Hseoasscauao:::txtsize
 
 ```
-<i>Last updated: 2025-02-23 12:00:27.125178 (GMT+8)</i>
+<i>Last updated: 2025-02-23 16:00:46.710483 (GMT+8)</i>
 <!-- END -->
