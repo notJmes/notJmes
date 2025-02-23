@@ -16,8 +16,8 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Pontreytna@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 07:57 PM_
-Polls open in pivotal parliamentary election in germany" }
+Gneroahgm@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 11:36 PM_
+Germans vote under shadow of far-right surge, trump" }
 Mrhimrfamtii@{ shape: win-pane, label: "_UPDATED Feb 16, 2025, 05:34 AM_
 Mother and child die from injuries after car ramming attack in munich" }
 Nyipdagcubeac@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 11:14 AM_
@@ -47,14 +47,14 @@ Trump administration to cancel student visas of pro-palestinian protesters" }
 Ulbehtpsbifea@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:59 AM_
 Us colleges become flashpoints for protests on both sides of israel-hamas war" }
 
-Pontreytna:::txtsize --> Mrhimrfamtii:::txtsize
+Gneroahgm:::txtsize --> Mrhimrfamtii:::txtsize
 Mrhimrfamtii:::txtsize --> Nyipdagcubeac:::txtsize
 Nyipdagcubeac:::txtsize --> MsoatrrtwsLt:::txtsize
 Nyipdagcubeac:::txtsize --> Cetniirg:::txtsize
 Mrhimrfamtii:::txtsize --> AnoosMhagiesos:::txtsize
 AnoosMhagiesos:::txtsize --> Nyipdagcubeac:::txtsize
 AnoosMhagiesos:::txtsize --> Zspdecuaucrbs:::txtsize
-Pontreytna:::txtsize --> SneBnbatlPe:::txtsize
+Gneroahgm:::txtsize --> SneBnbatlPe:::txtsize
 SneBnbatlPe:::txtsize --> Bncesibaotr:::txtsize
 Bncesibaotr:::txtsize --> Gnfioiigsaoc:::txtsize
 Bncesibaotr:::txtsize --> Gnnunnattlo:::txtsize
@@ -62,7 +62,7 @@ SneBnbatlPe:::txtsize --> Umketnmmsnodu:::txtsize
 Umketnmmsnodu:::txtsize --> Taitoedifaips:::txtsize
 Umketnmmsnodu:::txtsize --> Ulbehtpsbifea:::txtsize
 
-PrsccnoaVas@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 07:49 PM_
+PrsccnoaVas@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 11:16 PM_
 Pope francis is in critical condition but alert, vatican says" }
 Prihnieiaei@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 07:10 PM_
 Pope ‘breathing on his own’ despite pneumonia, had a ‘peaceful night’" }
@@ -105,52 +105,28 @@ Prsiliahhrtt:::txtsize --> Sprocfafill:::txtsize
 Sprocfafill:::txtsize --> Prsiliahhrtt:::txtsize
 Sprocfafill:::txtsize --> LAcyPrsesti:::txtsize
 
-HsauaegaIlsrsa@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 08:00 PM_
-Hamas says gaza truce gravely endangered after israel’s prisoner-release delay" }
-Trhgtfdez@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 11:14 PM_
-Two israeli hostages return after a decade in gaza" }
-HfhgGfoSBrn@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 11:01 PM_
-Hamas frees 6 hostages in gaza after body of shiri bibas returned" }
-IlaoiraaslfSBd@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 07:42 PM_
-Israel prepares to receive 6 more gaza hostages as family confirms shiri bibas’ death" }
-Ilseitrspno@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 11:57 PM_
-Israel-hamas truce holding after first hostage-prisoner swop" }
-Fyihieshgsseod@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 02:38 PM_
-Family confirms shiri bibas’ death as gaza hostage-prisoner swop set to go ahead" }
-Ileayalornohgra@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 04:20 PM_
-Israeli pm netanyahu says hamas will pay for not returning body of hostage shiri bibas" }
-Hseoasscauao@{ shape: win-pane, label: "_UPDATED Feb 20, 2025, 01:50 AM_
-Hamas says ready to free all hostages at once in gaza truce phase two" }
-HfhgGfoSBrn@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 11:01 PM_
-Hamas frees 6 hostages in gaza after body of shiri bibas returned" }
-IlaoiraaslfSBd@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 07:42 PM_
-Israel prepares to receive 6 more gaza hostages as family confirms shiri bibas’ death" }
-Fyihieshgsseod@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 02:38 PM_
-Family confirms shiri bibas’ death as gaza hostage-prisoner swop set to go ahead" }
-IlggtooaGeiaodanr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 08:31 PM_
-Israel to begin negotiations on second phase of gaza ceasefire deal in coming days, says minister" }
-Ilseitrspno@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 11:57 PM_
-Israel-hamas truce holding after first hostage-prisoner swop" }
-Csegrshhgt@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 04:31 PM_
-Cheers and weeping as israelis watch gaza hostages return" }
-Hfhgreeeiiraei@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 02:03 PM_
-Hamas frees hostages, israel releases palestinian prisoners on day 1 of ceasefire" }
+DsTgoacteini@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 10:10 AM_
+‘daddy’s home’: trump gets rock star welcome at conservative convention" }
+Tsthaoonrrg@{ shape: win-pane, label: "_UPDATED Feb 20, 2025, 05:32 PM_
+Trump’s first month: is he any closer to making america great again?" }
+Tsoeralcfre@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 09:20 AM_
+Trump signs order exploring ways to lower cost of ivf treatments" }
+Tuxiwrtnons@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 03:57 PM_
+Trump uses executive power to reinstate anti-abortion pacts" }
+Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
+Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
+Usreptwua@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 06:15 PM_
+Us, russia forge ahead on peace talks, without ukraine" }
+Tdskeitly@{ shape: win-pane, label: "_UPDATED Feb 13, 2025, 11:02 AM_
+Trump discusses ukraine war with putin, zelensky" }
 
-HsauaegaIlsrsa:::txtsize --> Trhgtfdez:::txtsize
-Trhgtfdez:::txtsize --> HfhgGfoSBrn:::txtsize
-HfhgGfoSBrn:::txtsize --> IlaoiraaslfSBd:::txtsize
-HfhgGfoSBrn:::txtsize --> Ilseitrspno:::txtsize
-Trhgtfdez:::txtsize --> Fyihieshgsseod:::txtsize
-Fyihieshgsseod:::txtsize --> Ileayalornohgra:::txtsize
-Fyihieshgsseod:::txtsize --> Hseoasscauao:::txtsize
-HsauaegaIlsrsa:::txtsize --> HfhgGfoSBrn:::txtsize
-HfhgGfoSBrn:::txtsize --> IlaoiraaslfSBd:::txtsize
-IlaoiraaslfSBd:::txtsize --> Fyihieshgsseod:::txtsize
-IlaoiraaslfSBd:::txtsize --> IlggtooaGeiaodanr:::txtsize
-HfhgGfoSBrn:::txtsize --> Ilseitrspno:::txtsize
-Ilseitrspno:::txtsize --> Csegrshhgt:::txtsize
-Ilseitrspno:::txtsize --> Hfhgreeeiiraei:::txtsize
+DsTgoacteini:::txtsize --> Tsthaoonrrg:::txtsize
+Tsthaoonrrg:::txtsize --> Tsoeralcfre:::txtsize
+Tsoeralcfre:::txtsize --> Tuxiwrtnons:::txtsize
+Tsthaoonrrg:::txtsize --> Umehtiusrnanii:::txtsize
+Umehtiusrnanii:::txtsize --> Usreptwua:::txtsize
+Umehtiusrnanii:::txtsize --> Tdskeitly:::txtsize
 
 ```
-<i>Last updated: 2025-02-23 20:01:07.990726 (GMT+8)</i>
+<i>Last updated: 2025-02-24 00:00:29.836705 (GMT+8)</i>
 <!-- END -->
