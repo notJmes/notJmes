@@ -62,20 +62,8 @@ SneBnbatlPe:::txtsize --> Umketnmmsnodu:::txtsize
 Umketnmmsnodu:::txtsize --> Taitoedifaips:::txtsize
 Umketnmmsnodu:::txtsize --> Ulbehtpsbifea:::txtsize
 
-PrsccnoaVas@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 11:16 PM_
-Pope francis is in critical condition but alert, vatican says" }
-Prihnieiaei@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 07:10 PM_
-Pope ‘breathing on his own’ despite pneumonia, had a ‘peaceful night’" }
-Prsnnbuan@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 04:29 PM_
-Pope francis has pneumonia in both lungs, vatican says" }
-Prsnslrire@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 07:10 PM_
-Pope francis taken to hospital for bronchitis treatment" }
-Parnwnnnesc@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:26 AM_
-Pope eating, reading but weekend events cancelled, says vatican" }
-Prsnslrire@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 07:10 PM_
-Pope francis taken to hospital for bronchitis treatment" }
-Prsrrilot@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 08:51 PM_
-Pope francis injures forearm in fall, but no fractures" }
+Prsiilagdsan@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 03:51 AM_
+Pope francis remains critical and has ‘slight’ kidney issue, vatican says" }
 Prsiliahhrtt@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 06:09 PM_
 Pope francis in critical condition after health deteriorates: vatican" }
 Prsopohet@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 08:34 PM_
@@ -90,20 +78,35 @@ Prsiliahhrtt@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 06:09 PM_
 Pope francis in critical condition after health deteriorates: vatican" }
 LAcyPrsesti@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 11:32 AM_
 Latin america prays for pope francis, the region’s first pontiff" }
+Prsopohet@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 08:34 PM_
+Pope francis has double pneumonia - what does that mean?" }
+Prihnieiaei@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 07:10 PM_
+Pope ‘breathing on his own’ despite pneumonia, had a ‘peaceful night’" }
+Prsnnbuan@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 04:29 PM_
+Pope francis has pneumonia in both lungs, vatican says" }
+Prsnslrire@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 07:10 PM_
+Pope francis taken to hospital for bronchitis treatment" }
+Prsnnbuan@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 04:29 PM_
+Pope francis has pneumonia in both lungs, vatican says" }
+Prsnslrire@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 07:10 PM_
+Pope francis taken to hospital for bronchitis treatment" }
+Parnwnnnesc@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:26 AM_
+Pope eating, reading but weekend events cancelled, says vatican" }
 
-PrsccnoaVas:::txtsize --> Prihnieiaei:::txtsize
-Prihnieiaei:::txtsize --> Prsnnbuan:::txtsize
-Prsnnbuan:::txtsize --> Prsnslrire:::txtsize
-Prsnnbuan:::txtsize --> Parnwnnnesc:::txtsize
-Prihnieiaei:::txtsize --> Prsnslrire:::txtsize
-Prsnslrire:::txtsize --> Prsrrilot:::txtsize
-PrsccnoaVas:::txtsize --> Prsiliahhrtt:::txtsize
+Prsiilagdsan:::txtsize --> Prsiliahhrtt:::txtsize
 Prsiliahhrtt:::txtsize --> Prsopohet:::txtsize
 Prsopohet:::txtsize --> Prihnieiaei:::txtsize
 Prsopohet:::txtsize --> Prsnnbuan:::txtsize
 Prsiliahhrtt:::txtsize --> Sprocfafill:::txtsize
 Sprocfafill:::txtsize --> Prsiliahhrtt:::txtsize
 Sprocfafill:::txtsize --> LAcyPrsesti:::txtsize
+Prsiilagdsan:::txtsize --> Prsopohet:::txtsize
+Prsopohet:::txtsize --> Prihnieiaei:::txtsize
+Prihnieiaei:::txtsize --> Prsnnbuan:::txtsize
+Prihnieiaei:::txtsize --> Prsnslrire:::txtsize
+Prsopohet:::txtsize --> Prsnnbuan:::txtsize
+Prsnnbuan:::txtsize --> Prsnslrire:::txtsize
+Prsnnbuan:::txtsize --> Parnwnnnesc:::txtsize
 
 DsTgoacteini@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 10:10 AM_
 ‘daddy’s home’: trump gets rock star welcome at conservative convention" }
@@ -128,5 +131,5 @@ Umehtiusrnanii:::txtsize --> Usreptwua:::txtsize
 Umehtiusrnanii:::txtsize --> Tdskeitly:::txtsize
 
 ```
-<i>Last updated: 2025-02-24 00:00:29.836705 (GMT+8)</i>
+<i>Last updated: 2025-02-24 04:00:50.106744 (GMT+8)</i>
 <!-- END -->
