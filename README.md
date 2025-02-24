@@ -62,8 +62,8 @@ SneBnbatlPe:::txtsize --> Umketnmmsnodu:::txtsize
 Umketnmmsnodu:::txtsize --> Taitoedifaips:::txtsize
 Umketnmmsnodu:::txtsize --> Ulbehtpsbifea:::txtsize
 
-Prsiilagdsan@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 03:51 AM_
-Pope francis remains critical and has ‘slight’ kidney issue, vatican says" }
+Prsiilagdsan@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 06:29 AM_
+Pope francis remains critical and has ‘slight’ kidney issue: vatican" }
 Prsiliahhrtt@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 06:09 PM_
 Pope francis in critical condition after health deteriorates: vatican" }
 Prsopohet@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 08:34 PM_
@@ -131,5 +131,5 @@ Umehtiusrnanii:::txtsize --> Usreptwua:::txtsize
 Umehtiusrnanii:::txtsize --> Tdskeitly:::txtsize
 
 ```
-<i>Last updated: 2025-02-24 04:00:50.106744 (GMT+8)</i>
+<i>Last updated: 2025-02-24 08:01:09.538988 (GMT+8)</i>
 <!-- END -->
