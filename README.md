@@ -16,7 +16,7 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Nalwculaeea@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 03:47 PM_
+Nalwculaeea@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 06:08 PM_
 New chancellor, new policies, but will germany see any real change?" }
 GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
 German election victor friedrich merz plans pivot from us as coalition talks loom" }
@@ -62,8 +62,8 @@ GntiFreavositl:::txtsize --> Niletarcrbtg:::txtsize
 Niletarcrbtg:::txtsize --> Eudemrtydn:::txtsize
 Niletarcrbtg:::txtsize --> GntiFreavositl:::txtsize
 
-Innanrlo@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 03:29 PM_
-International reaction to german election" }
+Wlrglrireeic@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 07:55 PM_
+World leaders congratulate friedrich merz on german election victory" }
 GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
 German election victor friedrich merz plans pivot from us as coalition talks loom" }
 PiFreeyst@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 06:55 AM_
@@ -93,14 +93,14 @@ Policies of friedrich merz's germany's conservatives" }
 Niletarcrbtg@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 04:19 AM_
 ‘next time we’ll come first’: german far-right celebrates breakthrough" }
 
-Innanrlo:::txtsize --> GntiFreavositl:::txtsize
+Wlrglrireeic:::txtsize --> GntiFreavositl:::txtsize
 GntiFreavositl:::txtsize --> PiFreeyst:::txtsize
 PiFreeyst:::txtsize --> Niletarcrbtg:::txtsize
 PiFreeyst:::txtsize --> GntiFreavositl:::txtsize
 GntiFreavositl:::txtsize --> Niletarcrbtg:::txtsize
 Niletarcrbtg:::txtsize --> Eudemrtydn:::txtsize
 Niletarcrbtg:::txtsize --> GntiFreavositl:::txtsize
-Innanrlo:::txtsize --> Gnboohoalrt:::txtsize
+Wlrglrireeic:::txtsize --> Gnboohoalrt:::txtsize
 Gnboohoalrt:::txtsize --> GntiFreavositl:::txtsize
 GntiFreavositl:::txtsize --> PiFreeyst:::txtsize
 GntiFreavositl:::txtsize --> Niletarcrbtg:::txtsize
@@ -155,5 +155,5 @@ Tdskeitly:::txtsize --> LolnfTmathecy:::txtsize
 Tdskeitly:::txtsize --> Tiwitnifd:::txtsize
 
 ```
-<i>Last updated: 2025-02-24 16:00:56.950100 (GMT+8)</i>
+<i>Last updated: 2025-02-24 20:00:21.083559 (GMT+8)</i>
 <!-- END -->
