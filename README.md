@@ -16,7 +16,7 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Nalwculaeea@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 06:08 PM_
+Nalwculaeea@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 09:07 PM_
 New chancellor, new policies, but will germany see any real change?" }
 GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
 German election victor friedrich merz plans pivot from us as coalition talks loom" }
@@ -62,7 +62,7 @@ GntiFreavositl:::txtsize --> Niletarcrbtg:::txtsize
 Niletarcrbtg:::txtsize --> Eudemrtydn:::txtsize
 Niletarcrbtg:::txtsize --> GntiFreavositl:::txtsize
 
-Wlrglrireeic@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 07:55 PM_
+Wlrglrireeic@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 09:28 PM_
 World leaders congratulate friedrich merz on german election victory" }
 GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
 German election victor friedrich merz plans pivot from us as coalition talks loom" }
@@ -108,52 +108,49 @@ Gnboohoalrt:::txtsize --> GntiFreavositl:::txtsize
 GntiFreavositl:::txtsize --> PiFreeyst:::txtsize
 GntiFreavositl:::txtsize --> Niletarcrbtg:::txtsize
 
-Unmaagsesrivn@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 12:59 PM_
+Uospaenniu@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 11:47 PM_
+Uk announces sweeping package of sanctions against russia" }
+Eewtosrpfr@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 09:09 PM_
+Eu agrees new sanctions on russia, marks support for ukraine" }
+Tswunirwnmsdcgl@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 11:13 AM_
+Trump’s call with putin on ukraine: europe’s worst nightmare is rapidly becoming a reality" }
+Tdskeitly@{ shape: win-pane, label: "_UPDATED Feb 13, 2025, 11:02 AM_
+Trump discusses ukraine war with putin, zelensky" }
+Mnmmrspfoeriae@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 07:17 PM_
+Macron, starmer to meet trump as europeans flesh out ideas for ukraine guarantees" }
+TsSsrkeo@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 06:53 PM_
+Trump says us wants return on ukraine aid money" }
+Tskeeneanssii@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 08:35 PM_
+Trump says ukraine leaders ‘don’t have any cards’ in talks on russia’s invasion" }
+Unmaagsesrivn@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 11:45 PM_
 Ukraine hemmed in as us backing frays three years after russian invasion" }
 TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
 Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
 Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
 Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
-Usreptwua@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 06:15 PM_
-Us, russia forge ahead on peace talks, without ukraine" }
-Tdskeitly@{ shape: win-pane, label: "_UPDATED Feb 13, 2025, 11:02 AM_
-Trump discusses ukraine war with putin, zelensky" }
 Zsymnnaberumr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:14 PM_
 Zelensky says trump is in ‘disinformation’ bubble on ukraine, urges ‘more truth’" }
-Mrlspdupy@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:12 PM_
-Major risks loom as trump upends us’ russia policy" }
-Feisnthmmrfr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:06 PM_
-France says it does not understand why trump blames ukraine for war" }
 Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
 Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
 Usreptwua@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 06:15 PM_
 Us, russia forge ahead on peace talks, without ukraine" }
-TseetFseaonulnRas@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 05:01 PM_
-Trump says he may meet putin in feb, dismisses ukraine concerns about exclusion from russia talks" }
-Usrrrlisasprwl@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:38 PM_
-Us, russia agree to restore diplomatic missions as first step in ukraine war talks" }
 Tdskeitly@{ shape: win-pane, label: "_UPDATED Feb 13, 2025, 11:02 AM_
 Trump discusses ukraine war with putin, zelensky" }
-LolnfTmathecy@{ shape: win-pane, label: "_UPDATED Feb 08, 2025, 08:55 PM_
-‘let’s do a deal’: zelensky offers trump mineral partnership, seeks security" }
-Tiwitnifd@{ shape: win-pane, label: "_PUBLISHED Feb 25, 2022, 08:15 AM_
-Timeline: how russia's attack on ukraine unfolded" }
 
+Uospaenniu:::txtsize --> Eewtosrpfr:::txtsize
+Eewtosrpfr:::txtsize --> Tswunirwnmsdcgl:::txtsize
+Tswunirwnmsdcgl:::txtsize --> Tdskeitly:::txtsize
+Eewtosrpfr:::txtsize --> Mnmmrspfoeriae:::txtsize
+Mnmmrspfoeriae:::txtsize --> TsSsrkeo:::txtsize
+Mnmmrspfoeriae:::txtsize --> Tskeeneanssii:::txtsize
+Uospaenniu:::txtsize --> Unmaagsesrivn:::txtsize
 Unmaagsesrivn:::txtsize --> TcUnlytaicioiis:::txtsize
 TcUnlytaicioiis:::txtsize --> Umehtiusrnanii:::txtsize
-Umehtiusrnanii:::txtsize --> Usreptwua:::txtsize
-Umehtiusrnanii:::txtsize --> Tdskeitly:::txtsize
 TcUnlytaicioiis:::txtsize --> Zsymnnaberumr:::txtsize
-Zsymnnaberumr:::txtsize --> Mrlspdupy:::txtsize
-Zsymnnaberumr:::txtsize --> Feisnthmmrfr:::txtsize
 Unmaagsesrivn:::txtsize --> Umehtiusrnanii:::txtsize
 Umehtiusrnanii:::txtsize --> Usreptwua:::txtsize
-Usreptwua:::txtsize --> TseetFseaonulnRas:::txtsize
-Usreptwua:::txtsize --> Usrrrlisasprwl:::txtsize
 Umehtiusrnanii:::txtsize --> Tdskeitly:::txtsize
-Tdskeitly:::txtsize --> LolnfTmathecy:::txtsize
-Tdskeitly:::txtsize --> Tiwitnifd:::txtsize
 
 ```
-<i>Last updated: 2025-02-24 20:00:21.083559 (GMT+8)</i>
+<i>Last updated: 2025-02-25 00:00:42.289359 (GMT+8)</i>
 <!-- END -->
