@@ -16,120 +16,141 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Gneroahgm@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 11:36 PM_
-Germans vote under shadow of far-right surge, trump" }
-Mrhimrfamtii@{ shape: win-pane, label: "_UPDATED Feb 16, 2025, 05:34 AM_
-Mother and child die from injuries after car ramming attack in munich" }
-Nyipdagcubeac@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 11:14 AM_
-Nearly 30 hurt in suspected car ramming attack in munich before german election" }
-MsoatrrtwsLt@{ shape: win-pane, label: "_UPDATED Jan 30, 2025, 10:33 PM_
-Malaysian police arrest 5 after 2 cars ram into crowd outside kl nightclub" }
-Cetniirg@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 06:34 PM_
-China executes man who killed 35 in car rampage" }
-AnoosMhagiesos@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 08:27 PM_
-Afghan national confesses to munich car ramming that injured 36, prosecutor says" }
-Nyipdagcubeac@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 11:14 AM_
-Nearly 30 hurt in suspected car ramming attack in munich before german election" }
-Zspdecuaucrbs@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 08:04 AM_
-Zelensky expected to meet vance in munich as security conference begins" }
-SneBnbatlPe@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 01:59 AM_
-Syrian suspect in berlin stabbing wanted ‘to kill jews’: police" }
-Bncesibaotr@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 07:18 PM_
-Berlin police arrest suspect in stabbing at holocaust memorial" }
-Gnfioiigsaoc@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 06:09 PM_
-Germany set for tricky coalition building, poll shows ahead of election" }
-Gnnunnattlo@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 12:07 AM_
-Germany warns of russian disinformation targeting election" }
-Umketnmmsnodu@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 03:41 PM_
-Us forms task force to battle anti-semitism, focusing on schools and campuses" }
-Taitoedifaips@{ shape: win-pane, label: "_UPDATED Jan 30, 2025, 03:35 PM_
-Trump administration to cancel student visas of pro-palestinian protesters" }
-Ulbehtpsbifea@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:59 AM_
-Us colleges become flashpoints for protests on both sides of israel-hamas war" }
+GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
+German election victor friedrich merz plans pivot from us as coalition talks loom" }
+PiFreeyst@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 06:55 AM_
+Policies of friedrich merz's germany's conservatives" }
+Niletarcrbtg@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 04:19 AM_
+‘next time we’ll come first’: german far-right celebrates breakthrough" }
+Eudemrtydn@{ shape: win-pane, label: "_UPDATED Jan 26, 2025, 09:43 PM_
+Elon musk addresses german far-right rally by video link" }
+GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
+German election victor friedrich merz plans pivot from us as coalition talks loom" }
+GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
+German election victor friedrich merz plans pivot from us as coalition talks loom" }
+PiFreeyst@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 06:55 AM_
+Policies of friedrich merz's germany's conservatives" }
+Niletarcrbtg@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 04:19 AM_
+‘next time we’ll come first’: german far-right celebrates breakthrough" }
+Niletarcrbtg@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 04:19 AM_
+‘next time we’ll come first’: german far-right celebrates breakthrough" }
+Eudemrtydn@{ shape: win-pane, label: "_UPDATED Jan 26, 2025, 09:43 PM_
+Elon musk addresses german far-right rally by video link" }
+Maamleexin@{ shape: win-pane, label: "_UPDATED Jan 22, 2025, 05:46 PM_
+Musk salute at trump rally celebrated by extremists online" }
+GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
+German election victor friedrich merz plans pivot from us as coalition talks loom" }
+PiFreeyst@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 06:55 AM_
+Policies of friedrich merz's germany's conservatives" }
+Niletarcrbtg@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 04:19 AM_
+‘next time we’ll come first’: german far-right celebrates breakthrough" }
 
-Gneroahgm:::txtsize --> Mrhimrfamtii:::txtsize
-Mrhimrfamtii:::txtsize --> Nyipdagcubeac:::txtsize
-Nyipdagcubeac:::txtsize --> MsoatrrtwsLt:::txtsize
-Nyipdagcubeac:::txtsize --> Cetniirg:::txtsize
-Mrhimrfamtii:::txtsize --> AnoosMhagiesos:::txtsize
-AnoosMhagiesos:::txtsize --> Nyipdagcubeac:::txtsize
-AnoosMhagiesos:::txtsize --> Zspdecuaucrbs:::txtsize
-Gneroahgm:::txtsize --> SneBnbatlPe:::txtsize
-SneBnbatlPe:::txtsize --> Bncesibaotr:::txtsize
-Bncesibaotr:::txtsize --> Gnfioiigsaoc:::txtsize
-Bncesibaotr:::txtsize --> Gnnunnattlo:::txtsize
-SneBnbatlPe:::txtsize --> Umketnmmsnodu:::txtsize
-Umketnmmsnodu:::txtsize --> Taitoedifaips:::txtsize
-Umketnmmsnodu:::txtsize --> Ulbehtpsbifea:::txtsize
+GntiFreavositl:::txtsize --> PiFreeyst:::txtsize
+PiFreeyst:::txtsize --> Niletarcrbtg:::txtsize
+Niletarcrbtg:::txtsize --> Eudemrtydn:::txtsize
+Niletarcrbtg:::txtsize --> GntiFreavositl:::txtsize
+PiFreeyst:::txtsize --> GntiFreavositl:::txtsize
+GntiFreavositl:::txtsize --> PiFreeyst:::txtsize
+GntiFreavositl:::txtsize --> Niletarcrbtg:::txtsize
+GntiFreavositl:::txtsize --> Niletarcrbtg:::txtsize
+Niletarcrbtg:::txtsize --> Eudemrtydn:::txtsize
+Eudemrtydn:::txtsize --> Maamleexin:::txtsize
+Niletarcrbtg:::txtsize --> GntiFreavositl:::txtsize
+GntiFreavositl:::txtsize --> PiFreeyst:::txtsize
+GntiFreavositl:::txtsize --> Niletarcrbtg:::txtsize
 
-Prsiilagdsan@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 06:29 AM_
-Pope francis remains critical and has ‘slight’ kidney issue: vatican" }
-Prsiliahhrtt@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 06:09 PM_
-Pope francis in critical condition after health deteriorates: vatican" }
-Prsopohet@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 08:34 PM_
-Pope francis has double pneumonia - what does that mean?" }
-Prihnieiaei@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 07:10 PM_
-Pope ‘breathing on his own’ despite pneumonia, had a ‘peaceful night’" }
-Prsnnbuan@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 04:29 PM_
-Pope francis has pneumonia in both lungs, vatican says" }
-Sprocfafill@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 06:33 PM_
-Singapore archdiocese calls for prayers for critically ill pope" }
-Prsiliahhrtt@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 06:09 PM_
-Pope francis in critical condition after health deteriorates: vatican" }
-LAcyPrsesti@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 11:32 AM_
-Latin america prays for pope francis, the region’s first pontiff" }
-Prsopohet@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 08:34 PM_
-Pope francis has double pneumonia - what does that mean?" }
-Prihnieiaei@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 07:10 PM_
-Pope ‘breathing on his own’ despite pneumonia, had a ‘peaceful night’" }
-Prsnnbuan@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 04:29 PM_
-Pope francis has pneumonia in both lungs, vatican says" }
-Prsnslrire@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 07:10 PM_
-Pope francis taken to hospital for bronchitis treatment" }
-Prsnnbuan@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 04:29 PM_
-Pope francis has pneumonia in both lungs, vatican says" }
-Prsnslrire@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 07:10 PM_
-Pope francis taken to hospital for bronchitis treatment" }
-Parnwnnnesc@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:26 AM_
-Pope eating, reading but weekend events cancelled, says vatican" }
+Innanrlo@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 07:58 AM_
+International reaction to german election" }
+GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
+German election victor friedrich merz plans pivot from us as coalition talks loom" }
+PiFreeyst@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 06:55 AM_
+Policies of friedrich merz's germany's conservatives" }
+Niletarcrbtg@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 04:19 AM_
+‘next time we’ll come first’: german far-right celebrates breakthrough" }
+GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
+German election victor friedrich merz plans pivot from us as coalition talks loom" }
+Niletarcrbtg@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 04:19 AM_
+‘next time we’ll come first’: german far-right celebrates breakthrough" }
+Eudemrtydn@{ shape: win-pane, label: "_UPDATED Jan 26, 2025, 09:43 PM_
+Elon musk addresses german far-right rally by video link" }
+GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
+German election victor friedrich merz plans pivot from us as coalition talks loom" }
+Gnboohoalrt@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 11:41 AM_
+German ‘rust belt’ town spotlights growing appeal of far right" }
+GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
+German election victor friedrich merz plans pivot from us as coalition talks loom" }
+PiFreeyst@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 06:55 AM_
+Policies of friedrich merz's germany's conservatives" }
+Niletarcrbtg@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 04:19 AM_
+‘next time we’ll come first’: german far-right celebrates breakthrough" }
+GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
+German election victor friedrich merz plans pivot from us as coalition talks loom" }
+PiFreeyst@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 06:55 AM_
+Policies of friedrich merz's germany's conservatives" }
+Niletarcrbtg@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 04:19 AM_
+‘next time we’ll come first’: german far-right celebrates breakthrough" }
 
-Prsiilagdsan:::txtsize --> Prsiliahhrtt:::txtsize
-Prsiliahhrtt:::txtsize --> Prsopohet:::txtsize
-Prsopohet:::txtsize --> Prihnieiaei:::txtsize
-Prsopohet:::txtsize --> Prsnnbuan:::txtsize
-Prsiliahhrtt:::txtsize --> Sprocfafill:::txtsize
-Sprocfafill:::txtsize --> Prsiliahhrtt:::txtsize
-Sprocfafill:::txtsize --> LAcyPrsesti:::txtsize
-Prsiilagdsan:::txtsize --> Prsopohet:::txtsize
-Prsopohet:::txtsize --> Prihnieiaei:::txtsize
-Prihnieiaei:::txtsize --> Prsnnbuan:::txtsize
-Prihnieiaei:::txtsize --> Prsnslrire:::txtsize
-Prsopohet:::txtsize --> Prsnnbuan:::txtsize
-Prsnnbuan:::txtsize --> Prsnslrire:::txtsize
-Prsnnbuan:::txtsize --> Parnwnnnesc:::txtsize
+Innanrlo:::txtsize --> GntiFreavositl:::txtsize
+GntiFreavositl:::txtsize --> PiFreeyst:::txtsize
+PiFreeyst:::txtsize --> Niletarcrbtg:::txtsize
+PiFreeyst:::txtsize --> GntiFreavositl:::txtsize
+GntiFreavositl:::txtsize --> Niletarcrbtg:::txtsize
+Niletarcrbtg:::txtsize --> Eudemrtydn:::txtsize
+Niletarcrbtg:::txtsize --> GntiFreavositl:::txtsize
+Innanrlo:::txtsize --> Gnboohoalrt:::txtsize
+Gnboohoalrt:::txtsize --> GntiFreavositl:::txtsize
+GntiFreavositl:::txtsize --> PiFreeyst:::txtsize
+GntiFreavositl:::txtsize --> Niletarcrbtg:::txtsize
+Gnboohoalrt:::txtsize --> GntiFreavositl:::txtsize
+GntiFreavositl:::txtsize --> PiFreeyst:::txtsize
+GntiFreavositl:::txtsize --> Niletarcrbtg:::txtsize
 
-DsTgoacteini@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 10:10 AM_
-‘daddy’s home’: trump gets rock star welcome at conservative convention" }
-Tsthaoonrrg@{ shape: win-pane, label: "_UPDATED Feb 20, 2025, 05:32 PM_
-Trump’s first month: is he any closer to making america great again?" }
-Tsoeralcfre@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 09:20 AM_
-Trump signs order exploring ways to lower cost of ivf treatments" }
-Tuxiwrtnons@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 03:57 PM_
-Trump uses executive power to reinstate anti-abortion pacts" }
+Unmaagsesrivn@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 06:56 AM_
+Ukraine hemmed in as us backing frays three years after russian invasion" }
+TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
+Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
 Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
 Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
 Usreptwua@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 06:15 PM_
 Us, russia forge ahead on peace talks, without ukraine" }
 Tdskeitly@{ shape: win-pane, label: "_UPDATED Feb 13, 2025, 11:02 AM_
 Trump discusses ukraine war with putin, zelensky" }
+Zsymnnaberumr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:14 PM_
+Zelensky says trump is in ‘disinformation’ bubble on ukraine, urges ‘more truth’" }
+Mrlspdupy@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:12 PM_
+Major risks loom as trump upends us’ russia policy" }
+Feisnthmmrfr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:06 PM_
+France says it does not understand why trump blames ukraine for war" }
+Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
+Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
+Usreptwua@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 06:15 PM_
+Us, russia forge ahead on peace talks, without ukraine" }
+TseetFseaonulnRas@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 05:01 PM_
+Trump says he may meet putin in feb, dismisses ukraine concerns about exclusion from russia talks" }
+Usrrrlisasprwl@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:38 PM_
+Us, russia agree to restore diplomatic missions as first step in ukraine war talks" }
+Tdskeitly@{ shape: win-pane, label: "_UPDATED Feb 13, 2025, 11:02 AM_
+Trump discusses ukraine war with putin, zelensky" }
+LolnfTmathecy@{ shape: win-pane, label: "_UPDATED Feb 08, 2025, 08:55 PM_
+‘let’s do a deal’: zelensky offers trump mineral partnership, seeks security" }
+Tiwitnifd@{ shape: win-pane, label: "_PUBLISHED Feb 25, 2022, 08:15 AM_
+Timeline: how russia's attack on ukraine unfolded" }
 
-DsTgoacteini:::txtsize --> Tsthaoonrrg:::txtsize
-Tsthaoonrrg:::txtsize --> Tsoeralcfre:::txtsize
-Tsoeralcfre:::txtsize --> Tuxiwrtnons:::txtsize
-Tsthaoonrrg:::txtsize --> Umehtiusrnanii:::txtsize
+Unmaagsesrivn:::txtsize --> TcUnlytaicioiis:::txtsize
+TcUnlytaicioiis:::txtsize --> Umehtiusrnanii:::txtsize
 Umehtiusrnanii:::txtsize --> Usreptwua:::txtsize
 Umehtiusrnanii:::txtsize --> Tdskeitly:::txtsize
+TcUnlytaicioiis:::txtsize --> Zsymnnaberumr:::txtsize
+Zsymnnaberumr:::txtsize --> Mrlspdupy:::txtsize
+Zsymnnaberumr:::txtsize --> Feisnthmmrfr:::txtsize
+Unmaagsesrivn:::txtsize --> Umehtiusrnanii:::txtsize
+Umehtiusrnanii:::txtsize --> Usreptwua:::txtsize
+Usreptwua:::txtsize --> TseetFseaonulnRas:::txtsize
+Usreptwua:::txtsize --> Usrrrlisasprwl:::txtsize
+Umehtiusrnanii:::txtsize --> Tdskeitly:::txtsize
+Tdskeitly:::txtsize --> LolnfTmathecy:::txtsize
+Tdskeitly:::txtsize --> Tiwitnifd:::txtsize
 
 ```
-<i>Last updated: 2025-02-24 08:01:09.538988 (GMT+8)</i>
+<i>Last updated: 2025-02-24 12:00:31.122220 (GMT+8)</i>
 <!-- END -->
