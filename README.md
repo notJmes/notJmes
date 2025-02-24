@@ -16,10 +16,16 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Nalwculaeea@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 03:47 PM_
+New chancellor, new policies, but will germany see any real change?" }
 GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
 German election victor friedrich merz plans pivot from us as coalition talks loom" }
 PiFreeyst@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 06:55 AM_
 Policies of friedrich merz's germany's conservatives" }
+Niletarcrbtg@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 04:19 AM_
+‘next time we’ll come first’: german far-right celebrates breakthrough" }
+GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
+German election victor friedrich merz plans pivot from us as coalition talks loom" }
 Niletarcrbtg@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 04:19 AM_
 ‘next time we’ll come first’: german far-right celebrates breakthrough" }
 Eudemrtydn@{ shape: win-pane, label: "_UPDATED Jan 26, 2025, 09:43 PM_
@@ -32,34 +38,31 @@ PiFreeyst@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 06:55 AM_
 Policies of friedrich merz's germany's conservatives" }
 Niletarcrbtg@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 04:19 AM_
 ‘next time we’ll come first’: german far-right celebrates breakthrough" }
+GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
+German election victor friedrich merz plans pivot from us as coalition talks loom" }
 Niletarcrbtg@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 04:19 AM_
 ‘next time we’ll come first’: german far-right celebrates breakthrough" }
 Eudemrtydn@{ shape: win-pane, label: "_UPDATED Jan 26, 2025, 09:43 PM_
 Elon musk addresses german far-right rally by video link" }
-Maamleexin@{ shape: win-pane, label: "_UPDATED Jan 22, 2025, 05:46 PM_
-Musk salute at trump rally celebrated by extremists online" }
 GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
 German election victor friedrich merz plans pivot from us as coalition talks loom" }
-PiFreeyst@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 06:55 AM_
-Policies of friedrich merz's germany's conservatives" }
-Niletarcrbtg@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 04:19 AM_
-‘next time we’ll come first’: german far-right celebrates breakthrough" }
 
+Nalwculaeea:::txtsize --> GntiFreavositl:::txtsize
 GntiFreavositl:::txtsize --> PiFreeyst:::txtsize
 PiFreeyst:::txtsize --> Niletarcrbtg:::txtsize
-Niletarcrbtg:::txtsize --> Eudemrtydn:::txtsize
-Niletarcrbtg:::txtsize --> GntiFreavositl:::txtsize
 PiFreeyst:::txtsize --> GntiFreavositl:::txtsize
-GntiFreavositl:::txtsize --> PiFreeyst:::txtsize
-GntiFreavositl:::txtsize --> Niletarcrbtg:::txtsize
 GntiFreavositl:::txtsize --> Niletarcrbtg:::txtsize
 Niletarcrbtg:::txtsize --> Eudemrtydn:::txtsize
-Eudemrtydn:::txtsize --> Maamleexin:::txtsize
 Niletarcrbtg:::txtsize --> GntiFreavositl:::txtsize
+Nalwculaeea:::txtsize --> GntiFreavositl:::txtsize
 GntiFreavositl:::txtsize --> PiFreeyst:::txtsize
+PiFreeyst:::txtsize --> Niletarcrbtg:::txtsize
+PiFreeyst:::txtsize --> GntiFreavositl:::txtsize
 GntiFreavositl:::txtsize --> Niletarcrbtg:::txtsize
+Niletarcrbtg:::txtsize --> Eudemrtydn:::txtsize
+Niletarcrbtg:::txtsize --> GntiFreavositl:::txtsize
 
-Innanrlo@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 07:58 AM_
+Innanrlo@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 03:29 PM_
 International reaction to german election" }
 GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
 German election victor friedrich merz plans pivot from us as coalition talks loom" }
@@ -105,7 +108,7 @@ Gnboohoalrt:::txtsize --> GntiFreavositl:::txtsize
 GntiFreavositl:::txtsize --> PiFreeyst:::txtsize
 GntiFreavositl:::txtsize --> Niletarcrbtg:::txtsize
 
-Unmaagsesrivn@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 06:56 AM_
+Unmaagsesrivn@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 12:59 PM_
 Ukraine hemmed in as us backing frays three years after russian invasion" }
 TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
 Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
@@ -152,5 +155,5 @@ Tdskeitly:::txtsize --> LolnfTmathecy:::txtsize
 Tdskeitly:::txtsize --> Tiwitnifd:::txtsize
 
 ```
-<i>Last updated: 2025-02-24 12:00:31.122220 (GMT+8)</i>
+<i>Last updated: 2025-02-24 16:00:56.950100 (GMT+8)</i>
 <!-- END -->
