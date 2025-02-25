@@ -16,6 +16,31 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Tfheiiradl@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 06:33 PM_
+Trump fans the hopes of right-wing parties around the globe" }
+AfogyaecfgDy@{ shape: win-pane, label: "_UPDATED Feb 16, 2025, 03:18 PM_
+Anger, fear, nostalgia: why german voters back the far-right afd party" }
+Mrhimrfamtii@{ shape: win-pane, label: "_UPDATED Feb 16, 2025, 05:34 AM_
+Mother and child die from injuries after car ramming attack in munich" }
+Nyipdagcubeac@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 11:14 AM_
+Nearly 30 hurt in suspected car ramming attack in munich before german election" }
+AnoosMhagiesos@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 08:27 PM_
+Afghan national confesses to munich car ramming that injured 36, prosecutor says" }
+VmGnifdicifctm@{ shape: win-pane, label: "_UPDATED Feb 15, 2025, 06:45 AM_
+Vance meets german far-right afd leader amid election interference criticism" }
+EusrahdXsttten@{ shape: win-pane, label: "_UPDATED Jan 10, 2025, 04:05 AM_
+Elon musk hosts german far-right leader on x, stirs angst about election meddling" }
+IincEelifofp@{ shape: win-pane, label: "_UPDATED Feb 15, 2025, 04:33 AM_
+In munich, vance accuses european politicians of censoring free speech" }
+
+Tfheiiradl:::txtsize --> AfogyaecfgDy:::txtsize
+AfogyaecfgDy:::txtsize --> Mrhimrfamtii:::txtsize
+Mrhimrfamtii:::txtsize --> Nyipdagcubeac:::txtsize
+Mrhimrfamtii:::txtsize --> AnoosMhagiesos:::txtsize
+AfogyaecfgDy:::txtsize --> VmGnifdicifctm:::txtsize
+VmGnifdicifctm:::txtsize --> EusrahdXsttten:::txtsize
+VmGnifdicifctm:::txtsize --> IincEelifofp:::txtsize
+
 UuCipuUnwUnruse@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 11:44 AM_
 Un security council adopts neutral us stance on war in ukraine as trump pursues peace" }
 DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
@@ -35,7 +60,7 @@ Bsnranicsak:::txtsize --> Figokesnsts:::txtsize
 DsruasvUn:::txtsize --> Figokesnsts:::txtsize
 Figokesnsts:::txtsize --> DsruasvUn:::txtsize
 
-Psuoopvmnesr@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 07:50 AM_
+Psuoopvmnesr@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 04:32 PM_
 Putin says russia open to europe’s involvement in peace talks on ukraine" }
 RaemaoiaiatUn@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 01:47 AM_
 Russia hardens demands as it holds first talks with us and without ukraine" }
@@ -60,52 +85,6 @@ RaemaoiaiatUn:::txtsize --> ZssevtdbyaeUnc:::txtsize
 ZssevtdbyaeUnc:::txtsize --> Eihkbkesdsiu:::txtsize
 ZssevtdbyaeUnc:::txtsize --> UsiukcolnutwUn:::txtsize
 
-Nalwculaeea@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 05:37 AM_
-New chancellor, new policies, but will germany see any real change?" }
-GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
-German election victor friedrich merz plans pivot from us as coalition talks loom" }
-PiFreeyst@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 06:55 AM_
-Policies of friedrich merz's germany's conservatives" }
-Niletarcrbtg@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 04:19 AM_
-‘next time we’ll come first’: german far-right celebrates breakthrough" }
-GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
-German election victor friedrich merz plans pivot from us as coalition talks loom" }
-Niletarcrbtg@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 04:19 AM_
-‘next time we’ll come first’: german far-right celebrates breakthrough" }
-Eudemrtydn@{ shape: win-pane, label: "_UPDATED Jan 26, 2025, 09:43 PM_
-Elon musk addresses german far-right rally by video link" }
-GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
-German election victor friedrich merz plans pivot from us as coalition talks loom" }
-GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
-German election victor friedrich merz plans pivot from us as coalition talks loom" }
-PiFreeyst@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 06:55 AM_
-Policies of friedrich merz's germany's conservatives" }
-Niletarcrbtg@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 04:19 AM_
-‘next time we’ll come first’: german far-right celebrates breakthrough" }
-GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
-German election victor friedrich merz plans pivot from us as coalition talks loom" }
-Niletarcrbtg@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 04:19 AM_
-‘next time we’ll come first’: german far-right celebrates breakthrough" }
-Eudemrtydn@{ shape: win-pane, label: "_UPDATED Jan 26, 2025, 09:43 PM_
-Elon musk addresses german far-right rally by video link" }
-GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
-German election victor friedrich merz plans pivot from us as coalition talks loom" }
-
-Nalwculaeea:::txtsize --> GntiFreavositl:::txtsize
-GntiFreavositl:::txtsize --> PiFreeyst:::txtsize
-PiFreeyst:::txtsize --> Niletarcrbtg:::txtsize
-PiFreeyst:::txtsize --> GntiFreavositl:::txtsize
-GntiFreavositl:::txtsize --> Niletarcrbtg:::txtsize
-Niletarcrbtg:::txtsize --> Eudemrtydn:::txtsize
-Niletarcrbtg:::txtsize --> GntiFreavositl:::txtsize
-Nalwculaeea:::txtsize --> GntiFreavositl:::txtsize
-GntiFreavositl:::txtsize --> PiFreeyst:::txtsize
-PiFreeyst:::txtsize --> Niletarcrbtg:::txtsize
-PiFreeyst:::txtsize --> GntiFreavositl:::txtsize
-GntiFreavositl:::txtsize --> Niletarcrbtg:::txtsize
-Niletarcrbtg:::txtsize --> Eudemrtydn:::txtsize
-Niletarcrbtg:::txtsize --> GntiFreavositl:::txtsize
-
 ```
-<i>Last updated: 2025-02-25 16:00:55.010145 (GMT+8)</i>
+<i>Last updated: 2025-02-25 20:00:20.351681 (GMT+8)</i>
 <!-- END -->
