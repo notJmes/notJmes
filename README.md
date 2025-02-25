@@ -16,7 +16,7 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Nalwculaeea@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 09:07 PM_
+Nalwculaeea@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 05:37 AM_
 New chancellor, new policies, but will germany see any real change?" }
 GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
 German election victor friedrich merz plans pivot from us as coalition talks loom" }
@@ -152,5 +152,5 @@ Umehtiusrnanii:::txtsize --> Usreptwua:::txtsize
 Umehtiusrnanii:::txtsize --> Tdskeitly:::txtsize
 
 ```
-<i>Last updated: 2025-02-25 04:01:00.697056 (GMT+8)</i>
+<i>Last updated: 2025-02-25 08:00:20.509662 (GMT+8)</i>
 <!-- END -->
