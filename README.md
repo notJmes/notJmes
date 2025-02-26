@@ -16,82 +16,82 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-UneUedegpo@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 11:57 AM_
+UnsseillU@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 11:21 PM_
+Ukraine says it has agreed on minerals deal with us" }
+Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
+Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
+Usreptwua@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 06:15 PM_
+Us, russia forge ahead on peace talks, without ukraine" }
+TseetFseaonulnRas@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 05:01 PM_
+Trump says he may meet putin in feb, dismisses ukraine concerns about exclusion from russia talks" }
+Usrrrlisasprwl@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:38 PM_
+Us, russia agree to restore diplomatic missions as first step in ukraine war talks" }
+Tdskeitly@{ shape: win-pane, label: "_UPDATED Feb 13, 2025, 11:02 AM_
+Trump discusses ukraine war with putin, zelensky" }
+LolnfTmathecy@{ shape: win-pane, label: "_UPDATED Feb 08, 2025, 08:55 PM_
+‘let’s do a deal’: zelensky offers trump mineral partnership, seeks security" }
+Tiwitnifd@{ shape: win-pane, label: "_PUBLISHED Feb 25, 2022, 08:15 AM_
+Timeline: how russia's attack on ukraine unfolded" }
+UneUedegpo@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 09:02 PM_
 Ukraine agrees on us minerals deal, seeking trump support" }
 TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
 Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
 Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
 Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
-Usreptwua@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 06:15 PM_
-Us, russia forge ahead on peace talks, without ukraine" }
-Tdskeitly@{ shape: win-pane, label: "_UPDATED Feb 13, 2025, 11:02 AM_
-Trump discusses ukraine war with putin, zelensky" }
 Zsymnnaberumr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:14 PM_
 Zelensky says trump is in ‘disinformation’ bubble on ukraine, urges ‘more truth’" }
-Mrlspdupy@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:12 PM_
-Major risks loom as trump upends us’ russia policy" }
-Feisnthmmrfr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:06 PM_
-France says it does not understand why trump blames ukraine for war" }
 UuCipuUnwUnruse@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 11:44 AM_
 Un security council adopts neutral us stance on war in ukraine as trump pursues peace" }
 DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
 'darkest hours of europe' as russia invades ukraine" }
-Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
-Bloodshed and tears as eastern ukraine faces russian attack" }
-Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
-Fighting rages around ukraine as russia invades from three sides" }
 
+UnsseillU:::txtsize --> Umehtiusrnanii:::txtsize
+Umehtiusrnanii:::txtsize --> Usreptwua:::txtsize
+Usreptwua:::txtsize --> TseetFseaonulnRas:::txtsize
+Usreptwua:::txtsize --> Usrrrlisasprwl:::txtsize
+Umehtiusrnanii:::txtsize --> Tdskeitly:::txtsize
+Tdskeitly:::txtsize --> LolnfTmathecy:::txtsize
+Tdskeitly:::txtsize --> Tiwitnifd:::txtsize
+UnsseillU:::txtsize --> UneUedegpo:::txtsize
 UneUedegpo:::txtsize --> TcUnlytaicioiis:::txtsize
 TcUnlytaicioiis:::txtsize --> Umehtiusrnanii:::txtsize
-Umehtiusrnanii:::txtsize --> Usreptwua:::txtsize
-Umehtiusrnanii:::txtsize --> Tdskeitly:::txtsize
 TcUnlytaicioiis:::txtsize --> Zsymnnaberumr:::txtsize
-Zsymnnaberumr:::txtsize --> Mrlspdupy:::txtsize
-Zsymnnaberumr:::txtsize --> Feisnthmmrfr:::txtsize
 UneUedegpo:::txtsize --> UuCipuUnwUnruse:::txtsize
 UuCipuUnwUnruse:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
-DsruasvUn:::txtsize --> Figokesnsts:::txtsize
 
-Imeuntjrtasy@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 09:20 AM_
-It’s time to seize russian assets, not just freeze them, says uk’s lammy" }
-Uabsnegesti@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 02:14 AM_
-Uk’s starmer boosts defence spending on eve of washington trip" }
-Gnicztlvfser@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 11:56 AM_
-Germany’s friedrich merz questions longevity of nato’s ‘current form’" }
-GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
-German election victor friedrich merz plans pivot from us as coalition talks loom" }
-Eeftesittsciods@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 10:52 PM_
-Europe can afford to defend itself without us but needs more coordination, study says" }
-Eeftesittsciods@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 10:52 PM_
-Europe can afford to defend itself without us but needs more coordination, study says" }
-CbTsiadslaeZs@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 05:19 PM_
-China backs trump’s ukraine peace bid at g-20 as us allies rally behind zelensky" }
-Gnicztlvfser@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 11:56 AM_
-Germany’s friedrich merz questions longevity of nato’s ‘current form’" }
-GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
-German election victor friedrich merz plans pivot from us as coalition talks loom" }
-PiFreeyst@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 06:55 AM_
-Policies of friedrich merz's germany's conservatives" }
-Niletarcrbtg@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 04:19 AM_
-‘next time we’ll come first’: german far-right celebrates breakthrough" }
-Eeftesittsciods@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 10:52 PM_
-Europe can afford to defend itself without us but needs more coordination, study says" }
-CbTsiadslaeZs@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 05:19 PM_
-China backs trump’s ukraine peace bid at g-20 as us allies rally behind zelensky" }
+Tspheniils@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 11:09 PM_
+Trump says apple should eliminate diversity policies" }
+Ashreedsoe@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 04:13 PM_
+Apple shareholders vote to keep its diversity policies" }
+Ugcudnyresoc@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 03:34 PM_
+Us judge blocks trump bid to ban dei by federal agencies and contractors" }
+TtaDvpodseo@{ shape: win-pane, label: "_UPDATED Jan 28, 2025, 06:47 PM_
+Trump takes aim at dei, covid-19 expulsions and transgender troops" }
+Asasmsewaam@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 10:34 AM_
+Apple’s dictation system transcribes the word ‘racist’ as ‘trump’" }
+ApboSstaonoa@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 11:15 PM_
+Apple plans $669 billion in us investment, 20,000 research jobs in next four years" }
+Asoewrsfrnn@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 10:47 AM_
+Apple’s tim cook meeting with trump as tariffs threaten iphones" }
+TwcitrCsotfSsi@{ shape: win-pane, label: "_UPDATED Feb 10, 2025, 11:31 PM_
+Trade war escalation on the cards as china’s tit-for-tat tariffs on us goods kick in" }
+Asoewrsfrnn@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 10:47 AM_
+Apple’s tim cook meeting with trump as tariffs threaten iphones" }
+Acnrrhteur@{ shape: win-pane, label: "_UPDATED Feb 17, 2025, 02:51 PM_
+American consumers learn to shop in the age of trump tariffs" }
+Wrmccraoe@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 08:03 PM_
+What are trump’s reciprocal tariffs and who may be hit?" }
 
-Imeuntjrtasy:::txtsize --> Uabsnegesti:::txtsize
-Uabsnegesti:::txtsize --> Gnicztlvfser:::txtsize
-Gnicztlvfser:::txtsize --> GntiFreavositl:::txtsize
-Gnicztlvfser:::txtsize --> Eeftesittsciods:::txtsize
-Uabsnegesti:::txtsize --> Eeftesittsciods:::txtsize
-Eeftesittsciods:::txtsize --> CbTsiadslaeZs:::txtsize
-Imeuntjrtasy:::txtsize --> Gnicztlvfser:::txtsize
-Gnicztlvfser:::txtsize --> GntiFreavositl:::txtsize
-GntiFreavositl:::txtsize --> PiFreeyst:::txtsize
-GntiFreavositl:::txtsize --> Niletarcrbtg:::txtsize
-Gnicztlvfser:::txtsize --> Eeftesittsciods:::txtsize
-Eeftesittsciods:::txtsize --> CbTsiadslaeZs:::txtsize
+Tspheniils:::txtsize --> Ashreedsoe:::txtsize
+Ashreedsoe:::txtsize --> Ugcudnyresoc:::txtsize
+Ugcudnyresoc:::txtsize --> TtaDvpodseo:::txtsize
+Tspheniils:::txtsize --> Asasmsewaam:::txtsize
+Asasmsewaam:::txtsize --> ApboSstaonoa:::txtsize
+ApboSstaonoa:::txtsize --> Asoewrsfrnn:::txtsize
+ApboSstaonoa:::txtsize --> TwcitrCsotfSsi:::txtsize
+Asasmsewaam:::txtsize --> Asoewrsfrnn:::txtsize
+Asoewrsfrnn:::txtsize --> Acnrrhteur:::txtsize
+Asoewrsfrnn:::txtsize --> Wrmccraoe:::txtsize
 
 Tfheiiradl@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 05:21 AM_
 Trump fans the hopes of right-wing parties around the globe" }
@@ -119,5 +119,5 @@ VmGnifdicifctm:::txtsize --> EusrahdXsttten:::txtsize
 VmGnifdicifctm:::txtsize --> IincEelifofp:::txtsize
 
 ```
-<i>Last updated: 2025-02-26 20:00:20.985583 (GMT+8)</i>
+<i>Last updated: 2025-02-27 00:00:40.762356 (GMT+8)</i>
 <!-- END -->
