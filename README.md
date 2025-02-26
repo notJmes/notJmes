@@ -16,8 +16,22 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-UnsseillU@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 11:21 PM_
-Ukraine says it has agreed on minerals deal with us" }
+UntnreTcrlyt@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 03:05 AM_
+Ukraine set to sign minerals deal, as trump confirms zelensky visit" }
+TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
+Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
+Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
+Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
+Usreptwua@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 06:15 PM_
+Us, russia forge ahead on peace talks, without ukraine" }
+Tdskeitly@{ shape: win-pane, label: "_UPDATED Feb 13, 2025, 11:02 AM_
+Trump discusses ukraine war with putin, zelensky" }
+Zsymnnaberumr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:14 PM_
+Zelensky says trump is in ‘disinformation’ bubble on ukraine, urges ‘more truth’" }
+Mrlspdupy@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:12 PM_
+Major risks loom as trump upends us’ russia policy" }
+Feisnthmmrfr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:06 PM_
+France says it does not understand why trump blames ukraine for war" }
 Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
 Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
 Usreptwua@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 06:15 PM_
@@ -32,32 +46,21 @@ LolnfTmathecy@{ shape: win-pane, label: "_UPDATED Feb 08, 2025, 08:55 PM_
 ‘let’s do a deal’: zelensky offers trump mineral partnership, seeks security" }
 Tiwitnifd@{ shape: win-pane, label: "_PUBLISHED Feb 25, 2022, 08:15 AM_
 Timeline: how russia's attack on ukraine unfolded" }
-UneUedegpo@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 09:02 PM_
-Ukraine agrees on us minerals deal, seeking trump support" }
-TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
-Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
-Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
-Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
-Zsymnnaberumr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:14 PM_
-Zelensky says trump is in ‘disinformation’ bubble on ukraine, urges ‘more truth’" }
-UuCipuUnwUnruse@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 11:44 AM_
-Un security council adopts neutral us stance on war in ukraine as trump pursues peace" }
-DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
-'darkest hours of europe' as russia invades ukraine" }
 
-UnsseillU:::txtsize --> Umehtiusrnanii:::txtsize
+UntnreTcrlyt:::txtsize --> TcUnlytaicioiis:::txtsize
+TcUnlytaicioiis:::txtsize --> Umehtiusrnanii:::txtsize
+Umehtiusrnanii:::txtsize --> Usreptwua:::txtsize
+Umehtiusrnanii:::txtsize --> Tdskeitly:::txtsize
+TcUnlytaicioiis:::txtsize --> Zsymnnaberumr:::txtsize
+Zsymnnaberumr:::txtsize --> Mrlspdupy:::txtsize
+Zsymnnaberumr:::txtsize --> Feisnthmmrfr:::txtsize
+UntnreTcrlyt:::txtsize --> Umehtiusrnanii:::txtsize
 Umehtiusrnanii:::txtsize --> Usreptwua:::txtsize
 Usreptwua:::txtsize --> TseetFseaonulnRas:::txtsize
 Usreptwua:::txtsize --> Usrrrlisasprwl:::txtsize
 Umehtiusrnanii:::txtsize --> Tdskeitly:::txtsize
 Tdskeitly:::txtsize --> LolnfTmathecy:::txtsize
 Tdskeitly:::txtsize --> Tiwitnifd:::txtsize
-UnsseillU:::txtsize --> UneUedegpo:::txtsize
-UneUedegpo:::txtsize --> TcUnlytaicioiis:::txtsize
-TcUnlytaicioiis:::txtsize --> Umehtiusrnanii:::txtsize
-TcUnlytaicioiis:::txtsize --> Zsymnnaberumr:::txtsize
-UneUedegpo:::txtsize --> UuCipuUnwUnruse:::txtsize
-UuCipuUnwUnruse:::txtsize --> DsruasvUn:::txtsize
 
 Tspheniils@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 11:09 PM_
 Trump says apple should eliminate diversity policies" }
@@ -119,5 +122,5 @@ VmGnifdicifctm:::txtsize --> EusrahdXsttten:::txtsize
 VmGnifdicifctm:::txtsize --> IincEelifofp:::txtsize
 
 ```
-<i>Last updated: 2025-02-27 00:00:40.762356 (GMT+8)</i>
+<i>Last updated: 2025-02-27 04:01:00.204759 (GMT+8)</i>
 <!-- END -->
