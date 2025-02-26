@@ -16,6 +16,83 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+UneUedegpo@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 11:57 AM_
+Ukraine agrees on us minerals deal, seeking trump support" }
+TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
+Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
+Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
+Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
+Usreptwua@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 06:15 PM_
+Us, russia forge ahead on peace talks, without ukraine" }
+Tdskeitly@{ shape: win-pane, label: "_UPDATED Feb 13, 2025, 11:02 AM_
+Trump discusses ukraine war with putin, zelensky" }
+Zsymnnaberumr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:14 PM_
+Zelensky says trump is in ‘disinformation’ bubble on ukraine, urges ‘more truth’" }
+Mrlspdupy@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:12 PM_
+Major risks loom as trump upends us’ russia policy" }
+Feisnthmmrfr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:06 PM_
+France says it does not understand why trump blames ukraine for war" }
+UuCipuUnwUnruse@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 11:44 AM_
+Un security council adopts neutral us stance on war in ukraine as trump pursues peace" }
+DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
+'darkest hours of europe' as russia invades ukraine" }
+Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
+Bloodshed and tears as eastern ukraine faces russian attack" }
+Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
+Fighting rages around ukraine as russia invades from three sides" }
+
+UneUedegpo:::txtsize --> TcUnlytaicioiis:::txtsize
+TcUnlytaicioiis:::txtsize --> Umehtiusrnanii:::txtsize
+Umehtiusrnanii:::txtsize --> Usreptwua:::txtsize
+Umehtiusrnanii:::txtsize --> Tdskeitly:::txtsize
+TcUnlytaicioiis:::txtsize --> Zsymnnaberumr:::txtsize
+Zsymnnaberumr:::txtsize --> Mrlspdupy:::txtsize
+Zsymnnaberumr:::txtsize --> Feisnthmmrfr:::txtsize
+UneUedegpo:::txtsize --> UuCipuUnwUnruse:::txtsize
+UuCipuUnwUnruse:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
+DsruasvUn:::txtsize --> Figokesnsts:::txtsize
+
+Imeuntjrtasy@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 09:20 AM_
+It’s time to seize russian assets, not just freeze them, says uk’s lammy" }
+Uabsnegesti@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 02:14 AM_
+Uk’s starmer boosts defence spending on eve of washington trip" }
+Gnicztlvfser@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 11:56 AM_
+Germany’s friedrich merz questions longevity of nato’s ‘current form’" }
+GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
+German election victor friedrich merz plans pivot from us as coalition talks loom" }
+Eeftesittsciods@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 10:52 PM_
+Europe can afford to defend itself without us but needs more coordination, study says" }
+Eeftesittsciods@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 10:52 PM_
+Europe can afford to defend itself without us but needs more coordination, study says" }
+CbTsiadslaeZs@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 05:19 PM_
+China backs trump’s ukraine peace bid at g-20 as us allies rally behind zelensky" }
+Gnicztlvfser@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 11:56 AM_
+Germany’s friedrich merz questions longevity of nato’s ‘current form’" }
+GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
+German election victor friedrich merz plans pivot from us as coalition talks loom" }
+PiFreeyst@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 06:55 AM_
+Policies of friedrich merz's germany's conservatives" }
+Niletarcrbtg@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 04:19 AM_
+‘next time we’ll come first’: german far-right celebrates breakthrough" }
+Eeftesittsciods@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 10:52 PM_
+Europe can afford to defend itself without us but needs more coordination, study says" }
+CbTsiadslaeZs@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 05:19 PM_
+China backs trump’s ukraine peace bid at g-20 as us allies rally behind zelensky" }
+
+Imeuntjrtasy:::txtsize --> Uabsnegesti:::txtsize
+Uabsnegesti:::txtsize --> Gnicztlvfser:::txtsize
+Gnicztlvfser:::txtsize --> GntiFreavositl:::txtsize
+Gnicztlvfser:::txtsize --> Eeftesittsciods:::txtsize
+Uabsnegesti:::txtsize --> Eeftesittsciods:::txtsize
+Eeftesittsciods:::txtsize --> CbTsiadslaeZs:::txtsize
+Imeuntjrtasy:::txtsize --> Gnicztlvfser:::txtsize
+Gnicztlvfser:::txtsize --> GntiFreavositl:::txtsize
+GntiFreavositl:::txtsize --> PiFreeyst:::txtsize
+GntiFreavositl:::txtsize --> Niletarcrbtg:::txtsize
+Gnicztlvfser:::txtsize --> Eeftesittsciods:::txtsize
+Eeftesittsciods:::txtsize --> CbTsiadslaeZs:::txtsize
+
 Tfheiiradl@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 05:21 AM_
 Trump fans the hopes of right-wing parties around the globe" }
 AfogyaecfgDy@{ shape: win-pane, label: "_UPDATED Feb 16, 2025, 03:18 PM_
@@ -41,50 +118,6 @@ AfogyaecfgDy:::txtsize --> VmGnifdicifctm:::txtsize
 VmGnifdicifctm:::txtsize --> EusrahdXsttten:::txtsize
 VmGnifdicifctm:::txtsize --> IincEelifofp:::txtsize
 
-UuCipuUnwUnruse@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 11:44 AM_
-Un security council adopts neutral us stance on war in ukraine as trump pursues peace" }
-DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
-'darkest hours of europe' as russia invades ukraine" }
-Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
-Bloodshed and tears as eastern ukraine faces russian attack" }
-Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
-Fighting rages around ukraine as russia invades from three sides" }
-Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
-Fighting rages around ukraine as russia invades from three sides" }
-DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
-'darkest hours of europe' as russia invades ukraine" }
-
-UuCipuUnwUnruse:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
-Bsnranicsak:::txtsize --> Figokesnsts:::txtsize
-DsruasvUn:::txtsize --> Figokesnsts:::txtsize
-Figokesnsts:::txtsize --> DsruasvUn:::txtsize
-
-Psuoopvmnesr@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 04:32 PM_
-Putin says russia open to europe’s involvement in peace talks on ukraine" }
-RaemaoiaiatUn@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 01:47 AM_
-Russia hardens demands as it holds first talks with us and without ukraine" }
-ZssevtdbyaeUnc@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 12:34 PM_
-Zelensky postpones his visit to saudi arabia, says no talks behind ukraine’s back" }
-Eihkbkesdsiu@{ shape: win-pane, label: "_UPDATED Aug 14, 2024, 11:44 AM_
-Explainer: what to know about ukraine’s cross-border assault into russia" }
-UsiukcolnutwUn@{ shape: win-pane, label: "_UPDATED Feb 18, 2025, 11:07 PM_
-Us says all sides must make concessions on land and security to end war in ukraine" }
-ZssevtdbyaeUnc@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 12:34 PM_
-Zelensky postpones his visit to saudi arabia, says no talks behind ukraine’s back" }
-Eihkbkesdsiu@{ shape: win-pane, label: "_UPDATED Aug 14, 2024, 11:44 AM_
-Explainer: what to know about ukraine’s cross-border assault into russia" }
-UsiukcolnutwUn@{ shape: win-pane, label: "_UPDATED Feb 18, 2025, 11:07 PM_
-Us says all sides must make concessions on land and security to end war in ukraine" }
-
-Psuoopvmnesr:::txtsize --> RaemaoiaiatUn:::txtsize
-RaemaoiaiatUn:::txtsize --> ZssevtdbyaeUnc:::txtsize
-ZssevtdbyaeUnc:::txtsize --> Eihkbkesdsiu:::txtsize
-ZssevtdbyaeUnc:::txtsize --> UsiukcolnutwUn:::txtsize
-RaemaoiaiatUn:::txtsize --> ZssevtdbyaeUnc:::txtsize
-ZssevtdbyaeUnc:::txtsize --> Eihkbkesdsiu:::txtsize
-ZssevtdbyaeUnc:::txtsize --> UsiukcolnutwUn:::txtsize
-
 ```
-<i>Last updated: 2025-02-26 08:00:13.297097 (GMT+8)</i>
+<i>Last updated: 2025-02-26 12:00:34.763479 (GMT+8)</i>
 <!-- END -->
