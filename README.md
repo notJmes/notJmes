@@ -16,7 +16,7 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tfheiiradl@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 06:33 PM_
+Tfheiiradl@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 05:21 AM_
 Trump fans the hopes of right-wing parties around the globe" }
 AfogyaecfgDy@{ shape: win-pane, label: "_UPDATED Feb 16, 2025, 03:18 PM_
 Anger, fear, nostalgia: why german voters back the far-right afd party" }
@@ -86,5 +86,5 @@ ZssevtdbyaeUnc:::txtsize --> Eihkbkesdsiu:::txtsize
 ZssevtdbyaeUnc:::txtsize --> UsiukcolnutwUn:::txtsize
 
 ```
-<i>Last updated: 2025-02-26 04:00:56.507957 (GMT+8)</i>
+<i>Last updated: 2025-02-26 08:00:13.297097 (GMT+8)</i>
 <!-- END -->
