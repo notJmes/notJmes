@@ -62,49 +62,6 @@ Estrntuyiooms:::txtsize --> Espflgiumr:::txtsize
 Espflgiumr:::txtsize --> Trsfanneonsds:::txtsize
 Espflgiumr:::txtsize --> FTtfagrtog:::txtsize
 
-TBiamthomfnni@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 09:05 PM_
-Trump, britain's starmer meet at the white house amid differences on ukraine" }
-MnsianneaTt@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 04:49 PM_
-Macron warns ukraine peace can’t mean ‘surrender’, after trump talks" }
-DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
-'darkest hours of europe' as russia invades ukraine" }
-Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
-Bloodshed and tears as eastern ukraine faces russian attack" }
-Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
-Fighting rages around ukraine as russia invades from three sides" }
-Tswunirwnmsdcgl@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 11:13 AM_
-Trump’s call with putin on ukraine: europe’s worst nightmare is rapidly becoming a reality" }
-Tdskeitly@{ shape: win-pane, label: "_UPDATED Feb 13, 2025, 11:02 AM_
-Trump discusses ukraine war with putin, zelensky" }
-TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
-Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
-Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
-Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
-Usreptwua@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 06:15 PM_
-Us, russia forge ahead on peace talks, without ukraine" }
-Tdskeitly@{ shape: win-pane, label: "_UPDATED Feb 13, 2025, 11:02 AM_
-Trump discusses ukraine war with putin, zelensky" }
-Zsymnnaberumr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:14 PM_
-Zelensky says trump is in ‘disinformation’ bubble on ukraine, urges ‘more truth’" }
-Mrlspdupy@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:12 PM_
-Major risks loom as trump upends us’ russia policy" }
-Feisnthmmrfr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:06 PM_
-France says it does not understand why trump blames ukraine for war" }
-
-TBiamthomfnni:::txtsize --> MnsianneaTt:::txtsize
-MnsianneaTt:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
-DsruasvUn:::txtsize --> Figokesnsts:::txtsize
-MnsianneaTt:::txtsize --> Tswunirwnmsdcgl:::txtsize
-Tswunirwnmsdcgl:::txtsize --> Tdskeitly:::txtsize
-TBiamthomfnni:::txtsize --> TcUnlytaicioiis:::txtsize
-TcUnlytaicioiis:::txtsize --> Umehtiusrnanii:::txtsize
-Umehtiusrnanii:::txtsize --> Usreptwua:::txtsize
-Umehtiusrnanii:::txtsize --> Tdskeitly:::txtsize
-TcUnlytaicioiis:::txtsize --> Zsymnnaberumr:::txtsize
-Zsymnnaberumr:::txtsize --> Mrlspdupy:::txtsize
-Zsymnnaberumr:::txtsize --> Feisnthmmrfr:::txtsize
-
 Hstarcfafeisrn@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 10:16 PM_
 Hamas says it is ready for more ceasefire talks after releasing hostage remains" }
 IlggtooaGeiaodanr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 08:31 PM_
@@ -151,6 +108,52 @@ Hseoasscauao:::txtsize --> IlggtooaGeiaodanr:::txtsize
 IlggtooaGeiaodanr:::txtsize --> Hmdulnrecsud:::txtsize
 IlggtooaGeiaodanr:::txtsize --> HohaarGscmn:::txtsize
 
+ScliUcecaoi@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 09:43 PM_
+Services collapsing as usaid cuts health contracts worldwide" }
+Taitahnetidr@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 12:28 PM_
+Trump administration says it has cancelled most foreign aid contracts" }
+Udpseekrtnshs@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 09:01 AM_
+Usaid disruptions leave oxygen tanks, tb drugs stuck in ships, warehouses" }
+Ucasosgpnaoiton@{ shape: win-pane, label: "_UPDATED Feb 12, 2025, 11:01 AM_
+Usaid contractors join others suing trump administration over dismantling of agency" }
+WdruugAainednrt@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 12:47 PM_
+Watchdog warns trump’s gutting of usaid leaves $11 billion unspent aid with no oversight" }
+Uwdrtilriitec@{ shape: win-pane, label: "_UPDATED Feb 12, 2025, 03:35 PM_
+Usaid watchdog fired after critical report on bid to dismantle the agency" }
+WdruugAainednrt@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 12:47 PM_
+Watchdog warns trump’s gutting of usaid leaves $11 billion unspent aid with no oversight" }
+Uctgeeugote@{ shape: win-pane, label: "_UPDATED Feb 10, 2025, 02:36 PM_
+Usaid climate programmes aimed to curb migration. now they’re gone" }
+TaitoiUjnS@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 03:26 PM_
+Trump administration to eliminate 1,600 usaid jobs in the us" }
+EurtooimlgtUtt@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 07:51 AM_
+Elon musk targets the closure of usaid; trump mulls merging it into us state dept" }
+Moasteyelueffari@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 06:13 PM_
+Musk now has access to vital treasury system, will give update on reform effort amid criticism" }
+MStuamirnasg@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 09:51 PM_
+More usaid staff ousted as trump administration dismantles aid agency" }
+Ufedpimiducs@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 10:11 PM_
+Us aid freeze sows disruption in hiv, malaria product supply chains" }
+Tsidztoalomdos@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 01:54 AM_
+Trump’s foreign aid freeze hurts indonesian health programmes and aid workers" }
+TsrccmorShg@{ shape: win-pane, label: "_UPDATED Feb 17, 2025, 02:41 AM_
+Trump's aid freeze could cause millions more aids deaths: un agency" }
+
+ScliUcecaoi:::txtsize --> Taitahnetidr:::txtsize
+Taitahnetidr:::txtsize --> Udpseekrtnshs:::txtsize
+Udpseekrtnshs:::txtsize --> Ucasosgpnaoiton:::txtsize
+Udpseekrtnshs:::txtsize --> WdruugAainednrt:::txtsize
+Taitahnetidr:::txtsize --> Uwdrtilriitec:::txtsize
+Uwdrtilriitec:::txtsize --> WdruugAainednrt:::txtsize
+Uwdrtilriitec:::txtsize --> Uctgeeugote:::txtsize
+ScliUcecaoi:::txtsize --> TaitoiUjnS:::txtsize
+TaitoiUjnS:::txtsize --> EurtooimlgtUtt:::txtsize
+EurtooimlgtUtt:::txtsize --> Moasteyelueffari:::txtsize
+EurtooimlgtUtt:::txtsize --> MStuamirnasg:::txtsize
+TaitoiUjnS:::txtsize --> Ufedpimiducs:::txtsize
+Ufedpimiducs:::txtsize --> Tsidztoalomdos:::txtsize
+Ufedpimiducs:::txtsize --> TsrccmorShg:::txtsize
+
 ```
-<i>Last updated: 2025-02-28 00:01:10.346994 (GMT+8)</i>
+<i>Last updated: 2025-02-28 04:00:37.521653 (GMT+8)</i>
 <!-- END -->
