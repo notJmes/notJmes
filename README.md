@@ -16,8 +16,8 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-UntnreTcrlyt@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 03:05 AM_
-Ukraine set to sign minerals deal, as trump confirms zelensky visit" }
+Tcrlytstskere@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 04:11 AM_
+Trump confirms zelensky visit to washington to sign ukraine minerals deal" }
 TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
 Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
 Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
@@ -32,35 +32,35 @@ Mrlspdupy@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:12 PM_
 Major risks loom as trump upends us’ russia policy" }
 Feisnthmmrfr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:06 PM_
 France says it does not understand why trump blames ukraine for war" }
+TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
+Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
 Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
 Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
 Usreptwua@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 06:15 PM_
 Us, russia forge ahead on peace talks, without ukraine" }
-TseetFseaonulnRas@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 05:01 PM_
-Trump says he may meet putin in feb, dismisses ukraine concerns about exclusion from russia talks" }
-Usrrrlisasprwl@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:38 PM_
-Us, russia agree to restore diplomatic missions as first step in ukraine war talks" }
 Tdskeitly@{ shape: win-pane, label: "_UPDATED Feb 13, 2025, 11:02 AM_
 Trump discusses ukraine war with putin, zelensky" }
-LolnfTmathecy@{ shape: win-pane, label: "_UPDATED Feb 08, 2025, 08:55 PM_
-‘let’s do a deal’: zelensky offers trump mineral partnership, seeks security" }
-Tiwitnifd@{ shape: win-pane, label: "_PUBLISHED Feb 25, 2022, 08:15 AM_
-Timeline: how russia's attack on ukraine unfolded" }
+Zsymnnaberumr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:14 PM_
+Zelensky says trump is in ‘disinformation’ bubble on ukraine, urges ‘more truth’" }
+Mrlspdupy@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:12 PM_
+Major risks loom as trump upends us’ russia policy" }
+Feisnthmmrfr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:06 PM_
+France says it does not understand why trump blames ukraine for war" }
 
-UntnreTcrlyt:::txtsize --> TcUnlytaicioiis:::txtsize
+Tcrlytstskere:::txtsize --> TcUnlytaicioiis:::txtsize
 TcUnlytaicioiis:::txtsize --> Umehtiusrnanii:::txtsize
 Umehtiusrnanii:::txtsize --> Usreptwua:::txtsize
 Umehtiusrnanii:::txtsize --> Tdskeitly:::txtsize
 TcUnlytaicioiis:::txtsize --> Zsymnnaberumr:::txtsize
 Zsymnnaberumr:::txtsize --> Mrlspdupy:::txtsize
 Zsymnnaberumr:::txtsize --> Feisnthmmrfr:::txtsize
-UntnreTcrlyt:::txtsize --> Umehtiusrnanii:::txtsize
+Tcrlytstskere:::txtsize --> TcUnlytaicioiis:::txtsize
+TcUnlytaicioiis:::txtsize --> Umehtiusrnanii:::txtsize
 Umehtiusrnanii:::txtsize --> Usreptwua:::txtsize
-Usreptwua:::txtsize --> TseetFseaonulnRas:::txtsize
-Usreptwua:::txtsize --> Usrrrlisasprwl:::txtsize
 Umehtiusrnanii:::txtsize --> Tdskeitly:::txtsize
-Tdskeitly:::txtsize --> LolnfTmathecy:::txtsize
-Tdskeitly:::txtsize --> Tiwitnifd:::txtsize
+TcUnlytaicioiis:::txtsize --> Zsymnnaberumr:::txtsize
+Zsymnnaberumr:::txtsize --> Mrlspdupy:::txtsize
+Zsymnnaberumr:::txtsize --> Feisnthmmrfr:::txtsize
 
 Tspheniils@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 11:09 PM_
 Trump says apple should eliminate diversity policies" }
@@ -122,5 +122,5 @@ VmGnifdicifctm:::txtsize --> EusrahdXsttten:::txtsize
 VmGnifdicifctm:::txtsize --> IincEelifofp:::txtsize
 
 ```
-<i>Last updated: 2025-02-27 04:01:00.204759 (GMT+8)</i>
+<i>Last updated: 2025-02-27 08:00:23.712977 (GMT+8)</i>
 <!-- END -->
