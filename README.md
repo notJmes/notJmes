@@ -62,65 +62,89 @@ TcUnlytaicioiis:::txtsize --> Zsymnnaberumr:::txtsize
 Zsymnnaberumr:::txtsize --> Mrlspdupy:::txtsize
 Zsymnnaberumr:::txtsize --> Feisnthmmrfr:::txtsize
 
-Tspheniils@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 11:09 PM_
-Trump says apple should eliminate diversity policies" }
-Ashreedsoe@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 04:13 PM_
-Apple shareholders vote to keep its diversity policies" }
-Ugcudnyresoc@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 03:34 PM_
-Us judge blocks trump bid to ban dei by federal agencies and contractors" }
-TtaDvpodseo@{ shape: win-pane, label: "_UPDATED Jan 28, 2025, 06:47 PM_
-Trump takes aim at dei, covid-19 expulsions and transgender troops" }
-Asasmsewaam@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 10:34 AM_
-Apple’s dictation system transcribes the word ‘racist’ as ‘trump’" }
-ApboSstaonoa@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 11:15 PM_
-Apple plans $669 billion in us investment, 20,000 research jobs in next four years" }
-Asoewrsfrnn@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 10:47 AM_
-Apple’s tim cook meeting with trump as tariffs threaten iphones" }
-TwcitrCsotfSsi@{ shape: win-pane, label: "_UPDATED Feb 10, 2025, 11:31 PM_
-Trade war escalation on the cards as china’s tit-for-tat tariffs on us goods kick in" }
-Asoewrsfrnn@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 10:47 AM_
-Apple’s tim cook meeting with trump as tariffs threaten iphones" }
-Acnrrhteur@{ shape: win-pane, label: "_UPDATED Feb 17, 2025, 02:51 PM_
-American consumers learn to shop in the age of trump tariffs" }
-Wrmccraoe@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 08:03 PM_
-What are trump’s reciprocal tariffs and who may be hit?" }
+Uasnbtnrtkee@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 07:00 AM_
+Uk's starmer says only us 'backstop' can secure lasting ukraine peace" }
+CreryelfNttto@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 09:00 AM_
+Countries tell ukraine ‘you are not alone’ after un adopts neutral stance on war" }
+UuCipuUnwUnruse@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 11:44 AM_
+Un security council adopts neutral us stance on war in ukraine as trump pursues peace" }
+DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
+'darkest hours of europe' as russia invades ukraine" }
+UuCipuUnwUnruse@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 11:44 AM_
+Un security council adopts neutral us stance on war in ukraine as trump pursues peace" }
+DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
+'darkest hours of europe' as russia invades ukraine" }
+MnsianneaTt@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 04:49 PM_
+Macron warns ukraine peace can’t mean ‘surrender’, after trump talks" }
+DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
+'darkest hours of europe' as russia invades ukraine" }
+Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
+Bloodshed and tears as eastern ukraine faces russian attack" }
+Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
+Fighting rages around ukraine as russia invades from three sides" }
+Tswunirwnmsdcgl@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 11:13 AM_
+Trump’s call with putin on ukraine: europe’s worst nightmare is rapidly becoming a reality" }
+Tdskeitly@{ shape: win-pane, label: "_UPDATED Feb 13, 2025, 11:02 AM_
+Trump discusses ukraine war with putin, zelensky" }
 
-Tspheniils:::txtsize --> Ashreedsoe:::txtsize
-Ashreedsoe:::txtsize --> Ugcudnyresoc:::txtsize
-Ugcudnyresoc:::txtsize --> TtaDvpodseo:::txtsize
-Tspheniils:::txtsize --> Asasmsewaam:::txtsize
-Asasmsewaam:::txtsize --> ApboSstaonoa:::txtsize
-ApboSstaonoa:::txtsize --> Asoewrsfrnn:::txtsize
-ApboSstaonoa:::txtsize --> TwcitrCsotfSsi:::txtsize
-Asasmsewaam:::txtsize --> Asoewrsfrnn:::txtsize
-Asoewrsfrnn:::txtsize --> Acnrrhteur:::txtsize
-Asoewrsfrnn:::txtsize --> Wrmccraoe:::txtsize
+Uasnbtnrtkee:::txtsize --> CreryelfNttto:::txtsize
+CreryelfNttto:::txtsize --> UuCipuUnwUnruse:::txtsize
+UuCipuUnwUnruse:::txtsize --> DsruasvUn:::txtsize
+CreryelfNttto:::txtsize --> UuCipuUnwUnruse:::txtsize
+UuCipuUnwUnruse:::txtsize --> DsruasvUn:::txtsize
+Uasnbtnrtkee:::txtsize --> MnsianneaTt:::txtsize
+MnsianneaTt:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
+DsruasvUn:::txtsize --> Figokesnsts:::txtsize
+MnsianneaTt:::txtsize --> Tswunirwnmsdcgl:::txtsize
+Tswunirwnmsdcgl:::txtsize --> Tdskeitly:::txtsize
 
-Tfheiiradl@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 05:21 AM_
-Trump fans the hopes of right-wing parties around the globe" }
-AfogyaecfgDy@{ shape: win-pane, label: "_UPDATED Feb 16, 2025, 03:18 PM_
-Anger, fear, nostalgia: why german voters back the far-right afd party" }
-Mrhimrfamtii@{ shape: win-pane, label: "_UPDATED Feb 16, 2025, 05:34 AM_
-Mother and child die from injuries after car ramming attack in munich" }
-Nyipdagcubeac@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 11:14 AM_
-Nearly 30 hurt in suspected car ramming attack in munich before german election" }
-AnoosMhagiesos@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 08:27 PM_
-Afghan national confesses to munich car ramming that injured 36, prosecutor says" }
-VmGnifdicifctm@{ shape: win-pane, label: "_UPDATED Feb 15, 2025, 06:45 AM_
-Vance meets german far-right afd leader amid election interference criticism" }
-EusrahdXsttten@{ shape: win-pane, label: "_UPDATED Jan 10, 2025, 04:05 AM_
-Elon musk hosts german far-right leader on x, stirs angst about election meddling" }
-IincEelifofp@{ shape: win-pane, label: "_UPDATED Feb 15, 2025, 04:33 AM_
-In munich, vance accuses european politicians of censoring free speech" }
+WHbPedraciubmn@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 04:30 AM_
+White house bars ap, reuters and other media from covering trump cabinet meeting" }
+EuaTstne@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 03:59 AM_
+Elon musk stars at trump’s first cabinet meeting" }
+MiSrrannddrof@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 08:58 AM_
+Musk gives us federal workers a ‘second chance’ to defend their jobs or get fired" }
+EudSrrtowyrg@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 07:36 PM_
+Elon musk orders us federal workers to report on work by feb 24 or resign" }
+Eunittrgifais@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 12:44 PM_
+Elon musk renews firing threat after being stymied by federal officials" }
+EudSrrtowyrg@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 07:36 PM_
+Elon musk orders us federal workers to report on work by feb 24 or resign" }
+Tsestogifas@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 11:20 PM_
+Trump says he wants musk to be ‘more aggressive’ in federal cuts" }
+Tsestogifas@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 11:20 PM_
+Trump says he wants musk to be ‘more aggressive’ in federal cuts" }
+Toslfksaieg@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 08:55 AM_
+Trump orders more layoffs, musk touts cuts at cabinet meeting" }
+Ussdliaovug@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 01:30 PM_
+Us house passes budget blueprint geared to deliver trump’s agenda" }
+EihTdatgche@{ shape: win-pane, label: "_UPDATED Feb 12, 2025, 11:22 AM_
+Explainer: what is trump doing, and not doing, to tackle the us debt?" }
+UmsCcusnnu@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 10:57 AM_
+Us lawmakers warn china could use musk to influence trump" }
+MiSrrannddrof@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 08:58 AM_
+Musk gives us federal workers a ‘second chance’ to defend their jobs or get fired" }
+EudSrrtowyrg@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 07:36 PM_
+Elon musk orders us federal workers to report on work by feb 24 or resign" }
+Eunittrgifais@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 12:44 PM_
+Elon musk renews firing threat after being stymied by federal officials" }
 
-Tfheiiradl:::txtsize --> AfogyaecfgDy:::txtsize
-AfogyaecfgDy:::txtsize --> Mrhimrfamtii:::txtsize
-Mrhimrfamtii:::txtsize --> Nyipdagcubeac:::txtsize
-Mrhimrfamtii:::txtsize --> AnoosMhagiesos:::txtsize
-AfogyaecfgDy:::txtsize --> VmGnifdicifctm:::txtsize
-VmGnifdicifctm:::txtsize --> EusrahdXsttten:::txtsize
-VmGnifdicifctm:::txtsize --> IincEelifofp:::txtsize
+WHbPedraciubmn:::txtsize --> EuaTstne:::txtsize
+EuaTstne:::txtsize --> MiSrrannddrof:::txtsize
+MiSrrannddrof:::txtsize --> EudSrrtowyrg:::txtsize
+MiSrrannddrof:::txtsize --> Eunittrgifais:::txtsize
+EuaTstne:::txtsize --> EudSrrtowyrg:::txtsize
+EudSrrtowyrg:::txtsize --> Tsestogifas:::txtsize
+EudSrrtowyrg:::txtsize --> Tsestogifas:::txtsize
+WHbPedraciubmn:::txtsize --> Toslfksaieg:::txtsize
+Toslfksaieg:::txtsize --> Ussdliaovug:::txtsize
+Ussdliaovug:::txtsize --> EihTdatgche:::txtsize
+Ussdliaovug:::txtsize --> UmsCcusnnu:::txtsize
+Toslfksaieg:::txtsize --> MiSrrannddrof:::txtsize
+MiSrrannddrof:::txtsize --> EudSrrtowyrg:::txtsize
+MiSrrannddrof:::txtsize --> Eunittrgifais:::txtsize
 
 ```
-<i>Last updated: 2025-02-27 08:00:23.712977 (GMT+8)</i>
+<i>Last updated: 2025-02-27 12:00:53.823448 (GMT+8)</i>
 <!-- END -->
