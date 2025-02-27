@@ -16,6 +16,43 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Uasnbtnrtkee@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 07:00 AM_
+Uk's starmer says only us 'backstop' can secure lasting ukraine peace" }
+CreryelfNttto@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 09:00 AM_
+Countries tell ukraine ‘you are not alone’ after un adopts neutral stance on war" }
+UuCipuUnwUnruse@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 11:44 AM_
+Un security council adopts neutral us stance on war in ukraine as trump pursues peace" }
+DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
+'darkest hours of europe' as russia invades ukraine" }
+UuCipuUnwUnruse@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 11:44 AM_
+Un security council adopts neutral us stance on war in ukraine as trump pursues peace" }
+DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
+'darkest hours of europe' as russia invades ukraine" }
+MnsianneaTt@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 04:49 PM_
+Macron warns ukraine peace can’t mean ‘surrender’, after trump talks" }
+DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
+'darkest hours of europe' as russia invades ukraine" }
+Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
+Bloodshed and tears as eastern ukraine faces russian attack" }
+Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
+Fighting rages around ukraine as russia invades from three sides" }
+Tswunirwnmsdcgl@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 11:13 AM_
+Trump’s call with putin on ukraine: europe’s worst nightmare is rapidly becoming a reality" }
+Tdskeitly@{ shape: win-pane, label: "_UPDATED Feb 13, 2025, 11:02 AM_
+Trump discusses ukraine war with putin, zelensky" }
+
+Uasnbtnrtkee:::txtsize --> CreryelfNttto:::txtsize
+CreryelfNttto:::txtsize --> UuCipuUnwUnruse:::txtsize
+UuCipuUnwUnruse:::txtsize --> DsruasvUn:::txtsize
+CreryelfNttto:::txtsize --> UuCipuUnwUnruse:::txtsize
+UuCipuUnwUnruse:::txtsize --> DsruasvUn:::txtsize
+Uasnbtnrtkee:::txtsize --> MnsianneaTt:::txtsize
+MnsianneaTt:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
+DsruasvUn:::txtsize --> Figokesnsts:::txtsize
+MnsianneaTt:::txtsize --> Tswunirwnmsdcgl:::txtsize
+Tswunirwnmsdcgl:::txtsize --> Tdskeitly:::txtsize
+
 Tcrlytstskere@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 04:11 AM_
 Trump confirms zelensky visit to washington to sign ukraine minerals deal" }
 TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
@@ -62,89 +99,52 @@ TcUnlytaicioiis:::txtsize --> Zsymnnaberumr:::txtsize
 Zsymnnaberumr:::txtsize --> Mrlspdupy:::txtsize
 Zsymnnaberumr:::txtsize --> Feisnthmmrfr:::txtsize
 
-Uasnbtnrtkee@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 07:00 AM_
-Uk's starmer says only us 'backstop' can secure lasting ukraine peace" }
-CreryelfNttto@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 09:00 AM_
-Countries tell ukraine ‘you are not alone’ after un adopts neutral stance on war" }
-UuCipuUnwUnruse@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 11:44 AM_
-Un security council adopts neutral us stance on war in ukraine as trump pursues peace" }
-DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
-'darkest hours of europe' as russia invades ukraine" }
-UuCipuUnwUnruse@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 11:44 AM_
-Un security council adopts neutral us stance on war in ukraine as trump pursues peace" }
-DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
-'darkest hours of europe' as russia invades ukraine" }
-MnsianneaTt@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 04:49 PM_
-Macron warns ukraine peace can’t mean ‘surrender’, after trump talks" }
-DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
-'darkest hours of europe' as russia invades ukraine" }
-Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
-Bloodshed and tears as eastern ukraine faces russian attack" }
-Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
-Fighting rages around ukraine as russia invades from three sides" }
-Tswunirwnmsdcgl@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 11:13 AM_
-Trump’s call with putin on ukraine: europe’s worst nightmare is rapidly becoming a reality" }
-Tdskeitly@{ shape: win-pane, label: "_UPDATED Feb 13, 2025, 11:02 AM_
-Trump discusses ukraine war with putin, zelensky" }
+HhooorasfPtno@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 11:07 AM_
+Hamas hands over bodies of four hostages, israel frees palestinian prisoners" }
+Hfhgreeeiiraei@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 02:03 PM_
+Hamas frees hostages, israel releases palestinian prisoners on day 1 of ceasefire" }
+Daahorssrseaci@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 12:34 AM_
+Displaced gazans head home, first hostages are freed as israel-hamas truce begins" }
+Ilnsoaarlithomte@{ shape: win-pane, label: "_UPDATED Jan 18, 2025, 10:07 PM_
+Israel cabinet has approved gaza ceasefire deal, but will netanyahu allow permanent truce?" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Csegrshhgt@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 04:31 PM_
+Cheers and weeping as israelis watch gaza hostages return" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Hhoisianeia@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 06:27 PM_
+Hamas hands over first israeli hostages under ceasefire deal" }
+HhooonGoeeme@{ shape: win-pane, label: "_UPDATED Feb 20, 2025, 11:23 PM_
+Hamas hands over bodies of youngest gaza hostages taken from israel" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
+World in shock after hamas surprise attacks on israel" }
 
-Uasnbtnrtkee:::txtsize --> CreryelfNttto:::txtsize
-CreryelfNttto:::txtsize --> UuCipuUnwUnruse:::txtsize
-UuCipuUnwUnruse:::txtsize --> DsruasvUn:::txtsize
-CreryelfNttto:::txtsize --> UuCipuUnwUnruse:::txtsize
-UuCipuUnwUnruse:::txtsize --> DsruasvUn:::txtsize
-Uasnbtnrtkee:::txtsize --> MnsianneaTt:::txtsize
-MnsianneaTt:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
-DsruasvUn:::txtsize --> Figokesnsts:::txtsize
-MnsianneaTt:::txtsize --> Tswunirwnmsdcgl:::txtsize
-Tswunirwnmsdcgl:::txtsize --> Tdskeitly:::txtsize
-
-WHbPedraciubmn@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 04:30 AM_
-White house bars ap, reuters and other media from covering trump cabinet meeting" }
-EuaTstne@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 03:59 AM_
-Elon musk stars at trump’s first cabinet meeting" }
-MiSrrannddrof@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 08:58 AM_
-Musk gives us federal workers a ‘second chance’ to defend their jobs or get fired" }
-EudSrrtowyrg@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 07:36 PM_
-Elon musk orders us federal workers to report on work by feb 24 or resign" }
-Eunittrgifais@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 12:44 PM_
-Elon musk renews firing threat after being stymied by federal officials" }
-EudSrrtowyrg@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 07:36 PM_
-Elon musk orders us federal workers to report on work by feb 24 or resign" }
-Tsestogifas@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 11:20 PM_
-Trump says he wants musk to be ‘more aggressive’ in federal cuts" }
-Tsestogifas@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 11:20 PM_
-Trump says he wants musk to be ‘more aggressive’ in federal cuts" }
-Toslfksaieg@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 08:55 AM_
-Trump orders more layoffs, musk touts cuts at cabinet meeting" }
-Ussdliaovug@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 01:30 PM_
-Us house passes budget blueprint geared to deliver trump’s agenda" }
-EihTdatgche@{ shape: win-pane, label: "_UPDATED Feb 12, 2025, 11:22 AM_
-Explainer: what is trump doing, and not doing, to tackle the us debt?" }
-UmsCcusnnu@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 10:57 AM_
-Us lawmakers warn china could use musk to influence trump" }
-MiSrrannddrof@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 08:58 AM_
-Musk gives us federal workers a ‘second chance’ to defend their jobs or get fired" }
-EudSrrtowyrg@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 07:36 PM_
-Elon musk orders us federal workers to report on work by feb 24 or resign" }
-Eunittrgifais@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 12:44 PM_
-Elon musk renews firing threat after being stymied by federal officials" }
-
-WHbPedraciubmn:::txtsize --> EuaTstne:::txtsize
-EuaTstne:::txtsize --> MiSrrannddrof:::txtsize
-MiSrrannddrof:::txtsize --> EudSrrtowyrg:::txtsize
-MiSrrannddrof:::txtsize --> Eunittrgifais:::txtsize
-EuaTstne:::txtsize --> EudSrrtowyrg:::txtsize
-EudSrrtowyrg:::txtsize --> Tsestogifas:::txtsize
-EudSrrtowyrg:::txtsize --> Tsestogifas:::txtsize
-WHbPedraciubmn:::txtsize --> Toslfksaieg:::txtsize
-Toslfksaieg:::txtsize --> Ussdliaovug:::txtsize
-Ussdliaovug:::txtsize --> EihTdatgche:::txtsize
-Ussdliaovug:::txtsize --> UmsCcusnnu:::txtsize
-Toslfksaieg:::txtsize --> MiSrrannddrof:::txtsize
-MiSrrannddrof:::txtsize --> EudSrrtowyrg:::txtsize
-MiSrrannddrof:::txtsize --> Eunittrgifais:::txtsize
+HhooorasfPtno:::txtsize --> Hfhgreeeiiraei:::txtsize
+Hfhgreeeiiraei:::txtsize --> Daahorssrseaci:::txtsize
+Daahorssrseaci:::txtsize --> Ilnsoaarlithomte:::txtsize
+Daahorssrseaci:::txtsize --> NyeeawHakl:::txtsize
+Hfhgreeeiiraei:::txtsize --> Csegrshhgt:::txtsize
+Csegrshhgt:::txtsize --> NyeeawHakl:::txtsize
+Csegrshhgt:::txtsize --> Hhoisianeia:::txtsize
+HhooorasfPtno:::txtsize --> HhooonGoeeme:::txtsize
+HhooonGoeeme:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+HhooonGoeeme:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
 
 ```
-<i>Last updated: 2025-02-27 12:01:04.766436 (GMT+8)</i>
+<i>Last updated: 2025-02-27 16:00:25.260919 (GMT+8)</i>
 <!-- END -->
