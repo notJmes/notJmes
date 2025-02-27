@@ -16,8 +16,8 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Uasnbtnrtkee@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 07:00 AM_
-Uk's starmer says only us 'backstop' can secure lasting ukraine peace" }
+BstroSsauspia@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 06:00 PM_
+British pm starmer says only us ‘backstop’ can secure lasting peace in ukraine" }
 CreryelfNttto@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 09:00 AM_
 Countries tell ukraine ‘you are not alone’ after un adopts neutral stance on war" }
 UuCipuUnwUnruse@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 11:44 AM_
@@ -41,110 +41,86 @@ Trump’s call with putin on ukraine: europe’s worst nightmare is rapidly beco
 Tdskeitly@{ shape: win-pane, label: "_UPDATED Feb 13, 2025, 11:02 AM_
 Trump discusses ukraine war with putin, zelensky" }
 
-Uasnbtnrtkee:::txtsize --> CreryelfNttto:::txtsize
+BstroSsauspia:::txtsize --> CreryelfNttto:::txtsize
 CreryelfNttto:::txtsize --> UuCipuUnwUnruse:::txtsize
 UuCipuUnwUnruse:::txtsize --> DsruasvUn:::txtsize
 CreryelfNttto:::txtsize --> UuCipuUnwUnruse:::txtsize
 UuCipuUnwUnruse:::txtsize --> DsruasvUn:::txtsize
-Uasnbtnrtkee:::txtsize --> MnsianneaTt:::txtsize
+BstroSsauspia:::txtsize --> MnsianneaTt:::txtsize
 MnsianneaTt:::txtsize --> DsruasvUn:::txtsize
 DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
 DsruasvUn:::txtsize --> Figokesnsts:::txtsize
 MnsianneaTt:::txtsize --> Tswunirwnmsdcgl:::txtsize
 Tswunirwnmsdcgl:::txtsize --> Tdskeitly:::txtsize
 
-Tcrlytstskere@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 04:11 AM_
-Trump confirms zelensky visit to washington to sign ukraine minerals deal" }
-TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
-Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
-Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
-Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
-Usreptwua@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 06:15 PM_
-Us, russia forge ahead on peace talks, without ukraine" }
-Tdskeitly@{ shape: win-pane, label: "_UPDATED Feb 13, 2025, 11:02 AM_
-Trump discusses ukraine war with putin, zelensky" }
-Zsymnnaberumr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:14 PM_
-Zelensky says trump is in ‘disinformation’ bubble on ukraine, urges ‘more truth’" }
-Mrlspdupy@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:12 PM_
-Major risks loom as trump upends us’ russia policy" }
-Feisnthmmrfr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:06 PM_
-France says it does not understand why trump blames ukraine for war" }
-TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
-Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
-Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
-Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
-Usreptwua@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 06:15 PM_
-Us, russia forge ahead on peace talks, without ukraine" }
-Tdskeitly@{ shape: win-pane, label: "_UPDATED Feb 13, 2025, 11:02 AM_
-Trump discusses ukraine war with putin, zelensky" }
-Zsymnnaberumr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:14 PM_
-Zelensky says trump is in ‘disinformation’ bubble on ukraine, urges ‘more truth’" }
-Mrlspdupy@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:12 PM_
-Major risks loom as trump upends us’ russia policy" }
-Feisnthmmrfr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:06 PM_
-France says it does not understand why trump blames ukraine for war" }
+TsoitfCaefsfg@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 05:47 PM_
+Trump sows confusion on tariffs for canada and mexico, floats 25% duty for eu goods" }
+TsaMofsusbrafs@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 08:11 PM_
+Trump says canada, mexico tariffs on schedule despite border, fentanyl efforts" }
+Tlharsiroinnn@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 10:59 PM_
+Trump launches trade war with sweeping tariffs on mexico, canada and china" }
+CacoriyfaUnnT@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 02:42 PM_
+Canada, mexico announce retaliatory tariffs against us; china turns to wto" }
+CacoriyfaUnnT@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 02:42 PM_
+Canada, mexico announce retaliatory tariffs against us; china turns to wto" }
+Trsfanneonsds@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 06:19 PM_
+Trump raises tariffs on aluminium and steel imports in latest trade war salvo" }
+Ttosauuinsdao@{ shape: win-pane, label: "_UPDATED Feb 10, 2025, 09:10 PM_
+Trump to announce 25% steel and aluminium tariffs in latest trade escalation" }
+Opmogiodet@{ shape: win-pane, label: "_UPDATED Feb 08, 2025, 05:26 AM_
+Open up! us comes knocking on asia’s door amid trade reset" }
 
-Tcrlytstskere:::txtsize --> TcUnlytaicioiis:::txtsize
-TcUnlytaicioiis:::txtsize --> Umehtiusrnanii:::txtsize
-Umehtiusrnanii:::txtsize --> Usreptwua:::txtsize
-Umehtiusrnanii:::txtsize --> Tdskeitly:::txtsize
-TcUnlytaicioiis:::txtsize --> Zsymnnaberumr:::txtsize
-Zsymnnaberumr:::txtsize --> Mrlspdupy:::txtsize
-Zsymnnaberumr:::txtsize --> Feisnthmmrfr:::txtsize
-Tcrlytstskere:::txtsize --> TcUnlytaicioiis:::txtsize
-TcUnlytaicioiis:::txtsize --> Umehtiusrnanii:::txtsize
-Umehtiusrnanii:::txtsize --> Usreptwua:::txtsize
-Umehtiusrnanii:::txtsize --> Tdskeitly:::txtsize
-TcUnlytaicioiis:::txtsize --> Zsymnnaberumr:::txtsize
-Zsymnnaberumr:::txtsize --> Mrlspdupy:::txtsize
-Zsymnnaberumr:::txtsize --> Feisnthmmrfr:::txtsize
+TsoitfCaefsfg:::txtsize --> TsaMofsusbrafs:::txtsize
+TsaMofsusbrafs:::txtsize --> Tlharsiroinnn:::txtsize
+Tlharsiroinnn:::txtsize --> CacoriyfaUnnT:::txtsize
+Tlharsiroinnn:::txtsize --> CacoriyfaUnnT:::txtsize
+TsaMofsusbrafs:::txtsize --> Trsfanneonsds:::txtsize
+Trsfanneonsds:::txtsize --> Ttosauuinsdao:::txtsize
+Trsfanneonsds:::txtsize --> Opmogiodet:::txtsize
 
-HhooorasfPtno@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 11:07 AM_
-Hamas hands over bodies of four hostages, israel frees palestinian prisoners" }
-Hfhgreeeiiraei@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 02:03 PM_
-Hamas frees hostages, israel releases palestinian prisoners on day 1 of ceasefire" }
-Daahorssrseaci@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 12:34 AM_
-Displaced gazans head home, first hostages are freed as israel-hamas truce begins" }
-Ilnsoaarlithomte@{ shape: win-pane, label: "_UPDATED Jan 18, 2025, 10:07 PM_
-Israel cabinet has approved gaza ceasefire deal, but will netanyahu allow permanent truce?" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Csegrshhgt@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 04:31 PM_
-Cheers and weeping as israelis watch gaza hostages return" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Hhoisianeia@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 06:27 PM_
-Hamas hands over first israeli hostages under ceasefire deal" }
-HhooonGoeeme@{ shape: win-pane, label: "_UPDATED Feb 20, 2025, 11:23 PM_
-Hamas hands over bodies of youngest gaza hostages taken from israel" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
-World in shock after hamas surprise attacks on israel" }
+NKbdiyhaI@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 06:34 PM_
+North korea behind $2 billion crypto theft, says fbi" }
+Iiplrnseinne@{ shape: win-pane, label: "_UPDATED Feb 10, 2025, 11:13 PM_
+Illicit crypto volume drops in 2024, but use in terrorist financing up: report" }
+Coeelaolnrt@{ shape: win-pane, label: "_UPDATED Jan 15, 2025, 09:00 PM_
+Crypto crime value likely hit a high of $56 billion in 2024, says report" }
+Fekinrsrth@{ shape: win-pane, label: "_PUBLISHED Nov 11, 2022, 10:51 PM_
+Ftx goes bankrupt in stunning reversal for crypto exchange" }
+Spnabtycneii@{ shape: win-pane, label: "_UPDATED Dec 16, 2024, 05:57 PM_
+Singaporean man said to be part of crypto scam gang arrested in thailand" }
+Cosrolrem@{ shape: win-pane, label: "_PUBLISHED Jan 04, 2025, 05:00 AM_
+Crypto industry dreams of a golden era under trump" }
+Erremrpeniy@{ shape: win-pane, label: "_UPDATED Dec 11, 2024, 04:08 PM_
+Eric trump promises the ‘most pro-crypto president’ in history" }
+NKleinoricUe@{ shape: win-pane, label: "_UPDATED May 15, 2024, 04:08 PM_
+North korea laundered $199 million in stolen crypto in march, say un experts" }
+NKsxspftVrmg@{ shape: win-pane, label: "_UPDATED May 09, 2024, 11:17 AM_
+North korea’s kim expresses support for putin in victory day message" }
+Feuiea@{ shape: win-pane, label: "_UPDATED Nov 25, 2024, 10:29 AM_
+Feb 24, 2022: the day russia invaded ukraine" }
+Raviehhalsustne@{ shape: win-pane, label: "_UPDATED Nov 01, 2024, 02:39 PM_
+Russia is developing ties with north korea in all areas, including ‘sensitive’ ones: kremlin" }
+NKccrcteuol@{ shape: win-pane, label: "_UPDATED Apr 23, 2024, 07:41 PM_
+North korea conducts first ‘nuclear trigger’ simulation drills" }
+NKccuieespe@{ shape: win-pane, label: "_UPDATED Apr 20, 2024, 11:50 PM_
+North korea conducts cruise missile warhead test on april 19: report" }
+Wriliniteenm@{ shape: win-pane, label: "_UPDATED Apr 02, 2024, 06:33 PM_
+What are solid-fuel missiles, and why is north korea developing them?" }
 
-HhooorasfPtno:::txtsize --> Hfhgreeeiiraei:::txtsize
-Hfhgreeeiiraei:::txtsize --> Daahorssrseaci:::txtsize
-Daahorssrseaci:::txtsize --> Ilnsoaarlithomte:::txtsize
-Daahorssrseaci:::txtsize --> NyeeawHakl:::txtsize
-Hfhgreeeiiraei:::txtsize --> Csegrshhgt:::txtsize
-Csegrshhgt:::txtsize --> NyeeawHakl:::txtsize
-Csegrshhgt:::txtsize --> Hhoisianeia:::txtsize
-HhooorasfPtno:::txtsize --> HhooonGoeeme:::txtsize
-HhooonGoeeme:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-HhooonGoeeme:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+NKbdiyhaI:::txtsize --> Iiplrnseinne:::txtsize
+Iiplrnseinne:::txtsize --> Coeelaolnrt:::txtsize
+Coeelaolnrt:::txtsize --> Fekinrsrth:::txtsize
+Coeelaolnrt:::txtsize --> Spnabtycneii:::txtsize
+Iiplrnseinne:::txtsize --> Cosrolrem:::txtsize
+Cosrolrem:::txtsize --> Erremrpeniy:::txtsize
+NKbdiyhaI:::txtsize --> NKleinoricUe:::txtsize
+NKleinoricUe:::txtsize --> NKsxspftVrmg:::txtsize
+NKsxspftVrmg:::txtsize --> Feuiea:::txtsize
+NKsxspftVrmg:::txtsize --> Raviehhalsustne:::txtsize
+NKleinoricUe:::txtsize --> NKccrcteuol:::txtsize
+NKccrcteuol:::txtsize --> NKccuieespe:::txtsize
+NKccrcteuol:::txtsize --> Wriliniteenm:::txtsize
 
 ```
-<i>Last updated: 2025-02-27 16:00:25.260919 (GMT+8)</i>
+<i>Last updated: 2025-02-27 20:00:46.665663 (GMT+8)</i>
 <!-- END -->
