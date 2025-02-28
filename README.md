@@ -16,6 +16,52 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+TppuXhsertf@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 01:27 PM_
+Trump piles pressure on xi with latest threat to raise tariffs" }
+Tlharsiroinnn@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 10:59 PM_
+Trump launches trade war with sweeping tariffs on mexico, canada and china" }
+CacoriyfaUnnT@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 02:42 PM_
+Canada, mexico announce retaliatory tariffs against us; china turns to wto" }
+Tlharsiroinnn@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 10:59 PM_
+Trump launches trade war with sweeping tariffs on mexico, canada and china" }
+WoaTssindida@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 02:43 PM_
+What to know about trump’s latest tariffs on canada, mexico and china" }
+CacoriyfaUnnT@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 02:42 PM_
+Canada, mexico announce retaliatory tariffs against us; china turns to wto" }
+Tlharsiroinnn@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 10:59 PM_
+Trump launches trade war with sweeping tariffs on mexico, canada and china" }
+WoaTssindida@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 02:43 PM_
+What to know about trump’s latest tariffs on canada, mexico and china" }
+TfhirUnoaae@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 11:13 PM_
+Tariffs on china risk hurting us economy more than data suggests" }
+Acnrrhteur@{ shape: win-pane, label: "_UPDATED Feb 17, 2025, 02:51 PM_
+American consumers learn to shop in the age of trump tariffs" }
+WotmaiCsnaaofrmr@{ shape: win-pane, label: "_UPDATED Feb 16, 2025, 05:00 AM_
+‘we’ll tough it out’: small factories in china’s ‘shein village’ braced for stiffer trump import rules" }
+WotmaiCsnaaofrmr@{ shape: win-pane, label: "_UPDATED Feb 16, 2025, 05:00 AM_
+‘we’ll tough it out’: small factories in china’s ‘shein village’ braced for stiffer trump import rules" }
+Ttfkhfrrd@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 03:38 PM_
+Trump tariffs shake up china’s factory heartland" }
+TpsfMoabta@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 06:49 PM_
+Trump pauses tariffs on mexico and canada, but not china" }
+WotmaiCsnaaofrmr@{ shape: win-pane, label: "_UPDATED Feb 16, 2025, 05:00 AM_
+‘we’ll tough it out’: small factories in china’s ‘shein village’ braced for stiffer trump import rules" }
+
+TppuXhsertf:::txtsize --> Tlharsiroinnn:::txtsize
+Tlharsiroinnn:::txtsize --> CacoriyfaUnnT:::txtsize
+CacoriyfaUnnT:::txtsize --> Tlharsiroinnn:::txtsize
+CacoriyfaUnnT:::txtsize --> WoaTssindida:::txtsize
+Tlharsiroinnn:::txtsize --> CacoriyfaUnnT:::txtsize
+CacoriyfaUnnT:::txtsize --> Tlharsiroinnn:::txtsize
+CacoriyfaUnnT:::txtsize --> WoaTssindida:::txtsize
+TppuXhsertf:::txtsize --> TfhirUnoaae:::txtsize
+TfhirUnoaae:::txtsize --> Acnrrhteur:::txtsize
+Acnrrhteur:::txtsize --> WotmaiCsnaaofrmr:::txtsize
+Acnrrhteur:::txtsize --> WotmaiCsnaaofrmr:::txtsize
+TfhirUnoaae:::txtsize --> Ttfkhfrrd:::txtsize
+Ttfkhfrrd:::txtsize --> TpsfMoabta:::txtsize
+Ttfkhfrrd:::txtsize --> WotmaiCsnaaofrmr:::txtsize
+
 Tdsfrnroaetre@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 11:47 AM_
 Trump dodges plea from britain’s starmer for ukraine security guarantee" }
 Khsnspneeoas@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 03:03 AM_
@@ -62,98 +108,49 @@ BstroSsauspia:::txtsize --> MnsianneaTt:::txtsize
 MnsianneaTt:::txtsize --> DsruasvUn:::txtsize
 MnsianneaTt:::txtsize --> Tswunirwnmsdcgl:::txtsize
 
-Otncsvsoe@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 07:55 AM_
-Oldest known holocaust survivor rose girone dies, age 113" }
-Hknenlsvsrtv@{ shape: win-pane, label: "_UPDATED May 05, 2024, 09:27 PM_
-Hamas killing spree haunts holocaust survivors in ‘march of the living’" }
-GeitwcroonIs@{ shape: win-pane, label: "_UPDATED May 03, 2024, 10:45 PM_
-Gaza needs biggest post-war reconstruction effort since wwii, says un" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-Besnuthuthian@{ shape: win-pane, label: "_UPDATED May 02, 2024, 11:17 PM_
-Blinken says us cannot support rafah assault without humanitarian plan" }
-Tafertmoer@{ shape: win-pane, label: "_UPDATED May 05, 2024, 09:16 AM_
-Thousands of israelis protest to demand hostage return" }
-HnisnttCissno@{ shape: win-pane, label: "_UPDATED May 05, 2024, 04:54 AM_
-Hamas negotiators begin gaza truce talks; cia chief also present in cairo" }
-Ilddlauatsei@{ shape: win-pane, label: "_UPDATED Apr 18, 2024, 03:09 AM_
-Israel will defend itself, netanyahu says, as west calls for restraint" }
-HausttytsHw@{ shape: win-pane, label: "_UPDATED Jun 04, 2024, 10:41 AM_
-Holocaust museums debate what to say about the israel-hamas war" }
-Ilbeoenrt@{ shape: win-pane, label: "_UPDATED Mar 18, 2024, 11:05 AM_
-Israel establishes day of remembrance for oct 7 attack" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Wfrnrssim@{ shape: win-pane, label: "_UPDATED Feb 14, 2024, 09:51 AM_
-Why rafah is raising fears in israel’s war with hamas" }
-Ilstonotumdit@{ shape: win-pane, label: "_UPDATED Mar 10, 2024, 08:34 PM_
-Israeli president herzog opens holocaust museum in amsterdam amid protest" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WCssmaepnsnez@{ shape: win-pane, label: "_UPDATED Jan 27, 2024, 05:07 AM_
-World court says israel must take steps to prevent acts of genocide in gaza" }
+Finaaqiortpt@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 03:38 PM_
+Francis’ illness raises a hard question: who governs if the pope can’t?" }
+Prsnnbuan@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 04:29 PM_
+Pope francis has pneumonia in both lungs, vatican says" }
+Prsnslrire@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 07:10 PM_
+Pope francis taken to hospital for bronchitis treatment" }
+Prsrrilot@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 08:51 PM_
+Pope francis injures forearm in fall, but no fractures" }
+Parnwnnnesc@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:26 AM_
+Pope eating, reading but weekend events cancelled, says vatican" }
+Pctoxittdc@{ shape: win-pane, label: "_UPDATED Feb 18, 2025, 03:12 AM_
+Pope’s condition ‘complex’, hospital stay extended: vatican" }
+VaslectSyopT@{ shape: win-pane, label: "_UPDATED Feb 17, 2025, 02:32 AM_
+Vatican says 'stable' pope francis watched sunday mass on hospital tv" }
+PrsssTsgoilb@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 09:36 PM_
+Pope francis tells us bishops trump’s immigration policy ‘will end badly’" }
+TsrornruditeWH@{ shape: win-pane, label: "_UPDATED Jan 24, 2025, 09:15 PM_
+Trump’s deportation operation under way, hundreds of migrants arrested: white house" }
+SduiafaBnt@{ shape: win-pane, label: "_PUBLISHED Jan 22, 2025, 05:00 AM_
+Spared on trump’s first day in office, a wary beijing waits" }
+Tsuiiawnyecasee@{ shape: win-pane, label: "_UPDATED Jan 23, 2025, 07:32 AM_
+Trump steps up immigration crackdown, warns city, state officials against interference" }
+MhnrmdeafSrn@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 08:17 PM_
+More than 100 singaporeans marked for deportation from us; 3 deported in fy2024" }
+TsrornruditeWH@{ shape: win-pane, label: "_UPDATED Jan 24, 2025, 09:15 PM_
+Trump’s deportation operation under way, hundreds of migrants arrested: white house" }
+UiftrmnIoiy@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 03:39 PM_
+Us military flight deporting migrants to india, official says" }
 
-Otncsvsoe:::txtsize --> Hknenlsvsrtv:::txtsize
-Hknenlsvsrtv:::txtsize --> GeitwcroonIs:::txtsize
-GeitwcroonIs:::txtsize --> Sbsrcdnacaale:::txtsize
-GeitwcroonIs:::txtsize --> Besnuthuthian:::txtsize
-Hknenlsvsrtv:::txtsize --> Tafertmoer:::txtsize
-Tafertmoer:::txtsize --> HnisnttCissno:::txtsize
-Tafertmoer:::txtsize --> Ilddlauatsei:::txtsize
-Otncsvsoe:::txtsize --> HausttytsHw:::txtsize
-HausttytsHw:::txtsize --> Ilbeoenrt:::txtsize
-Ilbeoenrt:::txtsize --> NyeeawHakl:::txtsize
-Ilbeoenrt:::txtsize --> Wfrnrssim:::txtsize
-HausttytsHw:::txtsize --> Ilstonotumdit:::txtsize
-Ilstonotumdit:::txtsize --> NyeeawHakl:::txtsize
-Ilstonotumdit:::txtsize --> WCssmaepnsnez:::txtsize
-
-TseCaftfoc@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 11:18 PM_
-Trump says mexico, canada tariffs to take effect on march 4" }
-TfhirUnoaae@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 11:13 PM_
-Tariffs on china risk hurting us economy more than data suggests" }
-Acnrrhteur@{ shape: win-pane, label: "_UPDATED Feb 17, 2025, 02:51 PM_
-American consumers learn to shop in the age of trump tariffs" }
-WotmaiCsnaaofrmr@{ shape: win-pane, label: "_UPDATED Feb 16, 2025, 05:00 AM_
-‘we’ll tough it out’: small factories in china’s ‘shein village’ braced for stiffer trump import rules" }
-WotmaiCsnaaofrmr@{ shape: win-pane, label: "_UPDATED Feb 16, 2025, 05:00 AM_
-‘we’ll tough it out’: small factories in china’s ‘shein village’ braced for stiffer trump import rules" }
-Ttfkhfrrd@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 03:38 PM_
-Trump tariffs shake up china’s factory heartland" }
-TpsfMoabta@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 06:49 PM_
-Trump pauses tariffs on mexico and canada, but not china" }
-WotmaiCsnaaofrmr@{ shape: win-pane, label: "_UPDATED Feb 16, 2025, 05:00 AM_
-‘we’ll tough it out’: small factories in china’s ‘shein village’ braced for stiffer trump import rules" }
-Estrntuyiooms@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 06:45 AM_
-Eu vows swift, firm response after trump says tariffs coming on eu imports" }
-TssUopfuypun@{ shape: win-pane, label: "_UPDATED Feb 17, 2025, 05:57 PM_
-Trump shrugs off eu’s reported plans for trump-style import curbs on food" }
-Ttosauuinsdao@{ shape: win-pane, label: "_UPDATED Feb 10, 2025, 09:10 PM_
-Trump to announce 25% steel and aluminium tariffs in latest trade escalation" }
-EloTssineFhinr@{ shape: win-pane, label: "_UPDATED Feb 10, 2025, 05:19 PM_
-Eu will respond to trump’s latest tariff announcement, french foreign minister says" }
-Espflgiumr@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 11:02 PM_
-Eu says trump tariffs will trigger firm countermeasures" }
-Trsfanneonsds@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 06:19 PM_
-Trump raises tariffs on aluminium and steel imports in latest trade war salvo" }
-FTtfagrtog@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 02:18 PM_
-Fresh trump tariffs catapult gold prices to record high" }
-
-TseCaftfoc:::txtsize --> TfhirUnoaae:::txtsize
-TfhirUnoaae:::txtsize --> Acnrrhteur:::txtsize
-Acnrrhteur:::txtsize --> WotmaiCsnaaofrmr:::txtsize
-Acnrrhteur:::txtsize --> WotmaiCsnaaofrmr:::txtsize
-TfhirUnoaae:::txtsize --> Ttfkhfrrd:::txtsize
-Ttfkhfrrd:::txtsize --> TpsfMoabta:::txtsize
-Ttfkhfrrd:::txtsize --> WotmaiCsnaaofrmr:::txtsize
-TseCaftfoc:::txtsize --> Estrntuyiooms:::txtsize
-Estrntuyiooms:::txtsize --> TssUopfuypun:::txtsize
-TssUopfuypun:::txtsize --> Ttosauuinsdao:::txtsize
-TssUopfuypun:::txtsize --> EloTssineFhinr:::txtsize
-Estrntuyiooms:::txtsize --> Espflgiumr:::txtsize
-Espflgiumr:::txtsize --> Trsfanneonsds:::txtsize
-Espflgiumr:::txtsize --> FTtfagrtog:::txtsize
+Finaaqiortpt:::txtsize --> Prsnnbuan:::txtsize
+Prsnnbuan:::txtsize --> Prsnslrire:::txtsize
+Prsnslrire:::txtsize --> Prsrrilot:::txtsize
+Prsnnbuan:::txtsize --> Parnwnnnesc:::txtsize
+Parnwnnnesc:::txtsize --> Pctoxittdc:::txtsize
+Parnwnnnesc:::txtsize --> VaslectSyopT:::txtsize
+Finaaqiortpt:::txtsize --> PrsssTsgoilb:::txtsize
+PrsssTsgoilb:::txtsize --> TsrornruditeWH:::txtsize
+TsrornruditeWH:::txtsize --> SduiafaBnt:::txtsize
+TsrornruditeWH:::txtsize --> Tsuiiawnyecasee:::txtsize
+PrsssTsgoilb:::txtsize --> MhnrmdeafSrn:::txtsize
+MhnrmdeafSrn:::txtsize --> TsrornruditeWH:::txtsize
+MhnrmdeafSrn:::txtsize --> UiftrmnIoiy:::txtsize
 
 ```
-<i>Last updated: 2025-02-28 12:00:27.113476 (GMT+8)</i>
+<i>Last updated: 2025-02-28 16:00:50.843518 (GMT+8)</i>
 <!-- END -->
