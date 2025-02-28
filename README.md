@@ -16,6 +16,98 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Tdsfrnroaetre@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 11:47 AM_
+Trump dodges plea from britain’s starmer for ukraine security guarantee" }
+Khsnspneeoas@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 03:03 AM_
+King charles iii invites trump for unprecedented second state visit" }
+BstroSsauspia@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 06:00 PM_
+British pm starmer says only us ‘backstop’ can secure lasting peace in ukraine" }
+CreryelfNttto@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 09:00 AM_
+Countries tell ukraine ‘you are not alone’ after un adopts neutral stance on war" }
+MnsianneaTt@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 04:49 PM_
+Macron warns ukraine peace can’t mean ‘surrender’, after trump talks" }
+Tcrlytstskere@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 04:11 AM_
+Trump confirms zelensky visit to washington to sign ukraine minerals deal" }
+TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
+Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
+TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
+Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
+BstroSsauspia@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 06:00 PM_
+British pm starmer says only us ‘backstop’ can secure lasting peace in ukraine" }
+CreryelfNttto@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 09:00 AM_
+Countries tell ukraine ‘you are not alone’ after un adopts neutral stance on war" }
+UuCipuUnwUnruse@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 11:44 AM_
+Un security council adopts neutral us stance on war in ukraine as trump pursues peace" }
+UuCipuUnwUnruse@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 11:44 AM_
+Un security council adopts neutral us stance on war in ukraine as trump pursues peace" }
+MnsianneaTt@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 04:49 PM_
+Macron warns ukraine peace can’t mean ‘surrender’, after trump talks" }
+DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
+'darkest hours of europe' as russia invades ukraine" }
+Tswunirwnmsdcgl@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 11:13 AM_
+Trump’s call with putin on ukraine: europe’s worst nightmare is rapidly becoming a reality" }
+
+Tdsfrnroaetre:::txtsize --> Khsnspneeoas:::txtsize
+Khsnspneeoas:::txtsize --> BstroSsauspia:::txtsize
+BstroSsauspia:::txtsize --> CreryelfNttto:::txtsize
+BstroSsauspia:::txtsize --> MnsianneaTt:::txtsize
+Khsnspneeoas:::txtsize --> Tcrlytstskere:::txtsize
+Tcrlytstskere:::txtsize --> TcUnlytaicioiis:::txtsize
+Tcrlytstskere:::txtsize --> TcUnlytaicioiis:::txtsize
+Tdsfrnroaetre:::txtsize --> BstroSsauspia:::txtsize
+BstroSsauspia:::txtsize --> CreryelfNttto:::txtsize
+CreryelfNttto:::txtsize --> UuCipuUnwUnruse:::txtsize
+CreryelfNttto:::txtsize --> UuCipuUnwUnruse:::txtsize
+BstroSsauspia:::txtsize --> MnsianneaTt:::txtsize
+MnsianneaTt:::txtsize --> DsruasvUn:::txtsize
+MnsianneaTt:::txtsize --> Tswunirwnmsdcgl:::txtsize
+
+Otncsvsoe@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 07:55 AM_
+Oldest known holocaust survivor rose girone dies, age 113" }
+Hknenlsvsrtv@{ shape: win-pane, label: "_UPDATED May 05, 2024, 09:27 PM_
+Hamas killing spree haunts holocaust survivors in ‘march of the living’" }
+GeitwcroonIs@{ shape: win-pane, label: "_UPDATED May 03, 2024, 10:45 PM_
+Gaza needs biggest post-war reconstruction effort since wwii, says un" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+Besnuthuthian@{ shape: win-pane, label: "_UPDATED May 02, 2024, 11:17 PM_
+Blinken says us cannot support rafah assault without humanitarian plan" }
+Tafertmoer@{ shape: win-pane, label: "_UPDATED May 05, 2024, 09:16 AM_
+Thousands of israelis protest to demand hostage return" }
+HnisnttCissno@{ shape: win-pane, label: "_UPDATED May 05, 2024, 04:54 AM_
+Hamas negotiators begin gaza truce talks; cia chief also present in cairo" }
+Ilddlauatsei@{ shape: win-pane, label: "_UPDATED Apr 18, 2024, 03:09 AM_
+Israel will defend itself, netanyahu says, as west calls for restraint" }
+HausttytsHw@{ shape: win-pane, label: "_UPDATED Jun 04, 2024, 10:41 AM_
+Holocaust museums debate what to say about the israel-hamas war" }
+Ilbeoenrt@{ shape: win-pane, label: "_UPDATED Mar 18, 2024, 11:05 AM_
+Israel establishes day of remembrance for oct 7 attack" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Wfrnrssim@{ shape: win-pane, label: "_UPDATED Feb 14, 2024, 09:51 AM_
+Why rafah is raising fears in israel’s war with hamas" }
+Ilstonotumdit@{ shape: win-pane, label: "_UPDATED Mar 10, 2024, 08:34 PM_
+Israeli president herzog opens holocaust museum in amsterdam amid protest" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WCssmaepnsnez@{ shape: win-pane, label: "_UPDATED Jan 27, 2024, 05:07 AM_
+World court says israel must take steps to prevent acts of genocide in gaza" }
+
+Otncsvsoe:::txtsize --> Hknenlsvsrtv:::txtsize
+Hknenlsvsrtv:::txtsize --> GeitwcroonIs:::txtsize
+GeitwcroonIs:::txtsize --> Sbsrcdnacaale:::txtsize
+GeitwcroonIs:::txtsize --> Besnuthuthian:::txtsize
+Hknenlsvsrtv:::txtsize --> Tafertmoer:::txtsize
+Tafertmoer:::txtsize --> HnisnttCissno:::txtsize
+Tafertmoer:::txtsize --> Ilddlauatsei:::txtsize
+Otncsvsoe:::txtsize --> HausttytsHw:::txtsize
+HausttytsHw:::txtsize --> Ilbeoenrt:::txtsize
+Ilbeoenrt:::txtsize --> NyeeawHakl:::txtsize
+Ilbeoenrt:::txtsize --> Wfrnrssim:::txtsize
+HausttytsHw:::txtsize --> Ilstonotumdit:::txtsize
+Ilstonotumdit:::txtsize --> NyeeawHakl:::txtsize
+Ilstonotumdit:::txtsize --> WCssmaepnsnez:::txtsize
+
 TseCaftfoc@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 11:18 PM_
 Trump says mexico, canada tariffs to take effect on march 4" }
 TfhirUnoaae@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 11:13 PM_
@@ -62,98 +154,6 @@ Estrntuyiooms:::txtsize --> Espflgiumr:::txtsize
 Espflgiumr:::txtsize --> Trsfanneonsds:::txtsize
 Espflgiumr:::txtsize --> FTtfagrtog:::txtsize
 
-Hstarcfafeisrn@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 10:16 PM_
-Hamas says it is ready for more ceasefire talks after releasing hostage remains" }
-IlggtooaGeiaodanr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 08:31 PM_
-Israel to begin negotiations on second phase of gaza ceasefire deal in coming days, says minister" }
-Hmdulnrecsud@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:01 AM_
-How hamas’ audacious, well-planned surprise attack on israel unfolded" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-HohaarGscmn@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 09:14 PM_
-‘hell worse than what we have already?’ gazans reject trump plans" }
-Tpstvzceetda@{ shape: win-pane, label: "_UPDATED Feb 05, 2025, 08:50 PM_
-Trump proposes us ‘take over’ gaza and create ‘riviera of the middle east’" }
-Hstseirhgrgcfnu@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 03:30 PM_
-Hamas says it will stop releasing israeli hostages, throwing gaza ceasefire into doubt" }
-Hseoasscauao@{ shape: win-pane, label: "_UPDATED Feb 20, 2025, 01:50 AM_
-Hamas says ready to free all hostages at once in gaza truce phase two" }
-Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
-Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
-Pezdsyeasarl@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:48 PM_
-People in gaza shed tears of joy, disbelief at news of ceasefire deal" }
-Ilamslorpdiaac@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:46 PM_
-Israel hostage families on roller coaster of hope and despair as gaza deal reached" }
-IlggtooaGeiaodanr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 08:31 PM_
-Israel to begin negotiations on second phase of gaza ceasefire deal in coming days, says minister" }
-Hmdulnrecsud@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:01 AM_
-How hamas’ audacious, well-planned surprise attack on israel unfolded" }
-HohaarGscmn@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 09:14 PM_
-‘hell worse than what we have already?’ gazans reject trump plans" }
-
-Hstarcfafeisrn:::txtsize --> IlggtooaGeiaodanr:::txtsize
-IlggtooaGeiaodanr:::txtsize --> Hmdulnrecsud:::txtsize
-Hmdulnrecsud:::txtsize --> NyeeawHakl:::txtsize
-Hmdulnrecsud:::txtsize --> NyeeawHakl:::txtsize
-IlggtooaGeiaodanr:::txtsize --> HohaarGscmn:::txtsize
-HohaarGscmn:::txtsize --> Tpstvzceetda:::txtsize
-HohaarGscmn:::txtsize --> Hstseirhgrgcfnu:::txtsize
-Hstarcfafeisrn:::txtsize --> Hseoasscauao:::txtsize
-Hseoasscauao:::txtsize --> Ilshedoooia:::txtsize
-Ilshedoooia:::txtsize --> Pezdsyeasarl:::txtsize
-Ilshedoooia:::txtsize --> Ilamslorpdiaac:::txtsize
-Hseoasscauao:::txtsize --> IlggtooaGeiaodanr:::txtsize
-IlggtooaGeiaodanr:::txtsize --> Hmdulnrecsud:::txtsize
-IlggtooaGeiaodanr:::txtsize --> HohaarGscmn:::txtsize
-
-ScliUcecaoi@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 09:43 PM_
-Services collapsing as usaid cuts health contracts worldwide" }
-Taitahnetidr@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 12:28 PM_
-Trump administration says it has cancelled most foreign aid contracts" }
-Udpseekrtnshs@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 09:01 AM_
-Usaid disruptions leave oxygen tanks, tb drugs stuck in ships, warehouses" }
-Ucasosgpnaoiton@{ shape: win-pane, label: "_UPDATED Feb 12, 2025, 11:01 AM_
-Usaid contractors join others suing trump administration over dismantling of agency" }
-WdruugAainednrt@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 12:47 PM_
-Watchdog warns trump’s gutting of usaid leaves $11 billion unspent aid with no oversight" }
-Uwdrtilriitec@{ shape: win-pane, label: "_UPDATED Feb 12, 2025, 03:35 PM_
-Usaid watchdog fired after critical report on bid to dismantle the agency" }
-WdruugAainednrt@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 12:47 PM_
-Watchdog warns trump’s gutting of usaid leaves $11 billion unspent aid with no oversight" }
-Uctgeeugote@{ shape: win-pane, label: "_UPDATED Feb 10, 2025, 02:36 PM_
-Usaid climate programmes aimed to curb migration. now they’re gone" }
-TaitoiUjnS@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 03:26 PM_
-Trump administration to eliminate 1,600 usaid jobs in the us" }
-EurtooimlgtUtt@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 07:51 AM_
-Elon musk targets the closure of usaid; trump mulls merging it into us state dept" }
-Moasteyelueffari@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 06:13 PM_
-Musk now has access to vital treasury system, will give update on reform effort amid criticism" }
-MStuamirnasg@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 09:51 PM_
-More usaid staff ousted as trump administration dismantles aid agency" }
-Ufedpimiducs@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 10:11 PM_
-Us aid freeze sows disruption in hiv, malaria product supply chains" }
-Tsidztoalomdos@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 01:54 AM_
-Trump’s foreign aid freeze hurts indonesian health programmes and aid workers" }
-TsrccmorShg@{ shape: win-pane, label: "_UPDATED Feb 17, 2025, 02:41 AM_
-Trump's aid freeze could cause millions more aids deaths: un agency" }
-
-ScliUcecaoi:::txtsize --> Taitahnetidr:::txtsize
-Taitahnetidr:::txtsize --> Udpseekrtnshs:::txtsize
-Udpseekrtnshs:::txtsize --> Ucasosgpnaoiton:::txtsize
-Udpseekrtnshs:::txtsize --> WdruugAainednrt:::txtsize
-Taitahnetidr:::txtsize --> Uwdrtilriitec:::txtsize
-Uwdrtilriitec:::txtsize --> WdruugAainednrt:::txtsize
-Uwdrtilriitec:::txtsize --> Uctgeeugote:::txtsize
-ScliUcecaoi:::txtsize --> TaitoiUjnS:::txtsize
-TaitoiUjnS:::txtsize --> EurtooimlgtUtt:::txtsize
-EurtooimlgtUtt:::txtsize --> Moasteyelueffari:::txtsize
-EurtooimlgtUtt:::txtsize --> MStuamirnasg:::txtsize
-TaitoiUjnS:::txtsize --> Ufedpimiducs:::txtsize
-Ufedpimiducs:::txtsize --> Tsidztoalomdos:::txtsize
-Ufedpimiducs:::txtsize --> TsrccmorShg:::txtsize
-
 ```
-<i>Last updated: 2025-02-28 08:00:59.631441 (GMT+8)</i>
+<i>Last updated: 2025-02-28 12:00:27.113476 (GMT+8)</i>
 <!-- END -->
