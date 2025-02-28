@@ -53,6 +53,52 @@ Bsnranicsak:::txtsize --> Figokesnsts:::txtsize
 DsruasvUn:::txtsize --> Figokesnsts:::txtsize
 Figokesnsts:::txtsize --> DsruasvUn:::txtsize
 
+Tdsfrnroaetre@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 06:28 PM_
+Trump dodges plea from britain’s starmer for ukraine security guarantee" }
+Khsnspneeoas@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 03:03 AM_
+King charles iii invites trump for unprecedented second state visit" }
+BstroSsauspia@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 06:00 PM_
+British pm starmer says only us ‘backstop’ can secure lasting peace in ukraine" }
+CreryelfNttto@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 09:00 AM_
+Countries tell ukraine ‘you are not alone’ after un adopts neutral stance on war" }
+MnsianneaTt@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 04:49 PM_
+Macron warns ukraine peace can’t mean ‘surrender’, after trump talks" }
+Tcrlytstskere@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 04:11 AM_
+Trump confirms zelensky visit to washington to sign ukraine minerals deal" }
+TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
+Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
+TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
+Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
+BstroSsauspia@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 06:00 PM_
+British pm starmer says only us ‘backstop’ can secure lasting peace in ukraine" }
+CreryelfNttto@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 09:00 AM_
+Countries tell ukraine ‘you are not alone’ after un adopts neutral stance on war" }
+UuCipuUnwUnruse@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 11:44 AM_
+Un security council adopts neutral us stance on war in ukraine as trump pursues peace" }
+UuCipuUnwUnruse@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 11:44 AM_
+Un security council adopts neutral us stance on war in ukraine as trump pursues peace" }
+MnsianneaTt@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 04:49 PM_
+Macron warns ukraine peace can’t mean ‘surrender’, after trump talks" }
+DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
+'darkest hours of europe' as russia invades ukraine" }
+Tswunirwnmsdcgl@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 11:13 AM_
+Trump’s call with putin on ukraine: europe’s worst nightmare is rapidly becoming a reality" }
+
+Tdsfrnroaetre:::txtsize --> Khsnspneeoas:::txtsize
+Khsnspneeoas:::txtsize --> BstroSsauspia:::txtsize
+BstroSsauspia:::txtsize --> CreryelfNttto:::txtsize
+BstroSsauspia:::txtsize --> MnsianneaTt:::txtsize
+Khsnspneeoas:::txtsize --> Tcrlytstskere:::txtsize
+Tcrlytstskere:::txtsize --> TcUnlytaicioiis:::txtsize
+Tcrlytstskere:::txtsize --> TcUnlytaicioiis:::txtsize
+Tdsfrnroaetre:::txtsize --> BstroSsauspia:::txtsize
+BstroSsauspia:::txtsize --> CreryelfNttto:::txtsize
+CreryelfNttto:::txtsize --> UuCipuUnwUnruse:::txtsize
+CreryelfNttto:::txtsize --> UuCipuUnwUnruse:::txtsize
+BstroSsauspia:::txtsize --> MnsianneaTt:::txtsize
+MnsianneaTt:::txtsize --> DsruasvUn:::txtsize
+MnsianneaTt:::txtsize --> Tswunirwnmsdcgl:::txtsize
+
 Finaaqiortpt@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 03:38 PM_
 Francis’ illness raises a hard question: who governs if the pope can’t?" }
 Prsnnbuan@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 04:29 PM_
@@ -96,46 +142,6 @@ PrsssTsgoilb:::txtsize --> MhnrmdeafSrn:::txtsize
 MhnrmdeafSrn:::txtsize --> TsrornruditeWH:::txtsize
 MhnrmdeafSrn:::txtsize --> UiftrmnIoiy:::txtsize
 
-WasftrdlUk@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 07:07 PM_
-World agrees hard-fought nature funding plan at un talks" }
-Uumnlansoug@{ shape: win-pane, label: "_UPDATED Nov 03, 2024, 08:18 PM_
-Un nature summit ends in limbo as countries spar over funding" }
-Cnorhoieyiowtft@{ shape: win-pane, label: "_UPDATED Sep 16, 2024, 12:58 PM_
-Can money grow on trees? rhino bonds, biodiversity credits among new ways to pay for nature" }
-NspnpWeacsnorst@{ shape: win-pane, label: "_UPDATED Sep 16, 2024, 12:58 PM_
-Not just the philanthropists: why the private sector is buying into nature conservation" }
-Ienelcreo@{ shape: win-pane, label: "_UPDATED Sep 26, 2024, 01:56 PM_
-Indonesia and us seal $47 million coral reef debt swop" }
-AtrrnneddaxOdse@{ shape: win-pane, label: "_UPDATED Oct 20, 2024, 06:00 PM_
-After the ‘paris agreement’ for nature was adopted in 2022, what’s next at cop16 biodiversity meet?" }
-CrorehaaoUk@{ shape: win-pane, label: "_PUBLISHED Feb 25, 2025, 04:28 PM_
-Countries lock horns over cash for nature at rebooted un talks" }
-Unesldnafnci@{ shape: win-pane, label: "_UPDATED Oct 29, 2024, 09:37 AM_
-Un cop16 nature talks gridlocked as conservation funding trickles in" }
-Cbepwidvuvnutos@{ shape: win-pane, label: "_UPDATED Oct 27, 2024, 07:35 PM_
-Colombia’s peace opened wildlife to discovery, but new violence frustrates progress" }
-FlpcmttafeicsaRt@{ shape: win-pane, label: "_UPDATED Oct 27, 2024, 03:15 PM_
-Fossil fuel production major threat to ‘amazon of the seas’, which includes singapore: report" }
-TlunlAcsuaicrn@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 08:30 PM_
-Trump lays out plan to unleash american fossil fuels, halt climate cooperation" }
-Twrrriamg@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 09:59 AM_
-Trump withdraws from paris climate agreement, again" }
-Aiuoreugdnthnw@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 06:02 PM_
-After inauguration, us president trump signs orders in front of a cheering crowd" }
-
-WasftrdlUk:::txtsize --> Uumnlansoug:::txtsize
-Uumnlansoug:::txtsize --> Cnorhoieyiowtft:::txtsize
-Cnorhoieyiowtft:::txtsize --> NspnpWeacsnorst:::txtsize
-Cnorhoieyiowtft:::txtsize --> Ienelcreo:::txtsize
-Uumnlansoug:::txtsize --> AtrrnneddaxOdse:::txtsize
-WasftrdlUk:::txtsize --> CrorehaaoUk:::txtsize
-CrorehaaoUk:::txtsize --> Unesldnafnci:::txtsize
-Unesldnafnci:::txtsize --> Cbepwidvuvnutos:::txtsize
-Unesldnafnci:::txtsize --> FlpcmttafeicsaRt:::txtsize
-CrorehaaoUk:::txtsize --> TlunlAcsuaicrn:::txtsize
-TlunlAcsuaicrn:::txtsize --> Twrrriamg:::txtsize
-TlunlAcsuaicrn:::txtsize --> Aiuoreugdnthnw:::txtsize
-
 ```
-<i>Last updated: 2025-02-28 20:01:18.591849 (GMT+8)</i>
+<i>Last updated: 2025-03-01 00:00:38.928860 (GMT+8)</i>
 <!-- END -->
