@@ -16,132 +16,138 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:25 AM_
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 08:39 AM_
 Ukraine’s zelensky, trump clash in oval office shouting match" }
-TZsiinsacitsum@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 07:58 AM_
+TZsiinsacitsum@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:41 AM_
 Trump, zelensky fail to sign minerals deal after clash in white house shouting match" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:25 AM_
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 08:39 AM_
 Ukraine’s zelensky, trump clash in oval office shouting match" }
-TZsiinsacitsum@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 07:58 AM_
+TZsiinsacitsum@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:41 AM_
 Trump, zelensky fail to sign minerals deal after clash in white house shouting match" }
-Wodreks@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 07:59 AM_
-Word for word: the trump-zelensky clash" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:25 AM_
+YntthuTVZsarw@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:25 AM_
+‘you’re not acting at all thankful’: the trump-vance-zelensky clash, word for word" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 08:39 AM_
 Ukraine’s zelensky, trump clash in oval office shouting match" }
-TZsiinsacitsum@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 07:58 AM_
+TZsiinsacitsum@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:41 AM_
 Trump, zelensky fail to sign minerals deal after clash in white house shouting match" }
-Wodreks@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 07:59 AM_
-Word for word: the trump-zelensky clash" }
-Wodreks@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 07:59 AM_
-Word for word: the trump-zelensky clash" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:25 AM_
+YntthuTVZsarw@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:25 AM_
+‘you’re not acting at all thankful’: the trump-vance-zelensky clash, word for word" }
+YntthuTVZsarw@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:25 AM_
+‘you’re not acting at all thankful’: the trump-vance-zelensky clash, word for word" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 08:39 AM_
 Ukraine’s zelensky, trump clash in oval office shouting match" }
-TZsiinsacitsum@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 07:58 AM_
+TZsiinsacitsum@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:41 AM_
 Trump, zelensky fail to sign minerals deal after clash in white house shouting match" }
-Wodreks@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 07:59 AM_
-Word for word: the trump-zelensky clash" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:25 AM_
+YntthuTVZsarw@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:25 AM_
+‘you’re not acting at all thankful’: the trump-vance-zelensky clash, word for word" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 08:39 AM_
 Ukraine’s zelensky, trump clash in oval office shouting match" }
-TZsiinsacitsum@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 07:58 AM_
+TZsiinsacitsum@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:41 AM_
 Trump, zelensky fail to sign minerals deal after clash in white house shouting match" }
-Wodreks@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 07:59 AM_
-Word for word: the trump-zelensky clash" }
+YntthuTVZsarw@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:25 AM_
+‘you’re not acting at all thankful’: the trump-vance-zelensky clash, word for word" }
 
 Unlyphaiogh:::txtsize --> TZsiinsacitsum:::txtsize
 TZsiinsacitsum:::txtsize --> Unlyphaiogh:::txtsize
 Unlyphaiogh:::txtsize --> TZsiinsacitsum:::txtsize
-Unlyphaiogh:::txtsize --> Wodreks:::txtsize
+Unlyphaiogh:::txtsize --> YntthuTVZsarw:::txtsize
 TZsiinsacitsum:::txtsize --> Unlyphaiogh:::txtsize
 Unlyphaiogh:::txtsize --> TZsiinsacitsum:::txtsize
-Unlyphaiogh:::txtsize --> Wodreks:::txtsize
-Unlyphaiogh:::txtsize --> Wodreks:::txtsize
-Wodreks:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> YntthuTVZsarw:::txtsize
+Unlyphaiogh:::txtsize --> YntthuTVZsarw:::txtsize
+YntthuTVZsarw:::txtsize --> Unlyphaiogh:::txtsize
 Unlyphaiogh:::txtsize --> TZsiinsacitsum:::txtsize
-Unlyphaiogh:::txtsize --> Wodreks:::txtsize
-Wodreks:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> YntthuTVZsarw:::txtsize
+YntthuTVZsarw:::txtsize --> Unlyphaiogh:::txtsize
 Unlyphaiogh:::txtsize --> TZsiinsacitsum:::txtsize
-Unlyphaiogh:::txtsize --> Wodreks:::txtsize
+Unlyphaiogh:::txtsize --> YntthuTVZsarw:::txtsize
 
-Mlrmmtlcyaoaru@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 05:57 PM_
-Much flummery from starmer, but still no security guarantee on ukraine from trump" }
-MnsianneaTt@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 04:49 PM_
-Macron warns ukraine peace can’t mean ‘surrender’, after trump talks" }
+Tsnusltfsutos@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 09:00 AM_
+Trump’s zelensky outburst a culmination of weeks of frustration: sources" }
+TZsiinsacitsum@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:41 AM_
+Trump, zelensky fail to sign minerals deal after clash in white house shouting match" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 08:39 AM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+TZsiinsacitsum@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:41 AM_
+Trump, zelensky fail to sign minerals deal after clash in white house shouting match" }
+YntthuTVZsarw@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:25 AM_
+‘you’re not acting at all thankful’: the trump-vance-zelensky clash, word for word" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 08:39 AM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+TZsiinsacitsum@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:41 AM_
+Trump, zelensky fail to sign minerals deal after clash in white house shouting match" }
+YntthuTVZsarw@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:25 AM_
+‘you’re not acting at all thankful’: the trump-vance-zelensky clash, word for word" }
 DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
 'darkest hours of europe' as russia invades ukraine" }
 Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
 Bloodshed and tears as eastern ukraine faces russian attack" }
 Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
 Fighting rages around ukraine as russia invades from three sides" }
-Tswunirwnmsdcgl@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 11:13 AM_
-Trump’s call with putin on ukraine: europe’s worst nightmare is rapidly becoming a reality" }
-Tdskeitly@{ shape: win-pane, label: "_UPDATED Feb 13, 2025, 11:02 AM_
-Trump discusses ukraine war with putin, zelensky" }
-DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
-'darkest hours of europe' as russia invades ukraine" }
-Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
-Bloodshed and tears as eastern ukraine faces russian attack" }
-Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
-Fighting rages around ukraine as russia invades from three sides" }
 Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
 Fighting rages around ukraine as russia invades from three sides" }
 DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
 'darkest hours of europe' as russia invades ukraine" }
 
-Mlrmmtlcyaoaru:::txtsize --> MnsianneaTt:::txtsize
-MnsianneaTt:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
-DsruasvUn:::txtsize --> Figokesnsts:::txtsize
-MnsianneaTt:::txtsize --> Tswunirwnmsdcgl:::txtsize
-Tswunirwnmsdcgl:::txtsize --> Tdskeitly:::txtsize
-Mlrmmtlcyaoaru:::txtsize --> DsruasvUn:::txtsize
+Tsnusltfsutos:::txtsize --> TZsiinsacitsum:::txtsize
+TZsiinsacitsum:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> TZsiinsacitsum:::txtsize
+Unlyphaiogh:::txtsize --> YntthuTVZsarw:::txtsize
+TZsiinsacitsum:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> TZsiinsacitsum:::txtsize
+Unlyphaiogh:::txtsize --> YntthuTVZsarw:::txtsize
+Tsnusltfsutos:::txtsize --> DsruasvUn:::txtsize
 DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
 Bsnranicsak:::txtsize --> Figokesnsts:::txtsize
 DsruasvUn:::txtsize --> Figokesnsts:::txtsize
 Figokesnsts:::txtsize --> DsruasvUn:::txtsize
 
-Finaaqiortpt@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 03:38 PM_
-Francis’ illness raises a hard question: who governs if the pope can’t?" }
-Prsnnbuan@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 04:29 PM_
-Pope francis has pneumonia in both lungs, vatican says" }
-Prsnslrire@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 07:10 PM_
-Pope francis taken to hospital for bronchitis treatment" }
-Prsrrilot@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 08:51 PM_
-Pope francis injures forearm in fall, but no fractures" }
-Parnwnnnesc@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:26 AM_
-Pope eating, reading but weekend events cancelled, says vatican" }
-Pctoxittdc@{ shape: win-pane, label: "_UPDATED Feb 18, 2025, 03:12 AM_
-Pope’s condition ‘complex’, hospital stay extended: vatican" }
-VaslectSyopT@{ shape: win-pane, label: "_UPDATED Feb 17, 2025, 02:32 AM_
-Vatican says 'stable' pope francis watched sunday mass on hospital tv" }
-PrsssTsgoilb@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 09:36 PM_
-Pope francis tells us bishops trump’s immigration policy ‘will end badly’" }
-TsrornruditeWH@{ shape: win-pane, label: "_UPDATED Jan 24, 2025, 09:15 PM_
-Trump’s deportation operation under way, hundreds of migrants arrested: white house" }
-SduiafaBnt@{ shape: win-pane, label: "_PUBLISHED Jan 22, 2025, 05:00 AM_
-Spared on trump’s first day in office, a wary beijing waits" }
-Tsuiiawnyecasee@{ shape: win-pane, label: "_UPDATED Jan 23, 2025, 07:32 AM_
-Trump steps up immigration crackdown, warns city, state officials against interference" }
-MhnrmdeafSrn@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 08:17 PM_
-More than 100 singaporeans marked for deportation from us; 3 deported in fy2024" }
-TsrornruditeWH@{ shape: win-pane, label: "_UPDATED Jan 24, 2025, 09:15 PM_
-Trump’s deportation operation under way, hundreds of migrants arrested: white house" }
-UiftrmnIoiy@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 03:39 PM_
-Us military flight deporting migrants to india, official says" }
+Hnnmgrrreuc@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 09:55 AM_
+How canadians are making their anger towards the us loud and clear" }
+TseCaftfoc@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 06:30 PM_
+Trump says mexico, canada tariffs to take effect on march 4" }
+TfhirUnoaae@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 11:13 PM_
+Tariffs on china risk hurting us economy more than data suggests" }
+Acnrrhteur@{ shape: win-pane, label: "_UPDATED Feb 17, 2025, 02:51 PM_
+American consumers learn to shop in the age of trump tariffs" }
+Ttfkhfrrd@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 03:38 PM_
+Trump tariffs shake up china’s factory heartland" }
+Estrntuyiooms@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 06:45 AM_
+Eu vows swift, firm response after trump says tariffs coming on eu imports" }
+TssUopfuypun@{ shape: win-pane, label: "_UPDATED Feb 17, 2025, 05:57 PM_
+Trump shrugs off eu’s reported plans for trump-style import curbs on food" }
+Espflgiumr@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 11:02 PM_
+Eu says trump tariffs will trigger firm countermeasures" }
+CdtlasecT@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 11:58 AM_
+Candidates to replace canada’s trudeau focus on trump" }
+TjCamtard@{ shape: win-pane, label: "_UPDATED Dec 19, 2024, 05:00 PM_
+Trump jokes canada becoming 51st us state ‘a great idea’" }
+CaaieyFasapyhPd@{ shape: win-pane, label: "_UPDATED Dec 16, 2024, 11:36 PM_
+Canada’s finance minister chrystia freeland resigns after policy clash with pm trudeau" }
+CadaslfePi@{ shape: win-pane, label: "_UPDATED Dec 18, 2024, 06:58 PM_
+Canada’s trudeau battles to hold on after deputy pm resigns" }
+Cadogrieermrfi@{ shape: win-pane, label: "_UPDATED Jan 07, 2025, 01:53 PM_
+Canada’s trudeau to resign as prime minister after 9 years, blames party infighting" }
+FiltaTnoeuTa@{ shape: win-pane, label: "_UPDATED Dec 23, 2024, 11:41 AM_
+From liberal icon to maga joke: the waning fortunes of justin trudeau" }
+WvannnPtu@{ shape: win-pane, label: "_UPDATED Dec 21, 2024, 08:58 PM_
+Why have so many canadians turned on pm justin trudeau?" }
 
-Finaaqiortpt:::txtsize --> Prsnnbuan:::txtsize
-Prsnnbuan:::txtsize --> Prsnslrire:::txtsize
-Prsnslrire:::txtsize --> Prsrrilot:::txtsize
-Prsnnbuan:::txtsize --> Parnwnnnesc:::txtsize
-Parnwnnnesc:::txtsize --> Pctoxittdc:::txtsize
-Parnwnnnesc:::txtsize --> VaslectSyopT:::txtsize
-Finaaqiortpt:::txtsize --> PrsssTsgoilb:::txtsize
-PrsssTsgoilb:::txtsize --> TsrornruditeWH:::txtsize
-TsrornruditeWH:::txtsize --> SduiafaBnt:::txtsize
-TsrornruditeWH:::txtsize --> Tsuiiawnyecasee:::txtsize
-PrsssTsgoilb:::txtsize --> MhnrmdeafSrn:::txtsize
-MhnrmdeafSrn:::txtsize --> TsrornruditeWH:::txtsize
-MhnrmdeafSrn:::txtsize --> UiftrmnIoiy:::txtsize
+Hnnmgrrreuc:::txtsize --> TseCaftfoc:::txtsize
+TseCaftfoc:::txtsize --> TfhirUnoaae:::txtsize
+TfhirUnoaae:::txtsize --> Acnrrhteur:::txtsize
+TfhirUnoaae:::txtsize --> Ttfkhfrrd:::txtsize
+TseCaftfoc:::txtsize --> Estrntuyiooms:::txtsize
+Estrntuyiooms:::txtsize --> TssUopfuypun:::txtsize
+Estrntuyiooms:::txtsize --> Espflgiumr:::txtsize
+Hnnmgrrreuc:::txtsize --> CdtlasecT:::txtsize
+CdtlasecT:::txtsize --> TjCamtard:::txtsize
+TjCamtard:::txtsize --> CaaieyFasapyhPd:::txtsize
+TjCamtard:::txtsize --> CadaslfePi:::txtsize
+CdtlasecT:::txtsize --> Cadogrieermrfi:::txtsize
+Cadogrieermrfi:::txtsize --> FiltaTnoeuTa:::txtsize
+Cadogrieermrfi:::txtsize --> WvannnPtu:::txtsize
 
 ```
-<i>Last updated: 2025-03-01 08:00:21.263265 (GMT+8)</i>
+<i>Last updated: 2025-03-01 12:00:48.804089 (GMT+8)</i>
 <!-- END -->
