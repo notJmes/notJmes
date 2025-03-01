@@ -16,6 +16,92 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+TseoterlydfnS@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 04:05 PM_
+Trump’s contemptuous attitude towards zelensky  could backfire on the us" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
+Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
+‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+Zsymasaeeets@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:10 PM_
+Zelensky says trump relationship can be repaired after white house row" }
+DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
+'darkest hours of europe' as russia invades ukraine" }
+Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
+Bloodshed and tears as eastern ukraine faces russian attack" }
+Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
+Fighting rages around ukraine as russia invades from three sides" }
+Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
+Fighting rages around ukraine as russia invades from three sides" }
+DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
+'darkest hours of europe' as russia invades ukraine" }
+
+TseoterlydfnS:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
+TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
+TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
+YgitlIcsTZsaWH:::txtsize --> Unlyphaiogh:::txtsize
+YgitlIcsTZsaWH:::txtsize --> Zsymasaeeets:::txtsize
+TseoterlydfnS:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
+Bsnranicsak:::txtsize --> Figokesnsts:::txtsize
+DsruasvUn:::txtsize --> Figokesnsts:::txtsize
+Figokesnsts:::txtsize --> DsruasvUn:::txtsize
+
+PrsradcnVas@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 07:45 PM_
+Pope francis, after setback, had a peaceful night, vatican says" }
+Prsopohet@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 08:34 PM_
+Pope francis has double pneumonia - what does that mean?" }
+Prihnieiaei@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 07:10 PM_
+Pope ‘breathing on his own’ despite pneumonia, had a ‘peaceful night’" }
+Prsnnbuan@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 04:29 PM_
+Pope francis has pneumonia in both lungs, vatican says" }
+Prsnslrire@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 07:10 PM_
+Pope francis taken to hospital for bronchitis treatment" }
+Prsnnbuan@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 04:29 PM_
+Pope francis has pneumonia in both lungs, vatican says" }
+Prsnslrire@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 07:10 PM_
+Pope francis taken to hospital for bronchitis treatment" }
+Parnwnnnesc@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:26 AM_
+Pope eating, reading but weekend events cancelled, says vatican" }
+Prsthodtcscy@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 03:05 AM_
+Pope francis, in setback, had ‘isolated’ breathing crisis, vatican says" }
+Prsopohet@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 08:34 PM_
+Pope francis has double pneumonia - what does that mean?" }
+Prihnieiaei@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 07:10 PM_
+Pope ‘breathing on his own’ despite pneumonia, had a ‘peaceful night’" }
+Prsnnbuan@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 04:29 PM_
+Pope francis has pneumonia in both lungs, vatican says" }
+Finaaqiortpt@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 03:38 PM_
+Francis’ illness raises a hard question: who governs if the pope can’t?" }
+Prsnnbuan@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 04:29 PM_
+Pope francis has pneumonia in both lungs, vatican says" }
+PrsssTsgoilb@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 09:36 PM_
+Pope francis tells us bishops trump’s immigration policy ‘will end badly’" }
+
+PrsradcnVas:::txtsize --> Prsopohet:::txtsize
+Prsopohet:::txtsize --> Prihnieiaei:::txtsize
+Prihnieiaei:::txtsize --> Prsnnbuan:::txtsize
+Prihnieiaei:::txtsize --> Prsnslrire:::txtsize
+Prsopohet:::txtsize --> Prsnnbuan:::txtsize
+Prsnnbuan:::txtsize --> Prsnslrire:::txtsize
+Prsnnbuan:::txtsize --> Parnwnnnesc:::txtsize
+PrsradcnVas:::txtsize --> Prsthodtcscy:::txtsize
+Prsthodtcscy:::txtsize --> Prsopohet:::txtsize
+Prsopohet:::txtsize --> Prihnieiaei:::txtsize
+Prsopohet:::txtsize --> Prsnnbuan:::txtsize
+Prsthodtcscy:::txtsize --> Finaaqiortpt:::txtsize
+Finaaqiortpt:::txtsize --> Prsnnbuan:::txtsize
+Finaaqiortpt:::txtsize --> PrsssTsgoilb:::txtsize
+
 Ilaiecfiratp@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:29 AM_
 Israel and hamas diverge over ceasefire with first phase set to expire" }
 Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
@@ -62,92 +148,6 @@ Tsngtaeo:::txtsize --> MaqiayattiaO:::txtsize
 MaqiayattiaO:::txtsize --> Sbsrcdnacaale:::txtsize
 MaqiayattiaO:::txtsize --> Hstarcfafeisrn:::txtsize
 
-Aaiatafhoo@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:10 PM_
-Australia will ‘stand with ukraine’ after white house row" }
-TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
-Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
-Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 02:31 PM_
-‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
-Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 02:31 PM_
-‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
-DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
-'darkest hours of europe' as russia invades ukraine" }
-Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
-Bloodshed and tears as eastern ukraine faces russian attack" }
-Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
-Fighting rages around ukraine as russia invades from three sides" }
-Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
-Fighting rages around ukraine as russia invades from three sides" }
-DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
-'darkest hours of europe' as russia invades ukraine" }
-
-Aaiatafhoo:::txtsize --> TalytnretaWHsit:::txtsize
-TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
-Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
-Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
-TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
-Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
-Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
-Aaiatafhoo:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
-Bsnranicsak:::txtsize --> Figokesnsts:::txtsize
-DsruasvUn:::txtsize --> Figokesnsts:::txtsize
-Figokesnsts:::txtsize --> DsruasvUn:::txtsize
-
-UenleewBrdey@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 03:37 AM_
-Uk government calls urgent meeting with bbc over gaza documentary" }
-Ilaiecfiratp@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:29 AM_
-Israel and hamas diverge over ceasefire with first phase set to expire" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Tsngtaeo@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 04:16 PM_
-Trump says ongoing gaza talks are ‘pretty good’" }
-Easiaaidnedeg@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 12:03 PM_
-‘emaciated’ israeli hostages, palestinian detainees ‘deeply distressing’: un" }
-MaqiayattiaO@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 07:54 PM_
-Military inquiry in israel says it ‘failed to protect’ civilians on oct 7, 2023" }
-Rsrhgohrntnus@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:22 AM_
-Released israeli hostage recounts hunger, chains that ‘cut into your flesh’" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Easiaaidnedeg@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 12:03 PM_
-‘emaciated’ israeli hostages, palestinian detainees ‘deeply distressing’: un" }
-Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
-Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
-Hstseirhgrgcfnu@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 03:30 PM_
-Hamas says it will stop releasing israeli hostages, throwing gaza ceasefire into doubt" }
-
-UenleewBrdey:::txtsize --> Ilaiecfiratp:::txtsize
-Ilaiecfiratp:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Ilaiecfiratp:::txtsize --> Tsngtaeo:::txtsize
-Tsngtaeo:::txtsize --> Easiaaidnedeg:::txtsize
-Tsngtaeo:::txtsize --> MaqiayattiaO:::txtsize
-UenleewBrdey:::txtsize --> Rsrhgohrntnus:::txtsize
-Rsrhgohrntnus:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Rsrhgohrntnus:::txtsize --> Easiaaidnedeg:::txtsize
-Easiaaidnedeg:::txtsize --> Ilshedoooia:::txtsize
-Easiaaidnedeg:::txtsize --> Hstseirhgrgcfnu:::txtsize
-
 ```
-<i>Last updated: 2025-03-01 16:01:10.142100 (GMT+8)</i>
+<i>Last updated: 2025-03-01 20:00:32.043303 (GMT+8)</i>
 <!-- END -->
