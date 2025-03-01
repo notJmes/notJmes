@@ -16,48 +16,51 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 03:30 AM_
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:25 AM_
 Ukraine’s zelensky, trump clash in oval office shouting match" }
-Unsirtndos@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 11:07 PM_
-Ukraine says russian forces storming border from kursk" }
-Eihkbkesdsiu@{ shape: win-pane, label: "_UPDATED Aug 14, 2024, 11:44 AM_
-Explainer: what to know about ukraine’s cross-border assault into russia" }
-Unssacnirgits@{ shape: win-pane, label: "_UPDATED Aug 14, 2024, 07:35 PM_
-Ukraine says it is still advancing in russia’s kursk region, hints at ‘next steps’" }
-Zsyteinneini@{ shape: win-pane, label: "_UPDATED Oct 14, 2024, 06:49 PM_
-Zelensky says north koreans fighting alongside russians in ukraine" }
-NKniilyekel@{ shape: win-pane, label: "_UPDATED Oct 08, 2024, 09:41 PM_
-North korean soldiers ‘highly likely’ killed in ukraine: seoul" }
-ENKmaastidet@{ shape: win-pane, label: "_UPDATED Jul 09, 2024, 11:18 AM_
-Elite north korea military trainees visit russia amid deepening ties" }
-TnetgiTpsca@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 05:12 PM_
-Taiwan ‘closely watching’ ukraine as trump pivots, official says" }
-Tdsfrnroaetre@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 06:28 PM_
-Trump dodges plea from britain’s starmer for ukraine security guarantee" }
-Khsnspneeoas@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 03:03 AM_
-King charles iii invites trump for unprecedented second state visit" }
-BstroSsauspia@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 06:00 PM_
-British pm starmer says only us ‘backstop’ can secure lasting peace in ukraine" }
-DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
-'darkest hours of europe' as russia invades ukraine" }
-Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
-Bloodshed and tears as eastern ukraine faces russian attack" }
-Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
-Fighting rages around ukraine as russia invades from three sides" }
+TZsiinsacitsum@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 07:58 AM_
+Trump, zelensky fail to sign minerals deal after clash in white house shouting match" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:25 AM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+TZsiinsacitsum@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 07:58 AM_
+Trump, zelensky fail to sign minerals deal after clash in white house shouting match" }
+Wodreks@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 07:59 AM_
+Word for word: the trump-zelensky clash" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:25 AM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+TZsiinsacitsum@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 07:58 AM_
+Trump, zelensky fail to sign minerals deal after clash in white house shouting match" }
+Wodreks@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 07:59 AM_
+Word for word: the trump-zelensky clash" }
+Wodreks@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 07:59 AM_
+Word for word: the trump-zelensky clash" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:25 AM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+TZsiinsacitsum@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 07:58 AM_
+Trump, zelensky fail to sign minerals deal after clash in white house shouting match" }
+Wodreks@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 07:59 AM_
+Word for word: the trump-zelensky clash" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:25 AM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+TZsiinsacitsum@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 07:58 AM_
+Trump, zelensky fail to sign minerals deal after clash in white house shouting match" }
+Wodreks@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 07:59 AM_
+Word for word: the trump-zelensky clash" }
 
-Unlyphaiogh:::txtsize --> Unsirtndos:::txtsize
-Unsirtndos:::txtsize --> Eihkbkesdsiu:::txtsize
-Eihkbkesdsiu:::txtsize --> Unssacnirgits:::txtsize
-Unsirtndos:::txtsize --> Zsyteinneini:::txtsize
-Zsyteinneini:::txtsize --> NKniilyekel:::txtsize
-Zsyteinneini:::txtsize --> ENKmaastidet:::txtsize
-Unlyphaiogh:::txtsize --> TnetgiTpsca:::txtsize
-TnetgiTpsca:::txtsize --> Tdsfrnroaetre:::txtsize
-Tdsfrnroaetre:::txtsize --> Khsnspneeoas:::txtsize
-Tdsfrnroaetre:::txtsize --> BstroSsauspia:::txtsize
-TnetgiTpsca:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
-DsruasvUn:::txtsize --> Figokesnsts:::txtsize
+Unlyphaiogh:::txtsize --> TZsiinsacitsum:::txtsize
+TZsiinsacitsum:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> TZsiinsacitsum:::txtsize
+Unlyphaiogh:::txtsize --> Wodreks:::txtsize
+TZsiinsacitsum:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> TZsiinsacitsum:::txtsize
+Unlyphaiogh:::txtsize --> Wodreks:::txtsize
+Unlyphaiogh:::txtsize --> Wodreks:::txtsize
+Wodreks:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> TZsiinsacitsum:::txtsize
+Unlyphaiogh:::txtsize --> Wodreks:::txtsize
+Wodreks:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> TZsiinsacitsum:::txtsize
+Unlyphaiogh:::txtsize --> Wodreks:::txtsize
 
 Mlrmmtlcyaoaru@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 05:57 PM_
 Much flummery from starmer, but still no security guarantee on ukraine from trump" }
@@ -140,5 +143,5 @@ MhnrmdeafSrn:::txtsize --> TsrornruditeWH:::txtsize
 MhnrmdeafSrn:::txtsize --> UiftrmnIoiy:::txtsize
 
 ```
-<i>Last updated: 2025-03-01 04:01:00.344652 (GMT+8)</i>
+<i>Last updated: 2025-03-01 08:00:21.263265 (GMT+8)</i>
 <!-- END -->
