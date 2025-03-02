@@ -16,7 +16,7 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Nnleakmfirt@{ shape: win-pane, label: "_UPDATED Mar 02, 2025, 03:37 PM_
+Nnleakmfirt@{ shape: win-pane, label: "_UPDATED Mar 02, 2025, 07:03 PM_
 Nations fail to break deadlock on timing of un climate report" }
 TpUoglaseus@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 06:55 PM_
 Trump pulls us out of key global climate assessment, sources say" }
@@ -140,5 +140,5 @@ DsruasvUn:::txtsize --> Figokesnsts:::txtsize
 Figokesnsts:::txtsize --> DsruasvUn:::txtsize
 
 ```
-<i>Last updated: 2025-03-02 16:06:57.329926 (GMT+8)</i>
+<i>Last updated: 2025-03-02 20:07:03.070858 (GMT+8)</i>
 <!-- END -->
