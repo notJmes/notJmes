@@ -16,7 +16,7 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Nnleakmfirt@{ shape: win-pane, label: "_UPDATED Mar 02, 2025, 11:35 AM_
+Nnleakmfirt@{ shape: win-pane, label: "_UPDATED Mar 02, 2025, 03:37 PM_
 Nations fail to break deadlock on timing of un climate report" }
 TpUoglaseus@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 06:55 PM_
 Trump pulls us out of key global climate assessment, sources say" }
@@ -64,7 +64,7 @@ MvAeeeeooats:::txtsize --> Lgwiptlddtc:::txtsize
 
 UattipUncu@{ shape: win-pane, label: "_UPDATED Mar 02, 2025, 07:44 AM_
 Uk’s starmer tries to revive hope for ukraine peace at summit" }
-ATcUnlywKofuam@{ shape: win-pane, label: "_UPDATED Mar 02, 2025, 11:47 AM_
+ATcUnlywKofuam@{ shape: win-pane, label: "_UPDATED Mar 02, 2025, 03:40 PM_
 After trump clash, ukraine’s zelensky gets warm uk welcome before european summit" }
 DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
 'darkest hours of europe' as russia invades ukraine" }
@@ -140,5 +140,5 @@ DsruasvUn:::txtsize --> Figokesnsts:::txtsize
 Figokesnsts:::txtsize --> DsruasvUn:::txtsize
 
 ```
-<i>Last updated: 2025-03-02 12:07:52.606589 (GMT+8)</i>
+<i>Last updated: 2025-03-02 16:06:57.329926 (GMT+8)</i>
 <!-- END -->
