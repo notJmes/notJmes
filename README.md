@@ -62,6 +62,43 @@ EearUneesiu:::txtsize --> DsruasvUn:::txtsize
 DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
 DsruasvUn:::txtsize --> Figokesnsts:::txtsize
 
+Eeaauoneo@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 01:28 AM_
+Europe’s ariane 6 space launch postponed due to ‘anomaly’" }
+FAetaurti@{ shape: win-pane, label: "_UPDATED Jul 06, 2023, 11:15 AM_
+Final ariane 5 blasts off amid europe rocket crisis" }
+EecooalfrGa@{ shape: win-pane, label: "_UPDATED Nov 25, 2024, 04:35 PM_
+European rocket lost shortly after lift-off in french guiana" }
+Tiwitnifd@{ shape: win-pane, label: "_PUBLISHED Feb 25, 2022, 08:15 AM_
+Timeline: how russia's attack on ukraine unfolded" }
+Cslhlicesrlei@{ shape: win-pane, label: "_PUBLISHED Nov 28, 2022, 01:26 PM_
+China set to launch final mission to complete its own orbital space station" }
+Bitteibsaehttl@{ shape: win-pane, label: "_UPDATED Nov 25, 2024, 11:51 AM_
+Britain’s satellite hopes undimmed by mission failure; another attempt to follow" }
+Biorneecsi@{ shape: win-pane, label: "_UPDATED Nov 25, 2024, 11:48 AM_
+Britain’s groundbreaking satellite launch ends in failure" }
+EecooalfrGa@{ shape: win-pane, label: "_UPDATED Nov 25, 2024, 04:35 PM_
+European rocket lost shortly after lift-off in french guiana" }
+Jselnesittssrvtsa@{ shape: win-pane, label: "_UPDATED Feb 22, 2024, 09:34 PM_
+Japan’s successful h3 launch breathes new life into battered space sector as rival nations surge ahead" }
+Jlhoaafdth@{ shape: win-pane, label: "_UPDATED Feb 19, 2024, 06:29 PM_
+Japan launches h3 rocket a year after failed first flight" }
+Jsofaeeeopmo@{ shape: win-pane, label: "_UPDATED Nov 22, 2024, 12:49 PM_
+Japan’s new rocket fails after engine issue in blow to space ambitions" }
+Jtaetxeoca@{ shape: win-pane, label: "_UPDATED Feb 15, 2024, 03:32 PM_
+Japan takes another shot at next-generation h3 rocket launch" }
+
+Eeaauoneo:::txtsize --> FAetaurti:::txtsize
+FAetaurti:::txtsize --> EecooalfrGa:::txtsize
+EecooalfrGa:::txtsize --> Tiwitnifd:::txtsize
+EecooalfrGa:::txtsize --> Cslhlicesrlei:::txtsize
+FAetaurti:::txtsize --> Bitteibsaehttl:::txtsize
+Bitteibsaehttl:::txtsize --> Biorneecsi:::txtsize
+Bitteibsaehttl:::txtsize --> EecooalfrGa:::txtsize
+Eeaauoneo:::txtsize --> Jselnesittssrvtsa:::txtsize
+Jselnesittssrvtsa:::txtsize --> Jlhoaafdth:::txtsize
+Jlhoaafdth:::txtsize --> Jsofaeeeopmo:::txtsize
+Jlhoaafdth:::txtsize --> Jtaetxeoca:::txtsize
+
 TtovrpndsCe@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 01:14 PM_
 Trump to lay out govt overhaul plan in key address to us congress" }
 Tasegdddipitwia@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:23 AM_
@@ -108,43 +145,6 @@ Tsbatlysawksuy:::txtsize --> DsruasvUn:::txtsize
 DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
 DsruasvUn:::txtsize --> Figokesnsts:::txtsize
 
-Dcryedeotfverniu@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 02:13 PM_
-Defence secretary hegseth orders pentagon to stop offensive cyber operations against russia" }
-Tsbatlysawksuy@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 11:24 PM_
-Trump’s shabby treatment of zelensky draws dismay, shows lack of basic courtesy" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
-Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
-‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
-DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
-'darkest hours of europe' as russia invades ukraine" }
-Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
-Bloodshed and tears as eastern ukraine faces russian attack" }
-Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
-Fighting rages around ukraine as russia invades from three sides" }
-Pgsdortprowe@{ shape: win-pane, label: "_UPDATED Mar 02, 2025, 09:41 PM_
-Pentagon to send additional troops to help secure us border with mexico" }
-Mnetxolthufi@{ shape: win-pane, label: "_UPDATED Jan 07, 2025, 06:54 PM_
-Migrant arrests at us-mexico border lower than when trump left office" }
-Ugcdedyecs@{ shape: win-pane, label: "_UPDATED Nov 18, 2024, 12:24 PM_
-Us judge blocks biden's new border asylum restrictions" }
-Tshsabeelfnr@{ shape: win-pane, label: "_UPDATED Jan 06, 2025, 10:57 PM_
-Trump sees the us as a ‘disaster’ but the numbers tell a different story" }
-
-Dcryedeotfverniu:::txtsize --> Tsbatlysawksuy:::txtsize
-Tsbatlysawksuy:::txtsize --> Unlyphaiogh:::txtsize
-Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
-Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
-Tsbatlysawksuy:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
-DsruasvUn:::txtsize --> Figokesnsts:::txtsize
-Dcryedeotfverniu:::txtsize --> Pgsdortprowe:::txtsize
-Pgsdortprowe:::txtsize --> Mnetxolthufi:::txtsize
-Mnetxolthufi:::txtsize --> Ugcdedyecs:::txtsize
-Mnetxolthufi:::txtsize --> Tshsabeelfnr:::txtsize
-
 ```
-<i>Last updated: 2025-03-04 00:00:58.112896 (GMT+8)</i>
+<i>Last updated: 2025-03-04 04:00:19.714910 (GMT+8)</i>
 <!-- END -->
