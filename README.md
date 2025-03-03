@@ -16,24 +16,67 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-UndilseeTSes@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 12:06 AM_
+EearUneesiu@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 10:39 AM_
+Europeans rally around ukraine after zelensky’s row with trump" }
+UndilseeTSes@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 10:40 AM_
 Uk, france and ukraine will present peace deal to trump, starmer says" }
 Tsekhbuanci@{ shape: win-pane, label: "_UPDATED Mar 02, 2025, 08:53 PM_
 Trump sees zelensky as the problem, but ukrainians stick by him" }
 TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
 Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
+DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
+'darkest hours of europe' as russia invades ukraine" }
+FerglemZsa@{ shape: win-pane, label: "_UPDATED Mar 02, 2025, 05:02 AM_
+France’s macron urges calm after trump and zelensky clash" }
+Tsbatlysawksuy@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 11:24 PM_
+Trump’s shabby treatment of zelensky draws dismay, shows lack of basic courtesy" }
 DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
 'darkest hours of europe' as russia invades ukraine" }
 Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
 Bloodshed and tears as eastern ukraine faces russian attack" }
 Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
 Fighting rages around ukraine as russia invades from three sides" }
-FerglemZsa@{ shape: win-pane, label: "_UPDATED Mar 02, 2025, 05:02 AM_
-France’s macron urges calm after trump and zelensky clash" }
+Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
+Fighting rages around ukraine as russia invades from three sides" }
+DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
+'darkest hours of europe' as russia invades ukraine" }
+
+EearUneesiu:::txtsize --> UndilseeTSes:::txtsize
+UndilseeTSes:::txtsize --> Tsekhbuanci:::txtsize
+Tsekhbuanci:::txtsize --> TalytnretaWHsit:::txtsize
+Tsekhbuanci:::txtsize --> DsruasvUn:::txtsize
+UndilseeTSes:::txtsize --> FerglemZsa:::txtsize
+FerglemZsa:::txtsize --> Tsbatlysawksuy:::txtsize
+EearUneesiu:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
+Bsnranicsak:::txtsize --> Figokesnsts:::txtsize
+DsruasvUn:::txtsize --> Figokesnsts:::txtsize
+Figokesnsts:::txtsize --> DsruasvUn:::txtsize
+
+Uosiaurnsske@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 05:52 AM_
+Uk announces $2.7 billion deal to fund air-defence missiles for ukraine" }
+Alosuseotnniis@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 08:31 PM_
+‘aerial terror’: russia launches largest drone attack in war on ukraine, kyiv says" }
+TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
+Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
+Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
+Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
+Zsymnnaberumr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:14 PM_
+Zelensky says trump is in ‘disinformation’ bubble on ukraine, urges ‘more truth’" }
+Usreptwua@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 06:15 PM_
+Us, russia forge ahead on peace talks, without ukraine" }
+TseetFseaonulnRas@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 05:01 PM_
+Trump says he may meet putin in feb, dismisses ukraine concerns about exclusion from russia talks" }
+Usrrrlisasprwl@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:38 PM_
+Us, russia agree to restore diplomatic missions as first step in ukraine war talks" }
+WehomphoLaUnk@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 12:03 PM_
+‘we urgently have to rearm europe’: eu chief von der leyen after ukraine talks" }
+Eeaohlouaelsm@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:33 AM_
+European ‘coalition of the willing’ to draw up ukraine peace plan: uk’s starmer" }
+FaamoTalyh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 08:39 AM_
+From handshake to meltdown as trump and zelensky clash" }
+WehomphoLaUnk@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 12:03 PM_
+‘we urgently have to rearm europe’: eu chief von der leyen after ukraine talks" }
 Tsbatlysawksuy@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 11:24 PM_
 Trump’s shabby treatment of zelensky draws dismay, shows lack of basic courtesy" }
 Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
@@ -41,107 +84,46 @@ Ukraine’s zelensky, trump clash in oval office shouting match" }
 DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
 'darkest hours of europe' as russia invades ukraine" }
 
-UndilseeTSes:::txtsize --> Tsekhbuanci:::txtsize
-Tsekhbuanci:::txtsize --> TalytnretaWHsit:::txtsize
-TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
-TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
-Tsekhbuanci:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
-DsruasvUn:::txtsize --> Figokesnsts:::txtsize
-UndilseeTSes:::txtsize --> FerglemZsa:::txtsize
-FerglemZsa:::txtsize --> Tsbatlysawksuy:::txtsize
+Uosiaurnsske:::txtsize --> Alosuseotnniis:::txtsize
+Alosuseotnniis:::txtsize --> TcUnlytaicioiis:::txtsize
+TcUnlytaicioiis:::txtsize --> Umehtiusrnanii:::txtsize
+TcUnlytaicioiis:::txtsize --> Zsymnnaberumr:::txtsize
+Alosuseotnniis:::txtsize --> Usreptwua:::txtsize
+Usreptwua:::txtsize --> TseetFseaonulnRas:::txtsize
+Usreptwua:::txtsize --> Usrrrlisasprwl:::txtsize
+Uosiaurnsske:::txtsize --> WehomphoLaUnk:::txtsize
+WehomphoLaUnk:::txtsize --> Eeaohlouaelsm:::txtsize
+Eeaohlouaelsm:::txtsize --> FaamoTalyh:::txtsize
+Eeaohlouaelsm:::txtsize --> WehomphoLaUnk:::txtsize
+WehomphoLaUnk:::txtsize --> Tsbatlysawksuy:::txtsize
 Tsbatlysawksuy:::txtsize --> Unlyphaiogh:::txtsize
 Tsbatlysawksuy:::txtsize --> DsruasvUn:::txtsize
 
-Ilkiacftfas@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 04:20 AM_
-Israel blocks aid into gaza as ceasefire stand-off escalates" }
-UtysraGruxoc@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:11 PM_
-Uncertainty looms as first phase of gaza truce due to expire on march 1" }
-Uscfotmpanon@{ shape: win-pane, label: "_UPDATED Jan 17, 2025, 11:12 AM_
-Us says gaza ceasefire to start on time despite last minute ‘loose end’" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-IleSfmrsezoe@{ shape: win-pane, label: "_UPDATED Mar 02, 2025, 03:29 PM_
-Israel agrees on us plan for temporary ceasefire in gaza, pm’s office says" }
-Ilaiecfiratp@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:29 AM_
-Israel and hamas diverge over ceasefire with first phase set to expire" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-Tsngtaeo@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 04:16 PM_
-Trump says ongoing gaza talks are ‘pretty good’" }
-UtysraGruxoc@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:11 PM_
-Uncertainty looms as first phase of gaza truce due to expire on march 1" }
-Uscfotmpanon@{ shape: win-pane, label: "_UPDATED Jan 17, 2025, 11:12 AM_
-Us says gaza ceasefire to start on time despite last minute ‘loose end’" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+Unlyhsgasi@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 08:31 AM_
+Ukraine’s zelensky says he can salvage relationship with us" }
+Eeaohlouaelsm@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:33 AM_
+European ‘coalition of the willing’ to draw up ukraine peace plan: uk’s starmer" }
+FaamoTalyh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 08:39 AM_
+From handshake to meltdown as trump and zelensky clash" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
+Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
+WehomphoLaUnk@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 12:03 PM_
+‘we urgently have to rearm europe’: eu chief von der leyen after ukraine talks" }
+Eeaohlouaelsm@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:33 AM_
+European ‘coalition of the willing’ to draw up ukraine peace plan: uk’s starmer" }
+Tsbatlysawksuy@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 11:24 PM_
+Trump’s shabby treatment of zelensky draws dismay, shows lack of basic courtesy" }
 
-Ilkiacftfas:::txtsize --> UtysraGruxoc:::txtsize
-UtysraGruxoc:::txtsize --> Uscfotmpanon:::txtsize
-Uscfotmpanon:::txtsize --> NyeeawHakl:::txtsize
-UtysraGruxoc:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Ilkiacftfas:::txtsize --> IleSfmrsezoe:::txtsize
-IleSfmrsezoe:::txtsize --> Ilaiecfiratp:::txtsize
-Ilaiecfiratp:::txtsize --> Sbsrcdnacaale:::txtsize
-Ilaiecfiratp:::txtsize --> Tsngtaeo:::txtsize
-IleSfmrsezoe:::txtsize --> UtysraGruxoc:::txtsize
-UtysraGruxoc:::txtsize --> Uscfotmpanon:::txtsize
-UtysraGruxoc:::txtsize --> Sbsrcdnacaale:::txtsize
-
-Nnleakmfirt@{ shape: win-pane, label: "_UPDATED Mar 02, 2025, 07:03 PM_
-Nations fail to break deadlock on timing of un climate report" }
-TpUoglaseus@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 06:55 PM_
-Trump pulls us out of key global climate assessment, sources say" }
-Twrrriamg@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 09:59 AM_
-Trump withdraws from paris climate agreement, again" }
-Tmlomhscedlaobria@{ shape: win-pane, label: "_PUBLISHED Dec 29, 2017, 10:07 AM_
-Trump makes light of climate change science, cites cold spell in us as proof global warming is a hoax" }
-Feuiea@{ shape: win-pane, label: "_UPDATED Nov 25, 2024, 10:29 AM_
-Feb 24, 2022: the day russia invaded ukraine" }
-TsctieekhleitEt@{ shape: win-pane, label: "_UPDATED Jan 23, 2025, 11:58 AM_
-Trump’s anti-climate action steps a setback for the world and especially the us: experts" }
-Twrrriamg@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 09:59 AM_
-Trump withdraws from paris climate agreement, again" }
-TlunlAcsuaicrn@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 08:30 PM_
-Trump lays out plan to unleash american fossil fuels, halt climate cooperation" }
-wetadfamcia@{ shape: win-pane, label: "_UPDATED Jan 10, 2025, 01:05 PM_
-2024 was the first year above 1.5 deg c of global warming, scientists say" }
-wedtnrcia@{ shape: win-pane, label: "_UPDATED Nov 07, 2024, 11:47 AM_
-2024 will be world’s hottest on record, eu scientists say" }
-SlWoaaP@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 04:12 PM_
-St explains: what’s on the agenda at cop29?" }
-TsbchioUdetne@{ shape: win-pane, label: "_UPDATED Nov 07, 2024, 08:12 PM_
-Trump set to be elected 47th president of the united states in stunning comeback" }
-MvAeeeeooats@{ shape: win-pane, label: "_UPDATED Jan 10, 2025, 05:02 AM_
-Massive los angeles fires rage on even as hollywood blaze retreats" }
-CofHwiusgden@{ shape: win-pane, label: "_UPDATED Jan 09, 2025, 10:16 PM_
-California fires: hollywood hills burns as la engulfed by ‘the big one’" }
-Lgwiptlddtc@{ shape: win-pane, label: "_UPDATED Jan 09, 2025, 08:57 PM_
-Los angeles wildfires spread to hollywood as 100,000 ordered to evacuate" }
-
-Nnleakmfirt:::txtsize --> TpUoglaseus:::txtsize
-TpUoglaseus:::txtsize --> Twrrriamg:::txtsize
-Twrrriamg:::txtsize --> Tmlomhscedlaobria:::txtsize
-Twrrriamg:::txtsize --> Feuiea:::txtsize
-TpUoglaseus:::txtsize --> TsctieekhleitEt:::txtsize
-TsctieekhleitEt:::txtsize --> Twrrriamg:::txtsize
-TsctieekhleitEt:::txtsize --> TlunlAcsuaicrn:::txtsize
-Nnleakmfirt:::txtsize --> wetadfamcia:::txtsize
-wetadfamcia:::txtsize --> wedtnrcia:::txtsize
-wedtnrcia:::txtsize --> SlWoaaP:::txtsize
-wedtnrcia:::txtsize --> TsbchioUdetne:::txtsize
-wetadfamcia:::txtsize --> MvAeeeeooats:::txtsize
-MvAeeeeooats:::txtsize --> CofHwiusgden:::txtsize
-MvAeeeeooats:::txtsize --> Lgwiptlddtc:::txtsize
+Unlyhsgasi:::txtsize --> Eeaohlouaelsm:::txtsize
+Eeaohlouaelsm:::txtsize --> FaamoTalyh:::txtsize
+FaamoTalyh:::txtsize --> Unlyphaiogh:::txtsize
+FaamoTalyh:::txtsize --> TcUnlytaicioiis:::txtsize
+Eeaohlouaelsm:::txtsize --> WehomphoLaUnk:::txtsize
+WehomphoLaUnk:::txtsize --> Eeaohlouaelsm:::txtsize
+WehomphoLaUnk:::txtsize --> Tsbatlysawksuy:::txtsize
 
 ```
-<i>Last updated: 2025-03-03 08:14:34.321602 (GMT+8)</i>
+<i>Last updated: 2025-03-03 12:07:40.033924 (GMT+8)</i>
 <!-- END -->
