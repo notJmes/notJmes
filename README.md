@@ -16,42 +16,30 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Sereolarnkeiet@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 02:46 PM_
+Starmer, macron pledge to develop ceasefire plan for ukraine, but will the us bite?" }
 EearUneesiu@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 10:39 AM_
 Europeans rally around ukraine after zelensky’s row with trump" }
 UndilseeTSes@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 10:40 AM_
 Uk, france and ukraine will present peace deal to trump, starmer says" }
 Tsekhbuanci@{ shape: win-pane, label: "_UPDATED Mar 02, 2025, 08:53 PM_
 Trump sees zelensky as the problem, but ukrainians stick by him" }
-TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
-Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
-'darkest hours of europe' as russia invades ukraine" }
 FerglemZsa@{ shape: win-pane, label: "_UPDATED Mar 02, 2025, 05:02 AM_
 France’s macron urges calm after trump and zelensky clash" }
-Tsbatlysawksuy@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 11:24 PM_
-Trump’s shabby treatment of zelensky draws dismay, shows lack of basic courtesy" }
 DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
 'darkest hours of europe' as russia invades ukraine" }
 Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
 Bloodshed and tears as eastern ukraine faces russian attack" }
 Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
 Fighting rages around ukraine as russia invades from three sides" }
-Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
-Fighting rages around ukraine as russia invades from three sides" }
-DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
-'darkest hours of europe' as russia invades ukraine" }
 
+Sereolarnkeiet:::txtsize --> EearUneesiu:::txtsize
 EearUneesiu:::txtsize --> UndilseeTSes:::txtsize
 UndilseeTSes:::txtsize --> Tsekhbuanci:::txtsize
-Tsekhbuanci:::txtsize --> TalytnretaWHsit:::txtsize
-Tsekhbuanci:::txtsize --> DsruasvUn:::txtsize
 UndilseeTSes:::txtsize --> FerglemZsa:::txtsize
-FerglemZsa:::txtsize --> Tsbatlysawksuy:::txtsize
 EearUneesiu:::txtsize --> DsruasvUn:::txtsize
 DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
-Bsnranicsak:::txtsize --> Figokesnsts:::txtsize
 DsruasvUn:::txtsize --> Figokesnsts:::txtsize
-Figokesnsts:::txtsize --> DsruasvUn:::txtsize
 
 Uosiaurnsske@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 05:52 AM_
 Uk announces $2.7 billion deal to fund air-defence missiles for ukraine" }
@@ -125,5 +113,5 @@ WehomphoLaUnk:::txtsize --> Eeaohlouaelsm:::txtsize
 WehomphoLaUnk:::txtsize --> Tsbatlysawksuy:::txtsize
 
 ```
-<i>Last updated: 2025-03-03 12:07:40.033924 (GMT+8)</i>
+<i>Last updated: 2025-03-03 16:01:07.105614 (GMT+8)</i>
 <!-- END -->
