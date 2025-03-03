@@ -16,8 +16,22 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Sereolarnkeiet@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 02:46 PM_
+Sereolarnkeiet@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:16 PM_
 Starmer, macron pledge to develop ceasefire plan for ukraine, but will the us bite?" }
+EearUneesiu@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 10:39 AM_
+Europeans rally around ukraine after zelensky’s row with trump" }
+UndilseeTSes@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 10:40 AM_
+Uk, france and ukraine will present peace deal to trump, starmer says" }
+Tsekhbuanci@{ shape: win-pane, label: "_UPDATED Mar 02, 2025, 08:53 PM_
+Trump sees zelensky as the problem, but ukrainians stick by him" }
+FerglemZsa@{ shape: win-pane, label: "_UPDATED Mar 02, 2025, 05:02 AM_
+France’s macron urges calm after trump and zelensky clash" }
+DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
+'darkest hours of europe' as russia invades ukraine" }
+Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
+Bloodshed and tears as eastern ukraine faces russian attack" }
+Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
+Fighting rages around ukraine as russia invades from three sides" }
 EearUneesiu@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 10:39 AM_
 Europeans rally around ukraine after zelensky’s row with trump" }
 UndilseeTSes@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 10:40 AM_
@@ -40,54 +54,52 @@ UndilseeTSes:::txtsize --> FerglemZsa:::txtsize
 EearUneesiu:::txtsize --> DsruasvUn:::txtsize
 DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
 DsruasvUn:::txtsize --> Figokesnsts:::txtsize
+Sereolarnkeiet:::txtsize --> EearUneesiu:::txtsize
+EearUneesiu:::txtsize --> UndilseeTSes:::txtsize
+UndilseeTSes:::txtsize --> Tsekhbuanci:::txtsize
+UndilseeTSes:::txtsize --> FerglemZsa:::txtsize
+EearUneesiu:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
+DsruasvUn:::txtsize --> Figokesnsts:::txtsize
 
-Uosiaurnsske@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 05:52 AM_
-Uk announces $2.7 billion deal to fund air-defence missiles for ukraine" }
-Alosuseotnniis@{ shape: win-pane, label: "_UPDATED Feb 23, 2025, 08:31 PM_
-‘aerial terror’: russia launches largest drone attack in war on ukraine, kyiv says" }
-TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
-Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
-Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
-Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
-Zsymnnaberumr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:14 PM_
-Zelensky says trump is in ‘disinformation’ bubble on ukraine, urges ‘more truth’" }
-Usreptwua@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 06:15 PM_
-Us, russia forge ahead on peace talks, without ukraine" }
-TseetFseaonulnRas@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 05:01 PM_
-Trump says he may meet putin in feb, dismisses ukraine concerns about exclusion from russia talks" }
-Usrrrlisasprwl@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 03:38 PM_
-Us, russia agree to restore diplomatic missions as first step in ukraine war talks" }
-WehomphoLaUnk@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 12:03 PM_
-‘we urgently have to rearm europe’: eu chief von der leyen after ukraine talks" }
-Eeaohlouaelsm@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:33 AM_
-European ‘coalition of the willing’ to draw up ukraine peace plan: uk’s starmer" }
-FaamoTalyh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 08:39 AM_
-From handshake to meltdown as trump and zelensky clash" }
-WehomphoLaUnk@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 12:03 PM_
-‘we urgently have to rearm europe’: eu chief von der leyen after ukraine talks" }
+Dcryedeotfverniu@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 02:13 PM_
+Defence secretary hegseth orders pentagon to stop offensive cyber operations against russia" }
 Tsbatlysawksuy@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 11:24 PM_
 Trump’s shabby treatment of zelensky draws dismay, shows lack of basic courtesy" }
 Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
 Ukraine’s zelensky, trump clash in oval office shouting match" }
+TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
+Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
+YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
+‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
 DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
 'darkest hours of europe' as russia invades ukraine" }
+Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
+Bloodshed and tears as eastern ukraine faces russian attack" }
+Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
+Fighting rages around ukraine as russia invades from three sides" }
+Pgsdortprowe@{ shape: win-pane, label: "_UPDATED Mar 02, 2025, 09:41 PM_
+Pentagon to send additional troops to help secure us border with mexico" }
+Mnetxolthufi@{ shape: win-pane, label: "_UPDATED Jan 07, 2025, 06:54 PM_
+Migrant arrests at us-mexico border lower than when trump left office" }
+Ugcdedyecs@{ shape: win-pane, label: "_UPDATED Nov 18, 2024, 12:24 PM_
+Us judge blocks biden's new border asylum restrictions" }
+Tshsabeelfnr@{ shape: win-pane, label: "_UPDATED Jan 06, 2025, 10:57 PM_
+Trump sees the us as a ‘disaster’ but the numbers tell a different story" }
 
-Uosiaurnsske:::txtsize --> Alosuseotnniis:::txtsize
-Alosuseotnniis:::txtsize --> TcUnlytaicioiis:::txtsize
-TcUnlytaicioiis:::txtsize --> Umehtiusrnanii:::txtsize
-TcUnlytaicioiis:::txtsize --> Zsymnnaberumr:::txtsize
-Alosuseotnniis:::txtsize --> Usreptwua:::txtsize
-Usreptwua:::txtsize --> TseetFseaonulnRas:::txtsize
-Usreptwua:::txtsize --> Usrrrlisasprwl:::txtsize
-Uosiaurnsske:::txtsize --> WehomphoLaUnk:::txtsize
-WehomphoLaUnk:::txtsize --> Eeaohlouaelsm:::txtsize
-Eeaohlouaelsm:::txtsize --> FaamoTalyh:::txtsize
-Eeaohlouaelsm:::txtsize --> WehomphoLaUnk:::txtsize
-WehomphoLaUnk:::txtsize --> Tsbatlysawksuy:::txtsize
+Dcryedeotfverniu:::txtsize --> Tsbatlysawksuy:::txtsize
 Tsbatlysawksuy:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
+Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
 Tsbatlysawksuy:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
+DsruasvUn:::txtsize --> Figokesnsts:::txtsize
+Dcryedeotfverniu:::txtsize --> Pgsdortprowe:::txtsize
+Pgsdortprowe:::txtsize --> Mnetxolthufi:::txtsize
+Mnetxolthufi:::txtsize --> Ugcdedyecs:::txtsize
+Mnetxolthufi:::txtsize --> Tshsabeelfnr:::txtsize
 
-Unlyhsgasi@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 08:31 AM_
+Unlyhsgasi@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:34 PM_
 Ukraine’s zelensky says he can salvage relationship with us" }
 Eeaohlouaelsm@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:33 AM_
 European ‘coalition of the willing’ to draw up ukraine peace plan: uk’s starmer" }
@@ -113,5 +125,5 @@ WehomphoLaUnk:::txtsize --> Eeaohlouaelsm:::txtsize
 WehomphoLaUnk:::txtsize --> Tsbatlysawksuy:::txtsize
 
 ```
-<i>Last updated: 2025-03-03 16:01:07.105614 (GMT+8)</i>
+<i>Last updated: 2025-03-03 20:00:27.272139 (GMT+8)</i>
 <!-- END -->
