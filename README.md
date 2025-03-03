@@ -62,6 +62,52 @@ EearUneesiu:::txtsize --> DsruasvUn:::txtsize
 DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
 DsruasvUn:::txtsize --> Figokesnsts:::txtsize
 
+TtovrpndsCe@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 01:14 PM_
+Trump to lay out govt overhaul plan in key address to us congress" }
+Tasegdddipitwia@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:23 AM_
+Trudeau says protecting canada’s independence is his priority in talks with king charles" }
+Taerifinoms@{ shape: win-pane, label: "_UPDATED Jan 08, 2025, 05:33 PM_
+Trudeau rejects trump’s idea of forcing canada to become a us state" }
+Cadogrieermrfi@{ shape: win-pane, label: "_UPDATED Jan 07, 2025, 01:53 PM_
+Canada’s trudeau to resign as prime minister after 9 years, blames party infighting" }
+Wuenaaa@{ shape: win-pane, label: "_PUBLISHED Jan 08, 2025, 05:00 AM_
+Why would the us want canada as a 51st state?" }
+Khsnspneeoas@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 03:03 AM_
+King charles iii invites trump for unprecedented second state visit" }
+BstroSsauspia@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 06:00 PM_
+British pm starmer says only us ‘backstop’ can secure lasting peace in ukraine" }
+Tcrlytstskere@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 04:11 AM_
+Trump confirms zelensky visit to washington to sign ukraine minerals deal" }
+Tsbatlysawksuy@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 11:24 PM_
+Trump’s shabby treatment of zelensky draws dismay, shows lack of basic courtesy" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
+Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
+YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
+‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
+DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
+'darkest hours of europe' as russia invades ukraine" }
+Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
+Bloodshed and tears as eastern ukraine faces russian attack" }
+Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
+Fighting rages around ukraine as russia invades from three sides" }
+
+TtovrpndsCe:::txtsize --> Tasegdddipitwia:::txtsize
+Tasegdddipitwia:::txtsize --> Taerifinoms:::txtsize
+Taerifinoms:::txtsize --> Cadogrieermrfi:::txtsize
+Taerifinoms:::txtsize --> Wuenaaa:::txtsize
+Tasegdddipitwia:::txtsize --> Khsnspneeoas:::txtsize
+Khsnspneeoas:::txtsize --> BstroSsauspia:::txtsize
+Khsnspneeoas:::txtsize --> Tcrlytstskere:::txtsize
+TtovrpndsCe:::txtsize --> Tsbatlysawksuy:::txtsize
+Tsbatlysawksuy:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
+Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
+Tsbatlysawksuy:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
+DsruasvUn:::txtsize --> Figokesnsts:::txtsize
+
 Dcryedeotfverniu@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 02:13 PM_
 Defence secretary hegseth orders pentagon to stop offensive cyber operations against russia" }
 Tsbatlysawksuy@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 11:24 PM_
@@ -99,31 +145,6 @@ Pgsdortprowe:::txtsize --> Mnetxolthufi:::txtsize
 Mnetxolthufi:::txtsize --> Ugcdedyecs:::txtsize
 Mnetxolthufi:::txtsize --> Tshsabeelfnr:::txtsize
 
-Unlyhsgasi@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:34 PM_
-Ukraine’s zelensky says he can salvage relationship with us" }
-Eeaohlouaelsm@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:33 AM_
-European ‘coalition of the willing’ to draw up ukraine peace plan: uk’s starmer" }
-FaamoTalyh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 08:39 AM_
-From handshake to meltdown as trump and zelensky clash" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
-Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
-WehomphoLaUnk@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 12:03 PM_
-‘we urgently have to rearm europe’: eu chief von der leyen after ukraine talks" }
-Eeaohlouaelsm@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:33 AM_
-European ‘coalition of the willing’ to draw up ukraine peace plan: uk’s starmer" }
-Tsbatlysawksuy@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 11:24 PM_
-Trump’s shabby treatment of zelensky draws dismay, shows lack of basic courtesy" }
-
-Unlyhsgasi:::txtsize --> Eeaohlouaelsm:::txtsize
-Eeaohlouaelsm:::txtsize --> FaamoTalyh:::txtsize
-FaamoTalyh:::txtsize --> Unlyphaiogh:::txtsize
-FaamoTalyh:::txtsize --> TcUnlytaicioiis:::txtsize
-Eeaohlouaelsm:::txtsize --> WehomphoLaUnk:::txtsize
-WehomphoLaUnk:::txtsize --> Eeaohlouaelsm:::txtsize
-WehomphoLaUnk:::txtsize --> Tsbatlysawksuy:::txtsize
-
 ```
-<i>Last updated: 2025-03-03 20:00:27.272139 (GMT+8)</i>
+<i>Last updated: 2025-03-03 21:58:40.208868 (GMT+8)</i>
 <!-- END -->
