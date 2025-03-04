@@ -16,135 +16,129 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Sereolarnkeiet@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:16 PM_
-Starmer, macron pledge to develop ceasefire plan for ukraine, but will the us bite?" }
-EearUneesiu@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 10:39 AM_
-Europeans rally around ukraine after zelensky’s row with trump" }
-UndilseeTSes@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 10:40 AM_
-Uk, france and ukraine will present peace deal to trump, starmer says" }
-Tsekhbuanci@{ shape: win-pane, label: "_UPDATED Mar 02, 2025, 08:53 PM_
-Trump sees zelensky as the problem, but ukrainians stick by him" }
-FerglemZsa@{ shape: win-pane, label: "_UPDATED Mar 02, 2025, 05:02 AM_
-France’s macron urges calm after trump and zelensky clash" }
-DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
-'darkest hours of europe' as russia invades ukraine" }
-Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
-Bloodshed and tears as eastern ukraine faces russian attack" }
-Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
-Fighting rages around ukraine as russia invades from three sides" }
-EearUneesiu@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 10:39 AM_
-Europeans rally around ukraine after zelensky’s row with trump" }
-UndilseeTSes@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 10:40 AM_
-Uk, france and ukraine will present peace deal to trump, starmer says" }
-Tsekhbuanci@{ shape: win-pane, label: "_UPDATED Mar 02, 2025, 08:53 PM_
-Trump sees zelensky as the problem, but ukrainians stick by him" }
-FerglemZsa@{ shape: win-pane, label: "_UPDATED Mar 02, 2025, 05:02 AM_
-France’s macron urges calm after trump and zelensky clash" }
-DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
-'darkest hours of europe' as russia invades ukraine" }
-Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
-Bloodshed and tears as eastern ukraine faces russian attack" }
-Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
-Fighting rages around ukraine as russia invades from three sides" }
+TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 11:13 AM_
+Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
+MoapnTghhtfa@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 11:24 PM_
+Mexico has backup plan in case trump goes through with tariff threat" }
+ModieiocTwececra@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 09:34 PM_
+Mexico, canada tariffs set to kick in on march 4, but trump will set exact levels: us commerce head" }
+TseCaftfoc@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 06:30 PM_
+Trump says mexico, canada tariffs to take effect on march 4" }
+Caefalattatt@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 11:57 PM_
+China accuses us of fentanyl ‘blackmail’ after latest tariff threat" }
+Csenitresple@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 09:07 PM_
+China’s trade dominance in south america tempers trump’s influence" }
+TsftahltAs@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 03:13 PM_
+Trump’s tariff tactics may reshape global trade: analysts" }
+CpsastestheTlua@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 02:50 PM_
+China promises to always be latin america’s ‘trustworthy’ friend as trump lays out demands" }
+Fgtaer@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:07 AM_
+Facing up to the realities of trump 2.0" }
+TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
+Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
 
-Sereolarnkeiet:::txtsize --> EearUneesiu:::txtsize
-EearUneesiu:::txtsize --> UndilseeTSes:::txtsize
-UndilseeTSes:::txtsize --> Tsekhbuanci:::txtsize
-UndilseeTSes:::txtsize --> FerglemZsa:::txtsize
-EearUneesiu:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
-DsruasvUn:::txtsize --> Figokesnsts:::txtsize
-Sereolarnkeiet:::txtsize --> EearUneesiu:::txtsize
-EearUneesiu:::txtsize --> UndilseeTSes:::txtsize
-UndilseeTSes:::txtsize --> Tsekhbuanci:::txtsize
-UndilseeTSes:::txtsize --> FerglemZsa:::txtsize
-EearUneesiu:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
-DsruasvUn:::txtsize --> Figokesnsts:::txtsize
+TcrroadcbeC:::txtsize --> MoapnTghhtfa:::txtsize
+MoapnTghhtfa:::txtsize --> ModieiocTwececra:::txtsize
+ModieiocTwececra:::txtsize --> TseCaftfoc:::txtsize
+ModieiocTwececra:::txtsize --> Caefalattatt:::txtsize
+MoapnTghhtfa:::txtsize --> Csenitresple:::txtsize
+Csenitresple:::txtsize --> TsftahltAs:::txtsize
+Csenitresple:::txtsize --> CpsastestheTlua:::txtsize
+TcrroadcbeC:::txtsize --> Fgtaer:::txtsize
+Fgtaer:::txtsize --> TalytnretaWHsit:::txtsize
+TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
+TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
 
-Eeaauoneo@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 01:28 AM_
-Europe’s ariane 6 space launch postponed due to ‘anomaly’" }
-FAetaurti@{ shape: win-pane, label: "_UPDATED Jul 06, 2023, 11:15 AM_
-Final ariane 5 blasts off amid europe rocket crisis" }
-EecooalfrGa@{ shape: win-pane, label: "_UPDATED Nov 25, 2024, 04:35 PM_
-European rocket lost shortly after lift-off in french guiana" }
-Tiwitnifd@{ shape: win-pane, label: "_PUBLISHED Feb 25, 2022, 08:15 AM_
-Timeline: how russia's attack on ukraine unfolded" }
-Cslhlicesrlei@{ shape: win-pane, label: "_PUBLISHED Nov 28, 2022, 01:26 PM_
-China set to launch final mission to complete its own orbital space station" }
-Bitteibsaehttl@{ shape: win-pane, label: "_UPDATED Nov 25, 2024, 11:51 AM_
-Britain’s satellite hopes undimmed by mission failure; another attempt to follow" }
-Biorneecsi@{ shape: win-pane, label: "_UPDATED Nov 25, 2024, 11:48 AM_
-Britain’s groundbreaking satellite launch ends in failure" }
-EecooalfrGa@{ shape: win-pane, label: "_UPDATED Nov 25, 2024, 04:35 PM_
-European rocket lost shortly after lift-off in french guiana" }
-Jselnesittssrvtsa@{ shape: win-pane, label: "_UPDATED Feb 22, 2024, 09:34 PM_
-Japan’s successful h3 launch breathes new life into battered space sector as rival nations surge ahead" }
-Jlhoaafdth@{ shape: win-pane, label: "_UPDATED Feb 19, 2024, 06:29 PM_
-Japan launches h3 rocket a year after failed first flight" }
-Jsofaeeeopmo@{ shape: win-pane, label: "_UPDATED Nov 22, 2024, 12:49 PM_
-Japan’s new rocket fails after engine issue in blow to space ambitions" }
-Jtaetxeoca@{ shape: win-pane, label: "_UPDATED Feb 15, 2024, 03:32 PM_
-Japan takes another shot at next-generation h3 rocket launch" }
-
-Eeaauoneo:::txtsize --> FAetaurti:::txtsize
-FAetaurti:::txtsize --> EecooalfrGa:::txtsize
-EecooalfrGa:::txtsize --> Tiwitnifd:::txtsize
-EecooalfrGa:::txtsize --> Cslhlicesrlei:::txtsize
-FAetaurti:::txtsize --> Bitteibsaehttl:::txtsize
-Bitteibsaehttl:::txtsize --> Biorneecsi:::txtsize
-Bitteibsaehttl:::txtsize --> EecooalfrGa:::txtsize
-Eeaauoneo:::txtsize --> Jselnesittssrvtsa:::txtsize
-Jselnesittssrvtsa:::txtsize --> Jlhoaafdth:::txtsize
-Jlhoaafdth:::txtsize --> Jsofaeeeopmo:::txtsize
-Jlhoaafdth:::txtsize --> Jtaetxeoca:::txtsize
-
-TtovrpndsCe@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 01:14 PM_
-Trump to lay out govt overhaul plan in key address to us congress" }
-Tasegdddipitwia@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:23 AM_
-Trudeau says protecting canada’s independence is his priority in talks with king charles" }
-Taerifinoms@{ shape: win-pane, label: "_UPDATED Jan 08, 2025, 05:33 PM_
-Trudeau rejects trump’s idea of forcing canada to become a us state" }
-Cadogrieermrfi@{ shape: win-pane, label: "_UPDATED Jan 07, 2025, 01:53 PM_
-Canada’s trudeau to resign as prime minister after 9 years, blames party infighting" }
-Wuenaaa@{ shape: win-pane, label: "_PUBLISHED Jan 08, 2025, 05:00 AM_
-Why would the us want canada as a 51st state?" }
-Khsnspneeoas@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 03:03 AM_
-King charles iii invites trump for unprecedented second state visit" }
-BstroSsauspia@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 06:00 PM_
-British pm starmer says only us ‘backstop’ can secure lasting peace in ukraine" }
-Tcrlytstskere@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 04:11 AM_
-Trump confirms zelensky visit to washington to sign ukraine minerals deal" }
+Tsslyburgoarl@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 11:17 AM_
+Trump suggests zelensky ‘won’t be around very long’ without ceasefire deal" }
+TttopnEelrariar@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 11:16 AM_
+Trump threatens to lose patience as europeans float proposals for ukraine ceasefire" }
 Tsbatlysawksuy@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 11:24 PM_
 Trump’s shabby treatment of zelensky draws dismay, shows lack of basic courtesy" }
 Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
 Ukraine’s zelensky, trump clash in oval office shouting match" }
-TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
-Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
-‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
+DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
+'darkest hours of europe' as russia invades ukraine" }
+Eeaohlouaelsm@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:33 AM_
+European ‘coalition of the willing’ to draw up ukraine peace plan: uk’s starmer" }
+FaamoTalyh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 08:39 AM_
+From handshake to meltdown as trump and zelensky clash" }
+WehomphoLaUnk@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 12:03 PM_
+‘we urgently have to rearm europe’: eu chief von der leyen after ukraine talks" }
 DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
 'darkest hours of europe' as russia invades ukraine" }
 Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
 Bloodshed and tears as eastern ukraine faces russian attack" }
 Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
 Fighting rages around ukraine as russia invades from three sides" }
+Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
+Fighting rages around ukraine as russia invades from three sides" }
+DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
+'darkest hours of europe' as russia invades ukraine" }
 
-TtovrpndsCe:::txtsize --> Tasegdddipitwia:::txtsize
-Tasegdddipitwia:::txtsize --> Taerifinoms:::txtsize
-Taerifinoms:::txtsize --> Cadogrieermrfi:::txtsize
-Taerifinoms:::txtsize --> Wuenaaa:::txtsize
-Tasegdddipitwia:::txtsize --> Khsnspneeoas:::txtsize
-Khsnspneeoas:::txtsize --> BstroSsauspia:::txtsize
-Khsnspneeoas:::txtsize --> Tcrlytstskere:::txtsize
-TtovrpndsCe:::txtsize --> Tsbatlysawksuy:::txtsize
+Tsslyburgoarl:::txtsize --> TttopnEelrariar:::txtsize
+TttopnEelrariar:::txtsize --> Tsbatlysawksuy:::txtsize
 Tsbatlysawksuy:::txtsize --> Unlyphaiogh:::txtsize
-Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
-Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
 Tsbatlysawksuy:::txtsize --> DsruasvUn:::txtsize
+TttopnEelrariar:::txtsize --> Eeaohlouaelsm:::txtsize
+Eeaohlouaelsm:::txtsize --> FaamoTalyh:::txtsize
+Eeaohlouaelsm:::txtsize --> WehomphoLaUnk:::txtsize
+Tsslyburgoarl:::txtsize --> DsruasvUn:::txtsize
 DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
+Bsnranicsak:::txtsize --> Figokesnsts:::txtsize
 DsruasvUn:::txtsize --> Figokesnsts:::txtsize
+Figokesnsts:::txtsize --> DsruasvUn:::txtsize
+
+Ilrmcqeainassr@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 04:44 AM_
+Israel pm warns hamas of consequences it ‘cannot imagine’ if gaza hostages not freed" }
+EsrvrGiateH@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 01:37 AM_
+Egypt’s alternative to trump’s ‘gaza riviera’ aims to sideline hamas" }
+Tpstvzceetda@{ shape: win-pane, label: "_UPDATED Feb 05, 2025, 08:50 PM_
+Trump proposes us ‘take over’ gaza and create ‘riviera of the middle east’" }
+WeaWHTpsrnpmfn@{ shape: win-pane, label: "_UPDATED Feb 05, 2025, 04:44 PM_
+With netanyahu at white house, trump proposes permanent displacement of gazans" }
+SAaiseuyitatPtne@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 12:15 AM_
+Saudi arabia, in swift response to trump, says no ties with israel without palestinian state" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
+World in shock after hamas surprise attacks on israel" }
+IlrteeaenBin@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 10:34 PM_
+Israel clears another refugee camp as squeeze on west bank tightens" }
+SpeeegsmcnoalnfMi@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 11:32 PM_
+Singapore believes in keeping lines of communication open on israel-palestine conflict: maliki" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+PgfSpctteiao@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 01:36 AM_
+Pm wong reaffirms singapore’s commitment to palestinian statehood" }
+Ilesaiszdsese@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 09:22 PM_
+Israeli fire kills two palestinians in gaza amid impasse over ceasefire deal" }
+Daahorssrseaci@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 12:34 AM_
+Displaced gazans head home, first hostages are freed as israel-hamas truce begins" }
+Hsatnnsaarl@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 10:55 PM_
+Hamas says talks start on second phase of gaza ceasefire deal" }
+
+Ilrmcqeainassr:::txtsize --> EsrvrGiateH:::txtsize
+EsrvrGiateH:::txtsize --> Tpstvzceetda:::txtsize
+Tpstvzceetda:::txtsize --> WeaWHTpsrnpmfn:::txtsize
+Tpstvzceetda:::txtsize --> SAaiseuyitatPtne:::txtsize
+EsrvrGiateH:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Ilrmcqeainassr:::txtsize --> IlrteeaenBin:::txtsize
+IlrteeaenBin:::txtsize --> SpeeegsmcnoalnfMi:::txtsize
+SpeeegsmcnoalnfMi:::txtsize --> NyeeawHakl:::txtsize
+SpeeegsmcnoalnfMi:::txtsize --> PgfSpctteiao:::txtsize
+IlrteeaenBin:::txtsize --> Ilesaiszdsese:::txtsize
+Ilesaiszdsese:::txtsize --> Daahorssrseaci:::txtsize
+Ilesaiszdsese:::txtsize --> Hsatnnsaarl:::txtsize
 
 ```
-<i>Last updated: 2025-03-04 08:00:39.852662 (GMT+8)</i>
+<i>Last updated: 2025-03-04 12:01:01.128050 (GMT+8)</i>
 <!-- END -->
