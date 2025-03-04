@@ -93,52 +93,52 @@ Uscdpbsper:::txtsize --> TteohdhnsC:::txtsize
 TteohdhnsC:::txtsize --> Tnsreafcoanmt:::txtsize
 TteohdhnsC:::txtsize --> Tngikhrenoyp:::txtsize
 
-IeCeuetbaDudi@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 10:05 AM_
-In speech to congress, trump is expected to boast about doge cuts and ukraine" }
-YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
-‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
+Unlyheofoa@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 01:41 AM_
+Ukraine’s zelensky says he is ready to work fast to end war" }
+Tpstikernl@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 07:28 PM_
+Trump pauses military aid to ukraine after zelensky clash" }
 Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
 Ukraine’s zelensky, trump clash in oval office shouting match" }
 TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
 Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
 YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
 ‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
-Zsymasaeeets@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:10 PM_
-Zelensky says trump relationship can be repaired after white house row" }
+Sereolarnkeiet@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:16 PM_
+Starmer, macron pledge to develop ceasefire plan for ukraine, but will the us bite?" }
+EearUneesiu@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 10:39 AM_
+Europeans rally around ukraine after zelensky’s row with trump" }
+EearUneesiu@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 10:39 AM_
+Europeans rally around ukraine after zelensky’s row with trump" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
 TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
 Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-Eeasutekems@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 08:25 PM_
-European leaders show support for zelensky after trump clash" }
-TkeasgoetrsdPdr@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 07:37 PM_
-Tiktok ban delay, pardons, immigration: key executive orders signed by us president trump" }
-TpnrlgtUii@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 12:03 PM_
-Trump pardons nearly all charged with jan 6 us capitol riot" }
-SiUiinenWn@{ shape: win-pane, label: "_PUBLISHED Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
-Hpdwtmyrr@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 12:44 PM_
-How us presidents wield their mighty power to pardon" }
-TcioirdsGi@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 11:27 AM_
-Trump curtails protections around diversity, lgbtq rights" }
-Asdmseetiralavtge@{ shape: win-pane, label: "_UPDATED Jan 12, 2025, 01:59 PM_
-Apple’s board recommends shareholders vote against proposal to eliminate diversity programmes" }
-MmsbiiomeTiuo@{ shape: win-pane, label: "_UPDATED Jan 11, 2025, 05:54 PM_
-Meta, amazon scale back diversity programmes ahead of trump inauguration" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
+‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+Zsymasaeeets@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:10 PM_
+Zelensky says trump relationship can be repaired after white house row" }
 
-IeCeuetbaDudi:::txtsize --> YgitlIcsTZsaWH:::txtsize
-YgitlIcsTZsaWH:::txtsize --> Unlyphaiogh:::txtsize
+Unlyheofoa:::txtsize --> Tpstikernl:::txtsize
+Tpstikernl:::txtsize --> Unlyphaiogh:::txtsize
 Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
 Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
+Tpstikernl:::txtsize --> Sereolarnkeiet:::txtsize
+Sereolarnkeiet:::txtsize --> EearUneesiu:::txtsize
+Sereolarnkeiet:::txtsize --> EearUneesiu:::txtsize
+Unlyheofoa:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
+TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
+TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
+YgitlIcsTZsaWH:::txtsize --> Unlyphaiogh:::txtsize
 YgitlIcsTZsaWH:::txtsize --> Zsymasaeeets:::txtsize
-Zsymasaeeets:::txtsize --> TalytnretaWHsit:::txtsize
-Zsymasaeeets:::txtsize --> Eeasutekems:::txtsize
-IeCeuetbaDudi:::txtsize --> TkeasgoetrsdPdr:::txtsize
-TkeasgoetrsdPdr:::txtsize --> TpnrlgtUii:::txtsize
-TpnrlgtUii:::txtsize --> SiUiinenWn:::txtsize
-TpnrlgtUii:::txtsize --> Hpdwtmyrr:::txtsize
-TkeasgoetrsdPdr:::txtsize --> TcioirdsGi:::txtsize
-TcioirdsGi:::txtsize --> Asdmseetiralavtge:::txtsize
-TcioirdsGi:::txtsize --> MmsbiiomeTiuo:::txtsize
 
 ```
-<i>Last updated: 2025-03-05 00:01:01.384124 (GMT+8)</i>
+<i>Last updated: 2025-03-05 04:00:21.236839 (GMT+8)</i>
 <!-- END -->
