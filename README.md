@@ -16,7 +16,7 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 11:13 AM_
+TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 12:37 PM_
 Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
 MoapnTghhtfa@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 11:24 PM_
 Mexico has backup plan in case trump goes through with tariff threat" }
@@ -53,9 +53,9 @@ Fgtaer:::txtsize --> TalytnretaWHsit:::txtsize
 TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
 TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
 
-Tsslyburgoarl@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 11:17 AM_
+Tsslyburgoarl@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 03:10 PM_
 Trump suggests zelensky ‘won’t be around very long’ without ceasefire deal" }
-TttopnEelrariar@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 11:16 AM_
+TttopnEelrariar@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 03:12 PM_
 Trump threatens to lose patience as europeans float proposals for ukraine ceasefire" }
 Tsbatlysawksuy@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 11:24 PM_
 Trump’s shabby treatment of zelensky draws dismay, shows lack of basic courtesy" }
@@ -140,5 +140,5 @@ Ilesaiszdsese:::txtsize --> Daahorssrseaci:::txtsize
 Ilesaiszdsese:::txtsize --> Hsatnnsaarl:::txtsize
 
 ```
-<i>Last updated: 2025-03-04 12:01:01.128050 (GMT+8)</i>
+<i>Last updated: 2025-03-04 16:00:21.700919 (GMT+8)</i>
 <!-- END -->
