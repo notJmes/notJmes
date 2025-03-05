@@ -16,8 +16,8 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tsasiidreemndotus@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 12:23 PM_
-Trump says tariffs to bring ‘a little disturbance’ to us economy, but needed to protect the country’s ‘soul’" }
+Tsasmmaablrs@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 07:16 PM_
+Trump says tariffs will make america rich again, but will americans wait?" }
 Acauypmdrno@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:51 PM_
 ‘america is back,’ trump says in speech marred by partisan rancour" }
 DrrtpeCetrotsns@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 01:30 PM_
@@ -45,100 +45,103 @@ Facing up to the realities of trump 2.0" }
 TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
 Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
 
-Tsasiidreemndotus:::txtsize --> Acauypmdrno:::txtsize
+Tsasmmaablrs:::txtsize --> Acauypmdrno:::txtsize
 Acauypmdrno:::txtsize --> DrrtpeCetrotsns:::txtsize
 DrrtpeCetrotsns:::txtsize --> Acauypmdrno:::txtsize
 DrrtpeCetrotsns:::txtsize --> Uctvysireeabuptg:::txtsize
 Acauypmdrno:::txtsize --> Drlkmfrptg:::txtsize
 Drlkmfrptg:::txtsize --> Acauypmdrno:::txtsize
 Drlkmfrptg:::txtsize --> Acauypmdrno:::txtsize
-Tsasiidreemndotus:::txtsize --> TcrroadcbeC:::txtsize
+Tsasmmaablrs:::txtsize --> TcrroadcbeC:::txtsize
 TcrroadcbeC:::txtsize --> MoapnTghhtfa:::txtsize
 MoapnTghhtfa:::txtsize --> ModieiocTwececra:::txtsize
 MoapnTghhtfa:::txtsize --> Csenitresple:::txtsize
 TcrroadcbeC:::txtsize --> Fgtaer:::txtsize
 Fgtaer:::txtsize --> TalytnretaWHsit:::txtsize
 
-Psikommtmpudtg@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:11 PM_
-Protest in pink, woke no more: some key moments from trump’s 100-minute address to congress" }
-Drlkmfrptg@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 02:16 PM_
-Democratic lawmaker removed from trump speech to congress" }
+Uctvysireeabuptg@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:27 PM_
+‘unprecedented giveaway to his billionaire friends’: democrats rebut trump’s speech to congress" }
 Acauypmdrno@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:51 PM_
 ‘america is back,’ trump says in speech marred by partisan rancour" }
 DrrtpeCetrotsns@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 01:30 PM_
 Democrats protest trump’s speech to congress with disruption, exits and solemn signs" }
+Acauypmdrno@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:51 PM_
+‘america is back,’ trump says in speech marred by partisan rancour" }
+Uctvysireeabuptg@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:27 PM_
+‘unprecedented giveaway to his billionaire friends’: democrats rebut trump’s speech to congress" }
 Drlkmfrptg@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 02:16 PM_
 Democratic lawmaker removed from trump speech to congress" }
 Acauypmdrno@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:51 PM_
 ‘america is back,’ trump says in speech marred by partisan rancour" }
+Acauypmdrno@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:51 PM_
+‘america is back,’ trump says in speech marred by partisan rancour" }
+Acauypmdrno@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:51 PM_
+‘america is back,’ trump says in speech marred by partisan rancour" }
 DrrtpeCetrotsns@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 01:30 PM_
 Democrats protest trump’s speech to congress with disruption, exits and solemn signs" }
+Acauypmdrno@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:51 PM_
+‘america is back,’ trump says in speech marred by partisan rancour" }
+Uctvysireeabuptg@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:27 PM_
+‘unprecedented giveaway to his billionaire friends’: democrats rebut trump’s speech to congress" }
 Drlkmfrptg@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 02:16 PM_
 Democratic lawmaker removed from trump speech to congress" }
-SisstttnraIelyev@{ shape: win-pane, label: "_UPDATED Jul 14, 2024, 10:31 PM_
-Shooting was ‘assassination attempt’ on donald trump, says fbi; suspect, 20, killed by secret  service" }
-HwkaTskgntdenrhn@{ shape: win-pane, label: "_UPDATED Jul 14, 2024, 11:00 PM_
-Here’s what’s known about thomas crooks, 20, the gunman identified by the fbi in the trump shooting" }
-SisstttnraIelyev@{ shape: win-pane, label: "_UPDATED Jul 14, 2024, 10:31 PM_
-Shooting was ‘assassination attempt’ on donald trump, says fbi; suspect, 20, killed by secret  service" }
+Acauypmdrno@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:51 PM_
+‘america is back,’ trump says in speech marred by partisan rancour" }
+Acauypmdrno@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:51 PM_
+‘america is back,’ trump says in speech marred by partisan rancour" }
 
-Psikommtmpudtg:::txtsize --> Drlkmfrptg:::txtsize
-Drlkmfrptg:::txtsize --> Acauypmdrno:::txtsize
+Uctvysireeabuptg:::txtsize --> Acauypmdrno:::txtsize
 Acauypmdrno:::txtsize --> DrrtpeCetrotsns:::txtsize
+DrrtpeCetrotsns:::txtsize --> Acauypmdrno:::txtsize
+DrrtpeCetrotsns:::txtsize --> Uctvysireeabuptg:::txtsize
 Acauypmdrno:::txtsize --> Drlkmfrptg:::txtsize
 Drlkmfrptg:::txtsize --> Acauypmdrno:::txtsize
+Drlkmfrptg:::txtsize --> Acauypmdrno:::txtsize
+Uctvysireeabuptg:::txtsize --> Acauypmdrno:::txtsize
 Acauypmdrno:::txtsize --> DrrtpeCetrotsns:::txtsize
+DrrtpeCetrotsns:::txtsize --> Acauypmdrno:::txtsize
+DrrtpeCetrotsns:::txtsize --> Uctvysireeabuptg:::txtsize
 Acauypmdrno:::txtsize --> Drlkmfrptg:::txtsize
-Psikommtmpudtg:::txtsize --> SisstttnraIelyev:::txtsize
-SisstttnraIelyev:::txtsize --> HwkaTskgntdenrhn:::txtsize
-HwkaTskgntdenrhn:::txtsize --> SisstttnraIelyev:::txtsize
+Drlkmfrptg:::txtsize --> Acauypmdrno:::txtsize
+Drlkmfrptg:::txtsize --> Acauypmdrno:::txtsize
 
-AtaEittopae@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 10:49 AM_
-Arab states adopt egyptian alternative to trump’s ‘gaza riviera’" }
-Tpstvzceetda@{ shape: win-pane, label: "_UPDATED Feb 05, 2025, 08:50 PM_
-Trump proposes us ‘take over’ gaza and create ‘riviera of the middle east’" }
-WeaWHTpsrnpmfn@{ shape: win-pane, label: "_UPDATED Feb 05, 2025, 04:44 PM_
-With netanyahu at white house, trump proposes permanent displacement of gazans" }
-Tathfvtodsn@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 03:21 PM_
-Trump and netanyahu set for pivotal talks on middle east agenda" }
-Hfhgreeeiiraei@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 02:03 PM_
-Hamas frees hostages, israel releases palestinian prisoners on day 1 of ceasefire" }
-SAaiseuyitatPtne@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 12:15 AM_
-Saudi arabia, in swift response to trump, says no ties with israel without palestinian state" }
-Tpstvzceetda@{ shape: win-pane, label: "_UPDATED Feb 05, 2025, 08:50 PM_
-Trump proposes us ‘take over’ gaza and create ‘riviera of the middle east’" }
-SAaasateita@{ shape: win-pane, label: "_UPDATED Nov 25, 2024, 01:01 PM_
-Saudi arabia says a palestinian state is key to ties with israel" }
-Tsngtaeo@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 04:16 PM_
-Trump says ongoing gaza talks are ‘pretty good’" }
-Easiaaidnedeg@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 12:03 PM_
-‘emaciated’ israeli hostages, palestinian detainees ‘deeply distressing’: un" }
-Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
-Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
-Hstseirhgrgcfnu@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 03:30 PM_
-Hamas says it will stop releasing israeli hostages, throwing gaza ceasefire into doubt" }
-MaqiayattiaO@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 07:54 PM_
-Military inquiry in israel says it ‘failed to protect’ civilians on oct 7, 2023" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-Hstarcfafeisrn@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 10:16 PM_
-Hamas says it is ready for more ceasefire talks after releasing hostage remains" }
+TsraSbicen@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:19 PM_
+Trump seeks revival of us shipbuilding to counter china" }
+Udrteiosghesmtp@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 03:33 PM_
+Us trade representative’s office proposes charging chinese ships up to $2m to enter us ports" }
+UghenotnaoIswl@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 08:25 PM_
+Us targets chinese and indian operators in new sanctions on iran’s shadow oil fleet" }
+Eewtosrpfr@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 09:09 PM_
+Eu agrees new sanctions on russia, marks support for ukraine" }
+IhemnueIur@{ shape: win-pane, label: "_UPDATED Feb 15, 2025, 12:33 AM_
+Iaea chief sees time running out to revive iran nuclear deal" }
+Ubdnadahignfnera@{ shape: win-pane, label: "_UPDATED Jan 13, 2025, 03:58 PM_
+Us probe finds china unfairly dominates shipbuilding, paving way for penalties, sources say" }
+UolpinCscsilsr@{ shape: win-pane, label: "_UPDATED Mar 13, 2024, 05:37 PM_
+Us unions call for probe into ‘unfair’ chinese practices in shipbuilding sector" }
+Cltibicels@{ shape: win-pane, label: "_UPDATED Dec 29, 2023, 03:46 PM_
+China looks to dominate building of cleaner-fuel ships" }
+Raissaosigytn@{ shape: win-pane, label: "_UPDATED Nov 08, 2024, 01:16 PM_
+Red sea crisis pressures china’s exporters as shipping delays, costs mount" }
+Unhigeasmwh@{ shape: win-pane, label: "_UPDATED Sep 21, 2024, 07:00 PM_
+Us leans on shipbuilding prowess of allies to compete with china" }
+TiwiCdrtr@{ shape: win-pane, label: "_UPDATED May 19, 2024, 06:14 PM_
+Two chinese warships in cambodia for military drills" }
+Ppssssdleaigfln@{ shape: win-pane, label: "_UPDATED May 11, 2024, 07:32 PM_
+Philippines sends ships to disputed atoll where china is building ‘artificial island’" }
 
-AtaEittopae:::txtsize --> Tpstvzceetda:::txtsize
-Tpstvzceetda:::txtsize --> WeaWHTpsrnpmfn:::txtsize
-WeaWHTpsrnpmfn:::txtsize --> Tathfvtodsn:::txtsize
-WeaWHTpsrnpmfn:::txtsize --> Hfhgreeeiiraei:::txtsize
-Tpstvzceetda:::txtsize --> SAaiseuyitatPtne:::txtsize
-SAaiseuyitatPtne:::txtsize --> Tpstvzceetda:::txtsize
-SAaiseuyitatPtne:::txtsize --> SAaasateita:::txtsize
-AtaEittopae:::txtsize --> Tsngtaeo:::txtsize
-Tsngtaeo:::txtsize --> Easiaaidnedeg:::txtsize
-Easiaaidnedeg:::txtsize --> Ilshedoooia:::txtsize
-Easiaaidnedeg:::txtsize --> Hstseirhgrgcfnu:::txtsize
-Tsngtaeo:::txtsize --> MaqiayattiaO:::txtsize
-MaqiayattiaO:::txtsize --> Sbsrcdnacaale:::txtsize
-MaqiayattiaO:::txtsize --> Hstarcfafeisrn:::txtsize
+TsraSbicen:::txtsize --> Udrteiosghesmtp:::txtsize
+Udrteiosghesmtp:::txtsize --> UghenotnaoIswl:::txtsize
+UghenotnaoIswl:::txtsize --> Eewtosrpfr:::txtsize
+UghenotnaoIswl:::txtsize --> IhemnueIur:::txtsize
+TsraSbicen:::txtsize --> Ubdnadahignfnera:::txtsize
+Ubdnadahignfnera:::txtsize --> UolpinCscsilsr:::txtsize
+UolpinCscsilsr:::txtsize --> Cltibicels:::txtsize
+UolpinCscsilsr:::txtsize --> Raissaosigytn:::txtsize
+Ubdnadahignfnera:::txtsize --> Unhigeasmwh:::txtsize
+Unhigeasmwh:::txtsize --> TiwiCdrtr:::txtsize
+Unhigeasmwh:::txtsize --> Ppssssdleaigfln:::txtsize
 
 ```
-<i>Last updated: 2025-03-05 16:00:22.746908 (GMT+8)</i>
+<i>Last updated: 2025-03-05 20:00:42.038562 (GMT+8)</i>
 <!-- END -->
