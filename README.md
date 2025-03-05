@@ -16,93 +16,56 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-TwrspCacnhpf@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 09:08 PM_
-Trade wars erupt as trump hits canada, mexico, china with steep tariffs" }
-TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
-Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
-MoapnTghhtfa@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 11:24 PM_
-Mexico has backup plan in case trump goes through with tariff threat" }
-ModieiocTwececra@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 09:34 PM_
-Mexico, canada tariffs set to kick in on march 4, but trump will set exact levels: us commerce head" }
-Csenitresple@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 09:07 PM_
-China’s trade dominance in south america tempers trump’s influence" }
-Fgtaer@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:07 AM_
-Facing up to the realities of trump 2.0" }
-TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
-Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-Calstfort@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 12:11 PM_
-Canada retaliates, puts tariffs on $144b of us products" }
-TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
-Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
-MoapnTghhtfa@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 11:24 PM_
-Mexico has backup plan in case trump goes through with tariff threat" }
-Fgtaer@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:07 AM_
-Facing up to the realities of trump 2.0" }
-Wriavhap@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 11:40 AM_
-What trump aims to achieve with his tariff plans" }
-TppuXhsertf@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 06:31 PM_
-Trump piles pressure on xi with latest threat to raise tariffs" }
-TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
-Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
+AtaEittopae@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 10:49 AM_
+Arab states adopt egyptian alternative to trump’s ‘gaza riviera’" }
+Tpstvzceetda@{ shape: win-pane, label: "_UPDATED Feb 05, 2025, 08:50 PM_
+Trump proposes us ‘take over’ gaza and create ‘riviera of the middle east’" }
+WeaWHTpsrnpmfn@{ shape: win-pane, label: "_UPDATED Feb 05, 2025, 04:44 PM_
+With netanyahu at white house, trump proposes permanent displacement of gazans" }
+Tathfvtodsn@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 03:21 PM_
+Trump and netanyahu set for pivotal talks on middle east agenda" }
+Hfhgreeeiiraei@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 02:03 PM_
+Hamas frees hostages, israel releases palestinian prisoners on day 1 of ceasefire" }
+SAaiseuyitatPtne@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 12:15 AM_
+Saudi arabia, in swift response to trump, says no ties with israel without palestinian state" }
+Tpstvzceetda@{ shape: win-pane, label: "_UPDATED Feb 05, 2025, 08:50 PM_
+Trump proposes us ‘take over’ gaza and create ‘riviera of the middle east’" }
+SAaasateita@{ shape: win-pane, label: "_UPDATED Nov 25, 2024, 01:01 PM_
+Saudi arabia says a palestinian state is key to ties with israel" }
+Tsngtaeo@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 04:16 PM_
+Trump says ongoing gaza talks are ‘pretty good’" }
+Easiaaidnedeg@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 12:03 PM_
+‘emaciated’ israeli hostages, palestinian detainees ‘deeply distressing’: un" }
+Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
+Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
+Hstseirhgrgcfnu@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 03:30 PM_
+Hamas says it will stop releasing israeli hostages, throwing gaza ceasefire into doubt" }
+MaqiayattiaO@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 07:54 PM_
+Military inquiry in israel says it ‘failed to protect’ civilians on oct 7, 2023" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+Hstarcfafeisrn@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 10:16 PM_
+Hamas says it is ready for more ceasefire talks after releasing hostage remains" }
 
-TwrspCacnhpf:::txtsize --> TcrroadcbeC:::txtsize
-TcrroadcbeC:::txtsize --> MoapnTghhtfa:::txtsize
-MoapnTghhtfa:::txtsize --> ModieiocTwececra:::txtsize
-MoapnTghhtfa:::txtsize --> Csenitresple:::txtsize
-TcrroadcbeC:::txtsize --> Fgtaer:::txtsize
-Fgtaer:::txtsize --> TalytnretaWHsit:::txtsize
-TwrspCacnhpf:::txtsize --> Calstfort:::txtsize
-Calstfort:::txtsize --> TcrroadcbeC:::txtsize
-TcrroadcbeC:::txtsize --> MoapnTghhtfa:::txtsize
-TcrroadcbeC:::txtsize --> Fgtaer:::txtsize
-Calstfort:::txtsize --> Wriavhap:::txtsize
-Wriavhap:::txtsize --> TppuXhsertf:::txtsize
-Wriavhap:::txtsize --> TcrroadcbeC:::txtsize
+AtaEittopae:::txtsize --> Tpstvzceetda:::txtsize
+Tpstvzceetda:::txtsize --> WeaWHTpsrnpmfn:::txtsize
+WeaWHTpsrnpmfn:::txtsize --> Tathfvtodsn:::txtsize
+WeaWHTpsrnpmfn:::txtsize --> Hfhgreeeiiraei:::txtsize
+Tpstvzceetda:::txtsize --> SAaiseuyitatPtne:::txtsize
+SAaiseuyitatPtne:::txtsize --> Tpstvzceetda:::txtsize
+SAaiseuyitatPtne:::txtsize --> SAaasateita:::txtsize
+AtaEittopae:::txtsize --> Tsngtaeo:::txtsize
+Tsngtaeo:::txtsize --> Easiaaidnedeg:::txtsize
+Easiaaidnedeg:::txtsize --> Ilshedoooia:::txtsize
+Easiaaidnedeg:::txtsize --> Hstseirhgrgcfnu:::txtsize
+Tsngtaeo:::txtsize --> MaqiayattiaO:::txtsize
+MaqiayattiaO:::txtsize --> Sbsrcdnacaale:::txtsize
+MaqiayattiaO:::txtsize --> Hstarcfafeisrn:::txtsize
 
-Amircnrhloert@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 04:18 PM_
-As trump tariffs arrive, companies brace themselves for more uncertainty" }
-TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
-Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
-MoapnTghhtfa@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 11:24 PM_
-Mexico has backup plan in case trump goes through with tariff threat" }
-ModieiocTwececra@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 09:34 PM_
-Mexico, canada tariffs set to kick in on march 4, but trump will set exact levels: us commerce head" }
-Csenitresple@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 09:07 PM_
-China’s trade dominance in south america tempers trump’s influence" }
-Fgtaer@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:07 AM_
-Facing up to the realities of trump 2.0" }
-TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
-Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-Uscdpbsper@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 09:19 AM_
-Us consumer confidence posts biggest drop in over 3 years" }
-TteohdhnsC@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 05:42 PM_
-Trump team seeks to toughen biden’s chip controls over china" }
-Tnsreafcoanmt@{ shape: win-pane, label: "_UPDATED Feb 20, 2025, 12:01 AM_
-Taiwan seeks to persuade us that it offers chip cooperation – not competition" }
-Tngikhrenoyp@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 04:24 PM_
-Taiwan pledges chip talks with us, more investment to mollify trump" }
-
-Amircnrhloert:::txtsize --> TcrroadcbeC:::txtsize
-TcrroadcbeC:::txtsize --> MoapnTghhtfa:::txtsize
-MoapnTghhtfa:::txtsize --> ModieiocTwececra:::txtsize
-MoapnTghhtfa:::txtsize --> Csenitresple:::txtsize
-TcrroadcbeC:::txtsize --> Fgtaer:::txtsize
-Fgtaer:::txtsize --> TalytnretaWHsit:::txtsize
-Amircnrhloert:::txtsize --> Uscdpbsper:::txtsize
-Uscdpbsper:::txtsize --> TteohdhnsC:::txtsize
-TteohdhnsC:::txtsize --> Tnsreafcoanmt:::txtsize
-TteohdhnsC:::txtsize --> Tngikhrenoyp:::txtsize
-
-Zsluagansiani@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 06:44 AM_
-Zelensky calls trump clash ‘regrettable’ and says ukraine ready to negotiate" }
-UUnpomaara@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 07:22 AM_
-Us and ukraine prepare to sign minerals deal, sources say" }
-IeCeuetbaDudi@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 10:05 AM_
-In speech to congress, trump is expected to boast about doge cuts and ukraine" }
-YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
-‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
-TkeasgoetrsdPdr@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 07:37 PM_
-Tiktok ban delay, pardons, immigration: key executive orders signed by us president trump" }
+Uneeaiitlyay@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 12:00 AM_
+Ukraine ‘determined’ to maintain us ties after military aid halt, says pm" }
+Tpstikernl@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 07:28 PM_
+Trump pauses military aid to ukraine after zelensky clash" }
 Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
 Ukraine’s zelensky, trump clash in oval office shouting match" }
 TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
@@ -113,32 +76,81 @@ Sereolarnkeiet@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:16 PM_
 Starmer, macron pledge to develop ceasefire plan for ukraine, but will the us bite?" }
 EearUneesiu@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 10:39 AM_
 Europeans rally around ukraine after zelensky’s row with trump" }
-UndilseeTSes@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 10:40 AM_
-Uk, france and ukraine will present peace deal to trump, starmer says" }
-DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
-'darkest hours of europe' as russia invades ukraine" }
 EearUneesiu@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 10:39 AM_
 Europeans rally around ukraine after zelensky’s row with trump" }
-UndilseeTSes@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 10:40 AM_
-Uk, france and ukraine will present peace deal to trump, starmer says" }
-DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
-'darkest hours of europe' as russia invades ukraine" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
+Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
+‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+Zsymasaeeets@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:10 PM_
+Zelensky says trump relationship can be repaired after white house row" }
 
-Zsluagansiani:::txtsize --> UUnpomaara:::txtsize
-UUnpomaara:::txtsize --> IeCeuetbaDudi:::txtsize
-IeCeuetbaDudi:::txtsize --> YgitlIcsTZsaWH:::txtsize
-IeCeuetbaDudi:::txtsize --> TkeasgoetrsdPdr:::txtsize
-UUnpomaara:::txtsize --> Unlyphaiogh:::txtsize
+Uneeaiitlyay:::txtsize --> Tpstikernl:::txtsize
+Tpstikernl:::txtsize --> Unlyphaiogh:::txtsize
 Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
 Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
-Zsluagansiani:::txtsize --> Sereolarnkeiet:::txtsize
+Tpstikernl:::txtsize --> Sereolarnkeiet:::txtsize
 Sereolarnkeiet:::txtsize --> EearUneesiu:::txtsize
-EearUneesiu:::txtsize --> UndilseeTSes:::txtsize
-EearUneesiu:::txtsize --> DsruasvUn:::txtsize
 Sereolarnkeiet:::txtsize --> EearUneesiu:::txtsize
-EearUneesiu:::txtsize --> UndilseeTSes:::txtsize
-EearUneesiu:::txtsize --> DsruasvUn:::txtsize
+Uneeaiitlyay:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
+TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
+TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
+YgitlIcsTZsaWH:::txtsize --> Unlyphaiogh:::txtsize
+YgitlIcsTZsaWH:::txtsize --> Zsymasaeeets:::txtsize
+
+Upptusiaat@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 01:30 AM_
+Uk to speed up military purchases amid ukraine fallout" }
+Tpstikernl@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 07:28 PM_
+Trump pauses military aid to ukraine after zelensky clash" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
+Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
+YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
+‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
+Sereolarnkeiet@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:16 PM_
+Starmer, macron pledge to develop ceasefire plan for ukraine, but will the us bite?" }
+EearUneesiu@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 10:39 AM_
+Europeans rally around ukraine after zelensky’s row with trump" }
+EearUneesiu@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 10:39 AM_
+Europeans rally around ukraine after zelensky’s row with trump" }
+Uabsnegesti@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 02:14 AM_
+Uk’s starmer boosts defence spending on eve of washington trip" }
+Gnicztlvfser@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 11:56 AM_
+Germany’s friedrich merz questions longevity of nato’s ‘current form’" }
+GntiFreavositl@{ shape: win-pane, label: "_UPDATED Feb 24, 2025, 10:36 AM_
+German election victor friedrich merz plans pivot from us as coalition talks loom" }
+Eeftesittsciods@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 10:52 PM_
+Europe can afford to defend itself without us but needs more coordination, study says" }
+Eeftesittsciods@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 10:52 PM_
+Europe can afford to defend itself without us but needs more coordination, study says" }
+CbTsiadslaeZs@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 05:19 PM_
+China backs trump’s ukraine peace bid at g-20 as us allies rally behind zelensky" }
+
+Upptusiaat:::txtsize --> Tpstikernl:::txtsize
+Tpstikernl:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
+Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
+Tpstikernl:::txtsize --> Sereolarnkeiet:::txtsize
+Sereolarnkeiet:::txtsize --> EearUneesiu:::txtsize
+Sereolarnkeiet:::txtsize --> EearUneesiu:::txtsize
+Upptusiaat:::txtsize --> Uabsnegesti:::txtsize
+Uabsnegesti:::txtsize --> Gnicztlvfser:::txtsize
+Gnicztlvfser:::txtsize --> GntiFreavositl:::txtsize
+Gnicztlvfser:::txtsize --> Eeftesittsciods:::txtsize
+Uabsnegesti:::txtsize --> Eeftesittsciods:::txtsize
+Eeftesittsciods:::txtsize --> CbTsiadslaeZs:::txtsize
 
 ```
-<i>Last updated: 2025-03-05 08:00:40.006887 (GMT+8)</i>
+<i>Last updated: 2025-03-05 12:01:00.772618 (GMT+8)</i>
 <!-- END -->
