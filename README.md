@@ -16,6 +16,52 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Eesnneghlnlus@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 02:52 AM_
+Europe talks big on defence spending, but the real amount could be much less" }
+Wnolykocsi@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 10:42 PM_
+‘we are not alone’: zelensky thanks europe at crisis summit" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
+Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
+YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
+‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
+Unptesieaet@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 08:40 PM_
+Ukrainian opposition leaders dismiss idea of wartime election" }
+TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
+Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
+TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
+Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
+Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
+‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+Zsymasaeeets@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:10 PM_
+Zelensky says trump relationship can be repaired after white house row" }
+
+Eesnneghlnlus:::txtsize --> Wnolykocsi:::txtsize
+Wnolykocsi:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
+Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
+Wnolykocsi:::txtsize --> Unptesieaet:::txtsize
+Unptesieaet:::txtsize --> TcUnlytaicioiis:::txtsize
+Unptesieaet:::txtsize --> TalytnretaWHsit:::txtsize
+Eesnneghlnlus:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
+TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
+TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
+YgitlIcsTZsaWH:::txtsize --> Unlyphaiogh:::txtsize
+YgitlIcsTZsaWH:::txtsize --> Zsymasaeeets:::txtsize
+
 BdmamrCsifcama@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 09:37 PM_
 Beyond panama canal, trump stares at china’s growing influence in latin america" }
 BRoonmanrkdps@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 09:54 AM_
@@ -87,52 +133,6 @@ TtCerieMrhofsrca:::txtsize --> Euordtealeis:::txtsize
 Euordtealeis:::txtsize --> Ueosniakhdlmhs:::txtsize
 Euordtealeis:::txtsize --> UaorrrsienWHs:::txtsize
 
-Tsocitrvcoea@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 07:54 PM_
-Trump signs order creating bitcoin reserve; the cryptocurrency falls 5%" }
-TwoyuaWHoc@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 03:35 PM_
-Trump will host crypto summit at the white house on march 7" }
-CoebTfehfBinamh@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 08:16 PM_
-Crypto prices tumble as trump-fuelled euphoria fades; bitcoin down 27% from all-time high" }
-NKbdiyhaI@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 06:34 PM_
-North korea behind $2 billion crypto theft, says fbi" }
-CoogpleepeBil@{ shape: win-pane, label: "_PUBLISHED Jan 08, 2024, 08:04 AM_
-Crypto job postings drop nearly 60% in december despite recent bitcoin rally" }
-Bidlamiamt@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 07:37 PM_
-Bitcoin slides below us$100,000 as trump tariffs rattle markets" }
-Bnprflthoeeptik@{ shape: win-pane, label: "_PUBLISHED Feb 02, 2025, 08:14 PM_
-Beijing keeps door open for talks with washington in measured response to tariff hike" }
-UlmaSosspurtedf@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 11:34 PM_
-Us dollar jumps against singdollar, stocks slump as trump tariffs trigger trade war fears" }
-Bidlamiamt@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 07:37 PM_
-Bitcoin slides below us$100,000 as trump tariffs rattle markets" }
-Bnprflthoeeptik@{ shape: win-pane, label: "_PUBLISHED Feb 02, 2025, 08:14 PM_
-Beijing keeps door open for talks with washington in measured response to tariff hike" }
-CdnraFnAco@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 05:24 PM_
-China denounces trump tariff: ‘fentanyl is america’s problem’" }
-Tlharsiroinnn@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 10:59 PM_
-Trump launches trade war with sweeping tariffs on mexico, canada and china" }
-UlmaSosspurtedf@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 11:34 PM_
-Us dollar jumps against singdollar, stocks slump as trump tariffs trigger trade war fears" }
-Bnprflthoeeptik@{ shape: win-pane, label: "_PUBLISHED Feb 02, 2025, 08:14 PM_
-Beijing keeps door open for talks with washington in measured response to tariff hike" }
-UpsiaTtfae@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 03:10 PM_
-Us car prices face $4,000 increase as trump tariffs hit auto sector" }
-
-Tsocitrvcoea:::txtsize --> TwoyuaWHoc:::txtsize
-TwoyuaWHoc:::txtsize --> CoebTfehfBinamh:::txtsize
-CoebTfehfBinamh:::txtsize --> NKbdiyhaI:::txtsize
-CoebTfehfBinamh:::txtsize --> CoogpleepeBil:::txtsize
-TwoyuaWHoc:::txtsize --> Bidlamiamt:::txtsize
-Bidlamiamt:::txtsize --> Bnprflthoeeptik:::txtsize
-Bidlamiamt:::txtsize --> UlmaSosspurtedf:::txtsize
-Tsocitrvcoea:::txtsize --> Bidlamiamt:::txtsize
-Bidlamiamt:::txtsize --> Bnprflthoeeptik:::txtsize
-Bnprflthoeeptik:::txtsize --> CdnraFnAco:::txtsize
-Bnprflthoeeptik:::txtsize --> Tlharsiroinnn:::txtsize
-Bidlamiamt:::txtsize --> UlmaSosspurtedf:::txtsize
-UlmaSosspurtedf:::txtsize --> Bnprflthoeeptik:::txtsize
-UlmaSosspurtedf:::txtsize --> UpsiaTtfae:::txtsize
-
 ```
-<i>Last updated: 2025-03-08 02:48:58.748465 (GMT+8)</i>
+<i>Last updated: 2025-03-08 03:06:19.692180 (GMT+8)</i>
 <!-- END -->
