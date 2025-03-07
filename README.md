@@ -16,7 +16,7 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-BdmamrCsifcama@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 11:23 AM_
+BdmamrCsifcama@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 02:08 PM_
 Beyond panama canal, trump stares at china’s growing influence in latin america" }
 BRoonmanrkdps@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 09:54 AM_
 Blackrock to buy hong kong firm’s panama canal port stake amid trump pressure" }
@@ -41,7 +41,7 @@ BRoonmanrkdps:::txtsize --> GsodosmvxiedIa:::txtsize
 GsodosmvxiedIa:::txtsize --> RtPadalenfSo:::txtsize
 GsodosmvxiedIa:::txtsize --> Tsehipaaenne:::txtsize
 
-Tdsfrsrcaaa@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 07:05 AM_
+Tdsfrsrcaaa@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 07:07 AM_
 Trump delays tariffs for goods under mexico, canada trade deal" }
 TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
 Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
@@ -131,5 +131,5 @@ UnlyyutmalT:::txtsize --> TalytnretaWHsit:::txtsize
 UnlyyutmalT:::txtsize --> Zsluagansiani:::txtsize
 
 ```
-<i>Last updated: 2025-03-07 12:00:37.847697 (GMT+8)</i>
+<i>Last updated: 2025-03-07 16:00:56.756124 (GMT+8)</i>
 <!-- END -->
