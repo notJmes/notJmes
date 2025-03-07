@@ -16,7 +16,7 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-BdmamrCsifcama@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 06:21 PM_
+BdmamrCsifcama@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 09:37 PM_
 Beyond panama canal, trump stares at china’s growing influence in latin america" }
 BRoonmanrkdps@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 09:54 AM_
 Blackrock to buy hong kong firm’s panama canal port stake amid trump pressure" }
@@ -41,53 +41,98 @@ BRoonmanrkdps:::txtsize --> GsodosmvxiedIa:::txtsize
 GsodosmvxiedIa:::txtsize --> RtPadalenfSo:::txtsize
 GsodosmvxiedIa:::txtsize --> Tsehipaaenne:::txtsize
 
-HuTttetdsass@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 06:19 PM_
-Hamas urges trump to meet and ‘respect’ freed palestinian prisoners" }
-UtysraGruxoc@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:11 PM_
-Uncertainty looms as first phase of gaza truce due to expire on march 1" }
-Uscfotmpanon@{ shape: win-pane, label: "_UPDATED Jan 17, 2025, 11:12 AM_
-Us says gaza ceasefire to start on time despite last minute ‘loose end’" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
+Rekevlmnov@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 12:06 PM_
+Rattled markets, negative polls: trump’s honeymoon is over" }
+Acauypmdrno@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:51 PM_
+‘america is back,’ trump says in speech marred by partisan rancour" }
+DrrtpeCetrotsns@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 01:30 PM_
+Democrats protest trump’s speech to congress with disruption, exits and solemn signs" }
+Acauypmdrno@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:51 PM_
+‘america is back,’ trump says in speech marred by partisan rancour" }
+Uctvysireeabuptg@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:27 PM_
+‘unprecedented giveaway to his billionaire friends’: democrats rebut trump’s speech to congress" }
+Drlkmfrptg@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 02:16 PM_
+Democratic lawmaker removed from trump speech to congress" }
+Acauypmdrno@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:51 PM_
+‘america is back,’ trump says in speech marred by partisan rancour" }
+Acauypmdrno@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:51 PM_
+‘america is back,’ trump says in speech marred by partisan rancour" }
+TtCerieMrhofsrca@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 05:46 PM_
+Trump tells cabinet secretaries they, not musk, are in charge of staff cuts after doge complaints" }
+Deerolnnsveel@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 04:19 PM_
+Doge website offers error-filled window into musk’s government overhaul" }
+UtanueunWnfse@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:50 PM_
+Us lists department of justice, fbi buildings in washington for possible sale" }
+Uleapeafrte@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 03:14 PM_
+Us health agency says employees can apply for early retirement" }
+Euordtealeis@{ shape: win-pane, label: "_UPDATED Mar 02, 2025, 12:46 PM_
+Elon musk’s doge fires federal tech team that built free tax-filing site" }
+Ueosniakhdlmhs@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 03:08 PM_
+Us federal workers again receive e-mail asking them to detail accomplishments" }
+UaorrrsienWHs@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 08:35 PM_
+Ultimatum to federal workers raises tensions between musk, white house staff" }
 
-HuTttetdsass:::txtsize --> UtysraGruxoc:::txtsize
-UtysraGruxoc:::txtsize --> Uscfotmpanon:::txtsize
-Uscfotmpanon:::txtsize --> NyeeawHakl:::txtsize
-UtysraGruxoc:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Rekevlmnov:::txtsize --> Acauypmdrno:::txtsize
+Acauypmdrno:::txtsize --> DrrtpeCetrotsns:::txtsize
+DrrtpeCetrotsns:::txtsize --> Acauypmdrno:::txtsize
+DrrtpeCetrotsns:::txtsize --> Uctvysireeabuptg:::txtsize
+Acauypmdrno:::txtsize --> Drlkmfrptg:::txtsize
+Drlkmfrptg:::txtsize --> Acauypmdrno:::txtsize
+Drlkmfrptg:::txtsize --> Acauypmdrno:::txtsize
+Rekevlmnov:::txtsize --> TtCerieMrhofsrca:::txtsize
+TtCerieMrhofsrca:::txtsize --> Deerolnnsveel:::txtsize
+Deerolnnsveel:::txtsize --> UtanueunWnfse:::txtsize
+Deerolnnsveel:::txtsize --> Uleapeafrte:::txtsize
+TtCerieMrhofsrca:::txtsize --> Euordtealeis:::txtsize
+Euordtealeis:::txtsize --> Ueosniakhdlmhs:::txtsize
+Euordtealeis:::txtsize --> UaorrrsienWHs:::txtsize
 
-Poafoiraxna@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 04:26 PM_
-‘psychodrama’ tariff negotiations frustrate mexico and canada" }
-TasrarBnlas@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 06:14 AM_
-Trudeau says us tariff war to drag on, bessent calls him a ‘numbskull’" }
-Tdsfrsrcaaa@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 06:20 AM_
-Trump delays tariffs for goods under mexico, canada trade deal" }
-TetemsCaciom@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 05:08 PM_
-Trump exempts some automakers from canada, mexico tariffs for one month" }
-TwrspCacnhpf@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 04:35 PM_
-Trade wars erupt as trump hits canada, mexico, china with steep tariffs" }
-CaibsomepiorseTb@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 09:30 PM_
-Canada’s ruling liberals move on from trudeau, capitalising on patriotism wave with trump boost" }
-TwrspCacnhpf@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 04:35 PM_
-Trade wars erupt as trump hits canada, mexico, china with steep tariffs" }
-Taspoogdrho@{ shape: win-pane, label: "_UPDATED Feb 08, 2025, 10:06 PM_
-Trudeau says trump talk of absorbing canada is ‘a real thing’: source" }
+Tsocitrvcoea@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 07:54 PM_
+Trump signs order creating bitcoin reserve; the cryptocurrency falls 5%" }
+TwoyuaWHoc@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 03:35 PM_
+Trump will host crypto summit at the white house on march 7" }
+CoebTfehfBinamh@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 08:16 PM_
+Crypto prices tumble as trump-fuelled euphoria fades; bitcoin down 27% from all-time high" }
+NKbdiyhaI@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 06:34 PM_
+North korea behind $2 billion crypto theft, says fbi" }
+CoogpleepeBil@{ shape: win-pane, label: "_PUBLISHED Jan 08, 2024, 08:04 AM_
+Crypto job postings drop nearly 60% in december despite recent bitcoin rally" }
+Bidlamiamt@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 07:37 PM_
+Bitcoin slides below us$100,000 as trump tariffs rattle markets" }
+Bnprflthoeeptik@{ shape: win-pane, label: "_PUBLISHED Feb 02, 2025, 08:14 PM_
+Beijing keeps door open for talks with washington in measured response to tariff hike" }
+UlmaSosspurtedf@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 11:34 PM_
+Us dollar jumps against singdollar, stocks slump as trump tariffs trigger trade war fears" }
+Bidlamiamt@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 07:37 PM_
+Bitcoin slides below us$100,000 as trump tariffs rattle markets" }
+Bnprflthoeeptik@{ shape: win-pane, label: "_PUBLISHED Feb 02, 2025, 08:14 PM_
+Beijing keeps door open for talks with washington in measured response to tariff hike" }
+CdnraFnAco@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 05:24 PM_
+China denounces trump tariff: ‘fentanyl is america’s problem’" }
+Tlharsiroinnn@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 10:59 PM_
+Trump launches trade war with sweeping tariffs on mexico, canada and china" }
+UlmaSosspurtedf@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 11:34 PM_
+Us dollar jumps against singdollar, stocks slump as trump tariffs trigger trade war fears" }
+Bnprflthoeeptik@{ shape: win-pane, label: "_PUBLISHED Feb 02, 2025, 08:14 PM_
+Beijing keeps door open for talks with washington in measured response to tariff hike" }
+UpsiaTtfae@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 03:10 PM_
+Us car prices face $4,000 increase as trump tariffs hit auto sector" }
 
-Poafoiraxna:::txtsize --> TasrarBnlas:::txtsize
-TasrarBnlas:::txtsize --> Tdsfrsrcaaa:::txtsize
-Tdsfrsrcaaa:::txtsize --> TetemsCaciom:::txtsize
-Tdsfrsrcaaa:::txtsize --> TwrspCacnhpf:::txtsize
-TasrarBnlas:::txtsize --> CaibsomepiorseTb:::txtsize
-CaibsomepiorseTb:::txtsize --> TwrspCacnhpf:::txtsize
-CaibsomepiorseTb:::txtsize --> Taspoogdrho:::txtsize
+Tsocitrvcoea:::txtsize --> TwoyuaWHoc:::txtsize
+TwoyuaWHoc:::txtsize --> CoebTfehfBinamh:::txtsize
+CoebTfehfBinamh:::txtsize --> NKbdiyhaI:::txtsize
+CoebTfehfBinamh:::txtsize --> CoogpleepeBil:::txtsize
+TwoyuaWHoc:::txtsize --> Bidlamiamt:::txtsize
+Bidlamiamt:::txtsize --> Bnprflthoeeptik:::txtsize
+Bidlamiamt:::txtsize --> UlmaSosspurtedf:::txtsize
+Tsocitrvcoea:::txtsize --> Bidlamiamt:::txtsize
+Bidlamiamt:::txtsize --> Bnprflthoeeptik:::txtsize
+Bnprflthoeeptik:::txtsize --> CdnraFnAco:::txtsize
+Bnprflthoeeptik:::txtsize --> Tlharsiroinnn:::txtsize
+Bidlamiamt:::txtsize --> UlmaSosspurtedf:::txtsize
+UlmaSosspurtedf:::txtsize --> Bnprflthoeeptik:::txtsize
+UlmaSosspurtedf:::txtsize --> UpsiaTtfae:::txtsize
 
 ```
-<i>Last updated: 2025-03-07 20:06:58.963664 (GMT+8)</i>
+<i>Last updated: 2025-03-08 00:00:22.616045 (GMT+8)</i>
 <!-- END -->
