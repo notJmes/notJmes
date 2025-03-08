@@ -16,6 +16,52 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Tttesnneini@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 06:49 AM_
+Trump threatens new russia sanctions after strikes on ukraine" }
+TsatkRaUnea@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 02:15 PM_
+Trump says ‘easier’ to work with russia than ukraine on peace talks" }
+Tpstikernl@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 07:28 PM_
+Trump pauses military aid to ukraine after zelensky clash" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+Sereolarnkeiet@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:16 PM_
+Starmer, macron pledge to develop ceasefire plan for ukraine, but will the us bite?" }
+Tttesnneini@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 06:49 AM_
+Trump threatens new russia sanctions after strikes on ukraine" }
+TsatkRaUnea@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 02:15 PM_
+Trump says ‘easier’ to work with russia than ukraine on peace talks" }
+RacakeitfSoly@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 08:36 PM_
+Russia launches major ukraine missile attack after us cuts off military aid" }
+RacakeitfSoly@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 08:36 PM_
+Russia launches major ukraine missile attack after us cuts off military aid" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
+Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
+YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
+‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
+TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
+Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
+Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
+Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
+Zsymnnaberumr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:14 PM_
+Zelensky says trump is in ‘disinformation’ bubble on ukraine, urges ‘more truth’" }
+
+Tttesnneini:::txtsize --> TsatkRaUnea:::txtsize
+TsatkRaUnea:::txtsize --> Tpstikernl:::txtsize
+Tpstikernl:::txtsize --> Unlyphaiogh:::txtsize
+Tpstikernl:::txtsize --> Sereolarnkeiet:::txtsize
+TsatkRaUnea:::txtsize --> Tttesnneini:::txtsize
+Tttesnneini:::txtsize --> TsatkRaUnea:::txtsize
+Tttesnneini:::txtsize --> RacakeitfSoly:::txtsize
+Tttesnneini:::txtsize --> RacakeitfSoly:::txtsize
+RacakeitfSoly:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
+Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
+RacakeitfSoly:::txtsize --> TcUnlytaicioiis:::txtsize
+TcUnlytaicioiis:::txtsize --> Umehtiusrnanii:::txtsize
+TcUnlytaicioiis:::txtsize --> Zsymnnaberumr:::txtsize
+
 Eesnneghlnlus@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 02:52 AM_
 Europe talks big on defence spending, but the real amount could be much less" }
 Wnolykocsi@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 10:42 PM_
@@ -62,52 +108,6 @@ Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
 YgitlIcsTZsaWH:::txtsize --> Unlyphaiogh:::txtsize
 YgitlIcsTZsaWH:::txtsize --> Zsymasaeeets:::txtsize
 
-Tttesnneini@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 06:49 AM_
-Trump threatens new russia sanctions after strikes on ukraine" }
-TsatkRaUnea@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 02:07 AM_
-Trump says ‘easier’ to work with russia than ukraine on peace talks" }
-Tpstikernl@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 07:28 PM_
-Trump pauses military aid to ukraine after zelensky clash" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-Sereolarnkeiet@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:16 PM_
-Starmer, macron pledge to develop ceasefire plan for ukraine, but will the us bite?" }
-Tttesnneini@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 06:49 AM_
-Trump threatens new russia sanctions after strikes on ukraine" }
-TsatkRaUnea@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 02:07 AM_
-Trump says ‘easier’ to work with russia than ukraine on peace talks" }
-RacakeitfSoly@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 08:36 PM_
-Russia launches major ukraine missile attack after us cuts off military aid" }
-RacakeitfSoly@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 08:36 PM_
-Russia launches major ukraine missile attack after us cuts off military aid" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
-Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
-‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
-TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
-Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
-Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
-Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
-Zsymnnaberumr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:14 PM_
-Zelensky says trump is in ‘disinformation’ bubble on ukraine, urges ‘more truth’" }
-
-Tttesnneini:::txtsize --> TsatkRaUnea:::txtsize
-TsatkRaUnea:::txtsize --> Tpstikernl:::txtsize
-Tpstikernl:::txtsize --> Unlyphaiogh:::txtsize
-Tpstikernl:::txtsize --> Sereolarnkeiet:::txtsize
-TsatkRaUnea:::txtsize --> Tttesnneini:::txtsize
-Tttesnneini:::txtsize --> TsatkRaUnea:::txtsize
-Tttesnneini:::txtsize --> RacakeitfSoly:::txtsize
-Tttesnneini:::txtsize --> RacakeitfSoly:::txtsize
-RacakeitfSoly:::txtsize --> Unlyphaiogh:::txtsize
-Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
-Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
-RacakeitfSoly:::txtsize --> TcUnlytaicioiis:::txtsize
-TcUnlytaicioiis:::txtsize --> Umehtiusrnanii:::txtsize
-TcUnlytaicioiis:::txtsize --> Zsymnnaberumr:::txtsize
-
 BdmamrCsifcama@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 09:37 PM_
 Beyond panama canal, trump stares at china’s growing influence in latin america" }
 BRoonmanrkdps@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 09:54 AM_
@@ -134,5 +134,5 @@ GsodosmvxiedIa:::txtsize --> RtPadalenfSo:::txtsize
 GsodosmvxiedIa:::txtsize --> Tsehipaaenne:::txtsize
 
 ```
-<i>Last updated: 2025-03-08 12:00:41.221939 (GMT+8)</i>
+<i>Last updated: 2025-03-08 16:00:58.846356 (GMT+8)</i>
 <!-- END -->
