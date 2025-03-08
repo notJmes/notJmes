@@ -16,22 +16,8 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tttesnneini@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 06:49 AM_
-Trump threatens new russia sanctions after strikes on ukraine" }
-TsatkRaUnea@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 02:15 PM_
-Trump says ‘easier’ to work with russia than ukraine on peace talks" }
-Tpstikernl@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 07:28 PM_
-Trump pauses military aid to ukraine after zelensky clash" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-Sereolarnkeiet@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:16 PM_
-Starmer, macron pledge to develop ceasefire plan for ukraine, but will the us bite?" }
-Tttesnneini@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 06:49 AM_
-Trump threatens new russia sanctions after strikes on ukraine" }
-TsatkRaUnea@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 02:15 PM_
-Trump says ‘easier’ to work with russia than ukraine on peace talks" }
-RacakeitfSoly@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 08:36 PM_
-Russia launches major ukraine missile attack after us cuts off military aid" }
+Asluisiekkes@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 07:15 PM_
+At least 14 killed, 37 wounded in russian missile strike on ukraine, kyiv says" }
 RacakeitfSoly@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 08:36 PM_
 Russia launches major ukraine missile attack after us cuts off military aid" }
 Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
@@ -46,21 +32,35 @@ Umehtiusrnanii@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 11:33 PM_
 Us seems more than happy to satisfy russia’s aspirations at talks in saudi arabia" }
 Zsymnnaberumr@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 10:14 PM_
 Zelensky says trump is in ‘disinformation’ bubble on ukraine, urges ‘more truth’" }
+UslnridrrRae@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 03:45 PM_
+Us cuts intelligence for ukraine, adding pressure for russia peace deal" }
+Tpstikernl@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 07:28 PM_
+Trump pauses military aid to ukraine after zelensky clash" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+Sereolarnkeiet@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:16 PM_
+Starmer, macron pledge to develop ceasefire plan for ukraine, but will the us bite?" }
+UnlyyutmalT@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:58 PM_
+Ukraine’s zelensky ready for russia talks, mineral deal, says trump" }
+TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
+Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
+Zsluagansiani@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 02:40 PM_
+Zelensky calls trump clash ‘regrettable’ and says ukraine ready to negotiate" }
 
-Tttesnneini:::txtsize --> TsatkRaUnea:::txtsize
-TsatkRaUnea:::txtsize --> Tpstikernl:::txtsize
-Tpstikernl:::txtsize --> Unlyphaiogh:::txtsize
-Tpstikernl:::txtsize --> Sereolarnkeiet:::txtsize
-TsatkRaUnea:::txtsize --> Tttesnneini:::txtsize
-Tttesnneini:::txtsize --> TsatkRaUnea:::txtsize
-Tttesnneini:::txtsize --> RacakeitfSoly:::txtsize
-Tttesnneini:::txtsize --> RacakeitfSoly:::txtsize
+Asluisiekkes:::txtsize --> RacakeitfSoly:::txtsize
 RacakeitfSoly:::txtsize --> Unlyphaiogh:::txtsize
 Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
 Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
 RacakeitfSoly:::txtsize --> TcUnlytaicioiis:::txtsize
 TcUnlytaicioiis:::txtsize --> Umehtiusrnanii:::txtsize
 TcUnlytaicioiis:::txtsize --> Zsymnnaberumr:::txtsize
+Asluisiekkes:::txtsize --> UslnridrrRae:::txtsize
+UslnridrrRae:::txtsize --> Tpstikernl:::txtsize
+Tpstikernl:::txtsize --> Unlyphaiogh:::txtsize
+Tpstikernl:::txtsize --> Sereolarnkeiet:::txtsize
+UslnridrrRae:::txtsize --> UnlyyutmalT:::txtsize
+UnlyyutmalT:::txtsize --> TalytnretaWHsit:::txtsize
+UnlyyutmalT:::txtsize --> Zsluagansiani:::txtsize
 
 Eesnneghlnlus@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 02:52 AM_
 Europe talks big on defence spending, but the real amount could be much less" }
@@ -108,31 +108,52 @@ Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
 YgitlIcsTZsaWH:::txtsize --> Unlyphaiogh:::txtsize
 YgitlIcsTZsaWH:::txtsize --> Zsymasaeeets:::txtsize
 
-BdmamrCsifcama@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 09:37 PM_
-Beyond panama canal, trump stares at china’s growing influence in latin america" }
-BRoonmanrkdps@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 09:54 AM_
-Blackrock to buy hong kong firm’s panama canal port stake amid trump pressure" }
-Tnluiemtsenoanen@{ shape: win-pane, label: "_UPDATED Jan 08, 2025, 01:29 PM_
-Trump not ruling out military, economic action as he seeks control of panama canal, greenland" }
-TjCamtard@{ shape: win-pane, label: "_UPDATED Dec 19, 2024, 05:00 PM_
-Trump jokes canada becoming 51st us state ‘a great idea’" }
-CuynWobe@{ shape: win-pane, label: "_UPDATED Dec 24, 2024, 09:32 AM_
-Can trump buy greenland? what to know besides ‘no’" }
-GsodosmvxiedIa@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 10:42 AM_
-‘great step forward’: rubio hails panama’s move to exit china’s belt and road initiative" }
-RtPadalenfSo@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 07:27 PM_
-Rubio tells panama to end china’s influence on canal or face us action" }
-Tsehipaaenne@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 12:45 AM_
-Trump’s trade war: there will be pain. can he make americans grin and bear it?" }
+IexiewRceh@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 07:32 PM_
+Inside the explosive meeting where rubio clashed with musk" }
+TtCerieMrhofsrca@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 05:46 PM_
+Trump tells cabinet secretaries they, not musk, are in charge of staff cuts after doge complaints" }
+Deerolnnsveel@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 04:19 PM_
+Doge website offers error-filled window into musk’s government overhaul" }
+UtanueunWnfse@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:50 PM_
+Us lists department of justice, fbi buildings in washington for possible sale" }
+Uleapeafrte@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 03:14 PM_
+Us health agency says employees can apply for early retirement" }
+Euordtealeis@{ shape: win-pane, label: "_UPDATED Mar 02, 2025, 12:46 PM_
+Elon musk’s doge fires federal tech team that built free tax-filing site" }
+Ueosniakhdlmhs@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 03:08 PM_
+Us federal workers again receive e-mail asking them to detail accomplishments" }
+UaorrrsienWHs@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 08:35 PM_
+Ultimatum to federal workers raises tensions between musk, white house staff" }
+HeUlslrbpsmiU@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 03:05 PM_
+Hundreds of us diplomats join letter to rubio to protest dismantling of usaid" }
+Uuoenidrpri@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 03:27 PM_
+Us issues broad freeze on foreign aid after trump orders review" }
+DrnedsAcr@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 03:12 PM_
+Denmark, us and greenland to discuss arctic security" }
+Uiaapiteodoood@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 02:19 AM_
+Us military aircraft deport migrants, as pentagon readies more troops for border" }
+Urootphatrao@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 11:08 AM_
+Us supreme court won’t let trump withhold payment to foreign aid groups" }
+Uuoenidrpri@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 03:27 PM_
+Us issues broad freeze on foreign aid after trump orders review" }
+ScliUcecaoi@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 09:43 PM_
+Services collapsing as usaid cuts health contracts worldwide" }
 
-BdmamrCsifcama:::txtsize --> BRoonmanrkdps:::txtsize
-BRoonmanrkdps:::txtsize --> Tnluiemtsenoanen:::txtsize
-Tnluiemtsenoanen:::txtsize --> TjCamtard:::txtsize
-Tnluiemtsenoanen:::txtsize --> CuynWobe:::txtsize
-BRoonmanrkdps:::txtsize --> GsodosmvxiedIa:::txtsize
-GsodosmvxiedIa:::txtsize --> RtPadalenfSo:::txtsize
-GsodosmvxiedIa:::txtsize --> Tsehipaaenne:::txtsize
+IexiewRceh:::txtsize --> TtCerieMrhofsrca:::txtsize
+TtCerieMrhofsrca:::txtsize --> Deerolnnsveel:::txtsize
+Deerolnnsveel:::txtsize --> UtanueunWnfse:::txtsize
+Deerolnnsveel:::txtsize --> Uleapeafrte:::txtsize
+TtCerieMrhofsrca:::txtsize --> Euordtealeis:::txtsize
+Euordtealeis:::txtsize --> Ueosniakhdlmhs:::txtsize
+Euordtealeis:::txtsize --> UaorrrsienWHs:::txtsize
+IexiewRceh:::txtsize --> HeUlslrbpsmiU:::txtsize
+HeUlslrbpsmiU:::txtsize --> Uuoenidrpri:::txtsize
+Uuoenidrpri:::txtsize --> DrnedsAcr:::txtsize
+Uuoenidrpri:::txtsize --> Uiaapiteodoood:::txtsize
+HeUlslrbpsmiU:::txtsize --> Urootphatrao:::txtsize
+Urootphatrao:::txtsize --> Uuoenidrpri:::txtsize
+Urootphatrao:::txtsize --> ScliUcecaoi:::txtsize
 
 ```
-<i>Last updated: 2025-03-08 16:00:58.846356 (GMT+8)</i>
+<i>Last updated: 2025-03-08 20:00:23.125160 (GMT+8)</i>
 <!-- END -->
