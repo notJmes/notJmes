@@ -16,7 +16,7 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Asluisiekkes@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 07:15 PM_
+Asluisiekkes@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 10:19 PM_
 At least 14 killed, 37 wounded in russian missile strike on ukraine, kyiv says" }
 RacakeitfSoly@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 08:36 PM_
 Russia launches major ukraine missile attack after us cuts off military aid" }
@@ -108,7 +108,7 @@ Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
 YgitlIcsTZsaWH:::txtsize --> Unlyphaiogh:::txtsize
 YgitlIcsTZsaWH:::txtsize --> Zsymasaeeets:::txtsize
 
-IexiewRceh@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 07:32 PM_
+IexiewRceh@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 09:02 PM_
 Inside the explosive meeting where rubio clashed with musk" }
 TtCerieMrhofsrca@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 05:46 PM_
 Trump tells cabinet secretaries they, not musk, are in charge of staff cuts after doge complaints" }
@@ -155,5 +155,5 @@ Urootphatrao:::txtsize --> Uuoenidrpri:::txtsize
 Urootphatrao:::txtsize --> ScliUcecaoi:::txtsize
 
 ```
-<i>Last updated: 2025-03-08 20:00:23.125160 (GMT+8)</i>
+<i>Last updated: 2025-03-08 23:00:01.909144 (GMT+8)</i>
 <!-- END -->
