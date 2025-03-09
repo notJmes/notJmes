@@ -128,6 +128,16 @@ Hmdulnrecsud@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:01 AM_
 How hamas’ audacious, well-planned surprise attack on israel unfolded" }
 NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
 Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
+World in shock after hamas surprise attacks on israel" }
 
 HsaifeeeenaG:::txtsize --> Ilsadsearkeospe:::txtsize
 Ilsadsearkeospe:::txtsize --> MmodAlatmzep:::txtsize
@@ -138,7 +148,12 @@ IlssaHioafti:::txtsize --> NyeeawHakl:::txtsize
 IlssaHioafti:::txtsize --> IlsiedfrOmt:::txtsize
 HsaifeeeenaG:::txtsize --> Hmdulnrecsud:::txtsize
 Hmdulnrecsud:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Hmdulnrecsud:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
 
 ```
-<i>Last updated: 2025-03-10 00:57:29.362765 (GMT+8)</i>
+<i>Last updated: 2025-03-10 01:22:32.721667 (GMT+8)</i>
 <!-- END -->
