@@ -16,7 +16,7 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Hfgcrthgdsbs@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 02:20 PM_
+Hfgcrthgdsbs@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 06:37 PM_
 How us foreign aid cuts are setting the stage for disease outbreaks" }
 Toselrann@{ shape: win-pane, label: "_UPDATED Jan 29, 2025, 12:11 AM_
 Trump orders pause to all federal grants and loans" }
@@ -62,98 +62,98 @@ UcueoeseHs:::txtsize --> Urootphatrao:::txtsize
 Urootphatrao:::txtsize --> Uuoenidrpri:::txtsize
 Urootphatrao:::txtsize --> ScliUcecaoi:::txtsize
 
-Zsyasyitstiuh@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 12:11 AM_
-Zelensky says ukraine is ‘fully committed’ to constructive dialogue with us" }
-Tpstikernl@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 07:28 PM_
-Trump pauses military aid to ukraine after zelensky clash" }
+Hpshwaul@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 06:31 PM_
+Hamas pushes for phase two of gaza truce talks" }
+Wrmlthaed@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:48 PM_
+What are the main elements of the gaza ceasefire deal?" }
+Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
+Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
+Pezdsyeasarl@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:48 PM_
+People in gaza shed tears of joy, disbelief at news of ceasefire deal" }
+Ilamslorpdiaac@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:46 PM_
+Israel hostage families on roller coaster of hope and despair as gaza deal reached" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WGeeoedhgyc@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 12:16 PM_
+War in gaza led to deaths of more than 3 dozen hostages, say officials" }
+Fyihieshgsseod@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 02:38 PM_
+Family confirms shiri bibas’ death as gaza hostage-prisoner swop set to go ahead" }
+Ileayalornohgra@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 04:20 PM_
+Israeli pm netanyahu says hamas will pay for not returning body of hostage shiri bibas" }
+Hseoasscauao@{ shape: win-pane, label: "_UPDATED Feb 20, 2025, 01:50 AM_
+Hamas says ready to free all hostages at once in gaza truce phase two" }
+Ilsadsearkeospe@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 05:51 AM_
+Israel, hamas signal readiness for next ceasefire talks as mediators push for progress" }
+MmodAlatmzep@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 08:15 PM_
+Muslim nations endorse arab alternative to trump’s gaza takeover plan" }
+IlssaHioafti@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 11:01 PM_
+Israel army spokesman daniel hagari, face of gaza war effort, to retire" }
+
+Hpshwaul:::txtsize --> Wrmlthaed:::txtsize
+Wrmlthaed:::txtsize --> Ilshedoooia:::txtsize
+Ilshedoooia:::txtsize --> Pezdsyeasarl:::txtsize
+Ilshedoooia:::txtsize --> Ilamslorpdiaac:::txtsize
+Wrmlthaed:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Hpshwaul:::txtsize --> WGeeoedhgyc:::txtsize
+WGeeoedhgyc:::txtsize --> Fyihieshgsseod:::txtsize
+Fyihieshgsseod:::txtsize --> Ileayalornohgra:::txtsize
+Fyihieshgsseod:::txtsize --> Hseoasscauao:::txtsize
+WGeeoedhgyc:::txtsize --> Ilsadsearkeospe:::txtsize
+Ilsadsearkeospe:::txtsize --> MmodAlatmzep:::txtsize
+Ilsadsearkeospe:::txtsize --> IlssaHioafti:::txtsize
+
+OeiWshntgrpr@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 12:03 PM_
+On international women’s day, thousands in the us gather to oppose trump" }
+YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
+‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
 Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
 Ukraine’s zelensky, trump clash in oval office shouting match" }
 TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
 Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
 YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
 ‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
-Sereolarnkeiet@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:16 PM_
-Starmer, macron pledge to develop ceasefire plan for ukraine, but will the us bite?" }
-EearUneesiu@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 10:39 AM_
-Europeans rally around ukraine after zelensky’s row with trump" }
-EearUneesiu@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 10:39 AM_
-Europeans rally around ukraine after zelensky’s row with trump" }
-Uafameeartcelek@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 06:43 PM_
-Us, ukraine officials to meet next week in saudi arabia to discuss peace plans: zelensky" }
+Zsymasaeeets@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:10 PM_
+Zelensky says trump relationship can be repaired after white house row" }
+TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
+Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
+Eeasutekems@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 08:25 PM_
+European leaders show support for zelensky after trump clash" }
+YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
+‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
 Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
 Ukraine’s zelensky, trump clash in oval office shouting match" }
 TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
 Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
 YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
 ‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
-UslnridrrRae@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 03:45 PM_
-Us cuts intelligence for ukraine, adding pressure for russia peace deal" }
-Tpstikernl@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 07:28 PM_
-Trump pauses military aid to ukraine after zelensky clash" }
-UnlyyutmalT@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:58 PM_
-Ukraine’s zelensky ready for russia talks, mineral deal, says trump" }
+Zsymasaeeets@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:10 PM_
+Zelensky says trump relationship can be repaired after white house row" }
+TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
+Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
+Eeasutekems@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 08:25 PM_
+European leaders show support for zelensky after trump clash" }
 
-Zsyasyitstiuh:::txtsize --> Tpstikernl:::txtsize
-Tpstikernl:::txtsize --> Unlyphaiogh:::txtsize
+OeiWshntgrpr:::txtsize --> YgitlIcsTZsaWH:::txtsize
+YgitlIcsTZsaWH:::txtsize --> Unlyphaiogh:::txtsize
 Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
 Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
-Tpstikernl:::txtsize --> Sereolarnkeiet:::txtsize
-Sereolarnkeiet:::txtsize --> EearUneesiu:::txtsize
-Sereolarnkeiet:::txtsize --> EearUneesiu:::txtsize
-Zsyasyitstiuh:::txtsize --> Uafameeartcelek:::txtsize
-Uafameeartcelek:::txtsize --> Unlyphaiogh:::txtsize
+YgitlIcsTZsaWH:::txtsize --> Zsymasaeeets:::txtsize
+Zsymasaeeets:::txtsize --> TalytnretaWHsit:::txtsize
+Zsymasaeeets:::txtsize --> Eeasutekems:::txtsize
+OeiWshntgrpr:::txtsize --> YgitlIcsTZsaWH:::txtsize
+YgitlIcsTZsaWH:::txtsize --> Unlyphaiogh:::txtsize
 Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
 Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
-Uafameeartcelek:::txtsize --> UslnridrrRae:::txtsize
-UslnridrrRae:::txtsize --> Tpstikernl:::txtsize
-UslnridrrRae:::txtsize --> UnlyyutmalT:::txtsize
-
-AlctmaRasditi@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 03:56 AM_
-‘apocalyptic’ cluster bomb attack by russia stuns residents in east ukraine" }
-Asluisiekkes@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 10:19 PM_
-At least 14 killed, 37 wounded in russian missile strike on ukraine, kyiv says" }
-RacakeitfSoly@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 08:36 PM_
-Russia launches major ukraine missile attack after us cuts off military aid" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
-Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
-UslnridrrRae@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 03:45 PM_
-Us cuts intelligence for ukraine, adding pressure for russia peace deal" }
-Tpstikernl@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 07:28 PM_
-Trump pauses military aid to ukraine after zelensky clash" }
-UnlyyutmalT@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:58 PM_
-Ukraine’s zelensky ready for russia talks, mineral deal, says trump" }
-Asluisiekkes@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 10:19 PM_
-At least 14 killed, 37 wounded in russian missile strike on ukraine, kyiv says" }
-RacakeitfSoly@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 08:36 PM_
-Russia launches major ukraine missile attack after us cuts off military aid" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-TcUnlytaicioiis@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:19 AM_
-Trump calls ukraine’s zelensky a ‘dictator’ as he hits back at ‘disinformation’ criticism" }
-UslnridrrRae@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 03:45 PM_
-Us cuts intelligence for ukraine, adding pressure for russia peace deal" }
-Tpstikernl@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 07:28 PM_
-Trump pauses military aid to ukraine after zelensky clash" }
-UnlyyutmalT@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:58 PM_
-Ukraine’s zelensky ready for russia talks, mineral deal, says trump" }
-
-AlctmaRasditi:::txtsize --> Asluisiekkes:::txtsize
-Asluisiekkes:::txtsize --> RacakeitfSoly:::txtsize
-RacakeitfSoly:::txtsize --> Unlyphaiogh:::txtsize
-RacakeitfSoly:::txtsize --> TcUnlytaicioiis:::txtsize
-Asluisiekkes:::txtsize --> UslnridrrRae:::txtsize
-UslnridrrRae:::txtsize --> Tpstikernl:::txtsize
-UslnridrrRae:::txtsize --> UnlyyutmalT:::txtsize
-AlctmaRasditi:::txtsize --> Asluisiekkes:::txtsize
-Asluisiekkes:::txtsize --> RacakeitfSoly:::txtsize
-RacakeitfSoly:::txtsize --> Unlyphaiogh:::txtsize
-RacakeitfSoly:::txtsize --> TcUnlytaicioiis:::txtsize
-Asluisiekkes:::txtsize --> UslnridrrRae:::txtsize
-UslnridrrRae:::txtsize --> Tpstikernl:::txtsize
-UslnridrrRae:::txtsize --> UnlyyutmalT:::txtsize
+YgitlIcsTZsaWH:::txtsize --> Zsymasaeeets:::txtsize
+Zsymasaeeets:::txtsize --> TalytnretaWHsit:::txtsize
+Zsymasaeeets:::txtsize --> Eeasutekems:::txtsize
 
 ```
-<i>Last updated: 2025-03-09 16:04:54.350885 (GMT+8)</i>
+<i>Last updated: 2025-03-09 20:00:22.313429 (GMT+8)</i>
 <!-- END -->
