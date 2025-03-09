@@ -16,6 +16,52 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Hfgcrthgdsbs@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 02:20 PM_
+How us foreign aid cuts are setting the stage for disease outbreaks" }
+Toselrann@{ shape: win-pane, label: "_UPDATED Jan 29, 2025, 12:11 AM_
+Trump orders pause to all federal grants and loans" }
+Htsasnuaptu@{ shape: win-pane, label: "_UPDATED Jan 28, 2025, 05:41 PM_
+Hegseth vows pentagon is all-in on trump’s mass deportation push" }
+Pehoinatodcry@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 06:48 PM_
+Pete hegseth narrowly wins confirmation to become us defence secretary" }
+NligteUaavnptp@{ shape: win-pane, label: "_UPDATED Jan 22, 2025, 03:21 PM_
+New allegations against hegseth as us senate readies vote on trump’s pentagon pick" }
+TtHRlsnnfhel@{ shape: win-pane, label: "_UPDATED Jan 28, 2025, 11:03 AM_
+Trump tells house republicans he wants funds to finish border wall" }
+Wrmeapeoit@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 02:50 PM_
+What trump’s mass deportation plan means for immigrants" }
+Ueupaaimritltes@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 02:36 PM_
+Us orders pause to programmes allowing temporary immigrant settlement, nyt reports" }
+UcueoeseHs@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 04:33 PM_
+Usaid cuts put tuberculosis response in peril, who says" }
+Uoirueyhmpeicnheov@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 12:23 PM_
+Usaid official warns of unnecessary deaths from trump's foreign aid block, then says he's been put on leave" }
+Usifdlycyd@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 09:40 PM_
+Un says millions of children already affected by us aid halt" }
+Taitahnetidr@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 12:28 PM_
+Trump administration says it has cancelled most foreign aid contracts" }
+Urootphatrao@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 11:08 AM_
+Us supreme court won’t let trump withhold payment to foreign aid groups" }
+Uuoenidrpri@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 03:27 PM_
+Us issues broad freeze on foreign aid after trump orders review" }
+ScliUcecaoi@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 09:43 PM_
+Services collapsing as usaid cuts health contracts worldwide" }
+
+Hfgcrthgdsbs:::txtsize --> Toselrann:::txtsize
+Toselrann:::txtsize --> Htsasnuaptu:::txtsize
+Htsasnuaptu:::txtsize --> Pehoinatodcry:::txtsize
+Htsasnuaptu:::txtsize --> NligteUaavnptp:::txtsize
+Toselrann:::txtsize --> TtHRlsnnfhel:::txtsize
+TtHRlsnnfhel:::txtsize --> Wrmeapeoit:::txtsize
+TtHRlsnnfhel:::txtsize --> Ueupaaimritltes:::txtsize
+Hfgcrthgdsbs:::txtsize --> UcueoeseHs:::txtsize
+UcueoeseHs:::txtsize --> Uoirueyhmpeicnheov:::txtsize
+Uoirueyhmpeicnheov:::txtsize --> Usifdlycyd:::txtsize
+Uoirueyhmpeicnheov:::txtsize --> Taitahnetidr:::txtsize
+UcueoeseHs:::txtsize --> Urootphatrao:::txtsize
+Urootphatrao:::txtsize --> Uuoenidrpri:::txtsize
+Urootphatrao:::txtsize --> ScliUcecaoi:::txtsize
+
 Zsyasyitstiuh@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 12:11 AM_
 Zelensky says ukraine is ‘fully committed’ to constructive dialogue with us" }
 Tpstikernl@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 07:28 PM_
@@ -108,52 +154,6 @@ Asluisiekkes:::txtsize --> UslnridrrRae:::txtsize
 UslnridrrRae:::txtsize --> Tpstikernl:::txtsize
 UslnridrrRae:::txtsize --> UnlyyutmalT:::txtsize
 
-Gifakhinabe@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 04:02 AM_
-‘grieving’: us federal workers thrown into uncertain job market" }
-Uwrgyeasuaaura@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 06:29 PM_
-Usaid workers say goodbye to headquarters as trump drastically cuts foreign aid" }
-Taitahnetidr@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 12:28 PM_
-Trump administration says it has cancelled most foreign aid contracts" }
-Udpseekrtnshs@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 09:01 AM_
-Usaid disruptions leave oxygen tanks, tb drugs stuck in ships, warehouses" }
-Uwdrtilriitec@{ shape: win-pane, label: "_UPDATED Feb 12, 2025, 03:35 PM_
-Usaid watchdog fired after critical report on bid to dismantle the agency" }
-Uuoenidrpri@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 03:27 PM_
-Us issues broad freeze on foreign aid after trump orders review" }
-DrnedsAcr@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 03:12 PM_
-Denmark, us and greenland to discuss arctic security" }
-Uiaapiteodoood@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 02:19 AM_
-Us military aircraft deport migrants, as pentagon readies more troops for border" }
-Uwrgyeasuaaura@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 06:29 PM_
-Usaid workers say goodbye to headquarters as trump drastically cuts foreign aid" }
-Taitahnetidr@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 12:28 PM_
-Trump administration says it has cancelled most foreign aid contracts" }
-Udpseekrtnshs@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 09:01 AM_
-Usaid disruptions leave oxygen tanks, tb drugs stuck in ships, warehouses" }
-Uwdrtilriitec@{ shape: win-pane, label: "_UPDATED Feb 12, 2025, 03:35 PM_
-Usaid watchdog fired after critical report on bid to dismantle the agency" }
-Uuoenidrpri@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 03:27 PM_
-Us issues broad freeze on foreign aid after trump orders review" }
-DrnedsAcr@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 03:12 PM_
-Denmark, us and greenland to discuss arctic security" }
-Uiaapiteodoood@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 02:19 AM_
-Us military aircraft deport migrants, as pentagon readies more troops for border" }
-
-Gifakhinabe:::txtsize --> Uwrgyeasuaaura:::txtsize
-Uwrgyeasuaaura:::txtsize --> Taitahnetidr:::txtsize
-Taitahnetidr:::txtsize --> Udpseekrtnshs:::txtsize
-Taitahnetidr:::txtsize --> Uwdrtilriitec:::txtsize
-Uwrgyeasuaaura:::txtsize --> Uuoenidrpri:::txtsize
-Uuoenidrpri:::txtsize --> DrnedsAcr:::txtsize
-Uuoenidrpri:::txtsize --> Uiaapiteodoood:::txtsize
-Gifakhinabe:::txtsize --> Uwrgyeasuaaura:::txtsize
-Uwrgyeasuaaura:::txtsize --> Taitahnetidr:::txtsize
-Taitahnetidr:::txtsize --> Udpseekrtnshs:::txtsize
-Taitahnetidr:::txtsize --> Uwdrtilriitec:::txtsize
-Uwrgyeasuaaura:::txtsize --> Uuoenidrpri:::txtsize
-Uuoenidrpri:::txtsize --> DrnedsAcr:::txtsize
-Uuoenidrpri:::txtsize --> Uiaapiteodoood:::txtsize
-
 ```
-<i>Last updated: 2025-03-09 15:13:14.496918 (GMT+8)</i>
+<i>Last updated: 2025-03-09 15:42:13.195806 (GMT+8)</i>
 <!-- END -->
