@@ -16,144 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Hfgcrthgdsbs@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 06:37 PM_
-How us foreign aid cuts are setting the stage for disease outbreaks" }
-Toselrann@{ shape: win-pane, label: "_UPDATED Jan 29, 2025, 12:11 AM_
-Trump orders pause to all federal grants and loans" }
-Htsasnuaptu@{ shape: win-pane, label: "_UPDATED Jan 28, 2025, 05:41 PM_
-Hegseth vows pentagon is all-in on trump’s mass deportation push" }
-Pehoinatodcry@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 06:48 PM_
-Pete hegseth narrowly wins confirmation to become us defence secretary" }
-NligteUaavnptp@{ shape: win-pane, label: "_UPDATED Jan 22, 2025, 03:21 PM_
-New allegations against hegseth as us senate readies vote on trump’s pentagon pick" }
-TtHRlsnnfhel@{ shape: win-pane, label: "_UPDATED Jan 28, 2025, 11:03 AM_
-Trump tells house republicans he wants funds to finish border wall" }
-Wrmeapeoit@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 02:50 PM_
-What trump’s mass deportation plan means for immigrants" }
-Ueupaaimritltes@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 02:36 PM_
-Us orders pause to programmes allowing temporary immigrant settlement, nyt reports" }
-UcueoeseHs@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 04:33 PM_
-Usaid cuts put tuberculosis response in peril, who says" }
-Uoirueyhmpeicnheov@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 12:23 PM_
-Usaid official warns of unnecessary deaths from trump's foreign aid block, then says he's been put on leave" }
-Usifdlycyd@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 09:40 PM_
-Un says millions of children already affected by us aid halt" }
-Taitahnetidr@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 12:28 PM_
-Trump administration says it has cancelled most foreign aid contracts" }
-Urootphatrao@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 11:08 AM_
-Us supreme court won’t let trump withhold payment to foreign aid groups" }
-Uuoenidrpri@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 03:27 PM_
-Us issues broad freeze on foreign aid after trump orders review" }
-ScliUcecaoi@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 09:43 PM_
-Services collapsing as usaid cuts health contracts worldwide" }
-
-Hfgcrthgdsbs:::txtsize --> Toselrann:::txtsize
-Toselrann:::txtsize --> Htsasnuaptu:::txtsize
-Htsasnuaptu:::txtsize --> Pehoinatodcry:::txtsize
-Htsasnuaptu:::txtsize --> NligteUaavnptp:::txtsize
-Toselrann:::txtsize --> TtHRlsnnfhel:::txtsize
-TtHRlsnnfhel:::txtsize --> Wrmeapeoit:::txtsize
-TtHRlsnnfhel:::txtsize --> Ueupaaimritltes:::txtsize
-Hfgcrthgdsbs:::txtsize --> UcueoeseHs:::txtsize
-UcueoeseHs:::txtsize --> Uoirueyhmpeicnheov:::txtsize
-Uoirueyhmpeicnheov:::txtsize --> Usifdlycyd:::txtsize
-Uoirueyhmpeicnheov:::txtsize --> Taitahnetidr:::txtsize
-UcueoeseHs:::txtsize --> Urootphatrao:::txtsize
-Urootphatrao:::txtsize --> Uuoenidrpri:::txtsize
-Urootphatrao:::txtsize --> ScliUcecaoi:::txtsize
-
-ManqaoirnEe@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 06:18 PM_
-Musk calls on us to quit nato, stop paying for defence of europe" }
-IoenUtnmp@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 05:23 PM_
-If nato members don’t pay, us won’t defend them: trump" }
-Psnaeesussiwet@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 05:17 PM_
-Putin says any ukraine peace deal must ensure russia’s security, vows no retreat" }
-Wnolykocsi@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 10:42 PM_
-‘we are not alone’: zelensky thanks europe at crisis summit" }
-Radrrirosbfd@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 07:06 PM_
-Russia scolds macron for pushing europe towards the abyss of world war" }
-Wnolykocsi@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 10:42 PM_
-‘we are not alone’: zelensky thanks europe at crisis summit" }
+UsUnaaniit@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 06:06 AM_
+Us to assess ukraine’s peace stance in saudi arabia meeting" }
+Uafameeartcelek@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 06:43 PM_
+Us, ukraine officials to meet next week in saudi arabia to discuss peace plans: zelensky" }
 Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
 Ukraine’s zelensky, trump clash in oval office shouting match" }
-Unptesieaet@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 08:40 PM_
-Ukrainian opposition leaders dismiss idea of wartime election" }
-Epbwingmt@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 09:53 PM_
-Eu proposes borrowing $212 billion in big rearmament push" }
+TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
+Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
+YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
+‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
+UslnridrrRae@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 03:45 PM_
+Us cuts intelligence for ukraine, adding pressure for russia peace deal" }
 Tpstikernl@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 07:28 PM_
 Trump pauses military aid to ukraine after zelensky clash" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-Sereolarnkeiet@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:16 PM_
-Starmer, macron pledge to develop ceasefire plan for ukraine, but will the us bite?" }
-WehomphoLaUnk@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 12:03 PM_
-‘we urgently have to rearm europe’: eu chief von der leyen after ukraine talks" }
-Eeaohlouaelsm@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:33 AM_
-European ‘coalition of the willing’ to draw up ukraine peace plan: uk’s starmer" }
-Tsbatlysawksuy@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 11:24 PM_
-Trump’s shabby treatment of zelensky draws dismay, shows lack of basic courtesy" }
+UnlyyutmalT@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:58 PM_
+Ukraine’s zelensky ready for russia talks, mineral deal, says trump" }
 
-ManqaoirnEe:::txtsize --> IoenUtnmp:::txtsize
-IoenUtnmp:::txtsize --> Psnaeesussiwet:::txtsize
-Psnaeesussiwet:::txtsize --> Wnolykocsi:::txtsize
-Psnaeesussiwet:::txtsize --> Radrrirosbfd:::txtsize
-IoenUtnmp:::txtsize --> Wnolykocsi:::txtsize
-Wnolykocsi:::txtsize --> Unlyphaiogh:::txtsize
-Wnolykocsi:::txtsize --> Unptesieaet:::txtsize
-ManqaoirnEe:::txtsize --> Epbwingmt:::txtsize
-Epbwingmt:::txtsize --> Tpstikernl:::txtsize
-Tpstikernl:::txtsize --> Unlyphaiogh:::txtsize
-Tpstikernl:::txtsize --> Sereolarnkeiet:::txtsize
-Epbwingmt:::txtsize --> WehomphoLaUnk:::txtsize
-WehomphoLaUnk:::txtsize --> Eeaohlouaelsm:::txtsize
-WehomphoLaUnk:::txtsize --> Tsbatlysawksuy:::txtsize
+UsUnaaniit:::txtsize --> Uafameeartcelek:::txtsize
+Uafameeartcelek:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
+Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
+Uafameeartcelek:::txtsize --> UslnridrrRae:::txtsize
+UslnridrrRae:::txtsize --> Tpstikernl:::txtsize
+UslnridrrRae:::txtsize --> UnlyyutmalT:::txtsize
 
+Ilserylaeck@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 04:47 AM_
+Israel halts gaza electricity supply ahead of new truce talks" }
+Ilkiacftfas@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 10:41 AM_
+Israel blocks aid into gaza as ceasefire stand-off escalates" }
+UtysraGruxoc@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:11 PM_
+Uncertainty looms as first phase of gaza truce due to expire on march 1" }
+Uscfotmpanon@{ shape: win-pane, label: "_UPDATED Jan 17, 2025, 11:12 AM_
+Us says gaza ceasefire to start on time despite last minute ‘loose end’" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+IleSfmrsezoe@{ shape: win-pane, label: "_UPDATED Mar 02, 2025, 03:29 PM_
+Israel agrees on us plan for temporary ceasefire in gaza, pm’s office says" }
+Ilaiecfiratp@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:29 AM_
+Israel and hamas diverge over ceasefire with first phase set to expire" }
+UtysraGruxoc@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:11 PM_
+Uncertainty looms as first phase of gaza truce due to expire on march 1" }
+UtysraGruxoc@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:11 PM_
+Uncertainty looms as first phase of gaza truce due to expire on march 1" }
+Uscfotmpanon@{ shape: win-pane, label: "_UPDATED Jan 17, 2025, 11:12 AM_
+Us says gaza ceasefire to start on time despite last minute ‘loose end’" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+
+Ilserylaeck:::txtsize --> Ilkiacftfas:::txtsize
+Ilkiacftfas:::txtsize --> UtysraGruxoc:::txtsize
+UtysraGruxoc:::txtsize --> Uscfotmpanon:::txtsize
+UtysraGruxoc:::txtsize --> Sbsrcdnacaale:::txtsize
+Ilkiacftfas:::txtsize --> IleSfmrsezoe:::txtsize
+IleSfmrsezoe:::txtsize --> Ilaiecfiratp:::txtsize
+IleSfmrsezoe:::txtsize --> UtysraGruxoc:::txtsize
+Ilserylaeck:::txtsize --> UtysraGruxoc:::txtsize
+UtysraGruxoc:::txtsize --> Uscfotmpanon:::txtsize
+Uscfotmpanon:::txtsize --> NyeeawHakl:::txtsize
+UtysraGruxoc:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+
+Uomlyaaaswns@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 01:03 AM_
+Us envoy adam boehler says gaza hostage deal possible ‘within weeks’" }
 HsaifeeeenaG@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 12:19 AM_
 Hamas says talks with us focused on release of american hostage in gaza" }
 Ilsadsearkeospe@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 05:51 AM_
 Israel, hamas signal readiness for next ceasefire talks as mediators push for progress" }
 MmodAlatmzep@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 08:15 PM_
 Muslim nations endorse arab alternative to trump’s gaza takeover plan" }
-AtaEittopae@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 08:51 PM_
-Arab states adopt egyptian alternative to trump’s ‘gaza riviera’" }
-TwHaoneekGoe@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 07:21 PM_
-Trump warns hamas as us holds unprecedented talks for gaza hostages" }
 IlssaHioafti@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 11:01 PM_
 Israel army spokesman daniel hagari, face of gaza war effort, to retire" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-IlsiedfrOmt@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 07:58 PM_
-Israel’s top security agency admits failures in oct 7 hamas attack" }
 Hmdulnrecsud@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:01 AM_
 How hamas’ audacious, well-planned surprise attack on israel unfolded" }
 NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
 Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
-World in shock after hamas surprise attacks on israel" }
 NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
 Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
-World in shock after hamas surprise attacks on israel" }
+TwHaoneekGoe@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 07:21 PM_
+Trump warns hamas as us holds unprecedented talks for gaza hostages" }
+TwHaoneekGoe@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 07:21 PM_
+Trump warns hamas as us holds unprecedented talks for gaza hostages" }
+TwHaoneekGoe@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 07:21 PM_
+Trump warns hamas as us holds unprecedented talks for gaza hostages" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
 
+Uomlyaaaswns:::txtsize --> HsaifeeeenaG:::txtsize
 HsaifeeeenaG:::txtsize --> Ilsadsearkeospe:::txtsize
 Ilsadsearkeospe:::txtsize --> MmodAlatmzep:::txtsize
-MmodAlatmzep:::txtsize --> AtaEittopae:::txtsize
-MmodAlatmzep:::txtsize --> TwHaoneekGoe:::txtsize
 Ilsadsearkeospe:::txtsize --> IlssaHioafti:::txtsize
-IlssaHioafti:::txtsize --> NyeeawHakl:::txtsize
-IlssaHioafti:::txtsize --> IlsiedfrOmt:::txtsize
 HsaifeeeenaG:::txtsize --> Hmdulnrecsud:::txtsize
 Hmdulnrecsud:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
 Hmdulnrecsud:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Uomlyaaaswns:::txtsize --> TwHaoneekGoe:::txtsize
+TwHaoneekGoe:::txtsize --> TwHaoneekGoe:::txtsize
+TwHaoneekGoe:::txtsize --> TwHaoneekGoe:::txtsize
+TwHaoneekGoe:::txtsize --> Sbsrcdnacaale:::txtsize
+TwHaoneekGoe:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
 
 ```
-<i>Last updated: 2025-03-10 08:00:35.051162 (GMT+8)</i>
+<i>Last updated: 2025-03-10 12:07:42.777760 (GMT+8)</i>
 <!-- END -->
