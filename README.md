@@ -16,7 +16,7 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-UntttneeyeaSMR@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 10:29 AM_
+UntttneeyeaSMR@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 02:50 PM_
 Ukraine must cede territory in any peace deal, says us secretary of state marco rubio" }
 UnreecSsuyi@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 11:52 PM_
 Ukraine to propose sky, sea truce at us talks in saudi, says official" }
@@ -32,7 +32,7 @@ Tpstikernl@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 07:28 PM_
 Trump pauses military aid to ukraine after zelensky clash" }
 UnlyyutmalT@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:58 PM_
 Ukraine’s zelensky ready for russia talks, mineral deal, says trump" }
-ZsSAavsfrpt@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 08:17 AM_
+ZsSAavsfrpt@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 03:23 PM_
 Zelensky in saudi arabia as us voices hope for ukraine peace talks" }
 UnreecSsuyi@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 11:52 PM_
 Ukraine to propose sky, sea truce at us talks in saudi, says official" }
@@ -155,5 +155,5 @@ UtysraGruxoc:::txtsize --> Uscfotmpanon:::txtsize
 UtysraGruxoc:::txtsize --> Sbsrcdnacaale:::txtsize
 
 ```
-<i>Last updated: 2025-03-11 12:00:35.450105 (GMT+8)</i>
+<i>Last updated: 2025-03-11 16:00:55.527818 (GMT+8)</i>
 <!-- END -->
