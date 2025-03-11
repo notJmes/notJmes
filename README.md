@@ -16,51 +16,51 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-UntttneeyeaSMR@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 02:50 PM_
-Ukraine must cede territory in any peace deal, says us secretary of state marco rubio" }
-UnreecSsuyi@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 11:52 PM_
-Ukraine to propose sky, sea truce at us talks in saudi, says official" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
-Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
-‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
+UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 02:52 AM_
+Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
 UslnridrrRae@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 03:45 PM_
 Us cuts intelligence for ukraine, adding pressure for russia peace deal" }
 Tpstikernl@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 07:28 PM_
 Trump pauses military aid to ukraine after zelensky clash" }
-UnlyyutmalT@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:58 PM_
-Ukraine’s zelensky ready for russia talks, mineral deal, says trump" }
-ZsSAavsfrpt@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 03:23 PM_
-Zelensky in saudi arabia as us voices hope for ukraine peace talks" }
-UnreecSsuyi@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 11:52 PM_
-Ukraine to propose sky, sea truce at us talks in saudi, says official" }
 Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
 Ukraine’s zelensky, trump clash in oval office shouting match" }
-UslnridrrRae@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 03:45 PM_
-Us cuts intelligence for ukraine, adding pressure for russia peace deal" }
+Sereolarnkeiet@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:16 PM_
+Starmer, macron pledge to develop ceasefire plan for ukraine, but will the us bite?" }
+UnlyyutmalT@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:58 PM_
+Ukraine’s zelensky ready for russia talks, mineral deal, says trump" }
+TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
+Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
+Zsluagansiani@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 02:40 PM_
+Zelensky calls trump clash ‘regrettable’ and says ukraine ready to negotiate" }
 Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
 Ukraine’s zelensky, trump clash in oval office shouting match" }
 TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
 Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
 YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
 ‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+Zsymasaeeets@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:10 PM_
+Zelensky says trump relationship can be repaired after white house row" }
 
-UntttneeyeaSMR:::txtsize --> UnreecSsuyi:::txtsize
-UnreecSsuyi:::txtsize --> Unlyphaiogh:::txtsize
-Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
-Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
-UnreecSsuyi:::txtsize --> UslnridrrRae:::txtsize
+UneSoocfnis:::txtsize --> UslnridrrRae:::txtsize
 UslnridrrRae:::txtsize --> Tpstikernl:::txtsize
+Tpstikernl:::txtsize --> Unlyphaiogh:::txtsize
+Tpstikernl:::txtsize --> Sereolarnkeiet:::txtsize
 UslnridrrRae:::txtsize --> UnlyyutmalT:::txtsize
-UntttneeyeaSMR:::txtsize --> ZsSAavsfrpt:::txtsize
-ZsSAavsfrpt:::txtsize --> UnreecSsuyi:::txtsize
-UnreecSsuyi:::txtsize --> Unlyphaiogh:::txtsize
-UnreecSsuyi:::txtsize --> UslnridrrRae:::txtsize
-ZsSAavsfrpt:::txtsize --> Unlyphaiogh:::txtsize
+UnlyyutmalT:::txtsize --> TalytnretaWHsit:::txtsize
+UnlyyutmalT:::txtsize --> Zsluagansiani:::txtsize
+UneSoocfnis:::txtsize --> Unlyphaiogh:::txtsize
 Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
+TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
+TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
 Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
+YgitlIcsTZsaWH:::txtsize --> Unlyphaiogh:::txtsize
+YgitlIcsTZsaWH:::txtsize --> Zsymasaeeets:::txtsize
 
 TwvSAamwo@{ shape: win-pane, label: "_PUBLISHED Mar 11, 2025, 05:00 AM_
 The new geneva? how saudi arabia became a power broker" }
@@ -155,5 +155,5 @@ UtysraGruxoc:::txtsize --> Uscfotmpanon:::txtsize
 UtysraGruxoc:::txtsize --> Sbsrcdnacaale:::txtsize
 
 ```
-<i>Last updated: 2025-03-12 00:01:09.716338 (GMT+8)</i>
+<i>Last updated: 2025-03-12 04:00:30.038549 (GMT+8)</i>
 <!-- END -->
