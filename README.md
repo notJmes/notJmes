@@ -16,22 +16,8 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 02:52 AM_
+UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 04:30 AM_
 Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
-UslnridrrRae@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 03:45 PM_
-Us cuts intelligence for ukraine, adding pressure for russia peace deal" }
-Tpstikernl@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 07:28 PM_
-Trump pauses military aid to ukraine after zelensky clash" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-Sereolarnkeiet@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:16 PM_
-Starmer, macron pledge to develop ceasefire plan for ukraine, but will the us bite?" }
-UnlyyutmalT@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:58 PM_
-Ukraine’s zelensky ready for russia talks, mineral deal, says trump" }
-TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
-Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-Zsluagansiani@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 02:40 PM_
-Zelensky calls trump clash ‘regrettable’ and says ukraine ready to negotiate" }
 Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
 Ukraine’s zelensky, trump clash in oval office shouting match" }
 TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
@@ -46,14 +32,21 @@ Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
 Ukraine’s zelensky, trump clash in oval office shouting match" }
 Zsymasaeeets@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:10 PM_
 Zelensky says trump relationship can be repaired after white house row" }
+Tfrsmawrmndlna@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 03:13 AM_
+Text of us-ukraine statement paving way for resumption of aid, intelligence sharing" }
+UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 04:30 AM_
+Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+Tfrsmawrmndlna@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 03:13 AM_
+Text of us-ukraine statement paving way for resumption of aid, intelligence sharing" }
+UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 04:30 AM_
+Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+Tfrsmawrmndlna@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 03:13 AM_
+Text of us-ukraine statement paving way for resumption of aid, intelligence sharing" }
 
-UneSoocfnis:::txtsize --> UslnridrrRae:::txtsize
-UslnridrrRae:::txtsize --> Tpstikernl:::txtsize
-Tpstikernl:::txtsize --> Unlyphaiogh:::txtsize
-Tpstikernl:::txtsize --> Sereolarnkeiet:::txtsize
-UslnridrrRae:::txtsize --> UnlyyutmalT:::txtsize
-UnlyyutmalT:::txtsize --> TalytnretaWHsit:::txtsize
-UnlyyutmalT:::txtsize --> Zsluagansiani:::txtsize
 UneSoocfnis:::txtsize --> Unlyphaiogh:::txtsize
 Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
 TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
@@ -61,6 +54,13 @@ TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
 Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
 YgitlIcsTZsaWH:::txtsize --> Unlyphaiogh:::txtsize
 YgitlIcsTZsaWH:::txtsize --> Zsymasaeeets:::txtsize
+UneSoocfnis:::txtsize --> Tfrsmawrmndlna:::txtsize
+Tfrsmawrmndlna:::txtsize --> UneSoocfnis:::txtsize
+UneSoocfnis:::txtsize --> Unlyphaiogh:::txtsize
+UneSoocfnis:::txtsize --> Tfrsmawrmndlna:::txtsize
+Tfrsmawrmndlna:::txtsize --> UneSoocfnis:::txtsize
+UneSoocfnis:::txtsize --> Unlyphaiogh:::txtsize
+UneSoocfnis:::txtsize --> Tfrsmawrmndlna:::txtsize
 
 TwvSAamwo@{ shape: win-pane, label: "_PUBLISHED Mar 11, 2025, 05:00 AM_
 The new geneva? how saudi arabia became a power broker" }
@@ -155,5 +155,5 @@ UtysraGruxoc:::txtsize --> Uscfotmpanon:::txtsize
 UtysraGruxoc:::txtsize --> Sbsrcdnacaale:::txtsize
 
 ```
-<i>Last updated: 2025-03-12 04:00:30.038549 (GMT+8)</i>
+<i>Last updated: 2025-03-12 08:00:53.038789 (GMT+8)</i>
 <!-- END -->
