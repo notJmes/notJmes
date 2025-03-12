@@ -16,51 +16,24 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 11:03 AM_
-Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
-Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
-‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-Zsymasaeeets@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:10 PM_
-Zelensky says trump relationship can be repaired after white house row" }
-Tfrsmawrmndlna@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 03:13 AM_
-Text of us-ukraine statement paving way for resumption of aid, intelligence sharing" }
-UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 11:03 AM_
-Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-Tfrsmawrmndlna@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 03:13 AM_
-Text of us-ukraine statement paving way for resumption of aid, intelligence sharing" }
-UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 11:03 AM_
-Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-Tfrsmawrmndlna@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 03:13 AM_
-Text of us-ukraine statement paving way for resumption of aid, intelligence sharing" }
+Unecfusit@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:55 PM_
+Ukraine accepts a ceasefire, but does russia want one?" }
+DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
+'darkest hours of europe' as russia invades ukraine" }
+Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
+Bloodshed and tears as eastern ukraine faces russian attack" }
+Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
+Fighting rages around ukraine as russia invades from three sides" }
+Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
+Fighting rages around ukraine as russia invades from three sides" }
+DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
+'darkest hours of europe' as russia invades ukraine" }
 
-UneSoocfnis:::txtsize --> Unlyphaiogh:::txtsize
-Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
-TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
-TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
-Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
-YgitlIcsTZsaWH:::txtsize --> Unlyphaiogh:::txtsize
-YgitlIcsTZsaWH:::txtsize --> Zsymasaeeets:::txtsize
-UneSoocfnis:::txtsize --> Tfrsmawrmndlna:::txtsize
-Tfrsmawrmndlna:::txtsize --> UneSoocfnis:::txtsize
-UneSoocfnis:::txtsize --> Unlyphaiogh:::txtsize
-UneSoocfnis:::txtsize --> Tfrsmawrmndlna:::txtsize
-Tfrsmawrmndlna:::txtsize --> UneSoocfnis:::txtsize
-UneSoocfnis:::txtsize --> Unlyphaiogh:::txtsize
-UneSoocfnis:::txtsize --> Tfrsmawrmndlna:::txtsize
+Unecfusit:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
+Bsnranicsak:::txtsize --> Figokesnsts:::txtsize
+DsruasvUn:::txtsize --> Figokesnsts:::txtsize
+Figokesnsts:::txtsize --> DsruasvUn:::txtsize
 
 TnanrrSaSpma@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 11:35 AM_
 Trump nominates entrepreneur anji sinha as his singapore ambassador" }
@@ -84,7 +57,7 @@ TnanrrSaSpma:::txtsize --> TstlsSseitowip:::txtsize
 TstlsSseitowip:::txtsize --> UcksinlTphaas:::txtsize
 UcksinlTphaas:::txtsize --> Tdnruei:::txtsize
 
-Gliecdsntmunpe@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 03:32 PM_
+Gliecdsntmunpe@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:18 PM_
 Greenland’s independence gradualists win election amid trump control pledge" }
 WlycmhpGlncos@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:19 PM_
 ‘we will make you rich’: trump to the people of greenland in speech to congress" }
@@ -131,5 +104,5 @@ Ynhwmninhter:::txtsize --> IexiewRceh:::txtsize
 Ynhwmninhter:::txtsize --> Cfasepduoman:::txtsize
 
 ```
-<i>Last updated: 2025-03-12 16:00:17.710765 (GMT+8)</i>
+<i>Last updated: 2025-03-12 20:00:39.856616 (GMT+8)</i>
 <!-- END -->
