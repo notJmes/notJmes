@@ -16,7 +16,7 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 04:30 AM_
+UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 11:03 AM_
 Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
 Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
 Ukraine’s zelensky, trump clash in oval office shouting match" }
@@ -34,13 +34,13 @@ Zsymasaeeets@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:10 PM_
 Zelensky says trump relationship can be repaired after white house row" }
 Tfrsmawrmndlna@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 03:13 AM_
 Text of us-ukraine statement paving way for resumption of aid, intelligence sharing" }
-UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 04:30 AM_
+UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 11:03 AM_
 Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
 Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
 Ukraine’s zelensky, trump clash in oval office shouting match" }
 Tfrsmawrmndlna@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 03:13 AM_
 Text of us-ukraine statement paving way for resumption of aid, intelligence sharing" }
-UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 04:30 AM_
+UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 11:03 AM_
 Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
 Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
 Ukraine’s zelensky, trump clash in oval office shouting match" }
@@ -62,68 +62,42 @@ Tfrsmawrmndlna:::txtsize --> UneSoocfnis:::txtsize
 UneSoocfnis:::txtsize --> Unlyphaiogh:::txtsize
 UneSoocfnis:::txtsize --> Tfrsmawrmndlna:::txtsize
 
-TwvSAamwo@{ shape: win-pane, label: "_PUBLISHED Mar 11, 2025, 05:00 AM_
-The new geneva? how saudi arabia became a power broker" }
-TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
-Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
-Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
-‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
-Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
-‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
-RaemaoiaiatUn@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 01:47 AM_
-Russia hardens demands as it holds first talks with us and without ukraine" }
-ZssevtdbyaeUnc@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 12:34 PM_
-Zelensky postpones his visit to saudi arabia, says no talks behind ukraine’s back" }
-Eihkbkesdsiu@{ shape: win-pane, label: "_UPDATED Aug 14, 2024, 11:44 AM_
-Explainer: what to know about ukraine’s cross-border assault into russia" }
-UsiukcolnutwUn@{ shape: win-pane, label: "_UPDATED Feb 18, 2025, 11:07 PM_
-Us says all sides must make concessions on land and security to end war in ukraine" }
-ZssevtdbyaeUnc@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 12:34 PM_
-Zelensky postpones his visit to saudi arabia, says no talks behind ukraine’s back" }
-Eihkbkesdsiu@{ shape: win-pane, label: "_UPDATED Aug 14, 2024, 11:44 AM_
-Explainer: what to know about ukraine’s cross-border assault into russia" }
-UsiukcolnutwUn@{ shape: win-pane, label: "_UPDATED Feb 18, 2025, 11:07 PM_
-Us says all sides must make concessions on land and security to end war in ukraine" }
+TnanrrSaSpma@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 11:35 AM_
+Trump nominates entrepreneur anji sinha as his singapore ambassador" }
+Sponsalgemihne@{ shape: win-pane, label: "_UPDATED Jan 14, 2025, 08:43 PM_
+Singapore could end up as ‘collateral damage’ under trump 2.0 tariffs: chan heng chee" }
+Tttndahoetr@{ shape: win-pane, label: "_UPDATED Jan 14, 2025, 04:58 PM_
+Trump team studying gradual tariff hikes of 2% to 5% per month: sources" }
+Tkeoeghidmtf@{ shape: win-pane, label: "_UPDATED Jan 07, 2025, 06:11 PM_
+Trump keeps everyone guessing over how he intends to impose tariffs" }
+TstlsSseitowip@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 07:56 PM_
+Trump’s erratic policies put us at risk of recession, but much of the world is prepared" }
+UcksinlTphaas@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 11:49 AM_
+Us stock market loses $5 trillion in value as trump ploughs ahead on tariffs" }
+Tdnruei@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 07:02 PM_
+Trump declines to rule out 2025 us recession" }
 
-TwvSAamwo:::txtsize --> TalytnretaWHsit:::txtsize
-TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
-Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
-Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
-TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
-Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
-Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
-TwvSAamwo:::txtsize --> RaemaoiaiatUn:::txtsize
-RaemaoiaiatUn:::txtsize --> ZssevtdbyaeUnc:::txtsize
-ZssevtdbyaeUnc:::txtsize --> Eihkbkesdsiu:::txtsize
-ZssevtdbyaeUnc:::txtsize --> UsiukcolnutwUn:::txtsize
-RaemaoiaiatUn:::txtsize --> ZssevtdbyaeUnc:::txtsize
-ZssevtdbyaeUnc:::txtsize --> Eihkbkesdsiu:::txtsize
-ZssevtdbyaeUnc:::txtsize --> UsiukcolnutwUn:::txtsize
+TnanrrSaSpma:::txtsize --> Sponsalgemihne:::txtsize
+Sponsalgemihne:::txtsize --> Tttndahoetr:::txtsize
+Tttndahoetr:::txtsize --> Tkeoeghidmtf:::txtsize
+TnanrrSaSpma:::txtsize --> TstlsSseitowip:::txtsize
+TstlsSseitowip:::txtsize --> UcksinlTphaas:::txtsize
+UcksinlTphaas:::txtsize --> Tdnruei:::txtsize
 
-Gucsdrsikourfces@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 05:48 PM_
-Gaza hunger crisis could return if israeli blockade continues, un relief agency chief says" }
-Ilkiacftfas@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 10:41 AM_
-Israel blocks aid into gaza as ceasefire stand-off escalates" }
+Hoiyaethen@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 10:15 AM_
+Hamas official says gaza ceasefire talks have begun in doha" }
 UtysraGruxoc@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:11 PM_
 Uncertainty looms as first phase of gaza truce due to expire on march 1" }
 Uscfotmpanon@{ shape: win-pane, label: "_UPDATED Jan 17, 2025, 11:12 AM_
 Us says gaza ceasefire to start on time despite last minute ‘loose end’" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
 Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
 ‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-IleSfmrsezoe@{ shape: win-pane, label: "_UPDATED Mar 02, 2025, 03:29 PM_
-Israel agrees on us plan for temporary ceasefire in gaza, pm’s office says" }
-Ilaiecfiratp@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:29 AM_
-Israel and hamas diverge over ceasefire with first phase set to expire" }
-UtysraGruxoc@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:11 PM_
-Uncertainty looms as first phase of gaza truce due to expire on march 1" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
 Ilserylaeck@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 09:27 PM_
 Israel halts gaza electricity supply ahead of new truce talks" }
 Ilkiacftfas@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 10:41 AM_
@@ -139,14 +113,13 @@ Us says gaza ceasefire to start on time despite last minute ‘loose end’" }
 Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
 ‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
 
-Gucsdrsikourfces:::txtsize --> Ilkiacftfas:::txtsize
-Ilkiacftfas:::txtsize --> UtysraGruxoc:::txtsize
+Hoiyaethen:::txtsize --> UtysraGruxoc:::txtsize
 UtysraGruxoc:::txtsize --> Uscfotmpanon:::txtsize
+Uscfotmpanon:::txtsize --> NyeeawHakl:::txtsize
 UtysraGruxoc:::txtsize --> Sbsrcdnacaale:::txtsize
-Ilkiacftfas:::txtsize --> IleSfmrsezoe:::txtsize
-IleSfmrsezoe:::txtsize --> Ilaiecfiratp:::txtsize
-IleSfmrsezoe:::txtsize --> UtysraGruxoc:::txtsize
-Gucsdrsikourfces:::txtsize --> Ilserylaeck:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Hoiyaethen:::txtsize --> Ilserylaeck:::txtsize
 Ilserylaeck:::txtsize --> Ilkiacftfas:::txtsize
 Ilkiacftfas:::txtsize --> UtysraGruxoc:::txtsize
 Ilkiacftfas:::txtsize --> IleSfmrsezoe:::txtsize
@@ -155,5 +128,5 @@ UtysraGruxoc:::txtsize --> Uscfotmpanon:::txtsize
 UtysraGruxoc:::txtsize --> Sbsrcdnacaale:::txtsize
 
 ```
-<i>Last updated: 2025-03-12 08:00:53.038789 (GMT+8)</i>
+<i>Last updated: 2025-03-12 12:06:55.965712 (GMT+8)</i>
 <!-- END -->
