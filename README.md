@@ -84,49 +84,52 @@ TnanrrSaSpma:::txtsize --> TstlsSseitowip:::txtsize
 TstlsSseitowip:::txtsize --> UcksinlTphaas:::txtsize
 UcksinlTphaas:::txtsize --> Tdnruei:::txtsize
 
-Hoiyaethen@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 10:15 AM_
-Hamas official says gaza ceasefire talks have begun in doha" }
-UtysraGruxoc@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:11 PM_
-Uncertainty looms as first phase of gaza truce due to expire on march 1" }
-Uscfotmpanon@{ shape: win-pane, label: "_UPDATED Jan 17, 2025, 11:12 AM_
-Us says gaza ceasefire to start on time despite last minute ‘loose end’" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Ilserylaeck@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 09:27 PM_
-Israel halts gaza electricity supply ahead of new truce talks" }
-Ilkiacftfas@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 10:41 AM_
-Israel blocks aid into gaza as ceasefire stand-off escalates" }
-UtysraGruxoc@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:11 PM_
-Uncertainty looms as first phase of gaza truce due to expire on march 1" }
-IleSfmrsezoe@{ shape: win-pane, label: "_UPDATED Mar 02, 2025, 03:29 PM_
-Israel agrees on us plan for temporary ceasefire in gaza, pm’s office says" }
-UtysraGruxoc@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:11 PM_
-Uncertainty looms as first phase of gaza truce due to expire on march 1" }
-Uscfotmpanon@{ shape: win-pane, label: "_UPDATED Jan 17, 2025, 11:12 AM_
-Us says gaza ceasefire to start on time despite last minute ‘loose end’" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+Gliecdsntmunpe@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 03:32 PM_
+Greenland’s independence gradualists win election amid trump control pledge" }
+WlycmhpGlncos@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:19 PM_
+‘we will make you rich’: trump to the people of greenland in speech to congress" }
+Acauypmdrno@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:51 PM_
+‘america is back,’ trump says in speech marred by partisan rancour" }
+DrrtpeCetrotsns@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 01:30 PM_
+Democrats protest trump’s speech to congress with disruption, exits and solemn signs" }
+Drlkmfrptg@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 02:16 PM_
+Democratic lawmaker removed from trump speech to congress" }
+GlMoaloriddns@{ shape: win-pane, label: "_UPDATED Feb 05, 2025, 04:31 PM_
+Greenland pm proposes march 11 election as arctic island fields us interest" }
+Tiebgnnoby@{ shape: win-pane, label: "_UPDATED Jan 31, 2025, 04:26 PM_
+Trump interest in buying greenland ‘not a joke’, rubio says" }
+GlloontdimnsTsa@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 01:43 AM_
+Greenland plans to ban foreign political donations amid concerns over trump’s threats" }
+Glropnpe@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 03:51 PM_
+Greenland’s road to independence explained" }
+WlycmhpGlncos@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:19 PM_
+‘we will make you rich’: trump to the people of greenland in speech to congress" }
+Acauypmdrno@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:51 PM_
+‘america is back,’ trump says in speech marred by partisan rancour" }
+GlMoaloriddns@{ shape: win-pane, label: "_UPDATED Feb 05, 2025, 04:31 PM_
+Greenland pm proposes march 11 election as arctic island fields us interest" }
+Ynhwmninhter@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 02:17 AM_
+‘you can’t pin him down’: trump’s contradictions are his ultimate cover" }
+IexiewRceh@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 09:02 PM_
+Inside the explosive meeting where rubio clashed with musk" }
+Cfasepduoman@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 06:26 PM_
+Clip of gaza as seaside resort posted on trump’s social media accounts" }
 
-Hoiyaethen:::txtsize --> UtysraGruxoc:::txtsize
-UtysraGruxoc:::txtsize --> Uscfotmpanon:::txtsize
-Uscfotmpanon:::txtsize --> NyeeawHakl:::txtsize
-UtysraGruxoc:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Hoiyaethen:::txtsize --> Ilserylaeck:::txtsize
-Ilserylaeck:::txtsize --> Ilkiacftfas:::txtsize
-Ilkiacftfas:::txtsize --> UtysraGruxoc:::txtsize
-Ilkiacftfas:::txtsize --> IleSfmrsezoe:::txtsize
-Ilserylaeck:::txtsize --> UtysraGruxoc:::txtsize
-UtysraGruxoc:::txtsize --> Uscfotmpanon:::txtsize
-UtysraGruxoc:::txtsize --> Sbsrcdnacaale:::txtsize
+Gliecdsntmunpe:::txtsize --> WlycmhpGlncos:::txtsize
+WlycmhpGlncos:::txtsize --> Acauypmdrno:::txtsize
+Acauypmdrno:::txtsize --> DrrtpeCetrotsns:::txtsize
+Acauypmdrno:::txtsize --> Drlkmfrptg:::txtsize
+WlycmhpGlncos:::txtsize --> GlMoaloriddns:::txtsize
+GlMoaloriddns:::txtsize --> Tiebgnnoby:::txtsize
+GlMoaloriddns:::txtsize --> GlloontdimnsTsa:::txtsize
+Gliecdsntmunpe:::txtsize --> Glropnpe:::txtsize
+Glropnpe:::txtsize --> WlycmhpGlncos:::txtsize
+WlycmhpGlncos:::txtsize --> Acauypmdrno:::txtsize
+WlycmhpGlncos:::txtsize --> GlMoaloriddns:::txtsize
+Glropnpe:::txtsize --> Ynhwmninhter:::txtsize
+Ynhwmninhter:::txtsize --> IexiewRceh:::txtsize
+Ynhwmninhter:::txtsize --> Cfasepduoman:::txtsize
 
 ```
-<i>Last updated: 2025-03-12 12:06:55.965712 (GMT+8)</i>
+<i>Last updated: 2025-03-12 16:00:17.710765 (GMT+8)</i>
 <!-- END -->
