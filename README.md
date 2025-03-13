@@ -35,74 +35,89 @@ Bsnranicsak:::txtsize --> Figokesnsts:::txtsize
 DsruasvUn:::txtsize --> Figokesnsts:::txtsize
 Figokesnsts:::txtsize --> DsruasvUn:::txtsize
 
-TnanrrSaSpma@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 10:00 PM_
-Trump nominates entrepreneur anji sinha as his singapore ambassador" }
-Sponsalgemihne@{ shape: win-pane, label: "_UPDATED Jan 14, 2025, 08:43 PM_
-Singapore could end up as ‘collateral damage’ under trump 2.0 tariffs: chan heng chee" }
-Tttndahoetr@{ shape: win-pane, label: "_UPDATED Jan 14, 2025, 04:58 PM_
-Trump team studying gradual tariff hikes of 2% to 5% per month: sources" }
-Tkeoeghidmtf@{ shape: win-pane, label: "_UPDATED Jan 07, 2025, 06:11 PM_
-Trump keeps everyone guessing over how he intends to impose tariffs" }
-TstlsSseitowip@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 07:56 PM_
-Trump’s erratic policies put us at risk of recession, but much of the world is prepared" }
-UcksinlTphaas@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 11:49 AM_
-Us stock market loses $5 trillion in value as trump ploughs ahead on tariffs" }
-Tdnruei@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 07:02 PM_
-Trump declines to rule out 2025 us recession" }
+Vroseggpoaaa@{ shape: win-pane, label: "_UPDATED Mar 13, 2025, 04:25 AM_
+‘very broad consensus’ emerging among europeans on ukraine, says france" }
+Unecfusit@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:55 PM_
+Ukraine accepts a ceasefire, but does russia want one?" }
+DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
+'darkest hours of europe' as russia invades ukraine" }
+Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
+Bloodshed and tears as eastern ukraine faces russian attack" }
+Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
+Fighting rages around ukraine as russia invades from three sides" }
+IeitUyemeehru@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 01:53 AM_
+In rare meeting without us ally, western army chiefs meet to show ukraine unity" }
+IoenUtnmp@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 05:23 PM_
+If nato members don’t pay, us won’t defend them: trump" }
+Psnaeesussiwet@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 05:17 PM_
+Putin says any ukraine peace deal must ensure russia’s security, vows no retreat" }
+Wnolykocsi@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 10:42 PM_
+‘we are not alone’: zelensky thanks europe at crisis summit" }
+Utodhitucis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 09:13 PM_
+Us, british commanders show unity after trump uncertainties" }
+IoenUtnmp@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 05:23 PM_
+If nato members don’t pay, us won’t defend them: trump" }
+ManqaoirnEe@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 06:18 PM_
+Musk calls on us to quit nato, stop paying for defence of europe" }
 
-TnanrrSaSpma:::txtsize --> Sponsalgemihne:::txtsize
-Sponsalgemihne:::txtsize --> Tttndahoetr:::txtsize
-Tttndahoetr:::txtsize --> Tkeoeghidmtf:::txtsize
-TnanrrSaSpma:::txtsize --> TstlsSseitowip:::txtsize
-TstlsSseitowip:::txtsize --> UcksinlTphaas:::txtsize
-UcksinlTphaas:::txtsize --> Tdnruei:::txtsize
+Vroseggpoaaa:::txtsize --> Unecfusit:::txtsize
+Unecfusit:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
+DsruasvUn:::txtsize --> Figokesnsts:::txtsize
+Vroseggpoaaa:::txtsize --> IeitUyemeehru:::txtsize
+IeitUyemeehru:::txtsize --> IoenUtnmp:::txtsize
+IoenUtnmp:::txtsize --> Psnaeesussiwet:::txtsize
+IoenUtnmp:::txtsize --> Wnolykocsi:::txtsize
+IeitUyemeehru:::txtsize --> Utodhitucis:::txtsize
+Utodhitucis:::txtsize --> IoenUtnmp:::txtsize
+Utodhitucis:::txtsize --> ManqaoirnEe:::txtsize
 
-Rswiskrn@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 10:59 PM_
-Rubio says g-7 won’t discuss us ‘takeover’ of canada" }
-Wuenaaa@{ shape: win-pane, label: "_PUBLISHED Jan 08, 2025, 05:00 AM_
-Why would the us want canada as a 51st state?" }
-Cadogrieermrfi@{ shape: win-pane, label: "_UPDATED Jan 07, 2025, 01:53 PM_
-Canada’s trudeau to resign as prime minister after 9 years, blames party infighting" }
-FiltaTnoeuTa@{ shape: win-pane, label: "_UPDATED Dec 23, 2024, 11:41 AM_
-From liberal icon to maga joke: the waning fortunes of justin trudeau" }
-WvannnPtu@{ shape: win-pane, label: "_UPDATED Dec 21, 2024, 08:58 PM_
-Why have so many canadians turned on pm justin trudeau?" }
-TjCamtard@{ shape: win-pane, label: "_UPDATED Dec 19, 2024, 05:00 PM_
-Trump jokes canada becoming 51st us state ‘a great idea’" }
-CaaieyFasapyhPd@{ shape: win-pane, label: "_UPDATED Dec 16, 2024, 11:36 PM_
-Canada’s finance minister chrystia freeland resigns after policy clash with pm trudeau" }
-CadaslfePi@{ shape: win-pane, label: "_UPDATED Dec 18, 2024, 06:58 PM_
-Canada’s trudeau battles to hold on after deputy pm resigns" }
-UaarsTdeartaf@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 02:55 PM_
-Us-canada trade war heats up as trump doubles metals tariffs, then backs off" }
-Uotfaaasr@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 11:27 PM_
-Us to double tariffs on canadian metals to 50%, says trump" }
-UcksinlTphaas@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 11:49 AM_
-Us stock market loses $5 trillion in value as trump ploughs ahead on tariffs" }
-TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
-Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
-Oimrstphocipt@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 04:27 PM_
-Ontario premier freezes plan to slap surcharge of electricity exports to us" }
-Oisamrwureryr@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 05:14 PM_
-Ontario hits back at trump’s tariffs with 25% surcharge on electricity export" }
-Uotfaaasr@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 11:27 PM_
-Us to double tariffs on canadian metals to 50%, says trump" }
+GlhsuseeastasT@{ shape: win-pane, label: "_UPDATED Mar 13, 2025, 02:06 AM_
+Greenland chooses pro-business, independence parties, in potential boost for trump" }
+Glropnpe@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 03:51 PM_
+Greenland’s road to independence explained" }
+WlycmhpGlncos@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:19 PM_
+‘we will make you rich’: trump to the people of greenland in speech to congress" }
+Acauypmdrno@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:51 PM_
+‘america is back,’ trump says in speech marred by partisan rancour" }
+GlMoaloriddns@{ shape: win-pane, label: "_UPDATED Feb 05, 2025, 04:31 PM_
+Greenland pm proposes march 11 election as arctic island fields us interest" }
+Ynhwmninhter@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 02:17 AM_
+‘you can’t pin him down’: trump’s contradictions are his ultimate cover" }
+IexiewRceh@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 09:02 PM_
+Inside the explosive meeting where rubio clashed with musk" }
+Cfasepduoman@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 06:26 PM_
+Clip of gaza as seaside resort posted on trump’s social media accounts" }
+Gliecdsntmunpe@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:18 PM_
+Greenland’s independence gradualists win election amid trump control pledge" }
+WlycmhpGlncos@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:19 PM_
+‘we will make you rich’: trump to the people of greenland in speech to congress" }
+Acauypmdrno@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:51 PM_
+‘america is back,’ trump says in speech marred by partisan rancour" }
+GlMoaloriddns@{ shape: win-pane, label: "_UPDATED Feb 05, 2025, 04:31 PM_
+Greenland pm proposes march 11 election as arctic island fields us interest" }
+Glropnpe@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 03:51 PM_
+Greenland’s road to independence explained" }
+WlycmhpGlncos@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:19 PM_
+‘we will make you rich’: trump to the people of greenland in speech to congress" }
+Ynhwmninhter@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 02:17 AM_
+‘you can’t pin him down’: trump’s contradictions are his ultimate cover" }
 
-Rswiskrn:::txtsize --> Wuenaaa:::txtsize
-Wuenaaa:::txtsize --> Cadogrieermrfi:::txtsize
-Cadogrieermrfi:::txtsize --> FiltaTnoeuTa:::txtsize
-Cadogrieermrfi:::txtsize --> WvannnPtu:::txtsize
-Wuenaaa:::txtsize --> TjCamtard:::txtsize
-TjCamtard:::txtsize --> CaaieyFasapyhPd:::txtsize
-TjCamtard:::txtsize --> CadaslfePi:::txtsize
-Rswiskrn:::txtsize --> UaarsTdeartaf:::txtsize
-UaarsTdeartaf:::txtsize --> Uotfaaasr:::txtsize
-Uotfaaasr:::txtsize --> UcksinlTphaas:::txtsize
-Uotfaaasr:::txtsize --> TcrroadcbeC:::txtsize
-UaarsTdeartaf:::txtsize --> Oimrstphocipt:::txtsize
-Oimrstphocipt:::txtsize --> Oisamrwureryr:::txtsize
-Oimrstphocipt:::txtsize --> Uotfaaasr:::txtsize
+GlhsuseeastasT:::txtsize --> Glropnpe:::txtsize
+Glropnpe:::txtsize --> WlycmhpGlncos:::txtsize
+WlycmhpGlncos:::txtsize --> Acauypmdrno:::txtsize
+WlycmhpGlncos:::txtsize --> GlMoaloriddns:::txtsize
+Glropnpe:::txtsize --> Ynhwmninhter:::txtsize
+Ynhwmninhter:::txtsize --> IexiewRceh:::txtsize
+Ynhwmninhter:::txtsize --> Cfasepduoman:::txtsize
+GlhsuseeastasT:::txtsize --> Gliecdsntmunpe:::txtsize
+Gliecdsntmunpe:::txtsize --> WlycmhpGlncos:::txtsize
+WlycmhpGlncos:::txtsize --> Acauypmdrno:::txtsize
+WlycmhpGlncos:::txtsize --> GlMoaloriddns:::txtsize
+Gliecdsntmunpe:::txtsize --> Glropnpe:::txtsize
+Glropnpe:::txtsize --> WlycmhpGlncos:::txtsize
+Glropnpe:::txtsize --> Ynhwmninhter:::txtsize
 
 ```
-<i>Last updated: 2025-03-13 08:00:36.319554 (GMT+8)</i>
+<i>Last updated: 2025-03-13 12:00:53.345915 (GMT+8)</i>
 <!-- END -->
