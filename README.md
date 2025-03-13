@@ -16,32 +16,7 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-GinrtnmnsT@{ shape: win-pane, label: "_UPDATED Mar 13, 2025, 03:37 PM_
-G-7 foreign ministers meet in canada amid tensions with trump" }
-Tsdaaanr@{ shape: win-pane, label: "_UPDATED Mar 13, 2025, 11:21 AM_
-Trump’s canada fixation – an expansionist dream" }
-TjCamtard@{ shape: win-pane, label: "_UPDATED Dec 19, 2024, 05:00 PM_
-Trump jokes canada becoming 51st us state ‘a great idea’" }
-CaaieyFasapyhPd@{ shape: win-pane, label: "_UPDATED Dec 16, 2024, 11:36 PM_
-Canada’s finance minister chrystia freeland resigns after policy clash with pm trudeau" }
-CadaslfePi@{ shape: win-pane, label: "_UPDATED Dec 18, 2024, 06:58 PM_
-Canada’s trudeau battles to hold on after deputy pm resigns" }
-TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
-Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
-MoapnTghhtfa@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 11:24 PM_
-Mexico has backup plan in case trump goes through with tariff threat" }
-Fgtaer@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:07 AM_
-Facing up to the realities of trump 2.0" }
-
-GinrtnmnsT:::txtsize --> Tsdaaanr:::txtsize
-Tsdaaanr:::txtsize --> TjCamtard:::txtsize
-TjCamtard:::txtsize --> CaaieyFasapyhPd:::txtsize
-TjCamtard:::txtsize --> CadaslfePi:::txtsize
-Tsdaaanr:::txtsize --> TcrroadcbeC:::txtsize
-TcrroadcbeC:::txtsize --> MoapnTghhtfa:::txtsize
-TcrroadcbeC:::txtsize --> Fgtaer:::txtsize
-
-Raomfltnius@{ shape: win-pane, label: "_UPDATED Mar 13, 2025, 10:04 AM_
+Raomfltnius@{ shape: win-pane, label: "_UPDATED Mar 13, 2025, 06:25 PM_
 Russia lays out demands for talks with us on ukraine, sources say" }
 DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
 'darkest hours of europe' as russia invades ukraine" }
@@ -72,25 +47,89 @@ Unecfusit:::txtsize --> DsruasvUn:::txtsize
 DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
 DsruasvUn:::txtsize --> Figokesnsts:::txtsize
 
-Unecfusit@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:55 PM_
-Ukraine accepts a ceasefire, but does russia want one?" }
-DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
-'darkest hours of europe' as russia invades ukraine" }
-Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
-Bloodshed and tears as eastern ukraine faces russian attack" }
-Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
-Fighting rages around ukraine as russia invades from three sides" }
-Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
-Fighting rages around ukraine as russia invades from three sides" }
-DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
-'darkest hours of europe' as russia invades ukraine" }
+UecIlnasevnG@{ shape: win-pane, label: "_UPDATED Mar 13, 2025, 07:56 PM_
+Un experts accuse israel of genocidal acts and sexual violence in gaza" }
+Adfaslfgro@{ shape: win-pane, label: "_UPDATED Feb 18, 2025, 11:05 AM_
+After 500 days of war, gazans see only ‘suffering, destruction’" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
+World in shock after hamas surprise attacks on israel" }
+Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
+Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
+Pezdsyeasarl@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:48 PM_
+People in gaza shed tears of joy, disbelief at news of ceasefire deal" }
+Ilamslorpdiaac@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:46 PM_
+Israel hostage families on roller coaster of hope and despair as gaza deal reached" }
+UfiavnacrWa@{ shape: win-pane, label: "_UPDATED Feb 13, 2025, 04:03 PM_
+Unicef decries soaring violence against children in west bank" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
+World in shock after hamas surprise attacks on israel" }
+Gonuchlelc@{ shape: win-pane, label: "_UPDATED Nov 12, 2024, 12:04 PM_
+Gaza ‘most dangerous place in the world to be a child’: unicef" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+HIleerahgenrr@{ shape: win-pane, label: "_UPDATED Nov 12, 2024, 11:51 AM_
+Hamas, israel agree to a deal for release of 50 hostages in exchange for 4-day truce" }
 
-Unecfusit:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
-Bsnranicsak:::txtsize --> Figokesnsts:::txtsize
-DsruasvUn:::txtsize --> Figokesnsts:::txtsize
-Figokesnsts:::txtsize --> DsruasvUn:::txtsize
+UecIlnasevnG:::txtsize --> Adfaslfgro:::txtsize
+Adfaslfgro:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Adfaslfgro:::txtsize --> Ilshedoooia:::txtsize
+Ilshedoooia:::txtsize --> Pezdsyeasarl:::txtsize
+Ilshedoooia:::txtsize --> Ilamslorpdiaac:::txtsize
+UecIlnasevnG:::txtsize --> UfiavnacrWa:::txtsize
+UfiavnacrWa:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+UfiavnacrWa:::txtsize --> Gonuchlelc:::txtsize
+Gonuchlelc:::txtsize --> NyeeawHakl:::txtsize
+Gonuchlelc:::txtsize --> HIleerahgenrr:::txtsize
+
+Tmtloweieuo@{ shape: win-pane, label: "_UPDATED Mar 13, 2025, 06:34 PM_
+Trump moves to roll back over two dozen us air, water regulations" }
+Baitresictlneiwa@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 04:15 PM_
+Biden administration proposes first limits on climate pollution from existing power plants" }
+Cdlridegctn@{ shape: win-pane, label: "_UPDATED Nov 02, 2021, 12:26 AM_
+Cop26: biden tells world us is ready to lead fight on climate change" }
+CnDCitkflwe@{ shape: win-pane, label: "_PUBLISHED Nov 01, 2021, 09:17 AM_
+Carbon copy: day 1 of cop26 climate talks kick off in gloomy weather" }
+Iaelracti@{ shape: win-pane, label: "_PUBLISHED Nov 01, 2021, 09:26 AM_
+Imf head urges cop26 leaders to ramp up climate ambition" }
+BsmlelCsngn@{ shape: win-pane, label: "_UPDATED Nov 22, 2024, 09:04 AM_
+Biden’s landmark climate bill lures china’s clean energy giants" }
+UasaBotaaugs@{ shape: win-pane, label: "_PUBLISHED Aug 08, 2022, 03:53 AM_
+Us senate passes major $594b bill to fight climate change, cut drug costs" }
+Umslaihhiwrn@{ shape: win-pane, label: "_PUBLISHED Aug 13, 2022, 06:22 AM_
+Us lawmakers pass landmark climate, health plan in big win for biden" }
+Drlklnnciise@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 10:52 PM_
+Democratic lawmakers slam pentagon for scrapping climate studies" }
+Twrrriamg@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 09:59 AM_
+Trump withdraws from paris climate agreement, again" }
+Tmlomhscedlaobria@{ shape: win-pane, label: "_PUBLISHED Dec 29, 2017, 10:07 AM_
+Trump makes light of climate change science, cites cold spell in us as proof global warming is a hoax" }
+Feuiea@{ shape: win-pane, label: "_UPDATED Nov 25, 2024, 10:29 AM_
+Feb 24, 2022: the day russia invaded ukraine" }
+
+Tmtloweieuo:::txtsize --> Baitresictlneiwa:::txtsize
+Baitresictlneiwa:::txtsize --> Cdlridegctn:::txtsize
+Cdlridegctn:::txtsize --> CnDCitkflwe:::txtsize
+Cdlridegctn:::txtsize --> Iaelracti:::txtsize
+Baitresictlneiwa:::txtsize --> BsmlelCsngn:::txtsize
+BsmlelCsngn:::txtsize --> UasaBotaaugs:::txtsize
+BsmlelCsngn:::txtsize --> Umslaihhiwrn:::txtsize
+Tmtloweieuo:::txtsize --> Drlklnnciise:::txtsize
+Drlklnnciise:::txtsize --> Twrrriamg:::txtsize
+Twrrriamg:::txtsize --> Tmlomhscedlaobria:::txtsize
+Twrrriamg:::txtsize --> Feuiea:::txtsize
 
 ```
-<i>Last updated: 2025-03-13 16:00:10.370086 (GMT+8)</i>
+<i>Last updated: 2025-03-13 20:00:31.241041 (GMT+8)</i>
 <!-- END -->
