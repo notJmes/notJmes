@@ -16,6 +16,89 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+PnsogrAcrstepmai@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 02:34 PM_
+Passengers stand on wing of burning american airlines jet at denver airport amid evacuation" }
+Medfmaljltlaathoe@{ shape: win-pane, label: "_UPDATED Jan 31, 2025, 05:21 PM_
+Many feared dead after american airlines jet, helicopter collide and crash into washington river" }
+Uuawniienthtoi@{ shape: win-pane, label: "_UPDATED Jan 31, 2025, 05:17 PM_
+Us figure skaters were on american airlines plane that crashed into potomac river" }
+Medfmaljltlaathoe@{ shape: win-pane, label: "_UPDATED Jan 31, 2025, 05:21 PM_
+Many feared dead after american airlines jet, helicopter collide and crash into washington river" }
+OhrtodsaennooBar@{ shape: win-pane, label: "_UPDATED Jan 30, 2025, 05:04 PM_
+‘open the door, open the door!’: how dozens fled an inferno on a plane in south korea’s busan airport" }
+UearDpfodnnjg@{ shape: win-pane, label: "_UPDATED Feb 18, 2025, 05:42 PM_
+‘upside down and burning’: delta plane flips on landing in toronto, injuring 18" }
+WnDistfimri@{ shape: win-pane, label: "_UPDATED Feb 05, 2025, 03:16 PM_
+Washington dc officials identify 66 of 67 victims of mid-air collision" }
+Nvspaltloag@{ shape: win-pane, label: "_UPDATED Jan 31, 2025, 06:49 AM_
+No survivors from plane and helicopter collision in washington" }
+WnaaefscpwoPae@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 08:55 AM_
+Washington air crash: crews lift first pieces of plane wreck out of potomac river" }
+Acwatesnarr@{ shape: win-pane, label: "_UPDATED Feb 15, 2025, 03:17 PM_
+Advanced new taiwan jet trainer crashes in setback for programme" }
+Tnsiriacshuasn@{ shape: win-pane, label: "_UPDATED Mar 22, 2021, 06:14 PM_
+Taiwan loses two fighter jets in apparent collision, third such crash in six months" }
+ApgoeeCsaiei@{ shape: win-pane, label: "_UPDATED Jan 08, 2025, 06:31 PM_
+A sharpening of swords: deciphering china’s taiwan military exercises" }
+
+PnsogrAcrstepmai:::txtsize --> Medfmaljltlaathoe:::txtsize
+Medfmaljltlaathoe:::txtsize --> Uuawniienthtoi:::txtsize
+Uuawniienthtoi:::txtsize --> Medfmaljltlaathoe:::txtsize
+Uuawniienthtoi:::txtsize --> OhrtodsaennooBar:::txtsize
+PnsogrAcrstepmai:::txtsize --> UearDpfodnnjg:::txtsize
+UearDpfodnnjg:::txtsize --> WnDistfimri:::txtsize
+WnDistfimri:::txtsize --> Nvspaltloag:::txtsize
+WnDistfimri:::txtsize --> WnaaefscpwoPae:::txtsize
+UearDpfodnnjg:::txtsize --> Acwatesnarr:::txtsize
+Acwatesnarr:::txtsize --> Tnsiriacshuasn:::txtsize
+Acwatesnarr:::txtsize --> ApgoeeCsaiei:::txtsize
+
+Cigarayol@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 12:14 PM_
+China is ‘laughing’ at us trade wars, says eu top diplomat" }
+Tttirferekr@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 11:16 AM_
+Trump threatens 200% wine tariff if eu does not remove whiskey tariff" }
+Trsfanneonsds@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 06:19 PM_
+Trump raises tariffs on aluminium and steel imports in latest trade war salvo" }
+Ttosauuinsdao@{ shape: win-pane, label: "_UPDATED Feb 10, 2025, 09:10 PM_
+Trump to announce 25% steel and aluminium tariffs in latest trade escalation" }
+Opmogiodet@{ shape: win-pane, label: "_UPDATED Feb 08, 2025, 05:26 AM_
+Open up! us comes knocking on asia’s door amid trade reset" }
+Tmsfafaioad@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 10:53 PM_
+Trump metals tariffs draw swift retaliation from canada and eu" }
+EmceinSsbtr@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 03:20 PM_
+Eu to impose counter tariffs on $38b in us goods from boats to bourbon" }
+AauuiaeaTpetei@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 03:18 PM_
+Australia rules out reciprocal move on us after trump proceeds with steel tariffs" }
+Tttirferekr@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 11:16 AM_
+Trump threatens 200% wine tariff if eu does not remove whiskey tariff" }
+Trsfanneonsds@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 06:19 PM_
+Trump raises tariffs on aluminium and steel imports in latest trade war salvo" }
+Ttosauuinsdao@{ shape: win-pane, label: "_UPDATED Feb 10, 2025, 09:10 PM_
+Trump to announce 25% steel and aluminium tariffs in latest trade escalation" }
+Opmogiodet@{ shape: win-pane, label: "_UPDATED Feb 08, 2025, 05:26 AM_
+Open up! us comes knocking on asia’s door amid trade reset" }
+Tmsfafaioad@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 10:53 PM_
+Trump metals tariffs draw swift retaliation from canada and eu" }
+EmceinSsbtr@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 03:20 PM_
+Eu to impose counter tariffs on $38b in us goods from boats to bourbon" }
+AauuiaeaTpetei@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 03:18 PM_
+Australia rules out reciprocal move on us after trump proceeds with steel tariffs" }
+
+Cigarayol:::txtsize --> Tttirferekr:::txtsize
+Tttirferekr:::txtsize --> Trsfanneonsds:::txtsize
+Trsfanneonsds:::txtsize --> Ttosauuinsdao:::txtsize
+Trsfanneonsds:::txtsize --> Opmogiodet:::txtsize
+Tttirferekr:::txtsize --> Tmsfafaioad:::txtsize
+Tmsfafaioad:::txtsize --> EmceinSsbtr:::txtsize
+Tmsfafaioad:::txtsize --> AauuiaeaTpetei:::txtsize
+Cigarayol:::txtsize --> Tttirferekr:::txtsize
+Tttirferekr:::txtsize --> Trsfanneonsds:::txtsize
+Trsfanneonsds:::txtsize --> Ttosauuinsdao:::txtsize
+Trsfanneonsds:::txtsize --> Opmogiodet:::txtsize
+Tttirferekr:::txtsize --> Tmsfafaioad:::txtsize
+Tmsfafaioad:::txtsize --> EmceinSsbtr:::txtsize
+Tmsfafaioad:::txtsize --> AauuiaeaTpetei:::txtsize
+
 Psscfdrierrk@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 11:48 AM_
 Putin suggests us ceasefire idea for ukraine needs serious reworking" }
 Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:46 AM_
@@ -55,90 +138,7 @@ Unecfusit:::txtsize --> DsruasvUn:::txtsize
 Zsatenasmose:::txtsize --> Psscfdrierrk:::txtsize
 Psscfdrierrk:::txtsize --> Zsatenasmose:::txtsize
 Psscfdrierrk:::txtsize --> Zsatenasmose:::txtsize
-
-Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:46 AM_
-Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
-Unecfusit@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:55 PM_
-Ukraine accepts a ceasefire, but does russia want one?" }
-DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
-'darkest hours of europe' as russia invades ukraine" }
-Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
-Bloodshed and tears as eastern ukraine faces russian attack" }
-Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
-Fighting rages around ukraine as russia invades from three sides" }
-Psscfdrierrk@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 11:48 AM_
-Putin suggests us ceasefire idea for ukraine needs serious reworking" }
-Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:46 AM_
-Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
-Unecfusit@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:55 PM_
-Ukraine accepts a ceasefire, but does russia want one?" }
-Psscfdrierrk@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 11:48 AM_
-Putin suggests us ceasefire idea for ukraine needs serious reworking" }
-Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:46 AM_
-Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
-Unecfusit@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:55 PM_
-Ukraine accepts a ceasefire, but does russia want one?" }
-Psscfdrierrk@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 11:48 AM_
-Putin suggests us ceasefire idea for ukraine needs serious reworking" }
-
-Zsatenasmose:::txtsize --> Unecfusit:::txtsize
-Unecfusit:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
-DsruasvUn:::txtsize --> Figokesnsts:::txtsize
-Zsatenasmose:::txtsize --> Psscfdrierrk:::txtsize
-Psscfdrierrk:::txtsize --> Zsatenasmose:::txtsize
-Zsatenasmose:::txtsize --> Unecfusit:::txtsize
-Zsatenasmose:::txtsize --> Psscfdrierrk:::txtsize
-Psscfdrierrk:::txtsize --> Zsatenasmose:::txtsize
-Zsatenasmose:::txtsize --> Unecfusit:::txtsize
-Zsatenasmose:::txtsize --> Psscfdrierrk:::txtsize
-
-JHnvtsotumton@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 09:25 AM_
-Johns hopkins university slashes 2,000 jobs after trump administration grant cut" }
-EurtooimlgtUtt@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 07:51 AM_
-Elon musk targets the closure of usaid; trump mulls merging it into us state dept" }
-Moasteyelueffari@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 06:13 PM_
-Musk now has access to vital treasury system, will give update on reform effort amid criticism" }
-MaGaytoeye@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 07:55 AM_
-Musk says doge is ‘rapidly shutting down’ treasury payments" }
-MStuamirnasg@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 09:51 PM_
-More usaid staff ousted as trump administration dismantles aid agency" }
-MStuamirnasg@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 09:51 PM_
-More usaid staff ousted as trump administration dismantles aid agency" }
-Uuoenidrpri@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 03:27 PM_
-Us issues broad freeze on foreign aid after trump orders review" }
-Ungseeafseugk@{ shape: win-pane, label: "_UPDATED Jan 30, 2025, 08:29 PM_
-Ukraine aid groups cut services, scramble for cash after us funding shock" }
-Uhiraisntrlaey@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 02:13 PM_
-Us authorities arrest palestinian student protester at columbia university" }
-Taitoedifaips@{ shape: win-pane, label: "_UPDATED Jan 30, 2025, 03:35 PM_
-Trump administration to cancel student visas of pro-palestinian protesters" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-TiosaanUvt@{ shape: win-pane, label: "_UPDATED May 03, 2024, 05:26 PM_
-Timeline: pro-palestinian encampments at us universities" }
-Amsreiusohpb@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 10:42 PM_
-As trump goes after universities, students are now on the chopping block" }
-Stdrruelaug@{ shape: win-pane, label: "_UPDATED Feb 09, 2025, 06:20 PM_
-Scientists deplore sharp us cut in medical research funding" }
-Tasgxrrtnsrafb@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 06:01 PM_
-Trump and musk target tax enforcers, rocket scientists, bank regulators for job cuts" }
-
-JHnvtsotumton:::txtsize --> EurtooimlgtUtt:::txtsize
-EurtooimlgtUtt:::txtsize --> Moasteyelueffari:::txtsize
-Moasteyelueffari:::txtsize --> MaGaytoeye:::txtsize
-Moasteyelueffari:::txtsize --> MStuamirnasg:::txtsize
-EurtooimlgtUtt:::txtsize --> MStuamirnasg:::txtsize
-MStuamirnasg:::txtsize --> Uuoenidrpri:::txtsize
-MStuamirnasg:::txtsize --> Ungseeafseugk:::txtsize
-JHnvtsotumton:::txtsize --> Uhiraisntrlaey:::txtsize
-Uhiraisntrlaey:::txtsize --> Taitoedifaips:::txtsize
-Taitoedifaips:::txtsize --> Sbsrcdnacaale:::txtsize
-Taitoedifaips:::txtsize --> TiosaanUvt:::txtsize
-Uhiraisntrlaey:::txtsize --> Amsreiusohpb:::txtsize
-Amsreiusohpb:::txtsize --> Stdrruelaug:::txtsize
-Amsreiusohpb:::txtsize --> Tasgxrrtnsrafb:::txtsize
 
 ```
-<i>Last updated: 2025-03-14 12:01:08.835427 (GMT+8)</i>
+<i>Last updated: 2025-03-14 16:00:30.103370 (GMT+8)</i>
 <!-- END -->
