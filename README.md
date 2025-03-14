@@ -16,6 +16,80 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Psscfdrierrk@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 07:25 PM_
+Putin suggests us ceasefire idea for ukraine needs serious reworking" }
+Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:43 PM_
+Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
+Unecfusit@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:55 PM_
+Ukraine accepts a ceasefire, but does russia want one?" }
+DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
+'darkest hours of europe' as russia invades ukraine" }
+Psscfdrierrk@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 07:25 PM_
+Putin suggests us ceasefire idea for ukraine needs serious reworking" }
+Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:43 PM_
+Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
+Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:43 PM_
+Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
+Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:43 PM_
+Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
+Unecfusit@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:55 PM_
+Ukraine accepts a ceasefire, but does russia want one?" }
+DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
+'darkest hours of europe' as russia invades ukraine" }
+Psscfdrierrk@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 07:25 PM_
+Putin suggests us ceasefire idea for ukraine needs serious reworking" }
+Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:43 PM_
+Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
+Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:43 PM_
+Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
+
+Psscfdrierrk:::txtsize --> Zsatenasmose:::txtsize
+Zsatenasmose:::txtsize --> Unecfusit:::txtsize
+Unecfusit:::txtsize --> DsruasvUn:::txtsize
+Zsatenasmose:::txtsize --> Psscfdrierrk:::txtsize
+Psscfdrierrk:::txtsize --> Zsatenasmose:::txtsize
+Psscfdrierrk:::txtsize --> Zsatenasmose:::txtsize
+Psscfdrierrk:::txtsize --> Zsatenasmose:::txtsize
+Zsatenasmose:::txtsize --> Unecfusit:::txtsize
+Unecfusit:::txtsize --> DsruasvUn:::txtsize
+Zsatenasmose:::txtsize --> Psscfdrierrk:::txtsize
+Psscfdrierrk:::txtsize --> Zsatenasmose:::txtsize
+Psscfdrierrk:::txtsize --> Zsatenasmose:::txtsize
+
+WTstmaoa@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 07:30 PM_
+Who is trump’s pick to be ambassador to singapore?" }
+TnanrrSaSpma@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 10:00 PM_
+Trump nominates entrepreneur anji sinha as his singapore ambassador" }
+Sponsalgemihne@{ shape: win-pane, label: "_UPDATED Jan 14, 2025, 08:43 PM_
+Singapore could end up as ‘collateral damage’ under trump 2.0 tariffs: chan heng chee" }
+Tttndahoetr@{ shape: win-pane, label: "_UPDATED Jan 14, 2025, 04:58 PM_
+Trump team studying gradual tariff hikes of 2% to 5% per month: sources" }
+TstlsSseitowip@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 07:56 PM_
+Trump’s erratic policies put us at risk of recession, but much of the world is prepared" }
+UcksinlTphaas@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 11:49 AM_
+Us stock market loses $5 trillion in value as trump ploughs ahead on tariffs" }
+TnanrrSaSpma@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 10:00 PM_
+Trump nominates entrepreneur anji sinha as his singapore ambassador" }
+Sponsalgemihne@{ shape: win-pane, label: "_UPDATED Jan 14, 2025, 08:43 PM_
+Singapore could end up as ‘collateral damage’ under trump 2.0 tariffs: chan heng chee" }
+Tttndahoetr@{ shape: win-pane, label: "_UPDATED Jan 14, 2025, 04:58 PM_
+Trump team studying gradual tariff hikes of 2% to 5% per month: sources" }
+TstlsSseitowip@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 07:56 PM_
+Trump’s erratic policies put us at risk of recession, but much of the world is prepared" }
+UcksinlTphaas@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 11:49 AM_
+Us stock market loses $5 trillion in value as trump ploughs ahead on tariffs" }
+
+WTstmaoa:::txtsize --> TnanrrSaSpma:::txtsize
+TnanrrSaSpma:::txtsize --> Sponsalgemihne:::txtsize
+Sponsalgemihne:::txtsize --> Tttndahoetr:::txtsize
+TnanrrSaSpma:::txtsize --> TstlsSseitowip:::txtsize
+TstlsSseitowip:::txtsize --> UcksinlTphaas:::txtsize
+WTstmaoa:::txtsize --> TnanrrSaSpma:::txtsize
+TnanrrSaSpma:::txtsize --> Sponsalgemihne:::txtsize
+Sponsalgemihne:::txtsize --> Tttndahoetr:::txtsize
+TnanrrSaSpma:::txtsize --> TstlsSseitowip:::txtsize
+TstlsSseitowip:::txtsize --> UcksinlTphaas:::txtsize
+
 PnsogrAcrstepmai@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 02:34 PM_
 Passengers stand on wing of burning american airlines jet at denver airport amid evacuation" }
 Medfmaljltlaathoe@{ shape: win-pane, label: "_UPDATED Jan 31, 2025, 05:21 PM_
@@ -53,92 +127,6 @@ UearDpfodnnjg:::txtsize --> Acwatesnarr:::txtsize
 Acwatesnarr:::txtsize --> Tnsiriacshuasn:::txtsize
 Acwatesnarr:::txtsize --> ApgoeeCsaiei:::txtsize
 
-Cigarayol@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 12:14 PM_
-China is ‘laughing’ at us trade wars, says eu top diplomat" }
-Tttirferekr@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 11:16 AM_
-Trump threatens 200% wine tariff if eu does not remove whiskey tariff" }
-Trsfanneonsds@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 06:19 PM_
-Trump raises tariffs on aluminium and steel imports in latest trade war salvo" }
-Ttosauuinsdao@{ shape: win-pane, label: "_UPDATED Feb 10, 2025, 09:10 PM_
-Trump to announce 25% steel and aluminium tariffs in latest trade escalation" }
-Opmogiodet@{ shape: win-pane, label: "_UPDATED Feb 08, 2025, 05:26 AM_
-Open up! us comes knocking on asia’s door amid trade reset" }
-Tmsfafaioad@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 10:53 PM_
-Trump metals tariffs draw swift retaliation from canada and eu" }
-EmceinSsbtr@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 03:20 PM_
-Eu to impose counter tariffs on $38b in us goods from boats to bourbon" }
-AauuiaeaTpetei@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 03:18 PM_
-Australia rules out reciprocal move on us after trump proceeds with steel tariffs" }
-Tttirferekr@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 11:16 AM_
-Trump threatens 200% wine tariff if eu does not remove whiskey tariff" }
-Trsfanneonsds@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 06:19 PM_
-Trump raises tariffs on aluminium and steel imports in latest trade war salvo" }
-Ttosauuinsdao@{ shape: win-pane, label: "_UPDATED Feb 10, 2025, 09:10 PM_
-Trump to announce 25% steel and aluminium tariffs in latest trade escalation" }
-Opmogiodet@{ shape: win-pane, label: "_UPDATED Feb 08, 2025, 05:26 AM_
-Open up! us comes knocking on asia’s door amid trade reset" }
-Tmsfafaioad@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 10:53 PM_
-Trump metals tariffs draw swift retaliation from canada and eu" }
-EmceinSsbtr@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 03:20 PM_
-Eu to impose counter tariffs on $38b in us goods from boats to bourbon" }
-AauuiaeaTpetei@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 03:18 PM_
-Australia rules out reciprocal move on us after trump proceeds with steel tariffs" }
-
-Cigarayol:::txtsize --> Tttirferekr:::txtsize
-Tttirferekr:::txtsize --> Trsfanneonsds:::txtsize
-Trsfanneonsds:::txtsize --> Ttosauuinsdao:::txtsize
-Trsfanneonsds:::txtsize --> Opmogiodet:::txtsize
-Tttirferekr:::txtsize --> Tmsfafaioad:::txtsize
-Tmsfafaioad:::txtsize --> EmceinSsbtr:::txtsize
-Tmsfafaioad:::txtsize --> AauuiaeaTpetei:::txtsize
-Cigarayol:::txtsize --> Tttirferekr:::txtsize
-Tttirferekr:::txtsize --> Trsfanneonsds:::txtsize
-Trsfanneonsds:::txtsize --> Ttosauuinsdao:::txtsize
-Trsfanneonsds:::txtsize --> Opmogiodet:::txtsize
-Tttirferekr:::txtsize --> Tmsfafaioad:::txtsize
-Tmsfafaioad:::txtsize --> EmceinSsbtr:::txtsize
-Tmsfafaioad:::txtsize --> AauuiaeaTpetei:::txtsize
-
-Psscfdrierrk@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 11:48 AM_
-Putin suggests us ceasefire idea for ukraine needs serious reworking" }
-Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:46 AM_
-Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
-Unecfusit@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:55 PM_
-Ukraine accepts a ceasefire, but does russia want one?" }
-DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
-'darkest hours of europe' as russia invades ukraine" }
-Psscfdrierrk@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 11:48 AM_
-Putin suggests us ceasefire idea for ukraine needs serious reworking" }
-Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:46 AM_
-Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
-Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:46 AM_
-Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
-Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:46 AM_
-Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
-Unecfusit@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:55 PM_
-Ukraine accepts a ceasefire, but does russia want one?" }
-DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
-'darkest hours of europe' as russia invades ukraine" }
-Psscfdrierrk@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 11:48 AM_
-Putin suggests us ceasefire idea for ukraine needs serious reworking" }
-Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:46 AM_
-Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
-Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:46 AM_
-Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
-
-Psscfdrierrk:::txtsize --> Zsatenasmose:::txtsize
-Zsatenasmose:::txtsize --> Unecfusit:::txtsize
-Unecfusit:::txtsize --> DsruasvUn:::txtsize
-Zsatenasmose:::txtsize --> Psscfdrierrk:::txtsize
-Psscfdrierrk:::txtsize --> Zsatenasmose:::txtsize
-Psscfdrierrk:::txtsize --> Zsatenasmose:::txtsize
-Psscfdrierrk:::txtsize --> Zsatenasmose:::txtsize
-Zsatenasmose:::txtsize --> Unecfusit:::txtsize
-Unecfusit:::txtsize --> DsruasvUn:::txtsize
-Zsatenasmose:::txtsize --> Psscfdrierrk:::txtsize
-Psscfdrierrk:::txtsize --> Zsatenasmose:::txtsize
-Psscfdrierrk:::txtsize --> Zsatenasmose:::txtsize
-
 ```
-<i>Last updated: 2025-03-14 16:00:30.103370 (GMT+8)</i>
+<i>Last updated: 2025-03-14 20:00:50.152314 (GMT+8)</i>
 <!-- END -->
