@@ -16,64 +16,48 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tttirferekr@{ shape: win-pane, label: "_UPDATED Mar 13, 2025, 09:16 PM_
-Trump threatens 200% wine tariff if eu does not remove whiskey tariff" }
-Trsfanneonsds@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 06:19 PM_
-Trump raises tariffs on aluminium and steel imports in latest trade war salvo" }
-Ttosauuinsdao@{ shape: win-pane, label: "_UPDATED Feb 10, 2025, 09:10 PM_
-Trump to announce 25% steel and aluminium tariffs in latest trade escalation" }
-Opmogiodet@{ shape: win-pane, label: "_UPDATED Feb 08, 2025, 05:26 AM_
-Open up! us comes knocking on asia’s door amid trade reset" }
-MolneasUnirto@{ shape: win-pane, label: "_UPDATED Feb 10, 2025, 07:20 AM_
-More volatility in store for markets amid us-china tariff war, gaza tensions" }
-Opmogiodet@{ shape: win-pane, label: "_UPDATED Feb 08, 2025, 05:26 AM_
-Open up! us comes knocking on asia’s door amid trade reset" }
-Tlharsiroinnn@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 10:59 PM_
-Trump launches trade war with sweeping tariffs on mexico, canada and china" }
-Bnprflthoeeptik@{ shape: win-pane, label: "_PUBLISHED Feb 02, 2025, 08:14 PM_
-Beijing keeps door open for talks with washington in measured response to tariff hike" }
-Tmsfafaioad@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 10:53 PM_
-Trump metals tariffs draw swift retaliation from canada and eu" }
-EmceinSsbtr@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 03:20 PM_
-Eu to impose counter tariffs on $38b in us goods from boats to bourbon" }
-Uienrrachhn@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 11:05 AM_
-Us businesses sound alarm as trump tariff chaos hits the economy" }
-UaarsTdeartaf@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 02:55 PM_
-Us-canada trade war heats up as trump doubles metals tariffs, then backs off" }
-AauuiaeaTpetei@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 03:18 PM_
-Australia rules out reciprocal move on us after trump proceeds with steel tariffs" }
-Wungasedi@{ shape: win-pane, label: "_UPDATED Feb 12, 2025, 08:36 AM_
-Why trump wants higher tariffs on steel and aluminium" }
-Aaooneicsomr@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 09:16 PM_
-Australia looks to asian markets as it braces itself for trump’s tariffs" }
-
-Tttirferekr:::txtsize --> Trsfanneonsds:::txtsize
-Trsfanneonsds:::txtsize --> Ttosauuinsdao:::txtsize
-Ttosauuinsdao:::txtsize --> Opmogiodet:::txtsize
-Ttosauuinsdao:::txtsize --> MolneasUnirto:::txtsize
-Trsfanneonsds:::txtsize --> Opmogiodet:::txtsize
-Opmogiodet:::txtsize --> Tlharsiroinnn:::txtsize
-Opmogiodet:::txtsize --> Bnprflthoeeptik:::txtsize
-Tttirferekr:::txtsize --> Tmsfafaioad:::txtsize
-Tmsfafaioad:::txtsize --> EmceinSsbtr:::txtsize
-EmceinSsbtr:::txtsize --> Uienrrachhn:::txtsize
-EmceinSsbtr:::txtsize --> UaarsTdeartaf:::txtsize
-Tmsfafaioad:::txtsize --> AauuiaeaTpetei:::txtsize
-AauuiaeaTpetei:::txtsize --> Wungasedi:::txtsize
-AauuiaeaTpetei:::txtsize --> Aaooneicsomr:::txtsize
-
-Raomfltnius@{ shape: win-pane, label: "_UPDATED Mar 13, 2025, 06:25 PM_
-Russia lays out demands for talks with us on ukraine, sources say" }
+Psscfdrierrk@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 11:48 AM_
+Putin suggests us ceasefire idea for ukraine needs serious reworking" }
+Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:46 AM_
+Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
+Unecfusit@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:55 PM_
+Ukraine accepts a ceasefire, but does russia want one?" }
 DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
 'darkest hours of europe' as russia invades ukraine" }
-Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
-Bloodshed and tears as eastern ukraine faces russian attack" }
-Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
-Fighting rages around ukraine as russia invades from three sides" }
-Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
-Fighting rages around ukraine as russia invades from three sides" }
+Psscfdrierrk@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 11:48 AM_
+Putin suggests us ceasefire idea for ukraine needs serious reworking" }
+Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:46 AM_
+Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
+Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:46 AM_
+Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
+Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:46 AM_
+Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
+Unecfusit@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:55 PM_
+Ukraine accepts a ceasefire, but does russia want one?" }
 DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
 'darkest hours of europe' as russia invades ukraine" }
+Psscfdrierrk@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 11:48 AM_
+Putin suggests us ceasefire idea for ukraine needs serious reworking" }
+Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:46 AM_
+Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
+Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:46 AM_
+Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
+
+Psscfdrierrk:::txtsize --> Zsatenasmose:::txtsize
+Zsatenasmose:::txtsize --> Unecfusit:::txtsize
+Unecfusit:::txtsize --> DsruasvUn:::txtsize
+Zsatenasmose:::txtsize --> Psscfdrierrk:::txtsize
+Psscfdrierrk:::txtsize --> Zsatenasmose:::txtsize
+Psscfdrierrk:::txtsize --> Zsatenasmose:::txtsize
+Psscfdrierrk:::txtsize --> Zsatenasmose:::txtsize
+Zsatenasmose:::txtsize --> Unecfusit:::txtsize
+Unecfusit:::txtsize --> DsruasvUn:::txtsize
+Zsatenasmose:::txtsize --> Psscfdrierrk:::txtsize
+Psscfdrierrk:::txtsize --> Zsatenasmose:::txtsize
+Psscfdrierrk:::txtsize --> Zsatenasmose:::txtsize
+
+Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:46 AM_
+Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
 Unecfusit@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:55 PM_
 Ukraine accepts a ceasefire, but does russia want one?" }
 DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
@@ -82,60 +66,79 @@ Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
 Bloodshed and tears as eastern ukraine faces russian attack" }
 Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
 Fighting rages around ukraine as russia invades from three sides" }
+Psscfdrierrk@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 11:48 AM_
+Putin suggests us ceasefire idea for ukraine needs serious reworking" }
+Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:46 AM_
+Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
+Unecfusit@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:55 PM_
+Ukraine accepts a ceasefire, but does russia want one?" }
+Psscfdrierrk@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 11:48 AM_
+Putin suggests us ceasefire idea for ukraine needs serious reworking" }
+Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:46 AM_
+Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
+Unecfusit@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:55 PM_
+Ukraine accepts a ceasefire, but does russia want one?" }
+Psscfdrierrk@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 11:48 AM_
+Putin suggests us ceasefire idea for ukraine needs serious reworking" }
 
-Raomfltnius:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
-Bsnranicsak:::txtsize --> Figokesnsts:::txtsize
-DsruasvUn:::txtsize --> Figokesnsts:::txtsize
-Figokesnsts:::txtsize --> DsruasvUn:::txtsize
-Raomfltnius:::txtsize --> Unecfusit:::txtsize
+Zsatenasmose:::txtsize --> Unecfusit:::txtsize
 Unecfusit:::txtsize --> DsruasvUn:::txtsize
 DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
 DsruasvUn:::txtsize --> Figokesnsts:::txtsize
+Zsatenasmose:::txtsize --> Psscfdrierrk:::txtsize
+Psscfdrierrk:::txtsize --> Zsatenasmose:::txtsize
+Zsatenasmose:::txtsize --> Unecfusit:::txtsize
+Zsatenasmose:::txtsize --> Psscfdrierrk:::txtsize
+Psscfdrierrk:::txtsize --> Zsatenasmose:::txtsize
+Zsatenasmose:::txtsize --> Unecfusit:::txtsize
+Zsatenasmose:::txtsize --> Psscfdrierrk:::txtsize
 
-Rayspiaoaiala@{ shape: win-pane, label: "_UPDATED Mar 13, 2025, 07:36 PM_
-Russia ready to discuss peace initiative on ukraine with us as early as march 13" }
-WsSoaaeiau@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 08:09 PM_
-What is the us-proposed 30-day ukraine ceasefire deal about?" }
-Tfrsmawrmndlna@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:41 PM_
-Text of us-ukraine statement paving way for resumption of aid, intelligence sharing" }
-UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
-Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
-UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
-Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
-TmePtelyoWH@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 04:41 PM_
-Trump may speak to putin this week, zelensky welcome at white house" }
-UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
-Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-Unsiweceam@{ shape: win-pane, label: "_UPDATED Mar 13, 2025, 04:22 PM_
-Ukraine says russia blew up teens recruited to make bombs" }
-Unecfusit@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:55 PM_
-Ukraine accepts a ceasefire, but does russia want one?" }
-DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
-'darkest hours of europe' as russia invades ukraine" }
-UnlycrcfSsese@{ shape: win-pane, label: "_UPDATED Mar 13, 2025, 06:05 PM_
-Ukraine’s zelensky expects ‘strong’ action from us if russia refuses truce" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-Unecfusit@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:55 PM_
-Ukraine accepts a ceasefire, but does russia want one?" }
+JHnvtsotumton@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 09:25 AM_
+Johns hopkins university slashes 2,000 jobs after trump administration grant cut" }
+EurtooimlgtUtt@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 07:51 AM_
+Elon musk targets the closure of usaid; trump mulls merging it into us state dept" }
+Moasteyelueffari@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 06:13 PM_
+Musk now has access to vital treasury system, will give update on reform effort amid criticism" }
+MaGaytoeye@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 07:55 AM_
+Musk says doge is ‘rapidly shutting down’ treasury payments" }
+MStuamirnasg@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 09:51 PM_
+More usaid staff ousted as trump administration dismantles aid agency" }
+MStuamirnasg@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 09:51 PM_
+More usaid staff ousted as trump administration dismantles aid agency" }
+Uuoenidrpri@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 03:27 PM_
+Us issues broad freeze on foreign aid after trump orders review" }
+Ungseeafseugk@{ shape: win-pane, label: "_UPDATED Jan 30, 2025, 08:29 PM_
+Ukraine aid groups cut services, scramble for cash after us funding shock" }
+Uhiraisntrlaey@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 02:13 PM_
+Us authorities arrest palestinian student protester at columbia university" }
+Taitoedifaips@{ shape: win-pane, label: "_UPDATED Jan 30, 2025, 03:35 PM_
+Trump administration to cancel student visas of pro-palestinian protesters" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+TiosaanUvt@{ shape: win-pane, label: "_UPDATED May 03, 2024, 05:26 PM_
+Timeline: pro-palestinian encampments at us universities" }
+Amsreiusohpb@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 10:42 PM_
+As trump goes after universities, students are now on the chopping block" }
+Stdrruelaug@{ shape: win-pane, label: "_UPDATED Feb 09, 2025, 06:20 PM_
+Scientists deplore sharp us cut in medical research funding" }
+Tasgxrrtnsrafb@{ shape: win-pane, label: "_UPDATED Feb 19, 2025, 06:01 PM_
+Trump and musk target tax enforcers, rocket scientists, bank regulators for job cuts" }
 
-Rayspiaoaiala:::txtsize --> WsSoaaeiau:::txtsize
-WsSoaaeiau:::txtsize --> Tfrsmawrmndlna:::txtsize
-Tfrsmawrmndlna:::txtsize --> UneSoocfnis:::txtsize
-Tfrsmawrmndlna:::txtsize --> UneSoocfnis:::txtsize
-WsSoaaeiau:::txtsize --> TmePtelyoWH:::txtsize
-TmePtelyoWH:::txtsize --> UneSoocfnis:::txtsize
-TmePtelyoWH:::txtsize --> Unlyphaiogh:::txtsize
-Rayspiaoaiala:::txtsize --> Unsiweceam:::txtsize
-Unsiweceam:::txtsize --> Unecfusit:::txtsize
-Unecfusit:::txtsize --> DsruasvUn:::txtsize
-Unsiweceam:::txtsize --> UnlycrcfSsese:::txtsize
-UnlycrcfSsese:::txtsize --> Unlyphaiogh:::txtsize
-UnlycrcfSsese:::txtsize --> Unecfusit:::txtsize
+JHnvtsotumton:::txtsize --> EurtooimlgtUtt:::txtsize
+EurtooimlgtUtt:::txtsize --> Moasteyelueffari:::txtsize
+Moasteyelueffari:::txtsize --> MaGaytoeye:::txtsize
+Moasteyelueffari:::txtsize --> MStuamirnasg:::txtsize
+EurtooimlgtUtt:::txtsize --> MStuamirnasg:::txtsize
+MStuamirnasg:::txtsize --> Uuoenidrpri:::txtsize
+MStuamirnasg:::txtsize --> Ungseeafseugk:::txtsize
+JHnvtsotumton:::txtsize --> Uhiraisntrlaey:::txtsize
+Uhiraisntrlaey:::txtsize --> Taitoedifaips:::txtsize
+Taitoedifaips:::txtsize --> Sbsrcdnacaale:::txtsize
+Taitoedifaips:::txtsize --> TiosaanUvt:::txtsize
+Uhiraisntrlaey:::txtsize --> Amsreiusohpb:::txtsize
+Amsreiusohpb:::txtsize --> Stdrruelaug:::txtsize
+Amsreiusohpb:::txtsize --> Tasgxrrtnsrafb:::txtsize
 
 ```
-<i>Last updated: 2025-03-14 08:00:50.955746 (GMT+8)</i>
+<i>Last updated: 2025-03-14 12:01:08.835427 (GMT+8)</i>
 <!-- END -->
