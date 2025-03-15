@@ -16,8 +16,8 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-ATrsislUnoKlfsn@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 08:20 AM_
-After trump request, putin says he will let ukraine troops in kursk live if they surrender" }
+AmqPselraoKlfsn@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 06:19 PM_
+At trump’s request, putin says he will let ukrainian troops in kursk live if they surrender" }
 Thpctwuaswtaon@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 06:35 AM_
 Trump hails ‘productive’ talks with putin, says russia’s war with ukraine could end" }
 Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:43 PM_
@@ -45,14 +45,14 @@ Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
 TsuUnseeritot@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 10:18 PM_
 Trump says putin’s ukraine ceasefire comments ‘promising’ but not ‘complete’" }
 
-ATrsislUnoKlfsn:::txtsize --> Thpctwuaswtaon:::txtsize
+AmqPselraoKlfsn:::txtsize --> Thpctwuaswtaon:::txtsize
 Thpctwuaswtaon:::txtsize --> Zsatenasmose:::txtsize
 Zsatenasmose:::txtsize --> Unecfusit:::txtsize
 Zsatenasmose:::txtsize --> Thpctwuaswtaon:::txtsize
 Thpctwuaswtaon:::txtsize --> TsuUnseeritot:::txtsize
 TsuUnseeritot:::txtsize --> Thpctwuaswtaon:::txtsize
 TsuUnseeritot:::txtsize --> Unecfusit:::txtsize
-ATrsislUnoKlfsn:::txtsize --> Zsatenasmose:::txtsize
+AmqPselraoKlfsn:::txtsize --> Zsatenasmose:::txtsize
 Zsatenasmose:::txtsize --> Unecfusit:::txtsize
 Unecfusit:::txtsize --> DsruasvUn:::txtsize
 Zsatenasmose:::txtsize --> Thpctwuaswtaon:::txtsize
@@ -125,5 +125,5 @@ Ueurairede:::txtsize --> Gifakhinabe:::txtsize
 Ueurairede:::txtsize --> UtanueunWnfse:::txtsize
 
 ```
-<i>Last updated: 2025-03-15 16:00:42.534075 (GMT+8)</i>
+<i>Last updated: 2025-03-15 20:01:04.815862 (GMT+8)</i>
 <!-- END -->
