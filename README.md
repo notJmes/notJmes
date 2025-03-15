@@ -87,52 +87,43 @@ Soeoenssfseee:::txtsize --> Unhilsorceite:::txtsize
 Unhilsorceite:::txtsize --> Koiswaoroeg:::txtsize
 Unhilsorceite:::txtsize --> RairsengiUnern:::txtsize
 
-GeiisRpndo@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 08:26 AM_
-G-7 allies avoid divisions with rubio playing ‘good guy’ role" }
-CaiaRaroeol@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 03:14 PM_
-Canada rallies against russian ‘aggression’ as new us tone splits g-7" }
-TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
-Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
-MoapnTghhtfa@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 11:24 PM_
-Mexico has backup plan in case trump goes through with tariff threat" }
-Fgtaer@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:07 AM_
-Facing up to the realities of trump 2.0" }
-TjCamtard@{ shape: win-pane, label: "_UPDATED Dec 19, 2024, 05:00 PM_
-Trump jokes canada becoming 51st us state ‘a great idea’" }
-CaaieyFasapyhPd@{ shape: win-pane, label: "_UPDATED Dec 16, 2024, 11:36 PM_
-Canada’s finance minister chrystia freeland resigns after policy clash with pm trudeau" }
-CadaslfePi@{ shape: win-pane, label: "_UPDATED Dec 18, 2024, 06:58 PM_
-Canada’s trudeau battles to hold on after deputy pm resigns" }
-UntttneeyeaSMR@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 02:50 PM_
-Ukraine must cede territory in any peace deal, says us secretary of state marco rubio" }
-UnreecSsuyi@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 11:52 PM_
-Ukraine to propose sky, sea truce at us talks in saudi, says official" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-UslnridrrRae@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 03:45 PM_
-Us cuts intelligence for ukraine, adding pressure for russia peace deal" }
-ZsSAavsfrpt@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 03:23 PM_
-Zelensky in saudi arabia as us voices hope for ukraine peace talks" }
-UnreecSsuyi@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 11:52 PM_
-Ukraine to propose sky, sea truce at us talks in saudi, says official" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
+Tosifanidofia@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 03:25 PM_
+Trump orders gutting of 7 federal agencies, including voice of america’s parent" }
+Ueurairede@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 03:56 AM_
+Us federal judge orders agencies to rehire fired workers" }
+Gifakhinabe@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 04:02 AM_
+‘grieving’: us federal workers thrown into uncertain job market" }
+Uwrgyeasuaaura@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 06:29 PM_
+Usaid workers say goodbye to headquarters as trump drastically cuts foreign aid" }
+Uwrgyeasuaaura@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 06:29 PM_
+Usaid workers say goodbye to headquarters as trump drastically cuts foreign aid" }
+UtanueunWnfse@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:50 PM_
+Us lists department of justice, fbi buildings in washington for possible sale" }
+Tgaadmiwrpe@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 07:10 AM_
+Trump govt walks back order to mass fire new federal employees" }
+Uleapeafrte@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 03:14 PM_
+Us health agency says employees can apply for early retirement" }
+WHltsahlfenstcp@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 08:03 PM_
+White house looks to press ahead with mass layoffs after agencies submit reduction plans" }
+Ueurairede@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 03:56 AM_
+Us federal judge orders agencies to rehire fired workers" }
+Gifakhinabe@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 04:02 AM_
+‘grieving’: us federal workers thrown into uncertain job market" }
+UtanueunWnfse@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:50 PM_
+Us lists department of justice, fbi buildings in washington for possible sale" }
 
-GeiisRpndo:::txtsize --> CaiaRaroeol:::txtsize
-CaiaRaroeol:::txtsize --> TcrroadcbeC:::txtsize
-TcrroadcbeC:::txtsize --> MoapnTghhtfa:::txtsize
-TcrroadcbeC:::txtsize --> Fgtaer:::txtsize
-CaiaRaroeol:::txtsize --> TjCamtard:::txtsize
-TjCamtard:::txtsize --> CaaieyFasapyhPd:::txtsize
-TjCamtard:::txtsize --> CadaslfePi:::txtsize
-GeiisRpndo:::txtsize --> UntttneeyeaSMR:::txtsize
-UntttneeyeaSMR:::txtsize --> UnreecSsuyi:::txtsize
-UnreecSsuyi:::txtsize --> Unlyphaiogh:::txtsize
-UnreecSsuyi:::txtsize --> UslnridrrRae:::txtsize
-UntttneeyeaSMR:::txtsize --> ZsSAavsfrpt:::txtsize
-ZsSAavsfrpt:::txtsize --> UnreecSsuyi:::txtsize
-ZsSAavsfrpt:::txtsize --> Unlyphaiogh:::txtsize
+Tosifanidofia:::txtsize --> Ueurairede:::txtsize
+Ueurairede:::txtsize --> Gifakhinabe:::txtsize
+Gifakhinabe:::txtsize --> Uwrgyeasuaaura:::txtsize
+Gifakhinabe:::txtsize --> Uwrgyeasuaaura:::txtsize
+Ueurairede:::txtsize --> UtanueunWnfse:::txtsize
+UtanueunWnfse:::txtsize --> Tgaadmiwrpe:::txtsize
+UtanueunWnfse:::txtsize --> Uleapeafrte:::txtsize
+Tosifanidofia:::txtsize --> WHltsahlfenstcp:::txtsize
+WHltsahlfenstcp:::txtsize --> Ueurairede:::txtsize
+Ueurairede:::txtsize --> Gifakhinabe:::txtsize
+Ueurairede:::txtsize --> UtanueunWnfse:::txtsize
 
 ```
-<i>Last updated: 2025-03-15 12:00:18.975341 (GMT+8)</i>
+<i>Last updated: 2025-03-15 16:00:42.534075 (GMT+8)</i>
 <!-- END -->
