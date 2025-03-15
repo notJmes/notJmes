@@ -16,8 +16,22 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+ATrsislUnoKlfsn@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 08:20 AM_
+After trump request, putin says he will let ukraine troops in kursk live if they surrender" }
 Thpctwuaswtaon@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 06:35 AM_
 Trump hails ‘productive’ talks with putin, says russia’s war with ukraine could end" }
+Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:43 PM_
+Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
+Unecfusit@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:55 PM_
+Ukraine accepts a ceasefire, but does russia want one?" }
+Thpctwuaswtaon@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 06:35 AM_
+Trump hails ‘productive’ talks with putin, says russia’s war with ukraine could end" }
+TsuUnseeritot@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 10:18 PM_
+Trump says putin’s ukraine ceasefire comments ‘promising’ but not ‘complete’" }
+Thpctwuaswtaon@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 06:35 AM_
+Trump hails ‘productive’ talks with putin, says russia’s war with ukraine could end" }
+Unecfusit@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:55 PM_
+Ukraine accepts a ceasefire, but does russia want one?" }
 Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:43 PM_
 Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
 Unecfusit@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:55 PM_
@@ -30,109 +44,95 @@ Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:43 PM_
 Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
 TsuUnseeritot@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 10:18 PM_
 Trump says putin’s ukraine ceasefire comments ‘promising’ but not ‘complete’" }
-TsuUnseeritot@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 10:18 PM_
-Trump says putin’s ukraine ceasefire comments ‘promising’ but not ‘complete’" }
-Thpctwuaswtaon@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 06:35 AM_
-Trump hails ‘productive’ talks with putin, says russia’s war with ukraine could end" }
-Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:43 PM_
-Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
-TsuUnseeritot@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 10:18 PM_
-Trump says putin’s ukraine ceasefire comments ‘promising’ but not ‘complete’" }
-Unecfusit@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:55 PM_
-Ukraine accepts a ceasefire, but does russia want one?" }
-DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
-'darkest hours of europe' as russia invades ukraine" }
 
+ATrsislUnoKlfsn:::txtsize --> Thpctwuaswtaon:::txtsize
 Thpctwuaswtaon:::txtsize --> Zsatenasmose:::txtsize
+Zsatenasmose:::txtsize --> Unecfusit:::txtsize
+Zsatenasmose:::txtsize --> Thpctwuaswtaon:::txtsize
+Thpctwuaswtaon:::txtsize --> TsuUnseeritot:::txtsize
+TsuUnseeritot:::txtsize --> Thpctwuaswtaon:::txtsize
+TsuUnseeritot:::txtsize --> Unecfusit:::txtsize
+ATrsislUnoKlfsn:::txtsize --> Zsatenasmose:::txtsize
 Zsatenasmose:::txtsize --> Unecfusit:::txtsize
 Unecfusit:::txtsize --> DsruasvUn:::txtsize
 Zsatenasmose:::txtsize --> Thpctwuaswtaon:::txtsize
 Thpctwuaswtaon:::txtsize --> Zsatenasmose:::txtsize
 Thpctwuaswtaon:::txtsize --> TsuUnseeritot:::txtsize
-Thpctwuaswtaon:::txtsize --> TsuUnseeritot:::txtsize
-TsuUnseeritot:::txtsize --> Thpctwuaswtaon:::txtsize
-Thpctwuaswtaon:::txtsize --> Zsatenasmose:::txtsize
-Thpctwuaswtaon:::txtsize --> TsuUnseeritot:::txtsize
-TsuUnseeritot:::txtsize --> Unecfusit:::txtsize
-Unecfusit:::txtsize --> DsruasvUn:::txtsize
 
-Hnsodknslerr@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 08:55 PM_
-How many eggs can you send? us asks countries to help lower soaring prices" }
-DhsespesrrenPsgn@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 11:16 PM_
-Danish minister rebuffs trump who repeats desire to grab greenland; its pm says ‘enough is enough’" }
-TralenTsil@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 06:28 AM_
-The world as a jungle – understanding trump’s foreign policy" }
-TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
-Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-GlhsuseeastasT@{ shape: win-pane, label: "_UPDATED Mar 13, 2025, 06:52 PM_
-Greenland chooses pro-business, independence parties, in potential boost for trump" }
-Glropnpe@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 03:51 PM_
-Greenland’s road to independence explained" }
-Gliecdsntmunpe@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:18 PM_
-Greenland’s independence gradualists win election amid trump control pledge" }
-Fghgrscemo@{ shape: win-pane, label: "_UPDATED Feb 13, 2025, 10:51 PM_
-Facing egg shortage, americans take chickens home to roost" }
-Woabllgta@{ shape: win-pane, label: "_UPDATED Jan 07, 2025, 03:19 PM_
-What to know about bird flu following first us death" }
-Liestfldi@{ shape: win-pane, label: "_UPDATED Jan 07, 2025, 08:28 PM_
-Louisiana reports first bird flu-related death in us" }
-Liestfldi@{ shape: win-pane, label: "_UPDATED Jan 07, 2025, 08:28 PM_
-Louisiana reports first bird flu-related death in us" }
-EoentUtnteih@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 11:39 PM_
-Egg shortages are now hitting us restaurants, with no relief in sight" }
-Knyiurhuiea@{ shape: win-pane, label: "_UPDATED Feb 01, 2025, 09:28 PM_
-Keeping an eye on bird flu outbreak that could quickly escalate" }
-Ertmrthxhtntds@{ shape: win-pane, label: "_UPDATED Apr 25, 2024, 04:15 PM_
-Eggs are getting smaller as extreme heat exacts heavy toll on poultry and livestock" }
+RaicsnmyrUb@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 01:51 AM_
+Russia ‘committed crimes against humanity’ in ukraine: un probe" }
+Unsitforhre@{ shape: win-pane, label: "_UPDATED Nov 26, 2024, 11:19 PM_
+Ukraine says russia shot dead five soldiers who had surrendered" }
+Unieteiotms@{ shape: win-pane, label: "_UPDATED Nov 26, 2024, 04:13 PM_
+Ukraine’s kyiv under multi-wave russian drone attacks, mayor says" }
+Rannifstanawyy@{ shape: win-pane, label: "_UPDATED Nov 26, 2024, 08:16 PM_
+Russia advances in ukraine at fastest monthly pace since start of war, say analysts" }
+Eihkbkesdsiu@{ shape: win-pane, label: "_UPDATED Aug 14, 2024, 11:44 AM_
+Explainer: what to know about ukraine’s cross-border assault into russia" }
+Soeoenssfseee@{ shape: win-pane, label: "_UPDATED Nov 25, 2024, 12:07 PM_
+Scale of alleged torture, detentions by russian forces in kherson emerges" }
+Unhilsorceite@{ shape: win-pane, label: "_UPDATED Nov 26, 2024, 10:35 AM_
+Ukraine rights chief releases video of ‘torture chamber’ in liberated kherson" }
+Koiswaoroeg@{ shape: win-pane, label: "_UPDATED Nov 26, 2024, 10:19 AM_
+Kherson residents seek water and phone service on river's edge" }
+RairsengiUnern@{ shape: win-pane, label: "_PUBLISHED Nov 15, 2022, 09:24 PM_
+Russian administrators leave second-largest city in ukraine's kherson region" }
 
-Hnsodknslerr:::txtsize --> DhsespesrrenPsgn:::txtsize
-DhsespesrrenPsgn:::txtsize --> TralenTsil:::txtsize
-TralenTsil:::txtsize --> TalytnretaWHsit:::txtsize
-DhsespesrrenPsgn:::txtsize --> GlhsuseeastasT:::txtsize
-GlhsuseeastasT:::txtsize --> Glropnpe:::txtsize
-GlhsuseeastasT:::txtsize --> Gliecdsntmunpe:::txtsize
-Hnsodknslerr:::txtsize --> Fghgrscemo:::txtsize
-Fghgrscemo:::txtsize --> Woabllgta:::txtsize
-Woabllgta:::txtsize --> Liestfldi:::txtsize
-Woabllgta:::txtsize --> Liestfldi:::txtsize
-Fghgrscemo:::txtsize --> EoentUtnteih:::txtsize
-EoentUtnteih:::txtsize --> Knyiurhuiea:::txtsize
-EoentUtnteih:::txtsize --> Ertmrthxhtntds:::txtsize
+RaicsnmyrUb:::txtsize --> Unsitforhre:::txtsize
+Unsitforhre:::txtsize --> Unieteiotms:::txtsize
+Unsitforhre:::txtsize --> Rannifstanawyy:::txtsize
+Rannifstanawyy:::txtsize --> Eihkbkesdsiu:::txtsize
+RaicsnmyrUb:::txtsize --> Soeoenssfseee:::txtsize
+Soeoenssfseee:::txtsize --> Unhilsorceite:::txtsize
+Unhilsorceite:::txtsize --> Koiswaoroeg:::txtsize
+Unhilsorceite:::txtsize --> RairsengiUnern:::txtsize
 
-WAirpobdSp@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 07:50 AM_
-Who is anji sinha, trump’s pick to be ambassador to singapore?" }
-TnanrrSaSpma@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 10:00 PM_
-Trump nominates entrepreneur anji sinha as his singapore ambassador" }
-Sponsalgemihne@{ shape: win-pane, label: "_UPDATED Jan 14, 2025, 08:43 PM_
-Singapore could end up as ‘collateral damage’ under trump 2.0 tariffs: chan heng chee" }
-Tttndahoetr@{ shape: win-pane, label: "_UPDATED Jan 14, 2025, 04:58 PM_
-Trump team studying gradual tariff hikes of 2% to 5% per month: sources" }
-TstlsSseitowip@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 07:56 PM_
-Trump’s erratic policies put us at risk of recession, but much of the world is prepared" }
-UcksinlTphaas@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 11:49 AM_
-Us stock market loses $5 trillion in value as trump ploughs ahead on tariffs" }
-TnanrrSaSpma@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 10:00 PM_
-Trump nominates entrepreneur anji sinha as his singapore ambassador" }
-Sponsalgemihne@{ shape: win-pane, label: "_UPDATED Jan 14, 2025, 08:43 PM_
-Singapore could end up as ‘collateral damage’ under trump 2.0 tariffs: chan heng chee" }
-Tttndahoetr@{ shape: win-pane, label: "_UPDATED Jan 14, 2025, 04:58 PM_
-Trump team studying gradual tariff hikes of 2% to 5% per month: sources" }
-TstlsSseitowip@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 07:56 PM_
-Trump’s erratic policies put us at risk of recession, but much of the world is prepared" }
-UcksinlTphaas@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 11:49 AM_
-Us stock market loses $5 trillion in value as trump ploughs ahead on tariffs" }
+GeiisRpndo@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 08:26 AM_
+G-7 allies avoid divisions with rubio playing ‘good guy’ role" }
+CaiaRaroeol@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 03:14 PM_
+Canada rallies against russian ‘aggression’ as new us tone splits g-7" }
+TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
+Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
+MoapnTghhtfa@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 11:24 PM_
+Mexico has backup plan in case trump goes through with tariff threat" }
+Fgtaer@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:07 AM_
+Facing up to the realities of trump 2.0" }
+TjCamtard@{ shape: win-pane, label: "_UPDATED Dec 19, 2024, 05:00 PM_
+Trump jokes canada becoming 51st us state ‘a great idea’" }
+CaaieyFasapyhPd@{ shape: win-pane, label: "_UPDATED Dec 16, 2024, 11:36 PM_
+Canada’s finance minister chrystia freeland resigns after policy clash with pm trudeau" }
+CadaslfePi@{ shape: win-pane, label: "_UPDATED Dec 18, 2024, 06:58 PM_
+Canada’s trudeau battles to hold on after deputy pm resigns" }
+UntttneeyeaSMR@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 02:50 PM_
+Ukraine must cede territory in any peace deal, says us secretary of state marco rubio" }
+UnreecSsuyi@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 11:52 PM_
+Ukraine to propose sky, sea truce at us talks in saudi, says official" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+UslnridrrRae@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 03:45 PM_
+Us cuts intelligence for ukraine, adding pressure for russia peace deal" }
+ZsSAavsfrpt@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 03:23 PM_
+Zelensky in saudi arabia as us voices hope for ukraine peace talks" }
+UnreecSsuyi@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 11:52 PM_
+Ukraine to propose sky, sea truce at us talks in saudi, says official" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
 
-WAirpobdSp:::txtsize --> TnanrrSaSpma:::txtsize
-TnanrrSaSpma:::txtsize --> Sponsalgemihne:::txtsize
-Sponsalgemihne:::txtsize --> Tttndahoetr:::txtsize
-TnanrrSaSpma:::txtsize --> TstlsSseitowip:::txtsize
-TstlsSseitowip:::txtsize --> UcksinlTphaas:::txtsize
-WAirpobdSp:::txtsize --> TnanrrSaSpma:::txtsize
-TnanrrSaSpma:::txtsize --> Sponsalgemihne:::txtsize
-Sponsalgemihne:::txtsize --> Tttndahoetr:::txtsize
-TnanrrSaSpma:::txtsize --> TstlsSseitowip:::txtsize
-TstlsSseitowip:::txtsize --> UcksinlTphaas:::txtsize
+GeiisRpndo:::txtsize --> CaiaRaroeol:::txtsize
+CaiaRaroeol:::txtsize --> TcrroadcbeC:::txtsize
+TcrroadcbeC:::txtsize --> MoapnTghhtfa:::txtsize
+TcrroadcbeC:::txtsize --> Fgtaer:::txtsize
+CaiaRaroeol:::txtsize --> TjCamtard:::txtsize
+TjCamtard:::txtsize --> CaaieyFasapyhPd:::txtsize
+TjCamtard:::txtsize --> CadaslfePi:::txtsize
+GeiisRpndo:::txtsize --> UntttneeyeaSMR:::txtsize
+UntttneeyeaSMR:::txtsize --> UnreecSsuyi:::txtsize
+UnreecSsuyi:::txtsize --> Unlyphaiogh:::txtsize
+UnreecSsuyi:::txtsize --> UslnridrrRae:::txtsize
+UntttneeyeaSMR:::txtsize --> ZsSAavsfrpt:::txtsize
+ZsSAavsfrpt:::txtsize --> UnreecSsuyi:::txtsize
+ZsSAavsfrpt:::txtsize --> Unlyphaiogh:::txtsize
 
 ```
-<i>Last updated: 2025-03-15 08:00:52.331659 (GMT+8)</i>
+<i>Last updated: 2025-03-15 12:00:18.975341 (GMT+8)</i>
 <!-- END -->
