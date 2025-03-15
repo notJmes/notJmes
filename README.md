@@ -16,7 +16,84 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-AmqPselraoKlfsn@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 06:19 PM_
+Hsaiaofahge@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 09:31 PM_
+Hamas says ‘ball is in israel’s court’ after making hostage offer" }
+Hpshwaul@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 06:31 PM_
+Hamas pushes for phase two of gaza truce talks" }
+Wrmlthaed@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:48 PM_
+What are the main elements of the gaza ceasefire deal?" }
+Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
+Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+WGeeoedhgyc@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 12:16 PM_
+War in gaza led to deaths of more than 3 dozen hostages, say officials" }
+Fyihieshgsseod@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 02:38 PM_
+Family confirms shiri bibas’ death as gaza hostage-prisoner swop set to go ahead" }
+Ilsadsearkeospe@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 05:51 AM_
+Israel, hamas signal readiness for next ceasefire talks as mediators push for progress" }
+Ilkiacftfas@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 10:41 AM_
+Israel blocks aid into gaza as ceasefire stand-off escalates" }
+UtysraGruxoc@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:11 PM_
+Uncertainty looms as first phase of gaza truce due to expire on march 1" }
+Uscfotmpanon@{ shape: win-pane, label: "_UPDATED Jan 17, 2025, 11:12 AM_
+Us says gaza ceasefire to start on time despite last minute ‘loose end’" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+IleSfmrsezoe@{ shape: win-pane, label: "_UPDATED Mar 02, 2025, 03:29 PM_
+Israel agrees on us plan for temporary ceasefire in gaza, pm’s office says" }
+Ilaiecfiratp@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:29 AM_
+Israel and hamas diverge over ceasefire with first phase set to expire" }
+UtysraGruxoc@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:11 PM_
+Uncertainty looms as first phase of gaza truce due to expire on march 1" }
+
+Hsaiaofahge:::txtsize --> Hpshwaul:::txtsize
+Hpshwaul:::txtsize --> Wrmlthaed:::txtsize
+Wrmlthaed:::txtsize --> Ilshedoooia:::txtsize
+Wrmlthaed:::txtsize --> Sbsrcdnacaale:::txtsize
+Hpshwaul:::txtsize --> WGeeoedhgyc:::txtsize
+WGeeoedhgyc:::txtsize --> Fyihieshgsseod:::txtsize
+WGeeoedhgyc:::txtsize --> Ilsadsearkeospe:::txtsize
+Hsaiaofahge:::txtsize --> Ilkiacftfas:::txtsize
+Ilkiacftfas:::txtsize --> UtysraGruxoc:::txtsize
+UtysraGruxoc:::txtsize --> Uscfotmpanon:::txtsize
+UtysraGruxoc:::txtsize --> Sbsrcdnacaale:::txtsize
+Ilkiacftfas:::txtsize --> IleSfmrsezoe:::txtsize
+IleSfmrsezoe:::txtsize --> Ilaiecfiratp:::txtsize
+IleSfmrsezoe:::txtsize --> UtysraGruxoc:::txtsize
+
+PrsisilIat@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 09:59 PM_
+Pope francis receiving 'surge' in mail, says italian post" }
+Paenniikfer@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 03:41 AM_
+Pope marks 12 years in job in hospital - with cake - but future uncertain" }
+Rmatnkayoec@{ shape: win-pane, label: "_UPDATED Mar 13, 2025, 01:05 PM_
+Reform, social justice and tackling abuse: 12 years of pope francis" }
+Fiaaeypmi@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 08:25 PM_
+Francis to mark 12th anniversary as pope from hospital" }
+Rmatnkayoec@{ shape: win-pane, label: "_UPDATED Mar 13, 2025, 01:05 PM_
+Reform, social justice and tackling abuse: 12 years of pope francis" }
+Fiaaeypmi@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 08:25 PM_
+Francis to mark 12th anniversary as pope from hospital" }
+Prsnslrire@{ shape: win-pane, label: "_UPDATED Feb 14, 2025, 07:10 PM_
+Pope francis taken to hospital for bronchitis treatment" }
+Prsrrilot@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 08:51 PM_
+Pope francis injures forearm in fall, but no fractures" }
+Prsbaorike@{ shape: win-pane, label: "_UPDATED Jan 14, 2025, 09:17 PM_
+Pope francis’ autobiography, hope, arrives in bookstores" }
+Prsbaorike@{ shape: win-pane, label: "_UPDATED Jan 14, 2025, 09:17 PM_
+Pope francis’ autobiography, hope, arrives in bookstores" }
+
+PrsisilIat:::txtsize --> Paenniikfer:::txtsize
+Paenniikfer:::txtsize --> Rmatnkayoec:::txtsize
+Rmatnkayoec:::txtsize --> Fiaaeypmi:::txtsize
+Paenniikfer:::txtsize --> Rmatnkayoec:::txtsize
+Rmatnkayoec:::txtsize --> Fiaaeypmi:::txtsize
+PrsisilIat:::txtsize --> Prsnslrire:::txtsize
+Prsnslrire:::txtsize --> Prsrrilot:::txtsize
+Prsrrilot:::txtsize --> Prsbaorike:::txtsize
+Prsrrilot:::txtsize --> Prsbaorike:::txtsize
+
+AmqPselraoKlfsn@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 10:53 PM_
 At trump’s request, putin says he will let ukrainian troops in kursk live if they surrender" }
 Thpctwuaswtaon@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 06:35 AM_
 Trump hails ‘productive’ talks with putin, says russia’s war with ukraine could end" }
@@ -59,71 +136,6 @@ Zsatenasmose:::txtsize --> Thpctwuaswtaon:::txtsize
 Thpctwuaswtaon:::txtsize --> Zsatenasmose:::txtsize
 Thpctwuaswtaon:::txtsize --> TsuUnseeritot:::txtsize
 
-RaicsnmyrUb@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 01:51 AM_
-Russia ‘committed crimes against humanity’ in ukraine: un probe" }
-Unsitforhre@{ shape: win-pane, label: "_UPDATED Nov 26, 2024, 11:19 PM_
-Ukraine says russia shot dead five soldiers who had surrendered" }
-Unieteiotms@{ shape: win-pane, label: "_UPDATED Nov 26, 2024, 04:13 PM_
-Ukraine’s kyiv under multi-wave russian drone attacks, mayor says" }
-Rannifstanawyy@{ shape: win-pane, label: "_UPDATED Nov 26, 2024, 08:16 PM_
-Russia advances in ukraine at fastest monthly pace since start of war, say analysts" }
-Eihkbkesdsiu@{ shape: win-pane, label: "_UPDATED Aug 14, 2024, 11:44 AM_
-Explainer: what to know about ukraine’s cross-border assault into russia" }
-Soeoenssfseee@{ shape: win-pane, label: "_UPDATED Nov 25, 2024, 12:07 PM_
-Scale of alleged torture, detentions by russian forces in kherson emerges" }
-Unhilsorceite@{ shape: win-pane, label: "_UPDATED Nov 26, 2024, 10:35 AM_
-Ukraine rights chief releases video of ‘torture chamber’ in liberated kherson" }
-Koiswaoroeg@{ shape: win-pane, label: "_UPDATED Nov 26, 2024, 10:19 AM_
-Kherson residents seek water and phone service on river's edge" }
-RairsengiUnern@{ shape: win-pane, label: "_PUBLISHED Nov 15, 2022, 09:24 PM_
-Russian administrators leave second-largest city in ukraine's kherson region" }
-
-RaicsnmyrUb:::txtsize --> Unsitforhre:::txtsize
-Unsitforhre:::txtsize --> Unieteiotms:::txtsize
-Unsitforhre:::txtsize --> Rannifstanawyy:::txtsize
-Rannifstanawyy:::txtsize --> Eihkbkesdsiu:::txtsize
-RaicsnmyrUb:::txtsize --> Soeoenssfseee:::txtsize
-Soeoenssfseee:::txtsize --> Unhilsorceite:::txtsize
-Unhilsorceite:::txtsize --> Koiswaoroeg:::txtsize
-Unhilsorceite:::txtsize --> RairsengiUnern:::txtsize
-
-Tosifanidofia@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 03:25 PM_
-Trump orders gutting of 7 federal agencies, including voice of america’s parent" }
-Ueurairede@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 03:56 AM_
-Us federal judge orders agencies to rehire fired workers" }
-Gifakhinabe@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 04:02 AM_
-‘grieving’: us federal workers thrown into uncertain job market" }
-Uwrgyeasuaaura@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 06:29 PM_
-Usaid workers say goodbye to headquarters as trump drastically cuts foreign aid" }
-Uwrgyeasuaaura@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 06:29 PM_
-Usaid workers say goodbye to headquarters as trump drastically cuts foreign aid" }
-UtanueunWnfse@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:50 PM_
-Us lists department of justice, fbi buildings in washington for possible sale" }
-Tgaadmiwrpe@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 07:10 AM_
-Trump govt walks back order to mass fire new federal employees" }
-Uleapeafrte@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 03:14 PM_
-Us health agency says employees can apply for early retirement" }
-WHltsahlfenstcp@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 08:03 PM_
-White house looks to press ahead with mass layoffs after agencies submit reduction plans" }
-Ueurairede@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 03:56 AM_
-Us federal judge orders agencies to rehire fired workers" }
-Gifakhinabe@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 04:02 AM_
-‘grieving’: us federal workers thrown into uncertain job market" }
-UtanueunWnfse@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:50 PM_
-Us lists department of justice, fbi buildings in washington for possible sale" }
-
-Tosifanidofia:::txtsize --> Ueurairede:::txtsize
-Ueurairede:::txtsize --> Gifakhinabe:::txtsize
-Gifakhinabe:::txtsize --> Uwrgyeasuaaura:::txtsize
-Gifakhinabe:::txtsize --> Uwrgyeasuaaura:::txtsize
-Ueurairede:::txtsize --> UtanueunWnfse:::txtsize
-UtanueunWnfse:::txtsize --> Tgaadmiwrpe:::txtsize
-UtanueunWnfse:::txtsize --> Uleapeafrte:::txtsize
-Tosifanidofia:::txtsize --> WHltsahlfenstcp:::txtsize
-WHltsahlfenstcp:::txtsize --> Ueurairede:::txtsize
-Ueurairede:::txtsize --> Gifakhinabe:::txtsize
-Ueurairede:::txtsize --> UtanueunWnfse:::txtsize
-
 ```
-<i>Last updated: 2025-03-15 20:01:04.815862 (GMT+8)</i>
+<i>Last updated: 2025-03-16 00:00:25.515033 (GMT+8)</i>
 <!-- END -->
