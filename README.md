@@ -16,8 +16,8 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tlhraroeuasl@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 07:46 AM_
-Trump launches large-scale strikes on yemen’s houthis, at least 19 killed" }
+Tlhraroeuasl@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 03:47 PM_
+Trump launches large-scale strikes on yemen’s houthis, at least 31 killed" }
 IhemnueIur@{ shape: win-pane, label: "_UPDATED Feb 15, 2025, 12:33 AM_
 Iaea chief sees time running out to revive iran nuclear deal" }
 Ddpsonealvcs@{ shape: win-pane, label: "_PUBLISHED May 09, 2018, 02:30 AM_
@@ -62,7 +62,7 @@ Yshryttheta:::txtsize --> Gineivsrolncf:::txtsize
 Gineivsrolncf:::txtsize --> UcSiuddutneia:::txtsize
 Gineivsrolncf:::txtsize --> Ilagoncst:::txtsize
 
-Tfeumotlgee@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 08:10 AM_
+Tfeumotlgee@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 12:44 PM_
 Trump freezes us-funded media outlets including voice of america" }
 WhstsrtwAcde@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 10:52 PM_
 When the president makes and breaks the news: can american media keep up?" }
@@ -140,5 +140,5 @@ IleSfmrsezoe:::txtsize --> Ilaiecfiratp:::txtsize
 IleSfmrsezoe:::txtsize --> UtysraGruxoc:::txtsize
 
 ```
-<i>Last updated: 2025-03-16 12:00:30.998208 (GMT+8)</i>
+<i>Last updated: 2025-03-16 16:01:05.920588 (GMT+8)</i>
 <!-- END -->
