@@ -16,7 +16,7 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tlhraroeuasl@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 03:47 PM_
+Tlhraroeuasl@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 10:29 PM_
 Trump launches large-scale strikes on yemen’s houthis, at least 31 killed" }
 IhemnueIur@{ shape: win-pane, label: "_UPDATED Feb 15, 2025, 12:33 AM_
 Iaea chief sees time running out to revive iran nuclear deal" }
@@ -155,5 +155,5 @@ Zsatenasmose:::txtsize --> Unecfusit:::txtsize
 Zsatenasmose:::txtsize --> Thpctwuaswtaon:::txtsize
 
 ```
-<i>Last updated: 2025-03-16 20:00:29.206349 (GMT+8)</i>
+<i>Last updated: 2025-03-17 00:00:49.755533 (GMT+8)</i>
 <!-- END -->
