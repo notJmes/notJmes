@@ -16,6 +16,86 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Tptahnrodake@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 03:12 PM_
+Trump plans to speak with putin on march 18 about ending war in ukraine" }
+UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
+Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
+Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
+YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
+‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
+Tfrsmawrmndlna@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:41 PM_
+Text of us-ukraine statement paving way for resumption of aid, intelligence sharing" }
+UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
+Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
+UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
+Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
+Ranodasaahi@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 11:05 AM_
+Russia demands ‘ironclad’ guarantees in peace deal with ukraine" }
+UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
+Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+Tfrsmawrmndlna@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:41 PM_
+Text of us-ukraine statement paving way for resumption of aid, intelligence sharing" }
+TatdssUnsesUo@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 10:49 AM_
+Trump and putin to discuss this week ukraine ceasefire terms, says us envoy" }
+Thpctwuaswtaon@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 06:35 AM_
+Trump hails ‘productive’ talks with putin, says russia’s war with ukraine could end" }
+UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
+Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
+
+Tptahnrodake:::txtsize --> UneSoocfnis:::txtsize
+UneSoocfnis:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
+Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
+UneSoocfnis:::txtsize --> Tfrsmawrmndlna:::txtsize
+Tfrsmawrmndlna:::txtsize --> UneSoocfnis:::txtsize
+Tfrsmawrmndlna:::txtsize --> UneSoocfnis:::txtsize
+Tptahnrodake:::txtsize --> Ranodasaahi:::txtsize
+Ranodasaahi:::txtsize --> UneSoocfnis:::txtsize
+UneSoocfnis:::txtsize --> Unlyphaiogh:::txtsize
+UneSoocfnis:::txtsize --> Tfrsmawrmndlna:::txtsize
+Ranodasaahi:::txtsize --> TatdssUnsesUo:::txtsize
+TatdssUnsesUo:::txtsize --> Thpctwuaswtaon:::txtsize
+TatdssUnsesUo:::txtsize --> UneSoocfnis:::txtsize
+
+Tsiepleainl@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 03:26 PM_
+Trump set to impose reciprocal and sectoral tariffs on april 2" }
+UcksinlTphaas@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 11:49 AM_
+Us stock market loses $5 trillion in value as trump ploughs ahead on tariffs" }
+Tdnruei@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 07:02 PM_
+Trump declines to rule out 2025 us recession" }
+Tdsfrsrcaaa@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 06:20 AM_
+Trump delays tariffs for goods under mexico, canada trade deal" }
+Trsfanneonsds@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 06:19 PM_
+Trump raises tariffs on aluminium and steel imports in latest trade war salvo" }
+Ttosauuinsdao@{ shape: win-pane, label: "_UPDATED Feb 10, 2025, 09:10 PM_
+Trump to announce 25% steel and aluminium tariffs in latest trade escalation" }
+Opmogiodet@{ shape: win-pane, label: "_UPDATED Feb 08, 2025, 05:26 AM_
+Open up! us comes knocking on asia’s door amid trade reset" }
+MolneasUnirto@{ shape: win-pane, label: "_UPDATED Feb 10, 2025, 07:20 AM_
+More volatility in store for markets amid us-china tariff war, gaza tensions" }
+Opmogiodet@{ shape: win-pane, label: "_UPDATED Feb 08, 2025, 05:26 AM_
+Open up! us comes knocking on asia’s door amid trade reset" }
+Tlharsiroinnn@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 10:59 PM_
+Trump launches trade war with sweeping tariffs on mexico, canada and china" }
+Bnprflthoeeptik@{ shape: win-pane, label: "_PUBLISHED Feb 02, 2025, 08:14 PM_
+Beijing keeps door open for talks with washington in measured response to tariff hike" }
+
+Tsiepleainl:::txtsize --> UcksinlTphaas:::txtsize
+UcksinlTphaas:::txtsize --> Tdnruei:::txtsize
+Tdnruei:::txtsize --> Tdsfrsrcaaa:::txtsize
+Tsiepleainl:::txtsize --> Trsfanneonsds:::txtsize
+Trsfanneonsds:::txtsize --> Ttosauuinsdao:::txtsize
+Ttosauuinsdao:::txtsize --> Opmogiodet:::txtsize
+Ttosauuinsdao:::txtsize --> MolneasUnirto:::txtsize
+Trsfanneonsds:::txtsize --> Opmogiodet:::txtsize
+Opmogiodet:::txtsize --> Tlharsiroinnn:::txtsize
+Opmogiodet:::txtsize --> Bnprflthoeeptik:::txtsize
+
 Usetoslpts@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 11:30 AM_
 Us vows to keep hitting houthis until shipping attacks stop" }
 Tlhraroeuasl@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 10:29 PM_
@@ -62,98 +142,6 @@ Hitrdstetsn:::txtsize --> IhemnueIur:::txtsize
 IhemnueIur:::txtsize --> Ddpsonealvcs:::txtsize
 IhemnueIur:::txtsize --> IKnteurlalyrpa:::txtsize
 
-RsSdgedleimd@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 10:47 AM_
-Rubio says us could engage in new trade deals after tariffs imposed" }
-Tttirferekr@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 11:16 AM_
-Trump threatens 200% wine tariff if eu does not remove whiskey tariff" }
-Trsfanneonsds@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 06:19 PM_
-Trump raises tariffs on aluminium and steel imports in latest trade war salvo" }
-Ttosauuinsdao@{ shape: win-pane, label: "_UPDATED Feb 10, 2025, 09:10 PM_
-Trump to announce 25% steel and aluminium tariffs in latest trade escalation" }
-Opmogiodet@{ shape: win-pane, label: "_UPDATED Feb 08, 2025, 05:26 AM_
-Open up! us comes knocking on asia’s door amid trade reset" }
-Tmsfafaioad@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 10:53 PM_
-Trump metals tariffs draw swift retaliation from canada and eu" }
-EmceinSsbtr@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 03:20 PM_
-Eu to impose counter tariffs on $38b in us goods from boats to bourbon" }
-AauuiaeaTpetei@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 03:18 PM_
-Australia rules out reciprocal move on us after trump proceeds with steel tariffs" }
-Tsasmmaablrs@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 10:40 PM_
-Trump says tariffs will make america rich again, but will americans wait?" }
-Acauypmdrno@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:51 PM_
-‘america is back,’ trump says in speech marred by partisan rancour" }
-DrrtpeCetrotsns@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 01:30 PM_
-Democrats protest trump’s speech to congress with disruption, exits and solemn signs" }
-Drlkmfrptg@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 02:16 PM_
-Democratic lawmaker removed from trump speech to congress" }
-TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
-Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
-MoapnTghhtfa@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 11:24 PM_
-Mexico has backup plan in case trump goes through with tariff threat" }
-Fgtaer@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:07 AM_
-Facing up to the realities of trump 2.0" }
-
-RsSdgedleimd:::txtsize --> Tttirferekr:::txtsize
-Tttirferekr:::txtsize --> Trsfanneonsds:::txtsize
-Trsfanneonsds:::txtsize --> Ttosauuinsdao:::txtsize
-Trsfanneonsds:::txtsize --> Opmogiodet:::txtsize
-Tttirferekr:::txtsize --> Tmsfafaioad:::txtsize
-Tmsfafaioad:::txtsize --> EmceinSsbtr:::txtsize
-Tmsfafaioad:::txtsize --> AauuiaeaTpetei:::txtsize
-RsSdgedleimd:::txtsize --> Tsasmmaablrs:::txtsize
-Tsasmmaablrs:::txtsize --> Acauypmdrno:::txtsize
-Acauypmdrno:::txtsize --> DrrtpeCetrotsns:::txtsize
-Acauypmdrno:::txtsize --> Drlkmfrptg:::txtsize
-Tsasmmaablrs:::txtsize --> TcrroadcbeC:::txtsize
-TcrroadcbeC:::txtsize --> MoapnTghhtfa:::txtsize
-TcrroadcbeC:::txtsize --> Fgtaer:::txtsize
-
-TatdssUnsesUo@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 10:49 AM_
-Trump and putin to discuss this week ukraine ceasefire terms, says us envoy" }
-Thpctwuaswtaon@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 06:35 AM_
-Trump hails ‘productive’ talks with putin, says russia’s war with ukraine could end" }
-Zsatenasmose@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:43 PM_
-Zelensky slams putin’s ‘very manipulative’ statements on ceasefire" }
-Unecfusit@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:55 PM_
-Ukraine accepts a ceasefire, but does russia want one?" }
-Thpctwuaswtaon@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 06:35 AM_
-Trump hails ‘productive’ talks with putin, says russia’s war with ukraine could end" }
-TsuUnseeritot@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 10:18 PM_
-Trump says putin’s ukraine ceasefire comments ‘promising’ but not ‘complete’" }
-Thpctwuaswtaon@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 06:35 AM_
-Trump hails ‘productive’ talks with putin, says russia’s war with ukraine could end" }
-Unecfusit@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:55 PM_
-Ukraine accepts a ceasefire, but does russia want one?" }
-UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
-Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
-Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
-‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
-Tfrsmawrmndlna@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:41 PM_
-Text of us-ukraine statement paving way for resumption of aid, intelligence sharing" }
-UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
-Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
-UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
-Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
-
-TatdssUnsesUo:::txtsize --> Thpctwuaswtaon:::txtsize
-Thpctwuaswtaon:::txtsize --> Zsatenasmose:::txtsize
-Zsatenasmose:::txtsize --> Unecfusit:::txtsize
-Zsatenasmose:::txtsize --> Thpctwuaswtaon:::txtsize
-Thpctwuaswtaon:::txtsize --> TsuUnseeritot:::txtsize
-TsuUnseeritot:::txtsize --> Thpctwuaswtaon:::txtsize
-TsuUnseeritot:::txtsize --> Unecfusit:::txtsize
-TatdssUnsesUo:::txtsize --> UneSoocfnis:::txtsize
-UneSoocfnis:::txtsize --> Unlyphaiogh:::txtsize
-Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
-Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
-UneSoocfnis:::txtsize --> Tfrsmawrmndlna:::txtsize
-Tfrsmawrmndlna:::txtsize --> UneSoocfnis:::txtsize
-Tfrsmawrmndlna:::txtsize --> UneSoocfnis:::txtsize
-
 ```
-<i>Last updated: 2025-03-17 12:00:55.720091 (GMT+8)</i>
+<i>Last updated: 2025-03-17 16:00:15.244955 (GMT+8)</i>
 <!-- END -->
