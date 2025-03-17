@@ -16,7 +16,53 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tptahnrodake@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 03:12 PM_
+Hiinuposhrah@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 06:53 PM_
+‘hell will rain down on you’: trump, the houthis and the us’ proxy war with iran" }
+Hmdulnrecsud@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:01 AM_
+How hamas’ audacious, well-planned surprise attack on israel unfolded" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
+World in shock after hamas surprise attacks on israel" }
+Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
+Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
+Pezdsyeasarl@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:48 PM_
+People in gaza shed tears of joy, disbelief at news of ceasefire deal" }
+Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
+Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
+Wrmlthaed@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:48 PM_
+What are the main elements of the gaza ceasefire deal?" }
+Ilamslorpdiaac@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:46 PM_
+Israel hostage families on roller coaster of hope and despair as gaza deal reached" }
+Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
+Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
+Speeegcfntee@{ shape: win-pane, label: "_UPDATED Jan 17, 2025, 05:07 PM_
+Singapore welcomes impending gaza ceasefire and hostage release deal" }
+
+Hiinuposhrah:::txtsize --> Hmdulnrecsud:::txtsize
+Hmdulnrecsud:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Hmdulnrecsud:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Hiinuposhrah:::txtsize --> Ilshedoooia:::txtsize
+Ilshedoooia:::txtsize --> Pezdsyeasarl:::txtsize
+Pezdsyeasarl:::txtsize --> Ilshedoooia:::txtsize
+Pezdsyeasarl:::txtsize --> Wrmlthaed:::txtsize
+Ilshedoooia:::txtsize --> Ilamslorpdiaac:::txtsize
+Ilamslorpdiaac:::txtsize --> Ilshedoooia:::txtsize
+Ilamslorpdiaac:::txtsize --> Speeegcfntee:::txtsize
+
+Tptahnrodake@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 06:32 PM_
 Trump plans to speak with putin on march 18 about ending war in ukraine" }
 UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
 Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
@@ -96,52 +142,6 @@ Trsfanneonsds:::txtsize --> Opmogiodet:::txtsize
 Opmogiodet:::txtsize --> Tlharsiroinnn:::txtsize
 Opmogiodet:::txtsize --> Bnprflthoeeptik:::txtsize
 
-Usetoslpts@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 11:30 AM_
-Us vows to keep hitting houthis until shipping attacks stop" }
-Tlhraroeuasl@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 10:29 PM_
-Trump launches large-scale strikes on yemen’s houthis, at least 31 killed" }
-IhemnueIur@{ shape: win-pane, label: "_UPDATED Feb 15, 2025, 12:33 AM_
-Iaea chief sees time running out to revive iran nuclear deal" }
-Ddpsonealvcs@{ shape: win-pane, label: "_PUBLISHED May 09, 2018, 02:30 AM_
-Donald trump pulls us from iran nuclear deal, will revive sanctions" }
-IKnteurlalyrpa@{ shape: win-pane, label: "_UPDATED Feb 12, 2025, 09:53 PM_
-Iran’s khamenei cites need to further develop iran’s military after trump threats" }
-Yshryttheta@{ shape: win-pane, label: "_UPDATED Nov 11, 2024, 10:32 AM_
-Yemen’s houthis warn they will target all ships headed to israel" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Gineivsrolncf@{ shape: win-pane, label: "_UPDATED Nov 11, 2024, 10:27 AM_
-Gaza fighting intensifies, us vetoes security council demand for ceasefire" }
-Hitrdstetsn@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 10:57 PM_
-Houthis say they are ready to escalate after us strikes yemen" }
-Tlhraroeuasl@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 10:29 PM_
-Trump launches large-scale strikes on yemen’s houthis, at least 31 killed" }
-IhemnueIur@{ shape: win-pane, label: "_UPDATED Feb 15, 2025, 12:33 AM_
-Iaea chief sees time running out to revive iran nuclear deal" }
-Yshryttheta@{ shape: win-pane, label: "_UPDATED Nov 11, 2024, 10:32 AM_
-Yemen’s houthis warn they will target all ships headed to israel" }
-IhemnueIur@{ shape: win-pane, label: "_UPDATED Feb 15, 2025, 12:33 AM_
-Iaea chief sees time running out to revive iran nuclear deal" }
-Ddpsonealvcs@{ shape: win-pane, label: "_PUBLISHED May 09, 2018, 02:30 AM_
-Donald trump pulls us from iran nuclear deal, will revive sanctions" }
-IKnteurlalyrpa@{ shape: win-pane, label: "_UPDATED Feb 12, 2025, 09:53 PM_
-Iran’s khamenei cites need to further develop iran’s military after trump threats" }
-
-Usetoslpts:::txtsize --> Tlhraroeuasl:::txtsize
-Tlhraroeuasl:::txtsize --> IhemnueIur:::txtsize
-IhemnueIur:::txtsize --> Ddpsonealvcs:::txtsize
-IhemnueIur:::txtsize --> IKnteurlalyrpa:::txtsize
-Tlhraroeuasl:::txtsize --> Yshryttheta:::txtsize
-Yshryttheta:::txtsize --> NyeeawHakl:::txtsize
-Yshryttheta:::txtsize --> Gineivsrolncf:::txtsize
-Usetoslpts:::txtsize --> Hitrdstetsn:::txtsize
-Hitrdstetsn:::txtsize --> Tlhraroeuasl:::txtsize
-Tlhraroeuasl:::txtsize --> IhemnueIur:::txtsize
-Tlhraroeuasl:::txtsize --> Yshryttheta:::txtsize
-Hitrdstetsn:::txtsize --> IhemnueIur:::txtsize
-IhemnueIur:::txtsize --> Ddpsonealvcs:::txtsize
-IhemnueIur:::txtsize --> IKnteurlalyrpa:::txtsize
-
 ```
-<i>Last updated: 2025-03-17 16:00:15.244955 (GMT+8)</i>
+<i>Last updated: 2025-03-17 20:00:35.021023 (GMT+8)</i>
 <!-- END -->
