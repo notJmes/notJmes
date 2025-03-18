@@ -16,138 +16,132 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-AslessikGsedoe@{ shape: win-pane, label: "_UPDATED Mar 18, 2025, 03:15 PM_
+Wrtwdieys@{ shape: win-pane, label: "_UPDATED Mar 18, 2025, 06:57 PM_
+Will trump’s trade war end america’s fentanyl crisis?" }
+TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
+Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
+MoapnTghhtfa@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 11:24 PM_
+Mexico has backup plan in case trump goes through with tariff threat" }
+ModieiocTwececra@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 09:34 PM_
+Mexico, canada tariffs set to kick in on march 4, but trump will set exact levels: us commerce head" }
+Csenitresple@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 09:07 PM_
+China’s trade dominance in south america tempers trump’s influence" }
+Fgtaer@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:07 AM_
+Facing up to the realities of trump 2.0" }
+TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
+Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
+WAirpobdSp@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 07:50 AM_
+Who is anji sinha, trump’s pick to be ambassador to singapore?" }
+TnanrrSaSpma@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 10:00 PM_
+Trump nominates entrepreneur anji sinha as his singapore ambassador" }
+Sponsalgemihne@{ shape: win-pane, label: "_UPDATED Jan 14, 2025, 08:43 PM_
+Singapore could end up as ‘collateral damage’ under trump 2.0 tariffs: chan heng chee" }
+TstlsSseitowip@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 07:56 PM_
+Trump’s erratic policies put us at risk of recession, but much of the world is prepared" }
+TnanrrSaSpma@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 10:00 PM_
+Trump nominates entrepreneur anji sinha as his singapore ambassador" }
+Sponsalgemihne@{ shape: win-pane, label: "_UPDATED Jan 14, 2025, 08:43 PM_
+Singapore could end up as ‘collateral damage’ under trump 2.0 tariffs: chan heng chee" }
+TstlsSseitowip@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 07:56 PM_
+Trump’s erratic policies put us at risk of recession, but much of the world is prepared" }
+
+Wrtwdieys:::txtsize --> TcrroadcbeC:::txtsize
+TcrroadcbeC:::txtsize --> MoapnTghhtfa:::txtsize
+MoapnTghhtfa:::txtsize --> ModieiocTwececra:::txtsize
+MoapnTghhtfa:::txtsize --> Csenitresple:::txtsize
+TcrroadcbeC:::txtsize --> Fgtaer:::txtsize
+Fgtaer:::txtsize --> TalytnretaWHsit:::txtsize
+Wrtwdieys:::txtsize --> WAirpobdSp:::txtsize
+WAirpobdSp:::txtsize --> TnanrrSaSpma:::txtsize
+TnanrrSaSpma:::txtsize --> Sponsalgemihne:::txtsize
+TnanrrSaSpma:::txtsize --> TstlsSseitowip:::txtsize
+WAirpobdSp:::txtsize --> TnanrrSaSpma:::txtsize
+TnanrrSaSpma:::txtsize --> Sponsalgemihne:::txtsize
+TnanrrSaSpma:::txtsize --> TstlsSseitowip:::txtsize
+
+Ilthnaditsee@{ shape: win-pane, label: "_UPDATED Mar 18, 2025, 07:57 PM_
+Israel vows to fight on in gaza after deadliest strikes since truce" }
+AslessikGsedoe@{ shape: win-pane, label: "_UPDATED Mar 18, 2025, 05:43 PM_
 At least 200 killed in ‘extensive’ israeli strikes on gaza as ceasefire deadlock breaks" }
-Htematnrfcheil@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 10:48 PM_
-Hamas to release american hostage in gaza, ready for second-phase ceasefire talks" }
-Hoilsparaadaz@{ shape: win-pane, label: "_UPDATED Mar 13, 2025, 06:54 PM_
-Hamas official welcomes trump’s apparent retreat on call to displace gazans" }
-Tpstvzceetda@{ shape: win-pane, label: "_UPDATED Feb 05, 2025, 08:50 PM_
-Trump proposes us ‘take over’ gaza and create ‘riviera of the middle east’" }
-AttpitmogGl@{ shape: win-pane, label: "_UPDATED Mar 13, 2025, 08:59 PM_
-Arab states to keep talking with trump envoy on egypt’s gaza plan" }
-Hoiyaethen@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 08:38 PM_
-Hamas official says gaza ceasefire talks have begun in doha" }
-UtysraGruxoc@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:11 PM_
-Uncertainty looms as first phase of gaza truce due to expire on march 1" }
-Ilserylaeck@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 09:27 PM_
-Israel halts gaza electricity supply ahead of new truce talks" }
 Wrmlthaed@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:48 PM_
 What are the main elements of the gaza ceasefire deal?" }
 Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
 Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
-Pezdsyeasarl@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:48 PM_
-People in gaza shed tears of joy, disbelief at news of ceasefire deal" }
-Ilamslorpdiaac@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:46 PM_
-Israel hostage families on roller coaster of hope and despair as gaza deal reached" }
 Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
 ‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-
-AslessikGsedoe:::txtsize --> Htematnrfcheil:::txtsize
-Htematnrfcheil:::txtsize --> Hoilsparaadaz:::txtsize
-Hoilsparaadaz:::txtsize --> Tpstvzceetda:::txtsize
-Hoilsparaadaz:::txtsize --> AttpitmogGl:::txtsize
-Htematnrfcheil:::txtsize --> Hoiyaethen:::txtsize
-Hoiyaethen:::txtsize --> UtysraGruxoc:::txtsize
-Hoiyaethen:::txtsize --> Ilserylaeck:::txtsize
-AslessikGsedoe:::txtsize --> Wrmlthaed:::txtsize
-Wrmlthaed:::txtsize --> Ilshedoooia:::txtsize
-Ilshedoooia:::txtsize --> Pezdsyeasarl:::txtsize
-Ilshedoooia:::txtsize --> Ilamslorpdiaac:::txtsize
-Wrmlthaed:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-
-Tdswuosaais@{ shape: win-pane, label: "_UPDATED Mar 18, 2025, 07:55 AM_
-Trump discussion with putin to focus on what ukraine will lose" }
-DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
-'darkest hours of europe' as russia invades ukraine" }
-Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
-Bloodshed and tears as eastern ukraine faces russian attack" }
-Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
-Fighting rages around ukraine as russia invades from three sides" }
-Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
-Fighting rages around ukraine as russia invades from three sides" }
-DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
-'darkest hours of europe' as russia invades ukraine" }
-Tseuisppsiknaa@{ shape: win-pane, label: "_UPDATED Mar 18, 2025, 02:29 AM_
-Trump says he and putin will discuss power plants, land in talks to end ukraine war" }
-UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
-Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-Tfrsmawrmndlna@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:41 PM_
-Text of us-ukraine statement paving way for resumption of aid, intelligence sharing" }
-Ranodasaahi@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 11:05 AM_
-Russia demands ‘ironclad’ guarantees in peace deal with ukraine" }
-UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
-Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
-TatdssUnsesUo@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 10:49 AM_
-Trump and putin to discuss this week ukraine ceasefire terms, says us envoy" }
-
-Tdswuosaais:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
-Bsnranicsak:::txtsize --> Figokesnsts:::txtsize
-DsruasvUn:::txtsize --> Figokesnsts:::txtsize
-Figokesnsts:::txtsize --> DsruasvUn:::txtsize
-Tdswuosaais:::txtsize --> Tseuisppsiknaa:::txtsize
-Tseuisppsiknaa:::txtsize --> UneSoocfnis:::txtsize
-UneSoocfnis:::txtsize --> Unlyphaiogh:::txtsize
-UneSoocfnis:::txtsize --> Tfrsmawrmndlna:::txtsize
-Tseuisppsiknaa:::txtsize --> Ranodasaahi:::txtsize
-Ranodasaahi:::txtsize --> UneSoocfnis:::txtsize
-Ranodasaahi:::txtsize --> TatdssUnsesUo:::txtsize
-
 Hiinuposhrah@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 08:40 PM_
 ‘hell will rain down on you’: trump, the houthis and the us’ proxy war with iran" }
 Hmdulnrecsud@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:01 AM_
 How hamas’ audacious, well-planned surprise attack on israel unfolded" }
 NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
 Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
-World in shock after hamas surprise attacks on israel" }
 NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
 Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
-World in shock after hamas surprise attacks on israel" }
 Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
 Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
 Pezdsyeasarl@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:48 PM_
 People in gaza shed tears of joy, disbelief at news of ceasefire deal" }
-Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
-Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
-Wrmlthaed@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:48 PM_
-What are the main elements of the gaza ceasefire deal?" }
 Ilamslorpdiaac@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:46 PM_
 Israel hostage families on roller coaster of hope and despair as gaza deal reached" }
-Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
-Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
-Speeegcfntee@{ shape: win-pane, label: "_UPDATED Jan 17, 2025, 05:07 PM_
-Singapore welcomes impending gaza ceasefire and hostage release deal" }
 
+Ilthnaditsee:::txtsize --> AslessikGsedoe:::txtsize
+AslessikGsedoe:::txtsize --> Wrmlthaed:::txtsize
+Wrmlthaed:::txtsize --> Ilshedoooia:::txtsize
+Wrmlthaed:::txtsize --> Sbsrcdnacaale:::txtsize
+Ilthnaditsee:::txtsize --> Hiinuposhrah:::txtsize
 Hiinuposhrah:::txtsize --> Hmdulnrecsud:::txtsize
 Hmdulnrecsud:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
 Hmdulnrecsud:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
 Hiinuposhrah:::txtsize --> Ilshedoooia:::txtsize
 Ilshedoooia:::txtsize --> Pezdsyeasarl:::txtsize
-Pezdsyeasarl:::txtsize --> Ilshedoooia:::txtsize
-Pezdsyeasarl:::txtsize --> Wrmlthaed:::txtsize
 Ilshedoooia:::txtsize --> Ilamslorpdiaac:::txtsize
-Ilamslorpdiaac:::txtsize --> Ilshedoooia:::txtsize
-Ilamslorpdiaac:::txtsize --> Speeegcfntee:::txtsize
+
+Tvoociooti@{ shape: win-pane, label: "_UPDATED Mar 18, 2025, 05:38 PM_
+Trump vows to authorise coal-fired power to counter china" }
+Uhionlolsfous@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 10:32 PM_
+Us withdrawing from plan to help major polluters move from coal, sources say" }
+TlunlAcsuaicrn@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 08:30 PM_
+Trump lays out plan to unleash american fossil fuels, halt climate cooperation" }
+Twrrriamg@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 09:59 AM_
+Trump withdraws from paris climate agreement, again" }
+Aiuoreugdnthnw@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 06:02 PM_
+After inauguration, us president trump signs orders in front of a cheering crowd" }
+TsctieekhleitEt@{ shape: win-pane, label: "_UPDATED Jan 23, 2025, 11:58 AM_
+Trump’s anti-climate action steps a setback for the world and especially the us: experts" }
+Twrrriamg@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 09:59 AM_
+Trump withdraws from paris climate agreement, again" }
+TlunlAcsuaicrn@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 08:30 PM_
+Trump lays out plan to unleash american fossil fuels, halt climate cooperation" }
+TlunlAcsuaicrn@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 08:30 PM_
+Trump lays out plan to unleash american fossil fuels, halt climate cooperation" }
+Twrrriamg@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 09:59 AM_
+Trump withdraws from paris climate agreement, again" }
+Tmlomhscedlaobria@{ shape: win-pane, label: "_PUBLISHED Dec 29, 2017, 10:07 AM_
+Trump makes light of climate change science, cites cold spell in us as proof global warming is a hoax" }
+Feuiea@{ shape: win-pane, label: "_UPDATED Nov 25, 2024, 10:29 AM_
+Feb 24, 2022: the day russia invaded ukraine" }
+Aiuoreugdnthnw@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 06:02 PM_
+After inauguration, us president trump signs orders in front of a cheering crowd" }
+TdragnfitirsPd@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 02:23 PM_
+Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
+Tfscedeopslg@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 03:23 PM_
+Trump faces stiff challenges delivering on his promised ‘golden age’" }
+
+Tvoociooti:::txtsize --> Uhionlolsfous:::txtsize
+Uhionlolsfous:::txtsize --> TlunlAcsuaicrn:::txtsize
+TlunlAcsuaicrn:::txtsize --> Twrrriamg:::txtsize
+TlunlAcsuaicrn:::txtsize --> Aiuoreugdnthnw:::txtsize
+Uhionlolsfous:::txtsize --> TsctieekhleitEt:::txtsize
+TsctieekhleitEt:::txtsize --> Twrrriamg:::txtsize
+TsctieekhleitEt:::txtsize --> TlunlAcsuaicrn:::txtsize
+Tvoociooti:::txtsize --> TlunlAcsuaicrn:::txtsize
+TlunlAcsuaicrn:::txtsize --> Twrrriamg:::txtsize
+Twrrriamg:::txtsize --> Tmlomhscedlaobria:::txtsize
+Twrrriamg:::txtsize --> Feuiea:::txtsize
+TlunlAcsuaicrn:::txtsize --> Aiuoreugdnthnw:::txtsize
+Aiuoreugdnthnw:::txtsize --> TdragnfitirsPd:::txtsize
+Aiuoreugdnthnw:::txtsize --> Tfscedeopslg:::txtsize
 
 ```
-<i>Last updated: 2025-03-18 16:00:35.415075 (GMT+8)</i>
+<i>Last updated: 2025-03-18 20:00:57.419828 (GMT+8)</i>
 <!-- END -->
