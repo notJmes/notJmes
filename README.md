@@ -16,6 +16,46 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Tdswuosaais@{ shape: win-pane, label: "_UPDATED Mar 18, 2025, 07:55 AM_
+Trump discussion with putin to focus on what ukraine will lose" }
+DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
+'darkest hours of europe' as russia invades ukraine" }
+Bsnranicsak@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 09:21 PM_
+Bloodshed and tears as eastern ukraine faces russian attack" }
+Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
+Fighting rages around ukraine as russia invades from three sides" }
+Figokesnsts@{ shape: win-pane, label: "_UPDATED Feb 25, 2022, 01:54 AM_
+Fighting rages around ukraine as russia invades from three sides" }
+DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
+'darkest hours of europe' as russia invades ukraine" }
+Tseuisppsiknaa@{ shape: win-pane, label: "_UPDATED Mar 18, 2025, 02:29 AM_
+Trump says he and putin will discuss power plants, land in talks to end ukraine war" }
+UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
+Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+Tfrsmawrmndlna@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:41 PM_
+Text of us-ukraine statement paving way for resumption of aid, intelligence sharing" }
+Ranodasaahi@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 11:05 AM_
+Russia demands ‘ironclad’ guarantees in peace deal with ukraine" }
+UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
+Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
+TatdssUnsesUo@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 10:49 AM_
+Trump and putin to discuss this week ukraine ceasefire terms, says us envoy" }
+
+Tdswuosaais:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Bsnranicsak:::txtsize
+Bsnranicsak:::txtsize --> Figokesnsts:::txtsize
+DsruasvUn:::txtsize --> Figokesnsts:::txtsize
+Figokesnsts:::txtsize --> DsruasvUn:::txtsize
+Tdswuosaais:::txtsize --> Tseuisppsiknaa:::txtsize
+Tseuisppsiknaa:::txtsize --> UneSoocfnis:::txtsize
+UneSoocfnis:::txtsize --> Unlyphaiogh:::txtsize
+UneSoocfnis:::txtsize --> Tfrsmawrmndlna:::txtsize
+Tseuisppsiknaa:::txtsize --> Ranodasaahi:::txtsize
+Ranodasaahi:::txtsize --> UneSoocfnis:::txtsize
+Ranodasaahi:::txtsize --> TatdssUnsesUo:::txtsize
+
 Hiinuposhrah@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 08:40 PM_
 ‘hell will rain down on you’: trump, the houthis and the us’ proxy war with iran" }
 Hmdulnrecsud@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:01 AM_
@@ -62,98 +102,43 @@ Ilshedoooia:::txtsize --> Ilamslorpdiaac:::txtsize
 Ilamslorpdiaac:::txtsize --> Ilshedoooia:::txtsize
 Ilamslorpdiaac:::txtsize --> Speeegcfntee:::txtsize
 
-ITlWHiynenoda@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 11:57 PM_
-In tiktok sale, the white house is playing an unprecedented role as dealmaker" }
-Tsodiyido@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 05:13 PM_
-Trump says four bidders in play for tiktok deal ‘soon’" }
-Tinsceeuaa@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 12:24 PM_
-Tech billionaires take centre stage at trump inauguration" }
-TdragnfitirsPd@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 02:23 PM_
-Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
-TkoSituyast@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 08:22 PM_
-Tiktok restores us service after trump says ‘we have to save it’" }
-Boeinorgskis@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 12:12 PM_
-Billionaire reddit founder joins growing ranks of tiktok bidders" }
-TkrDtbSfeiboun@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 10:13 AM_
-Tiktok owner bytedance to buy back us staff shares at higher $417 billion valuation" }
-Tkttaxiuiidn@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 10:37 AM_
-Tiktok blasts australia for excluding youtube in social media ban" }
-Boeinorgskis@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 12:12 PM_
-Billionaire reddit founder joins growing ranks of tiktok bidders" }
-TkrDtbSfeiboun@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 10:13 AM_
-Tiktok owner bytedance to buy back us staff shares at higher $417 billion valuation" }
-CpepsaendennTUx@{ shape: win-pane, label: "_PUBLISHED Jan 28, 2025, 11:50 AM_
-China planned deepseek’s dramatic debut on world stage to send signal to trump: us ai expert" }
-TktafoSpsoby@{ shape: win-pane, label: "_UPDATED Feb 20, 2025, 11:07 PM_
-Tiktok cuts trust and safety jobs in singapore as part of global layoffs" }
-Tkttaxiuiidn@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 10:37 AM_
-Tiktok blasts australia for excluding youtube in social media ban" }
-DttaiceamsTxiss@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 06:38 PM_
-Despite australia’s strict social media ban for minors, a youtube exemption poses risks" }
-Aaaslaolu@{ shape: win-pane, label: "_UPDATED Nov 28, 2024, 10:56 PM_
-Australia passes social media ban for children under 16" }
+TshXltStitr@{ shape: win-pane, label: "_UPDATED Mar 18, 2025, 10:29 AM_
+Trump says china’s xi will visit the us in ‘not too distant future’" }
+CsSbaunlsa@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 06:58 PM_
+China says us owes ‘big thank you’ on fentanyl, calls for talks" }
+Twoefnltfsmee@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 11:01 PM_
+Trump will not ease up on fentanyl-related tariffs, says us commerce secretary" }
+Tdsfrsrcaaa@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 06:20 AM_
+Trump delays tariffs for goods under mexico, canada trade deal" }
+Ittfrralprp@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 08:53 AM_
+It’s not just tariffs: us growth risks are piling up under trump" }
+CvoaaUiitt@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 12:27 PM_
+China vows to hit back against us tariffs linked to fentanyl" }
+TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
+Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
+Acnrrhteur@{ shape: win-pane, label: "_UPDATED Feb 17, 2025, 02:51 PM_
+American consumers learn to shop in the age of trump tariffs" }
+ChaUospsiaf@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 03:18 PM_
+China hits back at us imports as trump’s fresh tariffs take effect" }
+TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
+Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
+MoapnTghhtfa@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 11:24 PM_
+Mexico has backup plan in case trump goes through with tariff threat" }
+Fgtaer@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:07 AM_
+Facing up to the realities of trump 2.0" }
 
-ITlWHiynenoda:::txtsize --> Tsodiyido:::txtsize
-Tsodiyido:::txtsize --> Tinsceeuaa:::txtsize
-Tinsceeuaa:::txtsize --> TdragnfitirsPd:::txtsize
-Tinsceeuaa:::txtsize --> TkoSituyast:::txtsize
-Tsodiyido:::txtsize --> Boeinorgskis:::txtsize
-Boeinorgskis:::txtsize --> TkrDtbSfeiboun:::txtsize
-Boeinorgskis:::txtsize --> Tkttaxiuiidn:::txtsize
-ITlWHiynenoda:::txtsize --> Boeinorgskis:::txtsize
-Boeinorgskis:::txtsize --> TkrDtbSfeiboun:::txtsize
-TkrDtbSfeiboun:::txtsize --> CpepsaendennTUx:::txtsize
-TkrDtbSfeiboun:::txtsize --> TktafoSpsoby:::txtsize
-Boeinorgskis:::txtsize --> Tkttaxiuiidn:::txtsize
-Tkttaxiuiidn:::txtsize --> DttaiceamsTxiss:::txtsize
-Tkttaxiuiidn:::txtsize --> Aaaslaolu:::txtsize
-
-IlsiGenbo@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 11:49 PM_
-Israeli war spending in gaza, lebanon tops $40 billion in 2024" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
-World in shock after hamas surprise attacks on israel" }
-TafnemsHleikl@{ shape: win-pane, label: "_UPDATED Nov 27, 2024, 11:30 PM_
-Thousands of lebanese head home as israel-hezbollah ceasefire takes hold" }
-IlocfheUktid@{ shape: win-pane, label: "_UPDATED Nov 27, 2024, 05:35 PM_
-Israel-hezbollah ceasefire: what does the us-brokered truce include?" }
-TafnemsHleikl@{ shape: win-pane, label: "_UPDATED Nov 27, 2024, 11:30 PM_
-Thousands of lebanese head home as israel-hezbollah ceasefire takes hold" }
-TafnemsHleikl@{ shape: win-pane, label: "_UPDATED Nov 27, 2024, 11:30 PM_
-Thousands of lebanese head home as israel-hezbollah ceasefire takes hold" }
-PeLoseeaeao@{ shape: win-pane, label: "_UPDATED Nov 26, 2024, 08:05 PM_
-Prospect of lebanon ceasefire leaves gazans feeling abandoned" }
-AaOtsiPtnlnags@{ shape: win-pane, label: "_UPDATED Oct 08, 2024, 12:53 AM_
-A year after oct 7 attack: israelis and palestinians reflect on loss as war grinds on" }
-Wrssdszseeisepts@{ shape: win-pane, label: "_UPDATED Nov 25, 2024, 11:23 PM_
-Winter rainstorms flood tents of gaza’s displaced palestinians as israel steps up strikes" }
-
-IlsiGenbo:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-IlsiGenbo:::txtsize --> TafnemsHleikl:::txtsize
-TafnemsHleikl:::txtsize --> IlocfheUktid:::txtsize
-IlocfheUktid:::txtsize --> TafnemsHleikl:::txtsize
-IlocfheUktid:::txtsize --> TafnemsHleikl:::txtsize
-TafnemsHleikl:::txtsize --> PeLoseeaeao:::txtsize
-PeLoseeaeao:::txtsize --> AaOtsiPtnlnags:::txtsize
-PeLoseeaeao:::txtsize --> Wrssdszseeisepts:::txtsize
+TshXltStitr:::txtsize --> CsSbaunlsa:::txtsize
+CsSbaunlsa:::txtsize --> Twoefnltfsmee:::txtsize
+Twoefnltfsmee:::txtsize --> Tdsfrsrcaaa:::txtsize
+Twoefnltfsmee:::txtsize --> Ittfrralprp:::txtsize
+CsSbaunlsa:::txtsize --> CvoaaUiitt:::txtsize
+CvoaaUiitt:::txtsize --> TcrroadcbeC:::txtsize
+CvoaaUiitt:::txtsize --> Acnrrhteur:::txtsize
+TshXltStitr:::txtsize --> ChaUospsiaf:::txtsize
+ChaUospsiaf:::txtsize --> TcrroadcbeC:::txtsize
+TcrroadcbeC:::txtsize --> MoapnTghhtfa:::txtsize
+TcrroadcbeC:::txtsize --> Fgtaer:::txtsize
 
 ```
-<i>Last updated: 2025-03-18 08:00:50.972543 (GMT+8)</i>
+<i>Last updated: 2025-03-18 12:01:11.920553 (GMT+8)</i>
 <!-- END -->
