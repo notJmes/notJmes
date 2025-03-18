@@ -59,42 +59,48 @@ WAirpobdSp:::txtsize --> TnanrrSaSpma:::txtsize
 TnanrrSaSpma:::txtsize --> Sponsalgemihne:::txtsize
 TnanrrSaSpma:::txtsize --> TstlsSseitowip:::txtsize
 
-Ilthnaditsee@{ shape: win-pane, label: "_UPDATED Mar 18, 2025, 07:57 PM_
-Israel vows to fight on in gaza after deadliest strikes since truce" }
-AslessikGsedoe@{ shape: win-pane, label: "_UPDATED Mar 18, 2025, 05:43 PM_
-At least 200 killed in ‘extensive’ israeli strikes on gaza as ceasefire deadlock breaks" }
-Wrmlthaed@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:48 PM_
-What are the main elements of the gaza ceasefire deal?" }
-Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
-Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
+Iliieaysaarr@{ shape: win-pane, label: "_UPDATED Mar 18, 2025, 11:41 PM_
+Israeli strikes kill over 400 in gaza, say palestinians, ceasefire on brink" }
+Ildsoeraobis@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 02:09 AM_
+Israel team discusses hostages at truce talks dogged by divisions" }
 Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
 ‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-Hiinuposhrah@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 08:40 PM_
-‘hell will rain down on you’: trump, the houthis and the us’ proxy war with iran" }
-Hmdulnrecsud@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:01 AM_
-How hamas’ audacious, well-planned surprise attack on israel unfolded" }
 NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
 Netanyahu declares israel at war as hamas attacks kill over 100" }
 NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
 Netanyahu declares israel at war as hamas attacks kill over 100" }
-Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
-Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
-Pezdsyeasarl@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:48 PM_
-People in gaza shed tears of joy, disbelief at news of ceasefire deal" }
-Ilamslorpdiaac@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:46 PM_
-Israel hostage families on roller coaster of hope and despair as gaza deal reached" }
+Htematnrfcheil@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 10:48 PM_
+Hamas to release american hostage in gaza, ready for second-phase ceasefire talks" }
+Hoilsparaadaz@{ shape: win-pane, label: "_UPDATED Mar 13, 2025, 06:54 PM_
+Hamas official welcomes trump’s apparent retreat on call to displace gazans" }
+Hoiyaethen@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 08:38 PM_
+Hamas official says gaza ceasefire talks have begun in doha" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Wiceapaks@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+SptldtrcIlsnic@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:01 AM_
+Singapore strongly condemns terror attacks on israel, calls for end to violence" }
 
-Ilthnaditsee:::txtsize --> AslessikGsedoe:::txtsize
-AslessikGsedoe:::txtsize --> Wrmlthaed:::txtsize
-Wrmlthaed:::txtsize --> Ilshedoooia:::txtsize
-Wrmlthaed:::txtsize --> Sbsrcdnacaale:::txtsize
-Ilthnaditsee:::txtsize --> Hiinuposhrah:::txtsize
-Hiinuposhrah:::txtsize --> Hmdulnrecsud:::txtsize
-Hmdulnrecsud:::txtsize --> NyeeawHakl:::txtsize
-Hmdulnrecsud:::txtsize --> NyeeawHakl:::txtsize
-Hiinuposhrah:::txtsize --> Ilshedoooia:::txtsize
-Ilshedoooia:::txtsize --> Pezdsyeasarl:::txtsize
-Ilshedoooia:::txtsize --> Ilamslorpdiaac:::txtsize
+Iliieaysaarr:::txtsize --> Ildsoeraobis:::txtsize
+Ildsoeraobis:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Ildsoeraobis:::txtsize --> Htematnrfcheil:::txtsize
+Htematnrfcheil:::txtsize --> Hoilsparaadaz:::txtsize
+Htematnrfcheil:::txtsize --> Hoiyaethen:::txtsize
+Iliieaysaarr:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+WzptIleint:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
+Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
 
 Tvoociooti@{ shape: win-pane, label: "_UPDATED Mar 18, 2025, 05:38 PM_
 Trump vows to authorise coal-fired power to counter china" }
@@ -143,5 +149,5 @@ Aiuoreugdnthnw:::txtsize --> TdragnfitirsPd:::txtsize
 Aiuoreugdnthnw:::txtsize --> Tfscedeopslg:::txtsize
 
 ```
-<i>Last updated: 2025-03-18 20:00:57.419828 (GMT+8)</i>
+<i>Last updated: 2025-03-19 00:00:30.371973 (GMT+8)</i>
 <!-- END -->
