@@ -16,6 +16,52 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+AslessikGsedoe@{ shape: win-pane, label: "_UPDATED Mar 18, 2025, 03:15 PM_
+At least 200 killed in ‘extensive’ israeli strikes on gaza as ceasefire deadlock breaks" }
+Htematnrfcheil@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 10:48 PM_
+Hamas to release american hostage in gaza, ready for second-phase ceasefire talks" }
+Hoilsparaadaz@{ shape: win-pane, label: "_UPDATED Mar 13, 2025, 06:54 PM_
+Hamas official welcomes trump’s apparent retreat on call to displace gazans" }
+Tpstvzceetda@{ shape: win-pane, label: "_UPDATED Feb 05, 2025, 08:50 PM_
+Trump proposes us ‘take over’ gaza and create ‘riviera of the middle east’" }
+AttpitmogGl@{ shape: win-pane, label: "_UPDATED Mar 13, 2025, 08:59 PM_
+Arab states to keep talking with trump envoy on egypt’s gaza plan" }
+Hoiyaethen@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 08:38 PM_
+Hamas official says gaza ceasefire talks have begun in doha" }
+UtysraGruxoc@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 10:11 PM_
+Uncertainty looms as first phase of gaza truce due to expire on march 1" }
+Ilserylaeck@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 09:27 PM_
+Israel halts gaza electricity supply ahead of new truce talks" }
+Wrmlthaed@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:48 PM_
+What are the main elements of the gaza ceasefire deal?" }
+Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
+Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
+Pezdsyeasarl@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:48 PM_
+People in gaza shed tears of joy, disbelief at news of ceasefire deal" }
+Ilamslorpdiaac@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:46 PM_
+Israel hostage families on roller coaster of hope and despair as gaza deal reached" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+
+AslessikGsedoe:::txtsize --> Htematnrfcheil:::txtsize
+Htematnrfcheil:::txtsize --> Hoilsparaadaz:::txtsize
+Hoilsparaadaz:::txtsize --> Tpstvzceetda:::txtsize
+Hoilsparaadaz:::txtsize --> AttpitmogGl:::txtsize
+Htematnrfcheil:::txtsize --> Hoiyaethen:::txtsize
+Hoiyaethen:::txtsize --> UtysraGruxoc:::txtsize
+Hoiyaethen:::txtsize --> Ilserylaeck:::txtsize
+AslessikGsedoe:::txtsize --> Wrmlthaed:::txtsize
+Wrmlthaed:::txtsize --> Ilshedoooia:::txtsize
+Ilshedoooia:::txtsize --> Pezdsyeasarl:::txtsize
+Ilshedoooia:::txtsize --> Ilamslorpdiaac:::txtsize
+Wrmlthaed:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+
 Tdswuosaais@{ shape: win-pane, label: "_UPDATED Mar 18, 2025, 07:55 AM_
 Trump discussion with putin to focus on what ukraine will lose" }
 DsruasvUn@{ shape: win-pane, label: "_UPDATED Feb 24, 2022, 11:13 PM_
@@ -102,43 +148,6 @@ Ilshedoooia:::txtsize --> Ilamslorpdiaac:::txtsize
 Ilamslorpdiaac:::txtsize --> Ilshedoooia:::txtsize
 Ilamslorpdiaac:::txtsize --> Speeegcfntee:::txtsize
 
-TshXltStitr@{ shape: win-pane, label: "_UPDATED Mar 18, 2025, 10:29 AM_
-Trump says china’s xi will visit the us in ‘not too distant future’" }
-CsSbaunlsa@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 06:58 PM_
-China says us owes ‘big thank you’ on fentanyl, calls for talks" }
-Twoefnltfsmee@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 11:01 PM_
-Trump will not ease up on fentanyl-related tariffs, says us commerce secretary" }
-Tdsfrsrcaaa@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 06:20 AM_
-Trump delays tariffs for goods under mexico, canada trade deal" }
-Ittfrralprp@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 08:53 AM_
-It’s not just tariffs: us growth risks are piling up under trump" }
-CvoaaUiitt@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 12:27 PM_
-China vows to hit back against us tariffs linked to fentanyl" }
-TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
-Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
-Acnrrhteur@{ shape: win-pane, label: "_UPDATED Feb 17, 2025, 02:51 PM_
-American consumers learn to shop in the age of trump tariffs" }
-ChaUospsiaf@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 03:18 PM_
-China hits back at us imports as trump’s fresh tariffs take effect" }
-TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
-Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
-MoapnTghhtfa@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 11:24 PM_
-Mexico has backup plan in case trump goes through with tariff threat" }
-Fgtaer@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:07 AM_
-Facing up to the realities of trump 2.0" }
-
-TshXltStitr:::txtsize --> CsSbaunlsa:::txtsize
-CsSbaunlsa:::txtsize --> Twoefnltfsmee:::txtsize
-Twoefnltfsmee:::txtsize --> Tdsfrsrcaaa:::txtsize
-Twoefnltfsmee:::txtsize --> Ittfrralprp:::txtsize
-CsSbaunlsa:::txtsize --> CvoaaUiitt:::txtsize
-CvoaaUiitt:::txtsize --> TcrroadcbeC:::txtsize
-CvoaaUiitt:::txtsize --> Acnrrhteur:::txtsize
-TshXltStitr:::txtsize --> ChaUospsiaf:::txtsize
-ChaUospsiaf:::txtsize --> TcrroadcbeC:::txtsize
-TcrroadcbeC:::txtsize --> MoapnTghhtfa:::txtsize
-TcrroadcbeC:::txtsize --> Fgtaer:::txtsize
-
 ```
-<i>Last updated: 2025-03-18 12:01:11.920553 (GMT+8)</i>
+<i>Last updated: 2025-03-18 16:00:35.415075 (GMT+8)</i>
 <!-- END -->
