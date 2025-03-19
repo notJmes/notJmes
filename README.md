@@ -16,7 +16,7 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Wrtwdieys@{ shape: win-pane, label: "_UPDATED Mar 18, 2025, 06:57 PM_
+Wrtwdieys@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 05:34 AM_
 Will trump’s trade war end america’s fentanyl crisis?" }
 TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
 Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
@@ -149,5 +149,5 @@ Aiuoreugdnthnw:::txtsize --> TdragnfitirsPd:::txtsize
 Aiuoreugdnthnw:::txtsize --> Tfscedeopslg:::txtsize
 
 ```
-<i>Last updated: 2025-03-19 04:00:52.980000 (GMT+8)</i>
+<i>Last updated: 2025-03-19 08:00:13.752922 (GMT+8)</i>
 <!-- END -->
