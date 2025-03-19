@@ -18,7 +18,7 @@ classDef txtsize font-size:20px;
 
 TPpcuhtofcfni@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 11:58 AM_
 Trump-putin phone call: russia had little to gain from a ceasefire in ukraine" }
-TPaotreyctar@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 11:08 AM_
+TPaotreyctar@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 01:55 PM_
 Trump, putin agree on halt in ukraine energy attacks, but no ceasefire" }
 UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
 Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
@@ -26,20 +26,66 @@ Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
 Ukraine’s zelensky, trump clash in oval office shouting match" }
 Tfrsmawrmndlna@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:41 PM_
 Text of us-ukraine statement paving way for resumption of aid, intelligence sharing" }
-Unlysgcndlmp@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 05:24 AM_
-Ukraine’s zelensky backs energy truce, but needs ‘details’ from trump" }
-TPaotreyctar@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 11:08 AM_
+Raiacifacakeiml@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 03:21 PM_
+Russia, ukraine trade accusations of infrastructure attacks after putin-trump call" }
+TPaotreyctar@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 01:55 PM_
 Trump, putin agree on halt in ukraine energy attacks, but no ceasefire" }
-Unlytsunnirg@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 10:13 PM_
-Ukraine’s zelensky says troops not surrounded in russia’s kursk region" }
+TPaotreyctar@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 01:55 PM_
+Trump, putin agree on halt in ukraine energy attacks, but no ceasefire" }
 
 TPpcuhtofcfni:::txtsize --> TPaotreyctar:::txtsize
 TPaotreyctar:::txtsize --> UneSoocfnis:::txtsize
 UneSoocfnis:::txtsize --> Unlyphaiogh:::txtsize
 UneSoocfnis:::txtsize --> Tfrsmawrmndlna:::txtsize
-TPaotreyctar:::txtsize --> Unlysgcndlmp:::txtsize
-Unlysgcndlmp:::txtsize --> TPaotreyctar:::txtsize
-Unlysgcndlmp:::txtsize --> Unlytsunnirg:::txtsize
+TPaotreyctar:::txtsize --> Raiacifacakeiml:::txtsize
+Raiacifacakeiml:::txtsize --> TPaotreyctar:::txtsize
+Raiacifacakeiml:::txtsize --> TPaotreyctar:::txtsize
+
+Ugcureman@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 12:05 PM_
+Us judge blocks trump’s transgender military ban" }
+Pgbanefogtagrsnes@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 03:15 PM_
+Pentagon to ban transgender people from joining military, pauses gender transition procedures" }
+Whnoretrnserrpn@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 05:45 PM_
+What challenges could trump’s executive order on transgender sports participation face?" }
+Ddpondoaiuec@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 07:51 PM_
+Donald trump’s ban on transgender sports may be difficult to enforce" }
+Ulesbtareeo@{ shape: win-pane, label: "_UPDATED Feb 01, 2025, 02:06 PM_
+Us health agencies scrub hiv, other data to remove ‘gender ideology’" }
+Tosorpfanecoo@{ shape: win-pane, label: "_UPDATED Jan 29, 2025, 10:22 AM_
+Trump orders end to federal support for transgender healthcare for minors" }
+TtaDvpodseo@{ shape: win-pane, label: "_UPDATED Jan 28, 2025, 06:47 PM_
+Trump takes aim at dei, covid-19 expulsions and transgender troops" }
+Upuenasteme@{ shape: win-pane, label: "_UPDATED Jan 26, 2025, 01:01 AM_
+Us stops issuing gender-neutral ‘x’ passports under trump order" }
+Uettsmalhta@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 06:22 PM_
+Us to remove trans troops from military unless they obtain waiver" }
+Pgbanefogtagrsnes@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 03:15 PM_
+Pentagon to ban transgender people from joining military, pauses gender transition procedures" }
+Whnoretrnserrpn@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 05:45 PM_
+What challenges could trump’s executive order on transgender sports participation face?" }
+Tosorpfanecoo@{ shape: win-pane, label: "_UPDATED Jan 29, 2025, 10:22 AM_
+Trump orders end to federal support for transgender healthcare for minors" }
+Suuudrpendg@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 03:21 PM_
+‘see you in court’: trump and governor spar over transgender rights" }
+Naanorodtueve@{ shape: win-pane, label: "_UPDATED Feb 07, 2025, 10:03 PM_
+Ncaa bans transgender women from sports a day after trump executive order" }
+Ddpondoaiuec@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 07:51 PM_
+Donald trump’s ban on transgender sports may be difficult to enforce" }
+
+Ugcureman:::txtsize --> Pgbanefogtagrsnes:::txtsize
+Pgbanefogtagrsnes:::txtsize --> Whnoretrnserrpn:::txtsize
+Whnoretrnserrpn:::txtsize --> Ddpondoaiuec:::txtsize
+Whnoretrnserrpn:::txtsize --> Ulesbtareeo:::txtsize
+Pgbanefogtagrsnes:::txtsize --> Tosorpfanecoo:::txtsize
+Tosorpfanecoo:::txtsize --> TtaDvpodseo:::txtsize
+Tosorpfanecoo:::txtsize --> Upuenasteme:::txtsize
+Ugcureman:::txtsize --> Uettsmalhta:::txtsize
+Uettsmalhta:::txtsize --> Pgbanefogtagrsnes:::txtsize
+Pgbanefogtagrsnes:::txtsize --> Whnoretrnserrpn:::txtsize
+Pgbanefogtagrsnes:::txtsize --> Tosorpfanecoo:::txtsize
+Uettsmalhta:::txtsize --> Suuudrpendg:::txtsize
+Suuudrpendg:::txtsize --> Naanorodtueve:::txtsize
+Suuudrpendg:::txtsize --> Ddpondoaiuec:::txtsize
 
 Jhigenemiiiea@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 10:32 AM_
 ‘just the beginning’: israel warns more to come as airstrikes kill over 400 in gaza" }
@@ -87,49 +133,6 @@ Iliieaysaarr:::txtsize --> NyeeawHakl:::txtsize
 NyeeawHakl:::txtsize --> WzptIleint:::txtsize
 NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
 
-Wrtwdieys@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 05:34 AM_
-Will trump’s trade war end america’s fentanyl crisis?" }
-TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
-Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
-MoapnTghhtfa@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 11:24 PM_
-Mexico has backup plan in case trump goes through with tariff threat" }
-ModieiocTwececra@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 09:34 PM_
-Mexico, canada tariffs set to kick in on march 4, but trump will set exact levels: us commerce head" }
-Csenitresple@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 09:07 PM_
-China’s trade dominance in south america tempers trump’s influence" }
-Fgtaer@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:07 AM_
-Facing up to the realities of trump 2.0" }
-TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
-Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-WAirpobdSp@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 07:50 AM_
-Who is anji sinha, trump’s pick to be ambassador to singapore?" }
-TnanrrSaSpma@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 10:00 PM_
-Trump nominates entrepreneur anji sinha as his singapore ambassador" }
-Sponsalgemihne@{ shape: win-pane, label: "_UPDATED Jan 14, 2025, 08:43 PM_
-Singapore could end up as ‘collateral damage’ under trump 2.0 tariffs: chan heng chee" }
-TstlsSseitowip@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 07:56 PM_
-Trump’s erratic policies put us at risk of recession, but much of the world is prepared" }
-TnanrrSaSpma@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 10:00 PM_
-Trump nominates entrepreneur anji sinha as his singapore ambassador" }
-Sponsalgemihne@{ shape: win-pane, label: "_UPDATED Jan 14, 2025, 08:43 PM_
-Singapore could end up as ‘collateral damage’ under trump 2.0 tariffs: chan heng chee" }
-TstlsSseitowip@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 07:56 PM_
-Trump’s erratic policies put us at risk of recession, but much of the world is prepared" }
-
-Wrtwdieys:::txtsize --> TcrroadcbeC:::txtsize
-TcrroadcbeC:::txtsize --> MoapnTghhtfa:::txtsize
-MoapnTghhtfa:::txtsize --> ModieiocTwececra:::txtsize
-MoapnTghhtfa:::txtsize --> Csenitresple:::txtsize
-TcrroadcbeC:::txtsize --> Fgtaer:::txtsize
-Fgtaer:::txtsize --> TalytnretaWHsit:::txtsize
-Wrtwdieys:::txtsize --> WAirpobdSp:::txtsize
-WAirpobdSp:::txtsize --> TnanrrSaSpma:::txtsize
-TnanrrSaSpma:::txtsize --> Sponsalgemihne:::txtsize
-TnanrrSaSpma:::txtsize --> TstlsSseitowip:::txtsize
-WAirpobdSp:::txtsize --> TnanrrSaSpma:::txtsize
-TnanrrSaSpma:::txtsize --> Sponsalgemihne:::txtsize
-TnanrrSaSpma:::txtsize --> TstlsSseitowip:::txtsize
-
 ```
-<i>Last updated: 2025-03-19 12:00:32.304362 (GMT+8)</i>
+<i>Last updated: 2025-03-19 16:08:16.482962 (GMT+8)</i>
 <!-- END -->
