@@ -41,7 +41,53 @@ TPaotreyctar:::txtsize --> Raiacifacakeiml:::txtsize
 Raiacifacakeiml:::txtsize --> TPaotreyctar:::txtsize
 Raiacifacakeiml:::txtsize --> TPaotreyctar:::txtsize
 
-Smreurvljsan@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 03:20 PM_
+Mndawadscenetn@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 04:36 PM_
+Macron speeds up rafale warplane orders as france invests in nuclear deterrence" }
+Unlytsunnirg@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 10:13 PM_
+Ukraine’s zelensky says troops not surrounded in russia’s kursk region" }
+TavtRaljradco@{ shape: win-pane, label: "_UPDATED Aug 09, 2024, 12:10 AM_
+Thousands evacuated as russia battles major ukrainian border incursion" }
+Rafifibrc@{ shape: win-pane, label: "_UPDATED Aug 06, 2024, 11:23 PM_
+Russia says fighting off ukrainian border attack" }
+Fiasekeee@{ shape: win-pane, label: "_UPDATED Aug 07, 2024, 11:22 PM_
+Four killed as russia shells ukraine's donetsk region" }
+UasoiwnagaortUn@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 06:48 PM_
+Uk’s starmer says ‘coalition of willing’ expanding preparations for post-truce ukraine" }
+Zseasetreeria@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 10:28 PM_
+Zelensky presses allies for security guarantees, foreign troops in ukraine" }
+AmqPselraoKlfsn@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 10:53 PM_
+At trump’s request, putin says he will let ukrainian troops in kursk live if they surrender" }
+FerlntuegeoiEel@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 03:37 PM_
+France’s macron will open debate about extending nuclear protection to european allies" }
+Tpstikernl@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 07:28 PM_
+Trump pauses military aid to ukraine after zelensky clash" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+Sereolarnkeiet@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:16 PM_
+Starmer, macron pledge to develop ceasefire plan for ukraine, but will the us bite?" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
+Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
+YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
+‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
+
+Mndawadscenetn:::txtsize --> Unlytsunnirg:::txtsize
+Unlytsunnirg:::txtsize --> TavtRaljradco:::txtsize
+TavtRaljradco:::txtsize --> Rafifibrc:::txtsize
+TavtRaljradco:::txtsize --> Fiasekeee:::txtsize
+Unlytsunnirg:::txtsize --> UasoiwnagaortUn:::txtsize
+UasoiwnagaortUn:::txtsize --> Zseasetreeria:::txtsize
+UasoiwnagaortUn:::txtsize --> AmqPselraoKlfsn:::txtsize
+Mndawadscenetn:::txtsize --> FerlntuegeoiEel:::txtsize
+FerlntuegeoiEel:::txtsize --> Tpstikernl:::txtsize
+Tpstikernl:::txtsize --> Unlyphaiogh:::txtsize
+Tpstikernl:::txtsize --> Sereolarnkeiet:::txtsize
+FerlntuegeoiEel:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
+Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
+
+Smreurvljsan@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 09:28 PM_
 Supreme court chief rebukes trump over call for judge’s impeachment" }
 Ugcureman@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 12:05 PM_
 Us judge blocks trump’s transgender military ban" }
@@ -84,52 +130,6 @@ Jtrykmerpsreeam:::txtsize --> Ruseznleepny:::txtsize
 TaitesroCJcmeel:::txtsize --> Tdteeeamtaopor:::txtsize
 Tdteeeamtaopor:::txtsize --> Jtrykmerpsreeam:::txtsize
 
-Jhigenemiiiea@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 10:32 AM_
-‘just the beginning’: israel warns more to come as airstrikes kill over 400 in gaza" }
-Iliieaysaarr@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 12:00 AM_
-Israeli strikes kill over 400 in gaza, say palestinians, ceasefire on brink" }
-Ildsoeraobis@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 02:09 AM_
-Israel team discusses hostages at truce talks dogged by divisions" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-Htematnrfcheil@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 10:48 PM_
-Hamas to release american hostage in gaza, ready for second-phase ceasefire talks" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
-World in shock after hamas surprise attacks on israel" }
-Iliieaysaarr@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 12:00 AM_
-Israeli strikes kill over 400 in gaza, say palestinians, ceasefire on brink" }
-Ildsoeraobis@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 02:09 AM_
-Israel team discusses hostages at truce talks dogged by divisions" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-Htematnrfcheil@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 10:48 PM_
-Hamas to release american hostage in gaza, ready for second-phase ceasefire talks" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
-World in shock after hamas surprise attacks on israel" }
-
-Jhigenemiiiea:::txtsize --> Iliieaysaarr:::txtsize
-Iliieaysaarr:::txtsize --> Ildsoeraobis:::txtsize
-Ildsoeraobis:::txtsize --> Sbsrcdnacaale:::txtsize
-Ildsoeraobis:::txtsize --> Htematnrfcheil:::txtsize
-Iliieaysaarr:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Jhigenemiiiea:::txtsize --> Iliieaysaarr:::txtsize
-Iliieaysaarr:::txtsize --> Ildsoeraobis:::txtsize
-Ildsoeraobis:::txtsize --> Sbsrcdnacaale:::txtsize
-Ildsoeraobis:::txtsize --> Htematnrfcheil:::txtsize
-Iliieaysaarr:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-
 ```
-<i>Last updated: 2025-03-19 20:00:45.807360 (GMT+8)</i>
+<i>Last updated: 2025-03-20 00:01:05.786888 (GMT+8)</i>
 <!-- END -->
