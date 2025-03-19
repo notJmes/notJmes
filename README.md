@@ -16,8 +16,8 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-TPpcuhtofcfni@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 11:58 AM_
-Trump-putin phone call: russia had little to gain from a ceasefire in ukraine" }
+Dfsrpaeilhnp@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 05:43 PM_
+Dial d for disaster: trump’s ukraine ceasefire call with putin a flop" }
 TPaotreyctar@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 01:55 PM_
 Trump, putin agree on halt in ukraine energy attacks, but no ceasefire" }
 UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
@@ -33,7 +33,7 @@ Trump, putin agree on halt in ukraine energy attacks, but no ceasefire" }
 TPaotreyctar@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 01:55 PM_
 Trump, putin agree on halt in ukraine energy attacks, but no ceasefire" }
 
-TPpcuhtofcfni:::txtsize --> TPaotreyctar:::txtsize
+Dfsrpaeilhnp:::txtsize --> TPaotreyctar:::txtsize
 TPaotreyctar:::txtsize --> UneSoocfnis:::txtsize
 UneSoocfnis:::txtsize --> Unlyphaiogh:::txtsize
 UneSoocfnis:::txtsize --> Tfrsmawrmndlna:::txtsize
@@ -41,51 +41,48 @@ TPaotreyctar:::txtsize --> Raiacifacakeiml:::txtsize
 Raiacifacakeiml:::txtsize --> TPaotreyctar:::txtsize
 Raiacifacakeiml:::txtsize --> TPaotreyctar:::txtsize
 
+Smreurvljsan@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 03:20 PM_
+Supreme court chief rebukes trump over call for judge’s impeachment" }
 Ugcureman@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 12:05 PM_
 Us judge blocks trump’s transgender military ban" }
 Pgbanefogtagrsnes@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 03:15 PM_
 Pentagon to ban transgender people from joining military, pauses gender transition procedures" }
 Whnoretrnserrpn@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 05:45 PM_
 What challenges could trump’s executive order on transgender sports participation face?" }
-Ddpondoaiuec@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 07:51 PM_
-Donald trump’s ban on transgender sports may be difficult to enforce" }
-Ulesbtareeo@{ shape: win-pane, label: "_UPDATED Feb 01, 2025, 02:06 PM_
-Us health agencies scrub hiv, other data to remove ‘gender ideology’" }
 Tosorpfanecoo@{ shape: win-pane, label: "_UPDATED Jan 29, 2025, 10:22 AM_
 Trump orders end to federal support for transgender healthcare for minors" }
-TtaDvpodseo@{ shape: win-pane, label: "_UPDATED Jan 28, 2025, 06:47 PM_
-Trump takes aim at dei, covid-19 expulsions and transgender troops" }
-Upuenasteme@{ shape: win-pane, label: "_UPDATED Jan 26, 2025, 01:01 AM_
-Us stops issuing gender-neutral ‘x’ passports under trump order" }
 Uettsmalhta@{ shape: win-pane, label: "_UPDATED Feb 27, 2025, 06:22 PM_
 Us to remove trans troops from military unless they obtain waiver" }
 Pgbanefogtagrsnes@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 03:15 PM_
 Pentagon to ban transgender people from joining military, pauses gender transition procedures" }
-Whnoretrnserrpn@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 05:45 PM_
-What challenges could trump’s executive order on transgender sports participation face?" }
-Tosorpfanecoo@{ shape: win-pane, label: "_UPDATED Jan 29, 2025, 10:22 AM_
-Trump orders end to federal support for transgender healthcare for minors" }
 Suuudrpendg@{ shape: win-pane, label: "_UPDATED Feb 22, 2025, 03:21 PM_
 ‘see you in court’: trump and governor spar over transgender rights" }
-Naanorodtueve@{ shape: win-pane, label: "_UPDATED Feb 07, 2025, 10:03 PM_
-Ncaa bans transgender women from sports a day after trump executive order" }
-Ddpondoaiuec@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 07:51 PM_
-Donald trump’s ban on transgender sports may be difficult to enforce" }
+TaitesroCJcmeel@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 01:22 AM_
+Trump administration defends deportations, as chief justice slams impeachment call" }
+Jtrykmerpsreeam@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 11:58 AM_
+Judge temporarily blocks trump’s use of wartime powers to target venezuelan gang members" }
+Uaaojldznmres@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 10:47 AM_
+Us to pay el salvador $8m to jail 300 alleged venezuelan gang members, ap reports" }
+Ruseznleepny@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 04:56 PM_
+Restaurants, pool & even a zoo: venezuela offers a peek at prison run by gang" }
+Tdteeeamtaopor@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 02:40 PM_
+Trump deports alleged venezuelan gang members to el salvador despite court order" }
+Jtrykmerpsreeam@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 11:58 AM_
+Judge temporarily blocks trump’s use of wartime powers to target venezuelan gang members" }
 
+Smreurvljsan:::txtsize --> Ugcureman:::txtsize
 Ugcureman:::txtsize --> Pgbanefogtagrsnes:::txtsize
 Pgbanefogtagrsnes:::txtsize --> Whnoretrnserrpn:::txtsize
-Whnoretrnserrpn:::txtsize --> Ddpondoaiuec:::txtsize
-Whnoretrnserrpn:::txtsize --> Ulesbtareeo:::txtsize
 Pgbanefogtagrsnes:::txtsize --> Tosorpfanecoo:::txtsize
-Tosorpfanecoo:::txtsize --> TtaDvpodseo:::txtsize
-Tosorpfanecoo:::txtsize --> Upuenasteme:::txtsize
 Ugcureman:::txtsize --> Uettsmalhta:::txtsize
 Uettsmalhta:::txtsize --> Pgbanefogtagrsnes:::txtsize
-Pgbanefogtagrsnes:::txtsize --> Whnoretrnserrpn:::txtsize
-Pgbanefogtagrsnes:::txtsize --> Tosorpfanecoo:::txtsize
 Uettsmalhta:::txtsize --> Suuudrpendg:::txtsize
-Suuudrpendg:::txtsize --> Naanorodtueve:::txtsize
-Suuudrpendg:::txtsize --> Ddpondoaiuec:::txtsize
+Smreurvljsan:::txtsize --> TaitesroCJcmeel:::txtsize
+TaitesroCJcmeel:::txtsize --> Jtrykmerpsreeam:::txtsize
+Jtrykmerpsreeam:::txtsize --> Uaaojldznmres:::txtsize
+Jtrykmerpsreeam:::txtsize --> Ruseznleepny:::txtsize
+TaitesroCJcmeel:::txtsize --> Tdteeeamtaopor:::txtsize
+Tdteeeamtaopor:::txtsize --> Jtrykmerpsreeam:::txtsize
 
 Jhigenemiiiea@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 10:32 AM_
 ‘just the beginning’: israel warns more to come as airstrikes kill over 400 in gaza" }
@@ -134,5 +131,5 @@ NyeeawHakl:::txtsize --> WzptIleint:::txtsize
 NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
 
 ```
-<i>Last updated: 2025-03-19 16:08:26.309374 (GMT+8)</i>
+<i>Last updated: 2025-03-19 20:00:45.807360 (GMT+8)</i>
 <!-- END -->
