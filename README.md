@@ -16,7 +16,7 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-TZsenapcofdrr@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 11:30 AM_
+TZsenapcofdrr@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 03:30 PM_
 Trump, zelensky pledge in ‘fantastic’ phone call to work for end to war in ukraine" }
 Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
 Ukraine’s zelensky, trump clash in oval office shouting match" }
@@ -53,68 +53,53 @@ Dfsrpaeilhnp:::txtsize --> TPaotreyctar:::txtsize
 TPaotreyctar:::txtsize --> UneSoocfnis:::txtsize
 TPaotreyctar:::txtsize --> Raiacifacakeiml:::txtsize
 
-Dfsrpaeilhnp@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 05:43 PM_
-Dial d for disaster: trump’s ukraine ceasefire call with putin a flop" }
-TPaotreyctar@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 01:55 PM_
-Trump, putin agree on halt in ukraine energy attacks, but no ceasefire" }
-UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
-Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-Tfrsmawrmndlna@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:41 PM_
-Text of us-ukraine statement paving way for resumption of aid, intelligence sharing" }
-Raiacifacakeiml@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 03:21 PM_
-Russia, ukraine trade accusations of infrastructure attacks after putin-trump call" }
-TPaotreyctar@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 01:55 PM_
-Trump, putin agree on halt in ukraine energy attacks, but no ceasefire" }
-TPaotreyctar@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 01:55 PM_
-Trump, putin agree on halt in ukraine energy attacks, but no ceasefire" }
+FnklptnUosvr@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 03:46 PM_
+Finland ranks world’s happiest again with us at lowest spot ever: survey" }
+GyhUWrowbpsk@{ shape: win-pane, label: "_UPDATED Mar 20, 2024, 07:07 PM_
+Gloomy youth pull us and western europe down global happiness ranking" }
+Spnsyhildoomair@{ shape: win-pane, label: "_UPDATED Jan 26, 2024, 05:16 PM_
+Singaporeans less happy, but those with balanced approach to life more satisfied: survey" }
+SprhtpAirenr@{ shape: win-pane, label: "_UPDATED Nov 11, 2024, 12:55 PM_
+Singapore’s rich the most unhappy in asia with work-life balance: survey" }
+MnacisolauiP@{ shape: win-pane, label: "_PUBLISHED Oct 07, 2023, 05:00 AM_
+More in singapore choosing to spend on health than on luxury items: poll" }
+Wenrxasintc@{ shape: win-pane, label: "_UPDATED Jan 25, 2024, 12:17 PM_
+Weighed down by our own expectations, despite money in the pocket" }
+Spnsyhildoomair@{ shape: win-pane, label: "_UPDATED Jan 26, 2024, 05:16 PM_
+Singaporeans less happy, but those with balanced approach to life more satisfied: survey" }
 
-Dfsrpaeilhnp:::txtsize --> TPaotreyctar:::txtsize
-TPaotreyctar:::txtsize --> UneSoocfnis:::txtsize
-UneSoocfnis:::txtsize --> Unlyphaiogh:::txtsize
-UneSoocfnis:::txtsize --> Tfrsmawrmndlna:::txtsize
-TPaotreyctar:::txtsize --> Raiacifacakeiml:::txtsize
-Raiacifacakeiml:::txtsize --> TPaotreyctar:::txtsize
-Raiacifacakeiml:::txtsize --> TPaotreyctar:::txtsize
+FnklptnUosvr:::txtsize --> GyhUWrowbpsk:::txtsize
+GyhUWrowbpsk:::txtsize --> Spnsyhildoomair:::txtsize
+Spnsyhildoomair:::txtsize --> SprhtpAirenr:::txtsize
+Spnsyhildoomair:::txtsize --> MnacisolauiP:::txtsize
+GyhUWrowbpsk:::txtsize --> Wenrxasintc:::txtsize
+Wenrxasintc:::txtsize --> Spnsyhildoomair:::txtsize
 
-Tyidsritsns@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 11:34 AM_
-Turkey detains erdogan’s main rival in what opposition calls ‘coup’" }
-Ksmaeeewuayoeu@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 11:23 PM_
-Kurdish pkk militants declare ceasefire with turkey after 40 years of armed struggle" }
-IlitpisaSse@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:50 AM_
-Israel lobbies us to keep russian bases in a ‘weak’ syria, sources say" }
-SsdsflgtlisRati@{ shape: win-pane, label: "_UPDATED Dec 09, 2024, 09:57 AM_
-Syria’s assad in moscow after fleeing country, will be given asylum: russian state media" }
-Ilpsktau@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 09:40 AM_
-Israeli warplanes strike south of damascus" }
-Tsoniadriwpi@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 10:46 PM_
-Turkish school annuls diploma of erdogan rival in blow to opposition" }
-Tysaatornayvn@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 08:10 PM_
-Turkey backs sharaa’s stability efforts, erdogan says amid syrian violence" }
-Sanrfessl@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 03:27 AM_
-Syria announces probe after reports of mass killings" }
-SnltiARahtoy@{ shape: win-pane, label: "_UPDATED Dec 08, 2024, 11:38 PM_
-Syrian rebels oust president assad; russia says he left the country" }
-TyynoUneau@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 10:22 PM_
-Turkey ready to send troops to ukraine if necessary: source" }
-Raceaaeiaagcolao@{ shape: win-pane, label: "_UPDATED Jan 23, 2025, 09:13 PM_
-Russia rejects idea of nato peacekeepers in ukraine, warning of ‘uncontrollable escalation’" }
-Wnolykocsi@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 10:42 PM_
-‘we are not alone’: zelensky thanks europe at crisis summit" }
+Fhargddyoessinm@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 01:45 PM_
+French researcher allegedly denied entry to us over text messages criticising trump" }
+JdspoCbuslte@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 10:29 PM_
+Judge denies trump bid to toss columbia student’s challenge to arrest" }
+Cbiinsaipswcdd@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 04:32 PM_
+Columbia university punishes pro-palestinian protesters who occupied building" }
+Psoyproatlae@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 02:33 AM_
+Protesters occupy trump tower following arrest of columbia student" }
+Wfsoidaeaoewc@{ shape: win-pane, label: "_UPDATED Mar 13, 2025, 09:51 AM_
+Wife of arrested columbia student says she was naive to believe he was secure" }
+UcinntoivtrSili@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 10:30 PM_
+Us cancels $530m in grants, contracts to columbia university over anti-semitism allegations" }
+Ulbehtpsbifea@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:59 AM_
+Us colleges become flashpoints for protests on both sides of israel-hamas war" }
+FSeitndaesb@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 09:25 AM_
+Five us universities hit with new federal anti-semitism probe" }
 
-Tyidsritsns:::txtsize --> Ksmaeeewuayoeu:::txtsize
-Ksmaeeewuayoeu:::txtsize --> IlitpisaSse:::txtsize
-IlitpisaSse:::txtsize --> SsdsflgtlisRati:::txtsize
-IlitpisaSse:::txtsize --> Ilpsktau:::txtsize
-Tyidsritsns:::txtsize --> Tsoniadriwpi:::txtsize
-Tsoniadriwpi:::txtsize --> Tysaatornayvn:::txtsize
-Tysaatornayvn:::txtsize --> Sanrfessl:::txtsize
-Tysaatornayvn:::txtsize --> SnltiARahtoy:::txtsize
-Tsoniadriwpi:::txtsize --> TyynoUneau:::txtsize
-TyynoUneau:::txtsize --> Raceaaeiaagcolao:::txtsize
-TyynoUneau:::txtsize --> Wnolykocsi:::txtsize
+Fhargddyoessinm:::txtsize --> JdspoCbuslte:::txtsize
+JdspoCbuslte:::txtsize --> Cbiinsaipswcdd:::txtsize
+Cbiinsaipswcdd:::txtsize --> Psoyproatlae:::txtsize
+Cbiinsaipswcdd:::txtsize --> Wfsoidaeaoewc:::txtsize
+JdspoCbuslte:::txtsize --> UcinntoivtrSili:::txtsize
+UcinntoivtrSili:::txtsize --> Ulbehtpsbifea:::txtsize
+UcinntoivtrSili:::txtsize --> FSeitndaesb:::txtsize
 
 ```
-<i>Last updated: 2025-03-20 12:01:10.187657 (GMT+8)</i>
+<i>Last updated: 2025-03-20 16:00:27.519343 (GMT+8)</i>
 <!-- END -->
