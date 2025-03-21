@@ -16,61 +16,97 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-PgtiglsoirC@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 12:37 PM_
-Pentagon set up briefing for elon musk on potential war with china" }
-Tmwsenaivepe@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 09:49 AM_
-Trump makes world’s richest man musk a ‘special government employee’" }
+Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 11:14 PM_
+Airlines question heathrow readiness after shutdown sparks global flight chaos" }
+Dsarcndawreel@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 09:21 PM_
+Delays at uk airports including london heathrow after e-gate system failure" }
+Spnuathnetitm@{ shape: win-pane, label: "_UPDATED May 20, 2019, 06:17 PM_
+Singaporeans can use e-gates at heathrow and other british airports from may 20" }
+Uaregoitxeiossr@{ shape: win-pane, label: "_UPDATED Dec 04, 2018, 04:48 PM_
+Uk's epassport gate immigration facility to be extended to singaporeans from summer of 2019" }
+Irnrdporsncpsongh@{ shape: win-pane, label: "_UPDATED Nov 22, 2024, 03:19 PM_
+Immigration clearance disrupted for over 5 hours at land, air checkpoints due to technical glitch: ica" }
+HtieadktrMndakC@{ shape: win-pane, label: "_UPDATED Nov 22, 2024, 03:12 PM_
+Heavy traffic expected at land checkpoints over qing ming and good friday weekend: ica" }
+Mutnresrdtktalnpy@{ shape: win-pane, label: "_UPDATED Nov 22, 2024, 06:00 PM_
+More automated lanes for travellers to be rolled out at checkpoints to raise clearance capacity: ica" }
+Asgeneoattawoo@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 11:46 PM_
+At least 16 flights between s’pore and london affected after heathrow airport closure" }
+Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 11:14 PM_
+Airlines question heathrow readiness after shutdown sparks global flight chaos" }
+Dsarcndawreel@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 09:21 PM_
+Delays at uk airports including london heathrow after e-gate system failure" }
+Asgeneoattawoo@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 11:46 PM_
+At least 16 flights between s’pore and london affected after heathrow airport closure" }
+Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 11:14 PM_
+Airlines question heathrow readiness after shutdown sparks global flight chaos" }
+Dsarcndawreel@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 09:21 PM_
+Delays at uk airports including london heathrow after e-gate system failure" }
+Asgeneoattawoo@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 11:46 PM_
+At least 16 flights between s’pore and london affected after heathrow airport closure" }
+
+Anenheetunkbih:::txtsize --> Dsarcndawreel:::txtsize
+Dsarcndawreel:::txtsize --> Spnuathnetitm:::txtsize
+Spnuathnetitm:::txtsize --> Uaregoitxeiossr:::txtsize
+Dsarcndawreel:::txtsize --> Irnrdporsncpsongh:::txtsize
+Irnrdporsncpsongh:::txtsize --> HtieadktrMndakC:::txtsize
+Irnrdporsncpsongh:::txtsize --> Mutnresrdtktalnpy:::txtsize
+Anenheetunkbih:::txtsize --> Asgeneoattawoo:::txtsize
+Asgeneoattawoo:::txtsize --> Anenheetunkbih:::txtsize
+Anenheetunkbih:::txtsize --> Dsarcndawreel:::txtsize
+Anenheetunkbih:::txtsize --> Asgeneoattawoo:::txtsize
+Asgeneoattawoo:::txtsize --> Anenheetunkbih:::txtsize
+Anenheetunkbih:::txtsize --> Dsarcndawreel:::txtsize
+Anenheetunkbih:::txtsize --> Asgeneoattawoo:::txtsize
+
+Tsotmeuoan@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 06:27 PM_
+Trump signs order to ‘eliminate’ us education department" }
+Ttedipeoeo@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 03:32 PM_
+Trump to order us education department abolished: report" }
+Taitostuuoan@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 03:34 PM_
+Trump administration to take steps to defund education department" }
+DEmsoeyde@{ shape: win-pane, label: "_UPDATED Jan 28, 2025, 04:17 PM_
+Do or dei: trump’s assault on diversity divides america" }
 EurtooimlgtUtt@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 07:51 AM_
 Elon musk targets the closure of usaid; trump mulls merging it into us state dept" }
-Moasteyelueffari@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 06:13 PM_
-Musk now has access to vital treasury system, will give update on reform effort amid criticism" }
-MStuamirnasg@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 09:51 PM_
-More usaid staff ousted as trump administration dismantles aid agency" }
-MStuamirnasg@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 09:51 PM_
-More usaid staff ousted as trump administration dismantles aid agency" }
-Uuoenidrpri@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 03:27 PM_
-Us issues broad freeze on foreign aid after trump orders review" }
-Ungseeafseugk@{ shape: win-pane, label: "_UPDATED Jan 30, 2025, 08:29 PM_
-Ukraine aid groups cut services, scramble for cash after us funding shock" }
-WHslslcontns@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 10:55 AM_
-White house says elon musk will police his own conflicts of interest" }
-Bsolokbnou@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 08:53 AM_
-Banks sell down $7.5 billion of musk’s x debt to investors: source" }
-MrsoaWnwaeSc@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 11:09 PM_
-Musk creates new power base in washington with takeover of us agencies" }
-Tmwsenaivepe@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 09:49 AM_
-Trump makes world’s richest man musk a ‘special government employee’" }
-MrsoaWnwaeSc@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 11:09 PM_
-Musk creates new power base in washington with takeover of us agencies" }
-TdragnfitirsPd@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 02:23 PM_
-Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
-EurtooimlgtUtt@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 07:51 AM_
-Elon musk targets the closure of usaid; trump mulls merging it into us state dept" }
+Tsitirhailps@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 10:19 PM_
+Trump says will cut funding for us schools allowing ‘illegal’ protests" }
+Ddpondoaiuec@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 07:51 PM_
+Donald trump’s ban on transgender sports may be difficult to enforce" }
+Taitostuuoan@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 03:34 PM_
+Trump administration to take steps to defund education department" }
+WakrasSaDt@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 06:12 PM_
+What’s at stake as trump targets the us education department" }
+Tsotmeuoan@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 06:27 PM_
+Trump signs order to ‘eliminate’ us education department" }
+Ttedipeoeo@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 03:32 PM_
+Trump to order us education department abolished: report" }
+WakrasSaDt@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 06:12 PM_
+What’s at stake as trump targets the us education department" }
+UcnrttiaTehw@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 03:14 PM_
+Us education department to cut half its staff as trump eyes shutdown" }
+Ugssmeerotrsc@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 01:51 PM_
+Us judge says musk’s doge must release records on operations run in ‘secrecy’" }
+Bikfoodevem@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 10:55 AM_
+Bitcoin sinks to a four-month low amid concerns over us economy" }
 
-PgtiglsoirC:::txtsize --> Tmwsenaivepe:::txtsize
-Tmwsenaivepe:::txtsize --> EurtooimlgtUtt:::txtsize
-EurtooimlgtUtt:::txtsize --> Moasteyelueffari:::txtsize
-EurtooimlgtUtt:::txtsize --> MStuamirnasg:::txtsize
-Tmwsenaivepe:::txtsize --> MStuamirnasg:::txtsize
-MStuamirnasg:::txtsize --> Uuoenidrpri:::txtsize
-MStuamirnasg:::txtsize --> Ungseeafseugk:::txtsize
-PgtiglsoirC:::txtsize --> WHslslcontns:::txtsize
-WHslslcontns:::txtsize --> Bsolokbnou:::txtsize
-Bsolokbnou:::txtsize --> MrsoaWnwaeSc:::txtsize
-Bsolokbnou:::txtsize --> Tmwsenaivepe:::txtsize
-WHslslcontns:::txtsize --> MrsoaWnwaeSc:::txtsize
-MrsoaWnwaeSc:::txtsize --> TdragnfitirsPd:::txtsize
-MrsoaWnwaeSc:::txtsize --> EurtooimlgtUtt:::txtsize
+Tsotmeuoan:::txtsize --> Ttedipeoeo:::txtsize
+Ttedipeoeo:::txtsize --> Taitostuuoan:::txtsize
+Taitostuuoan:::txtsize --> DEmsoeyde:::txtsize
+Taitostuuoan:::txtsize --> EurtooimlgtUtt:::txtsize
+Ttedipeoeo:::txtsize --> Tsitirhailps:::txtsize
+Tsitirhailps:::txtsize --> Ddpondoaiuec:::txtsize
+Tsitirhailps:::txtsize --> Taitostuuoan:::txtsize
+Tsotmeuoan:::txtsize --> WakrasSaDt:::txtsize
+WakrasSaDt:::txtsize --> Tsotmeuoan:::txtsize
+Tsotmeuoan:::txtsize --> Ttedipeoeo:::txtsize
+Tsotmeuoan:::txtsize --> WakrasSaDt:::txtsize
+WakrasSaDt:::txtsize --> UcnrttiaTehw:::txtsize
+UcnrttiaTehw:::txtsize --> Ugssmeerotrsc:::txtsize
+UcnrttiaTehw:::txtsize --> Bikfoodevem:::txtsize
 
-Iaenleonkol@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 12:10 PM_
-Italian paper prints fully ai edition, but not to ‘kill’ journalism" }
-Glescoodrrts@{ shape: win-pane, label: "_UPDATED Jun 17, 2024, 06:57 PM_
-Global audiences suspicious of ai-powered newsrooms, report finds" }
-
-Iaenleonkol:::txtsize --> Glescoodrrts:::txtsize
-
-NyompeiSedps@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 07:48 PM_
-Netanyahu government approves firing of shin bet head amid protests" }
+Ilrorsionh@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 10:01 PM_
+Israeli supreme court freezes dismissal of shin bet chief" }
 Aeaoeataoolsht@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 08:09 AM_
 Anti-netanyahu protesters clash with israeli police over plan to sack shin bet head" }
 NyooiiIlesie@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 05:58 PM_
@@ -100,14 +136,14 @@ In israel, a hard-right agenda gains steam" }
 Tfsoapsieasp@{ shape: win-pane, label: "_UPDATED Nov 25, 2024, 01:12 PM_
 Tens of thousands of israelis protest against netanyahu justice plans" }
 
-NyompeiSedps:::txtsize --> Aeaoeataoolsht:::txtsize
+Ilrorsionh:::txtsize --> Aeaoeataoolsht:::txtsize
 Aeaoeataoolsht:::txtsize --> NyooiiIlesie:::txtsize
 NyooiiIlesie:::txtsize --> NyeeawHakl:::txtsize
 NyooiiIlesie:::txtsize --> Ildsoeraobis:::txtsize
 Aeaoeataoolsht:::txtsize --> Sbsrcdnacaale:::txtsize
 Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
 Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-NyompeiSedps:::txtsize --> Ilenhscepdaos:::txtsize
+Ilrorsionh:::txtsize --> Ilenhscepdaos:::txtsize
 Ilenhscepdaos:::txtsize --> Nyaeespmrt:::txtsize
 Nyaeespmrt:::txtsize --> IloGaaulnuarie:::txtsize
 Nyaeespmrt:::txtsize --> Ileielpiirmhno:::txtsize
@@ -116,5 +152,5 @@ Nyosfoaovaioa:::txtsize --> Iaageat:::txtsize
 Nyosfoaovaioa:::txtsize --> Tfsoapsieasp:::txtsize
 
 ```
-<i>Last updated: 2025-03-21 20:01:02.041771 (GMT+8)</i>
+<i>Last updated: 2025-03-22 00:00:25.238897 (GMT+8)</i>
 <!-- END -->
