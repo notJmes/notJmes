@@ -69,7 +69,7 @@ Global audiences suspicious of ai-powered newsrooms, report finds" }
 
 Iaenleonkol:::txtsize --> Glescoodrrts:::txtsize
 
-NyompeiSedps@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 11:17 AM_
+NyompeiSedps@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 07:48 PM_
 Netanyahu government approves firing of shin bet head amid protests" }
 Aeaoeataoolsht@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 08:09 AM_
 Anti-netanyahu protesters clash with israeli police over plan to sack shin bet head" }
@@ -116,5 +116,5 @@ Nyosfoaovaioa:::txtsize --> Iaageat:::txtsize
 Nyosfoaovaioa:::txtsize --> Tfsoapsieasp:::txtsize
 
 ```
-<i>Last updated: 2025-03-21 16:00:43.441901 (GMT+8)</i>
+<i>Last updated: 2025-03-21 20:01:02.041771 (GMT+8)</i>
 <!-- END -->
