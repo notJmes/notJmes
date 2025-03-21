@@ -16,132 +16,105 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-AarIlilhwnrnz@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 03:24 PM_
-After air strikes, israel says it has launched new ground operation in gaza" }
-Jhigenemiiiea@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 10:32 AM_
-‘just the beginning’: israel warns more to come as airstrikes kill over 400 in gaza" }
-Iliieaysaarr@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 12:00 AM_
-Israeli strikes kill over 400 in gaza, say palestinians, ceasefire on brink" }
-Ildsoeraobis@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 02:09 AM_
-Israel team discusses hostages at truce talks dogged by divisions" }
+Euttarnorpoelii@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 11:55 AM_
+Elon musk set to get pentagon briefing on top-secret us plan for potential war with china" }
+Tmwsenaivepe@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 09:49 AM_
+Trump makes world’s richest man musk a ‘special government employee’" }
+EurtooimlgtUtt@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 07:51 AM_
+Elon musk targets the closure of usaid; trump mulls merging it into us state dept" }
+Moasteyelueffari@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 06:13 PM_
+Musk now has access to vital treasury system, will give update on reform effort amid criticism" }
+MStuamirnasg@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 09:51 PM_
+More usaid staff ousted as trump administration dismantles aid agency" }
+MStuamirnasg@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 09:51 PM_
+More usaid staff ousted as trump administration dismantles aid agency" }
+Uuoenidrpri@{ shape: win-pane, label: "_UPDATED Jan 25, 2025, 03:27 PM_
+Us issues broad freeze on foreign aid after trump orders review" }
+Ungseeafseugk@{ shape: win-pane, label: "_UPDATED Jan 30, 2025, 08:29 PM_
+Ukraine aid groups cut services, scramble for cash after us funding shock" }
+WHslslcontns@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 10:55 AM_
+White house says elon musk will police his own conflicts of interest" }
+Bsolokbnou@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 08:53 AM_
+Banks sell down $7.5 billion of musk’s x debt to investors: source" }
+MrsoaWnwaeSc@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 11:09 PM_
+Musk creates new power base in washington with takeover of us agencies" }
+Tmwsenaivepe@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 09:49 AM_
+Trump makes world’s richest man musk a ‘special government employee’" }
+MrsoaWnwaeSc@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 11:09 PM_
+Musk creates new power base in washington with takeover of us agencies" }
+TdragnfitirsPd@{ shape: win-pane, label: "_UPDATED Jan 21, 2025, 02:23 PM_
+Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
+EurtooimlgtUtt@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 07:51 AM_
+Elon musk targets the closure of usaid; trump mulls merging it into us state dept" }
+
+Euttarnorpoelii:::txtsize --> Tmwsenaivepe:::txtsize
+Tmwsenaivepe:::txtsize --> EurtooimlgtUtt:::txtsize
+EurtooimlgtUtt:::txtsize --> Moasteyelueffari:::txtsize
+EurtooimlgtUtt:::txtsize --> MStuamirnasg:::txtsize
+Tmwsenaivepe:::txtsize --> MStuamirnasg:::txtsize
+MStuamirnasg:::txtsize --> Uuoenidrpri:::txtsize
+MStuamirnasg:::txtsize --> Ungseeafseugk:::txtsize
+Euttarnorpoelii:::txtsize --> WHslslcontns:::txtsize
+WHslslcontns:::txtsize --> Bsolokbnou:::txtsize
+Bsolokbnou:::txtsize --> MrsoaWnwaeSc:::txtsize
+Bsolokbnou:::txtsize --> Tmwsenaivepe:::txtsize
+WHslslcontns:::txtsize --> MrsoaWnwaeSc:::txtsize
+MrsoaWnwaeSc:::txtsize --> TdragnfitirsPd:::txtsize
+MrsoaWnwaeSc:::txtsize --> EurtooimlgtUtt:::txtsize
+
+Iaenleonkol@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 11:45 AM_
+Italian paper prints fully-ai edition, but not to ‘kill’ journalism" }
+Glescoodrrts@{ shape: win-pane, label: "_UPDATED Jun 17, 2024, 06:57 PM_
+Global audiences suspicious of ai-powered newsrooms, report finds" }
+
+Iaenleonkol:::txtsize --> Glescoodrrts:::txtsize
+
+NyompeiSedps@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 11:17 AM_
+Netanyahu government approves firing of shin bet head amid protests" }
+Aeaoeataoolsht@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 08:09 AM_
+Anti-netanyahu protesters clash with israeli police over plan to sack shin bet head" }
+NyooiiIlesie@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 05:58 PM_
+Netanyahu moves to dismiss chief of israel’s internal security agency" }
 NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
 Netanyahu declares israel at war as hamas attacks kill over 100" }
-Iliieaysaarr@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 12:00 AM_
-Israeli strikes kill over 400 in gaza, say palestinians, ceasefire on brink" }
 Ildsoeraobis@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 02:09 AM_
 Israel team discusses hostages at truce talks dogged by divisions" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
 NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
 Netanyahu declares israel at war as hamas attacks kill over 100" }
-Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
-Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
-Pezdsyeasarl@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:48 PM_
-People in gaza shed tears of joy, disbelief at news of ceasefire deal" }
-Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
-Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
-Wrmlthaed@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:48 PM_
-What are the main elements of the gaza ceasefire deal?" }
-Ilamslorpdiaac@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:46 PM_
-Israel hostage families on roller coaster of hope and despair as gaza deal reached" }
-Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
-Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
-Speeegcfntee@{ shape: win-pane, label: "_UPDATED Jan 17, 2025, 05:07 PM_
-Singapore welcomes impending gaza ceasefire and hostage release deal" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Ilenhscepdaos@{ shape: win-pane, label: "_UPDATED Nov 22, 2024, 02:53 PM_
+Israeli government in chaos as judicial reform plans draw mass protests" }
+Nyaeespmrt@{ shape: win-pane, label: "_UPDATED Nov 22, 2024, 02:49 PM_
+Netanyahu sacks defence minister, sparks mass protests" }
+IloGaaulnuarie@{ shape: win-pane, label: "_UPDATED Nov 22, 2024, 02:37 PM_
+Israel's attorney-general: netanyahu involvement in judicial overhaul is illegal" }
+Ileielpiirmhno@{ shape: win-pane, label: "_UPDATED Nov 22, 2024, 02:45 PM_
+Israeli defence minister calls for pause in judicial reforms as thousands protest" }
+Nyosfoaovaioa@{ shape: win-pane, label: "_UPDATED Mar 20, 2023, 05:58 PM_
+Netanyahu softens pace, focus of israel's controversial judicial overhaul" }
+Iaageat@{ shape: win-pane, label: "_UPDATED Nov 25, 2024, 12:05 PM_
+In israel, a hard-right agenda gains steam" }
+Tfsoapsieasp@{ shape: win-pane, label: "_UPDATED Nov 25, 2024, 01:12 PM_
+Tens of thousands of israelis protest against netanyahu justice plans" }
 
-AarIlilhwnrnz:::txtsize --> Jhigenemiiiea:::txtsize
-Jhigenemiiiea:::txtsize --> Iliieaysaarr:::txtsize
-Iliieaysaarr:::txtsize --> Ildsoeraobis:::txtsize
-Iliieaysaarr:::txtsize --> NyeeawHakl:::txtsize
-Jhigenemiiiea:::txtsize --> Iliieaysaarr:::txtsize
-Iliieaysaarr:::txtsize --> Ildsoeraobis:::txtsize
-Iliieaysaarr:::txtsize --> NyeeawHakl:::txtsize
-AarIlilhwnrnz:::txtsize --> Ilshedoooia:::txtsize
-Ilshedoooia:::txtsize --> Pezdsyeasarl:::txtsize
-Pezdsyeasarl:::txtsize --> Ilshedoooia:::txtsize
-Pezdsyeasarl:::txtsize --> Wrmlthaed:::txtsize
-Ilshedoooia:::txtsize --> Ilamslorpdiaac:::txtsize
-Ilamslorpdiaac:::txtsize --> Ilshedoooia:::txtsize
-Ilamslorpdiaac:::txtsize --> Speeegcfntee:::txtsize
-
-TZsenapcofdrr@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 11:00 PM_
-Trump, zelensky pledge in ‘fantastic’ phone call to work for end to war in ukraine" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
-Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
-‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-Zsymasaeeets@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:10 PM_
-Zelensky says trump relationship can be repaired after white house row" }
-Dfsrpaeilhnp@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 05:43 PM_
-Dial d for disaster: trump’s ukraine ceasefire call with putin a flop" }
-TPaotreyctar@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 01:55 PM_
-Trump, putin agree on halt in ukraine energy attacks, but no ceasefire" }
-UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
-Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
-Raiacifacakeiml@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 03:21 PM_
-Russia, ukraine trade accusations of infrastructure attacks after putin-trump call" }
-
-TZsenapcofdrr:::txtsize --> Unlyphaiogh:::txtsize
-Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
-TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
-TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
-Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
-YgitlIcsTZsaWH:::txtsize --> Unlyphaiogh:::txtsize
-YgitlIcsTZsaWH:::txtsize --> Zsymasaeeets:::txtsize
-TZsenapcofdrr:::txtsize --> Dfsrpaeilhnp:::txtsize
-Dfsrpaeilhnp:::txtsize --> TPaotreyctar:::txtsize
-TPaotreyctar:::txtsize --> UneSoocfnis:::txtsize
-TPaotreyctar:::txtsize --> Raiacifacakeiml:::txtsize
-
-Psssnapfnit@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 10:22 PM_
-Protests resume as istanbul mayor spends first night in custody" }
-Tyidsroiscgtpd@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 05:23 PM_
-Turkey detains erdogan’s main rival; opposition slams ‘coup against next president’" }
-Ksmaeeewuayoeu@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 11:23 PM_
-Kurdish pkk militants declare ceasefire with turkey after 40 years of armed struggle" }
-IlitpisaSse@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:50 AM_
-Israel lobbies us to keep russian bases in a ‘weak’ syria, sources say" }
-Tsoniadriwpi@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 10:46 PM_
-Turkish school annuls diploma of erdogan rival in blow to opposition" }
-Tysaatornayvn@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 08:10 PM_
-Turkey backs sharaa’s stability efforts, erdogan says amid syrian violence" }
-TyynoUneau@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 10:22 PM_
-Turkey ready to send troops to ukraine if necessary: source" }
-Ibyeildratr@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 05:42 PM_
-Istanbul mayor’s detention a blow to democracy, say protesters" }
-Tyidsroiscgtpd@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 05:23 PM_
-Turkey detains erdogan’s main rival; opposition slams ‘coup against next president’" }
-Ksmaeeewuayoeu@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 11:23 PM_
-Kurdish pkk militants declare ceasefire with turkey after 40 years of armed struggle" }
-Tsoniadriwpi@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 10:46 PM_
-Turkish school annuls diploma of erdogan rival in blow to opposition" }
-Tyidsroiscgtpd@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 05:23 PM_
-Turkey detains erdogan’s main rival; opposition slams ‘coup against next president’" }
-Ksmaeeewuayoeu@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 11:23 PM_
-Kurdish pkk militants declare ceasefire with turkey after 40 years of armed struggle" }
-Tsoniadriwpi@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 10:46 PM_
-Turkish school annuls diploma of erdogan rival in blow to opposition" }
-
-Psssnapfnit:::txtsize --> Tyidsroiscgtpd:::txtsize
-Tyidsroiscgtpd:::txtsize --> Ksmaeeewuayoeu:::txtsize
-Ksmaeeewuayoeu:::txtsize --> IlitpisaSse:::txtsize
-Tyidsroiscgtpd:::txtsize --> Tsoniadriwpi:::txtsize
-Tsoniadriwpi:::txtsize --> Tysaatornayvn:::txtsize
-Tsoniadriwpi:::txtsize --> TyynoUneau:::txtsize
-Psssnapfnit:::txtsize --> Ibyeildratr:::txtsize
-Ibyeildratr:::txtsize --> Tyidsroiscgtpd:::txtsize
-Tyidsroiscgtpd:::txtsize --> Ksmaeeewuayoeu:::txtsize
-Tyidsroiscgtpd:::txtsize --> Tsoniadriwpi:::txtsize
-Ibyeildratr:::txtsize --> Tyidsroiscgtpd:::txtsize
-Tyidsroiscgtpd:::txtsize --> Ksmaeeewuayoeu:::txtsize
-Tyidsroiscgtpd:::txtsize --> Tsoniadriwpi:::txtsize
+NyompeiSedps:::txtsize --> Aeaoeataoolsht:::txtsize
+Aeaoeataoolsht:::txtsize --> NyooiiIlesie:::txtsize
+NyooiiIlesie:::txtsize --> NyeeawHakl:::txtsize
+NyooiiIlesie:::txtsize --> Ildsoeraobis:::txtsize
+Aeaoeataoolsht:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+NyompeiSedps:::txtsize --> Ilenhscepdaos:::txtsize
+Ilenhscepdaos:::txtsize --> Nyaeespmrt:::txtsize
+Nyaeespmrt:::txtsize --> IloGaaulnuarie:::txtsize
+Nyaeespmrt:::txtsize --> Ileielpiirmhno:::txtsize
+Ilenhscepdaos:::txtsize --> Nyosfoaovaioa:::txtsize
+Nyosfoaovaioa:::txtsize --> Iaageat:::txtsize
+Nyosfoaovaioa:::txtsize --> Tfsoapsieasp:::txtsize
 
 ```
-<i>Last updated: 2025-03-21 08:00:52.581712 (GMT+8)</i>
+<i>Last updated: 2025-03-21 12:00:10.926976 (GMT+8)</i>
 <!-- END -->
