@@ -16,8 +16,8 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Euttarnorpoelii@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 11:55 AM_
-Elon musk set to get pentagon briefing on top-secret us plan for potential war with china" }
+PgtiglsoirC@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 12:37 PM_
+Pentagon set up briefing for elon musk on potential war with china" }
 Tmwsenaivepe@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 09:49 AM_
 Trump makes world’s richest man musk a ‘special government employee’" }
 EurtooimlgtUtt@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 07:51 AM_
@@ -47,14 +47,14 @@ Trump declares start of ‘golden age of america’ after he is sworn in as 47th
 EurtooimlgtUtt@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 07:51 AM_
 Elon musk targets the closure of usaid; trump mulls merging it into us state dept" }
 
-Euttarnorpoelii:::txtsize --> Tmwsenaivepe:::txtsize
+PgtiglsoirC:::txtsize --> Tmwsenaivepe:::txtsize
 Tmwsenaivepe:::txtsize --> EurtooimlgtUtt:::txtsize
 EurtooimlgtUtt:::txtsize --> Moasteyelueffari:::txtsize
 EurtooimlgtUtt:::txtsize --> MStuamirnasg:::txtsize
 Tmwsenaivepe:::txtsize --> MStuamirnasg:::txtsize
 MStuamirnasg:::txtsize --> Uuoenidrpri:::txtsize
 MStuamirnasg:::txtsize --> Ungseeafseugk:::txtsize
-Euttarnorpoelii:::txtsize --> WHslslcontns:::txtsize
+PgtiglsoirC:::txtsize --> WHslslcontns:::txtsize
 WHslslcontns:::txtsize --> Bsolokbnou:::txtsize
 Bsolokbnou:::txtsize --> MrsoaWnwaeSc:::txtsize
 Bsolokbnou:::txtsize --> Tmwsenaivepe:::txtsize
@@ -62,8 +62,8 @@ WHslslcontns:::txtsize --> MrsoaWnwaeSc:::txtsize
 MrsoaWnwaeSc:::txtsize --> TdragnfitirsPd:::txtsize
 MrsoaWnwaeSc:::txtsize --> EurtooimlgtUtt:::txtsize
 
-Iaenleonkol@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 11:45 AM_
-Italian paper prints fully-ai edition, but not to ‘kill’ journalism" }
+Iaenleonkol@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 12:10 PM_
+Italian paper prints fully ai edition, but not to ‘kill’ journalism" }
 Glescoodrrts@{ shape: win-pane, label: "_UPDATED Jun 17, 2024, 06:57 PM_
 Global audiences suspicious of ai-powered newsrooms, report finds" }
 
@@ -116,5 +116,5 @@ Nyosfoaovaioa:::txtsize --> Iaageat:::txtsize
 Nyosfoaovaioa:::txtsize --> Tfsoapsieasp:::txtsize
 
 ```
-<i>Last updated: 2025-03-21 12:00:10.926976 (GMT+8)</i>
+<i>Last updated: 2025-03-21 16:00:43.441901 (GMT+8)</i>
 <!-- END -->
