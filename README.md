@@ -16,45 +16,48 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Gleoanritrcawd@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 03:35 PM_
-Global travel chaos has airlines scrambling after fire forces heathrow shutdown" }
-Hrunsvooqlr@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 07:30 AM_
-Heathrow shutdown shows how aviation chaos can quickly spiral" }
-Hrrstefotlire@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 02:11 PM_
-Heathrow airport says it is open and fully operational as flights resume" }
-Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
-Airlines question heathrow readiness after shutdown sparks global flight chaos" }
-Hrrstefotlire@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 02:11 PM_
-Heathrow airport says it is open and fully operational as flights resume" }
-Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
-Airlines question heathrow readiness after shutdown sparks global flight chaos" }
-EonaeaunHrr@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 03:26 AM_
-Emotions run high as power outage shuts london’s heathrow airport" }
-Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
-Airlines question heathrow readiness after shutdown sparks global flight chaos" }
-Dsarcndawreel@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 09:21 PM_
-Delays at uk airports including london heathrow after e-gate system failure" }
-Asgeneoattawoo@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:41 AM_
-At least 16 flights between s’pore and london affected after heathrow airport closure" }
-Utlseootsaoea@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 12:18 AM_
-Uk’s national grid says heathrow reconnected to substation on interim basis" }
-Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
-Airlines question heathrow readiness after shutdown sparks global flight chaos" }
-Asgeneoattawoo@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:41 AM_
-At least 16 flights between s’pore and london affected after heathrow airport closure" }
+Tsogoltsst@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 04:25 PM_
+Trump says joining commonwealth nations ‘sounds good to me’" }
+Uotfaaasr@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 11:27 PM_
+Us to double tariffs on canadian metals to 50%, says trump" }
+UcksinlTphaas@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 11:49 AM_
+Us stock market loses $5 trillion in value as trump ploughs ahead on tariffs" }
+Tdnruei@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 07:02 PM_
+Trump declines to rule out 2025 us recession" }
+TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
+Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
+MoapnTghhtfa@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 11:24 PM_
+Mexico has backup plan in case trump goes through with tariff threat" }
+Fgtaer@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:07 AM_
+Facing up to the realities of trump 2.0" }
+TaoasIkonru@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 05:05 PM_
+Trump, asked on uk tariffs, says ‘i think that one can be worked out’" }
+Tlharsiroinnn@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 10:59 PM_
+Trump launches trade war with sweeping tariffs on mexico, canada and china" }
+CacoriyfaUnnT@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 02:42 PM_
+Canada, mexico announce retaliatory tariffs against us; china turns to wto" }
+CacoriyfaUnnT@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 02:42 PM_
+Canada, mexico announce retaliatory tariffs against us; china turns to wto" }
+Tlharsiroinnn@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 10:59 PM_
+Trump launches trade war with sweeping tariffs on mexico, canada and china" }
+CacoriyfaUnnT@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 02:42 PM_
+Canada, mexico announce retaliatory tariffs against us; china turns to wto" }
+CacoriyfaUnnT@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 02:42 PM_
+Canada, mexico announce retaliatory tariffs against us; china turns to wto" }
 
-Gleoanritrcawd:::txtsize --> Hrunsvooqlr:::txtsize
-Hrunsvooqlr:::txtsize --> Hrrstefotlire:::txtsize
-Hrrstefotlire:::txtsize --> Anenheetunkbih:::txtsize
-Hrunsvooqlr:::txtsize --> Hrrstefotlire:::txtsize
-Hrrstefotlire:::txtsize --> Anenheetunkbih:::txtsize
-Gleoanritrcawd:::txtsize --> EonaeaunHrr:::txtsize
-EonaeaunHrr:::txtsize --> Anenheetunkbih:::txtsize
-Anenheetunkbih:::txtsize --> Dsarcndawreel:::txtsize
-Anenheetunkbih:::txtsize --> Asgeneoattawoo:::txtsize
-EonaeaunHrr:::txtsize --> Utlseootsaoea:::txtsize
-Utlseootsaoea:::txtsize --> Anenheetunkbih:::txtsize
-Utlseootsaoea:::txtsize --> Asgeneoattawoo:::txtsize
+Tsogoltsst:::txtsize --> Uotfaaasr:::txtsize
+Uotfaaasr:::txtsize --> UcksinlTphaas:::txtsize
+UcksinlTphaas:::txtsize --> Tdnruei:::txtsize
+Uotfaaasr:::txtsize --> TcrroadcbeC:::txtsize
+TcrroadcbeC:::txtsize --> MoapnTghhtfa:::txtsize
+TcrroadcbeC:::txtsize --> Fgtaer:::txtsize
+Tsogoltsst:::txtsize --> TaoasIkonru:::txtsize
+TaoasIkonru:::txtsize --> Tlharsiroinnn:::txtsize
+Tlharsiroinnn:::txtsize --> CacoriyfaUnnT:::txtsize
+Tlharsiroinnn:::txtsize --> CacoriyfaUnnT:::txtsize
+TaoasIkonru:::txtsize --> Tlharsiroinnn:::txtsize
+Tlharsiroinnn:::txtsize --> CacoriyfaUnnT:::txtsize
+Tlharsiroinnn:::txtsize --> CacoriyfaUnnT:::txtsize
 
 Pehksaatc@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 03:30 PM_
 Pete hegseth to make first asia trip as pentagon chief" }
@@ -80,8 +83,8 @@ Uhivggtoaasnevfon@{ shape: win-pane, label: "_UPDATED Apr 10, 2024, 06:21 PM_
 Us authorities investigating whistle-blower’s allegations against boeing over safety concerns" }
 UpiosoMaflAno@{ shape: win-pane, label: "_UPDATED Jan 07, 2024, 09:38 AM_
 Us temporarily grounds some boeing 737 max 9 planes after alaska airlines blowout" }
-Gntnhirodtc@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 11:34 PM_
-Germany ‘continuing’ with us f-35 fighter jets order, despite concerns" }
+Gntnhhedscroeio@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 05:30 PM_
+Germany ‘continuing’ with f-35 fighter jets order despite concerns about over-reliance on us" }
 IoenUtnmp@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 05:23 PM_
 If nato members don’t pay, us won’t defend them: trump" }
 Aenayighfdgj@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 06:23 PM_
@@ -98,56 +101,47 @@ Pehksaatc:::txtsize --> TasgaFttron:::txtsize
 TasgaFttron:::txtsize --> Gbaheeaifue:::txtsize
 Gbaheeaifue:::txtsize --> Uhivggtoaasnevfon:::txtsize
 Gbaheeaifue:::txtsize --> UpiosoMaflAno:::txtsize
-TasgaFttron:::txtsize --> Gntnhirodtc:::txtsize
-Gntnhirodtc:::txtsize --> IoenUtnmp:::txtsize
-Gntnhirodtc:::txtsize --> Aenayighfdgj:::txtsize
+TasgaFttron:::txtsize --> Gntnhhedscroeio:::txtsize
+Gntnhhedscroeio:::txtsize --> IoenUtnmp:::txtsize
+Gntnhhedscroeio:::txtsize --> Aenayighfdgj:::txtsize
 
-TasMuton@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 05:17 AM_
-Trump admits elon musk ‘susceptible’ on china" }
-TasgaFttron@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 02:06 AM_
-Trump awards next-generation f-47 fighter jet contract to boeing" }
-Gbaheeaifue@{ shape: win-pane, label: "_UPDATED Apr 18, 2024, 07:06 PM_
-Going ‘backwards’? whistleblowers slam boeing safety culture" }
-Uhivggtoaasnevfon@{ shape: win-pane, label: "_UPDATED Apr 10, 2024, 06:21 PM_
-Us authorities investigating whistle-blower’s allegations against boeing over safety concerns" }
-UpiosoMaflAno@{ shape: win-pane, label: "_UPDATED Jan 07, 2024, 09:38 AM_
-Us temporarily grounds some boeing 737 max 9 planes after alaska airlines blowout" }
-Gntnhirodtc@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 11:34 PM_
-Germany ‘continuing’ with us f-35 fighter jets order, despite concerns" }
-IoenUtnmp@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 05:23 PM_
-If nato members don’t pay, us won’t defend them: trump" }
-Aenayighfdgj@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 06:23 PM_
-Amid tensions, canada says reviewing purchase of us-made f-35 fighter jets" }
-Eulpddaaankru@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 11:21 AM_
-Elon musk holds unprecedented pentagon talks, wants any leakers prosecuted" }
-PgtiglsoirC@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 12:37 PM_
-Pentagon set up briefing for elon musk on potential war with china" }
-Tmwsenaivepe@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 09:49 AM_
-Trump makes world’s richest man musk a ‘special government employee’" }
-WHslslcontns@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 10:55 AM_
-White house says elon musk will police his own conflicts of interest" }
-UmsCcusnnu@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 10:57 AM_
-Us lawmakers warn china could use musk to influence trump" }
-Chatinotupnv@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 10:43 PM_
-China hits back with tariffs on us goods after trump imposes new levies" }
-UmsaCset@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 05:51 PM_
-Us lawmakers take aim at china’s trade practices" }
+Hrsotabrsmfhw@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 05:35 PM_
+Heathrow resumes operations as global airlines scramble after shutdown" }
+Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
+Airlines question heathrow readiness after shutdown sparks global flight chaos" }
+Dsarcndawreel@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 09:21 PM_
+Delays at uk airports including london heathrow after e-gate system failure" }
+Spnuathnetitm@{ shape: win-pane, label: "_UPDATED May 20, 2019, 06:17 PM_
+Singaporeans can use e-gates at heathrow and other british airports from may 20" }
+Irnrdporsncpsongh@{ shape: win-pane, label: "_UPDATED Nov 22, 2024, 03:19 PM_
+Immigration clearance disrupted for over 5 hours at land, air checkpoints due to technical glitch: ica" }
+Asgeneoattawoo@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:41 AM_
+At least 16 flights between s’pore and london affected after heathrow airport closure" }
+Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
+Airlines question heathrow readiness after shutdown sparks global flight chaos" }
+Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
+Airlines question heathrow readiness after shutdown sparks global flight chaos" }
+Hrrstefotlire@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 04:04 PM_
+Heathrow airport says it is open and fully operational as flights resume" }
+Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
+Airlines question heathrow readiness after shutdown sparks global flight chaos" }
+Dsarcndawreel@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 09:21 PM_
+Delays at uk airports including london heathrow after e-gate system failure" }
+Asgeneoattawoo@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:41 AM_
+At least 16 flights between s’pore and london affected after heathrow airport closure" }
 
-TasMuton:::txtsize --> TasgaFttron:::txtsize
-TasgaFttron:::txtsize --> Gbaheeaifue:::txtsize
-Gbaheeaifue:::txtsize --> Uhivggtoaasnevfon:::txtsize
-Gbaheeaifue:::txtsize --> UpiosoMaflAno:::txtsize
-TasgaFttron:::txtsize --> Gntnhirodtc:::txtsize
-Gntnhirodtc:::txtsize --> IoenUtnmp:::txtsize
-Gntnhirodtc:::txtsize --> Aenayighfdgj:::txtsize
-TasMuton:::txtsize --> Eulpddaaankru:::txtsize
-Eulpddaaankru:::txtsize --> PgtiglsoirC:::txtsize
-PgtiglsoirC:::txtsize --> Tmwsenaivepe:::txtsize
-PgtiglsoirC:::txtsize --> WHslslcontns:::txtsize
-Eulpddaaankru:::txtsize --> UmsCcusnnu:::txtsize
-UmsCcusnnu:::txtsize --> Chatinotupnv:::txtsize
-UmsCcusnnu:::txtsize --> UmsaCset:::txtsize
+Hrsotabrsmfhw:::txtsize --> Anenheetunkbih:::txtsize
+Anenheetunkbih:::txtsize --> Dsarcndawreel:::txtsize
+Dsarcndawreel:::txtsize --> Spnuathnetitm:::txtsize
+Dsarcndawreel:::txtsize --> Irnrdporsncpsongh:::txtsize
+Anenheetunkbih:::txtsize --> Asgeneoattawoo:::txtsize
+Asgeneoattawoo:::txtsize --> Anenheetunkbih:::txtsize
+Asgeneoattawoo:::txtsize --> Anenheetunkbih:::txtsize
+Hrsotabrsmfhw:::txtsize --> Hrrstefotlire:::txtsize
+Hrrstefotlire:::txtsize --> Anenheetunkbih:::txtsize
+Anenheetunkbih:::txtsize --> Dsarcndawreel:::txtsize
+Anenheetunkbih:::txtsize --> Asgeneoattawoo:::txtsize
 
 ```
-<i>Last updated: 2025-03-22 16:01:06.769724 (GMT+8)</i>
+<i>Last updated: 2025-03-22 20:00:27.686134 (GMT+8)</i>
 <!-- END -->
