@@ -16,16 +16,16 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Gleoanritrcawd@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 10:00 AM_
+Gleoanritrcawd@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 03:35 PM_
 Global travel chaos has airlines scrambling after fire forces heathrow shutdown" }
 Hrunsvooqlr@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 07:30 AM_
 Heathrow shutdown shows how aviation chaos can quickly spiral" }
-Hrrrriacrsorti@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 09:54 AM_
-Heathrow airport restarts flights after closure causes global travel turmoil" }
+Hrrstefotlire@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 02:11 PM_
+Heathrow airport says it is open and fully operational as flights resume" }
 Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
 Airlines question heathrow readiness after shutdown sparks global flight chaos" }
-Hrrrriacrsorti@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 09:54 AM_
-Heathrow airport restarts flights after closure causes global travel turmoil" }
+Hrrstefotlire@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 02:11 PM_
+Heathrow airport says it is open and fully operational as flights resume" }
 Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
 Airlines question heathrow readiness after shutdown sparks global flight chaos" }
 EonaeaunHrr@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 03:26 AM_
@@ -44,10 +44,10 @@ Asgeneoattawoo@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:41 AM_
 At least 16 flights between s’pore and london affected after heathrow airport closure" }
 
 Gleoanritrcawd:::txtsize --> Hrunsvooqlr:::txtsize
-Hrunsvooqlr:::txtsize --> Hrrrriacrsorti:::txtsize
-Hrrrriacrsorti:::txtsize --> Anenheetunkbih:::txtsize
-Hrunsvooqlr:::txtsize --> Hrrrriacrsorti:::txtsize
-Hrrrriacrsorti:::txtsize --> Anenheetunkbih:::txtsize
+Hrunsvooqlr:::txtsize --> Hrrstefotlire:::txtsize
+Hrrstefotlire:::txtsize --> Anenheetunkbih:::txtsize
+Hrunsvooqlr:::txtsize --> Hrrstefotlire:::txtsize
+Hrrstefotlire:::txtsize --> Anenheetunkbih:::txtsize
 Gleoanritrcawd:::txtsize --> EonaeaunHrr:::txtsize
 EonaeaunHrr:::txtsize --> Anenheetunkbih:::txtsize
 Anenheetunkbih:::txtsize --> Dsarcndawreel:::txtsize
@@ -56,7 +56,7 @@ EonaeaunHrr:::txtsize --> Utlseootsaoea:::txtsize
 Utlseootsaoea:::txtsize --> Anenheetunkbih:::txtsize
 Utlseootsaoea:::txtsize --> Asgeneoattawoo:::txtsize
 
-Pehksaatc@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 03:58 AM_
+Pehksaatc@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 03:30 PM_
 Pete hegseth to make first asia trip as pentagon chief" }
 Eulpddaaankru@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 11:21 AM_
 Elon musk holds unprecedented pentagon talks, wants any leakers prosecuted" }
@@ -149,5 +149,5 @@ UmsCcusnnu:::txtsize --> Chatinotupnv:::txtsize
 UmsCcusnnu:::txtsize --> UmsaCset:::txtsize
 
 ```
-<i>Last updated: 2025-03-22 12:00:48.208049 (GMT+8)</i>
+<i>Last updated: 2025-03-22 16:01:06.769724 (GMT+8)</i>
 <!-- END -->
