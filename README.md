@@ -58,7 +58,7 @@ Utlseootsaoea:::txtsize --> Asgeneoattawoo:::txtsize
 
 Pehksaatc@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 03:58 AM_
 Pete hegseth to make first asia trip as pentagon chief" }
-Eulpddaaankru@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 10:24 AM_
+Eulpddaaankru@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 11:21 AM_
 Elon musk holds unprecedented pentagon talks, wants any leakers prosecuted" }
 PgtiglsoirC@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 12:37 PM_
 Pentagon set up briefing for elon musk on potential war with china" }
@@ -118,7 +118,7 @@ IoenUtnmp@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 05:23 PM_
 If nato members don’t pay, us won’t defend them: trump" }
 Aenayighfdgj@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 06:23 PM_
 Amid tensions, canada says reviewing purchase of us-made f-35 fighter jets" }
-Eulpddaaankru@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 10:24 AM_
+Eulpddaaankru@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 11:21 AM_
 Elon musk holds unprecedented pentagon talks, wants any leakers prosecuted" }
 PgtiglsoirC@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 12:37 PM_
 Pentagon set up briefing for elon musk on potential war with china" }
@@ -149,5 +149,5 @@ UmsCcusnnu:::txtsize --> Chatinotupnv:::txtsize
 UmsCcusnnu:::txtsize --> UmsaCset:::txtsize
 
 ```
-<i>Last updated: 2025-03-22 11:10:32.952746 (GMT+8)</i>
+<i>Last updated: 2025-03-22 12:00:48.208049 (GMT+8)</i>
 <!-- END -->
