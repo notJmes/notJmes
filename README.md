@@ -83,7 +83,7 @@ Uhivggtoaasnevfon@{ shape: win-pane, label: "_UPDATED Apr 10, 2024, 06:21 PM_
 Us authorities investigating whistle-blower’s allegations against boeing over safety concerns" }
 UpiosoMaflAno@{ shape: win-pane, label: "_UPDATED Jan 07, 2024, 09:38 AM_
 Us temporarily grounds some boeing 737 max 9 planes after alaska airlines blowout" }
-Gntnhhedscroeio@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 05:30 PM_
+Gntnhhedscroeio@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 08:48 PM_
 Germany ‘continuing’ with f-35 fighter jets order despite concerns about over-reliance on us" }
 IoenUtnmp@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 05:23 PM_
 If nato members don’t pay, us won’t defend them: trump" }
@@ -105,7 +105,7 @@ TasgaFttron:::txtsize --> Gntnhhedscroeio:::txtsize
 Gntnhhedscroeio:::txtsize --> IoenUtnmp:::txtsize
 Gntnhhedscroeio:::txtsize --> Aenayighfdgj:::txtsize
 
-Hrsotabrsmfhw@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 05:35 PM_
+Hrsotabrsmfhw@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 10:31 PM_
 Heathrow resumes operations as global airlines scramble after shutdown" }
 Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
 Airlines question heathrow readiness after shutdown sparks global flight chaos" }
@@ -143,5 +143,5 @@ Anenheetunkbih:::txtsize --> Dsarcndawreel:::txtsize
 Anenheetunkbih:::txtsize --> Asgeneoattawoo:::txtsize
 
 ```
-<i>Last updated: 2025-03-22 20:00:27.686134 (GMT+8)</i>
+<i>Last updated: 2025-03-23 00:00:47.189941 (GMT+8)</i>
 <!-- END -->
