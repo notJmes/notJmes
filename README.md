@@ -16,141 +16,138 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Gleoanritrcawd@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 10:00 AM_
+Global travel chaos has airlines scrambling after fire forces heathrow shutdown" }
+Hrunsvooqlr@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 07:30 AM_
+Heathrow shutdown shows how aviation chaos can quickly spiral" }
+Hrrrriacrsorti@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 09:54 AM_
+Heathrow airport restarts flights after closure causes global travel turmoil" }
 Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
 Airlines question heathrow readiness after shutdown sparks global flight chaos" }
-Dsarcndawreel@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 09:21 PM_
-Delays at uk airports including london heathrow after e-gate system failure" }
-Spnuathnetitm@{ shape: win-pane, label: "_UPDATED May 20, 2019, 06:17 PM_
-Singaporeans can use e-gates at heathrow and other british airports from may 20" }
-Uaregoitxeiossr@{ shape: win-pane, label: "_UPDATED Dec 04, 2018, 04:48 PM_
-Uk's epassport gate immigration facility to be extended to singaporeans from summer of 2019" }
-Irnrdporsncpsongh@{ shape: win-pane, label: "_UPDATED Nov 22, 2024, 03:19 PM_
-Immigration clearance disrupted for over 5 hours at land, air checkpoints due to technical glitch: ica" }
-HtieadktrMndakC@{ shape: win-pane, label: "_UPDATED Nov 22, 2024, 03:12 PM_
-Heavy traffic expected at land checkpoints over qing ming and good friday weekend: ica" }
-Mutnresrdtktalnpy@{ shape: win-pane, label: "_UPDATED Nov 22, 2024, 06:00 PM_
-More automated lanes for travellers to be rolled out at checkpoints to raise clearance capacity: ica" }
-Asgeneoattawoo@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:41 AM_
-At least 16 flights between s’pore and london affected after heathrow airport closure" }
+Hrrrriacrsorti@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 09:54 AM_
+Heathrow airport restarts flights after closure causes global travel turmoil" }
 Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
 Airlines question heathrow readiness after shutdown sparks global flight chaos" }
-Dsarcndawreel@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 09:21 PM_
-Delays at uk airports including london heathrow after e-gate system failure" }
-Asgeneoattawoo@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:41 AM_
-At least 16 flights between s’pore and london affected after heathrow airport closure" }
+EonaeaunHrr@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 03:26 AM_
+Emotions run high as power outage shuts london’s heathrow airport" }
 Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
 Airlines question heathrow readiness after shutdown sparks global flight chaos" }
 Dsarcndawreel@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 09:21 PM_
 Delays at uk airports including london heathrow after e-gate system failure" }
 Asgeneoattawoo@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:41 AM_
 At least 16 flights between s’pore and london affected after heathrow airport closure" }
+Utlseootsaoea@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 12:18 AM_
+Uk’s national grid says heathrow reconnected to substation on interim basis" }
+Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
+Airlines question heathrow readiness after shutdown sparks global flight chaos" }
+Asgeneoattawoo@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:41 AM_
+At least 16 flights between s’pore and london affected after heathrow airport closure" }
 
+Gleoanritrcawd:::txtsize --> Hrunsvooqlr:::txtsize
+Hrunsvooqlr:::txtsize --> Hrrrriacrsorti:::txtsize
+Hrrrriacrsorti:::txtsize --> Anenheetunkbih:::txtsize
+Hrunsvooqlr:::txtsize --> Hrrrriacrsorti:::txtsize
+Hrrrriacrsorti:::txtsize --> Anenheetunkbih:::txtsize
+Gleoanritrcawd:::txtsize --> EonaeaunHrr:::txtsize
+EonaeaunHrr:::txtsize --> Anenheetunkbih:::txtsize
 Anenheetunkbih:::txtsize --> Dsarcndawreel:::txtsize
-Dsarcndawreel:::txtsize --> Spnuathnetitm:::txtsize
-Spnuathnetitm:::txtsize --> Uaregoitxeiossr:::txtsize
-Dsarcndawreel:::txtsize --> Irnrdporsncpsongh:::txtsize
-Irnrdporsncpsongh:::txtsize --> HtieadktrMndakC:::txtsize
-Irnrdporsncpsongh:::txtsize --> Mutnresrdtktalnpy:::txtsize
 Anenheetunkbih:::txtsize --> Asgeneoattawoo:::txtsize
-Asgeneoattawoo:::txtsize --> Anenheetunkbih:::txtsize
-Anenheetunkbih:::txtsize --> Dsarcndawreel:::txtsize
-Anenheetunkbih:::txtsize --> Asgeneoattawoo:::txtsize
-Asgeneoattawoo:::txtsize --> Anenheetunkbih:::txtsize
-Anenheetunkbih:::txtsize --> Dsarcndawreel:::txtsize
-Anenheetunkbih:::txtsize --> Asgeneoattawoo:::txtsize
+EonaeaunHrr:::txtsize --> Utlseootsaoea:::txtsize
+Utlseootsaoea:::txtsize --> Anenheetunkbih:::txtsize
+Utlseootsaoea:::txtsize --> Asgeneoattawoo:::txtsize
 
-Tsotmeuoan@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 06:27 PM_
-Trump signs order to ‘eliminate’ us education department" }
-Ttedipeoeo@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 03:32 PM_
-Trump to order us education department abolished: report" }
-Taitostuuoan@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 03:34 PM_
-Trump administration to take steps to defund education department" }
-DEmsoeyde@{ shape: win-pane, label: "_UPDATED Jan 28, 2025, 04:17 PM_
-Do or dei: trump’s assault on diversity divides america" }
-EurtooimlgtUtt@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 07:51 AM_
-Elon musk targets the closure of usaid; trump mulls merging it into us state dept" }
-Tsitirhailps@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 10:19 PM_
-Trump says will cut funding for us schools allowing ‘illegal’ protests" }
-Ddpondoaiuec@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 07:51 PM_
-Donald trump’s ban on transgender sports may be difficult to enforce" }
-Taitostuuoan@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 03:34 PM_
-Trump administration to take steps to defund education department" }
-WakrasSaDt@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 06:12 PM_
-What’s at stake as trump targets the us education department" }
-Tsotmeuoan@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 06:27 PM_
-Trump signs order to ‘eliminate’ us education department" }
-Ttedipeoeo@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 03:32 PM_
-Trump to order us education department abolished: report" }
-WakrasSaDt@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 06:12 PM_
-What’s at stake as trump targets the us education department" }
-UcnrttiaTehw@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 03:14 PM_
-Us education department to cut half its staff as trump eyes shutdown" }
-Ugssmeerotrsc@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 01:51 PM_
-Us judge says musk’s doge must release records on operations run in ‘secrecy’" }
-Bikfoodevem@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 10:55 AM_
-Bitcoin sinks to a four-month low amid concerns over us economy" }
+Pehksaatc@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 03:58 AM_
+Pete hegseth to make first asia trip as pentagon chief" }
+Eulpddaaankru@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 10:24 AM_
+Elon musk holds unprecedented pentagon talks, wants any leakers prosecuted" }
+PgtiglsoirC@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 12:37 PM_
+Pentagon set up briefing for elon musk on potential war with china" }
+Tmwsenaivepe@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 09:49 AM_
+Trump makes world’s richest man musk a ‘special government employee’" }
+WHslslcontns@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 10:55 AM_
+White house says elon musk will police his own conflicts of interest" }
+UmsCcusnnu@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 10:57 AM_
+Us lawmakers warn china could use musk to influence trump" }
+Chatinotupnv@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 10:43 PM_
+China hits back with tariffs on us goods after trump imposes new levies" }
+UmsaCset@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 05:51 PM_
+Us lawmakers take aim at china’s trade practices" }
+TasgaFttron@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 02:06 AM_
+Trump awards next-generation f-47 fighter jet contract to boeing" }
+Gbaheeaifue@{ shape: win-pane, label: "_UPDATED Apr 18, 2024, 07:06 PM_
+Going ‘backwards’? whistleblowers slam boeing safety culture" }
+Uhivggtoaasnevfon@{ shape: win-pane, label: "_UPDATED Apr 10, 2024, 06:21 PM_
+Us authorities investigating whistle-blower’s allegations against boeing over safety concerns" }
+UpiosoMaflAno@{ shape: win-pane, label: "_UPDATED Jan 07, 2024, 09:38 AM_
+Us temporarily grounds some boeing 737 max 9 planes after alaska airlines blowout" }
+Gntnhirodtc@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 11:34 PM_
+Germany ‘continuing’ with us f-35 fighter jets order, despite concerns" }
+IoenUtnmp@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 05:23 PM_
+If nato members don’t pay, us won’t defend them: trump" }
+Aenayighfdgj@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 06:23 PM_
+Amid tensions, canada says reviewing purchase of us-made f-35 fighter jets" }
 
-Tsotmeuoan:::txtsize --> Ttedipeoeo:::txtsize
-Ttedipeoeo:::txtsize --> Taitostuuoan:::txtsize
-Taitostuuoan:::txtsize --> DEmsoeyde:::txtsize
-Taitostuuoan:::txtsize --> EurtooimlgtUtt:::txtsize
-Ttedipeoeo:::txtsize --> Tsitirhailps:::txtsize
-Tsitirhailps:::txtsize --> Ddpondoaiuec:::txtsize
-Tsitirhailps:::txtsize --> Taitostuuoan:::txtsize
-Tsotmeuoan:::txtsize --> WakrasSaDt:::txtsize
-WakrasSaDt:::txtsize --> Tsotmeuoan:::txtsize
-Tsotmeuoan:::txtsize --> Ttedipeoeo:::txtsize
-Tsotmeuoan:::txtsize --> WakrasSaDt:::txtsize
-WakrasSaDt:::txtsize --> UcnrttiaTehw:::txtsize
-UcnrttiaTehw:::txtsize --> Ugssmeerotrsc:::txtsize
-UcnrttiaTehw:::txtsize --> Bikfoodevem:::txtsize
+Pehksaatc:::txtsize --> Eulpddaaankru:::txtsize
+Eulpddaaankru:::txtsize --> PgtiglsoirC:::txtsize
+PgtiglsoirC:::txtsize --> Tmwsenaivepe:::txtsize
+PgtiglsoirC:::txtsize --> WHslslcontns:::txtsize
+Eulpddaaankru:::txtsize --> UmsCcusnnu:::txtsize
+UmsCcusnnu:::txtsize --> Chatinotupnv:::txtsize
+UmsCcusnnu:::txtsize --> UmsaCset:::txtsize
+Pehksaatc:::txtsize --> TasgaFttron:::txtsize
+TasgaFttron:::txtsize --> Gbaheeaifue:::txtsize
+Gbaheeaifue:::txtsize --> Uhivggtoaasnevfon:::txtsize
+Gbaheeaifue:::txtsize --> UpiosoMaflAno:::txtsize
+TasgaFttron:::txtsize --> Gntnhirodtc:::txtsize
+Gntnhirodtc:::txtsize --> IoenUtnmp:::txtsize
+Gntnhirodtc:::txtsize --> Aenayighfdgj:::txtsize
 
-Ilrorsionh@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 10:01 PM_
-Israeli supreme court freezes dismissal of shin bet chief" }
-Aeaoeataoolsht@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 08:09 AM_
-Anti-netanyahu protesters clash with israeli police over plan to sack shin bet head" }
-NyooiiIlesie@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 05:58 PM_
-Netanyahu moves to dismiss chief of israel’s internal security agency" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Ildsoeraobis@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 02:09 AM_
-Israel team discusses hostages at truce talks dogged by divisions" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:02 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Ilenhscepdaos@{ shape: win-pane, label: "_UPDATED Nov 22, 2024, 02:53 PM_
-Israeli government in chaos as judicial reform plans draw mass protests" }
-Nyaeespmrt@{ shape: win-pane, label: "_UPDATED Nov 22, 2024, 02:49 PM_
-Netanyahu sacks defence minister, sparks mass protests" }
-IloGaaulnuarie@{ shape: win-pane, label: "_UPDATED Nov 22, 2024, 02:37 PM_
-Israel's attorney-general: netanyahu involvement in judicial overhaul is illegal" }
-Ileielpiirmhno@{ shape: win-pane, label: "_UPDATED Nov 22, 2024, 02:45 PM_
-Israeli defence minister calls for pause in judicial reforms as thousands protest" }
-Nyosfoaovaioa@{ shape: win-pane, label: "_UPDATED Mar 20, 2023, 05:58 PM_
-Netanyahu softens pace, focus of israel's controversial judicial overhaul" }
-Iaageat@{ shape: win-pane, label: "_UPDATED Nov 25, 2024, 12:05 PM_
-In israel, a hard-right agenda gains steam" }
-Tfsoapsieasp@{ shape: win-pane, label: "_UPDATED Nov 25, 2024, 01:12 PM_
-Tens of thousands of israelis protest against netanyahu justice plans" }
+TasMuton@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 05:17 AM_
+Trump admits elon musk ‘susceptible’ on china" }
+TasgaFttron@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 02:06 AM_
+Trump awards next-generation f-47 fighter jet contract to boeing" }
+Gbaheeaifue@{ shape: win-pane, label: "_UPDATED Apr 18, 2024, 07:06 PM_
+Going ‘backwards’? whistleblowers slam boeing safety culture" }
+Uhivggtoaasnevfon@{ shape: win-pane, label: "_UPDATED Apr 10, 2024, 06:21 PM_
+Us authorities investigating whistle-blower’s allegations against boeing over safety concerns" }
+UpiosoMaflAno@{ shape: win-pane, label: "_UPDATED Jan 07, 2024, 09:38 AM_
+Us temporarily grounds some boeing 737 max 9 planes after alaska airlines blowout" }
+Gntnhirodtc@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 11:34 PM_
+Germany ‘continuing’ with us f-35 fighter jets order, despite concerns" }
+IoenUtnmp@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 05:23 PM_
+If nato members don’t pay, us won’t defend them: trump" }
+Aenayighfdgj@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 06:23 PM_
+Amid tensions, canada says reviewing purchase of us-made f-35 fighter jets" }
+Eulpddaaankru@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 10:24 AM_
+Elon musk holds unprecedented pentagon talks, wants any leakers prosecuted" }
+PgtiglsoirC@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 12:37 PM_
+Pentagon set up briefing for elon musk on potential war with china" }
+Tmwsenaivepe@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 09:49 AM_
+Trump makes world’s richest man musk a ‘special government employee’" }
+WHslslcontns@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 10:55 AM_
+White house says elon musk will police his own conflicts of interest" }
+UmsCcusnnu@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 10:57 AM_
+Us lawmakers warn china could use musk to influence trump" }
+Chatinotupnv@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 10:43 PM_
+China hits back with tariffs on us goods after trump imposes new levies" }
+UmsaCset@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 05:51 PM_
+Us lawmakers take aim at china’s trade practices" }
 
-Ilrorsionh:::txtsize --> Aeaoeataoolsht:::txtsize
-Aeaoeataoolsht:::txtsize --> NyooiiIlesie:::txtsize
-NyooiiIlesie:::txtsize --> NyeeawHakl:::txtsize
-NyooiiIlesie:::txtsize --> Ildsoeraobis:::txtsize
-Aeaoeataoolsht:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Ilrorsionh:::txtsize --> Ilenhscepdaos:::txtsize
-Ilenhscepdaos:::txtsize --> Nyaeespmrt:::txtsize
-Nyaeespmrt:::txtsize --> IloGaaulnuarie:::txtsize
-Nyaeespmrt:::txtsize --> Ileielpiirmhno:::txtsize
-Ilenhscepdaos:::txtsize --> Nyosfoaovaioa:::txtsize
-Nyosfoaovaioa:::txtsize --> Iaageat:::txtsize
-Nyosfoaovaioa:::txtsize --> Tfsoapsieasp:::txtsize
+TasMuton:::txtsize --> TasgaFttron:::txtsize
+TasgaFttron:::txtsize --> Gbaheeaifue:::txtsize
+Gbaheeaifue:::txtsize --> Uhivggtoaasnevfon:::txtsize
+Gbaheeaifue:::txtsize --> UpiosoMaflAno:::txtsize
+TasgaFttron:::txtsize --> Gntnhirodtc:::txtsize
+Gntnhirodtc:::txtsize --> IoenUtnmp:::txtsize
+Gntnhirodtc:::txtsize --> Aenayighfdgj:::txtsize
+TasMuton:::txtsize --> Eulpddaaankru:::txtsize
+Eulpddaaankru:::txtsize --> PgtiglsoirC:::txtsize
+PgtiglsoirC:::txtsize --> Tmwsenaivepe:::txtsize
+PgtiglsoirC:::txtsize --> WHslslcontns:::txtsize
+Eulpddaaankru:::txtsize --> UmsCcusnnu:::txtsize
+UmsCcusnnu:::txtsize --> Chatinotupnv:::txtsize
+UmsCcusnnu:::txtsize --> UmsaCset:::txtsize
 
 ```
-<i>Last updated: 2025-03-22 08:01:06.596424 (GMT+8)</i>
+<i>Last updated: 2025-03-22 11:10:32.952746 (GMT+8)</i>
 <!-- END -->
