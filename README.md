@@ -16,7 +16,7 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-RanpeStNi@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 07:40 PM_
+RanpeStNi@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 10:14 PM_
 Russia hoping for ‘progress’ at saudi talks: negotiator" }
 UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
 Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
@@ -59,7 +59,7 @@ TZsenapcofdrr:::txtsize --> Dfsrpaeilhnp:::txtsize
 Zsyanrlniitoc:::txtsize --> Dfsrpaeilhnp:::txtsize
 Dfsrpaeilhnp:::txtsize --> TPaotreyctar:::txtsize
 
-Maeebhgcmssic@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 07:46 PM_
+Maeebhgcmssic@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 10:58 PM_
 Military pressure will bring hostages back from gaza, says israeli official" }
 AarIlilhwnrnz@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 03:24 PM_
 After air strikes, israel says it has launched new ground operation in gaza" }
@@ -105,7 +105,7 @@ Hserpsrerstto:::txtsize --> AarIlilhwnrnz:::txtsize
 AarIlilhwnrnz:::txtsize --> Jhigenemiiiea:::txtsize
 AarIlilhwnrnz:::txtsize --> Ilshedoooia:::txtsize
 
-UttTCaoslo@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 07:27 PM_
+UttTCaoslo@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 08:43 PM_
 Under threat from trump, canada set to hold snap elections" }
 Carnvtfeiigr@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 03:22 PM_
 Canada pm mark carney unveils tariff relief, ‘nation building’ reforms" }
@@ -152,5 +152,5 @@ CynCamiseotm:::txtsize --> Cadogrieermrfi:::txtsize
 CynCamiseotm:::txtsize --> TjCamtard:::txtsize
 
 ```
-<i>Last updated: 2025-03-23 20:00:37.072514 (GMT+8)</i>
+<i>Last updated: 2025-03-24 00:01:00.948730 (GMT+8)</i>
 <!-- END -->
