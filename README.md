@@ -16,7 +16,50 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Maeebhgcmssic@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 08:34 AM_
+RanpeStNi@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 07:40 PM_
+Russia hoping for ‘progress’ at saudi talks: negotiator" }
+UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
+Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
+Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
+YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
+‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
+Tfrsmawrmndlna@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:41 PM_
+Text of us-ukraine statement paving way for resumption of aid, intelligence sharing" }
+UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
+Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
+UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
+Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
+Zsyanrlniitoc@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 03:16 PM_
+Zelensky says ukrainian experts will be in saudi arabia for talks on march 24" }
+TZsenapcofdrr@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 11:00 PM_
+Trump, zelensky pledge in ‘fantastic’ phone call to work for end to war in ukraine" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+Dfsrpaeilhnp@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 05:43 PM_
+Dial d for disaster: trump’s ukraine ceasefire call with putin a flop" }
+Dfsrpaeilhnp@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 05:43 PM_
+Dial d for disaster: trump’s ukraine ceasefire call with putin a flop" }
+TPaotreyctar@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 01:55 PM_
+Trump, putin agree on halt in ukraine energy attacks, but no ceasefire" }
+
+RanpeStNi:::txtsize --> UneSoocfnis:::txtsize
+UneSoocfnis:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
+Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
+UneSoocfnis:::txtsize --> Tfrsmawrmndlna:::txtsize
+Tfrsmawrmndlna:::txtsize --> UneSoocfnis:::txtsize
+Tfrsmawrmndlna:::txtsize --> UneSoocfnis:::txtsize
+RanpeStNi:::txtsize --> Zsyanrlniitoc:::txtsize
+Zsyanrlniitoc:::txtsize --> TZsenapcofdrr:::txtsize
+TZsenapcofdrr:::txtsize --> Unlyphaiogh:::txtsize
+TZsenapcofdrr:::txtsize --> Dfsrpaeilhnp:::txtsize
+Zsyanrlniitoc:::txtsize --> Dfsrpaeilhnp:::txtsize
+Dfsrpaeilhnp:::txtsize --> TPaotreyctar:::txtsize
+
+Maeebhgcmssic@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 07:46 PM_
 Military pressure will bring hostages back from gaza, says israeli official" }
 AarIlilhwnrnz@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 03:24 PM_
 After air strikes, israel says it has launched new ground operation in gaza" }
@@ -62,86 +105,52 @@ Hserpsrerstto:::txtsize --> AarIlilhwnrnz:::txtsize
 AarIlilhwnrnz:::txtsize --> Jhigenemiiiea:::txtsize
 AarIlilhwnrnz:::txtsize --> Ilshedoooia:::txtsize
 
-Rasrsaaea@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 10:45 AM_
-Russia hopes for ‘progress’ at saudi talks: negotiator" }
-UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
-Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
-Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
-‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
-Tfrsmawrmndlna@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:41 PM_
-Text of us-ukraine statement paving way for resumption of aid, intelligence sharing" }
-UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
-Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
-UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
-Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
-Zsyanrlniitoc@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 03:16 PM_
-Zelensky says ukrainian experts will be in saudi arabia for talks on march 24" }
-TZsenapcofdrr@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 11:00 PM_
-Trump, zelensky pledge in ‘fantastic’ phone call to work for end to war in ukraine" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-Dfsrpaeilhnp@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 05:43 PM_
-Dial d for disaster: trump’s ukraine ceasefire call with putin a flop" }
-Dfsrpaeilhnp@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 05:43 PM_
-Dial d for disaster: trump’s ukraine ceasefire call with putin a flop" }
-TPaotreyctar@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 01:55 PM_
-Trump, putin agree on halt in ukraine energy attacks, but no ceasefire" }
+UttTCaoslo@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 07:27 PM_
+Under threat from trump, canada set to hold snap elections" }
+Carnvtfeiigr@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 03:22 PM_
+Canada pm mark carney unveils tariff relief, ‘nation building’ reforms" }
+CynCamiseotm@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 10:48 PM_
+Carney sworn in as canada’s prime minister, says he can work with trump" }
+Cadogrieermrfi@{ shape: win-pane, label: "_UPDATED Jan 07, 2025, 01:53 PM_
+Canada’s trudeau to resign as prime minister after 9 years, blames party infighting" }
+TjCamtard@{ shape: win-pane, label: "_UPDATED Dec 19, 2024, 05:00 PM_
+Trump jokes canada becoming 51st us state ‘a great idea’" }
+TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
+Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
+MoapnTghhtfa@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 11:24 PM_
+Mexico has backup plan in case trump goes through with tariff threat" }
+Fgtaer@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:07 AM_
+Facing up to the realities of trump 2.0" }
+Tsterahrand@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 03:57 PM_
+Trump says it’ll be easier to deal with liberal leader in canada" }
+TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
+Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
+MoapnTghhtfa@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 11:24 PM_
+Mexico has backup plan in case trump goes through with tariff threat" }
+Fgtaer@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:07 AM_
+Facing up to the realities of trump 2.0" }
+CynCamiseotm@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 10:48 PM_
+Carney sworn in as canada’s prime minister, says he can work with trump" }
+Cadogrieermrfi@{ shape: win-pane, label: "_UPDATED Jan 07, 2025, 01:53 PM_
+Canada’s trudeau to resign as prime minister after 9 years, blames party infighting" }
+TjCamtard@{ shape: win-pane, label: "_UPDATED Dec 19, 2024, 05:00 PM_
+Trump jokes canada becoming 51st us state ‘a great idea’" }
 
-Rasrsaaea:::txtsize --> UneSoocfnis:::txtsize
-UneSoocfnis:::txtsize --> Unlyphaiogh:::txtsize
-Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
-Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
-UneSoocfnis:::txtsize --> Tfrsmawrmndlna:::txtsize
-Tfrsmawrmndlna:::txtsize --> UneSoocfnis:::txtsize
-Tfrsmawrmndlna:::txtsize --> UneSoocfnis:::txtsize
-Rasrsaaea:::txtsize --> Zsyanrlniitoc:::txtsize
-Zsyanrlniitoc:::txtsize --> TZsenapcofdrr:::txtsize
-TZsenapcofdrr:::txtsize --> Unlyphaiogh:::txtsize
-TZsenapcofdrr:::txtsize --> Dfsrpaeilhnp:::txtsize
-Zsyanrlniitoc:::txtsize --> Dfsrpaeilhnp:::txtsize
-Dfsrpaeilhnp:::txtsize --> TPaotreyctar:::txtsize
-
-Seekesirnaw@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 08:26 AM_
-‘so eager to get back’: travellers pour into a reopened heathrow" }
-Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
-Airlines question heathrow readiness after shutdown sparks global flight chaos" }
-Dsarcndawreel@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 09:21 PM_
-Delays at uk airports including london heathrow after e-gate system failure" }
-Spnuathnetitm@{ shape: win-pane, label: "_UPDATED May 20, 2019, 06:17 PM_
-Singaporeans can use e-gates at heathrow and other british airports from may 20" }
-Irnrdporsncpsongh@{ shape: win-pane, label: "_UPDATED Nov 22, 2024, 03:19 PM_
-Immigration clearance disrupted for over 5 hours at land, air checkpoints due to technical glitch: ica" }
-Asgeneoattawoo@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:41 AM_
-At least 16 flights between s’pore and london affected after heathrow airport closure" }
-Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
-Airlines question heathrow readiness after shutdown sparks global flight chaos" }
-Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
-Airlines question heathrow readiness after shutdown sparks global flight chaos" }
-Hrrstefotlire@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 04:04 PM_
-Heathrow airport says it is open and fully operational as flights resume" }
-Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
-Airlines question heathrow readiness after shutdown sparks global flight chaos" }
-Dsarcndawreel@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 09:21 PM_
-Delays at uk airports including london heathrow after e-gate system failure" }
-Asgeneoattawoo@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:41 AM_
-At least 16 flights between s’pore and london affected after heathrow airport closure" }
-
-Seekesirnaw:::txtsize --> Anenheetunkbih:::txtsize
-Anenheetunkbih:::txtsize --> Dsarcndawreel:::txtsize
-Dsarcndawreel:::txtsize --> Spnuathnetitm:::txtsize
-Dsarcndawreel:::txtsize --> Irnrdporsncpsongh:::txtsize
-Anenheetunkbih:::txtsize --> Asgeneoattawoo:::txtsize
-Asgeneoattawoo:::txtsize --> Anenheetunkbih:::txtsize
-Asgeneoattawoo:::txtsize --> Anenheetunkbih:::txtsize
-Seekesirnaw:::txtsize --> Hrrstefotlire:::txtsize
-Hrrstefotlire:::txtsize --> Anenheetunkbih:::txtsize
-Anenheetunkbih:::txtsize --> Dsarcndawreel:::txtsize
-Anenheetunkbih:::txtsize --> Asgeneoattawoo:::txtsize
+UttTCaoslo:::txtsize --> Carnvtfeiigr:::txtsize
+Carnvtfeiigr:::txtsize --> CynCamiseotm:::txtsize
+CynCamiseotm:::txtsize --> Cadogrieermrfi:::txtsize
+CynCamiseotm:::txtsize --> TjCamtard:::txtsize
+Carnvtfeiigr:::txtsize --> TcrroadcbeC:::txtsize
+TcrroadcbeC:::txtsize --> MoapnTghhtfa:::txtsize
+TcrroadcbeC:::txtsize --> Fgtaer:::txtsize
+UttTCaoslo:::txtsize --> Tsterahrand:::txtsize
+Tsterahrand:::txtsize --> TcrroadcbeC:::txtsize
+TcrroadcbeC:::txtsize --> MoapnTghhtfa:::txtsize
+TcrroadcbeC:::txtsize --> Fgtaer:::txtsize
+Tsterahrand:::txtsize --> CynCamiseotm:::txtsize
+CynCamiseotm:::txtsize --> Cadogrieermrfi:::txtsize
+CynCamiseotm:::txtsize --> TjCamtard:::txtsize
 
 ```
-<i>Last updated: 2025-03-23 16:00:15.566019 (GMT+8)</i>
+<i>Last updated: 2025-03-23 20:00:37.072514 (GMT+8)</i>
 <!-- END -->
