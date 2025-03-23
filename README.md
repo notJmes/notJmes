@@ -105,8 +105,8 @@ TasgaFttron:::txtsize --> Gntnhhedscroeio:::txtsize
 Gntnhhedscroeio:::txtsize --> IoenUtnmp:::txtsize
 Gntnhhedscroeio:::txtsize --> Aenayighfdgj:::txtsize
 
-Hrsotabrsmfhw@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 10:31 PM_
-Heathrow resumes operations as global airlines scramble after shutdown" }
+Hrrrnettlfadp@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 05:08 AM_
+Heathrow airport reopens after shutdown, travellers face days of disruption" }
 Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
 Airlines question heathrow readiness after shutdown sparks global flight chaos" }
 Dsarcndawreel@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 09:21 PM_
@@ -121,8 +121,14 @@ Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
 Airlines question heathrow readiness after shutdown sparks global flight chaos" }
 Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
 Airlines question heathrow readiness after shutdown sparks global flight chaos" }
-Hrrstefotlire@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 04:04 PM_
-Heathrow airport says it is open and fully operational as flights resume" }
+Ancnreftwpntaarp@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 12:05 AM_
+Airlines, including sia, resume most flights between s’pore and heathrow after airport reopens" }
+Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
+Airlines question heathrow readiness after shutdown sparks global flight chaos" }
+Dsarcndawreel@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 09:21 PM_
+Delays at uk airports including london heathrow after e-gate system failure" }
+Asgeneoattawoo@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:41 AM_
+At least 16 flights between s’pore and london affected after heathrow airport closure" }
 Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
 Airlines question heathrow readiness after shutdown sparks global flight chaos" }
 Dsarcndawreel@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 09:21 PM_
@@ -130,18 +136,21 @@ Delays at uk airports including london heathrow after e-gate system failure" }
 Asgeneoattawoo@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:41 AM_
 At least 16 flights between s’pore and london affected after heathrow airport closure" }
 
-Hrsotabrsmfhw:::txtsize --> Anenheetunkbih:::txtsize
+Hrrrnettlfadp:::txtsize --> Anenheetunkbih:::txtsize
 Anenheetunkbih:::txtsize --> Dsarcndawreel:::txtsize
 Dsarcndawreel:::txtsize --> Spnuathnetitm:::txtsize
 Dsarcndawreel:::txtsize --> Irnrdporsncpsongh:::txtsize
 Anenheetunkbih:::txtsize --> Asgeneoattawoo:::txtsize
 Asgeneoattawoo:::txtsize --> Anenheetunkbih:::txtsize
 Asgeneoattawoo:::txtsize --> Anenheetunkbih:::txtsize
-Hrsotabrsmfhw:::txtsize --> Hrrstefotlire:::txtsize
-Hrrstefotlire:::txtsize --> Anenheetunkbih:::txtsize
+Hrrrnettlfadp:::txtsize --> Ancnreftwpntaarp:::txtsize
+Ancnreftwpntaarp:::txtsize --> Anenheetunkbih:::txtsize
+Anenheetunkbih:::txtsize --> Dsarcndawreel:::txtsize
+Anenheetunkbih:::txtsize --> Asgeneoattawoo:::txtsize
+Ancnreftwpntaarp:::txtsize --> Anenheetunkbih:::txtsize
 Anenheetunkbih:::txtsize --> Dsarcndawreel:::txtsize
 Anenheetunkbih:::txtsize --> Asgeneoattawoo:::txtsize
 
 ```
-<i>Last updated: 2025-03-23 04:01:08.148633 (GMT+8)</i>
+<i>Last updated: 2025-03-23 08:00:29.486137 (GMT+8)</i>
 <!-- END -->
