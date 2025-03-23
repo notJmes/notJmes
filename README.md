@@ -16,97 +16,54 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tsogoltsst@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 04:25 PM_
-Trump says joining commonwealth nations ‘sounds good to me’" }
-Uotfaaasr@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 11:27 PM_
-Us to double tariffs on canadian metals to 50%, says trump" }
-UcksinlTphaas@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 11:49 AM_
-Us stock market loses $5 trillion in value as trump ploughs ahead on tariffs" }
-Tdnruei@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 07:02 PM_
-Trump declines to rule out 2025 us recession" }
-TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
-Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
-MoapnTghhtfa@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 11:24 PM_
-Mexico has backup plan in case trump goes through with tariff threat" }
-Fgtaer@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:07 AM_
-Facing up to the realities of trump 2.0" }
-TaoasIkonru@{ shape: win-pane, label: "_UPDATED Feb 03, 2025, 05:05 PM_
-Trump, asked on uk tariffs, says ‘i think that one can be worked out’" }
-Tlharsiroinnn@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 10:59 PM_
-Trump launches trade war with sweeping tariffs on mexico, canada and china" }
-CacoriyfaUnnT@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 02:42 PM_
-Canada, mexico announce retaliatory tariffs against us; china turns to wto" }
-CacoriyfaUnnT@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 02:42 PM_
-Canada, mexico announce retaliatory tariffs against us; china turns to wto" }
-Tlharsiroinnn@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 10:59 PM_
-Trump launches trade war with sweeping tariffs on mexico, canada and china" }
-CacoriyfaUnnT@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 02:42 PM_
-Canada, mexico announce retaliatory tariffs against us; china turns to wto" }
-CacoriyfaUnnT@{ shape: win-pane, label: "_UPDATED Feb 02, 2025, 02:42 PM_
-Canada, mexico announce retaliatory tariffs against us; china turns to wto" }
+Maeebhgcmssic@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 08:34 AM_
+Military pressure will bring hostages back from gaza, says israeli official" }
+AarIlilhwnrnz@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 03:24 PM_
+After air strikes, israel says it has launched new ground operation in gaza" }
+Jhigenemiiiea@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 10:32 AM_
+‘just the beginning’: israel warns more to come as airstrikes kill over 400 in gaza" }
+Iliieaysaarr@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 12:00 AM_
+Israeli strikes kill over 400 in gaza, say palestinians, ceasefire on brink" }
+Iliieaysaarr@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 12:00 AM_
+Israeli strikes kill over 400 in gaza, say palestinians, ceasefire on brink" }
+Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
+Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
+Pezdsyeasarl@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:48 PM_
+People in gaza shed tears of joy, disbelief at news of ceasefire deal" }
+Ilamslorpdiaac@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:46 PM_
+Israel hostage families on roller coaster of hope and despair as gaza deal reached" }
+Hserpsrerstto@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 08:27 PM_
+Hamas studies us ‘bridge’ proposal for truce as israel escalates return to war" }
+UsgpolGeitosa@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 07:13 PM_
+Us says ‘bridge proposal’ on table for gaza ceasefire but window ‘closing fast’" }
+AarIlilhwnrnz@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 03:24 PM_
+After air strikes, israel says it has launched new ground operation in gaza" }
+Jhigenemiiiea@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 10:32 AM_
+‘just the beginning’: israel warns more to come as airstrikes kill over 400 in gaza" }
+AarIlilhwnrnz@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 03:24 PM_
+After air strikes, israel says it has launched new ground operation in gaza" }
+Jhigenemiiiea@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 10:32 AM_
+‘just the beginning’: israel warns more to come as airstrikes kill over 400 in gaza" }
+Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
+Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
 
-Tsogoltsst:::txtsize --> Uotfaaasr:::txtsize
-Uotfaaasr:::txtsize --> UcksinlTphaas:::txtsize
-UcksinlTphaas:::txtsize --> Tdnruei:::txtsize
-Uotfaaasr:::txtsize --> TcrroadcbeC:::txtsize
-TcrroadcbeC:::txtsize --> MoapnTghhtfa:::txtsize
-TcrroadcbeC:::txtsize --> Fgtaer:::txtsize
-Tsogoltsst:::txtsize --> TaoasIkonru:::txtsize
-TaoasIkonru:::txtsize --> Tlharsiroinnn:::txtsize
-Tlharsiroinnn:::txtsize --> CacoriyfaUnnT:::txtsize
-Tlharsiroinnn:::txtsize --> CacoriyfaUnnT:::txtsize
-TaoasIkonru:::txtsize --> Tlharsiroinnn:::txtsize
-Tlharsiroinnn:::txtsize --> CacoriyfaUnnT:::txtsize
-Tlharsiroinnn:::txtsize --> CacoriyfaUnnT:::txtsize
+Maeebhgcmssic:::txtsize --> AarIlilhwnrnz:::txtsize
+AarIlilhwnrnz:::txtsize --> Jhigenemiiiea:::txtsize
+Jhigenemiiiea:::txtsize --> Iliieaysaarr:::txtsize
+Jhigenemiiiea:::txtsize --> Iliieaysaarr:::txtsize
+AarIlilhwnrnz:::txtsize --> Ilshedoooia:::txtsize
+Ilshedoooia:::txtsize --> Pezdsyeasarl:::txtsize
+Ilshedoooia:::txtsize --> Ilamslorpdiaac:::txtsize
+Maeebhgcmssic:::txtsize --> Hserpsrerstto:::txtsize
+Hserpsrerstto:::txtsize --> UsgpolGeitosa:::txtsize
+UsgpolGeitosa:::txtsize --> AarIlilhwnrnz:::txtsize
+UsgpolGeitosa:::txtsize --> Jhigenemiiiea:::txtsize
+Hserpsrerstto:::txtsize --> AarIlilhwnrnz:::txtsize
+AarIlilhwnrnz:::txtsize --> Jhigenemiiiea:::txtsize
+AarIlilhwnrnz:::txtsize --> Ilshedoooia:::txtsize
 
-Pehksaatc@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 03:30 PM_
-Pete hegseth to make first asia trip as pentagon chief" }
-Eulpddaaankru@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 11:21 AM_
-Elon musk holds unprecedented pentagon talks, wants any leakers prosecuted" }
-PgtiglsoirC@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 12:37 PM_
-Pentagon set up briefing for elon musk on potential war with china" }
-Tmwsenaivepe@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 09:49 AM_
-Trump makes world’s richest man musk a ‘special government employee’" }
-WHslslcontns@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 10:55 AM_
-White house says elon musk will police his own conflicts of interest" }
-UmsCcusnnu@{ shape: win-pane, label: "_UPDATED Feb 26, 2025, 10:57 AM_
-Us lawmakers warn china could use musk to influence trump" }
-Chatinotupnv@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 10:43 PM_
-China hits back with tariffs on us goods after trump imposes new levies" }
-UmsaCset@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 05:51 PM_
-Us lawmakers take aim at china’s trade practices" }
-TasgaFttron@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 02:06 AM_
-Trump awards next-generation f-47 fighter jet contract to boeing" }
-Gbaheeaifue@{ shape: win-pane, label: "_UPDATED Apr 18, 2024, 07:06 PM_
-Going ‘backwards’? whistleblowers slam boeing safety culture" }
-Uhivggtoaasnevfon@{ shape: win-pane, label: "_UPDATED Apr 10, 2024, 06:21 PM_
-Us authorities investigating whistle-blower’s allegations against boeing over safety concerns" }
-UpiosoMaflAno@{ shape: win-pane, label: "_UPDATED Jan 07, 2024, 09:38 AM_
-Us temporarily grounds some boeing 737 max 9 planes after alaska airlines blowout" }
-Gntnhhedscroeio@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 08:48 PM_
-Germany ‘continuing’ with f-35 fighter jets order despite concerns about over-reliance on us" }
-IoenUtnmp@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 05:23 PM_
-If nato members don’t pay, us won’t defend them: trump" }
-Aenayighfdgj@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 06:23 PM_
-Amid tensions, canada says reviewing purchase of us-made f-35 fighter jets" }
-
-Pehksaatc:::txtsize --> Eulpddaaankru:::txtsize
-Eulpddaaankru:::txtsize --> PgtiglsoirC:::txtsize
-PgtiglsoirC:::txtsize --> Tmwsenaivepe:::txtsize
-PgtiglsoirC:::txtsize --> WHslslcontns:::txtsize
-Eulpddaaankru:::txtsize --> UmsCcusnnu:::txtsize
-UmsCcusnnu:::txtsize --> Chatinotupnv:::txtsize
-UmsCcusnnu:::txtsize --> UmsaCset:::txtsize
-Pehksaatc:::txtsize --> TasgaFttron:::txtsize
-TasgaFttron:::txtsize --> Gbaheeaifue:::txtsize
-Gbaheeaifue:::txtsize --> Uhivggtoaasnevfon:::txtsize
-Gbaheeaifue:::txtsize --> UpiosoMaflAno:::txtsize
-TasgaFttron:::txtsize --> Gntnhhedscroeio:::txtsize
-Gntnhhedscroeio:::txtsize --> IoenUtnmp:::txtsize
-Gntnhhedscroeio:::txtsize --> Aenayighfdgj:::txtsize
-
-Hrrrnettlfadp@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 05:08 AM_
-Heathrow airport reopens after shutdown, travellers face days of disruption" }
+Seekesirnaw@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 08:26 AM_
+‘so eager to get back’: travellers pour into a reopened heathrow" }
 Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
 Airlines question heathrow readiness after shutdown sparks global flight chaos" }
 Dsarcndawreel@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 09:21 PM_
@@ -121,14 +78,8 @@ Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
 Airlines question heathrow readiness after shutdown sparks global flight chaos" }
 Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
 Airlines question heathrow readiness after shutdown sparks global flight chaos" }
-Ancnreftwpntaarp@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 12:05 AM_
-Airlines, including sia, resume most flights between s’pore and heathrow after airport reopens" }
-Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
-Airlines question heathrow readiness after shutdown sparks global flight chaos" }
-Dsarcndawreel@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 09:21 PM_
-Delays at uk airports including london heathrow after e-gate system failure" }
-Asgeneoattawoo@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:41 AM_
-At least 16 flights between s’pore and london affected after heathrow airport closure" }
+Hrrstefotlire@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 04:04 PM_
+Heathrow airport says it is open and fully operational as flights resume" }
 Anenheetunkbih@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:21 AM_
 Airlines question heathrow readiness after shutdown sparks global flight chaos" }
 Dsarcndawreel@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 09:21 PM_
@@ -136,21 +87,58 @@ Delays at uk airports including london heathrow after e-gate system failure" }
 Asgeneoattawoo@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 01:41 AM_
 At least 16 flights between s’pore and london affected after heathrow airport closure" }
 
-Hrrrnettlfadp:::txtsize --> Anenheetunkbih:::txtsize
+Seekesirnaw:::txtsize --> Anenheetunkbih:::txtsize
 Anenheetunkbih:::txtsize --> Dsarcndawreel:::txtsize
 Dsarcndawreel:::txtsize --> Spnuathnetitm:::txtsize
 Dsarcndawreel:::txtsize --> Irnrdporsncpsongh:::txtsize
 Anenheetunkbih:::txtsize --> Asgeneoattawoo:::txtsize
 Asgeneoattawoo:::txtsize --> Anenheetunkbih:::txtsize
 Asgeneoattawoo:::txtsize --> Anenheetunkbih:::txtsize
-Hrrrnettlfadp:::txtsize --> Ancnreftwpntaarp:::txtsize
-Ancnreftwpntaarp:::txtsize --> Anenheetunkbih:::txtsize
-Anenheetunkbih:::txtsize --> Dsarcndawreel:::txtsize
-Anenheetunkbih:::txtsize --> Asgeneoattawoo:::txtsize
-Ancnreftwpntaarp:::txtsize --> Anenheetunkbih:::txtsize
+Seekesirnaw:::txtsize --> Hrrstefotlire:::txtsize
+Hrrstefotlire:::txtsize --> Anenheetunkbih:::txtsize
 Anenheetunkbih:::txtsize --> Dsarcndawreel:::txtsize
 Anenheetunkbih:::txtsize --> Asgeneoattawoo:::txtsize
 
+Taftetmiiaw@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 08:11 PM_
+Thousands of agents diverted to trump immigration crackdown" }
+Jtrykmerpsreeam@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 11:58 AM_
+Judge temporarily blocks trump’s use of wartime powers to target venezuelan gang members" }
+Uaaojldznmres@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 10:47 AM_
+Us to pay el salvador $8m to jail 300 alleged venezuelan gang members, ap reports" }
+Uiitoeaasfas@{ shape: win-pane, label: "_UPDATED Mar 13, 2025, 11:14 AM_
+Us immigration detention maxed out at 47,600 detainees, ice official says" }
+Tsuiiawnyecasee@{ shape: win-pane, label: "_UPDATED Jan 23, 2025, 07:32 AM_
+Trump steps up immigration crackdown, warns city, state officials against interference" }
+Ruseznleepny@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 04:56 PM_
+Restaurants, pool & even a zoo: venezuela offers a peek at prison run by gang" }
+Wtnooneahersoia@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 02:52 PM_
+Work stint in prison school renews secondary school teachers’ passion for their vocation" }
+Bibnoieepanle@{ shape: win-pane, label: "_UPDATED Jul 08, 2023, 06:54 PM_
+Bringing up baby in prison: how inmates cope with pregnancy and childcare" }
+TsSgoirr@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 08:00 PM_
+Trump says us to 'wage war' on mexican drug cartels" }
+MoijuoSurhl@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 12:24 PM_
+Mexico sending major drug capos to us as trump tariff threat looms" }
+TseCaftfoc@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 06:30 PM_
+Trump says mexico, canada tariffs to take effect on march 4" }
+MowcUaihias@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:17 AM_
+Mexico says won’t accept us ‘invasion’ in fight against cartels" }
+UnlysSmmrpsdt@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 06:40 AM_
+Ukraine’s zelensky calls for us pragmatism after trump calls him a ‘dictator’" }
+
+Taftetmiiaw:::txtsize --> Jtrykmerpsreeam:::txtsize
+Jtrykmerpsreeam:::txtsize --> Uaaojldznmres:::txtsize
+Uaaojldznmres:::txtsize --> Uiitoeaasfas:::txtsize
+Uaaojldznmres:::txtsize --> Tsuiiawnyecasee:::txtsize
+Jtrykmerpsreeam:::txtsize --> Ruseznleepny:::txtsize
+Ruseznleepny:::txtsize --> Wtnooneahersoia:::txtsize
+Ruseznleepny:::txtsize --> Bibnoieepanle:::txtsize
+Taftetmiiaw:::txtsize --> TsSgoirr:::txtsize
+TsSgoirr:::txtsize --> MoijuoSurhl:::txtsize
+MoijuoSurhl:::txtsize --> TseCaftfoc:::txtsize
+TsSgoirr:::txtsize --> MowcUaihias:::txtsize
+MowcUaihias:::txtsize --> UnlysSmmrpsdt:::txtsize
+
 ```
-<i>Last updated: 2025-03-23 08:00:29.486137 (GMT+8)</i>
+<i>Last updated: 2025-03-23 12:00:52.372811 (GMT+8)</i>
 <!-- END -->
