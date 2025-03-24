@@ -16,8 +16,8 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-UnssUahidv@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 03:35 PM_
-Ukraine says talks with us on war with russia ‘productive’" }
+Uslccfaniiertkur@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 10:53 PM_
+Us, russia hold black sea ceasefire talks in saudi arabia after overnight strikes pound ukraine" }
 UneolSAavpoir@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 07:06 AM_
 Ukraine, us teams hold talks in saudi arabia, us envoy hopeful on ending war" }
 TPaotreyctar@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 01:55 PM_
@@ -32,35 +32,35 @@ Feuiea@{ shape: win-pane, label: "_UPDATED Nov 25, 2024, 10:29 AM_
 Feb 24, 2022: the day russia invaded ukraine" }
 SiRasekkrs@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 08:12 PM_
 Shelling by russia kills three in pokrovsk, in ukraine’s east" }
-UneolSAavpoir@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 07:06 AM_
-Ukraine, us teams hold talks in saudi arabia, us envoy hopeful on ending war" }
-TPaotreyctar@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 01:55 PM_
-Trump, putin agree on halt in ukraine energy attacks, but no ceasefire" }
-UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
-Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
-Raiacifacakeiml@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 03:21 PM_
-Russia, ukraine trade accusations of infrastructure attacks after putin-trump call" }
-RanaKnsraikifl@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 11:01 AM_
-Russian drone attack on kyiv injures several, sparks fires, ukrainian officials say" }
-Feuiea@{ shape: win-pane, label: "_UPDATED Nov 25, 2024, 10:29 AM_
-Feb 24, 2022: the day russia invaded ukraine" }
-SiRasekkrs@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 08:12 PM_
-Shelling by russia kills three in pokrovsk, in ukraine’s east" }
+TlsadTithfone@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 08:52 AM_
+The politics of gratitude: how trump insists on thanks from foreign leaders" }
+TZsenapcofdrr@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 11:00 PM_
+Trump, zelensky pledge in ‘fantastic’ phone call to work for end to war in ukraine" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+Dfsrpaeilhnp@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 05:43 PM_
+Dial d for disaster: trump’s ukraine ceasefire call with putin a flop" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
+Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
+YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
+‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
 
-UnssUahidv:::txtsize --> UneolSAavpoir:::txtsize
+Uslccfaniiertkur:::txtsize --> UneolSAavpoir:::txtsize
 UneolSAavpoir:::txtsize --> TPaotreyctar:::txtsize
 TPaotreyctar:::txtsize --> UneSoocfnis:::txtsize
 TPaotreyctar:::txtsize --> Raiacifacakeiml:::txtsize
 UneolSAavpoir:::txtsize --> RanaKnsraikifl:::txtsize
 RanaKnsraikifl:::txtsize --> Feuiea:::txtsize
 RanaKnsraikifl:::txtsize --> SiRasekkrs:::txtsize
-UnssUahidv:::txtsize --> UneolSAavpoir:::txtsize
-UneolSAavpoir:::txtsize --> TPaotreyctar:::txtsize
-TPaotreyctar:::txtsize --> UneSoocfnis:::txtsize
-TPaotreyctar:::txtsize --> Raiacifacakeiml:::txtsize
-UneolSAavpoir:::txtsize --> RanaKnsraikifl:::txtsize
-RanaKnsraikifl:::txtsize --> Feuiea:::txtsize
-RanaKnsraikifl:::txtsize --> SiRasekkrs:::txtsize
+Uslccfaniiertkur:::txtsize --> TlsadTithfone:::txtsize
+TlsadTithfone:::txtsize --> TZsenapcofdrr:::txtsize
+TZsenapcofdrr:::txtsize --> Unlyphaiogh:::txtsize
+TZsenapcofdrr:::txtsize --> Dfsrpaeilhnp:::txtsize
+TlsadTithfone:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
+Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
 
 Tsrltntiianvy@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 04:39 PM_
 Trump’s offer of talks with iran aims to avoid military action, us envoy says" }
@@ -108,52 +108,25 @@ Uiignntuues:::txtsize --> Ilietslhoe:::txtsize
 Ilietslhoe:::txtsize --> Tlhraroeuasl:::txtsize
 Ilietslhoe:::txtsize --> Srousptdrneoak:::txtsize
 
-IliGoalaygsst@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 03:43 PM_
-Israeli strike at gaza hospital kills 5, israel says target was hamas militant" }
-IluCeriecWate@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 09:28 PM_
-Israel’s security cabinet approves independence for 13 west bank settlements" }
-NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
-World in shock after hamas surprise attacks on israel" }
-Ilnnratetalaeeaga@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 08:50 PM_
-Israel defence minister threatens to annex parts of gaza unless hamas releases remaining hostages" }
-Iliieaysaarr@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 12:00 AM_
-Israeli strikes kill over 400 in gaza, say palestinians, ceasefire on brink" }
-AarIlilhwnrnz@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 03:24 PM_
-After air strikes, israel says it has launched new ground operation in gaza" }
-IlsesstlrunHs@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 10:52 PM_
-Israeli air strike kills hamas political leader in southern gaza, hamas says" }
-Jhigenemiiiea@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 10:32 AM_
-‘just the beginning’: israel warns more to come as airstrikes kill over 400 in gaza" }
-Iliieaysaarr@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 12:00 AM_
-Israeli strikes kill over 400 in gaza, say palestinians, ceasefire on brink" }
-Iliieaysaarr@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 12:00 AM_
-Israeli strikes kill over 400 in gaza, say palestinians, ceasefire on brink" }
-Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
-Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
-Pezdsyeasarl@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:48 PM_
-People in gaza shed tears of joy, disbelief at news of ceasefire deal" }
-Ilamslorpdiaac@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:46 PM_
-Israel hostage families on roller coaster of hope and despair as gaza deal reached" }
+WlrdanphicTenuai@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 04:42 PM_
+Who calls for immediate action as report shows 10% rise in child tb infections in european region" }
+Fnslhhrsahoctfsa@{ shape: win-pane, label: "_UPDATED Mar 18, 2025, 11:46 PM_
+Funding cuts for global health programmes threaten childhood vaccination efforts, who says" }
+Usaonatrf@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 07:18 PM_
+Us measles cases so far in 2025 surpass total for all of 2024" }
+TarcdmebArs@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 08:26 PM_
+Two dead, nearly 230 sickened in us measles outbreak: authorities" }
+MeeciUdmca@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 03:33 PM_
+Measles was eradicated in the us: how did it make a comeback?" }
+Fouhhewfncit@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 04:40 PM_
+Fears of us public health crises grow amid falling vaccination rates" }
 
-IliGoalaygsst:::txtsize --> IluCeriecWate:::txtsize
-IluCeriecWate:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-IluCeriecWate:::txtsize --> Ilnnratetalaeeaga:::txtsize
-Ilnnratetalaeeaga:::txtsize --> Iliieaysaarr:::txtsize
-Ilnnratetalaeeaga:::txtsize --> AarIlilhwnrnz:::txtsize
-IliGoalaygsst:::txtsize --> IlsesstlrunHs:::txtsize
-IlsesstlrunHs:::txtsize --> Jhigenemiiiea:::txtsize
-Jhigenemiiiea:::txtsize --> Iliieaysaarr:::txtsize
-Jhigenemiiiea:::txtsize --> Iliieaysaarr:::txtsize
-IlsesstlrunHs:::txtsize --> Ilshedoooia:::txtsize
-Ilshedoooia:::txtsize --> Pezdsyeasarl:::txtsize
-Ilshedoooia:::txtsize --> Ilamslorpdiaac:::txtsize
+WlrdanphicTenuai:::txtsize --> Fnslhhrsahoctfsa:::txtsize
+Fnslhhrsahoctfsa:::txtsize --> Usaonatrf:::txtsize
+Usaonatrf:::txtsize --> TarcdmebArs:::txtsize
+Fnslhhrsahoctfsa:::txtsize --> MeeciUdmca:::txtsize
+MeeciUdmca:::txtsize --> Fouhhewfncit:::txtsize
 
 ```
-<i>Last updated: 2025-03-24 20:00:57.353649 (GMT+8)</i>
+<i>Last updated: 2025-03-25 00:00:17.728361 (GMT+8)</i>
 <!-- END -->
