@@ -62,95 +62,98 @@ UneolSAavpoir:::txtsize --> RanaKnsraikifl:::txtsize
 RanaKnsraikifl:::txtsize --> Feuiea:::txtsize
 RanaKnsraikifl:::txtsize --> SiRasekkrs:::txtsize
 
-Nieseniserrpnneo@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 11:14 AM_
-‘not an innocent visit’: greenland officials express fury over trump’s plan to send delegation" }
-WfVtepliraTcsnie@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 11:22 AM_
-Wife of us v-p vance to make high-profile visit to greenland as trump clings to annexation idea" }
-IkxnhnpsctnGl@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:24 PM_
-‘i think annexation will happen’: trump tells nato chief the us needs greenland" }
-GlhsuseeastasT@{ shape: win-pane, label: "_UPDATED Mar 13, 2025, 06:52 PM_
-Greenland chooses pro-business, independence parties, in potential boost for trump" }
-Glropnpe@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 03:51 PM_
-Greenland’s road to independence explained" }
-GlhsuseeastasT@{ shape: win-pane, label: "_UPDATED Mar 13, 2025, 06:52 PM_
-Greenland chooses pro-business, independence parties, in potential boost for trump" }
-Glropnpe@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 03:51 PM_
-Greenland’s road to independence explained" }
-Gliecdsntmunpe@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:18 PM_
-Greenland’s independence gradualists win election amid trump control pledge" }
-Gliecdsntmunpe@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:18 PM_
-Greenland’s independence gradualists win election amid trump control pledge" }
-WlycmhpGlncos@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:19 PM_
-‘we will make you rich’: trump to the people of greenland in speech to congress" }
-Acauypmdrno@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:51 PM_
-‘america is back,’ trump says in speech marred by partisan rancour" }
-GlMoaloriddns@{ shape: win-pane, label: "_UPDATED Feb 05, 2025, 04:31 PM_
-Greenland pm proposes march 11 election as arctic island fields us interest" }
-Glropnpe@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 03:51 PM_
-Greenland’s road to independence explained" }
-WlycmhpGlncos@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:19 PM_
-‘we will make you rich’: trump to the people of greenland in speech to congress" }
-Ynhwmninhter@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 02:17 AM_
-‘you can’t pin him down’: trump’s contradictions are his ultimate cover" }
+Tsrltntiianvy@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 04:39 PM_
+Trump’s offer of talks with iran aims to avoid military action, us envoy says" }
+Upntnnikhere@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 03:11 PM_
+Us slaps iran-related sanctions on oil tankers, china ‘teapot’ refinery" }
+CRaIspshola@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 09:28 PM_
+China, russia back iran as trump presses tehran for nuclear talks" }
+Ipdopleawveyn@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 04:42 AM_
+Iran’s president to trump: i will not negotiate, ‘do whatever the hell you want’" }
+WSoraiegtsea@{ shape: win-pane, label: "_UPDATED Feb 16, 2025, 10:43 PM_
+With us support, israel can ‘finish the job’ against iran, says netanyahu" }
+Spahnmisival@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:00 PM_
+Singapore-based shipping firm hit with us sanctions over iran oil links" }
+Ucssnraorti@{ shape: win-pane, label: "_UPDATED Nov 22, 2024, 04:29 PM_
+Us sanctions firms in singapore, malaysia over iran petrol links" }
+Ucsrpnrereltnebh@{ shape: win-pane, label: "_PUBLISHED Nov 05, 2022, 03:11 PM_
+Us sanctions owner of supertanker grounded near s’pore over links to iran-backed hizbollah" }
+Uiignntuues@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 08:44 PM_
+Us strikes hit targets in yemen capital, houthi-run tv reports" }
+Tlhraroeuasl@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 10:29 PM_
+Trump launches large-scale strikes on yemen’s houthis, at least 31 killed" }
+IhemnueIur@{ shape: win-pane, label: "_UPDATED Feb 15, 2025, 12:33 AM_
+Iaea chief sees time running out to revive iran nuclear deal" }
+Yshryttheta@{ shape: win-pane, label: "_UPDATED Nov 11, 2024, 10:32 AM_
+Yemen’s houthis warn they will target all ships headed to israel" }
+Ilietslhoe@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 08:38 PM_
+Israel says it intercepted missile launched from yemen" }
+Tlhraroeuasl@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 10:29 PM_
+Trump launches large-scale strikes on yemen’s houthis, at least 31 killed" }
+Srousptdrneoak@{ shape: win-pane, label: "_UPDATED Mar 18, 2025, 05:55 PM_
+‘suffer the consequences’: trump vows to hold iran responsible for houthi attacks" }
 
-Nieseniserrpnneo:::txtsize --> WfVtepliraTcsnie:::txtsize
-WfVtepliraTcsnie:::txtsize --> IkxnhnpsctnGl:::txtsize
-IkxnhnpsctnGl:::txtsize --> GlhsuseeastasT:::txtsize
-IkxnhnpsctnGl:::txtsize --> Glropnpe:::txtsize
-WfVtepliraTcsnie:::txtsize --> GlhsuseeastasT:::txtsize
-GlhsuseeastasT:::txtsize --> Glropnpe:::txtsize
-GlhsuseeastasT:::txtsize --> Gliecdsntmunpe:::txtsize
-Nieseniserrpnneo:::txtsize --> Gliecdsntmunpe:::txtsize
-Gliecdsntmunpe:::txtsize --> WlycmhpGlncos:::txtsize
-WlycmhpGlncos:::txtsize --> Acauypmdrno:::txtsize
-WlycmhpGlncos:::txtsize --> GlMoaloriddns:::txtsize
-Gliecdsntmunpe:::txtsize --> Glropnpe:::txtsize
-Glropnpe:::txtsize --> WlycmhpGlncos:::txtsize
-Glropnpe:::txtsize --> Ynhwmninhter:::txtsize
+Tsrltntiianvy:::txtsize --> Upntnnikhere:::txtsize
+Upntnnikhere:::txtsize --> CRaIspshola:::txtsize
+CRaIspshola:::txtsize --> Ipdopleawveyn:::txtsize
+CRaIspshola:::txtsize --> WSoraiegtsea:::txtsize
+Upntnnikhere:::txtsize --> Spahnmisival:::txtsize
+Spahnmisival:::txtsize --> Ucssnraorti:::txtsize
+Spahnmisival:::txtsize --> Ucsrpnrereltnebh:::txtsize
+Tsrltntiianvy:::txtsize --> Uiignntuues:::txtsize
+Uiignntuues:::txtsize --> Tlhraroeuasl:::txtsize
+Tlhraroeuasl:::txtsize --> IhemnueIur:::txtsize
+Tlhraroeuasl:::txtsize --> Yshryttheta:::txtsize
+Uiignntuues:::txtsize --> Ilietslhoe:::txtsize
+Ilietslhoe:::txtsize --> Tlhraroeuasl:::txtsize
+Ilietslhoe:::txtsize --> Srousptdrneoak:::txtsize
 
-Toieuwmemaemn@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 09:02 AM_
-Trump officials defend use of wartime alien enemies law to deport migrants" }
-Tttyngoesasirn@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 08:00 AM_
-Trump targets lawyers in immigration cases, lawsuits against administration" }
-Tdteeeamtaopor@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 02:40 PM_
-Trump deports alleged venezuelan gang members to el salvador despite court order" }
-Jtrykmerpsreeam@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 11:58 AM_
-Judge temporarily blocks trump’s use of wartime powers to target venezuelan gang members" }
-Ttiatorlg@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 03:20 PM_
-Trump to strip legal status from 532,000 migrants living in us" }
-Tpsrmtioutv@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 07:09 PM_
-Trump promises harsh immigration limits on inauguration eve" }
-PefNrrcysrpc@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 08:23 PM_
-‘people are afraid’: new york migrant economy wilts under trump policies" }
-Taftetmiiaw@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 08:11 PM_
-Thousands of agents diverted to trump immigration crackdown" }
-Jtrykmerpsreeam@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 11:58 AM_
-Judge temporarily blocks trump’s use of wartime powers to target venezuelan gang members" }
-Uaaojldznmres@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 10:47 AM_
-Us to pay el salvador $8m to jail 300 alleged venezuelan gang members, ap reports" }
-Ruseznleepny@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 04:56 PM_
-Restaurants, pool & even a zoo: venezuela offers a peek at prison run by gang" }
-TsSgoirr@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 08:00 PM_
-Trump says us to 'wage war' on mexican drug cartels" }
-MoijuoSurhl@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 12:24 PM_
-Mexico sending major drug capos to us as trump tariff threat looms" }
-MowcUaihias@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:17 AM_
-Mexico says won’t accept us ‘invasion’ in fight against cartels" }
+IliGoalaygsst@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 03:43 PM_
+Israeli strike at gaza hospital kills 5, israel says target was hamas militant" }
+IluCeriecWate@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 09:28 PM_
+Israel’s security cabinet approves independence for 13 west bank settlements" }
+NyeeawHakl@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 10:58 AM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:00 AM_
+World in shock after hamas surprise attacks on israel" }
+Ilnnratetalaeeaga@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 08:50 PM_
+Israel defence minister threatens to annex parts of gaza unless hamas releases remaining hostages" }
+Iliieaysaarr@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 12:00 AM_
+Israeli strikes kill over 400 in gaza, say palestinians, ceasefire on brink" }
+AarIlilhwnrnz@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 03:24 PM_
+After air strikes, israel says it has launched new ground operation in gaza" }
+IlsesstlrunHs@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 10:52 PM_
+Israeli air strike kills hamas political leader in southern gaza, hamas says" }
+Jhigenemiiiea@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 10:32 AM_
+‘just the beginning’: israel warns more to come as airstrikes kill over 400 in gaza" }
+Iliieaysaarr@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 12:00 AM_
+Israeli strikes kill over 400 in gaza, say palestinians, ceasefire on brink" }
+Iliieaysaarr@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 12:00 AM_
+Israeli strikes kill over 400 in gaza, say palestinians, ceasefire on brink" }
+Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
+Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
+Pezdsyeasarl@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:48 PM_
+People in gaza shed tears of joy, disbelief at news of ceasefire deal" }
+Ilamslorpdiaac@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:46 PM_
+Israel hostage families on roller coaster of hope and despair as gaza deal reached" }
 
-Toieuwmemaemn:::txtsize --> Tttyngoesasirn:::txtsize
-Tttyngoesasirn:::txtsize --> Tdteeeamtaopor:::txtsize
-Tdteeeamtaopor:::txtsize --> Jtrykmerpsreeam:::txtsize
-Tttyngoesasirn:::txtsize --> Ttiatorlg:::txtsize
-Ttiatorlg:::txtsize --> Tpsrmtioutv:::txtsize
-Ttiatorlg:::txtsize --> PefNrrcysrpc:::txtsize
-Toieuwmemaemn:::txtsize --> Taftetmiiaw:::txtsize
-Taftetmiiaw:::txtsize --> Jtrykmerpsreeam:::txtsize
-Jtrykmerpsreeam:::txtsize --> Uaaojldznmres:::txtsize
-Jtrykmerpsreeam:::txtsize --> Ruseznleepny:::txtsize
-Taftetmiiaw:::txtsize --> TsSgoirr:::txtsize
-TsSgoirr:::txtsize --> MoijuoSurhl:::txtsize
-TsSgoirr:::txtsize --> MowcUaihias:::txtsize
+IliGoalaygsst:::txtsize --> IluCeriecWate:::txtsize
+IluCeriecWate:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+IluCeriecWate:::txtsize --> Ilnnratetalaeeaga:::txtsize
+Ilnnratetalaeeaga:::txtsize --> Iliieaysaarr:::txtsize
+Ilnnratetalaeeaga:::txtsize --> AarIlilhwnrnz:::txtsize
+IliGoalaygsst:::txtsize --> IlsesstlrunHs:::txtsize
+IlsesstlrunHs:::txtsize --> Jhigenemiiiea:::txtsize
+Jhigenemiiiea:::txtsize --> Iliieaysaarr:::txtsize
+Jhigenemiiiea:::txtsize --> Iliieaysaarr:::txtsize
+IlsesstlrunHs:::txtsize --> Ilshedoooia:::txtsize
+Ilshedoooia:::txtsize --> Pezdsyeasarl:::txtsize
+Ilshedoooia:::txtsize --> Ilamslorpdiaac:::txtsize
 
 ```
-<i>Last updated: 2025-03-24 16:00:36.562651 (GMT+8)</i>
+<i>Last updated: 2025-03-24 20:00:57.353649 (GMT+8)</i>
 <!-- END -->
