@@ -105,52 +105,49 @@ Hserpsrerstto:::txtsize --> AarIlilhwnrnz:::txtsize
 AarIlilhwnrnz:::txtsize --> Jhigenemiiiea:::txtsize
 AarIlilhwnrnz:::txtsize --> Ilshedoooia:::txtsize
 
-UttTCaoslo@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 08:43 PM_
-Under threat from trump, canada set to hold snap elections" }
-Carnvtfeiigr@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 03:22 PM_
-Canada pm mark carney unveils tariff relief, ‘nation building’ reforms" }
-CynCamiseotm@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 10:48 PM_
-Carney sworn in as canada’s prime minister, says he can work with trump" }
-Cadogrieermrfi@{ shape: win-pane, label: "_UPDATED Jan 07, 2025, 01:53 PM_
-Canada’s trudeau to resign as prime minister after 9 years, blames party infighting" }
-TjCamtard@{ shape: win-pane, label: "_UPDATED Dec 19, 2024, 05:00 PM_
-Trump jokes canada becoming 51st us state ‘a great idea’" }
+CiCyseiymtra@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 06:57 AM_
+Canadian pm carney calls snap election, says trump wants to break canada" }
+Uotfaaasr@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 11:27 PM_
+Us to double tariffs on canadian metals to 50%, says trump" }
+UcksinlTphaas@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 11:49 AM_
+Us stock market loses $5 trillion in value as trump ploughs ahead on tariffs" }
+Tdnruei@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 07:02 PM_
+Trump declines to rule out 2025 us recession" }
 TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
 Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
 MoapnTghhtfa@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 11:24 PM_
 Mexico has backup plan in case trump goes through with tariff threat" }
 Fgtaer@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:07 AM_
 Facing up to the realities of trump 2.0" }
-Tsterahrand@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 03:57 PM_
-Trump says it’ll be easier to deal with liberal leader in canada" }
-TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
-Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
-MoapnTghhtfa@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 11:24 PM_
-Mexico has backup plan in case trump goes through with tariff threat" }
-Fgtaer@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:07 AM_
-Facing up to the realities of trump 2.0" }
-CynCamiseotm@{ shape: win-pane, label: "_UPDATED Mar 15, 2025, 10:48 PM_
-Carney sworn in as canada’s prime minister, says he can work with trump" }
 Cadogrieermrfi@{ shape: win-pane, label: "_UPDATED Jan 07, 2025, 01:53 PM_
 Canada’s trudeau to resign as prime minister after 9 years, blames party infighting" }
-TjCamtard@{ shape: win-pane, label: "_UPDATED Dec 19, 2024, 05:00 PM_
-Trump jokes canada becoming 51st us state ‘a great idea’" }
+FiltaTnoeuTa@{ shape: win-pane, label: "_UPDATED Dec 23, 2024, 11:41 AM_
+From liberal icon to maga joke: the waning fortunes of justin trudeau" }
+CiTaptoimreepc@{ shape: win-pane, label: "_UPDATED Dec 21, 2024, 09:11 AM_
+Canadian pm trudeau drops one-third of cabinet amid party pressure, trump attacks" }
+Caulslofeytpm@{ shape: win-pane, label: "_UPDATED Dec 21, 2024, 08:22 PM_
+Canada pm trudeau looks set to lose power after key ally vows to topple him" }
+WvannnPtu@{ shape: win-pane, label: "_UPDATED Dec 21, 2024, 08:58 PM_
+Why have so many canadians turned on pm justin trudeau?" }
+Cartfeaieispfo@{ shape: win-pane, label: "_UPDATED Dec 17, 2024, 06:41 PM_
+Canada government adrift after finance minister resigns as trump tariffs loom" }
+Caulslofeytpm@{ shape: win-pane, label: "_UPDATED Dec 21, 2024, 08:22 PM_
+Canada pm trudeau looks set to lose power after key ally vows to topple him" }
 
-UttTCaoslo:::txtsize --> Carnvtfeiigr:::txtsize
-Carnvtfeiigr:::txtsize --> CynCamiseotm:::txtsize
-CynCamiseotm:::txtsize --> Cadogrieermrfi:::txtsize
-CynCamiseotm:::txtsize --> TjCamtard:::txtsize
-Carnvtfeiigr:::txtsize --> TcrroadcbeC:::txtsize
+CiCyseiymtra:::txtsize --> Uotfaaasr:::txtsize
+Uotfaaasr:::txtsize --> UcksinlTphaas:::txtsize
+UcksinlTphaas:::txtsize --> Tdnruei:::txtsize
+Uotfaaasr:::txtsize --> TcrroadcbeC:::txtsize
 TcrroadcbeC:::txtsize --> MoapnTghhtfa:::txtsize
 TcrroadcbeC:::txtsize --> Fgtaer:::txtsize
-UttTCaoslo:::txtsize --> Tsterahrand:::txtsize
-Tsterahrand:::txtsize --> TcrroadcbeC:::txtsize
-TcrroadcbeC:::txtsize --> MoapnTghhtfa:::txtsize
-TcrroadcbeC:::txtsize --> Fgtaer:::txtsize
-Tsterahrand:::txtsize --> CynCamiseotm:::txtsize
-CynCamiseotm:::txtsize --> Cadogrieermrfi:::txtsize
-CynCamiseotm:::txtsize --> TjCamtard:::txtsize
+CiCyseiymtra:::txtsize --> Cadogrieermrfi:::txtsize
+Cadogrieermrfi:::txtsize --> FiltaTnoeuTa:::txtsize
+FiltaTnoeuTa:::txtsize --> CiTaptoimreepc:::txtsize
+FiltaTnoeuTa:::txtsize --> Caulslofeytpm:::txtsize
+Cadogrieermrfi:::txtsize --> WvannnPtu:::txtsize
+WvannnPtu:::txtsize --> Cartfeaieispfo:::txtsize
+WvannnPtu:::txtsize --> Caulslofeytpm:::txtsize
 
 ```
-<i>Last updated: 2025-03-24 04:00:24.339848 (GMT+8)</i>
+<i>Last updated: 2025-03-24 08:00:46.549175 (GMT+8)</i>
 <!-- END -->
