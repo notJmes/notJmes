@@ -16,6 +16,95 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+BaaltdePdhn@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 12:31 AM_
+Belgian royals roll out the red carpet for president tharman" }
+Saerltarmnaslestm@{ shape: win-pane, label: "_UPDATED Nov 20, 2024, 12:11 AM_
+S’pore and sweden are small states that share commitment to fair, just world order: president tharman" }
+Kfetioafo@{ shape: win-pane, label: "_UPDATED Nov 18, 2024, 07:30 PM_
+King of sweden on state visit to singapore from nov 19 to 21" }
+Snsetgeaadrvn@{ shape: win-pane, label: "_UPDATED Nov 18, 2024, 10:35 PM_
+Sweden hopes to tie up with singapore on healthcare and other innovations" }
+Sneoawoaieda@{ shape: win-pane, label: "_UPDATED Nov 11, 2024, 10:02 AM_
+Sweden to deepen cooperation with south-east asia in new trade strategy" }
+CrGenttraicmo@{ shape: win-pane, label: "_UPDATED Nov 08, 2024, 01:50 PM_
+Comfortdelgro tie-up wins contract to operate, maintain stockholm metro" }
+CrGbtmosoaou@{ shape: win-pane, label: "_UPDATED Dec 27, 2023, 10:31 PM_
+Comfortdelgro cabbies to pay more commission to company from january" }
+Starienaetgsestm@{ shape: win-pane, label: "_UPDATED Jan 23, 2025, 02:15 PM_
+Scope to expand air services between india, s’pore as both forge closer ties: president tharman" }
+SpnitpepweyiTa@{ shape: win-pane, label: "_UPDATED Jan 23, 2025, 02:13 PM_
+Singapore and india’s ‘natural partnership’ on new trajectory: president tharman" }
+PdhnsdmefaIri@{ shape: win-pane, label: "_UPDATED Jan 23, 2025, 02:13 PM_
+President tharman to visit india to mark 60 years of singapore-india relations" }
+Spnoggtorstgrs@{ shape: win-pane, label: "_UPDATED Sep 06, 2024, 01:43 PM_
+Singapore, india working to upgrade ties to comprehensive strategic partnership" }
+TDwriotssfgstRli@{ shape: win-pane, label: "_UPDATED Jan 19, 2025, 07:38 AM_
+Tarun das, new honorary singapore citizen, suggests offering ‘townships’ to the republic’s firms" }
+Inslaaehanrih@{ shape: win-pane, label: "_UPDATED Jan 23, 2025, 02:13 PM_
+Indian industrialist tarun das receives honorary singapore citizenship" }
+SpnitpepweyiTa@{ shape: win-pane, label: "_UPDATED Jan 23, 2025, 02:13 PM_
+Singapore and india’s ‘natural partnership’ on new trajectory: president tharman" }
+
+BaaltdePdhn:::txtsize --> Saerltarmnaslestm:::txtsize
+Saerltarmnaslestm:::txtsize --> Kfetioafo:::txtsize
+Kfetioafo:::txtsize --> Snsetgeaadrvn:::txtsize
+Kfetioafo:::txtsize --> Sneoawoaieda:::txtsize
+Saerltarmnaslestm:::txtsize --> CrGenttraicmo:::txtsize
+CrGenttraicmo:::txtsize --> CrGbtmosoaou:::txtsize
+BaaltdePdhn:::txtsize --> Starienaetgsestm:::txtsize
+Starienaetgsestm:::txtsize --> SpnitpepweyiTa:::txtsize
+SpnitpepweyiTa:::txtsize --> PdhnsdmefaIri:::txtsize
+SpnitpepweyiTa:::txtsize --> Spnoggtorstgrs:::txtsize
+Starienaetgsestm:::txtsize --> TDwriotssfgstRli:::txtsize
+TDwriotssfgstRli:::txtsize --> Inslaaehanrih:::txtsize
+TDwriotssfgstRli:::txtsize --> SpnitpepweyiTa:::txtsize
+
+Iaindtelt@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 10:39 PM_
+Iran says it is open to indirect nuclear talks with us" }
+Tsrltntiianvy@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 04:39 PM_
+Trump’s offer of talks with iran aims to avoid military action, us envoy says" }
+Upntnnikhere@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 03:11 PM_
+Us slaps iran-related sanctions on oil tankers, china ‘teapot’ refinery" }
+CRaIspshola@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 09:28 PM_
+China, russia back iran as trump presses tehran for nuclear talks" }
+Spahnmisival@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:00 PM_
+Singapore-based shipping firm hit with us sanctions over iran oil links" }
+Uiignntuues@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 08:44 PM_
+Us strikes hit targets in yemen capital, houthi-run tv reports" }
+Tlhraroeuasl@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 10:29 PM_
+Trump launches large-scale strikes on yemen’s houthis, at least 31 killed" }
+Ilietslhoe@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 08:38 PM_
+Israel says it intercepted missile launched from yemen" }
+CRaIspshola@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 09:28 PM_
+China, russia back iran as trump presses tehran for nuclear talks" }
+Ipdopleawveyn@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 04:42 AM_
+Iran’s president to trump: i will not negotiate, ‘do whatever the hell you want’" }
+IawoeiursUeldyas@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 03:39 PM_
+Iran says it will consider limited nuclear talks with us after it slammed ‘bullying’ tactics" }
+IhemnueIur@{ shape: win-pane, label: "_UPDATED Feb 15, 2025, 12:33 AM_
+Iaea chief sees time running out to revive iran nuclear deal" }
+WSoraiegtsea@{ shape: win-pane, label: "_UPDATED Feb 16, 2025, 10:43 PM_
+With us support, israel can ‘finish the job’ against iran, says netanyahu" }
+Aiithirbas@{ shape: win-pane, label: "_UPDATED Feb 16, 2025, 10:48 PM_
+As rubio visits, netanyahu praises trump’s ‘bold’ gaza vision" }
+Ipdaticwn@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 09:07 PM_
+Iran’s president says ‘not seeking nuclear weapons’" }
+
+Iaindtelt:::txtsize --> Tsrltntiianvy:::txtsize
+Tsrltntiianvy:::txtsize --> Upntnnikhere:::txtsize
+Upntnnikhere:::txtsize --> CRaIspshola:::txtsize
+Upntnnikhere:::txtsize --> Spahnmisival:::txtsize
+Tsrltntiianvy:::txtsize --> Uiignntuues:::txtsize
+Uiignntuues:::txtsize --> Tlhraroeuasl:::txtsize
+Uiignntuues:::txtsize --> Ilietslhoe:::txtsize
+Iaindtelt:::txtsize --> CRaIspshola:::txtsize
+CRaIspshola:::txtsize --> Ipdopleawveyn:::txtsize
+Ipdopleawveyn:::txtsize --> IawoeiursUeldyas:::txtsize
+Ipdopleawveyn:::txtsize --> IhemnueIur:::txtsize
+CRaIspshola:::txtsize --> WSoraiegtsea:::txtsize
+WSoraiegtsea:::txtsize --> Aiithirbas:::txtsize
+WSoraiegtsea:::txtsize --> Ipdaticwn:::txtsize
+
 Uslccfaniiertkur@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 10:53 PM_
 Us, russia hold black sea ceasefire talks in saudi arabia after overnight strikes pound ukraine" }
 UneolSAavpoir@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 07:06 AM_
@@ -62,71 +151,6 @@ TlsadTithfone:::txtsize --> Unlyphaiogh:::txtsize
 Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
 Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
 
-Tsrltntiianvy@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 04:39 PM_
-Trump’s offer of talks with iran aims to avoid military action, us envoy says" }
-Upntnnikhere@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 03:11 PM_
-Us slaps iran-related sanctions on oil tankers, china ‘teapot’ refinery" }
-CRaIspshola@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 09:28 PM_
-China, russia back iran as trump presses tehran for nuclear talks" }
-Ipdopleawveyn@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 04:42 AM_
-Iran’s president to trump: i will not negotiate, ‘do whatever the hell you want’" }
-WSoraiegtsea@{ shape: win-pane, label: "_UPDATED Feb 16, 2025, 10:43 PM_
-With us support, israel can ‘finish the job’ against iran, says netanyahu" }
-Spahnmisival@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:00 PM_
-Singapore-based shipping firm hit with us sanctions over iran oil links" }
-Ucssnraorti@{ shape: win-pane, label: "_UPDATED Nov 22, 2024, 04:29 PM_
-Us sanctions firms in singapore, malaysia over iran petrol links" }
-Ucsrpnrereltnebh@{ shape: win-pane, label: "_PUBLISHED Nov 05, 2022, 03:11 PM_
-Us sanctions owner of supertanker grounded near s’pore over links to iran-backed hizbollah" }
-Uiignntuues@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 08:44 PM_
-Us strikes hit targets in yemen capital, houthi-run tv reports" }
-Tlhraroeuasl@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 10:29 PM_
-Trump launches large-scale strikes on yemen’s houthis, at least 31 killed" }
-IhemnueIur@{ shape: win-pane, label: "_UPDATED Feb 15, 2025, 12:33 AM_
-Iaea chief sees time running out to revive iran nuclear deal" }
-Yshryttheta@{ shape: win-pane, label: "_UPDATED Nov 11, 2024, 10:32 AM_
-Yemen’s houthis warn they will target all ships headed to israel" }
-Ilietslhoe@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 08:38 PM_
-Israel says it intercepted missile launched from yemen" }
-Tlhraroeuasl@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 10:29 PM_
-Trump launches large-scale strikes on yemen’s houthis, at least 31 killed" }
-Srousptdrneoak@{ shape: win-pane, label: "_UPDATED Mar 18, 2025, 05:55 PM_
-‘suffer the consequences’: trump vows to hold iran responsible for houthi attacks" }
-
-Tsrltntiianvy:::txtsize --> Upntnnikhere:::txtsize
-Upntnnikhere:::txtsize --> CRaIspshola:::txtsize
-CRaIspshola:::txtsize --> Ipdopleawveyn:::txtsize
-CRaIspshola:::txtsize --> WSoraiegtsea:::txtsize
-Upntnnikhere:::txtsize --> Spahnmisival:::txtsize
-Spahnmisival:::txtsize --> Ucssnraorti:::txtsize
-Spahnmisival:::txtsize --> Ucsrpnrereltnebh:::txtsize
-Tsrltntiianvy:::txtsize --> Uiignntuues:::txtsize
-Uiignntuues:::txtsize --> Tlhraroeuasl:::txtsize
-Tlhraroeuasl:::txtsize --> IhemnueIur:::txtsize
-Tlhraroeuasl:::txtsize --> Yshryttheta:::txtsize
-Uiignntuues:::txtsize --> Ilietslhoe:::txtsize
-Ilietslhoe:::txtsize --> Tlhraroeuasl:::txtsize
-Ilietslhoe:::txtsize --> Srousptdrneoak:::txtsize
-
-WlrdanphicTenuai@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 04:42 PM_
-Who calls for immediate action as report shows 10% rise in child tb infections in european region" }
-Fnslhhrsahoctfsa@{ shape: win-pane, label: "_UPDATED Mar 18, 2025, 11:46 PM_
-Funding cuts for global health programmes threaten childhood vaccination efforts, who says" }
-Usaonatrf@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 07:18 PM_
-Us measles cases so far in 2025 surpass total for all of 2024" }
-TarcdmebArs@{ shape: win-pane, label: "_UPDATED Mar 08, 2025, 08:26 PM_
-Two dead, nearly 230 sickened in us measles outbreak: authorities" }
-MeeciUdmca@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 03:33 PM_
-Measles was eradicated in the us: how did it make a comeback?" }
-Fouhhewfncit@{ shape: win-pane, label: "_UPDATED Feb 25, 2025, 04:40 PM_
-Fears of us public health crises grow amid falling vaccination rates" }
-
-WlrdanphicTenuai:::txtsize --> Fnslhhrsahoctfsa:::txtsize
-Fnslhhrsahoctfsa:::txtsize --> Usaonatrf:::txtsize
-Usaonatrf:::txtsize --> TarcdmebArs:::txtsize
-Fnslhhrsahoctfsa:::txtsize --> MeeciUdmca:::txtsize
-MeeciUdmca:::txtsize --> Fouhhewfncit:::txtsize
-
 ```
-<i>Last updated: 2025-03-25 00:00:17.728361 (GMT+8)</i>
+<i>Last updated: 2025-03-25 04:00:42.794102 (GMT+8)</i>
 <!-- END -->
