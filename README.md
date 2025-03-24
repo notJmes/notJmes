@@ -16,138 +16,141 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-RanpeStNi@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 10:14 PM_
-Russia hoping for ‘progress’ at saudi talks: negotiator" }
-UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
-Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
-Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
-‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
-Tfrsmawrmndlna@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:41 PM_
-Text of us-ukraine statement paving way for resumption of aid, intelligence sharing" }
-UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
-Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
-UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
-Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
-Zsyanrlniitoc@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 03:16 PM_
-Zelensky says ukrainian experts will be in saudi arabia for talks on march 24" }
-TZsenapcofdrr@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 11:00 PM_
-Trump, zelensky pledge in ‘fantastic’ phone call to work for end to war in ukraine" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-Dfsrpaeilhnp@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 05:43 PM_
-Dial d for disaster: trump’s ukraine ceasefire call with putin a flop" }
-Dfsrpaeilhnp@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 05:43 PM_
-Dial d for disaster: trump’s ukraine ceasefire call with putin a flop" }
+UnssUahidv@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 07:05 AM_
+Ukraine says talks with us on war with russia ‘productive’" }
+UneolSAavpoir@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 07:06 AM_
+Ukraine, us teams hold talks in saudi arabia, us envoy hopeful on ending war" }
 TPaotreyctar@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 01:55 PM_
 Trump, putin agree on halt in ukraine energy attacks, but no ceasefire" }
+UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
+Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
+Raiacifacakeiml@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 03:21 PM_
+Russia, ukraine trade accusations of infrastructure attacks after putin-trump call" }
+RanaKnsraikifl@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 11:01 AM_
+Russian drone attack on kyiv injures several, sparks fires, ukrainian officials say" }
+Feuiea@{ shape: win-pane, label: "_UPDATED Nov 25, 2024, 10:29 AM_
+Feb 24, 2022: the day russia invaded ukraine" }
+SiRasekkrs@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 08:12 PM_
+Shelling by russia kills three in pokrovsk, in ukraine’s east" }
+UneolSAavpoir@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 07:06 AM_
+Ukraine, us teams hold talks in saudi arabia, us envoy hopeful on ending war" }
+TPaotreyctar@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 01:55 PM_
+Trump, putin agree on halt in ukraine energy attacks, but no ceasefire" }
+UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
+Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
+Raiacifacakeiml@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 03:21 PM_
+Russia, ukraine trade accusations of infrastructure attacks after putin-trump call" }
+RanaKnsraikifl@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 11:01 AM_
+Russian drone attack on kyiv injures several, sparks fires, ukrainian officials say" }
+Feuiea@{ shape: win-pane, label: "_UPDATED Nov 25, 2024, 10:29 AM_
+Feb 24, 2022: the day russia invaded ukraine" }
+SiRasekkrs@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 08:12 PM_
+Shelling by russia kills three in pokrovsk, in ukraine’s east" }
 
-RanpeStNi:::txtsize --> UneSoocfnis:::txtsize
-UneSoocfnis:::txtsize --> Unlyphaiogh:::txtsize
-Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
-Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
-UneSoocfnis:::txtsize --> Tfrsmawrmndlna:::txtsize
-Tfrsmawrmndlna:::txtsize --> UneSoocfnis:::txtsize
-Tfrsmawrmndlna:::txtsize --> UneSoocfnis:::txtsize
-RanpeStNi:::txtsize --> Zsyanrlniitoc:::txtsize
-Zsyanrlniitoc:::txtsize --> TZsenapcofdrr:::txtsize
-TZsenapcofdrr:::txtsize --> Unlyphaiogh:::txtsize
-TZsenapcofdrr:::txtsize --> Dfsrpaeilhnp:::txtsize
-Zsyanrlniitoc:::txtsize --> Dfsrpaeilhnp:::txtsize
-Dfsrpaeilhnp:::txtsize --> TPaotreyctar:::txtsize
+UnssUahidv:::txtsize --> UneolSAavpoir:::txtsize
+UneolSAavpoir:::txtsize --> TPaotreyctar:::txtsize
+TPaotreyctar:::txtsize --> UneSoocfnis:::txtsize
+TPaotreyctar:::txtsize --> Raiacifacakeiml:::txtsize
+UneolSAavpoir:::txtsize --> RanaKnsraikifl:::txtsize
+RanaKnsraikifl:::txtsize --> Feuiea:::txtsize
+RanaKnsraikifl:::txtsize --> SiRasekkrs:::txtsize
+UnssUahidv:::txtsize --> UneolSAavpoir:::txtsize
+UneolSAavpoir:::txtsize --> TPaotreyctar:::txtsize
+TPaotreyctar:::txtsize --> UneSoocfnis:::txtsize
+TPaotreyctar:::txtsize --> Raiacifacakeiml:::txtsize
+UneolSAavpoir:::txtsize --> RanaKnsraikifl:::txtsize
+RanaKnsraikifl:::txtsize --> Feuiea:::txtsize
+RanaKnsraikifl:::txtsize --> SiRasekkrs:::txtsize
 
-Maeebhgcmssic@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 10:58 PM_
-Military pressure will bring hostages back from gaza, says israeli official" }
-AarIlilhwnrnz@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 03:24 PM_
-After air strikes, israel says it has launched new ground operation in gaza" }
-Jhigenemiiiea@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 10:32 AM_
-‘just the beginning’: israel warns more to come as airstrikes kill over 400 in gaza" }
-Iliieaysaarr@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 12:00 AM_
-Israeli strikes kill over 400 in gaza, say palestinians, ceasefire on brink" }
-Iliieaysaarr@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 12:00 AM_
-Israeli strikes kill over 400 in gaza, say palestinians, ceasefire on brink" }
-Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
-Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
-Pezdsyeasarl@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:48 PM_
-People in gaza shed tears of joy, disbelief at news of ceasefire deal" }
-Ilamslorpdiaac@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 11:46 PM_
-Israel hostage families on roller coaster of hope and despair as gaza deal reached" }
-Hserpsrerstto@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 08:27 PM_
-Hamas studies us ‘bridge’ proposal for truce as israel escalates return to war" }
-UsgpolGeitosa@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 07:13 PM_
-Us says ‘bridge proposal’ on table for gaza ceasefire but window ‘closing fast’" }
-AarIlilhwnrnz@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 03:24 PM_
-After air strikes, israel says it has launched new ground operation in gaza" }
-Jhigenemiiiea@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 10:32 AM_
-‘just the beginning’: israel warns more to come as airstrikes kill over 400 in gaza" }
-AarIlilhwnrnz@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 03:24 PM_
-After air strikes, israel says it has launched new ground operation in gaza" }
-Jhigenemiiiea@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 10:32 AM_
-‘just the beginning’: israel warns more to come as airstrikes kill over 400 in gaza" }
-Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
-Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
+Nieseniserrpnneo@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 11:14 AM_
+‘not an innocent visit’: greenland officials express fury over trump’s plan to send delegation" }
+WfVtepliraTcsnie@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 11:22 AM_
+Wife of us v-p vance to make high-profile visit to greenland as trump clings to annexation idea" }
+IkxnhnpsctnGl@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:24 PM_
+‘i think annexation will happen’: trump tells nato chief the us needs greenland" }
+GlhsuseeastasT@{ shape: win-pane, label: "_UPDATED Mar 13, 2025, 06:52 PM_
+Greenland chooses pro-business, independence parties, in potential boost for trump" }
+Glropnpe@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 03:51 PM_
+Greenland’s road to independence explained" }
+GlhsuseeastasT@{ shape: win-pane, label: "_UPDATED Mar 13, 2025, 06:52 PM_
+Greenland chooses pro-business, independence parties, in potential boost for trump" }
+Glropnpe@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 03:51 PM_
+Greenland’s road to independence explained" }
+Gliecdsntmunpe@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:18 PM_
+Greenland’s independence gradualists win election amid trump control pledge" }
+Gliecdsntmunpe@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 05:18 PM_
+Greenland’s independence gradualists win election amid trump control pledge" }
+WlycmhpGlncos@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:19 PM_
+‘we will make you rich’: trump to the people of greenland in speech to congress" }
+Acauypmdrno@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:51 PM_
+‘america is back,’ trump says in speech marred by partisan rancour" }
+GlMoaloriddns@{ shape: win-pane, label: "_UPDATED Feb 05, 2025, 04:31 PM_
+Greenland pm proposes march 11 election as arctic island fields us interest" }
+Glropnpe@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 03:51 PM_
+Greenland’s road to independence explained" }
+WlycmhpGlncos@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 03:19 PM_
+‘we will make you rich’: trump to the people of greenland in speech to congress" }
+Ynhwmninhter@{ shape: win-pane, label: "_UPDATED Mar 09, 2025, 02:17 AM_
+‘you can’t pin him down’: trump’s contradictions are his ultimate cover" }
 
-Maeebhgcmssic:::txtsize --> AarIlilhwnrnz:::txtsize
-AarIlilhwnrnz:::txtsize --> Jhigenemiiiea:::txtsize
-Jhigenemiiiea:::txtsize --> Iliieaysaarr:::txtsize
-Jhigenemiiiea:::txtsize --> Iliieaysaarr:::txtsize
-AarIlilhwnrnz:::txtsize --> Ilshedoooia:::txtsize
-Ilshedoooia:::txtsize --> Pezdsyeasarl:::txtsize
-Ilshedoooia:::txtsize --> Ilamslorpdiaac:::txtsize
-Maeebhgcmssic:::txtsize --> Hserpsrerstto:::txtsize
-Hserpsrerstto:::txtsize --> UsgpolGeitosa:::txtsize
-UsgpolGeitosa:::txtsize --> AarIlilhwnrnz:::txtsize
-UsgpolGeitosa:::txtsize --> Jhigenemiiiea:::txtsize
-Hserpsrerstto:::txtsize --> AarIlilhwnrnz:::txtsize
-AarIlilhwnrnz:::txtsize --> Jhigenemiiiea:::txtsize
-AarIlilhwnrnz:::txtsize --> Ilshedoooia:::txtsize
+Nieseniserrpnneo:::txtsize --> WfVtepliraTcsnie:::txtsize
+WfVtepliraTcsnie:::txtsize --> IkxnhnpsctnGl:::txtsize
+IkxnhnpsctnGl:::txtsize --> GlhsuseeastasT:::txtsize
+IkxnhnpsctnGl:::txtsize --> Glropnpe:::txtsize
+WfVtepliraTcsnie:::txtsize --> GlhsuseeastasT:::txtsize
+GlhsuseeastasT:::txtsize --> Glropnpe:::txtsize
+GlhsuseeastasT:::txtsize --> Gliecdsntmunpe:::txtsize
+Nieseniserrpnneo:::txtsize --> Gliecdsntmunpe:::txtsize
+Gliecdsntmunpe:::txtsize --> WlycmhpGlncos:::txtsize
+WlycmhpGlncos:::txtsize --> Acauypmdrno:::txtsize
+WlycmhpGlncos:::txtsize --> GlMoaloriddns:::txtsize
+Gliecdsntmunpe:::txtsize --> Glropnpe:::txtsize
+Glropnpe:::txtsize --> WlycmhpGlncos:::txtsize
+Glropnpe:::txtsize --> Ynhwmninhter:::txtsize
 
-CiCyseiymtra@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 06:57 AM_
-Canadian pm carney calls snap election, says trump wants to break canada" }
-Uotfaaasr@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 11:27 PM_
-Us to double tariffs on canadian metals to 50%, says trump" }
-UcksinlTphaas@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 11:49 AM_
-Us stock market loses $5 trillion in value as trump ploughs ahead on tariffs" }
-Tdnruei@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 07:02 PM_
-Trump declines to rule out 2025 us recession" }
-TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
-Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
-MoapnTghhtfa@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 11:24 PM_
-Mexico has backup plan in case trump goes through with tariff threat" }
-Fgtaer@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:07 AM_
-Facing up to the realities of trump 2.0" }
-Cadogrieermrfi@{ shape: win-pane, label: "_UPDATED Jan 07, 2025, 01:53 PM_
-Canada’s trudeau to resign as prime minister after 9 years, blames party infighting" }
-FiltaTnoeuTa@{ shape: win-pane, label: "_UPDATED Dec 23, 2024, 11:41 AM_
-From liberal icon to maga joke: the waning fortunes of justin trudeau" }
-CiTaptoimreepc@{ shape: win-pane, label: "_UPDATED Dec 21, 2024, 09:11 AM_
-Canadian pm trudeau drops one-third of cabinet amid party pressure, trump attacks" }
-Caulslofeytpm@{ shape: win-pane, label: "_UPDATED Dec 21, 2024, 08:22 PM_
-Canada pm trudeau looks set to lose power after key ally vows to topple him" }
-WvannnPtu@{ shape: win-pane, label: "_UPDATED Dec 21, 2024, 08:58 PM_
-Why have so many canadians turned on pm justin trudeau?" }
-Cartfeaieispfo@{ shape: win-pane, label: "_UPDATED Dec 17, 2024, 06:41 PM_
-Canada government adrift after finance minister resigns as trump tariffs loom" }
-Caulslofeytpm@{ shape: win-pane, label: "_UPDATED Dec 21, 2024, 08:22 PM_
-Canada pm trudeau looks set to lose power after key ally vows to topple him" }
+Toieuwmemaemn@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 09:02 AM_
+Trump officials defend use of wartime alien enemies law to deport migrants" }
+Tttyngoesasirn@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 08:00 AM_
+Trump targets lawyers in immigration cases, lawsuits against administration" }
+Tdteeeamtaopor@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 02:40 PM_
+Trump deports alleged venezuelan gang members to el salvador despite court order" }
+Jtrykmerpsreeam@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 11:58 AM_
+Judge temporarily blocks trump’s use of wartime powers to target venezuelan gang members" }
+Ttiatorlg@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 03:20 PM_
+Trump to strip legal status from 532,000 migrants living in us" }
+Tpsrmtioutv@{ shape: win-pane, label: "_UPDATED Jan 20, 2025, 07:09 PM_
+Trump promises harsh immigration limits on inauguration eve" }
+PefNrrcysrpc@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 08:23 PM_
+‘people are afraid’: new york migrant economy wilts under trump policies" }
+Taftetmiiaw@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 08:11 PM_
+Thousands of agents diverted to trump immigration crackdown" }
+Jtrykmerpsreeam@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 11:58 AM_
+Judge temporarily blocks trump’s use of wartime powers to target venezuelan gang members" }
+Uaaojldznmres@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 10:47 AM_
+Us to pay el salvador $8m to jail 300 alleged venezuelan gang members, ap reports" }
+Ruseznleepny@{ shape: win-pane, label: "_UPDATED Nov 14, 2024, 04:56 PM_
+Restaurants, pool & even a zoo: venezuela offers a peek at prison run by gang" }
+TsSgoirr@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 08:00 PM_
+Trump says us to 'wage war' on mexican drug cartels" }
+MoijuoSurhl@{ shape: win-pane, label: "_UPDATED Feb 28, 2025, 12:24 PM_
+Mexico sending major drug capos to us as trump tariff threat looms" }
+MowcUaihias@{ shape: win-pane, label: "_UPDATED Feb 21, 2025, 12:17 AM_
+Mexico says won’t accept us ‘invasion’ in fight against cartels" }
 
-CiCyseiymtra:::txtsize --> Uotfaaasr:::txtsize
-Uotfaaasr:::txtsize --> UcksinlTphaas:::txtsize
-UcksinlTphaas:::txtsize --> Tdnruei:::txtsize
-Uotfaaasr:::txtsize --> TcrroadcbeC:::txtsize
-TcrroadcbeC:::txtsize --> MoapnTghhtfa:::txtsize
-TcrroadcbeC:::txtsize --> Fgtaer:::txtsize
-CiCyseiymtra:::txtsize --> Cadogrieermrfi:::txtsize
-Cadogrieermrfi:::txtsize --> FiltaTnoeuTa:::txtsize
-FiltaTnoeuTa:::txtsize --> CiTaptoimreepc:::txtsize
-FiltaTnoeuTa:::txtsize --> Caulslofeytpm:::txtsize
-Cadogrieermrfi:::txtsize --> WvannnPtu:::txtsize
-WvannnPtu:::txtsize --> Cartfeaieispfo:::txtsize
-WvannnPtu:::txtsize --> Caulslofeytpm:::txtsize
+Toieuwmemaemn:::txtsize --> Tttyngoesasirn:::txtsize
+Tttyngoesasirn:::txtsize --> Tdteeeamtaopor:::txtsize
+Tdteeeamtaopor:::txtsize --> Jtrykmerpsreeam:::txtsize
+Tttyngoesasirn:::txtsize --> Ttiatorlg:::txtsize
+Ttiatorlg:::txtsize --> Tpsrmtioutv:::txtsize
+Ttiatorlg:::txtsize --> PefNrrcysrpc:::txtsize
+Toieuwmemaemn:::txtsize --> Taftetmiiaw:::txtsize
+Taftetmiiaw:::txtsize --> Jtrykmerpsreeam:::txtsize
+Jtrykmerpsreeam:::txtsize --> Uaaojldznmres:::txtsize
+Jtrykmerpsreeam:::txtsize --> Ruseznleepny:::txtsize
+Taftetmiiaw:::txtsize --> TsSgoirr:::txtsize
+TsSgoirr:::txtsize --> MoijuoSurhl:::txtsize
+TsSgoirr:::txtsize --> MowcUaihias:::txtsize
 
 ```
-<i>Last updated: 2025-03-24 08:00:46.549175 (GMT+8)</i>
+<i>Last updated: 2025-03-24 12:01:12.637049 (GMT+8)</i>
 <!-- END -->
