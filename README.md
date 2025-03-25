@@ -16,7 +16,53 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-BaaltdePdhn@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 05:15 AM_
+Tsaearittwn@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 12:28 PM_
+Trump’s threat of ‘secondary tariffs’ invents new trade weapon" }
+Tsuramuaviiep@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 03:31 PM_
+Trump says auto tariffs are coming, but not all levies will be imposed on april 2" }
+Hamobonmeen@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 08:23 AM_
+Hyundai, trump announce $28 billion us investment, new steel plant" }
+Tsidrrtfioitss@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 10:30 AM_
+Trump still intends for reciprocal tariffs to kick in on april 2, white house says" }
+Tsuramuaviiep@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 03:31 PM_
+Trump says auto tariffs are coming, but not all levies will be imposed on april 2" }
+TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
+Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
+MoapnTghhtfa@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 11:24 PM_
+Mexico has backup plan in case trump goes through with tariff threat" }
+Fgtaer@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:07 AM_
+Facing up to the realities of trump 2.0" }
+UaslhlaTtf@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 07:25 PM_
+Us retailers haggle with suppliers after trump tariffs" }
+Tsiepleainl@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 03:26 PM_
+Trump set to impose reciprocal and sectoral tariffs on april 2" }
+UcksinlTphaas@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 11:49 AM_
+Us stock market loses $5 trillion in value as trump ploughs ahead on tariffs" }
+Trsfanneonsds@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 06:19 PM_
+Trump raises tariffs on aluminium and steel imports in latest trade war salvo" }
+Udepiicetrid@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 10:20 AM_
+Us trade chief to speak with chinese counterpart as tariff rift widens" }
+Cschuntflyi@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 05:12 PM_
+Chinese parcels that trump wants to tariff are already falling" }
+Wrtwdieys@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 05:34 AM_
+Will trump’s trade war end america’s fentanyl crisis?" }
+
+Tsaearittwn:::txtsize --> Tsuramuaviiep:::txtsize
+Tsuramuaviiep:::txtsize --> Hamobonmeen:::txtsize
+Hamobonmeen:::txtsize --> Tsidrrtfioitss:::txtsize
+Hamobonmeen:::txtsize --> Tsuramuaviiep:::txtsize
+Tsuramuaviiep:::txtsize --> TcrroadcbeC:::txtsize
+TcrroadcbeC:::txtsize --> MoapnTghhtfa:::txtsize
+TcrroadcbeC:::txtsize --> Fgtaer:::txtsize
+Tsaearittwn:::txtsize --> UaslhlaTtf:::txtsize
+UaslhlaTtf:::txtsize --> Tsiepleainl:::txtsize
+Tsiepleainl:::txtsize --> UcksinlTphaas:::txtsize
+Tsiepleainl:::txtsize --> Trsfanneonsds:::txtsize
+UaslhlaTtf:::txtsize --> Udepiicetrid:::txtsize
+Udepiicetrid:::txtsize --> Cschuntflyi:::txtsize
+Udepiicetrid:::txtsize --> Wrtwdieys:::txtsize
+
+BaaltdePdhn@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 12:09 PM_
 Belgian royals roll out the red carpet for president tharman" }
 Saerltarmnaslestm@{ shape: win-pane, label: "_UPDATED Nov 20, 2024, 12:11 AM_
 S’pore and sweden are small states that share commitment to fair, just world order: president tharman" }
@@ -59,44 +105,7 @@ Starienaetgsestm:::txtsize --> TDwriotssfgstRli:::txtsize
 TDwriotssfgstRli:::txtsize --> Inslaaehanrih:::txtsize
 TDwriotssfgstRli:::txtsize --> SpnitpepweyiTa:::txtsize
 
-Usaanolecke@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 07:14 AM_
-Us, russia wrap up talks on proposed black sea truce in ukraine war" }
-Dfsrpaeilhnp@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 05:43 PM_
-Dial d for disaster: trump’s ukraine ceasefire call with putin a flop" }
-TPaotreyctar@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 01:55 PM_
-Trump, putin agree on halt in ukraine energy attacks, but no ceasefire" }
-UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
-Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
-Raiacifacakeiml@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 03:21 PM_
-Russia, ukraine trade accusations of infrastructure attacks after putin-trump call" }
-UnssUahidv@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 03:35 PM_
-Ukraine says talks with us on war with russia ‘productive’" }
-UneolSAavpoir@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 07:06 AM_
-Ukraine, us teams hold talks in saudi arabia, us envoy hopeful on ending war" }
-TPaotreyctar@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 01:55 PM_
-Trump, putin agree on halt in ukraine energy attacks, but no ceasefire" }
-RanaKnsraikifl@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 11:01 AM_
-Russian drone attack on kyiv injures several, sparks fires, ukrainian officials say" }
-UneolSAavpoir@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 07:06 AM_
-Ukraine, us teams hold talks in saudi arabia, us envoy hopeful on ending war" }
-TPaotreyctar@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 01:55 PM_
-Trump, putin agree on halt in ukraine energy attacks, but no ceasefire" }
-RanaKnsraikifl@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 11:01 AM_
-Russian drone attack on kyiv injures several, sparks fires, ukrainian officials say" }
-
-Usaanolecke:::txtsize --> Dfsrpaeilhnp:::txtsize
-Dfsrpaeilhnp:::txtsize --> TPaotreyctar:::txtsize
-TPaotreyctar:::txtsize --> UneSoocfnis:::txtsize
-TPaotreyctar:::txtsize --> Raiacifacakeiml:::txtsize
-Usaanolecke:::txtsize --> UnssUahidv:::txtsize
-UnssUahidv:::txtsize --> UneolSAavpoir:::txtsize
-UneolSAavpoir:::txtsize --> TPaotreyctar:::txtsize
-UneolSAavpoir:::txtsize --> RanaKnsraikifl:::txtsize
-UnssUahidv:::txtsize --> UneolSAavpoir:::txtsize
-UneolSAavpoir:::txtsize --> TPaotreyctar:::txtsize
-UneolSAavpoir:::txtsize --> RanaKnsraikifl:::txtsize
-
-Tsfneirnresace@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 08:10 AM_
+Tsfneirnresace@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 03:06 PM_
 Trump’s port fees on chinese ships threaten us maritime industry, say executives" }
 Psldrvneisdcs@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 06:13 PM_
 Proposed billion-dollar us levies on chinese ships risk ‘trade apocalypse’" }
@@ -134,5 +143,5 @@ BRoonmanrkdps:::txtsize --> Tnluiemtsenoanen:::txtsize
 BRoonmanrkdps:::txtsize --> GsodosmvxiedIa:::txtsize
 
 ```
-<i>Last updated: 2025-03-25 12:00:40.172094 (GMT+8)</i>
+<i>Last updated: 2025-03-25 16:01:07.899895 (GMT+8)</i>
 <!-- END -->
