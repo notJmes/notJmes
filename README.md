@@ -59,98 +59,80 @@ Starienaetgsestm:::txtsize --> TDwriotssfgstRli:::txtsize
 TDwriotssfgstRli:::txtsize --> Inslaaehanrih:::txtsize
 TDwriotssfgstRli:::txtsize --> SpnitpepweyiTa:::txtsize
 
-Iaindtelt@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 10:39 PM_
-Iran says it is open to indirect nuclear talks with us" }
-Tsrltntiianvy@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 04:39 PM_
-Trump’s offer of talks with iran aims to avoid military action, us envoy says" }
-Upntnnikhere@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 03:11 PM_
-Us slaps iran-related sanctions on oil tankers, china ‘teapot’ refinery" }
-CRaIspshola@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 09:28 PM_
-China, russia back iran as trump presses tehran for nuclear talks" }
-Spahnmisival@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 06:00 PM_
-Singapore-based shipping firm hit with us sanctions over iran oil links" }
-Uiignntuues@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 08:44 PM_
-Us strikes hit targets in yemen capital, houthi-run tv reports" }
-Tlhraroeuasl@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 10:29 PM_
-Trump launches large-scale strikes on yemen’s houthis, at least 31 killed" }
-Ilietslhoe@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 08:38 PM_
-Israel says it intercepted missile launched from yemen" }
-CRaIspshola@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 09:28 PM_
-China, russia back iran as trump presses tehran for nuclear talks" }
-Ipdopleawveyn@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 04:42 AM_
-Iran’s president to trump: i will not negotiate, ‘do whatever the hell you want’" }
-IawoeiursUeldyas@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 03:39 PM_
-Iran says it will consider limited nuclear talks with us after it slammed ‘bullying’ tactics" }
-IhemnueIur@{ shape: win-pane, label: "_UPDATED Feb 15, 2025, 12:33 AM_
-Iaea chief sees time running out to revive iran nuclear deal" }
-WSoraiegtsea@{ shape: win-pane, label: "_UPDATED Feb 16, 2025, 10:43 PM_
-With us support, israel can ‘finish the job’ against iran, says netanyahu" }
-Aiithirbas@{ shape: win-pane, label: "_UPDATED Feb 16, 2025, 10:48 PM_
-As rubio visits, netanyahu praises trump’s ‘bold’ gaza vision" }
-Ipdaticwn@{ shape: win-pane, label: "_UPDATED Feb 06, 2025, 09:07 PM_
-Iran’s president says ‘not seeking nuclear weapons’" }
-
-Iaindtelt:::txtsize --> Tsrltntiianvy:::txtsize
-Tsrltntiianvy:::txtsize --> Upntnnikhere:::txtsize
-Upntnnikhere:::txtsize --> CRaIspshola:::txtsize
-Upntnnikhere:::txtsize --> Spahnmisival:::txtsize
-Tsrltntiianvy:::txtsize --> Uiignntuues:::txtsize
-Uiignntuues:::txtsize --> Tlhraroeuasl:::txtsize
-Uiignntuues:::txtsize --> Ilietslhoe:::txtsize
-Iaindtelt:::txtsize --> CRaIspshola:::txtsize
-CRaIspshola:::txtsize --> Ipdopleawveyn:::txtsize
-Ipdopleawveyn:::txtsize --> IawoeiursUeldyas:::txtsize
-Ipdopleawveyn:::txtsize --> IhemnueIur:::txtsize
-CRaIspshola:::txtsize --> WSoraiegtsea:::txtsize
-WSoraiegtsea:::txtsize --> Aiithirbas:::txtsize
-WSoraiegtsea:::txtsize --> Ipdaticwn:::txtsize
-
-Uslccfaniiertkur@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 10:53 PM_
-Us, russia hold black sea ceasefire talks in saudi arabia after overnight strikes pound ukraine" }
-UneolSAavpoir@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 07:06 AM_
-Ukraine, us teams hold talks in saudi arabia, us envoy hopeful on ending war" }
+Usaanolecke@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 07:14 AM_
+Us, russia wrap up talks on proposed black sea truce in ukraine war" }
+Dfsrpaeilhnp@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 05:43 PM_
+Dial d for disaster: trump’s ukraine ceasefire call with putin a flop" }
 TPaotreyctar@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 01:55 PM_
 Trump, putin agree on halt in ukraine energy attacks, but no ceasefire" }
 UneSoocfnis@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 07:31 PM_
 Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
 Raiacifacakeiml@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 03:21 PM_
 Russia, ukraine trade accusations of infrastructure attacks after putin-trump call" }
+UnssUahidv@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 03:35 PM_
+Ukraine says talks with us on war with russia ‘productive’" }
+UneolSAavpoir@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 07:06 AM_
+Ukraine, us teams hold talks in saudi arabia, us envoy hopeful on ending war" }
+TPaotreyctar@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 01:55 PM_
+Trump, putin agree on halt in ukraine energy attacks, but no ceasefire" }
 RanaKnsraikifl@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 11:01 AM_
 Russian drone attack on kyiv injures several, sparks fires, ukrainian officials say" }
-Feuiea@{ shape: win-pane, label: "_UPDATED Nov 25, 2024, 10:29 AM_
-Feb 24, 2022: the day russia invaded ukraine" }
-SiRasekkrs@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 08:12 PM_
-Shelling by russia kills three in pokrovsk, in ukraine’s east" }
-TlsadTithfone@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 08:52 AM_
-The politics of gratitude: how trump insists on thanks from foreign leaders" }
-TZsenapcofdrr@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 11:00 PM_
-Trump, zelensky pledge in ‘fantastic’ phone call to work for end to war in ukraine" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-Dfsrpaeilhnp@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 05:43 PM_
-Dial d for disaster: trump’s ukraine ceasefire call with putin a flop" }
-Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-TalytnretaWHsit@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:39 PM_
-Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-YgitlIcsTZsaWH@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 06:27 PM_
-‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
+UneolSAavpoir@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 07:06 AM_
+Ukraine, us teams hold talks in saudi arabia, us envoy hopeful on ending war" }
+TPaotreyctar@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 01:55 PM_
+Trump, putin agree on halt in ukraine energy attacks, but no ceasefire" }
+RanaKnsraikifl@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 11:01 AM_
+Russian drone attack on kyiv injures several, sparks fires, ukrainian officials say" }
 
-Uslccfaniiertkur:::txtsize --> UneolSAavpoir:::txtsize
-UneolSAavpoir:::txtsize --> TPaotreyctar:::txtsize
+Usaanolecke:::txtsize --> Dfsrpaeilhnp:::txtsize
+Dfsrpaeilhnp:::txtsize --> TPaotreyctar:::txtsize
 TPaotreyctar:::txtsize --> UneSoocfnis:::txtsize
 TPaotreyctar:::txtsize --> Raiacifacakeiml:::txtsize
+Usaanolecke:::txtsize --> UnssUahidv:::txtsize
+UnssUahidv:::txtsize --> UneolSAavpoir:::txtsize
+UneolSAavpoir:::txtsize --> TPaotreyctar:::txtsize
 UneolSAavpoir:::txtsize --> RanaKnsraikifl:::txtsize
-RanaKnsraikifl:::txtsize --> Feuiea:::txtsize
-RanaKnsraikifl:::txtsize --> SiRasekkrs:::txtsize
-Uslccfaniiertkur:::txtsize --> TlsadTithfone:::txtsize
-TlsadTithfone:::txtsize --> TZsenapcofdrr:::txtsize
-TZsenapcofdrr:::txtsize --> Unlyphaiogh:::txtsize
-TZsenapcofdrr:::txtsize --> Dfsrpaeilhnp:::txtsize
-TlsadTithfone:::txtsize --> Unlyphaiogh:::txtsize
-Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
-Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
+UnssUahidv:::txtsize --> UneolSAavpoir:::txtsize
+UneolSAavpoir:::txtsize --> TPaotreyctar:::txtsize
+UneolSAavpoir:::txtsize --> RanaKnsraikifl:::txtsize
+
+Tsfneirnresace@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 08:10 AM_
+Trump’s port fees on chinese ships threaten us maritime industry, say executives" }
+Psldrvneisdcs@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 06:13 PM_
+Proposed billion-dollar us levies on chinese ships risk ‘trade apocalypse’" }
+Ueosleselts@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 07:46 AM_
+Us delegation aims for black sea ceasefire in talks with russia" }
+UnssUahidv@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 03:35 PM_
+Ukraine says talks with us on war with russia ‘productive’" }
+Unlyphaiogh@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 01:05 PM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+Udepiicetrid@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 10:20 AM_
+Us trade chief to speak with chinese counterpart as tariff rift widens" }
+Cschuntflyi@{ shape: win-pane, label: "_UPDATED Mar 21, 2025, 05:12 PM_
+Chinese parcels that trump wants to tariff are already falling" }
+Wrtwdieys@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 05:34 AM_
+Will trump’s trade war end america’s fentanyl crisis?" }
+BdmamrCsifcama@{ shape: win-pane, label: "_UPDATED Mar 07, 2025, 09:37 PM_
+Beyond panama canal, trump stares at china’s growing influence in latin america" }
+BRoonmanrkdps@{ shape: win-pane, label: "_UPDATED Mar 05, 2025, 09:54 AM_
+Blackrock to buy hong kong firm’s panama canal port stake amid trump pressure" }
+Tnluiemtsenoanen@{ shape: win-pane, label: "_UPDATED Jan 08, 2025, 01:29 PM_
+Trump not ruling out military, economic action as he seeks control of panama canal, greenland" }
+GsodosmvxiedIa@{ shape: win-pane, label: "_UPDATED Feb 04, 2025, 10:42 AM_
+‘great step forward’: rubio hails panama’s move to exit china’s belt and road initiative" }
+
+Tsfneirnresace:::txtsize --> Psldrvneisdcs:::txtsize
+Psldrvneisdcs:::txtsize --> Ueosleselts:::txtsize
+Ueosleselts:::txtsize --> UnssUahidv:::txtsize
+Ueosleselts:::txtsize --> Unlyphaiogh:::txtsize
+Psldrvneisdcs:::txtsize --> Udepiicetrid:::txtsize
+Udepiicetrid:::txtsize --> Cschuntflyi:::txtsize
+Udepiicetrid:::txtsize --> Wrtwdieys:::txtsize
+Tsfneirnresace:::txtsize --> BdmamrCsifcama:::txtsize
+BdmamrCsifcama:::txtsize --> BRoonmanrkdps:::txtsize
+BRoonmanrkdps:::txtsize --> Tnluiemtsenoanen:::txtsize
+BRoonmanrkdps:::txtsize --> GsodosmvxiedIa:::txtsize
 
 ```
-<i>Last updated: 2025-03-25 08:01:07.247151 (GMT+8)</i>
+<i>Last updated: 2025-03-25 12:00:30.039799 (GMT+8)</i>
 <!-- END -->
