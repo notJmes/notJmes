@@ -16,7 +16,7 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tlczuhakmksdau@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 10:55 PM_
+Tlczuhakmksdau@{ shape: win-pane, label: "_UPDATED Mar 27, 2025, 12:24 AM_
 The atlantic magazine publishes us attack plan mistakenly shared in chat group" }
 Tbnncystmrrr@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 11:17 PM_
 Trump backs national security adviser after yemen war security breach" }
@@ -155,5 +155,5 @@ RailBSaSsrly:::txtsize --> Usaanolecke:::txtsize
 RailBSaSsrly:::txtsize --> Usaanolecke:::txtsize
 
 ```
-<i>Last updated: 2025-03-27 00:00:58.663114 (GMT+8)</i>
+<i>Last updated: 2025-03-27 04:00:18.416737 (GMT+8)</i>
 <!-- END -->
