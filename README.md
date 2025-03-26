@@ -16,7 +16,53 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-RtoatoauetWhcyctp@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 04:27 PM_
+Tlczuhakmksdau@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 10:55 PM_
+The atlantic magazine publishes us attack plan mistakenly shared in chat group" }
+Tbnncystmrrr@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 11:17 PM_
+Trump backs national security adviser after yemen war security breach" }
+WHmkssnliui@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 05:19 PM_
+White house mistakenly shares yemen war plans with journalist" }
+Hiinuposhrah@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 08:40 PM_
+‘hell will rain down on you’: trump, the houthis and the us’ proxy war with iran" }
+HicYfsteloofU@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 09:56 PM_
+Houthi attacks in yemen force ships to make costly detour around africa: us" }
+Tlhraroeuasl@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 10:29 PM_
+Trump launches large-scale strikes on yemen’s houthis, at least 31 killed" }
+IhemnueIur@{ shape: win-pane, label: "_UPDATED Feb 15, 2025, 12:33 AM_
+Iaea chief sees time running out to revive iran nuclear deal" }
+Yshryttheta@{ shape: win-pane, label: "_UPDATED Nov 11, 2024, 10:32 AM_
+Yemen’s houthis warn they will target all ships headed to israel" }
+WHmkssnliui@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 05:19 PM_
+White house mistakenly shares yemen war plans with journalist" }
+Hiinuposhrah@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 08:40 PM_
+‘hell will rain down on you’: trump, the houthis and the us’ proxy war with iran" }
+Hmdulnrecsud@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:01 AM_
+How hamas’ audacious, well-planned surprise attack on israel unfolded" }
+Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
+Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
+HicYfsteloofU@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 09:56 PM_
+Houthi attacks in yemen force ships to make costly detour around africa: us" }
+Uiignntuues@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 08:44 PM_
+Us strikes hit targets in yemen capital, houthi-run tv reports" }
+Hiiakenhense@{ shape: win-pane, label: "_UPDATED Mar 18, 2025, 08:40 PM_
+Houthis claim new attack on american warships, report new us strikes" }
+
+Tlczuhakmksdau:::txtsize --> Tbnncystmrrr:::txtsize
+Tbnncystmrrr:::txtsize --> WHmkssnliui:::txtsize
+WHmkssnliui:::txtsize --> Hiinuposhrah:::txtsize
+WHmkssnliui:::txtsize --> HicYfsteloofU:::txtsize
+Tbnncystmrrr:::txtsize --> Tlhraroeuasl:::txtsize
+Tlhraroeuasl:::txtsize --> IhemnueIur:::txtsize
+Tlhraroeuasl:::txtsize --> Yshryttheta:::txtsize
+Tlczuhakmksdau:::txtsize --> WHmkssnliui:::txtsize
+WHmkssnliui:::txtsize --> Hiinuposhrah:::txtsize
+Hiinuposhrah:::txtsize --> Hmdulnrecsud:::txtsize
+Hiinuposhrah:::txtsize --> Ilshedoooia:::txtsize
+WHmkssnliui:::txtsize --> HicYfsteloofU:::txtsize
+HicYfsteloofU:::txtsize --> Uiignntuues:::txtsize
+HicYfsteloofU:::txtsize --> Hiiakenhense:::txtsize
+
+RtoatoauetWhcyctp@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 10:08 PM_
 Reporter wrongly added to us govt chat group on yemen strike: will this security breach hurt trump?" }
 TbeYcrai@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 09:59 AM_
 Trump brushes off yemen chat breach as a ‘glitch’" }
@@ -62,95 +108,52 @@ Tbnncystmrrr:::txtsize --> Tlhraroeuasl:::txtsize
 Tlhraroeuasl:::txtsize --> IhemnueIur:::txtsize
 Tlhraroeuasl:::txtsize --> Yshryttheta:::txtsize
 
+Pmtrslriiaeaht@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 09:52 PM_
+Putin marks 25th year as russian leader and winner in ukraine peace talks, thanks to us" }
+Uneestesanlel@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 01:29 AM_
+Ukraine urges more talks to settle ‘details’ of us-announced black sea deal" }
+UsiUneeitaa@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 12:08 AM_
+Us says russia and ukraine agree to ceasefire in the black sea" }
+Usaanolecke@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 06:31 PM_
+Us, russia wrap up talks on proposed black sea truce in ukraine war" }
+RailBSaSsrly@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 08:58 PM_
+Russia says it will sign black sea deal if us gives ‘order’ to zelensky" }
+UsiUneeitaa@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 12:08 AM_
+Us says russia and ukraine agree to ceasefire in the black sea" }
+Usaanolecke@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 06:31 PM_
+Us, russia wrap up talks on proposed black sea truce in ukraine war" }
+RailBSaSsrly@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 08:58 PM_
+Russia says it will sign black sea deal if us gives ‘order’ to zelensky" }
 UsiUneeitaa@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 12:08 AM_
 Us says russia and ukraine agree to ceasefire in the black sea" }
 Usaanolecke@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 06:31 PM_
 Us, russia wrap up talks on proposed black sea truce in ukraine war" }
 Dfsrpaeilhnp@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 05:43 PM_
 Dial d for disaster: trump’s ukraine ceasefire call with putin a flop" }
-TPaotreyctar@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 01:55 PM_
-Trump, putin agree on halt in ukraine energy attacks, but no ceasefire" }
 UnssUahidv@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 03:35 PM_
 Ukraine says talks with us on war with russia ‘productive’" }
-UneolSAavpoir@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 07:06 AM_
-Ukraine, us teams hold talks in saudi arabia, us envoy hopeful on ending war" }
-UneolSAavpoir@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 07:06 AM_
-Ukraine, us teams hold talks in saudi arabia, us envoy hopeful on ending war" }
 RailBSaSsrly@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 08:58 PM_
 Russia says it will sign black sea deal if us gives ‘order’ to zelensky" }
 Usaanolecke@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 06:31 PM_
 Us, russia wrap up talks on proposed black sea truce in ukraine war" }
-Dfsrpaeilhnp@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 05:43 PM_
-Dial d for disaster: trump’s ukraine ceasefire call with putin a flop" }
-UnssUahidv@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 03:35 PM_
-Ukraine says talks with us on war with russia ‘productive’" }
 Usaanolecke@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 06:31 PM_
 Us, russia wrap up talks on proposed black sea truce in ukraine war" }
-Dfsrpaeilhnp@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 05:43 PM_
-Dial d for disaster: trump’s ukraine ceasefire call with putin a flop" }
-UnssUahidv@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 03:35 PM_
-Ukraine says talks with us on war with russia ‘productive’" }
 
+Pmtrslriiaeaht:::txtsize --> Uneestesanlel:::txtsize
+Uneestesanlel:::txtsize --> UsiUneeitaa:::txtsize
+UsiUneeitaa:::txtsize --> Usaanolecke:::txtsize
+UsiUneeitaa:::txtsize --> RailBSaSsrly:::txtsize
+Uneestesanlel:::txtsize --> UsiUneeitaa:::txtsize
+UsiUneeitaa:::txtsize --> Usaanolecke:::txtsize
+UsiUneeitaa:::txtsize --> RailBSaSsrly:::txtsize
+Pmtrslriiaeaht:::txtsize --> UsiUneeitaa:::txtsize
 UsiUneeitaa:::txtsize --> Usaanolecke:::txtsize
 Usaanolecke:::txtsize --> Dfsrpaeilhnp:::txtsize
-Dfsrpaeilhnp:::txtsize --> TPaotreyctar:::txtsize
 Usaanolecke:::txtsize --> UnssUahidv:::txtsize
-UnssUahidv:::txtsize --> UneolSAavpoir:::txtsize
-UnssUahidv:::txtsize --> UneolSAavpoir:::txtsize
 UsiUneeitaa:::txtsize --> RailBSaSsrly:::txtsize
 RailBSaSsrly:::txtsize --> Usaanolecke:::txtsize
-Usaanolecke:::txtsize --> Dfsrpaeilhnp:::txtsize
-Usaanolecke:::txtsize --> UnssUahidv:::txtsize
 RailBSaSsrly:::txtsize --> Usaanolecke:::txtsize
-Usaanolecke:::txtsize --> Dfsrpaeilhnp:::txtsize
-Usaanolecke:::txtsize --> UnssUahidv:::txtsize
-
-Bagseicsnnwoebrd@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 05:26 PM_
-Belgian king lauds s’pore’s resilience, says both nations can work together for better world" }
-BaaltdePdhn@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 12:09 PM_
-Belgian royals roll out the red carpet for president tharman" }
-Saerltarmnaslestm@{ shape: win-pane, label: "_UPDATED Nov 20, 2024, 12:11 AM_
-S’pore and sweden are small states that share commitment to fair, just world order: president tharman" }
-Kfetioafo@{ shape: win-pane, label: "_UPDATED Nov 18, 2024, 07:30 PM_
-King of sweden on state visit to singapore from nov 19 to 21" }
-CrGenttraicmo@{ shape: win-pane, label: "_UPDATED Nov 08, 2024, 01:50 PM_
-Comfortdelgro tie-up wins contract to operate, maintain stockholm metro" }
-Starienaetgsestm@{ shape: win-pane, label: "_UPDATED Jan 23, 2025, 02:15 PM_
-Scope to expand air services between india, s’pore as both forge closer ties: president tharman" }
-SpnitpepweyiTa@{ shape: win-pane, label: "_UPDATED Jan 23, 2025, 02:13 PM_
-Singapore and india’s ‘natural partnership’ on new trajectory: president tharman" }
-TDwriotssfgstRli@{ shape: win-pane, label: "_UPDATED Jan 19, 2025, 07:38 AM_
-Tarun das, new honorary singapore citizen, suggests offering ‘townships’ to the republic’s firms" }
-TCesgcffooas@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 04:05 PM_
-Trump cabinet messaging breach confirms fears of european allies" }
-WHmkssnliui@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 05:19 PM_
-White house mistakenly shares yemen war plans with journalist" }
-Hiinuposhrah@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 08:40 PM_
-‘hell will rain down on you’: trump, the houthis and the us’ proxy war with iran" }
-HicYfsteloofU@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 09:56 PM_
-Houthi attacks in yemen force ships to make costly detour around africa: us" }
-HicYfsteloofU@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 09:56 PM_
-Houthi attacks in yemen force ships to make costly detour around africa: us" }
-Uiignntuues@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 08:44 PM_
-Us strikes hit targets in yemen capital, houthi-run tv reports" }
-Hiiakenhense@{ shape: win-pane, label: "_UPDATED Mar 18, 2025, 08:40 PM_
-Houthis claim new attack on american warships, report new us strikes" }
-
-Bagseicsnnwoebrd:::txtsize --> BaaltdePdhn:::txtsize
-BaaltdePdhn:::txtsize --> Saerltarmnaslestm:::txtsize
-Saerltarmnaslestm:::txtsize --> Kfetioafo:::txtsize
-Saerltarmnaslestm:::txtsize --> CrGenttraicmo:::txtsize
-BaaltdePdhn:::txtsize --> Starienaetgsestm:::txtsize
-Starienaetgsestm:::txtsize --> SpnitpepweyiTa:::txtsize
-Starienaetgsestm:::txtsize --> TDwriotssfgstRli:::txtsize
-Bagseicsnnwoebrd:::txtsize --> TCesgcffooas:::txtsize
-TCesgcffooas:::txtsize --> WHmkssnliui:::txtsize
-WHmkssnliui:::txtsize --> Hiinuposhrah:::txtsize
-WHmkssnliui:::txtsize --> HicYfsteloofU:::txtsize
-TCesgcffooas:::txtsize --> HicYfsteloofU:::txtsize
-HicYfsteloofU:::txtsize --> Uiignntuues:::txtsize
-HicYfsteloofU:::txtsize --> Hiiakenhense:::txtsize
 
 ```
-<i>Last updated: 2025-03-26 20:00:39.246342 (GMT+8)</i>
+<i>Last updated: 2025-03-27 00:00:58.663114 (GMT+8)</i>
 <!-- END -->
