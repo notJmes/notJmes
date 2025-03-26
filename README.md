@@ -105,7 +105,7 @@ TCesgcffooas:::txtsize --> HicYfsteloofU:::txtsize
 HicYfsteloofU:::txtsize --> Uiignntuues:::txtsize
 HicYfsteloofU:::txtsize --> Hiiakenhense:::txtsize
 
-TbeYcrai@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 11:23 PM_
+TbeYcrai@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 07:13 AM_
 Trump brushes off yemen chat breach as a ‘glitch’" }
 UpsdjaWe@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 10:12 PM_
 Us war plans shared with journalist: what we know" }
@@ -121,20 +121,20 @@ Hiinuposhrah@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 08:40 PM_
 ‘hell will rain down on you’: trump, the houthis and the us’ proxy war with iran" }
 HicYfsteloofU@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 09:56 PM_
 Houthi attacks in yemen force ships to make costly detour around africa: us" }
+PgehohfafboeYc@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 06:39 AM_
+Pentagon’s hegseth in spotlight as officials deflect blame over leaked yemen chat" }
 WHmkssnliui@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 05:19 PM_
 White house mistakenly shares yemen war plans with journalist" }
 Hiinuposhrah@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 08:40 PM_
 ‘hell will rain down on you’: trump, the houthis and the us’ proxy war with iran" }
-Hmdulnrecsud@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:01 AM_
-How hamas’ audacious, well-planned surprise attack on israel unfolded" }
-Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
-Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
 HicYfsteloofU@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 09:56 PM_
 Houthi attacks in yemen force ships to make costly detour around africa: us" }
-Uiignntuues@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 08:44 PM_
-Us strikes hit targets in yemen capital, houthi-run tv reports" }
-Hiiakenhense@{ shape: win-pane, label: "_UPDATED Mar 18, 2025, 08:40 PM_
-Houthis claim new attack on american warships, report new us strikes" }
+Tlhraroeuasl@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 10:29 PM_
+Trump launches large-scale strikes on yemen’s houthis, at least 31 killed" }
+IhemnueIur@{ shape: win-pane, label: "_UPDATED Feb 15, 2025, 12:33 AM_
+Iaea chief sees time running out to revive iran nuclear deal" }
+Yshryttheta@{ shape: win-pane, label: "_UPDATED Nov 11, 2024, 10:32 AM_
+Yemen’s houthis warn they will target all ships headed to israel" }
 
 TbeYcrai:::txtsize --> UpsdjaWe:::txtsize
 UpsdjaWe:::txtsize --> Tlhraroeuasl:::txtsize
@@ -143,14 +143,14 @@ Tlhraroeuasl:::txtsize --> Yshryttheta:::txtsize
 UpsdjaWe:::txtsize --> WHmkssnliui:::txtsize
 WHmkssnliui:::txtsize --> Hiinuposhrah:::txtsize
 WHmkssnliui:::txtsize --> HicYfsteloofU:::txtsize
-TbeYcrai:::txtsize --> WHmkssnliui:::txtsize
+TbeYcrai:::txtsize --> PgehohfafboeYc:::txtsize
+PgehohfafboeYc:::txtsize --> WHmkssnliui:::txtsize
 WHmkssnliui:::txtsize --> Hiinuposhrah:::txtsize
-Hiinuposhrah:::txtsize --> Hmdulnrecsud:::txtsize
-Hiinuposhrah:::txtsize --> Ilshedoooia:::txtsize
 WHmkssnliui:::txtsize --> HicYfsteloofU:::txtsize
-HicYfsteloofU:::txtsize --> Uiignntuues:::txtsize
-HicYfsteloofU:::txtsize --> Hiiakenhense:::txtsize
+PgehohfafboeYc:::txtsize --> Tlhraroeuasl:::txtsize
+Tlhraroeuasl:::txtsize --> IhemnueIur:::txtsize
+Tlhraroeuasl:::txtsize --> Yshryttheta:::txtsize
 
 ```
-<i>Last updated: 2025-03-26 04:00:16.969003 (GMT+8)</i>
+<i>Last updated: 2025-03-26 08:00:36.048910 (GMT+8)</i>
 <!-- END -->
