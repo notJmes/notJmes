@@ -16,97 +16,51 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tlczuhakmksdau@{ shape: win-pane, label: "_UPDATED Mar 27, 2025, 12:24 AM_
-The atlantic magazine publishes us attack plan mistakenly shared in chat group" }
-Tbnncystmrrr@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 11:17 PM_
-Trump backs national security adviser after yemen war security breach" }
-WHmkssnliui@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 05:19 PM_
-White house mistakenly shares yemen war plans with journalist" }
-Hiinuposhrah@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 08:40 PM_
-‘hell will rain down on you’: trump, the houthis and the us’ proxy war with iran" }
-HicYfsteloofU@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 09:56 PM_
-Houthi attacks in yemen force ships to make costly detour around africa: us" }
-Tlhraroeuasl@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 10:29 PM_
-Trump launches large-scale strikes on yemen’s houthis, at least 31 killed" }
-IhemnueIur@{ shape: win-pane, label: "_UPDATED Feb 15, 2025, 12:33 AM_
-Iaea chief sees time running out to revive iran nuclear deal" }
-Yshryttheta@{ shape: win-pane, label: "_UPDATED Nov 11, 2024, 10:32 AM_
-Yemen’s houthis warn they will target all ships headed to israel" }
-WHmkssnliui@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 05:19 PM_
-White house mistakenly shares yemen war plans with journalist" }
-Hiinuposhrah@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 08:40 PM_
-‘hell will rain down on you’: trump, the houthis and the us’ proxy war with iran" }
-Hmdulnrecsud@{ shape: win-pane, label: "_UPDATED Nov 13, 2024, 11:01 AM_
-How hamas’ audacious, well-planned surprise attack on israel unfolded" }
-Ilshedoooia@{ shape: win-pane, label: "_UPDATED Jan 16, 2025, 05:35 PM_
-Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
-HicYfsteloofU@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 09:56 PM_
-Houthi attacks in yemen force ships to make costly detour around africa: us" }
-Uiignntuues@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 08:44 PM_
-Us strikes hit targets in yemen capital, houthi-run tv reports" }
-Hiiakenhense@{ shape: win-pane, label: "_UPDATED Mar 18, 2025, 08:40 PM_
-Houthis claim new attack on american warships, report new us strikes" }
+Treudpeahtfp@{ shape: win-pane, label: "_UPDATED Mar 27, 2025, 11:20 AM_
+Trump, ratcheting up trade war, presses ahead with auto tariffs of up to 25%" }
+Tsuramuaviiep@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 03:31 PM_
+Trump says auto tariffs are coming, but not all levies will be imposed on april 2" }
+Hamobonmeen@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 08:23 AM_
+Hyundai, trump announce $28 billion us investment, new steel plant" }
+Tsidrrtfioitss@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 10:30 AM_
+Trump still intends for reciprocal tariffs to kick in on april 2, white house says" }
+Tsuramuaviiep@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 03:31 PM_
+Trump says auto tariffs are coming, but not all levies will be imposed on april 2" }
+TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
+Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
+MoapnTghhtfa@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 11:24 PM_
+Mexico has backup plan in case trump goes through with tariff threat" }
+Fgtaer@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:07 AM_
+Facing up to the realities of trump 2.0" }
+Tsuramuaviiep@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 03:31 PM_
+Trump says auto tariffs are coming, but not all levies will be imposed on april 2" }
+Hamobonmeen@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 08:23 AM_
+Hyundai, trump announce $28 billion us investment, new steel plant" }
+Tsidrrtfioitss@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 10:30 AM_
+Trump still intends for reciprocal tariffs to kick in on april 2, white house says" }
+Tsuramuaviiep@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 03:31 PM_
+Trump says auto tariffs are coming, but not all levies will be imposed on april 2" }
+TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
+Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
+MoapnTghhtfa@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 11:24 PM_
+Mexico has backup plan in case trump goes through with tariff threat" }
+Fgtaer@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:07 AM_
+Facing up to the realities of trump 2.0" }
 
-Tlczuhakmksdau:::txtsize --> Tbnncystmrrr:::txtsize
-Tbnncystmrrr:::txtsize --> WHmkssnliui:::txtsize
-WHmkssnliui:::txtsize --> Hiinuposhrah:::txtsize
-WHmkssnliui:::txtsize --> HicYfsteloofU:::txtsize
-Tbnncystmrrr:::txtsize --> Tlhraroeuasl:::txtsize
-Tlhraroeuasl:::txtsize --> IhemnueIur:::txtsize
-Tlhraroeuasl:::txtsize --> Yshryttheta:::txtsize
-Tlczuhakmksdau:::txtsize --> WHmkssnliui:::txtsize
-WHmkssnliui:::txtsize --> Hiinuposhrah:::txtsize
-Hiinuposhrah:::txtsize --> Hmdulnrecsud:::txtsize
-Hiinuposhrah:::txtsize --> Ilshedoooia:::txtsize
-WHmkssnliui:::txtsize --> HicYfsteloofU:::txtsize
-HicYfsteloofU:::txtsize --> Uiignntuues:::txtsize
-HicYfsteloofU:::txtsize --> Hiiakenhense:::txtsize
-
-RtoatoauetWhcyctp@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 10:08 PM_
-Reporter wrongly added to us govt chat group on yemen strike: will this security breach hurt trump?" }
-TbeYcrai@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 09:59 AM_
-Trump brushes off yemen chat breach as a ‘glitch’" }
-UpsdjaWe@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 10:12 PM_
-Us war plans shared with journalist: what we know" }
-Tlhraroeuasl@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 10:29 PM_
-Trump launches large-scale strikes on yemen’s houthis, at least 31 killed" }
-WHmkssnliui@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 05:19 PM_
-White house mistakenly shares yemen war plans with journalist" }
-PgehohfafboeYc@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 06:39 AM_
-Pentagon’s hegseth in spotlight as officials deflect blame over leaked yemen chat" }
-WHmkssnliui@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 05:19 PM_
-White house mistakenly shares yemen war plans with journalist" }
-Tlhraroeuasl@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 10:29 PM_
-Trump launches large-scale strikes on yemen’s houthis, at least 31 killed" }
-Tbnncystmrrr@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 11:17 PM_
-Trump backs national security adviser after yemen war security breach" }
-WHmkssnliui@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 05:19 PM_
-White house mistakenly shares yemen war plans with journalist" }
-Hiinuposhrah@{ shape: win-pane, label: "_UPDATED Mar 17, 2025, 08:40 PM_
-‘hell will rain down on you’: trump, the houthis and the us’ proxy war with iran" }
-HicYfsteloofU@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 09:56 PM_
-Houthi attacks in yemen force ships to make costly detour around africa: us" }
-Tlhraroeuasl@{ shape: win-pane, label: "_UPDATED Mar 16, 2025, 10:29 PM_
-Trump launches large-scale strikes on yemen’s houthis, at least 31 killed" }
-IhemnueIur@{ shape: win-pane, label: "_UPDATED Feb 15, 2025, 12:33 AM_
-Iaea chief sees time running out to revive iran nuclear deal" }
-Yshryttheta@{ shape: win-pane, label: "_UPDATED Nov 11, 2024, 10:32 AM_
-Yemen’s houthis warn they will target all ships headed to israel" }
-
-RtoatoauetWhcyctp:::txtsize --> TbeYcrai:::txtsize
-TbeYcrai:::txtsize --> UpsdjaWe:::txtsize
-UpsdjaWe:::txtsize --> Tlhraroeuasl:::txtsize
-UpsdjaWe:::txtsize --> WHmkssnliui:::txtsize
-TbeYcrai:::txtsize --> PgehohfafboeYc:::txtsize
-PgehohfafboeYc:::txtsize --> WHmkssnliui:::txtsize
-PgehohfafboeYc:::txtsize --> Tlhraroeuasl:::txtsize
-RtoatoauetWhcyctp:::txtsize --> Tbnncystmrrr:::txtsize
-Tbnncystmrrr:::txtsize --> WHmkssnliui:::txtsize
-WHmkssnliui:::txtsize --> Hiinuposhrah:::txtsize
-WHmkssnliui:::txtsize --> HicYfsteloofU:::txtsize
-Tbnncystmrrr:::txtsize --> Tlhraroeuasl:::txtsize
-Tlhraroeuasl:::txtsize --> IhemnueIur:::txtsize
-Tlhraroeuasl:::txtsize --> Yshryttheta:::txtsize
+Treudpeahtfp:::txtsize --> Tsuramuaviiep:::txtsize
+Tsuramuaviiep:::txtsize --> Hamobonmeen:::txtsize
+Hamobonmeen:::txtsize --> Tsidrrtfioitss:::txtsize
+Hamobonmeen:::txtsize --> Tsuramuaviiep:::txtsize
+Tsuramuaviiep:::txtsize --> TcrroadcbeC:::txtsize
+TcrroadcbeC:::txtsize --> MoapnTghhtfa:::txtsize
+TcrroadcbeC:::txtsize --> Fgtaer:::txtsize
+Treudpeahtfp:::txtsize --> Tsuramuaviiep:::txtsize
+Tsuramuaviiep:::txtsize --> Hamobonmeen:::txtsize
+Hamobonmeen:::txtsize --> Tsidrrtfioitss:::txtsize
+Hamobonmeen:::txtsize --> Tsuramuaviiep:::txtsize
+Tsuramuaviiep:::txtsize --> TcrroadcbeC:::txtsize
+TcrroadcbeC:::txtsize --> MoapnTghhtfa:::txtsize
+TcrroadcbeC:::txtsize --> Fgtaer:::txtsize
 
 Pmtrslriiaeaht@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 09:52 PM_
 Putin marks 25th year as russian leader and winner in ukraine peace talks, thanks to us" }
@@ -154,6 +108,49 @@ UsiUneeitaa:::txtsize --> RailBSaSsrly:::txtsize
 RailBSaSsrly:::txtsize --> Usaanolecke:::txtsize
 RailBSaSsrly:::txtsize --> Usaanolecke:::txtsize
 
+Feaarnuw@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 12:45 AM_
+France embraces larger role in a troubled world" }
+PAmaraaOeleuo@{ shape: win-pane, label: "_UPDATED Feb 10, 2025, 10:29 PM_
+Paris ai summit draws world leaders and ceos eager for lighter regulation" }
+Etletodotv@{ shape: win-pane, label: "_UPDATED Feb 09, 2025, 07:48 PM_
+Experts call for regulation to avoid ‘loss of control’ over ai" }
+Indtrnianooee@{ shape: win-pane, label: "_PUBLISHED Feb 09, 2025, 05:00 AM_
+In china, the domestic ai race intensifies as chinese go gaga over deepseek" }
+Figeeeebustsisbs@{ shape: win-pane, label: "_UPDATED Feb 09, 2025, 06:56 AM_
+Firms in singapore eye deepseek benefits, but cautious about data security risks, ai biases" }
+EsuinsIprsal@{ shape: win-pane, label: "_UPDATED Feb 05, 2025, 01:09 AM_
+Eu lays out guidelines on misuse of ai by employers, websites and police" }
+EieraaAhnk@{ shape: win-pane, label: "_UPDATED Nov 11, 2024, 10:28 AM_
+Eu strikes deal to regulate chatgpt, ai tech in landmark act" }
+RaHECaio@{ shape: win-pane, label: "_UPDATED Jan 26, 2024, 10:06 AM_
+Regulate ai? how us, eu and china are going about it" }
+Usaanolecke@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 06:31 PM_
+Us, russia wrap up talks on proposed black sea truce in ukraine war" }
+Dfsrpaeilhnp@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 05:43 PM_
+Dial d for disaster: trump’s ukraine ceasefire call with putin a flop" }
+TPaotreyctar@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 01:55 PM_
+Trump, putin agree on halt in ukraine energy attacks, but no ceasefire" }
+UnssUahidv@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 03:35 PM_
+Ukraine says talks with us on war with russia ‘productive’" }
+UneolSAavpoir@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 07:06 AM_
+Ukraine, us teams hold talks in saudi arabia, us envoy hopeful on ending war" }
+UneolSAavpoir@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 07:06 AM_
+Ukraine, us teams hold talks in saudi arabia, us envoy hopeful on ending war" }
+
+Feaarnuw:::txtsize --> PAmaraaOeleuo:::txtsize
+PAmaraaOeleuo:::txtsize --> Etletodotv:::txtsize
+Etletodotv:::txtsize --> Indtrnianooee:::txtsize
+Etletodotv:::txtsize --> Figeeeebustsisbs:::txtsize
+PAmaraaOeleuo:::txtsize --> EsuinsIprsal:::txtsize
+EsuinsIprsal:::txtsize --> EieraaAhnk:::txtsize
+EsuinsIprsal:::txtsize --> RaHECaio:::txtsize
+Feaarnuw:::txtsize --> Usaanolecke:::txtsize
+Usaanolecke:::txtsize --> Dfsrpaeilhnp:::txtsize
+Dfsrpaeilhnp:::txtsize --> TPaotreyctar:::txtsize
+Usaanolecke:::txtsize --> UnssUahidv:::txtsize
+UnssUahidv:::txtsize --> UneolSAavpoir:::txtsize
+UnssUahidv:::txtsize --> UneolSAavpoir:::txtsize
+
 ```
-<i>Last updated: 2025-03-27 08:00:38.142702 (GMT+8)</i>
+<i>Last updated: 2025-03-27 12:00:58.680526 (GMT+8)</i>
 <!-- END -->
