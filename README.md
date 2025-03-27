@@ -16,51 +16,76 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+LrfuieaEhuemrm@{ shape: win-pane, label: "_UPDATED Mar 27, 2025, 02:57 PM_
+Larger tariffs could be imposed on canada, eu if they cause us ‘economic harm’: trump" }
 Treudpeahtfp@{ shape: win-pane, label: "_UPDATED Mar 27, 2025, 11:20 AM_
 Trump, ratcheting up trade war, presses ahead with auto tariffs of up to 25%" }
 Tsuramuaviiep@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 03:31 PM_
 Trump says auto tariffs are coming, but not all levies will be imposed on april 2" }
 Hamobonmeen@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 08:23 AM_
 Hyundai, trump announce $28 billion us investment, new steel plant" }
-Tsidrrtfioitss@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 10:30 AM_
-Trump still intends for reciprocal tariffs to kick in on april 2, white house says" }
-Tsuramuaviiep@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 03:31 PM_
-Trump says auto tariffs are coming, but not all levies will be imposed on april 2" }
 TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
 Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
-MoapnTghhtfa@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 11:24 PM_
-Mexico has backup plan in case trump goes through with tariff threat" }
-Fgtaer@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:07 AM_
-Facing up to the realities of trump 2.0" }
 Tsuramuaviiep@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 03:31 PM_
 Trump says auto tariffs are coming, but not all levies will be imposed on april 2" }
 Hamobonmeen@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 08:23 AM_
 Hyundai, trump announce $28 billion us investment, new steel plant" }
-Tsidrrtfioitss@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 10:30 AM_
-Trump still intends for reciprocal tariffs to kick in on april 2, white house says" }
-Tsuramuaviiep@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 03:31 PM_
-Trump says auto tariffs are coming, but not all levies will be imposed on april 2" }
 TcrroadcbeC@{ shape: win-pane, label: "_UPDATED Mar 04, 2025, 05:11 PM_
 Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
-MoapnTghhtfa@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 11:24 PM_
-Mexico has backup plan in case trump goes through with tariff threat" }
-Fgtaer@{ shape: win-pane, label: "_UPDATED Mar 03, 2025, 06:07 AM_
-Facing up to the realities of trump 2.0" }
+Tttirferekr@{ shape: win-pane, label: "_UPDATED Mar 14, 2025, 11:16 AM_
+Trump threatens 200% wine tariff if eu does not remove whiskey tariff" }
+Trsfanneonsds@{ shape: win-pane, label: "_UPDATED Feb 11, 2025, 06:19 PM_
+Trump raises tariffs on aluminium and steel imports in latest trade war salvo" }
+Ttosauuinsdao@{ shape: win-pane, label: "_UPDATED Feb 10, 2025, 09:10 PM_
+Trump to announce 25% steel and aluminium tariffs in latest trade escalation" }
+Opmogiodet@{ shape: win-pane, label: "_UPDATED Feb 08, 2025, 05:26 AM_
+Open up! us comes knocking on asia’s door amid trade reset" }
+Tmsfafaioad@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 10:53 PM_
+Trump metals tariffs draw swift retaliation from canada and eu" }
+EmceinSsbtr@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 03:20 PM_
+Eu to impose counter tariffs on $38b in us goods from boats to bourbon" }
+AauuiaeaTpetei@{ shape: win-pane, label: "_UPDATED Mar 12, 2025, 03:18 PM_
+Australia rules out reciprocal move on us after trump proceeds with steel tariffs" }
 
+LrfuieaEhuemrm:::txtsize --> Treudpeahtfp:::txtsize
 Treudpeahtfp:::txtsize --> Tsuramuaviiep:::txtsize
 Tsuramuaviiep:::txtsize --> Hamobonmeen:::txtsize
-Hamobonmeen:::txtsize --> Tsidrrtfioitss:::txtsize
-Hamobonmeen:::txtsize --> Tsuramuaviiep:::txtsize
 Tsuramuaviiep:::txtsize --> TcrroadcbeC:::txtsize
-TcrroadcbeC:::txtsize --> MoapnTghhtfa:::txtsize
-TcrroadcbeC:::txtsize --> Fgtaer:::txtsize
 Treudpeahtfp:::txtsize --> Tsuramuaviiep:::txtsize
 Tsuramuaviiep:::txtsize --> Hamobonmeen:::txtsize
-Hamobonmeen:::txtsize --> Tsidrrtfioitss:::txtsize
-Hamobonmeen:::txtsize --> Tsuramuaviiep:::txtsize
 Tsuramuaviiep:::txtsize --> TcrroadcbeC:::txtsize
-TcrroadcbeC:::txtsize --> MoapnTghhtfa:::txtsize
-TcrroadcbeC:::txtsize --> Fgtaer:::txtsize
+LrfuieaEhuemrm:::txtsize --> Tttirferekr:::txtsize
+Tttirferekr:::txtsize --> Trsfanneonsds:::txtsize
+Trsfanneonsds:::txtsize --> Ttosauuinsdao:::txtsize
+Trsfanneonsds:::txtsize --> Opmogiodet:::txtsize
+Tttirferekr:::txtsize --> Tmsfafaioad:::txtsize
+Tmsfafaioad:::txtsize --> EmceinSsbtr:::txtsize
+Tmsfafaioad:::txtsize --> AauuiaeaTpetei:::txtsize
+
+Unlowesiscm@{ shape: win-pane, label: "_UPDATED Mar 27, 2025, 03:07 PM_
+Ukraine’s allies to meet with new aid, security assurances in mind" }
+RsSeasddBSar@{ shape: win-pane, label: "_UPDATED Mar 27, 2025, 07:52 AM_
+Rubio says us will evaluate russian demands for black sea ceasefire" }
+UsiUneeitaa@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 12:08 AM_
+Us says russia and ukraine agree to ceasefire in the black sea" }
+Usaanolecke@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 06:31 PM_
+Us, russia wrap up talks on proposed black sea truce in ukraine war" }
+RailBSaSsrly@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 08:58 PM_
+Russia says it will sign black sea deal if us gives ‘order’ to zelensky" }
+Raakroisao@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 05:53 PM_
+Russia ties a black sea truce to lifting of some sanctions" }
+UsiUneeitaa@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 12:08 AM_
+Us says russia and ukraine agree to ceasefire in the black sea" }
+UsiUneeitaa@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 12:08 AM_
+Us says russia and ukraine agree to ceasefire in the black sea" }
+
+Unlowesiscm:::txtsize --> RsSeasddBSar:::txtsize
+RsSeasddBSar:::txtsize --> UsiUneeitaa:::txtsize
+UsiUneeitaa:::txtsize --> Usaanolecke:::txtsize
+UsiUneeitaa:::txtsize --> RailBSaSsrly:::txtsize
+RsSeasddBSar:::txtsize --> Raakroisao:::txtsize
+Raakroisao:::txtsize --> UsiUneeitaa:::txtsize
+Raakroisao:::txtsize --> UsiUneeitaa:::txtsize
 
 Pmtrslriiaeaht@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 09:52 PM_
 Putin marks 25th year as russian leader and winner in ukraine peace talks, thanks to us" }
@@ -108,49 +133,6 @@ UsiUneeitaa:::txtsize --> RailBSaSsrly:::txtsize
 RailBSaSsrly:::txtsize --> Usaanolecke:::txtsize
 RailBSaSsrly:::txtsize --> Usaanolecke:::txtsize
 
-Feaarnuw@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 12:45 AM_
-France embraces larger role in a troubled world" }
-PAmaraaOeleuo@{ shape: win-pane, label: "_UPDATED Feb 10, 2025, 10:29 PM_
-Paris ai summit draws world leaders and ceos eager for lighter regulation" }
-Etletodotv@{ shape: win-pane, label: "_UPDATED Feb 09, 2025, 07:48 PM_
-Experts call for regulation to avoid ‘loss of control’ over ai" }
-Indtrnianooee@{ shape: win-pane, label: "_PUBLISHED Feb 09, 2025, 05:00 AM_
-In china, the domestic ai race intensifies as chinese go gaga over deepseek" }
-Figeeeebustsisbs@{ shape: win-pane, label: "_UPDATED Feb 09, 2025, 06:56 AM_
-Firms in singapore eye deepseek benefits, but cautious about data security risks, ai biases" }
-EsuinsIprsal@{ shape: win-pane, label: "_UPDATED Feb 05, 2025, 01:09 AM_
-Eu lays out guidelines on misuse of ai by employers, websites and police" }
-EieraaAhnk@{ shape: win-pane, label: "_UPDATED Nov 11, 2024, 10:28 AM_
-Eu strikes deal to regulate chatgpt, ai tech in landmark act" }
-RaHECaio@{ shape: win-pane, label: "_UPDATED Jan 26, 2024, 10:06 AM_
-Regulate ai? how us, eu and china are going about it" }
-Usaanolecke@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 06:31 PM_
-Us, russia wrap up talks on proposed black sea truce in ukraine war" }
-Dfsrpaeilhnp@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 05:43 PM_
-Dial d for disaster: trump’s ukraine ceasefire call with putin a flop" }
-TPaotreyctar@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 01:55 PM_
-Trump, putin agree on halt in ukraine energy attacks, but no ceasefire" }
-UnssUahidv@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 03:35 PM_
-Ukraine says talks with us on war with russia ‘productive’" }
-UneolSAavpoir@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 07:06 AM_
-Ukraine, us teams hold talks in saudi arabia, us envoy hopeful on ending war" }
-UneolSAavpoir@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 07:06 AM_
-Ukraine, us teams hold talks in saudi arabia, us envoy hopeful on ending war" }
-
-Feaarnuw:::txtsize --> PAmaraaOeleuo:::txtsize
-PAmaraaOeleuo:::txtsize --> Etletodotv:::txtsize
-Etletodotv:::txtsize --> Indtrnianooee:::txtsize
-Etletodotv:::txtsize --> Figeeeebustsisbs:::txtsize
-PAmaraaOeleuo:::txtsize --> EsuinsIprsal:::txtsize
-EsuinsIprsal:::txtsize --> EieraaAhnk:::txtsize
-EsuinsIprsal:::txtsize --> RaHECaio:::txtsize
-Feaarnuw:::txtsize --> Usaanolecke:::txtsize
-Usaanolecke:::txtsize --> Dfsrpaeilhnp:::txtsize
-Dfsrpaeilhnp:::txtsize --> TPaotreyctar:::txtsize
-Usaanolecke:::txtsize --> UnssUahidv:::txtsize
-UnssUahidv:::txtsize --> UneolSAavpoir:::txtsize
-UnssUahidv:::txtsize --> UneolSAavpoir:::txtsize
-
 ```
-<i>Last updated: 2025-03-27 12:00:58.680526 (GMT+8)</i>
+<i>Last updated: 2025-03-27 16:00:18.056923 (GMT+8)</i>
 <!-- END -->
