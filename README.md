@@ -16,6 +16,89 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Tyiaeitoamrteicc@{ shape: win-pane, label: "_UPDATED Mar 27, 2025, 09:49 PM_
+Turkey detains nearly 1,900 people in protests over jailed mayor, rejects international criticism" }
+TsrlamIgnt@{ shape: win-pane, label: "_UPDATED Mar 23, 2025, 08:09 PM_
+Turkish court jails istanbul mayor imamoglu pending trial" }
+Tyidsroiscgtpd@{ shape: win-pane, label: "_UPDATED Mar 20, 2025, 05:23 PM_
+Turkey detains erdogan’s main rival; opposition slams ‘coup against next president’" }
+Ksmaeeewuayoeu@{ shape: win-pane, label: "_UPDATED Mar 01, 2025, 11:23 PM_
+Kurdish pkk militants declare ceasefire with turkey after 40 years of armed struggle" }
+Tsoniadriwpi@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 10:46 PM_
+Turkish school annuls diploma of erdogan rival in blow to opposition" }
+Tsoniadriwpi@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 10:46 PM_
+Turkish school annuls diploma of erdogan rival in blow to opposition" }
+Tysaatornayvn@{ shape: win-pane, label: "_UPDATED Mar 11, 2025, 08:10 PM_
+Turkey backs sharaa’s stability efforts, erdogan says amid syrian violence" }
+Sanrfessl@{ shape: win-pane, label: "_UPDATED Mar 10, 2025, 03:27 AM_
+Syria announces probe after reports of mass killings" }
+SnltiARahtoy@{ shape: win-pane, label: "_UPDATED Dec 08, 2024, 11:38 PM_
+Syrian rebels oust president assad; russia says he left the country" }
+TyynoUneau@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 10:22 PM_
+Turkey ready to send troops to ukraine if necessary: source" }
+Raceaaeiaagcolao@{ shape: win-pane, label: "_UPDATED Jan 23, 2025, 09:13 PM_
+Russia rejects idea of nato peacekeepers in ukraine, warning of ‘uncontrollable escalation’" }
+Wnolykocsi@{ shape: win-pane, label: "_UPDATED Mar 06, 2025, 10:42 PM_
+‘we are not alone’: zelensky thanks europe at crisis summit" }
+
+Tyiaeitoamrteicc:::txtsize --> TsrlamIgnt:::txtsize
+TsrlamIgnt:::txtsize --> Tyidsroiscgtpd:::txtsize
+Tyidsroiscgtpd:::txtsize --> Ksmaeeewuayoeu:::txtsize
+Tyidsroiscgtpd:::txtsize --> Tsoniadriwpi:::txtsize
+Tyiaeitoamrteicc:::txtsize --> Tsoniadriwpi:::txtsize
+Tsoniadriwpi:::txtsize --> Tysaatornayvn:::txtsize
+Tysaatornayvn:::txtsize --> Sanrfessl:::txtsize
+Tysaatornayvn:::txtsize --> SnltiARahtoy:::txtsize
+Tsoniadriwpi:::txtsize --> TyynoUneau:::txtsize
+TyynoUneau:::txtsize --> Raceaaeiaagcolao:::txtsize
+TyynoUneau:::txtsize --> Wnolykocsi:::txtsize
+
+dsnotacissgrt@{ shape: win-pane, label: "_UPDATED Mar 27, 2025, 10:11 PM_
+6  die in sinking of tourist submarine carrying russians off egypt’s resort" }
+Tsreriapmilrd@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 02:36 PM_
+Titan submersible destroyed in ‘catastrophic implosion’, all 5 aboard dead" }
+Ttuoeldfiusid@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 02:38 PM_
+Tributes pour in for five people who died after titan submersible imploded" }
+Tsreriapmilrd@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 02:36 PM_
+Titan submersible destroyed in ‘catastrophic implosion’, all 5 aboard dead" }
+BsomnaudufdtGerc@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 02:20 PM_
+British tycoon on missing titanic sub is adventure buff, holder of three guinness world records" }
+Tsreitois@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 02:37 PM_
+Titan submersible: what is a ‘catastrophic implosion’?" }
+Tsreriapmilrd@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 02:36 PM_
+Titan submersible destroyed in ‘catastrophic implosion’, all 5 aboard dead" }
+Tifixoeenstm@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 02:24 PM_
+Titanic sub firm fired exec who raised safety concerns: court documents" }
+TslbaeIeB@{ shape: win-pane, label: "_UPDATED Mar 22, 2025, 09:56 PM_
+Tourist killed as boat capsizes off indonesia’s bali" }
+Fuehleiesnien@{ shape: win-pane, label: "_UPDATED Jul 20, 2024, 09:51 PM_
+Five survive crash in bali after helicopter gets entangled in kite strings" }
+peeeMsaltoed@{ shape: win-pane, label: "_UPDATED Apr 23, 2024, 09:47 PM_
+10 people killed after two malaysian navy helicopters collide in mid-air" }
+Cdyihomniag@{ shape: win-pane, label: "_UPDATED Jul 13, 2024, 08:19 PM_
+Cambodia says military helicopter missing during training" }
+Ssnfrrosetiiiea@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 12:46 PM_
+S’pore student suffers fracture, memory loss after all-terrain vehicle hits tree in bali" }
+Spnuncnaha@{ shape: win-pane, label: "_UPDATED Nov 21, 2024, 12:40 PM_
+3 singaporeans injured in car accident on taiwan highway" }
+SatsieohaeJ@{ shape: win-pane, label: "_UPDATED Mar 20, 2023, 09:08 PM_
+12 s’poreans in tourist van injured in four-vehicle accident in johor" }
+
+dsnotacissgrt:::txtsize --> Tsreriapmilrd:::txtsize
+Tsreriapmilrd:::txtsize --> Ttuoeldfiusid:::txtsize
+Ttuoeldfiusid:::txtsize --> Tsreriapmilrd:::txtsize
+Ttuoeldfiusid:::txtsize --> BsomnaudufdtGerc:::txtsize
+Tsreriapmilrd:::txtsize --> Tsreitois:::txtsize
+Tsreitois:::txtsize --> Tsreriapmilrd:::txtsize
+Tsreitois:::txtsize --> Tifixoeenstm:::txtsize
+dsnotacissgrt:::txtsize --> TslbaeIeB:::txtsize
+TslbaeIeB:::txtsize --> Fuehleiesnien:::txtsize
+Fuehleiesnien:::txtsize --> peeeMsaltoed:::txtsize
+Fuehleiesnien:::txtsize --> Cdyihomniag:::txtsize
+TslbaeIeB:::txtsize --> Ssnfrrosetiiiea:::txtsize
+Ssnfrrosetiiiea:::txtsize --> Spnuncnaha:::txtsize
+Ssnfrrosetiiiea:::txtsize --> SatsieohaeJ:::txtsize
+
 LrfuieaEhuemrm@{ shape: win-pane, label: "_UPDATED Mar 27, 2025, 02:57 PM_
 Larger tariffs could be imposed on canada, eu if they cause us ‘economic harm’: trump" }
 Treudpeahtfp@{ shape: win-pane, label: "_UPDATED Mar 27, 2025, 11:20 AM_
@@ -62,77 +145,6 @@ Tttirferekr:::txtsize --> Tmsfafaioad:::txtsize
 Tmsfafaioad:::txtsize --> EmceinSsbtr:::txtsize
 Tmsfafaioad:::txtsize --> AauuiaeaTpetei:::txtsize
 
-Unlowesiscm@{ shape: win-pane, label: "_UPDATED Mar 27, 2025, 03:07 PM_
-Ukraine’s allies to meet with new aid, security assurances in mind" }
-RsSeasddBSar@{ shape: win-pane, label: "_UPDATED Mar 27, 2025, 07:52 AM_
-Rubio says us will evaluate russian demands for black sea ceasefire" }
-UsiUneeitaa@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 12:08 AM_
-Us says russia and ukraine agree to ceasefire in the black sea" }
-Usaanolecke@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 06:31 PM_
-Us, russia wrap up talks on proposed black sea truce in ukraine war" }
-RailBSaSsrly@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 08:58 PM_
-Russia says it will sign black sea deal if us gives ‘order’ to zelensky" }
-Raakroisao@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 05:53 PM_
-Russia ties a black sea truce to lifting of some sanctions" }
-UsiUneeitaa@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 12:08 AM_
-Us says russia and ukraine agree to ceasefire in the black sea" }
-UsiUneeitaa@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 12:08 AM_
-Us says russia and ukraine agree to ceasefire in the black sea" }
-
-Unlowesiscm:::txtsize --> RsSeasddBSar:::txtsize
-RsSeasddBSar:::txtsize --> UsiUneeitaa:::txtsize
-UsiUneeitaa:::txtsize --> Usaanolecke:::txtsize
-UsiUneeitaa:::txtsize --> RailBSaSsrly:::txtsize
-RsSeasddBSar:::txtsize --> Raakroisao:::txtsize
-Raakroisao:::txtsize --> UsiUneeitaa:::txtsize
-Raakroisao:::txtsize --> UsiUneeitaa:::txtsize
-
-Pmtrslriiaeaht@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 09:52 PM_
-Putin marks 25th year as russian leader and winner in ukraine peace talks, thanks to us" }
-Uneestesanlel@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 01:29 AM_
-Ukraine urges more talks to settle ‘details’ of us-announced black sea deal" }
-UsiUneeitaa@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 12:08 AM_
-Us says russia and ukraine agree to ceasefire in the black sea" }
-Usaanolecke@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 06:31 PM_
-Us, russia wrap up talks on proposed black sea truce in ukraine war" }
-RailBSaSsrly@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 08:58 PM_
-Russia says it will sign black sea deal if us gives ‘order’ to zelensky" }
-UsiUneeitaa@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 12:08 AM_
-Us says russia and ukraine agree to ceasefire in the black sea" }
-Usaanolecke@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 06:31 PM_
-Us, russia wrap up talks on proposed black sea truce in ukraine war" }
-RailBSaSsrly@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 08:58 PM_
-Russia says it will sign black sea deal if us gives ‘order’ to zelensky" }
-UsiUneeitaa@{ shape: win-pane, label: "_UPDATED Mar 26, 2025, 12:08 AM_
-Us says russia and ukraine agree to ceasefire in the black sea" }
-Usaanolecke@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 06:31 PM_
-Us, russia wrap up talks on proposed black sea truce in ukraine war" }
-Dfsrpaeilhnp@{ shape: win-pane, label: "_UPDATED Mar 19, 2025, 05:43 PM_
-Dial d for disaster: trump’s ukraine ceasefire call with putin a flop" }
-UnssUahidv@{ shape: win-pane, label: "_UPDATED Mar 24, 2025, 03:35 PM_
-Ukraine says talks with us on war with russia ‘productive’" }
-RailBSaSsrly@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 08:58 PM_
-Russia says it will sign black sea deal if us gives ‘order’ to zelensky" }
-Usaanolecke@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 06:31 PM_
-Us, russia wrap up talks on proposed black sea truce in ukraine war" }
-Usaanolecke@{ shape: win-pane, label: "_UPDATED Mar 25, 2025, 06:31 PM_
-Us, russia wrap up talks on proposed black sea truce in ukraine war" }
-
-Pmtrslriiaeaht:::txtsize --> Uneestesanlel:::txtsize
-Uneestesanlel:::txtsize --> UsiUneeitaa:::txtsize
-UsiUneeitaa:::txtsize --> Usaanolecke:::txtsize
-UsiUneeitaa:::txtsize --> RailBSaSsrly:::txtsize
-Uneestesanlel:::txtsize --> UsiUneeitaa:::txtsize
-UsiUneeitaa:::txtsize --> Usaanolecke:::txtsize
-UsiUneeitaa:::txtsize --> RailBSaSsrly:::txtsize
-Pmtrslriiaeaht:::txtsize --> UsiUneeitaa:::txtsize
-UsiUneeitaa:::txtsize --> Usaanolecke:::txtsize
-Usaanolecke:::txtsize --> Dfsrpaeilhnp:::txtsize
-Usaanolecke:::txtsize --> UnssUahidv:::txtsize
-UsiUneeitaa:::txtsize --> RailBSaSsrly:::txtsize
-RailBSaSsrly:::txtsize --> Usaanolecke:::txtsize
-RailBSaSsrly:::txtsize --> Usaanolecke:::txtsize
-
 ```
-<i>Last updated: 2025-03-27 20:00:41.359067 (GMT+8)</i>
+<i>Last updated: 2025-03-28 00:01:12.665439 (GMT+8)</i>
 <!-- END -->
