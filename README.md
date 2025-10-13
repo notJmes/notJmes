@@ -16,6 +16,117 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+TssmsooesieoG@{ shape: win-pane, label: "_Published Oct 13, 2025, 04:49 PM_
+Trump suggests hamas has approval for internal security operations in gaza" }
+Tdrzooetum@{ shape: win-pane, label: "_Published Oct 13, 2025, 05:59 AM_
+Trump declares gaza war ‘over’; hostages due to return home" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+Hholagaoemswe@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:47 PM_
+Hamas hands over all remaining hostages to israel, trump says gaza war over" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+Wesiaeeays@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:59 AM_
+Who are the israeli hostages set to be released by hamas?" }
+HvsIltwitytee@{ shape: win-pane, label: "_Published Feb 23, 2025, 11:50 AM_
+Hamas video shows 2 israeli captives watching saturday’s hostage release" }
+
+TssmsooesieoG:::txtsize --> Tdrzooetum:::txtsize
+Tdrzooetum:::txtsize --> AtHfezerydatoGel:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+TssmsooesieoG:::txtsize --> Hholagaoemswe:::txtsize
+Hholagaoemswe:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Hholagaoemswe:::txtsize --> Wesiaeeays:::txtsize
+Wesiaeeays:::txtsize --> HvsIltwitytee:::txtsize
+
+Hdyhatrssfn@{ shape: win-pane, label: "_Published Oct 13, 2025, 04:14 PM_
+Hamas deploys fighters as hostages released, in show of strength" }
+TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
+Tears, joy in israel as hamas hands over first hostages" }
+Hholagaoemswe@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:47 PM_
+Hamas hands over all remaining hostages to israel, trump says gaza war over" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Wesiaeeays@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:59 AM_
+Who are the israeli hostages set to be released by hamas?" }
+Ilnrsaehwreit@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:04 AM_
+Israelis honour trump as hostages return home two years after their capture" }
+Hatmzcnhodro@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:11 PM_
+Hamas accepts trump’s gaza peace plan, but the bloodshed is far from over" }
+Ilnrsaehwreit@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:04 AM_
+Israelis honour trump as hostages return home two years after their capture" }
+Hatmzcnhodro@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:11 PM_
+Hamas accepts trump’s gaza peace plan, but the bloodshed is far from over" }
+NysyTsppuls@{ shape: win-pane, label: "_Published Sep 30, 2025, 03:16 PM_
+Netanyahu is happy with trump’s gaza peace plan, but will hamas bite?" }
+
+Hdyhatrssfn:::txtsize --> TjIlmnest:::txtsize
+TjIlmnest:::txtsize --> Hholagaoemswe:::txtsize
+Hholagaoemswe:::txtsize --> NyeeawHakl:::txtsize
+Hholagaoemswe:::txtsize --> Wesiaeeays:::txtsize
+TjIlmnest:::txtsize --> Ilnrsaehwreit:::txtsize
+Ilnrsaehwreit:::txtsize --> Hatmzcnhodro:::txtsize
+Hdyhatrssfn:::txtsize --> Ilnrsaehwreit:::txtsize
+Ilnrsaehwreit:::txtsize --> Hatmzcnhodro:::txtsize
+Hatmzcnhodro:::txtsize --> NysyTsppuls:::txtsize
+
+Wrorsduitr@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:22 PM_
+Who warns about surge in spread of drug-resistant superbugs" }
+Vlairtaihbeshw@{ shape: win-pane, label: "_Published May 11, 2025, 11:30 AM_
+Vet talk: can antibiotic-resistant bacteria be shared between pets and their owners?" }
+Deapgjdlly@{ shape: win-pane, label: "_Published Sep 17, 2024, 07:20 AM_
+Drug-resistant superbugs projected to kill 39 million by 2050" }
+Srrasnirsnes@{ shape: win-pane, label: "_Published Nov 27, 2023, 06:50 PM_
+S’pore research team gets $10m grant to fight drug-resistant superbugs" }
+Hulntuuencpa@{ shape: win-pane, label: "_Published Feb 08, 2023, 06:35 AM_
+Harmful pollution boosting superbug 'silent pandemic', un report says" }
+Vlncottirn@{ shape: win-pane, label: "_Published Apr 27, 2025, 11:15 AM_
+Vet talk: think twice before getting that tiny terrapin" }
+Pvecdflknrshoxss@{ shape: win-pane, label: "_Published Feb 26, 2025, 07:05 PM_
+Pet lovers need to consider difficulty of keeping terrapins and their complex needs: acres" }
+Vlenangicfec@{ shape: win-pane, label: "_Published Mar 16, 2025, 12:15 PM_
+Vet talk: understanding and managing the rising cost of pet healthcare" }
+Wgmusasgssb@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:08 PM_
+Who urges ramping up arms race against drug-resistant superbugs" }
+Deapgjdlly@{ shape: win-pane, label: "_Published Sep 17, 2024, 07:20 AM_
+Drug-resistant superbugs projected to kill 39 million by 2050" }
+Srrasnirsnes@{ shape: win-pane, label: "_Published Nov 27, 2023, 06:50 PM_
+S’pore research team gets $10m grant to fight drug-resistant superbugs" }
+Hulntuuencpa@{ shape: win-pane, label: "_Published Feb 08, 2023, 06:35 AM_
+Harmful pollution boosting superbug 'silent pandemic', un report says" }
+Srrasnirsnes@{ shape: win-pane, label: "_Published Nov 27, 2023, 06:50 PM_
+S’pore research team gets $10m grant to fight drug-resistant superbugs" }
+Sstdootpbriwnoea@{ shape: win-pane, label: "_Published Apr 10, 2023, 05:00 AM_
+S’pore scientists develop ‘nano-nets’ to trap, kill bacteria amid growing antibiotic resistance" }
+Waiisnuhha@{ shape: win-pane, label: "_Published Nov 21, 2022, 05:00 AM_
+Why is antimicrobial resistance a public health threat?" }
+
+Wrorsduitr:::txtsize --> Vlairtaihbeshw:::txtsize
+Vlairtaihbeshw:::txtsize --> Deapgjdlly:::txtsize
+Deapgjdlly:::txtsize --> Srrasnirsnes:::txtsize
+Deapgjdlly:::txtsize --> Hulntuuencpa:::txtsize
+Vlairtaihbeshw:::txtsize --> Vlncottirn:::txtsize
+Vlncottirn:::txtsize --> Pvecdflknrshoxss:::txtsize
+Vlncottirn:::txtsize --> Vlenangicfec:::txtsize
+Wrorsduitr:::txtsize --> Wgmusasgssb:::txtsize
+Wgmusasgssb:::txtsize --> Deapgjdlly:::txtsize
+Deapgjdlly:::txtsize --> Srrasnirsnes:::txtsize
+Deapgjdlly:::txtsize --> Hulntuuencpa:::txtsize
+Wgmusasgssb:::txtsize --> Srrasnirsnes:::txtsize
+Srrasnirsnes:::txtsize --> Sstdootpbriwnoea:::txtsize
+Srrasnirsnes:::txtsize --> Waiisnuhha:::txtsize
+
 ```
-<i>Last updated: 2025-10-13 17:10:08.631969 (GMT+8)</i>
+<i>Last updated: 2025-10-13 17:29:07.874922 (GMT+8)</i>
 <!-- END -->
