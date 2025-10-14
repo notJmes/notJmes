@@ -16,105 +16,141 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ptrohtgoafial@{ shape: win-pane, label: "_Published Oct 13, 2025, 04:55 PM_
-Pakistani troops on high alert on afghan border after fighting, trade halts" }
-Dseaahtabre@{ shape: win-pane, label: "_Published Oct 12, 2025, 03:19 PM_
-Dozens killed in pakistan-afghanistan clashes; border closed" }
-Fiebeiiffsgo@{ shape: win-pane, label: "_Published Oct 12, 2025, 04:54 AM_
-Firefights erupt between pakistani and afghan forces along the border" }
-Ptanmcalnwrts@{ shape: win-pane, label: "_Published Oct 11, 2025, 06:30 PM_
-Pakistani taliban claim attacks that killed 23 in north-western districts" }
-Pgidohvitfiwr@{ shape: win-pane, label: "_Published May 21, 2025, 04:04 AM_
-Pentagon chief orders ‘comprehensive review’ into 2021 us afghanistan withdrawal" }
-Iiltlsseahcy@{ shape: win-pane, label: "_Published Oct 08, 2025, 02:32 PM_
-Islamist militants kill 11 pakistani soldiers in ambush, sources say" }
+CsloeptpnriSe@{ shape: win-pane, label: "_Published Oct 15, 2025, 02:02 AM_
+Chinese airlines oppose trump plan to stop flying over russia on us routes" }
+TpsrCslflouoo@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:13 AM_
+Trump proposes barring chinese airlines from flying over russia on us routes" }
+Cruehromouiftt@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:48 PM_
+China ramps up rare earth restrictions, in move to beef up position for us trade talks" }
+Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
+China tightens rare earth export controls and targets defence, semiconductor users" }
+PammueCriiarmn@{ shape: win-pane, label: "_Published Oct 09, 2025, 08:35 PM_
+Pragmatism may temper turbulent us-china relationship: asia future summit panel" }
+Cruehromouiftt@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:48 PM_
+China ramps up rare earth restrictions, in move to beef up position for us trade talks" }
+Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
+China tightens rare earth export controls and targets defence, semiconductor users" }
+PammueCriiarmn@{ shape: win-pane, label: "_Published Oct 09, 2025, 08:35 PM_
+Pragmatism may temper turbulent us-china relationship: asia future summit panel" }
+Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
+Timeline: how russia's attack on ukraine unfolded" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
+Explosions heard in ukraine capital kyiv, other cities" }
+OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
+Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
+BsSeloutdcuoa@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:18 PM_
+Biden says us, allies will respond to 'unjustified' attack by russia on ukraine" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
 
-Ptrohtgoafial:::txtsize --> Dseaahtabre:::txtsize
-Dseaahtabre:::txtsize --> Fiebeiiffsgo:::txtsize
-Dseaahtabre:::txtsize --> Ptanmcalnwrts:::txtsize
-Ptanmcalnwrts:::txtsize --> Pgidohvitfiwr:::txtsize
-Ptanmcalnwrts:::txtsize --> Iiltlsseahcy:::txtsize
+CsloeptpnriSe:::txtsize --> TpsrCslflouoo:::txtsize
+TpsrCslflouoo:::txtsize --> Cruehromouiftt:::txtsize
+Cruehromouiftt:::txtsize --> Ctertonsasnmdrs:::txtsize
+Cruehromouiftt:::txtsize --> PammueCriiarmn:::txtsize
+TpsrCslflouoo:::txtsize --> Cruehromouiftt:::txtsize
+Cruehromouiftt:::txtsize --> Ctertonsasnmdrs:::txtsize
+Cruehromouiftt:::txtsize --> PammueCriiarmn:::txtsize
+CsloeptpnriSe:::txtsize --> Tiwitnifd:::txtsize
+Tiwitnifd:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
+DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
+Tiwitnifd:::txtsize --> BsSeloutdcuoa:::txtsize
+BsSeloutdcuoa:::txtsize --> DsruasvUn:::txtsize
 
-Pdgscesgo@{ shape: win-pane, label: "_Published Oct 13, 2025, 04:50 PM_
-Poland charges russian couple with spying for moscow" }
-Bsenrtruntase@{ shape: win-pane, label: "_Published Sep 19, 2025, 05:50 AM_
-British spies turn to dark web to recruit russian agents and access secrets" }
-Bioffeopn@{ shape: win-pane, label: "_Published Jun 16, 2025, 06:05 AM_
-Britain appoints first female head of mi6 spy agency" }
-BierittRaIatiw@{ shape: win-pane, label: "_Published Jun 07, 2025, 03:27 AM_
-Britain faces ‘extraordinary’ threat from russian and iranian plots, official warns" }
-Urhrnhesg@{ shape: win-pane, label: "_Published May 18, 2025, 04:03 AM_
-Uk charges three iranians with suspected spying" }
-Utspemgfr@{ shape: win-pane, label: "_Published Jun 28, 2025, 05:19 PM_
-Uk distances new spy chief from ‘nazi’ grandfather" }
-Bioffeopn@{ shape: win-pane, label: "_Published Jun 16, 2025, 06:05 AM_
-Britain appoints first female head of mi6 spy agency" }
-Uennbgsheo@{ shape: win-pane, label: "_Published Jun 25, 2025, 12:44 AM_
-Uk government to invest $1b to fight rising chinese espionage" }
-Gnniunoetun@{ shape: win-pane, label: "_Published Sep 02, 2025, 11:24 PM_
-Germany warns against russian ‘disposable agent’ recruitment" }
-Gnseaetneri@{ shape: win-pane, label: "_Published Aug 30, 2024, 09:49 PM_
-German firms warned of packages containing incendiary devices" }
-Iddedeieiey@{ shape: win-pane, label: "_Published Jul 26, 2024, 10:27 PM_
-Incendiary device found on french high-speed rail line in may" }
-Ybcdcergdtifwsrept@{ shape: win-pane, label: "_Published Jun 08, 2024, 09:10 AM_
-Youtuber faces federal charge after allegedly directing video of fireworks shot from a helicopter at a car" }
-GnpRadbelys@{ shape: win-pane, label: "_Published Aug 14, 2024, 10:03 PM_
-Germany suspects russian hand in sabotage at military bases" }
-UnotdiRasily@{ shape: win-pane, label: "_Published Aug 14, 2024, 07:28 PM_
-Ukraine's troops still advancing in russia's kursk region, zelensky says" }
-UnotdiRasily@{ shape: win-pane, label: "_Published Aug 14, 2024, 07:28 PM_
-Ukraine's troops still advancing in russia's kursk region, zelensky says" }
+Aselnzfsuk@{ shape: win-pane, label: "_Published Oct 15, 2025, 01:44 AM_
+At least 14 miners killed in venezuela floods: rescue workers" }
+AsdiMod@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:05 AM_
+At least 64 dead, 65 missing in mexico floods" }
+Asdrelsphpex@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:29 AM_
+At least 47 dead after torrential rains sweep away homes, people in mexico" }
+Ssrsotnrseprsc@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:18 AM_
+Spain suffers fresh floods as torrential rains strike, trapping drivers amid ‘chaos’" }
+Tavtfspik@{ shape: win-pane, label: "_Published Oct 10, 2025, 09:41 PM_
+Thousands evacuated as floods swamp hanoi outskirts" }
+Ssrsotnrseprsc@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:18 AM_
+Spain suffers fresh floods as torrential rains strike, trapping drivers amid ‘chaos’" }
+Ericrerys@{ shape: win-pane, label: "_Published Oct 09, 2025, 08:25 PM_
+Eastern spain placed on red alert for heavy rains" }
+Sdrswntwfktosi@{ shape: win-pane, label: "_Published Nov 14, 2024, 08:55 PM_
+Spain downgrades storm warnings after towns left soaked but without casualties" }
+Ssrsotnrseprsc@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:18 AM_
+Spain suffers fresh floods as torrential rains strike, trapping drivers amid ‘chaos’" }
+Ericrerys@{ shape: win-pane, label: "_Published Oct 09, 2025, 08:25 PM_
+Eastern spain placed on red alert for heavy rains" }
+Slshrlann@{ shape: win-pane, label: "_Published Sep 29, 2025, 05:41 PM_
+Schools closed as heavy rains lash eastern spain" }
+Oaeaiin@{ shape: win-pane, label: "_Published Sep 22, 2025, 08:50 AM_
+One dead as heavy rains hit spain, france" }
+Sdrswntwfktosi@{ shape: win-pane, label: "_Published Nov 14, 2024, 08:55 PM_
+Spain downgrades storm warnings after towns left soaked but without casualties" }
+Hrlpfefs@{ shape: win-pane, label: "_Published Nov 13, 2024, 09:15 PM_
+Heavy rains lash spain after deadly floods" }
+Ssotbfos@{ shape: win-pane, label: "_Published Nov 13, 2024, 12:44 AM_
+Spanish flood-hit towns brace for another storm" }
 
-Pdgscesgo:::txtsize --> Bsenrtruntase:::txtsize
-Bsenrtruntase:::txtsize --> Bioffeopn:::txtsize
-Bioffeopn:::txtsize --> BierittRaIatiw:::txtsize
-Bioffeopn:::txtsize --> Urhrnhesg:::txtsize
-Bsenrtruntase:::txtsize --> Utspemgfr:::txtsize
-Utspemgfr:::txtsize --> Bioffeopn:::txtsize
-Utspemgfr:::txtsize --> Uennbgsheo:::txtsize
-Pdgscesgo:::txtsize --> Gnniunoetun:::txtsize
-Gnniunoetun:::txtsize --> Gnseaetneri:::txtsize
-Gnseaetneri:::txtsize --> Iddedeieiey:::txtsize
-Gnseaetneri:::txtsize --> Ybcdcergdtifwsrept:::txtsize
-Gnniunoetun:::txtsize --> GnpRadbelys:::txtsize
-GnpRadbelys:::txtsize --> UnotdiRasily:::txtsize
-GnpRadbelys:::txtsize --> UnotdiRasily:::txtsize
+Aselnzfsuk:::txtsize --> AsdiMod:::txtsize
+AsdiMod:::txtsize --> Asdrelsphpex:::txtsize
+Asdrelsphpex:::txtsize --> Ssrsotnrseprsc:::txtsize
+Asdrelsphpex:::txtsize --> Tavtfspik:::txtsize
+AsdiMod:::txtsize --> Ssrsotnrseprsc:::txtsize
+Ssrsotnrseprsc:::txtsize --> Ericrerys:::txtsize
+Ssrsotnrseprsc:::txtsize --> Sdrswntwfktosi:::txtsize
+Aselnzfsuk:::txtsize --> Ssrsotnrseprsc:::txtsize
+Ssrsotnrseprsc:::txtsize --> Ericrerys:::txtsize
+Ericrerys:::txtsize --> Slshrlann:::txtsize
+Ericrerys:::txtsize --> Oaeaiin:::txtsize
+Ssrsotnrseprsc:::txtsize --> Sdrswntwfktosi:::txtsize
+Sdrswntwfktosi:::txtsize --> Hrlpfefs:::txtsize
+Sdrswntwfktosi:::txtsize --> Ssotbfos:::txtsize
 
-TssmsooesieoG@{ shape: win-pane, label: "_Published Oct 13, 2025, 04:49 PM_
-Trump suggests hamas has approval for internal security operations in gaza" }
-Tdrzooetum@{ shape: win-pane, label: "_Published Oct 13, 2025, 05:59 AM_
-Trump declares gaza war ‘over’; hostages due to return home" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-Hholagaoemswe@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:47 PM_
-Hamas hands over all remaining hostages to israel, trump says gaza war over" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-Wesiaeeays@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:59 AM_
-Who are the israeli hostages set to be released by hamas?" }
-HvsIltwitytee@{ shape: win-pane, label: "_Published Feb 23, 2025, 11:50 AM_
-Hamas video shows 2 israeli captives watching saturday’s hostage release" }
+GerwertUtfo@{ shape: win-pane, label: "_Published Oct 15, 2025, 01:38 AM_
+Google offers to tweak search results as eu antitrust fine looms" }
+GeilEitodpi@{ shape: win-pane, label: "_Published Sep 06, 2025, 04:18 AM_
+Google hit with $4 billion eu antitrust fine over adtech practices" }
+Geplisiworyre@{ shape: win-pane, label: "_Published Sep 04, 2025, 07:40 AM_
+Google must pay $547 million in class action lawsuit over privacy, us jury rules" }
+GedItemoyOre@{ shape: win-pane, label: "_Published Apr 22, 2025, 03:08 AM_
+Google could use ai to extend search monopoly, says us doj as trial begins" }
+Geopmnfeppsmiofd@{ shape: win-pane, label: "_Published Aug 26, 2025, 02:53 PM_
+Google to block apps from all unverified developers, s’pore users among first to be affected" }
+Geeeerntvr@{ shape: win-pane, label: "_Published Sep 03, 2025, 05:39 AM_
+Google not required to sell chrome in antitrust victory" }
+GengnyaSes@{ shape: win-pane, label: "_Published Aug 06, 2024, 07:03 AM_
+Google has an illegal monopoly on search, us judge finds" }
+Utemisgshtarny@{ shape: win-pane, label: "_Published Nov 19, 2024, 08:45 AM_
+Us justice department will push google to sell chrome to break search monopoly" }
+Nryslaaflligd@{ shape: win-pane, label: "_Published Oct 09, 2025, 06:45 AM_
+New york city sues social media companies for allegedly addicting children" }
+Gntnteirhl@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:00 PM_
+Gen z anger at ruling elites is erupting across the world" }
+McsrultoZe@{ shape: win-pane, label: "_Published Oct 02, 2025, 11:19 AM_
+Morocco says hundreds hurt in latest wave of gen z protests" }
+Niemfeodos@{ shape: win-pane, label: "_Published Sep 12, 2025, 07:00 PM_
+Nepalis assess damage after terror of deadly protests" }
+Moeinnekisbyl@{ shape: win-pane, label: "_Published Sep 11, 2025, 09:40 AM_
+More young people in china going under the knife in quest for ‘beauty ideal’" }
+Cwskoiornr@{ shape: win-pane, label: "_Published Jul 07, 2025, 09:50 AM_
+China widens crackdown on illicit botox training courses" }
+Fgiateinpsy@{ shape: win-pane, label: "_Published Aug 28, 2025, 02:48 PM_
+Foreign patients at south korea’s skin clinics up 117 times over 15 years" }
 
-TssmsooesieoG:::txtsize --> Tdrzooetum:::txtsize
-Tdrzooetum:::txtsize --> AtHfezerydatoGel:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-TssmsooesieoG:::txtsize --> Hholagaoemswe:::txtsize
-Hholagaoemswe:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Hholagaoemswe:::txtsize --> Wesiaeeays:::txtsize
-Wesiaeeays:::txtsize --> HvsIltwitytee:::txtsize
+GerwertUtfo:::txtsize --> GeilEitodpi:::txtsize
+GeilEitodpi:::txtsize --> Geplisiworyre:::txtsize
+Geplisiworyre:::txtsize --> GedItemoyOre:::txtsize
+Geplisiworyre:::txtsize --> Geopmnfeppsmiofd:::txtsize
+GeilEitodpi:::txtsize --> Geeeerntvr:::txtsize
+Geeeerntvr:::txtsize --> GengnyaSes:::txtsize
+Geeeerntvr:::txtsize --> Utemisgshtarny:::txtsize
+GerwertUtfo:::txtsize --> Nryslaaflligd:::txtsize
+Nryslaaflligd:::txtsize --> Gntnteirhl:::txtsize
+Gntnteirhl:::txtsize --> McsrultoZe:::txtsize
+Gntnteirhl:::txtsize --> Niemfeodos:::txtsize
+Nryslaaflligd:::txtsize --> Moeinnekisbyl:::txtsize
+Moeinnekisbyl:::txtsize --> Cwskoiornr:::txtsize
+Moeinnekisbyl:::txtsize --> Fgiateinpsy:::txtsize
 
 ```
-<i>Last updated: 2025-10-13 17:54:57.915216 (GMT+8)</i>
+<i>Last updated: 2025-10-15 03:10:00.959209 (GMT+8)</i>
 <!-- END -->
