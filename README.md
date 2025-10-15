@@ -16,6 +16,98 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Niegcsrmun@{ shape: win-pane, label: "_Published Oct 15, 2025, 03:25 PM_
+Nigerian teenage girls chase soccer dreams in muslim north" }
+SaeregpnniLeh@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:05 PM_
+Special mom-ent for mother-daughter pair in women’s national league match" }
+AeglWsiaiiet@{ shape: win-pane, label: "_Published Sep 29, 2025, 01:18 AM_
+Albirex niigata clinch women’s premier league title with one game to go" }
+NnolsanSmb@{ shape: win-pane, label: "_Published Sep 25, 2025, 05:00 AM_
+National footballer irsalina irwan eyes sea games debut" }
+Ntlnaciatnapngpne@{ shape: win-pane, label: "_Published Sep 16, 2025, 10:43 PM_
+New national women’s u-19 head coach manisha tailor taps on england experience to grow sport in s’pore" }
+WsialrwiombsR@{ shape: win-pane, label: "_Published Apr 05, 2025, 12:18 AM_
+Women’s premier league all-stars draw inspiration from 7-1 rout by brisbane roar" }
+SpolaeaomobasR@{ shape: win-pane, label: "_Published Jan 28, 2025, 02:02 PM_
+Singapore footballer danelle tan wants to have more to celebrate at brisbane roar" }
+WCaafsimolBaay@{ shape: win-pane, label: "_Published Apr 03, 2025, 10:33 PM_
+World cup a game-changer for australian women’s football, say brisbane roar players" }
+Bseipeiaapc@{ shape: win-pane, label: "_Published Sep 04, 2025, 09:40 PM_
+‘biggest’ women’s asian cup can help drive change, says top official" }
+Lfrwuneeeesua@{ shape: win-pane, label: "_Published Sep 03, 2025, 07:27 PM_
+Lions forward shawal anuar continues to defy age as he eyes asian cup dream" }
+Faoaooagpsogfo@{ shape: win-pane, label: "_Published Dec 29, 2022, 08:31 PM_
+Football: lions’ shawal goes from cleaning glass panels to scoring goals for s’pore" }
+YLrgiaelreets@{ shape: win-pane, label: "_Published Sep 02, 2025, 08:53 PM_
+Young lions raring to go in asian under-23 qualifiers after recent setbacks" }
+YLrgiaelreets@{ shape: win-pane, label: "_Published Sep 02, 2025, 08:53 PM_
+Young lions raring to go in asian under-23 qualifiers after recent setbacks" }
+YLaseeRntfaog@{ shape: win-pane, label: "_Published Aug 06, 2025, 06:57 PM_
+Young lions and distance runner soh rui yong left out of sea games contingent" }
+YLaseeRnaleoGcn@{ shape: win-pane, label: "_Published Aug 28, 2025, 08:16 PM_
+Young lions and distance runner soh rui yong win appeals to be part of sea games contingent" }
+
+Niegcsrmun:::txtsize --> SaeregpnniLeh:::txtsize
+SaeregpnniLeh:::txtsize --> AeglWsiaiiet:::txtsize
+AeglWsiaiiet:::txtsize --> NnolsanSmb:::txtsize
+AeglWsiaiiet:::txtsize --> Ntlnaciatnapngpne:::txtsize
+SaeregpnniLeh:::txtsize --> WsialrwiombsR:::txtsize
+WsialrwiombsR:::txtsize --> SpolaeaomobasR:::txtsize
+WsialrwiombsR:::txtsize --> WCaafsimolBaay:::txtsize
+Niegcsrmun:::txtsize --> Bseipeiaapc:::txtsize
+Bseipeiaapc:::txtsize --> Lfrwuneeeesua:::txtsize
+Lfrwuneeeesua:::txtsize --> Faoaooagpsogfo:::txtsize
+Lfrwuneeeesua:::txtsize --> YLrgiaelreets:::txtsize
+Bseipeiaapc:::txtsize --> YLrgiaelreets:::txtsize
+YLrgiaelreets:::txtsize --> YLaseeRntfaog:::txtsize
+YLrgiaelreets:::txtsize --> YLaseeRnaleoGcn:::txtsize
+
+Eaftsolsttius@{ shape: win-pane, label: "_Published Oct 15, 2025, 03:10 PM_
+Eu scramble for anti-russia ‘drone wall’ hits political, technical hurdles" }
+Edouolekaaaoo@{ shape: win-pane, label: "_Published Oct 01, 2025, 02:34 PM_
+Eu leaders to discuss ‘drone wall’ in denmark, days after airspace violations" }
+Drsrinehirtt@{ shape: win-pane, label: "_Published Sep 27, 2025, 05:28 PM_
+Denmark says new drone sightings overnight at military installations" }
+DsiithChOit@{ shape: win-pane, label: "_Published Sep 23, 2025, 08:52 AM_
+Drone sightings disrupt flights at copenhagen, oslo airports" }
+SnryDrlarwerny@{ shape: win-pane, label: "_Published Sep 26, 2025, 11:02 PM_
+‘shining star in sky’ over denmark’s billund airport shows level of drone anxiety" }
+Rasotioagee@{ shape: win-pane, label: "_Published Sep 28, 2025, 08:50 AM_
+Russia steps up provocations in europe, alarming leaders there" }
+MvepaaenEak@{ shape: win-pane, label: "_Published Sep 25, 2025, 08:52 PM_
+Moldova faces key parliamentary election, with eu bid at stake" }
+Rasrnicatoo@{ shape: win-pane, label: "_Published Sep 19, 2025, 11:15 PM_
+Russian jets enter estonia’s airspace in latest test for nato" }
+PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
+Poland shoots down drones, the first nato member to open fire during ukraine war" }
+Gnarwerr@{ shape: win-pane, label: "_Published Sep 10, 2025, 01:08 AM_
+Germany to back ukraine with ‘deep-strike’ drones" }
+Raserkcioten@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:37 PM_
+Russian air strike in ukraine kills 23 civilians collecting pensions" }
+Raidnocralpd@{ shape: win-pane, label: "_Published Sep 09, 2025, 11:36 PM_
+Russia’s putin ready to invade other countries, says poland’s president" }
+Raidnocralpd@{ shape: win-pane, label: "_Published Sep 09, 2025, 11:36 PM_
+Russia’s putin ready to invade other countries, says poland’s president" }
+RaUnhercasrtdb@{ shape: win-pane, label: "_Published Sep 07, 2025, 10:16 AM_
+Russia hits ukraine with biggest air attack of war, sets government building ablaze" }
+TwmlNcWHwyke@{ shape: win-pane, label: "_Published Sep 03, 2025, 11:50 PM_
+Trump welcomes poland’s nawrocki to white house with eye on ukraine" }
+
+Eaftsolsttius:::txtsize --> Edouolekaaaoo:::txtsize
+Edouolekaaaoo:::txtsize --> Drsrinehirtt:::txtsize
+Drsrinehirtt:::txtsize --> DsiithChOit:::txtsize
+Drsrinehirtt:::txtsize --> SnryDrlarwerny:::txtsize
+Edouolekaaaoo:::txtsize --> Rasotioagee:::txtsize
+Rasotioagee:::txtsize --> MvepaaenEak:::txtsize
+Rasotioagee:::txtsize --> Rasrnicatoo:::txtsize
+Eaftsolsttius:::txtsize --> PdtnefNetndgir:::txtsize
+PdtnefNetndgir:::txtsize --> Gnarwerr:::txtsize
+Gnarwerr:::txtsize --> Raserkcioten:::txtsize
+Gnarwerr:::txtsize --> Raidnocralpd:::txtsize
+PdtnefNetndgir:::txtsize --> Raidnocralpd:::txtsize
+Raidnocralpd:::txtsize --> RaUnhercasrtdb:::txtsize
+Raidnocralpd:::txtsize --> TwmlNcWHwyke:::txtsize
+
 Traezvfep@{ shape: win-pane, label: "_Published Oct 15, 2025, 10:48 AM_
 Trump rails at time magazine over unflattering photo" }
 Hholissrrazo@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:47 PM_
@@ -62,92 +154,6 @@ TtvriMe:::txtsize --> Thtndrltasact:::txtsize
 Thtndrltasact:::txtsize --> TsogrrsiPtnesiais:::txtsize
 Thtndrltasact:::txtsize --> TjIlmnest:::txtsize
 
-IgimnfereGn@{ shape: win-pane, label: "_Published Oct 15, 2025, 09:40 AM_
-Instagram will limit content for teenagers based on pg-13 ratings" }
-Aaaceaogfinci@{ shape: win-pane, label: "_Published Oct 14, 2025, 03:15 PM_
-Australia says social media ban is ‘for the good of our kids’ in new ad campaign" }
-Aaaslaolu@{ shape: win-pane, label: "_Published Nov 28, 2024, 08:33 PM_
-Australia passes social media ban for children under 16" }
-TarHaoeceeoni@{ shape: win-pane, label: "_Published Nov 09, 2024, 05:00 AM_
-Teens and screens: how smartphones helped create a more anxious generation" }
-Yaodtigeiontvaeh@{ shape: win-pane, label: "_Published Nov 09, 2024, 05:00 AM_
-Young and troubled: more teens in singapore getting hooked on digital devices and seeking help" }
-Ybntaaiwopda@{ shape: win-pane, label: "_Published Oct 13, 2025, 08:56 AM_
-Youtube warns australia social media ban will not keep children safe" }
-Aaaslaolu@{ shape: win-pane, label: "_Published Nov 28, 2024, 08:33 PM_
-Australia passes social media ban for children under 16" }
-Aaailvehutomb@{ shape: win-pane, label: "_Published Sep 16, 2025, 11:06 AM_
-Australia wants ‘minimally invasive’ age checks under teen social media ban" }
-Biurlafobc@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:30 PM_
-Britain issues first online safety fine to us website 4chan" }
-InrasigoSfp@{ shape: win-pane, label: "_Published Aug 28, 2025, 07:44 PM_
-Internet forum 4chan sues british regulator in us over free speech" }
-Biuhnemfamee@{ shape: win-pane, label: "_Published Oct 17, 2024, 07:22 PM_
-Britain to publish online safety demands for platforms in december" }
-Hsroare@{ shape: win-pane, label: "_Published Aug 01, 2022, 06:30 PM_
-How misinformation derails free speech" }
-Ninesohshdsm@{ shape: win-pane, label: "_Published Apr 16, 2025, 07:05 AM_
-Notorious internet message board 4chan has been hacked, posts claim" }
-Hfimgpdudswa@{ shape: win-pane, label: "_Published Mar 26, 2025, 12:10 AM_
-How safe is signal messaging app used by trump aides to share war plans?" }
-craosrani@{ shape: win-pane, label: "_Published Nov 09, 2024, 11:13 AM_
-50 countries warn un of ransomware attacks on hospitals" }
-
-IgimnfereGn:::txtsize --> Aaaceaogfinci:::txtsize
-Aaaceaogfinci:::txtsize --> Aaaslaolu:::txtsize
-Aaaslaolu:::txtsize --> TarHaoeceeoni:::txtsize
-Aaaslaolu:::txtsize --> Yaodtigeiontvaeh:::txtsize
-Aaaceaogfinci:::txtsize --> Ybntaaiwopda:::txtsize
-Ybntaaiwopda:::txtsize --> Aaaslaolu:::txtsize
-Ybntaaiwopda:::txtsize --> Aaailvehutomb:::txtsize
-IgimnfereGn:::txtsize --> Biurlafobc:::txtsize
-Biurlafobc:::txtsize --> InrasigoSfp:::txtsize
-InrasigoSfp:::txtsize --> Biuhnemfamee:::txtsize
-InrasigoSfp:::txtsize --> Hsroare:::txtsize
-Biurlafobc:::txtsize --> Ninesohshdsm:::txtsize
-Ninesohshdsm:::txtsize --> Hfimgpdudswa:::txtsize
-Ninesohshdsm:::txtsize --> craosrani:::txtsize
-
-TttoWCtfooia@{ shape: win-pane, label: "_Published Oct 15, 2025, 09:33 AM_
-Trump threatens to pull world cup matches from boston over city’s mayor" }
-Tsssiioeeatoue@{ shape: win-pane, label: "_Published Sep 26, 2025, 01:45 PM_
-Trump suggests unsafe cities in us could be booted out as hosts of world cup games" }
-WonpniGtsi@{ shape: win-pane, label: "_Published Sep 03, 2025, 05:59 AM_
-‘we’re going in’: trump to send national guard troops to chicago" }
-Ugcumtoeonns@{ shape: win-pane, label: "_Published Sep 02, 2025, 09:49 PM_
-Us judge blocks trump administration’s use of troops in los angeles" }
-Tvorndrii@{ shape: win-pane, label: "_Published Sep 02, 2025, 09:24 PM_
-Trump vows to end crime in ‘most dangerous city’ chicago" }
-TiebnouOiUhvoe@{ shape: win-pane, label: "_Published Sep 24, 2025, 07:49 AM_
-Trump invites global fans to world cup and olympics as us tightens visa policies" }
-Ygtlpcarnhp@{ shape: win-pane, label: "_Published Sep 24, 2025, 06:51 AM_
-‘you’re going to hell’: trump attacks un and europe in scathing speech" }
-Emtirodeitrap@{ shape: win-pane, label: "_Published Sep 09, 2025, 11:57 PM_
-Extreme heat a rising threat to 2026 world cup venues in north america, says report" }
-TiebnouOiUhvoe@{ shape: win-pane, label: "_Published Sep 24, 2025, 07:49 AM_
-Trump invites global fans to world cup and olympics as us tightens visa policies" }
-Ygtlpcarnhp@{ shape: win-pane, label: "_Published Sep 24, 2025, 06:51 AM_
-‘you’re going to hell’: trump attacks un and europe in scathing speech" }
-TtUtaastogl@{ shape: win-pane, label: "_Published Sep 24, 2025, 12:17 AM_
-Trump tells un that climate change is ‘greatest con job’ globally" }
-Emtirodeitrap@{ shape: win-pane, label: "_Published Sep 09, 2025, 11:57 PM_
-Extreme heat a rising threat to 2026 world cup venues in north america, says report" }
-Udntneabdnfss@{ shape: win-pane, label: "_Published Jul 03, 2025, 04:35 AM_
-Underdogs and heat dominate debate as club world cup enters final stages" }
-
-TttoWCtfooia:::txtsize --> Tsssiioeeatoue:::txtsize
-Tsssiioeeatoue:::txtsize --> WonpniGtsi:::txtsize
-WonpniGtsi:::txtsize --> Ugcumtoeonns:::txtsize
-WonpniGtsi:::txtsize --> Tvorndrii:::txtsize
-Tsssiioeeatoue:::txtsize --> TiebnouOiUhvoe:::txtsize
-TiebnouOiUhvoe:::txtsize --> Ygtlpcarnhp:::txtsize
-TiebnouOiUhvoe:::txtsize --> Emtirodeitrap:::txtsize
-TttoWCtfooia:::txtsize --> TiebnouOiUhvoe:::txtsize
-TiebnouOiUhvoe:::txtsize --> Ygtlpcarnhp:::txtsize
-Ygtlpcarnhp:::txtsize --> TtUtaastogl:::txtsize
-TiebnouOiUhvoe:::txtsize --> Emtirodeitrap:::txtsize
-Emtirodeitrap:::txtsize --> Udntneabdnfss:::txtsize
-
 ```
-<i>Last updated: 2025-10-15 12:01:16.572838 (GMT+8)</i>
+<i>Last updated: 2025-10-15 16:00:48.595512 (GMT+8)</i>
 <!-- END -->
