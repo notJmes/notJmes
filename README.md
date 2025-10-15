@@ -16,141 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-CsloeptpnriSe@{ shape: win-pane, label: "_Published Oct 15, 2025, 02:02 AM_
-Chinese airlines oppose trump plan to stop flying over russia on us routes" }
-TpsrCslflouoo@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:13 AM_
-Trump proposes barring chinese airlines from flying over russia on us routes" }
-Cruehromouiftt@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:48 PM_
-China ramps up rare earth restrictions, in move to beef up position for us trade talks" }
-Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
-China tightens rare earth export controls and targets defence, semiconductor users" }
-PammueCriiarmn@{ shape: win-pane, label: "_Published Oct 09, 2025, 08:35 PM_
-Pragmatism may temper turbulent us-china relationship: asia future summit panel" }
-Cruehromouiftt@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:48 PM_
-China ramps up rare earth restrictions, in move to beef up position for us trade talks" }
-Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
-China tightens rare earth export controls and targets defence, semiconductor users" }
-PammueCriiarmn@{ shape: win-pane, label: "_Published Oct 09, 2025, 08:35 PM_
-Pragmatism may temper turbulent us-china relationship: asia future summit panel" }
-Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
-Timeline: how russia's attack on ukraine unfolded" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
-Explosions heard in ukraine capital kyiv, other cities" }
-OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
-Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
-BsSeloutdcuoa@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:18 PM_
-Biden says us, allies will respond to 'unjustified' attack by russia on ukraine" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
+Tseulooopath@{ shape: win-pane, label: "_Published Oct 15, 2025, 07:55 AM_
+Trump says he will unveil list on oct 17 of ‘democrat programmes’ to be shut" }
+Ugbttoaphesd@{ shape: win-pane, label: "_Published Sep 29, 2025, 08:35 AM_
+Us congress budget negotiations: what happens when the govt shuts down?" }
+RlsDroeorleomp@{ shape: win-pane, label: "_Published Sep 29, 2025, 12:28 AM_
+Republicans urge democrats to agree to short-term bill to keep us government open" }
+TttosadnWHoiy@{ shape: win-pane, label: "_Published Sep 28, 2025, 08:43 AM_
+Trump to meet top congressional leaders on sept 29, white house official says" }
+Ttscaemafveun@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:50 AM_
+Threat of mass job cuts raises economic stakes of us government shutdown" }
+Tsvaonuiyr@{ shape: win-pane, label: "_Published Sep 26, 2025, 05:00 AM_
+Trump slaps ‘visa tax’ on foreigners, but us will pay the price" }
+Uctfescnl@{ shape: win-pane, label: "_Published Sep 24, 2025, 05:29 AM_
+Us stocks retreat from records as tech giants fall" }
+Uoyfpensdrn@{ shape: win-pane, label: "_Published Oct 13, 2025, 08:39 PM_
+Us troops may miss first paychecks on oct 15 as shutdown drags on" }
+TsSwpouso@{ shape: win-pane, label: "_Published Oct 12, 2025, 03:11 AM_
+Trump says us has a way to pay troops during shutdown" }
+DreipdoeSdletpon@{ shape: win-pane, label: "_Published Oct 09, 2025, 06:08 PM_
+Democrats, republicans, president to blame for us shutdown? all three, reuters/ipsos poll finds" }
+Trragsunats@{ shape: win-pane, label: "_Published Oct 10, 2025, 10:00 PM_
+Tempers flare in washington as us shutdown threatens troops’ pay" }
+SbedsdtasiWn@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:56 AM_
+Stock bubble dread grips world’s central bankers meeting in washington" }
+IesblvoehnjfpTtdi@{ shape: win-pane, label: "_Published Oct 10, 2025, 11:30 AM_
+‘i believe it’s a bubble’: will ai ever produce enough revenue to justify the price? the maths is daunting" }
+BraAunacbiarot@{ shape: win-pane, label: "_Published Oct 09, 2025, 07:20 AM_
+Boe warns soaring ai valuations rival dot.com bubble, risk sharp market correction" }
 
-CsloeptpnriSe:::txtsize --> TpsrCslflouoo:::txtsize
-TpsrCslflouoo:::txtsize --> Cruehromouiftt:::txtsize
-Cruehromouiftt:::txtsize --> Ctertonsasnmdrs:::txtsize
-Cruehromouiftt:::txtsize --> PammueCriiarmn:::txtsize
-TpsrCslflouoo:::txtsize --> Cruehromouiftt:::txtsize
-Cruehromouiftt:::txtsize --> Ctertonsasnmdrs:::txtsize
-Cruehromouiftt:::txtsize --> PammueCriiarmn:::txtsize
-CsloeptpnriSe:::txtsize --> Tiwitnifd:::txtsize
-Tiwitnifd:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
-DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
-Tiwitnifd:::txtsize --> BsSeloutdcuoa:::txtsize
-BsSeloutdcuoa:::txtsize --> DsruasvUn:::txtsize
+Tseulooopath:::txtsize --> Ugbttoaphesd:::txtsize
+Ugbttoaphesd:::txtsize --> RlsDroeorleomp:::txtsize
+RlsDroeorleomp:::txtsize --> TttosadnWHoiy:::txtsize
+Ugbttoaphesd:::txtsize --> Ttscaemafveun:::txtsize
+Ttscaemafveun:::txtsize --> Tsvaonuiyr:::txtsize
+Ttscaemafveun:::txtsize --> Uctfescnl:::txtsize
+Tseulooopath:::txtsize --> Uoyfpensdrn:::txtsize
+Uoyfpensdrn:::txtsize --> TsSwpouso:::txtsize
+TsSwpouso:::txtsize --> DreipdoeSdletpon:::txtsize
+TsSwpouso:::txtsize --> Trragsunats:::txtsize
+Uoyfpensdrn:::txtsize --> SbedsdtasiWn:::txtsize
+SbedsdtasiWn:::txtsize --> IesblvoehnjfpTtdi:::txtsize
+SbedsdtasiWn:::txtsize --> BraAunacbiarot:::txtsize
 
-Aselnzfsuk@{ shape: win-pane, label: "_Published Oct 15, 2025, 01:44 AM_
-At least 14 miners killed in venezuela floods: rescue workers" }
-AsdiMod@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:05 AM_
-At least 64 dead, 65 missing in mexico floods" }
-Asdrelsphpex@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:29 AM_
-At least 47 dead after torrential rains sweep away homes, people in mexico" }
-Ssrsotnrseprsc@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:18 AM_
-Spain suffers fresh floods as torrential rains strike, trapping drivers amid ‘chaos’" }
-Tavtfspik@{ shape: win-pane, label: "_Published Oct 10, 2025, 09:41 PM_
-Thousands evacuated as floods swamp hanoi outskirts" }
-Ssrsotnrseprsc@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:18 AM_
-Spain suffers fresh floods as torrential rains strike, trapping drivers amid ‘chaos’" }
-Ericrerys@{ shape: win-pane, label: "_Published Oct 09, 2025, 08:25 PM_
-Eastern spain placed on red alert for heavy rains" }
-Sdrswntwfktosi@{ shape: win-pane, label: "_Published Nov 14, 2024, 08:55 PM_
-Spain downgrades storm warnings after towns left soaked but without casualties" }
-Ssrsotnrseprsc@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:18 AM_
-Spain suffers fresh floods as torrential rains strike, trapping drivers amid ‘chaos’" }
-Ericrerys@{ shape: win-pane, label: "_Published Oct 09, 2025, 08:25 PM_
-Eastern spain placed on red alert for heavy rains" }
-Slshrlann@{ shape: win-pane, label: "_Published Sep 29, 2025, 05:41 PM_
-Schools closed as heavy rains lash eastern spain" }
-Oaeaiin@{ shape: win-pane, label: "_Published Sep 22, 2025, 08:50 AM_
-One dead as heavy rains hit spain, france" }
-Sdrswntwfktosi@{ shape: win-pane, label: "_Published Nov 14, 2024, 08:55 PM_
-Spain downgrades storm warnings after towns left soaked but without casualties" }
-Hrlpfefs@{ shape: win-pane, label: "_Published Nov 13, 2024, 09:15 PM_
-Heavy rains lash spain after deadly floods" }
-Ssotbfos@{ shape: win-pane, label: "_Published Nov 13, 2024, 12:44 AM_
-Spanish flood-hit towns brace for another storm" }
+Taitarhernunn@{ shape: win-pane, label: "_Published Oct 15, 2025, 07:40 AM_
+Trump administration says 4,108 workers have been fired since shutdown began" }
+Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
+Us government begins shutdown that may lead to mass layoffs and cuts" }
+TsSrtpbun@{ shape: win-pane, label: "_Published Oct 01, 2025, 01:49 AM_
+Trump says us government will ‘probably’ shut down" }
+Ugbttoaphesd@{ shape: win-pane, label: "_Published Sep 29, 2025, 08:35 AM_
+Us congress budget negotiations: what happens when the govt shuts down?" }
+VsSesotewea@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:58 AM_
+Vance says us ‘headed to a shutdown’ after meeting with democrats" }
+Trragsunats@{ shape: win-pane, label: "_Published Oct 10, 2025, 10:00 PM_
+Tempers flare in washington as us shutdown threatens troops’ pay" }
+DreipdoeSdletpon@{ shape: win-pane, label: "_Published Oct 09, 2025, 06:08 PM_
+Democrats, republicans, president to blame for us shutdown? all three, reuters/ipsos poll finds" }
+Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
+Us government begins shutdown that may lead to mass layoffs and cuts" }
+FtyerSuni@{ shape: win-pane, label: "_Published Oct 09, 2025, 06:59 AM_
+Flight delays pile up across us as shutdown persists" }
+Sisaeaithws@{ shape: win-pane, label: "_Published Oct 07, 2025, 07:49 AM_
+Staffing issues cause delays at us airports as shutdown persists" }
+SKnortiottkontl@{ shape: win-pane, label: "_Published Sep 12, 2025, 12:45 PM_
+South korean airport workers to strike from sept 19 to oct 9, sparking concerns for travellers" }
 
-Aselnzfsuk:::txtsize --> AsdiMod:::txtsize
-AsdiMod:::txtsize --> Asdrelsphpex:::txtsize
-Asdrelsphpex:::txtsize --> Ssrsotnrseprsc:::txtsize
-Asdrelsphpex:::txtsize --> Tavtfspik:::txtsize
-AsdiMod:::txtsize --> Ssrsotnrseprsc:::txtsize
-Ssrsotnrseprsc:::txtsize --> Ericrerys:::txtsize
-Ssrsotnrseprsc:::txtsize --> Sdrswntwfktosi:::txtsize
-Aselnzfsuk:::txtsize --> Ssrsotnrseprsc:::txtsize
-Ssrsotnrseprsc:::txtsize --> Ericrerys:::txtsize
-Ericrerys:::txtsize --> Slshrlann:::txtsize
-Ericrerys:::txtsize --> Oaeaiin:::txtsize
-Ssrsotnrseprsc:::txtsize --> Sdrswntwfktosi:::txtsize
-Sdrswntwfktosi:::txtsize --> Hrlpfefs:::txtsize
-Sdrswntwfktosi:::txtsize --> Ssotbfos:::txtsize
+Taitarhernunn:::txtsize --> Ueniunmaayat:::txtsize
+Ueniunmaayat:::txtsize --> TsSrtpbun:::txtsize
+TsSrtpbun:::txtsize --> Ugbttoaphesd:::txtsize
+TsSrtpbun:::txtsize --> VsSesotewea:::txtsize
+Taitarhernunn:::txtsize --> Trragsunats:::txtsize
+Trragsunats:::txtsize --> DreipdoeSdletpon:::txtsize
+DreipdoeSdletpon:::txtsize --> Ueniunmaayat:::txtsize
+DreipdoeSdletpon:::txtsize --> FtyerSuni:::txtsize
+Trragsunats:::txtsize --> Sisaeaithws:::txtsize
+Sisaeaithws:::txtsize --> SKnortiottkontl:::txtsize
 
-GerwertUtfo@{ shape: win-pane, label: "_Published Oct 15, 2025, 01:38 AM_
-Google offers to tweak search results as eu antitrust fine looms" }
-GeilEitodpi@{ shape: win-pane, label: "_Published Sep 06, 2025, 04:18 AM_
-Google hit with $4 billion eu antitrust fine over adtech practices" }
-Geplisiworyre@{ shape: win-pane, label: "_Published Sep 04, 2025, 07:40 AM_
-Google must pay $547 million in class action lawsuit over privacy, us jury rules" }
-GedItemoyOre@{ shape: win-pane, label: "_Published Apr 22, 2025, 03:08 AM_
-Google could use ai to extend search monopoly, says us doj as trial begins" }
-Geopmnfeppsmiofd@{ shape: win-pane, label: "_Published Aug 26, 2025, 02:53 PM_
-Google to block apps from all unverified developers, s’pore users among first to be affected" }
-Geeeerntvr@{ shape: win-pane, label: "_Published Sep 03, 2025, 05:39 AM_
-Google not required to sell chrome in antitrust victory" }
-GengnyaSes@{ shape: win-pane, label: "_Published Aug 06, 2024, 07:03 AM_
-Google has an illegal monopoly on search, us judge finds" }
-Utemisgshtarny@{ shape: win-pane, label: "_Published Nov 19, 2024, 08:45 AM_
-Us justice department will push google to sell chrome to break search monopoly" }
-Nryslaaflligd@{ shape: win-pane, label: "_Published Oct 09, 2025, 06:45 AM_
-New york city sues social media companies for allegedly addicting children" }
-Gntnteirhl@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:00 PM_
-Gen z anger at ruling elites is erupting across the world" }
-McsrultoZe@{ shape: win-pane, label: "_Published Oct 02, 2025, 11:19 AM_
-Morocco says hundreds hurt in latest wave of gen z protests" }
-Niemfeodos@{ shape: win-pane, label: "_Published Sep 12, 2025, 07:00 PM_
-Nepalis assess damage after terror of deadly protests" }
-Moeinnekisbyl@{ shape: win-pane, label: "_Published Sep 11, 2025, 09:40 AM_
-More young people in china going under the knife in quest for ‘beauty ideal’" }
-Cwskoiornr@{ shape: win-pane, label: "_Published Jul 07, 2025, 09:50 AM_
-China widens crackdown on illicit botox training courses" }
-Fgiateinpsy@{ shape: win-pane, label: "_Published Aug 28, 2025, 02:48 PM_
-Foreign patients at south korea’s skin clinics up 117 times over 15 years" }
+Uinastgmmnn@{ shape: win-pane, label: "_Published Oct 15, 2025, 07:24 AM_
+Us adviser on india accused of taking documents, meeting chinese" }
+TslfftiaeopU@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:05 PM_
+Trump’s doubling of tariffs hits india, damages relationship with us" }
+ItnRaitprhsrtcy@{ shape: win-pane, label: "_Published Aug 02, 2025, 07:04 PM_
+India to maintain russian oil imports despite trump threats, government sources say" }
+Unsenyirnidhe@{ shape: win-pane, label: "_Published Aug 01, 2025, 09:24 PM_
+Ukraine says 31 killed in end-july russian strike on kyiv, including 5 children" }
+Rainisiyminsi@{ shape: win-pane, label: "_Published Aug 01, 2025, 05:24 AM_
+Russia’s actions in ukraine ‘disgusting’, says trump, indicating new sanctions" }
+Tinnhdftirives@{ shape: win-pane, label: "_Published Jul 02, 2025, 02:35 AM_
+Two chinese nationals charged by us for attempting to recruit service members" }
+CcCdbapets@{ shape: win-pane, label: "_Published Jun 25, 2025, 01:25 PM_
+China calls cia videos ‘absurd’ attempt to recruit spies" }
+UeegwCiirienls@{ shape: win-pane, label: "_Published Apr 09, 2025, 08:49 AM_
+Us intelligence agency warns china is trying to recruit government employees" }
+Csxnoedegeefge@{ shape: win-pane, label: "_Published Mar 19, 2025, 12:10 PM_
+China says ex-engineer to be executed for leaking state secrets to foreign power" }
+Uennbgsheo@{ shape: win-pane, label: "_Published Jun 25, 2025, 12:44 AM_
+Uk government to invest $1b to fight rising chinese espionage" }
+Homtyietnaaut@{ shape: win-pane, label: "_Published Mar 06, 2025, 05:21 PM_
+Hong kong democrat jimmy lai finishes testifying in national security trial" }
+Ueooneaaoh@{ shape: win-pane, label: "_Published May 16, 2025, 06:42 PM_
+Uk names son of ex-hong kong governor as ambassador to china" }
 
-GerwertUtfo:::txtsize --> GeilEitodpi:::txtsize
-GeilEitodpi:::txtsize --> Geplisiworyre:::txtsize
-Geplisiworyre:::txtsize --> GedItemoyOre:::txtsize
-Geplisiworyre:::txtsize --> Geopmnfeppsmiofd:::txtsize
-GeilEitodpi:::txtsize --> Geeeerntvr:::txtsize
-Geeeerntvr:::txtsize --> GengnyaSes:::txtsize
-Geeeerntvr:::txtsize --> Utemisgshtarny:::txtsize
-GerwertUtfo:::txtsize --> Nryslaaflligd:::txtsize
-Nryslaaflligd:::txtsize --> Gntnteirhl:::txtsize
-Gntnteirhl:::txtsize --> McsrultoZe:::txtsize
-Gntnteirhl:::txtsize --> Niemfeodos:::txtsize
-Nryslaaflligd:::txtsize --> Moeinnekisbyl:::txtsize
-Moeinnekisbyl:::txtsize --> Cwskoiornr:::txtsize
-Moeinnekisbyl:::txtsize --> Fgiateinpsy:::txtsize
+Uinastgmmnn:::txtsize --> TslfftiaeopU:::txtsize
+TslfftiaeopU:::txtsize --> ItnRaitprhsrtcy:::txtsize
+ItnRaitprhsrtcy:::txtsize --> Unsenyirnidhe:::txtsize
+ItnRaitprhsrtcy:::txtsize --> Rainisiyminsi:::txtsize
+Uinastgmmnn:::txtsize --> Tinnhdftirives:::txtsize
+Tinnhdftirives:::txtsize --> CcCdbapets:::txtsize
+CcCdbapets:::txtsize --> UeegwCiirienls:::txtsize
+CcCdbapets:::txtsize --> Csxnoedegeefge:::txtsize
+Tinnhdftirives:::txtsize --> Uennbgsheo:::txtsize
+Uennbgsheo:::txtsize --> Homtyietnaaut:::txtsize
+Uennbgsheo:::txtsize --> Ueooneaaoh:::txtsize
 
 ```
-<i>Last updated: 2025-10-15 04:00:39.106483 (GMT+8)</i>
+<i>Last updated: 2025-10-15 08:01:46.019811 (GMT+8)</i>
 <!-- END -->
