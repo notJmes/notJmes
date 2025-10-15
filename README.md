@@ -16,122 +16,113 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Niegcsrmun@{ shape: win-pane, label: "_Published Oct 15, 2025, 03:25 PM_
-Nigerian teenage girls chase soccer dreams in muslim north" }
-SaeregpnniLeh@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:05 PM_
-Special mom-ent for mother-daughter pair in women’s national league match" }
-AeglWsiaiiet@{ shape: win-pane, label: "_Published Sep 29, 2025, 01:18 AM_
-Albirex niigata clinch women’s premier league title with one game to go" }
-NnolsanSmb@{ shape: win-pane, label: "_Published Sep 25, 2025, 05:00 AM_
-National footballer irsalina irwan eyes sea games debut" }
-Ntlnaciatnapngpne@{ shape: win-pane, label: "_Published Sep 16, 2025, 10:43 PM_
-New national women’s u-19 head coach manisha tailor taps on england experience to grow sport in s’pore" }
-WsialrwiombsR@{ shape: win-pane, label: "_Published Apr 05, 2025, 12:18 AM_
-Women’s premier league all-stars draw inspiration from 7-1 rout by brisbane roar" }
-SpolaeaomobasR@{ shape: win-pane, label: "_Published Jan 28, 2025, 02:02 PM_
-Singapore footballer danelle tan wants to have more to celebrate at brisbane roar" }
-WCaafsimolBaay@{ shape: win-pane, label: "_Published Apr 03, 2025, 10:33 PM_
-World cup a game-changer for australian women’s football, say brisbane roar players" }
-Bseipeiaapc@{ shape: win-pane, label: "_Published Sep 04, 2025, 09:40 PM_
-‘biggest’ women’s asian cup can help drive change, says top official" }
-Lfrwuneeeesua@{ shape: win-pane, label: "_Published Sep 03, 2025, 07:27 PM_
-Lions forward shawal anuar continues to defy age as he eyes asian cup dream" }
-Faoaooagpsogfo@{ shape: win-pane, label: "_Published Dec 29, 2022, 08:31 PM_
-Football: lions’ shawal goes from cleaning glass panels to scoring goals for s’pore" }
-YLrgiaelreets@{ shape: win-pane, label: "_Published Sep 02, 2025, 08:53 PM_
-Young lions raring to go in asian under-23 qualifiers after recent setbacks" }
-YLrgiaelreets@{ shape: win-pane, label: "_Published Sep 02, 2025, 08:53 PM_
-Young lions raring to go in asian under-23 qualifiers after recent setbacks" }
-YLaseeRntfaog@{ shape: win-pane, label: "_Published Aug 06, 2025, 06:57 PM_
-Young lions and distance runner soh rui yong left out of sea games contingent" }
-YLaseeRnaleoGcn@{ shape: win-pane, label: "_Published Aug 28, 2025, 08:16 PM_
-Young lions and distance runner soh rui yong win appeals to be part of sea games contingent" }
+ChoryruU@{ shape: win-pane, label: "_Published Oct 15, 2025, 07:30 PM_
+Co2 in the atmosphere up by record amount in 2024: un" }
+Ntnosager@{ shape: win-pane, label: "_Published Oct 13, 2025, 11:10 AM_
+Not nothing, not enough: is the paris agreement working?" }
+Smhotanrmor@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:31 AM_
+September third-hottest globally on record: climate monitor" }
+Hogomfhtd@{ shape: win-pane, label: "_Published Oct 08, 2025, 10:05 PM_
+Hong kong logs record number of ‘very hot’ october days" }
+SmatnraOw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:55 PM_
+September was hottest on record in japan’s okinawa" }
+Ranghsocne@{ shape: win-pane, label: "_Published Oct 07, 2025, 01:21 PM_
+Renewable energy growth slows due to policy changes: report" }
+Ctlilranbhattlgn@{ shape: win-pane, label: "_Published Sep 24, 2024, 01:25 PM_
+Climate goal to triple global renewable energy by 2030 within reach: international energy agency" }
+Ualeeuakfabe@{ shape: win-pane, label: "_Published Jun 30, 2025, 11:41 PM_
+Us senate bill’s clean energy cuts draw backlash from labour, business" }
+Smhotanrmor@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:31 AM_
+September third-hottest globally on record: climate monitor" }
+Hogomfhtd@{ shape: win-pane, label: "_Published Oct 08, 2025, 10:05 PM_
+Hong kong logs record number of ‘very hot’ october days" }
+SKsewstrc@{ shape: win-pane, label: "_Published Oct 02, 2025, 07:45 PM_
+South korea sees second-warmest september on record" }
+SmatnraOw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:55 PM_
+September was hottest on record in japan’s okinawa" }
+SmatnraOw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:55 PM_
+September was hottest on record in japan’s okinawa" }
+JseheaoC@{ shape: win-pane, label: "_Published Jul 30, 2025, 03:51 PM_
+Japan sees record high temperature of 41.2 deg c" }
+JSKhtsrcn@{ shape: win-pane, label: "_Published Sep 01, 2025, 04:19 PM_
+Japan, south korea had hottest summer on record in 2025" }
 
-Niegcsrmun:::txtsize --> SaeregpnniLeh:::txtsize
-SaeregpnniLeh:::txtsize --> AeglWsiaiiet:::txtsize
-AeglWsiaiiet:::txtsize --> NnolsanSmb:::txtsize
-AeglWsiaiiet:::txtsize --> Ntlnaciatnapngpne:::txtsize
-SaeregpnniLeh:::txtsize --> WsialrwiombsR:::txtsize
-WsialrwiombsR:::txtsize --> SpolaeaomobasR:::txtsize
-WsialrwiombsR:::txtsize --> WCaafsimolBaay:::txtsize
-Niegcsrmun:::txtsize --> Bseipeiaapc:::txtsize
-Bseipeiaapc:::txtsize --> Lfrwuneeeesua:::txtsize
-Lfrwuneeeesua:::txtsize --> Faoaooagpsogfo:::txtsize
-Lfrwuneeeesua:::txtsize --> YLrgiaelreets:::txtsize
-Bseipeiaapc:::txtsize --> YLrgiaelreets:::txtsize
-YLrgiaelreets:::txtsize --> YLaseeRntfaog:::txtsize
-YLrgiaelreets:::txtsize --> YLaseeRnaleoGcn:::txtsize
+ChoryruU:::txtsize --> Ntnosager:::txtsize
+Ntnosager:::txtsize --> Smhotanrmor:::txtsize
+Smhotanrmor:::txtsize --> Hogomfhtd:::txtsize
+Smhotanrmor:::txtsize --> SmatnraOw:::txtsize
+Ntnosager:::txtsize --> Ranghsocne:::txtsize
+Ranghsocne:::txtsize --> Ctlilranbhattlgn:::txtsize
+Ranghsocne:::txtsize --> Ualeeuakfabe:::txtsize
+ChoryruU:::txtsize --> Smhotanrmor:::txtsize
+Smhotanrmor:::txtsize --> Hogomfhtd:::txtsize
+Hogomfhtd:::txtsize --> SKsewstrc:::txtsize
+Hogomfhtd:::txtsize --> SmatnraOw:::txtsize
+Smhotanrmor:::txtsize --> SmatnraOw:::txtsize
+SmatnraOw:::txtsize --> JseheaoC:::txtsize
+SmatnraOw:::txtsize --> JSKhtsrcn:::txtsize
 
-Eaftsolsttius@{ shape: win-pane, label: "_Published Oct 15, 2025, 03:10 PM_
-Eu scramble for anti-russia ‘drone wall’ hits political, technical hurdles" }
-Edouolekaaaoo@{ shape: win-pane, label: "_Published Oct 01, 2025, 02:34 PM_
-Eu leaders to discuss ‘drone wall’ in denmark, days after airspace violations" }
-Drsrinehirtt@{ shape: win-pane, label: "_Published Sep 27, 2025, 05:28 PM_
-Denmark says new drone sightings overnight at military installations" }
-DsiithChOit@{ shape: win-pane, label: "_Published Sep 23, 2025, 08:52 AM_
-Drone sightings disrupt flights at copenhagen, oslo airports" }
-SnryDrlarwerny@{ shape: win-pane, label: "_Published Sep 26, 2025, 11:02 PM_
-‘shining star in sky’ over denmark’s billund airport shows level of drone anxiety" }
-Rasotioagee@{ shape: win-pane, label: "_Published Sep 28, 2025, 08:50 AM_
-Russia steps up provocations in europe, alarming leaders there" }
-MvepaaenEak@{ shape: win-pane, label: "_Published Sep 25, 2025, 08:52 PM_
-Moldova faces key parliamentary election, with eu bid at stake" }
-Rasrnicatoo@{ shape: win-pane, label: "_Published Sep 19, 2025, 11:15 PM_
-Russian jets enter estonia’s airspace in latest test for nato" }
-PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
-Poland shoots down drones, the first nato member to open fire during ukraine war" }
-Gnarwerr@{ shape: win-pane, label: "_Published Sep 10, 2025, 01:08 AM_
-Germany to back ukraine with ‘deep-strike’ drones" }
-Raserkcioten@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:37 PM_
-Russian air strike in ukraine kills 23 civilians collecting pensions" }
-Raidnocralpd@{ shape: win-pane, label: "_Published Sep 09, 2025, 11:36 PM_
-Russia’s putin ready to invade other countries, says poland’s president" }
-Raidnocralpd@{ shape: win-pane, label: "_Published Sep 09, 2025, 11:36 PM_
-Russia’s putin ready to invade other countries, says poland’s president" }
-RaUnhercasrtdb@{ shape: win-pane, label: "_Published Sep 07, 2025, 10:16 AM_
-Russia hits ukraine with biggest air attack of war, sets government building ablaze" }
-TwmlNcWHwyke@{ shape: win-pane, label: "_Published Sep 03, 2025, 11:50 PM_
-Trump welcomes poland’s nawrocki to white house with eye on ukraine" }
+Ilthoofaec@{ shape: win-pane, label: "_Published Oct 15, 2025, 06:36 PM_
+Israel pm netanyahu in court for graft trial appearance" }
+TuIlstreaororo@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:09 PM_
+Trump urges israel’s president to pardon netanyahu, who’s on trial for corruption" }
+Ilrtsnarifa@{ shape: win-pane, label: "_Published Jun 29, 2025, 09:03 PM_
+Israeli court postpones netanyahu appearance in graft trial" }
+NysuporiimLr@{ shape: win-pane, label: "_Published Jun 26, 2025, 10:36 PM_
+Netanyahu asks court to postpone corruption trial summons: lawyer" }
+Tssithriioee@{ shape: win-pane, label: "_Published Jun 26, 2025, 08:10 AM_
+Trump says israeli pm netanyahu’s corruption trial should be cancelled" }
+Ilnvfteeveeaotr@{ shape: win-pane, label: "_Published Aug 05, 2025, 12:55 PM_
+Israel cabinet moves to fire attorney-general overseeing netanyahu’s corruption trial" }
+IlceeGfeille@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:00 AM_
+Israel to decide next steps in gaza after ceasefire talks collapse" }
+Nyofemar@{ shape: win-pane, label: "_Published Aug 05, 2025, 01:50 AM_
+Netanyahu to brief israel’s army on gaza war plan" }
+TcfrPdooaudp@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:05 AM_
+Trump calls for israel’s president to pardon netanyahu. could it happen?" }
+TuIlstreaororo@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:09 PM_
+Trump urges israel’s president to pardon netanyahu, who’s on trial for corruption" }
+Ilrtsnarifa@{ shape: win-pane, label: "_Published Jun 29, 2025, 09:03 PM_
+Israeli court postpones netanyahu appearance in graft trial" }
+Ilnvfteeveeaotr@{ shape: win-pane, label: "_Published Aug 05, 2025, 12:55 PM_
+Israel cabinet moves to fire attorney-general overseeing netanyahu’s corruption trial" }
 
-Eaftsolsttius:::txtsize --> Edouolekaaaoo:::txtsize
-Edouolekaaaoo:::txtsize --> Drsrinehirtt:::txtsize
-Drsrinehirtt:::txtsize --> DsiithChOit:::txtsize
-Drsrinehirtt:::txtsize --> SnryDrlarwerny:::txtsize
-Edouolekaaaoo:::txtsize --> Rasotioagee:::txtsize
-Rasotioagee:::txtsize --> MvepaaenEak:::txtsize
-Rasotioagee:::txtsize --> Rasrnicatoo:::txtsize
-Eaftsolsttius:::txtsize --> PdtnefNetndgir:::txtsize
-PdtnefNetndgir:::txtsize --> Gnarwerr:::txtsize
-Gnarwerr:::txtsize --> Raserkcioten:::txtsize
-Gnarwerr:::txtsize --> Raidnocralpd:::txtsize
-PdtnefNetndgir:::txtsize --> Raidnocralpd:::txtsize
-Raidnocralpd:::txtsize --> RaUnhercasrtdb:::txtsize
-Raidnocralpd:::txtsize --> TwmlNcWHwyke:::txtsize
+Ilthoofaec:::txtsize --> TuIlstreaororo:::txtsize
+TuIlstreaororo:::txtsize --> Ilrtsnarifa:::txtsize
+Ilrtsnarifa:::txtsize --> NysuporiimLr:::txtsize
+Ilrtsnarifa:::txtsize --> Tssithriioee:::txtsize
+TuIlstreaororo:::txtsize --> Ilnvfteeveeaotr:::txtsize
+Ilnvfteeveeaotr:::txtsize --> IlceeGfeille:::txtsize
+Ilnvfteeveeaotr:::txtsize --> Nyofemar:::txtsize
+Ilthoofaec:::txtsize --> TcfrPdooaudp:::txtsize
+TcfrPdooaudp:::txtsize --> TuIlstreaororo:::txtsize
+TuIlstreaororo:::txtsize --> Ilrtsnarifa:::txtsize
+TuIlstreaororo:::txtsize --> Ilnvfteeveeaotr:::txtsize
 
-Traezvfep@{ shape: win-pane, label: "_Published Oct 15, 2025, 10:48 AM_
-Trump rails at time magazine over unflattering photo" }
-Hholissrrazo@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:47 PM_
-Hamas hands over all living hostages to israel; trump says gaza war over" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-FetGaoumo@{ shape: win-pane, label: "_Published Aug 22, 2025, 05:27 PM_
-Famine has struck gaza, says global hunger monitor" }
-Ilcaagmn@{ shape: win-pane, label: "_Published Nov 09, 2024, 10:03 PM_
-Israel rejects ‘biased’ warning of famine in gaza" }
-Ulfezsrda@{ shape: win-pane, label: "_Published Aug 22, 2025, 03:02 PM_
-Un declares famine in gaza; first ever in middle east" }
-TtvriMe@{ shape: win-pane, label: "_Published Oct 14, 2025, 06:20 AM_
-Trump takes victory lap in the middle east" }
-TsogrrsiPtnesiais@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:25 PM_
-Trump says ‘long nightmare’ over for israelis and palestinians, receives standing ovation in knesset" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Hholissrrazo@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:47 PM_
-Hamas hands over all living hostages to israel; trump says gaza war over" }
+Naueeueylare@{ shape: win-pane, label: "_Published Oct 15, 2025, 06:20 PM_
+Nvidia ceo huang welcomes return of employee held in gaza for two years" }
+Auotasooeea@{ shape: win-pane, label: "_Published Oct 15, 2025, 06:10 PM_
+Aid trucks roll into gaza as dispute over hostage bodies is paused" }
+Hhooeeearnc@{ shape: win-pane, label: "_Published Oct 15, 2025, 06:24 AM_
+Hamas hands over hostage bodies after israel threatens aid cut" }
+Tsausrsdaol@{ shape: win-pane, label: "_Published Oct 15, 2025, 03:10 AM_
+Trump says hamas must disarm or be disarmed, perhaps violently" }
+Thtndrltasact@{ shape: win-pane, label: "_Published Oct 14, 2025, 01:41 AM_
+Trump hails ‘tremendous day for middle east’ as leaders sign gaza declaration" }
+IlHhdbhnroe@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:54 PM_
+Israel says hamas handed over body that is not former hostage" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+IlaGRcioaaosao@{ shape: win-pane, label: "_Published Oct 15, 2025, 02:30 PM_
+Israel will allow gaza’s rafah crossing to open, ramp up aid, broadcaster kan reports" }
+Hhooeeearnc@{ shape: win-pane, label: "_Published Oct 15, 2025, 06:24 AM_
+Hamas hands over hostage bodies after israel threatens aid cut" }
+Tsausrsdaol@{ shape: win-pane, label: "_Published Oct 15, 2025, 03:10 AM_
+Trump says hamas must disarm or be disarmed, perhaps violently" }
+Hstdmseelntsi@{ shape: win-pane, label: "_Published Aug 02, 2025, 10:59 PM_
+Hamas says it won’t disarm unless independent palestinian state established" }
+Grrrfraeaet@{ shape: win-pane, label: "_Published Oct 14, 2025, 11:48 PM_
+Gaza truce brings relief, but arab states fear what comes next" }
 Thtndrltasact@{ shape: win-pane, label: "_Published Oct 14, 2025, 01:41 AM_
 Trump hails ‘tremendous day for middle east’ as leaders sign gaza declaration" }
 TsogrrsiPtnesiais@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:25 PM_
@@ -139,21 +130,21 @@ Trump says ‘long nightmare’ over for israelis and palestinians, receives sta
 TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
 Tears, joy in israel as hamas hands over first hostages" }
 
-Traezvfep:::txtsize --> Hholissrrazo:::txtsize
-Hholissrrazo:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Hholissrrazo:::txtsize --> FetGaoumo:::txtsize
-FetGaoumo:::txtsize --> Ilcaagmn:::txtsize
-FetGaoumo:::txtsize --> Ulfezsrda:::txtsize
-Traezvfep:::txtsize --> TtvriMe:::txtsize
-TtvriMe:::txtsize --> TsogrrsiPtnesiais:::txtsize
-TsogrrsiPtnesiais:::txtsize --> TssHaossaaorslaoe:::txtsize
-TsogrrsiPtnesiais:::txtsize --> Hholissrrazo:::txtsize
-TtvriMe:::txtsize --> Thtndrltasact:::txtsize
+Naueeueylare:::txtsize --> Auotasooeea:::txtsize
+Auotasooeea:::txtsize --> Hhooeeearnc:::txtsize
+Hhooeeearnc:::txtsize --> Tsausrsdaol:::txtsize
+Hhooeeearnc:::txtsize --> Thtndrltasact:::txtsize
+Auotasooeea:::txtsize --> IlHhdbhnroe:::txtsize
+IlHhdbhnroe:::txtsize --> Tdrcaaededlncbs:::txtsize
+IlHhdbhnroe:::txtsize --> IlaGRcioaaosao:::txtsize
+Naueeueylare:::txtsize --> Hhooeeearnc:::txtsize
+Hhooeeearnc:::txtsize --> Tsausrsdaol:::txtsize
+Tsausrsdaol:::txtsize --> Hstdmseelntsi:::txtsize
+Tsausrsdaol:::txtsize --> Grrrfraeaet:::txtsize
+Hhooeeearnc:::txtsize --> Thtndrltasact:::txtsize
 Thtndrltasact:::txtsize --> TsogrrsiPtnesiais:::txtsize
 Thtndrltasact:::txtsize --> TjIlmnest:::txtsize
 
 ```
-<i>Last updated: 2025-10-15 16:00:48.595512 (GMT+8)</i>
+<i>Last updated: 2025-10-15 20:01:18.203470 (GMT+8)</i>
 <!-- END -->
