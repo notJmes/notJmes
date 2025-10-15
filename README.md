@@ -16,120 +16,138 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tseulooopath@{ shape: win-pane, label: "_Published Oct 15, 2025, 07:55 AM_
-Trump says he will unveil list on oct 17 of ‘democrat programmes’ to be shut" }
-Ugbttoaphesd@{ shape: win-pane, label: "_Published Sep 29, 2025, 08:35 AM_
-Us congress budget negotiations: what happens when the govt shuts down?" }
-RlsDroeorleomp@{ shape: win-pane, label: "_Published Sep 29, 2025, 12:28 AM_
-Republicans urge democrats to agree to short-term bill to keep us government open" }
-TttosadnWHoiy@{ shape: win-pane, label: "_Published Sep 28, 2025, 08:43 AM_
-Trump to meet top congressional leaders on sept 29, white house official says" }
-Ttscaemafveun@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:50 AM_
-Threat of mass job cuts raises economic stakes of us government shutdown" }
-Tsvaonuiyr@{ shape: win-pane, label: "_Published Sep 26, 2025, 05:00 AM_
-Trump slaps ‘visa tax’ on foreigners, but us will pay the price" }
-Uctfescnl@{ shape: win-pane, label: "_Published Sep 24, 2025, 05:29 AM_
-Us stocks retreat from records as tech giants fall" }
-Uoyfpensdrn@{ shape: win-pane, label: "_Published Oct 13, 2025, 08:39 PM_
-Us troops may miss first paychecks on oct 15 as shutdown drags on" }
-TsSwpouso@{ shape: win-pane, label: "_Published Oct 12, 2025, 03:11 AM_
-Trump says us has a way to pay troops during shutdown" }
-DreipdoeSdletpon@{ shape: win-pane, label: "_Published Oct 09, 2025, 06:08 PM_
-Democrats, republicans, president to blame for us shutdown? all three, reuters/ipsos poll finds" }
-Trragsunats@{ shape: win-pane, label: "_Published Oct 10, 2025, 10:00 PM_
-Tempers flare in washington as us shutdown threatens troops’ pay" }
-SbedsdtasiWn@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:56 AM_
-Stock bubble dread grips world’s central bankers meeting in washington" }
-IesblvoehnjfpTtdi@{ shape: win-pane, label: "_Published Oct 10, 2025, 11:30 AM_
-‘i believe it’s a bubble’: will ai ever produce enough revenue to justify the price? the maths is daunting" }
-BraAunacbiarot@{ shape: win-pane, label: "_Published Oct 09, 2025, 07:20 AM_
-Boe warns soaring ai valuations rival dot.com bubble, risk sharp market correction" }
+Traezvfep@{ shape: win-pane, label: "_Published Oct 15, 2025, 10:48 AM_
+Trump rails at time magazine over unflattering photo" }
+Hholissrrazo@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:47 PM_
+Hamas hands over all living hostages to israel; trump says gaza war over" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+FetGaoumo@{ shape: win-pane, label: "_Published Aug 22, 2025, 05:27 PM_
+Famine has struck gaza, says global hunger monitor" }
+Ilcaagmn@{ shape: win-pane, label: "_Published Nov 09, 2024, 10:03 PM_
+Israel rejects ‘biased’ warning of famine in gaza" }
+Ulfezsrda@{ shape: win-pane, label: "_Published Aug 22, 2025, 03:02 PM_
+Un declares famine in gaza; first ever in middle east" }
+TtvriMe@{ shape: win-pane, label: "_Published Oct 14, 2025, 06:20 AM_
+Trump takes victory lap in the middle east" }
+TsogrrsiPtnesiais@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:25 PM_
+Trump says ‘long nightmare’ over for israelis and palestinians, receives standing ovation in knesset" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Hholissrrazo@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:47 PM_
+Hamas hands over all living hostages to israel; trump says gaza war over" }
+Thtndrltasact@{ shape: win-pane, label: "_Published Oct 14, 2025, 01:41 AM_
+Trump hails ‘tremendous day for middle east’ as leaders sign gaza declaration" }
+TsogrrsiPtnesiais@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:25 PM_
+Trump says ‘long nightmare’ over for israelis and palestinians, receives standing ovation in knesset" }
+TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
+Tears, joy in israel as hamas hands over first hostages" }
 
-Tseulooopath:::txtsize --> Ugbttoaphesd:::txtsize
-Ugbttoaphesd:::txtsize --> RlsDroeorleomp:::txtsize
-RlsDroeorleomp:::txtsize --> TttosadnWHoiy:::txtsize
-Ugbttoaphesd:::txtsize --> Ttscaemafveun:::txtsize
-Ttscaemafveun:::txtsize --> Tsvaonuiyr:::txtsize
-Ttscaemafveun:::txtsize --> Uctfescnl:::txtsize
-Tseulooopath:::txtsize --> Uoyfpensdrn:::txtsize
-Uoyfpensdrn:::txtsize --> TsSwpouso:::txtsize
-TsSwpouso:::txtsize --> DreipdoeSdletpon:::txtsize
-TsSwpouso:::txtsize --> Trragsunats:::txtsize
-Uoyfpensdrn:::txtsize --> SbedsdtasiWn:::txtsize
-SbedsdtasiWn:::txtsize --> IesblvoehnjfpTtdi:::txtsize
-SbedsdtasiWn:::txtsize --> BraAunacbiarot:::txtsize
+Traezvfep:::txtsize --> Hholissrrazo:::txtsize
+Hholissrrazo:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Hholissrrazo:::txtsize --> FetGaoumo:::txtsize
+FetGaoumo:::txtsize --> Ilcaagmn:::txtsize
+FetGaoumo:::txtsize --> Ulfezsrda:::txtsize
+Traezvfep:::txtsize --> TtvriMe:::txtsize
+TtvriMe:::txtsize --> TsogrrsiPtnesiais:::txtsize
+TsogrrsiPtnesiais:::txtsize --> TssHaossaaorslaoe:::txtsize
+TsogrrsiPtnesiais:::txtsize --> Hholissrrazo:::txtsize
+TtvriMe:::txtsize --> Thtndrltasact:::txtsize
+Thtndrltasact:::txtsize --> TsogrrsiPtnesiais:::txtsize
+Thtndrltasact:::txtsize --> TjIlmnest:::txtsize
 
-Taitarhernunn@{ shape: win-pane, label: "_Published Oct 15, 2025, 07:40 AM_
-Trump administration says 4,108 workers have been fired since shutdown began" }
-Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
-Us government begins shutdown that may lead to mass layoffs and cuts" }
-TsSrtpbun@{ shape: win-pane, label: "_Published Oct 01, 2025, 01:49 AM_
-Trump says us government will ‘probably’ shut down" }
-Ugbttoaphesd@{ shape: win-pane, label: "_Published Sep 29, 2025, 08:35 AM_
-Us congress budget negotiations: what happens when the govt shuts down?" }
-VsSesotewea@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:58 AM_
-Vance says us ‘headed to a shutdown’ after meeting with democrats" }
-Trragsunats@{ shape: win-pane, label: "_Published Oct 10, 2025, 10:00 PM_
-Tempers flare in washington as us shutdown threatens troops’ pay" }
-DreipdoeSdletpon@{ shape: win-pane, label: "_Published Oct 09, 2025, 06:08 PM_
-Democrats, republicans, president to blame for us shutdown? all three, reuters/ipsos poll finds" }
-Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
-Us government begins shutdown that may lead to mass layoffs and cuts" }
-FtyerSuni@{ shape: win-pane, label: "_Published Oct 09, 2025, 06:59 AM_
-Flight delays pile up across us as shutdown persists" }
-Sisaeaithws@{ shape: win-pane, label: "_Published Oct 07, 2025, 07:49 AM_
-Staffing issues cause delays at us airports as shutdown persists" }
-SKnortiottkontl@{ shape: win-pane, label: "_Published Sep 12, 2025, 12:45 PM_
-South korean airport workers to strike from sept 19 to oct 9, sparking concerns for travellers" }
+IgimnfereGn@{ shape: win-pane, label: "_Published Oct 15, 2025, 09:40 AM_
+Instagram will limit content for teenagers based on pg-13 ratings" }
+Aaaceaogfinci@{ shape: win-pane, label: "_Published Oct 14, 2025, 03:15 PM_
+Australia says social media ban is ‘for the good of our kids’ in new ad campaign" }
+Aaaslaolu@{ shape: win-pane, label: "_Published Nov 28, 2024, 08:33 PM_
+Australia passes social media ban for children under 16" }
+TarHaoeceeoni@{ shape: win-pane, label: "_Published Nov 09, 2024, 05:00 AM_
+Teens and screens: how smartphones helped create a more anxious generation" }
+Yaodtigeiontvaeh@{ shape: win-pane, label: "_Published Nov 09, 2024, 05:00 AM_
+Young and troubled: more teens in singapore getting hooked on digital devices and seeking help" }
+Ybntaaiwopda@{ shape: win-pane, label: "_Published Oct 13, 2025, 08:56 AM_
+Youtube warns australia social media ban will not keep children safe" }
+Aaaslaolu@{ shape: win-pane, label: "_Published Nov 28, 2024, 08:33 PM_
+Australia passes social media ban for children under 16" }
+Aaailvehutomb@{ shape: win-pane, label: "_Published Sep 16, 2025, 11:06 AM_
+Australia wants ‘minimally invasive’ age checks under teen social media ban" }
+Biurlafobc@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:30 PM_
+Britain issues first online safety fine to us website 4chan" }
+InrasigoSfp@{ shape: win-pane, label: "_Published Aug 28, 2025, 07:44 PM_
+Internet forum 4chan sues british regulator in us over free speech" }
+Biuhnemfamee@{ shape: win-pane, label: "_Published Oct 17, 2024, 07:22 PM_
+Britain to publish online safety demands for platforms in december" }
+Hsroare@{ shape: win-pane, label: "_Published Aug 01, 2022, 06:30 PM_
+How misinformation derails free speech" }
+Ninesohshdsm@{ shape: win-pane, label: "_Published Apr 16, 2025, 07:05 AM_
+Notorious internet message board 4chan has been hacked, posts claim" }
+Hfimgpdudswa@{ shape: win-pane, label: "_Published Mar 26, 2025, 12:10 AM_
+How safe is signal messaging app used by trump aides to share war plans?" }
+craosrani@{ shape: win-pane, label: "_Published Nov 09, 2024, 11:13 AM_
+50 countries warn un of ransomware attacks on hospitals" }
 
-Taitarhernunn:::txtsize --> Ueniunmaayat:::txtsize
-Ueniunmaayat:::txtsize --> TsSrtpbun:::txtsize
-TsSrtpbun:::txtsize --> Ugbttoaphesd:::txtsize
-TsSrtpbun:::txtsize --> VsSesotewea:::txtsize
-Taitarhernunn:::txtsize --> Trragsunats:::txtsize
-Trragsunats:::txtsize --> DreipdoeSdletpon:::txtsize
-DreipdoeSdletpon:::txtsize --> Ueniunmaayat:::txtsize
-DreipdoeSdletpon:::txtsize --> FtyerSuni:::txtsize
-Trragsunats:::txtsize --> Sisaeaithws:::txtsize
-Sisaeaithws:::txtsize --> SKnortiottkontl:::txtsize
+IgimnfereGn:::txtsize --> Aaaceaogfinci:::txtsize
+Aaaceaogfinci:::txtsize --> Aaaslaolu:::txtsize
+Aaaslaolu:::txtsize --> TarHaoeceeoni:::txtsize
+Aaaslaolu:::txtsize --> Yaodtigeiontvaeh:::txtsize
+Aaaceaogfinci:::txtsize --> Ybntaaiwopda:::txtsize
+Ybntaaiwopda:::txtsize --> Aaaslaolu:::txtsize
+Ybntaaiwopda:::txtsize --> Aaailvehutomb:::txtsize
+IgimnfereGn:::txtsize --> Biurlafobc:::txtsize
+Biurlafobc:::txtsize --> InrasigoSfp:::txtsize
+InrasigoSfp:::txtsize --> Biuhnemfamee:::txtsize
+InrasigoSfp:::txtsize --> Hsroare:::txtsize
+Biurlafobc:::txtsize --> Ninesohshdsm:::txtsize
+Ninesohshdsm:::txtsize --> Hfimgpdudswa:::txtsize
+Ninesohshdsm:::txtsize --> craosrani:::txtsize
 
-Uinastgmmnn@{ shape: win-pane, label: "_Published Oct 15, 2025, 07:24 AM_
-Us adviser on india accused of taking documents, meeting chinese" }
-TslfftiaeopU@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:05 PM_
-Trump’s doubling of tariffs hits india, damages relationship with us" }
-ItnRaitprhsrtcy@{ shape: win-pane, label: "_Published Aug 02, 2025, 07:04 PM_
-India to maintain russian oil imports despite trump threats, government sources say" }
-Unsenyirnidhe@{ shape: win-pane, label: "_Published Aug 01, 2025, 09:24 PM_
-Ukraine says 31 killed in end-july russian strike on kyiv, including 5 children" }
-Rainisiyminsi@{ shape: win-pane, label: "_Published Aug 01, 2025, 05:24 AM_
-Russia’s actions in ukraine ‘disgusting’, says trump, indicating new sanctions" }
-Tinnhdftirives@{ shape: win-pane, label: "_Published Jul 02, 2025, 02:35 AM_
-Two chinese nationals charged by us for attempting to recruit service members" }
-CcCdbapets@{ shape: win-pane, label: "_Published Jun 25, 2025, 01:25 PM_
-China calls cia videos ‘absurd’ attempt to recruit spies" }
-UeegwCiirienls@{ shape: win-pane, label: "_Published Apr 09, 2025, 08:49 AM_
-Us intelligence agency warns china is trying to recruit government employees" }
-Csxnoedegeefge@{ shape: win-pane, label: "_Published Mar 19, 2025, 12:10 PM_
-China says ex-engineer to be executed for leaking state secrets to foreign power" }
-Uennbgsheo@{ shape: win-pane, label: "_Published Jun 25, 2025, 12:44 AM_
-Uk government to invest $1b to fight rising chinese espionage" }
-Homtyietnaaut@{ shape: win-pane, label: "_Published Mar 06, 2025, 05:21 PM_
-Hong kong democrat jimmy lai finishes testifying in national security trial" }
-Ueooneaaoh@{ shape: win-pane, label: "_Published May 16, 2025, 06:42 PM_
-Uk names son of ex-hong kong governor as ambassador to china" }
+TttoWCtfooia@{ shape: win-pane, label: "_Published Oct 15, 2025, 09:33 AM_
+Trump threatens to pull world cup matches from boston over city’s mayor" }
+Tsssiioeeatoue@{ shape: win-pane, label: "_Published Sep 26, 2025, 01:45 PM_
+Trump suggests unsafe cities in us could be booted out as hosts of world cup games" }
+WonpniGtsi@{ shape: win-pane, label: "_Published Sep 03, 2025, 05:59 AM_
+‘we’re going in’: trump to send national guard troops to chicago" }
+Ugcumtoeonns@{ shape: win-pane, label: "_Published Sep 02, 2025, 09:49 PM_
+Us judge blocks trump administration’s use of troops in los angeles" }
+Tvorndrii@{ shape: win-pane, label: "_Published Sep 02, 2025, 09:24 PM_
+Trump vows to end crime in ‘most dangerous city’ chicago" }
+TiebnouOiUhvoe@{ shape: win-pane, label: "_Published Sep 24, 2025, 07:49 AM_
+Trump invites global fans to world cup and olympics as us tightens visa policies" }
+Ygtlpcarnhp@{ shape: win-pane, label: "_Published Sep 24, 2025, 06:51 AM_
+‘you’re going to hell’: trump attacks un and europe in scathing speech" }
+Emtirodeitrap@{ shape: win-pane, label: "_Published Sep 09, 2025, 11:57 PM_
+Extreme heat a rising threat to 2026 world cup venues in north america, says report" }
+TiebnouOiUhvoe@{ shape: win-pane, label: "_Published Sep 24, 2025, 07:49 AM_
+Trump invites global fans to world cup and olympics as us tightens visa policies" }
+Ygtlpcarnhp@{ shape: win-pane, label: "_Published Sep 24, 2025, 06:51 AM_
+‘you’re going to hell’: trump attacks un and europe in scathing speech" }
+TtUtaastogl@{ shape: win-pane, label: "_Published Sep 24, 2025, 12:17 AM_
+Trump tells un that climate change is ‘greatest con job’ globally" }
+Emtirodeitrap@{ shape: win-pane, label: "_Published Sep 09, 2025, 11:57 PM_
+Extreme heat a rising threat to 2026 world cup venues in north america, says report" }
+Udntneabdnfss@{ shape: win-pane, label: "_Published Jul 03, 2025, 04:35 AM_
+Underdogs and heat dominate debate as club world cup enters final stages" }
 
-Uinastgmmnn:::txtsize --> TslfftiaeopU:::txtsize
-TslfftiaeopU:::txtsize --> ItnRaitprhsrtcy:::txtsize
-ItnRaitprhsrtcy:::txtsize --> Unsenyirnidhe:::txtsize
-ItnRaitprhsrtcy:::txtsize --> Rainisiyminsi:::txtsize
-Uinastgmmnn:::txtsize --> Tinnhdftirives:::txtsize
-Tinnhdftirives:::txtsize --> CcCdbapets:::txtsize
-CcCdbapets:::txtsize --> UeegwCiirienls:::txtsize
-CcCdbapets:::txtsize --> Csxnoedegeefge:::txtsize
-Tinnhdftirives:::txtsize --> Uennbgsheo:::txtsize
-Uennbgsheo:::txtsize --> Homtyietnaaut:::txtsize
-Uennbgsheo:::txtsize --> Ueooneaaoh:::txtsize
+TttoWCtfooia:::txtsize --> Tsssiioeeatoue:::txtsize
+Tsssiioeeatoue:::txtsize --> WonpniGtsi:::txtsize
+WonpniGtsi:::txtsize --> Ugcumtoeonns:::txtsize
+WonpniGtsi:::txtsize --> Tvorndrii:::txtsize
+Tsssiioeeatoue:::txtsize --> TiebnouOiUhvoe:::txtsize
+TiebnouOiUhvoe:::txtsize --> Ygtlpcarnhp:::txtsize
+TiebnouOiUhvoe:::txtsize --> Emtirodeitrap:::txtsize
+TttoWCtfooia:::txtsize --> TiebnouOiUhvoe:::txtsize
+TiebnouOiUhvoe:::txtsize --> Ygtlpcarnhp:::txtsize
+Ygtlpcarnhp:::txtsize --> TtUtaastogl:::txtsize
+TiebnouOiUhvoe:::txtsize --> Emtirodeitrap:::txtsize
+Emtirodeitrap:::txtsize --> Udntneabdnfss:::txtsize
 
 ```
-<i>Last updated: 2025-10-15 08:01:46.019811 (GMT+8)</i>
+<i>Last updated: 2025-10-15 12:01:16.572838 (GMT+8)</i>
 <!-- END -->
