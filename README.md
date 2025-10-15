@@ -16,135 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-ChoryruU@{ shape: win-pane, label: "_Published Oct 15, 2025, 07:30 PM_
-Co2 in the atmosphere up by record amount in 2024: un" }
-Ntnosager@{ shape: win-pane, label: "_Published Oct 13, 2025, 11:10 AM_
-Not nothing, not enough: is the paris agreement working?" }
-Smhotanrmor@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:31 AM_
-September third-hottest globally on record: climate monitor" }
-Hogomfhtd@{ shape: win-pane, label: "_Published Oct 08, 2025, 10:05 PM_
-Hong kong logs record number of ‘very hot’ october days" }
-SmatnraOw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:55 PM_
-September was hottest on record in japan’s okinawa" }
-Ranghsocne@{ shape: win-pane, label: "_Published Oct 07, 2025, 01:21 PM_
-Renewable energy growth slows due to policy changes: report" }
-Ctlilranbhattlgn@{ shape: win-pane, label: "_Published Sep 24, 2024, 01:25 PM_
-Climate goal to triple global renewable energy by 2030 within reach: international energy agency" }
-Ualeeuakfabe@{ shape: win-pane, label: "_Published Jun 30, 2025, 11:41 PM_
-Us senate bill’s clean energy cuts draw backlash from labour, business" }
-Smhotanrmor@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:31 AM_
-September third-hottest globally on record: climate monitor" }
-Hogomfhtd@{ shape: win-pane, label: "_Published Oct 08, 2025, 10:05 PM_
-Hong kong logs record number of ‘very hot’ october days" }
-SKsewstrc@{ shape: win-pane, label: "_Published Oct 02, 2025, 07:45 PM_
-South korea sees second-warmest september on record" }
-SmatnraOw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:55 PM_
-September was hottest on record in japan’s okinawa" }
-SmatnraOw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:55 PM_
-September was hottest on record in japan’s okinawa" }
-JseheaoC@{ shape: win-pane, label: "_Published Jul 30, 2025, 03:51 PM_
-Japan sees record high temperature of 41.2 deg c" }
-JSKhtsrcn@{ shape: win-pane, label: "_Published Sep 01, 2025, 04:19 PM_
-Japan, south korea had hottest summer on record in 2025" }
+AuedakiPti@{ shape: win-pane, label: "_Published Oct 15, 2025, 11:15 PM_
+Apple updates ipad pro, macbook pro, vision pro with m5 chip" }
+Maersiidacfptg@{ shape: win-pane, label: "_Published Sep 18, 2025, 08:36 AM_
+Meta launches smart glasses with built-in display, reaching for ‘superintelligence’" }
+Zraneptggmi@{ shape: win-pane, label: "_Published Jul 01, 2025, 04:51 AM_
+Zuckerberg announces meta ‘superintelligence’ group, more hires" }
+MaanmnekC@{ shape: win-pane, label: "_Published Jun 13, 2025, 12:40 PM_
+Meta makes major investment in scale ai, takes in ceo" }
+MrohAfhuaOl@{ shape: win-pane, label: "_Published Jun 18, 2025, 08:04 AM_
+Meta tried to poach openai staff with $128m bonuses, says ceo sam altman" }
+ModeAiPugpcoin@{ shape: win-pane, label: "_Published Jul 10, 2025, 08:58 AM_
+Meta poached apple’s top ai engineer pang ruoming with pay package over $256 million" }
+Altetosne@{ shape: win-pane, label: "_Published Jul 08, 2025, 07:25 AM_
+Apple loses top ai executive to meta’s hiring spree" }
+Altetosne@{ shape: win-pane, label: "_Published Jul 08, 2025, 07:25 AM_
+Apple loses top ai executive to meta’s hiring spree" }
+Asngayoaro@{ shape: win-pane, label: "_Published Sep 19, 2025, 11:05 AM_
+Apple’s iphone 17, air go on sale to years of demand for new look" }
+AulornaIatfs@{ shape: win-pane, label: "_Published Sep 10, 2025, 03:57 AM_
+Apple unveils iphone 17 air, iphone 17 pro amid ai race and us tariff pressures" }
+ieunnri@{ shape: win-pane, label: "_Published Sep 09, 2025, 03:00 PM_
+Iphone’s future hinges on a smarter siri" }
+Euelnyhroi@{ shape: win-pane, label: "_Published Aug 26, 2025, 07:52 AM_
+Elon musk sues apple, openai, saying they hurt ai competition" }
+AsneuorauOrdenr@{ shape: win-pane, label: "_Published Sep 19, 2025, 07:10 AM_
+Apple’s iphone 17 models launch to cheers and applause at orchard road store in singapore" }
+AulornaIatfs@{ shape: win-pane, label: "_Published Sep 10, 2025, 03:57 AM_
+Apple unveils iphone 17 air, iphone 17 pro amid ai race and us tariff pressures" }
+Wemeomrp@{ shape: win-pane, label: "_Published Aug 02, 2025, 07:49 AM_
+World economies reel from trump's tariffs punch" }
 
-ChoryruU:::txtsize --> Ntnosager:::txtsize
-Ntnosager:::txtsize --> Smhotanrmor:::txtsize
-Smhotanrmor:::txtsize --> Hogomfhtd:::txtsize
-Smhotanrmor:::txtsize --> SmatnraOw:::txtsize
-Ntnosager:::txtsize --> Ranghsocne:::txtsize
-Ranghsocne:::txtsize --> Ctlilranbhattlgn:::txtsize
-Ranghsocne:::txtsize --> Ualeeuakfabe:::txtsize
-ChoryruU:::txtsize --> Smhotanrmor:::txtsize
-Smhotanrmor:::txtsize --> Hogomfhtd:::txtsize
-Hogomfhtd:::txtsize --> SKsewstrc:::txtsize
-Hogomfhtd:::txtsize --> SmatnraOw:::txtsize
-Smhotanrmor:::txtsize --> SmatnraOw:::txtsize
-SmatnraOw:::txtsize --> JseheaoC:::txtsize
-SmatnraOw:::txtsize --> JSKhtsrcn:::txtsize
+AuedakiPti:::txtsize --> Maersiidacfptg:::txtsize
+Maersiidacfptg:::txtsize --> Zraneptggmi:::txtsize
+Zraneptggmi:::txtsize --> MaanmnekC:::txtsize
+Zraneptggmi:::txtsize --> MrohAfhuaOl:::txtsize
+Maersiidacfptg:::txtsize --> ModeAiPugpcoin:::txtsize
+ModeAiPugpcoin:::txtsize --> Altetosne:::txtsize
+ModeAiPugpcoin:::txtsize --> Altetosne:::txtsize
+AuedakiPti:::txtsize --> Asngayoaro:::txtsize
+Asngayoaro:::txtsize --> AulornaIatfs:::txtsize
+AulornaIatfs:::txtsize --> ieunnri:::txtsize
+AulornaIatfs:::txtsize --> Euelnyhroi:::txtsize
+Asngayoaro:::txtsize --> AsneuorauOrdenr:::txtsize
+AsneuorauOrdenr:::txtsize --> AulornaIatfs:::txtsize
+AsneuorauOrdenr:::txtsize --> Wemeomrp:::txtsize
 
-Ilthoofaec@{ shape: win-pane, label: "_Published Oct 15, 2025, 06:36 PM_
-Israel pm netanyahu in court for graft trial appearance" }
-TuIlstreaororo@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:09 PM_
-Trump urges israel’s president to pardon netanyahu, who’s on trial for corruption" }
-Ilrtsnarifa@{ shape: win-pane, label: "_Published Jun 29, 2025, 09:03 PM_
-Israeli court postpones netanyahu appearance in graft trial" }
-NysuporiimLr@{ shape: win-pane, label: "_Published Jun 26, 2025, 10:36 PM_
-Netanyahu asks court to postpone corruption trial summons: lawyer" }
-Tssithriioee@{ shape: win-pane, label: "_Published Jun 26, 2025, 08:10 AM_
-Trump says israeli pm netanyahu’s corruption trial should be cancelled" }
-Ilnvfteeveeaotr@{ shape: win-pane, label: "_Published Aug 05, 2025, 12:55 PM_
-Israel cabinet moves to fire attorney-general overseeing netanyahu’s corruption trial" }
-IlceeGfeille@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:00 AM_
-Israel to decide next steps in gaza after ceasefire talks collapse" }
-Nyofemar@{ shape: win-pane, label: "_Published Aug 05, 2025, 01:50 AM_
-Netanyahu to brief israel’s army on gaza war plan" }
-TcfrPdooaudp@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:05 AM_
-Trump calls for israel’s president to pardon netanyahu. could it happen?" }
-TuIlstreaororo@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:09 PM_
-Trump urges israel’s president to pardon netanyahu, who’s on trial for corruption" }
-Ilrtsnarifa@{ shape: win-pane, label: "_Published Jun 29, 2025, 09:03 PM_
-Israeli court postpones netanyahu appearance in graft trial" }
-Ilnvfteeveeaotr@{ shape: win-pane, label: "_Published Aug 05, 2025, 12:55 PM_
-Israel cabinet moves to fire attorney-general overseeing netanyahu’s corruption trial" }
+MaceRiiyisire@{ shape: win-pane, label: "_Published Oct 15, 2025, 10:46 PM_
+Madagascar coup leader randrianirina says he will be sworn in as president" }
+Mctterasepws@{ shape: win-pane, label: "_Published Oct 06, 2025, 07:25 PM_
+Moroccan activists urge monarchy talks as protest support widens" }
+McsrultoZe@{ shape: win-pane, label: "_Published Oct 02, 2025, 11:19 AM_
+Morocco says hundreds hurt in latest wave of gen z protests" }
+WnfhatHeruinpi@{ shape: win-pane, label: "_Published Sep 24, 2025, 10:00 AM_
+What’s next after the nepal protests? how the gen z revolution is changing politics" }
+FnsNapehcyoaZcn@{ shape: win-pane, label: "_Published Sep 11, 2025, 05:15 PM_
+From indonesia to nepal, anime pirate flag has become symbol of asian gen z’s discontent" }
+Gntnteirhl@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:00 PM_
+Gen z anger at ruling elites is erupting across the world" }
+McsrultoZe@{ shape: win-pane, label: "_Published Oct 02, 2025, 11:19 AM_
+Morocco says hundreds hurt in latest wave of gen z protests" }
+Niemfeodos@{ shape: win-pane, label: "_Published Sep 12, 2025, 07:00 PM_
+Nepalis assess damage after terror of deadly protests" }
+Gntnteirhl@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:00 PM_
+Gen z anger at ruling elites is erupting across the world" }
+McsrultoZe@{ shape: win-pane, label: "_Published Oct 02, 2025, 11:19 AM_
+Morocco says hundreds hurt in latest wave of gen z protests" }
+WnfhatHeruinpi@{ shape: win-pane, label: "_Published Sep 24, 2025, 10:00 AM_
+What’s next after the nepal protests? how the gen z revolution is changing politics" }
+FnsNapehcyoaZcn@{ shape: win-pane, label: "_Published Sep 11, 2025, 05:15 PM_
+From indonesia to nepal, anime pirate flag has become symbol of asian gen z’s discontent" }
+Niemfeodos@{ shape: win-pane, label: "_Published Sep 12, 2025, 07:00 PM_
+Nepalis assess damage after terror of deadly protests" }
+Dtfleieedy@{ shape: win-pane, label: "_Published Sep 11, 2025, 09:09 AM_
+Death toll of nepal protests rises despite army deployment" }
+Nseetaitnmua@{ shape: win-pane, label: "_Published Sep 12, 2025, 03:53 PM_
+Nepal’s former chief justice karki likely to be interim pm, source says" }
 
-Ilthoofaec:::txtsize --> TuIlstreaororo:::txtsize
-TuIlstreaororo:::txtsize --> Ilrtsnarifa:::txtsize
-Ilrtsnarifa:::txtsize --> NysuporiimLr:::txtsize
-Ilrtsnarifa:::txtsize --> Tssithriioee:::txtsize
-TuIlstreaororo:::txtsize --> Ilnvfteeveeaotr:::txtsize
-Ilnvfteeveeaotr:::txtsize --> IlceeGfeille:::txtsize
-Ilnvfteeveeaotr:::txtsize --> Nyofemar:::txtsize
-Ilthoofaec:::txtsize --> TcfrPdooaudp:::txtsize
-TcfrPdooaudp:::txtsize --> TuIlstreaororo:::txtsize
-TuIlstreaororo:::txtsize --> Ilrtsnarifa:::txtsize
-TuIlstreaororo:::txtsize --> Ilnvfteeveeaotr:::txtsize
+MaceRiiyisire:::txtsize --> Mctterasepws:::txtsize
+Mctterasepws:::txtsize --> McsrultoZe:::txtsize
+McsrultoZe:::txtsize --> WnfhatHeruinpi:::txtsize
+McsrultoZe:::txtsize --> FnsNapehcyoaZcn:::txtsize
+Mctterasepws:::txtsize --> Gntnteirhl:::txtsize
+Gntnteirhl:::txtsize --> McsrultoZe:::txtsize
+Gntnteirhl:::txtsize --> Niemfeodos:::txtsize
+MaceRiiyisire:::txtsize --> Gntnteirhl:::txtsize
+Gntnteirhl:::txtsize --> McsrultoZe:::txtsize
+McsrultoZe:::txtsize --> WnfhatHeruinpi:::txtsize
+McsrultoZe:::txtsize --> FnsNapehcyoaZcn:::txtsize
+Gntnteirhl:::txtsize --> Niemfeodos:::txtsize
+Niemfeodos:::txtsize --> Dtfleieedy:::txtsize
+Niemfeodos:::txtsize --> Nseetaitnmua:::txtsize
 
-Naueeueylare@{ shape: win-pane, label: "_Published Oct 15, 2025, 06:20 PM_
-Nvidia ceo huang welcomes return of employee held in gaza for two years" }
-Auotasooeea@{ shape: win-pane, label: "_Published Oct 15, 2025, 06:10 PM_
-Aid trucks roll into gaza as dispute over hostage bodies is paused" }
-Hhooeeearnc@{ shape: win-pane, label: "_Published Oct 15, 2025, 06:24 AM_
-Hamas hands over hostage bodies after israel threatens aid cut" }
-Tsausrsdaol@{ shape: win-pane, label: "_Published Oct 15, 2025, 03:10 AM_
-Trump says hamas must disarm or be disarmed, perhaps violently" }
-Thtndrltasact@{ shape: win-pane, label: "_Published Oct 14, 2025, 01:41 AM_
-Trump hails ‘tremendous day for middle east’ as leaders sign gaza declaration" }
-IlHhdbhnroe@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:54 PM_
-Israel says hamas handed over body that is not former hostage" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-IlaGRcioaaosao@{ shape: win-pane, label: "_Published Oct 15, 2025, 02:30 PM_
-Israel will allow gaza’s rafah crossing to open, ramp up aid, broadcaster kan reports" }
-Hhooeeearnc@{ shape: win-pane, label: "_Published Oct 15, 2025, 06:24 AM_
-Hamas hands over hostage bodies after israel threatens aid cut" }
-Tsausrsdaol@{ shape: win-pane, label: "_Published Oct 15, 2025, 03:10 AM_
-Trump says hamas must disarm or be disarmed, perhaps violently" }
-Hstdmseelntsi@{ shape: win-pane, label: "_Published Aug 02, 2025, 10:59 PM_
-Hamas says it won’t disarm unless independent palestinian state established" }
-Grrrfraeaet@{ shape: win-pane, label: "_Published Oct 14, 2025, 11:48 PM_
-Gaza truce brings relief, but arab states fear what comes next" }
-Thtndrltasact@{ shape: win-pane, label: "_Published Oct 14, 2025, 01:41 AM_
-Trump hails ‘tremendous day for middle east’ as leaders sign gaza declaration" }
-TsogrrsiPtnesiais@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:25 PM_
-Trump says ‘long nightmare’ over for israelis and palestinians, receives standing ovation in knesset" }
-TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
-Tears, joy in israel as hamas hands over first hostages" }
+BstrhliyeanCss@{ shape: win-pane, label: "_Published Oct 15, 2025, 09:35 PM_
+British pm starmer says he will publish key witness statements in china spy case" }
+Upenocdyon@{ shape: win-pane, label: "_Published Sep 15, 2025, 06:20 PM_
+Uk drops case against two men accused of spying for china" }
+Clderdoials@{ shape: win-pane, label: "_Published Aug 26, 2025, 11:37 AM_
+China-linked hackers targeted diplomats in asia, google says" }
+CskremaesWtJa@{ shape: win-pane, label: "_Published Jul 21, 2023, 06:30 AM_
+Chinese hackers breached us ambassador’s e-mails, says wall street journal" }
+Hirgripihaaado@{ shape: win-pane, label: "_Published Jul 19, 2025, 04:45 PM_
+How china’s growing cyber-hacking capabilities have raised alarm around the world" }
+Cffgpidhtrortyl@{ shape: win-pane, label: "_Published Jul 10, 2025, 02:45 PM_
+China foils foreign spy plots including a ‘honey trap’, urges govt workers to stay vigilant" }
+Caefcacbtnaeas@{ shape: win-pane, label: "_Published Apr 15, 2025, 11:35 AM_
+China accuses us of launching ‘advanced’ cyber attacks, names alleged nsa agents" }
+Csxnoedegeefge@{ shape: win-pane, label: "_Published Mar 19, 2025, 12:10 PM_
+China says ex-engineer to be executed for leaking state secrets to foreign power" }
+Uwpisarosdey@{ shape: win-pane, label: "_Published Oct 14, 2025, 02:14 AM_
+Uk’s mi5 warns politicians they are targets of russia and chinese spying" }
+Bssoydeiseiiylu@{ shape: win-pane, label: "_Published Oct 08, 2025, 03:47 AM_
+British prosecutors say they did ‘everything possible’ to bring china spy trial to court" }
+Upenocdyon@{ shape: win-pane, label: "_Published Sep 15, 2025, 06:20 PM_
+Uk drops case against two men accused of spying for china" }
+Uiawwpfi@{ shape: win-pane, label: "_Published Apr 22, 2024, 10:10 PM_
+Uk police charge two men with spying for china" }
+BsisiPrCpysg@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:42 AM_
+British ministers criticise pm starmer’s china policy amid spying row" }
+Upenocdyon@{ shape: win-pane, label: "_Published Sep 15, 2025, 06:20 PM_
+Uk drops case against two men accused of spying for china" }
+Hnruosd@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:32 AM_
+How donald trump pulled off his gaza deal" }
 
-Naueeueylare:::txtsize --> Auotasooeea:::txtsize
-Auotasooeea:::txtsize --> Hhooeeearnc:::txtsize
-Hhooeeearnc:::txtsize --> Tsausrsdaol:::txtsize
-Hhooeeearnc:::txtsize --> Thtndrltasact:::txtsize
-Auotasooeea:::txtsize --> IlHhdbhnroe:::txtsize
-IlHhdbhnroe:::txtsize --> Tdrcaaededlncbs:::txtsize
-IlHhdbhnroe:::txtsize --> IlaGRcioaaosao:::txtsize
-Naueeueylare:::txtsize --> Hhooeeearnc:::txtsize
-Hhooeeearnc:::txtsize --> Tsausrsdaol:::txtsize
-Tsausrsdaol:::txtsize --> Hstdmseelntsi:::txtsize
-Tsausrsdaol:::txtsize --> Grrrfraeaet:::txtsize
-Hhooeeearnc:::txtsize --> Thtndrltasact:::txtsize
-Thtndrltasact:::txtsize --> TsogrrsiPtnesiais:::txtsize
-Thtndrltasact:::txtsize --> TjIlmnest:::txtsize
+BstrhliyeanCss:::txtsize --> Upenocdyon:::txtsize
+Upenocdyon:::txtsize --> Clderdoials:::txtsize
+Clderdoials:::txtsize --> CskremaesWtJa:::txtsize
+Clderdoials:::txtsize --> Hirgripihaaado:::txtsize
+Upenocdyon:::txtsize --> Cffgpidhtrortyl:::txtsize
+Cffgpidhtrortyl:::txtsize --> Caefcacbtnaeas:::txtsize
+Cffgpidhtrortyl:::txtsize --> Csxnoedegeefge:::txtsize
+BstrhliyeanCss:::txtsize --> Uwpisarosdey:::txtsize
+Uwpisarosdey:::txtsize --> Bssoydeiseiiylu:::txtsize
+Bssoydeiseiiylu:::txtsize --> Upenocdyon:::txtsize
+Bssoydeiseiiylu:::txtsize --> Uiawwpfi:::txtsize
+Uwpisarosdey:::txtsize --> BsisiPrCpysg:::txtsize
+BsisiPrCpysg:::txtsize --> Upenocdyon:::txtsize
+BsisiPrCpysg:::txtsize --> Hnruosd:::txtsize
 
 ```
-<i>Last updated: 2025-10-15 20:01:18.203470 (GMT+8)</i>
+<i>Last updated: 2025-10-16 00:00:51.641969 (GMT+8)</i>
 <!-- END -->
