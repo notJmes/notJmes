@@ -16,138 +16,111 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Fhrsnnttkenen@{ shape: win-pane, label: "_Published Oct 16, 2025, 07:11 PM_
-French pm survives no-confidence votes after making pension concession" }
-Fhsnrlise@{ shape: win-pane, label: "_Published Oct 15, 2025, 01:00 AM_
-French pm to suspend macron's flagship pension reform" }
-WFedogtcs@{ shape: win-pane, label: "_Published Oct 06, 2025, 05:36 PM_
-Why is france mired in a rolling political crisis?" }
-Fhrtssrgidnoci@{ shape: win-pane, label: "_Published Oct 06, 2025, 04:01 PM_
-French government quits hours after being appointed, deepening political crisis" }
-Fhriwrelrnham@{ shape: win-pane, label: "_Published Jul 08, 2024, 02:06 AM_
-French voters deliver a win for the left, a blow for le pen and a hung parliament" }
-Fhiyiwnbtsni@{ shape: win-pane, label: "_Published Oct 13, 2025, 04:35 AM_
-French presidency unveils new cabinet as budget pressure intensifies" }
-Ferancaoyernn@{ shape: win-pane, label: "_Published Oct 11, 2025, 06:48 AM_
-France’s macron reappoints lecornu as pm four days after his resignation" }
-FhcMndoeifube@{ shape: win-pane, label: "_Published Oct 11, 2025, 07:59 PM_
-French pm lecornu, macron’s ‘soldier monk’, steels himself for budget battle" }
-Ferninfceehwrt@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:15 PM_
-France’s macron won’t resign as no-confidence votes threaten his new government" }
-Ferancaoyernn@{ shape: win-pane, label: "_Published Oct 11, 2025, 06:48 AM_
-France’s macron reappoints lecornu as pm four days after his resignation" }
-FhiMnscaeip@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:10 AM_
-French president macron faces more chaos as latest pm is toppled" }
-MnoraadfmMs@{ shape: win-pane, label: "_Published Oct 10, 2025, 02:43 PM_
-Macron summons party leaders as deadline for naming pm nears" }
-Ferancaoyernn@{ shape: win-pane, label: "_Published Oct 11, 2025, 06:48 AM_
-France’s macron reappoints lecornu as pm four days after his resignation" }
-FhiMnscaeip@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:10 AM_
-French president macron faces more chaos as latest pm is toppled" }
-MnoraadfmMs@{ shape: win-pane, label: "_Published Oct 10, 2025, 02:43 PM_
-Macron summons party leaders as deadline for naming pm nears" }
-
-Fhrsnnttkenen:::txtsize --> Fhsnrlise:::txtsize
-Fhsnrlise:::txtsize --> WFedogtcs:::txtsize
-WFedogtcs:::txtsize --> Fhrtssrgidnoci:::txtsize
-WFedogtcs:::txtsize --> Fhriwrelrnham:::txtsize
-Fhsnrlise:::txtsize --> Fhiyiwnbtsni:::txtsize
-Fhiyiwnbtsni:::txtsize --> Ferancaoyernn:::txtsize
-Fhiyiwnbtsni:::txtsize --> FhcMndoeifube:::txtsize
-Fhrsnnttkenen:::txtsize --> Ferninfceehwrt:::txtsize
-Ferninfceehwrt:::txtsize --> Ferancaoyernn:::txtsize
-Ferancaoyernn:::txtsize --> FhiMnscaeip:::txtsize
-Ferancaoyernn:::txtsize --> MnoraadfmMs:::txtsize
-Ferninfceehwrt:::txtsize --> Ferancaoyernn:::txtsize
-Ferancaoyernn:::txtsize --> FhiMnscaeip:::txtsize
-Ferancaoyernn:::txtsize --> MnoraadfmMs:::txtsize
-
-Ilseetdiiaornnt@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:25 PM_
-Israel, hamas trade blame over truce deal violations, rafah border reopening in question" }
-IlHhdbhnroe@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:54 PM_
-Israel says hamas handed over body that is not former hostage" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
-Peace finally descends on the middle east: now the battle to make it last begins" }
-IlaGRcitppdusra@{ shape: win-pane, label: "_Published Oct 15, 2025, 02:30 PM_
-Israel will allow gaza’s rafah crossing with egypt to open and ramp up aid, says broadcaster" }
-Hhooeeearnc@{ shape: win-pane, label: "_Published Oct 15, 2025, 06:24 AM_
-Hamas hands over hostage bodies after israel threatens aid cut" }
-Tsausrsdaol@{ shape: win-pane, label: "_Published Oct 15, 2025, 03:10 AM_
-Trump says hamas must disarm or be disarmed, perhaps violently" }
-Ilprnpfogriyteul@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:20 PM_
-Israel says preparations to open rafah crossing underway with egypt, date to be announced later" }
-Auotamneead@{ shape: win-pane, label: "_Published Oct 15, 2025, 06:10 PM_
-Aid trucks roll into gaza as hamas hands over more hostage bodies" }
-Hhooeeearnc@{ shape: win-pane, label: "_Published Oct 15, 2025, 06:24 AM_
-Hamas hands over hostage bodies after israel threatens aid cut" }
-Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
-Trump says israel could resume fighting in gaza if hamas fails to disarm" }
-GeaetecacfNees@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:40 AM_
-Gaza needs massive boost in emergency aid after ceasefire, un relief chief says" }
-Hholissrrazo@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:47 PM_
-Hamas hands over all living hostages to israel; trump says gaza war over" }
-Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
-Trump says israel could resume fighting in gaza if hamas fails to disarm" }
-
-Ilseetdiiaornnt:::txtsize --> IlHhdbhnroe:::txtsize
-IlHhdbhnroe:::txtsize --> Tdrcaaededlncbs:::txtsize
-Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
-IlHhdbhnroe:::txtsize --> IlaGRcitppdusra:::txtsize
-IlaGRcitppdusra:::txtsize --> Hhooeeearnc:::txtsize
-IlaGRcitppdusra:::txtsize --> Tsausrsdaol:::txtsize
-Ilseetdiiaornnt:::txtsize --> Ilprnpfogriyteul:::txtsize
-Ilprnpfogriyteul:::txtsize --> Auotamneead:::txtsize
-Auotamneead:::txtsize --> Hhooeeearnc:::txtsize
-Auotamneead:::txtsize --> Tsscretniali:::txtsize
-Ilprnpfogriyteul:::txtsize --> GeaetecacfNees:::txtsize
-GeaetecacfNees:::txtsize --> Hholissrrazo:::txtsize
-GeaetecacfNees:::txtsize --> Tsscretniali:::txtsize
-
-Peeuaaaehatho@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:12 PM_
-Prince andrew accuser says he acted as if sex with her was ‘birthright’: memoir" }
-Ltdiruooscr@{ shape: win-pane, label: "_Published Dec 15, 2024, 08:55 PM_
-Latest scandal raises fresh questions about uk’s prince andrew" }
-SaPeekeloldey@{ shape: win-pane, label: "_Published Dec 14, 2024, 06:15 PM_
-Scandal-hit prince andrew back in the headlines over alleged chinese spy" }
-CsoeinbdBiaaur@{ shape: win-pane, label: "_Published Dec 13, 2024, 03:08 AM_
-Chinese associate of prince andrew banned from britain as national security risk" }
-Cspnyxsipge@{ shape: win-pane, label: "_Published Jan 08, 2024, 10:05 AM_
-China’s top spy agency says it exposes british espionage case" }
-CsoeinbdBiaaur@{ shape: win-pane, label: "_Published Dec 13, 2024, 03:08 AM_
-Chinese associate of prince andrew banned from britain as national security risk" }
-Ctgatitleisy@{ shape: win-pane, label: "_Published Sep 14, 2023, 07:57 PM_
-China trying to headhunt british nationals in key positions, uk says" }
+Biaiesirom@{ shape: win-pane, label: "_Published Oct 16, 2025, 11:10 PM_
+Britain delays chinese embassy ruling for a second time" }
+Uaiesitiwoe@{ shape: win-pane, label: "_Published Aug 23, 2025, 12:47 AM_
+Uk delays chinese embassy ruling after beijing withholds detail" }
+LheotbsaCatfios@{ shape: win-pane, label: "_Published Jul 15, 2025, 11:55 PM_
+Life-threatening operations by russia, iran and china are intensifying in uk, police say" }
+AteSaalhde@{ shape: win-pane, label: "_Published Sep 10, 2018, 12:42 PM_
+A spy story: sergei skripal was a little fish. he had a big enemy" }
+TmifstninusrdsWrp@{ shape: win-pane, label: "_Published Jul 08, 2025, 09:12 PM_
+Three men guilty of uk arson attack on ukraine-linked businesses ordered by russia’s wagner group" }
+Usecteadieaos@{ shape: win-pane, label: "_Published Apr 13, 2025, 02:04 AM_
+Uk passes emergency law to save china-owned british steel plant from closure" }
+UsnkaatfiecPa@{ shape: win-pane, label: "_Published Apr 11, 2025, 11:23 PM_
+Uk lays groundwork for nationalisation of british steel, recalls parliament" }
+EproUdedt@{ shape: win-pane, label: "_Published Apr 09, 2025, 09:50 PM_
+Eu adopts tariffs on $31b of us goods in metals dispute" }
+Uwpisarosdey@{ shape: win-pane, label: "_Published Oct 14, 2025, 02:14 AM_
+Uk’s mi5 warns politicians they are targets of russia and chinese spying" }
+Bssoydeiseiiylu@{ shape: win-pane, label: "_Published Oct 08, 2025, 03:47 AM_
+British prosecutors say they did ‘everything possible’ to bring china spy trial to court" }
+Upenocdyon@{ shape: win-pane, label: "_Published Sep 15, 2025, 06:20 PM_
+Uk drops case against two men accused of spying for china" }
 Uiawwpfi@{ shape: win-pane, label: "_Published Apr 22, 2024, 10:10 PM_
 Uk police charge two men with spying for china" }
-CtnkheYvalJetuen@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:56 AM_
-Charities end links with duchess of york over e-mail calling jeffrey epstein ‘supreme friend’" }
-VmeeJetoisear@{ shape: win-pane, label: "_Published Sep 04, 2025, 02:07 AM_
-Victims of sex offender jeffrey epstein compiling list of sexual abusers" }
-Jetisdntigntvem@{ shape: win-pane, label: "_Published Jul 08, 2025, 04:02 AM_
-Jeffrey epstein died by suicide, has no sex trafficking ‘client list’: us government memo" }
-PsbpnogssseTv@{ shape: win-pane, label: "_Published Sep 17, 2025, 07:09 AM_
-Protesters beam epstein video at england’s windsor castle before trump visit" }
-Bikdnasopns@{ shape: win-pane, label: "_Published Sep 11, 2025, 06:03 PM_
-Britain sacks mandelson as us ambassador over epstein links" }
-Tanrefeoirls@{ shape: win-pane, label: "_Published Sep 15, 2025, 10:20 AM_
-Trump and king charles: heads of state with opposing personalities" }
+BsisiPrCpysg@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:42 AM_
+British ministers criticise pm starmer’s china policy amid spying row" }
+Upenocdyon@{ shape: win-pane, label: "_Published Sep 15, 2025, 06:20 PM_
+Uk drops case against two men accused of spying for china" }
+Hnruosd@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:32 AM_
+How donald trump pulled off his gaza deal" }
 
-Peeuaaaehatho:::txtsize --> Ltdiruooscr:::txtsize
-Ltdiruooscr:::txtsize --> SaPeekeloldey:::txtsize
-SaPeekeloldey:::txtsize --> CsoeinbdBiaaur:::txtsize
-SaPeekeloldey:::txtsize --> Cspnyxsipge:::txtsize
-Ltdiruooscr:::txtsize --> CsoeinbdBiaaur:::txtsize
-CsoeinbdBiaaur:::txtsize --> Ctgatitleisy:::txtsize
-CsoeinbdBiaaur:::txtsize --> Uiawwpfi:::txtsize
-Peeuaaaehatho:::txtsize --> CtnkheYvalJetuen:::txtsize
-CtnkheYvalJetuen:::txtsize --> VmeeJetoisear:::txtsize
-VmeeJetoisear:::txtsize --> Jetisdntigntvem:::txtsize
-CtnkheYvalJetuen:::txtsize --> PsbpnogssseTv:::txtsize
-PsbpnogssseTv:::txtsize --> Bikdnasopns:::txtsize
-PsbpnogssseTv:::txtsize --> Tanrefeoirls:::txtsize
+Biaiesirom:::txtsize --> Uaiesitiwoe:::txtsize
+Uaiesitiwoe:::txtsize --> LheotbsaCatfios:::txtsize
+LheotbsaCatfios:::txtsize --> AteSaalhde:::txtsize
+LheotbsaCatfios:::txtsize --> TmifstninusrdsWrp:::txtsize
+Uaiesitiwoe:::txtsize --> Usecteadieaos:::txtsize
+Usecteadieaos:::txtsize --> UsnkaatfiecPa:::txtsize
+Usecteadieaos:::txtsize --> EproUdedt:::txtsize
+Biaiesirom:::txtsize --> Uwpisarosdey:::txtsize
+Uwpisarosdey:::txtsize --> Bssoydeiseiiylu:::txtsize
+Bssoydeiseiiylu:::txtsize --> Upenocdyon:::txtsize
+Bssoydeiseiiylu:::txtsize --> Uiawwpfi:::txtsize
+Uwpisarosdey:::txtsize --> BsisiPrCpysg:::txtsize
+BsisiPrCpysg:::txtsize --> Upenocdyon:::txtsize
+BsisiPrCpysg:::txtsize --> Hnruosd:::txtsize
+
+ChrpioQufscnn@{ shape: win-pane, label: "_Published Oct 16, 2025, 10:35 PM_
+Church of norway apologises to lgbtq+ community for past discrimination" }
+CybesaLccdbpi@{ shape: win-pane, label: "_Published Jul 31, 2025, 06:18 PM_
+Cherry vann becomes first woman and lgbtq+ cleric named archbishop in britain" }
+BpsiuchoarLeiar@{ shape: win-pane, label: "_Published Jan 22, 2025, 07:17 AM_
+Bishop asks scowling trump in church sermon to have mercy on lgbt people, illegal migrants" }
+TcioirdsGi@{ shape: win-pane, label: "_Published Jan 21, 2025, 10:16 AM_
+Trump curtails protections around diversity, lgbtq rights" }
+Wgfnmuoho@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:53 PM_
+‘what a great feeling!’ trump returns to the white house" }
+Aiotrllkaeegns@{ shape: win-pane, label: "_Published Jul 11, 2025, 03:13 PM_
+Archbishop of canterbury could scale back global role to avert anglican schism" }
+Ppbpeponvelb@{ shape: win-pane, label: "_Published May 04, 2025, 02:07 PM_
+Philippine bishops defend papal front runner over clerical sex abuse" }
+BpvoufaanantCeo@{ shape: win-pane, label: "_Published Jan 29, 2025, 04:08 AM_
+Bishop of liverpool accused of sexual assault and harassment, britain’s channel 4 reports" }
+
+ChrpioQufscnn:::txtsize --> CybesaLccdbpi:::txtsize
+CybesaLccdbpi:::txtsize --> BpsiuchoarLeiar:::txtsize
+BpsiuchoarLeiar:::txtsize --> TcioirdsGi:::txtsize
+BpsiuchoarLeiar:::txtsize --> Wgfnmuoho:::txtsize
+CybesaLccdbpi:::txtsize --> Aiotrllkaeegns:::txtsize
+Aiotrllkaeegns:::txtsize --> Ppbpeponvelb:::txtsize
+Aiotrllkaeegns:::txtsize --> BpvoufaanantCeo:::txtsize
+
+Feybrsneiinr@{ shape: win-pane, label: "_Published Oct 16, 2025, 10:05 PM_
+France angry at ‘arbitrary’ prison sentences against citizens in iran" }
+WoaInivi@{ shape: win-pane, label: "_Published Jun 24, 2025, 08:55 AM_
+What to know about iran’s notorious evin prison" }
+IlIErafSsa@{ shape: win-pane, label: "_Published Jun 23, 2025, 03:08 PM_
+Israel hits iran’s evin prison a day after us joins the war" }
+IottfSknae@{ shape: win-pane, label: "_Published Jun 23, 2025, 07:35 AM_
+Iran vows retaliation after us strikes on nuclear sites" }
+FenloihnaTntss@{ shape: win-pane, label: "_Published Sep 12, 2025, 05:22 PM_
+France demands release of citizens held in iran after tehran floats prisoner swop" }
+EeaUcseIes@{ shape: win-pane, label: "_Published Aug 28, 2025, 05:03 PM_
+Europeans launch un sanctions process on iran, letter says" }
+Curteeaiecwecus@{ shape: win-pane, label: "_Published Aug 28, 2025, 07:08 AM_
+Clean-up of iran site likely to erase any evidence of nuclear work, research group says" }
+Ulaokaetsi@{ shape: win-pane, label: "_Published Aug 27, 2025, 07:57 PM_
+Un nuclear watchdog back in iran, no deal yet on inspections" }
+FiFhzeererffeait@{ shape: win-pane, label: "_Published Jun 27, 2025, 09:26 PM_
+Families of french citizens detained in iran plead for proof of life after israel prison strike" }
+IlIErafSsa@{ shape: win-pane, label: "_Published Jun 23, 2025, 03:08 PM_
+Israel hits iran’s evin prison a day after us joins the war" }
+WoaInivi@{ shape: win-pane, label: "_Published Jun 24, 2025, 08:55 AM_
+What to know about iran’s notorious evin prison" }
+
+Feybrsneiinr:::txtsize --> WoaInivi:::txtsize
+WoaInivi:::txtsize --> IlIErafSsa:::txtsize
+IlIErafSsa:::txtsize --> IottfSknae:::txtsize
+Feybrsneiinr:::txtsize --> FenloihnaTntss:::txtsize
+FenloihnaTntss:::txtsize --> EeaUcseIes:::txtsize
+EeaUcseIes:::txtsize --> Curteeaiecwecus:::txtsize
+EeaUcseIes:::txtsize --> Ulaokaetsi:::txtsize
+FenloihnaTntss:::txtsize --> FiFhzeererffeait:::txtsize
+FiFhzeererffeait:::txtsize --> IlIErafSsa:::txtsize
+FiFhzeererffeait:::txtsize --> WoaInivi:::txtsize
 
 ```
-<i>Last updated: 2025-10-16 20:00:43.382107 (GMT+8)</i>
+<i>Last updated: 2025-10-17 00:01:11.398302 (GMT+8)</i>
 <!-- END -->
