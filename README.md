@@ -16,144 +16,138 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Uaasaa@{ shape: win-pane, label: "_Published Oct 16, 2025, 03:55 PM_
-Uruguay legalises euthanasia" }
-Tgafsynecr@{ shape: win-pane, label: "_Published Jun 20, 2025, 09:22 PM_
-The legal status of assisted dying in different countries" }
-Bsmstaridl@{ shape: win-pane, label: "_Published Jun 20, 2025, 07:07 AM_
-British lawmakers to vote on landmark assisted dying law" }
-FhaavidBatypa@{ shape: win-pane, label: "_Published May 28, 2025, 02:08 AM_
-French lawmakers approve assisted dying bill, paving the way for approval" }
-Oidaryopcsv@{ shape: win-pane, label: "_Published Nov 28, 2024, 05:00 PM_
-On assisted dying, are we really any good at predicting survival?" }
-Bsdesyaaee@{ shape: win-pane, label: "_Published Jun 20, 2025, 07:15 PM_
-British mps debate assisted dying law ahead of key vote" }
-Bsmstaridl@{ shape: win-pane, label: "_Published Jun 20, 2025, 07:07 AM_
-British lawmakers to vote on landmark assisted dying law" }
-Bsmstsen@{ shape: win-pane, label: "_Published Nov 28, 2024, 06:50 PM_
-British lawmakers to vote on assisted dying" }
-FhaavidBatypa@{ shape: win-pane, label: "_Published May 28, 2025, 02:08 AM_
-French lawmakers approve assisted dying bill, paving the way for approval" }
-SaampeidBno@{ shape: win-pane, label: "_Published May 14, 2025, 02:27 AM_
-Scotland’s parliament approves assisted dying bill in key vote" }
-Bsmsiaposyi@{ shape: win-pane, label: "_Published Nov 29, 2024, 10:32 PM_
-British lawmakers give initial support to assisted dying bill" }
-Bsmsiaposyi@{ shape: win-pane, label: "_Published Nov 29, 2024, 10:32 PM_
-British lawmakers give initial support to assisted dying bill" }
-IsITnrrtl@{ shape: win-pane, label: "_Published Feb 12, 2025, 12:48 AM_
-In first for italy, tuscany approves right-to-die law" }
-Oidaryopcsv@{ shape: win-pane, label: "_Published Nov 28, 2024, 05:00 PM_
-On assisted dying, are we really any good at predicting survival?" }
-Bsmstsen@{ shape: win-pane, label: "_Published Nov 28, 2024, 06:50 PM_
-British lawmakers to vote on assisted dying" }
+Fhrsnnttkenen@{ shape: win-pane, label: "_Published Oct 16, 2025, 07:11 PM_
+French pm survives no-confidence votes after making pension concession" }
+Fhsnrlise@{ shape: win-pane, label: "_Published Oct 15, 2025, 01:00 AM_
+French pm to suspend macron's flagship pension reform" }
+WFedogtcs@{ shape: win-pane, label: "_Published Oct 06, 2025, 05:36 PM_
+Why is france mired in a rolling political crisis?" }
+Fhrtssrgidnoci@{ shape: win-pane, label: "_Published Oct 06, 2025, 04:01 PM_
+French government quits hours after being appointed, deepening political crisis" }
+Fhriwrelrnham@{ shape: win-pane, label: "_Published Jul 08, 2024, 02:06 AM_
+French voters deliver a win for the left, a blow for le pen and a hung parliament" }
+Fhiyiwnbtsni@{ shape: win-pane, label: "_Published Oct 13, 2025, 04:35 AM_
+French presidency unveils new cabinet as budget pressure intensifies" }
+Ferancaoyernn@{ shape: win-pane, label: "_Published Oct 11, 2025, 06:48 AM_
+France’s macron reappoints lecornu as pm four days after his resignation" }
+FhcMndoeifube@{ shape: win-pane, label: "_Published Oct 11, 2025, 07:59 PM_
+French pm lecornu, macron’s ‘soldier monk’, steels himself for budget battle" }
+Ferninfceehwrt@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:15 PM_
+France’s macron won’t resign as no-confidence votes threaten his new government" }
+Ferancaoyernn@{ shape: win-pane, label: "_Published Oct 11, 2025, 06:48 AM_
+France’s macron reappoints lecornu as pm four days after his resignation" }
+FhiMnscaeip@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:10 AM_
+French president macron faces more chaos as latest pm is toppled" }
+MnoraadfmMs@{ shape: win-pane, label: "_Published Oct 10, 2025, 02:43 PM_
+Macron summons party leaders as deadline for naming pm nears" }
+Ferancaoyernn@{ shape: win-pane, label: "_Published Oct 11, 2025, 06:48 AM_
+France’s macron reappoints lecornu as pm four days after his resignation" }
+FhiMnscaeip@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:10 AM_
+French president macron faces more chaos as latest pm is toppled" }
+MnoraadfmMs@{ shape: win-pane, label: "_Published Oct 10, 2025, 02:43 PM_
+Macron summons party leaders as deadline for naming pm nears" }
 
-Uaasaa:::txtsize --> Tgafsynecr:::txtsize
-Tgafsynecr:::txtsize --> Bsmstaridl:::txtsize
-Bsmstaridl:::txtsize --> FhaavidBatypa:::txtsize
-Bsmstaridl:::txtsize --> Oidaryopcsv:::txtsize
-Tgafsynecr:::txtsize --> Bsdesyaaee:::txtsize
-Bsdesyaaee:::txtsize --> Bsmstaridl:::txtsize
-Bsdesyaaee:::txtsize --> Bsmstsen:::txtsize
-Uaasaa:::txtsize --> FhaavidBatypa:::txtsize
-FhaavidBatypa:::txtsize --> SaampeidBno:::txtsize
-SaampeidBno:::txtsize --> Bsmsiaposyi:::txtsize
-SaampeidBno:::txtsize --> Bsmsiaposyi:::txtsize
-FhaavidBatypa:::txtsize --> IsITnrrtl:::txtsize
-IsITnrrtl:::txtsize --> Oidaryopcsv:::txtsize
-IsITnrrtl:::txtsize --> Bsmstsen:::txtsize
+Fhrsnnttkenen:::txtsize --> Fhsnrlise:::txtsize
+Fhsnrlise:::txtsize --> WFedogtcs:::txtsize
+WFedogtcs:::txtsize --> Fhrtssrgidnoci:::txtsize
+WFedogtcs:::txtsize --> Fhriwrelrnham:::txtsize
+Fhsnrlise:::txtsize --> Fhiyiwnbtsni:::txtsize
+Fhiyiwnbtsni:::txtsize --> Ferancaoyernn:::txtsize
+Fhiyiwnbtsni:::txtsize --> FhcMndoeifube:::txtsize
+Fhrsnnttkenen:::txtsize --> Ferninfceehwrt:::txtsize
+Ferninfceehwrt:::txtsize --> Ferancaoyernn:::txtsize
+Ferancaoyernn:::txtsize --> FhiMnscaeip:::txtsize
+Ferancaoyernn:::txtsize --> MnoraadfmMs:::txtsize
+Ferninfceehwrt:::txtsize --> Ferancaoyernn:::txtsize
+Ferancaoyernn:::txtsize --> FhiMnscaeip:::txtsize
+Ferancaoyernn:::txtsize --> MnoraadfmMs:::txtsize
 
-Unaaeegiusdt@{ shape: win-pane, label: "_Published Oct 16, 2025, 02:41 PM_
-Us agency blames faulty engineering for titan submersible disaster" }
-Tsreitois@{ shape: win-pane, label: "_Published Jun 23, 2023, 06:45 AM_
-Titan submersible: what is a ‘catastrophic implosion’?" }
-Tsreriapmilrd@{ shape: win-pane, label: "_Published Jun 23, 2023, 03:23 AM_
-Titan submersible destroyed in ‘catastrophic implosion’, all 5 aboard dead" }
-Ttuoeldfiusid@{ shape: win-pane, label: "_Published Jun 23, 2023, 09:55 AM_
-Tributes pour in for five people who died after titan submersible imploded" }
-Tsreitois@{ shape: win-pane, label: "_Published Jun 23, 2023, 06:45 AM_
-Titan submersible: what is a ‘catastrophic implosion’?" }
-Tifixoeenstm@{ shape: win-pane, label: "_Published Jun 21, 2023, 07:15 AM_
-Titanic sub firm fired exec who raised safety concerns: court documents" }
-Recitsreridad@{ shape: win-pane, label: "_Published Jun 21, 2023, 02:37 AM_
-Rescuers race to find titanic submersible after hearing undersea sounds" }
-Emeshsroosic@{ shape: win-pane, label: "_Published Jun 21, 2023, 04:45 AM_
-‘every minute feels like hours,’ says friend of man on missing titanic sub" }
-Tsreriapmilrd@{ shape: win-pane, label: "_Published Jun 23, 2023, 03:23 AM_
-Titan submersible destroyed in ‘catastrophic implosion’, all 5 aboard dead" }
-Ttuoeldfiusid@{ shape: win-pane, label: "_Published Jun 23, 2023, 09:55 AM_
-Tributes pour in for five people who died after titan submersible imploded" }
-Tsreriapmilrd@{ shape: win-pane, label: "_Published Jun 23, 2023, 03:23 AM_
-Titan submersible destroyed in ‘catastrophic implosion’, all 5 aboard dead" }
-BsomnaudufdtGerc@{ shape: win-pane, label: "_Published Jun 20, 2023, 05:35 PM_
-British tycoon on missing titanic sub is adventure buff, holder of three guinness world records" }
-Tsreitois@{ shape: win-pane, label: "_Published Jun 23, 2023, 06:45 AM_
-Titan submersible: what is a ‘catastrophic implosion’?" }
-Tsreriapmilrd@{ shape: win-pane, label: "_Published Jun 23, 2023, 03:23 AM_
-Titan submersible destroyed in ‘catastrophic implosion’, all 5 aboard dead" }
-Tifixoeenstm@{ shape: win-pane, label: "_Published Jun 21, 2023, 07:15 AM_
-Titanic sub firm fired exec who raised safety concerns: court documents" }
+Ilseetdiiaornnt@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:25 PM_
+Israel, hamas trade blame over truce deal violations, rafah border reopening in question" }
+IlHhdbhnroe@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:54 PM_
+Israel says hamas handed over body that is not former hostage" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
+IlaGRcitppdusra@{ shape: win-pane, label: "_Published Oct 15, 2025, 02:30 PM_
+Israel will allow gaza’s rafah crossing with egypt to open and ramp up aid, says broadcaster" }
+Hhooeeearnc@{ shape: win-pane, label: "_Published Oct 15, 2025, 06:24 AM_
+Hamas hands over hostage bodies after israel threatens aid cut" }
+Tsausrsdaol@{ shape: win-pane, label: "_Published Oct 15, 2025, 03:10 AM_
+Trump says hamas must disarm or be disarmed, perhaps violently" }
+Ilprnpfogriyteul@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:20 PM_
+Israel says preparations to open rafah crossing underway with egypt, date to be announced later" }
+Auotamneead@{ shape: win-pane, label: "_Published Oct 15, 2025, 06:10 PM_
+Aid trucks roll into gaza as hamas hands over more hostage bodies" }
+Hhooeeearnc@{ shape: win-pane, label: "_Published Oct 15, 2025, 06:24 AM_
+Hamas hands over hostage bodies after israel threatens aid cut" }
+Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
+Trump says israel could resume fighting in gaza if hamas fails to disarm" }
+GeaetecacfNees@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:40 AM_
+Gaza needs massive boost in emergency aid after ceasefire, un relief chief says" }
+Hholissrrazo@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:47 PM_
+Hamas hands over all living hostages to israel; trump says gaza war over" }
+Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
+Trump says israel could resume fighting in gaza if hamas fails to disarm" }
 
-Unaaeegiusdt:::txtsize --> Tsreitois:::txtsize
-Tsreitois:::txtsize --> Tsreriapmilrd:::txtsize
-Tsreriapmilrd:::txtsize --> Ttuoeldfiusid:::txtsize
-Tsreriapmilrd:::txtsize --> Tsreitois:::txtsize
-Tsreitois:::txtsize --> Tifixoeenstm:::txtsize
-Tifixoeenstm:::txtsize --> Recitsreridad:::txtsize
-Tifixoeenstm:::txtsize --> Emeshsroosic:::txtsize
-Unaaeegiusdt:::txtsize --> Tsreriapmilrd:::txtsize
-Tsreriapmilrd:::txtsize --> Ttuoeldfiusid:::txtsize
-Ttuoeldfiusid:::txtsize --> Tsreriapmilrd:::txtsize
-Ttuoeldfiusid:::txtsize --> BsomnaudufdtGerc:::txtsize
-Tsreriapmilrd:::txtsize --> Tsreitois:::txtsize
-Tsreitois:::txtsize --> Tsreriapmilrd:::txtsize
-Tsreitois:::txtsize --> Tifixoeenstm:::txtsize
+Ilseetdiiaornnt:::txtsize --> IlHhdbhnroe:::txtsize
+IlHhdbhnroe:::txtsize --> Tdrcaaededlncbs:::txtsize
+Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
+IlHhdbhnroe:::txtsize --> IlaGRcitppdusra:::txtsize
+IlaGRcitppdusra:::txtsize --> Hhooeeearnc:::txtsize
+IlaGRcitppdusra:::txtsize --> Tsausrsdaol:::txtsize
+Ilseetdiiaornnt:::txtsize --> Ilprnpfogriyteul:::txtsize
+Ilprnpfogriyteul:::txtsize --> Auotamneead:::txtsize
+Auotamneead:::txtsize --> Hhooeeearnc:::txtsize
+Auotamneead:::txtsize --> Tsscretniali:::txtsize
+Ilprnpfogriyteul:::txtsize --> GeaetecacfNees:::txtsize
+GeaetecacfNees:::txtsize --> Hholissrrazo:::txtsize
+GeaetecacfNees:::txtsize --> Tsscretniali:::txtsize
 
-PAmioirbnrarg@{ shape: win-pane, label: "_Published Oct 16, 2025, 02:10 PM_
-Paris agreement dials down climate risks but danger from heat is growing" }
-Cttmghrroew@{ shape: win-pane, label: "_Published Oct 24, 2024, 10:21 PM_
-Climate set to warm by 3.1 deg c without greater action, un report warns" }
-Hdeartwrtih@{ shape: win-pane, label: "_Published Oct 07, 2024, 05:00 AM_
-Hot and bothered: can s’pore’s outdoor workers beat the rising heat?" }
-Mluhotgirsrguta@{ shape: win-pane, label: "_Published Oct 07, 2024, 05:00 AM_
-‘mentally, you just have to push through’: delivery riders endure longer hours, hotter days" }
-Ttnitreeispos@{ shape: win-pane, label: "_Published Oct 07, 2024, 05:00 AM_
-Too hot to handle? rising temperatures pose growing risk for port workers" }
-SlToivicei@{ shape: win-pane, label: "_Published Jun 14, 2024, 12:45 PM_
-St explains: the global fight over climate change funding" }
-Ctnntsaost@{ shape: win-pane, label: "_Published Jun 14, 2024, 04:46 AM_
-Climate change funding talks stuck ahead of cop29 summit" }
-DowiUmulau@{ shape: win-pane, label: "_Published Apr 09, 2024, 02:30 PM_
-Don’t forget women in new un climate fund, policymakers urged" }
-Ntnosager@{ shape: win-pane, label: "_Published Oct 13, 2025, 11:10 AM_
-Not nothing, not enough: is the paris agreement working?" }
-Smhotanrmor@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:31 AM_
-September third-hottest globally on record: climate monitor" }
-Hogomfhtd@{ shape: win-pane, label: "_Published Oct 08, 2025, 10:05 PM_
-Hong kong logs record number of ‘very hot’ october days" }
-SmatnraOw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:55 PM_
-September was hottest on record in japan’s okinawa" }
-Ranghsocne@{ shape: win-pane, label: "_Published Oct 07, 2025, 01:21 PM_
-Renewable energy growth slows due to policy changes: report" }
-Ctlilranbhattlgn@{ shape: win-pane, label: "_Published Sep 24, 2024, 01:25 PM_
-Climate goal to triple global renewable energy by 2030 within reach: international energy agency" }
-Ualeeuakfabe@{ shape: win-pane, label: "_Published Jun 30, 2025, 11:41 PM_
-Us senate bill’s clean energy cuts draw backlash from labour, business" }
+Peeuaaaehatho@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:12 PM_
+Prince andrew accuser says he acted as if sex with her was ‘birthright’: memoir" }
+Ltdiruooscr@{ shape: win-pane, label: "_Published Dec 15, 2024, 08:55 PM_
+Latest scandal raises fresh questions about uk’s prince andrew" }
+SaPeekeloldey@{ shape: win-pane, label: "_Published Dec 14, 2024, 06:15 PM_
+Scandal-hit prince andrew back in the headlines over alleged chinese spy" }
+CsoeinbdBiaaur@{ shape: win-pane, label: "_Published Dec 13, 2024, 03:08 AM_
+Chinese associate of prince andrew banned from britain as national security risk" }
+Cspnyxsipge@{ shape: win-pane, label: "_Published Jan 08, 2024, 10:05 AM_
+China’s top spy agency says it exposes british espionage case" }
+CsoeinbdBiaaur@{ shape: win-pane, label: "_Published Dec 13, 2024, 03:08 AM_
+Chinese associate of prince andrew banned from britain as national security risk" }
+Ctgatitleisy@{ shape: win-pane, label: "_Published Sep 14, 2023, 07:57 PM_
+China trying to headhunt british nationals in key positions, uk says" }
+Uiawwpfi@{ shape: win-pane, label: "_Published Apr 22, 2024, 10:10 PM_
+Uk police charge two men with spying for china" }
+CtnkheYvalJetuen@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:56 AM_
+Charities end links with duchess of york over e-mail calling jeffrey epstein ‘supreme friend’" }
+VmeeJetoisear@{ shape: win-pane, label: "_Published Sep 04, 2025, 02:07 AM_
+Victims of sex offender jeffrey epstein compiling list of sexual abusers" }
+Jetisdntigntvem@{ shape: win-pane, label: "_Published Jul 08, 2025, 04:02 AM_
+Jeffrey epstein died by suicide, has no sex trafficking ‘client list’: us government memo" }
+PsbpnogssseTv@{ shape: win-pane, label: "_Published Sep 17, 2025, 07:09 AM_
+Protesters beam epstein video at england’s windsor castle before trump visit" }
+Bikdnasopns@{ shape: win-pane, label: "_Published Sep 11, 2025, 06:03 PM_
+Britain sacks mandelson as us ambassador over epstein links" }
+Tanrefeoirls@{ shape: win-pane, label: "_Published Sep 15, 2025, 10:20 AM_
+Trump and king charles: heads of state with opposing personalities" }
 
-PAmioirbnrarg:::txtsize --> Cttmghrroew:::txtsize
-Cttmghrroew:::txtsize --> Hdeartwrtih:::txtsize
-Hdeartwrtih:::txtsize --> Mluhotgirsrguta:::txtsize
-Hdeartwrtih:::txtsize --> Ttnitreeispos:::txtsize
-Cttmghrroew:::txtsize --> SlToivicei:::txtsize
-SlToivicei:::txtsize --> Ctnntsaost:::txtsize
-SlToivicei:::txtsize --> DowiUmulau:::txtsize
-PAmioirbnrarg:::txtsize --> Ntnosager:::txtsize
-Ntnosager:::txtsize --> Smhotanrmor:::txtsize
-Smhotanrmor:::txtsize --> Hogomfhtd:::txtsize
-Smhotanrmor:::txtsize --> SmatnraOw:::txtsize
-Ntnosager:::txtsize --> Ranghsocne:::txtsize
-Ranghsocne:::txtsize --> Ctlilranbhattlgn:::txtsize
-Ranghsocne:::txtsize --> Ualeeuakfabe:::txtsize
+Peeuaaaehatho:::txtsize --> Ltdiruooscr:::txtsize
+Ltdiruooscr:::txtsize --> SaPeekeloldey:::txtsize
+SaPeekeloldey:::txtsize --> CsoeinbdBiaaur:::txtsize
+SaPeekeloldey:::txtsize --> Cspnyxsipge:::txtsize
+Ltdiruooscr:::txtsize --> CsoeinbdBiaaur:::txtsize
+CsoeinbdBiaaur:::txtsize --> Ctgatitleisy:::txtsize
+CsoeinbdBiaaur:::txtsize --> Uiawwpfi:::txtsize
+Peeuaaaehatho:::txtsize --> CtnkheYvalJetuen:::txtsize
+CtnkheYvalJetuen:::txtsize --> VmeeJetoisear:::txtsize
+VmeeJetoisear:::txtsize --> Jetisdntigntvem:::txtsize
+CtnkheYvalJetuen:::txtsize --> PsbpnogssseTv:::txtsize
+PsbpnogssseTv:::txtsize --> Bikdnasopns:::txtsize
+PsbpnogssseTv:::txtsize --> Tanrefeoirls:::txtsize
 
 ```
-<i>Last updated: 2025-10-16 16:00:58.990464 (GMT+8)</i>
+<i>Last updated: 2025-10-16 20:00:43.382107 (GMT+8)</i>
 <!-- END -->
