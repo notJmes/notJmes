@@ -16,111 +16,141 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Biaiesirom@{ shape: win-pane, label: "_Published Oct 16, 2025, 11:10 PM_
-Britain delays chinese embassy ruling for a second time" }
-Uaiesitiwoe@{ shape: win-pane, label: "_Published Aug 23, 2025, 12:47 AM_
-Uk delays chinese embassy ruling after beijing withholds detail" }
-LheotbsaCatfios@{ shape: win-pane, label: "_Published Jul 15, 2025, 11:55 PM_
-Life-threatening operations by russia, iran and china are intensifying in uk, police say" }
-AteSaalhde@{ shape: win-pane, label: "_Published Sep 10, 2018, 12:42 PM_
-A spy story: sergei skripal was a little fish. he had a big enemy" }
-TmifstninusrdsWrp@{ shape: win-pane, label: "_Published Jul 08, 2025, 09:12 PM_
-Three men guilty of uk arson attack on ukraine-linked businesses ordered by russia’s wagner group" }
-Usecteadieaos@{ shape: win-pane, label: "_Published Apr 13, 2025, 02:04 AM_
-Uk passes emergency law to save china-owned british steel plant from closure" }
-UsnkaatfiecPa@{ shape: win-pane, label: "_Published Apr 11, 2025, 11:23 PM_
-Uk lays groundwork for nationalisation of british steel, recalls parliament" }
-EproUdedt@{ shape: win-pane, label: "_Published Apr 09, 2025, 09:50 PM_
-Eu adopts tariffs on $31b of us goods in metals dispute" }
-Uwpisarosdey@{ shape: win-pane, label: "_Published Oct 14, 2025, 02:14 AM_
-Uk’s mi5 warns politicians they are targets of russia and chinese spying" }
-Bssoydeiseiiylu@{ shape: win-pane, label: "_Published Oct 08, 2025, 03:47 AM_
-British prosecutors say they did ‘everything possible’ to bring china spy trial to court" }
-Upenocdyon@{ shape: win-pane, label: "_Published Sep 15, 2025, 06:20 PM_
-Uk drops case against two men accused of spying for china" }
-Uiawwpfi@{ shape: win-pane, label: "_Published Apr 22, 2024, 10:10 PM_
-Uk police charge two men with spying for china" }
-BsisiPrCpysg@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:42 AM_
-British ministers criticise pm starmer’s china policy amid spying row" }
-Upenocdyon@{ shape: win-pane, label: "_Published Sep 15, 2025, 06:20 PM_
-Uk drops case against two men accused of spying for china" }
-Hnruosd@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:32 AM_
-How donald trump pulled off his gaza deal" }
+Ugfftlic@{ shape: win-pane, label: "_Published Oct 17, 2025, 03:59 AM_
+Us budget deficit falls 2% to $2.3 trillion in fiscal 2025" }
+Bnsreedlra@{ shape: win-pane, label: "_Published Aug 27, 2025, 03:29 AM_
+Bessent says us tariff revenue could be well over $600b a year" }
+UaStatfnosalcrib@{ shape: win-pane, label: "_Published Aug 20, 2025, 02:56 AM_
+Us treasury secretary says us tariff revenues to rise ‘substantially’, focus on reducing debt" }
+TtfsfosfUdt@{ shape: win-pane, label: "_Published Aug 19, 2025, 01:31 PM_
+Trump tariffs get seal of approval as s&p affirms us credit rating" }
+Tsrsoiwaatde@{ shape: win-pane, label: "_Published Aug 19, 2025, 10:51 AM_
+Trump’s us tariffs seen fostering new china-global south trade order" }
+Cogesvncdrtmf@{ shape: win-pane, label: "_Published Aug 26, 2025, 03:25 PM_
+Call for singapore firms to invest in africa amid uncertainty from tariffs" }
+Spiyoiikeinpuobe@{ shape: win-pane, label: "_Published Aug 25, 2024, 03:00 PM_
+Singapore firms eye opportunities in cookstoves, evs in ghana trip to source for carbon credits" }
+TnrtiaeaAastyp@{ shape: win-pane, label: "_Published Mar 17, 2025, 05:00 AM_
+Two singapore fintech firms have a head start as africa makes digital payment push" }
+Uaysaeetbl@{ shape: win-pane, label: "_Published Oct 15, 2025, 12:24 PM_
+Us treasury yields fall as powell keeps rate cut bets alive" }
+Ueeestcolnk@{ shape: win-pane, label: "_Published Sep 18, 2025, 02:38 AM_
+Us federal reserve makes first rate cut of 2025 on employment risks" }
+Tsdwdesenpi@{ shape: win-pane, label: "_Published Aug 09, 2025, 12:56 AM_
+Trump’s us fed pick wanted to upend its protection from politics" }
+TmnscavfSLo@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:43 AM_
+Trump makes new push for court approval to fire us fed’s lisa cook" }
+Uentesnknih@{ shape: win-pane, label: "_Published Oct 06, 2025, 09:01 PM_
+Us government shutdown enters second week with no end in sight" }
+TpsrohgtBstutw@{ shape: win-pane, label: "_Published Jun 25, 2025, 09:55 AM_
+Trump pushes congress to pass his ‘big beautiful bill’ as debate clouds path forward" }
+Waswhomhw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:42 PM_
+What happens next with the us government shutdown?" }
 
-Biaiesirom:::txtsize --> Uaiesitiwoe:::txtsize
-Uaiesitiwoe:::txtsize --> LheotbsaCatfios:::txtsize
-LheotbsaCatfios:::txtsize --> AteSaalhde:::txtsize
-LheotbsaCatfios:::txtsize --> TmifstninusrdsWrp:::txtsize
-Uaiesitiwoe:::txtsize --> Usecteadieaos:::txtsize
-Usecteadieaos:::txtsize --> UsnkaatfiecPa:::txtsize
-Usecteadieaos:::txtsize --> EproUdedt:::txtsize
-Biaiesirom:::txtsize --> Uwpisarosdey:::txtsize
-Uwpisarosdey:::txtsize --> Bssoydeiseiiylu:::txtsize
-Bssoydeiseiiylu:::txtsize --> Upenocdyon:::txtsize
-Bssoydeiseiiylu:::txtsize --> Uiawwpfi:::txtsize
-Uwpisarosdey:::txtsize --> BsisiPrCpysg:::txtsize
-BsisiPrCpysg:::txtsize --> Upenocdyon:::txtsize
-BsisiPrCpysg:::txtsize --> Hnruosd:::txtsize
+Ugfftlic:::txtsize --> Bnsreedlra:::txtsize
+Bnsreedlra:::txtsize --> UaStatfnosalcrib:::txtsize
+UaStatfnosalcrib:::txtsize --> TtfsfosfUdt:::txtsize
+UaStatfnosalcrib:::txtsize --> Tsrsoiwaatde:::txtsize
+Bnsreedlra:::txtsize --> Cogesvncdrtmf:::txtsize
+Cogesvncdrtmf:::txtsize --> Spiyoiikeinpuobe:::txtsize
+Cogesvncdrtmf:::txtsize --> TnrtiaeaAastyp:::txtsize
+Ugfftlic:::txtsize --> Uaysaeetbl:::txtsize
+Uaysaeetbl:::txtsize --> Ueeestcolnk:::txtsize
+Ueeestcolnk:::txtsize --> Tsdwdesenpi:::txtsize
+Ueeestcolnk:::txtsize --> TmnscavfSLo:::txtsize
+Uaysaeetbl:::txtsize --> Uentesnknih:::txtsize
+Uentesnknih:::txtsize --> TpsrohgtBstutw:::txtsize
+Uentesnknih:::txtsize --> Waswhomhw:::txtsize
 
-ChrpioQufscnn@{ shape: win-pane, label: "_Published Oct 16, 2025, 10:35 PM_
-Church of norway apologises to lgbtq+ community for past discrimination" }
-CybesaLccdbpi@{ shape: win-pane, label: "_Published Jul 31, 2025, 06:18 PM_
-Cherry vann becomes first woman and lgbtq+ cleric named archbishop in britain" }
-BpsiuchoarLeiar@{ shape: win-pane, label: "_Published Jan 22, 2025, 07:17 AM_
-Bishop asks scowling trump in church sermon to have mercy on lgbt people, illegal migrants" }
-TcioirdsGi@{ shape: win-pane, label: "_Published Jan 21, 2025, 10:16 AM_
-Trump curtails protections around diversity, lgbtq rights" }
-Wgfnmuoho@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:53 PM_
-‘what a great feeling!’ trump returns to the white house" }
-Aiotrllkaeegns@{ shape: win-pane, label: "_Published Jul 11, 2025, 03:13 PM_
-Archbishop of canterbury could scale back global role to avert anglican schism" }
-Ppbpeponvelb@{ shape: win-pane, label: "_Published May 04, 2025, 02:07 PM_
-Philippine bishops defend papal front runner over clerical sex abuse" }
-BpvoufaanantCeo@{ shape: win-pane, label: "_Published Jan 29, 2025, 04:08 AM_
-Bishop of liverpool accused of sexual assault and harassment, britain’s channel 4 reports" }
+Tttoalatnpkn@{ shape: win-pane, label: "_Published Oct 17, 2025, 02:21 AM_
+Trump threatens to ‘go in and kill’ hamas if it doesn’t stop gaza killings" }
+Thtndrltasact@{ shape: win-pane, label: "_Published Oct 14, 2025, 01:41 AM_
+Trump hails ‘tremendous day for middle east’ as leaders sign gaza declaration" }
+TsogrrsiPtnesiais@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:25 PM_
+Trump says ‘long nightmare’ over for israelis and palestinians, receives standing ovation in knesset" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Hholissrrazo@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:47 PM_
+Hamas hands over all living hostages to israel; trump says gaza war over" }
+TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
+Tears, joy in israel as hamas hands over first hostages" }
+Hholissrrazo@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:47 PM_
+Hamas hands over all living hostages to israel; trump says gaza war over" }
+Ilnrsaehwreit@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:04 AM_
+Israelis honour trump as hostages return home two years after their capture" }
+Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
+Hamas says it has handed over all hostage remains it can recover" }
+Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
+Trump says israel could resume fighting in gaza if hamas fails to disarm" }
+Hcewfkntrnucr@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:30 AM_
+Hamas carries out wave of gaza killings, citing crime and security concerns" }
+Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
+Hamas says it has handed over all hostage remains it can recover" }
+IlHhdbhnroe@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:54 PM_
+Israel says hamas handed over body that is not former hostage" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+IlaGRcitppdusra@{ shape: win-pane, label: "_Published Oct 15, 2025, 02:30 PM_
+Israel will allow gaza’s rafah crossing with egypt to open and ramp up aid, says broadcaster" }
 
-ChrpioQufscnn:::txtsize --> CybesaLccdbpi:::txtsize
-CybesaLccdbpi:::txtsize --> BpsiuchoarLeiar:::txtsize
-BpsiuchoarLeiar:::txtsize --> TcioirdsGi:::txtsize
-BpsiuchoarLeiar:::txtsize --> Wgfnmuoho:::txtsize
-CybesaLccdbpi:::txtsize --> Aiotrllkaeegns:::txtsize
-Aiotrllkaeegns:::txtsize --> Ppbpeponvelb:::txtsize
-Aiotrllkaeegns:::txtsize --> BpvoufaanantCeo:::txtsize
+Tttoalatnpkn:::txtsize --> Thtndrltasact:::txtsize
+Thtndrltasact:::txtsize --> TsogrrsiPtnesiais:::txtsize
+TsogrrsiPtnesiais:::txtsize --> TssHaossaaorslaoe:::txtsize
+TsogrrsiPtnesiais:::txtsize --> Hholissrrazo:::txtsize
+Thtndrltasact:::txtsize --> TjIlmnest:::txtsize
+TjIlmnest:::txtsize --> Hholissrrazo:::txtsize
+TjIlmnest:::txtsize --> Ilnrsaehwreit:::txtsize
+Tttoalatnpkn:::txtsize --> Hstaoltesnv:::txtsize
+Hstaoltesnv:::txtsize --> Tsscretniali:::txtsize
+Tsscretniali:::txtsize --> Hcewfkntrnucr:::txtsize
+Tsscretniali:::txtsize --> Hstaoltesnv:::txtsize
+Hstaoltesnv:::txtsize --> IlHhdbhnroe:::txtsize
+IlHhdbhnroe:::txtsize --> Tdrcaaededlncbs:::txtsize
+IlHhdbhnroe:::txtsize --> IlaGRcitppdusra:::txtsize
 
-Feybrsneiinr@{ shape: win-pane, label: "_Published Oct 16, 2025, 10:05 PM_
-France angry at ‘arbitrary’ prison sentences against citizens in iran" }
-WoaInivi@{ shape: win-pane, label: "_Published Jun 24, 2025, 08:55 AM_
-What to know about iran’s notorious evin prison" }
-IlIErafSsa@{ shape: win-pane, label: "_Published Jun 23, 2025, 03:08 PM_
-Israel hits iran’s evin prison a day after us joins the war" }
-IottfSknae@{ shape: win-pane, label: "_Published Jun 23, 2025, 07:35 AM_
-Iran vows retaliation after us strikes on nuclear sites" }
-FenloihnaTntss@{ shape: win-pane, label: "_Published Sep 12, 2025, 05:22 PM_
-France demands release of citizens held in iran after tehran floats prisoner swop" }
-EeaUcseIes@{ shape: win-pane, label: "_Published Aug 28, 2025, 05:03 PM_
-Europeans launch un sanctions process on iran, letter says" }
-Curteeaiecwecus@{ shape: win-pane, label: "_Published Aug 28, 2025, 07:08 AM_
-Clean-up of iran site likely to erase any evidence of nuclear work, research group says" }
-Ulaokaetsi@{ shape: win-pane, label: "_Published Aug 27, 2025, 07:57 PM_
-Un nuclear watchdog back in iran, no deal yet on inspections" }
-FiFhzeererffeait@{ shape: win-pane, label: "_Published Jun 27, 2025, 09:26 PM_
-Families of french citizens detained in iran plead for proof of life after israel prison strike" }
-IlIErafSsa@{ shape: win-pane, label: "_Published Jun 23, 2025, 03:08 PM_
-Israel hits iran’s evin prison a day after us joins the war" }
-WoaInivi@{ shape: win-pane, label: "_Published Jun 24, 2025, 08:55 AM_
-What to know about iran’s notorious evin prison" }
+Fressaeleflio@{ shape: win-pane, label: "_Published Oct 17, 2025, 12:49 AM_
+Former israeli hostage says captives could have been freed ‘long time ago’" }
+Hpeaoelenol@{ shape: win-pane, label: "_Published Jan 25, 2025, 07:20 PM_
+Hamas parades israeli hostages at slick ceremony before release" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+Hrsuaoeesfd@{ shape: win-pane, label: "_Published Jan 25, 2025, 05:32 PM_
+Hamas releases four israeli hostages in second swop of gaza deal" }
+Ilshedoooia@{ shape: win-pane, label: "_Published Jan 16, 2025, 12:59 AM_
+Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
+Hfhgreeeiiraei@{ shape: win-pane, label: "_Published Jan 20, 2025, 08:52 AM_
+Hamas frees hostages, israel releases palestinian prisoners on day 1 of ceasefire" }
+Ganwaabtneiyd@{ shape: win-pane, label: "_Published Oct 16, 2025, 05:15 PM_
+Gaza man reunited with family after being told in israeli jail they were dead" }
+TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
+Tears, joy in israel as hamas hands over first hostages" }
+Hholissrrazo@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:47 PM_
+Hamas hands over all living hostages to israel; trump says gaza war over" }
+Ilnrsaehwreit@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:04 AM_
+Israelis honour trump as hostages return home two years after their capture" }
+Nrlnffsisron@{ shape: win-pane, label: "_Published Oct 13, 2025, 08:59 PM_
+‘new birth’: palestinians freed from israeli jails return to loved ones" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
 
-Feybrsneiinr:::txtsize --> WoaInivi:::txtsize
-WoaInivi:::txtsize --> IlIErafSsa:::txtsize
-IlIErafSsa:::txtsize --> IottfSknae:::txtsize
-Feybrsneiinr:::txtsize --> FenloihnaTntss:::txtsize
-FenloihnaTntss:::txtsize --> EeaUcseIes:::txtsize
-EeaUcseIes:::txtsize --> Curteeaiecwecus:::txtsize
-EeaUcseIes:::txtsize --> Ulaokaetsi:::txtsize
-FenloihnaTntss:::txtsize --> FiFhzeererffeait:::txtsize
-FiFhzeererffeait:::txtsize --> IlIErafSsa:::txtsize
-FiFhzeererffeait:::txtsize --> WoaInivi:::txtsize
+Fressaeleflio:::txtsize --> Hpeaoelenol:::txtsize
+Hpeaoelenol:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Hpeaoelenol:::txtsize --> Hrsuaoeesfd:::txtsize
+Hrsuaoeesfd:::txtsize --> Ilshedoooia:::txtsize
+Hrsuaoeesfd:::txtsize --> Hfhgreeeiiraei:::txtsize
+Fressaeleflio:::txtsize --> Ganwaabtneiyd:::txtsize
+Ganwaabtneiyd:::txtsize --> TjIlmnest:::txtsize
+TjIlmnest:::txtsize --> Hholissrrazo:::txtsize
+TjIlmnest:::txtsize --> Ilnrsaehwreit:::txtsize
+Ganwaabtneiyd:::txtsize --> Nrlnffsisron:::txtsize
+Nrlnffsisron:::txtsize --> PflcoMeNelale:::txtsize
 
 ```
-<i>Last updated: 2025-10-17 00:01:11.398302 (GMT+8)</i>
+<i>Last updated: 2025-10-17 04:00:39.940884 (GMT+8)</i>
 <!-- END -->
