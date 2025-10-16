@@ -16,141 +16,117 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Dsliyeiao@{ shape: win-pane, label: "_Published Oct 16, 2025, 07:25 AM_
-Dozens still missing days after mexico’s mass flood" }
-AsdiMod@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:05 AM_
-At least 64 dead, 65 missing in mexico floods" }
-Asdrelsphpex@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:29 AM_
-At least 47 dead after torrential rains sweep away homes, people in mexico" }
-Ssrsotnrseprsc@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:18 AM_
-Spain suffers fresh floods as torrential rains strike, trapping drivers amid ‘chaos’" }
-Tavtfspik@{ shape: win-pane, label: "_Published Oct 10, 2025, 09:41 PM_
-Thousands evacuated as floods swamp hanoi outskirts" }
-Ssrsotnrseprsc@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:18 AM_
-Spain suffers fresh floods as torrential rains strike, trapping drivers amid ‘chaos’" }
-Ericrerys@{ shape: win-pane, label: "_Published Oct 09, 2025, 08:25 PM_
-Eastern spain placed on red alert for heavy rains" }
-Sdrswntwfktosi@{ shape: win-pane, label: "_Published Nov 14, 2024, 08:55 PM_
-Spain downgrades storm warnings after towns left soaked but without casualties" }
-Asdrelsphpex@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:29 AM_
-At least 47 dead after torrential rains sweep away homes, people in mexico" }
-Ssrsotnrseprsc@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:18 AM_
-Spain suffers fresh floods as torrential rains strike, trapping drivers amid ‘chaos’" }
-Ericrerys@{ shape: win-pane, label: "_Published Oct 09, 2025, 08:25 PM_
-Eastern spain placed on red alert for heavy rains" }
-Sdrswntwfktosi@{ shape: win-pane, label: "_Published Nov 14, 2024, 08:55 PM_
-Spain downgrades storm warnings after towns left soaked but without casualties" }
-Tavtfspik@{ shape: win-pane, label: "_Published Oct 10, 2025, 09:41 PM_
-Thousands evacuated as floods swamp hanoi outskirts" }
-Rddieciiit@{ shape: win-pane, label: "_Published Oct 08, 2025, 03:34 PM_
-Record flooding hits vietnam city, eight killed in north" }
-Feilnmoaibirry@{ shape: win-pane, label: "_Published Oct 10, 2025, 12:00 PM_
-Fuelled by air pollution, storms in south-east asia are becoming stronger: study" }
+Bnlndoonefi@{ shape: win-pane, label: "_Published Oct 16, 2025, 11:40 AM_
+Bessent calls china trade negotiator an ‘unhinged’ wolf warrior" }
+GBnsnrtrgjomee@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:05 AM_
+Greer, bessent blast china’s rare earths curbs, urge beijing not to implement them" }
+Uacoiohra@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:50 PM_
+Us treasury chief ‘optimistic’ over china trade talks" }
+Tsooeiiatfet@{ shape: win-pane, label: "_Published Oct 10, 2025, 11:23 PM_
+Trump says no reason to meet china's xi, threatens tariffs in new rift" }
+Cstaftetwt@{ shape: win-pane, label: "_Published Oct 14, 2025, 10:02 AM_
+China says it is ready to ‘fight to the end’ in trade war with us" }
+Iiykttgtpfdlgh@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:00 AM_
+Imf chief says lack of retaliation against trump tariffs aiding global growth" }
+Tssniincsoaes@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:19 PM_
+Trump’s latest china tariff brinkmanship clouds imf, world bank meetings" }
+Cstaftetwt@{ shape: win-pane, label: "_Published Oct 14, 2025, 10:02 AM_
+China says it is ready to ‘fight to the end’ in trade war with us" }
+TdrCtwsfst@{ shape: win-pane, label: "_Published Oct 16, 2025, 10:15 AM_
+Trump declares us-china trade war, bessent floats long truce" }
+TreUndweixco@{ shape: win-pane, label: "_Published Oct 11, 2025, 05:16 AM_
+Trump ratchets up us-china trade war with new 100% tariffs, export controls" }
+Wnrtffnrlt@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:00 PM_
+Why donald trump’s tariffs are failing to break global trade" }
+Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
+China tightens rare earth export controls and targets defence, semiconductor users" }
+Whapira@{ shape: win-pane, label: "_Published Sep 14, 2025, 11:05 AM_
+Will the us catch up to china on rare earths?" }
 
-Dsliyeiao:::txtsize --> AsdiMod:::txtsize
-AsdiMod:::txtsize --> Asdrelsphpex:::txtsize
-Asdrelsphpex:::txtsize --> Ssrsotnrseprsc:::txtsize
-Asdrelsphpex:::txtsize --> Tavtfspik:::txtsize
-AsdiMod:::txtsize --> Ssrsotnrseprsc:::txtsize
-Ssrsotnrseprsc:::txtsize --> Ericrerys:::txtsize
-Ssrsotnrseprsc:::txtsize --> Sdrswntwfktosi:::txtsize
-Dsliyeiao:::txtsize --> Asdrelsphpex:::txtsize
-Asdrelsphpex:::txtsize --> Ssrsotnrseprsc:::txtsize
-Ssrsotnrseprsc:::txtsize --> Ericrerys:::txtsize
-Ssrsotnrseprsc:::txtsize --> Sdrswntwfktosi:::txtsize
-Asdrelsphpex:::txtsize --> Tavtfspik:::txtsize
-Tavtfspik:::txtsize --> Rddieciiit:::txtsize
-Tavtfspik:::txtsize --> Feilnmoaibirry:::txtsize
+Bnlndoonefi:::txtsize --> GBnsnrtrgjomee:::txtsize
+GBnsnrtrgjomee:::txtsize --> Uacoiohra:::txtsize
+Uacoiohra:::txtsize --> Tsooeiiatfet:::txtsize
+Uacoiohra:::txtsize --> Cstaftetwt:::txtsize
+GBnsnrtrgjomee:::txtsize --> Iiykttgtpfdlgh:::txtsize
+Iiykttgtpfdlgh:::txtsize --> Tssniincsoaes:::txtsize
+Iiykttgtpfdlgh:::txtsize --> Cstaftetwt:::txtsize
+Bnlndoonefi:::txtsize --> TdrCtwsfst:::txtsize
+TdrCtwsfst:::txtsize --> TreUndweixco:::txtsize
+TreUndweixco:::txtsize --> Wnrtffnrlt:::txtsize
+TdrCtwsfst:::txtsize --> Ctertonsasnmdrs:::txtsize
+Ctertonsasnmdrs:::txtsize --> Whapira:::txtsize
 
-Pguiawpsecset@{ shape: win-pane, label: "_Published Oct 16, 2025, 07:15 AM_
-Pentagon journalists vacate workspace as new restrictions take effect" }
-Usejeosel@{ shape: win-pane, label: "_Published Oct 15, 2025, 04:56 AM_
-Us news outlets reject pentagon press access policy" }
-Tcroeeetnalrs@{ shape: win-pane, label: "_Published Jun 07, 2025, 07:28 AM_
-Trump can bar ap from some white house events for now, us appeals court says" }
-Ugeiurroese@{ shape: win-pane, label: "_Published Apr 09, 2025, 07:35 AM_
-Us judge orders white house to restore associated press access" }
-AiPaoooltse@{ shape: win-pane, label: "_Published Mar 05, 2025, 10:40 AM_
-Associated press asks court to restore full white house access" }
-NyeiiAclsdrda@{ shape: win-pane, label: "_Published Jun 05, 2025, 08:47 AM_
-Nearly all remaining voice of america employees could be fired under plan" }
-Tfeumotlgee@{ shape: win-pane, label: "_Published Mar 16, 2025, 08:10 AM_
-Trump freezes us-funded media outlets including voice of america" }
-Vormeepnaohrwl@{ shape: win-pane, label: "_Published Mar 22, 2025, 09:45 AM_
-Voice of america employees sue trump administration over shuttered news outlets" }
-Tcroeeetnalrs@{ shape: win-pane, label: "_Published Jun 07, 2025, 07:28 AM_
-Trump can bar ap from some white house events for now, us appeals court says" }
-Ugeiurroese@{ shape: win-pane, label: "_Published Apr 09, 2025, 07:35 AM_
-Us judge orders white house to restore associated press access" }
-AiPaoooltse@{ shape: win-pane, label: "_Published Mar 05, 2025, 10:40 AM_
-Associated press asks court to restore full white house access" }
-ThuSayrata@{ shape: win-pane, label: "_Published Feb 21, 2025, 11:33 AM_
-Trump hits out at us news agency ap as ‘radical left’ media" }
-AiPaoooltse@{ shape: win-pane, label: "_Published Mar 05, 2025, 10:40 AM_
-Associated press asks court to restore full white house access" }
-Acwidnrltettd@{ shape: win-pane, label: "_Published Feb 21, 2025, 06:00 PM_
-America’s new enemies under donald trump: allies, the deep state and the media" }
-Tttousehamos@{ shape: win-pane, label: "_Published Feb 26, 2025, 09:59 PM_
-Trump threatens to sue authors and media who use anonymous sources" }
+Uareatedaiayl@{ shape: win-pane, label: "_Published Oct 16, 2025, 10:25 AM_
+Us boy and girl face rape and attempted murder charges in attack on 5-year-old" }
+Msuibslarlbfolki@{ shape: win-pane, label: "_Published Oct 15, 2025, 03:30 PM_
+Malaysian authorities blame social media after fatal stabbing of schoolgirl shocks nation" }
+Mslehcsittagafee@{ shape: win-pane, label: "_Published Oct 14, 2025, 09:00 PM_
+Malaysia mulls over tighter school security after fatal stabbing of 16-year-old female student" }
+BrdfsifeeSgh@{ shape: win-pane, label: "_Published Oct 14, 2025, 04:45 PM_
+Boy, 14, arrested over fatal stabbing of female student at selangor school" }
+BrdfsifeeSgh@{ shape: win-pane, label: "_Published Oct 14, 2025, 04:45 PM_
+Boy, 14, arrested over fatal stabbing of female student at selangor school" }
+Mshtnsiwerrsiee@{ shape: win-pane, label: "_Published Oct 15, 2025, 01:17 PM_
+Malaysia school stabbing: ‘i was terrified when he entered our class holding the knife’" }
+BrdfsifeeSgh@{ shape: win-pane, label: "_Published Oct 14, 2025, 04:45 PM_
+Boy, 14, arrested over fatal stabbing of female student at selangor school" }
+Scaioageddltntosr@{ shape: win-pane, label: "_Published Oct 15, 2025, 12:00 PM_
+Suspect in malaysia school stabbing secretly admired female victim, handwritten note discovered" }
+Mcsiaoietdohes@{ shape: win-pane, label: "_Published Oct 08, 2025, 01:47 PM_
+Music composer jailed, caned for having over 1,200 photos and videos of child sex abuse" }
+Nyscgagteellvsin@{ shape: win-pane, label: "_Published Aug 20, 2025, 06:20 PM_
+Nearly 2 years’ jail, caning for man caught with at least 100 sexually explicit videos of children" }
+Jafnarotolnp@{ shape: win-pane, label: "_Published Feb 21, 2025, 06:40 PM_
+Jail, caning for man who had over 3,300 videos, 943 pictures of child pornography" }
+Waoeroecpgy@{ shape: win-pane, label: "_Published Oct 13, 2024, 05:00 AM_
+When family or friends are the ones behind child pornography" }
+Jafnalnolgesns@{ shape: win-pane, label: "_Published Jul 14, 2025, 04:17 PM_
+Jail, caning for man who had 285 child porn videos, including those that show infants" }
+Muidntsnlnja@{ shape: win-pane, label: "_Published Mar 25, 2025, 05:15 PM_
+Man caught with 140 videos and 1,770 pictures showing child porn gets jail, caning" }
+Sngelupaoccnmawed@{ shape: win-pane, label: "_Published May 23, 2025, 10:40 AM_
+Six men charged over child sexual exploitation offences, including commercial sex with 12-year-old" }
 
-Pguiawpsecset:::txtsize --> Usejeosel:::txtsize
-Usejeosel:::txtsize --> Tcroeeetnalrs:::txtsize
-Tcroeeetnalrs:::txtsize --> Ugeiurroese:::txtsize
-Tcroeeetnalrs:::txtsize --> AiPaoooltse:::txtsize
-Usejeosel:::txtsize --> NyeiiAclsdrda:::txtsize
-NyeiiAclsdrda:::txtsize --> Tfeumotlgee:::txtsize
-NyeiiAclsdrda:::txtsize --> Vormeepnaohrwl:::txtsize
-Pguiawpsecset:::txtsize --> Tcroeeetnalrs:::txtsize
-Tcroeeetnalrs:::txtsize --> Ugeiurroese:::txtsize
-Ugeiurroese:::txtsize --> AiPaoooltse:::txtsize
-Ugeiurroese:::txtsize --> ThuSayrata:::txtsize
-Tcroeeetnalrs:::txtsize --> AiPaoooltse:::txtsize
-AiPaoooltse:::txtsize --> Acwidnrltettd:::txtsize
-AiPaoooltse:::txtsize --> Tttousehamos:::txtsize
+Uareatedaiayl:::txtsize --> Msuibslarlbfolki:::txtsize
+Msuibslarlbfolki:::txtsize --> Mslehcsittagafee:::txtsize
+Mslehcsittagafee:::txtsize --> BrdfsifeeSgh:::txtsize
+Mslehcsittagafee:::txtsize --> BrdfsifeeSgh:::txtsize
+Msuibslarlbfolki:::txtsize --> Mshtnsiwerrsiee:::txtsize
+Mshtnsiwerrsiee:::txtsize --> BrdfsifeeSgh:::txtsize
+Mshtnsiwerrsiee:::txtsize --> Scaioageddltntosr:::txtsize
+Uareatedaiayl:::txtsize --> Mcsiaoietdohes:::txtsize
+Mcsiaoietdohes:::txtsize --> Nyscgagteellvsin:::txtsize
+Nyscgagteellvsin:::txtsize --> Jafnarotolnp:::txtsize
+Nyscgagteellvsin:::txtsize --> Waoeroecpgy:::txtsize
+Mcsiaoietdohes:::txtsize --> Jafnalnolgesns:::txtsize
+Jafnalnolgesns:::txtsize --> Muidntsnlnja:::txtsize
+Jafnalnolgesns:::txtsize --> Sngelupaoccnmawed:::txtsize
 
-Bstriktsminc@{ shape: win-pane, label: "_Published Oct 16, 2025, 07:15 AM_
-British pm starmer publishes key witness statements in china spy case" }
-BsisiPrCpysg@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:42 AM_
-British ministers criticise pm starmer’s china policy amid spying row" }
-Upenocdyon@{ shape: win-pane, label: "_Published Sep 15, 2025, 06:20 PM_
-Uk drops case against two men accused of spying for china" }
-Clderdoials@{ shape: win-pane, label: "_Published Aug 26, 2025, 11:37 AM_
-China-linked hackers targeted diplomats in asia, google says" }
-Cffgpidhtrortyl@{ shape: win-pane, label: "_Published Jul 10, 2025, 02:45 PM_
-China foils foreign spy plots including a ‘honey trap’, urges govt workers to stay vigilant" }
-Hnruosd@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:32 AM_
-How donald trump pulled off his gaza deal" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-Bssoydeiseiiylu@{ shape: win-pane, label: "_Published Oct 08, 2025, 03:47 AM_
-British prosecutors say they did ‘everything possible’ to bring china spy trial to court" }
-Upenocdyon@{ shape: win-pane, label: "_Published Sep 15, 2025, 06:20 PM_
-Uk drops case against two men accused of spying for china" }
-Clderdoials@{ shape: win-pane, label: "_Published Aug 26, 2025, 11:37 AM_
-China-linked hackers targeted diplomats in asia, google says" }
-Cffgpidhtrortyl@{ shape: win-pane, label: "_Published Jul 10, 2025, 02:45 PM_
-China foils foreign spy plots including a ‘honey trap’, urges govt workers to stay vigilant" }
-Uiawwpfi@{ shape: win-pane, label: "_Published Apr 22, 2024, 10:10 PM_
-Uk police charge two men with spying for china" }
-Gneutsglirhgon@{ shape: win-pane, label: "_Published Apr 22, 2024, 04:31 PM_
-Germany arrests 3 suspected of spying, stealing military technologies for china" }
-CiaacfyadeU@{ shape: win-pane, label: "_Published Apr 15, 2024, 06:37 PM_
-China indicates man executed for spying had sold secrets to us" }
+TdrCtwsfst@{ shape: win-pane, label: "_Published Oct 16, 2025, 10:15 AM_
+Trump declares us-china trade war, bessent floats long truce" }
+TreUndweixco@{ shape: win-pane, label: "_Published Oct 11, 2025, 05:16 AM_
+Trump ratchets up us-china trade war with new 100% tariffs, export controls" }
+Wnrtffnrlt@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:00 PM_
+Why donald trump’s tariffs are failing to break global trade" }
+IiatrlTtftmbeia@{ shape: win-pane, label: "_Published Apr 05, 2025, 08:40 PM_
+‘it’s going to affect us very badly’: new trump tariffs cast gloom over businesses in asia" }
+Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
+China tightens rare earth export controls and targets defence, semiconductor users" }
+Whapira@{ shape: win-pane, label: "_Published Sep 14, 2025, 11:05 AM_
+Will the us catch up to china on rare earths?" }
+ChaUiipoleeh@{ shape: win-pane, label: "_Published Apr 05, 2025, 03:53 AM_
+China hits back at us tariffs with export controls on key rare earths" }
+Tpeoohunuserw@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:45 PM_
+Trump presses nato nations to halt russian oil purchases to end ukraine war" }
 
-Bstriktsminc:::txtsize --> BsisiPrCpysg:::txtsize
-BsisiPrCpysg:::txtsize --> Upenocdyon:::txtsize
-Upenocdyon:::txtsize --> Clderdoials:::txtsize
-Upenocdyon:::txtsize --> Cffgpidhtrortyl:::txtsize
-BsisiPrCpysg:::txtsize --> Hnruosd:::txtsize
-Hnruosd:::txtsize --> Tseaupoabmrnluo:::txtsize
-Bstriktsminc:::txtsize --> Bssoydeiseiiylu:::txtsize
-Bssoydeiseiiylu:::txtsize --> Upenocdyon:::txtsize
-Upenocdyon:::txtsize --> Clderdoials:::txtsize
-Upenocdyon:::txtsize --> Cffgpidhtrortyl:::txtsize
-Bssoydeiseiiylu:::txtsize --> Uiawwpfi:::txtsize
-Uiawwpfi:::txtsize --> Gneutsglirhgon:::txtsize
-Uiawwpfi:::txtsize --> CiaacfyadeU:::txtsize
+TdrCtwsfst:::txtsize --> TreUndweixco:::txtsize
+TreUndweixco:::txtsize --> Wnrtffnrlt:::txtsize
+Wnrtffnrlt:::txtsize --> IiatrlTtftmbeia:::txtsize
+TdrCtwsfst:::txtsize --> Ctertonsasnmdrs:::txtsize
+Ctertonsasnmdrs:::txtsize --> Whapira:::txtsize
+Whapira:::txtsize --> ChaUiipoleeh:::txtsize
+Whapira:::txtsize --> Tpeoohunuserw:::txtsize
 
 ```
-<i>Last updated: 2025-10-16 08:00:58.770257 (GMT+8)</i>
+<i>Last updated: 2025-10-16 12:00:26.874573 (GMT+8)</i>
 <!-- END -->
