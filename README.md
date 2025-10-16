@@ -16,117 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Bnlndoonefi@{ shape: win-pane, label: "_Published Oct 16, 2025, 11:40 AM_
-Bessent calls china trade negotiator an ‘unhinged’ wolf warrior" }
-GBnsnrtrgjomee@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:05 AM_
-Greer, bessent blast china’s rare earths curbs, urge beijing not to implement them" }
-Uacoiohra@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:50 PM_
-Us treasury chief ‘optimistic’ over china trade talks" }
-Tsooeiiatfet@{ shape: win-pane, label: "_Published Oct 10, 2025, 11:23 PM_
-Trump says no reason to meet china's xi, threatens tariffs in new rift" }
-Cstaftetwt@{ shape: win-pane, label: "_Published Oct 14, 2025, 10:02 AM_
-China says it is ready to ‘fight to the end’ in trade war with us" }
-Iiykttgtpfdlgh@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:00 AM_
-Imf chief says lack of retaliation against trump tariffs aiding global growth" }
-Tssniincsoaes@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:19 PM_
-Trump’s latest china tariff brinkmanship clouds imf, world bank meetings" }
-Cstaftetwt@{ shape: win-pane, label: "_Published Oct 14, 2025, 10:02 AM_
-China says it is ready to ‘fight to the end’ in trade war with us" }
-TdrCtwsfst@{ shape: win-pane, label: "_Published Oct 16, 2025, 10:15 AM_
-Trump declares us-china trade war, bessent floats long truce" }
-TreUndweixco@{ shape: win-pane, label: "_Published Oct 11, 2025, 05:16 AM_
-Trump ratchets up us-china trade war with new 100% tariffs, export controls" }
-Wnrtffnrlt@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:00 PM_
-Why donald trump’s tariffs are failing to break global trade" }
-Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
-China tightens rare earth export controls and targets defence, semiconductor users" }
-Whapira@{ shape: win-pane, label: "_Published Sep 14, 2025, 11:05 AM_
-Will the us catch up to china on rare earths?" }
+Uaasaa@{ shape: win-pane, label: "_Published Oct 16, 2025, 03:55 PM_
+Uruguay legalises euthanasia" }
+Tgafsynecr@{ shape: win-pane, label: "_Published Jun 20, 2025, 09:22 PM_
+The legal status of assisted dying in different countries" }
+Bsmstaridl@{ shape: win-pane, label: "_Published Jun 20, 2025, 07:07 AM_
+British lawmakers to vote on landmark assisted dying law" }
+FhaavidBatypa@{ shape: win-pane, label: "_Published May 28, 2025, 02:08 AM_
+French lawmakers approve assisted dying bill, paving the way for approval" }
+Oidaryopcsv@{ shape: win-pane, label: "_Published Nov 28, 2024, 05:00 PM_
+On assisted dying, are we really any good at predicting survival?" }
+Bsdesyaaee@{ shape: win-pane, label: "_Published Jun 20, 2025, 07:15 PM_
+British mps debate assisted dying law ahead of key vote" }
+Bsmstaridl@{ shape: win-pane, label: "_Published Jun 20, 2025, 07:07 AM_
+British lawmakers to vote on landmark assisted dying law" }
+Bsmstsen@{ shape: win-pane, label: "_Published Nov 28, 2024, 06:50 PM_
+British lawmakers to vote on assisted dying" }
+FhaavidBatypa@{ shape: win-pane, label: "_Published May 28, 2025, 02:08 AM_
+French lawmakers approve assisted dying bill, paving the way for approval" }
+SaampeidBno@{ shape: win-pane, label: "_Published May 14, 2025, 02:27 AM_
+Scotland’s parliament approves assisted dying bill in key vote" }
+Bsmsiaposyi@{ shape: win-pane, label: "_Published Nov 29, 2024, 10:32 PM_
+British lawmakers give initial support to assisted dying bill" }
+Bsmsiaposyi@{ shape: win-pane, label: "_Published Nov 29, 2024, 10:32 PM_
+British lawmakers give initial support to assisted dying bill" }
+IsITnrrtl@{ shape: win-pane, label: "_Published Feb 12, 2025, 12:48 AM_
+In first for italy, tuscany approves right-to-die law" }
+Oidaryopcsv@{ shape: win-pane, label: "_Published Nov 28, 2024, 05:00 PM_
+On assisted dying, are we really any good at predicting survival?" }
+Bsmstsen@{ shape: win-pane, label: "_Published Nov 28, 2024, 06:50 PM_
+British lawmakers to vote on assisted dying" }
 
-Bnlndoonefi:::txtsize --> GBnsnrtrgjomee:::txtsize
-GBnsnrtrgjomee:::txtsize --> Uacoiohra:::txtsize
-Uacoiohra:::txtsize --> Tsooeiiatfet:::txtsize
-Uacoiohra:::txtsize --> Cstaftetwt:::txtsize
-GBnsnrtrgjomee:::txtsize --> Iiykttgtpfdlgh:::txtsize
-Iiykttgtpfdlgh:::txtsize --> Tssniincsoaes:::txtsize
-Iiykttgtpfdlgh:::txtsize --> Cstaftetwt:::txtsize
-Bnlndoonefi:::txtsize --> TdrCtwsfst:::txtsize
-TdrCtwsfst:::txtsize --> TreUndweixco:::txtsize
-TreUndweixco:::txtsize --> Wnrtffnrlt:::txtsize
-TdrCtwsfst:::txtsize --> Ctertonsasnmdrs:::txtsize
-Ctertonsasnmdrs:::txtsize --> Whapira:::txtsize
+Uaasaa:::txtsize --> Tgafsynecr:::txtsize
+Tgafsynecr:::txtsize --> Bsmstaridl:::txtsize
+Bsmstaridl:::txtsize --> FhaavidBatypa:::txtsize
+Bsmstaridl:::txtsize --> Oidaryopcsv:::txtsize
+Tgafsynecr:::txtsize --> Bsdesyaaee:::txtsize
+Bsdesyaaee:::txtsize --> Bsmstaridl:::txtsize
+Bsdesyaaee:::txtsize --> Bsmstsen:::txtsize
+Uaasaa:::txtsize --> FhaavidBatypa:::txtsize
+FhaavidBatypa:::txtsize --> SaampeidBno:::txtsize
+SaampeidBno:::txtsize --> Bsmsiaposyi:::txtsize
+SaampeidBno:::txtsize --> Bsmsiaposyi:::txtsize
+FhaavidBatypa:::txtsize --> IsITnrrtl:::txtsize
+IsITnrrtl:::txtsize --> Oidaryopcsv:::txtsize
+IsITnrrtl:::txtsize --> Bsmstsen:::txtsize
 
-Uareatedaiayl@{ shape: win-pane, label: "_Published Oct 16, 2025, 10:25 AM_
-Us boy and girl face rape and attempted murder charges in attack on 5-year-old" }
-Msuibslarlbfolki@{ shape: win-pane, label: "_Published Oct 15, 2025, 03:30 PM_
-Malaysian authorities blame social media after fatal stabbing of schoolgirl shocks nation" }
-Mslehcsittagafee@{ shape: win-pane, label: "_Published Oct 14, 2025, 09:00 PM_
-Malaysia mulls over tighter school security after fatal stabbing of 16-year-old female student" }
-BrdfsifeeSgh@{ shape: win-pane, label: "_Published Oct 14, 2025, 04:45 PM_
-Boy, 14, arrested over fatal stabbing of female student at selangor school" }
-BrdfsifeeSgh@{ shape: win-pane, label: "_Published Oct 14, 2025, 04:45 PM_
-Boy, 14, arrested over fatal stabbing of female student at selangor school" }
-Mshtnsiwerrsiee@{ shape: win-pane, label: "_Published Oct 15, 2025, 01:17 PM_
-Malaysia school stabbing: ‘i was terrified when he entered our class holding the knife’" }
-BrdfsifeeSgh@{ shape: win-pane, label: "_Published Oct 14, 2025, 04:45 PM_
-Boy, 14, arrested over fatal stabbing of female student at selangor school" }
-Scaioageddltntosr@{ shape: win-pane, label: "_Published Oct 15, 2025, 12:00 PM_
-Suspect in malaysia school stabbing secretly admired female victim, handwritten note discovered" }
-Mcsiaoietdohes@{ shape: win-pane, label: "_Published Oct 08, 2025, 01:47 PM_
-Music composer jailed, caned for having over 1,200 photos and videos of child sex abuse" }
-Nyscgagteellvsin@{ shape: win-pane, label: "_Published Aug 20, 2025, 06:20 PM_
-Nearly 2 years’ jail, caning for man caught with at least 100 sexually explicit videos of children" }
-Jafnarotolnp@{ shape: win-pane, label: "_Published Feb 21, 2025, 06:40 PM_
-Jail, caning for man who had over 3,300 videos, 943 pictures of child pornography" }
-Waoeroecpgy@{ shape: win-pane, label: "_Published Oct 13, 2024, 05:00 AM_
-When family or friends are the ones behind child pornography" }
-Jafnalnolgesns@{ shape: win-pane, label: "_Published Jul 14, 2025, 04:17 PM_
-Jail, caning for man who had 285 child porn videos, including those that show infants" }
-Muidntsnlnja@{ shape: win-pane, label: "_Published Mar 25, 2025, 05:15 PM_
-Man caught with 140 videos and 1,770 pictures showing child porn gets jail, caning" }
-Sngelupaoccnmawed@{ shape: win-pane, label: "_Published May 23, 2025, 10:40 AM_
-Six men charged over child sexual exploitation offences, including commercial sex with 12-year-old" }
+Unaaeegiusdt@{ shape: win-pane, label: "_Published Oct 16, 2025, 02:41 PM_
+Us agency blames faulty engineering for titan submersible disaster" }
+Tsreitois@{ shape: win-pane, label: "_Published Jun 23, 2023, 06:45 AM_
+Titan submersible: what is a ‘catastrophic implosion’?" }
+Tsreriapmilrd@{ shape: win-pane, label: "_Published Jun 23, 2023, 03:23 AM_
+Titan submersible destroyed in ‘catastrophic implosion’, all 5 aboard dead" }
+Ttuoeldfiusid@{ shape: win-pane, label: "_Published Jun 23, 2023, 09:55 AM_
+Tributes pour in for five people who died after titan submersible imploded" }
+Tsreitois@{ shape: win-pane, label: "_Published Jun 23, 2023, 06:45 AM_
+Titan submersible: what is a ‘catastrophic implosion’?" }
+Tifixoeenstm@{ shape: win-pane, label: "_Published Jun 21, 2023, 07:15 AM_
+Titanic sub firm fired exec who raised safety concerns: court documents" }
+Recitsreridad@{ shape: win-pane, label: "_Published Jun 21, 2023, 02:37 AM_
+Rescuers race to find titanic submersible after hearing undersea sounds" }
+Emeshsroosic@{ shape: win-pane, label: "_Published Jun 21, 2023, 04:45 AM_
+‘every minute feels like hours,’ says friend of man on missing titanic sub" }
+Tsreriapmilrd@{ shape: win-pane, label: "_Published Jun 23, 2023, 03:23 AM_
+Titan submersible destroyed in ‘catastrophic implosion’, all 5 aboard dead" }
+Ttuoeldfiusid@{ shape: win-pane, label: "_Published Jun 23, 2023, 09:55 AM_
+Tributes pour in for five people who died after titan submersible imploded" }
+Tsreriapmilrd@{ shape: win-pane, label: "_Published Jun 23, 2023, 03:23 AM_
+Titan submersible destroyed in ‘catastrophic implosion’, all 5 aboard dead" }
+BsomnaudufdtGerc@{ shape: win-pane, label: "_Published Jun 20, 2023, 05:35 PM_
+British tycoon on missing titanic sub is adventure buff, holder of three guinness world records" }
+Tsreitois@{ shape: win-pane, label: "_Published Jun 23, 2023, 06:45 AM_
+Titan submersible: what is a ‘catastrophic implosion’?" }
+Tsreriapmilrd@{ shape: win-pane, label: "_Published Jun 23, 2023, 03:23 AM_
+Titan submersible destroyed in ‘catastrophic implosion’, all 5 aboard dead" }
+Tifixoeenstm@{ shape: win-pane, label: "_Published Jun 21, 2023, 07:15 AM_
+Titanic sub firm fired exec who raised safety concerns: court documents" }
 
-Uareatedaiayl:::txtsize --> Msuibslarlbfolki:::txtsize
-Msuibslarlbfolki:::txtsize --> Mslehcsittagafee:::txtsize
-Mslehcsittagafee:::txtsize --> BrdfsifeeSgh:::txtsize
-Mslehcsittagafee:::txtsize --> BrdfsifeeSgh:::txtsize
-Msuibslarlbfolki:::txtsize --> Mshtnsiwerrsiee:::txtsize
-Mshtnsiwerrsiee:::txtsize --> BrdfsifeeSgh:::txtsize
-Mshtnsiwerrsiee:::txtsize --> Scaioageddltntosr:::txtsize
-Uareatedaiayl:::txtsize --> Mcsiaoietdohes:::txtsize
-Mcsiaoietdohes:::txtsize --> Nyscgagteellvsin:::txtsize
-Nyscgagteellvsin:::txtsize --> Jafnarotolnp:::txtsize
-Nyscgagteellvsin:::txtsize --> Waoeroecpgy:::txtsize
-Mcsiaoietdohes:::txtsize --> Jafnalnolgesns:::txtsize
-Jafnalnolgesns:::txtsize --> Muidntsnlnja:::txtsize
-Jafnalnolgesns:::txtsize --> Sngelupaoccnmawed:::txtsize
+Unaaeegiusdt:::txtsize --> Tsreitois:::txtsize
+Tsreitois:::txtsize --> Tsreriapmilrd:::txtsize
+Tsreriapmilrd:::txtsize --> Ttuoeldfiusid:::txtsize
+Tsreriapmilrd:::txtsize --> Tsreitois:::txtsize
+Tsreitois:::txtsize --> Tifixoeenstm:::txtsize
+Tifixoeenstm:::txtsize --> Recitsreridad:::txtsize
+Tifixoeenstm:::txtsize --> Emeshsroosic:::txtsize
+Unaaeegiusdt:::txtsize --> Tsreriapmilrd:::txtsize
+Tsreriapmilrd:::txtsize --> Ttuoeldfiusid:::txtsize
+Ttuoeldfiusid:::txtsize --> Tsreriapmilrd:::txtsize
+Ttuoeldfiusid:::txtsize --> BsomnaudufdtGerc:::txtsize
+Tsreriapmilrd:::txtsize --> Tsreitois:::txtsize
+Tsreitois:::txtsize --> Tsreriapmilrd:::txtsize
+Tsreitois:::txtsize --> Tifixoeenstm:::txtsize
 
-TdrCtwsfst@{ shape: win-pane, label: "_Published Oct 16, 2025, 10:15 AM_
-Trump declares us-china trade war, bessent floats long truce" }
-TreUndweixco@{ shape: win-pane, label: "_Published Oct 11, 2025, 05:16 AM_
-Trump ratchets up us-china trade war with new 100% tariffs, export controls" }
-Wnrtffnrlt@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:00 PM_
-Why donald trump’s tariffs are failing to break global trade" }
-IiatrlTtftmbeia@{ shape: win-pane, label: "_Published Apr 05, 2025, 08:40 PM_
-‘it’s going to affect us very badly’: new trump tariffs cast gloom over businesses in asia" }
-Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
-China tightens rare earth export controls and targets defence, semiconductor users" }
-Whapira@{ shape: win-pane, label: "_Published Sep 14, 2025, 11:05 AM_
-Will the us catch up to china on rare earths?" }
-ChaUiipoleeh@{ shape: win-pane, label: "_Published Apr 05, 2025, 03:53 AM_
-China hits back at us tariffs with export controls on key rare earths" }
-Tpeoohunuserw@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:45 PM_
-Trump presses nato nations to halt russian oil purchases to end ukraine war" }
+PAmioirbnrarg@{ shape: win-pane, label: "_Published Oct 16, 2025, 02:10 PM_
+Paris agreement dials down climate risks but danger from heat is growing" }
+Cttmghrroew@{ shape: win-pane, label: "_Published Oct 24, 2024, 10:21 PM_
+Climate set to warm by 3.1 deg c without greater action, un report warns" }
+Hdeartwrtih@{ shape: win-pane, label: "_Published Oct 07, 2024, 05:00 AM_
+Hot and bothered: can s’pore’s outdoor workers beat the rising heat?" }
+Mluhotgirsrguta@{ shape: win-pane, label: "_Published Oct 07, 2024, 05:00 AM_
+‘mentally, you just have to push through’: delivery riders endure longer hours, hotter days" }
+Ttnitreeispos@{ shape: win-pane, label: "_Published Oct 07, 2024, 05:00 AM_
+Too hot to handle? rising temperatures pose growing risk for port workers" }
+SlToivicei@{ shape: win-pane, label: "_Published Jun 14, 2024, 12:45 PM_
+St explains: the global fight over climate change funding" }
+Ctnntsaost@{ shape: win-pane, label: "_Published Jun 14, 2024, 04:46 AM_
+Climate change funding talks stuck ahead of cop29 summit" }
+DowiUmulau@{ shape: win-pane, label: "_Published Apr 09, 2024, 02:30 PM_
+Don’t forget women in new un climate fund, policymakers urged" }
+Ntnosager@{ shape: win-pane, label: "_Published Oct 13, 2025, 11:10 AM_
+Not nothing, not enough: is the paris agreement working?" }
+Smhotanrmor@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:31 AM_
+September third-hottest globally on record: climate monitor" }
+Hogomfhtd@{ shape: win-pane, label: "_Published Oct 08, 2025, 10:05 PM_
+Hong kong logs record number of ‘very hot’ october days" }
+SmatnraOw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:55 PM_
+September was hottest on record in japan’s okinawa" }
+Ranghsocne@{ shape: win-pane, label: "_Published Oct 07, 2025, 01:21 PM_
+Renewable energy growth slows due to policy changes: report" }
+Ctlilranbhattlgn@{ shape: win-pane, label: "_Published Sep 24, 2024, 01:25 PM_
+Climate goal to triple global renewable energy by 2030 within reach: international energy agency" }
+Ualeeuakfabe@{ shape: win-pane, label: "_Published Jun 30, 2025, 11:41 PM_
+Us senate bill’s clean energy cuts draw backlash from labour, business" }
 
-TdrCtwsfst:::txtsize --> TreUndweixco:::txtsize
-TreUndweixco:::txtsize --> Wnrtffnrlt:::txtsize
-Wnrtffnrlt:::txtsize --> IiatrlTtftmbeia:::txtsize
-TdrCtwsfst:::txtsize --> Ctertonsasnmdrs:::txtsize
-Ctertonsasnmdrs:::txtsize --> Whapira:::txtsize
-Whapira:::txtsize --> ChaUiipoleeh:::txtsize
-Whapira:::txtsize --> Tpeoohunuserw:::txtsize
+PAmioirbnrarg:::txtsize --> Cttmghrroew:::txtsize
+Cttmghrroew:::txtsize --> Hdeartwrtih:::txtsize
+Hdeartwrtih:::txtsize --> Mluhotgirsrguta:::txtsize
+Hdeartwrtih:::txtsize --> Ttnitreeispos:::txtsize
+Cttmghrroew:::txtsize --> SlToivicei:::txtsize
+SlToivicei:::txtsize --> Ctnntsaost:::txtsize
+SlToivicei:::txtsize --> DowiUmulau:::txtsize
+PAmioirbnrarg:::txtsize --> Ntnosager:::txtsize
+Ntnosager:::txtsize --> Smhotanrmor:::txtsize
+Smhotanrmor:::txtsize --> Hogomfhtd:::txtsize
+Smhotanrmor:::txtsize --> SmatnraOw:::txtsize
+Ntnosager:::txtsize --> Ranghsocne:::txtsize
+Ranghsocne:::txtsize --> Ctlilranbhattlgn:::txtsize
+Ranghsocne:::txtsize --> Ualeeuakfabe:::txtsize
 
 ```
-<i>Last updated: 2025-10-16 12:00:26.874573 (GMT+8)</i>
+<i>Last updated: 2025-10-16 16:00:58.990464 (GMT+8)</i>
 <!-- END -->
