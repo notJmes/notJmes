@@ -16,129 +16,141 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ugcullfsoenk@{ shape: win-pane, label: "_Published Oct 16, 2025, 03:20 AM_
-Us judge blocks trump’s plan to lay off thousands of government workers" }
-Tseulooopath@{ shape: win-pane, label: "_Published Oct 15, 2025, 07:55 AM_
-Trump says he will unveil list on oct 17 of ‘democrat programmes’ to be shut" }
-Ugbttoaphesd@{ shape: win-pane, label: "_Published Sep 29, 2025, 08:35 AM_
-Us congress budget negotiations: what happens when the govt shuts down?" }
-RlsDroeorleomp@{ shape: win-pane, label: "_Published Sep 29, 2025, 12:28 AM_
-Republicans urge democrats to agree to short-term bill to keep us government open" }
-Ttscaemafveun@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:50 AM_
-Threat of mass job cuts raises economic stakes of us government shutdown" }
-Uoyfpensdrn@{ shape: win-pane, label: "_Published Oct 13, 2025, 08:39 PM_
-Us troops may miss first paychecks on oct 15 as shutdown drags on" }
-TsSwpouso@{ shape: win-pane, label: "_Published Oct 12, 2025, 03:11 AM_
-Trump says us has a way to pay troops during shutdown" }
-SbedsdtasiWn@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:56 AM_
-Stock bubble dread grips world’s central bankers meeting in washington" }
-Aeomhweyipe@{ shape: win-pane, label: "_Published Oct 02, 2025, 06:00 PM_
-Another us government shutdown is here – why does it keep happening?" }
-Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
-Us government begins shutdown that may lead to mass layoffs and cuts" }
-TsSrtpbun@{ shape: win-pane, label: "_Published Oct 01, 2025, 01:49 AM_
-Trump says us government will ‘probably’ shut down" }
+Dsliyeiao@{ shape: win-pane, label: "_Published Oct 16, 2025, 07:25 AM_
+Dozens still missing days after mexico’s mass flood" }
+AsdiMod@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:05 AM_
+At least 64 dead, 65 missing in mexico floods" }
+Asdrelsphpex@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:29 AM_
+At least 47 dead after torrential rains sweep away homes, people in mexico" }
+Ssrsotnrseprsc@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:18 AM_
+Spain suffers fresh floods as torrential rains strike, trapping drivers amid ‘chaos’" }
+Tavtfspik@{ shape: win-pane, label: "_Published Oct 10, 2025, 09:41 PM_
+Thousands evacuated as floods swamp hanoi outskirts" }
+Ssrsotnrseprsc@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:18 AM_
+Spain suffers fresh floods as torrential rains strike, trapping drivers amid ‘chaos’" }
+Ericrerys@{ shape: win-pane, label: "_Published Oct 09, 2025, 08:25 PM_
+Eastern spain placed on red alert for heavy rains" }
+Sdrswntwfktosi@{ shape: win-pane, label: "_Published Nov 14, 2024, 08:55 PM_
+Spain downgrades storm warnings after towns left soaked but without casualties" }
+Asdrelsphpex@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:29 AM_
+At least 47 dead after torrential rains sweep away homes, people in mexico" }
+Ssrsotnrseprsc@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:18 AM_
+Spain suffers fresh floods as torrential rains strike, trapping drivers amid ‘chaos’" }
+Ericrerys@{ shape: win-pane, label: "_Published Oct 09, 2025, 08:25 PM_
+Eastern spain placed on red alert for heavy rains" }
+Sdrswntwfktosi@{ shape: win-pane, label: "_Published Nov 14, 2024, 08:55 PM_
+Spain downgrades storm warnings after towns left soaked but without casualties" }
+Tavtfspik@{ shape: win-pane, label: "_Published Oct 10, 2025, 09:41 PM_
+Thousands evacuated as floods swamp hanoi outskirts" }
+Rddieciiit@{ shape: win-pane, label: "_Published Oct 08, 2025, 03:34 PM_
+Record flooding hits vietnam city, eight killed in north" }
+Feilnmoaibirry@{ shape: win-pane, label: "_Published Oct 10, 2025, 12:00 PM_
+Fuelled by air pollution, storms in south-east asia are becoming stronger: study" }
 
-Ugcullfsoenk:::txtsize --> Tseulooopath:::txtsize
-Tseulooopath:::txtsize --> Ugbttoaphesd:::txtsize
-Ugbttoaphesd:::txtsize --> RlsDroeorleomp:::txtsize
-Ugbttoaphesd:::txtsize --> Ttscaemafveun:::txtsize
-Tseulooopath:::txtsize --> Uoyfpensdrn:::txtsize
-Uoyfpensdrn:::txtsize --> TsSwpouso:::txtsize
-Uoyfpensdrn:::txtsize --> SbedsdtasiWn:::txtsize
-Ugcullfsoenk:::txtsize --> Aeomhweyipe:::txtsize
-Aeomhweyipe:::txtsize --> Ueniunmaayat:::txtsize
-Ueniunmaayat:::txtsize --> TsSrtpbun:::txtsize
+Dsliyeiao:::txtsize --> AsdiMod:::txtsize
+AsdiMod:::txtsize --> Asdrelsphpex:::txtsize
+Asdrelsphpex:::txtsize --> Ssrsotnrseprsc:::txtsize
+Asdrelsphpex:::txtsize --> Tavtfspik:::txtsize
+AsdiMod:::txtsize --> Ssrsotnrseprsc:::txtsize
+Ssrsotnrseprsc:::txtsize --> Ericrerys:::txtsize
+Ssrsotnrseprsc:::txtsize --> Sdrswntwfktosi:::txtsize
+Dsliyeiao:::txtsize --> Asdrelsphpex:::txtsize
+Asdrelsphpex:::txtsize --> Ssrsotnrseprsc:::txtsize
+Ssrsotnrseprsc:::txtsize --> Ericrerys:::txtsize
+Ssrsotnrseprsc:::txtsize --> Sdrswntwfktosi:::txtsize
+Asdrelsphpex:::txtsize --> Tavtfspik:::txtsize
+Tavtfspik:::txtsize --> Rddieciiit:::txtsize
+Tavtfspik:::txtsize --> Feilnmoaibirry:::txtsize
 
-UsernenwuFc@{ shape: win-pane, label: "_Published Oct 16, 2025, 02:07 AM_
-Us says hackers targeting government networks using f5 devices" }
-Cskmodbnaaa@{ shape: win-pane, label: "_Published Sep 09, 2025, 08:52 AM_
-Chinese hackers impersonated republican lawmaker, panel says" }
-UblettraiiJr@{ shape: win-pane, label: "_Published Sep 07, 2025, 11:31 PM_
-Us probes malware e-mail targeting trade talks with china, wsj reports" }
+Pguiawpsecset@{ shape: win-pane, label: "_Published Oct 16, 2025, 07:15 AM_
+Pentagon journalists vacate workspace as new restrictions take effect" }
+Usejeosel@{ shape: win-pane, label: "_Published Oct 15, 2025, 04:56 AM_
+Us news outlets reject pentagon press access policy" }
+Tcroeeetnalrs@{ shape: win-pane, label: "_Published Jun 07, 2025, 07:28 AM_
+Trump can bar ap from some white house events for now, us appeals court says" }
+Ugeiurroese@{ shape: win-pane, label: "_Published Apr 09, 2025, 07:35 AM_
+Us judge orders white house to restore associated press access" }
+AiPaoooltse@{ shape: win-pane, label: "_Published Mar 05, 2025, 10:40 AM_
+Associated press asks court to restore full white house access" }
+NyeiiAclsdrda@{ shape: win-pane, label: "_Published Jun 05, 2025, 08:47 AM_
+Nearly all remaining voice of america employees could be fired under plan" }
+Tfeumotlgee@{ shape: win-pane, label: "_Published Mar 16, 2025, 08:10 AM_
+Trump freezes us-funded media outlets including voice of america" }
+Vormeepnaohrwl@{ shape: win-pane, label: "_Published Mar 22, 2025, 09:45 AM_
+Voice of america employees sue trump administration over shuttered news outlets" }
+Tcroeeetnalrs@{ shape: win-pane, label: "_Published Jun 07, 2025, 07:28 AM_
+Trump can bar ap from some white house events for now, us appeals court says" }
+Ugeiurroese@{ shape: win-pane, label: "_Published Apr 09, 2025, 07:35 AM_
+Us judge orders white house to restore associated press access" }
+AiPaoooltse@{ shape: win-pane, label: "_Published Mar 05, 2025, 10:40 AM_
+Associated press asks court to restore full white house access" }
+ThuSayrata@{ shape: win-pane, label: "_Published Feb 21, 2025, 11:33 AM_
+Trump hits out at us news agency ap as ‘radical left’ media" }
+AiPaoooltse@{ shape: win-pane, label: "_Published Mar 05, 2025, 10:40 AM_
+Associated press asks court to restore full white house access" }
+Acwidnrltettd@{ shape: win-pane, label: "_Published Feb 21, 2025, 06:00 PM_
+America’s new enemies under donald trump: allies, the deep state and the media" }
+Tttousehamos@{ shape: win-pane, label: "_Published Feb 26, 2025, 09:59 PM_
+Trump threatens to sue authors and media who use anonymous sources" }
+
+Pguiawpsecset:::txtsize --> Usejeosel:::txtsize
+Usejeosel:::txtsize --> Tcroeeetnalrs:::txtsize
+Tcroeeetnalrs:::txtsize --> Ugeiurroese:::txtsize
+Tcroeeetnalrs:::txtsize --> AiPaoooltse:::txtsize
+Usejeosel:::txtsize --> NyeiiAclsdrda:::txtsize
+NyeiiAclsdrda:::txtsize --> Tfeumotlgee:::txtsize
+NyeiiAclsdrda:::txtsize --> Vormeepnaohrwl:::txtsize
+Pguiawpsecset:::txtsize --> Tcroeeetnalrs:::txtsize
+Tcroeeetnalrs:::txtsize --> Ugeiurroese:::txtsize
+Ugeiurroese:::txtsize --> AiPaoooltse:::txtsize
+Ugeiurroese:::txtsize --> ThuSayrata:::txtsize
+Tcroeeetnalrs:::txtsize --> AiPaoooltse:::txtsize
+AiPaoooltse:::txtsize --> Acwidnrltettd:::txtsize
+AiPaoooltse:::txtsize --> Tttousehamos:::txtsize
+
+Bstriktsminc@{ shape: win-pane, label: "_Published Oct 16, 2025, 07:15 AM_
+British pm starmer publishes key witness statements in china spy case" }
+BsisiPrCpysg@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:42 AM_
+British ministers criticise pm starmer’s china policy amid spying row" }
+Upenocdyon@{ shape: win-pane, label: "_Published Sep 15, 2025, 06:20 PM_
+Uk drops case against two men accused of spying for china" }
 Clderdoials@{ shape: win-pane, label: "_Published Aug 26, 2025, 11:37 AM_
 China-linked hackers targeted diplomats in asia, google says" }
-Ccfrrpntbeiepm@{ shape: win-pane, label: "_Published Jul 18, 2025, 07:34 PM_
-Critical infrastructure in s’pore under attack by cyber espionage group: shanmugam" }
-NyhlRakosaA@{ shape: win-pane, label: "_Published Aug 13, 2025, 10:58 PM_
-Norway spy chief blames russian hackers for dam sabotage in april" }
-Pdgotooafgee@{ shape: win-pane, label: "_Published Aug 13, 2025, 05:13 PM_
-Poland charges group with sabotage on behalf of foreign intelligence" }
-TmifstninusrdsWrp@{ shape: win-pane, label: "_Published Jul 08, 2025, 09:12 PM_
-Three men guilty of uk arson attack on ukraine-linked businesses ordered by russia’s wagner group" }
-FrRakggilac@{ shape: win-pane, label: "_Published Aug 21, 2025, 05:37 AM_
-Fbi warns of russian hacks targeting us critical infrastructure" }
-RakapsrKronibe@{ shape: win-pane, label: "_Published Aug 01, 2025, 06:45 PM_
-Russian hackers said to pose as cyber firm kaspersky to spy on foreign embassies" }
-Conlelessnctw@{ shape: win-pane, label: "_Published Aug 01, 2025, 12:06 PM_
-‘clinton plan’ e-mails were likely made by russian spies, new documents show" }
-Drivyaggeoesre@{ shape: win-pane, label: "_Published Aug 01, 2025, 12:28 PM_
-Data breach involving 147,000 cycle & carriage singapore customer records under probe" }
-Hirgripihaaado@{ shape: win-pane, label: "_Published Jul 19, 2025, 04:45 PM_
-How china’s growing cyber-hacking capabilities have raised alarm around the world" }
-Ccfrrpntbeiepm@{ shape: win-pane, label: "_Published Jul 18, 2025, 07:34 PM_
-Critical infrastructure in s’pore under attack by cyber espionage group: shanmugam" }
+Cffgpidhtrortyl@{ shape: win-pane, label: "_Published Jul 10, 2025, 02:45 PM_
+China foils foreign spy plots including a ‘honey trap’, urges govt workers to stay vigilant" }
+Hnruosd@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:32 AM_
+How donald trump pulled off his gaza deal" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+Bssoydeiseiiylu@{ shape: win-pane, label: "_Published Oct 08, 2025, 03:47 AM_
+British prosecutors say they did ‘everything possible’ to bring china spy trial to court" }
+Upenocdyon@{ shape: win-pane, label: "_Published Sep 15, 2025, 06:20 PM_
+Uk drops case against two men accused of spying for china" }
+Clderdoials@{ shape: win-pane, label: "_Published Aug 26, 2025, 11:37 AM_
+China-linked hackers targeted diplomats in asia, google says" }
+Cffgpidhtrortyl@{ shape: win-pane, label: "_Published Jul 10, 2025, 02:45 PM_
+China foils foreign spy plots including a ‘honey trap’, urges govt workers to stay vigilant" }
+Uiawwpfi@{ shape: win-pane, label: "_Published Apr 22, 2024, 10:10 PM_
+Uk police charge two men with spying for china" }
+Gneutsglirhgon@{ shape: win-pane, label: "_Published Apr 22, 2024, 04:31 PM_
+Germany arrests 3 suspected of spying, stealing military technologies for china" }
+CiaacfyadeU@{ shape: win-pane, label: "_Published Apr 15, 2024, 06:37 PM_
+China indicates man executed for spying had sold secrets to us" }
 
-UsernenwuFc:::txtsize --> Cskmodbnaaa:::txtsize
-Cskmodbnaaa:::txtsize --> UblettraiiJr:::txtsize
-UblettraiiJr:::txtsize --> Clderdoials:::txtsize
-UblettraiiJr:::txtsize --> Ccfrrpntbeiepm:::txtsize
-Cskmodbnaaa:::txtsize --> NyhlRakosaA:::txtsize
-NyhlRakosaA:::txtsize --> Pdgotooafgee:::txtsize
-NyhlRakosaA:::txtsize --> TmifstninusrdsWrp:::txtsize
-UsernenwuFc:::txtsize --> FrRakggilac:::txtsize
-FrRakggilac:::txtsize --> RakapsrKronibe:::txtsize
-RakapsrKronibe:::txtsize --> Conlelessnctw:::txtsize
-RakapsrKronibe:::txtsize --> Drivyaggeoesre:::txtsize
-FrRakggilac:::txtsize --> Hirgripihaaado:::txtsize
-Hirgripihaaado:::txtsize --> Ccfrrpntbeiepm:::txtsize
-
-AzafPalnmtflrlnla@{ shape: win-pane, label: "_Published Oct 16, 2025, 01:30 AM_
-As brazil readies for cop30 climate talks, finance ministers offer plan for $1.7 trillion in yearly finance" }
-ChoryruU@{ shape: win-pane, label: "_Published Oct 15, 2025, 07:30 PM_
-Co2 in the atmosphere up by record amount in 2024: un" }
-Ntnosager@{ shape: win-pane, label: "_Published Oct 13, 2025, 11:10 AM_
-Not nothing, not enough: is the paris agreement working?" }
-Smhotanrmor@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:31 AM_
-September third-hottest globally on record: climate monitor" }
-Ranghsocne@{ shape: win-pane, label: "_Published Oct 07, 2025, 01:21 PM_
-Renewable energy growth slows due to policy changes: report" }
-Smhotanrmor@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:31 AM_
-September third-hottest globally on record: climate monitor" }
-Hogomfhtd@{ shape: win-pane, label: "_Published Oct 08, 2025, 10:05 PM_
-Hong kong logs record number of ‘very hot’ october days" }
-SmatnraOw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:55 PM_
-September was hottest on record in japan’s okinawa" }
-BlmieC@{ shape: win-pane, label: "_Published Oct 14, 2025, 10:15 AM_
-Brazil’s climate wins ahead of cop30" }
-Bladomhpyrni@{ shape: win-pane, label: "_Published Jan 05, 2023, 10:50 AM_
-Brazil to play lead role on climate change policy: environment minister" }
-Laffirrsi@{ shape: win-pane, label: "_Published Jan 02, 2023, 02:29 AM_
-Lula takes office for third term as brazil's president" }
-DeiBlmraor@{ shape: win-pane, label: "_Published Dec 01, 2022, 04:04 AM_
-Deforestation of brazilian amazon retreats from 15-year high" }
-Fiztsectn@{ shape: win-pane, label: "_Published Jun 12, 2024, 06:25 AM_
-Fires in brazil wetlands surge to record start in 2024" }
-Fiznauxegpd@{ shape: win-pane, label: "_Published Jun 07, 2024, 04:32 AM_
-Fires in brazilian wetlands surge 980%, extreme drought expected" }
-Cowilolonau@{ shape: win-pane, label: "_Published Jun 09, 2024, 11:35 AM_
-California wildfire pollution killed 52,000 people in a decade: study" }
-
-AzafPalnmtflrlnla:::txtsize --> ChoryruU:::txtsize
-ChoryruU:::txtsize --> Ntnosager:::txtsize
-Ntnosager:::txtsize --> Smhotanrmor:::txtsize
-Ntnosager:::txtsize --> Ranghsocne:::txtsize
-ChoryruU:::txtsize --> Smhotanrmor:::txtsize
-Smhotanrmor:::txtsize --> Hogomfhtd:::txtsize
-Smhotanrmor:::txtsize --> SmatnraOw:::txtsize
-AzafPalnmtflrlnla:::txtsize --> BlmieC:::txtsize
-BlmieC:::txtsize --> Bladomhpyrni:::txtsize
-Bladomhpyrni:::txtsize --> Laffirrsi:::txtsize
-Bladomhpyrni:::txtsize --> DeiBlmraor:::txtsize
-BlmieC:::txtsize --> Fiztsectn:::txtsize
-Fiztsectn:::txtsize --> Fiznauxegpd:::txtsize
-Fiztsectn:::txtsize --> Cowilolonau:::txtsize
+Bstriktsminc:::txtsize --> BsisiPrCpysg:::txtsize
+BsisiPrCpysg:::txtsize --> Upenocdyon:::txtsize
+Upenocdyon:::txtsize --> Clderdoials:::txtsize
+Upenocdyon:::txtsize --> Cffgpidhtrortyl:::txtsize
+BsisiPrCpysg:::txtsize --> Hnruosd:::txtsize
+Hnruosd:::txtsize --> Tseaupoabmrnluo:::txtsize
+Bstriktsminc:::txtsize --> Bssoydeiseiiylu:::txtsize
+Bssoydeiseiiylu:::txtsize --> Upenocdyon:::txtsize
+Upenocdyon:::txtsize --> Clderdoials:::txtsize
+Upenocdyon:::txtsize --> Cffgpidhtrortyl:::txtsize
+Bssoydeiseiiylu:::txtsize --> Uiawwpfi:::txtsize
+Uiawwpfi:::txtsize --> Gneutsglirhgon:::txtsize
+Uiawwpfi:::txtsize --> CiaacfyadeU:::txtsize
 
 ```
-<i>Last updated: 2025-10-16 04:00:32.333597 (GMT+8)</i>
+<i>Last updated: 2025-10-16 08:00:58.770257 (GMT+8)</i>
 <!-- END -->
