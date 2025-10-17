@@ -16,132 +16,117 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Upayyiobireii@{ shape: win-pane, label: "_Published Oct 17, 2025, 11:37 PM_
-Un shipping agency delays decision on carbon price for one year amid splits" }
-Papstogeprvoloagh@{ shape: win-pane, label: "_Published Oct 14, 2025, 10:20 PM_
-Parliament passes bill to allow singapore to impose green aviation fuel levy on departing flights" }
-AaciniAoaelropb@{ shape: win-pane, label: "_Published Nov 10, 2023, 08:50 PM_
-Asia-pacific airlines, including sia, aim for cleaner jet fuel to form 5% of consumption by 2030" }
-Soitsietudmilas@{ shape: win-pane, label: "_Published Feb 11, 2022, 05:53 PM_
-Sia, scoot flights to use sustainable aviation fuel made from cooking oil, animal fats" }
-PncfaeirreeCioii@{ shape: win-pane, label: "_Published Nov 10, 2023, 08:35 PM_
-Passengers can offset carbon emissions from air travel under new changi airport initiative" }
-Tltmogegetpsrru@{ shape: win-pane, label: "_Published Feb 19, 2024, 09:00 AM_
-Travellers to pay more for flights leaving s’pore from 2026 to support use of greener jet fuel" }
-AaciniAoaelropb@{ shape: win-pane, label: "_Published Nov 10, 2023, 08:50 PM_
-Asia-pacific airlines, including sia, aim for cleaner jet fuel to form 5% of consumption by 2030" }
-Brnngehrtbbld@{ shape: win-pane, label: "_Published Feb 15, 2022, 02:24 PM_
-Blueprint on making singapore's air hub more sustainable to be published in 2023" }
-Uespasohinrrrse@{ shape: win-pane, label: "_Published Sep 04, 2025, 07:33 AM_
-Us threatens to impose tariffs if global ship emissions charges are approved, sources say" }
-Wsefrtfw@{ shape: win-pane, label: "_Published Aug 08, 2025, 07:28 AM_
-Who loses the most from trump’s tariffs? who wins?" }
-Tmiccraodrnarn@{ shape: win-pane, label: "_Published Aug 01, 2025, 07:56 AM_
-Trump modifies reciprocal tariffs ahead of deadline; rate on singapore remains at 10%" }
-TsccasipriohAas@{ shape: win-pane, label: "_Published Aug 07, 2025, 11:15 AM_
-Trump’s 100% semiconductor tariffs may hit chipmakers in singapore, other s-e asia nations" }
-Wtreimainttamaii@{ shape: win-pane, label: "_Published Sep 03, 2025, 07:46 AM_
-‘worse than great recession’: us manufacturing contracts for 6th straight month as tariffs bite" }
-Wrtftl@{ shape: win-pane, label: "_Published Aug 18, 2025, 05:00 AM_
-Will trump’s tariffs end the bull run?" }
-
-Upayyiobireii:::txtsize --> Papstogeprvoloagh:::txtsize
-Papstogeprvoloagh:::txtsize --> AaciniAoaelropb:::txtsize
-AaciniAoaelropb:::txtsize --> Soitsietudmilas:::txtsize
-AaciniAoaelropb:::txtsize --> PncfaeirreeCioii:::txtsize
-Papstogeprvoloagh:::txtsize --> Tltmogegetpsrru:::txtsize
-Tltmogegetpsrru:::txtsize --> AaciniAoaelropb:::txtsize
-Tltmogegetpsrru:::txtsize --> Brnngehrtbbld:::txtsize
-Upayyiobireii:::txtsize --> Uespasohinrrrse:::txtsize
-Uespasohinrrrse:::txtsize --> Wsefrtfw:::txtsize
-Wsefrtfw:::txtsize --> Tmiccraodrnarn:::txtsize
-Wsefrtfw:::txtsize --> TsccasipriohAas:::txtsize
-Uespasohinrrrse:::txtsize --> Wtreimainttamaii:::txtsize
-Wtreimainttamaii:::txtsize --> Wrtftl:::txtsize
-
-Unlrastwnsudeo@{ shape: win-pane, label: "_Published Oct 17, 2025, 10:35 PM_
-Ukraine could use reparations loan to buy weapons outside europe, document shows" }
-ZssesTisweim@{ shape: win-pane, label: "_Published Oct 17, 2025, 10:31 PM_
-Zelensky to seek weapons from trump in the shadow of a new putin summit" }
-Kisnpihniwbelds@{ shape: win-pane, label: "_Published Oct 17, 2025, 06:50 PM_
-Kremlin says putin-trump summit may happen within two weeks, but there’s a lot to do first" }
-Tttndtrttcke@{ shape: win-pane, label: "_Published Oct 16, 2025, 11:15 PM_
-Trump to meet putin in budapest after ‘great’ call to discuss ukraine" }
-TmpTasskesour@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:24 AM_
-Trump may approve tomahawk missiles for ukraine if russia continues war" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
-Explosions heard in ukraine capital kyiv, other cities" }
-OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
-Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
-Zspdarnloiats@{ shape: win-pane, label: "_Published Oct 17, 2025, 04:35 AM_
-Zelensky hopes middle east agreement can lead to ukraine peace with russia" }
+HuhnduytoTansZs@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:27 AM_
+‘hopefully they won’t need it’: trump says it’s too soon for tomahawks in talks with zelensky" }
 Tttndtrttcke@{ shape: win-pane, label: "_Published Oct 16, 2025, 11:15 PM_
 Trump to meet putin in budapest after ‘great’ call to discuss ukraine" }
 Twarntceydtpni@{ shape: win-pane, label: "_Published Aug 16, 2025, 11:00 AM_
 Takeaways: warm words contrast with cold reality of no deal at trump-putin summit" }
-Wramldirieke@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:35 PM_
-What are tomahawk missiles and why might trump give them to ukraine?" }
+TaeaZsmdisfegn@{ shape: win-pane, label: "_Published Aug 16, 2025, 07:20 AM_
+Trump advises ukraine’s zelensky to ‘make a deal’ with russia after meeting putin" }
+Hioittrihp@{ shape: win-pane, label: "_Published Aug 16, 2025, 08:34 AM_
+Highlights of putin statement after summit with trump" }
 Wramldirieke@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:35 PM_
 What are tomahawk missiles and why might trump give them to ukraine?" }
 TmpTasskesour@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:24 AM_
 Trump may approve tomahawk missiles for ukraine if russia continues war" }
 
-Unlrastwnsudeo:::txtsize --> ZssesTisweim:::txtsize
-ZssesTisweim:::txtsize --> Kisnpihniwbelds:::txtsize
-Kisnpihniwbelds:::txtsize --> Tttndtrttcke:::txtsize
-Kisnpihniwbelds:::txtsize --> TmpTasskesour:::txtsize
-ZssesTisweim:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
-DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
-Unlrastwnsudeo:::txtsize --> Zspdarnloiats:::txtsize
-Zspdarnloiats:::txtsize --> Tttndtrttcke:::txtsize
+HuhnduytoTansZs:::txtsize --> Tttndtrttcke:::txtsize
 Tttndtrttcke:::txtsize --> Twarntceydtpni:::txtsize
+Twarntceydtpni:::txtsize --> TaeaZsmdisfegn:::txtsize
+Twarntceydtpni:::txtsize --> Hioittrihp:::txtsize
 Tttndtrttcke:::txtsize --> Wramldirieke:::txtsize
-Zspdarnloiats:::txtsize --> Wramldirieke:::txtsize
 Wramldirieke:::txtsize --> TmpTasskesour:::txtsize
 
-ZssesTisweim@{ shape: win-pane, label: "_Published Oct 17, 2025, 10:31 PM_
-Zelensky to seek weapons from trump in the shadow of a new putin summit" }
-Kisnpihniwbelds@{ shape: win-pane, label: "_Published Oct 17, 2025, 06:50 PM_
-Kremlin says putin-trump summit may happen within two weeks, but there’s a lot to do first" }
-Tttndtrttcke@{ shape: win-pane, label: "_Published Oct 16, 2025, 11:15 PM_
-Trump to meet putin in budapest after ‘great’ call to discuss ukraine" }
-Twarntceydtpni@{ shape: win-pane, label: "_Published Aug 16, 2025, 11:00 AM_
-Takeaways: warm words contrast with cold reality of no deal at trump-putin summit" }
-Wramldirieke@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:35 PM_
-What are tomahawk missiles and why might trump give them to ukraine?" }
-TmpTasskesour@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:24 AM_
-Trump may approve tomahawk missiles for ukraine if russia continues war" }
-UnltRaispdmkieks@{ shape: win-pane, label: "_Published Oct 12, 2025, 09:49 PM_
-Ukraine will not strike russian civilians if us provides tomahawk missiles, zelensky says" }
-Tsedtwiloaml@{ shape: win-pane, label: "_Published Oct 07, 2025, 05:52 AM_
-Trump says he would want to know ukraine’s plans for tomahawk missiles" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
-Explosions heard in ukraine capital kyiv, other cities" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
-Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
+BiinguluY@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:26 AM_
+Britain’s prince andrew gives up title of duke of york" }
+Peeuaaaehatho@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:12 PM_
+Prince andrew accuser says he acted as if sex with her was ‘birthright’: memoir" }
+Ltdiruooscr@{ shape: win-pane, label: "_Published Dec 15, 2024, 08:55 PM_
+Latest scandal raises fresh questions about uk’s prince andrew" }
+SaPeekeloldey@{ shape: win-pane, label: "_Published Dec 14, 2024, 06:15 PM_
+Scandal-hit prince andrew back in the headlines over alleged chinese spy" }
+CsoeinbdBiaaur@{ shape: win-pane, label: "_Published Dec 13, 2024, 03:08 AM_
+Chinese associate of prince andrew banned from britain as national security risk" }
+CtnkheYvalJetuen@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:56 AM_
+Charities end links with duchess of york over e-mail calling jeffrey epstein ‘supreme friend’" }
+VmeeJetoisear@{ shape: win-pane, label: "_Published Sep 04, 2025, 02:07 AM_
+Victims of sex offender jeffrey epstein compiling list of sexual abusers" }
+PsbpnogssseTv@{ shape: win-pane, label: "_Published Sep 17, 2025, 07:09 AM_
+Protesters beam epstein video at england’s windsor castle before trump visit" }
+CtnkheYvalJetuen@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:56 AM_
+Charities end links with duchess of york over e-mail calling jeffrey epstein ‘supreme friend’" }
+VmeeJetoisear@{ shape: win-pane, label: "_Published Sep 04, 2025, 02:07 AM_
+Victims of sex offender jeffrey epstein compiling list of sexual abusers" }
+Jetisdntigntvem@{ shape: win-pane, label: "_Published Jul 08, 2025, 04:02 AM_
+Jeffrey epstein died by suicide, has no sex trafficking ‘client list’: us government memo" }
+PsbpnogssseTv@{ shape: win-pane, label: "_Published Sep 17, 2025, 07:09 AM_
+Protesters beam epstein video at england’s windsor castle before trump visit" }
+Bikdnasopns@{ shape: win-pane, label: "_Published Sep 11, 2025, 06:03 PM_
+Britain sacks mandelson as us ambassador over epstein links" }
+Tanrefeoirls@{ shape: win-pane, label: "_Published Sep 15, 2025, 10:20 AM_
+Trump and king charles: heads of state with opposing personalities" }
 
-ZssesTisweim:::txtsize --> Kisnpihniwbelds:::txtsize
-Kisnpihniwbelds:::txtsize --> Tttndtrttcke:::txtsize
-Tttndtrttcke:::txtsize --> Twarntceydtpni:::txtsize
-Tttndtrttcke:::txtsize --> Wramldirieke:::txtsize
-Kisnpihniwbelds:::txtsize --> TmpTasskesour:::txtsize
-TmpTasskesour:::txtsize --> UnltRaispdmkieks:::txtsize
-TmpTasskesour:::txtsize --> Tsedtwiloaml:::txtsize
-ZssesTisweim:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
-Eshiaalocs:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
-OaUuakaogrmc:::txtsize --> DsruasvUn:::txtsize
+BiinguluY:::txtsize --> Peeuaaaehatho:::txtsize
+Peeuaaaehatho:::txtsize --> Ltdiruooscr:::txtsize
+Ltdiruooscr:::txtsize --> SaPeekeloldey:::txtsize
+Ltdiruooscr:::txtsize --> CsoeinbdBiaaur:::txtsize
+Peeuaaaehatho:::txtsize --> CtnkheYvalJetuen:::txtsize
+CtnkheYvalJetuen:::txtsize --> VmeeJetoisear:::txtsize
+CtnkheYvalJetuen:::txtsize --> PsbpnogssseTv:::txtsize
+BiinguluY:::txtsize --> CtnkheYvalJetuen:::txtsize
+CtnkheYvalJetuen:::txtsize --> VmeeJetoisear:::txtsize
+VmeeJetoisear:::txtsize --> Jetisdntigntvem:::txtsize
+CtnkheYvalJetuen:::txtsize --> PsbpnogssseTv:::txtsize
+PsbpnogssseTv:::txtsize --> Bikdnasopns:::txtsize
+PsbpnogssseTv:::txtsize --> Tanrefeoirls:::txtsize
+
+Bnshfttroawr@{ shape: win-pane, label: "_Published Oct 18, 2025, 01:31 AM_
+Bolton faces tougher defence than other trump foes charged with crimes" }
+Frhorahdurcc@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:10 AM_
+Former fbi chief comey criminally charged as trump targets critics" }
+TpcgJcanhhe@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:36 AM_
+Trump publicly urges us justice department to charge his enemies" }
+UsoeestrueeeLie@{ shape: win-pane, label: "_Published Sep 20, 2025, 11:09 PM_
+Us prosecutor ‘fired’ after pressure to charge trump foes james comey and letitia james" }
+AcTmtwrnslm@{ shape: win-pane, label: "_Published Oct 04, 2019, 07:45 AM_
+Adam schiff: the democratic lawmaker who enrages donald trump" }
+Edtmteyevvceo@{ shape: win-pane, label: "_Published May 17, 2025, 03:04 AM_
+Ex-fbi director comey interviewed by secret service over ‘8647’ social media post" }
+UisitmIfyttp@{ shape: win-pane, label: "_Published May 16, 2025, 09:45 AM_
+Us officials looking into former fbi chief comey’s ‘8647’ post about trump" }
+Uiiwaipatbhra@{ shape: win-pane, label: "_Published Jan 08, 2021, 12:03 PM_
+Us capitol riot: how social media helped enable attack by die-hard trump fans" }
+Lieteenmitrf@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:43 AM_
+Letitia james, ny attorney general and trump foe, indicted for bank fraud" }
+EcCpsuiepe@{ shape: win-pane, label: "_Published Oct 08, 2025, 11:53 PM_
+Ex-fbi chief comey pleads not guilty in case trump pushed for" }
+Ierdsiupcao@{ shape: win-pane, label: "_Published Sep 28, 2025, 07:54 AM_
+Inside the trump administration’s push to prosecute james comey" }
+Citearcicoisgp@{ shape: win-pane, label: "_Published Sep 27, 2025, 04:47 AM_
+Comey indictment escalates trump’s campaign to chill opposition, say legal experts" }
+Ierdsiupcao@{ shape: win-pane, label: "_Published Sep 28, 2025, 07:54 AM_
+Inside the trump administration’s push to prosecute james comey" }
+Frhorahdurcc@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:10 AM_
+Former fbi chief comey criminally charged as trump targets critics" }
+TpcgJcanhhe@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:36 AM_
+Trump publicly urges us justice department to charge his enemies" }
+
+Bnshfttroawr:::txtsize --> Frhorahdurcc:::txtsize
+Frhorahdurcc:::txtsize --> TpcgJcanhhe:::txtsize
+TpcgJcanhhe:::txtsize --> UsoeestrueeeLie:::txtsize
+TpcgJcanhhe:::txtsize --> AcTmtwrnslm:::txtsize
+Frhorahdurcc:::txtsize --> Edtmteyevvceo:::txtsize
+Edtmteyevvceo:::txtsize --> UisitmIfyttp:::txtsize
+Edtmteyevvceo:::txtsize --> Uiiwaipatbhra:::txtsize
+Bnshfttroawr:::txtsize --> Lieteenmitrf:::txtsize
+Lieteenmitrf:::txtsize --> EcCpsuiepe:::txtsize
+EcCpsuiepe:::txtsize --> Ierdsiupcao:::txtsize
+EcCpsuiepe:::txtsize --> Citearcicoisgp:::txtsize
+Lieteenmitrf:::txtsize --> Ierdsiupcao:::txtsize
+Ierdsiupcao:::txtsize --> Frhorahdurcc:::txtsize
+Ierdsiupcao:::txtsize --> TpcgJcanhhe:::txtsize
 
 ```
-<i>Last updated: 2025-10-18 00:01:08.954791 (GMT+8)</i>
+<i>Last updated: 2025-10-18 04:00:35.683197 (GMT+8)</i>
 <!-- END -->
