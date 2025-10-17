@@ -16,141 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tsrfplod@{ shape: win-pane, label: "_Published Oct 17, 2025, 07:25 AM_
-Trump says price of ozempic will be lowered" }
-NokrmtooiSpgo@{ shape: win-pane, label: "_Published Aug 19, 2025, 01:12 AM_
-Novo nordisk offers ozempic at $640 per month to eligible us cash-paying customers" }
-Wyceuotiwlvepige@{ shape: win-pane, label: "_Published Jul 12, 2025, 06:15 PM_
-Wegovy, injectable drug used to treat obesity, now available via prescription in singapore" }
-WyootagsSonodnei@{ shape: win-pane, label: "_Published Apr 02, 2023, 02:50 PM_
-Wegovy approved for use to treat weight issues; hsa removes unauthorised online sale listings" }
-Tkosiegeloos@{ shape: win-pane, label: "_Published Feb 28, 2023, 03:27 PM_
-Tiktok videos on use of diabetes drug for weight loss worry doctors" }
-BeeeCsgotghlwtmt@{ shape: win-pane, label: "_Published Aug 11, 2025, 05:00 PM_
-Battle of the bulge: will china’s home-grown obesity drugs reshape global weight loss market?" }
-Csthseehatesrdt@{ shape: win-pane, label: "_Published Jun 30, 2025, 03:12 PM_
-China’s first weight loss drug emerges with its nascent market poised for rapid growth" }
-Csthseehatesrdt@{ shape: win-pane, label: "_Published Jun 30, 2025, 03:12 PM_
-China’s first weight loss drug emerges with its nascent market poised for rapid growth" }
-NOikrafoerUls@{ shape: win-pane, label: "_Published Jun 08, 2025, 12:05 PM_
-Novo’s ozempic linked to rare cases of serious eye disorder, eu regulator says" }
-WthiokcbysOiha@{ shape: win-pane, label: "_Published May 07, 2025, 09:51 AM_
-Weightwatchers files for bankruptcy as obesity drugs like ozempic reshape market" }
-Wydtgsraun@{ shape: win-pane, label: "_Published May 01, 2025, 09:00 AM_
-Wegovy could treat a dangerous liver disease, study finds" }
-Otgytfisugcs@{ shape: win-pane, label: "_Published Jan 21, 2025, 11:35 AM_
-Obesity drug study points to effectiveness in curbing addictions" }
-Otdswdaegk@{ shape: win-pane, label: "_Published May 03, 2025, 05:00 AM_
-Obesity is a disease and we need to start treating it like one" }
-WtdchnsukaO@{ shape: win-pane, label: "_Published Dec 19, 2024, 12:05 AM_
-Weight-loss drugs could help end obesity – but risks remain, who says" }
+Sfttpotiir@{ shape: win-pane, label: "_Published Oct 17, 2025, 11:05 AM_
+Salesforce tries to help ice boost its immigration force" }
+Tcfpofspewegi@{ shape: win-pane, label: "_Published Jun 16, 2025, 09:40 AM_
+Trump calls for expansion of efforts to deport people who are illegally in us" }
+Taiteagttvns@{ shape: win-pane, label: "_Published Jun 15, 2025, 10:05 PM_
+Trump administration weighs adding 36 countries to travel ban, memo says" }
+Tseonsifeoe@{ shape: win-pane, label: "_Published Jun 08, 2025, 06:07 PM_
+Trump’s travel ban on 12 countries goes into effect early on june 9" }
+WaaoectTsprb@{ shape: win-pane, label: "_Published Jun 06, 2025, 03:40 PM_
+Why myanmar and laos have been caught up in trump’s sweeping travel bans" }
+Uiifldrprome@{ shape: win-pane, label: "_Published Jun 14, 2025, 12:44 PM_
+Us immigration officials told to largely pause raids on farms, hotels" }
+Thtdyastaiiroat@{ shape: win-pane, label: "_Published Jun 12, 2025, 08:47 PM_
+Trump hails troop deployment against protests as california gears up for legal battle" }
+TwteLgreah@{ shape: win-pane, label: "_Published Jun 11, 2025, 06:08 PM_
+Trump wants to ‘liberate’ los angeles, residents say ‘no thanks’" }
+Sftenaohts@{ shape: win-pane, label: "_Published Mar 12, 2025, 04:50 PM_
+Salesforce to invest $1.3b in singapore over the next 5 years" }
+SctroedsrarKn@{ shape: win-pane, label: "_Published Mar 12, 2025, 02:59 PM_
+S’pore combating trade-hostile world by easing trade barriers: gan kim yong" }
+Tmsfafaioad@{ shape: win-pane, label: "_Published Mar 12, 2025, 03:05 PM_
+Trump metals tariffs draw swift retaliation from canada and eu" }
+Apgornbneneyod@{ shape: win-pane, label: "_Published Oct 23, 2024, 08:00 PM_
+Asean power grid could create new jobs, bring investments to energy sector: study" }
+Ineroerredio@{ shape: win-pane, label: "_Published Mar 12, 2025, 08:41 AM_
+Indian fintech firm razorpay eyes group profit, expands to singapore" }
+NanSpusttsi@{ shape: win-pane, label: "_Published Mar 12, 2025, 07:52 AM_
+Nomura expands in singapore, dubai as wealth unit turns profit" }
+Fnitecdbioou@{ shape: win-pane, label: "_Published Mar 10, 2025, 05:00 AM_
+Four in five investors remain confident about singapore stocks: survey" }
 
-Tsrfplod:::txtsize --> NokrmtooiSpgo:::txtsize
-NokrmtooiSpgo:::txtsize --> Wyceuotiwlvepige:::txtsize
-Wyceuotiwlvepige:::txtsize --> WyootagsSonodnei:::txtsize
-Wyceuotiwlvepige:::txtsize --> Tkosiegeloos:::txtsize
-NokrmtooiSpgo:::txtsize --> BeeeCsgotghlwtmt:::txtsize
-BeeeCsgotghlwtmt:::txtsize --> Csthseehatesrdt:::txtsize
-BeeeCsgotghlwtmt:::txtsize --> Csthseehatesrdt:::txtsize
-Tsrfplod:::txtsize --> NOikrafoerUls:::txtsize
-NOikrafoerUls:::txtsize --> WthiokcbysOiha:::txtsize
-WthiokcbysOiha:::txtsize --> Wydtgsraun:::txtsize
-WthiokcbysOiha:::txtsize --> Otgytfisugcs:::txtsize
-NOikrafoerUls:::txtsize --> Otdswdaegk:::txtsize
-Otdswdaegk:::txtsize --> WtdchnsukaO:::txtsize
+Sfttpotiir:::txtsize --> Tcfpofspewegi:::txtsize
+Tcfpofspewegi:::txtsize --> Taiteagttvns:::txtsize
+Taiteagttvns:::txtsize --> Tseonsifeoe:::txtsize
+Taiteagttvns:::txtsize --> WaaoectTsprb:::txtsize
+Tcfpofspewegi:::txtsize --> Uiifldrprome:::txtsize
+Uiifldrprome:::txtsize --> Thtdyastaiiroat:::txtsize
+Uiifldrprome:::txtsize --> TwteLgreah:::txtsize
+Sfttpotiir:::txtsize --> Sftenaohts:::txtsize
+Sftenaohts:::txtsize --> SctroedsrarKn:::txtsize
+SctroedsrarKn:::txtsize --> Tmsfafaioad:::txtsize
+SctroedsrarKn:::txtsize --> Apgornbneneyod:::txtsize
+Sftenaohts:::txtsize --> Ineroerredio:::txtsize
+Ineroerredio:::txtsize --> NanSpusttsi:::txtsize
+Ineroerredio:::txtsize --> Fnitecdbioou:::txtsize
 
-FernnnNarsi@{ shape: win-pane, label: "_Published Oct 17, 2025, 07:15 AM_
-France and britain refine plans at un for gaza force resolution" }
-IlseetvtRbreeuat@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:25 PM_
-Israel, hamas trade blame over truce violations, rafah border reopening eyed but no date set" }
-IlHhdbhnroe@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:54 PM_
-Israel says hamas handed over body that is not former hostage" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-IlaGRcitppdusra@{ shape: win-pane, label: "_Published Oct 15, 2025, 02:30 PM_
-Israel will allow gaza’s rafah crossing with egypt to open and ramp up aid, says broadcaster" }
-Ilprnpfogriyteul@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:20 PM_
-Israel says preparations to open rafah crossing underway with egypt, date to be announced later" }
-Auotamneead@{ shape: win-pane, label: "_Published Oct 15, 2025, 06:10 PM_
-Aid trucks roll into gaza as hamas hands over more hostage bodies" }
-GeaetecacfNees@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:40 AM_
-Gaza needs massive boost in emergency aid after ceasefire, un relief chief says" }
-IePdrororwz@{ shape: win-pane, label: "_Published Sep 24, 2025, 01:27 PM_
-Indonesian president prabowo offers 20,000 troops for post-war gaza" }
-TzpseteoIleelhhsa@{ shape: win-pane, label: "_Published Sep 23, 2025, 05:06 AM_
-Two gaza hospitals forced to stop operations as israeli offensive escalates, health ministry says" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WlrlilntoUySs@{ shape: win-pane, label: "_Published Sep 23, 2025, 03:40 AM_
-World leaders rally behind palestinian statehood at un, defying us and israel" }
-Uiboeiaotmro@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:52 AM_
-Us allies’ embrace of palestinian statehood tests trump’s israel policy" }
-TzpseteoIleelhhsa@{ shape: win-pane, label: "_Published Sep 23, 2025, 05:06 AM_
-Two gaza hospitals forced to stop operations as israeli offensive escalates, health ministry says" }
-NyQakosenaet@{ shape: win-pane, label: "_Published Sep 16, 2025, 04:50 PM_
-Netanyahu’s qatar attack will only isolate him and israel even further" }
+Nryrnteafotua@{ shape: win-pane, label: "_Published Oct 17, 2025, 09:55 AM_
+New york city mayoral candidate faces attacks after comments about hamas" }
+MnniarowCalasy@{ shape: win-pane, label: "_Published Sep 30, 2025, 07:54 AM_
+Mamdani seen holding lead over cuomo in new york city mayoral race, analysts say" }
+NrebMngTfne@{ shape: win-pane, label: "_Published Sep 15, 2025, 11:30 PM_
+New york governor backs mamdani, triggers trump funding threat" }
+Hifcenekiat@{ shape: win-pane, label: "_Published Aug 27, 2025, 11:50 AM_
+How china influences elections in new york, america’s largest city" }
+Nrocssen@{ shape: win-pane, label: "_Published Sep 29, 2025, 12:38 PM_
+New york mayor eric adams drops re-election bid" }
+DeTuetwCnaiil@{ shape: win-pane, label: "_Published Sep 24, 2025, 10:57 PM_
+‘drop dead’: us treasury’s bessent to new york city, on any mamdani crisis bailout" }
+Taocerygase@{ shape: win-pane, label: "_Published Sep 22, 2025, 02:26 AM_
+Trump aide homan accepted $64,000 in bribery sting operation, sources say" }
+Nlaacheaiehrs@{ shape: win-pane, label: "_Published Jul 09, 2025, 10:35 PM_
+Nyc billionaires are richer than ever as mamdani pushes for higher taxes" }
+ZnaflcnafwCa@{ shape: win-pane, label: "_Published Jul 02, 2025, 02:15 AM_
+Zohran mamdani officially secures nomination for new york city mayor" }
+UritadtoctCimam@{ shape: win-pane, label: "_Published Jun 25, 2025, 04:10 PM_
+Upstart socialist zohran mamdani stuns political veteran cuomo in nyc mayoral primary" }
+HceifeYocoMnc@{ shape: win-pane, label: "_Published Jun 30, 2025, 10:10 AM_
+How social media videos fuelled new york politician zohran mamdani’s success" }
 
-FernnnNarsi:::txtsize --> IlseetvtRbreeuat:::txtsize
-IlseetvtRbreeuat:::txtsize --> IlHhdbhnroe:::txtsize
-IlHhdbhnroe:::txtsize --> Tdrcaaededlncbs:::txtsize
-IlHhdbhnroe:::txtsize --> IlaGRcitppdusra:::txtsize
-IlseetvtRbreeuat:::txtsize --> Ilprnpfogriyteul:::txtsize
-Ilprnpfogriyteul:::txtsize --> Auotamneead:::txtsize
-Ilprnpfogriyteul:::txtsize --> GeaetecacfNees:::txtsize
-FernnnNarsi:::txtsize --> IePdrororwz:::txtsize
-IePdrororwz:::txtsize --> TzpseteoIleelhhsa:::txtsize
-TzpseteoIleelhhsa:::txtsize --> NyeeawHakl:::txtsize
-TzpseteoIleelhhsa:::txtsize --> WlrlilntoUySs:::txtsize
-IePdrororwz:::txtsize --> Uiboeiaotmro:::txtsize
-Uiboeiaotmro:::txtsize --> TzpseteoIleelhhsa:::txtsize
-Uiboeiaotmro:::txtsize --> NyQakosenaet:::txtsize
+Nryrnteafotua:::txtsize --> MnniarowCalasy:::txtsize
+MnniarowCalasy:::txtsize --> NrebMngTfne:::txtsize
+NrebMngTfne:::txtsize --> Hifcenekiat:::txtsize
+MnniarowCalasy:::txtsize --> Nrocssen:::txtsize
+Nrocssen:::txtsize --> DeTuetwCnaiil:::txtsize
+Nrocssen:::txtsize --> Taocerygase:::txtsize
+Nryrnteafotua:::txtsize --> Nlaacheaiehrs:::txtsize
+Nlaacheaiehrs:::txtsize --> ZnaflcnafwCa:::txtsize
+ZnaflcnafwCa:::txtsize --> UritadtoctCimam:::txtsize
+ZnaflcnafwCa:::txtsize --> HceifeYocoMnc:::txtsize
 
-Hrsaaarysaariu@{ shape: win-pane, label: "_Published Oct 17, 2025, 07:04 AM_
-Hackers use some canada and us airport pa systems to praise hamas, criticise trump" }
-Eerslcakunrie@{ shape: win-pane, label: "_Published Sep 20, 2025, 03:40 PM_
-European airports snarled by cyber attack, disruption to stretch into sept 21" }
-DAnewietueptsgsi@{ shape: win-pane, label: "_Published Oct 26, 2024, 07:12 AM_
-Delta air lines sues crowdstrike over software update that prompted mass flight disruptions" }
-Csirwiorauauatusll@{ shape: win-pane, label: "_Published Jul 19, 2024, 10:50 PM_
-Cyber-security firm crowdstrike’s software update causes major outage affecting businesses globally" }
-CSetleauecdau@{ shape: win-pane, label: "_Published Sep 24, 2024, 08:35 PM_
-Crowdstrike exec to apologise for faulty update that caused global it outage" }
-KpioeaMsityrc@{ shape: win-pane, label: "_Published Mar 25, 2025, 05:25 PM_
-Klia operations not affected after malaysian airport hit by cyber attack" }
-Uawncnupmam@{ shape: win-pane, label: "_Published Mar 24, 2025, 04:58 PM_
-Uk’s heathrow defends decision to shut airport amid blame game" }
-Cggciuictenrwtba@{ shape: win-pane, label: "_Published Jun 21, 2024, 10:30 PM_
-Csa urges vigilance against ‘suspicious activity’ after changi airport website hit by outage" }
-Arohtegfawtsrry@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:16 AM_
-Airport chaos highlights rise in high-profile ransomware attacks, cyber experts say" }
-Eerslcakunrie@{ shape: win-pane, label: "_Published Sep 20, 2025, 03:40 PM_
-European airports snarled by cyber attack, disruption to stretch into sept 21" }
-DAnewietueptsgsi@{ shape: win-pane, label: "_Published Oct 26, 2024, 07:12 AM_
-Delta air lines sues crowdstrike over software update that prompted mass flight disruptions" }
-KpioeaMsityrc@{ shape: win-pane, label: "_Published Mar 25, 2025, 05:25 PM_
-Klia operations not affected after malaysian airport hit by cyber attack" }
-Titceronttaw@{ shape: win-pane, label: "_Published Sep 18, 2025, 10:20 PM_
-Two british teens charged over london transport hack that lasted weeks" }
-FrRakggilac@{ shape: win-pane, label: "_Published Aug 21, 2025, 05:37 AM_
-Fbi warns of russian hacks targeting us critical infrastructure" }
-Lnloeturhi@{ shape: win-pane, label: "_Published Sep 09, 2025, 03:24 PM_
-Londoners flock to e-bikes, boats as tube strike chaos hits" }
+MSeiiiegpftoeia@{ shape: win-pane, label: "_Published Oct 17, 2025, 08:50 AM_
+More us universities join mit in rejecting trump’s preferential college funding plan" }
+TosoeftugrtM@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:00 AM_
+Trump offers all colleges preferential funding plan rejected by mit" }
+GngcoetnooT@{ shape: win-pane, label: "_Published Sep 29, 2025, 09:25 AM_
+Give in or fight back? us colleges are torn on how to respond to trump" }
+Hrspnafogloett@{ shape: win-pane, label: "_Published May 23, 2025, 09:34 PM_
+Harvard sues trump administration for blocking enrolment of foreign students" }
+Ukssrooodswrdsi@{ shape: win-pane, label: "_Published Sep 13, 2025, 10:30 AM_
+Uc berkeley shares information on dozens of students, staff with trump administration" }
+BUrrtiuasaat@{ shape: win-pane, label: "_Published Oct 16, 2025, 07:00 AM_
+Brown university rejects a white house deal for special treatment" }
+TosoeftugrtM@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:00 AM_
+Trump offers all colleges preferential funding plan rejected by mit" }
+GngcoetnooT@{ shape: win-pane, label: "_Published Sep 29, 2025, 09:25 AM_
+Give in or fight back? us colleges are torn on how to respond to trump" }
+BbetnssugtsT@{ shape: win-pane, label: "_Published Aug 05, 2025, 08:59 AM_
+Badly bruised elite us universities are rushing to cut deals with trump" }
+TgnsoyHrly@{ shape: win-pane, label: "_Published Jul 15, 2025, 09:55 AM_
+Trump government’s actions may cost harvard $1.28 billion a year" }
+TsmgoeUoclrnin@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:31 AM_
+Trump’s deal-making with other elite us schools scrambles harvard negotiations" }
 
-Hrsaaarysaariu:::txtsize --> Eerslcakunrie:::txtsize
-Eerslcakunrie:::txtsize --> DAnewietueptsgsi:::txtsize
-DAnewietueptsgsi:::txtsize --> Csirwiorauauatusll:::txtsize
-DAnewietueptsgsi:::txtsize --> CSetleauecdau:::txtsize
-Eerslcakunrie:::txtsize --> KpioeaMsityrc:::txtsize
-KpioeaMsityrc:::txtsize --> Uawncnupmam:::txtsize
-KpioeaMsityrc:::txtsize --> Cggciuictenrwtba:::txtsize
-Hrsaaarysaariu:::txtsize --> Arohtegfawtsrry:::txtsize
-Arohtegfawtsrry:::txtsize --> Eerslcakunrie:::txtsize
-Eerslcakunrie:::txtsize --> DAnewietueptsgsi:::txtsize
-Eerslcakunrie:::txtsize --> KpioeaMsityrc:::txtsize
-Arohtegfawtsrry:::txtsize --> Titceronttaw:::txtsize
-Titceronttaw:::txtsize --> FrRakggilac:::txtsize
-Titceronttaw:::txtsize --> Lnloeturhi:::txtsize
+MSeiiiegpftoeia:::txtsize --> TosoeftugrtM:::txtsize
+TosoeftugrtM:::txtsize --> GngcoetnooT:::txtsize
+GngcoetnooT:::txtsize --> Hrspnafogloett:::txtsize
+GngcoetnooT:::txtsize --> Ukssrooodswrdsi:::txtsize
+MSeiiiegpftoeia:::txtsize --> BUrrtiuasaat:::txtsize
+BUrrtiuasaat:::txtsize --> TosoeftugrtM:::txtsize
+TosoeftugrtM:::txtsize --> GngcoetnooT:::txtsize
+BUrrtiuasaat:::txtsize --> BbetnssugtsT:::txtsize
+BbetnssugtsT:::txtsize --> TgnsoyHrly:::txtsize
+BbetnssugtsT:::txtsize --> TsmgoeUoclrnin:::txtsize
 
 ```
-<i>Last updated: 2025-10-17 08:01:06.636540 (GMT+8)</i>
+<i>Last updated: 2025-10-17 12:00:33.421776 (GMT+8)</i>
 <!-- END -->
