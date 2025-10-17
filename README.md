@@ -16,141 +16,141 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ugfftlic@{ shape: win-pane, label: "_Published Oct 17, 2025, 03:59 AM_
-Us budget deficit falls 2% to $2.3 trillion in fiscal 2025" }
-Bnsreedlra@{ shape: win-pane, label: "_Published Aug 27, 2025, 03:29 AM_
-Bessent says us tariff revenue could be well over $600b a year" }
-UaStatfnosalcrib@{ shape: win-pane, label: "_Published Aug 20, 2025, 02:56 AM_
-Us treasury secretary says us tariff revenues to rise ‘substantially’, focus on reducing debt" }
-TtfsfosfUdt@{ shape: win-pane, label: "_Published Aug 19, 2025, 01:31 PM_
-Trump tariffs get seal of approval as s&p affirms us credit rating" }
-Tsrsoiwaatde@{ shape: win-pane, label: "_Published Aug 19, 2025, 10:51 AM_
-Trump’s us tariffs seen fostering new china-global south trade order" }
-Cogesvncdrtmf@{ shape: win-pane, label: "_Published Aug 26, 2025, 03:25 PM_
-Call for singapore firms to invest in africa amid uncertainty from tariffs" }
-Spiyoiikeinpuobe@{ shape: win-pane, label: "_Published Aug 25, 2024, 03:00 PM_
-Singapore firms eye opportunities in cookstoves, evs in ghana trip to source for carbon credits" }
-TnrtiaeaAastyp@{ shape: win-pane, label: "_Published Mar 17, 2025, 05:00 AM_
-Two singapore fintech firms have a head start as africa makes digital payment push" }
-Uaysaeetbl@{ shape: win-pane, label: "_Published Oct 15, 2025, 12:24 PM_
-Us treasury yields fall as powell keeps rate cut bets alive" }
-Ueeestcolnk@{ shape: win-pane, label: "_Published Sep 18, 2025, 02:38 AM_
-Us federal reserve makes first rate cut of 2025 on employment risks" }
-Tsdwdesenpi@{ shape: win-pane, label: "_Published Aug 09, 2025, 12:56 AM_
-Trump’s us fed pick wanted to upend its protection from politics" }
-TmnscavfSLo@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:43 AM_
-Trump makes new push for court approval to fire us fed’s lisa cook" }
-Uentesnknih@{ shape: win-pane, label: "_Published Oct 06, 2025, 09:01 PM_
-Us government shutdown enters second week with no end in sight" }
-TpsrohgtBstutw@{ shape: win-pane, label: "_Published Jun 25, 2025, 09:55 AM_
-Trump pushes congress to pass his ‘big beautiful bill’ as debate clouds path forward" }
-Waswhomhw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:42 PM_
-What happens next with the us government shutdown?" }
+Tsrfplod@{ shape: win-pane, label: "_Published Oct 17, 2025, 07:25 AM_
+Trump says price of ozempic will be lowered" }
+NokrmtooiSpgo@{ shape: win-pane, label: "_Published Aug 19, 2025, 01:12 AM_
+Novo nordisk offers ozempic at $640 per month to eligible us cash-paying customers" }
+Wyceuotiwlvepige@{ shape: win-pane, label: "_Published Jul 12, 2025, 06:15 PM_
+Wegovy, injectable drug used to treat obesity, now available via prescription in singapore" }
+WyootagsSonodnei@{ shape: win-pane, label: "_Published Apr 02, 2023, 02:50 PM_
+Wegovy approved for use to treat weight issues; hsa removes unauthorised online sale listings" }
+Tkosiegeloos@{ shape: win-pane, label: "_Published Feb 28, 2023, 03:27 PM_
+Tiktok videos on use of diabetes drug for weight loss worry doctors" }
+BeeeCsgotghlwtmt@{ shape: win-pane, label: "_Published Aug 11, 2025, 05:00 PM_
+Battle of the bulge: will china’s home-grown obesity drugs reshape global weight loss market?" }
+Csthseehatesrdt@{ shape: win-pane, label: "_Published Jun 30, 2025, 03:12 PM_
+China’s first weight loss drug emerges with its nascent market poised for rapid growth" }
+Csthseehatesrdt@{ shape: win-pane, label: "_Published Jun 30, 2025, 03:12 PM_
+China’s first weight loss drug emerges with its nascent market poised for rapid growth" }
+NOikrafoerUls@{ shape: win-pane, label: "_Published Jun 08, 2025, 12:05 PM_
+Novo’s ozempic linked to rare cases of serious eye disorder, eu regulator says" }
+WthiokcbysOiha@{ shape: win-pane, label: "_Published May 07, 2025, 09:51 AM_
+Weightwatchers files for bankruptcy as obesity drugs like ozempic reshape market" }
+Wydtgsraun@{ shape: win-pane, label: "_Published May 01, 2025, 09:00 AM_
+Wegovy could treat a dangerous liver disease, study finds" }
+Otgytfisugcs@{ shape: win-pane, label: "_Published Jan 21, 2025, 11:35 AM_
+Obesity drug study points to effectiveness in curbing addictions" }
+Otdswdaegk@{ shape: win-pane, label: "_Published May 03, 2025, 05:00 AM_
+Obesity is a disease and we need to start treating it like one" }
+WtdchnsukaO@{ shape: win-pane, label: "_Published Dec 19, 2024, 12:05 AM_
+Weight-loss drugs could help end obesity – but risks remain, who says" }
 
-Ugfftlic:::txtsize --> Bnsreedlra:::txtsize
-Bnsreedlra:::txtsize --> UaStatfnosalcrib:::txtsize
-UaStatfnosalcrib:::txtsize --> TtfsfosfUdt:::txtsize
-UaStatfnosalcrib:::txtsize --> Tsrsoiwaatde:::txtsize
-Bnsreedlra:::txtsize --> Cogesvncdrtmf:::txtsize
-Cogesvncdrtmf:::txtsize --> Spiyoiikeinpuobe:::txtsize
-Cogesvncdrtmf:::txtsize --> TnrtiaeaAastyp:::txtsize
-Ugfftlic:::txtsize --> Uaysaeetbl:::txtsize
-Uaysaeetbl:::txtsize --> Ueeestcolnk:::txtsize
-Ueeestcolnk:::txtsize --> Tsdwdesenpi:::txtsize
-Ueeestcolnk:::txtsize --> TmnscavfSLo:::txtsize
-Uaysaeetbl:::txtsize --> Uentesnknih:::txtsize
-Uentesnknih:::txtsize --> TpsrohgtBstutw:::txtsize
-Uentesnknih:::txtsize --> Waswhomhw:::txtsize
+Tsrfplod:::txtsize --> NokrmtooiSpgo:::txtsize
+NokrmtooiSpgo:::txtsize --> Wyceuotiwlvepige:::txtsize
+Wyceuotiwlvepige:::txtsize --> WyootagsSonodnei:::txtsize
+Wyceuotiwlvepige:::txtsize --> Tkosiegeloos:::txtsize
+NokrmtooiSpgo:::txtsize --> BeeeCsgotghlwtmt:::txtsize
+BeeeCsgotghlwtmt:::txtsize --> Csthseehatesrdt:::txtsize
+BeeeCsgotghlwtmt:::txtsize --> Csthseehatesrdt:::txtsize
+Tsrfplod:::txtsize --> NOikrafoerUls:::txtsize
+NOikrafoerUls:::txtsize --> WthiokcbysOiha:::txtsize
+WthiokcbysOiha:::txtsize --> Wydtgsraun:::txtsize
+WthiokcbysOiha:::txtsize --> Otgytfisugcs:::txtsize
+NOikrafoerUls:::txtsize --> Otdswdaegk:::txtsize
+Otdswdaegk:::txtsize --> WtdchnsukaO:::txtsize
 
-Tttoalatnpkn@{ shape: win-pane, label: "_Published Oct 17, 2025, 02:21 AM_
-Trump threatens to ‘go in and kill’ hamas if it doesn’t stop gaza killings" }
-Thtndrltasact@{ shape: win-pane, label: "_Published Oct 14, 2025, 01:41 AM_
-Trump hails ‘tremendous day for middle east’ as leaders sign gaza declaration" }
-TsogrrsiPtnesiais@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:25 PM_
-Trump says ‘long nightmare’ over for israelis and palestinians, receives standing ovation in knesset" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Hholissrrazo@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:47 PM_
-Hamas hands over all living hostages to israel; trump says gaza war over" }
-TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
-Tears, joy in israel as hamas hands over first hostages" }
-Hholissrrazo@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:47 PM_
-Hamas hands over all living hostages to israel; trump says gaza war over" }
-Ilnrsaehwreit@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:04 AM_
-Israelis honour trump as hostages return home two years after their capture" }
-Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
-Hamas says it has handed over all hostage remains it can recover" }
-Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
-Trump says israel could resume fighting in gaza if hamas fails to disarm" }
-Hcewfkntrnucr@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:30 AM_
-Hamas carries out wave of gaza killings, citing crime and security concerns" }
-Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
-Hamas says it has handed over all hostage remains it can recover" }
+FernnnNarsi@{ shape: win-pane, label: "_Published Oct 17, 2025, 07:15 AM_
+France and britain refine plans at un for gaza force resolution" }
+IlseetvtRbreeuat@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:25 PM_
+Israel, hamas trade blame over truce violations, rafah border reopening eyed but no date set" }
 IlHhdbhnroe@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:54 PM_
 Israel says hamas handed over body that is not former hostage" }
 Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
 Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
 IlaGRcitppdusra@{ shape: win-pane, label: "_Published Oct 15, 2025, 02:30 PM_
 Israel will allow gaza’s rafah crossing with egypt to open and ramp up aid, says broadcaster" }
-
-Tttoalatnpkn:::txtsize --> Thtndrltasact:::txtsize
-Thtndrltasact:::txtsize --> TsogrrsiPtnesiais:::txtsize
-TsogrrsiPtnesiais:::txtsize --> TssHaossaaorslaoe:::txtsize
-TsogrrsiPtnesiais:::txtsize --> Hholissrrazo:::txtsize
-Thtndrltasact:::txtsize --> TjIlmnest:::txtsize
-TjIlmnest:::txtsize --> Hholissrrazo:::txtsize
-TjIlmnest:::txtsize --> Ilnrsaehwreit:::txtsize
-Tttoalatnpkn:::txtsize --> Hstaoltesnv:::txtsize
-Hstaoltesnv:::txtsize --> Tsscretniali:::txtsize
-Tsscretniali:::txtsize --> Hcewfkntrnucr:::txtsize
-Tsscretniali:::txtsize --> Hstaoltesnv:::txtsize
-Hstaoltesnv:::txtsize --> IlHhdbhnroe:::txtsize
-IlHhdbhnroe:::txtsize --> Tdrcaaededlncbs:::txtsize
-IlHhdbhnroe:::txtsize --> IlaGRcitppdusra:::txtsize
-
-Fressaeleflio@{ shape: win-pane, label: "_Published Oct 17, 2025, 12:49 AM_
-Former israeli hostage says captives could have been freed ‘long time ago’" }
-Hpeaoelenol@{ shape: win-pane, label: "_Published Jan 25, 2025, 07:20 PM_
-Hamas parades israeli hostages at slick ceremony before release" }
+Ilprnpfogriyteul@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:20 PM_
+Israel says preparations to open rafah crossing underway with egypt, date to be announced later" }
+Auotamneead@{ shape: win-pane, label: "_Published Oct 15, 2025, 06:10 PM_
+Aid trucks roll into gaza as hamas hands over more hostage bodies" }
+GeaetecacfNees@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:40 AM_
+Gaza needs massive boost in emergency aid after ceasefire, un relief chief says" }
+IePdrororwz@{ shape: win-pane, label: "_Published Sep 24, 2025, 01:27 PM_
+Indonesian president prabowo offers 20,000 troops for post-war gaza" }
+TzpseteoIleelhhsa@{ shape: win-pane, label: "_Published Sep 23, 2025, 05:06 AM_
+Two gaza hospitals forced to stop operations as israeli offensive escalates, health ministry says" }
 NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
 Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-Hrsuaoeesfd@{ shape: win-pane, label: "_Published Jan 25, 2025, 05:32 PM_
-Hamas releases four israeli hostages in second swop of gaza deal" }
-Ilshedoooia@{ shape: win-pane, label: "_Published Jan 16, 2025, 12:59 AM_
-Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
-Hfhgreeeiiraei@{ shape: win-pane, label: "_Published Jan 20, 2025, 08:52 AM_
-Hamas frees hostages, israel releases palestinian prisoners on day 1 of ceasefire" }
-Ganwaabtneiyd@{ shape: win-pane, label: "_Published Oct 16, 2025, 05:15 PM_
-Gaza man reunited with family after being told in israeli jail they were dead" }
-TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
-Tears, joy in israel as hamas hands over first hostages" }
-Hholissrrazo@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:47 PM_
-Hamas hands over all living hostages to israel; trump says gaza war over" }
-Ilnrsaehwreit@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:04 AM_
-Israelis honour trump as hostages return home two years after their capture" }
-Nrlnffsisron@{ shape: win-pane, label: "_Published Oct 13, 2025, 08:59 PM_
-‘new birth’: palestinians freed from israeli jails return to loved ones" }
-PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
-Peace finally descends on the middle east: now the battle to make it last begins" }
+WlrlilntoUySs@{ shape: win-pane, label: "_Published Sep 23, 2025, 03:40 AM_
+World leaders rally behind palestinian statehood at un, defying us and israel" }
+Uiboeiaotmro@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:52 AM_
+Us allies’ embrace of palestinian statehood tests trump’s israel policy" }
+TzpseteoIleelhhsa@{ shape: win-pane, label: "_Published Sep 23, 2025, 05:06 AM_
+Two gaza hospitals forced to stop operations as israeli offensive escalates, health ministry says" }
+NyQakosenaet@{ shape: win-pane, label: "_Published Sep 16, 2025, 04:50 PM_
+Netanyahu’s qatar attack will only isolate him and israel even further" }
 
-Fressaeleflio:::txtsize --> Hpeaoelenol:::txtsize
-Hpeaoelenol:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Hpeaoelenol:::txtsize --> Hrsuaoeesfd:::txtsize
-Hrsuaoeesfd:::txtsize --> Ilshedoooia:::txtsize
-Hrsuaoeesfd:::txtsize --> Hfhgreeeiiraei:::txtsize
-Fressaeleflio:::txtsize --> Ganwaabtneiyd:::txtsize
-Ganwaabtneiyd:::txtsize --> TjIlmnest:::txtsize
-TjIlmnest:::txtsize --> Hholissrrazo:::txtsize
-TjIlmnest:::txtsize --> Ilnrsaehwreit:::txtsize
-Ganwaabtneiyd:::txtsize --> Nrlnffsisron:::txtsize
-Nrlnffsisron:::txtsize --> PflcoMeNelale:::txtsize
+FernnnNarsi:::txtsize --> IlseetvtRbreeuat:::txtsize
+IlseetvtRbreeuat:::txtsize --> IlHhdbhnroe:::txtsize
+IlHhdbhnroe:::txtsize --> Tdrcaaededlncbs:::txtsize
+IlHhdbhnroe:::txtsize --> IlaGRcitppdusra:::txtsize
+IlseetvtRbreeuat:::txtsize --> Ilprnpfogriyteul:::txtsize
+Ilprnpfogriyteul:::txtsize --> Auotamneead:::txtsize
+Ilprnpfogriyteul:::txtsize --> GeaetecacfNees:::txtsize
+FernnnNarsi:::txtsize --> IePdrororwz:::txtsize
+IePdrororwz:::txtsize --> TzpseteoIleelhhsa:::txtsize
+TzpseteoIleelhhsa:::txtsize --> NyeeawHakl:::txtsize
+TzpseteoIleelhhsa:::txtsize --> WlrlilntoUySs:::txtsize
+IePdrororwz:::txtsize --> Uiboeiaotmro:::txtsize
+Uiboeiaotmro:::txtsize --> TzpseteoIleelhhsa:::txtsize
+Uiboeiaotmro:::txtsize --> NyQakosenaet:::txtsize
+
+Hrsaaarysaariu@{ shape: win-pane, label: "_Published Oct 17, 2025, 07:04 AM_
+Hackers use some canada and us airport pa systems to praise hamas, criticise trump" }
+Eerslcakunrie@{ shape: win-pane, label: "_Published Sep 20, 2025, 03:40 PM_
+European airports snarled by cyber attack, disruption to stretch into sept 21" }
+DAnewietueptsgsi@{ shape: win-pane, label: "_Published Oct 26, 2024, 07:12 AM_
+Delta air lines sues crowdstrike over software update that prompted mass flight disruptions" }
+Csirwiorauauatusll@{ shape: win-pane, label: "_Published Jul 19, 2024, 10:50 PM_
+Cyber-security firm crowdstrike’s software update causes major outage affecting businesses globally" }
+CSetleauecdau@{ shape: win-pane, label: "_Published Sep 24, 2024, 08:35 PM_
+Crowdstrike exec to apologise for faulty update that caused global it outage" }
+KpioeaMsityrc@{ shape: win-pane, label: "_Published Mar 25, 2025, 05:25 PM_
+Klia operations not affected after malaysian airport hit by cyber attack" }
+Uawncnupmam@{ shape: win-pane, label: "_Published Mar 24, 2025, 04:58 PM_
+Uk’s heathrow defends decision to shut airport amid blame game" }
+Cggciuictenrwtba@{ shape: win-pane, label: "_Published Jun 21, 2024, 10:30 PM_
+Csa urges vigilance against ‘suspicious activity’ after changi airport website hit by outage" }
+Arohtegfawtsrry@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:16 AM_
+Airport chaos highlights rise in high-profile ransomware attacks, cyber experts say" }
+Eerslcakunrie@{ shape: win-pane, label: "_Published Sep 20, 2025, 03:40 PM_
+European airports snarled by cyber attack, disruption to stretch into sept 21" }
+DAnewietueptsgsi@{ shape: win-pane, label: "_Published Oct 26, 2024, 07:12 AM_
+Delta air lines sues crowdstrike over software update that prompted mass flight disruptions" }
+KpioeaMsityrc@{ shape: win-pane, label: "_Published Mar 25, 2025, 05:25 PM_
+Klia operations not affected after malaysian airport hit by cyber attack" }
+Titceronttaw@{ shape: win-pane, label: "_Published Sep 18, 2025, 10:20 PM_
+Two british teens charged over london transport hack that lasted weeks" }
+FrRakggilac@{ shape: win-pane, label: "_Published Aug 21, 2025, 05:37 AM_
+Fbi warns of russian hacks targeting us critical infrastructure" }
+Lnloeturhi@{ shape: win-pane, label: "_Published Sep 09, 2025, 03:24 PM_
+Londoners flock to e-bikes, boats as tube strike chaos hits" }
+
+Hrsaaarysaariu:::txtsize --> Eerslcakunrie:::txtsize
+Eerslcakunrie:::txtsize --> DAnewietueptsgsi:::txtsize
+DAnewietueptsgsi:::txtsize --> Csirwiorauauatusll:::txtsize
+DAnewietueptsgsi:::txtsize --> CSetleauecdau:::txtsize
+Eerslcakunrie:::txtsize --> KpioeaMsityrc:::txtsize
+KpioeaMsityrc:::txtsize --> Uawncnupmam:::txtsize
+KpioeaMsityrc:::txtsize --> Cggciuictenrwtba:::txtsize
+Hrsaaarysaariu:::txtsize --> Arohtegfawtsrry:::txtsize
+Arohtegfawtsrry:::txtsize --> Eerslcakunrie:::txtsize
+Eerslcakunrie:::txtsize --> DAnewietueptsgsi:::txtsize
+Eerslcakunrie:::txtsize --> KpioeaMsityrc:::txtsize
+Arohtegfawtsrry:::txtsize --> Titceronttaw:::txtsize
+Titceronttaw:::txtsize --> FrRakggilac:::txtsize
+Titceronttaw:::txtsize --> Lnloeturhi:::txtsize
 
 ```
-<i>Last updated: 2025-10-17 04:00:39.940884 (GMT+8)</i>
+<i>Last updated: 2025-10-17 08:01:06.636540 (GMT+8)</i>
 <!-- END -->
