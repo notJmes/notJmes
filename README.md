@@ -16,120 +16,99 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Sfttpotiir@{ shape: win-pane, label: "_Published Oct 17, 2025, 11:05 AM_
-Salesforce tries to help ice boost its immigration force" }
-Tcfpofspewegi@{ shape: win-pane, label: "_Published Jun 16, 2025, 09:40 AM_
-Trump calls for expansion of efforts to deport people who are illegally in us" }
-Taiteagttvns@{ shape: win-pane, label: "_Published Jun 15, 2025, 10:05 PM_
-Trump administration weighs adding 36 countries to travel ban, memo says" }
-Tseonsifeoe@{ shape: win-pane, label: "_Published Jun 08, 2025, 06:07 PM_
-Trump’s travel ban on 12 countries goes into effect early on june 9" }
-WaaoectTsprb@{ shape: win-pane, label: "_Published Jun 06, 2025, 03:40 PM_
-Why myanmar and laos have been caught up in trump’s sweeping travel bans" }
-Uiifldrprome@{ shape: win-pane, label: "_Published Jun 14, 2025, 12:44 PM_
-Us immigration officials told to largely pause raids on farms, hotels" }
-Thtdyastaiiroat@{ shape: win-pane, label: "_Published Jun 12, 2025, 08:47 PM_
-Trump hails troop deployment against protests as california gears up for legal battle" }
-TwteLgreah@{ shape: win-pane, label: "_Published Jun 11, 2025, 06:08 PM_
-Trump wants to ‘liberate’ los angeles, residents say ‘no thanks’" }
-Sftenaohts@{ shape: win-pane, label: "_Published Mar 12, 2025, 04:50 PM_
-Salesforce to invest $1.3b in singapore over the next 5 years" }
-SctroedsrarKn@{ shape: win-pane, label: "_Published Mar 12, 2025, 02:59 PM_
-S’pore combating trade-hostile world by easing trade barriers: gan kim yong" }
-Tmsfafaioad@{ shape: win-pane, label: "_Published Mar 12, 2025, 03:05 PM_
-Trump metals tariffs draw swift retaliation from canada and eu" }
-Apgornbneneyod@{ shape: win-pane, label: "_Published Oct 23, 2024, 08:00 PM_
-Asean power grid could create new jobs, bring investments to energy sector: study" }
-Ineroerredio@{ shape: win-pane, label: "_Published Mar 12, 2025, 08:41 AM_
-Indian fintech firm razorpay eyes group profit, expands to singapore" }
-NanSpusttsi@{ shape: win-pane, label: "_Published Mar 12, 2025, 07:52 AM_
-Nomura expands in singapore, dubai as wealth unit turns profit" }
-Fnitecdbioou@{ shape: win-pane, label: "_Published Mar 10, 2025, 05:00 AM_
-Four in five investors remain confident about singapore stocks: survey" }
+Firienobacnegee@{ shape: win-pane, label: "_Published Oct 17, 2025, 01:05 PM_
+Firefighter’s dog in us sets owner’s house ablaze after chewing on rechargeable battery" }
+DUrtsitnt@{ shape: win-pane, label: "_Published Jul 08, 2024, 01:50 PM_
+Dog in us nearly sets house on fire by turning on stove" }
+Winecroainobhd@{ shape: win-pane, label: "_Published Apr 28, 2024, 05:40 PM_
+Woman in china makes her cat ‘work’ on douyin after it turns on cooker, burns house down" }
+Spprtpahrgaoalhc@{ shape: win-pane, label: "_Published Nov 11, 2023, 12:00 PM_
+Singapore’s pampered pets: puppy yoga, flights for cats, guinea pig houses and goldfish staycays" }
+PsEssbwitb@{ shape: win-pane, label: "_Published Apr 20, 2023, 11:21 AM_
+Puppy saves english man’s life by chewing his toe ‘to the bone’" }
+Plifgnanmyouor@{ shape: win-pane, label: "_Published Jan 14, 2023, 01:24 PM_
+Puppy love? video of dog ‘ignoring’ malaysian fireman trying to rescue it goes viral" }
+Mondbecgatts@{ shape: win-pane, label: "_Published Nov 16, 2022, 11:40 AM_
+Mexico mourns frida, the beloved rescue dog who saved at least 12 lives" }
+Winecroainobhd@{ shape: win-pane, label: "_Published Apr 28, 2024, 05:40 PM_
+Woman in china makes her cat ‘work’ on douyin after it turns on cooker, burns house down" }
+Spprtpahrgaoalhc@{ shape: win-pane, label: "_Published Nov 11, 2023, 12:00 PM_
+Singapore’s pampered pets: puppy yoga, flights for cats, guinea pig houses and goldfish staycays" }
 
-Sfttpotiir:::txtsize --> Tcfpofspewegi:::txtsize
-Tcfpofspewegi:::txtsize --> Taiteagttvns:::txtsize
-Taiteagttvns:::txtsize --> Tseonsifeoe:::txtsize
-Taiteagttvns:::txtsize --> WaaoectTsprb:::txtsize
-Tcfpofspewegi:::txtsize --> Uiifldrprome:::txtsize
-Uiifldrprome:::txtsize --> Thtdyastaiiroat:::txtsize
-Uiifldrprome:::txtsize --> TwteLgreah:::txtsize
-Sfttpotiir:::txtsize --> Sftenaohts:::txtsize
-Sftenaohts:::txtsize --> SctroedsrarKn:::txtsize
-SctroedsrarKn:::txtsize --> Tmsfafaioad:::txtsize
-SctroedsrarKn:::txtsize --> Apgornbneneyod:::txtsize
-Sftenaohts:::txtsize --> Ineroerredio:::txtsize
-Ineroerredio:::txtsize --> NanSpusttsi:::txtsize
-Ineroerredio:::txtsize --> Fnitecdbioou:::txtsize
+Firienobacnegee:::txtsize --> DUrtsitnt:::txtsize
+DUrtsitnt:::txtsize --> Winecroainobhd:::txtsize
+Winecroainobhd:::txtsize --> Spprtpahrgaoalhc:::txtsize
+DUrtsitnt:::txtsize --> PsEssbwitb:::txtsize
+PsEssbwitb:::txtsize --> Plifgnanmyouor:::txtsize
+PsEssbwitb:::txtsize --> Mondbecgatts:::txtsize
+Firienobacnegee:::txtsize --> Winecroainobhd:::txtsize
+Winecroainobhd:::txtsize --> Spprtpahrgaoalhc:::txtsize
 
-Nryrnteafotua@{ shape: win-pane, label: "_Published Oct 17, 2025, 09:55 AM_
-New york city mayoral candidate faces attacks after comments about hamas" }
-MnniarowCalasy@{ shape: win-pane, label: "_Published Sep 30, 2025, 07:54 AM_
-Mamdani seen holding lead over cuomo in new york city mayoral race, analysts say" }
-NrebMngTfne@{ shape: win-pane, label: "_Published Sep 15, 2025, 11:30 PM_
-New york governor backs mamdani, triggers trump funding threat" }
-Hifcenekiat@{ shape: win-pane, label: "_Published Aug 27, 2025, 11:50 AM_
-How china influences elections in new york, america’s largest city" }
-Nrocssen@{ shape: win-pane, label: "_Published Sep 29, 2025, 12:38 PM_
-New york mayor eric adams drops re-election bid" }
-DeTuetwCnaiil@{ shape: win-pane, label: "_Published Sep 24, 2025, 10:57 PM_
-‘drop dead’: us treasury’s bessent to new york city, on any mamdani crisis bailout" }
-Taocerygase@{ shape: win-pane, label: "_Published Sep 22, 2025, 02:26 AM_
-Trump aide homan accepted $64,000 in bribery sting operation, sources say" }
-Nlaacheaiehrs@{ shape: win-pane, label: "_Published Jul 09, 2025, 10:35 PM_
-Nyc billionaires are richer than ever as mamdani pushes for higher taxes" }
-ZnaflcnafwCa@{ shape: win-pane, label: "_Published Jul 02, 2025, 02:15 AM_
-Zohran mamdani officially secures nomination for new york city mayor" }
-UritadtoctCimam@{ shape: win-pane, label: "_Published Jun 25, 2025, 04:10 PM_
-Upstart socialist zohran mamdani stuns political veteran cuomo in nyc mayoral primary" }
-HceifeYocoMnc@{ shape: win-pane, label: "_Published Jun 30, 2025, 10:10 AM_
-How social media videos fuelled new york politician zohran mamdani’s success" }
+CffIlrtninnoo@{ shape: win-pane, label: "_Published Oct 17, 2025, 01:00 PM_
+Ceasefire offers israel opportunity to end its international isolation" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
+Singapore strongly condemns terror attacks on israel, calls for end to violence" }
+Hholissrrazo@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:47 PM_
+Hamas hands over all living hostages to israel; trump says gaza war over" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+FetGaoumo@{ shape: win-pane, label: "_Published Aug 22, 2025, 05:27 PM_
+Famine has struck gaza, says global hunger monitor" }
+Ilcaagmn@{ shape: win-pane, label: "_Published Nov 09, 2024, 10:03 PM_
+Israel rejects ‘biased’ warning of famine in gaza" }
+Ulfezsrda@{ shape: win-pane, label: "_Published Aug 22, 2025, 03:02 PM_
+Un declares famine in gaza; first ever in middle east" }
 
-Nryrnteafotua:::txtsize --> MnniarowCalasy:::txtsize
-MnniarowCalasy:::txtsize --> NrebMngTfne:::txtsize
-NrebMngTfne:::txtsize --> Hifcenekiat:::txtsize
-MnniarowCalasy:::txtsize --> Nrocssen:::txtsize
-Nrocssen:::txtsize --> DeTuetwCnaiil:::txtsize
-Nrocssen:::txtsize --> Taocerygase:::txtsize
-Nryrnteafotua:::txtsize --> Nlaacheaiehrs:::txtsize
-Nlaacheaiehrs:::txtsize --> ZnaflcnafwCa:::txtsize
-ZnaflcnafwCa:::txtsize --> UritadtoctCimam:::txtsize
-ZnaflcnafwCa:::txtsize --> HceifeYocoMnc:::txtsize
+CffIlrtninnoo:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+WzptIleint:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
+Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
+CffIlrtninnoo:::txtsize --> Hholissrrazo:::txtsize
+Hholissrrazo:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Hholissrrazo:::txtsize --> FetGaoumo:::txtsize
+FetGaoumo:::txtsize --> Ilcaagmn:::txtsize
+FetGaoumo:::txtsize --> Ulfezsrda:::txtsize
 
-MSeiiiegpftoeia@{ shape: win-pane, label: "_Published Oct 17, 2025, 08:50 AM_
-More us universities join mit in rejecting trump’s preferential college funding plan" }
-TosoeftugrtM@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:00 AM_
-Trump offers all colleges preferential funding plan rejected by mit" }
-GngcoetnooT@{ shape: win-pane, label: "_Published Sep 29, 2025, 09:25 AM_
-Give in or fight back? us colleges are torn on how to respond to trump" }
-Hrspnafogloett@{ shape: win-pane, label: "_Published May 23, 2025, 09:34 PM_
-Harvard sues trump administration for blocking enrolment of foreign students" }
-Ukssrooodswrdsi@{ shape: win-pane, label: "_Published Sep 13, 2025, 10:30 AM_
-Uc berkeley shares information on dozens of students, staff with trump administration" }
-BUrrtiuasaat@{ shape: win-pane, label: "_Published Oct 16, 2025, 07:00 AM_
-Brown university rejects a white house deal for special treatment" }
-TosoeftugrtM@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:00 AM_
-Trump offers all colleges preferential funding plan rejected by mit" }
-GngcoetnooT@{ shape: win-pane, label: "_Published Sep 29, 2025, 09:25 AM_
-Give in or fight back? us colleges are torn on how to respond to trump" }
-BbetnssugtsT@{ shape: win-pane, label: "_Published Aug 05, 2025, 08:59 AM_
-Badly bruised elite us universities are rushing to cut deals with trump" }
-TgnsoyHrly@{ shape: win-pane, label: "_Published Jul 15, 2025, 09:55 AM_
-Trump government’s actions may cost harvard $1.28 billion a year" }
-TsmgoeUoclrnin@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:31 AM_
-Trump’s deal-making with other elite us schools scrambles harvard negotiations" }
+NyiopptmhUn@{ shape: win-pane, label: "_Published Oct 17, 2025, 12:45 PM_
+Nearly 900 million poor people exposed to climate shocks, un warns" }
+PcnetcnmmtafpitP@{ shape: win-pane, label: "_Published Jan 20, 2025, 11:12 PM_
+Protecting next generations, cutting climate impact top reasons for supporting net zero: poll" }
+Spaeehadctn@{ shape: win-pane, label: "_Published Dec 28, 2024, 12:00 PM_
+Singapore had 122 more dangerous heat days in 2024 due to climate change" }
+Tnotsdtoon@{ shape: win-pane, label: "_Published Oct 07, 2024, 05:00 AM_
+The dangers of heat stress: a sudden strike or a slow burn" }
+SlHlcadabomodPcr@{ shape: win-pane, label: "_Published Nov 14, 2024, 05:00 PM_
+St explains: how will the centralised global carbon programme announced at cop29 affect s’pore?" }
+SprtghgineRt@{ shape: win-pane, label: "_Published Nov 12, 2024, 03:35 PM_
+Singapore projects its greenhouse gas emissions to peak in 2028: report" }
+SplsmnctiA@{ shape: win-pane, label: "_Published Nov 12, 2024, 09:51 PM_
+Singapore pledges up to $669m to finance climate action in asia" }
 
-MSeiiiegpftoeia:::txtsize --> TosoeftugrtM:::txtsize
-TosoeftugrtM:::txtsize --> GngcoetnooT:::txtsize
-GngcoetnooT:::txtsize --> Hrspnafogloett:::txtsize
-GngcoetnooT:::txtsize --> Ukssrooodswrdsi:::txtsize
-MSeiiiegpftoeia:::txtsize --> BUrrtiuasaat:::txtsize
-BUrrtiuasaat:::txtsize --> TosoeftugrtM:::txtsize
-TosoeftugrtM:::txtsize --> GngcoetnooT:::txtsize
-BUrrtiuasaat:::txtsize --> BbetnssugtsT:::txtsize
-BbetnssugtsT:::txtsize --> TgnsoyHrly:::txtsize
-BbetnssugtsT:::txtsize --> TsmgoeUoclrnin:::txtsize
+NyiopptmhUn:::txtsize --> PcnetcnmmtafpitP:::txtsize
+PcnetcnmmtafpitP:::txtsize --> Spaeehadctn:::txtsize
+Spaeehadctn:::txtsize --> Tnotsdtoon:::txtsize
+PcnetcnmmtafpitP:::txtsize --> SlHlcadabomodPcr:::txtsize
+SlHlcadabomodPcr:::txtsize --> SprtghgineRt:::txtsize
+SlHlcadabomodPcr:::txtsize --> SplsmnctiA:::txtsize
 
 ```
-<i>Last updated: 2025-10-17 12:00:33.421776 (GMT+8)</i>
+<i>Last updated: 2025-10-17 16:01:10.634874 (GMT+8)</i>
 <!-- END -->
