@@ -16,111 +16,132 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-VaiiatweActc@{ shape: win-pane, label: "_Published Oct 17, 2025, 07:31 PM_
-Vatican visit by king charles to show closening anglican-catholic ties" }
-Wanrsfeytffecnd@{ shape: win-pane, label: "_Published Oct 03, 2025, 05:12 PM_
-Woman appointed archbishop of canterbury a historic first for the church of england" }
-TmerusdchCrann@{ shape: win-pane, label: "_Published Oct 01, 2025, 10:49 PM_
-Two women seen as front runners ahead of archbishop of canterbury announcement" }
-Aiotrtlsobcl@{ shape: win-pane, label: "_Published Nov 12, 2024, 10:09 PM_
-Archbishop of canterbury justin welby resigns over abuse scandal" }
-BpvoufaanantCeo@{ shape: win-pane, label: "_Published Jan 29, 2025, 04:08 AM_
-Bishop of liverpool accused of sexual assault and harassment, britain’s channel 4 reports" }
-VaupfdeIri@{ shape: win-pane, label: "_Published Oct 03, 2025, 11:05 AM_
-Virtual jesus? people of faith divided as ai enters religion" }
-BnoutuBtonweln@{ shape: win-pane, label: "_Published Feb 14, 2025, 11:49 AM_
-Bhutanese monks, nuns to test buddhabot ai tool to expand knowledge in religion" }
-SchiJipctsha@{ shape: win-pane, label: "_Published Nov 20, 2024, 11:00 PM_
-Swiss church unveils ‘ai jesus’ in art project that melds faith and data" }
+Upayyiobireii@{ shape: win-pane, label: "_Published Oct 17, 2025, 11:37 PM_
+Un shipping agency delays decision on carbon price for one year amid splits" }
+Papstogeprvoloagh@{ shape: win-pane, label: "_Published Oct 14, 2025, 10:20 PM_
+Parliament passes bill to allow singapore to impose green aviation fuel levy on departing flights" }
+AaciniAoaelropb@{ shape: win-pane, label: "_Published Nov 10, 2023, 08:50 PM_
+Asia-pacific airlines, including sia, aim for cleaner jet fuel to form 5% of consumption by 2030" }
+Soitsietudmilas@{ shape: win-pane, label: "_Published Feb 11, 2022, 05:53 PM_
+Sia, scoot flights to use sustainable aviation fuel made from cooking oil, animal fats" }
+PncfaeirreeCioii@{ shape: win-pane, label: "_Published Nov 10, 2023, 08:35 PM_
+Passengers can offset carbon emissions from air travel under new changi airport initiative" }
+Tltmogegetpsrru@{ shape: win-pane, label: "_Published Feb 19, 2024, 09:00 AM_
+Travellers to pay more for flights leaving s’pore from 2026 to support use of greener jet fuel" }
+AaciniAoaelropb@{ shape: win-pane, label: "_Published Nov 10, 2023, 08:50 PM_
+Asia-pacific airlines, including sia, aim for cleaner jet fuel to form 5% of consumption by 2030" }
+Brnngehrtbbld@{ shape: win-pane, label: "_Published Feb 15, 2022, 02:24 PM_
+Blueprint on making singapore's air hub more sustainable to be published in 2023" }
+Uespasohinrrrse@{ shape: win-pane, label: "_Published Sep 04, 2025, 07:33 AM_
+Us threatens to impose tariffs if global ship emissions charges are approved, sources say" }
+Wsefrtfw@{ shape: win-pane, label: "_Published Aug 08, 2025, 07:28 AM_
+Who loses the most from trump’s tariffs? who wins?" }
+Tmiccraodrnarn@{ shape: win-pane, label: "_Published Aug 01, 2025, 07:56 AM_
+Trump modifies reciprocal tariffs ahead of deadline; rate on singapore remains at 10%" }
+TsccasipriohAas@{ shape: win-pane, label: "_Published Aug 07, 2025, 11:15 AM_
+Trump’s 100% semiconductor tariffs may hit chipmakers in singapore, other s-e asia nations" }
+Wtreimainttamaii@{ shape: win-pane, label: "_Published Sep 03, 2025, 07:46 AM_
+‘worse than great recession’: us manufacturing contracts for 6th straight month as tariffs bite" }
+Wrtftl@{ shape: win-pane, label: "_Published Aug 18, 2025, 05:00 AM_
+Will trump’s tariffs end the bull run?" }
 
-VaiiatweActc:::txtsize --> Wanrsfeytffecnd:::txtsize
-Wanrsfeytffecnd:::txtsize --> TmerusdchCrann:::txtsize
-TmerusdchCrann:::txtsize --> Aiotrtlsobcl:::txtsize
-TmerusdchCrann:::txtsize --> BpvoufaanantCeo:::txtsize
-Wanrsfeytffecnd:::txtsize --> VaupfdeIri:::txtsize
-VaupfdeIri:::txtsize --> BnoutuBtonweln:::txtsize
-VaupfdeIri:::txtsize --> SchiJipctsha:::txtsize
+Upayyiobireii:::txtsize --> Papstogeprvoloagh:::txtsize
+Papstogeprvoloagh:::txtsize --> AaciniAoaelropb:::txtsize
+AaciniAoaelropb:::txtsize --> Soitsietudmilas:::txtsize
+AaciniAoaelropb:::txtsize --> PncfaeirreeCioii:::txtsize
+Papstogeprvoloagh:::txtsize --> Tltmogegetpsrru:::txtsize
+Tltmogegetpsrru:::txtsize --> AaciniAoaelropb:::txtsize
+Tltmogegetpsrru:::txtsize --> Brnngehrtbbld:::txtsize
+Upayyiobireii:::txtsize --> Uespasohinrrrse:::txtsize
+Uespasohinrrrse:::txtsize --> Wsefrtfw:::txtsize
+Wsefrtfw:::txtsize --> Tmiccraodrnarn:::txtsize
+Wsefrtfw:::txtsize --> TsccasipriohAas:::txtsize
+Uespasohinrrrse:::txtsize --> Wtreimainttamaii:::txtsize
+Wtreimainttamaii:::txtsize --> Wrtftl:::txtsize
 
+Unlrastwnsudeo@{ shape: win-pane, label: "_Published Oct 17, 2025, 10:35 PM_
+Ukraine could use reparations loan to buy weapons outside europe, document shows" }
+ZssesTisweim@{ shape: win-pane, label: "_Published Oct 17, 2025, 10:31 PM_
+Zelensky to seek weapons from trump in the shadow of a new putin summit" }
+Kisnpihniwbelds@{ shape: win-pane, label: "_Published Oct 17, 2025, 06:50 PM_
+Kremlin says putin-trump summit may happen within two weeks, but there’s a lot to do first" }
+Tttndtrttcke@{ shape: win-pane, label: "_Published Oct 16, 2025, 11:15 PM_
+Trump to meet putin in budapest after ‘great’ call to discuss ukraine" }
+TmpTasskesour@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:24 AM_
+Trump may approve tomahawk missiles for ukraine if russia continues war" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
+Explosions heard in ukraine capital kyiv, other cities" }
+OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
+Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
+Zspdarnloiats@{ shape: win-pane, label: "_Published Oct 17, 2025, 04:35 AM_
+Zelensky hopes middle east agreement can lead to ukraine peace with russia" }
+Tttndtrttcke@{ shape: win-pane, label: "_Published Oct 16, 2025, 11:15 PM_
+Trump to meet putin in budapest after ‘great’ call to discuss ukraine" }
+Twarntceydtpni@{ shape: win-pane, label: "_Published Aug 16, 2025, 11:00 AM_
+Takeaways: warm words contrast with cold reality of no deal at trump-putin summit" }
+Wramldirieke@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:35 PM_
+What are tomahawk missiles and why might trump give them to ukraine?" }
+Wramldirieke@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:35 PM_
+What are tomahawk missiles and why might trump give them to ukraine?" }
+TmpTasskesour@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:24 AM_
+Trump may approve tomahawk missiles for ukraine if russia continues war" }
+
+Unlrastwnsudeo:::txtsize --> ZssesTisweim:::txtsize
+ZssesTisweim:::txtsize --> Kisnpihniwbelds:::txtsize
+Kisnpihniwbelds:::txtsize --> Tttndtrttcke:::txtsize
+Kisnpihniwbelds:::txtsize --> TmpTasskesour:::txtsize
+ZssesTisweim:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
+DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
+Unlrastwnsudeo:::txtsize --> Zspdarnloiats:::txtsize
+Zspdarnloiats:::txtsize --> Tttndtrttcke:::txtsize
+Tttndtrttcke:::txtsize --> Twarntceydtpni:::txtsize
+Tttndtrttcke:::txtsize --> Wramldirieke:::txtsize
+Zspdarnloiats:::txtsize --> Wramldirieke:::txtsize
+Wramldirieke:::txtsize --> TmpTasskesour:::txtsize
+
+ZssesTisweim@{ shape: win-pane, label: "_Published Oct 17, 2025, 10:31 PM_
+Zelensky to seek weapons from trump in the shadow of a new putin summit" }
 Kisnpihniwbelds@{ shape: win-pane, label: "_Published Oct 17, 2025, 06:50 PM_
 Kremlin says putin-trump summit may happen within two weeks, but there’s a lot to do first" }
 Tttndtrttcke@{ shape: win-pane, label: "_Published Oct 16, 2025, 11:15 PM_
 Trump to meet putin in budapest after ‘great’ call to discuss ukraine" }
 Twarntceydtpni@{ shape: win-pane, label: "_Published Aug 16, 2025, 11:00 AM_
 Takeaways: warm words contrast with cold reality of no deal at trump-putin summit" }
-TaeaZsmdisfegn@{ shape: win-pane, label: "_Published Aug 16, 2025, 07:20 AM_
-Trump advises ukraine’s zelensky to ‘make a deal’ with russia after meeting putin" }
-Hioittrihp@{ shape: win-pane, label: "_Published Aug 16, 2025, 08:34 AM_
-Highlights of putin statement after summit with trump" }
 Wramldirieke@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:35 PM_
 What are tomahawk missiles and why might trump give them to ukraine?" }
-TmpTasskesour@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:24 AM_
-Trump may approve tomahawk missiles for ukraine if russia continues war" }
 TmpTasskesour@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:24 AM_
 Trump may approve tomahawk missiles for ukraine if russia continues war" }
 UnltRaispdmkieks@{ shape: win-pane, label: "_Published Oct 12, 2025, 09:49 PM_
 Ukraine will not strike russian civilians if us provides tomahawk missiles, zelensky says" }
 Tsedtwiloaml@{ shape: win-pane, label: "_Published Oct 07, 2025, 05:52 AM_
 Trump says he would want to know ukraine’s plans for tomahawk missiles" }
-RadoamlurSstaanae@{ shape: win-pane, label: "_Published Oct 08, 2025, 06:17 PM_
-Russia will destroy tomahawk missiles, launchers if us gives them to ukraine, says senior lawmaker" }
-Tsedtwiloaml@{ shape: win-pane, label: "_Published Oct 07, 2025, 05:52 AM_
-Trump says he would want to know ukraine’s plans for tomahawk missiles" }
-Tsuoolrnssai@{ shape: win-pane, label: "_Published Oct 06, 2025, 02:01 AM_
-Trump says putin’s offer on nuclear arms control ‘sounds like a good idea’" }
-Uamlpsrueus@{ shape: win-pane, label: "_Published Oct 03, 2025, 03:15 AM_
-Us tomahawk missile shipments to ukraine unlikely, sources say" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
+Explosions heard in ukraine capital kyiv, other cities" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
+Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
 
+ZssesTisweim:::txtsize --> Kisnpihniwbelds:::txtsize
 Kisnpihniwbelds:::txtsize --> Tttndtrttcke:::txtsize
 Tttndtrttcke:::txtsize --> Twarntceydtpni:::txtsize
-Twarntceydtpni:::txtsize --> TaeaZsmdisfegn:::txtsize
-Twarntceydtpni:::txtsize --> Hioittrihp:::txtsize
 Tttndtrttcke:::txtsize --> Wramldirieke:::txtsize
-Wramldirieke:::txtsize --> TmpTasskesour:::txtsize
 Kisnpihniwbelds:::txtsize --> TmpTasskesour:::txtsize
 TmpTasskesour:::txtsize --> UnltRaispdmkieks:::txtsize
-UnltRaispdmkieks:::txtsize --> Tsedtwiloaml:::txtsize
-UnltRaispdmkieks:::txtsize --> RadoamlurSstaanae:::txtsize
 TmpTasskesour:::txtsize --> Tsedtwiloaml:::txtsize
-Tsedtwiloaml:::txtsize --> Tsuoolrnssai:::txtsize
-Tsedtwiloaml:::txtsize --> Uamlpsrueus:::txtsize
-
-Useotgdscfuee@{ shape: win-pane, label: "_Published Oct 17, 2025, 06:35 PM_
-Un says 560 tonnes of food entering gaza daily since ceasefire, but more needed" }
-Tdrzooetum@{ shape: win-pane, label: "_Published Oct 13, 2025, 05:59 AM_
-Trump declares gaza war ‘over’; hostages due to return home" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-Auotamneead@{ shape: win-pane, label: "_Published Oct 15, 2025, 06:10 PM_
-Aid trucks roll into gaza as hamas hands over more hostage bodies" }
-Hhooeeearnc@{ shape: win-pane, label: "_Published Oct 15, 2025, 06:24 AM_
-Hamas hands over hostage bodies after israel threatens aid cut" }
-Tsausrsdaol@{ shape: win-pane, label: "_Published Oct 15, 2025, 03:10 AM_
-Trump says hamas must disarm or be disarmed, perhaps violently" }
-Thtndrltasact@{ shape: win-pane, label: "_Published Oct 14, 2025, 01:41 AM_
-Trump hails ‘tremendous day for middle east’ as leaders sign gaza declaration" }
-Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
-Trump says israel could resume fighting in gaza if hamas fails to disarm" }
-Hcewfkntrnucr@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:30 AM_
-Hamas carries out wave of gaza killings, citing crime and security concerns" }
-Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
-Hamas says it has handed over all hostage remains it can recover" }
-
-Useotgdscfuee:::txtsize --> Tdrzooetum:::txtsize
-Tdrzooetum:::txtsize --> AtHfezerydatoGel:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-Useotgdscfuee:::txtsize --> Auotamneead:::txtsize
-Auotamneead:::txtsize --> Hhooeeearnc:::txtsize
-Hhooeeearnc:::txtsize --> Tsausrsdaol:::txtsize
-Hhooeeearnc:::txtsize --> Thtndrltasact:::txtsize
-Auotamneead:::txtsize --> Tsscretniali:::txtsize
-Tsscretniali:::txtsize --> Hcewfkntrnucr:::txtsize
-Tsscretniali:::txtsize --> Hstaoltesnv:::txtsize
+ZssesTisweim:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
+Eshiaalocs:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
+OaUuakaogrmc:::txtsize --> DsruasvUn:::txtsize
 
 ```
-<i>Last updated: 2025-10-17 20:00:39.592860 (GMT+8)</i>
+<i>Last updated: 2025-10-18 00:01:08.954791 (GMT+8)</i>
 <!-- END -->
