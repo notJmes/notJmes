@@ -16,99 +16,111 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Firienobacnegee@{ shape: win-pane, label: "_Published Oct 17, 2025, 01:05 PM_
-Firefighter’s dog in us sets owner’s house ablaze after chewing on rechargeable battery" }
-DUrtsitnt@{ shape: win-pane, label: "_Published Jul 08, 2024, 01:50 PM_
-Dog in us nearly sets house on fire by turning on stove" }
-Winecroainobhd@{ shape: win-pane, label: "_Published Apr 28, 2024, 05:40 PM_
-Woman in china makes her cat ‘work’ on douyin after it turns on cooker, burns house down" }
-Spprtpahrgaoalhc@{ shape: win-pane, label: "_Published Nov 11, 2023, 12:00 PM_
-Singapore’s pampered pets: puppy yoga, flights for cats, guinea pig houses and goldfish staycays" }
-PsEssbwitb@{ shape: win-pane, label: "_Published Apr 20, 2023, 11:21 AM_
-Puppy saves english man’s life by chewing his toe ‘to the bone’" }
-Plifgnanmyouor@{ shape: win-pane, label: "_Published Jan 14, 2023, 01:24 PM_
-Puppy love? video of dog ‘ignoring’ malaysian fireman trying to rescue it goes viral" }
-Mondbecgatts@{ shape: win-pane, label: "_Published Nov 16, 2022, 11:40 AM_
-Mexico mourns frida, the beloved rescue dog who saved at least 12 lives" }
-Winecroainobhd@{ shape: win-pane, label: "_Published Apr 28, 2024, 05:40 PM_
-Woman in china makes her cat ‘work’ on douyin after it turns on cooker, burns house down" }
-Spprtpahrgaoalhc@{ shape: win-pane, label: "_Published Nov 11, 2023, 12:00 PM_
-Singapore’s pampered pets: puppy yoga, flights for cats, guinea pig houses and goldfish staycays" }
+VaiiatweActc@{ shape: win-pane, label: "_Published Oct 17, 2025, 07:31 PM_
+Vatican visit by king charles to show closening anglican-catholic ties" }
+Wanrsfeytffecnd@{ shape: win-pane, label: "_Published Oct 03, 2025, 05:12 PM_
+Woman appointed archbishop of canterbury a historic first for the church of england" }
+TmerusdchCrann@{ shape: win-pane, label: "_Published Oct 01, 2025, 10:49 PM_
+Two women seen as front runners ahead of archbishop of canterbury announcement" }
+Aiotrtlsobcl@{ shape: win-pane, label: "_Published Nov 12, 2024, 10:09 PM_
+Archbishop of canterbury justin welby resigns over abuse scandal" }
+BpvoufaanantCeo@{ shape: win-pane, label: "_Published Jan 29, 2025, 04:08 AM_
+Bishop of liverpool accused of sexual assault and harassment, britain’s channel 4 reports" }
+VaupfdeIri@{ shape: win-pane, label: "_Published Oct 03, 2025, 11:05 AM_
+Virtual jesus? people of faith divided as ai enters religion" }
+BnoutuBtonweln@{ shape: win-pane, label: "_Published Feb 14, 2025, 11:49 AM_
+Bhutanese monks, nuns to test buddhabot ai tool to expand knowledge in religion" }
+SchiJipctsha@{ shape: win-pane, label: "_Published Nov 20, 2024, 11:00 PM_
+Swiss church unveils ‘ai jesus’ in art project that melds faith and data" }
 
-Firienobacnegee:::txtsize --> DUrtsitnt:::txtsize
-DUrtsitnt:::txtsize --> Winecroainobhd:::txtsize
-Winecroainobhd:::txtsize --> Spprtpahrgaoalhc:::txtsize
-DUrtsitnt:::txtsize --> PsEssbwitb:::txtsize
-PsEssbwitb:::txtsize --> Plifgnanmyouor:::txtsize
-PsEssbwitb:::txtsize --> Mondbecgatts:::txtsize
-Firienobacnegee:::txtsize --> Winecroainobhd:::txtsize
-Winecroainobhd:::txtsize --> Spprtpahrgaoalhc:::txtsize
+VaiiatweActc:::txtsize --> Wanrsfeytffecnd:::txtsize
+Wanrsfeytffecnd:::txtsize --> TmerusdchCrann:::txtsize
+TmerusdchCrann:::txtsize --> Aiotrtlsobcl:::txtsize
+TmerusdchCrann:::txtsize --> BpvoufaanantCeo:::txtsize
+Wanrsfeytffecnd:::txtsize --> VaupfdeIri:::txtsize
+VaupfdeIri:::txtsize --> BnoutuBtonweln:::txtsize
+VaupfdeIri:::txtsize --> SchiJipctsha:::txtsize
 
-CffIlrtninnoo@{ shape: win-pane, label: "_Published Oct 17, 2025, 01:00 PM_
-Ceasefire offers israel opportunity to end its international isolation" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
-Singapore strongly condemns terror attacks on israel, calls for end to violence" }
-Hholissrrazo@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:47 PM_
-Hamas hands over all living hostages to israel; trump says gaza war over" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-FetGaoumo@{ shape: win-pane, label: "_Published Aug 22, 2025, 05:27 PM_
-Famine has struck gaza, says global hunger monitor" }
-Ilcaagmn@{ shape: win-pane, label: "_Published Nov 09, 2024, 10:03 PM_
-Israel rejects ‘biased’ warning of famine in gaza" }
-Ulfezsrda@{ shape: win-pane, label: "_Published Aug 22, 2025, 03:02 PM_
-Un declares famine in gaza; first ever in middle east" }
+Kisnpihniwbelds@{ shape: win-pane, label: "_Published Oct 17, 2025, 06:50 PM_
+Kremlin says putin-trump summit may happen within two weeks, but there’s a lot to do first" }
+Tttndtrttcke@{ shape: win-pane, label: "_Published Oct 16, 2025, 11:15 PM_
+Trump to meet putin in budapest after ‘great’ call to discuss ukraine" }
+Twarntceydtpni@{ shape: win-pane, label: "_Published Aug 16, 2025, 11:00 AM_
+Takeaways: warm words contrast with cold reality of no deal at trump-putin summit" }
+TaeaZsmdisfegn@{ shape: win-pane, label: "_Published Aug 16, 2025, 07:20 AM_
+Trump advises ukraine’s zelensky to ‘make a deal’ with russia after meeting putin" }
+Hioittrihp@{ shape: win-pane, label: "_Published Aug 16, 2025, 08:34 AM_
+Highlights of putin statement after summit with trump" }
+Wramldirieke@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:35 PM_
+What are tomahawk missiles and why might trump give them to ukraine?" }
+TmpTasskesour@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:24 AM_
+Trump may approve tomahawk missiles for ukraine if russia continues war" }
+TmpTasskesour@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:24 AM_
+Trump may approve tomahawk missiles for ukraine if russia continues war" }
+UnltRaispdmkieks@{ shape: win-pane, label: "_Published Oct 12, 2025, 09:49 PM_
+Ukraine will not strike russian civilians if us provides tomahawk missiles, zelensky says" }
+Tsedtwiloaml@{ shape: win-pane, label: "_Published Oct 07, 2025, 05:52 AM_
+Trump says he would want to know ukraine’s plans for tomahawk missiles" }
+RadoamlurSstaanae@{ shape: win-pane, label: "_Published Oct 08, 2025, 06:17 PM_
+Russia will destroy tomahawk missiles, launchers if us gives them to ukraine, says senior lawmaker" }
+Tsedtwiloaml@{ shape: win-pane, label: "_Published Oct 07, 2025, 05:52 AM_
+Trump says he would want to know ukraine’s plans for tomahawk missiles" }
+Tsuoolrnssai@{ shape: win-pane, label: "_Published Oct 06, 2025, 02:01 AM_
+Trump says putin’s offer on nuclear arms control ‘sounds like a good idea’" }
+Uamlpsrueus@{ shape: win-pane, label: "_Published Oct 03, 2025, 03:15 AM_
+Us tomahawk missile shipments to ukraine unlikely, sources say" }
 
-CffIlrtninnoo:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-WzptIleint:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
-Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
-CffIlrtninnoo:::txtsize --> Hholissrrazo:::txtsize
-Hholissrrazo:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Hholissrrazo:::txtsize --> FetGaoumo:::txtsize
-FetGaoumo:::txtsize --> Ilcaagmn:::txtsize
-FetGaoumo:::txtsize --> Ulfezsrda:::txtsize
+Kisnpihniwbelds:::txtsize --> Tttndtrttcke:::txtsize
+Tttndtrttcke:::txtsize --> Twarntceydtpni:::txtsize
+Twarntceydtpni:::txtsize --> TaeaZsmdisfegn:::txtsize
+Twarntceydtpni:::txtsize --> Hioittrihp:::txtsize
+Tttndtrttcke:::txtsize --> Wramldirieke:::txtsize
+Wramldirieke:::txtsize --> TmpTasskesour:::txtsize
+Kisnpihniwbelds:::txtsize --> TmpTasskesour:::txtsize
+TmpTasskesour:::txtsize --> UnltRaispdmkieks:::txtsize
+UnltRaispdmkieks:::txtsize --> Tsedtwiloaml:::txtsize
+UnltRaispdmkieks:::txtsize --> RadoamlurSstaanae:::txtsize
+TmpTasskesour:::txtsize --> Tsedtwiloaml:::txtsize
+Tsedtwiloaml:::txtsize --> Tsuoolrnssai:::txtsize
+Tsedtwiloaml:::txtsize --> Uamlpsrueus:::txtsize
 
-NyiopptmhUn@{ shape: win-pane, label: "_Published Oct 17, 2025, 12:45 PM_
-Nearly 900 million poor people exposed to climate shocks, un warns" }
-PcnetcnmmtafpitP@{ shape: win-pane, label: "_Published Jan 20, 2025, 11:12 PM_
-Protecting next generations, cutting climate impact top reasons for supporting net zero: poll" }
-Spaeehadctn@{ shape: win-pane, label: "_Published Dec 28, 2024, 12:00 PM_
-Singapore had 122 more dangerous heat days in 2024 due to climate change" }
-Tnotsdtoon@{ shape: win-pane, label: "_Published Oct 07, 2024, 05:00 AM_
-The dangers of heat stress: a sudden strike or a slow burn" }
-SlHlcadabomodPcr@{ shape: win-pane, label: "_Published Nov 14, 2024, 05:00 PM_
-St explains: how will the centralised global carbon programme announced at cop29 affect s’pore?" }
-SprtghgineRt@{ shape: win-pane, label: "_Published Nov 12, 2024, 03:35 PM_
-Singapore projects its greenhouse gas emissions to peak in 2028: report" }
-SplsmnctiA@{ shape: win-pane, label: "_Published Nov 12, 2024, 09:51 PM_
-Singapore pledges up to $669m to finance climate action in asia" }
+Useotgdscfuee@{ shape: win-pane, label: "_Published Oct 17, 2025, 06:35 PM_
+Un says 560 tonnes of food entering gaza daily since ceasefire, but more needed" }
+Tdrzooetum@{ shape: win-pane, label: "_Published Oct 13, 2025, 05:59 AM_
+Trump declares gaza war ‘over’; hostages due to return home" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+Auotamneead@{ shape: win-pane, label: "_Published Oct 15, 2025, 06:10 PM_
+Aid trucks roll into gaza as hamas hands over more hostage bodies" }
+Hhooeeearnc@{ shape: win-pane, label: "_Published Oct 15, 2025, 06:24 AM_
+Hamas hands over hostage bodies after israel threatens aid cut" }
+Tsausrsdaol@{ shape: win-pane, label: "_Published Oct 15, 2025, 03:10 AM_
+Trump says hamas must disarm or be disarmed, perhaps violently" }
+Thtndrltasact@{ shape: win-pane, label: "_Published Oct 14, 2025, 01:41 AM_
+Trump hails ‘tremendous day for middle east’ as leaders sign gaza declaration" }
+Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
+Trump says israel could resume fighting in gaza if hamas fails to disarm" }
+Hcewfkntrnucr@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:30 AM_
+Hamas carries out wave of gaza killings, citing crime and security concerns" }
+Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
+Hamas says it has handed over all hostage remains it can recover" }
 
-NyiopptmhUn:::txtsize --> PcnetcnmmtafpitP:::txtsize
-PcnetcnmmtafpitP:::txtsize --> Spaeehadctn:::txtsize
-Spaeehadctn:::txtsize --> Tnotsdtoon:::txtsize
-PcnetcnmmtafpitP:::txtsize --> SlHlcadabomodPcr:::txtsize
-SlHlcadabomodPcr:::txtsize --> SprtghgineRt:::txtsize
-SlHlcadabomodPcr:::txtsize --> SplsmnctiA:::txtsize
+Useotgdscfuee:::txtsize --> Tdrzooetum:::txtsize
+Tdrzooetum:::txtsize --> AtHfezerydatoGel:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+Useotgdscfuee:::txtsize --> Auotamneead:::txtsize
+Auotamneead:::txtsize --> Hhooeeearnc:::txtsize
+Hhooeeearnc:::txtsize --> Tsausrsdaol:::txtsize
+Hhooeeearnc:::txtsize --> Thtndrltasact:::txtsize
+Auotamneead:::txtsize --> Tsscretniali:::txtsize
+Tsscretniali:::txtsize --> Hcewfkntrnucr:::txtsize
+Tsscretniali:::txtsize --> Hstaoltesnv:::txtsize
 
 ```
-<i>Last updated: 2025-10-17 16:01:10.634874 (GMT+8)</i>
+<i>Last updated: 2025-10-17 20:00:39.592860 (GMT+8)</i>
 <!-- END -->
