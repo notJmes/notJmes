@@ -16,65 +16,99 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-CnnCeiirmtces@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:34 PM_
-Criminal gangs in china exploit us gift cards to move stolen cash, report says" }
-Uitiasemiohtn@{ shape: win-pane, label: "_Published Oct 07, 2025, 08:25 PM_
-Uk police hit criminal gang suspected of smuggling stolen phones to china" }
-Pptiesslants@{ shape: win-pane, label: "_Published Aug 17, 2025, 01:35 PM_
-‘pickypockets!’ vigilante pairs with social media on london streets" }
-Tlsitrholis@{ shape: win-pane, label: "_Published Jan 30, 2025, 04:00 PM_
-Theft leaves british retailers with a record $3.7 billion in losses" }
-Urdmifdef@{ shape: win-pane, label: "_Published Mar 19, 2025, 08:38 AM_
-Uk court finds two men guilty of $4.8m gold toilet theft" }
-Tmtoottemcshe@{ shape: win-pane, label: "_Published Feb 26, 2025, 07:57 AM_
-Three men on trial over golden toilet stolen from churchill's birthplace" }
-Tshsotthd@{ shape: win-pane, label: "_Published Nov 07, 2023, 05:05 PM_
-The case of the missing golden toilet: 4 men charged in uk" }
-CrldrritrnbU@{ shape: win-pane, label: "_Published Apr 21, 2025, 02:08 PM_
-‘cancer’ of billion-dollar cyberscam industry spreading globally: un" }
-SesvebnuMa@{ shape: win-pane, label: "_Published Feb 15, 2025, 08:10 AM_
-Scam centre survivors tell of beatings, abuse in myanmar" }
-Oehtmatldad@{ shape: win-pane, label: "_Published Feb 12, 2025, 08:30 PM_
-Over 250 people held at myanmar scam centre released at thai border" }
-TacwMadenoce@{ shape: win-pane, label: "_Published Feb 04, 2025, 02:35 PM_
-Thailand to cut power to myanmar border areas linked to scam centres" }
-Tatelneppon@{ shape: win-pane, label: "_Published Feb 05, 2025, 05:26 PM_
-Thailand cuts power, fuel and internet supply to parts of myanmar" }
-TacwMadenoce@{ shape: win-pane, label: "_Published Feb 04, 2025, 02:35 PM_
-Thailand to cut power to myanmar border areas linked to scam centres" }
-FomrnnenotdTa@{ shape: win-pane, label: "_Published Jan 29, 2025, 05:10 PM_
-Fears of scam centre kidnappings keep chinese tourists on edge in thailand" }
+ArosiawrS@{ shape: win-pane, label: "_Published Oct 19, 2025, 03:25 AM_
+Anti-trump ‘no kings’ rallies draw crowds across us" }
+AdnnpsuiralrWn@{ shape: win-pane, label: "_Published Jun 15, 2025, 06:04 AM_
+After day of nationwide protests, trump’s military parade rolls through washington" }
+Uinpnloooinaea@{ shape: win-pane, label: "_Published Jun 14, 2025, 11:15 PM_
+Us police hunt suspect in deadly shooting of democratic minnesota state lawmakers" }
+Mshnpoinmgies@{ shape: win-pane, label: "_Published Jun 15, 2025, 08:04 AM_
+Minnesota shooting suspect told friend in text message he might be dead soon" }
+TtttafryNgt@{ shape: win-pane, label: "_Published Jun 14, 2025, 03:40 PM_
+Trump to host military parade for birthday amid ‘no kings’ protests" }
+Melihfineeipe@{ shape: win-pane, label: "_Published Jun 14, 2025, 10:23 AM_
+Marines deployed in la ahead of possible ‘unprecedented’ anti-trump protests" }
+Mosthautvpsane@{ shape: win-pane, label: "_Published Jun 14, 2025, 10:16 AM_
+Mexico’s president says her flag should not fly over us protests that turn violent" }
+WCikoeUst@{ shape: win-pane, label: "_Published Sep 11, 2025, 06:17 AM_
+Who is charlie kirk, the young hero of us conservatives?" }
+TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
+Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
+VsaKsirayce@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:59 AM_
+Videos of charlie kirk’s shooting spread rapidly on social media" }
+SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
+Storming of us capitol: timeline of key events in washington" }
+peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
+4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
 
-CnnCeiirmtces:::txtsize --> Uitiasemiohtn:::txtsize
-Uitiasemiohtn:::txtsize --> Pptiesslants:::txtsize
-Pptiesslants:::txtsize --> Tlsitrholis:::txtsize
-Uitiasemiohtn:::txtsize --> Urdmifdef:::txtsize
-Urdmifdef:::txtsize --> Tmtoottemcshe:::txtsize
-Urdmifdef:::txtsize --> Tshsotthd:::txtsize
-CnnCeiirmtces:::txtsize --> CrldrritrnbU:::txtsize
-CrldrritrnbU:::txtsize --> SesvebnuMa:::txtsize
-SesvebnuMa:::txtsize --> Oehtmatldad:::txtsize
-SesvebnuMa:::txtsize --> TacwMadenoce:::txtsize
-CrldrritrnbU:::txtsize --> Tatelneppon:::txtsize
-Tatelneppon:::txtsize --> TacwMadenoce:::txtsize
-Tatelneppon:::txtsize --> FomrnnenotdTa:::txtsize
+ArosiawrS:::txtsize --> AdnnpsuiralrWn:::txtsize
+AdnnpsuiralrWn:::txtsize --> Uinpnloooinaea:::txtsize
+Uinpnloooinaea:::txtsize --> Mshnpoinmgies:::txtsize
+AdnnpsuiralrWn:::txtsize --> TtttafryNgt:::txtsize
+TtttafryNgt:::txtsize --> Melihfineeipe:::txtsize
+TtttafryNgt:::txtsize --> Mosthautvpsane:::txtsize
+ArosiawrS:::txtsize --> WCikoeUst:::txtsize
+WCikoeUst:::txtsize --> TahesegnipdoUstt:::txtsize
+TahesegnipdoUstt:::txtsize --> VsaKsirayce:::txtsize
+WCikoeUst:::txtsize --> SiUiinenWn:::txtsize
+SiUiinenWn:::txtsize --> peapubmalrest:::txtsize
 
+Uisfiysrw@{ shape: win-pane, label: "_Published Oct 19, 2025, 02:53 AM_
+Us military’s live fire display shuts major freeway" }
+NglxerlssneaT@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:06 PM_
+‘no kings’ rallies expected to draw millions across us in protest against trump" }
+TaSeuatdytcr@{ shape: win-pane, label: "_Published Oct 18, 2025, 05:41 AM_
+Trump asks us supreme court to allow troop deployment to chicago area" }
+Lgdraeevirns@{ shape: win-pane, label: "_Published Oct 16, 2025, 05:17 AM_
+Los angeles declares state of emergency over us immigration raids" }
+AdnnpsuiralrWn@{ shape: win-pane, label: "_Published Jun 15, 2025, 06:04 AM_
+After day of nationwide protests, trump’s military parade rolls through washington" }
+Uinpnloooinaea@{ shape: win-pane, label: "_Published Jun 14, 2025, 11:15 PM_
+Us police hunt suspect in deadly shooting of democratic minnesota state lawmakers" }
+TtttafryNgt@{ shape: win-pane, label: "_Published Jun 14, 2025, 03:40 PM_
+Trump to host military parade for birthday amid ‘no kings’ protests" }
+ArfKpsaTsicrm@{ shape: win-pane, label: "_Published Oct 19, 2025, 12:51 AM_
+As us braces for ‘no kings’ protests against trump, surveillance worries emerge" }
+NglxerlssneaT@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:06 PM_
+‘no kings’ rallies expected to draw millions across us in protest against trump" }
+TaSeuatdytcr@{ shape: win-pane, label: "_Published Oct 18, 2025, 05:41 AM_
+Trump asks us supreme court to allow troop deployment to chicago area" }
+AdnnpsuiralrWn@{ shape: win-pane, label: "_Published Jun 15, 2025, 06:04 AM_
+After day of nationwide protests, trump’s military parade rolls through washington" }
+Wnbdrnrnfekcxo@{ shape: win-pane, label: "_Published Jan 14, 2025, 07:08 PM_
+Washington braced for trump inauguration with fortress-like fencing, extra police" }
+FvggfoiOncasii@{ shape: win-pane, label: "_Published Jan 02, 2025, 03:50 AM_
+Fbi investigating ‘act of terrorism’ in new orleans truck attack; suspect identified" }
+
+Uisfiysrw:::txtsize --> NglxerlssneaT:::txtsize
+NglxerlssneaT:::txtsize --> TaSeuatdytcr:::txtsize
+TaSeuatdytcr:::txtsize --> Lgdraeevirns:::txtsize
+NglxerlssneaT:::txtsize --> AdnnpsuiralrWn:::txtsize
+AdnnpsuiralrWn:::txtsize --> Uinpnloooinaea:::txtsize
+AdnnpsuiralrWn:::txtsize --> TtttafryNgt:::txtsize
+Uisfiysrw:::txtsize --> ArfKpsaTsicrm:::txtsize
+ArfKpsaTsicrm:::txtsize --> NglxerlssneaT:::txtsize
+NglxerlssneaT:::txtsize --> TaSeuatdytcr:::txtsize
+NglxerlssneaT:::txtsize --> AdnnpsuiralrWn:::txtsize
+ArfKpsaTsicrm:::txtsize --> Wnbdrnrnfekcxo:::txtsize
+Wnbdrnrnfekcxo:::txtsize --> FvggfoiOncasii:::txtsize
+
+IlRciauitorn@{ shape: win-pane, label: "_Published Oct 19, 2025, 12:53 AM_
+Israel says rafah crossing stays shut until hostage bodies returned" }
 GRbrsoeceibips@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:21 PM_
 Gaza’s rafah border crossing to reopen on oct 20, palestinian embassy in egypt says" }
 Ulfezsrda@{ shape: win-pane, label: "_Published Aug 22, 2025, 03:02 PM_
 Un declares famine in gaza; first ever in middle east" }
 Ilgqielfrn@{ shape: win-pane, label: "_Published Jul 29, 2025, 06:14 PM_
 Israelis begin to question the morality of their war in gaza" }
-FeaoGalhrt@{ shape: win-pane, label: "_Published Jul 29, 2025, 04:13 PM_
-Famine is ‘playing out’ in gaza, warns global hunger monitor" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
 Ilbeagssayenaa@{ shape: win-pane, label: "_Published Aug 18, 2025, 03:50 PM_
 Israel deliberately starving gaza’s palestinians, says amnesty international" }
-Ateiaealteoasasa@{ shape: win-pane, label: "_Published Apr 29, 2025, 01:20 PM_
-Amnesty international accuses israel of ‘live-streamed genocide’ against gaza palestinians" }
-Tdfadmliwoods@{ shape: win-pane, label: "_Published Aug 14, 2025, 01:38 AM_
-Turned back from gaza, aid shipments languish in warehouses, on roadsides" }
+Ucfesjetfea@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:55 PM_
+Un aid chief foresees ‘massive job’ ahead on tour of ruined gaza" }
+Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
+Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
+Iliebfhshnaieds@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:20 AM_
+Israel says it received body of another hostage held in gaza amid dispute over delays" }
 Ucfesjetfea@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:55 PM_
 Un aid chief foresees ‘massive job’ ahead on tour of ruined gaza" }
 Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
@@ -90,14 +124,14 @@ Hamas says it is committed to gaza truce and returning hostage remains" }
 Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
 Trump says israel could resume fighting in gaza if hamas fails to disarm" }
 
+IlRciauitorn:::txtsize --> GRbrsoeceibips:::txtsize
 GRbrsoeceibips:::txtsize --> Ulfezsrda:::txtsize
 Ulfezsrda:::txtsize --> Ilgqielfrn:::txtsize
-Ilgqielfrn:::txtsize --> FeaoGalhrt:::txtsize
-Ilgqielfrn:::txtsize --> NyeeawHakl:::txtsize
 Ulfezsrda:::txtsize --> Ilbeagssayenaa:::txtsize
-Ilbeagssayenaa:::txtsize --> Ateiaealteoasasa:::txtsize
-Ilbeagssayenaa:::txtsize --> Tdfadmliwoods:::txtsize
 GRbrsoeceibips:::txtsize --> Ucfesjetfea:::txtsize
+Ucfesjetfea:::txtsize --> Iliaeseoewa:::txtsize
+Ucfesjetfea:::txtsize --> Iliebfhshnaieds:::txtsize
+IlRciauitorn:::txtsize --> Ucfesjetfea:::txtsize
 Ucfesjetfea:::txtsize --> Iliaeseoewa:::txtsize
 Iliaeseoewa:::txtsize --> TssHaossaaorslaoe:::txtsize
 Iliaeseoewa:::txtsize --> Pgoihfcfge:::txtsize
@@ -105,49 +139,6 @@ Ucfesjetfea:::txtsize --> Iliebfhshnaieds:::txtsize
 Iliebfhshnaieds:::txtsize --> Hstmeaudrhga:::txtsize
 Iliebfhshnaieds:::txtsize --> Tsscretniali:::txtsize
 
-ToieolJnirsirt@{ shape: win-pane, label: "_Published Oct 18, 2025, 07:41 PM_
-Trump officials weigh possible kim jong un meeting during asia trip, cnn reports" }
-NKsauweptlteetio@{ shape: win-pane, label: "_Published Oct 05, 2025, 06:06 AM_
-North korea’s kim says country will develop additional military measures, state media reports" }
-Csosrlydhni@{ shape: win-pane, label: "_Published Sep 03, 2025, 06:44 AM_
-China’s xi projects power at military parade with putin and kim" }
-IePwhrwhieelt@{ shape: win-pane, label: "_Published Sep 03, 2025, 08:15 AM_
-Indonesia’s prabowo pushes through with china visit despite deadly protests" }
-KoslstrnuhNKfr@{ shape: win-pane, label: "_Published Sep 03, 2025, 03:49 PM_
-Kim promises to help russia with ‘everything’ as putin thanks north korea for war aid" }
-NKsaornlhao@{ shape: win-pane, label: "_Published Sep 27, 2025, 06:03 AM_
-North korea’s kim calls for sharpening nuclear ‘shield and sword’" }
-Ucsdralosrresr@{ shape: win-pane, label: "_Published Sep 25, 2025, 10:48 PM_
-Us sanctions arms dealers, financial supporters of north korean weapons programme" }
-NKctenMcttleSKsa@{ shape: win-pane, label: "_Published Sep 26, 2025, 12:22 AM_
-North korea close to developing icbm that can hit us with nuclear weapon, south korea’s lee says" }
-SoinUtetn@{ shape: win-pane, label: "_Published Sep 27, 2025, 12:55 PM_
-Seoul official hints at us-north korea meeting in 2025" }
-Womskmrolduo@{ shape: win-pane, label: "_Published Sep 24, 2025, 11:00 AM_
-Will ‘fond memories’ spark a trump-kim reunion? analysts don’t rule it out" }
-NKclSsitncioJn@{ shape: win-pane, label: "_Published Sep 22, 2025, 06:26 AM_
-North korea can talk to us if it stops insisting on denuclearisation: kim jong un" }
-NKsinrsiosr@{ shape: win-pane, label: "_Published Sep 25, 2025, 04:37 PM_
-North korea’s foreign minister to visit china soon, says report" }
-NKsosesgtiirolA@{ shape: win-pane, label: "_Published Sep 23, 2025, 06:07 AM_
-North korea’s kim jong un says he will strengthen ties with china more vigorously: kcna" }
-CsrNKsraeco@{ shape: win-pane, label: "_Published Sep 20, 2025, 02:40 PM_
-China’s exports to north korea see first year-on-year decline of 2025" }
-
-ToieolJnirsirt:::txtsize --> NKsauweptlteetio:::txtsize
-NKsauweptlteetio:::txtsize --> Csosrlydhni:::txtsize
-Csosrlydhni:::txtsize --> IePwhrwhieelt:::txtsize
-Csosrlydhni:::txtsize --> KoslstrnuhNKfr:::txtsize
-NKsauweptlteetio:::txtsize --> NKsaornlhao:::txtsize
-NKsaornlhao:::txtsize --> Ucsdralosrresr:::txtsize
-NKsaornlhao:::txtsize --> NKctenMcttleSKsa:::txtsize
-ToieolJnirsirt:::txtsize --> SoinUtetn:::txtsize
-SoinUtetn:::txtsize --> Womskmrolduo:::txtsize
-Womskmrolduo:::txtsize --> NKclSsitncioJn:::txtsize
-SoinUtetn:::txtsize --> NKsinrsiosr:::txtsize
-NKsinrsiosr:::txtsize --> NKsosesgtiirolA:::txtsize
-NKsinrsiosr:::txtsize --> CsrNKsraeco:::txtsize
-
 ```
-<i>Last updated: 2025-10-19 00:01:02.820028 (GMT+8)</i>
+<i>Last updated: 2025-10-19 04:00:30.810043 (GMT+8)</i>
 <!-- END -->
