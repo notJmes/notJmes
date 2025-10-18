@@ -16,6 +16,95 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+CnnCeiirmtces@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:34 PM_
+Criminal gangs in china exploit us gift cards to move stolen cash, report says" }
+Uitiasemiohtn@{ shape: win-pane, label: "_Published Oct 07, 2025, 08:25 PM_
+Uk police hit criminal gang suspected of smuggling stolen phones to china" }
+Pptiesslants@{ shape: win-pane, label: "_Published Aug 17, 2025, 01:35 PM_
+‘pickypockets!’ vigilante pairs with social media on london streets" }
+Tlsitrholis@{ shape: win-pane, label: "_Published Jan 30, 2025, 04:00 PM_
+Theft leaves british retailers with a record $3.7 billion in losses" }
+Urdmifdef@{ shape: win-pane, label: "_Published Mar 19, 2025, 08:38 AM_
+Uk court finds two men guilty of $4.8m gold toilet theft" }
+Tmtoottemcshe@{ shape: win-pane, label: "_Published Feb 26, 2025, 07:57 AM_
+Three men on trial over golden toilet stolen from churchill's birthplace" }
+Tshsotthd@{ shape: win-pane, label: "_Published Nov 07, 2023, 05:05 PM_
+The case of the missing golden toilet: 4 men charged in uk" }
+CrldrritrnbU@{ shape: win-pane, label: "_Published Apr 21, 2025, 02:08 PM_
+‘cancer’ of billion-dollar cyberscam industry spreading globally: un" }
+SesvebnuMa@{ shape: win-pane, label: "_Published Feb 15, 2025, 08:10 AM_
+Scam centre survivors tell of beatings, abuse in myanmar" }
+Oehtmatldad@{ shape: win-pane, label: "_Published Feb 12, 2025, 08:30 PM_
+Over 250 people held at myanmar scam centre released at thai border" }
+TacwMadenoce@{ shape: win-pane, label: "_Published Feb 04, 2025, 02:35 PM_
+Thailand to cut power to myanmar border areas linked to scam centres" }
+Tatelneppon@{ shape: win-pane, label: "_Published Feb 05, 2025, 05:26 PM_
+Thailand cuts power, fuel and internet supply to parts of myanmar" }
+TacwMadenoce@{ shape: win-pane, label: "_Published Feb 04, 2025, 02:35 PM_
+Thailand to cut power to myanmar border areas linked to scam centres" }
+FomrnnenotdTa@{ shape: win-pane, label: "_Published Jan 29, 2025, 05:10 PM_
+Fears of scam centre kidnappings keep chinese tourists on edge in thailand" }
+
+CnnCeiirmtces:::txtsize --> Uitiasemiohtn:::txtsize
+Uitiasemiohtn:::txtsize --> Pptiesslants:::txtsize
+Pptiesslants:::txtsize --> Tlsitrholis:::txtsize
+Uitiasemiohtn:::txtsize --> Urdmifdef:::txtsize
+Urdmifdef:::txtsize --> Tmtoottemcshe:::txtsize
+Urdmifdef:::txtsize --> Tshsotthd:::txtsize
+CnnCeiirmtces:::txtsize --> CrldrritrnbU:::txtsize
+CrldrritrnbU:::txtsize --> SesvebnuMa:::txtsize
+SesvebnuMa:::txtsize --> Oehtmatldad:::txtsize
+SesvebnuMa:::txtsize --> TacwMadenoce:::txtsize
+CrldrritrnbU:::txtsize --> Tatelneppon:::txtsize
+Tatelneppon:::txtsize --> TacwMadenoce:::txtsize
+Tatelneppon:::txtsize --> FomrnnenotdTa:::txtsize
+
+GRbrsoeceibips@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:21 PM_
+Gaza’s rafah border crossing to reopen on oct 20, palestinian embassy in egypt says" }
+Ulfezsrda@{ shape: win-pane, label: "_Published Aug 22, 2025, 03:02 PM_
+Un declares famine in gaza; first ever in middle east" }
+Ilgqielfrn@{ shape: win-pane, label: "_Published Jul 29, 2025, 06:14 PM_
+Israelis begin to question the morality of their war in gaza" }
+FeaoGalhrt@{ shape: win-pane, label: "_Published Jul 29, 2025, 04:13 PM_
+Famine is ‘playing out’ in gaza, warns global hunger monitor" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Ilbeagssayenaa@{ shape: win-pane, label: "_Published Aug 18, 2025, 03:50 PM_
+Israel deliberately starving gaza’s palestinians, says amnesty international" }
+Ateiaealteoasasa@{ shape: win-pane, label: "_Published Apr 29, 2025, 01:20 PM_
+Amnesty international accuses israel of ‘live-streamed genocide’ against gaza palestinians" }
+Tdfadmliwoods@{ shape: win-pane, label: "_Published Aug 14, 2025, 01:38 AM_
+Turned back from gaza, aid shipments languish in warehouses, on roadsides" }
+Ucfesjetfea@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:55 PM_
+Un aid chief foresees ‘massive job’ ahead on tour of ruined gaza" }
+Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
+Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Pgoihfcfge@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:53 AM_
+Pm wong welcomes first phase of gaza ceasefire agreement" }
+Iliebfhshnaieds@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:20 AM_
+Israel says it received body of another hostage held in gaza amid dispute over delays" }
+Hstmeaudrhga@{ shape: win-pane, label: "_Published Oct 17, 2025, 09:15 PM_
+Hamas says it is committed to gaza truce and returning hostage remains" }
+Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
+Trump says israel could resume fighting in gaza if hamas fails to disarm" }
+
+GRbrsoeceibips:::txtsize --> Ulfezsrda:::txtsize
+Ulfezsrda:::txtsize --> Ilgqielfrn:::txtsize
+Ilgqielfrn:::txtsize --> FeaoGalhrt:::txtsize
+Ilgqielfrn:::txtsize --> NyeeawHakl:::txtsize
+Ulfezsrda:::txtsize --> Ilbeagssayenaa:::txtsize
+Ilbeagssayenaa:::txtsize --> Ateiaealteoasasa:::txtsize
+Ilbeagssayenaa:::txtsize --> Tdfadmliwoods:::txtsize
+GRbrsoeceibips:::txtsize --> Ucfesjetfea:::txtsize
+Ucfesjetfea:::txtsize --> Iliaeseoewa:::txtsize
+Iliaeseoewa:::txtsize --> TssHaossaaorslaoe:::txtsize
+Iliaeseoewa:::txtsize --> Pgoihfcfge:::txtsize
+Ucfesjetfea:::txtsize --> Iliebfhshnaieds:::txtsize
+Iliebfhshnaieds:::txtsize --> Hstmeaudrhga:::txtsize
+Iliebfhshnaieds:::txtsize --> Tsscretniali:::txtsize
+
 ToieolJnirsirt@{ shape: win-pane, label: "_Published Oct 18, 2025, 07:41 PM_
 Trump officials weigh possible kim jong un meeting during asia trip, cnn reports" }
 NKsauweptlteetio@{ shape: win-pane, label: "_Published Oct 05, 2025, 06:06 AM_
@@ -59,83 +148,6 @@ SoinUtetn:::txtsize --> NKsinrsiosr:::txtsize
 NKsinrsiosr:::txtsize --> NKsosesgtiirolA:::txtsize
 NKsinrsiosr:::txtsize --> CsrNKsraeco:::txtsize
 
-Ucfesjetfea@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:55 PM_
-Un aid chief foresees ‘massive job’ ahead on tour of ruined gaza" }
-Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
-Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
-Israel marks oct 7 anniversary as talks are held to end gaza war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Pgoihfcfge@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:53 AM_
-Pm wong welcomes first phase of gaza ceasefire agreement" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-SpeeamaeihfptGoc@{ shape: win-pane, label: "_Published Oct 09, 2025, 11:04 PM_
-Singapore welcomes israel-hamas deal to begin first phase of trump plan to end gaza conflict: mfa" }
-Iliebfhshnaieds@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:20 AM_
-Israel says it received body of another hostage held in gaza amid dispute over delays" }
-Hstmeaudrhga@{ shape: win-pane, label: "_Published Oct 17, 2025, 09:15 PM_
-Hamas says it is committed to gaza truce and returning hostage remains" }
-Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
-Hamas says it has handed over all hostage remains it can recover" }
-Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
-Trump says israel could resume fighting in gaza if hamas fails to disarm" }
-Hcewfkntrnucr@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:30 AM_
-Hamas carries out wave of gaza killings, citing crime and security concerns" }
-Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
-Hamas says it has handed over all hostage remains it can recover" }
-
-Ucfesjetfea:::txtsize --> Iliaeseoewa:::txtsize
-Iliaeseoewa:::txtsize --> TssHaossaaorslaoe:::txtsize
-TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
-TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
-Iliaeseoewa:::txtsize --> Pgoihfcfge:::txtsize
-Pgoihfcfge:::txtsize --> TssHaossaaorslaoe:::txtsize
-Pgoihfcfge:::txtsize --> SpeeamaeihfptGoc:::txtsize
-Ucfesjetfea:::txtsize --> Iliebfhshnaieds:::txtsize
-Iliebfhshnaieds:::txtsize --> Hstmeaudrhga:::txtsize
-Hstmeaudrhga:::txtsize --> Hstaoltesnv:::txtsize
-Iliebfhshnaieds:::txtsize --> Tsscretniali:::txtsize
-Tsscretniali:::txtsize --> Hcewfkntrnucr:::txtsize
-Tsscretniali:::txtsize --> Hstaoltesnv:::txtsize
-
-NglxerlssneaT@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:06 PM_
-‘no kings’ rallies expected to draw millions across us in protest against trump" }
-TaSeuatdytcr@{ shape: win-pane, label: "_Published Oct 18, 2025, 05:41 AM_
-Trump asks us supreme court to allow troop deployment to chicago area" }
-Lgdraeevirns@{ shape: win-pane, label: "_Published Oct 16, 2025, 05:17 AM_
-Los angeles declares state of emergency over us immigration raids" }
-Ueoatldticanp@{ shape: win-pane, label: "_Published Oct 12, 2025, 10:51 AM_
-Us appeals court says national guard sent to illinois can stay, but not deploy" }
-CgrNnaornhetwrs@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:09 PM_
-Chicago ice raids, national guard troops prompt new school leaflets: ‘know your rights’" }
-AdnnpsuiralrWn@{ shape: win-pane, label: "_Published Jun 15, 2025, 06:04 AM_
-After day of nationwide protests, trump’s military parade rolls through washington" }
-Uinpnloooinaea@{ shape: win-pane, label: "_Published Jun 14, 2025, 11:15 PM_
-Us police hunt suspect in deadly shooting of democratic minnesota state lawmakers" }
-Mshnpoinmgies@{ shape: win-pane, label: "_Published Jun 15, 2025, 08:04 AM_
-Minnesota shooting suspect told friend in text message he might be dead soon" }
-TtttafryNgt@{ shape: win-pane, label: "_Published Jun 14, 2025, 03:40 PM_
-Trump to host military parade for birthday amid ‘no kings’ protests" }
-Melihfineeipe@{ shape: win-pane, label: "_Published Jun 14, 2025, 10:23 AM_
-Marines deployed in la ahead of possible ‘unprecedented’ anti-trump protests" }
-Mosthautvpsane@{ shape: win-pane, label: "_Published Jun 14, 2025, 10:16 AM_
-Mexico’s president says her flag should not fly over us protests that turn violent" }
-
-NglxerlssneaT:::txtsize --> TaSeuatdytcr:::txtsize
-TaSeuatdytcr:::txtsize --> Lgdraeevirns:::txtsize
-Lgdraeevirns:::txtsize --> Ueoatldticanp:::txtsize
-Lgdraeevirns:::txtsize --> CgrNnaornhetwrs:::txtsize
-NglxerlssneaT:::txtsize --> AdnnpsuiralrWn:::txtsize
-AdnnpsuiralrWn:::txtsize --> Uinpnloooinaea:::txtsize
-Uinpnloooinaea:::txtsize --> Mshnpoinmgies:::txtsize
-AdnnpsuiralrWn:::txtsize --> TtttafryNgt:::txtsize
-TtttafryNgt:::txtsize --> Melihfineeipe:::txtsize
-TtttafryNgt:::txtsize --> Mosthautvpsane:::txtsize
-
 ```
-<i>Last updated: 2025-10-18 20:00:29.526841 (GMT+8)</i>
+<i>Last updated: 2025-10-19 00:01:02.820028 (GMT+8)</i>
 <!-- END -->
