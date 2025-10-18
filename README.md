@@ -16,129 +16,132 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ptnrcdfessi@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:45 AM_
-Premature end to iran nuclear deal after reimposed un sanctions" }
-SisietIfurs@{ shape: win-pane, label: "_Published Sep 28, 2025, 08:47 AM_
-Sweeping un sanctions return to hit iran after nuclear talks fail" }
-Ietsdtaessr@{ shape: win-pane, label: "_Published Sep 27, 2025, 10:23 PM_
-Iran defiant on restored sanctions as it recalls ambassadors" }
-Ucsamrtal@{ shape: win-pane, label: "_Published Sep 27, 2025, 05:23 AM_
-Un sanctions on iran loom after vote to delay fails" }
-Tsrseeworre@{ shape: win-pane, label: "_Published Jun 22, 2025, 08:14 AM_
-Trump says iran must make peace or ‘we will go after’ other targets" }
-SanskeiaInage@{ shape: win-pane, label: "_Published Sep 28, 2025, 06:13 AM_
-‘snapback’ sends west back to the drawing board on iran’s nuclear programme" }
-Ucsamrtal@{ shape: win-pane, label: "_Published Sep 27, 2025, 05:23 AM_
-Un sanctions on iran loom after vote to delay fails" }
-Ietsdtaessr@{ shape: win-pane, label: "_Published Sep 27, 2025, 10:23 PM_
-Iran defiant on restored sanctions as it recalls ambassadors" }
-SanskeiaInage@{ shape: win-pane, label: "_Published Sep 28, 2025, 06:13 AM_
-‘snapback’ sends west back to the drawing board on iran’s nuclear programme" }
-Ucsamrtal@{ shape: win-pane, label: "_Published Sep 27, 2025, 05:23 AM_
-Un sanctions on iran loom after vote to delay fails" }
-INetghrdneo@{ shape: win-pane, label: "_Published Sep 10, 2025, 03:52 AM_
-Iran, un nuclear watchdog reach understanding on cooperation" }
-Ietsdtaessr@{ shape: win-pane, label: "_Published Sep 27, 2025, 10:23 PM_
-Iran defiant on restored sanctions as it recalls ambassadors" }
-Ucsamrtal@{ shape: win-pane, label: "_Published Sep 27, 2025, 05:23 AM_
-Un sanctions on iran loom after vote to delay fails" }
-Tsrseeworre@{ shape: win-pane, label: "_Published Jun 22, 2025, 08:14 AM_
-Trump says iran must make peace or ‘we will go after’ other targets" }
+Tstliahstrobd@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:45 PM_
+Trump seeks to build a triumphal arch in washington for nation’s 250th birthday" }
+Thdreyrhoao@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:50 PM_
+Trump hosts dinner for wealthy donors to white house ballroom" }
+Ybalolmousu@{ shape: win-pane, label: "_Published Sep 30, 2025, 07:26 AM_
+Youtube to pay $28 million to settle trump account suspension suit" }
+Hrrreizsoop@{ shape: win-pane, label: "_Published Sep 20, 2025, 09:20 AM_
+Harvard’s former president criticizes its approach to trump" }
+TttCosneetsd@{ shape: win-pane, label: "_Published Sep 04, 2025, 10:43 AM_
+Trump to host tech ceos for first event in newly renovated rose garden" }
+Eeoigraceme@{ shape: win-pane, label: "_Published Aug 26, 2025, 07:50 PM_
+Eu asserts ‘sovereign right’ to regulate tech after trump threat" }
+Tvxctfilea@{ shape: win-pane, label: "_Published Aug 26, 2025, 10:22 AM_
+Trump vows export curbs, tariffs in digital tax reprisal" }
+Tbsliltaikr@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:32 AM_
+Trump brings the bling with gold-plated oval office makeover" }
+TdragnfitirsPd@{ shape: win-pane, label: "_Published Jan 21, 2025, 01:02 AM_
+Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
+Tpsrmtioutv@{ shape: win-pane, label: "_Published Jan 20, 2025, 05:54 AM_
+Trump promises harsh immigration limits on inauguration eve" }
+TttSecaaxhue@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:40 AM_
+Trump threatens us trade policy of ‘tariff and tax’ on other countries" }
+Unlyphaiogh@{ shape: win-pane, label: "_Published Mar 01, 2025, 01:48 AM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+TalytnretaWHsit@{ shape: win-pane, label: "_Published Mar 01, 2025, 02:44 AM_
+Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
+YgitlIcsTZsaWH@{ shape: win-pane, label: "_Published Mar 01, 2025, 05:06 AM_
+‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
 
-Ptnrcdfessi:::txtsize --> SisietIfurs:::txtsize
-SisietIfurs:::txtsize --> Ietsdtaessr:::txtsize
-Ietsdtaessr:::txtsize --> Ucsamrtal:::txtsize
-Ietsdtaessr:::txtsize --> Tsrseeworre:::txtsize
-SisietIfurs:::txtsize --> SanskeiaInage:::txtsize
-SanskeiaInage:::txtsize --> Ucsamrtal:::txtsize
-SanskeiaInage:::txtsize --> Ietsdtaessr:::txtsize
-Ptnrcdfessi:::txtsize --> SanskeiaInage:::txtsize
-SanskeiaInage:::txtsize --> Ucsamrtal:::txtsize
-Ucsamrtal:::txtsize --> INetghrdneo:::txtsize
-SanskeiaInage:::txtsize --> Ietsdtaessr:::txtsize
-Ietsdtaessr:::txtsize --> Ucsamrtal:::txtsize
-Ietsdtaessr:::txtsize --> Tsrseeworre:::txtsize
+Tstliahstrobd:::txtsize --> Thdreyrhoao:::txtsize
+Thdreyrhoao:::txtsize --> Ybalolmousu:::txtsize
+Ybalolmousu:::txtsize --> Hrrreizsoop:::txtsize
+Thdreyrhoao:::txtsize --> TttCosneetsd:::txtsize
+TttCosneetsd:::txtsize --> Eeoigraceme:::txtsize
+TttCosneetsd:::txtsize --> Tvxctfilea:::txtsize
+Tstliahstrobd:::txtsize --> Tbsliltaikr:::txtsize
+Tbsliltaikr:::txtsize --> TdragnfitirsPd:::txtsize
+TdragnfitirsPd:::txtsize --> Tpsrmtioutv:::txtsize
+TdragnfitirsPd:::txtsize --> TttSecaaxhue:::txtsize
+Tbsliltaikr:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
+Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
 
-Weoevrykontnn@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:35 AM_
-Wikipedia volunteers avert tragedy by taking down gunman at us conference" }
-Spnrrvekighrhrnpo@{ shape: win-pane, label: "_Published Aug 21, 2025, 03:15 PM_
-Singaporean robert sim receives one of wikipedia’s highest honours for his work on online platform" }
-SprCaosanzmotw@{ shape: win-pane, label: "_Published Jun 18, 2025, 08:14 PM_
-Singapore artist charmaine poh wins villa romana prize, germany’s oldest art award" }
-TorenwozhaBea@{ shape: win-pane, label: "_Published May 22, 2025, 10:30 PM_
-Tdcx founder laurent junique wins top prize at 40th singapore business awards" }
-Spahibaesag@{ shape: win-pane, label: "_Published May 20, 2025, 06:35 PM_
-Singapore takes 4th spot in global start-up ecosystem ranking" }
-SpaMrifad@{ shape: win-pane, label: "_Published May 16, 2025, 07:07 PM_
-Singapore-based oms energy raises $43m from nasdaq debut" }
-Fiieeoariamu@{ shape: win-pane, label: "_Published Sep 29, 2025, 12:52 AM_
-Four killed, 8 injured after shooting and fire at michigan mormon church" }
-Cikerarsanccrs@{ shape: win-pane, label: "_Published Sep 22, 2025, 06:17 AM_
-Charlie kirk lauded at arizona memorial as galvanising force for conservatism" }
-TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
-Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
-TRssirilcehe@{ shape: win-pane, label: "_Published Sep 17, 2025, 03:45 AM_
-Tyler robinson, suspect in charlie kirk killing, charged with murder" }
-Uistggoevsnohnp@{ shape: win-pane, label: "_Published Aug 29, 2025, 07:20 AM_
-Us officials sift through tangle of online grievances by minneapolis shooting suspect" }
-SelMasolirj@{ shape: win-pane, label: "_Published Aug 27, 2025, 11:43 PM_
-Shooter kills two minneapolis schoolchildren in church, injures 17" }
-Masdeerxetanrog@{ shape: win-pane, label: "_Published Aug 29, 2025, 02:18 AM_
-Minneapolis children revealed courage, experienced trauma during church shooting" }
+Iltshguo@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:27 PM_
+Israel identifies dead hostage returned on oct 17" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+Hstmeaudrhga@{ shape: win-pane, label: "_Published Oct 17, 2025, 09:15 PM_
+Hamas says it is committed to gaza truce and returning hostage remains" }
+Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
+Hamas says it has handed over all hostage remains it can recover" }
+Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
+Trump says israel could resume fighting in gaza if hamas fails to disarm" }
+IlHhdbhnroe@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:54 PM_
+Israel says hamas handed over body that is not former hostage" }
 
-Weoevrykontnn:::txtsize --> Spnrrvekighrhrnpo:::txtsize
-Spnrrvekighrhrnpo:::txtsize --> SprCaosanzmotw:::txtsize
-Spnrrvekighrhrnpo:::txtsize --> TorenwozhaBea:::txtsize
-TorenwozhaBea:::txtsize --> Spahibaesag:::txtsize
-TorenwozhaBea:::txtsize --> SpaMrifad:::txtsize
-Weoevrykontnn:::txtsize --> Fiieeoariamu:::txtsize
-Fiieeoariamu:::txtsize --> Cikerarsanccrs:::txtsize
-Cikerarsanccrs:::txtsize --> TahesegnipdoUstt:::txtsize
-Cikerarsanccrs:::txtsize --> TRssirilcehe:::txtsize
-Fiieeoariamu:::txtsize --> Uistggoevsnohnp:::txtsize
-Uistggoevsnohnp:::txtsize --> SelMasolirj:::txtsize
-Uistggoevsnohnp:::txtsize --> Masdeerxetanrog:::txtsize
+Iltshguo:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Iltshguo:::txtsize --> Hstmeaudrhga:::txtsize
+Hstmeaudrhga:::txtsize --> Hstaoltesnv:::txtsize
+Hstaoltesnv:::txtsize --> Tsscretniali:::txtsize
+Hstaoltesnv:::txtsize --> IlHhdbhnroe:::txtsize
 
-Ursrrsiyot@{ shape: win-pane, label: "_Published Oct 18, 2025, 10:18 AM_
-Us court bars nso group from installing spyware on whatsapp" }
-Igctwfirrd@{ shape: win-pane, label: "_Published Sep 03, 2025, 06:55 AM_
-Ice to gain access to spyware after biden order dropped" }
-MWAyapearttesans@{ shape: win-pane, label: "_Published Jan 31, 2025, 11:45 PM_
-Meta’s whatsapp says  israeli  spyware company paragon targeted users in several  countries" }
-Wnfclacoaesorfa@{ shape: win-pane, label: "_Published Nov 09, 2024, 09:59 AM_
-Washington financed colombia’s purchase of israeli pegasus spy software: us official" }
-IchnoaseItldot@{ shape: win-pane, label: "_Published Sep 02, 2025, 04:59 AM_
-In chicago, thousands protest against threat of ice, national guard deployment" }
-PitfSnerpnhok@{ shape: win-pane, label: "_Published Sep 01, 2025, 01:19 AM_
-Political stand-off in us intensifies over trump’s plan for chicago crackdown" }
-Cgoneercdh@{ shape: win-pane, label: "_Published Aug 31, 2025, 01:33 PM_
-Chicago mayor signs order to deter trump’s crackdown threat" }
-IardsretwsRr@{ shape: win-pane, label: "_Published Jul 22, 2025, 09:03 PM_
-Iranians targeted with spyware in lead-up to war with israel: research" }
-Bsccfrieftoitg@{ shape: win-pane, label: "_Published Jul 22, 2025, 07:52 PM_
-British man convicted of offering minister’s information to russian intelligence" }
-CbneaiolSee@{ shape: win-pane, label: "_Published Jul 22, 2025, 07:30 AM_
-China-born engineer pleads guilty to stealing us trade secrets" }
-SSomKoatAnlBs@{ shape: win-pane, label: "_Published Jul 18, 2025, 12:45 AM_
-Spies, sas troops among uk nationals affected by afghan data leak, bbc says" }
-Hirgripihaaado@{ shape: win-pane, label: "_Published Jul 19, 2025, 04:45 PM_
-How china’s growing cyber-hacking capabilities have raised alarm around the world" }
-Ccfrrpntbeiepm@{ shape: win-pane, label: "_Published Jul 18, 2025, 07:34 PM_
-Critical infrastructure in s’pore under attack by cyber espionage group: shanmugam" }
+Fhnideyfrne@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:16 PM_
+Frenchman in missing body case gets 30 years for murdering wife" }
+Jeniodeinmfui@{ shape: win-pane, label: "_Published Oct 09, 2025, 01:55 PM_
+Japanese man acquitted of 1966 murders seeks $5.1 million in damages from authorities" }
+Jpcbnofrhn@{ shape: win-pane, label: "_Published Nov 27, 2024, 05:11 PM_
+Japan prosecutor bows in apology to former death row inmate" }
+Lsveosatnni@{ shape: win-pane, label: "_Published Sep 26, 2024, 01:35 PM_
+Longest-serving death row prisoner acquitted in japan retrial" }
+Lsveoshatiyp@{ shape: win-pane, label: "_Published Sep 30, 2024, 07:02 PM_
+Longest-serving death row prisoner hails acquittal ‘victory’ in japan" }
+Jpcbnofrhn@{ shape: win-pane, label: "_Published Nov 27, 2024, 05:11 PM_
+Japan prosecutor bows in apology to former death row inmate" }
+Lsveosatnni@{ shape: win-pane, label: "_Published Sep 26, 2024, 01:35 PM_
+Longest-serving death row prisoner acquitted in japan retrial" }
+Lsveoshatiyp@{ shape: win-pane, label: "_Published Sep 30, 2024, 07:02 PM_
+Longest-serving death row prisoner hails acquittal ‘victory’ in japan" }
+AauodEasalin@{ shape: win-pane, label: "_Published Oct 02, 2025, 09:00 AM_
+Australia ‘mushroom murderer’ erin patterson to appeal conviction" }
+AauodEasioifs@{ shape: win-pane, label: "_Published Sep 08, 2025, 08:06 AM_
+Australia mushroom murderer erin patterson jailed for minimum of 33 years" }
+Aamorrgsdoaoud@{ shape: win-pane, label: "_Published Aug 08, 2025, 09:46 AM_
+Australian mushroom murderer allegedly served poisoned pasta to her husband" }
+Ssintintruluod@{ shape: win-pane, label: "_Published Jul 07, 2025, 02:03 PM_
+Sweet-smelling fungi with sinister name at centre of australia’s mushroom murders" }
+Aawfgyltuoda@{ shape: win-pane, label: "_Published Jul 07, 2025, 12:32 PM_
+Australian woman found guilty of all counts in mushroom murders case" }
+Aawiruceehlkde@{ shape: win-pane, label: "_Published Nov 03, 2023, 11:31 AM_
+Australian woman in court on murder charges after mushroom lunch killed three" }
+Aaaeuodepnussios@{ shape: win-pane, label: "_Published Jun 12, 2025, 12:03 PM_
+Australian accused of mushroom murders denies poisoning lunch as cross-examination ends" }
 
-Ursrrsiyot:::txtsize --> Igctwfirrd:::txtsize
-Igctwfirrd:::txtsize --> MWAyapearttesans:::txtsize
-MWAyapearttesans:::txtsize --> Wnfclacoaesorfa:::txtsize
-Igctwfirrd:::txtsize --> IchnoaseItldot:::txtsize
-IchnoaseItldot:::txtsize --> PitfSnerpnhok:::txtsize
-IchnoaseItldot:::txtsize --> Cgoneercdh:::txtsize
-Ursrrsiyot:::txtsize --> IardsretwsRr:::txtsize
-IardsretwsRr:::txtsize --> Bsccfrieftoitg:::txtsize
-Bsccfrieftoitg:::txtsize --> CbneaiolSee:::txtsize
-Bsccfrieftoitg:::txtsize --> SSomKoatAnlBs:::txtsize
-IardsretwsRr:::txtsize --> Hirgripihaaado:::txtsize
-Hirgripihaaado:::txtsize --> Ccfrrpntbeiepm:::txtsize
+Fhnideyfrne:::txtsize --> Jeniodeinmfui:::txtsize
+Jeniodeinmfui:::txtsize --> Jpcbnofrhn:::txtsize
+Jpcbnofrhn:::txtsize --> Lsveosatnni:::txtsize
+Jpcbnofrhn:::txtsize --> Lsveoshatiyp:::txtsize
+Jeniodeinmfui:::txtsize --> Jpcbnofrhn:::txtsize
+Jpcbnofrhn:::txtsize --> Lsveosatnni:::txtsize
+Jpcbnofrhn:::txtsize --> Lsveoshatiyp:::txtsize
+Fhnideyfrne:::txtsize --> AauodEasalin:::txtsize
+AauodEasalin:::txtsize --> AauodEasioifs:::txtsize
+AauodEasioifs:::txtsize --> Aamorrgsdoaoud:::txtsize
+AauodEasioifs:::txtsize --> Ssintintruluod:::txtsize
+AauodEasalin:::txtsize --> Aawfgyltuoda:::txtsize
+Aawfgyltuoda:::txtsize --> Aawiruceehlkde:::txtsize
+Aawfgyltuoda:::txtsize --> Aaaeuodepnussios:::txtsize
 
 ```
-<i>Last updated: 2025-10-18 12:00:31.546659 (GMT+8)</i>
+<i>Last updated: 2025-10-18 16:00:57.700633 (GMT+8)</i>
 <!-- END -->
