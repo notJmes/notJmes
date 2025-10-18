@@ -16,30 +16,105 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-HuhnduytoTansZs@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:27 AM_
-‘hopefully they won’t need it’: trump says it’s too soon for tomahawks in talks with zelensky" }
-Tttndtrttcke@{ shape: win-pane, label: "_Published Oct 16, 2025, 11:15 PM_
-Trump to meet putin in budapest after ‘great’ call to discuss ukraine" }
-Twarntceydtpni@{ shape: win-pane, label: "_Published Aug 16, 2025, 11:00 AM_
-Takeaways: warm words contrast with cold reality of no deal at trump-putin summit" }
-TaeaZsmdisfegn@{ shape: win-pane, label: "_Published Aug 16, 2025, 07:20 AM_
-Trump advises ukraine’s zelensky to ‘make a deal’ with russia after meeting putin" }
-Hioittrihp@{ shape: win-pane, label: "_Published Aug 16, 2025, 08:34 AM_
-Highlights of putin statement after summit with trump" }
-Wramldirieke@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:35 PM_
-What are tomahawk missiles and why might trump give them to ukraine?" }
-TmpTasskesour@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:24 AM_
-Trump may approve tomahawk missiles for ukraine if russia continues war" }
+JoUisiwnue@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:59 AM_
+John bolton: us national security hawk turned trump foe" }
+Frpoetiolhdsnseoi@{ shape: win-pane, label: "_Published Oct 16, 2025, 11:45 PM_
+Former trump national security adviser john bolton charged with sharing classified information" }
+EcCpsuiepe@{ shape: win-pane, label: "_Published Oct 08, 2025, 11:53 PM_
+Ex-fbi chief comey pleads not guilty in case trump pushed for" }
+Ierdsiupcao@{ shape: win-pane, label: "_Published Sep 28, 2025, 07:54 AM_
+Inside the trump administration’s push to prosecute james comey" }
+Citearcicoisgp@{ shape: win-pane, label: "_Published Sep 27, 2025, 04:47 AM_
+Comey indictment escalates trump’s campaign to chill opposition, say legal experts" }
+PgehohfafboeYc@{ shape: win-pane, label: "_Published Mar 26, 2025, 06:18 AM_
+Pentagon’s hegseth in spotlight as officials deflect blame over leaked yemen chat" }
+WHmkssnliui@{ shape: win-pane, label: "_Published Mar 25, 2025, 04:50 AM_
+White house mistakenly shares yemen war plans with journalist" }
+Tlhraroeuasl@{ shape: win-pane, label: "_Published Mar 16, 2025, 03:41 AM_
+Trump launches large-scale strikes on yemen’s houthis, at least 31 killed" }
+Bnshfttroawr@{ shape: win-pane, label: "_Published Oct 18, 2025, 01:31 AM_
+Bolton faces tougher defence than other trump foes charged with crimes" }
+Frhorahdurcc@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:10 AM_
+Former fbi chief comey criminally charged as trump targets critics" }
+TpcgJcanhhe@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:36 AM_
+Trump publicly urges us justice department to charge his enemies" }
+Edtmteyevvceo@{ shape: win-pane, label: "_Published May 17, 2025, 03:04 AM_
+Ex-fbi director comey interviewed by secret service over ‘8647’ social media post" }
+Lieteenmitrf@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:43 AM_
+Letitia james, ny attorney general and trump foe, indicted for bank fraud" }
+EcCpsuiepe@{ shape: win-pane, label: "_Published Oct 08, 2025, 11:53 PM_
+Ex-fbi chief comey pleads not guilty in case trump pushed for" }
+Ierdsiupcao@{ shape: win-pane, label: "_Published Sep 28, 2025, 07:54 AM_
+Inside the trump administration’s push to prosecute james comey" }
 
-HuhnduytoTansZs:::txtsize --> Tttndtrttcke:::txtsize
-Tttndtrttcke:::txtsize --> Twarntceydtpni:::txtsize
-Twarntceydtpni:::txtsize --> TaeaZsmdisfegn:::txtsize
-Twarntceydtpni:::txtsize --> Hioittrihp:::txtsize
-Tttndtrttcke:::txtsize --> Wramldirieke:::txtsize
-Wramldirieke:::txtsize --> TmpTasskesour:::txtsize
+JoUisiwnue:::txtsize --> Frpoetiolhdsnseoi:::txtsize
+Frpoetiolhdsnseoi:::txtsize --> EcCpsuiepe:::txtsize
+EcCpsuiepe:::txtsize --> Ierdsiupcao:::txtsize
+EcCpsuiepe:::txtsize --> Citearcicoisgp:::txtsize
+Frpoetiolhdsnseoi:::txtsize --> PgehohfafboeYc:::txtsize
+PgehohfafboeYc:::txtsize --> WHmkssnliui:::txtsize
+PgehohfafboeYc:::txtsize --> Tlhraroeuasl:::txtsize
+JoUisiwnue:::txtsize --> Bnshfttroawr:::txtsize
+Bnshfttroawr:::txtsize --> Frhorahdurcc:::txtsize
+Frhorahdurcc:::txtsize --> TpcgJcanhhe:::txtsize
+Frhorahdurcc:::txtsize --> Edtmteyevvceo:::txtsize
+Bnshfttroawr:::txtsize --> Lieteenmitrf:::txtsize
+Lieteenmitrf:::txtsize --> EcCpsuiepe:::txtsize
+Lieteenmitrf:::txtsize --> Ierdsiupcao:::txtsize
 
+Ilirvdnrala@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:20 AM_
+Israel says it has received body of another hostage held in gaza" }
+Hstmeaudrhga@{ shape: win-pane, label: "_Published Oct 17, 2025, 09:15 PM_
+Hamas says it is committed to gaza truce and returning hostage remains" }
+Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
+Hamas says it has handed over all hostage remains it can recover" }
+Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
+Trump says israel could resume fighting in gaza if hamas fails to disarm" }
+IlHhdbhnroe@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:54 PM_
+Israel says hamas handed over body that is not former hostage" }
+Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
+Trump says israel could resume fighting in gaza if hamas fails to disarm" }
+Hcewfkntrnucr@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:30 AM_
+Hamas carries out wave of gaza killings, citing crime and security concerns" }
+Hdyhatrssfn@{ shape: win-pane, label: "_Published Oct 13, 2025, 04:14 PM_
+Hamas deploys fighters as hostages released, in show of strength" }
+Ilaetyceiaasri@{ shape: win-pane, label: "_Published Oct 13, 2025, 02:04 AM_
+Israel and hamas were not ready for a comprehensive peace deal, says qatari mediator" }
+Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
+Hamas says it has handed over all hostage remains it can recover" }
+Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
+Trump says israel could resume fighting in gaza if hamas fails to disarm" }
+IlHhdbhnroe@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:54 PM_
+Israel says hamas handed over body that is not former hostage" }
+
+Ilirvdnrala:::txtsize --> Hstmeaudrhga:::txtsize
+Hstmeaudrhga:::txtsize --> Hstaoltesnv:::txtsize
+Hstaoltesnv:::txtsize --> Tsscretniali:::txtsize
+Hstaoltesnv:::txtsize --> IlHhdbhnroe:::txtsize
+Ilirvdnrala:::txtsize --> Tsscretniali:::txtsize
+Tsscretniali:::txtsize --> Hcewfkntrnucr:::txtsize
+Hcewfkntrnucr:::txtsize --> Hdyhatrssfn:::txtsize
+Hcewfkntrnucr:::txtsize --> Ilaetyceiaasri:::txtsize
+Tsscretniali:::txtsize --> Hstaoltesnv:::txtsize
+Hstaoltesnv:::txtsize --> Tsscretniali:::txtsize
+Hstaoltesnv:::txtsize --> IlHhdbhnroe:::txtsize
+
+PeeBsauosa@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:11 AM_
+Prince andrew: the british royal brought down by scandal" }
 BiinguluY@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:26 AM_
 Britain’s prince andrew gives up title of duke of york" }
+Peeuaaaehatho@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:12 PM_
+Prince andrew accuser says he acted as if sex with her was ‘birthright’: memoir" }
+Ltdiruooscr@{ shape: win-pane, label: "_Published Dec 15, 2024, 08:55 PM_
+Latest scandal raises fresh questions about uk’s prince andrew" }
+CtnkheYvalJetuen@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:56 AM_
+Charities end links with duchess of york over e-mail calling jeffrey epstein ‘supreme friend’" }
+Peeuaaaehatho@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:12 PM_
+Prince andrew accuser says he acted as if sex with her was ‘birthright’: memoir" }
+Ltdiruooscr@{ shape: win-pane, label: "_Published Dec 15, 2024, 08:55 PM_
+Latest scandal raises fresh questions about uk’s prince andrew" }
+CtnkheYvalJetuen@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:56 AM_
+Charities end links with duchess of york over e-mail calling jeffrey epstein ‘supreme friend’" }
 Peeuaaaehatho@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:12 PM_
 Prince andrew accuser says he acted as if sex with her was ‘birthright’: memoir" }
 Ltdiruooscr@{ shape: win-pane, label: "_Published Dec 15, 2024, 08:55 PM_
@@ -54,79 +129,22 @@ VmeeJetoisear@{ shape: win-pane, label: "_Published Sep 04, 2025, 02:07 AM_
 Victims of sex offender jeffrey epstein compiling list of sexual abusers" }
 PsbpnogssseTv@{ shape: win-pane, label: "_Published Sep 17, 2025, 07:09 AM_
 Protesters beam epstein video at england’s windsor castle before trump visit" }
-CtnkheYvalJetuen@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:56 AM_
-Charities end links with duchess of york over e-mail calling jeffrey epstein ‘supreme friend’" }
-VmeeJetoisear@{ shape: win-pane, label: "_Published Sep 04, 2025, 02:07 AM_
-Victims of sex offender jeffrey epstein compiling list of sexual abusers" }
-Jetisdntigntvem@{ shape: win-pane, label: "_Published Jul 08, 2025, 04:02 AM_
-Jeffrey epstein died by suicide, has no sex trafficking ‘client list’: us government memo" }
-PsbpnogssseTv@{ shape: win-pane, label: "_Published Sep 17, 2025, 07:09 AM_
-Protesters beam epstein video at england’s windsor castle before trump visit" }
-Bikdnasopns@{ shape: win-pane, label: "_Published Sep 11, 2025, 06:03 PM_
-Britain sacks mandelson as us ambassador over epstein links" }
-Tanrefeoirls@{ shape: win-pane, label: "_Published Sep 15, 2025, 10:20 AM_
-Trump and king charles: heads of state with opposing personalities" }
 
+PeeBsauosa:::txtsize --> BiinguluY:::txtsize
 BiinguluY:::txtsize --> Peeuaaaehatho:::txtsize
+Peeuaaaehatho:::txtsize --> Ltdiruooscr:::txtsize
+Peeuaaaehatho:::txtsize --> CtnkheYvalJetuen:::txtsize
+BiinguluY:::txtsize --> Peeuaaaehatho:::txtsize
+Peeuaaaehatho:::txtsize --> Ltdiruooscr:::txtsize
+Peeuaaaehatho:::txtsize --> CtnkheYvalJetuen:::txtsize
+PeeBsauosa:::txtsize --> Peeuaaaehatho:::txtsize
 Peeuaaaehatho:::txtsize --> Ltdiruooscr:::txtsize
 Ltdiruooscr:::txtsize --> SaPeekeloldey:::txtsize
 Ltdiruooscr:::txtsize --> CsoeinbdBiaaur:::txtsize
 Peeuaaaehatho:::txtsize --> CtnkheYvalJetuen:::txtsize
 CtnkheYvalJetuen:::txtsize --> VmeeJetoisear:::txtsize
 CtnkheYvalJetuen:::txtsize --> PsbpnogssseTv:::txtsize
-BiinguluY:::txtsize --> CtnkheYvalJetuen:::txtsize
-CtnkheYvalJetuen:::txtsize --> VmeeJetoisear:::txtsize
-VmeeJetoisear:::txtsize --> Jetisdntigntvem:::txtsize
-CtnkheYvalJetuen:::txtsize --> PsbpnogssseTv:::txtsize
-PsbpnogssseTv:::txtsize --> Bikdnasopns:::txtsize
-PsbpnogssseTv:::txtsize --> Tanrefeoirls:::txtsize
-
-Bnshfttroawr@{ shape: win-pane, label: "_Published Oct 18, 2025, 01:31 AM_
-Bolton faces tougher defence than other trump foes charged with crimes" }
-Frhorahdurcc@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:10 AM_
-Former fbi chief comey criminally charged as trump targets critics" }
-TpcgJcanhhe@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:36 AM_
-Trump publicly urges us justice department to charge his enemies" }
-UsoeestrueeeLie@{ shape: win-pane, label: "_Published Sep 20, 2025, 11:09 PM_
-Us prosecutor ‘fired’ after pressure to charge trump foes james comey and letitia james" }
-AcTmtwrnslm@{ shape: win-pane, label: "_Published Oct 04, 2019, 07:45 AM_
-Adam schiff: the democratic lawmaker who enrages donald trump" }
-Edtmteyevvceo@{ shape: win-pane, label: "_Published May 17, 2025, 03:04 AM_
-Ex-fbi director comey interviewed by secret service over ‘8647’ social media post" }
-UisitmIfyttp@{ shape: win-pane, label: "_Published May 16, 2025, 09:45 AM_
-Us officials looking into former fbi chief comey’s ‘8647’ post about trump" }
-Uiiwaipatbhra@{ shape: win-pane, label: "_Published Jan 08, 2021, 12:03 PM_
-Us capitol riot: how social media helped enable attack by die-hard trump fans" }
-Lieteenmitrf@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:43 AM_
-Letitia james, ny attorney general and trump foe, indicted for bank fraud" }
-EcCpsuiepe@{ shape: win-pane, label: "_Published Oct 08, 2025, 11:53 PM_
-Ex-fbi chief comey pleads not guilty in case trump pushed for" }
-Ierdsiupcao@{ shape: win-pane, label: "_Published Sep 28, 2025, 07:54 AM_
-Inside the trump administration’s push to prosecute james comey" }
-Citearcicoisgp@{ shape: win-pane, label: "_Published Sep 27, 2025, 04:47 AM_
-Comey indictment escalates trump’s campaign to chill opposition, say legal experts" }
-Ierdsiupcao@{ shape: win-pane, label: "_Published Sep 28, 2025, 07:54 AM_
-Inside the trump administration’s push to prosecute james comey" }
-Frhorahdurcc@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:10 AM_
-Former fbi chief comey criminally charged as trump targets critics" }
-TpcgJcanhhe@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:36 AM_
-Trump publicly urges us justice department to charge his enemies" }
-
-Bnshfttroawr:::txtsize --> Frhorahdurcc:::txtsize
-Frhorahdurcc:::txtsize --> TpcgJcanhhe:::txtsize
-TpcgJcanhhe:::txtsize --> UsoeestrueeeLie:::txtsize
-TpcgJcanhhe:::txtsize --> AcTmtwrnslm:::txtsize
-Frhorahdurcc:::txtsize --> Edtmteyevvceo:::txtsize
-Edtmteyevvceo:::txtsize --> UisitmIfyttp:::txtsize
-Edtmteyevvceo:::txtsize --> Uiiwaipatbhra:::txtsize
-Bnshfttroawr:::txtsize --> Lieteenmitrf:::txtsize
-Lieteenmitrf:::txtsize --> EcCpsuiepe:::txtsize
-EcCpsuiepe:::txtsize --> Ierdsiupcao:::txtsize
-EcCpsuiepe:::txtsize --> Citearcicoisgp:::txtsize
-Lieteenmitrf:::txtsize --> Ierdsiupcao:::txtsize
-Ierdsiupcao:::txtsize --> Frhorahdurcc:::txtsize
-Ierdsiupcao:::txtsize --> TpcgJcanhhe:::txtsize
 
 ```
-<i>Last updated: 2025-10-18 04:00:35.683197 (GMT+8)</i>
+<i>Last updated: 2025-10-18 08:01:02.000485 (GMT+8)</i>
 <!-- END -->
