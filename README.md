@@ -16,135 +16,129 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-JoUisiwnue@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:59 AM_
-John bolton: us national security hawk turned trump foe" }
-Frpoetiolhdsnseoi@{ shape: win-pane, label: "_Published Oct 16, 2025, 11:45 PM_
-Former trump national security adviser john bolton charged with sharing classified information" }
-EcCpsuiepe@{ shape: win-pane, label: "_Published Oct 08, 2025, 11:53 PM_
-Ex-fbi chief comey pleads not guilty in case trump pushed for" }
-Ierdsiupcao@{ shape: win-pane, label: "_Published Sep 28, 2025, 07:54 AM_
-Inside the trump administration’s push to prosecute james comey" }
-Citearcicoisgp@{ shape: win-pane, label: "_Published Sep 27, 2025, 04:47 AM_
-Comey indictment escalates trump’s campaign to chill opposition, say legal experts" }
-PgehohfafboeYc@{ shape: win-pane, label: "_Published Mar 26, 2025, 06:18 AM_
-Pentagon’s hegseth in spotlight as officials deflect blame over leaked yemen chat" }
-WHmkssnliui@{ shape: win-pane, label: "_Published Mar 25, 2025, 04:50 AM_
-White house mistakenly shares yemen war plans with journalist" }
-Tlhraroeuasl@{ shape: win-pane, label: "_Published Mar 16, 2025, 03:41 AM_
-Trump launches large-scale strikes on yemen’s houthis, at least 31 killed" }
-Bnshfttroawr@{ shape: win-pane, label: "_Published Oct 18, 2025, 01:31 AM_
-Bolton faces tougher defence than other trump foes charged with crimes" }
-Frhorahdurcc@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:10 AM_
-Former fbi chief comey criminally charged as trump targets critics" }
-TpcgJcanhhe@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:36 AM_
-Trump publicly urges us justice department to charge his enemies" }
-Edtmteyevvceo@{ shape: win-pane, label: "_Published May 17, 2025, 03:04 AM_
-Ex-fbi director comey interviewed by secret service over ‘8647’ social media post" }
-Lieteenmitrf@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:43 AM_
-Letitia james, ny attorney general and trump foe, indicted for bank fraud" }
-EcCpsuiepe@{ shape: win-pane, label: "_Published Oct 08, 2025, 11:53 PM_
-Ex-fbi chief comey pleads not guilty in case trump pushed for" }
-Ierdsiupcao@{ shape: win-pane, label: "_Published Sep 28, 2025, 07:54 AM_
-Inside the trump administration’s push to prosecute james comey" }
+Ptnrcdfessi@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:45 AM_
+Premature end to iran nuclear deal after reimposed un sanctions" }
+SisietIfurs@{ shape: win-pane, label: "_Published Sep 28, 2025, 08:47 AM_
+Sweeping un sanctions return to hit iran after nuclear talks fail" }
+Ietsdtaessr@{ shape: win-pane, label: "_Published Sep 27, 2025, 10:23 PM_
+Iran defiant on restored sanctions as it recalls ambassadors" }
+Ucsamrtal@{ shape: win-pane, label: "_Published Sep 27, 2025, 05:23 AM_
+Un sanctions on iran loom after vote to delay fails" }
+Tsrseeworre@{ shape: win-pane, label: "_Published Jun 22, 2025, 08:14 AM_
+Trump says iran must make peace or ‘we will go after’ other targets" }
+SanskeiaInage@{ shape: win-pane, label: "_Published Sep 28, 2025, 06:13 AM_
+‘snapback’ sends west back to the drawing board on iran’s nuclear programme" }
+Ucsamrtal@{ shape: win-pane, label: "_Published Sep 27, 2025, 05:23 AM_
+Un sanctions on iran loom after vote to delay fails" }
+Ietsdtaessr@{ shape: win-pane, label: "_Published Sep 27, 2025, 10:23 PM_
+Iran defiant on restored sanctions as it recalls ambassadors" }
+SanskeiaInage@{ shape: win-pane, label: "_Published Sep 28, 2025, 06:13 AM_
+‘snapback’ sends west back to the drawing board on iran’s nuclear programme" }
+Ucsamrtal@{ shape: win-pane, label: "_Published Sep 27, 2025, 05:23 AM_
+Un sanctions on iran loom after vote to delay fails" }
+INetghrdneo@{ shape: win-pane, label: "_Published Sep 10, 2025, 03:52 AM_
+Iran, un nuclear watchdog reach understanding on cooperation" }
+Ietsdtaessr@{ shape: win-pane, label: "_Published Sep 27, 2025, 10:23 PM_
+Iran defiant on restored sanctions as it recalls ambassadors" }
+Ucsamrtal@{ shape: win-pane, label: "_Published Sep 27, 2025, 05:23 AM_
+Un sanctions on iran loom after vote to delay fails" }
+Tsrseeworre@{ shape: win-pane, label: "_Published Jun 22, 2025, 08:14 AM_
+Trump says iran must make peace or ‘we will go after’ other targets" }
 
-JoUisiwnue:::txtsize --> Frpoetiolhdsnseoi:::txtsize
-Frpoetiolhdsnseoi:::txtsize --> EcCpsuiepe:::txtsize
-EcCpsuiepe:::txtsize --> Ierdsiupcao:::txtsize
-EcCpsuiepe:::txtsize --> Citearcicoisgp:::txtsize
-Frpoetiolhdsnseoi:::txtsize --> PgehohfafboeYc:::txtsize
-PgehohfafboeYc:::txtsize --> WHmkssnliui:::txtsize
-PgehohfafboeYc:::txtsize --> Tlhraroeuasl:::txtsize
-JoUisiwnue:::txtsize --> Bnshfttroawr:::txtsize
-Bnshfttroawr:::txtsize --> Frhorahdurcc:::txtsize
-Frhorahdurcc:::txtsize --> TpcgJcanhhe:::txtsize
-Frhorahdurcc:::txtsize --> Edtmteyevvceo:::txtsize
-Bnshfttroawr:::txtsize --> Lieteenmitrf:::txtsize
-Lieteenmitrf:::txtsize --> EcCpsuiepe:::txtsize
-Lieteenmitrf:::txtsize --> Ierdsiupcao:::txtsize
+Ptnrcdfessi:::txtsize --> SisietIfurs:::txtsize
+SisietIfurs:::txtsize --> Ietsdtaessr:::txtsize
+Ietsdtaessr:::txtsize --> Ucsamrtal:::txtsize
+Ietsdtaessr:::txtsize --> Tsrseeworre:::txtsize
+SisietIfurs:::txtsize --> SanskeiaInage:::txtsize
+SanskeiaInage:::txtsize --> Ucsamrtal:::txtsize
+SanskeiaInage:::txtsize --> Ietsdtaessr:::txtsize
+Ptnrcdfessi:::txtsize --> SanskeiaInage:::txtsize
+SanskeiaInage:::txtsize --> Ucsamrtal:::txtsize
+Ucsamrtal:::txtsize --> INetghrdneo:::txtsize
+SanskeiaInage:::txtsize --> Ietsdtaessr:::txtsize
+Ietsdtaessr:::txtsize --> Ucsamrtal:::txtsize
+Ietsdtaessr:::txtsize --> Tsrseeworre:::txtsize
 
-Ilirvdnrala@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:20 AM_
-Israel says it has received body of another hostage held in gaza" }
-Hstmeaudrhga@{ shape: win-pane, label: "_Published Oct 17, 2025, 09:15 PM_
-Hamas says it is committed to gaza truce and returning hostage remains" }
-Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
-Hamas says it has handed over all hostage remains it can recover" }
-Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
-Trump says israel could resume fighting in gaza if hamas fails to disarm" }
-IlHhdbhnroe@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:54 PM_
-Israel says hamas handed over body that is not former hostage" }
-Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
-Trump says israel could resume fighting in gaza if hamas fails to disarm" }
-Hcewfkntrnucr@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:30 AM_
-Hamas carries out wave of gaza killings, citing crime and security concerns" }
-Hdyhatrssfn@{ shape: win-pane, label: "_Published Oct 13, 2025, 04:14 PM_
-Hamas deploys fighters as hostages released, in show of strength" }
-Ilaetyceiaasri@{ shape: win-pane, label: "_Published Oct 13, 2025, 02:04 AM_
-Israel and hamas were not ready for a comprehensive peace deal, says qatari mediator" }
-Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
-Hamas says it has handed over all hostage remains it can recover" }
-Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
-Trump says israel could resume fighting in gaza if hamas fails to disarm" }
-IlHhdbhnroe@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:54 PM_
-Israel says hamas handed over body that is not former hostage" }
+Weoevrykontnn@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:35 AM_
+Wikipedia volunteers avert tragedy by taking down gunman at us conference" }
+Spnrrvekighrhrnpo@{ shape: win-pane, label: "_Published Aug 21, 2025, 03:15 PM_
+Singaporean robert sim receives one of wikipedia’s highest honours for his work on online platform" }
+SprCaosanzmotw@{ shape: win-pane, label: "_Published Jun 18, 2025, 08:14 PM_
+Singapore artist charmaine poh wins villa romana prize, germany’s oldest art award" }
+TorenwozhaBea@{ shape: win-pane, label: "_Published May 22, 2025, 10:30 PM_
+Tdcx founder laurent junique wins top prize at 40th singapore business awards" }
+Spahibaesag@{ shape: win-pane, label: "_Published May 20, 2025, 06:35 PM_
+Singapore takes 4th spot in global start-up ecosystem ranking" }
+SpaMrifad@{ shape: win-pane, label: "_Published May 16, 2025, 07:07 PM_
+Singapore-based oms energy raises $43m from nasdaq debut" }
+Fiieeoariamu@{ shape: win-pane, label: "_Published Sep 29, 2025, 12:52 AM_
+Four killed, 8 injured after shooting and fire at michigan mormon church" }
+Cikerarsanccrs@{ shape: win-pane, label: "_Published Sep 22, 2025, 06:17 AM_
+Charlie kirk lauded at arizona memorial as galvanising force for conservatism" }
+TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
+Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
+TRssirilcehe@{ shape: win-pane, label: "_Published Sep 17, 2025, 03:45 AM_
+Tyler robinson, suspect in charlie kirk killing, charged with murder" }
+Uistggoevsnohnp@{ shape: win-pane, label: "_Published Aug 29, 2025, 07:20 AM_
+Us officials sift through tangle of online grievances by minneapolis shooting suspect" }
+SelMasolirj@{ shape: win-pane, label: "_Published Aug 27, 2025, 11:43 PM_
+Shooter kills two minneapolis schoolchildren in church, injures 17" }
+Masdeerxetanrog@{ shape: win-pane, label: "_Published Aug 29, 2025, 02:18 AM_
+Minneapolis children revealed courage, experienced trauma during church shooting" }
 
-Ilirvdnrala:::txtsize --> Hstmeaudrhga:::txtsize
-Hstmeaudrhga:::txtsize --> Hstaoltesnv:::txtsize
-Hstaoltesnv:::txtsize --> Tsscretniali:::txtsize
-Hstaoltesnv:::txtsize --> IlHhdbhnroe:::txtsize
-Ilirvdnrala:::txtsize --> Tsscretniali:::txtsize
-Tsscretniali:::txtsize --> Hcewfkntrnucr:::txtsize
-Hcewfkntrnucr:::txtsize --> Hdyhatrssfn:::txtsize
-Hcewfkntrnucr:::txtsize --> Ilaetyceiaasri:::txtsize
-Tsscretniali:::txtsize --> Hstaoltesnv:::txtsize
-Hstaoltesnv:::txtsize --> Tsscretniali:::txtsize
-Hstaoltesnv:::txtsize --> IlHhdbhnroe:::txtsize
+Weoevrykontnn:::txtsize --> Spnrrvekighrhrnpo:::txtsize
+Spnrrvekighrhrnpo:::txtsize --> SprCaosanzmotw:::txtsize
+Spnrrvekighrhrnpo:::txtsize --> TorenwozhaBea:::txtsize
+TorenwozhaBea:::txtsize --> Spahibaesag:::txtsize
+TorenwozhaBea:::txtsize --> SpaMrifad:::txtsize
+Weoevrykontnn:::txtsize --> Fiieeoariamu:::txtsize
+Fiieeoariamu:::txtsize --> Cikerarsanccrs:::txtsize
+Cikerarsanccrs:::txtsize --> TahesegnipdoUstt:::txtsize
+Cikerarsanccrs:::txtsize --> TRssirilcehe:::txtsize
+Fiieeoariamu:::txtsize --> Uistggoevsnohnp:::txtsize
+Uistggoevsnohnp:::txtsize --> SelMasolirj:::txtsize
+Uistggoevsnohnp:::txtsize --> Masdeerxetanrog:::txtsize
 
-PeeBsauosa@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:11 AM_
-Prince andrew: the british royal brought down by scandal" }
-BiinguluY@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:26 AM_
-Britain’s prince andrew gives up title of duke of york" }
-Peeuaaaehatho@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:12 PM_
-Prince andrew accuser says he acted as if sex with her was ‘birthright’: memoir" }
-Ltdiruooscr@{ shape: win-pane, label: "_Published Dec 15, 2024, 08:55 PM_
-Latest scandal raises fresh questions about uk’s prince andrew" }
-CtnkheYvalJetuen@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:56 AM_
-Charities end links with duchess of york over e-mail calling jeffrey epstein ‘supreme friend’" }
-Peeuaaaehatho@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:12 PM_
-Prince andrew accuser says he acted as if sex with her was ‘birthright’: memoir" }
-Ltdiruooscr@{ shape: win-pane, label: "_Published Dec 15, 2024, 08:55 PM_
-Latest scandal raises fresh questions about uk’s prince andrew" }
-CtnkheYvalJetuen@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:56 AM_
-Charities end links with duchess of york over e-mail calling jeffrey epstein ‘supreme friend’" }
-Peeuaaaehatho@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:12 PM_
-Prince andrew accuser says he acted as if sex with her was ‘birthright’: memoir" }
-Ltdiruooscr@{ shape: win-pane, label: "_Published Dec 15, 2024, 08:55 PM_
-Latest scandal raises fresh questions about uk’s prince andrew" }
-SaPeekeloldey@{ shape: win-pane, label: "_Published Dec 14, 2024, 06:15 PM_
-Scandal-hit prince andrew back in the headlines over alleged chinese spy" }
-CsoeinbdBiaaur@{ shape: win-pane, label: "_Published Dec 13, 2024, 03:08 AM_
-Chinese associate of prince andrew banned from britain as national security risk" }
-CtnkheYvalJetuen@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:56 AM_
-Charities end links with duchess of york over e-mail calling jeffrey epstein ‘supreme friend’" }
-VmeeJetoisear@{ shape: win-pane, label: "_Published Sep 04, 2025, 02:07 AM_
-Victims of sex offender jeffrey epstein compiling list of sexual abusers" }
-PsbpnogssseTv@{ shape: win-pane, label: "_Published Sep 17, 2025, 07:09 AM_
-Protesters beam epstein video at england’s windsor castle before trump visit" }
+Ursrrsiyot@{ shape: win-pane, label: "_Published Oct 18, 2025, 10:18 AM_
+Us court bars nso group from installing spyware on whatsapp" }
+Igctwfirrd@{ shape: win-pane, label: "_Published Sep 03, 2025, 06:55 AM_
+Ice to gain access to spyware after biden order dropped" }
+MWAyapearttesans@{ shape: win-pane, label: "_Published Jan 31, 2025, 11:45 PM_
+Meta’s whatsapp says  israeli  spyware company paragon targeted users in several  countries" }
+Wnfclacoaesorfa@{ shape: win-pane, label: "_Published Nov 09, 2024, 09:59 AM_
+Washington financed colombia’s purchase of israeli pegasus spy software: us official" }
+IchnoaseItldot@{ shape: win-pane, label: "_Published Sep 02, 2025, 04:59 AM_
+In chicago, thousands protest against threat of ice, national guard deployment" }
+PitfSnerpnhok@{ shape: win-pane, label: "_Published Sep 01, 2025, 01:19 AM_
+Political stand-off in us intensifies over trump’s plan for chicago crackdown" }
+Cgoneercdh@{ shape: win-pane, label: "_Published Aug 31, 2025, 01:33 PM_
+Chicago mayor signs order to deter trump’s crackdown threat" }
+IardsretwsRr@{ shape: win-pane, label: "_Published Jul 22, 2025, 09:03 PM_
+Iranians targeted with spyware in lead-up to war with israel: research" }
+Bsccfrieftoitg@{ shape: win-pane, label: "_Published Jul 22, 2025, 07:52 PM_
+British man convicted of offering minister’s information to russian intelligence" }
+CbneaiolSee@{ shape: win-pane, label: "_Published Jul 22, 2025, 07:30 AM_
+China-born engineer pleads guilty to stealing us trade secrets" }
+SSomKoatAnlBs@{ shape: win-pane, label: "_Published Jul 18, 2025, 12:45 AM_
+Spies, sas troops among uk nationals affected by afghan data leak, bbc says" }
+Hirgripihaaado@{ shape: win-pane, label: "_Published Jul 19, 2025, 04:45 PM_
+How china’s growing cyber-hacking capabilities have raised alarm around the world" }
+Ccfrrpntbeiepm@{ shape: win-pane, label: "_Published Jul 18, 2025, 07:34 PM_
+Critical infrastructure in s’pore under attack by cyber espionage group: shanmugam" }
 
-PeeBsauosa:::txtsize --> BiinguluY:::txtsize
-BiinguluY:::txtsize --> Peeuaaaehatho:::txtsize
-Peeuaaaehatho:::txtsize --> Ltdiruooscr:::txtsize
-Peeuaaaehatho:::txtsize --> CtnkheYvalJetuen:::txtsize
-BiinguluY:::txtsize --> Peeuaaaehatho:::txtsize
-Peeuaaaehatho:::txtsize --> Ltdiruooscr:::txtsize
-Peeuaaaehatho:::txtsize --> CtnkheYvalJetuen:::txtsize
-PeeBsauosa:::txtsize --> Peeuaaaehatho:::txtsize
-Peeuaaaehatho:::txtsize --> Ltdiruooscr:::txtsize
-Ltdiruooscr:::txtsize --> SaPeekeloldey:::txtsize
-Ltdiruooscr:::txtsize --> CsoeinbdBiaaur:::txtsize
-Peeuaaaehatho:::txtsize --> CtnkheYvalJetuen:::txtsize
-CtnkheYvalJetuen:::txtsize --> VmeeJetoisear:::txtsize
-CtnkheYvalJetuen:::txtsize --> PsbpnogssseTv:::txtsize
+Ursrrsiyot:::txtsize --> Igctwfirrd:::txtsize
+Igctwfirrd:::txtsize --> MWAyapearttesans:::txtsize
+MWAyapearttesans:::txtsize --> Wnfclacoaesorfa:::txtsize
+Igctwfirrd:::txtsize --> IchnoaseItldot:::txtsize
+IchnoaseItldot:::txtsize --> PitfSnerpnhok:::txtsize
+IchnoaseItldot:::txtsize --> Cgoneercdh:::txtsize
+Ursrrsiyot:::txtsize --> IardsretwsRr:::txtsize
+IardsretwsRr:::txtsize --> Bsccfrieftoitg:::txtsize
+Bsccfrieftoitg:::txtsize --> CbneaiolSee:::txtsize
+Bsccfrieftoitg:::txtsize --> SSomKoatAnlBs:::txtsize
+IardsretwsRr:::txtsize --> Hirgripihaaado:::txtsize
+Hirgripihaaado:::txtsize --> Ccfrrpntbeiepm:::txtsize
 
 ```
-<i>Last updated: 2025-10-18 08:01:02.000485 (GMT+8)</i>
+<i>Last updated: 2025-10-18 12:00:31.546659 (GMT+8)</i>
 <!-- END -->
