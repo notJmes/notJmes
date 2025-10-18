@@ -16,132 +16,126 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tstliahstrobd@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:45 PM_
-Trump seeks to build a triumphal arch in washington for nation’s 250th birthday" }
-Thdreyrhoao@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:50 PM_
-Trump hosts dinner for wealthy donors to white house ballroom" }
-Ybalolmousu@{ shape: win-pane, label: "_Published Sep 30, 2025, 07:26 AM_
-Youtube to pay $28 million to settle trump account suspension suit" }
-Hrrreizsoop@{ shape: win-pane, label: "_Published Sep 20, 2025, 09:20 AM_
-Harvard’s former president criticizes its approach to trump" }
-TttCosneetsd@{ shape: win-pane, label: "_Published Sep 04, 2025, 10:43 AM_
-Trump to host tech ceos for first event in newly renovated rose garden" }
-Eeoigraceme@{ shape: win-pane, label: "_Published Aug 26, 2025, 07:50 PM_
-Eu asserts ‘sovereign right’ to regulate tech after trump threat" }
-Tvxctfilea@{ shape: win-pane, label: "_Published Aug 26, 2025, 10:22 AM_
-Trump vows export curbs, tariffs in digital tax reprisal" }
-Tbsliltaikr@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:32 AM_
-Trump brings the bling with gold-plated oval office makeover" }
-TdragnfitirsPd@{ shape: win-pane, label: "_Published Jan 21, 2025, 01:02 AM_
-Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
-Tpsrmtioutv@{ shape: win-pane, label: "_Published Jan 20, 2025, 05:54 AM_
-Trump promises harsh immigration limits on inauguration eve" }
-TttSecaaxhue@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:40 AM_
-Trump threatens us trade policy of ‘tariff and tax’ on other countries" }
-Unlyphaiogh@{ shape: win-pane, label: "_Published Mar 01, 2025, 01:48 AM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-TalytnretaWHsit@{ shape: win-pane, label: "_Published Mar 01, 2025, 02:44 AM_
-Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-YgitlIcsTZsaWH@{ shape: win-pane, label: "_Published Mar 01, 2025, 05:06 AM_
-‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
+ToieolJnirsirt@{ shape: win-pane, label: "_Published Oct 18, 2025, 07:41 PM_
+Trump officials weigh possible kim jong un meeting during asia trip, cnn reports" }
+NKsauweptlteetio@{ shape: win-pane, label: "_Published Oct 05, 2025, 06:06 AM_
+North korea’s kim says country will develop additional military measures, state media reports" }
+Csosrlydhni@{ shape: win-pane, label: "_Published Sep 03, 2025, 06:44 AM_
+China’s xi projects power at military parade with putin and kim" }
+IePwhrwhieelt@{ shape: win-pane, label: "_Published Sep 03, 2025, 08:15 AM_
+Indonesia’s prabowo pushes through with china visit despite deadly protests" }
+KoslstrnuhNKfr@{ shape: win-pane, label: "_Published Sep 03, 2025, 03:49 PM_
+Kim promises to help russia with ‘everything’ as putin thanks north korea for war aid" }
+NKsaornlhao@{ shape: win-pane, label: "_Published Sep 27, 2025, 06:03 AM_
+North korea’s kim calls for sharpening nuclear ‘shield and sword’" }
+Ucsdralosrresr@{ shape: win-pane, label: "_Published Sep 25, 2025, 10:48 PM_
+Us sanctions arms dealers, financial supporters of north korean weapons programme" }
+NKctenMcttleSKsa@{ shape: win-pane, label: "_Published Sep 26, 2025, 12:22 AM_
+North korea close to developing icbm that can hit us with nuclear weapon, south korea’s lee says" }
+SoinUtetn@{ shape: win-pane, label: "_Published Sep 27, 2025, 12:55 PM_
+Seoul official hints at us-north korea meeting in 2025" }
+Womskmrolduo@{ shape: win-pane, label: "_Published Sep 24, 2025, 11:00 AM_
+Will ‘fond memories’ spark a trump-kim reunion? analysts don’t rule it out" }
+NKclSsitncioJn@{ shape: win-pane, label: "_Published Sep 22, 2025, 06:26 AM_
+North korea can talk to us if it stops insisting on denuclearisation: kim jong un" }
+NKsinrsiosr@{ shape: win-pane, label: "_Published Sep 25, 2025, 04:37 PM_
+North korea’s foreign minister to visit china soon, says report" }
+NKsosesgtiirolA@{ shape: win-pane, label: "_Published Sep 23, 2025, 06:07 AM_
+North korea’s kim jong un says he will strengthen ties with china more vigorously: kcna" }
+CsrNKsraeco@{ shape: win-pane, label: "_Published Sep 20, 2025, 02:40 PM_
+China’s exports to north korea see first year-on-year decline of 2025" }
 
-Tstliahstrobd:::txtsize --> Thdreyrhoao:::txtsize
-Thdreyrhoao:::txtsize --> Ybalolmousu:::txtsize
-Ybalolmousu:::txtsize --> Hrrreizsoop:::txtsize
-Thdreyrhoao:::txtsize --> TttCosneetsd:::txtsize
-TttCosneetsd:::txtsize --> Eeoigraceme:::txtsize
-TttCosneetsd:::txtsize --> Tvxctfilea:::txtsize
-Tstliahstrobd:::txtsize --> Tbsliltaikr:::txtsize
-Tbsliltaikr:::txtsize --> TdragnfitirsPd:::txtsize
-TdragnfitirsPd:::txtsize --> Tpsrmtioutv:::txtsize
-TdragnfitirsPd:::txtsize --> TttSecaaxhue:::txtsize
-Tbsliltaikr:::txtsize --> Unlyphaiogh:::txtsize
-Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
-Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
+ToieolJnirsirt:::txtsize --> NKsauweptlteetio:::txtsize
+NKsauweptlteetio:::txtsize --> Csosrlydhni:::txtsize
+Csosrlydhni:::txtsize --> IePwhrwhieelt:::txtsize
+Csosrlydhni:::txtsize --> KoslstrnuhNKfr:::txtsize
+NKsauweptlteetio:::txtsize --> NKsaornlhao:::txtsize
+NKsaornlhao:::txtsize --> Ucsdralosrresr:::txtsize
+NKsaornlhao:::txtsize --> NKctenMcttleSKsa:::txtsize
+ToieolJnirsirt:::txtsize --> SoinUtetn:::txtsize
+SoinUtetn:::txtsize --> Womskmrolduo:::txtsize
+Womskmrolduo:::txtsize --> NKclSsitncioJn:::txtsize
+SoinUtetn:::txtsize --> NKsinrsiosr:::txtsize
+NKsinrsiosr:::txtsize --> NKsosesgtiirolA:::txtsize
+NKsinrsiosr:::txtsize --> CsrNKsraeco:::txtsize
 
-Iltshguo@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:27 PM_
-Israel identifies dead hostage returned on oct 17" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+Ucfesjetfea@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:55 PM_
+Un aid chief foresees ‘massive job’ ahead on tour of ruined gaza" }
+Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
+Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
+Israel marks oct 7 anniversary as talks are held to end gaza war" }
 NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
 Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
+Pgoihfcfge@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:53 AM_
+Pm wong welcomes first phase of gaza ceasefire agreement" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+SpeeamaeihfptGoc@{ shape: win-pane, label: "_Published Oct 09, 2025, 11:04 PM_
+Singapore welcomes israel-hamas deal to begin first phase of trump plan to end gaza conflict: mfa" }
+Iliebfhshnaieds@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:20 AM_
+Israel says it received body of another hostage held in gaza amid dispute over delays" }
 Hstmeaudrhga@{ shape: win-pane, label: "_Published Oct 17, 2025, 09:15 PM_
 Hamas says it is committed to gaza truce and returning hostage remains" }
 Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
 Hamas says it has handed over all hostage remains it can recover" }
 Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
 Trump says israel could resume fighting in gaza if hamas fails to disarm" }
-IlHhdbhnroe@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:54 PM_
-Israel says hamas handed over body that is not former hostage" }
+Hcewfkntrnucr@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:30 AM_
+Hamas carries out wave of gaza killings, citing crime and security concerns" }
+Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
+Hamas says it has handed over all hostage remains it can recover" }
 
-Iltshguo:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Iltshguo:::txtsize --> Hstmeaudrhga:::txtsize
+Ucfesjetfea:::txtsize --> Iliaeseoewa:::txtsize
+Iliaeseoewa:::txtsize --> TssHaossaaorslaoe:::txtsize
+TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
+TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
+Iliaeseoewa:::txtsize --> Pgoihfcfge:::txtsize
+Pgoihfcfge:::txtsize --> TssHaossaaorslaoe:::txtsize
+Pgoihfcfge:::txtsize --> SpeeamaeihfptGoc:::txtsize
+Ucfesjetfea:::txtsize --> Iliebfhshnaieds:::txtsize
+Iliebfhshnaieds:::txtsize --> Hstmeaudrhga:::txtsize
 Hstmeaudrhga:::txtsize --> Hstaoltesnv:::txtsize
-Hstaoltesnv:::txtsize --> Tsscretniali:::txtsize
-Hstaoltesnv:::txtsize --> IlHhdbhnroe:::txtsize
+Iliebfhshnaieds:::txtsize --> Tsscretniali:::txtsize
+Tsscretniali:::txtsize --> Hcewfkntrnucr:::txtsize
+Tsscretniali:::txtsize --> Hstaoltesnv:::txtsize
 
-Fhnideyfrne@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:16 PM_
-Frenchman in missing body case gets 30 years for murdering wife" }
-Jeniodeinmfui@{ shape: win-pane, label: "_Published Oct 09, 2025, 01:55 PM_
-Japanese man acquitted of 1966 murders seeks $5.1 million in damages from authorities" }
-Jpcbnofrhn@{ shape: win-pane, label: "_Published Nov 27, 2024, 05:11 PM_
-Japan prosecutor bows in apology to former death row inmate" }
-Lsveosatnni@{ shape: win-pane, label: "_Published Sep 26, 2024, 01:35 PM_
-Longest-serving death row prisoner acquitted in japan retrial" }
-Lsveoshatiyp@{ shape: win-pane, label: "_Published Sep 30, 2024, 07:02 PM_
-Longest-serving death row prisoner hails acquittal ‘victory’ in japan" }
-Jpcbnofrhn@{ shape: win-pane, label: "_Published Nov 27, 2024, 05:11 PM_
-Japan prosecutor bows in apology to former death row inmate" }
-Lsveosatnni@{ shape: win-pane, label: "_Published Sep 26, 2024, 01:35 PM_
-Longest-serving death row prisoner acquitted in japan retrial" }
-Lsveoshatiyp@{ shape: win-pane, label: "_Published Sep 30, 2024, 07:02 PM_
-Longest-serving death row prisoner hails acquittal ‘victory’ in japan" }
-AauodEasalin@{ shape: win-pane, label: "_Published Oct 02, 2025, 09:00 AM_
-Australia ‘mushroom murderer’ erin patterson to appeal conviction" }
-AauodEasioifs@{ shape: win-pane, label: "_Published Sep 08, 2025, 08:06 AM_
-Australia mushroom murderer erin patterson jailed for minimum of 33 years" }
-Aamorrgsdoaoud@{ shape: win-pane, label: "_Published Aug 08, 2025, 09:46 AM_
-Australian mushroom murderer allegedly served poisoned pasta to her husband" }
-Ssintintruluod@{ shape: win-pane, label: "_Published Jul 07, 2025, 02:03 PM_
-Sweet-smelling fungi with sinister name at centre of australia’s mushroom murders" }
-Aawfgyltuoda@{ shape: win-pane, label: "_Published Jul 07, 2025, 12:32 PM_
-Australian woman found guilty of all counts in mushroom murders case" }
-Aawiruceehlkde@{ shape: win-pane, label: "_Published Nov 03, 2023, 11:31 AM_
-Australian woman in court on murder charges after mushroom lunch killed three" }
-Aaaeuodepnussios@{ shape: win-pane, label: "_Published Jun 12, 2025, 12:03 PM_
-Australian accused of mushroom murders denies poisoning lunch as cross-examination ends" }
+NglxerlssneaT@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:06 PM_
+‘no kings’ rallies expected to draw millions across us in protest against trump" }
+TaSeuatdytcr@{ shape: win-pane, label: "_Published Oct 18, 2025, 05:41 AM_
+Trump asks us supreme court to allow troop deployment to chicago area" }
+Lgdraeevirns@{ shape: win-pane, label: "_Published Oct 16, 2025, 05:17 AM_
+Los angeles declares state of emergency over us immigration raids" }
+Ueoatldticanp@{ shape: win-pane, label: "_Published Oct 12, 2025, 10:51 AM_
+Us appeals court says national guard sent to illinois can stay, but not deploy" }
+CgrNnaornhetwrs@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:09 PM_
+Chicago ice raids, national guard troops prompt new school leaflets: ‘know your rights’" }
+AdnnpsuiralrWn@{ shape: win-pane, label: "_Published Jun 15, 2025, 06:04 AM_
+After day of nationwide protests, trump’s military parade rolls through washington" }
+Uinpnloooinaea@{ shape: win-pane, label: "_Published Jun 14, 2025, 11:15 PM_
+Us police hunt suspect in deadly shooting of democratic minnesota state lawmakers" }
+Mshnpoinmgies@{ shape: win-pane, label: "_Published Jun 15, 2025, 08:04 AM_
+Minnesota shooting suspect told friend in text message he might be dead soon" }
+TtttafryNgt@{ shape: win-pane, label: "_Published Jun 14, 2025, 03:40 PM_
+Trump to host military parade for birthday amid ‘no kings’ protests" }
+Melihfineeipe@{ shape: win-pane, label: "_Published Jun 14, 2025, 10:23 AM_
+Marines deployed in la ahead of possible ‘unprecedented’ anti-trump protests" }
+Mosthautvpsane@{ shape: win-pane, label: "_Published Jun 14, 2025, 10:16 AM_
+Mexico’s president says her flag should not fly over us protests that turn violent" }
 
-Fhnideyfrne:::txtsize --> Jeniodeinmfui:::txtsize
-Jeniodeinmfui:::txtsize --> Jpcbnofrhn:::txtsize
-Jpcbnofrhn:::txtsize --> Lsveosatnni:::txtsize
-Jpcbnofrhn:::txtsize --> Lsveoshatiyp:::txtsize
-Jeniodeinmfui:::txtsize --> Jpcbnofrhn:::txtsize
-Jpcbnofrhn:::txtsize --> Lsveosatnni:::txtsize
-Jpcbnofrhn:::txtsize --> Lsveoshatiyp:::txtsize
-Fhnideyfrne:::txtsize --> AauodEasalin:::txtsize
-AauodEasalin:::txtsize --> AauodEasioifs:::txtsize
-AauodEasioifs:::txtsize --> Aamorrgsdoaoud:::txtsize
-AauodEasioifs:::txtsize --> Ssintintruluod:::txtsize
-AauodEasalin:::txtsize --> Aawfgyltuoda:::txtsize
-Aawfgyltuoda:::txtsize --> Aawiruceehlkde:::txtsize
-Aawfgyltuoda:::txtsize --> Aaaeuodepnussios:::txtsize
+NglxerlssneaT:::txtsize --> TaSeuatdytcr:::txtsize
+TaSeuatdytcr:::txtsize --> Lgdraeevirns:::txtsize
+Lgdraeevirns:::txtsize --> Ueoatldticanp:::txtsize
+Lgdraeevirns:::txtsize --> CgrNnaornhetwrs:::txtsize
+NglxerlssneaT:::txtsize --> AdnnpsuiralrWn:::txtsize
+AdnnpsuiralrWn:::txtsize --> Uinpnloooinaea:::txtsize
+Uinpnloooinaea:::txtsize --> Mshnpoinmgies:::txtsize
+AdnnpsuiralrWn:::txtsize --> TtttafryNgt:::txtsize
+TtttafryNgt:::txtsize --> Melihfineeipe:::txtsize
+TtttafryNgt:::txtsize --> Mosthautvpsane:::txtsize
 
 ```
-<i>Last updated: 2025-10-18 16:00:57.700633 (GMT+8)</i>
+<i>Last updated: 2025-10-18 20:00:29.526841 (GMT+8)</i>
 <!-- END -->
