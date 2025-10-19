@@ -16,8 +16,36 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+EognrkdCraxc@{ shape: win-pane, label: "_Published Oct 20, 2025, 01:37 AM_
+Eu to hold urgent industry talks monday on china rare-earth export curbs" }
+Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
+China tightens rare earth export controls and targets defence, semiconductor users" }
+Whapira@{ shape: win-pane, label: "_Published Sep 14, 2025, 11:05 AM_
+Will the us catch up to china on rare earths?" }
+ChaUiipoleeh@{ shape: win-pane, label: "_Published Apr 05, 2025, 03:53 AM_
+China hits back at us tariffs with export controls on key rare earths" }
+Tpeoohunuserw@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:45 PM_
+Trump presses nato nations to halt russian oil purchases to end ukraine war" }
+
+EognrkdCraxc:::txtsize --> Ctertonsasnmdrs:::txtsize
+Ctertonsasnmdrs:::txtsize --> Whapira:::txtsize
+Whapira:::txtsize --> ChaUiipoleeh:::txtsize
+Whapira:::txtsize --> Tpeoohunuserw:::txtsize
+
 EkidrnsRade@{ shape: win-pane, label: "_Published Oct 19, 2025, 10:56 PM_
 Eu seeks maritime declaration to inspect russia’s ‘shadow fleet’" }
+Gotteigceilh@{ shape: win-pane, label: "_Published Oct 02, 2025, 06:29 AM_
+G-7 nations to target those continuing to increase russian oil purchases" }
+Ulitilsereos@{ shape: win-pane, label: "_Published Sep 27, 2025, 03:01 AM_
+Us tells india that russian oil curbs are key to trade deal progress" }
+TslfftiaeopU@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:05 PM_
+Trump’s doubling of tariffs hits india, damages relationship with us" }
+Tpeoohunuserw@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:45 PM_
+Trump presses nato nations to halt russian oil purchases to end ukraine war" }
+Tpeoohunuserw@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:45 PM_
+Trump presses nato nations to halt russian oil purchases to end ukraine war" }
+NouefpsfaPddr@{ shape: win-pane, label: "_Published Sep 13, 2025, 01:03 AM_
+Nato to beef up defence of europe’s eastern flank after poland shot down drones" }
 DhpnrecesGaieeew@{ shape: win-pane, label: "_Published Oct 19, 2025, 03:33 PM_
 Dark ship appearing to transfer sanctioned russia lng off malaysia, satellite images show" }
 Ucsassswt@{ shape: win-pane, label: "_Published Jul 21, 2025, 11:52 PM_
@@ -27,6 +55,12 @@ Stricken oil tankers show risks of russia’s ageing ‘shadow fleet’" }
 Bildiar@{ shape: win-pane, label: "_Published Jul 21, 2025, 10:45 PM_
 Britain calls for 50-day drive to arm ukraine" }
 
+EkidrnsRade:::txtsize --> Gotteigceilh:::txtsize
+Gotteigceilh:::txtsize --> Ulitilsereos:::txtsize
+Ulitilsereos:::txtsize --> TslfftiaeopU:::txtsize
+Ulitilsereos:::txtsize --> Tpeoohunuserw:::txtsize
+Gotteigceilh:::txtsize --> Tpeoohunuserw:::txtsize
+Tpeoohunuserw:::txtsize --> NouefpsfaPddr:::txtsize
 EkidrnsRade:::txtsize --> DhpnrecesGaieeew:::txtsize
 DhpnrecesGaieeew:::txtsize --> Ucsassswt:::txtsize
 Ucsassswt:::txtsize --> Skleokusnde:::txtsize
@@ -78,49 +112,6 @@ CbretcUiittlfiv:::txtsize --> Aoienempsiroins:::txtsize
 Aoienempsiroins:::txtsize --> TsSndhornl:::txtsize
 Aoienempsiroins:::txtsize --> Vufmaagbmur:::txtsize
 
-Nxnimeenebe@{ shape: win-pane, label: "_Published Oct 19, 2025, 06:44 PM_
-Nuns, ex-satanic priest among seven new saints created by pope leo" }
-UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
-Us cardinal prevost elected pope leo xiv, first american pontiff" }
-Arnclaenigi@{ shape: win-pane, label: "_Published May 09, 2025, 06:49 AM_
-A reformer and a reconciler: what pope leo’s new reign might bring" }
-Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
-Pope francis dies at age 88" }
-UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
-Us cardinal prevost elected pope leo xiv, first american pontiff" }
-IfarPeoselbia@{ shape: win-pane, label: "_Published May 09, 2025, 03:40 AM_
-In his first appearance, pope leo xiv offers three big clues about his papacy" }
-UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
-Us cardinal prevost elected pope leo xiv, first american pontiff" }
-Prsraoddsiasv@{ shape: win-pane, label: "_Published Apr 26, 2025, 09:05 AM_
-Pope francis’ funeral draws thousands, cardinal says his legacy must survive" }
-Gnnoflcsielta@{ shape: win-pane, label: "_Published Sep 07, 2025, 04:52 PM_
-‘god’s influencer’: pope officially declares italian teen carlo acutis a saint" }
-Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
-Pope francis dies at age 88" }
-Prsdafoaaos@{ shape: win-pane, label: "_Published Mar 23, 2025, 01:28 AM_
-Pope francis to be discharged from hospital on march 23, doctor says" }
-PrsrVaeessl@{ shape: win-pane, label: "_Published Mar 23, 2025, 07:19 PM_
-Pope francis returns to vatican after five weeks in hospital" }
-Plsholinnsie@{ shape: win-pane, label: "_Published May 23, 2024, 06:46 PM_
-Pope clears sainthood for italian millennial known as ‘god’s influencer’" }
-Vassooesnai@{ shape: win-pane, label: "_Published May 31, 2023, 05:55 AM_
-Vatican chastises bishops who stoke division on social media" }
-
-Nxnimeenebe:::txtsize --> UdPscooimat:::txtsize
-UdPscooimat:::txtsize --> Arnclaenigi:::txtsize
-Arnclaenigi:::txtsize --> Prsa:::txtsize
-Arnclaenigi:::txtsize --> UdPscooimat:::txtsize
-UdPscooimat:::txtsize --> IfarPeoselbia:::txtsize
-IfarPeoselbia:::txtsize --> UdPscooimat:::txtsize
-IfarPeoselbia:::txtsize --> Prsraoddsiasv:::txtsize
-Nxnimeenebe:::txtsize --> Gnnoflcsielta:::txtsize
-Gnnoflcsielta:::txtsize --> Prsa:::txtsize
-Prsa:::txtsize --> Prsdafoaaos:::txtsize
-Prsa:::txtsize --> PrsrVaeessl:::txtsize
-Gnnoflcsielta:::txtsize --> Plsholinnsie:::txtsize
-Plsholinnsie:::txtsize --> Vassooesnai:::txtsize
-
 ```
-<i>Last updated: 2025-10-20 00:00:43.171252 (GMT+8)</i>
+<i>Last updated: 2025-10-20 04:01:07.809459 (GMT+8)</i>
 <!-- END -->
