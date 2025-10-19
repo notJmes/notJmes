@@ -16,6 +16,31 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+UieLhicinshdr@{ shape: win-pane, label: "_Published Oct 19, 2025, 10:30 AM_
+Us police break up lego theft ring, recovering hundreds of beheaded figurines" }
+TafarLuloiir@{ shape: win-pane, label: "_Published Aug 09, 2025, 10:45 AM_
+Thousands of dollars’ worth of labubus stolen from california store" }
+TLufnyt@{ shape: win-pane, label: "_Published Jul 03, 2025, 08:05 AM_
+Their labubus are fake, and they do not care" }
+Luravfnwrhote@{ shape: win-pane, label: "_Published Jun 13, 2025, 06:54 PM_
+Labubu-maker pop mart diversifies into jewellery with new concept store" }
+Cstuicdnoun@{ shape: win-pane, label: "_Published May 27, 2025, 09:21 AM_
+Chinese customs authorities crack down on toy doll smuggling" }
+Medsbleapw@{ shape: win-pane, label: "_Published Jun 20, 2025, 03:35 PM_
+Monsters and memes: labubu dolls ride china soft-power wave" }
+Loibhttta@{ shape: win-pane, label: "_Published Dec 21, 2024, 10:00 AM_
+Life power list 2024: labubu, the must-have toy of the year" }
+CsmwnlossbeMhti@{ shape: win-pane, label: "_Published Jun 20, 2025, 10:48 AM_
+China state media warning on blind-box toys sends labubu maker pop mart shares tumbling" }
+
+UieLhicinshdr:::txtsize --> TafarLuloiir:::txtsize
+TafarLuloiir:::txtsize --> TLufnyt:::txtsize
+TLufnyt:::txtsize --> Luravfnwrhote:::txtsize
+TLufnyt:::txtsize --> Cstuicdnoun:::txtsize
+TafarLuloiir:::txtsize --> Medsbleapw:::txtsize
+Medsbleapw:::txtsize --> Loibhttta:::txtsize
+Medsbleapw:::txtsize --> CsmwnlossbeMhti:::txtsize
+
 Ptdaaemaarecko@{ shape: win-pane, label: "_Published Oct 19, 2025, 07:13 AM_
 Pakistan and afghanistan agree to immediate ceasefire after peace talks in doha" }
 Ansnishptafeh@{ shape: win-pane, label: "_Published Oct 18, 2025, 04:16 PM_
@@ -108,52 +133,6 @@ Tttoalatnpkn:::txtsize --> Hstaoltesnv:::txtsize
 Hstaoltesnv:::txtsize --> Tsscretniali:::txtsize
 Hstaoltesnv:::txtsize --> IlHhdbhnroe:::txtsize
 
-WYresemhiO@{ shape: win-pane, label: "_Published Oct 19, 2025, 06:06 AM_
-While you were sleeping: 5 stories you might have missed, oct 19, 2025" }
-NgtrrmasrTre@{ shape: win-pane, label: "_Published Oct 19, 2025, 03:25 AM_
-‘no kings’ protesters emerge en masse across us for anti-trump rallies" }
-NglxerlssneaT@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:06 PM_
-‘no kings’ rallies expected to draw millions across us in protest against trump" }
-TaSeuatdytcr@{ shape: win-pane, label: "_Published Oct 18, 2025, 05:41 AM_
-Trump asks us supreme court to allow troop deployment to chicago area" }
-AdnnpsuiralrWn@{ shape: win-pane, label: "_Published Jun 15, 2025, 06:04 AM_
-After day of nationwide protests, trump’s military parade rolls through washington" }
-WCikoeUst@{ shape: win-pane, label: "_Published Sep 11, 2025, 06:17 AM_
-Who is charlie kirk, the young hero of us conservatives?" }
-TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
-Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
-SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
-Dohiiahcassn@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:40 PM_
-Dark horse cheng li-wun wins leadership race of taiwan’s opposition kmt" }
-TcFreoelicosrna@{ shape: win-pane, label: "_Published Sep 11, 2025, 07:50 PM_
-‘tragic hero’: former taipei mayor ko wen-je plays victim card to milk support upon release" }
-Freorvimelaas@{ shape: win-pane, label: "_Published Dec 26, 2024, 11:39 AM_
-Former taipei mayor charged over bribery, misuse of political donations" }
-TniLpailtrtsc@{ shape: win-pane, label: "_Published Aug 12, 2025, 12:18 PM_
-Taiwan president lai’s approval rating at lowest after political setbacks" }
-Tniulmdctcene@{ shape: win-pane, label: "_Published Oct 10, 2025, 12:08 PM_
-Taiwan president unveils ‘t-dome’ air defence system to counter china threat" }
-TnsiiejleUm@{ shape: win-pane, label: "_Published Sep 17, 2025, 08:00 PM_
-Taiwan shows off first missile to be jointly made with us firm" }
-Tnnbzweirirah@{ shape: win-pane, label: "_Published Sep 18, 2025, 01:30 PM_
-Taiwan’s spending bonanza draws more foreign firms to its largest arms show" }
-
-WYresemhiO:::txtsize --> NgtrrmasrTre:::txtsize
-NgtrrmasrTre:::txtsize --> NglxerlssneaT:::txtsize
-NglxerlssneaT:::txtsize --> TaSeuatdytcr:::txtsize
-NglxerlssneaT:::txtsize --> AdnnpsuiralrWn:::txtsize
-NgtrrmasrTre:::txtsize --> WCikoeUst:::txtsize
-WCikoeUst:::txtsize --> TahesegnipdoUstt:::txtsize
-WCikoeUst:::txtsize --> SiUiinenWn:::txtsize
-WYresemhiO:::txtsize --> Dohiiahcassn:::txtsize
-Dohiiahcassn:::txtsize --> TcFreoelicosrna:::txtsize
-TcFreoelicosrna:::txtsize --> Freorvimelaas:::txtsize
-TcFreoelicosrna:::txtsize --> TniLpailtrtsc:::txtsize
-Dohiiahcassn:::txtsize --> Tniulmdctcene:::txtsize
-Tniulmdctcene:::txtsize --> TnsiiejleUm:::txtsize
-Tniulmdctcene:::txtsize --> Tnnbzweirirah:::txtsize
-
 ```
-<i>Last updated: 2025-10-19 08:00:58.438085 (GMT+8)</i>
+<i>Last updated: 2025-10-19 12:00:26.220269 (GMT+8)</i>
 <!-- END -->
