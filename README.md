@@ -16,6 +16,68 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+EkidrnsRade@{ shape: win-pane, label: "_Published Oct 19, 2025, 10:56 PM_
+Eu seeks maritime declaration to inspect russia’s ‘shadow fleet’" }
+DhpnrecesGaieeew@{ shape: win-pane, label: "_Published Oct 19, 2025, 03:33 PM_
+Dark ship appearing to transfer sanctioned russia lng off malaysia, satellite images show" }
+Ucsassswt@{ shape: win-pane, label: "_Published Jul 21, 2025, 11:52 PM_
+Uk sanctions 135 oil tankers in russia’s shadow fleet" }
+Skleokusnde@{ shape: win-pane, label: "_Published Dec 17, 2024, 03:10 AM_
+Stricken oil tankers show risks of russia’s ageing ‘shadow fleet’" }
+Bildiar@{ shape: win-pane, label: "_Published Jul 21, 2025, 10:45 PM_
+Britain calls for 50-day drive to arm ukraine" }
+
+EkidrnsRade:::txtsize --> DhpnrecesGaieeew:::txtsize
+DhpnrecesGaieeew:::txtsize --> Ucsassswt:::txtsize
+Ucsassswt:::txtsize --> Skleokusnde:::txtsize
+Ucsassswt:::txtsize --> Bildiar:::txtsize
+
+Tcftocndra@{ shape: win-pane, label: "_Published Oct 19, 2025, 09:41 PM_
+Trump cuts off aid to colombia, calling leader a drug dealer" }
+UeCbreiemaPtne@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:23 AM_
+Us to revoke colombian president’s visa over comments at pro-palestinian gathering" }
+WlrlilntoUySs@{ shape: win-pane, label: "_Published Sep 23, 2025, 03:40 AM_
+World leaders rally behind palestinian statehood at un, defying us and israel" }
+BvrsPtnegoaNi@{ shape: win-pane, label: "_Published Sep 21, 2025, 03:54 PM_
+Bereaved israelis urge palestinian state recognition ahead of un summit" }
+Sweiooaisteosa@{ shape: win-pane, label: "_Published Sep 22, 2025, 03:12 PM_
+S’pore will reconsider position on palestine if situation deteriorates: vivian" }
+Aoienempsiroins@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:00 AM_
+At un, colombian president urges ‘criminal process’ against trump for strikes on boats" }
+TsSndhornl@{ shape: win-pane, label: "_Published Sep 17, 2025, 01:05 AM_
+Trump says us has ‘knocked off’ three boats from venezuela" }
+Vufmaagbmur@{ shape: win-pane, label: "_Published Sep 21, 2025, 10:24 AM_
+Venezuela offers military training to public amid trump threats" }
+CbretcUiittlfiv@{ shape: win-pane, label: "_Published Sep 28, 2025, 09:18 AM_
+Colombian president petro accuses us of violating international law after visa revoked" }
+UeCbreiemaPtne@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:23 AM_
+Us to revoke colombian president’s visa over comments at pro-palestinian gathering" }
+WlrlilntoUySs@{ shape: win-pane, label: "_Published Sep 23, 2025, 03:40 AM_
+World leaders rally behind palestinian statehood at un, defying us and israel" }
+Aoienempsiroins@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:00 AM_
+At un, colombian president urges ‘criminal process’ against trump for strikes on boats" }
+Aoienempsiroins@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:00 AM_
+At un, colombian president urges ‘criminal process’ against trump for strikes on boats" }
+TsSndhornl@{ shape: win-pane, label: "_Published Sep 17, 2025, 01:05 AM_
+Trump says us has ‘knocked off’ three boats from venezuela" }
+Vufmaagbmur@{ shape: win-pane, label: "_Published Sep 21, 2025, 10:24 AM_
+Venezuela offers military training to public amid trump threats" }
+
+Tcftocndra:::txtsize --> UeCbreiemaPtne:::txtsize
+UeCbreiemaPtne:::txtsize --> WlrlilntoUySs:::txtsize
+WlrlilntoUySs:::txtsize --> BvrsPtnegoaNi:::txtsize
+WlrlilntoUySs:::txtsize --> Sweiooaisteosa:::txtsize
+UeCbreiemaPtne:::txtsize --> Aoienempsiroins:::txtsize
+Aoienempsiroins:::txtsize --> TsSndhornl:::txtsize
+Aoienempsiroins:::txtsize --> Vufmaagbmur:::txtsize
+Tcftocndra:::txtsize --> CbretcUiittlfiv:::txtsize
+CbretcUiittlfiv:::txtsize --> UeCbreiemaPtne:::txtsize
+UeCbreiemaPtne:::txtsize --> WlrlilntoUySs:::txtsize
+UeCbreiemaPtne:::txtsize --> Aoienempsiroins:::txtsize
+CbretcUiittlfiv:::txtsize --> Aoienempsiroins:::txtsize
+Aoienempsiroins:::txtsize --> TsSndhornl:::txtsize
+Aoienempsiroins:::txtsize --> Vufmaagbmur:::txtsize
+
 Nxnimeenebe@{ shape: win-pane, label: "_Published Oct 19, 2025, 06:44 PM_
 Nuns, ex-satanic priest among seven new saints created by pope leo" }
 UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
@@ -59,77 +121,6 @@ Prsa:::txtsize --> PrsrVaeessl:::txtsize
 Gnnoflcsielta:::txtsize --> Plsholinnsie:::txtsize
 Plsholinnsie:::txtsize --> Vassooesnai:::txtsize
 
-ZsglgtaRari@{ shape: win-pane, label: "_Published Oct 19, 2025, 06:27 PM_
-Zelensky urges allies against appeasing russia after us trip" }
-TtZsmdshlss@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:27 AM_
-Trump tells zelensky to ‘make a deal’ as tomahawk plea misfires" }
-Zseafrnouu@{ shape: win-pane, label: "_Published Oct 17, 2025, 10:31 PM_
-Zelensky seeks weapons from trump in shadow of putin summit" }
-Tttndtrttcke@{ shape: win-pane, label: "_Published Oct 16, 2025, 11:15 PM_
-Trump to meet putin in budapest after ‘great’ call to discuss ukraine" }
-Kisnpihniwbelds@{ shape: win-pane, label: "_Published Oct 17, 2025, 06:50 PM_
-Kremlin says putin-trump summit may happen within two weeks, but there’s a lot to do first" }
-Zsguerwkhds@{ shape: win-pane, label: "_Published Oct 11, 2025, 10:10 PM_
-Zelensky urges trump to end ukraine war like in ‘the middle east’" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Zsneitsdsit@{ shape: win-pane, label: "_Published Oct 11, 2024, 01:22 AM_
-Zelensky denies ceasefire with russia under discussion on trip" }
-Tsemunpogrnil@{ shape: win-pane, label: "_Published May 19, 2025, 10:54 PM_
-Trump says he will meet putin in budapest, touting progress in ukraine talks" }
-TPdtsUncamre@{ shape: win-pane, label: "_Published Aug 16, 2025, 03:43 AM_
-Trump-putin direct talks over ukraine conclude as summit stretches on" }
-Tweszaeiaoilst@{ shape: win-pane, label: "_Published Aug 15, 2025, 12:04 PM_
-Trump will seek to squeeze ukraine ceasefire deal out of putin at alaska summit" }
-Ddplee@{ shape: win-pane, label: "_Published Aug 15, 2025, 06:00 PM_
-Donald trump: nobel prize laureate?" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
-Peace finally descends on the middle east: now the battle to make it last begins" }
-
-ZsglgtaRari:::txtsize --> TtZsmdshlss:::txtsize
-TtZsmdshlss:::txtsize --> Zseafrnouu:::txtsize
-Zseafrnouu:::txtsize --> Tttndtrttcke:::txtsize
-Zseafrnouu:::txtsize --> Kisnpihniwbelds:::txtsize
-TtZsmdshlss:::txtsize --> Zsguerwkhds:::txtsize
-Zsguerwkhds:::txtsize --> TssHaossaaorslaoe:::txtsize
-Zsguerwkhds:::txtsize --> Zsneitsdsit:::txtsize
-ZsglgtaRari:::txtsize --> Tsemunpogrnil:::txtsize
-Tsemunpogrnil:::txtsize --> TPdtsUncamre:::txtsize
-TPdtsUncamre:::txtsize --> Tweszaeiaoilst:::txtsize
-TPdtsUncamre:::txtsize --> Ddplee:::txtsize
-Tsemunpogrnil:::txtsize --> Tdrcaaededlncbs:::txtsize
-Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
-
-BsioilPeeemcr@{ shape: win-pane, label: "_Published Oct 19, 2025, 06:21 PM_
-British police ‘looking into’ claims prince andrew tried to smear accuser" }
-BiingunluYteaas@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:26 AM_
-Britain’s prince andrew gives up using title of duke of york, still denies accusations" }
-Peeuaaaehatho@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:12 PM_
-Prince andrew accuser says he acted as if sex with her was ‘birthright’: memoir" }
-Ltdiruooscr@{ shape: win-pane, label: "_Published Dec 15, 2024, 08:55 PM_
-Latest scandal raises fresh questions about uk’s prince andrew" }
-CtnkheYvalJetuen@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:56 AM_
-Charities end links with duchess of york over e-mail calling jeffrey epstein ‘supreme friend’" }
-Peeuaaaehatho@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:12 PM_
-Prince andrew accuser says he acted as if sex with her was ‘birthright’: memoir" }
-Ltdiruooscr@{ shape: win-pane, label: "_Published Dec 15, 2024, 08:55 PM_
-Latest scandal raises fresh questions about uk’s prince andrew" }
-CtnkheYvalJetuen@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:56 AM_
-Charities end links with duchess of york over e-mail calling jeffrey epstein ‘supreme friend’" }
-Biinastiifeal@{ shape: win-pane, label: "_Published Feb 16, 2022, 12:22 AM_
-Britain's prince andrew agrees to settle virginia giuffre sex assault claim" }
-
-BsioilPeeemcr:::txtsize --> BiingunluYteaas:::txtsize
-BiingunluYteaas:::txtsize --> Peeuaaaehatho:::txtsize
-Peeuaaaehatho:::txtsize --> Ltdiruooscr:::txtsize
-Peeuaaaehatho:::txtsize --> CtnkheYvalJetuen:::txtsize
-BiingunluYteaas:::txtsize --> Peeuaaaehatho:::txtsize
-Peeuaaaehatho:::txtsize --> Ltdiruooscr:::txtsize
-Peeuaaaehatho:::txtsize --> CtnkheYvalJetuen:::txtsize
-BsioilPeeemcr:::txtsize --> Biinastiifeal:::txtsize
-
 ```
-<i>Last updated: 2025-10-19 20:01:18.009840 (GMT+8)</i>
+<i>Last updated: 2025-10-20 00:00:43.171252 (GMT+8)</i>
 <!-- END -->
