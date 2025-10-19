@@ -16,108 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-GaocSkiinemshna@{ shape: win-pane, label: "_Published Oct 19, 2025, 02:57 PM_
-Geneva schools kick out swiss kids living in france, where families find housing cheaper" }
-ShtyncwMlabtaw@{ shape: win-pane, label: "_Published Jul 24, 2023, 02:00 PM_
-Swiss hospitality business school with a michelin star, global outlook and no walls" }
-FnwoaassooEd@{ shape: win-pane, label: "_Published Jul 24, 2023, 02:00 PM_
-Fall in love with hospitality at this swiss school, become a ceo one day" }
-ShtyncwMlabtaw@{ shape: win-pane, label: "_Published Jul 24, 2023, 02:00 PM_
-Swiss hospitality business school with a michelin star, global outlook and no walls" }
-Srnopnniipskmr@{ shape: win-pane, label: "_Published Jul 20, 2023, 05:30 PM_
-Sit to recognise work experience in new initiative emphasising skills mastery" }
+Nxnimeenebe@{ shape: win-pane, label: "_Published Oct 19, 2025, 06:44 PM_
+Nuns, ex-satanic priest among seven new saints created by pope leo" }
+UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
+Us cardinal prevost elected pope leo xiv, first american pontiff" }
+Arnclaenigi@{ shape: win-pane, label: "_Published May 09, 2025, 06:49 AM_
+A reformer and a reconciler: what pope leo’s new reign might bring" }
+Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
+Pope francis dies at age 88" }
+UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
+Us cardinal prevost elected pope leo xiv, first american pontiff" }
+IfarPeoselbia@{ shape: win-pane, label: "_Published May 09, 2025, 03:40 AM_
+In his first appearance, pope leo xiv offers three big clues about his papacy" }
+UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
+Us cardinal prevost elected pope leo xiv, first american pontiff" }
+Prsraoddsiasv@{ shape: win-pane, label: "_Published Apr 26, 2025, 09:05 AM_
+Pope francis’ funeral draws thousands, cardinal says his legacy must survive" }
+Gnnoflcsielta@{ shape: win-pane, label: "_Published Sep 07, 2025, 04:52 PM_
+‘god’s influencer’: pope officially declares italian teen carlo acutis a saint" }
+Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
+Pope francis dies at age 88" }
+Prsdafoaaos@{ shape: win-pane, label: "_Published Mar 23, 2025, 01:28 AM_
+Pope francis to be discharged from hospital on march 23, doctor says" }
+PrsrVaeessl@{ shape: win-pane, label: "_Published Mar 23, 2025, 07:19 PM_
+Pope francis returns to vatican after five weeks in hospital" }
+Plsholinnsie@{ shape: win-pane, label: "_Published May 23, 2024, 06:46 PM_
+Pope clears sainthood for italian millennial known as ‘god’s influencer’" }
+Vassooesnai@{ shape: win-pane, label: "_Published May 31, 2023, 05:55 AM_
+Vatican chastises bishops who stoke division on social media" }
 
-GaocSkiinemshna:::txtsize --> ShtyncwMlabtaw:::txtsize
-ShtyncwMlabtaw:::txtsize --> FnwoaassooEd:::txtsize
-FnwoaassooEd:::txtsize --> ShtyncwMlabtaw:::txtsize
-FnwoaassooEd:::txtsize --> Srnopnniipskmr:::txtsize
+Nxnimeenebe:::txtsize --> UdPscooimat:::txtsize
+UdPscooimat:::txtsize --> Arnclaenigi:::txtsize
+Arnclaenigi:::txtsize --> Prsa:::txtsize
+Arnclaenigi:::txtsize --> UdPscooimat:::txtsize
+UdPscooimat:::txtsize --> IfarPeoselbia:::txtsize
+IfarPeoselbia:::txtsize --> UdPscooimat:::txtsize
+IfarPeoselbia:::txtsize --> Prsraoddsiasv:::txtsize
+Nxnimeenebe:::txtsize --> Gnnoflcsielta:::txtsize
+Gnnoflcsielta:::txtsize --> Prsa:::txtsize
+Prsa:::txtsize --> Prsdafoaaos:::txtsize
+Prsa:::txtsize --> PrsrVaeessl:::txtsize
+Gnnoflcsielta:::txtsize --> Plsholinnsie:::txtsize
+Plsholinnsie:::txtsize --> Vassooesnai:::txtsize
 
-Psfbgtos@{ shape: win-pane, label: "_Published Oct 19, 2025, 02:50 PM_
-Publishers fight back against us book bans" }
-Crolnitdipsw@{ shape: win-pane, label: "_Published Mar 18, 2023, 04:06 PM_
-Censorship or evolution? ‘sensitivity readers’ divide publishing world" }
-RDoetrenwssny@{ shape: win-pane, label: "_Published Feb 19, 2023, 05:59 PM_
-Roald dahl books rewritten to remove offensive words such as ‘fat’ and ‘ugly’" }
-Fioaaaulhsghae@{ shape: win-pane, label: "_Published Dec 29, 2022, 12:00 PM_
-Film picks: roald dahl’s matilda the musical, the whale, as though nothing happened" }
-SndhtseiRDbaunh@{ shape: win-pane, label: "_Published Feb 20, 2023, 04:40 PM_
-Salman rushdie, other authors slam rewriting of roald dahl’s books as ‘absurd censorship’" }
-RDoetrenwssny@{ shape: win-pane, label: "_Published Feb 19, 2023, 05:59 PM_
-Roald dahl books rewritten to remove offensive words such as ‘fat’ and ‘ugly’" }
-RDoetrenwssny@{ shape: win-pane, label: "_Published Feb 19, 2023, 05:59 PM_
-Roald dahl books rewritten to remove offensive words such as ‘fat’ and ‘ugly’" }
-Enllcrnasdree@{ shape: win-pane, label: "_Published Feb 21, 2023, 05:00 PM_
-Editing roald dahl: help children to navigate history, don’t try to rewrite it" }
-RDoetrenwssny@{ shape: win-pane, label: "_Published Feb 19, 2023, 05:59 PM_
-Roald dahl books rewritten to remove offensive words such as ‘fat’ and ‘ugly’" }
-Fioaaaulhsghae@{ shape: win-pane, label: "_Published Dec 29, 2022, 12:00 PM_
-Film picks: roald dahl’s matilda the musical, the whale, as though nothing happened" }
-SndhtseiRDbaunh@{ shape: win-pane, label: "_Published Feb 20, 2023, 04:40 PM_
-Salman rushdie, other authors slam rewriting of roald dahl’s books as ‘absurd censorship’" }
-RDoetrenwssny@{ shape: win-pane, label: "_Published Feb 19, 2023, 05:59 PM_
-Roald dahl books rewritten to remove offensive words such as ‘fat’ and ‘ugly’" }
-RDoetrenwssny@{ shape: win-pane, label: "_Published Feb 19, 2023, 05:59 PM_
-Roald dahl books rewritten to remove offensive words such as ‘fat’ and ‘ugly’" }
+ZsglgtaRari@{ shape: win-pane, label: "_Published Oct 19, 2025, 06:27 PM_
+Zelensky urges allies against appeasing russia after us trip" }
+TtZsmdshlss@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:27 AM_
+Trump tells zelensky to ‘make a deal’ as tomahawk plea misfires" }
+Zseafrnouu@{ shape: win-pane, label: "_Published Oct 17, 2025, 10:31 PM_
+Zelensky seeks weapons from trump in shadow of putin summit" }
+Tttndtrttcke@{ shape: win-pane, label: "_Published Oct 16, 2025, 11:15 PM_
+Trump to meet putin in budapest after ‘great’ call to discuss ukraine" }
+Kisnpihniwbelds@{ shape: win-pane, label: "_Published Oct 17, 2025, 06:50 PM_
+Kremlin says putin-trump summit may happen within two weeks, but there’s a lot to do first" }
+Zsguerwkhds@{ shape: win-pane, label: "_Published Oct 11, 2025, 10:10 PM_
+Zelensky urges trump to end ukraine war like in ‘the middle east’" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Zsneitsdsit@{ shape: win-pane, label: "_Published Oct 11, 2024, 01:22 AM_
+Zelensky denies ceasefire with russia under discussion on trip" }
+Tsemunpogrnil@{ shape: win-pane, label: "_Published May 19, 2025, 10:54 PM_
+Trump says he will meet putin in budapest, touting progress in ukraine talks" }
+TPdtsUncamre@{ shape: win-pane, label: "_Published Aug 16, 2025, 03:43 AM_
+Trump-putin direct talks over ukraine conclude as summit stretches on" }
+Tweszaeiaoilst@{ shape: win-pane, label: "_Published Aug 15, 2025, 12:04 PM_
+Trump will seek to squeeze ukraine ceasefire deal out of putin at alaska summit" }
+Ddplee@{ shape: win-pane, label: "_Published Aug 15, 2025, 06:00 PM_
+Donald trump: nobel prize laureate?" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
 
-Psfbgtos:::txtsize --> Crolnitdipsw:::txtsize
-Crolnitdipsw:::txtsize --> RDoetrenwssny:::txtsize
-RDoetrenwssny:::txtsize --> Fioaaaulhsghae:::txtsize
-Crolnitdipsw:::txtsize --> SndhtseiRDbaunh:::txtsize
-SndhtseiRDbaunh:::txtsize --> RDoetrenwssny:::txtsize
-SndhtseiRDbaunh:::txtsize --> RDoetrenwssny:::txtsize
-Psfbgtos:::txtsize --> Enllcrnasdree:::txtsize
-Enllcrnasdree:::txtsize --> RDoetrenwssny:::txtsize
-RDoetrenwssny:::txtsize --> Fioaaaulhsghae:::txtsize
-Enllcrnasdree:::txtsize --> SndhtseiRDbaunh:::txtsize
-SndhtseiRDbaunh:::txtsize --> RDoetrenwssny:::txtsize
-SndhtseiRDbaunh:::txtsize --> RDoetrenwssny:::txtsize
+ZsglgtaRari:::txtsize --> TtZsmdshlss:::txtsize
+TtZsmdshlss:::txtsize --> Zseafrnouu:::txtsize
+Zseafrnouu:::txtsize --> Tttndtrttcke:::txtsize
+Zseafrnouu:::txtsize --> Kisnpihniwbelds:::txtsize
+TtZsmdshlss:::txtsize --> Zsguerwkhds:::txtsize
+Zsguerwkhds:::txtsize --> TssHaossaaorslaoe:::txtsize
+Zsguerwkhds:::txtsize --> Zsneitsdsit:::txtsize
+ZsglgtaRari:::txtsize --> Tsemunpogrnil:::txtsize
+Tsemunpogrnil:::txtsize --> TPdtsUncamre:::txtsize
+TPdtsUncamre:::txtsize --> Tweszaeiaoilst:::txtsize
+TPdtsUncamre:::txtsize --> Ddplee:::txtsize
+Tsemunpogrnil:::txtsize --> Tdrcaaededlncbs:::txtsize
+Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
 
-Hnstnrshnumasc@{ shape: win-pane, label: "_Published Oct 19, 2025, 02:06 PM_
-‘he thinks he’s great, we don’t’: americans march against trump’s ‘imperial presidency’" }
-NgtrrmasrTre@{ shape: win-pane, label: "_Published Oct 19, 2025, 03:25 AM_
-‘no kings’ protesters emerge en masse across us for anti-trump rallies" }
-NglxerlssneaT@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:06 PM_
-‘no kings’ rallies expected to draw millions across us in protest against trump" }
-TaSeuatdytcr@{ shape: win-pane, label: "_Published Oct 18, 2025, 05:41 AM_
-Trump asks us supreme court to allow troop deployment to chicago area" }
-AdnnpsuiralrWn@{ shape: win-pane, label: "_Published Jun 15, 2025, 06:04 AM_
-After day of nationwide protests, trump’s military parade rolls through washington" }
-WCikoeUst@{ shape: win-pane, label: "_Published Sep 11, 2025, 06:17 AM_
-Who is charlie kirk, the young hero of us conservatives?" }
-TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
-Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
-SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
-TtttafryNgt@{ shape: win-pane, label: "_Published Jun 14, 2025, 03:40 PM_
-Trump to host military parade for birthday amid ‘no kings’ protests" }
-Melihfineeipe@{ shape: win-pane, label: "_Published Jun 14, 2025, 10:23 AM_
-Marines deployed in la ahead of possible ‘unprecedented’ anti-trump protests" }
-Ueieimntos@{ shape: win-pane, label: "_Published Jun 14, 2025, 07:55 AM_
-Us adversaries fuel disinformation about la protests" }
-Tstnshgaeild@{ shape: win-pane, label: "_Published Jun 11, 2025, 03:45 PM_
-Trump’s la intervention sets the stage for a bigger political showdown" }
-Mosthautvpsane@{ shape: win-pane, label: "_Published Jun 14, 2025, 10:16 AM_
-Mexico’s president says her flag should not fly over us protests that turn violent" }
-MogmgniAet@{ shape: win-pane, label: "_Published Jun 11, 2025, 10:03 AM_
-Mexico’s flag becomes lightning rod in los angeles protests" }
-Ueieimntos@{ shape: win-pane, label: "_Published Jun 14, 2025, 07:55 AM_
-Us adversaries fuel disinformation about la protests" }
+BsioilPeeemcr@{ shape: win-pane, label: "_Published Oct 19, 2025, 06:21 PM_
+British police ‘looking into’ claims prince andrew tried to smear accuser" }
+BiingunluYteaas@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:26 AM_
+Britain’s prince andrew gives up using title of duke of york, still denies accusations" }
+Peeuaaaehatho@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:12 PM_
+Prince andrew accuser says he acted as if sex with her was ‘birthright’: memoir" }
+Ltdiruooscr@{ shape: win-pane, label: "_Published Dec 15, 2024, 08:55 PM_
+Latest scandal raises fresh questions about uk’s prince andrew" }
+CtnkheYvalJetuen@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:56 AM_
+Charities end links with duchess of york over e-mail calling jeffrey epstein ‘supreme friend’" }
+Peeuaaaehatho@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:12 PM_
+Prince andrew accuser says he acted as if sex with her was ‘birthright’: memoir" }
+Ltdiruooscr@{ shape: win-pane, label: "_Published Dec 15, 2024, 08:55 PM_
+Latest scandal raises fresh questions about uk’s prince andrew" }
+CtnkheYvalJetuen@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:56 AM_
+Charities end links with duchess of york over e-mail calling jeffrey epstein ‘supreme friend’" }
+Biinastiifeal@{ shape: win-pane, label: "_Published Feb 16, 2022, 12:22 AM_
+Britain's prince andrew agrees to settle virginia giuffre sex assault claim" }
 
-Hnstnrshnumasc:::txtsize --> NgtrrmasrTre:::txtsize
-NgtrrmasrTre:::txtsize --> NglxerlssneaT:::txtsize
-NglxerlssneaT:::txtsize --> TaSeuatdytcr:::txtsize
-NglxerlssneaT:::txtsize --> AdnnpsuiralrWn:::txtsize
-NgtrrmasrTre:::txtsize --> WCikoeUst:::txtsize
-WCikoeUst:::txtsize --> TahesegnipdoUstt:::txtsize
-WCikoeUst:::txtsize --> SiUiinenWn:::txtsize
-Hnstnrshnumasc:::txtsize --> TtttafryNgt:::txtsize
-TtttafryNgt:::txtsize --> Melihfineeipe:::txtsize
-Melihfineeipe:::txtsize --> Ueieimntos:::txtsize
-Melihfineeipe:::txtsize --> Tstnshgaeild:::txtsize
-TtttafryNgt:::txtsize --> Mosthautvpsane:::txtsize
-Mosthautvpsane:::txtsize --> MogmgniAet:::txtsize
-Mosthautvpsane:::txtsize --> Ueieimntos:::txtsize
+BsioilPeeemcr:::txtsize --> BiingunluYteaas:::txtsize
+BiingunluYteaas:::txtsize --> Peeuaaaehatho:::txtsize
+Peeuaaaehatho:::txtsize --> Ltdiruooscr:::txtsize
+Peeuaaaehatho:::txtsize --> CtnkheYvalJetuen:::txtsize
+BiingunluYteaas:::txtsize --> Peeuaaaehatho:::txtsize
+Peeuaaaehatho:::txtsize --> Ltdiruooscr:::txtsize
+Peeuaaaehatho:::txtsize --> CtnkheYvalJetuen:::txtsize
+BsioilPeeemcr:::txtsize --> Biinastiifeal:::txtsize
 
 ```
-<i>Last updated: 2025-10-19 16:00:50.268741 (GMT+8)</i>
+<i>Last updated: 2025-10-19 20:01:18.009840 (GMT+8)</i>
 <!-- END -->
