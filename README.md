@@ -16,129 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-ArosiawrS@{ shape: win-pane, label: "_Published Oct 19, 2025, 03:25 AM_
-Anti-trump ‘no kings’ rallies draw crowds across us" }
+Ptdaaemaarecko@{ shape: win-pane, label: "_Published Oct 19, 2025, 07:13 AM_
+Pakistan and afghanistan agree to immediate ceasefire after peace talks in doha" }
+Ansnishptafeh@{ shape: win-pane, label: "_Published Oct 18, 2025, 04:16 PM_
+Afghan, pakistani negotiators in doha for peace talks after fierce clashes" }
+Ptgsxcfstsbse@{ shape: win-pane, label: "_Published Oct 18, 2025, 01:26 AM_
+Pakistan, afghanistan extend ceasefire as doha talks set to begin, sources say" }
+Ptyrflthtbstarkc@{ shape: win-pane, label: "_Published Oct 16, 2025, 09:45 PM_
+Pakistan says it’s ready for talks with afghanistan, kabul residents recall air strike shock" }
+Ptgsgootaffirk@{ shape: win-pane, label: "_Published Oct 15, 2025, 10:30 PM_
+Pakistan, afghanistan agree to temporary truce after fresh fighting, airstrike" }
+Ptyrflthtbstarkc@{ shape: win-pane, label: "_Published Oct 16, 2025, 09:45 PM_
+Pakistan says it’s ready for talks with afghanistan, kabul residents recall air strike shock" }
+CfaeAnnsin@{ shape: win-pane, label: "_Published Oct 16, 2025, 08:30 PM_
+Ceasefire halts deadly afghanistan-pakistan fighting" }
+Ptanmcalnwrts@{ shape: win-pane, label: "_Published Oct 11, 2025, 06:30 PM_
+Pakistani taliban claim attacks that killed 23 in north-western districts" }
+Noeknadlrneisp@{ shape: win-pane, label: "_Published Oct 15, 2025, 02:25 PM_
+New violence on pakistan-afghan border kills more than a dozen civilians, troops" }
+Ptrohtgoafiaa@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:35 PM_
+Pakistani troops on high alert on afghan border after fighting; trade at a halt" }
+Dseaahtabre@{ shape: win-pane, label: "_Published Oct 12, 2025, 03:19 PM_
+Dozens killed in pakistan-afghanistan clashes; border closed" }
+AnnionsiItlse@{ shape: win-pane, label: "_Published Oct 09, 2025, 02:28 PM_
+Afghanistan’s taliban foreign minister visits india to build closer ties" }
+CiyeaPtgslsiny@{ shape: win-pane, label: "_Published Oct 13, 2025, 05:39 PM_
+China is very concerned about pakistan-afghanistan clashes, foreign ministry says" }
+Dseaahtabre@{ shape: win-pane, label: "_Published Oct 12, 2025, 03:19 PM_
+Dozens killed in pakistan-afghanistan clashes; border closed" }
+Ptrohtgoafiaa@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:35 PM_
+Pakistani troops on high alert on afghan border after fighting; trade at a halt" }
+
+Ptdaaemaarecko:::txtsize --> Ansnishptafeh:::txtsize
+Ansnishptafeh:::txtsize --> Ptgsxcfstsbse:::txtsize
+Ptgsxcfstsbse:::txtsize --> Ptyrflthtbstarkc:::txtsize
+Ptgsxcfstsbse:::txtsize --> Ptgsgootaffirk:::txtsize
+Ansnishptafeh:::txtsize --> Ptyrflthtbstarkc:::txtsize
+Ptyrflthtbstarkc:::txtsize --> CfaeAnnsin:::txtsize
+Ptyrflthtbstarkc:::txtsize --> Ptanmcalnwrts:::txtsize
+Ptdaaemaarecko:::txtsize --> Noeknadlrneisp:::txtsize
+Noeknadlrneisp:::txtsize --> Ptrohtgoafiaa:::txtsize
+Ptrohtgoafiaa:::txtsize --> Dseaahtabre:::txtsize
+Ptrohtgoafiaa:::txtsize --> AnnionsiItlse:::txtsize
+Noeknadlrneisp:::txtsize --> CiyeaPtgslsiny:::txtsize
+CiyeaPtgslsiny:::txtsize --> Dseaahtabre:::txtsize
+CiyeaPtgslsiny:::txtsize --> Ptrohtgoafiaa:::txtsize
+
+Usiessntasal@{ shape: win-pane, label: "_Published Oct 19, 2025, 07:02 AM_
+Us says ‘credible reports’ hamas planning attack against gaza civilians" }
+Hfeggncitfe@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:10 PM_
+Hamas fighters tighten grip in gaza, clouding future of ceasefire" }
+TsogrrsiPtnesiais@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:25 PM_
+Trump says ‘long nightmare’ over for israelis and palestinians, receives standing ovation in knesset" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Hholissrrazo@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:47 PM_
+Hamas hands over all living hostages to israel; trump says gaza war over" }
+TtvriMe@{ shape: win-pane, label: "_Published Oct 14, 2025, 06:20 AM_
+Trump takes victory lap in the middle east" }
+TsogrrsiPtnesiais@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:25 PM_
+Trump says ‘long nightmare’ over for israelis and palestinians, receives standing ovation in knesset" }
+Thtndrltasact@{ shape: win-pane, label: "_Published Oct 14, 2025, 01:41 AM_
+Trump hails ‘tremendous day for middle east’ as leaders sign gaza declaration" }
+Tttoalatnpkn@{ shape: win-pane, label: "_Published Oct 17, 2025, 02:21 AM_
+Trump threatens to ‘go in and kill’ hamas if it doesn’t stop gaza killings" }
+Thtndrltasact@{ shape: win-pane, label: "_Published Oct 14, 2025, 01:41 AM_
+Trump hails ‘tremendous day for middle east’ as leaders sign gaza declaration" }
+TsogrrsiPtnesiais@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:25 PM_
+Trump says ‘long nightmare’ over for israelis and palestinians, receives standing ovation in knesset" }
+TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
+Tears, joy in israel as hamas hands over first hostages" }
+Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
+Hamas says it has handed over all hostage remains it can recover" }
+Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
+Trump says israel could resume fighting in gaza if hamas fails to disarm" }
+IlHhdbhnroe@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:54 PM_
+Israel says hamas handed over body that is not former hostage" }
+
+Usiessntasal:::txtsize --> Hfeggncitfe:::txtsize
+Hfeggncitfe:::txtsize --> TsogrrsiPtnesiais:::txtsize
+TsogrrsiPtnesiais:::txtsize --> TssHaossaaorslaoe:::txtsize
+TsogrrsiPtnesiais:::txtsize --> Hholissrrazo:::txtsize
+Hfeggncitfe:::txtsize --> TtvriMe:::txtsize
+TtvriMe:::txtsize --> TsogrrsiPtnesiais:::txtsize
+TtvriMe:::txtsize --> Thtndrltasact:::txtsize
+Usiessntasal:::txtsize --> Tttoalatnpkn:::txtsize
+Tttoalatnpkn:::txtsize --> Thtndrltasact:::txtsize
+Thtndrltasact:::txtsize --> TsogrrsiPtnesiais:::txtsize
+Thtndrltasact:::txtsize --> TjIlmnest:::txtsize
+Tttoalatnpkn:::txtsize --> Hstaoltesnv:::txtsize
+Hstaoltesnv:::txtsize --> Tsscretniali:::txtsize
+Hstaoltesnv:::txtsize --> IlHhdbhnroe:::txtsize
+
+WYresemhiO@{ shape: win-pane, label: "_Published Oct 19, 2025, 06:06 AM_
+While you were sleeping: 5 stories you might have missed, oct 19, 2025" }
+NgtrrmasrTre@{ shape: win-pane, label: "_Published Oct 19, 2025, 03:25 AM_
+‘no kings’ protesters emerge en masse across us for anti-trump rallies" }
+NglxerlssneaT@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:06 PM_
+‘no kings’ rallies expected to draw millions across us in protest against trump" }
+TaSeuatdytcr@{ shape: win-pane, label: "_Published Oct 18, 2025, 05:41 AM_
+Trump asks us supreme court to allow troop deployment to chicago area" }
 AdnnpsuiralrWn@{ shape: win-pane, label: "_Published Jun 15, 2025, 06:04 AM_
 After day of nationwide protests, trump’s military parade rolls through washington" }
-Uinpnloooinaea@{ shape: win-pane, label: "_Published Jun 14, 2025, 11:15 PM_
-Us police hunt suspect in deadly shooting of democratic minnesota state lawmakers" }
-Mshnpoinmgies@{ shape: win-pane, label: "_Published Jun 15, 2025, 08:04 AM_
-Minnesota shooting suspect told friend in text message he might be dead soon" }
-TtttafryNgt@{ shape: win-pane, label: "_Published Jun 14, 2025, 03:40 PM_
-Trump to host military parade for birthday amid ‘no kings’ protests" }
-Melihfineeipe@{ shape: win-pane, label: "_Published Jun 14, 2025, 10:23 AM_
-Marines deployed in la ahead of possible ‘unprecedented’ anti-trump protests" }
-Mosthautvpsane@{ shape: win-pane, label: "_Published Jun 14, 2025, 10:16 AM_
-Mexico’s president says her flag should not fly over us protests that turn violent" }
 WCikoeUst@{ shape: win-pane, label: "_Published Sep 11, 2025, 06:17 AM_
 Who is charlie kirk, the young hero of us conservatives?" }
 TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
 Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
-VsaKsirayce@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:59 AM_
-Videos of charlie kirk’s shooting spread rapidly on social media" }
 SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
 Storming of us capitol: timeline of key events in washington" }
-peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
-4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
+Dohiiahcassn@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:40 PM_
+Dark horse cheng li-wun wins leadership race of taiwan’s opposition kmt" }
+TcFreoelicosrna@{ shape: win-pane, label: "_Published Sep 11, 2025, 07:50 PM_
+‘tragic hero’: former taipei mayor ko wen-je plays victim card to milk support upon release" }
+Freorvimelaas@{ shape: win-pane, label: "_Published Dec 26, 2024, 11:39 AM_
+Former taipei mayor charged over bribery, misuse of political donations" }
+TniLpailtrtsc@{ shape: win-pane, label: "_Published Aug 12, 2025, 12:18 PM_
+Taiwan president lai’s approval rating at lowest after political setbacks" }
+Tniulmdctcene@{ shape: win-pane, label: "_Published Oct 10, 2025, 12:08 PM_
+Taiwan president unveils ‘t-dome’ air defence system to counter china threat" }
+TnsiiejleUm@{ shape: win-pane, label: "_Published Sep 17, 2025, 08:00 PM_
+Taiwan shows off first missile to be jointly made with us firm" }
+Tnnbzweirirah@{ shape: win-pane, label: "_Published Sep 18, 2025, 01:30 PM_
+Taiwan’s spending bonanza draws more foreign firms to its largest arms show" }
 
-ArosiawrS:::txtsize --> AdnnpsuiralrWn:::txtsize
-AdnnpsuiralrWn:::txtsize --> Uinpnloooinaea:::txtsize
-Uinpnloooinaea:::txtsize --> Mshnpoinmgies:::txtsize
-AdnnpsuiralrWn:::txtsize --> TtttafryNgt:::txtsize
-TtttafryNgt:::txtsize --> Melihfineeipe:::txtsize
-TtttafryNgt:::txtsize --> Mosthautvpsane:::txtsize
-ArosiawrS:::txtsize --> WCikoeUst:::txtsize
+WYresemhiO:::txtsize --> NgtrrmasrTre:::txtsize
+NgtrrmasrTre:::txtsize --> NglxerlssneaT:::txtsize
+NglxerlssneaT:::txtsize --> TaSeuatdytcr:::txtsize
+NglxerlssneaT:::txtsize --> AdnnpsuiralrWn:::txtsize
+NgtrrmasrTre:::txtsize --> WCikoeUst:::txtsize
 WCikoeUst:::txtsize --> TahesegnipdoUstt:::txtsize
-TahesegnipdoUstt:::txtsize --> VsaKsirayce:::txtsize
 WCikoeUst:::txtsize --> SiUiinenWn:::txtsize
-SiUiinenWn:::txtsize --> peapubmalrest:::txtsize
-
-Uisfiysrw@{ shape: win-pane, label: "_Published Oct 19, 2025, 02:53 AM_
-Us military’s live fire display shuts major freeway" }
-NglxerlssneaT@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:06 PM_
-‘no kings’ rallies expected to draw millions across us in protest against trump" }
-TaSeuatdytcr@{ shape: win-pane, label: "_Published Oct 18, 2025, 05:41 AM_
-Trump asks us supreme court to allow troop deployment to chicago area" }
-Lgdraeevirns@{ shape: win-pane, label: "_Published Oct 16, 2025, 05:17 AM_
-Los angeles declares state of emergency over us immigration raids" }
-AdnnpsuiralrWn@{ shape: win-pane, label: "_Published Jun 15, 2025, 06:04 AM_
-After day of nationwide protests, trump’s military parade rolls through washington" }
-Uinpnloooinaea@{ shape: win-pane, label: "_Published Jun 14, 2025, 11:15 PM_
-Us police hunt suspect in deadly shooting of democratic minnesota state lawmakers" }
-TtttafryNgt@{ shape: win-pane, label: "_Published Jun 14, 2025, 03:40 PM_
-Trump to host military parade for birthday amid ‘no kings’ protests" }
-ArfKpsaTsicrm@{ shape: win-pane, label: "_Published Oct 19, 2025, 12:51 AM_
-As us braces for ‘no kings’ protests against trump, surveillance worries emerge" }
-NglxerlssneaT@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:06 PM_
-‘no kings’ rallies expected to draw millions across us in protest against trump" }
-TaSeuatdytcr@{ shape: win-pane, label: "_Published Oct 18, 2025, 05:41 AM_
-Trump asks us supreme court to allow troop deployment to chicago area" }
-AdnnpsuiralrWn@{ shape: win-pane, label: "_Published Jun 15, 2025, 06:04 AM_
-After day of nationwide protests, trump’s military parade rolls through washington" }
-Wnbdrnrnfekcxo@{ shape: win-pane, label: "_Published Jan 14, 2025, 07:08 PM_
-Washington braced for trump inauguration with fortress-like fencing, extra police" }
-FvggfoiOncasii@{ shape: win-pane, label: "_Published Jan 02, 2025, 03:50 AM_
-Fbi investigating ‘act of terrorism’ in new orleans truck attack; suspect identified" }
-
-Uisfiysrw:::txtsize --> NglxerlssneaT:::txtsize
-NglxerlssneaT:::txtsize --> TaSeuatdytcr:::txtsize
-TaSeuatdytcr:::txtsize --> Lgdraeevirns:::txtsize
-NglxerlssneaT:::txtsize --> AdnnpsuiralrWn:::txtsize
-AdnnpsuiralrWn:::txtsize --> Uinpnloooinaea:::txtsize
-AdnnpsuiralrWn:::txtsize --> TtttafryNgt:::txtsize
-Uisfiysrw:::txtsize --> ArfKpsaTsicrm:::txtsize
-ArfKpsaTsicrm:::txtsize --> NglxerlssneaT:::txtsize
-NglxerlssneaT:::txtsize --> TaSeuatdytcr:::txtsize
-NglxerlssneaT:::txtsize --> AdnnpsuiralrWn:::txtsize
-ArfKpsaTsicrm:::txtsize --> Wnbdrnrnfekcxo:::txtsize
-Wnbdrnrnfekcxo:::txtsize --> FvggfoiOncasii:::txtsize
-
-IlRciauitorn@{ shape: win-pane, label: "_Published Oct 19, 2025, 12:53 AM_
-Israel says rafah crossing stays shut until hostage bodies returned" }
-GRbrsoeceibips@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:21 PM_
-Gaza’s rafah border crossing to reopen on oct 20, palestinian embassy in egypt says" }
-Ulfezsrda@{ shape: win-pane, label: "_Published Aug 22, 2025, 03:02 PM_
-Un declares famine in gaza; first ever in middle east" }
-Ilgqielfrn@{ shape: win-pane, label: "_Published Jul 29, 2025, 06:14 PM_
-Israelis begin to question the morality of their war in gaza" }
-Ilbeagssayenaa@{ shape: win-pane, label: "_Published Aug 18, 2025, 03:50 PM_
-Israel deliberately starving gaza’s palestinians, says amnesty international" }
-Ucfesjetfea@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:55 PM_
-Un aid chief foresees ‘massive job’ ahead on tour of ruined gaza" }
-Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
-Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
-Iliebfhshnaieds@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:20 AM_
-Israel says it received body of another hostage held in gaza amid dispute over delays" }
-Ucfesjetfea@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:55 PM_
-Un aid chief foresees ‘massive job’ ahead on tour of ruined gaza" }
-Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
-Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Pgoihfcfge@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:53 AM_
-Pm wong welcomes first phase of gaza ceasefire agreement" }
-Iliebfhshnaieds@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:20 AM_
-Israel says it received body of another hostage held in gaza amid dispute over delays" }
-Hstmeaudrhga@{ shape: win-pane, label: "_Published Oct 17, 2025, 09:15 PM_
-Hamas says it is committed to gaza truce and returning hostage remains" }
-Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
-Trump says israel could resume fighting in gaza if hamas fails to disarm" }
-
-IlRciauitorn:::txtsize --> GRbrsoeceibips:::txtsize
-GRbrsoeceibips:::txtsize --> Ulfezsrda:::txtsize
-Ulfezsrda:::txtsize --> Ilgqielfrn:::txtsize
-Ulfezsrda:::txtsize --> Ilbeagssayenaa:::txtsize
-GRbrsoeceibips:::txtsize --> Ucfesjetfea:::txtsize
-Ucfesjetfea:::txtsize --> Iliaeseoewa:::txtsize
-Ucfesjetfea:::txtsize --> Iliebfhshnaieds:::txtsize
-IlRciauitorn:::txtsize --> Ucfesjetfea:::txtsize
-Ucfesjetfea:::txtsize --> Iliaeseoewa:::txtsize
-Iliaeseoewa:::txtsize --> TssHaossaaorslaoe:::txtsize
-Iliaeseoewa:::txtsize --> Pgoihfcfge:::txtsize
-Ucfesjetfea:::txtsize --> Iliebfhshnaieds:::txtsize
-Iliebfhshnaieds:::txtsize --> Hstmeaudrhga:::txtsize
-Iliebfhshnaieds:::txtsize --> Tsscretniali:::txtsize
+WYresemhiO:::txtsize --> Dohiiahcassn:::txtsize
+Dohiiahcassn:::txtsize --> TcFreoelicosrna:::txtsize
+TcFreoelicosrna:::txtsize --> Freorvimelaas:::txtsize
+TcFreoelicosrna:::txtsize --> TniLpailtrtsc:::txtsize
+Dohiiahcassn:::txtsize --> Tniulmdctcene:::txtsize
+Tniulmdctcene:::txtsize --> TnsiiejleUm:::txtsize
+Tniulmdctcene:::txtsize --> Tnnbzweirirah:::txtsize
 
 ```
-<i>Last updated: 2025-10-19 04:00:30.810043 (GMT+8)</i>
+<i>Last updated: 2025-10-19 08:00:58.438085 (GMT+8)</i>
 <!-- END -->
