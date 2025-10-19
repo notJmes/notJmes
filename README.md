@@ -16,123 +16,108 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-UieLhicinshdr@{ shape: win-pane, label: "_Published Oct 19, 2025, 10:30 AM_
-Us police break up lego theft ring, recovering hundreds of beheaded figurines" }
-TafarLuloiir@{ shape: win-pane, label: "_Published Aug 09, 2025, 10:45 AM_
-Thousands of dollars’ worth of labubus stolen from california store" }
-TLufnyt@{ shape: win-pane, label: "_Published Jul 03, 2025, 08:05 AM_
-Their labubus are fake, and they do not care" }
-Luravfnwrhote@{ shape: win-pane, label: "_Published Jun 13, 2025, 06:54 PM_
-Labubu-maker pop mart diversifies into jewellery with new concept store" }
-Cstuicdnoun@{ shape: win-pane, label: "_Published May 27, 2025, 09:21 AM_
-Chinese customs authorities crack down on toy doll smuggling" }
-Medsbleapw@{ shape: win-pane, label: "_Published Jun 20, 2025, 03:35 PM_
-Monsters and memes: labubu dolls ride china soft-power wave" }
-Loibhttta@{ shape: win-pane, label: "_Published Dec 21, 2024, 10:00 AM_
-Life power list 2024: labubu, the must-have toy of the year" }
-CsmwnlossbeMhti@{ shape: win-pane, label: "_Published Jun 20, 2025, 10:48 AM_
-China state media warning on blind-box toys sends labubu maker pop mart shares tumbling" }
+GaocSkiinemshna@{ shape: win-pane, label: "_Published Oct 19, 2025, 02:57 PM_
+Geneva schools kick out swiss kids living in france, where families find housing cheaper" }
+ShtyncwMlabtaw@{ shape: win-pane, label: "_Published Jul 24, 2023, 02:00 PM_
+Swiss hospitality business school with a michelin star, global outlook and no walls" }
+FnwoaassooEd@{ shape: win-pane, label: "_Published Jul 24, 2023, 02:00 PM_
+Fall in love with hospitality at this swiss school, become a ceo one day" }
+ShtyncwMlabtaw@{ shape: win-pane, label: "_Published Jul 24, 2023, 02:00 PM_
+Swiss hospitality business school with a michelin star, global outlook and no walls" }
+Srnopnniipskmr@{ shape: win-pane, label: "_Published Jul 20, 2023, 05:30 PM_
+Sit to recognise work experience in new initiative emphasising skills mastery" }
 
-UieLhicinshdr:::txtsize --> TafarLuloiir:::txtsize
-TafarLuloiir:::txtsize --> TLufnyt:::txtsize
-TLufnyt:::txtsize --> Luravfnwrhote:::txtsize
-TLufnyt:::txtsize --> Cstuicdnoun:::txtsize
-TafarLuloiir:::txtsize --> Medsbleapw:::txtsize
-Medsbleapw:::txtsize --> Loibhttta:::txtsize
-Medsbleapw:::txtsize --> CsmwnlossbeMhti:::txtsize
+GaocSkiinemshna:::txtsize --> ShtyncwMlabtaw:::txtsize
+ShtyncwMlabtaw:::txtsize --> FnwoaassooEd:::txtsize
+FnwoaassooEd:::txtsize --> ShtyncwMlabtaw:::txtsize
+FnwoaassooEd:::txtsize --> Srnopnniipskmr:::txtsize
 
-Ptdaaemaarecko@{ shape: win-pane, label: "_Published Oct 19, 2025, 07:13 AM_
-Pakistan and afghanistan agree to immediate ceasefire after peace talks in doha" }
-Ansnishptafeh@{ shape: win-pane, label: "_Published Oct 18, 2025, 04:16 PM_
-Afghan, pakistani negotiators in doha for peace talks after fierce clashes" }
-Ptgsxcfstsbse@{ shape: win-pane, label: "_Published Oct 18, 2025, 01:26 AM_
-Pakistan, afghanistan extend ceasefire as doha talks set to begin, sources say" }
-Ptyrflthtbstarkc@{ shape: win-pane, label: "_Published Oct 16, 2025, 09:45 PM_
-Pakistan says it’s ready for talks with afghanistan, kabul residents recall air strike shock" }
-Ptgsgootaffirk@{ shape: win-pane, label: "_Published Oct 15, 2025, 10:30 PM_
-Pakistan, afghanistan agree to temporary truce after fresh fighting, airstrike" }
-Ptyrflthtbstarkc@{ shape: win-pane, label: "_Published Oct 16, 2025, 09:45 PM_
-Pakistan says it’s ready for talks with afghanistan, kabul residents recall air strike shock" }
-CfaeAnnsin@{ shape: win-pane, label: "_Published Oct 16, 2025, 08:30 PM_
-Ceasefire halts deadly afghanistan-pakistan fighting" }
-Ptanmcalnwrts@{ shape: win-pane, label: "_Published Oct 11, 2025, 06:30 PM_
-Pakistani taliban claim attacks that killed 23 in north-western districts" }
-Noeknadlrneisp@{ shape: win-pane, label: "_Published Oct 15, 2025, 02:25 PM_
-New violence on pakistan-afghan border kills more than a dozen civilians, troops" }
-Ptrohtgoafiaa@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:35 PM_
-Pakistani troops on high alert on afghan border after fighting; trade at a halt" }
-Dseaahtabre@{ shape: win-pane, label: "_Published Oct 12, 2025, 03:19 PM_
-Dozens killed in pakistan-afghanistan clashes; border closed" }
-AnnionsiItlse@{ shape: win-pane, label: "_Published Oct 09, 2025, 02:28 PM_
-Afghanistan’s taliban foreign minister visits india to build closer ties" }
-CiyeaPtgslsiny@{ shape: win-pane, label: "_Published Oct 13, 2025, 05:39 PM_
-China is very concerned about pakistan-afghanistan clashes, foreign ministry says" }
-Dseaahtabre@{ shape: win-pane, label: "_Published Oct 12, 2025, 03:19 PM_
-Dozens killed in pakistan-afghanistan clashes; border closed" }
-Ptrohtgoafiaa@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:35 PM_
-Pakistani troops on high alert on afghan border after fighting; trade at a halt" }
+Psfbgtos@{ shape: win-pane, label: "_Published Oct 19, 2025, 02:50 PM_
+Publishers fight back against us book bans" }
+Crolnitdipsw@{ shape: win-pane, label: "_Published Mar 18, 2023, 04:06 PM_
+Censorship or evolution? ‘sensitivity readers’ divide publishing world" }
+RDoetrenwssny@{ shape: win-pane, label: "_Published Feb 19, 2023, 05:59 PM_
+Roald dahl books rewritten to remove offensive words such as ‘fat’ and ‘ugly’" }
+Fioaaaulhsghae@{ shape: win-pane, label: "_Published Dec 29, 2022, 12:00 PM_
+Film picks: roald dahl’s matilda the musical, the whale, as though nothing happened" }
+SndhtseiRDbaunh@{ shape: win-pane, label: "_Published Feb 20, 2023, 04:40 PM_
+Salman rushdie, other authors slam rewriting of roald dahl’s books as ‘absurd censorship’" }
+RDoetrenwssny@{ shape: win-pane, label: "_Published Feb 19, 2023, 05:59 PM_
+Roald dahl books rewritten to remove offensive words such as ‘fat’ and ‘ugly’" }
+RDoetrenwssny@{ shape: win-pane, label: "_Published Feb 19, 2023, 05:59 PM_
+Roald dahl books rewritten to remove offensive words such as ‘fat’ and ‘ugly’" }
+Enllcrnasdree@{ shape: win-pane, label: "_Published Feb 21, 2023, 05:00 PM_
+Editing roald dahl: help children to navigate history, don’t try to rewrite it" }
+RDoetrenwssny@{ shape: win-pane, label: "_Published Feb 19, 2023, 05:59 PM_
+Roald dahl books rewritten to remove offensive words such as ‘fat’ and ‘ugly’" }
+Fioaaaulhsghae@{ shape: win-pane, label: "_Published Dec 29, 2022, 12:00 PM_
+Film picks: roald dahl’s matilda the musical, the whale, as though nothing happened" }
+SndhtseiRDbaunh@{ shape: win-pane, label: "_Published Feb 20, 2023, 04:40 PM_
+Salman rushdie, other authors slam rewriting of roald dahl’s books as ‘absurd censorship’" }
+RDoetrenwssny@{ shape: win-pane, label: "_Published Feb 19, 2023, 05:59 PM_
+Roald dahl books rewritten to remove offensive words such as ‘fat’ and ‘ugly’" }
+RDoetrenwssny@{ shape: win-pane, label: "_Published Feb 19, 2023, 05:59 PM_
+Roald dahl books rewritten to remove offensive words such as ‘fat’ and ‘ugly’" }
 
-Ptdaaemaarecko:::txtsize --> Ansnishptafeh:::txtsize
-Ansnishptafeh:::txtsize --> Ptgsxcfstsbse:::txtsize
-Ptgsxcfstsbse:::txtsize --> Ptyrflthtbstarkc:::txtsize
-Ptgsxcfstsbse:::txtsize --> Ptgsgootaffirk:::txtsize
-Ansnishptafeh:::txtsize --> Ptyrflthtbstarkc:::txtsize
-Ptyrflthtbstarkc:::txtsize --> CfaeAnnsin:::txtsize
-Ptyrflthtbstarkc:::txtsize --> Ptanmcalnwrts:::txtsize
-Ptdaaemaarecko:::txtsize --> Noeknadlrneisp:::txtsize
-Noeknadlrneisp:::txtsize --> Ptrohtgoafiaa:::txtsize
-Ptrohtgoafiaa:::txtsize --> Dseaahtabre:::txtsize
-Ptrohtgoafiaa:::txtsize --> AnnionsiItlse:::txtsize
-Noeknadlrneisp:::txtsize --> CiyeaPtgslsiny:::txtsize
-CiyeaPtgslsiny:::txtsize --> Dseaahtabre:::txtsize
-CiyeaPtgslsiny:::txtsize --> Ptrohtgoafiaa:::txtsize
+Psfbgtos:::txtsize --> Crolnitdipsw:::txtsize
+Crolnitdipsw:::txtsize --> RDoetrenwssny:::txtsize
+RDoetrenwssny:::txtsize --> Fioaaaulhsghae:::txtsize
+Crolnitdipsw:::txtsize --> SndhtseiRDbaunh:::txtsize
+SndhtseiRDbaunh:::txtsize --> RDoetrenwssny:::txtsize
+SndhtseiRDbaunh:::txtsize --> RDoetrenwssny:::txtsize
+Psfbgtos:::txtsize --> Enllcrnasdree:::txtsize
+Enllcrnasdree:::txtsize --> RDoetrenwssny:::txtsize
+RDoetrenwssny:::txtsize --> Fioaaaulhsghae:::txtsize
+Enllcrnasdree:::txtsize --> SndhtseiRDbaunh:::txtsize
+SndhtseiRDbaunh:::txtsize --> RDoetrenwssny:::txtsize
+SndhtseiRDbaunh:::txtsize --> RDoetrenwssny:::txtsize
 
-Usiessntasal@{ shape: win-pane, label: "_Published Oct 19, 2025, 07:02 AM_
-Us says ‘credible reports’ hamas planning attack against gaza civilians" }
-Hfeggncitfe@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:10 PM_
-Hamas fighters tighten grip in gaza, clouding future of ceasefire" }
-TsogrrsiPtnesiais@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:25 PM_
-Trump says ‘long nightmare’ over for israelis and palestinians, receives standing ovation in knesset" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Hholissrrazo@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:47 PM_
-Hamas hands over all living hostages to israel; trump says gaza war over" }
-TtvriMe@{ shape: win-pane, label: "_Published Oct 14, 2025, 06:20 AM_
-Trump takes victory lap in the middle east" }
-TsogrrsiPtnesiais@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:25 PM_
-Trump says ‘long nightmare’ over for israelis and palestinians, receives standing ovation in knesset" }
-Thtndrltasact@{ shape: win-pane, label: "_Published Oct 14, 2025, 01:41 AM_
-Trump hails ‘tremendous day for middle east’ as leaders sign gaza declaration" }
-Tttoalatnpkn@{ shape: win-pane, label: "_Published Oct 17, 2025, 02:21 AM_
-Trump threatens to ‘go in and kill’ hamas if it doesn’t stop gaza killings" }
-Thtndrltasact@{ shape: win-pane, label: "_Published Oct 14, 2025, 01:41 AM_
-Trump hails ‘tremendous day for middle east’ as leaders sign gaza declaration" }
-TsogrrsiPtnesiais@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:25 PM_
-Trump says ‘long nightmare’ over for israelis and palestinians, receives standing ovation in knesset" }
-TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
-Tears, joy in israel as hamas hands over first hostages" }
-Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
-Hamas says it has handed over all hostage remains it can recover" }
-Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
-Trump says israel could resume fighting in gaza if hamas fails to disarm" }
-IlHhdbhnroe@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:54 PM_
-Israel says hamas handed over body that is not former hostage" }
+Hnstnrshnumasc@{ shape: win-pane, label: "_Published Oct 19, 2025, 02:06 PM_
+‘he thinks he’s great, we don’t’: americans march against trump’s ‘imperial presidency’" }
+NgtrrmasrTre@{ shape: win-pane, label: "_Published Oct 19, 2025, 03:25 AM_
+‘no kings’ protesters emerge en masse across us for anti-trump rallies" }
+NglxerlssneaT@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:06 PM_
+‘no kings’ rallies expected to draw millions across us in protest against trump" }
+TaSeuatdytcr@{ shape: win-pane, label: "_Published Oct 18, 2025, 05:41 AM_
+Trump asks us supreme court to allow troop deployment to chicago area" }
+AdnnpsuiralrWn@{ shape: win-pane, label: "_Published Jun 15, 2025, 06:04 AM_
+After day of nationwide protests, trump’s military parade rolls through washington" }
+WCikoeUst@{ shape: win-pane, label: "_Published Sep 11, 2025, 06:17 AM_
+Who is charlie kirk, the young hero of us conservatives?" }
+TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
+Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
+SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
+Storming of us capitol: timeline of key events in washington" }
+TtttafryNgt@{ shape: win-pane, label: "_Published Jun 14, 2025, 03:40 PM_
+Trump to host military parade for birthday amid ‘no kings’ protests" }
+Melihfineeipe@{ shape: win-pane, label: "_Published Jun 14, 2025, 10:23 AM_
+Marines deployed in la ahead of possible ‘unprecedented’ anti-trump protests" }
+Ueieimntos@{ shape: win-pane, label: "_Published Jun 14, 2025, 07:55 AM_
+Us adversaries fuel disinformation about la protests" }
+Tstnshgaeild@{ shape: win-pane, label: "_Published Jun 11, 2025, 03:45 PM_
+Trump’s la intervention sets the stage for a bigger political showdown" }
+Mosthautvpsane@{ shape: win-pane, label: "_Published Jun 14, 2025, 10:16 AM_
+Mexico’s president says her flag should not fly over us protests that turn violent" }
+MogmgniAet@{ shape: win-pane, label: "_Published Jun 11, 2025, 10:03 AM_
+Mexico’s flag becomes lightning rod in los angeles protests" }
+Ueieimntos@{ shape: win-pane, label: "_Published Jun 14, 2025, 07:55 AM_
+Us adversaries fuel disinformation about la protests" }
 
-Usiessntasal:::txtsize --> Hfeggncitfe:::txtsize
-Hfeggncitfe:::txtsize --> TsogrrsiPtnesiais:::txtsize
-TsogrrsiPtnesiais:::txtsize --> TssHaossaaorslaoe:::txtsize
-TsogrrsiPtnesiais:::txtsize --> Hholissrrazo:::txtsize
-Hfeggncitfe:::txtsize --> TtvriMe:::txtsize
-TtvriMe:::txtsize --> TsogrrsiPtnesiais:::txtsize
-TtvriMe:::txtsize --> Thtndrltasact:::txtsize
-Usiessntasal:::txtsize --> Tttoalatnpkn:::txtsize
-Tttoalatnpkn:::txtsize --> Thtndrltasact:::txtsize
-Thtndrltasact:::txtsize --> TsogrrsiPtnesiais:::txtsize
-Thtndrltasact:::txtsize --> TjIlmnest:::txtsize
-Tttoalatnpkn:::txtsize --> Hstaoltesnv:::txtsize
-Hstaoltesnv:::txtsize --> Tsscretniali:::txtsize
-Hstaoltesnv:::txtsize --> IlHhdbhnroe:::txtsize
+Hnstnrshnumasc:::txtsize --> NgtrrmasrTre:::txtsize
+NgtrrmasrTre:::txtsize --> NglxerlssneaT:::txtsize
+NglxerlssneaT:::txtsize --> TaSeuatdytcr:::txtsize
+NglxerlssneaT:::txtsize --> AdnnpsuiralrWn:::txtsize
+NgtrrmasrTre:::txtsize --> WCikoeUst:::txtsize
+WCikoeUst:::txtsize --> TahesegnipdoUstt:::txtsize
+WCikoeUst:::txtsize --> SiUiinenWn:::txtsize
+Hnstnrshnumasc:::txtsize --> TtttafryNgt:::txtsize
+TtttafryNgt:::txtsize --> Melihfineeipe:::txtsize
+Melihfineeipe:::txtsize --> Ueieimntos:::txtsize
+Melihfineeipe:::txtsize --> Tstnshgaeild:::txtsize
+TtttafryNgt:::txtsize --> Mosthautvpsane:::txtsize
+Mosthautvpsane:::txtsize --> MogmgniAet:::txtsize
+Mosthautvpsane:::txtsize --> Ueieimntos:::txtsize
 
 ```
-<i>Last updated: 2025-10-19 12:00:26.220269 (GMT+8)</i>
+<i>Last updated: 2025-10-19 16:00:50.268741 (GMT+8)</i>
 <!-- END -->
