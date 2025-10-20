@@ -16,102 +16,129 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-EognrkdCraxc@{ shape: win-pane, label: "_Published Oct 20, 2025, 01:37 AM_
-Eu to hold urgent industry talks monday on china rare-earth export curbs" }
-Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
-China tightens rare earth export controls and targets defence, semiconductor users" }
-Whapira@{ shape: win-pane, label: "_Published Sep 14, 2025, 11:05 AM_
-Will the us catch up to china on rare earths?" }
-ChaUiipoleeh@{ shape: win-pane, label: "_Published Apr 05, 2025, 03:53 AM_
-China hits back at us tariffs with export controls on key rare earths" }
-Tpeoohunuserw@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:45 PM_
-Trump presses nato nations to halt russian oil purchases to end ukraine war" }
+Bsovwotdsglp@{ shape: win-pane, label: "_Published Oct 20, 2025, 07:36 AM_
+British troops given powers to shoot down drones on sight: telegraph" }
+Dsunitsdiesnne@{ shape: win-pane, label: "_Published Sep 25, 2025, 06:07 AM_
+Drones disrupt danish airports for second time in a week; russia denies involvement" }
+PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
+Poland shoots down drones, the first nato member to open fire during ukraine war" }
+Gnarwerr@{ shape: win-pane, label: "_Published Sep 10, 2025, 01:08 AM_
+Germany to back ukraine with ‘deep-strike’ drones" }
+Raidnocralpd@{ shape: win-pane, label: "_Published Sep 09, 2025, 11:36 PM_
+Russia’s putin ready to invade other countries, says poland’s president" }
+DsiithChOit@{ shape: win-pane, label: "_Published Sep 23, 2025, 08:52 AM_
+Drone sightings disrupt flights at copenhagen, oslo airports" }
+Eerslcakunrie@{ shape: win-pane, label: "_Published Sep 20, 2025, 03:40 PM_
+European airports snarled by cyber attack, disruption to stretch into sept 21" }
+Arohtegfawtsrry@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:16 AM_
+Airport chaos highlights rise in high-profile ransomware attacks, cyber experts say" }
+Gnlotone@{ shape: win-pane, label: "_Published Oct 08, 2025, 06:17 PM_
+Germany to allow police to shoot down drones" }
+Ryeyircdnret@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:35 AM_
+Runways at germany’s munich airport closed again after drone sightings" }
+Gneafrinuiroi@{ shape: win-pane, label: "_Published Oct 03, 2025, 09:15 AM_
+Germany investigates after drone sightings shut munich airport overnight" }
+Gneafrinuiroi@{ shape: win-pane, label: "_Published Oct 03, 2025, 09:15 AM_
+Germany investigates after drone sightings shut munich airport overnight" }
+Ryeyircdnret@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:35 AM_
+Runways at germany’s munich airport closed again after drone sightings" }
+Gneafrinuiroi@{ shape: win-pane, label: "_Published Oct 03, 2025, 09:15 AM_
+Germany investigates after drone sightings shut munich airport overnight" }
+Gneafrinuiroi@{ shape: win-pane, label: "_Published Oct 03, 2025, 09:15 AM_
+Germany investigates after drone sightings shut munich airport overnight" }
 
-EognrkdCraxc:::txtsize --> Ctertonsasnmdrs:::txtsize
-Ctertonsasnmdrs:::txtsize --> Whapira:::txtsize
-Whapira:::txtsize --> ChaUiipoleeh:::txtsize
-Whapira:::txtsize --> Tpeoohunuserw:::txtsize
+Bsovwotdsglp:::txtsize --> Dsunitsdiesnne:::txtsize
+Dsunitsdiesnne:::txtsize --> PdtnefNetndgir:::txtsize
+PdtnefNetndgir:::txtsize --> Gnarwerr:::txtsize
+PdtnefNetndgir:::txtsize --> Raidnocralpd:::txtsize
+Dsunitsdiesnne:::txtsize --> DsiithChOit:::txtsize
+DsiithChOit:::txtsize --> Eerslcakunrie:::txtsize
+DsiithChOit:::txtsize --> Arohtegfawtsrry:::txtsize
+Bsovwotdsglp:::txtsize --> Gnlotone:::txtsize
+Gnlotone:::txtsize --> Ryeyircdnret:::txtsize
+Ryeyircdnret:::txtsize --> Gneafrinuiroi:::txtsize
+Ryeyircdnret:::txtsize --> Gneafrinuiroi:::txtsize
+Gnlotone:::txtsize --> Ryeyircdnret:::txtsize
+Ryeyircdnret:::txtsize --> Gneafrinuiroi:::txtsize
+Ryeyircdnret:::txtsize --> Gneafrinuiroi:::txtsize
 
-EkidrnsRade@{ shape: win-pane, label: "_Published Oct 19, 2025, 10:56 PM_
-Eu seeks maritime declaration to inspect russia’s ‘shadow fleet’" }
-Gotteigceilh@{ shape: win-pane, label: "_Published Oct 02, 2025, 06:29 AM_
-G-7 nations to target those continuing to increase russian oil purchases" }
-Ulitilsereos@{ shape: win-pane, label: "_Published Sep 27, 2025, 03:01 AM_
-Us tells india that russian oil curbs are key to trade deal progress" }
-TslfftiaeopU@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:05 PM_
-Trump’s doubling of tariffs hits india, damages relationship with us" }
-Tpeoohunuserw@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:45 PM_
-Trump presses nato nations to halt russian oil purchases to end ukraine war" }
-Tpeoohunuserw@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:45 PM_
-Trump presses nato nations to halt russian oil purchases to end ukraine war" }
-NouefpsfaPddr@{ shape: win-pane, label: "_Published Sep 13, 2025, 01:03 AM_
-Nato to beef up defence of europe’s eastern flank after poland shot down drones" }
-DhpnrecesGaieeew@{ shape: win-pane, label: "_Published Oct 19, 2025, 03:33 PM_
-Dark ship appearing to transfer sanctioned russia lng off malaysia, satellite images show" }
-Ucsassswt@{ shape: win-pane, label: "_Published Jul 21, 2025, 11:52 PM_
-Uk sanctions 135 oil tankers in russia’s shadow fleet" }
-Skleokusnde@{ shape: win-pane, label: "_Published Dec 17, 2024, 03:10 AM_
-Stricken oil tankers show risks of russia’s ageing ‘shadow fleet’" }
-Bildiar@{ shape: win-pane, label: "_Published Jul 21, 2025, 10:45 PM_
-Britain calls for 50-day drive to arm ukraine" }
+Ilcfntutrkla@{ shape: win-pane, label: "_Published Oct 20, 2025, 06:50 AM_
+Israel says ceasefire and aid to resume after airstrikes kill 26 in gaza" }
+Ilkzispec@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:06 PM_
+Israel strikes gaza, saying its troops were attacked" }
+IlseetvtRbreeuat@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:25 PM_
+Israel, hamas trade blame over truce violations, rafah border reopening eyed but no date set" }
+IlHhdbhnroe@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:54 PM_
+Israel says hamas handed over body that is not former hostage" }
+Ilprnpfogriyteul@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:20 PM_
+Israel says preparations to open rafah crossing underway with egypt, date to be announced later" }
+Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
+Hamas says it has handed over all hostage remains it can recover" }
+Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
+Trump says israel could resume fighting in gaza if hamas fails to disarm" }
+IlHhdbhnroe@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:54 PM_
+Israel says hamas handed over body that is not former hostage" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
+TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
+Tears, joy in israel as hamas hands over first hostages" }
 
-EkidrnsRade:::txtsize --> Gotteigceilh:::txtsize
-Gotteigceilh:::txtsize --> Ulitilsereos:::txtsize
-Ulitilsereos:::txtsize --> TslfftiaeopU:::txtsize
-Ulitilsereos:::txtsize --> Tpeoohunuserw:::txtsize
-Gotteigceilh:::txtsize --> Tpeoohunuserw:::txtsize
-Tpeoohunuserw:::txtsize --> NouefpsfaPddr:::txtsize
-EkidrnsRade:::txtsize --> DhpnrecesGaieeew:::txtsize
-DhpnrecesGaieeew:::txtsize --> Ucsassswt:::txtsize
-Ucsassswt:::txtsize --> Skleokusnde:::txtsize
-Ucsassswt:::txtsize --> Bildiar:::txtsize
+Ilcfntutrkla:::txtsize --> Ilkzispec:::txtsize
+Ilkzispec:::txtsize --> IlseetvtRbreeuat:::txtsize
+IlseetvtRbreeuat:::txtsize --> IlHhdbhnroe:::txtsize
+IlseetvtRbreeuat:::txtsize --> Ilprnpfogriyteul:::txtsize
+Ilkzispec:::txtsize --> Hstaoltesnv:::txtsize
+Hstaoltesnv:::txtsize --> Tsscretniali:::txtsize
+Hstaoltesnv:::txtsize --> IlHhdbhnroe:::txtsize
+Ilcfntutrkla:::txtsize --> Tdrcaaededlncbs:::txtsize
+Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
+PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
 
-Tcftocndra@{ shape: win-pane, label: "_Published Oct 19, 2025, 09:41 PM_
-Trump cuts off aid to colombia, calling leader a drug dealer" }
-UeCbreiemaPtne@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:23 AM_
-Us to revoke colombian president’s visa over comments at pro-palestinian gathering" }
-WlrlilntoUySs@{ shape: win-pane, label: "_Published Sep 23, 2025, 03:40 AM_
-World leaders rally behind palestinian statehood at un, defying us and israel" }
-BvrsPtnegoaNi@{ shape: win-pane, label: "_Published Sep 21, 2025, 03:54 PM_
-Bereaved israelis urge palestinian state recognition ahead of un summit" }
-Sweiooaisteosa@{ shape: win-pane, label: "_Published Sep 22, 2025, 03:12 PM_
-S’pore will reconsider position on palestine if situation deteriorates: vivian" }
-Aoienempsiroins@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:00 AM_
-At un, colombian president urges ‘criminal process’ against trump for strikes on boats" }
-TsSndhornl@{ shape: win-pane, label: "_Published Sep 17, 2025, 01:05 AM_
-Trump says us has ‘knocked off’ three boats from venezuela" }
-Vufmaagbmur@{ shape: win-pane, label: "_Published Sep 21, 2025, 10:24 AM_
-Venezuela offers military training to public amid trump threats" }
-CbretcUiittlfiv@{ shape: win-pane, label: "_Published Sep 28, 2025, 09:18 AM_
-Colombian president petro accuses us of violating international law after visa revoked" }
-UeCbreiemaPtne@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:23 AM_
-Us to revoke colombian president’s visa over comments at pro-palestinian gathering" }
-WlrlilntoUySs@{ shape: win-pane, label: "_Published Sep 23, 2025, 03:40 AM_
-World leaders rally behind palestinian statehood at un, defying us and israel" }
-Aoienempsiroins@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:00 AM_
-At un, colombian president urges ‘criminal process’ against trump for strikes on boats" }
-Aoienempsiroins@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:00 AM_
-At un, colombian president urges ‘criminal process’ against trump for strikes on boats" }
-TsSndhornl@{ shape: win-pane, label: "_Published Sep 17, 2025, 01:05 AM_
-Trump says us has ‘knocked off’ three boats from venezuela" }
-Vufmaagbmur@{ shape: win-pane, label: "_Published Sep 21, 2025, 10:24 AM_
-Venezuela offers military training to public amid trump threats" }
+WYresemhiO@{ shape: win-pane, label: "_Published Oct 20, 2025, 06:00 AM_
+While you were sleeping: 5 stories you might have missed, oct 20, 2025" }
+TuUnlykcoRaneSe@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:16 AM_
+Trump urged ukraine’s zelensky to make concessions to russia in tense meeting: sources" }
+TtZsmdshlss@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:27 AM_
+Trump tells zelensky to ‘make a deal’ as tomahawk plea misfires" }
+Zseafrnouu@{ shape: win-pane, label: "_Published Oct 17, 2025, 10:31 PM_
+Zelensky seeks weapons from trump in shadow of putin summit" }
+Zsguerwkhds@{ shape: win-pane, label: "_Published Oct 11, 2025, 10:10 PM_
+Zelensky urges trump to end ukraine war like in ‘the middle east’" }
+Piaesaeaemim@{ shape: win-pane, label: "_Published Oct 18, 2025, 04:45 PM_
+Peace in ukraine remains distant ahead of another trump-putin summit" }
+Hnruosd@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:32 AM_
+How donald trump pulled off his gaza deal" }
+NKnilefrnde@{ shape: win-pane, label: "_Published Oct 20, 2025, 04:26 AM_
+North korean soldier held by seoul after crossing land border" }
+NKnutigsd@{ shape: win-pane, label: "_Published Aug 07, 2025, 01:05 PM_
+North korean rescued after swimming across border" }
+NKncmenpy@{ shape: win-pane, label: "_Published Jul 18, 2025, 09:21 AM_
+North korean defectors make debut in new k-pop boy band" }
+NKnifrndeui@{ shape: win-pane, label: "_Published Jul 04, 2025, 10:45 AM_
+North korean detained after crossing land border: seoul military" }
+SKcffrcgyreroofr@{ shape: win-pane, label: "_Published Feb 19, 2025, 04:06 PM_
+South korea court finds former officials guilty of forcible return of north korean fishermen" }
+NKdnbdlsngSl@{ shape: win-pane, label: "_Published Feb 18, 2025, 02:41 PM_
+North korea denounces ‘absurd’ denuclearisation pledge by us and allies" }
+NKsaasfrb@{ shape: win-pane, label: "_Published Feb 17, 2025, 09:45 AM_
+North korea’s kim makes rare visit to father’s tomb" }
 
-Tcftocndra:::txtsize --> UeCbreiemaPtne:::txtsize
-UeCbreiemaPtne:::txtsize --> WlrlilntoUySs:::txtsize
-WlrlilntoUySs:::txtsize --> BvrsPtnegoaNi:::txtsize
-WlrlilntoUySs:::txtsize --> Sweiooaisteosa:::txtsize
-UeCbreiemaPtne:::txtsize --> Aoienempsiroins:::txtsize
-Aoienempsiroins:::txtsize --> TsSndhornl:::txtsize
-Aoienempsiroins:::txtsize --> Vufmaagbmur:::txtsize
-Tcftocndra:::txtsize --> CbretcUiittlfiv:::txtsize
-CbretcUiittlfiv:::txtsize --> UeCbreiemaPtne:::txtsize
-UeCbreiemaPtne:::txtsize --> WlrlilntoUySs:::txtsize
-UeCbreiemaPtne:::txtsize --> Aoienempsiroins:::txtsize
-CbretcUiittlfiv:::txtsize --> Aoienempsiroins:::txtsize
-Aoienempsiroins:::txtsize --> TsSndhornl:::txtsize
-Aoienempsiroins:::txtsize --> Vufmaagbmur:::txtsize
+WYresemhiO:::txtsize --> TuUnlykcoRaneSe:::txtsize
+TuUnlykcoRaneSe:::txtsize --> TtZsmdshlss:::txtsize
+TtZsmdshlss:::txtsize --> Zseafrnouu:::txtsize
+TtZsmdshlss:::txtsize --> Zsguerwkhds:::txtsize
+TuUnlykcoRaneSe:::txtsize --> Piaesaeaemim:::txtsize
+Piaesaeaemim:::txtsize --> Hnruosd:::txtsize
+WYresemhiO:::txtsize --> NKnilefrnde:::txtsize
+NKnilefrnde:::txtsize --> NKnutigsd:::txtsize
+NKnutigsd:::txtsize --> NKncmenpy:::txtsize
+NKnutigsd:::txtsize --> NKnifrndeui:::txtsize
+NKnilefrnde:::txtsize --> SKcffrcgyreroofr:::txtsize
+SKcffrcgyreroofr:::txtsize --> NKdnbdlsngSl:::txtsize
+SKcffrcgyreroofr:::txtsize --> NKsaasfrb:::txtsize
 
 ```
-<i>Last updated: 2025-10-20 04:01:07.809459 (GMT+8)</i>
+<i>Last updated: 2025-10-20 08:00:31.618805 (GMT+8)</i>
 <!-- END -->
