@@ -16,111 +16,132 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Mttdmfaua@{ shape: win-pane, label: "_Published Oct 20, 2025, 07:21 PM_
-Mediators step up diplomacy after gaza truce shaken" }
-Ilkzispec@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:06 PM_
-Israel strikes gaza, saying its troops were attacked" }
-IlseetvtRbreeuat@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:25 PM_
-Israel, hamas trade blame over truce violations, rafah border reopening eyed but no date set" }
-IlHhdbhnroe@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:54 PM_
-Israel says hamas handed over body that is not former hostage" }
-Ilprnpfogriyteul@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:20 PM_
-Israel says preparations to open rafah crossing underway with egypt, date to be announced later" }
-Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
-Hamas says it has handed over all hostage remains it can recover" }
-Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
-Trump says israel could resume fighting in gaza if hamas fails to disarm" }
-IlHhdbhnroe@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:54 PM_
-Israel says hamas handed over body that is not former hostage" }
-Ilcfntutrkla@{ shape: win-pane, label: "_Published Oct 20, 2025, 06:50 AM_
-Israel says ceasefire and aid to resume after airstrikes kill 26 in gaza" }
-Ilkzispec@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:06 PM_
-Israel strikes gaza, saying its troops were attacked" }
-IlseetvtRbreeuat@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:25 PM_
-Israel, hamas trade blame over truce violations, rafah border reopening eyed but no date set" }
-Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
-Hamas says it has handed over all hostage remains it can recover" }
-TssHcftnerse@{ shape: win-pane, label: "_Published Oct 20, 2025, 09:55 AM_
-Trump says israel-hamas ceasefire still in place after gaza strikes" }
-Ilcfntutrkla@{ shape: win-pane, label: "_Published Oct 20, 2025, 06:50 AM_
-Israel says ceasefire and aid to resume after airstrikes kill 26 in gaza" }
-Usiessntasal@{ shape: win-pane, label: "_Published Oct 19, 2025, 07:02 AM_
-Us says ‘credible reports’ hamas planning attack against gaza civilians" }
+TssLesajh@{ shape: win-pane, label: "_Published Oct 20, 2025, 09:17 PM_
+Tourists upset as louvre stays shut after jewel heist" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
+‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
+NegaTrah@{ shape: win-pane, label: "_Published Feb 20, 2025, 01:00 PM_
+Nike bets big on reality tv star kim kardashian" }
+Kriinucneida@{ shape: win-pane, label: "_Published May 17, 2023, 12:00 PM_
+Kim kardashian's $1.34 billion buyout pitch leans on her social media reach" }
+Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
+Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
+GpmglnolN@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:52 PM_
+Greenpeace $880m damages ruling in us shocks global ngos" }
+PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
+Paris’ louvre museum robbery: what jewels did the thieves steal?" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
+‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
+Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
+Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
+‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
+Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
+Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
 
-Mttdmfaua:::txtsize --> Ilkzispec:::txtsize
-Ilkzispec:::txtsize --> IlseetvtRbreeuat:::txtsize
-IlseetvtRbreeuat:::txtsize --> IlHhdbhnroe:::txtsize
-IlseetvtRbreeuat:::txtsize --> Ilprnpfogriyteul:::txtsize
-Ilkzispec:::txtsize --> Hstaoltesnv:::txtsize
-Hstaoltesnv:::txtsize --> Tsscretniali:::txtsize
-Hstaoltesnv:::txtsize --> IlHhdbhnroe:::txtsize
-Mttdmfaua:::txtsize --> Ilcfntutrkla:::txtsize
-Ilcfntutrkla:::txtsize --> Ilkzispec:::txtsize
-Ilkzispec:::txtsize --> IlseetvtRbreeuat:::txtsize
-Ilkzispec:::txtsize --> Hstaoltesnv:::txtsize
-Ilcfntutrkla:::txtsize --> TssHcftnerse:::txtsize
-TssHcftnerse:::txtsize --> Ilcfntutrkla:::txtsize
-TssHcftnerse:::txtsize --> Usiessntasal:::txtsize
+TssLesajh:::txtsize --> Ptineluiisey:::txtsize
+Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
+GpboiPoidaes:::txtsize --> NegaTrah:::txtsize
+GpboiPoidaes:::txtsize --> Kriinucneida:::txtsize
+Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
+Gpssofemmnsrt:::txtsize --> GpmglnolN:::txtsize
+TssLesajh:::txtsize --> PLeubhwitea:::txtsize
+PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
+Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
+Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
+PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
+Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
+Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
 
-Etresgpb@{ shape: win-pane, label: "_Published Oct 20, 2025, 06:45 PM_
-Eu states agree to end russian gas imports by end 2027" }
-EcRaefaieyf@{ shape: win-pane, label: "_Published Sep 11, 2025, 10:28 PM_
-Eu sticks to 2028 russian gas exit after talks with us energy chief" }
-UaStetRanwania@{ shape: win-pane, label: "_Published Sep 07, 2025, 10:51 PM_
-Us treasury secretary bessent says russian economic woes can bring putin to table" }
-Ungilyoocresafl@{ shape: win-pane, label: "_Published Sep 05, 2025, 08:05 PM_
-Us to end long-running military aid for european countries near russia, says official" }
-Tseraniteaorbhut@{ shape: win-pane, label: "_Published Sep 03, 2025, 03:19 AM_
-Trump says he is ‘very disappointed’ with putin over ukraine, not worried about china-russia ties" }
-HretsggalBie@{ shape: win-pane, label: "_Published Sep 10, 2025, 01:55 AM_
-Hungary, dependant on russian gas, signs 10-year deal with britain’s shell" }
-Hraravllro@{ shape: win-pane, label: "_Published Aug 28, 2025, 11:40 PM_
-Hungary, ukraine trade barbs over oil supply disruption" }
-ZseoaoUnloRart@{ shape: win-pane, label: "_Published Sep 06, 2025, 12:40 AM_
-Zelensky meets slovakia’s fico, says ukraine will respond to russia’s energy attacks" }
-Tvomvinalilra@{ shape: win-pane, label: "_Published Oct 20, 2025, 10:26 AM_
-Trump vows to keep ‘massive’ tariffs on india until russian oil imports cease" }
-ItnRaitprhsrtcy@{ shape: win-pane, label: "_Published Aug 02, 2025, 07:04 PM_
-India to maintain russian oil imports despite trump threats, government sources say" }
-Unsenyirnidhe@{ shape: win-pane, label: "_Published Aug 01, 2025, 09:24 PM_
-Ukraine says 31 killed in end-july russian strike on kyiv, including 5 children" }
-Rainisiyminsi@{ shape: win-pane, label: "_Published Aug 01, 2025, 05:24 AM_
-Russia’s actions in ukraine ‘disgusting’, says trump, indicating new sanctions" }
-Istwfpcroun@{ shape: win-pane, label: "_Published Oct 17, 2025, 09:22 AM_
-India says it’s unaware of trump-modi conversation on russian oil" }
-Tretfsnakergraoe@{ shape: win-pane, label: "_Published Aug 07, 2025, 11:00 PM_
-Trump ratchets up tariff pressure on india, sparking despair among exporters and growth fears" }
-Tsosrmanyil@{ shape: win-pane, label: "_Published Oct 16, 2025, 05:45 AM_
-Trump says modi has assured him india will not buy russian oil" }
+IKnjTookidornepi@{ shape: win-pane, label: "_Published Oct 20, 2025, 09:11 PM_
+Iran’s khamenei rejects trump offer of talks, denies us destroyed iranian nuclear capabilities" }
+TsoettclI@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:05 PM_
+Trump says would be ‘great to get a peace deal’ with iran" }
+TsogrrsiPtnesiais@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:25 PM_
+Trump says ‘long nightmare’ over for israelis and palestinians, receives standing ovation in knesset" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Hholissrrazo@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:47 PM_
+Hamas hands over all living hostages to israel; trump says gaza war over" }
+Raiedpitnls@{ shape: win-pane, label: "_Published Oct 20, 2025, 06:51 PM_
+Russia says it’s prepared to expand ties with iran in all areas" }
+IottfSknae@{ shape: win-pane, label: "_Published Jun 23, 2025, 07:35 AM_
+Iran vows retaliation after us strikes on nuclear sites" }
+TtIodirsdelmutt@{ shape: win-pane, label: "_Published Jun 13, 2025, 08:20 AM_
+Trump tells iran to ‘make deal’ with israel as world leaders call for ‘maximum restraint’" }
+Spsatakaoured@{ shape: win-pane, label: "_Published Jun 23, 2025, 12:52 PM_
+Small protests against the us attack in iran sprouted up over the weekend" }
+RastlaliaI@{ shape: win-pane, label: "_Published Jun 18, 2025, 06:51 PM_
+Russia warns us not to help israel militarily against iran" }
+MnsmnaTuron@{ shape: win-pane, label: "_Published Jun 18, 2025, 04:26 AM_
+Macron fears regime change chaos as trump ups threats on iran" }
+SmdaiIivrenU@{ shape: win-pane, label: "_Published Jun 18, 2025, 12:30 PM_
+Supreme leader khamenei says iran will ‘never surrender’, warns off us" }
 
-Etresgpb:::txtsize --> EcRaefaieyf:::txtsize
-EcRaefaieyf:::txtsize --> UaStetRanwania:::txtsize
-UaStetRanwania:::txtsize --> Ungilyoocresafl:::txtsize
-UaStetRanwania:::txtsize --> Tseraniteaorbhut:::txtsize
-EcRaefaieyf:::txtsize --> HretsggalBie:::txtsize
-HretsggalBie:::txtsize --> Hraravllro:::txtsize
-HretsggalBie:::txtsize --> ZseoaoUnloRart:::txtsize
-Etresgpb:::txtsize --> Tvomvinalilra:::txtsize
-Tvomvinalilra:::txtsize --> ItnRaitprhsrtcy:::txtsize
-ItnRaitprhsrtcy:::txtsize --> Unsenyirnidhe:::txtsize
-ItnRaitprhsrtcy:::txtsize --> Rainisiyminsi:::txtsize
-Tvomvinalilra:::txtsize --> Istwfpcroun:::txtsize
-Istwfpcroun:::txtsize --> Tretfsnakergraoe:::txtsize
-Istwfpcroun:::txtsize --> Tsosrmanyil:::txtsize
+IKnjTookidornepi:::txtsize --> TsoettclI:::txtsize
+TsoettclI:::txtsize --> TsogrrsiPtnesiais:::txtsize
+TsogrrsiPtnesiais:::txtsize --> TssHaossaaorslaoe:::txtsize
+TsogrrsiPtnesiais:::txtsize --> Hholissrrazo:::txtsize
+IKnjTookidornepi:::txtsize --> Raiedpitnls:::txtsize
+Raiedpitnls:::txtsize --> IottfSknae:::txtsize
+IottfSknae:::txtsize --> TtIodirsdelmutt:::txtsize
+IottfSknae:::txtsize --> Spsatakaoured:::txtsize
+Raiedpitnls:::txtsize --> RastlaliaI:::txtsize
+RastlaliaI:::txtsize --> MnsmnaTuron:::txtsize
+RastlaliaI:::txtsize --> SmdaiIivrenU:::txtsize
 
-Ighotieacnuaeesh@{ shape: win-pane, label: "_Published Oct 20, 2025, 06:45 PM_
-Instagram shows more ‘eating disorder adjacent’ content to vulnerable teens: meta researchers" }
-Bnnkfelvh@{ shape: win-pane, label: "_Published Jun 30, 2025, 05:00 AM_
-Banning #skinnytok won’t fix the problem of viral harm" }
-Syedtienua@{ shape: win-pane, label: "_Published Jun 24, 2025, 01:30 PM_
-#skinnytok rebranded eating disorders dangerously fast" }
-TkSyfuaursc@{ shape: win-pane, label: "_Published Jun 04, 2025, 01:33 PM_
-Tiktok bans #skinnytok after european regulators raise concerns" }
+CbcasfStfs@{ shape: win-pane, label: "_Published Oct 20, 2025, 09:11 PM_
+Colombia recalls ambassador from us amid tariff, drug spat" }
+Tcftocndra@{ shape: win-pane, label: "_Published Oct 19, 2025, 09:41 PM_
+Trump cuts off aid to colombia, calling leader a drug dealer" }
+UeCbreiemaPtne@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:23 AM_
+Us to revoke colombian president’s visa over comments at pro-palestinian gathering" }
+WlrlilntoUySs@{ shape: win-pane, label: "_Published Sep 23, 2025, 03:40 AM_
+World leaders rally behind palestinian statehood at un, defying us and israel" }
+Aoienempsiroins@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:00 AM_
+At un, colombian president urges ‘criminal process’ against trump for strikes on boats" }
+CbretcUiittlfiv@{ shape: win-pane, label: "_Published Sep 28, 2025, 09:18 AM_
+Colombian president petro accuses us of violating international law after visa revoked" }
+UeCbreiemaPtne@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:23 AM_
+Us to revoke colombian president’s visa over comments at pro-palestinian gathering" }
+Aoienempsiroins@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:00 AM_
+At un, colombian president urges ‘criminal process’ against trump for strikes on boats" }
+CbretcUiittlfiv@{ shape: win-pane, label: "_Published Sep 28, 2025, 09:18 AM_
+Colombian president petro accuses us of violating international law after visa revoked" }
+UeCbreiemaPtne@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:23 AM_
+Us to revoke colombian president’s visa over comments at pro-palestinian gathering" }
+WlrlilntoUySs@{ shape: win-pane, label: "_Published Sep 23, 2025, 03:40 AM_
+World leaders rally behind palestinian statehood at un, defying us and israel" }
+Aoienempsiroins@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:00 AM_
+At un, colombian president urges ‘criminal process’ against trump for strikes on boats" }
+Aoienempsiroins@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:00 AM_
+At un, colombian president urges ‘criminal process’ against trump for strikes on boats" }
+TsSndhornl@{ shape: win-pane, label: "_Published Sep 17, 2025, 01:05 AM_
+Trump says us has ‘knocked off’ three boats from venezuela" }
+Vufmaagbmur@{ shape: win-pane, label: "_Published Sep 21, 2025, 10:24 AM_
+Venezuela offers military training to public amid trump threats" }
 
-Ighotieacnuaeesh:::txtsize --> Bnnkfelvh:::txtsize
-Bnnkfelvh:::txtsize --> Syedtienua:::txtsize
-Syedtienua:::txtsize --> TkSyfuaursc:::txtsize
+CbcasfStfs:::txtsize --> Tcftocndra:::txtsize
+Tcftocndra:::txtsize --> UeCbreiemaPtne:::txtsize
+UeCbreiemaPtne:::txtsize --> WlrlilntoUySs:::txtsize
+UeCbreiemaPtne:::txtsize --> Aoienempsiroins:::txtsize
+Tcftocndra:::txtsize --> CbretcUiittlfiv:::txtsize
+CbretcUiittlfiv:::txtsize --> UeCbreiemaPtne:::txtsize
+CbretcUiittlfiv:::txtsize --> Aoienempsiroins:::txtsize
+CbcasfStfs:::txtsize --> CbretcUiittlfiv:::txtsize
+CbretcUiittlfiv:::txtsize --> UeCbreiemaPtne:::txtsize
+UeCbreiemaPtne:::txtsize --> WlrlilntoUySs:::txtsize
+UeCbreiemaPtne:::txtsize --> Aoienempsiroins:::txtsize
+CbretcUiittlfiv:::txtsize --> Aoienempsiroins:::txtsize
+Aoienempsiroins:::txtsize --> TsSndhornl:::txtsize
+Aoienempsiroins:::txtsize --> Vufmaagbmur:::txtsize
 
 ```
-<i>Last updated: 2025-10-20 20:01:13.274542 (GMT+8)</i>
+<i>Last updated: 2025-10-20 23:08:01.485965 (GMT+8)</i>
 <!-- END -->
