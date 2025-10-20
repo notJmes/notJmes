@@ -16,117 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Lnabsglit@{ shape: win-pane, label: "_Published Oct 20, 2025, 11:15 PM_
-London ‘scream club’ helps young people relieve stress" }
-Mltohiaacta@{ shape: win-pane, label: "_Published Jan 10, 2025, 05:00 AM_
-Mental health is now on the national agenda – let’s cut to the chase" }
-MlttlraMmoatpmt@{ shape: win-pane, label: "_Published Feb 07, 2024, 01:47 PM_
-Mental health a national priority, says dpm wong; 28,000 more to be trained to help in community" }
-Mowotalime@{ shape: win-pane, label: "_Published Feb 06, 2024, 09:15 PM_
-Mps propose ways to fight mental health stigma, improve care" }
-Slhtlaldbse@{ shape: win-pane, label: "_Published Oct 05, 2023, 06:30 PM_
-S’pore launches national mental health and well-being strategy" }
-Slhtlaldbse@{ shape: win-pane, label: "_Published Oct 05, 2023, 06:30 PM_
-S’pore launches national mental health and well-being strategy" }
-Almltrnaetrius@{ shape: win-pane, label: "_Published Jun 01, 2023, 02:50 PM_
-App by local mental health start-up encourages people to share their struggles" }
-Htidshcstehhm@{ shape: win-pane, label: "_Published Oct 10, 2025, 12:00 PM_
-He battled his own demons, now this doctor is fighting mental health stigma" }
-VFhcktdtadalSp@{ shape: win-pane, label: "_Published Oct 10, 2025, 12:00 PM_
-Views from the couch: tackling the hidden stigma around mental health in singapore" }
-SporeyalpKh@{ shape: win-pane, label: "_Published Oct 10, 2025, 12:00 PM_
-Singapore to prioritise early mental health support: koh poh koon" }
+Uroohagufwg@{ shape: win-pane, label: "_Published Oct 21, 2025, 03:44 AM_
+Us supreme court to weigh law barring drug users from owning guns" }
+UstHrnadsuji@{ shape: win-pane, label: "_Published Jun 12, 2024, 12:15 AM_
+Us president’s son, hunter biden, lied about drug use to buy gun, jury finds" }
+JioTgyltuni@{ shape: win-pane, label: "_Published May 31, 2024, 05:18 AM_
+Jury finds donald trump guilty on all 34 counts at hush money trial" }
+Frenmrvseebeia@{ shape: win-pane, label: "_Published Apr 04, 2023, 08:59 PM_
+Former us president trump charged over hush money scheme to boost 2016 election chances" }
+Felieoanaog@{ shape: win-pane, label: "_Published Oct 12, 2025, 11:39 PM_
+Four dead, at least 20 injured in south carolina island shooting" }
+Mgutedvdgios@{ shape: win-pane, label: "_Published Sep 30, 2025, 10:40 AM_
+Michigan church attacker said to have held grudge against mormons" }
+Fiieeoariamu@{ shape: win-pane, label: "_Published Sep 29, 2025, 12:52 AM_
+Four killed, 8 injured after shooting and fire at michigan mormon church" }
+Uistggoevsnohnp@{ shape: win-pane, label: "_Published Aug 29, 2025, 07:20 AM_
+Us officials sift through tangle of online grievances by minneapolis shooting suspect" }
+Asdndrtaspii@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:58 PM_
+At least 1 dead and 3 injured after shootings at mississippi universities" }
+Asddweissi@{ shape: win-pane, label: "_Published Oct 11, 2025, 11:16 PM_
+At least 4 dead and a dozen wounded in mississippi shooting" }
+Odweadaog@{ shape: win-pane, label: "_Published Oct 06, 2025, 07:20 AM_
+Over a dozen wounded in rare sydney mass shooting" }
 
-Lnabsglit:::txtsize --> Mltohiaacta:::txtsize
-Mltohiaacta:::txtsize --> MlttlraMmoatpmt:::txtsize
-MlttlraMmoatpmt:::txtsize --> Mowotalime:::txtsize
-MlttlraMmoatpmt:::txtsize --> Slhtlaldbse:::txtsize
-Mltohiaacta:::txtsize --> Slhtlaldbse:::txtsize
-Slhtlaldbse:::txtsize --> Almltrnaetrius:::txtsize
-Lnabsglit:::txtsize --> Htidshcstehhm:::txtsize
-Htidshcstehhm:::txtsize --> VFhcktdtadalSp:::txtsize
-VFhcktdtadalSp:::txtsize --> SporeyalpKh:::txtsize
+Uroohagufwg:::txtsize --> UstHrnadsuji:::txtsize
+UstHrnadsuji:::txtsize --> JioTgyltuni:::txtsize
+JioTgyltuni:::txtsize --> Frenmrvseebeia:::txtsize
+Uroohagufwg:::txtsize --> Felieoanaog:::txtsize
+Felieoanaog:::txtsize --> Mgutedvdgios:::txtsize
+Mgutedvdgios:::txtsize --> Fiieeoariamu:::txtsize
+Mgutedvdgios:::txtsize --> Uistggoevsnohnp:::txtsize
+Felieoanaog:::txtsize --> Asdndrtaspii:::txtsize
+Asdndrtaspii:::txtsize --> Asddweissi:::txtsize
+Asdndrtaspii:::txtsize --> Odweadaog:::txtsize
 
-TssLesajh@{ shape: win-pane, label: "_Published Oct 20, 2025, 09:17 PM_
-Tourists upset as louvre stays shut after jewel heist" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
-‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
-NegaTrah@{ shape: win-pane, label: "_Published Feb 20, 2025, 01:00 PM_
-Nike bets big on reality tv star kim kardashian" }
-Kriinucneida@{ shape: win-pane, label: "_Published May 17, 2023, 12:00 PM_
-Kim kardashian's $1.34 billion buyout pitch leans on her social media reach" }
-Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
-Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
-GpmglnolN@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:52 PM_
-Greenpeace $880m damages ruling in us shocks global ngos" }
-PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
-Paris’ louvre museum robbery: what jewels did the thieves steal?" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
-‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
-Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
-Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
-‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
-Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
-Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
+IlrvztooC@{ shape: win-pane, label: "_Published Oct 21, 2025, 03:16 AM_
+Israel says received gaza hostage body from red cross" }
+Iltshguo@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:27 PM_
+Israel identifies dead hostage returned on oct 17" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Hstmeaudrhga@{ shape: win-pane, label: "_Published Oct 17, 2025, 09:15 PM_
+Hamas says it is committed to gaza truce and returning hostage remains" }
+Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
+Hamas says it has handed over all hostage remains it can recover" }
+Upiatzck@{ shape: win-pane, label: "_Published Oct 20, 2025, 07:21 PM_
+Us steps up diplomacy after gaza truce shaken" }
+Ilkzispec@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:06 PM_
+Israel strikes gaza, saying its troops were attacked" }
+IlseetvtRbreeuat@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:25 PM_
+Israel, hamas trade blame over truce violations, rafah border reopening eyed but no date set" }
+Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
+Hamas says it has handed over all hostage remains it can recover" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
 
-TssLesajh:::txtsize --> Ptineluiisey:::txtsize
-Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
-GpboiPoidaes:::txtsize --> NegaTrah:::txtsize
-GpboiPoidaes:::txtsize --> Kriinucneida:::txtsize
-Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
-Gpssofemmnsrt:::txtsize --> GpmglnolN:::txtsize
-TssLesajh:::txtsize --> PLeubhwitea:::txtsize
-PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
-Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
-Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
-PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
-Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
-Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
+IlrvztooC:::txtsize --> Iltshguo:::txtsize
+Iltshguo:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Iltshguo:::txtsize --> Hstmeaudrhga:::txtsize
+Hstmeaudrhga:::txtsize --> Hstaoltesnv:::txtsize
+IlrvztooC:::txtsize --> Upiatzck:::txtsize
+Upiatzck:::txtsize --> Ilkzispec:::txtsize
+Ilkzispec:::txtsize --> IlseetvtRbreeuat:::txtsize
+Ilkzispec:::txtsize --> Hstaoltesnv:::txtsize
+Upiatzck:::txtsize --> AtHfezerydatoGel:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
 
-IKnjTookidornepi@{ shape: win-pane, label: "_Published Oct 20, 2025, 09:11 PM_
-Iran’s khamenei rejects trump offer of talks, denies us destroyed iranian nuclear capabilities" }
-TsoettclI@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:05 PM_
-Trump says would be ‘great to get a peace deal’ with iran" }
-TsogrrsiPtnesiais@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:25 PM_
-Trump says ‘long nightmare’ over for israelis and palestinians, receives standing ovation in knesset" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Hholissrrazo@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:47 PM_
-Hamas hands over all living hostages to israel; trump says gaza war over" }
-Raiedpitnls@{ shape: win-pane, label: "_Published Oct 20, 2025, 06:51 PM_
-Russia says it’s prepared to expand ties with iran in all areas" }
-IottfSknae@{ shape: win-pane, label: "_Published Jun 23, 2025, 07:35 AM_
-Iran vows retaliation after us strikes on nuclear sites" }
-TtIodirsdelmutt@{ shape: win-pane, label: "_Published Jun 13, 2025, 08:20 AM_
-Trump tells iran to ‘make deal’ with israel as world leaders call for ‘maximum restraint’" }
-Spsatakaoured@{ shape: win-pane, label: "_Published Jun 23, 2025, 12:52 PM_
-Small protests against the us attack in iran sprouted up over the weekend" }
-RastlaliaI@{ shape: win-pane, label: "_Published Jun 18, 2025, 06:51 PM_
-Russia warns us not to help israel militarily against iran" }
-MnsmnaTuron@{ shape: win-pane, label: "_Published Jun 18, 2025, 04:26 AM_
-Macron fears regime change chaos as trump ups threats on iran" }
-SmdaiIivrenU@{ shape: win-pane, label: "_Published Jun 18, 2025, 12:30 PM_
-Supreme leader khamenei says iran will ‘never surrender’, warns off us" }
+Tdlarnascidl@{ shape: win-pane, label: "_Published Oct 21, 2025, 02:36 AM_
+Trump downplays taiwan risk in china talks, expects fair trade deal" }
+Csapdstimaivagp@{ shape: win-pane, label: "_Published Oct 08, 2025, 04:08 PM_
+China says taiwan president is ‘prostituting’ himself, after interview lauding trump" }
+Tnpseniepmeei@{ shape: win-pane, label: "_Published Oct 08, 2025, 11:12 AM_
+Taiwan reappoints former economy minister as apec summit representative" }
+TnCeasosolwhXy@{ shape: win-pane, label: "_Published Nov 17, 2024, 07:51 AM_
+Taiwan's apec representative says no handshake or dialogue with china's xi, only wave" }
+Caewfnpecne@{ shape: win-pane, label: "_Published Jul 30, 2025, 04:38 PM_
+China accuses taiwan of forcing its people to be ‘cannon fodder’" }
+CaeUlnethdiegay@{ shape: win-pane, label: "_Published Oct 07, 2025, 11:07 AM_
+China angered by eu ‘challenging’ un resolution that led to taiwan leaving global body" }
+TnCtgeeaoatetnri@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:29 PM_
+Taiwan says china trying to create legal basis for attack with un resolution interpretation" }
+Tdvbihcniaociasa@{ shape: win-pane, label: "_Published Oct 07, 2025, 10:02 AM_
+Trump deserves nobel prize if he can convince china to abandon force against taiwan, says lai" }
+Chsdeerpcea@{ shape: win-pane, label: "_Published Oct 17, 2025, 05:00 AM_
+China hawks should temper hopes over trump’s muscle flexing at xi" }
+Xdompuheut@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:53 AM_
+Xi’s red line on trump’s export curbs threatens to upend truce" }
+Ooltwrakepdas@{ shape: win-pane, label: "_Published Sep 20, 2025, 09:35 AM_
+One phone call, two takeaways: trump says tiktok deal approved; china holds back" }
+Wnrtffnrlt@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:00 PM_
+Why donald trump’s tariffs are failing to break global trade" }
 
-IKnjTookidornepi:::txtsize --> TsoettclI:::txtsize
-TsoettclI:::txtsize --> TsogrrsiPtnesiais:::txtsize
-TsogrrsiPtnesiais:::txtsize --> TssHaossaaorslaoe:::txtsize
-TsogrrsiPtnesiais:::txtsize --> Hholissrrazo:::txtsize
-IKnjTookidornepi:::txtsize --> Raiedpitnls:::txtsize
-Raiedpitnls:::txtsize --> IottfSknae:::txtsize
-IottfSknae:::txtsize --> TtIodirsdelmutt:::txtsize
-IottfSknae:::txtsize --> Spsatakaoured:::txtsize
-Raiedpitnls:::txtsize --> RastlaliaI:::txtsize
-RastlaliaI:::txtsize --> MnsmnaTuron:::txtsize
-RastlaliaI:::txtsize --> SmdaiIivrenU:::txtsize
+Tdlarnascidl:::txtsize --> Csapdstimaivagp:::txtsize
+Csapdstimaivagp:::txtsize --> Tnpseniepmeei:::txtsize
+Tnpseniepmeei:::txtsize --> TnCeasosolwhXy:::txtsize
+Tnpseniepmeei:::txtsize --> Caewfnpecne:::txtsize
+Csapdstimaivagp:::txtsize --> CaeUlnethdiegay:::txtsize
+CaeUlnethdiegay:::txtsize --> TnCtgeeaoatetnri:::txtsize
+CaeUlnethdiegay:::txtsize --> Tdvbihcniaociasa:::txtsize
+Tdlarnascidl:::txtsize --> Chsdeerpcea:::txtsize
+Chsdeerpcea:::txtsize --> Xdompuheut:::txtsize
+Xdompuheut:::txtsize --> Ooltwrakepdas:::txtsize
+Xdompuheut:::txtsize --> Wnrtffnrlt:::txtsize
 
 ```
-<i>Last updated: 2025-10-21 00:00:31.711007 (GMT+8)</i>
+<i>Last updated: 2025-10-21 04:00:48.852164 (GMT+8)</i>
 <!-- END -->
