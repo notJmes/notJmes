@@ -16,6 +16,37 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Lnabsglit@{ shape: win-pane, label: "_Published Oct 20, 2025, 11:15 PM_
+London ‘scream club’ helps young people relieve stress" }
+Mltohiaacta@{ shape: win-pane, label: "_Published Jan 10, 2025, 05:00 AM_
+Mental health is now on the national agenda – let’s cut to the chase" }
+MlttlraMmoatpmt@{ shape: win-pane, label: "_Published Feb 07, 2024, 01:47 PM_
+Mental health a national priority, says dpm wong; 28,000 more to be trained to help in community" }
+Mowotalime@{ shape: win-pane, label: "_Published Feb 06, 2024, 09:15 PM_
+Mps propose ways to fight mental health stigma, improve care" }
+Slhtlaldbse@{ shape: win-pane, label: "_Published Oct 05, 2023, 06:30 PM_
+S’pore launches national mental health and well-being strategy" }
+Slhtlaldbse@{ shape: win-pane, label: "_Published Oct 05, 2023, 06:30 PM_
+S’pore launches national mental health and well-being strategy" }
+Almltrnaetrius@{ shape: win-pane, label: "_Published Jun 01, 2023, 02:50 PM_
+App by local mental health start-up encourages people to share their struggles" }
+Htidshcstehhm@{ shape: win-pane, label: "_Published Oct 10, 2025, 12:00 PM_
+He battled his own demons, now this doctor is fighting mental health stigma" }
+VFhcktdtadalSp@{ shape: win-pane, label: "_Published Oct 10, 2025, 12:00 PM_
+Views from the couch: tackling the hidden stigma around mental health in singapore" }
+SporeyalpKh@{ shape: win-pane, label: "_Published Oct 10, 2025, 12:00 PM_
+Singapore to prioritise early mental health support: koh poh koon" }
+
+Lnabsglit:::txtsize --> Mltohiaacta:::txtsize
+Mltohiaacta:::txtsize --> MlttlraMmoatpmt:::txtsize
+MlttlraMmoatpmt:::txtsize --> Mowotalime:::txtsize
+MlttlraMmoatpmt:::txtsize --> Slhtlaldbse:::txtsize
+Mltohiaacta:::txtsize --> Slhtlaldbse:::txtsize
+Slhtlaldbse:::txtsize --> Almltrnaetrius:::txtsize
+Lnabsglit:::txtsize --> Htidshcstehhm:::txtsize
+Htidshcstehhm:::txtsize --> VFhcktdtadalSp:::txtsize
+VFhcktdtadalSp:::txtsize --> SporeyalpKh:::txtsize
+
 TssLesajh@{ shape: win-pane, label: "_Published Oct 20, 2025, 09:17 PM_
 Tourists upset as louvre stays shut after jewel heist" }
 Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
@@ -96,52 +127,6 @@ Raiedpitnls:::txtsize --> RastlaliaI:::txtsize
 RastlaliaI:::txtsize --> MnsmnaTuron:::txtsize
 RastlaliaI:::txtsize --> SmdaiIivrenU:::txtsize
 
-CbcasfStfs@{ shape: win-pane, label: "_Published Oct 20, 2025, 09:11 PM_
-Colombia recalls ambassador from us amid tariff, drug spat" }
-Tcftocndra@{ shape: win-pane, label: "_Published Oct 19, 2025, 09:41 PM_
-Trump cuts off aid to colombia, calling leader a drug dealer" }
-UeCbreiemaPtne@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:23 AM_
-Us to revoke colombian president’s visa over comments at pro-palestinian gathering" }
-WlrlilntoUySs@{ shape: win-pane, label: "_Published Sep 23, 2025, 03:40 AM_
-World leaders rally behind palestinian statehood at un, defying us and israel" }
-Aoienempsiroins@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:00 AM_
-At un, colombian president urges ‘criminal process’ against trump for strikes on boats" }
-CbretcUiittlfiv@{ shape: win-pane, label: "_Published Sep 28, 2025, 09:18 AM_
-Colombian president petro accuses us of violating international law after visa revoked" }
-UeCbreiemaPtne@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:23 AM_
-Us to revoke colombian president’s visa over comments at pro-palestinian gathering" }
-Aoienempsiroins@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:00 AM_
-At un, colombian president urges ‘criminal process’ against trump for strikes on boats" }
-CbretcUiittlfiv@{ shape: win-pane, label: "_Published Sep 28, 2025, 09:18 AM_
-Colombian president petro accuses us of violating international law after visa revoked" }
-UeCbreiemaPtne@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:23 AM_
-Us to revoke colombian president’s visa over comments at pro-palestinian gathering" }
-WlrlilntoUySs@{ shape: win-pane, label: "_Published Sep 23, 2025, 03:40 AM_
-World leaders rally behind palestinian statehood at un, defying us and israel" }
-Aoienempsiroins@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:00 AM_
-At un, colombian president urges ‘criminal process’ against trump for strikes on boats" }
-Aoienempsiroins@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:00 AM_
-At un, colombian president urges ‘criminal process’ against trump for strikes on boats" }
-TsSndhornl@{ shape: win-pane, label: "_Published Sep 17, 2025, 01:05 AM_
-Trump says us has ‘knocked off’ three boats from venezuela" }
-Vufmaagbmur@{ shape: win-pane, label: "_Published Sep 21, 2025, 10:24 AM_
-Venezuela offers military training to public amid trump threats" }
-
-CbcasfStfs:::txtsize --> Tcftocndra:::txtsize
-Tcftocndra:::txtsize --> UeCbreiemaPtne:::txtsize
-UeCbreiemaPtne:::txtsize --> WlrlilntoUySs:::txtsize
-UeCbreiemaPtne:::txtsize --> Aoienempsiroins:::txtsize
-Tcftocndra:::txtsize --> CbretcUiittlfiv:::txtsize
-CbretcUiittlfiv:::txtsize --> UeCbreiemaPtne:::txtsize
-CbretcUiittlfiv:::txtsize --> Aoienempsiroins:::txtsize
-CbcasfStfs:::txtsize --> CbretcUiittlfiv:::txtsize
-CbretcUiittlfiv:::txtsize --> UeCbreiemaPtne:::txtsize
-UeCbreiemaPtne:::txtsize --> WlrlilntoUySs:::txtsize
-UeCbreiemaPtne:::txtsize --> Aoienempsiroins:::txtsize
-CbretcUiittlfiv:::txtsize --> Aoienempsiroins:::txtsize
-Aoienempsiroins:::txtsize --> TsSndhornl:::txtsize
-Aoienempsiroins:::txtsize --> Vufmaagbmur:::txtsize
-
 ```
-<i>Last updated: 2025-10-20 23:08:18.748763 (GMT+8)</i>
+<i>Last updated: 2025-10-21 00:00:31.711007 (GMT+8)</i>
 <!-- END -->
