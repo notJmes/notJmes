@@ -16,6 +16,46 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Hoiviuwrrgsvoecy@{ shape: win-pane, label: "_Published Oct 20, 2025, 12:30 PM_
+Hunt for paris louvre thieves underway as robbery reignites row over poor museum security" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
+‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
+NegaTrah@{ shape: win-pane, label: "_Published Feb 20, 2025, 01:00 PM_
+Nike bets big on reality tv star kim kardashian" }
+Kriinucneida@{ shape: win-pane, label: "_Published May 17, 2023, 12:00 PM_
+Kim kardashian's $1.34 billion buyout pitch leans on her social media reach" }
+Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
+Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
+GpmglnolN@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:52 PM_
+Greenpeace $880m damages ruling in us shocks global ngos" }
+Gotiiei@{ shape: win-pane, label: "_Published Sep 17, 2025, 07:36 PM_
+Gold worth $900,000 stolen in paris museum heist" }
+Onortmhnispsnh@{ shape: win-pane, label: "_Published Aug 27, 2025, 10:00 AM_
+Over 80 interpol alerts to trace more than $479m in criminal assets published in 7 months" }
+IpustcrshnsyiSpap@{ shape: win-pane, label: "_Published Jan 10, 2025, 05:00 PM_
+Interpol launches alert notice to trace assets hidden overseas by criminals; singapore part of pilot" }
+Tnesilcgofincshe@{ shape: win-pane, label: "_Published Jun 14, 2025, 12:04 AM_
+Two men jailed for stealing $7 million 18-carat gold toilet from winston churchill’s birthplace" }
+Glisteoeopenhf@{ shape: win-pane, label: "_Published Jun 03, 2025, 07:05 PM_
+Global airline association seeks to address growing problem of in-flight theft" }
+Cretpeagrdavg@{ shape: win-pane, label: "_Published May 05, 2025, 04:44 PM_
+Copper cable thefts in spain leave passengers trapped in trains overnight" }
+
+Hoiviuwrrgsvoecy:::txtsize --> Ptineluiisey:::txtsize
+Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
+GpboiPoidaes:::txtsize --> NegaTrah:::txtsize
+GpboiPoidaes:::txtsize --> Kriinucneida:::txtsize
+Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
+Gpssofemmnsrt:::txtsize --> GpmglnolN:::txtsize
+Hoiviuwrrgsvoecy:::txtsize --> Gotiiei:::txtsize
+Gotiiei:::txtsize --> Onortmhnispsnh:::txtsize
+Onortmhnispsnh:::txtsize --> IpustcrshnsyiSpap:::txtsize
+Gotiiei:::txtsize --> Tnesilcgofincshe:::txtsize
+Tnesilcgofincshe:::txtsize --> Glisteoeopenhf:::txtsize
+Tnesilcgofincshe:::txtsize --> Cretpeagrdavg:::txtsize
+
 Ftstrgamnn@{ shape: win-pane, label: "_Published Oct 20, 2025, 11:32 AM_
 Flight skids off st petersburg runway in emergency landing" }
 Cpssuigknarf@{ shape: win-pane, label: "_Published Oct 20, 2025, 06:53 AM_
@@ -105,49 +145,6 @@ Istwfpcroun:::txtsize --> Tsosrmanyil:::txtsize
 Tsosrmanyil:::txtsize --> Taaoirilh:::txtsize
 Tsosrmanyil:::txtsize --> Tspaicrifp:::txtsize
 
-TssHcftnerse@{ shape: win-pane, label: "_Published Oct 20, 2025, 09:55 AM_
-Trump says israel-hamas ceasefire still in place after gaza strikes" }
-Ilcfntutrkla@{ shape: win-pane, label: "_Published Oct 20, 2025, 06:50 AM_
-Israel says ceasefire and aid to resume after airstrikes kill 26 in gaza" }
-Ilkzispec@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:06 PM_
-Israel strikes gaza, saying its troops were attacked" }
-IlseetvtRbreeuat@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:25 PM_
-Israel, hamas trade blame over truce violations, rafah border reopening eyed but no date set" }
-Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
-Hamas says it has handed over all hostage remains it can recover" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
-Peace finally descends on the middle east: now the battle to make it last begins" }
-Usiessntasal@{ shape: win-pane, label: "_Published Oct 19, 2025, 07:02 AM_
-Us says ‘credible reports’ hamas planning attack against gaza civilians" }
-Hfeggncitfe@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:10 PM_
-Hamas fighters tighten grip in gaza, clouding future of ceasefire" }
-TsogrrsiPtnesiais@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:25 PM_
-Trump says ‘long nightmare’ over for israelis and palestinians, receives standing ovation in knesset" }
-TtvriMe@{ shape: win-pane, label: "_Published Oct 14, 2025, 06:20 AM_
-Trump takes victory lap in the middle east" }
-Tttoalatnpkn@{ shape: win-pane, label: "_Published Oct 17, 2025, 02:21 AM_
-Trump threatens to ‘go in and kill’ hamas if it doesn’t stop gaza killings" }
-Thtndrltasact@{ shape: win-pane, label: "_Published Oct 14, 2025, 01:41 AM_
-Trump hails ‘tremendous day for middle east’ as leaders sign gaza declaration" }
-Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
-Hamas says it has handed over all hostage remains it can recover" }
-
-TssHcftnerse:::txtsize --> Ilcfntutrkla:::txtsize
-Ilcfntutrkla:::txtsize --> Ilkzispec:::txtsize
-Ilkzispec:::txtsize --> IlseetvtRbreeuat:::txtsize
-Ilkzispec:::txtsize --> Hstaoltesnv:::txtsize
-Ilcfntutrkla:::txtsize --> Tdrcaaededlncbs:::txtsize
-Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
-TssHcftnerse:::txtsize --> Usiessntasal:::txtsize
-Usiessntasal:::txtsize --> Hfeggncitfe:::txtsize
-Hfeggncitfe:::txtsize --> TsogrrsiPtnesiais:::txtsize
-Hfeggncitfe:::txtsize --> TtvriMe:::txtsize
-Usiessntasal:::txtsize --> Tttoalatnpkn:::txtsize
-Tttoalatnpkn:::txtsize --> Thtndrltasact:::txtsize
-Tttoalatnpkn:::txtsize --> Hstaoltesnv:::txtsize
-
 ```
-<i>Last updated: 2025-10-20 12:00:58.973567 (GMT+8)</i>
+<i>Last updated: 2025-10-20 16:00:42.803799 (GMT+8)</i>
 <!-- END -->
