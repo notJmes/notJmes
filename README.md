@@ -16,129 +16,138 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Bsovwotdsglp@{ shape: win-pane, label: "_Published Oct 20, 2025, 07:36 AM_
-British troops given powers to shoot down drones on sight: telegraph" }
-Dsunitsdiesnne@{ shape: win-pane, label: "_Published Sep 25, 2025, 06:07 AM_
-Drones disrupt danish airports for second time in a week; russia denies involvement" }
-PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
-Poland shoots down drones, the first nato member to open fire during ukraine war" }
-Gnarwerr@{ shape: win-pane, label: "_Published Sep 10, 2025, 01:08 AM_
-Germany to back ukraine with ‘deep-strike’ drones" }
-Raidnocralpd@{ shape: win-pane, label: "_Published Sep 09, 2025, 11:36 PM_
-Russia’s putin ready to invade other countries, says poland’s president" }
-DsiithChOit@{ shape: win-pane, label: "_Published Sep 23, 2025, 08:52 AM_
-Drone sightings disrupt flights at copenhagen, oslo airports" }
-Eerslcakunrie@{ shape: win-pane, label: "_Published Sep 20, 2025, 03:40 PM_
-European airports snarled by cyber attack, disruption to stretch into sept 21" }
-Arohtegfawtsrry@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:16 AM_
-Airport chaos highlights rise in high-profile ransomware attacks, cyber experts say" }
-Gnlotone@{ shape: win-pane, label: "_Published Oct 08, 2025, 06:17 PM_
-Germany to allow police to shoot down drones" }
-Ryeyircdnret@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:35 AM_
-Runways at germany’s munich airport closed again after drone sightings" }
-Gneafrinuiroi@{ shape: win-pane, label: "_Published Oct 03, 2025, 09:15 AM_
-Germany investigates after drone sightings shut munich airport overnight" }
-Gneafrinuiroi@{ shape: win-pane, label: "_Published Oct 03, 2025, 09:15 AM_
-Germany investigates after drone sightings shut munich airport overnight" }
-Ryeyircdnret@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:35 AM_
-Runways at germany’s munich airport closed again after drone sightings" }
-Gneafrinuiroi@{ shape: win-pane, label: "_Published Oct 03, 2025, 09:15 AM_
-Germany investigates after drone sightings shut munich airport overnight" }
-Gneafrinuiroi@{ shape: win-pane, label: "_Published Oct 03, 2025, 09:15 AM_
-Germany investigates after drone sightings shut munich airport overnight" }
+Ftstrgamnn@{ shape: win-pane, label: "_Published Oct 20, 2025, 11:32 AM_
+Flight skids off st petersburg runway in emergency landing" }
+Cpssuigknarf@{ shape: win-pane, label: "_Published Oct 20, 2025, 06:53 AM_
+Cargo plane slides off runway in hong kong, killing two airport staff" }
+JistaeeuaBg@{ shape: win-pane, label: "_Published Oct 16, 2025, 10:55 AM_
+Jeju air crash victims’ families file lawsuit against boeing" }
+Jinspniteooma@{ shape: win-pane, label: "_Published Dec 29, 2024, 08:58 AM_
+Jeju air plane crashes upon landing in south korea, 179 on board confirmed dead" }
+Enojpsosanbehcs@{ shape: win-pane, label: "_Published Jul 21, 2025, 02:27 PM_
+Evidence shows jeju air pilots shut off less-damaged engine before crash, source says" }
+SlRyrsnwawort@{ shape: win-pane, label: "_Published Jan 03, 2024, 08:45 PM_
+St explains: runway incursions around the world and how airports prevent them" }
+JAniaaobeydpoi@{ shape: win-pane, label: "_Published Jan 03, 2024, 08:00 AM_
+Japan airlines flight was cleared to land before fiery haneda airport collision" }
+Jrsaifloaln@{ shape: win-pane, label: "_Published Jan 03, 2024, 12:29 PM_
+Japan releases transcripts of fatal tokyo runway collision" }
+JistaeeuaBg@{ shape: win-pane, label: "_Published Oct 16, 2025, 10:55 AM_
+Jeju air crash victims’ families file lawsuit against boeing" }
+Jinspniteooma@{ shape: win-pane, label: "_Published Dec 29, 2024, 08:58 AM_
+Jeju air plane crashes upon landing in south korea, 179 on board confirmed dead" }
+EtsbtaseJis@{ shape: win-pane, label: "_Published Dec 29, 2024, 07:15 PM_
+Experts question bird strike as cause of deadly jeju air crash" }
+Enojpsosanbehcs@{ shape: win-pane, label: "_Published Jul 21, 2025, 02:27 PM_
+Evidence shows jeju air pilots shut off less-damaged engine before crash, source says" }
+DNogoulhart@{ shape: win-pane, label: "_Published Jan 27, 2025, 07:18 AM_
+Duck dna in both engines of jeju air plane that crashed, report says" }
+SKatljcrtrimsuwfc@{ shape: win-pane, label: "_Published Jul 20, 2025, 01:19 AM_
+South korea abruptly pulls jeju air crash report after victims’ families disrupt news conference" }
 
-Bsovwotdsglp:::txtsize --> Dsunitsdiesnne:::txtsize
-Dsunitsdiesnne:::txtsize --> PdtnefNetndgir:::txtsize
-PdtnefNetndgir:::txtsize --> Gnarwerr:::txtsize
-PdtnefNetndgir:::txtsize --> Raidnocralpd:::txtsize
-Dsunitsdiesnne:::txtsize --> DsiithChOit:::txtsize
-DsiithChOit:::txtsize --> Eerslcakunrie:::txtsize
-DsiithChOit:::txtsize --> Arohtegfawtsrry:::txtsize
-Bsovwotdsglp:::txtsize --> Gnlotone:::txtsize
-Gnlotone:::txtsize --> Ryeyircdnret:::txtsize
-Ryeyircdnret:::txtsize --> Gneafrinuiroi:::txtsize
-Ryeyircdnret:::txtsize --> Gneafrinuiroi:::txtsize
-Gnlotone:::txtsize --> Ryeyircdnret:::txtsize
-Ryeyircdnret:::txtsize --> Gneafrinuiroi:::txtsize
-Ryeyircdnret:::txtsize --> Gneafrinuiroi:::txtsize
+Ftstrgamnn:::txtsize --> Cpssuigknarf:::txtsize
+Cpssuigknarf:::txtsize --> JistaeeuaBg:::txtsize
+JistaeeuaBg:::txtsize --> Jinspniteooma:::txtsize
+JistaeeuaBg:::txtsize --> Enojpsosanbehcs:::txtsize
+Cpssuigknarf:::txtsize --> SlRyrsnwawort:::txtsize
+SlRyrsnwawort:::txtsize --> JAniaaobeydpoi:::txtsize
+SlRyrsnwawort:::txtsize --> Jrsaifloaln:::txtsize
+Ftstrgamnn:::txtsize --> JistaeeuaBg:::txtsize
+JistaeeuaBg:::txtsize --> Jinspniteooma:::txtsize
+Jinspniteooma:::txtsize --> EtsbtaseJis:::txtsize
+JistaeeuaBg:::txtsize --> Enojpsosanbehcs:::txtsize
+Enojpsosanbehcs:::txtsize --> DNogoulhart:::txtsize
+Enojpsosanbehcs:::txtsize --> SKatljcrtrimsuwfc:::txtsize
 
+Tvomvinalilra@{ shape: win-pane, label: "_Published Oct 20, 2025, 10:26 AM_
+Trump vows to keep ‘massive’ tariffs on india until russian oil imports cease" }
+ItnRaitprhsrtcy@{ shape: win-pane, label: "_Published Aug 02, 2025, 07:04 PM_
+India to maintain russian oil imports despite trump threats, government sources say" }
+Unsenyirnidhe@{ shape: win-pane, label: "_Published Aug 01, 2025, 09:24 PM_
+Ukraine says 31 killed in end-july russian strike on kyiv, including 5 children" }
+Raiilpeirond@{ shape: win-pane, label: "_Published Jul 31, 2025, 08:39 PM_
+Russian strikes kill at least 16 people in kyiv; 6-year-old boy among dead" }
+Rainisiyminsi@{ shape: win-pane, label: "_Published Aug 01, 2025, 05:24 AM_
+Russia’s actions in ukraine ‘disgusting’, says trump, indicating new sanctions" }
+Rainisiyminsi@{ shape: win-pane, label: "_Published Aug 01, 2025, 05:24 AM_
+Russia’s actions in ukraine ‘disgusting’, says trump, indicating new sanctions" }
+Raiilpeirond@{ shape: win-pane, label: "_Published Jul 31, 2025, 08:39 PM_
+Russian strikes kill at least 16 people in kyiv; 6-year-old boy among dead" }
+TwdousniAtU@{ shape: win-pane, label: "_Published Aug 01, 2025, 12:19 AM_
+Trump wants deal to end russia’s war in ukraine by aug 8, us tells un" }
+Istwfpcroun@{ shape: win-pane, label: "_Published Oct 17, 2025, 09:22 AM_
+India says it’s unaware of trump-modi conversation on russian oil" }
+Tretfsnakergraoe@{ shape: win-pane, label: "_Published Aug 07, 2025, 11:00 PM_
+Trump ratchets up tariff pressure on india, sparking despair among exporters and growth fears" }
+Taaoirilh@{ shape: win-pane, label: "_Published Aug 06, 2025, 10:25 PM_
+Trump adds 25% tariff on india over russian oil purchases" }
+MokLliitis@{ shape: win-pane, label: "_Published Aug 07, 2025, 09:30 PM_
+Modi to speak with lula, plans xi meeting as ties with us sour" }
+Tsosrmanyil@{ shape: win-pane, label: "_Published Oct 16, 2025, 05:45 AM_
+Trump says modi has assured him india will not buy russian oil" }
+Taaoirilh@{ shape: win-pane, label: "_Published Aug 06, 2025, 10:25 PM_
+Trump adds 25% tariff on india over russian oil purchases" }
+Tspaicrifp@{ shape: win-pane, label: "_Published Aug 05, 2025, 11:38 PM_
+Trump’s sharp india criticism corners modi as rift deepens" }
+
+Tvomvinalilra:::txtsize --> ItnRaitprhsrtcy:::txtsize
+ItnRaitprhsrtcy:::txtsize --> Unsenyirnidhe:::txtsize
+Unsenyirnidhe:::txtsize --> Raiilpeirond:::txtsize
+Unsenyirnidhe:::txtsize --> Rainisiyminsi:::txtsize
+ItnRaitprhsrtcy:::txtsize --> Rainisiyminsi:::txtsize
+Rainisiyminsi:::txtsize --> Raiilpeirond:::txtsize
+Rainisiyminsi:::txtsize --> TwdousniAtU:::txtsize
+Tvomvinalilra:::txtsize --> Istwfpcroun:::txtsize
+Istwfpcroun:::txtsize --> Tretfsnakergraoe:::txtsize
+Tretfsnakergraoe:::txtsize --> Taaoirilh:::txtsize
+Tretfsnakergraoe:::txtsize --> MokLliitis:::txtsize
+Istwfpcroun:::txtsize --> Tsosrmanyil:::txtsize
+Tsosrmanyil:::txtsize --> Taaoirilh:::txtsize
+Tsosrmanyil:::txtsize --> Tspaicrifp:::txtsize
+
+TssHcftnerse@{ shape: win-pane, label: "_Published Oct 20, 2025, 09:55 AM_
+Trump says israel-hamas ceasefire still in place after gaza strikes" }
 Ilcfntutrkla@{ shape: win-pane, label: "_Published Oct 20, 2025, 06:50 AM_
 Israel says ceasefire and aid to resume after airstrikes kill 26 in gaza" }
 Ilkzispec@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:06 PM_
 Israel strikes gaza, saying its troops were attacked" }
 IlseetvtRbreeuat@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:25 PM_
 Israel, hamas trade blame over truce violations, rafah border reopening eyed but no date set" }
-IlHhdbhnroe@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:54 PM_
-Israel says hamas handed over body that is not former hostage" }
-Ilprnpfogriyteul@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:20 PM_
-Israel says preparations to open rafah crossing underway with egypt, date to be announced later" }
 Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
 Hamas says it has handed over all hostage remains it can recover" }
-Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
-Trump says israel could resume fighting in gaza if hamas fails to disarm" }
-IlHhdbhnroe@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:54 PM_
-Israel says hamas handed over body that is not former hostage" }
 Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
 Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
 PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
 Peace finally descends on the middle east: now the battle to make it last begins" }
-TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
-Tears, joy in israel as hamas hands over first hostages" }
+Usiessntasal@{ shape: win-pane, label: "_Published Oct 19, 2025, 07:02 AM_
+Us says ‘credible reports’ hamas planning attack against gaza civilians" }
+Hfeggncitfe@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:10 PM_
+Hamas fighters tighten grip in gaza, clouding future of ceasefire" }
+TsogrrsiPtnesiais@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:25 PM_
+Trump says ‘long nightmare’ over for israelis and palestinians, receives standing ovation in knesset" }
+TtvriMe@{ shape: win-pane, label: "_Published Oct 14, 2025, 06:20 AM_
+Trump takes victory lap in the middle east" }
+Tttoalatnpkn@{ shape: win-pane, label: "_Published Oct 17, 2025, 02:21 AM_
+Trump threatens to ‘go in and kill’ hamas if it doesn’t stop gaza killings" }
+Thtndrltasact@{ shape: win-pane, label: "_Published Oct 14, 2025, 01:41 AM_
+Trump hails ‘tremendous day for middle east’ as leaders sign gaza declaration" }
+Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
+Hamas says it has handed over all hostage remains it can recover" }
 
+TssHcftnerse:::txtsize --> Ilcfntutrkla:::txtsize
 Ilcfntutrkla:::txtsize --> Ilkzispec:::txtsize
 Ilkzispec:::txtsize --> IlseetvtRbreeuat:::txtsize
-IlseetvtRbreeuat:::txtsize --> IlHhdbhnroe:::txtsize
-IlseetvtRbreeuat:::txtsize --> Ilprnpfogriyteul:::txtsize
 Ilkzispec:::txtsize --> Hstaoltesnv:::txtsize
-Hstaoltesnv:::txtsize --> Tsscretniali:::txtsize
-Hstaoltesnv:::txtsize --> IlHhdbhnroe:::txtsize
 Ilcfntutrkla:::txtsize --> Tdrcaaededlncbs:::txtsize
 Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
-PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
-
-WYresemhiO@{ shape: win-pane, label: "_Published Oct 20, 2025, 06:00 AM_
-While you were sleeping: 5 stories you might have missed, oct 20, 2025" }
-TuUnlykcoRaneSe@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:16 AM_
-Trump urged ukraine’s zelensky to make concessions to russia in tense meeting: sources" }
-TtZsmdshlss@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:27 AM_
-Trump tells zelensky to ‘make a deal’ as tomahawk plea misfires" }
-Zseafrnouu@{ shape: win-pane, label: "_Published Oct 17, 2025, 10:31 PM_
-Zelensky seeks weapons from trump in shadow of putin summit" }
-Zsguerwkhds@{ shape: win-pane, label: "_Published Oct 11, 2025, 10:10 PM_
-Zelensky urges trump to end ukraine war like in ‘the middle east’" }
-Piaesaeaemim@{ shape: win-pane, label: "_Published Oct 18, 2025, 04:45 PM_
-Peace in ukraine remains distant ahead of another trump-putin summit" }
-Hnruosd@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:32 AM_
-How donald trump pulled off his gaza deal" }
-NKnilefrnde@{ shape: win-pane, label: "_Published Oct 20, 2025, 04:26 AM_
-North korean soldier held by seoul after crossing land border" }
-NKnutigsd@{ shape: win-pane, label: "_Published Aug 07, 2025, 01:05 PM_
-North korean rescued after swimming across border" }
-NKncmenpy@{ shape: win-pane, label: "_Published Jul 18, 2025, 09:21 AM_
-North korean defectors make debut in new k-pop boy band" }
-NKnifrndeui@{ shape: win-pane, label: "_Published Jul 04, 2025, 10:45 AM_
-North korean detained after crossing land border: seoul military" }
-SKcffrcgyreroofr@{ shape: win-pane, label: "_Published Feb 19, 2025, 04:06 PM_
-South korea court finds former officials guilty of forcible return of north korean fishermen" }
-NKdnbdlsngSl@{ shape: win-pane, label: "_Published Feb 18, 2025, 02:41 PM_
-North korea denounces ‘absurd’ denuclearisation pledge by us and allies" }
-NKsaasfrb@{ shape: win-pane, label: "_Published Feb 17, 2025, 09:45 AM_
-North korea’s kim makes rare visit to father’s tomb" }
-
-WYresemhiO:::txtsize --> TuUnlykcoRaneSe:::txtsize
-TuUnlykcoRaneSe:::txtsize --> TtZsmdshlss:::txtsize
-TtZsmdshlss:::txtsize --> Zseafrnouu:::txtsize
-TtZsmdshlss:::txtsize --> Zsguerwkhds:::txtsize
-TuUnlykcoRaneSe:::txtsize --> Piaesaeaemim:::txtsize
-Piaesaeaemim:::txtsize --> Hnruosd:::txtsize
-WYresemhiO:::txtsize --> NKnilefrnde:::txtsize
-NKnilefrnde:::txtsize --> NKnutigsd:::txtsize
-NKnutigsd:::txtsize --> NKncmenpy:::txtsize
-NKnutigsd:::txtsize --> NKnifrndeui:::txtsize
-NKnilefrnde:::txtsize --> SKcffrcgyreroofr:::txtsize
-SKcffrcgyreroofr:::txtsize --> NKdnbdlsngSl:::txtsize
-SKcffrcgyreroofr:::txtsize --> NKsaasfrb:::txtsize
+TssHcftnerse:::txtsize --> Usiessntasal:::txtsize
+Usiessntasal:::txtsize --> Hfeggncitfe:::txtsize
+Hfeggncitfe:::txtsize --> TsogrrsiPtnesiais:::txtsize
+Hfeggncitfe:::txtsize --> TtvriMe:::txtsize
+Usiessntasal:::txtsize --> Tttoalatnpkn:::txtsize
+Tttoalatnpkn:::txtsize --> Thtndrltasact:::txtsize
+Tttoalatnpkn:::txtsize --> Hstaoltesnv:::txtsize
 
 ```
-<i>Last updated: 2025-10-20 08:00:31.618805 (GMT+8)</i>
+<i>Last updated: 2025-10-20 12:00:58.973567 (GMT+8)</i>
 <!-- END -->
