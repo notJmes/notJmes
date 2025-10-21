@@ -16,114 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tttinchon@{ shape: win-pane, label: "_Published Oct 21, 2025, 11:41 PM_
-Trump to host saudi crown prince at white house on nov 18" }
-Tlhanincnnelc@{ shape: win-pane, label: "_Published May 14, 2025, 09:02 AM_
-Trump lavishes praise on saudi crown prince, signalling renewed alliance" }
-Tssvfimcil@{ shape: win-pane, label: "_Published May 13, 2025, 04:52 PM_
-Trump starts gulf visit focusing on mega economic deals" }
-WounmiEo@{ shape: win-pane, label: "_Published May 13, 2025, 05:00 AM_
-What does trump want from his middle east tour?" }
-PefitaeeiTstin@{ shape: win-pane, label: "_Published May 11, 2025, 05:06 PM_
-Prospects of saudi ties to israel seen to be elusive as trump seeks $1.3 trillion bonanza" }
-Uesarbpg@{ shape: win-pane, label: "_Published May 13, 2025, 11:07 PM_
-Us agrees to sell saudi arabia $185b arms package" }
-SAatstntiiclinhdvgn@{ shape: win-pane, label: "_Published Oct 20, 2018, 11:16 AM_
-Saudi arabia admits dissident journalist was killed in its consulate: timeline of the murder investigation" }
+Ferlnsrsdu@{ shape: win-pane, label: "_Published Oct 22, 2025, 03:31 AM_
+France orders poultry indoors as bird flu spreads in europe" }
+Isihtsefsoss@{ shape: win-pane, label: "_Published Aug 30, 2025, 04:07 PM_
+India’s delhi zoo shut after positive bird flu tests from two storks" }
+Gitvhrircseot@{ shape: win-pane, label: "_Published May 20, 2025, 04:09 AM_
+Genetic test to reveal whether brazil’s bird flu case is linked to zoo deaths" }
+Nlrtosrraatroeyeoe@{ shape: win-pane, label: "_Published May 19, 2025, 03:34 PM_
+No poultry or poultry products imported from brazil farm hit by bird flu outbreak, say s’pore authorities" }
+Wsfdrstomiron@{ shape: win-pane, label: "_Published May 16, 2025, 10:43 PM_
+What is bird flu, and why brazil’s first case on a commercial farm is concerning" }
+Ucoalugoafc@{ shape: win-pane, label: "_Published May 29, 2025, 06:44 AM_
+Us cancels more than $900 million funding for moderna bird flu vaccine" }
+Ulincehaoaee@{ shape: win-pane, label: "_Published May 15, 2025, 07:27 AM_
+Us health chief kennedy clashes with lawmakers over vaccine comments" }
+Blsfwivgptacrf@{ shape: win-pane, label: "_Published May 28, 2025, 05:43 AM_
+Brazil finds bird flu in wild bird, investigates potential case on commercial farm" }
+Blbboaaaet@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:25 AM_
+Bird flu may be airborne on us dairy farms, say scientists" }
+Bleprnewiir@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:10 AM_
+Bird flu wiped out poultry, and now the screw worm is coming for beef" }
+Mogcessrougerw@{ shape: win-pane, label: "_Published May 14, 2025, 12:12 AM_
+Mexico to tighten cattle flows from south, rules out shutting border over screwworm" }
+SesMothnem@{ shape: win-pane, label: "_Published Jul 11, 2025, 09:53 PM_
+Sniffer dogs help mexico fight flesh-eating screwworm" }
+SdfronitSy@{ shape: win-pane, label: "_Published Feb 06, 2025, 05:33 AM_
+Second bird flu strain found in us dairy cattle, usda says" }
+EoentUtnteih@{ shape: win-pane, label: "_Published Feb 04, 2025, 11:37 PM_
+Egg shortages are now hitting us restaurants, with no relief in sight" }
+Knyiurhuiea@{ shape: win-pane, label: "_Published Jan 28, 2025, 12:10 PM_
+Keeping an eye on bird flu outbreak that could quickly escalate" }
 
-Tttinchon:::txtsize --> Tlhanincnnelc:::txtsize
-Tlhanincnnelc:::txtsize --> Tssvfimcil:::txtsize
-Tssvfimcil:::txtsize --> WounmiEo:::txtsize
-Tssvfimcil:::txtsize --> PefitaeeiTstin:::txtsize
-Tlhanincnnelc:::txtsize --> Uesarbpg:::txtsize
-Uesarbpg:::txtsize --> SAatstntiiclinhdvgn:::txtsize
+Ferlnsrsdu:::txtsize --> Isihtsefsoss:::txtsize
+Isihtsefsoss:::txtsize --> Gitvhrircseot:::txtsize
+Gitvhrircseot:::txtsize --> Nlrtosrraatroeyeoe:::txtsize
+Gitvhrircseot:::txtsize --> Wsfdrstomiron:::txtsize
+Isihtsefsoss:::txtsize --> Ucoalugoafc:::txtsize
+Ucoalugoafc:::txtsize --> Ulincehaoaee:::txtsize
+Ucoalugoafc:::txtsize --> Blsfwivgptacrf:::txtsize
+Ferlnsrsdu:::txtsize --> Blbboaaaet:::txtsize
+Blbboaaaet:::txtsize --> Bleprnewiir:::txtsize
+Bleprnewiir:::txtsize --> Mogcessrougerw:::txtsize
+Bleprnewiir:::txtsize --> SesMothnem:::txtsize
+Blbboaaaet:::txtsize --> SdfronitSy:::txtsize
+SdfronitSy:::txtsize --> EoentUtnteih:::txtsize
+SdfronitSy:::txtsize --> Knyiurhuiea:::txtsize
 
-OascolsCy@{ shape: win-pane, label: "_Published Oct 21, 2025, 11:36 PM_
-Onlyfans has paid creators $32.4 billion since 2016, ceo says" }
-OanttlvrpolvSe@{ shape: win-pane, label: "_Published May 23, 2025, 09:40 AM_
-Onlyfans owner in talks to sell to investor group at about $10 billion value: sources" }
-AnForittsiaenm@{ shape: win-pane, label: "_Published Apr 03, 2025, 01:12 AM_
-Amazon, onlyfans founder submit last-minute bids for tiktok as us deadline looms" }
-TsiseceAdi@{ shape: win-pane, label: "_Published Mar 31, 2025, 09:55 AM_
-Trump says tiktok sale deal to come before april 5 deadline" }
-TsiseceAdi@{ shape: win-pane, label: "_Published Mar 31, 2025, 09:55 AM_
-Trump says tiktok sale deal to come before april 5 deadline" }
-Udgopborcty@{ shape: win-pane, label: "_Published Feb 05, 2025, 08:15 AM_
-Uk’s media regulator drops probe into underage access to onlyfans" }
-OaetdvrSde@{ shape: win-pane, label: "_Published Oct 24, 2024, 01:46 AM_
-Onlyfans user sentenced to five years in us child abuse case" }
-Oaepsthorc@{ shape: win-pane, label: "_Published Oct 09, 2024, 02:33 AM_
-Onlyfans creator pleads guilty in child pornography case" }
-TsSbfk@{ shape: win-pane, label: "_Published Sep 16, 2025, 08:10 PM_
-Trump says us has a buyer for tiktok" }
-Tsegoytooi@{ shape: win-pane, label: "_Published Jun 30, 2025, 12:11 AM_
-Trump says he has a group of ‘very wealthy people’ to buy tiktok" }
-Tsetrondfkad@{ shape: win-pane, label: "_Published Jun 20, 2025, 07:30 AM_
-Trump signs executive order to extend deadline for tiktok sale by 90 days" }
-UoseTkwh@{ shape: win-pane, label: "_Published Sep 15, 2025, 09:10 PM_
-Us announces ‘framework’ tiktok deal with china" }
-Twekrireolia@{ shape: win-pane, label: "_Published Jan 17, 2025, 02:39 AM_
-Trump will keep tiktok from ‘going dark’ if deal is on table, adviser says" }
-Iearthaiieipa@{ shape: win-pane, label: "_Published Sep 15, 2025, 04:55 PM_
-In latest trade warning to us, china says nvidia violated anti-monopoly law" }
+Midviloft@{ shape: win-pane, label: "_Published Oct 22, 2025, 03:14 AM_
+Mosquitoes discovered in iceland for the first time" }
+SvEesufakeitn@{ shape: win-pane, label: "_Published Oct 11, 2025, 06:50 PM_
+Survival of europe’s bees and butterflies at risk, conservationists warn" }
+Emtsegehntcdt@{ shape: win-pane, label: "_Published May 30, 2025, 04:08 PM_
+Extreme heatwaves are getting longer and hitting the tropics hardest: study" }
+Cefnraeasfae@{ shape: win-pane, label: "_Published May 29, 2025, 06:00 PM_
+Cool relief for singapore on may 29 as temperatures dip after warm spell" }
+Nnaeolitiootahes@{ shape: win-pane, label: "_Published Apr 04, 2025, 12:00 PM_
+National heatwave response plan a signal that singapore should start taking heat seriously" }
+WipiausW@{ shape: win-pane, label: "_Published Oct 10, 2024, 07:29 AM_
+Wildlife populations have plunged 73% since 1970: wwf" }
+IafiwimsoplNr@{ shape: win-pane, label: "_Published May 13, 2024, 08:09 PM_
+Illegal trafficking of wildlife remains stubbornly prevalent: un report" }
+Glloidrcc@{ shape: win-pane, label: "_Published Feb 24, 2023, 02:04 AM_
+Global wildlife contaminated by 'forever chemicals'" }
+Bettulrituitp@{ shape: win-pane, label: "_Published Sep 18, 2025, 12:01 PM_
+Beetle that threatens australia’s grains industry found in imported nappies" }
+Aaarsrpsrsdfcs@{ shape: win-pane, label: "_Published May 25, 2025, 09:13 AM_
+Australian authorities airdrop supplies to farmers stranded by flood crisis" }
+Aaecueolaoi@{ shape: win-pane, label: "_Published May 24, 2025, 09:31 AM_
+Australia begins clean-up after floods kill 5, damage 10,000 properties" }
+Fvmfderruerta@{ shape: win-pane, label: "_Published May 23, 2025, 05:58 PM_
+Flood victims confront damage after record deluge in eastern australia" }
+neokbenphtmeede@{ shape: win-pane, label: "_Published Jun 30, 2025, 05:00 AM_
+16 new species of darkling beetles found in s’pore, thanks to one man’s resolve over 2 decades" }
+NeodvnaSp@{ shape: win-pane, label: "_Published Apr 18, 2025, 04:25 PM_
+New species of bug discovered, named after singapore" }
+Rufeseiortseat@{ shape: win-pane, label: "_Published May 04, 2025, 02:31 PM_
+Rare butterfly species spotted in singapore for first time sets hearts aflutter" }
 
-OascolsCy:::txtsize --> OanttlvrpolvSe:::txtsize
-OanttlvrpolvSe:::txtsize --> AnForittsiaenm:::txtsize
-AnForittsiaenm:::txtsize --> TsiseceAdi:::txtsize
-AnForittsiaenm:::txtsize --> TsiseceAdi:::txtsize
-OanttlvrpolvSe:::txtsize --> Udgopborcty:::txtsize
-Udgopborcty:::txtsize --> OaetdvrSde:::txtsize
-Udgopborcty:::txtsize --> Oaepsthorc:::txtsize
-OascolsCy:::txtsize --> TsSbfk:::txtsize
-TsSbfk:::txtsize --> Tsegoytooi:::txtsize
-Tsegoytooi:::txtsize --> Tsetrondfkad:::txtsize
-TsSbfk:::txtsize --> UoseTkwh:::txtsize
-UoseTkwh:::txtsize --> Twekrireolia:::txtsize
-UoseTkwh:::txtsize --> Iearthaiieipa:::txtsize
+Midviloft:::txtsize --> SvEesufakeitn:::txtsize
+SvEesufakeitn:::txtsize --> Emtsegehntcdt:::txtsize
+Emtsegehntcdt:::txtsize --> Cefnraeasfae:::txtsize
+Emtsegehntcdt:::txtsize --> Nnaeolitiootahes:::txtsize
+SvEesufakeitn:::txtsize --> WipiausW:::txtsize
+WipiausW:::txtsize --> IafiwimsoplNr:::txtsize
+WipiausW:::txtsize --> Glloidrcc:::txtsize
+Midviloft:::txtsize --> Bettulrituitp:::txtsize
+Bettulrituitp:::txtsize --> Aaarsrpsrsdfcs:::txtsize
+Aaarsrpsrsdfcs:::txtsize --> Aaecueolaoi:::txtsize
+Aaarsrpsrsdfcs:::txtsize --> Fvmfderruerta:::txtsize
+Bettulrituitp:::txtsize --> neokbenphtmeede:::txtsize
+neokbenphtmeede:::txtsize --> NeodvnaSp:::txtsize
+neokbenphtmeede:::txtsize --> Rufeseiortseat:::txtsize
 
-BioeistoiS@{ shape: win-pane, label: "_Published Oct 21, 2025, 11:22 PM_
-Britain removes terrorism designation for syria’s hts" }
-Ssalirniwetaatc@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:45 PM_
-Syria’s sharaa tells putin at kremlin meeting he will respect all past deals with moscow" }
-Ralkireosr@{ shape: win-pane, label: "_Published Mar 02, 2025, 03:09 PM_
-Russia gambles to keep military bases in post-assad syria" }
-IlitpisaSse@{ shape: win-pane, label: "_Published Mar 01, 2025, 12:14 AM_
-Israel lobbies us to keep russian bases in a ‘weak’ syria, sources say" }
-Ssevseaol@{ shape: win-pane, label: "_Published Feb 17, 2025, 07:45 AM_
-Syria’s new leader visits former assad strongholds" }
-SnsrsetlRars@{ shape: win-pane, label: "_Published Apr 15, 2025, 12:11 AM_
-Syrian ambassador to moscow requests asylum in russia, report says" }
-AAShsseoelniEn@{ shape: win-pane, label: "_Published Dec 11, 2024, 05:00 AM_
-A post-assad syria has just raised the risk of more conflict in the middle east in 2025" }
-Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
-British man of syrian descent named as manchester synagogue attacker" }
-Sontasaerdnhnit@{ shape: win-pane, label: "_Published Oct 03, 2025, 12:20 AM_
-Synagogue knife attack alarms britain’s jews already dealing with rising anti-semitism" }
-Sesaletiasot@{ shape: win-pane, label: "_Published Oct 03, 2025, 02:10 AM_
-Starmer says britain will defeat anti-semitism after synagogue attack" }
-Asdninualissorg@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:29 PM_
-At least two dead in british synagogue attack, police kill suspect said to be carrying bomb" }
-Sesaletiasot@{ shape: win-pane, label: "_Published Oct 03, 2025, 02:10 AM_
-Starmer says britain will defeat anti-semitism after synagogue attack" }
-Sontasaerdnhnit@{ shape: win-pane, label: "_Published Oct 03, 2025, 12:20 AM_
-Synagogue knife attack alarms britain’s jews already dealing with rising anti-semitism" }
-Asdninualissorg@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:29 PM_
-At least two dead in british synagogue attack, police kill suspect said to be carrying bomb" }
+IloetiawrNy@{ shape: win-pane, label: "_Published Oct 22, 2025, 03:07 AM_
+Israel national security adviser says he was fired by netanyahu" }
+Ileiecrereai@{ shape: win-pane, label: "_Published Nov 06, 2024, 07:22 AM_
+Israeli defence minister’s sacking removes thorn in netanyahu’s side" }
+Whaordrsass@{ shape: win-pane, label: "_Published Oct 22, 2024, 03:44 PM_
+Wealthy israelis offer rewards for release of gaza hostages" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+HseYSre@{ shape: win-pane, label: "_Published Oct 18, 2024, 08:22 PM_
+Hamas says leader yahya sinwar killed" }
+Nyieesatirpiwin@{ shape: win-pane, label: "_Published Nov 06, 2024, 03:12 AM_
+Netanyahu fires defence minister gallant, jolting israeli politics as war grinds on" }
+WIltwefmt@{ shape: win-pane, label: "_Published Nov 06, 2024, 06:02 AM_
+Who is israel katz, the new israeli defence minister?" }
+WIltwefmt@{ shape: win-pane, label: "_Published Nov 06, 2024, 06:02 AM_
+Who is israel katz, the new israeli defence minister?" }
+RBSeeirrrwr@{ shape: win-pane, label: "_Published Mar 21, 2025, 01:12 PM_
+Ronen bar: ex-shin bet chief who incurred israel’s right-wing wrath" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+Ilrorsionh@{ shape: win-pane, label: "_Published Mar 21, 2025, 09:23 AM_
+Israeli supreme court freezes dismissal of shin bet chief" }
+Aeaoeataoolsht@{ shape: win-pane, label: "_Published Mar 20, 2025, 10:37 PM_
+Anti-netanyahu protesters clash with israeli police over plan to sack shin bet head" }
+Ilenhscepdaos@{ shape: win-pane, label: "_Published Mar 27, 2023, 01:30 PM_
+Israeli government in chaos as judicial reform plans draw mass protests" }
 
-BioeistoiS:::txtsize --> Ssalirniwetaatc:::txtsize
-Ssalirniwetaatc:::txtsize --> Ralkireosr:::txtsize
-Ralkireosr:::txtsize --> IlitpisaSse:::txtsize
-Ralkireosr:::txtsize --> Ssevseaol:::txtsize
-Ssalirniwetaatc:::txtsize --> SnsrsetlRars:::txtsize
-SnsrsetlRars:::txtsize --> AAShsseoelniEn:::txtsize
-BioeistoiS:::txtsize --> Bsoisnaceaec:::txtsize
-Bsoisnaceaec:::txtsize --> Sontasaerdnhnit:::txtsize
-Sontasaerdnhnit:::txtsize --> Sesaletiasot:::txtsize
-Sontasaerdnhnit:::txtsize --> Asdninualissorg:::txtsize
-Bsoisnaceaec:::txtsize --> Sesaletiasot:::txtsize
-Sesaletiasot:::txtsize --> Sontasaerdnhnit:::txtsize
-Sesaletiasot:::txtsize --> Asdninualissorg:::txtsize
+IloetiawrNy:::txtsize --> Ileiecrereai:::txtsize
+Ileiecrereai:::txtsize --> Whaordrsass:::txtsize
+Whaordrsass:::txtsize --> Sbsrcdnacaale:::txtsize
+Whaordrsass:::txtsize --> HseYSre:::txtsize
+Ileiecrereai:::txtsize --> Nyieesatirpiwin:::txtsize
+Nyieesatirpiwin:::txtsize --> WIltwefmt:::txtsize
+Nyieesatirpiwin:::txtsize --> WIltwefmt:::txtsize
+IloetiawrNy:::txtsize --> RBSeeirrrwr:::txtsize
+RBSeeirrrwr:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+RBSeeirrrwr:::txtsize --> Ilrorsionh:::txtsize
+Ilrorsionh:::txtsize --> Aeaoeataoolsht:::txtsize
+Ilrorsionh:::txtsize --> Ilenhscepdaos:::txtsize
 
 ```
-<i>Last updated: 2025-10-22 00:00:19.422416 (GMT+8)</i>
+<i>Last updated: 2025-10-22 04:00:40.361235 (GMT+8)</i>
 <!-- END -->
