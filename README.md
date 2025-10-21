@@ -16,120 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Uroohagufwg@{ shape: win-pane, label: "_Published Oct 21, 2025, 03:44 AM_
-Us supreme court to weigh law barring drug users from owning guns" }
-UstHrnadsuji@{ shape: win-pane, label: "_Published Jun 12, 2024, 12:15 AM_
-Us president’s son, hunter biden, lied about drug use to buy gun, jury finds" }
-JioTgyltuni@{ shape: win-pane, label: "_Published May 31, 2024, 05:18 AM_
-Jury finds donald trump guilty on all 34 counts at hush money trial" }
-Frenmrvseebeia@{ shape: win-pane, label: "_Published Apr 04, 2023, 08:59 PM_
-Former us president trump charged over hush money scheme to boost 2016 election chances" }
-Felieoanaog@{ shape: win-pane, label: "_Published Oct 12, 2025, 11:39 PM_
-Four dead, at least 20 injured in south carolina island shooting" }
-Mgutedvdgios@{ shape: win-pane, label: "_Published Sep 30, 2025, 10:40 AM_
-Michigan church attacker said to have held grudge against mormons" }
-Fiieeoariamu@{ shape: win-pane, label: "_Published Sep 29, 2025, 12:52 AM_
-Four killed, 8 injured after shooting and fire at michigan mormon church" }
-Uistggoevsnohnp@{ shape: win-pane, label: "_Published Aug 29, 2025, 07:20 AM_
-Us officials sift through tangle of online grievances by minneapolis shooting suspect" }
-Asdndrtaspii@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:58 PM_
-At least 1 dead and 3 injured after shootings at mississippi universities" }
-Asddweissi@{ shape: win-pane, label: "_Published Oct 11, 2025, 11:16 PM_
-At least 4 dead and a dozen wounded in mississippi shooting" }
-Odweadaog@{ shape: win-pane, label: "_Published Oct 06, 2025, 07:20 AM_
-Over a dozen wounded in rare sydney mass shooting" }
+RnoHladsemt@{ shape: win-pane, label: "_Published Oct 21, 2025, 07:38 AM_
+‘rude and ignorant’: how colombia’s leader has pushed trump’s buttons" }
+TccPaoieirnnrs@{ shape: win-pane, label: "_Published Sep 16, 2025, 11:41 AM_
+Trump criticises petro as colombia is added to list of rogue nations over drugs" }
+UsaaCbiottig@{ shape: win-pane, label: "_Published Sep 16, 2025, 09:56 AM_
+Us says afghanistan and colombia failed to fight drug trafficking" }
+TaitaingroIo@{ shape: win-pane, label: "_Published Sep 09, 2025, 05:57 AM_
+Trump administration says it is launching ice crackdown in illinois" }
+TsSctemgsVuige@{ shape: win-pane, label: "_Published Sep 16, 2025, 04:26 AM_
+Trump says us struck another vessel moving drugs from venezuela, killing three" }
+Vuaicdodaeoee@{ shape: win-pane, label: "_Published Sep 14, 2025, 03:35 AM_
+Venezuela says us intercepted and boarded a tuna vessel in hostile manner" }
+PeeSsenerseenr@{ shape: win-pane, label: "_Published Sep 12, 2025, 12:35 AM_
+People killed in us boat strike were not tren de aragua, says venezuela minister" }
+CbretcUiittlfiv@{ shape: win-pane, label: "_Published Sep 28, 2025, 09:18 AM_
+Colombian president petro accuses us of violating international law after visa revoked" }
+UeCbreiemaPtne@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:23 AM_
+Us to revoke colombian president’s visa over comments at pro-palestinian gathering" }
+WlrlilntoUySs@{ shape: win-pane, label: "_Published Sep 23, 2025, 03:40 AM_
+World leaders rally behind palestinian statehood at un, defying us and israel" }
+Aoienempsiroins@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:00 AM_
+At un, colombian president urges ‘criminal process’ against trump for strikes on boats" }
+Aoienempsiroins@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:00 AM_
+At un, colombian president urges ‘criminal process’ against trump for strikes on boats" }
+TsSndhornl@{ shape: win-pane, label: "_Published Sep 17, 2025, 01:05 AM_
+Trump says us has ‘knocked off’ three boats from venezuela" }
+Vufmaagbmur@{ shape: win-pane, label: "_Published Sep 21, 2025, 10:24 AM_
+Venezuela offers military training to public amid trump threats" }
 
-Uroohagufwg:::txtsize --> UstHrnadsuji:::txtsize
-UstHrnadsuji:::txtsize --> JioTgyltuni:::txtsize
-JioTgyltuni:::txtsize --> Frenmrvseebeia:::txtsize
-Uroohagufwg:::txtsize --> Felieoanaog:::txtsize
-Felieoanaog:::txtsize --> Mgutedvdgios:::txtsize
-Mgutedvdgios:::txtsize --> Fiieeoariamu:::txtsize
-Mgutedvdgios:::txtsize --> Uistggoevsnohnp:::txtsize
-Felieoanaog:::txtsize --> Asdndrtaspii:::txtsize
-Asdndrtaspii:::txtsize --> Asddweissi:::txtsize
-Asdndrtaspii:::txtsize --> Odweadaog:::txtsize
+RnoHladsemt:::txtsize --> TccPaoieirnnrs:::txtsize
+TccPaoieirnnrs:::txtsize --> UsaaCbiottig:::txtsize
+UsaaCbiottig:::txtsize --> TaitaingroIo:::txtsize
+TccPaoieirnnrs:::txtsize --> TsSctemgsVuige:::txtsize
+TsSctemgsVuige:::txtsize --> Vuaicdodaeoee:::txtsize
+TsSctemgsVuige:::txtsize --> PeeSsenerseenr:::txtsize
+RnoHladsemt:::txtsize --> CbretcUiittlfiv:::txtsize
+CbretcUiittlfiv:::txtsize --> UeCbreiemaPtne:::txtsize
+UeCbreiemaPtne:::txtsize --> WlrlilntoUySs:::txtsize
+UeCbreiemaPtne:::txtsize --> Aoienempsiroins:::txtsize
+CbretcUiittlfiv:::txtsize --> Aoienempsiroins:::txtsize
+Aoienempsiroins:::txtsize --> TsSndhornl:::txtsize
+Aoienempsiroins:::txtsize --> Vufmaagbmur:::txtsize
 
-IlrvztooC@{ shape: win-pane, label: "_Published Oct 21, 2025, 03:16 AM_
-Israel says received gaza hostage body from red cross" }
-Iltshguo@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:27 PM_
-Israel identifies dead hostage returned on oct 17" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Hstmeaudrhga@{ shape: win-pane, label: "_Published Oct 17, 2025, 09:15 PM_
-Hamas says it is committed to gaza truce and returning hostage remains" }
-Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
-Hamas says it has handed over all hostage remains it can recover" }
-Upiatzck@{ shape: win-pane, label: "_Published Oct 20, 2025, 07:21 PM_
-Us steps up diplomacy after gaza truce shaken" }
-Ilkzispec@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:06 PM_
-Israel strikes gaza, saying its troops were attacked" }
-IlseetvtRbreeuat@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:25 PM_
-Israel, hamas trade blame over truce violations, rafah border reopening eyed but no date set" }
-Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
-Hamas says it has handed over all hostage remains it can recover" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+WeoLeymotna@{ shape: win-pane, label: "_Published Oct 21, 2025, 07:20 AM_
+Why steal from the louvre? it may have more to do with stones than art" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
+‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
+NegaTrah@{ shape: win-pane, label: "_Published Feb 20, 2025, 01:00 PM_
+Nike bets big on reality tv star kim kardashian" }
+Kriinucneida@{ shape: win-pane, label: "_Published May 17, 2023, 12:00 PM_
+Kim kardashian's $1.34 billion buyout pitch leans on her social media reach" }
+Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
+Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
+GpmglnolN@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:52 PM_
+Greenpeace $880m damages ruling in us shocks global ngos" }
 
-IlrvztooC:::txtsize --> Iltshguo:::txtsize
-Iltshguo:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Iltshguo:::txtsize --> Hstmeaudrhga:::txtsize
-Hstmeaudrhga:::txtsize --> Hstaoltesnv:::txtsize
-IlrvztooC:::txtsize --> Upiatzck:::txtsize
-Upiatzck:::txtsize --> Ilkzispec:::txtsize
-Ilkzispec:::txtsize --> IlseetvtRbreeuat:::txtsize
-Ilkzispec:::txtsize --> Hstaoltesnv:::txtsize
-Upiatzck:::txtsize --> AtHfezerydatoGel:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+WeoLeymotna:::txtsize --> Ptineluiisey:::txtsize
+Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
+GpboiPoidaes:::txtsize --> NegaTrah:::txtsize
+GpboiPoidaes:::txtsize --> Kriinucneida:::txtsize
+Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
+Gpssofemmnsrt:::txtsize --> GpmglnolN:::txtsize
 
-Tdlarnascidl@{ shape: win-pane, label: "_Published Oct 21, 2025, 02:36 AM_
-Trump downplays taiwan risk in china talks, expects fair trade deal" }
-Csapdstimaivagp@{ shape: win-pane, label: "_Published Oct 08, 2025, 04:08 PM_
-China says taiwan president is ‘prostituting’ himself, after interview lauding trump" }
-Tnpseniepmeei@{ shape: win-pane, label: "_Published Oct 08, 2025, 11:12 AM_
-Taiwan reappoints former economy minister as apec summit representative" }
-TnCeasosolwhXy@{ shape: win-pane, label: "_Published Nov 17, 2024, 07:51 AM_
-Taiwan's apec representative says no handshake or dialogue with china's xi, only wave" }
-Caewfnpecne@{ shape: win-pane, label: "_Published Jul 30, 2025, 04:38 PM_
-China accuses taiwan of forcing its people to be ‘cannon fodder’" }
-CaeUlnethdiegay@{ shape: win-pane, label: "_Published Oct 07, 2025, 11:07 AM_
-China angered by eu ‘challenging’ un resolution that led to taiwan leaving global body" }
-TnCtgeeaoatetnri@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:29 PM_
-Taiwan says china trying to create legal basis for attack with un resolution interpretation" }
-Tdvbihcniaociasa@{ shape: win-pane, label: "_Published Oct 07, 2025, 10:02 AM_
-Trump deserves nobel prize if he can convince china to abandon force against taiwan, says lai" }
-Chsdeerpcea@{ shape: win-pane, label: "_Published Oct 17, 2025, 05:00 AM_
-China hawks should temper hopes over trump’s muscle flexing at xi" }
-Xdompuheut@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:53 AM_
-Xi’s red line on trump’s export curbs threatens to upend truce" }
-Ooltwrakepdas@{ shape: win-pane, label: "_Published Sep 20, 2025, 09:35 AM_
-One phone call, two takeaways: trump says tiktok deal approved; china holds back" }
-Wnrtffnrlt@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:00 PM_
-Why donald trump’s tariffs are failing to break global trade" }
+Dnmerertirom@{ shape: win-pane, label: "_Published Oct 21, 2025, 07:11 AM_
+Defiant former french president sarkozy to begin 5-year prison term" }
+Ferersstn@{ shape: win-pane, label: "_Published Oct 19, 2025, 12:50 PM_
+France’s ex-president sarkozy set to serve time in jail" }
+FhliCBssrfaysn@{ shape: win-pane, label: "_Published Sep 25, 2025, 10:17 PM_
+French model and singer carla bruni stands by her man after sarkozy jail sentence" }
+Frcstoneeniya@{ shape: win-pane, label: "_Published Sep 25, 2025, 04:42 PM_
+Former french president sarkozy sentenced to 5 years in jail in libya trial" }
+Frcstoneeniya@{ shape: win-pane, label: "_Published Sep 25, 2025, 04:42 PM_
+Former french president sarkozy sentenced to 5 years in jail in libya trial" }
+Szletbveocsaoee@{ shape: win-pane, label: "_Published Sep 27, 2025, 02:08 PM_
+Sarkozy jailing reignites debate over french political justice ahead of le pen appeal" }
+Frcstoneeniya@{ shape: win-pane, label: "_Published Sep 25, 2025, 04:42 PM_
+Former french president sarkozy sentenced to 5 years in jail in libya trial" }
+Feeronoiryagcc@{ shape: win-pane, label: "_Published Mar 31, 2025, 05:23 PM_
+France’s le pen barred from running for office for five years after graft conviction" }
+Szletbveocsaoee@{ shape: win-pane, label: "_Published Sep 27, 2025, 02:08 PM_
+Sarkozy jailing reignites debate over french political justice ahead of le pen appeal" }
+Frcstoneeniya@{ shape: win-pane, label: "_Published Sep 25, 2025, 04:42 PM_
+Former french president sarkozy sentenced to 5 years in jail in libya trial" }
+Fhenkoloa@{ shape: win-pane, label: "_Published Feb 08, 2025, 12:19 AM_
+French ex-president sarkozy to get electronic tag" }
+Feeronoiryagcc@{ shape: win-pane, label: "_Published Mar 31, 2025, 05:23 PM_
+France’s le pen barred from running for office for five years after graft conviction" }
+Feeiodtbttefi@{ shape: win-pane, label: "_Published Apr 05, 2022, 05:05 PM_
+France's le pen strives to build on ratings boost to further detoxify her image" }
+FeiPcrtonsto@{ shape: win-pane, label: "_Published Mar 28, 2025, 10:55 AM_
+France’s marine le pen faces verdict that could end presidential hopes" }
 
-Tdlarnascidl:::txtsize --> Csapdstimaivagp:::txtsize
-Csapdstimaivagp:::txtsize --> Tnpseniepmeei:::txtsize
-Tnpseniepmeei:::txtsize --> TnCeasosolwhXy:::txtsize
-Tnpseniepmeei:::txtsize --> Caewfnpecne:::txtsize
-Csapdstimaivagp:::txtsize --> CaeUlnethdiegay:::txtsize
-CaeUlnethdiegay:::txtsize --> TnCtgeeaoatetnri:::txtsize
-CaeUlnethdiegay:::txtsize --> Tdvbihcniaociasa:::txtsize
-Tdlarnascidl:::txtsize --> Chsdeerpcea:::txtsize
-Chsdeerpcea:::txtsize --> Xdompuheut:::txtsize
-Xdompuheut:::txtsize --> Ooltwrakepdas:::txtsize
-Xdompuheut:::txtsize --> Wnrtffnrlt:::txtsize
+Dnmerertirom:::txtsize --> Ferersstn:::txtsize
+Ferersstn:::txtsize --> FhliCBssrfaysn:::txtsize
+FhliCBssrfaysn:::txtsize --> Frcstoneeniya:::txtsize
+FhliCBssrfaysn:::txtsize --> Frcstoneeniya:::txtsize
+Ferersstn:::txtsize --> Szletbveocsaoee:::txtsize
+Szletbveocsaoee:::txtsize --> Frcstoneeniya:::txtsize
+Szletbveocsaoee:::txtsize --> Feeronoiryagcc:::txtsize
+Dnmerertirom:::txtsize --> Szletbveocsaoee:::txtsize
+Szletbveocsaoee:::txtsize --> Frcstoneeniya:::txtsize
+Frcstoneeniya:::txtsize --> Fhenkoloa:::txtsize
+Szletbveocsaoee:::txtsize --> Feeronoiryagcc:::txtsize
+Feeronoiryagcc:::txtsize --> Feeiodtbttefi:::txtsize
+Feeronoiryagcc:::txtsize --> FeiPcrtonsto:::txtsize
 
 ```
-<i>Last updated: 2025-10-21 04:00:48.852164 (GMT+8)</i>
+<i>Last updated: 2025-10-21 08:01:06.614988 (GMT+8)</i>
 <!-- END -->
