@@ -16,114 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-RnoHladsemt@{ shape: win-pane, label: "_Published Oct 21, 2025, 07:38 AM_
-‘rude and ignorant’: how colombia’s leader has pushed trump’s buttons" }
-TccPaoieirnnrs@{ shape: win-pane, label: "_Published Sep 16, 2025, 11:41 AM_
-Trump criticises petro as colombia is added to list of rogue nations over drugs" }
-UsaaCbiottig@{ shape: win-pane, label: "_Published Sep 16, 2025, 09:56 AM_
-Us says afghanistan and colombia failed to fight drug trafficking" }
-TaitaingroIo@{ shape: win-pane, label: "_Published Sep 09, 2025, 05:57 AM_
-Trump administration says it is launching ice crackdown in illinois" }
-TsSctemgsVuige@{ shape: win-pane, label: "_Published Sep 16, 2025, 04:26 AM_
-Trump says us struck another vessel moving drugs from venezuela, killing three" }
-Vuaicdodaeoee@{ shape: win-pane, label: "_Published Sep 14, 2025, 03:35 AM_
-Venezuela says us intercepted and boarded a tuna vessel in hostile manner" }
-PeeSsenerseenr@{ shape: win-pane, label: "_Published Sep 12, 2025, 12:35 AM_
-People killed in us boat strike were not tren de aragua, says venezuela minister" }
-CbretcUiittlfiv@{ shape: win-pane, label: "_Published Sep 28, 2025, 09:18 AM_
-Colombian president petro accuses us of violating international law after visa revoked" }
-UeCbreiemaPtne@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:23 AM_
-Us to revoke colombian president’s visa over comments at pro-palestinian gathering" }
-WlrlilntoUySs@{ shape: win-pane, label: "_Published Sep 23, 2025, 03:40 AM_
-World leaders rally behind palestinian statehood at un, defying us and israel" }
-Aoienempsiroins@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:00 AM_
-At un, colombian president urges ‘criminal process’ against trump for strikes on boats" }
-Aoienempsiroins@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:00 AM_
-At un, colombian president urges ‘criminal process’ against trump for strikes on boats" }
-TsSndhornl@{ shape: win-pane, label: "_Published Sep 17, 2025, 01:05 AM_
-Trump says us has ‘knocked off’ three boats from venezuela" }
-Vufmaagbmur@{ shape: win-pane, label: "_Published Sep 21, 2025, 10:24 AM_
-Venezuela offers military training to public amid trump threats" }
+AcodhlSatesfr@{ shape: win-pane, label: "_Published Oct 21, 2025, 11:20 AM_
+American, who faked death and fled to scotland, gets five years to life for rape" }
+Bdeinraunadtta@{ shape: win-pane, label: "_Published Sep 17, 2025, 03:05 PM_
+Banned from entering singapore in 1998, man returns under false identity to start family" }
+Joereereyawaoao@{ shape: win-pane, label: "_Published Jul 22, 2025, 08:15 PM_
+Jail for 4 foreigners who entered s’pore illegally by boat and were caught on pulau tekong" }
+mcoeSialddsnagt@{ shape: win-pane, label: "_Published May 19, 2025, 12:00 PM_
+4 men accused of entering s’pore illegally allegedly had 2,700 packs of contraband cigarettes" }
+mcoeSialddsnagt@{ shape: win-pane, label: "_Published May 19, 2025, 12:00 PM_
+4 men accused of entering s’pore illegally allegedly had 2,700 packs of contraband cigarettes" }
+JafiawtSplltsrig@{ shape: win-pane, label: "_Published May 09, 2025, 07:40 PM_
+Jail, caning for m’sian boatman who entered singapore illegally with passengers on fishing trip" }
+TMsatrrioaia@{ shape: win-pane, label: "_Published Apr 19, 2025, 11:28 AM_
+Three malaysians arrested for entering singapore’s waters illegally" }
+Fojnmiowllenva@{ shape: win-pane, label: "_Published Oct 25, 2024, 05:55 PM_
+Five months’ jail in batam for singaporean who illegally entered in 2021 and overstayed" }
+Fereevlgaasdsla@{ shape: win-pane, label: "_Published Oct 16, 2025, 10:53 AM_
+Four teens arrested in kedah over alleged gang rape, sharing sex video on social media" }
+snMasvnehi@{ shape: win-pane, label: "_Published Oct 11, 2025, 04:30 PM_
+4 students in melaka arrested over gang-rape of schoolgirl" }
+Tylleyratgwevail@{ shape: win-pane, label: "_Published May 02, 2023, 05:00 PM_
+Three 13-year-old girls allegedly gang-raped after trying vape with new flavour: malaysian police" }
+Ktpcosltopemyyigs@{ shape: win-pane, label: "_Published Oct 05, 2025, 07:00 PM_
+Kelantan top cop’s call to punish girls in statutory rape cases slammed by malaysia rights groups" }
+Msuibslarlbfolki@{ shape: win-pane, label: "_Published Oct 15, 2025, 03:30 PM_
+Malaysian authorities blame social media after fatal stabbing of schoolgirl shocks nation" }
+Mslehcsittagafee@{ shape: win-pane, label: "_Published Oct 14, 2025, 09:00 PM_
+Malaysia mulls over tighter school security after fatal stabbing of 16-year-old female student" }
+Mshtnsiwerrsiee@{ shape: win-pane, label: "_Published Oct 15, 2025, 01:17 PM_
+Malaysia school stabbing: ‘i was terrified when he entered our class holding the knife’" }
 
-RnoHladsemt:::txtsize --> TccPaoieirnnrs:::txtsize
-TccPaoieirnnrs:::txtsize --> UsaaCbiottig:::txtsize
-UsaaCbiottig:::txtsize --> TaitaingroIo:::txtsize
-TccPaoieirnnrs:::txtsize --> TsSctemgsVuige:::txtsize
-TsSctemgsVuige:::txtsize --> Vuaicdodaeoee:::txtsize
-TsSctemgsVuige:::txtsize --> PeeSsenerseenr:::txtsize
-RnoHladsemt:::txtsize --> CbretcUiittlfiv:::txtsize
-CbretcUiittlfiv:::txtsize --> UeCbreiemaPtne:::txtsize
-UeCbreiemaPtne:::txtsize --> WlrlilntoUySs:::txtsize
-UeCbreiemaPtne:::txtsize --> Aoienempsiroins:::txtsize
-CbretcUiittlfiv:::txtsize --> Aoienempsiroins:::txtsize
-Aoienempsiroins:::txtsize --> TsSndhornl:::txtsize
-Aoienempsiroins:::txtsize --> Vufmaagbmur:::txtsize
+AcodhlSatesfr:::txtsize --> Bdeinraunadtta:::txtsize
+Bdeinraunadtta:::txtsize --> Joereereyawaoao:::txtsize
+Joereereyawaoao:::txtsize --> mcoeSialddsnagt:::txtsize
+Joereereyawaoao:::txtsize --> mcoeSialddsnagt:::txtsize
+Bdeinraunadtta:::txtsize --> JafiawtSplltsrig:::txtsize
+JafiawtSplltsrig:::txtsize --> TMsatrrioaia:::txtsize
+JafiawtSplltsrig:::txtsize --> Fojnmiowllenva:::txtsize
+AcodhlSatesfr:::txtsize --> Fereevlgaasdsla:::txtsize
+Fereevlgaasdsla:::txtsize --> snMasvnehi:::txtsize
+snMasvnehi:::txtsize --> Tylleyratgwevail:::txtsize
+snMasvnehi:::txtsize --> Ktpcosltopemyyigs:::txtsize
+Fereevlgaasdsla:::txtsize --> Msuibslarlbfolki:::txtsize
+Msuibslarlbfolki:::txtsize --> Mslehcsittagafee:::txtsize
+Msuibslarlbfolki:::txtsize --> Mshtnsiwerrsiee:::txtsize
 
-WeoLeymotna@{ shape: win-pane, label: "_Published Oct 21, 2025, 07:20 AM_
-Why steal from the louvre? it may have more to do with stones than art" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
-‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
-NegaTrah@{ shape: win-pane, label: "_Published Feb 20, 2025, 01:00 PM_
-Nike bets big on reality tv star kim kardashian" }
-Kriinucneida@{ shape: win-pane, label: "_Published May 17, 2023, 12:00 PM_
-Kim kardashian's $1.34 billion buyout pitch leans on her social media reach" }
-Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
-Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
-GpmglnolN@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:52 PM_
-Greenpeace $880m damages ruling in us shocks global ngos" }
+Cioesmpunti@{ shape: win-pane, label: "_Published Oct 21, 2025, 10:52 AM_
+Canadian province moves to limit ai power use, ban crypto mining" }
+TyreTbeel@{ shape: win-pane, label: "_Published Aug 09, 2025, 10:15 AM_
+The crypto bros are back: ‘the hubris never really left’" }
+SbcoTAstlrry@{ shape: win-pane, label: "_Published Jul 03, 2022, 03:39 PM_
+S'pore-based crypto fund three arrows capital files for bankruptcy in us" }
+Cohsieipri@{ shape: win-pane, label: "_Published Jun 15, 2022, 04:53 PM_
+Crypto crash: what's causing the rout in cryptocurrencies?" }
+Llopntee@{ shape: win-pane, label: "_Published Oct 16, 2025, 09:20 PM_
+Laos plans to pull plug on crypto miners by early 2026" }
+TdusnlSessg@{ shape: win-pane, label: "_Published Jul 29, 2025, 09:25 AM_
+The hidden hurdles behind building south-east asia's $129b supergrid" }
+Weolaaaed@{ shape: win-pane, label: "_Published Jun 03, 2025, 06:00 PM_
+Why is everyone talking about an asean power grid?" }
+AgaeypfwttenrIeoe@{ shape: win-pane, label: "_Published May 30, 2025, 05:50 PM_
+Asean grid makes headway with plans for new electricity interconnector from indonesia to s’pore" }
+CSKapoisceyedac@{ shape: win-pane, label: "_Published May 20, 2025, 11:05 PM_
+China, south korea and japan looking into asean’s clean energy market amid us scale-back" }
+Uhionlolsfous@{ shape: win-pane, label: "_Published Mar 05, 2025, 10:05 PM_
+Us withdrawing from plan to help major polluters move from coal, sources say" }
+GnsrnovaetusApg@{ shape: win-pane, label: "_Published May 08, 2025, 02:05 PM_
+Governments, insurers and innovative finance needed to reduce risks of asean power grid" }
 
-WeoLeymotna:::txtsize --> Ptineluiisey:::txtsize
-Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
-GpboiPoidaes:::txtsize --> NegaTrah:::txtsize
-GpboiPoidaes:::txtsize --> Kriinucneida:::txtsize
-Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
-Gpssofemmnsrt:::txtsize --> GpmglnolN:::txtsize
+Cioesmpunti:::txtsize --> TyreTbeel:::txtsize
+TyreTbeel:::txtsize --> SbcoTAstlrry:::txtsize
+SbcoTAstlrry:::txtsize --> Cohsieipri:::txtsize
+Cioesmpunti:::txtsize --> Llopntee:::txtsize
+Llopntee:::txtsize --> TdusnlSessg:::txtsize
+TdusnlSessg:::txtsize --> Weolaaaed:::txtsize
+TdusnlSessg:::txtsize --> AgaeypfwttenrIeoe:::txtsize
+Llopntee:::txtsize --> CSKapoisceyedac:::txtsize
+CSKapoisceyedac:::txtsize --> Uhionlolsfous:::txtsize
+CSKapoisceyedac:::txtsize --> GnsrnovaetusApg:::txtsize
 
-Dnmerertirom@{ shape: win-pane, label: "_Published Oct 21, 2025, 07:11 AM_
-Defiant former french president sarkozy to begin 5-year prison term" }
-Ferersstn@{ shape: win-pane, label: "_Published Oct 19, 2025, 12:50 PM_
-France’s ex-president sarkozy set to serve time in jail" }
-FhliCBssrfaysn@{ shape: win-pane, label: "_Published Sep 25, 2025, 10:17 PM_
-French model and singer carla bruni stands by her man after sarkozy jail sentence" }
-Frcstoneeniya@{ shape: win-pane, label: "_Published Sep 25, 2025, 04:42 PM_
-Former french president sarkozy sentenced to 5 years in jail in libya trial" }
-Frcstoneeniya@{ shape: win-pane, label: "_Published Sep 25, 2025, 04:42 PM_
-Former french president sarkozy sentenced to 5 years in jail in libya trial" }
-Szletbveocsaoee@{ shape: win-pane, label: "_Published Sep 27, 2025, 02:08 PM_
-Sarkozy jailing reignites debate over french political justice ahead of le pen appeal" }
-Frcstoneeniya@{ shape: win-pane, label: "_Published Sep 25, 2025, 04:42 PM_
-Former french president sarkozy sentenced to 5 years in jail in libya trial" }
-Feeronoiryagcc@{ shape: win-pane, label: "_Published Mar 31, 2025, 05:23 PM_
-France’s le pen barred from running for office for five years after graft conviction" }
-Szletbveocsaoee@{ shape: win-pane, label: "_Published Sep 27, 2025, 02:08 PM_
-Sarkozy jailing reignites debate over french political justice ahead of le pen appeal" }
-Frcstoneeniya@{ shape: win-pane, label: "_Published Sep 25, 2025, 04:42 PM_
-Former french president sarkozy sentenced to 5 years in jail in libya trial" }
-Fhenkoloa@{ shape: win-pane, label: "_Published Feb 08, 2025, 12:19 AM_
-French ex-president sarkozy to get electronic tag" }
-Feeronoiryagcc@{ shape: win-pane, label: "_Published Mar 31, 2025, 05:23 PM_
-France’s le pen barred from running for office for five years after graft conviction" }
-Feeiodtbttefi@{ shape: win-pane, label: "_Published Apr 05, 2022, 05:05 PM_
-France's le pen strives to build on ratings boost to further detoxify her image" }
-FeiPcrtonsto@{ shape: win-pane, label: "_Published Mar 28, 2025, 10:55 AM_
-France’s marine le pen faces verdict that could end presidential hopes" }
+Tdrlaaunota@{ shape: win-pane, label: "_Published Oct 21, 2025, 10:35 AM_
+Trump declares ‘full steam ahead’ on aukus in win for australia" }
+TAaAegtmarncuia@{ shape: win-pane, label: "_Published Oct 21, 2025, 12:09 AM_
+Trump, australia’s albanese sign critical minerals agreement, discuss submarine deal" }
+Aaotraesphfnreg@{ shape: win-pane, label: "_Published Oct 13, 2025, 04:30 PM_
+Australia consults on critical minerals stockpile ahead of albanese-trump meeting" }
+TttrsWnoWHoiy@{ shape: win-pane, label: "_Published Sep 24, 2025, 06:12 AM_
+Trump to meet australia's pm in washington on oct 20, white house official says" }
+Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
+China tightens rare earth export controls and targets defence, semiconductor users" }
+Aaoninaumhymt@{ shape: win-pane, label: "_Published Oct 14, 2025, 11:24 AM_
+Australia to make next billion-dollar aukus payment ‘shortly’, says minister" }
+AalonSdkufporss@{ shape: win-pane, label: "_Published Aug 26, 2025, 12:35 PM_
+Aukus at ‘inflection point’ as us-based think-tank urges fresh push to ensure its success" }
+Eganululewsrlrr@{ shape: win-pane, label: "_Published Mar 14, 2023, 04:56 AM_
+Eyeing china, biden and aukus allies unveil nuclear-powered submarine plan for australia" }
+Aarnyuuirsr@{ shape: win-pane, label: "_Published Jul 26, 2025, 03:14 PM_
+Australia, britain sign 50-year aukus submarine partnership treaty" }
+Aaoslnebnp@{ shape: win-pane, label: "_Published Sep 13, 2025, 10:35 PM_
+Australia to invest $10.2 billion in nuclear submarine shipyard" }
+Aaodiaoushs@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:54 AM_
+Australia to spend $1.4 billion on autonomous undersea vehicles" }
+AalonSdkufporss@{ shape: win-pane, label: "_Published Aug 26, 2025, 12:35 PM_
+Aukus at ‘inflection point’ as us-based think-tank urges fresh push to ensure its success" }
 
-Dnmerertirom:::txtsize --> Ferersstn:::txtsize
-Ferersstn:::txtsize --> FhliCBssrfaysn:::txtsize
-FhliCBssrfaysn:::txtsize --> Frcstoneeniya:::txtsize
-FhliCBssrfaysn:::txtsize --> Frcstoneeniya:::txtsize
-Ferersstn:::txtsize --> Szletbveocsaoee:::txtsize
-Szletbveocsaoee:::txtsize --> Frcstoneeniya:::txtsize
-Szletbveocsaoee:::txtsize --> Feeronoiryagcc:::txtsize
-Dnmerertirom:::txtsize --> Szletbveocsaoee:::txtsize
-Szletbveocsaoee:::txtsize --> Frcstoneeniya:::txtsize
-Frcstoneeniya:::txtsize --> Fhenkoloa:::txtsize
-Szletbveocsaoee:::txtsize --> Feeronoiryagcc:::txtsize
-Feeronoiryagcc:::txtsize --> Feeiodtbttefi:::txtsize
-Feeronoiryagcc:::txtsize --> FeiPcrtonsto:::txtsize
+Tdrlaaunota:::txtsize --> TAaAegtmarncuia:::txtsize
+TAaAegtmarncuia:::txtsize --> Aaotraesphfnreg:::txtsize
+Aaotraesphfnreg:::txtsize --> TttrsWnoWHoiy:::txtsize
+Aaotraesphfnreg:::txtsize --> Ctertonsasnmdrs:::txtsize
+Tdrlaaunota:::txtsize --> Aaoninaumhymt:::txtsize
+Aaoninaumhymt:::txtsize --> AalonSdkufporss:::txtsize
+AalonSdkufporss:::txtsize --> Eganululewsrlrr:::txtsize
+AalonSdkufporss:::txtsize --> Aarnyuuirsr:::txtsize
+Aaoninaumhymt:::txtsize --> Aaoslnebnp:::txtsize
+Aaoslnebnp:::txtsize --> Aaodiaoushs:::txtsize
+Aaoslnebnp:::txtsize --> AalonSdkufporss:::txtsize
 
 ```
-<i>Last updated: 2025-10-21 08:01:06.614988 (GMT+8)</i>
+<i>Last updated: 2025-10-21 12:00:29.421284 (GMT+8)</i>
 <!-- END -->
