@@ -16,123 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Fenetorrusiri@{ shape: win-pane, label: "_Published Oct 21, 2025, 08:50 PM_
-France intensifies hunt for louvre raiders as museum security scrutinised" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
-‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
-NegaTrah@{ shape: win-pane, label: "_Published Feb 20, 2025, 01:00 PM_
-Nike bets big on reality tv star kim kardashian" }
-Kriinucneida@{ shape: win-pane, label: "_Published May 17, 2023, 12:00 PM_
-Kim kardashian's $1.34 billion buyout pitch leans on her social media reach" }
-Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
-Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
-GpmglnolN@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:52 PM_
-Greenpeace $880m damages ruling in us shocks global ngos" }
-Leesdsctee@{ shape: win-pane, label: "_Published Oct 20, 2025, 12:30 PM_
-Louvre closed for second day as france hunts jewel thieves" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
-‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
-Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
-Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
-Gotiiei@{ shape: win-pane, label: "_Published Sep 17, 2025, 07:36 PM_
-Gold worth $900,000 stolen in paris museum heist" }
-Onortmhnispsnh@{ shape: win-pane, label: "_Published Aug 27, 2025, 10:00 AM_
-Over 80 interpol alerts to trace more than $479m in criminal assets published in 7 months" }
-Tnesilcgofincshe@{ shape: win-pane, label: "_Published Jun 14, 2025, 12:04 AM_
-Two men jailed for stealing $7 million 18-carat gold toilet from winston churchill’s birthplace" }
+Tttinchon@{ shape: win-pane, label: "_Published Oct 21, 2025, 11:41 PM_
+Trump to host saudi crown prince at white house on nov 18" }
+Tlhanincnnelc@{ shape: win-pane, label: "_Published May 14, 2025, 09:02 AM_
+Trump lavishes praise on saudi crown prince, signalling renewed alliance" }
+Tssvfimcil@{ shape: win-pane, label: "_Published May 13, 2025, 04:52 PM_
+Trump starts gulf visit focusing on mega economic deals" }
+WounmiEo@{ shape: win-pane, label: "_Published May 13, 2025, 05:00 AM_
+What does trump want from his middle east tour?" }
+PefitaeeiTstin@{ shape: win-pane, label: "_Published May 11, 2025, 05:06 PM_
+Prospects of saudi ties to israel seen to be elusive as trump seeks $1.3 trillion bonanza" }
+Uesarbpg@{ shape: win-pane, label: "_Published May 13, 2025, 11:07 PM_
+Us agrees to sell saudi arabia $185b arms package" }
+SAatstntiiclinhdvgn@{ shape: win-pane, label: "_Published Oct 20, 2018, 11:16 AM_
+Saudi arabia admits dissident journalist was killed in its consulate: timeline of the murder investigation" }
 
-Fenetorrusiri:::txtsize --> Ptineluiisey:::txtsize
-Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
-GpboiPoidaes:::txtsize --> NegaTrah:::txtsize
-GpboiPoidaes:::txtsize --> Kriinucneida:::txtsize
-Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
-Gpssofemmnsrt:::txtsize --> GpmglnolN:::txtsize
-Fenetorrusiri:::txtsize --> Leesdsctee:::txtsize
-Leesdsctee:::txtsize --> Ptineluiisey:::txtsize
-Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
-Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
-Leesdsctee:::txtsize --> Gotiiei:::txtsize
-Gotiiei:::txtsize --> Onortmhnispsnh:::txtsize
-Gotiiei:::txtsize --> Tnesilcgofincshe:::txtsize
+Tttinchon:::txtsize --> Tlhanincnnelc:::txtsize
+Tlhanincnnelc:::txtsize --> Tssvfimcil:::txtsize
+Tssvfimcil:::txtsize --> WounmiEo:::txtsize
+Tssvfimcil:::txtsize --> PefitaeeiTstin:::txtsize
+Tlhanincnnelc:::txtsize --> Uesarbpg:::txtsize
+Uesarbpg:::txtsize --> SAatstntiiclinhdvgn:::txtsize
 
-Eitgcmweart@{ shape: win-pane, label: "_Published Oct 21, 2025, 07:50 PM_
-Egyptian intelligence chief meets with netanyahu for gaza talks" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
-Peace finally descends on the middle east: now the battle to make it last begins" }
-TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
-Tears, joy in israel as hamas hands over first hostages" }
-Tsaieciyca@{ shape: win-pane, label: "_Published Oct 21, 2025, 01:32 AM_
-Trump says hamas will be ‘eradicated’ if they breach gaza deal" }
-TssHcftnerse@{ shape: win-pane, label: "_Published Oct 20, 2025, 09:55 AM_
-Trump says israel-hamas ceasefire still in place after gaza strikes" }
-Ilcfntutrkla@{ shape: win-pane, label: "_Published Oct 20, 2025, 06:50 AM_
-Israel says ceasefire and aid to resume after airstrikes kill 26 in gaza" }
-Usiessntasal@{ shape: win-pane, label: "_Published Oct 19, 2025, 07:02 AM_
-Us says ‘credible reports’ hamas planning attack against gaza civilians" }
-IlauGaonais@{ shape: win-pane, label: "_Published Oct 19, 2025, 04:51 AM_
-Israel’s netanyahu says gaza war not over until hamas disarms" }
-Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
-Hamas says it has handed over all hostage remains it can recover" }
-IlRciauitorn@{ shape: win-pane, label: "_Published Oct 19, 2025, 12:53 AM_
-Israel says rafah crossing stays shut until hostage bodies returned" }
+OascolsCy@{ shape: win-pane, label: "_Published Oct 21, 2025, 11:36 PM_
+Onlyfans has paid creators $32.4 billion since 2016, ceo says" }
+OanttlvrpolvSe@{ shape: win-pane, label: "_Published May 23, 2025, 09:40 AM_
+Onlyfans owner in talks to sell to investor group at about $10 billion value: sources" }
+AnForittsiaenm@{ shape: win-pane, label: "_Published Apr 03, 2025, 01:12 AM_
+Amazon, onlyfans founder submit last-minute bids for tiktok as us deadline looms" }
+TsiseceAdi@{ shape: win-pane, label: "_Published Mar 31, 2025, 09:55 AM_
+Trump says tiktok sale deal to come before april 5 deadline" }
+TsiseceAdi@{ shape: win-pane, label: "_Published Mar 31, 2025, 09:55 AM_
+Trump says tiktok sale deal to come before april 5 deadline" }
+Udgopborcty@{ shape: win-pane, label: "_Published Feb 05, 2025, 08:15 AM_
+Uk’s media regulator drops probe into underage access to onlyfans" }
+OaetdvrSde@{ shape: win-pane, label: "_Published Oct 24, 2024, 01:46 AM_
+Onlyfans user sentenced to five years in us child abuse case" }
+Oaepsthorc@{ shape: win-pane, label: "_Published Oct 09, 2024, 02:33 AM_
+Onlyfans creator pleads guilty in child pornography case" }
+TsSbfk@{ shape: win-pane, label: "_Published Sep 16, 2025, 08:10 PM_
+Trump says us has a buyer for tiktok" }
+Tsegoytooi@{ shape: win-pane, label: "_Published Jun 30, 2025, 12:11 AM_
+Trump says he has a group of ‘very wealthy people’ to buy tiktok" }
+Tsetrondfkad@{ shape: win-pane, label: "_Published Jun 20, 2025, 07:30 AM_
+Trump signs executive order to extend deadline for tiktok sale by 90 days" }
+UoseTkwh@{ shape: win-pane, label: "_Published Sep 15, 2025, 09:10 PM_
+Us announces ‘framework’ tiktok deal with china" }
+Twekrireolia@{ shape: win-pane, label: "_Published Jan 17, 2025, 02:39 AM_
+Trump will keep tiktok from ‘going dark’ if deal is on table, adviser says" }
+Iearthaiieipa@{ shape: win-pane, label: "_Published Sep 15, 2025, 04:55 PM_
+In latest trade warning to us, china says nvidia violated anti-monopoly law" }
 
-Eitgcmweart:::txtsize --> Tdrcaaededlncbs:::txtsize
-Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
-PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
-Eitgcmweart:::txtsize --> Tsaieciyca:::txtsize
-Tsaieciyca:::txtsize --> TssHcftnerse:::txtsize
-TssHcftnerse:::txtsize --> Ilcfntutrkla:::txtsize
-TssHcftnerse:::txtsize --> Usiessntasal:::txtsize
-Tsaieciyca:::txtsize --> IlauGaonais:::txtsize
-IlauGaonais:::txtsize --> Hstaoltesnv:::txtsize
-IlauGaonais:::txtsize --> IlRciauitorn:::txtsize
+OascolsCy:::txtsize --> OanttlvrpolvSe:::txtsize
+OanttlvrpolvSe:::txtsize --> AnForittsiaenm:::txtsize
+AnForittsiaenm:::txtsize --> TsiseceAdi:::txtsize
+AnForittsiaenm:::txtsize --> TsiseceAdi:::txtsize
+OanttlvrpolvSe:::txtsize --> Udgopborcty:::txtsize
+Udgopborcty:::txtsize --> OaetdvrSde:::txtsize
+Udgopborcty:::txtsize --> Oaepsthorc:::txtsize
+OascolsCy:::txtsize --> TsSbfk:::txtsize
+TsSbfk:::txtsize --> Tsegoytooi:::txtsize
+Tsegoytooi:::txtsize --> Tsetrondfkad:::txtsize
+TsSbfk:::txtsize --> UoseTkwh:::txtsize
+UoseTkwh:::txtsize --> Twekrireolia:::txtsize
+UoseTkwh:::txtsize --> Iearthaiieipa:::txtsize
 
-WcertllggtsrsMm@{ shape: win-pane, label: "_Published Oct 21, 2025, 07:27 PM_
-Woman charged over theft of gold, including 5kg nugget, at paris natural history museum" }
-Gotiiei@{ shape: win-pane, label: "_Published Sep 17, 2025, 07:36 PM_
-Gold worth $900,000 stolen in paris museum heist" }
-Onortmhnispsnh@{ shape: win-pane, label: "_Published Aug 27, 2025, 10:00 AM_
-Over 80 interpol alerts to trace more than $479m in criminal assets published in 7 months" }
-IpustcrshnsyiSpap@{ shape: win-pane, label: "_Published Jan 10, 2025, 05:00 PM_
-Interpol launches alert notice to trace assets hidden overseas by criminals; singapore part of pilot" }
-Tnesilcgofincshe@{ shape: win-pane, label: "_Published Jun 14, 2025, 12:04 AM_
-Two men jailed for stealing $7 million 18-carat gold toilet from winston churchill’s birthplace" }
-Glisteoeopenhf@{ shape: win-pane, label: "_Published Jun 03, 2025, 07:05 PM_
-Global airline association seeks to address growing problem of in-flight theft" }
-Cretpeagrdavg@{ shape: win-pane, label: "_Published May 05, 2025, 04:44 PM_
-Copper cable thefts in spain leave passengers trapped in trains overnight" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
-‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
-NegaTrah@{ shape: win-pane, label: "_Published Feb 20, 2025, 01:00 PM_
-Nike bets big on reality tv star kim kardashian" }
-Kriinucneida@{ shape: win-pane, label: "_Published May 17, 2023, 12:00 PM_
-Kim kardashian's $1.34 billion buyout pitch leans on her social media reach" }
-Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
-Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
-GpmglnolN@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:52 PM_
-Greenpeace $880m damages ruling in us shocks global ngos" }
+BioeistoiS@{ shape: win-pane, label: "_Published Oct 21, 2025, 11:22 PM_
+Britain removes terrorism designation for syria’s hts" }
+Ssalirniwetaatc@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:45 PM_
+Syria’s sharaa tells putin at kremlin meeting he will respect all past deals with moscow" }
+Ralkireosr@{ shape: win-pane, label: "_Published Mar 02, 2025, 03:09 PM_
+Russia gambles to keep military bases in post-assad syria" }
+IlitpisaSse@{ shape: win-pane, label: "_Published Mar 01, 2025, 12:14 AM_
+Israel lobbies us to keep russian bases in a ‘weak’ syria, sources say" }
+Ssevseaol@{ shape: win-pane, label: "_Published Feb 17, 2025, 07:45 AM_
+Syria’s new leader visits former assad strongholds" }
+SnsrsetlRars@{ shape: win-pane, label: "_Published Apr 15, 2025, 12:11 AM_
+Syrian ambassador to moscow requests asylum in russia, report says" }
+AAShsseoelniEn@{ shape: win-pane, label: "_Published Dec 11, 2024, 05:00 AM_
+A post-assad syria has just raised the risk of more conflict in the middle east in 2025" }
+Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
+British man of syrian descent named as manchester synagogue attacker" }
+Sontasaerdnhnit@{ shape: win-pane, label: "_Published Oct 03, 2025, 12:20 AM_
+Synagogue knife attack alarms britain’s jews already dealing with rising anti-semitism" }
+Sesaletiasot@{ shape: win-pane, label: "_Published Oct 03, 2025, 02:10 AM_
+Starmer says britain will defeat anti-semitism after synagogue attack" }
+Asdninualissorg@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:29 PM_
+At least two dead in british synagogue attack, police kill suspect said to be carrying bomb" }
+Sesaletiasot@{ shape: win-pane, label: "_Published Oct 03, 2025, 02:10 AM_
+Starmer says britain will defeat anti-semitism after synagogue attack" }
+Sontasaerdnhnit@{ shape: win-pane, label: "_Published Oct 03, 2025, 12:20 AM_
+Synagogue knife attack alarms britain’s jews already dealing with rising anti-semitism" }
+Asdninualissorg@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:29 PM_
+At least two dead in british synagogue attack, police kill suspect said to be carrying bomb" }
 
-WcertllggtsrsMm:::txtsize --> Gotiiei:::txtsize
-Gotiiei:::txtsize --> Onortmhnispsnh:::txtsize
-Onortmhnispsnh:::txtsize --> IpustcrshnsyiSpap:::txtsize
-Gotiiei:::txtsize --> Tnesilcgofincshe:::txtsize
-Tnesilcgofincshe:::txtsize --> Glisteoeopenhf:::txtsize
-Tnesilcgofincshe:::txtsize --> Cretpeagrdavg:::txtsize
-WcertllggtsrsMm:::txtsize --> Ptineluiisey:::txtsize
-Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
-GpboiPoidaes:::txtsize --> NegaTrah:::txtsize
-GpboiPoidaes:::txtsize --> Kriinucneida:::txtsize
-Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
-Gpssofemmnsrt:::txtsize --> GpmglnolN:::txtsize
+BioeistoiS:::txtsize --> Ssalirniwetaatc:::txtsize
+Ssalirniwetaatc:::txtsize --> Ralkireosr:::txtsize
+Ralkireosr:::txtsize --> IlitpisaSse:::txtsize
+Ralkireosr:::txtsize --> Ssevseaol:::txtsize
+Ssalirniwetaatc:::txtsize --> SnsrsetlRars:::txtsize
+SnsrsetlRars:::txtsize --> AAShsseoelniEn:::txtsize
+BioeistoiS:::txtsize --> Bsoisnaceaec:::txtsize
+Bsoisnaceaec:::txtsize --> Sontasaerdnhnit:::txtsize
+Sontasaerdnhnit:::txtsize --> Sesaletiasot:::txtsize
+Sontasaerdnhnit:::txtsize --> Asdninualissorg:::txtsize
+Bsoisnaceaec:::txtsize --> Sesaletiasot:::txtsize
+Sesaletiasot:::txtsize --> Sontasaerdnhnit:::txtsize
+Sesaletiasot:::txtsize --> Asdninualissorg:::txtsize
 
 ```
-<i>Last updated: 2025-10-21 21:34:52.797693 (GMT+8)</i>
+<i>Last updated: 2025-10-22 00:00:19.422416 (GMT+8)</i>
 <!-- END -->
