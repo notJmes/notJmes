@@ -16,126 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Wdhuuptnr@{ shape: win-pane, label: "_Published Oct 21, 2025, 03:39 PM_
-Where does the aukus security pact stand under trump?" }
-Tdrlaaunota@{ shape: win-pane, label: "_Published Oct 21, 2025, 10:35 AM_
-Trump declares ‘full steam ahead’ on aukus in win for australia" }
-TAaAegtmarncuia@{ shape: win-pane, label: "_Published Oct 21, 2025, 12:09 AM_
-Trump, australia’s albanese sign critical minerals agreement, discuss submarine deal" }
-Aaotraesphfnreg@{ shape: win-pane, label: "_Published Oct 13, 2025, 04:30 PM_
-Australia consults on critical minerals stockpile ahead of albanese-trump meeting" }
-Aaoninaumhymt@{ shape: win-pane, label: "_Published Oct 14, 2025, 11:24 AM_
-Australia to make next billion-dollar aukus payment ‘shortly’, says minister" }
-AalonSdkufporss@{ shape: win-pane, label: "_Published Aug 26, 2025, 12:35 PM_
-Aukus at ‘inflection point’ as us-based think-tank urges fresh push to ensure its success" }
-Aaoslnebnp@{ shape: win-pane, label: "_Published Sep 13, 2025, 10:35 PM_
-Australia to invest $10.2 billion in nuclear submarine shipyard" }
-Urbsrrctgsiadk@{ shape: win-pane, label: "_Published Mar 16, 2025, 10:51 PM_
-Us starts to build submarine presence on strategic australian coast under aukus" }
-Csscersnnsora@{ shape: win-pane, label: "_Published Mar 02, 2025, 03:40 PM_
-Chinese warships circle  australia, stoking an anxious nation’s worst fears" }
-Vnttsihavel@{ shape: win-pane, label: "_Published Feb 25, 2025, 04:39 PM_
-Virgin pilot alerted australia to china navy live fire drill" }
-Caetaphelfr@{ shape: win-pane, label: "_Published Feb 23, 2025, 01:27 PM_
-China accuses australia of ‘hyping’ chinese naval live fire drills" }
-Anamettbyta@{ shape: win-pane, label: "_Published Mar 14, 2023, 11:31 AM_
-Aukus nuclear submarine plan to cost up to $330b by 2055, says australia" }
-Aaxeuoiluisouos@{ shape: win-pane, label: "_Published Mar 09, 2023, 06:46 AM_
-Australia expected to buy up to 5 virginia class submarines as part of aukus: us sources" }
-SAaogfruulM@{ shape: win-pane, label: "_Published Mar 11, 2023, 01:30 PM_
-South australia to be big beneficiary of aukus: australian pm" }
+Fenetorrusiri@{ shape: win-pane, label: "_Published Oct 21, 2025, 08:50 PM_
+France intensifies hunt for louvre raiders as museum security scrutinised" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
+‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
+NegaTrah@{ shape: win-pane, label: "_Published Feb 20, 2025, 01:00 PM_
+Nike bets big on reality tv star kim kardashian" }
+Kriinucneida@{ shape: win-pane, label: "_Published May 17, 2023, 12:00 PM_
+Kim kardashian's $1.34 billion buyout pitch leans on her social media reach" }
+Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
+Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
+GpmglnolN@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:52 PM_
+Greenpeace $880m damages ruling in us shocks global ngos" }
+Leesdsctee@{ shape: win-pane, label: "_Published Oct 20, 2025, 12:30 PM_
+Louvre closed for second day as france hunts jewel thieves" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
+‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
+Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
+Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
+Gotiiei@{ shape: win-pane, label: "_Published Sep 17, 2025, 07:36 PM_
+Gold worth $900,000 stolen in paris museum heist" }
+Onortmhnispsnh@{ shape: win-pane, label: "_Published Aug 27, 2025, 10:00 AM_
+Over 80 interpol alerts to trace more than $479m in criminal assets published in 7 months" }
+Tnesilcgofincshe@{ shape: win-pane, label: "_Published Jun 14, 2025, 12:04 AM_
+Two men jailed for stealing $7 million 18-carat gold toilet from winston churchill’s birthplace" }
 
-Wdhuuptnr:::txtsize --> Tdrlaaunota:::txtsize
-Tdrlaaunota:::txtsize --> TAaAegtmarncuia:::txtsize
-TAaAegtmarncuia:::txtsize --> Aaotraesphfnreg:::txtsize
-Tdrlaaunota:::txtsize --> Aaoninaumhymt:::txtsize
-Aaoninaumhymt:::txtsize --> AalonSdkufporss:::txtsize
-Aaoninaumhymt:::txtsize --> Aaoslnebnp:::txtsize
-Wdhuuptnr:::txtsize --> Urbsrrctgsiadk:::txtsize
-Urbsrrctgsiadk:::txtsize --> Csscersnnsora:::txtsize
-Csscersnnsora:::txtsize --> Vnttsihavel:::txtsize
-Csscersnnsora:::txtsize --> Caetaphelfr:::txtsize
-Urbsrrctgsiadk:::txtsize --> Anamettbyta:::txtsize
-Anamettbyta:::txtsize --> Aaxeuoiluisouos:::txtsize
-Anamettbyta:::txtsize --> SAaogfruulM:::txtsize
+Fenetorrusiri:::txtsize --> Ptineluiisey:::txtsize
+Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
+GpboiPoidaes:::txtsize --> NegaTrah:::txtsize
+GpboiPoidaes:::txtsize --> Kriinucneida:::txtsize
+Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
+Gpssofemmnsrt:::txtsize --> GpmglnolN:::txtsize
+Fenetorrusiri:::txtsize --> Leesdsctee:::txtsize
+Leesdsctee:::txtsize --> Ptineluiisey:::txtsize
+Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
+Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
+Leesdsctee:::txtsize --> Gotiiei:::txtsize
+Gotiiei:::txtsize --> Onortmhnispsnh:::txtsize
+Gotiiei:::txtsize --> Tnesilcgofincshe:::txtsize
 
-HiexeaAtimevtv@{ shape: win-pane, label: "_Published Oct 21, 2025, 01:30 PM_
-Hilarious memes explode as amazon’s aws outage hits meme-makers favourite canva" }
-AnAorikrfudpssrd@{ shape: win-pane, label: "_Published Oct 21, 2025, 08:20 AM_
-Amazon says aws cloud service is back to normal after outage disrupts businesses worldwide" }
-Anutvgrrgraeele@{ shape: win-pane, label: "_Published Oct 20, 2025, 04:38 PM_
-Amazon’s cloud unit recovering after major outage disrupts apps, services worldwide" }
-Rtvrrtoutfeus@{ shape: win-pane, label: "_Published Jun 04, 2025, 04:14 AM_
-Reddit’s services restored after global outage that affected thousands" }
-Msscsfluhsrtr@{ shape: win-pane, label: "_Published Jan 26, 2023, 06:54 AM_
-Microsoft’s services resume after cloud outage hits users around the world" }
-Msninwsaggpceuk@{ shape: win-pane, label: "_Published Jan 25, 2023, 05:27 PM_
-Microsoft investigating network issue causing outage of apps such as teams, outlook" }
-Msmbcnscmp@{ shape: win-pane, label: "_Published Jan 19, 2023, 07:30 AM_
-Microsoft, amazon begin cutting 28,000 jobs as tech slump deepens" }
-Csirwiorauauatusll@{ shape: win-pane, label: "_Published Jul 19, 2024, 10:50 PM_
-Cyber-security firm crowdstrike’s software update causes major outage affecting businesses globally" }
-Mtuhplbearndrsu@{ shape: win-pane, label: "_Published Jul 19, 2024, 04:22 PM_
-Major tech outage hits s’pore, global businesses; airports, banks, media services disrupted" }
-Mlkoritgpfuhroroy@{ shape: win-pane, label: "_Published Jul 19, 2024, 04:38 PM_
-Manual check-ins for over 10 airlines at changi airport after outage hits transport firms globally" }
-Mtuhplbearndrsu@{ shape: win-pane, label: "_Published Jul 19, 2024, 04:22 PM_
-Major tech outage hits s’pore, global businesses; airports, banks, media services disrupted" }
+Eitgcmweart@{ shape: win-pane, label: "_Published Oct 21, 2025, 07:50 PM_
+Egyptian intelligence chief meets with netanyahu for gaza talks" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
+TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
+Tears, joy in israel as hamas hands over first hostages" }
+Tsaieciyca@{ shape: win-pane, label: "_Published Oct 21, 2025, 01:32 AM_
+Trump says hamas will be ‘eradicated’ if they breach gaza deal" }
+TssHcftnerse@{ shape: win-pane, label: "_Published Oct 20, 2025, 09:55 AM_
+Trump says israel-hamas ceasefire still in place after gaza strikes" }
+Ilcfntutrkla@{ shape: win-pane, label: "_Published Oct 20, 2025, 06:50 AM_
+Israel says ceasefire and aid to resume after airstrikes kill 26 in gaza" }
+Usiessntasal@{ shape: win-pane, label: "_Published Oct 19, 2025, 07:02 AM_
+Us says ‘credible reports’ hamas planning attack against gaza civilians" }
+IlauGaonais@{ shape: win-pane, label: "_Published Oct 19, 2025, 04:51 AM_
+Israel’s netanyahu says gaza war not over until hamas disarms" }
+Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
+Hamas says it has handed over all hostage remains it can recover" }
+IlRciauitorn@{ shape: win-pane, label: "_Published Oct 19, 2025, 12:53 AM_
+Israel says rafah crossing stays shut until hostage bodies returned" }
 
-HiexeaAtimevtv:::txtsize --> AnAorikrfudpssrd:::txtsize
-AnAorikrfudpssrd:::txtsize --> Anutvgrrgraeele:::txtsize
-Anutvgrrgraeele:::txtsize --> Rtvrrtoutfeus:::txtsize
-AnAorikrfudpssrd:::txtsize --> Msscsfluhsrtr:::txtsize
-Msscsfluhsrtr:::txtsize --> Msninwsaggpceuk:::txtsize
-Msscsfluhsrtr:::txtsize --> Msmbcnscmp:::txtsize
-HiexeaAtimevtv:::txtsize --> Csirwiorauauatusll:::txtsize
-Csirwiorauauatusll:::txtsize --> Mtuhplbearndrsu:::txtsize
-Csirwiorauauatusll:::txtsize --> Mlkoritgpfuhroroy:::txtsize
-Mlkoritgpfuhroroy:::txtsize --> Mtuhplbearndrsu:::txtsize
+Eitgcmweart:::txtsize --> Tdrcaaededlncbs:::txtsize
+Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
+PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
+Eitgcmweart:::txtsize --> Tsaieciyca:::txtsize
+Tsaieciyca:::txtsize --> TssHcftnerse:::txtsize
+TssHcftnerse:::txtsize --> Ilcfntutrkla:::txtsize
+TssHcftnerse:::txtsize --> Usiessntasal:::txtsize
+Tsaieciyca:::txtsize --> IlauGaonais:::txtsize
+IlauGaonais:::txtsize --> Hstaoltesnv:::txtsize
+IlauGaonais:::txtsize --> IlRciauitorn:::txtsize
 
-EgnhunsioafFci@{ shape: win-pane, label: "_Published Oct 21, 2025, 01:21 PM_
-Eu weighs ban on ethanol used in hand sanitisers over cancer fears: financial times" }
-OmpvgclrbaeetOn@{ shape: win-pane, label: "_Published Oct 08, 2025, 04:32 PM_
-Outcome of s’pore’s vaping policy will inform global practice, says expert in who journal" }
-Wteeinauitoi@{ shape: win-pane, label: "_Published Oct 06, 2025, 08:47 PM_
-Who estimates at least 15 million teenagers use e-cigarettes worldwide" }
-YsrEavprsantbpc@{ shape: win-pane, label: "_Published Apr 08, 2025, 03:55 PM_
-Young smokers in s-e asia are giving up cigarettes for vapes and heated tobacco products" }
-Minzcpepedenom@{ shape: win-pane, label: "_Published Oct 03, 2025, 12:24 PM_
-‘my son is going crazy’: mum calls police on vaping 15-year-old, who gets sent to boys’ home" }
-NpitedsuiptopsM@{ shape: win-pane, label: "_Published Aug 17, 2025, 08:35 PM_
-Ndr 2025: vaping will be treated as a drug issue; much stiffer penalties to be imposed, says pm wong" }
-AlkEcltevpoir@{ shape: win-pane, label: "_Published Jul 19, 2025, 05:00 AM_
-A deadly cocktail: easy access, lax attitudes driving kpod scourge in s’pore" }
-Wesgionsy@{ shape: win-pane, label: "_Published Jul 13, 2025, 05:00 AM_
-Why the vape scourge in singapore concerns everyone" }
-Eiestifxrcc@{ shape: win-pane, label: "_Published Sep 29, 2025, 10:13 PM_
-Eu environment boss tests positive for ‘toxic’ forever chemicals" }
-Mhokgifiai@{ shape: win-pane, label: "_Published Sep 18, 2024, 07:54 AM_
-More than 3,600 food-packaging chemicals found in human bodies" }
-FemsnoUaesd@{ shape: win-pane, label: "_Published Feb 29, 2024, 10:05 AM_
-‘forever chemicals’ no longer sold in us to package greasy food: fda" }
-Taitrioeoriinw@{ shape: win-pane, label: "_Published May 15, 2025, 02:52 AM_
-Trump administration drops limits on several ‘forever chemicals’ in drinking water" }
-Tmtloweieuo@{ shape: win-pane, label: "_Published Mar 13, 2025, 06:53 AM_
-Trump moves to roll back over two dozen us air, water regulations" }
-Tftgisyfrnsydfems@{ shape: win-pane, label: "_Published Jul 24, 2024, 12:34 PM_
-‘truly frightening’: pesticides sprayed on food crops increasingly laced with ‘forever chemicals’" }
+WcertllggtsrsMm@{ shape: win-pane, label: "_Published Oct 21, 2025, 07:27 PM_
+Woman charged over theft of gold, including 5kg nugget, at paris natural history museum" }
+Gotiiei@{ shape: win-pane, label: "_Published Sep 17, 2025, 07:36 PM_
+Gold worth $900,000 stolen in paris museum heist" }
+Onortmhnispsnh@{ shape: win-pane, label: "_Published Aug 27, 2025, 10:00 AM_
+Over 80 interpol alerts to trace more than $479m in criminal assets published in 7 months" }
+IpustcrshnsyiSpap@{ shape: win-pane, label: "_Published Jan 10, 2025, 05:00 PM_
+Interpol launches alert notice to trace assets hidden overseas by criminals; singapore part of pilot" }
+Tnesilcgofincshe@{ shape: win-pane, label: "_Published Jun 14, 2025, 12:04 AM_
+Two men jailed for stealing $7 million 18-carat gold toilet from winston churchill’s birthplace" }
+Glisteoeopenhf@{ shape: win-pane, label: "_Published Jun 03, 2025, 07:05 PM_
+Global airline association seeks to address growing problem of in-flight theft" }
+Cretpeagrdavg@{ shape: win-pane, label: "_Published May 05, 2025, 04:44 PM_
+Copper cable thefts in spain leave passengers trapped in trains overnight" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
+‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
+NegaTrah@{ shape: win-pane, label: "_Published Feb 20, 2025, 01:00 PM_
+Nike bets big on reality tv star kim kardashian" }
+Kriinucneida@{ shape: win-pane, label: "_Published May 17, 2023, 12:00 PM_
+Kim kardashian's $1.34 billion buyout pitch leans on her social media reach" }
+Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
+Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
+GpmglnolN@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:52 PM_
+Greenpeace $880m damages ruling in us shocks global ngos" }
 
-EgnhunsioafFci:::txtsize --> OmpvgclrbaeetOn:::txtsize
-OmpvgclrbaeetOn:::txtsize --> Wteeinauitoi:::txtsize
-Wteeinauitoi:::txtsize --> YsrEavprsantbpc:::txtsize
-Wteeinauitoi:::txtsize --> Minzcpepedenom:::txtsize
-OmpvgclrbaeetOn:::txtsize --> NpitedsuiptopsM:::txtsize
-NpitedsuiptopsM:::txtsize --> AlkEcltevpoir:::txtsize
-NpitedsuiptopsM:::txtsize --> Wesgionsy:::txtsize
-EgnhunsioafFci:::txtsize --> Eiestifxrcc:::txtsize
-Eiestifxrcc:::txtsize --> Mhokgifiai:::txtsize
-Mhokgifiai:::txtsize --> FemsnoUaesd:::txtsize
-Eiestifxrcc:::txtsize --> Taitrioeoriinw:::txtsize
-Taitrioeoriinw:::txtsize --> Tmtloweieuo:::txtsize
-Taitrioeoriinw:::txtsize --> Tftgisyfrnsydfems:::txtsize
+WcertllggtsrsMm:::txtsize --> Gotiiei:::txtsize
+Gotiiei:::txtsize --> Onortmhnispsnh:::txtsize
+Onortmhnispsnh:::txtsize --> IpustcrshnsyiSpap:::txtsize
+Gotiiei:::txtsize --> Tnesilcgofincshe:::txtsize
+Tnesilcgofincshe:::txtsize --> Glisteoeopenhf:::txtsize
+Tnesilcgofincshe:::txtsize --> Cretpeagrdavg:::txtsize
+WcertllggtsrsMm:::txtsize --> Ptineluiisey:::txtsize
+Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
+GpboiPoidaes:::txtsize --> NegaTrah:::txtsize
+GpboiPoidaes:::txtsize --> Kriinucneida:::txtsize
+Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
+Gpssofemmnsrt:::txtsize --> GpmglnolN:::txtsize
 
 ```
-<i>Last updated: 2025-10-21 16:00:47.311621 (GMT+8)</i>
+<i>Last updated: 2025-10-21 21:34:52.797693 (GMT+8)</i>
 <!-- END -->
