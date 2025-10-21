@@ -16,123 +16,126 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-AcodhlSatesfr@{ shape: win-pane, label: "_Published Oct 21, 2025, 11:20 AM_
-American, who faked death and fled to scotland, gets five years to life for rape" }
-Bdeinraunadtta@{ shape: win-pane, label: "_Published Sep 17, 2025, 03:05 PM_
-Banned from entering singapore in 1998, man returns under false identity to start family" }
-Joereereyawaoao@{ shape: win-pane, label: "_Published Jul 22, 2025, 08:15 PM_
-Jail for 4 foreigners who entered s’pore illegally by boat and were caught on pulau tekong" }
-mcoeSialddsnagt@{ shape: win-pane, label: "_Published May 19, 2025, 12:00 PM_
-4 men accused of entering s’pore illegally allegedly had 2,700 packs of contraband cigarettes" }
-mcoeSialddsnagt@{ shape: win-pane, label: "_Published May 19, 2025, 12:00 PM_
-4 men accused of entering s’pore illegally allegedly had 2,700 packs of contraband cigarettes" }
-JafiawtSplltsrig@{ shape: win-pane, label: "_Published May 09, 2025, 07:40 PM_
-Jail, caning for m’sian boatman who entered singapore illegally with passengers on fishing trip" }
-TMsatrrioaia@{ shape: win-pane, label: "_Published Apr 19, 2025, 11:28 AM_
-Three malaysians arrested for entering singapore’s waters illegally" }
-Fojnmiowllenva@{ shape: win-pane, label: "_Published Oct 25, 2024, 05:55 PM_
-Five months’ jail in batam for singaporean who illegally entered in 2021 and overstayed" }
-Fereevlgaasdsla@{ shape: win-pane, label: "_Published Oct 16, 2025, 10:53 AM_
-Four teens arrested in kedah over alleged gang rape, sharing sex video on social media" }
-snMasvnehi@{ shape: win-pane, label: "_Published Oct 11, 2025, 04:30 PM_
-4 students in melaka arrested over gang-rape of schoolgirl" }
-Tylleyratgwevail@{ shape: win-pane, label: "_Published May 02, 2023, 05:00 PM_
-Three 13-year-old girls allegedly gang-raped after trying vape with new flavour: malaysian police" }
-Ktpcosltopemyyigs@{ shape: win-pane, label: "_Published Oct 05, 2025, 07:00 PM_
-Kelantan top cop’s call to punish girls in statutory rape cases slammed by malaysia rights groups" }
-Msuibslarlbfolki@{ shape: win-pane, label: "_Published Oct 15, 2025, 03:30 PM_
-Malaysian authorities blame social media after fatal stabbing of schoolgirl shocks nation" }
-Mslehcsittagafee@{ shape: win-pane, label: "_Published Oct 14, 2025, 09:00 PM_
-Malaysia mulls over tighter school security after fatal stabbing of 16-year-old female student" }
-Mshtnsiwerrsiee@{ shape: win-pane, label: "_Published Oct 15, 2025, 01:17 PM_
-Malaysia school stabbing: ‘i was terrified when he entered our class holding the knife’" }
-
-AcodhlSatesfr:::txtsize --> Bdeinraunadtta:::txtsize
-Bdeinraunadtta:::txtsize --> Joereereyawaoao:::txtsize
-Joereereyawaoao:::txtsize --> mcoeSialddsnagt:::txtsize
-Joereereyawaoao:::txtsize --> mcoeSialddsnagt:::txtsize
-Bdeinraunadtta:::txtsize --> JafiawtSplltsrig:::txtsize
-JafiawtSplltsrig:::txtsize --> TMsatrrioaia:::txtsize
-JafiawtSplltsrig:::txtsize --> Fojnmiowllenva:::txtsize
-AcodhlSatesfr:::txtsize --> Fereevlgaasdsla:::txtsize
-Fereevlgaasdsla:::txtsize --> snMasvnehi:::txtsize
-snMasvnehi:::txtsize --> Tylleyratgwevail:::txtsize
-snMasvnehi:::txtsize --> Ktpcosltopemyyigs:::txtsize
-Fereevlgaasdsla:::txtsize --> Msuibslarlbfolki:::txtsize
-Msuibslarlbfolki:::txtsize --> Mslehcsittagafee:::txtsize
-Msuibslarlbfolki:::txtsize --> Mshtnsiwerrsiee:::txtsize
-
-Cioesmpunti@{ shape: win-pane, label: "_Published Oct 21, 2025, 10:52 AM_
-Canadian province moves to limit ai power use, ban crypto mining" }
-TyreTbeel@{ shape: win-pane, label: "_Published Aug 09, 2025, 10:15 AM_
-The crypto bros are back: ‘the hubris never really left’" }
-SbcoTAstlrry@{ shape: win-pane, label: "_Published Jul 03, 2022, 03:39 PM_
-S'pore-based crypto fund three arrows capital files for bankruptcy in us" }
-Cohsieipri@{ shape: win-pane, label: "_Published Jun 15, 2022, 04:53 PM_
-Crypto crash: what's causing the rout in cryptocurrencies?" }
-Llopntee@{ shape: win-pane, label: "_Published Oct 16, 2025, 09:20 PM_
-Laos plans to pull plug on crypto miners by early 2026" }
-TdusnlSessg@{ shape: win-pane, label: "_Published Jul 29, 2025, 09:25 AM_
-The hidden hurdles behind building south-east asia's $129b supergrid" }
-Weolaaaed@{ shape: win-pane, label: "_Published Jun 03, 2025, 06:00 PM_
-Why is everyone talking about an asean power grid?" }
-AgaeypfwttenrIeoe@{ shape: win-pane, label: "_Published May 30, 2025, 05:50 PM_
-Asean grid makes headway with plans for new electricity interconnector from indonesia to s’pore" }
-CSKapoisceyedac@{ shape: win-pane, label: "_Published May 20, 2025, 11:05 PM_
-China, south korea and japan looking into asean’s clean energy market amid us scale-back" }
-Uhionlolsfous@{ shape: win-pane, label: "_Published Mar 05, 2025, 10:05 PM_
-Us withdrawing from plan to help major polluters move from coal, sources say" }
-GnsrnovaetusApg@{ shape: win-pane, label: "_Published May 08, 2025, 02:05 PM_
-Governments, insurers and innovative finance needed to reduce risks of asean power grid" }
-
-Cioesmpunti:::txtsize --> TyreTbeel:::txtsize
-TyreTbeel:::txtsize --> SbcoTAstlrry:::txtsize
-SbcoTAstlrry:::txtsize --> Cohsieipri:::txtsize
-Cioesmpunti:::txtsize --> Llopntee:::txtsize
-Llopntee:::txtsize --> TdusnlSessg:::txtsize
-TdusnlSessg:::txtsize --> Weolaaaed:::txtsize
-TdusnlSessg:::txtsize --> AgaeypfwttenrIeoe:::txtsize
-Llopntee:::txtsize --> CSKapoisceyedac:::txtsize
-CSKapoisceyedac:::txtsize --> Uhionlolsfous:::txtsize
-CSKapoisceyedac:::txtsize --> GnsrnovaetusApg:::txtsize
-
+Wdhuuptnr@{ shape: win-pane, label: "_Published Oct 21, 2025, 03:39 PM_
+Where does the aukus security pact stand under trump?" }
 Tdrlaaunota@{ shape: win-pane, label: "_Published Oct 21, 2025, 10:35 AM_
 Trump declares ‘full steam ahead’ on aukus in win for australia" }
 TAaAegtmarncuia@{ shape: win-pane, label: "_Published Oct 21, 2025, 12:09 AM_
 Trump, australia’s albanese sign critical minerals agreement, discuss submarine deal" }
 Aaotraesphfnreg@{ shape: win-pane, label: "_Published Oct 13, 2025, 04:30 PM_
 Australia consults on critical minerals stockpile ahead of albanese-trump meeting" }
-TttrsWnoWHoiy@{ shape: win-pane, label: "_Published Sep 24, 2025, 06:12 AM_
-Trump to meet australia's pm in washington on oct 20, white house official says" }
-Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
-China tightens rare earth export controls and targets defence, semiconductor users" }
 Aaoninaumhymt@{ shape: win-pane, label: "_Published Oct 14, 2025, 11:24 AM_
 Australia to make next billion-dollar aukus payment ‘shortly’, says minister" }
 AalonSdkufporss@{ shape: win-pane, label: "_Published Aug 26, 2025, 12:35 PM_
 Aukus at ‘inflection point’ as us-based think-tank urges fresh push to ensure its success" }
-Eganululewsrlrr@{ shape: win-pane, label: "_Published Mar 14, 2023, 04:56 AM_
-Eyeing china, biden and aukus allies unveil nuclear-powered submarine plan for australia" }
-Aarnyuuirsr@{ shape: win-pane, label: "_Published Jul 26, 2025, 03:14 PM_
-Australia, britain sign 50-year aukus submarine partnership treaty" }
 Aaoslnebnp@{ shape: win-pane, label: "_Published Sep 13, 2025, 10:35 PM_
 Australia to invest $10.2 billion in nuclear submarine shipyard" }
-Aaodiaoushs@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:54 AM_
-Australia to spend $1.4 billion on autonomous undersea vehicles" }
-AalonSdkufporss@{ shape: win-pane, label: "_Published Aug 26, 2025, 12:35 PM_
-Aukus at ‘inflection point’ as us-based think-tank urges fresh push to ensure its success" }
+Urbsrrctgsiadk@{ shape: win-pane, label: "_Published Mar 16, 2025, 10:51 PM_
+Us starts to build submarine presence on strategic australian coast under aukus" }
+Csscersnnsora@{ shape: win-pane, label: "_Published Mar 02, 2025, 03:40 PM_
+Chinese warships circle  australia, stoking an anxious nation’s worst fears" }
+Vnttsihavel@{ shape: win-pane, label: "_Published Feb 25, 2025, 04:39 PM_
+Virgin pilot alerted australia to china navy live fire drill" }
+Caetaphelfr@{ shape: win-pane, label: "_Published Feb 23, 2025, 01:27 PM_
+China accuses australia of ‘hyping’ chinese naval live fire drills" }
+Anamettbyta@{ shape: win-pane, label: "_Published Mar 14, 2023, 11:31 AM_
+Aukus nuclear submarine plan to cost up to $330b by 2055, says australia" }
+Aaxeuoiluisouos@{ shape: win-pane, label: "_Published Mar 09, 2023, 06:46 AM_
+Australia expected to buy up to 5 virginia class submarines as part of aukus: us sources" }
+SAaogfruulM@{ shape: win-pane, label: "_Published Mar 11, 2023, 01:30 PM_
+South australia to be big beneficiary of aukus: australian pm" }
 
+Wdhuuptnr:::txtsize --> Tdrlaaunota:::txtsize
 Tdrlaaunota:::txtsize --> TAaAegtmarncuia:::txtsize
 TAaAegtmarncuia:::txtsize --> Aaotraesphfnreg:::txtsize
-Aaotraesphfnreg:::txtsize --> TttrsWnoWHoiy:::txtsize
-Aaotraesphfnreg:::txtsize --> Ctertonsasnmdrs:::txtsize
 Tdrlaaunota:::txtsize --> Aaoninaumhymt:::txtsize
 Aaoninaumhymt:::txtsize --> AalonSdkufporss:::txtsize
-AalonSdkufporss:::txtsize --> Eganululewsrlrr:::txtsize
-AalonSdkufporss:::txtsize --> Aarnyuuirsr:::txtsize
 Aaoninaumhymt:::txtsize --> Aaoslnebnp:::txtsize
-Aaoslnebnp:::txtsize --> Aaodiaoushs:::txtsize
-Aaoslnebnp:::txtsize --> AalonSdkufporss:::txtsize
+Wdhuuptnr:::txtsize --> Urbsrrctgsiadk:::txtsize
+Urbsrrctgsiadk:::txtsize --> Csscersnnsora:::txtsize
+Csscersnnsora:::txtsize --> Vnttsihavel:::txtsize
+Csscersnnsora:::txtsize --> Caetaphelfr:::txtsize
+Urbsrrctgsiadk:::txtsize --> Anamettbyta:::txtsize
+Anamettbyta:::txtsize --> Aaxeuoiluisouos:::txtsize
+Anamettbyta:::txtsize --> SAaogfruulM:::txtsize
+
+HiexeaAtimevtv@{ shape: win-pane, label: "_Published Oct 21, 2025, 01:30 PM_
+Hilarious memes explode as amazon’s aws outage hits meme-makers favourite canva" }
+AnAorikrfudpssrd@{ shape: win-pane, label: "_Published Oct 21, 2025, 08:20 AM_
+Amazon says aws cloud service is back to normal after outage disrupts businesses worldwide" }
+Anutvgrrgraeele@{ shape: win-pane, label: "_Published Oct 20, 2025, 04:38 PM_
+Amazon’s cloud unit recovering after major outage disrupts apps, services worldwide" }
+Rtvrrtoutfeus@{ shape: win-pane, label: "_Published Jun 04, 2025, 04:14 AM_
+Reddit’s services restored after global outage that affected thousands" }
+Msscsfluhsrtr@{ shape: win-pane, label: "_Published Jan 26, 2023, 06:54 AM_
+Microsoft’s services resume after cloud outage hits users around the world" }
+Msninwsaggpceuk@{ shape: win-pane, label: "_Published Jan 25, 2023, 05:27 PM_
+Microsoft investigating network issue causing outage of apps such as teams, outlook" }
+Msmbcnscmp@{ shape: win-pane, label: "_Published Jan 19, 2023, 07:30 AM_
+Microsoft, amazon begin cutting 28,000 jobs as tech slump deepens" }
+Csirwiorauauatusll@{ shape: win-pane, label: "_Published Jul 19, 2024, 10:50 PM_
+Cyber-security firm crowdstrike’s software update causes major outage affecting businesses globally" }
+Mtuhplbearndrsu@{ shape: win-pane, label: "_Published Jul 19, 2024, 04:22 PM_
+Major tech outage hits s’pore, global businesses; airports, banks, media services disrupted" }
+Mlkoritgpfuhroroy@{ shape: win-pane, label: "_Published Jul 19, 2024, 04:38 PM_
+Manual check-ins for over 10 airlines at changi airport after outage hits transport firms globally" }
+Mtuhplbearndrsu@{ shape: win-pane, label: "_Published Jul 19, 2024, 04:22 PM_
+Major tech outage hits s’pore, global businesses; airports, banks, media services disrupted" }
+
+HiexeaAtimevtv:::txtsize --> AnAorikrfudpssrd:::txtsize
+AnAorikrfudpssrd:::txtsize --> Anutvgrrgraeele:::txtsize
+Anutvgrrgraeele:::txtsize --> Rtvrrtoutfeus:::txtsize
+AnAorikrfudpssrd:::txtsize --> Msscsfluhsrtr:::txtsize
+Msscsfluhsrtr:::txtsize --> Msninwsaggpceuk:::txtsize
+Msscsfluhsrtr:::txtsize --> Msmbcnscmp:::txtsize
+HiexeaAtimevtv:::txtsize --> Csirwiorauauatusll:::txtsize
+Csirwiorauauatusll:::txtsize --> Mtuhplbearndrsu:::txtsize
+Csirwiorauauatusll:::txtsize --> Mlkoritgpfuhroroy:::txtsize
+Mlkoritgpfuhroroy:::txtsize --> Mtuhplbearndrsu:::txtsize
+
+EgnhunsioafFci@{ shape: win-pane, label: "_Published Oct 21, 2025, 01:21 PM_
+Eu weighs ban on ethanol used in hand sanitisers over cancer fears: financial times" }
+OmpvgclrbaeetOn@{ shape: win-pane, label: "_Published Oct 08, 2025, 04:32 PM_
+Outcome of s’pore’s vaping policy will inform global practice, says expert in who journal" }
+Wteeinauitoi@{ shape: win-pane, label: "_Published Oct 06, 2025, 08:47 PM_
+Who estimates at least 15 million teenagers use e-cigarettes worldwide" }
+YsrEavprsantbpc@{ shape: win-pane, label: "_Published Apr 08, 2025, 03:55 PM_
+Young smokers in s-e asia are giving up cigarettes for vapes and heated tobacco products" }
+Minzcpepedenom@{ shape: win-pane, label: "_Published Oct 03, 2025, 12:24 PM_
+‘my son is going crazy’: mum calls police on vaping 15-year-old, who gets sent to boys’ home" }
+NpitedsuiptopsM@{ shape: win-pane, label: "_Published Aug 17, 2025, 08:35 PM_
+Ndr 2025: vaping will be treated as a drug issue; much stiffer penalties to be imposed, says pm wong" }
+AlkEcltevpoir@{ shape: win-pane, label: "_Published Jul 19, 2025, 05:00 AM_
+A deadly cocktail: easy access, lax attitudes driving kpod scourge in s’pore" }
+Wesgionsy@{ shape: win-pane, label: "_Published Jul 13, 2025, 05:00 AM_
+Why the vape scourge in singapore concerns everyone" }
+Eiestifxrcc@{ shape: win-pane, label: "_Published Sep 29, 2025, 10:13 PM_
+Eu environment boss tests positive for ‘toxic’ forever chemicals" }
+Mhokgifiai@{ shape: win-pane, label: "_Published Sep 18, 2024, 07:54 AM_
+More than 3,600 food-packaging chemicals found in human bodies" }
+FemsnoUaesd@{ shape: win-pane, label: "_Published Feb 29, 2024, 10:05 AM_
+‘forever chemicals’ no longer sold in us to package greasy food: fda" }
+Taitrioeoriinw@{ shape: win-pane, label: "_Published May 15, 2025, 02:52 AM_
+Trump administration drops limits on several ‘forever chemicals’ in drinking water" }
+Tmtloweieuo@{ shape: win-pane, label: "_Published Mar 13, 2025, 06:53 AM_
+Trump moves to roll back over two dozen us air, water regulations" }
+Tftgisyfrnsydfems@{ shape: win-pane, label: "_Published Jul 24, 2024, 12:34 PM_
+‘truly frightening’: pesticides sprayed on food crops increasingly laced with ‘forever chemicals’" }
+
+EgnhunsioafFci:::txtsize --> OmpvgclrbaeetOn:::txtsize
+OmpvgclrbaeetOn:::txtsize --> Wteeinauitoi:::txtsize
+Wteeinauitoi:::txtsize --> YsrEavprsantbpc:::txtsize
+Wteeinauitoi:::txtsize --> Minzcpepedenom:::txtsize
+OmpvgclrbaeetOn:::txtsize --> NpitedsuiptopsM:::txtsize
+NpitedsuiptopsM:::txtsize --> AlkEcltevpoir:::txtsize
+NpitedsuiptopsM:::txtsize --> Wesgionsy:::txtsize
+EgnhunsioafFci:::txtsize --> Eiestifxrcc:::txtsize
+Eiestifxrcc:::txtsize --> Mhokgifiai:::txtsize
+Mhokgifiai:::txtsize --> FemsnoUaesd:::txtsize
+Eiestifxrcc:::txtsize --> Taitrioeoriinw:::txtsize
+Taitrioeoriinw:::txtsize --> Tmtloweieuo:::txtsize
+Taitrioeoriinw:::txtsize --> Tftgisyfrnsydfems:::txtsize
 
 ```
-<i>Last updated: 2025-10-21 12:00:29.421284 (GMT+8)</i>
+<i>Last updated: 2025-10-21 16:00:47.311621 (GMT+8)</i>
 <!-- END -->
