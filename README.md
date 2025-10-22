@@ -16,144 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ferlnsrsdu@{ shape: win-pane, label: "_Published Oct 22, 2025, 03:31 AM_
-France orders poultry indoors as bird flu spreads in europe" }
-Isihtsefsoss@{ shape: win-pane, label: "_Published Aug 30, 2025, 04:07 PM_
-India’s delhi zoo shut after positive bird flu tests from two storks" }
-Gitvhrircseot@{ shape: win-pane, label: "_Published May 20, 2025, 04:09 AM_
-Genetic test to reveal whether brazil’s bird flu case is linked to zoo deaths" }
-Nlrtosrraatroeyeoe@{ shape: win-pane, label: "_Published May 19, 2025, 03:34 PM_
-No poultry or poultry products imported from brazil farm hit by bird flu outbreak, say s’pore authorities" }
-Wsfdrstomiron@{ shape: win-pane, label: "_Published May 16, 2025, 10:43 PM_
-What is bird flu, and why brazil’s first case on a commercial farm is concerning" }
-Ucoalugoafc@{ shape: win-pane, label: "_Published May 29, 2025, 06:44 AM_
-Us cancels more than $900 million funding for moderna bird flu vaccine" }
-Ulincehaoaee@{ shape: win-pane, label: "_Published May 15, 2025, 07:27 AM_
-Us health chief kennedy clashes with lawmakers over vaccine comments" }
-Blsfwivgptacrf@{ shape: win-pane, label: "_Published May 28, 2025, 05:43 AM_
-Brazil finds bird flu in wild bird, investigates potential case on commercial farm" }
-Blbboaaaet@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:25 AM_
-Bird flu may be airborne on us dairy farms, say scientists" }
-Bleprnewiir@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:10 AM_
-Bird flu wiped out poultry, and now the screw worm is coming for beef" }
-Mogcessrougerw@{ shape: win-pane, label: "_Published May 14, 2025, 12:12 AM_
-Mexico to tighten cattle flows from south, rules out shutting border over screwworm" }
-SesMothnem@{ shape: win-pane, label: "_Published Jul 11, 2025, 09:53 PM_
-Sniffer dogs help mexico fight flesh-eating screwworm" }
-SdfronitSy@{ shape: win-pane, label: "_Published Feb 06, 2025, 05:33 AM_
-Second bird flu strain found in us dairy cattle, usda says" }
-EoentUtnteih@{ shape: win-pane, label: "_Published Feb 04, 2025, 11:37 PM_
-Egg shortages are now hitting us restaurants, with no relief in sight" }
-Knyiurhuiea@{ shape: win-pane, label: "_Published Jan 28, 2025, 12:10 PM_
-Keeping an eye on bird flu outbreak that could quickly escalate" }
+Mimyrecda@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:54 AM_
+Melania trump’s crypto architects accused of fraud" }
+Tseirisiifhk@{ shape: win-pane, label: "_Published Jan 21, 2025, 10:39 AM_
+Trump’s new meme coin soars on his first day in office, lifts other tokens" }
+Tstesssdomolsu@{ shape: win-pane, label: "_Published Jan 20, 2025, 08:55 AM_
+Trump’s crypto memecoin surges in just two days to become one of world’s most valuable" }
+Tbsiwtemstle@{ shape: win-pane, label: "_Published Jan 19, 2025, 10:40 AM_
+Trump begins selling new crypto token $trump, raising ethical concerns" }
+Tpconrisdnrc@{ shape: win-pane, label: "_Published Jan 18, 2025, 08:30 AM_
+Trump plans crypto-friendly orders in first few days in power: sources" }
+TseanlmSrca@{ shape: win-pane, label: "_Published Aug 30, 2024, 10:05 AM_
+Trump says he will announce a plan to make us the ‘crypto capital’" }
+Trseorafegc@{ shape: win-pane, label: "_Published Aug 29, 2024, 06:15 AM_
+Telegram boss pavel durov charged, barred from leaving france" }
+Tptmupam@{ shape: win-pane, label: "_Published Aug 23, 2024, 01:04 AM_
+Trump promotes family-run crypto platform" }
+Tsdrnaponlaslm@{ shape: win-pane, label: "_Published Oct 01, 2025, 06:15 PM_
+Trump’s world liberty financial crypto project ‘100%’ not political, says donald trump jr" }
+Tfyiehdcoiyte@{ shape: win-pane, label: "_Published Sep 02, 2025, 09:36 AM_
+Trump family profits even with tepid launch of world liberty crypto tokens" }
+Tsdrklfdtn@{ shape: win-pane, label: "_Published Sep 02, 2025, 03:52 AM_
+Trump’s world liberty token falls in first day of trading" }
+Bishrvsoegow@{ shape: win-pane, label: "_Published Aug 14, 2025, 12:05 PM_
+Bitcoin hits fresh record above us$124,000 as bets on fed easing add to tailwinds" }
+Tfyborwhae@{ shape: win-pane, label: "_Published Sep 08, 2025, 10:18 AM_
+Trump family adds $1.7 billion of crypto wealth in span of weeks" }
+RhpiEtnragnr@{ shape: win-pane, label: "_Published Sep 06, 2025, 09:56 PM_
+Robinhood, applovin and emcor to join s&p 500 in rebalancing of benchmark" }
+Tfyiehdcoiyte@{ shape: win-pane, label: "_Published Sep 02, 2025, 09:36 AM_
+Trump family profits even with tepid launch of world liberty crypto tokens" }
 
-Ferlnsrsdu:::txtsize --> Isihtsefsoss:::txtsize
-Isihtsefsoss:::txtsize --> Gitvhrircseot:::txtsize
-Gitvhrircseot:::txtsize --> Nlrtosrraatroeyeoe:::txtsize
-Gitvhrircseot:::txtsize --> Wsfdrstomiron:::txtsize
-Isihtsefsoss:::txtsize --> Ucoalugoafc:::txtsize
-Ucoalugoafc:::txtsize --> Ulincehaoaee:::txtsize
-Ucoalugoafc:::txtsize --> Blsfwivgptacrf:::txtsize
-Ferlnsrsdu:::txtsize --> Blbboaaaet:::txtsize
-Blbboaaaet:::txtsize --> Bleprnewiir:::txtsize
-Bleprnewiir:::txtsize --> Mogcessrougerw:::txtsize
-Bleprnewiir:::txtsize --> SesMothnem:::txtsize
-Blbboaaaet:::txtsize --> SdfronitSy:::txtsize
-SdfronitSy:::txtsize --> EoentUtnteih:::txtsize
-SdfronitSy:::txtsize --> Knyiurhuiea:::txtsize
+Mimyrecda:::txtsize --> Tseirisiifhk:::txtsize
+Tseirisiifhk:::txtsize --> Tstesssdomolsu:::txtsize
+Tstesssdomolsu:::txtsize --> Tbsiwtemstle:::txtsize
+Tstesssdomolsu:::txtsize --> Tpconrisdnrc:::txtsize
+Tseirisiifhk:::txtsize --> TseanlmSrca:::txtsize
+TseanlmSrca:::txtsize --> Trseorafegc:::txtsize
+TseanlmSrca:::txtsize --> Tptmupam:::txtsize
+Mimyrecda:::txtsize --> Tsdrnaponlaslm:::txtsize
+Tsdrnaponlaslm:::txtsize --> Tfyiehdcoiyte:::txtsize
+Tfyiehdcoiyte:::txtsize --> Tsdrklfdtn:::txtsize
+Tfyiehdcoiyte:::txtsize --> Bishrvsoegow:::txtsize
+Tsdrnaponlaslm:::txtsize --> Tfyborwhae:::txtsize
+Tfyborwhae:::txtsize --> RhpiEtnragnr:::txtsize
+Tfyborwhae:::txtsize --> Tfyiehdcoiyte:::txtsize
 
-Midviloft@{ shape: win-pane, label: "_Published Oct 22, 2025, 03:14 AM_
-Mosquitoes discovered in iceland for the first time" }
-SvEesufakeitn@{ shape: win-pane, label: "_Published Oct 11, 2025, 06:50 PM_
-Survival of europe’s bees and butterflies at risk, conservationists warn" }
-Emtsegehntcdt@{ shape: win-pane, label: "_Published May 30, 2025, 04:08 PM_
-Extreme heatwaves are getting longer and hitting the tropics hardest: study" }
-Cefnraeasfae@{ shape: win-pane, label: "_Published May 29, 2025, 06:00 PM_
-Cool relief for singapore on may 29 as temperatures dip after warm spell" }
-Nnaeolitiootahes@{ shape: win-pane, label: "_Published Apr 04, 2025, 12:00 PM_
-National heatwave response plan a signal that singapore should start taking heat seriously" }
-WipiausW@{ shape: win-pane, label: "_Published Oct 10, 2024, 07:29 AM_
-Wildlife populations have plunged 73% since 1970: wwf" }
-IafiwimsoplNr@{ shape: win-pane, label: "_Published May 13, 2024, 08:09 PM_
-Illegal trafficking of wildlife remains stubbornly prevalent: un report" }
-Glloidrcc@{ shape: win-pane, label: "_Published Feb 24, 2023, 02:04 AM_
-Global wildlife contaminated by 'forever chemicals'" }
-Bettulrituitp@{ shape: win-pane, label: "_Published Sep 18, 2025, 12:01 PM_
-Beetle that threatens australia’s grains industry found in imported nappies" }
-Aaarsrpsrsdfcs@{ shape: win-pane, label: "_Published May 25, 2025, 09:13 AM_
-Australian authorities airdrop supplies to farmers stranded by flood crisis" }
-Aaecueolaoi@{ shape: win-pane, label: "_Published May 24, 2025, 09:31 AM_
-Australia begins clean-up after floods kill 5, damage 10,000 properties" }
-Fvmfderruerta@{ shape: win-pane, label: "_Published May 23, 2025, 05:58 PM_
-Flood victims confront damage after record deluge in eastern australia" }
-neokbenphtmeede@{ shape: win-pane, label: "_Published Jun 30, 2025, 05:00 AM_
-16 new species of darkling beetles found in s’pore, thanks to one man’s resolve over 2 decades" }
-NeodvnaSp@{ shape: win-pane, label: "_Published Apr 18, 2025, 04:25 PM_
-New species of bug discovered, named after singapore" }
-Rufeseiortseat@{ shape: win-pane, label: "_Published May 04, 2025, 02:31 PM_
-Rare butterfly species spotted in singapore for first time sets hearts aflutter" }
-
-Midviloft:::txtsize --> SvEesufakeitn:::txtsize
-SvEesufakeitn:::txtsize --> Emtsegehntcdt:::txtsize
-Emtsegehntcdt:::txtsize --> Cefnraeasfae:::txtsize
-Emtsegehntcdt:::txtsize --> Nnaeolitiootahes:::txtsize
-SvEesufakeitn:::txtsize --> WipiausW:::txtsize
-WipiausW:::txtsize --> IafiwimsoplNr:::txtsize
-WipiausW:::txtsize --> Glloidrcc:::txtsize
-Midviloft:::txtsize --> Bettulrituitp:::txtsize
-Bettulrituitp:::txtsize --> Aaarsrpsrsdfcs:::txtsize
-Aaarsrpsrsdfcs:::txtsize --> Aaecueolaoi:::txtsize
-Aaarsrpsrsdfcs:::txtsize --> Fvmfderruerta:::txtsize
-Bettulrituitp:::txtsize --> neokbenphtmeede:::txtsize
-neokbenphtmeede:::txtsize --> NeodvnaSp:::txtsize
-neokbenphtmeede:::txtsize --> Rufeseiortseat:::txtsize
-
-IloetiawrNy@{ shape: win-pane, label: "_Published Oct 22, 2025, 03:07 AM_
-Israel national security adviser says he was fired by netanyahu" }
-Ileiecrereai@{ shape: win-pane, label: "_Published Nov 06, 2024, 07:22 AM_
-Israeli defence minister’s sacking removes thorn in netanyahu’s side" }
-Whaordrsass@{ shape: win-pane, label: "_Published Oct 22, 2024, 03:44 PM_
-Wealthy israelis offer rewards for release of gaza hostages" }
+WeimPtneseoku@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:30 AM_
+With ceasefire, some pro-palestinian protesters in the us look back, ruefully" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
+Israel marks oct 7 anniversary as talks are held to end gaza war" }
 Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
 ‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-HseYSre@{ shape: win-pane, label: "_Published Oct 18, 2024, 08:22 PM_
-Hamas says leader yahya sinwar killed" }
-Nyieesatirpiwin@{ shape: win-pane, label: "_Published Nov 06, 2024, 03:12 AM_
-Netanyahu fires defence minister gallant, jolting israeli politics as war grinds on" }
-WIltwefmt@{ shape: win-pane, label: "_Published Nov 06, 2024, 06:02 AM_
-Who is israel katz, the new israeli defence minister?" }
-WIltwefmt@{ shape: win-pane, label: "_Published Nov 06, 2024, 06:02 AM_
-Who is israel katz, the new israeli defence minister?" }
-RBSeeirrrwr@{ shape: win-pane, label: "_Published Mar 21, 2025, 01:12 PM_
-Ronen bar: ex-shin bet chief who incurred israel’s right-wing wrath" }
+Hatmzcnhodro@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:11 PM_
+Hamas accepts trump’s gaza peace plan, but the bloodshed is far from over" }
 NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
 Netanyahu declares israel at war as hamas attacks kill over 100" }
 WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
 Why gaza is epicentre of israeli-palestinian conflict" }
 Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
 World in shock after hamas surprise attacks on israel" }
-Ilrorsionh@{ shape: win-pane, label: "_Published Mar 21, 2025, 09:23 AM_
-Israeli supreme court freezes dismissal of shin bet chief" }
-Aeaoeataoolsht@{ shape: win-pane, label: "_Published Mar 20, 2025, 10:37 PM_
-Anti-netanyahu protesters clash with israeli police over plan to sack shin bet head" }
-Ilenhscepdaos@{ shape: win-pane, label: "_Published Mar 27, 2023, 01:30 PM_
-Israeli government in chaos as judicial reform plans draw mass protests" }
 
-IloetiawrNy:::txtsize --> Ileiecrereai:::txtsize
-Ileiecrereai:::txtsize --> Whaordrsass:::txtsize
-Whaordrsass:::txtsize --> Sbsrcdnacaale:::txtsize
-Whaordrsass:::txtsize --> HseYSre:::txtsize
-Ileiecrereai:::txtsize --> Nyieesatirpiwin:::txtsize
-Nyieesatirpiwin:::txtsize --> WIltwefmt:::txtsize
-Nyieesatirpiwin:::txtsize --> WIltwefmt:::txtsize
-IloetiawrNy:::txtsize --> RBSeeirrrwr:::txtsize
-RBSeeirrrwr:::txtsize --> NyeeawHakl:::txtsize
+WeimPtneseoku:::txtsize --> TssHaossaaorslaoe:::txtsize
+TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
+Ilsnrakhoar:::txtsize --> Sbsrcdnacaale:::txtsize
+Ilsnrakhoar:::txtsize --> Hatmzcnhodro:::txtsize
+TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
 NyeeawHakl:::txtsize --> WzptIleint:::txtsize
 NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-RBSeeirrrwr:::txtsize --> Ilrorsionh:::txtsize
-Ilrorsionh:::txtsize --> Aeaoeataoolsht:::txtsize
-Ilrorsionh:::txtsize --> Ilenhscepdaos:::txtsize
+
+TsSipeemfse@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:17 AM_
+Trump says us justice department owes him money for past cases" }
+FeenatrTsforr@{ shape: win-pane, label: "_Published Aug 18, 2022, 06:35 PM_
+Fbi's sealed evidence that led to search of trump's home focus of court hearing" }
+Fiorctrhsatd@{ shape: win-pane, label: "_Published Aug 13, 2022, 02:57 AM_
+Fbi seized top secret documents at trump’s home; espionage act cited" }
+TsBdsimkoa@{ shape: win-pane, label: "_Published Aug 09, 2022, 09:10 AM_
+Trump says fbi raided his florida home, broke into his safe" }
+SlFiulaAalw@{ shape: win-pane, label: "_Published Aug 09, 2022, 12:10 PM_
+St explains: fbi raids trump's florida home. a look at his legal woes" }
+FSUectraTsh@{ shape: win-pane, label: "_Published Aug 15, 2022, 06:26 AM_
+Fbi, dhs warn us law enforcement of threats after trump search" }
+Fiorctrhsatd@{ shape: win-pane, label: "_Published Aug 13, 2022, 02:57 AM_
+Fbi seized top secret documents at trump’s home; espionage act cited" }
+Hnstnrshnumasc@{ shape: win-pane, label: "_Published Oct 19, 2025, 02:06 PM_
+‘he thinks he’s great, we don’t’: americans march against trump’s ‘imperial presidency’" }
+NgtrrmasrTre@{ shape: win-pane, label: "_Published Oct 19, 2025, 03:25 AM_
+‘no kings’ protesters emerge en masse across us for anti-trump rallies" }
+NglxerlssneaT@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:06 PM_
+‘no kings’ rallies expected to draw millions across us in protest against trump" }
+WCikoeUst@{ shape: win-pane, label: "_Published Sep 11, 2025, 06:17 AM_
+Who is charlie kirk, the young hero of us conservatives?" }
+TtttafryNgt@{ shape: win-pane, label: "_Published Jun 14, 2025, 03:40 PM_
+Trump to host military parade for birthday amid ‘no kings’ protests" }
+Melihfineeipe@{ shape: win-pane, label: "_Published Jun 14, 2025, 10:23 AM_
+Marines deployed in la ahead of possible ‘unprecedented’ anti-trump protests" }
+Mosthautvpsane@{ shape: win-pane, label: "_Published Jun 14, 2025, 10:16 AM_
+Mexico’s president says her flag should not fly over us protests that turn violent" }
+
+TsSipeemfse:::txtsize --> FeenatrTsforr:::txtsize
+FeenatrTsforr:::txtsize --> Fiorctrhsatd:::txtsize
+Fiorctrhsatd:::txtsize --> TsBdsimkoa:::txtsize
+Fiorctrhsatd:::txtsize --> SlFiulaAalw:::txtsize
+FeenatrTsforr:::txtsize --> FSUectraTsh:::txtsize
+FSUectraTsh:::txtsize --> Fiorctrhsatd:::txtsize
+TsSipeemfse:::txtsize --> Hnstnrshnumasc:::txtsize
+Hnstnrshnumasc:::txtsize --> NgtrrmasrTre:::txtsize
+NgtrrmasrTre:::txtsize --> NglxerlssneaT:::txtsize
+NgtrrmasrTre:::txtsize --> WCikoeUst:::txtsize
+Hnstnrshnumasc:::txtsize --> TtttafryNgt:::txtsize
+TtttafryNgt:::txtsize --> Melihfineeipe:::txtsize
+TtttafryNgt:::txtsize --> Mosthautvpsane:::txtsize
 
 ```
-<i>Last updated: 2025-10-22 04:00:40.361235 (GMT+8)</i>
+<i>Last updated: 2025-10-22 08:00:58.773879 (GMT+8)</i>
 <!-- END -->
