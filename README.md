@@ -16,132 +16,117 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Gniaecoiri@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:36 PM_
-German far-right lawmakers accused of spying for russia" }
-GncrliahsguA@{ shape: win-pane, label: "_Published Oct 21, 2025, 04:39 PM_
-German chancellor merz leans into far-right messaging to counter afd" }
-Fgtsoaaarnr@{ shape: win-pane, label: "_Published Feb 17, 2025, 05:00 AM_
-Far-right extremism: no longer a threat far away from singapore" }
-Sanudrtbwdtuso@{ shape: win-pane, label: "_Published Feb 10, 2025, 02:00 PM_
-S’porean teen influenced by far-right held by isd, wanted to attack muslims in a mosque" }
-ylgetdrontrtsou@{ shape: win-pane, label: "_Published Jan 27, 2021, 05:00 PM_
-16-year-old singaporean detained under isa for planning terrorist attacks on two mosques" }
-Crvamenaahg@{ shape: win-pane, label: "_Published Feb 16, 2025, 02:59 PM_
-Conservatives lead german election race amid far-right surge" }
-AfogyaecfgDy@{ shape: win-pane, label: "_Published Feb 16, 2025, 01:45 PM_
-Anger, fear, nostalgia: why german voters back the far-right afd party" }
-GnrtanpgMut@{ shape: win-pane, label: "_Published Feb 16, 2025, 11:59 AM_
-Germany’s far-right afd basks in the spotlight of musk support" }
-Ursrrsiyot@{ shape: win-pane, label: "_Published Oct 18, 2025, 10:18 AM_
-Us court bars nso group from installing spyware on whatsapp" }
-Igctwfirrd@{ shape: win-pane, label: "_Published Sep 03, 2025, 06:55 AM_
-Ice to gain access to spyware after biden order dropped" }
-MWAyapearttesans@{ shape: win-pane, label: "_Published Jan 31, 2025, 11:45 PM_
-Meta’s whatsapp says  israeli  spyware company paragon targeted users in several  countries" }
-IchnoaseItldot@{ shape: win-pane, label: "_Published Sep 02, 2025, 04:59 AM_
-In chicago, thousands protest against threat of ice, national guard deployment" }
-IardsretwsRr@{ shape: win-pane, label: "_Published Jul 22, 2025, 09:03 PM_
-Iranians targeted with spyware in lead-up to war with israel: research" }
-Bsccfrieftoitg@{ shape: win-pane, label: "_Published Jul 22, 2025, 07:52 PM_
-British man convicted of offering minister’s information to russian intelligence" }
-Hirgripihaaado@{ shape: win-pane, label: "_Published Jul 19, 2025, 04:45 PM_
-How china’s growing cyber-hacking capabilities have raised alarm around the world" }
+Geidoarnoigh@{ shape: win-pane, label: "_Published Oct 22, 2025, 11:55 PM_
+Google says it has developed landmark quantum computing algorithm" }
+AooikIdwtfi@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:35 AM_
+Anthropic, google in talks on ai cloud deal worth tens of billions" }
+OIsoipettrr@{ shape: win-pane, label: "_Published Oct 22, 2025, 02:01 AM_
+Openai takes on google with ai-powered chatgpt atlas browser" }
+Auutl@{ shape: win-pane, label: "_Published Oct 17, 2025, 05:00 PM_
+Ai’s double bubble trouble" }
+InolSfulirwe@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:57 PM_
+It’s gone beyond sales, as salesforce unveils office workflow ai agents" }
+Naaopsrnlspre@{ shape: win-pane, label: "_Published Sep 17, 2025, 01:10 PM_
+New ai agent aims to ease process of tracking employees’ work performance" }
+OIsoipettrr@{ shape: win-pane, label: "_Published Oct 22, 2025, 02:01 AM_
+Openai takes on google with ai-powered chatgpt atlas browser" }
+Auutl@{ shape: win-pane, label: "_Published Oct 17, 2025, 05:00 PM_
+Ai’s double bubble trouble" }
+Abashkibon@{ shape: win-pane, label: "_Published Oct 08, 2025, 09:25 AM_
+Ai bubble fears rise with stocks seeing us$100 billion swings" }
 
-Gniaecoiri:::txtsize --> GncrliahsguA:::txtsize
-GncrliahsguA:::txtsize --> Fgtsoaaarnr:::txtsize
-Fgtsoaaarnr:::txtsize --> Sanudrtbwdtuso:::txtsize
-Fgtsoaaarnr:::txtsize --> ylgetdrontrtsou:::txtsize
-GncrliahsguA:::txtsize --> Crvamenaahg:::txtsize
-Crvamenaahg:::txtsize --> AfogyaecfgDy:::txtsize
-Crvamenaahg:::txtsize --> GnrtanpgMut:::txtsize
-Gniaecoiri:::txtsize --> Ursrrsiyot:::txtsize
-Ursrrsiyot:::txtsize --> Igctwfirrd:::txtsize
-Igctwfirrd:::txtsize --> MWAyapearttesans:::txtsize
-Igctwfirrd:::txtsize --> IchnoaseItldot:::txtsize
-Ursrrsiyot:::txtsize --> IardsretwsRr:::txtsize
-IardsretwsRr:::txtsize --> Bsccfrieftoitg:::txtsize
-IardsretwsRr:::txtsize --> Hirgripihaaado:::txtsize
+Geidoarnoigh:::txtsize --> AooikIdwtfi:::txtsize
+AooikIdwtfi:::txtsize --> OIsoipettrr:::txtsize
+OIsoipettrr:::txtsize --> Auutl:::txtsize
+AooikIdwtfi:::txtsize --> InolSfulirwe:::txtsize
+InolSfulirwe:::txtsize --> Naaopsrnlspre:::txtsize
+Geidoarnoigh:::txtsize --> OIsoipettrr:::txtsize
+OIsoipettrr:::txtsize --> Auutl:::txtsize
+Auutl:::txtsize --> Abashkibon:::txtsize
 
-Slanctonit@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:20 PM_
-Smugglers’ balloons force shutdown of vilnius airport" }
-LaVupesroausii@{ shape: win-pane, label: "_Published Oct 05, 2025, 02:01 PM_
-Lithuania’s vilnius airport reopens after balloons cause suspension, diversions" }
-NeLauiirhooiisp@{ shape: win-pane, label: "_Published Sep 23, 2025, 10:37 PM_
-Nato member lithuania authorises military to shoot down drones violating its airspace" }
-Scunedti@{ shape: win-pane, label: "_Published Aug 01, 2025, 10:56 PM_
-Suspected russian drone found in lithuania" }
-DsiithChOit@{ shape: win-pane, label: "_Published Sep 23, 2025, 08:52 AM_
-Drone sightings disrupt flights at copenhagen, oslo airports" }
-Urstopsrtsetis@{ shape: win-pane, label: "_Published Sep 23, 2025, 08:51 AM_
-Use ukraine’s counter drone expertise to protect nato’s borders, lithuania says" }
-WucafnnNic@{ shape: win-pane, label: "_Published Sep 22, 2025, 11:21 PM_
-West, russia clash at un after incidents in nato air space" }
-UhegteinPdrinun@{ shape: win-pane, label: "_Published Sep 21, 2025, 05:38 AM_
-Uk fighter jets begin nato defence mission over poland, after russia drone incursion" }
-Bsovwotdsglp@{ shape: win-pane, label: "_Published Oct 20, 2025, 07:36 AM_
-British troops given powers to shoot down drones on sight: telegraph" }
-Dsunitsdiesnne@{ shape: win-pane, label: "_Published Sep 25, 2025, 06:07 AM_
-Drones disrupt danish airports for second time in a week; russia denies involvement" }
-PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
-Poland shoots down drones, the first nato member to open fire during ukraine war" }
-DsiithChOit@{ shape: win-pane, label: "_Published Sep 23, 2025, 08:52 AM_
-Drone sightings disrupt flights at copenhagen, oslo airports" }
-Gnlotone@{ shape: win-pane, label: "_Published Oct 08, 2025, 06:17 PM_
-Germany to allow police to shoot down drones" }
-Ryeyircdnret@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:35 AM_
-Runways at germany’s munich airport closed again after drone sightings" }
-Ryeyircdnret@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:35 AM_
-Runways at germany’s munich airport closed again after drone sightings" }
+TcIleiopdid@{ shape: win-pane, label: "_Published Oct 22, 2025, 10:59 PM_
+Top un court: israel must ease aid into gaza, provide ‘basic needs’" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
+Singapore strongly condemns terror attacks on israel, calls for end to violence" }
+Ucfesjetfea@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:55 PM_
+Un aid chief foresees ‘massive job’ ahead on tour of ruined gaza" }
+Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
+Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Pgoihfcfge@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:53 AM_
+Pm wong welcomes first phase of gaza ceasefire agreement" }
+Iliebfhshnaieds@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:20 AM_
+Israel says it received body of another hostage held in gaza amid dispute over delays" }
+Hstmeaudrhga@{ shape: win-pane, label: "_Published Oct 17, 2025, 09:15 PM_
+Hamas says it is committed to gaza truce and returning hostage remains" }
+Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
+Trump says israel could resume fighting in gaza if hamas fails to disarm" }
 
-Slanctonit:::txtsize --> LaVupesroausii:::txtsize
-LaVupesroausii:::txtsize --> NeLauiirhooiisp:::txtsize
-NeLauiirhooiisp:::txtsize --> Scunedti:::txtsize
-NeLauiirhooiisp:::txtsize --> DsiithChOit:::txtsize
-LaVupesroausii:::txtsize --> Urstopsrtsetis:::txtsize
-Urstopsrtsetis:::txtsize --> WucafnnNic:::txtsize
-Urstopsrtsetis:::txtsize --> UhegteinPdrinun:::txtsize
-Slanctonit:::txtsize --> Bsovwotdsglp:::txtsize
-Bsovwotdsglp:::txtsize --> Dsunitsdiesnne:::txtsize
-Dsunitsdiesnne:::txtsize --> PdtnefNetndgir:::txtsize
-Dsunitsdiesnne:::txtsize --> DsiithChOit:::txtsize
-Bsovwotdsglp:::txtsize --> Gnlotone:::txtsize
-Gnlotone:::txtsize --> Ryeyircdnret:::txtsize
-Gnlotone:::txtsize --> Ryeyircdnret:::txtsize
+TcIleiopdid:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+WzptIleint:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
+Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
+TcIleiopdid:::txtsize --> Ucfesjetfea:::txtsize
+Ucfesjetfea:::txtsize --> Iliaeseoewa:::txtsize
+Iliaeseoewa:::txtsize --> TssHaossaaorslaoe:::txtsize
+Iliaeseoewa:::txtsize --> Pgoihfcfge:::txtsize
+Ucfesjetfea:::txtsize --> Iliebfhshnaieds:::txtsize
+Iliebfhshnaieds:::txtsize --> Hstmeaudrhga:::txtsize
+Iliebfhshnaieds:::txtsize --> Tsscretniali:::txtsize
 
-Ferertrtpecno@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:12 PM_
-France's ex-president sarkozy to be protected by police officers in prison" }
-Dnmerertirom@{ shape: win-pane, label: "_Published Oct 21, 2025, 07:11 AM_
-Defiant former french president sarkozy to begin 5-year prison term" }
-Szletbveocsaoee@{ shape: win-pane, label: "_Published Sep 27, 2025, 02:08 PM_
-Sarkozy jailing reignites debate over french political justice ahead of le pen appeal" }
-Frcstoneeniya@{ shape: win-pane, label: "_Published Sep 25, 2025, 04:42 PM_
-Former french president sarkozy sentenced to 5 years in jail in libya trial" }
-Feeronoiryagcc@{ shape: win-pane, label: "_Published Mar 31, 2025, 05:23 PM_
-France’s le pen barred from running for office for five years after graft conviction" }
-Tihrsenkirse@{ shape: win-pane, label: "_Published Oct 21, 2025, 03:06 PM_
-The prison where france’s ex-president sarkozy will serve his sentence" }
-Dnmerertirom@{ shape: win-pane, label: "_Published Oct 21, 2025, 07:11 AM_
-Defiant former french president sarkozy to begin 5-year prison term" }
-Szletbveocsaoee@{ shape: win-pane, label: "_Published Sep 27, 2025, 02:08 PM_
-Sarkozy jailing reignites debate over french political justice ahead of le pen appeal" }
-Ferersstn@{ shape: win-pane, label: "_Published Oct 19, 2025, 12:50 PM_
-France’s ex-president sarkozy set to serve time in jail" }
-FhliCBssrfaysn@{ shape: win-pane, label: "_Published Sep 25, 2025, 10:17 PM_
-French model and singer carla bruni stands by her man after sarkozy jail sentence" }
-Szletbveocsaoee@{ shape: win-pane, label: "_Published Sep 27, 2025, 02:08 PM_
-Sarkozy jailing reignites debate over french political justice ahead of le pen appeal" }
+Eiolecbsdah@{ shape: win-pane, label: "_Published Oct 22, 2025, 10:47 PM_
+Explainer: how will the next un chief be chosen, and who wants the job?" }
+Uelfasmioi@{ shape: win-pane, label: "_Published Oct 22, 2025, 09:01 PM_
+Un chief calls for ‘fight’ against climate disinformation" }
+TtUtaastogl@{ shape: win-pane, label: "_Published Sep 24, 2025, 12:17 AM_
+Trump tells un that climate change is ‘greatest con job’ globally" }
+Tpunnrieingso@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:10 PM_
+The top polluting nations are revising their emissions targets. is it enough?" }
+NyiopptmhUn@{ shape: win-pane, label: "_Published Oct 17, 2025, 12:45 PM_
+Nearly 900 million poor people exposed to climate shocks, un warns" }
+PcnetcnmmtafpitP@{ shape: win-pane, label: "_Published Jan 20, 2025, 11:12 PM_
+Protecting next generations, cutting climate impact top reasons for supporting net zero: poll" }
+GleeidlUe@{ shape: win-pane, label: "_Published Oct 22, 2025, 09:37 PM_
+Global trade system ‘at risk of derailment’: un chief" }
+Wsefrtfw@{ shape: win-pane, label: "_Published Aug 08, 2025, 07:28 AM_
+Who loses the most from trump’s tariffs? who wins?" }
+Tmiccraodrnarn@{ shape: win-pane, label: "_Published Aug 01, 2025, 07:56 AM_
+Trump modifies reciprocal tariffs ahead of deadline; rate on singapore remains at 10%" }
+TsccasipriohAas@{ shape: win-pane, label: "_Published Aug 07, 2025, 11:15 AM_
+Trump’s 100% semiconductor tariffs may hit chipmakers in singapore, other s-e asia nations" }
+Tasaenwocys@{ shape: win-pane, label: "_Published Oct 14, 2025, 09:55 AM_
+Trump and xi spark another stand-off with world economy at risk" }
+TreUndweixco@{ shape: win-pane, label: "_Published Oct 11, 2025, 05:16 AM_
+Trump ratchets up us-china trade war with new 100% tariffs, export controls" }
+Toceitesa@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:39 PM_
+Trump on track to meet xi in south korea, bessent says" }
 
-Ferertrtpecno:::txtsize --> Dnmerertirom:::txtsize
-Dnmerertirom:::txtsize --> Szletbveocsaoee:::txtsize
-Szletbveocsaoee:::txtsize --> Frcstoneeniya:::txtsize
-Szletbveocsaoee:::txtsize --> Feeronoiryagcc:::txtsize
-Ferertrtpecno:::txtsize --> Tihrsenkirse:::txtsize
-Tihrsenkirse:::txtsize --> Dnmerertirom:::txtsize
-Dnmerertirom:::txtsize --> Szletbveocsaoee:::txtsize
-Tihrsenkirse:::txtsize --> Ferersstn:::txtsize
-Ferersstn:::txtsize --> FhliCBssrfaysn:::txtsize
-Ferersstn:::txtsize --> Szletbveocsaoee:::txtsize
+Eiolecbsdah:::txtsize --> Uelfasmioi:::txtsize
+Uelfasmioi:::txtsize --> TtUtaastogl:::txtsize
+TtUtaastogl:::txtsize --> Tpunnrieingso:::txtsize
+Uelfasmioi:::txtsize --> NyiopptmhUn:::txtsize
+NyiopptmhUn:::txtsize --> PcnetcnmmtafpitP:::txtsize
+Eiolecbsdah:::txtsize --> GleeidlUe:::txtsize
+GleeidlUe:::txtsize --> Wsefrtfw:::txtsize
+Wsefrtfw:::txtsize --> Tmiccraodrnarn:::txtsize
+Wsefrtfw:::txtsize --> TsccasipriohAas:::txtsize
+GleeidlUe:::txtsize --> Tasaenwocys:::txtsize
+Tasaenwocys:::txtsize --> TreUndweixco:::txtsize
+Tasaenwocys:::txtsize --> Toceitesa:::txtsize
 
 ```
-<i>Last updated: 2025-10-22 20:13:49.849979 (GMT+8)</i>
+<i>Last updated: 2025-10-23 00:01:09.263881 (GMT+8)</i>
 <!-- END -->
