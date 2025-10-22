@@ -16,97 +16,48 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Aaaoospeta@{ shape: win-pane, label: "_Published Oct 22, 2025, 11:45 AM_
-Ai not a reliable source of news, european media study says" }
-Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
-Pope francis dies at age 88" }
-Prsdafoaaos@{ shape: win-pane, label: "_Published Mar 23, 2025, 01:28 AM_
-Pope francis to be discharged from hospital on march 23, doctor says" }
-Prsrrpfxtpds@{ shape: win-pane, label: "_Published Mar 22, 2025, 03:53 AM_
-Pope francis must relearn to speak after oxygen therapy, cardinal says" }
-Aecllsoud@{ shape: win-pane, label: "_Published Mar 19, 2025, 09:05 PM_
-As pope francis ails, outlandish rumours run wild" }
-PrsrVaeessl@{ shape: win-pane, label: "_Published Mar 23, 2025, 07:19 PM_
-Pope francis returns to vatican after five weeks in hospital" }
-Prsrrpfxtpds@{ shape: win-pane, label: "_Published Mar 22, 2025, 03:53 AM_
-Pope francis must relearn to speak after oxygen therapy, cardinal says" }
-AgFincadno@{ shape: win-pane, label: "_Published Mar 09, 2025, 04:10 PM_
-Ailing pope francis thanks doctors as condition improves" }
-Maamleexin@{ shape: win-pane, label: "_Published Jan 22, 2025, 07:34 AM_
-Musk salute at trump rally celebrated by extremists online" }
-Eunoeuoregas@{ shape: win-pane, label: "_Published Jan 21, 2025, 07:31 AM_
-Elon musk ignites online speculation over the meaning of a hand gesture" }
-TvotossiMe@{ shape: win-pane, label: "_Published Jan 21, 2025, 07:21 AM_
-Trump vows to plant flag on mars, omits mention of moon return" }
-Tfscedeopslg@{ shape: win-pane, label: "_Published Jan 21, 2025, 06:16 AM_
-Trump faces stiff challenges delivering on his promised ‘golden age’" }
-SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
-peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
-4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
+Bsiirospcnidiar@{ shape: win-pane, label: "_Published Oct 22, 2025, 03:40 PM_
+British patient with parkinson’s disease plays clarinet while undergoing brain surgery" }
+Ugprsadrl@{ shape: win-pane, label: "_Published May 20, 2025, 08:10 AM_
+Us surgeons perform first human bladder transplant" }
+Bnhdwstosntre@{ shape: win-pane, label: "_Published May 16, 2025, 06:52 AM_
+Baby in us is healed with world’s first personalised gene-editing treatment" }
+Sohuregebitdoect@{ shape: win-pane, label: "_Published Oct 20, 2024, 12:00 PM_
+She thought her daughter’s sweet fragrance was a blessing; it turned out to be a deadly condition" }
+Bbebsootsr@{ shape: win-pane, label: "_Published Nov 30, 2024, 12:00 PM_
+Boils, blisters on baby’s skin point to genetic disorder" }
+Aalwiurdegnlrn@{ shape: win-pane, label: "_Published Mar 26, 2025, 08:11 AM_
+Australian lives with titanium heart for 105 days before getting implant from donor" }
+OesacrfrernSoaage@{ shape: win-pane, label: "_Published Mar 24, 2025, 11:25 PM_
+Over 100 seniors with advanced cardiac failure benefit from tan tock seng hospital rehab programme" }
+Ergreeorte@{ shape: win-pane, label: "_Published Jan 20, 2025, 05:00 AM_
+Electrosurgery provides more options for heart patients" }
+Peoamogorigfu@{ shape: win-pane, label: "_Published Mar 29, 2025, 10:15 AM_
+Praise for hospital team performing outdoor surgery in bangkok after quake" }
+OiaeqsenonBoH@{ shape: win-pane, label: "_Published Mar 28, 2025, 02:47 PM_
+Over 153 killed as powerful quake strikes myanmar, sows panic in bangkok and hanoi" }
+Wetiosnrniecie@{ shape: win-pane, label: "_Published Mar 28, 2025, 06:42 PM_
+‘we have to get out’: singaporeans in bangkok recount their experience during tremors" }
+OiaeqsenonBoH@{ shape: win-pane, label: "_Published Mar 28, 2025, 02:47 PM_
+Over 153 killed as powerful quake strikes myanmar, sows panic in bangkok and hanoi" }
+OiaeqsenonBoH@{ shape: win-pane, label: "_Published Mar 28, 2025, 02:47 PM_
+Over 153 killed as powerful quake strikes myanmar, sows panic in bangkok and hanoi" }
 
-Aaaoospeta:::txtsize --> Prsa:::txtsize
-Prsa:::txtsize --> Prsdafoaaos:::txtsize
-Prsdafoaaos:::txtsize --> Prsrrpfxtpds:::txtsize
-Prsdafoaaos:::txtsize --> Aecllsoud:::txtsize
-Prsa:::txtsize --> PrsrVaeessl:::txtsize
-PrsrVaeessl:::txtsize --> Prsrrpfxtpds:::txtsize
-PrsrVaeessl:::txtsize --> AgFincadno:::txtsize
-Aaaoospeta:::txtsize --> Maamleexin:::txtsize
-Maamleexin:::txtsize --> Eunoeuoregas:::txtsize
-Eunoeuoregas:::txtsize --> TvotossiMe:::txtsize
-Eunoeuoregas:::txtsize --> Tfscedeopslg:::txtsize
-Maamleexin:::txtsize --> SiUiinenWn:::txtsize
-SiUiinenWn:::txtsize --> peapubmalrest:::txtsize
+Bsiirospcnidiar:::txtsize --> Ugprsadrl:::txtsize
+Ugprsadrl:::txtsize --> Bnhdwstosntre:::txtsize
+Bnhdwstosntre:::txtsize --> Sohuregebitdoect:::txtsize
+Bnhdwstosntre:::txtsize --> Bbebsootsr:::txtsize
+Ugprsadrl:::txtsize --> Aalwiurdegnlrn:::txtsize
+Aalwiurdegnlrn:::txtsize --> OesacrfrernSoaage:::txtsize
+Aalwiurdegnlrn:::txtsize --> Ergreeorte:::txtsize
+Bsiirospcnidiar:::txtsize --> Peoamogorigfu:::txtsize
+Peoamogorigfu:::txtsize --> OiaeqsenonBoH:::txtsize
+Peoamogorigfu:::txtsize --> Wetiosnrniecie:::txtsize
+Wetiosnrniecie:::txtsize --> OiaeqsenonBoH:::txtsize
+Wetiosnrniecie:::txtsize --> OiaeqsenonBoH:::txtsize
 
-CbrebsfsT@{ shape: win-pane, label: "_Published Oct 22, 2025, 11:15 AM_
-Colombia's president embraces war of words with trump" }
-CbcasfStfs@{ shape: win-pane, label: "_Published Oct 20, 2025, 09:11 PM_
-Colombia recalls ambassador from us amid tariff, drug spat" }
-Tcftocndra@{ shape: win-pane, label: "_Published Oct 19, 2025, 09:41 PM_
-Trump cuts off aid to colombia, calling leader a drug dealer" }
-UeCbreiemaPtne@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:23 AM_
-Us to revoke colombian president’s visa over comments at pro-palestinian gathering" }
-CbretcUiittlfiv@{ shape: win-pane, label: "_Published Sep 28, 2025, 09:18 AM_
-Colombian president petro accuses us of violating international law after visa revoked" }
-CbretcUiittlfiv@{ shape: win-pane, label: "_Published Sep 28, 2025, 09:18 AM_
-Colombian president petro accuses us of violating international law after visa revoked" }
-UeCbreiemaPtne@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:23 AM_
-Us to revoke colombian president’s visa over comments at pro-palestinian gathering" }
-Aoienempsiroins@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:00 AM_
-At un, colombian president urges ‘criminal process’ against trump for strikes on boats" }
-NgtrrmasrTre@{ shape: win-pane, label: "_Published Oct 19, 2025, 03:25 AM_
-‘no kings’ protesters emerge en masse across us for anti-trump rallies" }
-NglxerlssneaT@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:06 PM_
-‘no kings’ rallies expected to draw millions across us in protest against trump" }
-TaSeuatdytcr@{ shape: win-pane, label: "_Published Oct 18, 2025, 05:41 AM_
-Trump asks us supreme court to allow troop deployment to chicago area" }
-AdnnpsuiralrWn@{ shape: win-pane, label: "_Published Jun 15, 2025, 06:04 AM_
-After day of nationwide protests, trump’s military parade rolls through washington" }
-WCikoeUst@{ shape: win-pane, label: "_Published Sep 11, 2025, 06:17 AM_
-Who is charlie kirk, the young hero of us conservatives?" }
-TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
-Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
-SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
-
-CbrebsfsT:::txtsize --> CbcasfStfs:::txtsize
-CbcasfStfs:::txtsize --> Tcftocndra:::txtsize
-Tcftocndra:::txtsize --> UeCbreiemaPtne:::txtsize
-Tcftocndra:::txtsize --> CbretcUiittlfiv:::txtsize
-CbcasfStfs:::txtsize --> CbretcUiittlfiv:::txtsize
-CbretcUiittlfiv:::txtsize --> UeCbreiemaPtne:::txtsize
-CbretcUiittlfiv:::txtsize --> Aoienempsiroins:::txtsize
-CbrebsfsT:::txtsize --> NgtrrmasrTre:::txtsize
-NgtrrmasrTre:::txtsize --> NglxerlssneaT:::txtsize
-NglxerlssneaT:::txtsize --> TaSeuatdytcr:::txtsize
-NglxerlssneaT:::txtsize --> AdnnpsuiralrWn:::txtsize
-NgtrrmasrTre:::txtsize --> WCikoeUst:::txtsize
-WCikoeUst:::txtsize --> TahesegnipdoUstt:::txtsize
-WCikoeUst:::txtsize --> SiUiinenWn:::txtsize
-
-Crrrnoeee@{ shape: win-pane, label: "_Published Oct 22, 2025, 09:30 AM_
-Can her louvre tours go on without the stolen jewels?" }
+LeertajhA@{ shape: win-pane, label: "_Published Oct 22, 2025, 03:35 PM_
+Louvre reopens for first time after jewel heist: afp" }
 Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
 Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
 GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
@@ -119,14 +70,48 @@ Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
 Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
 GpmglnolN@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:52 PM_
 Greenpeace $880m damages ruling in us shocks global ngos" }
+WeoLeymotna@{ shape: win-pane, label: "_Published Oct 21, 2025, 07:20 AM_
+Why steal from the louvre? it may have more to do with stones than art" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
+‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
+Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
+Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
 
-Crrrnoeee:::txtsize --> Ptineluiisey:::txtsize
+LeertajhA:::txtsize --> Ptineluiisey:::txtsize
 Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
 GpboiPoidaes:::txtsize --> NegaTrah:::txtsize
 GpboiPoidaes:::txtsize --> Kriinucneida:::txtsize
 Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
 Gpssofemmnsrt:::txtsize --> GpmglnolN:::txtsize
+LeertajhA:::txtsize --> WeoLeymotna:::txtsize
+WeoLeymotna:::txtsize --> Ptineluiisey:::txtsize
+Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
+Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
+
+VlsncyodWH@{ shape: win-pane, label: "_Published Oct 22, 2025, 02:09 PM_
+Vehicle crashes into security gate outside the white house" }
+WeTasit@{ shape: win-pane, label: "_Published Jul 14, 2024, 03:25 PM_
+What we know: trump assassination attempt" }
+SisstttnraIelyev@{ shape: win-pane, label: "_Published Jul 14, 2024, 06:52 AM_
+Shooting was ‘assassination attempt’ on donald trump, says fbi; suspect, 20, killed by secret  service" }
+HwkaTskgntdenrhn@{ shape: win-pane, label: "_Published Jul 14, 2024, 03:20 PM_
+Here’s what’s known about thomas crooks, 20, the gunman identified by the fbi in the trump shooting" }
+TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
+Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
+VsaKsirayce@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:59 AM_
+Videos of charlie kirk’s shooting spread rapidly on social media" }
+TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
+Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
+
+VlsncyodWH:::txtsize --> WeTasit:::txtsize
+WeTasit:::txtsize --> SisstttnraIelyev:::txtsize
+SisstttnraIelyev:::txtsize --> HwkaTskgntdenrhn:::txtsize
+VlsncyodWH:::txtsize --> TahesegnipdoUstt:::txtsize
+TahesegnipdoUstt:::txtsize --> VsaKsirayce:::txtsize
+VsaKsirayce:::txtsize --> TahesegnipdoUstt:::txtsize
 
 ```
-<i>Last updated: 2025-10-22 12:00:30.317821 (GMT+8)</i>
+<i>Last updated: 2025-10-22 16:00:53.206497 (GMT+8)</i>
 <!-- END -->
