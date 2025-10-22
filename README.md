@@ -16,120 +16,117 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Mimyrecda@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:54 AM_
-Melania trump’s crypto architects accused of fraud" }
-Tseirisiifhk@{ shape: win-pane, label: "_Published Jan 21, 2025, 10:39 AM_
-Trump’s new meme coin soars on his first day in office, lifts other tokens" }
-Tstesssdomolsu@{ shape: win-pane, label: "_Published Jan 20, 2025, 08:55 AM_
-Trump’s crypto memecoin surges in just two days to become one of world’s most valuable" }
-Tbsiwtemstle@{ shape: win-pane, label: "_Published Jan 19, 2025, 10:40 AM_
-Trump begins selling new crypto token $trump, raising ethical concerns" }
-Tpconrisdnrc@{ shape: win-pane, label: "_Published Jan 18, 2025, 08:30 AM_
-Trump plans crypto-friendly orders in first few days in power: sources" }
-TseanlmSrca@{ shape: win-pane, label: "_Published Aug 30, 2024, 10:05 AM_
-Trump says he will announce a plan to make us the ‘crypto capital’" }
-Trseorafegc@{ shape: win-pane, label: "_Published Aug 29, 2024, 06:15 AM_
-Telegram boss pavel durov charged, barred from leaving france" }
-Tptmupam@{ shape: win-pane, label: "_Published Aug 23, 2024, 01:04 AM_
-Trump promotes family-run crypto platform" }
-Tsdrnaponlaslm@{ shape: win-pane, label: "_Published Oct 01, 2025, 06:15 PM_
-Trump’s world liberty financial crypto project ‘100%’ not political, says donald trump jr" }
-Tfyiehdcoiyte@{ shape: win-pane, label: "_Published Sep 02, 2025, 09:36 AM_
-Trump family profits even with tepid launch of world liberty crypto tokens" }
-Tsdrklfdtn@{ shape: win-pane, label: "_Published Sep 02, 2025, 03:52 AM_
-Trump’s world liberty token falls in first day of trading" }
-Bishrvsoegow@{ shape: win-pane, label: "_Published Aug 14, 2025, 12:05 PM_
-Bitcoin hits fresh record above us$124,000 as bets on fed easing add to tailwinds" }
-Tfyborwhae@{ shape: win-pane, label: "_Published Sep 08, 2025, 10:18 AM_
-Trump family adds $1.7 billion of crypto wealth in span of weeks" }
-RhpiEtnragnr@{ shape: win-pane, label: "_Published Sep 06, 2025, 09:56 PM_
-Robinhood, applovin and emcor to join s&p 500 in rebalancing of benchmark" }
-Tfyiehdcoiyte@{ shape: win-pane, label: "_Published Sep 02, 2025, 09:36 AM_
-Trump family profits even with tepid launch of world liberty crypto tokens" }
+Aaaoospeta@{ shape: win-pane, label: "_Published Oct 22, 2025, 11:45 AM_
+Ai not a reliable source of news, european media study says" }
+Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
+Pope francis dies at age 88" }
+Prsdafoaaos@{ shape: win-pane, label: "_Published Mar 23, 2025, 01:28 AM_
+Pope francis to be discharged from hospital on march 23, doctor says" }
+Prsrrpfxtpds@{ shape: win-pane, label: "_Published Mar 22, 2025, 03:53 AM_
+Pope francis must relearn to speak after oxygen therapy, cardinal says" }
+Aecllsoud@{ shape: win-pane, label: "_Published Mar 19, 2025, 09:05 PM_
+As pope francis ails, outlandish rumours run wild" }
+PrsrVaeessl@{ shape: win-pane, label: "_Published Mar 23, 2025, 07:19 PM_
+Pope francis returns to vatican after five weeks in hospital" }
+Prsrrpfxtpds@{ shape: win-pane, label: "_Published Mar 22, 2025, 03:53 AM_
+Pope francis must relearn to speak after oxygen therapy, cardinal says" }
+AgFincadno@{ shape: win-pane, label: "_Published Mar 09, 2025, 04:10 PM_
+Ailing pope francis thanks doctors as condition improves" }
+Maamleexin@{ shape: win-pane, label: "_Published Jan 22, 2025, 07:34 AM_
+Musk salute at trump rally celebrated by extremists online" }
+Eunoeuoregas@{ shape: win-pane, label: "_Published Jan 21, 2025, 07:31 AM_
+Elon musk ignites online speculation over the meaning of a hand gesture" }
+TvotossiMe@{ shape: win-pane, label: "_Published Jan 21, 2025, 07:21 AM_
+Trump vows to plant flag on mars, omits mention of moon return" }
+Tfscedeopslg@{ shape: win-pane, label: "_Published Jan 21, 2025, 06:16 AM_
+Trump faces stiff challenges delivering on his promised ‘golden age’" }
+SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
+Storming of us capitol: timeline of key events in washington" }
+peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
+4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
 
-Mimyrecda:::txtsize --> Tseirisiifhk:::txtsize
-Tseirisiifhk:::txtsize --> Tstesssdomolsu:::txtsize
-Tstesssdomolsu:::txtsize --> Tbsiwtemstle:::txtsize
-Tstesssdomolsu:::txtsize --> Tpconrisdnrc:::txtsize
-Tseirisiifhk:::txtsize --> TseanlmSrca:::txtsize
-TseanlmSrca:::txtsize --> Trseorafegc:::txtsize
-TseanlmSrca:::txtsize --> Tptmupam:::txtsize
-Mimyrecda:::txtsize --> Tsdrnaponlaslm:::txtsize
-Tsdrnaponlaslm:::txtsize --> Tfyiehdcoiyte:::txtsize
-Tfyiehdcoiyte:::txtsize --> Tsdrklfdtn:::txtsize
-Tfyiehdcoiyte:::txtsize --> Bishrvsoegow:::txtsize
-Tsdrnaponlaslm:::txtsize --> Tfyborwhae:::txtsize
-Tfyborwhae:::txtsize --> RhpiEtnragnr:::txtsize
-Tfyborwhae:::txtsize --> Tfyiehdcoiyte:::txtsize
+Aaaoospeta:::txtsize --> Prsa:::txtsize
+Prsa:::txtsize --> Prsdafoaaos:::txtsize
+Prsdafoaaos:::txtsize --> Prsrrpfxtpds:::txtsize
+Prsdafoaaos:::txtsize --> Aecllsoud:::txtsize
+Prsa:::txtsize --> PrsrVaeessl:::txtsize
+PrsrVaeessl:::txtsize --> Prsrrpfxtpds:::txtsize
+PrsrVaeessl:::txtsize --> AgFincadno:::txtsize
+Aaaoospeta:::txtsize --> Maamleexin:::txtsize
+Maamleexin:::txtsize --> Eunoeuoregas:::txtsize
+Eunoeuoregas:::txtsize --> TvotossiMe:::txtsize
+Eunoeuoregas:::txtsize --> Tfscedeopslg:::txtsize
+Maamleexin:::txtsize --> SiUiinenWn:::txtsize
+SiUiinenWn:::txtsize --> peapubmalrest:::txtsize
 
-WeimPtneseoku@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:30 AM_
-With ceasefire, some pro-palestinian protesters in the us look back, ruefully" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
-Israel marks oct 7 anniversary as talks are held to end gaza war" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-Hatmzcnhodro@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:11 PM_
-Hamas accepts trump’s gaza peace plan, but the bloodshed is far from over" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-
-WeimPtneseoku:::txtsize --> TssHaossaaorslaoe:::txtsize
-TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
-Ilsnrakhoar:::txtsize --> Sbsrcdnacaale:::txtsize
-Ilsnrakhoar:::txtsize --> Hatmzcnhodro:::txtsize
-TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-
-TsSipeemfse@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:17 AM_
-Trump says us justice department owes him money for past cases" }
-FeenatrTsforr@{ shape: win-pane, label: "_Published Aug 18, 2022, 06:35 PM_
-Fbi's sealed evidence that led to search of trump's home focus of court hearing" }
-Fiorctrhsatd@{ shape: win-pane, label: "_Published Aug 13, 2022, 02:57 AM_
-Fbi seized top secret documents at trump’s home; espionage act cited" }
-TsBdsimkoa@{ shape: win-pane, label: "_Published Aug 09, 2022, 09:10 AM_
-Trump says fbi raided his florida home, broke into his safe" }
-SlFiulaAalw@{ shape: win-pane, label: "_Published Aug 09, 2022, 12:10 PM_
-St explains: fbi raids trump's florida home. a look at his legal woes" }
-FSUectraTsh@{ shape: win-pane, label: "_Published Aug 15, 2022, 06:26 AM_
-Fbi, dhs warn us law enforcement of threats after trump search" }
-Fiorctrhsatd@{ shape: win-pane, label: "_Published Aug 13, 2022, 02:57 AM_
-Fbi seized top secret documents at trump’s home; espionage act cited" }
-Hnstnrshnumasc@{ shape: win-pane, label: "_Published Oct 19, 2025, 02:06 PM_
-‘he thinks he’s great, we don’t’: americans march against trump’s ‘imperial presidency’" }
+CbrebsfsT@{ shape: win-pane, label: "_Published Oct 22, 2025, 11:15 AM_
+Colombia's president embraces war of words with trump" }
+CbcasfStfs@{ shape: win-pane, label: "_Published Oct 20, 2025, 09:11 PM_
+Colombia recalls ambassador from us amid tariff, drug spat" }
+Tcftocndra@{ shape: win-pane, label: "_Published Oct 19, 2025, 09:41 PM_
+Trump cuts off aid to colombia, calling leader a drug dealer" }
+UeCbreiemaPtne@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:23 AM_
+Us to revoke colombian president’s visa over comments at pro-palestinian gathering" }
+CbretcUiittlfiv@{ shape: win-pane, label: "_Published Sep 28, 2025, 09:18 AM_
+Colombian president petro accuses us of violating international law after visa revoked" }
+CbretcUiittlfiv@{ shape: win-pane, label: "_Published Sep 28, 2025, 09:18 AM_
+Colombian president petro accuses us of violating international law after visa revoked" }
+UeCbreiemaPtne@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:23 AM_
+Us to revoke colombian president’s visa over comments at pro-palestinian gathering" }
+Aoienempsiroins@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:00 AM_
+At un, colombian president urges ‘criminal process’ against trump for strikes on boats" }
 NgtrrmasrTre@{ shape: win-pane, label: "_Published Oct 19, 2025, 03:25 AM_
 ‘no kings’ protesters emerge en masse across us for anti-trump rallies" }
 NglxerlssneaT@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:06 PM_
 ‘no kings’ rallies expected to draw millions across us in protest against trump" }
+TaSeuatdytcr@{ shape: win-pane, label: "_Published Oct 18, 2025, 05:41 AM_
+Trump asks us supreme court to allow troop deployment to chicago area" }
+AdnnpsuiralrWn@{ shape: win-pane, label: "_Published Jun 15, 2025, 06:04 AM_
+After day of nationwide protests, trump’s military parade rolls through washington" }
 WCikoeUst@{ shape: win-pane, label: "_Published Sep 11, 2025, 06:17 AM_
 Who is charlie kirk, the young hero of us conservatives?" }
-TtttafryNgt@{ shape: win-pane, label: "_Published Jun 14, 2025, 03:40 PM_
-Trump to host military parade for birthday amid ‘no kings’ protests" }
-Melihfineeipe@{ shape: win-pane, label: "_Published Jun 14, 2025, 10:23 AM_
-Marines deployed in la ahead of possible ‘unprecedented’ anti-trump protests" }
-Mosthautvpsane@{ shape: win-pane, label: "_Published Jun 14, 2025, 10:16 AM_
-Mexico’s president says her flag should not fly over us protests that turn violent" }
+TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
+Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
+SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
+Storming of us capitol: timeline of key events in washington" }
 
-TsSipeemfse:::txtsize --> FeenatrTsforr:::txtsize
-FeenatrTsforr:::txtsize --> Fiorctrhsatd:::txtsize
-Fiorctrhsatd:::txtsize --> TsBdsimkoa:::txtsize
-Fiorctrhsatd:::txtsize --> SlFiulaAalw:::txtsize
-FeenatrTsforr:::txtsize --> FSUectraTsh:::txtsize
-FSUectraTsh:::txtsize --> Fiorctrhsatd:::txtsize
-TsSipeemfse:::txtsize --> Hnstnrshnumasc:::txtsize
-Hnstnrshnumasc:::txtsize --> NgtrrmasrTre:::txtsize
+CbrebsfsT:::txtsize --> CbcasfStfs:::txtsize
+CbcasfStfs:::txtsize --> Tcftocndra:::txtsize
+Tcftocndra:::txtsize --> UeCbreiemaPtne:::txtsize
+Tcftocndra:::txtsize --> CbretcUiittlfiv:::txtsize
+CbcasfStfs:::txtsize --> CbretcUiittlfiv:::txtsize
+CbretcUiittlfiv:::txtsize --> UeCbreiemaPtne:::txtsize
+CbretcUiittlfiv:::txtsize --> Aoienempsiroins:::txtsize
+CbrebsfsT:::txtsize --> NgtrrmasrTre:::txtsize
 NgtrrmasrTre:::txtsize --> NglxerlssneaT:::txtsize
+NglxerlssneaT:::txtsize --> TaSeuatdytcr:::txtsize
+NglxerlssneaT:::txtsize --> AdnnpsuiralrWn:::txtsize
 NgtrrmasrTre:::txtsize --> WCikoeUst:::txtsize
-Hnstnrshnumasc:::txtsize --> TtttafryNgt:::txtsize
-TtttafryNgt:::txtsize --> Melihfineeipe:::txtsize
-TtttafryNgt:::txtsize --> Mosthautvpsane:::txtsize
+WCikoeUst:::txtsize --> TahesegnipdoUstt:::txtsize
+WCikoeUst:::txtsize --> SiUiinenWn:::txtsize
+
+Crrrnoeee@{ shape: win-pane, label: "_Published Oct 22, 2025, 09:30 AM_
+Can her louvre tours go on without the stolen jewels?" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
+‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
+NegaTrah@{ shape: win-pane, label: "_Published Feb 20, 2025, 01:00 PM_
+Nike bets big on reality tv star kim kardashian" }
+Kriinucneida@{ shape: win-pane, label: "_Published May 17, 2023, 12:00 PM_
+Kim kardashian's $1.34 billion buyout pitch leans on her social media reach" }
+Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
+Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
+GpmglnolN@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:52 PM_
+Greenpeace $880m damages ruling in us shocks global ngos" }
+
+Crrrnoeee:::txtsize --> Ptineluiisey:::txtsize
+Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
+GpboiPoidaes:::txtsize --> NegaTrah:::txtsize
+GpboiPoidaes:::txtsize --> Kriinucneida:::txtsize
+Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
+Gpssofemmnsrt:::txtsize --> GpmglnolN:::txtsize
 
 ```
-<i>Last updated: 2025-10-22 08:00:58.773879 (GMT+8)</i>
+<i>Last updated: 2025-10-22 12:00:30.317821 (GMT+8)</i>
 <!-- END -->
