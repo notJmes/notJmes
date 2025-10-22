@@ -16,102 +16,132 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Bsiirospcnidiar@{ shape: win-pane, label: "_Published Oct 22, 2025, 03:40 PM_
-British patient with parkinson’s disease plays clarinet while undergoing brain surgery" }
-Ugprsadrl@{ shape: win-pane, label: "_Published May 20, 2025, 08:10 AM_
-Us surgeons perform first human bladder transplant" }
-Bnhdwstosntre@{ shape: win-pane, label: "_Published May 16, 2025, 06:52 AM_
-Baby in us is healed with world’s first personalised gene-editing treatment" }
-Sohuregebitdoect@{ shape: win-pane, label: "_Published Oct 20, 2024, 12:00 PM_
-She thought her daughter’s sweet fragrance was a blessing; it turned out to be a deadly condition" }
-Bbebsootsr@{ shape: win-pane, label: "_Published Nov 30, 2024, 12:00 PM_
-Boils, blisters on baby’s skin point to genetic disorder" }
-Aalwiurdegnlrn@{ shape: win-pane, label: "_Published Mar 26, 2025, 08:11 AM_
-Australian lives with titanium heart for 105 days before getting implant from donor" }
-OesacrfrernSoaage@{ shape: win-pane, label: "_Published Mar 24, 2025, 11:25 PM_
-Over 100 seniors with advanced cardiac failure benefit from tan tock seng hospital rehab programme" }
-Ergreeorte@{ shape: win-pane, label: "_Published Jan 20, 2025, 05:00 AM_
-Electrosurgery provides more options for heart patients" }
-Peoamogorigfu@{ shape: win-pane, label: "_Published Mar 29, 2025, 10:15 AM_
-Praise for hospital team performing outdoor surgery in bangkok after quake" }
-OiaeqsenonBoH@{ shape: win-pane, label: "_Published Mar 28, 2025, 02:47 PM_
-Over 153 killed as powerful quake strikes myanmar, sows panic in bangkok and hanoi" }
-Wetiosnrniecie@{ shape: win-pane, label: "_Published Mar 28, 2025, 06:42 PM_
-‘we have to get out’: singaporeans in bangkok recount their experience during tremors" }
-OiaeqsenonBoH@{ shape: win-pane, label: "_Published Mar 28, 2025, 02:47 PM_
-Over 153 killed as powerful quake strikes myanmar, sows panic in bangkok and hanoi" }
-OiaeqsenonBoH@{ shape: win-pane, label: "_Published Mar 28, 2025, 02:47 PM_
-Over 153 killed as powerful quake strikes myanmar, sows panic in bangkok and hanoi" }
+Gniaecoiri@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:36 PM_
+German far-right lawmakers accused of spying for russia" }
+GncrliahsguA@{ shape: win-pane, label: "_Published Oct 21, 2025, 04:39 PM_
+German chancellor merz leans into far-right messaging to counter afd" }
+Fgtsoaaarnr@{ shape: win-pane, label: "_Published Feb 17, 2025, 05:00 AM_
+Far-right extremism: no longer a threat far away from singapore" }
+Sanudrtbwdtuso@{ shape: win-pane, label: "_Published Feb 10, 2025, 02:00 PM_
+S’porean teen influenced by far-right held by isd, wanted to attack muslims in a mosque" }
+ylgetdrontrtsou@{ shape: win-pane, label: "_Published Jan 27, 2021, 05:00 PM_
+16-year-old singaporean detained under isa for planning terrorist attacks on two mosques" }
+Crvamenaahg@{ shape: win-pane, label: "_Published Feb 16, 2025, 02:59 PM_
+Conservatives lead german election race amid far-right surge" }
+AfogyaecfgDy@{ shape: win-pane, label: "_Published Feb 16, 2025, 01:45 PM_
+Anger, fear, nostalgia: why german voters back the far-right afd party" }
+GnrtanpgMut@{ shape: win-pane, label: "_Published Feb 16, 2025, 11:59 AM_
+Germany’s far-right afd basks in the spotlight of musk support" }
+Ursrrsiyot@{ shape: win-pane, label: "_Published Oct 18, 2025, 10:18 AM_
+Us court bars nso group from installing spyware on whatsapp" }
+Igctwfirrd@{ shape: win-pane, label: "_Published Sep 03, 2025, 06:55 AM_
+Ice to gain access to spyware after biden order dropped" }
+MWAyapearttesans@{ shape: win-pane, label: "_Published Jan 31, 2025, 11:45 PM_
+Meta’s whatsapp says  israeli  spyware company paragon targeted users in several  countries" }
+IchnoaseItldot@{ shape: win-pane, label: "_Published Sep 02, 2025, 04:59 AM_
+In chicago, thousands protest against threat of ice, national guard deployment" }
+IardsretwsRr@{ shape: win-pane, label: "_Published Jul 22, 2025, 09:03 PM_
+Iranians targeted with spyware in lead-up to war with israel: research" }
+Bsccfrieftoitg@{ shape: win-pane, label: "_Published Jul 22, 2025, 07:52 PM_
+British man convicted of offering minister’s information to russian intelligence" }
+Hirgripihaaado@{ shape: win-pane, label: "_Published Jul 19, 2025, 04:45 PM_
+How china’s growing cyber-hacking capabilities have raised alarm around the world" }
 
-Bsiirospcnidiar:::txtsize --> Ugprsadrl:::txtsize
-Ugprsadrl:::txtsize --> Bnhdwstosntre:::txtsize
-Bnhdwstosntre:::txtsize --> Sohuregebitdoect:::txtsize
-Bnhdwstosntre:::txtsize --> Bbebsootsr:::txtsize
-Ugprsadrl:::txtsize --> Aalwiurdegnlrn:::txtsize
-Aalwiurdegnlrn:::txtsize --> OesacrfrernSoaage:::txtsize
-Aalwiurdegnlrn:::txtsize --> Ergreeorte:::txtsize
-Bsiirospcnidiar:::txtsize --> Peoamogorigfu:::txtsize
-Peoamogorigfu:::txtsize --> OiaeqsenonBoH:::txtsize
-Peoamogorigfu:::txtsize --> Wetiosnrniecie:::txtsize
-Wetiosnrniecie:::txtsize --> OiaeqsenonBoH:::txtsize
-Wetiosnrniecie:::txtsize --> OiaeqsenonBoH:::txtsize
+Gniaecoiri:::txtsize --> GncrliahsguA:::txtsize
+GncrliahsguA:::txtsize --> Fgtsoaaarnr:::txtsize
+Fgtsoaaarnr:::txtsize --> Sanudrtbwdtuso:::txtsize
+Fgtsoaaarnr:::txtsize --> ylgetdrontrtsou:::txtsize
+GncrliahsguA:::txtsize --> Crvamenaahg:::txtsize
+Crvamenaahg:::txtsize --> AfogyaecfgDy:::txtsize
+Crvamenaahg:::txtsize --> GnrtanpgMut:::txtsize
+Gniaecoiri:::txtsize --> Ursrrsiyot:::txtsize
+Ursrrsiyot:::txtsize --> Igctwfirrd:::txtsize
+Igctwfirrd:::txtsize --> MWAyapearttesans:::txtsize
+Igctwfirrd:::txtsize --> IchnoaseItldot:::txtsize
+Ursrrsiyot:::txtsize --> IardsretwsRr:::txtsize
+IardsretwsRr:::txtsize --> Bsccfrieftoitg:::txtsize
+IardsretwsRr:::txtsize --> Hirgripihaaado:::txtsize
 
-LeertajhA@{ shape: win-pane, label: "_Published Oct 22, 2025, 03:35 PM_
-Louvre reopens for first time after jewel heist: afp" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
-‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
-NegaTrah@{ shape: win-pane, label: "_Published Feb 20, 2025, 01:00 PM_
-Nike bets big on reality tv star kim kardashian" }
-Kriinucneida@{ shape: win-pane, label: "_Published May 17, 2023, 12:00 PM_
-Kim kardashian's $1.34 billion buyout pitch leans on her social media reach" }
-Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
-Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
-GpmglnolN@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:52 PM_
-Greenpeace $880m damages ruling in us shocks global ngos" }
-WeoLeymotna@{ shape: win-pane, label: "_Published Oct 21, 2025, 07:20 AM_
-Why steal from the louvre? it may have more to do with stones than art" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
-‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
-Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
-Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
+Slanctonit@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:20 PM_
+Smugglers’ balloons force shutdown of vilnius airport" }
+LaVupesroausii@{ shape: win-pane, label: "_Published Oct 05, 2025, 02:01 PM_
+Lithuania’s vilnius airport reopens after balloons cause suspension, diversions" }
+NeLauiirhooiisp@{ shape: win-pane, label: "_Published Sep 23, 2025, 10:37 PM_
+Nato member lithuania authorises military to shoot down drones violating its airspace" }
+Scunedti@{ shape: win-pane, label: "_Published Aug 01, 2025, 10:56 PM_
+Suspected russian drone found in lithuania" }
+DsiithChOit@{ shape: win-pane, label: "_Published Sep 23, 2025, 08:52 AM_
+Drone sightings disrupt flights at copenhagen, oslo airports" }
+Urstopsrtsetis@{ shape: win-pane, label: "_Published Sep 23, 2025, 08:51 AM_
+Use ukraine’s counter drone expertise to protect nato’s borders, lithuania says" }
+WucafnnNic@{ shape: win-pane, label: "_Published Sep 22, 2025, 11:21 PM_
+West, russia clash at un after incidents in nato air space" }
+UhegteinPdrinun@{ shape: win-pane, label: "_Published Sep 21, 2025, 05:38 AM_
+Uk fighter jets begin nato defence mission over poland, after russia drone incursion" }
+Bsovwotdsglp@{ shape: win-pane, label: "_Published Oct 20, 2025, 07:36 AM_
+British troops given powers to shoot down drones on sight: telegraph" }
+Dsunitsdiesnne@{ shape: win-pane, label: "_Published Sep 25, 2025, 06:07 AM_
+Drones disrupt danish airports for second time in a week; russia denies involvement" }
+PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
+Poland shoots down drones, the first nato member to open fire during ukraine war" }
+DsiithChOit@{ shape: win-pane, label: "_Published Sep 23, 2025, 08:52 AM_
+Drone sightings disrupt flights at copenhagen, oslo airports" }
+Gnlotone@{ shape: win-pane, label: "_Published Oct 08, 2025, 06:17 PM_
+Germany to allow police to shoot down drones" }
+Ryeyircdnret@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:35 AM_
+Runways at germany’s munich airport closed again after drone sightings" }
+Ryeyircdnret@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:35 AM_
+Runways at germany’s munich airport closed again after drone sightings" }
 
-LeertajhA:::txtsize --> Ptineluiisey:::txtsize
-Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
-GpboiPoidaes:::txtsize --> NegaTrah:::txtsize
-GpboiPoidaes:::txtsize --> Kriinucneida:::txtsize
-Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
-Gpssofemmnsrt:::txtsize --> GpmglnolN:::txtsize
-LeertajhA:::txtsize --> WeoLeymotna:::txtsize
-WeoLeymotna:::txtsize --> Ptineluiisey:::txtsize
-Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
-Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
+Slanctonit:::txtsize --> LaVupesroausii:::txtsize
+LaVupesroausii:::txtsize --> NeLauiirhooiisp:::txtsize
+NeLauiirhooiisp:::txtsize --> Scunedti:::txtsize
+NeLauiirhooiisp:::txtsize --> DsiithChOit:::txtsize
+LaVupesroausii:::txtsize --> Urstopsrtsetis:::txtsize
+Urstopsrtsetis:::txtsize --> WucafnnNic:::txtsize
+Urstopsrtsetis:::txtsize --> UhegteinPdrinun:::txtsize
+Slanctonit:::txtsize --> Bsovwotdsglp:::txtsize
+Bsovwotdsglp:::txtsize --> Dsunitsdiesnne:::txtsize
+Dsunitsdiesnne:::txtsize --> PdtnefNetndgir:::txtsize
+Dsunitsdiesnne:::txtsize --> DsiithChOit:::txtsize
+Bsovwotdsglp:::txtsize --> Gnlotone:::txtsize
+Gnlotone:::txtsize --> Ryeyircdnret:::txtsize
+Gnlotone:::txtsize --> Ryeyircdnret:::txtsize
 
-VlsncyodWH@{ shape: win-pane, label: "_Published Oct 22, 2025, 02:09 PM_
-Vehicle crashes into security gate outside the white house" }
-WeTasit@{ shape: win-pane, label: "_Published Jul 14, 2024, 03:25 PM_
-What we know: trump assassination attempt" }
-SisstttnraIelyev@{ shape: win-pane, label: "_Published Jul 14, 2024, 06:52 AM_
-Shooting was ‘assassination attempt’ on donald trump, says fbi; suspect, 20, killed by secret  service" }
-HwkaTskgntdenrhn@{ shape: win-pane, label: "_Published Jul 14, 2024, 03:20 PM_
-Here’s what’s known about thomas crooks, 20, the gunman identified by the fbi in the trump shooting" }
-TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
-Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
-VsaKsirayce@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:59 AM_
-Videos of charlie kirk’s shooting spread rapidly on social media" }
-TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
-Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
+Ferertrtpecno@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:12 PM_
+France's ex-president sarkozy to be protected by police officers in prison" }
+Dnmerertirom@{ shape: win-pane, label: "_Published Oct 21, 2025, 07:11 AM_
+Defiant former french president sarkozy to begin 5-year prison term" }
+Szletbveocsaoee@{ shape: win-pane, label: "_Published Sep 27, 2025, 02:08 PM_
+Sarkozy jailing reignites debate over french political justice ahead of le pen appeal" }
+Frcstoneeniya@{ shape: win-pane, label: "_Published Sep 25, 2025, 04:42 PM_
+Former french president sarkozy sentenced to 5 years in jail in libya trial" }
+Feeronoiryagcc@{ shape: win-pane, label: "_Published Mar 31, 2025, 05:23 PM_
+France’s le pen barred from running for office for five years after graft conviction" }
+Tihrsenkirse@{ shape: win-pane, label: "_Published Oct 21, 2025, 03:06 PM_
+The prison where france’s ex-president sarkozy will serve his sentence" }
+Dnmerertirom@{ shape: win-pane, label: "_Published Oct 21, 2025, 07:11 AM_
+Defiant former french president sarkozy to begin 5-year prison term" }
+Szletbveocsaoee@{ shape: win-pane, label: "_Published Sep 27, 2025, 02:08 PM_
+Sarkozy jailing reignites debate over french political justice ahead of le pen appeal" }
+Ferersstn@{ shape: win-pane, label: "_Published Oct 19, 2025, 12:50 PM_
+France’s ex-president sarkozy set to serve time in jail" }
+FhliCBssrfaysn@{ shape: win-pane, label: "_Published Sep 25, 2025, 10:17 PM_
+French model and singer carla bruni stands by her man after sarkozy jail sentence" }
+Szletbveocsaoee@{ shape: win-pane, label: "_Published Sep 27, 2025, 02:08 PM_
+Sarkozy jailing reignites debate over french political justice ahead of le pen appeal" }
 
-VlsncyodWH:::txtsize --> WeTasit:::txtsize
-WeTasit:::txtsize --> SisstttnraIelyev:::txtsize
-SisstttnraIelyev:::txtsize --> HwkaTskgntdenrhn:::txtsize
-VlsncyodWH:::txtsize --> TahesegnipdoUstt:::txtsize
-TahesegnipdoUstt:::txtsize --> VsaKsirayce:::txtsize
-VsaKsirayce:::txtsize --> TahesegnipdoUstt:::txtsize
+Ferertrtpecno:::txtsize --> Dnmerertirom:::txtsize
+Dnmerertirom:::txtsize --> Szletbveocsaoee:::txtsize
+Szletbveocsaoee:::txtsize --> Frcstoneeniya:::txtsize
+Szletbveocsaoee:::txtsize --> Feeronoiryagcc:::txtsize
+Ferertrtpecno:::txtsize --> Tihrsenkirse:::txtsize
+Tihrsenkirse:::txtsize --> Dnmerertirom:::txtsize
+Dnmerertirom:::txtsize --> Szletbveocsaoee:::txtsize
+Tihrsenkirse:::txtsize --> Ferersstn:::txtsize
+Ferersstn:::txtsize --> FhliCBssrfaysn:::txtsize
+Ferersstn:::txtsize --> Szletbveocsaoee:::txtsize
 
 ```
-<i>Last updated: 2025-10-22 16:00:53.206497 (GMT+8)</i>
+<i>Last updated: 2025-10-22 20:13:49.849979 (GMT+8)</i>
 <!-- END -->
