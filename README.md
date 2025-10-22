@@ -16,117 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Geidoarnoigh@{ shape: win-pane, label: "_Published Oct 22, 2025, 11:55 PM_
-Google says it has developed landmark quantum computing algorithm" }
-AooikIdwtfi@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:35 AM_
-Anthropic, google in talks on ai cloud deal worth tens of billions" }
-OIsoipettrr@{ shape: win-pane, label: "_Published Oct 22, 2025, 02:01 AM_
-Openai takes on google with ai-powered chatgpt atlas browser" }
-Auutl@{ shape: win-pane, label: "_Published Oct 17, 2025, 05:00 PM_
-Ai’s double bubble trouble" }
-InolSfulirwe@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:57 PM_
-It’s gone beyond sales, as salesforce unveils office workflow ai agents" }
-Naaopsrnlspre@{ shape: win-pane, label: "_Published Sep 17, 2025, 01:10 PM_
-New ai agent aims to ease process of tracking employees’ work performance" }
-OIsoipettrr@{ shape: win-pane, label: "_Published Oct 22, 2025, 02:01 AM_
-Openai takes on google with ai-powered chatgpt atlas browser" }
-Auutl@{ shape: win-pane, label: "_Published Oct 17, 2025, 05:00 PM_
-Ai’s double bubble trouble" }
-Abashkibon@{ shape: win-pane, label: "_Published Oct 08, 2025, 09:25 AM_
-Ai bubble fears rise with stocks seeing us$100 billion swings" }
-
-Geidoarnoigh:::txtsize --> AooikIdwtfi:::txtsize
-AooikIdwtfi:::txtsize --> OIsoipettrr:::txtsize
-OIsoipettrr:::txtsize --> Auutl:::txtsize
-AooikIdwtfi:::txtsize --> InolSfulirwe:::txtsize
-InolSfulirwe:::txtsize --> Naaopsrnlspre:::txtsize
-Geidoarnoigh:::txtsize --> OIsoipettrr:::txtsize
-OIsoipettrr:::txtsize --> Auutl:::txtsize
-Auutl:::txtsize --> Abashkibon:::txtsize
-
-TcIleiopdid@{ shape: win-pane, label: "_Published Oct 22, 2025, 10:59 PM_
-Top un court: israel must ease aid into gaza, provide ‘basic needs’" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
-Singapore strongly condemns terror attacks on israel, calls for end to violence" }
-Ucfesjetfea@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:55 PM_
-Un aid chief foresees ‘massive job’ ahead on tour of ruined gaza" }
-Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
-Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
+Nhrsonrekt@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:37 AM_
+Nato chief brushes off concerns of trump-zelensky rift" }
+TtZsmdshlss@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:27 AM_
+Trump tells zelensky to ‘make a deal’ as tomahawk plea misfires" }
+Zseafrnouu@{ shape: win-pane, label: "_Published Oct 17, 2025, 10:31 PM_
+Zelensky seeks weapons from trump in shadow of putin summit" }
+Tttndtrttcke@{ shape: win-pane, label: "_Published Oct 16, 2025, 11:15 PM_
+Trump to meet putin in budapest after ‘great’ call to discuss ukraine" }
+Kisnpihniwbelds@{ shape: win-pane, label: "_Published Oct 17, 2025, 06:50 PM_
+Kremlin says putin-trump summit may happen within two weeks, but there’s a lot to do first" }
+Zsguerwkhds@{ shape: win-pane, label: "_Published Oct 11, 2025, 10:10 PM_
+Zelensky urges trump to end ukraine war like in ‘the middle east’" }
 TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
 Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Pgoihfcfge@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:53 AM_
-Pm wong welcomes first phase of gaza ceasefire agreement" }
-Iliebfhshnaieds@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:20 AM_
-Israel says it received body of another hostage held in gaza amid dispute over delays" }
-Hstmeaudrhga@{ shape: win-pane, label: "_Published Oct 17, 2025, 09:15 PM_
-Hamas says it is committed to gaza truce and returning hostage remains" }
-Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
-Trump says israel could resume fighting in gaza if hamas fails to disarm" }
+Zsneitsdsit@{ shape: win-pane, label: "_Published Oct 11, 2024, 01:22 AM_
+Zelensky denies ceasefire with russia under discussion on trip" }
+PTtiaodrieei@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
+Putin-trump talks in budapest on hold after russia rejects ceasefire" }
+Tttndtrttcke@{ shape: win-pane, label: "_Published Oct 16, 2025, 11:15 PM_
+Trump to meet putin in budapest after ‘great’ call to discuss ukraine" }
+Twarntceydtpni@{ shape: win-pane, label: "_Published Aug 16, 2025, 11:00 AM_
+Takeaways: warm words contrast with cold reality of no deal at trump-putin summit" }
+Wramldirieke@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:35 PM_
+What are tomahawk missiles and why might trump give them to ukraine?" }
+Raedikeesivoi@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:52 AM_
+Russia reiterated previous ukraine peace terms to us in private communique" }
+PTtiaodrieei@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
+Putin-trump talks in budapest on hold after russia rejects ceasefire" }
+Lfsnhmuledmeks@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:07 AM_
+Lack of decision on tomahawks made russia less keen on diplomacy, zelensky says" }
 
-TcIleiopdid:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-WzptIleint:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
-Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
-TcIleiopdid:::txtsize --> Ucfesjetfea:::txtsize
-Ucfesjetfea:::txtsize --> Iliaeseoewa:::txtsize
-Iliaeseoewa:::txtsize --> TssHaossaaorslaoe:::txtsize
-Iliaeseoewa:::txtsize --> Pgoihfcfge:::txtsize
-Ucfesjetfea:::txtsize --> Iliebfhshnaieds:::txtsize
-Iliebfhshnaieds:::txtsize --> Hstmeaudrhga:::txtsize
-Iliebfhshnaieds:::txtsize --> Tsscretniali:::txtsize
+Nhrsonrekt:::txtsize --> TtZsmdshlss:::txtsize
+TtZsmdshlss:::txtsize --> Zseafrnouu:::txtsize
+Zseafrnouu:::txtsize --> Tttndtrttcke:::txtsize
+Zseafrnouu:::txtsize --> Kisnpihniwbelds:::txtsize
+TtZsmdshlss:::txtsize --> Zsguerwkhds:::txtsize
+Zsguerwkhds:::txtsize --> TssHaossaaorslaoe:::txtsize
+Zsguerwkhds:::txtsize --> Zsneitsdsit:::txtsize
+Nhrsonrekt:::txtsize --> PTtiaodrieei:::txtsize
+PTtiaodrieei:::txtsize --> Tttndtrttcke:::txtsize
+Tttndtrttcke:::txtsize --> Twarntceydtpni:::txtsize
+Tttndtrttcke:::txtsize --> Wramldirieke:::txtsize
+PTtiaodrieei:::txtsize --> Raedikeesivoi:::txtsize
+Raedikeesivoi:::txtsize --> PTtiaodrieei:::txtsize
+Raedikeesivoi:::txtsize --> Lfsnhmuledmeks:::txtsize
 
-Eiolecbsdah@{ shape: win-pane, label: "_Published Oct 22, 2025, 10:47 PM_
-Explainer: how will the next un chief be chosen, and who wants the job?" }
-Uelfasmioi@{ shape: win-pane, label: "_Published Oct 22, 2025, 09:01 PM_
-Un chief calls for ‘fight’ against climate disinformation" }
-TtUtaastogl@{ shape: win-pane, label: "_Published Sep 24, 2025, 12:17 AM_
-Trump tells un that climate change is ‘greatest con job’ globally" }
-Tpunnrieingso@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:10 PM_
-The top polluting nations are revising their emissions targets. is it enough?" }
-NyiopptmhUn@{ shape: win-pane, label: "_Published Oct 17, 2025, 12:45 PM_
-Nearly 900 million poor people exposed to climate shocks, un warns" }
-PcnetcnmmtafpitP@{ shape: win-pane, label: "_Published Jan 20, 2025, 11:12 PM_
-Protecting next generations, cutting climate impact top reasons for supporting net zero: poll" }
-GleeidlUe@{ shape: win-pane, label: "_Published Oct 22, 2025, 09:37 PM_
-Global trade system ‘at risk of derailment’: un chief" }
-Wsefrtfw@{ shape: win-pane, label: "_Published Aug 08, 2025, 07:28 AM_
-Who loses the most from trump’s tariffs? who wins?" }
-Tmiccraodrnarn@{ shape: win-pane, label: "_Published Aug 01, 2025, 07:56 AM_
-Trump modifies reciprocal tariffs ahead of deadline; rate on singapore remains at 10%" }
-TsccasipriohAas@{ shape: win-pane, label: "_Published Aug 07, 2025, 11:15 AM_
-Trump’s 100% semiconductor tariffs may hit chipmakers in singapore, other s-e asia nations" }
-Tasaenwocys@{ shape: win-pane, label: "_Published Oct 14, 2025, 09:55 AM_
-Trump and xi spark another stand-off with world economy at risk" }
-TreUndweixco@{ shape: win-pane, label: "_Published Oct 11, 2025, 05:16 AM_
-Trump ratchets up us-china trade war with new 100% tariffs, export controls" }
-Toceitesa@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:39 PM_
-Trump on track to meet xi in south korea, bessent says" }
+Slafesexoadons@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:30 AM_
+Social media platform reddit sues perplexity for scraping data to train ai system" }
+Tpwlutplyogoo@{ shape: win-pane, label: "_Published Aug 26, 2025, 03:45 PM_
+Top japan news outlets sue ai start-up perplexity for copyright violations" }
+JeweihnUtplyuaal@{ shape: win-pane, label: "_Published Aug 10, 2025, 10:39 AM_
+Japanese newspaper yomiuri shimbun sues us ai start-up perplexity over use of about 120,000 articles" }
+BrnaiaArexvnsi@{ shape: win-pane, label: "_Published Jun 20, 2025, 05:15 PM_
+Bbc threatens legal action against ai start-up perplexity over content scraping" }
+GesfeCes@{ shape: win-pane, label: "_Published May 31, 2025, 01:50 AM_
+Google makes case for keeping chrome browser" }
+JeweihnUtplyuaal@{ shape: win-pane, label: "_Published Aug 10, 2025, 10:39 AM_
+Japanese newspaper yomiuri shimbun sues us ai start-up perplexity over use of about 120,000 articles" }
+BrnaiaArexvnsi@{ shape: win-pane, label: "_Published Jun 20, 2025, 05:15 PM_
+Bbc threatens legal action against ai start-up perplexity over content scraping" }
+GesfeCes@{ shape: win-pane, label: "_Published May 31, 2025, 01:50 AM_
+Google makes case for keeping chrome browser" }
+BrnaiaArexvnsi@{ shape: win-pane, label: "_Published Jun 20, 2025, 05:15 PM_
+Bbc threatens legal action against ai start-up perplexity over content scraping" }
+WtJaslyrrinn@{ shape: win-pane, label: "_Published Oct 22, 2024, 10:45 AM_
+Wall street journal sues perplexity ai for copyright infringement" }
+UsrOIogfeoIn@{ shape: win-pane, label: "_Published May 01, 2024, 06:59 AM_
+Us newspapers sue openai for copyright infringement over ai training" }
+HcntehsaI@{ shape: win-pane, label: "_Published Apr 08, 2024, 07:45 AM_
+How tech giants cut corners to harvest data for ai" }
+ArexometTk@{ shape: win-pane, label: "_Published Mar 22, 2025, 11:00 AM_
+Ai start-up perplexity confirms interest to buy tiktok" }
+Tsodiyido@{ shape: win-pane, label: "_Published Mar 10, 2025, 08:50 AM_
+Trump says four bidders in play for tiktok deal ‘soon’" }
+Uropsolnstm@{ shape: win-pane, label: "_Published Jan 17, 2025, 11:09 PM_
+Us supreme court upholds tiktok ban, leaving app’s fate to trump" }
 
-Eiolecbsdah:::txtsize --> Uelfasmioi:::txtsize
-Uelfasmioi:::txtsize --> TtUtaastogl:::txtsize
-TtUtaastogl:::txtsize --> Tpunnrieingso:::txtsize
-Uelfasmioi:::txtsize --> NyiopptmhUn:::txtsize
-NyiopptmhUn:::txtsize --> PcnetcnmmtafpitP:::txtsize
-Eiolecbsdah:::txtsize --> GleeidlUe:::txtsize
-GleeidlUe:::txtsize --> Wsefrtfw:::txtsize
-Wsefrtfw:::txtsize --> Tmiccraodrnarn:::txtsize
-Wsefrtfw:::txtsize --> TsccasipriohAas:::txtsize
-GleeidlUe:::txtsize --> Tasaenwocys:::txtsize
-Tasaenwocys:::txtsize --> TreUndweixco:::txtsize
-Tasaenwocys:::txtsize --> Toceitesa:::txtsize
+Slafesexoadons:::txtsize --> Tpwlutplyogoo:::txtsize
+Tpwlutplyogoo:::txtsize --> JeweihnUtplyuaal:::txtsize
+JeweihnUtplyuaal:::txtsize --> BrnaiaArexvnsi:::txtsize
+JeweihnUtplyuaal:::txtsize --> GesfeCes:::txtsize
+Tpwlutplyogoo:::txtsize --> JeweihnUtplyuaal:::txtsize
+JeweihnUtplyuaal:::txtsize --> BrnaiaArexvnsi:::txtsize
+JeweihnUtplyuaal:::txtsize --> GesfeCes:::txtsize
+Slafesexoadons:::txtsize --> BrnaiaArexvnsi:::txtsize
+BrnaiaArexvnsi:::txtsize --> WtJaslyrrinn:::txtsize
+WtJaslyrrinn:::txtsize --> UsrOIogfeoIn:::txtsize
+WtJaslyrrinn:::txtsize --> HcntehsaI:::txtsize
+BrnaiaArexvnsi:::txtsize --> ArexometTk:::txtsize
+ArexometTk:::txtsize --> Tsodiyido:::txtsize
+ArexometTk:::txtsize --> Uropsolnstm:::txtsize
+
+DrUaergmhepnmn@{ shape: win-pane, label: "_Published Oct 23, 2025, 01:37 AM_
+Democratic us senator jeff merkley gives marathon speech opposing trump agenda" }
+Uamsrhtnue@{ shape: win-pane, label: "_Published Apr 02, 2025, 08:11 AM_
+Us senator smashes record with marathon anti-trump speech" }
+Uaoagoshnu@{ shape: win-pane, label: "_Published Apr 01, 2025, 09:38 PM_
+Us senator mounts all-night protest speech against trump" }
+DistiUennbosu@{ shape: win-pane, label: "_Published Mar 28, 2025, 07:30 AM_
+Doge aims to slash $1.3 trillion in us government spending by end of may, says musk" }
+DrsogmeCttefre@{ shape: win-pane, label: "_Published Mar 31, 2025, 10:41 PM_
+Democratic senators urge trump to revamp china trade ties, revise free trade deals" }
+Uosaervopeg@{ shape: win-pane, label: "_Published Mar 15, 2025, 11:43 PM_
+Us democrats fume as some in party cave in to trump on spending bill" }
+Uasiasoumtnh@{ shape: win-pane, label: "_Published Mar 15, 2025, 06:31 AM_
+Us senate passes bill to avert shutdown, house democrats turn on schumer" }
+Uasiasoumtnh@{ shape: win-pane, label: "_Published Mar 15, 2025, 06:31 AM_
+Us senate passes bill to avert shutdown, house democrats turn on schumer" }
+HmreHrdnoeeTtle@{ shape: win-pane, label: "_Published Jul 04, 2025, 02:34 AM_
+Hakeem jeffries sets us house record with near 9-hour speech before trump tax bill vote" }
+Uamsrhtnue@{ shape: win-pane, label: "_Published Apr 02, 2025, 08:11 AM_
+Us senator smashes record with marathon anti-trump speech" }
+Uaoagoshnu@{ shape: win-pane, label: "_Published Apr 01, 2025, 09:38 PM_
+Us senator mounts all-night protest speech against trump" }
+Uosaervopeg@{ shape: win-pane, label: "_Published Mar 15, 2025, 11:43 PM_
+Us democrats fume as some in party cave in to trump on spending bill" }
+Tspaaegwosar@{ shape: win-pane, label: "_Published Jul 04, 2025, 02:55 AM_
+Trump’s sweeping tax-cut and spending bill wins congressional approval" }
+Uapssrpnl@{ shape: win-pane, label: "_Published Jul 02, 2025, 02:21 AM_
+Us senate approves divisive trump spending bill" }
+HmreHrdnoeeTtle@{ shape: win-pane, label: "_Published Jul 04, 2025, 02:34 AM_
+Hakeem jeffries sets us house record with near 9-hour speech before trump tax bill vote" }
+
+DrUaergmhepnmn:::txtsize --> Uamsrhtnue:::txtsize
+Uamsrhtnue:::txtsize --> Uaoagoshnu:::txtsize
+Uaoagoshnu:::txtsize --> DistiUennbosu:::txtsize
+Uaoagoshnu:::txtsize --> DrsogmeCttefre:::txtsize
+Uamsrhtnue:::txtsize --> Uosaervopeg:::txtsize
+Uosaervopeg:::txtsize --> Uasiasoumtnh:::txtsize
+Uosaervopeg:::txtsize --> Uasiasoumtnh:::txtsize
+DrUaergmhepnmn:::txtsize --> HmreHrdnoeeTtle:::txtsize
+HmreHrdnoeeTtle:::txtsize --> Uamsrhtnue:::txtsize
+Uamsrhtnue:::txtsize --> Uaoagoshnu:::txtsize
+Uamsrhtnue:::txtsize --> Uosaervopeg:::txtsize
+HmreHrdnoeeTtle:::txtsize --> Tspaaegwosar:::txtsize
+Tspaaegwosar:::txtsize --> Uapssrpnl:::txtsize
+Tspaaegwosar:::txtsize --> HmreHrdnoeeTtle:::txtsize
 
 ```
-<i>Last updated: 2025-10-23 00:01:09.263881 (GMT+8)</i>
+<i>Last updated: 2025-10-23 04:00:31.356896 (GMT+8)</i>
 <!-- END -->
