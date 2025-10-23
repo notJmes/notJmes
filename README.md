@@ -16,144 +16,108 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ilctrteiddecta@{ shape: win-pane, label: "_Published Oct 23, 2025, 10:50 AM_
-Israel’s top court to hear petition demanding independent media access to gaza" }
-Ildviecac@{ shape: win-pane, label: "_Published May 04, 2025, 07:22 AM_
-Israel urged to give media ‘unrestricted’ gaza access" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-Hsoliiakaaaei@{ shape: win-pane, label: "_Published Apr 07, 2025, 11:20 PM_
-Hamas says journalist killed in gaza strike, israel claims targeted militant" }
-RetIlooawntl@{ shape: win-pane, label: "_Published Apr 07, 2025, 09:25 PM_
-Red crescent says israeli troops shot gaza crew ‘with intent to kill’" }
-Vsarkdzefaeaaio@{ shape: win-pane, label: "_Published Apr 05, 2025, 10:48 AM_
-Video shows aid workers killed in gaza under gunfire barrage, with ambulance lights on" }
-Taifria@{ shape: win-pane, label: "_Published Aug 27, 2025, 10:05 AM_
-The deadly risks of reporting in gaza" }
-IlGoalttllgnt@{ shape: win-pane, label: "_Published Aug 25, 2025, 05:00 PM_
-Israel hits gaza hospital, killing at least 20 people, including 5 journalists" }
-NytferqdGec@{ shape: win-pane, label: "_Published Aug 22, 2025, 05:00 PM_
-Netanyahu’s talk of peace is mere masquerade for gaza destruction" }
-IllronseWal@{ shape: win-pane, label: "_Published Aug 25, 2025, 12:35 AM_
-Israeli bulldozers uproot hundreds of trees in west bank village" }
-Weolkdrsesoaa@{ shape: win-pane, label: "_Published Aug 26, 2025, 10:45 AM_
-Who are the journalists killed in israel’s strike on nasser hospital in gaza?" }
-IlGoalttllgnt@{ shape: win-pane, label: "_Published Aug 25, 2025, 05:00 PM_
-Israel hits gaza hospital, killing at least 20 people, including 5 journalists" }
-IlGoalttllgnt@{ shape: win-pane, label: "_Published Aug 25, 2025, 05:00 PM_
-Israel hits gaza hospital, killing at least 20 people, including 5 journalists" }
+Misaiaptiy@{ shape: win-pane, label: "_Published Oct 23, 2025, 03:50 PM_
+Musk hijacks tesla earnings call to pitch $1.3 trillion pay plan" }
+Tpscfokctti@{ shape: win-pane, label: "_Published Sep 05, 2025, 10:35 PM_
+Tesla proposes package for elon musk that could top us$1 trillion" }
+TscpneusVe@{ shape: win-pane, label: "_Published Sep 04, 2025, 09:53 AM_
+Tesla sales collapse continues in europe’s top ev markets" }
+Csmssjcorpw@{ shape: win-pane, label: "_Published Aug 28, 2025, 09:27 AM_
+Chinese carmakers resist beijing’s call to end brutal price war" }
+GnrtanpgMut@{ shape: win-pane, label: "_Published Feb 16, 2025, 11:59 AM_
+Germany’s far-right afd basks in the spotlight of musk support" }
+Eucrtanasrie@{ shape: win-pane, label: "_Published Dec 28, 2024, 10:10 PM_
+Elon musk backs far-right afd party in german newspaper opinion piece" }
+Maamleexin@{ shape: win-pane, label: "_Published Jan 22, 2025, 07:34 AM_
+Musk salute at trump rally celebrated by extremists online" }
+Tsibeerebhsdnct@{ shape: win-pane, label: "_Published Oct 23, 2025, 09:13 AM_
+Tesla’s profit tumbles despite record sales, hit by higher costs and fading tax credits" }
+Tssaesprdtvlie@{ shape: win-pane, label: "_Published Oct 03, 2025, 08:26 AM_
+Tesla shares fall as investors look past a record quarter of vehicle deliveries" }
+Sdardrilstiraae@{ shape: win-pane, label: "_Published Sep 12, 2025, 10:35 PM_
+Should tesla’s shareholders green-light elon musk’s us$1 trillion performance package?" }
+Eultowstlir@{ shape: win-pane, label: "_Published Oct 02, 2025, 12:00 PM_
+Elon musk halfway to becoming world’s first trillionaire: forbes" }
 
-Ilctrteiddecta:::txtsize --> Ildviecac:::txtsize
-Ildviecac:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Ildviecac:::txtsize --> Hsoliiakaaaei:::txtsize
-Hsoliiakaaaei:::txtsize --> RetIlooawntl:::txtsize
-Hsoliiakaaaei:::txtsize --> Vsarkdzefaeaaio:::txtsize
-Ilctrteiddecta:::txtsize --> Taifria:::txtsize
-Taifria:::txtsize --> IlGoalttllgnt:::txtsize
-IlGoalttllgnt:::txtsize --> NytferqdGec:::txtsize
-IlGoalttllgnt:::txtsize --> IllronseWal:::txtsize
-Taifria:::txtsize --> Weolkdrsesoaa:::txtsize
-Weolkdrsesoaa:::txtsize --> IlGoalttllgnt:::txtsize
-Weolkdrsesoaa:::txtsize --> IlGoalttllgnt:::txtsize
+Misaiaptiy:::txtsize --> Tpscfokctti:::txtsize
+Tpscfokctti:::txtsize --> TscpneusVe:::txtsize
+TscpneusVe:::txtsize --> Csmssjcorpw:::txtsize
+Tpscfokctti:::txtsize --> GnrtanpgMut:::txtsize
+GnrtanpgMut:::txtsize --> Eucrtanasrie:::txtsize
+GnrtanpgMut:::txtsize --> Maamleexin:::txtsize
+Misaiaptiy:::txtsize --> Tsibeerebhsdnct:::txtsize
+Tsibeerebhsdnct:::txtsize --> Tssaesprdtvlie:::txtsize
+Tssaesprdtvlie:::txtsize --> Sdardrilstiraae:::txtsize
+Tssaesprdtvlie:::txtsize --> Eultowstlir:::txtsize
 
-Fahspkoho@{ shape: win-pane, label: "_Published Oct 23, 2025, 09:20 AM_
-Five major changes trump is making to the white house" }
-DibsrhoanTbo@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:35 AM_
-Demolition begins on part of white house east wing for trump ballroom" }
-Tstliahstrobd@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:45 PM_
-Trump seeks to build a triumphal arch in washington for nation’s 250th birthday" }
-Thdreyrhoao@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:50 PM_
-Trump hosts dinner for wealthy donors to white house ballroom" }
-Tbsliltaikr@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:32 AM_
-Trump brings the bling with gold-plated oval office makeover" }
-Tstliahstrobd@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:45 PM_
-Trump seeks to build a triumphal arch in washington for nation’s 250th birthday" }
-Thdreyrhoao@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:50 PM_
-Trump hosts dinner for wealthy donors to white house ballroom" }
-Tbsliltaikr@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:32 AM_
-Trump brings the bling with gold-plated oval office makeover" }
-WHEilowboudioo@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:39 AM_
-White house east wing will be torn down for ballroom, trump had promised not to do so" }
-Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
-‘music to my ears’: trump brushes off critics of white house demolition" }
-DibsrhoanTbo@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:35 AM_
-Demolition begins on part of white house east wing for trump ballroom" }
-TttCosneetsd@{ shape: win-pane, label: "_Published Sep 04, 2025, 10:43 AM_
-Trump to host tech ceos for first event in newly renovated rose garden" }
-Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
-‘music to my ears’: trump brushes off critics of white house demolition" }
-DibsrhoanTbo@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:35 AM_
-Demolition begins on part of white house east wing for trump ballroom" }
-TttCosneetsd@{ shape: win-pane, label: "_Published Sep 04, 2025, 10:43 AM_
-Trump to host tech ceos for first event in newly renovated rose garden" }
+MnttnBiunlt@{ shape: win-pane, label: "_Published Oct 23, 2025, 03:45 PM_
+Migrant sent back to france by britain returns on a small boat" }
+UaaaMneengdr@{ shape: win-pane, label: "_Published Jul 10, 2025, 12:37 AM_
+Uk’s starmer and france’s macron agree on need for new migrant deterrent" }
+MnsdSerm@{ shape: win-pane, label: "_Published Jul 06, 2025, 11:55 AM_
+Migrants cast shadow on starmer-macron summit" }
+Bikhoiheer@{ shape: win-pane, label: "_Published May 15, 2025, 09:17 PM_
+Britain seeking third countries to host deported migrants" }
+Uptevuocarn@{ shape: win-pane, label: "_Published May 11, 2025, 01:00 PM_
+Uk proposes tightening visa rules to reduce legal migration" }
+BiFeepnUCwMn@{ shape: win-pane, label: "_Published Jul 09, 2025, 02:38 AM_
+Britain and france must end dependency on us and china, warns macron" }
+Khssccntptione@{ shape: win-pane, label: "_Published Jul 08, 2025, 11:22 PM_
+King charles hosts france’s macron in first european state visit to uk since brexit" }
+Khssccntptione@{ shape: win-pane, label: "_Published Jul 08, 2025, 11:22 PM_
+King charles hosts france’s macron in first european state visit to uk since brexit" }
 
-Fahspkoho:::txtsize --> DibsrhoanTbo:::txtsize
-DibsrhoanTbo:::txtsize --> Tstliahstrobd:::txtsize
-Tstliahstrobd:::txtsize --> Thdreyrhoao:::txtsize
-Tstliahstrobd:::txtsize --> Tbsliltaikr:::txtsize
-DibsrhoanTbo:::txtsize --> Tstliahstrobd:::txtsize
-Tstliahstrobd:::txtsize --> Thdreyrhoao:::txtsize
-Tstliahstrobd:::txtsize --> Tbsliltaikr:::txtsize
-Fahspkoho:::txtsize --> WHEilowboudioo:::txtsize
-WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
-Mtauuoiotsoo:::txtsize --> DibsrhoanTbo:::txtsize
-Mtauuoiotsoo:::txtsize --> TttCosneetsd:::txtsize
-WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
-Mtauuoiotsoo:::txtsize --> DibsrhoanTbo:::txtsize
-Mtauuoiotsoo:::txtsize --> TttCosneetsd:::txtsize
+MnttnBiunlt:::txtsize --> UaaaMneengdr:::txtsize
+UaaaMneengdr:::txtsize --> MnsdSerm:::txtsize
+MnsdSerm:::txtsize --> Bikhoiheer:::txtsize
+MnsdSerm:::txtsize --> Uptevuocarn:::txtsize
+UaaaMneengdr:::txtsize --> BiFeepnUCwMn:::txtsize
+BiFeepnUCwMn:::txtsize --> Khssccntptione:::txtsize
+BiFeepnUCwMn:::txtsize --> Khssccntptione:::txtsize
 
-Blat@{ shape: win-pane, label: "_Published Oct 23, 2025, 09:15 AM_
-Bird flu is back in the us" }
-Ferlnsrsdu@{ shape: win-pane, label: "_Published Oct 22, 2025, 03:31 AM_
-France orders poultry indoors as bird flu spreads in europe" }
-Isihtsefsoss@{ shape: win-pane, label: "_Published Aug 30, 2025, 04:07 PM_
-India’s delhi zoo shut after positive bird flu tests from two storks" }
-Gitvhrircseot@{ shape: win-pane, label: "_Published May 20, 2025, 04:09 AM_
-Genetic test to reveal whether brazil’s bird flu case is linked to zoo deaths" }
-Ucoalugoafc@{ shape: win-pane, label: "_Published May 29, 2025, 06:44 AM_
-Us cancels more than $900 million funding for moderna bird flu vaccine" }
-Blbboaaaet@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:25 AM_
-Bird flu may be airborne on us dairy farms, say scientists" }
-Bleprnewiir@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:10 AM_
-Bird flu wiped out poultry, and now the screw worm is coming for beef" }
-SdfronitSy@{ shape: win-pane, label: "_Published Feb 06, 2025, 05:33 AM_
-Second bird flu strain found in us dairy cattle, usda says" }
-Blbboaaaet@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:25 AM_
-Bird flu may be airborne on us dairy farms, say scientists" }
-Bleprnewiir@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:10 AM_
-Bird flu wiped out poultry, and now the screw worm is coming for beef" }
-Mogcessrougerw@{ shape: win-pane, label: "_Published May 14, 2025, 12:12 AM_
-Mexico to tighten cattle flows from south, rules out shutting border over screwworm" }
-SesMothnem@{ shape: win-pane, label: "_Published Jul 11, 2025, 09:53 PM_
-Sniffer dogs help mexico fight flesh-eating screwworm" }
-SdfronitSy@{ shape: win-pane, label: "_Published Feb 06, 2025, 05:33 AM_
-Second bird flu strain found in us dairy cattle, usda says" }
-EoentUtnteih@{ shape: win-pane, label: "_Published Feb 04, 2025, 11:37 PM_
-Egg shortages are now hitting us restaurants, with no relief in sight" }
-Knyiurhuiea@{ shape: win-pane, label: "_Published Jan 28, 2025, 12:10 PM_
-Keeping an eye on bird flu outbreak that could quickly escalate" }
+UcintaaegrGl@{ shape: win-pane, label: "_Published Oct 23, 2025, 03:35 PM_
+Us’ marco rubio warns west bank annexation endangers trump’s gaza plan" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Mmenwniuaa@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:36 AM_
+Muslim states join eu powers in backing trump’s gaza plan" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Mmenwniuaa@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:36 AM_
+Muslim states join eu powers in backing trump’s gaza plan" }
+Illnetocetaa@{ shape: win-pane, label: "_Published Oct 22, 2025, 09:32 PM_
+Israel’s parliament gives initial nod to occupied west bank annexation" }
+ToTvswoet@{ shape: win-pane, label: "_Published Sep 26, 2025, 06:02 AM_
+‘time to stop’: trump vows israel will not annex west bank" }
+Rnnlntfnirmea@{ shape: win-pane, label: "_Published Sep 23, 2025, 04:52 PM_
+Recognition of palestinian state offers no relief for traumatised gazans" }
+UuwdlisrnsBos@{ shape: win-pane, label: "_Published Sep 18, 2025, 06:10 PM_
+Uae could downgrade diplomatic ties if israel annexes west bank, sources say" }
+WrAao@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:46 PM_
+What are the abraham accords?" }
+Ilemahmaroais@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:27 PM_
+Israel targets hamas leadership in military strikes on qatar, officials say" }
 
-Blat:::txtsize --> Ferlnsrsdu:::txtsize
-Ferlnsrsdu:::txtsize --> Isihtsefsoss:::txtsize
-Isihtsefsoss:::txtsize --> Gitvhrircseot:::txtsize
-Isihtsefsoss:::txtsize --> Ucoalugoafc:::txtsize
-Ferlnsrsdu:::txtsize --> Blbboaaaet:::txtsize
-Blbboaaaet:::txtsize --> Bleprnewiir:::txtsize
-Blbboaaaet:::txtsize --> SdfronitSy:::txtsize
-Blat:::txtsize --> Blbboaaaet:::txtsize
-Blbboaaaet:::txtsize --> Bleprnewiir:::txtsize
-Bleprnewiir:::txtsize --> Mogcessrougerw:::txtsize
-Bleprnewiir:::txtsize --> SesMothnem:::txtsize
-Blbboaaaet:::txtsize --> SdfronitSy:::txtsize
-SdfronitSy:::txtsize --> EoentUtnteih:::txtsize
-SdfronitSy:::txtsize --> Knyiurhuiea:::txtsize
+UcintaaegrGl:::txtsize --> AtHfezerydatoGel:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+Tseaupoabmrnluo:::txtsize --> AtHfezerydatoGel:::txtsize
+Tseaupoabmrnluo:::txtsize --> Mmenwniuaa:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+Tseaupoabmrnluo:::txtsize --> AtHfezerydatoGel:::txtsize
+Tseaupoabmrnluo:::txtsize --> Mmenwniuaa:::txtsize
+UcintaaegrGl:::txtsize --> Illnetocetaa:::txtsize
+Illnetocetaa:::txtsize --> ToTvswoet:::txtsize
+ToTvswoet:::txtsize --> Rnnlntfnirmea:::txtsize
+Illnetocetaa:::txtsize --> UuwdlisrnsBos:::txtsize
+UuwdlisrnsBos:::txtsize --> WrAao:::txtsize
+UuwdlisrnsBos:::txtsize --> Ilemahmaroais:::txtsize
 
 ```
-<i>Last updated: 2025-10-23 12:01:14.740790 (GMT+8)</i>
+<i>Last updated: 2025-10-23 16:00:32.171976 (GMT+8)</i>
 <!-- END -->
