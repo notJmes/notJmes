@@ -16,96 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Lnnaeeroiisa@{ shape: win-pane, label: "_Published Oct 23, 2025, 07:40 AM_
-London woman who was fined after pouring coffee in drain gets a break" }
-Unfeoetrna@{ shape: win-pane, label: "_Published Mar 02, 2025, 04:53 PM_
-Uk pie ‘n’ mash fans seek protected status for cockney classic" }
-PstlnragoCries@{ shape: win-pane, label: "_Published Apr 09, 2023, 05:00 AM_
-‘parmesan’ is translation of ‘parmigiano reggiano’, high court rules in cheese dispute" }
-FoaapcaUrtd@{ shape: win-pane, label: "_Published Jan 21, 2023, 03:56 PM_
-Fight over parmesan and prosecco stalls eu-australia trade deal" }
-PstlnragoCries@{ shape: win-pane, label: "_Published Apr 09, 2023, 05:00 AM_
-‘parmesan’ is translation of ‘parmigiano reggiano’, high court rules in cheese dispute" }
-FoaapcaUrtd@{ shape: win-pane, label: "_Published Jan 21, 2023, 03:56 PM_
-Fight over parmesan and prosecco stalls eu-australia trade deal" }
-Cehakuoeso@{ shape: win-pane, label: "_Published Jul 27, 2023, 03:22 PM_
-Coffee and chocolate makers question eu deforestation law" }
-Eluegtbioa@{ shape: win-pane, label: "_Published Dec 06, 2022, 10:00 PM_
-Eu seals ‘groundbreaking’ deal to curb role in deforestation" }
-DeiBlmraor@{ shape: win-pane, label: "_Published Dec 01, 2022, 04:04 AM_
-Deforestation of brazilian amazon retreats from 15-year high" }
-BlatSroaarrtu@{ shape: win-pane, label: "_Published Nov 30, 2022, 03:47 AM_
-Brazil's lula courts uk, us, others to join amazon rainforest protection fund" }
-BotpsEoalakca@{ shape: win-pane, label: "_Published Jun 30, 2023, 05:00 PM_
-Big chocolate companies back eu deforestation law that risks pricier bars" }
-Hwtprtnce@{ shape: win-pane, label: "_Published May 17, 2023, 04:00 PM_
-How eu wants to stop deforestation in your coffee" }
-Iecsraiimdeiw@{ shape: win-pane, label: "_Published Jun 09, 2023, 03:17 PM_
-Indonesia accuses eu of ‘regulatory imperialism’ with deforestation law" }
+Ilctrteiddecta@{ shape: win-pane, label: "_Published Oct 23, 2025, 10:50 AM_
+Israel’s top court to hear petition demanding independent media access to gaza" }
+Ildviecac@{ shape: win-pane, label: "_Published May 04, 2025, 07:22 AM_
+Israel urged to give media ‘unrestricted’ gaza access" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+Hsoliiakaaaei@{ shape: win-pane, label: "_Published Apr 07, 2025, 11:20 PM_
+Hamas says journalist killed in gaza strike, israel claims targeted militant" }
+RetIlooawntl@{ shape: win-pane, label: "_Published Apr 07, 2025, 09:25 PM_
+Red crescent says israeli troops shot gaza crew ‘with intent to kill’" }
+Vsarkdzefaeaaio@{ shape: win-pane, label: "_Published Apr 05, 2025, 10:48 AM_
+Video shows aid workers killed in gaza under gunfire barrage, with ambulance lights on" }
+Taifria@{ shape: win-pane, label: "_Published Aug 27, 2025, 10:05 AM_
+The deadly risks of reporting in gaza" }
+IlGoalttllgnt@{ shape: win-pane, label: "_Published Aug 25, 2025, 05:00 PM_
+Israel hits gaza hospital, killing at least 20 people, including 5 journalists" }
+NytferqdGec@{ shape: win-pane, label: "_Published Aug 22, 2025, 05:00 PM_
+Netanyahu’s talk of peace is mere masquerade for gaza destruction" }
+IllronseWal@{ shape: win-pane, label: "_Published Aug 25, 2025, 12:35 AM_
+Israeli bulldozers uproot hundreds of trees in west bank village" }
+Weolkdrsesoaa@{ shape: win-pane, label: "_Published Aug 26, 2025, 10:45 AM_
+Who are the journalists killed in israel’s strike on nasser hospital in gaza?" }
+IlGoalttllgnt@{ shape: win-pane, label: "_Published Aug 25, 2025, 05:00 PM_
+Israel hits gaza hospital, killing at least 20 people, including 5 journalists" }
+IlGoalttllgnt@{ shape: win-pane, label: "_Published Aug 25, 2025, 05:00 PM_
+Israel hits gaza hospital, killing at least 20 people, including 5 journalists" }
 
-Lnnaeeroiisa:::txtsize --> Unfeoetrna:::txtsize
-Unfeoetrna:::txtsize --> PstlnragoCries:::txtsize
-PstlnragoCries:::txtsize --> FoaapcaUrtd:::txtsize
-Unfeoetrna:::txtsize --> PstlnragoCries:::txtsize
-PstlnragoCries:::txtsize --> FoaapcaUrtd:::txtsize
-Lnnaeeroiisa:::txtsize --> Cehakuoeso:::txtsize
-Cehakuoeso:::txtsize --> Eluegtbioa:::txtsize
-Eluegtbioa:::txtsize --> DeiBlmraor:::txtsize
-Eluegtbioa:::txtsize --> BlatSroaarrtu:::txtsize
-Cehakuoeso:::txtsize --> BotpsEoalakca:::txtsize
-BotpsEoalakca:::txtsize --> Hwtprtnce:::txtsize
-BotpsEoalakca:::txtsize --> Iecsraiimdeiw:::txtsize
+Ilctrteiddecta:::txtsize --> Ildviecac:::txtsize
+Ildviecac:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Ildviecac:::txtsize --> Hsoliiakaaaei:::txtsize
+Hsoliiakaaaei:::txtsize --> RetIlooawntl:::txtsize
+Hsoliiakaaaei:::txtsize --> Vsarkdzefaeaaio:::txtsize
+Ilctrteiddecta:::txtsize --> Taifria:::txtsize
+Taifria:::txtsize --> IlGoalttllgnt:::txtsize
+IlGoalttllgnt:::txtsize --> NytferqdGec:::txtsize
+IlGoalttllgnt:::txtsize --> IllronseWal:::txtsize
+Taifria:::txtsize --> Weolkdrsesoaa:::txtsize
+Weolkdrsesoaa:::txtsize --> IlGoalttllgnt:::txtsize
+Weolkdrsesoaa:::txtsize --> IlGoalttllgnt:::txtsize
 
-Raeanlppbisl@{ shape: win-pane, label: "_Published Oct 23, 2025, 07:37 AM_
-Russia pushes a state-controlled ‘super app’ by sabotaging its rivals" }
-RartkXWAvbilnett@{ shape: win-pane, label: "_Published Aug 21, 2025, 04:51 PM_
-Russia orders state-backed max app, a ‘whatsapp rival’, to be pre-installed on phones and tablets" }
-RattimleaWAtx@{ shape: win-pane, label: "_Published Aug 13, 2025, 09:38 PM_
-Russia starts restricting some calls on telegram and whatsapp, interfax says" }
-Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
-Timeline: how russia's attack on ukraine unfolded" }
-Racbsraa@{ shape: win-pane, label: "_Published Dec 14, 2024, 01:58 AM_
-Russian watchdog blocks viber messaging app" }
-RareearsregncnSr@{ shape: win-pane, label: "_Published Apr 08, 2025, 07:58 AM_
-Russian court fines telegram app for refusal to remove anti-government content, tass reports" }
-AaignitTrwao@{ shape: win-pane, label: "_Published Feb 03, 2025, 06:30 AM_
-Australia hits right-wing online network terrorgram with sanctions" }
-Gesrnlisastefein@{ shape: win-pane, label: "_Published Mar 06, 2025, 08:05 AM_
-Google tells australian regulator its ai software was used to make deepfake terrorism content" }
+Fahspkoho@{ shape: win-pane, label: "_Published Oct 23, 2025, 09:20 AM_
+Five major changes trump is making to the white house" }
+DibsrhoanTbo@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:35 AM_
+Demolition begins on part of white house east wing for trump ballroom" }
+Tstliahstrobd@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:45 PM_
+Trump seeks to build a triumphal arch in washington for nation’s 250th birthday" }
+Thdreyrhoao@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:50 PM_
+Trump hosts dinner for wealthy donors to white house ballroom" }
+Tbsliltaikr@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:32 AM_
+Trump brings the bling with gold-plated oval office makeover" }
+Tstliahstrobd@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:45 PM_
+Trump seeks to build a triumphal arch in washington for nation’s 250th birthday" }
+Thdreyrhoao@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:50 PM_
+Trump hosts dinner for wealthy donors to white house ballroom" }
+Tbsliltaikr@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:32 AM_
+Trump brings the bling with gold-plated oval office makeover" }
+WHEilowboudioo@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:39 AM_
+White house east wing will be torn down for ballroom, trump had promised not to do so" }
+Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
+‘music to my ears’: trump brushes off critics of white house demolition" }
+DibsrhoanTbo@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:35 AM_
+Demolition begins on part of white house east wing for trump ballroom" }
+TttCosneetsd@{ shape: win-pane, label: "_Published Sep 04, 2025, 10:43 AM_
+Trump to host tech ceos for first event in newly renovated rose garden" }
+Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
+‘music to my ears’: trump brushes off critics of white house demolition" }
+DibsrhoanTbo@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:35 AM_
+Demolition begins on part of white house east wing for trump ballroom" }
+TttCosneetsd@{ shape: win-pane, label: "_Published Sep 04, 2025, 10:43 AM_
+Trump to host tech ceos for first event in newly renovated rose garden" }
 
-Raeanlppbisl:::txtsize --> RartkXWAvbilnett:::txtsize
-RartkXWAvbilnett:::txtsize --> RattimleaWAtx:::txtsize
-RattimleaWAtx:::txtsize --> Tiwitnifd:::txtsize
-RattimleaWAtx:::txtsize --> Racbsraa:::txtsize
-RartkXWAvbilnett:::txtsize --> RareearsregncnSr:::txtsize
-RareearsregncnSr:::txtsize --> AaignitTrwao:::txtsize
-RareearsregncnSr:::txtsize --> Gesrnlisastefein:::txtsize
+Fahspkoho:::txtsize --> DibsrhoanTbo:::txtsize
+DibsrhoanTbo:::txtsize --> Tstliahstrobd:::txtsize
+Tstliahstrobd:::txtsize --> Thdreyrhoao:::txtsize
+Tstliahstrobd:::txtsize --> Tbsliltaikr:::txtsize
+DibsrhoanTbo:::txtsize --> Tstliahstrobd:::txtsize
+Tstliahstrobd:::txtsize --> Thdreyrhoao:::txtsize
+Tstliahstrobd:::txtsize --> Tbsliltaikr:::txtsize
+Fahspkoho:::txtsize --> WHEilowboudioo:::txtsize
+WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
+Mtauuoiotsoo:::txtsize --> DibsrhoanTbo:::txtsize
+Mtauuoiotsoo:::txtsize --> TttCosneetsd:::txtsize
+WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
+Mtauuoiotsoo:::txtsize --> DibsrhoanTbo:::txtsize
+Mtauuoiotsoo:::txtsize --> TttCosneetsd:::txtsize
 
-Urogmdiiuhnio@{ shape: win-pane, label: "_Published Oct 23, 2025, 07:25 AM_
-University of virginia makes deal with white house to halt investigations" }
-Hrdnlnyinnar@{ shape: win-pane, label: "_Published Oct 17, 2025, 03:05 AM_
-Harvard’s endowment swells to nearly $74 billion; donations hit a record" }
-TaiteHruertdaeseo@{ shape: win-pane, label: "_Published Aug 01, 2025, 04:14 AM_
-Trump administration refers harvard to justice department to address anti-semitism allegations" }
-BUrmawhtseei@{ shape: win-pane, label: "_Published Jul 31, 2025, 08:05 AM_
-Brown university makes a deal with the white house to restore funding" }
-WHsfftnssrme@{ shape: win-pane, label: "_Published Jul 26, 2025, 07:39 AM_
-White house seeks fines from other universities after columbia deal" }
-BUrrtiuasaat@{ shape: win-pane, label: "_Published Oct 16, 2025, 07:00 AM_
-Brown university rejects a white house deal for special treatment" }
-TosoeftugrtM@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:00 AM_
-Trump offers all colleges preferential funding plan rejected by mit" }
-BbetnssugtsT@{ shape: win-pane, label: "_Published Aug 05, 2025, 08:59 AM_
-Badly bruised elite us universities are rushing to cut deals with trump" }
+Blat@{ shape: win-pane, label: "_Published Oct 23, 2025, 09:15 AM_
+Bird flu is back in the us" }
+Ferlnsrsdu@{ shape: win-pane, label: "_Published Oct 22, 2025, 03:31 AM_
+France orders poultry indoors as bird flu spreads in europe" }
+Isihtsefsoss@{ shape: win-pane, label: "_Published Aug 30, 2025, 04:07 PM_
+India’s delhi zoo shut after positive bird flu tests from two storks" }
+Gitvhrircseot@{ shape: win-pane, label: "_Published May 20, 2025, 04:09 AM_
+Genetic test to reveal whether brazil’s bird flu case is linked to zoo deaths" }
+Ucoalugoafc@{ shape: win-pane, label: "_Published May 29, 2025, 06:44 AM_
+Us cancels more than $900 million funding for moderna bird flu vaccine" }
+Blbboaaaet@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:25 AM_
+Bird flu may be airborne on us dairy farms, say scientists" }
+Bleprnewiir@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:10 AM_
+Bird flu wiped out poultry, and now the screw worm is coming for beef" }
+SdfronitSy@{ shape: win-pane, label: "_Published Feb 06, 2025, 05:33 AM_
+Second bird flu strain found in us dairy cattle, usda says" }
+Blbboaaaet@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:25 AM_
+Bird flu may be airborne on us dairy farms, say scientists" }
+Bleprnewiir@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:10 AM_
+Bird flu wiped out poultry, and now the screw worm is coming for beef" }
+Mogcessrougerw@{ shape: win-pane, label: "_Published May 14, 2025, 12:12 AM_
+Mexico to tighten cattle flows from south, rules out shutting border over screwworm" }
+SesMothnem@{ shape: win-pane, label: "_Published Jul 11, 2025, 09:53 PM_
+Sniffer dogs help mexico fight flesh-eating screwworm" }
+SdfronitSy@{ shape: win-pane, label: "_Published Feb 06, 2025, 05:33 AM_
+Second bird flu strain found in us dairy cattle, usda says" }
+EoentUtnteih@{ shape: win-pane, label: "_Published Feb 04, 2025, 11:37 PM_
+Egg shortages are now hitting us restaurants, with no relief in sight" }
+Knyiurhuiea@{ shape: win-pane, label: "_Published Jan 28, 2025, 12:10 PM_
+Keeping an eye on bird flu outbreak that could quickly escalate" }
 
-Urogmdiiuhnio:::txtsize --> Hrdnlnyinnar:::txtsize
-Hrdnlnyinnar:::txtsize --> TaiteHruertdaeseo:::txtsize
-TaiteHruertdaeseo:::txtsize --> BUrmawhtseei:::txtsize
-TaiteHruertdaeseo:::txtsize --> WHsfftnssrme:::txtsize
-Hrdnlnyinnar:::txtsize --> BUrrtiuasaat:::txtsize
-BUrrtiuasaat:::txtsize --> TosoeftugrtM:::txtsize
-BUrrtiuasaat:::txtsize --> BbetnssugtsT:::txtsize
+Blat:::txtsize --> Ferlnsrsdu:::txtsize
+Ferlnsrsdu:::txtsize --> Isihtsefsoss:::txtsize
+Isihtsefsoss:::txtsize --> Gitvhrircseot:::txtsize
+Isihtsefsoss:::txtsize --> Ucoalugoafc:::txtsize
+Ferlnsrsdu:::txtsize --> Blbboaaaet:::txtsize
+Blbboaaaet:::txtsize --> Bleprnewiir:::txtsize
+Blbboaaaet:::txtsize --> SdfronitSy:::txtsize
+Blat:::txtsize --> Blbboaaaet:::txtsize
+Blbboaaaet:::txtsize --> Bleprnewiir:::txtsize
+Bleprnewiir:::txtsize --> Mogcessrougerw:::txtsize
+Bleprnewiir:::txtsize --> SesMothnem:::txtsize
+Blbboaaaet:::txtsize --> SdfronitSy:::txtsize
+SdfronitSy:::txtsize --> EoentUtnteih:::txtsize
+SdfronitSy:::txtsize --> Knyiurhuiea:::txtsize
 
 ```
-<i>Last updated: 2025-10-23 08:00:49.606965 (GMT+8)</i>
+<i>Last updated: 2025-10-23 12:01:14.740790 (GMT+8)</i>
 <!-- END -->
