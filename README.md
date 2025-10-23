@@ -16,108 +16,99 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Misaiaptiy@{ shape: win-pane, label: "_Published Oct 23, 2025, 03:50 PM_
-Musk hijacks tesla earnings call to pitch $1.3 trillion pay plan" }
-Tpscfokctti@{ shape: win-pane, label: "_Published Sep 05, 2025, 10:35 PM_
-Tesla proposes package for elon musk that could top us$1 trillion" }
-TscpneusVe@{ shape: win-pane, label: "_Published Sep 04, 2025, 09:53 AM_
-Tesla sales collapse continues in europe’s top ev markets" }
-Csmssjcorpw@{ shape: win-pane, label: "_Published Aug 28, 2025, 09:27 AM_
-Chinese carmakers resist beijing’s call to end brutal price war" }
-GnrtanpgMut@{ shape: win-pane, label: "_Published Feb 16, 2025, 11:59 AM_
-Germany’s far-right afd basks in the spotlight of musk support" }
-Eucrtanasrie@{ shape: win-pane, label: "_Published Dec 28, 2024, 10:10 PM_
-Elon musk backs far-right afd party in german newspaper opinion piece" }
-Maamleexin@{ shape: win-pane, label: "_Published Jan 22, 2025, 07:34 AM_
-Musk salute at trump rally celebrated by extremists online" }
-Tsibeerebhsdnct@{ shape: win-pane, label: "_Published Oct 23, 2025, 09:13 AM_
-Tesla’s profit tumbles despite record sales, hit by higher costs and fading tax credits" }
-Tssaesprdtvlie@{ shape: win-pane, label: "_Published Oct 03, 2025, 08:26 AM_
-Tesla shares fall as investors look past a record quarter of vehicle deliveries" }
-Sdardrilstiraae@{ shape: win-pane, label: "_Published Sep 12, 2025, 10:35 PM_
-Should tesla’s shareholders green-light elon musk’s us$1 trillion performance package?" }
-Eultowstlir@{ shape: win-pane, label: "_Published Oct 02, 2025, 12:00 PM_
-Elon musk halfway to becoming world’s first trillionaire: forbes" }
+Dnirnelpen@{ shape: win-pane, label: "_Published Oct 23, 2025, 07:15 PM_
+Dublin anti-immigration protests flare up for second night" }
+Amaoerinbfoitd@{ shape: win-pane, label: "_Published Oct 22, 2025, 04:41 AM_
+Anti-immigrant protesters burn police van in dublin after young girl attacked" }
+GncrliahsguA@{ shape: win-pane, label: "_Published Oct 21, 2025, 04:39 PM_
+German chancellor merz leans into far-right messaging to counter afd" }
+Fgtsoaaarnr@{ shape: win-pane, label: "_Published Feb 17, 2025, 05:00 AM_
+Far-right extremism: no longer a threat far away from singapore" }
+Crvamenaahg@{ shape: win-pane, label: "_Published Feb 16, 2025, 02:59 PM_
+Conservatives lead german election race amid far-right surge" }
+Aafgtriwonuii@{ shape: win-pane, label: "_Published Oct 19, 2025, 08:40 PM_
+Australia’s far-right on the march amid growing concerns about immigration" }
+Tanrmasiivensy@{ shape: win-pane, label: "_Published Aug 31, 2025, 11:08 AM_
+Thousands in australia march against immigration, government condemns rally" }
+Tanrmasiivensy@{ shape: win-pane, label: "_Published Aug 31, 2025, 11:08 AM_
+Thousands in australia march against immigration, government condemns rally" }
 
-Misaiaptiy:::txtsize --> Tpscfokctti:::txtsize
-Tpscfokctti:::txtsize --> TscpneusVe:::txtsize
-TscpneusVe:::txtsize --> Csmssjcorpw:::txtsize
-Tpscfokctti:::txtsize --> GnrtanpgMut:::txtsize
-GnrtanpgMut:::txtsize --> Eucrtanasrie:::txtsize
-GnrtanpgMut:::txtsize --> Maamleexin:::txtsize
-Misaiaptiy:::txtsize --> Tsibeerebhsdnct:::txtsize
-Tsibeerebhsdnct:::txtsize --> Tssaesprdtvlie:::txtsize
-Tssaesprdtvlie:::txtsize --> Sdardrilstiraae:::txtsize
-Tssaesprdtvlie:::txtsize --> Eultowstlir:::txtsize
+Dnirnelpen:::txtsize --> Amaoerinbfoitd:::txtsize
+Amaoerinbfoitd:::txtsize --> GncrliahsguA:::txtsize
+GncrliahsguA:::txtsize --> Fgtsoaaarnr:::txtsize
+GncrliahsguA:::txtsize --> Crvamenaahg:::txtsize
+Amaoerinbfoitd:::txtsize --> Aafgtriwonuii:::txtsize
+Aafgtriwonuii:::txtsize --> Tanrmasiivensy:::txtsize
+Aafgtriwonuii:::txtsize --> Tanrmasiivensy:::txtsize
 
-MnttnBiunlt@{ shape: win-pane, label: "_Published Oct 23, 2025, 03:45 PM_
-Migrant sent back to france by britain returns on a small boat" }
-UaaaMneengdr@{ shape: win-pane, label: "_Published Jul 10, 2025, 12:37 AM_
-Uk’s starmer and france’s macron agree on need for new migrant deterrent" }
-MnsdSerm@{ shape: win-pane, label: "_Published Jul 06, 2025, 11:55 AM_
-Migrants cast shadow on starmer-macron summit" }
-Bikhoiheer@{ shape: win-pane, label: "_Published May 15, 2025, 09:17 PM_
-Britain seeking third countries to host deported migrants" }
-Uptevuocarn@{ shape: win-pane, label: "_Published May 11, 2025, 01:00 PM_
-Uk proposes tightening visa rules to reduce legal migration" }
-BiFeepnUCwMn@{ shape: win-pane, label: "_Published Jul 09, 2025, 02:38 AM_
-Britain and france must end dependency on us and china, warns macron" }
-Khssccntptione@{ shape: win-pane, label: "_Published Jul 08, 2025, 11:22 PM_
-King charles hosts france’s macron in first european state visit to uk since brexit" }
-Khssccntptione@{ shape: win-pane, label: "_Published Jul 08, 2025, 11:22 PM_
-King charles hosts france’s macron in first european state visit to uk since brexit" }
+Utrdetliehwg@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:31 PM_
+Us states warn food aid benefits will halt if federal shutdown drags on" }
+Tciundsinoiei@{ shape: win-pane, label: "_Published Mar 25, 2025, 06:33 PM_
+Trump cuts hit struggling food banks, risking hunger for low-income americans" }
+Hiacoaoine@{ shape: win-pane, label: "_Published Mar 25, 2025, 10:45 AM_
+Humanitarian aid cuts could cause more children to die: un" }
+Taitahnetidr@{ shape: win-pane, label: "_Published Feb 27, 2025, 09:53 AM_
+Trump administration says it has cancelled most foreign aid contracts" }
+Uoirueyhmpeicnheov@{ shape: win-pane, label: "_Published Mar 03, 2025, 11:35 AM_
+Usaid official warns of unnecessary deaths from trump's foreign aid block, then says he's been put on leave" }
+Waswhomhw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:42 PM_
+What happens next with the us government shutdown?" }
+TsSrtpbun@{ shape: win-pane, label: "_Published Oct 01, 2025, 01:49 AM_
+Trump says us government will ‘probably’ shut down" }
+Ugbttoaphesd@{ shape: win-pane, label: "_Published Sep 29, 2025, 08:35 AM_
+Us congress budget negotiations: what happens when the govt shuts down?" }
+VsSesotewea@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:58 AM_
+Vance says us ‘headed to a shutdown’ after meeting with democrats" }
+Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
+Us government begins shutdown that may lead to mass layoffs and cuts" }
+TsSrtpbun@{ shape: win-pane, label: "_Published Oct 01, 2025, 01:49 AM_
+Trump says us government will ‘probably’ shut down" }
 
-MnttnBiunlt:::txtsize --> UaaaMneengdr:::txtsize
-UaaaMneengdr:::txtsize --> MnsdSerm:::txtsize
-MnsdSerm:::txtsize --> Bikhoiheer:::txtsize
-MnsdSerm:::txtsize --> Uptevuocarn:::txtsize
-UaaaMneengdr:::txtsize --> BiFeepnUCwMn:::txtsize
-BiFeepnUCwMn:::txtsize --> Khssccntptione:::txtsize
-BiFeepnUCwMn:::txtsize --> Khssccntptione:::txtsize
+Utrdetliehwg:::txtsize --> Tciundsinoiei:::txtsize
+Tciundsinoiei:::txtsize --> Hiacoaoine:::txtsize
+Hiacoaoine:::txtsize --> Taitahnetidr:::txtsize
+Hiacoaoine:::txtsize --> Uoirueyhmpeicnheov:::txtsize
+Utrdetliehwg:::txtsize --> Waswhomhw:::txtsize
+Waswhomhw:::txtsize --> TsSrtpbun:::txtsize
+TsSrtpbun:::txtsize --> Ugbttoaphesd:::txtsize
+TsSrtpbun:::txtsize --> VsSesotewea:::txtsize
+Waswhomhw:::txtsize --> Ueniunmaayat:::txtsize
+Ueniunmaayat:::txtsize --> TsSrtpbun:::txtsize
 
-UcintaaegrGl@{ shape: win-pane, label: "_Published Oct 23, 2025, 03:35 PM_
-Us’ marco rubio warns west bank annexation endangers trump’s gaza plan" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Mmenwniuaa@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:36 AM_
-Muslim states join eu powers in backing trump’s gaza plan" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Mmenwniuaa@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:36 AM_
-Muslim states join eu powers in backing trump’s gaza plan" }
-Illnetocetaa@{ shape: win-pane, label: "_Published Oct 22, 2025, 09:32 PM_
-Israel’s parliament gives initial nod to occupied west bank annexation" }
-ToTvswoet@{ shape: win-pane, label: "_Published Sep 26, 2025, 06:02 AM_
-‘time to stop’: trump vows israel will not annex west bank" }
-Rnnlntfnirmea@{ shape: win-pane, label: "_Published Sep 23, 2025, 04:52 PM_
-Recognition of palestinian state offers no relief for traumatised gazans" }
-UuwdlisrnsBos@{ shape: win-pane, label: "_Published Sep 18, 2025, 06:10 PM_
-Uae could downgrade diplomatic ties if israel annexes west bank, sources say" }
-WrAao@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:46 PM_
-What are the abraham accords?" }
-Ilemahmaroais@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:27 PM_
-Israel targets hamas leadership in military strikes on qatar, officials say" }
+MiAchrsgrwrnaheP@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:30 PM_
+Majority of americans think trump is using federal law enforcement to target his enemies: poll" }
+EcCpsuiepe@{ shape: win-pane, label: "_Published Oct 08, 2025, 11:53 PM_
+Ex-fbi chief comey pleads not guilty in case trump pushed for" }
+Ierdsiupcao@{ shape: win-pane, label: "_Published Sep 28, 2025, 07:54 AM_
+Inside the trump administration’s push to prosecute james comey" }
+Frhorahdurcc@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:10 AM_
+Former fbi chief comey criminally charged as trump targets critics" }
+TpcgJcanhhe@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:36 AM_
+Trump publicly urges us justice department to charge his enemies" }
+Citearcicoisgp@{ shape: win-pane, label: "_Published Sep 27, 2025, 04:47 AM_
+Comey indictment escalates trump’s campaign to chill opposition, say legal experts" }
+Frhorahdurcc@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:10 AM_
+Former fbi chief comey criminally charged as trump targets critics" }
+Utemugwhsnuonncys@{ shape: win-pane, label: "_Published Sep 26, 2025, 05:58 AM_
+Us justice department pushing for swift charges against trump’s former national security adviser" }
+TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
+Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
+VsaKsirayce@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:59 AM_
+Videos of charlie kirk’s shooting spread rapidly on social media" }
+TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
+Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
 
-UcintaaegrGl:::txtsize --> AtHfezerydatoGel:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-Tseaupoabmrnluo:::txtsize --> AtHfezerydatoGel:::txtsize
-Tseaupoabmrnluo:::txtsize --> Mmenwniuaa:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-Tseaupoabmrnluo:::txtsize --> AtHfezerydatoGel:::txtsize
-Tseaupoabmrnluo:::txtsize --> Mmenwniuaa:::txtsize
-UcintaaegrGl:::txtsize --> Illnetocetaa:::txtsize
-Illnetocetaa:::txtsize --> ToTvswoet:::txtsize
-ToTvswoet:::txtsize --> Rnnlntfnirmea:::txtsize
-Illnetocetaa:::txtsize --> UuwdlisrnsBos:::txtsize
-UuwdlisrnsBos:::txtsize --> WrAao:::txtsize
-UuwdlisrnsBos:::txtsize --> Ilemahmaroais:::txtsize
+MiAchrsgrwrnaheP:::txtsize --> EcCpsuiepe:::txtsize
+EcCpsuiepe:::txtsize --> Ierdsiupcao:::txtsize
+Ierdsiupcao:::txtsize --> Frhorahdurcc:::txtsize
+Ierdsiupcao:::txtsize --> TpcgJcanhhe:::txtsize
+EcCpsuiepe:::txtsize --> Citearcicoisgp:::txtsize
+Citearcicoisgp:::txtsize --> Frhorahdurcc:::txtsize
+Citearcicoisgp:::txtsize --> Utemugwhsnuonncys:::txtsize
+MiAchrsgrwrnaheP:::txtsize --> TahesegnipdoUstt:::txtsize
+TahesegnipdoUstt:::txtsize --> VsaKsirayce:::txtsize
+VsaKsirayce:::txtsize --> TahesegnipdoUstt:::txtsize
 
 ```
-<i>Last updated: 2025-10-23 16:00:32.171976 (GMT+8)</i>
+<i>Last updated: 2025-10-23 20:00:51.960270 (GMT+8)</i>
 <!-- END -->
