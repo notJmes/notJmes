@@ -16,138 +16,141 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-TpnvdnuZhoa@{ shape: win-pane, label: "_Published Oct 23, 2025, 11:38 PM_
-Trump pardons convicted binance founder zhao, white house says" }
-Ukoalryxgaoa@{ shape: win-pane, label: "_Published Nov 21, 2023, 08:45 AM_
-Us seeking more than $5.3 billion from crypto exchange binance to end case" }
-WBcliang@{ shape: win-pane, label: "_Published Jun 06, 2023, 07:37 AM_
-Who is binance billionaire zhao changpeng?" }
-Usnddarfp@{ shape: win-pane, label: "_Published Jun 06, 2023, 02:25 AM_
-Us sues binance and founder zhao over 'web of deception'" }
-CotnOicebigol@{ shape: win-pane, label: "_Published Mar 28, 2023, 07:21 AM_
-Crypto giant binance, ceo hit with us charges for breaking regulatory rules" }
-Coaietcfbnttli@{ shape: win-pane, label: "_Published Jun 09, 2023, 11:02 AM_
-Crypto exchange binance.us set to be cut off from banking system after us lawsuit" }
-Uurseiesntued@{ shape: win-pane, label: "_Published Jun 07, 2023, 07:10 AM_
-Us regulator seeks to freeze binance.us assets and protect customer funds" }
-Usgtbesecok@{ shape: win-pane, label: "_Published Jun 07, 2023, 07:29 AM_
-Us lawsuit against coinbase heralds deepening crypto crackdown" }
-CohaosrnLnamf@{ shape: win-pane, label: "_Published Jan 24, 2025, 06:54 AM_
-Crypto’s richest man, out of prison, turns binance labs into giant family office" }
-BcnhanstnmfeeUs@{ shape: win-pane, label: "_Published Sep 30, 2024, 11:10 AM_
-Binance founder zhao changpeng vows more tech investment after release from us prison" }
-Bcnhneonno@{ shape: win-pane, label: "_Published May 01, 2024, 03:06 AM_
-Binance founder zhao sentenced to four months in prison" }
-Ukoalryxgaoa@{ shape: win-pane, label: "_Published Nov 21, 2023, 08:45 AM_
-Us seeking more than $5.3 billion from crypto exchange binance to end case" }
-Feanfrhanbo@{ shape: win-pane, label: "_Published Nov 12, 2024, 07:42 AM_
-Ftx sues binance and its former ceo zhao changpeng for $2.4 billion" }
-BcnhanstnmfeeUs@{ shape: win-pane, label: "_Published Sep 30, 2024, 11:10 AM_
-Binance founder zhao changpeng vows more tech investment after release from us prison" }
+Edednnig@{ shape: win-pane, label: "_Published Oct 24, 2025, 02:55 AM_
+Eu leaders set conditions for new climate goal" }
+Ctpoaiostwhf@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:09 AM_
+Climate tipping points are being crossed, scientists warn ahead of cop30" }
+Rlfriyitnnet@{ shape: win-pane, label: "_Published Aug 20, 2025, 11:17 PM_
+Rapid loss of antarctic ice may be climate tipping point, scientists say" }
+DhlTyirvfnryrs@{ shape: win-pane, label: "_Published Aug 19, 2025, 03:36 PM_
+Drought depletes turkey’s tekirdag reservoirs, forcing emergency water curbs" }
+NruSpeotegon@{ shape: win-pane, label: "_Published Aug 16, 2025, 05:00 AM_
+Nowhere to run: why singapore needs to start protecting its coasts now" }
+Smhotanrmor@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:31 AM_
+September third-hottest globally on record: climate monitor" }
+Hogomfhtd@{ shape: win-pane, label: "_Published Oct 08, 2025, 10:05 PM_
+Hong kong logs record number of ‘very hot’ october days" }
+SmatnraOw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:55 PM_
+September was hottest on record in japan’s okinawa" }
+HpscroepCist@{ shape: win-pane, label: "_Published Oct 03, 2025, 10:50 PM_
+Hotel prices make countries consider skipping cop30 climate summit" }
+Sutatsraoe@{ shape: win-pane, label: "_Published Sep 05, 2025, 11:00 AM_
+‘sleep under the stars’: hotel mess in brazil ahead of un meet" }
+BlhflhsdeOma@{ shape: win-pane, label: "_Published Aug 23, 2025, 07:12 AM_
+Brazil brushes off un call for hotel subsidy in tense cop30 climate talks" }
+UhmasuCItmectn@{ shape: win-pane, label: "_Published Sep 03, 2025, 07:30 PM_
+Un pushes eu, many nations including china, india to submit overdue climate plans" }
+OftholnCcttvr@{ shape: win-pane, label: "_Published Sep 18, 2025, 03:10 AM_
+Only 40% of countries have booked lodging for cop30 un climate meet in november" }
+Sutatsraoe@{ shape: win-pane, label: "_Published Sep 05, 2025, 11:00 AM_
+‘sleep under the stars’: hotel mess in brazil ahead of un meet" }
+BlhflhsdeOma@{ shape: win-pane, label: "_Published Aug 23, 2025, 07:12 AM_
+Brazil brushes off un call for hotel subsidy in tense cop30 climate talks" }
 
-TpnvdnuZhoa:::txtsize --> Ukoalryxgaoa:::txtsize
-Ukoalryxgaoa:::txtsize --> WBcliang:::txtsize
-WBcliang:::txtsize --> Usnddarfp:::txtsize
-WBcliang:::txtsize --> CotnOicebigol:::txtsize
-Ukoalryxgaoa:::txtsize --> Coaietcfbnttli:::txtsize
-Coaietcfbnttli:::txtsize --> Uurseiesntued:::txtsize
-Coaietcfbnttli:::txtsize --> Usgtbesecok:::txtsize
-TpnvdnuZhoa:::txtsize --> CohaosrnLnamf:::txtsize
-CohaosrnLnamf:::txtsize --> BcnhanstnmfeeUs:::txtsize
-BcnhanstnmfeeUs:::txtsize --> Bcnhneonno:::txtsize
-BcnhanstnmfeeUs:::txtsize --> Ukoalryxgaoa:::txtsize
-CohaosrnLnamf:::txtsize --> Feanfrhanbo:::txtsize
-Feanfrhanbo:::txtsize --> BcnhanstnmfeeUs:::txtsize
+Edednnig:::txtsize --> Ctpoaiostwhf:::txtsize
+Ctpoaiostwhf:::txtsize --> Rlfriyitnnet:::txtsize
+Rlfriyitnnet:::txtsize --> DhlTyirvfnryrs:::txtsize
+Rlfriyitnnet:::txtsize --> NruSpeotegon:::txtsize
+Ctpoaiostwhf:::txtsize --> Smhotanrmor:::txtsize
+Smhotanrmor:::txtsize --> Hogomfhtd:::txtsize
+Smhotanrmor:::txtsize --> SmatnraOw:::txtsize
+Edednnig:::txtsize --> HpscroepCist:::txtsize
+HpscroepCist:::txtsize --> Sutatsraoe:::txtsize
+Sutatsraoe:::txtsize --> BlhflhsdeOma:::txtsize
+Sutatsraoe:::txtsize --> UhmasuCItmectn:::txtsize
+HpscroepCist:::txtsize --> OftholnCcttvr:::txtsize
+OftholnCcttvr:::txtsize --> Sutatsraoe:::txtsize
+OftholnCcttvr:::txtsize --> BlhflhsdeOma:::txtsize
 
-NunzgnuO@{ shape: win-pane, label: "_Published Oct 23, 2025, 11:19 PM_
-No reduction in gaza hunger since truce: who" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Mmenwniuaa@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:36 AM_
-Muslim states join eu powers in backing trump’s gaza plan" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Mmenwniuaa@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:36 AM_
-Muslim states join eu powers in backing trump’s gaza plan" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
-Singapore strongly condemns terror attacks on israel, calls for end to violence" }
+Tsmartftretbti@{ shape: win-pane, label: "_Published Oct 24, 2025, 01:56 AM_
+Two russian military aircraft briefly enter airspace of nato member lithuania" }
+Rasrnicatoo@{ shape: win-pane, label: "_Published Sep 19, 2025, 11:15 PM_
+Russian jets enter estonia’s airspace in latest test for nato" }
+PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
+Poland shoots down drones, the first nato member to open fire during ukraine war" }
+Gnarwerr@{ shape: win-pane, label: "_Published Sep 10, 2025, 01:08 AM_
+Germany to back ukraine with ‘deep-strike’ drones" }
+Raidnocralpd@{ shape: win-pane, label: "_Published Sep 09, 2025, 11:36 PM_
+Russia’s putin ready to invade other countries, says poland’s president" }
+PdmjlLnopnve@{ shape: win-pane, label: "_Published Sep 14, 2025, 12:05 AM_
+Poland scrambles jets, closes lublin airport in ‘preventative’ move" }
+PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
+Poland shoots down drones, the first nato member to open fire during ukraine war" }
+PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
+Poland shoots down drones, the first nato member to open fire during ukraine war" }
+Gnarwerr@{ shape: win-pane, label: "_Published Sep 10, 2025, 01:08 AM_
+Germany to back ukraine with ‘deep-strike’ drones" }
+Raserkcioten@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:37 PM_
+Russian air strike in ukraine kills 23 civilians collecting pensions" }
+Raidnocralpd@{ shape: win-pane, label: "_Published Sep 09, 2025, 11:36 PM_
+Russia’s putin ready to invade other countries, says poland’s president" }
+Raidnocralpd@{ shape: win-pane, label: "_Published Sep 09, 2025, 11:36 PM_
+Russia’s putin ready to invade other countries, says poland’s president" }
+RaUnhercasrtdb@{ shape: win-pane, label: "_Published Sep 07, 2025, 10:16 AM_
+Russia hits ukraine with biggest air attack of war, sets government building ablaze" }
+TwmlNcWHwyke@{ shape: win-pane, label: "_Published Sep 03, 2025, 11:50 PM_
+Trump welcomes poland’s nawrocki to white house with eye on ukraine" }
 
-NunzgnuO:::txtsize --> AtHfezerydatoGel:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-Tseaupoabmrnluo:::txtsize --> AtHfezerydatoGel:::txtsize
-Tseaupoabmrnluo:::txtsize --> Mmenwniuaa:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-Tseaupoabmrnluo:::txtsize --> AtHfezerydatoGel:::txtsize
-Tseaupoabmrnluo:::txtsize --> Mmenwniuaa:::txtsize
-NunzgnuO:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-WzptIleint:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
-Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
+Tsmartftretbti:::txtsize --> Rasrnicatoo:::txtsize
+Rasrnicatoo:::txtsize --> PdtnefNetndgir:::txtsize
+PdtnefNetndgir:::txtsize --> Gnarwerr:::txtsize
+PdtnefNetndgir:::txtsize --> Raidnocralpd:::txtsize
+Rasrnicatoo:::txtsize --> PdmjlLnopnve:::txtsize
+PdmjlLnopnve:::txtsize --> PdtnefNetndgir:::txtsize
+Tsmartftretbti:::txtsize --> PdtnefNetndgir:::txtsize
+PdtnefNetndgir:::txtsize --> Gnarwerr:::txtsize
+Gnarwerr:::txtsize --> Raserkcioten:::txtsize
+Gnarwerr:::txtsize --> Raidnocralpd:::txtsize
+PdtnefNetndgir:::txtsize --> Raidnocralpd:::txtsize
+Raidnocralpd:::txtsize --> RaUnhercasrtdb:::txtsize
+Raidnocralpd:::txtsize --> TwmlNcWHwyke:::txtsize
 
-TsepSoIlxsk@{ shape: win-pane, label: "_Published Oct 23, 2025, 11:18 PM_
-Trump says he will pull us support if israel annexes west bank" }
-WrAao@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:46 PM_
-What are the abraham accords?" }
-Ilemahmaroais@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:27 PM_
-Israel targets hamas leadership in military strikes on qatar, officials say" }
-Ilssreana@{ shape: win-pane, label: "_Published Sep 08, 2025, 04:31 PM_
-Israel warns hamas to surrender or face ‘annihilation’" }
-Lnthlareseeis@{ shape: win-pane, label: "_Published Sep 09, 2025, 02:18 AM_
-‘leave now’, netanyahu tells gaza city residents as israel intensifies assault" }
-Hmdulnrecsud@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:15 PM_
-How hamas’ audacious, well-planned surprise attack on israel unfolded" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Tbsuntccfbo@{ shape: win-pane, label: "_Published Oct 23, 2025, 05:52 PM_
-Trump bypasses shutdown fight to focus on ceasefires, ballroom" }
-Waswhomhw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:42 PM_
-What happens next with the us government shutdown?" }
-TsSrtpbun@{ shape: win-pane, label: "_Published Oct 01, 2025, 01:49 AM_
-Trump says us government will ‘probably’ shut down" }
-Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
-Us government begins shutdown that may lead to mass layoffs and cuts" }
-Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
-‘music to my ears’: trump brushes off critics of white house demolition" }
-DibsrhoanTbo@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:35 AM_
-Demolition begins on part of white house east wing for trump ballroom" }
-TttCosneetsd@{ shape: win-pane, label: "_Published Sep 04, 2025, 10:43 AM_
-Trump to host tech ceos for first event in newly renovated rose garden" }
+Rebdikadsipetdul@{ shape: win-pane, label: "_Published Oct 24, 2025, 12:34 AM_
+Ringleader behind russia-linked uk arson discussed kidnapping revolut founder, court told" }
+TmifstninusrdsWrp@{ shape: win-pane, label: "_Published Jul 08, 2025, 09:12 PM_
+Three men guilty of uk arson attack on ukraine-linked businesses ordered by russia’s wagner group" }
+BrccnabRaekoefi@{ shape: win-pane, label: "_Published Mar 07, 2025, 11:11 PM_
+Bulgarians convicted in britain of being russian spies working for wirecard fugitive" }
+Brsoasnritoe@{ shape: win-pane, label: "_Published Nov 29, 2024, 12:28 AM_
+Bulgarians spied on us base, dissidents for russia, british court hears" }
+UFsrserirend@{ shape: win-pane, label: "_Published Nov 26, 2024, 11:03 PM_
+Us air force says drones spotted over its military bases in england" }
+BrccnabRaekoefi@{ shape: win-pane, label: "_Published Mar 07, 2025, 11:11 PM_
+Bulgarians convicted in britain of being russian spies working for wirecard fugitive" }
+Brsoasnritoe@{ shape: win-pane, label: "_Published Nov 29, 2024, 12:28 AM_
+Bulgarians spied on us base, dissidents for russia, british court hears" }
+UFsrserirend@{ shape: win-pane, label: "_Published Nov 26, 2024, 11:03 PM_
+Us air force says drones spotted over its military bases in england" }
+BrccnabRaekoefi@{ shape: win-pane, label: "_Published Mar 07, 2025, 11:11 PM_
+Bulgarians convicted in britain of being russian spies working for wirecard fugitive" }
+Brsoasnritoe@{ shape: win-pane, label: "_Published Nov 29, 2024, 12:28 AM_
+Bulgarians spied on us base, dissidents for russia, british court hears" }
+UFsrserirend@{ shape: win-pane, label: "_Published Nov 26, 2024, 11:03 PM_
+Us air force says drones spotted over its military bases in england" }
+GnpRadbelys@{ shape: win-pane, label: "_Published Aug 14, 2024, 10:03 PM_
+Germany suspects russian hand in sabotage at military bases" }
+UFsrserirend@{ shape: win-pane, label: "_Published Nov 26, 2024, 11:03 PM_
+Us air force says drones spotted over its military bases in england" }
+Nierrsreuoir@{ shape: win-pane, label: "_Published Aug 23, 2024, 06:02 AM_
+Nato air base in germany raises security level due to ‘potential threat’" }
+GnpRadbelys@{ shape: win-pane, label: "_Published Aug 14, 2024, 10:03 PM_
+Germany suspects russian hand in sabotage at military bases" }
 
-TsepSoIlxsk:::txtsize --> WrAao:::txtsize
-WrAao:::txtsize --> Ilemahmaroais:::txtsize
-Ilemahmaroais:::txtsize --> Ilssreana:::txtsize
-Ilemahmaroais:::txtsize --> Lnthlareseeis:::txtsize
-WrAao:::txtsize --> Hmdulnrecsud:::txtsize
-Hmdulnrecsud:::txtsize --> NyeeawHakl:::txtsize
-Hmdulnrecsud:::txtsize --> NyeeawHakl:::txtsize
-TsepSoIlxsk:::txtsize --> Tbsuntccfbo:::txtsize
-Tbsuntccfbo:::txtsize --> Waswhomhw:::txtsize
-Waswhomhw:::txtsize --> TsSrtpbun:::txtsize
-Waswhomhw:::txtsize --> Ueniunmaayat:::txtsize
-Tbsuntccfbo:::txtsize --> Mtauuoiotsoo:::txtsize
-Mtauuoiotsoo:::txtsize --> DibsrhoanTbo:::txtsize
-Mtauuoiotsoo:::txtsize --> TttCosneetsd:::txtsize
+Rebdikadsipetdul:::txtsize --> TmifstninusrdsWrp:::txtsize
+TmifstninusrdsWrp:::txtsize --> BrccnabRaekoefi:::txtsize
+BrccnabRaekoefi:::txtsize --> Brsoasnritoe:::txtsize
+BrccnabRaekoefi:::txtsize --> UFsrserirend:::txtsize
+TmifstninusrdsWrp:::txtsize --> BrccnabRaekoefi:::txtsize
+BrccnabRaekoefi:::txtsize --> Brsoasnritoe:::txtsize
+BrccnabRaekoefi:::txtsize --> UFsrserirend:::txtsize
+Rebdikadsipetdul:::txtsize --> BrccnabRaekoefi:::txtsize
+BrccnabRaekoefi:::txtsize --> Brsoasnritoe:::txtsize
+Brsoasnritoe:::txtsize --> UFsrserirend:::txtsize
+Brsoasnritoe:::txtsize --> GnpRadbelys:::txtsize
+BrccnabRaekoefi:::txtsize --> UFsrserirend:::txtsize
+UFsrserirend:::txtsize --> Nierrsreuoir:::txtsize
+UFsrserirend:::txtsize --> GnpRadbelys:::txtsize
 
 ```
-<i>Last updated: 2025-10-24 00:00:15.508682 (GMT+8)</i>
+<i>Last updated: 2025-10-24 04:00:36.050921 (GMT+8)</i>
 <!-- END -->
