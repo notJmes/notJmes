@@ -16,99 +16,138 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Dnirnelpen@{ shape: win-pane, label: "_Published Oct 23, 2025, 07:15 PM_
-Dublin anti-immigration protests flare up for second night" }
-Amaoerinbfoitd@{ shape: win-pane, label: "_Published Oct 22, 2025, 04:41 AM_
-Anti-immigrant protesters burn police van in dublin after young girl attacked" }
-GncrliahsguA@{ shape: win-pane, label: "_Published Oct 21, 2025, 04:39 PM_
-German chancellor merz leans into far-right messaging to counter afd" }
-Fgtsoaaarnr@{ shape: win-pane, label: "_Published Feb 17, 2025, 05:00 AM_
-Far-right extremism: no longer a threat far away from singapore" }
-Crvamenaahg@{ shape: win-pane, label: "_Published Feb 16, 2025, 02:59 PM_
-Conservatives lead german election race amid far-right surge" }
-Aafgtriwonuii@{ shape: win-pane, label: "_Published Oct 19, 2025, 08:40 PM_
-Australia’s far-right on the march amid growing concerns about immigration" }
-Tanrmasiivensy@{ shape: win-pane, label: "_Published Aug 31, 2025, 11:08 AM_
-Thousands in australia march against immigration, government condemns rally" }
-Tanrmasiivensy@{ shape: win-pane, label: "_Published Aug 31, 2025, 11:08 AM_
-Thousands in australia march against immigration, government condemns rally" }
+TpnvdnuZhoa@{ shape: win-pane, label: "_Published Oct 23, 2025, 11:38 PM_
+Trump pardons convicted binance founder zhao, white house says" }
+Ukoalryxgaoa@{ shape: win-pane, label: "_Published Nov 21, 2023, 08:45 AM_
+Us seeking more than $5.3 billion from crypto exchange binance to end case" }
+WBcliang@{ shape: win-pane, label: "_Published Jun 06, 2023, 07:37 AM_
+Who is binance billionaire zhao changpeng?" }
+Usnddarfp@{ shape: win-pane, label: "_Published Jun 06, 2023, 02:25 AM_
+Us sues binance and founder zhao over 'web of deception'" }
+CotnOicebigol@{ shape: win-pane, label: "_Published Mar 28, 2023, 07:21 AM_
+Crypto giant binance, ceo hit with us charges for breaking regulatory rules" }
+Coaietcfbnttli@{ shape: win-pane, label: "_Published Jun 09, 2023, 11:02 AM_
+Crypto exchange binance.us set to be cut off from banking system after us lawsuit" }
+Uurseiesntued@{ shape: win-pane, label: "_Published Jun 07, 2023, 07:10 AM_
+Us regulator seeks to freeze binance.us assets and protect customer funds" }
+Usgtbesecok@{ shape: win-pane, label: "_Published Jun 07, 2023, 07:29 AM_
+Us lawsuit against coinbase heralds deepening crypto crackdown" }
+CohaosrnLnamf@{ shape: win-pane, label: "_Published Jan 24, 2025, 06:54 AM_
+Crypto’s richest man, out of prison, turns binance labs into giant family office" }
+BcnhanstnmfeeUs@{ shape: win-pane, label: "_Published Sep 30, 2024, 11:10 AM_
+Binance founder zhao changpeng vows more tech investment after release from us prison" }
+Bcnhneonno@{ shape: win-pane, label: "_Published May 01, 2024, 03:06 AM_
+Binance founder zhao sentenced to four months in prison" }
+Ukoalryxgaoa@{ shape: win-pane, label: "_Published Nov 21, 2023, 08:45 AM_
+Us seeking more than $5.3 billion from crypto exchange binance to end case" }
+Feanfrhanbo@{ shape: win-pane, label: "_Published Nov 12, 2024, 07:42 AM_
+Ftx sues binance and its former ceo zhao changpeng for $2.4 billion" }
+BcnhanstnmfeeUs@{ shape: win-pane, label: "_Published Sep 30, 2024, 11:10 AM_
+Binance founder zhao changpeng vows more tech investment after release from us prison" }
 
-Dnirnelpen:::txtsize --> Amaoerinbfoitd:::txtsize
-Amaoerinbfoitd:::txtsize --> GncrliahsguA:::txtsize
-GncrliahsguA:::txtsize --> Fgtsoaaarnr:::txtsize
-GncrliahsguA:::txtsize --> Crvamenaahg:::txtsize
-Amaoerinbfoitd:::txtsize --> Aafgtriwonuii:::txtsize
-Aafgtriwonuii:::txtsize --> Tanrmasiivensy:::txtsize
-Aafgtriwonuii:::txtsize --> Tanrmasiivensy:::txtsize
+TpnvdnuZhoa:::txtsize --> Ukoalryxgaoa:::txtsize
+Ukoalryxgaoa:::txtsize --> WBcliang:::txtsize
+WBcliang:::txtsize --> Usnddarfp:::txtsize
+WBcliang:::txtsize --> CotnOicebigol:::txtsize
+Ukoalryxgaoa:::txtsize --> Coaietcfbnttli:::txtsize
+Coaietcfbnttli:::txtsize --> Uurseiesntued:::txtsize
+Coaietcfbnttli:::txtsize --> Usgtbesecok:::txtsize
+TpnvdnuZhoa:::txtsize --> CohaosrnLnamf:::txtsize
+CohaosrnLnamf:::txtsize --> BcnhanstnmfeeUs:::txtsize
+BcnhanstnmfeeUs:::txtsize --> Bcnhneonno:::txtsize
+BcnhanstnmfeeUs:::txtsize --> Ukoalryxgaoa:::txtsize
+CohaosrnLnamf:::txtsize --> Feanfrhanbo:::txtsize
+Feanfrhanbo:::txtsize --> BcnhanstnmfeeUs:::txtsize
 
-Utrdetliehwg@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:31 PM_
-Us states warn food aid benefits will halt if federal shutdown drags on" }
-Tciundsinoiei@{ shape: win-pane, label: "_Published Mar 25, 2025, 06:33 PM_
-Trump cuts hit struggling food banks, risking hunger for low-income americans" }
-Hiacoaoine@{ shape: win-pane, label: "_Published Mar 25, 2025, 10:45 AM_
-Humanitarian aid cuts could cause more children to die: un" }
-Taitahnetidr@{ shape: win-pane, label: "_Published Feb 27, 2025, 09:53 AM_
-Trump administration says it has cancelled most foreign aid contracts" }
-Uoirueyhmpeicnheov@{ shape: win-pane, label: "_Published Mar 03, 2025, 11:35 AM_
-Usaid official warns of unnecessary deaths from trump's foreign aid block, then says he's been put on leave" }
+NunzgnuO@{ shape: win-pane, label: "_Published Oct 23, 2025, 11:19 PM_
+No reduction in gaza hunger since truce: who" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Mmenwniuaa@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:36 AM_
+Muslim states join eu powers in backing trump’s gaza plan" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Mmenwniuaa@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:36 AM_
+Muslim states join eu powers in backing trump’s gaza plan" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
+Singapore strongly condemns terror attacks on israel, calls for end to violence" }
+
+NunzgnuO:::txtsize --> AtHfezerydatoGel:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+Tseaupoabmrnluo:::txtsize --> AtHfezerydatoGel:::txtsize
+Tseaupoabmrnluo:::txtsize --> Mmenwniuaa:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+Tseaupoabmrnluo:::txtsize --> AtHfezerydatoGel:::txtsize
+Tseaupoabmrnluo:::txtsize --> Mmenwniuaa:::txtsize
+NunzgnuO:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+WzptIleint:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
+Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
+
+TsepSoIlxsk@{ shape: win-pane, label: "_Published Oct 23, 2025, 11:18 PM_
+Trump says he will pull us support if israel annexes west bank" }
+WrAao@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:46 PM_
+What are the abraham accords?" }
+Ilemahmaroais@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:27 PM_
+Israel targets hamas leadership in military strikes on qatar, officials say" }
+Ilssreana@{ shape: win-pane, label: "_Published Sep 08, 2025, 04:31 PM_
+Israel warns hamas to surrender or face ‘annihilation’" }
+Lnthlareseeis@{ shape: win-pane, label: "_Published Sep 09, 2025, 02:18 AM_
+‘leave now’, netanyahu tells gaza city residents as israel intensifies assault" }
+Hmdulnrecsud@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:15 PM_
+How hamas’ audacious, well-planned surprise attack on israel unfolded" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Tbsuntccfbo@{ shape: win-pane, label: "_Published Oct 23, 2025, 05:52 PM_
+Trump bypasses shutdown fight to focus on ceasefires, ballroom" }
 Waswhomhw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:42 PM_
 What happens next with the us government shutdown?" }
 TsSrtpbun@{ shape: win-pane, label: "_Published Oct 01, 2025, 01:49 AM_
 Trump says us government will ‘probably’ shut down" }
-Ugbttoaphesd@{ shape: win-pane, label: "_Published Sep 29, 2025, 08:35 AM_
-Us congress budget negotiations: what happens when the govt shuts down?" }
-VsSesotewea@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:58 AM_
-Vance says us ‘headed to a shutdown’ after meeting with democrats" }
 Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
 Us government begins shutdown that may lead to mass layoffs and cuts" }
-TsSrtpbun@{ shape: win-pane, label: "_Published Oct 01, 2025, 01:49 AM_
-Trump says us government will ‘probably’ shut down" }
+Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
+‘music to my ears’: trump brushes off critics of white house demolition" }
+DibsrhoanTbo@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:35 AM_
+Demolition begins on part of white house east wing for trump ballroom" }
+TttCosneetsd@{ shape: win-pane, label: "_Published Sep 04, 2025, 10:43 AM_
+Trump to host tech ceos for first event in newly renovated rose garden" }
 
-Utrdetliehwg:::txtsize --> Tciundsinoiei:::txtsize
-Tciundsinoiei:::txtsize --> Hiacoaoine:::txtsize
-Hiacoaoine:::txtsize --> Taitahnetidr:::txtsize
-Hiacoaoine:::txtsize --> Uoirueyhmpeicnheov:::txtsize
-Utrdetliehwg:::txtsize --> Waswhomhw:::txtsize
+TsepSoIlxsk:::txtsize --> WrAao:::txtsize
+WrAao:::txtsize --> Ilemahmaroais:::txtsize
+Ilemahmaroais:::txtsize --> Ilssreana:::txtsize
+Ilemahmaroais:::txtsize --> Lnthlareseeis:::txtsize
+WrAao:::txtsize --> Hmdulnrecsud:::txtsize
+Hmdulnrecsud:::txtsize --> NyeeawHakl:::txtsize
+Hmdulnrecsud:::txtsize --> NyeeawHakl:::txtsize
+TsepSoIlxsk:::txtsize --> Tbsuntccfbo:::txtsize
+Tbsuntccfbo:::txtsize --> Waswhomhw:::txtsize
 Waswhomhw:::txtsize --> TsSrtpbun:::txtsize
-TsSrtpbun:::txtsize --> Ugbttoaphesd:::txtsize
-TsSrtpbun:::txtsize --> VsSesotewea:::txtsize
 Waswhomhw:::txtsize --> Ueniunmaayat:::txtsize
-Ueniunmaayat:::txtsize --> TsSrtpbun:::txtsize
-
-MiAchrsgrwrnaheP@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:30 PM_
-Majority of americans think trump is using federal law enforcement to target his enemies: poll" }
-EcCpsuiepe@{ shape: win-pane, label: "_Published Oct 08, 2025, 11:53 PM_
-Ex-fbi chief comey pleads not guilty in case trump pushed for" }
-Ierdsiupcao@{ shape: win-pane, label: "_Published Sep 28, 2025, 07:54 AM_
-Inside the trump administration’s push to prosecute james comey" }
-Frhorahdurcc@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:10 AM_
-Former fbi chief comey criminally charged as trump targets critics" }
-TpcgJcanhhe@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:36 AM_
-Trump publicly urges us justice department to charge his enemies" }
-Citearcicoisgp@{ shape: win-pane, label: "_Published Sep 27, 2025, 04:47 AM_
-Comey indictment escalates trump’s campaign to chill opposition, say legal experts" }
-Frhorahdurcc@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:10 AM_
-Former fbi chief comey criminally charged as trump targets critics" }
-Utemugwhsnuonncys@{ shape: win-pane, label: "_Published Sep 26, 2025, 05:58 AM_
-Us justice department pushing for swift charges against trump’s former national security adviser" }
-TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
-Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
-VsaKsirayce@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:59 AM_
-Videos of charlie kirk’s shooting spread rapidly on social media" }
-TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
-Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
-
-MiAchrsgrwrnaheP:::txtsize --> EcCpsuiepe:::txtsize
-EcCpsuiepe:::txtsize --> Ierdsiupcao:::txtsize
-Ierdsiupcao:::txtsize --> Frhorahdurcc:::txtsize
-Ierdsiupcao:::txtsize --> TpcgJcanhhe:::txtsize
-EcCpsuiepe:::txtsize --> Citearcicoisgp:::txtsize
-Citearcicoisgp:::txtsize --> Frhorahdurcc:::txtsize
-Citearcicoisgp:::txtsize --> Utemugwhsnuonncys:::txtsize
-MiAchrsgrwrnaheP:::txtsize --> TahesegnipdoUstt:::txtsize
-TahesegnipdoUstt:::txtsize --> VsaKsirayce:::txtsize
-VsaKsirayce:::txtsize --> TahesegnipdoUstt:::txtsize
+Tbsuntccfbo:::txtsize --> Mtauuoiotsoo:::txtsize
+Mtauuoiotsoo:::txtsize --> DibsrhoanTbo:::txtsize
+Mtauuoiotsoo:::txtsize --> TttCosneetsd:::txtsize
 
 ```
-<i>Last updated: 2025-10-23 20:00:51.960270 (GMT+8)</i>
+<i>Last updated: 2025-10-24 00:00:15.508682 (GMT+8)</i>
 <!-- END -->
