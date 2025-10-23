@@ -16,144 +16,96 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Nhrsonrekt@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:37 AM_
-Nato chief brushes off concerns of trump-zelensky rift" }
-TtZsmdshlss@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:27 AM_
-Trump tells zelensky to ‘make a deal’ as tomahawk plea misfires" }
-Zseafrnouu@{ shape: win-pane, label: "_Published Oct 17, 2025, 10:31 PM_
-Zelensky seeks weapons from trump in shadow of putin summit" }
-Tttndtrttcke@{ shape: win-pane, label: "_Published Oct 16, 2025, 11:15 PM_
-Trump to meet putin in budapest after ‘great’ call to discuss ukraine" }
-Kisnpihniwbelds@{ shape: win-pane, label: "_Published Oct 17, 2025, 06:50 PM_
-Kremlin says putin-trump summit may happen within two weeks, but there’s a lot to do first" }
-Zsguerwkhds@{ shape: win-pane, label: "_Published Oct 11, 2025, 10:10 PM_
-Zelensky urges trump to end ukraine war like in ‘the middle east’" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Zsneitsdsit@{ shape: win-pane, label: "_Published Oct 11, 2024, 01:22 AM_
-Zelensky denies ceasefire with russia under discussion on trip" }
-PTtiaodrieei@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
-Putin-trump talks in budapest on hold after russia rejects ceasefire" }
-Tttndtrttcke@{ shape: win-pane, label: "_Published Oct 16, 2025, 11:15 PM_
-Trump to meet putin in budapest after ‘great’ call to discuss ukraine" }
-Twarntceydtpni@{ shape: win-pane, label: "_Published Aug 16, 2025, 11:00 AM_
-Takeaways: warm words contrast with cold reality of no deal at trump-putin summit" }
-Wramldirieke@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:35 PM_
-What are tomahawk missiles and why might trump give them to ukraine?" }
-Raedikeesivoi@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:52 AM_
-Russia reiterated previous ukraine peace terms to us in private communique" }
-PTtiaodrieei@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
-Putin-trump talks in budapest on hold after russia rejects ceasefire" }
-Lfsnhmuledmeks@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:07 AM_
-Lack of decision on tomahawks made russia less keen on diplomacy, zelensky says" }
+Lnnaeeroiisa@{ shape: win-pane, label: "_Published Oct 23, 2025, 07:40 AM_
+London woman who was fined after pouring coffee in drain gets a break" }
+Unfeoetrna@{ shape: win-pane, label: "_Published Mar 02, 2025, 04:53 PM_
+Uk pie ‘n’ mash fans seek protected status for cockney classic" }
+PstlnragoCries@{ shape: win-pane, label: "_Published Apr 09, 2023, 05:00 AM_
+‘parmesan’ is translation of ‘parmigiano reggiano’, high court rules in cheese dispute" }
+FoaapcaUrtd@{ shape: win-pane, label: "_Published Jan 21, 2023, 03:56 PM_
+Fight over parmesan and prosecco stalls eu-australia trade deal" }
+PstlnragoCries@{ shape: win-pane, label: "_Published Apr 09, 2023, 05:00 AM_
+‘parmesan’ is translation of ‘parmigiano reggiano’, high court rules in cheese dispute" }
+FoaapcaUrtd@{ shape: win-pane, label: "_Published Jan 21, 2023, 03:56 PM_
+Fight over parmesan and prosecco stalls eu-australia trade deal" }
+Cehakuoeso@{ shape: win-pane, label: "_Published Jul 27, 2023, 03:22 PM_
+Coffee and chocolate makers question eu deforestation law" }
+Eluegtbioa@{ shape: win-pane, label: "_Published Dec 06, 2022, 10:00 PM_
+Eu seals ‘groundbreaking’ deal to curb role in deforestation" }
+DeiBlmraor@{ shape: win-pane, label: "_Published Dec 01, 2022, 04:04 AM_
+Deforestation of brazilian amazon retreats from 15-year high" }
+BlatSroaarrtu@{ shape: win-pane, label: "_Published Nov 30, 2022, 03:47 AM_
+Brazil's lula courts uk, us, others to join amazon rainforest protection fund" }
+BotpsEoalakca@{ shape: win-pane, label: "_Published Jun 30, 2023, 05:00 PM_
+Big chocolate companies back eu deforestation law that risks pricier bars" }
+Hwtprtnce@{ shape: win-pane, label: "_Published May 17, 2023, 04:00 PM_
+How eu wants to stop deforestation in your coffee" }
+Iecsraiimdeiw@{ shape: win-pane, label: "_Published Jun 09, 2023, 03:17 PM_
+Indonesia accuses eu of ‘regulatory imperialism’ with deforestation law" }
 
-Nhrsonrekt:::txtsize --> TtZsmdshlss:::txtsize
-TtZsmdshlss:::txtsize --> Zseafrnouu:::txtsize
-Zseafrnouu:::txtsize --> Tttndtrttcke:::txtsize
-Zseafrnouu:::txtsize --> Kisnpihniwbelds:::txtsize
-TtZsmdshlss:::txtsize --> Zsguerwkhds:::txtsize
-Zsguerwkhds:::txtsize --> TssHaossaaorslaoe:::txtsize
-Zsguerwkhds:::txtsize --> Zsneitsdsit:::txtsize
-Nhrsonrekt:::txtsize --> PTtiaodrieei:::txtsize
-PTtiaodrieei:::txtsize --> Tttndtrttcke:::txtsize
-Tttndtrttcke:::txtsize --> Twarntceydtpni:::txtsize
-Tttndtrttcke:::txtsize --> Wramldirieke:::txtsize
-PTtiaodrieei:::txtsize --> Raedikeesivoi:::txtsize
-Raedikeesivoi:::txtsize --> PTtiaodrieei:::txtsize
-Raedikeesivoi:::txtsize --> Lfsnhmuledmeks:::txtsize
+Lnnaeeroiisa:::txtsize --> Unfeoetrna:::txtsize
+Unfeoetrna:::txtsize --> PstlnragoCries:::txtsize
+PstlnragoCries:::txtsize --> FoaapcaUrtd:::txtsize
+Unfeoetrna:::txtsize --> PstlnragoCries:::txtsize
+PstlnragoCries:::txtsize --> FoaapcaUrtd:::txtsize
+Lnnaeeroiisa:::txtsize --> Cehakuoeso:::txtsize
+Cehakuoeso:::txtsize --> Eluegtbioa:::txtsize
+Eluegtbioa:::txtsize --> DeiBlmraor:::txtsize
+Eluegtbioa:::txtsize --> BlatSroaarrtu:::txtsize
+Cehakuoeso:::txtsize --> BotpsEoalakca:::txtsize
+BotpsEoalakca:::txtsize --> Hwtprtnce:::txtsize
+BotpsEoalakca:::txtsize --> Iecsraiimdeiw:::txtsize
 
-Slafesexoadons@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:30 AM_
-Social media platform reddit sues perplexity for scraping data to train ai system" }
-Tpwlutplyogoo@{ shape: win-pane, label: "_Published Aug 26, 2025, 03:45 PM_
-Top japan news outlets sue ai start-up perplexity for copyright violations" }
-JeweihnUtplyuaal@{ shape: win-pane, label: "_Published Aug 10, 2025, 10:39 AM_
-Japanese newspaper yomiuri shimbun sues us ai start-up perplexity over use of about 120,000 articles" }
-BrnaiaArexvnsi@{ shape: win-pane, label: "_Published Jun 20, 2025, 05:15 PM_
-Bbc threatens legal action against ai start-up perplexity over content scraping" }
-GesfeCes@{ shape: win-pane, label: "_Published May 31, 2025, 01:50 AM_
-Google makes case for keeping chrome browser" }
-JeweihnUtplyuaal@{ shape: win-pane, label: "_Published Aug 10, 2025, 10:39 AM_
-Japanese newspaper yomiuri shimbun sues us ai start-up perplexity over use of about 120,000 articles" }
-BrnaiaArexvnsi@{ shape: win-pane, label: "_Published Jun 20, 2025, 05:15 PM_
-Bbc threatens legal action against ai start-up perplexity over content scraping" }
-GesfeCes@{ shape: win-pane, label: "_Published May 31, 2025, 01:50 AM_
-Google makes case for keeping chrome browser" }
-BrnaiaArexvnsi@{ shape: win-pane, label: "_Published Jun 20, 2025, 05:15 PM_
-Bbc threatens legal action against ai start-up perplexity over content scraping" }
-WtJaslyrrinn@{ shape: win-pane, label: "_Published Oct 22, 2024, 10:45 AM_
-Wall street journal sues perplexity ai for copyright infringement" }
-UsrOIogfeoIn@{ shape: win-pane, label: "_Published May 01, 2024, 06:59 AM_
-Us newspapers sue openai for copyright infringement over ai training" }
-HcntehsaI@{ shape: win-pane, label: "_Published Apr 08, 2024, 07:45 AM_
-How tech giants cut corners to harvest data for ai" }
-ArexometTk@{ shape: win-pane, label: "_Published Mar 22, 2025, 11:00 AM_
-Ai start-up perplexity confirms interest to buy tiktok" }
-Tsodiyido@{ shape: win-pane, label: "_Published Mar 10, 2025, 08:50 AM_
-Trump says four bidders in play for tiktok deal ‘soon’" }
-Uropsolnstm@{ shape: win-pane, label: "_Published Jan 17, 2025, 11:09 PM_
-Us supreme court upholds tiktok ban, leaving app’s fate to trump" }
+Raeanlppbisl@{ shape: win-pane, label: "_Published Oct 23, 2025, 07:37 AM_
+Russia pushes a state-controlled ‘super app’ by sabotaging its rivals" }
+RartkXWAvbilnett@{ shape: win-pane, label: "_Published Aug 21, 2025, 04:51 PM_
+Russia orders state-backed max app, a ‘whatsapp rival’, to be pre-installed on phones and tablets" }
+RattimleaWAtx@{ shape: win-pane, label: "_Published Aug 13, 2025, 09:38 PM_
+Russia starts restricting some calls on telegram and whatsapp, interfax says" }
+Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
+Timeline: how russia's attack on ukraine unfolded" }
+Racbsraa@{ shape: win-pane, label: "_Published Dec 14, 2024, 01:58 AM_
+Russian watchdog blocks viber messaging app" }
+RareearsregncnSr@{ shape: win-pane, label: "_Published Apr 08, 2025, 07:58 AM_
+Russian court fines telegram app for refusal to remove anti-government content, tass reports" }
+AaignitTrwao@{ shape: win-pane, label: "_Published Feb 03, 2025, 06:30 AM_
+Australia hits right-wing online network terrorgram with sanctions" }
+Gesrnlisastefein@{ shape: win-pane, label: "_Published Mar 06, 2025, 08:05 AM_
+Google tells australian regulator its ai software was used to make deepfake terrorism content" }
 
-Slafesexoadons:::txtsize --> Tpwlutplyogoo:::txtsize
-Tpwlutplyogoo:::txtsize --> JeweihnUtplyuaal:::txtsize
-JeweihnUtplyuaal:::txtsize --> BrnaiaArexvnsi:::txtsize
-JeweihnUtplyuaal:::txtsize --> GesfeCes:::txtsize
-Tpwlutplyogoo:::txtsize --> JeweihnUtplyuaal:::txtsize
-JeweihnUtplyuaal:::txtsize --> BrnaiaArexvnsi:::txtsize
-JeweihnUtplyuaal:::txtsize --> GesfeCes:::txtsize
-Slafesexoadons:::txtsize --> BrnaiaArexvnsi:::txtsize
-BrnaiaArexvnsi:::txtsize --> WtJaslyrrinn:::txtsize
-WtJaslyrrinn:::txtsize --> UsrOIogfeoIn:::txtsize
-WtJaslyrrinn:::txtsize --> HcntehsaI:::txtsize
-BrnaiaArexvnsi:::txtsize --> ArexometTk:::txtsize
-ArexometTk:::txtsize --> Tsodiyido:::txtsize
-ArexometTk:::txtsize --> Uropsolnstm:::txtsize
+Raeanlppbisl:::txtsize --> RartkXWAvbilnett:::txtsize
+RartkXWAvbilnett:::txtsize --> RattimleaWAtx:::txtsize
+RattimleaWAtx:::txtsize --> Tiwitnifd:::txtsize
+RattimleaWAtx:::txtsize --> Racbsraa:::txtsize
+RartkXWAvbilnett:::txtsize --> RareearsregncnSr:::txtsize
+RareearsregncnSr:::txtsize --> AaignitTrwao:::txtsize
+RareearsregncnSr:::txtsize --> Gesrnlisastefein:::txtsize
 
-DrUaergmhepnmn@{ shape: win-pane, label: "_Published Oct 23, 2025, 01:37 AM_
-Democratic us senator jeff merkley gives marathon speech opposing trump agenda" }
-Uamsrhtnue@{ shape: win-pane, label: "_Published Apr 02, 2025, 08:11 AM_
-Us senator smashes record with marathon anti-trump speech" }
-Uaoagoshnu@{ shape: win-pane, label: "_Published Apr 01, 2025, 09:38 PM_
-Us senator mounts all-night protest speech against trump" }
-DistiUennbosu@{ shape: win-pane, label: "_Published Mar 28, 2025, 07:30 AM_
-Doge aims to slash $1.3 trillion in us government spending by end of may, says musk" }
-DrsogmeCttefre@{ shape: win-pane, label: "_Published Mar 31, 2025, 10:41 PM_
-Democratic senators urge trump to revamp china trade ties, revise free trade deals" }
-Uosaervopeg@{ shape: win-pane, label: "_Published Mar 15, 2025, 11:43 PM_
-Us democrats fume as some in party cave in to trump on spending bill" }
-Uasiasoumtnh@{ shape: win-pane, label: "_Published Mar 15, 2025, 06:31 AM_
-Us senate passes bill to avert shutdown, house democrats turn on schumer" }
-Uasiasoumtnh@{ shape: win-pane, label: "_Published Mar 15, 2025, 06:31 AM_
-Us senate passes bill to avert shutdown, house democrats turn on schumer" }
-HmreHrdnoeeTtle@{ shape: win-pane, label: "_Published Jul 04, 2025, 02:34 AM_
-Hakeem jeffries sets us house record with near 9-hour speech before trump tax bill vote" }
-Uamsrhtnue@{ shape: win-pane, label: "_Published Apr 02, 2025, 08:11 AM_
-Us senator smashes record with marathon anti-trump speech" }
-Uaoagoshnu@{ shape: win-pane, label: "_Published Apr 01, 2025, 09:38 PM_
-Us senator mounts all-night protest speech against trump" }
-Uosaervopeg@{ shape: win-pane, label: "_Published Mar 15, 2025, 11:43 PM_
-Us democrats fume as some in party cave in to trump on spending bill" }
-Tspaaegwosar@{ shape: win-pane, label: "_Published Jul 04, 2025, 02:55 AM_
-Trump’s sweeping tax-cut and spending bill wins congressional approval" }
-Uapssrpnl@{ shape: win-pane, label: "_Published Jul 02, 2025, 02:21 AM_
-Us senate approves divisive trump spending bill" }
-HmreHrdnoeeTtle@{ shape: win-pane, label: "_Published Jul 04, 2025, 02:34 AM_
-Hakeem jeffries sets us house record with near 9-hour speech before trump tax bill vote" }
+Urogmdiiuhnio@{ shape: win-pane, label: "_Published Oct 23, 2025, 07:25 AM_
+University of virginia makes deal with white house to halt investigations" }
+Hrdnlnyinnar@{ shape: win-pane, label: "_Published Oct 17, 2025, 03:05 AM_
+Harvard’s endowment swells to nearly $74 billion; donations hit a record" }
+TaiteHruertdaeseo@{ shape: win-pane, label: "_Published Aug 01, 2025, 04:14 AM_
+Trump administration refers harvard to justice department to address anti-semitism allegations" }
+BUrmawhtseei@{ shape: win-pane, label: "_Published Jul 31, 2025, 08:05 AM_
+Brown university makes a deal with the white house to restore funding" }
+WHsfftnssrme@{ shape: win-pane, label: "_Published Jul 26, 2025, 07:39 AM_
+White house seeks fines from other universities after columbia deal" }
+BUrrtiuasaat@{ shape: win-pane, label: "_Published Oct 16, 2025, 07:00 AM_
+Brown university rejects a white house deal for special treatment" }
+TosoeftugrtM@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:00 AM_
+Trump offers all colleges preferential funding plan rejected by mit" }
+BbetnssugtsT@{ shape: win-pane, label: "_Published Aug 05, 2025, 08:59 AM_
+Badly bruised elite us universities are rushing to cut deals with trump" }
 
-DrUaergmhepnmn:::txtsize --> Uamsrhtnue:::txtsize
-Uamsrhtnue:::txtsize --> Uaoagoshnu:::txtsize
-Uaoagoshnu:::txtsize --> DistiUennbosu:::txtsize
-Uaoagoshnu:::txtsize --> DrsogmeCttefre:::txtsize
-Uamsrhtnue:::txtsize --> Uosaervopeg:::txtsize
-Uosaervopeg:::txtsize --> Uasiasoumtnh:::txtsize
-Uosaervopeg:::txtsize --> Uasiasoumtnh:::txtsize
-DrUaergmhepnmn:::txtsize --> HmreHrdnoeeTtle:::txtsize
-HmreHrdnoeeTtle:::txtsize --> Uamsrhtnue:::txtsize
-Uamsrhtnue:::txtsize --> Uaoagoshnu:::txtsize
-Uamsrhtnue:::txtsize --> Uosaervopeg:::txtsize
-HmreHrdnoeeTtle:::txtsize --> Tspaaegwosar:::txtsize
-Tspaaegwosar:::txtsize --> Uapssrpnl:::txtsize
-Tspaaegwosar:::txtsize --> HmreHrdnoeeTtle:::txtsize
+Urogmdiiuhnio:::txtsize --> Hrdnlnyinnar:::txtsize
+Hrdnlnyinnar:::txtsize --> TaiteHruertdaeseo:::txtsize
+TaiteHruertdaeseo:::txtsize --> BUrmawhtseei:::txtsize
+TaiteHruertdaeseo:::txtsize --> WHsfftnssrme:::txtsize
+Hrdnlnyinnar:::txtsize --> BUrrtiuasaat:::txtsize
+BUrrtiuasaat:::txtsize --> TosoeftugrtM:::txtsize
+BUrrtiuasaat:::txtsize --> BbetnssugtsT:::txtsize
 
 ```
-<i>Last updated: 2025-10-23 04:00:31.356896 (GMT+8)</i>
+<i>Last updated: 2025-10-23 08:00:49.606965 (GMT+8)</i>
 <!-- END -->
