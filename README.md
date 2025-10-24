@@ -16,105 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Peeianwrim@{ shape: win-pane, label: "_Published Oct 24, 2025, 07:05 PM_
-Pope leo offers olive branch in allowing traditional mass" }
-UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
-Us cardinal prevost elected pope leo xiv, first american pontiff" }
-Arnclaenigi@{ shape: win-pane, label: "_Published May 09, 2025, 06:49 AM_
-A reformer and a reconciler: what pope leo’s new reign might bring" }
-Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
-Pope francis dies at age 88" }
-UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
-Us cardinal prevost elected pope leo xiv, first american pontiff" }
-IfarPeoselbia@{ shape: win-pane, label: "_Published May 09, 2025, 03:40 AM_
-In his first appearance, pope leo xiv offers three big clues about his papacy" }
-UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
-Us cardinal prevost elected pope leo xiv, first american pontiff" }
-Prsraoddsiasv@{ shape: win-pane, label: "_Published Apr 26, 2025, 09:05 AM_
-Pope francis’ funeral draws thousands, cardinal says his legacy must survive" }
-KhsLaeiasanth@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:17 PM_
-King charles, pope leo pray together in a 500-year first in vatican’s sistine chapel" }
-UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
-Us cardinal prevost elected pope leo xiv, first american pontiff" }
-Arnclaenigi@{ shape: win-pane, label: "_Published May 09, 2025, 06:49 AM_
-A reformer and a reconciler: what pope leo’s new reign might bring" }
-IfarPeoselbia@{ shape: win-pane, label: "_Published May 09, 2025, 03:40 AM_
-In his first appearance, pope leo xiv offers three big clues about his papacy" }
-Wanrsfeytffecnd@{ shape: win-pane, label: "_Published Oct 03, 2025, 05:12 PM_
-Woman appointed archbishop of canterbury a historic first for the church of england" }
-TmerusdchCrann@{ shape: win-pane, label: "_Published Oct 01, 2025, 10:49 PM_
-Two women seen as front runners ahead of archbishop of canterbury announcement" }
-VaupfdeIri@{ shape: win-pane, label: "_Published Oct 03, 2025, 11:05 AM_
-Virtual jesus? people of faith divided as ai enters religion" }
+PdetUnormssaaw@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 PM_
+Poland sentences three ukrainians over arson, amid russian sabotage crackdown" }
+Rebdikajde@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:00 PM_
+Ringleader behind russia-linked uk arson jailed for 17 years" }
+Rebdikadsipetdul@{ shape: win-pane, label: "_Published Oct 24, 2025, 12:34 AM_
+Ringleader behind russia-linked uk arson discussed kidnapping revolut founder, court told" }
+TmifstninusrdsWrp@{ shape: win-pane, label: "_Published Jul 08, 2025, 09:12 PM_
+Three men guilty of uk arson attack on ukraine-linked businesses ordered by russia’s wagner group" }
+BrccnabRaekoefi@{ shape: win-pane, label: "_Published Mar 07, 2025, 11:11 PM_
+Bulgarians convicted in britain of being russian spies working for wirecard fugitive" }
+TmifstninusrdsWrp@{ shape: win-pane, label: "_Published Jul 08, 2025, 09:12 PM_
+Three men guilty of uk arson attack on ukraine-linked businesses ordered by russia’s wagner group" }
+BrccnabRaekoefi@{ shape: win-pane, label: "_Published Mar 07, 2025, 11:11 PM_
+Bulgarians convicted in britain of being russian spies working for wirecard fugitive" }
+BrccnabRaekoefi@{ shape: win-pane, label: "_Published Mar 07, 2025, 11:11 PM_
+Bulgarians convicted in britain of being russian spies working for wirecard fugitive" }
+Edaptrrttdyy@{ shape: win-pane, label: "_Published Oct 08, 2025, 03:42 PM_
+Eu needs broad response to hybrid warfare threats, von der leyen says" }
+Eneonecdce@{ shape: win-pane, label: "_Published Oct 06, 2025, 05:21 PM_
+Eu’s von der leyen confronts fresh no-confidence challenges" }
+Eeuneuefcerr@{ shape: win-pane, label: "_Published Jul 10, 2025, 06:38 PM_
+Eu chief ursula von der leyen survives confidence vote by large margin" }
+UntUbghtHru@{ shape: win-pane, label: "_Published Oct 06, 2025, 02:17 PM_
+Ukraine’s path to eu will be tough, with or without hungarian hurdle" }
+RaEponettasydoes@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:40 PM_
+Russia says eu proposal on loan and reparations to ukraine is crazy, will draw tough response" }
+Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
+Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
+Rasptlfnttss@{ shape: win-pane, label: "_Published Sep 15, 2025, 04:05 PM_
+Russia warns europe that it will go after any state that takes its assets" }
 
-Peeianwrim:::txtsize --> UdPscooimat:::txtsize
-UdPscooimat:::txtsize --> Arnclaenigi:::txtsize
-Arnclaenigi:::txtsize --> Prsa:::txtsize
-Arnclaenigi:::txtsize --> UdPscooimat:::txtsize
-UdPscooimat:::txtsize --> IfarPeoselbia:::txtsize
-IfarPeoselbia:::txtsize --> UdPscooimat:::txtsize
-IfarPeoselbia:::txtsize --> Prsraoddsiasv:::txtsize
-Peeianwrim:::txtsize --> KhsLaeiasanth:::txtsize
-KhsLaeiasanth:::txtsize --> UdPscooimat:::txtsize
-UdPscooimat:::txtsize --> Arnclaenigi:::txtsize
-UdPscooimat:::txtsize --> IfarPeoselbia:::txtsize
-KhsLaeiasanth:::txtsize --> Wanrsfeytffecnd:::txtsize
-Wanrsfeytffecnd:::txtsize --> TmerusdchCrann:::txtsize
-Wanrsfeytffecnd:::txtsize --> VaupfdeIri:::txtsize
+PdetUnormssaaw:::txtsize --> Rebdikajde:::txtsize
+Rebdikajde:::txtsize --> Rebdikadsipetdul:::txtsize
+Rebdikadsipetdul:::txtsize --> TmifstninusrdsWrp:::txtsize
+Rebdikadsipetdul:::txtsize --> BrccnabRaekoefi:::txtsize
+Rebdikajde:::txtsize --> TmifstninusrdsWrp:::txtsize
+TmifstninusrdsWrp:::txtsize --> BrccnabRaekoefi:::txtsize
+TmifstninusrdsWrp:::txtsize --> BrccnabRaekoefi:::txtsize
+PdetUnormssaaw:::txtsize --> Edaptrrttdyy:::txtsize
+Edaptrrttdyy:::txtsize --> Eneonecdce:::txtsize
+Eneonecdce:::txtsize --> Eeuneuefcerr:::txtsize
+Eneonecdce:::txtsize --> UntUbghtHru:::txtsize
+Edaptrrttdyy:::txtsize --> RaEponettasydoes:::txtsize
+RaEponettasydoes:::txtsize --> Elrgessfakeoau:::txtsize
+RaEponettasydoes:::txtsize --> Rasptlfnttss:::txtsize
 
-Ciencsund@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:40 PM_
-Croatia arrests online child sex abuse ring leader" }
-Cefhelgafaidlg@{ shape: win-pane, label: "_Published Aug 29, 2025, 07:00 PM_
-Cops rescue five children, including two babies, from malaysia paedophile ring" }
-TiolddeaiitsiSpo@{ shape: win-pane, label: "_Published Dec 06, 2024, 02:00 PM_
-Teen girl who was allegedly kidnapped in malaysia believed to be a scam victim: singapore police" }
-TiolddeeaieSpo@{ shape: win-pane, label: "_Published Nov 28, 2024, 11:45 AM_
-Teen girl who was allegedly kidnapped entered malaysia on her own: singapore police" }
-Csithdlakpsnio@{ shape: win-pane, label: "_Published Dec 04, 2024, 07:25 PM_
-Chinese national to be charged in malaysia with kidnapping student in singapore" }
-ylliJfvufeogt@{ shape: win-pane, label: "_Published Jul 23, 2024, 11:47 AM_
-6-year-old girl missing at johor festival found safe in selangor budget hotel" }
-Fyllind@{ shape: win-pane, label: "_Published Aug 07, 2023, 09:20 PM_
-Found: 13-year-old girl missing since end-july" }
-yeflTwosesv@{ shape: win-pane, label: "_Published Oct 14, 2022, 09:20 PM_
-13-year search for felicia teo: how fate of missing teen was uncovered" }
-Cntsusarngugdert@{ shape: win-pane, label: "_Published Oct 07, 2024, 03:40 PM_
-Criminal networks in south-east asia flourish in telegram’s ‘underground markets’: un report" }
-Trseorafegc@{ shape: win-pane, label: "_Published Aug 29, 2024, 06:15 AM_
-Telegram boss pavel durov charged, barred from leaving france" }
-TraurfrvnahiFecs@{ shape: win-pane, label: "_Published Aug 29, 2024, 02:08 AM_
-Telegram's pavel durov probed for 'serious' violence against his child in france, source says" }
-Trsrahuslpbrhnhlr@{ shape: win-pane, label: "_Published Aug 29, 2024, 06:59 AM_
-Telegram boss charged: can tech executives be held responsible for what happens on their platforms?" }
-Cnorirntttidpxs@{ shape: win-pane, label: "_Published Sep 25, 2023, 05:00 AM_
-Criminal groups from china spreading out to south-east asia, including s’pore: experts" }
-bmlebfgcedpfllhai@{ shape: win-pane, label: "_Published Aug 17, 2023, 12:13 AM_
-$1b anti-money laundering blitz: 10 foreigners charged hold passports from places like china, cambodia" }
-Feheleeepbydg@{ shape: win-pane, label: "_Published Sep 25, 2023, 05:00 AM_
-Founder of chinese gambling website linked to s’pore’s $2b money laundering case" }
+Rebdikajde@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:00 PM_
+Ringleader behind russia-linked uk arson jailed for 17 years" }
+Rebdikadsipetdul@{ shape: win-pane, label: "_Published Oct 24, 2025, 12:34 AM_
+Ringleader behind russia-linked uk arson discussed kidnapping revolut founder, court told" }
+TmifstninusrdsWrp@{ shape: win-pane, label: "_Published Jul 08, 2025, 09:12 PM_
+Three men guilty of uk arson attack on ukraine-linked businesses ordered by russia’s wagner group" }
+BrccnabRaekoefi@{ shape: win-pane, label: "_Published Mar 07, 2025, 11:11 PM_
+Bulgarians convicted in britain of being russian spies working for wirecard fugitive" }
+BrccnabRaekoefi@{ shape: win-pane, label: "_Published Mar 07, 2025, 11:11 PM_
+Bulgarians convicted in britain of being russian spies working for wirecard fugitive" }
+BrccnabRaekoefi@{ shape: win-pane, label: "_Published Mar 07, 2025, 11:11 PM_
+Bulgarians convicted in britain of being russian spies working for wirecard fugitive" }
+Brsoasnritoe@{ shape: win-pane, label: "_Published Nov 29, 2024, 12:28 AM_
+Bulgarians spied on us base, dissidents for russia, british court hears" }
+UFsrserirend@{ shape: win-pane, label: "_Published Nov 26, 2024, 11:03 PM_
+Us air force says drones spotted over its military bases in england" }
+TmifstninusrdsWrp@{ shape: win-pane, label: "_Published Jul 08, 2025, 09:12 PM_
+Three men guilty of uk arson attack on ukraine-linked businesses ordered by russia’s wagner group" }
+BrccnabRaekoefi@{ shape: win-pane, label: "_Published Mar 07, 2025, 11:11 PM_
+Bulgarians convicted in britain of being russian spies working for wirecard fugitive" }
+Brsoasnritoe@{ shape: win-pane, label: "_Published Nov 29, 2024, 12:28 AM_
+Bulgarians spied on us base, dissidents for russia, british court hears" }
+UFsrserirend@{ shape: win-pane, label: "_Published Nov 26, 2024, 11:03 PM_
+Us air force says drones spotted over its military bases in england" }
+BrccnabRaekoefi@{ shape: win-pane, label: "_Published Mar 07, 2025, 11:11 PM_
+Bulgarians convicted in britain of being russian spies working for wirecard fugitive" }
+Brsoasnritoe@{ shape: win-pane, label: "_Published Nov 29, 2024, 12:28 AM_
+Bulgarians spied on us base, dissidents for russia, british court hears" }
+UFsrserirend@{ shape: win-pane, label: "_Published Nov 26, 2024, 11:03 PM_
+Us air force says drones spotted over its military bases in england" }
 
-Ciencsund:::txtsize --> Cefhelgafaidlg:::txtsize
-Cefhelgafaidlg:::txtsize --> TiolddeaiitsiSpo:::txtsize
-TiolddeaiitsiSpo:::txtsize --> TiolddeeaieSpo:::txtsize
-TiolddeaiitsiSpo:::txtsize --> Csithdlakpsnio:::txtsize
-Cefhelgafaidlg:::txtsize --> ylliJfvufeogt:::txtsize
-ylliJfvufeogt:::txtsize --> Fyllind:::txtsize
-ylliJfvufeogt:::txtsize --> yeflTwosesv:::txtsize
-Ciencsund:::txtsize --> Cntsusarngugdert:::txtsize
-Cntsusarngugdert:::txtsize --> Trseorafegc:::txtsize
-Trseorafegc:::txtsize --> TraurfrvnahiFecs:::txtsize
-Trseorafegc:::txtsize --> Trsrahuslpbrhnhlr:::txtsize
-Cntsusarngugdert:::txtsize --> Cnorirntttidpxs:::txtsize
-Cnorirntttidpxs:::txtsize --> bmlebfgcedpfllhai:::txtsize
-Cnorirntttidpxs:::txtsize --> Feheleeepbydg:::txtsize
+Rebdikajde:::txtsize --> Rebdikadsipetdul:::txtsize
+Rebdikadsipetdul:::txtsize --> TmifstninusrdsWrp:::txtsize
+TmifstninusrdsWrp:::txtsize --> BrccnabRaekoefi:::txtsize
+TmifstninusrdsWrp:::txtsize --> BrccnabRaekoefi:::txtsize
+Rebdikadsipetdul:::txtsize --> BrccnabRaekoefi:::txtsize
+BrccnabRaekoefi:::txtsize --> Brsoasnritoe:::txtsize
+BrccnabRaekoefi:::txtsize --> UFsrserirend:::txtsize
+Rebdikajde:::txtsize --> TmifstninusrdsWrp:::txtsize
+TmifstninusrdsWrp:::txtsize --> BrccnabRaekoefi:::txtsize
+BrccnabRaekoefi:::txtsize --> Brsoasnritoe:::txtsize
+BrccnabRaekoefi:::txtsize --> UFsrserirend:::txtsize
+TmifstninusrdsWrp:::txtsize --> BrccnabRaekoefi:::txtsize
+BrccnabRaekoefi:::txtsize --> Brsoasnritoe:::txtsize
+BrccnabRaekoefi:::txtsize --> UFsrserirend:::txtsize
 
-Nxosdahntrit@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:39 PM_
-New mexico fossils show dinosaurs thriving just before annihilation" }
-Fgsteeesenoec@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:00 AM_
-From a giant ‘squid’ to a t-rex: science centre’s biggest dino expo to open on oct 11" }
+Rarrofysegadakcy@{ shape: win-pane, label: "_Published Oct 24, 2025, 10:50 PM_
+Russia’s fourth-largest oil refinery halts processing unit after drone attack, sources say" }
+UnisegofimsoRa@{ shape: win-pane, label: "_Published Sep 21, 2025, 12:50 AM_
+Ukraine claims its drones targeted oil refineries, pumping stations in russia" }
+Unsfirofgl@{ shape: win-pane, label: "_Published Sep 13, 2025, 10:15 PM_
+Ukraine hits one of russia’s largest oil refining complexes" }
+RaUnhercasrtdb@{ shape: win-pane, label: "_Published Sep 07, 2025, 10:16 AM_
+Russia hits ukraine with biggest air attack of war, sets government building ablaze" }
+Unlyiuoilnsn@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:23 PM_
+Ukraine’s military says it struck two russian oil refineries overnight" }
+RaUnhadsiiyy@{ shape: win-pane, label: "_Published Sep 20, 2025, 03:36 PM_
+Russia hits ukraine with barrage of drones, missiles, kills 3, kyiv says" }
+UnrrcoiSol@{ shape: win-pane, label: "_Published Sep 19, 2025, 11:06 PM_
+Ukraine courts foreign cash for military ‘silicon valley’" }
+TsShepaRaia@{ shape: win-pane, label: "_Published Sep 19, 2025, 04:26 AM_
+Trump says us will help secure peace after russia’s war in ukraine" }
+UnoteamRarmce@{ shape: win-pane, label: "_Published Sep 24, 2025, 03:12 PM_
+Ukraine’s drones stage new attack on major russian petrochemical complex" }
+Unnrusoioxii@{ shape: win-pane, label: "_Published Sep 18, 2025, 10:55 PM_
+Ukraine drones target russia’s petrochemical complex and oil refinery" }
+Unlyiuoilnsn@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:23 PM_
+Ukraine’s military says it struck two russian oil refineries overnight" }
+UnnsRawrtnrii@{ shape: win-pane, label: "_Published Sep 12, 2025, 10:58 PM_
+Ukraine drones disrupt russia’s key western oil terminal for the first time" }
+UnisegofimsoRa@{ shape: win-pane, label: "_Published Sep 21, 2025, 12:50 AM_
+Ukraine claims its drones targeted oil refineries, pumping stations in russia" }
+Unsfirofgl@{ shape: win-pane, label: "_Published Sep 13, 2025, 10:15 PM_
+Ukraine hits one of russia’s largest oil refining complexes" }
+RaUnhadsiiyy@{ shape: win-pane, label: "_Published Sep 20, 2025, 03:36 PM_
+Russia hits ukraine with barrage of drones, missiles, kills 3, kyiv says" }
 
-Nxosdahntrit:::txtsize --> Fgsteeesenoec:::txtsize
+Rarrofysegadakcy:::txtsize --> UnisegofimsoRa:::txtsize
+UnisegofimsoRa:::txtsize --> Unsfirofgl:::txtsize
+Unsfirofgl:::txtsize --> RaUnhercasrtdb:::txtsize
+Unsfirofgl:::txtsize --> Unlyiuoilnsn:::txtsize
+UnisegofimsoRa:::txtsize --> RaUnhadsiiyy:::txtsize
+RaUnhadsiiyy:::txtsize --> UnrrcoiSol:::txtsize
+RaUnhadsiiyy:::txtsize --> TsShepaRaia:::txtsize
+Rarrofysegadakcy:::txtsize --> UnoteamRarmce:::txtsize
+UnoteamRarmce:::txtsize --> Unnrusoioxii:::txtsize
+Unnrusoioxii:::txtsize --> Unlyiuoilnsn:::txtsize
+Unnrusoioxii:::txtsize --> UnnsRawrtnrii:::txtsize
+UnoteamRarmce:::txtsize --> UnisegofimsoRa:::txtsize
+UnisegofimsoRa:::txtsize --> Unsfirofgl:::txtsize
+UnisegofimsoRa:::txtsize --> RaUnhadsiiyy:::txtsize
 
 ```
-<i>Last updated: 2025-10-24 20:01:08.416096 (GMT+8)</i>
+<i>Last updated: 2025-10-25 00:00:30.901168 (GMT+8)</i>
 <!-- END -->
