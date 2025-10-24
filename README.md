@@ -16,144 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-PdetUnormssaaw@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 PM_
-Poland sentences three ukrainians over arson, amid russian sabotage crackdown" }
-Rebdikajde@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:00 PM_
-Ringleader behind russia-linked uk arson jailed for 17 years" }
-Rebdikadsipetdul@{ shape: win-pane, label: "_Published Oct 24, 2025, 12:34 AM_
-Ringleader behind russia-linked uk arson discussed kidnapping revolut founder, court told" }
-TmifstninusrdsWrp@{ shape: win-pane, label: "_Published Jul 08, 2025, 09:12 PM_
-Three men guilty of uk arson attack on ukraine-linked businesses ordered by russia’s wagner group" }
-BrccnabRaekoefi@{ shape: win-pane, label: "_Published Mar 07, 2025, 11:11 PM_
-Bulgarians convicted in britain of being russian spies working for wirecard fugitive" }
-TmifstninusrdsWrp@{ shape: win-pane, label: "_Published Jul 08, 2025, 09:12 PM_
-Three men guilty of uk arson attack on ukraine-linked businesses ordered by russia’s wagner group" }
-BrccnabRaekoefi@{ shape: win-pane, label: "_Published Mar 07, 2025, 11:11 PM_
-Bulgarians convicted in britain of being russian spies working for wirecard fugitive" }
-BrccnabRaekoefi@{ shape: win-pane, label: "_Published Mar 07, 2025, 11:11 PM_
-Bulgarians convicted in britain of being russian spies working for wirecard fugitive" }
-Edaptrrttdyy@{ shape: win-pane, label: "_Published Oct 08, 2025, 03:42 PM_
-Eu needs broad response to hybrid warfare threats, von der leyen says" }
-Eneonecdce@{ shape: win-pane, label: "_Published Oct 06, 2025, 05:21 PM_
-Eu’s von der leyen confronts fresh no-confidence challenges" }
-Eeuneuefcerr@{ shape: win-pane, label: "_Published Jul 10, 2025, 06:38 PM_
-Eu chief ursula von der leyen survives confidence vote by large margin" }
-UntUbghtHru@{ shape: win-pane, label: "_Published Oct 06, 2025, 02:17 PM_
-Ukraine’s path to eu will be tough, with or without hungarian hurdle" }
-RaEponettasydoes@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:40 PM_
-Russia says eu proposal on loan and reparations to ukraine is crazy, will draw tough response" }
-Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
-Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
-Rasptlfnttss@{ shape: win-pane, label: "_Published Sep 15, 2025, 04:05 PM_
-Russia warns europe that it will go after any state that takes its assets" }
+Uialtyesfreols@{ shape: win-pane, label: "_Published Oct 25, 2025, 03:09 AM_
+Uk minister ‘appalled’ after asylum seeker sex offender is freed from jail by mistake" }
+Fesicnoitsa@{ shape: win-pane, label: "_Published Jun 19, 2025, 05:21 PM_
+France mulls over intercepting uk-bound migrant boats at sea" }
+UasuleonruoFee@{ shape: win-pane, label: "_Published May 12, 2025, 05:36 AM_
+Uk’s starmer steps up english tests, toughens migrant rules to halt farage’s rise" }
+Pisirlpwahtttit@{ shape: win-pane, label: "_Published May 03, 2025, 05:40 PM_
+Political tsunami: reform uk’s local polls win a major threat to britain’s two main parties" }
+Ktroreoiensnnsa@{ shape: win-pane, label: "_Published Jul 05, 2024, 12:05 PM_
+Keir starmer’s labour party sweeps to british election win as pm sunak concedes defeat" }
+Rdeednars@{ shape: win-pane, label: "_Published Mar 21, 2025, 05:41 PM_
+Record number of people died on migration routes in 2024: un" }
+BiartaoesiiIn@{ shape: win-pane, label: "_Published Oct 08, 2025, 07:17 AM_
+Britain’s starmer resists demands for more visas for high-skilled indians" }
+TtoeBealt@{ shape: win-pane, label: "_Published Sep 20, 2025, 04:36 AM_
+Trump to impose $130,000 fee for h-1b worker visas in blow to tech" }
+Lissashrtfisal@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:12 AM_
+Lawsuit says musk’s tesla hires visa holders instead of americans so it can pay less" }
+SKaolvsbeuboen@{ shape: win-pane, label: "_Published Sep 19, 2025, 03:30 PM_
+South korea aims to resolve us visa issues before executing $450 billion investment" }
+BiIsracidi@{ shape: win-pane, label: "_Published Jul 25, 2025, 06:54 AM_
+Britain and india sign free trade pact during modi visit" }
+TtfsgctAhlgmaig@{ shape: win-pane, label: "_Published Jul 23, 2025, 12:15 PM_
+Trump tariff deals bring some clarity for asia, the world’s biggest manufacturing region" }
+FnappvRaiwn@{ shape: win-pane, label: "_Published Jul 24, 2025, 11:39 PM_
+Firm in india shipped explosives to russia despite us warnings" }
 
-PdetUnormssaaw:::txtsize --> Rebdikajde:::txtsize
-Rebdikajde:::txtsize --> Rebdikadsipetdul:::txtsize
-Rebdikadsipetdul:::txtsize --> TmifstninusrdsWrp:::txtsize
-Rebdikadsipetdul:::txtsize --> BrccnabRaekoefi:::txtsize
-Rebdikajde:::txtsize --> TmifstninusrdsWrp:::txtsize
-TmifstninusrdsWrp:::txtsize --> BrccnabRaekoefi:::txtsize
-TmifstninusrdsWrp:::txtsize --> BrccnabRaekoefi:::txtsize
-PdetUnormssaaw:::txtsize --> Edaptrrttdyy:::txtsize
-Edaptrrttdyy:::txtsize --> Eneonecdce:::txtsize
-Eneonecdce:::txtsize --> Eeuneuefcerr:::txtsize
-Eneonecdce:::txtsize --> UntUbghtHru:::txtsize
-Edaptrrttdyy:::txtsize --> RaEponettasydoes:::txtsize
-RaEponettasydoes:::txtsize --> Elrgessfakeoau:::txtsize
-RaEponettasydoes:::txtsize --> Rasptlfnttss:::txtsize
+Uialtyesfreols:::txtsize --> Fesicnoitsa:::txtsize
+Fesicnoitsa:::txtsize --> UasuleonruoFee:::txtsize
+UasuleonruoFee:::txtsize --> Pisirlpwahtttit:::txtsize
+UasuleonruoFee:::txtsize --> Ktroreoiensnnsa:::txtsize
+Fesicnoitsa:::txtsize --> Rdeednars:::txtsize
+Uialtyesfreols:::txtsize --> BiartaoesiiIn:::txtsize
+BiartaoesiiIn:::txtsize --> TtoeBealt:::txtsize
+TtoeBealt:::txtsize --> Lissashrtfisal:::txtsize
+TtoeBealt:::txtsize --> SKaolvsbeuboen:::txtsize
+BiartaoesiiIn:::txtsize --> BiIsracidi:::txtsize
+BiIsracidi:::txtsize --> TtfsgctAhlgmaig:::txtsize
+BiIsracidi:::txtsize --> FnappvRaiwn:::txtsize
 
-Rebdikajde@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:00 PM_
-Ringleader behind russia-linked uk arson jailed for 17 years" }
-Rebdikadsipetdul@{ shape: win-pane, label: "_Published Oct 24, 2025, 12:34 AM_
-Ringleader behind russia-linked uk arson discussed kidnapping revolut founder, court told" }
-TmifstninusrdsWrp@{ shape: win-pane, label: "_Published Jul 08, 2025, 09:12 PM_
-Three men guilty of uk arson attack on ukraine-linked businesses ordered by russia’s wagner group" }
-BrccnabRaekoefi@{ shape: win-pane, label: "_Published Mar 07, 2025, 11:11 PM_
-Bulgarians convicted in britain of being russian spies working for wirecard fugitive" }
-BrccnabRaekoefi@{ shape: win-pane, label: "_Published Mar 07, 2025, 11:11 PM_
-Bulgarians convicted in britain of being russian spies working for wirecard fugitive" }
-BrccnabRaekoefi@{ shape: win-pane, label: "_Published Mar 07, 2025, 11:11 PM_
-Bulgarians convicted in britain of being russian spies working for wirecard fugitive" }
-Brsoasnritoe@{ shape: win-pane, label: "_Published Nov 29, 2024, 12:28 AM_
-Bulgarians spied on us base, dissidents for russia, british court hears" }
-UFsrserirend@{ shape: win-pane, label: "_Published Nov 26, 2024, 11:03 PM_
-Us air force says drones spotted over its military bases in england" }
-TmifstninusrdsWrp@{ shape: win-pane, label: "_Published Jul 08, 2025, 09:12 PM_
-Three men guilty of uk arson attack on ukraine-linked businesses ordered by russia’s wagner group" }
-BrccnabRaekoefi@{ shape: win-pane, label: "_Published Mar 07, 2025, 11:11 PM_
-Bulgarians convicted in britain of being russian spies working for wirecard fugitive" }
-Brsoasnritoe@{ shape: win-pane, label: "_Published Nov 29, 2024, 12:28 AM_
-Bulgarians spied on us base, dissidents for russia, british court hears" }
-UFsrserirend@{ shape: win-pane, label: "_Published Nov 26, 2024, 11:03 PM_
-Us air force says drones spotted over its military bases in england" }
-BrccnabRaekoefi@{ shape: win-pane, label: "_Published Mar 07, 2025, 11:11 PM_
-Bulgarians convicted in britain of being russian spies working for wirecard fugitive" }
-Brsoasnritoe@{ shape: win-pane, label: "_Published Nov 29, 2024, 12:28 AM_
-Bulgarians spied on us base, dissidents for russia, british court hears" }
-UFsrserirend@{ shape: win-pane, label: "_Published Nov 26, 2024, 11:03 PM_
-Us air force says drones spotted over its military bases in england" }
+NaSshtdragcn@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:57 AM_
+Nato baltic sea mission has ‘deterred’ undersea sabotage, say commanders" }
+Notipntdarrabn@{ shape: win-pane, label: "_Published Dec 28, 2024, 12:41 AM_
+Nato to boost baltic sea presence after undersea power, internet cables broken" }
+FnooaiaBcd@{ shape: win-pane, label: "_Published Dec 25, 2024, 09:59 PM_
+Finland-estonia power cable hit in latest baltic incident" }
+Eetdnshdcbten@{ shape: win-pane, label: "_Published Nov 19, 2024, 10:02 PM_
+European nations denounce russian hybrid attacks, cable cut probes launched" }
+EsunhCspricsed@{ shape: win-pane, label: "_Published Nov 28, 2024, 10:51 AM_
+Eu vessels surround anchored chinese ship after baltic sea cables are severed" }
+RappifniEt@{ shape: win-pane, label: "_Published Dec 07, 2024, 05:57 PM_
+Russia stepping up hybrid warfare in baltic sea: experts" }
+Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
+Timeline: how russia's attack on ukraine unfolded" }
+FnooaiaBcd@{ shape: win-pane, label: "_Published Dec 25, 2024, 09:59 PM_
+Finland-estonia power cable hit in latest baltic incident" }
+Eetdnshdcbten@{ shape: win-pane, label: "_Published Nov 19, 2024, 10:02 PM_
+European nations denounce russian hybrid attacks, cable cut probes launched" }
+UnkaRaaenat@{ shape: win-pane, label: "_Published Nov 19, 2024, 06:11 AM_
+Ukraine, marking 1,000 days of russian invasion, eyes end to war next year" }
+Raersrisiek@{ shape: win-pane, label: "_Published Nov 17, 2024, 01:40 PM_
+Russia targets ukraine’s power grid in ‘massive’ missile strike" }
+EsunhCspricsed@{ shape: win-pane, label: "_Published Nov 28, 2024, 10:51 AM_
+Eu vessels surround anchored chinese ship after baltic sea cables are severed" }
+PdoaSlgitbu@{ shape: win-pane, label: "_Published Nov 28, 2024, 01:21 AM_
+Poland proposes baltic sea policing mission after cables cut" }
+Ppsaeerelitn@{ shape: win-pane, label: "_Published Aug 19, 2024, 08:38 AM_
+Philippines, china trade blame after vessels collide in south china sea" }
 
-Rebdikajde:::txtsize --> Rebdikadsipetdul:::txtsize
-Rebdikadsipetdul:::txtsize --> TmifstninusrdsWrp:::txtsize
-TmifstninusrdsWrp:::txtsize --> BrccnabRaekoefi:::txtsize
-TmifstninusrdsWrp:::txtsize --> BrccnabRaekoefi:::txtsize
-Rebdikadsipetdul:::txtsize --> BrccnabRaekoefi:::txtsize
-BrccnabRaekoefi:::txtsize --> Brsoasnritoe:::txtsize
-BrccnabRaekoefi:::txtsize --> UFsrserirend:::txtsize
-Rebdikajde:::txtsize --> TmifstninusrdsWrp:::txtsize
-TmifstninusrdsWrp:::txtsize --> BrccnabRaekoefi:::txtsize
-BrccnabRaekoefi:::txtsize --> Brsoasnritoe:::txtsize
-BrccnabRaekoefi:::txtsize --> UFsrserirend:::txtsize
-TmifstninusrdsWrp:::txtsize --> BrccnabRaekoefi:::txtsize
-BrccnabRaekoefi:::txtsize --> Brsoasnritoe:::txtsize
-BrccnabRaekoefi:::txtsize --> UFsrserirend:::txtsize
+NaSshtdragcn:::txtsize --> Notipntdarrabn:::txtsize
+Notipntdarrabn:::txtsize --> FnooaiaBcd:::txtsize
+FnooaiaBcd:::txtsize --> Eetdnshdcbten:::txtsize
+FnooaiaBcd:::txtsize --> EsunhCspricsed:::txtsize
+Notipntdarrabn:::txtsize --> RappifniEt:::txtsize
+RappifniEt:::txtsize --> Tiwitnifd:::txtsize
+NaSshtdragcn:::txtsize --> FnooaiaBcd:::txtsize
+FnooaiaBcd:::txtsize --> Eetdnshdcbten:::txtsize
+Eetdnshdcbten:::txtsize --> UnkaRaaenat:::txtsize
+Eetdnshdcbten:::txtsize --> Raersrisiek:::txtsize
+FnooaiaBcd:::txtsize --> EsunhCspricsed:::txtsize
+EsunhCspricsed:::txtsize --> PdoaSlgitbu:::txtsize
+EsunhCspricsed:::txtsize --> Ppsaeerelitn:::txtsize
 
-Rarrofysegadakcy@{ shape: win-pane, label: "_Published Oct 24, 2025, 10:50 PM_
-Russia’s fourth-largest oil refinery halts processing unit after drone attack, sources say" }
-UnisegofimsoRa@{ shape: win-pane, label: "_Published Sep 21, 2025, 12:50 AM_
-Ukraine claims its drones targeted oil refineries, pumping stations in russia" }
-Unsfirofgl@{ shape: win-pane, label: "_Published Sep 13, 2025, 10:15 PM_
-Ukraine hits one of russia’s largest oil refining complexes" }
-RaUnhercasrtdb@{ shape: win-pane, label: "_Published Sep 07, 2025, 10:16 AM_
-Russia hits ukraine with biggest air attack of war, sets government building ablaze" }
-Unlyiuoilnsn@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:23 PM_
-Ukraine’s military says it struck two russian oil refineries overnight" }
-RaUnhadsiiyy@{ shape: win-pane, label: "_Published Sep 20, 2025, 03:36 PM_
-Russia hits ukraine with barrage of drones, missiles, kills 3, kyiv says" }
-UnrrcoiSol@{ shape: win-pane, label: "_Published Sep 19, 2025, 11:06 PM_
-Ukraine courts foreign cash for military ‘silicon valley’" }
-TsShepaRaia@{ shape: win-pane, label: "_Published Sep 19, 2025, 04:26 AM_
-Trump says us will help secure peace after russia’s war in ukraine" }
-UnoteamRarmce@{ shape: win-pane, label: "_Published Sep 24, 2025, 03:12 PM_
-Ukraine’s drones stage new attack on major russian petrochemical complex" }
-Unnrusoioxii@{ shape: win-pane, label: "_Published Sep 18, 2025, 10:55 PM_
-Ukraine drones target russia’s petrochemical complex and oil refinery" }
-Unlyiuoilnsn@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:23 PM_
-Ukraine’s military says it struck two russian oil refineries overnight" }
-UnnsRawrtnrii@{ shape: win-pane, label: "_Published Sep 12, 2025, 10:58 PM_
-Ukraine drones disrupt russia’s key western oil terminal for the first time" }
-UnisegofimsoRa@{ shape: win-pane, label: "_Published Sep 21, 2025, 12:50 AM_
-Ukraine claims its drones targeted oil refineries, pumping stations in russia" }
-Unsfirofgl@{ shape: win-pane, label: "_Published Sep 13, 2025, 10:15 PM_
-Ukraine hits one of russia’s largest oil refining complexes" }
-RaUnhadsiiyy@{ shape: win-pane, label: "_Published Sep 20, 2025, 03:36 PM_
-Russia hits ukraine with barrage of drones, missiles, kills 3, kyiv says" }
+Lahittlfessmty@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:50 AM_
+Lithuania shuts airports due to balloons from belarus, transport ministry says" }
+Slanctonit@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:20 PM_
+Smugglers’ balloons force shutdown of vilnius airport" }
+LaVupesroausii@{ shape: win-pane, label: "_Published Oct 05, 2025, 02:01 PM_
+Lithuania’s vilnius airport reopens after balloons cause suspension, diversions" }
+NeLauiirhooiisp@{ shape: win-pane, label: "_Published Sep 23, 2025, 10:37 PM_
+Nato member lithuania authorises military to shoot down drones violating its airspace" }
+Urstopsrtsetis@{ shape: win-pane, label: "_Published Sep 23, 2025, 08:51 AM_
+Use ukraine’s counter drone expertise to protect nato’s borders, lithuania says" }
+Bsovwotdsglp@{ shape: win-pane, label: "_Published Oct 20, 2025, 07:36 AM_
+British troops given powers to shoot down drones on sight: telegraph" }
+Dsunitsdiesnne@{ shape: win-pane, label: "_Published Sep 25, 2025, 06:07 AM_
+Drones disrupt danish airports for second time in a week; russia denies involvement" }
+Gnlotone@{ shape: win-pane, label: "_Published Oct 08, 2025, 06:17 PM_
+Germany to allow police to shoot down drones" }
 
-Rarrofysegadakcy:::txtsize --> UnisegofimsoRa:::txtsize
-UnisegofimsoRa:::txtsize --> Unsfirofgl:::txtsize
-Unsfirofgl:::txtsize --> RaUnhercasrtdb:::txtsize
-Unsfirofgl:::txtsize --> Unlyiuoilnsn:::txtsize
-UnisegofimsoRa:::txtsize --> RaUnhadsiiyy:::txtsize
-RaUnhadsiiyy:::txtsize --> UnrrcoiSol:::txtsize
-RaUnhadsiiyy:::txtsize --> TsShepaRaia:::txtsize
-Rarrofysegadakcy:::txtsize --> UnoteamRarmce:::txtsize
-UnoteamRarmce:::txtsize --> Unnrusoioxii:::txtsize
-Unnrusoioxii:::txtsize --> Unlyiuoilnsn:::txtsize
-Unnrusoioxii:::txtsize --> UnnsRawrtnrii:::txtsize
-UnoteamRarmce:::txtsize --> UnisegofimsoRa:::txtsize
-UnisegofimsoRa:::txtsize --> Unsfirofgl:::txtsize
-UnisegofimsoRa:::txtsize --> RaUnhadsiiyy:::txtsize
+Lahittlfessmty:::txtsize --> Slanctonit:::txtsize
+Slanctonit:::txtsize --> LaVupesroausii:::txtsize
+LaVupesroausii:::txtsize --> NeLauiirhooiisp:::txtsize
+LaVupesroausii:::txtsize --> Urstopsrtsetis:::txtsize
+Slanctonit:::txtsize --> Bsovwotdsglp:::txtsize
+Bsovwotdsglp:::txtsize --> Dsunitsdiesnne:::txtsize
+Bsovwotdsglp:::txtsize --> Gnlotone:::txtsize
 
 ```
-<i>Last updated: 2025-10-25 00:00:30.901168 (GMT+8)</i>
+<i>Last updated: 2025-10-25 04:00:49.811899 (GMT+8)</i>
 <!-- END -->
