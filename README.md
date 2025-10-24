@@ -16,123 +16,117 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-AsceLgPaieol@{ shape: win-pane, label: "_Published Oct 24, 2025, 07:25 AM_
-Arson suspect in deadly los angeles palisades fire pleads not guilty" }
-Mrddyaroeui@{ shape: win-pane, label: "_Published Oct 09, 2025, 01:47 AM_
-Man arrested over deadly january fire in los angeles: authorities" }
-Lgwiptlddtc@{ shape: win-pane, label: "_Published Jan 09, 2025, 06:23 AM_
-Los angeles wildfires spread to hollywood as 100,000 ordered to evacuate" }
-WigLgfnsodl@{ shape: win-pane, label: "_Published Jan 08, 2025, 06:38 AM_
-Wildfire rages in los angeles, forcing tens of thousands to flee" }
-Wiaeaadenips@{ shape: win-pane, label: "_Published Aug 16, 2023, 04:46 PM_
-Wildfires can have global impact and are set to intensify, experts say" }
-MvLgailsnc@{ shape: win-pane, label: "_Published Jan 23, 2025, 10:52 PM_
-Massive new los angeles-area fire balloons as winds pick up" }
-Mvtaeseetrns@{ shape: win-pane, label: "_Published Jan 23, 2025, 05:16 AM_
-Mass evacuations after explosive new fire erupts near los angeles" }
-Tetiariraw@{ shape: win-pane, label: "_Published Jan 19, 2025, 10:45 AM_
-Trump expects to visit  california wildfire area next week" }
-ScPaeatesnAee@{ shape: win-pane, label: "_Published Jan 12, 2025, 04:32 AM_
-See pacific palisades before and after the devastating los angeles fires" }
-Bslleciiseesweg@{ shape: win-pane, label: "_Published Jan 11, 2025, 10:20 PM_
-Big los angeles wildfire switches direction, posing new threat despite winds easing" }
-Sneeytoollhlsid@{ shape: win-pane, label: "_Published Jan 11, 2025, 12:52 PM_
-Sharon stone, halle berry and other hollywood celebs clear their closets for fire aid" }
-Dtgrpdsnnes@{ shape: win-pane, label: "_Published Jan 11, 2025, 10:58 AM_
-Devastating la fires expected to push up insurance premiums" }
-Sneeytoollhlsid@{ shape: win-pane, label: "_Published Jan 11, 2025, 12:52 PM_
-Sharon stone, halle berry and other hollywood celebs clear their closets for fire aid" }
-Ldsuusmale@{ shape: win-pane, label: "_Published Jan 10, 2025, 06:10 PM_
-La wildfires devour thousands of homes; death toll rises to 10" }
-PHngbeomLe@{ shape: win-pane, label: "_Published Jan 10, 2025, 05:37 AM_
-Paris hilton among celebrities to lose homes in la fires" }
+Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
+Trump says all trade talks with canada are terminated" }
+Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
+Trump talks up canada trade deal chances with ‘world-class’ carney" }
+CasunSourist@{ shape: win-pane, label: "_Published Apr 29, 2025, 03:22 AM_
+Canada votes as trump renews us takeover push for ‘cherished 51st state’" }
+LaastagtVut@{ shape: win-pane, label: "_Published Apr 28, 2025, 02:06 AM_
+Last day of canada’s election campaign jolted by vancouver attack" }
+Wuenaaa@{ shape: win-pane, label: "_Published Jan 08, 2025, 05:00 AM_
+Why would the us want canada as a 51st state?" }
+TtotfermsN@{ shape: win-pane, label: "_Published Oct 07, 2025, 03:17 AM_
+Trump to impose 25% us tariffs on heavy truck imports from nov 1" }
+Tsaobpoiarr@{ shape: win-pane, label: "_Published Sep 30, 2025, 11:40 AM_
+Trump sets 10% tariff on lumber imports, 25% on cabinets and furniture" }
+TfgSfrsvocrrth@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:35 AM_
+Tariffs weigh on us manufacturing as activity contracts for 7th straight month" }
+Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
+Trump talks up canada trade deal chances with ‘world-class’ carney" }
+CasunSourist@{ shape: win-pane, label: "_Published Apr 29, 2025, 03:22 AM_
+Canada votes as trump renews us takeover push for ‘cherished 51st state’" }
+LaastagtVut@{ shape: win-pane, label: "_Published Apr 28, 2025, 02:06 AM_
+Last day of canada’s election campaign jolted by vancouver attack" }
+Wuenaaa@{ shape: win-pane, label: "_Published Jan 08, 2025, 05:00 AM_
+Why would the us want canada as a 51st state?" }
+TtotfermsN@{ shape: win-pane, label: "_Published Oct 07, 2025, 03:17 AM_
+Trump to impose 25% us tariffs on heavy truck imports from nov 1" }
+Tsaobpoiarr@{ shape: win-pane, label: "_Published Sep 30, 2025, 11:40 AM_
+Trump sets 10% tariff on lumber imports, 25% on cabinets and furniture" }
+TfgSfrsvocrrth@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:35 AM_
+Tariffs weigh on us manufacturing as activity contracts for 7th straight month" }
 
-AsceLgPaieol:::txtsize --> Mrddyaroeui:::txtsize
-Mrddyaroeui:::txtsize --> Lgwiptlddtc:::txtsize
-Lgwiptlddtc:::txtsize --> WigLgfnsodl:::txtsize
-Lgwiptlddtc:::txtsize --> Wiaeaadenips:::txtsize
-Mrddyaroeui:::txtsize --> MvLgailsnc:::txtsize
-MvLgailsnc:::txtsize --> Mvtaeseetrns:::txtsize
-MvLgailsnc:::txtsize --> Tetiariraw:::txtsize
-AsceLgPaieol:::txtsize --> ScPaeatesnAee:::txtsize
-ScPaeatesnAee:::txtsize --> Bslleciiseesweg:::txtsize
-Bslleciiseesweg:::txtsize --> Sneeytoollhlsid:::txtsize
-Bslleciiseesweg:::txtsize --> Dtgrpdsnnes:::txtsize
-ScPaeatesnAee:::txtsize --> Sneeytoollhlsid:::txtsize
-Sneeytoollhlsid:::txtsize --> Ldsuusmale:::txtsize
-Sneeytoollhlsid:::txtsize --> PHngbeomLe:::txtsize
+Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
+Ttuaaanirar:::txtsize --> CasunSourist:::txtsize
+CasunSourist:::txtsize --> LaastagtVut:::txtsize
+CasunSourist:::txtsize --> Wuenaaa:::txtsize
+Ttuaaanirar:::txtsize --> TtotfermsN:::txtsize
+TtotfermsN:::txtsize --> Tsaobpoiarr:::txtsize
+TtotfermsN:::txtsize --> TfgSfrsvocrrth:::txtsize
+Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
+Ttuaaanirar:::txtsize --> CasunSourist:::txtsize
+CasunSourist:::txtsize --> LaastagtVut:::txtsize
+CasunSourist:::txtsize --> Wuenaaa:::txtsize
+Ttuaaanirar:::txtsize --> TtotfermsN:::txtsize
+TtotfermsN:::txtsize --> Tsaobpoiarr:::txtsize
+TtotfermsN:::txtsize --> TfgSfrsvocrrth:::txtsize
 
-Tsrermvlyuso@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:18 AM_
-Trump says private donor gave $160m to cover military pay during shutdown" }
-Utrdetliehwg@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:31 PM_
-Us states warn food aid benefits will halt if federal shutdown drags on" }
-Tciundsinoiei@{ shape: win-pane, label: "_Published Mar 25, 2025, 06:33 PM_
-Trump cuts hit struggling food banks, risking hunger for low-income americans" }
-Hiacoaoine@{ shape: win-pane, label: "_Published Mar 25, 2025, 10:45 AM_
-Humanitarian aid cuts could cause more children to die: un" }
+Atuucesuec@{ shape: win-pane, label: "_Published Oct 24, 2025, 09:59 AM_
+Autistic adults push back on ‘fear-based’ trump rhetoric" }
+Tlampelaeitece@{ shape: win-pane, label: "_Published Sep 23, 2025, 04:56 AM_
+Trump links autism with paracetamol and vaccines, claims not backed by science" }
+Taitopeltago@{ shape: win-pane, label: "_Published Sep 22, 2025, 08:53 PM_
+Trump administration to link paracetamol to autism: washington post" }
+TwskoisC@{ shape: win-pane, label: "_Published Sep 13, 2025, 12:58 PM_
+Trump weighs crackdown on medicines from china" }
+Osptegdaedo@{ shape: win-pane, label: "_Published Sep 16, 2025, 02:25 AM_
+One in six us parents rejecting standard vaccine schedule: poll" }
+TwskoisC@{ shape: win-pane, label: "_Published Sep 13, 2025, 12:58 PM_
+Trump weighs crackdown on medicines from china" }
+Tshtfog@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:50 PM_
+Trump says pharma tariff may go as high as 250%" }
+
+Atuucesuec:::txtsize --> Tlampelaeitece:::txtsize
+Tlampelaeitece:::txtsize --> Taitopeltago:::txtsize
+Taitopeltago:::txtsize --> TwskoisC:::txtsize
+Taitopeltago:::txtsize --> Osptegdaedo:::txtsize
+Tlampelaeitece:::txtsize --> TwskoisC:::txtsize
+TwskoisC:::txtsize --> Tshtfog:::txtsize
+
+UtdamldswHoWn@{ shape: win-pane, label: "_Published Oct 24, 2025, 08:43 AM_
+Us govt shutdown causes more flight delays in new york, houston and washington" }
+Fyifolfscngl@{ shape: win-pane, label: "_Published Oct 20, 2025, 08:12 AM_
+Faa says us air traffic control staffing issues causing flight delays" }
 Waswhomhw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:42 PM_
 What happens next with the us government shutdown?" }
 TsSrtpbun@{ shape: win-pane, label: "_Published Oct 01, 2025, 01:49 AM_
 Trump says us government will ‘probably’ shut down" }
 Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
 Us government begins shutdown that may lead to mass layoffs and cuts" }
-Aomhwgnmeegcilc@{ shape: win-pane, label: "_Published Oct 23, 2025, 08:20 AM_
-As us government shutdown drags on and trump takes power, congress cedes its relevance" }
-Waswhomhw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:42 PM_
-What happens next with the us government shutdown?" }
-TsSrtpbun@{ shape: win-pane, label: "_Published Oct 01, 2025, 01:49 AM_
-Trump says us government will ‘probably’ shut down" }
+Ugbttoaphesd@{ shape: win-pane, label: "_Published Sep 29, 2025, 08:35 AM_
+Us congress budget negotiations: what happens when the govt shuts down?" }
+RlsDroeorleomp@{ shape: win-pane, label: "_Published Sep 29, 2025, 12:28 AM_
+Republicans urge democrats to agree to short-term bill to keep us government open" }
+Ttscaemafveun@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:50 AM_
+Threat of mass job cuts raises economic stakes of us government shutdown" }
+Utdaacosawuso@{ shape: win-pane, label: "_Published Oct 10, 2025, 04:54 AM_
+Us govt could fire air traffic controllers who fail to work during shutdown" }
+Utittnfcaaft@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:05 AM_
+Us air traffic control staffing hit for second day, delaying flights" }
+Sisaeaithws@{ shape: win-pane, label: "_Published Oct 07, 2025, 07:49 AM_
+Staffing issues cause delays at us airports as shutdown persists" }
+DreipdoeSdletpon@{ shape: win-pane, label: "_Published Oct 09, 2025, 06:08 PM_
+Democrats, republicans, president to blame for us shutdown? all three, reuters/ipsos poll finds" }
 Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
 Us government begins shutdown that may lead to mass layoffs and cuts" }
+FtyerSuni@{ shape: win-pane, label: "_Published Oct 09, 2025, 06:59 AM_
+Flight delays pile up across us as shutdown persists" }
 
-Tsrermvlyuso:::txtsize --> Utrdetliehwg:::txtsize
-Utrdetliehwg:::txtsize --> Tciundsinoiei:::txtsize
-Tciundsinoiei:::txtsize --> Hiacoaoine:::txtsize
-Utrdetliehwg:::txtsize --> Waswhomhw:::txtsize
+UtdamldswHoWn:::txtsize --> Fyifolfscngl:::txtsize
+Fyifolfscngl:::txtsize --> Waswhomhw:::txtsize
 Waswhomhw:::txtsize --> TsSrtpbun:::txtsize
 Waswhomhw:::txtsize --> Ueniunmaayat:::txtsize
-Tsrermvlyuso:::txtsize --> Aomhwgnmeegcilc:::txtsize
-Aomhwgnmeegcilc:::txtsize --> Waswhomhw:::txtsize
-Waswhomhw:::txtsize --> TsSrtpbun:::txtsize
-Waswhomhw:::txtsize --> Ueniunmaayat:::txtsize
-
-Tseaonencl@{ shape: win-pane, label: "_Published Oct 24, 2025, 05:55 AM_
-Trump says declaration of war not needed on drug cartels" }
-Irseravrrfas@{ shape: win-pane, label: "_Published Oct 17, 2025, 08:00 AM_
-In a first, us strike in caribbean leaves survivors, us official says" }
-UiaegonllTs@{ shape: win-pane, label: "_Published Oct 15, 2025, 04:50 AM_
-Us strike on alleged drug boat off venezuela kills six, trump says" }
-Ugcumtoeonns@{ shape: win-pane, label: "_Published Sep 02, 2025, 09:49 PM_
-Us judge blocks trump administration’s use of troops in los angeles" }
-UuCiboontnls@{ shape: win-pane, label: "_Published Oct 11, 2025, 07:58 AM_
-Un security council members voice concern about us-venezuela tensions" }
-Uetvteaenet@{ shape: win-pane, label: "_Published Oct 21, 2025, 11:03 PM_
-Us covert actions ‘violate venezuela’s sovereignty’: un experts" }
-TsSnronlsc@{ shape: win-pane, label: "_Published Oct 06, 2025, 03:42 PM_
-Trump says us hit another boat off venezuela coast on oct 4" }
-Htslyvuiodrbbts@{ shape: win-pane, label: "_Published Oct 06, 2025, 01:01 AM_
-Hegseth says us military has every authorisation needed for caribbean boat strikes" }
-Thtniahclgt@{ shape: win-pane, label: "_Published Oct 03, 2025, 05:25 AM_
-Trump has determined us is at war with drug cartels, congress told" }
-TcrAotnzrnsou@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:05 AM_
-Trump confirms cia authorisation in venezuela, raising pressure on maduro" }
-Thtniahclgt@{ shape: win-pane, label: "_Published Oct 03, 2025, 05:25 AM_
-Trump has determined us is at war with drug cartels, congress told" }
-UuCiboontnls@{ shape: win-pane, label: "_Published Oct 11, 2025, 07:58 AM_
-Un security council members voice concern about us-venezuela tensions" }
-
-Tseaonencl:::txtsize --> Irseravrrfas:::txtsize
-Irseravrrfas:::txtsize --> UiaegonllTs:::txtsize
-UiaegonllTs:::txtsize --> Ugcumtoeonns:::txtsize
-Irseravrrfas:::txtsize --> UuCiboontnls:::txtsize
-Tseaonencl:::txtsize --> Uetvteaenet:::txtsize
-Uetvteaenet:::txtsize --> TsSnronlsc:::txtsize
-TsSnronlsc:::txtsize --> Htslyvuiodrbbts:::txtsize
-TsSnronlsc:::txtsize --> Thtniahclgt:::txtsize
-Uetvteaenet:::txtsize --> TcrAotnzrnsou:::txtsize
-TcrAotnzrnsou:::txtsize --> Thtniahclgt:::txtsize
-TcrAotnzrnsou:::txtsize --> UuCiboontnls:::txtsize
+Fyifolfscngl:::txtsize --> Ugbttoaphesd:::txtsize
+Ugbttoaphesd:::txtsize --> RlsDroeorleomp:::txtsize
+Ugbttoaphesd:::txtsize --> Ttscaemafveun:::txtsize
+UtdamldswHoWn:::txtsize --> Utdaacosawuso:::txtsize
+Utdaacosawuso:::txtsize --> Utittnfcaaft:::txtsize
+Utittnfcaaft:::txtsize --> Sisaeaithws:::txtsize
+Utdaacosawuso:::txtsize --> DreipdoeSdletpon:::txtsize
+DreipdoeSdletpon:::txtsize --> Ueniunmaayat:::txtsize
+DreipdoeSdletpon:::txtsize --> FtyerSuni:::txtsize
 
 ```
-<i>Last updated: 2025-10-24 08:00:57.219470 (GMT+8)</i>
+<i>Last updated: 2025-10-24 12:00:18.525700 (GMT+8)</i>
 <!-- END -->
