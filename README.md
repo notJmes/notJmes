@@ -16,141 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Edednnig@{ shape: win-pane, label: "_Published Oct 24, 2025, 02:55 AM_
-Eu leaders set conditions for new climate goal" }
-Ctpoaiostwhf@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:09 AM_
-Climate tipping points are being crossed, scientists warn ahead of cop30" }
-Rlfriyitnnet@{ shape: win-pane, label: "_Published Aug 20, 2025, 11:17 PM_
-Rapid loss of antarctic ice may be climate tipping point, scientists say" }
-DhlTyirvfnryrs@{ shape: win-pane, label: "_Published Aug 19, 2025, 03:36 PM_
-Drought depletes turkey’s tekirdag reservoirs, forcing emergency water curbs" }
-NruSpeotegon@{ shape: win-pane, label: "_Published Aug 16, 2025, 05:00 AM_
-Nowhere to run: why singapore needs to start protecting its coasts now" }
-Smhotanrmor@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:31 AM_
-September third-hottest globally on record: climate monitor" }
-Hogomfhtd@{ shape: win-pane, label: "_Published Oct 08, 2025, 10:05 PM_
-Hong kong logs record number of ‘very hot’ october days" }
-SmatnraOw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:55 PM_
-September was hottest on record in japan’s okinawa" }
-HpscroepCist@{ shape: win-pane, label: "_Published Oct 03, 2025, 10:50 PM_
-Hotel prices make countries consider skipping cop30 climate summit" }
-Sutatsraoe@{ shape: win-pane, label: "_Published Sep 05, 2025, 11:00 AM_
-‘sleep under the stars’: hotel mess in brazil ahead of un meet" }
-BlhflhsdeOma@{ shape: win-pane, label: "_Published Aug 23, 2025, 07:12 AM_
-Brazil brushes off un call for hotel subsidy in tense cop30 climate talks" }
-UhmasuCItmectn@{ shape: win-pane, label: "_Published Sep 03, 2025, 07:30 PM_
-Un pushes eu, many nations including china, india to submit overdue climate plans" }
-OftholnCcttvr@{ shape: win-pane, label: "_Published Sep 18, 2025, 03:10 AM_
-Only 40% of countries have booked lodging for cop30 un climate meet in november" }
-Sutatsraoe@{ shape: win-pane, label: "_Published Sep 05, 2025, 11:00 AM_
-‘sleep under the stars’: hotel mess in brazil ahead of un meet" }
-BlhflhsdeOma@{ shape: win-pane, label: "_Published Aug 23, 2025, 07:12 AM_
-Brazil brushes off un call for hotel subsidy in tense cop30 climate talks" }
+AsceLgPaieol@{ shape: win-pane, label: "_Published Oct 24, 2025, 07:25 AM_
+Arson suspect in deadly los angeles palisades fire pleads not guilty" }
+Mrddyaroeui@{ shape: win-pane, label: "_Published Oct 09, 2025, 01:47 AM_
+Man arrested over deadly january fire in los angeles: authorities" }
+Lgwiptlddtc@{ shape: win-pane, label: "_Published Jan 09, 2025, 06:23 AM_
+Los angeles wildfires spread to hollywood as 100,000 ordered to evacuate" }
+WigLgfnsodl@{ shape: win-pane, label: "_Published Jan 08, 2025, 06:38 AM_
+Wildfire rages in los angeles, forcing tens of thousands to flee" }
+Wiaeaadenips@{ shape: win-pane, label: "_Published Aug 16, 2023, 04:46 PM_
+Wildfires can have global impact and are set to intensify, experts say" }
+MvLgailsnc@{ shape: win-pane, label: "_Published Jan 23, 2025, 10:52 PM_
+Massive new los angeles-area fire balloons as winds pick up" }
+Mvtaeseetrns@{ shape: win-pane, label: "_Published Jan 23, 2025, 05:16 AM_
+Mass evacuations after explosive new fire erupts near los angeles" }
+Tetiariraw@{ shape: win-pane, label: "_Published Jan 19, 2025, 10:45 AM_
+Trump expects to visit  california wildfire area next week" }
+ScPaeatesnAee@{ shape: win-pane, label: "_Published Jan 12, 2025, 04:32 AM_
+See pacific palisades before and after the devastating los angeles fires" }
+Bslleciiseesweg@{ shape: win-pane, label: "_Published Jan 11, 2025, 10:20 PM_
+Big los angeles wildfire switches direction, posing new threat despite winds easing" }
+Sneeytoollhlsid@{ shape: win-pane, label: "_Published Jan 11, 2025, 12:52 PM_
+Sharon stone, halle berry and other hollywood celebs clear their closets for fire aid" }
+Dtgrpdsnnes@{ shape: win-pane, label: "_Published Jan 11, 2025, 10:58 AM_
+Devastating la fires expected to push up insurance premiums" }
+Sneeytoollhlsid@{ shape: win-pane, label: "_Published Jan 11, 2025, 12:52 PM_
+Sharon stone, halle berry and other hollywood celebs clear their closets for fire aid" }
+Ldsuusmale@{ shape: win-pane, label: "_Published Jan 10, 2025, 06:10 PM_
+La wildfires devour thousands of homes; death toll rises to 10" }
+PHngbeomLe@{ shape: win-pane, label: "_Published Jan 10, 2025, 05:37 AM_
+Paris hilton among celebrities to lose homes in la fires" }
 
-Edednnig:::txtsize --> Ctpoaiostwhf:::txtsize
-Ctpoaiostwhf:::txtsize --> Rlfriyitnnet:::txtsize
-Rlfriyitnnet:::txtsize --> DhlTyirvfnryrs:::txtsize
-Rlfriyitnnet:::txtsize --> NruSpeotegon:::txtsize
-Ctpoaiostwhf:::txtsize --> Smhotanrmor:::txtsize
-Smhotanrmor:::txtsize --> Hogomfhtd:::txtsize
-Smhotanrmor:::txtsize --> SmatnraOw:::txtsize
-Edednnig:::txtsize --> HpscroepCist:::txtsize
-HpscroepCist:::txtsize --> Sutatsraoe:::txtsize
-Sutatsraoe:::txtsize --> BlhflhsdeOma:::txtsize
-Sutatsraoe:::txtsize --> UhmasuCItmectn:::txtsize
-HpscroepCist:::txtsize --> OftholnCcttvr:::txtsize
-OftholnCcttvr:::txtsize --> Sutatsraoe:::txtsize
-OftholnCcttvr:::txtsize --> BlhflhsdeOma:::txtsize
+AsceLgPaieol:::txtsize --> Mrddyaroeui:::txtsize
+Mrddyaroeui:::txtsize --> Lgwiptlddtc:::txtsize
+Lgwiptlddtc:::txtsize --> WigLgfnsodl:::txtsize
+Lgwiptlddtc:::txtsize --> Wiaeaadenips:::txtsize
+Mrddyaroeui:::txtsize --> MvLgailsnc:::txtsize
+MvLgailsnc:::txtsize --> Mvtaeseetrns:::txtsize
+MvLgailsnc:::txtsize --> Tetiariraw:::txtsize
+AsceLgPaieol:::txtsize --> ScPaeatesnAee:::txtsize
+ScPaeatesnAee:::txtsize --> Bslleciiseesweg:::txtsize
+Bslleciiseesweg:::txtsize --> Sneeytoollhlsid:::txtsize
+Bslleciiseesweg:::txtsize --> Dtgrpdsnnes:::txtsize
+ScPaeatesnAee:::txtsize --> Sneeytoollhlsid:::txtsize
+Sneeytoollhlsid:::txtsize --> Ldsuusmale:::txtsize
+Sneeytoollhlsid:::txtsize --> PHngbeomLe:::txtsize
 
-Tsmartftretbti@{ shape: win-pane, label: "_Published Oct 24, 2025, 01:56 AM_
-Two russian military aircraft briefly enter airspace of nato member lithuania" }
-Rasrnicatoo@{ shape: win-pane, label: "_Published Sep 19, 2025, 11:15 PM_
-Russian jets enter estonia’s airspace in latest test for nato" }
-PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
-Poland shoots down drones, the first nato member to open fire during ukraine war" }
-Gnarwerr@{ shape: win-pane, label: "_Published Sep 10, 2025, 01:08 AM_
-Germany to back ukraine with ‘deep-strike’ drones" }
-Raidnocralpd@{ shape: win-pane, label: "_Published Sep 09, 2025, 11:36 PM_
-Russia’s putin ready to invade other countries, says poland’s president" }
-PdmjlLnopnve@{ shape: win-pane, label: "_Published Sep 14, 2025, 12:05 AM_
-Poland scrambles jets, closes lublin airport in ‘preventative’ move" }
-PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
-Poland shoots down drones, the first nato member to open fire during ukraine war" }
-PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
-Poland shoots down drones, the first nato member to open fire during ukraine war" }
-Gnarwerr@{ shape: win-pane, label: "_Published Sep 10, 2025, 01:08 AM_
-Germany to back ukraine with ‘deep-strike’ drones" }
-Raserkcioten@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:37 PM_
-Russian air strike in ukraine kills 23 civilians collecting pensions" }
-Raidnocralpd@{ shape: win-pane, label: "_Published Sep 09, 2025, 11:36 PM_
-Russia’s putin ready to invade other countries, says poland’s president" }
-Raidnocralpd@{ shape: win-pane, label: "_Published Sep 09, 2025, 11:36 PM_
-Russia’s putin ready to invade other countries, says poland’s president" }
-RaUnhercasrtdb@{ shape: win-pane, label: "_Published Sep 07, 2025, 10:16 AM_
-Russia hits ukraine with biggest air attack of war, sets government building ablaze" }
-TwmlNcWHwyke@{ shape: win-pane, label: "_Published Sep 03, 2025, 11:50 PM_
-Trump welcomes poland’s nawrocki to white house with eye on ukraine" }
+Tsrermvlyuso@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:18 AM_
+Trump says private donor gave $160m to cover military pay during shutdown" }
+Utrdetliehwg@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:31 PM_
+Us states warn food aid benefits will halt if federal shutdown drags on" }
+Tciundsinoiei@{ shape: win-pane, label: "_Published Mar 25, 2025, 06:33 PM_
+Trump cuts hit struggling food banks, risking hunger for low-income americans" }
+Hiacoaoine@{ shape: win-pane, label: "_Published Mar 25, 2025, 10:45 AM_
+Humanitarian aid cuts could cause more children to die: un" }
+Waswhomhw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:42 PM_
+What happens next with the us government shutdown?" }
+TsSrtpbun@{ shape: win-pane, label: "_Published Oct 01, 2025, 01:49 AM_
+Trump says us government will ‘probably’ shut down" }
+Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
+Us government begins shutdown that may lead to mass layoffs and cuts" }
+Aomhwgnmeegcilc@{ shape: win-pane, label: "_Published Oct 23, 2025, 08:20 AM_
+As us government shutdown drags on and trump takes power, congress cedes its relevance" }
+Waswhomhw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:42 PM_
+What happens next with the us government shutdown?" }
+TsSrtpbun@{ shape: win-pane, label: "_Published Oct 01, 2025, 01:49 AM_
+Trump says us government will ‘probably’ shut down" }
+Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
+Us government begins shutdown that may lead to mass layoffs and cuts" }
 
-Tsmartftretbti:::txtsize --> Rasrnicatoo:::txtsize
-Rasrnicatoo:::txtsize --> PdtnefNetndgir:::txtsize
-PdtnefNetndgir:::txtsize --> Gnarwerr:::txtsize
-PdtnefNetndgir:::txtsize --> Raidnocralpd:::txtsize
-Rasrnicatoo:::txtsize --> PdmjlLnopnve:::txtsize
-PdmjlLnopnve:::txtsize --> PdtnefNetndgir:::txtsize
-Tsmartftretbti:::txtsize --> PdtnefNetndgir:::txtsize
-PdtnefNetndgir:::txtsize --> Gnarwerr:::txtsize
-Gnarwerr:::txtsize --> Raserkcioten:::txtsize
-Gnarwerr:::txtsize --> Raidnocralpd:::txtsize
-PdtnefNetndgir:::txtsize --> Raidnocralpd:::txtsize
-Raidnocralpd:::txtsize --> RaUnhercasrtdb:::txtsize
-Raidnocralpd:::txtsize --> TwmlNcWHwyke:::txtsize
+Tsrermvlyuso:::txtsize --> Utrdetliehwg:::txtsize
+Utrdetliehwg:::txtsize --> Tciundsinoiei:::txtsize
+Tciundsinoiei:::txtsize --> Hiacoaoine:::txtsize
+Utrdetliehwg:::txtsize --> Waswhomhw:::txtsize
+Waswhomhw:::txtsize --> TsSrtpbun:::txtsize
+Waswhomhw:::txtsize --> Ueniunmaayat:::txtsize
+Tsrermvlyuso:::txtsize --> Aomhwgnmeegcilc:::txtsize
+Aomhwgnmeegcilc:::txtsize --> Waswhomhw:::txtsize
+Waswhomhw:::txtsize --> TsSrtpbun:::txtsize
+Waswhomhw:::txtsize --> Ueniunmaayat:::txtsize
 
-Rebdikadsipetdul@{ shape: win-pane, label: "_Published Oct 24, 2025, 12:34 AM_
-Ringleader behind russia-linked uk arson discussed kidnapping revolut founder, court told" }
-TmifstninusrdsWrp@{ shape: win-pane, label: "_Published Jul 08, 2025, 09:12 PM_
-Three men guilty of uk arson attack on ukraine-linked businesses ordered by russia’s wagner group" }
-BrccnabRaekoefi@{ shape: win-pane, label: "_Published Mar 07, 2025, 11:11 PM_
-Bulgarians convicted in britain of being russian spies working for wirecard fugitive" }
-Brsoasnritoe@{ shape: win-pane, label: "_Published Nov 29, 2024, 12:28 AM_
-Bulgarians spied on us base, dissidents for russia, british court hears" }
-UFsrserirend@{ shape: win-pane, label: "_Published Nov 26, 2024, 11:03 PM_
-Us air force says drones spotted over its military bases in england" }
-BrccnabRaekoefi@{ shape: win-pane, label: "_Published Mar 07, 2025, 11:11 PM_
-Bulgarians convicted in britain of being russian spies working for wirecard fugitive" }
-Brsoasnritoe@{ shape: win-pane, label: "_Published Nov 29, 2024, 12:28 AM_
-Bulgarians spied on us base, dissidents for russia, british court hears" }
-UFsrserirend@{ shape: win-pane, label: "_Published Nov 26, 2024, 11:03 PM_
-Us air force says drones spotted over its military bases in england" }
-BrccnabRaekoefi@{ shape: win-pane, label: "_Published Mar 07, 2025, 11:11 PM_
-Bulgarians convicted in britain of being russian spies working for wirecard fugitive" }
-Brsoasnritoe@{ shape: win-pane, label: "_Published Nov 29, 2024, 12:28 AM_
-Bulgarians spied on us base, dissidents for russia, british court hears" }
-UFsrserirend@{ shape: win-pane, label: "_Published Nov 26, 2024, 11:03 PM_
-Us air force says drones spotted over its military bases in england" }
-GnpRadbelys@{ shape: win-pane, label: "_Published Aug 14, 2024, 10:03 PM_
-Germany suspects russian hand in sabotage at military bases" }
-UFsrserirend@{ shape: win-pane, label: "_Published Nov 26, 2024, 11:03 PM_
-Us air force says drones spotted over its military bases in england" }
-Nierrsreuoir@{ shape: win-pane, label: "_Published Aug 23, 2024, 06:02 AM_
-Nato air base in germany raises security level due to ‘potential threat’" }
-GnpRadbelys@{ shape: win-pane, label: "_Published Aug 14, 2024, 10:03 PM_
-Germany suspects russian hand in sabotage at military bases" }
+Tseaonencl@{ shape: win-pane, label: "_Published Oct 24, 2025, 05:55 AM_
+Trump says declaration of war not needed on drug cartels" }
+Irseravrrfas@{ shape: win-pane, label: "_Published Oct 17, 2025, 08:00 AM_
+In a first, us strike in caribbean leaves survivors, us official says" }
+UiaegonllTs@{ shape: win-pane, label: "_Published Oct 15, 2025, 04:50 AM_
+Us strike on alleged drug boat off venezuela kills six, trump says" }
+Ugcumtoeonns@{ shape: win-pane, label: "_Published Sep 02, 2025, 09:49 PM_
+Us judge blocks trump administration’s use of troops in los angeles" }
+UuCiboontnls@{ shape: win-pane, label: "_Published Oct 11, 2025, 07:58 AM_
+Un security council members voice concern about us-venezuela tensions" }
+Uetvteaenet@{ shape: win-pane, label: "_Published Oct 21, 2025, 11:03 PM_
+Us covert actions ‘violate venezuela’s sovereignty’: un experts" }
+TsSnronlsc@{ shape: win-pane, label: "_Published Oct 06, 2025, 03:42 PM_
+Trump says us hit another boat off venezuela coast on oct 4" }
+Htslyvuiodrbbts@{ shape: win-pane, label: "_Published Oct 06, 2025, 01:01 AM_
+Hegseth says us military has every authorisation needed for caribbean boat strikes" }
+Thtniahclgt@{ shape: win-pane, label: "_Published Oct 03, 2025, 05:25 AM_
+Trump has determined us is at war with drug cartels, congress told" }
+TcrAotnzrnsou@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:05 AM_
+Trump confirms cia authorisation in venezuela, raising pressure on maduro" }
+Thtniahclgt@{ shape: win-pane, label: "_Published Oct 03, 2025, 05:25 AM_
+Trump has determined us is at war with drug cartels, congress told" }
+UuCiboontnls@{ shape: win-pane, label: "_Published Oct 11, 2025, 07:58 AM_
+Un security council members voice concern about us-venezuela tensions" }
 
-Rebdikadsipetdul:::txtsize --> TmifstninusrdsWrp:::txtsize
-TmifstninusrdsWrp:::txtsize --> BrccnabRaekoefi:::txtsize
-BrccnabRaekoefi:::txtsize --> Brsoasnritoe:::txtsize
-BrccnabRaekoefi:::txtsize --> UFsrserirend:::txtsize
-TmifstninusrdsWrp:::txtsize --> BrccnabRaekoefi:::txtsize
-BrccnabRaekoefi:::txtsize --> Brsoasnritoe:::txtsize
-BrccnabRaekoefi:::txtsize --> UFsrserirend:::txtsize
-Rebdikadsipetdul:::txtsize --> BrccnabRaekoefi:::txtsize
-BrccnabRaekoefi:::txtsize --> Brsoasnritoe:::txtsize
-Brsoasnritoe:::txtsize --> UFsrserirend:::txtsize
-Brsoasnritoe:::txtsize --> GnpRadbelys:::txtsize
-BrccnabRaekoefi:::txtsize --> UFsrserirend:::txtsize
-UFsrserirend:::txtsize --> Nierrsreuoir:::txtsize
-UFsrserirend:::txtsize --> GnpRadbelys:::txtsize
+Tseaonencl:::txtsize --> Irseravrrfas:::txtsize
+Irseravrrfas:::txtsize --> UiaegonllTs:::txtsize
+UiaegonllTs:::txtsize --> Ugcumtoeonns:::txtsize
+Irseravrrfas:::txtsize --> UuCiboontnls:::txtsize
+Tseaonencl:::txtsize --> Uetvteaenet:::txtsize
+Uetvteaenet:::txtsize --> TsSnronlsc:::txtsize
+TsSnronlsc:::txtsize --> Htslyvuiodrbbts:::txtsize
+TsSnronlsc:::txtsize --> Thtniahclgt:::txtsize
+Uetvteaenet:::txtsize --> TcrAotnzrnsou:::txtsize
+TcrAotnzrnsou:::txtsize --> Thtniahclgt:::txtsize
+TcrAotnzrnsou:::txtsize --> UuCiboontnls:::txtsize
 
 ```
-<i>Last updated: 2025-10-24 04:00:36.050921 (GMT+8)</i>
+<i>Last updated: 2025-10-24 08:00:57.219470 (GMT+8)</i>
 <!-- END -->
