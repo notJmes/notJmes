@@ -16,117 +16,105 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
-Trump says all trade talks with canada are terminated" }
-Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
-Trump talks up canada trade deal chances with ‘world-class’ carney" }
-CasunSourist@{ shape: win-pane, label: "_Published Apr 29, 2025, 03:22 AM_
-Canada votes as trump renews us takeover push for ‘cherished 51st state’" }
-LaastagtVut@{ shape: win-pane, label: "_Published Apr 28, 2025, 02:06 AM_
-Last day of canada’s election campaign jolted by vancouver attack" }
-Wuenaaa@{ shape: win-pane, label: "_Published Jan 08, 2025, 05:00 AM_
-Why would the us want canada as a 51st state?" }
-TtotfermsN@{ shape: win-pane, label: "_Published Oct 07, 2025, 03:17 AM_
-Trump to impose 25% us tariffs on heavy truck imports from nov 1" }
-Tsaobpoiarr@{ shape: win-pane, label: "_Published Sep 30, 2025, 11:40 AM_
-Trump sets 10% tariff on lumber imports, 25% on cabinets and furniture" }
-TfgSfrsvocrrth@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:35 AM_
-Tariffs weigh on us manufacturing as activity contracts for 7th straight month" }
-Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
-Trump talks up canada trade deal chances with ‘world-class’ carney" }
-CasunSourist@{ shape: win-pane, label: "_Published Apr 29, 2025, 03:22 AM_
-Canada votes as trump renews us takeover push for ‘cherished 51st state’" }
-LaastagtVut@{ shape: win-pane, label: "_Published Apr 28, 2025, 02:06 AM_
-Last day of canada’s election campaign jolted by vancouver attack" }
-Wuenaaa@{ shape: win-pane, label: "_Published Jan 08, 2025, 05:00 AM_
-Why would the us want canada as a 51st state?" }
-TtotfermsN@{ shape: win-pane, label: "_Published Oct 07, 2025, 03:17 AM_
-Trump to impose 25% us tariffs on heavy truck imports from nov 1" }
-Tsaobpoiarr@{ shape: win-pane, label: "_Published Sep 30, 2025, 11:40 AM_
-Trump sets 10% tariff on lumber imports, 25% on cabinets and furniture" }
-TfgSfrsvocrrth@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:35 AM_
-Tariffs weigh on us manufacturing as activity contracts for 7th straight month" }
+Bsorflafns@{ shape: win-pane, label: "_Published Oct 24, 2025, 03:35 PM_
+British labour party suffers landmark defeat in wales" }
+AornnSevehet@{ shape: win-pane, label: "_Published Sep 29, 2025, 06:03 PM_
+At labour party conference, pm starmer’s rival steals the limelight" }
+Fedrhtftruon@{ shape: win-pane, label: "_Published Sep 26, 2025, 05:34 PM_
+Farage would win british election if held tomorrow, yougov poll finds" }
+Biptrtdordr@{ shape: win-pane, label: "_Published Sep 22, 2025, 09:06 PM_
+Britain’s populist reform party pledges tougher residency rules" }
+BinumogIwrellgo@{ shape: win-pane, label: "_Published Sep 26, 2025, 02:42 PM_
+Britain to introduce compulsory digital id for workers to deter illegal immigration" }
+Biteemnepnen@{ shape: win-pane, label: "_Published Sep 29, 2025, 05:38 AM_
+Britain may toughen rules for migrants seeking permanent residency" }
+Biptrtdordr@{ shape: win-pane, label: "_Published Sep 22, 2025, 09:06 PM_
+Britain’s populist reform party pledges tougher residency rules" }
+Biacotnnpln@{ shape: win-pane, label: "_Published Sep 28, 2025, 06:13 PM_
+Britain’s starmer calls on party to unite and ‘stop navel-gazing’" }
+Biacotnnpln@{ shape: win-pane, label: "_Published Sep 28, 2025, 06:13 PM_
+Britain’s starmer calls on party to unite and ‘stop navel-gazing’" }
+BinumogIwrellgo@{ shape: win-pane, label: "_Published Sep 26, 2025, 02:42 PM_
+Britain to introduce compulsory digital id for workers to deter illegal immigration" }
+Bisictotmho@{ shape: win-pane, label: "_Published Aug 24, 2025, 09:45 AM_
+Britain’s mass facial recognition roll-out alarms rights groups" }
+ThnealmeEerdnrnt@{ shape: win-pane, label: "_Published Jun 12, 2025, 06:20 PM_
+The schengen agreement at 40: will free movement in europe endure amid rising migrant antipathy?" }
+Fedrhtftruon@{ shape: win-pane, label: "_Published Sep 26, 2025, 05:34 PM_
+Farage would win british election if held tomorrow, yougov poll finds" }
+Biptrtdordr@{ shape: win-pane, label: "_Published Sep 22, 2025, 09:06 PM_
+Britain’s populist reform party pledges tougher residency rules" }
+BinumogIwrellgo@{ shape: win-pane, label: "_Published Sep 26, 2025, 02:42 PM_
+Britain to introduce compulsory digital id for workers to deter illegal immigration" }
 
-Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
-Ttuaaanirar:::txtsize --> CasunSourist:::txtsize
-CasunSourist:::txtsize --> LaastagtVut:::txtsize
-CasunSourist:::txtsize --> Wuenaaa:::txtsize
-Ttuaaanirar:::txtsize --> TtotfermsN:::txtsize
-TtotfermsN:::txtsize --> Tsaobpoiarr:::txtsize
-TtotfermsN:::txtsize --> TfgSfrsvocrrth:::txtsize
-Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
-Ttuaaanirar:::txtsize --> CasunSourist:::txtsize
-CasunSourist:::txtsize --> LaastagtVut:::txtsize
-CasunSourist:::txtsize --> Wuenaaa:::txtsize
-Ttuaaanirar:::txtsize --> TtotfermsN:::txtsize
-TtotfermsN:::txtsize --> Tsaobpoiarr:::txtsize
-TtotfermsN:::txtsize --> TfgSfrsvocrrth:::txtsize
+Bsorflafns:::txtsize --> AornnSevehet:::txtsize
+AornnSevehet:::txtsize --> Fedrhtftruon:::txtsize
+Fedrhtftruon:::txtsize --> Biptrtdordr:::txtsize
+Fedrhtftruon:::txtsize --> BinumogIwrellgo:::txtsize
+AornnSevehet:::txtsize --> Biteemnepnen:::txtsize
+Biteemnepnen:::txtsize --> Biptrtdordr:::txtsize
+Biteemnepnen:::txtsize --> Biacotnnpln:::txtsize
+Bsorflafns:::txtsize --> Biacotnnpln:::txtsize
+Biacotnnpln:::txtsize --> BinumogIwrellgo:::txtsize
+BinumogIwrellgo:::txtsize --> Bisictotmho:::txtsize
+BinumogIwrellgo:::txtsize --> ThnealmeEerdnrnt:::txtsize
+Biacotnnpln:::txtsize --> Fedrhtftruon:::txtsize
+Fedrhtftruon:::txtsize --> Biptrtdordr:::txtsize
+Fedrhtftruon:::txtsize --> BinumogIwrellgo:::txtsize
 
-Atuucesuec@{ shape: win-pane, label: "_Published Oct 24, 2025, 09:59 AM_
-Autistic adults push back on ‘fear-based’ trump rhetoric" }
-Tlampelaeitece@{ shape: win-pane, label: "_Published Sep 23, 2025, 04:56 AM_
-Trump links autism with paracetamol and vaccines, claims not backed by science" }
-Taitopeltago@{ shape: win-pane, label: "_Published Sep 22, 2025, 08:53 PM_
-Trump administration to link paracetamol to autism: washington post" }
-TwskoisC@{ shape: win-pane, label: "_Published Sep 13, 2025, 12:58 PM_
-Trump weighs crackdown on medicines from china" }
-Osptegdaedo@{ shape: win-pane, label: "_Published Sep 16, 2025, 02:25 AM_
-One in six us parents rejecting standard vaccine schedule: poll" }
-TwskoisC@{ shape: win-pane, label: "_Published Sep 13, 2025, 12:58 PM_
-Trump weighs crackdown on medicines from china" }
-Tshtfog@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:50 PM_
-Trump says pharma tariff may go as high as 250%" }
+Gnerswwulss@{ shape: win-pane, label: "_Published Oct 24, 2025, 01:40 PM_
+German mothers earn $45,000 less than women without children, study shows" }
+Gurgerketymuawr@{ shape: win-pane, label: "_Published Oct 05, 2024, 10:00 AM_
+Gen z mumz: forgoing careers to raise kids before 30, these young mums buck a nationwide trend" }
 
-Atuucesuec:::txtsize --> Tlampelaeitece:::txtsize
-Tlampelaeitece:::txtsize --> Taitopeltago:::txtsize
-Taitopeltago:::txtsize --> TwskoisC:::txtsize
-Taitopeltago:::txtsize --> Osptegdaedo:::txtsize
-Tlampelaeitece:::txtsize --> TwskoisC:::txtsize
-TwskoisC:::txtsize --> Tshtfog:::txtsize
+Gnerswwulss:::txtsize --> Gurgerketymuawr:::txtsize
 
-UtdamldswHoWn@{ shape: win-pane, label: "_Published Oct 24, 2025, 08:43 AM_
-Us govt shutdown causes more flight delays in new york, houston and washington" }
-Fyifolfscngl@{ shape: win-pane, label: "_Published Oct 20, 2025, 08:12 AM_
-Faa says us air traffic control staffing issues causing flight delays" }
-Waswhomhw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:42 PM_
-What happens next with the us government shutdown?" }
-TsSrtpbun@{ shape: win-pane, label: "_Published Oct 01, 2025, 01:49 AM_
-Trump says us government will ‘probably’ shut down" }
-Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
-Us government begins shutdown that may lead to mass layoffs and cuts" }
-Ugbttoaphesd@{ shape: win-pane, label: "_Published Sep 29, 2025, 08:35 AM_
-Us congress budget negotiations: what happens when the govt shuts down?" }
-RlsDroeorleomp@{ shape: win-pane, label: "_Published Sep 29, 2025, 12:28 AM_
-Republicans urge democrats to agree to short-term bill to keep us government open" }
-Ttscaemafveun@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:50 AM_
-Threat of mass job cuts raises economic stakes of us government shutdown" }
-Utdaacosawuso@{ shape: win-pane, label: "_Published Oct 10, 2025, 04:54 AM_
-Us govt could fire air traffic controllers who fail to work during shutdown" }
-Utittnfcaaft@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:05 AM_
-Us air traffic control staffing hit for second day, delaying flights" }
-Sisaeaithws@{ shape: win-pane, label: "_Published Oct 07, 2025, 07:49 AM_
-Staffing issues cause delays at us airports as shutdown persists" }
-DreipdoeSdletpon@{ shape: win-pane, label: "_Published Oct 09, 2025, 06:08 PM_
-Democrats, republicans, president to blame for us shutdown? all three, reuters/ipsos poll finds" }
-Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
-Us government begins shutdown that may lead to mass layoffs and cuts" }
-FtyerSuni@{ shape: win-pane, label: "_Published Oct 09, 2025, 06:59 AM_
-Flight delays pile up across us as shutdown persists" }
+Gnahrieohlhci@{ shape: win-pane, label: "_Published Oct 24, 2025, 01:32 PM_
+German company behind truck-lift used in louvre heist launches ad campaign" }
+LeePOhretmu@{ shape: win-pane, label: "_Published Oct 20, 2025, 01:01 AM_
+Louvre robbery in paris: other high-profile heists from museums" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
+‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
+Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
+Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
+PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
+Paris’ louvre museum robbery: what jewels did the thieves steal?" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+FeiDmaLet@{ shape: win-pane, label: "_Published Oct 24, 2025, 08:11 AM_
+France examining dna samples after louvre heist" }
+PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
+Paris’ louvre museum robbery: what jewels did the thieves steal?" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+LefeVfeei@{ shape: win-pane, label: "_Published Oct 23, 2025, 12:47 AM_
+Louvre chief blames cctv gaps for $130m jewellery heist" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+LesuFhnlib@{ shape: win-pane, label: "_Published Oct 22, 2025, 09:30 AM_
+Louvre tours featuring french crown jewels now in doubt" }
 
-UtdamldswHoWn:::txtsize --> Fyifolfscngl:::txtsize
-Fyifolfscngl:::txtsize --> Waswhomhw:::txtsize
-Waswhomhw:::txtsize --> TsSrtpbun:::txtsize
-Waswhomhw:::txtsize --> Ueniunmaayat:::txtsize
-Fyifolfscngl:::txtsize --> Ugbttoaphesd:::txtsize
-Ugbttoaphesd:::txtsize --> RlsDroeorleomp:::txtsize
-Ugbttoaphesd:::txtsize --> Ttscaemafveun:::txtsize
-UtdamldswHoWn:::txtsize --> Utdaacosawuso:::txtsize
-Utdaacosawuso:::txtsize --> Utittnfcaaft:::txtsize
-Utittnfcaaft:::txtsize --> Sisaeaithws:::txtsize
-Utdaacosawuso:::txtsize --> DreipdoeSdletpon:::txtsize
-DreipdoeSdletpon:::txtsize --> Ueniunmaayat:::txtsize
-DreipdoeSdletpon:::txtsize --> FtyerSuni:::txtsize
+Gnahrieohlhci:::txtsize --> LeePOhretmu:::txtsize
+LeePOhretmu:::txtsize --> Ptineluiisey:::txtsize
+Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
+Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
+LeePOhretmu:::txtsize --> PLeubhwitea:::txtsize
+PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
+PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
+Gnahrieohlhci:::txtsize --> FeiDmaLet:::txtsize
+FeiDmaLet:::txtsize --> PLeubhwitea:::txtsize
+PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
+PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
+FeiDmaLet:::txtsize --> LefeVfeei:::txtsize
+LefeVfeei:::txtsize --> Ptineluiisey:::txtsize
+LefeVfeei:::txtsize --> LesuFhnlib:::txtsize
 
 ```
-<i>Last updated: 2025-10-24 12:00:18.525700 (GMT+8)</i>
+<i>Last updated: 2025-10-24 16:00:47.183540 (GMT+8)</i>
 <!-- END -->
