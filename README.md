@@ -16,105 +16,105 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Bsorflafns@{ shape: win-pane, label: "_Published Oct 24, 2025, 03:35 PM_
-British labour party suffers landmark defeat in wales" }
-AornnSevehet@{ shape: win-pane, label: "_Published Sep 29, 2025, 06:03 PM_
-At labour party conference, pm starmer’s rival steals the limelight" }
-Fedrhtftruon@{ shape: win-pane, label: "_Published Sep 26, 2025, 05:34 PM_
-Farage would win british election if held tomorrow, yougov poll finds" }
-Biptrtdordr@{ shape: win-pane, label: "_Published Sep 22, 2025, 09:06 PM_
-Britain’s populist reform party pledges tougher residency rules" }
-BinumogIwrellgo@{ shape: win-pane, label: "_Published Sep 26, 2025, 02:42 PM_
-Britain to introduce compulsory digital id for workers to deter illegal immigration" }
-Biteemnepnen@{ shape: win-pane, label: "_Published Sep 29, 2025, 05:38 AM_
-Britain may toughen rules for migrants seeking permanent residency" }
-Biptrtdordr@{ shape: win-pane, label: "_Published Sep 22, 2025, 09:06 PM_
-Britain’s populist reform party pledges tougher residency rules" }
-Biacotnnpln@{ shape: win-pane, label: "_Published Sep 28, 2025, 06:13 PM_
-Britain’s starmer calls on party to unite and ‘stop navel-gazing’" }
-Biacotnnpln@{ shape: win-pane, label: "_Published Sep 28, 2025, 06:13 PM_
-Britain’s starmer calls on party to unite and ‘stop navel-gazing’" }
-BinumogIwrellgo@{ shape: win-pane, label: "_Published Sep 26, 2025, 02:42 PM_
-Britain to introduce compulsory digital id for workers to deter illegal immigration" }
-Bisictotmho@{ shape: win-pane, label: "_Published Aug 24, 2025, 09:45 AM_
-Britain’s mass facial recognition roll-out alarms rights groups" }
-ThnealmeEerdnrnt@{ shape: win-pane, label: "_Published Jun 12, 2025, 06:20 PM_
-The schengen agreement at 40: will free movement in europe endure amid rising migrant antipathy?" }
-Fedrhtftruon@{ shape: win-pane, label: "_Published Sep 26, 2025, 05:34 PM_
-Farage would win british election if held tomorrow, yougov poll finds" }
-Biptrtdordr@{ shape: win-pane, label: "_Published Sep 22, 2025, 09:06 PM_
-Britain’s populist reform party pledges tougher residency rules" }
-BinumogIwrellgo@{ shape: win-pane, label: "_Published Sep 26, 2025, 02:42 PM_
-Britain to introduce compulsory digital id for workers to deter illegal immigration" }
+Peeianwrim@{ shape: win-pane, label: "_Published Oct 24, 2025, 07:05 PM_
+Pope leo offers olive branch in allowing traditional mass" }
+UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
+Us cardinal prevost elected pope leo xiv, first american pontiff" }
+Arnclaenigi@{ shape: win-pane, label: "_Published May 09, 2025, 06:49 AM_
+A reformer and a reconciler: what pope leo’s new reign might bring" }
+Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
+Pope francis dies at age 88" }
+UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
+Us cardinal prevost elected pope leo xiv, first american pontiff" }
+IfarPeoselbia@{ shape: win-pane, label: "_Published May 09, 2025, 03:40 AM_
+In his first appearance, pope leo xiv offers three big clues about his papacy" }
+UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
+Us cardinal prevost elected pope leo xiv, first american pontiff" }
+Prsraoddsiasv@{ shape: win-pane, label: "_Published Apr 26, 2025, 09:05 AM_
+Pope francis’ funeral draws thousands, cardinal says his legacy must survive" }
+KhsLaeiasanth@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:17 PM_
+King charles, pope leo pray together in a 500-year first in vatican’s sistine chapel" }
+UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
+Us cardinal prevost elected pope leo xiv, first american pontiff" }
+Arnclaenigi@{ shape: win-pane, label: "_Published May 09, 2025, 06:49 AM_
+A reformer and a reconciler: what pope leo’s new reign might bring" }
+IfarPeoselbia@{ shape: win-pane, label: "_Published May 09, 2025, 03:40 AM_
+In his first appearance, pope leo xiv offers three big clues about his papacy" }
+Wanrsfeytffecnd@{ shape: win-pane, label: "_Published Oct 03, 2025, 05:12 PM_
+Woman appointed archbishop of canterbury a historic first for the church of england" }
+TmerusdchCrann@{ shape: win-pane, label: "_Published Oct 01, 2025, 10:49 PM_
+Two women seen as front runners ahead of archbishop of canterbury announcement" }
+VaupfdeIri@{ shape: win-pane, label: "_Published Oct 03, 2025, 11:05 AM_
+Virtual jesus? people of faith divided as ai enters religion" }
 
-Bsorflafns:::txtsize --> AornnSevehet:::txtsize
-AornnSevehet:::txtsize --> Fedrhtftruon:::txtsize
-Fedrhtftruon:::txtsize --> Biptrtdordr:::txtsize
-Fedrhtftruon:::txtsize --> BinumogIwrellgo:::txtsize
-AornnSevehet:::txtsize --> Biteemnepnen:::txtsize
-Biteemnepnen:::txtsize --> Biptrtdordr:::txtsize
-Biteemnepnen:::txtsize --> Biacotnnpln:::txtsize
-Bsorflafns:::txtsize --> Biacotnnpln:::txtsize
-Biacotnnpln:::txtsize --> BinumogIwrellgo:::txtsize
-BinumogIwrellgo:::txtsize --> Bisictotmho:::txtsize
-BinumogIwrellgo:::txtsize --> ThnealmeEerdnrnt:::txtsize
-Biacotnnpln:::txtsize --> Fedrhtftruon:::txtsize
-Fedrhtftruon:::txtsize --> Biptrtdordr:::txtsize
-Fedrhtftruon:::txtsize --> BinumogIwrellgo:::txtsize
+Peeianwrim:::txtsize --> UdPscooimat:::txtsize
+UdPscooimat:::txtsize --> Arnclaenigi:::txtsize
+Arnclaenigi:::txtsize --> Prsa:::txtsize
+Arnclaenigi:::txtsize --> UdPscooimat:::txtsize
+UdPscooimat:::txtsize --> IfarPeoselbia:::txtsize
+IfarPeoselbia:::txtsize --> UdPscooimat:::txtsize
+IfarPeoselbia:::txtsize --> Prsraoddsiasv:::txtsize
+Peeianwrim:::txtsize --> KhsLaeiasanth:::txtsize
+KhsLaeiasanth:::txtsize --> UdPscooimat:::txtsize
+UdPscooimat:::txtsize --> Arnclaenigi:::txtsize
+UdPscooimat:::txtsize --> IfarPeoselbia:::txtsize
+KhsLaeiasanth:::txtsize --> Wanrsfeytffecnd:::txtsize
+Wanrsfeytffecnd:::txtsize --> TmerusdchCrann:::txtsize
+Wanrsfeytffecnd:::txtsize --> VaupfdeIri:::txtsize
 
-Gnerswwulss@{ shape: win-pane, label: "_Published Oct 24, 2025, 01:40 PM_
-German mothers earn $45,000 less than women without children, study shows" }
-Gurgerketymuawr@{ shape: win-pane, label: "_Published Oct 05, 2024, 10:00 AM_
-Gen z mumz: forgoing careers to raise kids before 30, these young mums buck a nationwide trend" }
+Ciencsund@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:40 PM_
+Croatia arrests online child sex abuse ring leader" }
+Cefhelgafaidlg@{ shape: win-pane, label: "_Published Aug 29, 2025, 07:00 PM_
+Cops rescue five children, including two babies, from malaysia paedophile ring" }
+TiolddeaiitsiSpo@{ shape: win-pane, label: "_Published Dec 06, 2024, 02:00 PM_
+Teen girl who was allegedly kidnapped in malaysia believed to be a scam victim: singapore police" }
+TiolddeeaieSpo@{ shape: win-pane, label: "_Published Nov 28, 2024, 11:45 AM_
+Teen girl who was allegedly kidnapped entered malaysia on her own: singapore police" }
+Csithdlakpsnio@{ shape: win-pane, label: "_Published Dec 04, 2024, 07:25 PM_
+Chinese national to be charged in malaysia with kidnapping student in singapore" }
+ylliJfvufeogt@{ shape: win-pane, label: "_Published Jul 23, 2024, 11:47 AM_
+6-year-old girl missing at johor festival found safe in selangor budget hotel" }
+Fyllind@{ shape: win-pane, label: "_Published Aug 07, 2023, 09:20 PM_
+Found: 13-year-old girl missing since end-july" }
+yeflTwosesv@{ shape: win-pane, label: "_Published Oct 14, 2022, 09:20 PM_
+13-year search for felicia teo: how fate of missing teen was uncovered" }
+Cntsusarngugdert@{ shape: win-pane, label: "_Published Oct 07, 2024, 03:40 PM_
+Criminal networks in south-east asia flourish in telegram’s ‘underground markets’: un report" }
+Trseorafegc@{ shape: win-pane, label: "_Published Aug 29, 2024, 06:15 AM_
+Telegram boss pavel durov charged, barred from leaving france" }
+TraurfrvnahiFecs@{ shape: win-pane, label: "_Published Aug 29, 2024, 02:08 AM_
+Telegram's pavel durov probed for 'serious' violence against his child in france, source says" }
+Trsrahuslpbrhnhlr@{ shape: win-pane, label: "_Published Aug 29, 2024, 06:59 AM_
+Telegram boss charged: can tech executives be held responsible for what happens on their platforms?" }
+Cnorirntttidpxs@{ shape: win-pane, label: "_Published Sep 25, 2023, 05:00 AM_
+Criminal groups from china spreading out to south-east asia, including s’pore: experts" }
+bmlebfgcedpfllhai@{ shape: win-pane, label: "_Published Aug 17, 2023, 12:13 AM_
+$1b anti-money laundering blitz: 10 foreigners charged hold passports from places like china, cambodia" }
+Feheleeepbydg@{ shape: win-pane, label: "_Published Sep 25, 2023, 05:00 AM_
+Founder of chinese gambling website linked to s’pore’s $2b money laundering case" }
 
-Gnerswwulss:::txtsize --> Gurgerketymuawr:::txtsize
+Ciencsund:::txtsize --> Cefhelgafaidlg:::txtsize
+Cefhelgafaidlg:::txtsize --> TiolddeaiitsiSpo:::txtsize
+TiolddeaiitsiSpo:::txtsize --> TiolddeeaieSpo:::txtsize
+TiolddeaiitsiSpo:::txtsize --> Csithdlakpsnio:::txtsize
+Cefhelgafaidlg:::txtsize --> ylliJfvufeogt:::txtsize
+ylliJfvufeogt:::txtsize --> Fyllind:::txtsize
+ylliJfvufeogt:::txtsize --> yeflTwosesv:::txtsize
+Ciencsund:::txtsize --> Cntsusarngugdert:::txtsize
+Cntsusarngugdert:::txtsize --> Trseorafegc:::txtsize
+Trseorafegc:::txtsize --> TraurfrvnahiFecs:::txtsize
+Trseorafegc:::txtsize --> Trsrahuslpbrhnhlr:::txtsize
+Cntsusarngugdert:::txtsize --> Cnorirntttidpxs:::txtsize
+Cnorirntttidpxs:::txtsize --> bmlebfgcedpfllhai:::txtsize
+Cnorirntttidpxs:::txtsize --> Feheleeepbydg:::txtsize
 
-Gnahrieohlhci@{ shape: win-pane, label: "_Published Oct 24, 2025, 01:32 PM_
-German company behind truck-lift used in louvre heist launches ad campaign" }
-LeePOhretmu@{ shape: win-pane, label: "_Published Oct 20, 2025, 01:01 AM_
-Louvre robbery in paris: other high-profile heists from museums" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
-‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
-Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
-Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
-PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
-Paris’ louvre museum robbery: what jewels did the thieves steal?" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-FeiDmaLet@{ shape: win-pane, label: "_Published Oct 24, 2025, 08:11 AM_
-France examining dna samples after louvre heist" }
-PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
-Paris’ louvre museum robbery: what jewels did the thieves steal?" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-LefeVfeei@{ shape: win-pane, label: "_Published Oct 23, 2025, 12:47 AM_
-Louvre chief blames cctv gaps for $130m jewellery heist" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-LesuFhnlib@{ shape: win-pane, label: "_Published Oct 22, 2025, 09:30 AM_
-Louvre tours featuring french crown jewels now in doubt" }
+Nxosdahntrit@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:39 PM_
+New mexico fossils show dinosaurs thriving just before annihilation" }
+Fgsteeesenoec@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:00 AM_
+From a giant ‘squid’ to a t-rex: science centre’s biggest dino expo to open on oct 11" }
 
-Gnahrieohlhci:::txtsize --> LeePOhretmu:::txtsize
-LeePOhretmu:::txtsize --> Ptineluiisey:::txtsize
-Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
-Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
-LeePOhretmu:::txtsize --> PLeubhwitea:::txtsize
-PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
-PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
-Gnahrieohlhci:::txtsize --> FeiDmaLet:::txtsize
-FeiDmaLet:::txtsize --> PLeubhwitea:::txtsize
-PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
-PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
-FeiDmaLet:::txtsize --> LefeVfeei:::txtsize
-LefeVfeei:::txtsize --> Ptineluiisey:::txtsize
-LefeVfeei:::txtsize --> LesuFhnlib:::txtsize
+Nxosdahntrit:::txtsize --> Fgsteeesenoec:::txtsize
 
 ```
-<i>Last updated: 2025-10-24 16:00:47.183540 (GMT+8)</i>
+<i>Last updated: 2025-10-24 20:01:08.416096 (GMT+8)</i>
 <!-- END -->
