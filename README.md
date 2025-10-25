@@ -16,123 +16,132 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-TttrewA@{ shape: win-pane, label: "_Published Oct 25, 2025, 10:48 PM_
-Trump to meet qatar leaders on way to asia" }
-LrmpWoaamikade@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:00 PM_
-Leaders from trump to pm wong to meet at asean summit, amid talk of trade and peace" }
-TLsnepfiuto@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:35 PM_
-Timor-leste’s asean membership a win for asia’s youngest nation" }
-Topoaeu@{ shape: win-pane, label: "_Published Feb 16, 2025, 02:25 PM_
-The growing pains of asia’s newest country" }
-TLtoehecradst@{ shape: win-pane, label: "_Published Sep 23, 2025, 06:40 PM_
-Timor-leste to become asean’s 11th member in october, formalised at kl summit" }
-Tlnwolaiseaamla@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:59 PM_
-Trump ‘looking forward’ to thailand-cambodia ceasefire deal at asean summit, malaysia says" }
-kdaCdirltuo@{ shape: win-pane, label: "_Published Jul 24, 2025, 10:38 AM_
-12 killed as thai and cambodian militaries clash at disputed border" }
-Anagsaftl@{ shape: win-pane, label: "_Published Oct 06, 2025, 05:00 AM_
-Asean needs a non-aggression pact before it’s too late" }
-Ucisrltota@{ shape: win-pane, label: "_Published Oct 25, 2025, 09:30 PM_
-Us’ marco rubio vows return of all hostage bodies to israel" }
+LaghisoelsBuic@{ shape: win-pane, label: "_Published Oct 26, 2025, 03:35 AM_
+Lithuania again shuts vilnius airport due to balloons from belarus in airspace" }
+LahitBudogelin@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:50 AM_
+Lithuania shuts airports and belarus border crossings after balloon sightings" }
+Slanctonit@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:20 PM_
+Smugglers’ balloons force shutdown of vilnius airport" }
+LaVupesroausii@{ shape: win-pane, label: "_Published Oct 05, 2025, 02:01 PM_
+Lithuania’s vilnius airport reopens after balloons cause suspension, diversions" }
+Bsovwotdsglp@{ shape: win-pane, label: "_Published Oct 20, 2025, 07:36 AM_
+British troops given powers to shoot down drones on sight: telegraph" }
+NeLaaoitendic@{ shape: win-pane, label: "_Published Oct 24, 2025, 01:56 AM_
+Nato member lithuania says two russian jets briefly entered its airspace" }
+Rasrnicatoo@{ shape: win-pane, label: "_Published Sep 19, 2025, 11:15 PM_
+Russian jets enter estonia’s airspace in latest test for nato" }
+PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
+Poland shoots down drones, the first nato member to open fire during ukraine war" }
+Ryeyircdnret@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:35 AM_
+Runways at germany’s munich airport closed again after drone sightings" }
+Gneafrinuiroi@{ shape: win-pane, label: "_Published Oct 03, 2025, 09:15 AM_
+Germany investigates after drone sightings shut munich airport overnight" }
+Edouolekaaaoo@{ shape: win-pane, label: "_Published Oct 01, 2025, 02:34 PM_
+Eu leaders to discuss ‘drone wall’ in denmark, days after airspace violations" }
+Oetfoyttlia@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:14 PM_
+Oktoberfest briefly closed by bomb threat, deadly family drama" }
+Gneafrinuiroi@{ shape: win-pane, label: "_Published Oct 03, 2025, 09:15 AM_
+Germany investigates after drone sightings shut munich airport overnight" }
+Edouolekaaaoo@{ shape: win-pane, label: "_Published Oct 01, 2025, 02:34 PM_
+Eu leaders to discuss ‘drone wall’ in denmark, days after airspace violations" }
+Oetfoyttlia@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:14 PM_
+Oktoberfest briefly closed by bomb threat, deadly family drama" }
+
+LaghisoelsBuic:::txtsize --> LahitBudogelin:::txtsize
+LahitBudogelin:::txtsize --> Slanctonit:::txtsize
+Slanctonit:::txtsize --> LaVupesroausii:::txtsize
+Slanctonit:::txtsize --> Bsovwotdsglp:::txtsize
+LahitBudogelin:::txtsize --> NeLaaoitendic:::txtsize
+NeLaaoitendic:::txtsize --> Rasrnicatoo:::txtsize
+NeLaaoitendic:::txtsize --> PdtnefNetndgir:::txtsize
+LaghisoelsBuic:::txtsize --> Ryeyircdnret:::txtsize
+Ryeyircdnret:::txtsize --> Gneafrinuiroi:::txtsize
+Gneafrinuiroi:::txtsize --> Edouolekaaaoo:::txtsize
+Gneafrinuiroi:::txtsize --> Oetfoyttlia:::txtsize
+Ryeyircdnret:::txtsize --> Gneafrinuiroi:::txtsize
+Gneafrinuiroi:::txtsize --> Edouolekaaaoo:::txtsize
+Gneafrinuiroi:::txtsize --> Oetfoyttlia:::txtsize
+
+Tfspsnrodao@{ shape: win-pane, label: "_Published Oct 26, 2025, 03:17 AM_
+Tens of thousands protest on anniversary of deadly spain floods" }
+Ssoleranie@{ shape: win-pane, label: "_Published Oct 31, 2024, 01:40 AM_
+Spanish floods kill 95 as year of rain falls in a day in valencia" }
+Sslfsckttl@{ shape: win-pane, label: "_Published Oct 30, 2024, 08:50 AM_
+Spain’s deadliest floods in decades kill at least 64 people" }
+Ctnirdahhr@{ shape: win-pane, label: "_Published Oct 30, 2024, 08:29 AM_
+Climate change driving ‘record threats to health’: report" }
+TnewSTog@{ shape: win-pane, label: "_Published Oct 30, 2024, 08:10 AM_
+Taiwan battens down for super typhoon kong-rey" }
+Oaioefsdeu@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:55 AM_
+One year on, victim of valencia floods found buried in mud" }
+Ssoleranie@{ shape: win-pane, label: "_Published Oct 31, 2024, 01:40 AM_
+Spanish floods kill 95 as year of rain falls in a day in valencia" }
+Sslfsckttl@{ shape: win-pane, label: "_Published Oct 30, 2024, 08:50 AM_
+Spain’s deadliest floods in decades kill at least 64 people" }
+Ssrsotnrseprsc@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:18 AM_
+Spain suffers fresh floods as torrential rains strike, trapping drivers amid ‘chaos’" }
+Ericrerys@{ shape: win-pane, label: "_Published Oct 09, 2025, 08:25 PM_
+Eastern spain placed on red alert for heavy rains" }
+Sdrswntwfktosi@{ shape: win-pane, label: "_Published Nov 14, 2024, 08:55 PM_
+Spain downgrades storm warnings after towns left soaked but without casualties" }
+
+Tfspsnrodao:::txtsize --> Ssoleranie:::txtsize
+Ssoleranie:::txtsize --> Sslfsckttl:::txtsize
+Sslfsckttl:::txtsize --> Ctnirdahhr:::txtsize
+Sslfsckttl:::txtsize --> TnewSTog:::txtsize
+Tfspsnrodao:::txtsize --> Oaioefsdeu:::txtsize
+Oaioefsdeu:::txtsize --> Ssoleranie:::txtsize
+Ssoleranie:::txtsize --> Sslfsckttl:::txtsize
+Oaioefsdeu:::txtsize --> Ssrsotnrseprsc:::txtsize
+Ssrsotnrseprsc:::txtsize --> Ericrerys:::txtsize
+Ssrsotnrseprsc:::txtsize --> Sdrswntwfktosi:::txtsize
+
+Ilistuttrnrz@{ shape: win-pane, label: "_Published Oct 26, 2025, 02:35 AM_
+Israeli military says it conducted ‘targeted strike’ in central gaza" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
 NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
 Netanyahu declares israel at war as hamas attacks kill over 100" }
 WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
 Why gaza is epicentre of israeli-palestinian conflict" }
 Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
 World in shock after hamas surprise attacks on israel" }
-PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
-Peace finally descends on the middle east: now the battle to make it last begins" }
-TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
-Tears, joy in israel as hamas hands over first hostages" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
 
-TttrewA:::txtsize --> LrmpWoaamikade:::txtsize
-LrmpWoaamikade:::txtsize --> TLsnepfiuto:::txtsize
-TLsnepfiuto:::txtsize --> Topoaeu:::txtsize
-TLsnepfiuto:::txtsize --> TLtoehecradst:::txtsize
-LrmpWoaamikade:::txtsize --> Tlnwolaiseaamla:::txtsize
-Tlnwolaiseaamla:::txtsize --> kdaCdirltuo:::txtsize
-Tlnwolaiseaamla:::txtsize --> Anagsaftl:::txtsize
-TttrewA:::txtsize --> Ucisrltota:::txtsize
-Ucisrltota:::txtsize --> NyeeawHakl:::txtsize
+Ilistuttrnrz:::txtsize --> Wouaaam:::txtsize
+Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+Wouaaam:::txtsize --> NyeeawHakl:::txtsize
 NyeeawHakl:::txtsize --> WzptIleint:::txtsize
 NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Ucisrltota:::txtsize --> PflcoMeNelale:::txtsize
-PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
-
-GnutCsenaesrsas@{ shape: win-pane, label: "_Published Oct 25, 2025, 10:10 PM_
-Germany should rethink china strategy, senior lawmaker says, after minister cancels trip" }
-Gnrmtsenprgi@{ shape: win-pane, label: "_Published Oct 25, 2025, 01:45 AM_
-Germany’s foreign minister postpones china  trip amid rising tensions" }
-CsGnhgglin@{ shape: win-pane, label: "_Published Aug 18, 2025, 01:58 PM_
-China slams germany for ‘hyping up’ regional tensions in asia" }
-TPdtsUncamre@{ shape: win-pane, label: "_Published Aug 16, 2025, 03:43 AM_
-Trump-putin direct talks over ukraine conclude as summit stretches on" }
-GncCUoaesagiSs@{ shape: win-pane, label: "_Published Jun 12, 2025, 01:03 AM_
-Germany welcomes china-us export deal, hopes for similar progress in eu-us talks" }
-Eerahaasgh@{ shape: win-pane, label: "_Published Sep 30, 2025, 09:14 PM_
-Ex-aide of german far-right mp jailed after spying for china" }
-Hieiycayoo@{ shape: win-pane, label: "_Published Sep 29, 2025, 07:50 AM_
-How china’s secretive spy agency became a cyber powerhouse" }
-Upenocdyon@{ shape: win-pane, label: "_Published Sep 15, 2025, 06:20 PM_
-Uk drops case against two men accused of spying for china" }
-Gnrmtsenprgi@{ shape: win-pane, label: "_Published Oct 25, 2025, 01:45 AM_
-Germany’s foreign minister postpones china  trip amid rising tensions" }
-CsGnhgglin@{ shape: win-pane, label: "_Published Aug 18, 2025, 01:58 PM_
-China slams germany for ‘hyping up’ regional tensions in asia" }
-TPdtsUncamre@{ shape: win-pane, label: "_Published Aug 16, 2025, 03:43 AM_
-Trump-putin direct talks over ukraine conclude as summit stretches on" }
-GncCUoaesagiSs@{ shape: win-pane, label: "_Published Jun 12, 2025, 01:03 AM_
-Germany welcomes china-us export deal, hopes for similar progress in eu-us talks" }
-Eerahaasgh@{ shape: win-pane, label: "_Published Sep 30, 2025, 09:14 PM_
-Ex-aide of german far-right mp jailed after spying for china" }
-Hieiycayoo@{ shape: win-pane, label: "_Published Sep 29, 2025, 07:50 AM_
-How china’s secretive spy agency became a cyber powerhouse" }
-Upenocdyon@{ shape: win-pane, label: "_Published Sep 15, 2025, 06:20 PM_
-Uk drops case against two men accused of spying for china" }
-
-GnutCsenaesrsas:::txtsize --> Gnrmtsenprgi:::txtsize
-Gnrmtsenprgi:::txtsize --> CsGnhgglin:::txtsize
-CsGnhgglin:::txtsize --> TPdtsUncamre:::txtsize
-CsGnhgglin:::txtsize --> GncCUoaesagiSs:::txtsize
-Gnrmtsenprgi:::txtsize --> Eerahaasgh:::txtsize
-Eerahaasgh:::txtsize --> Hieiycayoo:::txtsize
-Eerahaasgh:::txtsize --> Upenocdyon:::txtsize
-GnutCsenaesrsas:::txtsize --> Gnrmtsenprgi:::txtsize
-Gnrmtsenprgi:::txtsize --> CsGnhgglin:::txtsize
-CsGnhgglin:::txtsize --> TPdtsUncamre:::txtsize
-CsGnhgglin:::txtsize --> GncCUoaesagiSs:::txtsize
-Gnrmtsenprgi:::txtsize --> Eerahaasgh:::txtsize
-Eerahaasgh:::txtsize --> Hieiycayoo:::txtsize
-Eerahaasgh:::txtsize --> Upenocdyon:::txtsize
-
-Fhitduersts@{ shape: win-pane, label: "_Published Oct 25, 2025, 09:40 PM_
-French fishing nets find new purpose on ukraine’s front lines" }
-Unaoxifsdakmr@{ shape: win-pane, label: "_Published Oct 24, 2025, 05:15 PM_
-Ukraine in race to outfox russian defences with drone attacks, commander says" }
-Feuiea@{ shape: win-pane, label: "_Published Feb 24, 2023, 05:54 PM_
-Feb 24, 2022: the day russia invaded ukraine" }
-Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
-Timeline: how russia's attack on ukraine unfolded" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-RaitnktjUnis@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:30 PM_
-Russian aerial attack on kyiv kills two, injures 13, ukraine officials say" }
-UlRamaoerwttsparr@{ shape: win-pane, label: "_Published Oct 25, 2025, 06:05 PM_
-Us could hit russia with more sanctions to end ukraine war, but first wants europe to raise pressure" }
-UpmucssorirPwht@{ shape: win-pane, label: "_Published Oct 23, 2025, 05:33 AM_
-Us slaps ‘tremendous sanctions’ on russian oil for ukraine war, says putin wasn’t ‘honest’" }
-Pdnemcsilrri@{ shape: win-pane, label: "_Published Oct 24, 2025, 12:25 AM_
-Putin defiant after trump sanctions russian oil majors over ukraine" }
-
-Fhitduersts:::txtsize --> Unaoxifsdakmr:::txtsize
-Unaoxifsdakmr:::txtsize --> Feuiea:::txtsize
-Feuiea:::txtsize --> Tiwitnifd:::txtsize
-Feuiea:::txtsize --> DsruasvUn:::txtsize
-Fhitduersts:::txtsize --> RaitnktjUnis:::txtsize
-RaitnktjUnis:::txtsize --> UlRamaoerwttsparr:::txtsize
-UlRamaoerwttsparr:::txtsize --> UpmucssorirPwht:::txtsize
-UlRamaoerwttsparr:::txtsize --> Pdnemcsilrri:::txtsize
+Ilistuttrnrz:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
 
 ```
-<i>Last updated: 2025-10-26 00:00:22.309892 (GMT+8)</i>
+<i>Last updated: 2025-10-26 04:00:41.959582 (GMT+8)</i>
 <!-- END -->
