@@ -16,105 +16,84 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-WbesensnFerole@{ shape: win-pane, label: "_Published Oct 25, 2025, 03:55 PM_
-Woman becomes first to be given life sentence in france, after schoolgirl murder" }
-Fesnadecg@{ shape: win-pane, label: "_Published Oct 17, 2025, 05:35 PM_
-France tries woman for rape and murder of schoolgirl" }
-FhtarmGecpea@{ shape: win-pane, label: "_Published Oct 10, 2025, 12:18 AM_
-French court ups jail term for man in gisele pelicot rape case appeal" }
-MrThcdamai@{ shape: win-pane, label: "_Published Nov 27, 2024, 01:40 PM_
-‘mr everyman’: the 50 others accused in france’s mass rape trial" }
-Gecgcrtkpby@{ shape: win-pane, label: "_Published Oct 09, 2025, 12:59 AM_
-Gisele pelicot urges accused rapist to ‘take responsibility’" }
-Gecgcrtkpby@{ shape: win-pane, label: "_Published Oct 09, 2025, 12:59 AM_
-Gisele pelicot urges accused rapist to ‘take responsibility’" }
-DieteyidFhchrew@{ shape: win-pane, label: "_Published Dec 19, 2024, 04:56 PM_
-Dominique pelicot jailed for 20 years in landmark french rape case that horrified the world" }
-Gectcfpyfotema@{ shape: win-pane, label: "_Published Oct 06, 2025, 08:47 PM_
-Gisele pelicot attends court for appeal by one of 51 men convicted over her mass rape" }
-Fesnadecg@{ shape: win-pane, label: "_Published Oct 17, 2025, 05:35 PM_
-France tries woman for rape and murder of schoolgirl" }
-FhtarmGecpea@{ shape: win-pane, label: "_Published Oct 10, 2025, 12:18 AM_
-French court ups jail term for man in gisele pelicot rape case appeal" }
-MrThcdamai@{ shape: win-pane, label: "_Published Nov 27, 2024, 01:40 PM_
-‘mr everyman’: the 50 others accused in france’s mass rape trial" }
-Gecgcrtkpby@{ shape: win-pane, label: "_Published Oct 09, 2025, 12:59 AM_
-Gisele pelicot urges accused rapist to ‘take responsibility’" }
-Gecgcrtkpby@{ shape: win-pane, label: "_Published Oct 09, 2025, 12:59 AM_
-Gisele pelicot urges accused rapist to ‘take responsibility’" }
-DieteyidFhchrew@{ shape: win-pane, label: "_Published Dec 19, 2024, 04:56 PM_
-Dominique pelicot jailed for 20 years in landmark french rape case that horrified the world" }
-Gectcfpyfotema@{ shape: win-pane, label: "_Published Oct 06, 2025, 08:47 PM_
-Gisele pelicot attends court for appeal by one of 51 men convicted over her mass rape" }
+RaitnktjUnis@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:30 PM_
+Russian aerial attack on kyiv kills two, injures 13, ukraine officials say" }
+UlRamaoerwttsparr@{ shape: win-pane, label: "_Published Oct 25, 2025, 06:05 PM_
+Us could hit russia with more sanctions to end ukraine war, but first wants europe to raise pressure" }
+UpmucssorirPwht@{ shape: win-pane, label: "_Published Oct 23, 2025, 05:33 AM_
+Us slaps ‘tremendous sanctions’ on russian oil for ukraine war, says putin wasn’t ‘honest’" }
+ErtkftassewUn@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:10 AM_
+Eu approves 19th package of sanctions against russia over its war in ukraine" }
+PTtiaodrieei@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
+Putin-trump talks in budapest on hold after russia rejects ceasefire" }
+Pdnemcsilrri@{ shape: win-pane, label: "_Published Oct 24, 2025, 12:25 AM_
+Putin defiant after trump sanctions russian oil majors over ukraine" }
+Ucsilrrionitncr@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:27 PM_
+Us sanctions russian oil majors over ukraine, prompting india jitters and moscow fury" }
+Csojudildsios@{ shape: win-pane, label: "_Published Oct 23, 2025, 09:55 PM_
+China state oil majors suspend russian oil buys due to sanctions, sources say" }
 
-WbesensnFerole:::txtsize --> Fesnadecg:::txtsize
-Fesnadecg:::txtsize --> FhtarmGecpea:::txtsize
-FhtarmGecpea:::txtsize --> MrThcdamai:::txtsize
-FhtarmGecpea:::txtsize --> Gecgcrtkpby:::txtsize
-Fesnadecg:::txtsize --> Gecgcrtkpby:::txtsize
-Gecgcrtkpby:::txtsize --> DieteyidFhchrew:::txtsize
-Gecgcrtkpby:::txtsize --> Gectcfpyfotema:::txtsize
-WbesensnFerole:::txtsize --> Fesnadecg:::txtsize
-Fesnadecg:::txtsize --> FhtarmGecpea:::txtsize
-FhtarmGecpea:::txtsize --> MrThcdamai:::txtsize
-FhtarmGecpea:::txtsize --> Gecgcrtkpby:::txtsize
-Fesnadecg:::txtsize --> Gecgcrtkpby:::txtsize
-Gecgcrtkpby:::txtsize --> DieteyidFhchrew:::txtsize
-Gecgcrtkpby:::txtsize --> Gectcfpyfotema:::txtsize
+RaitnktjUnis:::txtsize --> UlRamaoerwttsparr:::txtsize
+UlRamaoerwttsparr:::txtsize --> UpmucssorirPwht:::txtsize
+UpmucssorirPwht:::txtsize --> ErtkftassewUn:::txtsize
+UpmucssorirPwht:::txtsize --> PTtiaodrieei:::txtsize
+UlRamaoerwttsparr:::txtsize --> Pdnemcsilrri:::txtsize
+Pdnemcsilrri:::txtsize --> Ucsilrrionitncr:::txtsize
+Pdnemcsilrri:::txtsize --> Csojudildsios:::txtsize
 
-AeneygxirbSMo@{ shape: win-pane, label: "_Published Oct 25, 2025, 03:35 PM_
-Alleged chinese fentanyl kingpin extradited from cuba to us, says mexico" }
-ITXtnhaeame@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:15 PM_
-Is the trump-xi meeting in south korea headed for a k-drama moment?" }
-Ciuaaaeirctt@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:33 AM_
-Canadians pull reagan tariff ad after furious trump scraps trade talks" }
-Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
-Trump says all trade talks with canada are terminated" }
-Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
-Trump says all trade talks with canada are terminated" }
-ThCpyryo@{ shape: win-pane, label: "_Published Oct 19, 2025, 06:25 PM_
-The us has no china policy, no strategy and no clue" }
-TdrCtwsfst@{ shape: win-pane, label: "_Published Oct 16, 2025, 10:15 AM_
-Trump declares us-china trade war, bessent floats long truce" }
-TreUndweixco@{ shape: win-pane, label: "_Published Oct 11, 2025, 05:16 AM_
-Trump ratchets up us-china trade war with new 100% tariffs, export controls" }
-Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
-China tightens rare earth export controls and targets defence, semiconductor users" }
+TIeshhetdpoG@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:20 PM_
+Turks, indonesians or others? the race is on to find troops to police gaza" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
+TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
+Tears, joy in israel as hamas hands over first hostages" }
+Hholissrrazo@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:47 PM_
+Hamas hands over all living hostages to israel; trump says gaza war over" }
+Ilnrsaehwreit@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:04 AM_
+Israelis honour trump as hostages return home two years after their capture" }
 
-AeneygxirbSMo:::txtsize --> ITXtnhaeame:::txtsize
-ITXtnhaeame:::txtsize --> Ciuaaaeirctt:::txtsize
-Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
-Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
-AeneygxirbSMo:::txtsize --> ThCpyryo:::txtsize
-ThCpyryo:::txtsize --> TdrCtwsfst:::txtsize
-TdrCtwsfst:::txtsize --> TreUndweixco:::txtsize
-TdrCtwsfst:::txtsize --> Ctertonsasnmdrs:::txtsize
+TIeshhetdpoG:::txtsize --> PflcoMeNelale:::txtsize
+PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
+TjIlmnest:::txtsize --> Hholissrrazo:::txtsize
+TjIlmnest:::txtsize --> Ilnrsaehwreit:::txtsize
 
-ITXtnhaeame@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:15 PM_
-Is the trump-xi meeting in south korea headed for a k-drama moment?" }
-Ciuaaaeirctt@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:33 AM_
-Canadians pull reagan tariff ad after furious trump scraps trade talks" }
-Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
-Trump says all trade talks with canada are terminated" }
-Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
-Trump talks up canada trade deal chances with ‘world-class’ carney" }
-Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
-Trump talks up canada trade deal chances with ‘world-class’ carney" }
-Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
-Trump says all trade talks with canada are terminated" }
-Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
-Trump talks up canada trade deal chances with ‘world-class’ carney" }
-Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
-Trump talks up canada trade deal chances with ‘world-class’ carney" }
+Bibessdsstyea@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:01 PM_
+Britain’s labour members pick sacked minister as deputy, defying keir starmer" }
+UuRrstr@{ shape: win-pane, label: "_Published Sep 05, 2025, 07:10 PM_
+Uk deputy pm rayner quits over tax error" }
+Bsufsvcrrtupg@{ shape: win-pane, label: "_Published Sep 03, 2025, 07:15 PM_
+British deputy pm fights to save her career after admitting underpaying tax" }
+Ktroreoiensnnsa@{ shape: win-pane, label: "_Published Jul 05, 2024, 12:05 PM_
+Keir starmer’s labour party sweeps to british election win as pm sunak concedes defeat" }
+Biirecfofkfri@{ shape: win-pane, label: "_Published Oct 03, 2024, 02:28 AM_
+Britain’s keir starmer repays cost of taylor swift tickets after criticism" }
+BsorflaenaaoirifK@{ shape: win-pane, label: "_Published Oct 24, 2025, 03:35 PM_
+British labour party suffers landmark election defeat in wales, coming in third behind reform uk" }
+AornnSevehet@{ shape: win-pane, label: "_Published Sep 29, 2025, 06:03 PM_
+At labour party conference, pm starmer’s rival steals the limelight" }
+Fedrhtftruon@{ shape: win-pane, label: "_Published Sep 26, 2025, 05:34 PM_
+Farage would win british election if held tomorrow, yougov poll finds" }
+Biteemnepnen@{ shape: win-pane, label: "_Published Sep 29, 2025, 05:38 AM_
+Britain may toughen rules for migrants seeking permanent residency" }
+Biacotnnpln@{ shape: win-pane, label: "_Published Sep 28, 2025, 06:13 PM_
+Britain’s starmer calls on party to unite and ‘stop navel-gazing’" }
+BinumogIwrellgo@{ shape: win-pane, label: "_Published Sep 26, 2025, 02:42 PM_
+Britain to introduce compulsory digital id for workers to deter illegal immigration" }
+Fedrhtftruon@{ shape: win-pane, label: "_Published Sep 26, 2025, 05:34 PM_
+Farage would win british election if held tomorrow, yougov poll finds" }
 
-ITXtnhaeame:::txtsize --> Ciuaaaeirctt:::txtsize
-Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
-Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
-Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
-Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
-Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
-Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
+Bibessdsstyea:::txtsize --> UuRrstr:::txtsize
+UuRrstr:::txtsize --> Bsufsvcrrtupg:::txtsize
+Bsufsvcrrtupg:::txtsize --> Ktroreoiensnnsa:::txtsize
+Bsufsvcrrtupg:::txtsize --> Biirecfofkfri:::txtsize
+Bibessdsstyea:::txtsize --> BsorflaenaaoirifK:::txtsize
+BsorflaenaaoirifK:::txtsize --> AornnSevehet:::txtsize
+AornnSevehet:::txtsize --> Fedrhtftruon:::txtsize
+AornnSevehet:::txtsize --> Biteemnepnen:::txtsize
+BsorflaenaaoirifK:::txtsize --> Biacotnnpln:::txtsize
+Biacotnnpln:::txtsize --> BinumogIwrellgo:::txtsize
+Biacotnnpln:::txtsize --> Fedrhtftruon:::txtsize
 
 ```
-<i>Last updated: 2025-10-25 16:00:41.753081 (GMT+8)</i>
+<i>Last updated: 2025-10-25 20:01:01.206374 (GMT+8)</i>
 <!-- END -->
