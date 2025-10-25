@@ -16,69 +16,105 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-TlsneWntsaha@{ shape: win-pane, label: "_Published Oct 25, 2025, 11:30 AM_
-Trump leaves behind a reeling washington to chase a deal with china" }
-ThfiXkicii@{ shape: win-pane, label: "_Published Oct 25, 2025, 06:00 AM_
-Trump heads for asia and xi talks, as kim speculation swirls" }
-TttSKoatin@{ shape: win-pane, label: "_Published Oct 24, 2025, 04:56 AM_
-Trump to meet xi in south korea on oct 30 as part of asia swing" }
+WbesensnFerole@{ shape: win-pane, label: "_Published Oct 25, 2025, 03:55 PM_
+Woman becomes first to be given life sentence in france, after schoolgirl murder" }
+Fesnadecg@{ shape: win-pane, label: "_Published Oct 17, 2025, 05:35 PM_
+France tries woman for rape and murder of schoolgirl" }
+FhtarmGecpea@{ shape: win-pane, label: "_Published Oct 10, 2025, 12:18 AM_
+French court ups jail term for man in gisele pelicot rape case appeal" }
+MrThcdamai@{ shape: win-pane, label: "_Published Nov 27, 2024, 01:40 PM_
+‘mr everyman’: the 50 others accused in france’s mass rape trial" }
+Gecgcrtkpby@{ shape: win-pane, label: "_Published Oct 09, 2025, 12:59 AM_
+Gisele pelicot urges accused rapist to ‘take responsibility’" }
+Gecgcrtkpby@{ shape: win-pane, label: "_Published Oct 09, 2025, 12:59 AM_
+Gisele pelicot urges accused rapist to ‘take responsibility’" }
+DieteyidFhchrew@{ shape: win-pane, label: "_Published Dec 19, 2024, 04:56 PM_
+Dominique pelicot jailed for 20 years in landmark french rape case that horrified the world" }
+Gectcfpyfotema@{ shape: win-pane, label: "_Published Oct 06, 2025, 08:47 PM_
+Gisele pelicot attends court for appeal by one of 51 men convicted over her mass rape" }
+Fesnadecg@{ shape: win-pane, label: "_Published Oct 17, 2025, 05:35 PM_
+France tries woman for rape and murder of schoolgirl" }
+FhtarmGecpea@{ shape: win-pane, label: "_Published Oct 10, 2025, 12:18 AM_
+French court ups jail term for man in gisele pelicot rape case appeal" }
+MrThcdamai@{ shape: win-pane, label: "_Published Nov 27, 2024, 01:40 PM_
+‘mr everyman’: the 50 others accused in france’s mass rape trial" }
+Gecgcrtkpby@{ shape: win-pane, label: "_Published Oct 09, 2025, 12:59 AM_
+Gisele pelicot urges accused rapist to ‘take responsibility’" }
+Gecgcrtkpby@{ shape: win-pane, label: "_Published Oct 09, 2025, 12:59 AM_
+Gisele pelicot urges accused rapist to ‘take responsibility’" }
+DieteyidFhchrew@{ shape: win-pane, label: "_Published Dec 19, 2024, 04:56 PM_
+Dominique pelicot jailed for 20 years in landmark french rape case that horrified the world" }
+Gectcfpyfotema@{ shape: win-pane, label: "_Published Oct 06, 2025, 08:47 PM_
+Gisele pelicot attends court for appeal by one of 51 men convicted over her mass rape" }
+
+WbesensnFerole:::txtsize --> Fesnadecg:::txtsize
+Fesnadecg:::txtsize --> FhtarmGecpea:::txtsize
+FhtarmGecpea:::txtsize --> MrThcdamai:::txtsize
+FhtarmGecpea:::txtsize --> Gecgcrtkpby:::txtsize
+Fesnadecg:::txtsize --> Gecgcrtkpby:::txtsize
+Gecgcrtkpby:::txtsize --> DieteyidFhchrew:::txtsize
+Gecgcrtkpby:::txtsize --> Gectcfpyfotema:::txtsize
+WbesensnFerole:::txtsize --> Fesnadecg:::txtsize
+Fesnadecg:::txtsize --> FhtarmGecpea:::txtsize
+FhtarmGecpea:::txtsize --> MrThcdamai:::txtsize
+FhtarmGecpea:::txtsize --> Gecgcrtkpby:::txtsize
+Fesnadecg:::txtsize --> Gecgcrtkpby:::txtsize
+Gecgcrtkpby:::txtsize --> DieteyidFhchrew:::txtsize
+Gecgcrtkpby:::txtsize --> Gectcfpyfotema:::txtsize
+
+AeneygxirbSMo@{ shape: win-pane, label: "_Published Oct 25, 2025, 03:35 PM_
+Alleged chinese fentanyl kingpin extradited from cuba to us, says mexico" }
+ITXtnhaeame@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:15 PM_
+Is the trump-xi meeting in south korea headed for a k-drama moment?" }
+Ciuaaaeirctt@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:33 AM_
+Canadians pull reagan tariff ad after furious trump scraps trade talks" }
+Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
+Trump says all trade talks with canada are terminated" }
+Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
+Trump says all trade talks with canada are terminated" }
+ThCpyryo@{ shape: win-pane, label: "_Published Oct 19, 2025, 06:25 PM_
+The us has no china policy, no strategy and no clue" }
+TdrCtwsfst@{ shape: win-pane, label: "_Published Oct 16, 2025, 10:15 AM_
+Trump declares us-china trade war, bessent floats long truce" }
 TreUndweixco@{ shape: win-pane, label: "_Published Oct 11, 2025, 05:16 AM_
 Trump ratchets up us-china trade war with new 100% tariffs, export controls" }
-Chsdeerpcea@{ shape: win-pane, label: "_Published Oct 17, 2025, 05:00 AM_
-China hawks should temper hopes over trump’s muscle flexing at xi" }
-Wrnidton@{ shape: win-pane, label: "_Published Oct 24, 2025, 12:00 PM_
-Will trump and xi simply defer the showdown?" }
+Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
+China tightens rare earth export controls and targets defence, semiconductor users" }
 
-TlsneWntsaha:::txtsize --> ThfiXkicii:::txtsize
-ThfiXkicii:::txtsize --> TttSKoatin:::txtsize
-TttSKoatin:::txtsize --> TreUndweixco:::txtsize
-TttSKoatin:::txtsize --> Chsdeerpcea:::txtsize
-ThfiXkicii:::txtsize --> Wrnidton:::txtsize
+AeneygxirbSMo:::txtsize --> ITXtnhaeame:::txtsize
+ITXtnhaeame:::txtsize --> Ciuaaaeirctt:::txtsize
+Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
+Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
+AeneygxirbSMo:::txtsize --> ThCpyryo:::txtsize
+ThCpyryo:::txtsize --> TdrCtwsfst:::txtsize
+TdrCtwsfst:::txtsize --> TreUndweixco:::txtsize
+TdrCtwsfst:::txtsize --> Ctertonsasnmdrs:::txtsize
 
-Bnmrpomuad@{ shape: win-pane, label: "_Published Oct 25, 2025, 10:55 AM_
-Bannon claims ‘there is a plan’ for trump to run for a third term" }
-Hnstnrshnumasc@{ shape: win-pane, label: "_Published Oct 19, 2025, 02:06 PM_
-‘he thinks he’s great, we don’t’: americans march against trump’s ‘imperial presidency’" }
-NgtrrmasrTre@{ shape: win-pane, label: "_Published Oct 19, 2025, 03:25 AM_
-‘no kings’ protesters emerge en masse across us for anti-trump rallies" }
-NglxerlssneaT@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:06 PM_
-‘no kings’ rallies expected to draw millions across us in protest against trump" }
-WCikoeUst@{ shape: win-pane, label: "_Published Sep 11, 2025, 06:17 AM_
-Who is charlie kirk, the young hero of us conservatives?" }
-TtttafryNgt@{ shape: win-pane, label: "_Published Jun 14, 2025, 03:40 PM_
-Trump to host military parade for birthday amid ‘no kings’ protests" }
-Melihfineeipe@{ shape: win-pane, label: "_Published Jun 14, 2025, 10:23 AM_
-Marines deployed in la ahead of possible ‘unprecedented’ anti-trump protests" }
-Mosthautvpsane@{ shape: win-pane, label: "_Published Jun 14, 2025, 10:16 AM_
-Mexico’s president says her flag should not fly over us protests that turn violent" }
-EiaaurheUst@{ shape: win-pane, label: "_Published Apr 01, 2025, 05:11 AM_
-Explainer: can donald trump serve a third term as us president?" }
-TsetnukheUst@{ shape: win-pane, label: "_Published Mar 31, 2025, 01:21 AM_
-Trump says he is ‘not joking’ about seeking third term as us president" }
-TabraAc@{ shape: win-pane, label: "_Published Mar 29, 2025, 08:00 PM_
-Trump assembles great wall of america" }
-Wuurwusiape@{ shape: win-pane, label: "_Published Mar 30, 2025, 08:06 PM_
-Why trump’s auto tariffs will hurt his working-class supporters" }
+ITXtnhaeame@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:15 PM_
+Is the trump-xi meeting in south korea headed for a k-drama moment?" }
+Ciuaaaeirctt@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:33 AM_
+Canadians pull reagan tariff ad after furious trump scraps trade talks" }
+Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
+Trump says all trade talks with canada are terminated" }
+Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
+Trump talks up canada trade deal chances with ‘world-class’ carney" }
+Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
+Trump talks up canada trade deal chances with ‘world-class’ carney" }
+Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
+Trump says all trade talks with canada are terminated" }
+Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
+Trump talks up canada trade deal chances with ‘world-class’ carney" }
+Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
+Trump talks up canada trade deal chances with ‘world-class’ carney" }
 
-Bnmrpomuad:::txtsize --> Hnstnrshnumasc:::txtsize
-Hnstnrshnumasc:::txtsize --> NgtrrmasrTre:::txtsize
-NgtrrmasrTre:::txtsize --> NglxerlssneaT:::txtsize
-NgtrrmasrTre:::txtsize --> WCikoeUst:::txtsize
-Hnstnrshnumasc:::txtsize --> TtttafryNgt:::txtsize
-TtttafryNgt:::txtsize --> Melihfineeipe:::txtsize
-TtttafryNgt:::txtsize --> Mosthautvpsane:::txtsize
-Bnmrpomuad:::txtsize --> EiaaurheUst:::txtsize
-EiaaurheUst:::txtsize --> TsetnukheUst:::txtsize
-TsetnukheUst:::txtsize --> TabraAc:::txtsize
-TsetnukheUst:::txtsize --> Wuurwusiape:::txtsize
-
-Uavyeulr@{ shape: win-pane, label: "_Published Oct 25, 2025, 08:30 AM_
-Us fda approves bayer’s menopause relief drug" }
-Mautccpesimwmps@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:15 AM_
-Menopause support: from clinics to apps to events, midlife women now have more options" }
-
-Uavyeulr:::txtsize --> Mautccpesimwmps:::txtsize
+ITXtnhaeame:::txtsize --> Ciuaaaeirctt:::txtsize
+Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
+Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
+Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
+Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
+Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
+Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
 
 ```
-<i>Last updated: 2025-10-25 12:00:26.697235 (GMT+8)</i>
+<i>Last updated: 2025-10-25 16:00:41.753081 (GMT+8)</i>
 <!-- END -->
