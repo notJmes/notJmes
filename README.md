@@ -16,84 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+TttrewA@{ shape: win-pane, label: "_Published Oct 25, 2025, 10:48 PM_
+Trump to meet qatar leaders on way to asia" }
+LrmpWoaamikade@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:00 PM_
+Leaders from trump to pm wong to meet at asean summit, amid talk of trade and peace" }
+TLsnepfiuto@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:35 PM_
+Timor-leste’s asean membership a win for asia’s youngest nation" }
+Topoaeu@{ shape: win-pane, label: "_Published Feb 16, 2025, 02:25 PM_
+The growing pains of asia’s newest country" }
+TLtoehecradst@{ shape: win-pane, label: "_Published Sep 23, 2025, 06:40 PM_
+Timor-leste to become asean’s 11th member in october, formalised at kl summit" }
+Tlnwolaiseaamla@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:59 PM_
+Trump ‘looking forward’ to thailand-cambodia ceasefire deal at asean summit, malaysia says" }
+kdaCdirltuo@{ shape: win-pane, label: "_Published Jul 24, 2025, 10:38 AM_
+12 killed as thai and cambodian militaries clash at disputed border" }
+Anagsaftl@{ shape: win-pane, label: "_Published Oct 06, 2025, 05:00 AM_
+Asean needs a non-aggression pact before it’s too late" }
+Ucisrltota@{ shape: win-pane, label: "_Published Oct 25, 2025, 09:30 PM_
+Us’ marco rubio vows return of all hostage bodies to israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
+TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
+Tears, joy in israel as hamas hands over first hostages" }
+
+TttrewA:::txtsize --> LrmpWoaamikade:::txtsize
+LrmpWoaamikade:::txtsize --> TLsnepfiuto:::txtsize
+TLsnepfiuto:::txtsize --> Topoaeu:::txtsize
+TLsnepfiuto:::txtsize --> TLtoehecradst:::txtsize
+LrmpWoaamikade:::txtsize --> Tlnwolaiseaamla:::txtsize
+Tlnwolaiseaamla:::txtsize --> kdaCdirltuo:::txtsize
+Tlnwolaiseaamla:::txtsize --> Anagsaftl:::txtsize
+TttrewA:::txtsize --> Ucisrltota:::txtsize
+Ucisrltota:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Ucisrltota:::txtsize --> PflcoMeNelale:::txtsize
+PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
+
+GnutCsenaesrsas@{ shape: win-pane, label: "_Published Oct 25, 2025, 10:10 PM_
+Germany should rethink china strategy, senior lawmaker says, after minister cancels trip" }
+Gnrmtsenprgi@{ shape: win-pane, label: "_Published Oct 25, 2025, 01:45 AM_
+Germany’s foreign minister postpones china  trip amid rising tensions" }
+CsGnhgglin@{ shape: win-pane, label: "_Published Aug 18, 2025, 01:58 PM_
+China slams germany for ‘hyping up’ regional tensions in asia" }
+TPdtsUncamre@{ shape: win-pane, label: "_Published Aug 16, 2025, 03:43 AM_
+Trump-putin direct talks over ukraine conclude as summit stretches on" }
+GncCUoaesagiSs@{ shape: win-pane, label: "_Published Jun 12, 2025, 01:03 AM_
+Germany welcomes china-us export deal, hopes for similar progress in eu-us talks" }
+Eerahaasgh@{ shape: win-pane, label: "_Published Sep 30, 2025, 09:14 PM_
+Ex-aide of german far-right mp jailed after spying for china" }
+Hieiycayoo@{ shape: win-pane, label: "_Published Sep 29, 2025, 07:50 AM_
+How china’s secretive spy agency became a cyber powerhouse" }
+Upenocdyon@{ shape: win-pane, label: "_Published Sep 15, 2025, 06:20 PM_
+Uk drops case against two men accused of spying for china" }
+Gnrmtsenprgi@{ shape: win-pane, label: "_Published Oct 25, 2025, 01:45 AM_
+Germany’s foreign minister postpones china  trip amid rising tensions" }
+CsGnhgglin@{ shape: win-pane, label: "_Published Aug 18, 2025, 01:58 PM_
+China slams germany for ‘hyping up’ regional tensions in asia" }
+TPdtsUncamre@{ shape: win-pane, label: "_Published Aug 16, 2025, 03:43 AM_
+Trump-putin direct talks over ukraine conclude as summit stretches on" }
+GncCUoaesagiSs@{ shape: win-pane, label: "_Published Jun 12, 2025, 01:03 AM_
+Germany welcomes china-us export deal, hopes for similar progress in eu-us talks" }
+Eerahaasgh@{ shape: win-pane, label: "_Published Sep 30, 2025, 09:14 PM_
+Ex-aide of german far-right mp jailed after spying for china" }
+Hieiycayoo@{ shape: win-pane, label: "_Published Sep 29, 2025, 07:50 AM_
+How china’s secretive spy agency became a cyber powerhouse" }
+Upenocdyon@{ shape: win-pane, label: "_Published Sep 15, 2025, 06:20 PM_
+Uk drops case against two men accused of spying for china" }
+
+GnutCsenaesrsas:::txtsize --> Gnrmtsenprgi:::txtsize
+Gnrmtsenprgi:::txtsize --> CsGnhgglin:::txtsize
+CsGnhgglin:::txtsize --> TPdtsUncamre:::txtsize
+CsGnhgglin:::txtsize --> GncCUoaesagiSs:::txtsize
+Gnrmtsenprgi:::txtsize --> Eerahaasgh:::txtsize
+Eerahaasgh:::txtsize --> Hieiycayoo:::txtsize
+Eerahaasgh:::txtsize --> Upenocdyon:::txtsize
+GnutCsenaesrsas:::txtsize --> Gnrmtsenprgi:::txtsize
+Gnrmtsenprgi:::txtsize --> CsGnhgglin:::txtsize
+CsGnhgglin:::txtsize --> TPdtsUncamre:::txtsize
+CsGnhgglin:::txtsize --> GncCUoaesagiSs:::txtsize
+Gnrmtsenprgi:::txtsize --> Eerahaasgh:::txtsize
+Eerahaasgh:::txtsize --> Hieiycayoo:::txtsize
+Eerahaasgh:::txtsize --> Upenocdyon:::txtsize
+
+Fhitduersts@{ shape: win-pane, label: "_Published Oct 25, 2025, 09:40 PM_
+French fishing nets find new purpose on ukraine’s front lines" }
+Unaoxifsdakmr@{ shape: win-pane, label: "_Published Oct 24, 2025, 05:15 PM_
+Ukraine in race to outfox russian defences with drone attacks, commander says" }
+Feuiea@{ shape: win-pane, label: "_Published Feb 24, 2023, 05:54 PM_
+Feb 24, 2022: the day russia invaded ukraine" }
+Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
+Timeline: how russia's attack on ukraine unfolded" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
 RaitnktjUnis@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:30 PM_
 Russian aerial attack on kyiv kills two, injures 13, ukraine officials say" }
 UlRamaoerwttsparr@{ shape: win-pane, label: "_Published Oct 25, 2025, 06:05 PM_
 Us could hit russia with more sanctions to end ukraine war, but first wants europe to raise pressure" }
 UpmucssorirPwht@{ shape: win-pane, label: "_Published Oct 23, 2025, 05:33 AM_
 Us slaps ‘tremendous sanctions’ on russian oil for ukraine war, says putin wasn’t ‘honest’" }
-ErtkftassewUn@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:10 AM_
-Eu approves 19th package of sanctions against russia over its war in ukraine" }
-PTtiaodrieei@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
-Putin-trump talks in budapest on hold after russia rejects ceasefire" }
 Pdnemcsilrri@{ shape: win-pane, label: "_Published Oct 24, 2025, 12:25 AM_
 Putin defiant after trump sanctions russian oil majors over ukraine" }
-Ucsilrrionitncr@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:27 PM_
-Us sanctions russian oil majors over ukraine, prompting india jitters and moscow fury" }
-Csojudildsios@{ shape: win-pane, label: "_Published Oct 23, 2025, 09:55 PM_
-China state oil majors suspend russian oil buys due to sanctions, sources say" }
 
+Fhitduersts:::txtsize --> Unaoxifsdakmr:::txtsize
+Unaoxifsdakmr:::txtsize --> Feuiea:::txtsize
+Feuiea:::txtsize --> Tiwitnifd:::txtsize
+Feuiea:::txtsize --> DsruasvUn:::txtsize
+Fhitduersts:::txtsize --> RaitnktjUnis:::txtsize
 RaitnktjUnis:::txtsize --> UlRamaoerwttsparr:::txtsize
 UlRamaoerwttsparr:::txtsize --> UpmucssorirPwht:::txtsize
-UpmucssorirPwht:::txtsize --> ErtkftassewUn:::txtsize
-UpmucssorirPwht:::txtsize --> PTtiaodrieei:::txtsize
 UlRamaoerwttsparr:::txtsize --> Pdnemcsilrri:::txtsize
-Pdnemcsilrri:::txtsize --> Ucsilrrionitncr:::txtsize
-Pdnemcsilrri:::txtsize --> Csojudildsios:::txtsize
-
-TIeshhetdpoG@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:20 PM_
-Turks, indonesians or others? the race is on to find troops to police gaza" }
-PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
-Peace finally descends on the middle east: now the battle to make it last begins" }
-TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
-Tears, joy in israel as hamas hands over first hostages" }
-Hholissrrazo@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:47 PM_
-Hamas hands over all living hostages to israel; trump says gaza war over" }
-Ilnrsaehwreit@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:04 AM_
-Israelis honour trump as hostages return home two years after their capture" }
-
-TIeshhetdpoG:::txtsize --> PflcoMeNelale:::txtsize
-PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
-TjIlmnest:::txtsize --> Hholissrrazo:::txtsize
-TjIlmnest:::txtsize --> Ilnrsaehwreit:::txtsize
-
-Bibessdsstyea@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:01 PM_
-Britain’s labour members pick sacked minister as deputy, defying keir starmer" }
-UuRrstr@{ shape: win-pane, label: "_Published Sep 05, 2025, 07:10 PM_
-Uk deputy pm rayner quits over tax error" }
-Bsufsvcrrtupg@{ shape: win-pane, label: "_Published Sep 03, 2025, 07:15 PM_
-British deputy pm fights to save her career after admitting underpaying tax" }
-Ktroreoiensnnsa@{ shape: win-pane, label: "_Published Jul 05, 2024, 12:05 PM_
-Keir starmer’s labour party sweeps to british election win as pm sunak concedes defeat" }
-Biirecfofkfri@{ shape: win-pane, label: "_Published Oct 03, 2024, 02:28 AM_
-Britain’s keir starmer repays cost of taylor swift tickets after criticism" }
-BsorflaenaaoirifK@{ shape: win-pane, label: "_Published Oct 24, 2025, 03:35 PM_
-British labour party suffers landmark election defeat in wales, coming in third behind reform uk" }
-AornnSevehet@{ shape: win-pane, label: "_Published Sep 29, 2025, 06:03 PM_
-At labour party conference, pm starmer’s rival steals the limelight" }
-Fedrhtftruon@{ shape: win-pane, label: "_Published Sep 26, 2025, 05:34 PM_
-Farage would win british election if held tomorrow, yougov poll finds" }
-Biteemnepnen@{ shape: win-pane, label: "_Published Sep 29, 2025, 05:38 AM_
-Britain may toughen rules for migrants seeking permanent residency" }
-Biacotnnpln@{ shape: win-pane, label: "_Published Sep 28, 2025, 06:13 PM_
-Britain’s starmer calls on party to unite and ‘stop navel-gazing’" }
-BinumogIwrellgo@{ shape: win-pane, label: "_Published Sep 26, 2025, 02:42 PM_
-Britain to introduce compulsory digital id for workers to deter illegal immigration" }
-Fedrhtftruon@{ shape: win-pane, label: "_Published Sep 26, 2025, 05:34 PM_
-Farage would win british election if held tomorrow, yougov poll finds" }
-
-Bibessdsstyea:::txtsize --> UuRrstr:::txtsize
-UuRrstr:::txtsize --> Bsufsvcrrtupg:::txtsize
-Bsufsvcrrtupg:::txtsize --> Ktroreoiensnnsa:::txtsize
-Bsufsvcrrtupg:::txtsize --> Biirecfofkfri:::txtsize
-Bibessdsstyea:::txtsize --> BsorflaenaaoirifK:::txtsize
-BsorflaenaaoirifK:::txtsize --> AornnSevehet:::txtsize
-AornnSevehet:::txtsize --> Fedrhtftruon:::txtsize
-AornnSevehet:::txtsize --> Biteemnepnen:::txtsize
-BsorflaenaaoirifK:::txtsize --> Biacotnnpln:::txtsize
-Biacotnnpln:::txtsize --> BinumogIwrellgo:::txtsize
-Biacotnnpln:::txtsize --> Fedrhtftruon:::txtsize
 
 ```
-<i>Last updated: 2025-10-25 20:01:01.206374 (GMT+8)</i>
+<i>Last updated: 2025-10-26 00:00:22.309892 (GMT+8)</i>
 <!-- END -->
