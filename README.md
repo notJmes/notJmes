@@ -16,114 +16,108 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Uialtyesfreols@{ shape: win-pane, label: "_Published Oct 25, 2025, 03:09 AM_
-Uk minister ‘appalled’ after asylum seeker sex offender is freed from jail by mistake" }
-Fesicnoitsa@{ shape: win-pane, label: "_Published Jun 19, 2025, 05:21 PM_
-France mulls over intercepting uk-bound migrant boats at sea" }
-UasuleonruoFee@{ shape: win-pane, label: "_Published May 12, 2025, 05:36 AM_
-Uk’s starmer steps up english tests, toughens migrant rules to halt farage’s rise" }
-Pisirlpwahtttit@{ shape: win-pane, label: "_Published May 03, 2025, 05:40 PM_
-Political tsunami: reform uk’s local polls win a major threat to britain’s two main parties" }
-Ktroreoiensnnsa@{ shape: win-pane, label: "_Published Jul 05, 2024, 12:05 PM_
-Keir starmer’s labour party sweeps to british election win as pm sunak concedes defeat" }
-Rdeednars@{ shape: win-pane, label: "_Published Mar 21, 2025, 05:41 PM_
-Record number of people died on migration routes in 2024: un" }
-BiartaoesiiIn@{ shape: win-pane, label: "_Published Oct 08, 2025, 07:17 AM_
-Britain’s starmer resists demands for more visas for high-skilled indians" }
-TtoeBealt@{ shape: win-pane, label: "_Published Sep 20, 2025, 04:36 AM_
-Trump to impose $130,000 fee for h-1b worker visas in blow to tech" }
-Lissashrtfisal@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:12 AM_
-Lawsuit says musk’s tesla hires visa holders instead of americans so it can pay less" }
-SKaolvsbeuboen@{ shape: win-pane, label: "_Published Sep 19, 2025, 03:30 PM_
-South korea aims to resolve us visa issues before executing $450 billion investment" }
-BiIsracidi@{ shape: win-pane, label: "_Published Jul 25, 2025, 06:54 AM_
-Britain and india sign free trade pact during modi visit" }
-TtfsgctAhlgmaig@{ shape: win-pane, label: "_Published Jul 23, 2025, 12:15 PM_
-Trump tariff deals bring some clarity for asia, the world’s biggest manufacturing region" }
-FnappvRaiwn@{ shape: win-pane, label: "_Published Jul 24, 2025, 11:39 PM_
-Firm in india shipped explosives to russia despite us warnings" }
+TteaeCadaa@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:57 AM_
+Trump to investigate whether china abided by 2020 trade deal" }
+ThfiXkicii@{ shape: win-pane, label: "_Published Oct 25, 2025, 06:00 AM_
+Trump heads for asia and xi talks, as kim speculation swirls" }
+TttSKoatin@{ shape: win-pane, label: "_Published Oct 24, 2025, 04:56 AM_
+Trump to meet xi in south korea on oct 30 as part of asia swing" }
+TreUndweixco@{ shape: win-pane, label: "_Published Oct 11, 2025, 05:16 AM_
+Trump ratchets up us-china trade war with new 100% tariffs, export controls" }
+Chsdeerpcea@{ shape: win-pane, label: "_Published Oct 17, 2025, 05:00 AM_
+China hawks should temper hopes over trump’s muscle flexing at xi" }
+Wrnidton@{ shape: win-pane, label: "_Published Oct 24, 2025, 12:00 PM_
+Will trump and xi simply defer the showdown?" }
+ThfiXkicii@{ shape: win-pane, label: "_Published Oct 25, 2025, 06:00 AM_
+Trump heads for asia and xi talks, as kim speculation swirls" }
+TttSKoatin@{ shape: win-pane, label: "_Published Oct 24, 2025, 04:56 AM_
+Trump to meet xi in south korea on oct 30 as part of asia swing" }
+TreUndweixco@{ shape: win-pane, label: "_Published Oct 11, 2025, 05:16 AM_
+Trump ratchets up us-china trade war with new 100% tariffs, export controls" }
+Chsdeerpcea@{ shape: win-pane, label: "_Published Oct 17, 2025, 05:00 AM_
+China hawks should temper hopes over trump’s muscle flexing at xi" }
+Wrnidton@{ shape: win-pane, label: "_Published Oct 24, 2025, 12:00 PM_
+Will trump and xi simply defer the showdown?" }
 
-Uialtyesfreols:::txtsize --> Fesicnoitsa:::txtsize
-Fesicnoitsa:::txtsize --> UasuleonruoFee:::txtsize
-UasuleonruoFee:::txtsize --> Pisirlpwahtttit:::txtsize
-UasuleonruoFee:::txtsize --> Ktroreoiensnnsa:::txtsize
-Fesicnoitsa:::txtsize --> Rdeednars:::txtsize
-Uialtyesfreols:::txtsize --> BiartaoesiiIn:::txtsize
-BiartaoesiiIn:::txtsize --> TtoeBealt:::txtsize
-TtoeBealt:::txtsize --> Lissashrtfisal:::txtsize
-TtoeBealt:::txtsize --> SKaolvsbeuboen:::txtsize
-BiartaoesiiIn:::txtsize --> BiIsracidi:::txtsize
-BiIsracidi:::txtsize --> TtfsgctAhlgmaig:::txtsize
-BiIsracidi:::txtsize --> FnappvRaiwn:::txtsize
+TteaeCadaa:::txtsize --> ThfiXkicii:::txtsize
+ThfiXkicii:::txtsize --> TttSKoatin:::txtsize
+TttSKoatin:::txtsize --> TreUndweixco:::txtsize
+TttSKoatin:::txtsize --> Chsdeerpcea:::txtsize
+ThfiXkicii:::txtsize --> Wrnidton:::txtsize
+TteaeCadaa:::txtsize --> ThfiXkicii:::txtsize
+ThfiXkicii:::txtsize --> TttSKoatin:::txtsize
+TttSKoatin:::txtsize --> TreUndweixco:::txtsize
+TttSKoatin:::txtsize --> Chsdeerpcea:::txtsize
+ThfiXkicii:::txtsize --> Wrnidton:::txtsize
 
-NaSshtdragcn@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:57 AM_
-Nato baltic sea mission has ‘deterred’ undersea sabotage, say commanders" }
-Notipntdarrabn@{ shape: win-pane, label: "_Published Dec 28, 2024, 12:41 AM_
-Nato to boost baltic sea presence after undersea power, internet cables broken" }
-FnooaiaBcd@{ shape: win-pane, label: "_Published Dec 25, 2024, 09:59 PM_
-Finland-estonia power cable hit in latest baltic incident" }
-Eetdnshdcbten@{ shape: win-pane, label: "_Published Nov 19, 2024, 10:02 PM_
-European nations denounce russian hybrid attacks, cable cut probes launched" }
-EsunhCspricsed@{ shape: win-pane, label: "_Published Nov 28, 2024, 10:51 AM_
-Eu vessels surround anchored chinese ship after baltic sea cables are severed" }
-RappifniEt@{ shape: win-pane, label: "_Published Dec 07, 2024, 05:57 PM_
-Russia stepping up hybrid warfare in baltic sea: experts" }
-Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
-Timeline: how russia's attack on ukraine unfolded" }
-FnooaiaBcd@{ shape: win-pane, label: "_Published Dec 25, 2024, 09:59 PM_
-Finland-estonia power cable hit in latest baltic incident" }
-Eetdnshdcbten@{ shape: win-pane, label: "_Published Nov 19, 2024, 10:02 PM_
-European nations denounce russian hybrid attacks, cable cut probes launched" }
-UnkaRaaenat@{ shape: win-pane, label: "_Published Nov 19, 2024, 06:11 AM_
-Ukraine, marking 1,000 days of russian invasion, eyes end to war next year" }
-Raersrisiek@{ shape: win-pane, label: "_Published Nov 17, 2024, 01:40 PM_
-Russia targets ukraine’s power grid in ‘massive’ missile strike" }
-EsunhCspricsed@{ shape: win-pane, label: "_Published Nov 28, 2024, 10:51 AM_
-Eu vessels surround anchored chinese ship after baltic sea cables are severed" }
-PdoaSlgitbu@{ shape: win-pane, label: "_Published Nov 28, 2024, 01:21 AM_
-Poland proposes baltic sea policing mission after cables cut" }
-Ppsaeerelitn@{ shape: win-pane, label: "_Published Aug 19, 2024, 08:38 AM_
-Philippines, china trade blame after vessels collide in south china sea" }
+WYresemhiO@{ shape: win-pane, label: "_Published Oct 25, 2025, 06:23 AM_
+While you were sleeping: 5 stories you might have missed, oct 25, 2025" }
+Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
+Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
+Tseaonencl@{ shape: win-pane, label: "_Published Oct 24, 2025, 05:55 AM_
+Trump says declaration of war not needed on drug cartels" }
+Irseravrrfas@{ shape: win-pane, label: "_Published Oct 17, 2025, 08:00 AM_
+In a first, us strike in caribbean leaves survivors, us official says" }
+Uetvteaenet@{ shape: win-pane, label: "_Published Oct 21, 2025, 11:03 PM_
+Us covert actions ‘violate venezuela’s sovereignty’: un experts" }
+Uisepdvlef@{ shape: win-pane, label: "_Published Oct 23, 2025, 01:07 AM_
+Us military strikes suspected drug vessel in the pacific" }
+TsScersnsrn@{ shape: win-pane, label: "_Published Sep 20, 2025, 09:01 AM_
+Trump says us struck alleged drug vessel in latest operation" }
+Ustmrvllaeraasnt@{ shape: win-pane, label: "_Published Oct 20, 2025, 08:20 AM_
+Us says it hit colombian rebel vessel as colombia condemns trump’s accusations against petro" }
+Ciuaaaeirctt@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:33 AM_
+Canadians pull reagan tariff ad after furious trump scraps trade talks" }
+Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
+Trump says all trade talks with canada are terminated" }
+Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
+Trump talks up canada trade deal chances with ‘world-class’ carney" }
+Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
+Trump talks up canada trade deal chances with ‘world-class’ carney" }
+Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
+Trump says all trade talks with canada are terminated" }
+Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
+Trump talks up canada trade deal chances with ‘world-class’ carney" }
+Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
+Trump talks up canada trade deal chances with ‘world-class’ carney" }
 
-NaSshtdragcn:::txtsize --> Notipntdarrabn:::txtsize
-Notipntdarrabn:::txtsize --> FnooaiaBcd:::txtsize
-FnooaiaBcd:::txtsize --> Eetdnshdcbten:::txtsize
-FnooaiaBcd:::txtsize --> EsunhCspricsed:::txtsize
-Notipntdarrabn:::txtsize --> RappifniEt:::txtsize
-RappifniEt:::txtsize --> Tiwitnifd:::txtsize
-NaSshtdragcn:::txtsize --> FnooaiaBcd:::txtsize
-FnooaiaBcd:::txtsize --> Eetdnshdcbten:::txtsize
-Eetdnshdcbten:::txtsize --> UnkaRaaenat:::txtsize
-Eetdnshdcbten:::txtsize --> Raersrisiek:::txtsize
-FnooaiaBcd:::txtsize --> EsunhCspricsed:::txtsize
-EsunhCspricsed:::txtsize --> PdoaSlgitbu:::txtsize
-EsunhCspricsed:::txtsize --> Ppsaeerelitn:::txtsize
+WYresemhiO:::txtsize --> Uidycceuomasnswee:::txtsize
+Uidycceuomasnswee:::txtsize --> Tseaonencl:::txtsize
+Tseaonencl:::txtsize --> Irseravrrfas:::txtsize
+Tseaonencl:::txtsize --> Uetvteaenet:::txtsize
+Uidycceuomasnswee:::txtsize --> Uisepdvlef:::txtsize
+Uisepdvlef:::txtsize --> TsScersnsrn:::txtsize
+Uisepdvlef:::txtsize --> Ustmrvllaeraasnt:::txtsize
+WYresemhiO:::txtsize --> Ciuaaaeirctt:::txtsize
+Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
+Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
+Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
+Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
+Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
+Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
 
-Lahittlfessmty@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:50 AM_
-Lithuania shuts airports due to balloons from belarus, transport ministry says" }
-Slanctonit@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:20 PM_
-Smugglers’ balloons force shutdown of vilnius airport" }
-LaVupesroausii@{ shape: win-pane, label: "_Published Oct 05, 2025, 02:01 PM_
-Lithuania’s vilnius airport reopens after balloons cause suspension, diversions" }
-NeLauiirhooiisp@{ shape: win-pane, label: "_Published Sep 23, 2025, 10:37 PM_
-Nato member lithuania authorises military to shoot down drones violating its airspace" }
-Urstopsrtsetis@{ shape: win-pane, label: "_Published Sep 23, 2025, 08:51 AM_
-Use ukraine’s counter drone expertise to protect nato’s borders, lithuania says" }
-Bsovwotdsglp@{ shape: win-pane, label: "_Published Oct 20, 2025, 07:36 AM_
-British troops given powers to shoot down drones on sight: telegraph" }
-Dsunitsdiesnne@{ shape: win-pane, label: "_Published Sep 25, 2025, 06:07 AM_
-Drones disrupt danish airports for second time in a week; russia denies involvement" }
-Gnlotone@{ shape: win-pane, label: "_Published Oct 08, 2025, 06:17 PM_
-Germany to allow police to shoot down drones" }
+ThfiXkicii@{ shape: win-pane, label: "_Published Oct 25, 2025, 06:00 AM_
+Trump heads for asia and xi talks, as kim speculation swirls" }
+TttSKoatin@{ shape: win-pane, label: "_Published Oct 24, 2025, 04:56 AM_
+Trump to meet xi in south korea on oct 30 as part of asia swing" }
+TreUndweixco@{ shape: win-pane, label: "_Published Oct 11, 2025, 05:16 AM_
+Trump ratchets up us-china trade war with new 100% tariffs, export controls" }
+Wnrtffnrlt@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:00 PM_
+Why donald trump’s tariffs are failing to break global trade" }
+Chsdeerpcea@{ shape: win-pane, label: "_Published Oct 17, 2025, 05:00 AM_
+China hawks should temper hopes over trump’s muscle flexing at xi" }
+Xdompuheut@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:53 AM_
+Xi’s red line on trump’s export curbs threatens to upend truce" }
+Wrnidton@{ shape: win-pane, label: "_Published Oct 24, 2025, 12:00 PM_
+Will trump and xi simply defer the showdown?" }
 
-Lahittlfessmty:::txtsize --> Slanctonit:::txtsize
-Slanctonit:::txtsize --> LaVupesroausii:::txtsize
-LaVupesroausii:::txtsize --> NeLauiirhooiisp:::txtsize
-LaVupesroausii:::txtsize --> Urstopsrtsetis:::txtsize
-Slanctonit:::txtsize --> Bsovwotdsglp:::txtsize
-Bsovwotdsglp:::txtsize --> Dsunitsdiesnne:::txtsize
-Bsovwotdsglp:::txtsize --> Gnlotone:::txtsize
+ThfiXkicii:::txtsize --> TttSKoatin:::txtsize
+TttSKoatin:::txtsize --> TreUndweixco:::txtsize
+TreUndweixco:::txtsize --> Wnrtffnrlt:::txtsize
+TttSKoatin:::txtsize --> Chsdeerpcea:::txtsize
+Chsdeerpcea:::txtsize --> Xdompuheut:::txtsize
+ThfiXkicii:::txtsize --> Wrnidton:::txtsize
 
 ```
-<i>Last updated: 2025-10-25 04:00:49.811899 (GMT+8)</i>
+<i>Last updated: 2025-10-25 08:01:09.810950 (GMT+8)</i>
 <!-- END -->
