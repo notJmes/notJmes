@@ -16,8 +16,8 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-TteaeCadaa@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:57 AM_
-Trump to investigate whether china abided by 2020 trade deal" }
+TlsneWntsaha@{ shape: win-pane, label: "_Published Oct 25, 2025, 11:30 AM_
+Trump leaves behind a reeling washington to chase a deal with china" }
 ThfiXkicii@{ shape: win-pane, label: "_Published Oct 25, 2025, 06:00 AM_
 Trump heads for asia and xi talks, as kim speculation swirls" }
 TttSKoatin@{ shape: win-pane, label: "_Published Oct 24, 2025, 04:56 AM_
@@ -28,96 +28,57 @@ Chsdeerpcea@{ shape: win-pane, label: "_Published Oct 17, 2025, 05:00 AM_
 China hawks should temper hopes over trump’s muscle flexing at xi" }
 Wrnidton@{ shape: win-pane, label: "_Published Oct 24, 2025, 12:00 PM_
 Will trump and xi simply defer the showdown?" }
-ThfiXkicii@{ shape: win-pane, label: "_Published Oct 25, 2025, 06:00 AM_
-Trump heads for asia and xi talks, as kim speculation swirls" }
-TttSKoatin@{ shape: win-pane, label: "_Published Oct 24, 2025, 04:56 AM_
-Trump to meet xi in south korea on oct 30 as part of asia swing" }
-TreUndweixco@{ shape: win-pane, label: "_Published Oct 11, 2025, 05:16 AM_
-Trump ratchets up us-china trade war with new 100% tariffs, export controls" }
-Chsdeerpcea@{ shape: win-pane, label: "_Published Oct 17, 2025, 05:00 AM_
-China hawks should temper hopes over trump’s muscle flexing at xi" }
-Wrnidton@{ shape: win-pane, label: "_Published Oct 24, 2025, 12:00 PM_
-Will trump and xi simply defer the showdown?" }
 
-TteaeCadaa:::txtsize --> ThfiXkicii:::txtsize
-ThfiXkicii:::txtsize --> TttSKoatin:::txtsize
-TttSKoatin:::txtsize --> TreUndweixco:::txtsize
-TttSKoatin:::txtsize --> Chsdeerpcea:::txtsize
-ThfiXkicii:::txtsize --> Wrnidton:::txtsize
-TteaeCadaa:::txtsize --> ThfiXkicii:::txtsize
+TlsneWntsaha:::txtsize --> ThfiXkicii:::txtsize
 ThfiXkicii:::txtsize --> TttSKoatin:::txtsize
 TttSKoatin:::txtsize --> TreUndweixco:::txtsize
 TttSKoatin:::txtsize --> Chsdeerpcea:::txtsize
 ThfiXkicii:::txtsize --> Wrnidton:::txtsize
 
-WYresemhiO@{ shape: win-pane, label: "_Published Oct 25, 2025, 06:23 AM_
-While you were sleeping: 5 stories you might have missed, oct 25, 2025" }
-Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
-Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
-Tseaonencl@{ shape: win-pane, label: "_Published Oct 24, 2025, 05:55 AM_
-Trump says declaration of war not needed on drug cartels" }
-Irseravrrfas@{ shape: win-pane, label: "_Published Oct 17, 2025, 08:00 AM_
-In a first, us strike in caribbean leaves survivors, us official says" }
-Uetvteaenet@{ shape: win-pane, label: "_Published Oct 21, 2025, 11:03 PM_
-Us covert actions ‘violate venezuela’s sovereignty’: un experts" }
-Uisepdvlef@{ shape: win-pane, label: "_Published Oct 23, 2025, 01:07 AM_
-Us military strikes suspected drug vessel in the pacific" }
-TsScersnsrn@{ shape: win-pane, label: "_Published Sep 20, 2025, 09:01 AM_
-Trump says us struck alleged drug vessel in latest operation" }
-Ustmrvllaeraasnt@{ shape: win-pane, label: "_Published Oct 20, 2025, 08:20 AM_
-Us says it hit colombian rebel vessel as colombia condemns trump’s accusations against petro" }
-Ciuaaaeirctt@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:33 AM_
-Canadians pull reagan tariff ad after furious trump scraps trade talks" }
-Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
-Trump says all trade talks with canada are terminated" }
-Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
-Trump talks up canada trade deal chances with ‘world-class’ carney" }
-Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
-Trump talks up canada trade deal chances with ‘world-class’ carney" }
-Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
-Trump says all trade talks with canada are terminated" }
-Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
-Trump talks up canada trade deal chances with ‘world-class’ carney" }
-Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
-Trump talks up canada trade deal chances with ‘world-class’ carney" }
+Bnmrpomuad@{ shape: win-pane, label: "_Published Oct 25, 2025, 10:55 AM_
+Bannon claims ‘there is a plan’ for trump to run for a third term" }
+Hnstnrshnumasc@{ shape: win-pane, label: "_Published Oct 19, 2025, 02:06 PM_
+‘he thinks he’s great, we don’t’: americans march against trump’s ‘imperial presidency’" }
+NgtrrmasrTre@{ shape: win-pane, label: "_Published Oct 19, 2025, 03:25 AM_
+‘no kings’ protesters emerge en masse across us for anti-trump rallies" }
+NglxerlssneaT@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:06 PM_
+‘no kings’ rallies expected to draw millions across us in protest against trump" }
+WCikoeUst@{ shape: win-pane, label: "_Published Sep 11, 2025, 06:17 AM_
+Who is charlie kirk, the young hero of us conservatives?" }
+TtttafryNgt@{ shape: win-pane, label: "_Published Jun 14, 2025, 03:40 PM_
+Trump to host military parade for birthday amid ‘no kings’ protests" }
+Melihfineeipe@{ shape: win-pane, label: "_Published Jun 14, 2025, 10:23 AM_
+Marines deployed in la ahead of possible ‘unprecedented’ anti-trump protests" }
+Mosthautvpsane@{ shape: win-pane, label: "_Published Jun 14, 2025, 10:16 AM_
+Mexico’s president says her flag should not fly over us protests that turn violent" }
+EiaaurheUst@{ shape: win-pane, label: "_Published Apr 01, 2025, 05:11 AM_
+Explainer: can donald trump serve a third term as us president?" }
+TsetnukheUst@{ shape: win-pane, label: "_Published Mar 31, 2025, 01:21 AM_
+Trump says he is ‘not joking’ about seeking third term as us president" }
+TabraAc@{ shape: win-pane, label: "_Published Mar 29, 2025, 08:00 PM_
+Trump assembles great wall of america" }
+Wuurwusiape@{ shape: win-pane, label: "_Published Mar 30, 2025, 08:06 PM_
+Why trump’s auto tariffs will hurt his working-class supporters" }
 
-WYresemhiO:::txtsize --> Uidycceuomasnswee:::txtsize
-Uidycceuomasnswee:::txtsize --> Tseaonencl:::txtsize
-Tseaonencl:::txtsize --> Irseravrrfas:::txtsize
-Tseaonencl:::txtsize --> Uetvteaenet:::txtsize
-Uidycceuomasnswee:::txtsize --> Uisepdvlef:::txtsize
-Uisepdvlef:::txtsize --> TsScersnsrn:::txtsize
-Uisepdvlef:::txtsize --> Ustmrvllaeraasnt:::txtsize
-WYresemhiO:::txtsize --> Ciuaaaeirctt:::txtsize
-Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
-Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
-Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
-Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
-Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
-Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
+Bnmrpomuad:::txtsize --> Hnstnrshnumasc:::txtsize
+Hnstnrshnumasc:::txtsize --> NgtrrmasrTre:::txtsize
+NgtrrmasrTre:::txtsize --> NglxerlssneaT:::txtsize
+NgtrrmasrTre:::txtsize --> WCikoeUst:::txtsize
+Hnstnrshnumasc:::txtsize --> TtttafryNgt:::txtsize
+TtttafryNgt:::txtsize --> Melihfineeipe:::txtsize
+TtttafryNgt:::txtsize --> Mosthautvpsane:::txtsize
+Bnmrpomuad:::txtsize --> EiaaurheUst:::txtsize
+EiaaurheUst:::txtsize --> TsetnukheUst:::txtsize
+TsetnukheUst:::txtsize --> TabraAc:::txtsize
+TsetnukheUst:::txtsize --> Wuurwusiape:::txtsize
 
-ThfiXkicii@{ shape: win-pane, label: "_Published Oct 25, 2025, 06:00 AM_
-Trump heads for asia and xi talks, as kim speculation swirls" }
-TttSKoatin@{ shape: win-pane, label: "_Published Oct 24, 2025, 04:56 AM_
-Trump to meet xi in south korea on oct 30 as part of asia swing" }
-TreUndweixco@{ shape: win-pane, label: "_Published Oct 11, 2025, 05:16 AM_
-Trump ratchets up us-china trade war with new 100% tariffs, export controls" }
-Wnrtffnrlt@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:00 PM_
-Why donald trump’s tariffs are failing to break global trade" }
-Chsdeerpcea@{ shape: win-pane, label: "_Published Oct 17, 2025, 05:00 AM_
-China hawks should temper hopes over trump’s muscle flexing at xi" }
-Xdompuheut@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:53 AM_
-Xi’s red line on trump’s export curbs threatens to upend truce" }
-Wrnidton@{ shape: win-pane, label: "_Published Oct 24, 2025, 12:00 PM_
-Will trump and xi simply defer the showdown?" }
+Uavyeulr@{ shape: win-pane, label: "_Published Oct 25, 2025, 08:30 AM_
+Us fda approves bayer’s menopause relief drug" }
+Mautccpesimwmps@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:15 AM_
+Menopause support: from clinics to apps to events, midlife women now have more options" }
 
-ThfiXkicii:::txtsize --> TttSKoatin:::txtsize
-TttSKoatin:::txtsize --> TreUndweixco:::txtsize
-TreUndweixco:::txtsize --> Wnrtffnrlt:::txtsize
-TttSKoatin:::txtsize --> Chsdeerpcea:::txtsize
-Chsdeerpcea:::txtsize --> Xdompuheut:::txtsize
-ThfiXkicii:::txtsize --> Wrnidton:::txtsize
+Uavyeulr:::txtsize --> Mautccpesimwmps:::txtsize
 
 ```
-<i>Last updated: 2025-10-25 08:01:09.810950 (GMT+8)</i>
+<i>Last updated: 2025-10-25 12:00:26.697235 (GMT+8)</i>
 <!-- END -->
