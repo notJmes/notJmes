@@ -16,126 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Yrssetvrpaasiu@{ shape: win-pane, label: "_Published Oct 26, 2025, 06:45 PM_
-Yemen rebels arrest three un staff over israel spying accusation: security source" }
-NosdnHieNesy@{ shape: win-pane, label: "_Published Oct 07, 2025, 10:32 AM_
-Nine more un staff detained by houthis in yemen, un spokesperson says" }
-YshynrlIli@{ shape: win-pane, label: "_Published Aug 30, 2025, 11:13 PM_
-Yemen’s houthis say pm, ministers killed in israeli strike" }
-Ilinniaiuee@{ shape: win-pane, label: "_Published Aug 25, 2025, 04:32 AM_
-Israeli strikes on yemeni capital sanaa kill 6, wound over 80 others" }
-Ilsnemlemn@{ shape: win-pane, label: "_Published Aug 27, 2025, 11:28 AM_
-Israel army says intercepted missile fired from yemen" }
-Ysheirednaria@{ shape: win-pane, label: "_Published Sep 01, 2025, 04:08 AM_
-Yemen’s houthi rebels raid un premises and detain at least 11 workers in sanaa" }
-YshynrlIli@{ shape: win-pane, label: "_Published Aug 30, 2025, 11:13 PM_
-Yemen’s houthis say pm, ministers killed in israeli strike" }
-Ilinniaiuee@{ shape: win-pane, label: "_Published Aug 25, 2025, 04:32 AM_
-Israeli strikes on yemeni capital sanaa kill 6, wound over 80 others" }
-Ysheirednaria@{ shape: win-pane, label: "_Published Sep 01, 2025, 04:08 AM_
-Yemen’s houthi rebels raid un premises and detain at least 11 workers in sanaa" }
-YshynrlIli@{ shape: win-pane, label: "_Published Aug 30, 2025, 11:13 PM_
-Yemen’s houthis say pm, ministers killed in israeli strike" }
-Ilinniaiuee@{ shape: win-pane, label: "_Published Aug 25, 2025, 04:32 AM_
-Israeli strikes on yemeni capital sanaa kill 6, wound over 80 others" }
-Ilsnemlemn@{ shape: win-pane, label: "_Published Aug 27, 2025, 11:28 AM_
-Israel army says intercepted missile fired from yemen" }
-Ilinniaiuee@{ shape: win-pane, label: "_Published Aug 25, 2025, 04:32 AM_
-Israeli strikes on yemeni capital sanaa kill 6, wound over 80 others" }
-IllronseWal@{ shape: win-pane, label: "_Published Aug 25, 2025, 12:35 AM_
-Israeli bulldozers uproot hundreds of trees in west bank village" }
-MsdeiGaA@{ shape: win-pane, label: "_Published Aug 24, 2025, 11:50 PM_
-Malaysia to donate $30.6 million to gaza, says pm anwar" }
+Kaiiiweoiriimn@{ shape: win-pane, label: "_Published Oct 26, 2025, 11:00 PM_
+Kamala harris, california’s newsom begin jockeying for 2028 presidential campaigns" }
+TocalEoaipvngs@{ shape: win-pane, label: "_Published Nov 07, 2024, 12:05 AM_
+Trump on track for a triple win: electoral landslide, popular vote and congress sweep" }
+TsbchioUdetne@{ shape: win-pane, label: "_Published Nov 06, 2024, 07:37 AM_
+Trump set to be elected 47th president of the united states in stunning comeback" }
+Hrtoessmemt@{ shape: win-pane, label: "_Published Nov 06, 2024, 03:17 PM_
+‘historic return’: world leaders praise trump as he claims victory" }
+PgfctteetiuT@{ shape: win-pane, label: "_Published Nov 06, 2024, 08:59 PM_
+Pm wong reaffirms commitment to strengthening ties with us under trump" }
+Tbesrebede@{ shape: win-pane, label: "_Published Jan 14, 2021, 03:26 AM_
+Trump becomes first us president to be impeached twice" }
+peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
+4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
+Rlrstinticmeaesi@{ shape: win-pane, label: "_Published Jan 14, 2021, 06:14 AM_
+Republican representative liz cheney votes to impeach trump, rejects party members' criticism" }
+IbhahrnrccidraHs@{ shape: win-pane, label: "_Published Jul 22, 2024, 01:59 AM_
+‘it has been the greatest honour’: biden ends re-election campaign and endorses kamala harris" }
+WaHscwbaUtfsi@{ shape: win-pane, label: "_Published Jul 21, 2024, 10:29 PM_
+With kamala harris, democrats would bet against us history of sexism, racism" }
+Seocesnned@{ shape: win-pane, label: "_Published Jul 18, 2024, 07:39 AM_
+Schumer, pelosi increase pressure on biden to step aside" }
+Btpirdemnc@{ shape: win-pane, label: "_Published Jul 18, 2024, 06:27 AM_
+Biden tests positive for covid-19, cancels campaign speech" }
 
-Yrssetvrpaasiu:::txtsize --> NosdnHieNesy:::txtsize
-NosdnHieNesy:::txtsize --> YshynrlIli:::txtsize
-YshynrlIli:::txtsize --> Ilinniaiuee:::txtsize
-YshynrlIli:::txtsize --> Ilsnemlemn:::txtsize
-NosdnHieNesy:::txtsize --> Ysheirednaria:::txtsize
-Ysheirednaria:::txtsize --> YshynrlIli:::txtsize
-Ysheirednaria:::txtsize --> Ilinniaiuee:::txtsize
-Yrssetvrpaasiu:::txtsize --> Ysheirednaria:::txtsize
-Ysheirednaria:::txtsize --> YshynrlIli:::txtsize
-YshynrlIli:::txtsize --> Ilinniaiuee:::txtsize
-YshynrlIli:::txtsize --> Ilsnemlemn:::txtsize
-Ysheirednaria:::txtsize --> Ilinniaiuee:::txtsize
-Ilinniaiuee:::txtsize --> IllronseWal:::txtsize
-Ilinniaiuee:::txtsize --> MsdeiGaA:::txtsize
+Kaiiiweoiriimn:::txtsize --> TocalEoaipvngs:::txtsize
+TocalEoaipvngs:::txtsize --> TsbchioUdetne:::txtsize
+TsbchioUdetne:::txtsize --> Hrtoessmemt:::txtsize
+TsbchioUdetne:::txtsize --> PgfctteetiuT:::txtsize
+TocalEoaipvngs:::txtsize --> Tbesrebede:::txtsize
+Tbesrebede:::txtsize --> peapubmalrest:::txtsize
+Tbesrebede:::txtsize --> Rlrstinticmeaesi:::txtsize
+Kaiiiweoiriimn:::txtsize --> IbhahrnrccidraHs:::txtsize
+IbhahrnrccidraHs:::txtsize --> WaHscwbaUtfsi:::txtsize
+WaHscwbaUtfsi:::txtsize --> Seocesnned:::txtsize
+WaHscwbaUtfsi:::txtsize --> Btpirdemnc:::txtsize
 
-Tssueardeona@{ shape: win-pane, label: "_Published Oct 26, 2025, 05:45 PM_
-Two suspects in louvre heist case arrested by french police near paris" }
-LefeVfeei@{ shape: win-pane, label: "_Published Oct 23, 2025, 12:47 AM_
-Louvre chief blames cctv gaps for $130m jewellery heist" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
-‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
-Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
-Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
-LesuFhnlib@{ shape: win-pane, label: "_Published Oct 22, 2025, 09:30 AM_
-Louvre tours featuring french crown jewels now in doubt" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-LesjsnrahRp@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:20 PM_
-Louvre transfers jewels to bank of france after heist, rtl reports" }
-PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
-Paris’ louvre museum robbery: what jewels did the thieves steal?" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-FeiDmaLet@{ shape: win-pane, label: "_Published Oct 24, 2025, 08:11 AM_
-France examining dna samples after louvre heist" }
-PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
-Paris’ louvre museum robbery: what jewels did the thieves steal?" }
-LefeVfeei@{ shape: win-pane, label: "_Published Oct 23, 2025, 12:47 AM_
-Louvre chief blames cctv gaps for $130m jewellery heist" }
+Tsruitaopci@{ shape: win-pane, label: "_Published Oct 26, 2025, 10:32 PM_
+Trump’s ballroom fundraising taps cash from crypto, tech allies" }
+Thdreyrhoao@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:50 PM_
+Trump hosts dinner for wealthy donors to white house ballroom" }
+Ybalolmousu@{ shape: win-pane, label: "_Published Sep 30, 2025, 07:26 AM_
+Youtube to pay $28 million to settle trump account suspension suit" }
+Hrrreizsoop@{ shape: win-pane, label: "_Published Sep 20, 2025, 09:20 AM_
+Harvard’s former president criticizes its approach to trump" }
+TttCosneetsd@{ shape: win-pane, label: "_Published Sep 04, 2025, 10:43 AM_
+Trump to host tech ceos for first event in newly renovated rose garden" }
+Eeoigraceme@{ shape: win-pane, label: "_Published Aug 26, 2025, 07:50 PM_
+Eu asserts ‘sovereign right’ to regulate tech after trump threat" }
+Tvxctfilea@{ shape: win-pane, label: "_Published Aug 26, 2025, 10:22 AM_
+Trump vows export curbs, tariffs in digital tax reprisal" }
+DibsrhoanTbo@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:35 AM_
+Demolition begins on part of white house east wing for trump ballroom" }
+Tstliahstrobd@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:45 PM_
+Trump seeks to build a triumphal arch in washington for nation’s 250th birthday" }
+Thdreyrhoao@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:50 PM_
+Trump hosts dinner for wealthy donors to white house ballroom" }
+Tbsliltaikr@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:32 AM_
+Trump brings the bling with gold-plated oval office makeover" }
+Tstliahstrobd@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:45 PM_
+Trump seeks to build a triumphal arch in washington for nation’s 250th birthday" }
+Thdreyrhoao@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:50 PM_
+Trump hosts dinner for wealthy donors to white house ballroom" }
+Tbsliltaikr@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:32 AM_
+Trump brings the bling with gold-plated oval office makeover" }
 
-Tssueardeona:::txtsize --> LefeVfeei:::txtsize
-LefeVfeei:::txtsize --> Ptineluiisey:::txtsize
-Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
-Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
-LefeVfeei:::txtsize --> LesuFhnlib:::txtsize
-LesuFhnlib:::txtsize --> Ptineluiisey:::txtsize
-Tssueardeona:::txtsize --> LesjsnrahRp:::txtsize
-LesjsnrahRp:::txtsize --> PLeubhwitea:::txtsize
-PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
-PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
-LesjsnrahRp:::txtsize --> FeiDmaLet:::txtsize
-FeiDmaLet:::txtsize --> PLeubhwitea:::txtsize
-FeiDmaLet:::txtsize --> LefeVfeei:::txtsize
+Tsruitaopci:::txtsize --> Thdreyrhoao:::txtsize
+Thdreyrhoao:::txtsize --> Ybalolmousu:::txtsize
+Ybalolmousu:::txtsize --> Hrrreizsoop:::txtsize
+Thdreyrhoao:::txtsize --> TttCosneetsd:::txtsize
+TttCosneetsd:::txtsize --> Eeoigraceme:::txtsize
+TttCosneetsd:::txtsize --> Tvxctfilea:::txtsize
+Tsruitaopci:::txtsize --> DibsrhoanTbo:::txtsize
+DibsrhoanTbo:::txtsize --> Tstliahstrobd:::txtsize
+Tstliahstrobd:::txtsize --> Thdreyrhoao:::txtsize
+Tstliahstrobd:::txtsize --> Tbsliltaikr:::txtsize
+DibsrhoanTbo:::txtsize --> Tstliahstrobd:::txtsize
+Tstliahstrobd:::txtsize --> Thdreyrhoao:::txtsize
+Tstliahstrobd:::txtsize --> Tbsliltaikr:::txtsize
 
-TsflarlGaus@{ shape: win-pane, label: "_Published Oct 26, 2025, 05:26 PM_
-Trump’s push for gulf to pay for rebuilding gaza faces hurdles" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
-Peace finally descends on the middle east: now the battle to make it last begins" }
-TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
-Tears, joy in israel as hamas hands over first hostages" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
-Singapore strongly condemns terror attacks on israel, calls for end to violence" }
+Bsarcetfgeostei@{ shape: win-pane, label: "_Published Oct 26, 2025, 09:30 PM_
+British royal andrew faces speculation of being forced out of mansion, stripped of titles" }
+Vnumroeieryin@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:12 PM_
+Virginia giuffre memoir goes on sale, heaping fresh scrutiny on prince andrew" }
+Biinastiifeal@{ shape: win-pane, label: "_Published Feb 16, 2022, 12:22 AM_
+Britain's prince andrew agrees to settle virginia giuffre sex assault claim" }
+BiingunluYteaas@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:26 AM_
+Britain’s prince andrew gives up using title of duke of york, still denies accusations" }
+Peeuaaaehatho@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:12 PM_
+Prince andrew accuser says he acted as if sex with her was ‘birthright’: memoir" }
+Peeuaaaehatho@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:12 PM_
+Prince andrew accuser says he acted as if sex with her was ‘birthright’: memoir" }
+Jetcriiebceiy@{ shape: win-pane, label: "_Published Apr 26, 2025, 12:15 PM_
+Jeffrey epstein accuser virginia giuffre dies by suicide, her family says" }
+Jetcriierctfulrh@{ shape: win-pane, label: "_Published Apr 02, 2025, 01:05 AM_
+Jeffrey epstein accuser virginia giuffre in serious condition after australia car crash" }
+PeeuJetcraeuu@{ shape: win-pane, label: "_Published Aug 10, 2021, 07:01 AM_
+Prince andrew is sued by jeffrey epstein accuser over alleged sexual abuse" }
+FrlEphrsssch@{ shape: win-pane, label: "_Published Mar 13, 2025, 02:31 AM_
+Former barclays ceo slept with jeffrey epstein’s assistant, court hears" }
+Jgeoksededsc@{ shape: win-pane, label: "_Published Mar 09, 2023, 08:29 AM_
+Jpmorgan sues ex-top banker jes staley for damages tied to epstein case" }
 
-TsflarlGaus:::txtsize --> Tdrcaaededlncbs:::txtsize
-Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
-PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
-TsflarlGaus:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-WzptIleint:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
-Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
+Bsarcetfgeostei:::txtsize --> Vnumroeieryin:::txtsize
+Vnumroeieryin:::txtsize --> Biinastiifeal:::txtsize
+Vnumroeieryin:::txtsize --> BiingunluYteaas:::txtsize
+BiingunluYteaas:::txtsize --> Peeuaaaehatho:::txtsize
+BiingunluYteaas:::txtsize --> Peeuaaaehatho:::txtsize
+Bsarcetfgeostei:::txtsize --> Jetcriiebceiy:::txtsize
+Jetcriiebceiy:::txtsize --> Jetcriierctfulrh:::txtsize
+Jetcriierctfulrh:::txtsize --> PeeuJetcraeuu:::txtsize
+Jetcriiebceiy:::txtsize --> FrlEphrsssch:::txtsize
+FrlEphrsssch:::txtsize --> Jgeoksededsc:::txtsize
 
 ```
-<i>Last updated: 2025-10-26 20:00:49.135273 (GMT+8)</i>
+<i>Last updated: 2025-10-27 00:01:12.897735 (GMT+8)</i>
 <!-- END -->
