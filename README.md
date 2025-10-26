@@ -16,144 +16,99 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-WYresemhiO@{ shape: win-pane, label: "_Published Oct 26, 2025, 05:33 AM_
-While you were sleeping: 5 stories you might have missed, oct 26, 2025" }
-TmQlras@{ shape: win-pane, label: "_Published Oct 25, 2025, 10:48 PM_
-Trump meets qatar leaders on way to asia" }
-Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
-What does trump’s gaza peace plan promise?" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Ucisrltota@{ shape: win-pane, label: "_Published Oct 25, 2025, 09:30 PM_
-Us’ marco rubio vows return of all hostage bodies to israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
-Peace finally descends on the middle east: now the battle to make it last begins" }
-Ilistuttrnrz@{ shape: win-pane, label: "_Published Oct 26, 2025, 02:35 AM_
-Israeli military says it conducted ‘targeted strike’ in central gaza" }
-Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
-What does trump’s gaza peace plan promise?" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
+CsfsLirRacs@{ shape: win-pane, label: "_Published Oct 26, 2025, 11:48 AM_
+China’s pacific gas owns lng ship skirting russian sanctions" }
+DhpnrecesGaieeew@{ shape: win-pane, label: "_Published Oct 19, 2025, 03:33 PM_
+Dark ship appearing to transfer sanctioned russia lng off malaysia, satellite images show" }
+Ucsassswt@{ shape: win-pane, label: "_Published Jul 21, 2025, 11:52 PM_
+Uk sanctions 135 oil tankers in russia’s shadow fleet" }
+Skleokusnde@{ shape: win-pane, label: "_Published Dec 17, 2024, 03:10 AM_
+Stricken oil tankers show risks of russia’s ageing ‘shadow fleet’" }
+Bildiar@{ shape: win-pane, label: "_Published Jul 21, 2025, 10:45 PM_
+Britain calls for 50-day drive to arm ukraine" }
 
-WYresemhiO:::txtsize --> TmQlras:::txtsize
-TmQlras:::txtsize --> Wouaaam:::txtsize
-Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
-Wouaaam:::txtsize --> NyeeawHakl:::txtsize
-TmQlras:::txtsize --> Ucisrltota:::txtsize
-Ucisrltota:::txtsize --> NyeeawHakl:::txtsize
-Ucisrltota:::txtsize --> PflcoMeNelale:::txtsize
-WYresemhiO:::txtsize --> Ilistuttrnrz:::txtsize
-Ilistuttrnrz:::txtsize --> Wouaaam:::txtsize
-Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
-Wouaaam:::txtsize --> NyeeawHakl:::txtsize
-Ilistuttrnrz:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+CsfsLirRacs:::txtsize --> DhpnrecesGaieeew:::txtsize
+DhpnrecesGaieeew:::txtsize --> Ucsassswt:::txtsize
+Ucsassswt:::txtsize --> Skleokusnde:::txtsize
+Ucsassswt:::txtsize --> Bildiar:::txtsize
 
-TiaasnyRn@{ shape: win-pane, label: "_Published Oct 26, 2025, 05:04 AM_
-Trump increases tariffs on canada by 10% over reagan ad" }
-Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
-Trump says all trade talks with canada are terminated" }
-Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
-Trump talks up canada trade deal chances with ‘world-class’ carney" }
-CasunSourist@{ shape: win-pane, label: "_Published Apr 29, 2025, 03:22 AM_
-Canada votes as trump renews us takeover push for ‘cherished 51st state’" }
-TtotfermsN@{ shape: win-pane, label: "_Published Oct 07, 2025, 03:17 AM_
-Trump to impose 25% us tariffs on heavy truck imports from nov 1" }
-Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
-Trump talks up canada trade deal chances with ‘world-class’ carney" }
-CasunSourist@{ shape: win-pane, label: "_Published Apr 29, 2025, 03:22 AM_
-Canada votes as trump renews us takeover push for ‘cherished 51st state’" }
-TtotfermsN@{ shape: win-pane, label: "_Published Oct 07, 2025, 03:17 AM_
-Trump to impose 25% us tariffs on heavy truck imports from nov 1" }
-Ciuaaaeirctt@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:33 AM_
-Canadians pull reagan tariff ad after furious trump scraps trade talks" }
-Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
-Trump says all trade talks with canada are terminated" }
-Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
-Trump talks up canada trade deal chances with ‘world-class’ carney" }
-Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
-Trump talks up canada trade deal chances with ‘world-class’ carney" }
-Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
-Trump says all trade talks with canada are terminated" }
-Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
-Trump talks up canada trade deal chances with ‘world-class’ carney" }
-Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
-Trump talks up canada trade deal chances with ‘world-class’ carney" }
+VuopccfSnctas@{ shape: win-pane, label: "_Published Oct 26, 2025, 10:50 AM_
+Venezuela vows to protect its coast from us potential ‘covert operations’" }
+Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
+Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
+Tseaonencl@{ shape: win-pane, label: "_Published Oct 24, 2025, 05:55 AM_
+Trump says declaration of war not needed on drug cartels" }
+Irseravrrfas@{ shape: win-pane, label: "_Published Oct 17, 2025, 08:00 AM_
+In a first, us strike in caribbean leaves survivors, us official says" }
+Uetvteaenet@{ shape: win-pane, label: "_Published Oct 21, 2025, 11:03 PM_
+Us covert actions ‘violate venezuela’s sovereignty’: un experts" }
+Uisepdvlef@{ shape: win-pane, label: "_Published Oct 23, 2025, 01:07 AM_
+Us military strikes suspected drug vessel in the pacific" }
+TsScersnsrn@{ shape: win-pane, label: "_Published Sep 20, 2025, 09:01 AM_
+Trump says us struck alleged drug vessel in latest operation" }
+Ustmrvllaeraasnt@{ shape: win-pane, label: "_Published Oct 20, 2025, 08:20 AM_
+Us says it hit colombian rebel vessel as colombia condemns trump’s accusations against petro" }
+TcrAotnzrnsou@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:05 AM_
+Trump confirms cia authorisation in venezuela, raising pressure on maduro" }
+Thtniahclgt@{ shape: win-pane, label: "_Published Oct 03, 2025, 05:25 AM_
+Trump has determined us is at war with drug cartels, congress told" }
+CbretcUiittlfiv@{ shape: win-pane, label: "_Published Sep 28, 2025, 09:18 AM_
+Colombian president petro accuses us of violating international law after visa revoked" }
+Aoienempsiroins@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:00 AM_
+At un, colombian president urges ‘criminal process’ against trump for strikes on boats" }
+UuCiboontnls@{ shape: win-pane, label: "_Published Oct 11, 2025, 07:58 AM_
+Un security council members voice concern about us-venezuela tensions" }
 
-TiaasnyRn:::txtsize --> Tsldkhdtn:::txtsize
-Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
-Ttuaaanirar:::txtsize --> CasunSourist:::txtsize
-Ttuaaanirar:::txtsize --> TtotfermsN:::txtsize
-Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
-Ttuaaanirar:::txtsize --> CasunSourist:::txtsize
-Ttuaaanirar:::txtsize --> TtotfermsN:::txtsize
-TiaasnyRn:::txtsize --> Ciuaaaeirctt:::txtsize
-Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
-Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
-Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
-Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
-Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
-Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
+VuopccfSnctas:::txtsize --> Uidycceuomasnswee:::txtsize
+Uidycceuomasnswee:::txtsize --> Tseaonencl:::txtsize
+Tseaonencl:::txtsize --> Irseravrrfas:::txtsize
+Tseaonencl:::txtsize --> Uetvteaenet:::txtsize
+Uidycceuomasnswee:::txtsize --> Uisepdvlef:::txtsize
+Uisepdvlef:::txtsize --> TsScersnsrn:::txtsize
+Uisepdvlef:::txtsize --> Ustmrvllaeraasnt:::txtsize
+VuopccfSnctas:::txtsize --> TcrAotnzrnsou:::txtsize
+TcrAotnzrnsou:::txtsize --> Thtniahclgt:::txtsize
+Thtniahclgt:::txtsize --> CbretcUiittlfiv:::txtsize
+Thtniahclgt:::txtsize --> Aoienempsiroins:::txtsize
+TcrAotnzrnsou:::txtsize --> UuCiboontnls:::txtsize
 
-Laghisolbrbohs@{ shape: win-pane, label: "_Published Oct 26, 2025, 03:35 AM_
-Lithuania again shuts vilnius airport, belarus border over balloon sightings" }
-LahitBudogelin@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:50 AM_
-Lithuania shuts airports and belarus border crossings after balloon sightings" }
-Slanctonit@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:20 PM_
-Smugglers’ balloons force shutdown of vilnius airport" }
-LaVupesroausii@{ shape: win-pane, label: "_Published Oct 05, 2025, 02:01 PM_
-Lithuania’s vilnius airport reopens after balloons cause suspension, diversions" }
-Bsovwotdsglp@{ shape: win-pane, label: "_Published Oct 20, 2025, 07:36 AM_
-British troops given powers to shoot down drones on sight: telegraph" }
-NeLaaoitendic@{ shape: win-pane, label: "_Published Oct 24, 2025, 01:56 AM_
-Nato member lithuania says two russian jets briefly entered its airspace" }
-Rasrnicatoo@{ shape: win-pane, label: "_Published Sep 19, 2025, 11:15 PM_
-Russian jets enter estonia’s airspace in latest test for nato" }
-PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
-Poland shoots down drones, the first nato member to open fire during ukraine war" }
-Ryeyircdnret@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:35 AM_
-Runways at germany’s munich airport closed again after drone sightings" }
-Gneafrinuiroi@{ shape: win-pane, label: "_Published Oct 03, 2025, 09:15 AM_
-Germany investigates after drone sightings shut munich airport overnight" }
-Edouolekaaaoo@{ shape: win-pane, label: "_Published Oct 01, 2025, 02:34 PM_
-Eu leaders to discuss ‘drone wall’ in denmark, days after airspace violations" }
-Oetfoyttlia@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:14 PM_
-Oktoberfest briefly closed by bomb threat, deadly family drama" }
-Gneafrinuiroi@{ shape: win-pane, label: "_Published Oct 03, 2025, 09:15 AM_
-Germany investigates after drone sightings shut munich airport overnight" }
-Edouolekaaaoo@{ shape: win-pane, label: "_Published Oct 01, 2025, 02:34 PM_
-Eu leaders to discuss ‘drone wall’ in denmark, days after airspace violations" }
-Oetfoyttlia@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:14 PM_
-Oktoberfest briefly closed by bomb threat, deadly family drama" }
+TnstitKioi@{ shape: win-pane, label: "_Published Oct 26, 2025, 10:05 AM_
+Trump not ‘wasting time’ with putin as kremlin envoy visits us" }
+Psonrsfltlasi@{ shape: win-pane, label: "_Published Oct 25, 2025, 12:40 AM_
+Putin’s economic envoy arrives in us for talks, after oil companies sanctioned" }
+Ucsilrrionitncr@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:27 PM_
+Us sanctions russian oil majors over ukraine, prompting india jitters and moscow fury" }
+UpmucssorirPwht@{ shape: win-pane, label: "_Published Oct 23, 2025, 05:33 AM_
+Us slaps ‘tremendous sanctions’ on russian oil for ukraine war, says putin wasn’t ‘honest’" }
+Tsemunpogrnil@{ shape: win-pane, label: "_Published May 19, 2025, 10:54 PM_
+Trump says he will meet putin in budapest, touting progress in ukraine talks" }
+Ucsilrrionitncr@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:27 PM_
+Us sanctions russian oil majors over ukraine, prompting india jitters and moscow fury" }
+UpmucssorirPwht@{ shape: win-pane, label: "_Published Oct 23, 2025, 05:33 AM_
+Us slaps ‘tremendous sanctions’ on russian oil for ukraine war, says putin wasn’t ‘honest’" }
+ErtkftassewUn@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:10 AM_
+Eu approves 19th package of sanctions against russia over its war in ukraine" }
+PTtiaodrieei@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
+Putin-trump talks in budapest on hold after russia rejects ceasefire" }
+Tsemunpogrnil@{ shape: win-pane, label: "_Published May 19, 2025, 10:54 PM_
+Trump says he will meet putin in budapest, touting progress in ukraine talks" }
+TPdtsUncamre@{ shape: win-pane, label: "_Published Aug 16, 2025, 03:43 AM_
+Trump-putin direct talks over ukraine conclude as summit stretches on" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
 
-Laghisolbrbohs:::txtsize --> LahitBudogelin:::txtsize
-LahitBudogelin:::txtsize --> Slanctonit:::txtsize
-Slanctonit:::txtsize --> LaVupesroausii:::txtsize
-Slanctonit:::txtsize --> Bsovwotdsglp:::txtsize
-LahitBudogelin:::txtsize --> NeLaaoitendic:::txtsize
-NeLaaoitendic:::txtsize --> Rasrnicatoo:::txtsize
-NeLaaoitendic:::txtsize --> PdtnefNetndgir:::txtsize
-Laghisolbrbohs:::txtsize --> Ryeyircdnret:::txtsize
-Ryeyircdnret:::txtsize --> Gneafrinuiroi:::txtsize
-Gneafrinuiroi:::txtsize --> Edouolekaaaoo:::txtsize
-Gneafrinuiroi:::txtsize --> Oetfoyttlia:::txtsize
-Ryeyircdnret:::txtsize --> Gneafrinuiroi:::txtsize
-Gneafrinuiroi:::txtsize --> Edouolekaaaoo:::txtsize
-Gneafrinuiroi:::txtsize --> Oetfoyttlia:::txtsize
+TnstitKioi:::txtsize --> Psonrsfltlasi:::txtsize
+Psonrsfltlasi:::txtsize --> Ucsilrrionitncr:::txtsize
+Ucsilrrionitncr:::txtsize --> UpmucssorirPwht:::txtsize
+Ucsilrrionitncr:::txtsize --> Tsemunpogrnil:::txtsize
+TnstitKioi:::txtsize --> Ucsilrrionitncr:::txtsize
+Ucsilrrionitncr:::txtsize --> UpmucssorirPwht:::txtsize
+UpmucssorirPwht:::txtsize --> ErtkftassewUn:::txtsize
+UpmucssorirPwht:::txtsize --> PTtiaodrieei:::txtsize
+Ucsilrrionitncr:::txtsize --> Tsemunpogrnil:::txtsize
+Tsemunpogrnil:::txtsize --> TPdtsUncamre:::txtsize
+Tsemunpogrnil:::txtsize --> Tdrcaaededlncbs:::txtsize
 
 ```
-<i>Last updated: 2025-10-26 08:00:57.423664 (GMT+8)</i>
+<i>Last updated: 2025-10-26 12:00:16.639040 (GMT+8)</i>
 <!-- END -->
