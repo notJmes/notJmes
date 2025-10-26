@@ -16,8 +16,100 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-LaghisoelsBuic@{ shape: win-pane, label: "_Published Oct 26, 2025, 03:35 AM_
-Lithuania again shuts vilnius airport due to balloons from belarus in airspace" }
+WYresemhiO@{ shape: win-pane, label: "_Published Oct 26, 2025, 05:33 AM_
+While you were sleeping: 5 stories you might have missed, oct 26, 2025" }
+TmQlras@{ shape: win-pane, label: "_Published Oct 25, 2025, 10:48 PM_
+Trump meets qatar leaders on way to asia" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Ucisrltota@{ shape: win-pane, label: "_Published Oct 25, 2025, 09:30 PM_
+Us’ marco rubio vows return of all hostage bodies to israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
+Ilistuttrnrz@{ shape: win-pane, label: "_Published Oct 26, 2025, 02:35 AM_
+Israeli military says it conducted ‘targeted strike’ in central gaza" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+
+WYresemhiO:::txtsize --> TmQlras:::txtsize
+TmQlras:::txtsize --> Wouaaam:::txtsize
+Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
+Wouaaam:::txtsize --> NyeeawHakl:::txtsize
+TmQlras:::txtsize --> Ucisrltota:::txtsize
+Ucisrltota:::txtsize --> NyeeawHakl:::txtsize
+Ucisrltota:::txtsize --> PflcoMeNelale:::txtsize
+WYresemhiO:::txtsize --> Ilistuttrnrz:::txtsize
+Ilistuttrnrz:::txtsize --> Wouaaam:::txtsize
+Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
+Wouaaam:::txtsize --> NyeeawHakl:::txtsize
+Ilistuttrnrz:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+
+TiaasnyRn@{ shape: win-pane, label: "_Published Oct 26, 2025, 05:04 AM_
+Trump increases tariffs on canada by 10% over reagan ad" }
+Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
+Trump says all trade talks with canada are terminated" }
+Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
+Trump talks up canada trade deal chances with ‘world-class’ carney" }
+CasunSourist@{ shape: win-pane, label: "_Published Apr 29, 2025, 03:22 AM_
+Canada votes as trump renews us takeover push for ‘cherished 51st state’" }
+TtotfermsN@{ shape: win-pane, label: "_Published Oct 07, 2025, 03:17 AM_
+Trump to impose 25% us tariffs on heavy truck imports from nov 1" }
+Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
+Trump talks up canada trade deal chances with ‘world-class’ carney" }
+CasunSourist@{ shape: win-pane, label: "_Published Apr 29, 2025, 03:22 AM_
+Canada votes as trump renews us takeover push for ‘cherished 51st state’" }
+TtotfermsN@{ shape: win-pane, label: "_Published Oct 07, 2025, 03:17 AM_
+Trump to impose 25% us tariffs on heavy truck imports from nov 1" }
+Ciuaaaeirctt@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:33 AM_
+Canadians pull reagan tariff ad after furious trump scraps trade talks" }
+Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
+Trump says all trade talks with canada are terminated" }
+Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
+Trump talks up canada trade deal chances with ‘world-class’ carney" }
+Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
+Trump talks up canada trade deal chances with ‘world-class’ carney" }
+Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
+Trump says all trade talks with canada are terminated" }
+Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
+Trump talks up canada trade deal chances with ‘world-class’ carney" }
+Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
+Trump talks up canada trade deal chances with ‘world-class’ carney" }
+
+TiaasnyRn:::txtsize --> Tsldkhdtn:::txtsize
+Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
+Ttuaaanirar:::txtsize --> CasunSourist:::txtsize
+Ttuaaanirar:::txtsize --> TtotfermsN:::txtsize
+Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
+Ttuaaanirar:::txtsize --> CasunSourist:::txtsize
+Ttuaaanirar:::txtsize --> TtotfermsN:::txtsize
+TiaasnyRn:::txtsize --> Ciuaaaeirctt:::txtsize
+Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
+Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
+Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
+Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
+Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
+Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
+
+Laghisolbrbohs@{ shape: win-pane, label: "_Published Oct 26, 2025, 03:35 AM_
+Lithuania again shuts vilnius airport, belarus border over balloon sightings" }
 LahitBudogelin@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:50 AM_
 Lithuania shuts airports and belarus border crossings after balloon sightings" }
 Slanctonit@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:20 PM_
@@ -47,101 +139,21 @@ Eu leaders to discuss ‘drone wall’ in denmark, days after airspace violation
 Oetfoyttlia@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:14 PM_
 Oktoberfest briefly closed by bomb threat, deadly family drama" }
 
-LaghisoelsBuic:::txtsize --> LahitBudogelin:::txtsize
+Laghisolbrbohs:::txtsize --> LahitBudogelin:::txtsize
 LahitBudogelin:::txtsize --> Slanctonit:::txtsize
 Slanctonit:::txtsize --> LaVupesroausii:::txtsize
 Slanctonit:::txtsize --> Bsovwotdsglp:::txtsize
 LahitBudogelin:::txtsize --> NeLaaoitendic:::txtsize
 NeLaaoitendic:::txtsize --> Rasrnicatoo:::txtsize
 NeLaaoitendic:::txtsize --> PdtnefNetndgir:::txtsize
-LaghisoelsBuic:::txtsize --> Ryeyircdnret:::txtsize
+Laghisolbrbohs:::txtsize --> Ryeyircdnret:::txtsize
 Ryeyircdnret:::txtsize --> Gneafrinuiroi:::txtsize
 Gneafrinuiroi:::txtsize --> Edouolekaaaoo:::txtsize
 Gneafrinuiroi:::txtsize --> Oetfoyttlia:::txtsize
 Ryeyircdnret:::txtsize --> Gneafrinuiroi:::txtsize
 Gneafrinuiroi:::txtsize --> Edouolekaaaoo:::txtsize
 Gneafrinuiroi:::txtsize --> Oetfoyttlia:::txtsize
-
-Tfspsnrodao@{ shape: win-pane, label: "_Published Oct 26, 2025, 03:17 AM_
-Tens of thousands protest on anniversary of deadly spain floods" }
-Ssoleranie@{ shape: win-pane, label: "_Published Oct 31, 2024, 01:40 AM_
-Spanish floods kill 95 as year of rain falls in a day in valencia" }
-Sslfsckttl@{ shape: win-pane, label: "_Published Oct 30, 2024, 08:50 AM_
-Spain’s deadliest floods in decades kill at least 64 people" }
-Ctnirdahhr@{ shape: win-pane, label: "_Published Oct 30, 2024, 08:29 AM_
-Climate change driving ‘record threats to health’: report" }
-TnewSTog@{ shape: win-pane, label: "_Published Oct 30, 2024, 08:10 AM_
-Taiwan battens down for super typhoon kong-rey" }
-Oaioefsdeu@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:55 AM_
-One year on, victim of valencia floods found buried in mud" }
-Ssoleranie@{ shape: win-pane, label: "_Published Oct 31, 2024, 01:40 AM_
-Spanish floods kill 95 as year of rain falls in a day in valencia" }
-Sslfsckttl@{ shape: win-pane, label: "_Published Oct 30, 2024, 08:50 AM_
-Spain’s deadliest floods in decades kill at least 64 people" }
-Ssrsotnrseprsc@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:18 AM_
-Spain suffers fresh floods as torrential rains strike, trapping drivers amid ‘chaos’" }
-Ericrerys@{ shape: win-pane, label: "_Published Oct 09, 2025, 08:25 PM_
-Eastern spain placed on red alert for heavy rains" }
-Sdrswntwfktosi@{ shape: win-pane, label: "_Published Nov 14, 2024, 08:55 PM_
-Spain downgrades storm warnings after towns left soaked but without casualties" }
-
-Tfspsnrodao:::txtsize --> Ssoleranie:::txtsize
-Ssoleranie:::txtsize --> Sslfsckttl:::txtsize
-Sslfsckttl:::txtsize --> Ctnirdahhr:::txtsize
-Sslfsckttl:::txtsize --> TnewSTog:::txtsize
-Tfspsnrodao:::txtsize --> Oaioefsdeu:::txtsize
-Oaioefsdeu:::txtsize --> Ssoleranie:::txtsize
-Ssoleranie:::txtsize --> Sslfsckttl:::txtsize
-Oaioefsdeu:::txtsize --> Ssrsotnrseprsc:::txtsize
-Ssrsotnrseprsc:::txtsize --> Ericrerys:::txtsize
-Ssrsotnrseprsc:::txtsize --> Sdrswntwfktosi:::txtsize
-
-Ilistuttrnrz@{ shape: win-pane, label: "_Published Oct 26, 2025, 02:35 AM_
-Israeli military says it conducted ‘targeted strike’ in central gaza" }
-Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
-What does trump’s gaza peace plan promise?" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-
-Ilistuttrnrz:::txtsize --> Wouaaam:::txtsize
-Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-Wouaaam:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Ilistuttrnrz:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
 
 ```
-<i>Last updated: 2025-10-26 04:00:41.959582 (GMT+8)</i>
+<i>Last updated: 2025-10-26 08:00:57.423664 (GMT+8)</i>
 <!-- END -->
