@@ -16,96 +16,126 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Unkrgerprwavy@{ shape: win-pane, label: "_Published Oct 26, 2025, 12:55 PM_
-Us-china talks nearing agreement for trump, xi to review, us trade envoy says" }
-WssutreTsoa@{ shape: win-pane, label: "_Published Oct 26, 2025, 09:00 AM_
-What is the asean summit, the first event on trump’s tour of asia?" }
-TLsnepfiuto@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:35 PM_
-Timor-leste’s asean membership a win for asia’s youngest nation" }
-Topoaeu@{ shape: win-pane, label: "_Published Feb 16, 2025, 02:25 PM_
-The growing pains of asia’s newest country" }
-TLtoehecradst@{ shape: win-pane, label: "_Published Sep 23, 2025, 06:40 PM_
-Timor-leste to become asean’s 11th member in october, formalised at kl summit" }
-Suainescldvdiucr@{ shape: win-pane, label: "_Published Oct 17, 2025, 10:00 PM_
-Scam hub in cambodia found deserted, suspects believed to have fled to neighbouring countries" }
-CdoysglrorGldor@{ shape: win-pane, label: "_Published Oct 17, 2025, 10:04 AM_
-Cambodian company accused in global scam ring: how is prince group linked to s’pore firms?" }
-Peeerijefakmao@{ shape: win-pane, label: "_Published Oct 08, 2025, 12:15 PM_
-Police probe s’pore firm recruiting job seekers for scam-linked cambodian resort" }
-TreUndweixco@{ shape: win-pane, label: "_Published Oct 11, 2025, 05:16 AM_
-Trump ratchets up us-china trade war with new 100% tariffs, export controls" }
-Wnrtffnrlt@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:00 PM_
-Why donald trump’s tariffs are failing to break global trade" }
-IiatrlTtftmbeia@{ shape: win-pane, label: "_Published Apr 05, 2025, 08:40 PM_
-‘it’s going to affect us very badly’: new trump tariffs cast gloom over businesses in asia" }
+Yrssetvrpaasiu@{ shape: win-pane, label: "_Published Oct 26, 2025, 06:45 PM_
+Yemen rebels arrest three un staff over israel spying accusation: security source" }
+NosdnHieNesy@{ shape: win-pane, label: "_Published Oct 07, 2025, 10:32 AM_
+Nine more un staff detained by houthis in yemen, un spokesperson says" }
+YshynrlIli@{ shape: win-pane, label: "_Published Aug 30, 2025, 11:13 PM_
+Yemen’s houthis say pm, ministers killed in israeli strike" }
+Ilinniaiuee@{ shape: win-pane, label: "_Published Aug 25, 2025, 04:32 AM_
+Israeli strikes on yemeni capital sanaa kill 6, wound over 80 others" }
+Ilsnemlemn@{ shape: win-pane, label: "_Published Aug 27, 2025, 11:28 AM_
+Israel army says intercepted missile fired from yemen" }
+Ysheirednaria@{ shape: win-pane, label: "_Published Sep 01, 2025, 04:08 AM_
+Yemen’s houthi rebels raid un premises and detain at least 11 workers in sanaa" }
+YshynrlIli@{ shape: win-pane, label: "_Published Aug 30, 2025, 11:13 PM_
+Yemen’s houthis say pm, ministers killed in israeli strike" }
+Ilinniaiuee@{ shape: win-pane, label: "_Published Aug 25, 2025, 04:32 AM_
+Israeli strikes on yemeni capital sanaa kill 6, wound over 80 others" }
+Ysheirednaria@{ shape: win-pane, label: "_Published Sep 01, 2025, 04:08 AM_
+Yemen’s houthi rebels raid un premises and detain at least 11 workers in sanaa" }
+YshynrlIli@{ shape: win-pane, label: "_Published Aug 30, 2025, 11:13 PM_
+Yemen’s houthis say pm, ministers killed in israeli strike" }
+Ilinniaiuee@{ shape: win-pane, label: "_Published Aug 25, 2025, 04:32 AM_
+Israeli strikes on yemeni capital sanaa kill 6, wound over 80 others" }
+Ilsnemlemn@{ shape: win-pane, label: "_Published Aug 27, 2025, 11:28 AM_
+Israel army says intercepted missile fired from yemen" }
+Ilinniaiuee@{ shape: win-pane, label: "_Published Aug 25, 2025, 04:32 AM_
+Israeli strikes on yemeni capital sanaa kill 6, wound over 80 others" }
+IllronseWal@{ shape: win-pane, label: "_Published Aug 25, 2025, 12:35 AM_
+Israeli bulldozers uproot hundreds of trees in west bank village" }
+MsdeiGaA@{ shape: win-pane, label: "_Published Aug 24, 2025, 11:50 PM_
+Malaysia to donate $30.6 million to gaza, says pm anwar" }
 
-Unkrgerprwavy:::txtsize --> WssutreTsoa:::txtsize
-WssutreTsoa:::txtsize --> TLsnepfiuto:::txtsize
-TLsnepfiuto:::txtsize --> Topoaeu:::txtsize
-TLsnepfiuto:::txtsize --> TLtoehecradst:::txtsize
-WssutreTsoa:::txtsize --> Suainescldvdiucr:::txtsize
-Suainescldvdiucr:::txtsize --> CdoysglrorGldor:::txtsize
-Suainescldvdiucr:::txtsize --> Peeerijefakmao:::txtsize
-Unkrgerprwavy:::txtsize --> TreUndweixco:::txtsize
-TreUndweixco:::txtsize --> Wnrtffnrlt:::txtsize
-Wnrtffnrlt:::txtsize --> IiatrlTtftmbeia:::txtsize
+Yrssetvrpaasiu:::txtsize --> NosdnHieNesy:::txtsize
+NosdnHieNesy:::txtsize --> YshynrlIli:::txtsize
+YshynrlIli:::txtsize --> Ilinniaiuee:::txtsize
+YshynrlIli:::txtsize --> Ilsnemlemn:::txtsize
+NosdnHieNesy:::txtsize --> Ysheirednaria:::txtsize
+Ysheirednaria:::txtsize --> YshynrlIli:::txtsize
+Ysheirednaria:::txtsize --> Ilinniaiuee:::txtsize
+Yrssetvrpaasiu:::txtsize --> Ysheirednaria:::txtsize
+Ysheirednaria:::txtsize --> YshynrlIli:::txtsize
+YshynrlIli:::txtsize --> Ilinniaiuee:::txtsize
+YshynrlIli:::txtsize --> Ilsnemlemn:::txtsize
+Ysheirednaria:::txtsize --> Ilinniaiuee:::txtsize
+Ilinniaiuee:::txtsize --> IllronseWal:::txtsize
+Ilinniaiuee:::txtsize --> MsdeiGaA:::txtsize
 
-CfwGedgnlsiRapc@{ shape: win-pane, label: "_Published Oct 26, 2025, 11:48 AM_
-China firm owns lng tanker said to be getting fuel from sanctioned russian ship: sources" }
-DhpnrecesGaieeew@{ shape: win-pane, label: "_Published Oct 19, 2025, 03:33 PM_
-Dark ship appearing to transfer sanctioned russia lng off malaysia, satellite images show" }
-Ucsassswt@{ shape: win-pane, label: "_Published Jul 21, 2025, 11:52 PM_
-Uk sanctions 135 oil tankers in russia’s shadow fleet" }
-Skleokusnde@{ shape: win-pane, label: "_Published Dec 17, 2024, 03:10 AM_
-Stricken oil tankers show risks of russia’s ageing ‘shadow fleet’" }
-Bildiar@{ shape: win-pane, label: "_Published Jul 21, 2025, 10:45 PM_
-Britain calls for 50-day drive to arm ukraine" }
+Tssueardeona@{ shape: win-pane, label: "_Published Oct 26, 2025, 05:45 PM_
+Two suspects in louvre heist case arrested by french police near paris" }
+LefeVfeei@{ shape: win-pane, label: "_Published Oct 23, 2025, 12:47 AM_
+Louvre chief blames cctv gaps for $130m jewellery heist" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
+‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
+Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
+Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
+LesuFhnlib@{ shape: win-pane, label: "_Published Oct 22, 2025, 09:30 AM_
+Louvre tours featuring french crown jewels now in doubt" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+LesjsnrahRp@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:20 PM_
+Louvre transfers jewels to bank of france after heist, rtl reports" }
+PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
+Paris’ louvre museum robbery: what jewels did the thieves steal?" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+FeiDmaLet@{ shape: win-pane, label: "_Published Oct 24, 2025, 08:11 AM_
+France examining dna samples after louvre heist" }
+PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
+Paris’ louvre museum robbery: what jewels did the thieves steal?" }
+LefeVfeei@{ shape: win-pane, label: "_Published Oct 23, 2025, 12:47 AM_
+Louvre chief blames cctv gaps for $130m jewellery heist" }
 
-CfwGedgnlsiRapc:::txtsize --> DhpnrecesGaieeew:::txtsize
-DhpnrecesGaieeew:::txtsize --> Ucsassswt:::txtsize
-Ucsassswt:::txtsize --> Skleokusnde:::txtsize
-Ucsassswt:::txtsize --> Bildiar:::txtsize
+Tssueardeona:::txtsize --> LefeVfeei:::txtsize
+LefeVfeei:::txtsize --> Ptineluiisey:::txtsize
+Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
+Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
+LefeVfeei:::txtsize --> LesuFhnlib:::txtsize
+LesuFhnlib:::txtsize --> Ptineluiisey:::txtsize
+Tssueardeona:::txtsize --> LesjsnrahRp:::txtsize
+LesjsnrahRp:::txtsize --> PLeubhwitea:::txtsize
+PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
+PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
+LesjsnrahRp:::txtsize --> FeiDmaLet:::txtsize
+FeiDmaLet:::txtsize --> PLeubhwitea:::txtsize
+FeiDmaLet:::txtsize --> LefeVfeei:::txtsize
 
-VuopccfSnctas@{ shape: win-pane, label: "_Published Oct 26, 2025, 10:50 AM_
-Venezuela vows to protect its coast from us potential ‘covert operations’" }
-Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
-Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
-Tseaonencl@{ shape: win-pane, label: "_Published Oct 24, 2025, 05:55 AM_
-Trump says declaration of war not needed on drug cartels" }
-Irseravrrfas@{ shape: win-pane, label: "_Published Oct 17, 2025, 08:00 AM_
-In a first, us strike in caribbean leaves survivors, us official says" }
-Uetvteaenet@{ shape: win-pane, label: "_Published Oct 21, 2025, 11:03 PM_
-Us covert actions ‘violate venezuela’s sovereignty’: un experts" }
-Uisepdvlef@{ shape: win-pane, label: "_Published Oct 23, 2025, 01:07 AM_
-Us military strikes suspected drug vessel in the pacific" }
-TsScersnsrn@{ shape: win-pane, label: "_Published Sep 20, 2025, 09:01 AM_
-Trump says us struck alleged drug vessel in latest operation" }
-Ustmrvllaeraasnt@{ shape: win-pane, label: "_Published Oct 20, 2025, 08:20 AM_
-Us says it hit colombian rebel vessel as colombia condemns trump’s accusations against petro" }
-TcrAotnzrnsou@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:05 AM_
-Trump confirms cia authorisation in venezuela, raising pressure on maduro" }
-Thtniahclgt@{ shape: win-pane, label: "_Published Oct 03, 2025, 05:25 AM_
-Trump has determined us is at war with drug cartels, congress told" }
-CbretcUiittlfiv@{ shape: win-pane, label: "_Published Sep 28, 2025, 09:18 AM_
-Colombian president petro accuses us of violating international law after visa revoked" }
-Aoienempsiroins@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:00 AM_
-At un, colombian president urges ‘criminal process’ against trump for strikes on boats" }
-UuCiboontnls@{ shape: win-pane, label: "_Published Oct 11, 2025, 07:58 AM_
-Un security council members voice concern about us-venezuela tensions" }
+TsflarlGaus@{ shape: win-pane, label: "_Published Oct 26, 2025, 05:26 PM_
+Trump’s push for gulf to pay for rebuilding gaza faces hurdles" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
+TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
+Tears, joy in israel as hamas hands over first hostages" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
+Singapore strongly condemns terror attacks on israel, calls for end to violence" }
 
-VuopccfSnctas:::txtsize --> Uidycceuomasnswee:::txtsize
-Uidycceuomasnswee:::txtsize --> Tseaonencl:::txtsize
-Tseaonencl:::txtsize --> Irseravrrfas:::txtsize
-Tseaonencl:::txtsize --> Uetvteaenet:::txtsize
-Uidycceuomasnswee:::txtsize --> Uisepdvlef:::txtsize
-Uisepdvlef:::txtsize --> TsScersnsrn:::txtsize
-Uisepdvlef:::txtsize --> Ustmrvllaeraasnt:::txtsize
-VuopccfSnctas:::txtsize --> TcrAotnzrnsou:::txtsize
-TcrAotnzrnsou:::txtsize --> Thtniahclgt:::txtsize
-Thtniahclgt:::txtsize --> CbretcUiittlfiv:::txtsize
-Thtniahclgt:::txtsize --> Aoienempsiroins:::txtsize
-TcrAotnzrnsou:::txtsize --> UuCiboontnls:::txtsize
+TsflarlGaus:::txtsize --> Tdrcaaededlncbs:::txtsize
+Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
+PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
+TsflarlGaus:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+WzptIleint:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
+Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
 
 ```
-<i>Last updated: 2025-10-26 16:00:33.133022 (GMT+8)</i>
+<i>Last updated: 2025-10-26 20:00:49.135273 (GMT+8)</i>
 <!-- END -->
