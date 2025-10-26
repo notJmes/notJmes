@@ -16,6 +16,46 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+SiemejocefhU@{ shape: win-pane, label: "_Published Oct 27, 2025, 02:11 AM_
+Striking boeing employees reject contract offer for fourth time: union" }
+Astimerts@{ shape: win-pane, label: "_Published Oct 07, 2025, 06:41 PM_
+Airbus a320 ousts boeing 737 as most-delivered jet in history" }
+BglssanCSe@{ shape: win-pane, label: "_Published Aug 22, 2025, 08:45 AM_
+Boeing in talks to sell as many as 500 planes to china: sources" }
+BgonoscefliA@{ shape: win-pane, label: "_Published Aug 04, 2025, 03:42 AM_
+Boeing’s st louis union workers reject latest offer, will strike on aug 4" }
+Bgryskeieouro@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:09 AM_
+Boeing’s quarterly loss shrinks as jet deliveries rebound, but shares drop" }
+Cyfynireemhe@{ shape: win-pane, label: "_Published Aug 06, 2025, 01:55 PM_
+Cathay pacific buys 14 planes in its first boeing deal in more than a decade" }
+Bgryskeieouro@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:09 AM_
+Boeing’s quarterly loss shrinks as jet deliveries rebound, but shares drop" }
+Bggaertw@{ shape: win-pane, label: "_Published Jul 28, 2025, 08:05 AM_
+Boeing emerges as a winner in trump’s trade wars" }
+Csnutitpfaerh@{ shape: win-pane, label: "_Published Jan 08, 2025, 01:40 PM_
+Checks find no issues with boeing 737-800 jets in s’pore after fatal jeju air crash" }
+Jinspniteooma@{ shape: win-pane, label: "_Published Dec 29, 2024, 08:58 AM_
+Jeju air plane crashes upon landing in south korea, 179 on board confirmed dead" }
+EtsbtaseJis@{ shape: win-pane, label: "_Published Dec 29, 2024, 07:15 PM_
+Experts question bird strike as cause of deadly jeju air crash" }
+Weatjpcite@{ shape: win-pane, label: "_Published Dec 29, 2024, 05:10 PM_
+What we know about the jeju air plane crash in south korea" }
+Jinspniteooma@{ shape: win-pane, label: "_Published Dec 29, 2024, 08:58 AM_
+Jeju air plane crashes upon landing in south korea, 179 on board confirmed dead" }
+
+SiemejocefhU:::txtsize --> Astimerts:::txtsize
+Astimerts:::txtsize --> BglssanCSe:::txtsize
+BglssanCSe:::txtsize --> BgonoscefliA:::txtsize
+BglssanCSe:::txtsize --> Bgryskeieouro:::txtsize
+Astimerts:::txtsize --> Cyfynireemhe:::txtsize
+Cyfynireemhe:::txtsize --> Bgryskeieouro:::txtsize
+Cyfynireemhe:::txtsize --> Bggaertw:::txtsize
+SiemejocefhU:::txtsize --> Csnutitpfaerh:::txtsize
+Csnutitpfaerh:::txtsize --> Jinspniteooma:::txtsize
+Jinspniteooma:::txtsize --> EtsbtaseJis:::txtsize
+Csnutitpfaerh:::txtsize --> Weatjpcite:::txtsize
+Weatjpcite:::txtsize --> Jinspniteooma:::txtsize
+
 Kaiiiweoiriimn@{ shape: win-pane, label: "_Published Oct 26, 2025, 11:00 PM_
 Kamala harris, california’s newsom begin jockeying for 2028 presidential campaigns" }
 TocalEoaipvngs@{ shape: win-pane, label: "_Published Nov 07, 2024, 12:05 AM_
@@ -96,40 +136,6 @@ DibsrhoanTbo:::txtsize --> Tstliahstrobd:::txtsize
 Tstliahstrobd:::txtsize --> Thdreyrhoao:::txtsize
 Tstliahstrobd:::txtsize --> Tbsliltaikr:::txtsize
 
-Bsarcetfgeostei@{ shape: win-pane, label: "_Published Oct 26, 2025, 09:30 PM_
-British royal andrew faces speculation of being forced out of mansion, stripped of titles" }
-Vnumroeieryin@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:12 PM_
-Virginia giuffre memoir goes on sale, heaping fresh scrutiny on prince andrew" }
-Biinastiifeal@{ shape: win-pane, label: "_Published Feb 16, 2022, 12:22 AM_
-Britain's prince andrew agrees to settle virginia giuffre sex assault claim" }
-BiingunluYteaas@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:26 AM_
-Britain’s prince andrew gives up using title of duke of york, still denies accusations" }
-Peeuaaaehatho@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:12 PM_
-Prince andrew accuser says he acted as if sex with her was ‘birthright’: memoir" }
-Peeuaaaehatho@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:12 PM_
-Prince andrew accuser says he acted as if sex with her was ‘birthright’: memoir" }
-Jetcriiebceiy@{ shape: win-pane, label: "_Published Apr 26, 2025, 12:15 PM_
-Jeffrey epstein accuser virginia giuffre dies by suicide, her family says" }
-Jetcriierctfulrh@{ shape: win-pane, label: "_Published Apr 02, 2025, 01:05 AM_
-Jeffrey epstein accuser virginia giuffre in serious condition after australia car crash" }
-PeeuJetcraeuu@{ shape: win-pane, label: "_Published Aug 10, 2021, 07:01 AM_
-Prince andrew is sued by jeffrey epstein accuser over alleged sexual abuse" }
-FrlEphrsssch@{ shape: win-pane, label: "_Published Mar 13, 2025, 02:31 AM_
-Former barclays ceo slept with jeffrey epstein’s assistant, court hears" }
-Jgeoksededsc@{ shape: win-pane, label: "_Published Mar 09, 2023, 08:29 AM_
-Jpmorgan sues ex-top banker jes staley for damages tied to epstein case" }
-
-Bsarcetfgeostei:::txtsize --> Vnumroeieryin:::txtsize
-Vnumroeieryin:::txtsize --> Biinastiifeal:::txtsize
-Vnumroeieryin:::txtsize --> BiingunluYteaas:::txtsize
-BiingunluYteaas:::txtsize --> Peeuaaaehatho:::txtsize
-BiingunluYteaas:::txtsize --> Peeuaaaehatho:::txtsize
-Bsarcetfgeostei:::txtsize --> Jetcriiebceiy:::txtsize
-Jetcriiebceiy:::txtsize --> Jetcriierctfulrh:::txtsize
-Jetcriierctfulrh:::txtsize --> PeeuJetcraeuu:::txtsize
-Jetcriiebceiy:::txtsize --> FrlEphrsssch:::txtsize
-FrlEphrsssch:::txtsize --> Jgeoksededsc:::txtsize
-
 ```
-<i>Last updated: 2025-10-27 00:01:12.897735 (GMT+8)</i>
+<i>Last updated: 2025-10-27 04:00:35.161455 (GMT+8)</i>
 <!-- END -->
