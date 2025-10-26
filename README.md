@@ -16,8 +16,42 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-CsfsLirRacs@{ shape: win-pane, label: "_Published Oct 26, 2025, 11:48 AM_
-China’s pacific gas owns lng ship skirting russian sanctions" }
+Unkrgerprwavy@{ shape: win-pane, label: "_Published Oct 26, 2025, 12:55 PM_
+Us-china talks nearing agreement for trump, xi to review, us trade envoy says" }
+WssutreTsoa@{ shape: win-pane, label: "_Published Oct 26, 2025, 09:00 AM_
+What is the asean summit, the first event on trump’s tour of asia?" }
+TLsnepfiuto@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:35 PM_
+Timor-leste’s asean membership a win for asia’s youngest nation" }
+Topoaeu@{ shape: win-pane, label: "_Published Feb 16, 2025, 02:25 PM_
+The growing pains of asia’s newest country" }
+TLtoehecradst@{ shape: win-pane, label: "_Published Sep 23, 2025, 06:40 PM_
+Timor-leste to become asean’s 11th member in october, formalised at kl summit" }
+Suainescldvdiucr@{ shape: win-pane, label: "_Published Oct 17, 2025, 10:00 PM_
+Scam hub in cambodia found deserted, suspects believed to have fled to neighbouring countries" }
+CdoysglrorGldor@{ shape: win-pane, label: "_Published Oct 17, 2025, 10:04 AM_
+Cambodian company accused in global scam ring: how is prince group linked to s’pore firms?" }
+Peeerijefakmao@{ shape: win-pane, label: "_Published Oct 08, 2025, 12:15 PM_
+Police probe s’pore firm recruiting job seekers for scam-linked cambodian resort" }
+TreUndweixco@{ shape: win-pane, label: "_Published Oct 11, 2025, 05:16 AM_
+Trump ratchets up us-china trade war with new 100% tariffs, export controls" }
+Wnrtffnrlt@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:00 PM_
+Why donald trump’s tariffs are failing to break global trade" }
+IiatrlTtftmbeia@{ shape: win-pane, label: "_Published Apr 05, 2025, 08:40 PM_
+‘it’s going to affect us very badly’: new trump tariffs cast gloom over businesses in asia" }
+
+Unkrgerprwavy:::txtsize --> WssutreTsoa:::txtsize
+WssutreTsoa:::txtsize --> TLsnepfiuto:::txtsize
+TLsnepfiuto:::txtsize --> Topoaeu:::txtsize
+TLsnepfiuto:::txtsize --> TLtoehecradst:::txtsize
+WssutreTsoa:::txtsize --> Suainescldvdiucr:::txtsize
+Suainescldvdiucr:::txtsize --> CdoysglrorGldor:::txtsize
+Suainescldvdiucr:::txtsize --> Peeerijefakmao:::txtsize
+Unkrgerprwavy:::txtsize --> TreUndweixco:::txtsize
+TreUndweixco:::txtsize --> Wnrtffnrlt:::txtsize
+Wnrtffnrlt:::txtsize --> IiatrlTtftmbeia:::txtsize
+
+CfwGedgnlsiRapc@{ shape: win-pane, label: "_Published Oct 26, 2025, 11:48 AM_
+China firm owns lng tanker said to be getting fuel from sanctioned russian ship: sources" }
 DhpnrecesGaieeew@{ shape: win-pane, label: "_Published Oct 19, 2025, 03:33 PM_
 Dark ship appearing to transfer sanctioned russia lng off malaysia, satellite images show" }
 Ucsassswt@{ shape: win-pane, label: "_Published Jul 21, 2025, 11:52 PM_
@@ -27,7 +61,7 @@ Stricken oil tankers show risks of russia’s ageing ‘shadow fleet’" }
 Bildiar@{ shape: win-pane, label: "_Published Jul 21, 2025, 10:45 PM_
 Britain calls for 50-day drive to arm ukraine" }
 
-CsfsLirRacs:::txtsize --> DhpnrecesGaieeew:::txtsize
+CfwGedgnlsiRapc:::txtsize --> DhpnrecesGaieeew:::txtsize
 DhpnrecesGaieeew:::txtsize --> Ucsassswt:::txtsize
 Ucsassswt:::txtsize --> Skleokusnde:::txtsize
 Ucsassswt:::txtsize --> Bildiar:::txtsize
@@ -72,43 +106,6 @@ Thtniahclgt:::txtsize --> CbretcUiittlfiv:::txtsize
 Thtniahclgt:::txtsize --> Aoienempsiroins:::txtsize
 TcrAotnzrnsou:::txtsize --> UuCiboontnls:::txtsize
 
-TnstitKioi@{ shape: win-pane, label: "_Published Oct 26, 2025, 10:05 AM_
-Trump not ‘wasting time’ with putin as kremlin envoy visits us" }
-Psonrsfltlasi@{ shape: win-pane, label: "_Published Oct 25, 2025, 12:40 AM_
-Putin’s economic envoy arrives in us for talks, after oil companies sanctioned" }
-Ucsilrrionitncr@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:27 PM_
-Us sanctions russian oil majors over ukraine, prompting india jitters and moscow fury" }
-UpmucssorirPwht@{ shape: win-pane, label: "_Published Oct 23, 2025, 05:33 AM_
-Us slaps ‘tremendous sanctions’ on russian oil for ukraine war, says putin wasn’t ‘honest’" }
-Tsemunpogrnil@{ shape: win-pane, label: "_Published May 19, 2025, 10:54 PM_
-Trump says he will meet putin in budapest, touting progress in ukraine talks" }
-Ucsilrrionitncr@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:27 PM_
-Us sanctions russian oil majors over ukraine, prompting india jitters and moscow fury" }
-UpmucssorirPwht@{ shape: win-pane, label: "_Published Oct 23, 2025, 05:33 AM_
-Us slaps ‘tremendous sanctions’ on russian oil for ukraine war, says putin wasn’t ‘honest’" }
-ErtkftassewUn@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:10 AM_
-Eu approves 19th package of sanctions against russia over its war in ukraine" }
-PTtiaodrieei@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
-Putin-trump talks in budapest on hold after russia rejects ceasefire" }
-Tsemunpogrnil@{ shape: win-pane, label: "_Published May 19, 2025, 10:54 PM_
-Trump says he will meet putin in budapest, touting progress in ukraine talks" }
-TPdtsUncamre@{ shape: win-pane, label: "_Published Aug 16, 2025, 03:43 AM_
-Trump-putin direct talks over ukraine conclude as summit stretches on" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-
-TnstitKioi:::txtsize --> Psonrsfltlasi:::txtsize
-Psonrsfltlasi:::txtsize --> Ucsilrrionitncr:::txtsize
-Ucsilrrionitncr:::txtsize --> UpmucssorirPwht:::txtsize
-Ucsilrrionitncr:::txtsize --> Tsemunpogrnil:::txtsize
-TnstitKioi:::txtsize --> Ucsilrrionitncr:::txtsize
-Ucsilrrionitncr:::txtsize --> UpmucssorirPwht:::txtsize
-UpmucssorirPwht:::txtsize --> ErtkftassewUn:::txtsize
-UpmucssorirPwht:::txtsize --> PTtiaodrieei:::txtsize
-Ucsilrrionitncr:::txtsize --> Tsemunpogrnil:::txtsize
-Tsemunpogrnil:::txtsize --> TPdtsUncamre:::txtsize
-Tsemunpogrnil:::txtsize --> Tdrcaaededlncbs:::txtsize
-
 ```
-<i>Last updated: 2025-10-26 12:00:16.639040 (GMT+8)</i>
+<i>Last updated: 2025-10-26 16:00:33.133022 (GMT+8)</i>
 <!-- END -->
