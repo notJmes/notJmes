@@ -16,6 +16,80 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+TaccmTktess@{ shape: win-pane, label: "_Published Oct 27, 2025, 06:45 AM_
+Trump and xi could ‘consummate’ tiktok deal this week, bessent says" }
+ITXtnhaeame@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:15 PM_
+Is the trump-xi meeting in south korea headed for a k-drama moment?" }
+Ciuaaaeirctt@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:33 AM_
+Canadians pull reagan tariff ad after furious trump scraps trade talks" }
+Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
+Trump says all trade talks with canada are terminated" }
+Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
+Trump says all trade talks with canada are terminated" }
+UoseTkwh@{ shape: win-pane, label: "_Published Sep 15, 2025, 09:10 PM_
+Us announces ‘framework’ tiktok deal with china" }
+Twekrireolia@{ shape: win-pane, label: "_Published Jan 17, 2025, 02:39 AM_
+Trump will keep tiktok from ‘going dark’ if deal is on table, adviser says" }
+UmsBtekadi@{ shape: win-pane, label: "_Published Jan 14, 2025, 09:30 AM_
+Us lawmakers urge biden to extend tiktok jan 19 ban deadline" }
+Ictephhteittaogo@{ shape: win-pane, label: "_Published Jan 15, 2025, 06:52 PM_
+Ironic twist: chinese app xiaohongshu hosts more us-china interactions amid looming tiktok ban" }
+Iearthaiieipa@{ shape: win-pane, label: "_Published Sep 15, 2025, 04:55 PM_
+In latest trade warning to us, china says nvidia violated anti-monopoly law" }
+UncmkoTudsot@{ shape: win-pane, label: "_Published Sep 15, 2025, 12:35 PM_
+Us, china reach framework deal on tiktok; trump and xi to speak on sept 19" }
+Ttaiphomkh@{ shape: win-pane, label: "_Published Sep 15, 2025, 11:45 PM_
+Trump to speak to xi on sept 19 with tiktok framework reached" }
+
+TaccmTktess:::txtsize --> ITXtnhaeame:::txtsize
+ITXtnhaeame:::txtsize --> Ciuaaaeirctt:::txtsize
+Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
+Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
+TaccmTktess:::txtsize --> UoseTkwh:::txtsize
+UoseTkwh:::txtsize --> Twekrireolia:::txtsize
+Twekrireolia:::txtsize --> UmsBtekadi:::txtsize
+Twekrireolia:::txtsize --> Ictephhteittaogo:::txtsize
+UoseTkwh:::txtsize --> Iearthaiieipa:::txtsize
+Iearthaiieipa:::txtsize --> UncmkoTudsot:::txtsize
+Iearthaiieipa:::txtsize --> Ttaiphomkh:::txtsize
+
+WYresemhiO@{ shape: win-pane, label: "_Published Oct 27, 2025, 06:00 AM_
+While you were sleeping: 5 stories you might have missed, oct 27, 2025" }
+Iaisiftip@{ shape: win-pane, label: "_Published Oct 27, 2025, 02:32 AM_
+India and china resume direct flights as ties improve" }
+Wvhnilehrt@{ shape: win-pane, label: "_Published Aug 21, 2025, 10:45 AM_
+Why rivals china and india really need each other right now" }
+IstinftnssensUe@{ shape: win-pane, label: "_Published Aug 06, 2025, 08:20 PM_
+India’s modi to visit china for first time in 7 years, says source, as tensions with us rise" }
+Itiurblisiei@{ shape: win-pane, label: "_Published Aug 21, 2025, 01:51 AM_
+India test-fires nuclear-capable ballistic missile, with eye on china" }
+SpesclsapdluoSi@{ shape: win-pane, label: "_Published Oct 27, 2025, 01:02 AM_
+Singapore leaders send condolences to thai people and family of queen mother sirikit" }
+TaoqSidl@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:35 AM_
+Thailand’s former queen sirikit dead at 93: palace" }
+TMaoyosebneemtya@{ shape: win-pane, label: "_Published Oct 25, 2025, 11:34 AM_
+Thai pm to travel to malaysia for ceasefire deal, but won’t attend apec summit after royal death" }
+Hteicerflniya@{ shape: win-pane, label: "_Published Sep 01, 2025, 12:16 AM_
+Hospitalised thai princess recovering after blood infection, says palace" }
+TaoqSidl@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:35 AM_
+Thailand’s former queen sirikit dead at 93: palace" }
+TMaoyosebneemtya@{ shape: win-pane, label: "_Published Oct 25, 2025, 11:34 AM_
+Thai pm to travel to malaysia for ceasefire deal, but won’t attend apec summit after royal death" }
+Hteicerflniya@{ shape: win-pane, label: "_Published Sep 01, 2025, 12:16 AM_
+Hospitalised thai princess recovering after blood infection, says palace" }
+
+WYresemhiO:::txtsize --> Iaisiftip:::txtsize
+Iaisiftip:::txtsize --> Wvhnilehrt:::txtsize
+Wvhnilehrt:::txtsize --> IstinftnssensUe:::txtsize
+Wvhnilehrt:::txtsize --> Itiurblisiei:::txtsize
+WYresemhiO:::txtsize --> SpesclsapdluoSi:::txtsize
+SpesclsapdluoSi:::txtsize --> TaoqSidl:::txtsize
+TaoqSidl:::txtsize --> TMaoyosebneemtya:::txtsize
+TaoqSidl:::txtsize --> Hteicerflniya:::txtsize
+SpesclsapdluoSi:::txtsize --> TaoqSidl:::txtsize
+TaoqSidl:::txtsize --> TMaoyosebneemtya:::txtsize
+TaoqSidl:::txtsize --> Hteicerflniya:::txtsize
+
 SiemejocefhU@{ shape: win-pane, label: "_Published Oct 27, 2025, 02:11 AM_
 Striking boeing employees reject contract offer for fourth time: union" }
 Astimerts@{ shape: win-pane, label: "_Published Oct 07, 2025, 06:41 PM_
@@ -56,86 +130,6 @@ Jinspniteooma:::txtsize --> EtsbtaseJis:::txtsize
 Csnutitpfaerh:::txtsize --> Weatjpcite:::txtsize
 Weatjpcite:::txtsize --> Jinspniteooma:::txtsize
 
-Kaiiiweoiriimn@{ shape: win-pane, label: "_Published Oct 26, 2025, 11:00 PM_
-Kamala harris, california’s newsom begin jockeying for 2028 presidential campaigns" }
-TocalEoaipvngs@{ shape: win-pane, label: "_Published Nov 07, 2024, 12:05 AM_
-Trump on track for a triple win: electoral landslide, popular vote and congress sweep" }
-TsbchioUdetne@{ shape: win-pane, label: "_Published Nov 06, 2024, 07:37 AM_
-Trump set to be elected 47th president of the united states in stunning comeback" }
-Hrtoessmemt@{ shape: win-pane, label: "_Published Nov 06, 2024, 03:17 PM_
-‘historic return’: world leaders praise trump as he claims victory" }
-PgfctteetiuT@{ shape: win-pane, label: "_Published Nov 06, 2024, 08:59 PM_
-Pm wong reaffirms commitment to strengthening ties with us under trump" }
-Tbesrebede@{ shape: win-pane, label: "_Published Jan 14, 2021, 03:26 AM_
-Trump becomes first us president to be impeached twice" }
-peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
-4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
-Rlrstinticmeaesi@{ shape: win-pane, label: "_Published Jan 14, 2021, 06:14 AM_
-Republican representative liz cheney votes to impeach trump, rejects party members' criticism" }
-IbhahrnrccidraHs@{ shape: win-pane, label: "_Published Jul 22, 2024, 01:59 AM_
-‘it has been the greatest honour’: biden ends re-election campaign and endorses kamala harris" }
-WaHscwbaUtfsi@{ shape: win-pane, label: "_Published Jul 21, 2024, 10:29 PM_
-With kamala harris, democrats would bet against us history of sexism, racism" }
-Seocesnned@{ shape: win-pane, label: "_Published Jul 18, 2024, 07:39 AM_
-Schumer, pelosi increase pressure on biden to step aside" }
-Btpirdemnc@{ shape: win-pane, label: "_Published Jul 18, 2024, 06:27 AM_
-Biden tests positive for covid-19, cancels campaign speech" }
-
-Kaiiiweoiriimn:::txtsize --> TocalEoaipvngs:::txtsize
-TocalEoaipvngs:::txtsize --> TsbchioUdetne:::txtsize
-TsbchioUdetne:::txtsize --> Hrtoessmemt:::txtsize
-TsbchioUdetne:::txtsize --> PgfctteetiuT:::txtsize
-TocalEoaipvngs:::txtsize --> Tbesrebede:::txtsize
-Tbesrebede:::txtsize --> peapubmalrest:::txtsize
-Tbesrebede:::txtsize --> Rlrstinticmeaesi:::txtsize
-Kaiiiweoiriimn:::txtsize --> IbhahrnrccidraHs:::txtsize
-IbhahrnrccidraHs:::txtsize --> WaHscwbaUtfsi:::txtsize
-WaHscwbaUtfsi:::txtsize --> Seocesnned:::txtsize
-WaHscwbaUtfsi:::txtsize --> Btpirdemnc:::txtsize
-
-Tsruitaopci@{ shape: win-pane, label: "_Published Oct 26, 2025, 10:32 PM_
-Trump’s ballroom fundraising taps cash from crypto, tech allies" }
-Thdreyrhoao@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:50 PM_
-Trump hosts dinner for wealthy donors to white house ballroom" }
-Ybalolmousu@{ shape: win-pane, label: "_Published Sep 30, 2025, 07:26 AM_
-Youtube to pay $28 million to settle trump account suspension suit" }
-Hrrreizsoop@{ shape: win-pane, label: "_Published Sep 20, 2025, 09:20 AM_
-Harvard’s former president criticizes its approach to trump" }
-TttCosneetsd@{ shape: win-pane, label: "_Published Sep 04, 2025, 10:43 AM_
-Trump to host tech ceos for first event in newly renovated rose garden" }
-Eeoigraceme@{ shape: win-pane, label: "_Published Aug 26, 2025, 07:50 PM_
-Eu asserts ‘sovereign right’ to regulate tech after trump threat" }
-Tvxctfilea@{ shape: win-pane, label: "_Published Aug 26, 2025, 10:22 AM_
-Trump vows export curbs, tariffs in digital tax reprisal" }
-DibsrhoanTbo@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:35 AM_
-Demolition begins on part of white house east wing for trump ballroom" }
-Tstliahstrobd@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:45 PM_
-Trump seeks to build a triumphal arch in washington for nation’s 250th birthday" }
-Thdreyrhoao@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:50 PM_
-Trump hosts dinner for wealthy donors to white house ballroom" }
-Tbsliltaikr@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:32 AM_
-Trump brings the bling with gold-plated oval office makeover" }
-Tstliahstrobd@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:45 PM_
-Trump seeks to build a triumphal arch in washington for nation’s 250th birthday" }
-Thdreyrhoao@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:50 PM_
-Trump hosts dinner for wealthy donors to white house ballroom" }
-Tbsliltaikr@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:32 AM_
-Trump brings the bling with gold-plated oval office makeover" }
-
-Tsruitaopci:::txtsize --> Thdreyrhoao:::txtsize
-Thdreyrhoao:::txtsize --> Ybalolmousu:::txtsize
-Ybalolmousu:::txtsize --> Hrrreizsoop:::txtsize
-Thdreyrhoao:::txtsize --> TttCosneetsd:::txtsize
-TttCosneetsd:::txtsize --> Eeoigraceme:::txtsize
-TttCosneetsd:::txtsize --> Tvxctfilea:::txtsize
-Tsruitaopci:::txtsize --> DibsrhoanTbo:::txtsize
-DibsrhoanTbo:::txtsize --> Tstliahstrobd:::txtsize
-Tstliahstrobd:::txtsize --> Thdreyrhoao:::txtsize
-Tstliahstrobd:::txtsize --> Tbsliltaikr:::txtsize
-DibsrhoanTbo:::txtsize --> Tstliahstrobd:::txtsize
-Tstliahstrobd:::txtsize --> Thdreyrhoao:::txtsize
-Tstliahstrobd:::txtsize --> Tbsliltaikr:::txtsize
-
 ```
-<i>Last updated: 2025-10-27 04:00:35.161455 (GMT+8)</i>
+<i>Last updated: 2025-10-27 08:01:01.684891 (GMT+8)</i>
 <!-- END -->
