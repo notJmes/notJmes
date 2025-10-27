@@ -16,8 +16,8 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-TaccmTktess@{ shape: win-pane, label: "_Published Oct 27, 2025, 06:45 AM_
-Trump and xi could ‘consummate’ tiktok deal this week, bessent says" }
+Pgigsritir@{ shape: win-pane, label: "_Published Oct 27, 2025, 11:16 AM_
+Pentagon chief hegseth set for multi-country asia tour" }
 ITXtnhaeame@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:15 PM_
 Is the trump-xi meeting in south korea headed for a k-drama moment?" }
 Ciuaaaeirctt@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:33 AM_
@@ -26,110 +26,113 @@ Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
 Trump says all trade talks with canada are terminated" }
 Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
 Trump says all trade talks with canada are terminated" }
-UoseTkwh@{ shape: win-pane, label: "_Published Sep 15, 2025, 09:10 PM_
-Us announces ‘framework’ tiktok deal with china" }
-Twekrireolia@{ shape: win-pane, label: "_Published Jan 17, 2025, 02:39 AM_
-Trump will keep tiktok from ‘going dark’ if deal is on table, adviser says" }
-UmsBtekadi@{ shape: win-pane, label: "_Published Jan 14, 2025, 09:30 AM_
-Us lawmakers urge biden to extend tiktok jan 19 ban deadline" }
-Ictephhteittaogo@{ shape: win-pane, label: "_Published Jan 15, 2025, 06:52 PM_
-Ironic twist: chinese app xiaohongshu hosts more us-china interactions amid looming tiktok ban" }
-Iearthaiieipa@{ shape: win-pane, label: "_Published Sep 15, 2025, 04:55 PM_
-In latest trade warning to us, china says nvidia violated anti-monopoly law" }
-UncmkoTudsot@{ shape: win-pane, label: "_Published Sep 15, 2025, 12:35 PM_
-Us, china reach framework deal on tiktok; trump and xi to speak on sept 19" }
-Ttaiphomkh@{ shape: win-pane, label: "_Published Sep 15, 2025, 11:45 PM_
-Trump to speak to xi on sept 19 with tiktok framework reached" }
+Ttocads@{ shape: win-pane, label: "_Published Oct 26, 2025, 11:10 PM_
+Trump turns on the charm – and so does asean" }
+Tlilpaerse@{ shape: win-pane, label: "_Published Oct 26, 2025, 10:00 AM_
+Trump lands in kuala lumpur to a dance, cheers and some jeers" }
+WssutreTsoa@{ shape: win-pane, label: "_Published Oct 26, 2025, 09:00 AM_
+What is the asean summit, the first event on trump’s tour of asia?" }
+STcksaarminr@{ shape: win-pane, label: "_Published Oct 21, 2025, 12:50 PM_
+Sanae takaichi makes history as japan’s first woman prime minister" }
+PgseBlhcEeuaamde@{ shape: win-pane, label: "_Published Oct 26, 2025, 08:13 PM_
+Pm wong meets leaders of brazil, south africa and european council at asean summit sidelines" }
+WssutreTsoa@{ shape: win-pane, label: "_Published Oct 26, 2025, 09:00 AM_
+What is the asean summit, the first event on trump’s tour of asia?" }
+TLoiatAbismmlsgu@{ shape: win-pane, label: "_Published Oct 26, 2025, 08:56 AM_
+Timor-leste officially admitted to asean, becoming its 11th member amid calls to strengthen unity" }
 
-TaccmTktess:::txtsize --> ITXtnhaeame:::txtsize
+Pgigsritir:::txtsize --> ITXtnhaeame:::txtsize
 ITXtnhaeame:::txtsize --> Ciuaaaeirctt:::txtsize
 Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
 Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
-TaccmTktess:::txtsize --> UoseTkwh:::txtsize
-UoseTkwh:::txtsize --> Twekrireolia:::txtsize
-Twekrireolia:::txtsize --> UmsBtekadi:::txtsize
-Twekrireolia:::txtsize --> Ictephhteittaogo:::txtsize
-UoseTkwh:::txtsize --> Iearthaiieipa:::txtsize
-Iearthaiieipa:::txtsize --> UncmkoTudsot:::txtsize
-Iearthaiieipa:::txtsize --> Ttaiphomkh:::txtsize
+Pgigsritir:::txtsize --> Ttocads:::txtsize
+Ttocads:::txtsize --> Tlilpaerse:::txtsize
+Tlilpaerse:::txtsize --> WssutreTsoa:::txtsize
+Tlilpaerse:::txtsize --> STcksaarminr:::txtsize
+Ttocads:::txtsize --> PgseBlhcEeuaamde:::txtsize
+PgseBlhcEeuaamde:::txtsize --> WssutreTsoa:::txtsize
+PgseBlhcEeuaamde:::txtsize --> TLoiatAbismmlsgu:::txtsize
 
-WYresemhiO@{ shape: win-pane, label: "_Published Oct 27, 2025, 06:00 AM_
-While you were sleeping: 5 stories you might have missed, oct 27, 2025" }
-Iaisiftip@{ shape: win-pane, label: "_Published Oct 27, 2025, 02:32 AM_
-India and china resume direct flights as ties improve" }
-Wvhnilehrt@{ shape: win-pane, label: "_Published Aug 21, 2025, 10:45 AM_
-Why rivals china and india really need each other right now" }
-IstinftnssensUe@{ shape: win-pane, label: "_Published Aug 06, 2025, 08:20 PM_
-India’s modi to visit china for first time in 7 years, says source, as tensions with us rise" }
-Itiurblisiei@{ shape: win-pane, label: "_Published Aug 21, 2025, 01:51 AM_
-India test-fires nuclear-capable ballistic missile, with eye on china" }
-SpesclsapdluoSi@{ shape: win-pane, label: "_Published Oct 27, 2025, 01:02 AM_
-Singapore leaders send condolences to thai people and family of queen mother sirikit" }
-TaoqSidl@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:35 AM_
-Thailand’s former queen sirikit dead at 93: palace" }
-TMaoyosebneemtya@{ shape: win-pane, label: "_Published Oct 25, 2025, 11:34 AM_
-Thai pm to travel to malaysia for ceasefire deal, but won’t attend apec summit after royal death" }
-Hteicerflniya@{ shape: win-pane, label: "_Published Sep 01, 2025, 12:16 AM_
-Hospitalised thai princess recovering after blood infection, says palace" }
-TaoqSidl@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:35 AM_
-Thailand’s former queen sirikit dead at 93: palace" }
-TMaoyosebneemtya@{ shape: win-pane, label: "_Published Oct 25, 2025, 11:34 AM_
-Thai pm to travel to malaysia for ceasefire deal, but won’t attend apec summit after royal death" }
-Hteicerflniya@{ shape: win-pane, label: "_Published Sep 01, 2025, 12:16 AM_
-Hospitalised thai princess recovering after blood infection, says palace" }
+UtpWsawnd@{ shape: win-pane, label: "_Published Oct 27, 2025, 10:30 AM_
+Us shutdown poker: which side has the winning hand?" }
+Tsodpienmeifun@{ shape: win-pane, label: "_Published Oct 21, 2025, 07:15 PM_
+Trump’s approval edges up despite americans blaming republicans for shutdown" }
+Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
+Us government begins shutdown that may lead to mass layoffs and cuts" }
+TsSrtpbun@{ shape: win-pane, label: "_Published Oct 01, 2025, 01:49 AM_
+Trump says us government will ‘probably’ shut down" }
+MaegbeSthwn@{ shape: win-pane, label: "_Published Oct 17, 2025, 04:48 AM_
+Military spending bill blocked in us senate as shutdown grinds on" }
+Tsottsnomhw@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:45 AM_
+Trump signs order to pay troops during us government shutdown" }
+Pgegdrrmbwsdf@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:55 PM_
+Pentagon’s pete hegseth declares war on us media, but new rules could backfire" }
+Utrrscdolre@{ shape: win-pane, label: "_Published Sep 18, 2025, 10:19 PM_
+Us shutdown risks rise as democrats dig in on healthcare fixes" }
+twrHheKdneg@{ shape: win-pane, label: "_Published Sep 05, 2025, 08:02 AM_
+5 takeaways from us health secretary kennedy’s senate hearing" }
+Fdclcaetteh@{ shape: win-pane, label: "_Published Sep 04, 2025, 08:31 AM_
+Florida to scrap all vaccine mandates, west coast states push back" }
+Prrfoaecnfres@{ shape: win-pane, label: "_Published Sep 03, 2025, 11:03 PM_
+Pfizer, moderna defend covid-19 vaccine effectiveness after trump remarks" }
+MaulStryeso@{ shape: win-pane, label: "_Published Sep 04, 2025, 10:20 AM_
+Medical groups call on us health secretary kennedy to step down" }
+Ulttormnitcretnes@{ shape: win-pane, label: "_Published May 16, 2025, 06:40 AM_
+Us health authorities to stop recommending covid-19 shots for children, pregnant women, wsj reports" }
+Ucotskoagsstfli@{ shape: win-pane, label: "_Published Aug 28, 2025, 08:08 AM_
+Us cdc chief out after just weeks in role, challenges ouster as four top officials resign" }
 
-WYresemhiO:::txtsize --> Iaisiftip:::txtsize
-Iaisiftip:::txtsize --> Wvhnilehrt:::txtsize
-Wvhnilehrt:::txtsize --> IstinftnssensUe:::txtsize
-Wvhnilehrt:::txtsize --> Itiurblisiei:::txtsize
-WYresemhiO:::txtsize --> SpesclsapdluoSi:::txtsize
-SpesclsapdluoSi:::txtsize --> TaoqSidl:::txtsize
-TaoqSidl:::txtsize --> TMaoyosebneemtya:::txtsize
-TaoqSidl:::txtsize --> Hteicerflniya:::txtsize
-SpesclsapdluoSi:::txtsize --> TaoqSidl:::txtsize
-TaoqSidl:::txtsize --> TMaoyosebneemtya:::txtsize
-TaoqSidl:::txtsize --> Hteicerflniya:::txtsize
+UtpWsawnd:::txtsize --> Tsodpienmeifun:::txtsize
+Tsodpienmeifun:::txtsize --> Ueniunmaayat:::txtsize
+Ueniunmaayat:::txtsize --> TsSrtpbun:::txtsize
+Tsodpienmeifun:::txtsize --> MaegbeSthwn:::txtsize
+MaegbeSthwn:::txtsize --> Tsottsnomhw:::txtsize
+MaegbeSthwn:::txtsize --> Pgegdrrmbwsdf:::txtsize
+UtpWsawnd:::txtsize --> Utrrscdolre:::txtsize
+Utrrscdolre:::txtsize --> twrHheKdneg:::txtsize
+twrHheKdneg:::txtsize --> Fdclcaetteh:::txtsize
+twrHheKdneg:::txtsize --> Prrfoaecnfres:::txtsize
+Utrrscdolre:::txtsize --> MaulStryeso:::txtsize
+MaulStryeso:::txtsize --> Ulttormnitcretnes:::txtsize
+MaulStryeso:::txtsize --> Ucotskoagsstfli:::txtsize
 
-SiemejocefhU@{ shape: win-pane, label: "_Published Oct 27, 2025, 02:11 AM_
-Striking boeing employees reject contract offer for fourth time: union" }
-Astimerts@{ shape: win-pane, label: "_Published Oct 07, 2025, 06:41 PM_
-Airbus a320 ousts boeing 737 as most-delivered jet in history" }
-BglssanCSe@{ shape: win-pane, label: "_Published Aug 22, 2025, 08:45 AM_
-Boeing in talks to sell as many as 500 planes to china: sources" }
-BgonoscefliA@{ shape: win-pane, label: "_Published Aug 04, 2025, 03:42 AM_
-Boeing’s st louis union workers reject latest offer, will strike on aug 4" }
-Bgryskeieouro@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:09 AM_
-Boeing’s quarterly loss shrinks as jet deliveries rebound, but shares drop" }
-Cyfynireemhe@{ shape: win-pane, label: "_Published Aug 06, 2025, 01:55 PM_
-Cathay pacific buys 14 planes in its first boeing deal in more than a decade" }
-Bgryskeieouro@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:09 AM_
-Boeing’s quarterly loss shrinks as jet deliveries rebound, but shares drop" }
-Bggaertw@{ shape: win-pane, label: "_Published Jul 28, 2025, 08:05 AM_
-Boeing emerges as a winner in trump’s trade wars" }
-Csnutitpfaerh@{ shape: win-pane, label: "_Published Jan 08, 2025, 01:40 PM_
-Checks find no issues with boeing 737-800 jets in s’pore after fatal jeju air crash" }
-Jinspniteooma@{ shape: win-pane, label: "_Published Dec 29, 2024, 08:58 AM_
-Jeju air plane crashes upon landing in south korea, 179 on board confirmed dead" }
-EtsbtaseJis@{ shape: win-pane, label: "_Published Dec 29, 2024, 07:15 PM_
-Experts question bird strike as cause of deadly jeju air crash" }
-Weatjpcite@{ shape: win-pane, label: "_Published Dec 29, 2024, 05:10 PM_
-What we know about the jeju air plane crash in south korea" }
-Jinspniteooma@{ shape: win-pane, label: "_Published Dec 29, 2024, 08:58 AM_
-Jeju air plane crashes upon landing in south korea, 179 on board confirmed dead" }
+Ptnesuslenuaei@{ shape: win-pane, label: "_Published Oct 27, 2025, 10:11 AM_
+Palestinian leader lays out succession plan, elevating deputy as apparent heir" }
+Waesapmdmnlhg@{ shape: win-pane, label: "_Published Oct 24, 2025, 05:00 AM_
+Who leads the palestinian people? hamas is determined not to lose this fight" }
+Upiatzck@{ shape: win-pane, label: "_Published Oct 20, 2025, 07:21 PM_
+Us steps up diplomacy after gaza truce shaken" }
+Ilkzispec@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:06 PM_
+Israel strikes gaza, saying its troops were attacked" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Auotamneead@{ shape: win-pane, label: "_Published Oct 15, 2025, 06:10 PM_
+Aid trucks roll into gaza as hamas hands over more hostage bodies" }
+Hhooeeearnc@{ shape: win-pane, label: "_Published Oct 15, 2025, 06:24 AM_
+Hamas hands over hostage bodies after israel threatens aid cut" }
+Tsausrsdaol@{ shape: win-pane, label: "_Published Oct 15, 2025, 03:10 AM_
+Trump says hamas must disarm or be disarmed, perhaps violently" }
+Thtndrltasact@{ shape: win-pane, label: "_Published Oct 14, 2025, 01:41 AM_
+Trump hails ‘tremendous day for middle east’ as leaders sign gaza declaration" }
+Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
+Trump says israel could resume fighting in gaza if hamas fails to disarm" }
+Hcewfkntrnucr@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:30 AM_
+Hamas carries out wave of gaza killings, citing crime and security concerns" }
+Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
+Hamas says it has handed over all hostage remains it can recover" }
 
-SiemejocefhU:::txtsize --> Astimerts:::txtsize
-Astimerts:::txtsize --> BglssanCSe:::txtsize
-BglssanCSe:::txtsize --> BgonoscefliA:::txtsize
-BglssanCSe:::txtsize --> Bgryskeieouro:::txtsize
-Astimerts:::txtsize --> Cyfynireemhe:::txtsize
-Cyfynireemhe:::txtsize --> Bgryskeieouro:::txtsize
-Cyfynireemhe:::txtsize --> Bggaertw:::txtsize
-SiemejocefhU:::txtsize --> Csnutitpfaerh:::txtsize
-Csnutitpfaerh:::txtsize --> Jinspniteooma:::txtsize
-Jinspniteooma:::txtsize --> EtsbtaseJis:::txtsize
-Csnutitpfaerh:::txtsize --> Weatjpcite:::txtsize
-Weatjpcite:::txtsize --> Jinspniteooma:::txtsize
+Ptnesuslenuaei:::txtsize --> Waesapmdmnlhg:::txtsize
+Waesapmdmnlhg:::txtsize --> Upiatzck:::txtsize
+Upiatzck:::txtsize --> Ilkzispec:::txtsize
+Upiatzck:::txtsize --> AtHfezerydatoGel:::txtsize
+Ptnesuslenuaei:::txtsize --> Auotamneead:::txtsize
+Auotamneead:::txtsize --> Hhooeeearnc:::txtsize
+Hhooeeearnc:::txtsize --> Tsausrsdaol:::txtsize
+Hhooeeearnc:::txtsize --> Thtndrltasact:::txtsize
+Auotamneead:::txtsize --> Tsscretniali:::txtsize
+Tsscretniali:::txtsize --> Hcewfkntrnucr:::txtsize
+Tsscretniali:::txtsize --> Hstaoltesnv:::txtsize
 
 ```
-<i>Last updated: 2025-10-27 08:01:01.684891 (GMT+8)</i>
+<i>Last updated: 2025-10-27 12:00:25.336786 (GMT+8)</i>
 <!-- END -->
