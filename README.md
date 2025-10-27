@@ -16,138 +16,129 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Adpgeifnc@{ shape: win-pane, label: "_Published Oct 27, 2025, 11:45 PM_
-Arson disrupts high-speed train traffic in france" }
-Ctitnsssrc@{ shape: win-pane, label: "_Published Jun 25, 2025, 07:29 PM_
-Cable theft in north france disrupts eurostar traffic" }
-EtauiodFfe@{ shape: win-pane, label: "_Published Jun 11, 2025, 07:04 AM_
-Eurostar plans 5-hour trains from london to frankfurt, geneva" }
-Lroinnrsacw@{ shape: win-pane, label: "_Published Feb 16, 2025, 02:35 PM_
-Late trains, old bridges, no signal: germany's infrastructure woes" }
-CttstreFe@{ shape: win-pane, label: "_Published May 18, 2025, 10:30 AM_
-Cat on train tracks? 20 minutes to retrieve it, france says" }
-Pnsxinauaip@{ shape: win-pane, label: "_Published Jan 24, 2024, 11:32 AM_
-Passengers snub ‘expensive’ london-paris eurostar train for plane" }
-AgatMkhrnri@{ shape: win-pane, label: "_Published Sep 25, 2023, 06:40 AM_
-Anger grows as british pm sunak weighs shortening of $167b rail link" }
-Ffiteiacta@{ shape: win-pane, label: "_Published Jan 17, 2024, 05:57 PM_
-Frankfurt airport cancels flights amid icy winter weather" }
-TateaeblPtso@{ shape: win-pane, label: "_Published Mar 07, 2025, 04:11 PM_
-Thousands stranded as massive wwii bomb blocks paris train station" }
-Lntluscnuac@{ shape: win-pane, label: "_Published Jan 30, 2025, 06:59 AM_
-London’s blitz shelter tunnels to become a new tourist attraction" }
-Ststlberttno@{ shape: win-pane, label: "_Published Sep 25, 2023, 01:25 PM_
-Secret ‘james bond’ tunnels may become a tourist attraction in london" }
-Uitusse@{ shape: win-pane, label: "_Published May 25, 2023, 11:45 AM_
-Uk losing out on tourism’s high spenders" }
-JtepaWoafrkie@{ shape: win-pane, label: "_Published Oct 04, 2024, 04:16 PM_
-Japan to sweep airports after wwii bomb blast at former ‘kamikaze’ airbase" }
-JerrneIms@{ shape: win-pane, label: "_Published Oct 03, 2024, 03:20 PM_
-Japanese airport reopens after wwii us bomb blast" }
-UlWrcorgotit@{ shape: win-pane, label: "_Published Jun 29, 2024, 05:47 PM_
-Unexploded wwii ordnance removed from ang mo kio construction site" }
+RannneiaUnnys@{ shape: win-pane, label: "_Published Oct 28, 2025, 03:05 AM_
+Russian drones hunt down, chase out civilians in ukraine, un inquiry finds" }
+Wiiahinesie@{ shape: win-pane, label: "_Published Apr 06, 2022, 01:31 AM_
+War crime, crime against humanity, genocide: what's the difference?" }
+Slmsoihwrtoc@{ shape: win-pane, label: "_Published Apr 05, 2022, 07:47 AM_
+Satellite images show bodies in bucha for weeks, rebutting moscow claim" }
+Nydsvievniueasirrd@{ shape: win-pane, label: "_Published Apr 03, 2022, 01:58 AM_
+Nearly 300 found in mass graves: evidence of civilian killings outside kyiv as russian military retreated" }
+Bsrancirqibolcs@{ shape: win-pane, label: "_Published Apr 04, 2022, 02:24 AM_
+Bodies in ukrainian town of bucha 'raise serious questions about possible war crimes': un" }
+RaanucasaZs@{ shape: win-pane, label: "_Published Mar 29, 2022, 08:32 PM_
+Russian assault on mariupol a 'crime against humanity': zelensky" }
+Inniltervgldria@{ shape: win-pane, label: "_Published Mar 01, 2022, 04:43 AM_
+International criminal court prosecutor to investigate alleged war crimes in ukraine" }
+RanlieeseiaKo@{ shape: win-pane, label: "_Published Jan 07, 2025, 12:21 AM_
+Russian drone kills one, injures nine on passenger bus in ukraine’s kherson" }
+Zsyvrutirypde@{ shape: win-pane, label: "_Published Jan 06, 2025, 06:26 AM_
+Zelensky says kyiv security guarantees will work only if us provides them" }
+Feuiea@{ shape: win-pane, label: "_Published Feb 24, 2023, 05:54 PM_
+Feb 24, 2022: the day russia invaded ukraine" }
+Unnntnkoeni@{ shape: win-pane, label: "_Published Jan 05, 2025, 10:00 PM_
+Ukraine launches new attack in kursk region of western russia" }
+Unnntnkoeni@{ shape: win-pane, label: "_Published Jan 05, 2025, 10:00 PM_
+Ukraine launches new attack in kursk region of western russia" }
+Eihkbkesdsiu@{ shape: win-pane, label: "_Published Aug 14, 2024, 07:35 AM_
+Explainer: what to know about ukraine’s cross-border assault into russia" }
+UnlyNKnpitsor@{ shape: win-pane, label: "_Published Nov 19, 2024, 06:51 PM_
+Ukraine's zelensky says north korean troop contingent in russia could grow to 100,000" }
 
-Adpgeifnc:::txtsize --> Ctitnsssrc:::txtsize
-Ctitnsssrc:::txtsize --> EtauiodFfe:::txtsize
-EtauiodFfe:::txtsize --> Lroinnrsacw:::txtsize
-EtauiodFfe:::txtsize --> CttstreFe:::txtsize
-Ctitnsssrc:::txtsize --> Pnsxinauaip:::txtsize
-Pnsxinauaip:::txtsize --> AgatMkhrnri:::txtsize
-Pnsxinauaip:::txtsize --> Ffiteiacta:::txtsize
-Adpgeifnc:::txtsize --> TateaeblPtso:::txtsize
-TateaeblPtso:::txtsize --> Lntluscnuac:::txtsize
-Lntluscnuac:::txtsize --> Ststlberttno:::txtsize
-Lntluscnuac:::txtsize --> Uitusse:::txtsize
-TateaeblPtso:::txtsize --> JtepaWoafrkie:::txtsize
-JtepaWoafrkie:::txtsize --> JerrneIms:::txtsize
-JtepaWoafrkie:::txtsize --> UlWrcorgotit:::txtsize
+RannneiaUnnys:::txtsize --> Wiiahinesie:::txtsize
+Wiiahinesie:::txtsize --> Slmsoihwrtoc:::txtsize
+Slmsoihwrtoc:::txtsize --> Nydsvievniueasirrd:::txtsize
+Slmsoihwrtoc:::txtsize --> Bsrancirqibolcs:::txtsize
+Wiiahinesie:::txtsize --> RaanucasaZs:::txtsize
+RaanucasaZs:::txtsize --> Inniltervgldria:::txtsize
+RannneiaUnnys:::txtsize --> RanlieeseiaKo:::txtsize
+RanlieeseiaKo:::txtsize --> Zsyvrutirypde:::txtsize
+Zsyvrutirypde:::txtsize --> Feuiea:::txtsize
+Zsyvrutirypde:::txtsize --> Unnntnkoeni:::txtsize
+RanlieeseiaKo:::txtsize --> Unnntnkoeni:::txtsize
+Unnntnkoeni:::txtsize --> Eihkbkesdsiu:::txtsize
+Unnntnkoeni:::txtsize --> UnlyNKnpitsor:::txtsize
 
-KhsuiLmareeo@{ shape: win-pane, label: "_Published Oct 27, 2025, 10:59 PM_
-King charles honours british lgbtq military personnel at new memorial" }
-KhsLaeiasanth@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:17 PM_
-King charles, pope leo pray together in a 500-year first in vatican’s sistine chapel" }
-UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
-Us cardinal prevost elected pope leo xiv, first american pontiff" }
-Arnclaenigi@{ shape: win-pane, label: "_Published May 09, 2025, 06:49 AM_
-A reformer and a reconciler: what pope leo’s new reign might bring" }
-IfarPeoselbia@{ shape: win-pane, label: "_Published May 09, 2025, 03:40 AM_
-In his first appearance, pope leo xiv offers three big clues about his papacy" }
-Wanrsfeytffecnd@{ shape: win-pane, label: "_Published Oct 03, 2025, 05:12 PM_
-Woman appointed archbishop of canterbury a historic first for the church of england" }
-TmerusdchCrann@{ shape: win-pane, label: "_Published Oct 01, 2025, 10:49 PM_
-Two women seen as front runners ahead of archbishop of canterbury announcement" }
-VaupfdeIri@{ shape: win-pane, label: "_Published Oct 03, 2025, 11:05 AM_
-Virtual jesus? people of faith divided as ai enters religion" }
-Biiimsomennhmc@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:20 AM_
-Britain’s prince william opens up about family fears and plans to change monarchy" }
-Tanrefeoirls@{ shape: win-pane, label: "_Published Sep 15, 2025, 10:20 AM_
-Trump and king charles: heads of state with opposing personalities" }
-Biniaayoiuktc@{ shape: win-pane, label: "_Published Sep 12, 2025, 03:03 PM_
-Britain turns to king charles and royals to mollify trump like no others can" }
-Puueesnomsv@{ shape: win-pane, label: "_Published Sep 11, 2025, 01:56 AM_
-Pomp but no public engagements in london for trump’s uk state visit" }
-Biiimeeeay@{ shape: win-pane, label: "_Published Nov 08, 2024, 07:47 AM_
-Britain's prince william: it's been the hardest year of my life" }
-Binristcchl@{ shape: win-pane, label: "_Published Feb 06, 2024, 02:09 AM_
-Britain’s king charles diagnosed with cancer: buckingham palace" }
-PeWeoteeeutocrn@{ shape: win-pane, label: "_Published Mar 24, 2024, 06:13 AM_
-Princess of wales ‘enormously touched’ by messages of support following cancer diagnosis" }
+Maesttpahoe@{ shape: win-pane, label: "_Published Oct 28, 2025, 02:17 AM_
+Meta launches ‘ghost posts’ that disappear after 24 hours on threads" }
+Mubldieamos@{ shape: win-pane, label: "_Published Oct 23, 2025, 07:34 AM_
+Meta cuts 600 jobs in ‘bloated’ ai unit as tech giant aims to move faster" }
+AsyedalIcjuoM@{ shape: win-pane, label: "_Published Oct 16, 2025, 08:35 AM_
+Apple’s newly tapped head of chatgpt-like ai search project quits to join meta" }
+Alfhshahtptgt@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:36 AM_
+Apple loses fourth ai researcher in a month to meta’s superintelligence team" }
+ModeAiPugpcoin@{ shape: win-pane, label: "_Published Jul 10, 2025, 08:58 AM_
+Meta poached apple’s top ai engineer pang ruoming with pay package over $256 million" }
+Aaeeheneenwol@{ shape: win-pane, label: "_Published Aug 23, 2025, 08:50 PM_
+Ai = asian intelligence? chinese talent powers american ai now, but for how long?" }
+ModeAiPugpcoin@{ shape: win-pane, label: "_Published Jul 10, 2025, 08:58 AM_
+Meta poached apple’s top ai engineer pang ruoming with pay package over $256 million" }
+SAfexWrtalotyld@{ shape: win-pane, label: "_Published Jun 17, 2025, 08:32 AM_
+Scale ai’s co-founder alexandr wang brings to meta knowledge of what everyone else is doing" }
+Motptertisrtht@{ shape: win-pane, label: "_Published Oct 17, 2025, 08:42 PM_
+Meta to give teens’ parents more control after criticism over flirty ai chatbots" }
+OIirlrnGtlnei@{ shape: win-pane, label: "_Published Sep 29, 2025, 08:02 PM_
+Openai to bring parental controls in chatgpt after california teen’s suicide" }
+AaslaonwiU@{ shape: win-pane, label: "_Published Sep 25, 2025, 10:37 AM_
+Australia’s social media ban for teens draws praise at un" }
+Coeirhweo@{ shape: win-pane, label: "_Published Sep 28, 2025, 01:15 PM_
+Chatbots are hurting our kids – here’s what we can do" }
+Mctckanrd@{ shape: win-pane, label: "_Published Sep 26, 2025, 07:30 AM_
+Meta activates facebook ‘teen accounts’ worldwide" }
+AaslaonwiU@{ shape: win-pane, label: "_Published Sep 25, 2025, 10:37 AM_
+Australia’s social media ban for teens draws praise at un" }
+Uernoecomi@{ shape: win-pane, label: "_Published Sep 17, 2025, 06:55 AM_
+Us parents urge senate to prevent ai chatbot harms to kids" }
 
-KhsuiLmareeo:::txtsize --> KhsLaeiasanth:::txtsize
-KhsLaeiasanth:::txtsize --> UdPscooimat:::txtsize
-UdPscooimat:::txtsize --> Arnclaenigi:::txtsize
-UdPscooimat:::txtsize --> IfarPeoselbia:::txtsize
-KhsLaeiasanth:::txtsize --> Wanrsfeytffecnd:::txtsize
-Wanrsfeytffecnd:::txtsize --> TmerusdchCrann:::txtsize
-Wanrsfeytffecnd:::txtsize --> VaupfdeIri:::txtsize
-KhsuiLmareeo:::txtsize --> Biiimsomennhmc:::txtsize
-Biiimsomennhmc:::txtsize --> Tanrefeoirls:::txtsize
-Tanrefeoirls:::txtsize --> Biniaayoiuktc:::txtsize
-Tanrefeoirls:::txtsize --> Puueesnomsv:::txtsize
-Biiimsomennhmc:::txtsize --> Biiimeeeay:::txtsize
-Biiimeeeay:::txtsize --> Binristcchl:::txtsize
-Biiimeeeay:::txtsize --> PeWeoteeeutocrn:::txtsize
+Maesttpahoe:::txtsize --> Mubldieamos:::txtsize
+Mubldieamos:::txtsize --> AsyedalIcjuoM:::txtsize
+AsyedalIcjuoM:::txtsize --> Alfhshahtptgt:::txtsize
+AsyedalIcjuoM:::txtsize --> ModeAiPugpcoin:::txtsize
+Mubldieamos:::txtsize --> Aaeeheneenwol:::txtsize
+Aaeeheneenwol:::txtsize --> ModeAiPugpcoin:::txtsize
+Aaeeheneenwol:::txtsize --> SAfexWrtalotyld:::txtsize
+Maesttpahoe:::txtsize --> Motptertisrtht:::txtsize
+Motptertisrtht:::txtsize --> OIirlrnGtlnei:::txtsize
+OIirlrnGtlnei:::txtsize --> AaslaonwiU:::txtsize
+OIirlrnGtlnei:::txtsize --> Coeirhweo:::txtsize
+Motptertisrtht:::txtsize --> Mctckanrd:::txtsize
+Mctckanrd:::txtsize --> AaslaonwiU:::txtsize
+Mctckanrd:::txtsize --> Uernoecomi:::txtsize
 
-TaiPfxnhsonia@{ shape: win-pane, label: "_Published Oct 27, 2025, 10:45 PM_
-Ten stand trial in paris for sexist online harassment of france’s first lady" }
-FhiMnUlermhfba@{ shape: win-pane, label: "_Published Jul 24, 2025, 12:08 AM_
-French president macron sues us influencer over claim that his wife was born male" }
-Fesyiaaeavlanl@{ shape: win-pane, label: "_Published Sep 12, 2024, 10:54 PM_
-France’s first lady brigitte macron awarded damages over false transgender claim" }
-Fesysowyri@{ shape: win-pane, label: "_Published Sep 11, 2024, 03:38 AM_
-France's first lady makes cameo in new emily in paris episode" }
-FairnggaFLrtr@{ shape: win-pane, label: "_Published Dec 13, 2024, 02:08 AM_
-Four face trial for online targeting of france’s first lady brigitte macron" }
-Fesyiaaeavlanl@{ shape: win-pane, label: "_Published Sep 12, 2024, 10:54 PM_
-France’s first lady brigitte macron awarded damages over false transgender claim" }
-Fesyiaaeavlanl@{ shape: win-pane, label: "_Published Sep 12, 2024, 10:54 PM_
-France’s first lady brigitte macron awarded damages over false transgender claim" }
-FhiMnUlermhfba@{ shape: win-pane, label: "_Published Jul 24, 2025, 12:08 AM_
-French president macron sues us influencer over claim that his wife was born male" }
-Fesyiaaeavlanl@{ shape: win-pane, label: "_Published Sep 12, 2024, 10:54 PM_
-France’s first lady brigitte macron awarded damages over false transgender claim" }
-Fesysowyri@{ shape: win-pane, label: "_Published Sep 11, 2024, 03:38 AM_
-France's first lady makes cameo in new emily in paris episode" }
-FairnggaFLrtr@{ shape: win-pane, label: "_Published Dec 13, 2024, 02:08 AM_
-Four face trial for online targeting of france’s first lady brigitte macron" }
-Fesyiaaeavlanl@{ shape: win-pane, label: "_Published Sep 12, 2024, 10:54 PM_
-France’s first lady brigitte macron awarded damages over false transgender claim" }
-Fesyiaaeavlanl@{ shape: win-pane, label: "_Published Sep 12, 2024, 10:54 PM_
-France’s first lady brigitte macron awarded damages over false transgender claim" }
+Uisrotofsd@{ shape: win-pane, label: "_Published Oct 28, 2025, 01:47 AM_
+Uk activists who tried to paint taylor swift jet spared jail" }
+EotoeotOrKihaSser@{ shape: win-pane, label: "_Published Jun 20, 2024, 05:15 PM_
+Environmental protesters from just stop oil target uk airfield where taylor swift’s plane is parked" }
+Bionrwayrnrt@{ shape: win-pane, label: "_Published Jun 19, 2024, 08:40 PM_
+Britain’s stonehenge sprayed with paint by environmental protesters" }
+Cttrtibulnymt@{ shape: win-pane, label: "_Published Oct 05, 2023, 07:45 PM_
+Climate protesters halt les miserables musical in london by storming stage" }
+Trtnatpkeve@{ shape: win-pane, label: "_Published Feb 07, 2024, 12:35 PM_
+Taylor swift demands 21-year-old to stop tracking her private jet" }
+Ubinltnttaaoo@{ shape: win-pane, label: "_Published Jan 11, 2024, 04:53 PM_
+Us carbon emissions fell 2% in 2023 but not enough to meet climate goal, report shows" }
+EotoeotOrKihaSser@{ shape: win-pane, label: "_Published Jun 20, 2024, 05:15 PM_
+Environmental protesters from just stop oil target uk airfield where taylor swift’s plane is parked" }
+Bionrwayrnrt@{ shape: win-pane, label: "_Published Jun 19, 2024, 08:40 PM_
+Britain’s stonehenge sprayed with paint by environmental protesters" }
+Cttrtibulnymt@{ shape: win-pane, label: "_Published Oct 05, 2023, 07:45 PM_
+Climate protesters halt les miserables musical in london by storming stage" }
+Trtnatpkeve@{ shape: win-pane, label: "_Published Feb 07, 2024, 12:35 PM_
+Taylor swift demands 21-year-old to stop tracking her private jet" }
+Ubinltnttaaoo@{ shape: win-pane, label: "_Published Jan 11, 2024, 04:53 PM_
+Us carbon emissions fell 2% in 2023 but not enough to meet climate goal, report shows" }
 
-TaiPfxnhsonia:::txtsize --> FhiMnUlermhfba:::txtsize
-FhiMnUlermhfba:::txtsize --> Fesyiaaeavlanl:::txtsize
-Fesyiaaeavlanl:::txtsize --> Fesysowyri:::txtsize
-FhiMnUlermhfba:::txtsize --> FairnggaFLrtr:::txtsize
-FairnggaFLrtr:::txtsize --> Fesyiaaeavlanl:::txtsize
-FairnggaFLrtr:::txtsize --> Fesyiaaeavlanl:::txtsize
-TaiPfxnhsonia:::txtsize --> FhiMnUlermhfba:::txtsize
-FhiMnUlermhfba:::txtsize --> Fesyiaaeavlanl:::txtsize
-Fesyiaaeavlanl:::txtsize --> Fesysowyri:::txtsize
-FhiMnUlermhfba:::txtsize --> FairnggaFLrtr:::txtsize
-FairnggaFLrtr:::txtsize --> Fesyiaaeavlanl:::txtsize
-FairnggaFLrtr:::txtsize --> Fesyiaaeavlanl:::txtsize
+Uisrotofsd:::txtsize --> EotoeotOrKihaSser:::txtsize
+EotoeotOrKihaSser:::txtsize --> Bionrwayrnrt:::txtsize
+Bionrwayrnrt:::txtsize --> Cttrtibulnymt:::txtsize
+EotoeotOrKihaSser:::txtsize --> Trtnatpkeve:::txtsize
+Trtnatpkeve:::txtsize --> Ubinltnttaaoo:::txtsize
+Uisrotofsd:::txtsize --> EotoeotOrKihaSser:::txtsize
+EotoeotOrKihaSser:::txtsize --> Bionrwayrnrt:::txtsize
+Bionrwayrnrt:::txtsize --> Cttrtibulnymt:::txtsize
+EotoeotOrKihaSser:::txtsize --> Trtnatpkeve:::txtsize
+Trtnatpkeve:::txtsize --> Ubinltnttaaoo:::txtsize
 
 ```
-<i>Last updated: 2025-10-28 00:00:48.832355 (GMT+8)</i>
+<i>Last updated: 2025-10-28 04:01:11.742273 (GMT+8)</i>
 <!-- END -->
