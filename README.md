@@ -16,132 +16,138 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-FimnaoeauGrl@{ shape: win-pane, label: "_Published Oct 27, 2025, 07:52 PM_
-Families of missing israeli hostages demand pause in gaza truce plan" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
-Peace finally descends on the middle east: now the battle to make it last begins" }
-TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
-Tears, joy in israel as hamas hands over first hostages" }
-Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
-Hamas says it has handed over all hostage remains it can recover" }
-Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
-Trump says israel could resume fighting in gaza if hamas fails to disarm" }
-Hcewfkntrnucr@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:30 AM_
-Hamas carries out wave of gaza killings, citing crime and security concerns" }
-Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
-Hamas says it has handed over all hostage remains it can recover" }
-IlHhdbhnroe@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:54 PM_
-Israel says hamas handed over body that is not former hostage" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-IlaGRcitppdusra@{ shape: win-pane, label: "_Published Oct 15, 2025, 02:30 PM_
-Israel will allow gaza’s rafah crossing with egypt to open and ramp up aid, says broadcaster" }
+Adpgeifnc@{ shape: win-pane, label: "_Published Oct 27, 2025, 11:45 PM_
+Arson disrupts high-speed train traffic in france" }
+Ctitnsssrc@{ shape: win-pane, label: "_Published Jun 25, 2025, 07:29 PM_
+Cable theft in north france disrupts eurostar traffic" }
+EtauiodFfe@{ shape: win-pane, label: "_Published Jun 11, 2025, 07:04 AM_
+Eurostar plans 5-hour trains from london to frankfurt, geneva" }
+Lroinnrsacw@{ shape: win-pane, label: "_Published Feb 16, 2025, 02:35 PM_
+Late trains, old bridges, no signal: germany's infrastructure woes" }
+CttstreFe@{ shape: win-pane, label: "_Published May 18, 2025, 10:30 AM_
+Cat on train tracks? 20 minutes to retrieve it, france says" }
+Pnsxinauaip@{ shape: win-pane, label: "_Published Jan 24, 2024, 11:32 AM_
+Passengers snub ‘expensive’ london-paris eurostar train for plane" }
+AgatMkhrnri@{ shape: win-pane, label: "_Published Sep 25, 2023, 06:40 AM_
+Anger grows as british pm sunak weighs shortening of $167b rail link" }
+Ffiteiacta@{ shape: win-pane, label: "_Published Jan 17, 2024, 05:57 PM_
+Frankfurt airport cancels flights amid icy winter weather" }
+TateaeblPtso@{ shape: win-pane, label: "_Published Mar 07, 2025, 04:11 PM_
+Thousands stranded as massive wwii bomb blocks paris train station" }
+Lntluscnuac@{ shape: win-pane, label: "_Published Jan 30, 2025, 06:59 AM_
+London’s blitz shelter tunnels to become a new tourist attraction" }
+Ststlberttno@{ shape: win-pane, label: "_Published Sep 25, 2023, 01:25 PM_
+Secret ‘james bond’ tunnels may become a tourist attraction in london" }
+Uitusse@{ shape: win-pane, label: "_Published May 25, 2023, 11:45 AM_
+Uk losing out on tourism’s high spenders" }
+JtepaWoafrkie@{ shape: win-pane, label: "_Published Oct 04, 2024, 04:16 PM_
+Japan to sweep airports after wwii bomb blast at former ‘kamikaze’ airbase" }
+JerrneIms@{ shape: win-pane, label: "_Published Oct 03, 2024, 03:20 PM_
+Japanese airport reopens after wwii us bomb blast" }
+UlWrcorgotit@{ shape: win-pane, label: "_Published Jun 29, 2024, 05:47 PM_
+Unexploded wwii ordnance removed from ang mo kio construction site" }
 
-FimnaoeauGrl:::txtsize --> Tdrcaaededlncbs:::txtsize
-Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
-PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
-FimnaoeauGrl:::txtsize --> Hstaoltesnv:::txtsize
-Hstaoltesnv:::txtsize --> Tsscretniali:::txtsize
-Tsscretniali:::txtsize --> Hcewfkntrnucr:::txtsize
-Tsscretniali:::txtsize --> Hstaoltesnv:::txtsize
-Hstaoltesnv:::txtsize --> IlHhdbhnroe:::txtsize
-IlHhdbhnroe:::txtsize --> Tdrcaaededlncbs:::txtsize
-IlHhdbhnroe:::txtsize --> IlaGRcitppdusra:::txtsize
+Adpgeifnc:::txtsize --> Ctitnsssrc:::txtsize
+Ctitnsssrc:::txtsize --> EtauiodFfe:::txtsize
+EtauiodFfe:::txtsize --> Lroinnrsacw:::txtsize
+EtauiodFfe:::txtsize --> CttstreFe:::txtsize
+Ctitnsssrc:::txtsize --> Pnsxinauaip:::txtsize
+Pnsxinauaip:::txtsize --> AgatMkhrnri:::txtsize
+Pnsxinauaip:::txtsize --> Ffiteiacta:::txtsize
+Adpgeifnc:::txtsize --> TateaeblPtso:::txtsize
+TateaeblPtso:::txtsize --> Lntluscnuac:::txtsize
+Lntluscnuac:::txtsize --> Ststlberttno:::txtsize
+Lntluscnuac:::txtsize --> Uitusse:::txtsize
+TateaeblPtso:::txtsize --> JtepaWoafrkie:::txtsize
+JtepaWoafrkie:::txtsize --> JerrneIms:::txtsize
+JtepaWoafrkie:::txtsize --> UlWrcorgotit:::txtsize
 
-CiCyysSsoX@{ shape: win-pane, label: "_Published Oct 27, 2025, 07:25 PM_
-Canadian pm carney ‘ready’ to resume us talks, set to meet xi" }
-TsitfaaOiaddnli@{ shape: win-pane, label: "_Published Oct 26, 2025, 05:04 AM_
-Trump sets 10% hike in tariffs on canada after ontario’s reagan ad aired during world series" }
-Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
-Trump says all trade talks with canada are terminated" }
-Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
-Trump talks up canada trade deal chances with ‘world-class’ carney" }
-Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
-Trump talks up canada trade deal chances with ‘world-class’ carney" }
-Ciuaaaeirctt@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:33 AM_
-Canadians pull reagan tariff ad after furious trump scraps trade talks" }
-Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
-Trump says all trade talks with canada are terminated" }
-Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
-Trump says all trade talks with canada are terminated" }
-Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
-Trump says all trade talks with canada are terminated" }
-Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
-Trump talks up canada trade deal chances with ‘world-class’ carney" }
-CasunSourist@{ shape: win-pane, label: "_Published Apr 29, 2025, 03:22 AM_
-Canada votes as trump renews us takeover push for ‘cherished 51st state’" }
-TtotfermsN@{ shape: win-pane, label: "_Published Oct 07, 2025, 03:17 AM_
-Trump to impose 25% us tariffs on heavy truck imports from nov 1" }
-Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
-Trump talks up canada trade deal chances with ‘world-class’ carney" }
-CasunSourist@{ shape: win-pane, label: "_Published Apr 29, 2025, 03:22 AM_
-Canada votes as trump renews us takeover push for ‘cherished 51st state’" }
-TtotfermsN@{ shape: win-pane, label: "_Published Oct 07, 2025, 03:17 AM_
-Trump to impose 25% us tariffs on heavy truck imports from nov 1" }
+KhsuiLmareeo@{ shape: win-pane, label: "_Published Oct 27, 2025, 10:59 PM_
+King charles honours british lgbtq military personnel at new memorial" }
+KhsLaeiasanth@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:17 PM_
+King charles, pope leo pray together in a 500-year first in vatican’s sistine chapel" }
+UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
+Us cardinal prevost elected pope leo xiv, first american pontiff" }
+Arnclaenigi@{ shape: win-pane, label: "_Published May 09, 2025, 06:49 AM_
+A reformer and a reconciler: what pope leo’s new reign might bring" }
+IfarPeoselbia@{ shape: win-pane, label: "_Published May 09, 2025, 03:40 AM_
+In his first appearance, pope leo xiv offers three big clues about his papacy" }
+Wanrsfeytffecnd@{ shape: win-pane, label: "_Published Oct 03, 2025, 05:12 PM_
+Woman appointed archbishop of canterbury a historic first for the church of england" }
+TmerusdchCrann@{ shape: win-pane, label: "_Published Oct 01, 2025, 10:49 PM_
+Two women seen as front runners ahead of archbishop of canterbury announcement" }
+VaupfdeIri@{ shape: win-pane, label: "_Published Oct 03, 2025, 11:05 AM_
+Virtual jesus? people of faith divided as ai enters religion" }
+Biiimsomennhmc@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:20 AM_
+Britain’s prince william opens up about family fears and plans to change monarchy" }
+Tanrefeoirls@{ shape: win-pane, label: "_Published Sep 15, 2025, 10:20 AM_
+Trump and king charles: heads of state with opposing personalities" }
+Biniaayoiuktc@{ shape: win-pane, label: "_Published Sep 12, 2025, 03:03 PM_
+Britain turns to king charles and royals to mollify trump like no others can" }
+Puueesnomsv@{ shape: win-pane, label: "_Published Sep 11, 2025, 01:56 AM_
+Pomp but no public engagements in london for trump’s uk state visit" }
+Biiimeeeay@{ shape: win-pane, label: "_Published Nov 08, 2024, 07:47 AM_
+Britain's prince william: it's been the hardest year of my life" }
+Binristcchl@{ shape: win-pane, label: "_Published Feb 06, 2024, 02:09 AM_
+Britain’s king charles diagnosed with cancer: buckingham palace" }
+PeWeoteeeutocrn@{ shape: win-pane, label: "_Published Mar 24, 2024, 06:13 AM_
+Princess of wales ‘enormously touched’ by messages of support following cancer diagnosis" }
 
-CiCyysSsoX:::txtsize --> TsitfaaOiaddnli:::txtsize
-TsitfaaOiaddnli:::txtsize --> Tsldkhdtn:::txtsize
-Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
-Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
-TsitfaaOiaddnli:::txtsize --> Ciuaaaeirctt:::txtsize
-Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
-Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
-CiCyysSsoX:::txtsize --> Tsldkhdtn:::txtsize
-Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
-Ttuaaanirar:::txtsize --> CasunSourist:::txtsize
-Ttuaaanirar:::txtsize --> TtotfermsN:::txtsize
-Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
-Ttuaaanirar:::txtsize --> CasunSourist:::txtsize
-Ttuaaanirar:::txtsize --> TtotfermsN:::txtsize
+KhsuiLmareeo:::txtsize --> KhsLaeiasanth:::txtsize
+KhsLaeiasanth:::txtsize --> UdPscooimat:::txtsize
+UdPscooimat:::txtsize --> Arnclaenigi:::txtsize
+UdPscooimat:::txtsize --> IfarPeoselbia:::txtsize
+KhsLaeiasanth:::txtsize --> Wanrsfeytffecnd:::txtsize
+Wanrsfeytffecnd:::txtsize --> TmerusdchCrann:::txtsize
+Wanrsfeytffecnd:::txtsize --> VaupfdeIri:::txtsize
+KhsuiLmareeo:::txtsize --> Biiimsomennhmc:::txtsize
+Biiimsomennhmc:::txtsize --> Tanrefeoirls:::txtsize
+Tanrefeoirls:::txtsize --> Biniaayoiuktc:::txtsize
+Tanrefeoirls:::txtsize --> Puueesnomsv:::txtsize
+Biiimsomennhmc:::txtsize --> Biiimeeeay:::txtsize
+Biiimeeeay:::txtsize --> Binristcchl:::txtsize
+Biiimeeeay:::txtsize --> PeWeoteeeutocrn:::txtsize
 
-Tseraenn@{ shape: win-pane, label: "_Published Oct 27, 2025, 05:25 PM_
-Trump says he underwent an mri examination" }
-TdragnfitirsPd@{ shape: win-pane, label: "_Published Jan 21, 2025, 01:02 AM_
-Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
-Tpsrmtioutv@{ shape: win-pane, label: "_Published Jan 20, 2025, 05:54 AM_
-Trump promises harsh immigration limits on inauguration eve" }
-SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
-TkieiraTvond@{ shape: win-pane, label: "_Published Jan 19, 2025, 11:30 PM_
-Tiktok says it is restoring service after trump vows to extend deadline" }
-TttSecaaxhue@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:40 AM_
-Trump threatens us trade policy of ‘tariff and tax’ on other countries" }
-Fgohesrtftso@{ shape: win-pane, label: "_Published Jan 18, 2025, 05:00 AM_
-Facing a flood of chinese goods and trump’s tariffs, what can asean do?" }
-TdragnfitirsPd@{ shape: win-pane, label: "_Published Jan 21, 2025, 01:02 AM_
-Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
-Thraylty@{ shape: win-pane, label: "_Published Oct 11, 2025, 11:00 AM_
-Trump, 79, has ‘cardiac age’ of 65-year-old, doctor says" }
-Tgemacha@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:24 PM_
-Trump, 79, gets second medical check-up this year" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-IbhahrnrccidraHs@{ shape: win-pane, label: "_Published Jul 22, 2024, 01:59 AM_
-‘it has been the greatest honour’: biden ends re-election campaign and endorses kamala harris" }
-Ttehamauon@{ shape: win-pane, label: "_Published Oct 09, 2025, 11:16 AM_
-Trump to undergo physical exam as health questions linger" }
-Tdoiidniglho@{ shape: win-pane, label: "_Published Jul 18, 2025, 02:46 AM_
-Trump diagnosed with vein condition causing leg swelling: white house" }
-IbhahrnrccidraHs@{ shape: win-pane, label: "_Published Jul 22, 2024, 01:59 AM_
-‘it has been the greatest honour’: biden ends re-election campaign and endorses kamala harris" }
+TaiPfxnhsonia@{ shape: win-pane, label: "_Published Oct 27, 2025, 10:45 PM_
+Ten stand trial in paris for sexist online harassment of france’s first lady" }
+FhiMnUlermhfba@{ shape: win-pane, label: "_Published Jul 24, 2025, 12:08 AM_
+French president macron sues us influencer over claim that his wife was born male" }
+Fesyiaaeavlanl@{ shape: win-pane, label: "_Published Sep 12, 2024, 10:54 PM_
+France’s first lady brigitte macron awarded damages over false transgender claim" }
+Fesysowyri@{ shape: win-pane, label: "_Published Sep 11, 2024, 03:38 AM_
+France's first lady makes cameo in new emily in paris episode" }
+FairnggaFLrtr@{ shape: win-pane, label: "_Published Dec 13, 2024, 02:08 AM_
+Four face trial for online targeting of france’s first lady brigitte macron" }
+Fesyiaaeavlanl@{ shape: win-pane, label: "_Published Sep 12, 2024, 10:54 PM_
+France’s first lady brigitte macron awarded damages over false transgender claim" }
+Fesyiaaeavlanl@{ shape: win-pane, label: "_Published Sep 12, 2024, 10:54 PM_
+France’s first lady brigitte macron awarded damages over false transgender claim" }
+FhiMnUlermhfba@{ shape: win-pane, label: "_Published Jul 24, 2025, 12:08 AM_
+French president macron sues us influencer over claim that his wife was born male" }
+Fesyiaaeavlanl@{ shape: win-pane, label: "_Published Sep 12, 2024, 10:54 PM_
+France’s first lady brigitte macron awarded damages over false transgender claim" }
+Fesysowyri@{ shape: win-pane, label: "_Published Sep 11, 2024, 03:38 AM_
+France's first lady makes cameo in new emily in paris episode" }
+FairnggaFLrtr@{ shape: win-pane, label: "_Published Dec 13, 2024, 02:08 AM_
+Four face trial for online targeting of france’s first lady brigitte macron" }
+Fesyiaaeavlanl@{ shape: win-pane, label: "_Published Sep 12, 2024, 10:54 PM_
+France’s first lady brigitte macron awarded damages over false transgender claim" }
+Fesyiaaeavlanl@{ shape: win-pane, label: "_Published Sep 12, 2024, 10:54 PM_
+France’s first lady brigitte macron awarded damages over false transgender claim" }
 
-Tseraenn:::txtsize --> TdragnfitirsPd:::txtsize
-TdragnfitirsPd:::txtsize --> Tpsrmtioutv:::txtsize
-Tpsrmtioutv:::txtsize --> SiUiinenWn:::txtsize
-Tpsrmtioutv:::txtsize --> TkieiraTvond:::txtsize
-TdragnfitirsPd:::txtsize --> TttSecaaxhue:::txtsize
-TttSecaaxhue:::txtsize --> Fgohesrtftso:::txtsize
-TttSecaaxhue:::txtsize --> TdragnfitirsPd:::txtsize
-Tseraenn:::txtsize --> Thraylty:::txtsize
-Thraylty:::txtsize --> Tgemacha:::txtsize
-Tgemacha:::txtsize --> TssHaossaaorslaoe:::txtsize
-Tgemacha:::txtsize --> IbhahrnrccidraHs:::txtsize
-Thraylty:::txtsize --> Ttehamauon:::txtsize
-Ttehamauon:::txtsize --> Tdoiidniglho:::txtsize
-Ttehamauon:::txtsize --> IbhahrnrccidraHs:::txtsize
+TaiPfxnhsonia:::txtsize --> FhiMnUlermhfba:::txtsize
+FhiMnUlermhfba:::txtsize --> Fesyiaaeavlanl:::txtsize
+Fesyiaaeavlanl:::txtsize --> Fesysowyri:::txtsize
+FhiMnUlermhfba:::txtsize --> FairnggaFLrtr:::txtsize
+FairnggaFLrtr:::txtsize --> Fesyiaaeavlanl:::txtsize
+FairnggaFLrtr:::txtsize --> Fesyiaaeavlanl:::txtsize
+TaiPfxnhsonia:::txtsize --> FhiMnUlermhfba:::txtsize
+FhiMnUlermhfba:::txtsize --> Fesyiaaeavlanl:::txtsize
+Fesyiaaeavlanl:::txtsize --> Fesysowyri:::txtsize
+FhiMnUlermhfba:::txtsize --> FairnggaFLrtr:::txtsize
+FairnggaFLrtr:::txtsize --> Fesyiaaeavlanl:::txtsize
+FairnggaFLrtr:::txtsize --> Fesyiaaeavlanl:::txtsize
 
 ```
-<i>Last updated: 2025-10-27 20:00:26.837057 (GMT+8)</i>
+<i>Last updated: 2025-10-28 00:00:48.832355 (GMT+8)</i>
 <!-- END -->
