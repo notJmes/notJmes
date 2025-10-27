@@ -16,129 +16,132 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tserrpdnen@{ shape: win-pane, label: "_Published Oct 27, 2025, 03:41 PM_
-Trump says he won’t run for vice-president in 2028 us election" }
-Kaiiiweoiriimn@{ shape: win-pane, label: "_Published Oct 26, 2025, 11:00 PM_
-Kamala harris, california’s newsom begin jockeying for 2028 presidential campaigns" }
-TocalEoaipvngs@{ shape: win-pane, label: "_Published Nov 07, 2024, 12:05 AM_
-Trump on track for a triple win: electoral landslide, popular vote and congress sweep" }
-TsbchioUdetne@{ shape: win-pane, label: "_Published Nov 06, 2024, 07:37 AM_
-Trump set to be elected 47th president of the united states in stunning comeback" }
-Tbesrebede@{ shape: win-pane, label: "_Published Jan 14, 2021, 03:26 AM_
-Trump becomes first us president to be impeached twice" }
+FimnaoeauGrl@{ shape: win-pane, label: "_Published Oct 27, 2025, 07:52 PM_
+Families of missing israeli hostages demand pause in gaza truce plan" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
+TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
+Tears, joy in israel as hamas hands over first hostages" }
+Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
+Hamas says it has handed over all hostage remains it can recover" }
+Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
+Trump says israel could resume fighting in gaza if hamas fails to disarm" }
+Hcewfkntrnucr@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:30 AM_
+Hamas carries out wave of gaza killings, citing crime and security concerns" }
+Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
+Hamas says it has handed over all hostage remains it can recover" }
+IlHhdbhnroe@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:54 PM_
+Israel says hamas handed over body that is not former hostage" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+IlaGRcitppdusra@{ shape: win-pane, label: "_Published Oct 15, 2025, 02:30 PM_
+Israel will allow gaza’s rafah crossing with egypt to open and ramp up aid, says broadcaster" }
+
+FimnaoeauGrl:::txtsize --> Tdrcaaededlncbs:::txtsize
+Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
+PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
+FimnaoeauGrl:::txtsize --> Hstaoltesnv:::txtsize
+Hstaoltesnv:::txtsize --> Tsscretniali:::txtsize
+Tsscretniali:::txtsize --> Hcewfkntrnucr:::txtsize
+Tsscretniali:::txtsize --> Hstaoltesnv:::txtsize
+Hstaoltesnv:::txtsize --> IlHhdbhnroe:::txtsize
+IlHhdbhnroe:::txtsize --> Tdrcaaededlncbs:::txtsize
+IlHhdbhnroe:::txtsize --> IlaGRcitppdusra:::txtsize
+
+CiCyysSsoX@{ shape: win-pane, label: "_Published Oct 27, 2025, 07:25 PM_
+Canadian pm carney ‘ready’ to resume us talks, set to meet xi" }
+TsitfaaOiaddnli@{ shape: win-pane, label: "_Published Oct 26, 2025, 05:04 AM_
+Trump sets 10% hike in tariffs on canada after ontario’s reagan ad aired during world series" }
+Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
+Trump says all trade talks with canada are terminated" }
+Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
+Trump talks up canada trade deal chances with ‘world-class’ carney" }
+Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
+Trump talks up canada trade deal chances with ‘world-class’ carney" }
+Ciuaaaeirctt@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:33 AM_
+Canadians pull reagan tariff ad after furious trump scraps trade talks" }
+Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
+Trump says all trade talks with canada are terminated" }
+Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
+Trump says all trade talks with canada are terminated" }
+Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
+Trump says all trade talks with canada are terminated" }
+Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
+Trump talks up canada trade deal chances with ‘world-class’ carney" }
+CasunSourist@{ shape: win-pane, label: "_Published Apr 29, 2025, 03:22 AM_
+Canada votes as trump renews us takeover push for ‘cherished 51st state’" }
+TtotfermsN@{ shape: win-pane, label: "_Published Oct 07, 2025, 03:17 AM_
+Trump to impose 25% us tariffs on heavy truck imports from nov 1" }
+Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
+Trump talks up canada trade deal chances with ‘world-class’ carney" }
+CasunSourist@{ shape: win-pane, label: "_Published Apr 29, 2025, 03:22 AM_
+Canada votes as trump renews us takeover push for ‘cherished 51st state’" }
+TtotfermsN@{ shape: win-pane, label: "_Published Oct 07, 2025, 03:17 AM_
+Trump to impose 25% us tariffs on heavy truck imports from nov 1" }
+
+CiCyysSsoX:::txtsize --> TsitfaaOiaddnli:::txtsize
+TsitfaaOiaddnli:::txtsize --> Tsldkhdtn:::txtsize
+Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
+Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
+TsitfaaOiaddnli:::txtsize --> Ciuaaaeirctt:::txtsize
+Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
+Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
+CiCyysSsoX:::txtsize --> Tsldkhdtn:::txtsize
+Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
+Ttuaaanirar:::txtsize --> CasunSourist:::txtsize
+Ttuaaanirar:::txtsize --> TtotfermsN:::txtsize
+Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
+Ttuaaanirar:::txtsize --> CasunSourist:::txtsize
+Ttuaaanirar:::txtsize --> TtotfermsN:::txtsize
+
+Tseraenn@{ shape: win-pane, label: "_Published Oct 27, 2025, 05:25 PM_
+Trump says he underwent an mri examination" }
+TdragnfitirsPd@{ shape: win-pane, label: "_Published Jan 21, 2025, 01:02 AM_
+Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
+Tpsrmtioutv@{ shape: win-pane, label: "_Published Jan 20, 2025, 05:54 AM_
+Trump promises harsh immigration limits on inauguration eve" }
+SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
+Storming of us capitol: timeline of key events in washington" }
+TkieiraTvond@{ shape: win-pane, label: "_Published Jan 19, 2025, 11:30 PM_
+Tiktok says it is restoring service after trump vows to extend deadline" }
+TttSecaaxhue@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:40 AM_
+Trump threatens us trade policy of ‘tariff and tax’ on other countries" }
+Fgohesrtftso@{ shape: win-pane, label: "_Published Jan 18, 2025, 05:00 AM_
+Facing a flood of chinese goods and trump’s tariffs, what can asean do?" }
+TdragnfitirsPd@{ shape: win-pane, label: "_Published Jan 21, 2025, 01:02 AM_
+Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
+Thraylty@{ shape: win-pane, label: "_Published Oct 11, 2025, 11:00 AM_
+Trump, 79, has ‘cardiac age’ of 65-year-old, doctor says" }
+Tgemacha@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:24 PM_
+Trump, 79, gets second medical check-up this year" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
 IbhahrnrccidraHs@{ shape: win-pane, label: "_Published Jul 22, 2024, 01:59 AM_
 ‘it has been the greatest honour’: biden ends re-election campaign and endorses kamala harris" }
-WaHscwbaUtfsi@{ shape: win-pane, label: "_Published Jul 21, 2024, 10:29 PM_
-With kamala harris, democrats would bet against us history of sexism, racism" }
-TCoroaclaoim@{ shape: win-pane, label: "_Published Aug 22, 2025, 11:45 AM_
-Texas, california race to redraw electoral maps ahead of us midterms" }
-TRlsoucosattami@{ shape: win-pane, label: "_Published Aug 21, 2025, 02:11 AM_
-Texas republicans approve trump-backed congressional map to protect party’s majority" }
-WHlhkctTsgoi@{ shape: win-pane, label: "_Published Aug 20, 2025, 06:19 AM_
-White house launches tiktok account with trump saying ‘i am your voice’" }
-Tboabiisuo@{ shape: win-pane, label: "_Published Aug 21, 2025, 01:19 AM_
-Trump buys more than $128m in bonds in office, disclosure shows" }
-Tvoellaotlo@{ shape: win-pane, label: "_Published Aug 18, 2025, 08:15 PM_
-Trump vows to target mail-in ballots ahead of midterm election" }
-Tsugwihnvlt@{ shape: win-pane, label: "_Published Aug 16, 2025, 12:34 PM_
-Trump says putin agrees with him us should not have mail-in voting" }
+Ttehamauon@{ shape: win-pane, label: "_Published Oct 09, 2025, 11:16 AM_
+Trump to undergo physical exam as health questions linger" }
+Tdoiidniglho@{ shape: win-pane, label: "_Published Jul 18, 2025, 02:46 AM_
+Trump diagnosed with vein condition causing leg swelling: white house" }
+IbhahrnrccidraHs@{ shape: win-pane, label: "_Published Jul 22, 2024, 01:59 AM_
+‘it has been the greatest honour’: biden ends re-election campaign and endorses kamala harris" }
 
-Tserrpdnen:::txtsize --> Kaiiiweoiriimn:::txtsize
-Kaiiiweoiriimn:::txtsize --> TocalEoaipvngs:::txtsize
-TocalEoaipvngs:::txtsize --> TsbchioUdetne:::txtsize
-TocalEoaipvngs:::txtsize --> Tbesrebede:::txtsize
-Kaiiiweoiriimn:::txtsize --> IbhahrnrccidraHs:::txtsize
-IbhahrnrccidraHs:::txtsize --> WaHscwbaUtfsi:::txtsize
-Tserrpdnen:::txtsize --> TCoroaclaoim:::txtsize
-TCoroaclaoim:::txtsize --> TRlsoucosattami:::txtsize
-TRlsoucosattami:::txtsize --> WHlhkctTsgoi:::txtsize
-TRlsoucosattami:::txtsize --> Tboabiisuo:::txtsize
-TCoroaclaoim:::txtsize --> Tvoellaotlo:::txtsize
-Tvoellaotlo:::txtsize --> Tsugwihnvlt:::txtsize
-
-TytreIbamflaie@{ shape: win-pane, label: "_Published Oct 27, 2025, 02:05 PM_
-Turkey court orders arrest of istanbul’s jailed mayor for ‘political espionage’" }
-Tytyioilrpir@{ shape: win-pane, label: "_Published Sep 15, 2025, 01:26 PM_
-Turkey court delays ruling on opposition leader amid political crisis" }
-Tyrentlratirobtis@{ shape: win-pane, label: "_Published Sep 13, 2025, 04:20 PM_
-Turkey orders detention of istanbul district mayor, others in corruption probe, state media says" }
-Asoerntsrdrneia@{ shape: win-pane, label: "_Published Sep 08, 2025, 02:01 PM_
-Access to x, youtube other online platforms restricted in turkey, internet monitor says" }
-Tyerztnafpogr@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:45 PM_
-Turkey prosecutors seize 3 tv stations as part of fraud probe of conglomerate" }
-Tyerztnafpogr@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:45 PM_
-Turkey prosecutors seize 3 tv stations as part of fraud probe of conglomerate" }
-Asoerntsrdrneia@{ shape: win-pane, label: "_Published Sep 08, 2025, 02:01 PM_
-Access to x, youtube other online platforms restricted in turkey, internet monitor says" }
-Igldror@{ shape: win-pane, label: "_Published Aug 04, 2024, 03:40 PM_
-Instagram blocked in turkey for third day" }
-Tyrentlratirobtis@{ shape: win-pane, label: "_Published Sep 13, 2025, 04:20 PM_
-Turkey orders detention of istanbul district mayor, others in corruption probe, state media says" }
-Asoerntsrdrneia@{ shape: win-pane, label: "_Published Sep 08, 2025, 02:01 PM_
-Access to x, youtube other online platforms restricted in turkey, internet monitor says" }
-Asdpooombl@{ shape: win-pane, label: "_Published Sep 08, 2025, 04:11 PM_
-At least 16 dead in nepal protest over social media ban: police" }
-RspelvTrn@{ shape: win-pane, label: "_Published Aug 01, 2025, 08:21 AM_
-Rights groups urge nepal to reverse telegram ban" }
-Tyerztnafpogr@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:45 PM_
-Turkey prosecutors seize 3 tv stations as part of fraud probe of conglomerate" }
-Asoerntsrdrneia@{ shape: win-pane, label: "_Published Sep 08, 2025, 02:01 PM_
-Access to x, youtube other online platforms restricted in turkey, internet monitor says" }
-Igldror@{ shape: win-pane, label: "_Published Aug 04, 2024, 03:40 PM_
-Instagram blocked in turkey for third day" }
-
-TytreIbamflaie:::txtsize --> Tytyioilrpir:::txtsize
-Tytyioilrpir:::txtsize --> Tyrentlratirobtis:::txtsize
-Tyrentlratirobtis:::txtsize --> Asoerntsrdrneia:::txtsize
-Tyrentlratirobtis:::txtsize --> Tyerztnafpogr:::txtsize
-Tytyioilrpir:::txtsize --> Tyerztnafpogr:::txtsize
-Tyerztnafpogr:::txtsize --> Asoerntsrdrneia:::txtsize
-Tyerztnafpogr:::txtsize --> Igldror:::txtsize
-TytreIbamflaie:::txtsize --> Tyrentlratirobtis:::txtsize
-Tyrentlratirobtis:::txtsize --> Asoerntsrdrneia:::txtsize
-Asoerntsrdrneia:::txtsize --> Asdpooombl:::txtsize
-Asoerntsrdrneia:::txtsize --> RspelvTrn:::txtsize
-Tyrentlratirobtis:::txtsize --> Tyerztnafpogr:::txtsize
-Tyerztnafpogr:::txtsize --> Asoerntsrdrneia:::txtsize
-Tyerztnafpogr:::txtsize --> Igldror:::txtsize
-
-Mhftasrcrssi@{ shape: win-pane, label: "_Published Oct 27, 2025, 12:35 PM_
-More than 8,000 us flights delayed as air traffic control absences persist" }
-Sisaeaithws@{ shape: win-pane, label: "_Published Oct 07, 2025, 07:49 AM_
-Staffing issues cause delays at us airports as shutdown persists" }
-SKnortiottkontl@{ shape: win-pane, label: "_Published Sep 12, 2025, 12:45 PM_
-South korean airport workers to strike from sept 19 to oct 9, sparking concerns for travellers" }
-MoLnronitsoeure@{ shape: win-pane, label: "_Published Sep 08, 2025, 07:48 AM_
-Millions of londoners brace for transit disruption as london underground strike begins" }
-Ydroobndenagnnd@{ shape: win-pane, label: "_Published Sep 08, 2025, 10:16 AM_
-Young doctors in south korea abandon residencies, open dermatology clinics instead" }
-Utdohisig@{ shape: win-pane, label: "_Published Oct 27, 2025, 10:30 AM_
-Us govt shutdown poker: which side has the winning hand?" }
-Tsodpienmeifun@{ shape: win-pane, label: "_Published Oct 21, 2025, 07:15 PM_
-Trump’s approval edges up despite americans blaming republicans for shutdown" }
-Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
-Us government begins shutdown that may lead to mass layoffs and cuts" }
-MaegbeSthwn@{ shape: win-pane, label: "_Published Oct 17, 2025, 04:48 AM_
-Military spending bill blocked in us senate as shutdown grinds on" }
-Utrrscdolre@{ shape: win-pane, label: "_Published Sep 18, 2025, 10:19 PM_
-Us shutdown risks rise as democrats dig in on healthcare fixes" }
-twrHheKdneg@{ shape: win-pane, label: "_Published Sep 05, 2025, 08:02 AM_
-5 takeaways from us health secretary kennedy’s senate hearing" }
-MaulStryeso@{ shape: win-pane, label: "_Published Sep 04, 2025, 10:20 AM_
-Medical groups call on us health secretary kennedy to step down" }
-
-Mhftasrcrssi:::txtsize --> Sisaeaithws:::txtsize
-Sisaeaithws:::txtsize --> SKnortiottkontl:::txtsize
-SKnortiottkontl:::txtsize --> MoLnronitsoeure:::txtsize
-SKnortiottkontl:::txtsize --> Ydroobndenagnnd:::txtsize
-Mhftasrcrssi:::txtsize --> Utdohisig:::txtsize
-Utdohisig:::txtsize --> Tsodpienmeifun:::txtsize
-Tsodpienmeifun:::txtsize --> Ueniunmaayat:::txtsize
-Tsodpienmeifun:::txtsize --> MaegbeSthwn:::txtsize
-Utdohisig:::txtsize --> Utrrscdolre:::txtsize
-Utrrscdolre:::txtsize --> twrHheKdneg:::txtsize
-Utrrscdolre:::txtsize --> MaulStryeso:::txtsize
+Tseraenn:::txtsize --> TdragnfitirsPd:::txtsize
+TdragnfitirsPd:::txtsize --> Tpsrmtioutv:::txtsize
+Tpsrmtioutv:::txtsize --> SiUiinenWn:::txtsize
+Tpsrmtioutv:::txtsize --> TkieiraTvond:::txtsize
+TdragnfitirsPd:::txtsize --> TttSecaaxhue:::txtsize
+TttSecaaxhue:::txtsize --> Fgohesrtftso:::txtsize
+TttSecaaxhue:::txtsize --> TdragnfitirsPd:::txtsize
+Tseraenn:::txtsize --> Thraylty:::txtsize
+Thraylty:::txtsize --> Tgemacha:::txtsize
+Tgemacha:::txtsize --> TssHaossaaorslaoe:::txtsize
+Tgemacha:::txtsize --> IbhahrnrccidraHs:::txtsize
+Thraylty:::txtsize --> Ttehamauon:::txtsize
+Ttehamauon:::txtsize --> Tdoiidniglho:::txtsize
+Ttehamauon:::txtsize --> IbhahrnrccidraHs:::txtsize
 
 ```
-<i>Last updated: 2025-10-27 16:00:52.512778 (GMT+8)</i>
+<i>Last updated: 2025-10-27 20:00:26.837057 (GMT+8)</i>
 <!-- END -->
