@@ -16,108 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Kneyonirse@{ shape: win-pane, label: "_Published Oct 28, 2025, 07:30 PM_
-Kenyan plane carrying foreign tourists crashes, 11 killed" }
-Cpssuigknarf@{ shape: win-pane, label: "_Published Oct 20, 2025, 06:53 AM_
-Cargo plane slides off runway in hong kong, killing two airport staff" }
-JistaeeuaBg@{ shape: win-pane, label: "_Published Oct 16, 2025, 10:55 AM_
-Jeju air crash victims’ families file lawsuit against boeing" }
-Jinspniteooma@{ shape: win-pane, label: "_Published Dec 29, 2024, 08:58 AM_
-Jeju air plane crashes upon landing in south korea, 179 on board confirmed dead" }
-Enojpsosanbehcs@{ shape: win-pane, label: "_Published Jul 21, 2025, 02:27 PM_
-Evidence shows jeju air pilots shut off less-damaged engine before crash, source says" }
-SlRyrsnwawort@{ shape: win-pane, label: "_Published Jan 03, 2024, 08:45 PM_
-St explains: runway incursions around the world and how airports prevent them" }
-JAniaaobeydpoi@{ shape: win-pane, label: "_Published Jan 03, 2024, 08:00 AM_
-Japan airlines flight was cleared to land before fiery haneda airport collision" }
-Jrsaifloaln@{ shape: win-pane, label: "_Published Jan 03, 2024, 12:29 PM_
-Japan releases transcripts of fatal tokyo runway collision" }
-Troisnnr@{ shape: win-pane, label: "_Published Jun 12, 2025, 09:39 PM_
-The world’s worst air crashes in recent years" }
-Lndnliondhoee@{ shape: win-pane, label: "_Published Jun 12, 2025, 04:50 PM_
-London-bound air india plane with 242 people on board crashes soon after take-off" }
-Adariolsacer@{ shape: win-pane, label: "_Published Jun 12, 2025, 11:20 PM_
-Air india crash: bird strike a possible cause as mayday call being probed" }
-Medfmaljltlaathoe@{ shape: win-pane, label: "_Published Jan 30, 2025, 11:14 AM_
-Many feared dead after american airlines jet, helicopter collide and crash into washington river" }
-Uuawniienthtoi@{ shape: win-pane, label: "_Published Jan 30, 2025, 04:44 PM_
-Us figure skaters were on american airlines plane that crashed into potomac river" }
+CbifdtrstBtcaur@{ shape: win-pane, label: "_Published Oct 28, 2025, 11:55 PM_
+Cyberbullying affected health of france’s first lady brigitte macron, says daughter" }
+FhiMnUlermhfba@{ shape: win-pane, label: "_Published Jul 24, 2025, 12:08 AM_
+French president macron sues us influencer over claim that his wife was born male" }
+Fesyiaaeavlanl@{ shape: win-pane, label: "_Published Sep 12, 2024, 10:54 PM_
+France’s first lady brigitte macron awarded damages over false transgender claim" }
+Fesysowyri@{ shape: win-pane, label: "_Published Sep 11, 2024, 03:38 AM_
+France's first lady makes cameo in new emily in paris episode" }
+FairnggaFLrtr@{ shape: win-pane, label: "_Published Dec 13, 2024, 02:08 AM_
+Four face trial for online targeting of france’s first lady brigitte macron" }
+Fesyiaaeavlanl@{ shape: win-pane, label: "_Published Sep 12, 2024, 10:54 PM_
+France’s first lady brigitte macron awarded damages over false transgender claim" }
+Fesyiaaeavlanl@{ shape: win-pane, label: "_Published Sep 12, 2024, 10:54 PM_
+France’s first lady brigitte macron awarded damages over false transgender claim" }
+Fesyiaaeavlanl@{ shape: win-pane, label: "_Published Sep 12, 2024, 10:54 PM_
+France’s first lady brigitte macron awarded damages over false transgender claim" }
+Fesysowyri@{ shape: win-pane, label: "_Published Sep 11, 2024, 03:38 AM_
+France's first lady makes cameo in new emily in paris episode" }
+NiiPrnfhohilnsef@{ shape: win-pane, label: "_Published Aug 16, 2024, 04:00 PM_
+Netflix’s emily in paris returns for fourth season with messier relationships, wilder outfits" }
+BnmoraeHndhohn@{ shape: win-pane, label: "_Published Sep 10, 2024, 11:00 AM_
+Born into fame, bono’s actress daughter eve hewson could soon have more of her own" }
 
-Kneyonirse:::txtsize --> Cpssuigknarf:::txtsize
-Cpssuigknarf:::txtsize --> JistaeeuaBg:::txtsize
-JistaeeuaBg:::txtsize --> Jinspniteooma:::txtsize
-JistaeeuaBg:::txtsize --> Enojpsosanbehcs:::txtsize
-Cpssuigknarf:::txtsize --> SlRyrsnwawort:::txtsize
-SlRyrsnwawort:::txtsize --> JAniaaobeydpoi:::txtsize
-SlRyrsnwawort:::txtsize --> Jrsaifloaln:::txtsize
-Kneyonirse:::txtsize --> Troisnnr:::txtsize
-Troisnnr:::txtsize --> Lndnliondhoee:::txtsize
-Lndnliondhoee:::txtsize --> Adariolsacer:::txtsize
-Troisnnr:::txtsize --> Medfmaljltlaathoe:::txtsize
-Medfmaljltlaathoe:::txtsize --> Uuawniienthtoi:::txtsize
+CbifdtrstBtcaur:::txtsize --> FhiMnUlermhfba:::txtsize
+FhiMnUlermhfba:::txtsize --> Fesyiaaeavlanl:::txtsize
+Fesyiaaeavlanl:::txtsize --> Fesysowyri:::txtsize
+FhiMnUlermhfba:::txtsize --> FairnggaFLrtr:::txtsize
+FairnggaFLrtr:::txtsize --> Fesyiaaeavlanl:::txtsize
+FairnggaFLrtr:::txtsize --> Fesyiaaeavlanl:::txtsize
+CbifdtrstBtcaur:::txtsize --> Fesyiaaeavlanl:::txtsize
+Fesyiaaeavlanl:::txtsize --> Fesysowyri:::txtsize
+Fesysowyri:::txtsize --> NiiPrnfhohilnsef:::txtsize
+Fesysowyri:::txtsize --> BnmoraeHndhohn:::txtsize
 
-NyarisaHhoeseimnt@{ shape: win-pane, label: "_Published Oct 28, 2025, 07:30 PM_
-Netanyahu says israel will respond after hamas hands over remains not belonging to missing hostages" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
-Singapore strongly condemns terror attacks on israel, calls for end to violence" }
-Hnruosd@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:32 AM_
-How donald trump pulled off his gaza deal" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Mmenwniuaa@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:36 AM_
-Muslim states join eu powers in backing trump’s gaza plan" }
+Heaacossdahwts@{ shape: win-pane, label: "_Published Oct 28, 2025, 11:40 PM_
+Hundreds of air traffic controllers take second jobs as us shutdown continues" }
+Utittnfcaaft@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:05 AM_
+Us air traffic control staffing hit for second day, delaying flights" }
+Sisaeaithws@{ shape: win-pane, label: "_Published Oct 07, 2025, 07:49 AM_
+Staffing issues cause delays at us airports as shutdown persists" }
+SKnortiottkontl@{ shape: win-pane, label: "_Published Sep 12, 2025, 12:45 PM_
+South korean airport workers to strike from sept 19 to oct 9, sparking concerns for travellers" }
+Fyifolfscngl@{ shape: win-pane, label: "_Published Oct 20, 2025, 08:12 AM_
+Faa says us air traffic control staffing issues causing flight delays" }
+Waswhomhw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:42 PM_
+What happens next with the us government shutdown?" }
+TsSrtpbun@{ shape: win-pane, label: "_Published Oct 01, 2025, 01:49 AM_
+Trump says us government will ‘probably’ shut down" }
+Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
+Us government begins shutdown that may lead to mass layoffs and cuts" }
+Ugbttoaphesd@{ shape: win-pane, label: "_Published Sep 29, 2025, 08:35 AM_
+Us congress budget negotiations: what happens when the govt shuts down?" }
+RlsDroeorleomp@{ shape: win-pane, label: "_Published Sep 29, 2025, 12:28 AM_
+Republicans urge democrats to agree to short-term bill to keep us government open" }
+Ttscaemafveun@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:50 AM_
+Threat of mass job cuts raises economic stakes of us government shutdown" }
 
-NyarisaHhoeseimnt:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-WzptIleint:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
-Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
-NyarisaHhoeseimnt:::txtsize --> Hnruosd:::txtsize
-Hnruosd:::txtsize --> Tseaupoabmrnluo:::txtsize
-Tseaupoabmrnluo:::txtsize --> AtHfezerydatoGel:::txtsize
-Tseaupoabmrnluo:::txtsize --> Mmenwniuaa:::txtsize
+Heaacossdahwts:::txtsize --> Utittnfcaaft:::txtsize
+Utittnfcaaft:::txtsize --> Sisaeaithws:::txtsize
+Sisaeaithws:::txtsize --> SKnortiottkontl:::txtsize
+Heaacossdahwts:::txtsize --> Fyifolfscngl:::txtsize
+Fyifolfscngl:::txtsize --> Waswhomhw:::txtsize
+Waswhomhw:::txtsize --> TsSrtpbun:::txtsize
+Waswhomhw:::txtsize --> Ueniunmaayat:::txtsize
+Fyifolfscngl:::txtsize --> Ugbttoaphesd:::txtsize
+Ugbttoaphesd:::txtsize --> RlsDroeorleomp:::txtsize
+Ugbttoaphesd:::txtsize --> Ttscaemafveun:::txtsize
 
-Zsyvyeaulerr@{ shape: win-pane, label: "_Published Oct 28, 2025, 05:25 PM_
-Zelensky says kyiv ready for peace talks, but will not cede territory" }
-Tsswuwuatd@{ shape: win-pane, label: "_Published Oct 21, 2025, 01:15 PM_
-Trump’s hopes for swift summit with putin may be stalled: cnn" }
-Tttndtrttcke@{ shape: win-pane, label: "_Published Oct 16, 2025, 11:15 PM_
-Trump to meet putin in budapest after ‘great’ call to discuss ukraine" }
-Twarntceydtpni@{ shape: win-pane, label: "_Published Aug 16, 2025, 11:00 AM_
-Takeaways: warm words contrast with cold reality of no deal at trump-putin summit" }
-Wramldirieke@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:35 PM_
-What are tomahawk missiles and why might trump give them to ukraine?" }
-Tsswuwuatd@{ shape: win-pane, label: "_Published Oct 21, 2025, 01:15 PM_
-Trump’s hopes for swift summit with putin may be stalled: cnn" }
-Tttndtrttcke@{ shape: win-pane, label: "_Published Oct 16, 2025, 11:15 PM_
-Trump to meet putin in budapest after ‘great’ call to discuss ukraine" }
-Twarntceydtpni@{ shape: win-pane, label: "_Published Aug 16, 2025, 11:00 AM_
-Takeaways: warm words contrast with cold reality of no deal at trump-putin summit" }
-Wramldirieke@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:35 PM_
-What are tomahawk missiles and why might trump give them to ukraine?" }
+Hammetasfsp@{ shape: win-pane, label: "_Published Oct 28, 2025, 09:46 PM_
+How a naples museum protects its treasures with forensic mapping" }
+Tssueardeona@{ shape: win-pane, label: "_Published Oct 26, 2025, 05:45 PM_
+Two suspects in louvre heist case arrested by french police near paris" }
+LefeVfeei@{ shape: win-pane, label: "_Published Oct 23, 2025, 12:47 AM_
+Louvre chief blames cctv gaps for $130m jewellery heist" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+LesuFhnlib@{ shape: win-pane, label: "_Published Oct 22, 2025, 09:30 AM_
+Louvre tours featuring french crown jewels now in doubt" }
+LesjsnrahRp@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:20 PM_
+Louvre transfers jewels to bank of france after heist, rtl reports" }
+PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
+Paris’ louvre museum robbery: what jewels did the thieves steal?" }
+FeiDmaLet@{ shape: win-pane, label: "_Published Oct 24, 2025, 08:11 AM_
+France examining dna samples after louvre heist" }
+Gnahrieohlhci@{ shape: win-pane, label: "_Published Oct 24, 2025, 01:32 PM_
+German company behind truck-lift used in louvre heist launches ad campaign" }
+LeePOhretmu@{ shape: win-pane, label: "_Published Oct 20, 2025, 01:01 AM_
+Louvre robbery in paris: other high-profile heists from museums" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
+Paris’ louvre museum robbery: what jewels did the thieves steal?" }
+FeiDmaLet@{ shape: win-pane, label: "_Published Oct 24, 2025, 08:11 AM_
+France examining dna samples after louvre heist" }
+PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
+Paris’ louvre museum robbery: what jewels did the thieves steal?" }
+LefeVfeei@{ shape: win-pane, label: "_Published Oct 23, 2025, 12:47 AM_
+Louvre chief blames cctv gaps for $130m jewellery heist" }
 
-Zsyvyeaulerr:::txtsize --> Tsswuwuatd:::txtsize
-Tsswuwuatd:::txtsize --> Tttndtrttcke:::txtsize
-Tttndtrttcke:::txtsize --> Twarntceydtpni:::txtsize
-Tttndtrttcke:::txtsize --> Wramldirieke:::txtsize
-Zsyvyeaulerr:::txtsize --> Tsswuwuatd:::txtsize
-Tsswuwuatd:::txtsize --> Tttndtrttcke:::txtsize
-Tttndtrttcke:::txtsize --> Twarntceydtpni:::txtsize
-Tttndtrttcke:::txtsize --> Wramldirieke:::txtsize
+Hammetasfsp:::txtsize --> Tssueardeona:::txtsize
+Tssueardeona:::txtsize --> LefeVfeei:::txtsize
+LefeVfeei:::txtsize --> Ptineluiisey:::txtsize
+LefeVfeei:::txtsize --> LesuFhnlib:::txtsize
+Tssueardeona:::txtsize --> LesjsnrahRp:::txtsize
+LesjsnrahRp:::txtsize --> PLeubhwitea:::txtsize
+LesjsnrahRp:::txtsize --> FeiDmaLet:::txtsize
+Hammetasfsp:::txtsize --> Gnahrieohlhci:::txtsize
+Gnahrieohlhci:::txtsize --> LeePOhretmu:::txtsize
+LeePOhretmu:::txtsize --> Ptineluiisey:::txtsize
+LeePOhretmu:::txtsize --> PLeubhwitea:::txtsize
+Gnahrieohlhci:::txtsize --> FeiDmaLet:::txtsize
+FeiDmaLet:::txtsize --> PLeubhwitea:::txtsize
+FeiDmaLet:::txtsize --> LefeVfeei:::txtsize
 
 ```
-<i>Last updated: 2025-10-28 20:00:49.782976 (GMT+8)</i>
+<i>Last updated: 2025-10-29 00:01:14.663913 (GMT+8)</i>
 <!-- END -->
