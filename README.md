@@ -16,120 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-CbifdtrstBtcaur@{ shape: win-pane, label: "_Published Oct 28, 2025, 11:55 PM_
-Cyberbullying affected health of france’s first lady brigitte macron, says daughter" }
-FhiMnUlermhfba@{ shape: win-pane, label: "_Published Jul 24, 2025, 12:08 AM_
-French president macron sues us influencer over claim that his wife was born male" }
-Fesyiaaeavlanl@{ shape: win-pane, label: "_Published Sep 12, 2024, 10:54 PM_
-France’s first lady brigitte macron awarded damages over false transgender claim" }
-Fesysowyri@{ shape: win-pane, label: "_Published Sep 11, 2024, 03:38 AM_
-France's first lady makes cameo in new emily in paris episode" }
-FairnggaFLrtr@{ shape: win-pane, label: "_Published Dec 13, 2024, 02:08 AM_
-Four face trial for online targeting of france’s first lady brigitte macron" }
-Fesyiaaeavlanl@{ shape: win-pane, label: "_Published Sep 12, 2024, 10:54 PM_
-France’s first lady brigitte macron awarded damages over false transgender claim" }
-Fesyiaaeavlanl@{ shape: win-pane, label: "_Published Sep 12, 2024, 10:54 PM_
-France’s first lady brigitte macron awarded damages over false transgender claim" }
-Fesyiaaeavlanl@{ shape: win-pane, label: "_Published Sep 12, 2024, 10:54 PM_
-France’s first lady brigitte macron awarded damages over false transgender claim" }
-Fesysowyri@{ shape: win-pane, label: "_Published Sep 11, 2024, 03:38 AM_
-France's first lady makes cameo in new emily in paris episode" }
-NiiPrnfhohilnsef@{ shape: win-pane, label: "_Published Aug 16, 2024, 04:00 PM_
-Netflix’s emily in paris returns for fourth season with messier relationships, wilder outfits" }
-BnmoraeHndhohn@{ shape: win-pane, label: "_Published Sep 10, 2024, 11:00 AM_
-Born into fame, bono’s actress daughter eve hewson could soon have more of her own" }
+Ilnrateaureak@{ shape: win-pane, label: "_Published Oct 29, 2025, 03:41 AM_
+Israeli planes strike gaza city after netanyahu orders ‘powerful attacks’" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
+Israel marks oct 7 anniversary as talks are held to end gaza war" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+Hatmzcnhodro@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:11 PM_
+Hamas accepts trump’s gaza peace plan, but the bloodshed is far from over" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
 
-CbifdtrstBtcaur:::txtsize --> FhiMnUlermhfba:::txtsize
-FhiMnUlermhfba:::txtsize --> Fesyiaaeavlanl:::txtsize
-Fesyiaaeavlanl:::txtsize --> Fesysowyri:::txtsize
-FhiMnUlermhfba:::txtsize --> FairnggaFLrtr:::txtsize
-FairnggaFLrtr:::txtsize --> Fesyiaaeavlanl:::txtsize
-FairnggaFLrtr:::txtsize --> Fesyiaaeavlanl:::txtsize
-CbifdtrstBtcaur:::txtsize --> Fesyiaaeavlanl:::txtsize
-Fesyiaaeavlanl:::txtsize --> Fesysowyri:::txtsize
-Fesysowyri:::txtsize --> NiiPrnfhohilnsef:::txtsize
-Fesysowyri:::txtsize --> BnmoraeHndhohn:::txtsize
+Ilnrateaureak:::txtsize --> TssHaossaaorslaoe:::txtsize
+TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
+Ilsnrakhoar:::txtsize --> Sbsrcdnacaale:::txtsize
+Ilsnrakhoar:::txtsize --> Hatmzcnhodro:::txtsize
+TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Ilnrateaureak:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
 
-Heaacossdahwts@{ shape: win-pane, label: "_Published Oct 28, 2025, 11:40 PM_
-Hundreds of air traffic controllers take second jobs as us shutdown continues" }
-Utittnfcaaft@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:05 AM_
-Us air traffic control staffing hit for second day, delaying flights" }
-Sisaeaithws@{ shape: win-pane, label: "_Published Oct 07, 2025, 07:49 AM_
-Staffing issues cause delays at us airports as shutdown persists" }
-SKnortiottkontl@{ shape: win-pane, label: "_Published Sep 12, 2025, 12:45 PM_
-South korean airport workers to strike from sept 19 to oct 9, sparking concerns for travellers" }
-Fyifolfscngl@{ shape: win-pane, label: "_Published Oct 20, 2025, 08:12 AM_
-Faa says us air traffic control staffing issues causing flight delays" }
-Waswhomhw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:42 PM_
-What happens next with the us government shutdown?" }
-TsSrtpbun@{ shape: win-pane, label: "_Published Oct 01, 2025, 01:49 AM_
-Trump says us government will ‘probably’ shut down" }
-Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
-Us government begins shutdown that may lead to mass layoffs and cuts" }
-Ugbttoaphesd@{ shape: win-pane, label: "_Published Sep 29, 2025, 08:35 AM_
-Us congress budget negotiations: what happens when the govt shuts down?" }
-RlsDroeorleomp@{ shape: win-pane, label: "_Published Sep 29, 2025, 12:28 AM_
-Republicans urge democrats to agree to short-term bill to keep us government open" }
-Ttscaemafveun@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:50 AM_
-Threat of mass job cuts raises economic stakes of us government shutdown" }
+TslyarstoiuIpi@{ shape: win-pane, label: "_Published Oct 29, 2025, 01:45 AM_
+Trump’s popularity dips as americans sweat cost of living, reuters/ipsos poll finds" }
+Cenmvetr@{ shape: win-pane, label: "_Published Oct 27, 2025, 08:56 PM_
+Can president trump serve more than two terms?" }
+Trocstiwloorm@{ shape: win-pane, label: "_Published Oct 27, 2025, 03:41 PM_
+Trump rules out vice-president gambit but would ‘love to’ run for third term" }
+TdragnfitirsPd@{ shape: win-pane, label: "_Published Jan 21, 2025, 01:02 AM_
+Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
+Kaiiiweoiriimn@{ shape: win-pane, label: "_Published Oct 26, 2025, 11:00 PM_
+Kamala harris, california’s newsom begin jockeying for 2028 presidential campaigns" }
+IbhahrnrccidraHs@{ shape: win-pane, label: "_Published Jul 22, 2024, 01:59 AM_
+‘it has been the greatest honour’: biden ends re-election campaign and endorses kamala harris" }
+WaHscwbaUtfsi@{ shape: win-pane, label: "_Published Jul 21, 2024, 10:29 PM_
+With kamala harris, democrats would bet against us history of sexism, racism" }
 
-Heaacossdahwts:::txtsize --> Utittnfcaaft:::txtsize
-Utittnfcaaft:::txtsize --> Sisaeaithws:::txtsize
-Sisaeaithws:::txtsize --> SKnortiottkontl:::txtsize
-Heaacossdahwts:::txtsize --> Fyifolfscngl:::txtsize
-Fyifolfscngl:::txtsize --> Waswhomhw:::txtsize
-Waswhomhw:::txtsize --> TsSrtpbun:::txtsize
-Waswhomhw:::txtsize --> Ueniunmaayat:::txtsize
-Fyifolfscngl:::txtsize --> Ugbttoaphesd:::txtsize
-Ugbttoaphesd:::txtsize --> RlsDroeorleomp:::txtsize
-Ugbttoaphesd:::txtsize --> Ttscaemafveun:::txtsize
+TslyarstoiuIpi:::txtsize --> Cenmvetr:::txtsize
+Cenmvetr:::txtsize --> Trocstiwloorm:::txtsize
+Trocstiwloorm:::txtsize --> TdragnfitirsPd:::txtsize
+Trocstiwloorm:::txtsize --> Kaiiiweoiriimn:::txtsize
+Cenmvetr:::txtsize --> IbhahrnrccidraHs:::txtsize
+IbhahrnrccidraHs:::txtsize --> WaHscwbaUtfsi:::txtsize
 
-Hammetasfsp@{ shape: win-pane, label: "_Published Oct 28, 2025, 09:46 PM_
-How a naples museum protects its treasures with forensic mapping" }
-Tssueardeona@{ shape: win-pane, label: "_Published Oct 26, 2025, 05:45 PM_
-Two suspects in louvre heist case arrested by french police near paris" }
-LefeVfeei@{ shape: win-pane, label: "_Published Oct 23, 2025, 12:47 AM_
-Louvre chief blames cctv gaps for $130m jewellery heist" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-LesuFhnlib@{ shape: win-pane, label: "_Published Oct 22, 2025, 09:30 AM_
-Louvre tours featuring french crown jewels now in doubt" }
-LesjsnrahRp@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:20 PM_
-Louvre transfers jewels to bank of france after heist, rtl reports" }
-PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
-Paris’ louvre museum robbery: what jewels did the thieves steal?" }
-FeiDmaLet@{ shape: win-pane, label: "_Published Oct 24, 2025, 08:11 AM_
-France examining dna samples after louvre heist" }
-Gnahrieohlhci@{ shape: win-pane, label: "_Published Oct 24, 2025, 01:32 PM_
-German company behind truck-lift used in louvre heist launches ad campaign" }
-LeePOhretmu@{ shape: win-pane, label: "_Published Oct 20, 2025, 01:01 AM_
-Louvre robbery in paris: other high-profile heists from museums" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
-Paris’ louvre museum robbery: what jewels did the thieves steal?" }
-FeiDmaLet@{ shape: win-pane, label: "_Published Oct 24, 2025, 08:11 AM_
-France examining dna samples after louvre heist" }
-PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
-Paris’ louvre museum robbery: what jewels did the thieves steal?" }
-LefeVfeei@{ shape: win-pane, label: "_Published Oct 23, 2025, 12:47 AM_
-Louvre chief blames cctv gaps for $130m jewellery heist" }
+Nselgufexeeov@{ shape: win-pane, label: "_Published Oct 29, 2025, 01:00 AM_
+New us strikes kill 14 alleged drug traffickers, mexico leads rescue of survivor" }
+Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
+Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
+Tseaonencl@{ shape: win-pane, label: "_Published Oct 24, 2025, 05:55 AM_
+Trump says declaration of war not needed on drug cartels" }
+Irseravrrfas@{ shape: win-pane, label: "_Published Oct 17, 2025, 08:00 AM_
+In a first, us strike in caribbean leaves survivors, us official says" }
+Uetvteaenet@{ shape: win-pane, label: "_Published Oct 21, 2025, 11:03 PM_
+Us covert actions ‘violate venezuela’s sovereignty’: un experts" }
+Uisepdvlef@{ shape: win-pane, label: "_Published Oct 23, 2025, 01:07 AM_
+Us military strikes suspected drug vessel in the pacific" }
+TsScersnsrn@{ shape: win-pane, label: "_Published Sep 20, 2025, 09:01 AM_
+Trump says us struck alleged drug vessel in latest operation" }
+Ustmrvllaeraasnt@{ shape: win-pane, label: "_Published Oct 20, 2025, 08:20 AM_
+Us says it hit colombian rebel vessel as colombia condemns trump’s accusations against petro" }
+TcrAotnzrnsou@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:05 AM_
+Trump confirms cia authorisation in venezuela, raising pressure on maduro" }
+Thtniahclgt@{ shape: win-pane, label: "_Published Oct 03, 2025, 05:25 AM_
+Trump has determined us is at war with drug cartels, congress told" }
+CbretcUiittlfiv@{ shape: win-pane, label: "_Published Sep 28, 2025, 09:18 AM_
+Colombian president petro accuses us of violating international law after visa revoked" }
+Aoienempsiroins@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:00 AM_
+At un, colombian president urges ‘criminal process’ against trump for strikes on boats" }
+UuCiboontnls@{ shape: win-pane, label: "_Published Oct 11, 2025, 07:58 AM_
+Un security council members voice concern about us-venezuela tensions" }
 
-Hammetasfsp:::txtsize --> Tssueardeona:::txtsize
-Tssueardeona:::txtsize --> LefeVfeei:::txtsize
-LefeVfeei:::txtsize --> Ptineluiisey:::txtsize
-LefeVfeei:::txtsize --> LesuFhnlib:::txtsize
-Tssueardeona:::txtsize --> LesjsnrahRp:::txtsize
-LesjsnrahRp:::txtsize --> PLeubhwitea:::txtsize
-LesjsnrahRp:::txtsize --> FeiDmaLet:::txtsize
-Hammetasfsp:::txtsize --> Gnahrieohlhci:::txtsize
-Gnahrieohlhci:::txtsize --> LeePOhretmu:::txtsize
-LeePOhretmu:::txtsize --> Ptineluiisey:::txtsize
-LeePOhretmu:::txtsize --> PLeubhwitea:::txtsize
-Gnahrieohlhci:::txtsize --> FeiDmaLet:::txtsize
-FeiDmaLet:::txtsize --> PLeubhwitea:::txtsize
-FeiDmaLet:::txtsize --> LefeVfeei:::txtsize
+Nselgufexeeov:::txtsize --> Uidycceuomasnswee:::txtsize
+Uidycceuomasnswee:::txtsize --> Tseaonencl:::txtsize
+Tseaonencl:::txtsize --> Irseravrrfas:::txtsize
+Tseaonencl:::txtsize --> Uetvteaenet:::txtsize
+Uidycceuomasnswee:::txtsize --> Uisepdvlef:::txtsize
+Uisepdvlef:::txtsize --> TsScersnsrn:::txtsize
+Uisepdvlef:::txtsize --> Ustmrvllaeraasnt:::txtsize
+Nselgufexeeov:::txtsize --> TcrAotnzrnsou:::txtsize
+TcrAotnzrnsou:::txtsize --> Thtniahclgt:::txtsize
+Thtniahclgt:::txtsize --> CbretcUiittlfiv:::txtsize
+Thtniahclgt:::txtsize --> Aoienempsiroins:::txtsize
+TcrAotnzrnsou:::txtsize --> UuCiboontnls:::txtsize
 
 ```
-<i>Last updated: 2025-10-29 00:01:14.663913 (GMT+8)</i>
+<i>Last updated: 2025-10-29 04:00:36.614299 (GMT+8)</i>
 <!-- END -->
