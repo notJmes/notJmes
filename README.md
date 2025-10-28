@@ -16,117 +16,108 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ilcleeilthtpe@{ shape: win-pane, label: "_Published Oct 28, 2025, 03:45 PM_
-Israeli forces kill three palestinian militants in the west bank, police say" }
-SrsioaginBir@{ shape: win-pane, label: "_Published Jun 28, 2025, 09:05 PM_
-Six israelis detained for attacking soldiers in west bank: military" }
-Iltrennplsa@{ shape: win-pane, label: "_Published Jun 26, 2025, 05:35 AM_
-Israeli settlers raid west bank town, troops kill 3 palestinians" }
-YtocrfrhGslignof@{ shape: win-pane, label: "_Published Jun 19, 2025, 08:51 PM_
-‘you either come back carrying food, or in a shroud’: gazans make life-risking journeys to seek food" }
-Iltaenpsosotfs@{ shape: win-pane, label: "_Published Jun 18, 2025, 07:20 PM_
-Israel military raids west bank camps, pressing offensives on multiple fronts" }
-Iltaenpsosotfs@{ shape: win-pane, label: "_Published Jun 18, 2025, 07:20 PM_
-Israel military raids west bank camps, pressing offensives on multiple fronts" }
+Kneyonirse@{ shape: win-pane, label: "_Published Oct 28, 2025, 07:30 PM_
+Kenyan plane carrying foreign tourists crashes, 11 killed" }
+Cpssuigknarf@{ shape: win-pane, label: "_Published Oct 20, 2025, 06:53 AM_
+Cargo plane slides off runway in hong kong, killing two airport staff" }
+JistaeeuaBg@{ shape: win-pane, label: "_Published Oct 16, 2025, 10:55 AM_
+Jeju air crash victims’ families file lawsuit against boeing" }
+Jinspniteooma@{ shape: win-pane, label: "_Published Dec 29, 2024, 08:58 AM_
+Jeju air plane crashes upon landing in south korea, 179 on board confirmed dead" }
+Enojpsosanbehcs@{ shape: win-pane, label: "_Published Jul 21, 2025, 02:27 PM_
+Evidence shows jeju air pilots shut off less-damaged engine before crash, source says" }
+SlRyrsnwawort@{ shape: win-pane, label: "_Published Jan 03, 2024, 08:45 PM_
+St explains: runway incursions around the world and how airports prevent them" }
+JAniaaobeydpoi@{ shape: win-pane, label: "_Published Jan 03, 2024, 08:00 AM_
+Japan airlines flight was cleared to land before fiery haneda airport collision" }
+Jrsaifloaln@{ shape: win-pane, label: "_Published Jan 03, 2024, 12:29 PM_
+Japan releases transcripts of fatal tokyo runway collision" }
+Troisnnr@{ shape: win-pane, label: "_Published Jun 12, 2025, 09:39 PM_
+The world’s worst air crashes in recent years" }
+Lndnliondhoee@{ shape: win-pane, label: "_Published Jun 12, 2025, 04:50 PM_
+London-bound air india plane with 242 people on board crashes soon after take-off" }
+Adariolsacer@{ shape: win-pane, label: "_Published Jun 12, 2025, 11:20 PM_
+Air india crash: bird strike a possible cause as mayday call being probed" }
+Medfmaljltlaathoe@{ shape: win-pane, label: "_Published Jan 30, 2025, 11:14 AM_
+Many feared dead after american airlines jet, helicopter collide and crash into washington river" }
+Uuawniienthtoi@{ shape: win-pane, label: "_Published Jan 30, 2025, 04:44 PM_
+Us figure skaters were on american airlines plane that crashed into potomac river" }
+
+Kneyonirse:::txtsize --> Cpssuigknarf:::txtsize
+Cpssuigknarf:::txtsize --> JistaeeuaBg:::txtsize
+JistaeeuaBg:::txtsize --> Jinspniteooma:::txtsize
+JistaeeuaBg:::txtsize --> Enojpsosanbehcs:::txtsize
+Cpssuigknarf:::txtsize --> SlRyrsnwawort:::txtsize
+SlRyrsnwawort:::txtsize --> JAniaaobeydpoi:::txtsize
+SlRyrsnwawort:::txtsize --> Jrsaifloaln:::txtsize
+Kneyonirse:::txtsize --> Troisnnr:::txtsize
+Troisnnr:::txtsize --> Lndnliondhoee:::txtsize
+Lndnliondhoee:::txtsize --> Adariolsacer:::txtsize
+Troisnnr:::txtsize --> Medfmaljltlaathoe:::txtsize
+Medfmaljltlaathoe:::txtsize --> Uuawniienthtoi:::txtsize
+
+NyarisaHhoeseimnt@{ shape: win-pane, label: "_Published Oct 28, 2025, 07:30 PM_
+Netanyahu says israel will respond after hamas hands over remains not belonging to missing hostages" }
 NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
 Netanyahu declares israel at war as hamas attacks kill over 100" }
-Iltrenlloenoal@{ shape: win-pane, label: "_Published May 24, 2025, 12:36 AM_
-Israeli settlers raid west bank village, close to where pregnant woman was killed" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
+Singapore strongly condemns terror attacks on israel, calls for end to violence" }
+Hnruosd@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:32 AM_
+How donald trump pulled off his gaza deal" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Mmenwniuaa@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:36 AM_
+Muslim states join eu powers in backing trump’s gaza plan" }
 
-Ilcleeilthtpe:::txtsize --> SrsioaginBir:::txtsize
-SrsioaginBir:::txtsize --> Iltrennplsa:::txtsize
-Iltrennplsa:::txtsize --> YtocrfrhGslignof:::txtsize
-Iltrennplsa:::txtsize --> Iltaenpsosotfs:::txtsize
-SrsioaginBir:::txtsize --> Iltaenpsosotfs:::txtsize
-Iltaenpsosotfs:::txtsize --> NyeeawHakl:::txtsize
-Iltaenpsosotfs:::txtsize --> Iltrenlloenoal:::txtsize
+NyarisaHhoeseimnt:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+WzptIleint:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
+Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
+NyarisaHhoeseimnt:::txtsize --> Hnruosd:::txtsize
+Hnruosd:::txtsize --> Tseaupoabmrnluo:::txtsize
+Tseaupoabmrnluo:::txtsize --> AtHfezerydatoGel:::txtsize
+Tseaupoabmrnluo:::txtsize --> Mmenwniuaa:::txtsize
 
-CyeonedkUetpnayc@{ shape: win-pane, label: "_Published Oct 28, 2025, 02:00 PM_
-Creepy masked trio behind attempted ‘break in’ in us were relatives pulling a prank, say police" }
-Yffsbhjnafltg@{ shape: win-pane, label: "_Published Oct 06, 2025, 11:35 AM_
-Youth fined $3,500 for posting bomb threat ‘joke’ on instagram from plane at changi" }
-MobhwonnAabr@{ shape: win-pane, label: "_Published Jun 04, 2025, 06:09 PM_
-Man who made bomb threat while on plane bound for abu dhabi to be charged" }
-Aaceeelimeocltaucp@{ shape: win-pane, label: "_Published Oct 14, 2023, 07:46 AM_
-Australian charged after repeatedly saying ‘bomb’ on perth-bound scoot flight that had to turn back to s’pore" }
-Mawoardtbidpe@{ shape: win-pane, label: "_Published Nov 26, 2024, 12:33 AM_
-Man charged with bomb hoax over incident at us embassy in london, uk police say" }
-Maooraplnge@{ shape: win-pane, label: "_Published Jun 05, 2025, 11:05 AM_
-Man charged over bomb threat made on plane leaving singapore" }
-MobhwonnAabr@{ shape: win-pane, label: "_Published Jun 04, 2025, 06:09 PM_
-Man who made bomb threat while on plane bound for abu dhabi to be charged" }
-msfnamebSftde@{ shape: win-pane, label: "_Published Dec 22, 2023, 03:24 PM_
-6 months’ jail for man who made bomb threat on board scoot flight bound for perth" }
-Teratrlnutiek@{ shape: win-pane, label: "_Published Dec 24, 2024, 04:25 PM_
-Two teenagers, 15 and 16, arrested for involvement in queenstown bicycle prank" }
-PeisiekroQs@{ shape: win-pane, label: "_Published Dec 20, 2024, 06:30 PM_
-Police probing case of bicycles parked across road in queenstown" }
-ChnhstaaevniinnGn@{ shape: win-pane, label: "_Published Dec 23, 2024, 04:31 PM_
-Cabby helping with investigations after accident involving taxi, 2 cyclists in serangoon gardens" }
-MaoldlcslvgtfNlw@{ shape: win-pane, label: "_Published Nov 07, 2024, 03:41 PM_
-Man charged over allegedly killing cyclist while driving against traffic on nicoll highway" }
-Biafudolnui@{ shape: win-pane, label: "_Published Sep 02, 2024, 06:00 PM_
-Bus driver jailed for causing death of cyclist, 18, in yishun accident" }
+Zsyvyeaulerr@{ shape: win-pane, label: "_Published Oct 28, 2025, 05:25 PM_
+Zelensky says kyiv ready for peace talks, but will not cede territory" }
+Tsswuwuatd@{ shape: win-pane, label: "_Published Oct 21, 2025, 01:15 PM_
+Trump’s hopes for swift summit with putin may be stalled: cnn" }
+Tttndtrttcke@{ shape: win-pane, label: "_Published Oct 16, 2025, 11:15 PM_
+Trump to meet putin in budapest after ‘great’ call to discuss ukraine" }
+Twarntceydtpni@{ shape: win-pane, label: "_Published Aug 16, 2025, 11:00 AM_
+Takeaways: warm words contrast with cold reality of no deal at trump-putin summit" }
+Wramldirieke@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:35 PM_
+What are tomahawk missiles and why might trump give them to ukraine?" }
+Tsswuwuatd@{ shape: win-pane, label: "_Published Oct 21, 2025, 01:15 PM_
+Trump’s hopes for swift summit with putin may be stalled: cnn" }
+Tttndtrttcke@{ shape: win-pane, label: "_Published Oct 16, 2025, 11:15 PM_
+Trump to meet putin in budapest after ‘great’ call to discuss ukraine" }
+Twarntceydtpni@{ shape: win-pane, label: "_Published Aug 16, 2025, 11:00 AM_
+Takeaways: warm words contrast with cold reality of no deal at trump-putin summit" }
+Wramldirieke@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:35 PM_
+What are tomahawk missiles and why might trump give them to ukraine?" }
 
-CyeonedkUetpnayc:::txtsize --> Yffsbhjnafltg:::txtsize
-Yffsbhjnafltg:::txtsize --> MobhwonnAabr:::txtsize
-MobhwonnAabr:::txtsize --> Aaceeelimeocltaucp:::txtsize
-MobhwonnAabr:::txtsize --> Mawoardtbidpe:::txtsize
-Yffsbhjnafltg:::txtsize --> Maooraplnge:::txtsize
-Maooraplnge:::txtsize --> MobhwonnAabr:::txtsize
-Maooraplnge:::txtsize --> msfnamebSftde:::txtsize
-CyeonedkUetpnayc:::txtsize --> Teratrlnutiek:::txtsize
-Teratrlnutiek:::txtsize --> PeisiekroQs:::txtsize
-Teratrlnutiek:::txtsize --> ChnhstaaevniinnGn:::txtsize
-ChnhstaaevniinnGn:::txtsize --> MaoldlcslvgtfNlw:::txtsize
-ChnhstaaevniinnGn:::txtsize --> Biafudolnui:::txtsize
-
-Roaritdpysit@{ shape: win-pane, label: "_Published Oct 28, 2025, 01:20 PM_
-Rush-hour train service in scotland disrupted by swan swanning on track" }
-Adpgeifnc@{ shape: win-pane, label: "_Published Oct 27, 2025, 11:45 PM_
-Arson disrupts high-speed train traffic in france" }
-Ctitnsssrc@{ shape: win-pane, label: "_Published Jun 25, 2025, 07:29 PM_
-Cable theft in north france disrupts eurostar traffic" }
-EtauiodFfe@{ shape: win-pane, label: "_Published Jun 11, 2025, 07:04 AM_
-Eurostar plans 5-hour trains from london to frankfurt, geneva" }
-Pnsxinauaip@{ shape: win-pane, label: "_Published Jan 24, 2024, 11:32 AM_
-Passengers snub ‘expensive’ london-paris eurostar train for plane" }
-TateaeblPtso@{ shape: win-pane, label: "_Published Mar 07, 2025, 04:11 PM_
-Thousands stranded as massive wwii bomb blocks paris train station" }
-Lntluscnuac@{ shape: win-pane, label: "_Published Jan 30, 2025, 06:59 AM_
-London’s blitz shelter tunnels to become a new tourist attraction" }
-JtepaWoafrkie@{ shape: win-pane, label: "_Published Oct 04, 2024, 04:16 PM_
-Japan to sweep airports after wwii bomb blast at former ‘kamikaze’ airbase" }
-Tiiptueavrts@{ shape: win-pane, label: "_Published Jul 11, 2025, 05:45 PM_
-Train in india stops for two hours as elephant gives birth on tracks" }
-Isaotleacvier@{ shape: win-pane, label: "_Published Jul 09, 2025, 08:00 PM_
-India’s vatsala, thought to be oldest elephant in captivity, dies aged over 100" }
-Taneaiosii@{ shape: win-pane, label: "_Published Jun 03, 2025, 11:28 AM_
-Trunk-and-run: wild elephant raids grocery store in thailand" }
-Nlershorrnwgluao@{ shape: win-pane, label: "_Published Jun 10, 2025, 05:55 PM_
-Not all heroes wear capes: elephant goes viral for saving drowning gazelle at guatemala zoo" }
-Taneaiosii@{ shape: win-pane, label: "_Published Jun 03, 2025, 11:28 AM_
-Trunk-and-run: wild elephant raids grocery store in thailand" }
-MtdEatcMslletoa@{ shape: win-pane, label: "_Published May 21, 2025, 12:45 PM_
-Mammoth road rage: elephants attack car in malaysia allegedly after getting honked at" }
-Eainfondeai@{ shape: win-pane, label: "_Published Jan 19, 2025, 03:50 PM_
-Elephant frightened by fireworks knocks down 5 people at thai fair" }
-
-Roaritdpysit:::txtsize --> Adpgeifnc:::txtsize
-Adpgeifnc:::txtsize --> Ctitnsssrc:::txtsize
-Ctitnsssrc:::txtsize --> EtauiodFfe:::txtsize
-Ctitnsssrc:::txtsize --> Pnsxinauaip:::txtsize
-Adpgeifnc:::txtsize --> TateaeblPtso:::txtsize
-TateaeblPtso:::txtsize --> Lntluscnuac:::txtsize
-TateaeblPtso:::txtsize --> JtepaWoafrkie:::txtsize
-Roaritdpysit:::txtsize --> Tiiptueavrts:::txtsize
-Tiiptueavrts:::txtsize --> Isaotleacvier:::txtsize
-Isaotleacvier:::txtsize --> Taneaiosii:::txtsize
-Isaotleacvier:::txtsize --> Nlershorrnwgluao:::txtsize
-Tiiptueavrts:::txtsize --> Taneaiosii:::txtsize
-Taneaiosii:::txtsize --> MtdEatcMslletoa:::txtsize
-Taneaiosii:::txtsize --> Eainfondeai:::txtsize
+Zsyvyeaulerr:::txtsize --> Tsswuwuatd:::txtsize
+Tsswuwuatd:::txtsize --> Tttndtrttcke:::txtsize
+Tttndtrttcke:::txtsize --> Twarntceydtpni:::txtsize
+Tttndtrttcke:::txtsize --> Wramldirieke:::txtsize
+Zsyvyeaulerr:::txtsize --> Tsswuwuatd:::txtsize
+Tsswuwuatd:::txtsize --> Tttndtrttcke:::txtsize
+Tttndtrttcke:::txtsize --> Twarntceydtpni:::txtsize
+Tttndtrttcke:::txtsize --> Wramldirieke:::txtsize
 
 ```
-<i>Last updated: 2025-10-28 16:00:25.604549 (GMT+8)</i>
+<i>Last updated: 2025-10-28 20:00:49.782976 (GMT+8)</i>
 <!-- END -->
