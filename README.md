@@ -16,135 +16,117 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-OimasooheSes@{ shape: win-pane, label: "_Published Oct 28, 2025, 10:00 AM_
-Ontario premier says he’s not sorry for ad that blew up us trade talks" }
-Ciuaaaeirctt@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:33 AM_
-Canadians pull reagan tariff ad after furious trump scraps trade talks" }
-Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
-Trump says all trade talks with canada are terminated" }
-Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
-Trump talks up canada trade deal chances with ‘world-class’ carney" }
-Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
-Trump talks up canada trade deal chances with ‘world-class’ carney" }
-Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
-Trump says all trade talks with canada are terminated" }
-Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
-Trump talks up canada trade deal chances with ‘world-class’ carney" }
-Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
-Trump talks up canada trade deal chances with ‘world-class’ carney" }
-TsitfaaOiaddnli@{ shape: win-pane, label: "_Published Oct 26, 2025, 05:04 AM_
-Trump sets 10% hike in tariffs on canada after ontario’s reagan ad aired during world series" }
-Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
-Trump says all trade talks with canada are terminated" }
-Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
-Trump talks up canada trade deal chances with ‘world-class’ carney" }
-Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
-Trump talks up canada trade deal chances with ‘world-class’ carney" }
-Ciuaaaeirctt@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:33 AM_
-Canadians pull reagan tariff ad after furious trump scraps trade talks" }
-Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
-Trump says all trade talks with canada are terminated" }
-Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
-Trump says all trade talks with canada are terminated" }
+Ilcleeilthtpe@{ shape: win-pane, label: "_Published Oct 28, 2025, 03:45 PM_
+Israeli forces kill three palestinian militants in the west bank, police say" }
+SrsioaginBir@{ shape: win-pane, label: "_Published Jun 28, 2025, 09:05 PM_
+Six israelis detained for attacking soldiers in west bank: military" }
+Iltrennplsa@{ shape: win-pane, label: "_Published Jun 26, 2025, 05:35 AM_
+Israeli settlers raid west bank town, troops kill 3 palestinians" }
+YtocrfrhGslignof@{ shape: win-pane, label: "_Published Jun 19, 2025, 08:51 PM_
+‘you either come back carrying food, or in a shroud’: gazans make life-risking journeys to seek food" }
+Iltaenpsosotfs@{ shape: win-pane, label: "_Published Jun 18, 2025, 07:20 PM_
+Israel military raids west bank camps, pressing offensives on multiple fronts" }
+Iltaenpsosotfs@{ shape: win-pane, label: "_Published Jun 18, 2025, 07:20 PM_
+Israel military raids west bank camps, pressing offensives on multiple fronts" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Iltrenlloenoal@{ shape: win-pane, label: "_Published May 24, 2025, 12:36 AM_
+Israeli settlers raid west bank village, close to where pregnant woman was killed" }
 
-OimasooheSes:::txtsize --> Ciuaaaeirctt:::txtsize
-Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
-Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
-Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
-Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
-Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
-Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
-OimasooheSes:::txtsize --> TsitfaaOiaddnli:::txtsize
-TsitfaaOiaddnli:::txtsize --> Tsldkhdtn:::txtsize
-Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
-Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
-TsitfaaOiaddnli:::txtsize --> Ciuaaaeirctt:::txtsize
-Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
-Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
+Ilcleeilthtpe:::txtsize --> SrsioaginBir:::txtsize
+SrsioaginBir:::txtsize --> Iltrennplsa:::txtsize
+Iltrennplsa:::txtsize --> YtocrfrhGslignof:::txtsize
+Iltrennplsa:::txtsize --> Iltaenpsosotfs:::txtsize
+SrsioaginBir:::txtsize --> Iltaenpsosotfs:::txtsize
+Iltaenpsosotfs:::txtsize --> NyeeawHakl:::txtsize
+Iltaenpsosotfs:::txtsize --> Iltrenlloenoal:::txtsize
 
-Euagkihwnoa@{ shape: win-pane, label: "_Published Oct 28, 2025, 09:45 AM_
-Elon musk challenges wikipedia with his own ai encyclopedia" }
-Mxabtgossu@{ shape: win-pane, label: "_Published Jun 18, 2025, 05:01 PM_
-Musk’s xai start-up burns through $1.3b a month as costs pile up" }
-EuAnbotsbounr@{ shape: win-pane, label: "_Published Jun 03, 2025, 01:45 AM_
-Elon musk’s xai launches $6.5 billion debt sale, seeks $146 billion valuation: reports" }
-EuaTaitagute@{ shape: win-pane, label: "_Published May 29, 2025, 09:30 AM_
-Elon musk leaving trump administration, capping turbulent tenure" }
-Mstswlsoo@{ shape: win-pane, label: "_Published May 20, 2025, 07:37 AM_
-Microsoft strikes deal with elon musk to host grok ai" }
-Deesbietns@{ shape: win-pane, label: "_Published Feb 15, 2025, 02:53 AM_
-Dell nears deal to sell about $7b in ai server to elon musk’s xai" }
-Adudarsut@{ shape: win-pane, label: "_Published Feb 12, 2025, 08:15 AM_
-Ai feud: how musk and altman’s partnership turned toxic" }
-OIAnEuoytgoo@{ shape: win-pane, label: "_Published Feb 12, 2025, 02:06 AM_
-Openai’s sam altman says elon musk ‘probably just trying to slow us down’" }
-MxcrOIegee@{ shape: win-pane, label: "_Published Sep 25, 2025, 10:46 PM_
-Musk’s xai accuses rival openai of stealing trade secrets" }
-iavrnoiatkko@{ shape: win-pane, label: "_Published Sep 25, 2025, 02:10 PM_
-1 in 10 retail investors using ai tools like chatgpt to pick stocks: report" }
-AdnsdonilsmdnlKo@{ shape: win-pane, label: "_Published May 19, 2025, 07:40 PM_
-Ai and design will see wider adoption only if tools and systems are designed well: tan kiat how" }
-Mgcasccnbfeos@{ shape: win-pane, label: "_Published Dec 23, 2024, 05:00 AM_
-Meet agentic ai, chatbots that can decide on your behalf – for better or worse" }
-TaebTuttous@{ shape: win-pane, label: "_Published Sep 14, 2025, 04:00 PM_
-They had money problems. they turned to chatgpt for solutions" }
-Hnktnettisoioa@{ shape: win-pane, label: "_Published Aug 13, 2025, 06:00 PM_
-How gen ai like chatgpt enhances critical thinking, instead of making people lazy" }
-Auueeothtfb@{ shape: win-pane, label: "_Published Jul 10, 2025, 05:00 AM_
-Are you ai fluent? here are 4 tips on getting the most out of chatbots" }
+CyeonedkUetpnayc@{ shape: win-pane, label: "_Published Oct 28, 2025, 02:00 PM_
+Creepy masked trio behind attempted ‘break in’ in us were relatives pulling a prank, say police" }
+Yffsbhjnafltg@{ shape: win-pane, label: "_Published Oct 06, 2025, 11:35 AM_
+Youth fined $3,500 for posting bomb threat ‘joke’ on instagram from plane at changi" }
+MobhwonnAabr@{ shape: win-pane, label: "_Published Jun 04, 2025, 06:09 PM_
+Man who made bomb threat while on plane bound for abu dhabi to be charged" }
+Aaceeelimeocltaucp@{ shape: win-pane, label: "_Published Oct 14, 2023, 07:46 AM_
+Australian charged after repeatedly saying ‘bomb’ on perth-bound scoot flight that had to turn back to s’pore" }
+Mawoardtbidpe@{ shape: win-pane, label: "_Published Nov 26, 2024, 12:33 AM_
+Man charged with bomb hoax over incident at us embassy in london, uk police say" }
+Maooraplnge@{ shape: win-pane, label: "_Published Jun 05, 2025, 11:05 AM_
+Man charged over bomb threat made on plane leaving singapore" }
+MobhwonnAabr@{ shape: win-pane, label: "_Published Jun 04, 2025, 06:09 PM_
+Man who made bomb threat while on plane bound for abu dhabi to be charged" }
+msfnamebSftde@{ shape: win-pane, label: "_Published Dec 22, 2023, 03:24 PM_
+6 months’ jail for man who made bomb threat on board scoot flight bound for perth" }
+Teratrlnutiek@{ shape: win-pane, label: "_Published Dec 24, 2024, 04:25 PM_
+Two teenagers, 15 and 16, arrested for involvement in queenstown bicycle prank" }
+PeisiekroQs@{ shape: win-pane, label: "_Published Dec 20, 2024, 06:30 PM_
+Police probing case of bicycles parked across road in queenstown" }
+ChnhstaaevniinnGn@{ shape: win-pane, label: "_Published Dec 23, 2024, 04:31 PM_
+Cabby helping with investigations after accident involving taxi, 2 cyclists in serangoon gardens" }
+MaoldlcslvgtfNlw@{ shape: win-pane, label: "_Published Nov 07, 2024, 03:41 PM_
+Man charged over allegedly killing cyclist while driving against traffic on nicoll highway" }
+Biafudolnui@{ shape: win-pane, label: "_Published Sep 02, 2024, 06:00 PM_
+Bus driver jailed for causing death of cyclist, 18, in yishun accident" }
 
-Euagkihwnoa:::txtsize --> Mxabtgossu:::txtsize
-Mxabtgossu:::txtsize --> EuAnbotsbounr:::txtsize
-EuAnbotsbounr:::txtsize --> EuaTaitagute:::txtsize
-EuAnbotsbounr:::txtsize --> Mstswlsoo:::txtsize
-Mxabtgossu:::txtsize --> Deesbietns:::txtsize
-Deesbietns:::txtsize --> Adudarsut:::txtsize
-Deesbietns:::txtsize --> OIAnEuoytgoo:::txtsize
-Euagkihwnoa:::txtsize --> MxcrOIegee:::txtsize
-MxcrOIegee:::txtsize --> iavrnoiatkko:::txtsize
-iavrnoiatkko:::txtsize --> AdnsdonilsmdnlKo:::txtsize
-iavrnoiatkko:::txtsize --> Mgcasccnbfeos:::txtsize
-MxcrOIegee:::txtsize --> TaebTuttous:::txtsize
-TaebTuttous:::txtsize --> Hnktnettisoioa:::txtsize
-TaebTuttous:::txtsize --> Auueeothtfb:::txtsize
+CyeonedkUetpnayc:::txtsize --> Yffsbhjnafltg:::txtsize
+Yffsbhjnafltg:::txtsize --> MobhwonnAabr:::txtsize
+MobhwonnAabr:::txtsize --> Aaceeelimeocltaucp:::txtsize
+MobhwonnAabr:::txtsize --> Mawoardtbidpe:::txtsize
+Yffsbhjnafltg:::txtsize --> Maooraplnge:::txtsize
+Maooraplnge:::txtsize --> MobhwonnAabr:::txtsize
+Maooraplnge:::txtsize --> msfnamebSftde:::txtsize
+CyeonedkUetpnayc:::txtsize --> Teratrlnutiek:::txtsize
+Teratrlnutiek:::txtsize --> PeisiekroQs:::txtsize
+Teratrlnutiek:::txtsize --> ChnhstaaevniinnGn:::txtsize
+ChnhstaaevniinnGn:::txtsize --> MaoldlcslvgtfNlw:::txtsize
+ChnhstaaevniinnGn:::txtsize --> Biafudolnui:::txtsize
 
-Aerisnwwtcer@{ shape: win-pane, label: "_Published Oct 28, 2025, 09:30 AM_
-Alleged charlie kirk assassin allowed to wear street clothes at trial" }
-TRssirilcehe@{ shape: win-pane, label: "_Published Sep 17, 2025, 03:45 AM_
-Tyler robinson, suspect in charlie kirk killing, charged with murder" }
-TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
-Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
-VsaKsirayce@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:59 AM_
-Videos of charlie kirk’s shooting spread rapidly on social media" }
-Fiseerierisnne@{ shape: win-pane, label: "_Published Sep 16, 2025, 11:26 PM_
-Fbi chief kash patel rejects criticism over charlie kirk assassination probe" }
-TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
-Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
-Aceehtrrfioe@{ shape: win-pane, label: "_Published Sep 16, 2025, 06:21 PM_
-Americans believe harsh political rhetoric is fuelling violence: poll" }
-AnpnCikuiimpie@{ shape: win-pane, label: "_Published Sep 26, 2025, 10:32 AM_
-Attorney representing charlie kirk’s accused killer is former top public defender" }
-TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
-Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
-VsaKsirayce@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:59 AM_
-Videos of charlie kirk’s shooting spread rapidly on social media" }
-ImoTsrCikrihls@{ shape: win-pane, label: "_Published Sep 23, 2025, 01:10 PM_
-‘i hate my opponent’: trump’s remarks at charlie kirk memorial distil his politics" }
-Cikerarsanccrs@{ shape: win-pane, label: "_Published Sep 22, 2025, 06:17 AM_
-Charlie kirk lauded at arizona memorial as galvanising force for conservatism" }
+Roaritdpysit@{ shape: win-pane, label: "_Published Oct 28, 2025, 01:20 PM_
+Rush-hour train service in scotland disrupted by swan swanning on track" }
+Adpgeifnc@{ shape: win-pane, label: "_Published Oct 27, 2025, 11:45 PM_
+Arson disrupts high-speed train traffic in france" }
+Ctitnsssrc@{ shape: win-pane, label: "_Published Jun 25, 2025, 07:29 PM_
+Cable theft in north france disrupts eurostar traffic" }
+EtauiodFfe@{ shape: win-pane, label: "_Published Jun 11, 2025, 07:04 AM_
+Eurostar plans 5-hour trains from london to frankfurt, geneva" }
+Pnsxinauaip@{ shape: win-pane, label: "_Published Jan 24, 2024, 11:32 AM_
+Passengers snub ‘expensive’ london-paris eurostar train for plane" }
+TateaeblPtso@{ shape: win-pane, label: "_Published Mar 07, 2025, 04:11 PM_
+Thousands stranded as massive wwii bomb blocks paris train station" }
+Lntluscnuac@{ shape: win-pane, label: "_Published Jan 30, 2025, 06:59 AM_
+London’s blitz shelter tunnels to become a new tourist attraction" }
+JtepaWoafrkie@{ shape: win-pane, label: "_Published Oct 04, 2024, 04:16 PM_
+Japan to sweep airports after wwii bomb blast at former ‘kamikaze’ airbase" }
+Tiiptueavrts@{ shape: win-pane, label: "_Published Jul 11, 2025, 05:45 PM_
+Train in india stops for two hours as elephant gives birth on tracks" }
+Isaotleacvier@{ shape: win-pane, label: "_Published Jul 09, 2025, 08:00 PM_
+India’s vatsala, thought to be oldest elephant in captivity, dies aged over 100" }
+Taneaiosii@{ shape: win-pane, label: "_Published Jun 03, 2025, 11:28 AM_
+Trunk-and-run: wild elephant raids grocery store in thailand" }
+Nlershorrnwgluao@{ shape: win-pane, label: "_Published Jun 10, 2025, 05:55 PM_
+Not all heroes wear capes: elephant goes viral for saving drowning gazelle at guatemala zoo" }
+Taneaiosii@{ shape: win-pane, label: "_Published Jun 03, 2025, 11:28 AM_
+Trunk-and-run: wild elephant raids grocery store in thailand" }
+MtdEatcMslletoa@{ shape: win-pane, label: "_Published May 21, 2025, 12:45 PM_
+Mammoth road rage: elephants attack car in malaysia allegedly after getting honked at" }
+Eainfondeai@{ shape: win-pane, label: "_Published Jan 19, 2025, 03:50 PM_
+Elephant frightened by fireworks knocks down 5 people at thai fair" }
 
-Aerisnwwtcer:::txtsize --> TRssirilcehe:::txtsize
-TRssirilcehe:::txtsize --> TahesegnipdoUstt:::txtsize
-TahesegnipdoUstt:::txtsize --> VsaKsirayce:::txtsize
-TRssirilcehe:::txtsize --> Fiseerierisnne:::txtsize
-Fiseerierisnne:::txtsize --> TahesegnipdoUstt:::txtsize
-Fiseerierisnne:::txtsize --> Aceehtrrfioe:::txtsize
-Aerisnwwtcer:::txtsize --> AnpnCikuiimpie:::txtsize
-AnpnCikuiimpie:::txtsize --> TahesegnipdoUstt:::txtsize
-TahesegnipdoUstt:::txtsize --> VsaKsirayce:::txtsize
-AnpnCikuiimpie:::txtsize --> ImoTsrCikrihls:::txtsize
-ImoTsrCikrihls:::txtsize --> Cikerarsanccrs:::txtsize
+Roaritdpysit:::txtsize --> Adpgeifnc:::txtsize
+Adpgeifnc:::txtsize --> Ctitnsssrc:::txtsize
+Ctitnsssrc:::txtsize --> EtauiodFfe:::txtsize
+Ctitnsssrc:::txtsize --> Pnsxinauaip:::txtsize
+Adpgeifnc:::txtsize --> TateaeblPtso:::txtsize
+TateaeblPtso:::txtsize --> Lntluscnuac:::txtsize
+TateaeblPtso:::txtsize --> JtepaWoafrkie:::txtsize
+Roaritdpysit:::txtsize --> Tiiptueavrts:::txtsize
+Tiiptueavrts:::txtsize --> Isaotleacvier:::txtsize
+Isaotleacvier:::txtsize --> Taneaiosii:::txtsize
+Isaotleacvier:::txtsize --> Nlershorrnwgluao:::txtsize
+Tiiptueavrts:::txtsize --> Taneaiosii:::txtsize
+Taneaiosii:::txtsize --> MtdEatcMslletoa:::txtsize
+Taneaiosii:::txtsize --> Eainfondeai:::txtsize
 
 ```
-<i>Last updated: 2025-10-28 12:00:54.300033 (GMT+8)</i>
+<i>Last updated: 2025-10-28 16:00:25.604549 (GMT+8)</i>
 <!-- END -->
