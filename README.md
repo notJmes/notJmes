@@ -16,141 +16,135 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-mtuisTy@{ shape: win-pane, label: "_Published Oct 28, 2025, 07:40 AM_
-6.1-magnitude quake hits western turkey" }
-Weeedjralrnry@{ shape: win-pane, label: "_Published Feb 06, 2023, 10:28 AM_
-‘we were shaken like a cradle’: major earthquake kills more than 2,600 in turkey, syria" }
-Sgersnsarrnr@{ shape: win-pane, label: "_Published Jan 29, 2023, 04:22 AM_
-Strong quake in north-west iran kills at least three, more than 800 injured" }
-Eqialeersrwi@{ shape: win-pane, label: "_Published Jan 24, 2023, 05:38 PM_
-Earthquake in nepal kills at least 1, sends tremors as far as new delhi" }
-Esrmvrpness@{ shape: win-pane, label: "_Published Jan 24, 2023, 02:56 AM_
-Earth's inner core may have started spinning other way, study shows" }
-Sdhegdseusrc@{ shape: win-pane, label: "_Published Feb 06, 2023, 07:37 PM_
-Second earthquake of magnitude 7.6 hits turkey's south: disaster agency" }
-Weeedjralrnry@{ shape: win-pane, label: "_Published Feb 06, 2023, 10:28 AM_
-‘we were shaken like a cradle’: major earthquake kills more than 2,600 in turkey, syria" }
-Weeedjralrnry@{ shape: win-pane, label: "_Published Feb 06, 2023, 10:28 AM_
-‘we were shaken like a cradle’: major earthquake kills more than 2,600 in turkey, syria" }
-Eqonekreece@{ shape: win-pane, label: "_Published Oct 09, 2025, 08:41 AM_
-Earthquake of magnitude 4.7 strikes turkey, geosciences centre says" }
-Ieccpaaepyfu@{ shape: win-pane, label: "_Published Oct 03, 2025, 11:22 PM_
-Indonesia school collapse leaves families gripped by grief and fury" }
-Dsiranshos@{ shape: win-pane, label: "_Published Sep 30, 2025, 04:58 AM_
-Dozens missing, three dead in indonesia school collapse" }
-Ieccpalesliwn@{ shape: win-pane, label: "_Published Oct 03, 2025, 05:55 PM_
-Indonesia school collapse death toll rises to 13 as families tire of waiting" }
-PcertCuxstsiisrae@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:12 PM_
-‘predictable and preventable’: cebu quake exposes fault lines in philippine disaster preparedness" }
-SgenPpssang@{ shape: win-pane, label: "_Published Sep 30, 2025, 11:02 PM_
-Strong quake in central philippines kills 8 as search ongoing" }
-SgenPpssang@{ shape: win-pane, label: "_Published Sep 30, 2025, 11:02 PM_
-Strong quake in central philippines kills 8 as search ongoing" }
+OimasooheSes@{ shape: win-pane, label: "_Published Oct 28, 2025, 10:00 AM_
+Ontario premier says he’s not sorry for ad that blew up us trade talks" }
+Ciuaaaeirctt@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:33 AM_
+Canadians pull reagan tariff ad after furious trump scraps trade talks" }
+Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
+Trump says all trade talks with canada are terminated" }
+Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
+Trump talks up canada trade deal chances with ‘world-class’ carney" }
+Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
+Trump talks up canada trade deal chances with ‘world-class’ carney" }
+Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
+Trump says all trade talks with canada are terminated" }
+Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
+Trump talks up canada trade deal chances with ‘world-class’ carney" }
+Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
+Trump talks up canada trade deal chances with ‘world-class’ carney" }
+TsitfaaOiaddnli@{ shape: win-pane, label: "_Published Oct 26, 2025, 05:04 AM_
+Trump sets 10% hike in tariffs on canada after ontario’s reagan ad aired during world series" }
+Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
+Trump says all trade talks with canada are terminated" }
+Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
+Trump talks up canada trade deal chances with ‘world-class’ carney" }
+Ttuaaanirar@{ shape: win-pane, label: "_Published Oct 08, 2025, 08:25 AM_
+Trump talks up canada trade deal chances with ‘world-class’ carney" }
+Ciuaaaeirctt@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:33 AM_
+Canadians pull reagan tariff ad after furious trump scraps trade talks" }
+Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
+Trump says all trade talks with canada are terminated" }
+Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
+Trump says all trade talks with canada are terminated" }
 
-mtuisTy:::txtsize --> Weeedjralrnry:::txtsize
-Weeedjralrnry:::txtsize --> Sgersnsarrnr:::txtsize
-Sgersnsarrnr:::txtsize --> Eqialeersrwi:::txtsize
-Sgersnsarrnr:::txtsize --> Esrmvrpness:::txtsize
-Weeedjralrnry:::txtsize --> Sdhegdseusrc:::txtsize
-Sdhegdseusrc:::txtsize --> Weeedjralrnry:::txtsize
-Sdhegdseusrc:::txtsize --> Weeedjralrnry:::txtsize
-mtuisTy:::txtsize --> Eqonekreece:::txtsize
-Eqonekreece:::txtsize --> Ieccpaaepyfu:::txtsize
-Ieccpaaepyfu:::txtsize --> Dsiranshos:::txtsize
-Ieccpaaepyfu:::txtsize --> Ieccpalesliwn:::txtsize
-Eqonekreece:::txtsize --> PcertCuxstsiisrae:::txtsize
-PcertCuxstsiisrae:::txtsize --> SgenPpssang:::txtsize
-PcertCuxstsiisrae:::txtsize --> SgenPpssang:::txtsize
+OimasooheSes:::txtsize --> Ciuaaaeirctt:::txtsize
+Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
+Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
+Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
+Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
+Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
+Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
+OimasooheSes:::txtsize --> TsitfaaOiaddnli:::txtsize
+TsitfaaOiaddnli:::txtsize --> Tsldkhdtn:::txtsize
+Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
+Tsldkhdtn:::txtsize --> Ttuaaanirar:::txtsize
+TsitfaaOiaddnli:::txtsize --> Ciuaaaeirctt:::txtsize
+Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
+Ciuaaaeirctt:::txtsize --> Tsldkhdtn:::txtsize
 
-WYresemhiO@{ shape: win-pane, label: "_Published Oct 28, 2025, 05:56 AM_
-While you were sleeping: 5 stories you might have missed, oct 28, 2025" }
-Alrhtedsgmrope@{ shape: win-pane, label: "_Published Oct 27, 2025, 10:45 PM_
-Asean leaders push for stronger trade ties among rcep members and other partners" }
-Wseedetkitasfsent@{ shape: win-pane, label: "_Published Jan 01, 2022, 05:00 AM_
-World's largest free trade agreement rcep kicks in, cutting tariffs for 92% of goods traded among parties" }
-HEwseaceSpnbe@{ shape: win-pane, label: "_Published Nov 27, 2020, 06:00 PM_
-How rcep, the world's largest trade pact, benefits singaporeans and businesses" }
-crninrntrate@{ shape: win-pane, label: "_Published Nov 15, 2020, 12:53 PM_
-15 countries, including singapore, sign rcep, the world's largest trade pact" }
-TLoiatAbismmlsgu@{ shape: win-pane, label: "_Published Oct 26, 2025, 08:56 AM_
-Timor-leste officially admitted to asean, becoming its 11th member amid calls to strengthen unity" }
-WssutreTsoa@{ shape: win-pane, label: "_Published Oct 26, 2025, 09:00 AM_
-What is the asean summit, the first event on trump’s tour of asia?" }
-PgseBlhcEeuaamde@{ shape: win-pane, label: "_Published Oct 26, 2025, 08:13 PM_
-Pm wong meets leaders of brazil, south africa and european council at asean summit sidelines" }
-CsinrkhbeTXt@{ shape: win-pane, label: "_Published Oct 28, 2025, 01:55 AM_
-China’s foreign minister speaks with us’ rubio ahead of trump-xi meeting" }
-Tiaorrae@{ shape: win-pane, label: "_Published Oct 27, 2025, 11:15 AM_
-Trump in japan as hopes grow for china trade deal" }
-Eearitdtlo@{ shape: win-pane, label: "_Published Jun 25, 2025, 10:50 PM_
-Europe placates trump with nato pledges it can ill afford" }
-Ttocads@{ shape: win-pane, label: "_Published Oct 26, 2025, 11:10 PM_
-Trump turns on the charm – and so does asean" }
-CsUisheodl@{ shape: win-pane, label: "_Published Oct 27, 2025, 06:48 AM_
-Chinese and us officials reach framework of trade deal" }
-Ttocads@{ shape: win-pane, label: "_Published Oct 26, 2025, 11:10 PM_
-Trump turns on the charm – and so does asean" }
+Euagkihwnoa@{ shape: win-pane, label: "_Published Oct 28, 2025, 09:45 AM_
+Elon musk challenges wikipedia with his own ai encyclopedia" }
+Mxabtgossu@{ shape: win-pane, label: "_Published Jun 18, 2025, 05:01 PM_
+Musk’s xai start-up burns through $1.3b a month as costs pile up" }
+EuAnbotsbounr@{ shape: win-pane, label: "_Published Jun 03, 2025, 01:45 AM_
+Elon musk’s xai launches $6.5 billion debt sale, seeks $146 billion valuation: reports" }
+EuaTaitagute@{ shape: win-pane, label: "_Published May 29, 2025, 09:30 AM_
+Elon musk leaving trump administration, capping turbulent tenure" }
+Mstswlsoo@{ shape: win-pane, label: "_Published May 20, 2025, 07:37 AM_
+Microsoft strikes deal with elon musk to host grok ai" }
+Deesbietns@{ shape: win-pane, label: "_Published Feb 15, 2025, 02:53 AM_
+Dell nears deal to sell about $7b in ai server to elon musk’s xai" }
+Adudarsut@{ shape: win-pane, label: "_Published Feb 12, 2025, 08:15 AM_
+Ai feud: how musk and altman’s partnership turned toxic" }
+OIAnEuoytgoo@{ shape: win-pane, label: "_Published Feb 12, 2025, 02:06 AM_
+Openai’s sam altman says elon musk ‘probably just trying to slow us down’" }
+MxcrOIegee@{ shape: win-pane, label: "_Published Sep 25, 2025, 10:46 PM_
+Musk’s xai accuses rival openai of stealing trade secrets" }
+iavrnoiatkko@{ shape: win-pane, label: "_Published Sep 25, 2025, 02:10 PM_
+1 in 10 retail investors using ai tools like chatgpt to pick stocks: report" }
+AdnsdonilsmdnlKo@{ shape: win-pane, label: "_Published May 19, 2025, 07:40 PM_
+Ai and design will see wider adoption only if tools and systems are designed well: tan kiat how" }
+Mgcasccnbfeos@{ shape: win-pane, label: "_Published Dec 23, 2024, 05:00 AM_
+Meet agentic ai, chatbots that can decide on your behalf – for better or worse" }
+TaebTuttous@{ shape: win-pane, label: "_Published Sep 14, 2025, 04:00 PM_
+They had money problems. they turned to chatgpt for solutions" }
+Hnktnettisoioa@{ shape: win-pane, label: "_Published Aug 13, 2025, 06:00 PM_
+How gen ai like chatgpt enhances critical thinking, instead of making people lazy" }
+Auueeothtfb@{ shape: win-pane, label: "_Published Jul 10, 2025, 05:00 AM_
+Are you ai fluent? here are 4 tips on getting the most out of chatbots" }
 
-WYresemhiO:::txtsize --> Alrhtedsgmrope:::txtsize
-Alrhtedsgmrope:::txtsize --> Wseedetkitasfsent:::txtsize
-Wseedetkitasfsent:::txtsize --> HEwseaceSpnbe:::txtsize
-Wseedetkitasfsent:::txtsize --> crninrntrate:::txtsize
-Alrhtedsgmrope:::txtsize --> TLoiatAbismmlsgu:::txtsize
-TLoiatAbismmlsgu:::txtsize --> WssutreTsoa:::txtsize
-TLoiatAbismmlsgu:::txtsize --> PgseBlhcEeuaamde:::txtsize
-WYresemhiO:::txtsize --> CsinrkhbeTXt:::txtsize
-CsinrkhbeTXt:::txtsize --> Tiaorrae:::txtsize
-Tiaorrae:::txtsize --> Eearitdtlo:::txtsize
-Tiaorrae:::txtsize --> Ttocads:::txtsize
-CsinrkhbeTXt:::txtsize --> CsUisheodl:::txtsize
-CsUisheodl:::txtsize --> Ttocads:::txtsize
+Euagkihwnoa:::txtsize --> Mxabtgossu:::txtsize
+Mxabtgossu:::txtsize --> EuAnbotsbounr:::txtsize
+EuAnbotsbounr:::txtsize --> EuaTaitagute:::txtsize
+EuAnbotsbounr:::txtsize --> Mstswlsoo:::txtsize
+Mxabtgossu:::txtsize --> Deesbietns:::txtsize
+Deesbietns:::txtsize --> Adudarsut:::txtsize
+Deesbietns:::txtsize --> OIAnEuoytgoo:::txtsize
+Euagkihwnoa:::txtsize --> MxcrOIegee:::txtsize
+MxcrOIegee:::txtsize --> iavrnoiatkko:::txtsize
+iavrnoiatkko:::txtsize --> AdnsdonilsmdnlKo:::txtsize
+iavrnoiatkko:::txtsize --> Mgcasccnbfeos:::txtsize
+MxcrOIegee:::txtsize --> TaebTuttous:::txtsize
+TaebTuttous:::txtsize --> Hnktnettisoioa:::txtsize
+TaebTuttous:::txtsize --> Auueeothtfb:::txtsize
 
-HceanhaatoCoo@{ shape: win-pane, label: "_Published Oct 28, 2025, 04:05 AM_
-Hurricane melissa begins lashing jamaica as ‘catastrophic’ category 5 storm" }
-HcehnaaaaHamau@{ shape: win-pane, label: "_Published Jul 03, 2024, 01:40 PM_
-Hurricane beryl, churning towards jamaica, threatens haiti and dominican republic" }
-Pfrnymael@{ shape: win-pane, label: "_Published Jul 02, 2024, 11:05 AM_
-Powerful hurricane beryl pummels caribbean islands" }
-CndirnnoodN@{ shape: win-pane, label: "_Published Jul 02, 2024, 07:05 AM_
-Cyclone freddy, which struck in 2023, is longest on record at 36 days: un" }
-Beetyiooiirniob@{ shape: win-pane, label: "_Published Jul 01, 2024, 12:31 AM_
-Beryl, earliest category 4 hurricane on record, brings life-threatening winds to caribbean" }
-Wptfitfnreo@{ shape: win-pane, label: "_Published Jul 03, 2024, 12:20 PM_
-Why ‘rapid intensification’ is transforming hurricane season" }
-Cbrifxenurel@{ shape: win-pane, label: "_Published Jun 30, 2024, 12:43 PM_
-Caribbean braces itself for ‘extremely dangerous’ hurricane beryl" }
-EmcAtrnseree@{ shape: win-pane, label: "_Published Apr 04, 2024, 10:50 PM_
-‘extremely active’ atlantic hurricane season ahead, warn forecasters" }
-SlUegonrctn@{ shape: win-pane, label: "_Published Sep 01, 2025, 05:00 AM_
-St explains: unravelling typhoons and emerging climate trends" }
-ToilVaTatnoedo@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:57 PM_
-Typhoon kajiki kills 8 in vietnam and thailand, with warnings of more flooding to come" }
-TdoldpKiee@{ shape: win-pane, label: "_Published Aug 25, 2025, 10:02 AM_
-Trees down, homes flooded as typhoon kajiki batters vietnam" }
-Vansunaytynkei@{ shape: win-pane, label: "_Published Aug 24, 2025, 12:12 PM_
-Vietnam plans mass evacuation, china’s sanya shuts as typhoon kajiki intensifies" }
-SlWathradnresrs@{ shape: win-pane, label: "_Published Aug 26, 2025, 01:18 PM_
-St explains: what caused the johor earthquake and is singapore safe from such tremors?" }
-Ldasbaenlremunr@{ shape: win-pane, label: "_Published Aug 24, 2025, 07:25 PM_
-‘like a dinosaur passing by’: segamat residents jolted from sleep by mild quake in johor" }
-Igustleeqseanr@{ shape: win-pane, label: "_Published Aug 24, 2025, 09:20 AM_
-‘i thought house was about to collapse’: mild earthquake strikes segamat in johor" }
+Aerisnwwtcer@{ shape: win-pane, label: "_Published Oct 28, 2025, 09:30 AM_
+Alleged charlie kirk assassin allowed to wear street clothes at trial" }
+TRssirilcehe@{ shape: win-pane, label: "_Published Sep 17, 2025, 03:45 AM_
+Tyler robinson, suspect in charlie kirk killing, charged with murder" }
+TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
+Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
+VsaKsirayce@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:59 AM_
+Videos of charlie kirk’s shooting spread rapidly on social media" }
+Fiseerierisnne@{ shape: win-pane, label: "_Published Sep 16, 2025, 11:26 PM_
+Fbi chief kash patel rejects criticism over charlie kirk assassination probe" }
+TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
+Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
+Aceehtrrfioe@{ shape: win-pane, label: "_Published Sep 16, 2025, 06:21 PM_
+Americans believe harsh political rhetoric is fuelling violence: poll" }
+AnpnCikuiimpie@{ shape: win-pane, label: "_Published Sep 26, 2025, 10:32 AM_
+Attorney representing charlie kirk’s accused killer is former top public defender" }
+TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
+Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
+VsaKsirayce@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:59 AM_
+Videos of charlie kirk’s shooting spread rapidly on social media" }
+ImoTsrCikrihls@{ shape: win-pane, label: "_Published Sep 23, 2025, 01:10 PM_
+‘i hate my opponent’: trump’s remarks at charlie kirk memorial distil his politics" }
+Cikerarsanccrs@{ shape: win-pane, label: "_Published Sep 22, 2025, 06:17 AM_
+Charlie kirk lauded at arizona memorial as galvanising force for conservatism" }
 
-HceanhaatoCoo:::txtsize --> HcehnaaaaHamau:::txtsize
-HcehnaaaaHamau:::txtsize --> Pfrnymael:::txtsize
-Pfrnymael:::txtsize --> CndirnnoodN:::txtsize
-Pfrnymael:::txtsize --> Beetyiooiirniob:::txtsize
-HcehnaaaaHamau:::txtsize --> Wptfitfnreo:::txtsize
-Wptfitfnreo:::txtsize --> Cbrifxenurel:::txtsize
-Wptfitfnreo:::txtsize --> EmcAtrnseree:::txtsize
-HceanhaatoCoo:::txtsize --> SlUegonrctn:::txtsize
-SlUegonrctn:::txtsize --> ToilVaTatnoedo:::txtsize
-ToilVaTatnoedo:::txtsize --> TdoldpKiee:::txtsize
-ToilVaTatnoedo:::txtsize --> Vansunaytynkei:::txtsize
-SlUegonrctn:::txtsize --> SlWathradnresrs:::txtsize
-SlWathradnresrs:::txtsize --> Ldasbaenlremunr:::txtsize
-SlWathradnresrs:::txtsize --> Igustleeqseanr:::txtsize
+Aerisnwwtcer:::txtsize --> TRssirilcehe:::txtsize
+TRssirilcehe:::txtsize --> TahesegnipdoUstt:::txtsize
+TahesegnipdoUstt:::txtsize --> VsaKsirayce:::txtsize
+TRssirilcehe:::txtsize --> Fiseerierisnne:::txtsize
+Fiseerierisnne:::txtsize --> TahesegnipdoUstt:::txtsize
+Fiseerierisnne:::txtsize --> Aceehtrrfioe:::txtsize
+Aerisnwwtcer:::txtsize --> AnpnCikuiimpie:::txtsize
+AnpnCikuiimpie:::txtsize --> TahesegnipdoUstt:::txtsize
+TahesegnipdoUstt:::txtsize --> VsaKsirayce:::txtsize
+AnpnCikuiimpie:::txtsize --> ImoTsrCikrihls:::txtsize
+ImoTsrCikrihls:::txtsize --> Cikerarsanccrs:::txtsize
 
 ```
-<i>Last updated: 2025-10-28 08:00:35.975803 (GMT+8)</i>
+<i>Last updated: 2025-10-28 12:00:54.300033 (GMT+8)</i>
 <!-- END -->
