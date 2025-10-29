@@ -16,6 +16,89 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+UfypercAcer@{ shape: win-pane, label: "_Published Oct 29, 2025, 02:04 PM_
+Unruffled by trump, chinese parents chase ‘american dream’ for kids" }
+Cstaftetwt@{ shape: win-pane, label: "_Published Oct 14, 2025, 10:02 AM_
+China says it is ready to ‘fight to the end’ in trade war with us" }
+Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
+China tightens rare earth export controls and targets defence, semiconductor users" }
+Whapira@{ shape: win-pane, label: "_Published Sep 14, 2025, 11:05 AM_
+Will the us catch up to china on rare earths?" }
+Ttpafrlnt@{ shape: win-pane, label: "_Published May 16, 2025, 10:29 AM_
+Trump to keep 30% china tariffs through late 2025: analysts" }
+CUeaitaoldee@{ shape: win-pane, label: "_Published May 12, 2025, 10:00 PM_
+China, us agree to 90-day tariff cuts ahead of more talks to defuse trade war" }
+Uiantttgroted@{ shape: win-pane, label: "_Published May 16, 2025, 08:59 AM_
+Us tariffs take centre stage at apec trade gathering, joint statement in doubt" }
+TXmgelreent@{ shape: win-pane, label: "_Published Oct 28, 2025, 09:35 PM_
+Trump-xi summit might yield only short-lived detente: analysts" }
+ITXtnhaeame@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:15 PM_
+Is the trump-xi meeting in south korea headed for a k-drama moment?" }
+Ciuaaaeirctt@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:33 AM_
+Canadians pull reagan tariff ad after furious trump scraps trade talks" }
+ITXtnhaeame@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:15 PM_
+Is the trump-xi meeting in south korea headed for a k-drama moment?" }
+Ciuaaaeirctt@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:33 AM_
+Canadians pull reagan tariff ad after furious trump scraps trade talks" }
+
+UfypercAcer:::txtsize --> Cstaftetwt:::txtsize
+Cstaftetwt:::txtsize --> Ctertonsasnmdrs:::txtsize
+Ctertonsasnmdrs:::txtsize --> Whapira:::txtsize
+Cstaftetwt:::txtsize --> Ttpafrlnt:::txtsize
+Ttpafrlnt:::txtsize --> CUeaitaoldee:::txtsize
+Ttpafrlnt:::txtsize --> Uiantttgroted:::txtsize
+UfypercAcer:::txtsize --> TXmgelreent:::txtsize
+TXmgelreent:::txtsize --> ITXtnhaeame:::txtsize
+ITXtnhaeame:::txtsize --> Ciuaaaeirctt:::txtsize
+TXmgelreent:::txtsize --> ITXtnhaeame:::txtsize
+ITXtnhaeame:::txtsize --> Ciuaaaeirctt:::txtsize
+
+Fecotesp@{ shape: win-pane, label: "_Published Oct 29, 2025, 12:05 PM_
+France expected to adopt consent-based rape law" }
+Gecgcrtkpby@{ shape: win-pane, label: "_Published Oct 09, 2025, 12:59 AM_
+Gisele pelicot urges accused rapist to ‘take responsibility’" }
+DieteyidFhchrew@{ shape: win-pane, label: "_Published Dec 19, 2024, 04:56 PM_
+Dominique pelicot jailed for 20 years in landmark french rape case that horrified the world" }
+MrThcdamai@{ shape: win-pane, label: "_Published Nov 27, 2024, 01:40 PM_
+‘mr everyman’: the 50 others accused in france’s mass rape trial" }
+IaFhatoapi@{ shape: win-pane, label: "_Published Sep 17, 2024, 04:16 PM_
+‘i am a rapist’: frenchman says in trial over mass rape of wife" }
+Gectcfpyfotema@{ shape: win-pane, label: "_Published Oct 06, 2025, 08:47 PM_
+Gisele pelicot attends court for appeal by one of 51 men convicted over her mass rape" }
+Polhfxaincst@{ shape: win-pane, label: "_Published Dec 20, 2024, 04:45 PM_
+Pelicot hailed as hero after ex-husband jailed in france mass rape trial" }
+Geccrcfprr@{ shape: win-pane, label: "_Published Oct 06, 2025, 10:20 AM_
+Gisele pelicot back in french court for appeal trial ‘ordeal’" }
+Feiwuoalase@{ shape: win-pane, label: "_Published Nov 26, 2024, 12:32 AM_
+France unveils new measures to combat violence against women" }
+HetncisriPoapt@{ shape: win-pane, label: "_Published Sep 14, 2024, 09:30 PM_
+Hundreds gather in french cities in support of gisele pelicot and all rape victims" }
+Fhnlapicone@{ shape: win-pane, label: "_Published Sep 10, 2024, 07:57 PM_
+Frenchman on trial for mass rape of wife back in court on wednesday" }
+Fhcdugatdsnhnt@{ shape: win-pane, label: "_Published Sep 03, 2024, 09:52 AM_
+French man accused of drugging wife and letting dozens of men rape her; 51 men go on trial" }
+OmlynrienwwN@{ shape: win-pane, label: "_Published Nov 25, 2024, 08:40 PM_
+One woman killed by partner or relative every 10 minutes worldwide: un" }
+OgswaUaleat@{ shape: win-pane, label: "_Published Sep 06, 2024, 02:10 AM_
+Outrage and sorrow at death of ugandan athlete rebecca cheptegei" }
+Wmoiwlsrecosaen@{ shape: win-pane, label: "_Published Jun 06, 2024, 08:15 AM_
+Woman mayor of mexico town killed, just hours after election of first female president" }
+
+Fecotesp:::txtsize --> Gecgcrtkpby:::txtsize
+Gecgcrtkpby:::txtsize --> DieteyidFhchrew:::txtsize
+DieteyidFhchrew:::txtsize --> MrThcdamai:::txtsize
+DieteyidFhchrew:::txtsize --> IaFhatoapi:::txtsize
+Gecgcrtkpby:::txtsize --> Gectcfpyfotema:::txtsize
+Gectcfpyfotema:::txtsize --> Polhfxaincst:::txtsize
+Gectcfpyfotema:::txtsize --> Geccrcfprr:::txtsize
+Fecotesp:::txtsize --> Feiwuoalase:::txtsize
+Feiwuoalase:::txtsize --> HetncisriPoapt:::txtsize
+HetncisriPoapt:::txtsize --> Fhnlapicone:::txtsize
+HetncisriPoapt:::txtsize --> Fhcdugatdsnhnt:::txtsize
+Feiwuoalase:::txtsize --> OmlynrienwwN:::txtsize
+OmlynrienwwN:::txtsize --> OgswaUaleat:::txtsize
+OmlynrienwwN:::txtsize --> Wmoiwlsrecosaen:::txtsize
+
 Utaneeosp@{ shape: win-pane, label: "_Published Oct 29, 2025, 11:45 AM_
 Us pentagon announces ‘new generation’ press corps" }
 Usejeosel@{ shape: win-pane, label: "_Published Oct 15, 2025, 04:56 AM_
@@ -62,92 +145,6 @@ ToiofoiAcrs:::txtsize --> TuCekofiiaesi:::txtsize
 TuCekofiiaesi:::txtsize --> Vormeepnaohrwl:::txtsize
 TuCekofiiaesi:::txtsize --> Acmadooseayc:::txtsize
 
-Casdaasnoai@{ shape: win-pane, label: "_Published Oct 29, 2025, 11:35 AM_
-Coronavirus found in brazilian bats expands global map of risk" }
-Gidrtiooris@{ shape: win-pane, label: "_Published May 13, 2025, 03:34 PM_
-Genetic study retraces the origins of coronaviruses in bats" }
-Tseecoeeiibty@{ shape: win-pane, label: "_Published Apr 19, 2025, 03:03 AM_
-Trump’s white house launches covid-19 website pushing china lab leak theory" }
-Csxelydeaol@{ shape: win-pane, label: "_Published Jan 27, 2025, 04:52 PM_
-China says ‘extremely unlikely’ covid-19 pandemic came from lab leak" }
-CssvitUesrlt@{ shape: win-pane, label: "_Published Apr 30, 2025, 07:02 PM_
-China suggests covid-19 originated in us in response to trump allegation" }
-Tvncyowe@{ shape: win-pane, label: "_Published Mar 06, 2025, 05:00 AM_
-The covid-19 pandemic five years on: are we safer now?" }
-Tseecoeeiibty@{ shape: win-pane, label: "_Published Apr 19, 2025, 03:03 AM_
-Trump’s white house launches covid-19 website pushing china lab leak theory" }
-Cseenvtnhcvmhsd@{ shape: win-pane, label: "_Published Feb 22, 2025, 07:02 AM_
-Chinese researchers find bat virus that enters human cells via same pathway as covid-19" }
-Utuhpoatosea@{ shape: win-pane, label: "_Published Feb 20, 2025, 11:39 AM_
-Us winter flu deaths outpace covid-19 fatalities for first time in 5 years" }
-Woabllgta@{ shape: win-pane, label: "_Published Jan 07, 2025, 09:35 AM_
-What to know about bird flu following first us death" }
-Ueothdfie@{ shape: win-pane, label: "_Published Jan 08, 2025, 07:00 AM_
-Us urged to do more to fight bird flu after first death" }
-Nuicehveana@{ shape: win-pane, label: "_Published Sep 20, 2024, 01:20 AM_
-New study reinforces theory that covid-19 emerged at chinese market" }
-NeiedtWlilco@{ shape: win-pane, label: "_Published Jun 24, 2023, 10:06 AM_
-No direct evidence covid-19 started in wuhan lab: us intelligence report" }
-WvRnepneCfaldrtk@{ shape: win-pane, label: "_Published Jan 22, 2020, 06:13 PM_
-Wuhan virus: rats and live wolf pups on the menu at china food market linked to virus outbreak" }
-
-Casdaasnoai:::txtsize --> Gidrtiooris:::txtsize
-Gidrtiooris:::txtsize --> Tseecoeeiibty:::txtsize
-Tseecoeeiibty:::txtsize --> Csxelydeaol:::txtsize
-Gidrtiooris:::txtsize --> CssvitUesrlt:::txtsize
-CssvitUesrlt:::txtsize --> Tvncyowe:::txtsize
-CssvitUesrlt:::txtsize --> Tseecoeeiibty:::txtsize
-Casdaasnoai:::txtsize --> Cseenvtnhcvmhsd:::txtsize
-Cseenvtnhcvmhsd:::txtsize --> Utuhpoatosea:::txtsize
-Utuhpoatosea:::txtsize --> Woabllgta:::txtsize
-Utuhpoatosea:::txtsize --> Ueothdfie:::txtsize
-Cseenvtnhcvmhsd:::txtsize --> Nuicehveana:::txtsize
-Nuicehveana:::txtsize --> NeiedtWlilco:::txtsize
-Nuicehveana:::txtsize --> WvRnepneCfaldrtk:::txtsize
-
-TsrcIaeutt@{ shape: win-pane, label: "_Published Oct 29, 2025, 11:05 AM_
-Trump says ‘pretty clear i’m not allowed to run’ for third term" }
-Trocstiwloorm@{ shape: win-pane, label: "_Published Oct 27, 2025, 03:41 PM_
-Trump rules out vice-president gambit but would ‘love to’ run for third term" }
-TdragnfitirsPd@{ shape: win-pane, label: "_Published Jan 21, 2025, 01:02 AM_
-Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
-Tpsrmtioutv@{ shape: win-pane, label: "_Published Jan 20, 2025, 05:54 AM_
-Trump promises harsh immigration limits on inauguration eve" }
-TttSecaaxhue@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:40 AM_
-Trump threatens us trade policy of ‘tariff and tax’ on other countries" }
-Kaiiiweoiriimn@{ shape: win-pane, label: "_Published Oct 26, 2025, 11:00 PM_
-Kamala harris, california’s newsom begin jockeying for 2028 presidential campaigns" }
-TocalEoaipvngs@{ shape: win-pane, label: "_Published Nov 07, 2024, 12:05 AM_
-Trump on track for a triple win: electoral landslide, popular vote and congress sweep" }
-IbhahrnrccidraHs@{ shape: win-pane, label: "_Published Jul 22, 2024, 01:59 AM_
-‘it has been the greatest honour’: biden ends re-election campaign and endorses kamala harris" }
-Cenmvetr@{ shape: win-pane, label: "_Published Oct 27, 2025, 08:56 PM_
-Can president trump serve more than two terms?" }
-Trocstiwloorm@{ shape: win-pane, label: "_Published Oct 27, 2025, 03:41 PM_
-Trump rules out vice-president gambit but would ‘love to’ run for third term" }
-TdragnfitirsPd@{ shape: win-pane, label: "_Published Jan 21, 2025, 01:02 AM_
-Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
-Kaiiiweoiriimn@{ shape: win-pane, label: "_Published Oct 26, 2025, 11:00 PM_
-Kamala harris, california’s newsom begin jockeying for 2028 presidential campaigns" }
-IbhahrnrccidraHs@{ shape: win-pane, label: "_Published Jul 22, 2024, 01:59 AM_
-‘it has been the greatest honour’: biden ends re-election campaign and endorses kamala harris" }
-WaHscwbaUtfsi@{ shape: win-pane, label: "_Published Jul 21, 2024, 10:29 PM_
-With kamala harris, democrats would bet against us history of sexism, racism" }
-
-TsrcIaeutt:::txtsize --> Trocstiwloorm:::txtsize
-Trocstiwloorm:::txtsize --> TdragnfitirsPd:::txtsize
-TdragnfitirsPd:::txtsize --> Tpsrmtioutv:::txtsize
-TdragnfitirsPd:::txtsize --> TttSecaaxhue:::txtsize
-Trocstiwloorm:::txtsize --> Kaiiiweoiriimn:::txtsize
-Kaiiiweoiriimn:::txtsize --> TocalEoaipvngs:::txtsize
-Kaiiiweoiriimn:::txtsize --> IbhahrnrccidraHs:::txtsize
-TsrcIaeutt:::txtsize --> Cenmvetr:::txtsize
-Cenmvetr:::txtsize --> Trocstiwloorm:::txtsize
-Trocstiwloorm:::txtsize --> TdragnfitirsPd:::txtsize
-Trocstiwloorm:::txtsize --> Kaiiiweoiriimn:::txtsize
-Cenmvetr:::txtsize --> IbhahrnrccidraHs:::txtsize
-IbhahrnrccidraHs:::txtsize --> WaHscwbaUtfsi:::txtsize
-
 ```
-<i>Last updated: 2025-10-29 12:00:20.227011 (GMT+8)</i>
+<i>Last updated: 2025-10-29 16:00:48.113120 (GMT+8)</i>
 <!-- END -->
