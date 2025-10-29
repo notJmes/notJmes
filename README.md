@@ -16,135 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-UfypercAcer@{ shape: win-pane, label: "_Published Oct 29, 2025, 02:04 PM_
-Unruffled by trump, chinese parents chase ‘american dream’ for kids" }
-Cstaftetwt@{ shape: win-pane, label: "_Published Oct 14, 2025, 10:02 AM_
-China says it is ready to ‘fight to the end’ in trade war with us" }
-Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
-China tightens rare earth export controls and targets defence, semiconductor users" }
-Whapira@{ shape: win-pane, label: "_Published Sep 14, 2025, 11:05 AM_
-Will the us catch up to china on rare earths?" }
-Ttpafrlnt@{ shape: win-pane, label: "_Published May 16, 2025, 10:29 AM_
-Trump to keep 30% china tariffs through late 2025: analysts" }
-CUeaitaoldee@{ shape: win-pane, label: "_Published May 12, 2025, 10:00 PM_
-China, us agree to 90-day tariff cuts ahead of more talks to defuse trade war" }
-Uiantttgroted@{ shape: win-pane, label: "_Published May 16, 2025, 08:59 AM_
-Us tariffs take centre stage at apec trade gathering, joint statement in doubt" }
-TXmgelreent@{ shape: win-pane, label: "_Published Oct 28, 2025, 09:35 PM_
-Trump-xi summit might yield only short-lived detente: analysts" }
-ITXtnhaeame@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:15 PM_
-Is the trump-xi meeting in south korea headed for a k-drama moment?" }
-Ciuaaaeirctt@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:33 AM_
-Canadians pull reagan tariff ad after furious trump scraps trade talks" }
-ITXtnhaeame@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:15 PM_
-Is the trump-xi meeting in south korea headed for a k-drama moment?" }
-Ciuaaaeirctt@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:33 AM_
-Canadians pull reagan tariff ad after furious trump scraps trade talks" }
+HceaCofeaJc@{ shape: win-pane, label: "_Published Oct 29, 2025, 04:46 PM_
+Hurricane melissa hits cuba hours after devastating jamaica" }
+JcrsrmiMsnu@{ shape: win-pane, label: "_Published Oct 28, 2025, 08:05 PM_
+Jamaica’s strongest-ever storm, hurricane melissa, turns to cuba" }
+Imhmgitmrnetic@{ shape: win-pane, label: "_Published Nov 20, 2024, 07:49 PM_
+Is climate change making tropical storms more frequent? scientists say it’s unclear" }
+Ctatoalenivlei@{ shape: win-pane, label: "_Published Nov 19, 2024, 06:00 PM_
+Climate finance at cop29: loans can’t help developing nations avert climate crisis" }
+SToythpmoua@{ shape: win-pane, label: "_Published Nov 17, 2024, 10:45 AM_
+Super typhoon man-yi batters philippines’ most populous island" }
+HcehnaaaaHamau@{ shape: win-pane, label: "_Published Jul 03, 2024, 01:40 PM_
+Hurricane beryl, churning towards jamaica, threatens haiti and dominican republic" }
+Pfrnymael@{ shape: win-pane, label: "_Published Jul 02, 2024, 11:05 AM_
+Powerful hurricane beryl pummels caribbean islands" }
+Wptfitfnreo@{ shape: win-pane, label: "_Published Jul 03, 2024, 12:20 PM_
+Why ‘rapid intensification’ is transforming hurricane season" }
+HceanhaatoCoo@{ shape: win-pane, label: "_Published Oct 28, 2025, 04:05 AM_
+Hurricane melissa begins lashing jamaica as ‘catastrophic’ category 5 storm" }
+HcehnaaaaHamau@{ shape: win-pane, label: "_Published Jul 03, 2024, 01:40 PM_
+Hurricane beryl, churning towards jamaica, threatens haiti and dominican republic" }
+Pfrnymael@{ shape: win-pane, label: "_Published Jul 02, 2024, 11:05 AM_
+Powerful hurricane beryl pummels caribbean islands" }
+Wptfitfnreo@{ shape: win-pane, label: "_Published Jul 03, 2024, 12:20 PM_
+Why ‘rapid intensification’ is transforming hurricane season" }
+SlUegonrctn@{ shape: win-pane, label: "_Published Sep 01, 2025, 05:00 AM_
+St explains: unravelling typhoons and emerging climate trends" }
+ToilVaTatnoedo@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:57 PM_
+Typhoon kajiki kills 8 in vietnam and thailand, with warnings of more flooding to come" }
+SlWathradnresrs@{ shape: win-pane, label: "_Published Aug 26, 2025, 01:18 PM_
+St explains: what caused the johor earthquake and is singapore safe from such tremors?" }
 
-UfypercAcer:::txtsize --> Cstaftetwt:::txtsize
-Cstaftetwt:::txtsize --> Ctertonsasnmdrs:::txtsize
-Ctertonsasnmdrs:::txtsize --> Whapira:::txtsize
-Cstaftetwt:::txtsize --> Ttpafrlnt:::txtsize
-Ttpafrlnt:::txtsize --> CUeaitaoldee:::txtsize
-Ttpafrlnt:::txtsize --> Uiantttgroted:::txtsize
-UfypercAcer:::txtsize --> TXmgelreent:::txtsize
-TXmgelreent:::txtsize --> ITXtnhaeame:::txtsize
-ITXtnhaeame:::txtsize --> Ciuaaaeirctt:::txtsize
-TXmgelreent:::txtsize --> ITXtnhaeame:::txtsize
-ITXtnhaeame:::txtsize --> Ciuaaaeirctt:::txtsize
+HceaCofeaJc:::txtsize --> JcrsrmiMsnu:::txtsize
+JcrsrmiMsnu:::txtsize --> Imhmgitmrnetic:::txtsize
+Imhmgitmrnetic:::txtsize --> Ctatoalenivlei:::txtsize
+Imhmgitmrnetic:::txtsize --> SToythpmoua:::txtsize
+JcrsrmiMsnu:::txtsize --> HcehnaaaaHamau:::txtsize
+HcehnaaaaHamau:::txtsize --> Pfrnymael:::txtsize
+HcehnaaaaHamau:::txtsize --> Wptfitfnreo:::txtsize
+HceaCofeaJc:::txtsize --> HceanhaatoCoo:::txtsize
+HceanhaatoCoo:::txtsize --> HcehnaaaaHamau:::txtsize
+HcehnaaaaHamau:::txtsize --> Pfrnymael:::txtsize
+HcehnaaaaHamau:::txtsize --> Wptfitfnreo:::txtsize
+HceanhaatoCoo:::txtsize --> SlUegonrctn:::txtsize
+SlUegonrctn:::txtsize --> ToilVaTatnoedo:::txtsize
+SlUegonrctn:::txtsize --> SlWathradnresrs:::txtsize
 
-Fecotesp@{ shape: win-pane, label: "_Published Oct 29, 2025, 12:05 PM_
-France expected to adopt consent-based rape law" }
-Gecgcrtkpby@{ shape: win-pane, label: "_Published Oct 09, 2025, 12:59 AM_
-Gisele pelicot urges accused rapist to ‘take responsibility’" }
-DieteyidFhchrew@{ shape: win-pane, label: "_Published Dec 19, 2024, 04:56 PM_
-Dominique pelicot jailed for 20 years in landmark french rape case that horrified the world" }
-MrThcdamai@{ shape: win-pane, label: "_Published Nov 27, 2024, 01:40 PM_
-‘mr everyman’: the 50 others accused in france’s mass rape trial" }
-IaFhatoapi@{ shape: win-pane, label: "_Published Sep 17, 2024, 04:16 PM_
-‘i am a rapist’: frenchman says in trial over mass rape of wife" }
-Gectcfpyfotema@{ shape: win-pane, label: "_Published Oct 06, 2025, 08:47 PM_
-Gisele pelicot attends court for appeal by one of 51 men convicted over her mass rape" }
-Polhfxaincst@{ shape: win-pane, label: "_Published Dec 20, 2024, 04:45 PM_
-Pelicot hailed as hero after ex-husband jailed in france mass rape trial" }
-Geccrcfprr@{ shape: win-pane, label: "_Published Oct 06, 2025, 10:20 AM_
-Gisele pelicot back in french court for appeal trial ‘ordeal’" }
-Feiwuoalase@{ shape: win-pane, label: "_Published Nov 26, 2024, 12:32 AM_
-France unveils new measures to combat violence against women" }
-HetncisriPoapt@{ shape: win-pane, label: "_Published Sep 14, 2024, 09:30 PM_
-Hundreds gather in french cities in support of gisele pelicot and all rape victims" }
-Fhnlapicone@{ shape: win-pane, label: "_Published Sep 10, 2024, 07:57 PM_
-Frenchman on trial for mass rape of wife back in court on wednesday" }
-Fhcdugatdsnhnt@{ shape: win-pane, label: "_Published Sep 03, 2024, 09:52 AM_
-French man accused of drugging wife and letting dozens of men rape her; 51 men go on trial" }
-OmlynrienwwN@{ shape: win-pane, label: "_Published Nov 25, 2024, 08:40 PM_
-One woman killed by partner or relative every 10 minutes worldwide: un" }
-OgswaUaleat@{ shape: win-pane, label: "_Published Sep 06, 2024, 02:10 AM_
-Outrage and sorrow at death of ugandan athlete rebecca cheptegei" }
-Wmoiwlsrecosaen@{ shape: win-pane, label: "_Published Jun 06, 2024, 08:15 AM_
-Woman mayor of mexico town killed, just hours after election of first female president" }
+Rdtvsorag@{ shape: win-pane, label: "_Published Oct 29, 2025, 04:35 PM_
+Record potato harvest is no boon in fries-mad belgium" }
+SgaareWoresoeiTk@{ shape: win-pane, label: "_Published Aug 16, 2025, 12:15 PM_
+Six-figure sales each durian season: why s’pore durian sellers are now live selling on tiktok" }
+Bioivralbdas@{ shape: win-pane, label: "_Published Aug 04, 2025, 04:00 AM_
+Best gifts for durian lovers from $7 that will last beyond durian season" }
+Tsuieotoiasg@{ shape: win-pane, label: "_Published Jul 12, 2025, 11:15 AM_
+The rise of tupai king, the rage of weather: how durian season is changing" }
+TKelhwhlrma@{ shape: win-pane, label: "_Published May 17, 2025, 03:26 PM_
+‘tupai king’ set to claim the crown in the world of premium durian" }
+SpncooiafE@{ shape: win-pane, label: "_Published Jul 09, 2025, 10:58 AM_
+Singaporeans flock to johor for durian feasts after ge2025" }
+EmnIsiriat@{ shape: win-pane, label: "_Published Oct 07, 2025, 05:15 PM_
+Extreme rain hits india’s premier darjeeling tea estates" }
+Hrteondlssdalna@{ shape: win-pane, label: "_Published Oct 06, 2025, 03:11 PM_
+Heavy rains trigger floods, landslides killing scores in india’s darjeeling and nepal" }
+Hrittpoa@{ shape: win-pane, label: "_Published Oct 05, 2025, 01:31 PM_
+Heavy rain kills at least 47 in nepal, block roads" }
+Toliaonlajg@{ shape: win-pane, label: "_Published Sep 29, 2025, 09:53 AM_
+Typhoon bualoi brings havoc to vietnam, killing 13 and injuring 46" }
 
-Fecotesp:::txtsize --> Gecgcrtkpby:::txtsize
-Gecgcrtkpby:::txtsize --> DieteyidFhchrew:::txtsize
-DieteyidFhchrew:::txtsize --> MrThcdamai:::txtsize
-DieteyidFhchrew:::txtsize --> IaFhatoapi:::txtsize
-Gecgcrtkpby:::txtsize --> Gectcfpyfotema:::txtsize
-Gectcfpyfotema:::txtsize --> Polhfxaincst:::txtsize
-Gectcfpyfotema:::txtsize --> Geccrcfprr:::txtsize
-Fecotesp:::txtsize --> Feiwuoalase:::txtsize
-Feiwuoalase:::txtsize --> HetncisriPoapt:::txtsize
-HetncisriPoapt:::txtsize --> Fhnlapicone:::txtsize
-HetncisriPoapt:::txtsize --> Fhcdugatdsnhnt:::txtsize
-Feiwuoalase:::txtsize --> OmlynrienwwN:::txtsize
-OmlynrienwwN:::txtsize --> OgswaUaleat:::txtsize
-OmlynrienwwN:::txtsize --> Wmoiwlsrecosaen:::txtsize
+Rdtvsorag:::txtsize --> SgaareWoresoeiTk:::txtsize
+SgaareWoresoeiTk:::txtsize --> Bioivralbdas:::txtsize
+SgaareWoresoeiTk:::txtsize --> Tsuieotoiasg:::txtsize
+Tsuieotoiasg:::txtsize --> TKelhwhlrma:::txtsize
+Tsuieotoiasg:::txtsize --> SpncooiafE:::txtsize
+Rdtvsorag:::txtsize --> EmnIsiriat:::txtsize
+EmnIsiriat:::txtsize --> Hrteondlssdalna:::txtsize
+Hrteondlssdalna:::txtsize --> Hrittpoa:::txtsize
+Hrteondlssdalna:::txtsize --> Toliaonlajg:::txtsize
 
-Utaneeosp@{ shape: win-pane, label: "_Published Oct 29, 2025, 11:45 AM_
-Us pentagon announces ‘new generation’ press corps" }
-Usejeosel@{ shape: win-pane, label: "_Published Oct 15, 2025, 04:56 AM_
-Us news outlets reject pentagon press access policy" }
-Tcroeeetnalrs@{ shape: win-pane, label: "_Published Jun 07, 2025, 07:28 AM_
-Trump can bar ap from some white house events for now, us appeals court says" }
-Ugeiurroese@{ shape: win-pane, label: "_Published Apr 09, 2025, 07:35 AM_
-Us judge orders white house to restore associated press access" }
-AiPaoooltse@{ shape: win-pane, label: "_Published Mar 05, 2025, 10:40 AM_
-Associated press asks court to restore full white house access" }
-NyeiiAclsdrda@{ shape: win-pane, label: "_Published Jun 05, 2025, 08:47 AM_
-Nearly all remaining voice of america employees could be fired under plan" }
-Tfeumotlgee@{ shape: win-pane, label: "_Published Mar 16, 2025, 08:10 AM_
-Trump freezes us-funded media outlets including voice of america" }
-Vormeepnaohrwl@{ shape: win-pane, label: "_Published Mar 22, 2025, 09:45 AM_
-Voice of america employees sue trump administration over shuttered news outlets" }
-ToiofoiAcrs@{ shape: win-pane, label: "_Published Aug 31, 2025, 08:08 AM_
-Trump officials move to fire most voice of america journalists" }
-Ugeenofinrrnor@{ shape: win-pane, label: "_Published Apr 23, 2025, 07:30 AM_
-Us judge orders preliminary voice of america funding restoration in blow to trump" }
-Tfeumotlgee@{ shape: win-pane, label: "_Published Mar 16, 2025, 08:10 AM_
-Trump freezes us-funded media outlets including voice of america" }
-Vormeepnaohrwl@{ shape: win-pane, label: "_Published Mar 22, 2025, 09:45 AM_
-Voice of america employees sue trump administration over shuttered news outlets" }
-TuCekofiiaesi@{ shape: win-pane, label: "_Published Jun 26, 2025, 10:25 AM_
-Trump urges congress to ‘kill’ voice of america as its leader defends gutting it" }
-Vormeepnaohrwl@{ shape: win-pane, label: "_Published Mar 22, 2025, 09:45 AM_
-Voice of america employees sue trump administration over shuttered news outlets" }
-Acmadooseayc@{ shape: win-pane, label: "_Published Mar 17, 2025, 07:45 AM_
-As voice of america goes dark, some broadcasts are replaced by music" }
+Binredber@{ shape: win-pane, label: "_Published Oct 29, 2025, 03:45 PM_
+Britain’s king charles heckled over brother andrew" }
+Bsarcetfgeostei@{ shape: win-pane, label: "_Published Oct 26, 2025, 09:30 PM_
+British royal andrew faces speculation of being forced out of mansion, stripped of titles" }
+Vnumroeieryin@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:12 PM_
+Virginia giuffre memoir goes on sale, heaping fresh scrutiny on prince andrew" }
+Biinastiifeal@{ shape: win-pane, label: "_Published Feb 16, 2022, 12:22 AM_
+Britain's prince andrew agrees to settle virginia giuffre sex assault claim" }
+BiingunluYteaas@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:26 AM_
+Britain’s prince andrew gives up using title of duke of york, still denies accusations" }
+Jetcriiebceiy@{ shape: win-pane, label: "_Published Apr 26, 2025, 12:15 PM_
+Jeffrey epstein accuser virginia giuffre dies by suicide, her family says" }
+Jetcriierctfulrh@{ shape: win-pane, label: "_Published Apr 02, 2025, 01:05 AM_
+Jeffrey epstein accuser virginia giuffre in serious condition after australia car crash" }
+FrlEphrsssch@{ shape: win-pane, label: "_Published Mar 13, 2025, 02:31 AM_
+Former barclays ceo slept with jeffrey epstein’s assistant, court hears" }
+Vnumroeieryin@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:12 PM_
+Virginia giuffre memoir goes on sale, heaping fresh scrutiny on prince andrew" }
+Biinastiifeal@{ shape: win-pane, label: "_Published Feb 16, 2022, 12:22 AM_
+Britain's prince andrew agrees to settle virginia giuffre sex assault claim" }
+BiingunluYteaas@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:26 AM_
+Britain’s prince andrew gives up using title of duke of york, still denies accusations" }
+Peeuaaaehatho@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:12 PM_
+Prince andrew accuser says he acted as if sex with her was ‘birthright’: memoir" }
+Peeuaaaehatho@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:12 PM_
+Prince andrew accuser says he acted as if sex with her was ‘birthright’: memoir" }
 
-Utaneeosp:::txtsize --> Usejeosel:::txtsize
-Usejeosel:::txtsize --> Tcroeeetnalrs:::txtsize
-Tcroeeetnalrs:::txtsize --> Ugeiurroese:::txtsize
-Tcroeeetnalrs:::txtsize --> AiPaoooltse:::txtsize
-Usejeosel:::txtsize --> NyeiiAclsdrda:::txtsize
-NyeiiAclsdrda:::txtsize --> Tfeumotlgee:::txtsize
-NyeiiAclsdrda:::txtsize --> Vormeepnaohrwl:::txtsize
-Utaneeosp:::txtsize --> ToiofoiAcrs:::txtsize
-ToiofoiAcrs:::txtsize --> Ugeenofinrrnor:::txtsize
-Ugeenofinrrnor:::txtsize --> Tfeumotlgee:::txtsize
-Ugeenofinrrnor:::txtsize --> Vormeepnaohrwl:::txtsize
-ToiofoiAcrs:::txtsize --> TuCekofiiaesi:::txtsize
-TuCekofiiaesi:::txtsize --> Vormeepnaohrwl:::txtsize
-TuCekofiiaesi:::txtsize --> Acmadooseayc:::txtsize
+Binredber:::txtsize --> Bsarcetfgeostei:::txtsize
+Bsarcetfgeostei:::txtsize --> Vnumroeieryin:::txtsize
+Vnumroeieryin:::txtsize --> Biinastiifeal:::txtsize
+Vnumroeieryin:::txtsize --> BiingunluYteaas:::txtsize
+Bsarcetfgeostei:::txtsize --> Jetcriiebceiy:::txtsize
+Jetcriiebceiy:::txtsize --> Jetcriierctfulrh:::txtsize
+Jetcriiebceiy:::txtsize --> FrlEphrsssch:::txtsize
+Binredber:::txtsize --> Vnumroeieryin:::txtsize
+Vnumroeieryin:::txtsize --> Biinastiifeal:::txtsize
+Vnumroeieryin:::txtsize --> BiingunluYteaas:::txtsize
+BiingunluYteaas:::txtsize --> Peeuaaaehatho:::txtsize
+BiingunluYteaas:::txtsize --> Peeuaaaehatho:::txtsize
 
 ```
-<i>Last updated: 2025-10-29 16:00:48.113120 (GMT+8)</i>
+<i>Last updated: 2025-10-29 17:56:14.508768 (GMT+8)</i>
 <!-- END -->
