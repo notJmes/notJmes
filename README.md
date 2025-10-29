@@ -16,102 +16,132 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-HuecUlrpdha@{ shape: win-pane, label: "_Published Oct 29, 2025, 07:40 PM_
-How trump is extracting us$900 billion from japan and south korea" }
-Ttkeripedki@{ shape: win-pane, label: "_Published Oct 28, 2025, 06:15 AM_
-Trump to talk trade, security with japan’s new leader takaichi" }
-STcksaarminr@{ shape: win-pane, label: "_Published Oct 21, 2025, 12:50 PM_
-Sanae takaichi makes history as japan’s first woman prime minister" }
-STctJstnesfignst@{ shape: win-pane, label: "_Published Oct 04, 2025, 12:57 PM_
-Sanae takaichi set to be japan’s first woman prime minister after winning ruling ldp’s election" }
-Puaaorbensoctar@{ shape: win-pane, label: "_Published Oct 16, 2025, 09:42 PM_
-‘pitiful’ sanae takaichi on course to become japan pm as she woos new coalition partner" }
-Tgoeepiaups@{ shape: win-pane, label: "_Published Oct 27, 2025, 08:53 PM_
-Trump gets royal welcome in japan; china trade truce hopes rise" }
-TcdfeassUnkai@{ shape: win-pane, label: "_Published Oct 26, 2025, 12:55 PM_
-Trump confident of trade deal after ‘successful’ us-china talks in malaysia" }
-Tsoonalinrnst@{ shape: win-pane, label: "_Published Sep 26, 2025, 01:47 PM_
-Trump says south korea and japan will pay billions ‘upfront’ in investment" }
-Ksteueioo@{ shape: win-pane, label: "_Published Oct 29, 2025, 09:06 AM_
-Key issues at stake in trump-lee summit in south korea" }
-Uteecrivenatf@{ shape: win-pane, label: "_Published Sep 09, 2025, 03:52 PM_
-Us, south korea in deadlock over $449 billion investment fund as part of tariff deal" }
-Tsesweaohib@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:34 AM_
-Trump’s trade deals come with few details to flesh out big numbers" }
-Rndpiotmcirnrn@{ shape: win-pane, label: "_Published Sep 08, 2025, 11:00 PM_
-Raid on hyundai-lg plant in us points to trump’s focus on immigration enforcement" }
-TsesetemurresS@{ shape: win-pane, label: "_Published Aug 26, 2025, 07:05 AM_
-Trump says he wants to meet north korea’s kim as south korean president visits us" }
-SKneatstaTbsS@{ shape: win-pane, label: "_Published Aug 26, 2025, 01:07 AM_
-South korean leader lee at white house for talks after trump blasts the us ally" }
-Unlyphaiogh@{ shape: win-pane, label: "_Published Mar 01, 2025, 01:48 AM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
+MttMczsespii@{ shape: win-pane, label: "_Published Oct 29, 2025, 11:35 PM_
+Mediator qatar’s pm expects gaza ceasefire to last despite ‘violation’" }
+IlkzeuHolgode@{ shape: win-pane, label: "_Published Oct 29, 2025, 03:41 AM_
+Israel strikes gaza after accusing hamas of violating us-brokered ceasefire" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
+Israel marks oct 7 anniversary as talks are held to end gaza war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Ilillaeaftspe@{ shape: win-pane, label: "_Published Oct 29, 2025, 10:55 AM_
+Israel says it will uphold gaza ceasefire a day after strikes kill 104 people" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
+NyarisaHhoeseimnt@{ shape: win-pane, label: "_Published Oct 28, 2025, 07:30 PM_
+Netanyahu says israel will respond after hamas hands over remains not belonging to missing hostages" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Hnruosd@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:32 AM_
+How donald trump pulled off his gaza deal" }
 
-HuecUlrpdha:::txtsize --> Ttkeripedki:::txtsize
-Ttkeripedki:::txtsize --> STcksaarminr:::txtsize
-STcksaarminr:::txtsize --> STctJstnesfignst:::txtsize
-STcksaarminr:::txtsize --> Puaaorbensoctar:::txtsize
-Ttkeripedki:::txtsize --> Tgoeepiaups:::txtsize
-Tgoeepiaups:::txtsize --> TcdfeassUnkai:::txtsize
-Tgoeepiaups:::txtsize --> Tsoonalinrnst:::txtsize
-HuecUlrpdha:::txtsize --> Ksteueioo:::txtsize
-Ksteueioo:::txtsize --> Uteecrivenatf:::txtsize
-Uteecrivenatf:::txtsize --> Tsesweaohib:::txtsize
-Uteecrivenatf:::txtsize --> Rndpiotmcirnrn:::txtsize
-Ksteueioo:::txtsize --> TsesetemurresS:::txtsize
-TsesetemurresS:::txtsize --> SKneatstaTbsS:::txtsize
-TsesetemurresS:::txtsize --> Unlyphaiogh:::txtsize
+MttMczsespii:::txtsize --> IlkzeuHolgode:::txtsize
+IlkzeuHolgode:::txtsize --> TssHaossaaorslaoe:::txtsize
+TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
+TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
+IlkzeuHolgode:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+MttMczsespii:::txtsize --> Ilillaeaftspe:::txtsize
+Ilillaeaftspe:::txtsize --> Tdrcaaededlncbs:::txtsize
+Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
+Ilillaeaftspe:::txtsize --> NyarisaHhoeseimnt:::txtsize
+NyarisaHhoeseimnt:::txtsize --> NyeeawHakl:::txtsize
+NyarisaHhoeseimnt:::txtsize --> Hnruosd:::txtsize
 
-YUkentysjay@{ shape: win-pane, label: "_Published Oct 29, 2025, 06:46 PM_
-Young us workers see downshift in pay gains amid job scarcity" }
-DhayoeaGdtrini@{ shape: win-pane, label: "_Published Aug 29, 2025, 07:00 AM_
-Do you have a ‘5-9’ after your 9-5 job? some singapore gen zs do and they are having fun with it" }
-Dnwharsodncewl@{ shape: win-pane, label: "_Published Jul 11, 2025, 02:35 PM_
-‘don’t know how to be human any more’: why some young adults need a course on how to talk" }
-Skocewsgbfdsu@{ shape: win-pane, label: "_Published Nov 28, 2024, 05:44 PM_
-Shrinking social circles: why we may struggle to build friendships as adults" }
-Cnptevtbolrutsipn@{ shape: win-pane, label: "_Published Jul 11, 2025, 09:30 PM_
-Community space stranger conversations blossoms as ‘library of human stories’ and life experiences" }
-Dnwharsodncewl@{ shape: win-pane, label: "_Published Jul 11, 2025, 02:35 PM_
-‘don’t know how to be human any more’: why some young adults need a course on how to talk" }
+Uiaepmseams@{ shape: win-pane, label: "_Published Oct 29, 2025, 10:15 PM_
+Us to withdraw some troops from nato’s eastern flank, romania says" }
+Aoeisr@{ shape: win-pane, label: "_Published Sep 23, 2025, 05:00 AM_
+An emboldened putin goes after nato" }
+Rasrnicatoo@{ shape: win-pane, label: "_Published Sep 19, 2025, 11:15 PM_
+Russian jets enter estonia’s airspace in latest test for nato" }
+PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
+Poland shoots down drones, the first nato member to open fire during ukraine war" }
+PdmjlLnopnve@{ shape: win-pane, label: "_Published Sep 14, 2025, 12:05 AM_
+Poland scrambles jets, closes lublin airport in ‘preventative’ move" }
+Raedikeesivoi@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:52 AM_
+Russia reiterated previous ukraine peace terms to us in private communique" }
+PTtiaodrieei@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
+Putin-trump talks in budapest on hold after russia rejects ceasefire" }
+Tttndtrttcke@{ shape: win-pane, label: "_Published Oct 16, 2025, 11:15 PM_
+Trump to meet putin in budapest after ‘great’ call to discuss ukraine" }
+Raedikeesivoi@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:52 AM_
+Russia reiterated previous ukraine peace terms to us in private communique" }
+Lfsnhmuledmeks@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:07 AM_
+Lack of decision on tomahawks made russia less keen on diplomacy, zelensky says" }
+PTtiaodrieei@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
+Putin-trump talks in budapest on hold after russia rejects ceasefire" }
+PTtiaodrieei@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
+Putin-trump talks in budapest on hold after russia rejects ceasefire" }
 
-YUkentysjay:::txtsize --> DhayoeaGdtrini:::txtsize
-DhayoeaGdtrini:::txtsize --> Dnwharsodncewl:::txtsize
-Dnwharsodncewl:::txtsize --> Skocewsgbfdsu:::txtsize
-DhayoeaGdtrini:::txtsize --> Cnptevtbolrutsipn:::txtsize
-Cnptevtbolrutsipn:::txtsize --> Dnwharsodncewl:::txtsize
+Uiaepmseams:::txtsize --> Aoeisr:::txtsize
+Aoeisr:::txtsize --> Rasrnicatoo:::txtsize
+Rasrnicatoo:::txtsize --> PdtnefNetndgir:::txtsize
+Rasrnicatoo:::txtsize --> PdmjlLnopnve:::txtsize
+Uiaepmseams:::txtsize --> Raedikeesivoi:::txtsize
+Raedikeesivoi:::txtsize --> PTtiaodrieei:::txtsize
+PTtiaodrieei:::txtsize --> Tttndtrttcke:::txtsize
+PTtiaodrieei:::txtsize --> Raedikeesivoi:::txtsize
+Raedikeesivoi:::txtsize --> Lfsnhmuledmeks:::txtsize
+Lfsnhmuledmeks:::txtsize --> PTtiaodrieei:::txtsize
+Lfsnhmuledmeks:::txtsize --> PTtiaodrieei:::txtsize
 
-TlfeeospesStig@{ shape: win-pane, label: "_Published Oct 29, 2025, 06:15 PM_
-Truckload of ‘aggressive’ lab monkeys escape after crash in us; one still missing" }
-TodabieonCio@{ shape: win-pane, label: "_Published Dec 12, 2021, 10:52 PM_
-Two lions sedated after breaking free of container in changi airport" }
-Lubttetofeesrir@{ shape: win-pane, label: "_Published Apr 09, 2019, 10:58 PM_
-Lim chu kang bull still at large, more than 14 hours after reported missing from dairy farm" }
-Tyaroinemhcthage@{ shape: win-pane, label: "_Published Nov 02, 2024, 09:00 AM_
-Twiggy the panther, congo the hippo, and other animals that escaped their homes at singapore zoo" }
-AakaarnogChgrh@{ shape: win-pane, label: "_Published Nov 01, 2024, 02:36 PM_
-African monkey that escaped from mandai zoo caught in choa chu kang after 6 months" }
-RiegozgnentsiSp@{ shape: win-pane, label: "_Published Sep 19, 2023, 12:21 AM_
-Rare silvered langur spotted ‘zoning out’ in clementi in first such sighting in singapore" }
-Tseullmnrmyc@{ shape: win-pane, label: "_Published Jul 23, 2023, 11:52 PM_
-Tapir spotted in punggol likely swam to singapore from malaysia: acres" }
-AakaarnogChgrh@{ shape: win-pane, label: "_Published Nov 01, 2024, 02:36 PM_
-African monkey that escaped from mandai zoo caught in choa chu kang after 6 months" }
-RiegozgnentsiSp@{ shape: win-pane, label: "_Published Sep 19, 2023, 12:21 AM_
-Rare silvered langur spotted ‘zoning out’ in clementi in first such sighting in singapore" }
-Tseullmnrmyc@{ shape: win-pane, label: "_Published Jul 23, 2023, 11:52 PM_
-Tapir spotted in punggol likely swam to singapore from malaysia: acres" }
+Toaoseiiulmsr@{ shape: win-pane, label: "_Published Oct 29, 2025, 09:48 PM_
+Trump ousts arts commission reviewing white house ballroom plans: report" }
+DibsrhoanTbo@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:35 AM_
+Demolition begins on part of white house east wing for trump ballroom" }
+Tstliahstrobd@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:45 PM_
+Trump seeks to build a triumphal arch in washington for nation’s 250th birthday" }
+Thdreyrhoao@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:50 PM_
+Trump hosts dinner for wealthy donors to white house ballroom" }
+Tbsliltaikr@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:32 AM_
+Trump brings the bling with gold-plated oval office makeover" }
+Tstliahstrobd@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:45 PM_
+Trump seeks to build a triumphal arch in washington for nation’s 250th birthday" }
+Thdreyrhoao@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:50 PM_
+Trump hosts dinner for wealthy donors to white house ballroom" }
+Tbsliltaikr@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:32 AM_
+Trump brings the bling with gold-plated oval office makeover" }
+Tletlmphrnmhts@{ shape: win-pane, label: "_Published Oct 25, 2025, 08:05 PM_
+The bulldozer and the ballroom: trump puts his permanent stamp on the white house" }
+WHEilowboudioo@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:39 AM_
+White house east wing will be torn down for ballroom, trump had promised not to do so" }
+Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
+‘music to my ears’: trump brushes off critics of white house demolition" }
+Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
+‘music to my ears’: trump brushes off critics of white house demolition" }
+WHEilowboudioo@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:39 AM_
+White house east wing will be torn down for ballroom, trump had promised not to do so" }
+Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
+‘music to my ears’: trump brushes off critics of white house demolition" }
+Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
+‘music to my ears’: trump brushes off critics of white house demolition" }
 
-TlfeeospesStig:::txtsize --> TodabieonCio:::txtsize
-TodabieonCio:::txtsize --> Lubttetofeesrir:::txtsize
-TlfeeospesStig:::txtsize --> Tyaroinemhcthage:::txtsize
-Tyaroinemhcthage:::txtsize --> AakaarnogChgrh:::txtsize
-AakaarnogChgrh:::txtsize --> RiegozgnentsiSp:::txtsize
-AakaarnogChgrh:::txtsize --> Tseullmnrmyc:::txtsize
-Tyaroinemhcthage:::txtsize --> AakaarnogChgrh:::txtsize
-AakaarnogChgrh:::txtsize --> RiegozgnentsiSp:::txtsize
-AakaarnogChgrh:::txtsize --> Tseullmnrmyc:::txtsize
+Toaoseiiulmsr:::txtsize --> DibsrhoanTbo:::txtsize
+DibsrhoanTbo:::txtsize --> Tstliahstrobd:::txtsize
+Tstliahstrobd:::txtsize --> Thdreyrhoao:::txtsize
+Tstliahstrobd:::txtsize --> Tbsliltaikr:::txtsize
+DibsrhoanTbo:::txtsize --> Tstliahstrobd:::txtsize
+Tstliahstrobd:::txtsize --> Thdreyrhoao:::txtsize
+Tstliahstrobd:::txtsize --> Tbsliltaikr:::txtsize
+Toaoseiiulmsr:::txtsize --> Tletlmphrnmhts:::txtsize
+Tletlmphrnmhts:::txtsize --> WHEilowboudioo:::txtsize
+WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
+WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
+Tletlmphrnmhts:::txtsize --> WHEilowboudioo:::txtsize
+WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
+WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
 
 ```
-<i>Last updated: 2025-10-29 20:00:28.399419 (GMT+8)</i>
+<i>Last updated: 2025-10-30 00:00:46.185365 (GMT+8)</i>
 <!-- END -->
