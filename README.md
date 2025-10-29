@@ -16,114 +16,129 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ilnrateaureak@{ shape: win-pane, label: "_Published Oct 29, 2025, 03:41 AM_
-Israeli planes strike gaza city after netanyahu orders ‘powerful attacks’" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
-Israel marks oct 7 anniversary as talks are held to end gaza war" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-Hatmzcnhodro@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:11 PM_
-Hamas accepts trump’s gaza peace plan, but the bloodshed is far from over" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
+QssXovlnsntft@{ shape: win-pane, label: "_Published Oct 29, 2025, 07:38 AM_
+Quiet supersonic x-59 jet soars over california desert in first test flight" }
+Festoescnt@{ shape: win-pane, label: "_Published May 05, 2025, 10:00 PM_
+France names first concorde jet a historical monument" }
+FeaebBoesoti@{ shape: win-pane, label: "_Published Feb 01, 2023, 02:42 AM_
+'farewell to a wonderful beast': billionaire branson's homage to boeing 747" }
+Bgonmtaoad@{ shape: win-pane, label: "_Published Jan 30, 2023, 08:16 AM_
+Boeing's 747, the original jumbo jet, prepares for final send-off" }
+Unarltratlahrn@{ shape: win-pane, label: "_Published Jul 03, 2022, 09:26 AM_
+Ukraine dreams of rebuilding the world's largest airplane. can richard branson help?" }
+ToatMnaMin@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:00 AM_
+Tensions flare between musk and nasa over moon mission" }
+Uinboniiclai@{ shape: win-pane, label: "_Published Oct 21, 2025, 12:55 AM_
+Us soliciting new bids for moon mission amid spacex delays: nasa chief" }
+SXsneetiMneuy@{ shape: win-pane, label: "_Published Sep 23, 2024, 05:12 AM_
+Spacex plans to send five uncrewed starships to mars in two years, musk says" }
+SXltrtedigdo@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:49 AM_
+Spacex completes 11th starship test before debuting upgraded prototype" }
+SXltrtedigdo@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:49 AM_
+Spacex completes 11th starship test before debuting upgraded prototype" }
+Maaoifrbap@{ shape: win-pane, label: "_Published Sep 11, 2025, 09:30 PM_
+Musk says spacex to fly bigger, fully reusable starship in 2026" }
+Euoseeft@{ shape: win-pane, label: "_Published Jun 04, 2025, 03:46 AM_
+Elon musk projects spacex revenue of about $20b in 2025" }
 
-Ilnrateaureak:::txtsize --> TssHaossaaorslaoe:::txtsize
-TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
-Ilsnrakhoar:::txtsize --> Sbsrcdnacaale:::txtsize
-Ilsnrakhoar:::txtsize --> Hatmzcnhodro:::txtsize
-TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Ilnrateaureak:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+QssXovlnsntft:::txtsize --> Festoescnt:::txtsize
+Festoescnt:::txtsize --> FeaebBoesoti:::txtsize
+FeaebBoesoti:::txtsize --> Bgonmtaoad:::txtsize
+FeaebBoesoti:::txtsize --> Unarltratlahrn:::txtsize
+QssXovlnsntft:::txtsize --> ToatMnaMin:::txtsize
+ToatMnaMin:::txtsize --> Uinboniiclai:::txtsize
+Uinboniiclai:::txtsize --> SXsneetiMneuy:::txtsize
+Uinboniiclai:::txtsize --> SXltrtedigdo:::txtsize
+ToatMnaMin:::txtsize --> SXltrtedigdo:::txtsize
+SXltrtedigdo:::txtsize --> Maaoifrbap:::txtsize
+SXltrtedigdo:::txtsize --> Euoseeft:::txtsize
 
-TslyarstoiuIpi@{ shape: win-pane, label: "_Published Oct 29, 2025, 01:45 AM_
-Trump’s popularity dips as americans sweat cost of living, reuters/ipsos poll finds" }
-Cenmvetr@{ shape: win-pane, label: "_Published Oct 27, 2025, 08:56 PM_
-Can president trump serve more than two terms?" }
-Trocstiwloorm@{ shape: win-pane, label: "_Published Oct 27, 2025, 03:41 PM_
-Trump rules out vice-president gambit but would ‘love to’ run for third term" }
-TdragnfitirsPd@{ shape: win-pane, label: "_Published Jan 21, 2025, 01:02 AM_
-Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
-Kaiiiweoiriimn@{ shape: win-pane, label: "_Published Oct 26, 2025, 11:00 PM_
-Kamala harris, california’s newsom begin jockeying for 2028 presidential campaigns" }
-IbhahrnrccidraHs@{ shape: win-pane, label: "_Published Jul 22, 2024, 01:59 AM_
-‘it has been the greatest honour’: biden ends re-election campaign and endorses kamala harris" }
-WaHscwbaUtfsi@{ shape: win-pane, label: "_Published Jul 21, 2024, 10:29 PM_
-With kamala harris, democrats would bet against us history of sexism, racism" }
+Tsylritigis@{ shape: win-pane, label: "_Published Oct 29, 2025, 07:19 AM_
+Texas sues tylenol makers, claiming they hid drug’s autism risks" }
+Tlampelaeitece@{ shape: win-pane, label: "_Published Sep 23, 2025, 04:56 AM_
+Trump links autism with paracetamol and vaccines, claims not backed by science" }
+Taitopeltago@{ shape: win-pane, label: "_Published Sep 22, 2025, 08:53 PM_
+Trump administration to link paracetamol to autism: washington post" }
+TwskoisC@{ shape: win-pane, label: "_Published Sep 13, 2025, 12:58 PM_
+Trump weighs crackdown on medicines from china" }
+Osptegdaedo@{ shape: win-pane, label: "_Published Sep 16, 2025, 02:25 AM_
+One in six us parents rejecting standard vaccine schedule: poll" }
+TwskoisC@{ shape: win-pane, label: "_Published Sep 13, 2025, 12:58 PM_
+Trump weighs crackdown on medicines from china" }
+Tshtfog@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:50 PM_
+Trump says pharma tariff may go as high as 250%" }
+Sthtulfntiyrgnnn@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:54 PM_
+Scientists hit out at trump’s claim of tylenol-autism link, say fever a bigger danger in pregnancy" }
+Tlampelaeitece@{ shape: win-pane, label: "_Published Sep 23, 2025, 04:56 AM_
+Trump links autism with paracetamol and vaccines, claims not backed by science" }
+Taitopeltago@{ shape: win-pane, label: "_Published Sep 22, 2025, 08:53 PM_
+Trump administration to link paracetamol to autism: washington post" }
+TwskoisC@{ shape: win-pane, label: "_Published Sep 13, 2025, 12:58 PM_
+Trump weighs crackdown on medicines from china" }
+IinonswatWhes@{ shape: win-pane, label: "_Published Sep 23, 2025, 10:45 AM_
+Is autism linked to tylenol, also known as paracetamol? what the research says" }
+Tlampelaeitece@{ shape: win-pane, label: "_Published Sep 23, 2025, 04:56 AM_
+Trump links autism with paracetamol and vaccines, claims not backed by science" }
+Tlampelaeitece@{ shape: win-pane, label: "_Published Sep 23, 2025, 04:56 AM_
+Trump links autism with paracetamol and vaccines, claims not backed by science" }
 
-TslyarstoiuIpi:::txtsize --> Cenmvetr:::txtsize
-Cenmvetr:::txtsize --> Trocstiwloorm:::txtsize
-Trocstiwloorm:::txtsize --> TdragnfitirsPd:::txtsize
-Trocstiwloorm:::txtsize --> Kaiiiweoiriimn:::txtsize
-Cenmvetr:::txtsize --> IbhahrnrccidraHs:::txtsize
-IbhahrnrccidraHs:::txtsize --> WaHscwbaUtfsi:::txtsize
+Tsylritigis:::txtsize --> Tlampelaeitece:::txtsize
+Tlampelaeitece:::txtsize --> Taitopeltago:::txtsize
+Taitopeltago:::txtsize --> TwskoisC:::txtsize
+Taitopeltago:::txtsize --> Osptegdaedo:::txtsize
+Tlampelaeitece:::txtsize --> TwskoisC:::txtsize
+TwskoisC:::txtsize --> Tshtfog:::txtsize
+Tsylritigis:::txtsize --> Sthtulfntiyrgnnn:::txtsize
+Sthtulfntiyrgnnn:::txtsize --> Tlampelaeitece:::txtsize
+Tlampelaeitece:::txtsize --> Taitopeltago:::txtsize
+Tlampelaeitece:::txtsize --> TwskoisC:::txtsize
+Sthtulfntiyrgnnn:::txtsize --> IinonswatWhes:::txtsize
+IinonswatWhes:::txtsize --> Tlampelaeitece:::txtsize
+IinonswatWhes:::txtsize --> Tlampelaeitece:::txtsize
 
-Nselgufexeeov@{ shape: win-pane, label: "_Published Oct 29, 2025, 01:00 AM_
-New us strikes kill 14 alleged drug traffickers, mexico leads rescue of survivor" }
-Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
-Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
-Tseaonencl@{ shape: win-pane, label: "_Published Oct 24, 2025, 05:55 AM_
-Trump says declaration of war not needed on drug cartels" }
-Irseravrrfas@{ shape: win-pane, label: "_Published Oct 17, 2025, 08:00 AM_
-In a first, us strike in caribbean leaves survivors, us official says" }
-Uetvteaenet@{ shape: win-pane, label: "_Published Oct 21, 2025, 11:03 PM_
-Us covert actions ‘violate venezuela’s sovereignty’: un experts" }
-Uisepdvlef@{ shape: win-pane, label: "_Published Oct 23, 2025, 01:07 AM_
-Us military strikes suspected drug vessel in the pacific" }
-TsScersnsrn@{ shape: win-pane, label: "_Published Sep 20, 2025, 09:01 AM_
-Trump says us struck alleged drug vessel in latest operation" }
-Ustmrvllaeraasnt@{ shape: win-pane, label: "_Published Oct 20, 2025, 08:20 AM_
-Us says it hit colombian rebel vessel as colombia condemns trump’s accusations against petro" }
-TcrAotnzrnsou@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:05 AM_
-Trump confirms cia authorisation in venezuela, raising pressure on maduro" }
-Thtniahclgt@{ shape: win-pane, label: "_Published Oct 03, 2025, 05:25 AM_
-Trump has determined us is at war with drug cartels, congress told" }
-CbretcUiittlfiv@{ shape: win-pane, label: "_Published Sep 28, 2025, 09:18 AM_
-Colombian president petro accuses us of violating international law after visa revoked" }
-Aoienempsiroins@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:00 AM_
-At un, colombian president urges ‘criminal process’ against trump for strikes on boats" }
-UuCiboontnls@{ shape: win-pane, label: "_Published Oct 11, 2025, 07:58 AM_
-Un security council members voice concern about us-venezuela tensions" }
+UsotBsiagsisi@{ shape: win-pane, label: "_Published Oct 29, 2025, 06:59 AM_
+Us house report details biden’s decline, claiming he was impaired as president" }
+Wdaosstr@{ shape: win-pane, label: "_Published Dec 03, 2024, 08:15 AM_
+Why biden’s pardon of his son is so controversial" }
+Ustnosuibln@{ shape: win-pane, label: "_Published Dec 02, 2024, 08:53 AM_
+Us president biden pardons his son hunter in bombshell u-turn" }
+Usoyabendeeepyu@{ shape: win-pane, label: "_Published Aug 08, 2024, 09:41 AM_
+Us prosecutors says romanian businessman hired hunter biden to seek us policy influence" }
+Hrndtts@{ shape: win-pane, label: "_Published Jun 12, 2024, 02:35 AM_
+Hunter biden found guilty. what comes next?" }
+Hrndtts@{ shape: win-pane, label: "_Published Jun 12, 2024, 02:35 AM_
+Hunter biden found guilty. what comes next?" }
+UstHrnadsuji@{ shape: win-pane, label: "_Published Jun 12, 2024, 12:15 AM_
+Us president’s son, hunter biden, lied about drug use to buy gun, jury finds" }
+UstHrnadsuji@{ shape: win-pane, label: "_Published Jun 12, 2024, 12:15 AM_
+Us president’s son, hunter biden, lied about drug use to buy gun, jury finds" }
+Jdirebddaoao@{ shape: win-pane, label: "_Published Jul 01, 2024, 07:39 AM_
+Joe biden’s disastrous debate blamed on bad preparation, exhaustion" }
+BsleUsteenspc@{ shape: win-pane, label: "_Published Jun 28, 2024, 09:21 AM_
+Biden stumbles in early us presidential debate exchanges as trump pounces" }
+Balcoluohnc@{ shape: win-pane, label: "_Published Feb 09, 2024, 07:15 AM_
+Biden assails special counsel for questioning his mental acuity" }
+SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
+Storming of us capitol: timeline of key events in washington" }
+JioTgyltuni@{ shape: win-pane, label: "_Published May 31, 2024, 05:18 AM_
+Jury finds donald trump guilty on all 34 counts at hush money trial" }
+Frenmrvseebeia@{ shape: win-pane, label: "_Published Apr 04, 2023, 08:59 PM_
+Former us president trump charged over hush money scheme to boost 2016 election chances" }
 
-Nselgufexeeov:::txtsize --> Uidycceuomasnswee:::txtsize
-Uidycceuomasnswee:::txtsize --> Tseaonencl:::txtsize
-Tseaonencl:::txtsize --> Irseravrrfas:::txtsize
-Tseaonencl:::txtsize --> Uetvteaenet:::txtsize
-Uidycceuomasnswee:::txtsize --> Uisepdvlef:::txtsize
-Uisepdvlef:::txtsize --> TsScersnsrn:::txtsize
-Uisepdvlef:::txtsize --> Ustmrvllaeraasnt:::txtsize
-Nselgufexeeov:::txtsize --> TcrAotnzrnsou:::txtsize
-TcrAotnzrnsou:::txtsize --> Thtniahclgt:::txtsize
-Thtniahclgt:::txtsize --> CbretcUiittlfiv:::txtsize
-Thtniahclgt:::txtsize --> Aoienempsiroins:::txtsize
-TcrAotnzrnsou:::txtsize --> UuCiboontnls:::txtsize
+UsotBsiagsisi:::txtsize --> Wdaosstr:::txtsize
+Wdaosstr:::txtsize --> Ustnosuibln:::txtsize
+Ustnosuibln:::txtsize --> Usoyabendeeepyu:::txtsize
+Ustnosuibln:::txtsize --> Hrndtts:::txtsize
+Wdaosstr:::txtsize --> Hrndtts:::txtsize
+Hrndtts:::txtsize --> UstHrnadsuji:::txtsize
+Hrndtts:::txtsize --> UstHrnadsuji:::txtsize
+UsotBsiagsisi:::txtsize --> Jdirebddaoao:::txtsize
+Jdirebddaoao:::txtsize --> BsleUsteenspc:::txtsize
+BsleUsteenspc:::txtsize --> Balcoluohnc:::txtsize
+BsleUsteenspc:::txtsize --> SiUiinenWn:::txtsize
+Jdirebddaoao:::txtsize --> JioTgyltuni:::txtsize
+JioTgyltuni:::txtsize --> Frenmrvseebeia:::txtsize
 
 ```
-<i>Last updated: 2025-10-29 04:00:36.614299 (GMT+8)</i>
+<i>Last updated: 2025-10-29 08:00:55.494951 (GMT+8)</i>
 <!-- END -->
