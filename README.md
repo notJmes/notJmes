@@ -16,123 +16,102 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-HceaCofeaJc@{ shape: win-pane, label: "_Published Oct 29, 2025, 04:46 PM_
-Hurricane melissa hits cuba hours after devastating jamaica" }
-JcrsrmiMsnu@{ shape: win-pane, label: "_Published Oct 28, 2025, 08:05 PM_
-Jamaica’s strongest-ever storm, hurricane melissa, turns to cuba" }
-Imhmgitmrnetic@{ shape: win-pane, label: "_Published Nov 20, 2024, 07:49 PM_
-Is climate change making tropical storms more frequent? scientists say it’s unclear" }
-Ctatoalenivlei@{ shape: win-pane, label: "_Published Nov 19, 2024, 06:00 PM_
-Climate finance at cop29: loans can’t help developing nations avert climate crisis" }
-SToythpmoua@{ shape: win-pane, label: "_Published Nov 17, 2024, 10:45 AM_
-Super typhoon man-yi batters philippines’ most populous island" }
-HcehnaaaaHamau@{ shape: win-pane, label: "_Published Jul 03, 2024, 01:40 PM_
-Hurricane beryl, churning towards jamaica, threatens haiti and dominican republic" }
-Pfrnymael@{ shape: win-pane, label: "_Published Jul 02, 2024, 11:05 AM_
-Powerful hurricane beryl pummels caribbean islands" }
-Wptfitfnreo@{ shape: win-pane, label: "_Published Jul 03, 2024, 12:20 PM_
-Why ‘rapid intensification’ is transforming hurricane season" }
-HceanhaatoCoo@{ shape: win-pane, label: "_Published Oct 28, 2025, 04:05 AM_
-Hurricane melissa begins lashing jamaica as ‘catastrophic’ category 5 storm" }
-HcehnaaaaHamau@{ shape: win-pane, label: "_Published Jul 03, 2024, 01:40 PM_
-Hurricane beryl, churning towards jamaica, threatens haiti and dominican republic" }
-Pfrnymael@{ shape: win-pane, label: "_Published Jul 02, 2024, 11:05 AM_
-Powerful hurricane beryl pummels caribbean islands" }
-Wptfitfnreo@{ shape: win-pane, label: "_Published Jul 03, 2024, 12:20 PM_
-Why ‘rapid intensification’ is transforming hurricane season" }
-SlUegonrctn@{ shape: win-pane, label: "_Published Sep 01, 2025, 05:00 AM_
-St explains: unravelling typhoons and emerging climate trends" }
-ToilVaTatnoedo@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:57 PM_
-Typhoon kajiki kills 8 in vietnam and thailand, with warnings of more flooding to come" }
-SlWathradnresrs@{ shape: win-pane, label: "_Published Aug 26, 2025, 01:18 PM_
-St explains: what caused the johor earthquake and is singapore safe from such tremors?" }
+HuecUlrpdha@{ shape: win-pane, label: "_Published Oct 29, 2025, 07:40 PM_
+How trump is extracting us$900 billion from japan and south korea" }
+Ttkeripedki@{ shape: win-pane, label: "_Published Oct 28, 2025, 06:15 AM_
+Trump to talk trade, security with japan’s new leader takaichi" }
+STcksaarminr@{ shape: win-pane, label: "_Published Oct 21, 2025, 12:50 PM_
+Sanae takaichi makes history as japan’s first woman prime minister" }
+STctJstnesfignst@{ shape: win-pane, label: "_Published Oct 04, 2025, 12:57 PM_
+Sanae takaichi set to be japan’s first woman prime minister after winning ruling ldp’s election" }
+Puaaorbensoctar@{ shape: win-pane, label: "_Published Oct 16, 2025, 09:42 PM_
+‘pitiful’ sanae takaichi on course to become japan pm as she woos new coalition partner" }
+Tgoeepiaups@{ shape: win-pane, label: "_Published Oct 27, 2025, 08:53 PM_
+Trump gets royal welcome in japan; china trade truce hopes rise" }
+TcdfeassUnkai@{ shape: win-pane, label: "_Published Oct 26, 2025, 12:55 PM_
+Trump confident of trade deal after ‘successful’ us-china talks in malaysia" }
+Tsoonalinrnst@{ shape: win-pane, label: "_Published Sep 26, 2025, 01:47 PM_
+Trump says south korea and japan will pay billions ‘upfront’ in investment" }
+Ksteueioo@{ shape: win-pane, label: "_Published Oct 29, 2025, 09:06 AM_
+Key issues at stake in trump-lee summit in south korea" }
+Uteecrivenatf@{ shape: win-pane, label: "_Published Sep 09, 2025, 03:52 PM_
+Us, south korea in deadlock over $449 billion investment fund as part of tariff deal" }
+Tsesweaohib@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:34 AM_
+Trump’s trade deals come with few details to flesh out big numbers" }
+Rndpiotmcirnrn@{ shape: win-pane, label: "_Published Sep 08, 2025, 11:00 PM_
+Raid on hyundai-lg plant in us points to trump’s focus on immigration enforcement" }
+TsesetemurresS@{ shape: win-pane, label: "_Published Aug 26, 2025, 07:05 AM_
+Trump says he wants to meet north korea’s kim as south korean president visits us" }
+SKneatstaTbsS@{ shape: win-pane, label: "_Published Aug 26, 2025, 01:07 AM_
+South korean leader lee at white house for talks after trump blasts the us ally" }
+Unlyphaiogh@{ shape: win-pane, label: "_Published Mar 01, 2025, 01:48 AM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
 
-HceaCofeaJc:::txtsize --> JcrsrmiMsnu:::txtsize
-JcrsrmiMsnu:::txtsize --> Imhmgitmrnetic:::txtsize
-Imhmgitmrnetic:::txtsize --> Ctatoalenivlei:::txtsize
-Imhmgitmrnetic:::txtsize --> SToythpmoua:::txtsize
-JcrsrmiMsnu:::txtsize --> HcehnaaaaHamau:::txtsize
-HcehnaaaaHamau:::txtsize --> Pfrnymael:::txtsize
-HcehnaaaaHamau:::txtsize --> Wptfitfnreo:::txtsize
-HceaCofeaJc:::txtsize --> HceanhaatoCoo:::txtsize
-HceanhaatoCoo:::txtsize --> HcehnaaaaHamau:::txtsize
-HcehnaaaaHamau:::txtsize --> Pfrnymael:::txtsize
-HcehnaaaaHamau:::txtsize --> Wptfitfnreo:::txtsize
-HceanhaatoCoo:::txtsize --> SlUegonrctn:::txtsize
-SlUegonrctn:::txtsize --> ToilVaTatnoedo:::txtsize
-SlUegonrctn:::txtsize --> SlWathradnresrs:::txtsize
+HuecUlrpdha:::txtsize --> Ttkeripedki:::txtsize
+Ttkeripedki:::txtsize --> STcksaarminr:::txtsize
+STcksaarminr:::txtsize --> STctJstnesfignst:::txtsize
+STcksaarminr:::txtsize --> Puaaorbensoctar:::txtsize
+Ttkeripedki:::txtsize --> Tgoeepiaups:::txtsize
+Tgoeepiaups:::txtsize --> TcdfeassUnkai:::txtsize
+Tgoeepiaups:::txtsize --> Tsoonalinrnst:::txtsize
+HuecUlrpdha:::txtsize --> Ksteueioo:::txtsize
+Ksteueioo:::txtsize --> Uteecrivenatf:::txtsize
+Uteecrivenatf:::txtsize --> Tsesweaohib:::txtsize
+Uteecrivenatf:::txtsize --> Rndpiotmcirnrn:::txtsize
+Ksteueioo:::txtsize --> TsesetemurresS:::txtsize
+TsesetemurresS:::txtsize --> SKneatstaTbsS:::txtsize
+TsesetemurresS:::txtsize --> Unlyphaiogh:::txtsize
 
-Rdtvsorag@{ shape: win-pane, label: "_Published Oct 29, 2025, 04:35 PM_
-Record potato harvest is no boon in fries-mad belgium" }
-SgaareWoresoeiTk@{ shape: win-pane, label: "_Published Aug 16, 2025, 12:15 PM_
-Six-figure sales each durian season: why s’pore durian sellers are now live selling on tiktok" }
-Bioivralbdas@{ shape: win-pane, label: "_Published Aug 04, 2025, 04:00 AM_
-Best gifts for durian lovers from $7 that will last beyond durian season" }
-Tsuieotoiasg@{ shape: win-pane, label: "_Published Jul 12, 2025, 11:15 AM_
-The rise of tupai king, the rage of weather: how durian season is changing" }
-TKelhwhlrma@{ shape: win-pane, label: "_Published May 17, 2025, 03:26 PM_
-‘tupai king’ set to claim the crown in the world of premium durian" }
-SpncooiafE@{ shape: win-pane, label: "_Published Jul 09, 2025, 10:58 AM_
-Singaporeans flock to johor for durian feasts after ge2025" }
-EmnIsiriat@{ shape: win-pane, label: "_Published Oct 07, 2025, 05:15 PM_
-Extreme rain hits india’s premier darjeeling tea estates" }
-Hrteondlssdalna@{ shape: win-pane, label: "_Published Oct 06, 2025, 03:11 PM_
-Heavy rains trigger floods, landslides killing scores in india’s darjeeling and nepal" }
-Hrittpoa@{ shape: win-pane, label: "_Published Oct 05, 2025, 01:31 PM_
-Heavy rain kills at least 47 in nepal, block roads" }
-Toliaonlajg@{ shape: win-pane, label: "_Published Sep 29, 2025, 09:53 AM_
-Typhoon bualoi brings havoc to vietnam, killing 13 and injuring 46" }
+YUkentysjay@{ shape: win-pane, label: "_Published Oct 29, 2025, 06:46 PM_
+Young us workers see downshift in pay gains amid job scarcity" }
+DhayoeaGdtrini@{ shape: win-pane, label: "_Published Aug 29, 2025, 07:00 AM_
+Do you have a ‘5-9’ after your 9-5 job? some singapore gen zs do and they are having fun with it" }
+Dnwharsodncewl@{ shape: win-pane, label: "_Published Jul 11, 2025, 02:35 PM_
+‘don’t know how to be human any more’: why some young adults need a course on how to talk" }
+Skocewsgbfdsu@{ shape: win-pane, label: "_Published Nov 28, 2024, 05:44 PM_
+Shrinking social circles: why we may struggle to build friendships as adults" }
+Cnptevtbolrutsipn@{ shape: win-pane, label: "_Published Jul 11, 2025, 09:30 PM_
+Community space stranger conversations blossoms as ‘library of human stories’ and life experiences" }
+Dnwharsodncewl@{ shape: win-pane, label: "_Published Jul 11, 2025, 02:35 PM_
+‘don’t know how to be human any more’: why some young adults need a course on how to talk" }
 
-Rdtvsorag:::txtsize --> SgaareWoresoeiTk:::txtsize
-SgaareWoresoeiTk:::txtsize --> Bioivralbdas:::txtsize
-SgaareWoresoeiTk:::txtsize --> Tsuieotoiasg:::txtsize
-Tsuieotoiasg:::txtsize --> TKelhwhlrma:::txtsize
-Tsuieotoiasg:::txtsize --> SpncooiafE:::txtsize
-Rdtvsorag:::txtsize --> EmnIsiriat:::txtsize
-EmnIsiriat:::txtsize --> Hrteondlssdalna:::txtsize
-Hrteondlssdalna:::txtsize --> Hrittpoa:::txtsize
-Hrteondlssdalna:::txtsize --> Toliaonlajg:::txtsize
+YUkentysjay:::txtsize --> DhayoeaGdtrini:::txtsize
+DhayoeaGdtrini:::txtsize --> Dnwharsodncewl:::txtsize
+Dnwharsodncewl:::txtsize --> Skocewsgbfdsu:::txtsize
+DhayoeaGdtrini:::txtsize --> Cnptevtbolrutsipn:::txtsize
+Cnptevtbolrutsipn:::txtsize --> Dnwharsodncewl:::txtsize
 
-Binredber@{ shape: win-pane, label: "_Published Oct 29, 2025, 03:45 PM_
-Britain’s king charles heckled over brother andrew" }
-Bsarcetfgeostei@{ shape: win-pane, label: "_Published Oct 26, 2025, 09:30 PM_
-British royal andrew faces speculation of being forced out of mansion, stripped of titles" }
-Vnumroeieryin@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:12 PM_
-Virginia giuffre memoir goes on sale, heaping fresh scrutiny on prince andrew" }
-Biinastiifeal@{ shape: win-pane, label: "_Published Feb 16, 2022, 12:22 AM_
-Britain's prince andrew agrees to settle virginia giuffre sex assault claim" }
-BiingunluYteaas@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:26 AM_
-Britain’s prince andrew gives up using title of duke of york, still denies accusations" }
-Jetcriiebceiy@{ shape: win-pane, label: "_Published Apr 26, 2025, 12:15 PM_
-Jeffrey epstein accuser virginia giuffre dies by suicide, her family says" }
-Jetcriierctfulrh@{ shape: win-pane, label: "_Published Apr 02, 2025, 01:05 AM_
-Jeffrey epstein accuser virginia giuffre in serious condition after australia car crash" }
-FrlEphrsssch@{ shape: win-pane, label: "_Published Mar 13, 2025, 02:31 AM_
-Former barclays ceo slept with jeffrey epstein’s assistant, court hears" }
-Vnumroeieryin@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:12 PM_
-Virginia giuffre memoir goes on sale, heaping fresh scrutiny on prince andrew" }
-Biinastiifeal@{ shape: win-pane, label: "_Published Feb 16, 2022, 12:22 AM_
-Britain's prince andrew agrees to settle virginia giuffre sex assault claim" }
-BiingunluYteaas@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:26 AM_
-Britain’s prince andrew gives up using title of duke of york, still denies accusations" }
-Peeuaaaehatho@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:12 PM_
-Prince andrew accuser says he acted as if sex with her was ‘birthright’: memoir" }
-Peeuaaaehatho@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:12 PM_
-Prince andrew accuser says he acted as if sex with her was ‘birthright’: memoir" }
+TlfeeospesStig@{ shape: win-pane, label: "_Published Oct 29, 2025, 06:15 PM_
+Truckload of ‘aggressive’ lab monkeys escape after crash in us; one still missing" }
+TodabieonCio@{ shape: win-pane, label: "_Published Dec 12, 2021, 10:52 PM_
+Two lions sedated after breaking free of container in changi airport" }
+Lubttetofeesrir@{ shape: win-pane, label: "_Published Apr 09, 2019, 10:58 PM_
+Lim chu kang bull still at large, more than 14 hours after reported missing from dairy farm" }
+Tyaroinemhcthage@{ shape: win-pane, label: "_Published Nov 02, 2024, 09:00 AM_
+Twiggy the panther, congo the hippo, and other animals that escaped their homes at singapore zoo" }
+AakaarnogChgrh@{ shape: win-pane, label: "_Published Nov 01, 2024, 02:36 PM_
+African monkey that escaped from mandai zoo caught in choa chu kang after 6 months" }
+RiegozgnentsiSp@{ shape: win-pane, label: "_Published Sep 19, 2023, 12:21 AM_
+Rare silvered langur spotted ‘zoning out’ in clementi in first such sighting in singapore" }
+Tseullmnrmyc@{ shape: win-pane, label: "_Published Jul 23, 2023, 11:52 PM_
+Tapir spotted in punggol likely swam to singapore from malaysia: acres" }
+AakaarnogChgrh@{ shape: win-pane, label: "_Published Nov 01, 2024, 02:36 PM_
+African monkey that escaped from mandai zoo caught in choa chu kang after 6 months" }
+RiegozgnentsiSp@{ shape: win-pane, label: "_Published Sep 19, 2023, 12:21 AM_
+Rare silvered langur spotted ‘zoning out’ in clementi in first such sighting in singapore" }
+Tseullmnrmyc@{ shape: win-pane, label: "_Published Jul 23, 2023, 11:52 PM_
+Tapir spotted in punggol likely swam to singapore from malaysia: acres" }
 
-Binredber:::txtsize --> Bsarcetfgeostei:::txtsize
-Bsarcetfgeostei:::txtsize --> Vnumroeieryin:::txtsize
-Vnumroeieryin:::txtsize --> Biinastiifeal:::txtsize
-Vnumroeieryin:::txtsize --> BiingunluYteaas:::txtsize
-Bsarcetfgeostei:::txtsize --> Jetcriiebceiy:::txtsize
-Jetcriiebceiy:::txtsize --> Jetcriierctfulrh:::txtsize
-Jetcriiebceiy:::txtsize --> FrlEphrsssch:::txtsize
-Binredber:::txtsize --> Vnumroeieryin:::txtsize
-Vnumroeieryin:::txtsize --> Biinastiifeal:::txtsize
-Vnumroeieryin:::txtsize --> BiingunluYteaas:::txtsize
-BiingunluYteaas:::txtsize --> Peeuaaaehatho:::txtsize
-BiingunluYteaas:::txtsize --> Peeuaaaehatho:::txtsize
+TlfeeospesStig:::txtsize --> TodabieonCio:::txtsize
+TodabieonCio:::txtsize --> Lubttetofeesrir:::txtsize
+TlfeeospesStig:::txtsize --> Tyaroinemhcthage:::txtsize
+Tyaroinemhcthage:::txtsize --> AakaarnogChgrh:::txtsize
+AakaarnogChgrh:::txtsize --> RiegozgnentsiSp:::txtsize
+AakaarnogChgrh:::txtsize --> Tseullmnrmyc:::txtsize
+Tyaroinemhcthage:::txtsize --> AakaarnogChgrh:::txtsize
+AakaarnogChgrh:::txtsize --> RiegozgnentsiSp:::txtsize
+AakaarnogChgrh:::txtsize --> Tseullmnrmyc:::txtsize
 
 ```
-<i>Last updated: 2025-10-29 17:56:14.508768 (GMT+8)</i>
+<i>Last updated: 2025-10-29 20:00:28.399419 (GMT+8)</i>
 <!-- END -->
