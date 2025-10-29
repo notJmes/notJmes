@@ -16,6 +16,28 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Letealmvmtjsli@{ shape: win-pane, label: "_Published Oct 30, 2025, 12:40 AM_
+Louvre heist suspects ‘partially admit’ involvement, stolen jewels still missing" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
+‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
+NegaTrah@{ shape: win-pane, label: "_Published Feb 20, 2025, 01:00 PM_
+Nike bets big on reality tv star kim kardashian" }
+Kriinucneida@{ shape: win-pane, label: "_Published May 17, 2023, 12:00 PM_
+Kim kardashian's $1.34 billion buyout pitch leans on her social media reach" }
+Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
+Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
+GpmglnolN@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:52 PM_
+Greenpeace $880m damages ruling in us shocks global ngos" }
+
+Letealmvmtjsli:::txtsize --> Ptineluiisey:::txtsize
+Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
+GpboiPoidaes:::txtsize --> NegaTrah:::txtsize
+GpboiPoidaes:::txtsize --> Kriinucneida:::txtsize
+Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
+Gpssofemmnsrt:::txtsize --> GpmglnolN:::txtsize
+
 MttMczsespii@{ shape: win-pane, label: "_Published Oct 29, 2025, 11:35 PM_
 Mediator qatar’s pm expects gaza ceasefire to last despite ‘violation’" }
 IlkzeuHolgode@{ shape: win-pane, label: "_Published Oct 29, 2025, 03:41 AM_
@@ -59,8 +81,8 @@ Ilillaeaftspe:::txtsize --> NyarisaHhoeseimnt:::txtsize
 NyarisaHhoeseimnt:::txtsize --> NyeeawHakl:::txtsize
 NyarisaHhoeseimnt:::txtsize --> Hnruosd:::txtsize
 
-Uiaepmseams@{ shape: win-pane, label: "_Published Oct 29, 2025, 10:15 PM_
-Us to withdraw some troops from nato’s eastern flank, romania says" }
+NActwpsrfafer@{ shape: win-pane, label: "_Published Oct 29, 2025, 10:15 PM_
+‘not an american withdrawal’: us pulls some troops from parts of eastern europe" }
 Aoeisr@{ shape: win-pane, label: "_Published Sep 23, 2025, 05:00 AM_
 An emboldened putin goes after nato" }
 Rasrnicatoo@{ shape: win-pane, label: "_Published Sep 19, 2025, 11:15 PM_
@@ -84,11 +106,11 @@ Putin-trump talks in budapest on hold after russia rejects ceasefire" }
 PTtiaodrieei@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
 Putin-trump talks in budapest on hold after russia rejects ceasefire" }
 
-Uiaepmseams:::txtsize --> Aoeisr:::txtsize
+NActwpsrfafer:::txtsize --> Aoeisr:::txtsize
 Aoeisr:::txtsize --> Rasrnicatoo:::txtsize
 Rasrnicatoo:::txtsize --> PdtnefNetndgir:::txtsize
 Rasrnicatoo:::txtsize --> PdmjlLnopnve:::txtsize
-Uiaepmseams:::txtsize --> Raedikeesivoi:::txtsize
+NActwpsrfafer:::txtsize --> Raedikeesivoi:::txtsize
 Raedikeesivoi:::txtsize --> PTtiaodrieei:::txtsize
 PTtiaodrieei:::txtsize --> Tttndtrttcke:::txtsize
 PTtiaodrieei:::txtsize --> Raedikeesivoi:::txtsize
@@ -96,52 +118,6 @@ Raedikeesivoi:::txtsize --> Lfsnhmuledmeks:::txtsize
 Lfsnhmuledmeks:::txtsize --> PTtiaodrieei:::txtsize
 Lfsnhmuledmeks:::txtsize --> PTtiaodrieei:::txtsize
 
-Toaoseiiulmsr@{ shape: win-pane, label: "_Published Oct 29, 2025, 09:48 PM_
-Trump ousts arts commission reviewing white house ballroom plans: report" }
-DibsrhoanTbo@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:35 AM_
-Demolition begins on part of white house east wing for trump ballroom" }
-Tstliahstrobd@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:45 PM_
-Trump seeks to build a triumphal arch in washington for nation’s 250th birthday" }
-Thdreyrhoao@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:50 PM_
-Trump hosts dinner for wealthy donors to white house ballroom" }
-Tbsliltaikr@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:32 AM_
-Trump brings the bling with gold-plated oval office makeover" }
-Tstliahstrobd@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:45 PM_
-Trump seeks to build a triumphal arch in washington for nation’s 250th birthday" }
-Thdreyrhoao@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:50 PM_
-Trump hosts dinner for wealthy donors to white house ballroom" }
-Tbsliltaikr@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:32 AM_
-Trump brings the bling with gold-plated oval office makeover" }
-Tletlmphrnmhts@{ shape: win-pane, label: "_Published Oct 25, 2025, 08:05 PM_
-The bulldozer and the ballroom: trump puts his permanent stamp on the white house" }
-WHEilowboudioo@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:39 AM_
-White house east wing will be torn down for ballroom, trump had promised not to do so" }
-Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
-‘music to my ears’: trump brushes off critics of white house demolition" }
-Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
-‘music to my ears’: trump brushes off critics of white house demolition" }
-WHEilowboudioo@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:39 AM_
-White house east wing will be torn down for ballroom, trump had promised not to do so" }
-Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
-‘music to my ears’: trump brushes off critics of white house demolition" }
-Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
-‘music to my ears’: trump brushes off critics of white house demolition" }
-
-Toaoseiiulmsr:::txtsize --> DibsrhoanTbo:::txtsize
-DibsrhoanTbo:::txtsize --> Tstliahstrobd:::txtsize
-Tstliahstrobd:::txtsize --> Thdreyrhoao:::txtsize
-Tstliahstrobd:::txtsize --> Tbsliltaikr:::txtsize
-DibsrhoanTbo:::txtsize --> Tstliahstrobd:::txtsize
-Tstliahstrobd:::txtsize --> Thdreyrhoao:::txtsize
-Tstliahstrobd:::txtsize --> Tbsliltaikr:::txtsize
-Toaoseiiulmsr:::txtsize --> Tletlmphrnmhts:::txtsize
-Tletlmphrnmhts:::txtsize --> WHEilowboudioo:::txtsize
-WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
-WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
-Tletlmphrnmhts:::txtsize --> WHEilowboudioo:::txtsize
-WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
-WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
-
 ```
-<i>Last updated: 2025-10-30 00:00:46.185365 (GMT+8)</i>
+<i>Last updated: 2025-10-30 04:01:04.721496 (GMT+8)</i>
 <!-- END -->
