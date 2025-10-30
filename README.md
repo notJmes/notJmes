@@ -16,108 +16,108 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Letealmvmtjsli@{ shape: win-pane, label: "_Published Oct 30, 2025, 12:40 AM_
-Louvre heist suspects ‘partially admit’ involvement, stolen jewels still missing" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
-‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
-NegaTrah@{ shape: win-pane, label: "_Published Feb 20, 2025, 01:00 PM_
-Nike bets big on reality tv star kim kardashian" }
-Kriinucneida@{ shape: win-pane, label: "_Published May 17, 2023, 12:00 PM_
-Kim kardashian's $1.34 billion buyout pitch leans on her social media reach" }
-Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
-Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
-GpmglnolN@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:52 PM_
-Greenpeace $880m damages ruling in us shocks global ngos" }
+Palamopefde@{ shape: win-pane, label: "_Published Oct 30, 2025, 07:20 AM_
+Portland police say trump’s troop deployment inflamed protests" }
+UgcuemfoiGttfw@{ shape: win-pane, label: "_Published Oct 05, 2025, 09:28 AM_
+Us judge blocks trump’s deployment of oregon national guard to portland for now" }
+OntpplnStol@{ shape: win-pane, label: "_Published Sep 29, 2025, 07:15 AM_
+Oregon sues to stop trump’s deployment of us military to portland" }
+Tarforemnl@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:50 PM_
+Trump authorises ‘full force’ troop deployment in portland" }
+NnaonufEcnnsy@{ shape: win-pane, label: "_Published Jun 11, 2025, 10:24 AM_
+National guard providing security for ice officers in los angeles, us says" }
+Twtfattaawrtr@{ shape: win-pane, label: "_Published Oct 04, 2025, 09:32 AM_
+Trump wants to cut federal aid to portland as his anger with protesters grows" }
+Tarforemnl@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:50 PM_
+Trump authorises ‘full force’ troop deployment in portland" }
+OntpplnStol@{ shape: win-pane, label: "_Published Sep 29, 2025, 07:15 AM_
+Oregon sues to stop trump’s deployment of us military to portland" }
+Tttaatnaaw@{ shape: win-pane, label: "_Published Apr 29, 2025, 04:32 AM_
+Trump targets us 'sanctuary cities' in migrant crackdown" }
+Tsnrnakixss@{ shape: win-pane, label: "_Published Apr 28, 2025, 09:01 PM_
+Trump’s poll numbers sag near 100-day mark, raising tax-plan stakes" }
+Tspaspadanop@{ shape: win-pane, label: "_Published Apr 03, 2025, 04:47 AM_
+Trump’s sweeping tariffs amp up global trade war as china, eu vow response" }
+Hrtoessmemt@{ shape: win-pane, label: "_Published Nov 06, 2024, 03:17 PM_
+‘historic return’: world leaders praise trump as he claims victory" }
+Rlsoagyespa@{ shape: win-pane, label: "_Published Apr 29, 2025, 05:55 AM_
+Republicans propose charging us asylum seekers $1,300 per application" }
+Uroneoepro@{ shape: win-pane, label: "_Published Apr 19, 2025, 06:43 PM_
+Us supreme court intervenes to pause trump deportations" }
 
-Letealmvmtjsli:::txtsize --> Ptineluiisey:::txtsize
-Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
-GpboiPoidaes:::txtsize --> NegaTrah:::txtsize
-GpboiPoidaes:::txtsize --> Kriinucneida:::txtsize
-Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
-Gpssofemmnsrt:::txtsize --> GpmglnolN:::txtsize
+Palamopefde:::txtsize --> UgcuemfoiGttfw:::txtsize
+UgcuemfoiGttfw:::txtsize --> OntpplnStol:::txtsize
+OntpplnStol:::txtsize --> Tarforemnl:::txtsize
+OntpplnStol:::txtsize --> NnaonufEcnnsy:::txtsize
+UgcuemfoiGttfw:::txtsize --> Twtfattaawrtr:::txtsize
+Twtfattaawrtr:::txtsize --> Tarforemnl:::txtsize
+Twtfattaawrtr:::txtsize --> OntpplnStol:::txtsize
+Palamopefde:::txtsize --> Tttaatnaaw:::txtsize
+Tttaatnaaw:::txtsize --> Tsnrnakixss:::txtsize
+Tsnrnakixss:::txtsize --> Tspaspadanop:::txtsize
+Tsnrnakixss:::txtsize --> Hrtoessmemt:::txtsize
+Tttaatnaaw:::txtsize --> Rlsoagyespa:::txtsize
+Rlsoagyespa:::txtsize --> Uroneoepro:::txtsize
 
-MttMczsespii@{ shape: win-pane, label: "_Published Oct 29, 2025, 11:35 PM_
-Mediator qatar’s pm expects gaza ceasefire to last despite ‘violation’" }
-IlkzeuHolgode@{ shape: win-pane, label: "_Published Oct 29, 2025, 03:41 AM_
-Israel strikes gaza after accusing hamas of violating us-brokered ceasefire" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
-Israel marks oct 7 anniversary as talks are held to end gaza war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Ilillaeaftspe@{ shape: win-pane, label: "_Published Oct 29, 2025, 10:55 AM_
-Israel says it will uphold gaza ceasefire a day after strikes kill 104 people" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
-Peace finally descends on the middle east: now the battle to make it last begins" }
-NyarisaHhoeseimnt@{ shape: win-pane, label: "_Published Oct 28, 2025, 07:30 PM_
-Netanyahu says israel will respond after hamas hands over remains not belonging to missing hostages" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Hnruosd@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:32 AM_
-How donald trump pulled off his gaza deal" }
+Usoseelaetotos@{ shape: win-pane, label: "_Published Oct 30, 2025, 07:06 AM_
+Us prosecutors suspended after calling jan 6 defendants ‘mob of rioters’, sources say" }
+SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
+Storming of us capitol: timeline of key events in washington" }
+peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
+4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
+HafdoptdSt@{ shape: win-pane, label: "_Published Jan 07, 2021, 10:03 AM_
+How chaos unfolded as pro-trump mob stormed the us capitol" }
+Umsuichcnncclet@{ shape: win-pane, label: "_Published Jan 07, 2021, 10:06 AM_
+Us lawmakers denounce violence as they reconvene to announce electoral college votes" }
+HeCoteemoemego@{ shape: win-pane, label: "_Published Jan 22, 2025, 06:56 AM_
+Hundreds of capitol rioters released from prison after trump’s sweeping pardon" }
+TssetrJruuessf@{ shape: win-pane, label: "_Published Jan 22, 2025, 04:31 AM_
+Trump starts new term with 47% approval; jan 6 pardons unpopular, reuters/ipsos poll finds" }
+Wgfnmuoho@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:53 PM_
+‘what a great feeling!’ trump returns to the white house" }
+TpteBancrhsrylyg@{ shape: win-pane, label: "_Published Jan 22, 2025, 04:44 AM_
+Trump plans to fire over 1,000 biden appointees; celebrity chef jose andres says he already resigned" }
+TsoloPBtahuyr@{ shape: win-pane, label: "_Published Jan 22, 2025, 05:51 AM_
+Trump’s pardons will embolden proud boys, other far-right groups, say experts" }
+TpnrlgtUii@{ shape: win-pane, label: "_Published Jan 21, 2025, 09:16 AM_
+Trump pardons nearly all charged with jan 6 us capitol riot" }
+SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
+Storming of us capitol: timeline of key events in washington" }
 
-MttMczsespii:::txtsize --> IlkzeuHolgode:::txtsize
-IlkzeuHolgode:::txtsize --> TssHaossaaorslaoe:::txtsize
-TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
-TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
-IlkzeuHolgode:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-MttMczsespii:::txtsize --> Ilillaeaftspe:::txtsize
-Ilillaeaftspe:::txtsize --> Tdrcaaededlncbs:::txtsize
-Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
-Ilillaeaftspe:::txtsize --> NyarisaHhoeseimnt:::txtsize
-NyarisaHhoeseimnt:::txtsize --> NyeeawHakl:::txtsize
-NyarisaHhoeseimnt:::txtsize --> Hnruosd:::txtsize
+Usoseelaetotos:::txtsize --> SiUiinenWn:::txtsize
+SiUiinenWn:::txtsize --> peapubmalrest:::txtsize
+peapubmalrest:::txtsize --> HafdoptdSt:::txtsize
+peapubmalrest:::txtsize --> Umsuichcnncclet:::txtsize
+Usoseelaetotos:::txtsize --> HeCoteemoemego:::txtsize
+HeCoteemoemego:::txtsize --> TssetrJruuessf:::txtsize
+TssetrJruuessf:::txtsize --> Wgfnmuoho:::txtsize
+TssetrJruuessf:::txtsize --> TpteBancrhsrylyg:::txtsize
+HeCoteemoemego:::txtsize --> TsoloPBtahuyr:::txtsize
+TsoloPBtahuyr:::txtsize --> TpnrlgtUii:::txtsize
+TsoloPBtahuyr:::txtsize --> SiUiinenWn:::txtsize
 
-NActwpsrfafer@{ shape: win-pane, label: "_Published Oct 29, 2025, 10:15 PM_
-‘not an american withdrawal’: us pulls some troops from parts of eastern europe" }
-Aoeisr@{ shape: win-pane, label: "_Published Sep 23, 2025, 05:00 AM_
-An emboldened putin goes after nato" }
-Rasrnicatoo@{ shape: win-pane, label: "_Published Sep 19, 2025, 11:15 PM_
-Russian jets enter estonia’s airspace in latest test for nato" }
-PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
-Poland shoots down drones, the first nato member to open fire during ukraine war" }
-PdmjlLnopnve@{ shape: win-pane, label: "_Published Sep 14, 2025, 12:05 AM_
-Poland scrambles jets, closes lublin airport in ‘preventative’ move" }
-Raedikeesivoi@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:52 AM_
-Russia reiterated previous ukraine peace terms to us in private communique" }
-PTtiaodrieei@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
-Putin-trump talks in budapest on hold after russia rejects ceasefire" }
-Tttndtrttcke@{ shape: win-pane, label: "_Published Oct 16, 2025, 11:15 PM_
-Trump to meet putin in budapest after ‘great’ call to discuss ukraine" }
-Raedikeesivoi@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:52 AM_
-Russia reiterated previous ukraine peace terms to us in private communique" }
-Lfsnhmuledmeks@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:07 AM_
-Lack of decision on tomahawks made russia less keen on diplomacy, zelensky says" }
-PTtiaodrieei@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
-Putin-trump talks in budapest on hold after russia rejects ceasefire" }
-PTtiaodrieei@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
-Putin-trump talks in budapest on hold after russia rejects ceasefire" }
+QritldeenrlucUis@{ shape: win-pane, label: "_Published Oct 30, 2025, 06:56 AM_
+‘quick reaction’ national guard forces to be trained for civil disturbances by 2026, us officials say" }
+TaVaklaarh@{ shape: win-pane, label: "_Published Aug 26, 2025, 07:45 AM_
+Trump and j.d. vance attack 2028 rivals in national guard push" }
+Tvsctsonp@{ shape: win-pane, label: "_Published Aug 22, 2025, 03:57 AM_
+Trump visits police and troops deployed in us capital" }
+NnareidaginPg@{ shape: win-pane, label: "_Published Aug 15, 2025, 07:00 AM_
+800 national guard personnel mobilised for washington mission, says pentagon" }
+VHteoWnferoe@{ shape: win-pane, label: "_Published Aug 21, 2025, 08:00 AM_
+Vance, hegseth greet troops in washington, face jeers from protesters" }
+UiGtsstbciaoia@{ shape: win-pane, label: "_Published Aug 25, 2025, 07:42 AM_
+Us national guard troops in washington to begin carrying weapons, officials say" }
+NnareidaginPg@{ shape: win-pane, label: "_Published Aug 15, 2025, 07:00 AM_
+800 national guard personnel mobilised for washington mission, says pentagon" }
 
-NActwpsrfafer:::txtsize --> Aoeisr:::txtsize
-Aoeisr:::txtsize --> Rasrnicatoo:::txtsize
-Rasrnicatoo:::txtsize --> PdtnefNetndgir:::txtsize
-Rasrnicatoo:::txtsize --> PdmjlLnopnve:::txtsize
-NActwpsrfafer:::txtsize --> Raedikeesivoi:::txtsize
-Raedikeesivoi:::txtsize --> PTtiaodrieei:::txtsize
-PTtiaodrieei:::txtsize --> Tttndtrttcke:::txtsize
-PTtiaodrieei:::txtsize --> Raedikeesivoi:::txtsize
-Raedikeesivoi:::txtsize --> Lfsnhmuledmeks:::txtsize
-Lfsnhmuledmeks:::txtsize --> PTtiaodrieei:::txtsize
-Lfsnhmuledmeks:::txtsize --> PTtiaodrieei:::txtsize
+QritldeenrlucUis:::txtsize --> TaVaklaarh:::txtsize
+TaVaklaarh:::txtsize --> Tvsctsonp:::txtsize
+Tvsctsonp:::txtsize --> NnareidaginPg:::txtsize
+Tvsctsonp:::txtsize --> VHteoWnferoe:::txtsize
+TaVaklaarh:::txtsize --> UiGtsstbciaoia:::txtsize
+UiGtsstbciaoia:::txtsize --> NnareidaginPg:::txtsize
 
 ```
-<i>Last updated: 2025-10-30 04:01:04.721496 (GMT+8)</i>
+<i>Last updated: 2025-10-30 08:00:21.457413 (GMT+8)</i>
 <!-- END -->
