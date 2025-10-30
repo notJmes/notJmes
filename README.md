@@ -16,108 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Palamopefde@{ shape: win-pane, label: "_Published Oct 30, 2025, 07:20 AM_
-Portland police say trump’s troop deployment inflamed protests" }
-UgcuemfoiGttfw@{ shape: win-pane, label: "_Published Oct 05, 2025, 09:28 AM_
-Us judge blocks trump’s deployment of oregon national guard to portland for now" }
-OntpplnStol@{ shape: win-pane, label: "_Published Sep 29, 2025, 07:15 AM_
-Oregon sues to stop trump’s deployment of us military to portland" }
-Tarforemnl@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:50 PM_
-Trump authorises ‘full force’ troop deployment in portland" }
-NnaonufEcnnsy@{ shape: win-pane, label: "_Published Jun 11, 2025, 10:24 AM_
-National guard providing security for ice officers in los angeles, us says" }
-Twtfattaawrtr@{ shape: win-pane, label: "_Published Oct 04, 2025, 09:32 AM_
-Trump wants to cut federal aid to portland as his anger with protesters grows" }
-Tarforemnl@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:50 PM_
-Trump authorises ‘full force’ troop deployment in portland" }
-OntpplnStol@{ shape: win-pane, label: "_Published Sep 29, 2025, 07:15 AM_
-Oregon sues to stop trump’s deployment of us military to portland" }
-Tttaatnaaw@{ shape: win-pane, label: "_Published Apr 29, 2025, 04:32 AM_
-Trump targets us 'sanctuary cities' in migrant crackdown" }
-Tsnrnakixss@{ shape: win-pane, label: "_Published Apr 28, 2025, 09:01 PM_
-Trump’s poll numbers sag near 100-day mark, raising tax-plan stakes" }
-Tspaspadanop@{ shape: win-pane, label: "_Published Apr 03, 2025, 04:47 AM_
-Trump’s sweeping tariffs amp up global trade war as china, eu vow response" }
-Hrtoessmemt@{ shape: win-pane, label: "_Published Nov 06, 2024, 03:17 PM_
-‘historic return’: world leaders praise trump as he claims victory" }
-Rlsoagyespa@{ shape: win-pane, label: "_Published Apr 29, 2025, 05:55 AM_
-Republicans propose charging us asylum seekers $1,300 per application" }
-Uroneoepro@{ shape: win-pane, label: "_Published Apr 19, 2025, 06:43 PM_
-Us supreme court intervenes to pause trump deportations" }
+Unnagnsotcaa@{ shape: win-pane, label: "_Published Oct 30, 2025, 11:50 AM_
+Us economy in the dark as government shutdown cuts off crucial data" }
+Ucaurtossemts@{ shape: win-pane, label: "_Published Oct 30, 2025, 02:58 AM_
+Us fed cuts rates quarter point, but powell suggests the move may be the last of 2025" }
+Utrunissetldh@{ shape: win-pane, label: "_Published Oct 24, 2025, 10:50 PM_
+Us september consumer inflation rose less than expected, delayed data shows" }
+Aomhwgnmeegcilc@{ shape: win-pane, label: "_Published Oct 23, 2025, 08:20 AM_
+As us government shutdown drags on and trump takes power, congress cedes its relevance" }
+Uigcyeeismts@{ shape: win-pane, label: "_Published Sep 05, 2025, 09:40 PM_
+Us hiring significantly misses expectations as jobs market cools" }
+Ddnatwacrcrae@{ shape: win-pane, label: "_Published Oct 30, 2025, 06:06 AM_
+Dow ends down, s&p 500 near flat as powell says december rate cut far from assured" }
+Ucaurtossemts@{ shape: win-pane, label: "_Published Oct 30, 2025, 02:58 AM_
+Us fed cuts rates quarter point, but powell suggests the move may be the last of 2025" }
+NamriSloybomrs@{ shape: win-pane, label: "_Published Oct 30, 2025, 12:46 AM_
+Nvidia becomes world’s first us$5 trillion company as ai boom powers meteoric rise" }
+Socncyiasshet@{ shape: win-pane, label: "_Published Oct 16, 2025, 01:02 AM_
+Shutdown is costing us economy $19 billion a day, says treasury chief bessent" }
+Tseulooopath@{ shape: win-pane, label: "_Published Oct 15, 2025, 07:55 AM_
+Trump says he will unveil list on oct 17 of ‘democrat programmes’ to be shut" }
+Ugbttoaphesd@{ shape: win-pane, label: "_Published Sep 29, 2025, 08:35 AM_
+Us congress budget negotiations: what happens when the govt shuts down?" }
+Uoyfpensdrn@{ shape: win-pane, label: "_Published Oct 13, 2025, 08:39 PM_
+Us troops may miss first paychecks on oct 15 as shutdown drags on" }
+Taitarhernunn@{ shape: win-pane, label: "_Published Oct 15, 2025, 07:40 AM_
+Trump administration says 4,108 workers have been fired since shutdown began" }
+Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
+Us government begins shutdown that may lead to mass layoffs and cuts" }
+Trragsunats@{ shape: win-pane, label: "_Published Oct 10, 2025, 10:00 PM_
+Tempers flare in washington as us shutdown threatens troops’ pay" }
 
-Palamopefde:::txtsize --> UgcuemfoiGttfw:::txtsize
-UgcuemfoiGttfw:::txtsize --> OntpplnStol:::txtsize
-OntpplnStol:::txtsize --> Tarforemnl:::txtsize
-OntpplnStol:::txtsize --> NnaonufEcnnsy:::txtsize
-UgcuemfoiGttfw:::txtsize --> Twtfattaawrtr:::txtsize
-Twtfattaawrtr:::txtsize --> Tarforemnl:::txtsize
-Twtfattaawrtr:::txtsize --> OntpplnStol:::txtsize
-Palamopefde:::txtsize --> Tttaatnaaw:::txtsize
-Tttaatnaaw:::txtsize --> Tsnrnakixss:::txtsize
-Tsnrnakixss:::txtsize --> Tspaspadanop:::txtsize
-Tsnrnakixss:::txtsize --> Hrtoessmemt:::txtsize
-Tttaatnaaw:::txtsize --> Rlsoagyespa:::txtsize
-Rlsoagyespa:::txtsize --> Uroneoepro:::txtsize
+Unnagnsotcaa:::txtsize --> Ucaurtossemts:::txtsize
+Ucaurtossemts:::txtsize --> Utrunissetldh:::txtsize
+Utrunissetldh:::txtsize --> Aomhwgnmeegcilc:::txtsize
+Utrunissetldh:::txtsize --> Uigcyeeismts:::txtsize
+Ucaurtossemts:::txtsize --> Ddnatwacrcrae:::txtsize
+Ddnatwacrcrae:::txtsize --> Ucaurtossemts:::txtsize
+Ddnatwacrcrae:::txtsize --> NamriSloybomrs:::txtsize
+Unnagnsotcaa:::txtsize --> Socncyiasshet:::txtsize
+Socncyiasshet:::txtsize --> Tseulooopath:::txtsize
+Tseulooopath:::txtsize --> Ugbttoaphesd:::txtsize
+Tseulooopath:::txtsize --> Uoyfpensdrn:::txtsize
+Socncyiasshet:::txtsize --> Taitarhernunn:::txtsize
+Taitarhernunn:::txtsize --> Ueniunmaayat:::txtsize
+Taitarhernunn:::txtsize --> Trragsunats:::txtsize
 
-Usoseelaetotos@{ shape: win-pane, label: "_Published Oct 30, 2025, 07:06 AM_
-Us prosecutors suspended after calling jan 6 defendants ‘mob of rioters’, sources say" }
-SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
-peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
-4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
-HafdoptdSt@{ shape: win-pane, label: "_Published Jan 07, 2021, 10:03 AM_
-How chaos unfolded as pro-trump mob stormed the us capitol" }
-Umsuichcnncclet@{ shape: win-pane, label: "_Published Jan 07, 2021, 10:06 AM_
-Us lawmakers denounce violence as they reconvene to announce electoral college votes" }
-HeCoteemoemego@{ shape: win-pane, label: "_Published Jan 22, 2025, 06:56 AM_
-Hundreds of capitol rioters released from prison after trump’s sweeping pardon" }
-TssetrJruuessf@{ shape: win-pane, label: "_Published Jan 22, 2025, 04:31 AM_
-Trump starts new term with 47% approval; jan 6 pardons unpopular, reuters/ipsos poll finds" }
-Wgfnmuoho@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:53 PM_
-‘what a great feeling!’ trump returns to the white house" }
-TpteBancrhsrylyg@{ shape: win-pane, label: "_Published Jan 22, 2025, 04:44 AM_
-Trump plans to fire over 1,000 biden appointees; celebrity chef jose andres says he already resigned" }
-TsoloPBtahuyr@{ shape: win-pane, label: "_Published Jan 22, 2025, 05:51 AM_
-Trump’s pardons will embolden proud boys, other far-right groups, say experts" }
-TpnrlgtUii@{ shape: win-pane, label: "_Published Jan 21, 2025, 09:16 AM_
-Trump pardons nearly all charged with jan 6 us capitol riot" }
-SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
+Vasoaersiam@{ shape: win-pane, label: "_Published Oct 30, 2025, 09:55 AM_
+Video analysis shows staged recovery of israeli hostage remains" }
+Ilaeaeedttee@{ shape: win-pane, label: "_Published Oct 30, 2025, 04:18 AM_
+Israel hits another gaza target after deadliest night since truce" }
+Ilillaeaftspe@{ shape: win-pane, label: "_Published Oct 29, 2025, 10:55 AM_
+Israel says it will uphold gaza ceasefire a day after strikes kill 104 people" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+NyarisaHhoeseimnt@{ shape: win-pane, label: "_Published Oct 28, 2025, 07:30 PM_
+Netanyahu says israel will respond after hamas hands over remains not belonging to missing hostages" }
+IlkzeuHolgode@{ shape: win-pane, label: "_Published Oct 29, 2025, 03:41 AM_
+Israel strikes gaza after accusing hamas of violating us-brokered ceasefire" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
 
-Usoseelaetotos:::txtsize --> SiUiinenWn:::txtsize
-SiUiinenWn:::txtsize --> peapubmalrest:::txtsize
-peapubmalrest:::txtsize --> HafdoptdSt:::txtsize
-peapubmalrest:::txtsize --> Umsuichcnncclet:::txtsize
-Usoseelaetotos:::txtsize --> HeCoteemoemego:::txtsize
-HeCoteemoemego:::txtsize --> TssetrJruuessf:::txtsize
-TssetrJruuessf:::txtsize --> Wgfnmuoho:::txtsize
-TssetrJruuessf:::txtsize --> TpteBancrhsrylyg:::txtsize
-HeCoteemoemego:::txtsize --> TsoloPBtahuyr:::txtsize
-TsoloPBtahuyr:::txtsize --> TpnrlgtUii:::txtsize
-TsoloPBtahuyr:::txtsize --> SiUiinenWn:::txtsize
+Vasoaersiam:::txtsize --> Ilaeaeedttee:::txtsize
+Ilaeaeedttee:::txtsize --> Ilillaeaftspe:::txtsize
+Ilillaeaftspe:::txtsize --> Tdrcaaededlncbs:::txtsize
+Ilillaeaftspe:::txtsize --> NyarisaHhoeseimnt:::txtsize
+Ilaeaeedttee:::txtsize --> IlkzeuHolgode:::txtsize
+IlkzeuHolgode:::txtsize --> TssHaossaaorslaoe:::txtsize
+IlkzeuHolgode:::txtsize --> Sbsrcdnacaale:::txtsize
 
-QritldeenrlucUis@{ shape: win-pane, label: "_Published Oct 30, 2025, 06:56 AM_
-‘quick reaction’ national guard forces to be trained for civil disturbances by 2026, us officials say" }
-TaVaklaarh@{ shape: win-pane, label: "_Published Aug 26, 2025, 07:45 AM_
-Trump and j.d. vance attack 2028 rivals in national guard push" }
-Tvsctsonp@{ shape: win-pane, label: "_Published Aug 22, 2025, 03:57 AM_
-Trump visits police and troops deployed in us capital" }
-NnareidaginPg@{ shape: win-pane, label: "_Published Aug 15, 2025, 07:00 AM_
-800 national guard personnel mobilised for washington mission, says pentagon" }
-VHteoWnferoe@{ shape: win-pane, label: "_Published Aug 21, 2025, 08:00 AM_
-Vance, hegseth greet troops in washington, face jeers from protesters" }
-UiGtsstbciaoia@{ shape: win-pane, label: "_Published Aug 25, 2025, 07:42 AM_
-Us national guard troops in washington to begin carrying weapons, officials say" }
-NnareidaginPg@{ shape: win-pane, label: "_Published Aug 15, 2025, 07:00 AM_
-800 national guard personnel mobilised for washington mission, says pentagon" }
+Tdrcasmotlem@{ shape: win-pane, label: "_Published Oct 30, 2025, 09:53 AM_
+Trump declares victory against climate ‘hoax’ after bill gates comments" }
+CtnnciosG@{ shape: win-pane, label: "_Published Oct 29, 2025, 08:20 AM_
+Climate change won’t end civilisation, says bill gates" }
+WffkemoN@{ shape: win-pane, label: "_Published Oct 28, 2025, 05:25 PM_
+World far off track to meet climate goals: un" }
+wetadfamcia@{ shape: win-pane, label: "_Published Jan 10, 2025, 11:07 AM_
+2024 was the first year above 1.5 deg c of global warming, scientists say" }
+Ntnosager@{ shape: win-pane, label: "_Published Oct 13, 2025, 11:10 AM_
+Not nothing, not enough: is the paris agreement working?" }
+JcrsrmiMsnu@{ shape: win-pane, label: "_Published Oct 28, 2025, 08:05 PM_
+Jamaica’s strongest-ever storm, hurricane melissa, turns to cuba" }
+Imhmgitmrnetic@{ shape: win-pane, label: "_Published Nov 20, 2024, 07:49 PM_
+Is climate change making tropical storms more frequent? scientists say it’s unclear" }
+HcehnaaaaHamau@{ shape: win-pane, label: "_Published Jul 03, 2024, 01:40 PM_
+Hurricane beryl, churning towards jamaica, threatens haiti and dominican republic" }
+Ctndresueeld@{ shape: win-pane, label: "_Published Oct 30, 2025, 08:45 AM_
+Climate change made hurricane melissa four times more likely: study" }
+HceasrhakneH@{ shape: win-pane, label: "_Published Oct 30, 2025, 04:32 AM_
+Hurricane melissa heads towards bahamas after killing dozens in haiti" }
+HceanhaatoCoo@{ shape: win-pane, label: "_Published Oct 28, 2025, 04:05 AM_
+Hurricane melissa begins lashing jamaica as ‘catastrophic’ category 5 storm" }
+HceaCofeaJc@{ shape: win-pane, label: "_Published Oct 29, 2025, 04:46 PM_
+Hurricane melissa hits cuba hours after devastating jamaica" }
+Ctpoaiostwhf@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:09 AM_
+Climate tipping points are being crossed, scientists warn ahead of cop30" }
+Rlfriyitnnet@{ shape: win-pane, label: "_Published Aug 20, 2025, 11:17 PM_
+Rapid loss of antarctic ice may be climate tipping point, scientists say" }
+Smhotanrmor@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:31 AM_
+September third-hottest globally on record: climate monitor" }
 
-QritldeenrlucUis:::txtsize --> TaVaklaarh:::txtsize
-TaVaklaarh:::txtsize --> Tvsctsonp:::txtsize
-Tvsctsonp:::txtsize --> NnareidaginPg:::txtsize
-Tvsctsonp:::txtsize --> VHteoWnferoe:::txtsize
-TaVaklaarh:::txtsize --> UiGtsstbciaoia:::txtsize
-UiGtsstbciaoia:::txtsize --> NnareidaginPg:::txtsize
+Tdrcasmotlem:::txtsize --> CtnnciosG:::txtsize
+CtnnciosG:::txtsize --> WffkemoN:::txtsize
+WffkemoN:::txtsize --> wetadfamcia:::txtsize
+WffkemoN:::txtsize --> Ntnosager:::txtsize
+CtnnciosG:::txtsize --> JcrsrmiMsnu:::txtsize
+JcrsrmiMsnu:::txtsize --> Imhmgitmrnetic:::txtsize
+JcrsrmiMsnu:::txtsize --> HcehnaaaaHamau:::txtsize
+Tdrcasmotlem:::txtsize --> Ctndresueeld:::txtsize
+Ctndresueeld:::txtsize --> HceasrhakneH:::txtsize
+HceasrhakneH:::txtsize --> HceanhaatoCoo:::txtsize
+HceasrhakneH:::txtsize --> HceaCofeaJc:::txtsize
+Ctndresueeld:::txtsize --> Ctpoaiostwhf:::txtsize
+Ctpoaiostwhf:::txtsize --> Rlfriyitnnet:::txtsize
+Ctpoaiostwhf:::txtsize --> Smhotanrmor:::txtsize
 
 ```
-<i>Last updated: 2025-10-30 08:00:21.457413 (GMT+8)</i>
+<i>Last updated: 2025-10-30 12:00:38.911716 (GMT+8)</i>
 <!-- END -->
