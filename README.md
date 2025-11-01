@@ -16,123 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Unnagnsotcaa@{ shape: win-pane, label: "_Published Oct 30, 2025, 11:50 AM_
-Us economy in the dark as government shutdown cuts off crucial data" }
-Ucaurtossemts@{ shape: win-pane, label: "_Published Oct 30, 2025, 02:58 AM_
-Us fed cuts rates quarter point, but powell suggests the move may be the last of 2025" }
-Utrunissetldh@{ shape: win-pane, label: "_Published Oct 24, 2025, 10:50 PM_
-Us september consumer inflation rose less than expected, delayed data shows" }
-Aomhwgnmeegcilc@{ shape: win-pane, label: "_Published Oct 23, 2025, 08:20 AM_
-As us government shutdown drags on and trump takes power, congress cedes its relevance" }
-Uigcyeeismts@{ shape: win-pane, label: "_Published Sep 05, 2025, 09:40 PM_
-Us hiring significantly misses expectations as jobs market cools" }
-Ddnatwacrcrae@{ shape: win-pane, label: "_Published Oct 30, 2025, 06:06 AM_
-Dow ends down, s&p 500 near flat as powell says december rate cut far from assured" }
-Ucaurtossemts@{ shape: win-pane, label: "_Published Oct 30, 2025, 02:58 AM_
-Us fed cuts rates quarter point, but powell suggests the move may be the last of 2025" }
-NamriSloybomrs@{ shape: win-pane, label: "_Published Oct 30, 2025, 12:46 AM_
-Nvidia becomes world’s first us$5 trillion company as ai boom powers meteoric rise" }
-Socncyiasshet@{ shape: win-pane, label: "_Published Oct 16, 2025, 01:02 AM_
-Shutdown is costing us economy $19 billion a day, says treasury chief bessent" }
-Tseulooopath@{ shape: win-pane, label: "_Published Oct 15, 2025, 07:55 AM_
-Trump says he will unveil list on oct 17 of ‘democrat programmes’ to be shut" }
-Ugbttoaphesd@{ shape: win-pane, label: "_Published Sep 29, 2025, 08:35 AM_
-Us congress budget negotiations: what happens when the govt shuts down?" }
-Uoyfpensdrn@{ shape: win-pane, label: "_Published Oct 13, 2025, 08:39 PM_
-Us troops may miss first paychecks on oct 15 as shutdown drags on" }
-Taitarhernunn@{ shape: win-pane, label: "_Published Oct 15, 2025, 07:40 AM_
-Trump administration says 4,108 workers have been fired since shutdown began" }
-Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
-Us government begins shutdown that may lead to mass layoffs and cuts" }
-Trragsunats@{ shape: win-pane, label: "_Published Oct 10, 2025, 10:00 PM_
-Tempers flare in washington as us shutdown threatens troops’ pay" }
+Lfrcrrssfjar@{ shape: win-pane, label: "_Published Nov 01, 2025, 12:45 PM_
+Lack of air traffic controllers hits almost half of major us airports" }
+Sisaeaithws@{ shape: win-pane, label: "_Published Oct 07, 2025, 07:49 AM_
+Staffing issues cause delays at us airports as shutdown persists" }
+SKnortiottkontl@{ shape: win-pane, label: "_Published Sep 12, 2025, 12:45 PM_
+South korean airport workers to strike from sept 19 to oct 9, sparking concerns for travellers" }
+MoLnronitsoeure@{ shape: win-pane, label: "_Published Sep 08, 2025, 07:48 AM_
+Millions of londoners brace for transit disruption as london underground strike begins" }
+Ydroobndenagnnd@{ shape: win-pane, label: "_Published Sep 08, 2025, 10:16 AM_
+Young doctors in south korea abandon residencies, open dermatology clinics instead" }
+Mhftasrcrssi@{ shape: win-pane, label: "_Published Oct 27, 2025, 12:35 PM_
+More than 8,000 us flights delayed as air traffic control absences persist" }
+Sisaeaithws@{ shape: win-pane, label: "_Published Oct 07, 2025, 07:49 AM_
+Staffing issues cause delays at us airports as shutdown persists" }
+SKnortiottkontl@{ shape: win-pane, label: "_Published Sep 12, 2025, 12:45 PM_
+South korean airport workers to strike from sept 19 to oct 9, sparking concerns for travellers" }
+Utdohisig@{ shape: win-pane, label: "_Published Oct 27, 2025, 10:30 AM_
+Us govt shutdown poker: which side has the winning hand?" }
+Tsodpienmeifun@{ shape: win-pane, label: "_Published Oct 21, 2025, 07:15 PM_
+Trump’s approval edges up despite americans blaming republicans for shutdown" }
+Utrrscdolre@{ shape: win-pane, label: "_Published Sep 18, 2025, 10:19 PM_
+Us shutdown risks rise as democrats dig in on healthcare fixes" }
 
-Unnagnsotcaa:::txtsize --> Ucaurtossemts:::txtsize
-Ucaurtossemts:::txtsize --> Utrunissetldh:::txtsize
-Utrunissetldh:::txtsize --> Aomhwgnmeegcilc:::txtsize
-Utrunissetldh:::txtsize --> Uigcyeeismts:::txtsize
-Ucaurtossemts:::txtsize --> Ddnatwacrcrae:::txtsize
-Ddnatwacrcrae:::txtsize --> Ucaurtossemts:::txtsize
-Ddnatwacrcrae:::txtsize --> NamriSloybomrs:::txtsize
-Unnagnsotcaa:::txtsize --> Socncyiasshet:::txtsize
-Socncyiasshet:::txtsize --> Tseulooopath:::txtsize
-Tseulooopath:::txtsize --> Ugbttoaphesd:::txtsize
-Tseulooopath:::txtsize --> Uoyfpensdrn:::txtsize
-Socncyiasshet:::txtsize --> Taitarhernunn:::txtsize
-Taitarhernunn:::txtsize --> Ueniunmaayat:::txtsize
-Taitarhernunn:::txtsize --> Trragsunats:::txtsize
+Lfrcrrssfjar:::txtsize --> Sisaeaithws:::txtsize
+Sisaeaithws:::txtsize --> SKnortiottkontl:::txtsize
+SKnortiottkontl:::txtsize --> MoLnronitsoeure:::txtsize
+SKnortiottkontl:::txtsize --> Ydroobndenagnnd:::txtsize
+Lfrcrrssfjar:::txtsize --> Mhftasrcrssi:::txtsize
+Mhftasrcrssi:::txtsize --> Sisaeaithws:::txtsize
+Sisaeaithws:::txtsize --> SKnortiottkontl:::txtsize
+Mhftasrcrssi:::txtsize --> Utdohisig:::txtsize
+Utdohisig:::txtsize --> Tsodpienmeifun:::txtsize
+Utdohisig:::txtsize --> Utrrscdolre:::txtsize
 
-Vasoaersiam@{ shape: win-pane, label: "_Published Oct 30, 2025, 09:55 AM_
-Video analysis shows staged recovery of israeli hostage remains" }
-Ilaeaeedttee@{ shape: win-pane, label: "_Published Oct 30, 2025, 04:18 AM_
-Israel hits another gaza target after deadliest night since truce" }
-Ilillaeaftspe@{ shape: win-pane, label: "_Published Oct 29, 2025, 10:55 AM_
-Israel says it will uphold gaza ceasefire a day after strikes kill 104 people" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-NyarisaHhoeseimnt@{ shape: win-pane, label: "_Published Oct 28, 2025, 07:30 PM_
-Netanyahu says israel will respond after hamas hands over remains not belonging to missing hostages" }
-IlkzeuHolgode@{ shape: win-pane, label: "_Published Oct 29, 2025, 03:41 AM_
-Israel strikes gaza after accusing hamas of violating us-brokered ceasefire" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+Fnawnmdapf@{ shape: win-pane, label: "_Published Nov 01, 2025, 11:24 AM_
+Finland's crackdown on undocumented migrants sparks fear" }
+Wsioyaemn@{ shape: win-pane, label: "_Published Jun 22, 2021, 02:27 PM_
+'world's happiest country' finland seeks immigrants" }
+FnlpttsCpmp@{ shape: win-pane, label: "_Published Mar 20, 2021, 08:40 AM_
+Finland world's happiest country despite covid-19 pandemic: report" }
+FnoheuSpaN@{ shape: win-pane, label: "_Published Mar 20, 2020, 05:03 PM_
+Finland is world's happiest country; singapore ranked no. 31" }
+RmlcanidcEe@{ shape: win-pane, label: "_Published Sep 10, 2019, 05:30 PM_
+Racism, intolerance 'escalating' in finland: council of europe" }
+Tseessifsocrd@{ shape: win-pane, label: "_Published Oct 31, 2025, 01:46 AM_
+Trump sets refugee admissions ceiling at 7,500 for fiscal 2026, lowest cap on record" }
+FwSAarnTcsfimi@{ shape: win-pane, label: "_Published May 13, 2025, 04:01 AM_
+First white south africans arrive in us as trump claims they face discrimination" }
+FwSAaaarduivul@{ shape: win-pane, label: "_Published May 12, 2025, 05:01 AM_
+First white south africans board plane for us under trump’s divisive refugee plan" }
+Eluretashirt@{ shape: win-pane, label: "_Published Mar 23, 2025, 07:00 PM_
+Expelled south african envoy to us says he’s back home ‘with no regrets’" }
+Nniursdrirnr@{ shape: win-pane, label: "_Published Feb 09, 2025, 09:47 PM_
+‘no thanks’, white south africans turn down trump’s immigration offer" }
+TfeSAaictfas@{ shape: win-pane, label: "_Published Feb 09, 2025, 02:40 AM_
+Trump freezes all south african assistance as stand-off escalates" }
+TfeSAaictfas@{ shape: win-pane, label: "_Published Feb 09, 2025, 02:40 AM_
+Trump freezes all south african assistance as stand-off escalates" }
 
-Vasoaersiam:::txtsize --> Ilaeaeedttee:::txtsize
-Ilaeaeedttee:::txtsize --> Ilillaeaftspe:::txtsize
-Ilillaeaftspe:::txtsize --> Tdrcaaededlncbs:::txtsize
-Ilillaeaftspe:::txtsize --> NyarisaHhoeseimnt:::txtsize
-Ilaeaeedttee:::txtsize --> IlkzeuHolgode:::txtsize
-IlkzeuHolgode:::txtsize --> TssHaossaaorslaoe:::txtsize
-IlkzeuHolgode:::txtsize --> Sbsrcdnacaale:::txtsize
+Fnawnmdapf:::txtsize --> Wsioyaemn:::txtsize
+Wsioyaemn:::txtsize --> FnlpttsCpmp:::txtsize
+FnlpttsCpmp:::txtsize --> FnoheuSpaN:::txtsize
+Wsioyaemn:::txtsize --> RmlcanidcEe:::txtsize
+Fnawnmdapf:::txtsize --> Tseessifsocrd:::txtsize
+Tseessifsocrd:::txtsize --> FwSAarnTcsfimi:::txtsize
+FwSAarnTcsfimi:::txtsize --> FwSAaaarduivul:::txtsize
+FwSAarnTcsfimi:::txtsize --> Eluretashirt:::txtsize
+Tseessifsocrd:::txtsize --> Nniursdrirnr:::txtsize
+Nniursdrirnr:::txtsize --> TfeSAaictfas:::txtsize
+Nniursdrirnr:::txtsize --> TfeSAaictfas:::txtsize
 
-Tdrcasmotlem@{ shape: win-pane, label: "_Published Oct 30, 2025, 09:53 AM_
-Trump declares victory against climate ‘hoax’ after bill gates comments" }
-CtnnciosG@{ shape: win-pane, label: "_Published Oct 29, 2025, 08:20 AM_
-Climate change won’t end civilisation, says bill gates" }
-WffkemoN@{ shape: win-pane, label: "_Published Oct 28, 2025, 05:25 PM_
-World far off track to meet climate goals: un" }
-wetadfamcia@{ shape: win-pane, label: "_Published Jan 10, 2025, 11:07 AM_
-2024 was the first year above 1.5 deg c of global warming, scientists say" }
-Ntnosager@{ shape: win-pane, label: "_Published Oct 13, 2025, 11:10 AM_
-Not nothing, not enough: is the paris agreement working?" }
-JcrsrmiMsnu@{ shape: win-pane, label: "_Published Oct 28, 2025, 08:05 PM_
-Jamaica’s strongest-ever storm, hurricane melissa, turns to cuba" }
-Imhmgitmrnetic@{ shape: win-pane, label: "_Published Nov 20, 2024, 07:49 PM_
-Is climate change making tropical storms more frequent? scientists say it’s unclear" }
-HcehnaaaaHamau@{ shape: win-pane, label: "_Published Jul 03, 2024, 01:40 PM_
-Hurricane beryl, churning towards jamaica, threatens haiti and dominican republic" }
-Ctndresueeld@{ shape: win-pane, label: "_Published Oct 30, 2025, 08:45 AM_
-Climate change made hurricane melissa four times more likely: study" }
-HceasrhakneH@{ shape: win-pane, label: "_Published Oct 30, 2025, 04:32 AM_
-Hurricane melissa heads towards bahamas after killing dozens in haiti" }
-HceanhaatoCoo@{ shape: win-pane, label: "_Published Oct 28, 2025, 04:05 AM_
-Hurricane melissa begins lashing jamaica as ‘catastrophic’ category 5 storm" }
-HceaCofeaJc@{ shape: win-pane, label: "_Published Oct 29, 2025, 04:46 PM_
-Hurricane melissa hits cuba hours after devastating jamaica" }
-Ctpoaiostwhf@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:09 AM_
-Climate tipping points are being crossed, scientists warn ahead of cop30" }
-Rlfriyitnnet@{ shape: win-pane, label: "_Published Aug 20, 2025, 11:17 PM_
-Rapid loss of antarctic ice may be climate tipping point, scientists say" }
-Smhotanrmor@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:31 AM_
-September third-hottest globally on record: climate monitor" }
+UpuoNcsio@{ shape: win-pane, label: "_Published Nov 01, 2025, 10:24 AM_
+Under pressure from us, un reduces mission in colombia" }
+Nselgufexeeov@{ shape: win-pane, label: "_Published Oct 29, 2025, 01:00 AM_
+New us strikes kill 14 alleged drug traffickers, mexico leads rescue of survivor" }
+Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
+Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
+Tseaonencl@{ shape: win-pane, label: "_Published Oct 24, 2025, 05:55 AM_
+Trump says declaration of war not needed on drug cartels" }
+Uisepdvlef@{ shape: win-pane, label: "_Published Oct 23, 2025, 01:07 AM_
+Us military strikes suspected drug vessel in the pacific" }
+TcrAotnzrnsou@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:05 AM_
+Trump confirms cia authorisation in venezuela, raising pressure on maduro" }
+Thtniahclgt@{ shape: win-pane, label: "_Published Oct 03, 2025, 05:25 AM_
+Trump has determined us is at war with drug cartels, congress told" }
+UuCiboontnls@{ shape: win-pane, label: "_Published Oct 11, 2025, 07:58 AM_
+Un security council members voice concern about us-venezuela tensions" }
+Eirdyroersl@{ shape: win-pane, label: "_Published Oct 31, 2025, 06:16 PM_
+Explainer: are the deadly us strikes on alleged drug vessels legal?​" }
+Nselgufexeeov@{ shape: win-pane, label: "_Published Oct 29, 2025, 01:00 AM_
+New us strikes kill 14 alleged drug traffickers, mexico leads rescue of survivor" }
+Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
+Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
+TcrAotnzrnsou@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:05 AM_
+Trump confirms cia authorisation in venezuela, raising pressure on maduro" }
+VulClaaispbr@{ shape: win-pane, label: "_Published Oct 28, 2025, 01:03 PM_
+Venezuela claims cia ‘false flag’ attack foiled, as us deploys bombers" }
+Tseaonencl@{ shape: win-pane, label: "_Published Oct 24, 2025, 05:55 AM_
+Trump says declaration of war not needed on drug cartels" }
+Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
+Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
 
-Tdrcasmotlem:::txtsize --> CtnnciosG:::txtsize
-CtnnciosG:::txtsize --> WffkemoN:::txtsize
-WffkemoN:::txtsize --> wetadfamcia:::txtsize
-WffkemoN:::txtsize --> Ntnosager:::txtsize
-CtnnciosG:::txtsize --> JcrsrmiMsnu:::txtsize
-JcrsrmiMsnu:::txtsize --> Imhmgitmrnetic:::txtsize
-JcrsrmiMsnu:::txtsize --> HcehnaaaaHamau:::txtsize
-Tdrcasmotlem:::txtsize --> Ctndresueeld:::txtsize
-Ctndresueeld:::txtsize --> HceasrhakneH:::txtsize
-HceasrhakneH:::txtsize --> HceanhaatoCoo:::txtsize
-HceasrhakneH:::txtsize --> HceaCofeaJc:::txtsize
-Ctndresueeld:::txtsize --> Ctpoaiostwhf:::txtsize
-Ctpoaiostwhf:::txtsize --> Rlfriyitnnet:::txtsize
-Ctpoaiostwhf:::txtsize --> Smhotanrmor:::txtsize
+UpuoNcsio:::txtsize --> Nselgufexeeov:::txtsize
+Nselgufexeeov:::txtsize --> Uidycceuomasnswee:::txtsize
+Uidycceuomasnswee:::txtsize --> Tseaonencl:::txtsize
+Uidycceuomasnswee:::txtsize --> Uisepdvlef:::txtsize
+Nselgufexeeov:::txtsize --> TcrAotnzrnsou:::txtsize
+TcrAotnzrnsou:::txtsize --> Thtniahclgt:::txtsize
+TcrAotnzrnsou:::txtsize --> UuCiboontnls:::txtsize
+UpuoNcsio:::txtsize --> Eirdyroersl:::txtsize
+Eirdyroersl:::txtsize --> Nselgufexeeov:::txtsize
+Nselgufexeeov:::txtsize --> Uidycceuomasnswee:::txtsize
+Nselgufexeeov:::txtsize --> TcrAotnzrnsou:::txtsize
+Eirdyroersl:::txtsize --> VulClaaispbr:::txtsize
+VulClaaispbr:::txtsize --> Tseaonencl:::txtsize
+VulClaaispbr:::txtsize --> Uidycceuomasnswee:::txtsize
 
 ```
-<i>Last updated: 2025-10-30 12:00:38.911716 (GMT+8)</i>
+<i>Last updated: 2025-11-01 13:20:47.317902 (GMT+8)</i>
 <!-- END -->
