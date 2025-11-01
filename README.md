@@ -16,6 +16,71 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Cmmkhecost@{ shape: win-pane, label: "_Published Nov 01, 2025, 03:23 PM_
+China made a ‘mistake’ with rare-earth controls: bessent to ft" }
+Cruehromouiftt@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:48 PM_
+China ramps up rare earth restrictions, in move to beef up position for us trade talks" }
+Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
+China tightens rare earth export controls and targets defence, semiconductor users" }
+Whapira@{ shape: win-pane, label: "_Published Sep 14, 2025, 11:05 AM_
+Will the us catch up to china on rare earths?" }
+PammueCriiarmn@{ shape: win-pane, label: "_Published Oct 09, 2025, 08:35 PM_
+Pragmatism may temper turbulent us-china relationship: asia future summit panel" }
+Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
+China tightens rare earth export controls and targets defence, semiconductor users" }
+
+Cmmkhecost:::txtsize --> Cruehromouiftt:::txtsize
+Cruehromouiftt:::txtsize --> Ctertonsasnmdrs:::txtsize
+Ctertonsasnmdrs:::txtsize --> Whapira:::txtsize
+Cruehromouiftt:::txtsize --> PammueCriiarmn:::txtsize
+PammueCriiarmn:::txtsize --> Ctertonsasnmdrs:::txtsize
+
+Caykhrugtlnler@{ shape: win-pane, label: "_Published Nov 01, 2025, 03:11 PM_
+Canada pm says talks with xi marked 'turning point' in relations; apologised to trump" }
+Unloehmsewne@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:01 AM_
+Us, china seal deal on rare earths; trump says xi meeting was a 12 on scale of 1 to 10" }
+LnmegvpSaee@{ shape: win-pane, label: "_Published Oct 30, 2025, 12:05 AM_
+Looming trump-xi meeting revives hope of us-china trade truce" }
+Ttudlpaahoo@{ shape: win-pane, label: "_Published Oct 29, 2025, 11:39 AM_
+Trump talks up trade deal prospects as asia tour hits south korea" }
+TXmgelreent@{ shape: win-pane, label: "_Published Oct 28, 2025, 09:35 PM_
+Trump-xi summit might yield only short-lived detente: analysts" }
+Wrteamdar@{ shape: win-pane, label: "_Published Oct 21, 2025, 09:47 PM_
+Why rare earths are china’s trump card in trade war" }
+GBnsnrtrgjomee@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:05 AM_
+Greer, bessent blast china’s rare earths curbs, urge beijing not to implement them" }
+Xrtopglmfps@{ shape: win-pane, label: "_Published Oct 15, 2025, 11:47 AM_
+Xi’s rare earth ‘bazooka’ sparks global alarm, race for supplies" }
+Csddrodet@{ shape: win-pane, label: "_Published Oct 31, 2025, 07:31 PM_
+China’s xi and canada’s carney vow to advance relations" }
+TsitfaaOiaddnli@{ shape: win-pane, label: "_Published Oct 26, 2025, 05:04 AM_
+Trump sets 10% hike in tariffs on canada after ontario’s reagan ad aired during world series" }
+Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
+Trump says all trade talks with canada are terminated" }
+Ciuaaaeirctt@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:33 AM_
+Canadians pull reagan tariff ad after furious trump scraps trade talks" }
+Threwarfar@{ shape: win-pane, label: "_Published Oct 30, 2025, 02:26 PM_
+Trump has ‘very nice’ talk with mark carney after canada rift" }
+Ciuaaaeirctt@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:33 AM_
+Canadians pull reagan tariff ad after furious trump scraps trade talks" }
+Oimsetlere@{ shape: win-pane, label: "_Published Oct 30, 2025, 01:54 PM_
+Ontario premier asks us envoy to apologise for profane rant" }
+
+Caykhrugtlnler:::txtsize --> Unloehmsewne:::txtsize
+Unloehmsewne:::txtsize --> LnmegvpSaee:::txtsize
+LnmegvpSaee:::txtsize --> Ttudlpaahoo:::txtsize
+LnmegvpSaee:::txtsize --> TXmgelreent:::txtsize
+Unloehmsewne:::txtsize --> Wrteamdar:::txtsize
+Wrteamdar:::txtsize --> GBnsnrtrgjomee:::txtsize
+Wrteamdar:::txtsize --> Xrtopglmfps:::txtsize
+Caykhrugtlnler:::txtsize --> Csddrodet:::txtsize
+Csddrodet:::txtsize --> TsitfaaOiaddnli:::txtsize
+TsitfaaOiaddnli:::txtsize --> Tsldkhdtn:::txtsize
+TsitfaaOiaddnli:::txtsize --> Ciuaaaeirctt:::txtsize
+Csddrodet:::txtsize --> Threwarfar:::txtsize
+Threwarfar:::txtsize --> Ciuaaaeirctt:::txtsize
+Threwarfar:::txtsize --> Oimsetlere:::txtsize
+
 Lfrcrrssfjar@{ shape: win-pane, label: "_Published Nov 01, 2025, 12:45 PM_
 Lack of air traffic controllers hits almost half of major us airports" }
 Sisaeaithws@{ shape: win-pane, label: "_Published Oct 07, 2025, 07:49 AM_
@@ -50,89 +115,6 @@ Mhftasrcrssi:::txtsize --> Utdohisig:::txtsize
 Utdohisig:::txtsize --> Tsodpienmeifun:::txtsize
 Utdohisig:::txtsize --> Utrrscdolre:::txtsize
 
-Fnawnmdapf@{ shape: win-pane, label: "_Published Nov 01, 2025, 11:24 AM_
-Finland's crackdown on undocumented migrants sparks fear" }
-Wsioyaemn@{ shape: win-pane, label: "_Published Jun 22, 2021, 02:27 PM_
-'world's happiest country' finland seeks immigrants" }
-FnlpttsCpmp@{ shape: win-pane, label: "_Published Mar 20, 2021, 08:40 AM_
-Finland world's happiest country despite covid-19 pandemic: report" }
-FnoheuSpaN@{ shape: win-pane, label: "_Published Mar 20, 2020, 05:03 PM_
-Finland is world's happiest country; singapore ranked no. 31" }
-RmlcanidcEe@{ shape: win-pane, label: "_Published Sep 10, 2019, 05:30 PM_
-Racism, intolerance 'escalating' in finland: council of europe" }
-Tseessifsocrd@{ shape: win-pane, label: "_Published Oct 31, 2025, 01:46 AM_
-Trump sets refugee admissions ceiling at 7,500 for fiscal 2026, lowest cap on record" }
-FwSAarnTcsfimi@{ shape: win-pane, label: "_Published May 13, 2025, 04:01 AM_
-First white south africans arrive in us as trump claims they face discrimination" }
-FwSAaaarduivul@{ shape: win-pane, label: "_Published May 12, 2025, 05:01 AM_
-First white south africans board plane for us under trump’s divisive refugee plan" }
-Eluretashirt@{ shape: win-pane, label: "_Published Mar 23, 2025, 07:00 PM_
-Expelled south african envoy to us says he’s back home ‘with no regrets’" }
-Nniursdrirnr@{ shape: win-pane, label: "_Published Feb 09, 2025, 09:47 PM_
-‘no thanks’, white south africans turn down trump’s immigration offer" }
-TfeSAaictfas@{ shape: win-pane, label: "_Published Feb 09, 2025, 02:40 AM_
-Trump freezes all south african assistance as stand-off escalates" }
-TfeSAaictfas@{ shape: win-pane, label: "_Published Feb 09, 2025, 02:40 AM_
-Trump freezes all south african assistance as stand-off escalates" }
-
-Fnawnmdapf:::txtsize --> Wsioyaemn:::txtsize
-Wsioyaemn:::txtsize --> FnlpttsCpmp:::txtsize
-FnlpttsCpmp:::txtsize --> FnoheuSpaN:::txtsize
-Wsioyaemn:::txtsize --> RmlcanidcEe:::txtsize
-Fnawnmdapf:::txtsize --> Tseessifsocrd:::txtsize
-Tseessifsocrd:::txtsize --> FwSAarnTcsfimi:::txtsize
-FwSAarnTcsfimi:::txtsize --> FwSAaaarduivul:::txtsize
-FwSAarnTcsfimi:::txtsize --> Eluretashirt:::txtsize
-Tseessifsocrd:::txtsize --> Nniursdrirnr:::txtsize
-Nniursdrirnr:::txtsize --> TfeSAaictfas:::txtsize
-Nniursdrirnr:::txtsize --> TfeSAaictfas:::txtsize
-
-UpuoNcsio@{ shape: win-pane, label: "_Published Nov 01, 2025, 10:24 AM_
-Under pressure from us, un reduces mission in colombia" }
-Nselgufexeeov@{ shape: win-pane, label: "_Published Oct 29, 2025, 01:00 AM_
-New us strikes kill 14 alleged drug traffickers, mexico leads rescue of survivor" }
-Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
-Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
-Tseaonencl@{ shape: win-pane, label: "_Published Oct 24, 2025, 05:55 AM_
-Trump says declaration of war not needed on drug cartels" }
-Uisepdvlef@{ shape: win-pane, label: "_Published Oct 23, 2025, 01:07 AM_
-Us military strikes suspected drug vessel in the pacific" }
-TcrAotnzrnsou@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:05 AM_
-Trump confirms cia authorisation in venezuela, raising pressure on maduro" }
-Thtniahclgt@{ shape: win-pane, label: "_Published Oct 03, 2025, 05:25 AM_
-Trump has determined us is at war with drug cartels, congress told" }
-UuCiboontnls@{ shape: win-pane, label: "_Published Oct 11, 2025, 07:58 AM_
-Un security council members voice concern about us-venezuela tensions" }
-Eirdyroersl@{ shape: win-pane, label: "_Published Oct 31, 2025, 06:16 PM_
-Explainer: are the deadly us strikes on alleged drug vessels legal?​" }
-Nselgufexeeov@{ shape: win-pane, label: "_Published Oct 29, 2025, 01:00 AM_
-New us strikes kill 14 alleged drug traffickers, mexico leads rescue of survivor" }
-Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
-Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
-TcrAotnzrnsou@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:05 AM_
-Trump confirms cia authorisation in venezuela, raising pressure on maduro" }
-VulClaaispbr@{ shape: win-pane, label: "_Published Oct 28, 2025, 01:03 PM_
-Venezuela claims cia ‘false flag’ attack foiled, as us deploys bombers" }
-Tseaonencl@{ shape: win-pane, label: "_Published Oct 24, 2025, 05:55 AM_
-Trump says declaration of war not needed on drug cartels" }
-Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
-Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
-
-UpuoNcsio:::txtsize --> Nselgufexeeov:::txtsize
-Nselgufexeeov:::txtsize --> Uidycceuomasnswee:::txtsize
-Uidycceuomasnswee:::txtsize --> Tseaonencl:::txtsize
-Uidycceuomasnswee:::txtsize --> Uisepdvlef:::txtsize
-Nselgufexeeov:::txtsize --> TcrAotnzrnsou:::txtsize
-TcrAotnzrnsou:::txtsize --> Thtniahclgt:::txtsize
-TcrAotnzrnsou:::txtsize --> UuCiboontnls:::txtsize
-UpuoNcsio:::txtsize --> Eirdyroersl:::txtsize
-Eirdyroersl:::txtsize --> Nselgufexeeov:::txtsize
-Nselgufexeeov:::txtsize --> Uidycceuomasnswee:::txtsize
-Nselgufexeeov:::txtsize --> TcrAotnzrnsou:::txtsize
-Eirdyroersl:::txtsize --> VulClaaispbr:::txtsize
-VulClaaispbr:::txtsize --> Tseaonencl:::txtsize
-VulClaaispbr:::txtsize --> Uidycceuomasnswee:::txtsize
-
 ```
-<i>Last updated: 2025-11-01 13:20:47.317902 (GMT+8)</i>
+<i>Last updated: 2025-11-01 16:01:11.345883 (GMT+8)</i>
 <!-- END -->
