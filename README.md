@@ -16,105 +16,81 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Cmmkhecost@{ shape: win-pane, label: "_Published Nov 01, 2025, 03:23 PM_
-China made a ‘mistake’ with rare-earth controls: bessent to ft" }
-Cruehromouiftt@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:48 PM_
-China ramps up rare earth restrictions, in move to beef up position for us trade talks" }
-Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
-China tightens rare earth export controls and targets defence, semiconductor users" }
-Whapira@{ shape: win-pane, label: "_Published Sep 14, 2025, 11:05 AM_
-Will the us catch up to china on rare earths?" }
-PammueCriiarmn@{ shape: win-pane, label: "_Published Oct 09, 2025, 08:35 PM_
-Pragmatism may temper turbulent us-china relationship: asia future summit panel" }
-Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
-China tightens rare earth export controls and targets defence, semiconductor users" }
+Umsncfdoest@{ shape: win-pane, label: "_Published Nov 01, 2025, 06:46 PM_
+Us lawmakers intensify calls for andrew to address epstein ties" }
+Binrtberrtssm@{ shape: win-pane, label: "_Published Oct 31, 2025, 03:36 AM_
+Britain’s king charles strips brother andrew of royal titles, windsor home" }
+Vnumroeieryin@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:12 PM_
+Virginia giuffre memoir goes on sale, heaping fresh scrutiny on prince andrew" }
+Biinastiifeal@{ shape: win-pane, label: "_Published Feb 16, 2022, 12:22 AM_
+Britain's prince andrew agrees to settle virginia giuffre sex assault claim" }
+BiingunluYteaas@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:26 AM_
+Britain’s prince andrew gives up using title of duke of york, still denies accusations" }
+Biinastiifeal@{ shape: win-pane, label: "_Published Feb 16, 2022, 12:22 AM_
+Britain's prince andrew agrees to settle virginia giuffre sex assault claim" }
+FoadneCehmgte@{ shape: win-pane, label: "_Published Oct 31, 2025, 10:46 PM_
+Fear for a weakened crown drove king charles’ ruthless move against andrew" }
+Binrtberrtssm@{ shape: win-pane, label: "_Published Oct 31, 2025, 03:36 AM_
+Britain’s king charles strips brother andrew of royal titles, windsor home" }
+Vnumroeieryin@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:12 PM_
+Virginia giuffre memoir goes on sale, heaping fresh scrutiny on prince andrew" }
+Biinastiifeal@{ shape: win-pane, label: "_Published Feb 16, 2022, 12:22 AM_
+Britain's prince andrew agrees to settle virginia giuffre sex assault claim" }
+Weatwldorhc@{ shape: win-pane, label: "_Published Oct 31, 2025, 11:05 AM_
+What we know about the downfall of andrew, born a british prince" }
+Vnumroeieryin@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:12 PM_
+Virginia giuffre memoir goes on sale, heaping fresh scrutiny on prince andrew" }
 
-Cmmkhecost:::txtsize --> Cruehromouiftt:::txtsize
-Cruehromouiftt:::txtsize --> Ctertonsasnmdrs:::txtsize
-Ctertonsasnmdrs:::txtsize --> Whapira:::txtsize
-Cruehromouiftt:::txtsize --> PammueCriiarmn:::txtsize
-PammueCriiarmn:::txtsize --> Ctertonsasnmdrs:::txtsize
+Umsncfdoest:::txtsize --> Binrtberrtssm:::txtsize
+Binrtberrtssm:::txtsize --> Vnumroeieryin:::txtsize
+Vnumroeieryin:::txtsize --> Biinastiifeal:::txtsize
+Vnumroeieryin:::txtsize --> BiingunluYteaas:::txtsize
+Binrtberrtssm:::txtsize --> Biinastiifeal:::txtsize
+Umsncfdoest:::txtsize --> FoadneCehmgte:::txtsize
+FoadneCehmgte:::txtsize --> Binrtberrtssm:::txtsize
+Binrtberrtssm:::txtsize --> Vnumroeieryin:::txtsize
+Binrtberrtssm:::txtsize --> Biinastiifeal:::txtsize
+FoadneCehmgte:::txtsize --> Weatwldorhc:::txtsize
+Weatwldorhc:::txtsize --> Vnumroeieryin:::txtsize
 
-Caykhrugtlnler@{ shape: win-pane, label: "_Published Nov 01, 2025, 03:11 PM_
-Canada pm says talks with xi marked 'turning point' in relations; apologised to trump" }
-Unloehmsewne@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:01 AM_
-Us, china seal deal on rare earths; trump says xi meeting was a 12 on scale of 1 to 10" }
-LnmegvpSaee@{ shape: win-pane, label: "_Published Oct 30, 2025, 12:05 AM_
-Looming trump-xi meeting revives hope of us-china trade truce" }
-Ttudlpaahoo@{ shape: win-pane, label: "_Published Oct 29, 2025, 11:39 AM_
-Trump talks up trade deal prospects as asia tour hits south korea" }
-TXmgelreent@{ shape: win-pane, label: "_Published Oct 28, 2025, 09:35 PM_
-Trump-xi summit might yield only short-lived detente: analysts" }
-Wrteamdar@{ shape: win-pane, label: "_Published Oct 21, 2025, 09:47 PM_
-Why rare earths are china’s trump card in trade war" }
-GBnsnrtrgjomee@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:05 AM_
-Greer, bessent blast china’s rare earths curbs, urge beijing not to implement them" }
-Xrtopglmfps@{ shape: win-pane, label: "_Published Oct 15, 2025, 11:47 AM_
-Xi’s rare earth ‘bazooka’ sparks global alarm, race for supplies" }
-Csddrodet@{ shape: win-pane, label: "_Published Oct 31, 2025, 07:31 PM_
-China’s xi and canada’s carney vow to advance relations" }
-TsitfaaOiaddnli@{ shape: win-pane, label: "_Published Oct 26, 2025, 05:04 AM_
-Trump sets 10% hike in tariffs on canada after ontario’s reagan ad aired during world series" }
-Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
-Trump says all trade talks with canada are terminated" }
-Ciuaaaeirctt@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:33 AM_
-Canadians pull reagan tariff ad after furious trump scraps trade talks" }
-Threwarfar@{ shape: win-pane, label: "_Published Oct 30, 2025, 02:26 PM_
-Trump has ‘very nice’ talk with mark carney after canada rift" }
-Ciuaaaeirctt@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:33 AM_
-Canadians pull reagan tariff ad after furious trump scraps trade talks" }
-Oimsetlere@{ shape: win-pane, label: "_Published Oct 30, 2025, 01:54 PM_
-Ontario premier asks us envoy to apologise for profane rant" }
+Nttggmigsnna@{ shape: win-pane, label: "_Published Nov 01, 2025, 05:45 PM_
+New satellite images suggest mass killings persist in sudan’s el-fasher" }
+Sinayitrsld@{ shape: win-pane, label: "_Published Nov 01, 2025, 04:19 PM_
+Sudan is being ravaged by a civil war the world has overlooked" }
+Nttggmigsnna@{ shape: win-pane, label: "_Published Nov 01, 2025, 05:45 PM_
+New satellite images suggest mass killings persist in sudan’s el-fasher" }
+Sinayitrsld@{ shape: win-pane, label: "_Published Nov 01, 2025, 04:19 PM_
+Sudan is being ravaged by a civil war the world has overlooked" }
+Uiotiandnl@{ shape: win-pane, label: "_Published Sep 13, 2025, 06:25 PM_
+Us, allies propose transitional plan to end sudan conflict" }
+Uiotiandnl@{ shape: win-pane, label: "_Published Sep 13, 2025, 06:25 PM_
+Us, allies propose transitional plan to end sudan conflict" }
+SvetfeeSsele@{ shape: win-pane, label: "_Published Sep 08, 2025, 01:19 PM_
+Survivors tell of terrifying escape from sudan’s besieged el-fasher" }
+Uiotiandnl@{ shape: win-pane, label: "_Published Sep 13, 2025, 06:25 PM_
+Us, allies propose transitional plan to end sudan conflict" }
+SvetfeeSsele@{ shape: win-pane, label: "_Published Sep 08, 2025, 01:19 PM_
+Survivors tell of terrifying escape from sudan’s besieged el-fasher" }
+Inniltacsgafiawry@{ shape: win-pane, label: "_Published Sep 08, 2025, 12:05 PM_
+International criminal court to hear war crimes charges against fugitive ugandan warlord kony" }
+OiidesSvgsdp@{ shape: win-pane, label: "_Published Sep 02, 2025, 10:18 AM_
+Over 1,000 killed in landslide in western sudan village, says armed group" }
 
-Caykhrugtlnler:::txtsize --> Unloehmsewne:::txtsize
-Unloehmsewne:::txtsize --> LnmegvpSaee:::txtsize
-LnmegvpSaee:::txtsize --> Ttudlpaahoo:::txtsize
-LnmegvpSaee:::txtsize --> TXmgelreent:::txtsize
-Unloehmsewne:::txtsize --> Wrteamdar:::txtsize
-Wrteamdar:::txtsize --> GBnsnrtrgjomee:::txtsize
-Wrteamdar:::txtsize --> Xrtopglmfps:::txtsize
-Caykhrugtlnler:::txtsize --> Csddrodet:::txtsize
-Csddrodet:::txtsize --> TsitfaaOiaddnli:::txtsize
-TsitfaaOiaddnli:::txtsize --> Tsldkhdtn:::txtsize
-TsitfaaOiaddnli:::txtsize --> Ciuaaaeirctt:::txtsize
-Csddrodet:::txtsize --> Threwarfar:::txtsize
-Threwarfar:::txtsize --> Ciuaaaeirctt:::txtsize
-Threwarfar:::txtsize --> Oimsetlere:::txtsize
+Nttggmigsnna:::txtsize --> Sinayitrsld:::txtsize
+Sinayitrsld:::txtsize --> Nttggmigsnna:::txtsize
+Nttggmigsnna:::txtsize --> Sinayitrsld:::txtsize
+Nttggmigsnna:::txtsize --> Uiotiandnl:::txtsize
+Sinayitrsld:::txtsize --> Uiotiandnl:::txtsize
+Uiotiandnl:::txtsize --> SvetfeeSsele:::txtsize
+Nttggmigsnna:::txtsize --> Uiotiandnl:::txtsize
+Uiotiandnl:::txtsize --> SvetfeeSsele:::txtsize
+SvetfeeSsele:::txtsize --> Inniltacsgafiawry:::txtsize
+SvetfeeSsele:::txtsize --> OiidesSvgsdp:::txtsize
 
-Lfrcrrssfjar@{ shape: win-pane, label: "_Published Nov 01, 2025, 12:45 PM_
-Lack of air traffic controllers hits almost half of major us airports" }
-Sisaeaithws@{ shape: win-pane, label: "_Published Oct 07, 2025, 07:49 AM_
-Staffing issues cause delays at us airports as shutdown persists" }
-SKnortiottkontl@{ shape: win-pane, label: "_Published Sep 12, 2025, 12:45 PM_
-South korean airport workers to strike from sept 19 to oct 9, sparking concerns for travellers" }
-MoLnronitsoeure@{ shape: win-pane, label: "_Published Sep 08, 2025, 07:48 AM_
-Millions of londoners brace for transit disruption as london underground strike begins" }
-Ydroobndenagnnd@{ shape: win-pane, label: "_Published Sep 08, 2025, 10:16 AM_
-Young doctors in south korea abandon residencies, open dermatology clinics instead" }
-Mhftasrcrssi@{ shape: win-pane, label: "_Published Oct 27, 2025, 12:35 PM_
-More than 8,000 us flights delayed as air traffic control absences persist" }
-Sisaeaithws@{ shape: win-pane, label: "_Published Oct 07, 2025, 07:49 AM_
-Staffing issues cause delays at us airports as shutdown persists" }
-SKnortiottkontl@{ shape: win-pane, label: "_Published Sep 12, 2025, 12:45 PM_
-South korean airport workers to strike from sept 19 to oct 9, sparking concerns for travellers" }
-Utdohisig@{ shape: win-pane, label: "_Published Oct 27, 2025, 10:30 AM_
-Us govt shutdown poker: which side has the winning hand?" }
-Tsodpienmeifun@{ shape: win-pane, label: "_Published Oct 21, 2025, 07:15 PM_
-Trump’s approval edges up despite americans blaming republicans for shutdown" }
-Utrrscdolre@{ shape: win-pane, label: "_Published Sep 18, 2025, 10:19 PM_
-Us shutdown risks rise as democrats dig in on healthcare fixes" }
+Niwddnsdaanpe@{ shape: win-pane, label: "_Published Nov 01, 2025, 04:50 PM_
+Nigerian town holds traditional mass wedding each year to ensure prosperity" }
 
-Lfrcrrssfjar:::txtsize --> Sisaeaithws:::txtsize
-Sisaeaithws:::txtsize --> SKnortiottkontl:::txtsize
-SKnortiottkontl:::txtsize --> MoLnronitsoeure:::txtsize
-SKnortiottkontl:::txtsize --> Ydroobndenagnnd:::txtsize
-Lfrcrrssfjar:::txtsize --> Mhftasrcrssi:::txtsize
-Mhftasrcrssi:::txtsize --> Sisaeaithws:::txtsize
-Sisaeaithws:::txtsize --> SKnortiottkontl:::txtsize
-Mhftasrcrssi:::txtsize --> Utdohisig:::txtsize
-Utdohisig:::txtsize --> Tsodpienmeifun:::txtsize
-Utdohisig:::txtsize --> Utrrscdolre:::txtsize
 
 ```
-<i>Last updated: 2025-11-01 16:01:11.345883 (GMT+8)</i>
+<i>Last updated: 2025-11-01 20:00:36.778541 (GMT+8)</i>
 <!-- END -->
