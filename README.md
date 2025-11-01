@@ -16,81 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Umsncfdoest@{ shape: win-pane, label: "_Published Nov 01, 2025, 06:46 PM_
-Us lawmakers intensify calls for andrew to address epstein ties" }
-Binrtberrtssm@{ shape: win-pane, label: "_Published Oct 31, 2025, 03:36 AM_
-Britain’s king charles strips brother andrew of royal titles, windsor home" }
-Vnumroeieryin@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:12 PM_
-Virginia giuffre memoir goes on sale, heaping fresh scrutiny on prince andrew" }
-Biinastiifeal@{ shape: win-pane, label: "_Published Feb 16, 2022, 12:22 AM_
-Britain's prince andrew agrees to settle virginia giuffre sex assault claim" }
-BiingunluYteaas@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:26 AM_
-Britain’s prince andrew gives up using title of duke of york, still denies accusations" }
-Biinastiifeal@{ shape: win-pane, label: "_Published Feb 16, 2022, 12:22 AM_
-Britain's prince andrew agrees to settle virginia giuffre sex assault claim" }
-FoadneCehmgte@{ shape: win-pane, label: "_Published Oct 31, 2025, 10:46 PM_
-Fear for a weakened crown drove king charles’ ruthless move against andrew" }
-Binrtberrtssm@{ shape: win-pane, label: "_Published Oct 31, 2025, 03:36 AM_
-Britain’s king charles strips brother andrew of royal titles, windsor home" }
-Vnumroeieryin@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:12 PM_
-Virginia giuffre memoir goes on sale, heaping fresh scrutiny on prince andrew" }
-Biinastiifeal@{ shape: win-pane, label: "_Published Feb 16, 2022, 12:22 AM_
-Britain's prince andrew agrees to settle virginia giuffre sex assault claim" }
-Weatwldorhc@{ shape: win-pane, label: "_Published Oct 31, 2025, 11:05 AM_
-What we know about the downfall of andrew, born a british prince" }
-Vnumroeieryin@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:12 PM_
-Virginia giuffre memoir goes on sale, heaping fresh scrutiny on prince andrew" }
+Unsrshniracyco@{ shape: win-pane, label: "_Published Nov 01, 2025, 11:41 PM_
+Ukraine says its troops still holding out in pokrovsk as moscow says pincer closing" }
+Undcoiadoos@{ shape: win-pane, label: "_Published Nov 01, 2025, 06:01 AM_
+Ukraine lands special forces in embattled pokrovsk, sources say" }
+UniahsvUn@{ shape: win-pane, label: "_Published Nov 01, 2025, 02:07 AM_
+Un warns of civilian fight for survival in ukraine" }
+RannneiaUnnys@{ shape: win-pane, label: "_Published Oct 28, 2025, 03:05 AM_
+Russian drones hunt down, chase out civilians in ukraine, un inquiry finds" }
+RannneiaUnnys@{ shape: win-pane, label: "_Published Oct 28, 2025, 03:05 AM_
+Russian drones hunt down, chase out civilians in ukraine, un inquiry finds" }
+Unstilsleo@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:26 PM_
+Ukraine says it hit russian oil sites nearly 160 times in 2025 so far" }
+Unsuniemkthr@{ shape: win-pane, label: "_Published Nov 22, 2024, 10:48 PM_
+Ukraine says new russian missile flew at 13,000kmh, took 15 minutes to hit target" }
+UniahsvUn@{ shape: win-pane, label: "_Published Nov 01, 2025, 02:07 AM_
+Un warns of civilian fight for survival in ukraine" }
+Undcoiadoos@{ shape: win-pane, label: "_Published Nov 01, 2025, 06:01 AM_
+Ukraine lands special forces in embattled pokrovsk, sources say" }
+UniahsvUn@{ shape: win-pane, label: "_Published Nov 01, 2025, 02:07 AM_
+Un warns of civilian fight for survival in ukraine" }
+RannneiaUnnys@{ shape: win-pane, label: "_Published Oct 28, 2025, 03:05 AM_
+Russian drones hunt down, chase out civilians in ukraine, un inquiry finds" }
+RannneiaUnnys@{ shape: win-pane, label: "_Published Oct 28, 2025, 03:05 AM_
+Russian drones hunt down, chase out civilians in ukraine, un inquiry finds" }
+Unstilsleo@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:26 PM_
+Ukraine says it hit russian oil sites nearly 160 times in 2025 so far" }
+Unsuniemkthr@{ shape: win-pane, label: "_Published Nov 22, 2024, 10:48 PM_
+Ukraine says new russian missile flew at 13,000kmh, took 15 minutes to hit target" }
+UniahsvUn@{ shape: win-pane, label: "_Published Nov 01, 2025, 02:07 AM_
+Un warns of civilian fight for survival in ukraine" }
 
-Umsncfdoest:::txtsize --> Binrtberrtssm:::txtsize
-Binrtberrtssm:::txtsize --> Vnumroeieryin:::txtsize
-Vnumroeieryin:::txtsize --> Biinastiifeal:::txtsize
-Vnumroeieryin:::txtsize --> BiingunluYteaas:::txtsize
-Binrtberrtssm:::txtsize --> Biinastiifeal:::txtsize
-Umsncfdoest:::txtsize --> FoadneCehmgte:::txtsize
-FoadneCehmgte:::txtsize --> Binrtberrtssm:::txtsize
-Binrtberrtssm:::txtsize --> Vnumroeieryin:::txtsize
-Binrtberrtssm:::txtsize --> Biinastiifeal:::txtsize
-FoadneCehmgte:::txtsize --> Weatwldorhc:::txtsize
-Weatwldorhc:::txtsize --> Vnumroeieryin:::txtsize
+Unsrshniracyco:::txtsize --> Undcoiadoos:::txtsize
+Undcoiadoos:::txtsize --> UniahsvUn:::txtsize
+UniahsvUn:::txtsize --> RannneiaUnnys:::txtsize
+UniahsvUn:::txtsize --> RannneiaUnnys:::txtsize
+Undcoiadoos:::txtsize --> Unstilsleo:::txtsize
+Unstilsleo:::txtsize --> Unsuniemkthr:::txtsize
+Unstilsleo:::txtsize --> UniahsvUn:::txtsize
+Unsrshniracyco:::txtsize --> Undcoiadoos:::txtsize
+Undcoiadoos:::txtsize --> UniahsvUn:::txtsize
+UniahsvUn:::txtsize --> RannneiaUnnys:::txtsize
+UniahsvUn:::txtsize --> RannneiaUnnys:::txtsize
+Undcoiadoos:::txtsize --> Unstilsleo:::txtsize
+Unstilsleo:::txtsize --> Unsuniemkthr:::txtsize
+Unstilsleo:::txtsize --> UniahsvUn:::txtsize
 
-Nttggmigsnna@{ shape: win-pane, label: "_Published Nov 01, 2025, 05:45 PM_
-New satellite images suggest mass killings persist in sudan’s el-fasher" }
-Sinayitrsld@{ shape: win-pane, label: "_Published Nov 01, 2025, 04:19 PM_
-Sudan is being ravaged by a civil war the world has overlooked" }
-Nttggmigsnna@{ shape: win-pane, label: "_Published Nov 01, 2025, 05:45 PM_
-New satellite images suggest mass killings persist in sudan’s el-fasher" }
-Sinayitrsld@{ shape: win-pane, label: "_Published Nov 01, 2025, 04:19 PM_
-Sudan is being ravaged by a civil war the world has overlooked" }
-Uiotiandnl@{ shape: win-pane, label: "_Published Sep 13, 2025, 06:25 PM_
-Us, allies propose transitional plan to end sudan conflict" }
-Uiotiandnl@{ shape: win-pane, label: "_Published Sep 13, 2025, 06:25 PM_
-Us, allies propose transitional plan to end sudan conflict" }
-SvetfeeSsele@{ shape: win-pane, label: "_Published Sep 08, 2025, 01:19 PM_
-Survivors tell of terrifying escape from sudan’s besieged el-fasher" }
-Uiotiandnl@{ shape: win-pane, label: "_Published Sep 13, 2025, 06:25 PM_
-Us, allies propose transitional plan to end sudan conflict" }
-SvetfeeSsele@{ shape: win-pane, label: "_Published Sep 08, 2025, 01:19 PM_
-Survivors tell of terrifying escape from sudan’s besieged el-fasher" }
-Inniltacsgafiawry@{ shape: win-pane, label: "_Published Sep 08, 2025, 12:05 PM_
-International criminal court to hear war crimes charges against fugitive ugandan warlord kony" }
-OiidesSvgsdp@{ shape: win-pane, label: "_Published Sep 02, 2025, 10:18 AM_
-Over 1,000 killed in landslide in western sudan village, says armed group" }
+Duaamorofni@{ shape: win-pane, label: "_Published Nov 01, 2025, 11:34 PM_
+Dead quiet: paris catacombs close for six months for renovations" }
+SlaFneoecniT@{ shape: win-pane, label: "_Published Oct 03, 2025, 11:50 PM_
+Social media star fontenoy breaks world record cycling up eiffel tower" }
+SdrlTeneemirtrno@{ shape: win-pane, label: "_Published Sep 29, 2025, 09:05 PM_
+S’pore doctor completes triple crown of open water swimming in shortest time, breaking 2021 record" }
+MgsadricwwoeSep@{ shape: win-pane, label: "_Published Aug 23, 2025, 05:00 PM_
+Making waves: singapore doctor to swim in 3 iconic waterways to raise $1.5m for st luke’s hospital" }
+TgaiyoipnmediwNr@{ shape: win-pane, label: "_Published Jun 20, 2023, 01:22 PM_
+Through fog and hail: navy doctor is first s’porean to complete 192km hudson river swim in new york" }
+Cilbsrhrc@{ shape: win-pane, label: "_Published Sep 07, 2025, 04:55 PM_
+Croatian village breaks record with 3km strudel chain" }
+Pnrphkoeusose@{ shape: win-pane, label: "_Published Apr 27, 2025, 12:25 PM_
+‘park’ in central japan’s shizuoka recognised by guinness as world’s smallest" }
+SadhuonWRdpu@{ shape: win-pane, label: "_Published Sep 14, 2024, 01:00 PM_
+S’porean holds highest number of guinness world records in speedcubing" }
+Coievitecjs@{ shape: win-pane, label: "_Published Oct 31, 2025, 07:06 PM_
+Count of paris urges louvre thieves to ‘give us back our jewels’" }
+Leteidlaerrsl@{ shape: win-pane, label: "_Published Oct 22, 2025, 02:52 AM_
+Louvre heist losses estimated at $133 million as museum director faces grilling" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
+Paris’ louvre museum robbery: what jewels did the thieves steal?" }
+PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
+Paris’ louvre museum robbery: what jewels did the thieves steal?" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
 
-Nttggmigsnna:::txtsize --> Sinayitrsld:::txtsize
-Sinayitrsld:::txtsize --> Nttggmigsnna:::txtsize
-Nttggmigsnna:::txtsize --> Sinayitrsld:::txtsize
-Nttggmigsnna:::txtsize --> Uiotiandnl:::txtsize
-Sinayitrsld:::txtsize --> Uiotiandnl:::txtsize
-Uiotiandnl:::txtsize --> SvetfeeSsele:::txtsize
-Nttggmigsnna:::txtsize --> Uiotiandnl:::txtsize
-Uiotiandnl:::txtsize --> SvetfeeSsele:::txtsize
-SvetfeeSsele:::txtsize --> Inniltacsgafiawry:::txtsize
-SvetfeeSsele:::txtsize --> OiidesSvgsdp:::txtsize
+Duaamorofni:::txtsize --> SlaFneoecniT:::txtsize
+SlaFneoecniT:::txtsize --> SdrlTeneemirtrno:::txtsize
+SdrlTeneemirtrno:::txtsize --> MgsadricwwoeSep:::txtsize
+SdrlTeneemirtrno:::txtsize --> TgaiyoipnmediwNr:::txtsize
+SlaFneoecniT:::txtsize --> Cilbsrhrc:::txtsize
+Cilbsrhrc:::txtsize --> Pnrphkoeusose:::txtsize
+Cilbsrhrc:::txtsize --> SadhuonWRdpu:::txtsize
+Duaamorofni:::txtsize --> Coievitecjs:::txtsize
+Coievitecjs:::txtsize --> Leteidlaerrsl:::txtsize
+Leteidlaerrsl:::txtsize --> Ptineluiisey:::txtsize
+Leteidlaerrsl:::txtsize --> PLeubhwitea:::txtsize
+Coievitecjs:::txtsize --> PLeubhwitea:::txtsize
+PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
+PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
 
-Niwddnsdaanpe@{ shape: win-pane, label: "_Published Nov 01, 2025, 04:50 PM_
-Nigerian town holds traditional mass wedding each year to ensure prosperity" }
+TwmSeusbegfs@{ shape: win-pane, label: "_Published Nov 01, 2025, 10:55 PM_
+Trump would make us supreme court history by attending tariffs case" }
+Uroodetrtf@{ shape: win-pane, label: "_Published Sep 10, 2025, 06:02 AM_
+Us supreme court to decide on legality of trump’s tariffs" }
+Wrasiwstwtea@{ shape: win-pane, label: "_Published Sep 03, 2025, 07:50 AM_
+Will trump tariffs survive lawsuits? what to know about the legal battle" }
+TsiirnapCfpeitf@{ shape: win-pane, label: "_Published Sep 03, 2025, 03:54 AM_
+Trump says his administration will ask supreme court for expedited ruling on tariffs" }
+TfsredptbalOf@{ shape: win-pane, label: "_Published Sep 02, 2025, 11:08 PM_
+Tariffs cause ‘unprecedented’ disruption to global trade rules, wto chief says" }
+TfsredptbalOf@{ shape: win-pane, label: "_Published Sep 02, 2025, 11:08 PM_
+Tariffs cause ‘unprecedented’ disruption to global trade rules, wto chief says" }
+Wsefrtfw@{ shape: win-pane, label: "_Published Aug 08, 2025, 07:28 AM_
+Who loses the most from trump’s tariffs? who wins?" }
+Watghcafem@{ shape: win-pane, label: "_Published Apr 16, 2025, 09:43 PM_
+Wto slashes 2025 trade growth forecast, warns of deeper slump" }
+Wrasiwstwtea@{ shape: win-pane, label: "_Published Sep 03, 2025, 07:50 AM_
+Will trump tariffs survive lawsuits? what to know about the legal battle" }
+TsiirnapCfpeitf@{ shape: win-pane, label: "_Published Sep 03, 2025, 03:54 AM_
+Trump says his administration will ask supreme court for expedited ruling on tariffs" }
+Mrasoapsts@{ shape: win-pane, label: "_Published Aug 30, 2025, 06:48 AM_
+Most trump tariffs are not legal, us appeals court rules" }
+TanafStnas@{ shape: win-pane, label: "_Published Sep 02, 2025, 04:45 PM_
+The real significance of the us court ruling on tariffs" }
+TfsredptbalOf@{ shape: win-pane, label: "_Published Sep 02, 2025, 11:08 PM_
+Tariffs cause ‘unprecedented’ disruption to global trade rules, wto chief says" }
+Wsefrtfw@{ shape: win-pane, label: "_Published Aug 08, 2025, 07:28 AM_
+Who loses the most from trump’s tariffs? who wins?" }
+Watghcafem@{ shape: win-pane, label: "_Published Apr 16, 2025, 09:43 PM_
+Wto slashes 2025 trade growth forecast, warns of deeper slump" }
 
+TwmSeusbegfs:::txtsize --> Uroodetrtf:::txtsize
+Uroodetrtf:::txtsize --> Wrasiwstwtea:::txtsize
+Wrasiwstwtea:::txtsize --> TsiirnapCfpeitf:::txtsize
+Wrasiwstwtea:::txtsize --> TfsredptbalOf:::txtsize
+Uroodetrtf:::txtsize --> TfsredptbalOf:::txtsize
+TfsredptbalOf:::txtsize --> Wsefrtfw:::txtsize
+TfsredptbalOf:::txtsize --> Watghcafem:::txtsize
+TwmSeusbegfs:::txtsize --> Wrasiwstwtea:::txtsize
+Wrasiwstwtea:::txtsize --> TsiirnapCfpeitf:::txtsize
+TsiirnapCfpeitf:::txtsize --> Mrasoapsts:::txtsize
+TsiirnapCfpeitf:::txtsize --> TanafStnas:::txtsize
+Wrasiwstwtea:::txtsize --> TfsredptbalOf:::txtsize
+TfsredptbalOf:::txtsize --> Wsefrtfw:::txtsize
+TfsredptbalOf:::txtsize --> Watghcafem:::txtsize
 
 ```
-<i>Last updated: 2025-11-01 20:00:36.778541 (GMT+8)</i>
+<i>Last updated: 2025-11-02 00:01:00.953723 (GMT+8)</i>
 <!-- END -->
