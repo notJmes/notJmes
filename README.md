@@ -16,68 +16,51 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Unsrshniracyco@{ shape: win-pane, label: "_Published Nov 01, 2025, 11:41 PM_
-Ukraine says its troops still holding out in pokrovsk as moscow says pincer closing" }
-Undcoiadoos@{ shape: win-pane, label: "_Published Nov 01, 2025, 06:01 AM_
-Ukraine lands special forces in embattled pokrovsk, sources say" }
-UniahsvUn@{ shape: win-pane, label: "_Published Nov 01, 2025, 02:07 AM_
-Un warns of civilian fight for survival in ukraine" }
-RannneiaUnnys@{ shape: win-pane, label: "_Published Oct 28, 2025, 03:05 AM_
-Russian drones hunt down, chase out civilians in ukraine, un inquiry finds" }
-RannneiaUnnys@{ shape: win-pane, label: "_Published Oct 28, 2025, 03:05 AM_
-Russian drones hunt down, chase out civilians in ukraine, un inquiry finds" }
-Unstilsleo@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:26 PM_
-Ukraine says it hit russian oil sites nearly 160 times in 2025 so far" }
-Unsuniemkthr@{ shape: win-pane, label: "_Published Nov 22, 2024, 10:48 PM_
-Ukraine says new russian missile flew at 13,000kmh, took 15 minutes to hit target" }
-UniahsvUn@{ shape: win-pane, label: "_Published Nov 01, 2025, 02:07 AM_
-Un warns of civilian fight for survival in ukraine" }
-Undcoiadoos@{ shape: win-pane, label: "_Published Nov 01, 2025, 06:01 AM_
-Ukraine lands special forces in embattled pokrovsk, sources say" }
-UniahsvUn@{ shape: win-pane, label: "_Published Nov 01, 2025, 02:07 AM_
-Un warns of civilian fight for survival in ukraine" }
-RannneiaUnnys@{ shape: win-pane, label: "_Published Oct 28, 2025, 03:05 AM_
-Russian drones hunt down, chase out civilians in ukraine, un inquiry finds" }
-RannneiaUnnys@{ shape: win-pane, label: "_Published Oct 28, 2025, 03:05 AM_
-Russian drones hunt down, chase out civilians in ukraine, un inquiry finds" }
-Unstilsleo@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:26 PM_
-Ukraine says it hit russian oil sites nearly 160 times in 2025 so far" }
-Unsuniemkthr@{ shape: win-pane, label: "_Published Nov 22, 2024, 10:48 PM_
-Ukraine says new russian missile flew at 13,000kmh, took 15 minutes to hit target" }
-UniahsvUn@{ shape: win-pane, label: "_Published Nov 01, 2025, 02:07 AM_
-Un warns of civilian fight for survival in ukraine" }
+DaafhreYralai@{ shape: win-pane, label: "_Published Nov 02, 2025, 03:41 AM_
+Displaced gazans find shelter in the late yasser arafat’s dilapidated villa" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+Ilsadeecot@{ shape: win-pane, label: "_Published Nov 01, 2025, 04:34 PM_
+Israel army says gaza bodies received on oct 31 not of hostages" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
+Hstaoltesnv@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:51 AM_
+Hamas says it has handed over all hostage remains it can recover" }
+Tsscretniali@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:10 AM_
+Trump says israel could resume fighting in gaza if hamas fails to disarm" }
+IlHhdbhnroe@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:54 PM_
+Israel says hamas handed over body that is not former hostage" }
 
-Unsrshniracyco:::txtsize --> Undcoiadoos:::txtsize
-Undcoiadoos:::txtsize --> UniahsvUn:::txtsize
-UniahsvUn:::txtsize --> RannneiaUnnys:::txtsize
-UniahsvUn:::txtsize --> RannneiaUnnys:::txtsize
-Undcoiadoos:::txtsize --> Unstilsleo:::txtsize
-Unstilsleo:::txtsize --> Unsuniemkthr:::txtsize
-Unstilsleo:::txtsize --> UniahsvUn:::txtsize
-Unsrshniracyco:::txtsize --> Undcoiadoos:::txtsize
-Undcoiadoos:::txtsize --> UniahsvUn:::txtsize
-UniahsvUn:::txtsize --> RannneiaUnnys:::txtsize
-UniahsvUn:::txtsize --> RannneiaUnnys:::txtsize
-Undcoiadoos:::txtsize --> Unstilsleo:::txtsize
-Unstilsleo:::txtsize --> Unsuniemkthr:::txtsize
-Unstilsleo:::txtsize --> UniahsvUn:::txtsize
+DaafhreYralai:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+DaafhreYralai:::txtsize --> Ilsadeecot:::txtsize
+Ilsadeecot:::txtsize --> Tdrcaaededlncbs:::txtsize
+Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
+Ilsadeecot:::txtsize --> Hstaoltesnv:::txtsize
+Hstaoltesnv:::txtsize --> Tsscretniali:::txtsize
+Hstaoltesnv:::txtsize --> IlHhdbhnroe:::txtsize
 
-Duaamorofni@{ shape: win-pane, label: "_Published Nov 01, 2025, 11:34 PM_
-Dead quiet: paris catacombs close for six months for renovations" }
-SlaFneoecniT@{ shape: win-pane, label: "_Published Oct 03, 2025, 11:50 PM_
-Social media star fontenoy breaks world record cycling up eiffel tower" }
-SdrlTeneemirtrno@{ shape: win-pane, label: "_Published Sep 29, 2025, 09:05 PM_
-S’pore doctor completes triple crown of open water swimming in shortest time, breaking 2021 record" }
-MgsadricwwoeSep@{ shape: win-pane, label: "_Published Aug 23, 2025, 05:00 PM_
-Making waves: singapore doctor to swim in 3 iconic waterways to raise $1.5m for st luke’s hospital" }
-TgaiyoipnmediwNr@{ shape: win-pane, label: "_Published Jun 20, 2023, 01:22 PM_
-Through fog and hail: navy doctor is first s’porean to complete 192km hudson river swim in new york" }
-Cilbsrhrc@{ shape: win-pane, label: "_Published Sep 07, 2025, 04:55 PM_
-Croatian village breaks record with 3km strudel chain" }
-Pnrphkoeusose@{ shape: win-pane, label: "_Published Apr 27, 2025, 12:25 PM_
-‘park’ in central japan’s shizuoka recognised by guinness as world’s smallest" }
-SadhuonWRdpu@{ shape: win-pane, label: "_Published Sep 14, 2024, 01:00 PM_
-S’porean holds highest number of guinness world records in speedcubing" }
+Wcerrseo@{ shape: win-pane, label: "_Published Nov 02, 2025, 01:16 AM_
+Woman charged over louvre heist cries in court" }
 Coievitecjs@{ shape: win-pane, label: "_Published Oct 31, 2025, 07:06 PM_
 Count of paris urges louvre thieves to ‘give us back our jewels’" }
 Leteidlaerrsl@{ shape: win-pane, label: "_Published Oct 22, 2025, 02:52 AM_
@@ -92,68 +75,52 @@ Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
 Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
 Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
 Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+Lexdicieioiynnr@{ shape: win-pane, label: "_Published Oct 31, 2025, 10:56 PM_
+Louvre was exposed to heist by chronic underestimation of risk, says french minister" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
+‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
+Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
+Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
+PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
+Paris’ louvre museum robbery: what jewels did the thieves steal?" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
 
-Duaamorofni:::txtsize --> SlaFneoecniT:::txtsize
-SlaFneoecniT:::txtsize --> SdrlTeneemirtrno:::txtsize
-SdrlTeneemirtrno:::txtsize --> MgsadricwwoeSep:::txtsize
-SdrlTeneemirtrno:::txtsize --> TgaiyoipnmediwNr:::txtsize
-SlaFneoecniT:::txtsize --> Cilbsrhrc:::txtsize
-Cilbsrhrc:::txtsize --> Pnrphkoeusose:::txtsize
-Cilbsrhrc:::txtsize --> SadhuonWRdpu:::txtsize
-Duaamorofni:::txtsize --> Coievitecjs:::txtsize
+Wcerrseo:::txtsize --> Coievitecjs:::txtsize
 Coievitecjs:::txtsize --> Leteidlaerrsl:::txtsize
 Leteidlaerrsl:::txtsize --> Ptineluiisey:::txtsize
 Leteidlaerrsl:::txtsize --> PLeubhwitea:::txtsize
 Coievitecjs:::txtsize --> PLeubhwitea:::txtsize
 PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
 PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
+Wcerrseo:::txtsize --> Lexdicieioiynnr:::txtsize
+Lexdicieioiynnr:::txtsize --> Ptineluiisey:::txtsize
+Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
+Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
+Lexdicieioiynnr:::txtsize --> PLeubhwitea:::txtsize
+PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
+PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
 
-TwmSeusbegfs@{ shape: win-pane, label: "_Published Nov 01, 2025, 10:55 PM_
-Trump would make us supreme court history by attending tariffs case" }
-Uroodetrtf@{ shape: win-pane, label: "_Published Sep 10, 2025, 06:02 AM_
-Us supreme court to decide on legality of trump’s tariffs" }
-Wrasiwstwtea@{ shape: win-pane, label: "_Published Sep 03, 2025, 07:50 AM_
-Will trump tariffs survive lawsuits? what to know about the legal battle" }
-TsiirnapCfpeitf@{ shape: win-pane, label: "_Published Sep 03, 2025, 03:54 AM_
-Trump says his administration will ask supreme court for expedited ruling on tariffs" }
-TfsredptbalOf@{ shape: win-pane, label: "_Published Sep 02, 2025, 11:08 PM_
-Tariffs cause ‘unprecedented’ disruption to global trade rules, wto chief says" }
-TfsredptbalOf@{ shape: win-pane, label: "_Published Sep 02, 2025, 11:08 PM_
-Tariffs cause ‘unprecedented’ disruption to global trade rules, wto chief says" }
-Wsefrtfw@{ shape: win-pane, label: "_Published Aug 08, 2025, 07:28 AM_
-Who loses the most from trump’s tariffs? who wins?" }
-Watghcafem@{ shape: win-pane, label: "_Published Apr 16, 2025, 09:43 PM_
-Wto slashes 2025 trade growth forecast, warns of deeper slump" }
-Wrasiwstwtea@{ shape: win-pane, label: "_Published Sep 03, 2025, 07:50 AM_
-Will trump tariffs survive lawsuits? what to know about the legal battle" }
-TsiirnapCfpeitf@{ shape: win-pane, label: "_Published Sep 03, 2025, 03:54 AM_
-Trump says his administration will ask supreme court for expedited ruling on tariffs" }
-Mrasoapsts@{ shape: win-pane, label: "_Published Aug 30, 2025, 06:48 AM_
-Most trump tariffs are not legal, us appeals court rules" }
-TanafStnas@{ shape: win-pane, label: "_Published Sep 02, 2025, 04:45 PM_
-The real significance of the us court ruling on tariffs" }
-TfsredptbalOf@{ shape: win-pane, label: "_Published Sep 02, 2025, 11:08 PM_
-Tariffs cause ‘unprecedented’ disruption to global trade rules, wto chief says" }
-Wsefrtfw@{ shape: win-pane, label: "_Published Aug 08, 2025, 07:28 AM_
-Who loses the most from trump’s tariffs? who wins?" }
-Watghcafem@{ shape: win-pane, label: "_Published Apr 16, 2025, 09:43 PM_
-Wto slashes 2025 trade growth forecast, warns of deeper slump" }
+SneehtdstNbyn@{ shape: win-pane, label: "_Published Nov 01, 2025, 11:51 PM_
+Syrian leader ahmed al-sharaa to head to washington in november, says us envoy" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
+Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Hmsis@{ shape: win-pane, label: "_Published Dec 08, 2024, 04:00 PM_
+How damascus fell in 11 days" }
 
-TwmSeusbegfs:::txtsize --> Uroodetrtf:::txtsize
-Uroodetrtf:::txtsize --> Wrasiwstwtea:::txtsize
-Wrasiwstwtea:::txtsize --> TsiirnapCfpeitf:::txtsize
-Wrasiwstwtea:::txtsize --> TfsredptbalOf:::txtsize
-Uroodetrtf:::txtsize --> TfsredptbalOf:::txtsize
-TfsredptbalOf:::txtsize --> Wsefrtfw:::txtsize
-TfsredptbalOf:::txtsize --> Watghcafem:::txtsize
-TwmSeusbegfs:::txtsize --> Wrasiwstwtea:::txtsize
-Wrasiwstwtea:::txtsize --> TsiirnapCfpeitf:::txtsize
-TsiirnapCfpeitf:::txtsize --> Mrasoapsts:::txtsize
-TsiirnapCfpeitf:::txtsize --> TanafStnas:::txtsize
-Wrasiwstwtea:::txtsize --> TfsredptbalOf:::txtsize
-TfsredptbalOf:::txtsize --> Wsefrtfw:::txtsize
-TfsredptbalOf:::txtsize --> Watghcafem:::txtsize
+SneehtdstNbyn:::txtsize --> SnltiARahtoy:::txtsize
+SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
+Wasrsnnafriben:::txtsize --> SnltiARahtoy:::txtsize
+Wasrsnnafriben:::txtsize --> Hmsis:::txtsize
 
 ```
-<i>Last updated: 2025-11-02 00:01:00.953723 (GMT+8)</i>
+<i>Last updated: 2025-11-02 04:00:26.964131 (GMT+8)</i>
 <!-- END -->
