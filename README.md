@@ -16,108 +16,135 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ipdahibicfi@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:36 PM_
-Iran’s president says tehran will rebuild its nuclear facilities" }
-Tsifartdsodsirrr@{ shape: win-pane, label: "_Published Nov 01, 2025, 02:01 AM_
-Top us sanctions official to travel to middle east, europe to discuss ‘maximum pressure’ on iran" }
-TsoettclI@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:05 PM_
-Trump says would be ‘great to get a peace deal’ with iran" }
-TsogrrsiPtnesiais@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:25 PM_
-Trump says ‘long nightmare’ over for israelis and palestinians, receives standing ovation in knesset" }
-RsinefawsUb@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:10 AM_
-Repression in iran worsened after 12-day war with israel: un probe" }
-Iuorrowfa@{ shape: win-pane, label: "_Published Jun 26, 2025, 12:45 AM_
-Iran turns to internal crackdown in wake of 12-day war" }
-MAshatnuss@{ shape: win-pane, label: "_Published Mar 18, 2024, 07:37 PM_
-Mahsa amini’s death in iran custody ‘unlawful’, says un mission" }
-
-Ipdahibicfi:::txtsize --> Tsifartdsodsirrr:::txtsize
-Tsifartdsodsirrr:::txtsize --> TsoettclI:::txtsize
-TsoettclI:::txtsize --> TsogrrsiPtnesiais:::txtsize
-Tsifartdsodsirrr:::txtsize --> RsinefawsUb:::txtsize
-RsinefawsUb:::txtsize --> Iuorrowfa:::txtsize
-RsinefawsUb:::txtsize --> MAshatnuss:::txtsize
-
-Fecelniple@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:36 PM_
-Five german climbers killed in italian alps avalanche" }
-Trceeptpioama@{ shape: win-pane, label: "_Published Oct 27, 2025, 11:25 AM_
-Two foreign climbers die in nepal after expeditions to ama dablam mountain" }
-EaoaEskswpt@{ shape: win-pane, label: "_Published Oct 07, 2025, 11:47 AM_
-Evacuation of stranded everest trekkers set to wrap up on oct 7" }
-Okadreevwin@{ shape: win-pane, label: "_Published Oct 06, 2025, 05:54 PM_
-One hiker dead, hundreds rescued after heavy snowfall in china" }
-Ardekvtoobvy@{ shape: win-pane, label: "_Published Oct 08, 2025, 09:52 AM_
-All stranded everest hikers evacuated from remote tibetan valley" }
-AtpTaeuebz@{ shape: win-pane, label: "_Published Oct 05, 2025, 08:02 PM_
-Almost 1,000 trapped on tibetan side of mount everest by blizzard" }
-EaoaEskswpt@{ shape: win-pane, label: "_Published Oct 07, 2025, 11:47 AM_
-Evacuation of stranded everest trekkers set to wrap up on oct 7" }
-LeofssEseos@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:45 PM_
-Last member of the first successful everest expedition dies" }
-Nienkrdsm@{ shape: win-pane, label: "_Published May 27, 2025, 12:19 PM_
-Nepali ‘everest man’ breaks own record with 31st summit" }
-Innlrotae@{ shape: win-pane, label: "_Published May 19, 2025, 03:39 PM_
-Indian, romanian climbers die on lhotse peak in nepal" }
-Esiyteplrrbears@{ shape: win-pane, label: "_Published May 23, 2025, 11:27 AM_
-Everest in five days: british team’s speed climb triggers probe by nepali authorities" }
-
-Fecelniple:::txtsize --> Trceeptpioama:::txtsize
-Trceeptpioama:::txtsize --> EaoaEskswpt:::txtsize
-EaoaEskswpt:::txtsize --> Okadreevwin:::txtsize
-Trceeptpioama:::txtsize --> Ardekvtoobvy:::txtsize
-Ardekvtoobvy:::txtsize --> AtpTaeuebz:::txtsize
-Ardekvtoobvy:::txtsize --> EaoaEskswpt:::txtsize
-Fecelniple:::txtsize --> LeofssEseos:::txtsize
-LeofssEseos:::txtsize --> Nienkrdsm:::txtsize
-Nienkrdsm:::txtsize --> Innlrotae:::txtsize
-Nienkrdsm:::txtsize --> Esiyteplrrbears:::txtsize
-
-Ileiesnomulomorbh@{ shape: win-pane, label: "_Published Nov 02, 2025, 04:31 PM_
-Israeli defence minister says lebanese government must fulfil commitment to disarm hezbollah" }
-TafnemsHleikl@{ shape: win-pane, label: "_Published Nov 27, 2024, 02:56 AM_
-Thousands of lebanese head home as israel-hezbollah ceasefire takes hold" }
-IlocfheUktid@{ shape: win-pane, label: "_Published Nov 27, 2024, 05:28 AM_
-Israel-hezbollah ceasefire: what does the us-brokered truce include?" }
-TafnemsHleikl@{ shape: win-pane, label: "_Published Nov 27, 2024, 02:56 AM_
-Thousands of lebanese head home as israel-hezbollah ceasefire takes hold" }
-TafnemsHleikl@{ shape: win-pane, label: "_Published Nov 27, 2024, 02:56 AM_
-Thousands of lebanese head home as israel-hezbollah ceasefire takes hold" }
-PeLoseeaeao@{ shape: win-pane, label: "_Published Nov 26, 2024, 07:13 PM_
-Prospect of lebanon ceasefire leaves gazans feeling abandoned" }
-AaOtsiPtnlnags@{ shape: win-pane, label: "_Published Oct 07, 2024, 12:12 PM_
-A year after oct 7 attack: israelis and palestinians reflect on loss as war grinds on" }
-Wrssdszseeisepts@{ shape: win-pane, label: "_Published Nov 25, 2024, 09:33 PM_
-Winter rainstorms flood tents of gaza’s displaced palestinians as israel steps up strikes" }
-Hlutaarhbmrig@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:20 PM_
-Hezbollah supporters gather at nasrallah's tomb to commemorate killing" }
-Hlhiiator@{ shape: win-pane, label: "_Published Sep 28, 2024, 04:42 PM_
-Hezbollah chief killed in israeli strike on beirut" }
-Trcrseeebi@{ shape: win-pane, label: "_Published Sep 28, 2024, 07:33 AM_
-Terror, panic as israeli strikes wipe out beirut buildings" }
+Ililezirlocln@{ shape: win-pane, label: "_Published Nov 02, 2025, 11:01 PM_
+Israeli strike kills one in gaza as sides trade blame for truce violations" }
+IliezatHtdtrda@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:40 PM_
+Israeli strikes test gaza’s fragile truce, hamas to hand over two more dead hostages" }
 NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
 Netanyahu declares israel at war as hamas attacks kill over 100" }
-Hlalhrtneces@{ shape: win-pane, label: "_Published Sep 18, 2024, 10:32 PM_
-Hezbollah says it launched first attack on israel since pager blasts" }
-Hlopheeeslerussa@{ shape: win-pane, label: "_Published Sep 17, 2024, 10:36 PM_
-Hezbollah vows to punish israel after pager blasts kill nine, injure thousands across lebanon" }
-TowoatiyealwaHr@{ shape: win-pane, label: "_Published Sep 18, 2024, 09:05 PM_
-‘the product wasn’t ours’: taiwan tech firm says pagers that exploded were made in hungary" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+Vasoaersiam@{ shape: win-pane, label: "_Published Oct 30, 2025, 09:55 AM_
+Video analysis shows staged recovery of israeli hostage remains" }
+Ilaeaeedttee@{ shape: win-pane, label: "_Published Oct 30, 2025, 04:18 AM_
+Israel hits another gaza target after deadliest night since truce" }
+Cfonaoteervta@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:44 PM_
+Ceasefire holds in gaza ahead of hostage release and trump’s visit to israel" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+PtndCnspaamnt@{ shape: win-pane, label: "_Published Oct 12, 2025, 02:44 AM_
+Palestinians find gaza city in ruins; trump to chair peace summit in egypt" }
+Waeparyfsrs@{ shape: win-pane, label: "_Published Oct 12, 2025, 04:50 AM_
+‘we finally feel hope’: israeli crowds yearn for hostage release" }
+Ilsoaoaen@{ shape: win-pane, label: "_Published Oct 11, 2025, 10:20 PM_
+Israel moves prisoners ahead of gaza deal exchange" }
 
-Ileiesnomulomorbh:::txtsize --> TafnemsHleikl:::txtsize
-TafnemsHleikl:::txtsize --> IlocfheUktid:::txtsize
-IlocfheUktid:::txtsize --> TafnemsHleikl:::txtsize
-IlocfheUktid:::txtsize --> TafnemsHleikl:::txtsize
-TafnemsHleikl:::txtsize --> PeLoseeaeao:::txtsize
-PeLoseeaeao:::txtsize --> AaOtsiPtnlnags:::txtsize
-PeLoseeaeao:::txtsize --> Wrssdszseeisepts:::txtsize
-Ileiesnomulomorbh:::txtsize --> Hlutaarhbmrig:::txtsize
-Hlutaarhbmrig:::txtsize --> Hlhiiator:::txtsize
-Hlhiiator:::txtsize --> Trcrseeebi:::txtsize
-Hlhiiator:::txtsize --> NyeeawHakl:::txtsize
-Hlutaarhbmrig:::txtsize --> Hlalhrtneces:::txtsize
-Hlalhrtneces:::txtsize --> Hlopheeeslerussa:::txtsize
-Hlalhrtneces:::txtsize --> TowoatiyealwaHr:::txtsize
+Ililezirlocln:::txtsize --> IliezatHtdtrda:::txtsize
+IliezatHtdtrda:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+IliezatHtdtrda:::txtsize --> Vasoaersiam:::txtsize
+Vasoaersiam:::txtsize --> Ilaeaeedttee:::txtsize
+Ililezirlocln:::txtsize --> Cfonaoteervta:::txtsize
+Cfonaoteervta:::txtsize --> Wouaaam:::txtsize
+Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
+Wouaaam:::txtsize --> NyeeawHakl:::txtsize
+Cfonaoteervta:::txtsize --> PtndCnspaamnt:::txtsize
+PtndCnspaamnt:::txtsize --> Waeparyfsrs:::txtsize
+PtndCnspaamnt:::txtsize --> Ilsoaoaen:::txtsize
+
+Swalaartals@{ shape: win-pane, label: "_Published Nov 02, 2025, 09:47 PM_
+Sudan war sparks global alarm after reports of mass killings" }
+Nttggmigsnna@{ shape: win-pane, label: "_Published Nov 01, 2025, 05:45 PM_
+New satellite images suggest mass killings persist in sudan’s el-fasher" }
+Sinayitrsld@{ shape: win-pane, label: "_Published Nov 01, 2025, 04:19 PM_
+Sudan is being ravaged by a civil war the world has overlooked" }
+Nttggmigsnna@{ shape: win-pane, label: "_Published Nov 01, 2025, 05:45 PM_
+New satellite images suggest mass killings persist in sudan’s el-fasher" }
+Uiotiandnl@{ shape: win-pane, label: "_Published Sep 13, 2025, 06:25 PM_
+Us, allies propose transitional plan to end sudan conflict" }
+Uiotiandnl@{ shape: win-pane, label: "_Published Sep 13, 2025, 06:25 PM_
+Us, allies propose transitional plan to end sudan conflict" }
+SvetfeeSsele@{ shape: win-pane, label: "_Published Sep 08, 2025, 01:19 PM_
+Survivors tell of terrifying escape from sudan’s besieged el-fasher" }
+Peruicelalfs@{ shape: win-pane, label: "_Published Nov 02, 2025, 07:51 PM_
+Pope leo decries sudan violence, urges dialogue and relief efforts" }
+Tnpiydkdtt@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:06 PM_
+Tanzania opposition says hundreds killed in vote protests" }
+MaceRiiyisire@{ shape: win-pane, label: "_Published Oct 15, 2025, 10:46 PM_
+Madagascar coup leader randrianirina says he will be sworn in as president" }
+WssetCorrit@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:04 PM_
+World’s oldest ruler wants new cameroon term, alarming investors" }
+TnapijHncwtart@{ shape: win-pane, label: "_Published Nov 02, 2025, 03:56 PM_
+Tanzania’s main opposition rejects hassan’s election win after deadly protests" }
+Tnpiydkdtt@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:06 PM_
+Tanzania opposition says hundreds killed in vote protests" }
+Tnpiydkdtt@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:06 PM_
+Tanzania opposition says hundreds killed in vote protests" }
+
+Swalaartals:::txtsize --> Nttggmigsnna:::txtsize
+Nttggmigsnna:::txtsize --> Sinayitrsld:::txtsize
+Sinayitrsld:::txtsize --> Nttggmigsnna:::txtsize
+Sinayitrsld:::txtsize --> Uiotiandnl:::txtsize
+Nttggmigsnna:::txtsize --> Uiotiandnl:::txtsize
+Uiotiandnl:::txtsize --> SvetfeeSsele:::txtsize
+Swalaartals:::txtsize --> Peruicelalfs:::txtsize
+Peruicelalfs:::txtsize --> Tnpiydkdtt:::txtsize
+Tnpiydkdtt:::txtsize --> MaceRiiyisire:::txtsize
+Tnpiydkdtt:::txtsize --> WssetCorrit:::txtsize
+Peruicelalfs:::txtsize --> TnapijHncwtart:::txtsize
+TnapijHncwtart:::txtsize --> Tnpiydkdtt:::txtsize
+TnapijHncwtart:::txtsize --> Tnpiydkdtt:::txtsize
+
+Letotmsrsioty@{ shape: win-pane, label: "_Published Nov 02, 2025, 09:46 PM_
+Louvre heist work of petty criminals, not organised crime, prosecutor says" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
+‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
+NegaTrah@{ shape: win-pane, label: "_Published Feb 20, 2025, 01:00 PM_
+Nike bets big on reality tv star kim kardashian" }
+Kriinucneida@{ shape: win-pane, label: "_Published May 17, 2023, 12:00 PM_
+Kim kardashian's $1.34 billion buyout pitch leans on her social media reach" }
+Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
+Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
+GpmglnolN@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:52 PM_
+Greenpeace $880m damages ruling in us shocks global ngos" }
+Letutgors@{ shape: win-pane, label: "_Published Nov 01, 2025, 10:49 PM_
+Louvre heist: one suspect charged, another released" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
+‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
+Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
+Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
+Fhcerpiviwtig@{ shape: win-pane, label: "_Published Oct 30, 2025, 03:20 PM_
+French police arrest more suspects in louvre heist, jewels still missing" }
+PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
+Paris’ louvre museum robbery: what jewels did the thieves steal?" }
+LesjsnrahRp@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:20 PM_
+Louvre transfers jewels to bank of france after heist, rtl reports" }
+
+Letotmsrsioty:::txtsize --> Ptineluiisey:::txtsize
+Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
+GpboiPoidaes:::txtsize --> NegaTrah:::txtsize
+GpboiPoidaes:::txtsize --> Kriinucneida:::txtsize
+Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
+Gpssofemmnsrt:::txtsize --> GpmglnolN:::txtsize
+Letotmsrsioty:::txtsize --> Letutgors:::txtsize
+Letutgors:::txtsize --> Ptineluiisey:::txtsize
+Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
+Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
+Letutgors:::txtsize --> Fhcerpiviwtig:::txtsize
+Fhcerpiviwtig:::txtsize --> PLeubhwitea:::txtsize
+Fhcerpiviwtig:::txtsize --> LesjsnrahRp:::txtsize
 
 ```
-<i>Last updated: 2025-11-02 20:07:51.101037 (GMT+8)</i>
+<i>Last updated: 2025-11-03 00:00:26.270620 (GMT+8)</i>
 <!-- END -->
