@@ -16,93 +16,141 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-ItlotltadSlcs@{ shape: win-pane, label: "_Published Nov 02, 2025, 11:43 AM_
-‘intentional’ explosion took place at harvard medical school, officials say" }
-TsrgTsadeyneodcg@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:20 AM_
-‘their sins are forgiven’: trump says harvard university to run ‘trade schools’ under upcoming deal" }
-TaiteoHrllfad@{ shape: win-pane, label: "_Published Sep 30, 2025, 07:47 AM_
-Trump administration seeks to make harvard ineligible for federal funding" }
-GngcoetnooT@{ shape: win-pane, label: "_Published Sep 29, 2025, 09:25 AM_
-Give in or fight back? us colleges are torn on how to respond to trump" }
-Hrrreizsoop@{ shape: win-pane, label: "_Published Sep 20, 2025, 09:20 AM_
-Harvard’s former president criticizes its approach to trump" }
-GngcoetnooT@{ shape: win-pane, label: "_Published Sep 29, 2025, 09:25 AM_
-Give in or fight back? us colleges are torn on how to respond to trump" }
-Hrspnafogloett@{ shape: win-pane, label: "_Published May 23, 2025, 09:34 PM_
-Harvard sues trump administration for blocking enrolment of foreign students" }
-Ukssrooodswrdsi@{ shape: win-pane, label: "_Published Sep 13, 2025, 10:30 AM_
-Uc berkeley shares information on dozens of students, staff with trump administration" }
-Hrdnlnyinnar@{ shape: win-pane, label: "_Published Oct 17, 2025, 03:05 AM_
-Harvard’s endowment swells to nearly $74 billion; donations hit a record" }
-TaiteHruertdaeseo@{ shape: win-pane, label: "_Published Aug 01, 2025, 04:14 AM_
-Trump administration refers harvard to justice department to address anti-semitism allegations" }
-BUrmawhtseei@{ shape: win-pane, label: "_Published Jul 31, 2025, 08:05 AM_
-Brown university makes a deal with the white house to restore funding" }
-WHsfftnssrme@{ shape: win-pane, label: "_Published Jul 26, 2025, 07:39 AM_
-White house seeks fines from other universities after columbia deal" }
-BUrrtiuasaat@{ shape: win-pane, label: "_Published Oct 16, 2025, 07:00 AM_
-Brown university rejects a white house deal for special treatment" }
-TosoeftugrtM@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:00 AM_
-Trump offers all colleges preferential funding plan rejected by mit" }
-BbetnssugtsT@{ shape: win-pane, label: "_Published Aug 05, 2025, 08:59 AM_
-Badly bruised elite us universities are rushing to cut deals with trump" }
+RaaeeUnsirMt@{ shape: win-pane, label: "_Published Nov 02, 2025, 03:00 PM_
+Russia threat extends beyond ukraine, says finnish foreign minister" }
+Eeieppoaprored@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
+Europe, ukraine prepare 12-point plan to end war, propose trump to chair peace board" }
+PTtiaodrieei@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
+Putin-trump talks in budapest on hold after russia rejects ceasefire" }
+Tttndtrttcke@{ shape: win-pane, label: "_Published Oct 16, 2025, 11:15 PM_
+Trump to meet putin in budapest after ‘great’ call to discuss ukraine" }
+Raedikeesivoi@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:52 AM_
+Russia reiterated previous ukraine peace terms to us in private communique" }
+Unlrastwnsudeo@{ shape: win-pane, label: "_Published Oct 17, 2025, 10:35 PM_
+Ukraine could use reparations loan to buy weapons outside europe, document shows" }
+Zseafrnouu@{ shape: win-pane, label: "_Published Oct 17, 2025, 10:31 PM_
+Zelensky seeks weapons from trump in shadow of putin summit" }
+Zspdarnloiats@{ shape: win-pane, label: "_Published Oct 17, 2025, 04:35 AM_
+Zelensky hopes middle east agreement can lead to ukraine peace with russia" }
+SpnchEeaotta@{ shape: win-pane, label: "_Published Sep 26, 2025, 12:35 PM_
+Singapore inks pact with four european states to boost digital trade" }
+SrlfwrdehAtvrfotg@{ shape: win-pane, label: "_Published Sep 16, 2025, 05:30 PM_
+Support for local firms, workers to adopt new tech like ai part of govt refresh of economic strategy" }
+Komiiinynrstm@{ shape: win-pane, label: "_Published Sep 05, 2025, 09:30 PM_
+Keep social mobility alive, maintain unity in singapore: president tharman" }
+StptttannrytW@{ shape: win-pane, label: "_Published Dec 04, 2023, 08:10 PM_
+S’pore to triple ai talent pool to 15,000 as part of national strategy update: dpm wong" }
+semrlgattppdt@{ shape: win-pane, label: "_Published Sep 16, 2025, 08:00 PM_
+14 smaller wto members, including singapore, tie up to support open and fair trade" }
+AlreimaoglrtedSt@{ shape: win-pane, label: "_Published Sep 12, 2025, 08:30 PM_
+Asia’s leaders stress unity to mitigate growing global uncertainty at belt and road summit" }
+SpuefrenigloaaM@{ shape: win-pane, label: "_Published Aug 25, 2025, 05:35 PM_
+Singapore must prepare for more uncertainty, shift in global economic landscape: dpm gan" }
 
-ItlotltadSlcs:::txtsize --> TsrgTsadeyneodcg:::txtsize
-TsrgTsadeyneodcg:::txtsize --> TaiteoHrllfad:::txtsize
-TaiteoHrllfad:::txtsize --> GngcoetnooT:::txtsize
-TaiteoHrllfad:::txtsize --> Hrrreizsoop:::txtsize
-TsrgTsadeyneodcg:::txtsize --> GngcoetnooT:::txtsize
-GngcoetnooT:::txtsize --> Hrspnafogloett:::txtsize
-GngcoetnooT:::txtsize --> Ukssrooodswrdsi:::txtsize
-ItlotltadSlcs:::txtsize --> Hrdnlnyinnar:::txtsize
-Hrdnlnyinnar:::txtsize --> TaiteHruertdaeseo:::txtsize
-TaiteHruertdaeseo:::txtsize --> BUrmawhtseei:::txtsize
-TaiteHruertdaeseo:::txtsize --> WHsfftnssrme:::txtsize
-Hrdnlnyinnar:::txtsize --> BUrrtiuasaat:::txtsize
-BUrrtiuasaat:::txtsize --> TosoeftugrtM:::txtsize
-BUrrtiuasaat:::txtsize --> BbetnssugtsT:::txtsize
+RaaeeUnsirMt:::txtsize --> Eeieppoaprored:::txtsize
+Eeieppoaprored:::txtsize --> PTtiaodrieei:::txtsize
+PTtiaodrieei:::txtsize --> Tttndtrttcke:::txtsize
+PTtiaodrieei:::txtsize --> Raedikeesivoi:::txtsize
+Eeieppoaprored:::txtsize --> Unlrastwnsudeo:::txtsize
+Unlrastwnsudeo:::txtsize --> Zseafrnouu:::txtsize
+Unlrastwnsudeo:::txtsize --> Zspdarnloiats:::txtsize
+RaaeeUnsirMt:::txtsize --> SpnchEeaotta:::txtsize
+SpnchEeaotta:::txtsize --> SrlfwrdehAtvrfotg:::txtsize
+SrlfwrdehAtvrfotg:::txtsize --> Komiiinynrstm:::txtsize
+SrlfwrdehAtvrfotg:::txtsize --> StptttannrytW:::txtsize
+SpnchEeaotta:::txtsize --> semrlgattppdt:::txtsize
+semrlgattppdt:::txtsize --> AlreimaoglrtedSt:::txtsize
+semrlgattppdt:::txtsize --> SpuefrenigloaaM:::txtsize
 
-BidfrSFsurcsyi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:59 AM_
-Britain’s andrew’s former wife sarah ferguson, daughters and corgis hit by crisis" }
-Binrtberrtssm@{ shape: win-pane, label: "_Published Oct 31, 2025, 03:36 AM_
-Britain’s king charles strips brother andrew of royal titles, windsor home" }
-Vnumroeieryin@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:12 PM_
-Virginia giuffre memoir goes on sale, heaping fresh scrutiny on prince andrew" }
-Biinastiifeal@{ shape: win-pane, label: "_Published Feb 16, 2022, 12:22 AM_
-Britain's prince andrew agrees to settle virginia giuffre sex assault claim" }
-BiingunluYteaas@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:26 AM_
-Britain’s prince andrew gives up using title of duke of york, still denies accusations" }
-Biinastiifeal@{ shape: win-pane, label: "_Published Feb 16, 2022, 12:22 AM_
-Britain's prince andrew agrees to settle virginia giuffre sex assault claim" }
-Weatwldorhc@{ shape: win-pane, label: "_Published Oct 31, 2025, 11:05 AM_
-What we know about the downfall of andrew, born a british prince" }
-Vnumroeieryin@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:12 PM_
-Virginia giuffre memoir goes on sale, heaping fresh scrutiny on prince andrew" }
-Biinastiifeal@{ shape: win-pane, label: "_Published Feb 16, 2022, 12:22 AM_
-Britain's prince andrew agrees to settle virginia giuffre sex assault claim" }
-BiingunluYteaas@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:26 AM_
-Britain’s prince andrew gives up using title of duke of york, still denies accusations" }
+Bsiosibtod@{ shape: win-pane, label: "_Published Nov 02, 2025, 02:59 PM_
+British police probe mass train stabbing that wounded 10" }
+SiLndndpat@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:12 AM_
+Stabbing in london-bound train wounds 10, 2 suspects arrested" }
+Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
+British man of syrian descent named as manchester synagogue attacker" }
+Sontasaerdnhnit@{ shape: win-pane, label: "_Published Oct 03, 2025, 12:20 AM_
+Synagogue knife attack alarms britain’s jews already dealing with rising anti-semitism" }
+Sesaletiasot@{ shape: win-pane, label: "_Published Oct 03, 2025, 02:10 AM_
+Starmer says britain will defeat anti-semitism after synagogue attack" }
+Fndoakseehpr@{ shape: win-pane, label: "_Published Jul 03, 2025, 11:14 PM_
+Four injured in ‘violent’ attack by passenger on german high-speed train" }
+Thttsmainina@{ shape: win-pane, label: "_Published Jul 03, 2025, 06:35 AM_
+Teen who plotted attacks on women charged in france’s first ‘incel’ case" }
+Pesasgaanruea@{ shape: win-pane, label: "_Published Jun 23, 2025, 04:40 AM_
+Police arrest 12 as wave of syringe attacks mar france street music festival" }
+Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
+British man of syrian descent named as manchester synagogue attacker" }
+Sontasaerdnhnit@{ shape: win-pane, label: "_Published Oct 03, 2025, 12:20 AM_
+Synagogue knife attack alarms britain’s jews already dealing with rising anti-semitism" }
+Sesaletiasot@{ shape: win-pane, label: "_Published Oct 03, 2025, 02:10 AM_
+Starmer says britain will defeat anti-semitism after synagogue attack" }
+Asdninualissorg@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:29 PM_
+At least two dead in british synagogue attack, police kill suspect said to be carrying bomb" }
+Sesaletiasot@{ shape: win-pane, label: "_Published Oct 03, 2025, 02:10 AM_
+Starmer says britain will defeat anti-semitism after synagogue attack" }
+Sontasaerdnhnit@{ shape: win-pane, label: "_Published Oct 03, 2025, 12:20 AM_
+Synagogue knife attack alarms britain’s jews already dealing with rising anti-semitism" }
+Asdninualissorg@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:29 PM_
+At least two dead in british synagogue attack, police kill suspect said to be carrying bomb" }
 
-BidfrSFsurcsyi:::txtsize --> Binrtberrtssm:::txtsize
-Binrtberrtssm:::txtsize --> Vnumroeieryin:::txtsize
-Vnumroeieryin:::txtsize --> Biinastiifeal:::txtsize
-Vnumroeieryin:::txtsize --> BiingunluYteaas:::txtsize
-Binrtberrtssm:::txtsize --> Biinastiifeal:::txtsize
-BidfrSFsurcsyi:::txtsize --> Weatwldorhc:::txtsize
-Weatwldorhc:::txtsize --> Vnumroeieryin:::txtsize
-Vnumroeieryin:::txtsize --> Biinastiifeal:::txtsize
-Vnumroeieryin:::txtsize --> BiingunluYteaas:::txtsize
+Bsiosibtod:::txtsize --> SiLndndpat:::txtsize
+SiLndndpat:::txtsize --> Bsoisnaceaec:::txtsize
+Bsoisnaceaec:::txtsize --> Sontasaerdnhnit:::txtsize
+Bsoisnaceaec:::txtsize --> Sesaletiasot:::txtsize
+SiLndndpat:::txtsize --> Fndoakseehpr:::txtsize
+Fndoakseehpr:::txtsize --> Thttsmainina:::txtsize
+Fndoakseehpr:::txtsize --> Pesasgaanruea:::txtsize
+Bsiosibtod:::txtsize --> Bsoisnaceaec:::txtsize
+Bsoisnaceaec:::txtsize --> Sontasaerdnhnit:::txtsize
+Sontasaerdnhnit:::txtsize --> Sesaletiasot:::txtsize
+Sontasaerdnhnit:::txtsize --> Asdninualissorg:::txtsize
+Bsoisnaceaec:::txtsize --> Sesaletiasot:::txtsize
+Sesaletiasot:::txtsize --> Sontasaerdnhnit:::txtsize
+Sesaletiasot:::txtsize --> Asdninualissorg:::txtsize
 
-Drberolosac@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:57 AM_
-Denmark’s fabled restaurant noma sells products to amateur cooks" }
-WasewwfsatNl@{ shape: win-pane, label: "_Published Jan 11, 2023, 05:30 AM_
-What happens to the chef when a world-famous restaurant like noma closes?" }
-Nahlstnlgo@{ shape: win-pane, label: "_Published Jan 10, 2023, 01:46 PM_
-Noma, rated the world’s best restaurant, is closing its doors" }
+Htsisdttoio@{ shape: win-pane, label: "_Published Nov 02, 2025, 01:50 PM_
+Hegseth says us, china to set up direct military communication" }
+Htsasttpengsh@{ shape: win-pane, label: "_Published Nov 01, 2025, 07:11 PM_
+Hegseth says us ready to share tools to help allies counter ‘aggressive’ china" }
+CstatelnrSCS@{ shape: win-pane, label: "_Published Nov 01, 2025, 02:01 PM_
+China’s military says it tracked philippine patrol in south china sea" }
+Ulnritooalghaeos@{ shape: win-pane, label: "_Published Oct 31, 2025, 08:26 PM_
+Us, philippines form military task force for areas including south china sea, pentagon says" }
+CstnchpSCSbti@{ shape: win-pane, label: "_Published Jul 12, 2023, 05:05 PM_
+China says it does not accept philippines’ 2016 south china sea arbitration win" }
+Tstotpottea@{ shape: win-pane, label: "_Published Oct 31, 2025, 01:51 AM_
+Trump stirs tensions with surprise order to test nuclear weapons" }
+Taeomareinap@{ shape: win-pane, label: "_Published Oct 30, 2025, 09:50 AM_
+Trump asks pentagon to immediately resume testing us nuclear weapons" }
+RasepPdprPs@{ shape: win-pane, label: "_Published Oct 29, 2025, 08:36 PM_
+Russia tests nuclear-capable poseidon super torpedo, putin says" }
+Pgitsehneesattni@{ shape: win-pane, label: "_Published Oct 31, 2025, 11:46 AM_
+Pentagon chief pete hegseth meets china, india defence ministers at south-east asian summit" }
+TslfftiaeopU@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:05 PM_
+Trump’s doubling of tariffs hits india, damages relationship with us" }
+ItnRaitprhsrtcy@{ shape: win-pane, label: "_Published Aug 02, 2025, 07:04 PM_
+India to maintain russian oil imports despite trump threats, government sources say" }
+UMsocyniohe@{ shape: win-pane, label: "_Published Oct 31, 2025, 10:51 AM_
+Us and malaysia boost security partnership in south china sea" }
+Msiaaagicteh@{ shape: win-pane, label: "_Published Oct 26, 2025, 02:23 PM_
+Malaysia, us ink trade deal enhancing america’s access to rare earths" }
+MsfUdteorrseye@{ shape: win-pane, label: "_Published Oct 29, 2025, 07:33 PM_
+Malaysia defends us trade pact dubbed ‘act of surrender’ amid sovereignty concerns" }
 
-Drberolosac:::txtsize --> WasewwfsatNl:::txtsize
-WasewwfsatNl:::txtsize --> Nahlstnlgo:::txtsize
+Htsisdttoio:::txtsize --> Htsasttpengsh:::txtsize
+Htsasttpengsh:::txtsize --> CstatelnrSCS:::txtsize
+CstatelnrSCS:::txtsize --> Ulnritooalghaeos:::txtsize
+CstatelnrSCS:::txtsize --> CstnchpSCSbti:::txtsize
+Htsasttpengsh:::txtsize --> Tstotpottea:::txtsize
+Tstotpottea:::txtsize --> Taeomareinap:::txtsize
+Tstotpottea:::txtsize --> RasepPdprPs:::txtsize
+Htsisdttoio:::txtsize --> Pgitsehneesattni:::txtsize
+Pgitsehneesattni:::txtsize --> TslfftiaeopU:::txtsize
+TslfftiaeopU:::txtsize --> ItnRaitprhsrtcy:::txtsize
+Pgitsehneesattni:::txtsize --> UMsocyniohe:::txtsize
+UMsocyniohe:::txtsize --> Msiaaagicteh:::txtsize
+UMsocyniohe:::txtsize --> MsfUdteorrseye:::txtsize
 
 ```
-<i>Last updated: 2025-11-02 12:01:12.118870 (GMT+8)</i>
+<i>Last updated: 2025-11-02 16:00:38.803048 (GMT+8)</i>
 <!-- END -->
