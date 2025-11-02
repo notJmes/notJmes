@@ -16,117 +16,93 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-CtportbbUpsee@{ shape: win-pane, label: "_Published Nov 02, 2025, 07:25 AM_
-China to suspend some rare earth curbs, probes on us chip firms: white house" }
-Unloehmsewne@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:01 AM_
-Us, china seal deal on rare earths; trump says xi meeting was a 12 on scale of 1 to 10" }
-LnmegvpSaee@{ shape: win-pane, label: "_Published Oct 30, 2025, 12:05 AM_
-Looming trump-xi meeting revives hope of us-china trade truce" }
-Ttudlpaahoo@{ shape: win-pane, label: "_Published Oct 29, 2025, 11:39 AM_
-Trump talks up trade deal prospects as asia tour hits south korea" }
-TXmgelreent@{ shape: win-pane, label: "_Published Oct 28, 2025, 09:35 PM_
-Trump-xi summit might yield only short-lived detente: analysts" }
-Wrteamdar@{ shape: win-pane, label: "_Published Oct 21, 2025, 09:47 PM_
-Why rare earths are china’s trump card in trade war" }
-GBnsnrtrgjomee@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:05 AM_
-Greer, bessent blast china’s rare earths curbs, urge beijing not to implement them" }
-Xrtopglmfps@{ shape: win-pane, label: "_Published Oct 15, 2025, 11:47 AM_
-Xi’s rare earth ‘bazooka’ sparks global alarm, race for supplies" }
-Wimgoretrnt@{ shape: win-pane, label: "_Published Oct 31, 2025, 01:56 AM_
-What did trump, xi agree to on tariffs, export controls and fentanyl?" }
+ItlotltadSlcs@{ shape: win-pane, label: "_Published Nov 02, 2025, 11:43 AM_
+‘intentional’ explosion took place at harvard medical school, officials say" }
+TsrgTsadeyneodcg@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:20 AM_
+‘their sins are forgiven’: trump says harvard university to run ‘trade schools’ under upcoming deal" }
+TaiteoHrllfad@{ shape: win-pane, label: "_Published Sep 30, 2025, 07:47 AM_
+Trump administration seeks to make harvard ineligible for federal funding" }
+GngcoetnooT@{ shape: win-pane, label: "_Published Sep 29, 2025, 09:25 AM_
+Give in or fight back? us colleges are torn on how to respond to trump" }
+Hrrreizsoop@{ shape: win-pane, label: "_Published Sep 20, 2025, 09:20 AM_
+Harvard’s former president criticizes its approach to trump" }
+GngcoetnooT@{ shape: win-pane, label: "_Published Sep 29, 2025, 09:25 AM_
+Give in or fight back? us colleges are torn on how to respond to trump" }
+Hrspnafogloett@{ shape: win-pane, label: "_Published May 23, 2025, 09:34 PM_
+Harvard sues trump administration for blocking enrolment of foreign students" }
+Ukssrooodswrdsi@{ shape: win-pane, label: "_Published Sep 13, 2025, 10:30 AM_
+Uc berkeley shares information on dozens of students, staff with trump administration" }
+Hrdnlnyinnar@{ shape: win-pane, label: "_Published Oct 17, 2025, 03:05 AM_
+Harvard’s endowment swells to nearly $74 billion; donations hit a record" }
+TaiteHruertdaeseo@{ shape: win-pane, label: "_Published Aug 01, 2025, 04:14 AM_
+Trump administration refers harvard to justice department to address anti-semitism allegations" }
+BUrmawhtseei@{ shape: win-pane, label: "_Published Jul 31, 2025, 08:05 AM_
+Brown university makes a deal with the white house to restore funding" }
+WHsfftnssrme@{ shape: win-pane, label: "_Published Jul 26, 2025, 07:39 AM_
+White house seeks fines from other universities after columbia deal" }
+BUrrtiuasaat@{ shape: win-pane, label: "_Published Oct 16, 2025, 07:00 AM_
+Brown university rejects a white house deal for special treatment" }
+TosoeftugrtM@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:00 AM_
+Trump offers all colleges preferential funding plan rejected by mit" }
+BbetnssugtsT@{ shape: win-pane, label: "_Published Aug 05, 2025, 08:59 AM_
+Badly bruised elite us universities are rushing to cut deals with trump" }
 
-CtportbbUpsee:::txtsize --> Unloehmsewne:::txtsize
-Unloehmsewne:::txtsize --> LnmegvpSaee:::txtsize
-LnmegvpSaee:::txtsize --> Ttudlpaahoo:::txtsize
-LnmegvpSaee:::txtsize --> TXmgelreent:::txtsize
-Unloehmsewne:::txtsize --> Wrteamdar:::txtsize
-Wrteamdar:::txtsize --> GBnsnrtrgjomee:::txtsize
-Wrteamdar:::txtsize --> Xrtopglmfps:::txtsize
-CtportbbUpsee:::txtsize --> Wimgoretrnt:::txtsize
+ItlotltadSlcs:::txtsize --> TsrgTsadeyneodcg:::txtsize
+TsrgTsadeyneodcg:::txtsize --> TaiteoHrllfad:::txtsize
+TaiteoHrllfad:::txtsize --> GngcoetnooT:::txtsize
+TaiteoHrllfad:::txtsize --> Hrrreizsoop:::txtsize
+TsrgTsadeyneodcg:::txtsize --> GngcoetnooT:::txtsize
+GngcoetnooT:::txtsize --> Hrspnafogloett:::txtsize
+GngcoetnooT:::txtsize --> Ukssrooodswrdsi:::txtsize
+ItlotltadSlcs:::txtsize --> Hrdnlnyinnar:::txtsize
+Hrdnlnyinnar:::txtsize --> TaiteHruertdaeseo:::txtsize
+TaiteHruertdaeseo:::txtsize --> BUrmawhtseei:::txtsize
+TaiteHruertdaeseo:::txtsize --> WHsfftnssrme:::txtsize
+Hrdnlnyinnar:::txtsize --> BUrrtiuasaat:::txtsize
+BUrrtiuasaat:::txtsize --> TosoeftugrtM:::txtsize
+BUrrtiuasaat:::txtsize --> BbetnssugtsT:::txtsize
 
-WYresemhiN@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:29 AM_
-While you were sleeping: 5 stories you might have missed, nov 2, 2025" }
-TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
-Trump threatens military action in nigeria over ‘killing of christians’" }
-UDehewmeinegas@{ shape: win-pane, label: "_Published Nov 01, 2025, 09:00 AM_
-Us v-p j.d. vance says he hopes his wife embraces christianity, setting off backlash" }
-UanyrAcm@{ shape: win-pane, label: "_Published Mar 28, 2025, 01:30 PM_
-Usha vance in the eye of trump’s arctic storm" }
-TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
-Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
-Uirwetpebt@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:12 AM_
-Uk police arrest two after ‘multiple people’ stabbed on train" }
-Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
-British man of syrian descent named as manchester synagogue attacker" }
-Sontasaerdnhnit@{ shape: win-pane, label: "_Published Oct 03, 2025, 12:20 AM_
-Synagogue knife attack alarms britain’s jews already dealing with rising anti-semitism" }
-Sesaletiasot@{ shape: win-pane, label: "_Published Oct 03, 2025, 02:10 AM_
-Starmer says britain will defeat anti-semitism after synagogue attack" }
-Fndoakseehpr@{ shape: win-pane, label: "_Published Jul 03, 2025, 11:14 PM_
-Four injured in ‘violent’ attack by passenger on german high-speed train" }
-Thttsmainina@{ shape: win-pane, label: "_Published Jul 03, 2025, 06:35 AM_
-Teen who plotted attacks on women charged in france’s first ‘incel’ case" }
-Pesasgaanruea@{ shape: win-pane, label: "_Published Jun 23, 2025, 04:40 AM_
-Police arrest 12 as wave of syringe attacks mar france street music festival" }
+BidfrSFsurcsyi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:59 AM_
+Britain’s andrew’s former wife sarah ferguson, daughters and corgis hit by crisis" }
+Binrtberrtssm@{ shape: win-pane, label: "_Published Oct 31, 2025, 03:36 AM_
+Britain’s king charles strips brother andrew of royal titles, windsor home" }
+Vnumroeieryin@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:12 PM_
+Virginia giuffre memoir goes on sale, heaping fresh scrutiny on prince andrew" }
+Biinastiifeal@{ shape: win-pane, label: "_Published Feb 16, 2022, 12:22 AM_
+Britain's prince andrew agrees to settle virginia giuffre sex assault claim" }
+BiingunluYteaas@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:26 AM_
+Britain’s prince andrew gives up using title of duke of york, still denies accusations" }
+Biinastiifeal@{ shape: win-pane, label: "_Published Feb 16, 2022, 12:22 AM_
+Britain's prince andrew agrees to settle virginia giuffre sex assault claim" }
+Weatwldorhc@{ shape: win-pane, label: "_Published Oct 31, 2025, 11:05 AM_
+What we know about the downfall of andrew, born a british prince" }
+Vnumroeieryin@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:12 PM_
+Virginia giuffre memoir goes on sale, heaping fresh scrutiny on prince andrew" }
+Biinastiifeal@{ shape: win-pane, label: "_Published Feb 16, 2022, 12:22 AM_
+Britain's prince andrew agrees to settle virginia giuffre sex assault claim" }
+BiingunluYteaas@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:26 AM_
+Britain’s prince andrew gives up using title of duke of york, still denies accusations" }
 
-WYresemhiN:::txtsize --> TttiriNiriCt:::txtsize
-TttiriNiriCt:::txtsize --> UDehewmeinegas:::txtsize
-UDehewmeinegas:::txtsize --> UanyrAcm:::txtsize
-UDehewmeinegas:::txtsize --> TahesegnipdoUstt:::txtsize
-WYresemhiN:::txtsize --> Uirwetpebt:::txtsize
-Uirwetpebt:::txtsize --> Bsoisnaceaec:::txtsize
-Bsoisnaceaec:::txtsize --> Sontasaerdnhnit:::txtsize
-Bsoisnaceaec:::txtsize --> Sesaletiasot:::txtsize
-Uirwetpebt:::txtsize --> Fndoakseehpr:::txtsize
-Fndoakseehpr:::txtsize --> Thttsmainina:::txtsize
-Fndoakseehpr:::txtsize --> Pesasgaanruea:::txtsize
+BidfrSFsurcsyi:::txtsize --> Binrtberrtssm:::txtsize
+Binrtberrtssm:::txtsize --> Vnumroeieryin:::txtsize
+Vnumroeieryin:::txtsize --> Biinastiifeal:::txtsize
+Vnumroeieryin:::txtsize --> BiingunluYteaas:::txtsize
+Binrtberrtssm:::txtsize --> Biinastiifeal:::txtsize
+BidfrSFsurcsyi:::txtsize --> Weatwldorhc:::txtsize
+Weatwldorhc:::txtsize --> Vnumroeieryin:::txtsize
+Vnumroeieryin:::txtsize --> Biinastiifeal:::txtsize
+Vnumroeieryin:::txtsize --> BiingunluYteaas:::txtsize
 
-Uirwetpebt@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:12 AM_
-Uk police arrest two after ‘multiple people’ stabbed on train" }
-Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
-British man of syrian descent named as manchester synagogue attacker" }
-Sontasaerdnhnit@{ shape: win-pane, label: "_Published Oct 03, 2025, 12:20 AM_
-Synagogue knife attack alarms britain’s jews already dealing with rising anti-semitism" }
-Sesaletiasot@{ shape: win-pane, label: "_Published Oct 03, 2025, 02:10 AM_
-Starmer says britain will defeat anti-semitism after synagogue attack" }
-Asdninualissorg@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:29 PM_
-At least two dead in british synagogue attack, police kill suspect said to be carrying bomb" }
-Sesaletiasot@{ shape: win-pane, label: "_Published Oct 03, 2025, 02:10 AM_
-Starmer says britain will defeat anti-semitism after synagogue attack" }
-Sontasaerdnhnit@{ shape: win-pane, label: "_Published Oct 03, 2025, 12:20 AM_
-Synagogue knife attack alarms britain’s jews already dealing with rising anti-semitism" }
-Asdninualissorg@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:29 PM_
-At least two dead in british synagogue attack, police kill suspect said to be carrying bomb" }
-Fndoakseehpr@{ shape: win-pane, label: "_Published Jul 03, 2025, 11:14 PM_
-Four injured in ‘violent’ attack by passenger on german high-speed train" }
-Thttsmainina@{ shape: win-pane, label: "_Published Jul 03, 2025, 06:35 AM_
-Teen who plotted attacks on women charged in france’s first ‘incel’ case" }
-Nioeeetneese@{ shape: win-pane, label: "_Published Mar 29, 2025, 12:00 PM_
-Netflix’s adolescence: deciphering the language of the manosphere" }
-Iuiledmoeoenoy@{ shape: win-pane, label: "_Published Feb 16, 2025, 05:00 AM_
-Involuntarily celibate: inside the minds of ‘incels’ who blame women and society" }
-Pesasgaanruea@{ shape: win-pane, label: "_Published Jun 23, 2025, 04:40 AM_
-Police arrest 12 as wave of syringe attacks mar france street music festival" }
-Fesstassfa@{ shape: win-pane, label: "_Published Feb 23, 2025, 01:43 AM_
-France makes arrests after deadly ‘islamist’ knife attack" }
-Feevatskttstog@{ shape: win-pane, label: "_Published May 22, 2025, 07:35 PM_
-France raises surveillance at jewish-linked sites after washington shooting" }
+Drberolosac@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:57 AM_
+Denmark’s fabled restaurant noma sells products to amateur cooks" }
+WasewwfsatNl@{ shape: win-pane, label: "_Published Jan 11, 2023, 05:30 AM_
+What happens to the chef when a world-famous restaurant like noma closes?" }
+Nahlstnlgo@{ shape: win-pane, label: "_Published Jan 10, 2023, 01:46 PM_
+Noma, rated the world’s best restaurant, is closing its doors" }
 
-Uirwetpebt:::txtsize --> Bsoisnaceaec:::txtsize
-Bsoisnaceaec:::txtsize --> Sontasaerdnhnit:::txtsize
-Sontasaerdnhnit:::txtsize --> Sesaletiasot:::txtsize
-Sontasaerdnhnit:::txtsize --> Asdninualissorg:::txtsize
-Bsoisnaceaec:::txtsize --> Sesaletiasot:::txtsize
-Sesaletiasot:::txtsize --> Sontasaerdnhnit:::txtsize
-Sesaletiasot:::txtsize --> Asdninualissorg:::txtsize
-Uirwetpebt:::txtsize --> Fndoakseehpr:::txtsize
-Fndoakseehpr:::txtsize --> Thttsmainina:::txtsize
-Thttsmainina:::txtsize --> Nioeeetneese:::txtsize
-Thttsmainina:::txtsize --> Iuiledmoeoenoy:::txtsize
-Fndoakseehpr:::txtsize --> Pesasgaanruea:::txtsize
-Pesasgaanruea:::txtsize --> Fesstassfa:::txtsize
-Pesasgaanruea:::txtsize --> Feevatskttstog:::txtsize
+Drberolosac:::txtsize --> WasewwfsatNl:::txtsize
+WasewwfsatNl:::txtsize --> Nahlstnlgo:::txtsize
 
 ```
-<i>Last updated: 2025-11-02 08:00:50.392303 (GMT+8)</i>
+<i>Last updated: 2025-11-02 12:01:12.118870 (GMT+8)</i>
 <!-- END -->
