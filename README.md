@@ -16,141 +16,108 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-RaaeeUnsirMt@{ shape: win-pane, label: "_Published Nov 02, 2025, 03:00 PM_
-Russia threat extends beyond ukraine, says finnish foreign minister" }
-Eeieppoaprored@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
-Europe, ukraine prepare 12-point plan to end war, propose trump to chair peace board" }
-PTtiaodrieei@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
-Putin-trump talks in budapest on hold after russia rejects ceasefire" }
-Tttndtrttcke@{ shape: win-pane, label: "_Published Oct 16, 2025, 11:15 PM_
-Trump to meet putin in budapest after ‘great’ call to discuss ukraine" }
-Raedikeesivoi@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:52 AM_
-Russia reiterated previous ukraine peace terms to us in private communique" }
-Unlrastwnsudeo@{ shape: win-pane, label: "_Published Oct 17, 2025, 10:35 PM_
-Ukraine could use reparations loan to buy weapons outside europe, document shows" }
-Zseafrnouu@{ shape: win-pane, label: "_Published Oct 17, 2025, 10:31 PM_
-Zelensky seeks weapons from trump in shadow of putin summit" }
-Zspdarnloiats@{ shape: win-pane, label: "_Published Oct 17, 2025, 04:35 AM_
-Zelensky hopes middle east agreement can lead to ukraine peace with russia" }
-SpnchEeaotta@{ shape: win-pane, label: "_Published Sep 26, 2025, 12:35 PM_
-Singapore inks pact with four european states to boost digital trade" }
-SrlfwrdehAtvrfotg@{ shape: win-pane, label: "_Published Sep 16, 2025, 05:30 PM_
-Support for local firms, workers to adopt new tech like ai part of govt refresh of economic strategy" }
-Komiiinynrstm@{ shape: win-pane, label: "_Published Sep 05, 2025, 09:30 PM_
-Keep social mobility alive, maintain unity in singapore: president tharman" }
-StptttannrytW@{ shape: win-pane, label: "_Published Dec 04, 2023, 08:10 PM_
-S’pore to triple ai talent pool to 15,000 as part of national strategy update: dpm wong" }
-semrlgattppdt@{ shape: win-pane, label: "_Published Sep 16, 2025, 08:00 PM_
-14 smaller wto members, including singapore, tie up to support open and fair trade" }
-AlreimaoglrtedSt@{ shape: win-pane, label: "_Published Sep 12, 2025, 08:30 PM_
-Asia’s leaders stress unity to mitigate growing global uncertainty at belt and road summit" }
-SpuefrenigloaaM@{ shape: win-pane, label: "_Published Aug 25, 2025, 05:35 PM_
-Singapore must prepare for more uncertainty, shift in global economic landscape: dpm gan" }
+Ipdahibicfi@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:36 PM_
+Iran’s president says tehran will rebuild its nuclear facilities" }
+Tsifartdsodsirrr@{ shape: win-pane, label: "_Published Nov 01, 2025, 02:01 AM_
+Top us sanctions official to travel to middle east, europe to discuss ‘maximum pressure’ on iran" }
+TsoettclI@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:05 PM_
+Trump says would be ‘great to get a peace deal’ with iran" }
+TsogrrsiPtnesiais@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:25 PM_
+Trump says ‘long nightmare’ over for israelis and palestinians, receives standing ovation in knesset" }
+RsinefawsUb@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:10 AM_
+Repression in iran worsened after 12-day war with israel: un probe" }
+Iuorrowfa@{ shape: win-pane, label: "_Published Jun 26, 2025, 12:45 AM_
+Iran turns to internal crackdown in wake of 12-day war" }
+MAshatnuss@{ shape: win-pane, label: "_Published Mar 18, 2024, 07:37 PM_
+Mahsa amini’s death in iran custody ‘unlawful’, says un mission" }
 
-RaaeeUnsirMt:::txtsize --> Eeieppoaprored:::txtsize
-Eeieppoaprored:::txtsize --> PTtiaodrieei:::txtsize
-PTtiaodrieei:::txtsize --> Tttndtrttcke:::txtsize
-PTtiaodrieei:::txtsize --> Raedikeesivoi:::txtsize
-Eeieppoaprored:::txtsize --> Unlrastwnsudeo:::txtsize
-Unlrastwnsudeo:::txtsize --> Zseafrnouu:::txtsize
-Unlrastwnsudeo:::txtsize --> Zspdarnloiats:::txtsize
-RaaeeUnsirMt:::txtsize --> SpnchEeaotta:::txtsize
-SpnchEeaotta:::txtsize --> SrlfwrdehAtvrfotg:::txtsize
-SrlfwrdehAtvrfotg:::txtsize --> Komiiinynrstm:::txtsize
-SrlfwrdehAtvrfotg:::txtsize --> StptttannrytW:::txtsize
-SpnchEeaotta:::txtsize --> semrlgattppdt:::txtsize
-semrlgattppdt:::txtsize --> AlreimaoglrtedSt:::txtsize
-semrlgattppdt:::txtsize --> SpuefrenigloaaM:::txtsize
+Ipdahibicfi:::txtsize --> Tsifartdsodsirrr:::txtsize
+Tsifartdsodsirrr:::txtsize --> TsoettclI:::txtsize
+TsoettclI:::txtsize --> TsogrrsiPtnesiais:::txtsize
+Tsifartdsodsirrr:::txtsize --> RsinefawsUb:::txtsize
+RsinefawsUb:::txtsize --> Iuorrowfa:::txtsize
+RsinefawsUb:::txtsize --> MAshatnuss:::txtsize
 
-Bsiosibtod@{ shape: win-pane, label: "_Published Nov 02, 2025, 02:59 PM_
-British police probe mass train stabbing that wounded 10" }
-SiLndndpat@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:12 AM_
-Stabbing in london-bound train wounds 10, 2 suspects arrested" }
-Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
-British man of syrian descent named as manchester synagogue attacker" }
-Sontasaerdnhnit@{ shape: win-pane, label: "_Published Oct 03, 2025, 12:20 AM_
-Synagogue knife attack alarms britain’s jews already dealing with rising anti-semitism" }
-Sesaletiasot@{ shape: win-pane, label: "_Published Oct 03, 2025, 02:10 AM_
-Starmer says britain will defeat anti-semitism after synagogue attack" }
-Fndoakseehpr@{ shape: win-pane, label: "_Published Jul 03, 2025, 11:14 PM_
-Four injured in ‘violent’ attack by passenger on german high-speed train" }
-Thttsmainina@{ shape: win-pane, label: "_Published Jul 03, 2025, 06:35 AM_
-Teen who plotted attacks on women charged in france’s first ‘incel’ case" }
-Pesasgaanruea@{ shape: win-pane, label: "_Published Jun 23, 2025, 04:40 AM_
-Police arrest 12 as wave of syringe attacks mar france street music festival" }
-Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
-British man of syrian descent named as manchester synagogue attacker" }
-Sontasaerdnhnit@{ shape: win-pane, label: "_Published Oct 03, 2025, 12:20 AM_
-Synagogue knife attack alarms britain’s jews already dealing with rising anti-semitism" }
-Sesaletiasot@{ shape: win-pane, label: "_Published Oct 03, 2025, 02:10 AM_
-Starmer says britain will defeat anti-semitism after synagogue attack" }
-Asdninualissorg@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:29 PM_
-At least two dead in british synagogue attack, police kill suspect said to be carrying bomb" }
-Sesaletiasot@{ shape: win-pane, label: "_Published Oct 03, 2025, 02:10 AM_
-Starmer says britain will defeat anti-semitism after synagogue attack" }
-Sontasaerdnhnit@{ shape: win-pane, label: "_Published Oct 03, 2025, 12:20 AM_
-Synagogue knife attack alarms britain’s jews already dealing with rising anti-semitism" }
-Asdninualissorg@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:29 PM_
-At least two dead in british synagogue attack, police kill suspect said to be carrying bomb" }
+Fecelniple@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:36 PM_
+Five german climbers killed in italian alps avalanche" }
+Trceeptpioama@{ shape: win-pane, label: "_Published Oct 27, 2025, 11:25 AM_
+Two foreign climbers die in nepal after expeditions to ama dablam mountain" }
+EaoaEskswpt@{ shape: win-pane, label: "_Published Oct 07, 2025, 11:47 AM_
+Evacuation of stranded everest trekkers set to wrap up on oct 7" }
+Okadreevwin@{ shape: win-pane, label: "_Published Oct 06, 2025, 05:54 PM_
+One hiker dead, hundreds rescued after heavy snowfall in china" }
+Ardekvtoobvy@{ shape: win-pane, label: "_Published Oct 08, 2025, 09:52 AM_
+All stranded everest hikers evacuated from remote tibetan valley" }
+AtpTaeuebz@{ shape: win-pane, label: "_Published Oct 05, 2025, 08:02 PM_
+Almost 1,000 trapped on tibetan side of mount everest by blizzard" }
+EaoaEskswpt@{ shape: win-pane, label: "_Published Oct 07, 2025, 11:47 AM_
+Evacuation of stranded everest trekkers set to wrap up on oct 7" }
+LeofssEseos@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:45 PM_
+Last member of the first successful everest expedition dies" }
+Nienkrdsm@{ shape: win-pane, label: "_Published May 27, 2025, 12:19 PM_
+Nepali ‘everest man’ breaks own record with 31st summit" }
+Innlrotae@{ shape: win-pane, label: "_Published May 19, 2025, 03:39 PM_
+Indian, romanian climbers die on lhotse peak in nepal" }
+Esiyteplrrbears@{ shape: win-pane, label: "_Published May 23, 2025, 11:27 AM_
+Everest in five days: british team’s speed climb triggers probe by nepali authorities" }
 
-Bsiosibtod:::txtsize --> SiLndndpat:::txtsize
-SiLndndpat:::txtsize --> Bsoisnaceaec:::txtsize
-Bsoisnaceaec:::txtsize --> Sontasaerdnhnit:::txtsize
-Bsoisnaceaec:::txtsize --> Sesaletiasot:::txtsize
-SiLndndpat:::txtsize --> Fndoakseehpr:::txtsize
-Fndoakseehpr:::txtsize --> Thttsmainina:::txtsize
-Fndoakseehpr:::txtsize --> Pesasgaanruea:::txtsize
-Bsiosibtod:::txtsize --> Bsoisnaceaec:::txtsize
-Bsoisnaceaec:::txtsize --> Sontasaerdnhnit:::txtsize
-Sontasaerdnhnit:::txtsize --> Sesaletiasot:::txtsize
-Sontasaerdnhnit:::txtsize --> Asdninualissorg:::txtsize
-Bsoisnaceaec:::txtsize --> Sesaletiasot:::txtsize
-Sesaletiasot:::txtsize --> Sontasaerdnhnit:::txtsize
-Sesaletiasot:::txtsize --> Asdninualissorg:::txtsize
+Fecelniple:::txtsize --> Trceeptpioama:::txtsize
+Trceeptpioama:::txtsize --> EaoaEskswpt:::txtsize
+EaoaEskswpt:::txtsize --> Okadreevwin:::txtsize
+Trceeptpioama:::txtsize --> Ardekvtoobvy:::txtsize
+Ardekvtoobvy:::txtsize --> AtpTaeuebz:::txtsize
+Ardekvtoobvy:::txtsize --> EaoaEskswpt:::txtsize
+Fecelniple:::txtsize --> LeofssEseos:::txtsize
+LeofssEseos:::txtsize --> Nienkrdsm:::txtsize
+Nienkrdsm:::txtsize --> Innlrotae:::txtsize
+Nienkrdsm:::txtsize --> Esiyteplrrbears:::txtsize
 
-Htsisdttoio@{ shape: win-pane, label: "_Published Nov 02, 2025, 01:50 PM_
-Hegseth says us, china to set up direct military communication" }
-Htsasttpengsh@{ shape: win-pane, label: "_Published Nov 01, 2025, 07:11 PM_
-Hegseth says us ready to share tools to help allies counter ‘aggressive’ china" }
-CstatelnrSCS@{ shape: win-pane, label: "_Published Nov 01, 2025, 02:01 PM_
-China’s military says it tracked philippine patrol in south china sea" }
-Ulnritooalghaeos@{ shape: win-pane, label: "_Published Oct 31, 2025, 08:26 PM_
-Us, philippines form military task force for areas including south china sea, pentagon says" }
-CstnchpSCSbti@{ shape: win-pane, label: "_Published Jul 12, 2023, 05:05 PM_
-China says it does not accept philippines’ 2016 south china sea arbitration win" }
-Tstotpottea@{ shape: win-pane, label: "_Published Oct 31, 2025, 01:51 AM_
-Trump stirs tensions with surprise order to test nuclear weapons" }
-Taeomareinap@{ shape: win-pane, label: "_Published Oct 30, 2025, 09:50 AM_
-Trump asks pentagon to immediately resume testing us nuclear weapons" }
-RasepPdprPs@{ shape: win-pane, label: "_Published Oct 29, 2025, 08:36 PM_
-Russia tests nuclear-capable poseidon super torpedo, putin says" }
-Pgitsehneesattni@{ shape: win-pane, label: "_Published Oct 31, 2025, 11:46 AM_
-Pentagon chief pete hegseth meets china, india defence ministers at south-east asian summit" }
-TslfftiaeopU@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:05 PM_
-Trump’s doubling of tariffs hits india, damages relationship with us" }
-ItnRaitprhsrtcy@{ shape: win-pane, label: "_Published Aug 02, 2025, 07:04 PM_
-India to maintain russian oil imports despite trump threats, government sources say" }
-UMsocyniohe@{ shape: win-pane, label: "_Published Oct 31, 2025, 10:51 AM_
-Us and malaysia boost security partnership in south china sea" }
-Msiaaagicteh@{ shape: win-pane, label: "_Published Oct 26, 2025, 02:23 PM_
-Malaysia, us ink trade deal enhancing america’s access to rare earths" }
-MsfUdteorrseye@{ shape: win-pane, label: "_Published Oct 29, 2025, 07:33 PM_
-Malaysia defends us trade pact dubbed ‘act of surrender’ amid sovereignty concerns" }
+Ileiesnomulomorbh@{ shape: win-pane, label: "_Published Nov 02, 2025, 04:31 PM_
+Israeli defence minister says lebanese government must fulfil commitment to disarm hezbollah" }
+TafnemsHleikl@{ shape: win-pane, label: "_Published Nov 27, 2024, 02:56 AM_
+Thousands of lebanese head home as israel-hezbollah ceasefire takes hold" }
+IlocfheUktid@{ shape: win-pane, label: "_Published Nov 27, 2024, 05:28 AM_
+Israel-hezbollah ceasefire: what does the us-brokered truce include?" }
+TafnemsHleikl@{ shape: win-pane, label: "_Published Nov 27, 2024, 02:56 AM_
+Thousands of lebanese head home as israel-hezbollah ceasefire takes hold" }
+TafnemsHleikl@{ shape: win-pane, label: "_Published Nov 27, 2024, 02:56 AM_
+Thousands of lebanese head home as israel-hezbollah ceasefire takes hold" }
+PeLoseeaeao@{ shape: win-pane, label: "_Published Nov 26, 2024, 07:13 PM_
+Prospect of lebanon ceasefire leaves gazans feeling abandoned" }
+AaOtsiPtnlnags@{ shape: win-pane, label: "_Published Oct 07, 2024, 12:12 PM_
+A year after oct 7 attack: israelis and palestinians reflect on loss as war grinds on" }
+Wrssdszseeisepts@{ shape: win-pane, label: "_Published Nov 25, 2024, 09:33 PM_
+Winter rainstorms flood tents of gaza’s displaced palestinians as israel steps up strikes" }
+Hlutaarhbmrig@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:20 PM_
+Hezbollah supporters gather at nasrallah's tomb to commemorate killing" }
+Hlhiiator@{ shape: win-pane, label: "_Published Sep 28, 2024, 04:42 PM_
+Hezbollah chief killed in israeli strike on beirut" }
+Trcrseeebi@{ shape: win-pane, label: "_Published Sep 28, 2024, 07:33 AM_
+Terror, panic as israeli strikes wipe out beirut buildings" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Hlalhrtneces@{ shape: win-pane, label: "_Published Sep 18, 2024, 10:32 PM_
+Hezbollah says it launched first attack on israel since pager blasts" }
+Hlopheeeslerussa@{ shape: win-pane, label: "_Published Sep 17, 2024, 10:36 PM_
+Hezbollah vows to punish israel after pager blasts kill nine, injure thousands across lebanon" }
+TowoatiyealwaHr@{ shape: win-pane, label: "_Published Sep 18, 2024, 09:05 PM_
+‘the product wasn’t ours’: taiwan tech firm says pagers that exploded were made in hungary" }
 
-Htsisdttoio:::txtsize --> Htsasttpengsh:::txtsize
-Htsasttpengsh:::txtsize --> CstatelnrSCS:::txtsize
-CstatelnrSCS:::txtsize --> Ulnritooalghaeos:::txtsize
-CstatelnrSCS:::txtsize --> CstnchpSCSbti:::txtsize
-Htsasttpengsh:::txtsize --> Tstotpottea:::txtsize
-Tstotpottea:::txtsize --> Taeomareinap:::txtsize
-Tstotpottea:::txtsize --> RasepPdprPs:::txtsize
-Htsisdttoio:::txtsize --> Pgitsehneesattni:::txtsize
-Pgitsehneesattni:::txtsize --> TslfftiaeopU:::txtsize
-TslfftiaeopU:::txtsize --> ItnRaitprhsrtcy:::txtsize
-Pgitsehneesattni:::txtsize --> UMsocyniohe:::txtsize
-UMsocyniohe:::txtsize --> Msiaaagicteh:::txtsize
-UMsocyniohe:::txtsize --> MsfUdteorrseye:::txtsize
+Ileiesnomulomorbh:::txtsize --> TafnemsHleikl:::txtsize
+TafnemsHleikl:::txtsize --> IlocfheUktid:::txtsize
+IlocfheUktid:::txtsize --> TafnemsHleikl:::txtsize
+IlocfheUktid:::txtsize --> TafnemsHleikl:::txtsize
+TafnemsHleikl:::txtsize --> PeLoseeaeao:::txtsize
+PeLoseeaeao:::txtsize --> AaOtsiPtnlnags:::txtsize
+PeLoseeaeao:::txtsize --> Wrssdszseeisepts:::txtsize
+Ileiesnomulomorbh:::txtsize --> Hlutaarhbmrig:::txtsize
+Hlutaarhbmrig:::txtsize --> Hlhiiator:::txtsize
+Hlhiiator:::txtsize --> Trcrseeebi:::txtsize
+Hlhiiator:::txtsize --> NyeeawHakl:::txtsize
+Hlutaarhbmrig:::txtsize --> Hlalhrtneces:::txtsize
+Hlalhrtneces:::txtsize --> Hlopheeeslerussa:::txtsize
+Hlalhrtneces:::txtsize --> TowoatiyealwaHr:::txtsize
 
 ```
-<i>Last updated: 2025-11-02 16:00:38.803048 (GMT+8)</i>
+<i>Last updated: 2025-11-02 20:07:51.101037 (GMT+8)</i>
 <!-- END -->
