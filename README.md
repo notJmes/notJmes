@@ -16,8 +16,79 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tsoneauuamd@{ shape: win-pane, label: "_Published Nov 03, 2025, 11:46 AM_
-Trump says not eying venezuela war, but maduro’s days numbered" }
+Bsibscktneilies@{ shape: win-pane, label: "_Published Nov 03, 2025, 03:37 PM_
+British train stabbing suspect not known to counter-terrorism police, minister says" }
+SiLndndpat@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:12 AM_
+Stabbing in london-bound train wounds 10, 2 suspects arrested" }
+Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
+British man of syrian descent named as manchester synagogue attacker" }
+Sontasaerdnhnit@{ shape: win-pane, label: "_Published Oct 03, 2025, 12:20 AM_
+Synagogue knife attack alarms britain’s jews already dealing with rising anti-semitism" }
+Sesaletiasot@{ shape: win-pane, label: "_Published Oct 03, 2025, 02:10 AM_
+Starmer says britain will defeat anti-semitism after synagogue attack" }
+Fndoakseehpr@{ shape: win-pane, label: "_Published Jul 03, 2025, 11:14 PM_
+Four injured in ‘violent’ attack by passenger on german high-speed train" }
+Thttsmainina@{ shape: win-pane, label: "_Published Jul 03, 2025, 06:35 AM_
+Teen who plotted attacks on women charged in france’s first ‘incel’ case" }
+Pesasgaanruea@{ shape: win-pane, label: "_Published Jun 23, 2025, 04:40 AM_
+Police arrest 12 as wave of syringe attacks mar france street music festival" }
+Uibsitnanrsi@{ shape: win-pane, label: "_Published Nov 03, 2025, 03:29 AM_
+Uk train stabbings carried out by lone attacker, not terrorism: police" }
+BsiynectrnnBsat@{ shape: win-pane, label: "_Published Nov 02, 2025, 02:59 PM_
+British police say train knife attack not terrorist incident, two british men arrested" }
+Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
+British man of syrian descent named as manchester synagogue attacker" }
+Bieaykccs@{ shape: win-pane, label: "_Published Jul 29, 2025, 02:18 PM_
+Britain tries to tackle youth knife crime crisis" }
+BsiynectrnnBsat@{ shape: win-pane, label: "_Published Nov 02, 2025, 02:59 PM_
+British police say train knife attack not terrorist incident, two british men arrested" }
+Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
+British man of syrian descent named as manchester synagogue attacker" }
+Bieaykccs@{ shape: win-pane, label: "_Published Jul 29, 2025, 02:18 PM_
+Britain tries to tackle youth knife crime crisis" }
+
+Bsibscktneilies:::txtsize --> SiLndndpat:::txtsize
+SiLndndpat:::txtsize --> Bsoisnaceaec:::txtsize
+Bsoisnaceaec:::txtsize --> Sontasaerdnhnit:::txtsize
+Bsoisnaceaec:::txtsize --> Sesaletiasot:::txtsize
+SiLndndpat:::txtsize --> Fndoakseehpr:::txtsize
+Fndoakseehpr:::txtsize --> Thttsmainina:::txtsize
+Fndoakseehpr:::txtsize --> Pesasgaanruea:::txtsize
+Bsibscktneilies:::txtsize --> Uibsitnanrsi:::txtsize
+Uibsitnanrsi:::txtsize --> BsiynectrnnBsat:::txtsize
+BsiynectrnnBsat:::txtsize --> Bsoisnaceaec:::txtsize
+BsiynectrnnBsat:::txtsize --> Bieaykccs:::txtsize
+Uibsitnanrsi:::txtsize --> BsiynectrnnBsat:::txtsize
+BsiynectrnnBsat:::txtsize --> Bsoisnaceaec:::txtsize
+BsiynectrnnBsat:::txtsize --> Bieaykccs:::txtsize
+
+RfSiarutOin@{ shape: win-pane, label: "_Published Nov 03, 2025, 12:20 PM_
+Ready for it? swifties swarm german museum to see ophelia painting" }
+TrtkegrtSib@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:03 AM_
+Taylor swift breaks streaming records with new showgirl album" }
+Trtehrikinfdes@{ shape: win-pane, label: "_Published Sep 22, 2025, 12:50 PM_
+Taylor swift’s life of a showgirl movie racks up $19 million in us first-day pre-sales" }
+IooTrtwrddarwiTse@{ shape: win-pane, label: "_Published Aug 30, 2025, 04:47 PM_
+It’s a love story as taylor swift sets world record in podcast appearance with fiance travis kelce" }
+TrtrKangetorc@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:29 AM_
+Taylor swift and travis kelce announce engagement after two-year romance" }
+WoaSSiwloeoomt@{ shape: win-pane, label: "_Published Oct 16, 2025, 02:45 PM_
+Want to be a taylor swift showgirl? how to pull off orange, the colour of the moment" }
+Wowhosoaulso@{ shape: win-pane, label: "_Published Feb 03, 2025, 05:00 AM_
+Want to know which hues look best on you? try a colour analysis session" }
+Snsoebtnoasss@{ shape: win-pane, label: "_Published Feb 03, 2025, 05:00 AM_
+Student-run studio shades doubters to shine in colour analysis business" }
+
+RfSiarutOin:::txtsize --> TrtkegrtSib:::txtsize
+TrtkegrtSib:::txtsize --> Trtehrikinfdes:::txtsize
+Trtehrikinfdes:::txtsize --> IooTrtwrddarwiTse:::txtsize
+Trtehrikinfdes:::txtsize --> TrtrKangetorc:::txtsize
+RfSiarutOin:::txtsize --> WoaSSiwloeoomt:::txtsize
+WoaSSiwloeoomt:::txtsize --> Wowhosoaulso:::txtsize
+Wowhosoaulso:::txtsize --> Snsoebtnoasss:::txtsize
+
+TsSywteaasamd@{ shape: win-pane, label: "_Published Nov 03, 2025, 11:46 AM_
+Trump says us not eyeing war with venezuela, but maduro’s days are numbered" }
 UiaegonllTs@{ shape: win-pane, label: "_Published Oct 15, 2025, 04:50 AM_
 Us strike on alleged drug boat off venezuela kills six, trump says" }
 Ugcumtoeonns@{ shape: win-pane, label: "_Published Sep 02, 2025, 09:49 PM_
@@ -41,11 +112,11 @@ Trump says declaration of war not needed on drug cartels" }
 Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
 Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
 
-Tsoneauuamd:::txtsize --> UiaegonllTs:::txtsize
+TsSywteaasamd:::txtsize --> UiaegonllTs:::txtsize
 UiaegonllTs:::txtsize --> Ugcumtoeonns:::txtsize
 Ugcumtoeonns:::txtsize --> TdyisiieAet:::txtsize
 Ugcumtoeonns:::txtsize --> CosrelylLt:::txtsize
-Tsoneauuamd:::txtsize --> Eirdyroersl:::txtsize
+TsSywteaasamd:::txtsize --> Eirdyroersl:::txtsize
 Eirdyroersl:::txtsize --> Nselgufexeeov:::txtsize
 Nselgufexeeov:::txtsize --> Uidycceuomasnswee:::txtsize
 Nselgufexeeov:::txtsize --> TcrAotnzrnsou:::txtsize
@@ -53,92 +124,6 @@ Eirdyroersl:::txtsize --> VulClaaispbr:::txtsize
 VulClaaispbr:::txtsize --> Tseaonencl:::txtsize
 VulClaaispbr:::txtsize --> Uidycceuomasnswee:::txtsize
 
-TsuCheltcwn@{ shape: win-pane, label: "_Published Nov 03, 2025, 11:35 AM_
-Trump says russia, china have secretly tested nuclear weapons" }
-Taeomareinap@{ shape: win-pane, label: "_Published Oct 30, 2025, 09:50 AM_
-Trump asks pentagon to immediately resume testing us nuclear weapons" }
-RasepPdprPs@{ shape: win-pane, label: "_Published Oct 29, 2025, 08:36 PM_
-Russia tests nuclear-capable poseidon super torpedo, putin says" }
-Tsuheeiress@{ shape: win-pane, label: "_Published Oct 27, 2025, 04:55 PM_
-Trump says putin should end the ukraine war, not test missiles" }
-Rasniurruie@{ shape: win-pane, label: "_Published Oct 26, 2025, 04:01 PM_
-Russia tests new ‘invincible’ nuclear-powered cruise missile" }
-Tsuoolrnssai@{ shape: win-pane, label: "_Published Oct 06, 2025, 02:01 AM_
-Trump says putin’s offer on nuclear arms control ‘sounds like a good idea’" }
-Pospetouroe@{ shape: win-pane, label: "_Published Sep 22, 2025, 11:06 PM_
-Putin offers trump one-year extension to nuclear weapons treaty" }
-Uamlpsrueus@{ shape: win-pane, label: "_Published Oct 03, 2025, 03:15 AM_
-Us tomahawk missile shipments to ukraine unlikely, sources say" }
-Rasniurruie@{ shape: win-pane, label: "_Published Oct 26, 2025, 04:01 PM_
-Russia tests new ‘invincible’ nuclear-powered cruise missile" }
-UlRamaoerwttsparr@{ shape: win-pane, label: "_Published Oct 25, 2025, 06:05 PM_
-Us could hit russia with more sanctions to end ukraine war, but first wants europe to raise pressure" }
-UpmucssorirPwht@{ shape: win-pane, label: "_Published Oct 23, 2025, 05:33 AM_
-Us slaps ‘tremendous sanctions’ on russian oil for ukraine war, says putin wasn’t ‘honest’" }
-Pdnemcsilrri@{ shape: win-pane, label: "_Published Oct 24, 2025, 12:25 AM_
-Putin defiant after trump sanctions russian oil majors over ukraine" }
-Psonrsfltlasi@{ shape: win-pane, label: "_Published Oct 25, 2025, 12:40 AM_
-Putin’s economic envoy arrives in us for talks, after oil companies sanctioned" }
-Ucsilrrionitncr@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:27 PM_
-Us sanctions russian oil majors over ukraine, prompting india jitters and moscow fury" }
-
-TsuCheltcwn:::txtsize --> Taeomareinap:::txtsize
-Taeomareinap:::txtsize --> RasepPdprPs:::txtsize
-RasepPdprPs:::txtsize --> Tsuheeiress:::txtsize
-RasepPdprPs:::txtsize --> Rasniurruie:::txtsize
-Taeomareinap:::txtsize --> Tsuoolrnssai:::txtsize
-Tsuoolrnssai:::txtsize --> Pospetouroe:::txtsize
-Tsuoolrnssai:::txtsize --> Uamlpsrueus:::txtsize
-TsuCheltcwn:::txtsize --> Rasniurruie:::txtsize
-Rasniurruie:::txtsize --> UlRamaoerwttsparr:::txtsize
-UlRamaoerwttsparr:::txtsize --> UpmucssorirPwht:::txtsize
-UlRamaoerwttsparr:::txtsize --> Pdnemcsilrri:::txtsize
-Rasniurruie:::txtsize --> Psonrsfltlasi:::txtsize
-Psonrsfltlasi:::txtsize --> Ucsilrrionitncr:::txtsize
-
-WHsheetcctxs@{ shape: win-pane, label: "_Published Nov 03, 2025, 10:47 AM_
-White house says china set to restart some critical metals exports to us" }
-CtbrkiimnU@{ shape: win-pane, label: "_Published Dec 03, 2024, 05:23 PM_
-China to curb exports of key chipmaking components to us" }
-Ltrnapsccok@{ shape: win-pane, label: "_Published Dec 02, 2024, 11:33 PM_
-Latest us strike on china’s chips hits semiconductor toolmakers" }
-UeShhnCopdacnry@{ shape: win-pane, label: "_Published Nov 11, 2024, 07:25 AM_
-Us ordered tsmc to halt shipments to china of chips used in ai applications, source says" }
-TnrdnrtePdaHi@{ shape: win-pane, label: "_Published Dec 02, 2024, 02:10 PM_
-Taiwan is a trusted partner for high-tech sector, president says in hawaii" }
-Ltrnapsccok@{ shape: win-pane, label: "_Published Dec 02, 2024, 11:33 PM_
-Latest us strike on china’s chips hits semiconductor toolmakers" }
-UeShhnCopdacnry@{ shape: win-pane, label: "_Published Nov 11, 2024, 07:25 AM_
-Us ordered tsmc to halt shipments to china of chips used in ai applications, source says" }
-TnrdnrtePdaHi@{ shape: win-pane, label: "_Published Dec 02, 2024, 02:10 PM_
-Taiwan is a trusted partner for high-tech sector, president says in hawaii" }
-UlefCbroehs@{ shape: win-pane, label: "_Published Nov 03, 2025, 01:36 AM_
-Us could hike tariffs if china backtracks on rare earths: bessent" }
-CtportbbUpsee@{ shape: win-pane, label: "_Published Nov 02, 2025, 07:25 AM_
-China to suspend some rare earth curbs, probes on us chip firms: white house" }
-Unloehmsewne@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:01 AM_
-Us, china seal deal on rare earths; trump says xi meeting was a 12 on scale of 1 to 10" }
-Wimgoretrnt@{ shape: win-pane, label: "_Published Oct 31, 2025, 01:56 AM_
-What did trump, xi agree to on tariffs, export controls and fentanyl?" }
-Cmmkhecost@{ shape: win-pane, label: "_Published Nov 01, 2025, 03:23 PM_
-China made a ‘mistake’ with rare-earth controls: bessent to ft" }
-Cruehromouiftt@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:48 PM_
-China ramps up rare earth restrictions, in move to beef up position for us trade talks" }
-
-WHsheetcctxs:::txtsize --> CtbrkiimnU:::txtsize
-CtbrkiimnU:::txtsize --> Ltrnapsccok:::txtsize
-Ltrnapsccok:::txtsize --> UeShhnCopdacnry:::txtsize
-Ltrnapsccok:::txtsize --> TnrdnrtePdaHi:::txtsize
-CtbrkiimnU:::txtsize --> Ltrnapsccok:::txtsize
-Ltrnapsccok:::txtsize --> UeShhnCopdacnry:::txtsize
-Ltrnapsccok:::txtsize --> TnrdnrtePdaHi:::txtsize
-WHsheetcctxs:::txtsize --> UlefCbroehs:::txtsize
-UlefCbroehs:::txtsize --> CtportbbUpsee:::txtsize
-CtportbbUpsee:::txtsize --> Unloehmsewne:::txtsize
-CtportbbUpsee:::txtsize --> Wimgoretrnt:::txtsize
-UlefCbroehs:::txtsize --> Cmmkhecost:::txtsize
-Cmmkhecost:::txtsize --> Cruehromouiftt:::txtsize
-
 ```
-<i>Last updated: 2025-11-03 12:00:38.394030 (GMT+8)</i>
+<i>Last updated: 2025-11-03 16:01:03.557995 (GMT+8)</i>
 <!-- END -->
