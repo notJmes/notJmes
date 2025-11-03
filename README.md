@@ -16,111 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tdlitefllu@{ shape: win-pane, label: "_Published Nov 03, 2025, 11:23 PM_
-Train derailment in britain leaves four slightly injured" }
-SiLndndpat@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:12 AM_
-Stabbing in london-bound train wounds 10, 2 suspects arrested" }
-Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
-British man of syrian descent named as manchester synagogue attacker" }
-Sontasaerdnhnit@{ shape: win-pane, label: "_Published Oct 03, 2025, 12:20 AM_
-Synagogue knife attack alarms britain’s jews already dealing with rising anti-semitism" }
-Sesaletiasot@{ shape: win-pane, label: "_Published Oct 03, 2025, 02:10 AM_
-Starmer says britain will defeat anti-semitism after synagogue attack" }
-Fndoakseehpr@{ shape: win-pane, label: "_Published Jul 03, 2025, 11:14 PM_
-Four injured in ‘violent’ attack by passenger on german high-speed train" }
-Thttsmainina@{ shape: win-pane, label: "_Published Jul 03, 2025, 06:35 AM_
-Teen who plotted attacks on women charged in france’s first ‘incel’ case" }
-Pesasgaanruea@{ shape: win-pane, label: "_Published Jun 23, 2025, 04:40 AM_
-Police arrest 12 as wave of syringe attacks mar france street music festival" }
-MawooedeefaBsi@{ shape: win-pane, label: "_Published Nov 03, 2025, 03:37 PM_
-Man charged with 10 counts of attempted murder after knife attack on british train" }
-SiLndndpat@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:12 AM_
-Stabbing in london-bound train wounds 10, 2 suspects arrested" }
-Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
-British man of syrian descent named as manchester synagogue attacker" }
-Fndoakseehpr@{ shape: win-pane, label: "_Published Jul 03, 2025, 11:14 PM_
-Four injured in ‘violent’ attack by passenger on german high-speed train" }
-NnFtrralorcttsi@{ shape: win-pane, label: "_Published Nov 03, 2025, 11:06 AM_
-Nottingham forest owner offers financial support for fans caught up in train stabbings" }
-SiLndndpat@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:12 AM_
-Stabbing in london-bound train wounds 10, 2 suspects arrested" }
-Uibsitnanrsi@{ shape: win-pane, label: "_Published Nov 03, 2025, 03:29 AM_
-Uk train stabbings carried out by lone attacker, not terrorism: police" }
+UnmdasuumnoCsds@{ shape: win-pane, label: "_Published Nov 04, 2025, 03:27 AM_
+Ukraine committed to eu accession but should do more on rule of law, commission draft says" }
+Lknitutytfn@{ shape: win-pane, label: "_Published Jul 22, 2025, 11:23 PM_
+Lawmakers in ukraine vote to curb autonomy of anti-graft agencies" }
+Undwpshroiunc@{ shape: win-pane, label: "_Published Jul 22, 2025, 04:58 AM_
+Ukraine conducts widespread searches, arrests of anti-corruption officials" }
+Zsyautdeaneu@{ shape: win-pane, label: "_Published Jul 22, 2025, 03:02 AM_
+Zelensky says ukraine, russia to hold new peace talks in turkey on july 23" }
+Bildiar@{ shape: win-pane, label: "_Published Jul 21, 2025, 10:45 PM_
+Britain calls for 50-day drive to arm ukraine" }
+Undwpshroiunc@{ shape: win-pane, label: "_Published Jul 22, 2025, 04:58 AM_
+Ukraine conducts widespread searches, arrests of anti-corruption officials" }
+Zsyautdeaneu@{ shape: win-pane, label: "_Published Jul 22, 2025, 03:02 AM_
+Zelensky says ukraine, russia to hold new peace talks in turkey on july 23" }
+Bildiar@{ shape: win-pane, label: "_Published Jul 21, 2025, 10:45 PM_
+Britain calls for 50-day drive to arm ukraine" }
+Unlyoiaeiddoiune@{ shape: win-pane, label: "_Published Jul 24, 2025, 09:39 PM_
+Ukraine’s zelensky approves bill draft ‘preserving independence’ of anti-corruption bodies" }
+Unbiuncpnee@{ shape: win-pane, label: "_Published Jul 23, 2025, 08:23 AM_
+Ukraine curbs anti-corruption agencies, sparking rare protests" }
+Lknitutytfn@{ shape: win-pane, label: "_Published Jul 22, 2025, 11:23 PM_
+Lawmakers in ukraine vote to curb autonomy of anti-graft agencies" }
+Undwpshroiunc@{ shape: win-pane, label: "_Published Jul 22, 2025, 04:58 AM_
+Ukraine conducts widespread searches, arrests of anti-corruption officials" }
+Undwpshroiunc@{ shape: win-pane, label: "_Published Jul 22, 2025, 04:58 AM_
+Ukraine conducts widespread searches, arrests of anti-corruption officials" }
+Zsyautdeaneu@{ shape: win-pane, label: "_Published Jul 22, 2025, 03:02 AM_
+Zelensky says ukraine, russia to hold new peace talks in turkey on july 23" }
+Bildiar@{ shape: win-pane, label: "_Published Jul 21, 2025, 10:45 PM_
+Britain calls for 50-day drive to arm ukraine" }
 
-Tdlitefllu:::txtsize --> SiLndndpat:::txtsize
-SiLndndpat:::txtsize --> Bsoisnaceaec:::txtsize
-Bsoisnaceaec:::txtsize --> Sontasaerdnhnit:::txtsize
-Bsoisnaceaec:::txtsize --> Sesaletiasot:::txtsize
-SiLndndpat:::txtsize --> Fndoakseehpr:::txtsize
-Fndoakseehpr:::txtsize --> Thttsmainina:::txtsize
-Fndoakseehpr:::txtsize --> Pesasgaanruea:::txtsize
-Tdlitefllu:::txtsize --> MawooedeefaBsi:::txtsize
-MawooedeefaBsi:::txtsize --> SiLndndpat:::txtsize
-SiLndndpat:::txtsize --> Bsoisnaceaec:::txtsize
-SiLndndpat:::txtsize --> Fndoakseehpr:::txtsize
-MawooedeefaBsi:::txtsize --> NnFtrralorcttsi:::txtsize
-NnFtrralorcttsi:::txtsize --> SiLndndpat:::txtsize
-NnFtrralorcttsi:::txtsize --> Uibsitnanrsi:::txtsize
+UnmdasuumnoCsds:::txtsize --> Lknitutytfn:::txtsize
+Lknitutytfn:::txtsize --> Undwpshroiunc:::txtsize
+Undwpshroiunc:::txtsize --> Zsyautdeaneu:::txtsize
+Undwpshroiunc:::txtsize --> Bildiar:::txtsize
+Lknitutytfn:::txtsize --> Undwpshroiunc:::txtsize
+Undwpshroiunc:::txtsize --> Zsyautdeaneu:::txtsize
+Undwpshroiunc:::txtsize --> Bildiar:::txtsize
+UnmdasuumnoCsds:::txtsize --> Unlyoiaeiddoiune:::txtsize
+Unlyoiaeiddoiune:::txtsize --> Unbiuncpnee:::txtsize
+Unbiuncpnee:::txtsize --> Lknitutytfn:::txtsize
+Unbiuncpnee:::txtsize --> Undwpshroiunc:::txtsize
+Unlyoiaeiddoiune:::txtsize --> Undwpshroiunc:::txtsize
+Undwpshroiunc:::txtsize --> Zsyautdeaneu:::txtsize
+Undwpshroiunc:::txtsize --> Bildiar:::txtsize
 
-AodSsneqoefs@{ shape: win-pane, label: "_Published Nov 03, 2025, 10:22 PM_
-A year on, leader of spain’s valencia region quits over deadly floods" }
-Wrhaesodtnlions@{ shape: win-pane, label: "_Published Oct 26, 2025, 03:17 AM_
-‘why weren’t they evacuated?’: tens of thousands protest on deadly spain floods’ anniversary" }
-Ssoleranie@{ shape: win-pane, label: "_Published Oct 31, 2024, 01:40 AM_
-Spanish floods kill 95 as year of rain falls in a day in valencia" }
-Sslfsckttl@{ shape: win-pane, label: "_Published Oct 30, 2024, 08:50 AM_
-Spain’s deadliest floods in decades kill at least 64 people" }
-Oaioefsdeu@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:55 AM_
-One year on, victim of valencia floods found buried in mud" }
-Ssoleranie@{ shape: win-pane, label: "_Published Oct 31, 2024, 01:40 AM_
-Spanish floods kill 95 as year of rain falls in a day in valencia" }
-Ssrsotnrseprsc@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:18 AM_
-Spain suffers fresh floods as torrential rains strike, trapping drivers amid ‘chaos’" }
-Ssoleranie@{ shape: win-pane, label: "_Published Oct 31, 2024, 01:40 AM_
-Spanish floods kill 95 as year of rain falls in a day in valencia" }
-Sslfsckttl@{ shape: win-pane, label: "_Published Oct 30, 2024, 08:50 AM_
-Spain’s deadliest floods in decades kill at least 64 people" }
-Ctnirdahhr@{ shape: win-pane, label: "_Published Oct 30, 2024, 08:29 AM_
-Climate change driving ‘record threats to health’: report" }
-TnewSTog@{ shape: win-pane, label: "_Published Oct 30, 2024, 08:10 AM_
-Taiwan battens down for super typhoon kong-rey" }
+Rigslewrpdleit@{ shape: win-pane, label: "_Published Nov 04, 2025, 02:48 AM_
+Rome firefighters battle to rescue worker trapped under collapsed medieval tower" }
+WruniledlrRCs@{ shape: win-pane, label: "_Published Nov 03, 2025, 08:57 PM_
+Workers injured in partial collapse of medieval tower near rome’s colosseum" }
+Esnysebridgcd@{ shape: win-pane, label: "_Published Oct 14, 2025, 04:44 PM_
+Explosion in italy kills three carabinieri officers during police raid" }
+Tpechaweelael@{ shape: win-pane, label: "_Published Sep 18, 2025, 07:35 AM_
+Three police officers shot dead, two wounded in pennsylvania; suspect killed" }
+yleapeitneteoe@{ shape: win-pane, label: "_Published Sep 08, 2025, 03:26 PM_
+16-year-old arrested after police station attack in turkey that killed two officers" }
+Baluparktjn@{ shape: win-pane, label: "_Published Dec 10, 2024, 12:12 AM_
+Blast at italian fuel depot near florence kills two, injures nine" }
+Uatesie@{ shape: win-pane, label: "_Published Oct 23, 2024, 01:36 AM_
+Uganda fuel truck explosion kills 11 people" }
+EnleaesigmVuies@{ shape: win-pane, label: "_Published Nov 19, 2024, 02:31 AM_
+Eleven people arrested after explosion, fire at gas complex, venezuela minister says" }
+FesounlsnMd@{ shape: win-pane, label: "_Published Oct 08, 2025, 02:52 PM_
+Four dead as six-storey building collapses in central madrid" }
+Hfeitebsrono@{ shape: win-pane, label: "_Published Oct 07, 2025, 10:41 AM_
+Hanoi flooded again as storm season brings more rain to vietnam’s north" }
+Tolalennnlutci@{ shape: win-pane, label: "_Published Oct 03, 2025, 12:45 PM_
+Typhoon bualoi death toll rises to 51 in vietnam, banks told to support affected firms" }
+RrpBideaitnt@{ shape: win-pane, label: "_Published Sep 30, 2025, 10:04 AM_
+Rain from typhoon bualoi floods homes in hanoi, disrupts transport" }
+Wrshndrilcp@{ shape: win-pane, label: "_Published Oct 07, 2025, 09:13 PM_
+Workers missing, three injured after madrid building collapse" }
+Ieccpalsan@{ shape: win-pane, label: "_Published Oct 07, 2025, 12:47 PM_
+Indonesia school collapse death toll hits 67 as search ends" }
+Dtrdihoseecn@{ shape: win-pane, label: "_Published Oct 06, 2025, 09:41 AM_
+Death toll from indonesian school collapse rises to 65, search continues" }
 
-AodSsneqoefs:::txtsize --> Wrhaesodtnlions:::txtsize
-Wrhaesodtnlions:::txtsize --> Ssoleranie:::txtsize
-Ssoleranie:::txtsize --> Sslfsckttl:::txtsize
-Wrhaesodtnlions:::txtsize --> Oaioefsdeu:::txtsize
-Oaioefsdeu:::txtsize --> Ssoleranie:::txtsize
-Oaioefsdeu:::txtsize --> Ssrsotnrseprsc:::txtsize
-AodSsneqoefs:::txtsize --> Ssoleranie:::txtsize
-Ssoleranie:::txtsize --> Sslfsckttl:::txtsize
-Sslfsckttl:::txtsize --> Ctnirdahhr:::txtsize
-Sslfsckttl:::txtsize --> TnewSTog:::txtsize
+Rigslewrpdleit:::txtsize --> WruniledlrRCs:::txtsize
+WruniledlrRCs:::txtsize --> Esnysebridgcd:::txtsize
+Esnysebridgcd:::txtsize --> Tpechaweelael:::txtsize
+Esnysebridgcd:::txtsize --> yleapeitneteoe:::txtsize
+WruniledlrRCs:::txtsize --> Baluparktjn:::txtsize
+Baluparktjn:::txtsize --> Uatesie:::txtsize
+Baluparktjn:::txtsize --> EnleaesigmVuies:::txtsize
+Rigslewrpdleit:::txtsize --> FesounlsnMd:::txtsize
+FesounlsnMd:::txtsize --> Hfeitebsrono:::txtsize
+Hfeitebsrono:::txtsize --> Tolalennnlutci:::txtsize
+Hfeitebsrono:::txtsize --> RrpBideaitnt:::txtsize
+FesounlsnMd:::txtsize --> Wrshndrilcp:::txtsize
+Wrshndrilcp:::txtsize --> Ieccpalsan:::txtsize
+Wrshndrilcp:::txtsize --> Dtrdihoseecn:::txtsize
 
-PietnbgaolEccn@{ shape: win-pane, label: "_Published Nov 03, 2025, 10:17 PM_
-Populist czech vote winner babis signs coalition deal with eurosceptic partners" }
-PiaeDcibeien@{ shape: win-pane, label: "_Published Oct 31, 2025, 10:11 PM_
-‘populists can be beaten’: dutch centrist rob jetten claims election win" }
-FgePsrceiccs@{ shape: win-pane, label: "_Published Oct 30, 2025, 11:25 PM_
-Far-right freedom party suffers shock reversal in dutch elections" }
-Eogsrwtttah@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:31 AM_
-Exit poll suggests centrists win dutch vote, beating far right" }
-Cibelotaosfoyrie@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:25 AM_
-Centrist rob jetten could become netherlands’ youngest and first openly gay prime minister" }
-Cibelotaosfoyrie@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:25 AM_
-Centrist rob jetten could become netherlands’ youngest and first openly gay prime minister" }
-Eogsrwtttah@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:31 AM_
-Exit poll suggests centrists win dutch vote, beating far right" }
-Anoreedwdr@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:00 AM_
-A fading europe struggles to be heard in new world order" }
+Utaosvlrhar@{ shape: win-pane, label: "_Published Nov 04, 2025, 02:42 AM_
+Us wants un sanctions on seven vessels over north korea exports" }
+HtiZdlUoSK@{ shape: win-pane, label: "_Published Nov 03, 2025, 08:21 AM_
+Hegseth visits dmz ahead of talks on us troops in south korea" }
+SKUpemantfPyenm@{ shape: win-pane, label: "_Published Sep 24, 2025, 06:32 PM_
+South korea, us see progress on military control transfer as pyongyang tensions simmer" }
+AoolrtunsNK@{ shape: win-pane, label: "_Published Sep 24, 2025, 03:27 AM_
+At un, south korea’s leader vows to reduce tensions with north korea" }
+AoolrtunsNK@{ shape: win-pane, label: "_Published Sep 24, 2025, 03:27 AM_
+At un, south korea’s leader vows to reduce tensions with north korea" }
+Htsasttpengsh@{ shape: win-pane, label: "_Published Nov 01, 2025, 07:11 PM_
+Hegseth says us ready to share tools to help allies counter ‘aggressive’ china" }
+CstatelnrSCS@{ shape: win-pane, label: "_Published Nov 01, 2025, 02:01 PM_
+China’s military says it tracked philippine patrol in south china sea" }
+Tstotpottea@{ shape: win-pane, label: "_Published Oct 31, 2025, 01:51 AM_
+Trump stirs tensions with surprise order to test nuclear weapons" }
 
-PietnbgaolEccn:::txtsize --> PiaeDcibeien:::txtsize
-PiaeDcibeien:::txtsize --> FgePsrceiccs:::txtsize
-FgePsrceiccs:::txtsize --> Eogsrwtttah:::txtsize
-FgePsrceiccs:::txtsize --> Cibelotaosfoyrie:::txtsize
-PiaeDcibeien:::txtsize --> Cibelotaosfoyrie:::txtsize
-Cibelotaosfoyrie:::txtsize --> Eogsrwtttah:::txtsize
-Cibelotaosfoyrie:::txtsize --> Anoreedwdr:::txtsize
+Utaosvlrhar:::txtsize --> HtiZdlUoSK:::txtsize
+HtiZdlUoSK:::txtsize --> SKUpemantfPyenm:::txtsize
+SKUpemantfPyenm:::txtsize --> AoolrtunsNK:::txtsize
+SKUpemantfPyenm:::txtsize --> AoolrtunsNK:::txtsize
+HtiZdlUoSK:::txtsize --> Htsasttpengsh:::txtsize
+Htsasttpengsh:::txtsize --> CstatelnrSCS:::txtsize
+Htsasttpengsh:::txtsize --> Tstotpottea:::txtsize
 
 ```
-<i>Last updated: 2025-11-04 00:00:53.403537 (GMT+8)</i>
+<i>Last updated: 2025-11-04 04:00:17.743093 (GMT+8)</i>
 <!-- END -->
