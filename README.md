@@ -16,8 +16,82 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Bsibscktneilies@{ shape: win-pane, label: "_Published Nov 03, 2025, 03:37 PM_
-British train stabbing suspect not known to counter-terrorism police, minister says" }
+Roasopnufeel@{ shape: win-pane, label: "_Published Nov 03, 2025, 06:21 PM_
+Red cross head says ‘history repeating’ in sudan after reported killings" }
+Nttggmigsnna@{ shape: win-pane, label: "_Published Nov 01, 2025, 05:45 PM_
+New satellite images suggest mass killings persist in sudan’s el-fasher" }
+Sinayitrsld@{ shape: win-pane, label: "_Published Nov 01, 2025, 04:19 PM_
+Sudan is being ravaged by a civil war the world has overlooked" }
+Nttggmigsnna@{ shape: win-pane, label: "_Published Nov 01, 2025, 05:45 PM_
+New satellite images suggest mass killings persist in sudan’s el-fasher" }
+Uiotiandnl@{ shape: win-pane, label: "_Published Sep 13, 2025, 06:25 PM_
+Us, allies propose transitional plan to end sudan conflict" }
+Uiotiandnl@{ shape: win-pane, label: "_Published Sep 13, 2025, 06:25 PM_
+Us, allies propose transitional plan to end sudan conflict" }
+SvetfeeSsele@{ shape: win-pane, label: "_Published Sep 08, 2025, 01:19 PM_
+Survivors tell of terrifying escape from sudan’s besieged el-fasher" }
+Sinayitrsld@{ shape: win-pane, label: "_Published Nov 01, 2025, 04:19 PM_
+Sudan is being ravaged by a civil war the world has overlooked" }
+Nttggmigsnna@{ shape: win-pane, label: "_Published Nov 01, 2025, 05:45 PM_
+New satellite images suggest mass killings persist in sudan’s el-fasher" }
+Sinayitrsld@{ shape: win-pane, label: "_Published Nov 01, 2025, 04:19 PM_
+Sudan is being ravaged by a civil war the world has overlooked" }
+Uiotiandnl@{ shape: win-pane, label: "_Published Sep 13, 2025, 06:25 PM_
+Us, allies propose transitional plan to end sudan conflict" }
+Uiotiandnl@{ shape: win-pane, label: "_Published Sep 13, 2025, 06:25 PM_
+Us, allies propose transitional plan to end sudan conflict" }
+SvetfeeSsele@{ shape: win-pane, label: "_Published Sep 08, 2025, 01:19 PM_
+Survivors tell of terrifying escape from sudan’s besieged el-fasher" }
+
+Roasopnufeel:::txtsize --> Nttggmigsnna:::txtsize
+Nttggmigsnna:::txtsize --> Sinayitrsld:::txtsize
+Sinayitrsld:::txtsize --> Nttggmigsnna:::txtsize
+Sinayitrsld:::txtsize --> Uiotiandnl:::txtsize
+Nttggmigsnna:::txtsize --> Uiotiandnl:::txtsize
+Uiotiandnl:::txtsize --> SvetfeeSsele:::txtsize
+Roasopnufeel:::txtsize --> Sinayitrsld:::txtsize
+Sinayitrsld:::txtsize --> Nttggmigsnna:::txtsize
+Nttggmigsnna:::txtsize --> Sinayitrsld:::txtsize
+Nttggmigsnna:::txtsize --> Uiotiandnl:::txtsize
+Sinayitrsld:::txtsize --> Uiotiandnl:::txtsize
+Uiotiandnl:::txtsize --> SvetfeeSsele:::txtsize
+
+Heaeeetetbtea@{ shape: win-pane, label: "_Published Nov 03, 2025, 05:02 PM_
+Haunted by war, some israelis hesitate to return to kibbutz attacked by hamas" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
+TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
+Tears, joy in israel as hamas hands over first hostages" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+
+Heaeeetetbtea:::txtsize --> Tdrcaaededlncbs:::txtsize
+Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
+PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
+Heaeeetetbtea:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+
+MawooedeefaBsi@{ shape: win-pane, label: "_Published Nov 03, 2025, 03:37 PM_
+Man charged with 10 counts of attempted murder after knife attack on british train" }
 SiLndndpat@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:12 AM_
 Stabbing in london-bound train wounds 10, 2 suspects arrested" }
 Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
@@ -32,98 +106,36 @@ Thttsmainina@{ shape: win-pane, label: "_Published Jul 03, 2025, 06:35 AM_
 Teen who plotted attacks on women charged in france’s first ‘incel’ case" }
 Pesasgaanruea@{ shape: win-pane, label: "_Published Jun 23, 2025, 04:40 AM_
 Police arrest 12 as wave of syringe attacks mar france street music festival" }
+NnFtrralorcttsi@{ shape: win-pane, label: "_Published Nov 03, 2025, 11:06 AM_
+Nottingham forest owner offers financial support for fans caught up in train stabbings" }
+SiLndndpat@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:12 AM_
+Stabbing in london-bound train wounds 10, 2 suspects arrested" }
+Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
+British man of syrian descent named as manchester synagogue attacker" }
+Fndoakseehpr@{ shape: win-pane, label: "_Published Jul 03, 2025, 11:14 PM_
+Four injured in ‘violent’ attack by passenger on german high-speed train" }
 Uibsitnanrsi@{ shape: win-pane, label: "_Published Nov 03, 2025, 03:29 AM_
 Uk train stabbings carried out by lone attacker, not terrorism: police" }
 BsiynectrnnBsat@{ shape: win-pane, label: "_Published Nov 02, 2025, 02:59 PM_
 British police say train knife attack not terrorist incident, two british men arrested" }
-Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
-British man of syrian descent named as manchester synagogue attacker" }
-Bieaykccs@{ shape: win-pane, label: "_Published Jul 29, 2025, 02:18 PM_
-Britain tries to tackle youth knife crime crisis" }
 BsiynectrnnBsat@{ shape: win-pane, label: "_Published Nov 02, 2025, 02:59 PM_
 British police say train knife attack not terrorist incident, two british men arrested" }
-Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
-British man of syrian descent named as manchester synagogue attacker" }
-Bieaykccs@{ shape: win-pane, label: "_Published Jul 29, 2025, 02:18 PM_
-Britain tries to tackle youth knife crime crisis" }
 
-Bsibscktneilies:::txtsize --> SiLndndpat:::txtsize
+MawooedeefaBsi:::txtsize --> SiLndndpat:::txtsize
 SiLndndpat:::txtsize --> Bsoisnaceaec:::txtsize
 Bsoisnaceaec:::txtsize --> Sontasaerdnhnit:::txtsize
 Bsoisnaceaec:::txtsize --> Sesaletiasot:::txtsize
 SiLndndpat:::txtsize --> Fndoakseehpr:::txtsize
 Fndoakseehpr:::txtsize --> Thttsmainina:::txtsize
 Fndoakseehpr:::txtsize --> Pesasgaanruea:::txtsize
-Bsibscktneilies:::txtsize --> Uibsitnanrsi:::txtsize
+MawooedeefaBsi:::txtsize --> NnFtrralorcttsi:::txtsize
+NnFtrralorcttsi:::txtsize --> SiLndndpat:::txtsize
+SiLndndpat:::txtsize --> Bsoisnaceaec:::txtsize
+SiLndndpat:::txtsize --> Fndoakseehpr:::txtsize
+NnFtrralorcttsi:::txtsize --> Uibsitnanrsi:::txtsize
 Uibsitnanrsi:::txtsize --> BsiynectrnnBsat:::txtsize
-BsiynectrnnBsat:::txtsize --> Bsoisnaceaec:::txtsize
-BsiynectrnnBsat:::txtsize --> Bieaykccs:::txtsize
 Uibsitnanrsi:::txtsize --> BsiynectrnnBsat:::txtsize
-BsiynectrnnBsat:::txtsize --> Bsoisnaceaec:::txtsize
-BsiynectrnnBsat:::txtsize --> Bieaykccs:::txtsize
-
-RfSiarutOin@{ shape: win-pane, label: "_Published Nov 03, 2025, 12:20 PM_
-Ready for it? swifties swarm german museum to see ophelia painting" }
-TrtkegrtSib@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:03 AM_
-Taylor swift breaks streaming records with new showgirl album" }
-Trtehrikinfdes@{ shape: win-pane, label: "_Published Sep 22, 2025, 12:50 PM_
-Taylor swift’s life of a showgirl movie racks up $19 million in us first-day pre-sales" }
-IooTrtwrddarwiTse@{ shape: win-pane, label: "_Published Aug 30, 2025, 04:47 PM_
-It’s a love story as taylor swift sets world record in podcast appearance with fiance travis kelce" }
-TrtrKangetorc@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:29 AM_
-Taylor swift and travis kelce announce engagement after two-year romance" }
-WoaSSiwloeoomt@{ shape: win-pane, label: "_Published Oct 16, 2025, 02:45 PM_
-Want to be a taylor swift showgirl? how to pull off orange, the colour of the moment" }
-Wowhosoaulso@{ shape: win-pane, label: "_Published Feb 03, 2025, 05:00 AM_
-Want to know which hues look best on you? try a colour analysis session" }
-Snsoebtnoasss@{ shape: win-pane, label: "_Published Feb 03, 2025, 05:00 AM_
-Student-run studio shades doubters to shine in colour analysis business" }
-
-RfSiarutOin:::txtsize --> TrtkegrtSib:::txtsize
-TrtkegrtSib:::txtsize --> Trtehrikinfdes:::txtsize
-Trtehrikinfdes:::txtsize --> IooTrtwrddarwiTse:::txtsize
-Trtehrikinfdes:::txtsize --> TrtrKangetorc:::txtsize
-RfSiarutOin:::txtsize --> WoaSSiwloeoomt:::txtsize
-WoaSSiwloeoomt:::txtsize --> Wowhosoaulso:::txtsize
-Wowhosoaulso:::txtsize --> Snsoebtnoasss:::txtsize
-
-TsSywteaasamd@{ shape: win-pane, label: "_Published Nov 03, 2025, 11:46 AM_
-Trump says us not eyeing war with venezuela, but maduro’s days are numbered" }
-UiaegonllTs@{ shape: win-pane, label: "_Published Oct 15, 2025, 04:50 AM_
-Us strike on alleged drug boat off venezuela kills six, trump says" }
-Ugcumtoeonns@{ shape: win-pane, label: "_Published Sep 02, 2025, 09:49 PM_
-Us judge blocks trump administration’s use of troops in los angeles" }
-TdyisiieAet@{ shape: win-pane, label: "_Published Jun 10, 2025, 06:38 AM_
-Trump deploys marines as tensions rise over los angeles protests" }
-CosrelylLt@{ shape: win-pane, label: "_Published Aug 13, 2025, 08:03 AM_
-California says trump sent military to ‘silence’ la protests" }
-Eirdyroersl@{ shape: win-pane, label: "_Published Oct 31, 2025, 06:16 PM_
-Explainer: are the deadly us strikes on alleged drug vessels legal?​" }
-Nselgufexeeov@{ shape: win-pane, label: "_Published Oct 29, 2025, 01:00 AM_
-New us strikes kill 14 alleged drug traffickers, mexico leads rescue of survivor" }
-Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
-Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
-TcrAotnzrnsou@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:05 AM_
-Trump confirms cia authorisation in venezuela, raising pressure on maduro" }
-VulClaaispbr@{ shape: win-pane, label: "_Published Oct 28, 2025, 01:03 PM_
-Venezuela claims cia ‘false flag’ attack foiled, as us deploys bombers" }
-Tseaonencl@{ shape: win-pane, label: "_Published Oct 24, 2025, 05:55 AM_
-Trump says declaration of war not needed on drug cartels" }
-Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
-Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
-
-TsSywteaasamd:::txtsize --> UiaegonllTs:::txtsize
-UiaegonllTs:::txtsize --> Ugcumtoeonns:::txtsize
-Ugcumtoeonns:::txtsize --> TdyisiieAet:::txtsize
-Ugcumtoeonns:::txtsize --> CosrelylLt:::txtsize
-TsSywteaasamd:::txtsize --> Eirdyroersl:::txtsize
-Eirdyroersl:::txtsize --> Nselgufexeeov:::txtsize
-Nselgufexeeov:::txtsize --> Uidycceuomasnswee:::txtsize
-Nselgufexeeov:::txtsize --> TcrAotnzrnsou:::txtsize
-Eirdyroersl:::txtsize --> VulClaaispbr:::txtsize
-VulClaaispbr:::txtsize --> Tseaonencl:::txtsize
-VulClaaispbr:::txtsize --> Uidycceuomasnswee:::txtsize
 
 ```
-<i>Last updated: 2025-11-03 16:01:03.557995 (GMT+8)</i>
+<i>Last updated: 2025-11-03 20:00:27.556993 (GMT+8)</i>
 <!-- END -->
