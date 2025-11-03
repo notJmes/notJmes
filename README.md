@@ -16,138 +16,87 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Hhohosbsr@{ shape: win-pane, label: "_Published Nov 03, 2025, 03:55 AM_
-Hamas hands over three more hostage bodies to israel" }
-Ililezirlocln@{ shape: win-pane, label: "_Published Nov 02, 2025, 11:01 PM_
-Israeli strike kills one in gaza as sides trade blame for truce violations" }
-IliezatHtdtrda@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:40 PM_
-Israeli strikes test gaza’s fragile truce, hamas to hand over two more dead hostages" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Vasoaersiam@{ shape: win-pane, label: "_Published Oct 30, 2025, 09:55 AM_
-Video analysis shows staged recovery of israeli hostage remains" }
-Cfonaoteervta@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:44 PM_
-Ceasefire holds in gaza ahead of hostage release and trump’s visit to israel" }
-Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
-What does trump’s gaza peace plan promise?" }
-PtndCnspaamnt@{ shape: win-pane, label: "_Published Oct 12, 2025, 02:44 AM_
-Palestinians find gaza city in ruins; trump to chair peace summit in egypt" }
-IliezatHtdtrda@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:40 PM_
-Israeli strikes test gaza’s fragile truce, hamas to hand over two more dead hostages" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-Vasoaersiam@{ shape: win-pane, label: "_Published Oct 30, 2025, 09:55 AM_
-Video analysis shows staged recovery of israeli hostage remains" }
-Ilaeaeedttee@{ shape: win-pane, label: "_Published Oct 30, 2025, 04:18 AM_
-Israel hits another gaza target after deadliest night since truce" }
+Tshoeonrierts@{ shape: win-pane, label: "_Published Nov 03, 2025, 07:41 AM_
+Trump says there ‘could be’ us troops on the ground in nigeria, or air strikes" }
+TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
+Trump threatens military action in nigeria over ‘killing of christians’" }
+UDehewmeinegas@{ shape: win-pane, label: "_Published Nov 01, 2025, 09:00 AM_
+Us v-p j.d. vance says he hopes his wife embraces christianity, setting off backlash" }
+UanyrAcm@{ shape: win-pane, label: "_Published Mar 28, 2025, 01:30 PM_
+Usha vance in the eye of trump’s arctic storm" }
+TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
+Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
+Niemtfirir@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
+Nigeria urges trump meeting after military action threat" }
+TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
+Trump threatens military action in nigeria over ‘killing of christians’" }
+UDehewmeinegas@{ shape: win-pane, label: "_Published Nov 01, 2025, 09:00 AM_
+Us v-p j.d. vance says he hopes his wife embraces christianity, setting off backlash" }
+TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
+Trump threatens military action in nigeria over ‘killing of christians’" }
+UDehewmeinegas@{ shape: win-pane, label: "_Published Nov 01, 2025, 09:00 AM_
+Us v-p j.d. vance says he hopes his wife embraces christianity, setting off backlash" }
 
-Hhohosbsr:::txtsize --> Ililezirlocln:::txtsize
-Ililezirlocln:::txtsize --> IliezatHtdtrda:::txtsize
-IliezatHtdtrda:::txtsize --> NyeeawHakl:::txtsize
-IliezatHtdtrda:::txtsize --> Vasoaersiam:::txtsize
-Ililezirlocln:::txtsize --> Cfonaoteervta:::txtsize
-Cfonaoteervta:::txtsize --> Wouaaam:::txtsize
-Cfonaoteervta:::txtsize --> PtndCnspaamnt:::txtsize
-Hhohosbsr:::txtsize --> IliezatHtdtrda:::txtsize
-IliezatHtdtrda:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-IliezatHtdtrda:::txtsize --> Vasoaersiam:::txtsize
-Vasoaersiam:::txtsize --> Ilaeaeedttee:::txtsize
+Tshoeonrierts:::txtsize --> TttiriNiriCt:::txtsize
+TttiriNiriCt:::txtsize --> UDehewmeinegas:::txtsize
+UDehewmeinegas:::txtsize --> UanyrAcm:::txtsize
+UDehewmeinegas:::txtsize --> TahesegnipdoUstt:::txtsize
+Tshoeonrierts:::txtsize --> Niemtfirir:::txtsize
+Niemtfirir:::txtsize --> TttiriNiriCt:::txtsize
+TttiriNiriCt:::txtsize --> UDehewmeinegas:::txtsize
+Niemtfirir:::txtsize --> TttiriNiriCt:::txtsize
+TttiriNiriCt:::txtsize --> UDehewmeinegas:::txtsize
 
-Uibsitnanrsiy@{ shape: win-pane, label: "_Published Nov 03, 2025, 03:29 AM_
-Uk train stabbings carried out by lone attacker, not terrorism, police say" }
-BsiynectrnnBsat@{ shape: win-pane, label: "_Published Nov 02, 2025, 02:59 PM_
-British police say train knife attack not terrorist incident, two british men arrested" }
-Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
-British man of syrian descent named as manchester synagogue attacker" }
-Sontasaerdnhnit@{ shape: win-pane, label: "_Published Oct 03, 2025, 12:20 AM_
-Synagogue knife attack alarms britain’s jews already dealing with rising anti-semitism" }
-Sesaletiasot@{ shape: win-pane, label: "_Published Oct 03, 2025, 02:10 AM_
-Starmer says britain will defeat anti-semitism after synagogue attack" }
-Bieaykccs@{ shape: win-pane, label: "_Published Jul 29, 2025, 02:18 PM_
-Britain tries to tackle youth knife crime crisis" }
-Tinentittape@{ shape: win-pane, label: "_Published Jul 29, 2024, 09:30 PM_
-Two children killed in knife attack in north-west england: uk police" }
-Bsealhtfmln@{ shape: win-pane, label: "_Published Sep 09, 2024, 06:35 PM_
-British pm keir starmer launches anti-knife crime coalition" }
-BsiynectrnnBsat@{ shape: win-pane, label: "_Published Nov 02, 2025, 02:59 PM_
-British police say train knife attack not terrorist incident, two british men arrested" }
-Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
-British man of syrian descent named as manchester synagogue attacker" }
-Sontasaerdnhnit@{ shape: win-pane, label: "_Published Oct 03, 2025, 12:20 AM_
-Synagogue knife attack alarms britain’s jews already dealing with rising anti-semitism" }
-Sesaletiasot@{ shape: win-pane, label: "_Published Oct 03, 2025, 02:10 AM_
-Starmer says britain will defeat anti-semitism after synagogue attack" }
-Bieaykccs@{ shape: win-pane, label: "_Published Jul 29, 2025, 02:18 PM_
-Britain tries to tackle youth knife crime crisis" }
-Tinentittape@{ shape: win-pane, label: "_Published Jul 29, 2024, 09:30 PM_
-Two children killed in knife attack in north-west england: uk police" }
-Bsealhtfmln@{ shape: win-pane, label: "_Published Sep 09, 2024, 06:35 PM_
-British pm keir starmer launches anti-knife crime coalition" }
+Nrtleince@{ shape: win-pane, label: "_Published Nov 03, 2025, 07:25 AM_
+New un report tackles ‘inequality-pandemic cycle’" }
+yoempfde@{ shape: win-pane, label: "_Published Mar 08, 2025, 02:16 PM_
+5 years on, the economic impact of covid-19 lingers" }
+Cioiowayuletss@{ shape: win-pane, label: "_Published Jan 27, 2025, 05:00 AM_
+Changi airport poised for growth in 2025 and beyond, but challenges to its hub status loom" }
+Cioagahpncl@{ shape: win-pane, label: "_Published Jan 22, 2025, 10:00 AM_
+Changi airport’s 2024 passenger traffic hit 99.1% of pre-pandemic levels" }
+CrohArmtriaPg@{ shape: win-pane, label: "_Published Sep 06, 2024, 08:50 PM_
+Construction of changi airport terminal 5 to start in first half of 2025: pm wong" }
 
-Uibsitnanrsiy:::txtsize --> BsiynectrnnBsat:::txtsize
-BsiynectrnnBsat:::txtsize --> Bsoisnaceaec:::txtsize
-Bsoisnaceaec:::txtsize --> Sontasaerdnhnit:::txtsize
-Bsoisnaceaec:::txtsize --> Sesaletiasot:::txtsize
-BsiynectrnnBsat:::txtsize --> Bieaykccs:::txtsize
-Bieaykccs:::txtsize --> Tinentittape:::txtsize
-Bieaykccs:::txtsize --> Bsealhtfmln:::txtsize
-Uibsitnanrsiy:::txtsize --> BsiynectrnnBsat:::txtsize
-BsiynectrnnBsat:::txtsize --> Bsoisnaceaec:::txtsize
-Bsoisnaceaec:::txtsize --> Sontasaerdnhnit:::txtsize
-Bsoisnaceaec:::txtsize --> Sesaletiasot:::txtsize
-BsiynectrnnBsat:::txtsize --> Bieaykccs:::txtsize
-Bieaykccs:::txtsize --> Tinentittape:::txtsize
-Bieaykccs:::txtsize --> Bsealhtfmln:::txtsize
+Nrtleince:::txtsize --> yoempfde:::txtsize
+yoempfde:::txtsize --> Cioiowayuletss:::txtsize
+Cioiowayuletss:::txtsize --> Cioagahpncl:::txtsize
+Cioiowayuletss:::txtsize --> CrohArmtriaPg:::txtsize
 
-Fascayereen@{ shape: win-pane, label: "_Published Nov 03, 2025, 03:13 AM_
-Fire ravages french monastery dubbed ‘notre-dame of the ardennes’" }
-Hrameernez@{ shape: win-pane, label: "_Published Aug 09, 2025, 04:10 PM_
-Historic spanish mosque-cathedral reopens after blaze" }
-NDeekimfiai@{ shape: win-pane, label: "_Published Dec 09, 2024, 05:29 AM_
-Notre dame welcomes back public for mass after five-year refit" }
-MngmaZsgrdtme@{ shape: win-pane, label: "_Published Dec 08, 2024, 04:59 AM_
-Macron brings trump, ukraine’s zelensky together ahead of notre-dame ceremony" }
-Asljicogmsc@{ shape: win-pane, label: "_Published Jun 23, 2025, 01:28 AM_
-At least 20 killed, 52 injured in suicide bombing at damascus church" }
-Ievgtyocynq@{ shape: win-pane, label: "_Published Jun 12, 2025, 02:08 PM_
-Isis reactivating fighters, eying comeback in syria and iraq" }
-Snrtedmadse@{ shape: win-pane, label: "_Published May 17, 2025, 10:08 PM_
-Syrian government forces raid islamic state hideouts in aleppo" }
-SKnrtteenleter@{ shape: win-pane, label: "_Published Mar 27, 2025, 02:55 PM_
-South koreans mourn historic temple burned down by wildfire, race to save others" }
-SKbesrfatl@{ shape: win-pane, label: "_Published Mar 27, 2025, 10:35 AM_
-South korea battles worst ever wildfires as death toll hits 27" }
-SKwieepdvecsg@{ shape: win-pane, label: "_Published Mar 17, 2025, 10:00 AM_
-South korea wildfires: 4 dead, over 1,500 displaced as government declares emergency" }
-Sgsutairigt@{ shape: win-pane, label: "_Published Mar 26, 2025, 07:31 PM_
-Strong winds whip up western japan wildfires; 8 buildings lost" }
-SKsgoaair@{ shape: win-pane, label: "_Published Mar 25, 2025, 01:35 PM_
-South korea struggles to contain deadly wildfires" }
-SKwieepdvecsg@{ shape: win-pane, label: "_Published Mar 17, 2025, 10:00 AM_
-South korea wildfires: 4 dead, over 1,500 displaced as government declares emergency" }
-Jbegires@{ shape: win-pane, label: "_Published Mar 01, 2025, 04:39 PM_
-Japan battles biggest wildfire in decades" }
+TsSgodeneh@{ shape: win-pane, label: "_Published Nov 03, 2025, 06:40 AM_
+Trump says us immigration raids ‘haven’t gone far enough’" }
+PoesToisiewin@{ shape: win-pane, label: "_Published Jul 02, 2025, 02:09 PM_
+Paramount settles with trump over 60 minutes harris interview for $20 million" }
+TsBrlrteis@{ shape: win-pane, label: "_Published Nov 01, 2024, 05:40 AM_
+Trump sues cbs over kamala harris interview on 60 minutes" }
+PrstsencwohliIc@{ shape: win-pane, label: "_Published Nov 01, 2024, 07:00 AM_
+Pastors and secret codes: us election officials wage low-tech battle against ai robocalls" }
+UwBasemnbhr@{ shape: win-pane, label: "_Published Dec 15, 2024, 07:40 AM_
+Us network abc to pay $20m to settle defamation suit brought by trump" }
+JirelsiJaldm@{ shape: win-pane, label: "_Published May 10, 2023, 03:10 AM_
+Jury finds trump sexually abused writer e. jean carroll, awards her $6.6m" }
+ToearSirsfi@{ shape: win-pane, label: "_Published Jan 27, 2024, 08:10 AM_
+Trump ordered to pay carroll us$83.3 million for years of defamation" }
+WoocholeEko@{ shape: win-pane, label: "_Published Nov 03, 2025, 12:11 AM_
+‘we’re not a violent city’: chicago locals take on ice block-by-block" }
+Tseessifsocrd@{ shape: win-pane, label: "_Published Oct 31, 2025, 01:46 AM_
+Trump sets refugee admissions ceiling at 7,500 for fiscal 2026, lowest cap on record" }
+FwSAarnTcsfimi@{ shape: win-pane, label: "_Published May 13, 2025, 04:01 AM_
+First white south africans arrive in us as trump claims they face discrimination" }
+Nniursdrirnr@{ shape: win-pane, label: "_Published Feb 09, 2025, 09:47 PM_
+‘no thanks’, white south africans turn down trump’s immigration offer" }
 
-Fascayereen:::txtsize --> Hrameernez:::txtsize
-Hrameernez:::txtsize --> NDeekimfiai:::txtsize
-NDeekimfiai:::txtsize --> MngmaZsgrdtme:::txtsize
-Hrameernez:::txtsize --> Asljicogmsc:::txtsize
-Asljicogmsc:::txtsize --> Ievgtyocynq:::txtsize
-Asljicogmsc:::txtsize --> Snrtedmadse:::txtsize
-Fascayereen:::txtsize --> SKnrtteenleter:::txtsize
-SKnrtteenleter:::txtsize --> SKbesrfatl:::txtsize
-SKbesrfatl:::txtsize --> SKwieepdvecsg:::txtsize
-SKbesrfatl:::txtsize --> Sgsutairigt:::txtsize
-SKnrtteenleter:::txtsize --> SKsgoaair:::txtsize
-SKsgoaair:::txtsize --> SKwieepdvecsg:::txtsize
-SKsgoaair:::txtsize --> Jbegires:::txtsize
+TsSgodeneh:::txtsize --> PoesToisiewin:::txtsize
+PoesToisiewin:::txtsize --> TsBrlrteis:::txtsize
+TsBrlrteis:::txtsize --> PrstsencwohliIc:::txtsize
+PoesToisiewin:::txtsize --> UwBasemnbhr:::txtsize
+UwBasemnbhr:::txtsize --> JirelsiJaldm:::txtsize
+UwBasemnbhr:::txtsize --> ToearSirsfi:::txtsize
+TsSgodeneh:::txtsize --> WoocholeEko:::txtsize
+WoocholeEko:::txtsize --> Tseessifsocrd:::txtsize
+Tseessifsocrd:::txtsize --> FwSAarnTcsfimi:::txtsize
+Tseessifsocrd:::txtsize --> Nniursdrirnr:::txtsize
 
 ```
-<i>Last updated: 2025-11-03 04:00:50.608128 (GMT+8)</i>
+<i>Last updated: 2025-11-03 08:01:12.644185 (GMT+8)</i>
 <!-- END -->
