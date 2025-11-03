@@ -16,87 +16,129 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tshoeonrierts@{ shape: win-pane, label: "_Published Nov 03, 2025, 07:41 AM_
-Trump says there ‘could be’ us troops on the ground in nigeria, or air strikes" }
-TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
-Trump threatens military action in nigeria over ‘killing of christians’" }
-UDehewmeinegas@{ shape: win-pane, label: "_Published Nov 01, 2025, 09:00 AM_
-Us v-p j.d. vance says he hopes his wife embraces christianity, setting off backlash" }
-UanyrAcm@{ shape: win-pane, label: "_Published Mar 28, 2025, 01:30 PM_
-Usha vance in the eye of trump’s arctic storm" }
-TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
-Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
-Niemtfirir@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
-Nigeria urges trump meeting after military action threat" }
-TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
-Trump threatens military action in nigeria over ‘killing of christians’" }
-UDehewmeinegas@{ shape: win-pane, label: "_Published Nov 01, 2025, 09:00 AM_
-Us v-p j.d. vance says he hopes his wife embraces christianity, setting off backlash" }
-TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
-Trump threatens military action in nigeria over ‘killing of christians’" }
-UDehewmeinegas@{ shape: win-pane, label: "_Published Nov 01, 2025, 09:00 AM_
-Us v-p j.d. vance says he hopes his wife embraces christianity, setting off backlash" }
+Tsoneauuamd@{ shape: win-pane, label: "_Published Nov 03, 2025, 11:46 AM_
+Trump says not eying venezuela war, but maduro’s days numbered" }
+UiaegonllTs@{ shape: win-pane, label: "_Published Oct 15, 2025, 04:50 AM_
+Us strike on alleged drug boat off venezuela kills six, trump says" }
+Ugcumtoeonns@{ shape: win-pane, label: "_Published Sep 02, 2025, 09:49 PM_
+Us judge blocks trump administration’s use of troops in los angeles" }
+TdyisiieAet@{ shape: win-pane, label: "_Published Jun 10, 2025, 06:38 AM_
+Trump deploys marines as tensions rise over los angeles protests" }
+CosrelylLt@{ shape: win-pane, label: "_Published Aug 13, 2025, 08:03 AM_
+California says trump sent military to ‘silence’ la protests" }
+Eirdyroersl@{ shape: win-pane, label: "_Published Oct 31, 2025, 06:16 PM_
+Explainer: are the deadly us strikes on alleged drug vessels legal?​" }
+Nselgufexeeov@{ shape: win-pane, label: "_Published Oct 29, 2025, 01:00 AM_
+New us strikes kill 14 alleged drug traffickers, mexico leads rescue of survivor" }
+Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
+Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
+TcrAotnzrnsou@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:05 AM_
+Trump confirms cia authorisation in venezuela, raising pressure on maduro" }
+VulClaaispbr@{ shape: win-pane, label: "_Published Oct 28, 2025, 01:03 PM_
+Venezuela claims cia ‘false flag’ attack foiled, as us deploys bombers" }
+Tseaonencl@{ shape: win-pane, label: "_Published Oct 24, 2025, 05:55 AM_
+Trump says declaration of war not needed on drug cartels" }
+Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
+Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
 
-Tshoeonrierts:::txtsize --> TttiriNiriCt:::txtsize
-TttiriNiriCt:::txtsize --> UDehewmeinegas:::txtsize
-UDehewmeinegas:::txtsize --> UanyrAcm:::txtsize
-UDehewmeinegas:::txtsize --> TahesegnipdoUstt:::txtsize
-Tshoeonrierts:::txtsize --> Niemtfirir:::txtsize
-Niemtfirir:::txtsize --> TttiriNiriCt:::txtsize
-TttiriNiriCt:::txtsize --> UDehewmeinegas:::txtsize
-Niemtfirir:::txtsize --> TttiriNiriCt:::txtsize
-TttiriNiriCt:::txtsize --> UDehewmeinegas:::txtsize
+Tsoneauuamd:::txtsize --> UiaegonllTs:::txtsize
+UiaegonllTs:::txtsize --> Ugcumtoeonns:::txtsize
+Ugcumtoeonns:::txtsize --> TdyisiieAet:::txtsize
+Ugcumtoeonns:::txtsize --> CosrelylLt:::txtsize
+Tsoneauuamd:::txtsize --> Eirdyroersl:::txtsize
+Eirdyroersl:::txtsize --> Nselgufexeeov:::txtsize
+Nselgufexeeov:::txtsize --> Uidycceuomasnswee:::txtsize
+Nselgufexeeov:::txtsize --> TcrAotnzrnsou:::txtsize
+Eirdyroersl:::txtsize --> VulClaaispbr:::txtsize
+VulClaaispbr:::txtsize --> Tseaonencl:::txtsize
+VulClaaispbr:::txtsize --> Uidycceuomasnswee:::txtsize
 
-Nrtleince@{ shape: win-pane, label: "_Published Nov 03, 2025, 07:25 AM_
-New un report tackles ‘inequality-pandemic cycle’" }
-yoempfde@{ shape: win-pane, label: "_Published Mar 08, 2025, 02:16 PM_
-5 years on, the economic impact of covid-19 lingers" }
-Cioiowayuletss@{ shape: win-pane, label: "_Published Jan 27, 2025, 05:00 AM_
-Changi airport poised for growth in 2025 and beyond, but challenges to its hub status loom" }
-Cioagahpncl@{ shape: win-pane, label: "_Published Jan 22, 2025, 10:00 AM_
-Changi airport’s 2024 passenger traffic hit 99.1% of pre-pandemic levels" }
-CrohArmtriaPg@{ shape: win-pane, label: "_Published Sep 06, 2024, 08:50 PM_
-Construction of changi airport terminal 5 to start in first half of 2025: pm wong" }
+TsuCheltcwn@{ shape: win-pane, label: "_Published Nov 03, 2025, 11:35 AM_
+Trump says russia, china have secretly tested nuclear weapons" }
+Taeomareinap@{ shape: win-pane, label: "_Published Oct 30, 2025, 09:50 AM_
+Trump asks pentagon to immediately resume testing us nuclear weapons" }
+RasepPdprPs@{ shape: win-pane, label: "_Published Oct 29, 2025, 08:36 PM_
+Russia tests nuclear-capable poseidon super torpedo, putin says" }
+Tsuheeiress@{ shape: win-pane, label: "_Published Oct 27, 2025, 04:55 PM_
+Trump says putin should end the ukraine war, not test missiles" }
+Rasniurruie@{ shape: win-pane, label: "_Published Oct 26, 2025, 04:01 PM_
+Russia tests new ‘invincible’ nuclear-powered cruise missile" }
+Tsuoolrnssai@{ shape: win-pane, label: "_Published Oct 06, 2025, 02:01 AM_
+Trump says putin’s offer on nuclear arms control ‘sounds like a good idea’" }
+Pospetouroe@{ shape: win-pane, label: "_Published Sep 22, 2025, 11:06 PM_
+Putin offers trump one-year extension to nuclear weapons treaty" }
+Uamlpsrueus@{ shape: win-pane, label: "_Published Oct 03, 2025, 03:15 AM_
+Us tomahawk missile shipments to ukraine unlikely, sources say" }
+Rasniurruie@{ shape: win-pane, label: "_Published Oct 26, 2025, 04:01 PM_
+Russia tests new ‘invincible’ nuclear-powered cruise missile" }
+UlRamaoerwttsparr@{ shape: win-pane, label: "_Published Oct 25, 2025, 06:05 PM_
+Us could hit russia with more sanctions to end ukraine war, but first wants europe to raise pressure" }
+UpmucssorirPwht@{ shape: win-pane, label: "_Published Oct 23, 2025, 05:33 AM_
+Us slaps ‘tremendous sanctions’ on russian oil for ukraine war, says putin wasn’t ‘honest’" }
+Pdnemcsilrri@{ shape: win-pane, label: "_Published Oct 24, 2025, 12:25 AM_
+Putin defiant after trump sanctions russian oil majors over ukraine" }
+Psonrsfltlasi@{ shape: win-pane, label: "_Published Oct 25, 2025, 12:40 AM_
+Putin’s economic envoy arrives in us for talks, after oil companies sanctioned" }
+Ucsilrrionitncr@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:27 PM_
+Us sanctions russian oil majors over ukraine, prompting india jitters and moscow fury" }
 
-Nrtleince:::txtsize --> yoempfde:::txtsize
-yoempfde:::txtsize --> Cioiowayuletss:::txtsize
-Cioiowayuletss:::txtsize --> Cioagahpncl:::txtsize
-Cioiowayuletss:::txtsize --> CrohArmtriaPg:::txtsize
+TsuCheltcwn:::txtsize --> Taeomareinap:::txtsize
+Taeomareinap:::txtsize --> RasepPdprPs:::txtsize
+RasepPdprPs:::txtsize --> Tsuheeiress:::txtsize
+RasepPdprPs:::txtsize --> Rasniurruie:::txtsize
+Taeomareinap:::txtsize --> Tsuoolrnssai:::txtsize
+Tsuoolrnssai:::txtsize --> Pospetouroe:::txtsize
+Tsuoolrnssai:::txtsize --> Uamlpsrueus:::txtsize
+TsuCheltcwn:::txtsize --> Rasniurruie:::txtsize
+Rasniurruie:::txtsize --> UlRamaoerwttsparr:::txtsize
+UlRamaoerwttsparr:::txtsize --> UpmucssorirPwht:::txtsize
+UlRamaoerwttsparr:::txtsize --> Pdnemcsilrri:::txtsize
+Rasniurruie:::txtsize --> Psonrsfltlasi:::txtsize
+Psonrsfltlasi:::txtsize --> Ucsilrrionitncr:::txtsize
 
-TsSgodeneh@{ shape: win-pane, label: "_Published Nov 03, 2025, 06:40 AM_
-Trump says us immigration raids ‘haven’t gone far enough’" }
-PoesToisiewin@{ shape: win-pane, label: "_Published Jul 02, 2025, 02:09 PM_
-Paramount settles with trump over 60 minutes harris interview for $20 million" }
-TsBrlrteis@{ shape: win-pane, label: "_Published Nov 01, 2024, 05:40 AM_
-Trump sues cbs over kamala harris interview on 60 minutes" }
-PrstsencwohliIc@{ shape: win-pane, label: "_Published Nov 01, 2024, 07:00 AM_
-Pastors and secret codes: us election officials wage low-tech battle against ai robocalls" }
-UwBasemnbhr@{ shape: win-pane, label: "_Published Dec 15, 2024, 07:40 AM_
-Us network abc to pay $20m to settle defamation suit brought by trump" }
-JirelsiJaldm@{ shape: win-pane, label: "_Published May 10, 2023, 03:10 AM_
-Jury finds trump sexually abused writer e. jean carroll, awards her $6.6m" }
-ToearSirsfi@{ shape: win-pane, label: "_Published Jan 27, 2024, 08:10 AM_
-Trump ordered to pay carroll us$83.3 million for years of defamation" }
-WoocholeEko@{ shape: win-pane, label: "_Published Nov 03, 2025, 12:11 AM_
-‘we’re not a violent city’: chicago locals take on ice block-by-block" }
-Tseessifsocrd@{ shape: win-pane, label: "_Published Oct 31, 2025, 01:46 AM_
-Trump sets refugee admissions ceiling at 7,500 for fiscal 2026, lowest cap on record" }
-FwSAarnTcsfimi@{ shape: win-pane, label: "_Published May 13, 2025, 04:01 AM_
-First white south africans arrive in us as trump claims they face discrimination" }
-Nniursdrirnr@{ shape: win-pane, label: "_Published Feb 09, 2025, 09:47 PM_
-‘no thanks’, white south africans turn down trump’s immigration offer" }
+WHsheetcctxs@{ shape: win-pane, label: "_Published Nov 03, 2025, 10:47 AM_
+White house says china set to restart some critical metals exports to us" }
+CtbrkiimnU@{ shape: win-pane, label: "_Published Dec 03, 2024, 05:23 PM_
+China to curb exports of key chipmaking components to us" }
+Ltrnapsccok@{ shape: win-pane, label: "_Published Dec 02, 2024, 11:33 PM_
+Latest us strike on china’s chips hits semiconductor toolmakers" }
+UeShhnCopdacnry@{ shape: win-pane, label: "_Published Nov 11, 2024, 07:25 AM_
+Us ordered tsmc to halt shipments to china of chips used in ai applications, source says" }
+TnrdnrtePdaHi@{ shape: win-pane, label: "_Published Dec 02, 2024, 02:10 PM_
+Taiwan is a trusted partner for high-tech sector, president says in hawaii" }
+Ltrnapsccok@{ shape: win-pane, label: "_Published Dec 02, 2024, 11:33 PM_
+Latest us strike on china’s chips hits semiconductor toolmakers" }
+UeShhnCopdacnry@{ shape: win-pane, label: "_Published Nov 11, 2024, 07:25 AM_
+Us ordered tsmc to halt shipments to china of chips used in ai applications, source says" }
+TnrdnrtePdaHi@{ shape: win-pane, label: "_Published Dec 02, 2024, 02:10 PM_
+Taiwan is a trusted partner for high-tech sector, president says in hawaii" }
+UlefCbroehs@{ shape: win-pane, label: "_Published Nov 03, 2025, 01:36 AM_
+Us could hike tariffs if china backtracks on rare earths: bessent" }
+CtportbbUpsee@{ shape: win-pane, label: "_Published Nov 02, 2025, 07:25 AM_
+China to suspend some rare earth curbs, probes on us chip firms: white house" }
+Unloehmsewne@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:01 AM_
+Us, china seal deal on rare earths; trump says xi meeting was a 12 on scale of 1 to 10" }
+Wimgoretrnt@{ shape: win-pane, label: "_Published Oct 31, 2025, 01:56 AM_
+What did trump, xi agree to on tariffs, export controls and fentanyl?" }
+Cmmkhecost@{ shape: win-pane, label: "_Published Nov 01, 2025, 03:23 PM_
+China made a ‘mistake’ with rare-earth controls: bessent to ft" }
+Cruehromouiftt@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:48 PM_
+China ramps up rare earth restrictions, in move to beef up position for us trade talks" }
 
-TsSgodeneh:::txtsize --> PoesToisiewin:::txtsize
-PoesToisiewin:::txtsize --> TsBrlrteis:::txtsize
-TsBrlrteis:::txtsize --> PrstsencwohliIc:::txtsize
-PoesToisiewin:::txtsize --> UwBasemnbhr:::txtsize
-UwBasemnbhr:::txtsize --> JirelsiJaldm:::txtsize
-UwBasemnbhr:::txtsize --> ToearSirsfi:::txtsize
-TsSgodeneh:::txtsize --> WoocholeEko:::txtsize
-WoocholeEko:::txtsize --> Tseessifsocrd:::txtsize
-Tseessifsocrd:::txtsize --> FwSAarnTcsfimi:::txtsize
-Tseessifsocrd:::txtsize --> Nniursdrirnr:::txtsize
+WHsheetcctxs:::txtsize --> CtbrkiimnU:::txtsize
+CtbrkiimnU:::txtsize --> Ltrnapsccok:::txtsize
+Ltrnapsccok:::txtsize --> UeShhnCopdacnry:::txtsize
+Ltrnapsccok:::txtsize --> TnrdnrtePdaHi:::txtsize
+CtbrkiimnU:::txtsize --> Ltrnapsccok:::txtsize
+Ltrnapsccok:::txtsize --> UeShhnCopdacnry:::txtsize
+Ltrnapsccok:::txtsize --> TnrdnrtePdaHi:::txtsize
+WHsheetcctxs:::txtsize --> UlefCbroehs:::txtsize
+UlefCbroehs:::txtsize --> CtportbbUpsee:::txtsize
+CtportbbUpsee:::txtsize --> Unloehmsewne:::txtsize
+CtportbbUpsee:::txtsize --> Wimgoretrnt:::txtsize
+UlefCbroehs:::txtsize --> Cmmkhecost:::txtsize
+Cmmkhecost:::txtsize --> Cruehromouiftt:::txtsize
 
 ```
-<i>Last updated: 2025-11-03 08:01:12.644185 (GMT+8)</i>
+<i>Last updated: 2025-11-03 12:00:38.394030 (GMT+8)</i>
 <!-- END -->
