@@ -16,82 +16,8 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Roasopnufeel@{ shape: win-pane, label: "_Published Nov 03, 2025, 06:21 PM_
-Red cross head says ‘history repeating’ in sudan after reported killings" }
-Nttggmigsnna@{ shape: win-pane, label: "_Published Nov 01, 2025, 05:45 PM_
-New satellite images suggest mass killings persist in sudan’s el-fasher" }
-Sinayitrsld@{ shape: win-pane, label: "_Published Nov 01, 2025, 04:19 PM_
-Sudan is being ravaged by a civil war the world has overlooked" }
-Nttggmigsnna@{ shape: win-pane, label: "_Published Nov 01, 2025, 05:45 PM_
-New satellite images suggest mass killings persist in sudan’s el-fasher" }
-Uiotiandnl@{ shape: win-pane, label: "_Published Sep 13, 2025, 06:25 PM_
-Us, allies propose transitional plan to end sudan conflict" }
-Uiotiandnl@{ shape: win-pane, label: "_Published Sep 13, 2025, 06:25 PM_
-Us, allies propose transitional plan to end sudan conflict" }
-SvetfeeSsele@{ shape: win-pane, label: "_Published Sep 08, 2025, 01:19 PM_
-Survivors tell of terrifying escape from sudan’s besieged el-fasher" }
-Sinayitrsld@{ shape: win-pane, label: "_Published Nov 01, 2025, 04:19 PM_
-Sudan is being ravaged by a civil war the world has overlooked" }
-Nttggmigsnna@{ shape: win-pane, label: "_Published Nov 01, 2025, 05:45 PM_
-New satellite images suggest mass killings persist in sudan’s el-fasher" }
-Sinayitrsld@{ shape: win-pane, label: "_Published Nov 01, 2025, 04:19 PM_
-Sudan is being ravaged by a civil war the world has overlooked" }
-Uiotiandnl@{ shape: win-pane, label: "_Published Sep 13, 2025, 06:25 PM_
-Us, allies propose transitional plan to end sudan conflict" }
-Uiotiandnl@{ shape: win-pane, label: "_Published Sep 13, 2025, 06:25 PM_
-Us, allies propose transitional plan to end sudan conflict" }
-SvetfeeSsele@{ shape: win-pane, label: "_Published Sep 08, 2025, 01:19 PM_
-Survivors tell of terrifying escape from sudan’s besieged el-fasher" }
-
-Roasopnufeel:::txtsize --> Nttggmigsnna:::txtsize
-Nttggmigsnna:::txtsize --> Sinayitrsld:::txtsize
-Sinayitrsld:::txtsize --> Nttggmigsnna:::txtsize
-Sinayitrsld:::txtsize --> Uiotiandnl:::txtsize
-Nttggmigsnna:::txtsize --> Uiotiandnl:::txtsize
-Uiotiandnl:::txtsize --> SvetfeeSsele:::txtsize
-Roasopnufeel:::txtsize --> Sinayitrsld:::txtsize
-Sinayitrsld:::txtsize --> Nttggmigsnna:::txtsize
-Nttggmigsnna:::txtsize --> Sinayitrsld:::txtsize
-Nttggmigsnna:::txtsize --> Uiotiandnl:::txtsize
-Sinayitrsld:::txtsize --> Uiotiandnl:::txtsize
-Uiotiandnl:::txtsize --> SvetfeeSsele:::txtsize
-
-Heaeeetetbtea@{ shape: win-pane, label: "_Published Nov 03, 2025, 05:02 PM_
-Haunted by war, some israelis hesitate to return to kibbutz attacked by hamas" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
-Peace finally descends on the middle east: now the battle to make it last begins" }
-TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
-Tears, joy in israel as hamas hands over first hostages" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-
-Heaeeetetbtea:::txtsize --> Tdrcaaededlncbs:::txtsize
-Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
-PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
-Heaeeetetbtea:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-
-MawooedeefaBsi@{ shape: win-pane, label: "_Published Nov 03, 2025, 03:37 PM_
-Man charged with 10 counts of attempted murder after knife attack on british train" }
+Tdlitefllu@{ shape: win-pane, label: "_Published Nov 03, 2025, 11:23 PM_
+Train derailment in britain leaves four slightly injured" }
 SiLndndpat@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:12 AM_
 Stabbing in london-bound train wounds 10, 2 suspects arrested" }
 Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
@@ -106,36 +32,95 @@ Thttsmainina@{ shape: win-pane, label: "_Published Jul 03, 2025, 06:35 AM_
 Teen who plotted attacks on women charged in france’s first ‘incel’ case" }
 Pesasgaanruea@{ shape: win-pane, label: "_Published Jun 23, 2025, 04:40 AM_
 Police arrest 12 as wave of syringe attacks mar france street music festival" }
-NnFtrralorcttsi@{ shape: win-pane, label: "_Published Nov 03, 2025, 11:06 AM_
-Nottingham forest owner offers financial support for fans caught up in train stabbings" }
+MawooedeefaBsi@{ shape: win-pane, label: "_Published Nov 03, 2025, 03:37 PM_
+Man charged with 10 counts of attempted murder after knife attack on british train" }
 SiLndndpat@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:12 AM_
 Stabbing in london-bound train wounds 10, 2 suspects arrested" }
 Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
 British man of syrian descent named as manchester synagogue attacker" }
 Fndoakseehpr@{ shape: win-pane, label: "_Published Jul 03, 2025, 11:14 PM_
 Four injured in ‘violent’ attack by passenger on german high-speed train" }
+NnFtrralorcttsi@{ shape: win-pane, label: "_Published Nov 03, 2025, 11:06 AM_
+Nottingham forest owner offers financial support for fans caught up in train stabbings" }
+SiLndndpat@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:12 AM_
+Stabbing in london-bound train wounds 10, 2 suspects arrested" }
 Uibsitnanrsi@{ shape: win-pane, label: "_Published Nov 03, 2025, 03:29 AM_
 Uk train stabbings carried out by lone attacker, not terrorism: police" }
-BsiynectrnnBsat@{ shape: win-pane, label: "_Published Nov 02, 2025, 02:59 PM_
-British police say train knife attack not terrorist incident, two british men arrested" }
-BsiynectrnnBsat@{ shape: win-pane, label: "_Published Nov 02, 2025, 02:59 PM_
-British police say train knife attack not terrorist incident, two british men arrested" }
 
-MawooedeefaBsi:::txtsize --> SiLndndpat:::txtsize
+Tdlitefllu:::txtsize --> SiLndndpat:::txtsize
 SiLndndpat:::txtsize --> Bsoisnaceaec:::txtsize
 Bsoisnaceaec:::txtsize --> Sontasaerdnhnit:::txtsize
 Bsoisnaceaec:::txtsize --> Sesaletiasot:::txtsize
 SiLndndpat:::txtsize --> Fndoakseehpr:::txtsize
 Fndoakseehpr:::txtsize --> Thttsmainina:::txtsize
 Fndoakseehpr:::txtsize --> Pesasgaanruea:::txtsize
-MawooedeefaBsi:::txtsize --> NnFtrralorcttsi:::txtsize
-NnFtrralorcttsi:::txtsize --> SiLndndpat:::txtsize
+Tdlitefllu:::txtsize --> MawooedeefaBsi:::txtsize
+MawooedeefaBsi:::txtsize --> SiLndndpat:::txtsize
 SiLndndpat:::txtsize --> Bsoisnaceaec:::txtsize
 SiLndndpat:::txtsize --> Fndoakseehpr:::txtsize
+MawooedeefaBsi:::txtsize --> NnFtrralorcttsi:::txtsize
+NnFtrralorcttsi:::txtsize --> SiLndndpat:::txtsize
 NnFtrralorcttsi:::txtsize --> Uibsitnanrsi:::txtsize
-Uibsitnanrsi:::txtsize --> BsiynectrnnBsat:::txtsize
-Uibsitnanrsi:::txtsize --> BsiynectrnnBsat:::txtsize
+
+AodSsneqoefs@{ shape: win-pane, label: "_Published Nov 03, 2025, 10:22 PM_
+A year on, leader of spain’s valencia region quits over deadly floods" }
+Wrhaesodtnlions@{ shape: win-pane, label: "_Published Oct 26, 2025, 03:17 AM_
+‘why weren’t they evacuated?’: tens of thousands protest on deadly spain floods’ anniversary" }
+Ssoleranie@{ shape: win-pane, label: "_Published Oct 31, 2024, 01:40 AM_
+Spanish floods kill 95 as year of rain falls in a day in valencia" }
+Sslfsckttl@{ shape: win-pane, label: "_Published Oct 30, 2024, 08:50 AM_
+Spain’s deadliest floods in decades kill at least 64 people" }
+Oaioefsdeu@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:55 AM_
+One year on, victim of valencia floods found buried in mud" }
+Ssoleranie@{ shape: win-pane, label: "_Published Oct 31, 2024, 01:40 AM_
+Spanish floods kill 95 as year of rain falls in a day in valencia" }
+Ssrsotnrseprsc@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:18 AM_
+Spain suffers fresh floods as torrential rains strike, trapping drivers amid ‘chaos’" }
+Ssoleranie@{ shape: win-pane, label: "_Published Oct 31, 2024, 01:40 AM_
+Spanish floods kill 95 as year of rain falls in a day in valencia" }
+Sslfsckttl@{ shape: win-pane, label: "_Published Oct 30, 2024, 08:50 AM_
+Spain’s deadliest floods in decades kill at least 64 people" }
+Ctnirdahhr@{ shape: win-pane, label: "_Published Oct 30, 2024, 08:29 AM_
+Climate change driving ‘record threats to health’: report" }
+TnewSTog@{ shape: win-pane, label: "_Published Oct 30, 2024, 08:10 AM_
+Taiwan battens down for super typhoon kong-rey" }
+
+AodSsneqoefs:::txtsize --> Wrhaesodtnlions:::txtsize
+Wrhaesodtnlions:::txtsize --> Ssoleranie:::txtsize
+Ssoleranie:::txtsize --> Sslfsckttl:::txtsize
+Wrhaesodtnlions:::txtsize --> Oaioefsdeu:::txtsize
+Oaioefsdeu:::txtsize --> Ssoleranie:::txtsize
+Oaioefsdeu:::txtsize --> Ssrsotnrseprsc:::txtsize
+AodSsneqoefs:::txtsize --> Ssoleranie:::txtsize
+Ssoleranie:::txtsize --> Sslfsckttl:::txtsize
+Sslfsckttl:::txtsize --> Ctnirdahhr:::txtsize
+Sslfsckttl:::txtsize --> TnewSTog:::txtsize
+
+PietnbgaolEccn@{ shape: win-pane, label: "_Published Nov 03, 2025, 10:17 PM_
+Populist czech vote winner babis signs coalition deal with eurosceptic partners" }
+PiaeDcibeien@{ shape: win-pane, label: "_Published Oct 31, 2025, 10:11 PM_
+‘populists can be beaten’: dutch centrist rob jetten claims election win" }
+FgePsrceiccs@{ shape: win-pane, label: "_Published Oct 30, 2025, 11:25 PM_
+Far-right freedom party suffers shock reversal in dutch elections" }
+Eogsrwtttah@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:31 AM_
+Exit poll suggests centrists win dutch vote, beating far right" }
+Cibelotaosfoyrie@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:25 AM_
+Centrist rob jetten could become netherlands’ youngest and first openly gay prime minister" }
+Cibelotaosfoyrie@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:25 AM_
+Centrist rob jetten could become netherlands’ youngest and first openly gay prime minister" }
+Eogsrwtttah@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:31 AM_
+Exit poll suggests centrists win dutch vote, beating far right" }
+Anoreedwdr@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:00 AM_
+A fading europe struggles to be heard in new world order" }
+
+PietnbgaolEccn:::txtsize --> PiaeDcibeien:::txtsize
+PiaeDcibeien:::txtsize --> FgePsrceiccs:::txtsize
+FgePsrceiccs:::txtsize --> Eogsrwtttah:::txtsize
+FgePsrceiccs:::txtsize --> Cibelotaosfoyrie:::txtsize
+PiaeDcibeien:::txtsize --> Cibelotaosfoyrie:::txtsize
+Cibelotaosfoyrie:::txtsize --> Eogsrwtttah:::txtsize
+Cibelotaosfoyrie:::txtsize --> Anoreedwdr:::txtsize
 
 ```
-<i>Last updated: 2025-11-03 20:00:27.556993 (GMT+8)</i>
+<i>Last updated: 2025-11-04 00:00:53.403537 (GMT+8)</i>
 <!-- END -->
