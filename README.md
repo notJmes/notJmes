@@ -16,102 +16,132 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Byuroesrmphdti@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:32 PM_
-Beauty influencer tattoos freckles on her face, move sparks heated debate online" }
-Moraaeitdahoeeae@{ shape: win-pane, label: "_Published Jun 09, 2025, 07:00 AM_
-More younger singaporeans are getting botox and collagen shots. how effective and safe are they?" }
-Winsriltmtoohi@{ shape: win-pane, label: "_Published Nov 26, 2024, 12:10 PM_
-Woman in china dies after a series of laser treatments to remove spots on her skin" }
-Mnsdhstpdrahnu@{ shape: win-pane, label: "_Published Nov 12, 2023, 05:00 AM_
-More unregistered aesthetics treatment providers probed amid thriving industry" }
-Wglfefrhtmieeeo@{ shape: win-pane, label: "_Published Sep 11, 2023, 08:17 PM_
-Woman goes blind after dermal filler aesthetic treatment; first reported case in s’pore" }
-NdoeaisdleawgbajA@{ shape: win-pane, label: "_Published Oct 12, 2023, 03:35 PM_
-No evidence of safety, quality issues with dermal filler in case of woman going blind after jab: hsa" }
-Bemsreyeseiauebimn@{ shape: win-pane, label: "_Published Sep 27, 2023, 09:20 AM_
-Botched cosmetic surgery allegedly leaves housewife dead in malaysia, unlicensed beautician missing" }
-Frhsoaioiptatt@{ shape: win-pane, label: "_Published Mar 08, 2022, 12:35 AM_
-Former aesthetics doctor pleads guilty to causing liposuction patient's death in 2009" }
+SnaedIitro@{ shape: win-pane, label: "_Published Nov 04, 2025, 11:20 PM_
+Sweden to charge 18-year-old over islamic state terror plot" }
+Scscefomrhi@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:21 PM_
+Suspected islamic extremist fired on german cars with air rifle" }
+Gnrtarwuortay@{ shape: win-pane, label: "_Published Jun 10, 2025, 05:08 PM_
+Germany’s far-right afd harbours growing number of extremists: spy agency" }
+Gnglsiftrt@{ shape: win-pane, label: "_Published May 02, 2025, 04:43 PM_
+German spy agency labels far-right afd party ‘extremist’" }
+Eialadpirorhr@{ shape: win-pane, label: "_Published May 20, 2025, 08:25 PM_
+Elections, gaza, polarisation drive political crime to record high in germany" }
+TrhigeigvesIleint@{ shape: win-pane, label: "_Published Jul 29, 2025, 02:00 PM_
+Terrorism threat in singapore remains high, driven by events like israeli-palestinian conflict: isd" }
+TrhigeaisHciD@{ shape: win-pane, label: "_Published Jul 25, 2024, 02:04 PM_
+Terrorism threat in singapore elevated since israel-hamas conflict: isd" }
+Fgtsoaaarnr@{ shape: win-pane, label: "_Published Feb 17, 2025, 05:00 AM_
+Far-right extremism: no longer a threat far away from singapore" }
+JivdotTrtetpdena@{ shape: win-pane, label: "_Published Aug 27, 2025, 12:07 AM_
+Juvenile involved in plot to attack taylor swift concert gets suspended sentence in germany" }
+Trtnnsedpertc@{ shape: win-pane, label: "_Published Aug 08, 2024, 05:51 AM_
+Taylor swift’s vienna concerts cancelled due to planned terrorist attack" }
+Iyhwonofeotreua@{ shape: win-pane, label: "_Published Aug 08, 2024, 02:39 AM_
+Isis sympathiser with focus on taylor swift’s vienna concerts is arrested in austria" }
+TcdnsiBiliytestd@{ shape: win-pane, label: "_Published Jul 30, 2024, 08:04 PM_
+Third child dies in mass stabbing in britain; taylor swift says victims ‘were just little kids’" }
+Thwutpiywotclrt@{ shape: win-pane, label: "_Published Jul 25, 2025, 09:14 PM_
+Teen who knew man suspected of planning taylor swift concert attack jailed for isis ties" }
+Trtoetogfuaot@{ shape: win-pane, label: "_Published Oct 09, 2024, 06:59 PM_
+Taylor swift got police escort for london gigs after austria terror plot" }
+IteeiaTrtcte@{ shape: win-pane, label: "_Published Aug 09, 2024, 04:31 PM_
+Iraqi teen detained in vienna after taylor swift attack plot foiled" }
 
-Byuroesrmphdti:::txtsize --> Moraaeitdahoeeae:::txtsize
-Byuroesrmphdti:::txtsize --> Winsriltmtoohi:::txtsize
-Winsriltmtoohi:::txtsize --> Mnsdhstpdrahnu:::txtsize
-Mnsdhstpdrahnu:::txtsize --> Wglfefrhtmieeeo:::txtsize
-Mnsdhstpdrahnu:::txtsize --> NdoeaisdleawgbajA:::txtsize
-Winsriltmtoohi:::txtsize --> Bemsreyeseiauebimn:::txtsize
-Bemsreyeseiauebimn:::txtsize --> Frhsoaioiptatt:::txtsize
+SnaedIitro:::txtsize --> Scscefomrhi:::txtsize
+Scscefomrhi:::txtsize --> Gnrtarwuortay:::txtsize
+Gnrtarwuortay:::txtsize --> Gnglsiftrt:::txtsize
+Gnrtarwuortay:::txtsize --> Eialadpirorhr:::txtsize
+Scscefomrhi:::txtsize --> TrhigeigvesIleint:::txtsize
+TrhigeigvesIleint:::txtsize --> TrhigeaisHciD:::txtsize
+TrhigeigvesIleint:::txtsize --> Fgtsoaaarnr:::txtsize
+SnaedIitro:::txtsize --> JivdotTrtetpdena:::txtsize
+JivdotTrtetpdena:::txtsize --> Trtnnsedpertc:::txtsize
+Trtnnsedpertc:::txtsize --> Iyhwonofeotreua:::txtsize
+Trtnnsedpertc:::txtsize --> TcdnsiBiliytestd:::txtsize
+JivdotTrtetpdena:::txtsize --> Thwutpiywotclrt:::txtsize
+Thwutpiywotclrt:::txtsize --> Trtoetogfuaot:::txtsize
+Thwutpiywotclrt:::txtsize --> IteeiaTrtcte:::txtsize
 
-FrcstCya@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:26 PM_
-Former us vice-president dick cheney dies at 84" }
-JCrevrSidt@{ shape: win-pane, label: "_Published Dec 30, 2024, 05:36 AM_
-Jimmy carter, longest-lived former us president, dies at 100" }
-JCrghnheSi@{ shape: win-pane, label: "_Published Dec 30, 2024, 05:26 AM_
-Jimmy carter’s biggest challenges while being us president" }
-JCrevrSidt@{ shape: win-pane, label: "_Published Dec 30, 2024, 05:36 AM_
-Jimmy carter, longest-lived former us president, dies at 100" }
-IdryonteomSfbdoes@{ shape: win-pane, label: "_Published Dec 27, 2024, 11:45 PM_
-India declares 7 days of mourning, state funeral for manmohan singh – force behind economic reforms" }
-BdiEiasileoreoa@{ shape: win-pane, label: "_Published Dec 30, 2024, 07:23 AM_
-Beyond the middle east, jimmy carter’s foreign policy decisions were fateful for asia" }
-JCrevrSidt@{ shape: win-pane, label: "_Published Dec 30, 2024, 05:36 AM_
-Jimmy carter, longest-lived former us president, dies at 100" }
-JCrevrSidt@{ shape: win-pane, label: "_Published Dec 30, 2024, 05:36 AM_
-Jimmy carter, longest-lived former us president, dies at 100" }
-NKsocohfeomie@{ shape: win-pane, label: "_Published Nov 04, 2025, 09:02 AM_
-North korea says former ceremonial head of state kim yong nam has died aged 97" }
-NKnaafearad@{ shape: win-pane, label: "_Published May 08, 2024, 08:30 AM_
-North korean propaganda chief who served all three leaders dies" }
-NKlrosoherfr@{ shape: win-pane, label: "_Published Apr 11, 2024, 06:00 AM_
-North korea leader kim jong un says now is the time to be ready for war: kcna" }
-NKncaineilo@{ shape: win-pane, label: "_Published Mar 28, 2023, 07:43 AM_
-North korean defectors are dying lonely deaths in wealthy south" }
-NKnilefrnde@{ shape: win-pane, label: "_Published Oct 20, 2025, 04:26 AM_
-North korean soldier held by seoul after crossing land border" }
-NKnutigsd@{ shape: win-pane, label: "_Published Aug 07, 2025, 01:05 PM_
-North korean rescued after swimming across border" }
-SKcffrcgyreroofr@{ shape: win-pane, label: "_Published Feb 19, 2025, 04:06 PM_
-South korea court finds former officials guilty of forcible return of north korean fishermen" }
+Noeoagatmdca@{ shape: win-pane, label: "_Published Nov 04, 2025, 11:02 PM_
+Not enough tents, food reaching gaza as winter comes, aid agencies say" }
+Ulfezsrda@{ shape: win-pane, label: "_Published Aug 22, 2025, 03:02 PM_
+Un declares famine in gaza; first ever in middle east" }
+Ilgqielfrn@{ shape: win-pane, label: "_Published Jul 29, 2025, 06:14 PM_
+Israelis begin to question the morality of their war in gaza" }
+FeaoGalhrt@{ shape: win-pane, label: "_Published Jul 29, 2025, 04:13 PM_
+Famine is ‘playing out’ in gaza, warns global hunger monitor" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Ilbeagssayenaa@{ shape: win-pane, label: "_Published Aug 18, 2025, 03:50 PM_
+Israel deliberately starving gaza’s palestinians, says amnesty international" }
+Ateiaealteoasasa@{ shape: win-pane, label: "_Published Apr 29, 2025, 01:20 PM_
+Amnesty international accuses israel of ‘live-streamed genocide’ against gaza palestinians" }
+Tdfadmliwoods@{ shape: win-pane, label: "_Published Aug 14, 2025, 01:38 AM_
+Turned back from gaza, aid shipments languish in warehouses, on roadsides" }
+MoaGusln@{ shape: win-pane, label: "_Published Oct 29, 2025, 10:00 AM_
+More food reaches gaza, but it is still not enough" }
+Tdrzooetum@{ shape: win-pane, label: "_Published Oct 13, 2025, 05:59 AM_
+Trump declares gaza war ‘over’; hostages due to return home" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
 
-FrcstCya:::txtsize --> JCrevrSidt:::txtsize
-JCrevrSidt:::txtsize --> JCrghnheSi:::txtsize
-JCrghnheSi:::txtsize --> JCrevrSidt:::txtsize
-JCrghnheSi:::txtsize --> IdryonteomSfbdoes:::txtsize
-JCrevrSidt:::txtsize --> BdiEiasileoreoa:::txtsize
-BdiEiasileoreoa:::txtsize --> JCrevrSidt:::txtsize
-BdiEiasileoreoa:::txtsize --> JCrevrSidt:::txtsize
-FrcstCya:::txtsize --> NKsocohfeomie:::txtsize
-NKsocohfeomie:::txtsize --> NKnaafearad:::txtsize
-NKnaafearad:::txtsize --> NKlrosoherfr:::txtsize
-NKnaafearad:::txtsize --> NKncaineilo:::txtsize
-NKsocohfeomie:::txtsize --> NKnilefrnde:::txtsize
-NKnilefrnde:::txtsize --> NKnutigsd:::txtsize
-NKnilefrnde:::txtsize --> SKcffrcgyreroofr:::txtsize
+Noeoagatmdca:::txtsize --> Ulfezsrda:::txtsize
+Ulfezsrda:::txtsize --> Ilgqielfrn:::txtsize
+Ilgqielfrn:::txtsize --> FeaoGalhrt:::txtsize
+Ilgqielfrn:::txtsize --> NyeeawHakl:::txtsize
+Ulfezsrda:::txtsize --> Ilbeagssayenaa:::txtsize
+Ilbeagssayenaa:::txtsize --> Ateiaealteoasasa:::txtsize
+Ilbeagssayenaa:::txtsize --> Tdfadmliwoods:::txtsize
+Noeoagatmdca:::txtsize --> MoaGusln:::txtsize
+MoaGusln:::txtsize --> Tdrzooetum:::txtsize
+Tdrzooetum:::txtsize --> AtHfezerydatoGel:::txtsize
 
-EinoweVnfrsraa@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:07 PM_
-Elections in new york, new jersey and virginia offer early test of trump’s agenda" }
-OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
-Obama calls mamdani, praises campaign ahead of new york mayoral election" }
-UritadtoctCimam@{ shape: win-pane, label: "_Published Jun 25, 2025, 04:10 PM_
-Upstart socialist zohran mamdani stuns political veteran cuomo in nyc mayoral primary" }
-IYalaospttimmk@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:15 PM_
-In new york mayoral primary, progressive upstart aims to spoil cuomo’s comeback bid" }
-IYalaospttimmk@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:15 PM_
-In new york mayoral primary, progressive upstart aims to spoil cuomo’s comeback bid" }
-TbCttousoscolsdsr@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:15 AM_
-Trump backs cuomo, threatens to cut funds as new yorkers expected to pick leftist mamdani as mayor" }
-OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
-Obama calls mamdani, praises campaign ahead of new york mayoral election" }
-UritadtoctCimam@{ shape: win-pane, label: "_Published Jun 25, 2025, 04:10 PM_
-Upstart socialist zohran mamdani stuns political veteran cuomo in nyc mayoral primary" }
+Esumwepetrake@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:52 PM_
+Eu says it could admit new members by 2030, praises montenegro, albania, ukraine" }
+UnmdasuumnoCsds@{ shape: win-pane, label: "_Published Nov 04, 2025, 03:27 AM_
+Ukraine committed to eu accession but should do more on rule of law, commission draft says" }
+Lknitutytfn@{ shape: win-pane, label: "_Published Jul 22, 2025, 11:23 PM_
+Lawmakers in ukraine vote to curb autonomy of anti-graft agencies" }
+Undwpshroiunc@{ shape: win-pane, label: "_Published Jul 22, 2025, 04:58 AM_
+Ukraine conducts widespread searches, arrests of anti-corruption officials" }
+Undwpshroiunc@{ shape: win-pane, label: "_Published Jul 22, 2025, 04:58 AM_
+Ukraine conducts widespread searches, arrests of anti-corruption officials" }
+Unlyoiaeiddoiune@{ shape: win-pane, label: "_Published Jul 24, 2025, 09:39 PM_
+Ukraine’s zelensky approves bill draft ‘preserving independence’ of anti-corruption bodies" }
+Unbiuncpnee@{ shape: win-pane, label: "_Published Jul 23, 2025, 08:23 AM_
+Ukraine curbs anti-corruption agencies, sparking rare protests" }
+Undwpshroiunc@{ shape: win-pane, label: "_Published Jul 22, 2025, 04:58 AM_
+Ukraine conducts widespread searches, arrests of anti-corruption officials" }
+Unerpfsroaeks@{ shape: win-pane, label: "_Published Nov 04, 2025, 01:57 AM_
+Ukraine to set up arms export offices in berlin, copenhagen, zelensky says" }
+RairdirorUnsnhn@{ shape: win-pane, label: "_Published Nov 03, 2025, 11:56 PM_
+Russia says its forces advancing in ruins of pokrovsk; ukraine says defenders holding on" }
+RaaeeUnsirMt@{ shape: win-pane, label: "_Published Nov 02, 2025, 03:00 PM_
+Russia threat extends beyond ukraine, says finnish foreign minister" }
+Tsohfrfw@{ shape: win-pane, label: "_Published Nov 03, 2025, 09:11 AM_
+Trump says no tomahawks for ukraine, for now" }
+RaaeeUnsirMt@{ shape: win-pane, label: "_Published Nov 02, 2025, 03:00 PM_
+Russia threat extends beyond ukraine, says finnish foreign minister" }
+Eeieppoaprored@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
+Europe, ukraine prepare 12-point plan to end war, propose trump to chair peace board" }
+SpnchEeaotta@{ shape: win-pane, label: "_Published Sep 26, 2025, 12:35 PM_
+Singapore inks pact with four european states to boost digital trade" }
 
-EinoweVnfrsraa:::txtsize --> OcMniagaekren:::txtsize
-OcMniagaekren:::txtsize --> UritadtoctCimam:::txtsize
-UritadtoctCimam:::txtsize --> IYalaospttimmk:::txtsize
-UritadtoctCimam:::txtsize --> IYalaospttimmk:::txtsize
-EinoweVnfrsraa:::txtsize --> TbCttousoscolsdsr:::txtsize
-TbCttousoscolsdsr:::txtsize --> OcMniagaekren:::txtsize
-OcMniagaekren:::txtsize --> UritadtoctCimam:::txtsize
+Esumwepetrake:::txtsize --> UnmdasuumnoCsds:::txtsize
+UnmdasuumnoCsds:::txtsize --> Lknitutytfn:::txtsize
+Lknitutytfn:::txtsize --> Undwpshroiunc:::txtsize
+Lknitutytfn:::txtsize --> Undwpshroiunc:::txtsize
+UnmdasuumnoCsds:::txtsize --> Unlyoiaeiddoiune:::txtsize
+Unlyoiaeiddoiune:::txtsize --> Unbiuncpnee:::txtsize
+Unlyoiaeiddoiune:::txtsize --> Undwpshroiunc:::txtsize
+Esumwepetrake:::txtsize --> Unerpfsroaeks:::txtsize
+Unerpfsroaeks:::txtsize --> RairdirorUnsnhn:::txtsize
+RairdirorUnsnhn:::txtsize --> RaaeeUnsirMt:::txtsize
+RairdirorUnsnhn:::txtsize --> Tsohfrfw:::txtsize
+Unerpfsroaeks:::txtsize --> RaaeeUnsirMt:::txtsize
+RaaeeUnsirMt:::txtsize --> Eeieppoaprored:::txtsize
+RaaeeUnsirMt:::txtsize --> SpnchEeaotta:::txtsize
 
 ```
-<i>Last updated: 2025-11-04 20:01:08.117312 (GMT+8)</i>
+<i>Last updated: 2025-11-05 00:00:38.528857 (GMT+8)</i>
 <!-- END -->
