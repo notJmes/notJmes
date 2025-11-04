@@ -16,105 +16,132 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Fruetitemra@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:19 AM_
-Fbi fires four more agents who investigated trump, sources say" }
-SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
-peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
-4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
-HafdoptdSt@{ shape: win-pane, label: "_Published Jan 07, 2021, 10:03 AM_
-How chaos unfolded as pro-trump mob stormed the us capitol" }
-Umsuichcnncclet@{ shape: win-pane, label: "_Published Jan 07, 2021, 10:06 AM_
-Us lawmakers denounce violence as they reconvene to announce electoral college votes" }
-Freieedgatrt@{ shape: win-pane, label: "_Published Sep 27, 2025, 01:15 PM_
-Fbi fires agents pictured kneeling during racial justice protest in 2020" }
-Tttenadcm@{ shape: win-pane, label: "_Published Sep 27, 2025, 10:12 AM_
-Trump targets more opponents after ‘dirty cop’ comey" }
-Frhorahdurcc@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:10 AM_
-Former fbi chief comey criminally charged as trump targets critics" }
-TpcgJcanhhe@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:36 AM_
-Trump publicly urges us justice department to charge his enemies" }
-Citearcicoisgp@{ shape: win-pane, label: "_Published Sep 27, 2025, 04:47 AM_
-Comey indictment escalates trump’s campaign to chill opposition, say legal experts" }
-Frhorahdurcc@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:10 AM_
-Former fbi chief comey criminally charged as trump targets critics" }
-Utemugwhsnuonncys@{ shape: win-pane, label: "_Published Sep 26, 2025, 05:58 AM_
-Us justice department pushing for swift charges against trump’s former national security adviser" }
+Mraoocdrnteywdy@{ shape: win-pane, label: "_Published Nov 04, 2025, 11:26 AM_
+Most trump ballroom donors received federal contracts in recent years, watchdog says" }
+Tsruitaopci@{ shape: win-pane, label: "_Published Oct 26, 2025, 10:32 PM_
+Trump’s ballroom fundraising taps cash from crypto, tech allies" }
+Thdreyrhoao@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:50 PM_
+Trump hosts dinner for wealthy donors to white house ballroom" }
+Ybalolmousu@{ shape: win-pane, label: "_Published Sep 30, 2025, 07:26 AM_
+Youtube to pay $28 million to settle trump account suspension suit" }
+TttCosneetsd@{ shape: win-pane, label: "_Published Sep 04, 2025, 10:43 AM_
+Trump to host tech ceos for first event in newly renovated rose garden" }
+DibsrhoanTbo@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:35 AM_
+Demolition begins on part of white house east wing for trump ballroom" }
+Tstliahstrobd@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:45 PM_
+Trump seeks to build a triumphal arch in washington for nation’s 250th birthday" }
+Tstliahstrobd@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:45 PM_
+Trump seeks to build a triumphal arch in washington for nation’s 250th birthday" }
+OtDrobgtpledle@{ shape: win-pane, label: "_Published Nov 02, 2025, 08:51 AM_
+Obama tells democrats to push back against trump’s ‘lawlessness and recklessness’" }
+Ttfevhniiiss@{ shape: win-pane, label: "_Published Apr 03, 2025, 11:10 AM_
+Trump tariffs take aim everywhere, including uninhabited islands" }
+Tspaspadanop@{ shape: win-pane, label: "_Published Apr 03, 2025, 04:47 AM_
+Trump’s sweeping tariffs amp up global trade war as china, eu vow response" }
+OiaeqsenonBoH@{ shape: win-pane, label: "_Published Mar 28, 2025, 02:47 PM_
+Over 153 killed as powerful quake strikes myanmar, sows panic in bangkok and hanoi" }
+DibsrhoanTbo@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:35 AM_
+Demolition begins on part of white house east wing for trump ballroom" }
+Tstliahstrobd@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:45 PM_
+Trump seeks to build a triumphal arch in washington for nation’s 250th birthday" }
+Tstliahstrobd@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:45 PM_
+Trump seeks to build a triumphal arch in washington for nation’s 250th birthday" }
 
-Fruetitemra:::txtsize --> SiUiinenWn:::txtsize
-SiUiinenWn:::txtsize --> peapubmalrest:::txtsize
-peapubmalrest:::txtsize --> HafdoptdSt:::txtsize
-peapubmalrest:::txtsize --> Umsuichcnncclet:::txtsize
-Fruetitemra:::txtsize --> Freieedgatrt:::txtsize
-Freieedgatrt:::txtsize --> Tttenadcm:::txtsize
-Tttenadcm:::txtsize --> Frhorahdurcc:::txtsize
-Tttenadcm:::txtsize --> TpcgJcanhhe:::txtsize
-Freieedgatrt:::txtsize --> Citearcicoisgp:::txtsize
-Citearcicoisgp:::txtsize --> Frhorahdurcc:::txtsize
-Citearcicoisgp:::txtsize --> Utemugwhsnuonncys:::txtsize
+Mraoocdrnteywdy:::txtsize --> Tsruitaopci:::txtsize
+Tsruitaopci:::txtsize --> Thdreyrhoao:::txtsize
+Thdreyrhoao:::txtsize --> Ybalolmousu:::txtsize
+Thdreyrhoao:::txtsize --> TttCosneetsd:::txtsize
+Tsruitaopci:::txtsize --> DibsrhoanTbo:::txtsize
+DibsrhoanTbo:::txtsize --> Tstliahstrobd:::txtsize
+DibsrhoanTbo:::txtsize --> Tstliahstrobd:::txtsize
+Mraoocdrnteywdy:::txtsize --> OtDrobgtpledle:::txtsize
+OtDrobgtpledle:::txtsize --> Ttfevhniiiss:::txtsize
+Ttfevhniiiss:::txtsize --> Tspaspadanop:::txtsize
+Ttfevhniiiss:::txtsize --> OiaeqsenonBoH:::txtsize
+OtDrobgtpledle:::txtsize --> DibsrhoanTbo:::txtsize
+DibsrhoanTbo:::txtsize --> Tstliahstrobd:::txtsize
+DibsrhoanTbo:::txtsize --> Tstliahstrobd:::txtsize
 
-TbCttouoYiMns@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:15 AM_
-Trump backs cuomo, threatens to cut funds for new york city if mamdani wins" }
-OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
-Obama calls mamdani, praises campaign ahead of new york mayoral election" }
-UritadtoctCimam@{ shape: win-pane, label: "_Published Jun 25, 2025, 04:10 PM_
-Upstart socialist zohran mamdani stuns political veteran cuomo in nyc mayoral primary" }
-IYalaospttimmk@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:15 PM_
-In new york mayoral primary, progressive upstart aims to spoil cuomo’s comeback bid" }
-IYalaospttimmk@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:15 PM_
-In new york mayoral primary, progressive upstart aims to spoil cuomo’s comeback bid" }
+MoAcoedaromhwmirn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:30 AM_
+Millions of americans to get reduced food aid during government shutdown: trump administration" }
+Uentesnknih@{ shape: win-pane, label: "_Published Oct 06, 2025, 09:01 PM_
+Us government shutdown enters second week with no end in sight" }
+TpsrohgtBstutw@{ shape: win-pane, label: "_Published Jun 25, 2025, 09:55 AM_
+Trump pushes congress to pass his ‘big beautiful bill’ as debate clouds path forward" }
+TsefxbeSebnrcr@{ shape: win-pane, label: "_Published May 17, 2025, 02:36 AM_
+Trump’s ‘big, beautiful’ tax bill blocked by us house republicans over cost concerns" }
+Ttlrpsecgnt@{ shape: win-pane, label: "_Published May 22, 2025, 08:07 PM_
+Trump tax bill narrowly passes house, overcoming gop infighting" }
+Waswhomhw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:42 PM_
+What happens next with the us government shutdown?" }
+TsSrtpbun@{ shape: win-pane, label: "_Published Oct 01, 2025, 01:49 AM_
+Trump says us government will ‘probably’ shut down" }
+Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
+Us government begins shutdown that may lead to mass layoffs and cuts" }
+Frmognsonpewei@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:32 AM_
+For first time in long us government shutdown, hints of progress toward reopening" }
+Uentesnknih@{ shape: win-pane, label: "_Published Oct 06, 2025, 09:01 PM_
+Us government shutdown enters second week with no end in sight" }
+TpsrohgtBstutw@{ shape: win-pane, label: "_Published Jun 25, 2025, 09:55 AM_
+Trump pushes congress to pass his ‘big beautiful bill’ as debate clouds path forward" }
+Waswhomhw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:42 PM_
+What happens next with the us government shutdown?" }
 
-TbCttouoYiMns:::txtsize --> OcMniagaekren:::txtsize
-OcMniagaekren:::txtsize --> UritadtoctCimam:::txtsize
-UritadtoctCimam:::txtsize --> IYalaospttimmk:::txtsize
-UritadtoctCimam:::txtsize --> IYalaospttimmk:::txtsize
+MoAcoedaromhwmirn:::txtsize --> Uentesnknih:::txtsize
+Uentesnknih:::txtsize --> TpsrohgtBstutw:::txtsize
+TpsrohgtBstutw:::txtsize --> TsefxbeSebnrcr:::txtsize
+TpsrohgtBstutw:::txtsize --> Ttlrpsecgnt:::txtsize
+Uentesnknih:::txtsize --> Waswhomhw:::txtsize
+Waswhomhw:::txtsize --> TsSrtpbun:::txtsize
+Waswhomhw:::txtsize --> Ueniunmaayat:::txtsize
+MoAcoedaromhwmirn:::txtsize --> Frmognsonpewei:::txtsize
+Frmognsonpewei:::txtsize --> Uentesnknih:::txtsize
+Uentesnknih:::txtsize --> TpsrohgtBstutw:::txtsize
+Uentesnknih:::txtsize --> Waswhomhw:::txtsize
 
-Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
-Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
-FeaSbclelp@{ shape: win-pane, label: "_Published Nov 03, 2025, 08:50 PM_
-France threatens shein ban if ‘childlike’ sex dolls reappear" }
-CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
-China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
-SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
-Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
-Shtfbsrol@{ shape: win-pane, label: "_Published Oct 10, 2025, 08:00 AM_
-Shein, hit with big fines, boosts internal controls" }
-SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
-Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
-Seskmrirsich@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:53 PM_
-Shein enters bricks-and-mortar retail in france, sparking backlash" }
-Sfmin@{ shape: win-pane, label: "_Published Jul 10, 2025, 11:43 PM_
-Shein faces $200m fine in france" }
-CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
-China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
-SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
-Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
-Seskmrirsich@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:53 PM_
-Shein enters bricks-and-mortar retail in france, sparking backlash" }
-Sfmin@{ shape: win-pane, label: "_Published Jul 10, 2025, 11:43 PM_
-Shein faces $200m fine in france" }
-Shtfbsrol@{ shape: win-pane, label: "_Published Oct 10, 2025, 08:00 AM_
-Shein, hit with big fines, boosts internal controls" }
-Seskmrirsich@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:53 PM_
-Shein enters bricks-and-mortar retail in france, sparking backlash" }
-TlgsSbiite@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:43 AM_
-Temu plots aggressive us comeback with price cuts as deep as 60%" }
+Ilrlnotanaieia@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:10 AM_
+Israel returns 45 palestinian bodies to gaza, taking total to 270 since ceasefire deal" }
+Hhohosbsr@{ shape: win-pane, label: "_Published Nov 03, 2025, 03:55 AM_
+Hamas hands over three more hostage bodies to israel" }
+Ililezirlocln@{ shape: win-pane, label: "_Published Nov 02, 2025, 11:01 PM_
+Israeli strike kills one in gaza as sides trade blame for truce violations" }
+IliezatHtdtrda@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:40 PM_
+Israeli strikes test gaza’s fragile truce, hamas to hand over two more dead hostages" }
+Cfonaoteervta@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:44 PM_
+Ceasefire holds in gaza ahead of hostage release and trump’s visit to israel" }
+IliezatHtdtrda@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:40 PM_
+Israeli strikes test gaza’s fragile truce, hamas to hand over two more dead hostages" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Vasoaersiam@{ shape: win-pane, label: "_Published Oct 30, 2025, 09:55 AM_
+Video analysis shows staged recovery of israeli hostage remains" }
+Heaeeetetbtea@{ shape: win-pane, label: "_Published Nov 03, 2025, 05:02 PM_
+Haunted by war, some israelis hesitate to return to kibbutz attacked by hamas" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
 
-Sbelerncrdo:::txtsize --> FeaSbclelp:::txtsize
-FeaSbclelp:::txtsize --> CsnsdsloeoFhhoi:::txtsize
-CsnsdsloeoFhhoi:::txtsize --> SthirylerNsba:::txtsize
-CsnsdsloeoFhhoi:::txtsize --> Shtfbsrol:::txtsize
-FeaSbclelp:::txtsize --> SthirylerNsba:::txtsize
-SthirylerNsba:::txtsize --> Seskmrirsich:::txtsize
-SthirylerNsba:::txtsize --> Sfmin:::txtsize
-Sbelerncrdo:::txtsize --> CsnsdsloeoFhhoi:::txtsize
-CsnsdsloeoFhhoi:::txtsize --> SthirylerNsba:::txtsize
-SthirylerNsba:::txtsize --> Seskmrirsich:::txtsize
-SthirylerNsba:::txtsize --> Sfmin:::txtsize
-CsnsdsloeoFhhoi:::txtsize --> Shtfbsrol:::txtsize
-Shtfbsrol:::txtsize --> Seskmrirsich:::txtsize
-Shtfbsrol:::txtsize --> TlgsSbiite:::txtsize
+Ilrlnotanaieia:::txtsize --> Hhohosbsr:::txtsize
+Hhohosbsr:::txtsize --> Ililezirlocln:::txtsize
+Ililezirlocln:::txtsize --> IliezatHtdtrda:::txtsize
+Ililezirlocln:::txtsize --> Cfonaoteervta:::txtsize
+Hhohosbsr:::txtsize --> IliezatHtdtrda:::txtsize
+IliezatHtdtrda:::txtsize --> NyeeawHakl:::txtsize
+IliezatHtdtrda:::txtsize --> Vasoaersiam:::txtsize
+Ilrlnotanaieia:::txtsize --> Heaeeetetbtea:::txtsize
+Heaeeetetbtea:::txtsize --> Tdrcaaededlncbs:::txtsize
+Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
+Heaeeetetbtea:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
 
 ```
-<i>Last updated: 2025-11-04 08:00:38.179413 (GMT+8)</i>
+<i>Last updated: 2025-11-04 12:01:00.724703 (GMT+8)</i>
 <!-- END -->
