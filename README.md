@@ -16,132 +16,138 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-SnaedIitro@{ shape: win-pane, label: "_Published Nov 04, 2025, 11:20 PM_
-Sweden to charge 18-year-old over islamic state terror plot" }
-Scscefomrhi@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:21 PM_
-Suspected islamic extremist fired on german cars with air rifle" }
-Gnrtarwuortay@{ shape: win-pane, label: "_Published Jun 10, 2025, 05:08 PM_
-Germany’s far-right afd harbours growing number of extremists: spy agency" }
-Gnglsiftrt@{ shape: win-pane, label: "_Published May 02, 2025, 04:43 PM_
-German spy agency labels far-right afd party ‘extremist’" }
-Eialadpirorhr@{ shape: win-pane, label: "_Published May 20, 2025, 08:25 PM_
-Elections, gaza, polarisation drive political crime to record high in germany" }
-TrhigeigvesIleint@{ shape: win-pane, label: "_Published Jul 29, 2025, 02:00 PM_
-Terrorism threat in singapore remains high, driven by events like israeli-palestinian conflict: isd" }
-TrhigeaisHciD@{ shape: win-pane, label: "_Published Jul 25, 2024, 02:04 PM_
-Terrorism threat in singapore elevated since israel-hamas conflict: isd" }
-Fgtsoaaarnr@{ shape: win-pane, label: "_Published Feb 17, 2025, 05:00 AM_
-Far-right extremism: no longer a threat far away from singapore" }
-JivdotTrtetpdena@{ shape: win-pane, label: "_Published Aug 27, 2025, 12:07 AM_
-Juvenile involved in plot to attack taylor swift concert gets suspended sentence in germany" }
-Trtnnsedpertc@{ shape: win-pane, label: "_Published Aug 08, 2024, 05:51 AM_
-Taylor swift’s vienna concerts cancelled due to planned terrorist attack" }
-Iyhwonofeotreua@{ shape: win-pane, label: "_Published Aug 08, 2024, 02:39 AM_
-Isis sympathiser with focus on taylor swift’s vienna concerts is arrested in austria" }
-TcdnsiBiliytestd@{ shape: win-pane, label: "_Published Jul 30, 2024, 08:04 PM_
-Third child dies in mass stabbing in britain; taylor swift says victims ‘were just little kids’" }
-Thwutpiywotclrt@{ shape: win-pane, label: "_Published Jul 25, 2025, 09:14 PM_
-Teen who knew man suspected of planning taylor swift concert attack jailed for isis ties" }
-Trtoetogfuaot@{ shape: win-pane, label: "_Published Oct 09, 2024, 06:59 PM_
-Taylor swift got police escort for london gigs after austria terror plot" }
-IteeiaTrtcte@{ shape: win-pane, label: "_Published Aug 09, 2024, 04:31 PM_
-Iraqi teen detained in vienna after taylor swift attack plot foiled" }
-
-SnaedIitro:::txtsize --> Scscefomrhi:::txtsize
-Scscefomrhi:::txtsize --> Gnrtarwuortay:::txtsize
-Gnrtarwuortay:::txtsize --> Gnglsiftrt:::txtsize
-Gnrtarwuortay:::txtsize --> Eialadpirorhr:::txtsize
-Scscefomrhi:::txtsize --> TrhigeigvesIleint:::txtsize
-TrhigeigvesIleint:::txtsize --> TrhigeaisHciD:::txtsize
-TrhigeigvesIleint:::txtsize --> Fgtsoaaarnr:::txtsize
-SnaedIitro:::txtsize --> JivdotTrtetpdena:::txtsize
-JivdotTrtetpdena:::txtsize --> Trtnnsedpertc:::txtsize
-Trtnnsedpertc:::txtsize --> Iyhwonofeotreua:::txtsize
-Trtnnsedpertc:::txtsize --> TcdnsiBiliytestd:::txtsize
-JivdotTrtetpdena:::txtsize --> Thwutpiywotclrt:::txtsize
-Thwutpiywotclrt:::txtsize --> Trtoetogfuaot:::txtsize
-Thwutpiywotclrt:::txtsize --> IteeiaTrtcte:::txtsize
-
+Ilietdnraubaa@{ shape: win-pane, label: "_Published Nov 05, 2025, 03:47 AM_
+Israel says it received the body of another deceased buried by hamas in gaza" }
+Hhohosbsr@{ shape: win-pane, label: "_Published Nov 03, 2025, 03:55 AM_
+Hamas hands over three more hostage bodies to israel" }
+Ililezirlocln@{ shape: win-pane, label: "_Published Nov 02, 2025, 11:01 PM_
+Israeli strike kills one in gaza as sides trade blame for truce violations" }
+IliezatHtdtrda@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:40 PM_
+Israeli strikes test gaza’s fragile truce, hamas to hand over two more dead hostages" }
+Cfonaoteervta@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:44 PM_
+Ceasefire holds in gaza ahead of hostage release and trump’s visit to israel" }
+IliezatHtdtrda@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:40 PM_
+Israeli strikes test gaza’s fragile truce, hamas to hand over two more dead hostages" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Vasoaersiam@{ shape: win-pane, label: "_Published Oct 30, 2025, 09:55 AM_
+Video analysis shows staged recovery of israeli hostage remains" }
 Noeoagatmdca@{ shape: win-pane, label: "_Published Nov 04, 2025, 11:02 PM_
 Not enough tents, food reaching gaza as winter comes, aid agencies say" }
 Ulfezsrda@{ shape: win-pane, label: "_Published Aug 22, 2025, 03:02 PM_
 Un declares famine in gaza; first ever in middle east" }
 Ilgqielfrn@{ shape: win-pane, label: "_Published Jul 29, 2025, 06:14 PM_
 Israelis begin to question the morality of their war in gaza" }
-FeaoGalhrt@{ shape: win-pane, label: "_Published Jul 29, 2025, 04:13 PM_
-Famine is ‘playing out’ in gaza, warns global hunger monitor" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
 Ilbeagssayenaa@{ shape: win-pane, label: "_Published Aug 18, 2025, 03:50 PM_
 Israel deliberately starving gaza’s palestinians, says amnesty international" }
-Ateiaealteoasasa@{ shape: win-pane, label: "_Published Apr 29, 2025, 01:20 PM_
-Amnesty international accuses israel of ‘live-streamed genocide’ against gaza palestinians" }
-Tdfadmliwoods@{ shape: win-pane, label: "_Published Aug 14, 2025, 01:38 AM_
-Turned back from gaza, aid shipments languish in warehouses, on roadsides" }
 MoaGusln@{ shape: win-pane, label: "_Published Oct 29, 2025, 10:00 AM_
 More food reaches gaza, but it is still not enough" }
 Tdrzooetum@{ shape: win-pane, label: "_Published Oct 13, 2025, 05:59 AM_
 Trump declares gaza war ‘over’; hostages due to return home" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
 
+Ilietdnraubaa:::txtsize --> Hhohosbsr:::txtsize
+Hhohosbsr:::txtsize --> Ililezirlocln:::txtsize
+Ililezirlocln:::txtsize --> IliezatHtdtrda:::txtsize
+Ililezirlocln:::txtsize --> Cfonaoteervta:::txtsize
+Hhohosbsr:::txtsize --> IliezatHtdtrda:::txtsize
+IliezatHtdtrda:::txtsize --> NyeeawHakl:::txtsize
+IliezatHtdtrda:::txtsize --> Vasoaersiam:::txtsize
+Ilietdnraubaa:::txtsize --> Noeoagatmdca:::txtsize
 Noeoagatmdca:::txtsize --> Ulfezsrda:::txtsize
 Ulfezsrda:::txtsize --> Ilgqielfrn:::txtsize
-Ilgqielfrn:::txtsize --> FeaoGalhrt:::txtsize
-Ilgqielfrn:::txtsize --> NyeeawHakl:::txtsize
 Ulfezsrda:::txtsize --> Ilbeagssayenaa:::txtsize
-Ilbeagssayenaa:::txtsize --> Ateiaealteoasasa:::txtsize
-Ilbeagssayenaa:::txtsize --> Tdfadmliwoods:::txtsize
 Noeoagatmdca:::txtsize --> MoaGusln:::txtsize
 MoaGusln:::txtsize --> Tdrzooetum:::txtsize
-Tdrzooetum:::txtsize --> AtHfezerydatoGel:::txtsize
 
-Esumwepetrake@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:52 PM_
-Eu says it could admit new members by 2030, praises montenegro, albania, ukraine" }
-UnmdasuumnoCsds@{ shape: win-pane, label: "_Published Nov 04, 2025, 03:27 AM_
-Ukraine committed to eu accession but should do more on rule of law, commission draft says" }
-Lknitutytfn@{ shape: win-pane, label: "_Published Jul 22, 2025, 11:23 PM_
-Lawmakers in ukraine vote to curb autonomy of anti-graft agencies" }
-Undwpshroiunc@{ shape: win-pane, label: "_Published Jul 22, 2025, 04:58 AM_
-Ukraine conducts widespread searches, arrests of anti-corruption officials" }
-Undwpshroiunc@{ shape: win-pane, label: "_Published Jul 22, 2025, 04:58 AM_
-Ukraine conducts widespread searches, arrests of anti-corruption officials" }
-Unlyoiaeiddoiune@{ shape: win-pane, label: "_Published Jul 24, 2025, 09:39 PM_
-Ukraine’s zelensky approves bill draft ‘preserving independence’ of anti-corruption bodies" }
-Unbiuncpnee@{ shape: win-pane, label: "_Published Jul 23, 2025, 08:23 AM_
-Ukraine curbs anti-corruption agencies, sparking rare protests" }
-Undwpshroiunc@{ shape: win-pane, label: "_Published Jul 22, 2025, 04:58 AM_
-Ukraine conducts widespread searches, arrests of anti-corruption officials" }
-Unerpfsroaeks@{ shape: win-pane, label: "_Published Nov 04, 2025, 01:57 AM_
-Ukraine to set up arms export offices in berlin, copenhagen, zelensky says" }
-RairdirorUnsnhn@{ shape: win-pane, label: "_Published Nov 03, 2025, 11:56 PM_
-Russia says its forces advancing in ruins of pokrovsk; ukraine says defenders holding on" }
-RaaeeUnsirMt@{ shape: win-pane, label: "_Published Nov 02, 2025, 03:00 PM_
-Russia threat extends beyond ukraine, says finnish foreign minister" }
-Tsohfrfw@{ shape: win-pane, label: "_Published Nov 03, 2025, 09:11 AM_
-Trump says no tomahawks for ukraine, for now" }
-RaaeeUnsirMt@{ shape: win-pane, label: "_Published Nov 02, 2025, 03:00 PM_
-Russia threat extends beyond ukraine, says finnish foreign minister" }
-Eeieppoaprored@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
-Europe, ukraine prepare 12-point plan to end war, propose trump to chair peace board" }
-SpnchEeaotta@{ shape: win-pane, label: "_Published Sep 26, 2025, 12:35 PM_
-Singapore inks pact with four european states to boost digital trade" }
+TnsynadSlo@{ shape: win-pane, label: "_Published Nov 05, 2025, 03:46 AM_
+Two men arrested by fbi in harvard medical school explosion" }
+ItlotltadSlcs@{ shape: win-pane, label: "_Published Nov 02, 2025, 11:43 AM_
+‘intentional’ explosion took place at harvard medical school, officials say" }
+TsrgTsadeyneodcg@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:20 AM_
+‘their sins are forgiven’: trump says harvard university to run ‘trade schools’ under upcoming deal" }
+TaiteoHrllfad@{ shape: win-pane, label: "_Published Sep 30, 2025, 07:47 AM_
+Trump administration seeks to make harvard ineligible for federal funding" }
+GngcoetnooT@{ shape: win-pane, label: "_Published Sep 29, 2025, 09:25 AM_
+Give in or fight back? us colleges are torn on how to respond to trump" }
+Hrdnlnyinnar@{ shape: win-pane, label: "_Published Oct 17, 2025, 03:05 AM_
+Harvard’s endowment swells to nearly $74 billion; donations hit a record" }
+TaiteHruertdaeseo@{ shape: win-pane, label: "_Published Aug 01, 2025, 04:14 AM_
+Trump administration refers harvard to justice department to address anti-semitism allegations" }
+BUrrtiuasaat@{ shape: win-pane, label: "_Published Oct 16, 2025, 07:00 AM_
+Brown university rejects a white house deal for special treatment" }
+Hrdnlnyinnar@{ shape: win-pane, label: "_Published Oct 17, 2025, 03:05 AM_
+Harvard’s endowment swells to nearly $74 billion; donations hit a record" }
+TaiteHruertdaeseo@{ shape: win-pane, label: "_Published Aug 01, 2025, 04:14 AM_
+Trump administration refers harvard to justice department to address anti-semitism allegations" }
+BUrmawhtseei@{ shape: win-pane, label: "_Published Jul 31, 2025, 08:05 AM_
+Brown university makes a deal with the white house to restore funding" }
+WHsfftnssrme@{ shape: win-pane, label: "_Published Jul 26, 2025, 07:39 AM_
+White house seeks fines from other universities after columbia deal" }
+BUrrtiuasaat@{ shape: win-pane, label: "_Published Oct 16, 2025, 07:00 AM_
+Brown university rejects a white house deal for special treatment" }
+TosoeftugrtM@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:00 AM_
+Trump offers all colleges preferential funding plan rejected by mit" }
+BbetnssugtsT@{ shape: win-pane, label: "_Published Aug 05, 2025, 08:59 AM_
+Badly bruised elite us universities are rushing to cut deals with trump" }
 
-Esumwepetrake:::txtsize --> UnmdasuumnoCsds:::txtsize
-UnmdasuumnoCsds:::txtsize --> Lknitutytfn:::txtsize
-Lknitutytfn:::txtsize --> Undwpshroiunc:::txtsize
-Lknitutytfn:::txtsize --> Undwpshroiunc:::txtsize
-UnmdasuumnoCsds:::txtsize --> Unlyoiaeiddoiune:::txtsize
-Unlyoiaeiddoiune:::txtsize --> Unbiuncpnee:::txtsize
-Unlyoiaeiddoiune:::txtsize --> Undwpshroiunc:::txtsize
-Esumwepetrake:::txtsize --> Unerpfsroaeks:::txtsize
-Unerpfsroaeks:::txtsize --> RairdirorUnsnhn:::txtsize
-RairdirorUnsnhn:::txtsize --> RaaeeUnsirMt:::txtsize
-RairdirorUnsnhn:::txtsize --> Tsohfrfw:::txtsize
-Unerpfsroaeks:::txtsize --> RaaeeUnsirMt:::txtsize
-RaaeeUnsirMt:::txtsize --> Eeieppoaprored:::txtsize
-RaaeeUnsirMt:::txtsize --> SpnchEeaotta:::txtsize
+TnsynadSlo:::txtsize --> ItlotltadSlcs:::txtsize
+ItlotltadSlcs:::txtsize --> TsrgTsadeyneodcg:::txtsize
+TsrgTsadeyneodcg:::txtsize --> TaiteoHrllfad:::txtsize
+TsrgTsadeyneodcg:::txtsize --> GngcoetnooT:::txtsize
+ItlotltadSlcs:::txtsize --> Hrdnlnyinnar:::txtsize
+Hrdnlnyinnar:::txtsize --> TaiteHruertdaeseo:::txtsize
+Hrdnlnyinnar:::txtsize --> BUrrtiuasaat:::txtsize
+TnsynadSlo:::txtsize --> Hrdnlnyinnar:::txtsize
+Hrdnlnyinnar:::txtsize --> TaiteHruertdaeseo:::txtsize
+TaiteHruertdaeseo:::txtsize --> BUrmawhtseei:::txtsize
+TaiteHruertdaeseo:::txtsize --> WHsfftnssrme:::txtsize
+Hrdnlnyinnar:::txtsize --> BUrrtiuasaat:::txtsize
+BUrrtiuasaat:::txtsize --> TosoeftugrtM:::txtsize
+BUrrtiuasaat:::txtsize --> BbetnssugtsT:::txtsize
+
+Tttohodcsrsuor@{ shape: win-pane, label: "_Published Nov 05, 2025, 03:24 AM_
+Trump threatens to withhold food aid as us cities, nonprofits ask judge to intervene" }
+Uentesraosactt@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:47 PM_
+Us government shutdown enters record 35th day as congressional inaction takes toll" }
+Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
+Us government begins shutdown that may lead to mass layoffs and cuts" }
+TsSrtpbun@{ shape: win-pane, label: "_Published Oct 01, 2025, 01:49 AM_
+Trump says us government will ‘probably’ shut down" }
+MoAcoedaromhwmirn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:30 AM_
+Millions of americans to get reduced food aid during government shutdown: trump administration" }
+Uentesnknih@{ shape: win-pane, label: "_Published Oct 06, 2025, 09:01 PM_
+Us government shutdown enters second week with no end in sight" }
+Frmognsonpewei@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:32 AM_
+For first time in long us government shutdown, hints of progress toward reopening" }
+Soyecsictoiess@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:13 AM_
+Shutdown may force us to close some air space next week, official sees ‘mass chaos’" }
+Mhftasrcrssi@{ shape: win-pane, label: "_Published Oct 27, 2025, 12:35 PM_
+More than 8,000 us flights delayed as air traffic control absences persist" }
+Sisaeaithws@{ shape: win-pane, label: "_Published Oct 07, 2025, 07:49 AM_
+Staffing issues cause delays at us airports as shutdown persists" }
+Utdohisig@{ shape: win-pane, label: "_Published Oct 27, 2025, 10:30 AM_
+Us govt shutdown poker: which side has the winning hand?" }
+Lfrcrrssfjarient@{ shape: win-pane, label: "_Published Nov 01, 2025, 12:45 PM_
+Lack of air traffic controllers hits almost half of major us airports amid government shutdown" }
+Mhftasrcrssi@{ shape: win-pane, label: "_Published Oct 27, 2025, 12:35 PM_
+More than 8,000 us flights delayed as air traffic control absences persist" }
+Waswhomhw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:42 PM_
+What happens next with the us government shutdown?" }
+
+Tttohodcsrsuor:::txtsize --> Uentesraosactt:::txtsize
+Uentesraosactt:::txtsize --> Ueniunmaayat:::txtsize
+Ueniunmaayat:::txtsize --> TsSrtpbun:::txtsize
+Uentesraosactt:::txtsize --> MoAcoedaromhwmirn:::txtsize
+MoAcoedaromhwmirn:::txtsize --> Uentesnknih:::txtsize
+MoAcoedaromhwmirn:::txtsize --> Frmognsonpewei:::txtsize
+Tttohodcsrsuor:::txtsize --> Soyecsictoiess:::txtsize
+Soyecsictoiess:::txtsize --> Mhftasrcrssi:::txtsize
+Mhftasrcrssi:::txtsize --> Sisaeaithws:::txtsize
+Mhftasrcrssi:::txtsize --> Utdohisig:::txtsize
+Soyecsictoiess:::txtsize --> Lfrcrrssfjarient:::txtsize
+Lfrcrrssfjarient:::txtsize --> Mhftasrcrssi:::txtsize
+Lfrcrrssfjarient:::txtsize --> Waswhomhw:::txtsize
 
 ```
-<i>Last updated: 2025-11-05 00:00:38.528857 (GMT+8)</i>
+<i>Last updated: 2025-11-05 04:01:05.083459 (GMT+8)</i>
 <!-- END -->
