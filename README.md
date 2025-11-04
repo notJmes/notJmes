@@ -16,8 +16,54 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Mraoocdrnteywdy@{ shape: win-pane, label: "_Published Nov 04, 2025, 11:26 AM_
-Most trump ballroom donors received federal contracts in recent years, watchdog says" }
+Eanaoemor@{ shape: win-pane, label: "_Published Nov 04, 2025, 02:07 PM_
+Eu in last-minute talks to set new climate goal for cop30" }
+EnstctlPs@{ shape: win-pane, label: "_Published Oct 31, 2025, 08:46 PM_
+Eu countries split over 2040 climate goal as cop30 looms" }
+Edednnig@{ shape: win-pane, label: "_Published Oct 24, 2025, 02:55 AM_
+Eu leaders set conditions for new climate goal" }
+Ctpoaiostwhf@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:09 AM_
+Climate tipping points are being crossed, scientists warn ahead of cop30" }
+HpscroepCist@{ shape: win-pane, label: "_Published Oct 03, 2025, 10:50 PM_
+Hotel prices make countries consider skipping cop30 climate summit" }
+Etsidiiedi@{ shape: win-pane, label: "_Published Sep 18, 2025, 06:51 PM_
+Eu set to miss un climate deadline amid internal divisions" }
+OftholnCcttvr@{ shape: win-pane, label: "_Published Sep 18, 2025, 03:10 AM_
+Only 40% of countries have booked lodging for cop30 un climate meet in november" }
+Sutatsraoe@{ shape: win-pane, label: "_Published Sep 05, 2025, 11:00 AM_
+‘sleep under the stars’: hotel mess in brazil ahead of un meet" }
+SlWewsatbtist@{ shape: win-pane, label: "_Published Nov 03, 2025, 05:00 AM_
+St explains: why are renewables not easy to talk about at un climate summits?" }
+WffkemoN@{ shape: win-pane, label: "_Published Oct 28, 2025, 05:25 PM_
+World far off track to meet climate goals: un" }
+wetadfamcia@{ shape: win-pane, label: "_Published Jan 10, 2025, 11:07 AM_
+2024 was the first year above 1.5 deg c of global warming, scientists say" }
+Ntnosager@{ shape: win-pane, label: "_Published Oct 13, 2025, 11:10 AM_
+Not nothing, not enough: is the paris agreement working?" }
+Cueerranthof@{ shape: win-pane, label: "_Published Dec 02, 2023, 03:17 PM_
+Cop28: 118 countries agree to triple renewable energy to push out fossil fuels" }
+WlrdtaUma@{ shape: win-pane, label: "_Published Dec 01, 2023, 08:00 PM_
+World leaders pledge action, cash at un climate talks" }
+Cettlhsde@{ shape: win-pane, label: "_Published Nov 30, 2023, 09:31 PM_
+Cop28 opens with ‘historic’ launch of loss and damage fund" }
+
+Eanaoemor:::txtsize --> EnstctlPs:::txtsize
+EnstctlPs:::txtsize --> Edednnig:::txtsize
+Edednnig:::txtsize --> Ctpoaiostwhf:::txtsize
+Edednnig:::txtsize --> HpscroepCist:::txtsize
+EnstctlPs:::txtsize --> Etsidiiedi:::txtsize
+Etsidiiedi:::txtsize --> OftholnCcttvr:::txtsize
+Etsidiiedi:::txtsize --> Sutatsraoe:::txtsize
+Eanaoemor:::txtsize --> SlWewsatbtist:::txtsize
+SlWewsatbtist:::txtsize --> WffkemoN:::txtsize
+WffkemoN:::txtsize --> wetadfamcia:::txtsize
+WffkemoN:::txtsize --> Ntnosager:::txtsize
+SlWewsatbtist:::txtsize --> Cueerranthof:::txtsize
+Cueerranthof:::txtsize --> WlrdtaUma:::txtsize
+Cueerranthof:::txtsize --> Cettlhsde:::txtsize
+
+Mraoovefatsceao@{ shape: win-pane, label: "_Published Nov 04, 2025, 11:26 AM_
+Most trump ballroom donors have received federal contracts in recent years: watchdog" }
 Tsruitaopci@{ shape: win-pane, label: "_Published Oct 26, 2025, 10:32 PM_
 Trump’s ballroom fundraising taps cash from crypto, tech allies" }
 Thdreyrhoao@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:50 PM_
@@ -47,14 +93,14 @@ Trump seeks to build a triumphal arch in washington for nation’s 250th birthda
 Tstliahstrobd@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:45 PM_
 Trump seeks to build a triumphal arch in washington for nation’s 250th birthday" }
 
-Mraoocdrnteywdy:::txtsize --> Tsruitaopci:::txtsize
+Mraoovefatsceao:::txtsize --> Tsruitaopci:::txtsize
 Tsruitaopci:::txtsize --> Thdreyrhoao:::txtsize
 Thdreyrhoao:::txtsize --> Ybalolmousu:::txtsize
 Thdreyrhoao:::txtsize --> TttCosneetsd:::txtsize
 Tsruitaopci:::txtsize --> DibsrhoanTbo:::txtsize
 DibsrhoanTbo:::txtsize --> Tstliahstrobd:::txtsize
 DibsrhoanTbo:::txtsize --> Tstliahstrobd:::txtsize
-Mraoocdrnteywdy:::txtsize --> OtDrobgtpledle:::txtsize
+Mraoovefatsceao:::txtsize --> OtDrobgtpledle:::txtsize
 OtDrobgtpledle:::txtsize --> Ttfevhniiiss:::txtsize
 Ttfevhniiiss:::txtsize --> Tspaspadanop:::txtsize
 Ttfevhniiiss:::txtsize --> OiaeqsenonBoH:::txtsize
@@ -99,49 +145,6 @@ Frmognsonpewei:::txtsize --> Uentesnknih:::txtsize
 Uentesnknih:::txtsize --> TpsrohgtBstutw:::txtsize
 Uentesnknih:::txtsize --> Waswhomhw:::txtsize
 
-Ilrlnotanaieia@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:10 AM_
-Israel returns 45 palestinian bodies to gaza, taking total to 270 since ceasefire deal" }
-Hhohosbsr@{ shape: win-pane, label: "_Published Nov 03, 2025, 03:55 AM_
-Hamas hands over three more hostage bodies to israel" }
-Ililezirlocln@{ shape: win-pane, label: "_Published Nov 02, 2025, 11:01 PM_
-Israeli strike kills one in gaza as sides trade blame for truce violations" }
-IliezatHtdtrda@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:40 PM_
-Israeli strikes test gaza’s fragile truce, hamas to hand over two more dead hostages" }
-Cfonaoteervta@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:44 PM_
-Ceasefire holds in gaza ahead of hostage release and trump’s visit to israel" }
-IliezatHtdtrda@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:40 PM_
-Israeli strikes test gaza’s fragile truce, hamas to hand over two more dead hostages" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Vasoaersiam@{ shape: win-pane, label: "_Published Oct 30, 2025, 09:55 AM_
-Video analysis shows staged recovery of israeli hostage remains" }
-Heaeeetetbtea@{ shape: win-pane, label: "_Published Nov 03, 2025, 05:02 PM_
-Haunted by war, some israelis hesitate to return to kibbutz attacked by hamas" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
-Peace finally descends on the middle east: now the battle to make it last begins" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-
-Ilrlnotanaieia:::txtsize --> Hhohosbsr:::txtsize
-Hhohosbsr:::txtsize --> Ililezirlocln:::txtsize
-Ililezirlocln:::txtsize --> IliezatHtdtrda:::txtsize
-Ililezirlocln:::txtsize --> Cfonaoteervta:::txtsize
-Hhohosbsr:::txtsize --> IliezatHtdtrda:::txtsize
-IliezatHtdtrda:::txtsize --> NyeeawHakl:::txtsize
-IliezatHtdtrda:::txtsize --> Vasoaersiam:::txtsize
-Ilrlnotanaieia:::txtsize --> Heaeeetetbtea:::txtsize
-Heaeeetetbtea:::txtsize --> Tdrcaaededlncbs:::txtsize
-Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
-Heaeeetetbtea:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-
 ```
-<i>Last updated: 2025-11-04 12:01:00.724703 (GMT+8)</i>
+<i>Last updated: 2025-11-04 16:00:41.848173 (GMT+8)</i>
 <!-- END -->
