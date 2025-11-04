@@ -16,123 +16,105 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-UnmdasuumnoCsds@{ shape: win-pane, label: "_Published Nov 04, 2025, 03:27 AM_
-Ukraine committed to eu accession but should do more on rule of law, commission draft says" }
-Lknitutytfn@{ shape: win-pane, label: "_Published Jul 22, 2025, 11:23 PM_
-Lawmakers in ukraine vote to curb autonomy of anti-graft agencies" }
-Undwpshroiunc@{ shape: win-pane, label: "_Published Jul 22, 2025, 04:58 AM_
-Ukraine conducts widespread searches, arrests of anti-corruption officials" }
-Zsyautdeaneu@{ shape: win-pane, label: "_Published Jul 22, 2025, 03:02 AM_
-Zelensky says ukraine, russia to hold new peace talks in turkey on july 23" }
-Bildiar@{ shape: win-pane, label: "_Published Jul 21, 2025, 10:45 PM_
-Britain calls for 50-day drive to arm ukraine" }
-Undwpshroiunc@{ shape: win-pane, label: "_Published Jul 22, 2025, 04:58 AM_
-Ukraine conducts widespread searches, arrests of anti-corruption officials" }
-Zsyautdeaneu@{ shape: win-pane, label: "_Published Jul 22, 2025, 03:02 AM_
-Zelensky says ukraine, russia to hold new peace talks in turkey on july 23" }
-Bildiar@{ shape: win-pane, label: "_Published Jul 21, 2025, 10:45 PM_
-Britain calls for 50-day drive to arm ukraine" }
-Unlyoiaeiddoiune@{ shape: win-pane, label: "_Published Jul 24, 2025, 09:39 PM_
-Ukraine’s zelensky approves bill draft ‘preserving independence’ of anti-corruption bodies" }
-Unbiuncpnee@{ shape: win-pane, label: "_Published Jul 23, 2025, 08:23 AM_
-Ukraine curbs anti-corruption agencies, sparking rare protests" }
-Lknitutytfn@{ shape: win-pane, label: "_Published Jul 22, 2025, 11:23 PM_
-Lawmakers in ukraine vote to curb autonomy of anti-graft agencies" }
-Undwpshroiunc@{ shape: win-pane, label: "_Published Jul 22, 2025, 04:58 AM_
-Ukraine conducts widespread searches, arrests of anti-corruption officials" }
-Undwpshroiunc@{ shape: win-pane, label: "_Published Jul 22, 2025, 04:58 AM_
-Ukraine conducts widespread searches, arrests of anti-corruption officials" }
-Zsyautdeaneu@{ shape: win-pane, label: "_Published Jul 22, 2025, 03:02 AM_
-Zelensky says ukraine, russia to hold new peace talks in turkey on july 23" }
-Bildiar@{ shape: win-pane, label: "_Published Jul 21, 2025, 10:45 PM_
-Britain calls for 50-day drive to arm ukraine" }
+Fruetitemra@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:19 AM_
+Fbi fires four more agents who investigated trump, sources say" }
+SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
+Storming of us capitol: timeline of key events in washington" }
+peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
+4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
+HafdoptdSt@{ shape: win-pane, label: "_Published Jan 07, 2021, 10:03 AM_
+How chaos unfolded as pro-trump mob stormed the us capitol" }
+Umsuichcnncclet@{ shape: win-pane, label: "_Published Jan 07, 2021, 10:06 AM_
+Us lawmakers denounce violence as they reconvene to announce electoral college votes" }
+Freieedgatrt@{ shape: win-pane, label: "_Published Sep 27, 2025, 01:15 PM_
+Fbi fires agents pictured kneeling during racial justice protest in 2020" }
+Tttenadcm@{ shape: win-pane, label: "_Published Sep 27, 2025, 10:12 AM_
+Trump targets more opponents after ‘dirty cop’ comey" }
+Frhorahdurcc@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:10 AM_
+Former fbi chief comey criminally charged as trump targets critics" }
+TpcgJcanhhe@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:36 AM_
+Trump publicly urges us justice department to charge his enemies" }
+Citearcicoisgp@{ shape: win-pane, label: "_Published Sep 27, 2025, 04:47 AM_
+Comey indictment escalates trump’s campaign to chill opposition, say legal experts" }
+Frhorahdurcc@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:10 AM_
+Former fbi chief comey criminally charged as trump targets critics" }
+Utemugwhsnuonncys@{ shape: win-pane, label: "_Published Sep 26, 2025, 05:58 AM_
+Us justice department pushing for swift charges against trump’s former national security adviser" }
 
-UnmdasuumnoCsds:::txtsize --> Lknitutytfn:::txtsize
-Lknitutytfn:::txtsize --> Undwpshroiunc:::txtsize
-Undwpshroiunc:::txtsize --> Zsyautdeaneu:::txtsize
-Undwpshroiunc:::txtsize --> Bildiar:::txtsize
-Lknitutytfn:::txtsize --> Undwpshroiunc:::txtsize
-Undwpshroiunc:::txtsize --> Zsyautdeaneu:::txtsize
-Undwpshroiunc:::txtsize --> Bildiar:::txtsize
-UnmdasuumnoCsds:::txtsize --> Unlyoiaeiddoiune:::txtsize
-Unlyoiaeiddoiune:::txtsize --> Unbiuncpnee:::txtsize
-Unbiuncpnee:::txtsize --> Lknitutytfn:::txtsize
-Unbiuncpnee:::txtsize --> Undwpshroiunc:::txtsize
-Unlyoiaeiddoiune:::txtsize --> Undwpshroiunc:::txtsize
-Undwpshroiunc:::txtsize --> Zsyautdeaneu:::txtsize
-Undwpshroiunc:::txtsize --> Bildiar:::txtsize
+Fruetitemra:::txtsize --> SiUiinenWn:::txtsize
+SiUiinenWn:::txtsize --> peapubmalrest:::txtsize
+peapubmalrest:::txtsize --> HafdoptdSt:::txtsize
+peapubmalrest:::txtsize --> Umsuichcnncclet:::txtsize
+Fruetitemra:::txtsize --> Freieedgatrt:::txtsize
+Freieedgatrt:::txtsize --> Tttenadcm:::txtsize
+Tttenadcm:::txtsize --> Frhorahdurcc:::txtsize
+Tttenadcm:::txtsize --> TpcgJcanhhe:::txtsize
+Freieedgatrt:::txtsize --> Citearcicoisgp:::txtsize
+Citearcicoisgp:::txtsize --> Frhorahdurcc:::txtsize
+Citearcicoisgp:::txtsize --> Utemugwhsnuonncys:::txtsize
 
-Rigslewrpdleit@{ shape: win-pane, label: "_Published Nov 04, 2025, 02:48 AM_
-Rome firefighters battle to rescue worker trapped under collapsed medieval tower" }
-WruniledlrRCs@{ shape: win-pane, label: "_Published Nov 03, 2025, 08:57 PM_
-Workers injured in partial collapse of medieval tower near rome’s colosseum" }
-Esnysebridgcd@{ shape: win-pane, label: "_Published Oct 14, 2025, 04:44 PM_
-Explosion in italy kills three carabinieri officers during police raid" }
-Tpechaweelael@{ shape: win-pane, label: "_Published Sep 18, 2025, 07:35 AM_
-Three police officers shot dead, two wounded in pennsylvania; suspect killed" }
-yleapeitneteoe@{ shape: win-pane, label: "_Published Sep 08, 2025, 03:26 PM_
-16-year-old arrested after police station attack in turkey that killed two officers" }
-Baluparktjn@{ shape: win-pane, label: "_Published Dec 10, 2024, 12:12 AM_
-Blast at italian fuel depot near florence kills two, injures nine" }
-Uatesie@{ shape: win-pane, label: "_Published Oct 23, 2024, 01:36 AM_
-Uganda fuel truck explosion kills 11 people" }
-EnleaesigmVuies@{ shape: win-pane, label: "_Published Nov 19, 2024, 02:31 AM_
-Eleven people arrested after explosion, fire at gas complex, venezuela minister says" }
-FesounlsnMd@{ shape: win-pane, label: "_Published Oct 08, 2025, 02:52 PM_
-Four dead as six-storey building collapses in central madrid" }
-Hfeitebsrono@{ shape: win-pane, label: "_Published Oct 07, 2025, 10:41 AM_
-Hanoi flooded again as storm season brings more rain to vietnam’s north" }
-Tolalennnlutci@{ shape: win-pane, label: "_Published Oct 03, 2025, 12:45 PM_
-Typhoon bualoi death toll rises to 51 in vietnam, banks told to support affected firms" }
-RrpBideaitnt@{ shape: win-pane, label: "_Published Sep 30, 2025, 10:04 AM_
-Rain from typhoon bualoi floods homes in hanoi, disrupts transport" }
-Wrshndrilcp@{ shape: win-pane, label: "_Published Oct 07, 2025, 09:13 PM_
-Workers missing, three injured after madrid building collapse" }
-Ieccpalsan@{ shape: win-pane, label: "_Published Oct 07, 2025, 12:47 PM_
-Indonesia school collapse death toll hits 67 as search ends" }
-Dtrdihoseecn@{ shape: win-pane, label: "_Published Oct 06, 2025, 09:41 AM_
-Death toll from indonesian school collapse rises to 65, search continues" }
+TbCttouoYiMns@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:15 AM_
+Trump backs cuomo, threatens to cut funds for new york city if mamdani wins" }
+OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
+Obama calls mamdani, praises campaign ahead of new york mayoral election" }
+UritadtoctCimam@{ shape: win-pane, label: "_Published Jun 25, 2025, 04:10 PM_
+Upstart socialist zohran mamdani stuns political veteran cuomo in nyc mayoral primary" }
+IYalaospttimmk@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:15 PM_
+In new york mayoral primary, progressive upstart aims to spoil cuomo’s comeback bid" }
+IYalaospttimmk@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:15 PM_
+In new york mayoral primary, progressive upstart aims to spoil cuomo’s comeback bid" }
 
-Rigslewrpdleit:::txtsize --> WruniledlrRCs:::txtsize
-WruniledlrRCs:::txtsize --> Esnysebridgcd:::txtsize
-Esnysebridgcd:::txtsize --> Tpechaweelael:::txtsize
-Esnysebridgcd:::txtsize --> yleapeitneteoe:::txtsize
-WruniledlrRCs:::txtsize --> Baluparktjn:::txtsize
-Baluparktjn:::txtsize --> Uatesie:::txtsize
-Baluparktjn:::txtsize --> EnleaesigmVuies:::txtsize
-Rigslewrpdleit:::txtsize --> FesounlsnMd:::txtsize
-FesounlsnMd:::txtsize --> Hfeitebsrono:::txtsize
-Hfeitebsrono:::txtsize --> Tolalennnlutci:::txtsize
-Hfeitebsrono:::txtsize --> RrpBideaitnt:::txtsize
-FesounlsnMd:::txtsize --> Wrshndrilcp:::txtsize
-Wrshndrilcp:::txtsize --> Ieccpalsan:::txtsize
-Wrshndrilcp:::txtsize --> Dtrdihoseecn:::txtsize
+TbCttouoYiMns:::txtsize --> OcMniagaekren:::txtsize
+OcMniagaekren:::txtsize --> UritadtoctCimam:::txtsize
+UritadtoctCimam:::txtsize --> IYalaospttimmk:::txtsize
+UritadtoctCimam:::txtsize --> IYalaospttimmk:::txtsize
 
-Utaosvlrhar@{ shape: win-pane, label: "_Published Nov 04, 2025, 02:42 AM_
-Us wants un sanctions on seven vessels over north korea exports" }
-HtiZdlUoSK@{ shape: win-pane, label: "_Published Nov 03, 2025, 08:21 AM_
-Hegseth visits dmz ahead of talks on us troops in south korea" }
-SKUpemantfPyenm@{ shape: win-pane, label: "_Published Sep 24, 2025, 06:32 PM_
-South korea, us see progress on military control transfer as pyongyang tensions simmer" }
-AoolrtunsNK@{ shape: win-pane, label: "_Published Sep 24, 2025, 03:27 AM_
-At un, south korea’s leader vows to reduce tensions with north korea" }
-AoolrtunsNK@{ shape: win-pane, label: "_Published Sep 24, 2025, 03:27 AM_
-At un, south korea’s leader vows to reduce tensions with north korea" }
-Htsasttpengsh@{ shape: win-pane, label: "_Published Nov 01, 2025, 07:11 PM_
-Hegseth says us ready to share tools to help allies counter ‘aggressive’ china" }
-CstatelnrSCS@{ shape: win-pane, label: "_Published Nov 01, 2025, 02:01 PM_
-China’s military says it tracked philippine patrol in south china sea" }
-Tstotpottea@{ shape: win-pane, label: "_Published Oct 31, 2025, 01:51 AM_
-Trump stirs tensions with surprise order to test nuclear weapons" }
+Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
+Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
+FeaSbclelp@{ shape: win-pane, label: "_Published Nov 03, 2025, 08:50 PM_
+France threatens shein ban if ‘childlike’ sex dolls reappear" }
+CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
+China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
+SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
+Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
+Shtfbsrol@{ shape: win-pane, label: "_Published Oct 10, 2025, 08:00 AM_
+Shein, hit with big fines, boosts internal controls" }
+SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
+Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
+Seskmrirsich@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:53 PM_
+Shein enters bricks-and-mortar retail in france, sparking backlash" }
+Sfmin@{ shape: win-pane, label: "_Published Jul 10, 2025, 11:43 PM_
+Shein faces $200m fine in france" }
+CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
+China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
+SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
+Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
+Seskmrirsich@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:53 PM_
+Shein enters bricks-and-mortar retail in france, sparking backlash" }
+Sfmin@{ shape: win-pane, label: "_Published Jul 10, 2025, 11:43 PM_
+Shein faces $200m fine in france" }
+Shtfbsrol@{ shape: win-pane, label: "_Published Oct 10, 2025, 08:00 AM_
+Shein, hit with big fines, boosts internal controls" }
+Seskmrirsich@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:53 PM_
+Shein enters bricks-and-mortar retail in france, sparking backlash" }
+TlgsSbiite@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:43 AM_
+Temu plots aggressive us comeback with price cuts as deep as 60%" }
 
-Utaosvlrhar:::txtsize --> HtiZdlUoSK:::txtsize
-HtiZdlUoSK:::txtsize --> SKUpemantfPyenm:::txtsize
-SKUpemantfPyenm:::txtsize --> AoolrtunsNK:::txtsize
-SKUpemantfPyenm:::txtsize --> AoolrtunsNK:::txtsize
-HtiZdlUoSK:::txtsize --> Htsasttpengsh:::txtsize
-Htsasttpengsh:::txtsize --> CstatelnrSCS:::txtsize
-Htsasttpengsh:::txtsize --> Tstotpottea:::txtsize
+Sbelerncrdo:::txtsize --> FeaSbclelp:::txtsize
+FeaSbclelp:::txtsize --> CsnsdsloeoFhhoi:::txtsize
+CsnsdsloeoFhhoi:::txtsize --> SthirylerNsba:::txtsize
+CsnsdsloeoFhhoi:::txtsize --> Shtfbsrol:::txtsize
+FeaSbclelp:::txtsize --> SthirylerNsba:::txtsize
+SthirylerNsba:::txtsize --> Seskmrirsich:::txtsize
+SthirylerNsba:::txtsize --> Sfmin:::txtsize
+Sbelerncrdo:::txtsize --> CsnsdsloeoFhhoi:::txtsize
+CsnsdsloeoFhhoi:::txtsize --> SthirylerNsba:::txtsize
+SthirylerNsba:::txtsize --> Seskmrirsich:::txtsize
+SthirylerNsba:::txtsize --> Sfmin:::txtsize
+CsnsdsloeoFhhoi:::txtsize --> Shtfbsrol:::txtsize
+Shtfbsrol:::txtsize --> Seskmrirsich:::txtsize
+Shtfbsrol:::txtsize --> TlgsSbiite:::txtsize
 
 ```
-<i>Last updated: 2025-11-04 04:00:17.743093 (GMT+8)</i>
+<i>Last updated: 2025-11-04 08:00:38.179413 (GMT+8)</i>
 <!-- END -->
