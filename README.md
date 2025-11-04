@@ -16,135 +16,102 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Eanaoemor@{ shape: win-pane, label: "_Published Nov 04, 2025, 02:07 PM_
-Eu in last-minute talks to set new climate goal for cop30" }
-EnstctlPs@{ shape: win-pane, label: "_Published Oct 31, 2025, 08:46 PM_
-Eu countries split over 2040 climate goal as cop30 looms" }
-Edednnig@{ shape: win-pane, label: "_Published Oct 24, 2025, 02:55 AM_
-Eu leaders set conditions for new climate goal" }
-Ctpoaiostwhf@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:09 AM_
-Climate tipping points are being crossed, scientists warn ahead of cop30" }
-HpscroepCist@{ shape: win-pane, label: "_Published Oct 03, 2025, 10:50 PM_
-Hotel prices make countries consider skipping cop30 climate summit" }
-Etsidiiedi@{ shape: win-pane, label: "_Published Sep 18, 2025, 06:51 PM_
-Eu set to miss un climate deadline amid internal divisions" }
-OftholnCcttvr@{ shape: win-pane, label: "_Published Sep 18, 2025, 03:10 AM_
-Only 40% of countries have booked lodging for cop30 un climate meet in november" }
-Sutatsraoe@{ shape: win-pane, label: "_Published Sep 05, 2025, 11:00 AM_
-‘sleep under the stars’: hotel mess in brazil ahead of un meet" }
-SlWewsatbtist@{ shape: win-pane, label: "_Published Nov 03, 2025, 05:00 AM_
-St explains: why are renewables not easy to talk about at un climate summits?" }
-WffkemoN@{ shape: win-pane, label: "_Published Oct 28, 2025, 05:25 PM_
-World far off track to meet climate goals: un" }
-wetadfamcia@{ shape: win-pane, label: "_Published Jan 10, 2025, 11:07 AM_
-2024 was the first year above 1.5 deg c of global warming, scientists say" }
-Ntnosager@{ shape: win-pane, label: "_Published Oct 13, 2025, 11:10 AM_
-Not nothing, not enough: is the paris agreement working?" }
-Cueerranthof@{ shape: win-pane, label: "_Published Dec 02, 2023, 03:17 PM_
-Cop28: 118 countries agree to triple renewable energy to push out fossil fuels" }
-WlrdtaUma@{ shape: win-pane, label: "_Published Dec 01, 2023, 08:00 PM_
-World leaders pledge action, cash at un climate talks" }
-Cettlhsde@{ shape: win-pane, label: "_Published Nov 30, 2023, 09:31 PM_
-Cop28 opens with ‘historic’ launch of loss and damage fund" }
+Byuroesrmphdti@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:32 PM_
+Beauty influencer tattoos freckles on her face, move sparks heated debate online" }
+Moraaeitdahoeeae@{ shape: win-pane, label: "_Published Jun 09, 2025, 07:00 AM_
+More younger singaporeans are getting botox and collagen shots. how effective and safe are they?" }
+Winsriltmtoohi@{ shape: win-pane, label: "_Published Nov 26, 2024, 12:10 PM_
+Woman in china dies after a series of laser treatments to remove spots on her skin" }
+Mnsdhstpdrahnu@{ shape: win-pane, label: "_Published Nov 12, 2023, 05:00 AM_
+More unregistered aesthetics treatment providers probed amid thriving industry" }
+Wglfefrhtmieeeo@{ shape: win-pane, label: "_Published Sep 11, 2023, 08:17 PM_
+Woman goes blind after dermal filler aesthetic treatment; first reported case in s’pore" }
+NdoeaisdleawgbajA@{ shape: win-pane, label: "_Published Oct 12, 2023, 03:35 PM_
+No evidence of safety, quality issues with dermal filler in case of woman going blind after jab: hsa" }
+Bemsreyeseiauebimn@{ shape: win-pane, label: "_Published Sep 27, 2023, 09:20 AM_
+Botched cosmetic surgery allegedly leaves housewife dead in malaysia, unlicensed beautician missing" }
+Frhsoaioiptatt@{ shape: win-pane, label: "_Published Mar 08, 2022, 12:35 AM_
+Former aesthetics doctor pleads guilty to causing liposuction patient's death in 2009" }
 
-Eanaoemor:::txtsize --> EnstctlPs:::txtsize
-EnstctlPs:::txtsize --> Edednnig:::txtsize
-Edednnig:::txtsize --> Ctpoaiostwhf:::txtsize
-Edednnig:::txtsize --> HpscroepCist:::txtsize
-EnstctlPs:::txtsize --> Etsidiiedi:::txtsize
-Etsidiiedi:::txtsize --> OftholnCcttvr:::txtsize
-Etsidiiedi:::txtsize --> Sutatsraoe:::txtsize
-Eanaoemor:::txtsize --> SlWewsatbtist:::txtsize
-SlWewsatbtist:::txtsize --> WffkemoN:::txtsize
-WffkemoN:::txtsize --> wetadfamcia:::txtsize
-WffkemoN:::txtsize --> Ntnosager:::txtsize
-SlWewsatbtist:::txtsize --> Cueerranthof:::txtsize
-Cueerranthof:::txtsize --> WlrdtaUma:::txtsize
-Cueerranthof:::txtsize --> Cettlhsde:::txtsize
+Byuroesrmphdti:::txtsize --> Moraaeitdahoeeae:::txtsize
+Byuroesrmphdti:::txtsize --> Winsriltmtoohi:::txtsize
+Winsriltmtoohi:::txtsize --> Mnsdhstpdrahnu:::txtsize
+Mnsdhstpdrahnu:::txtsize --> Wglfefrhtmieeeo:::txtsize
+Mnsdhstpdrahnu:::txtsize --> NdoeaisdleawgbajA:::txtsize
+Winsriltmtoohi:::txtsize --> Bemsreyeseiauebimn:::txtsize
+Bemsreyeseiauebimn:::txtsize --> Frhsoaioiptatt:::txtsize
 
-Mraoovefatsceao@{ shape: win-pane, label: "_Published Nov 04, 2025, 11:26 AM_
-Most trump ballroom donors have received federal contracts in recent years: watchdog" }
-Tsruitaopci@{ shape: win-pane, label: "_Published Oct 26, 2025, 10:32 PM_
-Trump’s ballroom fundraising taps cash from crypto, tech allies" }
-Thdreyrhoao@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:50 PM_
-Trump hosts dinner for wealthy donors to white house ballroom" }
-Ybalolmousu@{ shape: win-pane, label: "_Published Sep 30, 2025, 07:26 AM_
-Youtube to pay $28 million to settle trump account suspension suit" }
-TttCosneetsd@{ shape: win-pane, label: "_Published Sep 04, 2025, 10:43 AM_
-Trump to host tech ceos for first event in newly renovated rose garden" }
-DibsrhoanTbo@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:35 AM_
-Demolition begins on part of white house east wing for trump ballroom" }
-Tstliahstrobd@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:45 PM_
-Trump seeks to build a triumphal arch in washington for nation’s 250th birthday" }
-Tstliahstrobd@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:45 PM_
-Trump seeks to build a triumphal arch in washington for nation’s 250th birthday" }
-OtDrobgtpledle@{ shape: win-pane, label: "_Published Nov 02, 2025, 08:51 AM_
-Obama tells democrats to push back against trump’s ‘lawlessness and recklessness’" }
-Ttfevhniiiss@{ shape: win-pane, label: "_Published Apr 03, 2025, 11:10 AM_
-Trump tariffs take aim everywhere, including uninhabited islands" }
-Tspaspadanop@{ shape: win-pane, label: "_Published Apr 03, 2025, 04:47 AM_
-Trump’s sweeping tariffs amp up global trade war as china, eu vow response" }
-OiaeqsenonBoH@{ shape: win-pane, label: "_Published Mar 28, 2025, 02:47 PM_
-Over 153 killed as powerful quake strikes myanmar, sows panic in bangkok and hanoi" }
-DibsrhoanTbo@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:35 AM_
-Demolition begins on part of white house east wing for trump ballroom" }
-Tstliahstrobd@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:45 PM_
-Trump seeks to build a triumphal arch in washington for nation’s 250th birthday" }
-Tstliahstrobd@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:45 PM_
-Trump seeks to build a triumphal arch in washington for nation’s 250th birthday" }
+FrcstCya@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:26 PM_
+Former us vice-president dick cheney dies at 84" }
+JCrevrSidt@{ shape: win-pane, label: "_Published Dec 30, 2024, 05:36 AM_
+Jimmy carter, longest-lived former us president, dies at 100" }
+JCrghnheSi@{ shape: win-pane, label: "_Published Dec 30, 2024, 05:26 AM_
+Jimmy carter’s biggest challenges while being us president" }
+JCrevrSidt@{ shape: win-pane, label: "_Published Dec 30, 2024, 05:36 AM_
+Jimmy carter, longest-lived former us president, dies at 100" }
+IdryonteomSfbdoes@{ shape: win-pane, label: "_Published Dec 27, 2024, 11:45 PM_
+India declares 7 days of mourning, state funeral for manmohan singh – force behind economic reforms" }
+BdiEiasileoreoa@{ shape: win-pane, label: "_Published Dec 30, 2024, 07:23 AM_
+Beyond the middle east, jimmy carter’s foreign policy decisions were fateful for asia" }
+JCrevrSidt@{ shape: win-pane, label: "_Published Dec 30, 2024, 05:36 AM_
+Jimmy carter, longest-lived former us president, dies at 100" }
+JCrevrSidt@{ shape: win-pane, label: "_Published Dec 30, 2024, 05:36 AM_
+Jimmy carter, longest-lived former us president, dies at 100" }
+NKsocohfeomie@{ shape: win-pane, label: "_Published Nov 04, 2025, 09:02 AM_
+North korea says former ceremonial head of state kim yong nam has died aged 97" }
+NKnaafearad@{ shape: win-pane, label: "_Published May 08, 2024, 08:30 AM_
+North korean propaganda chief who served all three leaders dies" }
+NKlrosoherfr@{ shape: win-pane, label: "_Published Apr 11, 2024, 06:00 AM_
+North korea leader kim jong un says now is the time to be ready for war: kcna" }
+NKncaineilo@{ shape: win-pane, label: "_Published Mar 28, 2023, 07:43 AM_
+North korean defectors are dying lonely deaths in wealthy south" }
+NKnilefrnde@{ shape: win-pane, label: "_Published Oct 20, 2025, 04:26 AM_
+North korean soldier held by seoul after crossing land border" }
+NKnutigsd@{ shape: win-pane, label: "_Published Aug 07, 2025, 01:05 PM_
+North korean rescued after swimming across border" }
+SKcffrcgyreroofr@{ shape: win-pane, label: "_Published Feb 19, 2025, 04:06 PM_
+South korea court finds former officials guilty of forcible return of north korean fishermen" }
 
-Mraoovefatsceao:::txtsize --> Tsruitaopci:::txtsize
-Tsruitaopci:::txtsize --> Thdreyrhoao:::txtsize
-Thdreyrhoao:::txtsize --> Ybalolmousu:::txtsize
-Thdreyrhoao:::txtsize --> TttCosneetsd:::txtsize
-Tsruitaopci:::txtsize --> DibsrhoanTbo:::txtsize
-DibsrhoanTbo:::txtsize --> Tstliahstrobd:::txtsize
-DibsrhoanTbo:::txtsize --> Tstliahstrobd:::txtsize
-Mraoovefatsceao:::txtsize --> OtDrobgtpledle:::txtsize
-OtDrobgtpledle:::txtsize --> Ttfevhniiiss:::txtsize
-Ttfevhniiiss:::txtsize --> Tspaspadanop:::txtsize
-Ttfevhniiiss:::txtsize --> OiaeqsenonBoH:::txtsize
-OtDrobgtpledle:::txtsize --> DibsrhoanTbo:::txtsize
-DibsrhoanTbo:::txtsize --> Tstliahstrobd:::txtsize
-DibsrhoanTbo:::txtsize --> Tstliahstrobd:::txtsize
+FrcstCya:::txtsize --> JCrevrSidt:::txtsize
+JCrevrSidt:::txtsize --> JCrghnheSi:::txtsize
+JCrghnheSi:::txtsize --> JCrevrSidt:::txtsize
+JCrghnheSi:::txtsize --> IdryonteomSfbdoes:::txtsize
+JCrevrSidt:::txtsize --> BdiEiasileoreoa:::txtsize
+BdiEiasileoreoa:::txtsize --> JCrevrSidt:::txtsize
+BdiEiasileoreoa:::txtsize --> JCrevrSidt:::txtsize
+FrcstCya:::txtsize --> NKsocohfeomie:::txtsize
+NKsocohfeomie:::txtsize --> NKnaafearad:::txtsize
+NKnaafearad:::txtsize --> NKlrosoherfr:::txtsize
+NKnaafearad:::txtsize --> NKncaineilo:::txtsize
+NKsocohfeomie:::txtsize --> NKnilefrnde:::txtsize
+NKnilefrnde:::txtsize --> NKnutigsd:::txtsize
+NKnilefrnde:::txtsize --> SKcffrcgyreroofr:::txtsize
 
-MoAcoedaromhwmirn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:30 AM_
-Millions of americans to get reduced food aid during government shutdown: trump administration" }
-Uentesnknih@{ shape: win-pane, label: "_Published Oct 06, 2025, 09:01 PM_
-Us government shutdown enters second week with no end in sight" }
-TpsrohgtBstutw@{ shape: win-pane, label: "_Published Jun 25, 2025, 09:55 AM_
-Trump pushes congress to pass his ‘big beautiful bill’ as debate clouds path forward" }
-TsefxbeSebnrcr@{ shape: win-pane, label: "_Published May 17, 2025, 02:36 AM_
-Trump’s ‘big, beautiful’ tax bill blocked by us house republicans over cost concerns" }
-Ttlrpsecgnt@{ shape: win-pane, label: "_Published May 22, 2025, 08:07 PM_
-Trump tax bill narrowly passes house, overcoming gop infighting" }
-Waswhomhw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:42 PM_
-What happens next with the us government shutdown?" }
-TsSrtpbun@{ shape: win-pane, label: "_Published Oct 01, 2025, 01:49 AM_
-Trump says us government will ‘probably’ shut down" }
-Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
-Us government begins shutdown that may lead to mass layoffs and cuts" }
-Frmognsonpewei@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:32 AM_
-For first time in long us government shutdown, hints of progress toward reopening" }
-Uentesnknih@{ shape: win-pane, label: "_Published Oct 06, 2025, 09:01 PM_
-Us government shutdown enters second week with no end in sight" }
-TpsrohgtBstutw@{ shape: win-pane, label: "_Published Jun 25, 2025, 09:55 AM_
-Trump pushes congress to pass his ‘big beautiful bill’ as debate clouds path forward" }
-Waswhomhw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:42 PM_
-What happens next with the us government shutdown?" }
+EinoweVnfrsraa@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:07 PM_
+Elections in new york, new jersey and virginia offer early test of trump’s agenda" }
+OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
+Obama calls mamdani, praises campaign ahead of new york mayoral election" }
+UritadtoctCimam@{ shape: win-pane, label: "_Published Jun 25, 2025, 04:10 PM_
+Upstart socialist zohran mamdani stuns political veteran cuomo in nyc mayoral primary" }
+IYalaospttimmk@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:15 PM_
+In new york mayoral primary, progressive upstart aims to spoil cuomo’s comeback bid" }
+IYalaospttimmk@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:15 PM_
+In new york mayoral primary, progressive upstart aims to spoil cuomo’s comeback bid" }
+TbCttousoscolsdsr@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:15 AM_
+Trump backs cuomo, threatens to cut funds as new yorkers expected to pick leftist mamdani as mayor" }
+OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
+Obama calls mamdani, praises campaign ahead of new york mayoral election" }
+UritadtoctCimam@{ shape: win-pane, label: "_Published Jun 25, 2025, 04:10 PM_
+Upstart socialist zohran mamdani stuns political veteran cuomo in nyc mayoral primary" }
 
-MoAcoedaromhwmirn:::txtsize --> Uentesnknih:::txtsize
-Uentesnknih:::txtsize --> TpsrohgtBstutw:::txtsize
-TpsrohgtBstutw:::txtsize --> TsefxbeSebnrcr:::txtsize
-TpsrohgtBstutw:::txtsize --> Ttlrpsecgnt:::txtsize
-Uentesnknih:::txtsize --> Waswhomhw:::txtsize
-Waswhomhw:::txtsize --> TsSrtpbun:::txtsize
-Waswhomhw:::txtsize --> Ueniunmaayat:::txtsize
-MoAcoedaromhwmirn:::txtsize --> Frmognsonpewei:::txtsize
-Frmognsonpewei:::txtsize --> Uentesnknih:::txtsize
-Uentesnknih:::txtsize --> TpsrohgtBstutw:::txtsize
-Uentesnknih:::txtsize --> Waswhomhw:::txtsize
+EinoweVnfrsraa:::txtsize --> OcMniagaekren:::txtsize
+OcMniagaekren:::txtsize --> UritadtoctCimam:::txtsize
+UritadtoctCimam:::txtsize --> IYalaospttimmk:::txtsize
+UritadtoctCimam:::txtsize --> IYalaospttimmk:::txtsize
+EinoweVnfrsraa:::txtsize --> TbCttousoscolsdsr:::txtsize
+TbCttousoscolsdsr:::txtsize --> OcMniagaekren:::txtsize
+OcMniagaekren:::txtsize --> UritadtoctCimam:::txtsize
 
 ```
-<i>Last updated: 2025-11-04 16:00:41.848173 (GMT+8)</i>
+<i>Last updated: 2025-11-04 20:01:08.117312 (GMT+8)</i>
 <!-- END -->
