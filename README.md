@@ -16,138 +16,129 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ilietdnraubaa@{ shape: win-pane, label: "_Published Nov 05, 2025, 03:47 AM_
-Israel says it received the body of another deceased buried by hamas in gaza" }
-Hhohosbsr@{ shape: win-pane, label: "_Published Nov 03, 2025, 03:55 AM_
-Hamas hands over three more hostage bodies to israel" }
-Ililezirlocln@{ shape: win-pane, label: "_Published Nov 02, 2025, 11:01 PM_
-Israeli strike kills one in gaza as sides trade blame for truce violations" }
-IliezatHtdtrda@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:40 PM_
-Israeli strikes test gaza’s fragile truce, hamas to hand over two more dead hostages" }
-Cfonaoteervta@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:44 PM_
-Ceasefire holds in gaza ahead of hostage release and trump’s visit to israel" }
-IliezatHtdtrda@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:40 PM_
-Israeli strikes test gaza’s fragile truce, hamas to hand over two more dead hostages" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Vasoaersiam@{ shape: win-pane, label: "_Published Oct 30, 2025, 09:55 AM_
-Video analysis shows staged recovery of israeli hostage remains" }
-Noeoagatmdca@{ shape: win-pane, label: "_Published Nov 04, 2025, 11:02 PM_
-Not enough tents, food reaching gaza as winter comes, aid agencies say" }
-Ulfezsrda@{ shape: win-pane, label: "_Published Aug 22, 2025, 03:02 PM_
-Un declares famine in gaza; first ever in middle east" }
-Ilgqielfrn@{ shape: win-pane, label: "_Published Jul 29, 2025, 06:14 PM_
-Israelis begin to question the morality of their war in gaza" }
-Ilbeagssayenaa@{ shape: win-pane, label: "_Published Aug 18, 2025, 03:50 PM_
-Israel deliberately starving gaza’s palestinians, says amnesty international" }
-MoaGusln@{ shape: win-pane, label: "_Published Oct 29, 2025, 10:00 AM_
-More food reaches gaza, but it is still not enough" }
-Tdrzooetum@{ shape: win-pane, label: "_Published Oct 13, 2025, 05:59 AM_
-Trump declares gaza war ‘over’; hostages due to return home" }
+Uaaitiipd@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:32 AM_
+Ups plane crashes in kentucky, injuries reported" }
+Uycraagrahle@{ shape: win-pane, label: "_Published Aug 02, 2025, 09:40 AM_
+Us army helicopter in deadly washington crash had technical issues" }
+Nvspaltloag@{ shape: win-pane, label: "_Published Jan 30, 2025, 09:10 PM_
+No survivors from plane and helicopter collision in washington" }
+Medfmaljltlaathoe@{ shape: win-pane, label: "_Published Jan 30, 2025, 11:14 AM_
+Many feared dead after american airlines jet, helicopter collide and crash into washington river" }
+Medfmaljltlaathoe@{ shape: win-pane, label: "_Published Jan 30, 2025, 11:14 AM_
+Many feared dead after american airlines jet, helicopter collide and crash into washington river" }
+Tusgtnjanoevnrr@{ shape: win-pane, label: "_Published Jul 26, 2025, 07:49 AM_
+Two southwest flight attendants injured as plane manoeuvres to avoid another aircraft" }
+Uhiopneolhbeto@{ shape: win-pane, label: "_Published Jul 21, 2025, 10:00 PM_
+Us authorities probing passenger jet’s close call with b-52 bomber over north dakota" }
+Uhiopneolhbeto@{ shape: win-pane, label: "_Published Jul 21, 2025, 10:00 PM_
+Us authorities probing passenger jet’s close call with b-52 bomber over north dakota" }
+Tailrnfahh@{ shape: win-pane, label: "_Published May 22, 2025, 09:43 PM_
+Two dead in fiery plane crash on california neighbourhood" }
+Medfmaljltlaathoe@{ shape: win-pane, label: "_Published Jan 30, 2025, 11:14 AM_
+Many feared dead after american airlines jet, helicopter collide and crash into washington river" }
+Uuawniienthtoi@{ shape: win-pane, label: "_Published Jan 30, 2025, 04:44 PM_
+Us figure skaters were on american airlines plane that crashed into potomac river" }
+Jelynlrstb@{ shape: win-pane, label: "_Published May 14, 2025, 10:15 PM_
+Japanese military training plane crashes with two on board" }
+Fshesnintt@{ shape: win-pane, label: "_Published May 08, 2025, 12:01 AM_
+Finnish fighter jet crashes in arctic town, pilot ejected" }
+Acwatesnarr@{ shape: win-pane, label: "_Published Feb 15, 2025, 10:30 AM_
+Advanced new taiwan jet trainer crashes in setback for programme" }
 
-Ilietdnraubaa:::txtsize --> Hhohosbsr:::txtsize
-Hhohosbsr:::txtsize --> Ililezirlocln:::txtsize
-Ililezirlocln:::txtsize --> IliezatHtdtrda:::txtsize
-Ililezirlocln:::txtsize --> Cfonaoteervta:::txtsize
-Hhohosbsr:::txtsize --> IliezatHtdtrda:::txtsize
-IliezatHtdtrda:::txtsize --> NyeeawHakl:::txtsize
-IliezatHtdtrda:::txtsize --> Vasoaersiam:::txtsize
-Ilietdnraubaa:::txtsize --> Noeoagatmdca:::txtsize
-Noeoagatmdca:::txtsize --> Ulfezsrda:::txtsize
-Ulfezsrda:::txtsize --> Ilgqielfrn:::txtsize
-Ulfezsrda:::txtsize --> Ilbeagssayenaa:::txtsize
-Noeoagatmdca:::txtsize --> MoaGusln:::txtsize
-MoaGusln:::txtsize --> Tdrzooetum:::txtsize
+Uaaitiipd:::txtsize --> Uycraagrahle:::txtsize
+Uycraagrahle:::txtsize --> Nvspaltloag:::txtsize
+Nvspaltloag:::txtsize --> Medfmaljltlaathoe:::txtsize
+Nvspaltloag:::txtsize --> Medfmaljltlaathoe:::txtsize
+Uycraagrahle:::txtsize --> Tusgtnjanoevnrr:::txtsize
+Tusgtnjanoevnrr:::txtsize --> Uhiopneolhbeto:::txtsize
+Tusgtnjanoevnrr:::txtsize --> Uhiopneolhbeto:::txtsize
+Uaaitiipd:::txtsize --> Tailrnfahh:::txtsize
+Tailrnfahh:::txtsize --> Medfmaljltlaathoe:::txtsize
+Medfmaljltlaathoe:::txtsize --> Uuawniienthtoi:::txtsize
+Tailrnfahh:::txtsize --> Jelynlrstb:::txtsize
+Jelynlrstb:::txtsize --> Fshesnintt:::txtsize
+Jelynlrstb:::txtsize --> Acwatesnarr:::txtsize
 
-TnsynadSlo@{ shape: win-pane, label: "_Published Nov 05, 2025, 03:46 AM_
-Two men arrested by fbi in harvard medical school explosion" }
-ItlotltadSlcs@{ shape: win-pane, label: "_Published Nov 02, 2025, 11:43 AM_
-‘intentional’ explosion took place at harvard medical school, officials say" }
-TsrgTsadeyneodcg@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:20 AM_
-‘their sins are forgiven’: trump says harvard university to run ‘trade schools’ under upcoming deal" }
-TaiteoHrllfad@{ shape: win-pane, label: "_Published Sep 30, 2025, 07:47 AM_
-Trump administration seeks to make harvard ineligible for federal funding" }
-GngcoetnooT@{ shape: win-pane, label: "_Published Sep 29, 2025, 09:25 AM_
-Give in or fight back? us colleges are torn on how to respond to trump" }
-Hrdnlnyinnar@{ shape: win-pane, label: "_Published Oct 17, 2025, 03:05 AM_
-Harvard’s endowment swells to nearly $74 billion; donations hit a record" }
-TaiteHruertdaeseo@{ shape: win-pane, label: "_Published Aug 01, 2025, 04:14 AM_
-Trump administration refers harvard to justice department to address anti-semitism allegations" }
-BUrrtiuasaat@{ shape: win-pane, label: "_Published Oct 16, 2025, 07:00 AM_
-Brown university rejects a white house deal for special treatment" }
-Hrdnlnyinnar@{ shape: win-pane, label: "_Published Oct 17, 2025, 03:05 AM_
-Harvard’s endowment swells to nearly $74 billion; donations hit a record" }
-TaiteHruertdaeseo@{ shape: win-pane, label: "_Published Aug 01, 2025, 04:14 AM_
-Trump administration refers harvard to justice department to address anti-semitism allegations" }
-BUrmawhtseei@{ shape: win-pane, label: "_Published Jul 31, 2025, 08:05 AM_
-Brown university makes a deal with the white house to restore funding" }
-WHsfftnssrme@{ shape: win-pane, label: "_Published Jul 26, 2025, 07:39 AM_
-White house seeks fines from other universities after columbia deal" }
-BUrrtiuasaat@{ shape: win-pane, label: "_Published Oct 16, 2025, 07:00 AM_
-Brown university rejects a white house deal for special treatment" }
-TosoeftugrtM@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:00 AM_
-Trump offers all colleges preferential funding plan rejected by mit" }
-BbetnssugtsT@{ shape: win-pane, label: "_Published Aug 05, 2025, 08:59 AM_
-Badly bruised elite us universities are rushing to cut deals with trump" }
+TrisaasapiNh@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:27 AM_
+Trump re-nominates musk ally jared isaacman for position of nasa chief" }
+FrpnegtoMahs@{ shape: win-pane, label: "_Published Jun 05, 2025, 07:15 AM_
+Former trump nasa nominee suggests ties to elon musk caused his ouster" }
+TpMlamilorct@{ shape: win-pane, label: "_Published Jun 01, 2025, 04:57 AM_
+Trump pulls musk ally’s nasa nomination, will announce replacement" }
+TpMlranaaec@{ shape: win-pane, label: "_Published Dec 05, 2024, 12:30 AM_
+Trump picks musk ally jared isaacman to head nasa space agency" }
+Mosrfdzbeal@{ shape: win-pane, label: "_Published May 31, 2025, 04:29 AM_
+Musk vows to stay trump’s ‘friend’ in bizarre black-eyed farewell" }
+Tsnraitsatcosaqon@{ shape: win-pane, label: "_Published Apr 27, 2025, 07:45 AM_
+Trump’s nominee for nasa administrator was once arrested, accused of passing bad cheques to casinos" }
+WHwraeidrio@{ shape: win-pane, label: "_Published Mar 14, 2025, 08:50 AM_
+White house withdraws vaccine critic weldon for cdc director" }
+TipuadsiouSeomni@{ shape: win-pane, label: "_Published Jan 31, 2025, 02:04 AM_
+Trump intel pick tulsi gabbard faces criticism over russia, snowden in confirmation hearing" }
+Tsnraitsatcosaqon@{ shape: win-pane, label: "_Published Apr 27, 2025, 07:45 AM_
+Trump’s nominee for nasa administrator was once arrested, accused of passing bad cheques to casinos" }
+WHwraeidrio@{ shape: win-pane, label: "_Published Mar 14, 2025, 08:50 AM_
+White house withdraws vaccine critic weldon for cdc director" }
+Tsnedonnaeeiv@{ shape: win-pane, label: "_Published Mar 05, 2025, 04:15 AM_
+Trump’s nato nominee pledges to strengthen alliance despite russian pivot" }
+CitilbcrsSh@{ shape: win-pane, label: "_Published Feb 13, 2025, 07:47 AM_
+Conspiracy theorist tulsi gabbard confirmed as new us spy chief" }
+TipuadsiouSeomni@{ shape: win-pane, label: "_Published Jan 31, 2025, 02:04 AM_
+Trump intel pick tulsi gabbard faces criticism over russia, snowden in confirmation hearing" }
+Hlbbeoessm@{ shape: win-pane, label: "_Published Nov 19, 2024, 10:01 AM_
+How tulsi gabbard became a favourite of russia’s state media" }
+SrxTcebanief@{ shape: win-pane, label: "_Published Nov 15, 2024, 06:55 AM_
+Spy world vexed by trump choice of gabbard as us intelligence chief" }
 
-TnsynadSlo:::txtsize --> ItlotltadSlcs:::txtsize
-ItlotltadSlcs:::txtsize --> TsrgTsadeyneodcg:::txtsize
-TsrgTsadeyneodcg:::txtsize --> TaiteoHrllfad:::txtsize
-TsrgTsadeyneodcg:::txtsize --> GngcoetnooT:::txtsize
-ItlotltadSlcs:::txtsize --> Hrdnlnyinnar:::txtsize
-Hrdnlnyinnar:::txtsize --> TaiteHruertdaeseo:::txtsize
-Hrdnlnyinnar:::txtsize --> BUrrtiuasaat:::txtsize
-TnsynadSlo:::txtsize --> Hrdnlnyinnar:::txtsize
-Hrdnlnyinnar:::txtsize --> TaiteHruertdaeseo:::txtsize
-TaiteHruertdaeseo:::txtsize --> BUrmawhtseei:::txtsize
-TaiteHruertdaeseo:::txtsize --> WHsfftnssrme:::txtsize
-Hrdnlnyinnar:::txtsize --> BUrrtiuasaat:::txtsize
-BUrrtiuasaat:::txtsize --> TosoeftugrtM:::txtsize
-BUrrtiuasaat:::txtsize --> BbetnssugtsT:::txtsize
+TrisaasapiNh:::txtsize --> FrpnegtoMahs:::txtsize
+FrpnegtoMahs:::txtsize --> TpMlamilorct:::txtsize
+TpMlamilorct:::txtsize --> TpMlranaaec:::txtsize
+TpMlamilorct:::txtsize --> Mosrfdzbeal:::txtsize
+FrpnegtoMahs:::txtsize --> Tsnraitsatcosaqon:::txtsize
+Tsnraitsatcosaqon:::txtsize --> WHwraeidrio:::txtsize
+Tsnraitsatcosaqon:::txtsize --> TipuadsiouSeomni:::txtsize
+TrisaasapiNh:::txtsize --> Tsnraitsatcosaqon:::txtsize
+Tsnraitsatcosaqon:::txtsize --> WHwraeidrio:::txtsize
+WHwraeidrio:::txtsize --> Tsnedonnaeeiv:::txtsize
+WHwraeidrio:::txtsize --> CitilbcrsSh:::txtsize
+Tsnraitsatcosaqon:::txtsize --> TipuadsiouSeomni:::txtsize
+TipuadsiouSeomni:::txtsize --> Hlbbeoessm:::txtsize
+TipuadsiouSeomni:::txtsize --> SrxTcebanief:::txtsize
 
-Tttohodcsrsuor@{ shape: win-pane, label: "_Published Nov 05, 2025, 03:24 AM_
-Trump threatens to withhold food aid as us cities, nonprofits ask judge to intervene" }
-Uentesraosactt@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:47 PM_
-Us government shutdown enters record 35th day as congressional inaction takes toll" }
-Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
-Us government begins shutdown that may lead to mass layoffs and cuts" }
-TsSrtpbun@{ shape: win-pane, label: "_Published Oct 01, 2025, 01:49 AM_
-Trump says us government will ‘probably’ shut down" }
-MoAcoedaromhwmirn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:30 AM_
-Millions of americans to get reduced food aid during government shutdown: trump administration" }
-Uentesnknih@{ shape: win-pane, label: "_Published Oct 06, 2025, 09:01 PM_
-Us government shutdown enters second week with no end in sight" }
-Frmognsonpewei@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:32 AM_
-For first time in long us government shutdown, hints of progress toward reopening" }
-Soyecsictoiess@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:13 AM_
-Shutdown may force us to close some air space next week, official sees ‘mass chaos’" }
-Mhftasrcrssi@{ shape: win-pane, label: "_Published Oct 27, 2025, 12:35 PM_
-More than 8,000 us flights delayed as air traffic control absences persist" }
-Sisaeaithws@{ shape: win-pane, label: "_Published Oct 07, 2025, 07:49 AM_
-Staffing issues cause delays at us airports as shutdown persists" }
-Utdohisig@{ shape: win-pane, label: "_Published Oct 27, 2025, 10:30 AM_
-Us govt shutdown poker: which side has the winning hand?" }
-Lfrcrrssfjarient@{ shape: win-pane, label: "_Published Nov 01, 2025, 12:45 PM_
-Lack of air traffic controllers hits almost half of major us airports amid government shutdown" }
-Mhftasrcrssi@{ shape: win-pane, label: "_Published Oct 27, 2025, 12:35 PM_
-More than 8,000 us flights delayed as air traffic control absences persist" }
-Waswhomhw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:42 PM_
-What happens next with the us government shutdown?" }
+Tststoissb@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:19 AM_
+Trump’s military use in other countries tests his maga base" }
+TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
+Trump threatens military action in nigeria over ‘killing of christians’" }
+UDehewmeinegas@{ shape: win-pane, label: "_Published Nov 01, 2025, 09:00 AM_
+Us v-p j.d. vance says he hopes his wife embraces christianity, setting off backlash" }
+UanyrAcm@{ shape: win-pane, label: "_Published Mar 28, 2025, 01:30 PM_
+Usha vance in the eye of trump’s arctic storm" }
+TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
+Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
+Tahurpdvnesn@{ shape: win-pane, label: "_Published May 22, 2025, 01:26 AM_
+Trump ambushes south africa’s president over ‘genocide’ accusation" }
+FwSAarnTcsfimi@{ shape: win-pane, label: "_Published May 13, 2025, 04:01 AM_
+First white south africans arrive in us as trump claims they face discrimination" }
+FwSAaaarduivul@{ shape: win-pane, label: "_Published May 12, 2025, 05:01 AM_
+First white south africans board plane for us under trump’s divisive refugee plan" }
+Eluretashirt@{ shape: win-pane, label: "_Published Mar 23, 2025, 07:00 PM_
+Expelled south african envoy to us says he’s back home ‘with no regrets’" }
+Tssniofswplec@{ shape: win-pane, label: "_Published Feb 11, 2025, 08:13 PM_
+Trump’s accusations against south africa spark ‘white privilege’ self-mockery" }
+TfeSAaictfas@{ shape: win-pane, label: "_Published Feb 09, 2025, 02:40 AM_
+Trump freezes all south african assistance as stand-off escalates" }
 
-Tttohodcsrsuor:::txtsize --> Uentesraosactt:::txtsize
-Uentesraosactt:::txtsize --> Ueniunmaayat:::txtsize
-Ueniunmaayat:::txtsize --> TsSrtpbun:::txtsize
-Uentesraosactt:::txtsize --> MoAcoedaromhwmirn:::txtsize
-MoAcoedaromhwmirn:::txtsize --> Uentesnknih:::txtsize
-MoAcoedaromhwmirn:::txtsize --> Frmognsonpewei:::txtsize
-Tttohodcsrsuor:::txtsize --> Soyecsictoiess:::txtsize
-Soyecsictoiess:::txtsize --> Mhftasrcrssi:::txtsize
-Mhftasrcrssi:::txtsize --> Sisaeaithws:::txtsize
-Mhftasrcrssi:::txtsize --> Utdohisig:::txtsize
-Soyecsictoiess:::txtsize --> Lfrcrrssfjarient:::txtsize
-Lfrcrrssfjarient:::txtsize --> Mhftasrcrssi:::txtsize
-Lfrcrrssfjarient:::txtsize --> Waswhomhw:::txtsize
+Tststoissb:::txtsize --> TttiriNiriCt:::txtsize
+TttiriNiriCt:::txtsize --> UDehewmeinegas:::txtsize
+UDehewmeinegas:::txtsize --> UanyrAcm:::txtsize
+UDehewmeinegas:::txtsize --> TahesegnipdoUstt:::txtsize
+Tststoissb:::txtsize --> Tahurpdvnesn:::txtsize
+Tahurpdvnesn:::txtsize --> FwSAarnTcsfimi:::txtsize
+FwSAarnTcsfimi:::txtsize --> FwSAaaarduivul:::txtsize
+FwSAarnTcsfimi:::txtsize --> Eluretashirt:::txtsize
+Tahurpdvnesn:::txtsize --> Tssniofswplec:::txtsize
+Tssniofswplec:::txtsize --> TfeSAaictfas:::txtsize
 
 ```
-<i>Last updated: 2025-11-05 04:01:05.083459 (GMT+8)</i>
+<i>Last updated: 2025-11-05 08:00:32.393473 (GMT+8)</i>
 <!-- END -->
