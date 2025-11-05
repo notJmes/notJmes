@@ -16,123 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
-Us government shutdown becomes longest in history" }
-AcobeaSdnsdh@{ shape: win-pane, label: "_Published Nov 01, 2025, 01:34 AM_
-Americans worry about next meal as us shutdown enters second month" }
-Waswhomhw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:42 PM_
-What happens next with the us government shutdown?" }
-TsSrtpbun@{ shape: win-pane, label: "_Published Oct 01, 2025, 01:49 AM_
-Trump says us government will ‘probably’ shut down" }
-Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
-Us government begins shutdown that may lead to mass layoffs and cuts" }
-Tsrermvlyuso@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:18 AM_
-Trump says private donor gave $160m to cover military pay during shutdown" }
-Utrdetliehwg@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:31 PM_
-Us states warn food aid benefits will halt if federal shutdown drags on" }
-Aomhwgnmeegcilc@{ shape: win-pane, label: "_Published Oct 23, 2025, 08:20 AM_
-As us government shutdown drags on and trump takes power, congress cedes its relevance" }
-Uentesraosactt@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:47 PM_
-Us government shutdown enters record 35th day as congressional inaction takes toll" }
-Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
-Us government begins shutdown that may lead to mass layoffs and cuts" }
-TsSrtpbun@{ shape: win-pane, label: "_Published Oct 01, 2025, 01:49 AM_
-Trump says us government will ‘probably’ shut down" }
-MoAcoedaromhwmirn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:30 AM_
-Millions of americans to get reduced food aid during government shutdown: trump administration" }
-Uentesnknih@{ shape: win-pane, label: "_Published Oct 06, 2025, 09:01 PM_
-Us government shutdown enters second week with no end in sight" }
-Frmognsonpewei@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:32 AM_
-For first time in long us government shutdown, hints of progress toward reopening" }
+Tnyeirsiaagsgues@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:57 PM_
+Trump nearly halves us military presence in romania, fanning fears of bigger europe exodus" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
+Explosions heard in ukraine capital kyiv, other cities" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
+Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+UhstsEeebel@{ shape: win-pane, label: "_Published Oct 29, 2025, 10:15 PM_
+Us withdraws some troops from europe but denies broader pullback" }
+Aoeisr@{ shape: win-pane, label: "_Published Sep 23, 2025, 05:00 AM_
+An emboldened putin goes after nato" }
+Rasrnicatoo@{ shape: win-pane, label: "_Published Sep 19, 2025, 11:15 PM_
+Russian jets enter estonia’s airspace in latest test for nato" }
+Raedikeesivoi@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:52 AM_
+Russia reiterated previous ukraine peace terms to us in private communique" }
+PTtiaodrieei@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
+Putin-trump talks in budapest on hold after russia rejects ceasefire" }
+Lfsnhmuledmeks@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:07 AM_
+Lack of decision on tomahawks made russia less keen on diplomacy, zelensky says" }
 
-Uentbegno:::txtsize --> AcobeaSdnsdh:::txtsize
-AcobeaSdnsdh:::txtsize --> Waswhomhw:::txtsize
-Waswhomhw:::txtsize --> TsSrtpbun:::txtsize
-Waswhomhw:::txtsize --> Ueniunmaayat:::txtsize
-AcobeaSdnsdh:::txtsize --> Tsrermvlyuso:::txtsize
-Tsrermvlyuso:::txtsize --> Utrdetliehwg:::txtsize
-Tsrermvlyuso:::txtsize --> Aomhwgnmeegcilc:::txtsize
-Uentbegno:::txtsize --> Uentesraosactt:::txtsize
-Uentesraosactt:::txtsize --> Ueniunmaayat:::txtsize
-Ueniunmaayat:::txtsize --> TsSrtpbun:::txtsize
-Uentesraosactt:::txtsize --> MoAcoedaromhwmirn:::txtsize
-MoAcoedaromhwmirn:::txtsize --> Uentesnknih:::txtsize
-MoAcoedaromhwmirn:::txtsize --> Frmognsonpewei:::txtsize
+Tnyeirsiaagsgues:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
+Eshiaalocs:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
+OaUuakaogrmc:::txtsize --> DsruasvUn:::txtsize
+Tnyeirsiaagsgues:::txtsize --> UhstsEeebel:::txtsize
+UhstsEeebel:::txtsize --> Aoeisr:::txtsize
+Aoeisr:::txtsize --> Rasrnicatoo:::txtsize
+UhstsEeebel:::txtsize --> Raedikeesivoi:::txtsize
+Raedikeesivoi:::txtsize --> PTtiaodrieei:::txtsize
+Raedikeesivoi:::txtsize --> Lfsnhmuledmeks:::txtsize
 
-ThuMnlmenYoa@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:15 PM_
-‘turn the volume up’, mamdani tells trump after winning nyc mayoral race" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
-Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
-Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
-Takeaways from us election night 2025" }
-Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
-Cuomo to stay in new york mayoral race despite losing democratic primary" }
-MnCankgnsodty@{ shape: win-pane, label: "_Published Jun 27, 2025, 06:16 PM_
-Mamdani’s nyc primary win sparks surge in anti-muslim posts, advocates say" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
-Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
-Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
-Takeaways from us election night 2025" }
-Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
-Cuomo to stay in new york mayoral race despite losing democratic primary" }
-MnCankgnsodty@{ shape: win-pane, label: "_Published Jun 27, 2025, 06:16 PM_
-Mamdani’s nyc primary win sparks surge in anti-muslim posts, advocates say" }
+Driercswrnj@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:40 PM_
+Driver rams into pedestrians, cyclists in western france, 9 injured" }
+hfrhrctwivotr@{ shape: win-pane, label: "_Published May 27, 2025, 02:18 AM_
+47 hurt after british man drives car into crowd during liverpool’s title parade" }
+Gnsbutslanai@{ shape: win-pane, label: "_Published May 24, 2025, 09:15 PM_
+Germany mass stabbing suspect has ‘psychological illness’, say police" }
+Gnnsftdmso@{ shape: win-pane, label: "_Published May 24, 2025, 01:44 AM_
+German woman arrested after 18 stabbed at hamburg station" }
+Gnrcscrrirea@{ shape: win-pane, label: "_Published May 06, 2025, 04:40 PM_
+Germany’s merz elected as chancellor after initial surprise setback" }
+AslVufeegtisti@{ shape: win-pane, label: "_Published Apr 27, 2025, 02:00 PM_
+At least 11 killed in vancouver after vehicle ploughs into filipino street festival" }
+LaastagtVut@{ shape: win-pane, label: "_Published Apr 28, 2025, 02:06 AM_
+Last day of canada’s election campaign jolted by vancouver attack" }
+AslVufeegtisti@{ shape: win-pane, label: "_Published Apr 27, 2025, 02:00 PM_
+At least 11 killed in vancouver after vehicle ploughs into filipino street festival" }
+Wuenaaa@{ shape: win-pane, label: "_Published Jan 08, 2025, 05:00 AM_
+Why would the us want canada as a 51st state?" }
+FigeanicrkysL@{ shape: win-pane, label: "_Published Apr 27, 2025, 06:57 PM_
+Filipino legend celebrated in tragic vancouver block party: who is lapu-lapu?" }
+AslVufeegtisti@{ shape: win-pane, label: "_Published Apr 27, 2025, 02:00 PM_
+At least 11 killed in vancouver after vehicle ploughs into filipino street festival" }
+Tlelrtrirnaynm@{ shape: win-pane, label: "_Published Mar 03, 2025, 08:55 PM_
+Two killed, several injured after car rams into crowd in german city of mannheim" }
 
-ThuMnlmenYoa:::txtsize --> Drwialosdp:::txtsize
-Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
-YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
-YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
-Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
-Ctywmaeiseary:::txtsize --> MnCankgnsodty:::txtsize
-ThuMnlmenYoa:::txtsize --> Drwialosdp:::txtsize
-Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
-YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
-YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
-Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
-Ctywmaeiseary:::txtsize --> MnCankgnsodty:::txtsize
+Driercswrnj:::txtsize --> hfrhrctwivotr:::txtsize
+hfrhrctwivotr:::txtsize --> Gnsbutslanai:::txtsize
+Gnsbutslanai:::txtsize --> Gnnsftdmso:::txtsize
+Gnsbutslanai:::txtsize --> Gnrcscrrirea:::txtsize
+Driercswrnj:::txtsize --> AslVufeegtisti:::txtsize
+AslVufeegtisti:::txtsize --> LaastagtVut:::txtsize
+LaastagtVut:::txtsize --> AslVufeegtisti:::txtsize
+LaastagtVut:::txtsize --> Wuenaaa:::txtsize
+AslVufeegtisti:::txtsize --> FigeanicrkysL:::txtsize
+FigeanicrkysL:::txtsize --> AslVufeegtisti:::txtsize
+FigeanicrkysL:::txtsize --> Tlelrtrirnaynm:::txtsize
 
-Eihrhematnr@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:32 PM_
-Explainer: why is trump threatening military action in nigeria?" }
-TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
-Trump threatens military action in nigeria over ‘killing of christians’" }
-UDehewmeinegas@{ shape: win-pane, label: "_Published Nov 01, 2025, 09:00 AM_
-Us v-p j.d. vance says he hopes his wife embraces christianity, setting off backlash" }
-UanyrAcm@{ shape: win-pane, label: "_Published Mar 28, 2025, 01:30 PM_
-Usha vance in the eye of trump’s arctic storm" }
-TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
-Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
-Tshoeonrierts@{ shape: win-pane, label: "_Published Nov 03, 2025, 07:41 AM_
-Trump says there ‘could be’ us troops on the ground in nigeria, or air strikes" }
-TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
-Trump threatens military action in nigeria over ‘killing of christians’" }
-UDehewmeinegas@{ shape: win-pane, label: "_Published Nov 01, 2025, 09:00 AM_
-Us v-p j.d. vance says he hopes his wife embraces christianity, setting off backlash" }
-Nislissuttesrt@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
-Nigeria says us help against islamist insurgents must respect its sovereignty" }
-TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
-Trump threatens military action in nigeria over ‘killing of christians’" }
-TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
-Trump threatens military action in nigeria over ‘killing of christians’" }
+Ncstnebsseili@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:09 PM_
+‘no one could stop it’: sudanese describe mass rapes while fleeing fallen city" }
+Sinayitrsld@{ shape: win-pane, label: "_Published Nov 01, 2025, 04:19 PM_
+Sudan is being ravaged by a civil war the world has overlooked" }
+Nttggmigsnna@{ shape: win-pane, label: "_Published Nov 01, 2025, 05:45 PM_
+New satellite images suggest mass killings persist in sudan’s el-fasher" }
+Sinayitrsld@{ shape: win-pane, label: "_Published Nov 01, 2025, 04:19 PM_
+Sudan is being ravaged by a civil war the world has overlooked" }
+Uiotiandnl@{ shape: win-pane, label: "_Published Sep 13, 2025, 06:25 PM_
+Us, allies propose transitional plan to end sudan conflict" }
+Uiotiandnl@{ shape: win-pane, label: "_Published Sep 13, 2025, 06:25 PM_
+Us, allies propose transitional plan to end sudan conflict" }
+SvetfeeSsele@{ shape: win-pane, label: "_Published Sep 08, 2025, 01:19 PM_
+Survivors tell of terrifying escape from sudan’s besieged el-fasher" }
+Svtsbndrnseldca@{ shape: win-pane, label: "_Published Nov 03, 2025, 10:01 PM_
+Sudan volunteers shown beaten in video were among those later killed, red crescent says" }
+Nttggmigsnna@{ shape: win-pane, label: "_Published Nov 01, 2025, 05:45 PM_
+New satellite images suggest mass killings persist in sudan’s el-fasher" }
+Sinayitrsld@{ shape: win-pane, label: "_Published Nov 01, 2025, 04:19 PM_
+Sudan is being ravaged by a civil war the world has overlooked" }
+Uiotiandnl@{ shape: win-pane, label: "_Published Sep 13, 2025, 06:25 PM_
+Us, allies propose transitional plan to end sudan conflict" }
+Roasopnufeel@{ shape: win-pane, label: "_Published Nov 03, 2025, 06:21 PM_
+Red cross head says ‘history repeating’ in sudan after reported killings" }
+Nttggmigsnna@{ shape: win-pane, label: "_Published Nov 01, 2025, 05:45 PM_
+New satellite images suggest mass killings persist in sudan’s el-fasher" }
+Sinayitrsld@{ shape: win-pane, label: "_Published Nov 01, 2025, 04:19 PM_
+Sudan is being ravaged by a civil war the world has overlooked" }
 
-Eihrhematnr:::txtsize --> TttiriNiriCt:::txtsize
-TttiriNiriCt:::txtsize --> UDehewmeinegas:::txtsize
-UDehewmeinegas:::txtsize --> UanyrAcm:::txtsize
-UDehewmeinegas:::txtsize --> TahesegnipdoUstt:::txtsize
-Eihrhematnr:::txtsize --> Tshoeonrierts:::txtsize
-Tshoeonrierts:::txtsize --> TttiriNiriCt:::txtsize
-TttiriNiriCt:::txtsize --> UDehewmeinegas:::txtsize
-Tshoeonrierts:::txtsize --> Nislissuttesrt:::txtsize
-Nislissuttesrt:::txtsize --> TttiriNiriCt:::txtsize
-Nislissuttesrt:::txtsize --> TttiriNiriCt:::txtsize
+Ncstnebsseili:::txtsize --> Sinayitrsld:::txtsize
+Sinayitrsld:::txtsize --> Nttggmigsnna:::txtsize
+Nttggmigsnna:::txtsize --> Sinayitrsld:::txtsize
+Nttggmigsnna:::txtsize --> Uiotiandnl:::txtsize
+Sinayitrsld:::txtsize --> Uiotiandnl:::txtsize
+Uiotiandnl:::txtsize --> SvetfeeSsele:::txtsize
+Ncstnebsseili:::txtsize --> Svtsbndrnseldca:::txtsize
+Svtsbndrnseldca:::txtsize --> Nttggmigsnna:::txtsize
+Nttggmigsnna:::txtsize --> Sinayitrsld:::txtsize
+Nttggmigsnna:::txtsize --> Uiotiandnl:::txtsize
+Svtsbndrnseldca:::txtsize --> Roasopnufeel:::txtsize
+Roasopnufeel:::txtsize --> Nttggmigsnna:::txtsize
+Roasopnufeel:::txtsize --> Sinayitrsld:::txtsize
 
 ```
-<i>Last updated: 2025-11-05 16:00:24.338996 (GMT+8)</i>
+<i>Last updated: 2025-11-05 20:00:49.825563 (GMT+8)</i>
 <!-- END -->
