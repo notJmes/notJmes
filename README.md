@@ -16,123 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tnyeirsiaagsgues@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:57 PM_
-Trump nearly halves us military presence in romania, fanning fears of bigger europe exodus" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
-Explosions heard in ukraine capital kyiv, other cities" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
-Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-UhstsEeebel@{ shape: win-pane, label: "_Published Oct 29, 2025, 10:15 PM_
-Us withdraws some troops from europe but denies broader pullback" }
-Aoeisr@{ shape: win-pane, label: "_Published Sep 23, 2025, 05:00 AM_
-An emboldened putin goes after nato" }
-Rasrnicatoo@{ shape: win-pane, label: "_Published Sep 19, 2025, 11:15 PM_
-Russian jets enter estonia’s airspace in latest test for nato" }
-Raedikeesivoi@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:52 AM_
-Russia reiterated previous ukraine peace terms to us in private communique" }
-PTtiaodrieei@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
-Putin-trump talks in budapest on hold after russia rejects ceasefire" }
-Lfsnhmuledmeks@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:07 AM_
-Lack of decision on tomahawks made russia less keen on diplomacy, zelensky says" }
+BiznrsSpausSgneea@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:45 PM_
+Britain seizes dinosaur bones from singapore-based businessman su binghai in crime proceeds case" }
+bydgSalrglbuvxa@{ shape: win-pane, label: "_Published Jun 30, 2025, 06:50 PM_
+$3b money laundering case: s’porean jailed for lying to police about fugitive’s luxury cars" }
+bmlebfgcedpfllhai@{ shape: win-pane, label: "_Published Aug 17, 2023, 12:13 AM_
+$1b anti-money laundering blitz: 10 foreigners charged hold passports from places like china, cambodia" }
+AbseinzoSsetennrn@{ shape: win-pane, label: "_Published Aug 16, 2023, 08:18 PM_
+About $1b in cash, assets seized and frozen in one of s’pore’s biggest anti-money laundering operations" }
+AbseinzoSsetennrn@{ shape: win-pane, label: "_Published Aug 16, 2023, 08:18 PM_
+About $1b in cash, assets seized and frozen in one of s’pore’s biggest anti-money laundering operations" }
+bydgSdeaaeotrta@{ shape: win-pane, label: "_Published Jan 23, 2025, 10:09 AM_
+$3b money laundering case: second s’porean charged; allegedly committed forgery to cheat dbs" }
+bydgFSaregdsRRFr@{ shape: win-pane, label: "_Published Aug 15, 2024, 09:56 AM_
+$3b money laundering case: first s’porean charged; he allegedly disposed of rolls-royce, ferrari" }
+bydgSdeaaeotrta@{ shape: win-pane, label: "_Published Jan 23, 2025, 10:09 AM_
+$3b money laundering case: second s’porean charged; allegedly committed forgery to cheat dbs" }
+bydgFSaregdsRRFr@{ shape: win-pane, label: "_Published Aug 15, 2024, 09:56 AM_
+$3b money laundering case: first s’porean charged; he allegedly disposed of rolls-royce, ferrari" }
+Eloimnoennesse@{ shape: win-pane, label: "_Published Jul 14, 2024, 05:00 AM_
+Ex-employee of businessman linked to $3b money laundering case exposes boss’ excesses" }
 
-Tnyeirsiaagsgues:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
-Eshiaalocs:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
-OaUuakaogrmc:::txtsize --> DsruasvUn:::txtsize
-Tnyeirsiaagsgues:::txtsize --> UhstsEeebel:::txtsize
-UhstsEeebel:::txtsize --> Aoeisr:::txtsize
-Aoeisr:::txtsize --> Rasrnicatoo:::txtsize
-UhstsEeebel:::txtsize --> Raedikeesivoi:::txtsize
-Raedikeesivoi:::txtsize --> PTtiaodrieei:::txtsize
-Raedikeesivoi:::txtsize --> Lfsnhmuledmeks:::txtsize
+BiznrsSpausSgneea:::txtsize --> bydgSalrglbuvxa:::txtsize
+bydgSalrglbuvxa:::txtsize --> bmlebfgcedpfllhai:::txtsize
+bmlebfgcedpfllhai:::txtsize --> AbseinzoSsetennrn:::txtsize
+bmlebfgcedpfllhai:::txtsize --> AbseinzoSsetennrn:::txtsize
+bydgSalrglbuvxa:::txtsize --> bydgSdeaaeotrta:::txtsize
+bydgSdeaaeotrta:::txtsize --> bydgFSaregdsRRFr:::txtsize
+BiznrsSpausSgneea:::txtsize --> bydgSdeaaeotrta:::txtsize
+bydgSdeaaeotrta:::txtsize --> bydgFSaregdsRRFr:::txtsize
+bydgFSaregdsRRFr:::txtsize --> Eloimnoennesse:::txtsize
 
-Driercswrnj@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:40 PM_
-Driver rams into pedestrians, cyclists in western france, 9 injured" }
-hfrhrctwivotr@{ shape: win-pane, label: "_Published May 27, 2025, 02:18 AM_
-47 hurt after british man drives car into crowd during liverpool’s title parade" }
-Gnsbutslanai@{ shape: win-pane, label: "_Published May 24, 2025, 09:15 PM_
-Germany mass stabbing suspect has ‘psychological illness’, say police" }
-Gnnsftdmso@{ shape: win-pane, label: "_Published May 24, 2025, 01:44 AM_
-German woman arrested after 18 stabbed at hamburg station" }
-Gnrcscrrirea@{ shape: win-pane, label: "_Published May 06, 2025, 04:40 PM_
-Germany’s merz elected as chancellor after initial surprise setback" }
-AslVufeegtisti@{ shape: win-pane, label: "_Published Apr 27, 2025, 02:00 PM_
-At least 11 killed in vancouver after vehicle ploughs into filipino street festival" }
-LaastagtVut@{ shape: win-pane, label: "_Published Apr 28, 2025, 02:06 AM_
-Last day of canada’s election campaign jolted by vancouver attack" }
-AslVufeegtisti@{ shape: win-pane, label: "_Published Apr 27, 2025, 02:00 PM_
-At least 11 killed in vancouver after vehicle ploughs into filipino street festival" }
-Wuenaaa@{ shape: win-pane, label: "_Published Jan 08, 2025, 05:00 AM_
-Why would the us want canada as a 51st state?" }
-FigeanicrkysL@{ shape: win-pane, label: "_Published Apr 27, 2025, 06:57 PM_
-Filipino legend celebrated in tragic vancouver block party: who is lapu-lapu?" }
-AslVufeegtisti@{ shape: win-pane, label: "_Published Apr 27, 2025, 02:00 PM_
-At least 11 killed in vancouver after vehicle ploughs into filipino street festival" }
-Tlelrtrirnaynm@{ shape: win-pane, label: "_Published Mar 03, 2025, 08:55 PM_
-Two killed, several injured after car rams into crowd in german city of mannheim" }
+Gnepgtpcns@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:20 PM_
+Germany offers to pay afghans to drop relocation plans" }
+Gnrlrroysrte@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:37 PM_
+Germany’s merz calls for repatriation of syrians as far-right surges" }
+Gnnssocrudalcneal@{ shape: win-pane, label: "_Published Dec 09, 2024, 09:17 PM_
+Germany, france, austria, some nordic countries suspend syrian asylum decisions after assad’s fall" }
+TafaBnbdtfd@{ shape: win-pane, label: "_Published Dec 08, 2024, 10:35 PM_
+Thousands of syrians in berlin celebrate departure of assad" }
+SsdsflgtlisRati@{ shape: win-pane, label: "_Published Dec 09, 2024, 03:27 AM_
+Syria’s assad in moscow after fleeing country, will be given asylum: russian state media" }
+Mnsastrtceirwrao@{ shape: win-pane, label: "_Published Nov 04, 2025, 03:57 AM_
+Merz invites syria’s president to germany to discuss deporting syrians with criminal records" }
+SneehtdstNbyn@{ shape: win-pane, label: "_Published Nov 01, 2025, 11:51 PM_
+Syrian leader ahmed al-sharaa to head to washington in november, says us envoy" }
+SneehtdstNbyn@{ shape: win-pane, label: "_Published Nov 01, 2025, 11:51 PM_
+Syrian leader ahmed al-sharaa to head to washington in november, says us envoy" }
+Mnsastrtceirwrao@{ shape: win-pane, label: "_Published Nov 04, 2025, 03:57 AM_
+Merz invites syria’s president to germany to discuss deporting syrians with criminal records" }
+SneehtdstNbyn@{ shape: win-pane, label: "_Published Nov 01, 2025, 11:51 PM_
+Syrian leader ahmed al-sharaa to head to washington in november, says us envoy" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+SneehtdstNbyn@{ shape: win-pane, label: "_Published Nov 01, 2025, 11:51 PM_
+Syrian leader ahmed al-sharaa to head to washington in november, says us envoy" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
 
-Driercswrnj:::txtsize --> hfrhrctwivotr:::txtsize
-hfrhrctwivotr:::txtsize --> Gnsbutslanai:::txtsize
-Gnsbutslanai:::txtsize --> Gnnsftdmso:::txtsize
-Gnsbutslanai:::txtsize --> Gnrcscrrirea:::txtsize
-Driercswrnj:::txtsize --> AslVufeegtisti:::txtsize
-AslVufeegtisti:::txtsize --> LaastagtVut:::txtsize
-LaastagtVut:::txtsize --> AslVufeegtisti:::txtsize
-LaastagtVut:::txtsize --> Wuenaaa:::txtsize
-AslVufeegtisti:::txtsize --> FigeanicrkysL:::txtsize
-FigeanicrkysL:::txtsize --> AslVufeegtisti:::txtsize
-FigeanicrkysL:::txtsize --> Tlelrtrirnaynm:::txtsize
+Gnepgtpcns:::txtsize --> Gnrlrroysrte:::txtsize
+Gnrlrroysrte:::txtsize --> Gnnssocrudalcneal:::txtsize
+Gnnssocrudalcneal:::txtsize --> TafaBnbdtfd:::txtsize
+Gnnssocrudalcneal:::txtsize --> SsdsflgtlisRati:::txtsize
+Gnrlrroysrte:::txtsize --> Mnsastrtceirwrao:::txtsize
+Mnsastrtceirwrao:::txtsize --> SneehtdstNbyn:::txtsize
+Mnsastrtceirwrao:::txtsize --> SneehtdstNbyn:::txtsize
+Gnepgtpcns:::txtsize --> Mnsastrtceirwrao:::txtsize
+Mnsastrtceirwrao:::txtsize --> SneehtdstNbyn:::txtsize
+SneehtdstNbyn:::txtsize --> SnltiARahtoy:::txtsize
+Mnsastrtceirwrao:::txtsize --> SneehtdstNbyn:::txtsize
+SneehtdstNbyn:::txtsize --> SnltiARahtoy:::txtsize
 
-Ncstnebsseili@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:09 PM_
-‘no one could stop it’: sudanese describe mass rapes while fleeing fallen city" }
-Sinayitrsld@{ shape: win-pane, label: "_Published Nov 01, 2025, 04:19 PM_
-Sudan is being ravaged by a civil war the world has overlooked" }
-Nttggmigsnna@{ shape: win-pane, label: "_Published Nov 01, 2025, 05:45 PM_
-New satellite images suggest mass killings persist in sudan’s el-fasher" }
-Sinayitrsld@{ shape: win-pane, label: "_Published Nov 01, 2025, 04:19 PM_
-Sudan is being ravaged by a civil war the world has overlooked" }
-Uiotiandnl@{ shape: win-pane, label: "_Published Sep 13, 2025, 06:25 PM_
-Us, allies propose transitional plan to end sudan conflict" }
-Uiotiandnl@{ shape: win-pane, label: "_Published Sep 13, 2025, 06:25 PM_
-Us, allies propose transitional plan to end sudan conflict" }
-SvetfeeSsele@{ shape: win-pane, label: "_Published Sep 08, 2025, 01:19 PM_
-Survivors tell of terrifying escape from sudan’s besieged el-fasher" }
-Svtsbndrnseldca@{ shape: win-pane, label: "_Published Nov 03, 2025, 10:01 PM_
-Sudan volunteers shown beaten in video were among those later killed, red crescent says" }
-Nttggmigsnna@{ shape: win-pane, label: "_Published Nov 01, 2025, 05:45 PM_
-New satellite images suggest mass killings persist in sudan’s el-fasher" }
-Sinayitrsld@{ shape: win-pane, label: "_Published Nov 01, 2025, 04:19 PM_
-Sudan is being ravaged by a civil war the world has overlooked" }
-Uiotiandnl@{ shape: win-pane, label: "_Published Sep 13, 2025, 06:25 PM_
-Us, allies propose transitional plan to end sudan conflict" }
-Roasopnufeel@{ shape: win-pane, label: "_Published Nov 03, 2025, 06:21 PM_
-Red cross head says ‘history repeating’ in sudan after reported killings" }
-Nttggmigsnna@{ shape: win-pane, label: "_Published Nov 01, 2025, 05:45 PM_
-New satellite images suggest mass killings persist in sudan’s el-fasher" }
-Sinayitrsld@{ shape: win-pane, label: "_Published Nov 01, 2025, 04:19 PM_
-Sudan is being ravaged by a civil war the world has overlooked" }
+Festemaeeasrt@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:14 PM_
+France investigates shein, some rivals over underage access to porn content" }
+Ssonarrtngus@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:01 PM_
+Shein store opening in paris draws protesters and bargain hunters" }
+Fhtplettirnne@{ shape: win-pane, label: "_Published Jun 11, 2025, 12:54 AM_
+French senate adopts bill to regulate fast fashion, targeting china’s shein" }
+SarstsaiiTrt@{ shape: win-pane, label: "_Published Aug 14, 2024, 01:05 PM_
+Seoul authorities find toxic substances in shein and temu products" }
+Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
+Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
+FeaSbclelp@{ shape: win-pane, label: "_Published Nov 03, 2025, 08:50 PM_
+France threatens shein ban if ‘childlike’ sex dolls reappear" }
+CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
+China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
+Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
+Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
+FeaSbclelp@{ shape: win-pane, label: "_Published Nov 03, 2025, 08:50 PM_
+France threatens shein ban if ‘childlike’ sex dolls reappear" }
+CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
+China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
+SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
+Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
+CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
+China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
+SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
+Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
+Shtfbsrol@{ shape: win-pane, label: "_Published Oct 10, 2025, 08:00 AM_
+Shein, hit with big fines, boosts internal controls" }
 
-Ncstnebsseili:::txtsize --> Sinayitrsld:::txtsize
-Sinayitrsld:::txtsize --> Nttggmigsnna:::txtsize
-Nttggmigsnna:::txtsize --> Sinayitrsld:::txtsize
-Nttggmigsnna:::txtsize --> Uiotiandnl:::txtsize
-Sinayitrsld:::txtsize --> Uiotiandnl:::txtsize
-Uiotiandnl:::txtsize --> SvetfeeSsele:::txtsize
-Ncstnebsseili:::txtsize --> Svtsbndrnseldca:::txtsize
-Svtsbndrnseldca:::txtsize --> Nttggmigsnna:::txtsize
-Nttggmigsnna:::txtsize --> Sinayitrsld:::txtsize
-Nttggmigsnna:::txtsize --> Uiotiandnl:::txtsize
-Svtsbndrnseldca:::txtsize --> Roasopnufeel:::txtsize
-Roasopnufeel:::txtsize --> Nttggmigsnna:::txtsize
-Roasopnufeel:::txtsize --> Sinayitrsld:::txtsize
+Festemaeeasrt:::txtsize --> Ssonarrtngus:::txtsize
+Ssonarrtngus:::txtsize --> Fhtplettirnne:::txtsize
+Fhtplettirnne:::txtsize --> SarstsaiiTrt:::txtsize
+Ssonarrtngus:::txtsize --> Sbelerncrdo:::txtsize
+Sbelerncrdo:::txtsize --> FeaSbclelp:::txtsize
+Sbelerncrdo:::txtsize --> CsnsdsloeoFhhoi:::txtsize
+Festemaeeasrt:::txtsize --> Sbelerncrdo:::txtsize
+Sbelerncrdo:::txtsize --> FeaSbclelp:::txtsize
+FeaSbclelp:::txtsize --> CsnsdsloeoFhhoi:::txtsize
+FeaSbclelp:::txtsize --> SthirylerNsba:::txtsize
+Sbelerncrdo:::txtsize --> CsnsdsloeoFhhoi:::txtsize
+CsnsdsloeoFhhoi:::txtsize --> SthirylerNsba:::txtsize
+CsnsdsloeoFhhoi:::txtsize --> Shtfbsrol:::txtsize
 
 ```
-<i>Last updated: 2025-11-05 20:00:49.825563 (GMT+8)</i>
+<i>Last updated: 2025-11-06 00:01:13.670792 (GMT+8)</i>
 <!-- END -->
