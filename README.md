@@ -16,129 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ulniznsdo@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:35 AM_
-Uk will not invest in brazilian forest fund key to cop30" }
-Wfnbdrtoirdsisoy@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:05 AM_
-World falling far behind deforestation goals, with farms and fires driving loss, report says" }
-Ntnosager@{ shape: win-pane, label: "_Published Oct 13, 2025, 11:10 AM_
-Not nothing, not enough: is the paris agreement working?" }
-Smhotanrmor@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:31 AM_
-September third-hottest globally on record: climate monitor" }
-Ranghsocne@{ shape: win-pane, label: "_Published Oct 07, 2025, 01:21 PM_
-Renewable energy growth slows due to policy changes: report" }
-Ctpoaiostwhf@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:09 AM_
-Climate tipping points are being crossed, scientists warn ahead of cop30" }
-Rlfriyitnnet@{ shape: win-pane, label: "_Published Aug 20, 2025, 11:17 PM_
-Rapid loss of antarctic ice may be climate tipping point, scientists say" }
-Smhotanrmor@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:31 AM_
-September third-hottest globally on record: climate monitor" }
-BlmieC@{ shape: win-pane, label: "_Published Oct 14, 2025, 10:15 AM_
-Brazil’s climate wins ahead of cop30" }
-Bladomhpyrni@{ shape: win-pane, label: "_Published Jan 05, 2023, 10:50 AM_
-Brazil to play lead role on climate change policy: environment minister" }
-Laffirrsi@{ shape: win-pane, label: "_Published Jan 02, 2023, 02:29 AM_
-Lula takes office for third term as brazil's president" }
-DeiBlmraor@{ shape: win-pane, label: "_Published Dec 01, 2022, 04:04 AM_
-Deforestation of brazilian amazon retreats from 15-year high" }
-Fiztsectn@{ shape: win-pane, label: "_Published Jun 12, 2024, 06:25 AM_
-Fires in brazil wetlands surge to record start in 2024" }
-Fiznauxegpd@{ shape: win-pane, label: "_Published Jun 07, 2024, 04:32 AM_
-Fires in brazilian wetlands surge 980%, extreme drought expected" }
-Cowilolonau@{ shape: win-pane, label: "_Published Jun 09, 2024, 11:35 AM_
-California wildfire pollution killed 52,000 people in a decade: study" }
+Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
+Us government shutdown becomes longest in history" }
+AcobeaSdnsdh@{ shape: win-pane, label: "_Published Nov 01, 2025, 01:34 AM_
+Americans worry about next meal as us shutdown enters second month" }
+Waswhomhw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:42 PM_
+What happens next with the us government shutdown?" }
+TsSrtpbun@{ shape: win-pane, label: "_Published Oct 01, 2025, 01:49 AM_
+Trump says us government will ‘probably’ shut down" }
+Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
+Us government begins shutdown that may lead to mass layoffs and cuts" }
+Tsrermvlyuso@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:18 AM_
+Trump says private donor gave $160m to cover military pay during shutdown" }
+Utrdetliehwg@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:31 PM_
+Us states warn food aid benefits will halt if federal shutdown drags on" }
+Aomhwgnmeegcilc@{ shape: win-pane, label: "_Published Oct 23, 2025, 08:20 AM_
+As us government shutdown drags on and trump takes power, congress cedes its relevance" }
+Uentesraosactt@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:47 PM_
+Us government shutdown enters record 35th day as congressional inaction takes toll" }
+Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
+Us government begins shutdown that may lead to mass layoffs and cuts" }
+TsSrtpbun@{ shape: win-pane, label: "_Published Oct 01, 2025, 01:49 AM_
+Trump says us government will ‘probably’ shut down" }
+MoAcoedaromhwmirn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:30 AM_
+Millions of americans to get reduced food aid during government shutdown: trump administration" }
+Uentesnknih@{ shape: win-pane, label: "_Published Oct 06, 2025, 09:01 PM_
+Us government shutdown enters second week with no end in sight" }
+Frmognsonpewei@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:32 AM_
+For first time in long us government shutdown, hints of progress toward reopening" }
 
-Ulniznsdo:::txtsize --> Wfnbdrtoirdsisoy:::txtsize
-Wfnbdrtoirdsisoy:::txtsize --> Ntnosager:::txtsize
-Ntnosager:::txtsize --> Smhotanrmor:::txtsize
-Ntnosager:::txtsize --> Ranghsocne:::txtsize
-Wfnbdrtoirdsisoy:::txtsize --> Ctpoaiostwhf:::txtsize
-Ctpoaiostwhf:::txtsize --> Rlfriyitnnet:::txtsize
-Ctpoaiostwhf:::txtsize --> Smhotanrmor:::txtsize
-Ulniznsdo:::txtsize --> BlmieC:::txtsize
-BlmieC:::txtsize --> Bladomhpyrni:::txtsize
-Bladomhpyrni:::txtsize --> Laffirrsi:::txtsize
-Bladomhpyrni:::txtsize --> DeiBlmraor:::txtsize
-BlmieC:::txtsize --> Fiztsectn:::txtsize
-Fiztsectn:::txtsize --> Fiznauxegpd:::txtsize
-Fiztsectn:::txtsize --> Cowilolonau:::txtsize
+Uentbegno:::txtsize --> AcobeaSdnsdh:::txtsize
+AcobeaSdnsdh:::txtsize --> Waswhomhw:::txtsize
+Waswhomhw:::txtsize --> TsSrtpbun:::txtsize
+Waswhomhw:::txtsize --> Ueniunmaayat:::txtsize
+AcobeaSdnsdh:::txtsize --> Tsrermvlyuso:::txtsize
+Tsrermvlyuso:::txtsize --> Utrdetliehwg:::txtsize
+Tsrermvlyuso:::txtsize --> Aomhwgnmeegcilc:::txtsize
+Uentbegno:::txtsize --> Uentesraosactt:::txtsize
+Uentesraosactt:::txtsize --> Ueniunmaayat:::txtsize
+Ueniunmaayat:::txtsize --> TsSrtpbun:::txtsize
+Uentesraosactt:::txtsize --> MoAcoedaromhwmirn:::txtsize
+MoAcoedaromhwmirn:::txtsize --> Uentesnknih:::txtsize
+MoAcoedaromhwmirn:::txtsize --> Frmognsonpewei:::txtsize
 
-FhuatcBolr@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:25 AM_
-Fbi to help guatemala catch escaped barrio 18 gang leaders" }
-CeTrecGmemsastug@{ shape: win-pane, label: "_Published Jun 03, 2024, 08:40 AM_
-Call centre, tvs, air-con, pet chickens: guatemala reclaims prison that housed notorious gang" }
-Ruseznleepny@{ shape: win-pane, label: "_Published Sep 24, 2023, 10:40 AM_
-Restaurants, pool & even a zoo: venezuela offers a peek at prison run by gang" }
-Wtnooneahersoia@{ shape: win-pane, label: "_Published Sep 14, 2023, 04:35 PM_
-Work stint in prison school renews secondary school teachers’ passion for their vocation" }
-Bibnoieepanle@{ shape: win-pane, label: "_Published Jul 08, 2023, 10:00 AM_
-Bringing up baby in prison: how inmates cope with pregnancy and childcare" }
-WTyrgttnrsnu@{ shape: win-pane, label: "_Published May 15, 2024, 10:13 PM_
-Who is 'the fly', the french gangster on the run after a prison van assault?" }
-Mvhfrpnciiepah@{ shape: win-pane, label: "_Published May 15, 2024, 12:45 AM_
-Massive manhunt after french prison officers killed, inmate escapes in ambush" }
-Peaefefepns@{ shape: win-pane, label: "_Published May 15, 2024, 07:52 PM_
-Police in france search for 'the fly' after deadly prison van escape" }
-MnSibrsrpl@{ shape: win-pane, label: "_Published May 17, 2025, 09:12 AM_
-Manhunt in us tourist hub new orleans after 10 escape jail" }
-ieaooao@{ shape: win-pane, label: "_Published Jan 07, 2024, 10:10 PM_
-53 inmates escape from indonesia prison" }
-Eeznetroten@{ shape: win-pane, label: "_Published Sep 13, 2023, 05:48 AM_
-Escaped brazilian murderer steals rifle, outwits huge us manhunt" }
-Mvhfrpnciiepah@{ shape: win-pane, label: "_Published May 15, 2024, 12:45 AM_
-Massive manhunt after french prison officers killed, inmate escapes in ambush" }
-ieaooao@{ shape: win-pane, label: "_Published Jan 07, 2024, 10:10 PM_
-53 inmates escape from indonesia prison" }
-Ieeelakplkh@{ shape: win-pane, label: "_Published Sep 08, 2023, 09:50 AM_
-Inmate in us escapes jail by ‘crab-walking’ up a wall, sparks manhunt" }
-
-FhuatcBolr:::txtsize --> CeTrecGmemsastug:::txtsize
-CeTrecGmemsastug:::txtsize --> Ruseznleepny:::txtsize
-Ruseznleepny:::txtsize --> Wtnooneahersoia:::txtsize
-Ruseznleepny:::txtsize --> Bibnoieepanle:::txtsize
-CeTrecGmemsastug:::txtsize --> WTyrgttnrsnu:::txtsize
-WTyrgttnrsnu:::txtsize --> Mvhfrpnciiepah:::txtsize
-WTyrgttnrsnu:::txtsize --> Peaefefepns:::txtsize
-FhuatcBolr:::txtsize --> MnSibrsrpl:::txtsize
-MnSibrsrpl:::txtsize --> ieaooao:::txtsize
-ieaooao:::txtsize --> Eeznetroten:::txtsize
-MnSibrsrpl:::txtsize --> Mvhfrpnciiepah:::txtsize
-Mvhfrpnciiepah:::txtsize --> ieaooao:::txtsize
-Mvhfrpnciiepah:::txtsize --> Ieeelakplkh:::txtsize
-
-YMmnoihaiYilemhny@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges trump and his own party" }
+ThuMnlmenYoa@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:15 PM_
+‘turn the volume up’, mamdani tells trump after winning nyc mayoral race" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
 YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
 Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
-TbCttousoscolsdsr@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:15 AM_
-Trump backs cuomo, threatens to cut funds as new yorkers expected to pick leftist mamdani as mayor" }
-OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
-Obama calls mamdani, praises campaign ahead of new york mayoral election" }
-OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
-Obama calls mamdani, praises campaign ahead of new york mayoral election" }
-UritadtoctCimam@{ shape: win-pane, label: "_Published Jun 25, 2025, 04:10 PM_
-Upstart socialist zohran mamdani stuns political veteran cuomo in nyc mayoral primary" }
+Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
+Takeaways from us election night 2025" }
+Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
+Cuomo to stay in new york mayoral race despite losing democratic primary" }
+MnCankgnsodty@{ shape: win-pane, label: "_Published Jun 27, 2025, 06:16 PM_
+Mamdani’s nyc primary win sparks surge in anti-muslim posts, advocates say" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
 YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
 Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
-TbCttousoscolsdsr@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:15 AM_
-Trump backs cuomo, threatens to cut funds as new yorkers expected to pick leftist mamdani as mayor" }
-OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
-Obama calls mamdani, praises campaign ahead of new york mayoral election" }
-OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
-Obama calls mamdani, praises campaign ahead of new york mayoral election" }
-UritadtoctCimam@{ shape: win-pane, label: "_Published Jun 25, 2025, 04:10 PM_
-Upstart socialist zohran mamdani stuns political veteran cuomo in nyc mayoral primary" }
+Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
+Takeaways from us election night 2025" }
+Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
+Cuomo to stay in new york mayoral race despite losing democratic primary" }
+MnCankgnsodty@{ shape: win-pane, label: "_Published Jun 27, 2025, 06:16 PM_
+Mamdani’s nyc primary win sparks surge in anti-muslim posts, advocates say" }
 
-YMmnoihaiYilemhny:::txtsize --> YMmimociYaoauoc:::txtsize
-YMmimociYaoauoc:::txtsize --> TbCttousoscolsdsr:::txtsize
-TbCttousoscolsdsr:::txtsize --> OcMniagaekren:::txtsize
-YMmimociYaoauoc:::txtsize --> OcMniagaekren:::txtsize
-OcMniagaekren:::txtsize --> UritadtoctCimam:::txtsize
-YMmnoihaiYilemhny:::txtsize --> YMmimociYaoauoc:::txtsize
-YMmimociYaoauoc:::txtsize --> TbCttousoscolsdsr:::txtsize
-TbCttousoscolsdsr:::txtsize --> OcMniagaekren:::txtsize
-YMmimociYaoauoc:::txtsize --> OcMniagaekren:::txtsize
-OcMniagaekren:::txtsize --> UritadtoctCimam:::txtsize
+ThuMnlmenYoa:::txtsize --> Drwialosdp:::txtsize
+Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
+YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
+YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
+Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
+Ctywmaeiseary:::txtsize --> MnCankgnsodty:::txtsize
+ThuMnlmenYoa:::txtsize --> Drwialosdp:::txtsize
+Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
+YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
+YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
+Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
+Ctywmaeiseary:::txtsize --> MnCankgnsodty:::txtsize
+
+Eihrhematnr@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:32 PM_
+Explainer: why is trump threatening military action in nigeria?" }
+TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
+Trump threatens military action in nigeria over ‘killing of christians’" }
+UDehewmeinegas@{ shape: win-pane, label: "_Published Nov 01, 2025, 09:00 AM_
+Us v-p j.d. vance says he hopes his wife embraces christianity, setting off backlash" }
+UanyrAcm@{ shape: win-pane, label: "_Published Mar 28, 2025, 01:30 PM_
+Usha vance in the eye of trump’s arctic storm" }
+TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
+Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
+Tshoeonrierts@{ shape: win-pane, label: "_Published Nov 03, 2025, 07:41 AM_
+Trump says there ‘could be’ us troops on the ground in nigeria, or air strikes" }
+TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
+Trump threatens military action in nigeria over ‘killing of christians’" }
+UDehewmeinegas@{ shape: win-pane, label: "_Published Nov 01, 2025, 09:00 AM_
+Us v-p j.d. vance says he hopes his wife embraces christianity, setting off backlash" }
+Nislissuttesrt@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
+Nigeria says us help against islamist insurgents must respect its sovereignty" }
+TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
+Trump threatens military action in nigeria over ‘killing of christians’" }
+TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
+Trump threatens military action in nigeria over ‘killing of christians’" }
+
+Eihrhematnr:::txtsize --> TttiriNiriCt:::txtsize
+TttiriNiriCt:::txtsize --> UDehewmeinegas:::txtsize
+UDehewmeinegas:::txtsize --> UanyrAcm:::txtsize
+UDehewmeinegas:::txtsize --> TahesegnipdoUstt:::txtsize
+Eihrhematnr:::txtsize --> Tshoeonrierts:::txtsize
+Tshoeonrierts:::txtsize --> TttiriNiriCt:::txtsize
+TttiriNiriCt:::txtsize --> UDehewmeinegas:::txtsize
+Tshoeonrierts:::txtsize --> Nislissuttesrt:::txtsize
+Nislissuttesrt:::txtsize --> TttiriNiriCt:::txtsize
+Nislissuttesrt:::txtsize --> TttiriNiriCt:::txtsize
 
 ```
-<i>Last updated: 2025-11-05 12:00:56.786559 (GMT+8)</i>
+<i>Last updated: 2025-11-05 16:00:24.338996 (GMT+8)</i>
 <!-- END -->
