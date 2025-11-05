@@ -16,120 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-BiznrsSpausSgneea@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:45 PM_
-Britain seizes dinosaur bones from singapore-based businessman su binghai in crime proceeds case" }
-bydgSalrglbuvxa@{ shape: win-pane, label: "_Published Jun 30, 2025, 06:50 PM_
-$3b money laundering case: s’porean jailed for lying to police about fugitive’s luxury cars" }
-bmlebfgcedpfllhai@{ shape: win-pane, label: "_Published Aug 17, 2023, 12:13 AM_
-$1b anti-money laundering blitz: 10 foreigners charged hold passports from places like china, cambodia" }
-AbseinzoSsetennrn@{ shape: win-pane, label: "_Published Aug 16, 2023, 08:18 PM_
-About $1b in cash, assets seized and frozen in one of s’pore’s biggest anti-money laundering operations" }
-AbseinzoSsetennrn@{ shape: win-pane, label: "_Published Aug 16, 2023, 08:18 PM_
-About $1b in cash, assets seized and frozen in one of s’pore’s biggest anti-money laundering operations" }
-bydgSdeaaeotrta@{ shape: win-pane, label: "_Published Jan 23, 2025, 10:09 AM_
-$3b money laundering case: second s’porean charged; allegedly committed forgery to cheat dbs" }
-bydgFSaregdsRRFr@{ shape: win-pane, label: "_Published Aug 15, 2024, 09:56 AM_
-$3b money laundering case: first s’porean charged; he allegedly disposed of rolls-royce, ferrari" }
-bydgSdeaaeotrta@{ shape: win-pane, label: "_Published Jan 23, 2025, 10:09 AM_
-$3b money laundering case: second s’porean charged; allegedly committed forgery to cheat dbs" }
-bydgFSaregdsRRFr@{ shape: win-pane, label: "_Published Aug 15, 2024, 09:56 AM_
-$3b money laundering case: first s’porean charged; he allegedly disposed of rolls-royce, ferrari" }
-Eloimnoennesse@{ shape: win-pane, label: "_Published Jul 14, 2024, 05:00 AM_
-Ex-employee of businessman linked to $3b money laundering case exposes boss’ excesses" }
+Uinfogeir@{ shape: win-pane, label: "_Published Nov 06, 2025, 02:25 AM_
+Uk police manhunt for two wrongly freed prisoners" }
+Uialtyesfreols@{ shape: win-pane, label: "_Published Oct 25, 2025, 03:09 AM_
+Uk minister ‘appalled’ after asylum seeker sex offender is freed from jail by mistake" }
+Fesicnoitsa@{ shape: win-pane, label: "_Published Jun 19, 2025, 05:21 PM_
+France mulls over intercepting uk-bound migrant boats at sea" }
+UasuleonruoFee@{ shape: win-pane, label: "_Published May 12, 2025, 05:36 AM_
+Uk’s starmer steps up english tests, toughens migrant rules to halt farage’s rise" }
+Rdeednars@{ shape: win-pane, label: "_Published Mar 21, 2025, 05:41 PM_
+Record number of people died on migration routes in 2024: un" }
+BiartaoesiiIn@{ shape: win-pane, label: "_Published Oct 08, 2025, 07:17 AM_
+Britain’s starmer resists demands for more visas for high-skilled indians" }
+TtoeBealt@{ shape: win-pane, label: "_Published Sep 20, 2025, 04:36 AM_
+Trump to impose $130,000 fee for h-1b worker visas in blow to tech" }
+BiIsracidi@{ shape: win-pane, label: "_Published Jul 25, 2025, 06:54 AM_
+Britain and india sign free trade pact during modi visit" }
 
-BiznrsSpausSgneea:::txtsize --> bydgSalrglbuvxa:::txtsize
-bydgSalrglbuvxa:::txtsize --> bmlebfgcedpfllhai:::txtsize
-bmlebfgcedpfllhai:::txtsize --> AbseinzoSsetennrn:::txtsize
-bmlebfgcedpfllhai:::txtsize --> AbseinzoSsetennrn:::txtsize
-bydgSalrglbuvxa:::txtsize --> bydgSdeaaeotrta:::txtsize
-bydgSdeaaeotrta:::txtsize --> bydgFSaregdsRRFr:::txtsize
-BiznrsSpausSgneea:::txtsize --> bydgSdeaaeotrta:::txtsize
-bydgSdeaaeotrta:::txtsize --> bydgFSaregdsRRFr:::txtsize
-bydgFSaregdsRRFr:::txtsize --> Eloimnoennesse:::txtsize
+Uinfogeir:::txtsize --> Uialtyesfreols:::txtsize
+Uialtyesfreols:::txtsize --> Fesicnoitsa:::txtsize
+Fesicnoitsa:::txtsize --> UasuleonruoFee:::txtsize
+Fesicnoitsa:::txtsize --> Rdeednars:::txtsize
+Uialtyesfreols:::txtsize --> BiartaoesiiIn:::txtsize
+BiartaoesiiIn:::txtsize --> TtoeBealt:::txtsize
+BiartaoesiiIn:::txtsize --> BiIsracidi:::txtsize
 
-Gnepgtpcns@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:20 PM_
-Germany offers to pay afghans to drop relocation plans" }
-Gnrlrroysrte@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:37 PM_
-Germany’s merz calls for repatriation of syrians as far-right surges" }
-Gnnssocrudalcneal@{ shape: win-pane, label: "_Published Dec 09, 2024, 09:17 PM_
-Germany, france, austria, some nordic countries suspend syrian asylum decisions after assad’s fall" }
-TafaBnbdtfd@{ shape: win-pane, label: "_Published Dec 08, 2024, 10:35 PM_
-Thousands of syrians in berlin celebrate departure of assad" }
-SsdsflgtlisRati@{ shape: win-pane, label: "_Published Dec 09, 2024, 03:27 AM_
-Syria’s assad in moscow after fleeing country, will be given asylum: russian state media" }
-Mnsastrtceirwrao@{ shape: win-pane, label: "_Published Nov 04, 2025, 03:57 AM_
-Merz invites syria’s president to germany to discuss deporting syrians with criminal records" }
-SneehtdstNbyn@{ shape: win-pane, label: "_Published Nov 01, 2025, 11:51 PM_
-Syrian leader ahmed al-sharaa to head to washington in november, says us envoy" }
-SneehtdstNbyn@{ shape: win-pane, label: "_Published Nov 01, 2025, 11:51 PM_
-Syrian leader ahmed al-sharaa to head to washington in november, says us envoy" }
-Mnsastrtceirwrao@{ shape: win-pane, label: "_Published Nov 04, 2025, 03:57 AM_
-Merz invites syria’s president to germany to discuss deporting syrians with criminal records" }
-SneehtdstNbyn@{ shape: win-pane, label: "_Published Nov 01, 2025, 11:51 PM_
-Syrian leader ahmed al-sharaa to head to washington in november, says us envoy" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-SneehtdstNbyn@{ shape: win-pane, label: "_Published Nov 01, 2025, 11:51 PM_
-Syrian leader ahmed al-sharaa to head to washington in november, says us envoy" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
+Udeokllenz@{ shape: win-pane, label: "_Published Nov 06, 2025, 02:01 AM_
+Un road map seeks to crack $1.7 trillion climate finance puzzle" }
+WwvogmoneUn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:22 PM_
+World will overshoot 1.5 deg c climate goal in next decade, un warns" }
+Ntnosager@{ shape: win-pane, label: "_Published Oct 13, 2025, 11:10 AM_
+Not nothing, not enough: is the paris agreement working?" }
+Smhotanrmor@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:31 AM_
+September third-hottest globally on record: climate monitor" }
+Ranghsocne@{ shape: win-pane, label: "_Published Oct 07, 2025, 01:21 PM_
+Renewable energy growth slows due to policy changes: report" }
+Cpghgdois@{ shape: win-pane, label: "_Published Sep 25, 2025, 04:57 AM_
+China plans 7-10% greenhouse gas reduction by 2035, xi tells un" }
+OftholnCcttvr@{ shape: win-pane, label: "_Published Sep 18, 2025, 03:10 AM_
+Only 40% of countries have booked lodging for cop30 un climate meet in november" }
+TtUtaastogl@{ shape: win-pane, label: "_Published Sep 24, 2025, 12:17 AM_
+Trump tells un that climate change is ‘greatest con job’ globally" }
+DonnslOmeifn@{ shape: win-pane, label: "_Published Nov 24, 2024, 06:55 AM_
+Developing nations blast $404 billion cop29 climate deal as insufficient" }
+wedtnrcia@{ shape: win-pane, label: "_Published Nov 07, 2024, 11:17 AM_
+2024 will be world’s hottest on record, eu scientists say" }
+SlWoaaP@{ shape: win-pane, label: "_Published Nov 02, 2024, 05:00 AM_
+St explains: what’s on the agenda at cop29?" }
+TsbchioUdetne@{ shape: win-pane, label: "_Published Nov 06, 2024, 07:37 AM_
+Trump set to be elected 47th president of the united states in stunning comeback" }
+Cifclchetsg@{ shape: win-pane, label: "_Published Nov 24, 2024, 07:32 AM_
+Cop29 climate finance deal clinched: what are countries saying?" }
+DonnslOmeifn@{ shape: win-pane, label: "_Published Nov 24, 2024, 06:55 AM_
+Developing nations blast $404 billion cop29 climate deal as insufficient" }
+Whnsrnctllse@{ shape: win-pane, label: "_Published Nov 23, 2024, 02:28 PM_
+Wealthy countries back raising cop29 climate deal to $404 billion, sources say" }
 
-Gnepgtpcns:::txtsize --> Gnrlrroysrte:::txtsize
-Gnrlrroysrte:::txtsize --> Gnnssocrudalcneal:::txtsize
-Gnnssocrudalcneal:::txtsize --> TafaBnbdtfd:::txtsize
-Gnnssocrudalcneal:::txtsize --> SsdsflgtlisRati:::txtsize
-Gnrlrroysrte:::txtsize --> Mnsastrtceirwrao:::txtsize
-Mnsastrtceirwrao:::txtsize --> SneehtdstNbyn:::txtsize
-Mnsastrtceirwrao:::txtsize --> SneehtdstNbyn:::txtsize
-Gnepgtpcns:::txtsize --> Mnsastrtceirwrao:::txtsize
-Mnsastrtceirwrao:::txtsize --> SneehtdstNbyn:::txtsize
-SneehtdstNbyn:::txtsize --> SnltiARahtoy:::txtsize
-Mnsastrtceirwrao:::txtsize --> SneehtdstNbyn:::txtsize
-SneehtdstNbyn:::txtsize --> SnltiARahtoy:::txtsize
+Udeokllenz:::txtsize --> WwvogmoneUn:::txtsize
+WwvogmoneUn:::txtsize --> Ntnosager:::txtsize
+Ntnosager:::txtsize --> Smhotanrmor:::txtsize
+Ntnosager:::txtsize --> Ranghsocne:::txtsize
+WwvogmoneUn:::txtsize --> Cpghgdois:::txtsize
+Cpghgdois:::txtsize --> OftholnCcttvr:::txtsize
+Cpghgdois:::txtsize --> TtUtaastogl:::txtsize
+Udeokllenz:::txtsize --> DonnslOmeifn:::txtsize
+DonnslOmeifn:::txtsize --> wedtnrcia:::txtsize
+wedtnrcia:::txtsize --> SlWoaaP:::txtsize
+wedtnrcia:::txtsize --> TsbchioUdetne:::txtsize
+DonnslOmeifn:::txtsize --> Cifclchetsg:::txtsize
+Cifclchetsg:::txtsize --> DonnslOmeifn:::txtsize
+Cifclchetsg:::txtsize --> Whnsrnctllse:::txtsize
 
-Festemaeeasrt@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:14 PM_
-France investigates shein, some rivals over underage access to porn content" }
-Ssonarrtngus@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:01 PM_
-Shein store opening in paris draws protesters and bargain hunters" }
-Fhtplettirnne@{ shape: win-pane, label: "_Published Jun 11, 2025, 12:54 AM_
-French senate adopts bill to regulate fast fashion, targeting china’s shein" }
-SarstsaiiTrt@{ shape: win-pane, label: "_Published Aug 14, 2024, 01:05 PM_
-Seoul authorities find toxic substances in shein and temu products" }
-Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
-Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
-FeaSbclelp@{ shape: win-pane, label: "_Published Nov 03, 2025, 08:50 PM_
-France threatens shein ban if ‘childlike’ sex dolls reappear" }
-CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
-China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
-Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
-Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
-FeaSbclelp@{ shape: win-pane, label: "_Published Nov 03, 2025, 08:50 PM_
-France threatens shein ban if ‘childlike’ sex dolls reappear" }
-CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
-China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
-SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
-Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
-CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
-China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
-SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
-Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
-Shtfbsrol@{ shape: win-pane, label: "_Published Oct 10, 2025, 08:00 AM_
-Shein, hit with big fines, boosts internal controls" }
+Znaciippfiiirh@{ shape: win-pane, label: "_Published Nov 06, 2025, 01:25 AM_
+Zohran mamdani victory in us fires up europe’s left against right-wing surge at home" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
+Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
+TbCttousoscolsdsr@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:15 AM_
+Trump backs cuomo, threatens to cut funds as new yorkers expected to pick leftist mamdani as mayor" }
+OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
+Obama calls mamdani, praises campaign ahead of new york mayoral election" }
+Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
+Takeaways from us election night 2025" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
+Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
+TbCttousoscolsdsr@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:15 AM_
+Trump backs cuomo, threatens to cut funds as new yorkers expected to pick leftist mamdani as mayor" }
+OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
+Obama calls mamdani, praises campaign ahead of new york mayoral election" }
+Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
+Takeaways from us election night 2025" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
 
-Festemaeeasrt:::txtsize --> Ssonarrtngus:::txtsize
-Ssonarrtngus:::txtsize --> Fhtplettirnne:::txtsize
-Fhtplettirnne:::txtsize --> SarstsaiiTrt:::txtsize
-Ssonarrtngus:::txtsize --> Sbelerncrdo:::txtsize
-Sbelerncrdo:::txtsize --> FeaSbclelp:::txtsize
-Sbelerncrdo:::txtsize --> CsnsdsloeoFhhoi:::txtsize
-Festemaeeasrt:::txtsize --> Sbelerncrdo:::txtsize
-Sbelerncrdo:::txtsize --> FeaSbclelp:::txtsize
-FeaSbclelp:::txtsize --> CsnsdsloeoFhhoi:::txtsize
-FeaSbclelp:::txtsize --> SthirylerNsba:::txtsize
-Sbelerncrdo:::txtsize --> CsnsdsloeoFhhoi:::txtsize
-CsnsdsloeoFhhoi:::txtsize --> SthirylerNsba:::txtsize
-CsnsdsloeoFhhoi:::txtsize --> Shtfbsrol:::txtsize
+Znaciippfiiirh:::txtsize --> YMmnoihaiYilehpea:::txtsize
+YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
+YMmimociYaoauoc:::txtsize --> TbCttousoscolsdsr:::txtsize
+YMmimociYaoauoc:::txtsize --> OcMniagaekren:::txtsize
+YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
+Twreig:::txtsize --> YMmnoihaiYilehpea:::txtsize
+Twreig:::txtsize --> Drwialosdp:::txtsize
+Znaciippfiiirh:::txtsize --> YMmnoihaiYilehpea:::txtsize
+YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
+YMmimociYaoauoc:::txtsize --> TbCttousoscolsdsr:::txtsize
+YMmimociYaoauoc:::txtsize --> OcMniagaekren:::txtsize
+YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
+Twreig:::txtsize --> YMmnoihaiYilehpea:::txtsize
+Twreig:::txtsize --> Drwialosdp:::txtsize
 
 ```
-<i>Last updated: 2025-11-06 00:01:13.670792 (GMT+8)</i>
+<i>Last updated: 2025-11-06 04:00:37.129776 (GMT+8)</i>
 <!-- END -->
