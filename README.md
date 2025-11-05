@@ -16,129 +16,129 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Uaaitiipd@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:32 AM_
-Ups plane crashes in kentucky, injuries reported" }
-Uycraagrahle@{ shape: win-pane, label: "_Published Aug 02, 2025, 09:40 AM_
-Us army helicopter in deadly washington crash had technical issues" }
-Nvspaltloag@{ shape: win-pane, label: "_Published Jan 30, 2025, 09:10 PM_
-No survivors from plane and helicopter collision in washington" }
-Medfmaljltlaathoe@{ shape: win-pane, label: "_Published Jan 30, 2025, 11:14 AM_
-Many feared dead after american airlines jet, helicopter collide and crash into washington river" }
-Medfmaljltlaathoe@{ shape: win-pane, label: "_Published Jan 30, 2025, 11:14 AM_
-Many feared dead after american airlines jet, helicopter collide and crash into washington river" }
-Tusgtnjanoevnrr@{ shape: win-pane, label: "_Published Jul 26, 2025, 07:49 AM_
-Two southwest flight attendants injured as plane manoeuvres to avoid another aircraft" }
-Uhiopneolhbeto@{ shape: win-pane, label: "_Published Jul 21, 2025, 10:00 PM_
-Us authorities probing passenger jet’s close call with b-52 bomber over north dakota" }
-Uhiopneolhbeto@{ shape: win-pane, label: "_Published Jul 21, 2025, 10:00 PM_
-Us authorities probing passenger jet’s close call with b-52 bomber over north dakota" }
-Tailrnfahh@{ shape: win-pane, label: "_Published May 22, 2025, 09:43 PM_
-Two dead in fiery plane crash on california neighbourhood" }
-Medfmaljltlaathoe@{ shape: win-pane, label: "_Published Jan 30, 2025, 11:14 AM_
-Many feared dead after american airlines jet, helicopter collide and crash into washington river" }
-Uuawniienthtoi@{ shape: win-pane, label: "_Published Jan 30, 2025, 04:44 PM_
-Us figure skaters were on american airlines plane that crashed into potomac river" }
-Jelynlrstb@{ shape: win-pane, label: "_Published May 14, 2025, 10:15 PM_
-Japanese military training plane crashes with two on board" }
-Fshesnintt@{ shape: win-pane, label: "_Published May 08, 2025, 12:01 AM_
-Finnish fighter jet crashes in arctic town, pilot ejected" }
-Acwatesnarr@{ shape: win-pane, label: "_Published Feb 15, 2025, 10:30 AM_
-Advanced new taiwan jet trainer crashes in setback for programme" }
+Ulniznsdo@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:35 AM_
+Uk will not invest in brazilian forest fund key to cop30" }
+Wfnbdrtoirdsisoy@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:05 AM_
+World falling far behind deforestation goals, with farms and fires driving loss, report says" }
+Ntnosager@{ shape: win-pane, label: "_Published Oct 13, 2025, 11:10 AM_
+Not nothing, not enough: is the paris agreement working?" }
+Smhotanrmor@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:31 AM_
+September third-hottest globally on record: climate monitor" }
+Ranghsocne@{ shape: win-pane, label: "_Published Oct 07, 2025, 01:21 PM_
+Renewable energy growth slows due to policy changes: report" }
+Ctpoaiostwhf@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:09 AM_
+Climate tipping points are being crossed, scientists warn ahead of cop30" }
+Rlfriyitnnet@{ shape: win-pane, label: "_Published Aug 20, 2025, 11:17 PM_
+Rapid loss of antarctic ice may be climate tipping point, scientists say" }
+Smhotanrmor@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:31 AM_
+September third-hottest globally on record: climate monitor" }
+BlmieC@{ shape: win-pane, label: "_Published Oct 14, 2025, 10:15 AM_
+Brazil’s climate wins ahead of cop30" }
+Bladomhpyrni@{ shape: win-pane, label: "_Published Jan 05, 2023, 10:50 AM_
+Brazil to play lead role on climate change policy: environment minister" }
+Laffirrsi@{ shape: win-pane, label: "_Published Jan 02, 2023, 02:29 AM_
+Lula takes office for third term as brazil's president" }
+DeiBlmraor@{ shape: win-pane, label: "_Published Dec 01, 2022, 04:04 AM_
+Deforestation of brazilian amazon retreats from 15-year high" }
+Fiztsectn@{ shape: win-pane, label: "_Published Jun 12, 2024, 06:25 AM_
+Fires in brazil wetlands surge to record start in 2024" }
+Fiznauxegpd@{ shape: win-pane, label: "_Published Jun 07, 2024, 04:32 AM_
+Fires in brazilian wetlands surge 980%, extreme drought expected" }
+Cowilolonau@{ shape: win-pane, label: "_Published Jun 09, 2024, 11:35 AM_
+California wildfire pollution killed 52,000 people in a decade: study" }
 
-Uaaitiipd:::txtsize --> Uycraagrahle:::txtsize
-Uycraagrahle:::txtsize --> Nvspaltloag:::txtsize
-Nvspaltloag:::txtsize --> Medfmaljltlaathoe:::txtsize
-Nvspaltloag:::txtsize --> Medfmaljltlaathoe:::txtsize
-Uycraagrahle:::txtsize --> Tusgtnjanoevnrr:::txtsize
-Tusgtnjanoevnrr:::txtsize --> Uhiopneolhbeto:::txtsize
-Tusgtnjanoevnrr:::txtsize --> Uhiopneolhbeto:::txtsize
-Uaaitiipd:::txtsize --> Tailrnfahh:::txtsize
-Tailrnfahh:::txtsize --> Medfmaljltlaathoe:::txtsize
-Medfmaljltlaathoe:::txtsize --> Uuawniienthtoi:::txtsize
-Tailrnfahh:::txtsize --> Jelynlrstb:::txtsize
-Jelynlrstb:::txtsize --> Fshesnintt:::txtsize
-Jelynlrstb:::txtsize --> Acwatesnarr:::txtsize
+Ulniznsdo:::txtsize --> Wfnbdrtoirdsisoy:::txtsize
+Wfnbdrtoirdsisoy:::txtsize --> Ntnosager:::txtsize
+Ntnosager:::txtsize --> Smhotanrmor:::txtsize
+Ntnosager:::txtsize --> Ranghsocne:::txtsize
+Wfnbdrtoirdsisoy:::txtsize --> Ctpoaiostwhf:::txtsize
+Ctpoaiostwhf:::txtsize --> Rlfriyitnnet:::txtsize
+Ctpoaiostwhf:::txtsize --> Smhotanrmor:::txtsize
+Ulniznsdo:::txtsize --> BlmieC:::txtsize
+BlmieC:::txtsize --> Bladomhpyrni:::txtsize
+Bladomhpyrni:::txtsize --> Laffirrsi:::txtsize
+Bladomhpyrni:::txtsize --> DeiBlmraor:::txtsize
+BlmieC:::txtsize --> Fiztsectn:::txtsize
+Fiztsectn:::txtsize --> Fiznauxegpd:::txtsize
+Fiztsectn:::txtsize --> Cowilolonau:::txtsize
 
-TrisaasapiNh@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:27 AM_
-Trump re-nominates musk ally jared isaacman for position of nasa chief" }
-FrpnegtoMahs@{ shape: win-pane, label: "_Published Jun 05, 2025, 07:15 AM_
-Former trump nasa nominee suggests ties to elon musk caused his ouster" }
-TpMlamilorct@{ shape: win-pane, label: "_Published Jun 01, 2025, 04:57 AM_
-Trump pulls musk ally’s nasa nomination, will announce replacement" }
-TpMlranaaec@{ shape: win-pane, label: "_Published Dec 05, 2024, 12:30 AM_
-Trump picks musk ally jared isaacman to head nasa space agency" }
-Mosrfdzbeal@{ shape: win-pane, label: "_Published May 31, 2025, 04:29 AM_
-Musk vows to stay trump’s ‘friend’ in bizarre black-eyed farewell" }
-Tsnraitsatcosaqon@{ shape: win-pane, label: "_Published Apr 27, 2025, 07:45 AM_
-Trump’s nominee for nasa administrator was once arrested, accused of passing bad cheques to casinos" }
-WHwraeidrio@{ shape: win-pane, label: "_Published Mar 14, 2025, 08:50 AM_
-White house withdraws vaccine critic weldon for cdc director" }
-TipuadsiouSeomni@{ shape: win-pane, label: "_Published Jan 31, 2025, 02:04 AM_
-Trump intel pick tulsi gabbard faces criticism over russia, snowden in confirmation hearing" }
-Tsnraitsatcosaqon@{ shape: win-pane, label: "_Published Apr 27, 2025, 07:45 AM_
-Trump’s nominee for nasa administrator was once arrested, accused of passing bad cheques to casinos" }
-WHwraeidrio@{ shape: win-pane, label: "_Published Mar 14, 2025, 08:50 AM_
-White house withdraws vaccine critic weldon for cdc director" }
-Tsnedonnaeeiv@{ shape: win-pane, label: "_Published Mar 05, 2025, 04:15 AM_
-Trump’s nato nominee pledges to strengthen alliance despite russian pivot" }
-CitilbcrsSh@{ shape: win-pane, label: "_Published Feb 13, 2025, 07:47 AM_
-Conspiracy theorist tulsi gabbard confirmed as new us spy chief" }
-TipuadsiouSeomni@{ shape: win-pane, label: "_Published Jan 31, 2025, 02:04 AM_
-Trump intel pick tulsi gabbard faces criticism over russia, snowden in confirmation hearing" }
-Hlbbeoessm@{ shape: win-pane, label: "_Published Nov 19, 2024, 10:01 AM_
-How tulsi gabbard became a favourite of russia’s state media" }
-SrxTcebanief@{ shape: win-pane, label: "_Published Nov 15, 2024, 06:55 AM_
-Spy world vexed by trump choice of gabbard as us intelligence chief" }
+FhuatcBolr@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:25 AM_
+Fbi to help guatemala catch escaped barrio 18 gang leaders" }
+CeTrecGmemsastug@{ shape: win-pane, label: "_Published Jun 03, 2024, 08:40 AM_
+Call centre, tvs, air-con, pet chickens: guatemala reclaims prison that housed notorious gang" }
+Ruseznleepny@{ shape: win-pane, label: "_Published Sep 24, 2023, 10:40 AM_
+Restaurants, pool & even a zoo: venezuela offers a peek at prison run by gang" }
+Wtnooneahersoia@{ shape: win-pane, label: "_Published Sep 14, 2023, 04:35 PM_
+Work stint in prison school renews secondary school teachers’ passion for their vocation" }
+Bibnoieepanle@{ shape: win-pane, label: "_Published Jul 08, 2023, 10:00 AM_
+Bringing up baby in prison: how inmates cope with pregnancy and childcare" }
+WTyrgttnrsnu@{ shape: win-pane, label: "_Published May 15, 2024, 10:13 PM_
+Who is 'the fly', the french gangster on the run after a prison van assault?" }
+Mvhfrpnciiepah@{ shape: win-pane, label: "_Published May 15, 2024, 12:45 AM_
+Massive manhunt after french prison officers killed, inmate escapes in ambush" }
+Peaefefepns@{ shape: win-pane, label: "_Published May 15, 2024, 07:52 PM_
+Police in france search for 'the fly' after deadly prison van escape" }
+MnSibrsrpl@{ shape: win-pane, label: "_Published May 17, 2025, 09:12 AM_
+Manhunt in us tourist hub new orleans after 10 escape jail" }
+ieaooao@{ shape: win-pane, label: "_Published Jan 07, 2024, 10:10 PM_
+53 inmates escape from indonesia prison" }
+Eeznetroten@{ shape: win-pane, label: "_Published Sep 13, 2023, 05:48 AM_
+Escaped brazilian murderer steals rifle, outwits huge us manhunt" }
+Mvhfrpnciiepah@{ shape: win-pane, label: "_Published May 15, 2024, 12:45 AM_
+Massive manhunt after french prison officers killed, inmate escapes in ambush" }
+ieaooao@{ shape: win-pane, label: "_Published Jan 07, 2024, 10:10 PM_
+53 inmates escape from indonesia prison" }
+Ieeelakplkh@{ shape: win-pane, label: "_Published Sep 08, 2023, 09:50 AM_
+Inmate in us escapes jail by ‘crab-walking’ up a wall, sparks manhunt" }
 
-TrisaasapiNh:::txtsize --> FrpnegtoMahs:::txtsize
-FrpnegtoMahs:::txtsize --> TpMlamilorct:::txtsize
-TpMlamilorct:::txtsize --> TpMlranaaec:::txtsize
-TpMlamilorct:::txtsize --> Mosrfdzbeal:::txtsize
-FrpnegtoMahs:::txtsize --> Tsnraitsatcosaqon:::txtsize
-Tsnraitsatcosaqon:::txtsize --> WHwraeidrio:::txtsize
-Tsnraitsatcosaqon:::txtsize --> TipuadsiouSeomni:::txtsize
-TrisaasapiNh:::txtsize --> Tsnraitsatcosaqon:::txtsize
-Tsnraitsatcosaqon:::txtsize --> WHwraeidrio:::txtsize
-WHwraeidrio:::txtsize --> Tsnedonnaeeiv:::txtsize
-WHwraeidrio:::txtsize --> CitilbcrsSh:::txtsize
-Tsnraitsatcosaqon:::txtsize --> TipuadsiouSeomni:::txtsize
-TipuadsiouSeomni:::txtsize --> Hlbbeoessm:::txtsize
-TipuadsiouSeomni:::txtsize --> SrxTcebanief:::txtsize
+FhuatcBolr:::txtsize --> CeTrecGmemsastug:::txtsize
+CeTrecGmemsastug:::txtsize --> Ruseznleepny:::txtsize
+Ruseznleepny:::txtsize --> Wtnooneahersoia:::txtsize
+Ruseznleepny:::txtsize --> Bibnoieepanle:::txtsize
+CeTrecGmemsastug:::txtsize --> WTyrgttnrsnu:::txtsize
+WTyrgttnrsnu:::txtsize --> Mvhfrpnciiepah:::txtsize
+WTyrgttnrsnu:::txtsize --> Peaefefepns:::txtsize
+FhuatcBolr:::txtsize --> MnSibrsrpl:::txtsize
+MnSibrsrpl:::txtsize --> ieaooao:::txtsize
+ieaooao:::txtsize --> Eeznetroten:::txtsize
+MnSibrsrpl:::txtsize --> Mvhfrpnciiepah:::txtsize
+Mvhfrpnciiepah:::txtsize --> ieaooao:::txtsize
+Mvhfrpnciiepah:::txtsize --> Ieeelakplkh:::txtsize
 
-Tststoissb@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:19 AM_
-Trump’s military use in other countries tests his maga base" }
-TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
-Trump threatens military action in nigeria over ‘killing of christians’" }
-UDehewmeinegas@{ shape: win-pane, label: "_Published Nov 01, 2025, 09:00 AM_
-Us v-p j.d. vance says he hopes his wife embraces christianity, setting off backlash" }
-UanyrAcm@{ shape: win-pane, label: "_Published Mar 28, 2025, 01:30 PM_
-Usha vance in the eye of trump’s arctic storm" }
-TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
-Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
-Tahurpdvnesn@{ shape: win-pane, label: "_Published May 22, 2025, 01:26 AM_
-Trump ambushes south africa’s president over ‘genocide’ accusation" }
-FwSAarnTcsfimi@{ shape: win-pane, label: "_Published May 13, 2025, 04:01 AM_
-First white south africans arrive in us as trump claims they face discrimination" }
-FwSAaaarduivul@{ shape: win-pane, label: "_Published May 12, 2025, 05:01 AM_
-First white south africans board plane for us under trump’s divisive refugee plan" }
-Eluretashirt@{ shape: win-pane, label: "_Published Mar 23, 2025, 07:00 PM_
-Expelled south african envoy to us says he’s back home ‘with no regrets’" }
-Tssniofswplec@{ shape: win-pane, label: "_Published Feb 11, 2025, 08:13 PM_
-Trump’s accusations against south africa spark ‘white privilege’ self-mockery" }
-TfeSAaictfas@{ shape: win-pane, label: "_Published Feb 09, 2025, 02:40 AM_
-Trump freezes all south african assistance as stand-off escalates" }
+YMmnoihaiYilemhny@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges trump and his own party" }
+YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
+Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
+TbCttousoscolsdsr@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:15 AM_
+Trump backs cuomo, threatens to cut funds as new yorkers expected to pick leftist mamdani as mayor" }
+OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
+Obama calls mamdani, praises campaign ahead of new york mayoral election" }
+OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
+Obama calls mamdani, praises campaign ahead of new york mayoral election" }
+UritadtoctCimam@{ shape: win-pane, label: "_Published Jun 25, 2025, 04:10 PM_
+Upstart socialist zohran mamdani stuns political veteran cuomo in nyc mayoral primary" }
+YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
+Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
+TbCttousoscolsdsr@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:15 AM_
+Trump backs cuomo, threatens to cut funds as new yorkers expected to pick leftist mamdani as mayor" }
+OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
+Obama calls mamdani, praises campaign ahead of new york mayoral election" }
+OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
+Obama calls mamdani, praises campaign ahead of new york mayoral election" }
+UritadtoctCimam@{ shape: win-pane, label: "_Published Jun 25, 2025, 04:10 PM_
+Upstart socialist zohran mamdani stuns political veteran cuomo in nyc mayoral primary" }
 
-Tststoissb:::txtsize --> TttiriNiriCt:::txtsize
-TttiriNiriCt:::txtsize --> UDehewmeinegas:::txtsize
-UDehewmeinegas:::txtsize --> UanyrAcm:::txtsize
-UDehewmeinegas:::txtsize --> TahesegnipdoUstt:::txtsize
-Tststoissb:::txtsize --> Tahurpdvnesn:::txtsize
-Tahurpdvnesn:::txtsize --> FwSAarnTcsfimi:::txtsize
-FwSAarnTcsfimi:::txtsize --> FwSAaaarduivul:::txtsize
-FwSAarnTcsfimi:::txtsize --> Eluretashirt:::txtsize
-Tahurpdvnesn:::txtsize --> Tssniofswplec:::txtsize
-Tssniofswplec:::txtsize --> TfeSAaictfas:::txtsize
+YMmnoihaiYilemhny:::txtsize --> YMmimociYaoauoc:::txtsize
+YMmimociYaoauoc:::txtsize --> TbCttousoscolsdsr:::txtsize
+TbCttousoscolsdsr:::txtsize --> OcMniagaekren:::txtsize
+YMmimociYaoauoc:::txtsize --> OcMniagaekren:::txtsize
+OcMniagaekren:::txtsize --> UritadtoctCimam:::txtsize
+YMmnoihaiYilemhny:::txtsize --> YMmimociYaoauoc:::txtsize
+YMmimociYaoauoc:::txtsize --> TbCttousoscolsdsr:::txtsize
+TbCttousoscolsdsr:::txtsize --> OcMniagaekren:::txtsize
+YMmimociYaoauoc:::txtsize --> OcMniagaekren:::txtsize
+OcMniagaekren:::txtsize --> UritadtoctCimam:::txtsize
 
 ```
-<i>Last updated: 2025-11-05 08:00:32.393473 (GMT+8)</i>
+<i>Last updated: 2025-11-05 12:00:56.786559 (GMT+8)</i>
 <!-- END -->
