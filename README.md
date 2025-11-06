@@ -16,129 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Reasnaameeeeeltli@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:30 PM_
-Real negotiations, reconciliation and commitment are needed to resolve middle east conflict: vivian" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
-Peace finally descends on the middle east: now the battle to make it last begins" }
-TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
-Tears, joy in israel as hamas hands over first hostages" }
-Spnssaotgrpoaig@{ shape: win-pane, label: "_Published Nov 05, 2025, 06:00 PM_
-Singapore invites palestinian pm to visit, pledges more support for gaza rebuilding" }
-Sposrogeutnn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:44 PM_
-Singapore donates $652,000 to world food programme for humanitarian aid in gaza" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-SRonetoflnveuuot@{ shape: win-pane, label: "_Published Sep 21, 2025, 08:00 PM_
-S’pore red cross hands over further $1.2m of aid for palestinian evacuees; to fund education unit" }
-SRonetoflnveuuot@{ shape: win-pane, label: "_Published Sep 21, 2025, 08:00 PM_
-S’pore red cross hands over further $1.2m of aid for palestinian evacuees; to fund education unit" }
-Stegsacidrrdrltpps@{ shape: win-pane, label: "_Published Sep 20, 2025, 07:50 PM_
-S’pore team helping palestinian evacuees includes first foreign doctors deployed to egypt hospitals" }
-mosSpatpRetdsaiia@{ shape: win-pane, label: "_Published Sep 02, 2025, 05:25 PM_
-$1 million raised in singapore handed to egyptian red crescent to aid palestinian families in gaza" }
+UnlsoririWrci@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:21 PM_
+Ukraine jails russian soldier for life for killing pow in first such ruling" }
+RatlcUnrewC@{ shape: win-pane, label: "_Published Sep 26, 2025, 01:22 AM_
+Russia ‘arbitrarily’ executes ukrainian prisoners of war: osce" }
+Umtisoersl@{ shape: win-pane, label: "_Published Sep 23, 2025, 10:17 PM_
+Un slams ‘systematic’ russian torture of ukraine’s civilians" }
+Unlysregsniak@{ shape: win-pane, label: "_Published Sep 21, 2025, 12:18 AM_
+Ukraine’s zelensky plans new trump meeting as russia intensifies attacks" }
+Unstilaciaarn@{ shape: win-pane, label: "_Published Sep 23, 2025, 09:27 PM_
+Ukraine says it hit russian oil infrastructure in bryansk, samara regions" }
+RatlcUnrewC@{ shape: win-pane, label: "_Published Sep 26, 2025, 01:22 AM_
+Russia ‘arbitrarily’ executes ukrainian prisoners of war: osce" }
+Umtisoersl@{ shape: win-pane, label: "_Published Sep 23, 2025, 10:17 PM_
+Un slams ‘systematic’ russian torture of ukraine’s civilians" }
+Unlysregsniak@{ shape: win-pane, label: "_Published Sep 21, 2025, 12:18 AM_
+Ukraine’s zelensky plans new trump meeting as russia intensifies attacks" }
+Unstilaciaarn@{ shape: win-pane, label: "_Published Sep 23, 2025, 09:27 PM_
+Ukraine says it hit russian oil infrastructure in bryansk, samara regions" }
 
-Reasnaameeeeeltli:::txtsize --> Tdrcaaededlncbs:::txtsize
-Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
-PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
-Reasnaameeeeeltli:::txtsize --> Spnssaotgrpoaig:::txtsize
-Spnssaotgrpoaig:::txtsize --> Sposrogeutnn:::txtsize
-Sposrogeutnn:::txtsize --> Tdrcaaededlncbs:::txtsize
-Sposrogeutnn:::txtsize --> SRonetoflnveuuot:::txtsize
-Spnssaotgrpoaig:::txtsize --> SRonetoflnveuuot:::txtsize
-SRonetoflnveuuot:::txtsize --> Stegsacidrrdrltpps:::txtsize
-SRonetoflnveuuot:::txtsize --> mosSpatpRetdsaiia:::txtsize
+UnlsoririWrci:::txtsize --> RatlcUnrewC:::txtsize
+RatlcUnrewC:::txtsize --> Umtisoersl:::txtsize
+Umtisoersl:::txtsize --> Unlysregsniak:::txtsize
+Umtisoersl:::txtsize --> Unstilaciaarn:::txtsize
+UnlsoririWrci:::txtsize --> RatlcUnrewC:::txtsize
+RatlcUnrewC:::txtsize --> Umtisoersl:::txtsize
+Umtisoersl:::txtsize --> Unlysregsniak:::txtsize
+Umtisoersl:::txtsize --> Unstilaciaarn:::txtsize
 
-HlahemioneaIl@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:20 PM_
-Hezbollah says it has a ‘legitimate right’ to defend itself against israel" }
-IlstfakielsLo@{ shape: win-pane, label: "_Published Nov 02, 2025, 04:30 PM_
-Israel warns of intensifying attacks against hezbollah in south lebanon" }
-TafnemsHleikl@{ shape: win-pane, label: "_Published Nov 27, 2024, 02:56 AM_
-Thousands of lebanese head home as israel-hezbollah ceasefire takes hold" }
-IlocfheUktid@{ shape: win-pane, label: "_Published Nov 27, 2024, 05:28 AM_
-Israel-hezbollah ceasefire: what does the us-brokered truce include?" }
-PeLoseeaeao@{ shape: win-pane, label: "_Published Nov 26, 2024, 07:13 PM_
-Prospect of lebanon ceasefire leaves gazans feeling abandoned" }
-Hlutaarhbmrig@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:20 PM_
-Hezbollah supporters gather at nasrallah's tomb to commemorate killing" }
-Hlhiiator@{ shape: win-pane, label: "_Published Sep 28, 2024, 04:42 PM_
-Hezbollah chief killed in israeli strike on beirut" }
-Hlalhrtneces@{ shape: win-pane, label: "_Published Sep 18, 2024, 10:32 PM_
-Hezbollah says it launched first attack on israel since pager blasts" }
-Ilsndmoucfe@{ shape: win-pane, label: "_Published Nov 02, 2025, 04:31 PM_
-Israel urges lebanon to disarm hezbollah under ceasefire terms" }
-TafnemsHleikl@{ shape: win-pane, label: "_Published Nov 27, 2024, 02:56 AM_
-Thousands of lebanese head home as israel-hezbollah ceasefire takes hold" }
-IlocfheUktid@{ shape: win-pane, label: "_Published Nov 27, 2024, 05:28 AM_
-Israel-hezbollah ceasefire: what does the us-brokered truce include?" }
-PeLoseeaeao@{ shape: win-pane, label: "_Published Nov 26, 2024, 07:13 PM_
-Prospect of lebanon ceasefire leaves gazans feeling abandoned" }
-Hlutaarhbmrig@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:20 PM_
-Hezbollah supporters gather at nasrallah's tomb to commemorate killing" }
-Hlhiiator@{ shape: win-pane, label: "_Published Sep 28, 2024, 04:42 PM_
-Hezbollah chief killed in israeli strike on beirut" }
-Hlalhrtneces@{ shape: win-pane, label: "_Published Sep 18, 2024, 10:32 PM_
-Hezbollah says it launched first attack on israel since pager blasts" }
+BsnhnSfeIeeoeh@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:15 PM_
+British grandmother lindsay sandiford leaves indonesia death row to return home" }
+FiIeeoeew@{ shape: win-pane, label: "_Published Dec 17, 2024, 11:51 PM_
+Filipina on indonesia death row flies home to ‘new life’" }
+IegtnFiawcchln@{ shape: win-pane, label: "_Published Nov 20, 2024, 08:05 PM_
+Indonesia agrees to transfer filipina death row drug convict to the philippines" }
+Sahursnhpfllggcn@{ shape: win-pane, label: "_Published Sep 28, 2023, 12:42 PM_
+S’porean mother, daughter arrested in the philippines for allegedly smuggling 14kg of cocaine" }
+PpSegrundDtw@{ shape: win-pane, label: "_Published Nov 02, 2024, 10:00 AM_
+Philippine senate’s drug war probe turns into rodrigo duterte show" }
+FiIeeosnartlnie@{ shape: win-pane, label: "_Published Dec 13, 2024, 04:49 PM_
+Filipina on indonesia death row says planned transfer back to philippines a ‘miracle’" }
+PpsnaoaftiFidr@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:41 AM_
+Philippines, indonesia agree on details of repatriation of filipina on death row" }
+Freaegehl@{ shape: win-pane, label: "_Published Sep 17, 2024, 05:55 PM_
+Four arrested in bali over drugs face death penalty" }
+Fhnndrrsrrocldpn@{ shape: win-pane, label: "_Published Jul 18, 2025, 06:47 PM_
+Frenchman on indonesia death row for almost 20 years over drug offences released from prison" }
+Ieaveeosfpa@{ shape: win-pane, label: "_Published Feb 04, 2025, 08:45 PM_
+Indonesia hands over french death row prisoner for repatriation" }
+FiIeeoeew@{ shape: win-pane, label: "_Published Dec 17, 2024, 11:51 PM_
+Filipina on indonesia death row flies home to ‘new life’" }
+Fiaxensrhnie@{ shape: win-pane, label: "_Published Dec 18, 2024, 08:15 AM_
+Filipina nearly executed in indonesia arrives home in philippines" }
+FiIeeoeew@{ shape: win-pane, label: "_Published Dec 17, 2024, 11:51 PM_
+Filipina on indonesia death row flies home to ‘new life’" }
+IegtnFiawcchln@{ shape: win-pane, label: "_Published Nov 20, 2024, 08:05 PM_
+Indonesia agrees to transfer filipina death row drug convict to the philippines" }
+FiIeeosnartlnie@{ shape: win-pane, label: "_Published Dec 13, 2024, 04:49 PM_
+Filipina on indonesia death row says planned transfer back to philippines a ‘miracle’" }
 
-HlahemioneaIl:::txtsize --> IlstfakielsLo:::txtsize
-IlstfakielsLo:::txtsize --> TafnemsHleikl:::txtsize
-TafnemsHleikl:::txtsize --> IlocfheUktid:::txtsize
-TafnemsHleikl:::txtsize --> PeLoseeaeao:::txtsize
-IlstfakielsLo:::txtsize --> Hlutaarhbmrig:::txtsize
-Hlutaarhbmrig:::txtsize --> Hlhiiator:::txtsize
-Hlutaarhbmrig:::txtsize --> Hlalhrtneces:::txtsize
-HlahemioneaIl:::txtsize --> Ilsndmoucfe:::txtsize
-Ilsndmoucfe:::txtsize --> TafnemsHleikl:::txtsize
-TafnemsHleikl:::txtsize --> IlocfheUktid:::txtsize
-TafnemsHleikl:::txtsize --> PeLoseeaeao:::txtsize
-Ilsndmoucfe:::txtsize --> Hlutaarhbmrig:::txtsize
-Hlutaarhbmrig:::txtsize --> Hlhiiator:::txtsize
-Hlutaarhbmrig:::txtsize --> Hlalhrtneces:::txtsize
+BsnhnSfeIeeoeh:::txtsize --> FiIeeoeew:::txtsize
+FiIeeoeew:::txtsize --> IegtnFiawcchln:::txtsize
+IegtnFiawcchln:::txtsize --> Sahursnhpfllggcn:::txtsize
+IegtnFiawcchln:::txtsize --> PpSegrundDtw:::txtsize
+FiIeeoeew:::txtsize --> FiIeeosnartlnie:::txtsize
+FiIeeosnartlnie:::txtsize --> PpsnaoaftiFidr:::txtsize
+FiIeeosnartlnie:::txtsize --> Freaegehl:::txtsize
+BsnhnSfeIeeoeh:::txtsize --> Fhnndrrsrrocldpn:::txtsize
+Fhnndrrsrrocldpn:::txtsize --> Ieaveeosfpa:::txtsize
+Ieaveeosfpa:::txtsize --> FiIeeoeew:::txtsize
+Ieaveeosfpa:::txtsize --> Fiaxensrhnie:::txtsize
+Fhnndrrsrrocldpn:::txtsize --> FiIeeoeew:::txtsize
+FiIeeoeew:::txtsize --> IegtnFiawcchln:::txtsize
+FiIeeoeew:::txtsize --> FiIeeosnartlnie:::txtsize
 
-Wrntreofcamty@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:00 PM_
-Western france attacker suspected of ‘self-radicalisation’, minister says" }
-Mmiercswrnj@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:40 PM_
-Man rams car into pedestrians, cyclists in western france, 10 injured" }
-hfrhrctwivotr@{ shape: win-pane, label: "_Published May 27, 2025, 02:18 AM_
-47 hurt after british man drives car into crowd during liverpool’s title parade" }
-Gnsbutslanai@{ shape: win-pane, label: "_Published May 24, 2025, 09:15 PM_
-Germany mass stabbing suspect has ‘psychological illness’, say police" }
-AslVufeegtisti@{ shape: win-pane, label: "_Published Apr 27, 2025, 02:00 PM_
-At least 11 killed in vancouver after vehicle ploughs into filipino street festival" }
-LaastagtVut@{ shape: win-pane, label: "_Published Apr 28, 2025, 02:06 AM_
-Last day of canada’s election campaign jolted by vancouver attack" }
-FigeanicrkysL@{ shape: win-pane, label: "_Published Apr 27, 2025, 06:57 PM_
-Filipino legend celebrated in tragic vancouver block party: who is lapu-lapu?" }
-AslVufeegtisti@{ shape: win-pane, label: "_Published Apr 27, 2025, 02:00 PM_
-At least 11 killed in vancouver after vehicle ploughs into filipino street festival" }
-LaastagtVut@{ shape: win-pane, label: "_Published Apr 28, 2025, 02:06 AM_
-Last day of canada’s election campaign jolted by vancouver attack" }
-AslVufeegtisti@{ shape: win-pane, label: "_Published Apr 27, 2025, 02:00 PM_
-At least 11 killed in vancouver after vehicle ploughs into filipino street festival" }
-Wuenaaa@{ shape: win-pane, label: "_Published Jan 08, 2025, 05:00 AM_
-Why would the us want canada as a 51st state?" }
-FigeanicrkysL@{ shape: win-pane, label: "_Published Apr 27, 2025, 06:57 PM_
-Filipino legend celebrated in tragic vancouver block party: who is lapu-lapu?" }
-AslVufeegtisti@{ shape: win-pane, label: "_Published Apr 27, 2025, 02:00 PM_
-At least 11 killed in vancouver after vehicle ploughs into filipino street festival" }
-Tlelrtrirnaynm@{ shape: win-pane, label: "_Published Mar 03, 2025, 08:55 PM_
-Two killed, several injured after car rams into crowd in german city of mannheim" }
+Utsanritlss@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:05 PM_
+Us shutdown sends airlines scrambling as travel chaos looms" }
+TaitroguaSouomhw@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:35 AM_
+Trump administration orders 10% of flights cut at major us airports due to government shutdown" }
+Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
+Us government begins shutdown that may lead to mass layoffs and cuts" }
+TsSrtpbun@{ shape: win-pane, label: "_Published Oct 01, 2025, 01:49 AM_
+Trump says us government will ‘probably’ shut down" }
+Lsounsrfakni@{ shape: win-pane, label: "_Published Nov 05, 2025, 04:22 PM_
+Longest us govt shutdown tests air travel, federal workers and patience" }
+Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
+Us government shutdown becomes longest in history" }
+Unnagnsotcaa@{ shape: win-pane, label: "_Published Oct 30, 2025, 11:50 AM_
+Us economy in the dark as government shutdown cuts off crucial data" }
+Tbscaomhwoot@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:21 AM_
+Trump blasts democrats as us government shutdown becomes longest ever" }
+TaitroguaSouomhw@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:35 AM_
+Trump administration orders 10% of flights cut at major us airports due to government shutdown" }
+Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
+Us government begins shutdown that may lead to mass layoffs and cuts" }
+Lsounsrfakni@{ shape: win-pane, label: "_Published Nov 05, 2025, 04:22 PM_
+Longest us govt shutdown tests air travel, federal workers and patience" }
+Frmognsonpewei@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:32 AM_
+For first time in long us government shutdown, hints of progress toward reopening" }
+Uentesnknih@{ shape: win-pane, label: "_Published Oct 06, 2025, 09:01 PM_
+Us government shutdown enters second week with no end in sight" }
 
-Wrntreofcamty:::txtsize --> Mmiercswrnj:::txtsize
-Mmiercswrnj:::txtsize --> hfrhrctwivotr:::txtsize
-hfrhrctwivotr:::txtsize --> Gnsbutslanai:::txtsize
-Mmiercswrnj:::txtsize --> AslVufeegtisti:::txtsize
-AslVufeegtisti:::txtsize --> LaastagtVut:::txtsize
-AslVufeegtisti:::txtsize --> FigeanicrkysL:::txtsize
-Wrntreofcamty:::txtsize --> AslVufeegtisti:::txtsize
-AslVufeegtisti:::txtsize --> LaastagtVut:::txtsize
-LaastagtVut:::txtsize --> AslVufeegtisti:::txtsize
-LaastagtVut:::txtsize --> Wuenaaa:::txtsize
-AslVufeegtisti:::txtsize --> FigeanicrkysL:::txtsize
-FigeanicrkysL:::txtsize --> AslVufeegtisti:::txtsize
-FigeanicrkysL:::txtsize --> Tlelrtrirnaynm:::txtsize
+Utsanritlss:::txtsize --> TaitroguaSouomhw:::txtsize
+TaitroguaSouomhw:::txtsize --> Ueniunmaayat:::txtsize
+Ueniunmaayat:::txtsize --> TsSrtpbun:::txtsize
+TaitroguaSouomhw:::txtsize --> Lsounsrfakni:::txtsize
+Lsounsrfakni:::txtsize --> Uentbegno:::txtsize
+Lsounsrfakni:::txtsize --> Unnagnsotcaa:::txtsize
+Utsanritlss:::txtsize --> Tbscaomhwoot:::txtsize
+Tbscaomhwoot:::txtsize --> TaitroguaSouomhw:::txtsize
+TaitroguaSouomhw:::txtsize --> Ueniunmaayat:::txtsize
+TaitroguaSouomhw:::txtsize --> Lsounsrfakni:::txtsize
+Tbscaomhwoot:::txtsize --> Frmognsonpewei:::txtsize
+Frmognsonpewei:::txtsize --> Uentesnknih:::txtsize
 
 ```
-<i>Last updated: 2025-11-06 20:01:15.167937 (GMT+8)</i>
+<i>Last updated: 2025-11-07 00:00:41.390059 (GMT+8)</i>
 <!-- END -->
