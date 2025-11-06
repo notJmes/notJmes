@@ -16,117 +16,132 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Caavosroec@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:49 AM_
-Canada to poach h-1b visa holders, international researchers" }
-TtoeBealt@{ shape: win-pane, label: "_Published Sep 20, 2025, 04:36 AM_
-Trump to impose $130,000 fee for h-1b worker visas in blow to tech" }
-Lissashrtfisal@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:12 AM_
-Lawsuit says musk’s tesla hires visa holders instead of americans so it can pay less" }
-Euiferhnylrl@{ shape: win-pane, label: "_Published Sep 11, 2025, 01:45 AM_
-Elon musk’s title of richest person challenged by oracle’s larry ellison" }
-Sdardrilstiraae@{ shape: win-pane, label: "_Published Sep 12, 2025, 10:35 PM_
-Should tesla’s shareholders green-light elon musk’s us$1 trillion performance package?" }
-SKaolvsbeuboen@{ shape: win-pane, label: "_Published Sep 19, 2025, 03:30 PM_
-South korea aims to resolve us visa issues before executing $450 billion investment" }
-Rndpiotmcirnrn@{ shape: win-pane, label: "_Published Sep 08, 2025, 11:00 PM_
-Raid on hyundai-lg plant in us points to trump’s focus on immigration enforcement" }
-CgdeeUrwve@{ shape: win-pane, label: "_Published Oct 22, 2025, 12:20 PM_
-College grads, some workers in us spared new us$100,000 h-1b visa fee" }
-HlgeetUdtmhniil@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:00 AM_
-H-1b1 still singaporeans’ best bet for a us job, despite trump tightening immigration rules" }
-Wsvrmdspgt@{ shape: win-pane, label: "_Published Sep 21, 2025, 03:45 PM_
-What is us’ h-1b visa programme and how is trump changing it?" }
-
-Caavosroec:::txtsize --> TtoeBealt:::txtsize
-TtoeBealt:::txtsize --> Lissashrtfisal:::txtsize
-Lissashrtfisal:::txtsize --> Euiferhnylrl:::txtsize
-Lissashrtfisal:::txtsize --> Sdardrilstiraae:::txtsize
-TtoeBealt:::txtsize --> SKaolvsbeuboen:::txtsize
-SKaolvsbeuboen:::txtsize --> Rndpiotmcirnrn:::txtsize
-Caavosroec:::txtsize --> CgdeeUrwve:::txtsize
-CgdeeUrwve:::txtsize --> HlgeetUdtmhniil:::txtsize
-HlgeetUdtmhniil:::txtsize --> Wsvrmdspgt:::txtsize
-
-Blnnnsnihscefd@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:30 AM_
-Brazilian influencer, known as ‘human barbie’ for her 27 cosmetic surgeries, found dead" }
-Ksayhisleshr@{ shape: win-pane, label: "_Published Nov 04, 2025, 12:20 PM_
-Kl cops reclassify death of taiwanese influencer iris hsieh as murder" }
-MsaNeiuavmnaiesh@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:47 PM_
-Malaysian rapper namewee denies drug use and involvement in taiwanese influencer’s death" }
-Msnndeeaepaeuwd@{ shape: win-pane, label: "_Published Dec 19, 2024, 08:12 AM_
-Malaysian influencer ady hu detained by taiwanese cops for alleged fraud: taiwan media" }
-ceairryitidfce@{ shape: win-pane, label: "_Published Jul 17, 2024, 10:07 AM_
-2 charged in malaysia over cyber bullying linked to social media influencer’s death" }
-MsaNeeggttat@{ shape: win-pane, label: "_Published Nov 03, 2025, 09:40 AM_
-Malaysian rapper namewee faces drug charges after october arrest" }
-MsaNeiuavmnaiesh@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:47 PM_
-Malaysian rapper namewee denies drug use and involvement in taiwanese influencer’s death" }
-Snrwaiineanlapmss@{ shape: win-pane, label: "_Published Jul 26, 2025, 02:35 PM_
-Sorry, not sorry: how china’s nationalistic netizens played into malaysian rapper namewee’s hands" }
-MsaNeafyraieshc@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:47 AM_
-Malaysian rapper namewee remanded for 6 days over taiwanese influencer’s death: police" }
-Ksayhisleshr@{ shape: win-pane, label: "_Published Nov 04, 2025, 12:20 PM_
-Kl cops reclassify death of taiwanese influencer iris hsieh as murder" }
-MsaNeiuavmnaiesh@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:47 PM_
-Malaysian rapper namewee denies drug use and involvement in taiwanese influencer’s death" }
-MsaNeeggttat@{ shape: win-pane, label: "_Published Nov 03, 2025, 09:40 AM_
-Malaysian rapper namewee faces drug charges after october arrest" }
-
-Blnnnsnihscefd:::txtsize --> Ksayhisleshr:::txtsize
-Ksayhisleshr:::txtsize --> MsaNeiuavmnaiesh:::txtsize
-MsaNeiuavmnaiesh:::txtsize --> Msnndeeaepaeuwd:::txtsize
-MsaNeiuavmnaiesh:::txtsize --> ceairryitidfce:::txtsize
-Ksayhisleshr:::txtsize --> MsaNeeggttat:::txtsize
-MsaNeeggttat:::txtsize --> MsaNeiuavmnaiesh:::txtsize
-MsaNeeggttat:::txtsize --> Snrwaiineanlapmss:::txtsize
-Blnnnsnihscefd:::txtsize --> MsaNeafyraieshc:::txtsize
-MsaNeafyraieshc:::txtsize --> Ksayhisleshr:::txtsize
-Ksayhisleshr:::txtsize --> MsaNeiuavmnaiesh:::txtsize
-Ksayhisleshr:::txtsize --> MsaNeeggttat:::txtsize
-
-Mnkstldavre@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:00 AM_
-Mamdani walks offstage to bollywood song after victory speech" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
-Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
-TbCttousoscolsdsr@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:15 AM_
-Trump backs cuomo, threatens to cut funds as new yorkers expected to pick leftist mamdani as mayor" }
-OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
-Obama calls mamdani, praises campaign ahead of new york mayoral election" }
-Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
-Takeaways from us election night 2025" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
-RuNrocrmscshr@{ shape: win-pane, label: "_Published Nov 06, 2025, 10:40 AM_
-Rama duwaji, new york mayor-elect zohran mamdani’s wife, carves a path of her own" }
+Dtaaaoprata@{ shape: win-pane, label: "_Published Nov 06, 2025, 02:54 PM_
+Dictator franco captivates young spaniards 50 years after death" }
+Znaciippfiiirh@{ shape: win-pane, label: "_Published Nov 06, 2025, 01:25 AM_
+Zohran mamdani victory in us fires up europe’s left against right-wing surge at home" }
 YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
 Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
 YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
 Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
 Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
 Takeaways from us election night 2025" }
-HhaiTbdemek@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:08 PM_
-How zohran mamdani beat trump-backed andrew cuomo in new york" }
 YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
 Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
+Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
+Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
+Takeaways from us election night 2025" }
+Ornartestmirn@{ shape: win-pane, label: "_Published Oct 31, 2025, 03:51 PM_
+On the rise in germany, far-right afd deepens ties to trump administration" }
+Itdiamfgnwt@{ shape: win-pane, label: "_Published Jul 11, 2025, 03:23 PM_
+Isolated and fearing a ban, germany’s far right tones down rhetoric" }
+Croeeuoearpimdcae@{ shape: win-pane, label: "_Published Jun 28, 2025, 07:35 PM_
+Conscription, once buried, returns to the debate at a turning point in germany’s defence arrangement" }
 
-Mnkstldavre:::txtsize --> YMmnoihaiYilehpea:::txtsize
-YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
-YMmimociYaoauoc:::txtsize --> TbCttousoscolsdsr:::txtsize
-YMmimociYaoauoc:::txtsize --> OcMniagaekren:::txtsize
-YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
-Twreig:::txtsize --> YMmnoihaiYilehpea:::txtsize
-Twreig:::txtsize --> Drwialosdp:::txtsize
-Mnkstldavre:::txtsize --> RuNrocrmscshr:::txtsize
-RuNrocrmscshr:::txtsize --> YMmnoihaiYilehpea:::txtsize
+Dtaaaoprata:::txtsize --> Znaciippfiiirh:::txtsize
+Znaciippfiiirh:::txtsize --> YMmnoihaiYilehpea:::txtsize
 YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
 YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
-RuNrocrmscshr:::txtsize --> HhaiTbdemek:::txtsize
-HhaiTbdemek:::txtsize --> YMmnoihaiYilehpea:::txtsize
+Znaciippfiiirh:::txtsize --> YMmnoihaiYilehpea:::txtsize
+YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
+YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
+Dtaaaoprata:::txtsize --> Ornartestmirn:::txtsize
+Ornartestmirn:::txtsize --> Itdiamfgnwt:::txtsize
+Itdiamfgnwt:::txtsize --> Croeeuoearpimdcae:::txtsize
+
+MfokCilsrgt@{ shape: win-pane, label: "_Published Nov 06, 2025, 02:18 PM_
+Mp’s defection shakes up canadian politics before budget vote" }
+Snndarawndwila@{ shape: win-pane, label: "_Published Sep 29, 2025, 06:09 PM_
+Six months in, canada pm mark carney faces two-front trade war with little leverage" }
+ChaCafauef@{ shape: win-pane, label: "_Published Mar 08, 2025, 09:31 AM_
+China hits back at canada with fresh agriculture tariffs" }
+Ftfhatiarmedvn@{ shape: win-pane, label: "_Published Mar 07, 2025, 05:00 AM_
+‘fight to the finish’: china vows to resist trade war, back more tech and innovation" }
+Chaaltrbgoet@{ shape: win-pane, label: "_Published Mar 04, 2025, 09:45 PM_
+China hits back against latest us tariffs, but signals openness to talks" }
+Cttdtddetloyru@{ shape: win-pane, label: "_Published Apr 11, 2024, 10:15 AM_
+China tried to meddle but canadians decided last two elections, says pm trudeau" }
+Cacbiongieitr@{ shape: win-pane, label: "_Published Mar 07, 2023, 03:39 AM_
+Canada police probe media reports on alleged chinese election interference" }
+Cadoierrtbehloee@{ shape: win-pane, label: "_Published Mar 07, 2023, 08:30 AM_
+Canada’s trudeau to appoint special rapporteur to probe alleged china election interference" }
+Cartfeaieispfo@{ shape: win-pane, label: "_Published Dec 17, 2024, 02:26 PM_
+Canada government adrift after finance minister resigns as trump tariffs loom" }
+CaaieyFasapyhPd@{ shape: win-pane, label: "_Published Dec 16, 2024, 10:39 PM_
+Canada’s finance minister chrystia freeland resigns after policy clash with pm trudeau" }
+Cadueroeo@{ shape: win-pane, label: "_Published Dec 10, 2024, 08:15 AM_
+Canada’s trudeau survives third no-confidence vote" }
+TamTtednstnfa@{ shape: win-pane, label: "_Published Dec 02, 2024, 04:19 AM_
+Trudeau promised trump tougher border controls, says top canada official" }
+TttheCanrollgoir@{ shape: win-pane, label: "_Published Nov 26, 2024, 08:02 AM_
+Trump threatens china, mexico, canada with new tariffs over illegal immigration, illicit drugs" }
+TsbchioUdetne@{ shape: win-pane, label: "_Published Nov 06, 2024, 07:37 AM_
+Trump set to be elected 47th president of the united states in stunning comeback" }
+TsbchioUdetne@{ shape: win-pane, label: "_Published Nov 06, 2024, 07:37 AM_
+Trump set to be elected 47th president of the united states in stunning comeback" }
+
+MfokCilsrgt:::txtsize --> Snndarawndwila:::txtsize
+Snndarawndwila:::txtsize --> ChaCafauef:::txtsize
+ChaCafauef:::txtsize --> Ftfhatiarmedvn:::txtsize
+ChaCafauef:::txtsize --> Chaaltrbgoet:::txtsize
+Snndarawndwila:::txtsize --> Cttdtddetloyru:::txtsize
+Cttdtddetloyru:::txtsize --> Cacbiongieitr:::txtsize
+Cttdtddetloyru:::txtsize --> Cadoierrtbehloee:::txtsize
+MfokCilsrgt:::txtsize --> Cartfeaieispfo:::txtsize
+Cartfeaieispfo:::txtsize --> CaaieyFasapyhPd:::txtsize
+CaaieyFasapyhPd:::txtsize --> Cadueroeo:::txtsize
+CaaieyFasapyhPd:::txtsize --> TamTtednstnfa:::txtsize
+Cartfeaieispfo:::txtsize --> TttheCanrollgoir:::txtsize
+TttheCanrollgoir:::txtsize --> TsbchioUdetne:::txtsize
+TttheCanrollgoir:::txtsize --> TsbchioUdetne:::txtsize
+
+UniusowrknenRais@{ shape: win-pane, label: "_Published Nov 06, 2025, 01:50 PM_
+Ukraine strikes russia’s volgograd with drones, killing at least one man, russian officials say" }
+Raketfsoirggeskk@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:11 PM_
+Russia and ukraine says their forces are locked in fierce fighting in the ruins of pokrovsk" }
+EedgolranowuS@{ shape: win-pane, label: "_Published Nov 05, 2025, 12:33 AM_
+Europe could struggle to mobilise troops, arms in case of war with russia: study" }
+Esumwepetrake@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:52 PM_
+Eu says it could admit new members by 2030, praises montenegro, albania, ukraine" }
+Anoreedwdr@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:00 AM_
+A fading europe struggles to be heard in new world order" }
+Unerpfsroaeks@{ shape: win-pane, label: "_Published Nov 04, 2025, 01:57 AM_
+Ukraine to set up arms export offices in berlin, copenhagen, zelensky says" }
+RairdirorUnsnhn@{ shape: win-pane, label: "_Published Nov 03, 2025, 11:56 PM_
+Russia says its forces advancing in ruins of pokrovsk; ukraine says defenders holding on" }
+RaaeeUnsirMt@{ shape: win-pane, label: "_Published Nov 02, 2025, 03:00 PM_
+Russia threat extends beyond ukraine, says finnish foreign minister" }
+Fosesentetke@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:05 PM_
+From pokrovsk defenders: drones alone can’t hold embattled ukraine city" }
+Undcoiadoos@{ shape: win-pane, label: "_Published Nov 01, 2025, 06:01 AM_
+Ukraine lands special forces in embattled pokrovsk, sources say" }
+UniahsvUn@{ shape: win-pane, label: "_Published Nov 01, 2025, 02:07 AM_
+Un warns of civilian fight for survival in ukraine" }
+Unstilsleo@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:26 PM_
+Ukraine says it hit russian oil sites nearly 160 times in 2025 so far" }
+Raketfsoirggeskk@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:11 PM_
+Russia and ukraine says their forces are locked in fierce fighting in the ruins of pokrovsk" }
+EedgolranowuS@{ shape: win-pane, label: "_Published Nov 05, 2025, 12:33 AM_
+Europe could struggle to mobilise troops, arms in case of war with russia: study" }
+Unerpfsroaeks@{ shape: win-pane, label: "_Published Nov 04, 2025, 01:57 AM_
+Ukraine to set up arms export offices in berlin, copenhagen, zelensky says" }
+
+UniusowrknenRais:::txtsize --> Raketfsoirggeskk:::txtsize
+Raketfsoirggeskk:::txtsize --> EedgolranowuS:::txtsize
+EedgolranowuS:::txtsize --> Esumwepetrake:::txtsize
+EedgolranowuS:::txtsize --> Anoreedwdr:::txtsize
+Raketfsoirggeskk:::txtsize --> Unerpfsroaeks:::txtsize
+Unerpfsroaeks:::txtsize --> RairdirorUnsnhn:::txtsize
+Unerpfsroaeks:::txtsize --> RaaeeUnsirMt:::txtsize
+UniusowrknenRais:::txtsize --> Fosesentetke:::txtsize
+Fosesentetke:::txtsize --> Undcoiadoos:::txtsize
+Undcoiadoos:::txtsize --> UniahsvUn:::txtsize
+Undcoiadoos:::txtsize --> Unstilsleo:::txtsize
+Fosesentetke:::txtsize --> Raketfsoirggeskk:::txtsize
+Raketfsoirggeskk:::txtsize --> EedgolranowuS:::txtsize
+Raketfsoirggeskk:::txtsize --> Unerpfsroaeks:::txtsize
 
 ```
-<i>Last updated: 2025-11-06 12:00:24.152178 (GMT+8)</i>
+<i>Last updated: 2025-11-06 16:00:50.044280 (GMT+8)</i>
 <!-- END -->
