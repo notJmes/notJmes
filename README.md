@@ -16,123 +16,129 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Uinfogeir@{ shape: win-pane, label: "_Published Nov 06, 2025, 02:25 AM_
-Uk police manhunt for two wrongly freed prisoners" }
-Uialtyesfreols@{ shape: win-pane, label: "_Published Oct 25, 2025, 03:09 AM_
-Uk minister ‘appalled’ after asylum seeker sex offender is freed from jail by mistake" }
-Fesicnoitsa@{ shape: win-pane, label: "_Published Jun 19, 2025, 05:21 PM_
-France mulls over intercepting uk-bound migrant boats at sea" }
-UasuleonruoFee@{ shape: win-pane, label: "_Published May 12, 2025, 05:36 AM_
-Uk’s starmer steps up english tests, toughens migrant rules to halt farage’s rise" }
-Rdeednars@{ shape: win-pane, label: "_Published Mar 21, 2025, 05:41 PM_
-Record number of people died on migration routes in 2024: un" }
-BiartaoesiiIn@{ shape: win-pane, label: "_Published Oct 08, 2025, 07:17 AM_
-Britain’s starmer resists demands for more visas for high-skilled indians" }
-TtoeBealt@{ shape: win-pane, label: "_Published Sep 20, 2025, 04:36 AM_
-Trump to impose $130,000 fee for h-1b worker visas in blow to tech" }
-BiIsracidi@{ shape: win-pane, label: "_Published Jul 25, 2025, 06:54 AM_
-Britain and india sign free trade pact during modi visit" }
+GTAtsimerkna@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:59 AM_
+‘grand theft auto’ studio says fired employees were leaking information" }
+TaUetdtmLnf@{ shape: win-pane, label: "_Published Aug 23, 2023, 09:49 PM_
+Teen hacked uber, revolut, grand theft auto maker, london jury finds" }
+Hrberlkdmo@{ shape: win-pane, label: "_Published Dec 03, 2022, 05:05 PM_
+Hackers may be after your highly ranked video game account" }
+Mheanscesputaaei@{ shape: win-pane, label: "_Published Mar 06, 2022, 05:00 AM_
+More children cheated in game scams; counsellors urge peer support and parental supervision" }
+GgRhptrhrrtdoco@{ shape: win-pane, label: "_Published Jul 10, 2023, 02:34 PM_
+Gaming firm razer hit by potential breach, hacker offering stolen data for $135k in crypto" }
+Droelzsrleodbcyut@{ shape: win-pane, label: "_Published Sep 15, 2020, 10:43 PM_
+Data breach of potentially 100,000 razer customers worldwide discovered by cyber-security consultant" }
+GgRwatnvrdeamm@{ shape: win-pane, label: "_Published Dec 09, 2022, 01:50 PM_
+Gaming firm razer wins lawsuit against it vendor over data leak, awarded $8.7m in damages" }
+GTArrsmsuard@{ shape: win-pane, label: "_Published Dec 06, 2023, 07:09 PM_
+Grand theft auto trailer soars past 100m views in 12 hours, smashes records" }
+tfuceGyloociV@{ shape: win-pane, label: "_Published Sep 20, 2023, 08:40 PM_
+2 teens face murder charges for gta-style killing of ex-police chief in las vegas" }
+Sdtlaoebrnudibir@{ shape: win-pane, label: "_Published Sep 15, 2023, 04:40 PM_
+‘she had limited value’: seattle officer probed for joking about student killed by police car" }
+Onnciituioae@{ shape: win-pane, label: "_Published May 12, 2023, 01:00 AM_
+One canadian police officer killed, two wounded in shooting at home" }
 
-Uinfogeir:::txtsize --> Uialtyesfreols:::txtsize
-Uialtyesfreols:::txtsize --> Fesicnoitsa:::txtsize
-Fesicnoitsa:::txtsize --> UasuleonruoFee:::txtsize
-Fesicnoitsa:::txtsize --> Rdeednars:::txtsize
-Uialtyesfreols:::txtsize --> BiartaoesiiIn:::txtsize
-BiartaoesiiIn:::txtsize --> TtoeBealt:::txtsize
-BiartaoesiiIn:::txtsize --> BiIsracidi:::txtsize
+GTAtsimerkna:::txtsize --> TaUetdtmLnf:::txtsize
+TaUetdtmLnf:::txtsize --> Hrberlkdmo:::txtsize
+Hrberlkdmo:::txtsize --> Mheanscesputaaei:::txtsize
+TaUetdtmLnf:::txtsize --> GgRhptrhrrtdoco:::txtsize
+GgRhptrhrrtdoco:::txtsize --> Droelzsrleodbcyut:::txtsize
+GgRhptrhrrtdoco:::txtsize --> GgRwatnvrdeamm:::txtsize
+GTAtsimerkna:::txtsize --> GTArrsmsuard:::txtsize
+GTArrsmsuard:::txtsize --> tfuceGyloociV:::txtsize
+tfuceGyloociV:::txtsize --> Sdtlaoebrnudibir:::txtsize
+tfuceGyloociV:::txtsize --> Onnciituioae:::txtsize
 
-Udeokllenz@{ shape: win-pane, label: "_Published Nov 06, 2025, 02:01 AM_
-Un road map seeks to crack $1.7 trillion climate finance puzzle" }
-WwvogmoneUn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:22 PM_
-World will overshoot 1.5 deg c climate goal in next decade, un warns" }
-Ntnosager@{ shape: win-pane, label: "_Published Oct 13, 2025, 11:10 AM_
-Not nothing, not enough: is the paris agreement working?" }
-Smhotanrmor@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:31 AM_
-September third-hottest globally on record: climate monitor" }
-Ranghsocne@{ shape: win-pane, label: "_Published Oct 07, 2025, 01:21 PM_
-Renewable energy growth slows due to policy changes: report" }
-Cpghgdois@{ shape: win-pane, label: "_Published Sep 25, 2025, 04:57 AM_
-China plans 7-10% greenhouse gas reduction by 2035, xi tells un" }
-OftholnCcttvr@{ shape: win-pane, label: "_Published Sep 18, 2025, 03:10 AM_
-Only 40% of countries have booked lodging for cop30 un climate meet in november" }
-TtUtaastogl@{ shape: win-pane, label: "_Published Sep 24, 2025, 12:17 AM_
-Trump tells un that climate change is ‘greatest con job’ globally" }
-DonnslOmeifn@{ shape: win-pane, label: "_Published Nov 24, 2024, 06:55 AM_
-Developing nations blast $404 billion cop29 climate deal as insufficient" }
-wedtnrcia@{ shape: win-pane, label: "_Published Nov 07, 2024, 11:17 AM_
-2024 will be world’s hottest on record, eu scientists say" }
-SlWoaaP@{ shape: win-pane, label: "_Published Nov 02, 2024, 05:00 AM_
-St explains: what’s on the agenda at cop29?" }
-TsbchioUdetne@{ shape: win-pane, label: "_Published Nov 06, 2024, 07:37 AM_
-Trump set to be elected 47th president of the united states in stunning comeback" }
-Cifclchetsg@{ shape: win-pane, label: "_Published Nov 24, 2024, 07:32 AM_
-Cop29 climate finance deal clinched: what are countries saying?" }
-DonnslOmeifn@{ shape: win-pane, label: "_Published Nov 24, 2024, 06:55 AM_
-Developing nations blast $404 billion cop29 climate deal as insufficient" }
-Whnsrnctllse@{ shape: win-pane, label: "_Published Nov 23, 2024, 02:28 PM_
-Wealthy countries back raising cop29 climate deal to $404 billion, sources say" }
-
-Udeokllenz:::txtsize --> WwvogmoneUn:::txtsize
-WwvogmoneUn:::txtsize --> Ntnosager:::txtsize
-Ntnosager:::txtsize --> Smhotanrmor:::txtsize
-Ntnosager:::txtsize --> Ranghsocne:::txtsize
-WwvogmoneUn:::txtsize --> Cpghgdois:::txtsize
-Cpghgdois:::txtsize --> OftholnCcttvr:::txtsize
-Cpghgdois:::txtsize --> TtUtaastogl:::txtsize
-Udeokllenz:::txtsize --> DonnslOmeifn:::txtsize
-DonnslOmeifn:::txtsize --> wedtnrcia:::txtsize
-wedtnrcia:::txtsize --> SlWoaaP:::txtsize
-wedtnrcia:::txtsize --> TsbchioUdetne:::txtsize
-DonnslOmeifn:::txtsize --> Cifclchetsg:::txtsize
-Cifclchetsg:::txtsize --> DonnslOmeifn:::txtsize
-Cifclchetsg:::txtsize --> Whnsrnctllse:::txtsize
-
-Znaciippfiiirh@{ shape: win-pane, label: "_Published Nov 06, 2025, 01:25 AM_
-Zohran mamdani victory in us fires up europe’s left against right-wing surge at home" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
-Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
-TbCttousoscolsdsr@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:15 AM_
-Trump backs cuomo, threatens to cut funds as new yorkers expected to pick leftist mamdani as mayor" }
-OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
-Obama calls mamdani, praises campaign ahead of new york mayoral election" }
-Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
-Takeaways from us election night 2025" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+Tgltilatmteror@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:58 AM_
+Trump grapples with political setback after democrats ride voter fury over prices" }
+Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
+Us government shutdown becomes longest in history" }
+AcobeaSdnsdh@{ shape: win-pane, label: "_Published Nov 01, 2025, 01:34 AM_
+Americans worry about next meal as us shutdown enters second month" }
+Waswhomhw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:42 PM_
+What happens next with the us government shutdown?" }
+Tsrermvlyuso@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:18 AM_
+Trump says private donor gave $160m to cover military pay during shutdown" }
+Uentesraosactt@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:47 PM_
+Us government shutdown enters record 35th day as congressional inaction takes toll" }
+Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
+Us government begins shutdown that may lead to mass layoffs and cuts" }
+MoAcoedaromhwmirn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:30 AM_
+Millions of americans to get reduced food aid during government shutdown: trump administration" }
 Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
 Democrats sweep first major elections of second trump term" }
 YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
 Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
 YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
 Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
-TbCttousoscolsdsr@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:15 AM_
-Trump backs cuomo, threatens to cut funds as new yorkers expected to pick leftist mamdani as mayor" }
-OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
-Obama calls mamdani, praises campaign ahead of new york mayoral election" }
 Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
 Takeaways from us election night 2025" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
+Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
+Cuomo to stay in new york mayoral race despite losing democratic primary" }
+MnCankgnsodty@{ shape: win-pane, label: "_Published Jun 27, 2025, 06:16 PM_
+Mamdani’s nyc primary win sparks surge in anti-muslim posts, advocates say" }
 
-Znaciippfiiirh:::txtsize --> YMmnoihaiYilehpea:::txtsize
+Tgltilatmteror:::txtsize --> Uentbegno:::txtsize
+Uentbegno:::txtsize --> AcobeaSdnsdh:::txtsize
+AcobeaSdnsdh:::txtsize --> Waswhomhw:::txtsize
+AcobeaSdnsdh:::txtsize --> Tsrermvlyuso:::txtsize
+Uentbegno:::txtsize --> Uentesraosactt:::txtsize
+Uentesraosactt:::txtsize --> Ueniunmaayat:::txtsize
+Uentesraosactt:::txtsize --> MoAcoedaromhwmirn:::txtsize
+Tgltilatmteror:::txtsize --> Drwialosdp:::txtsize
+Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
 YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
-YMmimociYaoauoc:::txtsize --> TbCttousoscolsdsr:::txtsize
-YMmimociYaoauoc:::txtsize --> OcMniagaekren:::txtsize
 YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
-Twreig:::txtsize --> YMmnoihaiYilehpea:::txtsize
-Twreig:::txtsize --> Drwialosdp:::txtsize
-Znaciippfiiirh:::txtsize --> YMmnoihaiYilehpea:::txtsize
-YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
-YMmimociYaoauoc:::txtsize --> TbCttousoscolsdsr:::txtsize
-YMmimociYaoauoc:::txtsize --> OcMniagaekren:::txtsize
-YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
-Twreig:::txtsize --> YMmnoihaiYilehpea:::txtsize
-Twreig:::txtsize --> Drwialosdp:::txtsize
+Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
+Ctywmaeiseary:::txtsize --> MnCankgnsodty:::txtsize
+
+FessSoelwnairn@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:32 AM_
+France moves to suspend shein over sex dolls and weapons on day paris store opens" }
+CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
+China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
+SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
+Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
+Seskmrirsich@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:53 PM_
+Shein enters bricks-and-mortar retail in france, sparking backlash" }
+Sfmin@{ shape: win-pane, label: "_Published Jul 10, 2025, 11:43 PM_
+Shein faces $200m fine in france" }
+Shtfbsrol@{ shape: win-pane, label: "_Published Oct 10, 2025, 08:00 AM_
+Shein, hit with big fines, boosts internal controls" }
+Seskmrirsich@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:53 PM_
+Shein enters bricks-and-mortar retail in france, sparking backlash" }
+TlgsSbiite@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:43 AM_
+Temu plots aggressive us comeback with price cuts as deep as 60%" }
+Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
+Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
+FeaSbclelp@{ shape: win-pane, label: "_Published Nov 03, 2025, 08:50 PM_
+France threatens shein ban if ‘childlike’ sex dolls reappear" }
+CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
+China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
+SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
+Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
+CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
+China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
+SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
+Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
+Shtfbsrol@{ shape: win-pane, label: "_Published Oct 10, 2025, 08:00 AM_
+Shein, hit with big fines, boosts internal controls" }
+
+FessSoelwnairn:::txtsize --> CsnsdsloeoFhhoi:::txtsize
+CsnsdsloeoFhhoi:::txtsize --> SthirylerNsba:::txtsize
+SthirylerNsba:::txtsize --> Seskmrirsich:::txtsize
+SthirylerNsba:::txtsize --> Sfmin:::txtsize
+CsnsdsloeoFhhoi:::txtsize --> Shtfbsrol:::txtsize
+Shtfbsrol:::txtsize --> Seskmrirsich:::txtsize
+Shtfbsrol:::txtsize --> TlgsSbiite:::txtsize
+FessSoelwnairn:::txtsize --> Sbelerncrdo:::txtsize
+Sbelerncrdo:::txtsize --> FeaSbclelp:::txtsize
+FeaSbclelp:::txtsize --> CsnsdsloeoFhhoi:::txtsize
+FeaSbclelp:::txtsize --> SthirylerNsba:::txtsize
+Sbelerncrdo:::txtsize --> CsnsdsloeoFhhoi:::txtsize
+CsnsdsloeoFhhoi:::txtsize --> SthirylerNsba:::txtsize
+CsnsdsloeoFhhoi:::txtsize --> Shtfbsrol:::txtsize
 
 ```
-<i>Last updated: 2025-11-06 04:00:37.129776 (GMT+8)</i>
+<i>Last updated: 2025-11-06 08:01:01.533240 (GMT+8)</i>
 <!-- END -->
