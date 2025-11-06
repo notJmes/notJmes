@@ -16,132 +16,129 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Dtaaaoprata@{ shape: win-pane, label: "_Published Nov 06, 2025, 02:54 PM_
-Dictator franco captivates young spaniards 50 years after death" }
-Znaciippfiiirh@{ shape: win-pane, label: "_Published Nov 06, 2025, 01:25 AM_
-Zohran mamdani victory in us fires up europe’s left against right-wing surge at home" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
-Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
-Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
-Takeaways from us election night 2025" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
-Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
-Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
-Takeaways from us election night 2025" }
-Ornartestmirn@{ shape: win-pane, label: "_Published Oct 31, 2025, 03:51 PM_
-On the rise in germany, far-right afd deepens ties to trump administration" }
-Itdiamfgnwt@{ shape: win-pane, label: "_Published Jul 11, 2025, 03:23 PM_
-Isolated and fearing a ban, germany’s far right tones down rhetoric" }
-Croeeuoearpimdcae@{ shape: win-pane, label: "_Published Jun 28, 2025, 07:35 PM_
-Conscription, once buried, returns to the debate at a turning point in germany’s defence arrangement" }
+Reasnaameeeeeltli@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:30 PM_
+Real negotiations, reconciliation and commitment are needed to resolve middle east conflict: vivian" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
+TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
+Tears, joy in israel as hamas hands over first hostages" }
+Spnssaotgrpoaig@{ shape: win-pane, label: "_Published Nov 05, 2025, 06:00 PM_
+Singapore invites palestinian pm to visit, pledges more support for gaza rebuilding" }
+Sposrogeutnn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:44 PM_
+Singapore donates $652,000 to world food programme for humanitarian aid in gaza" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+SRonetoflnveuuot@{ shape: win-pane, label: "_Published Sep 21, 2025, 08:00 PM_
+S’pore red cross hands over further $1.2m of aid for palestinian evacuees; to fund education unit" }
+SRonetoflnveuuot@{ shape: win-pane, label: "_Published Sep 21, 2025, 08:00 PM_
+S’pore red cross hands over further $1.2m of aid for palestinian evacuees; to fund education unit" }
+Stegsacidrrdrltpps@{ shape: win-pane, label: "_Published Sep 20, 2025, 07:50 PM_
+S’pore team helping palestinian evacuees includes first foreign doctors deployed to egypt hospitals" }
+mosSpatpRetdsaiia@{ shape: win-pane, label: "_Published Sep 02, 2025, 05:25 PM_
+$1 million raised in singapore handed to egyptian red crescent to aid palestinian families in gaza" }
 
-Dtaaaoprata:::txtsize --> Znaciippfiiirh:::txtsize
-Znaciippfiiirh:::txtsize --> YMmnoihaiYilehpea:::txtsize
-YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
-YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
-Znaciippfiiirh:::txtsize --> YMmnoihaiYilehpea:::txtsize
-YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
-YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
-Dtaaaoprata:::txtsize --> Ornartestmirn:::txtsize
-Ornartestmirn:::txtsize --> Itdiamfgnwt:::txtsize
-Itdiamfgnwt:::txtsize --> Croeeuoearpimdcae:::txtsize
+Reasnaameeeeeltli:::txtsize --> Tdrcaaededlncbs:::txtsize
+Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
+PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
+Reasnaameeeeeltli:::txtsize --> Spnssaotgrpoaig:::txtsize
+Spnssaotgrpoaig:::txtsize --> Sposrogeutnn:::txtsize
+Sposrogeutnn:::txtsize --> Tdrcaaededlncbs:::txtsize
+Sposrogeutnn:::txtsize --> SRonetoflnveuuot:::txtsize
+Spnssaotgrpoaig:::txtsize --> SRonetoflnveuuot:::txtsize
+SRonetoflnveuuot:::txtsize --> Stegsacidrrdrltpps:::txtsize
+SRonetoflnveuuot:::txtsize --> mosSpatpRetdsaiia:::txtsize
 
-MfokCilsrgt@{ shape: win-pane, label: "_Published Nov 06, 2025, 02:18 PM_
-Mp’s defection shakes up canadian politics before budget vote" }
-Snndarawndwila@{ shape: win-pane, label: "_Published Sep 29, 2025, 06:09 PM_
-Six months in, canada pm mark carney faces two-front trade war with little leverage" }
-ChaCafauef@{ shape: win-pane, label: "_Published Mar 08, 2025, 09:31 AM_
-China hits back at canada with fresh agriculture tariffs" }
-Ftfhatiarmedvn@{ shape: win-pane, label: "_Published Mar 07, 2025, 05:00 AM_
-‘fight to the finish’: china vows to resist trade war, back more tech and innovation" }
-Chaaltrbgoet@{ shape: win-pane, label: "_Published Mar 04, 2025, 09:45 PM_
-China hits back against latest us tariffs, but signals openness to talks" }
-Cttdtddetloyru@{ shape: win-pane, label: "_Published Apr 11, 2024, 10:15 AM_
-China tried to meddle but canadians decided last two elections, says pm trudeau" }
-Cacbiongieitr@{ shape: win-pane, label: "_Published Mar 07, 2023, 03:39 AM_
-Canada police probe media reports on alleged chinese election interference" }
-Cadoierrtbehloee@{ shape: win-pane, label: "_Published Mar 07, 2023, 08:30 AM_
-Canada’s trudeau to appoint special rapporteur to probe alleged china election interference" }
-Cartfeaieispfo@{ shape: win-pane, label: "_Published Dec 17, 2024, 02:26 PM_
-Canada government adrift after finance minister resigns as trump tariffs loom" }
-CaaieyFasapyhPd@{ shape: win-pane, label: "_Published Dec 16, 2024, 10:39 PM_
-Canada’s finance minister chrystia freeland resigns after policy clash with pm trudeau" }
-Cadueroeo@{ shape: win-pane, label: "_Published Dec 10, 2024, 08:15 AM_
-Canada’s trudeau survives third no-confidence vote" }
-TamTtednstnfa@{ shape: win-pane, label: "_Published Dec 02, 2024, 04:19 AM_
-Trudeau promised trump tougher border controls, says top canada official" }
-TttheCanrollgoir@{ shape: win-pane, label: "_Published Nov 26, 2024, 08:02 AM_
-Trump threatens china, mexico, canada with new tariffs over illegal immigration, illicit drugs" }
-TsbchioUdetne@{ shape: win-pane, label: "_Published Nov 06, 2024, 07:37 AM_
-Trump set to be elected 47th president of the united states in stunning comeback" }
-TsbchioUdetne@{ shape: win-pane, label: "_Published Nov 06, 2024, 07:37 AM_
-Trump set to be elected 47th president of the united states in stunning comeback" }
+HlahemioneaIl@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:20 PM_
+Hezbollah says it has a ‘legitimate right’ to defend itself against israel" }
+IlstfakielsLo@{ shape: win-pane, label: "_Published Nov 02, 2025, 04:30 PM_
+Israel warns of intensifying attacks against hezbollah in south lebanon" }
+TafnemsHleikl@{ shape: win-pane, label: "_Published Nov 27, 2024, 02:56 AM_
+Thousands of lebanese head home as israel-hezbollah ceasefire takes hold" }
+IlocfheUktid@{ shape: win-pane, label: "_Published Nov 27, 2024, 05:28 AM_
+Israel-hezbollah ceasefire: what does the us-brokered truce include?" }
+PeLoseeaeao@{ shape: win-pane, label: "_Published Nov 26, 2024, 07:13 PM_
+Prospect of lebanon ceasefire leaves gazans feeling abandoned" }
+Hlutaarhbmrig@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:20 PM_
+Hezbollah supporters gather at nasrallah's tomb to commemorate killing" }
+Hlhiiator@{ shape: win-pane, label: "_Published Sep 28, 2024, 04:42 PM_
+Hezbollah chief killed in israeli strike on beirut" }
+Hlalhrtneces@{ shape: win-pane, label: "_Published Sep 18, 2024, 10:32 PM_
+Hezbollah says it launched first attack on israel since pager blasts" }
+Ilsndmoucfe@{ shape: win-pane, label: "_Published Nov 02, 2025, 04:31 PM_
+Israel urges lebanon to disarm hezbollah under ceasefire terms" }
+TafnemsHleikl@{ shape: win-pane, label: "_Published Nov 27, 2024, 02:56 AM_
+Thousands of lebanese head home as israel-hezbollah ceasefire takes hold" }
+IlocfheUktid@{ shape: win-pane, label: "_Published Nov 27, 2024, 05:28 AM_
+Israel-hezbollah ceasefire: what does the us-brokered truce include?" }
+PeLoseeaeao@{ shape: win-pane, label: "_Published Nov 26, 2024, 07:13 PM_
+Prospect of lebanon ceasefire leaves gazans feeling abandoned" }
+Hlutaarhbmrig@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:20 PM_
+Hezbollah supporters gather at nasrallah's tomb to commemorate killing" }
+Hlhiiator@{ shape: win-pane, label: "_Published Sep 28, 2024, 04:42 PM_
+Hezbollah chief killed in israeli strike on beirut" }
+Hlalhrtneces@{ shape: win-pane, label: "_Published Sep 18, 2024, 10:32 PM_
+Hezbollah says it launched first attack on israel since pager blasts" }
 
-MfokCilsrgt:::txtsize --> Snndarawndwila:::txtsize
-Snndarawndwila:::txtsize --> ChaCafauef:::txtsize
-ChaCafauef:::txtsize --> Ftfhatiarmedvn:::txtsize
-ChaCafauef:::txtsize --> Chaaltrbgoet:::txtsize
-Snndarawndwila:::txtsize --> Cttdtddetloyru:::txtsize
-Cttdtddetloyru:::txtsize --> Cacbiongieitr:::txtsize
-Cttdtddetloyru:::txtsize --> Cadoierrtbehloee:::txtsize
-MfokCilsrgt:::txtsize --> Cartfeaieispfo:::txtsize
-Cartfeaieispfo:::txtsize --> CaaieyFasapyhPd:::txtsize
-CaaieyFasapyhPd:::txtsize --> Cadueroeo:::txtsize
-CaaieyFasapyhPd:::txtsize --> TamTtednstnfa:::txtsize
-Cartfeaieispfo:::txtsize --> TttheCanrollgoir:::txtsize
-TttheCanrollgoir:::txtsize --> TsbchioUdetne:::txtsize
-TttheCanrollgoir:::txtsize --> TsbchioUdetne:::txtsize
+HlahemioneaIl:::txtsize --> IlstfakielsLo:::txtsize
+IlstfakielsLo:::txtsize --> TafnemsHleikl:::txtsize
+TafnemsHleikl:::txtsize --> IlocfheUktid:::txtsize
+TafnemsHleikl:::txtsize --> PeLoseeaeao:::txtsize
+IlstfakielsLo:::txtsize --> Hlutaarhbmrig:::txtsize
+Hlutaarhbmrig:::txtsize --> Hlhiiator:::txtsize
+Hlutaarhbmrig:::txtsize --> Hlalhrtneces:::txtsize
+HlahemioneaIl:::txtsize --> Ilsndmoucfe:::txtsize
+Ilsndmoucfe:::txtsize --> TafnemsHleikl:::txtsize
+TafnemsHleikl:::txtsize --> IlocfheUktid:::txtsize
+TafnemsHleikl:::txtsize --> PeLoseeaeao:::txtsize
+Ilsndmoucfe:::txtsize --> Hlutaarhbmrig:::txtsize
+Hlutaarhbmrig:::txtsize --> Hlhiiator:::txtsize
+Hlutaarhbmrig:::txtsize --> Hlalhrtneces:::txtsize
 
-UniusowrknenRais@{ shape: win-pane, label: "_Published Nov 06, 2025, 01:50 PM_
-Ukraine strikes russia’s volgograd with drones, killing at least one man, russian officials say" }
-Raketfsoirggeskk@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:11 PM_
-Russia and ukraine says their forces are locked in fierce fighting in the ruins of pokrovsk" }
-EedgolranowuS@{ shape: win-pane, label: "_Published Nov 05, 2025, 12:33 AM_
-Europe could struggle to mobilise troops, arms in case of war with russia: study" }
-Esumwepetrake@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:52 PM_
-Eu says it could admit new members by 2030, praises montenegro, albania, ukraine" }
-Anoreedwdr@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:00 AM_
-A fading europe struggles to be heard in new world order" }
-Unerpfsroaeks@{ shape: win-pane, label: "_Published Nov 04, 2025, 01:57 AM_
-Ukraine to set up arms export offices in berlin, copenhagen, zelensky says" }
-RairdirorUnsnhn@{ shape: win-pane, label: "_Published Nov 03, 2025, 11:56 PM_
-Russia says its forces advancing in ruins of pokrovsk; ukraine says defenders holding on" }
-RaaeeUnsirMt@{ shape: win-pane, label: "_Published Nov 02, 2025, 03:00 PM_
-Russia threat extends beyond ukraine, says finnish foreign minister" }
-Fosesentetke@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:05 PM_
-From pokrovsk defenders: drones alone can’t hold embattled ukraine city" }
-Undcoiadoos@{ shape: win-pane, label: "_Published Nov 01, 2025, 06:01 AM_
-Ukraine lands special forces in embattled pokrovsk, sources say" }
-UniahsvUn@{ shape: win-pane, label: "_Published Nov 01, 2025, 02:07 AM_
-Un warns of civilian fight for survival in ukraine" }
-Unstilsleo@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:26 PM_
-Ukraine says it hit russian oil sites nearly 160 times in 2025 so far" }
-Raketfsoirggeskk@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:11 PM_
-Russia and ukraine says their forces are locked in fierce fighting in the ruins of pokrovsk" }
-EedgolranowuS@{ shape: win-pane, label: "_Published Nov 05, 2025, 12:33 AM_
-Europe could struggle to mobilise troops, arms in case of war with russia: study" }
-Unerpfsroaeks@{ shape: win-pane, label: "_Published Nov 04, 2025, 01:57 AM_
-Ukraine to set up arms export offices in berlin, copenhagen, zelensky says" }
+Wrntreofcamty@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:00 PM_
+Western france attacker suspected of ‘self-radicalisation’, minister says" }
+Mmiercswrnj@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:40 PM_
+Man rams car into pedestrians, cyclists in western france, 10 injured" }
+hfrhrctwivotr@{ shape: win-pane, label: "_Published May 27, 2025, 02:18 AM_
+47 hurt after british man drives car into crowd during liverpool’s title parade" }
+Gnsbutslanai@{ shape: win-pane, label: "_Published May 24, 2025, 09:15 PM_
+Germany mass stabbing suspect has ‘psychological illness’, say police" }
+AslVufeegtisti@{ shape: win-pane, label: "_Published Apr 27, 2025, 02:00 PM_
+At least 11 killed in vancouver after vehicle ploughs into filipino street festival" }
+LaastagtVut@{ shape: win-pane, label: "_Published Apr 28, 2025, 02:06 AM_
+Last day of canada’s election campaign jolted by vancouver attack" }
+FigeanicrkysL@{ shape: win-pane, label: "_Published Apr 27, 2025, 06:57 PM_
+Filipino legend celebrated in tragic vancouver block party: who is lapu-lapu?" }
+AslVufeegtisti@{ shape: win-pane, label: "_Published Apr 27, 2025, 02:00 PM_
+At least 11 killed in vancouver after vehicle ploughs into filipino street festival" }
+LaastagtVut@{ shape: win-pane, label: "_Published Apr 28, 2025, 02:06 AM_
+Last day of canada’s election campaign jolted by vancouver attack" }
+AslVufeegtisti@{ shape: win-pane, label: "_Published Apr 27, 2025, 02:00 PM_
+At least 11 killed in vancouver after vehicle ploughs into filipino street festival" }
+Wuenaaa@{ shape: win-pane, label: "_Published Jan 08, 2025, 05:00 AM_
+Why would the us want canada as a 51st state?" }
+FigeanicrkysL@{ shape: win-pane, label: "_Published Apr 27, 2025, 06:57 PM_
+Filipino legend celebrated in tragic vancouver block party: who is lapu-lapu?" }
+AslVufeegtisti@{ shape: win-pane, label: "_Published Apr 27, 2025, 02:00 PM_
+At least 11 killed in vancouver after vehicle ploughs into filipino street festival" }
+Tlelrtrirnaynm@{ shape: win-pane, label: "_Published Mar 03, 2025, 08:55 PM_
+Two killed, several injured after car rams into crowd in german city of mannheim" }
 
-UniusowrknenRais:::txtsize --> Raketfsoirggeskk:::txtsize
-Raketfsoirggeskk:::txtsize --> EedgolranowuS:::txtsize
-EedgolranowuS:::txtsize --> Esumwepetrake:::txtsize
-EedgolranowuS:::txtsize --> Anoreedwdr:::txtsize
-Raketfsoirggeskk:::txtsize --> Unerpfsroaeks:::txtsize
-Unerpfsroaeks:::txtsize --> RairdirorUnsnhn:::txtsize
-Unerpfsroaeks:::txtsize --> RaaeeUnsirMt:::txtsize
-UniusowrknenRais:::txtsize --> Fosesentetke:::txtsize
-Fosesentetke:::txtsize --> Undcoiadoos:::txtsize
-Undcoiadoos:::txtsize --> UniahsvUn:::txtsize
-Undcoiadoos:::txtsize --> Unstilsleo:::txtsize
-Fosesentetke:::txtsize --> Raketfsoirggeskk:::txtsize
-Raketfsoirggeskk:::txtsize --> EedgolranowuS:::txtsize
-Raketfsoirggeskk:::txtsize --> Unerpfsroaeks:::txtsize
+Wrntreofcamty:::txtsize --> Mmiercswrnj:::txtsize
+Mmiercswrnj:::txtsize --> hfrhrctwivotr:::txtsize
+hfrhrctwivotr:::txtsize --> Gnsbutslanai:::txtsize
+Mmiercswrnj:::txtsize --> AslVufeegtisti:::txtsize
+AslVufeegtisti:::txtsize --> LaastagtVut:::txtsize
+AslVufeegtisti:::txtsize --> FigeanicrkysL:::txtsize
+Wrntreofcamty:::txtsize --> AslVufeegtisti:::txtsize
+AslVufeegtisti:::txtsize --> LaastagtVut:::txtsize
+LaastagtVut:::txtsize --> AslVufeegtisti:::txtsize
+LaastagtVut:::txtsize --> Wuenaaa:::txtsize
+AslVufeegtisti:::txtsize --> FigeanicrkysL:::txtsize
+FigeanicrkysL:::txtsize --> AslVufeegtisti:::txtsize
+FigeanicrkysL:::txtsize --> Tlelrtrirnaynm:::txtsize
 
 ```
-<i>Last updated: 2025-11-06 16:00:50.044280 (GMT+8)</i>
+<i>Last updated: 2025-11-06 20:01:15.167937 (GMT+8)</i>
 <!-- END -->
