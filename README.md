@@ -16,129 +16,117 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-GTAtsimerkna@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:59 AM_
-‘grand theft auto’ studio says fired employees were leaking information" }
-TaUetdtmLnf@{ shape: win-pane, label: "_Published Aug 23, 2023, 09:49 PM_
-Teen hacked uber, revolut, grand theft auto maker, london jury finds" }
-Hrberlkdmo@{ shape: win-pane, label: "_Published Dec 03, 2022, 05:05 PM_
-Hackers may be after your highly ranked video game account" }
-Mheanscesputaaei@{ shape: win-pane, label: "_Published Mar 06, 2022, 05:00 AM_
-More children cheated in game scams; counsellors urge peer support and parental supervision" }
-GgRhptrhrrtdoco@{ shape: win-pane, label: "_Published Jul 10, 2023, 02:34 PM_
-Gaming firm razer hit by potential breach, hacker offering stolen data for $135k in crypto" }
-Droelzsrleodbcyut@{ shape: win-pane, label: "_Published Sep 15, 2020, 10:43 PM_
-Data breach of potentially 100,000 razer customers worldwide discovered by cyber-security consultant" }
-GgRwatnvrdeamm@{ shape: win-pane, label: "_Published Dec 09, 2022, 01:50 PM_
-Gaming firm razer wins lawsuit against it vendor over data leak, awarded $8.7m in damages" }
-GTArrsmsuard@{ shape: win-pane, label: "_Published Dec 06, 2023, 07:09 PM_
-Grand theft auto trailer soars past 100m views in 12 hours, smashes records" }
-tfuceGyloociV@{ shape: win-pane, label: "_Published Sep 20, 2023, 08:40 PM_
-2 teens face murder charges for gta-style killing of ex-police chief in las vegas" }
-Sdtlaoebrnudibir@{ shape: win-pane, label: "_Published Sep 15, 2023, 04:40 PM_
-‘she had limited value’: seattle officer probed for joking about student killed by police car" }
-Onnciituioae@{ shape: win-pane, label: "_Published May 12, 2023, 01:00 AM_
-One canadian police officer killed, two wounded in shooting at home" }
+Caavosroec@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:49 AM_
+Canada to poach h-1b visa holders, international researchers" }
+TtoeBealt@{ shape: win-pane, label: "_Published Sep 20, 2025, 04:36 AM_
+Trump to impose $130,000 fee for h-1b worker visas in blow to tech" }
+Lissashrtfisal@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:12 AM_
+Lawsuit says musk’s tesla hires visa holders instead of americans so it can pay less" }
+Euiferhnylrl@{ shape: win-pane, label: "_Published Sep 11, 2025, 01:45 AM_
+Elon musk’s title of richest person challenged by oracle’s larry ellison" }
+Sdardrilstiraae@{ shape: win-pane, label: "_Published Sep 12, 2025, 10:35 PM_
+Should tesla’s shareholders green-light elon musk’s us$1 trillion performance package?" }
+SKaolvsbeuboen@{ shape: win-pane, label: "_Published Sep 19, 2025, 03:30 PM_
+South korea aims to resolve us visa issues before executing $450 billion investment" }
+Rndpiotmcirnrn@{ shape: win-pane, label: "_Published Sep 08, 2025, 11:00 PM_
+Raid on hyundai-lg plant in us points to trump’s focus on immigration enforcement" }
+CgdeeUrwve@{ shape: win-pane, label: "_Published Oct 22, 2025, 12:20 PM_
+College grads, some workers in us spared new us$100,000 h-1b visa fee" }
+HlgeetUdtmhniil@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:00 AM_
+H-1b1 still singaporeans’ best bet for a us job, despite trump tightening immigration rules" }
+Wsvrmdspgt@{ shape: win-pane, label: "_Published Sep 21, 2025, 03:45 PM_
+What is us’ h-1b visa programme and how is trump changing it?" }
 
-GTAtsimerkna:::txtsize --> TaUetdtmLnf:::txtsize
-TaUetdtmLnf:::txtsize --> Hrberlkdmo:::txtsize
-Hrberlkdmo:::txtsize --> Mheanscesputaaei:::txtsize
-TaUetdtmLnf:::txtsize --> GgRhptrhrrtdoco:::txtsize
-GgRhptrhrrtdoco:::txtsize --> Droelzsrleodbcyut:::txtsize
-GgRhptrhrrtdoco:::txtsize --> GgRwatnvrdeamm:::txtsize
-GTAtsimerkna:::txtsize --> GTArrsmsuard:::txtsize
-GTArrsmsuard:::txtsize --> tfuceGyloociV:::txtsize
-tfuceGyloociV:::txtsize --> Sdtlaoebrnudibir:::txtsize
-tfuceGyloociV:::txtsize --> Onnciituioae:::txtsize
+Caavosroec:::txtsize --> TtoeBealt:::txtsize
+TtoeBealt:::txtsize --> Lissashrtfisal:::txtsize
+Lissashrtfisal:::txtsize --> Euiferhnylrl:::txtsize
+Lissashrtfisal:::txtsize --> Sdardrilstiraae:::txtsize
+TtoeBealt:::txtsize --> SKaolvsbeuboen:::txtsize
+SKaolvsbeuboen:::txtsize --> Rndpiotmcirnrn:::txtsize
+Caavosroec:::txtsize --> CgdeeUrwve:::txtsize
+CgdeeUrwve:::txtsize --> HlgeetUdtmhniil:::txtsize
+HlgeetUdtmhniil:::txtsize --> Wsvrmdspgt:::txtsize
 
-Tgltilatmteror@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:58 AM_
-Trump grapples with political setback after democrats ride voter fury over prices" }
-Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
-Us government shutdown becomes longest in history" }
-AcobeaSdnsdh@{ shape: win-pane, label: "_Published Nov 01, 2025, 01:34 AM_
-Americans worry about next meal as us shutdown enters second month" }
-Waswhomhw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:42 PM_
-What happens next with the us government shutdown?" }
-Tsrermvlyuso@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:18 AM_
-Trump says private donor gave $160m to cover military pay during shutdown" }
-Uentesraosactt@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:47 PM_
-Us government shutdown enters record 35th day as congressional inaction takes toll" }
-Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
-Us government begins shutdown that may lead to mass layoffs and cuts" }
-MoAcoedaromhwmirn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:30 AM_
-Millions of americans to get reduced food aid during government shutdown: trump administration" }
+Blnnnsnihscefd@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:30 AM_
+Brazilian influencer, known as ‘human barbie’ for her 27 cosmetic surgeries, found dead" }
+Ksayhisleshr@{ shape: win-pane, label: "_Published Nov 04, 2025, 12:20 PM_
+Kl cops reclassify death of taiwanese influencer iris hsieh as murder" }
+MsaNeiuavmnaiesh@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:47 PM_
+Malaysian rapper namewee denies drug use and involvement in taiwanese influencer’s death" }
+Msnndeeaepaeuwd@{ shape: win-pane, label: "_Published Dec 19, 2024, 08:12 AM_
+Malaysian influencer ady hu detained by taiwanese cops for alleged fraud: taiwan media" }
+ceairryitidfce@{ shape: win-pane, label: "_Published Jul 17, 2024, 10:07 AM_
+2 charged in malaysia over cyber bullying linked to social media influencer’s death" }
+MsaNeeggttat@{ shape: win-pane, label: "_Published Nov 03, 2025, 09:40 AM_
+Malaysian rapper namewee faces drug charges after october arrest" }
+MsaNeiuavmnaiesh@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:47 PM_
+Malaysian rapper namewee denies drug use and involvement in taiwanese influencer’s death" }
+Snrwaiineanlapmss@{ shape: win-pane, label: "_Published Jul 26, 2025, 02:35 PM_
+Sorry, not sorry: how china’s nationalistic netizens played into malaysian rapper namewee’s hands" }
+MsaNeafyraieshc@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:47 AM_
+Malaysian rapper namewee remanded for 6 days over taiwanese influencer’s death: police" }
+Ksayhisleshr@{ shape: win-pane, label: "_Published Nov 04, 2025, 12:20 PM_
+Kl cops reclassify death of taiwanese influencer iris hsieh as murder" }
+MsaNeiuavmnaiesh@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:47 PM_
+Malaysian rapper namewee denies drug use and involvement in taiwanese influencer’s death" }
+MsaNeeggttat@{ shape: win-pane, label: "_Published Nov 03, 2025, 09:40 AM_
+Malaysian rapper namewee faces drug charges after october arrest" }
+
+Blnnnsnihscefd:::txtsize --> Ksayhisleshr:::txtsize
+Ksayhisleshr:::txtsize --> MsaNeiuavmnaiesh:::txtsize
+MsaNeiuavmnaiesh:::txtsize --> Msnndeeaepaeuwd:::txtsize
+MsaNeiuavmnaiesh:::txtsize --> ceairryitidfce:::txtsize
+Ksayhisleshr:::txtsize --> MsaNeeggttat:::txtsize
+MsaNeeggttat:::txtsize --> MsaNeiuavmnaiesh:::txtsize
+MsaNeeggttat:::txtsize --> Snrwaiineanlapmss:::txtsize
+Blnnnsnihscefd:::txtsize --> MsaNeafyraieshc:::txtsize
+MsaNeafyraieshc:::txtsize --> Ksayhisleshr:::txtsize
+Ksayhisleshr:::txtsize --> MsaNeiuavmnaiesh:::txtsize
+Ksayhisleshr:::txtsize --> MsaNeeggttat:::txtsize
+
+Mnkstldavre@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:00 AM_
+Mamdani walks offstage to bollywood song after victory speech" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
+Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
+TbCttousoscolsdsr@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:15 AM_
+Trump backs cuomo, threatens to cut funds as new yorkers expected to pick leftist mamdani as mayor" }
+OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
+Obama calls mamdani, praises campaign ahead of new york mayoral election" }
+Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
+Takeaways from us election night 2025" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
 Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
 Democrats sweep first major elections of second trump term" }
+RuNrocrmscshr@{ shape: win-pane, label: "_Published Nov 06, 2025, 10:40 AM_
+Rama duwaji, new york mayor-elect zohran mamdani’s wife, carves a path of her own" }
 YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
 Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
 YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
 Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
 Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
 Takeaways from us election night 2025" }
-Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
-Cuomo to stay in new york mayoral race despite losing democratic primary" }
-MnCankgnsodty@{ shape: win-pane, label: "_Published Jun 27, 2025, 06:16 PM_
-Mamdani’s nyc primary win sparks surge in anti-muslim posts, advocates say" }
+HhaiTbdemek@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:08 PM_
+How zohran mamdani beat trump-backed andrew cuomo in new york" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
 
-Tgltilatmteror:::txtsize --> Uentbegno:::txtsize
-Uentbegno:::txtsize --> AcobeaSdnsdh:::txtsize
-AcobeaSdnsdh:::txtsize --> Waswhomhw:::txtsize
-AcobeaSdnsdh:::txtsize --> Tsrermvlyuso:::txtsize
-Uentbegno:::txtsize --> Uentesraosactt:::txtsize
-Uentesraosactt:::txtsize --> Ueniunmaayat:::txtsize
-Uentesraosactt:::txtsize --> MoAcoedaromhwmirn:::txtsize
-Tgltilatmteror:::txtsize --> Drwialosdp:::txtsize
-Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
+Mnkstldavre:::txtsize --> YMmnoihaiYilehpea:::txtsize
+YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
+YMmimociYaoauoc:::txtsize --> TbCttousoscolsdsr:::txtsize
+YMmimociYaoauoc:::txtsize --> OcMniagaekren:::txtsize
+YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
+Twreig:::txtsize --> YMmnoihaiYilehpea:::txtsize
+Twreig:::txtsize --> Drwialosdp:::txtsize
+Mnkstldavre:::txtsize --> RuNrocrmscshr:::txtsize
+RuNrocrmscshr:::txtsize --> YMmnoihaiYilehpea:::txtsize
 YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
 YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
-Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
-Ctywmaeiseary:::txtsize --> MnCankgnsodty:::txtsize
-
-FessSoelwnairn@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:32 AM_
-France moves to suspend shein over sex dolls and weapons on day paris store opens" }
-CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
-China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
-SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
-Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
-Seskmrirsich@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:53 PM_
-Shein enters bricks-and-mortar retail in france, sparking backlash" }
-Sfmin@{ shape: win-pane, label: "_Published Jul 10, 2025, 11:43 PM_
-Shein faces $200m fine in france" }
-Shtfbsrol@{ shape: win-pane, label: "_Published Oct 10, 2025, 08:00 AM_
-Shein, hit with big fines, boosts internal controls" }
-Seskmrirsich@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:53 PM_
-Shein enters bricks-and-mortar retail in france, sparking backlash" }
-TlgsSbiite@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:43 AM_
-Temu plots aggressive us comeback with price cuts as deep as 60%" }
-Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
-Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
-FeaSbclelp@{ shape: win-pane, label: "_Published Nov 03, 2025, 08:50 PM_
-France threatens shein ban if ‘childlike’ sex dolls reappear" }
-CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
-China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
-SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
-Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
-CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
-China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
-SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
-Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
-Shtfbsrol@{ shape: win-pane, label: "_Published Oct 10, 2025, 08:00 AM_
-Shein, hit with big fines, boosts internal controls" }
-
-FessSoelwnairn:::txtsize --> CsnsdsloeoFhhoi:::txtsize
-CsnsdsloeoFhhoi:::txtsize --> SthirylerNsba:::txtsize
-SthirylerNsba:::txtsize --> Seskmrirsich:::txtsize
-SthirylerNsba:::txtsize --> Sfmin:::txtsize
-CsnsdsloeoFhhoi:::txtsize --> Shtfbsrol:::txtsize
-Shtfbsrol:::txtsize --> Seskmrirsich:::txtsize
-Shtfbsrol:::txtsize --> TlgsSbiite:::txtsize
-FessSoelwnairn:::txtsize --> Sbelerncrdo:::txtsize
-Sbelerncrdo:::txtsize --> FeaSbclelp:::txtsize
-FeaSbclelp:::txtsize --> CsnsdsloeoFhhoi:::txtsize
-FeaSbclelp:::txtsize --> SthirylerNsba:::txtsize
-Sbelerncrdo:::txtsize --> CsnsdsloeoFhhoi:::txtsize
-CsnsdsloeoFhhoi:::txtsize --> SthirylerNsba:::txtsize
-CsnsdsloeoFhhoi:::txtsize --> Shtfbsrol:::txtsize
+RuNrocrmscshr:::txtsize --> HhaiTbdemek:::txtsize
+HhaiTbdemek:::txtsize --> YMmnoihaiYilehpea:::txtsize
 
 ```
-<i>Last updated: 2025-11-06 08:01:01.533240 (GMT+8)</i>
+<i>Last updated: 2025-11-06 12:00:24.152178 (GMT+8)</i>
 <!-- END -->
