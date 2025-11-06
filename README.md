@@ -16,120 +16,105 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-UnlsoririWrci@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:21 PM_
-Ukraine jails russian soldier for life for killing pow in first such ruling" }
-RatlcUnrewC@{ shape: win-pane, label: "_Published Sep 26, 2025, 01:22 AM_
-Russia ‘arbitrarily’ executes ukrainian prisoners of war: osce" }
-Umtisoersl@{ shape: win-pane, label: "_Published Sep 23, 2025, 10:17 PM_
-Un slams ‘systematic’ russian torture of ukraine’s civilians" }
-Unlysregsniak@{ shape: win-pane, label: "_Published Sep 21, 2025, 12:18 AM_
-Ukraine’s zelensky plans new trump meeting as russia intensifies attacks" }
-Unstilaciaarn@{ shape: win-pane, label: "_Published Sep 23, 2025, 09:27 PM_
-Ukraine says it hit russian oil infrastructure in bryansk, samara regions" }
-RatlcUnrewC@{ shape: win-pane, label: "_Published Sep 26, 2025, 01:22 AM_
-Russia ‘arbitrarily’ executes ukrainian prisoners of war: osce" }
-Umtisoersl@{ shape: win-pane, label: "_Published Sep 23, 2025, 10:17 PM_
-Un slams ‘systematic’ russian torture of ukraine’s civilians" }
-Unlysregsniak@{ shape: win-pane, label: "_Published Sep 21, 2025, 12:18 AM_
-Ukraine’s zelensky plans new trump meeting as russia intensifies attacks" }
-Unstilaciaarn@{ shape: win-pane, label: "_Published Sep 23, 2025, 09:27 PM_
-Ukraine says it hit russian oil infrastructure in bryansk, samara regions" }
+Uitahetsierus@{ shape: win-pane, label: "_Published Nov 07, 2025, 02:20 AM_
+Us military to establish presence at damascus airbase in syria, sources say" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
+Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Hmsis@{ shape: win-pane, label: "_Published Dec 08, 2024, 04:00 PM_
+How damascus fell in 11 days" }
+Ssalirniwetaatc@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:45 PM_
+Syria’s sharaa tells putin at kremlin meeting he will respect all past deals with moscow" }
+Ralkireosr@{ shape: win-pane, label: "_Published Mar 02, 2025, 03:09 PM_
+Russia gambles to keep military bases in post-assad syria" }
+IlitpisaSse@{ shape: win-pane, label: "_Published Mar 01, 2025, 12:14 AM_
+Israel lobbies us to keep russian bases in a ‘weak’ syria, sources say" }
+Ssevseaol@{ shape: win-pane, label: "_Published Feb 17, 2025, 07:45 AM_
+Syria’s new leader visits former assad strongholds" }
+SnsrsetlRars@{ shape: win-pane, label: "_Published Apr 15, 2025, 12:11 AM_
+Syrian ambassador to moscow requests asylum in russia, report says" }
+AAShsseoelniEn@{ shape: win-pane, label: "_Published Dec 11, 2024, 05:00 AM_
+A post-assad syria has just raised the risk of more conflict in the middle east in 2025" }
 
-UnlsoririWrci:::txtsize --> RatlcUnrewC:::txtsize
-RatlcUnrewC:::txtsize --> Umtisoersl:::txtsize
-Umtisoersl:::txtsize --> Unlysregsniak:::txtsize
-Umtisoersl:::txtsize --> Unstilaciaarn:::txtsize
-UnlsoririWrci:::txtsize --> RatlcUnrewC:::txtsize
-RatlcUnrewC:::txtsize --> Umtisoersl:::txtsize
-Umtisoersl:::txtsize --> Unlysregsniak:::txtsize
-Umtisoersl:::txtsize --> Unstilaciaarn:::txtsize
+Uitahetsierus:::txtsize --> SnltiARahtoy:::txtsize
+SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
+Wasrsnnafriben:::txtsize --> SnltiARahtoy:::txtsize
+Wasrsnnafriben:::txtsize --> Hmsis:::txtsize
+Uitahetsierus:::txtsize --> Ssalirniwetaatc:::txtsize
+Ssalirniwetaatc:::txtsize --> Ralkireosr:::txtsize
+Ralkireosr:::txtsize --> IlitpisaSse:::txtsize
+Ralkireosr:::txtsize --> Ssevseaol:::txtsize
+Ssalirniwetaatc:::txtsize --> SnsrsetlRars:::txtsize
+SnsrsetlRars:::txtsize --> AAShsseoelniEn:::txtsize
 
-BsnhnSfeIeeoeh@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:15 PM_
-British grandmother lindsay sandiford leaves indonesia death row to return home" }
-FiIeeoeew@{ shape: win-pane, label: "_Published Dec 17, 2024, 11:51 PM_
-Filipina on indonesia death row flies home to ‘new life’" }
-IegtnFiawcchln@{ shape: win-pane, label: "_Published Nov 20, 2024, 08:05 PM_
-Indonesia agrees to transfer filipina death row drug convict to the philippines" }
-Sahursnhpfllggcn@{ shape: win-pane, label: "_Published Sep 28, 2023, 12:42 PM_
-S’porean mother, daughter arrested in the philippines for allegedly smuggling 14kg of cocaine" }
-PpSegrundDtw@{ shape: win-pane, label: "_Published Nov 02, 2024, 10:00 AM_
-Philippine senate’s drug war probe turns into rodrigo duterte show" }
-FiIeeosnartlnie@{ shape: win-pane, label: "_Published Dec 13, 2024, 04:49 PM_
-Filipina on indonesia death row says planned transfer back to philippines a ‘miracle’" }
-PpsnaoaftiFidr@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:41 AM_
-Philippines, indonesia agree on details of repatriation of filipina on death row" }
-Freaegehl@{ shape: win-pane, label: "_Published Sep 17, 2024, 05:55 PM_
-Four arrested in bali over drugs face death penalty" }
-Fhnndrrsrrocldpn@{ shape: win-pane, label: "_Published Jul 18, 2025, 06:47 PM_
-Frenchman on indonesia death row for almost 20 years over drug offences released from prison" }
-Ieaveeosfpa@{ shape: win-pane, label: "_Published Feb 04, 2025, 08:45 PM_
-Indonesia hands over french death row prisoner for repatriation" }
-FiIeeoeew@{ shape: win-pane, label: "_Published Dec 17, 2024, 11:51 PM_
-Filipina on indonesia death row flies home to ‘new life’" }
-Fiaxensrhnie@{ shape: win-pane, label: "_Published Dec 18, 2024, 08:15 AM_
-Filipina nearly executed in indonesia arrives home in philippines" }
-FiIeeoeew@{ shape: win-pane, label: "_Published Dec 17, 2024, 11:51 PM_
-Filipina on indonesia death row flies home to ‘new life’" }
-IegtnFiawcchln@{ shape: win-pane, label: "_Published Nov 20, 2024, 08:05 PM_
-Indonesia agrees to transfer filipina death row drug convict to the philippines" }
-FiIeeosnartlnie@{ shape: win-pane, label: "_Published Dec 13, 2024, 04:49 PM_
-Filipina on indonesia death row says planned transfer back to philippines a ‘miracle’" }
+Vnasyirttdnll@{ shape: win-pane, label: "_Published Nov 07, 2025, 02:20 AM_
+Virginia teacher shot by her six-year-old student awarded $13m in civil trial" }
+Saboerensl@{ shape: win-pane, label: "_Published Jan 07, 2023, 09:26 AM_
+Six-year-old boy shoots teacher at us elementary school" }
+Uhoxontelrh@{ shape: win-pane, label: "_Published Dec 16, 2023, 05:08 AM_
+Us mother whose six-year-old son shot teacher jailed for 21 months" }
+Saboerensl@{ shape: win-pane, label: "_Published Jan 07, 2023, 09:26 AM_
+Six-year-old boy shoots teacher at us elementary school" }
+MraUwocecms@{ shape: win-pane, label: "_Published Nov 16, 2023, 11:19 AM_
+Mother of 6-year-old us boy who shot teacher sentenced to 21 months jail" }
+Saboerensl@{ shape: win-pane, label: "_Published Jan 07, 2023, 09:26 AM_
+Six-year-old boy shoots teacher at us elementary school" }
 
-BsnhnSfeIeeoeh:::txtsize --> FiIeeoeew:::txtsize
-FiIeeoeew:::txtsize --> IegtnFiawcchln:::txtsize
-IegtnFiawcchln:::txtsize --> Sahursnhpfllggcn:::txtsize
-IegtnFiawcchln:::txtsize --> PpSegrundDtw:::txtsize
-FiIeeoeew:::txtsize --> FiIeeosnartlnie:::txtsize
-FiIeeosnartlnie:::txtsize --> PpsnaoaftiFidr:::txtsize
-FiIeeosnartlnie:::txtsize --> Freaegehl:::txtsize
-BsnhnSfeIeeoeh:::txtsize --> Fhnndrrsrrocldpn:::txtsize
-Fhnndrrsrrocldpn:::txtsize --> Ieaveeosfpa:::txtsize
-Ieaveeosfpa:::txtsize --> FiIeeoeew:::txtsize
-Ieaveeosfpa:::txtsize --> Fiaxensrhnie:::txtsize
-Fhnndrrsrrocldpn:::txtsize --> FiIeeoeew:::txtsize
-FiIeeoeew:::txtsize --> IegtnFiawcchln:::txtsize
-FiIeeoeew:::txtsize --> FiIeeosnartlnie:::txtsize
+Vnasyirttdnll:::txtsize --> Saboerensl:::txtsize
+Vnasyirttdnll:::txtsize --> Uhoxontelrh:::txtsize
+Uhoxontelrh:::txtsize --> Saboerensl:::txtsize
+Uhoxontelrh:::txtsize --> MraUwocecms:::txtsize
+MraUwocecms:::txtsize --> Saboerensl:::txtsize
 
-Utsanritlss@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:05 PM_
-Us shutdown sends airlines scrambling as travel chaos looms" }
-TaitroguaSouomhw@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:35 AM_
-Trump administration orders 10% of flights cut at major us airports due to government shutdown" }
-Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
-Us government begins shutdown that may lead to mass layoffs and cuts" }
-TsSrtpbun@{ shape: win-pane, label: "_Published Oct 01, 2025, 01:49 AM_
-Trump says us government will ‘probably’ shut down" }
-Lsounsrfakni@{ shape: win-pane, label: "_Published Nov 05, 2025, 04:22 PM_
-Longest us govt shutdown tests air travel, federal workers and patience" }
-Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
-Us government shutdown becomes longest in history" }
-Unnagnsotcaa@{ shape: win-pane, label: "_Published Oct 30, 2025, 11:50 AM_
-Us economy in the dark as government shutdown cuts off crucial data" }
-Tbscaomhwoot@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:21 AM_
-Trump blasts democrats as us government shutdown becomes longest ever" }
-TaitroguaSouomhw@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:35 AM_
-Trump administration orders 10% of flights cut at major us airports due to government shutdown" }
-Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
-Us government begins shutdown that may lead to mass layoffs and cuts" }
-Lsounsrfakni@{ shape: win-pane, label: "_Published Nov 05, 2025, 04:22 PM_
-Longest us govt shutdown tests air travel, federal workers and patience" }
-Frmognsonpewei@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:32 AM_
-For first time in long us government shutdown, hints of progress toward reopening" }
-Uentesnknih@{ shape: win-pane, label: "_Published Oct 06, 2025, 09:01 PM_
-Us government shutdown enters second week with no end in sight" }
+Sostdadps@{ shape: win-pane, label: "_Published Nov 07, 2025, 01:14 AM_
+Spain orders poultry indoors as bird flu spreads" }
+Mtiuiendrsd@{ shape: win-pane, label: "_Published Nov 04, 2025, 09:00 PM_
+Mandatory bird housing imposed in england as bird flu spreads" }
+MugralGntiue@{ shape: win-pane, label: "_Published Oct 26, 2025, 08:40 PM_
+Mass culling ordered near berlin as germany battles bird flu surge" }
+Blat@{ shape: win-pane, label: "_Published Oct 23, 2025, 09:15 AM_
+Bird flu is back in the us" }
+Ferlnsrsdu@{ shape: win-pane, label: "_Published Oct 22, 2025, 03:31 AM_
+France orders poultry indoors as bird flu spreads in europe" }
+Blat@{ shape: win-pane, label: "_Published Oct 23, 2025, 09:15 AM_
+Bird flu is back in the us" }
+Ferlnsrsdu@{ shape: win-pane, label: "_Published Oct 22, 2025, 03:31 AM_
+France orders poultry indoors as bird flu spreads in europe" }
+Blbboaaaet@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:25 AM_
+Bird flu may be airborne on us dairy farms, say scientists" }
+MugralGntiue@{ shape: win-pane, label: "_Published Oct 26, 2025, 08:40 PM_
+Mass culling ordered near berlin as germany battles bird flu surge" }
+Blat@{ shape: win-pane, label: "_Published Oct 23, 2025, 09:15 AM_
+Bird flu is back in the us" }
+Ferlnsrsdu@{ shape: win-pane, label: "_Published Oct 22, 2025, 03:31 AM_
+France orders poultry indoors as bird flu spreads in europe" }
+Blbboaaaet@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:25 AM_
+Bird flu may be airborne on us dairy farms, say scientists" }
+Ferlnsrsdu@{ shape: win-pane, label: "_Published Oct 22, 2025, 03:31 AM_
+France orders poultry indoors as bird flu spreads in europe" }
+Isihtsefsoss@{ shape: win-pane, label: "_Published Aug 30, 2025, 04:07 PM_
+India’s delhi zoo shut after positive bird flu tests from two storks" }
+Blbboaaaet@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:25 AM_
+Bird flu may be airborne on us dairy farms, say scientists" }
 
-Utsanritlss:::txtsize --> TaitroguaSouomhw:::txtsize
-TaitroguaSouomhw:::txtsize --> Ueniunmaayat:::txtsize
-Ueniunmaayat:::txtsize --> TsSrtpbun:::txtsize
-TaitroguaSouomhw:::txtsize --> Lsounsrfakni:::txtsize
-Lsounsrfakni:::txtsize --> Uentbegno:::txtsize
-Lsounsrfakni:::txtsize --> Unnagnsotcaa:::txtsize
-Utsanritlss:::txtsize --> Tbscaomhwoot:::txtsize
-Tbscaomhwoot:::txtsize --> TaitroguaSouomhw:::txtsize
-TaitroguaSouomhw:::txtsize --> Ueniunmaayat:::txtsize
-TaitroguaSouomhw:::txtsize --> Lsounsrfakni:::txtsize
-Tbscaomhwoot:::txtsize --> Frmognsonpewei:::txtsize
-Frmognsonpewei:::txtsize --> Uentesnknih:::txtsize
+Sostdadps:::txtsize --> Mtiuiendrsd:::txtsize
+Mtiuiendrsd:::txtsize --> MugralGntiue:::txtsize
+MugralGntiue:::txtsize --> Blat:::txtsize
+MugralGntiue:::txtsize --> Ferlnsrsdu:::txtsize
+Mtiuiendrsd:::txtsize --> Blat:::txtsize
+Blat:::txtsize --> Ferlnsrsdu:::txtsize
+Blat:::txtsize --> Blbboaaaet:::txtsize
+Sostdadps:::txtsize --> MugralGntiue:::txtsize
+MugralGntiue:::txtsize --> Blat:::txtsize
+Blat:::txtsize --> Ferlnsrsdu:::txtsize
+Blat:::txtsize --> Blbboaaaet:::txtsize
+MugralGntiue:::txtsize --> Ferlnsrsdu:::txtsize
+Ferlnsrsdu:::txtsize --> Isihtsefsoss:::txtsize
+Ferlnsrsdu:::txtsize --> Blbboaaaet:::txtsize
 
 ```
-<i>Last updated: 2025-11-07 00:00:41.390059 (GMT+8)</i>
+<i>Last updated: 2025-11-07 04:01:10.233913 (GMT+8)</i>
 <!-- END -->
