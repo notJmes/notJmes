@@ -16,129 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-ATegifoeusi@{ shape: win-pane, label: "_Published Nov 07, 2025, 02:03 PM_
-Apple tv streaming service suffers outage on pluribus premiere" }
-Sgiieaejoecie@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:15 AM_
-Stranger things’ final season and lee jung-jae’s romcom era kick off in november" }
-AslbocSgioDHuunhs@{ shape: win-pane, label: "_Published Nov 03, 2025, 01:40 PM_
-Actress millie bobby brown accuses stranger things co-star david harbour of bullying and harassment" }
-Sgicsibwhneidar@{ shape: win-pane, label: "_Published Aug 22, 2025, 12:35 PM_
-Stranger things actress millie bobby brown, 21, and husband jake bongiovi, 23, adopt baby girl" }
-NieaTseen@{ shape: win-pane, label: "_Published Dec 15, 2023, 01:15 PM_
-Netflix takes stranger things to the stage in london" }
-SGLnrnoThcoadro@{ shape: win-pane, label: "_Published Nov 02, 2025, 11:35 AM_
-Squid game’s lee jung-jae returns to korean tv with a romcom about chasing different roles" }
-LnsaprmaJnktr@{ shape: win-pane, label: "_Published Oct 20, 2025, 04:03 PM_
-Lee jung-jae’s 17-year age gap with romcom co-star lim ji-yeon sparks controversy" }
-SGteJoatypcegi@{ shape: win-pane, label: "_Published Oct 08, 2025, 04:30 PM_
-Squid game star lee jung jae looking at next hollywood project, directing new film" }
-Asluhasnhdnh@{ shape: win-pane, label: "_Published Oct 31, 2025, 11:24 AM_
-Apple sees blockbuster holiday season on new iphones, driving up shares" }
-AcsUlvtsssgnie@{ shape: win-pane, label: "_Published Oct 21, 2025, 01:16 AM_
-Apple closes in on us$4 trillion valuation as data shows strong demand for iphone 17" }
-AulornaIatfs@{ shape: win-pane, label: "_Published Sep 10, 2025, 03:57 AM_
-Apple unveils iphone 17 air, iphone 17 pro amid ai race and us tariff pressures" }
-AuedakiPti@{ shape: win-pane, label: "_Published Oct 15, 2025, 11:15 PM_
-Apple updates ipad pro, macbook pro, vision pro with m5 chip" }
-AsyedalIcjuoM@{ shape: win-pane, label: "_Published Oct 16, 2025, 08:35 AM_
-Apple’s newly tapped head of chatgpt-like ai search project quits to join meta" }
-Alfhshahtptgt@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:36 AM_
-Apple loses fourth ai researcher in a month to meta’s superintelligence team" }
-ModeAiPugpcoin@{ shape: win-pane, label: "_Published Jul 10, 2025, 08:58 AM_
-Meta poached apple’s top ai engineer pang ruoming with pay package over $256 million" }
+UiufrcrhSeo@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:57 PM_
+Uk minister urges former prince andrew to help us epstein probe" }
+Umsrnrtfrfetsryse@{ shape: win-pane, label: "_Published Nov 07, 2025, 04:15 AM_
+Us lawmakers ask britain’s andrew to testify over sex offender epstein as he formally loses titles" }
+Binrtberrtssm@{ shape: win-pane, label: "_Published Oct 31, 2025, 03:36 AM_
+Britain’s king charles strips brother andrew of royal titles, windsor home" }
+Vnumroeieryin@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:12 PM_
+Virginia giuffre memoir goes on sale, heaping fresh scrutiny on prince andrew" }
+Biinastiifeal@{ shape: win-pane, label: "_Published Feb 16, 2022, 12:22 AM_
+Britain's prince andrew agrees to settle virginia giuffre sex assault claim" }
+Vnumroeieryin@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:12 PM_
+Virginia giuffre memoir goes on sale, heaping fresh scrutiny on prince andrew" }
+Biinastiifeal@{ shape: win-pane, label: "_Published Feb 16, 2022, 12:22 AM_
+Britain's prince andrew agrees to settle virginia giuffre sex assault claim" }
+BiingunluYteaas@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:26 AM_
+Britain’s prince andrew gives up using title of duke of york, still denies accusations" }
+Biiimerabdletz@{ shape: win-pane, label: "_Published Nov 04, 2025, 01:01 AM_
+Britain’s prince william leaves andrew scandal behind for climate trip to brazil" }
+Binrtberrtssm@{ shape: win-pane, label: "_Published Oct 31, 2025, 03:36 AM_
+Britain’s king charles strips brother andrew of royal titles, windsor home" }
+Vnumroeieryin@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:12 PM_
+Virginia giuffre memoir goes on sale, heaping fresh scrutiny on prince andrew" }
+Biinastiifeal@{ shape: win-pane, label: "_Published Feb 16, 2022, 12:22 AM_
+Britain's prince andrew agrees to settle virginia giuffre sex assault claim" }
+Tsesyrnaierss@{ shape: win-pane, label: "_Published Nov 03, 2025, 09:00 AM_
+Trump says he feels ‘badly’ for britain’s royal family over andrew-epstein saga" }
+BilprAwsipinr@{ shape: win-pane, label: "_Published Nov 02, 2025, 08:16 PM_
+Britain will strip disgraced andrew of last military position, minister says" }
+Tanrefeoirls@{ shape: win-pane, label: "_Published Sep 15, 2025, 10:20 AM_
+Trump and king charles: heads of state with opposing personalities" }
 
-ATegifoeusi:::txtsize --> Sgiieaejoecie:::txtsize
-Sgiieaejoecie:::txtsize --> AslbocSgioDHuunhs:::txtsize
-AslbocSgioDHuunhs:::txtsize --> Sgicsibwhneidar:::txtsize
-AslbocSgioDHuunhs:::txtsize --> NieaTseen:::txtsize
-Sgiieaejoecie:::txtsize --> SGLnrnoThcoadro:::txtsize
-SGLnrnoThcoadro:::txtsize --> LnsaprmaJnktr:::txtsize
-SGLnrnoThcoadro:::txtsize --> SGteJoatypcegi:::txtsize
-ATegifoeusi:::txtsize --> Asluhasnhdnh:::txtsize
-Asluhasnhdnh:::txtsize --> AcsUlvtsssgnie:::txtsize
-AcsUlvtsssgnie:::txtsize --> AulornaIatfs:::txtsize
-AcsUlvtsssgnie:::txtsize --> AuedakiPti:::txtsize
-Asluhasnhdnh:::txtsize --> AsyedalIcjuoM:::txtsize
-AsyedalIcjuoM:::txtsize --> Alfhshahtptgt:::txtsize
-AsyedalIcjuoM:::txtsize --> ModeAiPugpcoin:::txtsize
+UiufrcrhSeo:::txtsize --> Umsrnrtfrfetsryse:::txtsize
+Umsrnrtfrfetsryse:::txtsize --> Binrtberrtssm:::txtsize
+Binrtberrtssm:::txtsize --> Vnumroeieryin:::txtsize
+Binrtberrtssm:::txtsize --> Biinastiifeal:::txtsize
+Umsrnrtfrfetsryse:::txtsize --> Vnumroeieryin:::txtsize
+Vnumroeieryin:::txtsize --> Biinastiifeal:::txtsize
+Vnumroeieryin:::txtsize --> BiingunluYteaas:::txtsize
+UiufrcrhSeo:::txtsize --> Biiimerabdletz:::txtsize
+Biiimerabdletz:::txtsize --> Binrtberrtssm:::txtsize
+Binrtberrtssm:::txtsize --> Vnumroeieryin:::txtsize
+Binrtberrtssm:::txtsize --> Biinastiifeal:::txtsize
+Biiimerabdletz:::txtsize --> Tsesyrnaierss:::txtsize
+Tsesyrnaierss:::txtsize --> BilprAwsipinr:::txtsize
+Tsesyrnaierss:::txtsize --> Tanrefeoirls:::txtsize
 
-Hedutoaas@{ shape: win-pane, label: "_Published Nov 07, 2025, 01:28 PM_
-How the us under trump fits into china-taiwan tensions" }
-Tshnousyca@{ shape: win-pane, label: "_Published Nov 03, 2025, 05:15 AM_
-Trump says china knows ‘consequences’ of any attack on taiwan" }
-Wiacriswmi@{ shape: win-pane, label: "_Published Oct 31, 2025, 10:21 PM_
-Why taiwan’s absence in trump-xi talks was a welcome relief" }
-TnsUnensdumnp@{ shape: win-pane, label: "_Published Oct 28, 2025, 10:20 AM_
-Taiwan plays down us abandonment concerns ahead of trump-xi meeting at apec" }
-Wiacriswmi@{ shape: win-pane, label: "_Published Oct 31, 2025, 10:21 PM_
-Why taiwan’s absence in trump-xi talks was a welcome relief" }
-TnsUnensdumnp@{ shape: win-pane, label: "_Published Oct 28, 2025, 10:20 AM_
-Taiwan plays down us abandonment concerns ahead of trump-xi meeting at apec" }
-CuUveeectt@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:36 AM_
-China urges us to avoid ‘red lines’ after reaching trade truce" }
-Anmubsirooe@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:05 PM_
-‘amazing’ trump-xi summit brings tactical truce, not major reset" }
-Tslnihnltaas@{ shape: win-pane, label: "_Published Oct 30, 2025, 01:05 PM_
-Trump says planning to visit china in april, to cut fentanyl tariffs to 10%" }
-Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
-China tightens rare earth export controls and targets defence, semiconductor users" }
-Wiacriswmi@{ shape: win-pane, label: "_Published Oct 31, 2025, 10:21 PM_
-Why taiwan’s absence in trump-xi talks was a welcome relief" }
-TnsUnensdumnp@{ shape: win-pane, label: "_Published Oct 28, 2025, 10:20 AM_
-Taiwan plays down us abandonment concerns ahead of trump-xi meeting at apec" }
+Wfrfoontonbasi@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:55 PM_
+World food prices fall for second consecutive month in october on ample supplies" }
+Wfraetaha@{ shape: win-pane, label: "_Published Sep 05, 2025, 06:08 PM_
+World food prices at more than two-year high, fao says" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
+Explosions heard in ukraine capital kyiv, other cities" }
+OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
+Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
+Wnseaiothcl@{ shape: win-pane, label: "_Published Aug 26, 2025, 09:07 AM_
+Warming seas worsen japan’s price shock with $130 urchin rice bowls" }
+JssutJnr@{ shape: win-pane, label: "_Published Aug 02, 2025, 12:40 PM_
+Japan sweats through hottest july on record" }
+hesea@{ shape: win-pane, label: "_Published Aug 04, 2025, 04:22 PM_
+17 heat records broken in japan" }
+Hiceiyry@{ shape: win-pane, label: "_Published Jul 21, 2025, 11:15 AM_
+How climate change is raising your grocery bill" }
+Smtcneeecyohh@{ shape: win-pane, label: "_Published Mar 04, 2025, 05:00 PM_
+Supermarkets and convenience stores have been costly to people’s health" }
+Foildtrstprtse@{ shape: win-pane, label: "_Published Nov 07, 2024, 05:17 PM_
+Food companies sell products that are less healthy in poorer countries, says report" }
+Cutipereboe@{ shape: win-pane, label: "_Published Apr 26, 2025, 03:30 PM_
+Coconuts get pricier as poor weather drives global shortage" }
+Wfrsyray@{ shape: win-pane, label: "_Published Apr 04, 2025, 04:37 PM_
+World food prices steady in march, un agency says" }
+Ppdneeieptna@{ shape: win-pane, label: "_Published Jan 05, 2023, 02:06 PM_
+Philippine durian growers eye more income as exports to china cleared" }
 
-Hedutoaas:::txtsize --> Tshnousyca:::txtsize
-Tshnousyca:::txtsize --> Wiacriswmi:::txtsize
-Wiacriswmi:::txtsize --> TnsUnensdumnp:::txtsize
-Tshnousyca:::txtsize --> Wiacriswmi:::txtsize
-Wiacriswmi:::txtsize --> TnsUnensdumnp:::txtsize
-Hedutoaas:::txtsize --> CuUveeectt:::txtsize
-CuUveeectt:::txtsize --> Anmubsirooe:::txtsize
-Anmubsirooe:::txtsize --> Tslnihnltaas:::txtsize
-Anmubsirooe:::txtsize --> Ctertonsasnmdrs:::txtsize
-CuUveeectt:::txtsize --> Wiacriswmi:::txtsize
-Wiacriswmi:::txtsize --> TnsUnensdumnp:::txtsize
+Wfrfoontonbasi:::txtsize --> Wfraetaha:::txtsize
+Wfraetaha:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
+DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
+Wfraetaha:::txtsize --> Wnseaiothcl:::txtsize
+Wnseaiothcl:::txtsize --> JssutJnr:::txtsize
+Wnseaiothcl:::txtsize --> hesea:::txtsize
+Wfrfoontonbasi:::txtsize --> Hiceiyry:::txtsize
+Hiceiyry:::txtsize --> Smtcneeecyohh:::txtsize
+Smtcneeecyohh:::txtsize --> Foildtrstprtse:::txtsize
+Hiceiyry:::txtsize --> Cutipereboe:::txtsize
+Cutipereboe:::txtsize --> Wfrsyray:::txtsize
+Cutipereboe:::txtsize --> Ppdneeieptna:::txtsize
 
-MpotlyflepukerNr@{ shape: win-pane, label: "_Published Nov 07, 2025, 12:45 PM_
-Multiple people at us military base fall ill after suspicious package delivered, cnn reports" }
-Uitahetsierus@{ shape: win-pane, label: "_Published Nov 07, 2025, 02:20 AM_
-Us military to establish presence at damascus airbase in syria, sources say" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
-Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
-Ssalirniwetaatc@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:45 PM_
-Syria’s sharaa tells putin at kremlin meeting he will respect all past deals with moscow" }
-Ralkireosr@{ shape: win-pane, label: "_Published Mar 02, 2025, 03:09 PM_
-Russia gambles to keep military bases in post-assad syria" }
-SnsrsetlRars@{ shape: win-pane, label: "_Published Apr 15, 2025, 12:11 AM_
-Syrian ambassador to moscow requests asylum in russia, report says" }
-TstptoisMa@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:19 AM_
-Trump’s military ops in other countries test his maga base" }
-TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
-Trump threatens military action in nigeria over ‘killing of christians’" }
-UDehewmeinegas@{ shape: win-pane, label: "_Published Nov 01, 2025, 09:00 AM_
-Us v-p j.d. vance says he hopes his wife embraces christianity, setting off backlash" }
-Tahurpdvnesn@{ shape: win-pane, label: "_Published May 22, 2025, 01:26 AM_
-Trump ambushes south africa’s president over ‘genocide’ accusation" }
-FwSAarnTcsfimi@{ shape: win-pane, label: "_Published May 13, 2025, 04:01 AM_
-First white south africans arrive in us as trump claims they face discrimination" }
-Tssniofswplec@{ shape: win-pane, label: "_Published Feb 11, 2025, 08:13 PM_
-Trump’s accusations against south africa spark ‘white privilege’ self-mockery" }
+PeieubnUhslit@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:25 PM_
+Pope leo’s critique of trump emboldens top us catholics to help immigrants" }
+UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
+Us cardinal prevost elected pope leo xiv, first american pontiff" }
+Arnclaenigi@{ shape: win-pane, label: "_Published May 09, 2025, 06:49 AM_
+A reformer and a reconciler: what pope leo’s new reign might bring" }
+Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
+Pope francis dies at age 88" }
+UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
+Us cardinal prevost elected pope leo xiv, first american pontiff" }
+IfarPeoselbia@{ shape: win-pane, label: "_Published May 09, 2025, 03:40 AM_
+In his first appearance, pope leo xiv offers three big clues about his papacy" }
+UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
+Us cardinal prevost elected pope leo xiv, first american pontiff" }
+Prsraoddsiasv@{ shape: win-pane, label: "_Published Apr 26, 2025, 09:05 AM_
+Pope francis’ funeral draws thousands, cardinal says his legacy must survive" }
 
-MpotlyflepukerNr:::txtsize --> Uitahetsierus:::txtsize
-Uitahetsierus:::txtsize --> SnltiARahtoy:::txtsize
-SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
-Uitahetsierus:::txtsize --> Ssalirniwetaatc:::txtsize
-Ssalirniwetaatc:::txtsize --> Ralkireosr:::txtsize
-Ssalirniwetaatc:::txtsize --> SnsrsetlRars:::txtsize
-MpotlyflepukerNr:::txtsize --> TstptoisMa:::txtsize
-TstptoisMa:::txtsize --> TttiriNiriCt:::txtsize
-TttiriNiriCt:::txtsize --> UDehewmeinegas:::txtsize
-TstptoisMa:::txtsize --> Tahurpdvnesn:::txtsize
-Tahurpdvnesn:::txtsize --> FwSAarnTcsfimi:::txtsize
-Tahurpdvnesn:::txtsize --> Tssniofswplec:::txtsize
+PeieubnUhslit:::txtsize --> UdPscooimat:::txtsize
+UdPscooimat:::txtsize --> Arnclaenigi:::txtsize
+Arnclaenigi:::txtsize --> Prsa:::txtsize
+Arnclaenigi:::txtsize --> UdPscooimat:::txtsize
+UdPscooimat:::txtsize --> IfarPeoselbia:::txtsize
+IfarPeoselbia:::txtsize --> UdPscooimat:::txtsize
+IfarPeoselbia:::txtsize --> Prsraoddsiasv:::txtsize
 
 ```
-<i>Last updated: 2025-11-07 16:00:30.388431 (GMT+8)</i>
+<i>Last updated: 2025-11-07 20:01:07.149133 (GMT+8)</i>
 <!-- END -->
