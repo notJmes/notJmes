@@ -16,129 +16,90 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-NPitnrUafosrnto@{ shape: win-pane, label: "_Published Nov 07, 2025, 11:40 PM_
-Nancy pelosi, first woman to serve as us speaker of the house, is retiring - and that is good" }
-NPitnrUsaormr@{ shape: win-pane, label: "_Published Nov 06, 2025, 10:15 PM_
-Nancy pelosi, first woman to serve as us house speaker, to retire from congress" }
-Epryshpmuyrra@{ shape: win-pane, label: "_Published Dec 15, 2024, 02:43 AM_
-Ex-us speaker nancy pelosi has hip-replacement surgery after reported fall" }
-FrueNPirEetoi@{ shape: win-pane, label: "_Published Dec 14, 2024, 01:13 AM_
-Former us house speaker nancy pelosi injured in europe, admitted to hospital" }
-FrueNPirEetoi@{ shape: win-pane, label: "_Published Dec 14, 2024, 01:13 AM_
-Former us house speaker nancy pelosi injured in europe, admitted to hospital" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
-Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
-TbCttousoscolsdsr@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:15 AM_
-Trump backs cuomo, threatens to cut funds as new yorkers expected to pick leftist mamdani as mayor" }
-OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
-Obama calls mamdani, praises campaign ahead of new york mayoral election" }
-Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
-Takeaways from us election night 2025" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
+TyeoataaIlauois@{ shape: win-pane, label: "_Published Nov 08, 2025, 03:22 AM_
+Turkey issues genocide arrest warrant against israel’s netanyahu, senior officials" }
+TIeshhetdpoG@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:20 PM_
+Turks, indonesians or others? the race is on to find troops to police gaza" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
+TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
+Tears, joy in israel as hamas hands over first hostages" }
 
-NPitnrUafosrnto:::txtsize --> NPitnrUsaormr:::txtsize
-NPitnrUsaormr:::txtsize --> Epryshpmuyrra:::txtsize
-Epryshpmuyrra:::txtsize --> FrueNPirEetoi:::txtsize
-Epryshpmuyrra:::txtsize --> FrueNPirEetoi:::txtsize
-NPitnrUafosrnto:::txtsize --> YMmnoihaiYilehpea:::txtsize
-YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
-YMmimociYaoauoc:::txtsize --> TbCttousoscolsdsr:::txtsize
-YMmimociYaoauoc:::txtsize --> OcMniagaekren:::txtsize
-YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
-Twreig:::txtsize --> YMmnoihaiYilehpea:::txtsize
-Twreig:::txtsize --> Drwialosdp:::txtsize
+TyeoataaIlauois:::txtsize --> TIeshhetdpoG:::txtsize
+TIeshhetdpoG:::txtsize --> PflcoMeNelale:::txtsize
+PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
 
-Iatlamaoctdfl@{ shape: win-pane, label: "_Published Nov 07, 2025, 11:05 PM_
-Iranian plot to kill israel’s ambassador to mexico contained, us official says" }
-LheotbsaCatfios@{ shape: win-pane, label: "_Published Jul 15, 2025, 11:55 PM_
-Life-threatening operations by russia, iran and china are intensifying in uk, police say" }
-AteSaalhde@{ shape: win-pane, label: "_Published Sep 10, 2018, 12:42 PM_
-A spy story: sergei skripal was a little fish. he had a big enemy" }
-Bisiugoehet@{ shape: win-pane, label: "_Published Mar 08, 2018, 01:34 AM_
-Britain says russian double agent poisoned with nerve agent" }
-TmifstninusrdsWrp@{ shape: win-pane, label: "_Published Jul 08, 2025, 09:12 PM_
-Three men guilty of uk arson attack on ukraine-linked businesses ordered by russia’s wagner group" }
-BrccnabRaekoefi@{ shape: win-pane, label: "_Published Mar 07, 2025, 11:11 PM_
-Bulgarians convicted in britain of being russian spies working for wirecard fugitive" }
-BrccnabRaekoefi@{ shape: win-pane, label: "_Published Mar 07, 2025, 11:11 PM_
-Bulgarians convicted in britain of being russian spies working for wirecard fugitive" }
-Ubfsetawfu@{ shape: win-pane, label: "_Published Jun 22, 2025, 11:43 PM_
-Us bombing of iran’s nuclear sites started with a fake-out" }
-BenuslasSkacs@{ shape: win-pane, label: "_Published Jun 22, 2025, 11:35 AM_
-B-2 bombers, bunker busters and alternatives: how us strikes iran’s nuclear sites" }
-Tsrseeworre@{ shape: win-pane, label: "_Published Jun 22, 2025, 08:14 AM_
-Trump says iran must make peace or ‘we will go after’ other targets" }
-Tsrseeworre@{ shape: win-pane, label: "_Published Jun 22, 2025, 08:14 AM_
-Trump says iran must make peace or ‘we will go after’ other targets" }
-Tsrseeworre@{ shape: win-pane, label: "_Published Jun 22, 2025, 08:14 AM_
-Trump says iran must make peace or ‘we will go after’ other targets" }
-Ulbrrlonncy@{ shape: win-pane, label: "_Published Jun 22, 2025, 01:12 AM_
-Us deploys b-2 bombers as trump plans to meet national security team" }
+TmHrbdssincrn@{ shape: win-pane, label: "_Published Nov 08, 2025, 02:20 AM_
+Trump meets hungary’s orban to discuss russian oil, economic cooperation" }
+Ucsilrrionitncr@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:27 PM_
+Us sanctions russian oil majors over ukraine, prompting india jitters and moscow fury" }
+UpmucssorirPwht@{ shape: win-pane, label: "_Published Oct 23, 2025, 05:33 AM_
+Us slaps ‘tremendous sanctions’ on russian oil for ukraine war, says putin wasn’t ‘honest’" }
+ErtkftassewUn@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:10 AM_
+Eu approves 19th package of sanctions against russia over its war in ukraine" }
+PTtiaodrieei@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
+Putin-trump talks in budapest on hold after russia rejects ceasefire" }
+Tsemunpogrnil@{ shape: win-pane, label: "_Published May 19, 2025, 10:54 PM_
+Trump says he will meet putin in budapest, touting progress in ukraine talks" }
+TPdtsUncamre@{ shape: win-pane, label: "_Published Aug 16, 2025, 03:43 AM_
+Trump-putin direct talks over ukraine conclude as summit stretches on" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
 
-Iatlamaoctdfl:::txtsize --> LheotbsaCatfios:::txtsize
-LheotbsaCatfios:::txtsize --> AteSaalhde:::txtsize
-AteSaalhde:::txtsize --> Bisiugoehet:::txtsize
-LheotbsaCatfios:::txtsize --> TmifstninusrdsWrp:::txtsize
-TmifstninusrdsWrp:::txtsize --> BrccnabRaekoefi:::txtsize
-TmifstninusrdsWrp:::txtsize --> BrccnabRaekoefi:::txtsize
-Iatlamaoctdfl:::txtsize --> Ubfsetawfu:::txtsize
-Ubfsetawfu:::txtsize --> BenuslasSkacs:::txtsize
-BenuslasSkacs:::txtsize --> Tsrseeworre:::txtsize
-Ubfsetawfu:::txtsize --> Tsrseeworre:::txtsize
-Tsrseeworre:::txtsize --> Tsrseeworre:::txtsize
-Tsrseeworre:::txtsize --> Ulbrrlonncy:::txtsize
+TmHrbdssincrn:::txtsize --> Ucsilrrionitncr:::txtsize
+Ucsilrrionitncr:::txtsize --> UpmucssorirPwht:::txtsize
+UpmucssorirPwht:::txtsize --> ErtkftassewUn:::txtsize
+UpmucssorirPwht:::txtsize --> PTtiaodrieei:::txtsize
+Ucsilrrionitncr:::txtsize --> Tsemunpogrnil:::txtsize
+Tsemunpogrnil:::txtsize --> TPdtsUncamre:::txtsize
+Tsemunpogrnil:::txtsize --> Tdrcaaededlncbs:::txtsize
 
-Unstfnmnoiggu@{ shape: win-pane, label: "_Published Nov 07, 2025, 10:50 PM_
-Ukraine says more than 1,400 africans from dozens of countries fighting for russia" }
-Isteficupefirike@{ shape: win-pane, label: "_Published Mar 08, 2024, 05:51 PM_
-India says it busted trafficking racket duping people into fighting for russia in ukraine" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
-Explosions heard in ukraine capital kyiv, other cities" }
-OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
-Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
-InlUneeiosms@{ shape: win-pane, label: "_Published Mar 07, 2024, 11:56 PM_
-Indians killed in ukraine were forced to fight for russia, families say" }
-TdhfsUn@{ shape: win-pane, label: "_Published Feb 28, 2024, 12:30 PM_
-The indians hired for russia's ukraine war" }
-IcrtkdetosraUn@{ shape: win-pane, label: "_Published Mar 07, 2024, 10:42 PM_
-India confirms citizen killed while fighting for russian army against ukraine" }
-Raketfsoirggeskk@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:11 PM_
-Russia and ukraine says their forces are locked in fierce fighting in the ruins of pokrovsk" }
-EedgolranowuS@{ shape: win-pane, label: "_Published Nov 05, 2025, 12:33 AM_
-Europe could struggle to mobilise troops, arms in case of war with russia: study" }
-Esumwepetrake@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:52 PM_
-Eu says it could admit new members by 2030, praises montenegro, albania, ukraine" }
-Anoreedwdr@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:00 AM_
-A fading europe struggles to be heard in new world order" }
-Unerpfsroaeks@{ shape: win-pane, label: "_Published Nov 04, 2025, 01:57 AM_
-Ukraine to set up arms export offices in berlin, copenhagen, zelensky says" }
-RairdirorUnsnhn@{ shape: win-pane, label: "_Published Nov 03, 2025, 11:56 PM_
-Russia says its forces advancing in ruins of pokrovsk; ukraine says defenders holding on" }
-RaaeeUnsirMt@{ shape: win-pane, label: "_Published Nov 02, 2025, 03:00 PM_
-Russia threat extends beyond ukraine, says finnish foreign minister" }
+BsnhIeeoiaLn@{ shape: win-pane, label: "_Published Nov 08, 2025, 02:00 AM_
+British grandmother on indonesia death row arrives back in london" }
+Fhnndrrsrrocldpn@{ shape: win-pane, label: "_Published Jul 18, 2025, 06:47 PM_
+Frenchman on indonesia death row for almost 20 years over drug offences released from prison" }
+Ieaveeosfpa@{ shape: win-pane, label: "_Published Feb 04, 2025, 08:45 PM_
+Indonesia hands over french death row prisoner for repatriation" }
+FiIeeoeew@{ shape: win-pane, label: "_Published Dec 17, 2024, 11:51 PM_
+Filipina on indonesia death row flies home to ‘new life’" }
+Fiaxensrhnie@{ shape: win-pane, label: "_Published Dec 18, 2024, 08:15 AM_
+Filipina nearly executed in indonesia arrives home in philippines" }
+FiIeeoeew@{ shape: win-pane, label: "_Published Dec 17, 2024, 11:51 PM_
+Filipina on indonesia death row flies home to ‘new life’" }
+IegtnFiawcchln@{ shape: win-pane, label: "_Published Nov 20, 2024, 08:05 PM_
+Indonesia agrees to transfer filipina death row drug convict to the philippines" }
+FiIeeosnartlnie@{ shape: win-pane, label: "_Published Dec 13, 2024, 04:49 PM_
+Filipina on indonesia death row says planned transfer back to philippines a ‘miracle’" }
+FiIeeoeew@{ shape: win-pane, label: "_Published Dec 17, 2024, 11:51 PM_
+Filipina on indonesia death row flies home to ‘new life’" }
+IegtnFiawcchln@{ shape: win-pane, label: "_Published Nov 20, 2024, 08:05 PM_
+Indonesia agrees to transfer filipina death row drug convict to the philippines" }
+Sahursnhpfllggcn@{ shape: win-pane, label: "_Published Sep 28, 2023, 12:42 PM_
+S’porean mother, daughter arrested in the philippines for allegedly smuggling 14kg of cocaine" }
+PpSegrundDtw@{ shape: win-pane, label: "_Published Nov 02, 2024, 10:00 AM_
+Philippine senate’s drug war probe turns into rodrigo duterte show" }
+FiIeeosnartlnie@{ shape: win-pane, label: "_Published Dec 13, 2024, 04:49 PM_
+Filipina on indonesia death row says planned transfer back to philippines a ‘miracle’" }
+PpsnaoaftiFidr@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:41 AM_
+Philippines, indonesia agree on details of repatriation of filipina on death row" }
+Freaegehl@{ shape: win-pane, label: "_Published Sep 17, 2024, 05:55 PM_
+Four arrested in bali over drugs face death penalty" }
 
-Unstfnmnoiggu:::txtsize --> Isteficupefirike:::txtsize
-Isteficupefirike:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
-DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
-Isteficupefirike:::txtsize --> InlUneeiosms:::txtsize
-InlUneeiosms:::txtsize --> TdhfsUn:::txtsize
-InlUneeiosms:::txtsize --> IcrtkdetosraUn:::txtsize
-Unstfnmnoiggu:::txtsize --> Raketfsoirggeskk:::txtsize
-Raketfsoirggeskk:::txtsize --> EedgolranowuS:::txtsize
-EedgolranowuS:::txtsize --> Esumwepetrake:::txtsize
-EedgolranowuS:::txtsize --> Anoreedwdr:::txtsize
-Raketfsoirggeskk:::txtsize --> Unerpfsroaeks:::txtsize
-Unerpfsroaeks:::txtsize --> RairdirorUnsnhn:::txtsize
-Unerpfsroaeks:::txtsize --> RaaeeUnsirMt:::txtsize
+BsnhIeeoiaLn:::txtsize --> Fhnndrrsrrocldpn:::txtsize
+Fhnndrrsrrocldpn:::txtsize --> Ieaveeosfpa:::txtsize
+Ieaveeosfpa:::txtsize --> FiIeeoeew:::txtsize
+Ieaveeosfpa:::txtsize --> Fiaxensrhnie:::txtsize
+Fhnndrrsrrocldpn:::txtsize --> FiIeeoeew:::txtsize
+FiIeeoeew:::txtsize --> IegtnFiawcchln:::txtsize
+FiIeeoeew:::txtsize --> FiIeeosnartlnie:::txtsize
+BsnhIeeoiaLn:::txtsize --> FiIeeoeew:::txtsize
+FiIeeoeew:::txtsize --> IegtnFiawcchln:::txtsize
+IegtnFiawcchln:::txtsize --> Sahursnhpfllggcn:::txtsize
+IegtnFiawcchln:::txtsize --> PpSegrundDtw:::txtsize
+FiIeeoeew:::txtsize --> FiIeeosnartlnie:::txtsize
+FiIeeosnartlnie:::txtsize --> PpsnaoaftiFidr:::txtsize
+FiIeeosnartlnie:::txtsize --> Freaegehl:::txtsize
 
 ```
-<i>Last updated: 2025-11-08 00:00:36.093768 (GMT+8)</i>
+<i>Last updated: 2025-11-08 04:00:57.574589 (GMT+8)</i>
 <!-- END -->
