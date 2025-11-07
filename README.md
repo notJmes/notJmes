@@ -16,120 +16,132 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-WlrnmfrledP@{ shape: win-pane, label: "_Published Nov 07, 2025, 07:21 AM_
-World leaders warned of ‘moral failure’ on climate ahead of cop30" }
-UeltfictlrhCast@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:50 PM_
-Un chief scolds nations for failing climate goals as brazil hosts cop30 leaders’ summit" }
-EterneleeioaC@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:32 PM_
-Eu tentatively agrees on weakened climate target in final-hour deal for cop30" }
-WwvogmoneUn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:22 PM_
-World will overshoot 1.5 deg c climate goal in next decade, un warns" }
-Eanaoemor@{ shape: win-pane, label: "_Published Nov 04, 2025, 02:07 PM_
-Eu in last-minute talks to set new climate goal for cop30" }
-UleflOmahoa@{ shape: win-pane, label: "_Published Nov 01, 2025, 01:46 AM_
-Us will not send officials to cop30 climate talks, white house says" }
-Ygtlpcarnhp@{ shape: win-pane, label: "_Published Sep 24, 2025, 06:51 AM_
-‘you’re going to hell’: trump attacks un and europe in scathing speech" }
-Twrrriamg@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:36 AM_
-Trump withdraws from paris climate agreement, again" }
-yomarsfalii@{ shape: win-pane, label: "_Published Nov 06, 2025, 05:05 PM_
-30 years of climate talks: progress, pitfalls and a planet in peril" }
-TtUtaastogl@{ shape: win-pane, label: "_Published Sep 24, 2025, 12:17 AM_
-Trump tells un that climate change is ‘greatest con job’ globally" }
-Tpunnrieingso@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:10 PM_
-The top polluting nations are revising their emissions targets. is it enough?" }
-WwvogmoneUn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:22 PM_
-World will overshoot 1.5 deg c climate goal in next decade, un warns" }
-Ntnosager@{ shape: win-pane, label: "_Published Oct 13, 2025, 11:10 AM_
-Not nothing, not enough: is the paris agreement working?" }
-Cpghgdois@{ shape: win-pane, label: "_Published Sep 25, 2025, 04:57 AM_
-China plans 7-10% greenhouse gas reduction by 2035, xi tells un" }
+TmCaadotiil@{ shape: win-pane, label: "_Published Nov 07, 2025, 11:42 AM_
+Trump meets central asian leaders to boost critical mineral ties" }
+KhtnhcTs@{ shape: win-pane, label: "_Published Nov 07, 2025, 03:01 AM_
+Kazakhstan to join abraham accords, trump says" }
+Tdrzooetum@{ shape: win-pane, label: "_Published Oct 13, 2025, 05:59 AM_
+Trump declares gaza war ‘over’; hostages due to return home" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+ScpevToWHoiy@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:37 AM_
+Saudi crown prince will visit trump on nov 18, white house official says" }
+Uesarbpg@{ shape: win-pane, label: "_Published May 13, 2025, 11:07 PM_
+Us agrees to sell saudi arabia $185b arms package" }
+Tttinchon@{ shape: win-pane, label: "_Published Oct 21, 2025, 11:41 PM_
+Trump to host saudi crown prince at white house on nov 18" }
+TttrienUkoraile@{ shape: win-pane, label: "_Published Nov 07, 2025, 12:15 AM_
+Trump to host central asian presidents as us seeks to counter china, russia influence" }
+Unloehmsewne@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:01 AM_
+Us, china seal deal on rare earths; trump says xi meeting was a 12 on scale of 1 to 10" }
+LnmegvpSaee@{ shape: win-pane, label: "_Published Oct 30, 2025, 12:05 AM_
+Looming trump-xi meeting revives hope of us-china trade truce" }
+Wrteamdar@{ shape: win-pane, label: "_Published Oct 21, 2025, 09:47 PM_
+Why rare earths are china’s trump card in trade war" }
 
-WlrnmfrledP:::txtsize --> UeltfictlrhCast:::txtsize
-UeltfictlrhCast:::txtsize --> EterneleeioaC:::txtsize
-EterneleeioaC:::txtsize --> WwvogmoneUn:::txtsize
-EterneleeioaC:::txtsize --> Eanaoemor:::txtsize
-UeltfictlrhCast:::txtsize --> UleflOmahoa:::txtsize
-UleflOmahoa:::txtsize --> Ygtlpcarnhp:::txtsize
-UleflOmahoa:::txtsize --> Twrrriamg:::txtsize
-WlrnmfrledP:::txtsize --> yomarsfalii:::txtsize
-yomarsfalii:::txtsize --> TtUtaastogl:::txtsize
-TtUtaastogl:::txtsize --> Tpunnrieingso:::txtsize
-yomarsfalii:::txtsize --> WwvogmoneUn:::txtsize
-WwvogmoneUn:::txtsize --> Ntnosager:::txtsize
-WwvogmoneUn:::txtsize --> Cpghgdois:::txtsize
+TmCaadotiil:::txtsize --> KhtnhcTs:::txtsize
+KhtnhcTs:::txtsize --> Tdrzooetum:::txtsize
+Tdrzooetum:::txtsize --> AtHfezerydatoGel:::txtsize
+KhtnhcTs:::txtsize --> ScpevToWHoiy:::txtsize
+ScpevToWHoiy:::txtsize --> Uesarbpg:::txtsize
+ScpevToWHoiy:::txtsize --> Tttinchon:::txtsize
+TmCaadotiil:::txtsize --> TttrienUkoraile:::txtsize
+TttrienUkoraile:::txtsize --> Unloehmsewne:::txtsize
+Unloehmsewne:::txtsize --> LnmegvpSaee:::txtsize
+Unloehmsewne:::txtsize --> Wrteamdar:::txtsize
 
-Eunlpeedgah@{ shape: win-pane, label: "_Published Nov 07, 2025, 07:07 AM_
-Elon musk wins $1 trillion pay check, the world’s largest salary hike" }
-Sdardrilstiraae@{ shape: win-pane, label: "_Published Sep 12, 2025, 10:35 PM_
-Should tesla’s shareholders green-light elon musk’s us$1 trillion performance package?" }
-Euiferhnylrl@{ shape: win-pane, label: "_Published Sep 11, 2025, 01:45 AM_
-Elon musk’s title of richest person challenged by oracle’s larry ellison" }
-Oeclinabddrssto@{ shape: win-pane, label: "_Published Sep 10, 2025, 08:53 AM_
-Oracle expects half a trillion dollars in booked cloud orders; its shares jump to record" }
-GnrtanpgMut@{ shape: win-pane, label: "_Published Feb 16, 2025, 11:59 AM_
-Germany’s far-right afd basks in the spotlight of musk support" }
-Tpscfokctti@{ shape: win-pane, label: "_Published Sep 05, 2025, 10:35 PM_
-Tesla proposes package for elon musk that could top us$1 trillion" }
-TscpneusVe@{ shape: win-pane, label: "_Published Sep 04, 2025, 09:53 AM_
-Tesla sales collapse continues in europe’s top ev markets" }
-GnrtanpgMut@{ shape: win-pane, label: "_Published Feb 16, 2025, 11:59 AM_
-Germany’s far-right afd basks in the spotlight of musk support" }
-Sdardrilstiraae@{ shape: win-pane, label: "_Published Sep 12, 2025, 10:35 PM_
-Should tesla’s shareholders green-light elon musk’s us$1 trillion performance package?" }
-Euiferhnylrl@{ shape: win-pane, label: "_Published Sep 11, 2025, 01:45 AM_
-Elon musk’s title of richest person challenged by oracle’s larry ellison" }
-Oeclinabddrssto@{ shape: win-pane, label: "_Published Sep 10, 2025, 08:53 AM_
-Oracle expects half a trillion dollars in booked cloud orders; its shares jump to record" }
-GnrtanpgMut@{ shape: win-pane, label: "_Published Feb 16, 2025, 11:59 AM_
-Germany’s far-right afd basks in the spotlight of musk support" }
-Tpscfokctti@{ shape: win-pane, label: "_Published Sep 05, 2025, 10:35 PM_
-Tesla proposes package for elon musk that could top us$1 trillion" }
-TscpneusVe@{ shape: win-pane, label: "_Published Sep 04, 2025, 09:53 AM_
-Tesla sales collapse continues in europe’s top ev markets" }
-GnrtanpgMut@{ shape: win-pane, label: "_Published Feb 16, 2025, 11:59 AM_
-Germany’s far-right afd basks in the spotlight of musk support" }
+Castaoelkd@{ shape: win-pane, label: "_Published Nov 07, 2025, 11:32 AM_
+Canada’s conservative party loses second lawmaker in 3 days" }
+MfokCilsrgt@{ shape: win-pane, label: "_Published Nov 06, 2025, 02:18 PM_
+Mp’s defection shakes up canadian politics before budget vote" }
+Snndarawndwila@{ shape: win-pane, label: "_Published Sep 29, 2025, 06:09 PM_
+Six months in, canada pm mark carney faces two-front trade war with little leverage" }
+ChaCafauef@{ shape: win-pane, label: "_Published Mar 08, 2025, 09:31 AM_
+China hits back at canada with fresh agriculture tariffs" }
+Cttdtddetloyru@{ shape: win-pane, label: "_Published Apr 11, 2024, 10:15 AM_
+China tried to meddle but canadians decided last two elections, says pm trudeau" }
+Cartfeaieispfo@{ shape: win-pane, label: "_Published Dec 17, 2024, 02:26 PM_
+Canada government adrift after finance minister resigns as trump tariffs loom" }
+CaaieyFasapyhPd@{ shape: win-pane, label: "_Published Dec 16, 2024, 10:39 PM_
+Canada’s finance minister chrystia freeland resigns after policy clash with pm trudeau" }
+TttheCanrollgoir@{ shape: win-pane, label: "_Published Nov 26, 2024, 08:02 AM_
+Trump threatens china, mexico, canada with new tariffs over illegal immigration, illicit drugs" }
+TjCamtard@{ shape: win-pane, label: "_Published Dec 19, 2024, 12:55 AM_
+Trump jokes canada becoming 51st us state ‘a great idea’" }
+CaaieyFasapyhPd@{ shape: win-pane, label: "_Published Dec 16, 2024, 10:39 PM_
+Canada’s finance minister chrystia freeland resigns after policy clash with pm trudeau" }
+Cadueroeo@{ shape: win-pane, label: "_Published Dec 10, 2024, 08:15 AM_
+Canada’s trudeau survives third no-confidence vote" }
+TamTtednstnfa@{ shape: win-pane, label: "_Published Dec 02, 2024, 04:19 AM_
+Trudeau promised trump tougher border controls, says top canada official" }
+CadaslfePi@{ shape: win-pane, label: "_Published Dec 18, 2024, 06:56 AM_
+Canada’s trudeau battles to hold on after deputy pm resigns" }
+CaaieyFasapyhPd@{ shape: win-pane, label: "_Published Dec 16, 2024, 10:39 PM_
+Canada’s finance minister chrystia freeland resigns after policy clash with pm trudeau" }
+TttheCanrollgoir@{ shape: win-pane, label: "_Published Nov 26, 2024, 08:02 AM_
+Trump threatens china, mexico, canada with new tariffs over illegal immigration, illicit drugs" }
 
-Eunlpeedgah:::txtsize --> Sdardrilstiraae:::txtsize
-Sdardrilstiraae:::txtsize --> Euiferhnylrl:::txtsize
-Euiferhnylrl:::txtsize --> Oeclinabddrssto:::txtsize
-Euiferhnylrl:::txtsize --> GnrtanpgMut:::txtsize
-Sdardrilstiraae:::txtsize --> Tpscfokctti:::txtsize
-Tpscfokctti:::txtsize --> TscpneusVe:::txtsize
-Tpscfokctti:::txtsize --> GnrtanpgMut:::txtsize
-Eunlpeedgah:::txtsize --> Sdardrilstiraae:::txtsize
-Sdardrilstiraae:::txtsize --> Euiferhnylrl:::txtsize
-Euiferhnylrl:::txtsize --> Oeclinabddrssto:::txtsize
-Euiferhnylrl:::txtsize --> GnrtanpgMut:::txtsize
-Sdardrilstiraae:::txtsize --> Tpscfokctti:::txtsize
-Tpscfokctti:::txtsize --> TscpneusVe:::txtsize
-Tpscfokctti:::txtsize --> GnrtanpgMut:::txtsize
+Castaoelkd:::txtsize --> MfokCilsrgt:::txtsize
+MfokCilsrgt:::txtsize --> Snndarawndwila:::txtsize
+Snndarawndwila:::txtsize --> ChaCafauef:::txtsize
+Snndarawndwila:::txtsize --> Cttdtddetloyru:::txtsize
+MfokCilsrgt:::txtsize --> Cartfeaieispfo:::txtsize
+Cartfeaieispfo:::txtsize --> CaaieyFasapyhPd:::txtsize
+Cartfeaieispfo:::txtsize --> TttheCanrollgoir:::txtsize
+Castaoelkd:::txtsize --> TjCamtard:::txtsize
+TjCamtard:::txtsize --> CaaieyFasapyhPd:::txtsize
+CaaieyFasapyhPd:::txtsize --> Cadueroeo:::txtsize
+CaaieyFasapyhPd:::txtsize --> TamTtednstnfa:::txtsize
+TjCamtard:::txtsize --> CadaslfePi:::txtsize
+CadaslfePi:::txtsize --> CaaieyFasapyhPd:::txtsize
+CadaslfePi:::txtsize --> TttheCanrollgoir:::txtsize
 
-Tulloofwtd@{ shape: win-pane, label: "_Published Nov 07, 2025, 07:03 AM_
-Trump unveils deals to lower costs of some weight-loss drugs" }
-Wyceuotiwlvepige@{ shape: win-pane, label: "_Published Jul 12, 2025, 06:15 PM_
-Wegovy, injectable drug used to treat obesity, now available via prescription in singapore" }
-WyootagsSonodnei@{ shape: win-pane, label: "_Published Apr 02, 2023, 02:50 PM_
-Wegovy approved for use to treat weight issues; hsa removes unauthorised online sale listings" }
-AondieioSitsy@{ shape: win-pane, label: "_Published Dec 22, 2022, 08:19 AM_
-A tiktok trend sold out diabetes medication in us, leaving patients dizzy" }
-Wwtdesu@{ shape: win-pane, label: "_Published Apr 03, 2023, 05:00 AM_
-Why is weight-loss drug wegovy so popular?" }
-Tkosiegeloos@{ shape: win-pane, label: "_Published Feb 28, 2023, 03:27 PM_
-Tiktok videos on use of diabetes drug for weight loss worry doctors" }
-AondieioSitsy@{ shape: win-pane, label: "_Published Dec 22, 2022, 08:19 AM_
-A tiktok trend sold out diabetes medication in us, leaving patients dizzy" }
-AondieioSitsy@{ shape: win-pane, label: "_Published Dec 22, 2022, 08:19 AM_
-A tiktok trend sold out diabetes medication in us, leaving patients dizzy" }
+Heftaoitdso@{ shape: win-pane, label: "_Published Nov 07, 2025, 10:28 AM_
+Hundreds of flights cut at major us airports amid govt shutdown" }
+Utsanritlss@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:05 PM_
+Us shutdown sends airlines scrambling as travel chaos looms" }
+TaitroguaSouomhw@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:35 AM_
+Trump administration orders 10% of flights cut at major us airports due to government shutdown" }
+Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
+Us government begins shutdown that may lead to mass layoffs and cuts" }
+Lsounsrfakni@{ shape: win-pane, label: "_Published Nov 05, 2025, 04:22 PM_
+Longest us govt shutdown tests air travel, federal workers and patience" }
+Tbscaomhwoot@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:21 AM_
+Trump blasts democrats as us government shutdown becomes longest ever" }
+TaitroguaSouomhw@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:35 AM_
+Trump administration orders 10% of flights cut at major us airports due to government shutdown" }
+Frmognsonpewei@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:32 AM_
+For first time in long us government shutdown, hints of progress toward reopening" }
+Utsanritlss@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:05 PM_
+Us shutdown sends airlines scrambling as travel chaos looms" }
+TaitroguaSouomhw@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:35 AM_
+Trump administration orders 10% of flights cut at major us airports due to government shutdown" }
+Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
+Us government begins shutdown that may lead to mass layoffs and cuts" }
+Lsounsrfakni@{ shape: win-pane, label: "_Published Nov 05, 2025, 04:22 PM_
+Longest us govt shutdown tests air travel, federal workers and patience" }
+Tbscaomhwoot@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:21 AM_
+Trump blasts democrats as us government shutdown becomes longest ever" }
+TaitroguaSouomhw@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:35 AM_
+Trump administration orders 10% of flights cut at major us airports due to government shutdown" }
+Frmognsonpewei@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:32 AM_
+For first time in long us government shutdown, hints of progress toward reopening" }
 
-Tulloofwtd:::txtsize --> Wyceuotiwlvepige:::txtsize
-Wyceuotiwlvepige:::txtsize --> WyootagsSonodnei:::txtsize
-WyootagsSonodnei:::txtsize --> AondieioSitsy:::txtsize
-WyootagsSonodnei:::txtsize --> Wwtdesu:::txtsize
-Wyceuotiwlvepige:::txtsize --> Tkosiegeloos:::txtsize
-Tkosiegeloos:::txtsize --> AondieioSitsy:::txtsize
-Tkosiegeloos:::txtsize --> AondieioSitsy:::txtsize
+Heftaoitdso:::txtsize --> Utsanritlss:::txtsize
+Utsanritlss:::txtsize --> TaitroguaSouomhw:::txtsize
+TaitroguaSouomhw:::txtsize --> Ueniunmaayat:::txtsize
+TaitroguaSouomhw:::txtsize --> Lsounsrfakni:::txtsize
+Utsanritlss:::txtsize --> Tbscaomhwoot:::txtsize
+Tbscaomhwoot:::txtsize --> TaitroguaSouomhw:::txtsize
+Tbscaomhwoot:::txtsize --> Frmognsonpewei:::txtsize
+Heftaoitdso:::txtsize --> Utsanritlss:::txtsize
+Utsanritlss:::txtsize --> TaitroguaSouomhw:::txtsize
+TaitroguaSouomhw:::txtsize --> Ueniunmaayat:::txtsize
+TaitroguaSouomhw:::txtsize --> Lsounsrfakni:::txtsize
+Utsanritlss:::txtsize --> Tbscaomhwoot:::txtsize
+Tbscaomhwoot:::txtsize --> TaitroguaSouomhw:::txtsize
+Tbscaomhwoot:::txtsize --> Frmognsonpewei:::txtsize
 
 ```
-<i>Last updated: 2025-11-07 08:00:34.377893 (GMT+8)</i>
+<i>Last updated: 2025-11-07 12:00:58.645083 (GMT+8)</i>
 <!-- END -->
