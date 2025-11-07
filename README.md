@@ -16,120 +16,129 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-UiufrcrhSeo@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:57 PM_
-Uk minister urges former prince andrew to help us epstein probe" }
-Umsrnrtfrfetsryse@{ shape: win-pane, label: "_Published Nov 07, 2025, 04:15 AM_
-Us lawmakers ask britain’s andrew to testify over sex offender epstein as he formally loses titles" }
-Binrtberrtssm@{ shape: win-pane, label: "_Published Oct 31, 2025, 03:36 AM_
-Britain’s king charles strips brother andrew of royal titles, windsor home" }
-Vnumroeieryin@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:12 PM_
-Virginia giuffre memoir goes on sale, heaping fresh scrutiny on prince andrew" }
-Biinastiifeal@{ shape: win-pane, label: "_Published Feb 16, 2022, 12:22 AM_
-Britain's prince andrew agrees to settle virginia giuffre sex assault claim" }
-Vnumroeieryin@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:12 PM_
-Virginia giuffre memoir goes on sale, heaping fresh scrutiny on prince andrew" }
-Biinastiifeal@{ shape: win-pane, label: "_Published Feb 16, 2022, 12:22 AM_
-Britain's prince andrew agrees to settle virginia giuffre sex assault claim" }
-BiingunluYteaas@{ shape: win-pane, label: "_Published Oct 18, 2025, 03:26 AM_
-Britain’s prince andrew gives up using title of duke of york, still denies accusations" }
-Biiimerabdletz@{ shape: win-pane, label: "_Published Nov 04, 2025, 01:01 AM_
-Britain’s prince william leaves andrew scandal behind for climate trip to brazil" }
-Binrtberrtssm@{ shape: win-pane, label: "_Published Oct 31, 2025, 03:36 AM_
-Britain’s king charles strips brother andrew of royal titles, windsor home" }
-Vnumroeieryin@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:12 PM_
-Virginia giuffre memoir goes on sale, heaping fresh scrutiny on prince andrew" }
-Biinastiifeal@{ shape: win-pane, label: "_Published Feb 16, 2022, 12:22 AM_
-Britain's prince andrew agrees to settle virginia giuffre sex assault claim" }
-Tsesyrnaierss@{ shape: win-pane, label: "_Published Nov 03, 2025, 09:00 AM_
-Trump says he feels ‘badly’ for britain’s royal family over andrew-epstein saga" }
-BilprAwsipinr@{ shape: win-pane, label: "_Published Nov 02, 2025, 08:16 PM_
-Britain will strip disgraced andrew of last military position, minister says" }
-Tanrefeoirls@{ shape: win-pane, label: "_Published Sep 15, 2025, 10:20 AM_
-Trump and king charles: heads of state with opposing personalities" }
+NPitnrUafosrnto@{ shape: win-pane, label: "_Published Nov 07, 2025, 11:40 PM_
+Nancy pelosi, first woman to serve as us speaker of the house, is retiring - and that is good" }
+NPitnrUsaormr@{ shape: win-pane, label: "_Published Nov 06, 2025, 10:15 PM_
+Nancy pelosi, first woman to serve as us house speaker, to retire from congress" }
+Epryshpmuyrra@{ shape: win-pane, label: "_Published Dec 15, 2024, 02:43 AM_
+Ex-us speaker nancy pelosi has hip-replacement surgery after reported fall" }
+FrueNPirEetoi@{ shape: win-pane, label: "_Published Dec 14, 2024, 01:13 AM_
+Former us house speaker nancy pelosi injured in europe, admitted to hospital" }
+FrueNPirEetoi@{ shape: win-pane, label: "_Published Dec 14, 2024, 01:13 AM_
+Former us house speaker nancy pelosi injured in europe, admitted to hospital" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
+Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
+TbCttousoscolsdsr@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:15 AM_
+Trump backs cuomo, threatens to cut funds as new yorkers expected to pick leftist mamdani as mayor" }
+OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
+Obama calls mamdani, praises campaign ahead of new york mayoral election" }
+Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
+Takeaways from us election night 2025" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
 
-UiufrcrhSeo:::txtsize --> Umsrnrtfrfetsryse:::txtsize
-Umsrnrtfrfetsryse:::txtsize --> Binrtberrtssm:::txtsize
-Binrtberrtssm:::txtsize --> Vnumroeieryin:::txtsize
-Binrtberrtssm:::txtsize --> Biinastiifeal:::txtsize
-Umsrnrtfrfetsryse:::txtsize --> Vnumroeieryin:::txtsize
-Vnumroeieryin:::txtsize --> Biinastiifeal:::txtsize
-Vnumroeieryin:::txtsize --> BiingunluYteaas:::txtsize
-UiufrcrhSeo:::txtsize --> Biiimerabdletz:::txtsize
-Biiimerabdletz:::txtsize --> Binrtberrtssm:::txtsize
-Binrtberrtssm:::txtsize --> Vnumroeieryin:::txtsize
-Binrtberrtssm:::txtsize --> Biinastiifeal:::txtsize
-Biiimerabdletz:::txtsize --> Tsesyrnaierss:::txtsize
-Tsesyrnaierss:::txtsize --> BilprAwsipinr:::txtsize
-Tsesyrnaierss:::txtsize --> Tanrefeoirls:::txtsize
+NPitnrUafosrnto:::txtsize --> NPitnrUsaormr:::txtsize
+NPitnrUsaormr:::txtsize --> Epryshpmuyrra:::txtsize
+Epryshpmuyrra:::txtsize --> FrueNPirEetoi:::txtsize
+Epryshpmuyrra:::txtsize --> FrueNPirEetoi:::txtsize
+NPitnrUafosrnto:::txtsize --> YMmnoihaiYilehpea:::txtsize
+YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
+YMmimociYaoauoc:::txtsize --> TbCttousoscolsdsr:::txtsize
+YMmimociYaoauoc:::txtsize --> OcMniagaekren:::txtsize
+YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
+Twreig:::txtsize --> YMmnoihaiYilehpea:::txtsize
+Twreig:::txtsize --> Drwialosdp:::txtsize
 
-Wfrfoontonbasi@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:55 PM_
-World food prices fall for second consecutive month in october on ample supplies" }
-Wfraetaha@{ shape: win-pane, label: "_Published Sep 05, 2025, 06:08 PM_
-World food prices at more than two-year high, fao says" }
+Iatlamaoctdfl@{ shape: win-pane, label: "_Published Nov 07, 2025, 11:05 PM_
+Iranian plot to kill israel’s ambassador to mexico contained, us official says" }
+LheotbsaCatfios@{ shape: win-pane, label: "_Published Jul 15, 2025, 11:55 PM_
+Life-threatening operations by russia, iran and china are intensifying in uk, police say" }
+AteSaalhde@{ shape: win-pane, label: "_Published Sep 10, 2018, 12:42 PM_
+A spy story: sergei skripal was a little fish. he had a big enemy" }
+Bisiugoehet@{ shape: win-pane, label: "_Published Mar 08, 2018, 01:34 AM_
+Britain says russian double agent poisoned with nerve agent" }
+TmifstninusrdsWrp@{ shape: win-pane, label: "_Published Jul 08, 2025, 09:12 PM_
+Three men guilty of uk arson attack on ukraine-linked businesses ordered by russia’s wagner group" }
+BrccnabRaekoefi@{ shape: win-pane, label: "_Published Mar 07, 2025, 11:11 PM_
+Bulgarians convicted in britain of being russian spies working for wirecard fugitive" }
+BrccnabRaekoefi@{ shape: win-pane, label: "_Published Mar 07, 2025, 11:11 PM_
+Bulgarians convicted in britain of being russian spies working for wirecard fugitive" }
+Ubfsetawfu@{ shape: win-pane, label: "_Published Jun 22, 2025, 11:43 PM_
+Us bombing of iran’s nuclear sites started with a fake-out" }
+BenuslasSkacs@{ shape: win-pane, label: "_Published Jun 22, 2025, 11:35 AM_
+B-2 bombers, bunker busters and alternatives: how us strikes iran’s nuclear sites" }
+Tsrseeworre@{ shape: win-pane, label: "_Published Jun 22, 2025, 08:14 AM_
+Trump says iran must make peace or ‘we will go after’ other targets" }
+Tsrseeworre@{ shape: win-pane, label: "_Published Jun 22, 2025, 08:14 AM_
+Trump says iran must make peace or ‘we will go after’ other targets" }
+Tsrseeworre@{ shape: win-pane, label: "_Published Jun 22, 2025, 08:14 AM_
+Trump says iran must make peace or ‘we will go after’ other targets" }
+Ulbrrlonncy@{ shape: win-pane, label: "_Published Jun 22, 2025, 01:12 AM_
+Us deploys b-2 bombers as trump plans to meet national security team" }
+
+Iatlamaoctdfl:::txtsize --> LheotbsaCatfios:::txtsize
+LheotbsaCatfios:::txtsize --> AteSaalhde:::txtsize
+AteSaalhde:::txtsize --> Bisiugoehet:::txtsize
+LheotbsaCatfios:::txtsize --> TmifstninusrdsWrp:::txtsize
+TmifstninusrdsWrp:::txtsize --> BrccnabRaekoefi:::txtsize
+TmifstninusrdsWrp:::txtsize --> BrccnabRaekoefi:::txtsize
+Iatlamaoctdfl:::txtsize --> Ubfsetawfu:::txtsize
+Ubfsetawfu:::txtsize --> BenuslasSkacs:::txtsize
+BenuslasSkacs:::txtsize --> Tsrseeworre:::txtsize
+Ubfsetawfu:::txtsize --> Tsrseeworre:::txtsize
+Tsrseeworre:::txtsize --> Tsrseeworre:::txtsize
+Tsrseeworre:::txtsize --> Ulbrrlonncy:::txtsize
+
+Unstfnmnoiggu@{ shape: win-pane, label: "_Published Nov 07, 2025, 10:50 PM_
+Ukraine says more than 1,400 africans from dozens of countries fighting for russia" }
+Isteficupefirike@{ shape: win-pane, label: "_Published Mar 08, 2024, 05:51 PM_
+India says it busted trafficking racket duping people into fighting for russia in ukraine" }
 DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
 'darkest hours of europe' as russia invades ukraine" }
 Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
 Explosions heard in ukraine capital kyiv, other cities" }
 OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
 Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
-Wnseaiothcl@{ shape: win-pane, label: "_Published Aug 26, 2025, 09:07 AM_
-Warming seas worsen japan’s price shock with $130 urchin rice bowls" }
-JssutJnr@{ shape: win-pane, label: "_Published Aug 02, 2025, 12:40 PM_
-Japan sweats through hottest july on record" }
-hesea@{ shape: win-pane, label: "_Published Aug 04, 2025, 04:22 PM_
-17 heat records broken in japan" }
-Hiceiyry@{ shape: win-pane, label: "_Published Jul 21, 2025, 11:15 AM_
-How climate change is raising your grocery bill" }
-Smtcneeecyohh@{ shape: win-pane, label: "_Published Mar 04, 2025, 05:00 PM_
-Supermarkets and convenience stores have been costly to people’s health" }
-Foildtrstprtse@{ shape: win-pane, label: "_Published Nov 07, 2024, 05:17 PM_
-Food companies sell products that are less healthy in poorer countries, says report" }
-Cutipereboe@{ shape: win-pane, label: "_Published Apr 26, 2025, 03:30 PM_
-Coconuts get pricier as poor weather drives global shortage" }
-Wfrsyray@{ shape: win-pane, label: "_Published Apr 04, 2025, 04:37 PM_
-World food prices steady in march, un agency says" }
-Ppdneeieptna@{ shape: win-pane, label: "_Published Jan 05, 2023, 02:06 PM_
-Philippine durian growers eye more income as exports to china cleared" }
+InlUneeiosms@{ shape: win-pane, label: "_Published Mar 07, 2024, 11:56 PM_
+Indians killed in ukraine were forced to fight for russia, families say" }
+TdhfsUn@{ shape: win-pane, label: "_Published Feb 28, 2024, 12:30 PM_
+The indians hired for russia's ukraine war" }
+IcrtkdetosraUn@{ shape: win-pane, label: "_Published Mar 07, 2024, 10:42 PM_
+India confirms citizen killed while fighting for russian army against ukraine" }
+Raketfsoirggeskk@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:11 PM_
+Russia and ukraine says their forces are locked in fierce fighting in the ruins of pokrovsk" }
+EedgolranowuS@{ shape: win-pane, label: "_Published Nov 05, 2025, 12:33 AM_
+Europe could struggle to mobilise troops, arms in case of war with russia: study" }
+Esumwepetrake@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:52 PM_
+Eu says it could admit new members by 2030, praises montenegro, albania, ukraine" }
+Anoreedwdr@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:00 AM_
+A fading europe struggles to be heard in new world order" }
+Unerpfsroaeks@{ shape: win-pane, label: "_Published Nov 04, 2025, 01:57 AM_
+Ukraine to set up arms export offices in berlin, copenhagen, zelensky says" }
+RairdirorUnsnhn@{ shape: win-pane, label: "_Published Nov 03, 2025, 11:56 PM_
+Russia says its forces advancing in ruins of pokrovsk; ukraine says defenders holding on" }
+RaaeeUnsirMt@{ shape: win-pane, label: "_Published Nov 02, 2025, 03:00 PM_
+Russia threat extends beyond ukraine, says finnish foreign minister" }
 
-Wfrfoontonbasi:::txtsize --> Wfraetaha:::txtsize
-Wfraetaha:::txtsize --> DsruasvUn:::txtsize
+Unstfnmnoiggu:::txtsize --> Isteficupefirike:::txtsize
+Isteficupefirike:::txtsize --> DsruasvUn:::txtsize
 DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
 DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
-Wfraetaha:::txtsize --> Wnseaiothcl:::txtsize
-Wnseaiothcl:::txtsize --> JssutJnr:::txtsize
-Wnseaiothcl:::txtsize --> hesea:::txtsize
-Wfrfoontonbasi:::txtsize --> Hiceiyry:::txtsize
-Hiceiyry:::txtsize --> Smtcneeecyohh:::txtsize
-Smtcneeecyohh:::txtsize --> Foildtrstprtse:::txtsize
-Hiceiyry:::txtsize --> Cutipereboe:::txtsize
-Cutipereboe:::txtsize --> Wfrsyray:::txtsize
-Cutipereboe:::txtsize --> Ppdneeieptna:::txtsize
-
-PeieubnUhslit@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:25 PM_
-Pope leo’s critique of trump emboldens top us catholics to help immigrants" }
-UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
-Us cardinal prevost elected pope leo xiv, first american pontiff" }
-Arnclaenigi@{ shape: win-pane, label: "_Published May 09, 2025, 06:49 AM_
-A reformer and a reconciler: what pope leo’s new reign might bring" }
-Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
-Pope francis dies at age 88" }
-UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
-Us cardinal prevost elected pope leo xiv, first american pontiff" }
-IfarPeoselbia@{ shape: win-pane, label: "_Published May 09, 2025, 03:40 AM_
-In his first appearance, pope leo xiv offers three big clues about his papacy" }
-UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
-Us cardinal prevost elected pope leo xiv, first american pontiff" }
-Prsraoddsiasv@{ shape: win-pane, label: "_Published Apr 26, 2025, 09:05 AM_
-Pope francis’ funeral draws thousands, cardinal says his legacy must survive" }
-
-PeieubnUhslit:::txtsize --> UdPscooimat:::txtsize
-UdPscooimat:::txtsize --> Arnclaenigi:::txtsize
-Arnclaenigi:::txtsize --> Prsa:::txtsize
-Arnclaenigi:::txtsize --> UdPscooimat:::txtsize
-UdPscooimat:::txtsize --> IfarPeoselbia:::txtsize
-IfarPeoselbia:::txtsize --> UdPscooimat:::txtsize
-IfarPeoselbia:::txtsize --> Prsraoddsiasv:::txtsize
+Isteficupefirike:::txtsize --> InlUneeiosms:::txtsize
+InlUneeiosms:::txtsize --> TdhfsUn:::txtsize
+InlUneeiosms:::txtsize --> IcrtkdetosraUn:::txtsize
+Unstfnmnoiggu:::txtsize --> Raketfsoirggeskk:::txtsize
+Raketfsoirggeskk:::txtsize --> EedgolranowuS:::txtsize
+EedgolranowuS:::txtsize --> Esumwepetrake:::txtsize
+EedgolranowuS:::txtsize --> Anoreedwdr:::txtsize
+Raketfsoirggeskk:::txtsize --> Unerpfsroaeks:::txtsize
+Unerpfsroaeks:::txtsize --> RairdirorUnsnhn:::txtsize
+Unerpfsroaeks:::txtsize --> RaaeeUnsirMt:::txtsize
 
 ```
-<i>Last updated: 2025-11-07 20:01:07.149133 (GMT+8)</i>
+<i>Last updated: 2025-11-08 00:00:36.093768 (GMT+8)</i>
 <!-- END -->
