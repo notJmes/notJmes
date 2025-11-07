@@ -16,132 +16,129 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-TmCaadotiil@{ shape: win-pane, label: "_Published Nov 07, 2025, 11:42 AM_
-Trump meets central asian leaders to boost critical mineral ties" }
-KhtnhcTs@{ shape: win-pane, label: "_Published Nov 07, 2025, 03:01 AM_
-Kazakhstan to join abraham accords, trump says" }
-Tdrzooetum@{ shape: win-pane, label: "_Published Oct 13, 2025, 05:59 AM_
-Trump declares gaza war ‘over’; hostages due to return home" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-ScpevToWHoiy@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:37 AM_
-Saudi crown prince will visit trump on nov 18, white house official says" }
-Uesarbpg@{ shape: win-pane, label: "_Published May 13, 2025, 11:07 PM_
-Us agrees to sell saudi arabia $185b arms package" }
-Tttinchon@{ shape: win-pane, label: "_Published Oct 21, 2025, 11:41 PM_
-Trump to host saudi crown prince at white house on nov 18" }
-TttrienUkoraile@{ shape: win-pane, label: "_Published Nov 07, 2025, 12:15 AM_
-Trump to host central asian presidents as us seeks to counter china, russia influence" }
-Unloehmsewne@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:01 AM_
-Us, china seal deal on rare earths; trump says xi meeting was a 12 on scale of 1 to 10" }
-LnmegvpSaee@{ shape: win-pane, label: "_Published Oct 30, 2025, 12:05 AM_
-Looming trump-xi meeting revives hope of us-china trade truce" }
-Wrteamdar@{ shape: win-pane, label: "_Published Oct 21, 2025, 09:47 PM_
-Why rare earths are china’s trump card in trade war" }
+ATegifoeusi@{ shape: win-pane, label: "_Published Nov 07, 2025, 02:03 PM_
+Apple tv streaming service suffers outage on pluribus premiere" }
+Sgiieaejoecie@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:15 AM_
+Stranger things’ final season and lee jung-jae’s romcom era kick off in november" }
+AslbocSgioDHuunhs@{ shape: win-pane, label: "_Published Nov 03, 2025, 01:40 PM_
+Actress millie bobby brown accuses stranger things co-star david harbour of bullying and harassment" }
+Sgicsibwhneidar@{ shape: win-pane, label: "_Published Aug 22, 2025, 12:35 PM_
+Stranger things actress millie bobby brown, 21, and husband jake bongiovi, 23, adopt baby girl" }
+NieaTseen@{ shape: win-pane, label: "_Published Dec 15, 2023, 01:15 PM_
+Netflix takes stranger things to the stage in london" }
+SGLnrnoThcoadro@{ shape: win-pane, label: "_Published Nov 02, 2025, 11:35 AM_
+Squid game’s lee jung-jae returns to korean tv with a romcom about chasing different roles" }
+LnsaprmaJnktr@{ shape: win-pane, label: "_Published Oct 20, 2025, 04:03 PM_
+Lee jung-jae’s 17-year age gap with romcom co-star lim ji-yeon sparks controversy" }
+SGteJoatypcegi@{ shape: win-pane, label: "_Published Oct 08, 2025, 04:30 PM_
+Squid game star lee jung jae looking at next hollywood project, directing new film" }
+Asluhasnhdnh@{ shape: win-pane, label: "_Published Oct 31, 2025, 11:24 AM_
+Apple sees blockbuster holiday season on new iphones, driving up shares" }
+AcsUlvtsssgnie@{ shape: win-pane, label: "_Published Oct 21, 2025, 01:16 AM_
+Apple closes in on us$4 trillion valuation as data shows strong demand for iphone 17" }
+AulornaIatfs@{ shape: win-pane, label: "_Published Sep 10, 2025, 03:57 AM_
+Apple unveils iphone 17 air, iphone 17 pro amid ai race and us tariff pressures" }
+AuedakiPti@{ shape: win-pane, label: "_Published Oct 15, 2025, 11:15 PM_
+Apple updates ipad pro, macbook pro, vision pro with m5 chip" }
+AsyedalIcjuoM@{ shape: win-pane, label: "_Published Oct 16, 2025, 08:35 AM_
+Apple’s newly tapped head of chatgpt-like ai search project quits to join meta" }
+Alfhshahtptgt@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:36 AM_
+Apple loses fourth ai researcher in a month to meta’s superintelligence team" }
+ModeAiPugpcoin@{ shape: win-pane, label: "_Published Jul 10, 2025, 08:58 AM_
+Meta poached apple’s top ai engineer pang ruoming with pay package over $256 million" }
 
-TmCaadotiil:::txtsize --> KhtnhcTs:::txtsize
-KhtnhcTs:::txtsize --> Tdrzooetum:::txtsize
-Tdrzooetum:::txtsize --> AtHfezerydatoGel:::txtsize
-KhtnhcTs:::txtsize --> ScpevToWHoiy:::txtsize
-ScpevToWHoiy:::txtsize --> Uesarbpg:::txtsize
-ScpevToWHoiy:::txtsize --> Tttinchon:::txtsize
-TmCaadotiil:::txtsize --> TttrienUkoraile:::txtsize
-TttrienUkoraile:::txtsize --> Unloehmsewne:::txtsize
-Unloehmsewne:::txtsize --> LnmegvpSaee:::txtsize
-Unloehmsewne:::txtsize --> Wrteamdar:::txtsize
+ATegifoeusi:::txtsize --> Sgiieaejoecie:::txtsize
+Sgiieaejoecie:::txtsize --> AslbocSgioDHuunhs:::txtsize
+AslbocSgioDHuunhs:::txtsize --> Sgicsibwhneidar:::txtsize
+AslbocSgioDHuunhs:::txtsize --> NieaTseen:::txtsize
+Sgiieaejoecie:::txtsize --> SGLnrnoThcoadro:::txtsize
+SGLnrnoThcoadro:::txtsize --> LnsaprmaJnktr:::txtsize
+SGLnrnoThcoadro:::txtsize --> SGteJoatypcegi:::txtsize
+ATegifoeusi:::txtsize --> Asluhasnhdnh:::txtsize
+Asluhasnhdnh:::txtsize --> AcsUlvtsssgnie:::txtsize
+AcsUlvtsssgnie:::txtsize --> AulornaIatfs:::txtsize
+AcsUlvtsssgnie:::txtsize --> AuedakiPti:::txtsize
+Asluhasnhdnh:::txtsize --> AsyedalIcjuoM:::txtsize
+AsyedalIcjuoM:::txtsize --> Alfhshahtptgt:::txtsize
+AsyedalIcjuoM:::txtsize --> ModeAiPugpcoin:::txtsize
 
-Castaoelkd@{ shape: win-pane, label: "_Published Nov 07, 2025, 11:32 AM_
-Canada’s conservative party loses second lawmaker in 3 days" }
-MfokCilsrgt@{ shape: win-pane, label: "_Published Nov 06, 2025, 02:18 PM_
-Mp’s defection shakes up canadian politics before budget vote" }
-Snndarawndwila@{ shape: win-pane, label: "_Published Sep 29, 2025, 06:09 PM_
-Six months in, canada pm mark carney faces two-front trade war with little leverage" }
-ChaCafauef@{ shape: win-pane, label: "_Published Mar 08, 2025, 09:31 AM_
-China hits back at canada with fresh agriculture tariffs" }
-Cttdtddetloyru@{ shape: win-pane, label: "_Published Apr 11, 2024, 10:15 AM_
-China tried to meddle but canadians decided last two elections, says pm trudeau" }
-Cartfeaieispfo@{ shape: win-pane, label: "_Published Dec 17, 2024, 02:26 PM_
-Canada government adrift after finance minister resigns as trump tariffs loom" }
-CaaieyFasapyhPd@{ shape: win-pane, label: "_Published Dec 16, 2024, 10:39 PM_
-Canada’s finance minister chrystia freeland resigns after policy clash with pm trudeau" }
-TttheCanrollgoir@{ shape: win-pane, label: "_Published Nov 26, 2024, 08:02 AM_
-Trump threatens china, mexico, canada with new tariffs over illegal immigration, illicit drugs" }
-TjCamtard@{ shape: win-pane, label: "_Published Dec 19, 2024, 12:55 AM_
-Trump jokes canada becoming 51st us state ‘a great idea’" }
-CaaieyFasapyhPd@{ shape: win-pane, label: "_Published Dec 16, 2024, 10:39 PM_
-Canada’s finance minister chrystia freeland resigns after policy clash with pm trudeau" }
-Cadueroeo@{ shape: win-pane, label: "_Published Dec 10, 2024, 08:15 AM_
-Canada’s trudeau survives third no-confidence vote" }
-TamTtednstnfa@{ shape: win-pane, label: "_Published Dec 02, 2024, 04:19 AM_
-Trudeau promised trump tougher border controls, says top canada official" }
-CadaslfePi@{ shape: win-pane, label: "_Published Dec 18, 2024, 06:56 AM_
-Canada’s trudeau battles to hold on after deputy pm resigns" }
-CaaieyFasapyhPd@{ shape: win-pane, label: "_Published Dec 16, 2024, 10:39 PM_
-Canada’s finance minister chrystia freeland resigns after policy clash with pm trudeau" }
-TttheCanrollgoir@{ shape: win-pane, label: "_Published Nov 26, 2024, 08:02 AM_
-Trump threatens china, mexico, canada with new tariffs over illegal immigration, illicit drugs" }
+Hedutoaas@{ shape: win-pane, label: "_Published Nov 07, 2025, 01:28 PM_
+How the us under trump fits into china-taiwan tensions" }
+Tshnousyca@{ shape: win-pane, label: "_Published Nov 03, 2025, 05:15 AM_
+Trump says china knows ‘consequences’ of any attack on taiwan" }
+Wiacriswmi@{ shape: win-pane, label: "_Published Oct 31, 2025, 10:21 PM_
+Why taiwan’s absence in trump-xi talks was a welcome relief" }
+TnsUnensdumnp@{ shape: win-pane, label: "_Published Oct 28, 2025, 10:20 AM_
+Taiwan plays down us abandonment concerns ahead of trump-xi meeting at apec" }
+Wiacriswmi@{ shape: win-pane, label: "_Published Oct 31, 2025, 10:21 PM_
+Why taiwan’s absence in trump-xi talks was a welcome relief" }
+TnsUnensdumnp@{ shape: win-pane, label: "_Published Oct 28, 2025, 10:20 AM_
+Taiwan plays down us abandonment concerns ahead of trump-xi meeting at apec" }
+CuUveeectt@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:36 AM_
+China urges us to avoid ‘red lines’ after reaching trade truce" }
+Anmubsirooe@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:05 PM_
+‘amazing’ trump-xi summit brings tactical truce, not major reset" }
+Tslnihnltaas@{ shape: win-pane, label: "_Published Oct 30, 2025, 01:05 PM_
+Trump says planning to visit china in april, to cut fentanyl tariffs to 10%" }
+Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
+China tightens rare earth export controls and targets defence, semiconductor users" }
+Wiacriswmi@{ shape: win-pane, label: "_Published Oct 31, 2025, 10:21 PM_
+Why taiwan’s absence in trump-xi talks was a welcome relief" }
+TnsUnensdumnp@{ shape: win-pane, label: "_Published Oct 28, 2025, 10:20 AM_
+Taiwan plays down us abandonment concerns ahead of trump-xi meeting at apec" }
 
-Castaoelkd:::txtsize --> MfokCilsrgt:::txtsize
-MfokCilsrgt:::txtsize --> Snndarawndwila:::txtsize
-Snndarawndwila:::txtsize --> ChaCafauef:::txtsize
-Snndarawndwila:::txtsize --> Cttdtddetloyru:::txtsize
-MfokCilsrgt:::txtsize --> Cartfeaieispfo:::txtsize
-Cartfeaieispfo:::txtsize --> CaaieyFasapyhPd:::txtsize
-Cartfeaieispfo:::txtsize --> TttheCanrollgoir:::txtsize
-Castaoelkd:::txtsize --> TjCamtard:::txtsize
-TjCamtard:::txtsize --> CaaieyFasapyhPd:::txtsize
-CaaieyFasapyhPd:::txtsize --> Cadueroeo:::txtsize
-CaaieyFasapyhPd:::txtsize --> TamTtednstnfa:::txtsize
-TjCamtard:::txtsize --> CadaslfePi:::txtsize
-CadaslfePi:::txtsize --> CaaieyFasapyhPd:::txtsize
-CadaslfePi:::txtsize --> TttheCanrollgoir:::txtsize
+Hedutoaas:::txtsize --> Tshnousyca:::txtsize
+Tshnousyca:::txtsize --> Wiacriswmi:::txtsize
+Wiacriswmi:::txtsize --> TnsUnensdumnp:::txtsize
+Tshnousyca:::txtsize --> Wiacriswmi:::txtsize
+Wiacriswmi:::txtsize --> TnsUnensdumnp:::txtsize
+Hedutoaas:::txtsize --> CuUveeectt:::txtsize
+CuUveeectt:::txtsize --> Anmubsirooe:::txtsize
+Anmubsirooe:::txtsize --> Tslnihnltaas:::txtsize
+Anmubsirooe:::txtsize --> Ctertonsasnmdrs:::txtsize
+CuUveeectt:::txtsize --> Wiacriswmi:::txtsize
+Wiacriswmi:::txtsize --> TnsUnensdumnp:::txtsize
 
-Heftaoitdso@{ shape: win-pane, label: "_Published Nov 07, 2025, 10:28 AM_
-Hundreds of flights cut at major us airports amid govt shutdown" }
-Utsanritlss@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:05 PM_
-Us shutdown sends airlines scrambling as travel chaos looms" }
-TaitroguaSouomhw@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:35 AM_
-Trump administration orders 10% of flights cut at major us airports due to government shutdown" }
-Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
-Us government begins shutdown that may lead to mass layoffs and cuts" }
-Lsounsrfakni@{ shape: win-pane, label: "_Published Nov 05, 2025, 04:22 PM_
-Longest us govt shutdown tests air travel, federal workers and patience" }
-Tbscaomhwoot@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:21 AM_
-Trump blasts democrats as us government shutdown becomes longest ever" }
-TaitroguaSouomhw@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:35 AM_
-Trump administration orders 10% of flights cut at major us airports due to government shutdown" }
-Frmognsonpewei@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:32 AM_
-For first time in long us government shutdown, hints of progress toward reopening" }
-Utsanritlss@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:05 PM_
-Us shutdown sends airlines scrambling as travel chaos looms" }
-TaitroguaSouomhw@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:35 AM_
-Trump administration orders 10% of flights cut at major us airports due to government shutdown" }
-Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
-Us government begins shutdown that may lead to mass layoffs and cuts" }
-Lsounsrfakni@{ shape: win-pane, label: "_Published Nov 05, 2025, 04:22 PM_
-Longest us govt shutdown tests air travel, federal workers and patience" }
-Tbscaomhwoot@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:21 AM_
-Trump blasts democrats as us government shutdown becomes longest ever" }
-TaitroguaSouomhw@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:35 AM_
-Trump administration orders 10% of flights cut at major us airports due to government shutdown" }
-Frmognsonpewei@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:32 AM_
-For first time in long us government shutdown, hints of progress toward reopening" }
+MpotlyflepukerNr@{ shape: win-pane, label: "_Published Nov 07, 2025, 12:45 PM_
+Multiple people at us military base fall ill after suspicious package delivered, cnn reports" }
+Uitahetsierus@{ shape: win-pane, label: "_Published Nov 07, 2025, 02:20 AM_
+Us military to establish presence at damascus airbase in syria, sources say" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
+Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
+Ssalirniwetaatc@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:45 PM_
+Syria’s sharaa tells putin at kremlin meeting he will respect all past deals with moscow" }
+Ralkireosr@{ shape: win-pane, label: "_Published Mar 02, 2025, 03:09 PM_
+Russia gambles to keep military bases in post-assad syria" }
+SnsrsetlRars@{ shape: win-pane, label: "_Published Apr 15, 2025, 12:11 AM_
+Syrian ambassador to moscow requests asylum in russia, report says" }
+TstptoisMa@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:19 AM_
+Trump’s military ops in other countries test his maga base" }
+TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
+Trump threatens military action in nigeria over ‘killing of christians’" }
+UDehewmeinegas@{ shape: win-pane, label: "_Published Nov 01, 2025, 09:00 AM_
+Us v-p j.d. vance says he hopes his wife embraces christianity, setting off backlash" }
+Tahurpdvnesn@{ shape: win-pane, label: "_Published May 22, 2025, 01:26 AM_
+Trump ambushes south africa’s president over ‘genocide’ accusation" }
+FwSAarnTcsfimi@{ shape: win-pane, label: "_Published May 13, 2025, 04:01 AM_
+First white south africans arrive in us as trump claims they face discrimination" }
+Tssniofswplec@{ shape: win-pane, label: "_Published Feb 11, 2025, 08:13 PM_
+Trump’s accusations against south africa spark ‘white privilege’ self-mockery" }
 
-Heftaoitdso:::txtsize --> Utsanritlss:::txtsize
-Utsanritlss:::txtsize --> TaitroguaSouomhw:::txtsize
-TaitroguaSouomhw:::txtsize --> Ueniunmaayat:::txtsize
-TaitroguaSouomhw:::txtsize --> Lsounsrfakni:::txtsize
-Utsanritlss:::txtsize --> Tbscaomhwoot:::txtsize
-Tbscaomhwoot:::txtsize --> TaitroguaSouomhw:::txtsize
-Tbscaomhwoot:::txtsize --> Frmognsonpewei:::txtsize
-Heftaoitdso:::txtsize --> Utsanritlss:::txtsize
-Utsanritlss:::txtsize --> TaitroguaSouomhw:::txtsize
-TaitroguaSouomhw:::txtsize --> Ueniunmaayat:::txtsize
-TaitroguaSouomhw:::txtsize --> Lsounsrfakni:::txtsize
-Utsanritlss:::txtsize --> Tbscaomhwoot:::txtsize
-Tbscaomhwoot:::txtsize --> TaitroguaSouomhw:::txtsize
-Tbscaomhwoot:::txtsize --> Frmognsonpewei:::txtsize
+MpotlyflepukerNr:::txtsize --> Uitahetsierus:::txtsize
+Uitahetsierus:::txtsize --> SnltiARahtoy:::txtsize
+SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
+Uitahetsierus:::txtsize --> Ssalirniwetaatc:::txtsize
+Ssalirniwetaatc:::txtsize --> Ralkireosr:::txtsize
+Ssalirniwetaatc:::txtsize --> SnsrsetlRars:::txtsize
+MpotlyflepukerNr:::txtsize --> TstptoisMa:::txtsize
+TstptoisMa:::txtsize --> TttiriNiriCt:::txtsize
+TttiriNiriCt:::txtsize --> UDehewmeinegas:::txtsize
+TstptoisMa:::txtsize --> Tahurpdvnesn:::txtsize
+Tahurpdvnesn:::txtsize --> FwSAarnTcsfimi:::txtsize
+Tahurpdvnesn:::txtsize --> Tssniofswplec:::txtsize
 
 ```
-<i>Last updated: 2025-11-07 12:00:58.645083 (GMT+8)</i>
+<i>Last updated: 2025-11-07 16:00:30.388431 (GMT+8)</i>
 <!-- END -->
