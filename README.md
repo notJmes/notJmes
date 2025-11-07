@@ -16,105 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Uitahetsierus@{ shape: win-pane, label: "_Published Nov 07, 2025, 02:20 AM_
-Us military to establish presence at damascus airbase in syria, sources say" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
-Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Hmsis@{ shape: win-pane, label: "_Published Dec 08, 2024, 04:00 PM_
-How damascus fell in 11 days" }
-Ssalirniwetaatc@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:45 PM_
-Syria’s sharaa tells putin at kremlin meeting he will respect all past deals with moscow" }
-Ralkireosr@{ shape: win-pane, label: "_Published Mar 02, 2025, 03:09 PM_
-Russia gambles to keep military bases in post-assad syria" }
-IlitpisaSse@{ shape: win-pane, label: "_Published Mar 01, 2025, 12:14 AM_
-Israel lobbies us to keep russian bases in a ‘weak’ syria, sources say" }
-Ssevseaol@{ shape: win-pane, label: "_Published Feb 17, 2025, 07:45 AM_
-Syria’s new leader visits former assad strongholds" }
-SnsrsetlRars@{ shape: win-pane, label: "_Published Apr 15, 2025, 12:11 AM_
-Syrian ambassador to moscow requests asylum in russia, report says" }
-AAShsseoelniEn@{ shape: win-pane, label: "_Published Dec 11, 2024, 05:00 AM_
-A post-assad syria has just raised the risk of more conflict in the middle east in 2025" }
+WlrnmfrledP@{ shape: win-pane, label: "_Published Nov 07, 2025, 07:21 AM_
+World leaders warned of ‘moral failure’ on climate ahead of cop30" }
+UeltfictlrhCast@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:50 PM_
+Un chief scolds nations for failing climate goals as brazil hosts cop30 leaders’ summit" }
+EterneleeioaC@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:32 PM_
+Eu tentatively agrees on weakened climate target in final-hour deal for cop30" }
+WwvogmoneUn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:22 PM_
+World will overshoot 1.5 deg c climate goal in next decade, un warns" }
+Eanaoemor@{ shape: win-pane, label: "_Published Nov 04, 2025, 02:07 PM_
+Eu in last-minute talks to set new climate goal for cop30" }
+UleflOmahoa@{ shape: win-pane, label: "_Published Nov 01, 2025, 01:46 AM_
+Us will not send officials to cop30 climate talks, white house says" }
+Ygtlpcarnhp@{ shape: win-pane, label: "_Published Sep 24, 2025, 06:51 AM_
+‘you’re going to hell’: trump attacks un and europe in scathing speech" }
+Twrrriamg@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:36 AM_
+Trump withdraws from paris climate agreement, again" }
+yomarsfalii@{ shape: win-pane, label: "_Published Nov 06, 2025, 05:05 PM_
+30 years of climate talks: progress, pitfalls and a planet in peril" }
+TtUtaastogl@{ shape: win-pane, label: "_Published Sep 24, 2025, 12:17 AM_
+Trump tells un that climate change is ‘greatest con job’ globally" }
+Tpunnrieingso@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:10 PM_
+The top polluting nations are revising their emissions targets. is it enough?" }
+WwvogmoneUn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:22 PM_
+World will overshoot 1.5 deg c climate goal in next decade, un warns" }
+Ntnosager@{ shape: win-pane, label: "_Published Oct 13, 2025, 11:10 AM_
+Not nothing, not enough: is the paris agreement working?" }
+Cpghgdois@{ shape: win-pane, label: "_Published Sep 25, 2025, 04:57 AM_
+China plans 7-10% greenhouse gas reduction by 2035, xi tells un" }
 
-Uitahetsierus:::txtsize --> SnltiARahtoy:::txtsize
-SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
-Wasrsnnafriben:::txtsize --> SnltiARahtoy:::txtsize
-Wasrsnnafriben:::txtsize --> Hmsis:::txtsize
-Uitahetsierus:::txtsize --> Ssalirniwetaatc:::txtsize
-Ssalirniwetaatc:::txtsize --> Ralkireosr:::txtsize
-Ralkireosr:::txtsize --> IlitpisaSse:::txtsize
-Ralkireosr:::txtsize --> Ssevseaol:::txtsize
-Ssalirniwetaatc:::txtsize --> SnsrsetlRars:::txtsize
-SnsrsetlRars:::txtsize --> AAShsseoelniEn:::txtsize
+WlrnmfrledP:::txtsize --> UeltfictlrhCast:::txtsize
+UeltfictlrhCast:::txtsize --> EterneleeioaC:::txtsize
+EterneleeioaC:::txtsize --> WwvogmoneUn:::txtsize
+EterneleeioaC:::txtsize --> Eanaoemor:::txtsize
+UeltfictlrhCast:::txtsize --> UleflOmahoa:::txtsize
+UleflOmahoa:::txtsize --> Ygtlpcarnhp:::txtsize
+UleflOmahoa:::txtsize --> Twrrriamg:::txtsize
+WlrnmfrledP:::txtsize --> yomarsfalii:::txtsize
+yomarsfalii:::txtsize --> TtUtaastogl:::txtsize
+TtUtaastogl:::txtsize --> Tpunnrieingso:::txtsize
+yomarsfalii:::txtsize --> WwvogmoneUn:::txtsize
+WwvogmoneUn:::txtsize --> Ntnosager:::txtsize
+WwvogmoneUn:::txtsize --> Cpghgdois:::txtsize
 
-Vnasyirttdnll@{ shape: win-pane, label: "_Published Nov 07, 2025, 02:20 AM_
-Virginia teacher shot by her six-year-old student awarded $13m in civil trial" }
-Saboerensl@{ shape: win-pane, label: "_Published Jan 07, 2023, 09:26 AM_
-Six-year-old boy shoots teacher at us elementary school" }
-Uhoxontelrh@{ shape: win-pane, label: "_Published Dec 16, 2023, 05:08 AM_
-Us mother whose six-year-old son shot teacher jailed for 21 months" }
-Saboerensl@{ shape: win-pane, label: "_Published Jan 07, 2023, 09:26 AM_
-Six-year-old boy shoots teacher at us elementary school" }
-MraUwocecms@{ shape: win-pane, label: "_Published Nov 16, 2023, 11:19 AM_
-Mother of 6-year-old us boy who shot teacher sentenced to 21 months jail" }
-Saboerensl@{ shape: win-pane, label: "_Published Jan 07, 2023, 09:26 AM_
-Six-year-old boy shoots teacher at us elementary school" }
+Eunlpeedgah@{ shape: win-pane, label: "_Published Nov 07, 2025, 07:07 AM_
+Elon musk wins $1 trillion pay check, the world’s largest salary hike" }
+Sdardrilstiraae@{ shape: win-pane, label: "_Published Sep 12, 2025, 10:35 PM_
+Should tesla’s shareholders green-light elon musk’s us$1 trillion performance package?" }
+Euiferhnylrl@{ shape: win-pane, label: "_Published Sep 11, 2025, 01:45 AM_
+Elon musk’s title of richest person challenged by oracle’s larry ellison" }
+Oeclinabddrssto@{ shape: win-pane, label: "_Published Sep 10, 2025, 08:53 AM_
+Oracle expects half a trillion dollars in booked cloud orders; its shares jump to record" }
+GnrtanpgMut@{ shape: win-pane, label: "_Published Feb 16, 2025, 11:59 AM_
+Germany’s far-right afd basks in the spotlight of musk support" }
+Tpscfokctti@{ shape: win-pane, label: "_Published Sep 05, 2025, 10:35 PM_
+Tesla proposes package for elon musk that could top us$1 trillion" }
+TscpneusVe@{ shape: win-pane, label: "_Published Sep 04, 2025, 09:53 AM_
+Tesla sales collapse continues in europe’s top ev markets" }
+GnrtanpgMut@{ shape: win-pane, label: "_Published Feb 16, 2025, 11:59 AM_
+Germany’s far-right afd basks in the spotlight of musk support" }
+Sdardrilstiraae@{ shape: win-pane, label: "_Published Sep 12, 2025, 10:35 PM_
+Should tesla’s shareholders green-light elon musk’s us$1 trillion performance package?" }
+Euiferhnylrl@{ shape: win-pane, label: "_Published Sep 11, 2025, 01:45 AM_
+Elon musk’s title of richest person challenged by oracle’s larry ellison" }
+Oeclinabddrssto@{ shape: win-pane, label: "_Published Sep 10, 2025, 08:53 AM_
+Oracle expects half a trillion dollars in booked cloud orders; its shares jump to record" }
+GnrtanpgMut@{ shape: win-pane, label: "_Published Feb 16, 2025, 11:59 AM_
+Germany’s far-right afd basks in the spotlight of musk support" }
+Tpscfokctti@{ shape: win-pane, label: "_Published Sep 05, 2025, 10:35 PM_
+Tesla proposes package for elon musk that could top us$1 trillion" }
+TscpneusVe@{ shape: win-pane, label: "_Published Sep 04, 2025, 09:53 AM_
+Tesla sales collapse continues in europe’s top ev markets" }
+GnrtanpgMut@{ shape: win-pane, label: "_Published Feb 16, 2025, 11:59 AM_
+Germany’s far-right afd basks in the spotlight of musk support" }
 
-Vnasyirttdnll:::txtsize --> Saboerensl:::txtsize
-Vnasyirttdnll:::txtsize --> Uhoxontelrh:::txtsize
-Uhoxontelrh:::txtsize --> Saboerensl:::txtsize
-Uhoxontelrh:::txtsize --> MraUwocecms:::txtsize
-MraUwocecms:::txtsize --> Saboerensl:::txtsize
+Eunlpeedgah:::txtsize --> Sdardrilstiraae:::txtsize
+Sdardrilstiraae:::txtsize --> Euiferhnylrl:::txtsize
+Euiferhnylrl:::txtsize --> Oeclinabddrssto:::txtsize
+Euiferhnylrl:::txtsize --> GnrtanpgMut:::txtsize
+Sdardrilstiraae:::txtsize --> Tpscfokctti:::txtsize
+Tpscfokctti:::txtsize --> TscpneusVe:::txtsize
+Tpscfokctti:::txtsize --> GnrtanpgMut:::txtsize
+Eunlpeedgah:::txtsize --> Sdardrilstiraae:::txtsize
+Sdardrilstiraae:::txtsize --> Euiferhnylrl:::txtsize
+Euiferhnylrl:::txtsize --> Oeclinabddrssto:::txtsize
+Euiferhnylrl:::txtsize --> GnrtanpgMut:::txtsize
+Sdardrilstiraae:::txtsize --> Tpscfokctti:::txtsize
+Tpscfokctti:::txtsize --> TscpneusVe:::txtsize
+Tpscfokctti:::txtsize --> GnrtanpgMut:::txtsize
 
-Sostdadps@{ shape: win-pane, label: "_Published Nov 07, 2025, 01:14 AM_
-Spain orders poultry indoors as bird flu spreads" }
-Mtiuiendrsd@{ shape: win-pane, label: "_Published Nov 04, 2025, 09:00 PM_
-Mandatory bird housing imposed in england as bird flu spreads" }
-MugralGntiue@{ shape: win-pane, label: "_Published Oct 26, 2025, 08:40 PM_
-Mass culling ordered near berlin as germany battles bird flu surge" }
-Blat@{ shape: win-pane, label: "_Published Oct 23, 2025, 09:15 AM_
-Bird flu is back in the us" }
-Ferlnsrsdu@{ shape: win-pane, label: "_Published Oct 22, 2025, 03:31 AM_
-France orders poultry indoors as bird flu spreads in europe" }
-Blat@{ shape: win-pane, label: "_Published Oct 23, 2025, 09:15 AM_
-Bird flu is back in the us" }
-Ferlnsrsdu@{ shape: win-pane, label: "_Published Oct 22, 2025, 03:31 AM_
-France orders poultry indoors as bird flu spreads in europe" }
-Blbboaaaet@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:25 AM_
-Bird flu may be airborne on us dairy farms, say scientists" }
-MugralGntiue@{ shape: win-pane, label: "_Published Oct 26, 2025, 08:40 PM_
-Mass culling ordered near berlin as germany battles bird flu surge" }
-Blat@{ shape: win-pane, label: "_Published Oct 23, 2025, 09:15 AM_
-Bird flu is back in the us" }
-Ferlnsrsdu@{ shape: win-pane, label: "_Published Oct 22, 2025, 03:31 AM_
-France orders poultry indoors as bird flu spreads in europe" }
-Blbboaaaet@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:25 AM_
-Bird flu may be airborne on us dairy farms, say scientists" }
-Ferlnsrsdu@{ shape: win-pane, label: "_Published Oct 22, 2025, 03:31 AM_
-France orders poultry indoors as bird flu spreads in europe" }
-Isihtsefsoss@{ shape: win-pane, label: "_Published Aug 30, 2025, 04:07 PM_
-India’s delhi zoo shut after positive bird flu tests from two storks" }
-Blbboaaaet@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:25 AM_
-Bird flu may be airborne on us dairy farms, say scientists" }
+Tulloofwtd@{ shape: win-pane, label: "_Published Nov 07, 2025, 07:03 AM_
+Trump unveils deals to lower costs of some weight-loss drugs" }
+Wyceuotiwlvepige@{ shape: win-pane, label: "_Published Jul 12, 2025, 06:15 PM_
+Wegovy, injectable drug used to treat obesity, now available via prescription in singapore" }
+WyootagsSonodnei@{ shape: win-pane, label: "_Published Apr 02, 2023, 02:50 PM_
+Wegovy approved for use to treat weight issues; hsa removes unauthorised online sale listings" }
+AondieioSitsy@{ shape: win-pane, label: "_Published Dec 22, 2022, 08:19 AM_
+A tiktok trend sold out diabetes medication in us, leaving patients dizzy" }
+Wwtdesu@{ shape: win-pane, label: "_Published Apr 03, 2023, 05:00 AM_
+Why is weight-loss drug wegovy so popular?" }
+Tkosiegeloos@{ shape: win-pane, label: "_Published Feb 28, 2023, 03:27 PM_
+Tiktok videos on use of diabetes drug for weight loss worry doctors" }
+AondieioSitsy@{ shape: win-pane, label: "_Published Dec 22, 2022, 08:19 AM_
+A tiktok trend sold out diabetes medication in us, leaving patients dizzy" }
+AondieioSitsy@{ shape: win-pane, label: "_Published Dec 22, 2022, 08:19 AM_
+A tiktok trend sold out diabetes medication in us, leaving patients dizzy" }
 
-Sostdadps:::txtsize --> Mtiuiendrsd:::txtsize
-Mtiuiendrsd:::txtsize --> MugralGntiue:::txtsize
-MugralGntiue:::txtsize --> Blat:::txtsize
-MugralGntiue:::txtsize --> Ferlnsrsdu:::txtsize
-Mtiuiendrsd:::txtsize --> Blat:::txtsize
-Blat:::txtsize --> Ferlnsrsdu:::txtsize
-Blat:::txtsize --> Blbboaaaet:::txtsize
-Sostdadps:::txtsize --> MugralGntiue:::txtsize
-MugralGntiue:::txtsize --> Blat:::txtsize
-Blat:::txtsize --> Ferlnsrsdu:::txtsize
-Blat:::txtsize --> Blbboaaaet:::txtsize
-MugralGntiue:::txtsize --> Ferlnsrsdu:::txtsize
-Ferlnsrsdu:::txtsize --> Isihtsefsoss:::txtsize
-Ferlnsrsdu:::txtsize --> Blbboaaaet:::txtsize
+Tulloofwtd:::txtsize --> Wyceuotiwlvepige:::txtsize
+Wyceuotiwlvepige:::txtsize --> WyootagsSonodnei:::txtsize
+WyootagsSonodnei:::txtsize --> AondieioSitsy:::txtsize
+WyootagsSonodnei:::txtsize --> Wwtdesu:::txtsize
+Wyceuotiwlvepige:::txtsize --> Tkosiegeloos:::txtsize
+Tkosiegeloos:::txtsize --> AondieioSitsy:::txtsize
+Tkosiegeloos:::txtsize --> AondieioSitsy:::txtsize
 
 ```
-<i>Last updated: 2025-11-07 04:01:10.233913 (GMT+8)</i>
+<i>Last updated: 2025-11-07 08:00:34.377893 (GMT+8)</i>
 <!-- END -->
