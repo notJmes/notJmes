@@ -16,84 +16,135 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ptnthvdnrhg@{ shape: win-pane, label: "_Published Nov 08, 2025, 03:56 PM_
-Palestinian militants hand over body of another gaza hostage" }
-Tdrzooetum@{ shape: win-pane, label: "_Published Oct 13, 2025, 05:59 AM_
-Trump declares gaza war ‘over’; hostages due to return home" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+Znadeeeggi@{ shape: win-pane, label: "_Published Nov 08, 2025, 07:55 PM_
+Zohran mamdani and the revenge of the struggling yuppie" }
+ThuMnlmenekmae@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:15 PM_
+‘turn the volume up,’ mamdani tells trump after winning new york city mayoral race" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
+Cuomo to stay in new york mayoral race despite losing democratic primary" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
+Cuomo to stay in new york mayoral race despite losing democratic primary" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
+Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
+TbCttousoscolsdsr@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:15 AM_
+Trump backs cuomo, threatens to cut funds as new yorkers expected to pick leftist mamdani as mayor" }
+OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
+Obama calls mamdani, praises campaign ahead of new york mayoral election" }
+Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
+Takeaways from us election night 2025" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
 
-Ptnthvdnrhg:::txtsize --> Tdrzooetum:::txtsize
-Tdrzooetum:::txtsize --> AtHfezerydatoGel:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+Znadeeeggi:::txtsize --> ThuMnlmenekmae:::txtsize
+ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
+Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
+Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
+ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
+Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
+Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
+Znadeeeggi:::txtsize --> YMmnoihaiYilehpea:::txtsize
+YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
+YMmimociYaoauoc:::txtsize --> TbCttousoscolsdsr:::txtsize
+YMmimociYaoauoc:::txtsize --> OcMniagaekren:::txtsize
+YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
+Twreig:::txtsize --> YMmnoihaiYilehpea:::txtsize
+Twreig:::txtsize --> Drwialosdp:::txtsize
 
-Pryeripbn@{ shape: win-pane, label: "_Published Nov 08, 2025, 02:02 PM_
-Pfizer to buy metsera for $13 billion, capping bidding war" }
-Tulloofwtd@{ shape: win-pane, label: "_Published Nov 07, 2025, 07:03 AM_
-Trump unveils deals to lower costs of some weight-loss drugs" }
-Wyceuotiwlvepige@{ shape: win-pane, label: "_Published Jul 12, 2025, 06:15 PM_
-Wegovy, injectable drug used to treat obesity, now available via prescription in singapore" }
-WyootagsSonodnei@{ shape: win-pane, label: "_Published Apr 02, 2023, 02:50 PM_
-Wegovy approved for use to treat weight issues; hsa removes unauthorised online sale listings" }
-Tkosiegeloos@{ shape: win-pane, label: "_Published Feb 28, 2023, 03:27 PM_
-Tiktok videos on use of diabetes drug for weight loss worry doctors" }
-
-Pryeripbn:::txtsize --> Tulloofwtd:::txtsize
-Tulloofwtd:::txtsize --> Wyceuotiwlvepige:::txtsize
-Wyceuotiwlvepige:::txtsize --> WyootagsSonodnei:::txtsize
-Wyceuotiwlvepige:::txtsize --> Tkosiegeloos:::txtsize
-
-DvseCannpib@{ shape: win-pane, label: "_Published Nov 08, 2025, 12:31 PM_
-Doj moves to subpoena ex-cia head brennan on trump-russia probe" }
-Upgoreueitrilcra@{ shape: win-pane, label: "_Published Nov 07, 2025, 05:45 AM_
-Us preparing subpoenas related to 2016 russia election-interference intelligence, sources say" }
-UnRalerstlorTope@{ shape: win-pane, label: "_Published Sep 05, 2024, 03:51 AM_
-Us counters russian influence before 2024 presidential election, charges rt network employees" }
+RasaUnrcilro@{ shape: win-pane, label: "_Published Nov 08, 2025, 06:40 PM_
+Russia hits several key ukraine energy facilities, kills three people" }
 DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
 'darkest hours of europe' as russia invades ukraine" }
-Ueefaisifrsti@{ shape: win-pane, label: "_Published Jul 10, 2024, 06:10 AM_
-Us intelligence official indicates russia prefers trump as election victor" }
-Taemrncisrts@{ shape: win-pane, label: "_Published Jul 23, 2025, 02:48 AM_
-Trump accuses obama of treason in escalating 2016 russia probe attacks" }
-Tpfihgashlc@{ shape: win-pane, label: "_Published Jul 22, 2025, 06:59 AM_
-Trump posts fake video showing obama arrest in the oval office" }
-UcGriamtoeniu@{ shape: win-pane, label: "_Published Jul 19, 2025, 11:45 AM_
-Us spy chief gabbard claims obama administration tried to undermine trump in 2016" }
-Urotnrhrpso@{ shape: win-pane, label: "_Published Oct 06, 2025, 11:46 PM_
-Us supreme court starts new term, with major trump cases in store" }
-Uroeeeinwp@{ shape: win-pane, label: "_Published Oct 06, 2025, 11:35 PM_
-Us supreme court declines to hear ghislaine maxwell appeal" }
-Gaaltiginlea@{ shape: win-pane, label: "_Published Sep 18, 2024, 12:12 AM_
-Ghislaine maxwell’s sex-trafficking conviction upheld, appeal planned" }
-Usopnesemirnfg@{ shape: win-pane, label: "_Published Sep 16, 2025, 03:25 AM_
-Us prosecutor in epstein, maxwell cases sues trump administration over firing" }
-Uroeurmrtoear@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:15 AM_
-Us supreme court lets trump strip temporary status from venezuelan migrants" }
-Pefttrshoatev@{ shape: win-pane, label: "_Published Oct 04, 2025, 03:30 AM_
-Police scuffle with protesters outside chicago ice facility, arrest several" }
-Ulrwcldslo@{ shape: win-pane, label: "_Published Oct 04, 2025, 01:36 AM_
-Us kills four in new attack on alleged drug-smuggling boat" }
+Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
+Explosions heard in ukraine capital kyiv, other cities" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
+Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+RahtsaouPvnlae@{ shape: win-pane, label: "_Published Nov 08, 2025, 06:00 PM_
+Russia says house-to-house advance continues in pokrovsk, tiny village captured" }
+Unstfnmnoiggu@{ shape: win-pane, label: "_Published Nov 07, 2025, 10:50 PM_
+Ukraine says more than 1,400 africans from dozens of countries fighting for russia" }
+Isteficupefirike@{ shape: win-pane, label: "_Published Mar 08, 2024, 05:51 PM_
+India says it busted trafficking racket duping people into fighting for russia in ukraine" }
+Raketfsoirggeskk@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:11 PM_
+Russia and ukraine says their forces are locked in fierce fighting in the ruins of pokrovsk" }
+UksrRaehnUry@{ shape: win-pane, label: "_Published Nov 08, 2025, 02:00 AM_
+Us backs eu using frozen russian assets to help end war, us source says" }
+EaaszsaskebsHro@{ shape: win-pane, label: "_Published Sep 18, 2025, 08:00 PM_
+Eu floats plan to use frozen russian assets for ukraine loan, bypassing a hungary veto" }
+Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
+Belgium says eu states must share risk to use frozen russian assets for ukraine" }
 
-DvseCannpib:::txtsize --> Upgoreueitrilcra:::txtsize
-Upgoreueitrilcra:::txtsize --> UnRalerstlorTope:::txtsize
-UnRalerstlorTope:::txtsize --> DsruasvUn:::txtsize
-UnRalerstlorTope:::txtsize --> Ueefaisifrsti:::txtsize
-Upgoreueitrilcra:::txtsize --> Taemrncisrts:::txtsize
-Taemrncisrts:::txtsize --> Tpfihgashlc:::txtsize
-Taemrncisrts:::txtsize --> UcGriamtoeniu:::txtsize
-DvseCannpib:::txtsize --> Urotnrhrpso:::txtsize
-Urotnrhrpso:::txtsize --> Uroeeeinwp:::txtsize
-Uroeeeinwp:::txtsize --> Gaaltiginlea:::txtsize
-Uroeeeinwp:::txtsize --> Usopnesemirnfg:::txtsize
-Urotnrhrpso:::txtsize --> Uroeurmrtoear:::txtsize
-Uroeurmrtoear:::txtsize --> Pefttrshoatev:::txtsize
-Uroeurmrtoear:::txtsize --> Ulrwcldslo:::txtsize
+RasaUnrcilro:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
+Eshiaalocs:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
+OaUuakaogrmc:::txtsize --> DsruasvUn:::txtsize
+RasaUnrcilro:::txtsize --> RahtsaouPvnlae:::txtsize
+RahtsaouPvnlae:::txtsize --> Unstfnmnoiggu:::txtsize
+Unstfnmnoiggu:::txtsize --> Isteficupefirike:::txtsize
+Unstfnmnoiggu:::txtsize --> Raketfsoirggeskk:::txtsize
+RahtsaouPvnlae:::txtsize --> UksrRaehnUry:::txtsize
+UksrRaehnUry:::txtsize --> EaaszsaskebsHro:::txtsize
+UksrRaehnUry:::txtsize --> Busauasszsaske:::txtsize
+
+Ucrwsoasica@{ shape: win-pane, label: "_Published Nov 08, 2025, 06:35 PM_
+Us forces working with israel on gaza aid, israeli official says" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
+Israel marks oct 7 anniversary as talks are held to end gaza war" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+Hatmzcnhodro@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:11 PM_
+Hamas accepts trump’s gaza peace plan, but the bloodshed is far from over" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
+Singapore strongly condemns terror attacks on israel, calls for end to violence" }
+
+Ucrwsoasica:::txtsize --> TssHaossaaorslaoe:::txtsize
+TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
+Ilsnrakhoar:::txtsize --> Sbsrcdnacaale:::txtsize
+Ilsnrakhoar:::txtsize --> Hatmzcnhodro:::txtsize
+TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Ucrwsoasica:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+WzptIleint:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
+Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
 
 ```
-<i>Last updated: 2025-11-08 16:00:26.774713 (GMT+8)</i>
+<i>Last updated: 2025-11-08 20:00:53.024814 (GMT+8)</i>
 <!-- END -->
