@@ -16,90 +16,126 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-TyeoataaIlauois@{ shape: win-pane, label: "_Published Nov 08, 2025, 03:22 AM_
-Turkey issues genocide arrest warrant against israel’s netanyahu, senior officials" }
-TIeshhetdpoG@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:20 PM_
-Turks, indonesians or others? the race is on to find troops to police gaza" }
-PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
-Peace finally descends on the middle east: now the battle to make it last begins" }
-TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
-Tears, joy in israel as hamas hands over first hostages" }
+TsofllnSAa@{ shape: win-pane, label: "_Published Nov 08, 2025, 07:40 AM_
+Trump says no us officials will attend g20 in south africa" }
+AkualawgiSAa@{ shape: win-pane, label: "_Published May 23, 2025, 07:20 AM_
+A check of trump’s false claims about white genocide in south africa" }
+Tahurpdvnesn@{ shape: win-pane, label: "_Published May 22, 2025, 01:26 AM_
+Trump ambushes south africa’s president over ‘genocide’ accusation" }
+FwSAarnTcsfimi@{ shape: win-pane, label: "_Published May 13, 2025, 04:01 AM_
+First white south africans arrive in us as trump claims they face discrimination" }
+Tssniofswplec@{ shape: win-pane, label: "_Published Feb 11, 2025, 08:13 PM_
+Trump’s accusations against south africa spark ‘white privilege’ self-mockery" }
+Tseatmaotoenthc@{ shape: win-pane, label: "_Published May 23, 2025, 04:50 AM_
+Trump’s image of dead ‘white farmers’ came from reuters footage in congo, not south africa" }
+Tahurpdvnesn@{ shape: win-pane, label: "_Published May 22, 2025, 01:26 AM_
+Trump ambushes south africa’s president over ‘genocide’ accusation" }
+Tahurpdvnesn@{ shape: win-pane, label: "_Published May 22, 2025, 01:26 AM_
+Trump ambushes south africa’s president over ‘genocide’ accusation" }
+Tseessifsocrd@{ shape: win-pane, label: "_Published Oct 31, 2025, 01:46 AM_
+Trump sets refugee admissions ceiling at 7,500 for fiscal 2026, lowest cap on record" }
+FwSAarnTcsfimi@{ shape: win-pane, label: "_Published May 13, 2025, 04:01 AM_
+First white south africans arrive in us as trump claims they face discrimination" }
+FwSAaaarduivul@{ shape: win-pane, label: "_Published May 12, 2025, 05:01 AM_
+First white south africans board plane for us under trump’s divisive refugee plan" }
+Eluretashirt@{ shape: win-pane, label: "_Published Mar 23, 2025, 07:00 PM_
+Expelled south african envoy to us says he’s back home ‘with no regrets’" }
+Nniursdrirnr@{ shape: win-pane, label: "_Published Feb 09, 2025, 09:47 PM_
+‘no thanks’, white south africans turn down trump’s immigration offer" }
+TfeSAaictfas@{ shape: win-pane, label: "_Published Feb 09, 2025, 02:40 AM_
+Trump freezes all south african assistance as stand-off escalates" }
+TfeSAaictfas@{ shape: win-pane, label: "_Published Feb 09, 2025, 02:40 AM_
+Trump freezes all south african assistance as stand-off escalates" }
 
-TyeoataaIlauois:::txtsize --> TIeshhetdpoG:::txtsize
-TIeshhetdpoG:::txtsize --> PflcoMeNelale:::txtsize
-PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
+TsofllnSAa:::txtsize --> AkualawgiSAa:::txtsize
+AkualawgiSAa:::txtsize --> Tahurpdvnesn:::txtsize
+Tahurpdvnesn:::txtsize --> FwSAarnTcsfimi:::txtsize
+Tahurpdvnesn:::txtsize --> Tssniofswplec:::txtsize
+AkualawgiSAa:::txtsize --> Tseatmaotoenthc:::txtsize
+Tseatmaotoenthc:::txtsize --> Tahurpdvnesn:::txtsize
+Tseatmaotoenthc:::txtsize --> Tahurpdvnesn:::txtsize
+TsofllnSAa:::txtsize --> Tseessifsocrd:::txtsize
+Tseessifsocrd:::txtsize --> FwSAarnTcsfimi:::txtsize
+FwSAarnTcsfimi:::txtsize --> FwSAaaarduivul:::txtsize
+FwSAarnTcsfimi:::txtsize --> Eluretashirt:::txtsize
+Tseessifsocrd:::txtsize --> Nniursdrirnr:::txtsize
+Nniursdrirnr:::txtsize --> TfeSAaictfas:::txtsize
+Nniursdrirnr:::txtsize --> TfeSAaictfas:::txtsize
 
-TmHrbdssincrn@{ shape: win-pane, label: "_Published Nov 08, 2025, 02:20 AM_
-Trump meets hungary’s orban to discuss russian oil, economic cooperation" }
-Ucsilrrionitncr@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:27 PM_
-Us sanctions russian oil majors over ukraine, prompting india jitters and moscow fury" }
-UpmucssorirPwht@{ shape: win-pane, label: "_Published Oct 23, 2025, 05:33 AM_
-Us slaps ‘tremendous sanctions’ on russian oil for ukraine war, says putin wasn’t ‘honest’" }
-ErtkftassewUn@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:10 AM_
-Eu approves 19th package of sanctions against russia over its war in ukraine" }
-PTtiaodrieei@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
-Putin-trump talks in budapest on hold after russia rejects ceasefire" }
-Tsemunpogrnil@{ shape: win-pane, label: "_Published May 19, 2025, 10:54 PM_
-Trump says he will meet putin in budapest, touting progress in ukraine talks" }
+WYresemhiN@{ shape: win-pane, label: "_Published Nov 08, 2025, 06:12 AM_
+While you were sleeping: 5 stories you might have missed, nov 8, 2025" }
+Hrbksronsiaiue@{ shape: win-pane, label: "_Published Nov 08, 2025, 02:20 AM_
+Hungary’s orban makes case to trump for using russian oil at warm white house meeting" }
+BiuwKablke@{ shape: win-pane, label: "_Published Sep 24, 2025, 03:22 AM_
+‘big shift’: trump now says kyiv can win back ‘all of ukraine’" }
 TPdtsUncamre@{ shape: win-pane, label: "_Published Aug 16, 2025, 03:43 AM_
 Trump-putin direct talks over ukraine conclude as summit stretches on" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+Unlyphaiogh@{ shape: win-pane, label: "_Published Mar 01, 2025, 01:48 AM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+RaislnLvaofrP@{ shape: win-pane, label: "_Published Nov 07, 2025, 10:30 PM_
+Russia dismisses speculation that lavrov has fallen out of favour with putin" }
+TnstitKioi@{ shape: win-pane, label: "_Published Oct 26, 2025, 10:05 AM_
+Trump not ‘wasting time’ with putin as kremlin envoy visits us" }
+Psonrsfltlasi@{ shape: win-pane, label: "_Published Oct 25, 2025, 12:40 AM_
+Putin’s economic envoy arrives in us for talks, after oil companies sanctioned" }
+Ucsilrrionitncr@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:27 PM_
+Us sanctions russian oil majors over ukraine, prompting india jitters and moscow fury" }
 
-TmHrbdssincrn:::txtsize --> Ucsilrrionitncr:::txtsize
-Ucsilrrionitncr:::txtsize --> UpmucssorirPwht:::txtsize
-UpmucssorirPwht:::txtsize --> ErtkftassewUn:::txtsize
-UpmucssorirPwht:::txtsize --> PTtiaodrieei:::txtsize
-Ucsilrrionitncr:::txtsize --> Tsemunpogrnil:::txtsize
-Tsemunpogrnil:::txtsize --> TPdtsUncamre:::txtsize
-Tsemunpogrnil:::txtsize --> Tdrcaaededlncbs:::txtsize
+WYresemhiN:::txtsize --> Hrbksronsiaiue:::txtsize
+Hrbksronsiaiue:::txtsize --> BiuwKablke:::txtsize
+BiuwKablke:::txtsize --> TPdtsUncamre:::txtsize
+BiuwKablke:::txtsize --> Unlyphaiogh:::txtsize
+WYresemhiN:::txtsize --> RaislnLvaofrP:::txtsize
+RaislnLvaofrP:::txtsize --> TnstitKioi:::txtsize
+TnstitKioi:::txtsize --> Psonrsfltlasi:::txtsize
+TnstitKioi:::txtsize --> Ucsilrrionitncr:::txtsize
 
-BsnhIeeoiaLn@{ shape: win-pane, label: "_Published Nov 08, 2025, 02:00 AM_
-British grandmother on indonesia death row arrives back in london" }
-Fhnndrrsrrocldpn@{ shape: win-pane, label: "_Published Jul 18, 2025, 06:47 PM_
-Frenchman on indonesia death row for almost 20 years over drug offences released from prison" }
-Ieaveeosfpa@{ shape: win-pane, label: "_Published Feb 04, 2025, 08:45 PM_
-Indonesia hands over french death row prisoner for repatriation" }
-FiIeeoeew@{ shape: win-pane, label: "_Published Dec 17, 2024, 11:51 PM_
-Filipina on indonesia death row flies home to ‘new life’" }
-Fiaxensrhnie@{ shape: win-pane, label: "_Published Dec 18, 2024, 08:15 AM_
-Filipina nearly executed in indonesia arrives home in philippines" }
-FiIeeoeew@{ shape: win-pane, label: "_Published Dec 17, 2024, 11:51 PM_
-Filipina on indonesia death row flies home to ‘new life’" }
-IegtnFiawcchln@{ shape: win-pane, label: "_Published Nov 20, 2024, 08:05 PM_
-Indonesia agrees to transfer filipina death row drug convict to the philippines" }
-FiIeeosnartlnie@{ shape: win-pane, label: "_Published Dec 13, 2024, 04:49 PM_
-Filipina on indonesia death row says planned transfer back to philippines a ‘miracle’" }
-FiIeeoeew@{ shape: win-pane, label: "_Published Dec 17, 2024, 11:51 PM_
-Filipina on indonesia death row flies home to ‘new life’" }
-IegtnFiawcchln@{ shape: win-pane, label: "_Published Nov 20, 2024, 08:05 PM_
-Indonesia agrees to transfer filipina death row drug convict to the philippines" }
-Sahursnhpfllggcn@{ shape: win-pane, label: "_Published Sep 28, 2023, 12:42 PM_
-S’porean mother, daughter arrested in the philippines for allegedly smuggling 14kg of cocaine" }
-PpSegrundDtw@{ shape: win-pane, label: "_Published Nov 02, 2024, 10:00 AM_
-Philippine senate’s drug war probe turns into rodrigo duterte show" }
-FiIeeosnartlnie@{ shape: win-pane, label: "_Published Dec 13, 2024, 04:49 PM_
-Filipina on indonesia death row says planned transfer back to philippines a ‘miracle’" }
-PpsnaoaftiFidr@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:41 AM_
-Philippines, indonesia agree on details of repatriation of filipina on death row" }
-Freaegehl@{ shape: win-pane, label: "_Published Sep 17, 2024, 05:55 PM_
-Four arrested in bali over drugs face death penalty" }
+Clvtasepu@{ shape: win-pane, label: "_Published Nov 08, 2025, 04:54 AM_
+Cornell university to pay $60m to settle trump dispute" }
+UefrUraott@{ shape: win-pane, label: "_Published Apr 09, 2025, 11:05 AM_
+Us freezes $1.4b for cornell university and $1b for northwestern" }
+TttinrfnrSi@{ shape: win-pane, label: "_Published Apr 01, 2025, 06:57 AM_
+Trump threatens $12 billion in harvard funding over ‘anti-semitism’" }
+AmntteeCbdie@{ shape: win-pane, label: "_Published Mar 23, 2025, 11:59 AM_
+Academia confronts a watershed moment at columbia, and the right revels" }
+Yadvlsudstto@{ shape: win-pane, label: "_Published Mar 30, 2025, 10:30 AM_
+Yale, harvard remove employees as trump adds pressure to elite schools" }
+Tpdiouoslle@{ shape: win-pane, label: "_Published Mar 09, 2025, 09:20 AM_
+Trump pulled $400 million from columbia, other schools could be next" }
+UcinntoivtrSili@{ shape: win-pane, label: "_Published Mar 08, 2025, 02:51 AM_
+Us cancels $530m in grants, contracts to columbia university over anti-semitism allegations" }
+Ttedipeoeo@{ shape: win-pane, label: "_Published Mar 06, 2025, 01:55 PM_
+Trump to order us education department abolished: report" }
+Hrdnlnyinnar@{ shape: win-pane, label: "_Published Oct 17, 2025, 03:05 AM_
+Harvard’s endowment swells to nearly $74 billion; donations hit a record" }
+TaiteHruertdaeseo@{ shape: win-pane, label: "_Published Aug 01, 2025, 04:14 AM_
+Trump administration refers harvard to justice department to address anti-semitism allegations" }
+BUrmawhtseei@{ shape: win-pane, label: "_Published Jul 31, 2025, 08:05 AM_
+Brown university makes a deal with the white house to restore funding" }
+WHsfftnssrme@{ shape: win-pane, label: "_Published Jul 26, 2025, 07:39 AM_
+White house seeks fines from other universities after columbia deal" }
+BUrrtiuasaat@{ shape: win-pane, label: "_Published Oct 16, 2025, 07:00 AM_
+Brown university rejects a white house deal for special treatment" }
+TosoeftugrtM@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:00 AM_
+Trump offers all colleges preferential funding plan rejected by mit" }
+BbetnssugtsT@{ shape: win-pane, label: "_Published Aug 05, 2025, 08:59 AM_
+Badly bruised elite us universities are rushing to cut deals with trump" }
 
-BsnhIeeoiaLn:::txtsize --> Fhnndrrsrrocldpn:::txtsize
-Fhnndrrsrrocldpn:::txtsize --> Ieaveeosfpa:::txtsize
-Ieaveeosfpa:::txtsize --> FiIeeoeew:::txtsize
-Ieaveeosfpa:::txtsize --> Fiaxensrhnie:::txtsize
-Fhnndrrsrrocldpn:::txtsize --> FiIeeoeew:::txtsize
-FiIeeoeew:::txtsize --> IegtnFiawcchln:::txtsize
-FiIeeoeew:::txtsize --> FiIeeosnartlnie:::txtsize
-BsnhIeeoiaLn:::txtsize --> FiIeeoeew:::txtsize
-FiIeeoeew:::txtsize --> IegtnFiawcchln:::txtsize
-IegtnFiawcchln:::txtsize --> Sahursnhpfllggcn:::txtsize
-IegtnFiawcchln:::txtsize --> PpSegrundDtw:::txtsize
-FiIeeoeew:::txtsize --> FiIeeosnartlnie:::txtsize
-FiIeeosnartlnie:::txtsize --> PpsnaoaftiFidr:::txtsize
-FiIeeosnartlnie:::txtsize --> Freaegehl:::txtsize
+Clvtasepu:::txtsize --> UefrUraott:::txtsize
+UefrUraott:::txtsize --> TttinrfnrSi:::txtsize
+TttinrfnrSi:::txtsize --> AmntteeCbdie:::txtsize
+TttinrfnrSi:::txtsize --> Yadvlsudstto:::txtsize
+UefrUraott:::txtsize --> Tpdiouoslle:::txtsize
+Tpdiouoslle:::txtsize --> UcinntoivtrSili:::txtsize
+Tpdiouoslle:::txtsize --> Ttedipeoeo:::txtsize
+Clvtasepu:::txtsize --> Hrdnlnyinnar:::txtsize
+Hrdnlnyinnar:::txtsize --> TaiteHruertdaeseo:::txtsize
+TaiteHruertdaeseo:::txtsize --> BUrmawhtseei:::txtsize
+TaiteHruertdaeseo:::txtsize --> WHsfftnssrme:::txtsize
+Hrdnlnyinnar:::txtsize --> BUrrtiuasaat:::txtsize
+BUrrtiuasaat:::txtsize --> TosoeftugrtM:::txtsize
+BUrrtiuasaat:::txtsize --> BbetnssugtsT:::txtsize
 
 ```
-<i>Last updated: 2025-11-08 04:00:57.574589 (GMT+8)</i>
+<i>Last updated: 2025-11-08 08:00:28.948543 (GMT+8)</i>
 <!-- END -->
