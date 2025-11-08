@@ -16,144 +16,84 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ugemeyrtldrdo@{ shape: win-pane, label: "_Published Nov 08, 2025, 11:30 AM_
-Us judge rules trump illegally ordered national guard to portland, oregon" }
-Eiollusrtlt@{ shape: win-pane, label: "_Published Jun 10, 2025, 07:37 AM_
-Explainer: does us law allow trump to send troops to quell protests?" }
-Nnapdslitasiii@{ shape: win-pane, label: "_Published Jun 09, 2025, 01:32 AM_
-National guard deployed in los angeles amid protests against immigration raids" }
-UroeudrotoVus@{ shape: win-pane, label: "_Published May 20, 2025, 04:34 AM_
-Us supreme court lets trump end deportation protection for venezuelans" }
-Ropssennsrgod@{ shape: win-pane, label: "_Published Jun 07, 2025, 12:36 PM_
-Riot police, protesters square off in los angeles after immigration raids" }
-TdyisiieAet@{ shape: win-pane, label: "_Published Jun 10, 2025, 06:38 AM_
-Trump deploys marines as tensions rise over los angeles protests" }
-Eiollusrtlt@{ shape: win-pane, label: "_Published Jun 10, 2025, 07:37 AM_
-Explainer: does us law allow trump to send troops to quell protests?" }
-LgIietreke@{ shape: win-pane, label: "_Published Jun 10, 2025, 05:48 AM_
-Los angeles ice raids fuel controversy over masked agents" }
-Palamopefde@{ shape: win-pane, label: "_Published Oct 30, 2025, 07:20 AM_
-Portland police say trump’s troop deployment inflamed protests" }
-UgcuemfoiGttfw@{ shape: win-pane, label: "_Published Oct 05, 2025, 09:28 AM_
-Us judge blocks trump’s deployment of oregon national guard to portland for now" }
-OntpplnStol@{ shape: win-pane, label: "_Published Sep 29, 2025, 07:15 AM_
-Oregon sues to stop trump’s deployment of us military to portland" }
-Twtfattaawrtr@{ shape: win-pane, label: "_Published Oct 04, 2025, 09:32 AM_
-Trump wants to cut federal aid to portland as his anger with protesters grows" }
-Tttaatnaaw@{ shape: win-pane, label: "_Published Apr 29, 2025, 04:32 AM_
-Trump targets us 'sanctuary cities' in migrant crackdown" }
-Tsnrnakixss@{ shape: win-pane, label: "_Published Apr 28, 2025, 09:01 PM_
-Trump’s poll numbers sag near 100-day mark, raising tax-plan stakes" }
-Rlsoagyespa@{ shape: win-pane, label: "_Published Apr 29, 2025, 05:55 AM_
-Republicans propose charging us asylum seekers $1,300 per application" }
+Ptnthvdnrhg@{ shape: win-pane, label: "_Published Nov 08, 2025, 03:56 PM_
+Palestinian militants hand over body of another gaza hostage" }
+Tdrzooetum@{ shape: win-pane, label: "_Published Oct 13, 2025, 05:59 AM_
+Trump declares gaza war ‘over’; hostages due to return home" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
 
-Ugemeyrtldrdo:::txtsize --> Eiollusrtlt:::txtsize
-Eiollusrtlt:::txtsize --> Nnapdslitasiii:::txtsize
-Nnapdslitasiii:::txtsize --> UroeudrotoVus:::txtsize
-Nnapdslitasiii:::txtsize --> Ropssennsrgod:::txtsize
-Eiollusrtlt:::txtsize --> TdyisiieAet:::txtsize
-TdyisiieAet:::txtsize --> Eiollusrtlt:::txtsize
-TdyisiieAet:::txtsize --> LgIietreke:::txtsize
-Ugemeyrtldrdo:::txtsize --> Palamopefde:::txtsize
-Palamopefde:::txtsize --> UgcuemfoiGttfw:::txtsize
-UgcuemfoiGttfw:::txtsize --> OntpplnStol:::txtsize
-UgcuemfoiGttfw:::txtsize --> Twtfattaawrtr:::txtsize
-Palamopefde:::txtsize --> Tttaatnaaw:::txtsize
-Tttaatnaaw:::txtsize --> Tsnrnakixss:::txtsize
-Tttaatnaaw:::txtsize --> Rlsoagyespa:::txtsize
+Ptnthvdnrhg:::txtsize --> Tdrzooetum:::txtsize
+Tdrzooetum:::txtsize --> AtHfezerydatoGel:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
 
-Vnerdtmverulo@{ shape: win-pane, label: "_Published Nov 08, 2025, 11:22 AM_
-Virginia teen narrowly defeats former civics teacher in county election" }
-Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
-Takeaways from us election night 2025" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
-Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
-Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
-Takeaways from us election night 2025" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
-Cuomo to stay in new york mayoral race despite losing democratic primary" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
-Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
-TbCttousoscolsdsr@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:15 AM_
-Trump backs cuomo, threatens to cut funds as new yorkers expected to pick leftist mamdani as mayor" }
-OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
-Obama calls mamdani, praises campaign ahead of new york mayoral election" }
-Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
-Takeaways from us election night 2025" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
+Pryeripbn@{ shape: win-pane, label: "_Published Nov 08, 2025, 02:02 PM_
+Pfizer to buy metsera for $13 billion, capping bidding war" }
+Tulloofwtd@{ shape: win-pane, label: "_Published Nov 07, 2025, 07:03 AM_
+Trump unveils deals to lower costs of some weight-loss drugs" }
+Wyceuotiwlvepige@{ shape: win-pane, label: "_Published Jul 12, 2025, 06:15 PM_
+Wegovy, injectable drug used to treat obesity, now available via prescription in singapore" }
+WyootagsSonodnei@{ shape: win-pane, label: "_Published Apr 02, 2023, 02:50 PM_
+Wegovy approved for use to treat weight issues; hsa removes unauthorised online sale listings" }
+Tkosiegeloos@{ shape: win-pane, label: "_Published Feb 28, 2023, 03:27 PM_
+Tiktok videos on use of diabetes drug for weight loss worry doctors" }
 
-Vnerdtmverulo:::txtsize --> Twreig:::txtsize
-Twreig:::txtsize --> YMmnoihaiYilehpea:::txtsize
-YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
-YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
-Twreig:::txtsize --> Drwialosdp:::txtsize
-Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
-Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
-Vnerdtmverulo:::txtsize --> YMmnoihaiYilehpea:::txtsize
-YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
-YMmimociYaoauoc:::txtsize --> TbCttousoscolsdsr:::txtsize
-YMmimociYaoauoc:::txtsize --> OcMniagaekren:::txtsize
-YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
-Twreig:::txtsize --> YMmnoihaiYilehpea:::txtsize
-Twreig:::txtsize --> Drwialosdp:::txtsize
+Pryeripbn:::txtsize --> Tulloofwtd:::txtsize
+Tulloofwtd:::txtsize --> Wyceuotiwlvepige:::txtsize
+Wyceuotiwlvepige:::txtsize --> WyootagsSonodnei:::txtsize
+Wyceuotiwlvepige:::txtsize --> Tkosiegeloos:::txtsize
 
-MicdIcbecolrcni@{ shape: win-pane, label: "_Published Nov 08, 2025, 10:37 AM_
-Mistrial declared for mit-educated brothers accused of $32.5 million cryptocurrency heist" }
-Humucohyanr@{ shape: win-pane, label: "_Published Jan 12, 2025, 10:00 AM_
-How trump came around to crypto – and what crypto wants in return" }
-TsbchioUdetne@{ shape: win-pane, label: "_Published Nov 06, 2024, 07:37 AM_
-Trump set to be elected 47th president of the united states in stunning comeback" }
-Hrtoessmemt@{ shape: win-pane, label: "_Published Nov 06, 2024, 03:17 PM_
-‘historic return’: world leaders praise trump as he claims victory" }
-PgfctteetiuT@{ shape: win-pane, label: "_Published Nov 06, 2024, 08:59 PM_
-Pm wong reaffirms commitment to strengthening ties with us under trump" }
-Coeisnrdlnpo@{ shape: win-pane, label: "_Published Nov 14, 2024, 04:16 PM_
-Crypto market capitalisation hits record $4.3 trillion on trump euphoria" }
-Tesnmnoo@{ shape: win-pane, label: "_Published Nov 14, 2024, 08:05 AM_
-Trump enters second term with near-total power" }
-Sntnoreabebcoin@{ shape: win-pane, label: "_Published Nov 14, 2024, 05:00 AM_
-S’pore non-retail investors more likely than global peers to boost crypto holdings in 2025: poll" }
-Mrbdtstlgene@{ shape: win-pane, label: "_Published Nov 15, 2024, 08:31 AM_
-Mastermind behind crypto heist worth billions gets 5-year sentence" }
-Atytvcfnuoehe@{ shape: win-pane, label: "_Published Jan 24, 2024, 10:00 PM_
-Amount in crypto stolen via hacking fell in 2023 but number of cases on the rise" }
-GltmgdnCasr@{ shape: win-pane, label: "_Published Jan 18, 2024, 10:00 PM_
-Global crypto criminal gains down in 2023, says chainalysis report" }
-Mebyastgurtuap@{ shape: win-pane, label: "_Published Jan 08, 2024, 09:00 PM_
-Most key global crypto markets tightening consumer protection rules, says report" }
-Hrilrpoyas@{ shape: win-pane, label: "_Published Feb 01, 2024, 05:05 PM_
-Hackers drain $150 million from ripple boss’ crypto wallets" }
-Atytvcfnuoehe@{ shape: win-pane, label: "_Published Jan 24, 2024, 10:00 PM_
-Amount in crypto stolen via hacking fell in 2023 but number of cases on the rise" }
-Sparfiektin@{ shape: win-pane, label: "_Published Jan 04, 2023, 03:49 PM_
-Singapore-based crypto firm hit by dec 26 hack, more than $10 million lost" }
+DvseCannpib@{ shape: win-pane, label: "_Published Nov 08, 2025, 12:31 PM_
+Doj moves to subpoena ex-cia head brennan on trump-russia probe" }
+Upgoreueitrilcra@{ shape: win-pane, label: "_Published Nov 07, 2025, 05:45 AM_
+Us preparing subpoenas related to 2016 russia election-interference intelligence, sources say" }
+UnRalerstlorTope@{ shape: win-pane, label: "_Published Sep 05, 2024, 03:51 AM_
+Us counters russian influence before 2024 presidential election, charges rt network employees" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Ueefaisifrsti@{ shape: win-pane, label: "_Published Jul 10, 2024, 06:10 AM_
+Us intelligence official indicates russia prefers trump as election victor" }
+Taemrncisrts@{ shape: win-pane, label: "_Published Jul 23, 2025, 02:48 AM_
+Trump accuses obama of treason in escalating 2016 russia probe attacks" }
+Tpfihgashlc@{ shape: win-pane, label: "_Published Jul 22, 2025, 06:59 AM_
+Trump posts fake video showing obama arrest in the oval office" }
+UcGriamtoeniu@{ shape: win-pane, label: "_Published Jul 19, 2025, 11:45 AM_
+Us spy chief gabbard claims obama administration tried to undermine trump in 2016" }
+Urotnrhrpso@{ shape: win-pane, label: "_Published Oct 06, 2025, 11:46 PM_
+Us supreme court starts new term, with major trump cases in store" }
+Uroeeeinwp@{ shape: win-pane, label: "_Published Oct 06, 2025, 11:35 PM_
+Us supreme court declines to hear ghislaine maxwell appeal" }
+Gaaltiginlea@{ shape: win-pane, label: "_Published Sep 18, 2024, 12:12 AM_
+Ghislaine maxwell’s sex-trafficking conviction upheld, appeal planned" }
+Usopnesemirnfg@{ shape: win-pane, label: "_Published Sep 16, 2025, 03:25 AM_
+Us prosecutor in epstein, maxwell cases sues trump administration over firing" }
+Uroeurmrtoear@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:15 AM_
+Us supreme court lets trump strip temporary status from venezuelan migrants" }
+Pefttrshoatev@{ shape: win-pane, label: "_Published Oct 04, 2025, 03:30 AM_
+Police scuffle with protesters outside chicago ice facility, arrest several" }
+Ulrwcldslo@{ shape: win-pane, label: "_Published Oct 04, 2025, 01:36 AM_
+Us kills four in new attack on alleged drug-smuggling boat" }
 
-MicdIcbecolrcni:::txtsize --> Humucohyanr:::txtsize
-Humucohyanr:::txtsize --> TsbchioUdetne:::txtsize
-TsbchioUdetne:::txtsize --> Hrtoessmemt:::txtsize
-TsbchioUdetne:::txtsize --> PgfctteetiuT:::txtsize
-Humucohyanr:::txtsize --> Coeisnrdlnpo:::txtsize
-Coeisnrdlnpo:::txtsize --> Tesnmnoo:::txtsize
-Coeisnrdlnpo:::txtsize --> Sntnoreabebcoin:::txtsize
-MicdIcbecolrcni:::txtsize --> Mrbdtstlgene:::txtsize
-Mrbdtstlgene:::txtsize --> Atytvcfnuoehe:::txtsize
-Atytvcfnuoehe:::txtsize --> GltmgdnCasr:::txtsize
-Atytvcfnuoehe:::txtsize --> Mebyastgurtuap:::txtsize
-Mrbdtstlgene:::txtsize --> Hrilrpoyas:::txtsize
-Hrilrpoyas:::txtsize --> Atytvcfnuoehe:::txtsize
-Hrilrpoyas:::txtsize --> Sparfiektin:::txtsize
+DvseCannpib:::txtsize --> Upgoreueitrilcra:::txtsize
+Upgoreueitrilcra:::txtsize --> UnRalerstlorTope:::txtsize
+UnRalerstlorTope:::txtsize --> DsruasvUn:::txtsize
+UnRalerstlorTope:::txtsize --> Ueefaisifrsti:::txtsize
+Upgoreueitrilcra:::txtsize --> Taemrncisrts:::txtsize
+Taemrncisrts:::txtsize --> Tpfihgashlc:::txtsize
+Taemrncisrts:::txtsize --> UcGriamtoeniu:::txtsize
+DvseCannpib:::txtsize --> Urotnrhrpso:::txtsize
+Urotnrhrpso:::txtsize --> Uroeeeinwp:::txtsize
+Uroeeeinwp:::txtsize --> Gaaltiginlea:::txtsize
+Uroeeeinwp:::txtsize --> Usopnesemirnfg:::txtsize
+Urotnrhrpso:::txtsize --> Uroeurmrtoear:::txtsize
+Uroeurmrtoear:::txtsize --> Pefttrshoatev:::txtsize
+Uroeurmrtoear:::txtsize --> Ulrwcldslo:::txtsize
 
 ```
-<i>Last updated: 2025-11-08 12:01:02.443521 (GMT+8)</i>
+<i>Last updated: 2025-11-08 16:00:26.774713 (GMT+8)</i>
 <!-- END -->
