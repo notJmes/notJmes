@@ -16,144 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Lronaiesipttam@{ shape: win-pane, label: "_Published Nov 08, 2025, 11:00 PM_
-Lula tries to expand oil and rainforests as brazil prepares to host climate summit" }
-WlrnmfrledP@{ shape: win-pane, label: "_Published Nov 07, 2025, 07:21 AM_
-World leaders warned of ‘moral failure’ on climate ahead of cop30" }
-UeltfictlrhCast@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:50 PM_
-Un chief scolds nations for failing climate goals as brazil hosts cop30 leaders’ summit" }
-EterneleeioaC@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:32 PM_
-Eu tentatively agrees on weakened climate target in final-hour deal for cop30" }
-UleflOmahoa@{ shape: win-pane, label: "_Published Nov 01, 2025, 01:46 AM_
-Us will not send officials to cop30 climate talks, white house says" }
-yomarsfalii@{ shape: win-pane, label: "_Published Nov 06, 2025, 05:05 PM_
-30 years of climate talks: progress, pitfalls and a planet in peril" }
-TtUtaastogl@{ shape: win-pane, label: "_Published Sep 24, 2025, 12:17 AM_
-Trump tells un that climate change is ‘greatest con job’ globally" }
-WwvogmoneUn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:22 PM_
-World will overshoot 1.5 deg c climate goal in next decade, un warns" }
-Blinteaaiss@{ shape: win-pane, label: "_Published Mar 15, 2025, 01:51 PM_
-Brazil has $167 billion plan to make cop30 talks rare climate success" }
-Spctgomoopaglr@{ shape: win-pane, label: "_Published Feb 14, 2025, 03:10 PM_
-Singapore’s 2035 climate target: a commitment to act now despite waning global interest" }
-Speeeiasnkage@{ shape: win-pane, label: "_Published Feb 10, 2025, 06:40 PM_
-Singapore releases new emissions targets for 2035, on track to reaching net zero by 2050" }
-Speeeiasnkage@{ shape: win-pane, label: "_Published Feb 10, 2025, 06:40 PM_
-Singapore releases new emissions targets for 2035, on track to reaching net zero by 2050" }
-Dsctdsrei@{ shape: win-pane, label: "_Published Mar 13, 2025, 04:45 PM_
-Doubts over climate funding as donors squeeze aid" }
-SlWoaaP@{ shape: win-pane, label: "_Published Nov 02, 2024, 05:00 AM_
-St explains: what’s on the agenda at cop29?" }
-Twrrriamg@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:36 AM_
-Trump withdraws from paris climate agreement, again" }
+SdroisdshazaeaUn@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:53 AM_
+Second external power line restored at russian-held zaporizhzhia nuclear plant in ukraine" }
+Zsrcctofdrhcp@{ shape: win-pane, label: "_Published Oct 01, 2025, 03:45 AM_
+Zelensky warns of ‘critical’ situation at off-grid zaporizhzhia nuclear plant" }
+Ziilolfdiarl@{ shape: win-pane, label: "_Published Sep 28, 2025, 03:53 AM_
+Zaporizhzhia nuclear power plant off grid; russia, ukraine trade blame" }
+PcUnphnanvest@{ shape: win-pane, label: "_Published Jul 05, 2025, 01:36 AM_
+Power cut to ukraine’s zaporizhzhia nuclear plant; kyiv blames russian strike" }
+IGicUnphnankesi@{ shape: win-pane, label: "_Published Apr 12, 2024, 12:35 AM_
+Iaea’s grossi: attacks on ukraine’s zaporizhzhia nuclear plant risk ‘dangerous’ shift in war" }
+PcUnphnanvest@{ shape: win-pane, label: "_Published Jul 05, 2025, 01:36 AM_
+Power cut to ukraine’s zaporizhzhia nuclear plant; kyiv blames russian strike" }
+TZsswnssttsr@{ shape: win-pane, label: "_Published Jul 04, 2025, 10:51 PM_
+Trump, zelensky discuss weapons, russia’s escalating strikes in ukraine" }
+Rahfesresoa@{ shape: win-pane, label: "_Published Jul 05, 2025, 12:25 AM_
+Russia brushes off peace talks after largest assault on ukraine" }
+Ralcooneyllke@{ shape: win-pane, label: "_Published Oct 02, 2025, 03:39 AM_
+Russian shelling cuts power to defunct chernobyl nuclear plant, ukraine says" }
+Zsrcctofdrhcp@{ shape: win-pane, label: "_Published Oct 01, 2025, 03:45 AM_
+Zelensky warns of ‘critical’ situation at off-grid zaporizhzhia nuclear plant" }
+Ziilolfdiarl@{ shape: win-pane, label: "_Published Sep 28, 2025, 03:53 AM_
+Zaporizhzhia nuclear power plant off grid; russia, ukraine trade blame" }
+PcUnphnanvest@{ shape: win-pane, label: "_Published Jul 05, 2025, 01:36 AM_
+Power cut to ukraine’s zaporizhzhia nuclear plant; kyiv blames russian strike" }
+Ranueyeaiceirely@{ shape: win-pane, label: "_Published Feb 14, 2025, 03:59 PM_
+Russian drone ‘struck’ chernobyl cover, no radiation increase: ukraine’s president zelensky" }
+Tswunirwnmsdcgl@{ shape: win-pane, label: "_Published Feb 13, 2025, 11:55 PM_
+Trump’s call with putin on ukraine: europe’s worst nightmare is rapidly becoming a reality" }
+Nesoaotboiy@{ shape: win-pane, label: "_Published Feb 14, 2025, 06:34 AM_
+Nato membership for ukraine not off the table, us official says" }
 
-Lronaiesipttam:::txtsize --> WlrnmfrledP:::txtsize
-WlrnmfrledP:::txtsize --> UeltfictlrhCast:::txtsize
-UeltfictlrhCast:::txtsize --> EterneleeioaC:::txtsize
-UeltfictlrhCast:::txtsize --> UleflOmahoa:::txtsize
-WlrnmfrledP:::txtsize --> yomarsfalii:::txtsize
-yomarsfalii:::txtsize --> TtUtaastogl:::txtsize
-yomarsfalii:::txtsize --> WwvogmoneUn:::txtsize
-Lronaiesipttam:::txtsize --> Blinteaaiss:::txtsize
-Blinteaaiss:::txtsize --> Spctgomoopaglr:::txtsize
-Spctgomoopaglr:::txtsize --> Speeeiasnkage:::txtsize
-Spctgomoopaglr:::txtsize --> Speeeiasnkage:::txtsize
-Blinteaaiss:::txtsize --> Dsctdsrei:::txtsize
-Dsctdsrei:::txtsize --> SlWoaaP:::txtsize
-Dsctdsrei:::txtsize --> Twrrriamg:::txtsize
+SdroisdshazaeaUn:::txtsize --> Zsrcctofdrhcp:::txtsize
+Zsrcctofdrhcp:::txtsize --> Ziilolfdiarl:::txtsize
+Ziilolfdiarl:::txtsize --> PcUnphnanvest:::txtsize
+Ziilolfdiarl:::txtsize --> IGicUnphnankesi:::txtsize
+Zsrcctofdrhcp:::txtsize --> PcUnphnanvest:::txtsize
+PcUnphnanvest:::txtsize --> TZsswnssttsr:::txtsize
+PcUnphnanvest:::txtsize --> Rahfesresoa:::txtsize
+SdroisdshazaeaUn:::txtsize --> Ralcooneyllke:::txtsize
+Ralcooneyllke:::txtsize --> Zsrcctofdrhcp:::txtsize
+Zsrcctofdrhcp:::txtsize --> Ziilolfdiarl:::txtsize
+Zsrcctofdrhcp:::txtsize --> PcUnphnanvest:::txtsize
+Ralcooneyllke:::txtsize --> Ranueyeaiceirely:::txtsize
+Ranueyeaiceirely:::txtsize --> Tswunirwnmsdcgl:::txtsize
+Ranueyeaiceirely:::txtsize --> Nesoaotboiy:::txtsize
 
-Rarykrnneolsur@{ shape: win-pane, label: "_Published Nov 08, 2025, 10:55 PM_
-Russia’s lavrov says work under way on putin’s order on possible russian nuclear test" }
-PosoosRale@{ shape: win-pane, label: "_Published Nov 06, 2025, 12:55 AM_
-Putin orders proposals on possible russian nuclear test" }
-Taeomareinap@{ shape: win-pane, label: "_Published Oct 30, 2025, 09:50 AM_
-Trump asks pentagon to immediately resume testing us nuclear weapons" }
-RasepPdprPs@{ shape: win-pane, label: "_Published Oct 29, 2025, 08:36 PM_
-Russia tests nuclear-capable poseidon super torpedo, putin says" }
-Tsuoolrnssai@{ shape: win-pane, label: "_Published Oct 06, 2025, 02:01 AM_
-Trump says putin’s offer on nuclear arms control ‘sounds like a good idea’" }
-TPsteaMwmoinp@{ shape: win-pane, label: "_Published Oct 31, 2025, 01:46 PM_
-Trump-putin summit cancelled after moscow sent memo to washington, ft reports" }
-Tstotpottea@{ shape: win-pane, label: "_Published Oct 31, 2025, 01:51 AM_
-Trump stirs tensions with surprise order to test nuclear weapons" }
-Zsyvyeaulerr@{ shape: win-pane, label: "_Published Oct 28, 2025, 05:25 PM_
-Zelensky says kyiv ready for peace talks, but will not cede territory" }
-Tstotpottea@{ shape: win-pane, label: "_Published Oct 31, 2025, 01:51 AM_
-Trump stirs tensions with surprise order to test nuclear weapons" }
-Taeomareinap@{ shape: win-pane, label: "_Published Oct 30, 2025, 09:50 AM_
-Trump asks pentagon to immediately resume testing us nuclear weapons" }
-RasepPdprPs@{ shape: win-pane, label: "_Published Oct 29, 2025, 08:36 PM_
-Russia tests nuclear-capable poseidon super torpedo, putin says" }
-Tsuoolrnssai@{ shape: win-pane, label: "_Published Oct 06, 2025, 02:01 AM_
-Trump says putin’s offer on nuclear arms control ‘sounds like a good idea’" }
-RasepPdprPs@{ shape: win-pane, label: "_Published Oct 29, 2025, 08:36 PM_
-Russia tests nuclear-capable poseidon super torpedo, putin says" }
-Tsuheeiress@{ shape: win-pane, label: "_Published Oct 27, 2025, 04:55 PM_
-Trump says putin should end the ukraine war, not test missiles" }
-Rasniurruie@{ shape: win-pane, label: "_Published Oct 26, 2025, 04:01 PM_
-Russia tests new ‘invincible’ nuclear-powered cruise missile" }
+Sioagieiybe@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:19 AM_
+Stinking, spongy, dark, huge: a spider web unlike any seen before" }
+HyyenoksSppoibni@{ shape: win-pane, label: "_Published Mar 17, 2025, 05:00 AM_
+How a mystery spider’s candyfloss-like egg sac in singapore spun a worldwide web of connections" }
+Rrihodledigige@{ shape: win-pane, label: "_Published Mar 13, 2024, 08:19 PM_
+Rare crab spider that looks and smells like bird dropping sighted in singapore" }
+Dveuuatfecnein@{ shape: win-pane, label: "_Published Dec 19, 2022, 05:00 AM_
+Deceive or be devoured: survival tactics of 790 spider species in s’pore detailed in book" }
+Ogdgtgedn@{ shape: win-pane, label: "_Published May 08, 2023, 05:00 AM_
+On the ground at night with singapore’s spider-men" }
+Ogdgtgedn@{ shape: win-pane, label: "_Published May 08, 2023, 05:00 AM_
+On the ground at night with singapore’s spider-men" }
+tsekeyoglioa@{ shape: win-pane, label: "_Published May 08, 2023, 05:00 AM_
+6 things you need to know before you go on a night walk in singapore’s parks" }
 
-Rarykrnneolsur:::txtsize --> PosoosRale:::txtsize
-PosoosRale:::txtsize --> Taeomareinap:::txtsize
-Taeomareinap:::txtsize --> RasepPdprPs:::txtsize
-Taeomareinap:::txtsize --> Tsuoolrnssai:::txtsize
-PosoosRale:::txtsize --> TPsteaMwmoinp:::txtsize
-TPsteaMwmoinp:::txtsize --> Tstotpottea:::txtsize
-TPsteaMwmoinp:::txtsize --> Zsyvyeaulerr:::txtsize
-Rarykrnneolsur:::txtsize --> Tstotpottea:::txtsize
-Tstotpottea:::txtsize --> Taeomareinap:::txtsize
-Taeomareinap:::txtsize --> RasepPdprPs:::txtsize
-Taeomareinap:::txtsize --> Tsuoolrnssai:::txtsize
-Tstotpottea:::txtsize --> RasepPdprPs:::txtsize
-RasepPdprPs:::txtsize --> Tsuheeiress:::txtsize
-RasepPdprPs:::txtsize --> Rasniurruie:::txtsize
+Sioagieiybe:::txtsize --> HyyenoksSppoibni:::txtsize
+HyyenoksSppoibni:::txtsize --> Rrihodledigige:::txtsize
+Rrihodledigige:::txtsize --> Dveuuatfecnein:::txtsize
+Rrihodledigige:::txtsize --> Ogdgtgedn:::txtsize
+HyyenoksSppoibni:::txtsize --> Ogdgtgedn:::txtsize
+Ogdgtgedn:::txtsize --> tsekeyoglioa:::txtsize
 
-Tdleiuoar@{ shape: win-pane, label: "_Published Nov 08, 2025, 10:05 PM_
-Tornado kills at least six, injures more than 400 in brazil" }
-TdlierP@{ shape: win-pane, label: "_Published Oct 21, 2025, 07:10 AM_
-Tornado kills one, injures four near paris" }
-Awwemncgmxe@{ shape: win-pane, label: "_Published Jul 06, 2025, 11:30 AM_
-As the world warms, extreme rain is becoming even more extreme" }
-Dtrxoesaztig@{ shape: win-pane, label: "_Published Jul 06, 2025, 08:55 AM_
-Death toll from texas floods reaches at least 50; dozens still missing" }
-Coseleesda@{ shape: win-pane, label: "_Published Jul 05, 2025, 05:18 PM_
-California’s biggest wildfire of the year spreads to 28,000ha" }
-Semnsmhsca@{ shape: win-pane, label: "_Published May 17, 2025, 10:35 PM_
-Severe storms, tornadoes kill more than 25 in south-central us" }
-Utwanifttrrro@{ shape: win-pane, label: "_Published Apr 03, 2025, 05:32 PM_
-Us south, midwest face ‘generational’ flood threat after severe storms; two dead" }
-Cdxehenhingoy@{ shape: win-pane, label: "_Published Mar 09, 2025, 11:41 PM_
-Cascading extreme weather events unleash billions in damages globally" }
-AhagavSesisynpurl@{ shape: win-pane, label: "_Published Nov 07, 2025, 02:42 PM_
-As typhoon kalmaegi wreaks havoc in south-east asia, scientists say rising temperatures are to blame" }
-Tombsroimalrhp@{ shape: win-pane, label: "_Published Nov 07, 2025, 10:00 AM_
-Typhoon kalmaegi brings destruction to vietnam as death toll nears 200 in philippines" }
-TomhimriPps@{ shape: win-pane, label: "_Published Nov 06, 2025, 10:40 PM_
-Typhoon kalmaegi hits vietnam after killing 140 in philippines" }
-PfpKeioctkfe@{ shape: win-pane, label: "_Published Nov 06, 2025, 10:30 AM_
-Powerful typhoon kalmaegi poised to drench vietnam’s key coffee region" }
-Hcrnheswnitrmeee@{ shape: win-pane, label: "_Published Oct 09, 2025, 04:30 PM_
-Hk’s record-breaking typhoon season spurs warnings to invest in more climate-ready measures" }
-TavtTomhuna@{ shape: win-pane, label: "_Published Oct 05, 2025, 04:20 PM_
-Thousands evacuated as typhoon matmo lashes southern china" }
-DaglnfppRafHo@{ shape: win-pane, label: "_Published Sep 24, 2025, 11:15 PM_
-Dire warnings, early planning for super typhoon ragasa pay off for hong kong" }
+Tcfvecoilhpsola@{ shape: win-pane, label: "_Published Nov 09, 2025, 02:26 AM_
+Trump calls for giving healthcare money ‘directly to the people’ as shutdown talks drag on" }
+UajBoodwresdrd@{ shape: win-pane, label: "_Published Nov 08, 2025, 08:50 AM_
+Us senate rejects bill to restore federal worker pay, remains at odds over shutdown" }
+Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
+Us government shutdown becomes longest in history" }
+AcobeaSdnsdh@{ shape: win-pane, label: "_Published Nov 01, 2025, 01:34 AM_
+Americans worry about next meal as us shutdown enters second month" }
+Uentesraosactt@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:47 PM_
+Us government shutdown enters record 35th day as congressional inaction takes toll" }
+aWoeveunfotm@{ shape: win-pane, label: "_Published Nov 07, 2025, 05:55 PM_
+Askst: what does the us government shutdown mean for a tourist like me?" }
+Uentdoerlnh@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:45 AM_
+Us government shutdown drags on as senators fail to find path out" }
+TaitroguaSouomhw@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:35 AM_
+Trump administration orders 10% of flights cut at major us airports due to government shutdown" }
+Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
+Us government shutdown becomes longest in history" }
+AcobeaSdnsdh@{ shape: win-pane, label: "_Published Nov 01, 2025, 01:34 AM_
+Americans worry about next meal as us shutdown enters second month" }
+Waswhomhw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:42 PM_
+What happens next with the us government shutdown?" }
+Tsrermvlyuso@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:18 AM_
+Trump says private donor gave $160m to cover military pay during shutdown" }
+Uentesraosactt@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:47 PM_
+Us government shutdown enters record 35th day as congressional inaction takes toll" }
+Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
+Us government begins shutdown that may lead to mass layoffs and cuts" }
+MoAcoedaromhwmirn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:30 AM_
+Millions of americans to get reduced food aid during government shutdown: trump administration" }
 
-Tdleiuoar:::txtsize --> TdlierP:::txtsize
-TdlierP:::txtsize --> Awwemncgmxe:::txtsize
-Awwemncgmxe:::txtsize --> Dtrxoesaztig:::txtsize
-Awwemncgmxe:::txtsize --> Coseleesda:::txtsize
-TdlierP:::txtsize --> Semnsmhsca:::txtsize
-Semnsmhsca:::txtsize --> Utwanifttrrro:::txtsize
-Semnsmhsca:::txtsize --> Cdxehenhingoy:::txtsize
-Tdleiuoar:::txtsize --> AhagavSesisynpurl:::txtsize
-AhagavSesisynpurl:::txtsize --> Tombsroimalrhp:::txtsize
-Tombsroimalrhp:::txtsize --> TomhimriPps:::txtsize
-Tombsroimalrhp:::txtsize --> PfpKeioctkfe:::txtsize
-AhagavSesisynpurl:::txtsize --> Hcrnheswnitrmeee:::txtsize
-Hcrnheswnitrmeee:::txtsize --> TavtTomhuna:::txtsize
-Hcrnheswnitrmeee:::txtsize --> DaglnfppRafHo:::txtsize
+Tcfvecoilhpsola:::txtsize --> UajBoodwresdrd:::txtsize
+UajBoodwresdrd:::txtsize --> Uentbegno:::txtsize
+Uentbegno:::txtsize --> AcobeaSdnsdh:::txtsize
+Uentbegno:::txtsize --> Uentesraosactt:::txtsize
+UajBoodwresdrd:::txtsize --> aWoeveunfotm:::txtsize
+aWoeveunfotm:::txtsize --> Uentdoerlnh:::txtsize
+aWoeveunfotm:::txtsize --> TaitroguaSouomhw:::txtsize
+Tcfvecoilhpsola:::txtsize --> Uentbegno:::txtsize
+Uentbegno:::txtsize --> AcobeaSdnsdh:::txtsize
+AcobeaSdnsdh:::txtsize --> Waswhomhw:::txtsize
+AcobeaSdnsdh:::txtsize --> Tsrermvlyuso:::txtsize
+Uentbegno:::txtsize --> Uentesraosactt:::txtsize
+Uentesraosactt:::txtsize --> Ueniunmaayat:::txtsize
+Uentesraosactt:::txtsize --> MoAcoedaromhwmirn:::txtsize
 
 ```
-<i>Last updated: 2025-11-09 00:00:19.382530 (GMT+8)</i>
+<i>Last updated: 2025-11-09 04:00:44.654451 (GMT+8)</i>
 <!-- END -->
