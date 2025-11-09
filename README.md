@@ -16,8 +16,8 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ulbtefiyvendhs@{ shape: win-pane, label: "_Published Nov 09, 2025, 07:33 PM_
-Us airlines brace themselves for third day of government-mandated flight cuts" }
+Utldtiatbsrocr@{ shape: win-pane, label: "_Published Nov 09, 2025, 11:42 PM_
+Us air travel could ‘slow to a trickle’ as shutdown bites, says transport secretary" }
 TaitroguaSouomhw@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:35 AM_
 Trump administration orders 10% of flights cut at major us airports due to government shutdown" }
 Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
@@ -45,13 +45,13 @@ Us shutdown sends airlines scrambling as travel chaos looms" }
 Uentdoerlnh@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:45 AM_
 Us government shutdown drags on as senators fail to find path out" }
 
-Ulbtefiyvendhs:::txtsize --> TaitroguaSouomhw:::txtsize
+Utldtiatbsrocr:::txtsize --> TaitroguaSouomhw:::txtsize
 TaitroguaSouomhw:::txtsize --> Ueniunmaayat:::txtsize
 Ueniunmaayat:::txtsize --> TsSrtpbun:::txtsize
 TaitroguaSouomhw:::txtsize --> Lsounsrfakni:::txtsize
 Lsounsrfakni:::txtsize --> Uentbegno:::txtsize
 Lsounsrfakni:::txtsize --> Unnagnsotcaa:::txtsize
-Ulbtefiyvendhs:::txtsize --> AacofsauSsoarc:::txtsize
+Utldtiatbsrocr:::txtsize --> AacofsauSsoarc:::txtsize
 AacofsauSsoarc:::txtsize --> aWoeveunfotm:::txtsize
 aWoeveunfotm:::txtsize --> Uentdoerlnh:::txtsize
 aWoeveunfotm:::txtsize --> TaitroguaSouomhw:::txtsize
@@ -59,89 +59,71 @@ AacofsauSsoarc:::txtsize --> Uvenounpiu:::txtsize
 Uvenounpiu:::txtsize --> Utsanritlss:::txtsize
 Uvenounpiu:::txtsize --> Uentdoerlnh:::txtsize
 
-Tdhtceenafo@{ shape: win-pane, label: "_Published Nov 09, 2025, 06:23 PM_
-Turks drive hours to buy cheese in greece and escape inflation" }
-Eoogatamhosh@{ shape: win-pane, label: "_Published Nov 05, 2025, 05:38 PM_
-Euro zone economy grows at fastest pace in more than two years, pmi shows" }
-Gneenirempwe@{ shape: win-pane, label: "_Published Oct 24, 2023, 02:40 PM_
-Germany to replace japan as third-largest economy, helped by weak yen" }
-Jwoacntst@{ shape: win-pane, label: "_Published Sep 06, 2023, 09:52 AM_
-Japan warns on yen after currency hits fresh 10-month low" }
-Botgnsiirbeip@{ shape: win-pane, label: "_Published Jul 28, 2023, 08:00 PM_
-Boj loosens tight grip on rates as prices rise, markets bet on even bigger pivot" }
-PietnbgaolEccn@{ shape: win-pane, label: "_Published Nov 03, 2025, 10:17 PM_
-Populist czech vote winner babis signs coalition deal with eurosceptic partners" }
-PiaeDcibeien@{ shape: win-pane, label: "_Published Oct 31, 2025, 10:11 PM_
-‘populists can be beaten’: dutch centrist rob jetten claims election win" }
-Wfrfoontonbasi@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:55 PM_
-World food prices fall for second consecutive month in october on ample supplies" }
-Wfraetaha@{ shape: win-pane, label: "_Published Sep 05, 2025, 06:08 PM_
-World food prices at more than two-year high, fao says" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Wnseaiothcl@{ shape: win-pane, label: "_Published Aug 26, 2025, 09:07 AM_
-Warming seas worsen japan’s price shock with $130 urchin rice bowls" }
-Hiceiyry@{ shape: win-pane, label: "_Published Jul 21, 2025, 11:15 AM_
-How climate change is raising your grocery bill" }
-Smtcneeecyohh@{ shape: win-pane, label: "_Published Mar 04, 2025, 05:00 PM_
-Supermarkets and convenience stores have been costly to people’s health" }
-Cutipereboe@{ shape: win-pane, label: "_Published Apr 26, 2025, 03:30 PM_
-Coconuts get pricier as poor weather drives global shortage" }
+Huahtuomzcn@{ shape: win-pane, label: "_Published Nov 09, 2025, 10:16 PM_
+Holed-up hamas fighters test future of trump’s gaza peace plan" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
+TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
+Tears, joy in israel as hamas hands over first hostages" }
+MtretHfetzrzos@{ shape: win-pane, label: "_Published Nov 06, 2025, 10:05 PM_
+Mediators propose deal to get hamas fighters out of gaza’s israeli zone, sources say" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
+Heaeeetetbtea@{ shape: win-pane, label: "_Published Nov 03, 2025, 05:02 PM_
+Haunted by war, some israelis hesitate to return to kibbutz attacked by hamas" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
 
-Tdhtceenafo:::txtsize --> Eoogatamhosh:::txtsize
-Eoogatamhosh:::txtsize --> Gneenirempwe:::txtsize
-Gneenirempwe:::txtsize --> Jwoacntst:::txtsize
-Gneenirempwe:::txtsize --> Botgnsiirbeip:::txtsize
-Eoogatamhosh:::txtsize --> PietnbgaolEccn:::txtsize
-PietnbgaolEccn:::txtsize --> PiaeDcibeien:::txtsize
-Tdhtceenafo:::txtsize --> Wfrfoontonbasi:::txtsize
-Wfrfoontonbasi:::txtsize --> Wfraetaha:::txtsize
-Wfraetaha:::txtsize --> DsruasvUn:::txtsize
-Wfraetaha:::txtsize --> Wnseaiothcl:::txtsize
-Wfrfoontonbasi:::txtsize --> Hiceiyry:::txtsize
-Hiceiyry:::txtsize --> Smtcneeecyohh:::txtsize
-Hiceiyry:::txtsize --> Cutipereboe:::txtsize
+Huahtuomzcn:::txtsize --> Tdrcaaededlncbs:::txtsize
+Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
+PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
+Huahtuomzcn:::txtsize --> MtretHfetzrzos:::txtsize
+MtretHfetzrzos:::txtsize --> Tdrcaaededlncbs:::txtsize
+Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
+MtretHfetzrzos:::txtsize --> Heaeeetetbtea:::txtsize
+Heaeeetetbtea:::txtsize --> Tdrcaaededlncbs:::txtsize
+Heaeeetetbtea:::txtsize --> Sbsrcdnacaale:::txtsize
 
-SniaeagfSvmtrli@{ shape: win-pane, label: "_Published Nov 09, 2025, 05:58 PM_
-Syrian president arrives in washington after us removes him from terrorism blacklist" }
-UslaoSsiaotsi@{ shape: win-pane, label: "_Published Nov 05, 2025, 08:17 AM_
-Us asks un to lift sanctions on syria’s president ahead of white house visit" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
-Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
-Ttosinajlh@{ shape: win-pane, label: "_Published May 14, 2025, 01:02 AM_
-Trump to remove us sanctions on syria in major policy shift" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-FerntSsi@{ shape: win-pane, label: "_Published May 08, 2025, 12:42 AM_
-France’s macron wants eu to end syria sanctions" }
-SceppotasSs@{ shape: win-pane, label: "_Published Nov 09, 2025, 04:40 AM_
-Syria carries out pre-emptive operations against isis cells" }
-SneehtdstNbyn@{ shape: win-pane, label: "_Published Nov 01, 2025, 11:51 PM_
-Syrian leader ahmed al-sharaa to head to washington in november, says us envoy" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Uitahetsierus@{ shape: win-pane, label: "_Published Nov 07, 2025, 02:20 AM_
-Us military to establish presence at damascus airbase in syria, sources say" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Ssalirniwetaatc@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:45 PM_
-Syria’s sharaa tells putin at kremlin meeting he will respect all past deals with moscow" }
+BsislBsisedpsnies@{ shape: win-pane, label: "_Published Nov 09, 2025, 09:00 PM_
+British minister says claims bbc misled viewers with edited trump clips are ‘incredibly serious’" }
+TtpswoCooamdphcmvn@{ shape: win-pane, label: "_Published Jan 07, 2021, 06:21 AM_
+Trump tells protesters who stormed capitol to go home as former aides implore him to condemn the violence" }
+peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
+4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
+HafdoptdSt@{ shape: win-pane, label: "_Published Jan 07, 2021, 10:03 AM_
+How chaos unfolded as pro-trump mob stormed the us capitol" }
+Umsuichcnncclet@{ shape: win-pane, label: "_Published Jan 07, 2021, 10:06 AM_
+Us lawmakers denounce violence as they reconvene to announce electoral college votes" }
+PoesToisiewin@{ shape: win-pane, label: "_Published Jul 02, 2025, 02:09 PM_
+Paramount settles with trump over 60 minutes harris interview for $20 million" }
+TsBrlrteis@{ shape: win-pane, label: "_Published Nov 01, 2024, 05:40 AM_
+Trump sues cbs over kamala harris interview on 60 minutes" }
+PrstsencwohliIc@{ shape: win-pane, label: "_Published Nov 01, 2024, 07:00 AM_
+Pastors and secret codes: us election officials wage low-tech battle against ai robocalls" }
+UwBasemnbhr@{ shape: win-pane, label: "_Published Dec 15, 2024, 07:40 AM_
+Us network abc to pay $20m to settle defamation suit brought by trump" }
+JirelsiJaldm@{ shape: win-pane, label: "_Published May 10, 2023, 03:10 AM_
+Jury finds trump sexually abused writer e. jean carroll, awards her $6.6m" }
+ToearSirsfi@{ shape: win-pane, label: "_Published Jan 27, 2024, 08:10 AM_
+Trump ordered to pay carroll us$83.3 million for years of defamation" }
 
-SniaeagfSvmtrli:::txtsize --> UslaoSsiaotsi:::txtsize
-UslaoSsiaotsi:::txtsize --> SnltiARahtoy:::txtsize
-SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
-UslaoSsiaotsi:::txtsize --> Ttosinajlh:::txtsize
-Ttosinajlh:::txtsize --> SnltiARahtoy:::txtsize
-Ttosinajlh:::txtsize --> FerntSsi:::txtsize
-SniaeagfSvmtrli:::txtsize --> SceppotasSs:::txtsize
-SceppotasSs:::txtsize --> SneehtdstNbyn:::txtsize
-SneehtdstNbyn:::txtsize --> SnltiARahtoy:::txtsize
-SceppotasSs:::txtsize --> Uitahetsierus:::txtsize
-Uitahetsierus:::txtsize --> SnltiARahtoy:::txtsize
-Uitahetsierus:::txtsize --> Ssalirniwetaatc:::txtsize
+BsislBsisedpsnies:::txtsize --> TtpswoCooamdphcmvn:::txtsize
+TtpswoCooamdphcmvn:::txtsize --> peapubmalrest:::txtsize
+peapubmalrest:::txtsize --> HafdoptdSt:::txtsize
+peapubmalrest:::txtsize --> Umsuichcnncclet:::txtsize
+BsislBsisedpsnies:::txtsize --> PoesToisiewin:::txtsize
+PoesToisiewin:::txtsize --> TsBrlrteis:::txtsize
+TsBrlrteis:::txtsize --> PrstsencwohliIc:::txtsize
+PoesToisiewin:::txtsize --> UwBasemnbhr:::txtsize
+UwBasemnbhr:::txtsize --> JirelsiJaldm:::txtsize
+UwBasemnbhr:::txtsize --> ToearSirsfi:::txtsize
 
 ```
-<i>Last updated: 2025-11-09 20:00:42.339163 (GMT+8)</i>
+<i>Last updated: 2025-11-10 00:01:13.064235 (GMT+8)</i>
 <!-- END -->
