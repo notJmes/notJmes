@@ -16,8 +16,8 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ulclheun@{ shape: win-pane, label: "_Published Nov 09, 2025, 07:51 AM_
-Us airlines cancel 1,330 flights due to shutdown" }
+AacofsauSsoarc@{ shape: win-pane, label: "_Published Nov 09, 2025, 07:51 AM_
+Air traffic control staffing shortages due to us govt shutdown lead to travel chaos" }
 aWoeveunfotm@{ shape: win-pane, label: "_Published Nov 07, 2025, 05:55 PM_
 Askst: what does the us government shutdown mean for a tourist like me?" }
 Uentdoerlnh@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:45 AM_
@@ -47,14 +47,14 @@ Us shutdown sends airlines scrambling as travel chaos looms" }
 Tbscaomhwoot@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:21 AM_
 Trump blasts democrats as us government shutdown becomes longest ever" }
 
-Ulclheun:::txtsize --> aWoeveunfotm:::txtsize
+AacofsauSsoarc:::txtsize --> aWoeveunfotm:::txtsize
 aWoeveunfotm:::txtsize --> Uentdoerlnh:::txtsize
 Uentdoerlnh:::txtsize --> Utsanritlss:::txtsize
 Uentdoerlnh:::txtsize --> Tbscaomhwoot:::txtsize
 aWoeveunfotm:::txtsize --> TaitroguaSouomhw:::txtsize
 TaitroguaSouomhw:::txtsize --> Ueniunmaayat:::txtsize
 TaitroguaSouomhw:::txtsize --> Lsounsrfakni:::txtsize
-Ulclheun:::txtsize --> Uvenounpiu:::txtsize
+AacofsauSsoarc:::txtsize --> Uvenounpiu:::txtsize
 Uvenounpiu:::txtsize --> Utsanritlss:::txtsize
 Utsanritlss:::txtsize --> TaitroguaSouomhw:::txtsize
 Utsanritlss:::txtsize --> Tbscaomhwoot:::txtsize
@@ -155,5 +155,5 @@ Asdriveatiirnk:::txtsize --> IfkmCgurrap:::txtsize
 Asdriveatiirnk:::txtsize --> Ialttuoigcrhmtfe:::txtsize
 
 ```
-<i>Last updated: 2025-11-09 08:01:13.810396 (GMT+8)</i>
+<i>Last updated: 2025-11-09 12:00:41.484150 (GMT+8)</i>
 <!-- END -->
