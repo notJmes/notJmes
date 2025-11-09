@@ -16,144 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-AacofsauSsoarc@{ shape: win-pane, label: "_Published Nov 09, 2025, 07:51 AM_
-Air traffic control staffing shortages due to us govt shutdown lead to travel chaos" }
-aWoeveunfotm@{ shape: win-pane, label: "_Published Nov 07, 2025, 05:55 PM_
-Askst: what does the us government shutdown mean for a tourist like me?" }
-Uentdoerlnh@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:45 AM_
-Us government shutdown drags on as senators fail to find path out" }
-Utsanritlss@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:05 PM_
-Us shutdown sends airlines scrambling as travel chaos looms" }
-Tbscaomhwoot@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:21 AM_
-Trump blasts democrats as us government shutdown becomes longest ever" }
-TaitroguaSouomhw@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:35 AM_
-Trump administration orders 10% of flights cut at major us airports due to government shutdown" }
-Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
-Us government begins shutdown that may lead to mass layoffs and cuts" }
-Lsounsrfakni@{ shape: win-pane, label: "_Published Nov 05, 2025, 04:22 PM_
-Longest us govt shutdown tests air travel, federal workers and patience" }
-Uvenounpiu@{ shape: win-pane, label: "_Published Nov 07, 2025, 10:28 AM_
-Us travel woes mount as govt shutdown prompts flight cuts" }
-Utsanritlss@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:05 PM_
-Us shutdown sends airlines scrambling as travel chaos looms" }
-TaitroguaSouomhw@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:35 AM_
-Trump administration orders 10% of flights cut at major us airports due to government shutdown" }
-Tbscaomhwoot@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:21 AM_
-Trump blasts democrats as us government shutdown becomes longest ever" }
-Uentdoerlnh@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:45 AM_
-Us government shutdown drags on as senators fail to find path out" }
-Utsanritlss@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:05 PM_
-Us shutdown sends airlines scrambling as travel chaos looms" }
-Tbscaomhwoot@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:21 AM_
-Trump blasts democrats as us government shutdown becomes longest ever" }
+Eisasiltisc@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:20 PM_
+Explainer: as cop30 gathers, what is the latest in climate science?" }
+WwvogmoneUn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:22 PM_
+World will overshoot 1.5 deg c climate goal in next decade, un warns" }
+Ntnosager@{ shape: win-pane, label: "_Published Oct 13, 2025, 11:10 AM_
+Not nothing, not enough: is the paris agreement working?" }
+Smhotanrmor@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:31 AM_
+September third-hottest globally on record: climate monitor" }
+Ranghsocne@{ shape: win-pane, label: "_Published Oct 07, 2025, 01:21 PM_
+Renewable energy growth slows due to policy changes: report" }
+Cpghgdois@{ shape: win-pane, label: "_Published Sep 25, 2025, 04:57 AM_
+China plans 7-10% greenhouse gas reduction by 2035, xi tells un" }
+OftholnCcttvr@{ shape: win-pane, label: "_Published Sep 18, 2025, 03:10 AM_
+Only 40% of countries have booked lodging for cop30 un climate meet in november" }
+TtUtaastogl@{ shape: win-pane, label: "_Published Sep 24, 2025, 12:17 AM_
+Trump tells un that climate change is ‘greatest con job’ globally" }
+Oflsydgotvageio@{ shape: win-pane, label: "_Published Apr 23, 2025, 12:24 PM_
+Over 80% of coral reefs hit by world’s longest, most extensive bleaching: preservation group" }
+MiSpcsrereniEt@{ shape: win-pane, label: "_Published Apr 14, 2025, 07:30 PM_
+Majority of singapore’s corals have recovered from 2024 bleaching incident: experts" }
+Swslcbhmov@{ shape: win-pane, label: "_Published May 20, 2024, 05:00 AM_
+S’pore waters see slight coral bleaching amid global event" }
+Sposnnerdaaagt@{ shape: win-pane, label: "_Published Oct 31, 2024, 12:30 PM_
+Singapore corals showing signs of recovery amid global coral bleaching event" }
+Sgeirrea@{ shape: win-pane, label: "_Published Nov 18, 2024, 05:00 AM_
+Saving the reefs – with coral larval restoration" }
+Cgfesienehrd@{ shape: win-pane, label: "_Published Nov 09, 2024, 05:50 PM_
+‘coral girl’ of s’pore wants to bring the ocean closer to the heartland" }
 
-AacofsauSsoarc:::txtsize --> aWoeveunfotm:::txtsize
-aWoeveunfotm:::txtsize --> Uentdoerlnh:::txtsize
-Uentdoerlnh:::txtsize --> Utsanritlss:::txtsize
-Uentdoerlnh:::txtsize --> Tbscaomhwoot:::txtsize
-aWoeveunfotm:::txtsize --> TaitroguaSouomhw:::txtsize
-TaitroguaSouomhw:::txtsize --> Ueniunmaayat:::txtsize
-TaitroguaSouomhw:::txtsize --> Lsounsrfakni:::txtsize
-AacofsauSsoarc:::txtsize --> Uvenounpiu:::txtsize
-Uvenounpiu:::txtsize --> Utsanritlss:::txtsize
-Utsanritlss:::txtsize --> TaitroguaSouomhw:::txtsize
-Utsanritlss:::txtsize --> Tbscaomhwoot:::txtsize
-Uvenounpiu:::txtsize --> Uentdoerlnh:::txtsize
-Uentdoerlnh:::txtsize --> Utsanritlss:::txtsize
-Uentdoerlnh:::txtsize --> Tbscaomhwoot:::txtsize
+Eisasiltisc:::txtsize --> WwvogmoneUn:::txtsize
+WwvogmoneUn:::txtsize --> Ntnosager:::txtsize
+Ntnosager:::txtsize --> Smhotanrmor:::txtsize
+Ntnosager:::txtsize --> Ranghsocne:::txtsize
+WwvogmoneUn:::txtsize --> Cpghgdois:::txtsize
+Cpghgdois:::txtsize --> OftholnCcttvr:::txtsize
+Cpghgdois:::txtsize --> TtUtaastogl:::txtsize
+Eisasiltisc:::txtsize --> Oflsydgotvageio:::txtsize
+Oflsydgotvageio:::txtsize --> MiSpcsrereniEt:::txtsize
+MiSpcsrereniEt:::txtsize --> Swslcbhmov:::txtsize
+MiSpcsrereniEt:::txtsize --> Sposnnerdaaagt:::txtsize
+Oflsydgotvageio:::txtsize --> Sgeirrea:::txtsize
+Sgeirrea:::txtsize --> Cgfesienehrd:::txtsize
 
-Tdnneagsehaa@{ shape: win-pane, label: "_Published Nov 09, 2025, 07:36 AM_
-Three dead in spain’s tenerife as rough seas batter the holiday island" }
-Wfdnttaatuhfhe@{ shape: win-pane, label: "_Published Oct 30, 2025, 02:47 PM_
-Woman found dead on remote australian island after cruise ship left without her" }
-SDdidufnuhsae@{ shape: win-pane, label: "_Published Jul 02, 2025, 12:37 PM_
-Super dad mode activated: man jumps off disney cruise ship to save daughter" }
-Beelrloanainsp@{ shape: win-pane, label: "_Published Sep 12, 2024, 02:15 PM_
-Boy, 12, dies after falling from balcony on texas-bound royal caribbean cruise ship" }
-MhutSpnhlbceSrta@{ shape: win-pane, label: "_Published Jul 31, 2023, 09:36 PM_
-‘my mother could not swim’: son of passenger who fell overboard cruise ship spectrum of the seas" }
-CesnDcereotoa@{ shape: win-pane, label: "_Published Sep 03, 2025, 03:02 PM_
-Crew members of genting dream cruise ship rescue person in strait of malacca" }
-Saecsoloisnre@{ shape: win-pane, label: "_Published Jun 25, 2025, 01:55 PM_
-Scdf launches rescue vessel to tackle major incidents in singapore waters" }
-Sduhfnsroefrei@{ shape: win-pane, label: "_Published Sep 14, 2023, 05:25 PM_
-Stranded cruise ship off greenland shows risks of more traffic in remote arctic" }
-yloiiuiiafdne@{ shape: win-pane, label: "_Published Jul 07, 2025, 05:55 PM_
-72-year-old man on diving trip to pulau tioman in malaysia found dead on the beach" }
-Msodsnidgcfno@{ shape: win-pane, label: "_Published Jul 06, 2025, 03:43 PM_
-Malaysian commando dies during military diving exercise off kuantan coast" }
-NdnifosueC@{ shape: win-pane, label: "_Published Jul 01, 2025, 07:39 AM_
-Nsman, 30, dies in hospital after collapsing outside maju camp" }
-Doanohtiafsod@{ shape: win-pane, label: "_Published Jul 04, 2025, 08:36 AM_
-Death of ukrainian f-16 pilot highlights perils of air defence, says commander" }
-Bfonifanonttfva@{ shape: win-pane, label: "_Published Nov 07, 2024, 04:57 PM_
-Body of 60-year-old man retrieved from waters near woodlands jetty after he fell overboard" }
-Meebinawscocecn@{ shape: win-pane, label: "_Published Sep 04, 2024, 07:54 PM_
-Man dies after tugboat sinks in singapore waters; search for other crew member continues" }
-Msiittegiaprenhu@{ shape: win-pane, label: "_Published Jun 19, 2024, 06:54 PM_
-Malaysian diver, 22, dies after getting entangled with boat propeller while cleaning ship’s hull" }
+Crtpsalrieslmt@{ shape: win-pane, label: "_Published Nov 09, 2025, 02:28 PM_
+Crispr gene therapy slashes ‘bad’ cholesterol, triglycerides by half in small study" }
+Sanfnctagcsllepa@{ shape: win-pane, label: "_Published Jun 19, 2025, 07:35 PM_
+S’poreans can test for genetic condition causing high cholesterol levels under new programme" }
+NHicrfnmtnohcsll@{ shape: win-pane, label: "_Published May 20, 2024, 01:10 PM_
+New kkh clinic for children suffering from genetic condition with high cholesterol levels" }
+Aaaiarempeohso@{ shape: win-pane, label: "_Published Aug 20, 2023, 05:00 AM_
+At 37, he had the arteries of an 80-year-old, needed multiple stents to keep his vessels open" }
+Sgageledifeetudd@{ shape: win-pane, label: "_Published Aug 21, 2024, 06:53 PM_
+S’pore gene-mapping project helps prevent drug side effects,  enables better study of disorders" }
+Nucstsgnemiehtna@{ shape: win-pane, label: "_Published Feb 20, 2023, 03:30 PM_
+New study uncovers genetic risks of getting disease among different ethnicities in singapore" }
+Coyeohaai@{ shape: win-pane, label: "_Published Sep 17, 2024, 12:00 PM_
+Can i lower my cholesterol without taking a statin?" }
+Pelfsrnrsaape@{ shape: win-pane, label: "_Published Oct 17, 2023, 01:30 PM_
+People likely eat far less fibre than their ancestors, and that is a problem" }
+Piseideltceeo@{ shape: win-pane, label: "_Published Aug 29, 2023, 12:00 PM_
+Psyllium husks, a centuries-old fibre supplement, entices a new generation" }
+Dnerytcw@{ shape: win-pane, label: "_Published Aug 11, 2023, 06:00 PM_
+Does an apple a day really keep the doctor away?" }
 
-Tdnneagsehaa:::txtsize --> Wfdnttaatuhfhe:::txtsize
-Wfdnttaatuhfhe:::txtsize --> SDdidufnuhsae:::txtsize
-SDdidufnuhsae:::txtsize --> Beelrloanainsp:::txtsize
-SDdidufnuhsae:::txtsize --> MhutSpnhlbceSrta:::txtsize
-Wfdnttaatuhfhe:::txtsize --> CesnDcereotoa:::txtsize
-CesnDcereotoa:::txtsize --> Saecsoloisnre:::txtsize
-CesnDcereotoa:::txtsize --> Sduhfnsroefrei:::txtsize
-Tdnneagsehaa:::txtsize --> yloiiuiiafdne:::txtsize
-yloiiuiiafdne:::txtsize --> Msodsnidgcfno:::txtsize
-Msodsnidgcfno:::txtsize --> NdnifosueC:::txtsize
-Msodsnidgcfno:::txtsize --> Doanohtiafsod:::txtsize
-yloiiuiiafdne:::txtsize --> Bfonifanonttfva:::txtsize
-Bfonifanonttfva:::txtsize --> Meebinawscocecn:::txtsize
-Bfonifanonttfva:::txtsize --> Msiittegiaprenhu:::txtsize
+Crtpsalrieslmt:::txtsize --> Sanfnctagcsllepa:::txtsize
+Sanfnctagcsllepa:::txtsize --> NHicrfnmtnohcsll:::txtsize
+NHicrfnmtnohcsll:::txtsize --> Aaaiarempeohso:::txtsize
+Sanfnctagcsllepa:::txtsize --> Sgageledifeetudd:::txtsize
+Sgageledifeetudd:::txtsize --> Nucstsgnemiehtna:::txtsize
+Crtpsalrieslmt:::txtsize --> Coyeohaai:::txtsize
+Coyeohaai:::txtsize --> Pelfsrnrsaape:::txtsize
+Pelfsrnrsaape:::txtsize --> Piseideltceeo:::txtsize
+Pelfsrnrsaape:::txtsize --> Dnerytcw:::txtsize
 
-SfictgoiTaita@{ shape: win-pane, label: "_Published Nov 09, 2025, 06:30 AM_
-Shots fired in chicago at immigration officers, trump administration says" }
-Asdriveatiirnk@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:30 AM_
-Agents raid daycare, senior living centre as part of chicago immigration crackdown" }
-IfkmCgurrap@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:45 AM_
-Ice officer kills man in chicago suburb during arrest attempt" }
-ToeeaKneaSoah@{ shape: win-pane, label: "_Published Sep 11, 2025, 07:34 AM_
-Trump offered to let detained korean workers stay in us but most heading home" }
-WthrwvatoitA@{ shape: win-pane, label: "_Published Sep 10, 2025, 02:07 PM_
-‘we all thought the raids were over’: fears return for immigrants in la" }
-Ialttuoigcrhmtfe@{ shape: win-pane, label: "_Published Nov 06, 2025, 05:05 AM_
-Ice plans call centre to track unaccompanied migrant children, other immigration offenders" }
-Taitisgonfeuoigcr@{ shape: win-pane, label: "_Published Feb 23, 2025, 09:07 PM_
-Trump administration directs immigration agents to find, deport unaccompanied migrant children" }
-Taitfuoigcrvtyeth@{ shape: win-pane, label: "_Published Oct 04, 2025, 09:51 AM_
-Trump administration offers unaccompanied migrant children $3,200 to voluntarily leave us, letter shows" }
-Ugeomrlrieltocho@{ shape: win-pane, label: "_Published Nov 07, 2025, 04:41 AM_
-Us judge rejects government's riot claims, restricts federal agents' use of force in chicago" }
-IfkmCgurrap@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:45 AM_
-Ice officer kills man in chicago suburb during arrest attempt" }
-ToeeaKneaSoah@{ shape: win-pane, label: "_Published Sep 11, 2025, 07:34 AM_
-Trump offered to let detained korean workers stay in us but most heading home" }
-WthrwvatoitA@{ shape: win-pane, label: "_Published Sep 10, 2025, 02:07 PM_
-‘we all thought the raids were over’: fears return for immigrants in la" }
-Asdriveatiirnk@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:30 AM_
-Agents raid daycare, senior living centre as part of chicago immigration crackdown" }
-IfkmCgurrap@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:45 AM_
-Ice officer kills man in chicago suburb during arrest attempt" }
-Ialttuoigcrhmtfe@{ shape: win-pane, label: "_Published Nov 06, 2025, 05:05 AM_
-Ice plans call centre to track unaccompanied migrant children, other immigration offenders" }
+lfabmeeSrnuoess@{ shape: win-pane, label: "_Published Nov 09, 2025, 02:18 PM_
+2 lots of byheart baby formula recalled in us after infant botulism outbreak in 10 states" }
+Grsteeiorncna@{ shape: win-pane, label: "_Published Feb 17, 2025, 11:54 PM_
+Gerber baby snack to be recalled in singapore for potential choking hazard" }
+wtpcliuhasa@{ shape: win-pane, label: "_Published Feb 11, 2025, 06:35 PM_
+2 weight-loss products sold online found to have banned substances" }
+TwtpcucinbcA@{ shape: win-pane, label: "_Published Oct 08, 2024, 04:45 PM_
+Three weight-loss products found to contain banned substances: sfa" }
+Ssagrhsifteese@{ shape: win-pane, label: "_Published Sep 17, 2024, 11:12 PM_
+Sfa issues warning after 4 weight-loss food items found to have banned substances" }
+Sdeodopcrionlce@{ shape: win-pane, label: "_Published Feb 07, 2025, 11:55 PM_
+Sfa orders recall of food seasoning products for possibly containing plastic pieces" }
+RleoncdoefeF@{ shape: win-pane, label: "_Published Feb 06, 2025, 09:47 PM_
+Raw milk cheese from france recalled due to presence of bacteria: sfa" }
+ScStGraoolsoac@{ shape: win-pane, label: "_Published Dec 13, 2024, 10:50 PM_
+Sfa recalls select madegood granola bars over possible presence of metal piece" }
+FrellSSsrith@{ shape: win-pane, label: "_Published Oct 14, 2024, 11:45 AM_
+Fisher-price recalls 2 million ‘snuga swings’ after five infant deaths" }
+Mllsrnnssftifia@{ shape: win-pane, label: "_Published Oct 11, 2024, 02:10 AM_
+Mattel recalls fisher-price snuga infant swings on suffocation risks after five deaths" }
+Baagesmirohnk@{ shape: win-pane, label: "_Published Aug 30, 2024, 11:00 AM_
+Baby-care brand pigeon recalls steam steriliser due to overheating risk" }
+RtanuicNmboaemA@{ shape: win-pane, label: "_Published Jan 01, 2024, 02:13 AM_
+Reckitt's mead johnson nutrition recalls nutramigen baby formula powder from us, fda says" }
+Baagesmirohnk@{ shape: win-pane, label: "_Published Aug 30, 2024, 11:00 AM_
+Baby-care brand pigeon recalls steam steriliser due to overheating risk" }
 
-SfictgoiTaita:::txtsize --> Asdriveatiirnk:::txtsize
-Asdriveatiirnk:::txtsize --> IfkmCgurrap:::txtsize
-IfkmCgurrap:::txtsize --> ToeeaKneaSoah:::txtsize
-IfkmCgurrap:::txtsize --> WthrwvatoitA:::txtsize
-Asdriveatiirnk:::txtsize --> Ialttuoigcrhmtfe:::txtsize
-Ialttuoigcrhmtfe:::txtsize --> Taitisgonfeuoigcr:::txtsize
-Ialttuoigcrhmtfe:::txtsize --> Taitfuoigcrvtyeth:::txtsize
-SfictgoiTaita:::txtsize --> Ugeomrlrieltocho:::txtsize
-Ugeomrlrieltocho:::txtsize --> IfkmCgurrap:::txtsize
-IfkmCgurrap:::txtsize --> ToeeaKneaSoah:::txtsize
-IfkmCgurrap:::txtsize --> WthrwvatoitA:::txtsize
-Ugeomrlrieltocho:::txtsize --> Asdriveatiirnk:::txtsize
-Asdriveatiirnk:::txtsize --> IfkmCgurrap:::txtsize
-Asdriveatiirnk:::txtsize --> Ialttuoigcrhmtfe:::txtsize
+lfabmeeSrnuoess:::txtsize --> Grsteeiorncna:::txtsize
+Grsteeiorncna:::txtsize --> wtpcliuhasa:::txtsize
+wtpcliuhasa:::txtsize --> TwtpcucinbcA:::txtsize
+wtpcliuhasa:::txtsize --> Ssagrhsifteese:::txtsize
+Grsteeiorncna:::txtsize --> Sdeodopcrionlce:::txtsize
+Sdeodopcrionlce:::txtsize --> RleoncdoefeF:::txtsize
+Sdeodopcrionlce:::txtsize --> ScStGraoolsoac:::txtsize
+lfabmeeSrnuoess:::txtsize --> FrellSSsrith:::txtsize
+FrellSSsrith:::txtsize --> Mllsrnnssftifia:::txtsize
+Mllsrnnssftifia:::txtsize --> Baagesmirohnk:::txtsize
+Mllsrnnssftifia:::txtsize --> RtanuicNmboaemA:::txtsize
+FrellSSsrith:::txtsize --> Baagesmirohnk:::txtsize
 
 ```
-<i>Last updated: 2025-11-09 12:00:41.484150 (GMT+8)</i>
+<i>Last updated: 2025-11-09 16:01:11.820090 (GMT+8)</i>
 <!-- END -->
