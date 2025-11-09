@@ -16,120 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-SdroisdshazaeaUn@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:53 AM_
-Second external power line restored at russian-held zaporizhzhia nuclear plant in ukraine" }
-Zsrcctofdrhcp@{ shape: win-pane, label: "_Published Oct 01, 2025, 03:45 AM_
-Zelensky warns of ‘critical’ situation at off-grid zaporizhzhia nuclear plant" }
-Ziilolfdiarl@{ shape: win-pane, label: "_Published Sep 28, 2025, 03:53 AM_
-Zaporizhzhia nuclear power plant off grid; russia, ukraine trade blame" }
-PcUnphnanvest@{ shape: win-pane, label: "_Published Jul 05, 2025, 01:36 AM_
-Power cut to ukraine’s zaporizhzhia nuclear plant; kyiv blames russian strike" }
-IGicUnphnankesi@{ shape: win-pane, label: "_Published Apr 12, 2024, 12:35 AM_
-Iaea’s grossi: attacks on ukraine’s zaporizhzhia nuclear plant risk ‘dangerous’ shift in war" }
-PcUnphnanvest@{ shape: win-pane, label: "_Published Jul 05, 2025, 01:36 AM_
-Power cut to ukraine’s zaporizhzhia nuclear plant; kyiv blames russian strike" }
-TZsswnssttsr@{ shape: win-pane, label: "_Published Jul 04, 2025, 10:51 PM_
-Trump, zelensky discuss weapons, russia’s escalating strikes in ukraine" }
-Rahfesresoa@{ shape: win-pane, label: "_Published Jul 05, 2025, 12:25 AM_
-Russia brushes off peace talks after largest assault on ukraine" }
-Ralcooneyllke@{ shape: win-pane, label: "_Published Oct 02, 2025, 03:39 AM_
-Russian shelling cuts power to defunct chernobyl nuclear plant, ukraine says" }
-Zsrcctofdrhcp@{ shape: win-pane, label: "_Published Oct 01, 2025, 03:45 AM_
-Zelensky warns of ‘critical’ situation at off-grid zaporizhzhia nuclear plant" }
-Ziilolfdiarl@{ shape: win-pane, label: "_Published Sep 28, 2025, 03:53 AM_
-Zaporizhzhia nuclear power plant off grid; russia, ukraine trade blame" }
-PcUnphnanvest@{ shape: win-pane, label: "_Published Jul 05, 2025, 01:36 AM_
-Power cut to ukraine’s zaporizhzhia nuclear plant; kyiv blames russian strike" }
-Ranueyeaiceirely@{ shape: win-pane, label: "_Published Feb 14, 2025, 03:59 PM_
-Russian drone ‘struck’ chernobyl cover, no radiation increase: ukraine’s president zelensky" }
-Tswunirwnmsdcgl@{ shape: win-pane, label: "_Published Feb 13, 2025, 11:55 PM_
-Trump’s call with putin on ukraine: europe’s worst nightmare is rapidly becoming a reality" }
-Nesoaotboiy@{ shape: win-pane, label: "_Published Feb 14, 2025, 06:34 AM_
-Nato membership for ukraine not off the table, us official says" }
-
-SdroisdshazaeaUn:::txtsize --> Zsrcctofdrhcp:::txtsize
-Zsrcctofdrhcp:::txtsize --> Ziilolfdiarl:::txtsize
-Ziilolfdiarl:::txtsize --> PcUnphnanvest:::txtsize
-Ziilolfdiarl:::txtsize --> IGicUnphnankesi:::txtsize
-Zsrcctofdrhcp:::txtsize --> PcUnphnanvest:::txtsize
-PcUnphnanvest:::txtsize --> TZsswnssttsr:::txtsize
-PcUnphnanvest:::txtsize --> Rahfesresoa:::txtsize
-SdroisdshazaeaUn:::txtsize --> Ralcooneyllke:::txtsize
-Ralcooneyllke:::txtsize --> Zsrcctofdrhcp:::txtsize
-Zsrcctofdrhcp:::txtsize --> Ziilolfdiarl:::txtsize
-Zsrcctofdrhcp:::txtsize --> PcUnphnanvest:::txtsize
-Ralcooneyllke:::txtsize --> Ranueyeaiceirely:::txtsize
-Ranueyeaiceirely:::txtsize --> Tswunirwnmsdcgl:::txtsize
-Ranueyeaiceirely:::txtsize --> Nesoaotboiy:::txtsize
-
-Sioagieiybe@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:19 AM_
-Stinking, spongy, dark, huge: a spider web unlike any seen before" }
-HyyenoksSppoibni@{ shape: win-pane, label: "_Published Mar 17, 2025, 05:00 AM_
-How a mystery spider’s candyfloss-like egg sac in singapore spun a worldwide web of connections" }
-Rrihodledigige@{ shape: win-pane, label: "_Published Mar 13, 2024, 08:19 PM_
-Rare crab spider that looks and smells like bird dropping sighted in singapore" }
-Dveuuatfecnein@{ shape: win-pane, label: "_Published Dec 19, 2022, 05:00 AM_
-Deceive or be devoured: survival tactics of 790 spider species in s’pore detailed in book" }
-Ogdgtgedn@{ shape: win-pane, label: "_Published May 08, 2023, 05:00 AM_
-On the ground at night with singapore’s spider-men" }
-Ogdgtgedn@{ shape: win-pane, label: "_Published May 08, 2023, 05:00 AM_
-On the ground at night with singapore’s spider-men" }
-tsekeyoglioa@{ shape: win-pane, label: "_Published May 08, 2023, 05:00 AM_
-6 things you need to know before you go on a night walk in singapore’s parks" }
-
-Sioagieiybe:::txtsize --> HyyenoksSppoibni:::txtsize
-HyyenoksSppoibni:::txtsize --> Rrihodledigige:::txtsize
-Rrihodledigige:::txtsize --> Dveuuatfecnein:::txtsize
-Rrihodledigige:::txtsize --> Ogdgtgedn:::txtsize
-HyyenoksSppoibni:::txtsize --> Ogdgtgedn:::txtsize
-Ogdgtgedn:::txtsize --> tsekeyoglioa:::txtsize
-
-Tcfvecoilhpsola@{ shape: win-pane, label: "_Published Nov 09, 2025, 02:26 AM_
-Trump calls for giving healthcare money ‘directly to the people’ as shutdown talks drag on" }
-UajBoodwresdrd@{ shape: win-pane, label: "_Published Nov 08, 2025, 08:50 AM_
-Us senate rejects bill to restore federal worker pay, remains at odds over shutdown" }
-Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
-Us government shutdown becomes longest in history" }
-AcobeaSdnsdh@{ shape: win-pane, label: "_Published Nov 01, 2025, 01:34 AM_
-Americans worry about next meal as us shutdown enters second month" }
-Uentesraosactt@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:47 PM_
-Us government shutdown enters record 35th day as congressional inaction takes toll" }
+Ulclheun@{ shape: win-pane, label: "_Published Nov 09, 2025, 07:51 AM_
+Us airlines cancel 1,330 flights due to shutdown" }
 aWoeveunfotm@{ shape: win-pane, label: "_Published Nov 07, 2025, 05:55 PM_
 Askst: what does the us government shutdown mean for a tourist like me?" }
 Uentdoerlnh@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:45 AM_
 Us government shutdown drags on as senators fail to find path out" }
+Utsanritlss@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:05 PM_
+Us shutdown sends airlines scrambling as travel chaos looms" }
+Tbscaomhwoot@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:21 AM_
+Trump blasts democrats as us government shutdown becomes longest ever" }
 TaitroguaSouomhw@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:35 AM_
 Trump administration orders 10% of flights cut at major us airports due to government shutdown" }
-Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
-Us government shutdown becomes longest in history" }
-AcobeaSdnsdh@{ shape: win-pane, label: "_Published Nov 01, 2025, 01:34 AM_
-Americans worry about next meal as us shutdown enters second month" }
-Waswhomhw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:42 PM_
-What happens next with the us government shutdown?" }
-Tsrermvlyuso@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:18 AM_
-Trump says private donor gave $160m to cover military pay during shutdown" }
-Uentesraosactt@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:47 PM_
-Us government shutdown enters record 35th day as congressional inaction takes toll" }
 Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
 Us government begins shutdown that may lead to mass layoffs and cuts" }
-MoAcoedaromhwmirn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:30 AM_
-Millions of americans to get reduced food aid during government shutdown: trump administration" }
+Lsounsrfakni@{ shape: win-pane, label: "_Published Nov 05, 2025, 04:22 PM_
+Longest us govt shutdown tests air travel, federal workers and patience" }
+Uvenounpiu@{ shape: win-pane, label: "_Published Nov 07, 2025, 10:28 AM_
+Us travel woes mount as govt shutdown prompts flight cuts" }
+Utsanritlss@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:05 PM_
+Us shutdown sends airlines scrambling as travel chaos looms" }
+TaitroguaSouomhw@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:35 AM_
+Trump administration orders 10% of flights cut at major us airports due to government shutdown" }
+Tbscaomhwoot@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:21 AM_
+Trump blasts democrats as us government shutdown becomes longest ever" }
+Uentdoerlnh@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:45 AM_
+Us government shutdown drags on as senators fail to find path out" }
+Utsanritlss@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:05 PM_
+Us shutdown sends airlines scrambling as travel chaos looms" }
+Tbscaomhwoot@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:21 AM_
+Trump blasts democrats as us government shutdown becomes longest ever" }
 
-Tcfvecoilhpsola:::txtsize --> UajBoodwresdrd:::txtsize
-UajBoodwresdrd:::txtsize --> Uentbegno:::txtsize
-Uentbegno:::txtsize --> AcobeaSdnsdh:::txtsize
-Uentbegno:::txtsize --> Uentesraosactt:::txtsize
-UajBoodwresdrd:::txtsize --> aWoeveunfotm:::txtsize
+Ulclheun:::txtsize --> aWoeveunfotm:::txtsize
 aWoeveunfotm:::txtsize --> Uentdoerlnh:::txtsize
+Uentdoerlnh:::txtsize --> Utsanritlss:::txtsize
+Uentdoerlnh:::txtsize --> Tbscaomhwoot:::txtsize
 aWoeveunfotm:::txtsize --> TaitroguaSouomhw:::txtsize
-Tcfvecoilhpsola:::txtsize --> Uentbegno:::txtsize
-Uentbegno:::txtsize --> AcobeaSdnsdh:::txtsize
-AcobeaSdnsdh:::txtsize --> Waswhomhw:::txtsize
-AcobeaSdnsdh:::txtsize --> Tsrermvlyuso:::txtsize
-Uentbegno:::txtsize --> Uentesraosactt:::txtsize
-Uentesraosactt:::txtsize --> Ueniunmaayat:::txtsize
-Uentesraosactt:::txtsize --> MoAcoedaromhwmirn:::txtsize
+TaitroguaSouomhw:::txtsize --> Ueniunmaayat:::txtsize
+TaitroguaSouomhw:::txtsize --> Lsounsrfakni:::txtsize
+Ulclheun:::txtsize --> Uvenounpiu:::txtsize
+Uvenounpiu:::txtsize --> Utsanritlss:::txtsize
+Utsanritlss:::txtsize --> TaitroguaSouomhw:::txtsize
+Utsanritlss:::txtsize --> Tbscaomhwoot:::txtsize
+Uvenounpiu:::txtsize --> Uentdoerlnh:::txtsize
+Uentdoerlnh:::txtsize --> Utsanritlss:::txtsize
+Uentdoerlnh:::txtsize --> Tbscaomhwoot:::txtsize
+
+Tdnneagsehaa@{ shape: win-pane, label: "_Published Nov 09, 2025, 07:36 AM_
+Three dead in spain’s tenerife as rough seas batter the holiday island" }
+Wfdnttaatuhfhe@{ shape: win-pane, label: "_Published Oct 30, 2025, 02:47 PM_
+Woman found dead on remote australian island after cruise ship left without her" }
+SDdidufnuhsae@{ shape: win-pane, label: "_Published Jul 02, 2025, 12:37 PM_
+Super dad mode activated: man jumps off disney cruise ship to save daughter" }
+Beelrloanainsp@{ shape: win-pane, label: "_Published Sep 12, 2024, 02:15 PM_
+Boy, 12, dies after falling from balcony on texas-bound royal caribbean cruise ship" }
+MhutSpnhlbceSrta@{ shape: win-pane, label: "_Published Jul 31, 2023, 09:36 PM_
+‘my mother could not swim’: son of passenger who fell overboard cruise ship spectrum of the seas" }
+CesnDcereotoa@{ shape: win-pane, label: "_Published Sep 03, 2025, 03:02 PM_
+Crew members of genting dream cruise ship rescue person in strait of malacca" }
+Saecsoloisnre@{ shape: win-pane, label: "_Published Jun 25, 2025, 01:55 PM_
+Scdf launches rescue vessel to tackle major incidents in singapore waters" }
+Sduhfnsroefrei@{ shape: win-pane, label: "_Published Sep 14, 2023, 05:25 PM_
+Stranded cruise ship off greenland shows risks of more traffic in remote arctic" }
+yloiiuiiafdne@{ shape: win-pane, label: "_Published Jul 07, 2025, 05:55 PM_
+72-year-old man on diving trip to pulau tioman in malaysia found dead on the beach" }
+Msodsnidgcfno@{ shape: win-pane, label: "_Published Jul 06, 2025, 03:43 PM_
+Malaysian commando dies during military diving exercise off kuantan coast" }
+NdnifosueC@{ shape: win-pane, label: "_Published Jul 01, 2025, 07:39 AM_
+Nsman, 30, dies in hospital after collapsing outside maju camp" }
+Doanohtiafsod@{ shape: win-pane, label: "_Published Jul 04, 2025, 08:36 AM_
+Death of ukrainian f-16 pilot highlights perils of air defence, says commander" }
+Bfonifanonttfva@{ shape: win-pane, label: "_Published Nov 07, 2024, 04:57 PM_
+Body of 60-year-old man retrieved from waters near woodlands jetty after he fell overboard" }
+Meebinawscocecn@{ shape: win-pane, label: "_Published Sep 04, 2024, 07:54 PM_
+Man dies after tugboat sinks in singapore waters; search for other crew member continues" }
+Msiittegiaprenhu@{ shape: win-pane, label: "_Published Jun 19, 2024, 06:54 PM_
+Malaysian diver, 22, dies after getting entangled with boat propeller while cleaning ship’s hull" }
+
+Tdnneagsehaa:::txtsize --> Wfdnttaatuhfhe:::txtsize
+Wfdnttaatuhfhe:::txtsize --> SDdidufnuhsae:::txtsize
+SDdidufnuhsae:::txtsize --> Beelrloanainsp:::txtsize
+SDdidufnuhsae:::txtsize --> MhutSpnhlbceSrta:::txtsize
+Wfdnttaatuhfhe:::txtsize --> CesnDcereotoa:::txtsize
+CesnDcereotoa:::txtsize --> Saecsoloisnre:::txtsize
+CesnDcereotoa:::txtsize --> Sduhfnsroefrei:::txtsize
+Tdnneagsehaa:::txtsize --> yloiiuiiafdne:::txtsize
+yloiiuiiafdne:::txtsize --> Msodsnidgcfno:::txtsize
+Msodsnidgcfno:::txtsize --> NdnifosueC:::txtsize
+Msodsnidgcfno:::txtsize --> Doanohtiafsod:::txtsize
+yloiiuiiafdne:::txtsize --> Bfonifanonttfva:::txtsize
+Bfonifanonttfva:::txtsize --> Meebinawscocecn:::txtsize
+Bfonifanonttfva:::txtsize --> Msiittegiaprenhu:::txtsize
+
+SfictgoiTaita@{ shape: win-pane, label: "_Published Nov 09, 2025, 06:30 AM_
+Shots fired in chicago at immigration officers, trump administration says" }
+Asdriveatiirnk@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:30 AM_
+Agents raid daycare, senior living centre as part of chicago immigration crackdown" }
+IfkmCgurrap@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:45 AM_
+Ice officer kills man in chicago suburb during arrest attempt" }
+ToeeaKneaSoah@{ shape: win-pane, label: "_Published Sep 11, 2025, 07:34 AM_
+Trump offered to let detained korean workers stay in us but most heading home" }
+WthrwvatoitA@{ shape: win-pane, label: "_Published Sep 10, 2025, 02:07 PM_
+‘we all thought the raids were over’: fears return for immigrants in la" }
+Ialttuoigcrhmtfe@{ shape: win-pane, label: "_Published Nov 06, 2025, 05:05 AM_
+Ice plans call centre to track unaccompanied migrant children, other immigration offenders" }
+Taitisgonfeuoigcr@{ shape: win-pane, label: "_Published Feb 23, 2025, 09:07 PM_
+Trump administration directs immigration agents to find, deport unaccompanied migrant children" }
+Taitfuoigcrvtyeth@{ shape: win-pane, label: "_Published Oct 04, 2025, 09:51 AM_
+Trump administration offers unaccompanied migrant children $3,200 to voluntarily leave us, letter shows" }
+Ugeomrlrieltocho@{ shape: win-pane, label: "_Published Nov 07, 2025, 04:41 AM_
+Us judge rejects government's riot claims, restricts federal agents' use of force in chicago" }
+IfkmCgurrap@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:45 AM_
+Ice officer kills man in chicago suburb during arrest attempt" }
+ToeeaKneaSoah@{ shape: win-pane, label: "_Published Sep 11, 2025, 07:34 AM_
+Trump offered to let detained korean workers stay in us but most heading home" }
+WthrwvatoitA@{ shape: win-pane, label: "_Published Sep 10, 2025, 02:07 PM_
+‘we all thought the raids were over’: fears return for immigrants in la" }
+Asdriveatiirnk@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:30 AM_
+Agents raid daycare, senior living centre as part of chicago immigration crackdown" }
+IfkmCgurrap@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:45 AM_
+Ice officer kills man in chicago suburb during arrest attempt" }
+Ialttuoigcrhmtfe@{ shape: win-pane, label: "_Published Nov 06, 2025, 05:05 AM_
+Ice plans call centre to track unaccompanied migrant children, other immigration offenders" }
+
+SfictgoiTaita:::txtsize --> Asdriveatiirnk:::txtsize
+Asdriveatiirnk:::txtsize --> IfkmCgurrap:::txtsize
+IfkmCgurrap:::txtsize --> ToeeaKneaSoah:::txtsize
+IfkmCgurrap:::txtsize --> WthrwvatoitA:::txtsize
+Asdriveatiirnk:::txtsize --> Ialttuoigcrhmtfe:::txtsize
+Ialttuoigcrhmtfe:::txtsize --> Taitisgonfeuoigcr:::txtsize
+Ialttuoigcrhmtfe:::txtsize --> Taitfuoigcrvtyeth:::txtsize
+SfictgoiTaita:::txtsize --> Ugeomrlrieltocho:::txtsize
+Ugeomrlrieltocho:::txtsize --> IfkmCgurrap:::txtsize
+IfkmCgurrap:::txtsize --> ToeeaKneaSoah:::txtsize
+IfkmCgurrap:::txtsize --> WthrwvatoitA:::txtsize
+Ugeomrlrieltocho:::txtsize --> Asdriveatiirnk:::txtsize
+Asdriveatiirnk:::txtsize --> IfkmCgurrap:::txtsize
+Asdriveatiirnk:::txtsize --> Ialttuoigcrhmtfe:::txtsize
 
 ```
-<i>Last updated: 2025-11-09 04:00:44.654451 (GMT+8)</i>
+<i>Last updated: 2025-11-09 08:01:13.810396 (GMT+8)</i>
 <!-- END -->
