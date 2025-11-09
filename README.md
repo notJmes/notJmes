@@ -16,120 +16,132 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Eisasiltisc@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:20 PM_
-Explainer: as cop30 gathers, what is the latest in climate science?" }
-WwvogmoneUn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:22 PM_
-World will overshoot 1.5 deg c climate goal in next decade, un warns" }
-Ntnosager@{ shape: win-pane, label: "_Published Oct 13, 2025, 11:10 AM_
-Not nothing, not enough: is the paris agreement working?" }
-Smhotanrmor@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:31 AM_
-September third-hottest globally on record: climate monitor" }
-Ranghsocne@{ shape: win-pane, label: "_Published Oct 07, 2025, 01:21 PM_
-Renewable energy growth slows due to policy changes: report" }
-Cpghgdois@{ shape: win-pane, label: "_Published Sep 25, 2025, 04:57 AM_
-China plans 7-10% greenhouse gas reduction by 2035, xi tells un" }
-OftholnCcttvr@{ shape: win-pane, label: "_Published Sep 18, 2025, 03:10 AM_
-Only 40% of countries have booked lodging for cop30 un climate meet in november" }
-TtUtaastogl@{ shape: win-pane, label: "_Published Sep 24, 2025, 12:17 AM_
-Trump tells un that climate change is ‘greatest con job’ globally" }
-Oflsydgotvageio@{ shape: win-pane, label: "_Published Apr 23, 2025, 12:24 PM_
-Over 80% of coral reefs hit by world’s longest, most extensive bleaching: preservation group" }
-MiSpcsrereniEt@{ shape: win-pane, label: "_Published Apr 14, 2025, 07:30 PM_
-Majority of singapore’s corals have recovered from 2024 bleaching incident: experts" }
-Swslcbhmov@{ shape: win-pane, label: "_Published May 20, 2024, 05:00 AM_
-S’pore waters see slight coral bleaching amid global event" }
-Sposnnerdaaagt@{ shape: win-pane, label: "_Published Oct 31, 2024, 12:30 PM_
-Singapore corals showing signs of recovery amid global coral bleaching event" }
-Sgeirrea@{ shape: win-pane, label: "_Published Nov 18, 2024, 05:00 AM_
-Saving the reefs – with coral larval restoration" }
-Cgfesienehrd@{ shape: win-pane, label: "_Published Nov 09, 2024, 05:50 PM_
-‘coral girl’ of s’pore wants to bring the ocean closer to the heartland" }
+Ulbtefiyvendhs@{ shape: win-pane, label: "_Published Nov 09, 2025, 07:33 PM_
+Us airlines brace themselves for third day of government-mandated flight cuts" }
+TaitroguaSouomhw@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:35 AM_
+Trump administration orders 10% of flights cut at major us airports due to government shutdown" }
+Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
+Us government begins shutdown that may lead to mass layoffs and cuts" }
+TsSrtpbun@{ shape: win-pane, label: "_Published Oct 01, 2025, 01:49 AM_
+Trump says us government will ‘probably’ shut down" }
+Lsounsrfakni@{ shape: win-pane, label: "_Published Nov 05, 2025, 04:22 PM_
+Longest us govt shutdown tests air travel, federal workers and patience" }
+Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
+Us government shutdown becomes longest in history" }
+Unnagnsotcaa@{ shape: win-pane, label: "_Published Oct 30, 2025, 11:50 AM_
+Us economy in the dark as government shutdown cuts off crucial data" }
+AacofsauSsoarc@{ shape: win-pane, label: "_Published Nov 09, 2025, 07:51 AM_
+Air traffic control staffing shortages due to us govt shutdown lead to travel chaos" }
+aWoeveunfotm@{ shape: win-pane, label: "_Published Nov 07, 2025, 05:55 PM_
+Askst: what does the us government shutdown mean for a tourist like me?" }
+Uentdoerlnh@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:45 AM_
+Us government shutdown drags on as senators fail to find path out" }
+TaitroguaSouomhw@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:35 AM_
+Trump administration orders 10% of flights cut at major us airports due to government shutdown" }
+Uvenounpiu@{ shape: win-pane, label: "_Published Nov 07, 2025, 10:28 AM_
+Us travel woes mount as govt shutdown prompts flight cuts" }
+Utsanritlss@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:05 PM_
+Us shutdown sends airlines scrambling as travel chaos looms" }
+Uentdoerlnh@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:45 AM_
+Us government shutdown drags on as senators fail to find path out" }
 
-Eisasiltisc:::txtsize --> WwvogmoneUn:::txtsize
-WwvogmoneUn:::txtsize --> Ntnosager:::txtsize
-Ntnosager:::txtsize --> Smhotanrmor:::txtsize
-Ntnosager:::txtsize --> Ranghsocne:::txtsize
-WwvogmoneUn:::txtsize --> Cpghgdois:::txtsize
-Cpghgdois:::txtsize --> OftholnCcttvr:::txtsize
-Cpghgdois:::txtsize --> TtUtaastogl:::txtsize
-Eisasiltisc:::txtsize --> Oflsydgotvageio:::txtsize
-Oflsydgotvageio:::txtsize --> MiSpcsrereniEt:::txtsize
-MiSpcsrereniEt:::txtsize --> Swslcbhmov:::txtsize
-MiSpcsrereniEt:::txtsize --> Sposnnerdaaagt:::txtsize
-Oflsydgotvageio:::txtsize --> Sgeirrea:::txtsize
-Sgeirrea:::txtsize --> Cgfesienehrd:::txtsize
+Ulbtefiyvendhs:::txtsize --> TaitroguaSouomhw:::txtsize
+TaitroguaSouomhw:::txtsize --> Ueniunmaayat:::txtsize
+Ueniunmaayat:::txtsize --> TsSrtpbun:::txtsize
+TaitroguaSouomhw:::txtsize --> Lsounsrfakni:::txtsize
+Lsounsrfakni:::txtsize --> Uentbegno:::txtsize
+Lsounsrfakni:::txtsize --> Unnagnsotcaa:::txtsize
+Ulbtefiyvendhs:::txtsize --> AacofsauSsoarc:::txtsize
+AacofsauSsoarc:::txtsize --> aWoeveunfotm:::txtsize
+aWoeveunfotm:::txtsize --> Uentdoerlnh:::txtsize
+aWoeveunfotm:::txtsize --> TaitroguaSouomhw:::txtsize
+AacofsauSsoarc:::txtsize --> Uvenounpiu:::txtsize
+Uvenounpiu:::txtsize --> Utsanritlss:::txtsize
+Uvenounpiu:::txtsize --> Uentdoerlnh:::txtsize
 
-Crtpsalrieslmt@{ shape: win-pane, label: "_Published Nov 09, 2025, 02:28 PM_
-Crispr gene therapy slashes ‘bad’ cholesterol, triglycerides by half in small study" }
-Sanfnctagcsllepa@{ shape: win-pane, label: "_Published Jun 19, 2025, 07:35 PM_
-S’poreans can test for genetic condition causing high cholesterol levels under new programme" }
-NHicrfnmtnohcsll@{ shape: win-pane, label: "_Published May 20, 2024, 01:10 PM_
-New kkh clinic for children suffering from genetic condition with high cholesterol levels" }
-Aaaiarempeohso@{ shape: win-pane, label: "_Published Aug 20, 2023, 05:00 AM_
-At 37, he had the arteries of an 80-year-old, needed multiple stents to keep his vessels open" }
-Sgageledifeetudd@{ shape: win-pane, label: "_Published Aug 21, 2024, 06:53 PM_
-S’pore gene-mapping project helps prevent drug side effects,  enables better study of disorders" }
-Nucstsgnemiehtna@{ shape: win-pane, label: "_Published Feb 20, 2023, 03:30 PM_
-New study uncovers genetic risks of getting disease among different ethnicities in singapore" }
-Coyeohaai@{ shape: win-pane, label: "_Published Sep 17, 2024, 12:00 PM_
-Can i lower my cholesterol without taking a statin?" }
-Pelfsrnrsaape@{ shape: win-pane, label: "_Published Oct 17, 2023, 01:30 PM_
-People likely eat far less fibre than their ancestors, and that is a problem" }
-Piseideltceeo@{ shape: win-pane, label: "_Published Aug 29, 2023, 12:00 PM_
-Psyllium husks, a centuries-old fibre supplement, entices a new generation" }
-Dnerytcw@{ shape: win-pane, label: "_Published Aug 11, 2023, 06:00 PM_
-Does an apple a day really keep the doctor away?" }
+Tdhtceenafo@{ shape: win-pane, label: "_Published Nov 09, 2025, 06:23 PM_
+Turks drive hours to buy cheese in greece and escape inflation" }
+Eoogatamhosh@{ shape: win-pane, label: "_Published Nov 05, 2025, 05:38 PM_
+Euro zone economy grows at fastest pace in more than two years, pmi shows" }
+Gneenirempwe@{ shape: win-pane, label: "_Published Oct 24, 2023, 02:40 PM_
+Germany to replace japan as third-largest economy, helped by weak yen" }
+Jwoacntst@{ shape: win-pane, label: "_Published Sep 06, 2023, 09:52 AM_
+Japan warns on yen after currency hits fresh 10-month low" }
+Botgnsiirbeip@{ shape: win-pane, label: "_Published Jul 28, 2023, 08:00 PM_
+Boj loosens tight grip on rates as prices rise, markets bet on even bigger pivot" }
+PietnbgaolEccn@{ shape: win-pane, label: "_Published Nov 03, 2025, 10:17 PM_
+Populist czech vote winner babis signs coalition deal with eurosceptic partners" }
+PiaeDcibeien@{ shape: win-pane, label: "_Published Oct 31, 2025, 10:11 PM_
+‘populists can be beaten’: dutch centrist rob jetten claims election win" }
+Wfrfoontonbasi@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:55 PM_
+World food prices fall for second consecutive month in october on ample supplies" }
+Wfraetaha@{ shape: win-pane, label: "_Published Sep 05, 2025, 06:08 PM_
+World food prices at more than two-year high, fao says" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Wnseaiothcl@{ shape: win-pane, label: "_Published Aug 26, 2025, 09:07 AM_
+Warming seas worsen japan’s price shock with $130 urchin rice bowls" }
+Hiceiyry@{ shape: win-pane, label: "_Published Jul 21, 2025, 11:15 AM_
+How climate change is raising your grocery bill" }
+Smtcneeecyohh@{ shape: win-pane, label: "_Published Mar 04, 2025, 05:00 PM_
+Supermarkets and convenience stores have been costly to people’s health" }
+Cutipereboe@{ shape: win-pane, label: "_Published Apr 26, 2025, 03:30 PM_
+Coconuts get pricier as poor weather drives global shortage" }
 
-Crtpsalrieslmt:::txtsize --> Sanfnctagcsllepa:::txtsize
-Sanfnctagcsllepa:::txtsize --> NHicrfnmtnohcsll:::txtsize
-NHicrfnmtnohcsll:::txtsize --> Aaaiarempeohso:::txtsize
-Sanfnctagcsllepa:::txtsize --> Sgageledifeetudd:::txtsize
-Sgageledifeetudd:::txtsize --> Nucstsgnemiehtna:::txtsize
-Crtpsalrieslmt:::txtsize --> Coyeohaai:::txtsize
-Coyeohaai:::txtsize --> Pelfsrnrsaape:::txtsize
-Pelfsrnrsaape:::txtsize --> Piseideltceeo:::txtsize
-Pelfsrnrsaape:::txtsize --> Dnerytcw:::txtsize
+Tdhtceenafo:::txtsize --> Eoogatamhosh:::txtsize
+Eoogatamhosh:::txtsize --> Gneenirempwe:::txtsize
+Gneenirempwe:::txtsize --> Jwoacntst:::txtsize
+Gneenirempwe:::txtsize --> Botgnsiirbeip:::txtsize
+Eoogatamhosh:::txtsize --> PietnbgaolEccn:::txtsize
+PietnbgaolEccn:::txtsize --> PiaeDcibeien:::txtsize
+Tdhtceenafo:::txtsize --> Wfrfoontonbasi:::txtsize
+Wfrfoontonbasi:::txtsize --> Wfraetaha:::txtsize
+Wfraetaha:::txtsize --> DsruasvUn:::txtsize
+Wfraetaha:::txtsize --> Wnseaiothcl:::txtsize
+Wfrfoontonbasi:::txtsize --> Hiceiyry:::txtsize
+Hiceiyry:::txtsize --> Smtcneeecyohh:::txtsize
+Hiceiyry:::txtsize --> Cutipereboe:::txtsize
 
-lfabmeeSrnuoess@{ shape: win-pane, label: "_Published Nov 09, 2025, 02:18 PM_
-2 lots of byheart baby formula recalled in us after infant botulism outbreak in 10 states" }
-Grsteeiorncna@{ shape: win-pane, label: "_Published Feb 17, 2025, 11:54 PM_
-Gerber baby snack to be recalled in singapore for potential choking hazard" }
-wtpcliuhasa@{ shape: win-pane, label: "_Published Feb 11, 2025, 06:35 PM_
-2 weight-loss products sold online found to have banned substances" }
-TwtpcucinbcA@{ shape: win-pane, label: "_Published Oct 08, 2024, 04:45 PM_
-Three weight-loss products found to contain banned substances: sfa" }
-Ssagrhsifteese@{ shape: win-pane, label: "_Published Sep 17, 2024, 11:12 PM_
-Sfa issues warning after 4 weight-loss food items found to have banned substances" }
-Sdeodopcrionlce@{ shape: win-pane, label: "_Published Feb 07, 2025, 11:55 PM_
-Sfa orders recall of food seasoning products for possibly containing plastic pieces" }
-RleoncdoefeF@{ shape: win-pane, label: "_Published Feb 06, 2025, 09:47 PM_
-Raw milk cheese from france recalled due to presence of bacteria: sfa" }
-ScStGraoolsoac@{ shape: win-pane, label: "_Published Dec 13, 2024, 10:50 PM_
-Sfa recalls select madegood granola bars over possible presence of metal piece" }
-FrellSSsrith@{ shape: win-pane, label: "_Published Oct 14, 2024, 11:45 AM_
-Fisher-price recalls 2 million ‘snuga swings’ after five infant deaths" }
-Mllsrnnssftifia@{ shape: win-pane, label: "_Published Oct 11, 2024, 02:10 AM_
-Mattel recalls fisher-price snuga infant swings on suffocation risks after five deaths" }
-Baagesmirohnk@{ shape: win-pane, label: "_Published Aug 30, 2024, 11:00 AM_
-Baby-care brand pigeon recalls steam steriliser due to overheating risk" }
-RtanuicNmboaemA@{ shape: win-pane, label: "_Published Jan 01, 2024, 02:13 AM_
-Reckitt's mead johnson nutrition recalls nutramigen baby formula powder from us, fda says" }
-Baagesmirohnk@{ shape: win-pane, label: "_Published Aug 30, 2024, 11:00 AM_
-Baby-care brand pigeon recalls steam steriliser due to overheating risk" }
+SniaeagfSvmtrli@{ shape: win-pane, label: "_Published Nov 09, 2025, 05:58 PM_
+Syrian president arrives in washington after us removes him from terrorism blacklist" }
+UslaoSsiaotsi@{ shape: win-pane, label: "_Published Nov 05, 2025, 08:17 AM_
+Us asks un to lift sanctions on syria’s president ahead of white house visit" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
+Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
+Ttosinajlh@{ shape: win-pane, label: "_Published May 14, 2025, 01:02 AM_
+Trump to remove us sanctions on syria in major policy shift" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+FerntSsi@{ shape: win-pane, label: "_Published May 08, 2025, 12:42 AM_
+France’s macron wants eu to end syria sanctions" }
+SceppotasSs@{ shape: win-pane, label: "_Published Nov 09, 2025, 04:40 AM_
+Syria carries out pre-emptive operations against isis cells" }
+SneehtdstNbyn@{ shape: win-pane, label: "_Published Nov 01, 2025, 11:51 PM_
+Syrian leader ahmed al-sharaa to head to washington in november, says us envoy" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Uitahetsierus@{ shape: win-pane, label: "_Published Nov 07, 2025, 02:20 AM_
+Us military to establish presence at damascus airbase in syria, sources say" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Ssalirniwetaatc@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:45 PM_
+Syria’s sharaa tells putin at kremlin meeting he will respect all past deals with moscow" }
 
-lfabmeeSrnuoess:::txtsize --> Grsteeiorncna:::txtsize
-Grsteeiorncna:::txtsize --> wtpcliuhasa:::txtsize
-wtpcliuhasa:::txtsize --> TwtpcucinbcA:::txtsize
-wtpcliuhasa:::txtsize --> Ssagrhsifteese:::txtsize
-Grsteeiorncna:::txtsize --> Sdeodopcrionlce:::txtsize
-Sdeodopcrionlce:::txtsize --> RleoncdoefeF:::txtsize
-Sdeodopcrionlce:::txtsize --> ScStGraoolsoac:::txtsize
-lfabmeeSrnuoess:::txtsize --> FrellSSsrith:::txtsize
-FrellSSsrith:::txtsize --> Mllsrnnssftifia:::txtsize
-Mllsrnnssftifia:::txtsize --> Baagesmirohnk:::txtsize
-Mllsrnnssftifia:::txtsize --> RtanuicNmboaemA:::txtsize
-FrellSSsrith:::txtsize --> Baagesmirohnk:::txtsize
+SniaeagfSvmtrli:::txtsize --> UslaoSsiaotsi:::txtsize
+UslaoSsiaotsi:::txtsize --> SnltiARahtoy:::txtsize
+SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
+UslaoSsiaotsi:::txtsize --> Ttosinajlh:::txtsize
+Ttosinajlh:::txtsize --> SnltiARahtoy:::txtsize
+Ttosinajlh:::txtsize --> FerntSsi:::txtsize
+SniaeagfSvmtrli:::txtsize --> SceppotasSs:::txtsize
+SceppotasSs:::txtsize --> SneehtdstNbyn:::txtsize
+SneehtdstNbyn:::txtsize --> SnltiARahtoy:::txtsize
+SceppotasSs:::txtsize --> Uitahetsierus:::txtsize
+Uitahetsierus:::txtsize --> SnltiARahtoy:::txtsize
+Uitahetsierus:::txtsize --> Ssalirniwetaatc:::txtsize
 
 ```
-<i>Last updated: 2025-11-09 16:01:11.820090 (GMT+8)</i>
+<i>Last updated: 2025-11-09 20:00:42.339163 (GMT+8)</i>
 <!-- END -->
