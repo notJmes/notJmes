@@ -16,117 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Mtldhnotrxs@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:15 PM_
-Mimmo the dolphin delights venice tourists, worries experts" }
-Aedoenneaoetc@{ shape: win-pane, label: "_Published Nov 10, 2025, 05:25 PM_
-Ai-generated videos of bears in japan on the rise amid more frequent attacks" }
-Jstsmewfak@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:15 PM_
-Japan sends troops to combat deadly wave of bear attacks" }
-Jsegearlu@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:32 PM_
-Japan’s hunters bag higher pay as bear problem mounts" }
-Wfdntittaetut@{ shape: win-pane, label: "_Published Nov 03, 2025, 04:35 PM_
-Woman found dead in mountains in north-eastern japan; bear attack suspected" }
-TattJeaarrsusp@{ shape: win-pane, label: "_Published Nov 07, 2025, 12:50 PM_
-The roar that haunts him: japanese bear attack survivor calls for ruthless response" }
-Jvorufebtds@{ shape: win-pane, label: "_Published Oct 22, 2025, 06:49 PM_
-Japan vows tougher measures after record bear attack deaths" }
-Jstsmewfak@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:15 PM_
-Japan sends troops to combat deadly wave of bear attacks" }
-Siopigteiolnnr@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:19 AM_
-Stinking, spongy, sparkling: huge 1,100 sq ft spiderweb in europe unlike any seen before" }
-HyyenoksSppoibni@{ shape: win-pane, label: "_Published Mar 17, 2025, 05:00 AM_
-How a mystery spider’s candyfloss-like egg sac in singapore spun a worldwide web of connections" }
-Rrihodledigige@{ shape: win-pane, label: "_Published Mar 13, 2024, 08:19 PM_
-Rare crab spider that looks and smells like bird dropping sighted in singapore" }
-Ogdgtgedn@{ shape: win-pane, label: "_Published May 08, 2023, 05:00 AM_
-On the ground at night with singapore’s spider-men" }
+Annoalsvuni@{ shape: win-pane, label: "_Published Nov 10, 2025, 10:23 PM_
+Airlines cancel more than 1,500 us flights on nov 10 as shutdown persists" }
+Uglalnetifolhgr@{ shape: win-pane, label: "_Published Nov 10, 2025, 06:48 AM_
+Us flight delays, cancellations accelerate as air traffic controller shortages surge" }
+Ulbtefiyvendhs@{ shape: win-pane, label: "_Published Nov 09, 2025, 07:33 PM_
+Us airlines brace themselves for third day of government-mandated flight cuts" }
+TaitroguaSouomhw@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:35 AM_
+Trump administration orders 10% of flights cut at major us airports due to government shutdown" }
+AacofsauSsoarc@{ shape: win-pane, label: "_Published Nov 09, 2025, 07:51 AM_
+Air traffic control staffing shortages due to us govt shutdown lead to travel chaos" }
+Uavstfat@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:45 AM_
+Us senate advances bill to end federal shutdown" }
+Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
+Us government shutdown becomes longest in history" }
+Uglalnetifolhgr@{ shape: win-pane, label: "_Published Nov 10, 2025, 06:48 AM_
+Us flight delays, cancellations accelerate as air traffic controller shortages surge" }
+Uavstfat@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:45 AM_
+Us senate advances bill to end federal shutdown" }
+Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
+Us government shutdown becomes longest in history" }
+AcobeaSdnsdh@{ shape: win-pane, label: "_Published Nov 01, 2025, 01:34 AM_
+Americans worry about next meal as us shutdown enters second month" }
+Uentesraosactt@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:47 PM_
+Us government shutdown enters record 35th day as congressional inaction takes toll" }
+Uglalnetifolhgr@{ shape: win-pane, label: "_Published Nov 10, 2025, 06:48 AM_
+Us flight delays, cancellations accelerate as air traffic controller shortages surge" }
+Ulbtefiyvendhs@{ shape: win-pane, label: "_Published Nov 09, 2025, 07:33 PM_
+Us airlines brace themselves for third day of government-mandated flight cuts" }
+Uavstfat@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:45 AM_
+Us senate advances bill to end federal shutdown" }
 
-Mtldhnotrxs:::txtsize --> Aedoenneaoetc:::txtsize
-Aedoenneaoetc:::txtsize --> Jstsmewfak:::txtsize
-Jstsmewfak:::txtsize --> Jsegearlu:::txtsize
-Jstsmewfak:::txtsize --> Wfdntittaetut:::txtsize
-Aedoenneaoetc:::txtsize --> TattJeaarrsusp:::txtsize
-TattJeaarrsusp:::txtsize --> Jvorufebtds:::txtsize
-TattJeaarrsusp:::txtsize --> Jstsmewfak:::txtsize
-Mtldhnotrxs:::txtsize --> Siopigteiolnnr:::txtsize
-Siopigteiolnnr:::txtsize --> HyyenoksSppoibni:::txtsize
-HyyenoksSppoibni:::txtsize --> Rrihodledigige:::txtsize
-HyyenoksSppoibni:::txtsize --> Ogdgtgedn:::txtsize
+Annoalsvuni:::txtsize --> Uglalnetifolhgr:::txtsize
+Uglalnetifolhgr:::txtsize --> Ulbtefiyvendhs:::txtsize
+Ulbtefiyvendhs:::txtsize --> TaitroguaSouomhw:::txtsize
+Ulbtefiyvendhs:::txtsize --> AacofsauSsoarc:::txtsize
+Uglalnetifolhgr:::txtsize --> Uavstfat:::txtsize
+Uavstfat:::txtsize --> Uentbegno:::txtsize
+Uavstfat:::txtsize --> Uglalnetifolhgr:::txtsize
+Annoalsvuni:::txtsize --> Uavstfat:::txtsize
+Uavstfat:::txtsize --> Uentbegno:::txtsize
+Uentbegno:::txtsize --> AcobeaSdnsdh:::txtsize
+Uentbegno:::txtsize --> Uentesraosactt:::txtsize
+Uavstfat:::txtsize --> Uglalnetifolhgr:::txtsize
+Uglalnetifolhgr:::txtsize --> Ulbtefiyvendhs:::txtsize
+Uglalnetifolhgr:::txtsize --> Uavstfat:::txtsize
 
-Iucynrssoi@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:13 PM_
-It’s trump’s economy now and americans don’t seem to love it" }
-Drotsvomcetrte@{ shape: win-pane, label: "_Published Nov 06, 2025, 03:50 AM_
-Democrats dominate first big votes of trump’s second term, but uncertainties remain" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
-Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
-Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
-Takeaways from us election night 2025" }
-Hfbymydipis@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:59 PM_
-How affordability became the year’s defining us political issue" }
-ThuMnlmenekmae@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:15 PM_
-‘turn the volume up,’ mamdani tells trump after winning new york city mayoral race" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
+Bwscdlampsh@{ shape: win-pane, label: "_Published Nov 10, 2025, 10:01 PM_
+Bbc news says it received legal threat from trump over speech edit" }
+Banosrfmnpct@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:06 PM_
+Bbc chairman apologises for ‘error of judgment’ in trump speech edit" }
+BsislBsisedpsnies@{ shape: win-pane, label: "_Published Nov 09, 2025, 09:00 PM_
+British minister says claims bbc misled viewers with edited trump clips are ‘incredibly serious’" }
+TtpswoCooamdphcmvn@{ shape: win-pane, label: "_Published Jan 07, 2021, 06:21 AM_
+Trump tells protesters who stormed capitol to go home as former aides implore him to condemn the violence" }
+PoesToisiewin@{ shape: win-pane, label: "_Published Jul 02, 2025, 02:09 PM_
+Paramount settles with trump over 60 minutes harris interview for $20 million" }
+TtpswoCooamdphcmvn@{ shape: win-pane, label: "_Published Jan 07, 2021, 06:21 AM_
+Trump tells protesters who stormed capitol to go home as former aides implore him to condemn the violence" }
+peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
+4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
+BsislBsisedpsnies@{ shape: win-pane, label: "_Published Nov 09, 2025, 09:00 PM_
+British minister says claims bbc misled viewers with edited trump clips are ‘incredibly serious’" }
+TtpswoCooamdphcmvn@{ shape: win-pane, label: "_Published Jan 07, 2021, 06:21 AM_
+Trump tells protesters who stormed capitol to go home as former aides implore him to condemn the violence" }
+peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
+4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
+PoesToisiewin@{ shape: win-pane, label: "_Published Jul 02, 2025, 02:09 PM_
+Paramount settles with trump over 60 minutes harris interview for $20 million" }
+TsBrlrteis@{ shape: win-pane, label: "_Published Nov 01, 2024, 05:40 AM_
+Trump sues cbs over kamala harris interview on 60 minutes" }
+UwBasemnbhr@{ shape: win-pane, label: "_Published Dec 15, 2024, 07:40 AM_
+Us network abc to pay $20m to settle defamation suit brought by trump" }
 
-Iucynrssoi:::txtsize --> Drotsvomcetrte:::txtsize
-Drotsvomcetrte:::txtsize --> YMmnoihaiYilehpea:::txtsize
-YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
-YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
-Iucynrssoi:::txtsize --> Hfbymydipis:::txtsize
-Hfbymydipis:::txtsize --> ThuMnlmenekmae:::txtsize
-ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
-ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
+Bwscdlampsh:::txtsize --> Banosrfmnpct:::txtsize
+Banosrfmnpct:::txtsize --> BsislBsisedpsnies:::txtsize
+BsislBsisedpsnies:::txtsize --> TtpswoCooamdphcmvn:::txtsize
+BsislBsisedpsnies:::txtsize --> PoesToisiewin:::txtsize
+Banosrfmnpct:::txtsize --> TtpswoCooamdphcmvn:::txtsize
+TtpswoCooamdphcmvn:::txtsize --> peapubmalrest:::txtsize
+Bwscdlampsh:::txtsize --> BsislBsisedpsnies:::txtsize
+BsislBsisedpsnies:::txtsize --> TtpswoCooamdphcmvn:::txtsize
+TtpswoCooamdphcmvn:::txtsize --> peapubmalrest:::txtsize
+BsislBsisedpsnies:::txtsize --> PoesToisiewin:::txtsize
+PoesToisiewin:::txtsize --> TsBrlrteis:::txtsize
+PoesToisiewin:::txtsize --> UwBasemnbhr:::txtsize
 
-Clsnneseoansi@{ shape: win-pane, label: "_Published Nov 10, 2025, 06:20 PM_
-Catholic bishop in spain denies abuse allegation as vatican opens inquiry" }
-Atlspttispg@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:05 PM_
-Almost 4,400 people abused by priests in italy, victims’ group alleges" }
-Pelhbpteegn@{ shape: win-pane, label: "_Published Sep 12, 2025, 05:28 PM_
-Pope leo tells catholic bishops not to hide abuse allegations" }
-Peesiassair@{ shape: win-pane, label: "_Published Jul 05, 2025, 07:16 PM_
-Pope leo takes first action to address abuse by catholic clergy" }
-IahChrguosen@{ shape: win-pane, label: "_Published May 28, 2025, 10:09 PM_
-Italian catholic church reports higher number of abuse cases in 2023 and 2024" }
-Pedstirreabhcy@{ shape: win-pane, label: "_Published Oct 20, 2025, 09:07 PM_
-Pope leo holds first meeting with survivors of sexual abuse by catholic clergy" }
-Cluowlavmiaa@{ shape: win-pane, label: "_Published Oct 16, 2025, 05:35 PM_
-Catholic church too slow in helping abuse victims, vatican panel says" }
-UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
-Us cardinal prevost elected pope leo xiv, first american pontiff" }
-Atlspttispg@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:05 PM_
-Almost 4,400 people abused by priests in italy, victims’ group alleges" }
-Pelhbpteegn@{ shape: win-pane, label: "_Published Sep 12, 2025, 05:28 PM_
-Pope leo tells catholic bishops not to hide abuse allegations" }
-Peesiassair@{ shape: win-pane, label: "_Published Jul 05, 2025, 07:16 PM_
-Pope leo takes first action to address abuse by catholic clergy" }
-IahChrguosen@{ shape: win-pane, label: "_Published May 28, 2025, 10:09 PM_
-Italian catholic church reports higher number of abuse cases in 2023 and 2024" }
-Pedstirreabhcy@{ shape: win-pane, label: "_Published Oct 20, 2025, 09:07 PM_
-Pope leo holds first meeting with survivors of sexual abuse by catholic clergy" }
-Cluowlavmiaa@{ shape: win-pane, label: "_Published Oct 16, 2025, 05:35 PM_
-Catholic church too slow in helping abuse victims, vatican panel says" }
-UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
-Us cardinal prevost elected pope leo xiv, first american pontiff" }
+Uildcisiiig@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:20 PM_
+Us strikes alleged drug-carrying vessels in pacific, killing six" }
+Nseldolrytc@{ shape: win-pane, label: "_Published Nov 07, 2025, 12:27 PM_
+New us strike on alleged drug boat kills three, says pentagon chief" }
+Eirdyroersl@{ shape: win-pane, label: "_Published Oct 31, 2025, 06:16 PM_
+Explainer: are the deadly us strikes on alleged drug vessels legal?​" }
+Nselgufexeeov@{ shape: win-pane, label: "_Published Oct 29, 2025, 01:00 AM_
+New us strikes kill 14 alleged drug traffickers, mexico leads rescue of survivor" }
+Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
+Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
+TcrAotnzrnsou@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:05 AM_
+Trump confirms cia authorisation in venezuela, raising pressure on maduro" }
+VulClaaispbr@{ shape: win-pane, label: "_Published Oct 28, 2025, 01:03 PM_
+Venezuela claims cia ‘false flag’ attack foiled, as us deploys bombers" }
+Tseaonencl@{ shape: win-pane, label: "_Published Oct 24, 2025, 05:55 AM_
+Trump says declaration of war not needed on drug cartels" }
+Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
+Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
 
-Clsnneseoansi:::txtsize --> Atlspttispg:::txtsize
-Atlspttispg:::txtsize --> Pelhbpteegn:::txtsize
-Pelhbpteegn:::txtsize --> Peesiassair:::txtsize
-Pelhbpteegn:::txtsize --> IahChrguosen:::txtsize
-Atlspttispg:::txtsize --> Pedstirreabhcy:::txtsize
-Pedstirreabhcy:::txtsize --> Cluowlavmiaa:::txtsize
-Pedstirreabhcy:::txtsize --> UdPscooimat:::txtsize
-Clsnneseoansi:::txtsize --> Atlspttispg:::txtsize
-Atlspttispg:::txtsize --> Pelhbpteegn:::txtsize
-Pelhbpteegn:::txtsize --> Peesiassair:::txtsize
-Pelhbpteegn:::txtsize --> IahChrguosen:::txtsize
-Atlspttispg:::txtsize --> Pedstirreabhcy:::txtsize
-Pedstirreabhcy:::txtsize --> Cluowlavmiaa:::txtsize
-Pedstirreabhcy:::txtsize --> UdPscooimat:::txtsize
+Uildcisiiig:::txtsize --> Nseldolrytc:::txtsize
+Uildcisiiig:::txtsize --> Eirdyroersl:::txtsize
+Eirdyroersl:::txtsize --> Nselgufexeeov:::txtsize
+Nselgufexeeov:::txtsize --> Uidycceuomasnswee:::txtsize
+Nselgufexeeov:::txtsize --> TcrAotnzrnsou:::txtsize
+Eirdyroersl:::txtsize --> VulClaaispbr:::txtsize
+VulClaaispbr:::txtsize --> Tseaonencl:::txtsize
+VulClaaispbr:::txtsize --> Uidycceuomasnswee:::txtsize
 
 ```
-<i>Last updated: 2025-11-10 20:00:27.238334 (GMT+8)</i>
+<i>Last updated: 2025-11-11 00:00:54.763834 (GMT+8)</i>
 <!-- END -->
