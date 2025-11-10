@@ -16,138 +16,111 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-WBneSstsiG@{ shape: win-pane, label: "_Published Nov 10, 2025, 03:05 AM_
-World bank, in letter to us, backs draft un resolution on gaza" }
-UtNtoNinnzcd@{ shape: win-pane, label: "_Published Nov 07, 2025, 09:35 AM_
-Us to start un negotiations on nov 6 on international gaza force mandate" }
-Uatdnaacareonw@{ shape: win-pane, label: "_Published Nov 05, 2025, 08:02 AM_
-Us may ask un to mandate international force in gaza for two years, document shows" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Udoaitotnous@{ shape: win-pane, label: "_Published Nov 03, 2025, 11:57 PM_
-Un mandate for gaza stabilisation force still in the works, turkey says" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
-What does trump’s gaza peace plan promise?" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
+Rahpclmo@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:05 AM_
+Rare patek philippe watch sells for $22.9 million" }
+TagBnhcait@{ shape: win-pane, label: "_Published Jul 10, 2025, 11:59 PM_
+The $12.8m bag: original birkin smashes records at paris auction" }
+Hsswoellkg@{ shape: win-pane, label: "_Published Mar 21, 2024, 01:40 PM_
+Hermes faces us lawsuit over ‘refusal’ to sell birkin bag" }
+HotRewpgra@{ shape: win-pane, label: "_Published Sep 01, 2023, 04:11 PM_
+Hong kong actress rain lee shows off pet dog in $70,000 hermes bag" }
+Hsafestic@{ shape: win-pane, label: "_Published Jun 10, 2025, 07:22 PM_
+Human-size labubu figure sells for $193,000 at beijing auction" }
 
-WBneSstsiG:::txtsize --> UtNtoNinnzcd:::txtsize
-UtNtoNinnzcd:::txtsize --> Uatdnaacareonw:::txtsize
-Uatdnaacareonw:::txtsize --> AtHfezerydatoGel:::txtsize
-Uatdnaacareonw:::txtsize --> Udoaitotnous:::txtsize
-UtNtoNinnzcd:::txtsize --> AtHfezerydatoGel:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-WBneSstsiG:::txtsize --> Wouaaam:::txtsize
-Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-Wouaaam:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Rahpclmo:::txtsize --> TagBnhcait:::txtsize
+TagBnhcait:::txtsize --> Hsswoellkg:::txtsize
+Hsswoellkg:::txtsize --> HotRewpgra:::txtsize
+Rahpclmo:::txtsize --> Hsafestic:::txtsize
 
-Bshfqfroneri@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:45 AM_
-Bbc boss and head of news quit after trump documentary edit criticism" }
-Gonsobhcyerws@{ shape: win-pane, label: "_Published Jul 15, 2025, 01:09 AM_
-Gaza documentary shown on bbc breached accuracy guideline, review finds" }
-UenleewBrdey@{ shape: win-pane, label: "_Published Feb 28, 2025, 11:49 PM_
-Uk government calls urgent meeting with bbc over gaza documentary" }
-Ilaiecfiratp@{ shape: win-pane, label: "_Published Mar 01, 2025, 01:04 AM_
-Israel and hamas diverge over ceasefire with first phase set to expire" }
-Rsrhgohrntnus@{ shape: win-pane, label: "_Published Mar 01, 2025, 01:05 AM_
-Released israeli hostage recounts hunger, chains that ‘cut into your flesh’" }
-IlaaiOwrrBei@{ shape: win-pane, label: "_Published Mar 26, 2025, 03:03 AM_
-Israel releases palestinian oscar winner after west bank detention" }
-PtnceOwnuardra@{ shape: win-pane, label: "_Published Mar 25, 2025, 11:11 AM_
-Palestinian director behind oscar-winning documentary arrested by israeli army" }
-BsislBsisedpsnies@{ shape: win-pane, label: "_Published Nov 09, 2025, 09:00 PM_
-British minister says claims bbc misled viewers with edited trump clips are ‘incredibly serious’" }
-TtpswoCooamdphcmvn@{ shape: win-pane, label: "_Published Jan 07, 2021, 06:21 AM_
-Trump tells protesters who stormed capitol to go home as former aides implore him to condemn the violence" }
-peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
-4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
-PoesToisiewin@{ shape: win-pane, label: "_Published Jul 02, 2025, 02:09 PM_
-Paramount settles with trump over 60 minutes harris interview for $20 million" }
-TsBrlrteis@{ shape: win-pane, label: "_Published Nov 01, 2024, 05:40 AM_
-Trump sues cbs over kamala harris interview on 60 minutes" }
-UwBasemnbhr@{ shape: win-pane, label: "_Published Dec 15, 2024, 07:40 AM_
-Us network abc to pay $20m to settle defamation suit brought by trump" }
-
-Bshfqfroneri:::txtsize --> Gonsobhcyerws:::txtsize
-Gonsobhcyerws:::txtsize --> UenleewBrdey:::txtsize
-UenleewBrdey:::txtsize --> Ilaiecfiratp:::txtsize
-UenleewBrdey:::txtsize --> Rsrhgohrntnus:::txtsize
-Gonsobhcyerws:::txtsize --> IlaaiOwrrBei:::txtsize
-IlaaiOwrrBei:::txtsize --> PtnceOwnuardra:::txtsize
-Bshfqfroneri:::txtsize --> BsislBsisedpsnies:::txtsize
-BsislBsisedpsnies:::txtsize --> TtpswoCooamdphcmvn:::txtsize
-TtpswoCooamdphcmvn:::txtsize --> peapubmalrest:::txtsize
-BsislBsisedpsnies:::txtsize --> PoesToisiewin:::txtsize
-PoesToisiewin:::txtsize --> TsBrlrteis:::txtsize
-PoesToisiewin:::txtsize --> UwBasemnbhr:::txtsize
-
-Uettorifodf@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:09 AM_
-Usda tells states to undo efforts to issue full food aid benefits" }
-Uroeutdifido@{ shape: win-pane, label: "_Published Nov 08, 2025, 08:39 AM_
-Us supreme court lets trump withhold $5.2 billion in food aid funding for now" }
-MoAcoedaromhwmirn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:30 AM_
-Millions of americans to get reduced food aid during government shutdown: trump administration" }
-Uentesnknih@{ shape: win-pane, label: "_Published Oct 06, 2025, 09:01 PM_
-Us government shutdown enters second week with no end in sight" }
-Frmognsonpewei@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:32 AM_
-For first time in long us government shutdown, hints of progress toward reopening" }
-Tttohodcsrsuor@{ shape: win-pane, label: "_Published Nov 05, 2025, 03:24 AM_
-Trump threatens to withhold food aid as us cities, non-profits ask judge to intervene" }
-Uentesraosactt@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:47 PM_
-Us government shutdown enters record 35th day as congressional inaction takes toll" }
-Gnsouomicltf@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:13 AM_
-Government shutdown could close some us airspace, airline stocks fall" }
-TcfvecoilhpUttdn@{ shape: win-pane, label: "_Published Nov 09, 2025, 02:26 AM_
-Trump calls for giving healthcare money ‘directly to the people’ as us shutdown talks drag on" }
-UajBoodwresdrd@{ shape: win-pane, label: "_Published Nov 08, 2025, 08:50 AM_
-Us senate rejects bill to restore federal worker pay, remains at odds over shutdown" }
-Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
-Us government shutdown becomes longest in history" }
+Uglalnetifolhgrrhw@{ shape: win-pane, label: "_Published Nov 10, 2025, 06:48 AM_
+Us flight delays, cancellations accelerate as air traffic controller shortages surge during shutdown" }
+Ulbtefiyvendhs@{ shape: win-pane, label: "_Published Nov 09, 2025, 07:33 PM_
+Us airlines brace themselves for third day of government-mandated flight cuts" }
+TaitroguaSouomhw@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:35 AM_
+Trump administration orders 10% of flights cut at major us airports due to government shutdown" }
+Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
+Us government begins shutdown that may lead to mass layoffs and cuts" }
+Lsounsrfakni@{ shape: win-pane, label: "_Published Nov 05, 2025, 04:22 PM_
+Longest us govt shutdown tests air travel, federal workers and patience" }
+AacofsauSsoarc@{ shape: win-pane, label: "_Published Nov 09, 2025, 07:51 AM_
+Air traffic control staffing shortages due to us govt shutdown lead to travel chaos" }
 aWoeveunfotm@{ shape: win-pane, label: "_Published Nov 07, 2025, 05:55 PM_
 Askst: what does the us government shutdown mean for a tourist like me?" }
+Uvenounpiu@{ shape: win-pane, label: "_Published Nov 07, 2025, 10:28 AM_
+Us travel woes mount as govt shutdown prompts flight cuts" }
 Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
 Us government shutdown becomes longest in history" }
 AcobeaSdnsdh@{ shape: win-pane, label: "_Published Nov 01, 2025, 01:34 AM_
 Americans worry about next meal as us shutdown enters second month" }
+Waswhomhw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:42 PM_
+What happens next with the us government shutdown?" }
+Tsrermvlyuso@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:18 AM_
+Trump says private donor gave $160m to cover military pay during shutdown" }
 Uentesraosactt@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:47 PM_
 Us government shutdown enters record 35th day as congressional inaction takes toll" }
+Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
+Us government begins shutdown that may lead to mass layoffs and cuts" }
+MoAcoedaromhwmirn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:30 AM_
+Millions of americans to get reduced food aid during government shutdown: trump administration" }
 
-Uettorifodf:::txtsize --> Uroeutdifido:::txtsize
-Uroeutdifido:::txtsize --> MoAcoedaromhwmirn:::txtsize
-MoAcoedaromhwmirn:::txtsize --> Uentesnknih:::txtsize
-MoAcoedaromhwmirn:::txtsize --> Frmognsonpewei:::txtsize
-Uroeutdifido:::txtsize --> Tttohodcsrsuor:::txtsize
-Tttohodcsrsuor:::txtsize --> Uentesraosactt:::txtsize
-Tttohodcsrsuor:::txtsize --> Gnsouomicltf:::txtsize
-Uettorifodf:::txtsize --> TcfvecoilhpUttdn:::txtsize
-TcfvecoilhpUttdn:::txtsize --> UajBoodwresdrd:::txtsize
-UajBoodwresdrd:::txtsize --> Uentbegno:::txtsize
-UajBoodwresdrd:::txtsize --> aWoeveunfotm:::txtsize
-TcfvecoilhpUttdn:::txtsize --> Uentbegno:::txtsize
+Uglalnetifolhgrrhw:::txtsize --> Ulbtefiyvendhs:::txtsize
+Ulbtefiyvendhs:::txtsize --> TaitroguaSouomhw:::txtsize
+TaitroguaSouomhw:::txtsize --> Ueniunmaayat:::txtsize
+TaitroguaSouomhw:::txtsize --> Lsounsrfakni:::txtsize
+Ulbtefiyvendhs:::txtsize --> AacofsauSsoarc:::txtsize
+AacofsauSsoarc:::txtsize --> aWoeveunfotm:::txtsize
+AacofsauSsoarc:::txtsize --> Uvenounpiu:::txtsize
+Uglalnetifolhgrrhw:::txtsize --> Uentbegno:::txtsize
 Uentbegno:::txtsize --> AcobeaSdnsdh:::txtsize
+AcobeaSdnsdh:::txtsize --> Waswhomhw:::txtsize
+AcobeaSdnsdh:::txtsize --> Tsrermvlyuso:::txtsize
 Uentbegno:::txtsize --> Uentesraosactt:::txtsize
+Uentesraosactt:::txtsize --> Ueniunmaayat:::txtsize
+Uentesraosactt:::txtsize --> MoAcoedaromhwmirn:::txtsize
+
+WHdsanstmeaaT@{ shape: win-pane, label: "_Published Nov 10, 2025, 06:29 AM_
+White house discussed naming new washington commanders stadium after trump" }
+TttagtmuseaRim@{ shape: win-pane, label: "_Published Jul 21, 2025, 07:00 AM_
+Trump threatens washington stadium deal unless nfl team re-adopt redskins name" }
+ActetpfrNei@{ shape: win-pane, label: "_Published Jul 20, 2025, 11:55 AM_
+‘america has to come first’: trump wins favour with native americans" }
+Ttfttoiueats@{ shape: win-pane, label: "_Published Jul 10, 2025, 07:09 AM_
+Trump tariffs aim to settle scores with countries, no matter their size" }
+Tcbpdvaooi@{ shape: win-pane, label: "_Published Jun 28, 2025, 04:06 AM_
+Trump calls being president a ‘very dangerous profession’" }
+TXhtddgbemSKSes@{ shape: win-pane, label: "_Published Jul 20, 2025, 11:32 PM_
+Trump, xi might meet ahead of or during october apec summit in south korea, scmp reports" }
+Tdsceaiyogo@{ shape: win-pane, label: "_Published Jul 19, 2025, 08:15 PM_
+Trump duties to decimate china profits, says bloomberg economics" }
+NeirsrabbagNae@{ shape: win-pane, label: "_Published Jul 22, 2025, 10:18 AM_
+Native american groups slam trump call to bring back washington’s nfl team name" }
+TttagtmuseaRim@{ shape: win-pane, label: "_Published Jul 21, 2025, 07:00 AM_
+Trump threatens washington stadium deal unless nfl team re-adopt redskins name" }
+ActetpfrNei@{ shape: win-pane, label: "_Published Jul 20, 2025, 11:55 AM_
+‘america has to come first’: trump wins favour with native americans" }
+TXhtddgbemSKSes@{ shape: win-pane, label: "_Published Jul 20, 2025, 11:32 PM_
+Trump, xi might meet ahead of or during october apec summit in south korea, scmp reports" }
+ActetpfrNei@{ shape: win-pane, label: "_Published Jul 20, 2025, 11:55 AM_
+‘america has to come first’: trump wins favour with native americans" }
+Ttfttoiueats@{ shape: win-pane, label: "_Published Jul 10, 2025, 07:09 AM_
+Trump tariffs aim to settle scores with countries, no matter their size" }
+Tcbpdvaooi@{ shape: win-pane, label: "_Published Jun 28, 2025, 04:06 AM_
+Trump calls being president a ‘very dangerous profession’" }
+
+WHdsanstmeaaT:::txtsize --> TttagtmuseaRim:::txtsize
+TttagtmuseaRim:::txtsize --> ActetpfrNei:::txtsize
+ActetpfrNei:::txtsize --> Ttfttoiueats:::txtsize
+ActetpfrNei:::txtsize --> Tcbpdvaooi:::txtsize
+TttagtmuseaRim:::txtsize --> TXhtddgbemSKSes:::txtsize
+TXhtddgbemSKSes:::txtsize --> Tdsceaiyogo:::txtsize
+WHdsanstmeaaT:::txtsize --> NeirsrabbagNae:::txtsize
+NeirsrabbagNae:::txtsize --> TttagtmuseaRim:::txtsize
+TttagtmuseaRim:::txtsize --> ActetpfrNei:::txtsize
+TttagtmuseaRim:::txtsize --> TXhtddgbemSKSes:::txtsize
+NeirsrabbagNae:::txtsize --> ActetpfrNei:::txtsize
+ActetpfrNei:::txtsize --> Ttfttoiueats:::txtsize
+ActetpfrNei:::txtsize --> Tcbpdvaooi:::txtsize
 
 ```
-<i>Last updated: 2025-11-10 04:00:38.607899 (GMT+8)</i>
+<i>Last updated: 2025-11-10 08:01:06.246210 (GMT+8)</i>
 <!-- END -->
