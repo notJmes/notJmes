@@ -16,120 +16,141 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Annoalsvuni@{ shape: win-pane, label: "_Published Nov 10, 2025, 10:23 PM_
-Airlines cancel more than 1,500 us flights on nov 10 as shutdown persists" }
-Uglalnetifolhgr@{ shape: win-pane, label: "_Published Nov 10, 2025, 06:48 AM_
-Us flight delays, cancellations accelerate as air traffic controller shortages surge" }
-Ulbtefiyvendhs@{ shape: win-pane, label: "_Published Nov 09, 2025, 07:33 PM_
-Us airlines brace themselves for third day of government-mandated flight cuts" }
-TaitroguaSouomhw@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:35 AM_
-Trump administration orders 10% of flights cut at major us airports due to government shutdown" }
-AacofsauSsoarc@{ shape: win-pane, label: "_Published Nov 09, 2025, 07:51 AM_
-Air traffic control staffing shortages due to us govt shutdown lead to travel chaos" }
-Uavstfat@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:45 AM_
-Us senate advances bill to end federal shutdown" }
-Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
-Us government shutdown becomes longest in history" }
-Uglalnetifolhgr@{ shape: win-pane, label: "_Published Nov 10, 2025, 06:48 AM_
-Us flight delays, cancellations accelerate as air traffic controller shortages surge" }
-Uavstfat@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:45 AM_
-Us senate advances bill to end federal shutdown" }
-Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
-Us government shutdown becomes longest in history" }
-AcobeaSdnsdh@{ shape: win-pane, label: "_Published Nov 01, 2025, 01:34 AM_
-Americans worry about next meal as us shutdown enters second month" }
-Uentesraosactt@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:47 PM_
-Us government shutdown enters record 35th day as congressional inaction takes toll" }
-Uglalnetifolhgr@{ shape: win-pane, label: "_Published Nov 10, 2025, 06:48 AM_
-Us flight delays, cancellations accelerate as air traffic controller shortages surge" }
-Ulbtefiyvendhs@{ shape: win-pane, label: "_Published Nov 09, 2025, 07:33 PM_
-Us airlines brace themselves for third day of government-mandated flight cuts" }
-Uavstfat@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:45 AM_
-Us senate advances bill to end federal shutdown" }
+Eseiitsmoi@{ shape: win-pane, label: "_Published Nov 11, 2025, 03:45 AM_
+Eu eyes huawei ban in mobile networks of member countries" }
+Eeeeecuansr@{ shape: win-pane, label: "_Published Jun 16, 2023, 08:10 AM_
+Eu takes more aggressive stance on huawei as china tensions rise" }
+EssabuHiie@{ shape: win-pane, label: "_Published Jun 07, 2023, 09:05 AM_
+Eu considers mandatory ban on using huawei to build 5g: report" }
+UsoBoetawEa@{ shape: win-pane, label: "_Published Apr 12, 2023, 06:39 AM_
+Us house to vote on bill to address potential huawei, zte threats" }
+UishedaluaiCcpete@{ shape: win-pane, label: "_Published Apr 27, 2023, 07:21 AM_
+Us official says chinese cloud companies like huawei and alibaba cloud could pose security threat" }
+Hieeusbdssuau@{ shape: win-pane, label: "_Published Mar 18, 2023, 10:41 AM_
+Huawei has replaced thousands of us banned parts in its products, says founder" }
+Upnetnonaar@{ shape: win-pane, label: "_Published Jan 31, 2023, 05:43 AM_
+Us stops granting export licences for china’s huawei, say sources" }
+Hincenshcysran@{ shape: win-pane, label: "_Published Jul 12, 2024, 08:45 AM_
+Huawei says ‘no specific evidence’ its tech has security risks after germany ban" }
+Hitnrrmtwnliz@{ shape: win-pane, label: "_Published May 03, 2024, 07:42 AM_
+Huawei quietly funds us research competition, awarding millions in prizes" }
+Hiennaogmaid@{ shape: win-pane, label: "_Published Apr 12, 2024, 07:21 PM_
+Huawei teases launch of new smartphone; high-end model anticipated" }
+Umcgtedar@{ shape: win-pane, label: "_Published Apr 05, 2024, 02:30 AM_
+Us criminal case against huawei heads towards 2026 trial" }
+Umcgtedar@{ shape: win-pane, label: "_Published Apr 05, 2024, 02:30 AM_
+Us criminal case against huawei heads towards 2026 trial" }
+Soiblieepy@{ shape: win-pane, label: "_Published Mar 22, 2024, 02:22 PM_
+Smic ‘potentially’ broke law if it made huawei chip, us says" }
+HiUbotayohb@{ shape: win-pane, label: "_Published Jan 11, 2024, 10:18 AM_
+Huawei ends us lobbying operations after years of fighting ban" }
 
-Annoalsvuni:::txtsize --> Uglalnetifolhgr:::txtsize
-Uglalnetifolhgr:::txtsize --> Ulbtefiyvendhs:::txtsize
-Ulbtefiyvendhs:::txtsize --> TaitroguaSouomhw:::txtsize
-Ulbtefiyvendhs:::txtsize --> AacofsauSsoarc:::txtsize
-Uglalnetifolhgr:::txtsize --> Uavstfat:::txtsize
-Uavstfat:::txtsize --> Uentbegno:::txtsize
-Uavstfat:::txtsize --> Uglalnetifolhgr:::txtsize
-Annoalsvuni:::txtsize --> Uavstfat:::txtsize
-Uavstfat:::txtsize --> Uentbegno:::txtsize
-Uentbegno:::txtsize --> AcobeaSdnsdh:::txtsize
-Uentbegno:::txtsize --> Uentesraosactt:::txtsize
-Uavstfat:::txtsize --> Uglalnetifolhgr:::txtsize
-Uglalnetifolhgr:::txtsize --> Ulbtefiyvendhs:::txtsize
-Uglalnetifolhgr:::txtsize --> Uavstfat:::txtsize
+Eseiitsmoi:::txtsize --> Eeeeecuansr:::txtsize
+Eeeeecuansr:::txtsize --> EssabuHiie:::txtsize
+EssabuHiie:::txtsize --> UsoBoetawEa:::txtsize
+EssabuHiie:::txtsize --> UishedaluaiCcpete:::txtsize
+Eeeeecuansr:::txtsize --> Hieeusbdssuau:::txtsize
+Hieeusbdssuau:::txtsize --> Upnetnonaar:::txtsize
+Eseiitsmoi:::txtsize --> Hincenshcysran:::txtsize
+Hincenshcysran:::txtsize --> Hitnrrmtwnliz:::txtsize
+Hitnrrmtwnliz:::txtsize --> Hiennaogmaid:::txtsize
+Hitnrrmtwnliz:::txtsize --> Umcgtedar:::txtsize
+Hincenshcysran:::txtsize --> Umcgtedar:::txtsize
+Umcgtedar:::txtsize --> Soiblieepy:::txtsize
+Umcgtedar:::txtsize --> HiUbotayohb:::txtsize
 
-Bwscdlampsh@{ shape: win-pane, label: "_Published Nov 10, 2025, 10:01 PM_
-Bbc news says it received legal threat from trump over speech edit" }
+BixstaoBsti@{ shape: win-pane, label: "_Published Nov 11, 2025, 02:11 AM_
+Bbc crisis exposes fractures at renowned british institution" }
+Bshfqfroneri@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:45 AM_
+Bbc boss and head of news quit after trump documentary edit criticism" }
+Gonsobhcyerws@{ shape: win-pane, label: "_Published Jul 15, 2025, 01:09 AM_
+Gaza documentary shown on bbc breached accuracy guideline, review finds" }
+UenleewBrdey@{ shape: win-pane, label: "_Published Feb 28, 2025, 11:49 PM_
+Uk government calls urgent meeting with bbc over gaza documentary" }
+IlaaiOwrrBei@{ shape: win-pane, label: "_Published Mar 26, 2025, 03:03 AM_
+Israel releases palestinian oscar winner after west bank detention" }
+BsislBsisedpsnies@{ shape: win-pane, label: "_Published Nov 09, 2025, 09:00 PM_
+British minister says claims bbc misled viewers with edited trump clips are ‘incredibly serious’" }
+TtpswoCooamdphcmvn@{ shape: win-pane, label: "_Published Jan 07, 2021, 06:21 AM_
+Trump tells protesters who stormed capitol to go home as former aides implore him to condemn the violence" }
+PoesToisiewin@{ shape: win-pane, label: "_Published Jul 02, 2025, 02:09 PM_
+Paramount settles with trump over 60 minutes harris interview for $20 million" }
+Kaatanam@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:16 PM_
+Key claims made in the leaked internal bbc memo" }
+BsislBsisedpsnies@{ shape: win-pane, label: "_Published Nov 09, 2025, 09:00 PM_
+British minister says claims bbc misled viewers with edited trump clips are ‘incredibly serious’" }
+TtpswoCooamdphcmvn@{ shape: win-pane, label: "_Published Jan 07, 2021, 06:21 AM_
+Trump tells protesters who stormed capitol to go home as former aides implore him to condemn the violence" }
+PoesToisiewin@{ shape: win-pane, label: "_Published Jul 02, 2025, 02:09 PM_
+Paramount settles with trump over 60 minutes harris interview for $20 million" }
 Banosrfmnpct@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:06 PM_
 Bbc chairman apologises for ‘error of judgment’ in trump speech edit" }
-BsislBsisedpsnies@{ shape: win-pane, label: "_Published Nov 09, 2025, 09:00 PM_
-British minister says claims bbc misled viewers with edited trump clips are ‘incredibly serious’" }
+Bshfqfroneri@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:45 AM_
+Bbc boss and head of news quit after trump documentary edit criticism" }
 TtpswoCooamdphcmvn@{ shape: win-pane, label: "_Published Jan 07, 2021, 06:21 AM_
 Trump tells protesters who stormed capitol to go home as former aides implore him to condemn the violence" }
-PoesToisiewin@{ shape: win-pane, label: "_Published Jul 02, 2025, 02:09 PM_
-Paramount settles with trump over 60 minutes harris interview for $20 million" }
-TtpswoCooamdphcmvn@{ shape: win-pane, label: "_Published Jan 07, 2021, 06:21 AM_
-Trump tells protesters who stormed capitol to go home as former aides implore him to condemn the violence" }
-peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
-4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
-BsislBsisedpsnies@{ shape: win-pane, label: "_Published Nov 09, 2025, 09:00 PM_
-British minister says claims bbc misled viewers with edited trump clips are ‘incredibly serious’" }
-TtpswoCooamdphcmvn@{ shape: win-pane, label: "_Published Jan 07, 2021, 06:21 AM_
-Trump tells protesters who stormed capitol to go home as former aides implore him to condemn the violence" }
-peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
-4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
-PoesToisiewin@{ shape: win-pane, label: "_Published Jul 02, 2025, 02:09 PM_
-Paramount settles with trump over 60 minutes harris interview for $20 million" }
-TsBrlrteis@{ shape: win-pane, label: "_Published Nov 01, 2024, 05:40 AM_
-Trump sues cbs over kamala harris interview on 60 minutes" }
-UwBasemnbhr@{ shape: win-pane, label: "_Published Dec 15, 2024, 07:40 AM_
-Us network abc to pay $20m to settle defamation suit brought by trump" }
 
-Bwscdlampsh:::txtsize --> Banosrfmnpct:::txtsize
-Banosrfmnpct:::txtsize --> BsislBsisedpsnies:::txtsize
+BixstaoBsti:::txtsize --> Bshfqfroneri:::txtsize
+Bshfqfroneri:::txtsize --> Gonsobhcyerws:::txtsize
+Gonsobhcyerws:::txtsize --> UenleewBrdey:::txtsize
+Gonsobhcyerws:::txtsize --> IlaaiOwrrBei:::txtsize
+Bshfqfroneri:::txtsize --> BsislBsisedpsnies:::txtsize
 BsislBsisedpsnies:::txtsize --> TtpswoCooamdphcmvn:::txtsize
 BsislBsisedpsnies:::txtsize --> PoesToisiewin:::txtsize
+BixstaoBsti:::txtsize --> Kaatanam:::txtsize
+Kaatanam:::txtsize --> BsislBsisedpsnies:::txtsize
+BsislBsisedpsnies:::txtsize --> TtpswoCooamdphcmvn:::txtsize
+BsislBsisedpsnies:::txtsize --> PoesToisiewin:::txtsize
+Kaatanam:::txtsize --> Banosrfmnpct:::txtsize
+Banosrfmnpct:::txtsize --> Bshfqfroneri:::txtsize
 Banosrfmnpct:::txtsize --> TtpswoCooamdphcmvn:::txtsize
-TtpswoCooamdphcmvn:::txtsize --> peapubmalrest:::txtsize
-Bwscdlampsh:::txtsize --> BsislBsisedpsnies:::txtsize
-BsislBsisedpsnies:::txtsize --> TtpswoCooamdphcmvn:::txtsize
-TtpswoCooamdphcmvn:::txtsize --> peapubmalrest:::txtsize
-BsislBsisedpsnies:::txtsize --> PoesToisiewin:::txtsize
-PoesToisiewin:::txtsize --> TsBrlrteis:::txtsize
-PoesToisiewin:::txtsize --> UwBasemnbhr:::txtsize
 
-Uildcisiiig@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:20 PM_
-Us strikes alleged drug-carrying vessels in pacific, killing six" }
-Nseldolrytc@{ shape: win-pane, label: "_Published Nov 07, 2025, 12:27 PM_
-New us strike on alleged drug boat kills three, says pentagon chief" }
-Eirdyroersl@{ shape: win-pane, label: "_Published Oct 31, 2025, 06:16 PM_
-Explainer: are the deadly us strikes on alleged drug vessels legal?​" }
-Nselgufexeeov@{ shape: win-pane, label: "_Published Oct 29, 2025, 01:00 AM_
-New us strikes kill 14 alleged drug traffickers, mexico leads rescue of survivor" }
-Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
-Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
-TcrAotnzrnsou@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:05 AM_
-Trump confirms cia authorisation in venezuela, raising pressure on maduro" }
-VulClaaispbr@{ shape: win-pane, label: "_Published Oct 28, 2025, 01:03 PM_
-Venezuela claims cia ‘false flag’ attack foiled, as us deploys bombers" }
-Tseaonencl@{ shape: win-pane, label: "_Published Oct 24, 2025, 05:55 AM_
-Trump says declaration of war not needed on drug cartels" }
-Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
-Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
+Blctmetecrol@{ shape: win-pane, label: "_Published Nov 11, 2025, 02:10 AM_
+Brazil’s cop30 climate summit opens with a plea for countries to get along" }
+WwvogmoneUn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:22 PM_
+World will overshoot 1.5 deg c climate goal in next decade, un warns" }
+Ntnosager@{ shape: win-pane, label: "_Published Oct 13, 2025, 11:10 AM_
+Not nothing, not enough: is the paris agreement working?" }
+Smhotanrmor@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:31 AM_
+September third-hottest globally on record: climate monitor" }
+Ranghsocne@{ shape: win-pane, label: "_Published Oct 07, 2025, 01:21 PM_
+Renewable energy growth slows due to policy changes: report" }
+Cpghgdois@{ shape: win-pane, label: "_Published Sep 25, 2025, 04:57 AM_
+China plans 7-10% greenhouse gas reduction by 2035, xi tells un" }
+OftholnCcttvr@{ shape: win-pane, label: "_Published Sep 18, 2025, 03:10 AM_
+Only 40% of countries have booked lodging for cop30 un climate meet in november" }
+TtUtaastogl@{ shape: win-pane, label: "_Published Sep 24, 2025, 12:17 AM_
+Trump tells un that climate change is ‘greatest con job’ globally" }
+Tdrcasmotlem@{ shape: win-pane, label: "_Published Oct 30, 2025, 09:53 AM_
+Trump declares victory against climate ‘hoax’ after bill gates comments" }
+CtnnciosG@{ shape: win-pane, label: "_Published Oct 29, 2025, 08:20 AM_
+Climate change won’t end civilisation, says bill gates" }
+WffkemoN@{ shape: win-pane, label: "_Published Oct 28, 2025, 05:25 PM_
+World far off track to meet climate goals: un" }
+JcrsrmiMsnu@{ shape: win-pane, label: "_Published Oct 28, 2025, 08:05 PM_
+Jamaica’s strongest-ever storm, hurricane melissa, turns to cuba" }
+Ctndresueeld@{ shape: win-pane, label: "_Published Oct 30, 2025, 08:45 AM_
+Climate change made hurricane melissa four times more likely: study" }
+Hceakdesn@{ shape: win-pane, label: "_Published Oct 30, 2025, 04:32 AM_
+Hurricane melissa wreaks $10.4b of damage, kills dozens" }
+Ctpoaiostwhf@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:09 AM_
+Climate tipping points are being crossed, scientists warn ahead of cop30" }
 
-Uildcisiiig:::txtsize --> Nseldolrytc:::txtsize
-Uildcisiiig:::txtsize --> Eirdyroersl:::txtsize
-Eirdyroersl:::txtsize --> Nselgufexeeov:::txtsize
-Nselgufexeeov:::txtsize --> Uidycceuomasnswee:::txtsize
-Nselgufexeeov:::txtsize --> TcrAotnzrnsou:::txtsize
-Eirdyroersl:::txtsize --> VulClaaispbr:::txtsize
-VulClaaispbr:::txtsize --> Tseaonencl:::txtsize
-VulClaaispbr:::txtsize --> Uidycceuomasnswee:::txtsize
+Blctmetecrol:::txtsize --> WwvogmoneUn:::txtsize
+WwvogmoneUn:::txtsize --> Ntnosager:::txtsize
+Ntnosager:::txtsize --> Smhotanrmor:::txtsize
+Ntnosager:::txtsize --> Ranghsocne:::txtsize
+WwvogmoneUn:::txtsize --> Cpghgdois:::txtsize
+Cpghgdois:::txtsize --> OftholnCcttvr:::txtsize
+Cpghgdois:::txtsize --> TtUtaastogl:::txtsize
+Blctmetecrol:::txtsize --> Tdrcasmotlem:::txtsize
+Tdrcasmotlem:::txtsize --> CtnnciosG:::txtsize
+CtnnciosG:::txtsize --> WffkemoN:::txtsize
+CtnnciosG:::txtsize --> JcrsrmiMsnu:::txtsize
+Tdrcasmotlem:::txtsize --> Ctndresueeld:::txtsize
+Ctndresueeld:::txtsize --> Hceakdesn:::txtsize
+Ctndresueeld:::txtsize --> Ctpoaiostwhf:::txtsize
 
 ```
-<i>Last updated: 2025-11-11 00:00:54.763834 (GMT+8)</i>
+<i>Last updated: 2025-11-11 04:00:23.477032 (GMT+8)</i>
 <!-- END -->
