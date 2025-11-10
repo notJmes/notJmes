@@ -16,114 +16,117 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Sdroadyaisea@{ shape: win-pane, label: "_Published Nov 10, 2025, 03:16 PM_
-Saudi doctor goes on trial for deadly german christmas market attack" }
-Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
-‘torn from my side’: horror of german christmas market attack" }
-SmrdralnagceCta@{ shape: win-pane, label: "_Published Dec 21, 2024, 06:01 AM_
-Saudi man arrested after at least 2 killed in car ramming attack at german christmas market" }
-CinoCtaimneak@{ shape: win-pane, label: "_Published Dec 21, 2024, 03:42 AM_
-Car drives into crowd at christmas market in germany, in suspected attack" }
-Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
-‘torn from my side’: horror of german christmas market attack" }
-CinoCtaimneak@{ shape: win-pane, label: "_Published Dec 21, 2024, 03:42 AM_
-Car drives into crowd at christmas market in germany, in suspected attack" }
-Gnbaesatrfas@{ shape: win-pane, label: "_Published Aug 24, 2024, 05:23 AM_
-German stabbing rampage a ‘possible act of terrorism’, official says" }
-Gncofwtdianh@{ shape: win-pane, label: "_Published Jun 01, 2024, 12:55 AM_
-German police shoot knifeman who attacked far-right rally in mannheim" }
-Scerlmrakt@{ shape: win-pane, label: "_Published Aug 19, 2025, 11:00 PM_
-Saudi charged over deadly german christmas market attack" }
-Gnsmtctlsx@{ shape: win-pane, label: "_Published Jan 06, 2025, 04:51 PM_
-German christmas market attack death toll rises to six" }
-SmrdralnagceCta@{ shape: win-pane, label: "_Published Dec 21, 2024, 06:01 AM_
-Saudi man arrested after at least 2 killed in car ramming attack at german christmas market" }
-Ctaakstbrna@{ shape: win-pane, label: "_Published Dec 24, 2024, 08:10 AM_
-Christmas market attack stirs political bickering in germany" }
-SCtaakenyarie@{ shape: win-pane, label: "_Published Dec 31, 2024, 02:11 AM_
-Signs christmas market attack suspect mentally ill, says german minister" }
-GnknseraaCtaak@{ shape: win-pane, label: "_Published Dec 23, 2024, 08:04 PM_
-Germany looking into possible security lapses after christmas market attack" }
-Gnhfedraaale@{ shape: win-pane, label: "_Published Dec 21, 2024, 02:25 PM_
-Germany in shock after new deadly christmas attack; death toll rises to 5" }
+Mtldhnotrxs@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:15 PM_
+Mimmo the dolphin delights venice tourists, worries experts" }
+Aedoenneaoetc@{ shape: win-pane, label: "_Published Nov 10, 2025, 05:25 PM_
+Ai-generated videos of bears in japan on the rise amid more frequent attacks" }
+Jstsmewfak@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:15 PM_
+Japan sends troops to combat deadly wave of bear attacks" }
+Jsegearlu@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:32 PM_
+Japan’s hunters bag higher pay as bear problem mounts" }
+Wfdntittaetut@{ shape: win-pane, label: "_Published Nov 03, 2025, 04:35 PM_
+Woman found dead in mountains in north-eastern japan; bear attack suspected" }
+TattJeaarrsusp@{ shape: win-pane, label: "_Published Nov 07, 2025, 12:50 PM_
+The roar that haunts him: japanese bear attack survivor calls for ruthless response" }
+Jvorufebtds@{ shape: win-pane, label: "_Published Oct 22, 2025, 06:49 PM_
+Japan vows tougher measures after record bear attack deaths" }
+Jstsmewfak@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:15 PM_
+Japan sends troops to combat deadly wave of bear attacks" }
+Siopigteiolnnr@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:19 AM_
+Stinking, spongy, sparkling: huge 1,100 sq ft spiderweb in europe unlike any seen before" }
+HyyenoksSppoibni@{ shape: win-pane, label: "_Published Mar 17, 2025, 05:00 AM_
+How a mystery spider’s candyfloss-like egg sac in singapore spun a worldwide web of connections" }
+Rrihodledigige@{ shape: win-pane, label: "_Published Mar 13, 2024, 08:19 PM_
+Rare crab spider that looks and smells like bird dropping sighted in singapore" }
+Ogdgtgedn@{ shape: win-pane, label: "_Published May 08, 2023, 05:00 AM_
+On the ground at night with singapore’s spider-men" }
 
-Sdroadyaisea:::txtsize --> Trsoomrakt:::txtsize
-Trsoomrakt:::txtsize --> SmrdralnagceCta:::txtsize
-SmrdralnagceCta:::txtsize --> CinoCtaimneak:::txtsize
-SmrdralnagceCta:::txtsize --> Trsoomrakt:::txtsize
-Trsoomrakt:::txtsize --> CinoCtaimneak:::txtsize
-CinoCtaimneak:::txtsize --> Gnbaesatrfas:::txtsize
-CinoCtaimneak:::txtsize --> Gncofwtdianh:::txtsize
-Sdroadyaisea:::txtsize --> Scerlmrakt:::txtsize
-Scerlmrakt:::txtsize --> Gnsmtctlsx:::txtsize
-Gnsmtctlsx:::txtsize --> SmrdralnagceCta:::txtsize
-Gnsmtctlsx:::txtsize --> Ctaakstbrna:::txtsize
-Scerlmrakt:::txtsize --> SCtaakenyarie:::txtsize
-SCtaakenyarie:::txtsize --> GnknseraaCtaak:::txtsize
-SCtaakenyarie:::txtsize --> Gnhfedraaale:::txtsize
+Mtldhnotrxs:::txtsize --> Aedoenneaoetc:::txtsize
+Aedoenneaoetc:::txtsize --> Jstsmewfak:::txtsize
+Jstsmewfak:::txtsize --> Jsegearlu:::txtsize
+Jstsmewfak:::txtsize --> Wfdntittaetut:::txtsize
+Aedoenneaoetc:::txtsize --> TattJeaarrsusp:::txtsize
+TattJeaarrsusp:::txtsize --> Jvorufebtds:::txtsize
+TattJeaarrsusp:::txtsize --> Jstsmewfak:::txtsize
+Mtldhnotrxs:::txtsize --> Siopigteiolnnr:::txtsize
+Siopigteiolnnr:::txtsize --> HyyenoksSppoibni:::txtsize
+HyyenoksSppoibni:::txtsize --> Rrihodledigige:::txtsize
+HyyenoksSppoibni:::txtsize --> Ogdgtgedn:::txtsize
 
-Hfbymydilau@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:59 PM_
-How affordability became the year’s defining political issue" }
+Iucynrssoi@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:13 PM_
+It’s trump’s economy now and americans don’t seem to love it" }
+Drotsvomcetrte@{ shape: win-pane, label: "_Published Nov 06, 2025, 03:50 AM_
+Democrats dominate first big votes of trump’s second term, but uncertainties remain" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
+Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
+Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
+Takeaways from us election night 2025" }
+Hfbymydipis@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:59 PM_
+How affordability became the year’s defining us political issue" }
 ThuMnlmenekmae@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:15 PM_
 ‘turn the volume up,’ mamdani tells trump after winning new york city mayoral race" }
 Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
 Democrats sweep first major elections of second trump term" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
-Cuomo to stay in new york mayoral race despite losing democratic primary" }
 Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
 Democrats sweep first major elections of second trump term" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
-Cuomo to stay in new york mayoral race despite losing democratic primary" }
 
-Hfbymydilau:::txtsize --> ThuMnlmenekmae:::txtsize
+Iucynrssoi:::txtsize --> Drotsvomcetrte:::txtsize
+Drotsvomcetrte:::txtsize --> YMmnoihaiYilehpea:::txtsize
+YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
+YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
+Iucynrssoi:::txtsize --> Hfbymydipis:::txtsize
+Hfbymydipis:::txtsize --> ThuMnlmenekmae:::txtsize
 ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
-Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
-Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
 ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
-Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
-Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
 
-Tttahoagrady@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:15 PM_
-Trump to meet sharaa at white house, capping major turnaround for syria" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
-Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Hmsis@{ shape: win-pane, label: "_Published Dec 08, 2024, 04:00 PM_
-How damascus fell in 11 days" }
-SniaeagfSvmtrli@{ shape: win-pane, label: "_Published Nov 09, 2025, 05:58 PM_
-Syrian president arrives in washington after us removes him from terrorism blacklist" }
-UslaoSsiaotsi@{ shape: win-pane, label: "_Published Nov 05, 2025, 08:17 AM_
-Us asks un to lift sanctions on syria’s president ahead of white house visit" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Ttosinajlh@{ shape: win-pane, label: "_Published May 14, 2025, 01:02 AM_
-Trump to remove us sanctions on syria in major policy shift" }
-SceppotasSs@{ shape: win-pane, label: "_Published Nov 09, 2025, 04:40 AM_
-Syria carries out pre-emptive operations against isis cells" }
-SneehtdstNbyn@{ shape: win-pane, label: "_Published Nov 01, 2025, 11:51 PM_
-Syrian leader ahmed al-sharaa to head to washington in november, says us envoy" }
-Uitahetsierus@{ shape: win-pane, label: "_Published Nov 07, 2025, 02:20 AM_
-Us military to establish presence at damascus airbase in syria, sources say" }
+Clsnneseoansi@{ shape: win-pane, label: "_Published Nov 10, 2025, 06:20 PM_
+Catholic bishop in spain denies abuse allegation as vatican opens inquiry" }
+Atlspttispg@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:05 PM_
+Almost 4,400 people abused by priests in italy, victims’ group alleges" }
+Pelhbpteegn@{ shape: win-pane, label: "_Published Sep 12, 2025, 05:28 PM_
+Pope leo tells catholic bishops not to hide abuse allegations" }
+Peesiassair@{ shape: win-pane, label: "_Published Jul 05, 2025, 07:16 PM_
+Pope leo takes first action to address abuse by catholic clergy" }
+IahChrguosen@{ shape: win-pane, label: "_Published May 28, 2025, 10:09 PM_
+Italian catholic church reports higher number of abuse cases in 2023 and 2024" }
+Pedstirreabhcy@{ shape: win-pane, label: "_Published Oct 20, 2025, 09:07 PM_
+Pope leo holds first meeting with survivors of sexual abuse by catholic clergy" }
+Cluowlavmiaa@{ shape: win-pane, label: "_Published Oct 16, 2025, 05:35 PM_
+Catholic church too slow in helping abuse victims, vatican panel says" }
+UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
+Us cardinal prevost elected pope leo xiv, first american pontiff" }
+Atlspttispg@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:05 PM_
+Almost 4,400 people abused by priests in italy, victims’ group alleges" }
+Pelhbpteegn@{ shape: win-pane, label: "_Published Sep 12, 2025, 05:28 PM_
+Pope leo tells catholic bishops not to hide abuse allegations" }
+Peesiassair@{ shape: win-pane, label: "_Published Jul 05, 2025, 07:16 PM_
+Pope leo takes first action to address abuse by catholic clergy" }
+IahChrguosen@{ shape: win-pane, label: "_Published May 28, 2025, 10:09 PM_
+Italian catholic church reports higher number of abuse cases in 2023 and 2024" }
+Pedstirreabhcy@{ shape: win-pane, label: "_Published Oct 20, 2025, 09:07 PM_
+Pope leo holds first meeting with survivors of sexual abuse by catholic clergy" }
+Cluowlavmiaa@{ shape: win-pane, label: "_Published Oct 16, 2025, 05:35 PM_
+Catholic church too slow in helping abuse victims, vatican panel says" }
+UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
+Us cardinal prevost elected pope leo xiv, first american pontiff" }
 
-Tttahoagrady:::txtsize --> SnltiARahtoy:::txtsize
-SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
-Wasrsnnafriben:::txtsize --> SnltiARahtoy:::txtsize
-Wasrsnnafriben:::txtsize --> Hmsis:::txtsize
-Tttahoagrady:::txtsize --> SniaeagfSvmtrli:::txtsize
-SniaeagfSvmtrli:::txtsize --> UslaoSsiaotsi:::txtsize
-UslaoSsiaotsi:::txtsize --> SnltiARahtoy:::txtsize
-UslaoSsiaotsi:::txtsize --> Ttosinajlh:::txtsize
-SniaeagfSvmtrli:::txtsize --> SceppotasSs:::txtsize
-SceppotasSs:::txtsize --> SneehtdstNbyn:::txtsize
-SceppotasSs:::txtsize --> Uitahetsierus:::txtsize
+Clsnneseoansi:::txtsize --> Atlspttispg:::txtsize
+Atlspttispg:::txtsize --> Pelhbpteegn:::txtsize
+Pelhbpteegn:::txtsize --> Peesiassair:::txtsize
+Pelhbpteegn:::txtsize --> IahChrguosen:::txtsize
+Atlspttispg:::txtsize --> Pedstirreabhcy:::txtsize
+Pedstirreabhcy:::txtsize --> Cluowlavmiaa:::txtsize
+Pedstirreabhcy:::txtsize --> UdPscooimat:::txtsize
+Clsnneseoansi:::txtsize --> Atlspttispg:::txtsize
+Atlspttispg:::txtsize --> Pelhbpteegn:::txtsize
+Pelhbpteegn:::txtsize --> Peesiassair:::txtsize
+Pelhbpteegn:::txtsize --> IahChrguosen:::txtsize
+Atlspttispg:::txtsize --> Pedstirreabhcy:::txtsize
+Pedstirreabhcy:::txtsize --> Cluowlavmiaa:::txtsize
+Pedstirreabhcy:::txtsize --> UdPscooimat:::txtsize
 
 ```
-<i>Last updated: 2025-11-10 16:00:54.008764 (GMT+8)</i>
+<i>Last updated: 2025-11-10 20:00:27.238334 (GMT+8)</i>
 <!-- END -->
