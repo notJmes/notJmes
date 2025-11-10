@@ -16,111 +16,90 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Rahpclmo@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:05 AM_
-Rare patek philippe watch sells for $22.9 million" }
-TagBnhcait@{ shape: win-pane, label: "_Published Jul 10, 2025, 11:59 PM_
-The $12.8m bag: original birkin smashes records at paris auction" }
-Hsswoellkg@{ shape: win-pane, label: "_Published Mar 21, 2024, 01:40 PM_
-Hermes faces us lawsuit over ‘refusal’ to sell birkin bag" }
-HotRewpgra@{ shape: win-pane, label: "_Published Sep 01, 2023, 04:11 PM_
-Hong kong actress rain lee shows off pet dog in $70,000 hermes bag" }
-Hsafestic@{ shape: win-pane, label: "_Published Jun 10, 2025, 07:22 PM_
-Human-size labubu figure sells for $193,000 at beijing auction" }
+Truhorm@{ shape: win-pane, label: "_Published Nov 10, 2025, 11:25 AM_
+The ai revolution has a power problem" }
+NamriSloybomrs@{ shape: win-pane, label: "_Published Oct 30, 2025, 12:46 AM_
+Nvidia becomes world’s first us$5 trillion company as ai boom powers meteoric rise" }
+Naefousacocboa@{ shape: win-pane, label: "_Published Oct 29, 2025, 06:26 AM_
+Nvidia ceo rebuts fears of ai bubble, says latest chips on track for $647 billion in sales" }
+Ucdcaadau@{ shape: win-pane, label: "_Published Oct 29, 2025, 04:31 AM_
+Us stocks end at records again as nvidia shares surge" }
+Siliiesgmi@{ shape: win-pane, label: "_Published Oct 29, 2025, 08:18 AM_
+Sk hynix sells entire 2026 chip line-up in strong ai demand signal" }
+Naefousacocboa@{ shape: win-pane, label: "_Published Oct 29, 2025, 06:26 AM_
+Nvidia ceo rebuts fears of ai bubble, says latest chips on track for $647 billion in sales" }
+Naefousacocboa@{ shape: win-pane, label: "_Published Oct 29, 2025, 06:26 AM_
+Nvidia ceo rebuts fears of ai bubble, says latest chips on track for $647 billion in sales" }
+AtihsoeiGC@{ shape: win-pane, label: "_Published Nov 10, 2025, 05:00 AM_
+Ai isn’t the rival, the person who masters it is: ant group cto" }
+EyoutahtanaGm@{ shape: win-pane, label: "_Published Nov 04, 2025, 12:00 PM_
+Employers’ role in uplifting talent heightened amid uncertainty: gan kim yong" }
+DeuennrRiteorEst@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:00 PM_
+Don’t let ai outpace human talent, improve hr to build future-ready workforce: snef president" }
+DeuennrRiteorEst@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:00 PM_
+Don’t let ai outpace human talent, improve hr to build future-ready workforce: snef president" }
+EyoutahtanaGm@{ shape: win-pane, label: "_Published Nov 04, 2025, 12:00 PM_
+Employers’ role in uplifting talent heightened amid uncertainty: gan kim yong" }
+DeuennrRiteorEst@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:00 PM_
+Don’t let ai outpace human talent, improve hr to build future-ready workforce: snef president" }
+DeuennrRiteorEst@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:00 PM_
+Don’t let ai outpace human talent, improve hr to build future-ready workforce: snef president" }
 
-Rahpclmo:::txtsize --> TagBnhcait:::txtsize
-TagBnhcait:::txtsize --> Hsswoellkg:::txtsize
-Hsswoellkg:::txtsize --> HotRewpgra:::txtsize
-Rahpclmo:::txtsize --> Hsafestic:::txtsize
+Truhorm:::txtsize --> NamriSloybomrs:::txtsize
+NamriSloybomrs:::txtsize --> Naefousacocboa:::txtsize
+Naefousacocboa:::txtsize --> Ucdcaadau:::txtsize
+NamriSloybomrs:::txtsize --> Siliiesgmi:::txtsize
+Siliiesgmi:::txtsize --> Naefousacocboa:::txtsize
+Siliiesgmi:::txtsize --> Naefousacocboa:::txtsize
+Truhorm:::txtsize --> AtihsoeiGC:::txtsize
+AtihsoeiGC:::txtsize --> EyoutahtanaGm:::txtsize
+EyoutahtanaGm:::txtsize --> DeuennrRiteorEst:::txtsize
+EyoutahtanaGm:::txtsize --> DeuennrRiteorEst:::txtsize
+AtihsoeiGC:::txtsize --> EyoutahtanaGm:::txtsize
+EyoutahtanaGm:::txtsize --> DeuennrRiteorEst:::txtsize
+EyoutahtanaGm:::txtsize --> DeuennrRiteorEst:::txtsize
 
-Uglalnetifolhgrrhw@{ shape: win-pane, label: "_Published Nov 10, 2025, 06:48 AM_
-Us flight delays, cancellations accelerate as air traffic controller shortages surge during shutdown" }
-Ulbtefiyvendhs@{ shape: win-pane, label: "_Published Nov 09, 2025, 07:33 PM_
-Us airlines brace themselves for third day of government-mandated flight cuts" }
-TaitroguaSouomhw@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:35 AM_
-Trump administration orders 10% of flights cut at major us airports due to government shutdown" }
-Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
-Us government begins shutdown that may lead to mass layoffs and cuts" }
-Lsounsrfakni@{ shape: win-pane, label: "_Published Nov 05, 2025, 04:22 PM_
-Longest us govt shutdown tests air travel, federal workers and patience" }
-AacofsauSsoarc@{ shape: win-pane, label: "_Published Nov 09, 2025, 07:51 AM_
-Air traffic control staffing shortages due to us govt shutdown lead to travel chaos" }
-aWoeveunfotm@{ shape: win-pane, label: "_Published Nov 07, 2025, 05:55 PM_
-Askst: what does the us government shutdown mean for a tourist like me?" }
-Uvenounpiu@{ shape: win-pane, label: "_Published Nov 07, 2025, 10:28 AM_
-Us travel woes mount as govt shutdown prompts flight cuts" }
-Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
-Us government shutdown becomes longest in history" }
-AcobeaSdnsdh@{ shape: win-pane, label: "_Published Nov 01, 2025, 01:34 AM_
-Americans worry about next meal as us shutdown enters second month" }
-Waswhomhw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:42 PM_
-What happens next with the us government shutdown?" }
-Tsrermvlyuso@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:18 AM_
-Trump says private donor gave $160m to cover military pay during shutdown" }
-Uentesraosactt@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:47 PM_
-Us government shutdown enters record 35th day as congressional inaction takes toll" }
-Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
-Us government begins shutdown that may lead to mass layoffs and cuts" }
-MoAcoedaromhwmirn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:30 AM_
-Millions of americans to get reduced food aid during government shutdown: trump administration" }
+BpbImrsakeil@{ shape: win-pane, label: "_Published Nov 10, 2025, 10:45 AM_
+Big lips and botox: in trump’s world, fashion and makeup get political" }
+TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
+Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
+VsaKsirayce@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:59 AM_
+Videos of charlie kirk’s shooting spread rapidly on social media" }
+TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
+Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
+Mreurappgnil@{ shape: win-pane, label: "_Published Nov 23, 2024, 05:10 PM_
+Maga dream team: trump’s provocative picks presage an unpredictable era" }
+TpfrlooSeot@{ shape: win-pane, label: "_Published Nov 14, 2024, 05:24 AM_
+Trump picks former rival marco rubio for us secretary of state" }
+Tpfrccrouadrrtlln@{ shape: win-pane, label: "_Published Nov 14, 2024, 05:09 AM_
+Trump picks former democratic congresswoman tulsi gabbard as director of national intelligence" }
+Tsenateeseerncr@{ shape: win-pane, label: "_Published Nov 13, 2024, 12:30 PM_
+Trump says he will nominate anti-woke fox news host pete hegseth for defence secretary" }
+TWirntbrsdna@{ shape: win-pane, label: "_Published Nov 07, 2024, 08:30 AM_
+Trump 2.0: who is in the running for top jobs in trump’s second administration?" }
+TnMnayaDtoenic@{ shape: win-pane, label: "_Published Nov 13, 2024, 07:15 AM_
+Trump names musk and ramaswamy to lead new department of government efficiency" }
 
-Uglalnetifolhgrrhw:::txtsize --> Ulbtefiyvendhs:::txtsize
-Ulbtefiyvendhs:::txtsize --> TaitroguaSouomhw:::txtsize
-TaitroguaSouomhw:::txtsize --> Ueniunmaayat:::txtsize
-TaitroguaSouomhw:::txtsize --> Lsounsrfakni:::txtsize
-Ulbtefiyvendhs:::txtsize --> AacofsauSsoarc:::txtsize
-AacofsauSsoarc:::txtsize --> aWoeveunfotm:::txtsize
-AacofsauSsoarc:::txtsize --> Uvenounpiu:::txtsize
-Uglalnetifolhgrrhw:::txtsize --> Uentbegno:::txtsize
-Uentbegno:::txtsize --> AcobeaSdnsdh:::txtsize
-AcobeaSdnsdh:::txtsize --> Waswhomhw:::txtsize
-AcobeaSdnsdh:::txtsize --> Tsrermvlyuso:::txtsize
-Uentbegno:::txtsize --> Uentesraosactt:::txtsize
-Uentesraosactt:::txtsize --> Ueniunmaayat:::txtsize
-Uentesraosactt:::txtsize --> MoAcoedaromhwmirn:::txtsize
+BpbImrsakeil:::txtsize --> TahesegnipdoUstt:::txtsize
+TahesegnipdoUstt:::txtsize --> VsaKsirayce:::txtsize
+VsaKsirayce:::txtsize --> TahesegnipdoUstt:::txtsize
+BpbImrsakeil:::txtsize --> Mreurappgnil:::txtsize
+Mreurappgnil:::txtsize --> TpfrlooSeot:::txtsize
+TpfrlooSeot:::txtsize --> Tpfrccrouadrrtlln:::txtsize
+Mreurappgnil:::txtsize --> Tsenateeseerncr:::txtsize
+Tsenateeseerncr:::txtsize --> TWirntbrsdna:::txtsize
+Tsenateeseerncr:::txtsize --> TnMnayaDtoenic:::txtsize
 
-WHdsanstmeaaT@{ shape: win-pane, label: "_Published Nov 10, 2025, 06:29 AM_
-White house discussed naming new washington commanders stadium after trump" }
-TttagtmuseaRim@{ shape: win-pane, label: "_Published Jul 21, 2025, 07:00 AM_
-Trump threatens washington stadium deal unless nfl team re-adopt redskins name" }
-ActetpfrNei@{ shape: win-pane, label: "_Published Jul 20, 2025, 11:55 AM_
-‘america has to come first’: trump wins favour with native americans" }
-Ttfttoiueats@{ shape: win-pane, label: "_Published Jul 10, 2025, 07:09 AM_
-Trump tariffs aim to settle scores with countries, no matter their size" }
-Tcbpdvaooi@{ shape: win-pane, label: "_Published Jun 28, 2025, 04:06 AM_
-Trump calls being president a ‘very dangerous profession’" }
-TXhtddgbemSKSes@{ shape: win-pane, label: "_Published Jul 20, 2025, 11:32 PM_
-Trump, xi might meet ahead of or during october apec summit in south korea, scmp reports" }
-Tdsceaiyogo@{ shape: win-pane, label: "_Published Jul 19, 2025, 08:15 PM_
-Trump duties to decimate china profits, says bloomberg economics" }
-NeirsrabbagNae@{ shape: win-pane, label: "_Published Jul 22, 2025, 10:18 AM_
-Native american groups slam trump call to bring back washington’s nfl team name" }
-TttagtmuseaRim@{ shape: win-pane, label: "_Published Jul 21, 2025, 07:00 AM_
-Trump threatens washington stadium deal unless nfl team re-adopt redskins name" }
-ActetpfrNei@{ shape: win-pane, label: "_Published Jul 20, 2025, 11:55 AM_
-‘america has to come first’: trump wins favour with native americans" }
-TXhtddgbemSKSes@{ shape: win-pane, label: "_Published Jul 20, 2025, 11:32 PM_
-Trump, xi might meet ahead of or during october apec summit in south korea, scmp reports" }
-ActetpfrNei@{ shape: win-pane, label: "_Published Jul 20, 2025, 11:55 AM_
-‘america has to come first’: trump wins favour with native americans" }
-Ttfttoiueats@{ shape: win-pane, label: "_Published Jul 10, 2025, 07:09 AM_
-Trump tariffs aim to settle scores with countries, no matter their size" }
-Tcbpdvaooi@{ shape: win-pane, label: "_Published Jun 28, 2025, 04:06 AM_
-Trump calls being president a ‘very dangerous profession’" }
+Sbdraohld@{ shape: win-pane, label: "_Published Nov 10, 2025, 10:40 AM_
+Saudi belly dancers break taboos behind closed doors" }
+VEdvfwsta@{ shape: win-pane, label: "_Published Jan 13, 2022, 05:45 PM_
+Viral egypt dance video fuels women's rights debate" }
+EsnoosioTd@{ shape: win-pane, label: "_Published Jul 29, 2020, 11:41 AM_
+Egypt sentences women to 2 years in prison for tiktok videos" }
 
-WHdsanstmeaaT:::txtsize --> TttagtmuseaRim:::txtsize
-TttagtmuseaRim:::txtsize --> ActetpfrNei:::txtsize
-ActetpfrNei:::txtsize --> Ttfttoiueats:::txtsize
-ActetpfrNei:::txtsize --> Tcbpdvaooi:::txtsize
-TttagtmuseaRim:::txtsize --> TXhtddgbemSKSes:::txtsize
-TXhtddgbemSKSes:::txtsize --> Tdsceaiyogo:::txtsize
-WHdsanstmeaaT:::txtsize --> NeirsrabbagNae:::txtsize
-NeirsrabbagNae:::txtsize --> TttagtmuseaRim:::txtsize
-TttagtmuseaRim:::txtsize --> ActetpfrNei:::txtsize
-TttagtmuseaRim:::txtsize --> TXhtddgbemSKSes:::txtsize
-NeirsrabbagNae:::txtsize --> ActetpfrNei:::txtsize
-ActetpfrNei:::txtsize --> Ttfttoiueats:::txtsize
-ActetpfrNei:::txtsize --> Tcbpdvaooi:::txtsize
+Sbdraohld:::txtsize --> VEdvfwsta:::txtsize
+VEdvfwsta:::txtsize --> EsnoosioTd:::txtsize
 
 ```
-<i>Last updated: 2025-11-10 08:01:06.246210 (GMT+8)</i>
+<i>Last updated: 2025-11-10 12:00:29.562959 (GMT+8)</i>
 <!-- END -->
