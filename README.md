@@ -16,90 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Truhorm@{ shape: win-pane, label: "_Published Nov 10, 2025, 11:25 AM_
-The ai revolution has a power problem" }
-NamriSloybomrs@{ shape: win-pane, label: "_Published Oct 30, 2025, 12:46 AM_
-Nvidia becomes world’s first us$5 trillion company as ai boom powers meteoric rise" }
-Naefousacocboa@{ shape: win-pane, label: "_Published Oct 29, 2025, 06:26 AM_
-Nvidia ceo rebuts fears of ai bubble, says latest chips on track for $647 billion in sales" }
-Ucdcaadau@{ shape: win-pane, label: "_Published Oct 29, 2025, 04:31 AM_
-Us stocks end at records again as nvidia shares surge" }
-Siliiesgmi@{ shape: win-pane, label: "_Published Oct 29, 2025, 08:18 AM_
-Sk hynix sells entire 2026 chip line-up in strong ai demand signal" }
-Naefousacocboa@{ shape: win-pane, label: "_Published Oct 29, 2025, 06:26 AM_
-Nvidia ceo rebuts fears of ai bubble, says latest chips on track for $647 billion in sales" }
-Naefousacocboa@{ shape: win-pane, label: "_Published Oct 29, 2025, 06:26 AM_
-Nvidia ceo rebuts fears of ai bubble, says latest chips on track for $647 billion in sales" }
-AtihsoeiGC@{ shape: win-pane, label: "_Published Nov 10, 2025, 05:00 AM_
-Ai isn’t the rival, the person who masters it is: ant group cto" }
-EyoutahtanaGm@{ shape: win-pane, label: "_Published Nov 04, 2025, 12:00 PM_
-Employers’ role in uplifting talent heightened amid uncertainty: gan kim yong" }
-DeuennrRiteorEst@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:00 PM_
-Don’t let ai outpace human talent, improve hr to build future-ready workforce: snef president" }
-DeuennrRiteorEst@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:00 PM_
-Don’t let ai outpace human talent, improve hr to build future-ready workforce: snef president" }
-EyoutahtanaGm@{ shape: win-pane, label: "_Published Nov 04, 2025, 12:00 PM_
-Employers’ role in uplifting talent heightened amid uncertainty: gan kim yong" }
-DeuennrRiteorEst@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:00 PM_
-Don’t let ai outpace human talent, improve hr to build future-ready workforce: snef president" }
-DeuennrRiteorEst@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:00 PM_
-Don’t let ai outpace human talent, improve hr to build future-ready workforce: snef president" }
+Sdroadyaisea@{ shape: win-pane, label: "_Published Nov 10, 2025, 03:16 PM_
+Saudi doctor goes on trial for deadly german christmas market attack" }
+Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
+‘torn from my side’: horror of german christmas market attack" }
+SmrdralnagceCta@{ shape: win-pane, label: "_Published Dec 21, 2024, 06:01 AM_
+Saudi man arrested after at least 2 killed in car ramming attack at german christmas market" }
+CinoCtaimneak@{ shape: win-pane, label: "_Published Dec 21, 2024, 03:42 AM_
+Car drives into crowd at christmas market in germany, in suspected attack" }
+Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
+‘torn from my side’: horror of german christmas market attack" }
+CinoCtaimneak@{ shape: win-pane, label: "_Published Dec 21, 2024, 03:42 AM_
+Car drives into crowd at christmas market in germany, in suspected attack" }
+Gnbaesatrfas@{ shape: win-pane, label: "_Published Aug 24, 2024, 05:23 AM_
+German stabbing rampage a ‘possible act of terrorism’, official says" }
+Gncofwtdianh@{ shape: win-pane, label: "_Published Jun 01, 2024, 12:55 AM_
+German police shoot knifeman who attacked far-right rally in mannheim" }
+Scerlmrakt@{ shape: win-pane, label: "_Published Aug 19, 2025, 11:00 PM_
+Saudi charged over deadly german christmas market attack" }
+Gnsmtctlsx@{ shape: win-pane, label: "_Published Jan 06, 2025, 04:51 PM_
+German christmas market attack death toll rises to six" }
+SmrdralnagceCta@{ shape: win-pane, label: "_Published Dec 21, 2024, 06:01 AM_
+Saudi man arrested after at least 2 killed in car ramming attack at german christmas market" }
+Ctaakstbrna@{ shape: win-pane, label: "_Published Dec 24, 2024, 08:10 AM_
+Christmas market attack stirs political bickering in germany" }
+SCtaakenyarie@{ shape: win-pane, label: "_Published Dec 31, 2024, 02:11 AM_
+Signs christmas market attack suspect mentally ill, says german minister" }
+GnknseraaCtaak@{ shape: win-pane, label: "_Published Dec 23, 2024, 08:04 PM_
+Germany looking into possible security lapses after christmas market attack" }
+Gnhfedraaale@{ shape: win-pane, label: "_Published Dec 21, 2024, 02:25 PM_
+Germany in shock after new deadly christmas attack; death toll rises to 5" }
 
-Truhorm:::txtsize --> NamriSloybomrs:::txtsize
-NamriSloybomrs:::txtsize --> Naefousacocboa:::txtsize
-Naefousacocboa:::txtsize --> Ucdcaadau:::txtsize
-NamriSloybomrs:::txtsize --> Siliiesgmi:::txtsize
-Siliiesgmi:::txtsize --> Naefousacocboa:::txtsize
-Siliiesgmi:::txtsize --> Naefousacocboa:::txtsize
-Truhorm:::txtsize --> AtihsoeiGC:::txtsize
-AtihsoeiGC:::txtsize --> EyoutahtanaGm:::txtsize
-EyoutahtanaGm:::txtsize --> DeuennrRiteorEst:::txtsize
-EyoutahtanaGm:::txtsize --> DeuennrRiteorEst:::txtsize
-AtihsoeiGC:::txtsize --> EyoutahtanaGm:::txtsize
-EyoutahtanaGm:::txtsize --> DeuennrRiteorEst:::txtsize
-EyoutahtanaGm:::txtsize --> DeuennrRiteorEst:::txtsize
+Sdroadyaisea:::txtsize --> Trsoomrakt:::txtsize
+Trsoomrakt:::txtsize --> SmrdralnagceCta:::txtsize
+SmrdralnagceCta:::txtsize --> CinoCtaimneak:::txtsize
+SmrdralnagceCta:::txtsize --> Trsoomrakt:::txtsize
+Trsoomrakt:::txtsize --> CinoCtaimneak:::txtsize
+CinoCtaimneak:::txtsize --> Gnbaesatrfas:::txtsize
+CinoCtaimneak:::txtsize --> Gncofwtdianh:::txtsize
+Sdroadyaisea:::txtsize --> Scerlmrakt:::txtsize
+Scerlmrakt:::txtsize --> Gnsmtctlsx:::txtsize
+Gnsmtctlsx:::txtsize --> SmrdralnagceCta:::txtsize
+Gnsmtctlsx:::txtsize --> Ctaakstbrna:::txtsize
+Scerlmrakt:::txtsize --> SCtaakenyarie:::txtsize
+SCtaakenyarie:::txtsize --> GnknseraaCtaak:::txtsize
+SCtaakenyarie:::txtsize --> Gnhfedraaale:::txtsize
 
-BpbImrsakeil@{ shape: win-pane, label: "_Published Nov 10, 2025, 10:45 AM_
-Big lips and botox: in trump’s world, fashion and makeup get political" }
-TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
-Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
-VsaKsirayce@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:59 AM_
-Videos of charlie kirk’s shooting spread rapidly on social media" }
-TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
-Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
-Mreurappgnil@{ shape: win-pane, label: "_Published Nov 23, 2024, 05:10 PM_
-Maga dream team: trump’s provocative picks presage an unpredictable era" }
-TpfrlooSeot@{ shape: win-pane, label: "_Published Nov 14, 2024, 05:24 AM_
-Trump picks former rival marco rubio for us secretary of state" }
-Tpfrccrouadrrtlln@{ shape: win-pane, label: "_Published Nov 14, 2024, 05:09 AM_
-Trump picks former democratic congresswoman tulsi gabbard as director of national intelligence" }
-Tsenateeseerncr@{ shape: win-pane, label: "_Published Nov 13, 2024, 12:30 PM_
-Trump says he will nominate anti-woke fox news host pete hegseth for defence secretary" }
-TWirntbrsdna@{ shape: win-pane, label: "_Published Nov 07, 2024, 08:30 AM_
-Trump 2.0: who is in the running for top jobs in trump’s second administration?" }
-TnMnayaDtoenic@{ shape: win-pane, label: "_Published Nov 13, 2024, 07:15 AM_
-Trump names musk and ramaswamy to lead new department of government efficiency" }
+Hfbymydilau@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:59 PM_
+How affordability became the year’s defining political issue" }
+ThuMnlmenekmae@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:15 PM_
+‘turn the volume up,’ mamdani tells trump after winning new york city mayoral race" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
+Cuomo to stay in new york mayoral race despite losing democratic primary" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
+Cuomo to stay in new york mayoral race despite losing democratic primary" }
 
-BpbImrsakeil:::txtsize --> TahesegnipdoUstt:::txtsize
-TahesegnipdoUstt:::txtsize --> VsaKsirayce:::txtsize
-VsaKsirayce:::txtsize --> TahesegnipdoUstt:::txtsize
-BpbImrsakeil:::txtsize --> Mreurappgnil:::txtsize
-Mreurappgnil:::txtsize --> TpfrlooSeot:::txtsize
-TpfrlooSeot:::txtsize --> Tpfrccrouadrrtlln:::txtsize
-Mreurappgnil:::txtsize --> Tsenateeseerncr:::txtsize
-Tsenateeseerncr:::txtsize --> TWirntbrsdna:::txtsize
-Tsenateeseerncr:::txtsize --> TnMnayaDtoenic:::txtsize
+Hfbymydilau:::txtsize --> ThuMnlmenekmae:::txtsize
+ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
+Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
+Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
+ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
+Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
+Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
 
-Sbdraohld@{ shape: win-pane, label: "_Published Nov 10, 2025, 10:40 AM_
-Saudi belly dancers break taboos behind closed doors" }
-VEdvfwsta@{ shape: win-pane, label: "_Published Jan 13, 2022, 05:45 PM_
-Viral egypt dance video fuels women's rights debate" }
-EsnoosioTd@{ shape: win-pane, label: "_Published Jul 29, 2020, 11:41 AM_
-Egypt sentences women to 2 years in prison for tiktok videos" }
+Tttahoagrady@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:15 PM_
+Trump to meet sharaa at white house, capping major turnaround for syria" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
+Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Hmsis@{ shape: win-pane, label: "_Published Dec 08, 2024, 04:00 PM_
+How damascus fell in 11 days" }
+SniaeagfSvmtrli@{ shape: win-pane, label: "_Published Nov 09, 2025, 05:58 PM_
+Syrian president arrives in washington after us removes him from terrorism blacklist" }
+UslaoSsiaotsi@{ shape: win-pane, label: "_Published Nov 05, 2025, 08:17 AM_
+Us asks un to lift sanctions on syria’s president ahead of white house visit" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Ttosinajlh@{ shape: win-pane, label: "_Published May 14, 2025, 01:02 AM_
+Trump to remove us sanctions on syria in major policy shift" }
+SceppotasSs@{ shape: win-pane, label: "_Published Nov 09, 2025, 04:40 AM_
+Syria carries out pre-emptive operations against isis cells" }
+SneehtdstNbyn@{ shape: win-pane, label: "_Published Nov 01, 2025, 11:51 PM_
+Syrian leader ahmed al-sharaa to head to washington in november, says us envoy" }
+Uitahetsierus@{ shape: win-pane, label: "_Published Nov 07, 2025, 02:20 AM_
+Us military to establish presence at damascus airbase in syria, sources say" }
 
-Sbdraohld:::txtsize --> VEdvfwsta:::txtsize
-VEdvfwsta:::txtsize --> EsnoosioTd:::txtsize
+Tttahoagrady:::txtsize --> SnltiARahtoy:::txtsize
+SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
+Wasrsnnafriben:::txtsize --> SnltiARahtoy:::txtsize
+Wasrsnnafriben:::txtsize --> Hmsis:::txtsize
+Tttahoagrady:::txtsize --> SniaeagfSvmtrli:::txtsize
+SniaeagfSvmtrli:::txtsize --> UslaoSsiaotsi:::txtsize
+UslaoSsiaotsi:::txtsize --> SnltiARahtoy:::txtsize
+UslaoSsiaotsi:::txtsize --> Ttosinajlh:::txtsize
+SniaeagfSvmtrli:::txtsize --> SceppotasSs:::txtsize
+SceppotasSs:::txtsize --> SneehtdstNbyn:::txtsize
+SceppotasSs:::txtsize --> Uitahetsierus:::txtsize
 
 ```
-<i>Last updated: 2025-11-10 12:00:29.562959 (GMT+8)</i>
+<i>Last updated: 2025-11-10 16:00:54.008764 (GMT+8)</i>
 <!-- END -->
