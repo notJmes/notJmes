@@ -16,120 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-UasieveunsuRst@{ shape: win-pane, label: "_Published Nov 11, 2025, 11:01 AM_
-Us senate passes bill to end government shutdown, sends to house of representatives" }
+NPigpssevHr@{ shape: win-pane, label: "_Published Nov 11, 2025, 03:18 PM_
+Nancy pelosi’s daughter picks state senate bid over us house run" }
+NPitnrUafosrnto@{ shape: win-pane, label: "_Published Nov 07, 2025, 11:40 PM_
+Nancy pelosi, first woman to serve as us speaker of the house, is retiring - and that is good" }
 YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
 Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
 YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
 Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
-TbCttousoscolsdsr@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:15 AM_
-Trump backs cuomo, threatens to cut funds as new yorkers expected to pick leftist mamdani as mayor" }
-OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
-Obama calls mamdani, praises campaign ahead of new york mayoral election" }
 Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
 Takeaways from us election night 2025" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
-Uamitgegnso@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:21 AM_
-Us senate compromise sets stage for end to government shutdown" }
-Uettorifodf@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:09 AM_
-Usda tells states to ‘undo’ efforts to issue full food aid benefits" }
-Uroeutdifido@{ shape: win-pane, label: "_Published Nov 08, 2025, 08:39 AM_
-Us supreme court lets trump withhold $5.2 billion in food aid funding for now" }
-Uroeutdifido@{ shape: win-pane, label: "_Published Nov 08, 2025, 08:39 AM_
-Us supreme court lets trump withhold $5.2 billion in food aid funding for now" }
-Uglalnetifolhgr@{ shape: win-pane, label: "_Published Nov 10, 2025, 06:48 AM_
-Us flight delays, cancellations accelerate as air traffic controller shortages surge" }
-Ulbtefiyvendhs@{ shape: win-pane, label: "_Published Nov 09, 2025, 07:33 PM_
-Us airlines brace themselves for third day of government-mandated flight cuts" }
-Uavstfat@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:45 AM_
-Us senate advances bill to end federal shutdown" }
 
-UasieveunsuRst:::txtsize --> YMmnoihaiYilehpea:::txtsize
+NPigpssevHr:::txtsize --> NPitnrUafosrnto:::txtsize
+NPitnrUafosrnto:::txtsize --> YMmnoihaiYilehpea:::txtsize
 YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
-YMmimociYaoauoc:::txtsize --> TbCttousoscolsdsr:::txtsize
-YMmimociYaoauoc:::txtsize --> OcMniagaekren:::txtsize
 YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
-Twreig:::txtsize --> YMmnoihaiYilehpea:::txtsize
-Twreig:::txtsize --> Drwialosdp:::txtsize
-UasieveunsuRst:::txtsize --> Uamitgegnso:::txtsize
-Uamitgegnso:::txtsize --> Uettorifodf:::txtsize
-Uettorifodf:::txtsize --> Uroeutdifido:::txtsize
-Uettorifodf:::txtsize --> Uroeutdifido:::txtsize
-Uamitgegnso:::txtsize --> Uglalnetifolhgr:::txtsize
-Uglalnetifolhgr:::txtsize --> Ulbtefiyvendhs:::txtsize
-Uglalnetifolhgr:::txtsize --> Uavstfat:::txtsize
 
-EpbratOmui@{ shape: win-pane, label: "_Published Nov 11, 2025, 10:26 AM_
-Ethiopia to be approved as host for cop32 climate summit in 2027" }
-EihtPamndte@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:15 PM_
-Explainer: what is the cop30 climate summit, and why does it matter?" }
-NPtssoses@{ shape: win-pane, label: "_Published Dec 11, 2023, 09:41 PM_
-New cop28 draft deal stops short of fossil fuel ‘phase-out’" }
-Csuevloelps@{ shape: win-pane, label: "_Published Dec 05, 2023, 12:44 AM_
-Cut fossil fuel use to save millions of lives, health experts say" }
-MosCrtiglweyc@{ shape: win-pane, label: "_Published Dec 10, 2023, 08:34 PM_
-Mission possible? cop28 targets tripling of global renewable energy capacity" }
-WwvogmoneUn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:22 PM_
-World will overshoot 1.5 deg c climate goal in next decade, un warns" }
-Ntnosager@{ shape: win-pane, label: "_Published Oct 13, 2025, 11:10 AM_
-Not nothing, not enough: is the paris agreement working?" }
-Cpghgdois@{ shape: win-pane, label: "_Published Sep 25, 2025, 04:57 AM_
-China plans 7-10% greenhouse gas reduction by 2035, xi tells un" }
-FlsosOeeomc@{ shape: win-pane, label: "_Published Nov 08, 2025, 05:00 AM_
-From pledges to progress: can cop30 move the needle on climate action?" }
-SsifawlecldiitsGF@{ shape: win-pane, label: "_Published Nov 06, 2025, 03:00 PM_
-S’pore’s readiness for dealing with climate impacts will guide business investments here: grace fu" }
-Ftoesifalei@{ shape: win-pane, label: "_Published Nov 01, 2025, 05:31 AM_
-Fewer than 60 world leaders confirmed for brazil climate summit" }
-Ctndresueeld@{ shape: win-pane, label: "_Published Oct 30, 2025, 08:45 AM_
-Climate change made hurricane melissa four times more likely: study" }
-CtnondVao@{ shape: win-pane, label: "_Published Oct 30, 2025, 03:15 PM_
-Climate change, poor planning drive vietnam flooding" }
-Naisrrsduenr@{ shape: win-pane, label: "_Published Oct 23, 2025, 08:50 AM_
-New zealand issues rare red warnings amid destructive spring storm" }
-Soaervnfnidphe@{ shape: win-pane, label: "_Published Oct 25, 2025, 11:20 AM_
-Saf coordinates delivery of over 5 tonnes of humanitarian aid to typhoon-hit vietnam" }
+Ptfaisrpas@{ shape: win-pane, label: "_Published Nov 11, 2025, 03:06 PM_
+Partition of gaza a looming risk as trump's plan falters" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
 
-EpbratOmui:::txtsize --> EihtPamndte:::txtsize
-EihtPamndte:::txtsize --> NPtssoses:::txtsize
-NPtssoses:::txtsize --> Csuevloelps:::txtsize
-NPtssoses:::txtsize --> MosCrtiglweyc:::txtsize
-EihtPamndte:::txtsize --> WwvogmoneUn:::txtsize
-WwvogmoneUn:::txtsize --> Ntnosager:::txtsize
-WwvogmoneUn:::txtsize --> Cpghgdois:::txtsize
-EpbratOmui:::txtsize --> FlsosOeeomc:::txtsize
-FlsosOeeomc:::txtsize --> SsifawlecldiitsGF:::txtsize
-SsifawlecldiitsGF:::txtsize --> Ftoesifalei:::txtsize
-SsifawlecldiitsGF:::txtsize --> Ctndresueeld:::txtsize
-FlsosOeeomc:::txtsize --> CtnondVao:::txtsize
-CtnondVao:::txtsize --> Naisrrsduenr:::txtsize
-CtnondVao:::txtsize --> Soaervnfnidphe:::txtsize
+Ptfaisrpas:::txtsize --> Wouaaam:::txtsize
+Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+Wouaaam:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Ptfaisrpas:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
 
-Anerwir@{ shape: win-pane, label: "_Published Nov 11, 2025, 10:25 AM_
-Ai agents open door to new hacking threats" }
-Tofcceonbiol@{ shape: win-pane, label: "_Published Nov 05, 2025, 06:00 PM_
-The ‘doorman fallacy’: why careless adoption of ai backfires so easily" }
-Aulmsmoche@{ shape: win-pane, label: "_Published Nov 07, 2025, 12:15 PM_
-‘are you single, old man?’: ai scams more convincing than ever" }
-Ipsruolncgis@{ shape: win-pane, label: "_Published Oct 22, 2025, 06:30 PM_
-India proposes strict rules to label ai content, citing growing risks" }
-oigeondanCSieu@{ shape: win-pane, label: "_Published Jul 02, 2025, 11:58 AM_
-3 out of 4 in singapore cannot identify deepfake content: cyber security agency survey" }
-IadftosnIumi@{ shape: win-pane, label: "_Published Sep 28, 2025, 05:00 AM_
-In the age of disinformation, polarisation and ai, the public must win" }
-jasetIlasreetgr@{ shape: win-pane, label: "_Published Feb 12, 2025, 10:33 PM_
-124 journalists killed, mostly by israel, in deadliest year for reporters: watchdog report" }
+Isieloamf@{ shape: win-pane, label: "_Published Nov 11, 2025, 02:00 PM_
+Iraqis vote in general election in rare moment of calm" }
+Isictxtntf@{ shape: win-pane, label: "_Published Nov 11, 2025, 08:16 AM_
+Iraqis vote in election they expect to bring little reform" }
+Isictxtntf@{ shape: win-pane, label: "_Published Nov 11, 2025, 08:16 AM_
+Iraqis vote in election they expect to bring little reform" }
+Isictxtntf@{ shape: win-pane, label: "_Published Nov 11, 2025, 08:16 AM_
+Iraqis vote in election they expect to bring little reform" }
+Ssalirniwetaatc@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:45 PM_
+Syria’s sharaa tells putin at kremlin meeting he will respect all past deals with moscow" }
+Ssalirniwetaatc@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:45 PM_
+Syria’s sharaa tells putin at kremlin meeting he will respect all past deals with moscow" }
+Ralkireosr@{ shape: win-pane, label: "_Published Mar 02, 2025, 03:09 PM_
+Russia gambles to keep military bases in post-assad syria" }
+SnsrsetlRars@{ shape: win-pane, label: "_Published Apr 15, 2025, 12:11 AM_
+Syrian ambassador to moscow requests asylum in russia, report says" }
+Iaacswhiainr@{ shape: win-pane, label: "_Published Nov 04, 2025, 04:37 AM_
+Iraq can disarm factions only when the us withdraws, prime minister says" }
+IamiIeorvrr@{ shape: win-pane, label: "_Published Apr 07, 2025, 01:13 PM_
+Iran-backed militias in iraq ready to disarm to avert trump wrath" }
+Taitnaiorntt@{ shape: win-pane, label: "_Published Mar 09, 2025, 01:20 PM_
+Trump administration ends iraq’s waiver to buy iranian electricity" }
+Troamsnaoexsr@{ shape: win-pane, label: "_Published Feb 05, 2025, 05:11 AM_
+Trump re-imposes ‘maximum pressure’ on iran, aims to drive oil exports to zero" }
+Bastiinriq@{ shape: win-pane, label: "_Published Jun 14, 2025, 09:50 PM_
+Baghdad asks iran to avoid strikes on us targets in iraq" }
+Ilsalawfisf@{ shape: win-pane, label: "_Published Jun 14, 2025, 07:35 PM_
+Israel warns ‘tehran will burn’ after wave of iranian missile fire" }
+Iaseeticoc@{ shape: win-pane, label: "_Published Jun 14, 2025, 08:25 PM_
+Iranians describe israel’s attacks in voice memos and calls" }
 
-Anerwir:::txtsize --> Tofcceonbiol:::txtsize
-Anerwir:::txtsize --> Aulmsmoche:::txtsize
-Aulmsmoche:::txtsize --> Ipsruolncgis:::txtsize
-Ipsruolncgis:::txtsize --> oigeondanCSieu:::txtsize
-Aulmsmoche:::txtsize --> IadftosnIumi:::txtsize
-IadftosnIumi:::txtsize --> jasetIlasreetgr:::txtsize
+Isieloamf:::txtsize --> Isictxtntf:::txtsize
+Isictxtntf:::txtsize --> Isictxtntf:::txtsize
+Isictxtntf:::txtsize --> Isictxtntf:::txtsize
+Isictxtntf:::txtsize --> Ssalirniwetaatc:::txtsize
+Isictxtntf:::txtsize --> Ssalirniwetaatc:::txtsize
+Ssalirniwetaatc:::txtsize --> Ralkireosr:::txtsize
+Ssalirniwetaatc:::txtsize --> SnsrsetlRars:::txtsize
+Isieloamf:::txtsize --> Iaacswhiainr:::txtsize
+Iaacswhiainr:::txtsize --> IamiIeorvrr:::txtsize
+IamiIeorvrr:::txtsize --> Taitnaiorntt:::txtsize
+IamiIeorvrr:::txtsize --> Troamsnaoexsr:::txtsize
+Iaacswhiainr:::txtsize --> Bastiinriq:::txtsize
+Bastiinriq:::txtsize --> Ilsalawfisf:::txtsize
+Bastiinriq:::txtsize --> Iaseeticoc:::txtsize
 
 ```
-<i>Last updated: 2025-11-11 12:01:15.263040 (GMT+8)</i>
+<i>Last updated: 2025-11-11 16:00:38.836373 (GMT+8)</i>
 <!-- END -->
