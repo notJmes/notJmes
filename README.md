@@ -16,138 +16,126 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Gnzrdabhaapis@{ shape: win-pane, label: "_Published Nov 11, 2025, 07:50 PM_
-German citizen arrested for dark web death threats against politicians" }
-Csothhevoeear@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:42 PM_
-China spied on britain through hacked servers for at least 10 years, say sources" }
-Bstriktsminc@{ shape: win-pane, label: "_Published Oct 16, 2025, 07:15 AM_
-British pm starmer publishes key witness statements in china spy case" }
-BsisiPrCpysg@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:42 AM_
-British ministers criticise pm starmer’s china policy amid spying row" }
-Bssoydeiseiiylu@{ shape: win-pane, label: "_Published Oct 08, 2025, 03:47 AM_
-British prosecutors say they did ‘everything possible’ to bring china spy trial to court" }
-Upenocdyon@{ shape: win-pane, label: "_Published Sep 15, 2025, 06:20 PM_
-Uk drops case against two men accused of spying for china" }
-Clderdoials@{ shape: win-pane, label: "_Published Aug 26, 2025, 11:37 AM_
-China-linked hackers targeted diplomats in asia, google says" }
-Cffgpidhtrortyl@{ shape: win-pane, label: "_Published Jul 10, 2025, 02:45 PM_
-China foils foreign spy plots including a ‘honey trap’, urges govt workers to stay vigilant" }
-Eerslcakunrie@{ shape: win-pane, label: "_Published Sep 20, 2025, 03:40 PM_
-European airports snarled by cyber attack, disruption to stretch into sept 21" }
-DAnewietueptsgsi@{ shape: win-pane, label: "_Published Oct 26, 2024, 07:12 AM_
-Delta air lines sues crowdstrike over software update that prompted mass flight disruptions" }
-Csirwiorauauatusll@{ shape: win-pane, label: "_Published Jul 19, 2024, 10:50 PM_
-Cyber-security firm crowdstrike’s software update causes major outage affecting businesses globally" }
-CSetleauecdau@{ shape: win-pane, label: "_Published Sep 24, 2024, 08:35 PM_
-Crowdstrike exec to apologise for faulty update that caused global it outage" }
-KpioeaMsityrc@{ shape: win-pane, label: "_Published Mar 25, 2025, 05:25 PM_
-Klia operations not affected after malaysian airport hit by cyber attack" }
-Uawncnupmam@{ shape: win-pane, label: "_Published Mar 24, 2025, 04:58 PM_
-Uk’s heathrow defends decision to shut airport amid blame game" }
-Cggciuictenrwtba@{ shape: win-pane, label: "_Published Jun 21, 2024, 10:30 PM_
-Csa urges vigilance against ‘suspicious activity’ after changi airport website hit by outage" }
-
-Gnzrdabhaapis:::txtsize --> Csothhevoeear:::txtsize
-Csothhevoeear:::txtsize --> Bstriktsminc:::txtsize
-Bstriktsminc:::txtsize --> BsisiPrCpysg:::txtsize
-Bstriktsminc:::txtsize --> Bssoydeiseiiylu:::txtsize
-Csothhevoeear:::txtsize --> Upenocdyon:::txtsize
-Upenocdyon:::txtsize --> Clderdoials:::txtsize
-Upenocdyon:::txtsize --> Cffgpidhtrortyl:::txtsize
-Gnzrdabhaapis:::txtsize --> Eerslcakunrie:::txtsize
-Eerslcakunrie:::txtsize --> DAnewietueptsgsi:::txtsize
-DAnewietueptsgsi:::txtsize --> Csirwiorauauatusll:::txtsize
-DAnewietueptsgsi:::txtsize --> CSetleauecdau:::txtsize
-Eerslcakunrie:::txtsize --> KpioeaMsityrc:::txtsize
-KpioeaMsityrc:::txtsize --> Uawncnupmam:::txtsize
-KpioeaMsityrc:::txtsize --> Cggciuictenrwtba:::txtsize
-
-Csndoenkhcsts@{ shape: win-pane, label: "_Published Nov 11, 2025, 07:33 PM_
-Chile's endangered humboldt penguins risk further decline, scientists say" }
-Dibisiissrur@{ shape: win-pane, label: "_Published Nov 11, 2025, 01:38 PM_
-Devil in the beetails: australian scientists discover new ‘lucifer’ bee" }
-SvEesufakeitn@{ shape: win-pane, label: "_Published Oct 11, 2025, 06:50 PM_
-Survival of europe’s bees and butterflies at risk, conservationists warn" }
-Emtsegehntcdt@{ shape: win-pane, label: "_Published May 30, 2025, 04:08 PM_
-Extreme heatwaves are getting longer and hitting the tropics hardest: study" }
-WipiausW@{ shape: win-pane, label: "_Published Oct 10, 2024, 07:29 AM_
-Wildlife populations have plunged 73% since 1970: wwf" }
-neokbenphtmeede@{ shape: win-pane, label: "_Published Jun 30, 2025, 05:00 AM_
-16 new species of darkling beetles found in s’pore, thanks to one man’s resolve over 2 decades" }
-NeodvnaSp@{ shape: win-pane, label: "_Published Apr 18, 2025, 04:25 PM_
-New species of bug discovered, named after singapore" }
-Rufeseiortseat@{ shape: win-pane, label: "_Published May 04, 2025, 02:31 PM_
-Rare butterfly species spotted in singapore for first time sets hearts aflutter" }
-Gidaipdmclnkkin@{ shape: win-pane, label: "_Published Nov 10, 2025, 11:50 AM_
-‘give him a ride’: malayan tiger spotted swimming across lake in perak sparks excitement" }
+IBsmseebqug@{ shape: win-pane, label: "_Published Nov 11, 2025, 11:44 PM_
+‘it’s un-british’: lawmakers raise concerns about aquarium penguins" }
+Issneisedlnkgabr@{ shape: win-pane, label: "_Published Oct 31, 2025, 04:37 PM_
+India seizes two endangered gibbons, one dead and one alive, in checked luggage at mumbai airport" }
+Msegyibakhap@{ shape: win-pane, label: "_Published Oct 24, 2025, 04:00 PM_
+Malaysia emerging as key link in gibbon trafficking chain, says report" }
 Tsoaanabwe@{ shape: win-pane, label: "_Published Oct 23, 2025, 01:05 PM_
 Tigers in trouble as malaysian big cat numbers dwindle" }
-Tcsatkrny@{ shape: win-pane, label: "_Published Sep 18, 2025, 07:10 PM_
-Tiger carcass in car boot sparks outrage in malaysia" }
-Msuirneevaena@{ shape: win-pane, label: "_Published Sep 23, 2025, 02:44 PM_
-Malaysia court jails three men for seven years over dead tiger found in car" }
-Mmanrmaaiornhpa@{ shape: win-pane, label: "_Published Apr 03, 2025, 12:00 PM_
-Match mate: malayan tigers from singapore and taipei zoo on breeding ‘exchange programme’" }
-Biaardpwmonr@{ shape: win-pane, label: "_Published Mar 27, 2025, 12:21 PM_
-Bountiful baby year: s’pore wildlife parks welcomed close to 1,000 newborns in 2024" }
-Fageteldonsdhtswi@{ shape: win-pane, label: "_Published Feb 22, 2025, 04:00 PM_
-From raising awareness to potential breeding: how rainforest wild asia helps to conserve wildlife" }
+Mseeunxal@{ shape: win-pane, label: "_Published May 19, 2025, 10:35 AM_
+Malaysia sees rise in smuggling of exotic animals" }
+Lrtstdtzmnseanglee@{ shape: win-pane, label: "_Published Oct 20, 2025, 03:18 PM_
+Leopard tortoise, spiny-tailed monitor lizard among animals seized in raids on illegal wildlife trade" }
+Begprdegxrlltlm@{ shape: win-pane, label: "_Published Sep 17, 2025, 06:45 PM_
+Bearded dragon supplier fined $2,000 for keeping the exotic reptile, selling it on telegram" }
+Wisrcooegfwtekdi@{ shape: win-pane, label: "_Published Aug 16, 2025, 12:00 PM_
+Wildlife rescue group acres hopes to send 30 endangered freshwater turtles back to indonesia" }
+Vllrenba@{ shape: win-pane, label: "_Published Oct 19, 2025, 11:30 AM_
+Vet talk: could your ‘misbehaving’ pet be in pain?" }
+Vlmaslgpt@{ shape: win-pane, label: "_Published Sep 21, 2025, 11:45 AM_
+Vet talk: six myths about sterilising your pet cat" }
+Ccneknpio@{ shape: win-pane, label: "_Published May 11, 2024, 11:00 AM_
+Cat licensing scheme to kick in on sept 1 in singapore" }
+PtnsesSehutw@{ shape: win-pane, label: "_Published Aug 31, 2024, 03:00 PM_
+Pet cat licensing scheme kicks in on sept 1: here’s what you need to know" }
 
-Csndoenkhcsts:::txtsize --> Dibisiissrur:::txtsize
-Dibisiissrur:::txtsize --> SvEesufakeitn:::txtsize
-SvEesufakeitn:::txtsize --> Emtsegehntcdt:::txtsize
-SvEesufakeitn:::txtsize --> WipiausW:::txtsize
-Dibisiissrur:::txtsize --> neokbenphtmeede:::txtsize
-neokbenphtmeede:::txtsize --> NeodvnaSp:::txtsize
-neokbenphtmeede:::txtsize --> Rufeseiortseat:::txtsize
-Csndoenkhcsts:::txtsize --> Gidaipdmclnkkin:::txtsize
-Gidaipdmclnkkin:::txtsize --> Tsoaanabwe:::txtsize
-Tsoaanabwe:::txtsize --> Tcsatkrny:::txtsize
-Tsoaanabwe:::txtsize --> Msuirneevaena:::txtsize
-Gidaipdmclnkkin:::txtsize --> Mmanrmaaiornhpa:::txtsize
-Mmanrmaaiornhpa:::txtsize --> Biaardpwmonr:::txtsize
-Mmanrmaaiornhpa:::txtsize --> Fageteldonsdhtswi:::txtsize
+IBsmseebqug:::txtsize --> Issneisedlnkgabr:::txtsize
+Issneisedlnkgabr:::txtsize --> Msegyibakhap:::txtsize
+Msegyibakhap:::txtsize --> Tsoaanabwe:::txtsize
+Msegyibakhap:::txtsize --> Mseeunxal:::txtsize
+Issneisedlnkgabr:::txtsize --> Lrtstdtzmnseanglee:::txtsize
+Lrtstdtzmnseanglee:::txtsize --> Begprdegxrlltlm:::txtsize
+Lrtstdtzmnseanglee:::txtsize --> Wisrcooegfwtekdi:::txtsize
+IBsmseebqug:::txtsize --> Vllrenba:::txtsize
+Vllrenba:::txtsize --> Vlmaslgpt:::txtsize
+Vlmaslgpt:::txtsize --> Ccneknpio:::txtsize
+Vlmaslgpt:::txtsize --> PtnsesSehutw:::txtsize
 
-Bsscoiredbs@{ shape: win-pane, label: "_Published Nov 11, 2025, 06:58 PM_
-Bodies of russian crypto millionaire, wife found in dubai desert" }
-Iseucitanenaccanr@{ shape: win-pane, label: "_Published Nov 06, 2025, 08:10 PM_
-Iris hsieh death: murder classification based on evidence, information collected, says minister" }
-MsaNeafyraieshc@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:47 AM_
-Malaysian rapper namewee remanded for 6 days over taiwanese influencer’s death: police" }
-Ksayhisleshr@{ shape: win-pane, label: "_Published Nov 04, 2025, 12:20 PM_
-Kl cops reclassify death of taiwanese influencer iris hsieh as murder" }
-Neiteiiouoweurlh@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:45 PM_
-Namewee believed to have gone into hiding over murder of taiwanese influencer: kl police chief" }
-Ksayhisleshr@{ shape: win-pane, label: "_Published Nov 04, 2025, 12:20 PM_
-Kl cops reclassify death of taiwanese influencer iris hsieh as murder" }
-MsaNeiuavmnaiesh@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:47 PM_
-Malaysian rapper namewee denies drug use and involvement in taiwanese influencer’s death" }
-Blnnnsnihscefd@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:30 AM_
-Brazilian influencer, known as ‘human barbie’ for her 27 cosmetic surgeries, found dead" }
-Ksayhisleshr@{ shape: win-pane, label: "_Published Nov 04, 2025, 12:20 PM_
-Kl cops reclassify death of taiwanese influencer iris hsieh as murder" }
-MsaNeiuavmnaiesh@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:47 PM_
-Malaysian rapper namewee denies drug use and involvement in taiwanese influencer’s death" }
-MsaNeeggttat@{ shape: win-pane, label: "_Published Nov 03, 2025, 09:40 AM_
-Malaysian rapper namewee faces drug charges after october arrest" }
-MsaNeafyraieshc@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:47 AM_
-Malaysian rapper namewee remanded for 6 days over taiwanese influencer’s death: police" }
-Ksayhisleshr@{ shape: win-pane, label: "_Published Nov 04, 2025, 12:20 PM_
-Kl cops reclassify death of taiwanese influencer iris hsieh as murder" }
+CsutnlUlebi@{ shape: win-pane, label: "_Published Nov 11, 2025, 11:16 PM_
+Chinese fraud mastermind jailed in uk for laundering bitcoin" }
+Csiwfjfintzna@{ shape: win-pane, label: "_Published Nov 10, 2025, 12:02 PM_
+Chinese businesswoman faces jail after $7.8 billion crypto seizure in britain" }
+MsidrnccU@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:18 AM_
+Malaysian fixer admits role in $28m bitcoin scam in uk" }
+Msaaecocioten@{ shape: win-pane, label: "_Published Jul 11, 2025, 04:10 PM_
+Malaysian man steals electricity for bitcoin mining operation, gets $36,000 fine" }
+Sariinttgcbtly@{ shape: win-pane, label: "_Published Mar 10, 2025, 09:24 AM_
+S’porean charged with $306m bitcoin theft spent $665k a night in clubs, bought over 30 luxury cars" }
+Valeboimgrc@{ shape: win-pane, label: "_Published Sep 25, 2025, 05:39 PM_
+Vietnam jails dozens in $4.89 billion online gambling and crypto case" }
+mldimrkseibce@{ shape: win-pane, label: "_Published Sep 12, 2025, 04:10 PM_
+3 more alleged syndicate members linked to scam centre in cambodia charged" }
+MrdnscrsifuitmrSa@{ shape: win-pane, label: "_Published Aug 06, 2025, 10:20 AM_
+Meta cracks down on whatsapp scammers; bans millions of accounts linked to scam centres in s-e asia" }
+MsidrnccU@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:18 AM_
+Malaysian fixer admits role in $28m bitcoin scam in uk" }
+Msaaecocioten@{ shape: win-pane, label: "_Published Jul 11, 2025, 04:10 PM_
+Malaysian man steals electricity for bitcoin mining operation, gets $36,000 fine" }
+MIetecknlfe@{ shape: win-pane, label: "_Published Mar 25, 2025, 01:29 PM_
+Man in ipoh gets fatal electric shock during cable theft attempt" }
+Tobilbiig@{ shape: win-pane, label: "_Published Nov 13, 2024, 02:05 PM_
+Thai police bust nine illegal bitcoin mining rigs" }
+Sariinttgcbtly@{ shape: win-pane, label: "_Published Mar 10, 2025, 09:24 AM_
+S’porean charged with $306m bitcoin theft spent $665k a night in clubs, bought over 30 luxury cars" }
+Mrbdtstlgene@{ shape: win-pane, label: "_Published Nov 15, 2024, 08:31 AM_
+Mastermind behind crypto heist worth billions gets 5-year sentence" }
 
-Bsscoiredbs:::txtsize --> Iseucitanenaccanr:::txtsize
-Iseucitanenaccanr:::txtsize --> MsaNeafyraieshc:::txtsize
-MsaNeafyraieshc:::txtsize --> Ksayhisleshr:::txtsize
-Iseucitanenaccanr:::txtsize --> Neiteiiouoweurlh:::txtsize
-Neiteiiouoweurlh:::txtsize --> Ksayhisleshr:::txtsize
-Neiteiiouoweurlh:::txtsize --> MsaNeiuavmnaiesh:::txtsize
-Bsscoiredbs:::txtsize --> Blnnnsnihscefd:::txtsize
-Blnnnsnihscefd:::txtsize --> Ksayhisleshr:::txtsize
-Ksayhisleshr:::txtsize --> MsaNeiuavmnaiesh:::txtsize
-Ksayhisleshr:::txtsize --> MsaNeeggttat:::txtsize
-Blnnnsnihscefd:::txtsize --> MsaNeafyraieshc:::txtsize
-MsaNeafyraieshc:::txtsize --> Ksayhisleshr:::txtsize
+CsutnlUlebi:::txtsize --> Csiwfjfintzna:::txtsize
+Csiwfjfintzna:::txtsize --> MsidrnccU:::txtsize
+MsidrnccU:::txtsize --> Msaaecocioten:::txtsize
+MsidrnccU:::txtsize --> Sariinttgcbtly:::txtsize
+Csiwfjfintzna:::txtsize --> Valeboimgrc:::txtsize
+Valeboimgrc:::txtsize --> mldimrkseibce:::txtsize
+Valeboimgrc:::txtsize --> MrdnscrsifuitmrSa:::txtsize
+CsutnlUlebi:::txtsize --> MsidrnccU:::txtsize
+MsidrnccU:::txtsize --> Msaaecocioten:::txtsize
+Msaaecocioten:::txtsize --> MIetecknlfe:::txtsize
+Msaaecocioten:::txtsize --> Tobilbiig:::txtsize
+MsidrnccU:::txtsize --> Sariinttgcbtly:::txtsize
+Sariinttgcbtly:::txtsize --> Mrbdtstlgene:::txtsize
+
+Slrlevtdt@{ shape: win-pane, label: "_Published Nov 11, 2025, 11:15 PM_
+Slo-walk-ia: bratislava sets pavement speed limit" }
+Cscelioeaysfmeoy@{ shape: win-pane, label: "_Published Jul 01, 2025, 10:30 AM_
+Cyclists face fines, jail for riding on pedestrian-only paths as enforcement begins on july 1" }
+Faecneeptonessl@{ shape: win-pane, label: "_Published Aug 14, 2024, 05:00 PM_
+Footpaths next to cycling lanes to become pedestrian-only; enforcement starts in july 2025" }
+fnvioctaA@{ shape: win-pane, label: "_Published May 25, 2024, 05:00 PM_
+35% fall in active mobility offences between 2021 and 2023: lta data" }
+Aefygsbigethb@{ shape: win-pane, label: "_Published Aug 12, 2024, 05:00 AM_
+Another 87km of new cycling paths to be built in singapore’s east, north-east by 2030" }
+FptoapTytottotJ@{ shape: win-pane, label: "_Published Jan 21, 2025, 12:59 PM_
+First pedestrian-only paths open in toa payoh; paths in other towns to be completed by july" }
+Ptfdrwodwnnnaame@{ shape: win-pane, label: "_Published Jan 09, 2025, 04:50 PM_
+Pedestrian-friendly streets with covered linkways in taman jurong, choa chu kang completed" }
+Mrioypopoersaniy@{ shape: win-pane, label: "_Published Mar 19, 2025, 11:15 AM_
+Mixed reactions to malaysia’s plan to clamp down on buses, lorries using fast lane on highways" }
+OoioneiMslde@{ shape: win-pane, label: "_Published Mar 15, 2025, 09:59 AM_
+Over 2-hour wait to woodlands checkpoint as march school holidays begin" }
+Htieadktaacharaa@{ shape: win-pane, label: "_Published Mar 07, 2025, 10:40 AM_
+Heavy traffic expected at land checkpoints ahead of march school holidays, hari raya puasa: ica" }
+mcsuiwuedgkrlCp@{ shape: win-pane, label: "_Published Mar 07, 2025, 06:20 PM_
+18 motorcyclists caught riding without licences during checks near woodlands checkpoint" }
+Jetgaypfio@{ shape: win-pane, label: "_Published Mar 10, 2025, 08:25 AM_
+Johor expects surge of hari raya shoppers from singapore" }
+Htieadktaacharaa@{ shape: win-pane, label: "_Published Mar 07, 2025, 10:40 AM_
+Heavy traffic expected at land checkpoints ahead of march school holidays, hari raya puasa: ica" }
+
+Slrlevtdt:::txtsize --> Cscelioeaysfmeoy:::txtsize
+Cscelioeaysfmeoy:::txtsize --> Faecneeptonessl:::txtsize
+Faecneeptonessl:::txtsize --> fnvioctaA:::txtsize
+Faecneeptonessl:::txtsize --> Aefygsbigethb:::txtsize
+Cscelioeaysfmeoy:::txtsize --> FptoapTytottotJ:::txtsize
+FptoapTytottotJ:::txtsize --> Ptfdrwodwnnnaame:::txtsize
+Slrlevtdt:::txtsize --> Mrioypopoersaniy:::txtsize
+Mrioypopoersaniy:::txtsize --> OoioneiMslde:::txtsize
+OoioneiMslde:::txtsize --> Htieadktaacharaa:::txtsize
+OoioneiMslde:::txtsize --> mcsuiwuedgkrlCp:::txtsize
+Mrioypopoersaniy:::txtsize --> Jetgaypfio:::txtsize
+Jetgaypfio:::txtsize --> Htieadktaacharaa:::txtsize
 
 ```
-<i>Last updated: 2025-11-11 20:01:08.053827 (GMT+8)</i>
+<i>Last updated: 2025-11-12 00:00:38.756920 (GMT+8)</i>
 <!-- END -->
