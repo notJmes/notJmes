@@ -16,126 +16,111 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-IBsmseebqug@{ shape: win-pane, label: "_Published Nov 11, 2025, 11:44 PM_
-‘it’s un-british’: lawmakers raise concerns about aquarium penguins" }
-Issneisedlnkgabr@{ shape: win-pane, label: "_Published Oct 31, 2025, 04:37 PM_
-India seizes two endangered gibbons, one dead and one alive, in checked luggage at mumbai airport" }
-Msegyibakhap@{ shape: win-pane, label: "_Published Oct 24, 2025, 04:00 PM_
-Malaysia emerging as key link in gibbon trafficking chain, says report" }
-Tsoaanabwe@{ shape: win-pane, label: "_Published Oct 23, 2025, 01:05 PM_
-Tigers in trouble as malaysian big cat numbers dwindle" }
-Mseeunxal@{ shape: win-pane, label: "_Published May 19, 2025, 10:35 AM_
-Malaysia sees rise in smuggling of exotic animals" }
-Lrtstdtzmnseanglee@{ shape: win-pane, label: "_Published Oct 20, 2025, 03:18 PM_
-Leopard tortoise, spiny-tailed monitor lizard among animals seized in raids on illegal wildlife trade" }
-Begprdegxrlltlm@{ shape: win-pane, label: "_Published Sep 17, 2025, 06:45 PM_
-Bearded dragon supplier fined $2,000 for keeping the exotic reptile, selling it on telegram" }
-Wisrcooegfwtekdi@{ shape: win-pane, label: "_Published Aug 16, 2025, 12:00 PM_
-Wildlife rescue group acres hopes to send 30 endangered freshwater turtles back to indonesia" }
-Vllrenba@{ shape: win-pane, label: "_Published Oct 19, 2025, 11:30 AM_
-Vet talk: could your ‘misbehaving’ pet be in pain?" }
-Vlmaslgpt@{ shape: win-pane, label: "_Published Sep 21, 2025, 11:45 AM_
-Vet talk: six myths about sterilising your pet cat" }
-Ccneknpio@{ shape: win-pane, label: "_Published May 11, 2024, 11:00 AM_
-Cat licensing scheme to kick in on sept 1 in singapore" }
-PtnsesSehutw@{ shape: win-pane, label: "_Published Aug 31, 2024, 03:00 PM_
-Pet cat licensing scheme kicks in on sept 1: here’s what you need to know" }
+Mndngsiec@{ shape: win-pane, label: "_Published Nov 12, 2025, 03:28 AM_
+Mellon blue diamond ring sells for $32m in geneva auction" }
+Dnpncotnv@{ shape: win-pane, label: "_Published Nov 06, 2025, 09:05 PM_
+Diamonds, napoleon brooch up for auction in geneva" }
+Jisedpunui@{ shape: win-pane, label: "_Published Oct 21, 2025, 10:50 PM_
+Jane birkin’s hermes handbag up for auction in abu dhabi" }
+TagBnhcait@{ shape: win-pane, label: "_Published Jul 10, 2025, 11:59 PM_
+The $12.8m bag: original birkin smashes records at paris auction" }
 
-IBsmseebqug:::txtsize --> Issneisedlnkgabr:::txtsize
-Issneisedlnkgabr:::txtsize --> Msegyibakhap:::txtsize
-Msegyibakhap:::txtsize --> Tsoaanabwe:::txtsize
-Msegyibakhap:::txtsize --> Mseeunxal:::txtsize
-Issneisedlnkgabr:::txtsize --> Lrtstdtzmnseanglee:::txtsize
-Lrtstdtzmnseanglee:::txtsize --> Begprdegxrlltlm:::txtsize
-Lrtstdtzmnseanglee:::txtsize --> Wisrcooegfwtekdi:::txtsize
-IBsmseebqug:::txtsize --> Vllrenba:::txtsize
-Vllrenba:::txtsize --> Vlmaslgpt:::txtsize
-Vlmaslgpt:::txtsize --> Ccneknpio:::txtsize
-Vlmaslgpt:::txtsize --> PtnsesSehutw:::txtsize
+Mndngsiec:::txtsize --> Dnpncotnv:::txtsize
+Dnpncotnv:::txtsize --> Jisedpunui:::txtsize
+Jisedpunui:::txtsize --> TagBnhcait:::txtsize
 
-CsutnlUlebi@{ shape: win-pane, label: "_Published Nov 11, 2025, 11:16 PM_
-Chinese fraud mastermind jailed in uk for laundering bitcoin" }
-Csiwfjfintzna@{ shape: win-pane, label: "_Published Nov 10, 2025, 12:02 PM_
-Chinese businesswoman faces jail after $7.8 billion crypto seizure in britain" }
-MsidrnccU@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:18 AM_
-Malaysian fixer admits role in $28m bitcoin scam in uk" }
-Msaaecocioten@{ shape: win-pane, label: "_Published Jul 11, 2025, 04:10 PM_
-Malaysian man steals electricity for bitcoin mining operation, gets $36,000 fine" }
-Sariinttgcbtly@{ shape: win-pane, label: "_Published Mar 10, 2025, 09:24 AM_
-S’porean charged with $306m bitcoin theft spent $665k a night in clubs, bought over 30 luxury cars" }
-Valeboimgrc@{ shape: win-pane, label: "_Published Sep 25, 2025, 05:39 PM_
-Vietnam jails dozens in $4.89 billion online gambling and crypto case" }
-mldimrkseibce@{ shape: win-pane, label: "_Published Sep 12, 2025, 04:10 PM_
-3 more alleged syndicate members linked to scam centre in cambodia charged" }
-MrdnscrsifuitmrSa@{ shape: win-pane, label: "_Published Aug 06, 2025, 10:20 AM_
-Meta cracks down on whatsapp scammers; bans millions of accounts linked to scam centres in s-e asia" }
-MsidrnccU@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:18 AM_
-Malaysian fixer admits role in $28m bitcoin scam in uk" }
-Msaaecocioten@{ shape: win-pane, label: "_Published Jul 11, 2025, 04:10 PM_
-Malaysian man steals electricity for bitcoin mining operation, gets $36,000 fine" }
-MIetecknlfe@{ shape: win-pane, label: "_Published Mar 25, 2025, 01:29 PM_
-Man in ipoh gets fatal electric shock during cable theft attempt" }
-Tobilbiig@{ shape: win-pane, label: "_Published Nov 13, 2024, 02:05 PM_
-Thai police bust nine illegal bitcoin mining rigs" }
-Sariinttgcbtly@{ shape: win-pane, label: "_Published Mar 10, 2025, 09:24 AM_
-S’porean charged with $306m bitcoin theft spent $665k a night in clubs, bought over 30 luxury cars" }
-Mrbdtstlgene@{ shape: win-pane, label: "_Published Nov 15, 2024, 08:31 AM_
-Mastermind behind crypto heist worth billions gets 5-year sentence" }
+Illnadptlincyier@{ shape: win-pane, label: "_Published Nov 12, 2025, 03:11 AM_
+Israel’s parliament advances death penalty bill for militants, backed by far-right ben-gvir" }
+Feleirotnussa@{ shape: win-pane, label: "_Published Nov 12, 2025, 02:56 AM_
+France to help palestinians draft constitution for future state, says macron" }
+Tdsastoesat@{ shape: win-pane, label: "_Published Jul 25, 2025, 11:14 PM_
+Trump dismisses macron’s plan to recognise palestinian state" }
+FhtoesatweIl@{ shape: win-pane, label: "_Published Jul 25, 2025, 05:49 AM_
+French plan to recognise palestinian state draws fire from israel, us" }
+Fenveilnt@{ shape: win-pane, label: "_Published Jul 25, 2025, 08:45 PM_
+France defends move to recognise palestinian state" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+Ptfaisrpas@{ shape: win-pane, label: "_Published Nov 11, 2025, 03:06 PM_
+Partition of gaza a looming risk as trump’s plan falters" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
 
-CsutnlUlebi:::txtsize --> Csiwfjfintzna:::txtsize
-Csiwfjfintzna:::txtsize --> MsidrnccU:::txtsize
-MsidrnccU:::txtsize --> Msaaecocioten:::txtsize
-MsidrnccU:::txtsize --> Sariinttgcbtly:::txtsize
-Csiwfjfintzna:::txtsize --> Valeboimgrc:::txtsize
-Valeboimgrc:::txtsize --> mldimrkseibce:::txtsize
-Valeboimgrc:::txtsize --> MrdnscrsifuitmrSa:::txtsize
-CsutnlUlebi:::txtsize --> MsidrnccU:::txtsize
-MsidrnccU:::txtsize --> Msaaecocioten:::txtsize
-Msaaecocioten:::txtsize --> MIetecknlfe:::txtsize
-Msaaecocioten:::txtsize --> Tobilbiig:::txtsize
-MsidrnccU:::txtsize --> Sariinttgcbtly:::txtsize
-Sariinttgcbtly:::txtsize --> Mrbdtstlgene:::txtsize
+Illnadptlincyier:::txtsize --> Feleirotnussa:::txtsize
+Feleirotnussa:::txtsize --> Tdsastoesat:::txtsize
+Tdsastoesat:::txtsize --> FhtoesatweIl:::txtsize
+Tdsastoesat:::txtsize --> Fenveilnt:::txtsize
+Feleirotnussa:::txtsize --> AtHfezerydatoGel:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+Illnadptlincyier:::txtsize --> Ptfaisrpas:::txtsize
+Ptfaisrpas:::txtsize --> Wouaaam:::txtsize
+Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
+Wouaaam:::txtsize --> NyeeawHakl:::txtsize
+Ptfaisrpas:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
 
-Slrlevtdt@{ shape: win-pane, label: "_Published Nov 11, 2025, 11:15 PM_
-Slo-walk-ia: bratislava sets pavement speed limit" }
-Cscelioeaysfmeoy@{ shape: win-pane, label: "_Published Jul 01, 2025, 10:30 AM_
-Cyclists face fines, jail for riding on pedestrian-only paths as enforcement begins on july 1" }
-Faecneeptonessl@{ shape: win-pane, label: "_Published Aug 14, 2024, 05:00 PM_
-Footpaths next to cycling lanes to become pedestrian-only; enforcement starts in july 2025" }
-fnvioctaA@{ shape: win-pane, label: "_Published May 25, 2024, 05:00 PM_
-35% fall in active mobility offences between 2021 and 2023: lta data" }
-Aefygsbigethb@{ shape: win-pane, label: "_Published Aug 12, 2024, 05:00 AM_
-Another 87km of new cycling paths to be built in singapore’s east, north-east by 2030" }
-FptoapTytottotJ@{ shape: win-pane, label: "_Published Jan 21, 2025, 12:59 PM_
-First pedestrian-only paths open in toa payoh; paths in other towns to be completed by july" }
-Ptfdrwodwnnnaame@{ shape: win-pane, label: "_Published Jan 09, 2025, 04:50 PM_
-Pedestrian-friendly streets with covered linkways in taman jurong, choa chu kang completed" }
-Mrioypopoersaniy@{ shape: win-pane, label: "_Published Mar 19, 2025, 11:15 AM_
-Mixed reactions to malaysia’s plan to clamp down on buses, lorries using fast lane on highways" }
-OoioneiMslde@{ shape: win-pane, label: "_Published Mar 15, 2025, 09:59 AM_
-Over 2-hour wait to woodlands checkpoint as march school holidays begin" }
-Htieadktaacharaa@{ shape: win-pane, label: "_Published Mar 07, 2025, 10:40 AM_
-Heavy traffic expected at land checkpoints ahead of march school holidays, hari raya puasa: ica" }
-mcsuiwuedgkrlCp@{ shape: win-pane, label: "_Published Mar 07, 2025, 06:20 PM_
-18 motorcyclists caught riding without licences during checks near woodlands checkpoint" }
-Jetgaypfio@{ shape: win-pane, label: "_Published Mar 10, 2025, 08:25 AM_
-Johor expects surge of hari raya shoppers from singapore" }
-Htieadktaacharaa@{ shape: win-pane, label: "_Published Mar 07, 2025, 10:40 AM_
-Heavy traffic expected at land checkpoints ahead of march school holidays, hari raya puasa: ica" }
+Feleirotnussa@{ shape: win-pane, label: "_Published Nov 12, 2025, 02:56 AM_
+France to help palestinians draft constitution for future state, says macron" }
+Tdsastoesat@{ shape: win-pane, label: "_Published Jul 25, 2025, 11:14 PM_
+Trump dismisses macron’s plan to recognise palestinian state" }
+FhtoesatweIl@{ shape: win-pane, label: "_Published Jul 25, 2025, 05:49 AM_
+French plan to recognise palestinian state draws fire from israel, us" }
+Spaoefgvnausa@{ shape: win-pane, label: "_Published Jul 24, 2025, 07:45 PM_
+Singapore says prolonged suffering of civilians in gaza is ‘unconscionable’" }
+Hstotezcp@{ shape: win-pane, label: "_Published Jul 24, 2025, 08:45 AM_
+Hamas says it responded to latest gaza truce proposal" }
+Fenveilnt@{ shape: win-pane, label: "_Published Jul 25, 2025, 08:45 PM_
+France defends move to recognise palestinian state" }
+Gnpirnaisirm@{ shape: win-pane, label: "_Published Jul 25, 2025, 05:54 PM_
+Germany not planning to recognise palestinian state in short term" }
+Bikulntotcfhpi@{ shape: win-pane, label: "_Published Jul 25, 2025, 04:14 PM_
+Britain backs future palestinian statehood but says ceasefire the top priority" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Mmenwniuaa@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:36 AM_
+Muslim states join eu powers in backing trump’s gaza plan" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Mmenwniuaa@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:36 AM_
+Muslim states join eu powers in backing trump’s gaza plan" }
 
-Slrlevtdt:::txtsize --> Cscelioeaysfmeoy:::txtsize
-Cscelioeaysfmeoy:::txtsize --> Faecneeptonessl:::txtsize
-Faecneeptonessl:::txtsize --> fnvioctaA:::txtsize
-Faecneeptonessl:::txtsize --> Aefygsbigethb:::txtsize
-Cscelioeaysfmeoy:::txtsize --> FptoapTytottotJ:::txtsize
-FptoapTytottotJ:::txtsize --> Ptfdrwodwnnnaame:::txtsize
-Slrlevtdt:::txtsize --> Mrioypopoersaniy:::txtsize
-Mrioypopoersaniy:::txtsize --> OoioneiMslde:::txtsize
-OoioneiMslde:::txtsize --> Htieadktaacharaa:::txtsize
-OoioneiMslde:::txtsize --> mcsuiwuedgkrlCp:::txtsize
-Mrioypopoersaniy:::txtsize --> Jetgaypfio:::txtsize
-Jetgaypfio:::txtsize --> Htieadktaacharaa:::txtsize
+Feleirotnussa:::txtsize --> Tdsastoesat:::txtsize
+Tdsastoesat:::txtsize --> FhtoesatweIl:::txtsize
+FhtoesatweIl:::txtsize --> Spaoefgvnausa:::txtsize
+FhtoesatweIl:::txtsize --> Hstotezcp:::txtsize
+Tdsastoesat:::txtsize --> Fenveilnt:::txtsize
+Fenveilnt:::txtsize --> Gnpirnaisirm:::txtsize
+Fenveilnt:::txtsize --> Bikulntotcfhpi:::txtsize
+Feleirotnussa:::txtsize --> AtHfezerydatoGel:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+Tseaupoabmrnluo:::txtsize --> AtHfezerydatoGel:::txtsize
+Tseaupoabmrnluo:::txtsize --> Mmenwniuaa:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+Tseaupoabmrnluo:::txtsize --> AtHfezerydatoGel:::txtsize
+Tseaupoabmrnluo:::txtsize --> Mmenwniuaa:::txtsize
 
 ```
-<i>Last updated: 2025-11-12 00:00:38.756920 (GMT+8)</i>
+<i>Last updated: 2025-11-12 04:01:04.096399 (GMT+8)</i>
 <!-- END -->
