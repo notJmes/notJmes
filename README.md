@@ -16,114 +16,138 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-NPigpssevHr@{ shape: win-pane, label: "_Published Nov 11, 2025, 03:18 PM_
-Nancy pelosi’s daughter picks state senate bid over us house run" }
-NPitnrUafosrnto@{ shape: win-pane, label: "_Published Nov 07, 2025, 11:40 PM_
-Nancy pelosi, first woman to serve as us speaker of the house, is retiring - and that is good" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
-Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
-Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
-Takeaways from us election night 2025" }
+Gnzrdabhaapis@{ shape: win-pane, label: "_Published Nov 11, 2025, 07:50 PM_
+German citizen arrested for dark web death threats against politicians" }
+Csothhevoeear@{ shape: win-pane, label: "_Published Oct 16, 2025, 04:42 PM_
+China spied on britain through hacked servers for at least 10 years, say sources" }
+Bstriktsminc@{ shape: win-pane, label: "_Published Oct 16, 2025, 07:15 AM_
+British pm starmer publishes key witness statements in china spy case" }
+BsisiPrCpysg@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:42 AM_
+British ministers criticise pm starmer’s china policy amid spying row" }
+Bssoydeiseiiylu@{ shape: win-pane, label: "_Published Oct 08, 2025, 03:47 AM_
+British prosecutors say they did ‘everything possible’ to bring china spy trial to court" }
+Upenocdyon@{ shape: win-pane, label: "_Published Sep 15, 2025, 06:20 PM_
+Uk drops case against two men accused of spying for china" }
+Clderdoials@{ shape: win-pane, label: "_Published Aug 26, 2025, 11:37 AM_
+China-linked hackers targeted diplomats in asia, google says" }
+Cffgpidhtrortyl@{ shape: win-pane, label: "_Published Jul 10, 2025, 02:45 PM_
+China foils foreign spy plots including a ‘honey trap’, urges govt workers to stay vigilant" }
+Eerslcakunrie@{ shape: win-pane, label: "_Published Sep 20, 2025, 03:40 PM_
+European airports snarled by cyber attack, disruption to stretch into sept 21" }
+DAnewietueptsgsi@{ shape: win-pane, label: "_Published Oct 26, 2024, 07:12 AM_
+Delta air lines sues crowdstrike over software update that prompted mass flight disruptions" }
+Csirwiorauauatusll@{ shape: win-pane, label: "_Published Jul 19, 2024, 10:50 PM_
+Cyber-security firm crowdstrike’s software update causes major outage affecting businesses globally" }
+CSetleauecdau@{ shape: win-pane, label: "_Published Sep 24, 2024, 08:35 PM_
+Crowdstrike exec to apologise for faulty update that caused global it outage" }
+KpioeaMsityrc@{ shape: win-pane, label: "_Published Mar 25, 2025, 05:25 PM_
+Klia operations not affected after malaysian airport hit by cyber attack" }
+Uawncnupmam@{ shape: win-pane, label: "_Published Mar 24, 2025, 04:58 PM_
+Uk’s heathrow defends decision to shut airport amid blame game" }
+Cggciuictenrwtba@{ shape: win-pane, label: "_Published Jun 21, 2024, 10:30 PM_
+Csa urges vigilance against ‘suspicious activity’ after changi airport website hit by outage" }
 
-NPigpssevHr:::txtsize --> NPitnrUafosrnto:::txtsize
-NPitnrUafosrnto:::txtsize --> YMmnoihaiYilehpea:::txtsize
-YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
-YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
+Gnzrdabhaapis:::txtsize --> Csothhevoeear:::txtsize
+Csothhevoeear:::txtsize --> Bstriktsminc:::txtsize
+Bstriktsminc:::txtsize --> BsisiPrCpysg:::txtsize
+Bstriktsminc:::txtsize --> Bssoydeiseiiylu:::txtsize
+Csothhevoeear:::txtsize --> Upenocdyon:::txtsize
+Upenocdyon:::txtsize --> Clderdoials:::txtsize
+Upenocdyon:::txtsize --> Cffgpidhtrortyl:::txtsize
+Gnzrdabhaapis:::txtsize --> Eerslcakunrie:::txtsize
+Eerslcakunrie:::txtsize --> DAnewietueptsgsi:::txtsize
+DAnewietueptsgsi:::txtsize --> Csirwiorauauatusll:::txtsize
+DAnewietueptsgsi:::txtsize --> CSetleauecdau:::txtsize
+Eerslcakunrie:::txtsize --> KpioeaMsityrc:::txtsize
+KpioeaMsityrc:::txtsize --> Uawncnupmam:::txtsize
+KpioeaMsityrc:::txtsize --> Cggciuictenrwtba:::txtsize
 
-Ptfaisrpas@{ shape: win-pane, label: "_Published Nov 11, 2025, 03:06 PM_
-Partition of gaza a looming risk as trump's plan falters" }
-Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
-What does trump’s gaza peace plan promise?" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
+Csndoenkhcsts@{ shape: win-pane, label: "_Published Nov 11, 2025, 07:33 PM_
+Chile's endangered humboldt penguins risk further decline, scientists say" }
+Dibisiissrur@{ shape: win-pane, label: "_Published Nov 11, 2025, 01:38 PM_
+Devil in the beetails: australian scientists discover new ‘lucifer’ bee" }
+SvEesufakeitn@{ shape: win-pane, label: "_Published Oct 11, 2025, 06:50 PM_
+Survival of europe’s bees and butterflies at risk, conservationists warn" }
+Emtsegehntcdt@{ shape: win-pane, label: "_Published May 30, 2025, 04:08 PM_
+Extreme heatwaves are getting longer and hitting the tropics hardest: study" }
+WipiausW@{ shape: win-pane, label: "_Published Oct 10, 2024, 07:29 AM_
+Wildlife populations have plunged 73% since 1970: wwf" }
+neokbenphtmeede@{ shape: win-pane, label: "_Published Jun 30, 2025, 05:00 AM_
+16 new species of darkling beetles found in s’pore, thanks to one man’s resolve over 2 decades" }
+NeodvnaSp@{ shape: win-pane, label: "_Published Apr 18, 2025, 04:25 PM_
+New species of bug discovered, named after singapore" }
+Rufeseiortseat@{ shape: win-pane, label: "_Published May 04, 2025, 02:31 PM_
+Rare butterfly species spotted in singapore for first time sets hearts aflutter" }
+Gidaipdmclnkkin@{ shape: win-pane, label: "_Published Nov 10, 2025, 11:50 AM_
+‘give him a ride’: malayan tiger spotted swimming across lake in perak sparks excitement" }
+Tsoaanabwe@{ shape: win-pane, label: "_Published Oct 23, 2025, 01:05 PM_
+Tigers in trouble as malaysian big cat numbers dwindle" }
+Tcsatkrny@{ shape: win-pane, label: "_Published Sep 18, 2025, 07:10 PM_
+Tiger carcass in car boot sparks outrage in malaysia" }
+Msuirneevaena@{ shape: win-pane, label: "_Published Sep 23, 2025, 02:44 PM_
+Malaysia court jails three men for seven years over dead tiger found in car" }
+Mmanrmaaiornhpa@{ shape: win-pane, label: "_Published Apr 03, 2025, 12:00 PM_
+Match mate: malayan tigers from singapore and taipei zoo on breeding ‘exchange programme’" }
+Biaardpwmonr@{ shape: win-pane, label: "_Published Mar 27, 2025, 12:21 PM_
+Bountiful baby year: s’pore wildlife parks welcomed close to 1,000 newborns in 2024" }
+Fageteldonsdhtswi@{ shape: win-pane, label: "_Published Feb 22, 2025, 04:00 PM_
+From raising awareness to potential breeding: how rainforest wild asia helps to conserve wildlife" }
 
-Ptfaisrpas:::txtsize --> Wouaaam:::txtsize
-Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-Wouaaam:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Ptfaisrpas:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Csndoenkhcsts:::txtsize --> Dibisiissrur:::txtsize
+Dibisiissrur:::txtsize --> SvEesufakeitn:::txtsize
+SvEesufakeitn:::txtsize --> Emtsegehntcdt:::txtsize
+SvEesufakeitn:::txtsize --> WipiausW:::txtsize
+Dibisiissrur:::txtsize --> neokbenphtmeede:::txtsize
+neokbenphtmeede:::txtsize --> NeodvnaSp:::txtsize
+neokbenphtmeede:::txtsize --> Rufeseiortseat:::txtsize
+Csndoenkhcsts:::txtsize --> Gidaipdmclnkkin:::txtsize
+Gidaipdmclnkkin:::txtsize --> Tsoaanabwe:::txtsize
+Tsoaanabwe:::txtsize --> Tcsatkrny:::txtsize
+Tsoaanabwe:::txtsize --> Msuirneevaena:::txtsize
+Gidaipdmclnkkin:::txtsize --> Mmanrmaaiornhpa:::txtsize
+Mmanrmaaiornhpa:::txtsize --> Biaardpwmonr:::txtsize
+Mmanrmaaiornhpa:::txtsize --> Fageteldonsdhtswi:::txtsize
 
-Isieloamf@{ shape: win-pane, label: "_Published Nov 11, 2025, 02:00 PM_
-Iraqis vote in general election in rare moment of calm" }
-Isictxtntf@{ shape: win-pane, label: "_Published Nov 11, 2025, 08:16 AM_
-Iraqis vote in election they expect to bring little reform" }
-Isictxtntf@{ shape: win-pane, label: "_Published Nov 11, 2025, 08:16 AM_
-Iraqis vote in election they expect to bring little reform" }
-Isictxtntf@{ shape: win-pane, label: "_Published Nov 11, 2025, 08:16 AM_
-Iraqis vote in election they expect to bring little reform" }
-Ssalirniwetaatc@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:45 PM_
-Syria’s sharaa tells putin at kremlin meeting he will respect all past deals with moscow" }
-Ssalirniwetaatc@{ shape: win-pane, label: "_Published Oct 15, 2025, 08:45 PM_
-Syria’s sharaa tells putin at kremlin meeting he will respect all past deals with moscow" }
-Ralkireosr@{ shape: win-pane, label: "_Published Mar 02, 2025, 03:09 PM_
-Russia gambles to keep military bases in post-assad syria" }
-SnsrsetlRars@{ shape: win-pane, label: "_Published Apr 15, 2025, 12:11 AM_
-Syrian ambassador to moscow requests asylum in russia, report says" }
-Iaacswhiainr@{ shape: win-pane, label: "_Published Nov 04, 2025, 04:37 AM_
-Iraq can disarm factions only when the us withdraws, prime minister says" }
-IamiIeorvrr@{ shape: win-pane, label: "_Published Apr 07, 2025, 01:13 PM_
-Iran-backed militias in iraq ready to disarm to avert trump wrath" }
-Taitnaiorntt@{ shape: win-pane, label: "_Published Mar 09, 2025, 01:20 PM_
-Trump administration ends iraq’s waiver to buy iranian electricity" }
-Troamsnaoexsr@{ shape: win-pane, label: "_Published Feb 05, 2025, 05:11 AM_
-Trump re-imposes ‘maximum pressure’ on iran, aims to drive oil exports to zero" }
-Bastiinriq@{ shape: win-pane, label: "_Published Jun 14, 2025, 09:50 PM_
-Baghdad asks iran to avoid strikes on us targets in iraq" }
-Ilsalawfisf@{ shape: win-pane, label: "_Published Jun 14, 2025, 07:35 PM_
-Israel warns ‘tehran will burn’ after wave of iranian missile fire" }
-Iaseeticoc@{ shape: win-pane, label: "_Published Jun 14, 2025, 08:25 PM_
-Iranians describe israel’s attacks in voice memos and calls" }
+Bsscoiredbs@{ shape: win-pane, label: "_Published Nov 11, 2025, 06:58 PM_
+Bodies of russian crypto millionaire, wife found in dubai desert" }
+Iseucitanenaccanr@{ shape: win-pane, label: "_Published Nov 06, 2025, 08:10 PM_
+Iris hsieh death: murder classification based on evidence, information collected, says minister" }
+MsaNeafyraieshc@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:47 AM_
+Malaysian rapper namewee remanded for 6 days over taiwanese influencer’s death: police" }
+Ksayhisleshr@{ shape: win-pane, label: "_Published Nov 04, 2025, 12:20 PM_
+Kl cops reclassify death of taiwanese influencer iris hsieh as murder" }
+Neiteiiouoweurlh@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:45 PM_
+Namewee believed to have gone into hiding over murder of taiwanese influencer: kl police chief" }
+Ksayhisleshr@{ shape: win-pane, label: "_Published Nov 04, 2025, 12:20 PM_
+Kl cops reclassify death of taiwanese influencer iris hsieh as murder" }
+MsaNeiuavmnaiesh@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:47 PM_
+Malaysian rapper namewee denies drug use and involvement in taiwanese influencer’s death" }
+Blnnnsnihscefd@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:30 AM_
+Brazilian influencer, known as ‘human barbie’ for her 27 cosmetic surgeries, found dead" }
+Ksayhisleshr@{ shape: win-pane, label: "_Published Nov 04, 2025, 12:20 PM_
+Kl cops reclassify death of taiwanese influencer iris hsieh as murder" }
+MsaNeiuavmnaiesh@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:47 PM_
+Malaysian rapper namewee denies drug use and involvement in taiwanese influencer’s death" }
+MsaNeeggttat@{ shape: win-pane, label: "_Published Nov 03, 2025, 09:40 AM_
+Malaysian rapper namewee faces drug charges after october arrest" }
+MsaNeafyraieshc@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:47 AM_
+Malaysian rapper namewee remanded for 6 days over taiwanese influencer’s death: police" }
+Ksayhisleshr@{ shape: win-pane, label: "_Published Nov 04, 2025, 12:20 PM_
+Kl cops reclassify death of taiwanese influencer iris hsieh as murder" }
 
-Isieloamf:::txtsize --> Isictxtntf:::txtsize
-Isictxtntf:::txtsize --> Isictxtntf:::txtsize
-Isictxtntf:::txtsize --> Isictxtntf:::txtsize
-Isictxtntf:::txtsize --> Ssalirniwetaatc:::txtsize
-Isictxtntf:::txtsize --> Ssalirniwetaatc:::txtsize
-Ssalirniwetaatc:::txtsize --> Ralkireosr:::txtsize
-Ssalirniwetaatc:::txtsize --> SnsrsetlRars:::txtsize
-Isieloamf:::txtsize --> Iaacswhiainr:::txtsize
-Iaacswhiainr:::txtsize --> IamiIeorvrr:::txtsize
-IamiIeorvrr:::txtsize --> Taitnaiorntt:::txtsize
-IamiIeorvrr:::txtsize --> Troamsnaoexsr:::txtsize
-Iaacswhiainr:::txtsize --> Bastiinriq:::txtsize
-Bastiinriq:::txtsize --> Ilsalawfisf:::txtsize
-Bastiinriq:::txtsize --> Iaseeticoc:::txtsize
+Bsscoiredbs:::txtsize --> Iseucitanenaccanr:::txtsize
+Iseucitanenaccanr:::txtsize --> MsaNeafyraieshc:::txtsize
+MsaNeafyraieshc:::txtsize --> Ksayhisleshr:::txtsize
+Iseucitanenaccanr:::txtsize --> Neiteiiouoweurlh:::txtsize
+Neiteiiouoweurlh:::txtsize --> Ksayhisleshr:::txtsize
+Neiteiiouoweurlh:::txtsize --> MsaNeiuavmnaiesh:::txtsize
+Bsscoiredbs:::txtsize --> Blnnnsnihscefd:::txtsize
+Blnnnsnihscefd:::txtsize --> Ksayhisleshr:::txtsize
+Ksayhisleshr:::txtsize --> MsaNeiuavmnaiesh:::txtsize
+Ksayhisleshr:::txtsize --> MsaNeeggttat:::txtsize
+Blnnnsnihscefd:::txtsize --> MsaNeafyraieshc:::txtsize
+MsaNeafyraieshc:::txtsize --> Ksayhisleshr:::txtsize
 
 ```
-<i>Last updated: 2025-11-11 16:00:38.836373 (GMT+8)</i>
+<i>Last updated: 2025-11-11 20:01:08.053827 (GMT+8)</i>
 <!-- END -->
