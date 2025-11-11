@@ -16,141 +16,102 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Eseiitsmoi@{ shape: win-pane, label: "_Published Nov 11, 2025, 03:45 AM_
-Eu eyes huawei ban in mobile networks of member countries" }
-Eeeeecuansr@{ shape: win-pane, label: "_Published Jun 16, 2023, 08:10 AM_
-Eu takes more aggressive stance on huawei as china tensions rise" }
-EssabuHiie@{ shape: win-pane, label: "_Published Jun 07, 2023, 09:05 AM_
-Eu considers mandatory ban on using huawei to build 5g: report" }
-UsoBoetawEa@{ shape: win-pane, label: "_Published Apr 12, 2023, 06:39 AM_
-Us house to vote on bill to address potential huawei, zte threats" }
-UishedaluaiCcpete@{ shape: win-pane, label: "_Published Apr 27, 2023, 07:21 AM_
-Us official says chinese cloud companies like huawei and alibaba cloud could pose security threat" }
-Hieeusbdssuau@{ shape: win-pane, label: "_Published Mar 18, 2023, 10:41 AM_
-Huawei has replaced thousands of us banned parts in its products, says founder" }
-Upnetnonaar@{ shape: win-pane, label: "_Published Jan 31, 2023, 05:43 AM_
-Us stops granting export licences for china’s huawei, say sources" }
-Hincenshcysran@{ shape: win-pane, label: "_Published Jul 12, 2024, 08:45 AM_
-Huawei says ‘no specific evidence’ its tech has security risks after germany ban" }
-Hitnrrmtwnliz@{ shape: win-pane, label: "_Published May 03, 2024, 07:42 AM_
-Huawei quietly funds us research competition, awarding millions in prizes" }
-Hiennaogmaid@{ shape: win-pane, label: "_Published Apr 12, 2024, 07:21 PM_
-Huawei teases launch of new smartphone; high-end model anticipated" }
-Umcgtedar@{ shape: win-pane, label: "_Published Apr 05, 2024, 02:30 AM_
-Us criminal case against huawei heads towards 2026 trial" }
-Umcgtedar@{ shape: win-pane, label: "_Published Apr 05, 2024, 02:30 AM_
-Us criminal case against huawei heads towards 2026 trial" }
-Soiblieepy@{ shape: win-pane, label: "_Published Mar 22, 2024, 02:22 PM_
-Smic ‘potentially’ broke law if it made huawei chip, us says" }
-HiUbotayohb@{ shape: win-pane, label: "_Published Jan 11, 2024, 10:18 AM_
-Huawei ends us lobbying operations after years of fighting ban" }
+Unoiaffs@{ shape: win-pane, label: "_Published Nov 11, 2025, 07:56 AM_
+Un warns of rough winter ahead for refugees" }
+Taitahnetidr@{ shape: win-pane, label: "_Published Feb 27, 2025, 09:53 AM_
+Trump administration says it has cancelled most foreign aid contracts" }
+Udpseekrtnshs@{ shape: win-pane, label: "_Published Feb 14, 2025, 07:44 AM_
+Usaid disruptions leave oxygen tanks, tb drugs stuck in ships, warehouses" }
+Ucasosgpnaoiton@{ shape: win-pane, label: "_Published Feb 12, 2025, 02:08 AM_
+Usaid contractors join others suing trump administration over dismantling of agency" }
+WdruugAainednrt@{ shape: win-pane, label: "_Published Feb 11, 2025, 11:28 AM_
+Watchdog warns trump’s gutting of usaid leaves $11 billion unspent aid with no oversight" }
+Uwdrtilriitec@{ shape: win-pane, label: "_Published Feb 12, 2025, 02:45 PM_
+Usaid watchdog fired after critical report on bid to dismantle the agency" }
+WdruugAainednrt@{ shape: win-pane, label: "_Published Feb 11, 2025, 11:28 AM_
+Watchdog warns trump’s gutting of usaid leaves $11 billion unspent aid with no oversight" }
+Uctgeeugote@{ shape: win-pane, label: "_Published Feb 10, 2025, 02:36 PM_
+Usaid climate programmes aimed to curb migration. now they’re gone" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
+Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Hmsis@{ shape: win-pane, label: "_Published Dec 08, 2024, 04:00 PM_
+How damascus fell in 11 days" }
 
-Eseiitsmoi:::txtsize --> Eeeeecuansr:::txtsize
-Eeeeecuansr:::txtsize --> EssabuHiie:::txtsize
-EssabuHiie:::txtsize --> UsoBoetawEa:::txtsize
-EssabuHiie:::txtsize --> UishedaluaiCcpete:::txtsize
-Eeeeecuansr:::txtsize --> Hieeusbdssuau:::txtsize
-Hieeusbdssuau:::txtsize --> Upnetnonaar:::txtsize
-Eseiitsmoi:::txtsize --> Hincenshcysran:::txtsize
-Hincenshcysran:::txtsize --> Hitnrrmtwnliz:::txtsize
-Hitnrrmtwnliz:::txtsize --> Hiennaogmaid:::txtsize
-Hitnrrmtwnliz:::txtsize --> Umcgtedar:::txtsize
-Hincenshcysran:::txtsize --> Umcgtedar:::txtsize
-Umcgtedar:::txtsize --> Soiblieepy:::txtsize
-Umcgtedar:::txtsize --> HiUbotayohb:::txtsize
+Unoiaffs:::txtsize --> Taitahnetidr:::txtsize
+Taitahnetidr:::txtsize --> Udpseekrtnshs:::txtsize
+Udpseekrtnshs:::txtsize --> Ucasosgpnaoiton:::txtsize
+Udpseekrtnshs:::txtsize --> WdruugAainednrt:::txtsize
+Taitahnetidr:::txtsize --> Uwdrtilriitec:::txtsize
+Uwdrtilriitec:::txtsize --> WdruugAainednrt:::txtsize
+Uwdrtilriitec:::txtsize --> Uctgeeugote:::txtsize
+Unoiaffs:::txtsize --> SnltiARahtoy:::txtsize
+SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
+Wasrsnnafriben:::txtsize --> SnltiARahtoy:::txtsize
+Wasrsnnafriben:::txtsize --> Hmsis:::txtsize
 
-BixstaoBsti@{ shape: win-pane, label: "_Published Nov 11, 2025, 02:11 AM_
-Bbc crisis exposes fractures at renowned british institution" }
-Bshfqfroneri@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:45 AM_
-Bbc boss and head of news quit after trump documentary edit criticism" }
-Gonsobhcyerws@{ shape: win-pane, label: "_Published Jul 15, 2025, 01:09 AM_
-Gaza documentary shown on bbc breached accuracy guideline, review finds" }
-UenleewBrdey@{ shape: win-pane, label: "_Published Feb 28, 2025, 11:49 PM_
-Uk government calls urgent meeting with bbc over gaza documentary" }
-IlaaiOwrrBei@{ shape: win-pane, label: "_Published Mar 26, 2025, 03:03 AM_
-Israel releases palestinian oscar winner after west bank detention" }
-BsislBsisedpsnies@{ shape: win-pane, label: "_Published Nov 09, 2025, 09:00 PM_
-British minister says claims bbc misled viewers with edited trump clips are ‘incredibly serious’" }
-TtpswoCooamdphcmvn@{ shape: win-pane, label: "_Published Jan 07, 2021, 06:21 AM_
-Trump tells protesters who stormed capitol to go home as former aides implore him to condemn the violence" }
-PoesToisiewin@{ shape: win-pane, label: "_Published Jul 02, 2025, 02:09 PM_
-Paramount settles with trump over 60 minutes harris interview for $20 million" }
-Kaatanam@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:16 PM_
-Key claims made in the leaked internal bbc memo" }
-BsislBsisedpsnies@{ shape: win-pane, label: "_Published Nov 09, 2025, 09:00 PM_
-British minister says claims bbc misled viewers with edited trump clips are ‘incredibly serious’" }
-TtpswoCooamdphcmvn@{ shape: win-pane, label: "_Published Jan 07, 2021, 06:21 AM_
-Trump tells protesters who stormed capitol to go home as former aides implore him to condemn the violence" }
-PoesToisiewin@{ shape: win-pane, label: "_Published Jul 02, 2025, 02:09 PM_
-Paramount settles with trump over 60 minutes harris interview for $20 million" }
-Banosrfmnpct@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:06 PM_
-Bbc chairman apologises for ‘error of judgment’ in trump speech edit" }
-Bshfqfroneri@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:45 AM_
-Bbc boss and head of news quit after trump documentary edit criticism" }
-TtpswoCooamdphcmvn@{ shape: win-pane, label: "_Published Jan 07, 2021, 06:21 AM_
-Trump tells protesters who stormed capitol to go home as former aides implore him to condemn the violence" }
+Uewnooeoe@{ shape: win-pane, label: "_Published Nov 11, 2025, 07:31 AM_
+Us to remove warnings from menopause hormone therapy" }
+Mautccpesimwmps@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:15 AM_
+Menopause support: from clinics to apps to events, midlife women now have more options" }
+Tmaymreitoeg@{ shape: win-pane, label: "_Published Aug 06, 2025, 10:15 PM_
+Think menopause symptoms start at 50? debunking myths about the change" }
+Wirpooe@{ shape: win-pane, label: "_Published Nov 05, 2023, 03:00 PM_
+Women in your 40s: prepare for menopause" }
+Sdrnrscrneid@{ shape: win-pane, label: "_Published Aug 26, 2023, 06:19 AM_
+Should older women go for breast cancer screening? experts divided" }
+Hciroeeu@{ shape: win-pane, label: "_Published Aug 06, 2025, 06:00 PM_
+How to cope with perimenopause and menopause" }
 
-BixstaoBsti:::txtsize --> Bshfqfroneri:::txtsize
-Bshfqfroneri:::txtsize --> Gonsobhcyerws:::txtsize
-Gonsobhcyerws:::txtsize --> UenleewBrdey:::txtsize
-Gonsobhcyerws:::txtsize --> IlaaiOwrrBei:::txtsize
-Bshfqfroneri:::txtsize --> BsislBsisedpsnies:::txtsize
-BsislBsisedpsnies:::txtsize --> TtpswoCooamdphcmvn:::txtsize
-BsislBsisedpsnies:::txtsize --> PoesToisiewin:::txtsize
-BixstaoBsti:::txtsize --> Kaatanam:::txtsize
-Kaatanam:::txtsize --> BsislBsisedpsnies:::txtsize
-BsislBsisedpsnies:::txtsize --> TtpswoCooamdphcmvn:::txtsize
-BsislBsisedpsnies:::txtsize --> PoesToisiewin:::txtsize
-Kaatanam:::txtsize --> Banosrfmnpct:::txtsize
-Banosrfmnpct:::txtsize --> Bshfqfroneri:::txtsize
-Banosrfmnpct:::txtsize --> TtpswoCooamdphcmvn:::txtsize
+Uewnooeoe:::txtsize --> Mautccpesimwmps:::txtsize
+Uewnooeoe:::txtsize --> Tmaymreitoeg:::txtsize
+Tmaymreitoeg:::txtsize --> Wirpooe:::txtsize
+Wirpooe:::txtsize --> Sdrnrscrneid:::txtsize
+Tmaymreitoeg:::txtsize --> Hciroeeu:::txtsize
 
-Blctmetecrol@{ shape: win-pane, label: "_Published Nov 11, 2025, 02:10 AM_
-Brazil’s cop30 climate summit opens with a plea for countries to get along" }
-WwvogmoneUn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:22 PM_
-World will overshoot 1.5 deg c climate goal in next decade, un warns" }
-Ntnosager@{ shape: win-pane, label: "_Published Oct 13, 2025, 11:10 AM_
-Not nothing, not enough: is the paris agreement working?" }
-Smhotanrmor@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:31 AM_
-September third-hottest globally on record: climate monitor" }
-Ranghsocne@{ shape: win-pane, label: "_Published Oct 07, 2025, 01:21 PM_
-Renewable energy growth slows due to policy changes: report" }
-Cpghgdois@{ shape: win-pane, label: "_Published Sep 25, 2025, 04:57 AM_
-China plans 7-10% greenhouse gas reduction by 2035, xi tells un" }
-OftholnCcttvr@{ shape: win-pane, label: "_Published Sep 18, 2025, 03:10 AM_
-Only 40% of countries have booked lodging for cop30 un climate meet in november" }
-TtUtaastogl@{ shape: win-pane, label: "_Published Sep 24, 2025, 12:17 AM_
-Trump tells un that climate change is ‘greatest con job’ globally" }
-Tdrcasmotlem@{ shape: win-pane, label: "_Published Oct 30, 2025, 09:53 AM_
-Trump declares victory against climate ‘hoax’ after bill gates comments" }
-CtnnciosG@{ shape: win-pane, label: "_Published Oct 29, 2025, 08:20 AM_
-Climate change won’t end civilisation, says bill gates" }
-WffkemoN@{ shape: win-pane, label: "_Published Oct 28, 2025, 05:25 PM_
-World far off track to meet climate goals: un" }
-JcrsrmiMsnu@{ shape: win-pane, label: "_Published Oct 28, 2025, 08:05 PM_
-Jamaica’s strongest-ever storm, hurricane melissa, turns to cuba" }
-Ctndresueeld@{ shape: win-pane, label: "_Published Oct 30, 2025, 08:45 AM_
-Climate change made hurricane melissa four times more likely: study" }
-Hceakdesn@{ shape: win-pane, label: "_Published Oct 30, 2025, 04:32 AM_
-Hurricane melissa wreaks $10.4b of damage, kills dozens" }
-Ctpoaiostwhf@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:09 AM_
-Climate tipping points are being crossed, scientists warn ahead of cop30" }
+TsialjGeorfri@{ shape: win-pane, label: "_Published Nov 11, 2025, 07:29 AM_
+Trump says firebrand ally marjorie greene has ‘lost her way’ after criticism" }
+Tvoeichyfarkha@{ shape: win-pane, label: "_Published Nov 11, 2025, 02:09 AM_
+Trump vows to do everything he can to help syria after landmark talks with sharaa" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
+Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
+SniaeagfSvmtrli@{ shape: win-pane, label: "_Published Nov 09, 2025, 05:58 PM_
+Syrian president arrives in washington after us removes him from terrorism blacklist" }
+UslaoSsiaotsi@{ shape: win-pane, label: "_Published Nov 05, 2025, 08:17 AM_
+Us asks un to lift sanctions on syria’s president ahead of white house visit" }
+SceppotasSs@{ shape: win-pane, label: "_Published Nov 09, 2025, 04:40 AM_
+Syria carries out pre-emptive operations against isis cells" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
+Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
+Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
+Takeaways from us election night 2025" }
+Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
+Cuomo to stay in new york mayoral race despite losing democratic primary" }
+MnCankgnsodty@{ shape: win-pane, label: "_Published Jun 27, 2025, 06:16 PM_
+Mamdani’s nyc primary win sparks surge in anti-muslim posts, advocates say" }
 
-Blctmetecrol:::txtsize --> WwvogmoneUn:::txtsize
-WwvogmoneUn:::txtsize --> Ntnosager:::txtsize
-Ntnosager:::txtsize --> Smhotanrmor:::txtsize
-Ntnosager:::txtsize --> Ranghsocne:::txtsize
-WwvogmoneUn:::txtsize --> Cpghgdois:::txtsize
-Cpghgdois:::txtsize --> OftholnCcttvr:::txtsize
-Cpghgdois:::txtsize --> TtUtaastogl:::txtsize
-Blctmetecrol:::txtsize --> Tdrcasmotlem:::txtsize
-Tdrcasmotlem:::txtsize --> CtnnciosG:::txtsize
-CtnnciosG:::txtsize --> WffkemoN:::txtsize
-CtnnciosG:::txtsize --> JcrsrmiMsnu:::txtsize
-Tdrcasmotlem:::txtsize --> Ctndresueeld:::txtsize
-Ctndresueeld:::txtsize --> Hceakdesn:::txtsize
-Ctndresueeld:::txtsize --> Ctpoaiostwhf:::txtsize
+TsialjGeorfri:::txtsize --> Tvoeichyfarkha:::txtsize
+Tvoeichyfarkha:::txtsize --> SnltiARahtoy:::txtsize
+SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
+Tvoeichyfarkha:::txtsize --> SniaeagfSvmtrli:::txtsize
+SniaeagfSvmtrli:::txtsize --> UslaoSsiaotsi:::txtsize
+SniaeagfSvmtrli:::txtsize --> SceppotasSs:::txtsize
+TsialjGeorfri:::txtsize --> Drwialosdp:::txtsize
+Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
+YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
+YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
+Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
+Ctywmaeiseary:::txtsize --> MnCankgnsodty:::txtsize
 
 ```
-<i>Last updated: 2025-11-11 04:00:23.477032 (GMT+8)</i>
+<i>Last updated: 2025-11-11 08:00:49.145908 (GMT+8)</i>
 <!-- END -->
