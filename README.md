@@ -16,22 +16,54 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-UlclhNsone@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:36 AM_
-Us airlines cancel 1,200 flights on nov 11 as shutdown continues" }
-Annoalsvuni@{ shape: win-pane, label: "_Published Nov 10, 2025, 10:23 PM_
-Airlines cancel more than 1,500 us flights on nov 10 as shutdown persists" }
-Uglalnetifolhgr@{ shape: win-pane, label: "_Published Nov 10, 2025, 06:48 AM_
-Us flight delays, cancellations accelerate as air traffic controller shortages surge" }
-Ulbtefiyvendhs@{ shape: win-pane, label: "_Published Nov 09, 2025, 07:33 PM_
-Us airlines brace themselves for third day of government-mandated flight cuts" }
-Uavstfat@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:45 AM_
-Us senate advances bill to end federal shutdown" }
-Uavstfat@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:45 AM_
-Us senate advances bill to end federal shutdown" }
-Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
-Us government shutdown becomes longest in history" }
-Uglalnetifolhgr@{ shape: win-pane, label: "_Published Nov 10, 2025, 06:48 AM_
-Us flight delays, cancellations accelerate as air traffic controller shortages surge" }
+Tddisepooes@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:39 AM_
+Trump defends h-1b visas as needed despite moves to raise costs" }
+TaitreHaevnhibrwr@{ shape: win-pane, label: "_Published Sep 23, 2025, 10:07 PM_
+Trump administration proposes new h-1b visa process favouring higher-skilled, better-paid workers" }
+Wsvrmdspgt@{ shape: win-pane, label: "_Published Sep 21, 2025, 03:45 PM_
+What is us’ h-1b visa programme and how is trump changing it?" }
+Toiriltier@{ shape: win-pane, label: "_Published Sep 21, 2025, 03:30 PM_
+Tech companies warn h-1b visa holders to avoid foreign travel" }
+Wuniiidv@{ shape: win-pane, label: "_Published Sep 20, 2025, 12:10 PM_
+Why trump’s inner circle is so divided on h-1b visas" }
+FniBeracSudaics@{ shape: win-pane, label: "_Published Sep 22, 2025, 07:45 AM_
+‘fast and furious’: h-1b workers abroad race back to us as trump order sparks dismay, confusion" }
+TtoeBealt@{ shape: win-pane, label: "_Published Sep 20, 2025, 04:36 AM_
+Trump to impose $130,000 fee for h-1b worker visas in blow to tech" }
+Wsvrmdspgt@{ shape: win-pane, label: "_Published Sep 21, 2025, 03:45 PM_
+What is us’ h-1b visa programme and how is trump changing it?" }
+Rndpiotmcirnrn@{ shape: win-pane, label: "_Published Sep 08, 2025, 11:00 PM_
+Raid on hyundai-lg plant in us points to trump’s focus on immigration enforcement" }
+WaanUerrfesodnr@{ shape: win-pane, label: "_Published Sep 05, 2025, 12:25 PM_
+Work paused at hyundai’s us site after hundreds of workers, mostly korean, detained in raid" }
+Dsinmtanoavr@{ shape: win-pane, label: "_Published Sep 05, 2025, 11:50 AM_
+Dozens detained in us immigration raids in new york state, governor says" }
+Iiroecyrgon@{ shape: win-pane, label: "_Published Jul 07, 2025, 09:20 AM_
+Ice raids derail los angeles economy as workers go into hiding" }
+SKwwrainmaroler@{ shape: win-pane, label: "_Published Sep 08, 2025, 01:26 PM_
+South korea wants workers detained in hyundai immigration raid to be able to re-enter us" }
+SKtdnrbswespr@{ shape: win-pane, label: "_Published Sep 08, 2025, 07:45 AM_
+South korea to fly detained workers back as us vows more raids on employers" }
+TsonanoniaHad@{ shape: win-pane, label: "_Published Sep 08, 2025, 08:31 AM_
+Trump says foreign companies need to train americans after hyundai raid" }
+
+Tddisepooes:::txtsize --> TaitreHaevnhibrwr:::txtsize
+TaitreHaevnhibrwr:::txtsize --> Wsvrmdspgt:::txtsize
+Wsvrmdspgt:::txtsize --> Toiriltier:::txtsize
+Wsvrmdspgt:::txtsize --> Wuniiidv:::txtsize
+TaitreHaevnhibrwr:::txtsize --> FniBeracSudaics:::txtsize
+FniBeracSudaics:::txtsize --> TtoeBealt:::txtsize
+FniBeracSudaics:::txtsize --> Wsvrmdspgt:::txtsize
+Tddisepooes:::txtsize --> Rndpiotmcirnrn:::txtsize
+Rndpiotmcirnrn:::txtsize --> WaanUerrfesodnr:::txtsize
+WaanUerrfesodnr:::txtsize --> Dsinmtanoavr:::txtsize
+WaanUerrfesodnr:::txtsize --> Iiroecyrgon:::txtsize
+Rndpiotmcirnrn:::txtsize --> SKwwrainmaroler:::txtsize
+SKwwrainmaroler:::txtsize --> SKtdnrbswespr:::txtsize
+SKwwrainmaroler:::txtsize --> TsonanoniaHad:::txtsize
+
+Wfcbuntobn@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:19 AM_
+What if democrats’ big shutdown loss turns out to be a win?" }
 Usuoinoeveun@{ shape: win-pane, label: "_Published Nov 12, 2025, 04:21 AM_
 Us house returns to washington for vote to end government shutdown" }
 Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
@@ -46,93 +78,61 @@ UasieveunsHorte@{ shape: win-pane, label: "_Published Nov 11, 2025, 11:01 AM_
 Us senate passes bill to end government shutdown, sends it to house of representatives" }
 SsNieipre@{ shape: win-pane, label: "_Published Nov 11, 2025, 06:50 PM_
 Sti rises 1.2% on nov 11 amid mixed regional performance" }
+Tcsbcaomhwes@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:55 AM_
+Trump claims ‘very big victory’ as us government shutdown vote nears" }
+Usuoinoeveun@{ shape: win-pane, label: "_Published Nov 12, 2025, 04:21 AM_
+Us house returns to washington for vote to end government shutdown" }
+Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
+Us government shutdown becomes longest in history" }
+Dtrdctrotent@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:01 AM_
+Dow notches record high close, traders bet on end to government shutdown" }
+Tttifolohwe@{ shape: win-pane, label: "_Published Nov 11, 2025, 08:14 AM_
+Trump threatens air traffic controllers over shutdown absences" }
+Uavstfat@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:45 AM_
+Us senate advances bill to end federal shutdown" }
+Annoalsvuni@{ shape: win-pane, label: "_Published Nov 10, 2025, 10:23 PM_
+Airlines cancel more than 1,500 us flights on nov 10 as shutdown persists" }
 
-UlclhNsone:::txtsize --> Annoalsvuni:::txtsize
-Annoalsvuni:::txtsize --> Uglalnetifolhgr:::txtsize
-Uglalnetifolhgr:::txtsize --> Ulbtefiyvendhs:::txtsize
-Uglalnetifolhgr:::txtsize --> Uavstfat:::txtsize
-Annoalsvuni:::txtsize --> Uavstfat:::txtsize
-Uavstfat:::txtsize --> Uentbegno:::txtsize
-Uavstfat:::txtsize --> Uglalnetifolhgr:::txtsize
-UlclhNsone:::txtsize --> Usuoinoeveun:::txtsize
+Wfcbuntobn:::txtsize --> Usuoinoeveun:::txtsize
 Usuoinoeveun:::txtsize --> Uentbegno:::txtsize
 Uentbegno:::txtsize --> AcobeaSdnsdh:::txtsize
 Uentbegno:::txtsize --> Uentesraosactt:::txtsize
 Usuoinoeveun:::txtsize --> Dtrdctrotent:::txtsize
 Dtrdctrotent:::txtsize --> UasieveunsHorte:::txtsize
 Dtrdctrotent:::txtsize --> SsNieipre:::txtsize
+Wfcbuntobn:::txtsize --> Tcsbcaomhwes:::txtsize
+Tcsbcaomhwes:::txtsize --> Usuoinoeveun:::txtsize
+Usuoinoeveun:::txtsize --> Uentbegno:::txtsize
+Usuoinoeveun:::txtsize --> Dtrdctrotent:::txtsize
+Tcsbcaomhwes:::txtsize --> Tttifolohwe:::txtsize
+Tttifolohwe:::txtsize --> Uavstfat:::txtsize
+Tttifolohwe:::txtsize --> Annoalsvuni:::txtsize
 
-Psftwtstehsi@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:26 AM_
-Protesters force their way into cop30 summit venue, clash with security" }
-FhehzdoabtddNamO@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:16 AM_
-From the andes to the amazon, indigenous leaders bring their demands to un climate summit cop30" }
-EihtPamndte@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:15 PM_
-Explainer: what is the cop30 climate summit, and why does it matter?" }
-NPtssoses@{ shape: win-pane, label: "_Published Dec 11, 2023, 09:41 PM_
-New cop28 draft deal stops short of fossil fuel ‘phase-out’" }
-WwvogmoneUn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:22 PM_
-World will overshoot 1.5 deg c climate goal in next decade, un warns" }
-Taentofinivtlei@{ shape: win-pane, label: "_Published Nov 09, 2025, 11:30 PM_
-Taliban government protests over afghanistan not being invited to un climate summit cop30" }
-Kssrvheosiau@{ shape: win-pane, label: "_Published Sep 29, 2025, 06:14 PM_
-Kabul's wells run dry, driving children out of class and into water queues" }
-Wiagsqslrrni@{ shape: win-pane, label: "_Published Sep 11, 2025, 01:37 PM_
-With little aid, afghanistan’s quakes spell ‘inter-generational’ crisis" }
-AoiznBuAndse@{ shape: win-pane, label: "_Published Nov 11, 2025, 09:55 AM_
-As cop30 opens in brazilian city belem, urban amazon residents swelter" }
-EihtPamndte@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:15 PM_
-Explainer: what is the cop30 climate summit, and why does it matter?" }
-NPtssoses@{ shape: win-pane, label: "_Published Dec 11, 2023, 09:41 PM_
-New cop28 draft deal stops short of fossil fuel ‘phase-out’" }
-WwvogmoneUn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:22 PM_
-World will overshoot 1.5 deg c climate goal in next decade, un warns" }
-FhehzdoabtddNamO@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:16 AM_
-From the andes to the amazon, indigenous leaders bring their demands to un climate summit cop30" }
-EihtPamndte@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:15 PM_
-Explainer: what is the cop30 climate summit, and why does it matter?" }
-Taentofinivtlei@{ shape: win-pane, label: "_Published Nov 09, 2025, 11:30 PM_
-Taliban government protests over afghanistan not being invited to un climate summit cop30" }
+Bingapclrscak@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:55 AM_
+Britain plans tougher laws to protect public services from cyber attacks" }
+Bisejbtaftt@{ shape: win-pane, label: "_Published Oct 14, 2025, 01:20 PM_
+Britain sees 50% spike in major cyber attacks as top firms targeted" }
+BsisiPrCpysg@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:42 AM_
+British ministers criticise pm starmer’s china policy amid spying row" }
+Upenocdyon@{ shape: win-pane, label: "_Published Sep 15, 2025, 06:20 PM_
+Uk drops case against two men accused of spying for china" }
+Hnruosd@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:32 AM_
+How donald trump pulled off his gaza deal" }
+Bsirwrosrhet@{ shape: win-pane, label: "_Published Oct 08, 2025, 05:17 AM_
+British police arrest two over london ransomware of children’s data" }
+Gehrsnonlxi@{ shape: win-pane, label: "_Published Oct 02, 2025, 12:07 PM_
+Google says hackers are sending extortion e-mails to executives" }
+NardoGesdsrnat@{ shape: win-pane, label: "_Published Sep 30, 2025, 09:42 PM_
+New feature rolled out to keep google users worldwide safe from ransomware attacks" }
 
-Psftwtstehsi:::txtsize --> FhehzdoabtddNamO:::txtsize
-FhehzdoabtddNamO:::txtsize --> EihtPamndte:::txtsize
-EihtPamndte:::txtsize --> NPtssoses:::txtsize
-EihtPamndte:::txtsize --> WwvogmoneUn:::txtsize
-FhehzdoabtddNamO:::txtsize --> Taentofinivtlei:::txtsize
-Taentofinivtlei:::txtsize --> Kssrvheosiau:::txtsize
-Taentofinivtlei:::txtsize --> Wiagsqslrrni:::txtsize
-Psftwtstehsi:::txtsize --> AoiznBuAndse:::txtsize
-AoiznBuAndse:::txtsize --> EihtPamndte:::txtsize
-EihtPamndte:::txtsize --> NPtssoses:::txtsize
-EihtPamndte:::txtsize --> WwvogmoneUn:::txtsize
-AoiznBuAndse:::txtsize --> FhehzdoabtddNamO:::txtsize
-FhehzdoabtddNamO:::txtsize --> EihtPamndte:::txtsize
-FhehzdoabtddNamO:::txtsize --> Taentofinivtlei:::txtsize
-
-NebisnatUo@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:15 AM_
-Navy weighs building base for 10,000 near gaza without us troops" }
-TIeshhetdpoG@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:20 PM_
-Turks, indonesians or others? the race is on to find troops to police gaza" }
-PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
-Peace finally descends on the middle east: now the battle to make it last begins" }
-TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
-Tears, joy in israel as hamas hands over first hostages" }
-Waesapmdmnlhg@{ shape: win-pane, label: "_Published Oct 24, 2025, 05:00 AM_
-Who leads the palestinian people? hamas is determined not to lose this fight" }
-Upiatzck@{ shape: win-pane, label: "_Published Oct 20, 2025, 07:21 PM_
-Us steps up diplomacy after gaza truce shaken" }
-Ilkzispec@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:06 PM_
-Israel strikes gaza, saying its troops were attacked" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-
-NebisnatUo:::txtsize --> TIeshhetdpoG:::txtsize
-TIeshhetdpoG:::txtsize --> PflcoMeNelale:::txtsize
-PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
-NebisnatUo:::txtsize --> Waesapmdmnlhg:::txtsize
-Waesapmdmnlhg:::txtsize --> Upiatzck:::txtsize
-Upiatzck:::txtsize --> Ilkzispec:::txtsize
-Upiatzck:::txtsize --> AtHfezerydatoGel:::txtsize
+Bingapclrscak:::txtsize --> Bisejbtaftt:::txtsize
+Bisejbtaftt:::txtsize --> BsisiPrCpysg:::txtsize
+BsisiPrCpysg:::txtsize --> Upenocdyon:::txtsize
+BsisiPrCpysg:::txtsize --> Hnruosd:::txtsize
+Bisejbtaftt:::txtsize --> Bsirwrosrhet:::txtsize
+Bsirwrosrhet:::txtsize --> Gehrsnonlxi:::txtsize
+Bsirwrosrhet:::txtsize --> NardoGesdsrnat:::txtsize
 
 ```
-<i>Last updated: 2025-11-12 08:00:32.468902 (GMT+8)</i>
+<i>Last updated: 2025-11-12 12:00:59.230186 (GMT+8)</i>
 <!-- END -->
