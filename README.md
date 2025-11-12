@@ -16,123 +16,90 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tddisepooes@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:39 AM_
-Trump defends h-1b visas as needed despite moves to raise costs" }
-TaitreHaevnhibrwr@{ shape: win-pane, label: "_Published Sep 23, 2025, 10:07 PM_
-Trump administration proposes new h-1b visa process favouring higher-skilled, better-paid workers" }
-Wsvrmdspgt@{ shape: win-pane, label: "_Published Sep 21, 2025, 03:45 PM_
-What is us’ h-1b visa programme and how is trump changing it?" }
-Toiriltier@{ shape: win-pane, label: "_Published Sep 21, 2025, 03:30 PM_
-Tech companies warn h-1b visa holders to avoid foreign travel" }
-Wuniiidv@{ shape: win-pane, label: "_Published Sep 20, 2025, 12:10 PM_
-Why trump’s inner circle is so divided on h-1b visas" }
-FniBeracSudaics@{ shape: win-pane, label: "_Published Sep 22, 2025, 07:45 AM_
-‘fast and furious’: h-1b workers abroad race back to us as trump order sparks dismay, confusion" }
-TtoeBealt@{ shape: win-pane, label: "_Published Sep 20, 2025, 04:36 AM_
-Trump to impose $130,000 fee for h-1b worker visas in blow to tech" }
-Wsvrmdspgt@{ shape: win-pane, label: "_Published Sep 21, 2025, 03:45 PM_
-What is us’ h-1b visa programme and how is trump changing it?" }
-Rndpiotmcirnrn@{ shape: win-pane, label: "_Published Sep 08, 2025, 11:00 PM_
-Raid on hyundai-lg plant in us points to trump’s focus on immigration enforcement" }
-WaanUerrfesodnr@{ shape: win-pane, label: "_Published Sep 05, 2025, 12:25 PM_
-Work paused at hyundai’s us site after hundreds of workers, mostly korean, detained in raid" }
-Dsinmtanoavr@{ shape: win-pane, label: "_Published Sep 05, 2025, 11:50 AM_
-Dozens detained in us immigration raids in new york state, governor says" }
-Iiroecyrgon@{ shape: win-pane, label: "_Published Jul 07, 2025, 09:20 AM_
-Ice raids derail los angeles economy as workers go into hiding" }
-SKwwrainmaroler@{ shape: win-pane, label: "_Published Sep 08, 2025, 01:26 PM_
-South korea wants workers detained in hyundai immigration raid to be able to re-enter us" }
-SKtdnrbswespr@{ shape: win-pane, label: "_Published Sep 08, 2025, 07:45 AM_
-South korea to fly detained workers back as us vows more raids on employers" }
-TsonanoniaHad@{ shape: win-pane, label: "_Published Sep 08, 2025, 08:31 AM_
-Trump says foreign companies need to train americans after hyundai raid" }
+NegaUeatla@{ shape: win-pane, label: "_Published Nov 12, 2025, 03:59 PM_
+Northern lights dazzle us skies as far south as alabama" }
+Ctlnasrscr@{ shape: win-pane, label: "_Published Nov 12, 2025, 03:45 PM_
+Catch the cold moon, the last of 2025’s supermoons, in december" }
+CstbtenSp@{ shape: win-pane, label: "_Published Nov 06, 2025, 02:33 PM_
+Clouds fail to dim bright beaver moon over singapore" }
+Hsnifenhns@{ shape: win-pane, label: "_Published Oct 07, 2025, 09:10 PM_
+Harvest moon, the first of 2025’s supermoons, lights up night sky" }
+Braumreipasile@{ shape: win-pane, label: "_Published Oct 28, 2025, 04:45 PM_
+Beaver moon and taurids meteor shower to light up singapore skies in early november" }
+Hsnifenhns@{ shape: win-pane, label: "_Published Oct 07, 2025, 09:10 PM_
+Harvest moon, the first of 2025’s supermoons, lights up night sky" }
+smmreroggnrhe@{ shape: win-pane, label: "_Published Sep 09, 2025, 07:00 AM_
+3 supermoons, meteor showers to round off 2025, lighting up singapore night skies" }
+FroFmfotwSp@{ shape: win-pane, label: "_Published May 10, 2025, 12:35 PM_
+Flower moon on may 13: final micro full moon of 2025 to glow over singapore" }
+Ntsiseeuntai@{ shape: win-pane, label: "_Published May 19, 2025, 02:30 PM_
+Next stop, australia: chase the ethereal southern lights in tasmania" }
+Fcietrnavxesota@{ shape: win-pane, label: "_Published Mar 25, 2024, 02:00 PM_
+From eclectic wineries to a sprawling safari: five unexpected reasons to visit adelaide" }
+LaanutipdMu@{ shape: win-pane, label: "_Published Apr 28, 2025, 02:15 PM_
+Lush landscapes and a gourmet trail in gippsland near melbourne" }
 
-Tddisepooes:::txtsize --> TaitreHaevnhibrwr:::txtsize
-TaitreHaevnhibrwr:::txtsize --> Wsvrmdspgt:::txtsize
-Wsvrmdspgt:::txtsize --> Toiriltier:::txtsize
-Wsvrmdspgt:::txtsize --> Wuniiidv:::txtsize
-TaitreHaevnhibrwr:::txtsize --> FniBeracSudaics:::txtsize
-FniBeracSudaics:::txtsize --> TtoeBealt:::txtsize
-FniBeracSudaics:::txtsize --> Wsvrmdspgt:::txtsize
-Tddisepooes:::txtsize --> Rndpiotmcirnrn:::txtsize
-Rndpiotmcirnrn:::txtsize --> WaanUerrfesodnr:::txtsize
-WaanUerrfesodnr:::txtsize --> Dsinmtanoavr:::txtsize
-WaanUerrfesodnr:::txtsize --> Iiroecyrgon:::txtsize
-Rndpiotmcirnrn:::txtsize --> SKwwrainmaroler:::txtsize
-SKwwrainmaroler:::txtsize --> SKtdnrbswespr:::txtsize
-SKwwrainmaroler:::txtsize --> TsonanoniaHad:::txtsize
+NegaUeatla:::txtsize --> Ctlnasrscr:::txtsize
+Ctlnasrscr:::txtsize --> CstbtenSp:::txtsize
+CstbtenSp:::txtsize --> Hsnifenhns:::txtsize
+CstbtenSp:::txtsize --> Braumreipasile:::txtsize
+Ctlnasrscr:::txtsize --> Hsnifenhns:::txtsize
+Hsnifenhns:::txtsize --> smmreroggnrhe:::txtsize
+Hsnifenhns:::txtsize --> FroFmfotwSp:::txtsize
+NegaUeatla:::txtsize --> Ntsiseeuntai:::txtsize
+Ntsiseeuntai:::txtsize --> Fcietrnavxesota:::txtsize
+Ntsiseeuntai:::txtsize --> LaanutipdMu:::txtsize
 
-Wfcbuntobn@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:19 AM_
-What if democrats’ big shutdown loss turns out to be a win?" }
-Usuoinoeveun@{ shape: win-pane, label: "_Published Nov 12, 2025, 04:21 AM_
-Us house returns to washington for vote to end government shutdown" }
-Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
-Us government shutdown becomes longest in history" }
-AcobeaSdnsdh@{ shape: win-pane, label: "_Published Nov 01, 2025, 01:34 AM_
-Americans worry about next meal as us shutdown enters second month" }
-Uentesraosactt@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:47 PM_
-Us government shutdown enters record 35th day as congressional inaction takes toll" }
-Dtrdctrotent@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:01 AM_
-Dow notches record high close, traders bet on end to government shutdown" }
-UasieveunsHorte@{ shape: win-pane, label: "_Published Nov 11, 2025, 11:01 AM_
-Us senate passes bill to end government shutdown, sends it to house of representatives" }
-SsNieipre@{ shape: win-pane, label: "_Published Nov 11, 2025, 06:50 PM_
-Sti rises 1.2% on nov 11 amid mixed regional performance" }
-Tcsbcaomhwes@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:55 AM_
-Trump claims ‘very big victory’ as us government shutdown vote nears" }
-Usuoinoeveun@{ shape: win-pane, label: "_Published Nov 12, 2025, 04:21 AM_
-Us house returns to washington for vote to end government shutdown" }
-Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
-Us government shutdown becomes longest in history" }
-Dtrdctrotent@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:01 AM_
-Dow notches record high close, traders bet on end to government shutdown" }
-Tttifolohwe@{ shape: win-pane, label: "_Published Nov 11, 2025, 08:14 AM_
-Trump threatens air traffic controllers over shutdown absences" }
-Uavstfat@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:45 AM_
-Us senate advances bill to end federal shutdown" }
-Annoalsvuni@{ shape: win-pane, label: "_Published Nov 10, 2025, 10:23 PM_
-Airlines cancel more than 1,500 us flights on nov 10 as shutdown persists" }
+Twtsalorilbavrw@{ shape: win-pane, label: "_Published Nov 12, 2025, 03:00 PM_
+The eu wants to raise financial support for ukraine. will member states ever agree how?" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
+Explosions heard in ukraine capital kyiv, other cities" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
+Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
 
-Wfcbuntobn:::txtsize --> Usuoinoeveun:::txtsize
-Usuoinoeveun:::txtsize --> Uentbegno:::txtsize
-Uentbegno:::txtsize --> AcobeaSdnsdh:::txtsize
-Uentbegno:::txtsize --> Uentesraosactt:::txtsize
-Usuoinoeveun:::txtsize --> Dtrdctrotent:::txtsize
-Dtrdctrotent:::txtsize --> UasieveunsHorte:::txtsize
-Dtrdctrotent:::txtsize --> SsNieipre:::txtsize
-Wfcbuntobn:::txtsize --> Tcsbcaomhwes:::txtsize
-Tcsbcaomhwes:::txtsize --> Usuoinoeveun:::txtsize
-Usuoinoeveun:::txtsize --> Uentbegno:::txtsize
-Usuoinoeveun:::txtsize --> Dtrdctrotent:::txtsize
-Tcsbcaomhwes:::txtsize --> Tttifolohwe:::txtsize
-Tttifolohwe:::txtsize --> Uavstfat:::txtsize
-Tttifolohwe:::txtsize --> Annoalsvuni:::txtsize
+Twtsalorilbavrw:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
+Eshiaalocs:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
+OaUuakaogrmc:::txtsize --> DsruasvUn:::txtsize
 
-Bingapclrscak@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:55 AM_
-Britain plans tougher laws to protect public services from cyber attacks" }
-Bisejbtaftt@{ shape: win-pane, label: "_Published Oct 14, 2025, 01:20 PM_
-Britain sees 50% spike in major cyber attacks as top firms targeted" }
-BsisiPrCpysg@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:42 AM_
-British ministers criticise pm starmer’s china policy amid spying row" }
-Upenocdyon@{ shape: win-pane, label: "_Published Sep 15, 2025, 06:20 PM_
-Uk drops case against two men accused of spying for china" }
-Hnruosd@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:32 AM_
-How donald trump pulled off his gaza deal" }
-Bsirwrosrhet@{ shape: win-pane, label: "_Published Oct 08, 2025, 05:17 AM_
-British police arrest two over london ransomware of children’s data" }
-Gehrsnonlxi@{ shape: win-pane, label: "_Published Oct 02, 2025, 12:07 PM_
-Google says hackers are sending extortion e-mails to executives" }
-NardoGesdsrnat@{ shape: win-pane, label: "_Published Sep 30, 2025, 09:42 PM_
-New feature rolled out to keep google users worldwide safe from ransomware attacks" }
+Hsoelsorhu@{ shape: win-pane, label: "_Published Nov 12, 2025, 02:43 PM_
+Humans can no longer tell ai music from the real thing: survey" }
+WIldcdedd@{ shape: win-pane, label: "_Published Jul 09, 2025, 04:30 PM_
+'we're ai', popular indie rock band velvet sundown admit" }
+Aeoonitgtnr@{ shape: win-pane, label: "_Published Jul 08, 2025, 10:28 AM_
+Ai video becomes more convincing, rattling creative industry" }
+AeSnldotefoca@{ shape: win-pane, label: "_Published Jul 02, 2025, 11:30 AM_
+A.i. director steven spielberg does not want to use ai in front of the camera" }
+Ciossfortredda@{ shape: win-pane, label: "_Published Feb 25, 2025, 05:00 PM_
+Creative progress or mass theft? major ai art auction provokes wonder – and outrage" }
+Anerwir@{ shape: win-pane, label: "_Published Nov 11, 2025, 10:25 AM_
+Ai agents open door to new hacking threats" }
+Tofcceonbiol@{ shape: win-pane, label: "_Published Nov 05, 2025, 06:00 PM_
+The ‘doorman fallacy’: why careless adoption of ai backfires so easily" }
+Aulmsmoche@{ shape: win-pane, label: "_Published Nov 07, 2025, 12:15 PM_
+‘are you single, old man?’: ai scams more convincing than ever" }
+Ipsruolncgis@{ shape: win-pane, label: "_Published Oct 22, 2025, 06:30 PM_
+India proposes strict rules to label ai content, citing growing risks" }
+IadftosnIumi@{ shape: win-pane, label: "_Published Sep 28, 2025, 05:00 AM_
+In the age of disinformation, polarisation and ai, the public must win" }
 
-Bingapclrscak:::txtsize --> Bisejbtaftt:::txtsize
-Bisejbtaftt:::txtsize --> BsisiPrCpysg:::txtsize
-BsisiPrCpysg:::txtsize --> Upenocdyon:::txtsize
-BsisiPrCpysg:::txtsize --> Hnruosd:::txtsize
-Bisejbtaftt:::txtsize --> Bsirwrosrhet:::txtsize
-Bsirwrosrhet:::txtsize --> Gehrsnonlxi:::txtsize
-Bsirwrosrhet:::txtsize --> NardoGesdsrnat:::txtsize
+Hsoelsorhu:::txtsize --> WIldcdedd:::txtsize
+WIldcdedd:::txtsize --> Aeoonitgtnr:::txtsize
+Aeoonitgtnr:::txtsize --> AeSnldotefoca:::txtsize
+Aeoonitgtnr:::txtsize --> Ciossfortredda:::txtsize
+Hsoelsorhu:::txtsize --> Anerwir:::txtsize
+Anerwir:::txtsize --> Tofcceonbiol:::txtsize
+Anerwir:::txtsize --> Aulmsmoche:::txtsize
+Aulmsmoche:::txtsize --> Ipsruolncgis:::txtsize
+Aulmsmoche:::txtsize --> IadftosnIumi:::txtsize
 
 ```
-<i>Last updated: 2025-11-12 12:00:59.230186 (GMT+8)</i>
+<i>Last updated: 2025-11-12 16:00:29.153717 (GMT+8)</i>
 <!-- END -->
