@@ -16,90 +16,126 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-NegaUeatla@{ shape: win-pane, label: "_Published Nov 12, 2025, 03:59 PM_
-Northern lights dazzle us skies as far south as alabama" }
-Ctlnasrscr@{ shape: win-pane, label: "_Published Nov 12, 2025, 03:45 PM_
-Catch the cold moon, the last of 2025’s supermoons, in december" }
-CstbtenSp@{ shape: win-pane, label: "_Published Nov 06, 2025, 02:33 PM_
-Clouds fail to dim bright beaver moon over singapore" }
-Hsnifenhns@{ shape: win-pane, label: "_Published Oct 07, 2025, 09:10 PM_
-Harvest moon, the first of 2025’s supermoons, lights up night sky" }
-Braumreipasile@{ shape: win-pane, label: "_Published Oct 28, 2025, 04:45 PM_
-Beaver moon and taurids meteor shower to light up singapore skies in early november" }
-Hsnifenhns@{ shape: win-pane, label: "_Published Oct 07, 2025, 09:10 PM_
-Harvest moon, the first of 2025’s supermoons, lights up night sky" }
-smmreroggnrhe@{ shape: win-pane, label: "_Published Sep 09, 2025, 07:00 AM_
-3 supermoons, meteor showers to round off 2025, lighting up singapore night skies" }
-FroFmfotwSp@{ shape: win-pane, label: "_Published May 10, 2025, 12:35 PM_
-Flower moon on may 13: final micro full moon of 2025 to glow over singapore" }
-Ntsiseeuntai@{ shape: win-pane, label: "_Published May 19, 2025, 02:30 PM_
-Next stop, australia: chase the ethereal southern lights in tasmania" }
-Fcietrnavxesota@{ shape: win-pane, label: "_Published Mar 25, 2024, 02:00 PM_
-From eclectic wineries to a sprawling safari: five unexpected reasons to visit adelaide" }
-LaanutipdMu@{ shape: win-pane, label: "_Published Apr 28, 2025, 02:15 PM_
-Lush landscapes and a gourmet trail in gippsland near melbourne" }
+Stwpiacrenbt@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:30 PM_
+Scientists who popularised carbon capture have a warning about it" }
+Nrreln@{ shape: win-pane, label: "_Published Aug 19, 2024, 05:05 PM_
+Net zero’s carbon removal conundrum" }
+Wstooofmrei@{ shape: win-pane, label: "_Published Aug 16, 2024, 04:40 PM_
+World’s first carbon removal bond to fund amazon reforestation" }
+Anftdtnnt@{ shape: win-pane, label: "_Published Feb 15, 2024, 01:10 PM_
+Amazon rainforest could face tipping point by 2050: study" }
+Radsalsvzie@{ shape: win-pane, label: "_Published Aug 09, 2023, 02:51 PM_
+Railways and roads threaten pledges to save amazon rainforest" }
+SciEirnsni@{ shape: win-pane, label: "_Published Aug 12, 2024, 11:15 AM_
+Steps, calories... co2? emissions-tracking apps are on the rise" }
+Cnunwenriniibt@{ shape: win-pane, label: "_Published Apr 15, 2024, 05:00 AM_
+Carbon capture can help with reducing s’pore’s emissions but is no silver bullet" }
+OflvaaSseined@{ shape: win-pane, label: "_Published May 15, 2024, 01:30 PM_
+Only 15% of people surveyed are aware of s’pore’s net-zero emission target: study" }
+TPceenwalleootni@{ shape: win-pane, label: "_Published Nov 08, 2025, 05:00 AM_
+The cop30 effect: experts weigh in on how climate talks will affect people, jobs, nature in s-e asia" }
+NruSpeotegon@{ shape: win-pane, label: "_Published Aug 16, 2025, 05:00 AM_
+Nowhere to run: why singapore needs to start protecting its coasts now" }
+Tusaaritsbr@{ shape: win-pane, label: "_Published Jul 01, 2025, 10:32 AM_
+Tiny tuvalu seeks assurance from us its citizens won’t be barred" }
+Spoyoaeoecalpcs@{ shape: win-pane, label: "_Published Mar 09, 2025, 05:00 PM_
+Singapore to study how worst-case scenarios affect local sea-level rise projections" }
+SlSsaroaenmooens@{ shape: win-pane, label: "_Published Oct 27, 2025, 05:00 AM_
+St explains: s’pore’s 2035 climate target for cop30 and the absent submissions from other countries" }
+Ctpoaiostwhf@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:09 AM_
+Climate tipping points are being crossed, scientists warn ahead of cop30" }
+Twrrriamg@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:36 AM_
+Trump withdraws from paris climate agreement, again" }
 
-NegaUeatla:::txtsize --> Ctlnasrscr:::txtsize
-Ctlnasrscr:::txtsize --> CstbtenSp:::txtsize
-CstbtenSp:::txtsize --> Hsnifenhns:::txtsize
-CstbtenSp:::txtsize --> Braumreipasile:::txtsize
-Ctlnasrscr:::txtsize --> Hsnifenhns:::txtsize
-Hsnifenhns:::txtsize --> smmreroggnrhe:::txtsize
-Hsnifenhns:::txtsize --> FroFmfotwSp:::txtsize
-NegaUeatla:::txtsize --> Ntsiseeuntai:::txtsize
-Ntsiseeuntai:::txtsize --> Fcietrnavxesota:::txtsize
-Ntsiseeuntai:::txtsize --> LaanutipdMu:::txtsize
+Stwpiacrenbt:::txtsize --> Nrreln:::txtsize
+Nrreln:::txtsize --> Wstooofmrei:::txtsize
+Wstooofmrei:::txtsize --> Anftdtnnt:::txtsize
+Wstooofmrei:::txtsize --> Radsalsvzie:::txtsize
+Nrreln:::txtsize --> SciEirnsni:::txtsize
+SciEirnsni:::txtsize --> Cnunwenriniibt:::txtsize
+SciEirnsni:::txtsize --> OflvaaSseined:::txtsize
+Stwpiacrenbt:::txtsize --> TPceenwalleootni:::txtsize
+TPceenwalleootni:::txtsize --> NruSpeotegon:::txtsize
+NruSpeotegon:::txtsize --> Tusaaritsbr:::txtsize
+NruSpeotegon:::txtsize --> Spoyoaeoecalpcs:::txtsize
+TPceenwalleootni:::txtsize --> SlSsaroaenmooens:::txtsize
+SlSsaroaenmooens:::txtsize --> Ctpoaiostwhf:::txtsize
+SlSsaroaenmooens:::txtsize --> Twrrriamg:::txtsize
 
-Twtsalorilbavrw@{ shape: win-pane, label: "_Published Nov 12, 2025, 03:00 PM_
-The eu wants to raise financial support for ukraine. will member states ever agree how?" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
-Explosions heard in ukraine capital kyiv, other cities" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
-Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
+Usodootrtdno@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:21 PM_
+Us house to vote on deal to end longest government shutdown in history" }
+Tcsbcaomhwes@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:55 AM_
+Trump claims ‘very big victory’ as us government shutdown vote nears" }
+Usuoinoeveun@{ shape: win-pane, label: "_Published Nov 12, 2025, 04:21 AM_
+Us house returns to washington for vote to end government shutdown" }
+Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
+Us government shutdown becomes longest in history" }
+Dtrdctrotomhw@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:01 AM_
+Dow notches record-high close; traders bet on end to us government shutdown" }
+Tttifolohwe@{ shape: win-pane, label: "_Published Nov 11, 2025, 08:14 AM_
+Trump threatens air traffic controllers over shutdown absences" }
+Uavstfat@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:45 AM_
+Us senate advances bill to end federal shutdown" }
+Annoalsvuni@{ shape: win-pane, label: "_Published Nov 10, 2025, 10:23 PM_
+Airlines cancel more than 1,500 us flights on nov 10 as shutdown persists" }
+HafdoptdSt@{ shape: win-pane, label: "_Published Jan 07, 2021, 10:03 AM_
+How chaos unfolded as pro-trump mob stormed the us capitol" }
+peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
+4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
+HafdoptdSt@{ shape: win-pane, label: "_Published Jan 07, 2021, 10:03 AM_
+How chaos unfolded as pro-trump mob stormed the us capitol" }
+Umsuichcnncclet@{ shape: win-pane, label: "_Published Jan 07, 2021, 10:06 AM_
+Us lawmakers denounce violence as they reconvene to announce electoral college votes" }
 
-Twtsalorilbavrw:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
-Eshiaalocs:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
-OaUuakaogrmc:::txtsize --> DsruasvUn:::txtsize
+Usodootrtdno:::txtsize --> Tcsbcaomhwes:::txtsize
+Tcsbcaomhwes:::txtsize --> Usuoinoeveun:::txtsize
+Usuoinoeveun:::txtsize --> Uentbegno:::txtsize
+Usuoinoeveun:::txtsize --> Dtrdctrotomhw:::txtsize
+Tcsbcaomhwes:::txtsize --> Tttifolohwe:::txtsize
+Tttifolohwe:::txtsize --> Uavstfat:::txtsize
+Tttifolohwe:::txtsize --> Annoalsvuni:::txtsize
+Usodootrtdno:::txtsize --> HafdoptdSt:::txtsize
+HafdoptdSt:::txtsize --> peapubmalrest:::txtsize
+peapubmalrest:::txtsize --> HafdoptdSt:::txtsize
+peapubmalrest:::txtsize --> Umsuichcnncclet:::txtsize
 
-Hsoelsorhu@{ shape: win-pane, label: "_Published Nov 12, 2025, 02:43 PM_
-Humans can no longer tell ai music from the real thing: survey" }
-WIldcdedd@{ shape: win-pane, label: "_Published Jul 09, 2025, 04:30 PM_
-'we're ai', popular indie rock band velvet sundown admit" }
-Aeoonitgtnr@{ shape: win-pane, label: "_Published Jul 08, 2025, 10:28 AM_
-Ai video becomes more convincing, rattling creative industry" }
-AeSnldotefoca@{ shape: win-pane, label: "_Published Jul 02, 2025, 11:30 AM_
-A.i. director steven spielberg does not want to use ai in front of the camera" }
-Ciossfortredda@{ shape: win-pane, label: "_Published Feb 25, 2025, 05:00 PM_
-Creative progress or mass theft? major ai art auction provokes wonder – and outrage" }
-Anerwir@{ shape: win-pane, label: "_Published Nov 11, 2025, 10:25 AM_
-Ai agents open door to new hacking threats" }
-Tofcceonbiol@{ shape: win-pane, label: "_Published Nov 05, 2025, 06:00 PM_
-The ‘doorman fallacy’: why careless adoption of ai backfires so easily" }
-Aulmsmoche@{ shape: win-pane, label: "_Published Nov 07, 2025, 12:15 PM_
-‘are you single, old man?’: ai scams more convincing than ever" }
-Ipsruolncgis@{ shape: win-pane, label: "_Published Oct 22, 2025, 06:30 PM_
-India proposes strict rules to label ai content, citing growing risks" }
-IadftosnIumi@{ shape: win-pane, label: "_Published Sep 28, 2025, 05:00 AM_
-In the age of disinformation, polarisation and ai, the public must win" }
+TasiitdtheIlstiy@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:21 PM_
+Trump asks israeli president to pardon netanyahu in letter, israeli president’s office says" }
+TuIlstreaororo@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:09 PM_
+Trump urges israel’s president to pardon netanyahu, who’s on trial for corruption" }
+Ilrtsnarifa@{ shape: win-pane, label: "_Published Jun 29, 2025, 09:03 PM_
+Israeli court postpones netanyahu appearance in graft trial" }
+NysuporiimLr@{ shape: win-pane, label: "_Published Jun 26, 2025, 10:36 PM_
+Netanyahu asks court to postpone corruption trial summons: lawyer" }
+Tssithriioee@{ shape: win-pane, label: "_Published Jun 26, 2025, 08:10 AM_
+Trump says israeli pm netanyahu’s corruption trial should be cancelled" }
+Ilnvfteeveeaotr@{ shape: win-pane, label: "_Published Aug 05, 2025, 12:55 PM_
+Israel cabinet moves to fire attorney-general overseeing netanyahu’s corruption trial" }
+IlceeGfeille@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:00 AM_
+Israel to decide next steps in gaza after ceasefire talks collapse" }
+Nyofemar@{ shape: win-pane, label: "_Published Aug 05, 2025, 01:50 AM_
+Netanyahu to brief israel’s army on gaza war plan" }
+TcfrPdooaudp@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:05 AM_
+Trump calls for israel’s president to pardon netanyahu. could it happen?" }
+TuIlstreaororo@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:09 PM_
+Trump urges israel’s president to pardon netanyahu, who’s on trial for corruption" }
+Ilrtsnarifa@{ shape: win-pane, label: "_Published Jun 29, 2025, 09:03 PM_
+Israeli court postpones netanyahu appearance in graft trial" }
+Ilnvfteeveeaotr@{ shape: win-pane, label: "_Published Aug 05, 2025, 12:55 PM_
+Israel cabinet moves to fire attorney-general overseeing netanyahu’s corruption trial" }
 
-Hsoelsorhu:::txtsize --> WIldcdedd:::txtsize
-WIldcdedd:::txtsize --> Aeoonitgtnr:::txtsize
-Aeoonitgtnr:::txtsize --> AeSnldotefoca:::txtsize
-Aeoonitgtnr:::txtsize --> Ciossfortredda:::txtsize
-Hsoelsorhu:::txtsize --> Anerwir:::txtsize
-Anerwir:::txtsize --> Tofcceonbiol:::txtsize
-Anerwir:::txtsize --> Aulmsmoche:::txtsize
-Aulmsmoche:::txtsize --> Ipsruolncgis:::txtsize
-Aulmsmoche:::txtsize --> IadftosnIumi:::txtsize
+TasiitdtheIlstiy:::txtsize --> TuIlstreaororo:::txtsize
+TuIlstreaororo:::txtsize --> Ilrtsnarifa:::txtsize
+Ilrtsnarifa:::txtsize --> NysuporiimLr:::txtsize
+Ilrtsnarifa:::txtsize --> Tssithriioee:::txtsize
+TuIlstreaororo:::txtsize --> Ilnvfteeveeaotr:::txtsize
+Ilnvfteeveeaotr:::txtsize --> IlceeGfeille:::txtsize
+Ilnvfteeveeaotr:::txtsize --> Nyofemar:::txtsize
+TasiitdtheIlstiy:::txtsize --> TcfrPdooaudp:::txtsize
+TcfrPdooaudp:::txtsize --> TuIlstreaororo:::txtsize
+TuIlstreaororo:::txtsize --> Ilrtsnarifa:::txtsize
+TuIlstreaororo:::txtsize --> Ilnvfteeveeaotr:::txtsize
 
 ```
-<i>Last updated: 2025-11-12 16:00:29.153717 (GMT+8)</i>
+<i>Last updated: 2025-11-12 20:00:55.835061 (GMT+8)</i>
 <!-- END -->
