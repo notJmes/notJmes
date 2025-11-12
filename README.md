@@ -16,65 +16,91 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Sasdbfkooek@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:41 PM_
-Some 3,000 cattle stranded on boat off turkish coast for three weeks" }
-IBsmseebqug@{ shape: win-pane, label: "_Published Nov 11, 2025, 11:44 PM_
-‘it’s un-british’: lawmakers raise concerns about aquarium penguins" }
-Issneisedlnkgabr@{ shape: win-pane, label: "_Published Oct 31, 2025, 04:37 PM_
-India seizes two endangered gibbons, one dead and one alive, in checked luggage at mumbai airport" }
-Msegyibakhap@{ shape: win-pane, label: "_Published Oct 24, 2025, 04:00 PM_
-Malaysia emerging as key link in gibbon trafficking chain, says report" }
-Lrtstdtzmnseanglee@{ shape: win-pane, label: "_Published Oct 20, 2025, 03:18 PM_
-Leopard tortoise, spiny-tailed monitor lizard among animals seized in raids on illegal wildlife trade" }
-Vllrenba@{ shape: win-pane, label: "_Published Oct 19, 2025, 11:30 AM_
-Vet talk: could your ‘misbehaving’ pet be in pain?" }
-Vlmaslgpt@{ shape: win-pane, label: "_Published Sep 21, 2025, 11:45 AM_
-Vet talk: six myths about sterilising your pet cat" }
-Nsisotartblnntmat@{ shape: win-pane, label: "_Published Nov 03, 2025, 07:43 PM_
-Nparks probing case of dog that died after reportedly being left unattended at grooming facility" }
-fogefdcotae@{ shape: win-pane, label: "_Published Apr 08, 2025, 02:35 PM_
-$10,000 fine for pet groomer who failed to secure dog that fell and died" }
-Meeoscerhg@{ shape: win-pane, label: "_Published Dec 11, 2024, 06:15 PM_
-Manager of pet grooming salon charged over death of dog" }
-Meeoscerhg@{ shape: win-pane, label: "_Published Dec 11, 2024, 06:15 PM_
-Manager of pet grooming salon charged over death of dog" }
-Nsidhekoos@{ shape: win-pane, label: "_Published Nov 06, 2024, 10:30 PM_
-Nparks probing video of handler kicking dog on coney island" }
-Aoiawttginiv@{ shape: win-pane, label: "_Published Nov 10, 2023, 07:35 PM_
-Avs looking into case of woman threatening dog with cane in tiktok video" }
-Mhdaleldaeyotr@{ shape: win-pane, label: "_Published Aug 27, 2024, 12:18 PM_
-Maid charged with animal abuse for allegedly beating employer’s dog that later died" }
+Blreeucehgses@{ shape: win-pane, label: "_Published Nov 13, 2025, 02:01 AM_
+Brazil’s cop30 resumes after security clashes with indigenous protesters" }
+UleflOmahoa@{ shape: win-pane, label: "_Published Nov 01, 2025, 01:46 AM_
+Us will not send officials to cop30 climate talks, white house says" }
+Ygtlpcarnhp@{ shape: win-pane, label: "_Published Sep 24, 2025, 06:51 AM_
+‘you’re going to hell’: trump attacks un and europe in scathing speech" }
+TtUtaastogl@{ shape: win-pane, label: "_Published Sep 24, 2025, 12:17 AM_
+Trump tells un that climate change is ‘greatest con job’ globally" }
+Twrrriamg@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:36 AM_
+Trump withdraws from paris climate agreement, again" }
+Feuiea@{ shape: win-pane, label: "_Published Feb 24, 2023, 05:54 PM_
+Feb 24, 2022: the day russia invaded ukraine" }
+Psftwtstehsi@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:26 AM_
+Protesters force their way into cop30 summit venue, clash with security" }
+FhehzdoabtddNamO@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:16 AM_
+From the andes to the amazon, indigenous leaders bring their demands to un climate summit cop30" }
+EihtPamndte@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:15 PM_
+Explainer: what is the cop30 climate summit, and why does it matter?" }
+Taentofinivtlei@{ shape: win-pane, label: "_Published Nov 09, 2025, 11:30 PM_
+Taliban government protests over afghanistan not being invited to un climate summit cop30" }
+AoiznBuAndse@{ shape: win-pane, label: "_Published Nov 11, 2025, 09:55 AM_
+As cop30 opens in brazilian city belem, urban amazon residents swelter" }
+EihtPamndte@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:15 PM_
+Explainer: what is the cop30 climate summit, and why does it matter?" }
+FhehzdoabtddNamO@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:16 AM_
+From the andes to the amazon, indigenous leaders bring their demands to un climate summit cop30" }
 
-Sasdbfkooek:::txtsize --> IBsmseebqug:::txtsize
-IBsmseebqug:::txtsize --> Issneisedlnkgabr:::txtsize
-Issneisedlnkgabr:::txtsize --> Msegyibakhap:::txtsize
-Issneisedlnkgabr:::txtsize --> Lrtstdtzmnseanglee:::txtsize
-IBsmseebqug:::txtsize --> Vllrenba:::txtsize
-Vllrenba:::txtsize --> Vlmaslgpt:::txtsize
-Sasdbfkooek:::txtsize --> Nsisotartblnntmat:::txtsize
-Nsisotartblnntmat:::txtsize --> fogefdcotae:::txtsize
-fogefdcotae:::txtsize --> Meeoscerhg:::txtsize
-fogefdcotae:::txtsize --> Meeoscerhg:::txtsize
-Nsisotartblnntmat:::txtsize --> Nsidhekoos:::txtsize
-Nsidhekoos:::txtsize --> Aoiawttginiv:::txtsize
-Nsidhekoos:::txtsize --> Mhdaleldaeyotr:::txtsize
+Blreeucehgses:::txtsize --> UleflOmahoa:::txtsize
+UleflOmahoa:::txtsize --> Ygtlpcarnhp:::txtsize
+Ygtlpcarnhp:::txtsize --> TtUtaastogl:::txtsize
+UleflOmahoa:::txtsize --> Twrrriamg:::txtsize
+Twrrriamg:::txtsize --> Feuiea:::txtsize
+Blreeucehgses:::txtsize --> Psftwtstehsi:::txtsize
+Psftwtstehsi:::txtsize --> FhehzdoabtddNamO:::txtsize
+FhehzdoabtddNamO:::txtsize --> EihtPamndte:::txtsize
+FhehzdoabtddNamO:::txtsize --> Taentofinivtlei:::txtsize
+Psftwtstehsi:::txtsize --> AoiznBuAndse:::txtsize
+AoiznBuAndse:::txtsize --> EihtPamndte:::txtsize
+AoiznBuAndse:::txtsize --> FhehzdoabtddNamO:::txtsize
 
-CpsartosUnly@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:15 PM_
-Corruption scandal, court battles pose test for ukraine’s zelensky" }
-UnpCeiaronhwmen@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:51 PM_
-Ukraine suspends cabinet minister as corruption scandal shakes wartime government" }
-CZslufetarc@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:54 AM_
-Close zelensky ally accused of orchestrating major graft scheme" }
-Unitcdrcsundst@{ shape: win-pane, label: "_Published Nov 11, 2025, 03:20 AM_
-Ukraine anti-graft agency raids energy sector as corruption stand-off escalates" }
-UnyIoieera@{ shape: win-pane, label: "_Published Sep 03, 2023, 11:00 AM_
-Ukrainian tycoon ihor kolomoisky detained in fraud case" }
-Zsvossssrrsgai@{ shape: win-pane, label: "_Published Jul 31, 2025, 10:39 PM_
-Zelensky, moving to defuse crisis, restores power of ukraine’s anti-graft agencies" }
-Unlyoiaeiddoiune@{ shape: win-pane, label: "_Published Jul 24, 2025, 09:39 PM_
-Ukraine’s zelensky approves bill draft ‘preserving independence’ of anti-corruption bodies" }
-Raiilpeirond@{ shape: win-pane, label: "_Published Jul 31, 2025, 08:39 PM_
-Russian strikes kill at least 16 people in kyiv; 6-year-old boy among dead" }
+Ksvitlfirike@{ shape: win-pane, label: "_Published Nov 13, 2025, 01:31 AM_
+Kenya says over 200 of its nationals are fighting for russia in ukraine war" }
+Unstfnmnoiggu@{ shape: win-pane, label: "_Published Nov 07, 2025, 10:50 PM_
+Ukraine says more than 1,400 africans from dozens of countries fighting for russia" }
+Isteficupefirike@{ shape: win-pane, label: "_Published Mar 08, 2024, 05:51 PM_
+India says it busted trafficking racket duping people into fighting for russia in ukraine" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+InlUneeiosms@{ shape: win-pane, label: "_Published Mar 07, 2024, 11:56 PM_
+Indians killed in ukraine were forced to fight for russia, families say" }
+Raketfsoirggeskk@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:11 PM_
+Russia and ukraine says their forces are locked in fierce fighting in the ruins of pokrovsk" }
+EedgolranowuS@{ shape: win-pane, label: "_Published Nov 05, 2025, 12:33 AM_
+Europe could struggle to mobilise troops, arms in case of war with russia: study" }
+Unerpfsroaeks@{ shape: win-pane, label: "_Published Nov 04, 2025, 01:57 AM_
+Ukraine to set up arms export offices in berlin, copenhagen, zelensky says" }
+Unfoantgge@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:46 PM_
+Ukrainians flee southeastern front as fighting worsens" }
+Ksvitlfirike@{ shape: win-pane, label: "_Published Nov 13, 2025, 01:31 AM_
+Kenya says over 200 of its nationals are fighting for russia in ukraine war" }
+Unstfnmnoiggu@{ shape: win-pane, label: "_Published Nov 07, 2025, 10:50 PM_
+Ukraine says more than 1,400 africans from dozens of countries fighting for russia" }
+Unfoantgge@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:46 PM_
+Ukrainians flee southeastern front as fighting worsens" }
+Twtsalorilbavrw@{ shape: win-pane, label: "_Published Nov 12, 2025, 03:00 PM_
+The eu wants to raise financial support for ukraine. will member states ever agree how?" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+
+Ksvitlfirike:::txtsize --> Unstfnmnoiggu:::txtsize
+Unstfnmnoiggu:::txtsize --> Isteficupefirike:::txtsize
+Isteficupefirike:::txtsize --> DsruasvUn:::txtsize
+Isteficupefirike:::txtsize --> InlUneeiosms:::txtsize
+Unstfnmnoiggu:::txtsize --> Raketfsoirggeskk:::txtsize
+Raketfsoirggeskk:::txtsize --> EedgolranowuS:::txtsize
+Raketfsoirggeskk:::txtsize --> Unerpfsroaeks:::txtsize
+Ksvitlfirike:::txtsize --> Unfoantgge:::txtsize
+Unfoantgge:::txtsize --> Ksvitlfirike:::txtsize
+Ksvitlfirike:::txtsize --> Unstfnmnoiggu:::txtsize
+Ksvitlfirike:::txtsize --> Unfoantgge:::txtsize
+Unfoantgge:::txtsize --> Twtsalorilbavrw:::txtsize
+Twtsalorilbavrw:::txtsize --> DsruasvUn:::txtsize
+
+Unisgrrund@{ shape: win-pane, label: "_Published Nov 13, 2025, 01:13 AM_
+Ukraine ministers resign over major corruption scandals" }
 UnasnaRaa@{ shape: win-pane, label: "_Published Nov 09, 2025, 08:55 PM_
 Ukraine scrambles for energy after russian attacks" }
 Unnimruieusnoos@{ shape: win-pane, label: "_Published Nov 09, 2025, 01:25 PM_
@@ -89,35 +115,36 @@ Zsrcctofdrhcp@{ shape: win-pane, label: "_Published Oct 01, 2025, 03:45 AM_
 Zelensky warns of ‘critical’ situation at off-grid zaporizhzhia nuclear plant" }
 Ralcooneyllke@{ shape: win-pane, label: "_Published Oct 02, 2025, 03:39 AM_
 Russian shelling cuts power to defunct chernobyl nuclear plant, ukraine says" }
+UnpCeiaronhwmen@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:51 PM_
+Ukraine suspends cabinet minister as corruption scandal shakes wartime government" }
+CZslufetarc@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:54 AM_
+Close zelensky ally accused of orchestrating major graft scheme" }
+Unitcdrcsundst@{ shape: win-pane, label: "_Published Nov 11, 2025, 03:20 AM_
+Ukraine anti-graft agency raids energy sector as corruption stand-off escalates" }
+UnyIoieera@{ shape: win-pane, label: "_Published Sep 03, 2023, 11:00 AM_
+Ukrainian tycoon ihor kolomoisky detained in fraud case" }
+Zsvossssrrsgai@{ shape: win-pane, label: "_Published Jul 31, 2025, 10:39 PM_
+Zelensky, moving to defuse crisis, restores power of ukraine’s anti-graft agencies" }
+Unlyoiaeiddoiune@{ shape: win-pane, label: "_Published Jul 24, 2025, 09:39 PM_
+Ukraine’s zelensky approves bill draft ‘preserving independence’ of anti-corruption bodies" }
+Raiilpeirond@{ shape: win-pane, label: "_Published Jul 31, 2025, 08:39 PM_
+Russian strikes kill at least 16 people in kyiv; 6-year-old boy among dead" }
 
-CpsartosUnly:::txtsize --> UnpCeiaronhwmen:::txtsize
-UnpCeiaronhwmen:::txtsize --> CZslufetarc:::txtsize
-CZslufetarc:::txtsize --> Unitcdrcsundst:::txtsize
-CZslufetarc:::txtsize --> UnyIoieera:::txtsize
-UnpCeiaronhwmen:::txtsize --> Zsvossssrrsgai:::txtsize
-Zsvossssrrsgai:::txtsize --> Unlyoiaeiddoiune:::txtsize
-Zsvossssrrsgai:::txtsize --> Raiilpeirond:::txtsize
-CpsartosUnly:::txtsize --> UnasnaRaa:::txtsize
+Unisgrrund:::txtsize --> UnasnaRaa:::txtsize
 UnasnaRaa:::txtsize --> Unnimruieusnoos:::txtsize
 Unnimruieusnoos:::txtsize --> Tiwitnifd:::txtsize
 Unnimruieusnoos:::txtsize --> Raaanasoleaa:::txtsize
 UnasnaRaa:::txtsize --> SdroisdshazaeaUn:::txtsize
 SdroisdshazaeaUn:::txtsize --> Zsrcctofdrhcp:::txtsize
 SdroisdshazaeaUn:::txtsize --> Ralcooneyllke:::txtsize
-
-TcielhseedeHo@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:08 PM_
-Tuberculosis rates fall for the first time since covid-19 pandemic: who report" }
-Teioosyth@{ shape: win-pane, label: "_Published Mar 23, 2025, 06:00 PM_
-Tb cases in singapore drop for sixth year straight in 2024" }
-Uedeetyolruusnr@{ shape: win-pane, label: "_Published Mar 22, 2024, 10:33 PM_
-Updated guidelines offer better ways to control and treat tuberculosis in singapore" }
-aSdodt@{ shape: win-pane, label: "_Published Jan 05, 2024, 09:15 PM_
-Askst: should i be worried about tb?" }
-
-TcielhseedeHo:::txtsize --> Teioosyth:::txtsize
-Teioosyth:::txtsize --> Uedeetyolruusnr:::txtsize
-Uedeetyolruusnr:::txtsize --> aSdodt:::txtsize
+Unisgrrund:::txtsize --> UnpCeiaronhwmen:::txtsize
+UnpCeiaronhwmen:::txtsize --> CZslufetarc:::txtsize
+CZslufetarc:::txtsize --> Unitcdrcsundst:::txtsize
+CZslufetarc:::txtsize --> UnyIoieera:::txtsize
+UnpCeiaronhwmen:::txtsize --> Zsvossssrrsgai:::txtsize
+Zsvossssrrsgai:::txtsize --> Unlyoiaeiddoiune:::txtsize
+Zsvossssrrsgai:::txtsize --> Raiilpeirond:::txtsize
 
 ```
-<i>Last updated: 2025-11-13 00:00:22.830955 (GMT+8)</i>
+<i>Last updated: 2025-11-13 04:00:49.787660 (GMT+8)</i>
 <!-- END -->
