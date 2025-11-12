@@ -16,126 +16,108 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Stwpiacrenbt@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:30 PM_
-Scientists who popularised carbon capture have a warning about it" }
-Nrreln@{ shape: win-pane, label: "_Published Aug 19, 2024, 05:05 PM_
-Net zero’s carbon removal conundrum" }
-Wstooofmrei@{ shape: win-pane, label: "_Published Aug 16, 2024, 04:40 PM_
-World’s first carbon removal bond to fund amazon reforestation" }
-Anftdtnnt@{ shape: win-pane, label: "_Published Feb 15, 2024, 01:10 PM_
-Amazon rainforest could face tipping point by 2050: study" }
-Radsalsvzie@{ shape: win-pane, label: "_Published Aug 09, 2023, 02:51 PM_
-Railways and roads threaten pledges to save amazon rainforest" }
-SciEirnsni@{ shape: win-pane, label: "_Published Aug 12, 2024, 11:15 AM_
-Steps, calories... co2? emissions-tracking apps are on the rise" }
-Cnunwenriniibt@{ shape: win-pane, label: "_Published Apr 15, 2024, 05:00 AM_
-Carbon capture can help with reducing s’pore’s emissions but is no silver bullet" }
-OflvaaSseined@{ shape: win-pane, label: "_Published May 15, 2024, 01:30 PM_
-Only 15% of people surveyed are aware of s’pore’s net-zero emission target: study" }
-TPceenwalleootni@{ shape: win-pane, label: "_Published Nov 08, 2025, 05:00 AM_
-The cop30 effect: experts weigh in on how climate talks will affect people, jobs, nature in s-e asia" }
-NruSpeotegon@{ shape: win-pane, label: "_Published Aug 16, 2025, 05:00 AM_
-Nowhere to run: why singapore needs to start protecting its coasts now" }
-Tusaaritsbr@{ shape: win-pane, label: "_Published Jul 01, 2025, 10:32 AM_
-Tiny tuvalu seeks assurance from us its citizens won’t be barred" }
-Spoyoaeoecalpcs@{ shape: win-pane, label: "_Published Mar 09, 2025, 05:00 PM_
-Singapore to study how worst-case scenarios affect local sea-level rise projections" }
-SlSsaroaenmooens@{ shape: win-pane, label: "_Published Oct 27, 2025, 05:00 AM_
-St explains: s’pore’s 2035 climate target for cop30 and the absent submissions from other countries" }
-Ctpoaiostwhf@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:09 AM_
-Climate tipping points are being crossed, scientists warn ahead of cop30" }
-Twrrriamg@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:36 AM_
-Trump withdraws from paris climate agreement, again" }
+Sasdbfkooek@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:41 PM_
+Some 3,000 cattle stranded on boat off turkish coast for three weeks" }
+IBsmseebqug@{ shape: win-pane, label: "_Published Nov 11, 2025, 11:44 PM_
+‘it’s un-british’: lawmakers raise concerns about aquarium penguins" }
+Issneisedlnkgabr@{ shape: win-pane, label: "_Published Oct 31, 2025, 04:37 PM_
+India seizes two endangered gibbons, one dead and one alive, in checked luggage at mumbai airport" }
+Msegyibakhap@{ shape: win-pane, label: "_Published Oct 24, 2025, 04:00 PM_
+Malaysia emerging as key link in gibbon trafficking chain, says report" }
+Lrtstdtzmnseanglee@{ shape: win-pane, label: "_Published Oct 20, 2025, 03:18 PM_
+Leopard tortoise, spiny-tailed monitor lizard among animals seized in raids on illegal wildlife trade" }
+Vllrenba@{ shape: win-pane, label: "_Published Oct 19, 2025, 11:30 AM_
+Vet talk: could your ‘misbehaving’ pet be in pain?" }
+Vlmaslgpt@{ shape: win-pane, label: "_Published Sep 21, 2025, 11:45 AM_
+Vet talk: six myths about sterilising your pet cat" }
+Nsisotartblnntmat@{ shape: win-pane, label: "_Published Nov 03, 2025, 07:43 PM_
+Nparks probing case of dog that died after reportedly being left unattended at grooming facility" }
+fogefdcotae@{ shape: win-pane, label: "_Published Apr 08, 2025, 02:35 PM_
+$10,000 fine for pet groomer who failed to secure dog that fell and died" }
+Meeoscerhg@{ shape: win-pane, label: "_Published Dec 11, 2024, 06:15 PM_
+Manager of pet grooming salon charged over death of dog" }
+Meeoscerhg@{ shape: win-pane, label: "_Published Dec 11, 2024, 06:15 PM_
+Manager of pet grooming salon charged over death of dog" }
+Nsidhekoos@{ shape: win-pane, label: "_Published Nov 06, 2024, 10:30 PM_
+Nparks probing video of handler kicking dog on coney island" }
+Aoiawttginiv@{ shape: win-pane, label: "_Published Nov 10, 2023, 07:35 PM_
+Avs looking into case of woman threatening dog with cane in tiktok video" }
+Mhdaleldaeyotr@{ shape: win-pane, label: "_Published Aug 27, 2024, 12:18 PM_
+Maid charged with animal abuse for allegedly beating employer’s dog that later died" }
 
-Stwpiacrenbt:::txtsize --> Nrreln:::txtsize
-Nrreln:::txtsize --> Wstooofmrei:::txtsize
-Wstooofmrei:::txtsize --> Anftdtnnt:::txtsize
-Wstooofmrei:::txtsize --> Radsalsvzie:::txtsize
-Nrreln:::txtsize --> SciEirnsni:::txtsize
-SciEirnsni:::txtsize --> Cnunwenriniibt:::txtsize
-SciEirnsni:::txtsize --> OflvaaSseined:::txtsize
-Stwpiacrenbt:::txtsize --> TPceenwalleootni:::txtsize
-TPceenwalleootni:::txtsize --> NruSpeotegon:::txtsize
-NruSpeotegon:::txtsize --> Tusaaritsbr:::txtsize
-NruSpeotegon:::txtsize --> Spoyoaeoecalpcs:::txtsize
-TPceenwalleootni:::txtsize --> SlSsaroaenmooens:::txtsize
-SlSsaroaenmooens:::txtsize --> Ctpoaiostwhf:::txtsize
-SlSsaroaenmooens:::txtsize --> Twrrriamg:::txtsize
+Sasdbfkooek:::txtsize --> IBsmseebqug:::txtsize
+IBsmseebqug:::txtsize --> Issneisedlnkgabr:::txtsize
+Issneisedlnkgabr:::txtsize --> Msegyibakhap:::txtsize
+Issneisedlnkgabr:::txtsize --> Lrtstdtzmnseanglee:::txtsize
+IBsmseebqug:::txtsize --> Vllrenba:::txtsize
+Vllrenba:::txtsize --> Vlmaslgpt:::txtsize
+Sasdbfkooek:::txtsize --> Nsisotartblnntmat:::txtsize
+Nsisotartblnntmat:::txtsize --> fogefdcotae:::txtsize
+fogefdcotae:::txtsize --> Meeoscerhg:::txtsize
+fogefdcotae:::txtsize --> Meeoscerhg:::txtsize
+Nsisotartblnntmat:::txtsize --> Nsidhekoos:::txtsize
+Nsidhekoos:::txtsize --> Aoiawttginiv:::txtsize
+Nsidhekoos:::txtsize --> Mhdaleldaeyotr:::txtsize
 
-Usodootrtdno@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:21 PM_
-Us house to vote on deal to end longest government shutdown in history" }
-Tcsbcaomhwes@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:55 AM_
-Trump claims ‘very big victory’ as us government shutdown vote nears" }
-Usuoinoeveun@{ shape: win-pane, label: "_Published Nov 12, 2025, 04:21 AM_
-Us house returns to washington for vote to end government shutdown" }
-Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
-Us government shutdown becomes longest in history" }
-Dtrdctrotomhw@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:01 AM_
-Dow notches record-high close; traders bet on end to us government shutdown" }
-Tttifolohwe@{ shape: win-pane, label: "_Published Nov 11, 2025, 08:14 AM_
-Trump threatens air traffic controllers over shutdown absences" }
-Uavstfat@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:45 AM_
-Us senate advances bill to end federal shutdown" }
-Annoalsvuni@{ shape: win-pane, label: "_Published Nov 10, 2025, 10:23 PM_
-Airlines cancel more than 1,500 us flights on nov 10 as shutdown persists" }
-HafdoptdSt@{ shape: win-pane, label: "_Published Jan 07, 2021, 10:03 AM_
-How chaos unfolded as pro-trump mob stormed the us capitol" }
-peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
-4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
-HafdoptdSt@{ shape: win-pane, label: "_Published Jan 07, 2021, 10:03 AM_
-How chaos unfolded as pro-trump mob stormed the us capitol" }
-Umsuichcnncclet@{ shape: win-pane, label: "_Published Jan 07, 2021, 10:06 AM_
-Us lawmakers denounce violence as they reconvene to announce electoral college votes" }
+CpsartosUnly@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:15 PM_
+Corruption scandal, court battles pose test for ukraine’s zelensky" }
+UnpCeiaronhwmen@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:51 PM_
+Ukraine suspends cabinet minister as corruption scandal shakes wartime government" }
+CZslufetarc@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:54 AM_
+Close zelensky ally accused of orchestrating major graft scheme" }
+Unitcdrcsundst@{ shape: win-pane, label: "_Published Nov 11, 2025, 03:20 AM_
+Ukraine anti-graft agency raids energy sector as corruption stand-off escalates" }
+UnyIoieera@{ shape: win-pane, label: "_Published Sep 03, 2023, 11:00 AM_
+Ukrainian tycoon ihor kolomoisky detained in fraud case" }
+Zsvossssrrsgai@{ shape: win-pane, label: "_Published Jul 31, 2025, 10:39 PM_
+Zelensky, moving to defuse crisis, restores power of ukraine’s anti-graft agencies" }
+Unlyoiaeiddoiune@{ shape: win-pane, label: "_Published Jul 24, 2025, 09:39 PM_
+Ukraine’s zelensky approves bill draft ‘preserving independence’ of anti-corruption bodies" }
+Raiilpeirond@{ shape: win-pane, label: "_Published Jul 31, 2025, 08:39 PM_
+Russian strikes kill at least 16 people in kyiv; 6-year-old boy among dead" }
+UnasnaRaa@{ shape: win-pane, label: "_Published Nov 09, 2025, 08:55 PM_
+Ukraine scrambles for energy after russian attacks" }
+Unnimruieusnoos@{ shape: win-pane, label: "_Published Nov 09, 2025, 01:25 PM_
+Ukraine drone strike temporarily cuts utilities in russia’s voronezh, governor says" }
+Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
+Timeline: how russia's attack on ukraine unfolded" }
+Raaanasoleaa@{ shape: win-pane, label: "_Published Nov 08, 2025, 06:40 PM_
+Russian attacks target nuclear substations, kill seven, ukraine says" }
+SdroisdshazaeaUn@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:53 AM_
+Second external power line restored at russian-held zaporizhzhia nuclear plant in ukraine" }
+Zsrcctofdrhcp@{ shape: win-pane, label: "_Published Oct 01, 2025, 03:45 AM_
+Zelensky warns of ‘critical’ situation at off-grid zaporizhzhia nuclear plant" }
+Ralcooneyllke@{ shape: win-pane, label: "_Published Oct 02, 2025, 03:39 AM_
+Russian shelling cuts power to defunct chernobyl nuclear plant, ukraine says" }
 
-Usodootrtdno:::txtsize --> Tcsbcaomhwes:::txtsize
-Tcsbcaomhwes:::txtsize --> Usuoinoeveun:::txtsize
-Usuoinoeveun:::txtsize --> Uentbegno:::txtsize
-Usuoinoeveun:::txtsize --> Dtrdctrotomhw:::txtsize
-Tcsbcaomhwes:::txtsize --> Tttifolohwe:::txtsize
-Tttifolohwe:::txtsize --> Uavstfat:::txtsize
-Tttifolohwe:::txtsize --> Annoalsvuni:::txtsize
-Usodootrtdno:::txtsize --> HafdoptdSt:::txtsize
-HafdoptdSt:::txtsize --> peapubmalrest:::txtsize
-peapubmalrest:::txtsize --> HafdoptdSt:::txtsize
-peapubmalrest:::txtsize --> Umsuichcnncclet:::txtsize
+CpsartosUnly:::txtsize --> UnpCeiaronhwmen:::txtsize
+UnpCeiaronhwmen:::txtsize --> CZslufetarc:::txtsize
+CZslufetarc:::txtsize --> Unitcdrcsundst:::txtsize
+CZslufetarc:::txtsize --> UnyIoieera:::txtsize
+UnpCeiaronhwmen:::txtsize --> Zsvossssrrsgai:::txtsize
+Zsvossssrrsgai:::txtsize --> Unlyoiaeiddoiune:::txtsize
+Zsvossssrrsgai:::txtsize --> Raiilpeirond:::txtsize
+CpsartosUnly:::txtsize --> UnasnaRaa:::txtsize
+UnasnaRaa:::txtsize --> Unnimruieusnoos:::txtsize
+Unnimruieusnoos:::txtsize --> Tiwitnifd:::txtsize
+Unnimruieusnoos:::txtsize --> Raaanasoleaa:::txtsize
+UnasnaRaa:::txtsize --> SdroisdshazaeaUn:::txtsize
+SdroisdshazaeaUn:::txtsize --> Zsrcctofdrhcp:::txtsize
+SdroisdshazaeaUn:::txtsize --> Ralcooneyllke:::txtsize
 
-TasiitdtheIlstiy@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:21 PM_
-Trump asks israeli president to pardon netanyahu in letter, israeli president’s office says" }
-TuIlstreaororo@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:09 PM_
-Trump urges israel’s president to pardon netanyahu, who’s on trial for corruption" }
-Ilrtsnarifa@{ shape: win-pane, label: "_Published Jun 29, 2025, 09:03 PM_
-Israeli court postpones netanyahu appearance in graft trial" }
-NysuporiimLr@{ shape: win-pane, label: "_Published Jun 26, 2025, 10:36 PM_
-Netanyahu asks court to postpone corruption trial summons: lawyer" }
-Tssithriioee@{ shape: win-pane, label: "_Published Jun 26, 2025, 08:10 AM_
-Trump says israeli pm netanyahu’s corruption trial should be cancelled" }
-Ilnvfteeveeaotr@{ shape: win-pane, label: "_Published Aug 05, 2025, 12:55 PM_
-Israel cabinet moves to fire attorney-general overseeing netanyahu’s corruption trial" }
-IlceeGfeille@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:00 AM_
-Israel to decide next steps in gaza after ceasefire talks collapse" }
-Nyofemar@{ shape: win-pane, label: "_Published Aug 05, 2025, 01:50 AM_
-Netanyahu to brief israel’s army on gaza war plan" }
-TcfrPdooaudp@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:05 AM_
-Trump calls for israel’s president to pardon netanyahu. could it happen?" }
-TuIlstreaororo@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:09 PM_
-Trump urges israel’s president to pardon netanyahu, who’s on trial for corruption" }
-Ilrtsnarifa@{ shape: win-pane, label: "_Published Jun 29, 2025, 09:03 PM_
-Israeli court postpones netanyahu appearance in graft trial" }
-Ilnvfteeveeaotr@{ shape: win-pane, label: "_Published Aug 05, 2025, 12:55 PM_
-Israel cabinet moves to fire attorney-general overseeing netanyahu’s corruption trial" }
+TcielhseedeHo@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:08 PM_
+Tuberculosis rates fall for the first time since covid-19 pandemic: who report" }
+Teioosyth@{ shape: win-pane, label: "_Published Mar 23, 2025, 06:00 PM_
+Tb cases in singapore drop for sixth year straight in 2024" }
+Uedeetyolruusnr@{ shape: win-pane, label: "_Published Mar 22, 2024, 10:33 PM_
+Updated guidelines offer better ways to control and treat tuberculosis in singapore" }
+aSdodt@{ shape: win-pane, label: "_Published Jan 05, 2024, 09:15 PM_
+Askst: should i be worried about tb?" }
 
-TasiitdtheIlstiy:::txtsize --> TuIlstreaororo:::txtsize
-TuIlstreaororo:::txtsize --> Ilrtsnarifa:::txtsize
-Ilrtsnarifa:::txtsize --> NysuporiimLr:::txtsize
-Ilrtsnarifa:::txtsize --> Tssithriioee:::txtsize
-TuIlstreaororo:::txtsize --> Ilnvfteeveeaotr:::txtsize
-Ilnvfteeveeaotr:::txtsize --> IlceeGfeille:::txtsize
-Ilnvfteeveeaotr:::txtsize --> Nyofemar:::txtsize
-TasiitdtheIlstiy:::txtsize --> TcfrPdooaudp:::txtsize
-TcfrPdooaudp:::txtsize --> TuIlstreaororo:::txtsize
-TuIlstreaororo:::txtsize --> Ilrtsnarifa:::txtsize
-TuIlstreaororo:::txtsize --> Ilnvfteeveeaotr:::txtsize
+TcielhseedeHo:::txtsize --> Teioosyth:::txtsize
+Teioosyth:::txtsize --> Uedeetyolruusnr:::txtsize
+Uedeetyolruusnr:::txtsize --> aSdodt:::txtsize
 
 ```
-<i>Last updated: 2025-11-12 20:00:55.835061 (GMT+8)</i>
+<i>Last updated: 2025-11-13 00:00:22.830955 (GMT+8)</i>
 <!-- END -->
