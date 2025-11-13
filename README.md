@@ -16,117 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Usepringnsohr@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:48 AM_
-Us house takes step toward ending longest government shutdown in history" }
+Trusotasv@{ shape: win-pane, label: "_Published Nov 13, 2025, 11:55 AM_
+Trump ramps up pressure on gop to thwart epstein vote" }
+TwlssfWtJao@{ shape: win-pane, label: "_Published Jul 24, 2025, 06:08 AM_
+Trump was told he is in epstein files, wall street journal reports" }
+WodoumtnMov@{ shape: win-pane, label: "_Published Jul 19, 2025, 06:16 AM_
+What you need to know about trump, epstein and the maga controversy" }
+Tseiqigrscrks@{ shape: win-pane, label: "_Published Jul 17, 2025, 03:35 AM_
+Trump says republicans questioning jeffrey epstein case are ‘weaklings’" }
+TsarolEioel@{ shape: win-pane, label: "_Published Jul 19, 2025, 05:39 AM_
+Trump sues wall street journal over epstein report, seeks $12.8 billion" }
+Eiehdoeitrmeal@{ shape: win-pane, label: "_Published Jul 23, 2025, 07:08 AM_
+Epstein files fight leads us house republicans to start summer break a day early" }
+Utektsaxtaru@{ shape: win-pane, label: "_Published Jul 22, 2025, 11:45 PM_
+Us justice dept asks epstein associate maxwell to speak to prosecutors" }
+RlSenetefsdosnmdc@{ shape: win-pane, label: "_Published Jul 22, 2025, 08:20 AM_
+Republican speaker johnson retreats on demand for epstein disclosures, saying trump needs ‘space’" }
+Woasfremaiueid@{ shape: win-pane, label: "_Published Nov 13, 2025, 06:03 AM_
+What to know about sex offender epstein’s e-mails alleging trump knew of his conduct" }
+HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
+‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
+Jetisdntigntvem@{ shape: win-pane, label: "_Published Jul 08, 2025, 04:02 AM_
+Jeffrey epstein died by suicide, has no sex trafficking ‘client list’: us government memo" }
+Tspnerifag@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:45 AM_
+Trump says epstein ‘stole’ underage victim from mar-a-lago spa" }
+Tsesyrnaierss@{ shape: win-pane, label: "_Published Nov 03, 2025, 09:00 AM_
+Trump says he feels ‘badly’ for britain’s royal family over andrew-epstein saga" }
+BilprAwsipinr@{ shape: win-pane, label: "_Published Nov 02, 2025, 08:16 PM_
+Britain will strip disgraced andrew of last military position, minister says" }
+Tanrefeoirls@{ shape: win-pane, label: "_Published Sep 15, 2025, 10:20 AM_
+Trump and king charles: heads of state with opposing personalities" }
+
+Trusotasv:::txtsize --> TwlssfWtJao:::txtsize
+TwlssfWtJao:::txtsize --> WodoumtnMov:::txtsize
+WodoumtnMov:::txtsize --> Tseiqigrscrks:::txtsize
+WodoumtnMov:::txtsize --> TsarolEioel:::txtsize
+TwlssfWtJao:::txtsize --> Eiehdoeitrmeal:::txtsize
+Eiehdoeitrmeal:::txtsize --> Utektsaxtaru:::txtsize
+Eiehdoeitrmeal:::txtsize --> RlSenetefsdosnmdc:::txtsize
+Trusotasv:::txtsize --> Woasfremaiueid:::txtsize
+Woasfremaiueid:::txtsize --> HwtipngesTkfot:::txtsize
+HwtipngesTkfot:::txtsize --> Jetisdntigntvem:::txtsize
+HwtipngesTkfot:::txtsize --> Tspnerifag:::txtsize
+Woasfremaiueid:::txtsize --> Tsesyrnaierss:::txtsize
+Tsesyrnaierss:::txtsize --> BilprAwsipinr:::txtsize
+Tsesyrnaierss:::txtsize --> Tanrefeoirls:::txtsize
+
+SonloncfoUen@{ shape: win-pane, label: "_Published Nov 13, 2025, 10:53 AM_
+Shutdown’s end will kick off long process of rebooting us government" }
+Tsdootveuns@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:48 AM_
+Trump signs deal to end longest us government shutdown in history" }
 Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
 Democrats sweep first major elections of second trump term" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
+Cuomo to stay in new york mayoral race despite losing democratic primary" }
+HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
+‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
+Jetisdntigntvem@{ shape: win-pane, label: "_Published Jul 08, 2025, 04:02 AM_
+Jeffrey epstein died by suicide, has no sex trafficking ‘client list’: us government memo" }
+Tspnerifag@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:45 AM_
+Trump says epstein ‘stole’ underage victim from mar-a-lago spa" }
+Uelctrfnacr@{ shape: win-pane, label: "_Published Nov 13, 2025, 10:15 AM_
+Us freezes flight cuts at 6% as air traffic control absences shrink" }
+UasieveunsHorte@{ shape: win-pane, label: "_Published Nov 11, 2025, 11:01 AM_
+Us senate passes bill to end government shutdown, sends it to house of representatives" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+Uamitgegnso@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:21 AM_
+Us senate compromise sets stage for end to government shutdown" }
+Uglalnetifolhgr@{ shape: win-pane, label: "_Published Nov 10, 2025, 06:48 AM_
+Us flight delays, cancellations accelerate as air traffic controller shortages surge" }
+Ulbtefiyvendhs@{ shape: win-pane, label: "_Published Nov 09, 2025, 07:33 PM_
+Us airlines brace themselves for third day of government-mandated flight cuts" }
+Uavstfat@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:45 AM_
+Us senate advances bill to end federal shutdown" }
+
+SonloncfoUen:::txtsize --> Tsdootveuns:::txtsize
+Tsdootveuns:::txtsize --> Drwialosdp:::txtsize
+Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
+Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
+Tsdootveuns:::txtsize --> HwtipngesTkfot:::txtsize
+HwtipngesTkfot:::txtsize --> Jetisdntigntvem:::txtsize
+HwtipngesTkfot:::txtsize --> Tspnerifag:::txtsize
+SonloncfoUen:::txtsize --> Uelctrfnacr:::txtsize
+Uelctrfnacr:::txtsize --> UasieveunsHorte:::txtsize
+UasieveunsHorte:::txtsize --> YMmnoihaiYilehpea:::txtsize
+UasieveunsHorte:::txtsize --> Uamitgegnso:::txtsize
+Uelctrfnacr:::txtsize --> Uglalnetifolhgr:::txtsize
+Uglalnetifolhgr:::txtsize --> Ulbtefiyvendhs:::txtsize
+Uglalnetifolhgr:::txtsize --> Uavstfat:::txtsize
+
+Uelctrfnacr@{ shape: win-pane, label: "_Published Nov 13, 2025, 10:15 AM_
+Us freezes flight cuts at 6% as air traffic control absences shrink" }
+UasieveunsHorte@{ shape: win-pane, label: "_Published Nov 11, 2025, 11:01 AM_
+Us senate passes bill to end government shutdown, sends it to house of representatives" }
 YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
 Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
 YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
 Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
 Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
 Takeaways from us election night 2025" }
-Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
-Cuomo to stay in new york mayoral race despite losing democratic primary" }
-MnCankgnsodty@{ shape: win-pane, label: "_Published Jun 27, 2025, 06:16 PM_
-Mamdani’s nyc primary win sparks surge in anti-muslim posts, advocates say" }
-HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
-‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
-Jetisdntigntvem@{ shape: win-pane, label: "_Published Jul 08, 2025, 04:02 AM_
-Jeffrey epstein died by suicide, has no sex trafficking ‘client list’: us government memo" }
-Jetcriiebceiy@{ shape: win-pane, label: "_Published Apr 26, 2025, 12:15 PM_
-Jeffrey epstein accuser virginia giuffre dies by suicide, her family says" }
-MesciuiEie@{ shape: win-pane, label: "_Published Jun 07, 2025, 09:45 PM_
-Musk deletes post claiming trump is ‘in the epstein files’" }
-Tspnerifag@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:45 AM_
-Trump says epstein ‘stole’ underage victim from mar-a-lago spa" }
-WodoumtnMov@{ shape: win-pane, label: "_Published Jul 19, 2025, 06:16 AM_
-What you need to know about trump, epstein and the maga controversy" }
-Tseentnxneyes@{ shape: win-pane, label: "_Published Jul 29, 2025, 02:33 AM_
-Trump says he turned down invitation to sex offender jeffrey epstein’s island" }
+Uamitgegnso@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:21 AM_
+Us senate compromise sets stage for end to government shutdown" }
+Uettorifodf@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:09 AM_
+Usda tells states to ‘undo’ efforts to issue full food aid benefits" }
+Uglalnetifolhgr@{ shape: win-pane, label: "_Published Nov 10, 2025, 06:48 AM_
+Us flight delays, cancellations accelerate as air traffic controller shortages surge" }
+Uglalnetifolhgr@{ shape: win-pane, label: "_Published Nov 10, 2025, 06:48 AM_
+Us flight delays, cancellations accelerate as air traffic controller shortages surge" }
+Ulbtefiyvendhs@{ shape: win-pane, label: "_Published Nov 09, 2025, 07:33 PM_
+Us airlines brace themselves for third day of government-mandated flight cuts" }
+TaitroguaSouomhw@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:35 AM_
+Trump administration orders 10% of flights cut at major us airports due to government shutdown" }
+AacofsauSsoarc@{ shape: win-pane, label: "_Published Nov 09, 2025, 07:51 AM_
+Air traffic control staffing shortages due to us govt shutdown lead to travel chaos" }
+Uavstfat@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:45 AM_
+Us senate advances bill to end federal shutdown" }
+Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
+Us government shutdown becomes longest in history" }
+Uglalnetifolhgr@{ shape: win-pane, label: "_Published Nov 10, 2025, 06:48 AM_
+Us flight delays, cancellations accelerate as air traffic controller shortages surge" }
 
-Usepringnsohr:::txtsize --> Drwialosdp:::txtsize
-Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
+Uelctrfnacr:::txtsize --> UasieveunsHorte:::txtsize
+UasieveunsHorte:::txtsize --> YMmnoihaiYilehpea:::txtsize
 YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
 YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
-Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
-Ctywmaeiseary:::txtsize --> MnCankgnsodty:::txtsize
-Usepringnsohr:::txtsize --> HwtipngesTkfot:::txtsize
-HwtipngesTkfot:::txtsize --> Jetisdntigntvem:::txtsize
-Jetisdntigntvem:::txtsize --> Jetcriiebceiy:::txtsize
-Jetisdntigntvem:::txtsize --> MesciuiEie:::txtsize
-HwtipngesTkfot:::txtsize --> Tspnerifag:::txtsize
-Tspnerifag:::txtsize --> WodoumtnMov:::txtsize
-Tspnerifag:::txtsize --> Tseentnxneyes:::txtsize
-
-IlzUruli@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:34 AM_
-Israel quizzed at un over torture allegations" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
-Singapore strongly condemns terror attacks on israel, calls for end to violence" }
-Easiaaidnedeg@{ shape: win-pane, label: "_Published Feb 11, 2025, 01:28 AM_
-‘emaciated’ israeli hostages, palestinian detainees ‘deeply distressing’: un" }
-Ilshedoooia@{ shape: win-pane, label: "_Published Jan 16, 2025, 12:59 AM_
-Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
-Pezdsyeasarl@{ shape: win-pane, label: "_Published Jan 16, 2025, 03:09 AM_
-People in gaza shed tears of joy, disbelief at news of ceasefire deal" }
-Ilamslorpdiaac@{ shape: win-pane, label: "_Published Jan 16, 2025, 05:54 AM_
-Israel hostage families on roller coaster of hope and despair as gaza deal reached" }
-Hstseirhgrgcfnu@{ shape: win-pane, label: "_Published Feb 11, 2025, 01:23 AM_
-Hamas says it will stop releasing israeli hostages, throwing gaza ceasefire into doubt" }
-Tsottoeinaa@{ shape: win-pane, label: "_Published Feb 10, 2025, 11:47 PM_
-Trump says no right of return for palestinians under gaza plan" }
-
-IlzUruli:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-WzptIleint:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
-Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
-IlzUruli:::txtsize --> Easiaaidnedeg:::txtsize
-Easiaaidnedeg:::txtsize --> Ilshedoooia:::txtsize
-Ilshedoooia:::txtsize --> Pezdsyeasarl:::txtsize
-Ilshedoooia:::txtsize --> Ilamslorpdiaac:::txtsize
-Easiaaidnedeg:::txtsize --> Hstseirhgrgcfnu:::txtsize
-Hstseirhgrgcfnu:::txtsize --> Tsottoeinaa:::txtsize
-
-Usiefoar@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:25 AM_
-Us presses final penny after more than 230 years" }
-Danmaneooootwm@{ shape: win-pane, label: "_Published Feb 20, 2024, 06:25 PM_
-‘dad’s last money to me’: malaysian man seeks former owner of rm50 note withdrawn from atm" }
-Mgyywrvnweegb@{ shape: win-pane, label: "_Published Sep 12, 2023, 05:05 PM_
-Making ‘money’: malaysian woman receives hand-drawn notes in wedding hongbao" }
-RehMsraiayi@{ shape: win-pane, label: "_Published Jul 26, 2023, 01:55 PM_
-Reduced to shreds: malaysian grandma’s $8,700 savings eaten by termites" }
-RehMsraiayi@{ shape: win-pane, label: "_Published Jul 26, 2023, 01:55 PM_
-Reduced to shreds: malaysian grandma’s $8,700 savings eaten by termites" }
-Bpelaymornnmu@{ shape: win-pane, label: "_Published Jul 12, 2023, 08:15 AM_
-Blind people in malaysia hit by scammers, lose more than $430k to ‘investment fund’" }
-CoJrtocpeays@{ shape: win-pane, label: "_Published May 11, 2025, 04:20 PM_
-Cash-loving japan reluctant to switch to app-based salary payments" }
-Bipabnnee@{ shape: win-pane, label: "_Published Nov 08, 2022, 11:52 AM_
-Breaking japan’s cash habit by nudging wage earners" }
-Maaefyaeepcnoep@{ shape: win-pane, label: "_Published Nov 02, 2022, 09:24 PM_
-More safeguards needed for ‘buy now, pay later’ scheme to protect younger consumers: experts" }
-
-Usiefoar:::txtsize --> Danmaneooootwm:::txtsize
-Danmaneooootwm:::txtsize --> Mgyywrvnweegb:::txtsize
-Mgyywrvnweegb:::txtsize --> RehMsraiayi:::txtsize
-Danmaneooootwm:::txtsize --> RehMsraiayi:::txtsize
-RehMsraiayi:::txtsize --> Bpelaymornnmu:::txtsize
-Usiefoar:::txtsize --> CoJrtocpeays:::txtsize
-CoJrtocpeays:::txtsize --> Bipabnnee:::txtsize
-Bipabnnee:::txtsize --> Maaefyaeepcnoep:::txtsize
+UasieveunsHorte:::txtsize --> Uamitgegnso:::txtsize
+Uamitgegnso:::txtsize --> Uettorifodf:::txtsize
+Uamitgegnso:::txtsize --> Uglalnetifolhgr:::txtsize
+Uelctrfnacr:::txtsize --> Uglalnetifolhgr:::txtsize
+Uglalnetifolhgr:::txtsize --> Ulbtefiyvendhs:::txtsize
+Ulbtefiyvendhs:::txtsize --> TaitroguaSouomhw:::txtsize
+Ulbtefiyvendhs:::txtsize --> AacofsauSsoarc:::txtsize
+Uglalnetifolhgr:::txtsize --> Uavstfat:::txtsize
+Uavstfat:::txtsize --> Uentbegno:::txtsize
+Uavstfat:::txtsize --> Uglalnetifolhgr:::txtsize
 
 ```
-<i>Last updated: 2025-11-13 08:01:13.971273 (GMT+8)</i>
+<i>Last updated: 2025-11-13 12:00:37.737240 (GMT+8)</i>
 <!-- END -->
