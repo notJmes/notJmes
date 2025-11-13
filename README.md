@@ -16,99 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Frcstopasscvoenh@{ shape: win-pane, label: "_Published Nov 13, 2025, 06:11 PM_
-Former french president sarkozy’s appeal against conspiracy conviction to begin in march" }
-Femenkamerepne@{ shape: win-pane, label: "_Published Nov 10, 2025, 01:10 PM_
-France’s former president sarkozy back home after court frees him pending appeal" }
-Frcstoneeniya@{ shape: win-pane, label: "_Published Sep 25, 2025, 04:42 PM_
-Former french president sarkozy sentenced to 5 years in jail in libya trial" }
-Fhenkoloa@{ shape: win-pane, label: "_Published Feb 08, 2025, 12:19 AM_
-French ex-president sarkozy to get electronic tag" }
-Fehopsootot@{ shape: win-pane, label: "_Published Dec 18, 2024, 09:50 PM_
-France's highest court upholds sarkozy's corruption conviction" }
-FrtCBceayarnc@{ shape: win-pane, label: "_Published Jul 10, 2024, 05:02 AM_
-Former first lady carla bruni charged in sarkozy campaign probe in france" }
-Enrdlnmfsectmnec@{ shape: win-pane, label: "_Published Jun 29, 2024, 10:48 PM_
-Ex-french first lady carla bruni summoned for possible indictment in campaign probe: source" }
-Femenkamerepne@{ shape: win-pane, label: "_Published Nov 10, 2025, 01:10 PM_
-France’s former president sarkozy back home after court frees him pending appeal" }
-Frcstoneeniya@{ shape: win-pane, label: "_Published Sep 25, 2025, 04:42 PM_
-Former french president sarkozy sentenced to 5 years in jail in libya trial" }
-Fhenkoloa@{ shape: win-pane, label: "_Published Feb 08, 2025, 12:19 AM_
-French ex-president sarkozy to get electronic tag" }
-Fehopsootot@{ shape: win-pane, label: "_Published Dec 18, 2024, 09:50 PM_
-France's highest court upholds sarkozy's corruption conviction" }
-FrtCBceayarnc@{ shape: win-pane, label: "_Published Jul 10, 2024, 05:02 AM_
-Former first lady carla bruni charged in sarkozy campaign probe in france" }
-Enrdlnmfsectmnec@{ shape: win-pane, label: "_Published Jun 29, 2024, 10:48 PM_
-Ex-french first lady carla bruni summoned for possible indictment in campaign probe: source" }
+Meekenanhcoa@{ shape: win-pane, label: "_Published Nov 13, 2025, 11:40 PM_
+Merz tells zelensky fewer young ukrainian men should come to germany" }
+Uneoangtlad@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:11 AM_
+Ukraine eases ban on ukrainian men aged 18 to 22 travelling abroad" }
+Unndoseienpvg@{ shape: win-pane, label: "_Published Aug 26, 2025, 10:27 PM_
+Ukraine acknowledges for first time russia entered dnipropetrovsk region" }
+Zsysieisitit@{ shape: win-pane, label: "_Published Aug 22, 2025, 08:47 PM_
+Zelensky says russia doing ‘everything’ to stop his meeting with putin" }
+Woiaamiesics@{ shape: win-pane, label: "_Published Aug 23, 2025, 01:52 AM_
+With no ukraine peace deal, trump again threatens russia sanctions" }
+Woiaamiesics@{ shape: win-pane, label: "_Published Aug 23, 2025, 01:52 AM_
+With no ukraine peace deal, trump again threatens russia sanctions" }
+UnlyRanrefes@{ shape: win-pane, label: "_Published Aug 22, 2025, 03:43 AM_
+Ukraine’s zelensky says russia trying to ‘wriggle out’ of peace talks" }
+Zsysieisitit@{ shape: win-pane, label: "_Published Aug 22, 2025, 08:47 PM_
+Zelensky says russia doing ‘everything’ to stop his meeting with putin" }
+Uneoangtlad@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:11 AM_
+Ukraine eases ban on ukrainian men aged 18 to 22 travelling abroad" }
+Unndoseienpvg@{ shape: win-pane, label: "_Published Aug 26, 2025, 10:27 PM_
+Ukraine acknowledges for first time russia entered dnipropetrovsk region" }
+Zsysieisitit@{ shape: win-pane, label: "_Published Aug 22, 2025, 08:47 PM_
+Zelensky says russia doing ‘everything’ to stop his meeting with putin" }
+Woiaamiesics@{ shape: win-pane, label: "_Published Aug 23, 2025, 01:52 AM_
+With no ukraine peace deal, trump again threatens russia sanctions" }
+Woiaamiesics@{ shape: win-pane, label: "_Published Aug 23, 2025, 01:52 AM_
+With no ukraine peace deal, trump again threatens russia sanctions" }
+UnlyRanrefes@{ shape: win-pane, label: "_Published Aug 22, 2025, 03:43 AM_
+Ukraine’s zelensky says russia trying to ‘wriggle out’ of peace talks" }
+Zsysieisitit@{ shape: win-pane, label: "_Published Aug 22, 2025, 08:47 PM_
+Zelensky says russia doing ‘everything’ to stop his meeting with putin" }
 
-Frcstopasscvoenh:::txtsize --> Femenkamerepne:::txtsize
-Femenkamerepne:::txtsize --> Frcstoneeniya:::txtsize
-Frcstoneeniya:::txtsize --> Fhenkoloa:::txtsize
-Femenkamerepne:::txtsize --> Fehopsootot:::txtsize
-Fehopsootot:::txtsize --> FrtCBceayarnc:::txtsize
-Fehopsootot:::txtsize --> Enrdlnmfsectmnec:::txtsize
-Frcstopasscvoenh:::txtsize --> Femenkamerepne:::txtsize
-Femenkamerepne:::txtsize --> Frcstoneeniya:::txtsize
-Frcstoneeniya:::txtsize --> Fhenkoloa:::txtsize
-Femenkamerepne:::txtsize --> Fehopsootot:::txtsize
-Fehopsootot:::txtsize --> FrtCBceayarnc:::txtsize
-Fehopsootot:::txtsize --> Enrdlnmfsectmnec:::txtsize
+Meekenanhcoa:::txtsize --> Uneoangtlad:::txtsize
+Uneoangtlad:::txtsize --> Unndoseienpvg:::txtsize
+Unndoseienpvg:::txtsize --> Zsysieisitit:::txtsize
+Unndoseienpvg:::txtsize --> Woiaamiesics:::txtsize
+Uneoangtlad:::txtsize --> Woiaamiesics:::txtsize
+Woiaamiesics:::txtsize --> UnlyRanrefes:::txtsize
+Woiaamiesics:::txtsize --> Zsysieisitit:::txtsize
+Meekenanhcoa:::txtsize --> Uneoangtlad:::txtsize
+Uneoangtlad:::txtsize --> Unndoseienpvg:::txtsize
+Unndoseienpvg:::txtsize --> Zsysieisitit:::txtsize
+Unndoseienpvg:::txtsize --> Woiaamiesics:::txtsize
+Uneoangtlad:::txtsize --> Woiaamiesics:::txtsize
+Woiaamiesics:::txtsize --> UnlyRanrefes:::txtsize
+Woiaamiesics:::txtsize --> Zsysieisitit:::txtsize
 
-cerfietepeTnv@{ shape: win-pane, label: "_Published Nov 13, 2025, 01:45 PM_
-3 charged over stuffed animal heist at amusement park seen in tom hanks movie" }
-Scseloitluau@{ shape: win-pane, label: "_Published Nov 11, 2025, 10:16 PM_
-Six ancient statues stolen from syria’s national museum of damascus" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
-Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
-Leulytsisturs@{ shape: win-pane, label: "_Published Nov 06, 2025, 05:30 PM_
-Louvre museum will need years to fix security issues, state auditor finds" }
-Letotmsrsioty@{ shape: win-pane, label: "_Published Nov 02, 2025, 09:46 PM_
-Louvre heist work of petty criminals, not organised crime, prosecutor says" }
+Eaieriounttcwfke@{ shape: win-pane, label: "_Published Nov 13, 2025, 11:26 PM_
+Eu finance ministers agree using frozen russian assets most effective way to fund ukraine" }
+Twtsalorilbavrw@{ shape: win-pane, label: "_Published Nov 12, 2025, 03:00 PM_
+The eu wants to raise financial support for ukraine. will member states ever agree how?" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
+Explosions heard in ukraine capital kyiv, other cities" }
+OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
+Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
+Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
+Belgium says eu states must share risk to use frozen russian assets for ukraine" }
+Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
+Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
+Eoufnisoker@{ shape: win-pane, label: "_Published Aug 31, 2025, 12:28 AM_
+Eu to work on using frozen russian assets to aid ukraine after war" }
+Rasptlfnttss@{ shape: win-pane, label: "_Published Sep 15, 2025, 04:05 PM_
+Russia warns europe that it will go after any state that takes its assets" }
+Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
+Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
+Eoufnisoker@{ shape: win-pane, label: "_Published Aug 31, 2025, 12:28 AM_
+Eu to work on using frozen russian assets to aid ukraine after war" }
+Rasptlfnttss@{ shape: win-pane, label: "_Published Sep 15, 2025, 04:05 PM_
+Russia warns europe that it will go after any state that takes its assets" }
 
-cerfietepeTnv:::txtsize --> Scseloitluau:::txtsize
-Scseloitluau:::txtsize --> SnltiARahtoy:::txtsize
-SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
-Scseloitluau:::txtsize --> Leulytsisturs:::txtsize
-Leulytsisturs:::txtsize --> Letotmsrsioty:::txtsize
+Eaieriounttcwfke:::txtsize --> Twtsalorilbavrw:::txtsize
+Twtsalorilbavrw:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
+DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
+Eaieriounttcwfke:::txtsize --> Busauasszsaske:::txtsize
+Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
+Elrgessfakeoau:::txtsize --> Eoufnisoker:::txtsize
+Elrgessfakeoau:::txtsize --> Rasptlfnttss:::txtsize
+Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
+Elrgessfakeoau:::txtsize --> Eoufnisoker:::txtsize
+Elrgessfakeoau:::txtsize --> Rasptlfnttss:::txtsize
 
-Raarfofndt@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:13 PM_
-Russian humanoid robot falls on its face in hyped debut" }
-FegkangocweefmCur@{ shape: win-pane, label: "_Published Aug 29, 2025, 12:31 PM_
-From serving drinks to carrying luggage: robotic dogs’ warm welcome wows freshmen at china university" }
-Cdyoeieulh@{ shape: win-pane, label: "_Published Aug 12, 2025, 04:11 PM_
-China deploys robot antelope in tibet to surveil real herds" }
-Cidtroedde@{ shape: win-pane, label: "_Published Nov 07, 2023, 04:10 PM_
-China is owed more than $1.35 trillion in belt and road debt: report" }
-Hobritdpana@{ shape: win-pane, label: "_Published Aug 07, 2025, 10:46 AM_
-Humanoid robot enrolls in doctoral drama programme in china" }
-Jstprrsnvslbhg@{ shape: win-pane, label: "_Published Nov 06, 2025, 02:00 PM_
-Japan’s narita airport trials robot selling souvenirs to solve labour shortages" }
-Rskvdnrlsiy@{ shape: win-pane, label: "_Published Sep 10, 2025, 01:30 PM_
-Robots stock shelves and clean floors at 7-eleven store in tokyo" }
-FegkangocweefmCur@{ shape: win-pane, label: "_Published Aug 29, 2025, 12:31 PM_
-From serving drinks to carrying luggage: robotic dogs’ warm welcome wows freshmen at china university" }
-Tarorinnetrmd@{ shape: win-pane, label: "_Published Sep 26, 2025, 09:08 AM_
-There are more robots working in china than the rest of the world combined" }
-AbphsCsrfroere@{ shape: win-pane, label: "_Published Aug 10, 2025, 04:30 PM_
-As global supply chains shift, china’s exports of factory robots see a sharp rise" }
-Chaftteef@{ shape: win-pane, label: "_Published Apr 27, 2025, 10:00 AM_
-China has an army of robots on its side in the tariff war" }
+PlncsetllrnG@{ shape: win-pane, label: "_Published Nov 13, 2025, 11:23 PM_
+Pro-palestinian activists use lift to scale berlin’s brandenburg gate" }
+Gnahrieohlhci@{ shape: win-pane, label: "_Published Oct 24, 2025, 01:32 PM_
+German company behind truck-lift used in louvre heist launches ad campaign" }
+LeePOhretmu@{ shape: win-pane, label: "_Published Oct 20, 2025, 01:01 AM_
+Louvre robbery in paris: other high-profile heists from museums" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
+Paris’ louvre museum robbery: what jewels did the thieves steal?" }
+FeiDmaLet@{ shape: win-pane, label: "_Published Oct 24, 2025, 08:11 AM_
+France examining dna samples after louvre heist" }
+PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
+Paris’ louvre museum robbery: what jewels did the thieves steal?" }
+LefeVfeei@{ shape: win-pane, label: "_Published Oct 23, 2025, 12:47 AM_
+Louvre chief blames cctv gaps for $130m jewellery heist" }
 
-Raarfofndt:::txtsize --> FegkangocweefmCur:::txtsize
-FegkangocweefmCur:::txtsize --> Cdyoeieulh:::txtsize
-Cdyoeieulh:::txtsize --> Cidtroedde:::txtsize
-Cdyoeieulh:::txtsize --> Hobritdpana:::txtsize
-Raarfofndt:::txtsize --> Jstprrsnvslbhg:::txtsize
-Jstprrsnvslbhg:::txtsize --> Rskvdnrlsiy:::txtsize
-Rskvdnrlsiy:::txtsize --> FegkangocweefmCur:::txtsize
-Jstprrsnvslbhg:::txtsize --> Tarorinnetrmd:::txtsize
-Tarorinnetrmd:::txtsize --> AbphsCsrfroere:::txtsize
-Tarorinnetrmd:::txtsize --> Chaftteef:::txtsize
+PlncsetllrnG:::txtsize --> Gnahrieohlhci:::txtsize
+Gnahrieohlhci:::txtsize --> LeePOhretmu:::txtsize
+LeePOhretmu:::txtsize --> Ptineluiisey:::txtsize
+LeePOhretmu:::txtsize --> PLeubhwitea:::txtsize
+Gnahrieohlhci:::txtsize --> FeiDmaLet:::txtsize
+FeiDmaLet:::txtsize --> PLeubhwitea:::txtsize
+FeiDmaLet:::txtsize --> LefeVfeei:::txtsize
 
 ```
-<i>Last updated: 2025-11-13 20:00:30.635604 (GMT+8)</i>
+<i>Last updated: 2025-11-14 00:00:55.867845 (GMT+8)</i>
 <!-- END -->
