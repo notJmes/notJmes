@@ -16,114 +16,138 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Meekenanhcoa@{ shape: win-pane, label: "_Published Nov 13, 2025, 11:40 PM_
-Merz tells zelensky fewer young ukrainian men should come to germany" }
-Uneoangtlad@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:11 AM_
-Ukraine eases ban on ukrainian men aged 18 to 22 travelling abroad" }
-Unndoseienpvg@{ shape: win-pane, label: "_Published Aug 26, 2025, 10:27 PM_
-Ukraine acknowledges for first time russia entered dnipropetrovsk region" }
-Zsysieisitit@{ shape: win-pane, label: "_Published Aug 22, 2025, 08:47 PM_
-Zelensky says russia doing ‘everything’ to stop his meeting with putin" }
-Woiaamiesics@{ shape: win-pane, label: "_Published Aug 23, 2025, 01:52 AM_
-With no ukraine peace deal, trump again threatens russia sanctions" }
-Woiaamiesics@{ shape: win-pane, label: "_Published Aug 23, 2025, 01:52 AM_
-With no ukraine peace deal, trump again threatens russia sanctions" }
-UnlyRanrefes@{ shape: win-pane, label: "_Published Aug 22, 2025, 03:43 AM_
-Ukraine’s zelensky says russia trying to ‘wriggle out’ of peace talks" }
-Zsysieisitit@{ shape: win-pane, label: "_Published Aug 22, 2025, 08:47 PM_
-Zelensky says russia doing ‘everything’ to stop his meeting with putin" }
-Uneoangtlad@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:11 AM_
-Ukraine eases ban on ukrainian men aged 18 to 22 travelling abroad" }
-Unndoseienpvg@{ shape: win-pane, label: "_Published Aug 26, 2025, 10:27 PM_
-Ukraine acknowledges for first time russia entered dnipropetrovsk region" }
-Zsysieisitit@{ shape: win-pane, label: "_Published Aug 22, 2025, 08:47 PM_
-Zelensky says russia doing ‘everything’ to stop his meeting with putin" }
-Woiaamiesics@{ shape: win-pane, label: "_Published Aug 23, 2025, 01:52 AM_
-With no ukraine peace deal, trump again threatens russia sanctions" }
-Woiaamiesics@{ shape: win-pane, label: "_Published Aug 23, 2025, 01:52 AM_
-With no ukraine peace deal, trump again threatens russia sanctions" }
-UnlyRanrefes@{ shape: win-pane, label: "_Published Aug 22, 2025, 03:43 AM_
-Ukraine’s zelensky says russia trying to ‘wriggle out’ of peace talks" }
-Zsysieisitit@{ shape: win-pane, label: "_Published Aug 22, 2025, 08:47 PM_
-Zelensky says russia doing ‘everything’ to stop his meeting with putin" }
+ZsnnoeaarUn@{ shape: win-pane, label: "_Published Nov 14, 2025, 02:52 AM_
+Zelensky sanctions associate as fraud scandal rocks ukraine" }
+UnasnaRaa@{ shape: win-pane, label: "_Published Nov 09, 2025, 08:55 PM_
+Ukraine scrambles for energy after russian attacks" }
+Unnimruieusnoos@{ shape: win-pane, label: "_Published Nov 09, 2025, 01:25 PM_
+Ukraine drone strike temporarily cuts utilities in russia’s voronezh, governor says" }
+Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
+Timeline: how russia's attack on ukraine unfolded" }
+Raaanasoleaa@{ shape: win-pane, label: "_Published Nov 08, 2025, 06:40 PM_
+Russian attacks target nuclear substations, kill seven, ukraine says" }
+SdroisdshazaeaUn@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:53 AM_
+Second external power line restored at russian-held zaporizhzhia nuclear plant in ukraine" }
+Zsrcctofdrhcp@{ shape: win-pane, label: "_Published Oct 01, 2025, 03:45 AM_
+Zelensky warns of ‘critical’ situation at off-grid zaporizhzhia nuclear plant" }
+Ralcooneyllke@{ shape: win-pane, label: "_Published Oct 02, 2025, 03:39 AM_
+Russian shelling cuts power to defunct chernobyl nuclear plant, ukraine says" }
+CpsartosUnly@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:15 PM_
+Corruption scandal, court battles pose test for ukraine’s zelensky" }
+UnpCeiaronhwmen@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:51 PM_
+Ukraine suspends cabinet minister as corruption scandal shakes wartime government" }
+CZslufetarc@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:54 AM_
+Close zelensky ally accused of orchestrating major graft scheme" }
+Zsvossssrrsgai@{ shape: win-pane, label: "_Published Jul 31, 2025, 10:39 PM_
+Zelensky, moving to defuse crisis, restores power of ukraine’s anti-graft agencies" }
+UnasnaRaa@{ shape: win-pane, label: "_Published Nov 09, 2025, 08:55 PM_
+Ukraine scrambles for energy after russian attacks" }
+Unnimruieusnoos@{ shape: win-pane, label: "_Published Nov 09, 2025, 01:25 PM_
+Ukraine drone strike temporarily cuts utilities in russia’s voronezh, governor says" }
+SdroisdshazaeaUn@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:53 AM_
+Second external power line restored at russian-held zaporizhzhia nuclear plant in ukraine" }
 
-Meekenanhcoa:::txtsize --> Uneoangtlad:::txtsize
-Uneoangtlad:::txtsize --> Unndoseienpvg:::txtsize
-Unndoseienpvg:::txtsize --> Zsysieisitit:::txtsize
-Unndoseienpvg:::txtsize --> Woiaamiesics:::txtsize
-Uneoangtlad:::txtsize --> Woiaamiesics:::txtsize
-Woiaamiesics:::txtsize --> UnlyRanrefes:::txtsize
-Woiaamiesics:::txtsize --> Zsysieisitit:::txtsize
-Meekenanhcoa:::txtsize --> Uneoangtlad:::txtsize
-Uneoangtlad:::txtsize --> Unndoseienpvg:::txtsize
-Unndoseienpvg:::txtsize --> Zsysieisitit:::txtsize
-Unndoseienpvg:::txtsize --> Woiaamiesics:::txtsize
-Uneoangtlad:::txtsize --> Woiaamiesics:::txtsize
-Woiaamiesics:::txtsize --> UnlyRanrefes:::txtsize
-Woiaamiesics:::txtsize --> Zsysieisitit:::txtsize
+ZsnnoeaarUn:::txtsize --> UnasnaRaa:::txtsize
+UnasnaRaa:::txtsize --> Unnimruieusnoos:::txtsize
+Unnimruieusnoos:::txtsize --> Tiwitnifd:::txtsize
+Unnimruieusnoos:::txtsize --> Raaanasoleaa:::txtsize
+UnasnaRaa:::txtsize --> SdroisdshazaeaUn:::txtsize
+SdroisdshazaeaUn:::txtsize --> Zsrcctofdrhcp:::txtsize
+SdroisdshazaeaUn:::txtsize --> Ralcooneyllke:::txtsize
+ZsnnoeaarUn:::txtsize --> CpsartosUnly:::txtsize
+CpsartosUnly:::txtsize --> UnpCeiaronhwmen:::txtsize
+UnpCeiaronhwmen:::txtsize --> CZslufetarc:::txtsize
+UnpCeiaronhwmen:::txtsize --> Zsvossssrrsgai:::txtsize
+CpsartosUnly:::txtsize --> UnasnaRaa:::txtsize
+UnasnaRaa:::txtsize --> Unnimruieusnoos:::txtsize
+UnasnaRaa:::txtsize --> SdroisdshazaeaUn:::txtsize
 
-Eaieriounttcwfke@{ shape: win-pane, label: "_Published Nov 13, 2025, 11:26 PM_
-Eu finance ministers agree using frozen russian assets most effective way to fund ukraine" }
-Twtsalorilbavrw@{ shape: win-pane, label: "_Published Nov 12, 2025, 03:00 PM_
-The eu wants to raise financial support for ukraine. will member states ever agree how?" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
-Explosions heard in ukraine capital kyiv, other cities" }
-OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
-Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
-Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
-Belgium says eu states must share risk to use frozen russian assets for ukraine" }
-Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
-Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
-Eoufnisoker@{ shape: win-pane, label: "_Published Aug 31, 2025, 12:28 AM_
-Eu to work on using frozen russian assets to aid ukraine after war" }
-Rasptlfnttss@{ shape: win-pane, label: "_Published Sep 15, 2025, 04:05 PM_
-Russia warns europe that it will go after any state that takes its assets" }
-Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
-Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
-Eoufnisoker@{ shape: win-pane, label: "_Published Aug 31, 2025, 12:28 AM_
-Eu to work on using frozen russian assets to aid ukraine after war" }
-Rasptlfnttss@{ shape: win-pane, label: "_Published Sep 15, 2025, 04:05 PM_
-Russia warns europe that it will go after any state that takes its assets" }
+Gnlashrelyi@{ shape: win-pane, label: "_Published Nov 14, 2025, 02:27 AM_
+Germany’s ruling parties reach compromise on military service" }
+Gnmdoabsody@{ shape: win-pane, label: "_Published Sep 11, 2025, 10:58 PM_
+Germany’s army needs to more than double in size, commander says" }
+LaaatprhoetsRaa@{ shape: win-pane, label: "_Published Sep 11, 2025, 11:18 PM_
+Lithuania, latvia, and estonia prepare push to stop us security cuts amid russia threat" }
+PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
+Poland shoots down drones, the first nato member to open fire during ukraine war" }
+Raserkcioten@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:37 PM_
+Russian air strike in ukraine kills 23 civilians collecting pensions" }
+PdiotnlioaM@{ shape: win-pane, label: "_Published Sep 10, 2025, 06:02 PM_
+Poland is at its closest to open conflict since world war ii, pm says" }
+PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
+Poland shoots down drones, the first nato member to open fire during ukraine war" }
+PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
+Poland shoots down drones, the first nato member to open fire during ukraine war" }
+Gnmdoabsody@{ shape: win-pane, label: "_Published Sep 11, 2025, 10:58 PM_
+Germany’s army needs to more than double in size, commander says" }
+LaaatprhoetsRaa@{ shape: win-pane, label: "_Published Sep 11, 2025, 11:18 PM_
+Lithuania, latvia, and estonia prepare push to stop us security cuts amid russia threat" }
+PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
+Poland shoots down drones, the first nato member to open fire during ukraine war" }
+Raserkcioten@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:37 PM_
+Russian air strike in ukraine kills 23 civilians collecting pensions" }
+PdiotnlioaM@{ shape: win-pane, label: "_Published Sep 10, 2025, 06:02 PM_
+Poland is at its closest to open conflict since world war ii, pm says" }
+PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
+Poland shoots down drones, the first nato member to open fire during ukraine war" }
+PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
+Poland shoots down drones, the first nato member to open fire during ukraine war" }
 
-Eaieriounttcwfke:::txtsize --> Twtsalorilbavrw:::txtsize
-Twtsalorilbavrw:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
-DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
-Eaieriounttcwfke:::txtsize --> Busauasszsaske:::txtsize
-Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
-Elrgessfakeoau:::txtsize --> Eoufnisoker:::txtsize
-Elrgessfakeoau:::txtsize --> Rasptlfnttss:::txtsize
-Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
-Elrgessfakeoau:::txtsize --> Eoufnisoker:::txtsize
-Elrgessfakeoau:::txtsize --> Rasptlfnttss:::txtsize
+Gnlashrelyi:::txtsize --> Gnmdoabsody:::txtsize
+Gnmdoabsody:::txtsize --> LaaatprhoetsRaa:::txtsize
+LaaatprhoetsRaa:::txtsize --> PdtnefNetndgir:::txtsize
+LaaatprhoetsRaa:::txtsize --> Raserkcioten:::txtsize
+Gnmdoabsody:::txtsize --> PdiotnlioaM:::txtsize
+PdiotnlioaM:::txtsize --> PdtnefNetndgir:::txtsize
+PdiotnlioaM:::txtsize --> PdtnefNetndgir:::txtsize
+Gnlashrelyi:::txtsize --> Gnmdoabsody:::txtsize
+Gnmdoabsody:::txtsize --> LaaatprhoetsRaa:::txtsize
+LaaatprhoetsRaa:::txtsize --> PdtnefNetndgir:::txtsize
+LaaatprhoetsRaa:::txtsize --> Raserkcioten:::txtsize
+Gnmdoabsody:::txtsize --> PdiotnlioaM:::txtsize
+PdiotnlioaM:::txtsize --> PdtnefNetndgir:::txtsize
+PdiotnlioaM:::txtsize --> PdtnefNetndgir:::txtsize
 
-PlncsetllrnG@{ shape: win-pane, label: "_Published Nov 13, 2025, 11:23 PM_
-Pro-palestinian activists use lift to scale berlin’s brandenburg gate" }
-Gnahrieohlhci@{ shape: win-pane, label: "_Published Oct 24, 2025, 01:32 PM_
-German company behind truck-lift used in louvre heist launches ad campaign" }
-LeePOhretmu@{ shape: win-pane, label: "_Published Oct 20, 2025, 01:01 AM_
-Louvre robbery in paris: other high-profile heists from museums" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
-Paris’ louvre museum robbery: what jewels did the thieves steal?" }
-FeiDmaLet@{ shape: win-pane, label: "_Published Oct 24, 2025, 08:11 AM_
-France examining dna samples after louvre heist" }
-PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
-Paris’ louvre museum robbery: what jewels did the thieves steal?" }
-LefeVfeei@{ shape: win-pane, label: "_Published Oct 23, 2025, 12:47 AM_
-Louvre chief blames cctv gaps for $130m jewellery heist" }
+Cbeuednxgh@{ shape: win-pane, label: "_Published Nov 14, 2025, 12:59 AM_
+Colombia does about-face on ending intel exchange with us" }
+Uildcisiiig@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:20 PM_
+Us strikes alleged drug-carrying vessels in pacific, killing six" }
+Nseldolrytc@{ shape: win-pane, label: "_Published Nov 07, 2025, 12:27 PM_
+New us strike on alleged drug boat kills three, says pentagon chief" }
+Eirdyroersl@{ shape: win-pane, label: "_Published Oct 31, 2025, 06:16 PM_
+Explainer: are the deadly us strikes on alleged drug vessels legal?​" }
+Nselgufexeeov@{ shape: win-pane, label: "_Published Oct 29, 2025, 01:00 AM_
+New us strikes kill 14 alleged drug traffickers, mexico leads rescue of survivor" }
+VulClaaispbr@{ shape: win-pane, label: "_Published Oct 28, 2025, 01:03 PM_
+Venezuela claims cia ‘false flag’ attack foiled, as us deploys bombers" }
+Ustmrvllaeraasnt@{ shape: win-pane, label: "_Published Oct 20, 2025, 08:20 AM_
+Us says it hit colombian rebel vessel as colombia condemns trump’s accusations against petro" }
+Tcftocndra@{ shape: win-pane, label: "_Published Oct 19, 2025, 09:41 PM_
+Trump cuts off aid to colombia, calling leader a drug dealer" }
+UeCbreiemaPtne@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:23 AM_
+Us to revoke colombian president’s visa over comments at pro-palestinian gathering" }
+CbretcUiittlfiv@{ shape: win-pane, label: "_Published Sep 28, 2025, 09:18 AM_
+Colombian president petro accuses us of violating international law after visa revoked" }
+CbretcUiittlfiv@{ shape: win-pane, label: "_Published Sep 28, 2025, 09:18 AM_
+Colombian president petro accuses us of violating international law after visa revoked" }
+UeCbreiemaPtne@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:23 AM_
+Us to revoke colombian president’s visa over comments at pro-palestinian gathering" }
+Aoienempsiroins@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:00 AM_
+At un, colombian president urges ‘criminal process’ against trump for strikes on boats" }
 
-PlncsetllrnG:::txtsize --> Gnahrieohlhci:::txtsize
-Gnahrieohlhci:::txtsize --> LeePOhretmu:::txtsize
-LeePOhretmu:::txtsize --> Ptineluiisey:::txtsize
-LeePOhretmu:::txtsize --> PLeubhwitea:::txtsize
-Gnahrieohlhci:::txtsize --> FeiDmaLet:::txtsize
-FeiDmaLet:::txtsize --> PLeubhwitea:::txtsize
-FeiDmaLet:::txtsize --> LefeVfeei:::txtsize
+Cbeuednxgh:::txtsize --> Uildcisiiig:::txtsize
+Uildcisiiig:::txtsize --> Nseldolrytc:::txtsize
+Uildcisiiig:::txtsize --> Eirdyroersl:::txtsize
+Eirdyroersl:::txtsize --> Nselgufexeeov:::txtsize
+Eirdyroersl:::txtsize --> VulClaaispbr:::txtsize
+Cbeuednxgh:::txtsize --> Ustmrvllaeraasnt:::txtsize
+Ustmrvllaeraasnt:::txtsize --> Tcftocndra:::txtsize
+Tcftocndra:::txtsize --> UeCbreiemaPtne:::txtsize
+Tcftocndra:::txtsize --> CbretcUiittlfiv:::txtsize
+Ustmrvllaeraasnt:::txtsize --> CbretcUiittlfiv:::txtsize
+CbretcUiittlfiv:::txtsize --> UeCbreiemaPtne:::txtsize
+CbretcUiittlfiv:::txtsize --> Aoienempsiroins:::txtsize
 
 ```
-<i>Last updated: 2025-11-14 00:00:55.867845 (GMT+8)</i>
+<i>Last updated: 2025-11-14 04:00:24.475922 (GMT+8)</i>
 <!-- END -->
