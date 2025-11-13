@@ -16,135 +16,117 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Blreeucehgses@{ shape: win-pane, label: "_Published Nov 13, 2025, 02:01 AM_
-Brazil’s cop30 resumes after security clashes with indigenous protesters" }
-UleflOmahoa@{ shape: win-pane, label: "_Published Nov 01, 2025, 01:46 AM_
-Us will not send officials to cop30 climate talks, white house says" }
-Ygtlpcarnhp@{ shape: win-pane, label: "_Published Sep 24, 2025, 06:51 AM_
-‘you’re going to hell’: trump attacks un and europe in scathing speech" }
-TtUtaastogl@{ shape: win-pane, label: "_Published Sep 24, 2025, 12:17 AM_
-Trump tells un that climate change is ‘greatest con job’ globally" }
-Twrrriamg@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:36 AM_
-Trump withdraws from paris climate agreement, again" }
-Feuiea@{ shape: win-pane, label: "_Published Feb 24, 2023, 05:54 PM_
-Feb 24, 2022: the day russia invaded ukraine" }
-Psftwtstehsi@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:26 AM_
-Protesters force their way into cop30 summit venue, clash with security" }
-FhehzdoabtddNamO@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:16 AM_
-From the andes to the amazon, indigenous leaders bring their demands to un climate summit cop30" }
-EihtPamndte@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:15 PM_
-Explainer: what is the cop30 climate summit, and why does it matter?" }
-Taentofinivtlei@{ shape: win-pane, label: "_Published Nov 09, 2025, 11:30 PM_
-Taliban government protests over afghanistan not being invited to un climate summit cop30" }
-AoiznBuAndse@{ shape: win-pane, label: "_Published Nov 11, 2025, 09:55 AM_
-As cop30 opens in brazilian city belem, urban amazon residents swelter" }
-EihtPamndte@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:15 PM_
-Explainer: what is the cop30 climate summit, and why does it matter?" }
-FhehzdoabtddNamO@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:16 AM_
-From the andes to the amazon, indigenous leaders bring their demands to un climate summit cop30" }
+Usepringnsohr@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:48 AM_
+Us house takes step toward ending longest government shutdown in history" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
+Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
+Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
+Takeaways from us election night 2025" }
+Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
+Cuomo to stay in new york mayoral race despite losing democratic primary" }
+MnCankgnsodty@{ shape: win-pane, label: "_Published Jun 27, 2025, 06:16 PM_
+Mamdani’s nyc primary win sparks surge in anti-muslim posts, advocates say" }
+HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
+‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
+Jetisdntigntvem@{ shape: win-pane, label: "_Published Jul 08, 2025, 04:02 AM_
+Jeffrey epstein died by suicide, has no sex trafficking ‘client list’: us government memo" }
+Jetcriiebceiy@{ shape: win-pane, label: "_Published Apr 26, 2025, 12:15 PM_
+Jeffrey epstein accuser virginia giuffre dies by suicide, her family says" }
+MesciuiEie@{ shape: win-pane, label: "_Published Jun 07, 2025, 09:45 PM_
+Musk deletes post claiming trump is ‘in the epstein files’" }
+Tspnerifag@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:45 AM_
+Trump says epstein ‘stole’ underage victim from mar-a-lago spa" }
+WodoumtnMov@{ shape: win-pane, label: "_Published Jul 19, 2025, 06:16 AM_
+What you need to know about trump, epstein and the maga controversy" }
+Tseentnxneyes@{ shape: win-pane, label: "_Published Jul 29, 2025, 02:33 AM_
+Trump says he turned down invitation to sex offender jeffrey epstein’s island" }
 
-Blreeucehgses:::txtsize --> UleflOmahoa:::txtsize
-UleflOmahoa:::txtsize --> Ygtlpcarnhp:::txtsize
-Ygtlpcarnhp:::txtsize --> TtUtaastogl:::txtsize
-UleflOmahoa:::txtsize --> Twrrriamg:::txtsize
-Twrrriamg:::txtsize --> Feuiea:::txtsize
-Blreeucehgses:::txtsize --> Psftwtstehsi:::txtsize
-Psftwtstehsi:::txtsize --> FhehzdoabtddNamO:::txtsize
-FhehzdoabtddNamO:::txtsize --> EihtPamndte:::txtsize
-FhehzdoabtddNamO:::txtsize --> Taentofinivtlei:::txtsize
-Psftwtstehsi:::txtsize --> AoiznBuAndse:::txtsize
-AoiznBuAndse:::txtsize --> EihtPamndte:::txtsize
-AoiznBuAndse:::txtsize --> FhehzdoabtddNamO:::txtsize
+Usepringnsohr:::txtsize --> Drwialosdp:::txtsize
+Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
+YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
+YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
+Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
+Ctywmaeiseary:::txtsize --> MnCankgnsodty:::txtsize
+Usepringnsohr:::txtsize --> HwtipngesTkfot:::txtsize
+HwtipngesTkfot:::txtsize --> Jetisdntigntvem:::txtsize
+Jetisdntigntvem:::txtsize --> Jetcriiebceiy:::txtsize
+Jetisdntigntvem:::txtsize --> MesciuiEie:::txtsize
+HwtipngesTkfot:::txtsize --> Tspnerifag:::txtsize
+Tspnerifag:::txtsize --> WodoumtnMov:::txtsize
+Tspnerifag:::txtsize --> Tseentnxneyes:::txtsize
 
-Ksvitlfirike@{ shape: win-pane, label: "_Published Nov 13, 2025, 01:31 AM_
-Kenya says over 200 of its nationals are fighting for russia in ukraine war" }
-Unstfnmnoiggu@{ shape: win-pane, label: "_Published Nov 07, 2025, 10:50 PM_
-Ukraine says more than 1,400 africans from dozens of countries fighting for russia" }
-Isteficupefirike@{ shape: win-pane, label: "_Published Mar 08, 2024, 05:51 PM_
-India says it busted trafficking racket duping people into fighting for russia in ukraine" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-InlUneeiosms@{ shape: win-pane, label: "_Published Mar 07, 2024, 11:56 PM_
-Indians killed in ukraine were forced to fight for russia, families say" }
-Raketfsoirggeskk@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:11 PM_
-Russia and ukraine says their forces are locked in fierce fighting in the ruins of pokrovsk" }
-EedgolranowuS@{ shape: win-pane, label: "_Published Nov 05, 2025, 12:33 AM_
-Europe could struggle to mobilise troops, arms in case of war with russia: study" }
-Unerpfsroaeks@{ shape: win-pane, label: "_Published Nov 04, 2025, 01:57 AM_
-Ukraine to set up arms export offices in berlin, copenhagen, zelensky says" }
-Unfoantgge@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:46 PM_
-Ukrainians flee southeastern front as fighting worsens" }
-Ksvitlfirike@{ shape: win-pane, label: "_Published Nov 13, 2025, 01:31 AM_
-Kenya says over 200 of its nationals are fighting for russia in ukraine war" }
-Unstfnmnoiggu@{ shape: win-pane, label: "_Published Nov 07, 2025, 10:50 PM_
-Ukraine says more than 1,400 africans from dozens of countries fighting for russia" }
-Unfoantgge@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:46 PM_
-Ukrainians flee southeastern front as fighting worsens" }
-Twtsalorilbavrw@{ shape: win-pane, label: "_Published Nov 12, 2025, 03:00 PM_
-The eu wants to raise financial support for ukraine. will member states ever agree how?" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
+IlzUruli@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:34 AM_
+Israel quizzed at un over torture allegations" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
+Singapore strongly condemns terror attacks on israel, calls for end to violence" }
+Easiaaidnedeg@{ shape: win-pane, label: "_Published Feb 11, 2025, 01:28 AM_
+‘emaciated’ israeli hostages, palestinian detainees ‘deeply distressing’: un" }
+Ilshedoooia@{ shape: win-pane, label: "_Published Jan 16, 2025, 12:59 AM_
+Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
+Pezdsyeasarl@{ shape: win-pane, label: "_Published Jan 16, 2025, 03:09 AM_
+People in gaza shed tears of joy, disbelief at news of ceasefire deal" }
+Ilamslorpdiaac@{ shape: win-pane, label: "_Published Jan 16, 2025, 05:54 AM_
+Israel hostage families on roller coaster of hope and despair as gaza deal reached" }
+Hstseirhgrgcfnu@{ shape: win-pane, label: "_Published Feb 11, 2025, 01:23 AM_
+Hamas says it will stop releasing israeli hostages, throwing gaza ceasefire into doubt" }
+Tsottoeinaa@{ shape: win-pane, label: "_Published Feb 10, 2025, 11:47 PM_
+Trump says no right of return for palestinians under gaza plan" }
 
-Ksvitlfirike:::txtsize --> Unstfnmnoiggu:::txtsize
-Unstfnmnoiggu:::txtsize --> Isteficupefirike:::txtsize
-Isteficupefirike:::txtsize --> DsruasvUn:::txtsize
-Isteficupefirike:::txtsize --> InlUneeiosms:::txtsize
-Unstfnmnoiggu:::txtsize --> Raketfsoirggeskk:::txtsize
-Raketfsoirggeskk:::txtsize --> EedgolranowuS:::txtsize
-Raketfsoirggeskk:::txtsize --> Unerpfsroaeks:::txtsize
-Ksvitlfirike:::txtsize --> Unfoantgge:::txtsize
-Unfoantgge:::txtsize --> Ksvitlfirike:::txtsize
-Ksvitlfirike:::txtsize --> Unstfnmnoiggu:::txtsize
-Ksvitlfirike:::txtsize --> Unfoantgge:::txtsize
-Unfoantgge:::txtsize --> Twtsalorilbavrw:::txtsize
-Twtsalorilbavrw:::txtsize --> DsruasvUn:::txtsize
+IlzUruli:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+WzptIleint:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
+Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
+IlzUruli:::txtsize --> Easiaaidnedeg:::txtsize
+Easiaaidnedeg:::txtsize --> Ilshedoooia:::txtsize
+Ilshedoooia:::txtsize --> Pezdsyeasarl:::txtsize
+Ilshedoooia:::txtsize --> Ilamslorpdiaac:::txtsize
+Easiaaidnedeg:::txtsize --> Hstseirhgrgcfnu:::txtsize
+Hstseirhgrgcfnu:::txtsize --> Tsottoeinaa:::txtsize
 
-Unisgrrund@{ shape: win-pane, label: "_Published Nov 13, 2025, 01:13 AM_
-Ukraine ministers resign over major corruption scandals" }
-UnasnaRaa@{ shape: win-pane, label: "_Published Nov 09, 2025, 08:55 PM_
-Ukraine scrambles for energy after russian attacks" }
-Unnimruieusnoos@{ shape: win-pane, label: "_Published Nov 09, 2025, 01:25 PM_
-Ukraine drone strike temporarily cuts utilities in russia’s voronezh, governor says" }
-Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
-Timeline: how russia's attack on ukraine unfolded" }
-Raaanasoleaa@{ shape: win-pane, label: "_Published Nov 08, 2025, 06:40 PM_
-Russian attacks target nuclear substations, kill seven, ukraine says" }
-SdroisdshazaeaUn@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:53 AM_
-Second external power line restored at russian-held zaporizhzhia nuclear plant in ukraine" }
-Zsrcctofdrhcp@{ shape: win-pane, label: "_Published Oct 01, 2025, 03:45 AM_
-Zelensky warns of ‘critical’ situation at off-grid zaporizhzhia nuclear plant" }
-Ralcooneyllke@{ shape: win-pane, label: "_Published Oct 02, 2025, 03:39 AM_
-Russian shelling cuts power to defunct chernobyl nuclear plant, ukraine says" }
-UnpCeiaronhwmen@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:51 PM_
-Ukraine suspends cabinet minister as corruption scandal shakes wartime government" }
-CZslufetarc@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:54 AM_
-Close zelensky ally accused of orchestrating major graft scheme" }
-Unitcdrcsundst@{ shape: win-pane, label: "_Published Nov 11, 2025, 03:20 AM_
-Ukraine anti-graft agency raids energy sector as corruption stand-off escalates" }
-UnyIoieera@{ shape: win-pane, label: "_Published Sep 03, 2023, 11:00 AM_
-Ukrainian tycoon ihor kolomoisky detained in fraud case" }
-Zsvossssrrsgai@{ shape: win-pane, label: "_Published Jul 31, 2025, 10:39 PM_
-Zelensky, moving to defuse crisis, restores power of ukraine’s anti-graft agencies" }
-Unlyoiaeiddoiune@{ shape: win-pane, label: "_Published Jul 24, 2025, 09:39 PM_
-Ukraine’s zelensky approves bill draft ‘preserving independence’ of anti-corruption bodies" }
-Raiilpeirond@{ shape: win-pane, label: "_Published Jul 31, 2025, 08:39 PM_
-Russian strikes kill at least 16 people in kyiv; 6-year-old boy among dead" }
+Usiefoar@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:25 AM_
+Us presses final penny after more than 230 years" }
+Danmaneooootwm@{ shape: win-pane, label: "_Published Feb 20, 2024, 06:25 PM_
+‘dad’s last money to me’: malaysian man seeks former owner of rm50 note withdrawn from atm" }
+Mgyywrvnweegb@{ shape: win-pane, label: "_Published Sep 12, 2023, 05:05 PM_
+Making ‘money’: malaysian woman receives hand-drawn notes in wedding hongbao" }
+RehMsraiayi@{ shape: win-pane, label: "_Published Jul 26, 2023, 01:55 PM_
+Reduced to shreds: malaysian grandma’s $8,700 savings eaten by termites" }
+RehMsraiayi@{ shape: win-pane, label: "_Published Jul 26, 2023, 01:55 PM_
+Reduced to shreds: malaysian grandma’s $8,700 savings eaten by termites" }
+Bpelaymornnmu@{ shape: win-pane, label: "_Published Jul 12, 2023, 08:15 AM_
+Blind people in malaysia hit by scammers, lose more than $430k to ‘investment fund’" }
+CoJrtocpeays@{ shape: win-pane, label: "_Published May 11, 2025, 04:20 PM_
+Cash-loving japan reluctant to switch to app-based salary payments" }
+Bipabnnee@{ shape: win-pane, label: "_Published Nov 08, 2022, 11:52 AM_
+Breaking japan’s cash habit by nudging wage earners" }
+Maaefyaeepcnoep@{ shape: win-pane, label: "_Published Nov 02, 2022, 09:24 PM_
+More safeguards needed for ‘buy now, pay later’ scheme to protect younger consumers: experts" }
 
-Unisgrrund:::txtsize --> UnasnaRaa:::txtsize
-UnasnaRaa:::txtsize --> Unnimruieusnoos:::txtsize
-Unnimruieusnoos:::txtsize --> Tiwitnifd:::txtsize
-Unnimruieusnoos:::txtsize --> Raaanasoleaa:::txtsize
-UnasnaRaa:::txtsize --> SdroisdshazaeaUn:::txtsize
-SdroisdshazaeaUn:::txtsize --> Zsrcctofdrhcp:::txtsize
-SdroisdshazaeaUn:::txtsize --> Ralcooneyllke:::txtsize
-Unisgrrund:::txtsize --> UnpCeiaronhwmen:::txtsize
-UnpCeiaronhwmen:::txtsize --> CZslufetarc:::txtsize
-CZslufetarc:::txtsize --> Unitcdrcsundst:::txtsize
-CZslufetarc:::txtsize --> UnyIoieera:::txtsize
-UnpCeiaronhwmen:::txtsize --> Zsvossssrrsgai:::txtsize
-Zsvossssrrsgai:::txtsize --> Unlyoiaeiddoiune:::txtsize
-Zsvossssrrsgai:::txtsize --> Raiilpeirond:::txtsize
+Usiefoar:::txtsize --> Danmaneooootwm:::txtsize
+Danmaneooootwm:::txtsize --> Mgyywrvnweegb:::txtsize
+Mgyywrvnweegb:::txtsize --> RehMsraiayi:::txtsize
+Danmaneooootwm:::txtsize --> RehMsraiayi:::txtsize
+RehMsraiayi:::txtsize --> Bpelaymornnmu:::txtsize
+Usiefoar:::txtsize --> CoJrtocpeays:::txtsize
+CoJrtocpeays:::txtsize --> Bipabnnee:::txtsize
+Bipabnnee:::txtsize --> Maaefyaeepcnoep:::txtsize
 
 ```
-<i>Last updated: 2025-11-13 04:00:49.787660 (GMT+8)</i>
+<i>Last updated: 2025-11-13 08:01:13.971273 (GMT+8)</i>
 <!-- END -->
