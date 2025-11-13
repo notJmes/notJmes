@@ -16,54 +16,61 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Trusotasv@{ shape: win-pane, label: "_Published Nov 13, 2025, 11:55 AM_
-Trump ramps up pressure on gop to thwart epstein vote" }
-TwlssfWtJao@{ shape: win-pane, label: "_Published Jul 24, 2025, 06:08 AM_
-Trump was told he is in epstein files, wall street journal reports" }
-WodoumtnMov@{ shape: win-pane, label: "_Published Jul 19, 2025, 06:16 AM_
-What you need to know about trump, epstein and the maga controversy" }
-Tseiqigrscrks@{ shape: win-pane, label: "_Published Jul 17, 2025, 03:35 AM_
-Trump says republicans questioning jeffrey epstein case are ‘weaklings’" }
-TsarolEioel@{ shape: win-pane, label: "_Published Jul 19, 2025, 05:39 AM_
-Trump sues wall street journal over epstein report, seeks $12.8 billion" }
-Eiehdoeitrmeal@{ shape: win-pane, label: "_Published Jul 23, 2025, 07:08 AM_
-Epstein files fight leads us house republicans to start summer break a day early" }
-Utektsaxtaru@{ shape: win-pane, label: "_Published Jul 22, 2025, 11:45 PM_
-Us justice dept asks epstein associate maxwell to speak to prosecutors" }
-RlSenetefsdosnmdc@{ shape: win-pane, label: "_Published Jul 22, 2025, 08:20 AM_
-Republican speaker johnson retreats on demand for epstein disclosures, saying trump needs ‘space’" }
-Woasfremaiueid@{ shape: win-pane, label: "_Published Nov 13, 2025, 06:03 AM_
-What to know about sex offender epstein’s e-mails alleging trump knew of his conduct" }
-HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
-‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
-Jetisdntigntvem@{ shape: win-pane, label: "_Published Jul 08, 2025, 04:02 AM_
-Jeffrey epstein died by suicide, has no sex trafficking ‘client list’: us government memo" }
-Tspnerifag@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:45 AM_
-Trump says epstein ‘stole’ underage victim from mar-a-lago spa" }
-Tsesyrnaierss@{ shape: win-pane, label: "_Published Nov 03, 2025, 09:00 AM_
-Trump says he feels ‘badly’ for britain’s royal family over andrew-epstein saga" }
-BilprAwsipinr@{ shape: win-pane, label: "_Published Nov 02, 2025, 08:16 PM_
-Britain will strip disgraced andrew of last military position, minister says" }
-Tanrefeoirls@{ shape: win-pane, label: "_Published Sep 15, 2025, 10:20 AM_
-Trump and king charles: heads of state with opposing personalities" }
+cerfietepeTnv@{ shape: win-pane, label: "_Published Nov 13, 2025, 01:45 PM_
+3 charged over stuffed animal heist at amusement park seen in tom hanks movie" }
+Scseloitluau@{ shape: win-pane, label: "_Published Nov 11, 2025, 10:16 PM_
+Six ancient statues stolen from syria’s national museum of damascus" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
+Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
+Leulytsisturs@{ shape: win-pane, label: "_Published Nov 06, 2025, 05:30 PM_
+Louvre museum will need years to fix security issues, state auditor finds" }
+Letotmsrsioty@{ shape: win-pane, label: "_Published Nov 02, 2025, 09:46 PM_
+Louvre heist work of petty criminals, not organised crime, prosecutor says" }
 
-Trusotasv:::txtsize --> TwlssfWtJao:::txtsize
-TwlssfWtJao:::txtsize --> WodoumtnMov:::txtsize
-WodoumtnMov:::txtsize --> Tseiqigrscrks:::txtsize
-WodoumtnMov:::txtsize --> TsarolEioel:::txtsize
-TwlssfWtJao:::txtsize --> Eiehdoeitrmeal:::txtsize
-Eiehdoeitrmeal:::txtsize --> Utektsaxtaru:::txtsize
-Eiehdoeitrmeal:::txtsize --> RlSenetefsdosnmdc:::txtsize
-Trusotasv:::txtsize --> Woasfremaiueid:::txtsize
-Woasfremaiueid:::txtsize --> HwtipngesTkfot:::txtsize
-HwtipngesTkfot:::txtsize --> Jetisdntigntvem:::txtsize
-HwtipngesTkfot:::txtsize --> Tspnerifag:::txtsize
-Woasfremaiueid:::txtsize --> Tsesyrnaierss:::txtsize
-Tsesyrnaierss:::txtsize --> BilprAwsipinr:::txtsize
-Tsesyrnaierss:::txtsize --> Tanrefeoirls:::txtsize
+cerfietepeTnv:::txtsize --> Scseloitluau:::txtsize
+Scseloitluau:::txtsize --> SnltiARahtoy:::txtsize
+SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
+Scseloitluau:::txtsize --> Leulytsisturs:::txtsize
+Leulytsisturs:::txtsize --> Letotmsrsioty:::txtsize
 
-SonloncfoUen@{ shape: win-pane, label: "_Published Nov 13, 2025, 10:53 AM_
-Shutdown’s end will kick off long process of rebooting us government" }
+Raarfofndt@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:13 PM_
+Russian humanoid robot falls on its face in hyped debut" }
+FegkangocweefmCur@{ shape: win-pane, label: "_Published Aug 29, 2025, 12:31 PM_
+From serving drinks to carrying luggage: robotic dogs’ warm welcome wows freshmen at china university" }
+Cdyoeieulh@{ shape: win-pane, label: "_Published Aug 12, 2025, 04:11 PM_
+China deploys robot antelope in tibet to surveil real herds" }
+Cidtroedde@{ shape: win-pane, label: "_Published Nov 07, 2023, 04:10 PM_
+China is owed more than $1.35 trillion in belt and road debt: report" }
+Hobritdpana@{ shape: win-pane, label: "_Published Aug 07, 2025, 10:46 AM_
+Humanoid robot enrolls in doctoral drama programme in china" }
+Jstprrsnvslbhg@{ shape: win-pane, label: "_Published Nov 06, 2025, 02:00 PM_
+Japan’s narita airport trials robot selling souvenirs to solve labour shortages" }
+Rskvdnrlsiy@{ shape: win-pane, label: "_Published Sep 10, 2025, 01:30 PM_
+Robots stock shelves and clean floors at 7-eleven store in tokyo" }
+FegkangocweefmCur@{ shape: win-pane, label: "_Published Aug 29, 2025, 12:31 PM_
+From serving drinks to carrying luggage: robotic dogs’ warm welcome wows freshmen at china university" }
+Tarorinnetrmd@{ shape: win-pane, label: "_Published Sep 26, 2025, 09:08 AM_
+There are more robots working in china than the rest of the world combined" }
+AbphsCsrfroere@{ shape: win-pane, label: "_Published Aug 10, 2025, 04:30 PM_
+As global supply chains shift, china’s exports of factory robots see a sharp rise" }
+Chaftteef@{ shape: win-pane, label: "_Published Apr 27, 2025, 10:00 AM_
+China has an army of robots on its side in the tariff war" }
+
+Raarfofndt:::txtsize --> FegkangocweefmCur:::txtsize
+FegkangocweefmCur:::txtsize --> Cdyoeieulh:::txtsize
+Cdyoeieulh:::txtsize --> Cidtroedde:::txtsize
+Cdyoeieulh:::txtsize --> Hobritdpana:::txtsize
+Raarfofndt:::txtsize --> Jstprrsnvslbhg:::txtsize
+Jstprrsnvslbhg:::txtsize --> Rskvdnrlsiy:::txtsize
+Rskvdnrlsiy:::txtsize --> FegkangocweefmCur:::txtsize
+Jstprrsnvslbhg:::txtsize --> Tarorinnetrmd:::txtsize
+Tarorinnetrmd:::txtsize --> AbphsCsrfroere:::txtsize
+Tarorinnetrmd:::txtsize --> Chaftteef:::txtsize
+
+Lsounenonmr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:01 PM_
+Longest us govt shutdown is over but new showdowns loom for trump" }
 Tsdootveuns@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:48 AM_
 Trump signs deal to end longest us government shutdown in history" }
 Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
@@ -78,82 +85,15 @@ Jetisdntigntvem@{ shape: win-pane, label: "_Published Jul 08, 2025, 04:02 AM_
 Jeffrey epstein died by suicide, has no sex trafficking ‘client list’: us government memo" }
 Tspnerifag@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:45 AM_
 Trump says epstein ‘stole’ underage victim from mar-a-lago spa" }
-Uelctrfnacr@{ shape: win-pane, label: "_Published Nov 13, 2025, 10:15 AM_
-Us freezes flight cuts at 6% as air traffic control absences shrink" }
-UasieveunsHorte@{ shape: win-pane, label: "_Published Nov 11, 2025, 11:01 AM_
-Us senate passes bill to end government shutdown, sends it to house of representatives" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-Uamitgegnso@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:21 AM_
-Us senate compromise sets stage for end to government shutdown" }
-Uglalnetifolhgr@{ shape: win-pane, label: "_Published Nov 10, 2025, 06:48 AM_
-Us flight delays, cancellations accelerate as air traffic controller shortages surge" }
-Ulbtefiyvendhs@{ shape: win-pane, label: "_Published Nov 09, 2025, 07:33 PM_
-Us airlines brace themselves for third day of government-mandated flight cuts" }
-Uavstfat@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:45 AM_
-Us senate advances bill to end federal shutdown" }
 
-SonloncfoUen:::txtsize --> Tsdootveuns:::txtsize
+Lsounenonmr:::txtsize --> Tsdootveuns:::txtsize
 Tsdootveuns:::txtsize --> Drwialosdp:::txtsize
 Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
 Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
 Tsdootveuns:::txtsize --> HwtipngesTkfot:::txtsize
 HwtipngesTkfot:::txtsize --> Jetisdntigntvem:::txtsize
 HwtipngesTkfot:::txtsize --> Tspnerifag:::txtsize
-SonloncfoUen:::txtsize --> Uelctrfnacr:::txtsize
-Uelctrfnacr:::txtsize --> UasieveunsHorte:::txtsize
-UasieveunsHorte:::txtsize --> YMmnoihaiYilehpea:::txtsize
-UasieveunsHorte:::txtsize --> Uamitgegnso:::txtsize
-Uelctrfnacr:::txtsize --> Uglalnetifolhgr:::txtsize
-Uglalnetifolhgr:::txtsize --> Ulbtefiyvendhs:::txtsize
-Uglalnetifolhgr:::txtsize --> Uavstfat:::txtsize
-
-Uelctrfnacr@{ shape: win-pane, label: "_Published Nov 13, 2025, 10:15 AM_
-Us freezes flight cuts at 6% as air traffic control absences shrink" }
-UasieveunsHorte@{ shape: win-pane, label: "_Published Nov 11, 2025, 11:01 AM_
-Us senate passes bill to end government shutdown, sends it to house of representatives" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
-Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
-Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
-Takeaways from us election night 2025" }
-Uamitgegnso@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:21 AM_
-Us senate compromise sets stage for end to government shutdown" }
-Uettorifodf@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:09 AM_
-Usda tells states to ‘undo’ efforts to issue full food aid benefits" }
-Uglalnetifolhgr@{ shape: win-pane, label: "_Published Nov 10, 2025, 06:48 AM_
-Us flight delays, cancellations accelerate as air traffic controller shortages surge" }
-Uglalnetifolhgr@{ shape: win-pane, label: "_Published Nov 10, 2025, 06:48 AM_
-Us flight delays, cancellations accelerate as air traffic controller shortages surge" }
-Ulbtefiyvendhs@{ shape: win-pane, label: "_Published Nov 09, 2025, 07:33 PM_
-Us airlines brace themselves for third day of government-mandated flight cuts" }
-TaitroguaSouomhw@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:35 AM_
-Trump administration orders 10% of flights cut at major us airports due to government shutdown" }
-AacofsauSsoarc@{ shape: win-pane, label: "_Published Nov 09, 2025, 07:51 AM_
-Air traffic control staffing shortages due to us govt shutdown lead to travel chaos" }
-Uavstfat@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:45 AM_
-Us senate advances bill to end federal shutdown" }
-Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
-Us government shutdown becomes longest in history" }
-Uglalnetifolhgr@{ shape: win-pane, label: "_Published Nov 10, 2025, 06:48 AM_
-Us flight delays, cancellations accelerate as air traffic controller shortages surge" }
-
-Uelctrfnacr:::txtsize --> UasieveunsHorte:::txtsize
-UasieveunsHorte:::txtsize --> YMmnoihaiYilehpea:::txtsize
-YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
-YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
-UasieveunsHorte:::txtsize --> Uamitgegnso:::txtsize
-Uamitgegnso:::txtsize --> Uettorifodf:::txtsize
-Uamitgegnso:::txtsize --> Uglalnetifolhgr:::txtsize
-Uelctrfnacr:::txtsize --> Uglalnetifolhgr:::txtsize
-Uglalnetifolhgr:::txtsize --> Ulbtefiyvendhs:::txtsize
-Ulbtefiyvendhs:::txtsize --> TaitroguaSouomhw:::txtsize
-Ulbtefiyvendhs:::txtsize --> AacofsauSsoarc:::txtsize
-Uglalnetifolhgr:::txtsize --> Uavstfat:::txtsize
-Uavstfat:::txtsize --> Uentbegno:::txtsize
-Uavstfat:::txtsize --> Uglalnetifolhgr:::txtsize
 
 ```
-<i>Last updated: 2025-11-13 12:00:37.737240 (GMT+8)</i>
+<i>Last updated: 2025-11-13 16:00:59.658454 (GMT+8)</i>
 <!-- END -->
