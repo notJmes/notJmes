@@ -16,6 +16,46 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Frcstopasscvoenh@{ shape: win-pane, label: "_Published Nov 13, 2025, 06:11 PM_
+Former french president sarkozy’s appeal against conspiracy conviction to begin in march" }
+Femenkamerepne@{ shape: win-pane, label: "_Published Nov 10, 2025, 01:10 PM_
+France’s former president sarkozy back home after court frees him pending appeal" }
+Frcstoneeniya@{ shape: win-pane, label: "_Published Sep 25, 2025, 04:42 PM_
+Former french president sarkozy sentenced to 5 years in jail in libya trial" }
+Fhenkoloa@{ shape: win-pane, label: "_Published Feb 08, 2025, 12:19 AM_
+French ex-president sarkozy to get electronic tag" }
+Fehopsootot@{ shape: win-pane, label: "_Published Dec 18, 2024, 09:50 PM_
+France's highest court upholds sarkozy's corruption conviction" }
+FrtCBceayarnc@{ shape: win-pane, label: "_Published Jul 10, 2024, 05:02 AM_
+Former first lady carla bruni charged in sarkozy campaign probe in france" }
+Enrdlnmfsectmnec@{ shape: win-pane, label: "_Published Jun 29, 2024, 10:48 PM_
+Ex-french first lady carla bruni summoned for possible indictment in campaign probe: source" }
+Femenkamerepne@{ shape: win-pane, label: "_Published Nov 10, 2025, 01:10 PM_
+France’s former president sarkozy back home after court frees him pending appeal" }
+Frcstoneeniya@{ shape: win-pane, label: "_Published Sep 25, 2025, 04:42 PM_
+Former french president sarkozy sentenced to 5 years in jail in libya trial" }
+Fhenkoloa@{ shape: win-pane, label: "_Published Feb 08, 2025, 12:19 AM_
+French ex-president sarkozy to get electronic tag" }
+Fehopsootot@{ shape: win-pane, label: "_Published Dec 18, 2024, 09:50 PM_
+France's highest court upholds sarkozy's corruption conviction" }
+FrtCBceayarnc@{ shape: win-pane, label: "_Published Jul 10, 2024, 05:02 AM_
+Former first lady carla bruni charged in sarkozy campaign probe in france" }
+Enrdlnmfsectmnec@{ shape: win-pane, label: "_Published Jun 29, 2024, 10:48 PM_
+Ex-french first lady carla bruni summoned for possible indictment in campaign probe: source" }
+
+Frcstopasscvoenh:::txtsize --> Femenkamerepne:::txtsize
+Femenkamerepne:::txtsize --> Frcstoneeniya:::txtsize
+Frcstoneeniya:::txtsize --> Fhenkoloa:::txtsize
+Femenkamerepne:::txtsize --> Fehopsootot:::txtsize
+Fehopsootot:::txtsize --> FrtCBceayarnc:::txtsize
+Fehopsootot:::txtsize --> Enrdlnmfsectmnec:::txtsize
+Frcstopasscvoenh:::txtsize --> Femenkamerepne:::txtsize
+Femenkamerepne:::txtsize --> Frcstoneeniya:::txtsize
+Frcstoneeniya:::txtsize --> Fhenkoloa:::txtsize
+Femenkamerepne:::txtsize --> Fehopsootot:::txtsize
+Fehopsootot:::txtsize --> FrtCBceayarnc:::txtsize
+Fehopsootot:::txtsize --> Enrdlnmfsectmnec:::txtsize
+
 cerfietepeTnv@{ shape: win-pane, label: "_Published Nov 13, 2025, 01:45 PM_
 3 charged over stuffed animal heist at amusement park seen in tom hanks movie" }
 Scseloitluau@{ shape: win-pane, label: "_Published Nov 11, 2025, 10:16 PM_
@@ -69,31 +109,6 @@ Jstprrsnvslbhg:::txtsize --> Tarorinnetrmd:::txtsize
 Tarorinnetrmd:::txtsize --> AbphsCsrfroere:::txtsize
 Tarorinnetrmd:::txtsize --> Chaftteef:::txtsize
 
-Lsounenonmr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:01 PM_
-Longest us govt shutdown is over but new showdowns loom for trump" }
-Tsdootveuns@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:48 AM_
-Trump signs deal to end longest us government shutdown in history" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
-Cuomo to stay in new york mayoral race despite losing democratic primary" }
-HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
-‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
-Jetisdntigntvem@{ shape: win-pane, label: "_Published Jul 08, 2025, 04:02 AM_
-Jeffrey epstein died by suicide, has no sex trafficking ‘client list’: us government memo" }
-Tspnerifag@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:45 AM_
-Trump says epstein ‘stole’ underage victim from mar-a-lago spa" }
-
-Lsounenonmr:::txtsize --> Tsdootveuns:::txtsize
-Tsdootveuns:::txtsize --> Drwialosdp:::txtsize
-Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
-Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
-Tsdootveuns:::txtsize --> HwtipngesTkfot:::txtsize
-HwtipngesTkfot:::txtsize --> Jetisdntigntvem:::txtsize
-HwtipngesTkfot:::txtsize --> Tspnerifag:::txtsize
-
 ```
-<i>Last updated: 2025-11-13 16:00:59.658454 (GMT+8)</i>
+<i>Last updated: 2025-11-13 20:00:30.635604 (GMT+8)</i>
 <!-- END -->
