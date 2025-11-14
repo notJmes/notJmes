@@ -16,132 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Aaotentweg@{ shape: win-pane, label: "_Published Nov 14, 2025, 07:14 AM_
-Apple aims to capitalise on mini app trend with new program" }
-HpOGeriaun@{ shape: win-pane, label: "_Published Jul 28, 2025, 07:50 AM_
-How apple’s ios 26 and google’s android 16 will change our phones" }
-Sntleeeotsem@{ shape: win-pane, label: "_Published Jul 10, 2025, 10:25 AM_
-Samsung’s bet on foldable phones faces major test with slimmer new model" }
-Snflnecuss@{ shape: win-pane, label: "_Published Jul 08, 2025, 08:07 AM_
-Samsung profit halves in deepening chip business crisis" }
-Snflnecuss@{ shape: win-pane, label: "_Published Jul 08, 2025, 08:07 AM_
-Samsung profit halves in deepening chip business crisis" }
-Geopmnfeppsmiofd@{ shape: win-pane, label: "_Published Aug 26, 2025, 02:53 PM_
-Google to block apps from all unverified developers, s’pore users among first to be affected" }
-Airpoofnlnfppfsr@{ shape: win-pane, label: "_Published Feb 07, 2024, 11:09 AM_
-Android users in s’pore to be blocked from installing unverified apps as part of anti-scam trial" }
-Siwcciyssuetnto@{ shape: win-pane, label: "_Published Oct 14, 2023, 10:00 AM_
-Spike in malware scam victims in july, august; losses equivalent to that in first half of 2023" }
-Mrmsursneloagbra@{ shape: win-pane, label: "_Published Aug 15, 2024, 12:55 PM_
-Malware scam cases dip but android users in   s’pore still try to install high number of risky apps" }
-Airpoofnlnfppfsr@{ shape: win-pane, label: "_Published Feb 07, 2024, 11:09 AM_
-Android users in s’pore to be blocked from installing unverified apps as part of anti-scam trial" }
-Ctsnpcrovrls@{ shape: win-pane, label: "_Published Feb 25, 2024, 05:00 AM_
-Check these settings to protect your android device from malware scams" }
+Vpscernto@{ shape: win-pane, label: "_Published Nov 14, 2025, 10:45 AM_
+Video podcasts become next streaming battleground" }
+Znaciippfiiirh@{ shape: win-pane, label: "_Published Nov 06, 2025, 01:25 AM_
+Zohran mamdani victory in us fires up europe’s left against right-wing surge at home" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
+Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
+Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
+Takeaways from us election night 2025" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
+Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
+Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
+Takeaways from us election night 2025" }
+Trnsdouex@{ shape: win-pane, label: "_Published Jul 15, 2025, 07:55 AM_
+The streaming wars come down to 2: youtube v netflix" }
+Isenroeaw@{ shape: win-pane, label: "_Published Jun 01, 2023, 04:35 PM_
+India’s richest man enters the online streaming wars" }
+Boenssilayuect@{ shape: win-pane, label: "_Published Dec 30, 2022, 08:48 AM_
+Billionaire ambani sets goals for his children as they step up at reliance units" }
 
-Aaotentweg:::txtsize --> HpOGeriaun:::txtsize
-HpOGeriaun:::txtsize --> Sntleeeotsem:::txtsize
-Sntleeeotsem:::txtsize --> Snflnecuss:::txtsize
-Sntleeeotsem:::txtsize --> Snflnecuss:::txtsize
-Aaotentweg:::txtsize --> Geopmnfeppsmiofd:::txtsize
-Geopmnfeppsmiofd:::txtsize --> Airpoofnlnfppfsr:::txtsize
-Airpoofnlnfppfsr:::txtsize --> Siwcciyssuetnto:::txtsize
-Geopmnfeppsmiofd:::txtsize --> Mrmsursneloagbra:::txtsize
-Mrmsursneloagbra:::txtsize --> Airpoofnlnfppfsr:::txtsize
-Mrmsursneloagbra:::txtsize --> Ctsnpcrovrls:::txtsize
+Vpscernto:::txtsize --> Znaciippfiiirh:::txtsize
+Znaciippfiiirh:::txtsize --> YMmnoihaiYilehpea:::txtsize
+YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
+YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
+Znaciippfiiirh:::txtsize --> YMmnoihaiYilehpea:::txtsize
+YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
+YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
+Vpscernto:::txtsize --> Trnsdouex:::txtsize
+Trnsdouex:::txtsize --> Isenroeaw:::txtsize
+Isenroeaw:::txtsize --> Boenssilayuect:::txtsize
 
-Brslodyslsksag@{ shape: win-pane, label: "_Published Nov 14, 2025, 07:07 AM_
-Blue origin’s new glenn rocket deploys mars satellites, sticks booster landing" }
-GgcmnufsweeeS@{ shape: win-pane, label: "_Published Nov 13, 2025, 09:58 AM_
-Geomagnetic storm grounds launch of mars space weather satellites in us" }
-Flpcaneshailic@{ shape: win-pane, label: "_Published Apr 30, 2025, 05:07 AM_
-Firefly’s alpha rocket fails in space, sends lockheed satellite falling into ocean" }
-RaeeeurogeatnUls@{ shape: win-pane, label: "_Published Apr 26, 2025, 01:35 AM_
-Russian satellite linked to nuclear weapon programme appears out of control, us analysts say" }
-Fneniceeunljn@{ shape: win-pane, label: "_Published Apr 15, 2025, 10:51 PM_
-Finland developing device to counter alleged russian satellite jamming" }
-Urtdocpadoaas@{ shape: win-pane, label: "_Published Mar 18, 2025, 01:02 AM_
-Us astronauts head home on spacex capsule after drawn-out space station stay" }
-Ansdssomsseeghay@{ shape: win-pane, label: "_Published Mar 18, 2025, 10:55 AM_
-Astronauts stranded in space station for 9 months: why is space travel tough on the human body?" }
-Anrctctoatd@{ shape: win-pane, label: "_Published Mar 16, 2025, 12:31 PM_
-Astronaut crew docks with space station to replace ‘butch and suni’" }
-RosvptnsNeeI@{ shape: win-pane, label: "_Published Nov 13, 2025, 11:01 PM_
-Race for first private space station heats up as nasa set to retire iss" }
-AptpanloctoesS@{ shape: win-pane, label: "_Published Oct 14, 2024, 02:50 PM_
-Aerospace start-up vast announces plans for space station to succeed nasa’s iss" }
-Isetasaneeaeeoa@{ shape: win-pane, label: "_Published Oct 14, 2024, 10:36 AM_
-India’s space strategy: harness data and tiny satellites to capture market beyond spacex" }
-NproyhpsEaar@{ shape: win-pane, label: "_Published Oct 14, 2024, 02:11 AM_
-Nasa spacecraft to study whether jupiter’s moon europa can harbour life" }
-NotvrtrEoia@{ shape: win-pane, label: "_Published Apr 20, 2025, 05:05 PM_
-Nasa’s oldest active astronaut returns to earth on 70th birthday" }
-Urtdocpadoaas@{ shape: win-pane, label: "_Published Mar 18, 2025, 01:02 AM_
-Us astronauts head home on spacex capsule after drawn-out space station stay" }
-Biistcholils@{ shape: win-pane, label: "_Published Apr 17, 2025, 02:15 PM_
-Bringing a little spice to space with the monse blue origin flight suits" }
+Taitreieoblfri@{ shape: win-pane, label: "_Published Nov 14, 2025, 10:11 AM_
+Trump administration prepares tariff exemptions in bid to lower food prices in us" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
+Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
+Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
+Takeaways from us election night 2025" }
+Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
+Cuomo to stay in new york mayoral race despite losing democratic primary" }
+MnCankgnsodty@{ shape: win-pane, label: "_Published Jun 27, 2025, 06:16 PM_
+Mamdani’s nyc primary win sparks surge in anti-muslim posts, advocates say" }
+Ttfevhniiiss@{ shape: win-pane, label: "_Published Apr 03, 2025, 11:10 AM_
+Trump tariffs take aim everywhere, including uninhabited islands" }
+Tspaspadanop@{ shape: win-pane, label: "_Published Apr 03, 2025, 04:47 AM_
+Trump’s sweeping tariffs amp up global trade war as china, eu vow response" }
+Ttftlaraarasrafl@{ shape: win-pane, label: "_Published Apr 03, 2025, 07:56 AM_
+Trump tariffs: hitting close partner singapore ‘a surprise’, says ex-senior us trade official" }
+Acnrrhteur@{ shape: win-pane, label: "_Published Feb 17, 2025, 01:52 PM_
+American consumers learn to shop in the age of trump tariffs" }
+OiaeqsenonBoH@{ shape: win-pane, label: "_Published Mar 28, 2025, 02:47 PM_
+Over 153 killed as powerful quake strikes myanmar, sows panic in bangkok and hanoi" }
 
-Brslodyslsksag:::txtsize --> GgcmnufsweeeS:::txtsize
-GgcmnufsweeeS:::txtsize --> Flpcaneshailic:::txtsize
-Flpcaneshailic:::txtsize --> RaeeeurogeatnUls:::txtsize
-Flpcaneshailic:::txtsize --> Fneniceeunljn:::txtsize
-GgcmnufsweeeS:::txtsize --> Urtdocpadoaas:::txtsize
-Urtdocpadoaas:::txtsize --> Ansdssomsseeghay:::txtsize
-Urtdocpadoaas:::txtsize --> Anrctctoatd:::txtsize
-Brslodyslsksag:::txtsize --> RosvptnsNeeI:::txtsize
-RosvptnsNeeI:::txtsize --> AptpanloctoesS:::txtsize
-AptpanloctoesS:::txtsize --> Isetasaneeaeeoa:::txtsize
-AptpanloctoesS:::txtsize --> NproyhpsEaar:::txtsize
-RosvptnsNeeI:::txtsize --> NotvrtrEoia:::txtsize
-NotvrtrEoia:::txtsize --> Urtdocpadoaas:::txtsize
-NotvrtrEoia:::txtsize --> Biistcholils:::txtsize
+Taitreieoblfri:::txtsize --> Drwialosdp:::txtsize
+Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
+YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
+YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
+Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
+Ctywmaeiseary:::txtsize --> MnCankgnsodty:::txtsize
+Taitreieoblfri:::txtsize --> Ttfevhniiiss:::txtsize
+Ttfevhniiiss:::txtsize --> Tspaspadanop:::txtsize
+Tspaspadanop:::txtsize --> Ttftlaraarasrafl:::txtsize
+Tspaspadanop:::txtsize --> Acnrrhteur:::txtsize
+Ttfevhniiiss:::txtsize --> OiaeqsenonBoH:::txtsize
 
-RaotUooaceoa@{ shape: win-pane, label: "_Published Nov 14, 2025, 07:02 AM_
-Russia proposes its own un resolution on gaza in challenge to us draft" }
-Uatdnaacareonw@{ shape: win-pane, label: "_Published Nov 05, 2025, 08:02 AM_
-Us may ask un to mandate international force in gaza for two years, document shows" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-Udoaitotnous@{ shape: win-pane, label: "_Published Nov 03, 2025, 11:57 PM_
-Un mandate for gaza stabilisation force still in the works, turkey says" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-TIeshhetdpoG@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:20 PM_
-Turks, indonesians or others? the race is on to find troops to police gaza" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
-Israel marks oct 7 anniversary as talks are held to end gaza war" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-Hatmzcnhodro@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:11 PM_
-Hamas accepts trump’s gaza peace plan, but the bloodshed is far from over" }
+IlinraoeHIiaelaG@{ shape: win-pane, label: "_Published Nov 14, 2025, 09:20 AM_
+Israel receives another deceased hostage from hamas, islamic jihad, three still remain in gaza" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
+Singapore strongly condemns terror attacks on israel, calls for end to violence" }
+Hholissrrazo@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:47 PM_
+Hamas hands over all living hostages to israel; trump says gaza war over" }
 NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
 Netanyahu declares israel at war as hamas attacks kill over 100" }
 WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
 Why gaza is epicentre of israeli-palestinian conflict" }
 Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
 World in shock after hamas surprise attacks on israel" }
+FetGaoumo@{ shape: win-pane, label: "_Published Aug 22, 2025, 05:27 PM_
+Famine has struck gaza, says global hunger monitor" }
+Ilcaagmn@{ shape: win-pane, label: "_Published Nov 09, 2024, 10:03 PM_
+Israel rejects ‘biased’ warning of famine in gaza" }
+Ulfezsrda@{ shape: win-pane, label: "_Published Aug 22, 2025, 03:02 PM_
+Un declares famine in gaza; first ever in middle east" }
 
-RaotUooaceoa:::txtsize --> Uatdnaacareonw:::txtsize
-Uatdnaacareonw:::txtsize --> AtHfezerydatoGel:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-Uatdnaacareonw:::txtsize --> Udoaitotnous:::txtsize
-Udoaitotnous:::txtsize --> TssHaossaaorslaoe:::txtsize
-Udoaitotnous:::txtsize --> TIeshhetdpoG:::txtsize
-RaotUooaceoa:::txtsize --> TssHaossaaorslaoe:::txtsize
-TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
-Ilsnrakhoar:::txtsize --> Sbsrcdnacaale:::txtsize
-Ilsnrakhoar:::txtsize --> Hatmzcnhodro:::txtsize
-TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
+IlinraoeHIiaelaG:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+WzptIleint:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
+Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
+IlinraoeHIiaelaG:::txtsize --> Hholissrrazo:::txtsize
+Hholissrrazo:::txtsize --> NyeeawHakl:::txtsize
 NyeeawHakl:::txtsize --> WzptIleint:::txtsize
 NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Hholissrrazo:::txtsize --> FetGaoumo:::txtsize
+FetGaoumo:::txtsize --> Ilcaagmn:::txtsize
+FetGaoumo:::txtsize --> Ulfezsrda:::txtsize
 
 ```
-<i>Last updated: 2025-11-14 08:00:52.948736 (GMT+8)</i>
+<i>Last updated: 2025-11-14 12:00:21.734408 (GMT+8)</i>
 <!-- END -->
