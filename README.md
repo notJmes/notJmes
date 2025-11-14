@@ -16,138 +16,132 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-ZsnnoeaarUn@{ shape: win-pane, label: "_Published Nov 14, 2025, 02:52 AM_
-Zelensky sanctions associate as fraud scandal rocks ukraine" }
-UnasnaRaa@{ shape: win-pane, label: "_Published Nov 09, 2025, 08:55 PM_
-Ukraine scrambles for energy after russian attacks" }
-Unnimruieusnoos@{ shape: win-pane, label: "_Published Nov 09, 2025, 01:25 PM_
-Ukraine drone strike temporarily cuts utilities in russia’s voronezh, governor says" }
-Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
-Timeline: how russia's attack on ukraine unfolded" }
-Raaanasoleaa@{ shape: win-pane, label: "_Published Nov 08, 2025, 06:40 PM_
-Russian attacks target nuclear substations, kill seven, ukraine says" }
-SdroisdshazaeaUn@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:53 AM_
-Second external power line restored at russian-held zaporizhzhia nuclear plant in ukraine" }
-Zsrcctofdrhcp@{ shape: win-pane, label: "_Published Oct 01, 2025, 03:45 AM_
-Zelensky warns of ‘critical’ situation at off-grid zaporizhzhia nuclear plant" }
-Ralcooneyllke@{ shape: win-pane, label: "_Published Oct 02, 2025, 03:39 AM_
-Russian shelling cuts power to defunct chernobyl nuclear plant, ukraine says" }
-CpsartosUnly@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:15 PM_
-Corruption scandal, court battles pose test for ukraine’s zelensky" }
-UnpCeiaronhwmen@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:51 PM_
-Ukraine suspends cabinet minister as corruption scandal shakes wartime government" }
-CZslufetarc@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:54 AM_
-Close zelensky ally accused of orchestrating major graft scheme" }
-Zsvossssrrsgai@{ shape: win-pane, label: "_Published Jul 31, 2025, 10:39 PM_
-Zelensky, moving to defuse crisis, restores power of ukraine’s anti-graft agencies" }
-UnasnaRaa@{ shape: win-pane, label: "_Published Nov 09, 2025, 08:55 PM_
-Ukraine scrambles for energy after russian attacks" }
-Unnimruieusnoos@{ shape: win-pane, label: "_Published Nov 09, 2025, 01:25 PM_
-Ukraine drone strike temporarily cuts utilities in russia’s voronezh, governor says" }
-SdroisdshazaeaUn@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:53 AM_
-Second external power line restored at russian-held zaporizhzhia nuclear plant in ukraine" }
+Aaotentweg@{ shape: win-pane, label: "_Published Nov 14, 2025, 07:14 AM_
+Apple aims to capitalise on mini app trend with new program" }
+HpOGeriaun@{ shape: win-pane, label: "_Published Jul 28, 2025, 07:50 AM_
+How apple’s ios 26 and google’s android 16 will change our phones" }
+Sntleeeotsem@{ shape: win-pane, label: "_Published Jul 10, 2025, 10:25 AM_
+Samsung’s bet on foldable phones faces major test with slimmer new model" }
+Snflnecuss@{ shape: win-pane, label: "_Published Jul 08, 2025, 08:07 AM_
+Samsung profit halves in deepening chip business crisis" }
+Snflnecuss@{ shape: win-pane, label: "_Published Jul 08, 2025, 08:07 AM_
+Samsung profit halves in deepening chip business crisis" }
+Geopmnfeppsmiofd@{ shape: win-pane, label: "_Published Aug 26, 2025, 02:53 PM_
+Google to block apps from all unverified developers, s’pore users among first to be affected" }
+Airpoofnlnfppfsr@{ shape: win-pane, label: "_Published Feb 07, 2024, 11:09 AM_
+Android users in s’pore to be blocked from installing unverified apps as part of anti-scam trial" }
+Siwcciyssuetnto@{ shape: win-pane, label: "_Published Oct 14, 2023, 10:00 AM_
+Spike in malware scam victims in july, august; losses equivalent to that in first half of 2023" }
+Mrmsursneloagbra@{ shape: win-pane, label: "_Published Aug 15, 2024, 12:55 PM_
+Malware scam cases dip but android users in   s’pore still try to install high number of risky apps" }
+Airpoofnlnfppfsr@{ shape: win-pane, label: "_Published Feb 07, 2024, 11:09 AM_
+Android users in s’pore to be blocked from installing unverified apps as part of anti-scam trial" }
+Ctsnpcrovrls@{ shape: win-pane, label: "_Published Feb 25, 2024, 05:00 AM_
+Check these settings to protect your android device from malware scams" }
 
-ZsnnoeaarUn:::txtsize --> UnasnaRaa:::txtsize
-UnasnaRaa:::txtsize --> Unnimruieusnoos:::txtsize
-Unnimruieusnoos:::txtsize --> Tiwitnifd:::txtsize
-Unnimruieusnoos:::txtsize --> Raaanasoleaa:::txtsize
-UnasnaRaa:::txtsize --> SdroisdshazaeaUn:::txtsize
-SdroisdshazaeaUn:::txtsize --> Zsrcctofdrhcp:::txtsize
-SdroisdshazaeaUn:::txtsize --> Ralcooneyllke:::txtsize
-ZsnnoeaarUn:::txtsize --> CpsartosUnly:::txtsize
-CpsartosUnly:::txtsize --> UnpCeiaronhwmen:::txtsize
-UnpCeiaronhwmen:::txtsize --> CZslufetarc:::txtsize
-UnpCeiaronhwmen:::txtsize --> Zsvossssrrsgai:::txtsize
-CpsartosUnly:::txtsize --> UnasnaRaa:::txtsize
-UnasnaRaa:::txtsize --> Unnimruieusnoos:::txtsize
-UnasnaRaa:::txtsize --> SdroisdshazaeaUn:::txtsize
+Aaotentweg:::txtsize --> HpOGeriaun:::txtsize
+HpOGeriaun:::txtsize --> Sntleeeotsem:::txtsize
+Sntleeeotsem:::txtsize --> Snflnecuss:::txtsize
+Sntleeeotsem:::txtsize --> Snflnecuss:::txtsize
+Aaotentweg:::txtsize --> Geopmnfeppsmiofd:::txtsize
+Geopmnfeppsmiofd:::txtsize --> Airpoofnlnfppfsr:::txtsize
+Airpoofnlnfppfsr:::txtsize --> Siwcciyssuetnto:::txtsize
+Geopmnfeppsmiofd:::txtsize --> Mrmsursneloagbra:::txtsize
+Mrmsursneloagbra:::txtsize --> Airpoofnlnfppfsr:::txtsize
+Mrmsursneloagbra:::txtsize --> Ctsnpcrovrls:::txtsize
 
-Gnlashrelyi@{ shape: win-pane, label: "_Published Nov 14, 2025, 02:27 AM_
-Germany’s ruling parties reach compromise on military service" }
-Gnmdoabsody@{ shape: win-pane, label: "_Published Sep 11, 2025, 10:58 PM_
-Germany’s army needs to more than double in size, commander says" }
-LaaatprhoetsRaa@{ shape: win-pane, label: "_Published Sep 11, 2025, 11:18 PM_
-Lithuania, latvia, and estonia prepare push to stop us security cuts amid russia threat" }
-PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
-Poland shoots down drones, the first nato member to open fire during ukraine war" }
-Raserkcioten@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:37 PM_
-Russian air strike in ukraine kills 23 civilians collecting pensions" }
-PdiotnlioaM@{ shape: win-pane, label: "_Published Sep 10, 2025, 06:02 PM_
-Poland is at its closest to open conflict since world war ii, pm says" }
-PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
-Poland shoots down drones, the first nato member to open fire during ukraine war" }
-PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
-Poland shoots down drones, the first nato member to open fire during ukraine war" }
-Gnmdoabsody@{ shape: win-pane, label: "_Published Sep 11, 2025, 10:58 PM_
-Germany’s army needs to more than double in size, commander says" }
-LaaatprhoetsRaa@{ shape: win-pane, label: "_Published Sep 11, 2025, 11:18 PM_
-Lithuania, latvia, and estonia prepare push to stop us security cuts amid russia threat" }
-PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
-Poland shoots down drones, the first nato member to open fire during ukraine war" }
-Raserkcioten@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:37 PM_
-Russian air strike in ukraine kills 23 civilians collecting pensions" }
-PdiotnlioaM@{ shape: win-pane, label: "_Published Sep 10, 2025, 06:02 PM_
-Poland is at its closest to open conflict since world war ii, pm says" }
-PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
-Poland shoots down drones, the first nato member to open fire during ukraine war" }
-PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
-Poland shoots down drones, the first nato member to open fire during ukraine war" }
+Brslodyslsksag@{ shape: win-pane, label: "_Published Nov 14, 2025, 07:07 AM_
+Blue origin’s new glenn rocket deploys mars satellites, sticks booster landing" }
+GgcmnufsweeeS@{ shape: win-pane, label: "_Published Nov 13, 2025, 09:58 AM_
+Geomagnetic storm grounds launch of mars space weather satellites in us" }
+Flpcaneshailic@{ shape: win-pane, label: "_Published Apr 30, 2025, 05:07 AM_
+Firefly’s alpha rocket fails in space, sends lockheed satellite falling into ocean" }
+RaeeeurogeatnUls@{ shape: win-pane, label: "_Published Apr 26, 2025, 01:35 AM_
+Russian satellite linked to nuclear weapon programme appears out of control, us analysts say" }
+Fneniceeunljn@{ shape: win-pane, label: "_Published Apr 15, 2025, 10:51 PM_
+Finland developing device to counter alleged russian satellite jamming" }
+Urtdocpadoaas@{ shape: win-pane, label: "_Published Mar 18, 2025, 01:02 AM_
+Us astronauts head home on spacex capsule after drawn-out space station stay" }
+Ansdssomsseeghay@{ shape: win-pane, label: "_Published Mar 18, 2025, 10:55 AM_
+Astronauts stranded in space station for 9 months: why is space travel tough on the human body?" }
+Anrctctoatd@{ shape: win-pane, label: "_Published Mar 16, 2025, 12:31 PM_
+Astronaut crew docks with space station to replace ‘butch and suni’" }
+RosvptnsNeeI@{ shape: win-pane, label: "_Published Nov 13, 2025, 11:01 PM_
+Race for first private space station heats up as nasa set to retire iss" }
+AptpanloctoesS@{ shape: win-pane, label: "_Published Oct 14, 2024, 02:50 PM_
+Aerospace start-up vast announces plans for space station to succeed nasa’s iss" }
+Isetasaneeaeeoa@{ shape: win-pane, label: "_Published Oct 14, 2024, 10:36 AM_
+India’s space strategy: harness data and tiny satellites to capture market beyond spacex" }
+NproyhpsEaar@{ shape: win-pane, label: "_Published Oct 14, 2024, 02:11 AM_
+Nasa spacecraft to study whether jupiter’s moon europa can harbour life" }
+NotvrtrEoia@{ shape: win-pane, label: "_Published Apr 20, 2025, 05:05 PM_
+Nasa’s oldest active astronaut returns to earth on 70th birthday" }
+Urtdocpadoaas@{ shape: win-pane, label: "_Published Mar 18, 2025, 01:02 AM_
+Us astronauts head home on spacex capsule after drawn-out space station stay" }
+Biistcholils@{ shape: win-pane, label: "_Published Apr 17, 2025, 02:15 PM_
+Bringing a little spice to space with the monse blue origin flight suits" }
 
-Gnlashrelyi:::txtsize --> Gnmdoabsody:::txtsize
-Gnmdoabsody:::txtsize --> LaaatprhoetsRaa:::txtsize
-LaaatprhoetsRaa:::txtsize --> PdtnefNetndgir:::txtsize
-LaaatprhoetsRaa:::txtsize --> Raserkcioten:::txtsize
-Gnmdoabsody:::txtsize --> PdiotnlioaM:::txtsize
-PdiotnlioaM:::txtsize --> PdtnefNetndgir:::txtsize
-PdiotnlioaM:::txtsize --> PdtnefNetndgir:::txtsize
-Gnlashrelyi:::txtsize --> Gnmdoabsody:::txtsize
-Gnmdoabsody:::txtsize --> LaaatprhoetsRaa:::txtsize
-LaaatprhoetsRaa:::txtsize --> PdtnefNetndgir:::txtsize
-LaaatprhoetsRaa:::txtsize --> Raserkcioten:::txtsize
-Gnmdoabsody:::txtsize --> PdiotnlioaM:::txtsize
-PdiotnlioaM:::txtsize --> PdtnefNetndgir:::txtsize
-PdiotnlioaM:::txtsize --> PdtnefNetndgir:::txtsize
+Brslodyslsksag:::txtsize --> GgcmnufsweeeS:::txtsize
+GgcmnufsweeeS:::txtsize --> Flpcaneshailic:::txtsize
+Flpcaneshailic:::txtsize --> RaeeeurogeatnUls:::txtsize
+Flpcaneshailic:::txtsize --> Fneniceeunljn:::txtsize
+GgcmnufsweeeS:::txtsize --> Urtdocpadoaas:::txtsize
+Urtdocpadoaas:::txtsize --> Ansdssomsseeghay:::txtsize
+Urtdocpadoaas:::txtsize --> Anrctctoatd:::txtsize
+Brslodyslsksag:::txtsize --> RosvptnsNeeI:::txtsize
+RosvptnsNeeI:::txtsize --> AptpanloctoesS:::txtsize
+AptpanloctoesS:::txtsize --> Isetasaneeaeeoa:::txtsize
+AptpanloctoesS:::txtsize --> NproyhpsEaar:::txtsize
+RosvptnsNeeI:::txtsize --> NotvrtrEoia:::txtsize
+NotvrtrEoia:::txtsize --> Urtdocpadoaas:::txtsize
+NotvrtrEoia:::txtsize --> Biistcholils:::txtsize
 
-Cbeuednxgh@{ shape: win-pane, label: "_Published Nov 14, 2025, 12:59 AM_
-Colombia does about-face on ending intel exchange with us" }
-Uildcisiiig@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:20 PM_
-Us strikes alleged drug-carrying vessels in pacific, killing six" }
-Nseldolrytc@{ shape: win-pane, label: "_Published Nov 07, 2025, 12:27 PM_
-New us strike on alleged drug boat kills three, says pentagon chief" }
-Eirdyroersl@{ shape: win-pane, label: "_Published Oct 31, 2025, 06:16 PM_
-Explainer: are the deadly us strikes on alleged drug vessels legal?​" }
-Nselgufexeeov@{ shape: win-pane, label: "_Published Oct 29, 2025, 01:00 AM_
-New us strikes kill 14 alleged drug traffickers, mexico leads rescue of survivor" }
-VulClaaispbr@{ shape: win-pane, label: "_Published Oct 28, 2025, 01:03 PM_
-Venezuela claims cia ‘false flag’ attack foiled, as us deploys bombers" }
-Ustmrvllaeraasnt@{ shape: win-pane, label: "_Published Oct 20, 2025, 08:20 AM_
-Us says it hit colombian rebel vessel as colombia condemns trump’s accusations against petro" }
-Tcftocndra@{ shape: win-pane, label: "_Published Oct 19, 2025, 09:41 PM_
-Trump cuts off aid to colombia, calling leader a drug dealer" }
-UeCbreiemaPtne@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:23 AM_
-Us to revoke colombian president’s visa over comments at pro-palestinian gathering" }
-CbretcUiittlfiv@{ shape: win-pane, label: "_Published Sep 28, 2025, 09:18 AM_
-Colombian president petro accuses us of violating international law after visa revoked" }
-CbretcUiittlfiv@{ shape: win-pane, label: "_Published Sep 28, 2025, 09:18 AM_
-Colombian president petro accuses us of violating international law after visa revoked" }
-UeCbreiemaPtne@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:23 AM_
-Us to revoke colombian president’s visa over comments at pro-palestinian gathering" }
-Aoienempsiroins@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:00 AM_
-At un, colombian president urges ‘criminal process’ against trump for strikes on boats" }
+RaotUooaceoa@{ shape: win-pane, label: "_Published Nov 14, 2025, 07:02 AM_
+Russia proposes its own un resolution on gaza in challenge to us draft" }
+Uatdnaacareonw@{ shape: win-pane, label: "_Published Nov 05, 2025, 08:02 AM_
+Us may ask un to mandate international force in gaza for two years, document shows" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+Udoaitotnous@{ shape: win-pane, label: "_Published Nov 03, 2025, 11:57 PM_
+Un mandate for gaza stabilisation force still in the works, turkey says" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+TIeshhetdpoG@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:20 PM_
+Turks, indonesians or others? the race is on to find troops to police gaza" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
+Israel marks oct 7 anniversary as talks are held to end gaza war" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+Hatmzcnhodro@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:11 PM_
+Hamas accepts trump’s gaza peace plan, but the bloodshed is far from over" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
 
-Cbeuednxgh:::txtsize --> Uildcisiiig:::txtsize
-Uildcisiiig:::txtsize --> Nseldolrytc:::txtsize
-Uildcisiiig:::txtsize --> Eirdyroersl:::txtsize
-Eirdyroersl:::txtsize --> Nselgufexeeov:::txtsize
-Eirdyroersl:::txtsize --> VulClaaispbr:::txtsize
-Cbeuednxgh:::txtsize --> Ustmrvllaeraasnt:::txtsize
-Ustmrvllaeraasnt:::txtsize --> Tcftocndra:::txtsize
-Tcftocndra:::txtsize --> UeCbreiemaPtne:::txtsize
-Tcftocndra:::txtsize --> CbretcUiittlfiv:::txtsize
-Ustmrvllaeraasnt:::txtsize --> CbretcUiittlfiv:::txtsize
-CbretcUiittlfiv:::txtsize --> UeCbreiemaPtne:::txtsize
-CbretcUiittlfiv:::txtsize --> Aoienempsiroins:::txtsize
+RaotUooaceoa:::txtsize --> Uatdnaacareonw:::txtsize
+Uatdnaacareonw:::txtsize --> AtHfezerydatoGel:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+Uatdnaacareonw:::txtsize --> Udoaitotnous:::txtsize
+Udoaitotnous:::txtsize --> TssHaossaaorslaoe:::txtsize
+Udoaitotnous:::txtsize --> TIeshhetdpoG:::txtsize
+RaotUooaceoa:::txtsize --> TssHaossaaorslaoe:::txtsize
+TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
+Ilsnrakhoar:::txtsize --> Sbsrcdnacaale:::txtsize
+Ilsnrakhoar:::txtsize --> Hatmzcnhodro:::txtsize
+TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
 
 ```
-<i>Last updated: 2025-11-14 04:00:24.475922 (GMT+8)</i>
+<i>Last updated: 2025-11-14 08:00:52.948736 (GMT+8)</i>
 <!-- END -->
