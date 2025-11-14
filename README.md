@@ -16,102 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-RaNKnpyodisko@{ shape: win-pane, label: "_Published Nov 14, 2025, 07:22 PM_
-Russia says north korean troops play key role in de-mining its kursk region" }
-ouodsnaNaias@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:36 PM_
-70% of ammunition used by russia in war made in n. korea: ukraine analysis" }
-NKsosirsRaacs@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:15 AM_
-North korea’s kim jong un says military ties with russia will ‘advance non-stop’" }
-Pdnemcsilrri@{ shape: win-pane, label: "_Published Oct 24, 2025, 12:25 AM_
-Putin defiant after trump sanctions russian oil majors over ukraine" }
-NKsenay@{ shape: win-pane, label: "_Published Oct 23, 2025, 05:50 AM_
-North korea says tested new weapon system" }
-NKfunelcioly@{ shape: win-pane, label: "_Published Nov 07, 2025, 12:00 PM_
-North korea fires unidentified ballistic missile: seoul military" }
-Tsooartlloda@{ shape: win-pane, label: "_Published Oct 30, 2025, 06:25 AM_
-Trump says south korea has approval to build nuclear-powered submarine" }
-NKlrrsioRaea@{ shape: win-pane, label: "_Published Aug 21, 2025, 06:11 AM_
-North korea leader kim praises ‘heroic’ troops in russia, state media says" }
-Unalsrit@{ shape: win-pane, label: "_Published Nov 14, 2025, 09:56 AM_
-Ukrainian capital comes under ‘massive’ attack" }
-Raaanasoleaa@{ shape: win-pane, label: "_Published Nov 08, 2025, 06:40 PM_
-Russian attacks target nuclear substations, kill seven, ukraine says" }
-RahtsaouPvnlae@{ shape: win-pane, label: "_Published Nov 08, 2025, 06:00 PM_
-Russia says house-to-house advance continues in pokrovsk, tiny village captured" }
-UksrRaehnUry@{ shape: win-pane, label: "_Published Nov 08, 2025, 02:00 AM_
-Us backs eu using frozen russian assets to help end war, us source says" }
-UlRamaoerwttsparr@{ shape: win-pane, label: "_Published Oct 25, 2025, 06:05 PM_
-Us could hit russia with more sanctions to end ukraine war, but first wants europe to raise pressure" }
-UpmucssorirPwht@{ shape: win-pane, label: "_Published Oct 23, 2025, 05:33 AM_
-Us slaps ‘tremendous sanctions’ on russian oil for ukraine war, says putin wasn’t ‘honest’" }
-Pdnemcsilrri@{ shape: win-pane, label: "_Published Oct 24, 2025, 12:25 AM_
-Putin defiant after trump sanctions russian oil majors over ukraine" }
+Sedtfcire@{ shape: win-pane, label: "_Published Nov 14, 2025, 11:44 PM_
+Switzerland wins tariff rate cut to 15% in us trade deal" }
+SedeesUotfk@{ shape: win-pane, label: "_Published Aug 08, 2025, 04:08 AM_
+Switzerland to seek more talks with us as 39% ‘horror’ tariffs kick in" }
+Sednaastnetaagma@{ shape: win-pane, label: "_Published Aug 07, 2025, 12:50 AM_
+Switzerland facing 39% us tariff as president karin keller-sutter leaves washington empty-handed" }
+SednUiteeaoo@{ shape: win-pane, label: "_Published Aug 02, 2025, 05:11 AM_
+Switzerland stunned by us tariff rate of 39%, seeks negotiated solution" }
+SednUiteeaoo@{ shape: win-pane, label: "_Published Aug 02, 2025, 05:11 AM_
+Switzerland stunned by us tariff rate of 39%, seeks negotiated solution" }
+SednUiteeaoo@{ shape: win-pane, label: "_Published Aug 02, 2025, 05:11 AM_
+Switzerland stunned by us tariff rate of 39%, seeks negotiated solution" }
+Tmiccraodrnarn@{ shape: win-pane, label: "_Published Aug 01, 2025, 07:56 AM_
+Trump modifies reciprocal tariffs ahead of deadline; rate on singapore remains at 10%" }
+Sedcerasti@{ shape: win-pane, label: "_Published Sep 11, 2025, 10:42 PM_
+Switzerland’s watchmakers turn us tariffs into timepieces" }
+SedeesUotfk@{ shape: win-pane, label: "_Published Aug 08, 2025, 04:08 AM_
+Switzerland to seek more talks with us as 39% ‘horror’ tariffs kick in" }
+Sednaastnetaagma@{ shape: win-pane, label: "_Published Aug 07, 2025, 12:50 AM_
+Switzerland facing 39% us tariff as president karin keller-sutter leaves washington empty-handed" }
+SednUiteeaoo@{ shape: win-pane, label: "_Published Aug 02, 2025, 05:11 AM_
+Switzerland stunned by us tariff rate of 39%, seeks negotiated solution" }
+SedeesUotfk@{ shape: win-pane, label: "_Published Aug 08, 2025, 04:08 AM_
+Switzerland to seek more talks with us as 39% ‘horror’ tariffs kick in" }
+Sednaastnetaagma@{ shape: win-pane, label: "_Published Aug 07, 2025, 12:50 AM_
+Switzerland facing 39% us tariff as president karin keller-sutter leaves washington empty-handed" }
+SednUiteeaoo@{ shape: win-pane, label: "_Published Aug 02, 2025, 05:11 AM_
+Switzerland stunned by us tariff rate of 39%, seeks negotiated solution" }
 
-RaNKnpyodisko:::txtsize --> ouodsnaNaias:::txtsize
-ouodsnaNaias:::txtsize --> NKsosirsRaacs:::txtsize
-NKsosirsRaacs:::txtsize --> Pdnemcsilrri:::txtsize
-NKsosirsRaacs:::txtsize --> NKsenay:::txtsize
-ouodsnaNaias:::txtsize --> NKfunelcioly:::txtsize
-NKfunelcioly:::txtsize --> Tsooartlloda:::txtsize
-NKfunelcioly:::txtsize --> NKlrrsioRaea:::txtsize
-RaNKnpyodisko:::txtsize --> Unalsrit:::txtsize
-Unalsrit:::txtsize --> Raaanasoleaa:::txtsize
-Raaanasoleaa:::txtsize --> RahtsaouPvnlae:::txtsize
-Raaanasoleaa:::txtsize --> UksrRaehnUry:::txtsize
-Unalsrit:::txtsize --> UlRamaoerwttsparr:::txtsize
-UlRamaoerwttsparr:::txtsize --> UpmucssorirPwht:::txtsize
-UlRamaoerwttsparr:::txtsize --> Pdnemcsilrri:::txtsize
+Sedtfcire:::txtsize --> SedeesUotfk:::txtsize
+SedeesUotfk:::txtsize --> Sednaastnetaagma:::txtsize
+Sednaastnetaagma:::txtsize --> SednUiteeaoo:::txtsize
+Sednaastnetaagma:::txtsize --> SednUiteeaoo:::txtsize
+SedeesUotfk:::txtsize --> SednUiteeaoo:::txtsize
+SednUiteeaoo:::txtsize --> Tmiccraodrnarn:::txtsize
+Sedtfcire:::txtsize --> Sedcerasti:::txtsize
+Sedcerasti:::txtsize --> SedeesUotfk:::txtsize
+SedeesUotfk:::txtsize --> Sednaastnetaagma:::txtsize
+SedeesUotfk:::txtsize --> SednUiteeaoo:::txtsize
+Sedcerasti:::txtsize --> SedeesUotfk:::txtsize
+SedeesUotfk:::txtsize --> Sednaastnetaagma:::txtsize
+SedeesUotfk:::txtsize --> SednUiteeaoo:::txtsize
 
-NCoDocnlils@{ shape: win-pane, label: "_Published Nov 14, 2025, 07:01 PM_
-‘naked’ cheetos and doritos ditch iconic colours in health push" }
+Ppetoaeheit@{ shape: win-pane, label: "_Published Nov 14, 2025, 11:12 PM_
+Paris police shoot and wound man armed with knife at rail station" }
+Feetcodrtyo@{ shape: win-pane, label: "_Published Nov 14, 2025, 01:41 AM_
+France commemorates victims of deadly paris attacks 10 years on" }
+UaecldgeIape@{ shape: win-pane, label: "_Published Oct 09, 2025, 12:13 AM_
+Uk synagogue attacker claimed allegiance to isis in call to police" }
+Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
+British man of syrian descent named as manchester synagogue attacker" }
+Bsiyaeltvmnua@{ shape: win-pane, label: "_Published Oct 03, 2025, 07:55 PM_
+British police may have accidentally shot dead victim in synagogue attack" }
+Urwiholdiro@{ shape: win-pane, label: "_Published Nov 04, 2025, 01:47 AM_
+Us charges two men in michigan over alleged isis-inspired plot" }
+Pteitheiash@{ shape: win-pane, label: "_Published Nov 01, 2025, 04:36 AM_
+‘potential terrorist attack’ thwarted in michigan, says fbi chief" }
+Pteitheiash@{ shape: win-pane, label: "_Published Nov 01, 2025, 04:36 AM_
+‘potential terrorist attack’ thwarted in michigan, says fbi chief" }
+Ynecasreutnbmrdu@{ shape: win-pane, label: "_Published Sep 24, 2025, 09:43 AM_
+Yishun knife attack: woman dies after noise dispute between neighbours; man arrested for murder" }
+YnecisaftnolssP@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:25 PM_
+Yishun knife attack: residents can tap different channels to resolve disputes, say mps" }
+Ynecasreutnbmrdu@{ shape: win-pane, label: "_Published Sep 24, 2025, 09:43 AM_
+Yishun knife attack: woman dies after noise dispute between neighbours; man arrested for murder" }
+Ynecasreutnbmrdu@{ shape: win-pane, label: "_Published Sep 24, 2025, 09:43 AM_
+Yishun knife attack: woman dies after noise dispute between neighbours; man arrested for murder" }
+dndrutnbahBk@{ shape: win-pane, label: "_Published Jul 19, 2025, 10:27 PM_
+1 dead, 1 injured after dispute between neighbours at yishun hdb block" }
 
+Ppetoaeheit:::txtsize --> Feetcodrtyo:::txtsize
+Feetcodrtyo:::txtsize --> UaecldgeIape:::txtsize
+UaecldgeIape:::txtsize --> Bsoisnaceaec:::txtsize
+UaecldgeIape:::txtsize --> Bsiyaeltvmnua:::txtsize
+Feetcodrtyo:::txtsize --> Urwiholdiro:::txtsize
+Urwiholdiro:::txtsize --> Pteitheiash:::txtsize
+Urwiholdiro:::txtsize --> Pteitheiash:::txtsize
+Ppetoaeheit:::txtsize --> Ynecasreutnbmrdu:::txtsize
+Ynecasreutnbmrdu:::txtsize --> YnecisaftnolssP:::txtsize
+YnecisaftnolssP:::txtsize --> Ynecasreutnbmrdu:::txtsize
+YnecisaftnolssP:::txtsize --> Ynecasreutnbmrdu:::txtsize
+Ynecasreutnbmrdu:::txtsize --> dndrutnbahBk:::txtsize
 
-Tafoutoajna@{ shape: win-pane, label: "_Published Nov 14, 2025, 06:36 PM_
-Thousands of doctors launch strike over pay and jobs in england" }
-Bstafaingl@{ shape: win-pane, label: "_Published Jul 25, 2025, 04:19 PM_
-British doctors launch five-day strike, ignoring pm’s plea" }
-Utgoier@{ shape: win-pane, label: "_Published Sep 17, 2024, 03:37 AM_
-Uk doctors agree to 22.3% pay rise to end strikes" }
-SKpsggegldor@{ shape: win-pane, label: "_Published Aug 28, 2024, 04:13 PM_
-South korea passes bill giving nurses bigger role amid doctors’ strike" }
-JroBioui@{ shape: win-pane, label: "_Published Mar 13, 2023, 02:07 PM_
-Junior doctors in britain to go on 72-hour strike" }
-JroEnkkiedd@{ shape: win-pane, label: "_Published Jul 08, 2025, 08:45 PM_
-Junior doctors in england back strike action over pay demand" }
-Utgoier@{ shape: win-pane, label: "_Published Sep 17, 2024, 03:37 AM_
-Uk doctors agree to 22.3% pay rise to end strikes" }
-Uryuttnosuivyu@{ shape: win-pane, label: "_Published Dec 20, 2023, 04:14 PM_
-Uk emergency care under threat as junior doctors ramp up strikes over pay dispute" }
-Ugolyahiakro@{ shape: win-pane, label: "_Published Oct 29, 2025, 06:45 AM_
-Uk targets food delivery and car washes in illegal working crackdown" }
-BinumogIwrellgo@{ shape: win-pane, label: "_Published Sep 26, 2025, 02:42 PM_
-Britain to introduce compulsory digital id for workers to deter illegal immigration" }
-Bisictotmho@{ shape: win-pane, label: "_Published Aug 24, 2025, 09:45 AM_
-Britain’s mass facial recognition roll-out alarms rights groups" }
-ThnealmeEerdnrnt@{ shape: win-pane, label: "_Published Jun 12, 2025, 06:20 PM_
-The schengen agreement at 40: will free movement in europe endure amid rising migrant antipathy?" }
-Biteemnepnen@{ shape: win-pane, label: "_Published Sep 29, 2025, 05:38 AM_
-Britain may toughen rules for migrants seeking permanent residency" }
-Biptrtdordr@{ shape: win-pane, label: "_Published Sep 22, 2025, 09:06 PM_
-Britain’s populist reform party pledges tougher residency rules" }
-Biacotnnpln@{ shape: win-pane, label: "_Published Sep 28, 2025, 06:13 PM_
-Britain’s starmer calls on party to unite and ‘stop navel-gazing’" }
+WnevnmatipvitSta@{ shape: win-pane, label: "_Published Nov 14, 2025, 10:01 PM_
+Weapons makers have ‘conned’ us military into buying expensive equipment, army secretary says" }
+Utleoaasngla@{ shape: win-pane, label: "_Published Nov 07, 2025, 08:10 PM_
+Us to streamline pentagon’s weapons acquisition amid global threats" }
+TsetroUpxs@{ shape: win-pane, label: "_Published Apr 10, 2025, 06:10 AM_
+Trump signs executive order to ease us weapons exports" }
+Vaurdcsios@{ shape: win-pane, label: "_Published Apr 08, 2025, 10:05 AM_
+Vietnam to buy american defence and security products" }
+Usrtrnildd@{ shape: win-pane, label: "_Published Jan 25, 2025, 03:42 AM_
+Us arms exports hit record in 2024 on ukraine-related demand" }
+Pgshiavuesn@{ shape: win-pane, label: "_Published Nov 05, 2025, 04:57 AM_
+Pentagon pushes ahead with plan to overhaul us weapons buying" }
+Uccsepohelseco@{ shape: win-pane, label: "_Published Nov 05, 2025, 04:35 AM_
+Us space force to use three weapons to jam chinese satellites via remote control" }
+Alvggshflyhscr@{ shape: win-pane, label: "_Published Oct 02, 2025, 06:19 PM_
+‘assault on oversight’: hegseth’s overhaul of us military watchdogs spurs concern" }
+WHmkssnliui@{ shape: win-pane, label: "_Published Mar 25, 2025, 04:50 AM_
+White house mistakenly shares yemen war plans with journalist" }
+Hiinuposhrah@{ shape: win-pane, label: "_Published Mar 17, 2025, 03:35 PM_
+‘hell will rain down on you’: trump, the houthis and the us’ proxy war with iran" }
+Tfietesrfanso@{ shape: win-pane, label: "_Published Jan 25, 2025, 03:45 PM_
+Trump fires 17 independent inspectors-general at federal agencies, says source" }
 
-Tafoutoajna:::txtsize --> Bstafaingl:::txtsize
-Bstafaingl:::txtsize --> Utgoier:::txtsize
-Utgoier:::txtsize --> SKpsggegldor:::txtsize
-Utgoier:::txtsize --> JroBioui:::txtsize
-Bstafaingl:::txtsize --> JroEnkkiedd:::txtsize
-JroEnkkiedd:::txtsize --> Utgoier:::txtsize
-JroEnkkiedd:::txtsize --> Uryuttnosuivyu:::txtsize
-Tafoutoajna:::txtsize --> Ugolyahiakro:::txtsize
-Ugolyahiakro:::txtsize --> BinumogIwrellgo:::txtsize
-BinumogIwrellgo:::txtsize --> Bisictotmho:::txtsize
-BinumogIwrellgo:::txtsize --> ThnealmeEerdnrnt:::txtsize
-Ugolyahiakro:::txtsize --> Biteemnepnen:::txtsize
-Biteemnepnen:::txtsize --> Biptrtdordr:::txtsize
-Biteemnepnen:::txtsize --> Biacotnnpln:::txtsize
+WnevnmatipvitSta:::txtsize --> Utleoaasngla:::txtsize
+Utleoaasngla:::txtsize --> TsetroUpxs:::txtsize
+TsetroUpxs:::txtsize --> Vaurdcsios:::txtsize
+TsetroUpxs:::txtsize --> Usrtrnildd:::txtsize
+Utleoaasngla:::txtsize --> Pgshiavuesn:::txtsize
+Pgshiavuesn:::txtsize --> Uccsepohelseco:::txtsize
+WnevnmatipvitSta:::txtsize --> Alvggshflyhscr:::txtsize
+Alvggshflyhscr:::txtsize --> WHmkssnliui:::txtsize
+WHmkssnliui:::txtsize --> Hiinuposhrah:::txtsize
+Alvggshflyhscr:::txtsize --> Tfietesrfanso:::txtsize
 
 ```
-<i>Last updated: 2025-11-14 20:01:19.790272 (GMT+8)</i>
+<i>Last updated: 2025-11-15 00:00:50.154817 (GMT+8)</i>
 <!-- END -->
