@@ -16,120 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Vpscernto@{ shape: win-pane, label: "_Published Nov 14, 2025, 10:45 AM_
-Video podcasts become next streaming battleground" }
-Znaciippfiiirh@{ shape: win-pane, label: "_Published Nov 06, 2025, 01:25 AM_
-Zohran mamdani victory in us fires up europe’s left against right-wing surge at home" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
-Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
-Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
-Takeaways from us election night 2025" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
-Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
-Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
-Takeaways from us election night 2025" }
-Trnsdouex@{ shape: win-pane, label: "_Published Jul 15, 2025, 07:55 AM_
-The streaming wars come down to 2: youtube v netflix" }
-Isenroeaw@{ shape: win-pane, label: "_Published Jun 01, 2023, 04:35 PM_
-India’s richest man enters the online streaming wars" }
-Boenssilayuect@{ shape: win-pane, label: "_Published Dec 30, 2022, 08:48 AM_
-Billionaire ambani sets goals for his children as they step up at reliance units" }
+Iaieenareis@{ shape: win-pane, label: "_Published Nov 14, 2025, 03:45 PM_
+Italian fruit detective racing to save forgotten varieties" }
+GiaereautostStn@{ shape: win-pane, label: "_Published Jul 18, 2025, 04:06 PM_
+Georgia’s tea growers work to revive an industry that collapsed with the soviet union" }
+FodfSgodln@{ shape: win-pane, label: "_Published Jul 13, 2025, 12:35 PM_
+Farm worker dies after us immigration raid in california" }
+Umesosrwrmro@{ shape: win-pane, label: "_Published Jul 09, 2025, 04:20 PM_
+Us farm secretary says ‘no amnesty’ for farmworkers from deportation" }
+JsbiuoepSeujir@{ shape: win-pane, label: "_Published Jul 09, 2025, 10:23 PM_
+Judges keep blocking trump’s policies despite us supreme court injunction curbs" }
+LaanutipdMu@{ shape: win-pane, label: "_Published Apr 28, 2025, 02:15 PM_
+Lush landscapes and a gourmet trail in gippsland near melbourne" }
+Csasnverrat@{ shape: win-pane, label: "_Published Jul 09, 2025, 12:20 PM_
+China’s ‘new farmers’ learn to live-stream in rural revitalisation" }
+HifnspUmnooe@{ shape: win-pane, label: "_Published Apr 21, 2025, 01:01 AM_
+How china is finding ways to replace us farmers in response to trade war" }
+UndPharnsa@{ shape: win-pane, label: "_Published Apr 15, 2025, 05:00 AM_
+Us-china trade war: punishing tariff rates not sustainable" }
+Tsdaeeogwff@{ shape: win-pane, label: "_Published Apr 10, 2025, 06:00 PM_
+Trump’s world view and the dangers from his great wall of tariffs" }
+WoatorWainaakv@{ shape: win-pane, label: "_Published Jun 19, 2025, 11:01 AM_
+Want to howl and eat raw food for work? ‘wild man’ job in chinese national park goes viral" }
+GjniiAodooenai@{ shape: win-pane, label: "_Published May 17, 2025, 10:15 AM_
+Ghost jobs and ai girlfriends: a dystopian dictionary of modern financial anxiety" }
+pibtlhh@{ shape: win-pane, label: "_Published Jan 15, 2023, 05:00 AM_
+10 part-time jobs that won’t lose their shine" }
 
-Vpscernto:::txtsize --> Znaciippfiiirh:::txtsize
-Znaciippfiiirh:::txtsize --> YMmnoihaiYilehpea:::txtsize
-YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
-YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
-Znaciippfiiirh:::txtsize --> YMmnoihaiYilehpea:::txtsize
-YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
-YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
-Vpscernto:::txtsize --> Trnsdouex:::txtsize
-Trnsdouex:::txtsize --> Isenroeaw:::txtsize
-Isenroeaw:::txtsize --> Boenssilayuect:::txtsize
+Iaieenareis:::txtsize --> GiaereautostStn:::txtsize
+GiaereautostStn:::txtsize --> FodfSgodln:::txtsize
+FodfSgodln:::txtsize --> Umesosrwrmro:::txtsize
+FodfSgodln:::txtsize --> JsbiuoepSeujir:::txtsize
+GiaereautostStn:::txtsize --> LaanutipdMu:::txtsize
+Iaieenareis:::txtsize --> Csasnverrat:::txtsize
+Csasnverrat:::txtsize --> HifnspUmnooe:::txtsize
+HifnspUmnooe:::txtsize --> UndPharnsa:::txtsize
+HifnspUmnooe:::txtsize --> Tsdaeeogwff:::txtsize
+Csasnverrat:::txtsize --> WoatorWainaakv:::txtsize
+WoatorWainaakv:::txtsize --> GjniiAodooenai:::txtsize
+WoatorWainaakv:::txtsize --> pibtlhh:::txtsize
 
-Taitreieoblfri@{ shape: win-pane, label: "_Published Nov 14, 2025, 10:11 AM_
-Trump administration prepares tariff exemptions in bid to lower food prices in us" }
+Fmnenml@{ shape: win-pane, label: "_Published Nov 14, 2025, 01:10 PM_
+For some, ‘the new american dream is to leave’" }
+ArfKpsaTsicrm@{ shape: win-pane, label: "_Published Oct 19, 2025, 12:51 AM_
+As us braces for ‘no kings’ protests against trump, surveillance worries emerge" }
+NglxerlssneaT@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:06 PM_
+‘no kings’ rallies expected to draw millions across us in protest against trump" }
+TaSeuatdytcr@{ shape: win-pane, label: "_Published Oct 18, 2025, 05:41 AM_
+Trump asks us supreme court to allow troop deployment to chicago area" }
+AdnnpsuiralrWn@{ shape: win-pane, label: "_Published Jun 15, 2025, 06:04 AM_
+After day of nationwide protests, trump’s military parade rolls through washington" }
+Wnbdrnrnfekcxo@{ shape: win-pane, label: "_Published Jan 14, 2025, 07:08 PM_
+Washington braced for trump inauguration with fortress-like fencing, extra police" }
+FvggfoiOncasii@{ shape: win-pane, label: "_Published Jan 02, 2025, 03:50 AM_
+Fbi investigating ‘act of terrorism’ in new orleans truck attack; suspect identified" }
+Lsounenonmr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:01 PM_
+Longest us govt shutdown is over but new showdowns loom for trump" }
+Tsdootveuns@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:48 AM_
+Trump signs deal to end longest us government shutdown in history" }
 Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
 Democrats sweep first major elections of second trump term" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
-Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
-Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
-Takeaways from us election night 2025" }
-Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
-Cuomo to stay in new york mayoral race despite losing democratic primary" }
-MnCankgnsodty@{ shape: win-pane, label: "_Published Jun 27, 2025, 06:16 PM_
-Mamdani’s nyc primary win sparks surge in anti-muslim posts, advocates say" }
-Ttfevhniiiss@{ shape: win-pane, label: "_Published Apr 03, 2025, 11:10 AM_
-Trump tariffs take aim everywhere, including uninhabited islands" }
-Tspaspadanop@{ shape: win-pane, label: "_Published Apr 03, 2025, 04:47 AM_
-Trump’s sweeping tariffs amp up global trade war as china, eu vow response" }
-Ttftlaraarasrafl@{ shape: win-pane, label: "_Published Apr 03, 2025, 07:56 AM_
-Trump tariffs: hitting close partner singapore ‘a surprise’, says ex-senior us trade official" }
-Acnrrhteur@{ shape: win-pane, label: "_Published Feb 17, 2025, 01:52 PM_
-American consumers learn to shop in the age of trump tariffs" }
-OiaeqsenonBoH@{ shape: win-pane, label: "_Published Mar 28, 2025, 02:47 PM_
-Over 153 killed as powerful quake strikes myanmar, sows panic in bangkok and hanoi" }
+HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
+‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
 
-Taitreieoblfri:::txtsize --> Drwialosdp:::txtsize
-Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
-YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
-YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
-Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
-Ctywmaeiseary:::txtsize --> MnCankgnsodty:::txtsize
-Taitreieoblfri:::txtsize --> Ttfevhniiiss:::txtsize
-Ttfevhniiiss:::txtsize --> Tspaspadanop:::txtsize
-Tspaspadanop:::txtsize --> Ttftlaraarasrafl:::txtsize
-Tspaspadanop:::txtsize --> Acnrrhteur:::txtsize
-Ttfevhniiiss:::txtsize --> OiaeqsenonBoH:::txtsize
+Fmnenml:::txtsize --> ArfKpsaTsicrm:::txtsize
+ArfKpsaTsicrm:::txtsize --> NglxerlssneaT:::txtsize
+NglxerlssneaT:::txtsize --> TaSeuatdytcr:::txtsize
+NglxerlssneaT:::txtsize --> AdnnpsuiralrWn:::txtsize
+ArfKpsaTsicrm:::txtsize --> Wnbdrnrnfekcxo:::txtsize
+Wnbdrnrnfekcxo:::txtsize --> FvggfoiOncasii:::txtsize
+Fmnenml:::txtsize --> Lsounenonmr:::txtsize
+Lsounenonmr:::txtsize --> Tsdootveuns:::txtsize
+Tsdootveuns:::txtsize --> Drwialosdp:::txtsize
+Tsdootveuns:::txtsize --> HwtipngesTkfot:::txtsize
 
-IlinraoeHIiaelaG@{ shape: win-pane, label: "_Published Nov 14, 2025, 09:20 AM_
-Israel receives another deceased hostage from hamas, islamic jihad, three still remain in gaza" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
-Singapore strongly condemns terror attacks on israel, calls for end to violence" }
-Hholissrrazo@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:47 PM_
-Hamas hands over all living hostages to israel; trump says gaza war over" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-FetGaoumo@{ shape: win-pane, label: "_Published Aug 22, 2025, 05:27 PM_
-Famine has struck gaza, says global hunger monitor" }
-Ilcaagmn@{ shape: win-pane, label: "_Published Nov 09, 2024, 10:03 PM_
-Israel rejects ‘biased’ warning of famine in gaza" }
-Ulfezsrda@{ shape: win-pane, label: "_Published Aug 22, 2025, 03:02 PM_
-Un declares famine in gaza; first ever in middle east" }
+Uennktpiiom@{ shape: win-pane, label: "_Published Nov 14, 2025, 01:07 PM_
+Us government opens back up but deep political divisions remain" }
+Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
+Us government shutdown becomes longest in history" }
+AcobeaSdnsdh@{ shape: win-pane, label: "_Published Nov 01, 2025, 01:34 AM_
+Americans worry about next meal as us shutdown enters second month" }
+Waswhomhw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:42 PM_
+What happens next with the us government shutdown?" }
+Tsrermvlyuso@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:18 AM_
+Trump says private donor gave $160m to cover military pay during shutdown" }
+Uentesraosactt@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:47 PM_
+Us government shutdown enters record 35th day as congressional inaction takes toll" }
+Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
+Us government begins shutdown that may lead to mass layoffs and cuts" }
+MoAcoedaromhwmirn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:30 AM_
+Millions of americans to get reduced food aid during government shutdown: trump administration" }
+Usodootrtdno@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:21 PM_
+Us house to vote on deal to end longest government shutdown in history" }
+Tcsbcaomhwes@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:55 AM_
+Trump claims ‘very big victory’ as us government shutdown vote nears" }
+Usuoinoeveun@{ shape: win-pane, label: "_Published Nov 12, 2025, 04:21 AM_
+Us house returns to washington for vote to end government shutdown" }
+Tttifolohwe@{ shape: win-pane, label: "_Published Nov 11, 2025, 08:14 AM_
+Trump threatens air traffic controllers over shutdown absences" }
+HafdoptdSt@{ shape: win-pane, label: "_Published Jan 07, 2021, 10:03 AM_
+How chaos unfolded as pro-trump mob stormed the us capitol" }
+peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
+4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
 
-IlinraoeHIiaelaG:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-WzptIleint:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
-Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
-IlinraoeHIiaelaG:::txtsize --> Hholissrrazo:::txtsize
-Hholissrrazo:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Hholissrrazo:::txtsize --> FetGaoumo:::txtsize
-FetGaoumo:::txtsize --> Ilcaagmn:::txtsize
-FetGaoumo:::txtsize --> Ulfezsrda:::txtsize
+Uennktpiiom:::txtsize --> Uentbegno:::txtsize
+Uentbegno:::txtsize --> AcobeaSdnsdh:::txtsize
+AcobeaSdnsdh:::txtsize --> Waswhomhw:::txtsize
+AcobeaSdnsdh:::txtsize --> Tsrermvlyuso:::txtsize
+Uentbegno:::txtsize --> Uentesraosactt:::txtsize
+Uentesraosactt:::txtsize --> Ueniunmaayat:::txtsize
+Uentesraosactt:::txtsize --> MoAcoedaromhwmirn:::txtsize
+Uennktpiiom:::txtsize --> Usodootrtdno:::txtsize
+Usodootrtdno:::txtsize --> Tcsbcaomhwes:::txtsize
+Tcsbcaomhwes:::txtsize --> Usuoinoeveun:::txtsize
+Tcsbcaomhwes:::txtsize --> Tttifolohwe:::txtsize
+Usodootrtdno:::txtsize --> HafdoptdSt:::txtsize
+HafdoptdSt:::txtsize --> peapubmalrest:::txtsize
 
 ```
-<i>Last updated: 2025-11-14 12:00:21.734408 (GMT+8)</i>
+<i>Last updated: 2025-11-14 16:00:50.369227 (GMT+8)</i>
 <!-- END -->
