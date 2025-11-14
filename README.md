@@ -16,123 +16,132 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Sedtfcire@{ shape: win-pane, label: "_Published Nov 14, 2025, 11:44 PM_
-Switzerland wins tariff rate cut to 15% in us trade deal" }
-SedeesUotfk@{ shape: win-pane, label: "_Published Aug 08, 2025, 04:08 AM_
-Switzerland to seek more talks with us as 39% ‘horror’ tariffs kick in" }
-Sednaastnetaagma@{ shape: win-pane, label: "_Published Aug 07, 2025, 12:50 AM_
-Switzerland facing 39% us tariff as president karin keller-sutter leaves washington empty-handed" }
-SednUiteeaoo@{ shape: win-pane, label: "_Published Aug 02, 2025, 05:11 AM_
-Switzerland stunned by us tariff rate of 39%, seeks negotiated solution" }
-SednUiteeaoo@{ shape: win-pane, label: "_Published Aug 02, 2025, 05:11 AM_
-Switzerland stunned by us tariff rate of 39%, seeks negotiated solution" }
-SednUiteeaoo@{ shape: win-pane, label: "_Published Aug 02, 2025, 05:11 AM_
-Switzerland stunned by us tariff rate of 39%, seeks negotiated solution" }
-Tmiccraodrnarn@{ shape: win-pane, label: "_Published Aug 01, 2025, 07:56 AM_
-Trump modifies reciprocal tariffs ahead of deadline; rate on singapore remains at 10%" }
-Sedcerasti@{ shape: win-pane, label: "_Published Sep 11, 2025, 10:42 PM_
-Switzerland’s watchmakers turn us tariffs into timepieces" }
-SedeesUotfk@{ shape: win-pane, label: "_Published Aug 08, 2025, 04:08 AM_
-Switzerland to seek more talks with us as 39% ‘horror’ tariffs kick in" }
-Sednaastnetaagma@{ shape: win-pane, label: "_Published Aug 07, 2025, 12:50 AM_
-Switzerland facing 39% us tariff as president karin keller-sutter leaves washington empty-handed" }
-SednUiteeaoo@{ shape: win-pane, label: "_Published Aug 02, 2025, 05:11 AM_
-Switzerland stunned by us tariff rate of 39%, seeks negotiated solution" }
-SedeesUotfk@{ shape: win-pane, label: "_Published Aug 08, 2025, 04:08 AM_
-Switzerland to seek more talks with us as 39% ‘horror’ tariffs kick in" }
-Sednaastnetaagma@{ shape: win-pane, label: "_Published Aug 07, 2025, 12:50 AM_
-Switzerland facing 39% us tariff as president karin keller-sutter leaves washington empty-handed" }
-SednUiteeaoo@{ shape: win-pane, label: "_Published Aug 02, 2025, 05:11 AM_
-Switzerland stunned by us tariff rate of 39%, seeks negotiated solution" }
+Minrlapi@{ shape: win-pane, label: "_Published Nov 15, 2025, 03:43 AM_
+Man jailed in uk for stealing banksy painting" }
+Bsrrdonueitye@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:09 AM_
+British courts service destroys banksy mural depicting attack by judge" }
+Nnutogrwgips@{ shape: win-pane, label: "_Published Sep 08, 2025, 07:56 PM_
+New banksy mural at london’s high court shows judge striking protester" }
+Rapiulrsftoe@{ shape: win-pane, label: "_Published Mar 05, 2025, 02:40 PM_
+Rare banksy painting crude oil (vettriano) sells for $7.4m at london sale" }
+Nnueieipsrn@{ shape: win-pane, label: "_Published Mar 19, 2024, 11:40 AM_
+New banksy mural depicting tree foliage appears in north london" }
+Nnutogrwgips@{ shape: win-pane, label: "_Published Sep 08, 2025, 07:56 PM_
+New banksy mural at london’s high court shows judge striking protester" }
+Rapiulrsftoe@{ shape: win-pane, label: "_Published Mar 05, 2025, 02:40 PM_
+Rare banksy painting crude oil (vettriano) sells for $7.4m at london sale" }
+Nnueieipsrn@{ shape: win-pane, label: "_Published Mar 19, 2024, 11:40 AM_
+New banksy mural depicting tree foliage appears in north london" }
+Rapiulrsftoe@{ shape: win-pane, label: "_Published Mar 05, 2025, 02:40 PM_
+Rare banksy painting crude oil (vettriano) sells for $7.4m at london sale" }
+Tniortinoigecr@{ shape: win-pane, label: "_Published Nov 06, 2024, 05:00 PM_
+Touring exhibition of graffiti artist banksy to open in singapore in december" }
+Mtigaoomo@{ shape: win-pane, label: "_Published Nov 20, 2024, 06:05 PM_
+Magritte painting nets auction record of $162 million" }
+YenrnrnytUigea@{ shape: win-pane, label: "_Published Nov 13, 2024, 10:25 PM_
+Yong wee loon is first singaporean in over 10 years to win uob painting of the year award" }
+AsnntTnlttoayei@{ shape: win-pane, label: "_Published Oct 23, 2024, 05:00 PM_
+‘art has given me longevity’: lim tze peng, 103, ebullient about national gallery solo exhibition" }
 
-Sedtfcire:::txtsize --> SedeesUotfk:::txtsize
-SedeesUotfk:::txtsize --> Sednaastnetaagma:::txtsize
-Sednaastnetaagma:::txtsize --> SednUiteeaoo:::txtsize
-Sednaastnetaagma:::txtsize --> SednUiteeaoo:::txtsize
-SedeesUotfk:::txtsize --> SednUiteeaoo:::txtsize
-SednUiteeaoo:::txtsize --> Tmiccraodrnarn:::txtsize
-Sedtfcire:::txtsize --> Sedcerasti:::txtsize
-Sedcerasti:::txtsize --> SedeesUotfk:::txtsize
-SedeesUotfk:::txtsize --> Sednaastnetaagma:::txtsize
-SedeesUotfk:::txtsize --> SednUiteeaoo:::txtsize
-Sedcerasti:::txtsize --> SedeesUotfk:::txtsize
-SedeesUotfk:::txtsize --> Sednaastnetaagma:::txtsize
-SedeesUotfk:::txtsize --> SednUiteeaoo:::txtsize
+Minrlapi:::txtsize --> Bsrrdonueitye:::txtsize
+Bsrrdonueitye:::txtsize --> Nnutogrwgips:::txtsize
+Nnutogrwgips:::txtsize --> Rapiulrsftoe:::txtsize
+Nnutogrwgips:::txtsize --> Nnueieipsrn:::txtsize
+Bsrrdonueitye:::txtsize --> Nnutogrwgips:::txtsize
+Nnutogrwgips:::txtsize --> Rapiulrsftoe:::txtsize
+Nnutogrwgips:::txtsize --> Nnueieipsrn:::txtsize
+Minrlapi:::txtsize --> Rapiulrsftoe:::txtsize
+Rapiulrsftoe:::txtsize --> Tniortinoigecr:::txtsize
+Rapiulrsftoe:::txtsize --> Mtigaoomo:::txtsize
+Mtigaoomo:::txtsize --> YenrnrnytUigea:::txtsize
+Mtigaoomo:::txtsize --> AsnntTnlttoayei:::txtsize
 
-Ppetoaeheit@{ shape: win-pane, label: "_Published Nov 14, 2025, 11:12 PM_
-Paris police shoot and wound man armed with knife at rail station" }
-Feetcodrtyo@{ shape: win-pane, label: "_Published Nov 14, 2025, 01:41 AM_
-France commemorates victims of deadly paris attacks 10 years on" }
-UaecldgeIape@{ shape: win-pane, label: "_Published Oct 09, 2025, 12:13 AM_
-Uk synagogue attacker claimed allegiance to isis in call to police" }
-Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
-British man of syrian descent named as manchester synagogue attacker" }
-Bsiyaeltvmnua@{ shape: win-pane, label: "_Published Oct 03, 2025, 07:55 PM_
-British police may have accidentally shot dead victim in synagogue attack" }
-Urwiholdiro@{ shape: win-pane, label: "_Published Nov 04, 2025, 01:47 AM_
-Us charges two men in michigan over alleged isis-inspired plot" }
-Pteitheiash@{ shape: win-pane, label: "_Published Nov 01, 2025, 04:36 AM_
-‘potential terrorist attack’ thwarted in michigan, says fbi chief" }
-Pteitheiash@{ shape: win-pane, label: "_Published Nov 01, 2025, 04:36 AM_
-‘potential terrorist attack’ thwarted in michigan, says fbi chief" }
-Ynecasreutnbmrdu@{ shape: win-pane, label: "_Published Sep 24, 2025, 09:43 AM_
-Yishun knife attack: woman dies after noise dispute between neighbours; man arrested for murder" }
-YnecisaftnolssP@{ shape: win-pane, label: "_Published Sep 24, 2025, 08:25 PM_
-Yishun knife attack: residents can tap different channels to resolve disputes, say mps" }
-Ynecasreutnbmrdu@{ shape: win-pane, label: "_Published Sep 24, 2025, 09:43 AM_
-Yishun knife attack: woman dies after noise dispute between neighbours; man arrested for murder" }
-Ynecasreutnbmrdu@{ shape: win-pane, label: "_Published Sep 24, 2025, 09:43 AM_
-Yishun knife attack: woman dies after noise dispute between neighbours; man arrested for murder" }
-dndrutnbahBk@{ shape: win-pane, label: "_Published Jul 19, 2025, 10:27 PM_
-1 dead, 1 injured after dispute between neighbours at yishun hdb block" }
+Trdiefir@{ shape: win-pane, label: "_Published Nov 15, 2025, 03:27 AM_
+‘tinder swindler’ simon leviev freed in georgia" }
+Fesnegeerdb@{ shape: win-pane, label: "_Published Nov 15, 2025, 03:25 AM_
+France arrests longtime us fugitive wanted over child sex abuse" }
+Trdiefir@{ shape: win-pane, label: "_Published Nov 15, 2025, 03:27 AM_
+‘tinder swindler’ simon leviev freed in georgia" }
+Fesnegeerdb@{ shape: win-pane, label: "_Published Nov 15, 2025, 03:25 AM_
+France arrests longtime us fugitive wanted over child sex abuse" }
+FisncxiRaast@{ shape: win-pane, label: "_Published Sep 17, 2025, 02:14 AM_
+Fugitive austrian wirecard executive in russia: media investigation" }
+FisncxiRaast@{ shape: win-pane, label: "_Published Sep 17, 2025, 02:14 AM_
+Fugitive austrian wirecard executive in russia: media investigation" }
+Pnardsnefinmn@{ shape: win-pane, label: "_Published Jun 25, 2020, 03:18 PM_
+Payments giant wirecard files for insolvency after €1.9 billion goes missing" }
+FrcOdnfreig@{ shape: win-pane, label: "_Published Jul 19, 2023, 08:35 AM_
+Former wirecard coo sends sign of life 3 years after vanishing" }
+FisncxiRaast@{ shape: win-pane, label: "_Published Sep 17, 2025, 02:14 AM_
+Fugitive austrian wirecard executive in russia: media investigation" }
+Pnardsnefinmn@{ shape: win-pane, label: "_Published Jun 25, 2020, 03:18 PM_
+Payments giant wirecard files for insolvency after €1.9 billion goes missing" }
+Waaitvntllsi@{ shape: win-pane, label: "_Published Jun 18, 2020, 08:23 PM_
+Wirecard shares dive 60% after revealing that nearly $3 billion is missing" }
+FrcOdnfreig@{ shape: win-pane, label: "_Published Jul 19, 2023, 08:35 AM_
+Former wirecard coo sends sign of life 3 years after vanishing" }
+Pnardsnefinmn@{ shape: win-pane, label: "_Published Jun 25, 2020, 03:18 PM_
+Payments giant wirecard files for insolvency after €1.9 billion goes missing" }
+Spnnaoiecams@{ shape: win-pane, label: "_Published Jun 27, 2023, 03:34 PM_
+Singaporean businessman involved in wirecard case jailed 12 months" }
 
-Ppetoaeheit:::txtsize --> Feetcodrtyo:::txtsize
-Feetcodrtyo:::txtsize --> UaecldgeIape:::txtsize
-UaecldgeIape:::txtsize --> Bsoisnaceaec:::txtsize
-UaecldgeIape:::txtsize --> Bsiyaeltvmnua:::txtsize
-Feetcodrtyo:::txtsize --> Urwiholdiro:::txtsize
-Urwiholdiro:::txtsize --> Pteitheiash:::txtsize
-Urwiholdiro:::txtsize --> Pteitheiash:::txtsize
-Ppetoaeheit:::txtsize --> Ynecasreutnbmrdu:::txtsize
-Ynecasreutnbmrdu:::txtsize --> YnecisaftnolssP:::txtsize
-YnecisaftnolssP:::txtsize --> Ynecasreutnbmrdu:::txtsize
-YnecisaftnolssP:::txtsize --> Ynecasreutnbmrdu:::txtsize
-Ynecasreutnbmrdu:::txtsize --> dndrutnbahBk:::txtsize
+Trdiefir:::txtsize --> Fesnegeerdb:::txtsize
+Fesnegeerdb:::txtsize --> Trdiefir:::txtsize
+Trdiefir:::txtsize --> Fesnegeerdb:::txtsize
+Trdiefir:::txtsize --> FisncxiRaast:::txtsize
+Fesnegeerdb:::txtsize --> FisncxiRaast:::txtsize
+FisncxiRaast:::txtsize --> Pnardsnefinmn:::txtsize
+FisncxiRaast:::txtsize --> FrcOdnfreig:::txtsize
+Trdiefir:::txtsize --> FisncxiRaast:::txtsize
+FisncxiRaast:::txtsize --> Pnardsnefinmn:::txtsize
+Pnardsnefinmn:::txtsize --> Waaitvntllsi:::txtsize
+FisncxiRaast:::txtsize --> FrcOdnfreig:::txtsize
+FrcOdnfreig:::txtsize --> Pnardsnefinmn:::txtsize
+FrcOdnfreig:::txtsize --> Spnnaoiecams:::txtsize
 
-WnevnmatipvitSta@{ shape: win-pane, label: "_Published Nov 14, 2025, 10:01 PM_
-Weapons makers have ‘conned’ us military into buying expensive equipment, army secretary says" }
-Utleoaasngla@{ shape: win-pane, label: "_Published Nov 07, 2025, 08:10 PM_
-Us to streamline pentagon’s weapons acquisition amid global threats" }
-TsetroUpxs@{ shape: win-pane, label: "_Published Apr 10, 2025, 06:10 AM_
-Trump signs executive order to ease us weapons exports" }
-Vaurdcsios@{ shape: win-pane, label: "_Published Apr 08, 2025, 10:05 AM_
-Vietnam to buy american defence and security products" }
-Usrtrnildd@{ shape: win-pane, label: "_Published Jan 25, 2025, 03:42 AM_
-Us arms exports hit record in 2024 on ukraine-related demand" }
-Pgshiavuesn@{ shape: win-pane, label: "_Published Nov 05, 2025, 04:57 AM_
-Pentagon pushes ahead with plan to overhaul us weapons buying" }
-Uccsepohelseco@{ shape: win-pane, label: "_Published Nov 05, 2025, 04:35 AM_
-Us space force to use three weapons to jam chinese satellites via remote control" }
-Alvggshflyhscr@{ shape: win-pane, label: "_Published Oct 02, 2025, 06:19 PM_
-‘assault on oversight’: hegseth’s overhaul of us military watchdogs spurs concern" }
-WHmkssnliui@{ shape: win-pane, label: "_Published Mar 25, 2025, 04:50 AM_
-White house mistakenly shares yemen war plans with journalist" }
-Hiinuposhrah@{ shape: win-pane, label: "_Published Mar 17, 2025, 03:35 PM_
-‘hell will rain down on you’: trump, the houthis and the us’ proxy war with iran" }
-Tfietesrfanso@{ shape: win-pane, label: "_Published Jan 25, 2025, 03:45 PM_
-Trump fires 17 independent inspectors-general at federal agencies, says source" }
+Fesnegeerdb@{ shape: win-pane, label: "_Published Nov 15, 2025, 03:25 AM_
+France arrests longtime us fugitive wanted over child sex abuse" }
+Trdiefir@{ shape: win-pane, label: "_Published Nov 15, 2025, 03:27 AM_
+‘tinder swindler’ simon leviev freed in georgia" }
+Fesnegeerdb@{ shape: win-pane, label: "_Published Nov 15, 2025, 03:25 AM_
+France arrests longtime us fugitive wanted over child sex abuse" }
+Trdiefir@{ shape: win-pane, label: "_Published Nov 15, 2025, 03:27 AM_
+‘tinder swindler’ simon leviev freed in georgia" }
+FisncxiRaast@{ shape: win-pane, label: "_Published Sep 17, 2025, 02:14 AM_
+Fugitive austrian wirecard executive in russia: media investigation" }
+FisncxiRaast@{ shape: win-pane, label: "_Published Sep 17, 2025, 02:14 AM_
+Fugitive austrian wirecard executive in russia: media investigation" }
+Pnardsnefinmn@{ shape: win-pane, label: "_Published Jun 25, 2020, 03:18 PM_
+Payments giant wirecard files for insolvency after €1.9 billion goes missing" }
+FrcOdnfreig@{ shape: win-pane, label: "_Published Jul 19, 2023, 08:35 AM_
+Former wirecard coo sends sign of life 3 years after vanishing" }
+FisncxiRaast@{ shape: win-pane, label: "_Published Sep 17, 2025, 02:14 AM_
+Fugitive austrian wirecard executive in russia: media investigation" }
+Pnardsnefinmn@{ shape: win-pane, label: "_Published Jun 25, 2020, 03:18 PM_
+Payments giant wirecard files for insolvency after €1.9 billion goes missing" }
+Waaitvntllsi@{ shape: win-pane, label: "_Published Jun 18, 2020, 08:23 PM_
+Wirecard shares dive 60% after revealing that nearly $3 billion is missing" }
+FrcOdnfreig@{ shape: win-pane, label: "_Published Jul 19, 2023, 08:35 AM_
+Former wirecard coo sends sign of life 3 years after vanishing" }
+Pnardsnefinmn@{ shape: win-pane, label: "_Published Jun 25, 2020, 03:18 PM_
+Payments giant wirecard files for insolvency after €1.9 billion goes missing" }
+Spnnaoiecams@{ shape: win-pane, label: "_Published Jun 27, 2023, 03:34 PM_
+Singaporean businessman involved in wirecard case jailed 12 months" }
 
-WnevnmatipvitSta:::txtsize --> Utleoaasngla:::txtsize
-Utleoaasngla:::txtsize --> TsetroUpxs:::txtsize
-TsetroUpxs:::txtsize --> Vaurdcsios:::txtsize
-TsetroUpxs:::txtsize --> Usrtrnildd:::txtsize
-Utleoaasngla:::txtsize --> Pgshiavuesn:::txtsize
-Pgshiavuesn:::txtsize --> Uccsepohelseco:::txtsize
-WnevnmatipvitSta:::txtsize --> Alvggshflyhscr:::txtsize
-Alvggshflyhscr:::txtsize --> WHmkssnliui:::txtsize
-WHmkssnliui:::txtsize --> Hiinuposhrah:::txtsize
-Alvggshflyhscr:::txtsize --> Tfietesrfanso:::txtsize
+Fesnegeerdb:::txtsize --> Trdiefir:::txtsize
+Trdiefir:::txtsize --> Fesnegeerdb:::txtsize
+Fesnegeerdb:::txtsize --> Trdiefir:::txtsize
+Fesnegeerdb:::txtsize --> FisncxiRaast:::txtsize
+Trdiefir:::txtsize --> FisncxiRaast:::txtsize
+FisncxiRaast:::txtsize --> Pnardsnefinmn:::txtsize
+FisncxiRaast:::txtsize --> FrcOdnfreig:::txtsize
+Fesnegeerdb:::txtsize --> FisncxiRaast:::txtsize
+FisncxiRaast:::txtsize --> Pnardsnefinmn:::txtsize
+Pnardsnefinmn:::txtsize --> Waaitvntllsi:::txtsize
+FisncxiRaast:::txtsize --> FrcOdnfreig:::txtsize
+FrcOdnfreig:::txtsize --> Pnardsnefinmn:::txtsize
+FrcOdnfreig:::txtsize --> Spnnaoiecams:::txtsize
 
 ```
-<i>Last updated: 2025-11-15 00:00:50.154817 (GMT+8)</i>
+<i>Last updated: 2025-11-15 04:01:19.070965 (GMT+8)</i>
 <!-- END -->
