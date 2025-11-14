@@ -16,123 +16,102 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Iaieenareis@{ shape: win-pane, label: "_Published Nov 14, 2025, 03:45 PM_
-Italian fruit detective racing to save forgotten varieties" }
-GiaereautostStn@{ shape: win-pane, label: "_Published Jul 18, 2025, 04:06 PM_
-Georgia’s tea growers work to revive an industry that collapsed with the soviet union" }
-FodfSgodln@{ shape: win-pane, label: "_Published Jul 13, 2025, 12:35 PM_
-Farm worker dies after us immigration raid in california" }
-Umesosrwrmro@{ shape: win-pane, label: "_Published Jul 09, 2025, 04:20 PM_
-Us farm secretary says ‘no amnesty’ for farmworkers from deportation" }
-JsbiuoepSeujir@{ shape: win-pane, label: "_Published Jul 09, 2025, 10:23 PM_
-Judges keep blocking trump’s policies despite us supreme court injunction curbs" }
-LaanutipdMu@{ shape: win-pane, label: "_Published Apr 28, 2025, 02:15 PM_
-Lush landscapes and a gourmet trail in gippsland near melbourne" }
-Csasnverrat@{ shape: win-pane, label: "_Published Jul 09, 2025, 12:20 PM_
-China’s ‘new farmers’ learn to live-stream in rural revitalisation" }
-HifnspUmnooe@{ shape: win-pane, label: "_Published Apr 21, 2025, 01:01 AM_
-How china is finding ways to replace us farmers in response to trade war" }
-UndPharnsa@{ shape: win-pane, label: "_Published Apr 15, 2025, 05:00 AM_
-Us-china trade war: punishing tariff rates not sustainable" }
-Tsdaeeogwff@{ shape: win-pane, label: "_Published Apr 10, 2025, 06:00 PM_
-Trump’s world view and the dangers from his great wall of tariffs" }
-WoatorWainaakv@{ shape: win-pane, label: "_Published Jun 19, 2025, 11:01 AM_
-Want to howl and eat raw food for work? ‘wild man’ job in chinese national park goes viral" }
-GjniiAodooenai@{ shape: win-pane, label: "_Published May 17, 2025, 10:15 AM_
-Ghost jobs and ai girlfriends: a dystopian dictionary of modern financial anxiety" }
-pibtlhh@{ shape: win-pane, label: "_Published Jan 15, 2023, 05:00 AM_
-10 part-time jobs that won’t lose their shine" }
+RaNKnpyodisko@{ shape: win-pane, label: "_Published Nov 14, 2025, 07:22 PM_
+Russia says north korean troops play key role in de-mining its kursk region" }
+ouodsnaNaias@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:36 PM_
+70% of ammunition used by russia in war made in n. korea: ukraine analysis" }
+NKsosirsRaacs@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:15 AM_
+North korea’s kim jong un says military ties with russia will ‘advance non-stop’" }
+Pdnemcsilrri@{ shape: win-pane, label: "_Published Oct 24, 2025, 12:25 AM_
+Putin defiant after trump sanctions russian oil majors over ukraine" }
+NKsenay@{ shape: win-pane, label: "_Published Oct 23, 2025, 05:50 AM_
+North korea says tested new weapon system" }
+NKfunelcioly@{ shape: win-pane, label: "_Published Nov 07, 2025, 12:00 PM_
+North korea fires unidentified ballistic missile: seoul military" }
+Tsooartlloda@{ shape: win-pane, label: "_Published Oct 30, 2025, 06:25 AM_
+Trump says south korea has approval to build nuclear-powered submarine" }
+NKlrrsioRaea@{ shape: win-pane, label: "_Published Aug 21, 2025, 06:11 AM_
+North korea leader kim praises ‘heroic’ troops in russia, state media says" }
+Unalsrit@{ shape: win-pane, label: "_Published Nov 14, 2025, 09:56 AM_
+Ukrainian capital comes under ‘massive’ attack" }
+Raaanasoleaa@{ shape: win-pane, label: "_Published Nov 08, 2025, 06:40 PM_
+Russian attacks target nuclear substations, kill seven, ukraine says" }
+RahtsaouPvnlae@{ shape: win-pane, label: "_Published Nov 08, 2025, 06:00 PM_
+Russia says house-to-house advance continues in pokrovsk, tiny village captured" }
+UksrRaehnUry@{ shape: win-pane, label: "_Published Nov 08, 2025, 02:00 AM_
+Us backs eu using frozen russian assets to help end war, us source says" }
+UlRamaoerwttsparr@{ shape: win-pane, label: "_Published Oct 25, 2025, 06:05 PM_
+Us could hit russia with more sanctions to end ukraine war, but first wants europe to raise pressure" }
+UpmucssorirPwht@{ shape: win-pane, label: "_Published Oct 23, 2025, 05:33 AM_
+Us slaps ‘tremendous sanctions’ on russian oil for ukraine war, says putin wasn’t ‘honest’" }
+Pdnemcsilrri@{ shape: win-pane, label: "_Published Oct 24, 2025, 12:25 AM_
+Putin defiant after trump sanctions russian oil majors over ukraine" }
 
-Iaieenareis:::txtsize --> GiaereautostStn:::txtsize
-GiaereautostStn:::txtsize --> FodfSgodln:::txtsize
-FodfSgodln:::txtsize --> Umesosrwrmro:::txtsize
-FodfSgodln:::txtsize --> JsbiuoepSeujir:::txtsize
-GiaereautostStn:::txtsize --> LaanutipdMu:::txtsize
-Iaieenareis:::txtsize --> Csasnverrat:::txtsize
-Csasnverrat:::txtsize --> HifnspUmnooe:::txtsize
-HifnspUmnooe:::txtsize --> UndPharnsa:::txtsize
-HifnspUmnooe:::txtsize --> Tsdaeeogwff:::txtsize
-Csasnverrat:::txtsize --> WoatorWainaakv:::txtsize
-WoatorWainaakv:::txtsize --> GjniiAodooenai:::txtsize
-WoatorWainaakv:::txtsize --> pibtlhh:::txtsize
+RaNKnpyodisko:::txtsize --> ouodsnaNaias:::txtsize
+ouodsnaNaias:::txtsize --> NKsosirsRaacs:::txtsize
+NKsosirsRaacs:::txtsize --> Pdnemcsilrri:::txtsize
+NKsosirsRaacs:::txtsize --> NKsenay:::txtsize
+ouodsnaNaias:::txtsize --> NKfunelcioly:::txtsize
+NKfunelcioly:::txtsize --> Tsooartlloda:::txtsize
+NKfunelcioly:::txtsize --> NKlrrsioRaea:::txtsize
+RaNKnpyodisko:::txtsize --> Unalsrit:::txtsize
+Unalsrit:::txtsize --> Raaanasoleaa:::txtsize
+Raaanasoleaa:::txtsize --> RahtsaouPvnlae:::txtsize
+Raaanasoleaa:::txtsize --> UksrRaehnUry:::txtsize
+Unalsrit:::txtsize --> UlRamaoerwttsparr:::txtsize
+UlRamaoerwttsparr:::txtsize --> UpmucssorirPwht:::txtsize
+UlRamaoerwttsparr:::txtsize --> Pdnemcsilrri:::txtsize
 
-Fmnenml@{ shape: win-pane, label: "_Published Nov 14, 2025, 01:10 PM_
-For some, ‘the new american dream is to leave’" }
-ArfKpsaTsicrm@{ shape: win-pane, label: "_Published Oct 19, 2025, 12:51 AM_
-As us braces for ‘no kings’ protests against trump, surveillance worries emerge" }
-NglxerlssneaT@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:06 PM_
-‘no kings’ rallies expected to draw millions across us in protest against trump" }
-TaSeuatdytcr@{ shape: win-pane, label: "_Published Oct 18, 2025, 05:41 AM_
-Trump asks us supreme court to allow troop deployment to chicago area" }
-AdnnpsuiralrWn@{ shape: win-pane, label: "_Published Jun 15, 2025, 06:04 AM_
-After day of nationwide protests, trump’s military parade rolls through washington" }
-Wnbdrnrnfekcxo@{ shape: win-pane, label: "_Published Jan 14, 2025, 07:08 PM_
-Washington braced for trump inauguration with fortress-like fencing, extra police" }
-FvggfoiOncasii@{ shape: win-pane, label: "_Published Jan 02, 2025, 03:50 AM_
-Fbi investigating ‘act of terrorism’ in new orleans truck attack; suspect identified" }
-Lsounenonmr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:01 PM_
-Longest us govt shutdown is over but new showdowns loom for trump" }
-Tsdootveuns@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:48 AM_
-Trump signs deal to end longest us government shutdown in history" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
-HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
-‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
+NCoDocnlils@{ shape: win-pane, label: "_Published Nov 14, 2025, 07:01 PM_
+‘naked’ cheetos and doritos ditch iconic colours in health push" }
 
-Fmnenml:::txtsize --> ArfKpsaTsicrm:::txtsize
-ArfKpsaTsicrm:::txtsize --> NglxerlssneaT:::txtsize
-NglxerlssneaT:::txtsize --> TaSeuatdytcr:::txtsize
-NglxerlssneaT:::txtsize --> AdnnpsuiralrWn:::txtsize
-ArfKpsaTsicrm:::txtsize --> Wnbdrnrnfekcxo:::txtsize
-Wnbdrnrnfekcxo:::txtsize --> FvggfoiOncasii:::txtsize
-Fmnenml:::txtsize --> Lsounenonmr:::txtsize
-Lsounenonmr:::txtsize --> Tsdootveuns:::txtsize
-Tsdootveuns:::txtsize --> Drwialosdp:::txtsize
-Tsdootveuns:::txtsize --> HwtipngesTkfot:::txtsize
 
-Uennktpiiom@{ shape: win-pane, label: "_Published Nov 14, 2025, 01:07 PM_
-Us government opens back up but deep political divisions remain" }
-Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
-Us government shutdown becomes longest in history" }
-AcobeaSdnsdh@{ shape: win-pane, label: "_Published Nov 01, 2025, 01:34 AM_
-Americans worry about next meal as us shutdown enters second month" }
-Waswhomhw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:42 PM_
-What happens next with the us government shutdown?" }
-Tsrermvlyuso@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:18 AM_
-Trump says private donor gave $160m to cover military pay during shutdown" }
-Uentesraosactt@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:47 PM_
-Us government shutdown enters record 35th day as congressional inaction takes toll" }
-Ueniunmaayat@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:02 PM_
-Us government begins shutdown that may lead to mass layoffs and cuts" }
-MoAcoedaromhwmirn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:30 AM_
-Millions of americans to get reduced food aid during government shutdown: trump administration" }
-Usodootrtdno@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:21 PM_
-Us house to vote on deal to end longest government shutdown in history" }
-Tcsbcaomhwes@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:55 AM_
-Trump claims ‘very big victory’ as us government shutdown vote nears" }
-Usuoinoeveun@{ shape: win-pane, label: "_Published Nov 12, 2025, 04:21 AM_
-Us house returns to washington for vote to end government shutdown" }
-Tttifolohwe@{ shape: win-pane, label: "_Published Nov 11, 2025, 08:14 AM_
-Trump threatens air traffic controllers over shutdown absences" }
-HafdoptdSt@{ shape: win-pane, label: "_Published Jan 07, 2021, 10:03 AM_
-How chaos unfolded as pro-trump mob stormed the us capitol" }
-peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
-4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
+Tafoutoajna@{ shape: win-pane, label: "_Published Nov 14, 2025, 06:36 PM_
+Thousands of doctors launch strike over pay and jobs in england" }
+Bstafaingl@{ shape: win-pane, label: "_Published Jul 25, 2025, 04:19 PM_
+British doctors launch five-day strike, ignoring pm’s plea" }
+Utgoier@{ shape: win-pane, label: "_Published Sep 17, 2024, 03:37 AM_
+Uk doctors agree to 22.3% pay rise to end strikes" }
+SKpsggegldor@{ shape: win-pane, label: "_Published Aug 28, 2024, 04:13 PM_
+South korea passes bill giving nurses bigger role amid doctors’ strike" }
+JroBioui@{ shape: win-pane, label: "_Published Mar 13, 2023, 02:07 PM_
+Junior doctors in britain to go on 72-hour strike" }
+JroEnkkiedd@{ shape: win-pane, label: "_Published Jul 08, 2025, 08:45 PM_
+Junior doctors in england back strike action over pay demand" }
+Utgoier@{ shape: win-pane, label: "_Published Sep 17, 2024, 03:37 AM_
+Uk doctors agree to 22.3% pay rise to end strikes" }
+Uryuttnosuivyu@{ shape: win-pane, label: "_Published Dec 20, 2023, 04:14 PM_
+Uk emergency care under threat as junior doctors ramp up strikes over pay dispute" }
+Ugolyahiakro@{ shape: win-pane, label: "_Published Oct 29, 2025, 06:45 AM_
+Uk targets food delivery and car washes in illegal working crackdown" }
+BinumogIwrellgo@{ shape: win-pane, label: "_Published Sep 26, 2025, 02:42 PM_
+Britain to introduce compulsory digital id for workers to deter illegal immigration" }
+Bisictotmho@{ shape: win-pane, label: "_Published Aug 24, 2025, 09:45 AM_
+Britain’s mass facial recognition roll-out alarms rights groups" }
+ThnealmeEerdnrnt@{ shape: win-pane, label: "_Published Jun 12, 2025, 06:20 PM_
+The schengen agreement at 40: will free movement in europe endure amid rising migrant antipathy?" }
+Biteemnepnen@{ shape: win-pane, label: "_Published Sep 29, 2025, 05:38 AM_
+Britain may toughen rules for migrants seeking permanent residency" }
+Biptrtdordr@{ shape: win-pane, label: "_Published Sep 22, 2025, 09:06 PM_
+Britain’s populist reform party pledges tougher residency rules" }
+Biacotnnpln@{ shape: win-pane, label: "_Published Sep 28, 2025, 06:13 PM_
+Britain’s starmer calls on party to unite and ‘stop navel-gazing’" }
 
-Uennktpiiom:::txtsize --> Uentbegno:::txtsize
-Uentbegno:::txtsize --> AcobeaSdnsdh:::txtsize
-AcobeaSdnsdh:::txtsize --> Waswhomhw:::txtsize
-AcobeaSdnsdh:::txtsize --> Tsrermvlyuso:::txtsize
-Uentbegno:::txtsize --> Uentesraosactt:::txtsize
-Uentesraosactt:::txtsize --> Ueniunmaayat:::txtsize
-Uentesraosactt:::txtsize --> MoAcoedaromhwmirn:::txtsize
-Uennktpiiom:::txtsize --> Usodootrtdno:::txtsize
-Usodootrtdno:::txtsize --> Tcsbcaomhwes:::txtsize
-Tcsbcaomhwes:::txtsize --> Usuoinoeveun:::txtsize
-Tcsbcaomhwes:::txtsize --> Tttifolohwe:::txtsize
-Usodootrtdno:::txtsize --> HafdoptdSt:::txtsize
-HafdoptdSt:::txtsize --> peapubmalrest:::txtsize
+Tafoutoajna:::txtsize --> Bstafaingl:::txtsize
+Bstafaingl:::txtsize --> Utgoier:::txtsize
+Utgoier:::txtsize --> SKpsggegldor:::txtsize
+Utgoier:::txtsize --> JroBioui:::txtsize
+Bstafaingl:::txtsize --> JroEnkkiedd:::txtsize
+JroEnkkiedd:::txtsize --> Utgoier:::txtsize
+JroEnkkiedd:::txtsize --> Uryuttnosuivyu:::txtsize
+Tafoutoajna:::txtsize --> Ugolyahiakro:::txtsize
+Ugolyahiakro:::txtsize --> BinumogIwrellgo:::txtsize
+BinumogIwrellgo:::txtsize --> Bisictotmho:::txtsize
+BinumogIwrellgo:::txtsize --> ThnealmeEerdnrnt:::txtsize
+Ugolyahiakro:::txtsize --> Biteemnepnen:::txtsize
+Biteemnepnen:::txtsize --> Biptrtdordr:::txtsize
+Biteemnepnen:::txtsize --> Biacotnnpln:::txtsize
 
 ```
-<i>Last updated: 2025-11-14 16:00:50.369227 (GMT+8)</i>
+<i>Last updated: 2025-11-14 20:01:19.790272 (GMT+8)</i>
 <!-- END -->
