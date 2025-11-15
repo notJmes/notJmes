@@ -16,132 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Minrlapi@{ shape: win-pane, label: "_Published Nov 15, 2025, 03:43 AM_
-Man jailed in uk for stealing banksy painting" }
-Bsrrdonueitye@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:09 AM_
-British courts service destroys banksy mural depicting attack by judge" }
-Nnutogrwgips@{ shape: win-pane, label: "_Published Sep 08, 2025, 07:56 PM_
-New banksy mural at london’s high court shows judge striking protester" }
-Rapiulrsftoe@{ shape: win-pane, label: "_Published Mar 05, 2025, 02:40 PM_
-Rare banksy painting crude oil (vettriano) sells for $7.4m at london sale" }
-Nnueieipsrn@{ shape: win-pane, label: "_Published Mar 19, 2024, 11:40 AM_
-New banksy mural depicting tree foliage appears in north london" }
-Nnutogrwgips@{ shape: win-pane, label: "_Published Sep 08, 2025, 07:56 PM_
-New banksy mural at london’s high court shows judge striking protester" }
-Rapiulrsftoe@{ shape: win-pane, label: "_Published Mar 05, 2025, 02:40 PM_
-Rare banksy painting crude oil (vettriano) sells for $7.4m at london sale" }
-Nnueieipsrn@{ shape: win-pane, label: "_Published Mar 19, 2024, 11:40 AM_
-New banksy mural depicting tree foliage appears in north london" }
-Rapiulrsftoe@{ shape: win-pane, label: "_Published Mar 05, 2025, 02:40 PM_
-Rare banksy painting crude oil (vettriano) sells for $7.4m at london sale" }
-Tniortinoigecr@{ shape: win-pane, label: "_Published Nov 06, 2024, 05:00 PM_
-Touring exhibition of graffiti artist banksy to open in singapore in december" }
-Mtigaoomo@{ shape: win-pane, label: "_Published Nov 20, 2024, 06:05 PM_
-Magritte painting nets auction record of $162 million" }
-YenrnrnytUigea@{ shape: win-pane, label: "_Published Nov 13, 2024, 10:25 PM_
-Yong wee loon is first singaporean in over 10 years to win uob painting of the year award" }
-AsnntTnlttoayei@{ shape: win-pane, label: "_Published Oct 23, 2024, 05:00 PM_
-‘art has given me longevity’: lim tze peng, 103, ebullient about national gallery solo exhibition" }
+WHslalCsitt@{ shape: win-pane, label: "_Published Nov 15, 2025, 07:45 AM_
+White house says alibaba is helping chinese military target us: ft" }
+UrmsoafuT@{ shape: win-pane, label: "_Published Nov 14, 2025, 12:59 PM_
+Us approves $429m arms sale to taiwan, the first under trump" }
+Tsihiliealsen@{ shape: win-pane, label: "_Published Aug 16, 2025, 07:44 AM_
+Trump says xi told him china will not invade taiwan while he is us president" }
+TaeaZsmdisfegn@{ shape: win-pane, label: "_Published Aug 16, 2025, 07:20 AM_
+Trump advises ukraine’s zelensky to ‘make a deal’ with russia after meeting putin" }
+Asoeoawanawwns@{ shape: win-pane, label: "_Published Aug 15, 2025, 11:29 AM_
+Aggression only leads to defeat, taiwan’s lai ching-te says on world war anniversary" }
+XsioenneseuSK@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:36 AM_
+Xi says us, china ‘should be partners and friends’ as he meets trump in south korea" }
+Unloehmsewne@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:01 AM_
+Us, china seal deal on rare earths; trump says xi meeting was a 12 on scale of 1 to 10" }
+Unloehmsewne@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:01 AM_
+Us, china seal deal on rare earths; trump says xi meeting was a 12 on scale of 1 to 10" }
+Umwoimdagwh@{ shape: win-pane, label: "_Published Sep 23, 2025, 02:07 PM_
+Us lawmaker warns of military ‘misunderstanding’ risk with china" }
+Usutmikois@{ shape: win-pane, label: "_Published Sep 22, 2025, 07:59 AM_
+Us house group meets premier li as it kicks off china visit" }
+Usmsrhioit@{ shape: win-pane, label: "_Published Sep 21, 2025, 04:46 PM_
+Us house lawmakers make rare china visit to stabilise ties" }
+Piibefintl@{ shape: win-pane, label: "_Published Sep 23, 2025, 05:00 AM_
+Pacific policing becomes new front in china-west rivalry" }
+Cpsarliosssi@{ shape: win-pane, label: "_Published Sep 12, 2025, 02:14 PM_
+China pilots village surveillance in solomon islands, seeks stability" }
+SoalUnwoitlat@{ shape: win-pane, label: "_Published Aug 07, 2025, 05:36 PM_
+Solomon islands blocks us, china, taiwan from pacific’s top political meet" }
 
-Minrlapi:::txtsize --> Bsrrdonueitye:::txtsize
-Bsrrdonueitye:::txtsize --> Nnutogrwgips:::txtsize
-Nnutogrwgips:::txtsize --> Rapiulrsftoe:::txtsize
-Nnutogrwgips:::txtsize --> Nnueieipsrn:::txtsize
-Bsrrdonueitye:::txtsize --> Nnutogrwgips:::txtsize
-Nnutogrwgips:::txtsize --> Rapiulrsftoe:::txtsize
-Nnutogrwgips:::txtsize --> Nnueieipsrn:::txtsize
-Minrlapi:::txtsize --> Rapiulrsftoe:::txtsize
-Rapiulrsftoe:::txtsize --> Tniortinoigecr:::txtsize
-Rapiulrsftoe:::txtsize --> Mtigaoomo:::txtsize
-Mtigaoomo:::txtsize --> YenrnrnytUigea:::txtsize
-Mtigaoomo:::txtsize --> AsnntTnlttoayei:::txtsize
+WHslalCsitt:::txtsize --> UrmsoafuT:::txtsize
+UrmsoafuT:::txtsize --> Tsihiliealsen:::txtsize
+Tsihiliealsen:::txtsize --> TaeaZsmdisfegn:::txtsize
+Tsihiliealsen:::txtsize --> Asoeoawanawwns:::txtsize
+UrmsoafuT:::txtsize --> XsioenneseuSK:::txtsize
+XsioenneseuSK:::txtsize --> Unloehmsewne:::txtsize
+XsioenneseuSK:::txtsize --> Unloehmsewne:::txtsize
+WHslalCsitt:::txtsize --> Umwoimdagwh:::txtsize
+Umwoimdagwh:::txtsize --> Usutmikois:::txtsize
+Usutmikois:::txtsize --> Usmsrhioit:::txtsize
+Umwoimdagwh:::txtsize --> Piibefintl:::txtsize
+Piibefintl:::txtsize --> Cpsarliosssi:::txtsize
+Piibefintl:::txtsize --> SoalUnwoitlat:::txtsize
 
-Trdiefir@{ shape: win-pane, label: "_Published Nov 15, 2025, 03:27 AM_
-‘tinder swindler’ simon leviev freed in georgia" }
-Fesnegeerdb@{ shape: win-pane, label: "_Published Nov 15, 2025, 03:25 AM_
-France arrests longtime us fugitive wanted over child sex abuse" }
-Trdiefir@{ shape: win-pane, label: "_Published Nov 15, 2025, 03:27 AM_
-‘tinder swindler’ simon leviev freed in georgia" }
-Fesnegeerdb@{ shape: win-pane, label: "_Published Nov 15, 2025, 03:25 AM_
-France arrests longtime us fugitive wanted over child sex abuse" }
-FisncxiRaast@{ shape: win-pane, label: "_Published Sep 17, 2025, 02:14 AM_
-Fugitive austrian wirecard executive in russia: media investigation" }
-FisncxiRaast@{ shape: win-pane, label: "_Published Sep 17, 2025, 02:14 AM_
-Fugitive austrian wirecard executive in russia: media investigation" }
-Pnardsnefinmn@{ shape: win-pane, label: "_Published Jun 25, 2020, 03:18 PM_
-Payments giant wirecard files for insolvency after €1.9 billion goes missing" }
-FrcOdnfreig@{ shape: win-pane, label: "_Published Jul 19, 2023, 08:35 AM_
-Former wirecard coo sends sign of life 3 years after vanishing" }
-FisncxiRaast@{ shape: win-pane, label: "_Published Sep 17, 2025, 02:14 AM_
-Fugitive austrian wirecard executive in russia: media investigation" }
-Pnardsnefinmn@{ shape: win-pane, label: "_Published Jun 25, 2020, 03:18 PM_
-Payments giant wirecard files for insolvency after €1.9 billion goes missing" }
-Waaitvntllsi@{ shape: win-pane, label: "_Published Jun 18, 2020, 08:23 PM_
-Wirecard shares dive 60% after revealing that nearly $3 billion is missing" }
-FrcOdnfreig@{ shape: win-pane, label: "_Published Jul 19, 2023, 08:35 AM_
-Former wirecard coo sends sign of life 3 years after vanishing" }
-Pnardsnefinmn@{ shape: win-pane, label: "_Published Jun 25, 2020, 03:18 PM_
-Payments giant wirecard files for insolvency after €1.9 billion goes missing" }
-Spnnaoiecams@{ shape: win-pane, label: "_Published Jun 27, 2023, 03:34 PM_
-Singaporean businessman involved in wirecard case jailed 12 months" }
+Tcasefdrsfocm@{ shape: win-pane, label: "_Published Nov 15, 2025, 07:18 AM_
+Trump cuts tariffs on beef, coffee and other foods as inflation concerns mount" }
+Taitreieoblfri@{ shape: win-pane, label: "_Published Nov 14, 2025, 10:11 AM_
+Trump administration prepares tariff exemptions in bid to lower food prices in us" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
+Cuomo to stay in new york mayoral race despite losing democratic primary" }
+Ttfevhniiiss@{ shape: win-pane, label: "_Published Apr 03, 2025, 11:10 AM_
+Trump tariffs take aim everywhere, including uninhabited islands" }
+Tspaspadanop@{ shape: win-pane, label: "_Published Apr 03, 2025, 04:47 AM_
+Trump’s sweeping tariffs amp up global trade war as china, eu vow response" }
+OiaeqsenonBoH@{ shape: win-pane, label: "_Published Mar 28, 2025, 02:47 PM_
+Over 153 killed as powerful quake strikes myanmar, sows panic in bangkok and hanoi" }
 
-Trdiefir:::txtsize --> Fesnegeerdb:::txtsize
-Fesnegeerdb:::txtsize --> Trdiefir:::txtsize
-Trdiefir:::txtsize --> Fesnegeerdb:::txtsize
-Trdiefir:::txtsize --> FisncxiRaast:::txtsize
-Fesnegeerdb:::txtsize --> FisncxiRaast:::txtsize
-FisncxiRaast:::txtsize --> Pnardsnefinmn:::txtsize
-FisncxiRaast:::txtsize --> FrcOdnfreig:::txtsize
-Trdiefir:::txtsize --> FisncxiRaast:::txtsize
-FisncxiRaast:::txtsize --> Pnardsnefinmn:::txtsize
-Pnardsnefinmn:::txtsize --> Waaitvntllsi:::txtsize
-FisncxiRaast:::txtsize --> FrcOdnfreig:::txtsize
-FrcOdnfreig:::txtsize --> Pnardsnefinmn:::txtsize
-FrcOdnfreig:::txtsize --> Spnnaoiecams:::txtsize
+Tcasefdrsfocm:::txtsize --> Taitreieoblfri:::txtsize
+Taitreieoblfri:::txtsize --> Drwialosdp:::txtsize
+Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
+Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
+Taitreieoblfri:::txtsize --> Ttfevhniiiss:::txtsize
+Ttfevhniiiss:::txtsize --> Tspaspadanop:::txtsize
+Ttfevhniiiss:::txtsize --> OiaeqsenonBoH:::txtsize
 
-Fesnegeerdb@{ shape: win-pane, label: "_Published Nov 15, 2025, 03:25 AM_
-France arrests longtime us fugitive wanted over child sex abuse" }
-Trdiefir@{ shape: win-pane, label: "_Published Nov 15, 2025, 03:27 AM_
-‘tinder swindler’ simon leviev freed in georgia" }
-Fesnegeerdb@{ shape: win-pane, label: "_Published Nov 15, 2025, 03:25 AM_
-France arrests longtime us fugitive wanted over child sex abuse" }
-Trdiefir@{ shape: win-pane, label: "_Published Nov 15, 2025, 03:27 AM_
-‘tinder swindler’ simon leviev freed in georgia" }
-FisncxiRaast@{ shape: win-pane, label: "_Published Sep 17, 2025, 02:14 AM_
-Fugitive austrian wirecard executive in russia: media investigation" }
-FisncxiRaast@{ shape: win-pane, label: "_Published Sep 17, 2025, 02:14 AM_
-Fugitive austrian wirecard executive in russia: media investigation" }
-Pnardsnefinmn@{ shape: win-pane, label: "_Published Jun 25, 2020, 03:18 PM_
-Payments giant wirecard files for insolvency after €1.9 billion goes missing" }
-FrcOdnfreig@{ shape: win-pane, label: "_Published Jul 19, 2023, 08:35 AM_
-Former wirecard coo sends sign of life 3 years after vanishing" }
-FisncxiRaast@{ shape: win-pane, label: "_Published Sep 17, 2025, 02:14 AM_
-Fugitive austrian wirecard executive in russia: media investigation" }
-Pnardsnefinmn@{ shape: win-pane, label: "_Published Jun 25, 2020, 03:18 PM_
-Payments giant wirecard files for insolvency after €1.9 billion goes missing" }
-Waaitvntllsi@{ shape: win-pane, label: "_Published Jun 18, 2020, 08:23 PM_
-Wirecard shares dive 60% after revealing that nearly $3 billion is missing" }
-FrcOdnfreig@{ shape: win-pane, label: "_Published Jul 19, 2023, 08:35 AM_
-Former wirecard coo sends sign of life 3 years after vanishing" }
-Pnardsnefinmn@{ shape: win-pane, label: "_Published Jun 25, 2020, 03:18 PM_
-Payments giant wirecard files for insolvency after €1.9 billion goes missing" }
-Spnnaoiecams@{ shape: win-pane, label: "_Published Jun 27, 2023, 03:34 PM_
-Singaporean businessman involved in wirecard case jailed 12 months" }
+WYresemhiN@{ shape: win-pane, label: "_Published Nov 15, 2025, 06:35 AM_
+While you were sleeping: 5 stories you might have missed, nov 15, 2025" }
+TcTamarlsWH@{ shape: win-pane, label: "_Published Nov 15, 2025, 04:21 AM_
+Trump calls thailand, cambodia after new clashes, says white house" }
+AmcnoniseeASt@{ shape: win-pane, label: "_Published Oct 26, 2025, 01:24 PM_
+As trump watches on, cambodia and thailand sign ‘peace deal’ at asean summit" }
+WssutreTsoa@{ shape: win-pane, label: "_Published Oct 26, 2025, 09:00 AM_
+What is the asean summit, the first event on trump’s tour of asia?" }
+TaoqSidl@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:35 AM_
+Thailand’s former queen sirikit dead at 93: palace" }
+TahmeicfetbwnWn@{ shape: win-pane, label: "_Published Nov 11, 2025, 01:01 PM_
+Thailand to halt implementation of ceasefire deal with cambodia, will inform washington" }
+Talmaealij@{ shape: win-pane, label: "_Published Nov 10, 2025, 03:38 PM_
+Thailand halts cambodia peace deal after landmine injures 2" }
+AmcnoniseeASt@{ shape: win-pane, label: "_Published Oct 26, 2025, 01:24 PM_
+As trump watches on, cambodia and thailand sign ‘peace deal’ at asean summit" }
+IvhcteaipaeaieIs@{ shape: win-pane, label: "_Published Nov 14, 2025, 10:33 PM_
+‘i did everything i could to save her’: malaysian rapper namewee on death of influencer iris hsieh" }
+MsaNeiuavmnaiesh@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:47 PM_
+Malaysian rapper namewee denies drug use and involvement in taiwanese influencer’s death" }
+Msnndeeaepaeuwd@{ shape: win-pane, label: "_Published Dec 19, 2024, 08:12 AM_
+Malaysian influencer ady hu detained by taiwanese cops for alleged fraud: taiwan media" }
+ceairryitidfce@{ shape: win-pane, label: "_Published Jul 17, 2024, 10:07 AM_
+2 charged in malaysia over cyber bullying linked to social media influencer’s death" }
+Ksayhisleshr@{ shape: win-pane, label: "_Published Nov 04, 2025, 12:20 PM_
+Kl cops reclassify death of taiwanese influencer iris hsieh as murder" }
+MsaNeiuavmnaiesh@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:47 PM_
+Malaysian rapper namewee denies drug use and involvement in taiwanese influencer’s death" }
+MsaNeeggttat@{ shape: win-pane, label: "_Published Nov 03, 2025, 09:40 AM_
+Malaysian rapper namewee faces drug charges after october arrest" }
 
-Fesnegeerdb:::txtsize --> Trdiefir:::txtsize
-Trdiefir:::txtsize --> Fesnegeerdb:::txtsize
-Fesnegeerdb:::txtsize --> Trdiefir:::txtsize
-Fesnegeerdb:::txtsize --> FisncxiRaast:::txtsize
-Trdiefir:::txtsize --> FisncxiRaast:::txtsize
-FisncxiRaast:::txtsize --> Pnardsnefinmn:::txtsize
-FisncxiRaast:::txtsize --> FrcOdnfreig:::txtsize
-Fesnegeerdb:::txtsize --> FisncxiRaast:::txtsize
-FisncxiRaast:::txtsize --> Pnardsnefinmn:::txtsize
-Pnardsnefinmn:::txtsize --> Waaitvntllsi:::txtsize
-FisncxiRaast:::txtsize --> FrcOdnfreig:::txtsize
-FrcOdnfreig:::txtsize --> Pnardsnefinmn:::txtsize
-FrcOdnfreig:::txtsize --> Spnnaoiecams:::txtsize
+WYresemhiN:::txtsize --> TcTamarlsWH:::txtsize
+TcTamarlsWH:::txtsize --> AmcnoniseeASt:::txtsize
+AmcnoniseeASt:::txtsize --> WssutreTsoa:::txtsize
+AmcnoniseeASt:::txtsize --> TaoqSidl:::txtsize
+TcTamarlsWH:::txtsize --> TahmeicfetbwnWn:::txtsize
+TahmeicfetbwnWn:::txtsize --> Talmaealij:::txtsize
+TahmeicfetbwnWn:::txtsize --> AmcnoniseeASt:::txtsize
+WYresemhiN:::txtsize --> IvhcteaipaeaieIs:::txtsize
+IvhcteaipaeaieIs:::txtsize --> MsaNeiuavmnaiesh:::txtsize
+MsaNeiuavmnaiesh:::txtsize --> Msnndeeaepaeuwd:::txtsize
+MsaNeiuavmnaiesh:::txtsize --> ceairryitidfce:::txtsize
+IvhcteaipaeaieIs:::txtsize --> Ksayhisleshr:::txtsize
+Ksayhisleshr:::txtsize --> MsaNeiuavmnaiesh:::txtsize
+Ksayhisleshr:::txtsize --> MsaNeeggttat:::txtsize
 
 ```
-<i>Last updated: 2025-11-15 04:01:19.070965 (GMT+8)</i>
+<i>Last updated: 2025-11-15 08:00:44.349240 (GMT+8)</i>
 <!-- END -->
