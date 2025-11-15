@@ -16,93 +16,87 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ftieisoledl@{ shape: win-pane, label: "_Published Nov 15, 2025, 03:40 PM_
-Flight cuts imposed during us shutdown will be reduced by half" }
-Lsounenonmr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:01 PM_
-Longest us govt shutdown is over but new showdowns loom for trump" }
-Tsdootveuns@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:48 AM_
-Trump signs deal to end longest us government shutdown in history" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
-HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
-‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
-Lsounenonmr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:01 PM_
-Longest us govt shutdown is over but new showdowns loom for trump" }
-Tsdootveuns@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:48 AM_
-Trump signs deal to end longest us government shutdown in history" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
-HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
-‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
-
-Ftieisoledl:::txtsize --> Lsounenonmr:::txtsize
-Lsounenonmr:::txtsize --> Tsdootveuns:::txtsize
-Tsdootveuns:::txtsize --> Drwialosdp:::txtsize
-Tsdootveuns:::txtsize --> HwtipngesTkfot:::txtsize
-Ftieisoledl:::txtsize --> Lsounenonmr:::txtsize
-Lsounenonmr:::txtsize --> Tsdootveuns:::txtsize
-Tsdootveuns:::txtsize --> Drwialosdp:::txtsize
-Tsdootveuns:::txtsize --> HwtipngesTkfot:::txtsize
-
-AissennoTos@{ shape: win-pane, label: "_Published Nov 15, 2025, 03:34 PM_
-Apple intensifies succession planning for ceo tim cook, says ft" }
-Asvotstiny@{ shape: win-pane, label: "_Published Oct 15, 2025, 02:51 PM_
-Apple’s cook vows to boost investment in china, ministry says" }
-Abiksgaoerhi@{ shape: win-pane, label: "_Published Mar 26, 2025, 05:36 PM_
-Apple boss tim cook hails ‘next generation of developers’ on china visit" }
-Aosncsictnne@{ shape: win-pane, label: "_Published Jan 02, 2025, 02:27 PM_
-Apple offers iphone discounts in china as competition intensifies" }
-WsapayfitId@{ shape: win-pane, label: "_Published Jan 28, 2025, 07:47 AM_
-What is china’s deepseek and why is it freaking out the ai world?" }
-ACmpennintfeoegt@{ shape: win-pane, label: "_Published Mar 25, 2023, 01:48 PM_
-Apple ceo tim cook praises china's innovation, long history of cooperation on beijing visit" }
-Sftnidldievl@{ shape: win-pane, label: "_Published Dec 07, 2022, 01:45 PM_
-Significant easing nationwide spells end to china’s zero-covid policy" }
-Asfaoeeionor@{ shape: win-pane, label: "_Published Jul 09, 2025, 08:38 AM_
-Apple’s chief operating officer to retire in major changing of guard" }
-Altetosne@{ shape: win-pane, label: "_Published Jul 08, 2025, 07:25 AM_
-Apple loses top ai executive to meta’s hiring spree" }
-Xidobyfrli@{ shape: win-pane, label: "_Published Jul 07, 2025, 08:47 AM_
-Xiaomi founder’s bold ev bet paying off where apple’s failed" }
-Apiedtles@{ shape: win-pane, label: "_Published Jun 10, 2025, 07:27 AM_
-Apple plays it safe on ai despite wall street pressure" }
-Altetosne@{ shape: win-pane, label: "_Published Jul 08, 2025, 07:25 AM_
-Apple loses top ai executive to meta’s hiring spree" }
-Xidobyfrli@{ shape: win-pane, label: "_Published Jul 07, 2025, 08:47 AM_
-Xiaomi founder’s bold ev bet paying off where apple’s failed" }
-Apiedtles@{ shape: win-pane, label: "_Published Jun 10, 2025, 07:27 AM_
-Apple plays it safe on ai despite wall street pressure" }
-
-AissennoTos:::txtsize --> Asvotstiny:::txtsize
-Asvotstiny:::txtsize --> Abiksgaoerhi:::txtsize
-Abiksgaoerhi:::txtsize --> Aosncsictnne:::txtsize
-Abiksgaoerhi:::txtsize --> WsapayfitId:::txtsize
-Asvotstiny:::txtsize --> ACmpennintfeoegt:::txtsize
-ACmpennintfeoegt:::txtsize --> Sftnidldievl:::txtsize
-AissennoTos:::txtsize --> Asfaoeeionor:::txtsize
-Asfaoeeionor:::txtsize --> Altetosne:::txtsize
-Altetosne:::txtsize --> Xidobyfrli:::txtsize
-Altetosne:::txtsize --> Apiedtles:::txtsize
-Asfaoeeionor:::txtsize --> Altetosne:::txtsize
-Altetosne:::txtsize --> Xidobyfrli:::txtsize
-Altetosne:::txtsize --> Apiedtles:::txtsize
-
+TsotEiasci@{ shape: win-pane, label: "_Published Nov 15, 2025, 07:07 PM_
+Trump’s teflon tested as epstein saga looms over 2026 campaign" }
 TwrutomyoaGe@{ shape: win-pane, label: "_Published Nov 15, 2025, 02:43 PM_
 Trump withdraws support for long-time ally marjorie taylor greene" }
 Lsounenonmr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:01 PM_
 Longest us govt shutdown is over but new showdowns loom for trump" }
 Tsdootveuns@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:48 AM_
 Trump signs deal to end longest us government shutdown in history" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
-HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
-‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
 
+TsotEiasci:::txtsize --> TwrutomyoaGe:::txtsize
 TwrutomyoaGe:::txtsize --> Lsounenonmr:::txtsize
 Lsounenonmr:::txtsize --> Tsdootveuns:::txtsize
-Tsdootveuns:::txtsize --> Drwialosdp:::txtsize
-Tsdootveuns:::txtsize --> HwtipngesTkfot:::txtsize
+
+Vauodesetiup@{ shape: win-pane, label: "_Published Nov 15, 2025, 06:52 PM_
+Vatican returns to canada artefacts connected to indigenous people" }
+Persumsdte@{ shape: win-pane, label: "_Published Nov 13, 2025, 06:47 AM_
+Pope leo shares his favourite movies ahead of vatican event" }
+PeieubnUhslit@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:25 PM_
+Pope leo’s critique of trump emboldens top us catholics to help immigrants" }
+UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
+Us cardinal prevost elected pope leo xiv, first american pontiff" }
+UeMnsooecnte@{ shape: win-pane, label: "_Published May 01, 2025, 06:52 AM_
+Us director martin scorsese got one of pope francis’ final interviews" }
+Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
+Pope francis dies at age 88" }
+DtrcsaomaJCtrie@{ shape: win-pane, label: "_Published Jun 01, 2023, 05:20 PM_
+Director martin scorsese to make another movie about jesus christ after meeting the pope" }
+Eocswqeetodt@{ shape: win-pane, label: "_Published Nov 02, 2025, 04:18 AM_
+Egypt opens colossal new antiquities museum after two-decade wait" }
+EooVyesempc@{ shape: win-pane, label: "_Published Oct 04, 2025, 11:21 PM_
+Egypt opens one of valley of the kings’ largest tombs to public" }
+Esigaretwg@{ shape: win-pane, label: "_Published Sep 18, 2025, 08:50 PM_
+Egypt says missing pharaoh’s bracelet melted down for gold" }
+Eaniiepomoar@{ shape: win-pane, label: "_Published Feb 20, 2025, 10:00 AM_
+Egypt announces first discovery of pharaoh’s tomb in more than 100 years" }
+Esigaretwg@{ shape: win-pane, label: "_Published Sep 18, 2025, 08:50 PM_
+Egypt says missing pharaoh’s bracelet melted down for gold" }
+Eaniiepomoar@{ shape: win-pane, label: "_Published Feb 20, 2025, 10:00 AM_
+Egypt announces first discovery of pharaoh’s tomb in more than 100 years" }
+Anpmerlstoll@{ shape: win-pane, label: "_Published Jul 03, 2025, 02:56 AM_
+Ancient egyptian man’s genome reveals his society’s cross-cultural ties" }
+
+Vauodesetiup:::txtsize --> Persumsdte:::txtsize
+Persumsdte:::txtsize --> PeieubnUhslit:::txtsize
+PeieubnUhslit:::txtsize --> UdPscooimat:::txtsize
+Persumsdte:::txtsize --> UeMnsooecnte:::txtsize
+UeMnsooecnte:::txtsize --> Prsa:::txtsize
+UeMnsooecnte:::txtsize --> DtrcsaomaJCtrie:::txtsize
+Vauodesetiup:::txtsize --> Eocswqeetodt:::txtsize
+Eocswqeetodt:::txtsize --> EooVyesempc:::txtsize
+EooVyesempc:::txtsize --> Esigaretwg:::txtsize
+EooVyesempc:::txtsize --> Eaniiepomoar:::txtsize
+Eocswqeetodt:::txtsize --> Esigaretwg:::txtsize
+Esigaretwg:::txtsize --> Eaniiepomoar:::txtsize
+Esigaretwg:::txtsize --> Anpmerlstoll:::txtsize
+
+Dyoeaaiedp@{ shape: win-pane, label: "_Published Nov 15, 2025, 04:15 PM_
+Disney and youtube tv reach deal, ending weeks of disruption" }
+DyonslTienrse@{ shape: win-pane, label: "_Published Jun 03, 2025, 08:24 AM_
+Disney lays off hundreds in film and tv businesses as industry woes linger" }
+Dyuirdaerbb@{ shape: win-pane, label: "_Published May 07, 2025, 09:27 PM_
+Disney announces its first middle east theme park in abu dhabi" }
+OtuteoPIDy@{ shape: win-pane, label: "_Published Dec 23, 2024, 02:00 PM_
+One of the toughest tables to book in paris? it’s in disneyland" }
+Ybsoplswsid@{ shape: win-pane, label: "_Published Oct 30, 2025, 12:50 PM_
+Youtube to use ai to sharpen millions of lower-resolution videos" }
+YbnIolpgu@{ shape: win-pane, label: "_Published Aug 15, 2025, 08:15 AM_
+Youtube turns to ai to spot children posing as adults" }
+AaitombYbaeo@{ shape: win-pane, label: "_Published Jul 30, 2025, 06:43 AM_
+Australia widens teen social media ban to youtube, scraps exemption" }
+UacoaerepnIc@{ shape: win-pane, label: "_Published Aug 15, 2025, 04:56 AM_
+Us senators call for meta probe after reuters report on its ai policies" }
+
+Dyoeaaiedp:::txtsize --> DyonslTienrse:::txtsize
+DyonslTienrse:::txtsize --> Dyuirdaerbb:::txtsize
+Dyuirdaerbb:::txtsize --> OtuteoPIDy:::txtsize
+Dyoeaaiedp:::txtsize --> Ybsoplswsid:::txtsize
+Ybsoplswsid:::txtsize --> YbnIolpgu:::txtsize
+YbnIolpgu:::txtsize --> AaitombYbaeo:::txtsize
+YbnIolpgu:::txtsize --> UacoaerepnIc:::txtsize
 
 ```
-<i>Last updated: 2025-11-15 16:00:32.147809 (GMT+8)</i>
+<i>Last updated: 2025-11-15 20:00:53.593334 (GMT+8)</i>
 <!-- END -->
