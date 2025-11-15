@@ -16,120 +16,93 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-DrnemamkTcd@{ shape: win-pane, label: "_Published Nov 15, 2025, 11:32 AM_
-‘desperation in the air’: immigrant comics skewer trump crackdown" }
-Taitaooitsfl@{ shape: win-pane, label: "_Published Nov 06, 2025, 09:10 AM_
-Trump administration has revoked 80,000 non-immigrant visas, us official says" }
-Rmvohnvacni@{ shape: win-pane, label: "_Published May 21, 2025, 04:10 AM_
-Rubio may have revoked thousands of visas as crackdown continues" }
-TsrornruditeWH@{ shape: win-pane, label: "_Published Jan 24, 2025, 08:42 PM_
-Trump’s deportation operation under way, hundreds of migrants arrested: white house" }
-UhituheTUrre@{ shape: win-pane, label: "_Published Mar 26, 2025, 11:34 PM_
-Us authorities detain turkish student at tufts university, revoke visa" }
-UfypercAcer@{ shape: win-pane, label: "_Published Oct 29, 2025, 02:04 PM_
-Unruffled by trump, chinese parents chase ‘american dream’ for kids" }
-Cstaftetwt@{ shape: win-pane, label: "_Published Oct 14, 2025, 10:02 AM_
-China says it is ready to ‘fight to the end’ in trade war with us" }
-TXmgelreent@{ shape: win-pane, label: "_Published Oct 28, 2025, 09:35 PM_
-Trump-xi summit might yield only short-lived detente: analysts" }
-Tpoiraoitmecr@{ shape: win-pane, label: "_Published Nov 15, 2025, 08:54 AM_
-Trump plan could limit green cards for immigrants from travel ban countries" }
-Ttlncifasem@{ shape: win-pane, label: "_Published Jun 09, 2025, 02:45 PM_
-Trump travel ban in effect, citizens from 12 nations barred from us" }
-Tbinmtidyrtlt@{ shape: win-pane, label: "_Published Jun 05, 2025, 07:46 AM_
-Trump bans citizens from 12 countries, including myanmar, from travelling to us" }
-MtCaoteslu@{ shape: win-pane, label: "_Published Jun 02, 2025, 06:15 AM_
-Man attacks colorado crowd with firebombs, 8 people injured" }
+Ftieisoledl@{ shape: win-pane, label: "_Published Nov 15, 2025, 03:40 PM_
+Flight cuts imposed during us shutdown will be reduced by half" }
+Lsounenonmr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:01 PM_
+Longest us govt shutdown is over but new showdowns loom for trump" }
+Tsdootveuns@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:48 AM_
+Trump signs deal to end longest us government shutdown in history" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
+‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
+Lsounenonmr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:01 PM_
+Longest us govt shutdown is over but new showdowns loom for trump" }
+Tsdootveuns@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:48 AM_
+Trump signs deal to end longest us government shutdown in history" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
+‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
 
-DrnemamkTcd:::txtsize --> Taitaooitsfl:::txtsize
-Taitaooitsfl:::txtsize --> Rmvohnvacni:::txtsize
-Rmvohnvacni:::txtsize --> TsrornruditeWH:::txtsize
-Rmvohnvacni:::txtsize --> UhituheTUrre:::txtsize
-Taitaooitsfl:::txtsize --> UfypercAcer:::txtsize
-UfypercAcer:::txtsize --> Cstaftetwt:::txtsize
-UfypercAcer:::txtsize --> TXmgelreent:::txtsize
-DrnemamkTcd:::txtsize --> Tpoiraoitmecr:::txtsize
-Tpoiraoitmecr:::txtsize --> Ttlncifasem:::txtsize
-Ttlncifasem:::txtsize --> Tbinmtidyrtlt:::txtsize
-Ttlncifasem:::txtsize --> MtCaoteslu:::txtsize
+Ftieisoledl:::txtsize --> Lsounenonmr:::txtsize
+Lsounenonmr:::txtsize --> Tsdootveuns:::txtsize
+Tsdootveuns:::txtsize --> Drwialosdp:::txtsize
+Tsdootveuns:::txtsize --> HwtipngesTkfot:::txtsize
+Ftieisoledl:::txtsize --> Lsounenonmr:::txtsize
+Lsounenonmr:::txtsize --> Tsdootveuns:::txtsize
+Tsdootveuns:::txtsize --> Drwialosdp:::txtsize
+Tsdootveuns:::txtsize --> HwtipngesTkfot:::txtsize
 
-Tsieooieet@{ shape: win-pane, label: "_Published Nov 15, 2025, 10:09 AM_
-Trump says will sue bbc for up to $6.4 billion over video edit" }
-TttBhiwaagfio@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:49 AM_
-Trump threatens bbc with $1.3 billion lawsuit as bbc apologises for edit error" }
-Bshfqfroneri@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:45 AM_
-Bbc boss and head of news quit after trump documentary edit criticism" }
-Gonsobhcyerws@{ shape: win-pane, label: "_Published Jul 15, 2025, 01:09 AM_
-Gaza documentary shown on bbc breached accuracy guideline, review finds" }
-BsislBsisedpsnies@{ shape: win-pane, label: "_Published Nov 09, 2025, 09:00 PM_
-British minister says claims bbc misled viewers with edited trump clips are ‘incredibly serious’" }
-SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
-peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
-4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
-BiCosueoshrtaoi@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:07 AM_
-Britain’s bbc apologises to trump over panorama speech edit, rejects defamation claim" }
-SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
-peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
-4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
-TttBhiwaagfio@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:49 AM_
-Trump threatens bbc with $1.3 billion lawsuit as bbc apologises for edit error" }
-Bshfqfroneri@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:45 AM_
-Bbc boss and head of news quit after trump documentary edit criticism" }
-SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
+AissennoTos@{ shape: win-pane, label: "_Published Nov 15, 2025, 03:34 PM_
+Apple intensifies succession planning for ceo tim cook, says ft" }
+Asvotstiny@{ shape: win-pane, label: "_Published Oct 15, 2025, 02:51 PM_
+Apple’s cook vows to boost investment in china, ministry says" }
+Abiksgaoerhi@{ shape: win-pane, label: "_Published Mar 26, 2025, 05:36 PM_
+Apple boss tim cook hails ‘next generation of developers’ on china visit" }
+Aosncsictnne@{ shape: win-pane, label: "_Published Jan 02, 2025, 02:27 PM_
+Apple offers iphone discounts in china as competition intensifies" }
+WsapayfitId@{ shape: win-pane, label: "_Published Jan 28, 2025, 07:47 AM_
+What is china’s deepseek and why is it freaking out the ai world?" }
+ACmpennintfeoegt@{ shape: win-pane, label: "_Published Mar 25, 2023, 01:48 PM_
+Apple ceo tim cook praises china's innovation, long history of cooperation on beijing visit" }
+Sftnidldievl@{ shape: win-pane, label: "_Published Dec 07, 2022, 01:45 PM_
+Significant easing nationwide spells end to china’s zero-covid policy" }
+Asfaoeeionor@{ shape: win-pane, label: "_Published Jul 09, 2025, 08:38 AM_
+Apple’s chief operating officer to retire in major changing of guard" }
+Altetosne@{ shape: win-pane, label: "_Published Jul 08, 2025, 07:25 AM_
+Apple loses top ai executive to meta’s hiring spree" }
+Xidobyfrli@{ shape: win-pane, label: "_Published Jul 07, 2025, 08:47 AM_
+Xiaomi founder’s bold ev bet paying off where apple’s failed" }
+Apiedtles@{ shape: win-pane, label: "_Published Jun 10, 2025, 07:27 AM_
+Apple plays it safe on ai despite wall street pressure" }
+Altetosne@{ shape: win-pane, label: "_Published Jul 08, 2025, 07:25 AM_
+Apple loses top ai executive to meta’s hiring spree" }
+Xidobyfrli@{ shape: win-pane, label: "_Published Jul 07, 2025, 08:47 AM_
+Xiaomi founder’s bold ev bet paying off where apple’s failed" }
+Apiedtles@{ shape: win-pane, label: "_Published Jun 10, 2025, 07:27 AM_
+Apple plays it safe on ai despite wall street pressure" }
 
-Tsieooieet:::txtsize --> TttBhiwaagfio:::txtsize
-TttBhiwaagfio:::txtsize --> Bshfqfroneri:::txtsize
-Bshfqfroneri:::txtsize --> Gonsobhcyerws:::txtsize
-Bshfqfroneri:::txtsize --> BsislBsisedpsnies:::txtsize
-TttBhiwaagfio:::txtsize --> SiUiinenWn:::txtsize
-SiUiinenWn:::txtsize --> peapubmalrest:::txtsize
-Tsieooieet:::txtsize --> BiCosueoshrtaoi:::txtsize
-BiCosueoshrtaoi:::txtsize --> SiUiinenWn:::txtsize
-SiUiinenWn:::txtsize --> peapubmalrest:::txtsize
-BiCosueoshrtaoi:::txtsize --> TttBhiwaagfio:::txtsize
-TttBhiwaagfio:::txtsize --> Bshfqfroneri:::txtsize
-TttBhiwaagfio:::txtsize --> SiUiinenWn:::txtsize
+AissennoTos:::txtsize --> Asvotstiny:::txtsize
+Asvotstiny:::txtsize --> Abiksgaoerhi:::txtsize
+Abiksgaoerhi:::txtsize --> Aosncsictnne:::txtsize
+Abiksgaoerhi:::txtsize --> WsapayfitId:::txtsize
+Asvotstiny:::txtsize --> ACmpennintfeoegt:::txtsize
+ACmpennintfeoegt:::txtsize --> Sftnidldievl:::txtsize
+AissennoTos:::txtsize --> Asfaoeeionor:::txtsize
+Asfaoeeionor:::txtsize --> Altetosne:::txtsize
+Altetosne:::txtsize --> Xidobyfrli:::txtsize
+Altetosne:::txtsize --> Apiedtles:::txtsize
+Asfaoeeionor:::txtsize --> Altetosne:::txtsize
+Altetosne:::txtsize --> Xidobyfrli:::txtsize
+Altetosne:::txtsize --> Apiedtles:::txtsize
 
-Tsenrfediu@{ shape: win-pane, label: "_Published Nov 15, 2025, 09:02 AM_
-Trump says he is considering f-35 fighter jet deal with saudis" }
-UrmsoafuT@{ shape: win-pane, label: "_Published Nov 14, 2025, 12:59 PM_
-Us approves $429m arms sale to taiwan, the first under trump" }
-Tsihiliealsen@{ shape: win-pane, label: "_Published Aug 16, 2025, 07:44 AM_
-Trump says xi told him china will not invade taiwan while he is us president" }
-TaeaZsmdisfegn@{ shape: win-pane, label: "_Published Aug 16, 2025, 07:20 AM_
-Trump advises ukraine’s zelensky to ‘make a deal’ with russia after meeting putin" }
-Asoeoawanawwns@{ shape: win-pane, label: "_Published Aug 15, 2025, 11:29 AM_
-Aggression only leads to defeat, taiwan’s lai ching-te says on world war anniversary" }
-XsioenneseuSK@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:36 AM_
-Xi says us, china ‘should be partners and friends’ as he meets trump in south korea" }
-Unloehmsewne@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:01 AM_
-Us, china seal deal on rare earths; trump says xi meeting was a 12 on scale of 1 to 10" }
-Unloehmsewne@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:01 AM_
-Us, china seal deal on rare earths; trump says xi meeting was a 12 on scale of 1 to 10" }
-Ucceeonigsteens@{ shape: win-pane, label: "_Published Nov 11, 2025, 11:41 PM_
-Us aircraft carrier moves into latin america region, escalating venezuela tensions" }
-Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
-Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
-Tseaonencl@{ shape: win-pane, label: "_Published Oct 24, 2025, 05:55 AM_
-Trump says declaration of war not needed on drug cartels" }
-Uisepdvlef@{ shape: win-pane, label: "_Published Oct 23, 2025, 01:07 AM_
-Us military strikes suspected drug vessel in the pacific" }
+TwrutomyoaGe@{ shape: win-pane, label: "_Published Nov 15, 2025, 02:43 PM_
+Trump withdraws support for long-time ally marjorie taylor greene" }
+Lsounenonmr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:01 PM_
+Longest us govt shutdown is over but new showdowns loom for trump" }
+Tsdootveuns@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:48 AM_
+Trump signs deal to end longest us government shutdown in history" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
+‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
 
-Tsenrfediu:::txtsize --> UrmsoafuT:::txtsize
-UrmsoafuT:::txtsize --> Tsihiliealsen:::txtsize
-Tsihiliealsen:::txtsize --> TaeaZsmdisfegn:::txtsize
-Tsihiliealsen:::txtsize --> Asoeoawanawwns:::txtsize
-UrmsoafuT:::txtsize --> XsioenneseuSK:::txtsize
-XsioenneseuSK:::txtsize --> Unloehmsewne:::txtsize
-XsioenneseuSK:::txtsize --> Unloehmsewne:::txtsize
-Tsenrfediu:::txtsize --> Ucceeonigsteens:::txtsize
-Ucceeonigsteens:::txtsize --> Uidycceuomasnswee:::txtsize
-Uidycceuomasnswee:::txtsize --> Tseaonencl:::txtsize
-Uidycceuomasnswee:::txtsize --> Uisepdvlef:::txtsize
+TwrutomyoaGe:::txtsize --> Lsounenonmr:::txtsize
+Lsounenonmr:::txtsize --> Tsdootveuns:::txtsize
+Tsdootveuns:::txtsize --> Drwialosdp:::txtsize
+Tsdootveuns:::txtsize --> HwtipngesTkfot:::txtsize
 
 ```
-<i>Last updated: 2025-11-15 12:01:10.114518 (GMT+8)</i>
+<i>Last updated: 2025-11-15 16:00:32.147809 (GMT+8)</i>
 <!-- END -->
