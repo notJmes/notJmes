@@ -16,129 +16,111 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Zswroasaeys@{ shape: win-pane, label: "_Published Nov 15, 2025, 11:36 PM_
-Zelensky vows overhaul of ukraine’s scandal-hit energy firms" }
-UnasnaRaa@{ shape: win-pane, label: "_Published Nov 09, 2025, 08:55 PM_
-Ukraine scrambles for energy after russian attacks" }
-Unnimruieusnoos@{ shape: win-pane, label: "_Published Nov 09, 2025, 01:25 PM_
-Ukraine drone strike temporarily cuts utilities in russia’s voronezh, governor says" }
-Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
-Timeline: how russia's attack on ukraine unfolded" }
-Raaanasoleaa@{ shape: win-pane, label: "_Published Nov 08, 2025, 06:40 PM_
-Russian attacks target nuclear substations, kill seven, ukraine says" }
-SdroisdshazaeaUn@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:53 AM_
-Second external power line restored at russian-held zaporizhzhia nuclear plant in ukraine" }
-Zsrcctofdrhcp@{ shape: win-pane, label: "_Published Oct 01, 2025, 03:45 AM_
-Zelensky warns of ‘critical’ situation at off-grid zaporizhzhia nuclear plant" }
-Ralcooneyllke@{ shape: win-pane, label: "_Published Oct 02, 2025, 03:39 AM_
-Russian shelling cuts power to defunct chernobyl nuclear plant, ukraine says" }
-Unisgrrund@{ shape: win-pane, label: "_Published Nov 13, 2025, 01:13 AM_
-Ukraine ministers resign over major corruption scandals" }
-UnasnaRaa@{ shape: win-pane, label: "_Published Nov 09, 2025, 08:55 PM_
-Ukraine scrambles for energy after russian attacks" }
-Unnimruieusnoos@{ shape: win-pane, label: "_Published Nov 09, 2025, 01:25 PM_
-Ukraine drone strike temporarily cuts utilities in russia’s voronezh, governor says" }
-SdroisdshazaeaUn@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:53 AM_
-Second external power line restored at russian-held zaporizhzhia nuclear plant in ukraine" }
-UnpCeiaronhwmen@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:51 PM_
-Ukraine suspends cabinet minister as corruption scandal shakes wartime government" }
-CZslufetarc@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:54 AM_
-Close zelensky ally accused of orchestrating major graft scheme" }
-Zsvossssrrsgai@{ shape: win-pane, label: "_Published Jul 31, 2025, 10:39 PM_
-Zelensky, moving to defuse crisis, restores power of ukraine’s anti-graft agencies" }
+Uibsdafoa@{ shape: win-pane, label: "_Published Nov 16, 2025, 03:45 AM_
+Uk train stabbings ‘hero’ discharged from hospital" }
+SiLndndpat@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:12 AM_
+Stabbing in london-bound train wounds 10, 2 suspects arrested" }
+Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
+British man of syrian descent named as manchester synagogue attacker" }
+Sontasaerdnhnit@{ shape: win-pane, label: "_Published Oct 03, 2025, 12:20 AM_
+Synagogue knife attack alarms britain’s jews already dealing with rising anti-semitism" }
+Sesaletiasot@{ shape: win-pane, label: "_Published Oct 03, 2025, 02:10 AM_
+Starmer says britain will defeat anti-semitism after synagogue attack" }
+Fndoakseehpr@{ shape: win-pane, label: "_Published Jul 03, 2025, 11:14 PM_
+Four injured in ‘violent’ attack by passenger on german high-speed train" }
+Thttsmainina@{ shape: win-pane, label: "_Published Jul 03, 2025, 06:35 AM_
+Teen who plotted attacks on women charged in france’s first ‘incel’ case" }
+Pesasgaanruea@{ shape: win-pane, label: "_Published Jun 23, 2025, 04:40 AM_
+Police arrest 12 as wave of syringe attacks mar france street music festival" }
+Mcortcehtttr@{ shape: win-pane, label: "_Published Nov 03, 2025, 03:37 PM_
+Man accused of uk train attack charged with 11 counts of attempted murder" }
+SiLndndpat@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:12 AM_
+Stabbing in london-bound train wounds 10, 2 suspects arrested" }
+Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
+British man of syrian descent named as manchester synagogue attacker" }
+Fndoakseehpr@{ shape: win-pane, label: "_Published Jul 03, 2025, 11:14 PM_
+Four injured in ‘violent’ attack by passenger on german high-speed train" }
+NnFtrralorcttsi@{ shape: win-pane, label: "_Published Nov 03, 2025, 11:06 AM_
+Nottingham forest owner offers financial support for fans caught up in train stabbings" }
+SiLndndpat@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:12 AM_
+Stabbing in london-bound train wounds 10, 2 suspects arrested" }
+Uibsitnanrsi@{ shape: win-pane, label: "_Published Nov 03, 2025, 03:29 AM_
+Uk train stabbings carried out by lone attacker, not terrorism: police" }
 
-Zswroasaeys:::txtsize --> UnasnaRaa:::txtsize
-UnasnaRaa:::txtsize --> Unnimruieusnoos:::txtsize
-Unnimruieusnoos:::txtsize --> Tiwitnifd:::txtsize
-Unnimruieusnoos:::txtsize --> Raaanasoleaa:::txtsize
-UnasnaRaa:::txtsize --> SdroisdshazaeaUn:::txtsize
-SdroisdshazaeaUn:::txtsize --> Zsrcctofdrhcp:::txtsize
-SdroisdshazaeaUn:::txtsize --> Ralcooneyllke:::txtsize
-Zswroasaeys:::txtsize --> Unisgrrund:::txtsize
-Unisgrrund:::txtsize --> UnasnaRaa:::txtsize
-UnasnaRaa:::txtsize --> Unnimruieusnoos:::txtsize
-UnasnaRaa:::txtsize --> SdroisdshazaeaUn:::txtsize
-Unisgrrund:::txtsize --> UnpCeiaronhwmen:::txtsize
-UnpCeiaronhwmen:::txtsize --> CZslufetarc:::txtsize
-UnpCeiaronhwmen:::txtsize --> Zsvossssrrsgai:::txtsize
+Uibsdafoa:::txtsize --> SiLndndpat:::txtsize
+SiLndndpat:::txtsize --> Bsoisnaceaec:::txtsize
+Bsoisnaceaec:::txtsize --> Sontasaerdnhnit:::txtsize
+Bsoisnaceaec:::txtsize --> Sesaletiasot:::txtsize
+SiLndndpat:::txtsize --> Fndoakseehpr:::txtsize
+Fndoakseehpr:::txtsize --> Thttsmainina:::txtsize
+Fndoakseehpr:::txtsize --> Pesasgaanruea:::txtsize
+Uibsdafoa:::txtsize --> Mcortcehtttr:::txtsize
+Mcortcehtttr:::txtsize --> SiLndndpat:::txtsize
+SiLndndpat:::txtsize --> Bsoisnaceaec:::txtsize
+SiLndndpat:::txtsize --> Fndoakseehpr:::txtsize
+Mcortcehtttr:::txtsize --> NnFtrralorcttsi:::txtsize
+NnFtrralorcttsi:::txtsize --> SiLndndpat:::txtsize
+NnFtrralorcttsi:::txtsize --> Uibsitnanrsi:::txtsize
 
-Tersjlopo@{ shape: win-pane, label: "_Published Nov 15, 2025, 11:05 PM_
-Thieves in france steal jewellery worth up to $1.6m: police" }
-Leulytsisturs@{ shape: win-pane, label: "_Published Nov 06, 2025, 05:30 PM_
-Louvre museum will need years to fix security issues, state auditor finds" }
-Letotmsrsioty@{ shape: win-pane, label: "_Published Nov 02, 2025, 09:46 PM_
-Louvre heist work of petty criminals, not organised crime, prosecutor says" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-Letutgors@{ shape: win-pane, label: "_Published Nov 01, 2025, 10:49 PM_
-Louvre heist: one suspect charged, another released" }
-Fhcoicmsrli@{ shape: win-pane, label: "_Published Nov 04, 2025, 12:59 AM_
-French police recover $40m in precious metals after gold lab heist" }
-Fhcexarrobo@{ shape: win-pane, label: "_Published Oct 31, 2025, 07:00 PM_
-French police arrest six over armed robbery at gold laboratory" }
-Fhcerpiviwtig@{ shape: win-pane, label: "_Published Oct 30, 2025, 03:20 PM_
-French police arrest more suspects in louvre heist, jewels still missing" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
-‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
-Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
-Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
+Taejcrhdncial@{ shape: win-pane, label: "_Published Nov 16, 2025, 03:17 AM_
+Thousands demand justice over north macedonia nightclub fire that killed 63" }
+Fteteatk@{ shape: win-pane, label: "_Published Mar 16, 2025, 03:46 PM_
+Fire at packed north macedonia nightclub kills 59" }
+VarlhHfhl@{ shape: win-pane, label: "_Published Mar 14, 2025, 01:40 PM_
+Vietnam court jails eight for hanoi fire that killed 56" }
+Asdrcaortk@{ shape: win-pane, label: "_Published Sep 13, 2023, 12:54 PM_
+At least 30 dead in horrific fire at hanoi apartment block" }
+Hkkfirut@{ shape: win-pane, label: "_Published Dec 19, 2024, 10:46 AM_
+Hanoi karaoke bar fire kills 11, arson suspected" }
+NcillicS@{ shape: win-pane, label: "_Published Oct 01, 2023, 07:40 PM_
+Nightclub fire kills at least 13 in murcia in spain" }
+dnncae@{ shape: win-pane, label: "_Published Jul 23, 2023, 07:05 PM_
+11 dead in arson attack on bar in mexico" }
 
-Tersjlopo:::txtsize --> Leulytsisturs:::txtsize
-Leulytsisturs:::txtsize --> Letotmsrsioty:::txtsize
-Letotmsrsioty:::txtsize --> Ptineluiisey:::txtsize
-Letotmsrsioty:::txtsize --> Letutgors:::txtsize
-Tersjlopo:::txtsize --> Fhcoicmsrli:::txtsize
-Fhcoicmsrli:::txtsize --> Fhcexarrobo:::txtsize
-Fhcexarrobo:::txtsize --> Fhcerpiviwtig:::txtsize
-Fhcoicmsrli:::txtsize --> Ptineluiisey:::txtsize
-Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
-Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
+Taejcrhdncial:::txtsize --> Fteteatk:::txtsize
+Fteteatk:::txtsize --> VarlhHfhl:::txtsize
+VarlhHfhl:::txtsize --> Asdrcaortk:::txtsize
+VarlhHfhl:::txtsize --> Hkkfirut:::txtsize
+Fteteatk:::txtsize --> NcillicS:::txtsize
+NcillicS:::txtsize --> dnncae:::txtsize
 
-Bunsoadtadnp@{ shape: win-pane, label: "_Published Nov 15, 2025, 10:53 PM_
-Bbc caught in crossfire of polarised political and media landscape" }
-BiCosueoshrtaoi@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:07 AM_
-Britain’s bbc apologises to trump over panorama speech edit, rejects defamation claim" }
-SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
-peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
-4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
-TttBhiwaagfio@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:49 AM_
-Trump threatens bbc with $1.3 billion lawsuit as bbc apologises for edit error" }
-Bshfqfroneri@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:45 AM_
-Bbc boss and head of news quit after trump documentary edit criticism" }
-SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
-Tsieooieet@{ shape: win-pane, label: "_Published Nov 15, 2025, 10:09 AM_
-Trump says will sue bbc for up to $6.4 billion over video edit" }
-TttBhiwaagfio@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:49 AM_
-Trump threatens bbc with $1.3 billion lawsuit as bbc apologises for edit error" }
-Bshfqfroneri@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:45 AM_
-Bbc boss and head of news quit after trump documentary edit criticism" }
-SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
-BiCosueoshrtaoi@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:07 AM_
-Britain’s bbc apologises to trump over panorama speech edit, rejects defamation claim" }
-SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
-TttBhiwaagfio@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:49 AM_
-Trump threatens bbc with $1.3 billion lawsuit as bbc apologises for edit error" }
+Sredotifnnhr@{ shape: win-pane, label: "_Published Nov 16, 2025, 01:44 AM_
+Spain rescues hundreds of exotic animals from unlicensed shelter" }
+Mseeunxal@{ shape: win-pane, label: "_Published May 19, 2025, 10:35 AM_
+Malaysia sees rise in smuggling of exotic animals" }
+Taefunygs@{ shape: win-pane, label: "_Published May 15, 2025, 05:24 PM_
+Thai man arrested for smuggling baby orang utans" }
+JoctgdnsSdite@{ shape: win-pane, label: "_Published Nov 02, 2023, 09:15 PM_
+Jail for man caught smuggling 13 dogs and cats into s’pore; 5 dogs died within 2 weeks" }
+msfaegtiatsait@{ shape: win-pane, label: "_Published Dec 11, 2024, 02:10 PM_
+16 months’ jail for traveller caught with 58 indian star tortoises at changi airport" }
+Begprdegxrlltlm@{ shape: win-pane, label: "_Published Sep 17, 2025, 06:45 PM_
+Bearded dragon supplier fined $2,000 for keeping the exotic reptile, selling it on telegram" }
+Wisrcooegfwtekdi@{ shape: win-pane, label: "_Published Aug 16, 2025, 12:00 PM_
+Wildlife rescue group acres hopes to send 30 endangered freshwater turtles back to indonesia" }
+NyorOinkneawifcf@{ shape: win-pane, label: "_Published Aug 03, 2025, 12:00 PM_
+Now flying solo, acres ceo kalaivanan balakrishnan presses ahead with wildlife rescue efforts" }
+Calzoiadtsneatph@{ shape: win-pane, label: "_Published Jun 30, 2024, 09:19 AM_
+Could animals seized from the illegal wildlife trade strain s’pore’s capacity to keep them here?" }
+Sslooinsdn@{ shape: win-pane, label: "_Published Jun 30, 2025, 02:04 PM_
+Snakes on a plane bound for india found and seized, again" }
+Sslnsluinsr@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 AM_
+Snakes on a plane: indian smuggler caught with venomous vipers" }
+Foortkpasesrft@{ shape: win-pane, label: "_Published Jan 17, 2024, 12:40 PM_
+From hollywood to reality: snake on a plane alarms passengers on airasia flight" }
 
-Bunsoadtadnp:::txtsize --> BiCosueoshrtaoi:::txtsize
-BiCosueoshrtaoi:::txtsize --> SiUiinenWn:::txtsize
-SiUiinenWn:::txtsize --> peapubmalrest:::txtsize
-BiCosueoshrtaoi:::txtsize --> TttBhiwaagfio:::txtsize
-TttBhiwaagfio:::txtsize --> Bshfqfroneri:::txtsize
-TttBhiwaagfio:::txtsize --> SiUiinenWn:::txtsize
-Bunsoadtadnp:::txtsize --> Tsieooieet:::txtsize
-Tsieooieet:::txtsize --> TttBhiwaagfio:::txtsize
-TttBhiwaagfio:::txtsize --> Bshfqfroneri:::txtsize
-TttBhiwaagfio:::txtsize --> SiUiinenWn:::txtsize
-Tsieooieet:::txtsize --> BiCosueoshrtaoi:::txtsize
-BiCosueoshrtaoi:::txtsize --> SiUiinenWn:::txtsize
-BiCosueoshrtaoi:::txtsize --> TttBhiwaagfio:::txtsize
+Sredotifnnhr:::txtsize --> Mseeunxal:::txtsize
+Mseeunxal:::txtsize --> Taefunygs:::txtsize
+Taefunygs:::txtsize --> JoctgdnsSdite:::txtsize
+Taefunygs:::txtsize --> msfaegtiatsait:::txtsize
+Sredotifnnhr:::txtsize --> Begprdegxrlltlm:::txtsize
+Begprdegxrlltlm:::txtsize --> Wisrcooegfwtekdi:::txtsize
+Wisrcooegfwtekdi:::txtsize --> NyorOinkneawifcf:::txtsize
+Wisrcooegfwtekdi:::txtsize --> Calzoiadtsneatph:::txtsize
+Begprdegxrlltlm:::txtsize --> Sslooinsdn:::txtsize
+Sslooinsdn:::txtsize --> Sslnsluinsr:::txtsize
+Sslooinsdn:::txtsize --> Foortkpasesrft:::txtsize
 
 ```
-<i>Last updated: 2025-11-16 00:00:24.410143 (GMT+8)</i>
+<i>Last updated: 2025-11-16 04:00:51.790016 (GMT+8)</i>
 <!-- END -->
