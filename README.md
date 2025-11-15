@@ -16,8 +16,85 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-WHslalCsitt@{ shape: win-pane, label: "_Published Nov 15, 2025, 07:45 AM_
-White house says alibaba is helping chinese military target us: ft" }
+DrnemamkTcd@{ shape: win-pane, label: "_Published Nov 15, 2025, 11:32 AM_
+‘desperation in the air’: immigrant comics skewer trump crackdown" }
+Taitaooitsfl@{ shape: win-pane, label: "_Published Nov 06, 2025, 09:10 AM_
+Trump administration has revoked 80,000 non-immigrant visas, us official says" }
+Rmvohnvacni@{ shape: win-pane, label: "_Published May 21, 2025, 04:10 AM_
+Rubio may have revoked thousands of visas as crackdown continues" }
+TsrornruditeWH@{ shape: win-pane, label: "_Published Jan 24, 2025, 08:42 PM_
+Trump’s deportation operation under way, hundreds of migrants arrested: white house" }
+UhituheTUrre@{ shape: win-pane, label: "_Published Mar 26, 2025, 11:34 PM_
+Us authorities detain turkish student at tufts university, revoke visa" }
+UfypercAcer@{ shape: win-pane, label: "_Published Oct 29, 2025, 02:04 PM_
+Unruffled by trump, chinese parents chase ‘american dream’ for kids" }
+Cstaftetwt@{ shape: win-pane, label: "_Published Oct 14, 2025, 10:02 AM_
+China says it is ready to ‘fight to the end’ in trade war with us" }
+TXmgelreent@{ shape: win-pane, label: "_Published Oct 28, 2025, 09:35 PM_
+Trump-xi summit might yield only short-lived detente: analysts" }
+Tpoiraoitmecr@{ shape: win-pane, label: "_Published Nov 15, 2025, 08:54 AM_
+Trump plan could limit green cards for immigrants from travel ban countries" }
+Ttlncifasem@{ shape: win-pane, label: "_Published Jun 09, 2025, 02:45 PM_
+Trump travel ban in effect, citizens from 12 nations barred from us" }
+Tbinmtidyrtlt@{ shape: win-pane, label: "_Published Jun 05, 2025, 07:46 AM_
+Trump bans citizens from 12 countries, including myanmar, from travelling to us" }
+MtCaoteslu@{ shape: win-pane, label: "_Published Jun 02, 2025, 06:15 AM_
+Man attacks colorado crowd with firebombs, 8 people injured" }
+
+DrnemamkTcd:::txtsize --> Taitaooitsfl:::txtsize
+Taitaooitsfl:::txtsize --> Rmvohnvacni:::txtsize
+Rmvohnvacni:::txtsize --> TsrornruditeWH:::txtsize
+Rmvohnvacni:::txtsize --> UhituheTUrre:::txtsize
+Taitaooitsfl:::txtsize --> UfypercAcer:::txtsize
+UfypercAcer:::txtsize --> Cstaftetwt:::txtsize
+UfypercAcer:::txtsize --> TXmgelreent:::txtsize
+DrnemamkTcd:::txtsize --> Tpoiraoitmecr:::txtsize
+Tpoiraoitmecr:::txtsize --> Ttlncifasem:::txtsize
+Ttlncifasem:::txtsize --> Tbinmtidyrtlt:::txtsize
+Ttlncifasem:::txtsize --> MtCaoteslu:::txtsize
+
+Tsieooieet@{ shape: win-pane, label: "_Published Nov 15, 2025, 10:09 AM_
+Trump says will sue bbc for up to $6.4 billion over video edit" }
+TttBhiwaagfio@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:49 AM_
+Trump threatens bbc with $1.3 billion lawsuit as bbc apologises for edit error" }
+Bshfqfroneri@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:45 AM_
+Bbc boss and head of news quit after trump documentary edit criticism" }
+Gonsobhcyerws@{ shape: win-pane, label: "_Published Jul 15, 2025, 01:09 AM_
+Gaza documentary shown on bbc breached accuracy guideline, review finds" }
+BsislBsisedpsnies@{ shape: win-pane, label: "_Published Nov 09, 2025, 09:00 PM_
+British minister says claims bbc misled viewers with edited trump clips are ‘incredibly serious’" }
+SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
+Storming of us capitol: timeline of key events in washington" }
+peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
+4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
+BiCosueoshrtaoi@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:07 AM_
+Britain’s bbc apologises to trump over panorama speech edit, rejects defamation claim" }
+SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
+Storming of us capitol: timeline of key events in washington" }
+peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
+4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
+TttBhiwaagfio@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:49 AM_
+Trump threatens bbc with $1.3 billion lawsuit as bbc apologises for edit error" }
+Bshfqfroneri@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:45 AM_
+Bbc boss and head of news quit after trump documentary edit criticism" }
+SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
+Storming of us capitol: timeline of key events in washington" }
+
+Tsieooieet:::txtsize --> TttBhiwaagfio:::txtsize
+TttBhiwaagfio:::txtsize --> Bshfqfroneri:::txtsize
+Bshfqfroneri:::txtsize --> Gonsobhcyerws:::txtsize
+Bshfqfroneri:::txtsize --> BsislBsisedpsnies:::txtsize
+TttBhiwaagfio:::txtsize --> SiUiinenWn:::txtsize
+SiUiinenWn:::txtsize --> peapubmalrest:::txtsize
+Tsieooieet:::txtsize --> BiCosueoshrtaoi:::txtsize
+BiCosueoshrtaoi:::txtsize --> SiUiinenWn:::txtsize
+SiUiinenWn:::txtsize --> peapubmalrest:::txtsize
+BiCosueoshrtaoi:::txtsize --> TttBhiwaagfio:::txtsize
+TttBhiwaagfio:::txtsize --> Bshfqfroneri:::txtsize
+TttBhiwaagfio:::txtsize --> SiUiinenWn:::txtsize
+
+Tsenrfediu@{ shape: win-pane, label: "_Published Nov 15, 2025, 09:02 AM_
+Trump says he is considering f-35 fighter jet deal with saudis" }
 UrmsoafuT@{ shape: win-pane, label: "_Published Nov 14, 2025, 12:59 PM_
 Us approves $429m arms sale to taiwan, the first under trump" }
 Tsihiliealsen@{ shape: win-pane, label: "_Published Aug 16, 2025, 07:44 AM_
@@ -32,104 +109,27 @@ Unloehmsewne@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:01 AM_
 Us, china seal deal on rare earths; trump says xi meeting was a 12 on scale of 1 to 10" }
 Unloehmsewne@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:01 AM_
 Us, china seal deal on rare earths; trump says xi meeting was a 12 on scale of 1 to 10" }
-Umwoimdagwh@{ shape: win-pane, label: "_Published Sep 23, 2025, 02:07 PM_
-Us lawmaker warns of military ‘misunderstanding’ risk with china" }
-Usutmikois@{ shape: win-pane, label: "_Published Sep 22, 2025, 07:59 AM_
-Us house group meets premier li as it kicks off china visit" }
-Usmsrhioit@{ shape: win-pane, label: "_Published Sep 21, 2025, 04:46 PM_
-Us house lawmakers make rare china visit to stabilise ties" }
-Piibefintl@{ shape: win-pane, label: "_Published Sep 23, 2025, 05:00 AM_
-Pacific policing becomes new front in china-west rivalry" }
-Cpsarliosssi@{ shape: win-pane, label: "_Published Sep 12, 2025, 02:14 PM_
-China pilots village surveillance in solomon islands, seeks stability" }
-SoalUnwoitlat@{ shape: win-pane, label: "_Published Aug 07, 2025, 05:36 PM_
-Solomon islands blocks us, china, taiwan from pacific’s top political meet" }
+Ucceeonigsteens@{ shape: win-pane, label: "_Published Nov 11, 2025, 11:41 PM_
+Us aircraft carrier moves into latin america region, escalating venezuela tensions" }
+Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
+Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
+Tseaonencl@{ shape: win-pane, label: "_Published Oct 24, 2025, 05:55 AM_
+Trump says declaration of war not needed on drug cartels" }
+Uisepdvlef@{ shape: win-pane, label: "_Published Oct 23, 2025, 01:07 AM_
+Us military strikes suspected drug vessel in the pacific" }
 
-WHslalCsitt:::txtsize --> UrmsoafuT:::txtsize
+Tsenrfediu:::txtsize --> UrmsoafuT:::txtsize
 UrmsoafuT:::txtsize --> Tsihiliealsen:::txtsize
 Tsihiliealsen:::txtsize --> TaeaZsmdisfegn:::txtsize
 Tsihiliealsen:::txtsize --> Asoeoawanawwns:::txtsize
 UrmsoafuT:::txtsize --> XsioenneseuSK:::txtsize
 XsioenneseuSK:::txtsize --> Unloehmsewne:::txtsize
 XsioenneseuSK:::txtsize --> Unloehmsewne:::txtsize
-WHslalCsitt:::txtsize --> Umwoimdagwh:::txtsize
-Umwoimdagwh:::txtsize --> Usutmikois:::txtsize
-Usutmikois:::txtsize --> Usmsrhioit:::txtsize
-Umwoimdagwh:::txtsize --> Piibefintl:::txtsize
-Piibefintl:::txtsize --> Cpsarliosssi:::txtsize
-Piibefintl:::txtsize --> SoalUnwoitlat:::txtsize
-
-Tcasefdrsfocm@{ shape: win-pane, label: "_Published Nov 15, 2025, 07:18 AM_
-Trump cuts tariffs on beef, coffee and other foods as inflation concerns mount" }
-Taitreieoblfri@{ shape: win-pane, label: "_Published Nov 14, 2025, 10:11 AM_
-Trump administration prepares tariff exemptions in bid to lower food prices in us" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
-Cuomo to stay in new york mayoral race despite losing democratic primary" }
-Ttfevhniiiss@{ shape: win-pane, label: "_Published Apr 03, 2025, 11:10 AM_
-Trump tariffs take aim everywhere, including uninhabited islands" }
-Tspaspadanop@{ shape: win-pane, label: "_Published Apr 03, 2025, 04:47 AM_
-Trump’s sweeping tariffs amp up global trade war as china, eu vow response" }
-OiaeqsenonBoH@{ shape: win-pane, label: "_Published Mar 28, 2025, 02:47 PM_
-Over 153 killed as powerful quake strikes myanmar, sows panic in bangkok and hanoi" }
-
-Tcasefdrsfocm:::txtsize --> Taitreieoblfri:::txtsize
-Taitreieoblfri:::txtsize --> Drwialosdp:::txtsize
-Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
-Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
-Taitreieoblfri:::txtsize --> Ttfevhniiiss:::txtsize
-Ttfevhniiiss:::txtsize --> Tspaspadanop:::txtsize
-Ttfevhniiiss:::txtsize --> OiaeqsenonBoH:::txtsize
-
-WYresemhiN@{ shape: win-pane, label: "_Published Nov 15, 2025, 06:35 AM_
-While you were sleeping: 5 stories you might have missed, nov 15, 2025" }
-TcTamarlsWH@{ shape: win-pane, label: "_Published Nov 15, 2025, 04:21 AM_
-Trump calls thailand, cambodia after new clashes, says white house" }
-AmcnoniseeASt@{ shape: win-pane, label: "_Published Oct 26, 2025, 01:24 PM_
-As trump watches on, cambodia and thailand sign ‘peace deal’ at asean summit" }
-WssutreTsoa@{ shape: win-pane, label: "_Published Oct 26, 2025, 09:00 AM_
-What is the asean summit, the first event on trump’s tour of asia?" }
-TaoqSidl@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:35 AM_
-Thailand’s former queen sirikit dead at 93: palace" }
-TahmeicfetbwnWn@{ shape: win-pane, label: "_Published Nov 11, 2025, 01:01 PM_
-Thailand to halt implementation of ceasefire deal with cambodia, will inform washington" }
-Talmaealij@{ shape: win-pane, label: "_Published Nov 10, 2025, 03:38 PM_
-Thailand halts cambodia peace deal after landmine injures 2" }
-AmcnoniseeASt@{ shape: win-pane, label: "_Published Oct 26, 2025, 01:24 PM_
-As trump watches on, cambodia and thailand sign ‘peace deal’ at asean summit" }
-IvhcteaipaeaieIs@{ shape: win-pane, label: "_Published Nov 14, 2025, 10:33 PM_
-‘i did everything i could to save her’: malaysian rapper namewee on death of influencer iris hsieh" }
-MsaNeiuavmnaiesh@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:47 PM_
-Malaysian rapper namewee denies drug use and involvement in taiwanese influencer’s death" }
-Msnndeeaepaeuwd@{ shape: win-pane, label: "_Published Dec 19, 2024, 08:12 AM_
-Malaysian influencer ady hu detained by taiwanese cops for alleged fraud: taiwan media" }
-ceairryitidfce@{ shape: win-pane, label: "_Published Jul 17, 2024, 10:07 AM_
-2 charged in malaysia over cyber bullying linked to social media influencer’s death" }
-Ksayhisleshr@{ shape: win-pane, label: "_Published Nov 04, 2025, 12:20 PM_
-Kl cops reclassify death of taiwanese influencer iris hsieh as murder" }
-MsaNeiuavmnaiesh@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:47 PM_
-Malaysian rapper namewee denies drug use and involvement in taiwanese influencer’s death" }
-MsaNeeggttat@{ shape: win-pane, label: "_Published Nov 03, 2025, 09:40 AM_
-Malaysian rapper namewee faces drug charges after october arrest" }
-
-WYresemhiN:::txtsize --> TcTamarlsWH:::txtsize
-TcTamarlsWH:::txtsize --> AmcnoniseeASt:::txtsize
-AmcnoniseeASt:::txtsize --> WssutreTsoa:::txtsize
-AmcnoniseeASt:::txtsize --> TaoqSidl:::txtsize
-TcTamarlsWH:::txtsize --> TahmeicfetbwnWn:::txtsize
-TahmeicfetbwnWn:::txtsize --> Talmaealij:::txtsize
-TahmeicfetbwnWn:::txtsize --> AmcnoniseeASt:::txtsize
-WYresemhiN:::txtsize --> IvhcteaipaeaieIs:::txtsize
-IvhcteaipaeaieIs:::txtsize --> MsaNeiuavmnaiesh:::txtsize
-MsaNeiuavmnaiesh:::txtsize --> Msnndeeaepaeuwd:::txtsize
-MsaNeiuavmnaiesh:::txtsize --> ceairryitidfce:::txtsize
-IvhcteaipaeaieIs:::txtsize --> Ksayhisleshr:::txtsize
-Ksayhisleshr:::txtsize --> MsaNeiuavmnaiesh:::txtsize
-Ksayhisleshr:::txtsize --> MsaNeeggttat:::txtsize
+Tsenrfediu:::txtsize --> Ucceeonigsteens:::txtsize
+Ucceeonigsteens:::txtsize --> Uidycceuomasnswee:::txtsize
+Uidycceuomasnswee:::txtsize --> Tseaonencl:::txtsize
+Uidycceuomasnswee:::txtsize --> Uisepdvlef:::txtsize
 
 ```
-<i>Last updated: 2025-11-15 08:00:44.349240 (GMT+8)</i>
+<i>Last updated: 2025-11-15 12:01:10.114518 (GMT+8)</i>
 <!-- END -->
