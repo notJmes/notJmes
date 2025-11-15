@@ -16,87 +16,129 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-TsotEiasci@{ shape: win-pane, label: "_Published Nov 15, 2025, 07:07 PM_
-Trump’s teflon tested as epstein saga looms over 2026 campaign" }
-TwrutomyoaGe@{ shape: win-pane, label: "_Published Nov 15, 2025, 02:43 PM_
-Trump withdraws support for long-time ally marjorie taylor greene" }
-Lsounenonmr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:01 PM_
-Longest us govt shutdown is over but new showdowns loom for trump" }
-Tsdootveuns@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:48 AM_
-Trump signs deal to end longest us government shutdown in history" }
+Zswroasaeys@{ shape: win-pane, label: "_Published Nov 15, 2025, 11:36 PM_
+Zelensky vows overhaul of ukraine’s scandal-hit energy firms" }
+UnasnaRaa@{ shape: win-pane, label: "_Published Nov 09, 2025, 08:55 PM_
+Ukraine scrambles for energy after russian attacks" }
+Unnimruieusnoos@{ shape: win-pane, label: "_Published Nov 09, 2025, 01:25 PM_
+Ukraine drone strike temporarily cuts utilities in russia’s voronezh, governor says" }
+Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
+Timeline: how russia's attack on ukraine unfolded" }
+Raaanasoleaa@{ shape: win-pane, label: "_Published Nov 08, 2025, 06:40 PM_
+Russian attacks target nuclear substations, kill seven, ukraine says" }
+SdroisdshazaeaUn@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:53 AM_
+Second external power line restored at russian-held zaporizhzhia nuclear plant in ukraine" }
+Zsrcctofdrhcp@{ shape: win-pane, label: "_Published Oct 01, 2025, 03:45 AM_
+Zelensky warns of ‘critical’ situation at off-grid zaporizhzhia nuclear plant" }
+Ralcooneyllke@{ shape: win-pane, label: "_Published Oct 02, 2025, 03:39 AM_
+Russian shelling cuts power to defunct chernobyl nuclear plant, ukraine says" }
+Unisgrrund@{ shape: win-pane, label: "_Published Nov 13, 2025, 01:13 AM_
+Ukraine ministers resign over major corruption scandals" }
+UnasnaRaa@{ shape: win-pane, label: "_Published Nov 09, 2025, 08:55 PM_
+Ukraine scrambles for energy after russian attacks" }
+Unnimruieusnoos@{ shape: win-pane, label: "_Published Nov 09, 2025, 01:25 PM_
+Ukraine drone strike temporarily cuts utilities in russia’s voronezh, governor says" }
+SdroisdshazaeaUn@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:53 AM_
+Second external power line restored at russian-held zaporizhzhia nuclear plant in ukraine" }
+UnpCeiaronhwmen@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:51 PM_
+Ukraine suspends cabinet minister as corruption scandal shakes wartime government" }
+CZslufetarc@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:54 AM_
+Close zelensky ally accused of orchestrating major graft scheme" }
+Zsvossssrrsgai@{ shape: win-pane, label: "_Published Jul 31, 2025, 10:39 PM_
+Zelensky, moving to defuse crisis, restores power of ukraine’s anti-graft agencies" }
 
-TsotEiasci:::txtsize --> TwrutomyoaGe:::txtsize
-TwrutomyoaGe:::txtsize --> Lsounenonmr:::txtsize
-Lsounenonmr:::txtsize --> Tsdootveuns:::txtsize
+Zswroasaeys:::txtsize --> UnasnaRaa:::txtsize
+UnasnaRaa:::txtsize --> Unnimruieusnoos:::txtsize
+Unnimruieusnoos:::txtsize --> Tiwitnifd:::txtsize
+Unnimruieusnoos:::txtsize --> Raaanasoleaa:::txtsize
+UnasnaRaa:::txtsize --> SdroisdshazaeaUn:::txtsize
+SdroisdshazaeaUn:::txtsize --> Zsrcctofdrhcp:::txtsize
+SdroisdshazaeaUn:::txtsize --> Ralcooneyllke:::txtsize
+Zswroasaeys:::txtsize --> Unisgrrund:::txtsize
+Unisgrrund:::txtsize --> UnasnaRaa:::txtsize
+UnasnaRaa:::txtsize --> Unnimruieusnoos:::txtsize
+UnasnaRaa:::txtsize --> SdroisdshazaeaUn:::txtsize
+Unisgrrund:::txtsize --> UnpCeiaronhwmen:::txtsize
+UnpCeiaronhwmen:::txtsize --> CZslufetarc:::txtsize
+UnpCeiaronhwmen:::txtsize --> Zsvossssrrsgai:::txtsize
 
-Vauodesetiup@{ shape: win-pane, label: "_Published Nov 15, 2025, 06:52 PM_
-Vatican returns to canada artefacts connected to indigenous people" }
-Persumsdte@{ shape: win-pane, label: "_Published Nov 13, 2025, 06:47 AM_
-Pope leo shares his favourite movies ahead of vatican event" }
-PeieubnUhslit@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:25 PM_
-Pope leo’s critique of trump emboldens top us catholics to help immigrants" }
-UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
-Us cardinal prevost elected pope leo xiv, first american pontiff" }
-UeMnsooecnte@{ shape: win-pane, label: "_Published May 01, 2025, 06:52 AM_
-Us director martin scorsese got one of pope francis’ final interviews" }
-Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
-Pope francis dies at age 88" }
-DtrcsaomaJCtrie@{ shape: win-pane, label: "_Published Jun 01, 2023, 05:20 PM_
-Director martin scorsese to make another movie about jesus christ after meeting the pope" }
-Eocswqeetodt@{ shape: win-pane, label: "_Published Nov 02, 2025, 04:18 AM_
-Egypt opens colossal new antiquities museum after two-decade wait" }
-EooVyesempc@{ shape: win-pane, label: "_Published Oct 04, 2025, 11:21 PM_
-Egypt opens one of valley of the kings’ largest tombs to public" }
-Esigaretwg@{ shape: win-pane, label: "_Published Sep 18, 2025, 08:50 PM_
-Egypt says missing pharaoh’s bracelet melted down for gold" }
-Eaniiepomoar@{ shape: win-pane, label: "_Published Feb 20, 2025, 10:00 AM_
-Egypt announces first discovery of pharaoh’s tomb in more than 100 years" }
-Esigaretwg@{ shape: win-pane, label: "_Published Sep 18, 2025, 08:50 PM_
-Egypt says missing pharaoh’s bracelet melted down for gold" }
-Eaniiepomoar@{ shape: win-pane, label: "_Published Feb 20, 2025, 10:00 AM_
-Egypt announces first discovery of pharaoh’s tomb in more than 100 years" }
-Anpmerlstoll@{ shape: win-pane, label: "_Published Jul 03, 2025, 02:56 AM_
-Ancient egyptian man’s genome reveals his society’s cross-cultural ties" }
+Tersjlopo@{ shape: win-pane, label: "_Published Nov 15, 2025, 11:05 PM_
+Thieves in france steal jewellery worth up to $1.6m: police" }
+Leulytsisturs@{ shape: win-pane, label: "_Published Nov 06, 2025, 05:30 PM_
+Louvre museum will need years to fix security issues, state auditor finds" }
+Letotmsrsioty@{ shape: win-pane, label: "_Published Nov 02, 2025, 09:46 PM_
+Louvre heist work of petty criminals, not organised crime, prosecutor says" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+Letutgors@{ shape: win-pane, label: "_Published Nov 01, 2025, 10:49 PM_
+Louvre heist: one suspect charged, another released" }
+Fhcoicmsrli@{ shape: win-pane, label: "_Published Nov 04, 2025, 12:59 AM_
+French police recover $40m in precious metals after gold lab heist" }
+Fhcexarrobo@{ shape: win-pane, label: "_Published Oct 31, 2025, 07:00 PM_
+French police arrest six over armed robbery at gold laboratory" }
+Fhcerpiviwtig@{ shape: win-pane, label: "_Published Oct 30, 2025, 03:20 PM_
+French police arrest more suspects in louvre heist, jewels still missing" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
+‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
+Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
+Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
 
-Vauodesetiup:::txtsize --> Persumsdte:::txtsize
-Persumsdte:::txtsize --> PeieubnUhslit:::txtsize
-PeieubnUhslit:::txtsize --> UdPscooimat:::txtsize
-Persumsdte:::txtsize --> UeMnsooecnte:::txtsize
-UeMnsooecnte:::txtsize --> Prsa:::txtsize
-UeMnsooecnte:::txtsize --> DtrcsaomaJCtrie:::txtsize
-Vauodesetiup:::txtsize --> Eocswqeetodt:::txtsize
-Eocswqeetodt:::txtsize --> EooVyesempc:::txtsize
-EooVyesempc:::txtsize --> Esigaretwg:::txtsize
-EooVyesempc:::txtsize --> Eaniiepomoar:::txtsize
-Eocswqeetodt:::txtsize --> Esigaretwg:::txtsize
-Esigaretwg:::txtsize --> Eaniiepomoar:::txtsize
-Esigaretwg:::txtsize --> Anpmerlstoll:::txtsize
+Tersjlopo:::txtsize --> Leulytsisturs:::txtsize
+Leulytsisturs:::txtsize --> Letotmsrsioty:::txtsize
+Letotmsrsioty:::txtsize --> Ptineluiisey:::txtsize
+Letotmsrsioty:::txtsize --> Letutgors:::txtsize
+Tersjlopo:::txtsize --> Fhcoicmsrli:::txtsize
+Fhcoicmsrli:::txtsize --> Fhcexarrobo:::txtsize
+Fhcexarrobo:::txtsize --> Fhcerpiviwtig:::txtsize
+Fhcoicmsrli:::txtsize --> Ptineluiisey:::txtsize
+Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
+Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
 
-Dyoeaaiedp@{ shape: win-pane, label: "_Published Nov 15, 2025, 04:15 PM_
-Disney and youtube tv reach deal, ending weeks of disruption" }
-DyonslTienrse@{ shape: win-pane, label: "_Published Jun 03, 2025, 08:24 AM_
-Disney lays off hundreds in film and tv businesses as industry woes linger" }
-Dyuirdaerbb@{ shape: win-pane, label: "_Published May 07, 2025, 09:27 PM_
-Disney announces its first middle east theme park in abu dhabi" }
-OtuteoPIDy@{ shape: win-pane, label: "_Published Dec 23, 2024, 02:00 PM_
-One of the toughest tables to book in paris? it’s in disneyland" }
-Ybsoplswsid@{ shape: win-pane, label: "_Published Oct 30, 2025, 12:50 PM_
-Youtube to use ai to sharpen millions of lower-resolution videos" }
-YbnIolpgu@{ shape: win-pane, label: "_Published Aug 15, 2025, 08:15 AM_
-Youtube turns to ai to spot children posing as adults" }
-AaitombYbaeo@{ shape: win-pane, label: "_Published Jul 30, 2025, 06:43 AM_
-Australia widens teen social media ban to youtube, scraps exemption" }
-UacoaerepnIc@{ shape: win-pane, label: "_Published Aug 15, 2025, 04:56 AM_
-Us senators call for meta probe after reuters report on its ai policies" }
+Bunsoadtadnp@{ shape: win-pane, label: "_Published Nov 15, 2025, 10:53 PM_
+Bbc caught in crossfire of polarised political and media landscape" }
+BiCosueoshrtaoi@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:07 AM_
+Britain’s bbc apologises to trump over panorama speech edit, rejects defamation claim" }
+SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
+Storming of us capitol: timeline of key events in washington" }
+peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
+4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
+TttBhiwaagfio@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:49 AM_
+Trump threatens bbc with $1.3 billion lawsuit as bbc apologises for edit error" }
+Bshfqfroneri@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:45 AM_
+Bbc boss and head of news quit after trump documentary edit criticism" }
+SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
+Storming of us capitol: timeline of key events in washington" }
+Tsieooieet@{ shape: win-pane, label: "_Published Nov 15, 2025, 10:09 AM_
+Trump says will sue bbc for up to $6.4 billion over video edit" }
+TttBhiwaagfio@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:49 AM_
+Trump threatens bbc with $1.3 billion lawsuit as bbc apologises for edit error" }
+Bshfqfroneri@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:45 AM_
+Bbc boss and head of news quit after trump documentary edit criticism" }
+SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
+Storming of us capitol: timeline of key events in washington" }
+BiCosueoshrtaoi@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:07 AM_
+Britain’s bbc apologises to trump over panorama speech edit, rejects defamation claim" }
+SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
+Storming of us capitol: timeline of key events in washington" }
+TttBhiwaagfio@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:49 AM_
+Trump threatens bbc with $1.3 billion lawsuit as bbc apologises for edit error" }
 
-Dyoeaaiedp:::txtsize --> DyonslTienrse:::txtsize
-DyonslTienrse:::txtsize --> Dyuirdaerbb:::txtsize
-Dyuirdaerbb:::txtsize --> OtuteoPIDy:::txtsize
-Dyoeaaiedp:::txtsize --> Ybsoplswsid:::txtsize
-Ybsoplswsid:::txtsize --> YbnIolpgu:::txtsize
-YbnIolpgu:::txtsize --> AaitombYbaeo:::txtsize
-YbnIolpgu:::txtsize --> UacoaerepnIc:::txtsize
+Bunsoadtadnp:::txtsize --> BiCosueoshrtaoi:::txtsize
+BiCosueoshrtaoi:::txtsize --> SiUiinenWn:::txtsize
+SiUiinenWn:::txtsize --> peapubmalrest:::txtsize
+BiCosueoshrtaoi:::txtsize --> TttBhiwaagfio:::txtsize
+TttBhiwaagfio:::txtsize --> Bshfqfroneri:::txtsize
+TttBhiwaagfio:::txtsize --> SiUiinenWn:::txtsize
+Bunsoadtadnp:::txtsize --> Tsieooieet:::txtsize
+Tsieooieet:::txtsize --> TttBhiwaagfio:::txtsize
+TttBhiwaagfio:::txtsize --> Bshfqfroneri:::txtsize
+TttBhiwaagfio:::txtsize --> SiUiinenWn:::txtsize
+Tsieooieet:::txtsize --> BiCosueoshrtaoi:::txtsize
+BiCosueoshrtaoi:::txtsize --> SiUiinenWn:::txtsize
+BiCosueoshrtaoi:::txtsize --> TttBhiwaagfio:::txtsize
 
 ```
-<i>Last updated: 2025-11-15 20:00:53.593334 (GMT+8)</i>
+<i>Last updated: 2025-11-16 00:00:24.410143 (GMT+8)</i>
 <!-- END -->
