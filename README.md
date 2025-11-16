@@ -16,120 +16,129 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-NyaahkaUkanais@{ shape: win-pane, label: "_Published Nov 16, 2025, 09:22 PM_
-Netanyahu faces far-right backlash after us-backed statement on palestinian state" }
-UtNtoNinnzcd@{ shape: win-pane, label: "_Published Nov 07, 2025, 09:35 AM_
-Us to start un negotiations on nov 6 on international gaza force mandate" }
-Uatdnaacareonw@{ shape: win-pane, label: "_Published Nov 05, 2025, 08:02 AM_
-Us may ask un to mandate international force in gaza for two years, document shows" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Udoaitotnous@{ shape: win-pane, label: "_Published Nov 03, 2025, 11:57 PM_
-Un mandate for gaza stabilisation force still in the works, turkey says" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
-What does trump’s gaza peace plan promise?" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
+Ucceinaeiiburz@{ shape: win-pane, label: "_Published Nov 17, 2025, 03:14 AM_
+Us aircraft carrier arrives in the caribbean amid military buildup near venezuela" }
+Eirdyroersl@{ shape: win-pane, label: "_Published Oct 31, 2025, 06:16 PM_
+Explainer: are the deadly us strikes on alleged drug vessels legal?​" }
+Nselgufexeeov@{ shape: win-pane, label: "_Published Oct 29, 2025, 01:00 AM_
+New us strikes kill 14 alleged drug traffickers, mexico leads rescue of survivor" }
+Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
+Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
+TcrAotnzrnsou@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:05 AM_
+Trump confirms cia authorisation in venezuela, raising pressure on maduro" }
+VulClaaispbr@{ shape: win-pane, label: "_Published Oct 28, 2025, 01:03 PM_
+Venezuela claims cia ‘false flag’ attack foiled, as us deploys bombers" }
+Tseaonencl@{ shape: win-pane, label: "_Published Oct 24, 2025, 05:55 AM_
+Trump says declaration of war not needed on drug cartels" }
+Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
+Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
+VuonipcnAraTo@{ shape: win-pane, label: "_Published Oct 27, 2025, 08:06 AM_
+Venezuela condemns ‘military provocation’ by cia and trinidad and tobago" }
+TcrAotnzrnsou@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:05 AM_
+Trump confirms cia authorisation in venezuela, raising pressure on maduro" }
+Thtniahclgt@{ shape: win-pane, label: "_Published Oct 03, 2025, 05:25 AM_
+Trump has determined us is at war with drug cartels, congress told" }
+UuCiboontnls@{ shape: win-pane, label: "_Published Oct 11, 2025, 07:58 AM_
+Un security council members voice concern about us-venezuela tensions" }
+VuopccfSnctas@{ shape: win-pane, label: "_Published Oct 26, 2025, 10:50 AM_
+Venezuela vows to protect its coast from us potential ‘covert operations’" }
+Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
+Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
+TcrAotnzrnsou@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:05 AM_
+Trump confirms cia authorisation in venezuela, raising pressure on maduro" }
 
-NyaahkaUkanais:::txtsize --> UtNtoNinnzcd:::txtsize
-UtNtoNinnzcd:::txtsize --> Uatdnaacareonw:::txtsize
-Uatdnaacareonw:::txtsize --> AtHfezerydatoGel:::txtsize
-Uatdnaacareonw:::txtsize --> Udoaitotnous:::txtsize
-UtNtoNinnzcd:::txtsize --> AtHfezerydatoGel:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-NyaahkaUkanais:::txtsize --> Wouaaam:::txtsize
-Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-Wouaaam:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Ucceinaeiiburz:::txtsize --> Eirdyroersl:::txtsize
+Eirdyroersl:::txtsize --> Nselgufexeeov:::txtsize
+Nselgufexeeov:::txtsize --> Uidycceuomasnswee:::txtsize
+Nselgufexeeov:::txtsize --> TcrAotnzrnsou:::txtsize
+Eirdyroersl:::txtsize --> VulClaaispbr:::txtsize
+VulClaaispbr:::txtsize --> Tseaonencl:::txtsize
+VulClaaispbr:::txtsize --> Uidycceuomasnswee:::txtsize
+Ucceinaeiiburz:::txtsize --> VuonipcnAraTo:::txtsize
+VuonipcnAraTo:::txtsize --> TcrAotnzrnsou:::txtsize
+TcrAotnzrnsou:::txtsize --> Thtniahclgt:::txtsize
+TcrAotnzrnsou:::txtsize --> UuCiboontnls:::txtsize
+VuonipcnAraTo:::txtsize --> VuopccfSnctas:::txtsize
+VuopccfSnctas:::txtsize --> Uidycceuomasnswee:::txtsize
+VuopccfSnctas:::txtsize --> TcrAotnzrnsou:::txtsize
 
-Tysstsenal@{ shape: win-pane, label: "_Published Nov 16, 2025, 08:30 PM_
-Turkey seeks to host next cop as co-presidency plans falter" }
-Syalhaamicieiarnr@{ shape: win-pane, label: "_Published Nov 16, 2025, 09:15 PM_
-S’pore youth at cop30 learn how amazonian communities face environmental inequality, rely on nature" }
-Lronaiesipttam@{ shape: win-pane, label: "_Published Nov 08, 2025, 11:00 PM_
-Lula tries to expand oil and rainforests as brazil prepares to host climate summit" }
-WlrnmfrledP@{ shape: win-pane, label: "_Published Nov 07, 2025, 07:21 AM_
-World leaders warned of ‘moral failure’ on climate ahead of cop30" }
-Blinteaaiss@{ shape: win-pane, label: "_Published Mar 15, 2025, 01:51 PM_
-Brazil has $167 billion plan to make cop30 talks rare climate success" }
-SaesPlrnlbyfrpoa@{ shape: win-pane, label: "_Published Nov 14, 2025, 06:15 PM_
-S-e asia protesters at cop30 highlight regional vulnerability, call for more adaptation finance" }
-SaesPlrnlbyfrpoa@{ shape: win-pane, label: "_Published Nov 14, 2025, 06:15 PM_
-S-e asia protesters at cop30 highlight regional vulnerability, call for more adaptation finance" }
+AslCctcp@{ shape: win-pane, label: "_Published Nov 17, 2025, 02:02 AM_
+At least 32 killed in congo cobalt mine collapse" }
+dndrsaeonenn@{ shape: win-pane, label: "_Published Sep 27, 2024, 04:34 PM_
+11 dead, 13 injured after landslide at illegal gold mine in western indonesia" }
+CilesitVa@{ shape: win-pane, label: "_Published Jul 30, 2024, 10:49 AM_
+Coal mine collapse kills five in northern vietnam" }
+Teeaales@{ shape: win-pane, label: "_Published Mar 20, 2024, 06:42 PM_
+Twelve killed in pakistan coal mine explosion" }
+Oacfulonl@{ shape: win-pane, label: "_Published Mar 14, 2024, 06:25 AM_
+One dead, 29 rescued after australian gold mine collapse" }
+Aaeotoisonrs@{ shape: win-pane, label: "_Published Oct 11, 2023, 04:45 PM_
+Australian environmental group fails to stop coal mine approvals" }
+Aacxsofxerse@{ shape: win-pane, label: "_Published Jul 03, 2023, 02:52 PM_
+Australia’s coal exports set to rise for next three years on asian demand" }
+Aaairaurdbo@{ shape: win-pane, label: "_Published Sep 18, 2023, 02:23 PM_
+Australia says switch from coal to nuclear would cost $340 billion" }
+Nrdrgind@{ shape: win-pane, label: "_Published Feb 14, 2024, 01:22 AM_
+Nine trapped in turkish gold mine landslide" }
+Etellngiaefl@{ shape: win-pane, label: "_Published Jul 30, 2023, 06:05 PM_
+Eight trapped in illegal indonesia gold mine feared dead: official" }
 
-Tysstsenal:::txtsize --> Syalhaamicieiarnr:::txtsize
-Syalhaamicieiarnr:::txtsize --> Lronaiesipttam:::txtsize
-Lronaiesipttam:::txtsize --> WlrnmfrledP:::txtsize
-Lronaiesipttam:::txtsize --> Blinteaaiss:::txtsize
-Syalhaamicieiarnr:::txtsize --> SaesPlrnlbyfrpoa:::txtsize
-Tysstsenal:::txtsize --> SaesPlrnlbyfrpoa:::txtsize
+AslCctcp:::txtsize --> dndrsaeonenn:::txtsize
+dndrsaeonenn:::txtsize --> CilesitVa:::txtsize
+CilesitVa:::txtsize --> Teeaales:::txtsize
+AslCctcp:::txtsize --> Oacfulonl:::txtsize
+Oacfulonl:::txtsize --> Aaeotoisonrs:::txtsize
+Aaeotoisonrs:::txtsize --> Aacxsofxerse:::txtsize
+Aaeotoisonrs:::txtsize --> Aaairaurdbo:::txtsize
+Oacfulonl:::txtsize --> Nrdrgind:::txtsize
+Nrdrgind:::txtsize --> Etellngiaefl:::txtsize
 
-Ilyssatenrn@{ shape: win-pane, label: "_Published Nov 16, 2025, 06:31 PM_
-Israeli army kills palestinian youth in west bank operation" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-Daastemyriihc@{ shape: win-pane, label: "_Published Nov 16, 2025, 07:59 AM_
-Displaced gaza residents face more misery as torrential rain lashes enclave" }
-Gsaardsrfsticese@{ shape: win-pane, label: "_Published Oct 10, 2025, 04:58 PM_
-Gazans stream towards wrecked homes as israeli forces start pulling back under ceasefire" }
-Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
-Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-HqlssrGswli@{ shape: win-pane, label: "_Published Nov 14, 2025, 04:01 PM_
-Hamas quietly reasserts control in gaza as post-war talks grind on" }
-Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
-Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+Pgwrmaaroocnt@{ shape: win-pane, label: "_Published Nov 17, 2025, 12:36 AM_
+Pentagon to withdraw some us national guard troops from chicago and portland" }
+Taiteeiwniinorem@{ shape: win-pane, label: "_Published Oct 06, 2025, 12:28 AM_
+Trump administration declares us cities war zones amid rising tension over troop deployment" }
+UgcuemfoiGttfw@{ shape: win-pane, label: "_Published Oct 05, 2025, 09:28 AM_
+Us judge blocks trump’s deployment of oregon national guard to portland for now" }
+OntpplnStol@{ shape: win-pane, label: "_Published Sep 29, 2025, 07:15 AM_
+Oregon sues to stop trump’s deployment of us military to portland" }
+Twtfattaawrtr@{ shape: win-pane, label: "_Published Oct 04, 2025, 09:32 AM_
+Trump wants to cut federal aid to portland as his anger with protesters grows" }
+BronomCgrtonpn@{ shape: win-pane, label: "_Published Oct 05, 2025, 05:40 AM_
+Border patrol agents shoot woman in chicago as protesters confront ice personnel" }
+Pefttrshoatev@{ shape: win-pane, label: "_Published Oct 04, 2025, 03:30 AM_
+Police scuffle with protesters outside chicago ice facility, arrest several" }
+Pefttrshoatev@{ shape: win-pane, label: "_Published Oct 04, 2025, 03:30 AM_
+Police scuffle with protesters outside chicago ice facility, arrest several" }
+Tsouemfacce@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:18 PM_
+Trump’s national guard deployments face pair of court challenges" }
+UgcuemfoiGttfw@{ shape: win-pane, label: "_Published Oct 05, 2025, 09:28 AM_
+Us judge blocks trump’s deployment of oregon national guard to portland for now" }
+OntpplnStol@{ shape: win-pane, label: "_Published Sep 29, 2025, 07:15 AM_
+Oregon sues to stop trump’s deployment of us military to portland" }
+Twtfattaawrtr@{ shape: win-pane, label: "_Published Oct 04, 2025, 09:32 AM_
+Trump wants to cut federal aid to portland as his anger with protesters grows" }
+CoGnworvnNnaOn@{ shape: win-pane, label: "_Published Oct 06, 2025, 06:30 AM_
+California governor newsom to sue trump over sending national guard to oregon" }
+Taiteeiwniinorem@{ shape: win-pane, label: "_Published Oct 06, 2025, 12:28 AM_
+Trump administration declares us cities war zones amid rising tension over troop deployment" }
+UgcuemfoiGttfw@{ shape: win-pane, label: "_Published Oct 05, 2025, 09:28 AM_
+Us judge blocks trump’s deployment of oregon national guard to portland for now" }
 
-Ilyssatenrn:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Ilyssatenrn:::txtsize --> Daastemyriihc:::txtsize
-Daastemyriihc:::txtsize --> Gsaardsrfsticese:::txtsize
-Gsaardsrfsticese:::txtsize --> Iliaeseoewa:::txtsize
-Gsaardsrfsticese:::txtsize --> TssHaossaaorslaoe:::txtsize
-Daastemyriihc:::txtsize --> HqlssrGswli:::txtsize
-HqlssrGswli:::txtsize --> Iliaeseoewa:::txtsize
-HqlssrGswli:::txtsize --> Sbsrcdnacaale:::txtsize
+Pgwrmaaroocnt:::txtsize --> Taiteeiwniinorem:::txtsize
+Taiteeiwniinorem:::txtsize --> UgcuemfoiGttfw:::txtsize
+UgcuemfoiGttfw:::txtsize --> OntpplnStol:::txtsize
+UgcuemfoiGttfw:::txtsize --> Twtfattaawrtr:::txtsize
+Taiteeiwniinorem:::txtsize --> BronomCgrtonpn:::txtsize
+BronomCgrtonpn:::txtsize --> Pefttrshoatev:::txtsize
+BronomCgrtonpn:::txtsize --> Pefttrshoatev:::txtsize
+Pgwrmaaroocnt:::txtsize --> Tsouemfacce:::txtsize
+Tsouemfacce:::txtsize --> UgcuemfoiGttfw:::txtsize
+UgcuemfoiGttfw:::txtsize --> OntpplnStol:::txtsize
+UgcuemfoiGttfw:::txtsize --> Twtfattaawrtr:::txtsize
+Tsouemfacce:::txtsize --> CoGnworvnNnaOn:::txtsize
+CoGnworvnNnaOn:::txtsize --> Taiteeiwniinorem:::txtsize
+CoGnworvnNnaOn:::txtsize --> UgcuemfoiGttfw:::txtsize
 
 ```
-<i>Last updated: 2025-11-17 00:01:04.259996 (GMT+8)</i>
+<i>Last updated: 2025-11-17 04:00:30.097890 (GMT+8)</i>
 <!-- END -->
