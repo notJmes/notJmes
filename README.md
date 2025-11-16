@@ -16,111 +16,111 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Uibsdafoa@{ shape: win-pane, label: "_Published Nov 16, 2025, 03:45 AM_
-Uk train stabbings ‘hero’ discharged from hospital" }
-SiLndndpat@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:12 AM_
-Stabbing in london-bound train wounds 10, 2 suspects arrested" }
-Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
-British man of syrian descent named as manchester synagogue attacker" }
-Sontasaerdnhnit@{ shape: win-pane, label: "_Published Oct 03, 2025, 12:20 AM_
-Synagogue knife attack alarms britain’s jews already dealing with rising anti-semitism" }
-Sesaletiasot@{ shape: win-pane, label: "_Published Oct 03, 2025, 02:10 AM_
-Starmer says britain will defeat anti-semitism after synagogue attack" }
-Fndoakseehpr@{ shape: win-pane, label: "_Published Jul 03, 2025, 11:14 PM_
-Four injured in ‘violent’ attack by passenger on german high-speed train" }
-Thttsmainina@{ shape: win-pane, label: "_Published Jul 03, 2025, 06:35 AM_
-Teen who plotted attacks on women charged in france’s first ‘incel’ case" }
-Pesasgaanruea@{ shape: win-pane, label: "_Published Jun 23, 2025, 04:40 AM_
-Police arrest 12 as wave of syringe attacks mar france street music festival" }
-Mcortcehtttr@{ shape: win-pane, label: "_Published Nov 03, 2025, 03:37 PM_
-Man accused of uk train attack charged with 11 counts of attempted murder" }
-SiLndndpat@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:12 AM_
-Stabbing in london-bound train wounds 10, 2 suspects arrested" }
-Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
-British man of syrian descent named as manchester synagogue attacker" }
-Fndoakseehpr@{ shape: win-pane, label: "_Published Jul 03, 2025, 11:14 PM_
-Four injured in ‘violent’ attack by passenger on german high-speed train" }
-NnFtrralorcttsi@{ shape: win-pane, label: "_Published Nov 03, 2025, 11:06 AM_
-Nottingham forest owner offers financial support for fans caught up in train stabbings" }
-SiLndndpat@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:12 AM_
-Stabbing in london-bound train wounds 10, 2 suspects arrested" }
-Uibsitnanrsi@{ shape: win-pane, label: "_Published Nov 03, 2025, 03:29 AM_
-Uk train stabbings carried out by lone attacker, not terrorism: police" }
+Tbttlidcescro@{ shape: win-pane, label: "_Published Nov 16, 2025, 07:45 AM_
+Trump buys at least us$82 million in bonds since late august, disclosures show" }
+Tboabiisuo@{ shape: win-pane, label: "_Published Aug 21, 2025, 01:19 AM_
+Trump buys more than $128m in bonds in office, disclosure shows" }
+Taakcsohnhnu@{ shape: win-pane, label: "_Published Aug 20, 2025, 08:52 AM_
+Trump again attacks fed chair, says powell ‘hurting’ the housing industry" }
+Tselatnwvdvn@{ shape: win-pane, label: "_Published Aug 12, 2025, 10:30 PM_
+Trump says he may allow lawsuit against powell over fed renovation" }
+Tadflkreelv@{ shape: win-pane, label: "_Published Jul 25, 2025, 05:30 AM_
+Trump and fed chief powell bicker during tense central bank visit" }
+Treucafecnis@{ shape: win-pane, label: "_Published Aug 20, 2025, 07:33 AM_
+Trump revokes security clearance of 37 former and current officials" }
+JcanscslwniUeeoi@{ shape: win-pane, label: "_Published Jul 24, 2025, 06:33 AM_
+Justice department to assess claims of ‘alleged weaponisation’ of us intelligence community" }
+Tfyborwhae@{ shape: win-pane, label: "_Published Sep 08, 2025, 10:18 AM_
+Trump family adds $1.7 billion of crypto wealth in span of weeks" }
+RhpiEtnragnr@{ shape: win-pane, label: "_Published Sep 06, 2025, 09:56 PM_
+Robinhood, applovin and emcor to join s&p 500 in rebalancing of benchmark" }
+Uckamwhtiss@{ shape: win-pane, label: "_Published Sep 01, 2025, 08:24 AM_
+Us stock market’s fate comes down to the next 14 trading sessions" }
+Bcrsnsrlikck@{ shape: win-pane, label: "_Published Aug 03, 2025, 11:11 AM_
+Big tech’s earnings strength is the bright light in murky stock market" }
+Tfyiehdcoiyte@{ shape: win-pane, label: "_Published Sep 02, 2025, 09:36 AM_
+Trump family profits even with tepid launch of world liberty crypto tokens" }
+Tsdrklfdtn@{ shape: win-pane, label: "_Published Sep 02, 2025, 03:52 AM_
+Trump’s world liberty token falls in first day of trading" }
+Bishrvsoegow@{ shape: win-pane, label: "_Published Aug 14, 2025, 12:05 PM_
+Bitcoin hits fresh record above us$124,000 as bets on fed easing add to tailwinds" }
 
-Uibsdafoa:::txtsize --> SiLndndpat:::txtsize
-SiLndndpat:::txtsize --> Bsoisnaceaec:::txtsize
-Bsoisnaceaec:::txtsize --> Sontasaerdnhnit:::txtsize
-Bsoisnaceaec:::txtsize --> Sesaletiasot:::txtsize
-SiLndndpat:::txtsize --> Fndoakseehpr:::txtsize
-Fndoakseehpr:::txtsize --> Thttsmainina:::txtsize
-Fndoakseehpr:::txtsize --> Pesasgaanruea:::txtsize
-Uibsdafoa:::txtsize --> Mcortcehtttr:::txtsize
-Mcortcehtttr:::txtsize --> SiLndndpat:::txtsize
-SiLndndpat:::txtsize --> Bsoisnaceaec:::txtsize
-SiLndndpat:::txtsize --> Fndoakseehpr:::txtsize
-Mcortcehtttr:::txtsize --> NnFtrralorcttsi:::txtsize
-NnFtrralorcttsi:::txtsize --> SiLndndpat:::txtsize
-NnFtrralorcttsi:::txtsize --> Uibsitnanrsi:::txtsize
+Tbttlidcescro:::txtsize --> Tboabiisuo:::txtsize
+Tboabiisuo:::txtsize --> Taakcsohnhnu:::txtsize
+Taakcsohnhnu:::txtsize --> Tselatnwvdvn:::txtsize
+Taakcsohnhnu:::txtsize --> Tadflkreelv:::txtsize
+Tboabiisuo:::txtsize --> Treucafecnis:::txtsize
+Treucafecnis:::txtsize --> JcanscslwniUeeoi:::txtsize
+Tbttlidcescro:::txtsize --> Tfyborwhae:::txtsize
+Tfyborwhae:::txtsize --> RhpiEtnragnr:::txtsize
+RhpiEtnragnr:::txtsize --> Uckamwhtiss:::txtsize
+RhpiEtnragnr:::txtsize --> Bcrsnsrlikck:::txtsize
+Tfyborwhae:::txtsize --> Tfyiehdcoiyte:::txtsize
+Tfyiehdcoiyte:::txtsize --> Tsdrklfdtn:::txtsize
+Tfyiehdcoiyte:::txtsize --> Bishrvsoegow:::txtsize
 
-Taejcrhdncial@{ shape: win-pane, label: "_Published Nov 16, 2025, 03:17 AM_
-Thousands demand justice over north macedonia nightclub fire that killed 63" }
-Fteteatk@{ shape: win-pane, label: "_Published Mar 16, 2025, 03:46 PM_
-Fire at packed north macedonia nightclub kills 59" }
-VarlhHfhl@{ shape: win-pane, label: "_Published Mar 14, 2025, 01:40 PM_
-Vietnam court jails eight for hanoi fire that killed 56" }
-Asdrcaortk@{ shape: win-pane, label: "_Published Sep 13, 2023, 12:54 PM_
-At least 30 dead in horrific fire at hanoi apartment block" }
-Hkkfirut@{ shape: win-pane, label: "_Published Dec 19, 2024, 10:46 AM_
-Hanoi karaoke bar fire kills 11, arson suspected" }
-NcillicS@{ shape: win-pane, label: "_Published Oct 01, 2023, 07:40 PM_
-Nightclub fire kills at least 13 in murcia in spain" }
-dnncae@{ shape: win-pane, label: "_Published Jul 23, 2023, 07:05 PM_
-11 dead in arson attack on bar in mexico" }
+CttrlnistCm@{ shape: win-pane, label: "_Published Nov 16, 2025, 07:41 AM_
+Climate protesters swelter in brazilian sun outside cop30 summit" }
+Psftwtstehsi@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:26 AM_
+Protesters force their way into cop30 summit venue, clash with security" }
+FhehzdoabtddNamO@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:16 AM_
+From the andes to the amazon, indigenous leaders bring their demands to un climate summit cop30" }
+EihtPamndte@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:15 PM_
+Explainer: what is the cop30 climate summit, and why does it matter?" }
+Taentofinivtlei@{ shape: win-pane, label: "_Published Nov 09, 2025, 11:30 PM_
+Taliban government protests over afghanistan not being invited to un climate summit cop30" }
+AoiznBuAndse@{ shape: win-pane, label: "_Published Nov 11, 2025, 09:55 AM_
+As cop30 opens in brazilian city belem, urban amazon residents swelter" }
+EihtPamndte@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:15 PM_
+Explainer: what is the cop30 climate summit, and why does it matter?" }
+FhehzdoabtddNamO@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:16 AM_
+From the andes to the amazon, indigenous leaders bring their demands to un climate summit cop30" }
+SaesPlrnlbyfrpoa@{ shape: win-pane, label: "_Published Nov 14, 2025, 06:15 PM_
+S-e asia protesters at cop30 highlight regional vulnerability, call for more adaptation finance" }
 
-Taejcrhdncial:::txtsize --> Fteteatk:::txtsize
-Fteteatk:::txtsize --> VarlhHfhl:::txtsize
-VarlhHfhl:::txtsize --> Asdrcaortk:::txtsize
-VarlhHfhl:::txtsize --> Hkkfirut:::txtsize
-Fteteatk:::txtsize --> NcillicS:::txtsize
-NcillicS:::txtsize --> dnncae:::txtsize
+CttrlnistCm:::txtsize --> Psftwtstehsi:::txtsize
+Psftwtstehsi:::txtsize --> FhehzdoabtddNamO:::txtsize
+FhehzdoabtddNamO:::txtsize --> EihtPamndte:::txtsize
+FhehzdoabtddNamO:::txtsize --> Taentofinivtlei:::txtsize
+Psftwtstehsi:::txtsize --> AoiznBuAndse:::txtsize
+AoiznBuAndse:::txtsize --> EihtPamndte:::txtsize
+AoiznBuAndse:::txtsize --> FhehzdoabtddNamO:::txtsize
+CttrlnistCm:::txtsize --> SaesPlrnlbyfrpoa:::txtsize
 
-Sredotifnnhr@{ shape: win-pane, label: "_Published Nov 16, 2025, 01:44 AM_
-Spain rescues hundreds of exotic animals from unlicensed shelter" }
-Mseeunxal@{ shape: win-pane, label: "_Published May 19, 2025, 10:35 AM_
-Malaysia sees rise in smuggling of exotic animals" }
-Taefunygs@{ shape: win-pane, label: "_Published May 15, 2025, 05:24 PM_
-Thai man arrested for smuggling baby orang utans" }
-JoctgdnsSdite@{ shape: win-pane, label: "_Published Nov 02, 2023, 09:15 PM_
-Jail for man caught smuggling 13 dogs and cats into s’pore; 5 dogs died within 2 weeks" }
-msfaegtiatsait@{ shape: win-pane, label: "_Published Dec 11, 2024, 02:10 PM_
-16 months’ jail for traveller caught with 58 indian star tortoises at changi airport" }
-Begprdegxrlltlm@{ shape: win-pane, label: "_Published Sep 17, 2025, 06:45 PM_
-Bearded dragon supplier fined $2,000 for keeping the exotic reptile, selling it on telegram" }
-Wisrcooegfwtekdi@{ shape: win-pane, label: "_Published Aug 16, 2025, 12:00 PM_
-Wildlife rescue group acres hopes to send 30 endangered freshwater turtles back to indonesia" }
-NyorOinkneawifcf@{ shape: win-pane, label: "_Published Aug 03, 2025, 12:00 PM_
-Now flying solo, acres ceo kalaivanan balakrishnan presses ahead with wildlife rescue efforts" }
-Calzoiadtsneatph@{ shape: win-pane, label: "_Published Jun 30, 2024, 09:19 AM_
-Could animals seized from the illegal wildlife trade strain s’pore’s capacity to keep them here?" }
-Sslooinsdn@{ shape: win-pane, label: "_Published Jun 30, 2025, 02:04 PM_
-Snakes on a plane bound for india found and seized, again" }
-Sslnsluinsr@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 AM_
-Snakes on a plane: indian smuggler caught with venomous vipers" }
-Foortkpasesrft@{ shape: win-pane, label: "_Published Jan 17, 2024, 12:40 PM_
-From hollywood to reality: snake on a plane alarms passengers on airasia flight" }
+Frpsattly@{ shape: win-pane, label: "_Published Nov 16, 2025, 07:29 AM_
+Former trump ally says facing threats ‘fuelled’ by him" }
+TwrutomyoaGe@{ shape: win-pane, label: "_Published Nov 15, 2025, 02:43 PM_
+Trump withdraws support for long-time ally marjorie taylor greene" }
+Lsounenonmr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:01 PM_
+Longest us govt shutdown is over but new showdowns loom for trump" }
+Tsdootveuns@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:48 AM_
+Trump signs deal to end longest us government shutdown in history" }
+HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
+‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
+Jetisdntigntvem@{ shape: win-pane, label: "_Published Jul 08, 2025, 04:02 AM_
+Jeffrey epstein died by suicide, has no sex trafficking ‘client list’: us government memo" }
+Jetcriiebceiy@{ shape: win-pane, label: "_Published Apr 26, 2025, 12:15 PM_
+Jeffrey epstein accuser virginia giuffre dies by suicide, her family says" }
+MesciuiEie@{ shape: win-pane, label: "_Published Jun 07, 2025, 09:45 PM_
+Musk deletes post claiming trump is ‘in the epstein files’" }
+Tspnerifag@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:45 AM_
+Trump says epstein ‘stole’ underage victim from mar-a-lago spa" }
+WodoumtnMov@{ shape: win-pane, label: "_Published Jul 19, 2025, 06:16 AM_
+What you need to know about trump, epstein and the maga controversy" }
+Tseentnxneyes@{ shape: win-pane, label: "_Published Jul 29, 2025, 02:33 AM_
+Trump says he turned down invitation to sex offender jeffrey epstein’s island" }
 
-Sredotifnnhr:::txtsize --> Mseeunxal:::txtsize
-Mseeunxal:::txtsize --> Taefunygs:::txtsize
-Taefunygs:::txtsize --> JoctgdnsSdite:::txtsize
-Taefunygs:::txtsize --> msfaegtiatsait:::txtsize
-Sredotifnnhr:::txtsize --> Begprdegxrlltlm:::txtsize
-Begprdegxrlltlm:::txtsize --> Wisrcooegfwtekdi:::txtsize
-Wisrcooegfwtekdi:::txtsize --> NyorOinkneawifcf:::txtsize
-Wisrcooegfwtekdi:::txtsize --> Calzoiadtsneatph:::txtsize
-Begprdegxrlltlm:::txtsize --> Sslooinsdn:::txtsize
-Sslooinsdn:::txtsize --> Sslnsluinsr:::txtsize
-Sslooinsdn:::txtsize --> Foortkpasesrft:::txtsize
+Frpsattly:::txtsize --> TwrutomyoaGe:::txtsize
+TwrutomyoaGe:::txtsize --> Lsounenonmr:::txtsize
+Lsounenonmr:::txtsize --> Tsdootveuns:::txtsize
+Frpsattly:::txtsize --> HwtipngesTkfot:::txtsize
+HwtipngesTkfot:::txtsize --> Jetisdntigntvem:::txtsize
+Jetisdntigntvem:::txtsize --> Jetcriiebceiy:::txtsize
+Jetisdntigntvem:::txtsize --> MesciuiEie:::txtsize
+HwtipngesTkfot:::txtsize --> Tspnerifag:::txtsize
+Tspnerifag:::txtsize --> WodoumtnMov:::txtsize
+Tspnerifag:::txtsize --> Tseentnxneyes:::txtsize
 
 ```
-<i>Last updated: 2025-11-16 04:00:51.790016 (GMT+8)</i>
+<i>Last updated: 2025-11-16 08:00:16.251290 (GMT+8)</i>
 <!-- END -->
