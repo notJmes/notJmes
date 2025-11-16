@@ -16,123 +16,129 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ceupsiepd@{ shape: win-pane, label: "_Published Nov 16, 2025, 10:39 AM_
-Clashes injure 120 at protest against mexico president" }
-Moimscisanfwpd@{ shape: win-pane, label: "_Published Oct 01, 2024, 09:10 PM_
-Mexico’s sheinbaum takes office, making history as country’s first woman president" }
-Moicyailicatasioa@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:30 AM_
-Mexico unveils security operation in violent michoacan state after brazen assassination of mayor" }
-Wfstxmaeoetht@{ shape: win-pane, label: "_Published Nov 06, 2025, 09:06 PM_
-Wife of assassinated mexican mayor assumes his office, vows to fight cartels" }
-Hxclrhegtnl@{ shape: win-pane, label: "_Published May 28, 2025, 06:04 PM_
-How mexico’s cartels recruit children and groom them into killers" }
-Tseaonencl@{ shape: win-pane, label: "_Published Oct 24, 2025, 05:55 AM_
-Trump says declaration of war not needed on drug cartels" }
-Hxclrhegtnl@{ shape: win-pane, label: "_Published May 28, 2025, 06:04 PM_
-How mexico’s cartels recruit children and groom them into killers" }
-TsSgoirr@{ shape: win-pane, label: "_Published Mar 05, 2025, 08:00 PM_
-Trump says us to 'wage war' on mexican drug cartels" }
-MowcUaihias@{ shape: win-pane, label: "_Published Feb 20, 2025, 11:07 PM_
-Mexico says won’t accept us ‘invasion’ in fight against cartels" }
+Iecsnrnedhe@{ shape: win-pane, label: "_Published Nov 16, 2025, 03:43 PM_
+Iran begins cloud seeding operations as severe drought bites" }
+Tnrytiessn@{ shape: win-pane, label: "_Published Nov 12, 2025, 09:21 PM_
+Tehran taps run dry as water crisis deepens across iran" }
+Bnziedgaysri@{ shape: win-pane, label: "_Published Sep 24, 2025, 05:17 PM_
+Bees, once buzzing in honey-producing basra, hit by iraq’s water crisis" }
+Baetntsinefacvn@{ shape: win-pane, label: "_Published Sep 23, 2025, 09:00 PM_
+Backlash over ad stunt in tibet shows gaps in china’s green efforts and local governance" }
+Qignfoaantofsomeys@{ shape: win-pane, label: "_Published Sep 23, 2025, 02:11 AM_
+Quantifying ocean benefits to climate goals can boost national efforts to protect marine ecosystems" }
+Iwrvwnsc@{ shape: win-pane, label: "_Published May 25, 2025, 08:02 PM_
+Iraq’s water reserves lowest in 80 years: official" }
+Shdldnuerp@{ shape: win-pane, label: "_Published Dec 14, 2024, 08:30 PM_
+Saudi-hosted un talks end with no drought deal: participants" }
+SAasldheio@{ shape: win-pane, label: "_Published Dec 01, 2024, 12:45 PM_
+Saudi arabia hosts un talks on drought, desertification" }
+Roiltlonaatu@{ shape: win-pane, label: "_Published Dec 13, 2024, 07:03 PM_
+Rich countries, island states lock horns on climate change at un court" }
+Cswafsrteassw@{ shape: win-pane, label: "_Published Mar 12, 2025, 03:10 PM_
+Cities face ‘whiplash’ of floods and droughts as temperatures rise, study warns" }
+Csieioaeigutt@{ shape: win-pane, label: "_Published Aug 06, 2024, 03:28 PM_
+Chinese cities swelter in record heat; rice-growing regions under threat" }
+aHctnegrcoi@{ shape: win-pane, label: "_Published Nov 12, 2023, 12:00 PM_
+Askst: how is climate change fuelling water scarcity worldwide?" }
 
-Ceupsiepd:::txtsize --> Moimscisanfwpd:::txtsize
-Ceupsiepd:::txtsize --> Moicyailicatasioa:::txtsize
-Moicyailicatasioa:::txtsize --> Wfstxmaeoetht:::txtsize
-Wfstxmaeoetht:::txtsize --> Hxclrhegtnl:::txtsize
-Wfstxmaeoetht:::txtsize --> Tseaonencl:::txtsize
-Moicyailicatasioa:::txtsize --> Hxclrhegtnl:::txtsize
-Hxclrhegtnl:::txtsize --> TsSgoirr:::txtsize
-Hxclrhegtnl:::txtsize --> MowcUaihias:::txtsize
+Iecsnrnedhe:::txtsize --> Tnrytiessn:::txtsize
+Tnrytiessn:::txtsize --> Bnziedgaysri:::txtsize
+Bnziedgaysri:::txtsize --> Baetntsinefacvn:::txtsize
+Bnziedgaysri:::txtsize --> Qignfoaantofsomeys:::txtsize
+Iecsnrnedhe:::txtsize --> Iwrvwnsc:::txtsize
+Iwrvwnsc:::txtsize --> Shdldnuerp:::txtsize
+Shdldnuerp:::txtsize --> SAasldheio:::txtsize
+Shdldnuerp:::txtsize --> Roiltlonaatu:::txtsize
+Iwrvwnsc:::txtsize --> Cswafsrteassw:::txtsize
+Cswafsrteassw:::txtsize --> Csieioaeigutt:::txtsize
+Cswafsrteassw:::txtsize --> aHctnegrcoi:::txtsize
 
-Jospoansffad@{ shape: win-pane, label: "_Published Nov 16, 2025, 10:00 AM_
-Judge orders trump not to threaten university of california’s funding" }
-Uolsoenlonlfdf@{ shape: win-pane, label: "_Published Oct 02, 2025, 11:45 AM_
-Us memo to colleges proposes terms on ideology, foreign enrolment for federal funds" }
-TttfaicsvfptswSes@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:34 AM_
-Trump targeting of pro-palestinian campus activists for deportation is unlawful, us judge rules" }
-GngcoetnooT@{ shape: win-pane, label: "_Published Sep 29, 2025, 09:25 AM_
-Give in or fight back? us colleges are torn on how to respond to trump" }
-TaiteoHrllfad@{ shape: win-pane, label: "_Published Sep 30, 2025, 07:47 AM_
-Trump administration seeks to make harvard ineligible for federal funding" }
-TaiteoHrllfad@{ shape: win-pane, label: "_Published Sep 30, 2025, 07:47 AM_
-Trump administration seeks to make harvard ineligible for federal funding" }
-GngcoetnooT@{ shape: win-pane, label: "_Published Sep 29, 2025, 09:25 AM_
-Give in or fight back? us colleges are torn on how to respond to trump" }
-Hrrreizsoop@{ shape: win-pane, label: "_Published Sep 20, 2025, 09:20 AM_
-Harvard’s former president criticizes its approach to trump" }
-GngcoetnooT@{ shape: win-pane, label: "_Published Sep 29, 2025, 09:25 AM_
-Give in or fight back? us colleges are torn on how to respond to trump" }
-Hrspnafogloett@{ shape: win-pane, label: "_Published May 23, 2025, 09:34 PM_
-Harvard sues trump administration for blocking enrolment of foreign students" }
-Csdonrdavowoann@{ shape: win-pane, label: "_Published May 23, 2025, 03:15 PM_
-Confused and nervous, singapore students at harvard told to ‘wait for updates’ on us ban" }
-Csdonrdavowoann@{ shape: win-pane, label: "_Published May 23, 2025, 03:15 PM_
-Confused and nervous, singapore students at harvard told to ‘wait for updates’ on us ban" }
-Ukssrooodswrdsi@{ shape: win-pane, label: "_Published Sep 13, 2025, 10:30 AM_
-Uc berkeley shares information on dozens of students, staff with trump administration" }
-Uuaiiiaieutihn@{ shape: win-pane, label: "_Published Jul 16, 2025, 07:45 AM_
-Us republicans grill university leaders in latest house anti-semitism hearing" }
-Cbiipeloluo@{ shape: win-pane, label: "_Published Jul 24, 2025, 08:15 AM_
-Columbia university to pay over $255 million to resolve trump probes" }
+Unkxgrets@{ shape: win-pane, label: "_Published Nov 16, 2025, 02:37 PM_
+Ukraine seeking exchange of 1,200 prisoners with russia" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
+Explosions heard in ukraine capital kyiv, other cities" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
+Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Raketorir@{ shape: win-pane, label: "_Published Jun 12, 2023, 12:49 AM_
+Russia and ukraine swop total of nearly 200 prisoners" }
+UnsoririBsuru@{ shape: win-pane, label: "_Published Feb 04, 2023, 04:10 PM_
+Ukraine, russia swop nearly 200 prisoners; bodies of british volunteers returned" }
+Buartriraa@{ shape: win-pane, label: "_Published Nov 15, 2022, 06:27 PM_
+Both russia and ukraine tortured prisoners of war, un says" }
+Vaoousigsimehia@{ shape: win-pane, label: "_Published Jan 31, 2023, 06:30 AM_
+‘very dangerous people’: russia’s convict fighters heading home after fighting in ukraine" }
+Rakeaorhiee@{ shape: win-pane, label: "_Published Jan 09, 2023, 01:26 AM_
+Russia and ukraine exchange 50 soldiers each in prison release deal" }
+Rakecroneir@{ shape: win-pane, label: "_Published Jan 01, 2023, 04:13 AM_
+Russia and ukraine free 200 captured troops in new year prisoner swop" }
+EihUnstnppp@{ shape: win-pane, label: "_Published Dec 28, 2022, 03:01 PM_
+Explainer: what is ukraine president zelensky's 10-point peace plan?" }
 
-Jospoansffad:::txtsize --> Uolsoenlonlfdf:::txtsize
-Uolsoenlonlfdf:::txtsize --> TttfaicsvfptswSes:::txtsize
-TttfaicsvfptswSes:::txtsize --> GngcoetnooT:::txtsize
-TttfaicsvfptswSes:::txtsize --> TaiteoHrllfad:::txtsize
-Uolsoenlonlfdf:::txtsize --> TaiteoHrllfad:::txtsize
-TaiteoHrllfad:::txtsize --> GngcoetnooT:::txtsize
-TaiteoHrllfad:::txtsize --> Hrrreizsoop:::txtsize
-Jospoansffad:::txtsize --> GngcoetnooT:::txtsize
-GngcoetnooT:::txtsize --> Hrspnafogloett:::txtsize
-Hrspnafogloett:::txtsize --> Csdonrdavowoann:::txtsize
-Hrspnafogloett:::txtsize --> Csdonrdavowoann:::txtsize
-GngcoetnooT:::txtsize --> Ukssrooodswrdsi:::txtsize
-Ukssrooodswrdsi:::txtsize --> Uuaiiiaieutihn:::txtsize
-Ukssrooodswrdsi:::txtsize --> Cbiipeloluo:::txtsize
+Unkxgrets:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
+Eshiaalocs:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
+OaUuakaogrmc:::txtsize --> DsruasvUn:::txtsize
+Unkxgrets:::txtsize --> Raketorir:::txtsize
+Raketorir:::txtsize --> UnsoririBsuru:::txtsize
+UnsoririBsuru:::txtsize --> Buartriraa:::txtsize
+UnsoririBsuru:::txtsize --> Vaoousigsimehia:::txtsize
+Raketorir:::txtsize --> Rakeaorhiee:::txtsize
+Rakeaorhiee:::txtsize --> Rakecroneir:::txtsize
+Rakeaorhiee:::txtsize --> EihUnstnppp:::txtsize
 
-UiiigCooan@{ shape: win-pane, label: "_Published Nov 16, 2025, 08:15 AM_
-Us immigration raids begin in charlotte, north carolina" }
-Asdriveatiirnk@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:30 AM_
-Agents raid daycare, senior living centre as part of chicago immigration crackdown" }
-IfkmCgurrap@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:45 AM_
-Ice officer kills man in chicago suburb during arrest attempt" }
-ToeeaKneaSoah@{ shape: win-pane, label: "_Published Sep 11, 2025, 07:34 AM_
-Trump offered to let detained korean workers stay in us but most heading home" }
-WthrwvatoitA@{ shape: win-pane, label: "_Published Sep 10, 2025, 02:07 PM_
-‘we all thought the raids were over’: fears return for immigrants in la" }
-Ialttuoigcrhmtfe@{ shape: win-pane, label: "_Published Nov 06, 2025, 05:05 AM_
-Ice plans call centre to track unaccompanied migrant children, other immigration offenders" }
-Taitisgonfeuoigcr@{ shape: win-pane, label: "_Published Feb 23, 2025, 09:07 PM_
-Trump administration directs immigration agents to find, deport unaccompanied migrant children" }
-Taitfuoigcrvtyeth@{ shape: win-pane, label: "_Published Oct 04, 2025, 09:51 AM_
-Trump administration offers unaccompanied migrant children $3,200 to voluntarily leave us, letter shows" }
-TsSgodeneh@{ shape: win-pane, label: "_Published Nov 03, 2025, 06:40 AM_
-Trump says us immigration raids ‘haven’t gone far enough’" }
-PoesToisiewin@{ shape: win-pane, label: "_Published Jul 02, 2025, 02:09 PM_
-Paramount settles with trump over 60 minutes harris interview for $20 million" }
-TsBrlrteis@{ shape: win-pane, label: "_Published Nov 01, 2024, 05:40 AM_
-Trump sues cbs over kamala harris interview on 60 minutes" }
-UwBasemnbhr@{ shape: win-pane, label: "_Published Dec 15, 2024, 07:40 AM_
-Us network abc to pay $20m to settle defamation suit brought by trump" }
-WoocholeEko@{ shape: win-pane, label: "_Published Nov 03, 2025, 12:11 AM_
-‘we’re not a violent city’: chicago locals take on ice block by block" }
-Tseessifsocrd@{ shape: win-pane, label: "_Published Oct 31, 2025, 01:46 AM_
-Trump sets refugee admissions ceiling at 7,500 for fiscal 2026, lowest cap on record" }
+EGnrKrgfiiar@{ shape: win-pane, label: "_Published Nov 16, 2025, 02:30 PM_
+Ex-fed governor adriana kugler resigned after violating trading rules" }
+Anlsnmdiorpt@{ shape: win-pane, label: "_Published Aug 02, 2025, 06:19 AM_
+Adriana kugler resigning from us fed, opening door to trump appointment" }
+Uhrsyiurrhoosi@{ shape: win-pane, label: "_Published Jul 31, 2025, 02:35 AM_
+Us fed holds rates steady despite trump’s pressure, with two governors dissenting" }
+UcsaFoos@{ shape: win-pane, label: "_Published Jul 31, 2025, 05:56 AM_
+Us stocks mostly fall as fed avoids dovish shift" }
+Puundfleoot@{ shape: win-pane, label: "_Published Jul 27, 2025, 04:45 PM_
+Pressure mounts on us fed chief powell in tee-up to gdp, jobs data" }
+Wasurdrme@{ shape: win-pane, label: "_Published Jul 17, 2025, 11:15 AM_
+What happens if trump fires fed chair jerome powell?" }
+Mttyihomifeee@{ shape: win-pane, label: "_Published Jul 17, 2025, 07:48 AM_
+Markets rattled by ‘credible threat’ of trump trying to fire fed chief powell" }
+TfsnblhePl@{ shape: win-pane, label: "_Published Jun 21, 2025, 08:55 AM_
+Trump floats firing ‘numbskull’ fed chair jerome powell" }
+TsfFvrtodd@{ shape: win-pane, label: "_Published Sep 04, 2025, 11:24 PM_
+Trump's pick for us fed governor vows to uphold independence" }
+Anlsnmdiorpt@{ shape: win-pane, label: "_Published Aug 02, 2025, 06:19 AM_
+Adriana kugler resigning from us fed, opening door to trump appointment" }
+Uhrsyiurrhoosi@{ shape: win-pane, label: "_Published Jul 31, 2025, 02:35 AM_
+Us fed holds rates steady despite trump’s pressure, with two governors dissenting" }
+Wasurdrme@{ shape: win-pane, label: "_Published Jul 17, 2025, 11:15 AM_
+What happens if trump fires fed chair jerome powell?" }
+Fvrsrfemte@{ shape: win-pane, label: "_Published Aug 28, 2025, 09:38 PM_
+Fed governor cook sues trump after he attempted to fire her" }
+TfUgnskgatengo@{ shape: win-pane, label: "_Published Aug 26, 2025, 08:36 AM_
+Trump fires us fed governor lisa cook, alleging false statements on mortgage forms" }
+Uleilfriee@{ shape: win-pane, label: "_Published Aug 26, 2025, 09:10 AM_
+Us dollar, treasuries jolted after trump fires fed governor" }
 
-UiiigCooan:::txtsize --> Asdriveatiirnk:::txtsize
-Asdriveatiirnk:::txtsize --> IfkmCgurrap:::txtsize
-IfkmCgurrap:::txtsize --> ToeeaKneaSoah:::txtsize
-IfkmCgurrap:::txtsize --> WthrwvatoitA:::txtsize
-Asdriveatiirnk:::txtsize --> Ialttuoigcrhmtfe:::txtsize
-Ialttuoigcrhmtfe:::txtsize --> Taitisgonfeuoigcr:::txtsize
-Ialttuoigcrhmtfe:::txtsize --> Taitfuoigcrvtyeth:::txtsize
-UiiigCooan:::txtsize --> TsSgodeneh:::txtsize
-TsSgodeneh:::txtsize --> PoesToisiewin:::txtsize
-PoesToisiewin:::txtsize --> TsBrlrteis:::txtsize
-PoesToisiewin:::txtsize --> UwBasemnbhr:::txtsize
-TsSgodeneh:::txtsize --> WoocholeEko:::txtsize
-WoocholeEko:::txtsize --> Tseessifsocrd:::txtsize
+EGnrKrgfiiar:::txtsize --> Anlsnmdiorpt:::txtsize
+Anlsnmdiorpt:::txtsize --> Uhrsyiurrhoosi:::txtsize
+Uhrsyiurrhoosi:::txtsize --> UcsaFoos:::txtsize
+Uhrsyiurrhoosi:::txtsize --> Puundfleoot:::txtsize
+Anlsnmdiorpt:::txtsize --> Wasurdrme:::txtsize
+Wasurdrme:::txtsize --> Mttyihomifeee:::txtsize
+Wasurdrme:::txtsize --> TfsnblhePl:::txtsize
+EGnrKrgfiiar:::txtsize --> TsfFvrtodd:::txtsize
+TsfFvrtodd:::txtsize --> Anlsnmdiorpt:::txtsize
+Anlsnmdiorpt:::txtsize --> Uhrsyiurrhoosi:::txtsize
+Anlsnmdiorpt:::txtsize --> Wasurdrme:::txtsize
+TsfFvrtodd:::txtsize --> Fvrsrfemte:::txtsize
+Fvrsrfemte:::txtsize --> TfUgnskgatengo:::txtsize
+Fvrsrfemte:::txtsize --> Uleilfriee:::txtsize
 
 ```
-<i>Last updated: 2025-11-16 12:00:42.328482 (GMT+8)</i>
+<i>Last updated: 2025-11-16 16:01:09.175369 (GMT+8)</i>
 <!-- END -->
