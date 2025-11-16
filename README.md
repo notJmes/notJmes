@@ -16,111 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tbttlidcescro@{ shape: win-pane, label: "_Published Nov 16, 2025, 07:45 AM_
-Trump buys at least us$82 million in bonds since late august, disclosures show" }
-Tboabiisuo@{ shape: win-pane, label: "_Published Aug 21, 2025, 01:19 AM_
-Trump buys more than $128m in bonds in office, disclosure shows" }
-Taakcsohnhnu@{ shape: win-pane, label: "_Published Aug 20, 2025, 08:52 AM_
-Trump again attacks fed chair, says powell ‘hurting’ the housing industry" }
-Tselatnwvdvn@{ shape: win-pane, label: "_Published Aug 12, 2025, 10:30 PM_
-Trump says he may allow lawsuit against powell over fed renovation" }
-Tadflkreelv@{ shape: win-pane, label: "_Published Jul 25, 2025, 05:30 AM_
-Trump and fed chief powell bicker during tense central bank visit" }
-Treucafecnis@{ shape: win-pane, label: "_Published Aug 20, 2025, 07:33 AM_
-Trump revokes security clearance of 37 former and current officials" }
-JcanscslwniUeeoi@{ shape: win-pane, label: "_Published Jul 24, 2025, 06:33 AM_
-Justice department to assess claims of ‘alleged weaponisation’ of us intelligence community" }
-Tfyborwhae@{ shape: win-pane, label: "_Published Sep 08, 2025, 10:18 AM_
-Trump family adds $1.7 billion of crypto wealth in span of weeks" }
-RhpiEtnragnr@{ shape: win-pane, label: "_Published Sep 06, 2025, 09:56 PM_
-Robinhood, applovin and emcor to join s&p 500 in rebalancing of benchmark" }
-Uckamwhtiss@{ shape: win-pane, label: "_Published Sep 01, 2025, 08:24 AM_
-Us stock market’s fate comes down to the next 14 trading sessions" }
-Bcrsnsrlikck@{ shape: win-pane, label: "_Published Aug 03, 2025, 11:11 AM_
-Big tech’s earnings strength is the bright light in murky stock market" }
-Tfyiehdcoiyte@{ shape: win-pane, label: "_Published Sep 02, 2025, 09:36 AM_
-Trump family profits even with tepid launch of world liberty crypto tokens" }
-Tsdrklfdtn@{ shape: win-pane, label: "_Published Sep 02, 2025, 03:52 AM_
-Trump’s world liberty token falls in first day of trading" }
-Bishrvsoegow@{ shape: win-pane, label: "_Published Aug 14, 2025, 12:05 PM_
-Bitcoin hits fresh record above us$124,000 as bets on fed easing add to tailwinds" }
+Ceupsiepd@{ shape: win-pane, label: "_Published Nov 16, 2025, 10:39 AM_
+Clashes injure 120 at protest against mexico president" }
+Moimscisanfwpd@{ shape: win-pane, label: "_Published Oct 01, 2024, 09:10 PM_
+Mexico’s sheinbaum takes office, making history as country’s first woman president" }
+Moicyailicatasioa@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:30 AM_
+Mexico unveils security operation in violent michoacan state after brazen assassination of mayor" }
+Wfstxmaeoetht@{ shape: win-pane, label: "_Published Nov 06, 2025, 09:06 PM_
+Wife of assassinated mexican mayor assumes his office, vows to fight cartels" }
+Hxclrhegtnl@{ shape: win-pane, label: "_Published May 28, 2025, 06:04 PM_
+How mexico’s cartels recruit children and groom them into killers" }
+Tseaonencl@{ shape: win-pane, label: "_Published Oct 24, 2025, 05:55 AM_
+Trump says declaration of war not needed on drug cartels" }
+Hxclrhegtnl@{ shape: win-pane, label: "_Published May 28, 2025, 06:04 PM_
+How mexico’s cartels recruit children and groom them into killers" }
+TsSgoirr@{ shape: win-pane, label: "_Published Mar 05, 2025, 08:00 PM_
+Trump says us to 'wage war' on mexican drug cartels" }
+MowcUaihias@{ shape: win-pane, label: "_Published Feb 20, 2025, 11:07 PM_
+Mexico says won’t accept us ‘invasion’ in fight against cartels" }
 
-Tbttlidcescro:::txtsize --> Tboabiisuo:::txtsize
-Tboabiisuo:::txtsize --> Taakcsohnhnu:::txtsize
-Taakcsohnhnu:::txtsize --> Tselatnwvdvn:::txtsize
-Taakcsohnhnu:::txtsize --> Tadflkreelv:::txtsize
-Tboabiisuo:::txtsize --> Treucafecnis:::txtsize
-Treucafecnis:::txtsize --> JcanscslwniUeeoi:::txtsize
-Tbttlidcescro:::txtsize --> Tfyborwhae:::txtsize
-Tfyborwhae:::txtsize --> RhpiEtnragnr:::txtsize
-RhpiEtnragnr:::txtsize --> Uckamwhtiss:::txtsize
-RhpiEtnragnr:::txtsize --> Bcrsnsrlikck:::txtsize
-Tfyborwhae:::txtsize --> Tfyiehdcoiyte:::txtsize
-Tfyiehdcoiyte:::txtsize --> Tsdrklfdtn:::txtsize
-Tfyiehdcoiyte:::txtsize --> Bishrvsoegow:::txtsize
+Ceupsiepd:::txtsize --> Moimscisanfwpd:::txtsize
+Ceupsiepd:::txtsize --> Moicyailicatasioa:::txtsize
+Moicyailicatasioa:::txtsize --> Wfstxmaeoetht:::txtsize
+Wfstxmaeoetht:::txtsize --> Hxclrhegtnl:::txtsize
+Wfstxmaeoetht:::txtsize --> Tseaonencl:::txtsize
+Moicyailicatasioa:::txtsize --> Hxclrhegtnl:::txtsize
+Hxclrhegtnl:::txtsize --> TsSgoirr:::txtsize
+Hxclrhegtnl:::txtsize --> MowcUaihias:::txtsize
 
-CttrlnistCm@{ shape: win-pane, label: "_Published Nov 16, 2025, 07:41 AM_
-Climate protesters swelter in brazilian sun outside cop30 summit" }
-Psftwtstehsi@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:26 AM_
-Protesters force their way into cop30 summit venue, clash with security" }
-FhehzdoabtddNamO@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:16 AM_
-From the andes to the amazon, indigenous leaders bring their demands to un climate summit cop30" }
-EihtPamndte@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:15 PM_
-Explainer: what is the cop30 climate summit, and why does it matter?" }
-Taentofinivtlei@{ shape: win-pane, label: "_Published Nov 09, 2025, 11:30 PM_
-Taliban government protests over afghanistan not being invited to un climate summit cop30" }
-AoiznBuAndse@{ shape: win-pane, label: "_Published Nov 11, 2025, 09:55 AM_
-As cop30 opens in brazilian city belem, urban amazon residents swelter" }
-EihtPamndte@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:15 PM_
-Explainer: what is the cop30 climate summit, and why does it matter?" }
-FhehzdoabtddNamO@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:16 AM_
-From the andes to the amazon, indigenous leaders bring their demands to un climate summit cop30" }
-SaesPlrnlbyfrpoa@{ shape: win-pane, label: "_Published Nov 14, 2025, 06:15 PM_
-S-e asia protesters at cop30 highlight regional vulnerability, call for more adaptation finance" }
+Jospoansffad@{ shape: win-pane, label: "_Published Nov 16, 2025, 10:00 AM_
+Judge orders trump not to threaten university of california’s funding" }
+Uolsoenlonlfdf@{ shape: win-pane, label: "_Published Oct 02, 2025, 11:45 AM_
+Us memo to colleges proposes terms on ideology, foreign enrolment for federal funds" }
+TttfaicsvfptswSes@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:34 AM_
+Trump targeting of pro-palestinian campus activists for deportation is unlawful, us judge rules" }
+GngcoetnooT@{ shape: win-pane, label: "_Published Sep 29, 2025, 09:25 AM_
+Give in or fight back? us colleges are torn on how to respond to trump" }
+TaiteoHrllfad@{ shape: win-pane, label: "_Published Sep 30, 2025, 07:47 AM_
+Trump administration seeks to make harvard ineligible for federal funding" }
+TaiteoHrllfad@{ shape: win-pane, label: "_Published Sep 30, 2025, 07:47 AM_
+Trump administration seeks to make harvard ineligible for federal funding" }
+GngcoetnooT@{ shape: win-pane, label: "_Published Sep 29, 2025, 09:25 AM_
+Give in or fight back? us colleges are torn on how to respond to trump" }
+Hrrreizsoop@{ shape: win-pane, label: "_Published Sep 20, 2025, 09:20 AM_
+Harvard’s former president criticizes its approach to trump" }
+GngcoetnooT@{ shape: win-pane, label: "_Published Sep 29, 2025, 09:25 AM_
+Give in or fight back? us colleges are torn on how to respond to trump" }
+Hrspnafogloett@{ shape: win-pane, label: "_Published May 23, 2025, 09:34 PM_
+Harvard sues trump administration for blocking enrolment of foreign students" }
+Csdonrdavowoann@{ shape: win-pane, label: "_Published May 23, 2025, 03:15 PM_
+Confused and nervous, singapore students at harvard told to ‘wait for updates’ on us ban" }
+Csdonrdavowoann@{ shape: win-pane, label: "_Published May 23, 2025, 03:15 PM_
+Confused and nervous, singapore students at harvard told to ‘wait for updates’ on us ban" }
+Ukssrooodswrdsi@{ shape: win-pane, label: "_Published Sep 13, 2025, 10:30 AM_
+Uc berkeley shares information on dozens of students, staff with trump administration" }
+Uuaiiiaieutihn@{ shape: win-pane, label: "_Published Jul 16, 2025, 07:45 AM_
+Us republicans grill university leaders in latest house anti-semitism hearing" }
+Cbiipeloluo@{ shape: win-pane, label: "_Published Jul 24, 2025, 08:15 AM_
+Columbia university to pay over $255 million to resolve trump probes" }
 
-CttrlnistCm:::txtsize --> Psftwtstehsi:::txtsize
-Psftwtstehsi:::txtsize --> FhehzdoabtddNamO:::txtsize
-FhehzdoabtddNamO:::txtsize --> EihtPamndte:::txtsize
-FhehzdoabtddNamO:::txtsize --> Taentofinivtlei:::txtsize
-Psftwtstehsi:::txtsize --> AoiznBuAndse:::txtsize
-AoiznBuAndse:::txtsize --> EihtPamndte:::txtsize
-AoiznBuAndse:::txtsize --> FhehzdoabtddNamO:::txtsize
-CttrlnistCm:::txtsize --> SaesPlrnlbyfrpoa:::txtsize
+Jospoansffad:::txtsize --> Uolsoenlonlfdf:::txtsize
+Uolsoenlonlfdf:::txtsize --> TttfaicsvfptswSes:::txtsize
+TttfaicsvfptswSes:::txtsize --> GngcoetnooT:::txtsize
+TttfaicsvfptswSes:::txtsize --> TaiteoHrllfad:::txtsize
+Uolsoenlonlfdf:::txtsize --> TaiteoHrllfad:::txtsize
+TaiteoHrllfad:::txtsize --> GngcoetnooT:::txtsize
+TaiteoHrllfad:::txtsize --> Hrrreizsoop:::txtsize
+Jospoansffad:::txtsize --> GngcoetnooT:::txtsize
+GngcoetnooT:::txtsize --> Hrspnafogloett:::txtsize
+Hrspnafogloett:::txtsize --> Csdonrdavowoann:::txtsize
+Hrspnafogloett:::txtsize --> Csdonrdavowoann:::txtsize
+GngcoetnooT:::txtsize --> Ukssrooodswrdsi:::txtsize
+Ukssrooodswrdsi:::txtsize --> Uuaiiiaieutihn:::txtsize
+Ukssrooodswrdsi:::txtsize --> Cbiipeloluo:::txtsize
 
-Frpsattly@{ shape: win-pane, label: "_Published Nov 16, 2025, 07:29 AM_
-Former trump ally says facing threats ‘fuelled’ by him" }
-TwrutomyoaGe@{ shape: win-pane, label: "_Published Nov 15, 2025, 02:43 PM_
-Trump withdraws support for long-time ally marjorie taylor greene" }
-Lsounenonmr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:01 PM_
-Longest us govt shutdown is over but new showdowns loom for trump" }
-Tsdootveuns@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:48 AM_
-Trump signs deal to end longest us government shutdown in history" }
-HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
-‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
-Jetisdntigntvem@{ shape: win-pane, label: "_Published Jul 08, 2025, 04:02 AM_
-Jeffrey epstein died by suicide, has no sex trafficking ‘client list’: us government memo" }
-Jetcriiebceiy@{ shape: win-pane, label: "_Published Apr 26, 2025, 12:15 PM_
-Jeffrey epstein accuser virginia giuffre dies by suicide, her family says" }
-MesciuiEie@{ shape: win-pane, label: "_Published Jun 07, 2025, 09:45 PM_
-Musk deletes post claiming trump is ‘in the epstein files’" }
-Tspnerifag@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:45 AM_
-Trump says epstein ‘stole’ underage victim from mar-a-lago spa" }
-WodoumtnMov@{ shape: win-pane, label: "_Published Jul 19, 2025, 06:16 AM_
-What you need to know about trump, epstein and the maga controversy" }
-Tseentnxneyes@{ shape: win-pane, label: "_Published Jul 29, 2025, 02:33 AM_
-Trump says he turned down invitation to sex offender jeffrey epstein’s island" }
+UiiigCooan@{ shape: win-pane, label: "_Published Nov 16, 2025, 08:15 AM_
+Us immigration raids begin in charlotte, north carolina" }
+Asdriveatiirnk@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:30 AM_
+Agents raid daycare, senior living centre as part of chicago immigration crackdown" }
+IfkmCgurrap@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:45 AM_
+Ice officer kills man in chicago suburb during arrest attempt" }
+ToeeaKneaSoah@{ shape: win-pane, label: "_Published Sep 11, 2025, 07:34 AM_
+Trump offered to let detained korean workers stay in us but most heading home" }
+WthrwvatoitA@{ shape: win-pane, label: "_Published Sep 10, 2025, 02:07 PM_
+‘we all thought the raids were over’: fears return for immigrants in la" }
+Ialttuoigcrhmtfe@{ shape: win-pane, label: "_Published Nov 06, 2025, 05:05 AM_
+Ice plans call centre to track unaccompanied migrant children, other immigration offenders" }
+Taitisgonfeuoigcr@{ shape: win-pane, label: "_Published Feb 23, 2025, 09:07 PM_
+Trump administration directs immigration agents to find, deport unaccompanied migrant children" }
+Taitfuoigcrvtyeth@{ shape: win-pane, label: "_Published Oct 04, 2025, 09:51 AM_
+Trump administration offers unaccompanied migrant children $3,200 to voluntarily leave us, letter shows" }
+TsSgodeneh@{ shape: win-pane, label: "_Published Nov 03, 2025, 06:40 AM_
+Trump says us immigration raids ‘haven’t gone far enough’" }
+PoesToisiewin@{ shape: win-pane, label: "_Published Jul 02, 2025, 02:09 PM_
+Paramount settles with trump over 60 minutes harris interview for $20 million" }
+TsBrlrteis@{ shape: win-pane, label: "_Published Nov 01, 2024, 05:40 AM_
+Trump sues cbs over kamala harris interview on 60 minutes" }
+UwBasemnbhr@{ shape: win-pane, label: "_Published Dec 15, 2024, 07:40 AM_
+Us network abc to pay $20m to settle defamation suit brought by trump" }
+WoocholeEko@{ shape: win-pane, label: "_Published Nov 03, 2025, 12:11 AM_
+‘we’re not a violent city’: chicago locals take on ice block by block" }
+Tseessifsocrd@{ shape: win-pane, label: "_Published Oct 31, 2025, 01:46 AM_
+Trump sets refugee admissions ceiling at 7,500 for fiscal 2026, lowest cap on record" }
 
-Frpsattly:::txtsize --> TwrutomyoaGe:::txtsize
-TwrutomyoaGe:::txtsize --> Lsounenonmr:::txtsize
-Lsounenonmr:::txtsize --> Tsdootveuns:::txtsize
-Frpsattly:::txtsize --> HwtipngesTkfot:::txtsize
-HwtipngesTkfot:::txtsize --> Jetisdntigntvem:::txtsize
-Jetisdntigntvem:::txtsize --> Jetcriiebceiy:::txtsize
-Jetisdntigntvem:::txtsize --> MesciuiEie:::txtsize
-HwtipngesTkfot:::txtsize --> Tspnerifag:::txtsize
-Tspnerifag:::txtsize --> WodoumtnMov:::txtsize
-Tspnerifag:::txtsize --> Tseentnxneyes:::txtsize
+UiiigCooan:::txtsize --> Asdriveatiirnk:::txtsize
+Asdriveatiirnk:::txtsize --> IfkmCgurrap:::txtsize
+IfkmCgurrap:::txtsize --> ToeeaKneaSoah:::txtsize
+IfkmCgurrap:::txtsize --> WthrwvatoitA:::txtsize
+Asdriveatiirnk:::txtsize --> Ialttuoigcrhmtfe:::txtsize
+Ialttuoigcrhmtfe:::txtsize --> Taitisgonfeuoigcr:::txtsize
+Ialttuoigcrhmtfe:::txtsize --> Taitfuoigcrvtyeth:::txtsize
+UiiigCooan:::txtsize --> TsSgodeneh:::txtsize
+TsSgodeneh:::txtsize --> PoesToisiewin:::txtsize
+PoesToisiewin:::txtsize --> TsBrlrteis:::txtsize
+PoesToisiewin:::txtsize --> UwBasemnbhr:::txtsize
+TsSgodeneh:::txtsize --> WoocholeEko:::txtsize
+WoocholeEko:::txtsize --> Tseessifsocrd:::txtsize
 
 ```
-<i>Last updated: 2025-11-16 08:00:16.251290 (GMT+8)</i>
+<i>Last updated: 2025-11-16 12:00:42.328482 (GMT+8)</i>
 <!-- END -->
