@@ -16,8 +16,91 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Ilyssatenrn@{ shape: win-pane, label: "_Published Nov 16, 2025, 06:31 PM_
+Israeli army kills palestinian youth in west bank operation" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+Daastemyriihc@{ shape: win-pane, label: "_Published Nov 16, 2025, 07:59 AM_
+Displaced gaza residents face more misery as torrential rain lashes enclave" }
+Gsaardsrfsticese@{ shape: win-pane, label: "_Published Oct 10, 2025, 04:58 PM_
+Gazans stream towards wrecked homes as israeli forces start pulling back under ceasefire" }
+Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
+Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+HqlssrGswli@{ shape: win-pane, label: "_Published Nov 14, 2025, 04:01 PM_
+Hamas quietly reasserts control in gaza as post-war talks grind on" }
+Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
+Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+
+Ilyssatenrn:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Ilyssatenrn:::txtsize --> Daastemyriihc:::txtsize
+Daastemyriihc:::txtsize --> Gsaardsrfsticese:::txtsize
+Gsaardsrfsticese:::txtsize --> Iliaeseoewa:::txtsize
+Gsaardsrfsticese:::txtsize --> TssHaossaaorslaoe:::txtsize
+Daastemyriihc:::txtsize --> HqlssrGswli:::txtsize
+HqlssrGswli:::txtsize --> Iliaeseoewa:::txtsize
+HqlssrGswli:::txtsize --> Sbsrcdnacaale:::txtsize
+
+SatiEenietet@{ shape: win-pane, label: "_Published Nov 16, 2025, 05:05 PM_
+Six flags set for middle east debut in saudi mega entertainment city" }
+Yberaeprar@{ shape: win-pane, label: "_Published Nov 13, 2025, 10:31 PM_
+Youtube superstar mrbeast opens pop-up park in saudi arabia" }
+Msooetcdntrib@{ shape: win-pane, label: "_Published Jun 05, 2024, 01:55 PM_
+Mrbeast becomes youtube’s most subscribed channel with over 272 million subs" }
+HeeuTnrrphotTt@{ shape: win-pane, label: "_Published Dec 01, 2023, 10:27 PM_
+How the pandemic turned 3 taiwanese brothers and pool champions into youtube stars" }
+Ybkntoeasia@{ shape: win-pane, label: "_Published Oct 19, 2023, 10:30 AM_
+Youtube working on tool that would let creators sing like drake" }
+AcrrubMsgbsvnnvgKe@{ shape: win-pane, label: "_Published Aug 15, 2025, 06:05 PM_
+American virtual restaurant brand mrbeast burger debuts as delivery-only concept via dignity kitchen" }
+AafseobYofinnttan@{ shape: win-pane, label: "_Published Aug 15, 2025, 03:05 PM_
+Australia’s famed self-serve yogurt brand yo-chi opens first international outlet at orchard central" }
+Wstoletunii@{ shape: win-pane, label: "_Published Mar 22, 2024, 04:59 PM_
+World’s first dragon ball theme park to be built in saudi arabia" }
+ConnmDnATae@{ shape: win-pane, label: "_Published Mar 08, 2024, 01:10 PM_
+Creator of influential manga dragon ball, akira toriyama, dies at 68" }
+IelnarLMmie@{ shape: win-pane, label: "_Published Feb 20, 2023, 02:25 PM_
+Influential japanese manga artist leiji matsumoto dies aged 85" }
+ConnmDnATae@{ shape: win-pane, label: "_Published Mar 08, 2024, 01:10 PM_
+Creator of influential manga dragon ball, akira toriyama, dies at 68" }
+IelnarLMmie@{ shape: win-pane, label: "_Published Feb 20, 2023, 02:25 PM_
+Influential japanese manga artist leiji matsumoto dies aged 85" }
+
+SatiEenietet:::txtsize --> Yberaeprar:::txtsize
+Yberaeprar:::txtsize --> Msooetcdntrib:::txtsize
+Msooetcdntrib:::txtsize --> HeeuTnrrphotTt:::txtsize
+Msooetcdntrib:::txtsize --> Ybkntoeasia:::txtsize
+Yberaeprar:::txtsize --> AcrrubMsgbsvnnvgKe:::txtsize
+AcrrubMsgbsvnnvgKe:::txtsize --> AafseobYofinnttan:::txtsize
+SatiEenietet:::txtsize --> Wstoletunii:::txtsize
+Wstoletunii:::txtsize --> ConnmDnATae:::txtsize
+ConnmDnATae:::txtsize --> IelnarLMmie:::txtsize
+Wstoletunii:::txtsize --> ConnmDnATae:::txtsize
+ConnmDnATae:::txtsize --> IelnarLMmie:::txtsize
+
 Iecsnrnedhe@{ shape: win-pane, label: "_Published Nov 16, 2025, 03:43 PM_
-Iran begins cloud seeding operations as severe drought bites" }
+Iran begins cloud-seeding operations as severe drought bites" }
 Tnrytiessn@{ shape: win-pane, label: "_Published Nov 12, 2025, 09:21 PM_
 Tehran taps run dry as water crisis deepens across iran" }
 Bnziedgaysri@{ shape: win-pane, label: "_Published Sep 24, 2025, 05:17 PM_
@@ -53,92 +136,6 @@ Iwrvwnsc:::txtsize --> Cswafsrteassw:::txtsize
 Cswafsrteassw:::txtsize --> Csieioaeigutt:::txtsize
 Cswafsrteassw:::txtsize --> aHctnegrcoi:::txtsize
 
-Unkxgrets@{ shape: win-pane, label: "_Published Nov 16, 2025, 02:37 PM_
-Ukraine seeking exchange of 1,200 prisoners with russia" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
-Explosions heard in ukraine capital kyiv, other cities" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
-Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Raketorir@{ shape: win-pane, label: "_Published Jun 12, 2023, 12:49 AM_
-Russia and ukraine swop total of nearly 200 prisoners" }
-UnsoririBsuru@{ shape: win-pane, label: "_Published Feb 04, 2023, 04:10 PM_
-Ukraine, russia swop nearly 200 prisoners; bodies of british volunteers returned" }
-Buartriraa@{ shape: win-pane, label: "_Published Nov 15, 2022, 06:27 PM_
-Both russia and ukraine tortured prisoners of war, un says" }
-Vaoousigsimehia@{ shape: win-pane, label: "_Published Jan 31, 2023, 06:30 AM_
-‘very dangerous people’: russia’s convict fighters heading home after fighting in ukraine" }
-Rakeaorhiee@{ shape: win-pane, label: "_Published Jan 09, 2023, 01:26 AM_
-Russia and ukraine exchange 50 soldiers each in prison release deal" }
-Rakecroneir@{ shape: win-pane, label: "_Published Jan 01, 2023, 04:13 AM_
-Russia and ukraine free 200 captured troops in new year prisoner swop" }
-EihUnstnppp@{ shape: win-pane, label: "_Published Dec 28, 2022, 03:01 PM_
-Explainer: what is ukraine president zelensky's 10-point peace plan?" }
-
-Unkxgrets:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
-Eshiaalocs:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
-OaUuakaogrmc:::txtsize --> DsruasvUn:::txtsize
-Unkxgrets:::txtsize --> Raketorir:::txtsize
-Raketorir:::txtsize --> UnsoririBsuru:::txtsize
-UnsoririBsuru:::txtsize --> Buartriraa:::txtsize
-UnsoririBsuru:::txtsize --> Vaoousigsimehia:::txtsize
-Raketorir:::txtsize --> Rakeaorhiee:::txtsize
-Rakeaorhiee:::txtsize --> Rakecroneir:::txtsize
-Rakeaorhiee:::txtsize --> EihUnstnppp:::txtsize
-
-EGnrKrgfiiar@{ shape: win-pane, label: "_Published Nov 16, 2025, 02:30 PM_
-Ex-fed governor adriana kugler resigned after violating trading rules" }
-Anlsnmdiorpt@{ shape: win-pane, label: "_Published Aug 02, 2025, 06:19 AM_
-Adriana kugler resigning from us fed, opening door to trump appointment" }
-Uhrsyiurrhoosi@{ shape: win-pane, label: "_Published Jul 31, 2025, 02:35 AM_
-Us fed holds rates steady despite trump’s pressure, with two governors dissenting" }
-UcsaFoos@{ shape: win-pane, label: "_Published Jul 31, 2025, 05:56 AM_
-Us stocks mostly fall as fed avoids dovish shift" }
-Puundfleoot@{ shape: win-pane, label: "_Published Jul 27, 2025, 04:45 PM_
-Pressure mounts on us fed chief powell in tee-up to gdp, jobs data" }
-Wasurdrme@{ shape: win-pane, label: "_Published Jul 17, 2025, 11:15 AM_
-What happens if trump fires fed chair jerome powell?" }
-Mttyihomifeee@{ shape: win-pane, label: "_Published Jul 17, 2025, 07:48 AM_
-Markets rattled by ‘credible threat’ of trump trying to fire fed chief powell" }
-TfsnblhePl@{ shape: win-pane, label: "_Published Jun 21, 2025, 08:55 AM_
-Trump floats firing ‘numbskull’ fed chair jerome powell" }
-TsfFvrtodd@{ shape: win-pane, label: "_Published Sep 04, 2025, 11:24 PM_
-Trump's pick for us fed governor vows to uphold independence" }
-Anlsnmdiorpt@{ shape: win-pane, label: "_Published Aug 02, 2025, 06:19 AM_
-Adriana kugler resigning from us fed, opening door to trump appointment" }
-Uhrsyiurrhoosi@{ shape: win-pane, label: "_Published Jul 31, 2025, 02:35 AM_
-Us fed holds rates steady despite trump’s pressure, with two governors dissenting" }
-Wasurdrme@{ shape: win-pane, label: "_Published Jul 17, 2025, 11:15 AM_
-What happens if trump fires fed chair jerome powell?" }
-Fvrsrfemte@{ shape: win-pane, label: "_Published Aug 28, 2025, 09:38 PM_
-Fed governor cook sues trump after he attempted to fire her" }
-TfUgnskgatengo@{ shape: win-pane, label: "_Published Aug 26, 2025, 08:36 AM_
-Trump fires us fed governor lisa cook, alleging false statements on mortgage forms" }
-Uleilfriee@{ shape: win-pane, label: "_Published Aug 26, 2025, 09:10 AM_
-Us dollar, treasuries jolted after trump fires fed governor" }
-
-EGnrKrgfiiar:::txtsize --> Anlsnmdiorpt:::txtsize
-Anlsnmdiorpt:::txtsize --> Uhrsyiurrhoosi:::txtsize
-Uhrsyiurrhoosi:::txtsize --> UcsaFoos:::txtsize
-Uhrsyiurrhoosi:::txtsize --> Puundfleoot:::txtsize
-Anlsnmdiorpt:::txtsize --> Wasurdrme:::txtsize
-Wasurdrme:::txtsize --> Mttyihomifeee:::txtsize
-Wasurdrme:::txtsize --> TfsnblhePl:::txtsize
-EGnrKrgfiiar:::txtsize --> TsfFvrtodd:::txtsize
-TsfFvrtodd:::txtsize --> Anlsnmdiorpt:::txtsize
-Anlsnmdiorpt:::txtsize --> Uhrsyiurrhoosi:::txtsize
-Anlsnmdiorpt:::txtsize --> Wasurdrme:::txtsize
-TsfFvrtodd:::txtsize --> Fvrsrfemte:::txtsize
-Fvrsrfemte:::txtsize --> TfUgnskgatengo:::txtsize
-Fvrsrfemte:::txtsize --> Uleilfriee:::txtsize
-
 ```
-<i>Last updated: 2025-11-16 16:01:09.175369 (GMT+8)</i>
+<i>Last updated: 2025-11-16 20:00:36.733115 (GMT+8)</i>
 <!-- END -->
