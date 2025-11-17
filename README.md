@@ -16,129 +16,126 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ucceinaeiiburz@{ shape: win-pane, label: "_Published Nov 17, 2025, 03:14 AM_
-Us aircraft carrier arrives in the caribbean amid military buildup near venezuela" }
+Biiuilnreamc@{ shape: win-pane, label: "_Published Nov 17, 2025, 06:37 AM_
+Britain reviews human rights laws in major shake-up of asylum policy" }
+Biafssouamh@{ shape: win-pane, label: "_Published Nov 16, 2025, 06:42 AM_
+Britain to make refugee status temporary under asylum overhaul" }
+ReUamitnemn@{ shape: win-pane, label: "_Published Nov 15, 2025, 08:16 AM_
+Refugees in uk to face time-limited stays in border clampdown" }
+Biasspadyet@{ shape: win-pane, label: "_Published Sep 06, 2025, 01:35 AM_
+Britain’s starmer shakes up top team after deputy rayner quits" }
+Bseaitennatui@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:37 PM_
+British pm keir starmer insists government is ‘united’ as plot rumours swirl" }
+Bsnoieameoeeot@{ shape: win-pane, label: "_Published Nov 11, 2025, 08:26 PM_
+British council loses bid to remove asylum seekers from hotel at centre of protests" }
+Uialtyesfreols@{ shape: win-pane, label: "_Published Oct 25, 2025, 03:09 AM_
+Uk minister ‘appalled’ after asylum seeker sex offender is freed from jail by mistake" }
+Naoddtumn@{ shape: win-pane, label: "_Published Jul 21, 2025, 06:17 AM_
+New clashes outside london hotel housing migrants" }
+ReUamitnemn@{ shape: win-pane, label: "_Published Nov 15, 2025, 08:16 AM_
+Refugees in uk to face time-limited stays in border clampdown" }
+Biasspadyet@{ shape: win-pane, label: "_Published Sep 06, 2025, 01:35 AM_
+Britain’s starmer shakes up top team after deputy rayner quits" }
+UuRrstr@{ shape: win-pane, label: "_Published Sep 05, 2025, 07:10 PM_
+Uk deputy pm rayner quits over tax error" }
+UuRrstr@{ shape: win-pane, label: "_Published Sep 05, 2025, 07:10 PM_
+Uk deputy pm rayner quits over tax error" }
+Bseaitennatui@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:37 PM_
+British pm keir starmer insists government is ‘united’ as plot rumours swirl" }
+AsisSenfooeshn@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:27 AM_
+Allies of britain’s keir starmer launch effort to ward off a leadership challenge" }
+Bibessdsstyea@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:01 PM_
+Britain’s labour members pick sacked minister as deputy, defying keir starmer" }
+
+Biiuilnreamc:::txtsize --> Biafssouamh:::txtsize
+Biafssouamh:::txtsize --> ReUamitnemn:::txtsize
+ReUamitnemn:::txtsize --> Biasspadyet:::txtsize
+ReUamitnemn:::txtsize --> Bseaitennatui:::txtsize
+Biafssouamh:::txtsize --> Bsnoieameoeeot:::txtsize
+Bsnoieameoeeot:::txtsize --> Uialtyesfreols:::txtsize
+Bsnoieameoeeot:::txtsize --> Naoddtumn:::txtsize
+Biiuilnreamc:::txtsize --> ReUamitnemn:::txtsize
+ReUamitnemn:::txtsize --> Biasspadyet:::txtsize
+Biasspadyet:::txtsize --> UuRrstr:::txtsize
+Biasspadyet:::txtsize --> UuRrstr:::txtsize
+ReUamitnemn:::txtsize --> Bseaitennatui:::txtsize
+Bseaitennatui:::txtsize --> AsisSenfooeshn:::txtsize
+Bseaitennatui:::txtsize --> Bibessdsstyea:::txtsize
+
+FgishsdrcehfiI@{ shape: win-pane, label: "_Published Nov 17, 2025, 06:30 AM_
+Foreign minister says there is ‘no undeclared nuclear enrichment facility’ in iran" }
+Iairfudnak@{ shape: win-pane, label: "_Published Nov 16, 2025, 07:37 PM_
+Iran says us is not ready for ‘equal and fair’ nuclear talks" }
+IfIImlinr@{ shape: win-pane, label: "_Published Jun 15, 2025, 07:25 AM_
+‘i was afraid i’d die’: iran’s missiles rain down on israel" }
+Ilseearaenak@{ shape: win-pane, label: "_Published Jun 15, 2025, 05:30 AM_
+Israel-iran strikes enter 3rd day as trump warns tehran not to attack us" }
+TsasIhe@{ shape: win-pane, label: "_Published Jun 15, 2025, 03:49 AM_
+Trump says ‘war in israel-iran should end’" }
+Tspcdgiacs@{ shape: win-pane, label: "_Published Nov 07, 2025, 10:16 AM_
+Trump says ‘open’ to considering lifting iran sanctions" }
+Wrtenhwfx@{ shape: win-pane, label: "_Published Jun 13, 2025, 09:51 PM_
+Why israel attacked iran, and what to watch for next" }
+AaoIerftrcace@{ shape: win-pane, label: "_Published Sep 27, 2025, 08:42 PM_
+As un sanctions on iran re-enter into force, the world faces fearful choices" }
+VyrnentsouArs@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:31 PM_
+Verifying iran’s enriched uranium stock is ‘long overdue’, iaea report says" }
+Tspcdgiacs@{ shape: win-pane, label: "_Published Nov 07, 2025, 10:16 AM_
+Trump says ‘open’ to considering lifting iran sanctions" }
+Wrtenhwfx@{ shape: win-pane, label: "_Published Jun 13, 2025, 09:51 PM_
+Why israel attacked iran, and what to watch for next" }
+AaoIerftrcace@{ shape: win-pane, label: "_Published Sep 27, 2025, 08:42 PM_
+As un sanctions on iran re-enter into force, the world faces fearful choices" }
+
+FgishsdrcehfiI:::txtsize --> Iairfudnak:::txtsize
+Iairfudnak:::txtsize --> IfIImlinr:::txtsize
+IfIImlinr:::txtsize --> Ilseearaenak:::txtsize
+IfIImlinr:::txtsize --> TsasIhe:::txtsize
+Iairfudnak:::txtsize --> Tspcdgiacs:::txtsize
+Tspcdgiacs:::txtsize --> Wrtenhwfx:::txtsize
+Tspcdgiacs:::txtsize --> AaoIerftrcace:::txtsize
+FgishsdrcehfiI:::txtsize --> VyrnentsouArs:::txtsize
+VyrnentsouArs:::txtsize --> Tspcdgiacs:::txtsize
+Tspcdgiacs:::txtsize --> Wrtenhwfx:::txtsize
+Tspcdgiacs:::txtsize --> AaoIerftrcace:::txtsize
+
+Pgytaepdbnflt@{ shape: win-pane, label: "_Published Nov 17, 2025, 06:27 AM_
+Pentagon says it struck another suspected drug boat in pacific, killing three" }
+orsomalduttpon@{ shape: win-pane, label: "_Published Nov 14, 2025, 07:37 PM_
+29% of americans support us military killing drug suspects, reuters/ipsos poll finds" }
+Ucceeonigsteens@{ shape: win-pane, label: "_Published Nov 11, 2025, 11:41 PM_
+Us aircraft carrier moves into latin america region, escalating venezuela tensions" }
+Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
+Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
+Uddrngufialhe@{ shape: win-pane, label: "_Published Nov 14, 2025, 06:32 AM_
+Us conducted 20th strike on alleged drug trafficking boat earlier this week" }
+MRdsriUinkGi@{ shape: win-pane, label: "_Published Nov 13, 2025, 08:44 AM_
+Marco rubio dismisses criticism of us caribbean strikes at g-7 meeting" }
+Uildcisiiig@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:20 PM_
+Us strikes alleged drug-carrying vessels in pacific, killing six" }
+Uildcisiiig@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:20 PM_
+Us strikes alleged drug-carrying vessels in pacific, killing six" }
+Nseldolrytc@{ shape: win-pane, label: "_Published Nov 07, 2025, 12:27 PM_
+New us strike on alleged drug boat kills three, says pentagon chief" }
 Eirdyroersl@{ shape: win-pane, label: "_Published Oct 31, 2025, 06:16 PM_
 Explainer: are the deadly us strikes on alleged drug vessels legal?​" }
 Nselgufexeeov@{ shape: win-pane, label: "_Published Oct 29, 2025, 01:00 AM_
 New us strikes kill 14 alleged drug traffickers, mexico leads rescue of survivor" }
-Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
-Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
-TcrAotnzrnsou@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:05 AM_
-Trump confirms cia authorisation in venezuela, raising pressure on maduro" }
 VulClaaispbr@{ shape: win-pane, label: "_Published Oct 28, 2025, 01:03 PM_
 Venezuela claims cia ‘false flag’ attack foiled, as us deploys bombers" }
-Tseaonencl@{ shape: win-pane, label: "_Published Oct 24, 2025, 05:55 AM_
-Trump says declaration of war not needed on drug cartels" }
-Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
-Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
-VuonipcnAraTo@{ shape: win-pane, label: "_Published Oct 27, 2025, 08:06 AM_
-Venezuela condemns ‘military provocation’ by cia and trinidad and tobago" }
-TcrAotnzrnsou@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:05 AM_
-Trump confirms cia authorisation in venezuela, raising pressure on maduro" }
-Thtniahclgt@{ shape: win-pane, label: "_Published Oct 03, 2025, 05:25 AM_
-Trump has determined us is at war with drug cartels, congress told" }
-UuCiboontnls@{ shape: win-pane, label: "_Published Oct 11, 2025, 07:58 AM_
-Un security council members voice concern about us-venezuela tensions" }
-VuopccfSnctas@{ shape: win-pane, label: "_Published Oct 26, 2025, 10:50 AM_
-Venezuela vows to protect its coast from us potential ‘covert operations’" }
-Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
-Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
-TcrAotnzrnsou@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:05 AM_
-Trump confirms cia authorisation in venezuela, raising pressure on maduro" }
 
-Ucceinaeiiburz:::txtsize --> Eirdyroersl:::txtsize
+Pgytaepdbnflt:::txtsize --> orsomalduttpon:::txtsize
+orsomalduttpon:::txtsize --> Ucceeonigsteens:::txtsize
+Ucceeonigsteens:::txtsize --> Uidycceuomasnswee:::txtsize
+orsomalduttpon:::txtsize --> Uddrngufialhe:::txtsize
+Uddrngufialhe:::txtsize --> MRdsriUinkGi:::txtsize
+Uddrngufialhe:::txtsize --> Uildcisiiig:::txtsize
+Pgytaepdbnflt:::txtsize --> Uildcisiiig:::txtsize
+Uildcisiiig:::txtsize --> Nseldolrytc:::txtsize
+Uildcisiiig:::txtsize --> Eirdyroersl:::txtsize
 Eirdyroersl:::txtsize --> Nselgufexeeov:::txtsize
-Nselgufexeeov:::txtsize --> Uidycceuomasnswee:::txtsize
-Nselgufexeeov:::txtsize --> TcrAotnzrnsou:::txtsize
 Eirdyroersl:::txtsize --> VulClaaispbr:::txtsize
-VulClaaispbr:::txtsize --> Tseaonencl:::txtsize
-VulClaaispbr:::txtsize --> Uidycceuomasnswee:::txtsize
-Ucceinaeiiburz:::txtsize --> VuonipcnAraTo:::txtsize
-VuonipcnAraTo:::txtsize --> TcrAotnzrnsou:::txtsize
-TcrAotnzrnsou:::txtsize --> Thtniahclgt:::txtsize
-TcrAotnzrnsou:::txtsize --> UuCiboontnls:::txtsize
-VuonipcnAraTo:::txtsize --> VuopccfSnctas:::txtsize
-VuopccfSnctas:::txtsize --> Uidycceuomasnswee:::txtsize
-VuopccfSnctas:::txtsize --> TcrAotnzrnsou:::txtsize
-
-AslCctcp@{ shape: win-pane, label: "_Published Nov 17, 2025, 02:02 AM_
-At least 32 killed in congo cobalt mine collapse" }
-dndrsaeonenn@{ shape: win-pane, label: "_Published Sep 27, 2024, 04:34 PM_
-11 dead, 13 injured after landslide at illegal gold mine in western indonesia" }
-CilesitVa@{ shape: win-pane, label: "_Published Jul 30, 2024, 10:49 AM_
-Coal mine collapse kills five in northern vietnam" }
-Teeaales@{ shape: win-pane, label: "_Published Mar 20, 2024, 06:42 PM_
-Twelve killed in pakistan coal mine explosion" }
-Oacfulonl@{ shape: win-pane, label: "_Published Mar 14, 2024, 06:25 AM_
-One dead, 29 rescued after australian gold mine collapse" }
-Aaeotoisonrs@{ shape: win-pane, label: "_Published Oct 11, 2023, 04:45 PM_
-Australian environmental group fails to stop coal mine approvals" }
-Aacxsofxerse@{ shape: win-pane, label: "_Published Jul 03, 2023, 02:52 PM_
-Australia’s coal exports set to rise for next three years on asian demand" }
-Aaairaurdbo@{ shape: win-pane, label: "_Published Sep 18, 2023, 02:23 PM_
-Australia says switch from coal to nuclear would cost $340 billion" }
-Nrdrgind@{ shape: win-pane, label: "_Published Feb 14, 2024, 01:22 AM_
-Nine trapped in turkish gold mine landslide" }
-Etellngiaefl@{ shape: win-pane, label: "_Published Jul 30, 2023, 06:05 PM_
-Eight trapped in illegal indonesia gold mine feared dead: official" }
-
-AslCctcp:::txtsize --> dndrsaeonenn:::txtsize
-dndrsaeonenn:::txtsize --> CilesitVa:::txtsize
-CilesitVa:::txtsize --> Teeaales:::txtsize
-AslCctcp:::txtsize --> Oacfulonl:::txtsize
-Oacfulonl:::txtsize --> Aaeotoisonrs:::txtsize
-Aaeotoisonrs:::txtsize --> Aacxsofxerse:::txtsize
-Aaeotoisonrs:::txtsize --> Aaairaurdbo:::txtsize
-Oacfulonl:::txtsize --> Nrdrgind:::txtsize
-Nrdrgind:::txtsize --> Etellngiaefl:::txtsize
-
-Pgwrmaaroocnt@{ shape: win-pane, label: "_Published Nov 17, 2025, 12:36 AM_
-Pentagon to withdraw some us national guard troops from chicago and portland" }
-Taiteeiwniinorem@{ shape: win-pane, label: "_Published Oct 06, 2025, 12:28 AM_
-Trump administration declares us cities war zones amid rising tension over troop deployment" }
-UgcuemfoiGttfw@{ shape: win-pane, label: "_Published Oct 05, 2025, 09:28 AM_
-Us judge blocks trump’s deployment of oregon national guard to portland for now" }
-OntpplnStol@{ shape: win-pane, label: "_Published Sep 29, 2025, 07:15 AM_
-Oregon sues to stop trump’s deployment of us military to portland" }
-Twtfattaawrtr@{ shape: win-pane, label: "_Published Oct 04, 2025, 09:32 AM_
-Trump wants to cut federal aid to portland as his anger with protesters grows" }
-BronomCgrtonpn@{ shape: win-pane, label: "_Published Oct 05, 2025, 05:40 AM_
-Border patrol agents shoot woman in chicago as protesters confront ice personnel" }
-Pefttrshoatev@{ shape: win-pane, label: "_Published Oct 04, 2025, 03:30 AM_
-Police scuffle with protesters outside chicago ice facility, arrest several" }
-Pefttrshoatev@{ shape: win-pane, label: "_Published Oct 04, 2025, 03:30 AM_
-Police scuffle with protesters outside chicago ice facility, arrest several" }
-Tsouemfacce@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:18 PM_
-Trump’s national guard deployments face pair of court challenges" }
-UgcuemfoiGttfw@{ shape: win-pane, label: "_Published Oct 05, 2025, 09:28 AM_
-Us judge blocks trump’s deployment of oregon national guard to portland for now" }
-OntpplnStol@{ shape: win-pane, label: "_Published Sep 29, 2025, 07:15 AM_
-Oregon sues to stop trump’s deployment of us military to portland" }
-Twtfattaawrtr@{ shape: win-pane, label: "_Published Oct 04, 2025, 09:32 AM_
-Trump wants to cut federal aid to portland as his anger with protesters grows" }
-CoGnworvnNnaOn@{ shape: win-pane, label: "_Published Oct 06, 2025, 06:30 AM_
-California governor newsom to sue trump over sending national guard to oregon" }
-Taiteeiwniinorem@{ shape: win-pane, label: "_Published Oct 06, 2025, 12:28 AM_
-Trump administration declares us cities war zones amid rising tension over troop deployment" }
-UgcuemfoiGttfw@{ shape: win-pane, label: "_Published Oct 05, 2025, 09:28 AM_
-Us judge blocks trump’s deployment of oregon national guard to portland for now" }
-
-Pgwrmaaroocnt:::txtsize --> Taiteeiwniinorem:::txtsize
-Taiteeiwniinorem:::txtsize --> UgcuemfoiGttfw:::txtsize
-UgcuemfoiGttfw:::txtsize --> OntpplnStol:::txtsize
-UgcuemfoiGttfw:::txtsize --> Twtfattaawrtr:::txtsize
-Taiteeiwniinorem:::txtsize --> BronomCgrtonpn:::txtsize
-BronomCgrtonpn:::txtsize --> Pefttrshoatev:::txtsize
-BronomCgrtonpn:::txtsize --> Pefttrshoatev:::txtsize
-Pgwrmaaroocnt:::txtsize --> Tsouemfacce:::txtsize
-Tsouemfacce:::txtsize --> UgcuemfoiGttfw:::txtsize
-UgcuemfoiGttfw:::txtsize --> OntpplnStol:::txtsize
-UgcuemfoiGttfw:::txtsize --> Twtfattaawrtr:::txtsize
-Tsouemfacce:::txtsize --> CoGnworvnNnaOn:::txtsize
-CoGnworvnNnaOn:::txtsize --> Taiteeiwniinorem:::txtsize
-CoGnworvnNnaOn:::txtsize --> UgcuemfoiGttfw:::txtsize
 
 ```
-<i>Last updated: 2025-11-17 04:00:30.097890 (GMT+8)</i>
+<i>Last updated: 2025-11-17 08:00:56.646562 (GMT+8)</i>
 <!-- END -->
