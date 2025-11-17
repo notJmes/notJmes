@@ -16,91 +16,93 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Biiuilnreamc@{ shape: win-pane, label: "_Published Nov 17, 2025, 06:37 AM_
-Britain reviews human rights laws in major shake-up of asylum policy" }
-Biafssouamh@{ shape: win-pane, label: "_Published Nov 16, 2025, 06:42 AM_
-Britain to make refugee status temporary under asylum overhaul" }
-ReUamitnemn@{ shape: win-pane, label: "_Published Nov 15, 2025, 08:16 AM_
-Refugees in uk to face time-limited stays in border clampdown" }
-Biasspadyet@{ shape: win-pane, label: "_Published Sep 06, 2025, 01:35 AM_
-Britain’s starmer shakes up top team after deputy rayner quits" }
-Bseaitennatui@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:37 PM_
-British pm keir starmer insists government is ‘united’ as plot rumours swirl" }
-Bsnoieameoeeot@{ shape: win-pane, label: "_Published Nov 11, 2025, 08:26 PM_
-British council loses bid to remove asylum seekers from hotel at centre of protests" }
-Uialtyesfreols@{ shape: win-pane, label: "_Published Oct 25, 2025, 03:09 AM_
-Uk minister ‘appalled’ after asylum seeker sex offender is freed from jail by mistake" }
-Naoddtumn@{ shape: win-pane, label: "_Published Jul 21, 2025, 06:17 AM_
-New clashes outside london hotel housing migrants" }
-ReUamitnemn@{ shape: win-pane, label: "_Published Nov 15, 2025, 08:16 AM_
-Refugees in uk to face time-limited stays in border clampdown" }
-Biasspadyet@{ shape: win-pane, label: "_Published Sep 06, 2025, 01:35 AM_
-Britain’s starmer shakes up top team after deputy rayner quits" }
-UuRrstr@{ shape: win-pane, label: "_Published Sep 05, 2025, 07:10 PM_
-Uk deputy pm rayner quits over tax error" }
-UuRrstr@{ shape: win-pane, label: "_Published Sep 05, 2025, 07:10 PM_
-Uk deputy pm rayner quits over tax error" }
-Bseaitennatui@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:37 PM_
-British pm keir starmer insists government is ‘united’ as plot rumours swirl" }
-AsisSenfooeshn@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:27 AM_
-Allies of britain’s keir starmer launch effort to ward off a leadership challenge" }
-Bibessdsstyea@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:01 PM_
-Britain’s labour members pick sacked minister as deputy, defying keir starmer" }
+UuCitettlea@{ shape: win-pane, label: "_Published Nov 17, 2025, 11:19 AM_
+Un security council set to vote on international force for gaza" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
+Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
+Israel marks oct 7 anniversary as talks are held to end gaza war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Pgoihfcfge@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:53 AM_
+Pm wong welcomes first phase of gaza ceasefire agreement" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+SpeeamaeihfptGoc@{ shape: win-pane, label: "_Published Oct 09, 2025, 11:04 PM_
+Singapore welcomes israel-hamas deal to begin first phase of trump plan to end gaza conflict: mfa" }
 
-Biiuilnreamc:::txtsize --> Biafssouamh:::txtsize
-Biafssouamh:::txtsize --> ReUamitnemn:::txtsize
-ReUamitnemn:::txtsize --> Biasspadyet:::txtsize
-ReUamitnemn:::txtsize --> Bseaitennatui:::txtsize
-Biafssouamh:::txtsize --> Bsnoieameoeeot:::txtsize
-Bsnoieameoeeot:::txtsize --> Uialtyesfreols:::txtsize
-Bsnoieameoeeot:::txtsize --> Naoddtumn:::txtsize
-Biiuilnreamc:::txtsize --> ReUamitnemn:::txtsize
-ReUamitnemn:::txtsize --> Biasspadyet:::txtsize
-Biasspadyet:::txtsize --> UuRrstr:::txtsize
-Biasspadyet:::txtsize --> UuRrstr:::txtsize
-ReUamitnemn:::txtsize --> Bseaitennatui:::txtsize
-Bseaitennatui:::txtsize --> AsisSenfooeshn:::txtsize
-Bseaitennatui:::txtsize --> Bibessdsstyea:::txtsize
+UuCitettlea:::txtsize --> Wouaaam:::txtsize
+Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+Wouaaam:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+UuCitettlea:::txtsize --> Iliaeseoewa:::txtsize
+Iliaeseoewa:::txtsize --> TssHaossaaorslaoe:::txtsize
+TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
+TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
+Iliaeseoewa:::txtsize --> Pgoihfcfge:::txtsize
+Pgoihfcfge:::txtsize --> TssHaossaaorslaoe:::txtsize
+Pgoihfcfge:::txtsize --> SpeeamaeihfptGoc:::txtsize
 
-FgishsdrcehfiI@{ shape: win-pane, label: "_Published Nov 17, 2025, 06:30 AM_
-Foreign minister says there is ‘no undeclared nuclear enrichment facility’ in iran" }
-Iairfudnak@{ shape: win-pane, label: "_Published Nov 16, 2025, 07:37 PM_
-Iran says us is not ready for ‘equal and fair’ nuclear talks" }
-IfIImlinr@{ shape: win-pane, label: "_Published Jun 15, 2025, 07:25 AM_
-‘i was afraid i’d die’: iran’s missiles rain down on israel" }
-Ilseearaenak@{ shape: win-pane, label: "_Published Jun 15, 2025, 05:30 AM_
-Israel-iran strikes enter 3rd day as trump warns tehran not to attack us" }
-TsasIhe@{ shape: win-pane, label: "_Published Jun 15, 2025, 03:49 AM_
-Trump says ‘war in israel-iran should end’" }
-Tspcdgiacs@{ shape: win-pane, label: "_Published Nov 07, 2025, 10:16 AM_
-Trump says ‘open’ to considering lifting iran sanctions" }
-Wrtenhwfx@{ shape: win-pane, label: "_Published Jun 13, 2025, 09:51 PM_
-Why israel attacked iran, and what to watch for next" }
-AaoIerftrcace@{ shape: win-pane, label: "_Published Sep 27, 2025, 08:42 PM_
-As un sanctions on iran re-enter into force, the world faces fearful choices" }
-VyrnentsouArs@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:31 PM_
-Verifying iran’s enriched uranium stock is ‘long overdue’, iaea report says" }
-Tspcdgiacs@{ shape: win-pane, label: "_Published Nov 07, 2025, 10:16 AM_
-Trump says ‘open’ to considering lifting iran sanctions" }
-Wrtenhwfx@{ shape: win-pane, label: "_Published Jun 13, 2025, 09:51 PM_
-Why israel attacked iran, and what to watch for next" }
-AaoIerftrcace@{ shape: win-pane, label: "_Published Sep 27, 2025, 08:42 PM_
-As un sanctions on iran re-enter into force, the world faces fearful choices" }
+Frbeleito@{ shape: win-pane, label: "_Published Nov 17, 2025, 10:25 AM_
+Frustrated by us medical system, patients turn to ai" }
+Adcatpnimsnt@{ shape: win-pane, label: "_Published Aug 13, 2025, 08:35 AM_
+Ai eroded doctors’ ability to spot cancer within months in lancet study" }
+Atveiouldiarr@{ shape: win-pane, label: "_Published Jul 20, 2025, 05:00 AM_
+Ai system developed in singapore could help predict liver cancer recurrence" }
+Aiilcedeyeas@{ shape: win-pane, label: "_Published Aug 07, 2023, 05:00 AM_
+Artificial intelligence developed to identify cancer mutations" }
+Sstceoeatruotrdtn@{ shape: win-pane, label: "_Published Mar 03, 2024, 05:00 PM_
+S’pore scientists create way to preserve cancer tumour cultures for better targeted drug testing" }
+Alsertolncrl@{ shape: win-pane, label: "_Published May 09, 2025, 08:45 AM_
+Ai tool uses selfies to predict biological age and cancer survival" }
+Aiilcedeyeas@{ shape: win-pane, label: "_Published Aug 07, 2023, 05:00 AM_
+Artificial intelligence developed to identify cancer mutations" }
+Aegoehaerosrs@{ shape: win-pane, label: "_Published Nov 09, 2025, 06:22 PM_
+Ai is beating doctors at empathy – because we’ve turned doctors into robots" }
 
-FgishsdrcehfiI:::txtsize --> Iairfudnak:::txtsize
-Iairfudnak:::txtsize --> IfIImlinr:::txtsize
-IfIImlinr:::txtsize --> Ilseearaenak:::txtsize
-IfIImlinr:::txtsize --> TsasIhe:::txtsize
-Iairfudnak:::txtsize --> Tspcdgiacs:::txtsize
-Tspcdgiacs:::txtsize --> Wrtenhwfx:::txtsize
-Tspcdgiacs:::txtsize --> AaoIerftrcace:::txtsize
-FgishsdrcehfiI:::txtsize --> VyrnentsouArs:::txtsize
-VyrnentsouArs:::txtsize --> Tspcdgiacs:::txtsize
-Tspcdgiacs:::txtsize --> Wrtenhwfx:::txtsize
-Tspcdgiacs:::txtsize --> AaoIerftrcace:::txtsize
+Frbeleito:::txtsize --> Adcatpnimsnt:::txtsize
+Adcatpnimsnt:::txtsize --> Atveiouldiarr:::txtsize
+Atveiouldiarr:::txtsize --> Aiilcedeyeas:::txtsize
+Atveiouldiarr:::txtsize --> Sstceoeatruotrdtn:::txtsize
+Adcatpnimsnt:::txtsize --> Alsertolncrl:::txtsize
+Alsertolncrl:::txtsize --> Aiilcedeyeas:::txtsize
+Frbeleito:::txtsize --> Aegoehaerosrs:::txtsize
 
-Pgytaepdbnflt@{ shape: win-pane, label: "_Published Nov 17, 2025, 06:27 AM_
-Pentagon says it struck another suspected drug boat in pacific, killing three" }
+TfsztaaMort@{ shape: win-pane, label: "_Published Nov 17, 2025, 08:57 AM_
+Trump floats venezuela talks as us labels maduro a terrorist" }
+Ucceinaeiiburz@{ shape: win-pane, label: "_Published Nov 17, 2025, 03:14 AM_
+Us aircraft carrier arrives in the caribbean amid military buildup near venezuela" }
+Eirdyroersl@{ shape: win-pane, label: "_Published Oct 31, 2025, 06:16 PM_
+Explainer: are the deadly us strikes on alleged drug vessels legal?​" }
+Nselgufexeeov@{ shape: win-pane, label: "_Published Oct 29, 2025, 01:00 AM_
+New us strikes kill 14 alleged drug traffickers, mexico leads rescue of survivor" }
+VulClaaispbr@{ shape: win-pane, label: "_Published Oct 28, 2025, 01:03 PM_
+Venezuela claims cia ‘false flag’ attack foiled, as us deploys bombers" }
+VuonipcnAraTo@{ shape: win-pane, label: "_Published Oct 27, 2025, 08:06 AM_
+Venezuela condemns ‘military provocation’ by cia and trinidad and tobago" }
+TcrAotnzrnsou@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:05 AM_
+Trump confirms cia authorisation in venezuela, raising pressure on maduro" }
+VuopccfSnctas@{ shape: win-pane, label: "_Published Oct 26, 2025, 10:50 AM_
+Venezuela vows to protect its coast from us potential ‘covert operations’" }
 orsomalduttpon@{ shape: win-pane, label: "_Published Nov 14, 2025, 07:37 PM_
 29% of americans support us military killing drug suspects, reuters/ipsos poll finds" }
 Ucceeonigsteens@{ shape: win-pane, label: "_Published Nov 11, 2025, 11:41 PM_
@@ -113,29 +115,21 @@ MRdsriUinkGi@{ shape: win-pane, label: "_Published Nov 13, 2025, 08:44 AM_
 Marco rubio dismisses criticism of us caribbean strikes at g-7 meeting" }
 Uildcisiiig@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:20 PM_
 Us strikes alleged drug-carrying vessels in pacific, killing six" }
-Uildcisiiig@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:20 PM_
-Us strikes alleged drug-carrying vessels in pacific, killing six" }
-Nseldolrytc@{ shape: win-pane, label: "_Published Nov 07, 2025, 12:27 PM_
-New us strike on alleged drug boat kills three, says pentagon chief" }
-Eirdyroersl@{ shape: win-pane, label: "_Published Oct 31, 2025, 06:16 PM_
-Explainer: are the deadly us strikes on alleged drug vessels legal?​" }
-Nselgufexeeov@{ shape: win-pane, label: "_Published Oct 29, 2025, 01:00 AM_
-New us strikes kill 14 alleged drug traffickers, mexico leads rescue of survivor" }
-VulClaaispbr@{ shape: win-pane, label: "_Published Oct 28, 2025, 01:03 PM_
-Venezuela claims cia ‘false flag’ attack foiled, as us deploys bombers" }
 
-Pgytaepdbnflt:::txtsize --> orsomalduttpon:::txtsize
+TfsztaaMort:::txtsize --> Ucceinaeiiburz:::txtsize
+Ucceinaeiiburz:::txtsize --> Eirdyroersl:::txtsize
+Eirdyroersl:::txtsize --> Nselgufexeeov:::txtsize
+Eirdyroersl:::txtsize --> VulClaaispbr:::txtsize
+Ucceinaeiiburz:::txtsize --> VuonipcnAraTo:::txtsize
+VuonipcnAraTo:::txtsize --> TcrAotnzrnsou:::txtsize
+VuonipcnAraTo:::txtsize --> VuopccfSnctas:::txtsize
+TfsztaaMort:::txtsize --> orsomalduttpon:::txtsize
 orsomalduttpon:::txtsize --> Ucceeonigsteens:::txtsize
 Ucceeonigsteens:::txtsize --> Uidycceuomasnswee:::txtsize
 orsomalduttpon:::txtsize --> Uddrngufialhe:::txtsize
 Uddrngufialhe:::txtsize --> MRdsriUinkGi:::txtsize
 Uddrngufialhe:::txtsize --> Uildcisiiig:::txtsize
-Pgytaepdbnflt:::txtsize --> Uildcisiiig:::txtsize
-Uildcisiiig:::txtsize --> Nseldolrytc:::txtsize
-Uildcisiiig:::txtsize --> Eirdyroersl:::txtsize
-Eirdyroersl:::txtsize --> Nselgufexeeov:::txtsize
-Eirdyroersl:::txtsize --> VulClaaispbr:::txtsize
 
 ```
-<i>Last updated: 2025-11-17 08:00:56.646562 (GMT+8)</i>
+<i>Last updated: 2025-11-17 12:00:26.523631 (GMT+8)</i>
 <!-- END -->
