@@ -16,120 +16,126 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-BiCrdgufia@{ shape: win-pane, label: "_Published Nov 17, 2025, 11:28 PM_
-Britain’s bbc ‘determined to fight’ trump defamation claim" }
-Tsieooieet@{ shape: win-pane, label: "_Published Nov 15, 2025, 10:09 AM_
-Trump says will sue bbc for up to $6.4 billion over video edit" }
-TttBhiwaagfio@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:49 AM_
-Trump threatens bbc with $1.3 billion lawsuit as bbc apologises for edit error" }
-Bshfqfroneri@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:45 AM_
-Bbc boss and head of news quit after trump documentary edit criticism" }
-SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
-BiCosueoshrtaoi@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:07 AM_
-Britain’s bbc apologises to trump over panorama speech edit, rejects defamation claim" }
-SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
-TttBhiwaagfio@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:49 AM_
-Trump threatens bbc with $1.3 billion lawsuit as bbc apologises for edit error" }
-Bshfqfroneri@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:45 AM_
-Bbc boss and head of news quit after trump documentary edit criticism" }
-Gonsobhcyerws@{ shape: win-pane, label: "_Published Jul 15, 2025, 01:09 AM_
-Gaza documentary shown on bbc breached accuracy guideline, review finds" }
-UenleewBrdey@{ shape: win-pane, label: "_Published Feb 28, 2025, 11:49 PM_
-Uk government calls urgent meeting with bbc over gaza documentary" }
-IlaaiOwrrBei@{ shape: win-pane, label: "_Published Mar 26, 2025, 03:03 AM_
-Israel releases palestinian oscar winner after west bank detention" }
-BsislBsisedpsnies@{ shape: win-pane, label: "_Published Nov 09, 2025, 09:00 PM_
-British minister says claims bbc misled viewers with edited trump clips are ‘incredibly serious’" }
-TtpswoCooamdphcmvn@{ shape: win-pane, label: "_Published Jan 07, 2021, 06:21 AM_
-Trump tells protesters who stormed capitol to go home as former aides implore him to condemn the violence" }
-PoesToisiewin@{ shape: win-pane, label: "_Published Jul 02, 2025, 02:09 PM_
-Paramount settles with trump over 60 minutes harris interview for $20 million" }
+Wigawindaas@{ shape: win-pane, label: "_Published Nov 18, 2025, 03:16 AM_
+Who chief urges clampdown on nicotine products aimed at kids" }
+Wteeinauitoi@{ shape: win-pane, label: "_Published Oct 06, 2025, 08:47 PM_
+Who estimates at least 15 million teenagers use e-cigarettes worldwide" }
+YsrEavprsantbpc@{ shape: win-pane, label: "_Published Apr 08, 2025, 03:55 PM_
+Young smokers in s-e asia are giving up cigarettes for vapes and heated tobacco products" }
+OfseSavy@{ shape: win-pane, label: "_Published Mar 24, 2025, 11:05 AM_
+Over $200,000 of vapes seized by hsa in 2 cases over 2 days" }
+Jerhkpdcotmaal@{ shape: win-pane, label: "_Published Mar 21, 2025, 09:30 PM_
+Jail term for man who packed vape products cut from 8 months to 1 month after appeal" }
+Minzcpepedenom@{ shape: win-pane, label: "_Published Oct 03, 2025, 12:24 PM_
+‘my son is going crazy’: mum calls police on vaping 15-year-old, who gets sent to boys’ home" }
+Thdpsoectnnrese@{ shape: win-pane, label: "_Published Sep 03, 2025, 03:45 PM_
+Teen charged with possession of vape device containing cannabis-related substance" }
+Aaasiltckoirava@{ shape: win-pane, label: "_Published Nov 07, 2025, 07:30 PM_
+Australia battles surging illegal tobacco market as organised crime takes over trade" }
+Aabmtcaimsee@{ shape: win-pane, label: "_Published Mar 30, 2025, 11:54 AM_
+Australian black market tobacco sparks fire bombings, budget hole" }
+Aaecdnnaosees@{ shape: win-pane, label: "_Published Nov 28, 2023, 11:05 AM_
+Australia begins crackdown on vaping, to ban import of single-use devices" }
+Aaecdnnaosees@{ shape: win-pane, label: "_Published Nov 28, 2023, 11:05 AM_
+Australia begins crackdown on vaping, to ban import of single-use devices" }
 
-BiCrdgufia:::txtsize --> Tsieooieet:::txtsize
-Tsieooieet:::txtsize --> TttBhiwaagfio:::txtsize
-TttBhiwaagfio:::txtsize --> Bshfqfroneri:::txtsize
-TttBhiwaagfio:::txtsize --> SiUiinenWn:::txtsize
-Tsieooieet:::txtsize --> BiCosueoshrtaoi:::txtsize
-BiCosueoshrtaoi:::txtsize --> SiUiinenWn:::txtsize
-BiCosueoshrtaoi:::txtsize --> TttBhiwaagfio:::txtsize
-BiCrdgufia:::txtsize --> Bshfqfroneri:::txtsize
-Bshfqfroneri:::txtsize --> Gonsobhcyerws:::txtsize
-Gonsobhcyerws:::txtsize --> UenleewBrdey:::txtsize
-Gonsobhcyerws:::txtsize --> IlaaiOwrrBei:::txtsize
-Bshfqfroneri:::txtsize --> BsislBsisedpsnies:::txtsize
-BsislBsisedpsnies:::txtsize --> TtpswoCooamdphcmvn:::txtsize
-BsislBsisedpsnies:::txtsize --> PoesToisiewin:::txtsize
+Wigawindaas:::txtsize --> Wteeinauitoi:::txtsize
+Wteeinauitoi:::txtsize --> YsrEavprsantbpc:::txtsize
+YsrEavprsantbpc:::txtsize --> OfseSavy:::txtsize
+YsrEavprsantbpc:::txtsize --> Jerhkpdcotmaal:::txtsize
+Wteeinauitoi:::txtsize --> Minzcpepedenom:::txtsize
+Minzcpepedenom:::txtsize --> Thdpsoectnnrese:::txtsize
+Wigawindaas:::txtsize --> Aaasiltckoirava:::txtsize
+Aaasiltckoirava:::txtsize --> Aabmtcaimsee:::txtsize
+Aabmtcaimsee:::txtsize --> Aaecdnnaosees:::txtsize
+Aaasiltckoirava:::txtsize --> Aaecdnnaosees:::txtsize
 
-Eniaoottopdo@{ shape: win-pane, label: "_Published Nov 17, 2025, 11:21 PM_
-Eleven held in istanbul over tourists’ deaths from suspected poisoning" }
-Ibtaeerdscoi@{ shape: win-pane, label: "_Published Nov 16, 2025, 05:14 AM_
-Istanbul hotel evacuated after 3 tourists die of suspected poisoning" }
-Outosgsewhtihh@{ shape: win-pane, label: "_Published Nov 10, 2025, 04:08 PM_
-Over 200 suspected food poisoning cases linked to two banh mi outlets in ho chi minh city" }
-Ienisfeineedflis@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:25 AM_
-Indonesia investigates more free-meal poisoning cases after 700 students fall ill, official says" }
-Ibtaeerdscoi@{ shape: win-pane, label: "_Published Nov 16, 2025, 05:14 AM_
-Istanbul hotel evacuated after 3 tourists die of suspected poisoning" }
-Outosgsewhtihh@{ shape: win-pane, label: "_Published Nov 10, 2025, 04:08 PM_
-Over 200 suspected food poisoning cases linked to two banh mi outlets in ho chi minh city" }
-Ienisfeineedflis@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:25 AM_
-Indonesia investigates more free-meal poisoning cases after 700 students fall ill, official says" }
+Bigamcavunmtees@{ shape: win-pane, label: "_Published Nov 18, 2025, 02:14 AM_
+Britain toughens asylum policy in major overhaul as anti-immigration sentiment rises" }
+BsorflaenaaoirifK@{ shape: win-pane, label: "_Published Oct 24, 2025, 03:35 PM_
+British labour party suffers landmark election defeat in wales, coming in third behind reform uk" }
+AornnSevehet@{ shape: win-pane, label: "_Published Sep 29, 2025, 06:03 PM_
+At labour party conference, pm starmer’s rival steals the limelight" }
+Fedrhtftruon@{ shape: win-pane, label: "_Published Sep 26, 2025, 05:34 PM_
+Farage would win british election if held tomorrow, yougov poll finds" }
+Biteemnepnen@{ shape: win-pane, label: "_Published Sep 29, 2025, 05:38 AM_
+Britain may toughen rules for migrants seeking permanent residency" }
+Biacotnnpln@{ shape: win-pane, label: "_Published Sep 28, 2025, 06:13 PM_
+Britain’s starmer calls on party to unite and ‘stop navel-gazing’" }
+BinumogIwrellgo@{ shape: win-pane, label: "_Published Sep 26, 2025, 02:42 PM_
+Britain to introduce compulsory digital id for workers to deter illegal immigration" }
+Fedrhtftruon@{ shape: win-pane, label: "_Published Sep 26, 2025, 05:34 PM_
+Farage would win british election if held tomorrow, yougov poll finds" }
+Bseaitennatui@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:37 PM_
+British pm keir starmer insists government is ‘united’ as plot rumours swirl" }
+AsisSenfooeshn@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:27 AM_
+Allies of britain’s keir starmer launch effort to ward off a leadership challenge" }
+Bicestuniersea@{ shape: win-pane, label: "_Published Oct 31, 2025, 08:32 AM_
+Britain’s rachel reeves seeks to defuse rental dispute with release of new details" }
+Bibessdsstyea@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:01 PM_
+Britain’s labour members pick sacked minister as deputy, defying keir starmer" }
+Bibessdsstyea@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:01 PM_
+Britain’s labour members pick sacked minister as deputy, defying keir starmer" }
+UuRrstr@{ shape: win-pane, label: "_Published Sep 05, 2025, 07:10 PM_
+Uk deputy pm rayner quits over tax error" }
+BsorflaenaaoirifK@{ shape: win-pane, label: "_Published Oct 24, 2025, 03:35 PM_
+British labour party suffers landmark election defeat in wales, coming in third behind reform uk" }
 
-Eniaoottopdo:::txtsize --> Ibtaeerdscoi:::txtsize
-Ibtaeerdscoi:::txtsize --> Outosgsewhtihh:::txtsize
-Outosgsewhtihh:::txtsize --> Ienisfeineedflis:::txtsize
-Eniaoottopdo:::txtsize --> Ibtaeerdscoi:::txtsize
-Ibtaeerdscoi:::txtsize --> Outosgsewhtihh:::txtsize
-Outosgsewhtihh:::txtsize --> Ienisfeineedflis:::txtsize
+Bigamcavunmtees:::txtsize --> BsorflaenaaoirifK:::txtsize
+BsorflaenaaoirifK:::txtsize --> AornnSevehet:::txtsize
+AornnSevehet:::txtsize --> Fedrhtftruon:::txtsize
+AornnSevehet:::txtsize --> Biteemnepnen:::txtsize
+BsorflaenaaoirifK:::txtsize --> Biacotnnpln:::txtsize
+Biacotnnpln:::txtsize --> BinumogIwrellgo:::txtsize
+Biacotnnpln:::txtsize --> Fedrhtftruon:::txtsize
+Bigamcavunmtees:::txtsize --> Bseaitennatui:::txtsize
+Bseaitennatui:::txtsize --> AsisSenfooeshn:::txtsize
+AsisSenfooeshn:::txtsize --> Bicestuniersea:::txtsize
+AsisSenfooeshn:::txtsize --> Bibessdsstyea:::txtsize
+Bseaitennatui:::txtsize --> Bibessdsstyea:::txtsize
+Bibessdsstyea:::txtsize --> UuRrstr:::txtsize
+Bibessdsstyea:::txtsize --> BsorflaenaaoirifK:::txtsize
 
-SaoaBlieiedossa@{ shape: win-pane, label: "_Published Nov 17, 2025, 09:37 PM_
-Spain aims to cut madrid-barcelona high speed rail time to under two hours, minister says" }
-EtauiodFfe@{ shape: win-pane, label: "_Published Jun 11, 2025, 07:04 AM_
-Eurostar plans 5-hour trains from london to frankfurt, geneva" }
-Lroinnrsacw@{ shape: win-pane, label: "_Published Feb 16, 2025, 02:35 PM_
-Late trains, old bridges, no signal: germany's infrastructure woes" }
-Gnnemrrhere@{ shape: win-pane, label: "_Published Jan 24, 2024, 03:20 PM_
-German train drivers ramp up pressure with longest strike yet" }
-sfldseisrtortap@{ shape: win-pane, label: "_Published Apr 20, 2023, 06:23 AM_
-100,000 set to face flight delays, cancellations as security staff go on strike at german airports" }
-CttstreFe@{ shape: win-pane, label: "_Published May 18, 2025, 10:30 AM_
-Cat on train tracks? 20 minutes to retrieve it, france says" }
-Fhotntalarvtd@{ shape: win-pane, label: "_Published Jul 04, 2023, 10:55 PM_
-French rail operator fined after train deliberately runs over cat named neko" }
-PtdologsttsMtni@{ shape: win-pane, label: "_Published Mar 27, 2025, 08:00 AM_
-Pet cats and dogs to be allowed on hong kong’s light rail trains from may in two-month trial" }
-Miorieadi@{ shape: win-pane, label: "_Published Aug 11, 2025, 08:07 AM_
-Man clings to austrian high-speed train and survives" }
-Tdelrtarim@{ shape: win-pane, label: "_Published Jul 28, 2025, 03:25 AM_
-Three dead, several injured after train derails in germany" }
-Trtntkn@{ shape: win-pane, label: "_Published Aug 04, 2023, 07:20 PM_
-Thai freight train hits truck, killing 8" }
-Tlnddare@{ shape: win-pane, label: "_Published Jul 30, 2024, 02:40 PM_
-Two killed, 20 injured in india train derailment" }
-Ctckfnst@{ shape: win-pane, label: "_Published Jun 06, 2024, 09:14 AM_
-Czech train crash kills four, injures more than 20" }
-SieuAtcs@{ shape: win-pane, label: "_Published May 11, 2024, 02:06 AM_
-Sixty injured in buenos aires train collision" }
-Ctalonsluutt@{ shape: win-pane, label: "_Published Jan 05, 2024, 11:15 AM_
-Commuter train collision in indonesia kills four, injures at least 42" }
+StdUrtoacy@{ shape: win-pane, label: "_Published Nov 18, 2025, 01:40 AM_
+Syria to hand over uighur fighters to china, sources say" }
+UuCioaoSsiiinr@{ shape: win-pane, label: "_Published Nov 07, 2025, 04:30 AM_
+Un security council removes sanctions on syria’s president, interior minister" }
+Ttosinajlh@{ shape: win-pane, label: "_Published May 14, 2025, 01:02 AM_
+Trump to remove us sanctions on syria in major policy shift" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+FerntSsi@{ shape: win-pane, label: "_Published May 08, 2025, 12:42 AM_
+France’s macron wants eu to end syria sanctions" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
+Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
+UuCioaoSsiiinr@{ shape: win-pane, label: "_Published Nov 07, 2025, 04:30 AM_
+Un security council removes sanctions on syria’s president, interior minister" }
+Ttosinajlh@{ shape: win-pane, label: "_Published May 14, 2025, 01:02 AM_
+Trump to remove us sanctions on syria in major policy shift" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+FerntSsi@{ shape: win-pane, label: "_Published May 08, 2025, 12:42 AM_
+France’s macron wants eu to end syria sanctions" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
+Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
 
-SaoaBlieiedossa:::txtsize --> EtauiodFfe:::txtsize
-EtauiodFfe:::txtsize --> Lroinnrsacw:::txtsize
-Lroinnrsacw:::txtsize --> Gnnemrrhere:::txtsize
-Lroinnrsacw:::txtsize --> sfldseisrtortap:::txtsize
-EtauiodFfe:::txtsize --> CttstreFe:::txtsize
-CttstreFe:::txtsize --> Fhotntalarvtd:::txtsize
-CttstreFe:::txtsize --> PtdologsttsMtni:::txtsize
-SaoaBlieiedossa:::txtsize --> Miorieadi:::txtsize
-Miorieadi:::txtsize --> Tdelrtarim:::txtsize
-Tdelrtarim:::txtsize --> Trtntkn:::txtsize
-Tdelrtarim:::txtsize --> Tlnddare:::txtsize
-Miorieadi:::txtsize --> Ctckfnst:::txtsize
-Ctckfnst:::txtsize --> SieuAtcs:::txtsize
-Ctckfnst:::txtsize --> Ctalonsluutt:::txtsize
+StdUrtoacy:::txtsize --> UuCioaoSsiiinr:::txtsize
+UuCioaoSsiiinr:::txtsize --> Ttosinajlh:::txtsize
+Ttosinajlh:::txtsize --> SnltiARahtoy:::txtsize
+Ttosinajlh:::txtsize --> FerntSsi:::txtsize
+UuCioaoSsiiinr:::txtsize --> SnltiARahtoy:::txtsize
+SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
+StdUrtoacy:::txtsize --> UuCioaoSsiiinr:::txtsize
+UuCioaoSsiiinr:::txtsize --> Ttosinajlh:::txtsize
+Ttosinajlh:::txtsize --> SnltiARahtoy:::txtsize
+Ttosinajlh:::txtsize --> FerntSsi:::txtsize
+UuCioaoSsiiinr:::txtsize --> SnltiARahtoy:::txtsize
+SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
 
 ```
-<i>Last updated: 2025-11-18 00:00:50.061145 (GMT+8)</i>
+<i>Last updated: 2025-11-18 04:01:25.693531 (GMT+8)</i>
 <!-- END -->
