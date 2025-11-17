@@ -16,120 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-UuCitettlea@{ shape: win-pane, label: "_Published Nov 17, 2025, 11:19 AM_
-Un security council set to vote on international force for gaza" }
-Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
-What does trump’s gaza peace plan promise?" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
-Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
-Israel marks oct 7 anniversary as talks are held to end gaza war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Pgoihfcfge@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:53 AM_
-Pm wong welcomes first phase of gaza ceasefire agreement" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-SpeeamaeihfptGoc@{ shape: win-pane, label: "_Published Oct 09, 2025, 11:04 PM_
-Singapore welcomes israel-hamas deal to begin first phase of trump plan to end gaza conflict: mfa" }
+ScpetifAnahn@{ shape: win-pane, label: "_Published Nov 17, 2025, 02:40 PM_
+Saudi crown prince visits us with defence, ai and nuclear on the agenda" }
+Ilemahmaroais@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:27 PM_
+Israel targets hamas leadership in military strikes on qatar, officials say" }
+Ilssreana@{ shape: win-pane, label: "_Published Sep 08, 2025, 04:31 PM_
+Israel warns hamas to surrender or face ‘annihilation’" }
+Ilaeahitsnos@{ shape: win-pane, label: "_Published Sep 08, 2025, 03:55 AM_
+Israel hits another gaza city high-rise as troops intensify offensive" }
+Teaanrisnos@{ shape: win-pane, label: "_Published Sep 08, 2025, 03:21 AM_
+Trump eyes gaza deal ‘soon’, after issuing ‘last warning’ to hamas" }
+Lnthlareseeis@{ shape: win-pane, label: "_Published Sep 09, 2025, 02:18 AM_
+‘leave now’, netanyahu tells gaza city residents as israel intensifies assault" }
+Ptneltsbo@{ shape: win-pane, label: "_Published Sep 08, 2025, 05:21 PM_
+Palestinian gunmen kill six at jerusalem bus stop" }
+IlkvitSneidy@{ shape: win-pane, label: "_Published Sep 09, 2025, 06:21 AM_
+Israel strikes in vicinity of three syrian cities, syrian media say" }
+BesTSAalweoae@{ shape: win-pane, label: "_Published Nov 09, 2025, 02:05 PM_
+Before talks with trump, saudi arabia doubles down on terms for israel ties" }
+WrAao@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:46 PM_
+What are the abraham accords?" }
+Ilemahmaroais@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:27 PM_
+Israel targets hamas leadership in military strikes on qatar, officials say" }
+Hmdulnrecsud@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:15 PM_
+How hamas’ audacious, well-planned surprise attack on israel unfolded" }
+Ssgtrahiase@{ shape: win-pane, label: "_Published Nov 07, 2025, 03:55 PM_
+Sudan’s rsf agrees to us proposal for humanitarian ceasefire" }
+Ncstnebsseili@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:09 PM_
+‘no one could stop it’: sudanese describe mass rapes while fleeing fallen city" }
+Svtsbndrnseldca@{ shape: win-pane, label: "_Published Nov 03, 2025, 10:01 PM_
+Sudan volunteers shown beaten in video were among those later killed, red crescent says" }
 
-UuCitettlea:::txtsize --> Wouaaam:::txtsize
-Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-Wouaaam:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-UuCitettlea:::txtsize --> Iliaeseoewa:::txtsize
-Iliaeseoewa:::txtsize --> TssHaossaaorslaoe:::txtsize
-TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
-TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
-Iliaeseoewa:::txtsize --> Pgoihfcfge:::txtsize
-Pgoihfcfge:::txtsize --> TssHaossaaorslaoe:::txtsize
-Pgoihfcfge:::txtsize --> SpeeamaeihfptGoc:::txtsize
+ScpetifAnahn:::txtsize --> Ilemahmaroais:::txtsize
+Ilemahmaroais:::txtsize --> Ilssreana:::txtsize
+Ilssreana:::txtsize --> Ilaeahitsnos:::txtsize
+Ilssreana:::txtsize --> Teaanrisnos:::txtsize
+Ilemahmaroais:::txtsize --> Lnthlareseeis:::txtsize
+Lnthlareseeis:::txtsize --> Ptneltsbo:::txtsize
+Lnthlareseeis:::txtsize --> IlkvitSneidy:::txtsize
+ScpetifAnahn:::txtsize --> BesTSAalweoae:::txtsize
+BesTSAalweoae:::txtsize --> WrAao:::txtsize
+WrAao:::txtsize --> Ilemahmaroais:::txtsize
+WrAao:::txtsize --> Hmdulnrecsud:::txtsize
+BesTSAalweoae:::txtsize --> Ssgtrahiase:::txtsize
+Ssgtrahiase:::txtsize --> Ncstnebsseili:::txtsize
+Ssgtrahiase:::txtsize --> Svtsbndrnseldca:::txtsize
 
-Frbeleito@{ shape: win-pane, label: "_Published Nov 17, 2025, 10:25 AM_
-Frustrated by us medical system, patients turn to ai" }
-Adcatpnimsnt@{ shape: win-pane, label: "_Published Aug 13, 2025, 08:35 AM_
-Ai eroded doctors’ ability to spot cancer within months in lancet study" }
-Atveiouldiarr@{ shape: win-pane, label: "_Published Jul 20, 2025, 05:00 AM_
-Ai system developed in singapore could help predict liver cancer recurrence" }
-Aiilcedeyeas@{ shape: win-pane, label: "_Published Aug 07, 2023, 05:00 AM_
-Artificial intelligence developed to identify cancer mutations" }
-Sstceoeatruotrdtn@{ shape: win-pane, label: "_Published Mar 03, 2024, 05:00 PM_
-S’pore scientists create way to preserve cancer tumour cultures for better targeted drug testing" }
-Alsertolncrl@{ shape: win-pane, label: "_Published May 09, 2025, 08:45 AM_
-Ai tool uses selfies to predict biological age and cancer survival" }
-Aiilcedeyeas@{ shape: win-pane, label: "_Published Aug 07, 2023, 05:00 AM_
-Artificial intelligence developed to identify cancer mutations" }
-Aegoehaerosrs@{ shape: win-pane, label: "_Published Nov 09, 2025, 06:22 PM_
-Ai is beating doctors at empathy – because we’ve turned doctors into robots" }
+Innuemrfrvvu@{ shape: win-pane, label: "_Published Nov 17, 2025, 02:30 PM_
+International student enrolment drops after trump’s visa overhaul" }
+UanpoloifrBe@{ shape: win-pane, label: "_Published Oct 07, 2025, 11:18 AM_
+Us visa no longer a passport to love for indians after trump h-1b squeeze" }
+TtoeBealt@{ shape: win-pane, label: "_Published Sep 20, 2025, 04:36 AM_
+Trump to impose $130,000 fee for h-1b worker visas in blow to tech" }
+Lissashrtfisal@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:12 AM_
+Lawsuit says musk’s tesla hires visa holders instead of americans so it can pay less" }
+SKaolvsbeuboen@{ shape: win-pane, label: "_Published Sep 19, 2025, 03:30 PM_
+South korea aims to resolve us visa issues before executing $450 billion investment" }
+Taiteeiwniinorem@{ shape: win-pane, label: "_Published Oct 06, 2025, 12:28 AM_
+Trump administration declares us cities war zones amid rising tension over troop deployment" }
+UgcuemfoiGttfw@{ shape: win-pane, label: "_Published Oct 05, 2025, 09:28 AM_
+Us judge blocks trump’s deployment of oregon national guard to portland for now" }
+BronomCgrtonpn@{ shape: win-pane, label: "_Published Oct 05, 2025, 05:40 AM_
+Border patrol agents shoot woman in chicago as protesters confront ice personnel" }
+Spnenemuroplnrtnu@{ shape: win-pane, label: "_Published Apr 08, 2025, 05:00 AM_
+Singaporean students in us on edge amid trump’s crackdown on pro-palestinian protesters on campus" }
+RsSavmhnv@{ shape: win-pane, label: "_Published Mar 28, 2025, 04:14 AM_
+Rubio says us may have revoked more than 300 ‘lunatic’ visas" }
+UhituheTUrre@{ shape: win-pane, label: "_Published Mar 26, 2025, 11:34 PM_
+Us authorities detain turkish student at tufts university, revoke visa" }
+TiosaanUvt@{ shape: win-pane, label: "_Published May 03, 2024, 04:06 AM_
+Timeline: pro-palestinian encampments at us universities" }
+Eihbdreiosure@{ shape: win-pane, label: "_Published Apr 24, 2024, 06:45 AM_
+Explainer: what is behind the pro-palestinian protests at us universities?" }
+GrtwcgodoaNr@{ shape: win-pane, label: "_Published Apr 24, 2024, 03:12 AM_
+Gaza protests grow at us colleges, thousands demonstrate in new york" }
+Tsiunicfwitf@{ shape: win-pane, label: "_Published Apr 15, 2024, 09:07 PM_
+Trump’s criminal hush money trial kicks off in new york in historic first" }
 
-Frbeleito:::txtsize --> Adcatpnimsnt:::txtsize
-Adcatpnimsnt:::txtsize --> Atveiouldiarr:::txtsize
-Atveiouldiarr:::txtsize --> Aiilcedeyeas:::txtsize
-Atveiouldiarr:::txtsize --> Sstceoeatruotrdtn:::txtsize
-Adcatpnimsnt:::txtsize --> Alsertolncrl:::txtsize
-Alsertolncrl:::txtsize --> Aiilcedeyeas:::txtsize
-Frbeleito:::txtsize --> Aegoehaerosrs:::txtsize
+Innuemrfrvvu:::txtsize --> UanpoloifrBe:::txtsize
+UanpoloifrBe:::txtsize --> TtoeBealt:::txtsize
+TtoeBealt:::txtsize --> Lissashrtfisal:::txtsize
+TtoeBealt:::txtsize --> SKaolvsbeuboen:::txtsize
+UanpoloifrBe:::txtsize --> Taiteeiwniinorem:::txtsize
+Taiteeiwniinorem:::txtsize --> UgcuemfoiGttfw:::txtsize
+Taiteeiwniinorem:::txtsize --> BronomCgrtonpn:::txtsize
+Innuemrfrvvu:::txtsize --> Spnenemuroplnrtnu:::txtsize
+Spnenemuroplnrtnu:::txtsize --> RsSavmhnv:::txtsize
+RsSavmhnv:::txtsize --> UhituheTUrre:::txtsize
+RsSavmhnv:::txtsize --> TiosaanUvt:::txtsize
+Spnenemuroplnrtnu:::txtsize --> Eihbdreiosure:::txtsize
+Eihbdreiosure:::txtsize --> GrtwcgodoaNr:::txtsize
+Eihbdreiosure:::txtsize --> Tsiunicfwitf:::txtsize
 
-TfsztaaMort@{ shape: win-pane, label: "_Published Nov 17, 2025, 08:57 AM_
-Trump floats venezuela talks as us labels maduro a terrorist" }
-Ucceinaeiiburz@{ shape: win-pane, label: "_Published Nov 17, 2025, 03:14 AM_
-Us aircraft carrier arrives in the caribbean amid military buildup near venezuela" }
-Eirdyroersl@{ shape: win-pane, label: "_Published Oct 31, 2025, 06:16 PM_
-Explainer: are the deadly us strikes on alleged drug vessels legal?​" }
-Nselgufexeeov@{ shape: win-pane, label: "_Published Oct 29, 2025, 01:00 AM_
-New us strikes kill 14 alleged drug traffickers, mexico leads rescue of survivor" }
-VulClaaispbr@{ shape: win-pane, label: "_Published Oct 28, 2025, 01:03 PM_
-Venezuela claims cia ‘false flag’ attack foiled, as us deploys bombers" }
-VuonipcnAraTo@{ shape: win-pane, label: "_Published Oct 27, 2025, 08:06 AM_
-Venezuela condemns ‘military provocation’ by cia and trinidad and tobago" }
-TcrAotnzrnsou@{ shape: win-pane, label: "_Published Oct 16, 2025, 06:05 AM_
-Trump confirms cia authorisation in venezuela, raising pressure on maduro" }
-VuopccfSnctas@{ shape: win-pane, label: "_Published Oct 26, 2025, 10:50 AM_
-Venezuela vows to protect its coast from us potential ‘covert operations’" }
-orsomalduttpon@{ shape: win-pane, label: "_Published Nov 14, 2025, 07:37 PM_
-29% of americans support us military killing drug suspects, reuters/ipsos poll finds" }
-Ucceeonigsteens@{ shape: win-pane, label: "_Published Nov 11, 2025, 11:41 PM_
-Us aircraft carrier moves into latin america region, escalating venezuela tensions" }
-Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
-Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
-Uddrngufialhe@{ shape: win-pane, label: "_Published Nov 14, 2025, 06:32 AM_
-Us conducted 20th strike on alleged drug trafficking boat earlier this week" }
-MRdsriUinkGi@{ shape: win-pane, label: "_Published Nov 13, 2025, 08:44 AM_
-Marco rubio dismisses criticism of us caribbean strikes at g-7 meeting" }
-Uildcisiiig@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:20 PM_
-Us strikes alleged drug-carrying vessels in pacific, killing six" }
+Trsanelgpcoflnm@{ shape: win-pane, label: "_Published Nov 17, 2025, 11:57 AM_
+Trump reverses stance on epstein files, urges republicans to vote for releasing them" }
+HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
+‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
+Jetisdntigntvem@{ shape: win-pane, label: "_Published Jul 08, 2025, 04:02 AM_
+Jeffrey epstein died by suicide, has no sex trafficking ‘client list’: us government memo" }
+Jetcriiebceiy@{ shape: win-pane, label: "_Published Apr 26, 2025, 12:15 PM_
+Jeffrey epstein accuser virginia giuffre dies by suicide, her family says" }
+MesciuiEie@{ shape: win-pane, label: "_Published Jun 07, 2025, 09:45 PM_
+Musk deletes post claiming trump is ‘in the epstein files’" }
+Tspnerifag@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:45 AM_
+Trump says epstein ‘stole’ underage victim from mar-a-lago spa" }
+WodoumtnMov@{ shape: win-pane, label: "_Published Jul 19, 2025, 06:16 AM_
+What you need to know about trump, epstein and the maga controversy" }
+Tseentnxneyes@{ shape: win-pane, label: "_Published Jul 29, 2025, 02:33 AM_
+Trump says he turned down invitation to sex offender jeffrey epstein’s island" }
+Utemerddostimt@{ shape: win-pane, label: "_Published Nov 15, 2025, 05:12 AM_
+Us justice department heeds trump’s demand to probe epstein ties with democrats" }
+HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
+‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
+Jetisdntigntvem@{ shape: win-pane, label: "_Published Jul 08, 2025, 04:02 AM_
+Jeffrey epstein died by suicide, has no sex trafficking ‘client list’: us government memo" }
+Tspnerifag@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:45 AM_
+Trump says epstein ‘stole’ underage victim from mar-a-lago spa" }
+TttohYivpnpn@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:12 AM_
+Trump threatens to sue the new york times over reporting on epstein note" }
+Tsgrytteeoa@{ shape: win-pane, label: "_Published Sep 09, 2025, 04:23 AM_
+Trump’s alleged birthday note to epstein released by house panel" }
+Nstrgehnslr@{ shape: win-pane, label: "_Published Sep 10, 2025, 09:00 AM_
+‘not my signature’: trump again denies he penned epstein letter" }
 
-TfsztaaMort:::txtsize --> Ucceinaeiiburz:::txtsize
-Ucceinaeiiburz:::txtsize --> Eirdyroersl:::txtsize
-Eirdyroersl:::txtsize --> Nselgufexeeov:::txtsize
-Eirdyroersl:::txtsize --> VulClaaispbr:::txtsize
-Ucceinaeiiburz:::txtsize --> VuonipcnAraTo:::txtsize
-VuonipcnAraTo:::txtsize --> TcrAotnzrnsou:::txtsize
-VuonipcnAraTo:::txtsize --> VuopccfSnctas:::txtsize
-TfsztaaMort:::txtsize --> orsomalduttpon:::txtsize
-orsomalduttpon:::txtsize --> Ucceeonigsteens:::txtsize
-Ucceeonigsteens:::txtsize --> Uidycceuomasnswee:::txtsize
-orsomalduttpon:::txtsize --> Uddrngufialhe:::txtsize
-Uddrngufialhe:::txtsize --> MRdsriUinkGi:::txtsize
-Uddrngufialhe:::txtsize --> Uildcisiiig:::txtsize
+Trsanelgpcoflnm:::txtsize --> HwtipngesTkfot:::txtsize
+HwtipngesTkfot:::txtsize --> Jetisdntigntvem:::txtsize
+Jetisdntigntvem:::txtsize --> Jetcriiebceiy:::txtsize
+Jetisdntigntvem:::txtsize --> MesciuiEie:::txtsize
+HwtipngesTkfot:::txtsize --> Tspnerifag:::txtsize
+Tspnerifag:::txtsize --> WodoumtnMov:::txtsize
+Tspnerifag:::txtsize --> Tseentnxneyes:::txtsize
+Trsanelgpcoflnm:::txtsize --> Utemerddostimt:::txtsize
+Utemerddostimt:::txtsize --> HwtipngesTkfot:::txtsize
+HwtipngesTkfot:::txtsize --> Jetisdntigntvem:::txtsize
+HwtipngesTkfot:::txtsize --> Tspnerifag:::txtsize
+Utemerddostimt:::txtsize --> TttohYivpnpn:::txtsize
+TttohYivpnpn:::txtsize --> Tsgrytteeoa:::txtsize
+TttohYivpnpn:::txtsize --> Nstrgehnslr:::txtsize
 
 ```
-<i>Last updated: 2025-11-17 12:00:26.523631 (GMT+8)</i>
+<i>Last updated: 2025-11-17 16:00:55.523969 (GMT+8)</i>
 <!-- END -->
