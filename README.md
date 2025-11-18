@@ -16,6 +16,38 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Poitloridcs@{ shape: win-pane, label: "_Published Nov 18, 2025, 02:50 PM_
+Poor countries got $1.3 trillion loans from china. so did rich ones." }
+CoeSlsoegvc@{ shape: win-pane, label: "_Published Sep 13, 2024, 10:05 AM_
+China outspends us by billions in global lending: us govt watchdog" }
+CfgeuRaessbvsih@{ shape: win-pane, label: "_Published Apr 29, 2024, 08:18 AM_
+China firms go ‘underground’ on russia payments as banks pull back over us sanctions threat" }
+Feuiea@{ shape: win-pane, label: "_Published Feb 24, 2023, 05:54 PM_
+Feb 24, 2022: the day russia invaded ukraine" }
+CsegosdnndiAace@{ shape: win-pane, label: "_Published Feb 28, 2024, 10:27 AM_
+China says beijing and moscow should strengthen coordination on asia-pacific issues" }
+RaapnknStndos@{ shape: win-pane, label: "_Published Jun 21, 2024, 10:11 AM_
+Russia, china find payment workaround as us sanctions net widens, sources say" }
+BbSssktout@{ shape: win-pane, label: "_Published Jun 21, 2024, 08:43 AM_
+Biden bans us sales of kaspersky software over russia ties" }
+Ulanihiuiseeo@{ shape: win-pane, label: "_Published Jun 14, 2024, 02:56 AM_
+Us mulls new actions against china firms supplying russia defence sector" }
+
+Poitloridcs:::txtsize --> CoeSlsoegvc:::txtsize
+CoeSlsoegvc:::txtsize --> CfgeuRaessbvsih:::txtsize
+CfgeuRaessbvsih:::txtsize --> Feuiea:::txtsize
+CfgeuRaessbvsih:::txtsize --> CsegosdnndiAace:::txtsize
+CoeSlsoegvc:::txtsize --> RaapnknStndos:::txtsize
+RaapnknStndos:::txtsize --> BbSssktout:::txtsize
+RaapnknStndos:::txtsize --> Ulanihiuiseeo:::txtsize
+
+Bsonpadlsker@{ shape: win-pane, label: "_Published Nov 18, 2025, 01:30 PM_
+British school bans k-pop bops after ‘demon’ lyrics spark heavenly drama" }
+Keuspkgeie@{ shape: win-pane, label: "_Published Nov 11, 2025, 05:15 PM_
+Kpop demon hunters pop-up to make singapore stop in december" }
+
+Bsonpadlsker:::txtsize --> Keuspkgeie:::txtsize
+
 Therltsfwrons@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:55 AM_
 Trump has the power to release the epstein files, with or without congress" }
 ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
@@ -32,74 +64,6 @@ ATrsHpsaEie:::txtsize --> TuRlstrspnsvla:::txtsize
 TuRlstrspnsvla:::txtsize --> HwtipngesTkfot:::txtsize
 TuRlstrspnsvla:::txtsize --> Utemerddostimt:::txtsize
 
-ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
-After trump reversal, us house pushes forward on epstein vote" }
-TuRlstrspnsvla@{ shape: win-pane, label: "_Published Nov 17, 2025, 11:57 AM_
-Trump urges republicans to vote for release of epstein files in reversal of stance" }
-HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
-‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
-Jetisdntigntvem@{ shape: win-pane, label: "_Published Jul 08, 2025, 04:02 AM_
-Jeffrey epstein died by suicide, has no sex trafficking ‘client list’: us government memo" }
-Tspnerifag@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:45 AM_
-Trump says epstein ‘stole’ underage victim from mar-a-lago spa" }
-Utemerddostimt@{ shape: win-pane, label: "_Published Nov 15, 2025, 05:12 AM_
-Us justice department heeds trump’s demand to probe epstein ties with democrats" }
-HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
-‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
-TttohYivpnpn@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:12 AM_
-Trump threatens to sue the new york times over reporting on epstein note" }
-
-ATrsHpsaEie:::txtsize --> TuRlstrspnsvla:::txtsize
-TuRlstrspnsvla:::txtsize --> HwtipngesTkfot:::txtsize
-HwtipngesTkfot:::txtsize --> Jetisdntigntvem:::txtsize
-HwtipngesTkfot:::txtsize --> Tspnerifag:::txtsize
-TuRlstrspnsvla:::txtsize --> Utemerddostimt:::txtsize
-Utemerddostimt:::txtsize --> HwtipngesTkfot:::txtsize
-Utemerddostimt:::txtsize --> TttohYivpnpn:::txtsize
-
-UseshldfnePis@{ shape: win-pane, label: "_Published Nov 18, 2025, 10:10 AM_
-Un says its ‘regrets’ death penalty ordered for bangladesh ex-pm sheikh hasina" }
-Adeadrttea@{ shape: win-pane, label: "_Published Nov 18, 2024, 01:01 AM_
-Around 1,500 killed in bangladesh protests that ousted pm hasina" }
-Tartnemnasgo@{ shape: win-pane, label: "_Published Aug 02, 2024, 11:35 PM_
-Thousands protest in bangladesh, demanding pm hasina’s resignation" }
-EihBasnoiajo@{ shape: win-pane, label: "_Published Jul 18, 2024, 04:43 PM_
-Explainer: why are bangladesh students protesting against job quotas?" }
-Bapetannatrust@{ shape: win-pane, label: "_Published Jul 31, 2024, 09:49 PM_
-Bangladesh police fire tear gas, sound grenades as protesters return to streets" }
-Ruoueehead@{ shape: win-pane, label: "_Published Nov 16, 2024, 10:12 AM_
-Revolution over but more protests than ever in bangladesh" }
-BaPislryeobm@{ shape: win-pane, label: "_Published Aug 05, 2024, 04:39 PM_
-Bangladesh pm sheikh hasina flees, army says interim govt to be formed" }
-Nlahdssgadoosecr@{ shape: win-pane, label: "_Published Aug 08, 2024, 11:31 PM_
-Nobel laureate muhammad yunus takes charge of bangladesh, hopes to heal strife-torn country" }
-Baseasnohsarosn@{ shape: win-pane, label: "_Published Nov 17, 2025, 04:11 PM_
-Bangladesh’s ousted pm hasina sentenced to death in absentia for crackdown on students" }
-BaPislryeobm@{ shape: win-pane, label: "_Published Aug 05, 2024, 04:39 PM_
-Bangladesh pm sheikh hasina flees, army says interim govt to be formed" }
-Wartrngs@{ shape: win-pane, label: "_Published Aug 05, 2024, 02:30 PM_
-Why deadly protests are roiling bangladesh" }
-Bainrtmaeoo@{ shape: win-pane, label: "_Published Jul 01, 2025, 11:36 AM_
-Bangladeshis cling to protest dreams a year after revolution" }
-EihBasnoiajo@{ shape: win-pane, label: "_Published Jul 18, 2024, 04:43 PM_
-Explainer: why are bangladesh students protesting against job quotas?" }
-Babssnelrcrt@{ shape: win-pane, label: "_Published Jul 20, 2024, 02:13 PM_
-Bangladesh blocks roads and internet, deploys army to curb protests" }
-
-UseshldfnePis:::txtsize --> Adeadrttea:::txtsize
-Adeadrttea:::txtsize --> Tartnemnasgo:::txtsize
-Tartnemnasgo:::txtsize --> EihBasnoiajo:::txtsize
-Tartnemnasgo:::txtsize --> Bapetannatrust:::txtsize
-Adeadrttea:::txtsize --> Ruoueehead:::txtsize
-Ruoueehead:::txtsize --> BaPislryeobm:::txtsize
-Ruoueehead:::txtsize --> Nlahdssgadoosecr:::txtsize
-UseshldfnePis:::txtsize --> Baseasnohsarosn:::txtsize
-Baseasnohsarosn:::txtsize --> BaPislryeobm:::txtsize
-BaPislryeobm:::txtsize --> Wartrngs:::txtsize
-Baseasnohsarosn:::txtsize --> Bainrtmaeoo:::txtsize
-Bainrtmaeoo:::txtsize --> EihBasnoiajo:::txtsize
-Bainrtmaeoo:::txtsize --> Babssnelrcrt:::txtsize
-
 ```
-<i>Last updated: 2025-11-18 12:00:15.618760 (GMT+8)</i>
+<i>Last updated: 2025-11-18 16:00:36.215091 (GMT+8)</i>
 <!-- END -->
