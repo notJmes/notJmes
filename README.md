@@ -16,144 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Faidrteua@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:45 PM_
-Four jailed in sweden far-right ‘fitness club’ trial" }
-Hrrnengfgtc@{ shape: win-pane, label: "_Published Oct 31, 2025, 12:42 AM_
-Hate-crime trial in sweden shines light on far-right ‘fitness clubs’" }
-VncnisdiUilps@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:05 PM_
-Violence, racism, and nazi praise: the dark side of us political group chats" }
-Tsanitwrske@{ shape: win-pane, label: "_Published Oct 22, 2025, 12:25 PM_
-Trump special counsel pick withdraws over ‘nazi streak’ comments" }
-Tsanitwrske@{ shape: win-pane, label: "_Published Oct 22, 2025, 12:25 PM_
-Trump special counsel pick withdraws over ‘nazi streak’ comments" }
-FgePsrceiccs@{ shape: win-pane, label: "_Published Oct 30, 2025, 11:25 PM_
-Far-right freedom party suffers shock reversal in dutch elections" }
-Eogsrwtttah@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:31 AM_
-Exit poll suggests centrists win dutch vote, beating far right" }
-Cibelotaosfoyrie@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:25 AM_
-Centrist rob jetten could become netherlands’ youngest and first openly gay prime minister" }
-Hrrnengfgtc@{ shape: win-pane, label: "_Published Oct 31, 2025, 12:42 AM_
-Hate-crime trial in sweden shines light on far-right ‘fitness clubs’" }
-VncnisdiUilps@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:05 PM_
-Violence, racism, and nazi praise: the dark side of us political group chats" }
-Tsanitwrske@{ shape: win-pane, label: "_Published Oct 22, 2025, 12:25 PM_
-Trump special counsel pick withdraws over ‘nazi streak’ comments" }
-Tsanitwrske@{ shape: win-pane, label: "_Published Oct 22, 2025, 12:25 PM_
-Trump special counsel pick withdraws over ‘nazi streak’ comments" }
-FgePsrceiccs@{ shape: win-pane, label: "_Published Oct 30, 2025, 11:25 PM_
-Far-right freedom party suffers shock reversal in dutch elections" }
-Eogsrwtttah@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:31 AM_
-Exit poll suggests centrists win dutch vote, beating far right" }
-Cibelotaosfoyrie@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:25 AM_
-Centrist rob jetten could become netherlands’ youngest and first openly gay prime minister" }
+Uriopcdigxnsl@{ shape: win-pane, label: "_Published Nov 19, 2025, 03:29 AM_
+Us court strikes down republican redistricting of texas congressional map" }
+TRlsoucosattami@{ shape: win-pane, label: "_Published Aug 21, 2025, 02:11 AM_
+Texas republicans approve trump-backed congressional map to protect party’s majority" }
+WHlhkctTsgoi@{ shape: win-pane, label: "_Published Aug 20, 2025, 06:19 AM_
+White house launches tiktok account with trump saying ‘i am your voice’" }
+Tkgkwunpaaaspmst@{ shape: win-pane, label: "_Published Jul 25, 2025, 03:32 AM_
+Tiktok will go dark in us without chinese approval of sale deal, says trump’s commerce secretary" }
+Tboabiisuo@{ shape: win-pane, label: "_Published Aug 21, 2025, 01:19 AM_
+Trump buys more than $128m in bonds in office, disclosure shows" }
+Taakcsohnhnu@{ shape: win-pane, label: "_Published Aug 20, 2025, 08:52 AM_
+Trump again attacks fed chair, says powell ‘hurting’ the housing industry" }
+Treucafecnis@{ shape: win-pane, label: "_Published Aug 20, 2025, 07:33 AM_
+Trump revokes security clearance of 37 former and current officials" }
+TRlsoucosattami@{ shape: win-pane, label: "_Published Aug 21, 2025, 02:11 AM_
+Texas republicans approve trump-backed congressional map to protect party’s majority" }
+WHlhkctTsgoi@{ shape: win-pane, label: "_Published Aug 20, 2025, 06:19 AM_
+White house launches tiktok account with trump saying ‘i am your voice’" }
+Tkgkwunpaaaspmst@{ shape: win-pane, label: "_Published Jul 25, 2025, 03:32 AM_
+Tiktok will go dark in us without chinese approval of sale deal, says trump’s commerce secretary" }
+Tboabiisuo@{ shape: win-pane, label: "_Published Aug 21, 2025, 01:19 AM_
+Trump buys more than $128m in bonds in office, disclosure shows" }
+Taakcsohnhnu@{ shape: win-pane, label: "_Published Aug 20, 2025, 08:52 AM_
+Trump again attacks fed chair, says powell ‘hurting’ the housing industry" }
+Treucafecnis@{ shape: win-pane, label: "_Published Aug 20, 2025, 07:33 AM_
+Trump revokes security clearance of 37 former and current officials" }
 
-Faidrteua:::txtsize --> Hrrnengfgtc:::txtsize
-Hrrnengfgtc:::txtsize --> VncnisdiUilps:::txtsize
-VncnisdiUilps:::txtsize --> Tsanitwrske:::txtsize
-VncnisdiUilps:::txtsize --> Tsanitwrske:::txtsize
-Hrrnengfgtc:::txtsize --> FgePsrceiccs:::txtsize
-FgePsrceiccs:::txtsize --> Eogsrwtttah:::txtsize
-FgePsrceiccs:::txtsize --> Cibelotaosfoyrie:::txtsize
-Faidrteua:::txtsize --> Hrrnengfgtc:::txtsize
-Hrrnengfgtc:::txtsize --> VncnisdiUilps:::txtsize
-VncnisdiUilps:::txtsize --> Tsanitwrske:::txtsize
-VncnisdiUilps:::txtsize --> Tsanitwrske:::txtsize
-Hrrnengfgtc:::txtsize --> FgePsrceiccs:::txtsize
-FgePsrceiccs:::txtsize --> Eogsrwtttah:::txtsize
-FgePsrceiccs:::txtsize --> Cibelotaosfoyrie:::txtsize
+Uriopcdigxnsl:::txtsize --> TRlsoucosattami:::txtsize
+TRlsoucosattami:::txtsize --> WHlhkctTsgoi:::txtsize
+WHlhkctTsgoi:::txtsize --> Tkgkwunpaaaspmst:::txtsize
+TRlsoucosattami:::txtsize --> Tboabiisuo:::txtsize
+Tboabiisuo:::txtsize --> Taakcsohnhnu:::txtsize
+Tboabiisuo:::txtsize --> Treucafecnis:::txtsize
+Uriopcdigxnsl:::txtsize --> TRlsoucosattami:::txtsize
+TRlsoucosattami:::txtsize --> WHlhkctTsgoi:::txtsize
+WHlhkctTsgoi:::txtsize --> Tkgkwunpaaaspmst:::txtsize
+TRlsoucosattami:::txtsize --> Tboabiisuo:::txtsize
+Tboabiisuo:::txtsize --> Taakcsohnhnu:::txtsize
+Tboabiisuo:::txtsize --> Treucafecnis:::txtsize
 
-Pdaoolraskritg@{ shape: win-pane, label: "_Published Nov 18, 2025, 10:03 PM_
-Poland’s pm says two responsible for railway blast worked for russian intelligence" }
-Pdeonlnrsabe@{ shape: win-pane, label: "_Published Nov 17, 2025, 04:32 PM_
-Poland suspects ‘foreign intelligence services’ for rail sabotage" }
-Pdceitiomsa@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:25 PM_
-Poland launches new military training programme, aims to train 400,000 in 2026" }
-Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
-Timeline: how russia's attack on ukraine unfolded" }
-Fuunensklyn@{ shape: win-pane, label: "_Published Sep 13, 2025, 05:45 PM_
-Fearful of russian aggression, poles flock to military training" }
-PdileBudogo@{ shape: win-pane, label: "_Published Nov 14, 2025, 04:56 PM_
-Poland says it will reopen two belarus border crossings on nov 17" }
-Pdceitiomsa@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:25 PM_
-Poland launches new military training programme, aims to train 400,000 in 2026" }
-Pdmaatsaeini@{ shape: win-pane, label: "_Published Sep 20, 2025, 02:16 PM_
-Poland scrambles aircraft after russia launches strikes on ukraine" }
-Pdeonlnrsabe@{ shape: win-pane, label: "_Published Nov 17, 2025, 04:32 PM_
-Poland suspects ‘foreign intelligence services’ for rail sabotage" }
-Pdceitiomsa@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:25 PM_
-Poland launches new military training programme, aims to train 400,000 in 2026" }
-Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
-Timeline: how russia's attack on ukraine unfolded" }
-Fuunensklyn@{ shape: win-pane, label: "_Published Sep 13, 2025, 05:45 PM_
-Fearful of russian aggression, poles flock to military training" }
-PdileBudogo@{ shape: win-pane, label: "_Published Nov 14, 2025, 04:56 PM_
-Poland says it will reopen two belarus border crossings on nov 17" }
-Pdceitiomsa@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:25 PM_
-Poland launches new military training programme, aims to train 400,000 in 2026" }
-Pdmaatsaeini@{ shape: win-pane, label: "_Published Sep 20, 2025, 02:16 PM_
-Poland scrambles aircraft after russia launches strikes on ukraine" }
+FhtPekainaea@{ shape: win-pane, label: "_Published Nov 19, 2025, 03:07 AM_
+French court says perrier can keep marketing as ‘natural mineral water’" }
+Peeovet@{ shape: win-pane, label: "_Published May 08, 2025, 07:02 AM_
+Perrier ordered to remove water filters" }
+NesniFhrt@{ shape: win-pane, label: "_Published Apr 06, 2024, 12:49 AM_
+Nestle steps up monitoring of french mineral water" }
+Beetmlcitruhty@{ shape: win-pane, label: "_Published Jan 09, 2024, 10:22 AM_
+Bottled water contains more plastic particles than previously thought: study" }
+Beetmlcitruhty@{ shape: win-pane, label: "_Published Jan 09, 2024, 10:22 AM_
+Bottled water contains more plastic particles than previously thought: study" }
+NesniFhrt@{ shape: win-pane, label: "_Published Apr 06, 2024, 12:49 AM_
+Nestle steps up monitoring of french mineral water" }
+Beetmlcitruhty@{ shape: win-pane, label: "_Published Jan 09, 2024, 10:22 AM_
+Bottled water contains more plastic particles than previously thought: study" }
 
-Pdaoolraskritg:::txtsize --> Pdeonlnrsabe:::txtsize
-Pdeonlnrsabe:::txtsize --> Pdceitiomsa:::txtsize
-Pdceitiomsa:::txtsize --> Tiwitnifd:::txtsize
-Pdceitiomsa:::txtsize --> Fuunensklyn:::txtsize
-Pdeonlnrsabe:::txtsize --> PdileBudogo:::txtsize
-PdileBudogo:::txtsize --> Pdceitiomsa:::txtsize
-PdileBudogo:::txtsize --> Pdmaatsaeini:::txtsize
-Pdaoolraskritg:::txtsize --> Pdeonlnrsabe:::txtsize
-Pdeonlnrsabe:::txtsize --> Pdceitiomsa:::txtsize
-Pdceitiomsa:::txtsize --> Tiwitnifd:::txtsize
-Pdceitiomsa:::txtsize --> Fuunensklyn:::txtsize
-Pdeonlnrsabe:::txtsize --> PdileBudogo:::txtsize
-PdileBudogo:::txtsize --> Pdceitiomsa:::txtsize
-PdileBudogo:::txtsize --> Pdmaatsaeini:::txtsize
+FhtPekainaea:::txtsize --> Peeovet:::txtsize
+Peeovet:::txtsize --> NesniFhrt:::txtsize
+NesniFhrt:::txtsize --> Beetmlcitruhty:::txtsize
+Peeovet:::txtsize --> Beetmlcitruhty:::txtsize
+FhtPekainaea:::txtsize --> NesniFhrt:::txtsize
+NesniFhrt:::txtsize --> Beetmlcitruhty:::txtsize
 
-CmsitnBinuh@{ shape: win-pane, label: "_Published Nov 18, 2025, 10:03 PM_
-Car ramming, stabbing attack in west bank kills one, injures three" }
-Nyoawiceatslnieht@{ shape: win-pane, label: "_Published Nov 18, 2025, 04:38 AM_
-Netanyahu vows crackdown on violence after israeli attacks on palestinian villages in the west bank" }
-Ilyssatenrn@{ shape: win-pane, label: "_Published Nov 16, 2025, 06:31 PM_
-Israeli army kills palestinian youth in west bank operation" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-Daastemyriihc@{ shape: win-pane, label: "_Published Nov 16, 2025, 07:59 AM_
-Displaced gaza residents face more misery as torrential rain lashes enclave" }
-Feleirotnussa@{ shape: win-pane, label: "_Published Nov 12, 2025, 02:56 AM_
-France to help palestinians draft constitution for future state, says macron" }
-Tdsastoesat@{ shape: win-pane, label: "_Published Jul 25, 2025, 11:14 PM_
-Trump dismisses macron’s plan to recognise palestinian state" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Nyoawiceatslnieht@{ shape: win-pane, label: "_Published Nov 18, 2025, 04:38 AM_
-Netanyahu vows crackdown on violence after israeli attacks on palestinian villages in the west bank" }
-Ilyssatenrn@{ shape: win-pane, label: "_Published Nov 16, 2025, 06:31 PM_
-Israeli army kills palestinian youth in west bank operation" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-Daastemyriihc@{ shape: win-pane, label: "_Published Nov 16, 2025, 07:59 AM_
-Displaced gaza residents face more misery as torrential rain lashes enclave" }
-Feleirotnussa@{ shape: win-pane, label: "_Published Nov 12, 2025, 02:56 AM_
-France to help palestinians draft constitution for future state, says macron" }
-Tdsastoesat@{ shape: win-pane, label: "_Published Jul 25, 2025, 11:14 PM_
-Trump dismisses macron’s plan to recognise palestinian state" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+CudmlufiiiN@{ shape: win-pane, label: "_Published Nov 19, 2025, 02:55 AM_
+Court upholds dismissal of trump defamation suit against cnn" }
+BtnfTdac@{ shape: win-pane, label: "_Published Nov 17, 2025, 11:28 PM_
+Bbc ‘determined to fight’ trump defamation claim" }
+Tsieooieet@{ shape: win-pane, label: "_Published Nov 15, 2025, 10:09 AM_
+Trump says will sue bbc for up to $6.4 billion over video edit" }
+TttBhiwaagfio@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:49 AM_
+Trump threatens bbc with $1.3 billion lawsuit as bbc apologises for edit error" }
+BiCosueoshrtaoi@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:07 AM_
+Britain’s bbc apologises to trump over panorama speech edit, rejects defamation claim" }
+Bshfqfroneri@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:45 AM_
+Bbc boss and head of news quit after trump documentary edit criticism" }
+Gonsobhcyerws@{ shape: win-pane, label: "_Published Jul 15, 2025, 01:09 AM_
+Gaza documentary shown on bbc breached accuracy guideline, review finds" }
+BsislBsisedpsnies@{ shape: win-pane, label: "_Published Nov 09, 2025, 09:00 PM_
+British minister says claims bbc misled viewers with edited trump clips are ‘incredibly serious’" }
+BtnfTdac@{ shape: win-pane, label: "_Published Nov 17, 2025, 11:28 PM_
+Bbc ‘determined to fight’ trump defamation claim" }
+Tsieooieet@{ shape: win-pane, label: "_Published Nov 15, 2025, 10:09 AM_
+Trump says will sue bbc for up to $6.4 billion over video edit" }
+TttBhiwaagfio@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:49 AM_
+Trump threatens bbc with $1.3 billion lawsuit as bbc apologises for edit error" }
+BiCosueoshrtaoi@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:07 AM_
+Britain’s bbc apologises to trump over panorama speech edit, rejects defamation claim" }
+Bshfqfroneri@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:45 AM_
+Bbc boss and head of news quit after trump documentary edit criticism" }
+Gonsobhcyerws@{ shape: win-pane, label: "_Published Jul 15, 2025, 01:09 AM_
+Gaza documentary shown on bbc breached accuracy guideline, review finds" }
+BsislBsisedpsnies@{ shape: win-pane, label: "_Published Nov 09, 2025, 09:00 PM_
+British minister says claims bbc misled viewers with edited trump clips are ‘incredibly serious’" }
 
-CmsitnBinuh:::txtsize --> Nyoawiceatslnieht:::txtsize
-Nyoawiceatslnieht:::txtsize --> Ilyssatenrn:::txtsize
-Ilyssatenrn:::txtsize --> Sbsrcdnacaale:::txtsize
-Ilyssatenrn:::txtsize --> Daastemyriihc:::txtsize
-Nyoawiceatslnieht:::txtsize --> Feleirotnussa:::txtsize
-Feleirotnussa:::txtsize --> Tdsastoesat:::txtsize
-Feleirotnussa:::txtsize --> AtHfezerydatoGel:::txtsize
-CmsitnBinuh:::txtsize --> Nyoawiceatslnieht:::txtsize
-Nyoawiceatslnieht:::txtsize --> Ilyssatenrn:::txtsize
-Ilyssatenrn:::txtsize --> Sbsrcdnacaale:::txtsize
-Ilyssatenrn:::txtsize --> Daastemyriihc:::txtsize
-Nyoawiceatslnieht:::txtsize --> Feleirotnussa:::txtsize
-Feleirotnussa:::txtsize --> Tdsastoesat:::txtsize
-Feleirotnussa:::txtsize --> AtHfezerydatoGel:::txtsize
+CudmlufiiiN:::txtsize --> BtnfTdac:::txtsize
+BtnfTdac:::txtsize --> Tsieooieet:::txtsize
+Tsieooieet:::txtsize --> TttBhiwaagfio:::txtsize
+Tsieooieet:::txtsize --> BiCosueoshrtaoi:::txtsize
+BtnfTdac:::txtsize --> Bshfqfroneri:::txtsize
+Bshfqfroneri:::txtsize --> Gonsobhcyerws:::txtsize
+Bshfqfroneri:::txtsize --> BsislBsisedpsnies:::txtsize
+CudmlufiiiN:::txtsize --> BtnfTdac:::txtsize
+BtnfTdac:::txtsize --> Tsieooieet:::txtsize
+Tsieooieet:::txtsize --> TttBhiwaagfio:::txtsize
+Tsieooieet:::txtsize --> BiCosueoshrtaoi:::txtsize
+BtnfTdac:::txtsize --> Bshfqfroneri:::txtsize
+Bshfqfroneri:::txtsize --> Gonsobhcyerws:::txtsize
+Bshfqfroneri:::txtsize --> BsislBsisedpsnies:::txtsize
 
 ```
-<i>Last updated: 2025-11-19 00:00:36.134184 (GMT+8)</i>
+<i>Last updated: 2025-11-19 04:01:00.028847 (GMT+8)</i>
 <!-- END -->
