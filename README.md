@@ -16,144 +16,90 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Udtrsisrhtmtpi@{ shape: win-pane, label: "_Published Nov 18, 2025, 07:45 AM_
-Us border patrol arrests over 130 in first 48 hours of charlotte immigration operation" }
-Uroarneegod@{ shape: win-pane, label: "_Published Sep 09, 2025, 02:06 AM_
-Us supreme court backs trump on aggressive immigration raids" }
-IrnssltlnwIrai@{ shape: win-pane, label: "_Published Jun 17, 2025, 06:41 PM_
-Immigration raids in los angeles hit small business owners: ‘it’s worse than covid’" }
-Ropssennsrgod@{ shape: win-pane, label: "_Published Jun 07, 2025, 12:36 PM_
-Riot police, protesters square off in los angeles after immigration raids" }
-Uiifldrprome@{ shape: win-pane, label: "_Published Jun 14, 2025, 12:44 PM_
-Us immigration officials told to largely pause raids on farms, hotels" }
-Rndpiotmcirnrn@{ shape: win-pane, label: "_Published Sep 08, 2025, 11:00 PM_
-Raid on hyundai-lg plant in us points to trump’s focus on immigration enforcement" }
-WaanUerrfesodnr@{ shape: win-pane, label: "_Published Sep 05, 2025, 12:25 PM_
-Work paused at hyundai’s us site after hundreds of workers, mostly korean, detained in raid" }
-SKwwrainmaroler@{ shape: win-pane, label: "_Published Sep 08, 2025, 01:26 PM_
-South korea wants workers detained in hyundai immigration raid to be able to re-enter us" }
-Asdriveatiirnk@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:30 AM_
-Agents raid daycare, senior living centre as part of chicago immigration crackdown" }
-IfkmCgurrap@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:45 AM_
-Ice officer kills man in chicago suburb during arrest attempt" }
-ToeeaKneaSoah@{ shape: win-pane, label: "_Published Sep 11, 2025, 07:34 AM_
-Trump offered to let detained korean workers stay in us but most heading home" }
-WthrwvatoitA@{ shape: win-pane, label: "_Published Sep 10, 2025, 02:07 PM_
-‘we all thought the raids were over’: fears return for immigrants in la" }
-Ialttuoigcrhmtfe@{ shape: win-pane, label: "_Published Nov 06, 2025, 05:05 AM_
-Ice plans call centre to track unaccompanied migrant children, other immigration offenders" }
-Taitisgonfeuoigcr@{ shape: win-pane, label: "_Published Feb 23, 2025, 09:07 PM_
-Trump administration directs immigration agents to find, deport unaccompanied migrant children" }
-Taitfuoigcrvtyeth@{ shape: win-pane, label: "_Published Oct 04, 2025, 09:51 AM_
-Trump administration offers unaccompanied migrant children $3,200 to voluntarily leave us, letter shows" }
+Therltsfwrons@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:55 AM_
+Trump has the power to release the epstein files, with or without congress" }
+ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
+After trump reversal, us house pushes forward on epstein vote" }
+TuRlstrspnsvla@{ shape: win-pane, label: "_Published Nov 17, 2025, 11:57 AM_
+Trump urges republicans to vote for release of epstein files in reversal of stance" }
+HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
+‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
+Utemerddostimt@{ shape: win-pane, label: "_Published Nov 15, 2025, 05:12 AM_
+Us justice department heeds trump’s demand to probe epstein ties with democrats" }
 
-Udtrsisrhtmtpi:::txtsize --> Uroarneegod:::txtsize
-Uroarneegod:::txtsize --> IrnssltlnwIrai:::txtsize
-IrnssltlnwIrai:::txtsize --> Ropssennsrgod:::txtsize
-IrnssltlnwIrai:::txtsize --> Uiifldrprome:::txtsize
-Uroarneegod:::txtsize --> Rndpiotmcirnrn:::txtsize
-Rndpiotmcirnrn:::txtsize --> WaanUerrfesodnr:::txtsize
-Rndpiotmcirnrn:::txtsize --> SKwwrainmaroler:::txtsize
-Udtrsisrhtmtpi:::txtsize --> Asdriveatiirnk:::txtsize
-Asdriveatiirnk:::txtsize --> IfkmCgurrap:::txtsize
-IfkmCgurrap:::txtsize --> ToeeaKneaSoah:::txtsize
-IfkmCgurrap:::txtsize --> WthrwvatoitA:::txtsize
-Asdriveatiirnk:::txtsize --> Ialttuoigcrhmtfe:::txtsize
-Ialttuoigcrhmtfe:::txtsize --> Taitisgonfeuoigcr:::txtsize
-Ialttuoigcrhmtfe:::txtsize --> Taitfuoigcrvtyeth:::txtsize
+Therltsfwrons:::txtsize --> ATrsHpsaEie:::txtsize
+ATrsHpsaEie:::txtsize --> TuRlstrspnsvla:::txtsize
+TuRlstrspnsvla:::txtsize --> HwtipngesTkfot:::txtsize
+TuRlstrspnsvla:::txtsize --> Utemerddostimt:::txtsize
 
-Twbusiihaiuiiufl@{ shape: win-pane, label: "_Published Nov 18, 2025, 07:13 AM_
-Trump would back russia sanctions bill if he retains final authority, white house official says" }
-Ucsilrrionitncr@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:27 PM_
-Us sanctions russian oil majors over ukraine, prompting india jitters and moscow fury" }
-UpmucssorirPwht@{ shape: win-pane, label: "_Published Oct 23, 2025, 05:33 AM_
-Us slaps ‘tremendous sanctions’ on russian oil for ukraine war, says putin wasn’t ‘honest’" }
-ErtkftassewUn@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:10 AM_
-Eu approves 19th package of sanctions against russia over its war in ukraine" }
-PTtiaodrieei@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
-Putin-trump talks in budapest on hold after russia rejects ceasefire" }
-Tsemunpogrnil@{ shape: win-pane, label: "_Published May 19, 2025, 10:54 PM_
-Trump says he will meet putin in budapest, touting progress in ukraine talks" }
-TPdtsUncamre@{ shape: win-pane, label: "_Published Aug 16, 2025, 03:43 AM_
-Trump-putin direct talks over ukraine conclude as summit stretches on" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-Isbafwscspl@{ shape: win-pane, label: "_Published Nov 18, 2025, 02:31 AM_
-India’s october trade deficit widens to record as us export slump" }
-Tsloaetnitn@{ shape: win-pane, label: "_Published Nov 11, 2025, 08:27 AM_
-Trump says close to india trade deal to bring tariff rate down" }
-TslfftiaeopU@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:05 PM_
-Trump’s doubling of tariffs hits india, damages relationship with us" }
-Tsosrmanyil@{ shape: win-pane, label: "_Published Oct 16, 2025, 05:45 AM_
-Trump says modi has assured him india will not buy russian oil" }
-Isealrps@{ shape: win-pane, label: "_Published Nov 17, 2025, 03:25 PM_
-India strikes us gas deal under trump pressure" }
-TslfftiaeopU@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:05 PM_
-Trump’s doubling of tariffs hits india, damages relationship with us" }
-UpmucssorirPwht@{ shape: win-pane, label: "_Published Oct 23, 2025, 05:33 AM_
-Us slaps ‘tremendous sanctions’ on russian oil for ukraine war, says putin wasn’t ‘honest’" }
+ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
+After trump reversal, us house pushes forward on epstein vote" }
+TuRlstrspnsvla@{ shape: win-pane, label: "_Published Nov 17, 2025, 11:57 AM_
+Trump urges republicans to vote for release of epstein files in reversal of stance" }
+HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
+‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
+Jetisdntigntvem@{ shape: win-pane, label: "_Published Jul 08, 2025, 04:02 AM_
+Jeffrey epstein died by suicide, has no sex trafficking ‘client list’: us government memo" }
+Tspnerifag@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:45 AM_
+Trump says epstein ‘stole’ underage victim from mar-a-lago spa" }
+Utemerddostimt@{ shape: win-pane, label: "_Published Nov 15, 2025, 05:12 AM_
+Us justice department heeds trump’s demand to probe epstein ties with democrats" }
+HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
+‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
+TttohYivpnpn@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:12 AM_
+Trump threatens to sue the new york times over reporting on epstein note" }
 
-Twbusiihaiuiiufl:::txtsize --> Ucsilrrionitncr:::txtsize
-Ucsilrrionitncr:::txtsize --> UpmucssorirPwht:::txtsize
-UpmucssorirPwht:::txtsize --> ErtkftassewUn:::txtsize
-UpmucssorirPwht:::txtsize --> PTtiaodrieei:::txtsize
-Ucsilrrionitncr:::txtsize --> Tsemunpogrnil:::txtsize
-Tsemunpogrnil:::txtsize --> TPdtsUncamre:::txtsize
-Tsemunpogrnil:::txtsize --> Tdrcaaededlncbs:::txtsize
-Twbusiihaiuiiufl:::txtsize --> Isbafwscspl:::txtsize
-Isbafwscspl:::txtsize --> Tsloaetnitn:::txtsize
-Tsloaetnitn:::txtsize --> TslfftiaeopU:::txtsize
-Tsloaetnitn:::txtsize --> Tsosrmanyil:::txtsize
-Isbafwscspl:::txtsize --> Isealrps:::txtsize
-Isealrps:::txtsize --> TslfftiaeopU:::txtsize
-Isealrps:::txtsize --> UpmucssorirPwht:::txtsize
+ATrsHpsaEie:::txtsize --> TuRlstrspnsvla:::txtsize
+TuRlstrspnsvla:::txtsize --> HwtipngesTkfot:::txtsize
+HwtipngesTkfot:::txtsize --> Jetisdntigntvem:::txtsize
+HwtipngesTkfot:::txtsize --> Tspnerifag:::txtsize
+TuRlstrspnsvla:::txtsize --> Utemerddostimt:::txtsize
+Utemerddostimt:::txtsize --> HwtipngesTkfot:::txtsize
+Utemerddostimt:::txtsize --> TttohYivpnpn:::txtsize
 
-Pesoilomh@{ shape: win-pane, label: "_Published Nov 18, 2025, 07:02 AM_
-Pope decries lack of political will on climate change" }
-Wtsipirvialcomh@{ shape: win-pane, label: "_Published Jul 09, 2025, 05:47 PM_
-‘world that is burning’: pope leo interrupts vacation to appeal for action on climate change" }
-Mhotigadysd@{ shape: win-pane, label: "_Published Jul 09, 2025, 05:12 AM_
-More than 180 people still missing days after deadly texas floods" }
-yarDscaaossis@{ shape: win-pane, label: "_Published Jul 07, 2025, 11:47 PM_
-‘100-year catastrophe’: deaths from central texas flooding surpass 100, officials say" }
-Tfsepialael@{ shape: win-pane, label: "_Published Jul 08, 2025, 12:15 PM_
-Texas floods: how geography, climate and policy failures collided" }
-Tgaeesuoao@{ shape: win-pane, label: "_Published Jul 03, 2025, 06:25 PM_
-Taking a break, pope leo revives centuries-old tradition" }
-UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
-Us cardinal prevost elected pope leo xiv, first american pontiff" }
-Prsoodtuyi@{ shape: win-pane, label: "_Published Apr 22, 2025, 03:33 AM_
-Pope francis died of stroke and heart failure, says vatican" }
-Petldstltlneg@{ shape: win-pane, label: "_Published Nov 15, 2025, 08:32 PM_
-Pope leo hosts hollywood stars at vatican, laments decline in movie-going" }
-Vauodesetiup@{ shape: win-pane, label: "_Published Nov 15, 2025, 06:52 PM_
-Vatican returns to canada artefacts connected to indigenous people" }
-Persumsdte@{ shape: win-pane, label: "_Published Nov 13, 2025, 06:47 AM_
-Pope leo shares his favourite movies ahead of vatican event" }
-Eocswqeetodt@{ shape: win-pane, label: "_Published Nov 02, 2025, 04:18 AM_
-Egypt opens colossal new antiquities museum after two-decade wait" }
-Peiiiikbospaof@{ shape: win-pane, label: "_Published Oct 27, 2025, 08:50 PM_
-Pope leo to visit eight cities in turkey, lebanon on first trip abroad as pontiff" }
-UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
-Us cardinal prevost elected pope leo xiv, first american pontiff" }
-PemeVakicarm@{ shape: win-pane, label: "_Published Oct 06, 2025, 08:06 PM_
-Pope leo trims powers of vatican bank, rolling back a francis reform" }
+UseshldfnePis@{ shape: win-pane, label: "_Published Nov 18, 2025, 10:10 AM_
+Un says its ‘regrets’ death penalty ordered for bangladesh ex-pm sheikh hasina" }
+Adeadrttea@{ shape: win-pane, label: "_Published Nov 18, 2024, 01:01 AM_
+Around 1,500 killed in bangladesh protests that ousted pm hasina" }
+Tartnemnasgo@{ shape: win-pane, label: "_Published Aug 02, 2024, 11:35 PM_
+Thousands protest in bangladesh, demanding pm hasina’s resignation" }
+EihBasnoiajo@{ shape: win-pane, label: "_Published Jul 18, 2024, 04:43 PM_
+Explainer: why are bangladesh students protesting against job quotas?" }
+Bapetannatrust@{ shape: win-pane, label: "_Published Jul 31, 2024, 09:49 PM_
+Bangladesh police fire tear gas, sound grenades as protesters return to streets" }
+Ruoueehead@{ shape: win-pane, label: "_Published Nov 16, 2024, 10:12 AM_
+Revolution over but more protests than ever in bangladesh" }
+BaPislryeobm@{ shape: win-pane, label: "_Published Aug 05, 2024, 04:39 PM_
+Bangladesh pm sheikh hasina flees, army says interim govt to be formed" }
+Nlahdssgadoosecr@{ shape: win-pane, label: "_Published Aug 08, 2024, 11:31 PM_
+Nobel laureate muhammad yunus takes charge of bangladesh, hopes to heal strife-torn country" }
+Baseasnohsarosn@{ shape: win-pane, label: "_Published Nov 17, 2025, 04:11 PM_
+Bangladesh’s ousted pm hasina sentenced to death in absentia for crackdown on students" }
+BaPislryeobm@{ shape: win-pane, label: "_Published Aug 05, 2024, 04:39 PM_
+Bangladesh pm sheikh hasina flees, army says interim govt to be formed" }
+Wartrngs@{ shape: win-pane, label: "_Published Aug 05, 2024, 02:30 PM_
+Why deadly protests are roiling bangladesh" }
+Bainrtmaeoo@{ shape: win-pane, label: "_Published Jul 01, 2025, 11:36 AM_
+Bangladeshis cling to protest dreams a year after revolution" }
+EihBasnoiajo@{ shape: win-pane, label: "_Published Jul 18, 2024, 04:43 PM_
+Explainer: why are bangladesh students protesting against job quotas?" }
+Babssnelrcrt@{ shape: win-pane, label: "_Published Jul 20, 2024, 02:13 PM_
+Bangladesh blocks roads and internet, deploys army to curb protests" }
 
-Pesoilomh:::txtsize --> Wtsipirvialcomh:::txtsize
-Wtsipirvialcomh:::txtsize --> Mhotigadysd:::txtsize
-Mhotigadysd:::txtsize --> yarDscaaossis:::txtsize
-Mhotigadysd:::txtsize --> Tfsepialael:::txtsize
-Wtsipirvialcomh:::txtsize --> Tgaeesuoao:::txtsize
-Tgaeesuoao:::txtsize --> UdPscooimat:::txtsize
-Tgaeesuoao:::txtsize --> Prsoodtuyi:::txtsize
-Pesoilomh:::txtsize --> Petldstltlneg:::txtsize
-Petldstltlneg:::txtsize --> Vauodesetiup:::txtsize
-Vauodesetiup:::txtsize --> Persumsdte:::txtsize
-Vauodesetiup:::txtsize --> Eocswqeetodt:::txtsize
-Petldstltlneg:::txtsize --> Peiiiikbospaof:::txtsize
-Peiiiikbospaof:::txtsize --> UdPscooimat:::txtsize
-Peiiiikbospaof:::txtsize --> PemeVakicarm:::txtsize
+UseshldfnePis:::txtsize --> Adeadrttea:::txtsize
+Adeadrttea:::txtsize --> Tartnemnasgo:::txtsize
+Tartnemnasgo:::txtsize --> EihBasnoiajo:::txtsize
+Tartnemnasgo:::txtsize --> Bapetannatrust:::txtsize
+Adeadrttea:::txtsize --> Ruoueehead:::txtsize
+Ruoueehead:::txtsize --> BaPislryeobm:::txtsize
+Ruoueehead:::txtsize --> Nlahdssgadoosecr:::txtsize
+UseshldfnePis:::txtsize --> Baseasnohsarosn:::txtsize
+Baseasnohsarosn:::txtsize --> BaPislryeobm:::txtsize
+BaPislryeobm:::txtsize --> Wartrngs:::txtsize
+Baseasnohsarosn:::txtsize --> Bainrtmaeoo:::txtsize
+Bainrtmaeoo:::txtsize --> EihBasnoiajo:::txtsize
+Bainrtmaeoo:::txtsize --> Babssnelrcrt:::txtsize
 
 ```
-<i>Last updated: 2025-11-18 08:00:53.532903 (GMT+8)</i>
+<i>Last updated: 2025-11-18 12:00:15.618760 (GMT+8)</i>
 <!-- END -->
