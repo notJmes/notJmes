@@ -16,114 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-FStopisarg@{ shape: win-pane, label: "_Published Nov 18, 2025, 07:27 PM_
-First syria trial of suspects in coastal massacres begins" }
-SniaeagfSvmtrli@{ shape: win-pane, label: "_Published Nov 09, 2025, 05:58 PM_
-Syrian president arrives in washington after us removes him from terrorism blacklist" }
-UslaoSsiaotsi@{ shape: win-pane, label: "_Published Nov 05, 2025, 08:17 AM_
-Us asks un to lift sanctions on syria’s president ahead of white house visit" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Ttosinajlh@{ shape: win-pane, label: "_Published May 14, 2025, 01:02 AM_
-Trump to remove us sanctions on syria in major policy shift" }
-SceppotasSs@{ shape: win-pane, label: "_Published Nov 09, 2025, 04:40 AM_
-Syria carries out pre-emptive operations against isis cells" }
-SneehtdstNbyn@{ shape: win-pane, label: "_Published Nov 01, 2025, 11:51 PM_
-Syrian leader ahmed al-sharaa to head to washington in november, says us envoy" }
-Uitahetsierus@{ shape: win-pane, label: "_Published Nov 07, 2025, 02:20 AM_
-Us military to establish presence at damascus airbase in syria, sources say" }
+Faidrteua@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:45 PM_
+Four jailed in sweden far-right ‘fitness club’ trial" }
+Hrrnengfgtc@{ shape: win-pane, label: "_Published Oct 31, 2025, 12:42 AM_
+Hate-crime trial in sweden shines light on far-right ‘fitness clubs’" }
+VncnisdiUilps@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:05 PM_
+Violence, racism, and nazi praise: the dark side of us political group chats" }
+Tsanitwrske@{ shape: win-pane, label: "_Published Oct 22, 2025, 12:25 PM_
+Trump special counsel pick withdraws over ‘nazi streak’ comments" }
+Tsanitwrske@{ shape: win-pane, label: "_Published Oct 22, 2025, 12:25 PM_
+Trump special counsel pick withdraws over ‘nazi streak’ comments" }
+FgePsrceiccs@{ shape: win-pane, label: "_Published Oct 30, 2025, 11:25 PM_
+Far-right freedom party suffers shock reversal in dutch elections" }
+Eogsrwtttah@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:31 AM_
+Exit poll suggests centrists win dutch vote, beating far right" }
+Cibelotaosfoyrie@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:25 AM_
+Centrist rob jetten could become netherlands’ youngest and first openly gay prime minister" }
+Hrrnengfgtc@{ shape: win-pane, label: "_Published Oct 31, 2025, 12:42 AM_
+Hate-crime trial in sweden shines light on far-right ‘fitness clubs’" }
+VncnisdiUilps@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:05 PM_
+Violence, racism, and nazi praise: the dark side of us political group chats" }
+Tsanitwrske@{ shape: win-pane, label: "_Published Oct 22, 2025, 12:25 PM_
+Trump special counsel pick withdraws over ‘nazi streak’ comments" }
+Tsanitwrske@{ shape: win-pane, label: "_Published Oct 22, 2025, 12:25 PM_
+Trump special counsel pick withdraws over ‘nazi streak’ comments" }
+FgePsrceiccs@{ shape: win-pane, label: "_Published Oct 30, 2025, 11:25 PM_
+Far-right freedom party suffers shock reversal in dutch elections" }
+Eogsrwtttah@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:31 AM_
+Exit poll suggests centrists win dutch vote, beating far right" }
+Cibelotaosfoyrie@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:25 AM_
+Centrist rob jetten could become netherlands’ youngest and first openly gay prime minister" }
 
-FStopisarg:::txtsize --> SniaeagfSvmtrli:::txtsize
-SniaeagfSvmtrli:::txtsize --> UslaoSsiaotsi:::txtsize
-UslaoSsiaotsi:::txtsize --> SnltiARahtoy:::txtsize
-UslaoSsiaotsi:::txtsize --> Ttosinajlh:::txtsize
-SniaeagfSvmtrli:::txtsize --> SceppotasSs:::txtsize
-SceppotasSs:::txtsize --> SneehtdstNbyn:::txtsize
-SceppotasSs:::txtsize --> Uitahetsierus:::txtsize
+Faidrteua:::txtsize --> Hrrnengfgtc:::txtsize
+Hrrnengfgtc:::txtsize --> VncnisdiUilps:::txtsize
+VncnisdiUilps:::txtsize --> Tsanitwrske:::txtsize
+VncnisdiUilps:::txtsize --> Tsanitwrske:::txtsize
+Hrrnengfgtc:::txtsize --> FgePsrceiccs:::txtsize
+FgePsrceiccs:::txtsize --> Eogsrwtttah:::txtsize
+FgePsrceiccs:::txtsize --> Cibelotaosfoyrie:::txtsize
+Faidrteua:::txtsize --> Hrrnengfgtc:::txtsize
+Hrrnengfgtc:::txtsize --> VncnisdiUilps:::txtsize
+VncnisdiUilps:::txtsize --> Tsanitwrske:::txtsize
+VncnisdiUilps:::txtsize --> Tsanitwrske:::txtsize
+Hrrnengfgtc:::txtsize --> FgePsrceiccs:::txtsize
+FgePsrceiccs:::txtsize --> Eogsrwtttah:::txtsize
+FgePsrceiccs:::txtsize --> Cibelotaosfoyrie:::txtsize
 
-Csormibssen@{ shape: win-pane, label: "_Published Nov 18, 2025, 05:51 PM_
-China’s grip on american medicine cabinets grows more entrenched" }
-ThCpyryo@{ shape: win-pane, label: "_Published Oct 19, 2025, 06:25 PM_
-The us has no china policy, no strategy and no clue" }
-TdrCtwsfst@{ shape: win-pane, label: "_Published Oct 16, 2025, 10:15 AM_
-Trump declares us-china trade war, bessent floats long truce" }
-TreUndweixco@{ shape: win-pane, label: "_Published Oct 11, 2025, 05:16 AM_
-Trump ratchets up us-china trade war with new 100% tariffs, export controls" }
-Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
-China tightens rare earth export controls and targets defence, semiconductor users" }
-Ubdnglipnripu@{ shape: win-pane, label: "_Published Oct 09, 2025, 07:48 AM_
-Us probe finds china bought $49 billion in chipmaking gear despite export curbs" }
-Cscehett@{ shape: win-pane, label: "_Published Oct 06, 2025, 10:56 AM_
-China’s chip challenge: the race to match us tech" }
-Ctcnobgipsc@{ shape: win-pane, label: "_Published Sep 18, 2025, 02:56 AM_
-China tells companies to stop buying nvidia’s repurposed ai chip" }
-Cwimesaherghera@{ shape: win-pane, label: "_Published Sep 27, 2025, 06:30 PM_
-China wants its companies to use local ai chips. tech firms signal that they hear the call" }
-Uaxblnkonuis@{ shape: win-pane, label: "_Published Sep 30, 2025, 01:31 AM_
-Us expands export blacklist in crackdown on chinese subsidiaries" }
-Iatdesiprt@{ shape: win-pane, label: "_Published Sep 15, 2025, 11:03 PM_
-India and us to hold trade talks, raising hopes for reset" }
-CuimevapwoS@{ shape: win-pane, label: "_Published Sep 25, 2025, 09:40 AM_
-China urges its companies to avoid taking price wars to the us" }
+Pdaoolraskritg@{ shape: win-pane, label: "_Published Nov 18, 2025, 10:03 PM_
+Poland’s pm says two responsible for railway blast worked for russian intelligence" }
+Pdeonlnrsabe@{ shape: win-pane, label: "_Published Nov 17, 2025, 04:32 PM_
+Poland suspects ‘foreign intelligence services’ for rail sabotage" }
+Pdceitiomsa@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:25 PM_
+Poland launches new military training programme, aims to train 400,000 in 2026" }
+Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
+Timeline: how russia's attack on ukraine unfolded" }
+Fuunensklyn@{ shape: win-pane, label: "_Published Sep 13, 2025, 05:45 PM_
+Fearful of russian aggression, poles flock to military training" }
+PdileBudogo@{ shape: win-pane, label: "_Published Nov 14, 2025, 04:56 PM_
+Poland says it will reopen two belarus border crossings on nov 17" }
+Pdceitiomsa@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:25 PM_
+Poland launches new military training programme, aims to train 400,000 in 2026" }
+Pdmaatsaeini@{ shape: win-pane, label: "_Published Sep 20, 2025, 02:16 PM_
+Poland scrambles aircraft after russia launches strikes on ukraine" }
+Pdeonlnrsabe@{ shape: win-pane, label: "_Published Nov 17, 2025, 04:32 PM_
+Poland suspects ‘foreign intelligence services’ for rail sabotage" }
+Pdceitiomsa@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:25 PM_
+Poland launches new military training programme, aims to train 400,000 in 2026" }
+Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
+Timeline: how russia's attack on ukraine unfolded" }
+Fuunensklyn@{ shape: win-pane, label: "_Published Sep 13, 2025, 05:45 PM_
+Fearful of russian aggression, poles flock to military training" }
+PdileBudogo@{ shape: win-pane, label: "_Published Nov 14, 2025, 04:56 PM_
+Poland says it will reopen two belarus border crossings on nov 17" }
+Pdceitiomsa@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:25 PM_
+Poland launches new military training programme, aims to train 400,000 in 2026" }
+Pdmaatsaeini@{ shape: win-pane, label: "_Published Sep 20, 2025, 02:16 PM_
+Poland scrambles aircraft after russia launches strikes on ukraine" }
 
-Csormibssen:::txtsize --> ThCpyryo:::txtsize
-ThCpyryo:::txtsize --> TdrCtwsfst:::txtsize
-TdrCtwsfst:::txtsize --> TreUndweixco:::txtsize
-TdrCtwsfst:::txtsize --> Ctertonsasnmdrs:::txtsize
-Csormibssen:::txtsize --> Ubdnglipnripu:::txtsize
-Ubdnglipnripu:::txtsize --> Cscehett:::txtsize
-Cscehett:::txtsize --> Ctcnobgipsc:::txtsize
-Cscehett:::txtsize --> Cwimesaherghera:::txtsize
-Ubdnglipnripu:::txtsize --> Uaxblnkonuis:::txtsize
-Uaxblnkonuis:::txtsize --> Iatdesiprt:::txtsize
-Uaxblnkonuis:::txtsize --> CuimevapwoS:::txtsize
+Pdaoolraskritg:::txtsize --> Pdeonlnrsabe:::txtsize
+Pdeonlnrsabe:::txtsize --> Pdceitiomsa:::txtsize
+Pdceitiomsa:::txtsize --> Tiwitnifd:::txtsize
+Pdceitiomsa:::txtsize --> Fuunensklyn:::txtsize
+Pdeonlnrsabe:::txtsize --> PdileBudogo:::txtsize
+PdileBudogo:::txtsize --> Pdceitiomsa:::txtsize
+PdileBudogo:::txtsize --> Pdmaatsaeini:::txtsize
+Pdaoolraskritg:::txtsize --> Pdeonlnrsabe:::txtsize
+Pdeonlnrsabe:::txtsize --> Pdceitiomsa:::txtsize
+Pdceitiomsa:::txtsize --> Tiwitnifd:::txtsize
+Pdceitiomsa:::txtsize --> Fuunensklyn:::txtsize
+Pdeonlnrsabe:::txtsize --> PdileBudogo:::txtsize
+PdileBudogo:::txtsize --> Pdceitiomsa:::txtsize
+PdileBudogo:::txtsize --> Pdmaatsaeini:::txtsize
 
-Biurevnkof@{ shape: win-pane, label: "_Published Nov 18, 2025, 05:28 PM_
-Britain to outlaw resale of live event tickets for profit" }
-TtemoriaOtoi@{ shape: win-pane, label: "_Published Sep 25, 2025, 07:49 PM_
-Ticketmaster commits to clearer pricing after oasis tour complaints" }
-Useteiiaac@{ shape: win-pane, label: "_Published Sep 19, 2025, 07:35 AM_
-Us sues ticketmaster over claims of illegal resale tactics" }
-Ubfeteuseble@{ shape: win-pane, label: "_Published Sep 16, 2025, 08:18 AM_
-Us probing if ticketmaster does enough to stop resale bots: bloomberg" }
-UsirlriywEoci@{ shape: win-pane, label: "_Published Aug 19, 2025, 01:00 AM_
-Us ftc sues ticket reseller for evading taylor swift’s eras tour ticket limits" }
-Ubfeteuseble@{ shape: win-pane, label: "_Published Sep 16, 2025, 08:18 AM_
-Us probing if ticketmaster does enough to stop resale bots: bloomberg" }
-UsirlriywEoci@{ shape: win-pane, label: "_Published Aug 19, 2025, 01:00 AM_
-Us ftc sues ticket reseller for evading taylor swift’s eras tour ticket limits" }
-Bankrlksodiasl@{ shape: win-pane, label: "_Published Jun 12, 2025, 07:20 PM_
-Buy blackpink tickets from only ticketmaster to avoid getting scammed, say police" }
-Useteiiaac@{ shape: win-pane, label: "_Published Sep 19, 2025, 07:35 AM_
-Us sues ticketmaster over claims of illegal resale tactics" }
-Ubfeteuseble@{ shape: win-pane, label: "_Published Sep 16, 2025, 08:18 AM_
-Us probing if ticketmaster does enough to stop resale bots: bloomberg" }
-UsirlriywEoci@{ shape: win-pane, label: "_Published Aug 19, 2025, 01:00 AM_
-Us ftc sues ticket reseller for evading taylor swift’s eras tour ticket limits" }
-Bankrlksodiasl@{ shape: win-pane, label: "_Published Jun 12, 2025, 07:20 PM_
-Buy blackpink tickets from only ticketmaster to avoid getting scammed, say police" }
-UsirlriywEoci@{ shape: win-pane, label: "_Published Aug 19, 2025, 01:00 AM_
-Us ftc sues ticket reseller for evading taylor swift’s eras tour ticket limits" }
-Tiswimrneywotein@{ shape: win-pane, label: "_Published Jul 07, 2023, 12:47 PM_
-Technical issues with ticketmaster during sale of taylor swift concert tickets raise fans’ ire" }
-Bankrlksodiasl@{ shape: win-pane, label: "_Published Jun 12, 2025, 07:20 PM_
-Buy blackpink tickets from only ticketmaster to avoid getting scammed, say police" }
+CmsitnBinuh@{ shape: win-pane, label: "_Published Nov 18, 2025, 10:03 PM_
+Car ramming, stabbing attack in west bank kills one, injures three" }
+Nyoawiceatslnieht@{ shape: win-pane, label: "_Published Nov 18, 2025, 04:38 AM_
+Netanyahu vows crackdown on violence after israeli attacks on palestinian villages in the west bank" }
+Ilyssatenrn@{ shape: win-pane, label: "_Published Nov 16, 2025, 06:31 PM_
+Israeli army kills palestinian youth in west bank operation" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+Daastemyriihc@{ shape: win-pane, label: "_Published Nov 16, 2025, 07:59 AM_
+Displaced gaza residents face more misery as torrential rain lashes enclave" }
+Feleirotnussa@{ shape: win-pane, label: "_Published Nov 12, 2025, 02:56 AM_
+France to help palestinians draft constitution for future state, says macron" }
+Tdsastoesat@{ shape: win-pane, label: "_Published Jul 25, 2025, 11:14 PM_
+Trump dismisses macron’s plan to recognise palestinian state" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Nyoawiceatslnieht@{ shape: win-pane, label: "_Published Nov 18, 2025, 04:38 AM_
+Netanyahu vows crackdown on violence after israeli attacks on palestinian villages in the west bank" }
+Ilyssatenrn@{ shape: win-pane, label: "_Published Nov 16, 2025, 06:31 PM_
+Israeli army kills palestinian youth in west bank operation" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+Daastemyriihc@{ shape: win-pane, label: "_Published Nov 16, 2025, 07:59 AM_
+Displaced gaza residents face more misery as torrential rain lashes enclave" }
+Feleirotnussa@{ shape: win-pane, label: "_Published Nov 12, 2025, 02:56 AM_
+France to help palestinians draft constitution for future state, says macron" }
+Tdsastoesat@{ shape: win-pane, label: "_Published Jul 25, 2025, 11:14 PM_
+Trump dismisses macron’s plan to recognise palestinian state" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
 
-Biurevnkof:::txtsize --> TtemoriaOtoi:::txtsize
-TtemoriaOtoi:::txtsize --> Useteiiaac:::txtsize
-Useteiiaac:::txtsize --> Ubfeteuseble:::txtsize
-Useteiiaac:::txtsize --> UsirlriywEoci:::txtsize
-TtemoriaOtoi:::txtsize --> Ubfeteuseble:::txtsize
-Ubfeteuseble:::txtsize --> UsirlriywEoci:::txtsize
-Ubfeteuseble:::txtsize --> Bankrlksodiasl:::txtsize
-Biurevnkof:::txtsize --> Useteiiaac:::txtsize
-Useteiiaac:::txtsize --> Ubfeteuseble:::txtsize
-Ubfeteuseble:::txtsize --> UsirlriywEoci:::txtsize
-Ubfeteuseble:::txtsize --> Bankrlksodiasl:::txtsize
-Useteiiaac:::txtsize --> UsirlriywEoci:::txtsize
-UsirlriywEoci:::txtsize --> Tiswimrneywotein:::txtsize
-UsirlriywEoci:::txtsize --> Bankrlksodiasl:::txtsize
+CmsitnBinuh:::txtsize --> Nyoawiceatslnieht:::txtsize
+Nyoawiceatslnieht:::txtsize --> Ilyssatenrn:::txtsize
+Ilyssatenrn:::txtsize --> Sbsrcdnacaale:::txtsize
+Ilyssatenrn:::txtsize --> Daastemyriihc:::txtsize
+Nyoawiceatslnieht:::txtsize --> Feleirotnussa:::txtsize
+Feleirotnussa:::txtsize --> Tdsastoesat:::txtsize
+Feleirotnussa:::txtsize --> AtHfezerydatoGel:::txtsize
+CmsitnBinuh:::txtsize --> Nyoawiceatslnieht:::txtsize
+Nyoawiceatslnieht:::txtsize --> Ilyssatenrn:::txtsize
+Ilyssatenrn:::txtsize --> Sbsrcdnacaale:::txtsize
+Ilyssatenrn:::txtsize --> Daastemyriihc:::txtsize
+Nyoawiceatslnieht:::txtsize --> Feleirotnussa:::txtsize
+Feleirotnussa:::txtsize --> Tdsastoesat:::txtsize
+Feleirotnussa:::txtsize --> AtHfezerydatoGel:::txtsize
 
 ```
-<i>Last updated: 2025-11-18 20:01:05.043854 (GMT+8)</i>
+<i>Last updated: 2025-11-19 00:00:36.134184 (GMT+8)</i>
 <!-- END -->
