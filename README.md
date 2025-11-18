@@ -16,126 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Wigawindaas@{ shape: win-pane, label: "_Published Nov 18, 2025, 03:16 AM_
-Who chief urges clampdown on nicotine products aimed at kids" }
-Wteeinauitoi@{ shape: win-pane, label: "_Published Oct 06, 2025, 08:47 PM_
-Who estimates at least 15 million teenagers use e-cigarettes worldwide" }
-YsrEavprsantbpc@{ shape: win-pane, label: "_Published Apr 08, 2025, 03:55 PM_
-Young smokers in s-e asia are giving up cigarettes for vapes and heated tobacco products" }
-OfseSavy@{ shape: win-pane, label: "_Published Mar 24, 2025, 11:05 AM_
-Over $200,000 of vapes seized by hsa in 2 cases over 2 days" }
-Jerhkpdcotmaal@{ shape: win-pane, label: "_Published Mar 21, 2025, 09:30 PM_
-Jail term for man who packed vape products cut from 8 months to 1 month after appeal" }
-Minzcpepedenom@{ shape: win-pane, label: "_Published Oct 03, 2025, 12:24 PM_
-‘my son is going crazy’: mum calls police on vaping 15-year-old, who gets sent to boys’ home" }
-Thdpsoectnnrese@{ shape: win-pane, label: "_Published Sep 03, 2025, 03:45 PM_
-Teen charged with possession of vape device containing cannabis-related substance" }
-Aaasiltckoirava@{ shape: win-pane, label: "_Published Nov 07, 2025, 07:30 PM_
-Australia battles surging illegal tobacco market as organised crime takes over trade" }
-Aabmtcaimsee@{ shape: win-pane, label: "_Published Mar 30, 2025, 11:54 AM_
-Australian black market tobacco sparks fire bombings, budget hole" }
-Aaecdnnaosees@{ shape: win-pane, label: "_Published Nov 28, 2023, 11:05 AM_
-Australia begins crackdown on vaping, to ban import of single-use devices" }
-Aaecdnnaosees@{ shape: win-pane, label: "_Published Nov 28, 2023, 11:05 AM_
-Australia begins crackdown on vaping, to ban import of single-use devices" }
+Udtrsisrhtmtpi@{ shape: win-pane, label: "_Published Nov 18, 2025, 07:45 AM_
+Us border patrol arrests over 130 in first 48 hours of charlotte immigration operation" }
+Uroarneegod@{ shape: win-pane, label: "_Published Sep 09, 2025, 02:06 AM_
+Us supreme court backs trump on aggressive immigration raids" }
+IrnssltlnwIrai@{ shape: win-pane, label: "_Published Jun 17, 2025, 06:41 PM_
+Immigration raids in los angeles hit small business owners: ‘it’s worse than covid’" }
+Ropssennsrgod@{ shape: win-pane, label: "_Published Jun 07, 2025, 12:36 PM_
+Riot police, protesters square off in los angeles after immigration raids" }
+Uiifldrprome@{ shape: win-pane, label: "_Published Jun 14, 2025, 12:44 PM_
+Us immigration officials told to largely pause raids on farms, hotels" }
+Rndpiotmcirnrn@{ shape: win-pane, label: "_Published Sep 08, 2025, 11:00 PM_
+Raid on hyundai-lg plant in us points to trump’s focus on immigration enforcement" }
+WaanUerrfesodnr@{ shape: win-pane, label: "_Published Sep 05, 2025, 12:25 PM_
+Work paused at hyundai’s us site after hundreds of workers, mostly korean, detained in raid" }
+SKwwrainmaroler@{ shape: win-pane, label: "_Published Sep 08, 2025, 01:26 PM_
+South korea wants workers detained in hyundai immigration raid to be able to re-enter us" }
+Asdriveatiirnk@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:30 AM_
+Agents raid daycare, senior living centre as part of chicago immigration crackdown" }
+IfkmCgurrap@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:45 AM_
+Ice officer kills man in chicago suburb during arrest attempt" }
+ToeeaKneaSoah@{ shape: win-pane, label: "_Published Sep 11, 2025, 07:34 AM_
+Trump offered to let detained korean workers stay in us but most heading home" }
+WthrwvatoitA@{ shape: win-pane, label: "_Published Sep 10, 2025, 02:07 PM_
+‘we all thought the raids were over’: fears return for immigrants in la" }
+Ialttuoigcrhmtfe@{ shape: win-pane, label: "_Published Nov 06, 2025, 05:05 AM_
+Ice plans call centre to track unaccompanied migrant children, other immigration offenders" }
+Taitisgonfeuoigcr@{ shape: win-pane, label: "_Published Feb 23, 2025, 09:07 PM_
+Trump administration directs immigration agents to find, deport unaccompanied migrant children" }
+Taitfuoigcrvtyeth@{ shape: win-pane, label: "_Published Oct 04, 2025, 09:51 AM_
+Trump administration offers unaccompanied migrant children $3,200 to voluntarily leave us, letter shows" }
 
-Wigawindaas:::txtsize --> Wteeinauitoi:::txtsize
-Wteeinauitoi:::txtsize --> YsrEavprsantbpc:::txtsize
-YsrEavprsantbpc:::txtsize --> OfseSavy:::txtsize
-YsrEavprsantbpc:::txtsize --> Jerhkpdcotmaal:::txtsize
-Wteeinauitoi:::txtsize --> Minzcpepedenom:::txtsize
-Minzcpepedenom:::txtsize --> Thdpsoectnnrese:::txtsize
-Wigawindaas:::txtsize --> Aaasiltckoirava:::txtsize
-Aaasiltckoirava:::txtsize --> Aabmtcaimsee:::txtsize
-Aabmtcaimsee:::txtsize --> Aaecdnnaosees:::txtsize
-Aaasiltckoirava:::txtsize --> Aaecdnnaosees:::txtsize
+Udtrsisrhtmtpi:::txtsize --> Uroarneegod:::txtsize
+Uroarneegod:::txtsize --> IrnssltlnwIrai:::txtsize
+IrnssltlnwIrai:::txtsize --> Ropssennsrgod:::txtsize
+IrnssltlnwIrai:::txtsize --> Uiifldrprome:::txtsize
+Uroarneegod:::txtsize --> Rndpiotmcirnrn:::txtsize
+Rndpiotmcirnrn:::txtsize --> WaanUerrfesodnr:::txtsize
+Rndpiotmcirnrn:::txtsize --> SKwwrainmaroler:::txtsize
+Udtrsisrhtmtpi:::txtsize --> Asdriveatiirnk:::txtsize
+Asdriveatiirnk:::txtsize --> IfkmCgurrap:::txtsize
+IfkmCgurrap:::txtsize --> ToeeaKneaSoah:::txtsize
+IfkmCgurrap:::txtsize --> WthrwvatoitA:::txtsize
+Asdriveatiirnk:::txtsize --> Ialttuoigcrhmtfe:::txtsize
+Ialttuoigcrhmtfe:::txtsize --> Taitisgonfeuoigcr:::txtsize
+Ialttuoigcrhmtfe:::txtsize --> Taitfuoigcrvtyeth:::txtsize
 
-Bigamcavunmtees@{ shape: win-pane, label: "_Published Nov 18, 2025, 02:14 AM_
-Britain toughens asylum policy in major overhaul as anti-immigration sentiment rises" }
-BsorflaenaaoirifK@{ shape: win-pane, label: "_Published Oct 24, 2025, 03:35 PM_
-British labour party suffers landmark election defeat in wales, coming in third behind reform uk" }
-AornnSevehet@{ shape: win-pane, label: "_Published Sep 29, 2025, 06:03 PM_
-At labour party conference, pm starmer’s rival steals the limelight" }
-Fedrhtftruon@{ shape: win-pane, label: "_Published Sep 26, 2025, 05:34 PM_
-Farage would win british election if held tomorrow, yougov poll finds" }
-Biteemnepnen@{ shape: win-pane, label: "_Published Sep 29, 2025, 05:38 AM_
-Britain may toughen rules for migrants seeking permanent residency" }
-Biacotnnpln@{ shape: win-pane, label: "_Published Sep 28, 2025, 06:13 PM_
-Britain’s starmer calls on party to unite and ‘stop navel-gazing’" }
-BinumogIwrellgo@{ shape: win-pane, label: "_Published Sep 26, 2025, 02:42 PM_
-Britain to introduce compulsory digital id for workers to deter illegal immigration" }
-Fedrhtftruon@{ shape: win-pane, label: "_Published Sep 26, 2025, 05:34 PM_
-Farage would win british election if held tomorrow, yougov poll finds" }
-Bseaitennatui@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:37 PM_
-British pm keir starmer insists government is ‘united’ as plot rumours swirl" }
-AsisSenfooeshn@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:27 AM_
-Allies of britain’s keir starmer launch effort to ward off a leadership challenge" }
-Bicestuniersea@{ shape: win-pane, label: "_Published Oct 31, 2025, 08:32 AM_
-Britain’s rachel reeves seeks to defuse rental dispute with release of new details" }
-Bibessdsstyea@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:01 PM_
-Britain’s labour members pick sacked minister as deputy, defying keir starmer" }
-Bibessdsstyea@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:01 PM_
-Britain’s labour members pick sacked minister as deputy, defying keir starmer" }
-UuRrstr@{ shape: win-pane, label: "_Published Sep 05, 2025, 07:10 PM_
-Uk deputy pm rayner quits over tax error" }
-BsorflaenaaoirifK@{ shape: win-pane, label: "_Published Oct 24, 2025, 03:35 PM_
-British labour party suffers landmark election defeat in wales, coming in third behind reform uk" }
+Twbusiihaiuiiufl@{ shape: win-pane, label: "_Published Nov 18, 2025, 07:13 AM_
+Trump would back russia sanctions bill if he retains final authority, white house official says" }
+Ucsilrrionitncr@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:27 PM_
+Us sanctions russian oil majors over ukraine, prompting india jitters and moscow fury" }
+UpmucssorirPwht@{ shape: win-pane, label: "_Published Oct 23, 2025, 05:33 AM_
+Us slaps ‘tremendous sanctions’ on russian oil for ukraine war, says putin wasn’t ‘honest’" }
+ErtkftassewUn@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:10 AM_
+Eu approves 19th package of sanctions against russia over its war in ukraine" }
+PTtiaodrieei@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
+Putin-trump talks in budapest on hold after russia rejects ceasefire" }
+Tsemunpogrnil@{ shape: win-pane, label: "_Published May 19, 2025, 10:54 PM_
+Trump says he will meet putin in budapest, touting progress in ukraine talks" }
+TPdtsUncamre@{ shape: win-pane, label: "_Published Aug 16, 2025, 03:43 AM_
+Trump-putin direct talks over ukraine conclude as summit stretches on" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+Isbafwscspl@{ shape: win-pane, label: "_Published Nov 18, 2025, 02:31 AM_
+India’s october trade deficit widens to record as us export slump" }
+Tsloaetnitn@{ shape: win-pane, label: "_Published Nov 11, 2025, 08:27 AM_
+Trump says close to india trade deal to bring tariff rate down" }
+TslfftiaeopU@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:05 PM_
+Trump’s doubling of tariffs hits india, damages relationship with us" }
+Tsosrmanyil@{ shape: win-pane, label: "_Published Oct 16, 2025, 05:45 AM_
+Trump says modi has assured him india will not buy russian oil" }
+Isealrps@{ shape: win-pane, label: "_Published Nov 17, 2025, 03:25 PM_
+India strikes us gas deal under trump pressure" }
+TslfftiaeopU@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:05 PM_
+Trump’s doubling of tariffs hits india, damages relationship with us" }
+UpmucssorirPwht@{ shape: win-pane, label: "_Published Oct 23, 2025, 05:33 AM_
+Us slaps ‘tremendous sanctions’ on russian oil for ukraine war, says putin wasn’t ‘honest’" }
 
-Bigamcavunmtees:::txtsize --> BsorflaenaaoirifK:::txtsize
-BsorflaenaaoirifK:::txtsize --> AornnSevehet:::txtsize
-AornnSevehet:::txtsize --> Fedrhtftruon:::txtsize
-AornnSevehet:::txtsize --> Biteemnepnen:::txtsize
-BsorflaenaaoirifK:::txtsize --> Biacotnnpln:::txtsize
-Biacotnnpln:::txtsize --> BinumogIwrellgo:::txtsize
-Biacotnnpln:::txtsize --> Fedrhtftruon:::txtsize
-Bigamcavunmtees:::txtsize --> Bseaitennatui:::txtsize
-Bseaitennatui:::txtsize --> AsisSenfooeshn:::txtsize
-AsisSenfooeshn:::txtsize --> Bicestuniersea:::txtsize
-AsisSenfooeshn:::txtsize --> Bibessdsstyea:::txtsize
-Bseaitennatui:::txtsize --> Bibessdsstyea:::txtsize
-Bibessdsstyea:::txtsize --> UuRrstr:::txtsize
-Bibessdsstyea:::txtsize --> BsorflaenaaoirifK:::txtsize
+Twbusiihaiuiiufl:::txtsize --> Ucsilrrionitncr:::txtsize
+Ucsilrrionitncr:::txtsize --> UpmucssorirPwht:::txtsize
+UpmucssorirPwht:::txtsize --> ErtkftassewUn:::txtsize
+UpmucssorirPwht:::txtsize --> PTtiaodrieei:::txtsize
+Ucsilrrionitncr:::txtsize --> Tsemunpogrnil:::txtsize
+Tsemunpogrnil:::txtsize --> TPdtsUncamre:::txtsize
+Tsemunpogrnil:::txtsize --> Tdrcaaededlncbs:::txtsize
+Twbusiihaiuiiufl:::txtsize --> Isbafwscspl:::txtsize
+Isbafwscspl:::txtsize --> Tsloaetnitn:::txtsize
+Tsloaetnitn:::txtsize --> TslfftiaeopU:::txtsize
+Tsloaetnitn:::txtsize --> Tsosrmanyil:::txtsize
+Isbafwscspl:::txtsize --> Isealrps:::txtsize
+Isealrps:::txtsize --> TslfftiaeopU:::txtsize
+Isealrps:::txtsize --> UpmucssorirPwht:::txtsize
 
-StdUrtoacy@{ shape: win-pane, label: "_Published Nov 18, 2025, 01:40 AM_
-Syria to hand over uighur fighters to china, sources say" }
-UuCioaoSsiiinr@{ shape: win-pane, label: "_Published Nov 07, 2025, 04:30 AM_
-Un security council removes sanctions on syria’s president, interior minister" }
-Ttosinajlh@{ shape: win-pane, label: "_Published May 14, 2025, 01:02 AM_
-Trump to remove us sanctions on syria in major policy shift" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-FerntSsi@{ shape: win-pane, label: "_Published May 08, 2025, 12:42 AM_
-France’s macron wants eu to end syria sanctions" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
-Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
-UuCioaoSsiiinr@{ shape: win-pane, label: "_Published Nov 07, 2025, 04:30 AM_
-Un security council removes sanctions on syria’s president, interior minister" }
-Ttosinajlh@{ shape: win-pane, label: "_Published May 14, 2025, 01:02 AM_
-Trump to remove us sanctions on syria in major policy shift" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-FerntSsi@{ shape: win-pane, label: "_Published May 08, 2025, 12:42 AM_
-France’s macron wants eu to end syria sanctions" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
-Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
+Pesoilomh@{ shape: win-pane, label: "_Published Nov 18, 2025, 07:02 AM_
+Pope decries lack of political will on climate change" }
+Wtsipirvialcomh@{ shape: win-pane, label: "_Published Jul 09, 2025, 05:47 PM_
+‘world that is burning’: pope leo interrupts vacation to appeal for action on climate change" }
+Mhotigadysd@{ shape: win-pane, label: "_Published Jul 09, 2025, 05:12 AM_
+More than 180 people still missing days after deadly texas floods" }
+yarDscaaossis@{ shape: win-pane, label: "_Published Jul 07, 2025, 11:47 PM_
+‘100-year catastrophe’: deaths from central texas flooding surpass 100, officials say" }
+Tfsepialael@{ shape: win-pane, label: "_Published Jul 08, 2025, 12:15 PM_
+Texas floods: how geography, climate and policy failures collided" }
+Tgaeesuoao@{ shape: win-pane, label: "_Published Jul 03, 2025, 06:25 PM_
+Taking a break, pope leo revives centuries-old tradition" }
+UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
+Us cardinal prevost elected pope leo xiv, first american pontiff" }
+Prsoodtuyi@{ shape: win-pane, label: "_Published Apr 22, 2025, 03:33 AM_
+Pope francis died of stroke and heart failure, says vatican" }
+Petldstltlneg@{ shape: win-pane, label: "_Published Nov 15, 2025, 08:32 PM_
+Pope leo hosts hollywood stars at vatican, laments decline in movie-going" }
+Vauodesetiup@{ shape: win-pane, label: "_Published Nov 15, 2025, 06:52 PM_
+Vatican returns to canada artefacts connected to indigenous people" }
+Persumsdte@{ shape: win-pane, label: "_Published Nov 13, 2025, 06:47 AM_
+Pope leo shares his favourite movies ahead of vatican event" }
+Eocswqeetodt@{ shape: win-pane, label: "_Published Nov 02, 2025, 04:18 AM_
+Egypt opens colossal new antiquities museum after two-decade wait" }
+Peiiiikbospaof@{ shape: win-pane, label: "_Published Oct 27, 2025, 08:50 PM_
+Pope leo to visit eight cities in turkey, lebanon on first trip abroad as pontiff" }
+UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
+Us cardinal prevost elected pope leo xiv, first american pontiff" }
+PemeVakicarm@{ shape: win-pane, label: "_Published Oct 06, 2025, 08:06 PM_
+Pope leo trims powers of vatican bank, rolling back a francis reform" }
 
-StdUrtoacy:::txtsize --> UuCioaoSsiiinr:::txtsize
-UuCioaoSsiiinr:::txtsize --> Ttosinajlh:::txtsize
-Ttosinajlh:::txtsize --> SnltiARahtoy:::txtsize
-Ttosinajlh:::txtsize --> FerntSsi:::txtsize
-UuCioaoSsiiinr:::txtsize --> SnltiARahtoy:::txtsize
-SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
-StdUrtoacy:::txtsize --> UuCioaoSsiiinr:::txtsize
-UuCioaoSsiiinr:::txtsize --> Ttosinajlh:::txtsize
-Ttosinajlh:::txtsize --> SnltiARahtoy:::txtsize
-Ttosinajlh:::txtsize --> FerntSsi:::txtsize
-UuCioaoSsiiinr:::txtsize --> SnltiARahtoy:::txtsize
-SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
+Pesoilomh:::txtsize --> Wtsipirvialcomh:::txtsize
+Wtsipirvialcomh:::txtsize --> Mhotigadysd:::txtsize
+Mhotigadysd:::txtsize --> yarDscaaossis:::txtsize
+Mhotigadysd:::txtsize --> Tfsepialael:::txtsize
+Wtsipirvialcomh:::txtsize --> Tgaeesuoao:::txtsize
+Tgaeesuoao:::txtsize --> UdPscooimat:::txtsize
+Tgaeesuoao:::txtsize --> Prsoodtuyi:::txtsize
+Pesoilomh:::txtsize --> Petldstltlneg:::txtsize
+Petldstltlneg:::txtsize --> Vauodesetiup:::txtsize
+Vauodesetiup:::txtsize --> Persumsdte:::txtsize
+Vauodesetiup:::txtsize --> Eocswqeetodt:::txtsize
+Petldstltlneg:::txtsize --> Peiiiikbospaof:::txtsize
+Peiiiikbospaof:::txtsize --> UdPscooimat:::txtsize
+Peiiiikbospaof:::txtsize --> PemeVakicarm:::txtsize
 
 ```
-<i>Last updated: 2025-11-18 04:01:25.693531 (GMT+8)</i>
+<i>Last updated: 2025-11-18 08:00:53.532903 (GMT+8)</i>
 <!-- END -->
