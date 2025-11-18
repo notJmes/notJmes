@@ -16,54 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Poitloridcs@{ shape: win-pane, label: "_Published Nov 18, 2025, 02:50 PM_
-Poor countries got $1.3 trillion loans from china. so did rich ones." }
-CoeSlsoegvc@{ shape: win-pane, label: "_Published Sep 13, 2024, 10:05 AM_
-China outspends us by billions in global lending: us govt watchdog" }
-CfgeuRaessbvsih@{ shape: win-pane, label: "_Published Apr 29, 2024, 08:18 AM_
-China firms go ‘underground’ on russia payments as banks pull back over us sanctions threat" }
-Feuiea@{ shape: win-pane, label: "_Published Feb 24, 2023, 05:54 PM_
-Feb 24, 2022: the day russia invaded ukraine" }
-CsegosdnndiAace@{ shape: win-pane, label: "_Published Feb 28, 2024, 10:27 AM_
-China says beijing and moscow should strengthen coordination on asia-pacific issues" }
-RaapnknStndos@{ shape: win-pane, label: "_Published Jun 21, 2024, 10:11 AM_
-Russia, china find payment workaround as us sanctions net widens, sources say" }
-BbSssktout@{ shape: win-pane, label: "_Published Jun 21, 2024, 08:43 AM_
-Biden bans us sales of kaspersky software over russia ties" }
-Ulanihiuiseeo@{ shape: win-pane, label: "_Published Jun 14, 2024, 02:56 AM_
-Us mulls new actions against china firms supplying russia defence sector" }
+FStopisarg@{ shape: win-pane, label: "_Published Nov 18, 2025, 07:27 PM_
+First syria trial of suspects in coastal massacres begins" }
+SniaeagfSvmtrli@{ shape: win-pane, label: "_Published Nov 09, 2025, 05:58 PM_
+Syrian president arrives in washington after us removes him from terrorism blacklist" }
+UslaoSsiaotsi@{ shape: win-pane, label: "_Published Nov 05, 2025, 08:17 AM_
+Us asks un to lift sanctions on syria’s president ahead of white house visit" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Ttosinajlh@{ shape: win-pane, label: "_Published May 14, 2025, 01:02 AM_
+Trump to remove us sanctions on syria in major policy shift" }
+SceppotasSs@{ shape: win-pane, label: "_Published Nov 09, 2025, 04:40 AM_
+Syria carries out pre-emptive operations against isis cells" }
+SneehtdstNbyn@{ shape: win-pane, label: "_Published Nov 01, 2025, 11:51 PM_
+Syrian leader ahmed al-sharaa to head to washington in november, says us envoy" }
+Uitahetsierus@{ shape: win-pane, label: "_Published Nov 07, 2025, 02:20 AM_
+Us military to establish presence at damascus airbase in syria, sources say" }
 
-Poitloridcs:::txtsize --> CoeSlsoegvc:::txtsize
-CoeSlsoegvc:::txtsize --> CfgeuRaessbvsih:::txtsize
-CfgeuRaessbvsih:::txtsize --> Feuiea:::txtsize
-CfgeuRaessbvsih:::txtsize --> CsegosdnndiAace:::txtsize
-CoeSlsoegvc:::txtsize --> RaapnknStndos:::txtsize
-RaapnknStndos:::txtsize --> BbSssktout:::txtsize
-RaapnknStndos:::txtsize --> Ulanihiuiseeo:::txtsize
+FStopisarg:::txtsize --> SniaeagfSvmtrli:::txtsize
+SniaeagfSvmtrli:::txtsize --> UslaoSsiaotsi:::txtsize
+UslaoSsiaotsi:::txtsize --> SnltiARahtoy:::txtsize
+UslaoSsiaotsi:::txtsize --> Ttosinajlh:::txtsize
+SniaeagfSvmtrli:::txtsize --> SceppotasSs:::txtsize
+SceppotasSs:::txtsize --> SneehtdstNbyn:::txtsize
+SceppotasSs:::txtsize --> Uitahetsierus:::txtsize
 
-Bsonpadlsker@{ shape: win-pane, label: "_Published Nov 18, 2025, 01:30 PM_
-British school bans k-pop bops after ‘demon’ lyrics spark heavenly drama" }
-Keuspkgeie@{ shape: win-pane, label: "_Published Nov 11, 2025, 05:15 PM_
-Kpop demon hunters pop-up to make singapore stop in december" }
+Csormibssen@{ shape: win-pane, label: "_Published Nov 18, 2025, 05:51 PM_
+China’s grip on american medicine cabinets grows more entrenched" }
+ThCpyryo@{ shape: win-pane, label: "_Published Oct 19, 2025, 06:25 PM_
+The us has no china policy, no strategy and no clue" }
+TdrCtwsfst@{ shape: win-pane, label: "_Published Oct 16, 2025, 10:15 AM_
+Trump declares us-china trade war, bessent floats long truce" }
+TreUndweixco@{ shape: win-pane, label: "_Published Oct 11, 2025, 05:16 AM_
+Trump ratchets up us-china trade war with new 100% tariffs, export controls" }
+Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
+China tightens rare earth export controls and targets defence, semiconductor users" }
+Ubdnglipnripu@{ shape: win-pane, label: "_Published Oct 09, 2025, 07:48 AM_
+Us probe finds china bought $49 billion in chipmaking gear despite export curbs" }
+Cscehett@{ shape: win-pane, label: "_Published Oct 06, 2025, 10:56 AM_
+China’s chip challenge: the race to match us tech" }
+Ctcnobgipsc@{ shape: win-pane, label: "_Published Sep 18, 2025, 02:56 AM_
+China tells companies to stop buying nvidia’s repurposed ai chip" }
+Cwimesaherghera@{ shape: win-pane, label: "_Published Sep 27, 2025, 06:30 PM_
+China wants its companies to use local ai chips. tech firms signal that they hear the call" }
+Uaxblnkonuis@{ shape: win-pane, label: "_Published Sep 30, 2025, 01:31 AM_
+Us expands export blacklist in crackdown on chinese subsidiaries" }
+Iatdesiprt@{ shape: win-pane, label: "_Published Sep 15, 2025, 11:03 PM_
+India and us to hold trade talks, raising hopes for reset" }
+CuimevapwoS@{ shape: win-pane, label: "_Published Sep 25, 2025, 09:40 AM_
+China urges its companies to avoid taking price wars to the us" }
 
-Bsonpadlsker:::txtsize --> Keuspkgeie:::txtsize
+Csormibssen:::txtsize --> ThCpyryo:::txtsize
+ThCpyryo:::txtsize --> TdrCtwsfst:::txtsize
+TdrCtwsfst:::txtsize --> TreUndweixco:::txtsize
+TdrCtwsfst:::txtsize --> Ctertonsasnmdrs:::txtsize
+Csormibssen:::txtsize --> Ubdnglipnripu:::txtsize
+Ubdnglipnripu:::txtsize --> Cscehett:::txtsize
+Cscehett:::txtsize --> Ctcnobgipsc:::txtsize
+Cscehett:::txtsize --> Cwimesaherghera:::txtsize
+Ubdnglipnripu:::txtsize --> Uaxblnkonuis:::txtsize
+Uaxblnkonuis:::txtsize --> Iatdesiprt:::txtsize
+Uaxblnkonuis:::txtsize --> CuimevapwoS:::txtsize
 
-Therltsfwrons@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:55 AM_
-Trump has the power to release the epstein files, with or without congress" }
-ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
-After trump reversal, us house pushes forward on epstein vote" }
-TuRlstrspnsvla@{ shape: win-pane, label: "_Published Nov 17, 2025, 11:57 AM_
-Trump urges republicans to vote for release of epstein files in reversal of stance" }
-HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
-‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
-Utemerddostimt@{ shape: win-pane, label: "_Published Nov 15, 2025, 05:12 AM_
-Us justice department heeds trump’s demand to probe epstein ties with democrats" }
+Biurevnkof@{ shape: win-pane, label: "_Published Nov 18, 2025, 05:28 PM_
+Britain to outlaw resale of live event tickets for profit" }
+TtemoriaOtoi@{ shape: win-pane, label: "_Published Sep 25, 2025, 07:49 PM_
+Ticketmaster commits to clearer pricing after oasis tour complaints" }
+Useteiiaac@{ shape: win-pane, label: "_Published Sep 19, 2025, 07:35 AM_
+Us sues ticketmaster over claims of illegal resale tactics" }
+Ubfeteuseble@{ shape: win-pane, label: "_Published Sep 16, 2025, 08:18 AM_
+Us probing if ticketmaster does enough to stop resale bots: bloomberg" }
+UsirlriywEoci@{ shape: win-pane, label: "_Published Aug 19, 2025, 01:00 AM_
+Us ftc sues ticket reseller for evading taylor swift’s eras tour ticket limits" }
+Ubfeteuseble@{ shape: win-pane, label: "_Published Sep 16, 2025, 08:18 AM_
+Us probing if ticketmaster does enough to stop resale bots: bloomberg" }
+UsirlriywEoci@{ shape: win-pane, label: "_Published Aug 19, 2025, 01:00 AM_
+Us ftc sues ticket reseller for evading taylor swift’s eras tour ticket limits" }
+Bankrlksodiasl@{ shape: win-pane, label: "_Published Jun 12, 2025, 07:20 PM_
+Buy blackpink tickets from only ticketmaster to avoid getting scammed, say police" }
+Useteiiaac@{ shape: win-pane, label: "_Published Sep 19, 2025, 07:35 AM_
+Us sues ticketmaster over claims of illegal resale tactics" }
+Ubfeteuseble@{ shape: win-pane, label: "_Published Sep 16, 2025, 08:18 AM_
+Us probing if ticketmaster does enough to stop resale bots: bloomberg" }
+UsirlriywEoci@{ shape: win-pane, label: "_Published Aug 19, 2025, 01:00 AM_
+Us ftc sues ticket reseller for evading taylor swift’s eras tour ticket limits" }
+Bankrlksodiasl@{ shape: win-pane, label: "_Published Jun 12, 2025, 07:20 PM_
+Buy blackpink tickets from only ticketmaster to avoid getting scammed, say police" }
+UsirlriywEoci@{ shape: win-pane, label: "_Published Aug 19, 2025, 01:00 AM_
+Us ftc sues ticket reseller for evading taylor swift’s eras tour ticket limits" }
+Tiswimrneywotein@{ shape: win-pane, label: "_Published Jul 07, 2023, 12:47 PM_
+Technical issues with ticketmaster during sale of taylor swift concert tickets raise fans’ ire" }
+Bankrlksodiasl@{ shape: win-pane, label: "_Published Jun 12, 2025, 07:20 PM_
+Buy blackpink tickets from only ticketmaster to avoid getting scammed, say police" }
 
-Therltsfwrons:::txtsize --> ATrsHpsaEie:::txtsize
-ATrsHpsaEie:::txtsize --> TuRlstrspnsvla:::txtsize
-TuRlstrspnsvla:::txtsize --> HwtipngesTkfot:::txtsize
-TuRlstrspnsvla:::txtsize --> Utemerddostimt:::txtsize
+Biurevnkof:::txtsize --> TtemoriaOtoi:::txtsize
+TtemoriaOtoi:::txtsize --> Useteiiaac:::txtsize
+Useteiiaac:::txtsize --> Ubfeteuseble:::txtsize
+Useteiiaac:::txtsize --> UsirlriywEoci:::txtsize
+TtemoriaOtoi:::txtsize --> Ubfeteuseble:::txtsize
+Ubfeteuseble:::txtsize --> UsirlriywEoci:::txtsize
+Ubfeteuseble:::txtsize --> Bankrlksodiasl:::txtsize
+Biurevnkof:::txtsize --> Useteiiaac:::txtsize
+Useteiiaac:::txtsize --> Ubfeteuseble:::txtsize
+Ubfeteuseble:::txtsize --> UsirlriywEoci:::txtsize
+Ubfeteuseble:::txtsize --> Bankrlksodiasl:::txtsize
+Useteiiaac:::txtsize --> UsirlriywEoci:::txtsize
+UsirlriywEoci:::txtsize --> Tiswimrneywotein:::txtsize
+UsirlriywEoci:::txtsize --> Bankrlksodiasl:::txtsize
 
 ```
-<i>Last updated: 2025-11-18 16:00:36.215091 (GMT+8)</i>
+<i>Last updated: 2025-11-18 20:01:05.043854 (GMT+8)</i>
 <!-- END -->
