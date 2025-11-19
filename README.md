@@ -16,114 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Uriopcdigxnsl@{ shape: win-pane, label: "_Published Nov 19, 2025, 03:29 AM_
-Us court strikes down republican redistricting of texas congressional map" }
-TRlsoucosattami@{ shape: win-pane, label: "_Published Aug 21, 2025, 02:11 AM_
-Texas republicans approve trump-backed congressional map to protect party’s majority" }
-WHlhkctTsgoi@{ shape: win-pane, label: "_Published Aug 20, 2025, 06:19 AM_
-White house launches tiktok account with trump saying ‘i am your voice’" }
-Tkgkwunpaaaspmst@{ shape: win-pane, label: "_Published Jul 25, 2025, 03:32 AM_
-Tiktok will go dark in us without chinese approval of sale deal, says trump’s commerce secretary" }
-Tboabiisuo@{ shape: win-pane, label: "_Published Aug 21, 2025, 01:19 AM_
-Trump buys more than $128m in bonds in office, disclosure shows" }
-Taakcsohnhnu@{ shape: win-pane, label: "_Published Aug 20, 2025, 08:52 AM_
-Trump again attacks fed chair, says powell ‘hurting’ the housing industry" }
-Treucafecnis@{ shape: win-pane, label: "_Published Aug 20, 2025, 07:33 AM_
-Trump revokes security clearance of 37 former and current officials" }
-TRlsoucosattami@{ shape: win-pane, label: "_Published Aug 21, 2025, 02:11 AM_
-Texas republicans approve trump-backed congressional map to protect party’s majority" }
-WHlhkctTsgoi@{ shape: win-pane, label: "_Published Aug 20, 2025, 06:19 AM_
-White house launches tiktok account with trump saying ‘i am your voice’" }
-Tkgkwunpaaaspmst@{ shape: win-pane, label: "_Published Jul 25, 2025, 03:32 AM_
-Tiktok will go dark in us without chinese approval of sale deal, says trump’s commerce secretary" }
-Tboabiisuo@{ shape: win-pane, label: "_Published Aug 21, 2025, 01:19 AM_
-Trump buys more than $128m in bonds in office, disclosure shows" }
-Taakcsohnhnu@{ shape: win-pane, label: "_Published Aug 20, 2025, 08:52 AM_
-Trump again attacks fed chair, says powell ‘hurting’ the housing industry" }
-Treucafecnis@{ shape: win-pane, label: "_Published Aug 20, 2025, 07:33 AM_
-Trump revokes security clearance of 37 former and current officials" }
+GeSranoynIls@{ shape: win-pane, label: "_Published Nov 19, 2025, 06:40 AM_
+Google boss sundar pichai warns no company immune if ai bubble bursts" }
+TejtoyItdn@{ shape: win-pane, label: "_Published Oct 30, 2025, 04:15 PM_
+Tech sector job cuts in 2025: how many are ai-related redundancies?" }
+Antojoioyee@{ shape: win-pane, label: "_Published Oct 28, 2025, 09:45 PM_
+Amazon to cut 14,000 corporate jobs worldwide, s’pore may not be spared" }
+Annosapesitc@{ shape: win-pane, label: "_Published Oct 28, 2025, 04:02 AM_
+Amazon planning to cut as many as 30,000 corporate jobs starting oct 28: sources" }
+Antojoioyee@{ shape: win-pane, label: "_Published Oct 28, 2025, 09:45 PM_
+Amazon to cut 14,000 corporate jobs worldwide, s’pore may not be spared" }
+Annosapesitc@{ shape: win-pane, label: "_Published Oct 28, 2025, 04:02 AM_
+Amazon planning to cut as many as 30,000 corporate jobs starting oct 28: sources" }
 
-Uriopcdigxnsl:::txtsize --> TRlsoucosattami:::txtsize
-TRlsoucosattami:::txtsize --> WHlhkctTsgoi:::txtsize
-WHlhkctTsgoi:::txtsize --> Tkgkwunpaaaspmst:::txtsize
-TRlsoucosattami:::txtsize --> Tboabiisuo:::txtsize
-Tboabiisuo:::txtsize --> Taakcsohnhnu:::txtsize
-Tboabiisuo:::txtsize --> Treucafecnis:::txtsize
-Uriopcdigxnsl:::txtsize --> TRlsoucosattami:::txtsize
-TRlsoucosattami:::txtsize --> WHlhkctTsgoi:::txtsize
-WHlhkctTsgoi:::txtsize --> Tkgkwunpaaaspmst:::txtsize
-TRlsoucosattami:::txtsize --> Tboabiisuo:::txtsize
-Tboabiisuo:::txtsize --> Taakcsohnhnu:::txtsize
-Tboabiisuo:::txtsize --> Treucafecnis:::txtsize
+GeSranoynIls:::txtsize --> TejtoyItdn:::txtsize
+TejtoyItdn:::txtsize --> Antojoioyee:::txtsize
+Antojoioyee:::txtsize --> Annosapesitc:::txtsize
+TejtoyItdn:::txtsize --> Antojoioyee:::txtsize
+Antojoioyee:::txtsize --> Annosapesitc:::txtsize
 
-FhtPekainaea@{ shape: win-pane, label: "_Published Nov 19, 2025, 03:07 AM_
-French court says perrier can keep marketing as ‘natural mineral water’" }
-Peeovet@{ shape: win-pane, label: "_Published May 08, 2025, 07:02 AM_
-Perrier ordered to remove water filters" }
-NesniFhrt@{ shape: win-pane, label: "_Published Apr 06, 2024, 12:49 AM_
-Nestle steps up monitoring of french mineral water" }
-Beetmlcitruhty@{ shape: win-pane, label: "_Published Jan 09, 2024, 10:22 AM_
-Bottled water contains more plastic particles than previously thought: study" }
-Beetmlcitruhty@{ shape: win-pane, label: "_Published Jan 09, 2024, 10:22 AM_
-Bottled water contains more plastic particles than previously thought: study" }
-NesniFhrt@{ shape: win-pane, label: "_Published Apr 06, 2024, 12:49 AM_
-Nestle steps up monitoring of french mineral water" }
-Beetmlcitruhty@{ shape: win-pane, label: "_Published Jan 09, 2024, 10:22 AM_
-Bottled water contains more plastic particles than previously thought: study" }
+WYresemhiN@{ shape: win-pane, label: "_Published Nov 19, 2025, 06:24 AM_
+While you were sleeping: 5 stories you might have missed, nov 19, 2025" }
+Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
+Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
+Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
+Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
+TsoidShiKoe@{ shape: win-pane, label: "_Published Oct 21, 2018, 04:04 AM_
+Trump says not satisfied with saudi handling of khashoggi death" }
+DorsasiSriepi@{ shape: win-pane, label: "_Published Oct 20, 2018, 08:46 AM_
+Death of journalist jamal khashoggi: from saudi royal insider to open critic" }
+TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
+Trump threatens abc news in oval office meltdown" }
+Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
+Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
+Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
+Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
+Ugpsufrspnsitm@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:23 AM_
+Us congress passes measure to force release of epstein files, sending it to trump" }
+Therltsfwrons@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:55 AM_
+Trump has the power to release the epstein files, with or without congress" }
+ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
+After trump reversal, us house pushes forward on epstein vote" }
+Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
+Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
+Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
+Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
+TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
+Trump threatens abc news in oval office meltdown" }
 
-FhtPekainaea:::txtsize --> Peeovet:::txtsize
-Peeovet:::txtsize --> NesniFhrt:::txtsize
-NesniFhrt:::txtsize --> Beetmlcitruhty:::txtsize
-Peeovet:::txtsize --> Beetmlcitruhty:::txtsize
-FhtPekainaea:::txtsize --> NesniFhrt:::txtsize
-NesniFhrt:::txtsize --> Beetmlcitruhty:::txtsize
+WYresemhiN:::txtsize --> Tdddnersdiinst:::txtsize
+Tdddnersdiinst:::txtsize --> Mrusnrsasikeprsc:::txtsize
+Mrusnrsasikeprsc:::txtsize --> TsoidShiKoe:::txtsize
+Mrusnrsasikeprsc:::txtsize --> DorsasiSriepi:::txtsize
+Tdddnersdiinst:::txtsize --> TttBsailn:::txtsize
+TttBsailn:::txtsize --> Mrusnrsasikeprsc:::txtsize
+TttBsailn:::txtsize --> Tdddnersdiinst:::txtsize
+WYresemhiN:::txtsize --> Ugpsufrspnsitm:::txtsize
+Ugpsufrspnsitm:::txtsize --> Therltsfwrons:::txtsize
+Therltsfwrons:::txtsize --> ATrsHpsaEie:::txtsize
+Ugpsufrspnsitm:::txtsize --> Tdddnersdiinst:::txtsize
+Tdddnersdiinst:::txtsize --> Mrusnrsasikeprsc:::txtsize
+Tdddnersdiinst:::txtsize --> TttBsailn:::txtsize
 
-CudmlufiiiN@{ shape: win-pane, label: "_Published Nov 19, 2025, 02:55 AM_
-Court upholds dismissal of trump defamation suit against cnn" }
-BtnfTdac@{ shape: win-pane, label: "_Published Nov 17, 2025, 11:28 PM_
-Bbc ‘determined to fight’ trump defamation claim" }
-Tsieooieet@{ shape: win-pane, label: "_Published Nov 15, 2025, 10:09 AM_
-Trump says will sue bbc for up to $6.4 billion over video edit" }
-TttBhiwaagfio@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:49 AM_
-Trump threatens bbc with $1.3 billion lawsuit as bbc apologises for edit error" }
-BiCosueoshrtaoi@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:07 AM_
-Britain’s bbc apologises to trump over panorama speech edit, rejects defamation claim" }
-Bshfqfroneri@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:45 AM_
-Bbc boss and head of news quit after trump documentary edit criticism" }
-Gonsobhcyerws@{ shape: win-pane, label: "_Published Jul 15, 2025, 01:09 AM_
-Gaza documentary shown on bbc breached accuracy guideline, review finds" }
-BsislBsisedpsnies@{ shape: win-pane, label: "_Published Nov 09, 2025, 09:00 PM_
-British minister says claims bbc misled viewers with edited trump clips are ‘incredibly serious’" }
-BtnfTdac@{ shape: win-pane, label: "_Published Nov 17, 2025, 11:28 PM_
-Bbc ‘determined to fight’ trump defamation claim" }
-Tsieooieet@{ shape: win-pane, label: "_Published Nov 15, 2025, 10:09 AM_
-Trump says will sue bbc for up to $6.4 billion over video edit" }
-TttBhiwaagfio@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:49 AM_
-Trump threatens bbc with $1.3 billion lawsuit as bbc apologises for edit error" }
-BiCosueoshrtaoi@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:07 AM_
-Britain’s bbc apologises to trump over panorama speech edit, rejects defamation claim" }
-Bshfqfroneri@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:45 AM_
-Bbc boss and head of news quit after trump documentary edit criticism" }
-Gonsobhcyerws@{ shape: win-pane, label: "_Published Jul 15, 2025, 01:09 AM_
-Gaza documentary shown on bbc breached accuracy guideline, review finds" }
-BsislBsisedpsnies@{ shape: win-pane, label: "_Published Nov 09, 2025, 09:00 PM_
-British minister says claims bbc misled viewers with edited trump clips are ‘incredibly serious’" }
+Irnasmnotmrzy@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:38 AM_
+Immigration operations to ramp up in new york city, trump’s border czar says" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
+Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
+TbCttousoscolsdsr@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:15 AM_
+Trump backs cuomo, threatens to cut funds as new yorkers expected to pick leftist mamdani as mayor" }
+OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
+Obama calls mamdani, praises campaign ahead of new york mayoral election" }
+Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
+Takeaways from us election night 2025" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+IcimsiYhoti@{ shape: win-pane, label: "_Published Sep 27, 2025, 08:48 AM_
+Ice tactics inflame tensions in new york, chicago and other cities" }
+ScasiuooIefay@{ shape: win-pane, label: "_Published Sep 26, 2025, 03:07 AM_
+Suspect in dallas shooting sought to terrorise ice agents, officials say" }
+Tlnunttaiifutfd@{ shape: win-pane, label: "_Published Sep 24, 2025, 09:02 PM_
+Two killed, one injured in shooting at dallas immigration office; suspect also found dead" }
+Cikerarsanccrs@{ shape: win-pane, label: "_Published Sep 22, 2025, 06:17 AM_
+Charlie kirk lauded at arizona memorial as galvanising force for conservatism" }
+Tcdnmithcnc@{ shape: win-pane, label: "_Published Aug 14, 2025, 10:04 PM_
+Trump crackdown snares more migrants with no us criminal records" }
+Tirncsrfsa@{ shape: win-pane, label: "_Published May 29, 2025, 10:19 AM_
+Trump immigration officials set target of 3,000 arrests a day" }
+Ushietrorro@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:37 AM_
+Us uses war rhetoric, superman to recruit for migrant crackdown" }
 
-CudmlufiiiN:::txtsize --> BtnfTdac:::txtsize
-BtnfTdac:::txtsize --> Tsieooieet:::txtsize
-Tsieooieet:::txtsize --> TttBhiwaagfio:::txtsize
-Tsieooieet:::txtsize --> BiCosueoshrtaoi:::txtsize
-BtnfTdac:::txtsize --> Bshfqfroneri:::txtsize
-Bshfqfroneri:::txtsize --> Gonsobhcyerws:::txtsize
-Bshfqfroneri:::txtsize --> BsislBsisedpsnies:::txtsize
-CudmlufiiiN:::txtsize --> BtnfTdac:::txtsize
-BtnfTdac:::txtsize --> Tsieooieet:::txtsize
-Tsieooieet:::txtsize --> TttBhiwaagfio:::txtsize
-Tsieooieet:::txtsize --> BiCosueoshrtaoi:::txtsize
-BtnfTdac:::txtsize --> Bshfqfroneri:::txtsize
-Bshfqfroneri:::txtsize --> Gonsobhcyerws:::txtsize
-Bshfqfroneri:::txtsize --> BsislBsisedpsnies:::txtsize
+Irnasmnotmrzy:::txtsize --> YMmnoihaiYilehpea:::txtsize
+YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
+YMmimociYaoauoc:::txtsize --> TbCttousoscolsdsr:::txtsize
+YMmimociYaoauoc:::txtsize --> OcMniagaekren:::txtsize
+YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
+Twreig:::txtsize --> YMmnoihaiYilehpea:::txtsize
+Twreig:::txtsize --> Drwialosdp:::txtsize
+Irnasmnotmrzy:::txtsize --> IcimsiYhoti:::txtsize
+IcimsiYhoti:::txtsize --> ScasiuooIefay:::txtsize
+ScasiuooIefay:::txtsize --> Tlnunttaiifutfd:::txtsize
+ScasiuooIefay:::txtsize --> Cikerarsanccrs:::txtsize
+IcimsiYhoti:::txtsize --> Tcdnmithcnc:::txtsize
+Tcdnmithcnc:::txtsize --> Tirncsrfsa:::txtsize
+Tcdnmithcnc:::txtsize --> Ushietrorro:::txtsize
 
 ```
-<i>Last updated: 2025-11-19 04:01:00.028847 (GMT+8)</i>
+<i>Last updated: 2025-11-19 08:00:36.577955 (GMT+8)</i>
 <!-- END -->
