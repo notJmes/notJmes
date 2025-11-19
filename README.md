@@ -16,75 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Eietrafnl@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:35 AM_
-Epstein vote shatters trump’s aura of invincibility" }
-TwrutomyoaGe@{ shape: win-pane, label: "_Published Nov 15, 2025, 02:43 PM_
-Trump withdraws support for long-time ally marjorie taylor greene" }
-Lsounenonmr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:01 PM_
-Longest us govt shutdown is over but new showdowns loom for trump" }
-Tsdootveuns@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:48 AM_
-Trump signs deal to end longest us government shutdown in history" }
+Hrsitiewopduspn@{ shape: win-pane, label: "_Published Nov 19, 2025, 02:26 PM_
+Harvard says it is investigating ties between former president summers and epstein" }
+HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
+‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
+Jetisdntigntvem@{ shape: win-pane, label: "_Published Jul 08, 2025, 04:02 AM_
+Jeffrey epstein died by suicide, has no sex trafficking ‘client list’: us government memo" }
+Jetcriiebceiy@{ shape: win-pane, label: "_Published Apr 26, 2025, 12:15 PM_
+Jeffrey epstein accuser virginia giuffre dies by suicide, her family says" }
+MesciuiEie@{ shape: win-pane, label: "_Published Jun 07, 2025, 09:45 PM_
+Musk deletes post claiming trump is ‘in the epstein files’" }
+Tspnerifag@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:45 AM_
+Trump says epstein ‘stole’ underage victim from mar-a-lago spa" }
+WodoumtnMov@{ shape: win-pane, label: "_Published Jul 19, 2025, 06:16 AM_
+What you need to know about trump, epstein and the maga controversy" }
+Tseentnxneyes@{ shape: win-pane, label: "_Published Jul 29, 2025, 02:33 AM_
+Trump says he turned down invitation to sex offender jeffrey epstein’s island" }
 
-Eietrafnl:::txtsize --> TwrutomyoaGe:::txtsize
-TwrutomyoaGe:::txtsize --> Lsounenonmr:::txtsize
-Lsounenonmr:::txtsize --> Tsdootveuns:::txtsize
+Hrsitiewopduspn:::txtsize --> HwtipngesTkfot:::txtsize
+HwtipngesTkfot:::txtsize --> Jetisdntigntvem:::txtsize
+Jetisdntigntvem:::txtsize --> Jetcriiebceiy:::txtsize
+Jetisdntigntvem:::txtsize --> MesciuiEie:::txtsize
+HwtipngesTkfot:::txtsize --> Tspnerifag:::txtsize
+Tspnerifag:::txtsize --> WodoumtnMov:::txtsize
+Tspnerifag:::txtsize --> Tseentnxneyes:::txtsize
 
-Geimipdnrie@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:35 AM_
-Google unveils gemini 3, with improved coding, search abilities" }
-GeSranoynIls@{ shape: win-pane, label: "_Published Nov 19, 2025, 06:40 AM_
-Google boss sundar pichai warns no company immune if ai bubble bursts" }
-TejtoyItdn@{ shape: win-pane, label: "_Published Oct 30, 2025, 04:15 PM_
-Tech sector job cuts in 2025: how many are ai-related redundancies?" }
-Antojoioyee@{ shape: win-pane, label: "_Published Oct 28, 2025, 09:45 PM_
-Amazon to cut 14,000 corporate jobs worldwide, s’pore may not be spared" }
-Antojoioyee@{ shape: win-pane, label: "_Published Oct 28, 2025, 09:45 PM_
-Amazon to cut 14,000 corporate jobs worldwide, s’pore may not be spared" }
-Msnditbonpiuf@{ shape: win-pane, label: "_Published Nov 19, 2025, 09:15 AM_
-Microsoft and nvidia to invest up to $19.5 billion in  anthropic amid ai bubble fears" }
-AooikIdwtfi@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:35 AM_
-Anthropic, google in talks on ai cloud deal worth tens of billions" }
-OIsoipettrr@{ shape: win-pane, label: "_Published Oct 22, 2025, 02:01 AM_
-Openai takes on google with ai-powered chatgpt atlas browser" }
-InolSfulirwe@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:57 PM_
-It’s gone beyond sales, as salesforce unveils office workflow ai agents" }
-GeSranoynIls@{ shape: win-pane, label: "_Published Nov 19, 2025, 06:40 AM_
-Google boss sundar pichai warns no company immune if ai bubble bursts" }
-TejtoyItdn@{ shape: win-pane, label: "_Published Oct 30, 2025, 04:15 PM_
-Tech sector job cuts in 2025: how many are ai-related redundancies?" }
+UnhrtdioneeDb@{ shape: win-pane, label: "_Published Nov 19, 2025, 02:08 PM_
+Ukraine pushes for political decision from eu on frozen assets in december" }
+Eaieriounttcwfke@{ shape: win-pane, label: "_Published Nov 13, 2025, 11:26 PM_
+Eu finance ministers agree using frozen russian assets most effective way to fund ukraine" }
+Twtsalorilbavrw@{ shape: win-pane, label: "_Published Nov 12, 2025, 03:00 PM_
+The eu wants to raise financial support for ukraine. will member states ever agree how?" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
+Belgium says eu states must share risk to use frozen russian assets for ukraine" }
+Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
+Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
+Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
+Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
+Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
+Belgium says eu states must share risk to use frozen russian assets for ukraine" }
+Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
+Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
+Eoufnisoker@{ shape: win-pane, label: "_Published Aug 31, 2025, 12:28 AM_
+Eu to work on using frozen russian assets to aid ukraine after war" }
+Rasptlfnttss@{ shape: win-pane, label: "_Published Sep 15, 2025, 04:05 PM_
+Russia warns europe that it will go after any state that takes its assets" }
+Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
+Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
+Eoufnisoker@{ shape: win-pane, label: "_Published Aug 31, 2025, 12:28 AM_
+Eu to work on using frozen russian assets to aid ukraine after war" }
+Rasptlfnttss@{ shape: win-pane, label: "_Published Sep 15, 2025, 04:05 PM_
+Russia warns europe that it will go after any state that takes its assets" }
 
-Geimipdnrie:::txtsize --> GeSranoynIls:::txtsize
-GeSranoynIls:::txtsize --> TejtoyItdn:::txtsize
-TejtoyItdn:::txtsize --> Antojoioyee:::txtsize
-TejtoyItdn:::txtsize --> Antojoioyee:::txtsize
-Geimipdnrie:::txtsize --> Msnditbonpiuf:::txtsize
-Msnditbonpiuf:::txtsize --> AooikIdwtfi:::txtsize
-AooikIdwtfi:::txtsize --> OIsoipettrr:::txtsize
-AooikIdwtfi:::txtsize --> InolSfulirwe:::txtsize
-Msnditbonpiuf:::txtsize --> GeSranoynIls:::txtsize
-GeSranoynIls:::txtsize --> TejtoyItdn:::txtsize
+UnhrtdioneeDb:::txtsize --> Eaieriounttcwfke:::txtsize
+Eaieriounttcwfke:::txtsize --> Twtsalorilbavrw:::txtsize
+Twtsalorilbavrw:::txtsize --> DsruasvUn:::txtsize
+Eaieriounttcwfke:::txtsize --> Busauasszsaske:::txtsize
+Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
+Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
+UnhrtdioneeDb:::txtsize --> Busauasszsaske:::txtsize
+Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
+Elrgessfakeoau:::txtsize --> Eoufnisoker:::txtsize
+Elrgessfakeoau:::txtsize --> Rasptlfnttss:::txtsize
+Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
+Elrgessfakeoau:::txtsize --> Eoufnisoker:::txtsize
+Elrgessfakeoau:::txtsize --> Rasptlfnttss:::txtsize
 
-Fkalegareet@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:30 AM_
-First kiss was 20 million years ago by early primates, scientists say" }
-Wasnantfsl@{ shape: win-pane, label: "_Published Jun 02, 2023, 08:45 AM_
-What makes us human? primate genome study offers some clues" }
-Etfoimiaoegu@{ shape: win-pane, label: "_Published Nov 06, 2022, 03:12 PM_
-Evolution of eye colour in primates is related to ambient light: study" }
-IapaotlaekSbrde@{ shape: win-pane, label: "_Published Jun 21, 2022, 05:44 PM_
-Increase in population of critically endangered monkey in s'pore, but more needs to be done" }
-TnirAnswr@{ shape: win-pane, label: "_Published May 03, 2023, 11:40 PM_
-The pendant is 20,000 years old. ancient dna shows who wore it" }
-Etfoimiaoegu@{ shape: win-pane, label: "_Published Nov 06, 2022, 03:12 PM_
-Evolution of eye colour in primates is related to ambient light: study" }
-IapaotlaekSbrde@{ shape: win-pane, label: "_Published Jun 21, 2022, 05:44 PM_
-Increase in population of critically endangered monkey in s'pore, but more needs to be done" }
+AUencfmpome@{ shape: win-pane, label: "_Published Nov 19, 2025, 01:43 PM_
+After un vote, netanyahu calls for hamas’ expulsion from the region" }
+UuCipruomzcn@{ shape: win-pane, label: "_Published Nov 18, 2025, 06:27 AM_
+Un security council adopts us resolution on trump’s gaza peace plan" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+UecSiustfpa@{ shape: win-pane, label: "_Published Nov 18, 2025, 07:13 PM_
+Un chief welcomes security council’s adoption of trump’s gaza plan" }
+UuCipruomzcn@{ shape: win-pane, label: "_Published Nov 18, 2025, 06:27 AM_
+Un security council adopts us resolution on trump’s gaza peace plan" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+UuCipruomzcn@{ shape: win-pane, label: "_Published Nov 18, 2025, 06:27 AM_
+Un security council adopts us resolution on trump’s gaza peace plan" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
 
-Fkalegareet:::txtsize --> Wasnantfsl:::txtsize
-Wasnantfsl:::txtsize --> Etfoimiaoegu:::txtsize
-Etfoimiaoegu:::txtsize --> IapaotlaekSbrde:::txtsize
-Wasnantfsl:::txtsize --> TnirAnswr:::txtsize
-Fkalegareet:::txtsize --> Etfoimiaoegu:::txtsize
-Etfoimiaoegu:::txtsize --> IapaotlaekSbrde:::txtsize
+AUencfmpome:::txtsize --> UuCipruomzcn:::txtsize
+UuCipruomzcn:::txtsize --> Wouaaam:::txtsize
+Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
+Wouaaam:::txtsize --> NyeeawHakl:::txtsize
+UuCipruomzcn:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+AUencfmpome:::txtsize --> UecSiustfpa:::txtsize
+UecSiustfpa:::txtsize --> UuCipruomzcn:::txtsize
+UuCipruomzcn:::txtsize --> Wouaaam:::txtsize
+UuCipruomzcn:::txtsize --> Sbsrcdnacaale:::txtsize
+UecSiustfpa:::txtsize --> UuCipruomzcn:::txtsize
+UuCipruomzcn:::txtsize --> Wouaaam:::txtsize
+UuCipruomzcn:::txtsize --> Sbsrcdnacaale:::txtsize
 
 ```
-<i>Last updated: 2025-11-19 12:00:59.844988 (GMT+8)</i>
+<i>Last updated: 2025-11-19 16:00:29.107734 (GMT+8)</i>
 <!-- END -->
