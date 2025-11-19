@@ -16,111 +16,141 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ctudieriaa@{ shape: win-pane, label: "_Published Nov 19, 2025, 07:17 PM_
-Christie’s suspends paris sale of world’s ‘first calculator’" }
-Dnpncotnv@{ shape: win-pane, label: "_Published Nov 06, 2025, 09:05 PM_
-Diamonds, napoleon brooch up for auction in geneva" }
-Jisedpunui@{ shape: win-pane, label: "_Published Oct 21, 2025, 10:50 PM_
-Jane birkin’s hermes handbag up for auction in abu dhabi" }
-TagBnhcait@{ shape: win-pane, label: "_Published Jul 10, 2025, 11:59 PM_
-The $12.8m bag: original birkin smashes records at paris auction" }
-Erehiaaasnnr@{ shape: win-pane, label: "_Published Mar 28, 2025, 05:00 AM_
-Electric dreams: the curious tale of a thomas edison fan in singapore" }
-TunMhlrhgaso@{ shape: win-pane, label: "_Published Aug 10, 2024, 05:00 AM_
-Treasure hunters: meet the collectors archiving singapore’s history" }
-SAsieohvlusZst@{ shape: win-pane, label: "_Published Oct 26, 2023, 06:45 PM_
-Sonny angels: the tiny cherub dolls that have stolen countless gen z girls’ hearts" }
-UentlgetqAut@{ shape: win-pane, label: "_Published Mar 07, 2025, 10:00 AM_
-Uncovering nuggets of old singapore at katong square antique centre" }
+Untatucfoawi@{ shape: win-pane, label: "_Published Nov 19, 2025, 11:13 PM_
+Us, uk and australia sanction russia cyber firms over ransomware links" }
+Ustpsyssisriico@{ shape: win-pane, label: "_Published Nov 19, 2025, 07:13 PM_
+Uk says ‘military options ready’ as russian spy ship uses lasers against air force pilots" }
+UltlTytnsP@{ shape: win-pane, label: "_Published Oct 28, 2025, 12:20 AM_
+Uk seals $13b jets deal with turkey in nato sign to russia’s putin" }
+Nycimreemifile@{ shape: win-pane, label: "_Published Sep 01, 2025, 12:44 AM_
+Norway selects british-made frigates to beef up maritime defence in $17 billion deal" }
+UjdfnnnnroiRae@{ shape: win-pane, label: "_Published Nov 08, 2025, 01:17 AM_
+Uk man jailed for offering then-defence minister’s information to russian ‘spies’" }
+Rebdikajde@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:00 PM_
+Ringleader behind russia-linked uk arson jailed for 17 years" }
+BrccnabRaekoefi@{ shape: win-pane, label: "_Published Mar 07, 2025, 11:11 PM_
+Bulgarians convicted in britain of being russian spies working for wirecard fugitive" }
+RaiieZslTy@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:46 PM_
+Russian strikes kill 25 ahead of zelensky talks in turkey" }
+RakyanclUns@{ shape: win-pane, label: "_Published Nov 15, 2025, 04:56 AM_
+Russia strike on kyiv apartment block kills six, ukraine says" }
+Unalsrit@{ shape: win-pane, label: "_Published Nov 14, 2025, 09:56 AM_
+Ukrainian capital comes under ‘massive’ attack" }
+AapsRamlaibia@{ shape: win-pane, label: "_Published Nov 14, 2025, 11:27 PM_
+Azerbaijan protests to russia over missile damage to its embassy in ukraine" }
+Unlywlmiefesei@{ shape: win-pane, label: "_Published Nov 16, 2025, 04:39 AM_
+Ukraine’s zelensky renews calls for more air defence after deadly strike on kyiv" }
+Unitnilnes@{ shape: win-pane, label: "_Published Nov 16, 2025, 12:29 AM_
+Ukraine claims attack on russian oil refinery near moscow" }
+UnaRatufasy@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:55 PM_
+Ukraine attack on russian port disrupts 2% of global oil supply" }
 
-Ctudieriaa:::txtsize --> Dnpncotnv:::txtsize
-Dnpncotnv:::txtsize --> Jisedpunui:::txtsize
-Jisedpunui:::txtsize --> TagBnhcait:::txtsize
-Ctudieriaa:::txtsize --> Erehiaaasnnr:::txtsize
-Erehiaaasnnr:::txtsize --> TunMhlrhgaso:::txtsize
-TunMhlrhgaso:::txtsize --> SAsieohvlusZst:::txtsize
-Erehiaaasnnr:::txtsize --> UentlgetqAut:::txtsize
+Untatucfoawi:::txtsize --> Ustpsyssisriico:::txtsize
+Ustpsyssisriico:::txtsize --> UltlTytnsP:::txtsize
+UltlTytnsP:::txtsize --> Nycimreemifile:::txtsize
+Ustpsyssisriico:::txtsize --> UjdfnnnnroiRae:::txtsize
+UjdfnnnnroiRae:::txtsize --> Rebdikajde:::txtsize
+UjdfnnnnroiRae:::txtsize --> BrccnabRaekoefi:::txtsize
+Untatucfoawi:::txtsize --> RaiieZslTy:::txtsize
+RaiieZslTy:::txtsize --> RakyanclUns:::txtsize
+RakyanclUns:::txtsize --> Unalsrit:::txtsize
+RakyanclUns:::txtsize --> AapsRamlaibia:::txtsize
+RaiieZslTy:::txtsize --> Unlywlmiefesei:::txtsize
+Unlywlmiefesei:::txtsize --> Unitnilnes:::txtsize
+Unlywlmiefesei:::txtsize --> UnaRatufasy:::txtsize
 
-Leudecafexdrl@{ shape: win-pane, label: "_Published Nov 19, 2025, 06:53 PM_
-Louvre museum to add 100 external cameras by 2026 after heist exposed security flaws" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
-‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
-NegaTrah@{ shape: win-pane, label: "_Published Feb 20, 2025, 01:00 PM_
-Nike bets big on reality tv star kim kardashian" }
-Kriinucneida@{ shape: win-pane, label: "_Published May 17, 2023, 12:00 PM_
-Kim kardashian's $1.34 billion buyout pitch leans on her social media reach" }
-Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
-Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
-GpmglnolN@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:52 PM_
-Greenpeace $880m damages ruling in us shocks global ngos" }
-Coievitecjs@{ shape: win-pane, label: "_Published Oct 31, 2025, 07:06 PM_
-Count of paris urges louvre thieves to ‘give us back our jewels’" }
-Leteidlaerrsl@{ shape: win-pane, label: "_Published Oct 22, 2025, 02:52 AM_
-Louvre heist losses estimated at $133 million as museum director faces grilling" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
-Paris’ louvre museum robbery: what jewels did the thieves steal?" }
-PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
-Paris’ louvre museum robbery: what jewels did the thieves steal?" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+UnlysienoeoUch@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:48 PM_
+Ukraine’s zelensky meets turkish president as word emerges of new us peace push" }
+RaiieZslTy@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:46 PM_
+Russian strikes kill 25 ahead of zelensky talks in turkey" }
+RakyanclUns@{ shape: win-pane, label: "_Published Nov 15, 2025, 04:56 AM_
+Russia strike on kyiv apartment block kills six, ukraine says" }
+Unalsrit@{ shape: win-pane, label: "_Published Nov 14, 2025, 09:56 AM_
+Ukrainian capital comes under ‘massive’ attack" }
+AapsRamlaibia@{ shape: win-pane, label: "_Published Nov 14, 2025, 11:27 PM_
+Azerbaijan protests to russia over missile damage to its embassy in ukraine" }
+Unlywlmiefesei@{ shape: win-pane, label: "_Published Nov 16, 2025, 04:39 AM_
+Ukraine’s zelensky renews calls for more air defence after deadly strike on kyiv" }
+Unitnilnes@{ shape: win-pane, label: "_Published Nov 16, 2025, 12:29 AM_
+Ukraine claims attack on russian oil refinery near moscow" }
+UnaRatufasy@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:55 PM_
+Ukraine attack on russian port disrupts 2% of global oil supply" }
+CpsartosUnly@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:15 PM_
+Corruption scandal, court battles pose test for ukraine’s zelensky" }
+UnpCeiaronhwmen@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:51 PM_
+Ukraine suspends cabinet minister as corruption scandal shakes wartime government" }
+CZslufetarc@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:54 AM_
+Close zelensky ally accused of orchestrating major graft scheme" }
+Zsvossssrrsgai@{ shape: win-pane, label: "_Published Jul 31, 2025, 10:39 PM_
+Zelensky, moving to defuse crisis, restores power of ukraine’s anti-graft agencies" }
+UnasnaRaa@{ shape: win-pane, label: "_Published Nov 09, 2025, 08:55 PM_
+Ukraine scrambles for energy after russian attacks" }
+Unnimruieusnoos@{ shape: win-pane, label: "_Published Nov 09, 2025, 01:25 PM_
+Ukraine drone strike temporarily cuts utilities in russia’s voronezh, governor says" }
+SdroisdshazaeaUn@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:53 AM_
+Second external power line restored at russian-held zaporizhzhia nuclear plant in ukraine" }
 
-Leudecafexdrl:::txtsize --> Ptineluiisey:::txtsize
-Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
-GpboiPoidaes:::txtsize --> NegaTrah:::txtsize
-GpboiPoidaes:::txtsize --> Kriinucneida:::txtsize
-Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
-Gpssofemmnsrt:::txtsize --> GpmglnolN:::txtsize
-Leudecafexdrl:::txtsize --> Coievitecjs:::txtsize
-Coievitecjs:::txtsize --> Leteidlaerrsl:::txtsize
-Leteidlaerrsl:::txtsize --> Ptineluiisey:::txtsize
-Leteidlaerrsl:::txtsize --> PLeubhwitea:::txtsize
-Coievitecjs:::txtsize --> PLeubhwitea:::txtsize
-PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
-PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
+UnlysienoeoUch:::txtsize --> RaiieZslTy:::txtsize
+RaiieZslTy:::txtsize --> RakyanclUns:::txtsize
+RakyanclUns:::txtsize --> Unalsrit:::txtsize
+RakyanclUns:::txtsize --> AapsRamlaibia:::txtsize
+RaiieZslTy:::txtsize --> Unlywlmiefesei:::txtsize
+Unlywlmiefesei:::txtsize --> Unitnilnes:::txtsize
+Unlywlmiefesei:::txtsize --> UnaRatufasy:::txtsize
+UnlysienoeoUch:::txtsize --> CpsartosUnly:::txtsize
+CpsartosUnly:::txtsize --> UnpCeiaronhwmen:::txtsize
+UnpCeiaronhwmen:::txtsize --> CZslufetarc:::txtsize
+UnpCeiaronhwmen:::txtsize --> Zsvossssrrsgai:::txtsize
+CpsartosUnly:::txtsize --> UnasnaRaa:::txtsize
+UnasnaRaa:::txtsize --> Unnimruieusnoos:::txtsize
+UnasnaRaa:::txtsize --> SdroisdshazaeaUn:::txtsize
 
-Nrsseaeeeiyci@{ shape: win-pane, label: "_Published Nov 19, 2025, 06:25 PM_
-Netherlands halts nexperia takeover in gesture to china, says dutch minister" }
-Cgspspunehoiu@{ shape: win-pane, label: "_Published Nov 09, 2025, 09:15 PM_
-China grants exemptions to export curbs on nexperia chips for civilian use" }
-Unloehmsewne@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:01 AM_
-Us, china seal deal on rare earths; trump says xi meeting was a 12 on scale of 1 to 10" }
-LnmegvpSaee@{ shape: win-pane, label: "_Published Oct 30, 2025, 12:05 AM_
-Looming trump-xi meeting revives hope of us-china trade truce" }
-Wrteamdar@{ shape: win-pane, label: "_Published Oct 21, 2025, 09:47 PM_
-Why rare earths are china’s trump card in trade war" }
-Chbetolefeins@{ shape: win-pane, label: "_Published Nov 09, 2025, 05:15 PM_
-China halts ban on export to us of dual-use metals, further easing tensions" }
-CtbrkiimnU@{ shape: win-pane, label: "_Published Dec 03, 2024, 05:23 PM_
-China to curb exports of key chipmaking components to us" }
-Unloehmsewne@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:01 AM_
-Us, china seal deal on rare earths; trump says xi meeting was a 12 on scale of 1 to 10" }
-Dsoheercrmi@{ shape: win-pane, label: "_Published Jun 12, 2023, 02:45 PM_
-Dutch seek to bar chinese students from tech courses amid chip war" }
-ElinlhsuhuneL@{ shape: win-pane, label: "_Published Feb 15, 2023, 06:24 PM_
-Ex-employee in china stole tech data, says dutch chip equipment maker asml" }
-UuethnpCcxl@{ shape: win-pane, label: "_Published Jan 28, 2023, 10:25 AM_
-Us secures deal with netherlands, japan on china chip export limit" }
-UuethnpCcxl@{ shape: win-pane, label: "_Published Jan 28, 2023, 10:25 AM_
-Us secures deal with netherlands, japan on china chip export limit" }
+RaiieZslTy@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:46 PM_
+Russian strikes kill 25 ahead of zelensky talks in turkey" }
+RakyanclUns@{ shape: win-pane, label: "_Published Nov 15, 2025, 04:56 AM_
+Russia strike on kyiv apartment block kills six, ukraine says" }
+Unalsrit@{ shape: win-pane, label: "_Published Nov 14, 2025, 09:56 AM_
+Ukrainian capital comes under ‘massive’ attack" }
+Raaanasoleaa@{ shape: win-pane, label: "_Published Nov 08, 2025, 06:40 PM_
+Russian attacks target nuclear substations, kill seven, ukraine says" }
+UlRamaoerwttsparr@{ shape: win-pane, label: "_Published Oct 25, 2025, 06:05 PM_
+Us could hit russia with more sanctions to end ukraine war, but first wants europe to raise pressure" }
+AapsRamlaibia@{ shape: win-pane, label: "_Published Nov 14, 2025, 11:27 PM_
+Azerbaijan protests to russia over missile damage to its embassy in ukraine" }
+Unalsrit@{ shape: win-pane, label: "_Published Nov 14, 2025, 09:56 AM_
+Ukrainian capital comes under ‘massive’ attack" }
+Aalrsidtdlonepkn@{ shape: win-pane, label: "_Published Jul 20, 2025, 02:56 AM_
+Azerbaijan leader wants russia to admit it accidentally shot down passenger plane killing 38" }
+Unlywlmiefesei@{ shape: win-pane, label: "_Published Nov 16, 2025, 04:39 AM_
+Ukraine’s zelensky renews calls for more air defence after deadly strike on kyiv" }
+Unitnilnes@{ shape: win-pane, label: "_Published Nov 16, 2025, 12:29 AM_
+Ukraine claims attack on russian oil refinery near moscow" }
+RakyanclUns@{ shape: win-pane, label: "_Published Nov 15, 2025, 04:56 AM_
+Russia strike on kyiv apartment block kills six, ukraine says" }
+UnaRatufasy@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:55 PM_
+Ukraine attack on russian port disrupts 2% of global oil supply" }
+UnaRatufasy@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:55 PM_
+Ukraine attack on russian port disrupts 2% of global oil supply" }
+Unalsrit@{ shape: win-pane, label: "_Published Nov 14, 2025, 09:56 AM_
+Ukrainian capital comes under ‘massive’ attack" }
+Unalsrit@{ shape: win-pane, label: "_Published Nov 14, 2025, 09:56 AM_
+Ukrainian capital comes under ‘massive’ attack" }
 
-Nrsseaeeeiyci:::txtsize --> Cgspspunehoiu:::txtsize
-Cgspspunehoiu:::txtsize --> Unloehmsewne:::txtsize
-Unloehmsewne:::txtsize --> LnmegvpSaee:::txtsize
-Unloehmsewne:::txtsize --> Wrteamdar:::txtsize
-Cgspspunehoiu:::txtsize --> Chbetolefeins:::txtsize
-Chbetolefeins:::txtsize --> CtbrkiimnU:::txtsize
-Chbetolefeins:::txtsize --> Unloehmsewne:::txtsize
-Nrsseaeeeiyci:::txtsize --> Dsoheercrmi:::txtsize
-Dsoheercrmi:::txtsize --> ElinlhsuhuneL:::txtsize
-ElinlhsuhuneL:::txtsize --> UuethnpCcxl:::txtsize
-ElinlhsuhuneL:::txtsize --> UuethnpCcxl:::txtsize
+RaiieZslTy:::txtsize --> RakyanclUns:::txtsize
+RakyanclUns:::txtsize --> Unalsrit:::txtsize
+Unalsrit:::txtsize --> Raaanasoleaa:::txtsize
+Unalsrit:::txtsize --> UlRamaoerwttsparr:::txtsize
+RakyanclUns:::txtsize --> AapsRamlaibia:::txtsize
+AapsRamlaibia:::txtsize --> Unalsrit:::txtsize
+AapsRamlaibia:::txtsize --> Aalrsidtdlonepkn:::txtsize
+RaiieZslTy:::txtsize --> Unlywlmiefesei:::txtsize
+Unlywlmiefesei:::txtsize --> Unitnilnes:::txtsize
+Unitnilnes:::txtsize --> RakyanclUns:::txtsize
+Unitnilnes:::txtsize --> UnaRatufasy:::txtsize
+Unlywlmiefesei:::txtsize --> UnaRatufasy:::txtsize
+UnaRatufasy:::txtsize --> Unalsrit:::txtsize
+UnaRatufasy:::txtsize --> Unalsrit:::txtsize
 
 ```
-<i>Last updated: 2025-11-19 20:01:02.633704 (GMT+8)</i>
+<i>Last updated: 2025-11-20 00:00:34.733372 (GMT+8)</i>
 <!-- END -->
