@@ -16,141 +16,138 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Untatucfoawi@{ shape: win-pane, label: "_Published Nov 19, 2025, 11:13 PM_
-Us, uk and australia sanction russia cyber firms over ransomware links" }
-Ustpsyssisriico@{ shape: win-pane, label: "_Published Nov 19, 2025, 07:13 PM_
-Uk says ‘military options ready’ as russian spy ship uses lasers against air force pilots" }
-UltlTytnsP@{ shape: win-pane, label: "_Published Oct 28, 2025, 12:20 AM_
-Uk seals $13b jets deal with turkey in nato sign to russia’s putin" }
-Nycimreemifile@{ shape: win-pane, label: "_Published Sep 01, 2025, 12:44 AM_
-Norway selects british-made frigates to beef up maritime defence in $17 billion deal" }
-UjdfnnnnroiRae@{ shape: win-pane, label: "_Published Nov 08, 2025, 01:17 AM_
-Uk man jailed for offering then-defence minister’s information to russian ‘spies’" }
-Rebdikajde@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:00 PM_
-Ringleader behind russia-linked uk arson jailed for 17 years" }
-BrccnabRaekoefi@{ shape: win-pane, label: "_Published Mar 07, 2025, 11:11 PM_
-Bulgarians convicted in britain of being russian spies working for wirecard fugitive" }
-RaiieZslTy@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:46 PM_
-Russian strikes kill 25 ahead of zelensky talks in turkey" }
-RakyanclUns@{ shape: win-pane, label: "_Published Nov 15, 2025, 04:56 AM_
-Russia strike on kyiv apartment block kills six, ukraine says" }
-Unalsrit@{ shape: win-pane, label: "_Published Nov 14, 2025, 09:56 AM_
-Ukrainian capital comes under ‘massive’ attack" }
-AapsRamlaibia@{ shape: win-pane, label: "_Published Nov 14, 2025, 11:27 PM_
-Azerbaijan protests to russia over missile damage to its embassy in ukraine" }
-Unlywlmiefesei@{ shape: win-pane, label: "_Published Nov 16, 2025, 04:39 AM_
-Ukraine’s zelensky renews calls for more air defence after deadly strike on kyiv" }
-Unitnilnes@{ shape: win-pane, label: "_Published Nov 16, 2025, 12:29 AM_
-Ukraine claims attack on russian oil refinery near moscow" }
-UnaRatufasy@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:55 PM_
-Ukraine attack on russian port disrupts 2% of global oil supply" }
+ScpeerlSr@{ shape: win-pane, label: "_Published Nov 20, 2025, 02:08 AM_
+Saudi crown prince hosted at friendlier us congress" }
+Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
+Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
+Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
+Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
+TsoidShiKoe@{ shape: win-pane, label: "_Published Oct 21, 2018, 04:04 AM_
+Trump says not satisfied with saudi handling of khashoggi death" }
+DorsasiSriepi@{ shape: win-pane, label: "_Published Oct 20, 2018, 08:46 AM_
+Death of journalist jamal khashoggi: from saudi royal insider to open critic" }
+TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
+Trump threatens abc news in oval office meltdown" }
+Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
+Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
+Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
+Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
+Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
+Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
+Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
+Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
+TsoidShiKoe@{ shape: win-pane, label: "_Published Oct 21, 2018, 04:04 AM_
+Trump says not satisfied with saudi handling of khashoggi death" }
+DorsasiSriepi@{ shape: win-pane, label: "_Published Oct 20, 2018, 08:46 AM_
+Death of journalist jamal khashoggi: from saudi royal insider to open critic" }
+TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
+Trump threatens abc news in oval office meltdown" }
+Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
+Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
+Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
+Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
 
-Untatucfoawi:::txtsize --> Ustpsyssisriico:::txtsize
-Ustpsyssisriico:::txtsize --> UltlTytnsP:::txtsize
-UltlTytnsP:::txtsize --> Nycimreemifile:::txtsize
-Ustpsyssisriico:::txtsize --> UjdfnnnnroiRae:::txtsize
-UjdfnnnnroiRae:::txtsize --> Rebdikajde:::txtsize
-UjdfnnnnroiRae:::txtsize --> BrccnabRaekoefi:::txtsize
-Untatucfoawi:::txtsize --> RaiieZslTy:::txtsize
-RaiieZslTy:::txtsize --> RakyanclUns:::txtsize
-RakyanclUns:::txtsize --> Unalsrit:::txtsize
-RakyanclUns:::txtsize --> AapsRamlaibia:::txtsize
-RaiieZslTy:::txtsize --> Unlywlmiefesei:::txtsize
-Unlywlmiefesei:::txtsize --> Unitnilnes:::txtsize
-Unlywlmiefesei:::txtsize --> UnaRatufasy:::txtsize
+ScpeerlSr:::txtsize --> Tdddnersdiinst:::txtsize
+Tdddnersdiinst:::txtsize --> Mrusnrsasikeprsc:::txtsize
+Mrusnrsasikeprsc:::txtsize --> TsoidShiKoe:::txtsize
+Mrusnrsasikeprsc:::txtsize --> DorsasiSriepi:::txtsize
+Tdddnersdiinst:::txtsize --> TttBsailn:::txtsize
+TttBsailn:::txtsize --> Mrusnrsasikeprsc:::txtsize
+TttBsailn:::txtsize --> Tdddnersdiinst:::txtsize
+ScpeerlSr:::txtsize --> Tdddnersdiinst:::txtsize
+Tdddnersdiinst:::txtsize --> Mrusnrsasikeprsc:::txtsize
+Mrusnrsasikeprsc:::txtsize --> TsoidShiKoe:::txtsize
+Mrusnrsasikeprsc:::txtsize --> DorsasiSriepi:::txtsize
+Tdddnersdiinst:::txtsize --> TttBsailn:::txtsize
+TttBsailn:::txtsize --> Mrusnrsasikeprsc:::txtsize
+TttBsailn:::txtsize --> Tdddnersdiinst:::txtsize
 
-UnlysienoeoUch@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:48 PM_
-Ukraine’s zelensky meets turkish president as word emerges of new us peace push" }
-RaiieZslTy@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:46 PM_
-Russian strikes kill 25 ahead of zelensky talks in turkey" }
-RakyanclUns@{ shape: win-pane, label: "_Published Nov 15, 2025, 04:56 AM_
-Russia strike on kyiv apartment block kills six, ukraine says" }
-Unalsrit@{ shape: win-pane, label: "_Published Nov 14, 2025, 09:56 AM_
-Ukrainian capital comes under ‘massive’ attack" }
-AapsRamlaibia@{ shape: win-pane, label: "_Published Nov 14, 2025, 11:27 PM_
-Azerbaijan protests to russia over missile damage to its embassy in ukraine" }
-Unlywlmiefesei@{ shape: win-pane, label: "_Published Nov 16, 2025, 04:39 AM_
-Ukraine’s zelensky renews calls for more air defence after deadly strike on kyiv" }
-Unitnilnes@{ shape: win-pane, label: "_Published Nov 16, 2025, 12:29 AM_
-Ukraine claims attack on russian oil refinery near moscow" }
-UnaRatufasy@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:55 PM_
-Ukraine attack on russian port disrupts 2% of global oil supply" }
-CpsartosUnly@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:15 PM_
-Corruption scandal, court battles pose test for ukraine’s zelensky" }
-UnpCeiaronhwmen@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:51 PM_
-Ukraine suspends cabinet minister as corruption scandal shakes wartime government" }
-CZslufetarc@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:54 AM_
-Close zelensky ally accused of orchestrating major graft scheme" }
-Zsvossssrrsgai@{ shape: win-pane, label: "_Published Jul 31, 2025, 10:39 PM_
-Zelensky, moving to defuse crisis, restores power of ukraine’s anti-graft agencies" }
-UnasnaRaa@{ shape: win-pane, label: "_Published Nov 09, 2025, 08:55 PM_
-Ukraine scrambles for energy after russian attacks" }
-Unnimruieusnoos@{ shape: win-pane, label: "_Published Nov 09, 2025, 01:25 PM_
-Ukraine drone strike temporarily cuts utilities in russia’s voronezh, governor says" }
-SdroisdshazaeaUn@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:53 AM_
-Second external power line restored at russian-held zaporizhzhia nuclear plant in ukraine" }
+UtemilEiehyds@{ shape: win-pane, label: "_Published Nov 20, 2025, 01:38 AM_
+Us justice department will release epstein files within 30 days, bondi says" }
+Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
+Epstein files to be released to us public: what are they?" }
+ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
+After trump reversal, us house pushes forward on epstein vote" }
+TuRlstrspnsvla@{ shape: win-pane, label: "_Published Nov 17, 2025, 11:57 AM_
+Trump urges republicans to vote for release of epstein files in reversal of stance" }
+TskeMewtco@{ shape: win-pane, label: "_Published Nov 18, 2025, 09:15 AM_
+Trump’s frankenstein? us maga meltdown tests its creator" }
+TsialjGeorfri@{ shape: win-pane, label: "_Published Nov 11, 2025, 07:29 AM_
+Trump says firebrand ally marjorie greene has ‘lost her way’ after criticism" }
+Frpsattly@{ shape: win-pane, label: "_Published Nov 16, 2025, 07:29 AM_
+Former trump ally says facing threats ‘fuelled’ by him" }
+Ugpsufrspnsitm@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:23 AM_
+Us congress passes measure to force release of epstein files, sending it to trump" }
+Therltsfwrons@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:55 AM_
+Trump has the power to release the epstein files, with or without congress" }
+ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
+After trump reversal, us house pushes forward on epstein vote" }
+Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
+Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
+Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
+Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
+TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
+Trump threatens abc news in oval office meltdown" }
 
-UnlysienoeoUch:::txtsize --> RaiieZslTy:::txtsize
-RaiieZslTy:::txtsize --> RakyanclUns:::txtsize
-RakyanclUns:::txtsize --> Unalsrit:::txtsize
-RakyanclUns:::txtsize --> AapsRamlaibia:::txtsize
-RaiieZslTy:::txtsize --> Unlywlmiefesei:::txtsize
-Unlywlmiefesei:::txtsize --> Unitnilnes:::txtsize
-Unlywlmiefesei:::txtsize --> UnaRatufasy:::txtsize
-UnlysienoeoUch:::txtsize --> CpsartosUnly:::txtsize
-CpsartosUnly:::txtsize --> UnpCeiaronhwmen:::txtsize
-UnpCeiaronhwmen:::txtsize --> CZslufetarc:::txtsize
-UnpCeiaronhwmen:::txtsize --> Zsvossssrrsgai:::txtsize
-CpsartosUnly:::txtsize --> UnasnaRaa:::txtsize
-UnasnaRaa:::txtsize --> Unnimruieusnoos:::txtsize
-UnasnaRaa:::txtsize --> SdroisdshazaeaUn:::txtsize
+UtemilEiehyds:::txtsize --> Eieeaobhe:::txtsize
+Eieeaobhe:::txtsize --> ATrsHpsaEie:::txtsize
+ATrsHpsaEie:::txtsize --> TuRlstrspnsvla:::txtsize
+Eieeaobhe:::txtsize --> TskeMewtco:::txtsize
+TskeMewtco:::txtsize --> TsialjGeorfri:::txtsize
+TskeMewtco:::txtsize --> Frpsattly:::txtsize
+UtemilEiehyds:::txtsize --> Ugpsufrspnsitm:::txtsize
+Ugpsufrspnsitm:::txtsize --> Therltsfwrons:::txtsize
+Therltsfwrons:::txtsize --> ATrsHpsaEie:::txtsize
+Ugpsufrspnsitm:::txtsize --> Tdddnersdiinst:::txtsize
+Tdddnersdiinst:::txtsize --> Mrusnrsasikeprsc:::txtsize
+Tdddnersdiinst:::txtsize --> TttBsailn:::txtsize
 
-RaiieZslTy@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:46 PM_
-Russian strikes kill 25 ahead of zelensky talks in turkey" }
-RakyanclUns@{ shape: win-pane, label: "_Published Nov 15, 2025, 04:56 AM_
-Russia strike on kyiv apartment block kills six, ukraine says" }
-Unalsrit@{ shape: win-pane, label: "_Published Nov 14, 2025, 09:56 AM_
-Ukrainian capital comes under ‘massive’ attack" }
-Raaanasoleaa@{ shape: win-pane, label: "_Published Nov 08, 2025, 06:40 PM_
-Russian attacks target nuclear substations, kill seven, ukraine says" }
-UlRamaoerwttsparr@{ shape: win-pane, label: "_Published Oct 25, 2025, 06:05 PM_
-Us could hit russia with more sanctions to end ukraine war, but first wants europe to raise pressure" }
-AapsRamlaibia@{ shape: win-pane, label: "_Published Nov 14, 2025, 11:27 PM_
-Azerbaijan protests to russia over missile damage to its embassy in ukraine" }
-Unalsrit@{ shape: win-pane, label: "_Published Nov 14, 2025, 09:56 AM_
-Ukrainian capital comes under ‘massive’ attack" }
-Aalrsidtdlonepkn@{ shape: win-pane, label: "_Published Jul 20, 2025, 02:56 AM_
-Azerbaijan leader wants russia to admit it accidentally shot down passenger plane killing 38" }
-Unlywlmiefesei@{ shape: win-pane, label: "_Published Nov 16, 2025, 04:39 AM_
-Ukraine’s zelensky renews calls for more air defence after deadly strike on kyiv" }
-Unitnilnes@{ shape: win-pane, label: "_Published Nov 16, 2025, 12:29 AM_
-Ukraine claims attack on russian oil refinery near moscow" }
-RakyanclUns@{ shape: win-pane, label: "_Published Nov 15, 2025, 04:56 AM_
-Russia strike on kyiv apartment block kills six, ukraine says" }
-UnaRatufasy@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:55 PM_
-Ukraine attack on russian port disrupts 2% of global oil supply" }
-UnaRatufasy@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:55 PM_
-Ukraine attack on russian port disrupts 2% of global oil supply" }
-Unalsrit@{ shape: win-pane, label: "_Published Nov 14, 2025, 09:56 AM_
-Ukrainian capital comes under ‘massive’ attack" }
-Unalsrit@{ shape: win-pane, label: "_Published Nov 14, 2025, 09:56 AM_
-Ukrainian capital comes under ‘massive’ attack" }
+IlselsaGansec@{ shape: win-pane, label: "_Published Nov 20, 2025, 01:13 AM_
+Israeli airstrikes kill 10 palestinians in gaza, rattling ceasefire, medics say" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+Gtbfiwneta@{ shape: win-pane, label: "_Published Nov 20, 2025, 12:33 AM_
+Gaza storms bring flooding, sewage and misery in tent camps" }
+Daastemyriihc@{ shape: win-pane, label: "_Published Nov 16, 2025, 07:59 AM_
+Displaced gaza residents face more misery as torrential rain lashes enclave" }
+Gsaardsrfsticese@{ shape: win-pane, label: "_Published Oct 10, 2025, 04:58 PM_
+Gazans stream towards wrecked homes as israeli forces start pulling back under ceasefire" }
+HqlssrGswli@{ shape: win-pane, label: "_Published Nov 14, 2025, 04:01 PM_
+Hamas quietly reasserts control in gaza as post-war talks grind on" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
 
-RaiieZslTy:::txtsize --> RakyanclUns:::txtsize
-RakyanclUns:::txtsize --> Unalsrit:::txtsize
-Unalsrit:::txtsize --> Raaanasoleaa:::txtsize
-Unalsrit:::txtsize --> UlRamaoerwttsparr:::txtsize
-RakyanclUns:::txtsize --> AapsRamlaibia:::txtsize
-AapsRamlaibia:::txtsize --> Unalsrit:::txtsize
-AapsRamlaibia:::txtsize --> Aalrsidtdlonepkn:::txtsize
-RaiieZslTy:::txtsize --> Unlywlmiefesei:::txtsize
-Unlywlmiefesei:::txtsize --> Unitnilnes:::txtsize
-Unitnilnes:::txtsize --> RakyanclUns:::txtsize
-Unitnilnes:::txtsize --> UnaRatufasy:::txtsize
-Unlywlmiefesei:::txtsize --> UnaRatufasy:::txtsize
-UnaRatufasy:::txtsize --> Unalsrit:::txtsize
-UnaRatufasy:::txtsize --> Unalsrit:::txtsize
+IlselsaGansec:::txtsize --> Wouaaam:::txtsize
+Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+Wouaaam:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+IlselsaGansec:::txtsize --> Gtbfiwneta:::txtsize
+Gtbfiwneta:::txtsize --> Daastemyriihc:::txtsize
+Daastemyriihc:::txtsize --> Gsaardsrfsticese:::txtsize
+Daastemyriihc:::txtsize --> HqlssrGswli:::txtsize
+Gtbfiwneta:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
 
 ```
-<i>Last updated: 2025-11-20 00:00:34.733372 (GMT+8)</i>
+<i>Last updated: 2025-11-20 04:01:09.346660 (GMT+8)</i>
 <!-- END -->
