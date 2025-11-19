@@ -16,120 +16,111 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Hrsitiewopduspn@{ shape: win-pane, label: "_Published Nov 19, 2025, 02:26 PM_
-Harvard says it is investigating ties between former president summers and epstein" }
-HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
-‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
-Jetisdntigntvem@{ shape: win-pane, label: "_Published Jul 08, 2025, 04:02 AM_
-Jeffrey epstein died by suicide, has no sex trafficking ‘client list’: us government memo" }
-Jetcriiebceiy@{ shape: win-pane, label: "_Published Apr 26, 2025, 12:15 PM_
-Jeffrey epstein accuser virginia giuffre dies by suicide, her family says" }
-MesciuiEie@{ shape: win-pane, label: "_Published Jun 07, 2025, 09:45 PM_
-Musk deletes post claiming trump is ‘in the epstein files’" }
-Tspnerifag@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:45 AM_
-Trump says epstein ‘stole’ underage victim from mar-a-lago spa" }
-WodoumtnMov@{ shape: win-pane, label: "_Published Jul 19, 2025, 06:16 AM_
-What you need to know about trump, epstein and the maga controversy" }
-Tseentnxneyes@{ shape: win-pane, label: "_Published Jul 29, 2025, 02:33 AM_
-Trump says he turned down invitation to sex offender jeffrey epstein’s island" }
+Ctudieriaa@{ shape: win-pane, label: "_Published Nov 19, 2025, 07:17 PM_
+Christie’s suspends paris sale of world’s ‘first calculator’" }
+Dnpncotnv@{ shape: win-pane, label: "_Published Nov 06, 2025, 09:05 PM_
+Diamonds, napoleon brooch up for auction in geneva" }
+Jisedpunui@{ shape: win-pane, label: "_Published Oct 21, 2025, 10:50 PM_
+Jane birkin’s hermes handbag up for auction in abu dhabi" }
+TagBnhcait@{ shape: win-pane, label: "_Published Jul 10, 2025, 11:59 PM_
+The $12.8m bag: original birkin smashes records at paris auction" }
+Erehiaaasnnr@{ shape: win-pane, label: "_Published Mar 28, 2025, 05:00 AM_
+Electric dreams: the curious tale of a thomas edison fan in singapore" }
+TunMhlrhgaso@{ shape: win-pane, label: "_Published Aug 10, 2024, 05:00 AM_
+Treasure hunters: meet the collectors archiving singapore’s history" }
+SAsieohvlusZst@{ shape: win-pane, label: "_Published Oct 26, 2023, 06:45 PM_
+Sonny angels: the tiny cherub dolls that have stolen countless gen z girls’ hearts" }
+UentlgetqAut@{ shape: win-pane, label: "_Published Mar 07, 2025, 10:00 AM_
+Uncovering nuggets of old singapore at katong square antique centre" }
 
-Hrsitiewopduspn:::txtsize --> HwtipngesTkfot:::txtsize
-HwtipngesTkfot:::txtsize --> Jetisdntigntvem:::txtsize
-Jetisdntigntvem:::txtsize --> Jetcriiebceiy:::txtsize
-Jetisdntigntvem:::txtsize --> MesciuiEie:::txtsize
-HwtipngesTkfot:::txtsize --> Tspnerifag:::txtsize
-Tspnerifag:::txtsize --> WodoumtnMov:::txtsize
-Tspnerifag:::txtsize --> Tseentnxneyes:::txtsize
+Ctudieriaa:::txtsize --> Dnpncotnv:::txtsize
+Dnpncotnv:::txtsize --> Jisedpunui:::txtsize
+Jisedpunui:::txtsize --> TagBnhcait:::txtsize
+Ctudieriaa:::txtsize --> Erehiaaasnnr:::txtsize
+Erehiaaasnnr:::txtsize --> TunMhlrhgaso:::txtsize
+TunMhlrhgaso:::txtsize --> SAsieohvlusZst:::txtsize
+Erehiaaasnnr:::txtsize --> UentlgetqAut:::txtsize
 
-UnhrtdioneeDb@{ shape: win-pane, label: "_Published Nov 19, 2025, 02:08 PM_
-Ukraine pushes for political decision from eu on frozen assets in december" }
-Eaieriounttcwfke@{ shape: win-pane, label: "_Published Nov 13, 2025, 11:26 PM_
-Eu finance ministers agree using frozen russian assets most effective way to fund ukraine" }
-Twtsalorilbavrw@{ shape: win-pane, label: "_Published Nov 12, 2025, 03:00 PM_
-The eu wants to raise financial support for ukraine. will member states ever agree how?" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
-Belgium says eu states must share risk to use frozen russian assets for ukraine" }
-Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
-Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
-Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
-Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
-Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
-Belgium says eu states must share risk to use frozen russian assets for ukraine" }
-Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
-Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
-Eoufnisoker@{ shape: win-pane, label: "_Published Aug 31, 2025, 12:28 AM_
-Eu to work on using frozen russian assets to aid ukraine after war" }
-Rasptlfnttss@{ shape: win-pane, label: "_Published Sep 15, 2025, 04:05 PM_
-Russia warns europe that it will go after any state that takes its assets" }
-Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
-Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
-Eoufnisoker@{ shape: win-pane, label: "_Published Aug 31, 2025, 12:28 AM_
-Eu to work on using frozen russian assets to aid ukraine after war" }
-Rasptlfnttss@{ shape: win-pane, label: "_Published Sep 15, 2025, 04:05 PM_
-Russia warns europe that it will go after any state that takes its assets" }
+Leudecafexdrl@{ shape: win-pane, label: "_Published Nov 19, 2025, 06:53 PM_
+Louvre museum to add 100 external cameras by 2026 after heist exposed security flaws" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
+‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
+NegaTrah@{ shape: win-pane, label: "_Published Feb 20, 2025, 01:00 PM_
+Nike bets big on reality tv star kim kardashian" }
+Kriinucneida@{ shape: win-pane, label: "_Published May 17, 2023, 12:00 PM_
+Kim kardashian's $1.34 billion buyout pitch leans on her social media reach" }
+Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
+Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
+GpmglnolN@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:52 PM_
+Greenpeace $880m damages ruling in us shocks global ngos" }
+Coievitecjs@{ shape: win-pane, label: "_Published Oct 31, 2025, 07:06 PM_
+Count of paris urges louvre thieves to ‘give us back our jewels’" }
+Leteidlaerrsl@{ shape: win-pane, label: "_Published Oct 22, 2025, 02:52 AM_
+Louvre heist losses estimated at $133 million as museum director faces grilling" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
+Paris’ louvre museum robbery: what jewels did the thieves steal?" }
+PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
+Paris’ louvre museum robbery: what jewels did the thieves steal?" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
 
-UnhrtdioneeDb:::txtsize --> Eaieriounttcwfke:::txtsize
-Eaieriounttcwfke:::txtsize --> Twtsalorilbavrw:::txtsize
-Twtsalorilbavrw:::txtsize --> DsruasvUn:::txtsize
-Eaieriounttcwfke:::txtsize --> Busauasszsaske:::txtsize
-Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
-Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
-UnhrtdioneeDb:::txtsize --> Busauasszsaske:::txtsize
-Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
-Elrgessfakeoau:::txtsize --> Eoufnisoker:::txtsize
-Elrgessfakeoau:::txtsize --> Rasptlfnttss:::txtsize
-Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
-Elrgessfakeoau:::txtsize --> Eoufnisoker:::txtsize
-Elrgessfakeoau:::txtsize --> Rasptlfnttss:::txtsize
+Leudecafexdrl:::txtsize --> Ptineluiisey:::txtsize
+Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
+GpboiPoidaes:::txtsize --> NegaTrah:::txtsize
+GpboiPoidaes:::txtsize --> Kriinucneida:::txtsize
+Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
+Gpssofemmnsrt:::txtsize --> GpmglnolN:::txtsize
+Leudecafexdrl:::txtsize --> Coievitecjs:::txtsize
+Coievitecjs:::txtsize --> Leteidlaerrsl:::txtsize
+Leteidlaerrsl:::txtsize --> Ptineluiisey:::txtsize
+Leteidlaerrsl:::txtsize --> PLeubhwitea:::txtsize
+Coievitecjs:::txtsize --> PLeubhwitea:::txtsize
+PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
+PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
 
-AUencfmpome@{ shape: win-pane, label: "_Published Nov 19, 2025, 01:43 PM_
-After un vote, netanyahu calls for hamas’ expulsion from the region" }
-UuCipruomzcn@{ shape: win-pane, label: "_Published Nov 18, 2025, 06:27 AM_
-Un security council adopts us resolution on trump’s gaza peace plan" }
-Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
-What does trump’s gaza peace plan promise?" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-UecSiustfpa@{ shape: win-pane, label: "_Published Nov 18, 2025, 07:13 PM_
-Un chief welcomes security council’s adoption of trump’s gaza plan" }
-UuCipruomzcn@{ shape: win-pane, label: "_Published Nov 18, 2025, 06:27 AM_
-Un security council adopts us resolution on trump’s gaza peace plan" }
-Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
-What does trump’s gaza peace plan promise?" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-UuCipruomzcn@{ shape: win-pane, label: "_Published Nov 18, 2025, 06:27 AM_
-Un security council adopts us resolution on trump’s gaza peace plan" }
-Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
-What does trump’s gaza peace plan promise?" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+Nrsseaeeeiyci@{ shape: win-pane, label: "_Published Nov 19, 2025, 06:25 PM_
+Netherlands halts nexperia takeover in gesture to china, says dutch minister" }
+Cgspspunehoiu@{ shape: win-pane, label: "_Published Nov 09, 2025, 09:15 PM_
+China grants exemptions to export curbs on nexperia chips for civilian use" }
+Unloehmsewne@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:01 AM_
+Us, china seal deal on rare earths; trump says xi meeting was a 12 on scale of 1 to 10" }
+LnmegvpSaee@{ shape: win-pane, label: "_Published Oct 30, 2025, 12:05 AM_
+Looming trump-xi meeting revives hope of us-china trade truce" }
+Wrteamdar@{ shape: win-pane, label: "_Published Oct 21, 2025, 09:47 PM_
+Why rare earths are china’s trump card in trade war" }
+Chbetolefeins@{ shape: win-pane, label: "_Published Nov 09, 2025, 05:15 PM_
+China halts ban on export to us of dual-use metals, further easing tensions" }
+CtbrkiimnU@{ shape: win-pane, label: "_Published Dec 03, 2024, 05:23 PM_
+China to curb exports of key chipmaking components to us" }
+Unloehmsewne@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:01 AM_
+Us, china seal deal on rare earths; trump says xi meeting was a 12 on scale of 1 to 10" }
+Dsoheercrmi@{ shape: win-pane, label: "_Published Jun 12, 2023, 02:45 PM_
+Dutch seek to bar chinese students from tech courses amid chip war" }
+ElinlhsuhuneL@{ shape: win-pane, label: "_Published Feb 15, 2023, 06:24 PM_
+Ex-employee in china stole tech data, says dutch chip equipment maker asml" }
+UuethnpCcxl@{ shape: win-pane, label: "_Published Jan 28, 2023, 10:25 AM_
+Us secures deal with netherlands, japan on china chip export limit" }
+UuethnpCcxl@{ shape: win-pane, label: "_Published Jan 28, 2023, 10:25 AM_
+Us secures deal with netherlands, japan on china chip export limit" }
 
-AUencfmpome:::txtsize --> UuCipruomzcn:::txtsize
-UuCipruomzcn:::txtsize --> Wouaaam:::txtsize
-Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
-Wouaaam:::txtsize --> NyeeawHakl:::txtsize
-UuCipruomzcn:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-AUencfmpome:::txtsize --> UecSiustfpa:::txtsize
-UecSiustfpa:::txtsize --> UuCipruomzcn:::txtsize
-UuCipruomzcn:::txtsize --> Wouaaam:::txtsize
-UuCipruomzcn:::txtsize --> Sbsrcdnacaale:::txtsize
-UecSiustfpa:::txtsize --> UuCipruomzcn:::txtsize
-UuCipruomzcn:::txtsize --> Wouaaam:::txtsize
-UuCipruomzcn:::txtsize --> Sbsrcdnacaale:::txtsize
+Nrsseaeeeiyci:::txtsize --> Cgspspunehoiu:::txtsize
+Cgspspunehoiu:::txtsize --> Unloehmsewne:::txtsize
+Unloehmsewne:::txtsize --> LnmegvpSaee:::txtsize
+Unloehmsewne:::txtsize --> Wrteamdar:::txtsize
+Cgspspunehoiu:::txtsize --> Chbetolefeins:::txtsize
+Chbetolefeins:::txtsize --> CtbrkiimnU:::txtsize
+Chbetolefeins:::txtsize --> Unloehmsewne:::txtsize
+Nrsseaeeeiyci:::txtsize --> Dsoheercrmi:::txtsize
+Dsoheercrmi:::txtsize --> ElinlhsuhuneL:::txtsize
+ElinlhsuhuneL:::txtsize --> UuethnpCcxl:::txtsize
+ElinlhsuhuneL:::txtsize --> UuethnpCcxl:::txtsize
 
 ```
-<i>Last updated: 2025-11-19 16:00:29.107734 (GMT+8)</i>
+<i>Last updated: 2025-11-19 20:01:02.633704 (GMT+8)</i>
 <!-- END -->
