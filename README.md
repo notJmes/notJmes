@@ -16,114 +16,75 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Eietrafnl@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:35 AM_
+Epstein vote shatters trump’s aura of invincibility" }
+TwrutomyoaGe@{ shape: win-pane, label: "_Published Nov 15, 2025, 02:43 PM_
+Trump withdraws support for long-time ally marjorie taylor greene" }
+Lsounenonmr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:01 PM_
+Longest us govt shutdown is over but new showdowns loom for trump" }
+Tsdootveuns@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:48 AM_
+Trump signs deal to end longest us government shutdown in history" }
+
+Eietrafnl:::txtsize --> TwrutomyoaGe:::txtsize
+TwrutomyoaGe:::txtsize --> Lsounenonmr:::txtsize
+Lsounenonmr:::txtsize --> Tsdootveuns:::txtsize
+
+Geimipdnrie@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:35 AM_
+Google unveils gemini 3, with improved coding, search abilities" }
 GeSranoynIls@{ shape: win-pane, label: "_Published Nov 19, 2025, 06:40 AM_
 Google boss sundar pichai warns no company immune if ai bubble bursts" }
 TejtoyItdn@{ shape: win-pane, label: "_Published Oct 30, 2025, 04:15 PM_
 Tech sector job cuts in 2025: how many are ai-related redundancies?" }
 Antojoioyee@{ shape: win-pane, label: "_Published Oct 28, 2025, 09:45 PM_
 Amazon to cut 14,000 corporate jobs worldwide, s’pore may not be spared" }
-Annosapesitc@{ shape: win-pane, label: "_Published Oct 28, 2025, 04:02 AM_
-Amazon planning to cut as many as 30,000 corporate jobs starting oct 28: sources" }
 Antojoioyee@{ shape: win-pane, label: "_Published Oct 28, 2025, 09:45 PM_
 Amazon to cut 14,000 corporate jobs worldwide, s’pore may not be spared" }
-Annosapesitc@{ shape: win-pane, label: "_Published Oct 28, 2025, 04:02 AM_
-Amazon planning to cut as many as 30,000 corporate jobs starting oct 28: sources" }
+Msnditbonpiuf@{ shape: win-pane, label: "_Published Nov 19, 2025, 09:15 AM_
+Microsoft and nvidia to invest up to $19.5 billion in  anthropic amid ai bubble fears" }
+AooikIdwtfi@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:35 AM_
+Anthropic, google in talks on ai cloud deal worth tens of billions" }
+OIsoipettrr@{ shape: win-pane, label: "_Published Oct 22, 2025, 02:01 AM_
+Openai takes on google with ai-powered chatgpt atlas browser" }
+InolSfulirwe@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:57 PM_
+It’s gone beyond sales, as salesforce unveils office workflow ai agents" }
+GeSranoynIls@{ shape: win-pane, label: "_Published Nov 19, 2025, 06:40 AM_
+Google boss sundar pichai warns no company immune if ai bubble bursts" }
+TejtoyItdn@{ shape: win-pane, label: "_Published Oct 30, 2025, 04:15 PM_
+Tech sector job cuts in 2025: how many are ai-related redundancies?" }
 
+Geimipdnrie:::txtsize --> GeSranoynIls:::txtsize
 GeSranoynIls:::txtsize --> TejtoyItdn:::txtsize
 TejtoyItdn:::txtsize --> Antojoioyee:::txtsize
-Antojoioyee:::txtsize --> Annosapesitc:::txtsize
 TejtoyItdn:::txtsize --> Antojoioyee:::txtsize
-Antojoioyee:::txtsize --> Annosapesitc:::txtsize
+Geimipdnrie:::txtsize --> Msnditbonpiuf:::txtsize
+Msnditbonpiuf:::txtsize --> AooikIdwtfi:::txtsize
+AooikIdwtfi:::txtsize --> OIsoipettrr:::txtsize
+AooikIdwtfi:::txtsize --> InolSfulirwe:::txtsize
+Msnditbonpiuf:::txtsize --> GeSranoynIls:::txtsize
+GeSranoynIls:::txtsize --> TejtoyItdn:::txtsize
 
-WYresemhiN@{ shape: win-pane, label: "_Published Nov 19, 2025, 06:24 AM_
-While you were sleeping: 5 stories you might have missed, nov 19, 2025" }
-Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
-Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
-Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
-Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
-TsoidShiKoe@{ shape: win-pane, label: "_Published Oct 21, 2018, 04:04 AM_
-Trump says not satisfied with saudi handling of khashoggi death" }
-DorsasiSriepi@{ shape: win-pane, label: "_Published Oct 20, 2018, 08:46 AM_
-Death of journalist jamal khashoggi: from saudi royal insider to open critic" }
-TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
-Trump threatens abc news in oval office meltdown" }
-Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
-Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
-Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
-Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
-Ugpsufrspnsitm@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:23 AM_
-Us congress passes measure to force release of epstein files, sending it to trump" }
-Therltsfwrons@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:55 AM_
-Trump has the power to release the epstein files, with or without congress" }
-ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
-After trump reversal, us house pushes forward on epstein vote" }
-Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
-Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
-Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
-Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
-TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
-Trump threatens abc news in oval office meltdown" }
+Fkalegareet@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:30 AM_
+First kiss was 20 million years ago by early primates, scientists say" }
+Wasnantfsl@{ shape: win-pane, label: "_Published Jun 02, 2023, 08:45 AM_
+What makes us human? primate genome study offers some clues" }
+Etfoimiaoegu@{ shape: win-pane, label: "_Published Nov 06, 2022, 03:12 PM_
+Evolution of eye colour in primates is related to ambient light: study" }
+IapaotlaekSbrde@{ shape: win-pane, label: "_Published Jun 21, 2022, 05:44 PM_
+Increase in population of critically endangered monkey in s'pore, but more needs to be done" }
+TnirAnswr@{ shape: win-pane, label: "_Published May 03, 2023, 11:40 PM_
+The pendant is 20,000 years old. ancient dna shows who wore it" }
+Etfoimiaoegu@{ shape: win-pane, label: "_Published Nov 06, 2022, 03:12 PM_
+Evolution of eye colour in primates is related to ambient light: study" }
+IapaotlaekSbrde@{ shape: win-pane, label: "_Published Jun 21, 2022, 05:44 PM_
+Increase in population of critically endangered monkey in s'pore, but more needs to be done" }
 
-WYresemhiN:::txtsize --> Tdddnersdiinst:::txtsize
-Tdddnersdiinst:::txtsize --> Mrusnrsasikeprsc:::txtsize
-Mrusnrsasikeprsc:::txtsize --> TsoidShiKoe:::txtsize
-Mrusnrsasikeprsc:::txtsize --> DorsasiSriepi:::txtsize
-Tdddnersdiinst:::txtsize --> TttBsailn:::txtsize
-TttBsailn:::txtsize --> Mrusnrsasikeprsc:::txtsize
-TttBsailn:::txtsize --> Tdddnersdiinst:::txtsize
-WYresemhiN:::txtsize --> Ugpsufrspnsitm:::txtsize
-Ugpsufrspnsitm:::txtsize --> Therltsfwrons:::txtsize
-Therltsfwrons:::txtsize --> ATrsHpsaEie:::txtsize
-Ugpsufrspnsitm:::txtsize --> Tdddnersdiinst:::txtsize
-Tdddnersdiinst:::txtsize --> Mrusnrsasikeprsc:::txtsize
-Tdddnersdiinst:::txtsize --> TttBsailn:::txtsize
-
-Irnasmnotmrzy@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:38 AM_
-Immigration operations to ramp up in new york city, trump’s border czar says" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
-Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
-TbCttousoscolsdsr@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:15 AM_
-Trump backs cuomo, threatens to cut funds as new yorkers expected to pick leftist mamdani as mayor" }
-OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
-Obama calls mamdani, praises campaign ahead of new york mayoral election" }
-Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
-Takeaways from us election night 2025" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
-IcimsiYhoti@{ shape: win-pane, label: "_Published Sep 27, 2025, 08:48 AM_
-Ice tactics inflame tensions in new york, chicago and other cities" }
-ScasiuooIefay@{ shape: win-pane, label: "_Published Sep 26, 2025, 03:07 AM_
-Suspect in dallas shooting sought to terrorise ice agents, officials say" }
-Tlnunttaiifutfd@{ shape: win-pane, label: "_Published Sep 24, 2025, 09:02 PM_
-Two killed, one injured in shooting at dallas immigration office; suspect also found dead" }
-Cikerarsanccrs@{ shape: win-pane, label: "_Published Sep 22, 2025, 06:17 AM_
-Charlie kirk lauded at arizona memorial as galvanising force for conservatism" }
-Tcdnmithcnc@{ shape: win-pane, label: "_Published Aug 14, 2025, 10:04 PM_
-Trump crackdown snares more migrants with no us criminal records" }
-Tirncsrfsa@{ shape: win-pane, label: "_Published May 29, 2025, 10:19 AM_
-Trump immigration officials set target of 3,000 arrests a day" }
-Ushietrorro@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:37 AM_
-Us uses war rhetoric, superman to recruit for migrant crackdown" }
-
-Irnasmnotmrzy:::txtsize --> YMmnoihaiYilehpea:::txtsize
-YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
-YMmimociYaoauoc:::txtsize --> TbCttousoscolsdsr:::txtsize
-YMmimociYaoauoc:::txtsize --> OcMniagaekren:::txtsize
-YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
-Twreig:::txtsize --> YMmnoihaiYilehpea:::txtsize
-Twreig:::txtsize --> Drwialosdp:::txtsize
-Irnasmnotmrzy:::txtsize --> IcimsiYhoti:::txtsize
-IcimsiYhoti:::txtsize --> ScasiuooIefay:::txtsize
-ScasiuooIefay:::txtsize --> Tlnunttaiifutfd:::txtsize
-ScasiuooIefay:::txtsize --> Cikerarsanccrs:::txtsize
-IcimsiYhoti:::txtsize --> Tcdnmithcnc:::txtsize
-Tcdnmithcnc:::txtsize --> Tirncsrfsa:::txtsize
-Tcdnmithcnc:::txtsize --> Ushietrorro:::txtsize
+Fkalegareet:::txtsize --> Wasnantfsl:::txtsize
+Wasnantfsl:::txtsize --> Etfoimiaoegu:::txtsize
+Etfoimiaoegu:::txtsize --> IapaotlaekSbrde:::txtsize
+Wasnantfsl:::txtsize --> TnirAnswr:::txtsize
+Fkalegareet:::txtsize --> Etfoimiaoegu:::txtsize
+Etfoimiaoegu:::txtsize --> IapaotlaekSbrde:::txtsize
 
 ```
-<i>Last updated: 2025-11-19 08:00:36.577955 (GMT+8)</i>
+<i>Last updated: 2025-11-19 12:00:59.844988 (GMT+8)</i>
 <!-- END -->
