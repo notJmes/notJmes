@@ -16,138 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Gnsmtsadyt@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:33 PM_
-German christmas market opens year after deadly car attack" }
-Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
-‘torn from my side’: horror of german christmas market attack" }
-SmrdralnagceCta@{ shape: win-pane, label: "_Published Dec 21, 2024, 06:01 AM_
-Saudi man arrested after at least 2 killed in car ramming attack at german christmas market" }
-CinoCtaimneak@{ shape: win-pane, label: "_Published Dec 21, 2024, 03:42 AM_
-Car drives into crowd at christmas market in germany, in suspected attack" }
-Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
-‘torn from my side’: horror of german christmas market attack" }
-CinoCtaimneak@{ shape: win-pane, label: "_Published Dec 21, 2024, 03:42 AM_
-Car drives into crowd at christmas market in germany, in suspected attack" }
-Gnbaesatrfas@{ shape: win-pane, label: "_Published Aug 24, 2024, 05:23 AM_
-German stabbing rampage a ‘possible act of terrorism’, official says" }
-Gncofwtdianh@{ shape: win-pane, label: "_Published Jun 01, 2024, 12:55 AM_
-German police shoot knifeman who attacked far-right rally in mannheim" }
-Sdroadyaisea@{ shape: win-pane, label: "_Published Nov 10, 2025, 03:16 PM_
-Saudi doctor goes on trial for deadly german christmas market attack" }
-Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
-‘torn from my side’: horror of german christmas market attack" }
-SmrdralnagceCta@{ shape: win-pane, label: "_Published Dec 21, 2024, 06:01 AM_
-Saudi man arrested after at least 2 killed in car ramming attack at german christmas market" }
-CinoCtaimneak@{ shape: win-pane, label: "_Published Dec 21, 2024, 03:42 AM_
-Car drives into crowd at christmas market in germany, in suspected attack" }
-Scerlmrakt@{ shape: win-pane, label: "_Published Aug 19, 2025, 11:00 PM_
-Saudi charged over deadly german christmas market attack" }
-Gnsmtctlsx@{ shape: win-pane, label: "_Published Jan 06, 2025, 04:51 PM_
-German christmas market attack death toll rises to six" }
-SCtaakenyarie@{ shape: win-pane, label: "_Published Dec 31, 2024, 02:11 AM_
-Signs christmas market attack suspect mentally ill, says german minister" }
+LaVupladboctta@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:28 AM_
+Lithuania’s vilnius airport closes again due to balloons, local authorities say" }
+Laghisolbrbohs@{ shape: win-pane, label: "_Published Oct 26, 2025, 03:35 AM_
+Lithuania again shuts vilnius airport, belarus border over balloon sightings" }
+LahitBudogelin@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:50 AM_
+Lithuania shuts airports and belarus border crossings after balloon sightings" }
+Slanctonit@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:20 PM_
+Smugglers’ balloons force shutdown of vilnius airport" }
+NeLaaoitendic@{ shape: win-pane, label: "_Published Oct 24, 2025, 01:56 AM_
+Nato member lithuania says two russian jets briefly entered its airspace" }
+Ryeyircdnret@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:35 AM_
+Runways at germany’s munich airport closed again after drone sightings" }
+Gneafrinuiroi@{ shape: win-pane, label: "_Published Oct 03, 2025, 09:15 AM_
+Germany investigates after drone sightings shut munich airport overnight" }
+Gneafrinuiroi@{ shape: win-pane, label: "_Published Oct 03, 2025, 09:15 AM_
+Germany investigates after drone sightings shut munich airport overnight" }
+Laawholsllsugrc@{ shape: win-pane, label: "_Published Oct 28, 2025, 12:59 AM_
+Lithuania says it will shoot down belarus smuggler balloons disrupting air traffic" }
+Lahisolbruicite@{ shape: win-pane, label: "_Published Oct 27, 2025, 04:40 AM_
+Lithuania shuts vilnius airport, belarus border in fourth airspace incident this week" }
+Laghisolbrbohs@{ shape: win-pane, label: "_Published Oct 26, 2025, 03:35 AM_
+Lithuania again shuts vilnius airport, belarus border over balloon sightings" }
+NeLaaoitendic@{ shape: win-pane, label: "_Published Oct 24, 2025, 01:56 AM_
+Nato member lithuania says two russian jets briefly entered its airspace" }
+Ryeyircdnret@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:35 AM_
+Runways at germany’s munich airport closed again after drone sightings" }
+Gneafrinuiroi@{ shape: win-pane, label: "_Published Oct 03, 2025, 09:15 AM_
+Germany investigates after drone sightings shut munich airport overnight" }
+Gneafrinuiroi@{ shape: win-pane, label: "_Published Oct 03, 2025, 09:15 AM_
+Germany investigates after drone sightings shut munich airport overnight" }
 
-Gnsmtsadyt:::txtsize --> Trsoomrakt:::txtsize
-Trsoomrakt:::txtsize --> SmrdralnagceCta:::txtsize
-SmrdralnagceCta:::txtsize --> CinoCtaimneak:::txtsize
-SmrdralnagceCta:::txtsize --> Trsoomrakt:::txtsize
-Trsoomrakt:::txtsize --> CinoCtaimneak:::txtsize
-CinoCtaimneak:::txtsize --> Gnbaesatrfas:::txtsize
-CinoCtaimneak:::txtsize --> Gncofwtdianh:::txtsize
-Gnsmtsadyt:::txtsize --> Sdroadyaisea:::txtsize
-Sdroadyaisea:::txtsize --> Trsoomrakt:::txtsize
-Trsoomrakt:::txtsize --> SmrdralnagceCta:::txtsize
-Trsoomrakt:::txtsize --> CinoCtaimneak:::txtsize
-Sdroadyaisea:::txtsize --> Scerlmrakt:::txtsize
-Scerlmrakt:::txtsize --> Gnsmtctlsx:::txtsize
-Scerlmrakt:::txtsize --> SCtaakenyarie:::txtsize
+LaVupladboctta:::txtsize --> Laghisolbrbohs:::txtsize
+Laghisolbrbohs:::txtsize --> LahitBudogelin:::txtsize
+LahitBudogelin:::txtsize --> Slanctonit:::txtsize
+LahitBudogelin:::txtsize --> NeLaaoitendic:::txtsize
+Laghisolbrbohs:::txtsize --> Ryeyircdnret:::txtsize
+Ryeyircdnret:::txtsize --> Gneafrinuiroi:::txtsize
+Ryeyircdnret:::txtsize --> Gneafrinuiroi:::txtsize
+LaVupladboctta:::txtsize --> Laawholsllsugrc:::txtsize
+Laawholsllsugrc:::txtsize --> Lahisolbruicite:::txtsize
+Lahisolbruicite:::txtsize --> Laghisolbrbohs:::txtsize
+Lahisolbruicite:::txtsize --> NeLaaoitendic:::txtsize
+Laawholsllsugrc:::txtsize --> Ryeyircdnret:::txtsize
+Ryeyircdnret:::txtsize --> Gneafrinuiroi:::txtsize
+Ryeyircdnret:::txtsize --> Gneafrinuiroi:::txtsize
 
-Uasencvoab@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:30 PM_
-Us cdc adopts kennedy’s anti-vaccine views on recast website" }
-Ucotskoagsstfli@{ shape: win-pane, label: "_Published Aug 28, 2025, 08:08 AM_
-Us cdc chief out after just weeks in role, challenges ouster as four top officials resign" }
-Ulttormnitcretnes@{ shape: win-pane, label: "_Published May 16, 2025, 06:40 AM_
-Us health authorities to stop recommending covid-19 shots for children, pregnant women, wsj reports" }
-Ulincehaoaee@{ shape: win-pane, label: "_Published May 15, 2025, 07:27 AM_
-Us health chief kennedy clashes with lawmakers over vaccine comments" }
-Fouhhewfncit@{ shape: win-pane, label: "_Published Feb 25, 2025, 12:10 PM_
-Fears of us public health crises grow amid falling vaccination rates" }
-Uetseetcoan@{ shape: win-pane, label: "_Published Aug 25, 2025, 07:15 AM_
-Us detects its first case of flesh-eating screwworm in a human" }
-Bleprnewiir@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:10 AM_
-Bird flu wiped out poultry, and now the screw worm is coming for beef" }
-Rstivafsd@{ shape: win-pane, label: "_Published Apr 11, 2025, 07:39 AM_
-Rfk jr says study will reveal cause of autism ‘epidemic’" }
-Rifttiec@{ shape: win-pane, label: "_Published Jan 02, 2025, 05:00 AM_
-Rfk jr is half right about american healthcare" }
-TnTsihzdech@{ shape: win-pane, label: "_Published Nov 20, 2024, 08:11 AM_
-Trump names tv personality mehmet oz as medicare, medicaid chief" }
-Tosleptlbrdhehs@{ shape: win-pane, label: "_Published Mar 31, 2025, 07:00 AM_
-‘this world is equally theirs’: a parent’s call for a better world for children with autism" }
-Oeelelrrshetoudd@{ shape: win-pane, label: "_Published Mar 27, 2025, 01:45 PM_
-Online guide to help parents plan for their autistic children’s future to be launched in end-2025" }
-RgsbttusniCeovi@{ shape: win-pane, label: "_Published Nov 17, 2024, 05:00 PM_
-Rising autism numbers: at least 70% of students in minds, rainbow centre schools have autism" }
+RacpUnpkiritP@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:19 AM_
+Russian forces capture ukraine’s kupiansk, top military official tells putin" }
+ZscsaniaxssT@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
+Zelensky receives us plan to end war in ukraine, expects talks with trump" }
+EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
+Europeans push back at us plan that would force concessions from ukraine" }
+UcprrrteinlnsySe@{ shape: win-pane, label: "_Published Nov 20, 2025, 04:50 AM_
+Us peace proposal requires ukraine to cede russian-controlled land, slash army size: source" }
+Unlnkmtmjria@{ shape: win-pane, label: "_Published Nov 19, 2025, 09:14 PM_
+Ukraine parliament sacks two ministers amid major corruption scandal" }
+Unlyphaiogh@{ shape: win-pane, label: "_Published Mar 01, 2025, 01:48 AM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+TalytnretaWHsit@{ shape: win-pane, label: "_Published Mar 01, 2025, 02:44 AM_
+Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
+YgitlIcsTZsaWH@{ shape: win-pane, label: "_Published Mar 01, 2025, 05:06 AM_
+‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
+RaewdwnerseiUnkk@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:19 AM_
+Russian video shows soldiers walking freely through southern ruins of ukraine’s pokrovsk" }
+EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
+Europeans push back at us plan that would force concessions from ukraine" }
+UcprrrteinlnsySe@{ shape: win-pane, label: "_Published Nov 20, 2025, 04:50 AM_
+Us peace proposal requires ukraine to cede russian-controlled land, slash army size: source" }
+Unlnkmtmjria@{ shape: win-pane, label: "_Published Nov 19, 2025, 09:14 PM_
+Ukraine parliament sacks two ministers amid major corruption scandal" }
+Atdretahfunceni@{ shape: win-pane, label: "_Published Nov 20, 2025, 09:24 PM_
+A relative’s desperate search then fading hope after russian attack in western ukraine" }
+RailUnekreim@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:46 PM_
+Russian strike kills 25 in ukraine as zelensky’s turkey peace bid stumbles" }
+Unsenyirnidhe@{ shape: win-pane, label: "_Published Aug 01, 2025, 09:24 PM_
+Ukraine says 31 killed in end-july russian strike on kyiv, including 5 children" }
 
-Uasencvoab:::txtsize --> Ucotskoagsstfli:::txtsize
-Ucotskoagsstfli:::txtsize --> Ulttormnitcretnes:::txtsize
-Ulttormnitcretnes:::txtsize --> Ulincehaoaee:::txtsize
-Ulttormnitcretnes:::txtsize --> Fouhhewfncit:::txtsize
-Ucotskoagsstfli:::txtsize --> Uetseetcoan:::txtsize
-Uetseetcoan:::txtsize --> Bleprnewiir:::txtsize
-Uasencvoab:::txtsize --> Rstivafsd:::txtsize
-Rstivafsd:::txtsize --> Rifttiec:::txtsize
-Rifttiec:::txtsize --> TnTsihzdech:::txtsize
-Rstivafsd:::txtsize --> Tosleptlbrdhehs:::txtsize
-Tosleptlbrdhehs:::txtsize --> Oeelelrrshetoudd:::txtsize
-Tosleptlbrdhehs:::txtsize --> RgsbttusniCeovi:::txtsize
+RacpUnpkiritP:::txtsize --> ZscsaniaxssT:::txtsize
+ZscsaniaxssT:::txtsize --> EeucStooosfke:::txtsize
+EeucStooosfke:::txtsize --> UcprrrteinlnsySe:::txtsize
+EeucStooosfke:::txtsize --> Unlnkmtmjria:::txtsize
+ZscsaniaxssT:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
+Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
+RacpUnpkiritP:::txtsize --> RaewdwnerseiUnkk:::txtsize
+RaewdwnerseiUnkk:::txtsize --> EeucStooosfke:::txtsize
+EeucStooosfke:::txtsize --> UcprrrteinlnsySe:::txtsize
+EeucStooosfke:::txtsize --> Unlnkmtmjria:::txtsize
+RaewdwnerseiUnkk:::txtsize --> Atdretahfunceni:::txtsize
+Atdretahfunceni:::txtsize --> RailUnekreim:::txtsize
+Atdretahfunceni:::txtsize --> Unsenyirnidhe:::txtsize
 
-PrueueitaCh@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:10 PM_
-Pope urges ‘culture of abuse prevention’ in the italian church" }
-Atlspttispg@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:05 PM_
-Almost 4,400 people abused by priests in italy, victims’ group alleges" }
-Pelhbpteegn@{ shape: win-pane, label: "_Published Sep 12, 2025, 05:28 PM_
-Pope leo tells catholic bishops not to hide abuse allegations" }
-Peesiassair@{ shape: win-pane, label: "_Published Jul 05, 2025, 07:16 PM_
-Pope leo takes first action to address abuse by catholic clergy" }
-IahChrguosen@{ shape: win-pane, label: "_Published May 28, 2025, 10:09 PM_
-Italian catholic church reports higher number of abuse cases in 2023 and 2024" }
-Pedstirreabhcy@{ shape: win-pane, label: "_Published Oct 20, 2025, 09:07 PM_
-Pope leo holds first meeting with survivors of sexual abuse by catholic clergy" }
-Cluowlavmiaa@{ shape: win-pane, label: "_Published Oct 16, 2025, 05:35 PM_
-Catholic church too slow in helping abuse victims, vatican panel says" }
-UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
-Us cardinal prevost elected pope leo xiv, first american pontiff" }
-Pedstirreabhcy@{ shape: win-pane, label: "_Published Oct 20, 2025, 09:07 PM_
-Pope leo holds first meeting with survivors of sexual abuse by catholic clergy" }
-Cluowlavmiaa@{ shape: win-pane, label: "_Published Oct 16, 2025, 05:35 PM_
-Catholic church too slow in helping abuse victims, vatican panel says" }
-Pelhbpteegn@{ shape: win-pane, label: "_Published Sep 12, 2025, 05:28 PM_
-Pope leo tells catholic bishops not to hide abuse allegations" }
-Peesiassair@{ shape: win-pane, label: "_Published Jul 05, 2025, 07:16 PM_
-Pope leo takes first action to address abuse by catholic clergy" }
-UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
-Us cardinal prevost elected pope leo xiv, first american pontiff" }
-Arnclaenigi@{ shape: win-pane, label: "_Published May 09, 2025, 06:49 AM_
-A reformer and a reconciler: what pope leo’s new reign might bring" }
-IfarPeoselbia@{ shape: win-pane, label: "_Published May 09, 2025, 03:40 AM_
-In his first appearance, pope leo xiv offers three big clues about his papacy" }
+ZscsaniaxssT@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
+Zelensky receives us plan to end war in ukraine, expects talks with trump" }
+EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
+Europeans push back at us plan that would force concessions from ukraine" }
+UcprrrteinlnsySe@{ shape: win-pane, label: "_Published Nov 20, 2025, 04:50 AM_
+Us peace proposal requires ukraine to cede russian-controlled land, slash army size: source" }
+Tsiviltvtnse@{ shape: win-pane, label: "_Published Nov 20, 2025, 04:03 AM_
+Trump’s ukraine envoy keith kellogg to leave post in january, sources say" }
+RailUnekreim@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:46 PM_
+Russian strike kills 25 in ukraine as zelensky’s turkey peace bid stumbles" }
+Unlnkmtmjria@{ shape: win-pane, label: "_Published Nov 19, 2025, 09:14 PM_
+Ukraine parliament sacks two ministers amid major corruption scandal" }
+CpsartosUnly@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:15 PM_
+Corruption scandal, court battles pose test for ukraine’s zelensky" }
+CpsartosUnly@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:15 PM_
+Corruption scandal, court battles pose test for ukraine’s zelensky" }
+Unlyphaiogh@{ shape: win-pane, label: "_Published Mar 01, 2025, 01:48 AM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+TalytnretaWHsit@{ shape: win-pane, label: "_Published Mar 01, 2025, 02:44 AM_
+Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
+Unlyphaiogh@{ shape: win-pane, label: "_Published Mar 01, 2025, 01:48 AM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+Unlyphaiogh@{ shape: win-pane, label: "_Published Mar 01, 2025, 01:48 AM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+YgitlIcsTZsaWH@{ shape: win-pane, label: "_Published Mar 01, 2025, 05:06 AM_
+‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
+Unlyphaiogh@{ shape: win-pane, label: "_Published Mar 01, 2025, 01:48 AM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+Zsymasaeeets@{ shape: win-pane, label: "_Published Mar 01, 2025, 11:59 AM_
+Zelensky says trump relationship can be repaired after white house row" }
 
-PrueueitaCh:::txtsize --> Atlspttispg:::txtsize
-Atlspttispg:::txtsize --> Pelhbpteegn:::txtsize
-Pelhbpteegn:::txtsize --> Peesiassair:::txtsize
-Pelhbpteegn:::txtsize --> IahChrguosen:::txtsize
-Atlspttispg:::txtsize --> Pedstirreabhcy:::txtsize
-Pedstirreabhcy:::txtsize --> Cluowlavmiaa:::txtsize
-Pedstirreabhcy:::txtsize --> UdPscooimat:::txtsize
-PrueueitaCh:::txtsize --> Pedstirreabhcy:::txtsize
-Pedstirreabhcy:::txtsize --> Cluowlavmiaa:::txtsize
-Cluowlavmiaa:::txtsize --> Pelhbpteegn:::txtsize
-Cluowlavmiaa:::txtsize --> Peesiassair:::txtsize
-Pedstirreabhcy:::txtsize --> UdPscooimat:::txtsize
-UdPscooimat:::txtsize --> Arnclaenigi:::txtsize
-UdPscooimat:::txtsize --> IfarPeoselbia:::txtsize
+ZscsaniaxssT:::txtsize --> EeucStooosfke:::txtsize
+EeucStooosfke:::txtsize --> UcprrrteinlnsySe:::txtsize
+UcprrrteinlnsySe:::txtsize --> Tsiviltvtnse:::txtsize
+UcprrrteinlnsySe:::txtsize --> RailUnekreim:::txtsize
+EeucStooosfke:::txtsize --> Unlnkmtmjria:::txtsize
+Unlnkmtmjria:::txtsize --> CpsartosUnly:::txtsize
+Unlnkmtmjria:::txtsize --> CpsartosUnly:::txtsize
+ZscsaniaxssT:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
+TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
+TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
+YgitlIcsTZsaWH:::txtsize --> Unlyphaiogh:::txtsize
+YgitlIcsTZsaWH:::txtsize --> Zsymasaeeets:::txtsize
 
 ```
-<i>Last updated: 2025-11-21 00:00:41.015361 (GMT+8)</i>
+<i>Last updated: 2025-11-21 04:01:09.241634 (GMT+8)</i>
 <!-- END -->
