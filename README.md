@@ -16,138 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-ScpeerlSr@{ shape: win-pane, label: "_Published Nov 20, 2025, 02:08 AM_
-Saudi crown prince hosted at friendlier us congress" }
-Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
-Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
-Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
-Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
-TsoidShiKoe@{ shape: win-pane, label: "_Published Oct 21, 2018, 04:04 AM_
-Trump says not satisfied with saudi handling of khashoggi death" }
-DorsasiSriepi@{ shape: win-pane, label: "_Published Oct 20, 2018, 08:46 AM_
-Death of journalist jamal khashoggi: from saudi royal insider to open critic" }
-TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
-Trump threatens abc news in oval office meltdown" }
-Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
-Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
-Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
-Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
-Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
-Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
-Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
-Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
-TsoidShiKoe@{ shape: win-pane, label: "_Published Oct 21, 2018, 04:04 AM_
-Trump says not satisfied with saudi handling of khashoggi death" }
-DorsasiSriepi@{ shape: win-pane, label: "_Published Oct 20, 2018, 08:46 AM_
-Death of journalist jamal khashoggi: from saudi royal insider to open critic" }
-TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
-Trump threatens abc news in oval office meltdown" }
-Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
-Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
-Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
-Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
+Tysriesman@{ shape: win-pane, label: "_Published Nov 20, 2025, 07:50 AM_
+Turkey beats australia in race to host climate talks in 2026" }
+TafaoelBlPwr@{ shape: win-pane, label: "_Published Nov 15, 2025, 10:45 PM_
+Thousands of climate protesters rally in brazil at cop30 halfway mark" }
+Psftwtstehsi@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:26 AM_
+Protesters force their way into cop30 summit venue, clash with security" }
+FhehzdoabtddNamO@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:16 AM_
+From the andes to the amazon, indigenous leaders bring their demands to un climate summit cop30" }
+AoiznBuAndse@{ shape: win-pane, label: "_Published Nov 11, 2025, 09:55 AM_
+As cop30 opens in brazilian city belem, urban amazon residents swelter" }
+Eisasiltisc@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:20 PM_
+Explainer: as cop30 gathers, what is the latest in climate science?" }
+WwvogmoneUn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:22 PM_
+World will overshoot 1.5 deg c climate goal in next decade, un warns" }
+Oflsydgotvageio@{ shape: win-pane, label: "_Published Apr 23, 2025, 12:24 PM_
+Over 80% of coral reefs hit by world’s longest, most extensive bleaching: preservation group" }
+TafaoelBlPwr@{ shape: win-pane, label: "_Published Nov 15, 2025, 10:45 PM_
+Thousands of climate protesters rally in brazil at cop30 halfway mark" }
+Psftwtstehsi@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:26 AM_
+Protesters force their way into cop30 summit venue, clash with security" }
+FhehzdoabtddNamO@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:16 AM_
+From the andes to the amazon, indigenous leaders bring their demands to un climate summit cop30" }
+AoiznBuAndse@{ shape: win-pane, label: "_Published Nov 11, 2025, 09:55 AM_
+As cop30 opens in brazilian city belem, urban amazon residents swelter" }
+Eisasiltisc@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:20 PM_
+Explainer: as cop30 gathers, what is the latest in climate science?" }
+WwvogmoneUn@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:22 PM_
+World will overshoot 1.5 deg c climate goal in next decade, un warns" }
+Oflsydgotvageio@{ shape: win-pane, label: "_Published Apr 23, 2025, 12:24 PM_
+Over 80% of coral reefs hit by world’s longest, most extensive bleaching: preservation group" }
 
-ScpeerlSr:::txtsize --> Tdddnersdiinst:::txtsize
-Tdddnersdiinst:::txtsize --> Mrusnrsasikeprsc:::txtsize
-Mrusnrsasikeprsc:::txtsize --> TsoidShiKoe:::txtsize
-Mrusnrsasikeprsc:::txtsize --> DorsasiSriepi:::txtsize
-Tdddnersdiinst:::txtsize --> TttBsailn:::txtsize
-TttBsailn:::txtsize --> Mrusnrsasikeprsc:::txtsize
-TttBsailn:::txtsize --> Tdddnersdiinst:::txtsize
-ScpeerlSr:::txtsize --> Tdddnersdiinst:::txtsize
-Tdddnersdiinst:::txtsize --> Mrusnrsasikeprsc:::txtsize
-Mrusnrsasikeprsc:::txtsize --> TsoidShiKoe:::txtsize
-Mrusnrsasikeprsc:::txtsize --> DorsasiSriepi:::txtsize
-Tdddnersdiinst:::txtsize --> TttBsailn:::txtsize
-TttBsailn:::txtsize --> Mrusnrsasikeprsc:::txtsize
-TttBsailn:::txtsize --> Tdddnersdiinst:::txtsize
+Tysriesman:::txtsize --> TafaoelBlPwr:::txtsize
+TafaoelBlPwr:::txtsize --> Psftwtstehsi:::txtsize
+Psftwtstehsi:::txtsize --> FhehzdoabtddNamO:::txtsize
+Psftwtstehsi:::txtsize --> AoiznBuAndse:::txtsize
+TafaoelBlPwr:::txtsize --> Eisasiltisc:::txtsize
+Eisasiltisc:::txtsize --> WwvogmoneUn:::txtsize
+Eisasiltisc:::txtsize --> Oflsydgotvageio:::txtsize
+Tysriesman:::txtsize --> TafaoelBlPwr:::txtsize
+TafaoelBlPwr:::txtsize --> Psftwtstehsi:::txtsize
+Psftwtstehsi:::txtsize --> FhehzdoabtddNamO:::txtsize
+Psftwtstehsi:::txtsize --> AoiznBuAndse:::txtsize
+TafaoelBlPwr:::txtsize --> Eisasiltisc:::txtsize
+Eisasiltisc:::txtsize --> WwvogmoneUn:::txtsize
+Eisasiltisc:::txtsize --> Oflsydgotvageio:::txtsize
 
-UtemilEiehyds@{ shape: win-pane, label: "_Published Nov 20, 2025, 01:38 AM_
-Us justice department will release epstein files within 30 days, bondi says" }
-Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
-Epstein files to be released to us public: what are they?" }
-ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
-After trump reversal, us house pushes forward on epstein vote" }
-TuRlstrspnsvla@{ shape: win-pane, label: "_Published Nov 17, 2025, 11:57 AM_
-Trump urges republicans to vote for release of epstein files in reversal of stance" }
-TskeMewtco@{ shape: win-pane, label: "_Published Nov 18, 2025, 09:15 AM_
-Trump’s frankenstein? us maga meltdown tests its creator" }
-TsialjGeorfri@{ shape: win-pane, label: "_Published Nov 11, 2025, 07:29 AM_
-Trump says firebrand ally marjorie greene has ‘lost her way’ after criticism" }
-Frpsattly@{ shape: win-pane, label: "_Published Nov 16, 2025, 07:29 AM_
-Former trump ally says facing threats ‘fuelled’ by him" }
-Ugpsufrspnsitm@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:23 AM_
-Us congress passes measure to force release of epstein files, sending it to trump" }
-Therltsfwrons@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:55 AM_
-Trump has the power to release the epstein files, with or without congress" }
-ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
-After trump reversal, us house pushes forward on epstein vote" }
-Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
-Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
-Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
-Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
-TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
-Trump threatens abc news in oval office meltdown" }
+Finnporneudhse@{ shape: win-pane, label: "_Published Nov 20, 2025, 07:21 AM_
+Fugitive canadian olympic snowboarder indicted on murder, drug charges in the us" }
+AcodhlSatesfr@{ shape: win-pane, label: "_Published Oct 21, 2025, 11:20 AM_
+American, who faked death and fled to scotland, gets five years to life for rape" }
+Bdeinraunadtta@{ shape: win-pane, label: "_Published Sep 17, 2025, 03:05 PM_
+Banned from entering singapore in 1998, man returns under false identity to start family" }
+Joereereyawaoao@{ shape: win-pane, label: "_Published Jul 22, 2025, 08:15 PM_
+Jail for 4 foreigners who entered s’pore illegally by boat and were caught on pulau tekong" }
+JafiawtSplltsrig@{ shape: win-pane, label: "_Published May 09, 2025, 07:40 PM_
+Jail, caning for m’sian boatman who entered singapore illegally with passengers on fishing trip" }
+Fereevlgaasdsla@{ shape: win-pane, label: "_Published Oct 16, 2025, 10:53 AM_
+Four teens arrested in kedah over alleged gang rape, sharing sex video on social media" }
+snMasvnehi@{ shape: win-pane, label: "_Published Oct 11, 2025, 04:30 PM_
+4 students in melaka arrested over gang-rape of schoolgirl" }
+Msuibslarlbfolki@{ shape: win-pane, label: "_Published Oct 15, 2025, 03:30 PM_
+Malaysian authorities blame social media after fatal stabbing of schoolgirl shocks nation" }
+Fesnegeerdb@{ shape: win-pane, label: "_Published Nov 15, 2025, 03:25 AM_
+France arrests long-time us fugitive wanted over child sex abuse" }
+Trdiefir@{ shape: win-pane, label: "_Published Nov 15, 2025, 03:27 AM_
+‘tinder swindler’ simon leviev freed in georgia" }
+Fesnegeerdb@{ shape: win-pane, label: "_Published Nov 15, 2025, 03:25 AM_
+France arrests long-time us fugitive wanted over child sex abuse" }
+FisncxiRaast@{ shape: win-pane, label: "_Published Sep 17, 2025, 02:14 AM_
+Fugitive austrian wirecard executive in russia: media investigation" }
+FisncxiRaast@{ shape: win-pane, label: "_Published Sep 17, 2025, 02:14 AM_
+Fugitive austrian wirecard executive in russia: media investigation" }
+Pnardsnefinmn@{ shape: win-pane, label: "_Published Jun 25, 2020, 03:18 PM_
+Payments giant wirecard files for insolvency after €1.9 billion goes missing" }
+FrcOdnfreig@{ shape: win-pane, label: "_Published Jul 19, 2023, 08:35 AM_
+Former wirecard coo sends sign of life 3 years after vanishing" }
 
-UtemilEiehyds:::txtsize --> Eieeaobhe:::txtsize
-Eieeaobhe:::txtsize --> ATrsHpsaEie:::txtsize
-ATrsHpsaEie:::txtsize --> TuRlstrspnsvla:::txtsize
-Eieeaobhe:::txtsize --> TskeMewtco:::txtsize
-TskeMewtco:::txtsize --> TsialjGeorfri:::txtsize
-TskeMewtco:::txtsize --> Frpsattly:::txtsize
-UtemilEiehyds:::txtsize --> Ugpsufrspnsitm:::txtsize
-Ugpsufrspnsitm:::txtsize --> Therltsfwrons:::txtsize
-Therltsfwrons:::txtsize --> ATrsHpsaEie:::txtsize
-Ugpsufrspnsitm:::txtsize --> Tdddnersdiinst:::txtsize
-Tdddnersdiinst:::txtsize --> Mrusnrsasikeprsc:::txtsize
-Tdddnersdiinst:::txtsize --> TttBsailn:::txtsize
+Finnporneudhse:::txtsize --> AcodhlSatesfr:::txtsize
+AcodhlSatesfr:::txtsize --> Bdeinraunadtta:::txtsize
+Bdeinraunadtta:::txtsize --> Joereereyawaoao:::txtsize
+Bdeinraunadtta:::txtsize --> JafiawtSplltsrig:::txtsize
+AcodhlSatesfr:::txtsize --> Fereevlgaasdsla:::txtsize
+Fereevlgaasdsla:::txtsize --> snMasvnehi:::txtsize
+Fereevlgaasdsla:::txtsize --> Msuibslarlbfolki:::txtsize
+Finnporneudhse:::txtsize --> Fesnegeerdb:::txtsize
+Fesnegeerdb:::txtsize --> Trdiefir:::txtsize
+Trdiefir:::txtsize --> Fesnegeerdb:::txtsize
+Trdiefir:::txtsize --> FisncxiRaast:::txtsize
+Fesnegeerdb:::txtsize --> FisncxiRaast:::txtsize
+FisncxiRaast:::txtsize --> Pnardsnefinmn:::txtsize
+FisncxiRaast:::txtsize --> FrcOdnfreig:::txtsize
 
-IlselsaGansec@{ shape: win-pane, label: "_Published Nov 20, 2025, 01:13 AM_
-Israeli airstrikes kill 10 palestinians in gaza, rattling ceasefire, medics say" }
-Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
-What does trump’s gaza peace plan promise?" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-Gtbfiwneta@{ shape: win-pane, label: "_Published Nov 20, 2025, 12:33 AM_
-Gaza storms bring flooding, sewage and misery in tent camps" }
-Daastemyriihc@{ shape: win-pane, label: "_Published Nov 16, 2025, 07:59 AM_
-Displaced gaza residents face more misery as torrential rain lashes enclave" }
-Gsaardsrfsticese@{ shape: win-pane, label: "_Published Oct 10, 2025, 04:58 PM_
-Gazans stream towards wrecked homes as israeli forces start pulling back under ceasefire" }
-HqlssrGswli@{ shape: win-pane, label: "_Published Nov 14, 2025, 04:01 PM_
-Hamas quietly reasserts control in gaza as post-war talks grind on" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
+Tlimruvwlyct@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:34 AM_
+Trump loyalist admits grand jury never saw final comey indictment" }
+UgddofmefabBhao@{ shape: win-pane, label: "_Published Nov 18, 2025, 04:07 AM_
+Us judge finds evidence of ‘profound’ missteps in federal probe of fbi ex-chief james comey" }
+Frfleroiasnio@{ shape: win-pane, label: "_Published Oct 22, 2025, 03:17 AM_
+Former us officials urge congress to examine ‘weaponisation’ working group" }
+Frhorahdurcc@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:10 AM_
+Former fbi chief comey criminally charged as trump targets critics" }
+TeSrocltflsto@{ shape: win-pane, label: "_Published Jan 25, 2025, 01:57 AM_
+Trump ends us security for fauci, the latest ex-official to lose protection" }
+EcCasicunees@{ shape: win-pane, label: "_Published Oct 31, 2025, 07:21 AM_
+Ex-fbi chief comey argues 2020 testimony can’t sustain false statements case" }
+TstseydtrBesn@{ shape: win-pane, label: "_Published Oct 10, 2025, 09:14 PM_
+Trump’s call to prosecute comey could bolster former fbi director's defence" }
+EcCpsuiepe@{ shape: win-pane, label: "_Published Oct 08, 2025, 11:53 PM_
+Ex-fbi chief comey pleads not guilty in case trump pushed for" }
+EcCasicunees@{ shape: win-pane, label: "_Published Oct 31, 2025, 07:21 AM_
+Ex-fbi chief comey argues 2020 testimony can’t sustain false statements case" }
+TstseydtrBesn@{ shape: win-pane, label: "_Published Oct 10, 2025, 09:14 PM_
+Trump’s call to prosecute comey could bolster former fbi director's defence" }
+EcCpsuiepe@{ shape: win-pane, label: "_Published Oct 08, 2025, 11:53 PM_
+Ex-fbi chief comey pleads not guilty in case trump pushed for" }
+Lieteenmitrf@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:43 AM_
+Letitia james, ny attorney general and trump foe, indicted for bank fraud" }
+EcCpsuiepe@{ shape: win-pane, label: "_Published Oct 08, 2025, 11:53 PM_
+Ex-fbi chief comey pleads not guilty in case trump pushed for" }
+Ierdsiupcao@{ shape: win-pane, label: "_Published Sep 28, 2025, 07:54 AM_
+Inside the trump administration’s push to prosecute james comey" }
+Citearcicoisgp@{ shape: win-pane, label: "_Published Sep 27, 2025, 04:47 AM_
+Comey indictment escalates trump’s campaign to chill opposition, say legal experts" }
 
-IlselsaGansec:::txtsize --> Wouaaam:::txtsize
-Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-Wouaaam:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-IlselsaGansec:::txtsize --> Gtbfiwneta:::txtsize
-Gtbfiwneta:::txtsize --> Daastemyriihc:::txtsize
-Daastemyriihc:::txtsize --> Gsaardsrfsticese:::txtsize
-Daastemyriihc:::txtsize --> HqlssrGswli:::txtsize
-Gtbfiwneta:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Tlimruvwlyct:::txtsize --> UgddofmefabBhao:::txtsize
+UgddofmefabBhao:::txtsize --> Frfleroiasnio:::txtsize
+Frfleroiasnio:::txtsize --> Frhorahdurcc:::txtsize
+Frfleroiasnio:::txtsize --> TeSrocltflsto:::txtsize
+UgddofmefabBhao:::txtsize --> EcCasicunees:::txtsize
+EcCasicunees:::txtsize --> TstseydtrBesn:::txtsize
+EcCasicunees:::txtsize --> EcCpsuiepe:::txtsize
+Tlimruvwlyct:::txtsize --> EcCasicunees:::txtsize
+EcCasicunees:::txtsize --> TstseydtrBesn:::txtsize
+TstseydtrBesn:::txtsize --> EcCpsuiepe:::txtsize
+TstseydtrBesn:::txtsize --> Lieteenmitrf:::txtsize
+EcCasicunees:::txtsize --> EcCpsuiepe:::txtsize
+EcCpsuiepe:::txtsize --> Ierdsiupcao:::txtsize
+EcCpsuiepe:::txtsize --> Citearcicoisgp:::txtsize
 
 ```
-<i>Last updated: 2025-11-20 04:01:09.346660 (GMT+8)</i>
+<i>Last updated: 2025-11-20 08:00:36.802960 (GMT+8)</i>
 <!-- END -->
