@@ -16,6 +16,52 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+HRshsrfrites@{ shape: win-pane, label: "_Published Nov 20, 2025, 01:08 PM_
+Human rights watch accuses israel of war crimes in west bank expulsions" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+Useteaattl@{ shape: win-pane, label: "_Published Aug 15, 2025, 06:29 PM_
+Un says israeli settlement plan breaks international law" }
+Ilcestzyysm@{ shape: win-pane, label: "_Published Aug 14, 2025, 05:23 PM_
+Israeli forces step up assault on gaza city as egypt hosts hamas" }
+Guishinlsons@{ shape: win-pane, label: "_Published Aug 12, 2025, 10:13 PM_
+Gaza suffering has reached ‘unimaginable’ levels, say 24 foreign ministers" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+Hlaenhoitsno@{ shape: win-pane, label: "_Published Aug 15, 2025, 04:51 PM_
+Hezbollah warns lebanon ‘will have no life’ if govt moves against group" }
+IetesisrLo@{ shape: win-pane, label: "_Published Aug 13, 2025, 03:25 PM_
+Iran security chief vows continued support for lebanon" }
+UnHlieedetw@{ shape: win-pane, label: "_Published Aug 08, 2025, 12:36 AM_
+Us plan sees hezbollah disarmed by year-end, israeli withdrawal" }
+
+HRshsrfrites:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+HRshsrfrites:::txtsize --> Useteaattl:::txtsize
+Useteaattl:::txtsize --> Ilcestzyysm:::txtsize
+Ilcestzyysm:::txtsize --> Guishinlsons:::txtsize
+Ilcestzyysm:::txtsize --> Sbsrcdnacaale:::txtsize
+Useteaattl:::txtsize --> Hlaenhoitsno:::txtsize
+Hlaenhoitsno:::txtsize --> IetesisrLo:::txtsize
+Hlaenhoitsno:::txtsize --> UnHlieedetw:::txtsize
+
 WHhnimaainzi@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:20 AM_
 World health organization aims to vaccinate 40,000 children in gaza strip" }
 UuCipruomzcn@{ shape: win-pane, label: "_Published Nov 18, 2025, 06:27 AM_
@@ -59,8 +105,8 @@ NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
 Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
 Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
 
-TsemoMnhon@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:38 AM_
-Trump says he will meet zohran mamdani at white house on nov 21" }
+Tttotocrmatso@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:38 AM_
+Trump to meet new york city mayor-elect zohran mamdani at white house on nov 21" }
 Irnasmnotmrzy@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:38 AM_
 Immigration operations to ramp up in new york city, trump’s border czar says" }
 YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
@@ -90,14 +136,14 @@ Us house returns to washington for vote to end government shutdown" }
 Tttifolohwe@{ shape: win-pane, label: "_Published Nov 11, 2025, 08:14 AM_
 Trump threatens air traffic controllers over shutdown absences" }
 
-TsemoMnhon:::txtsize --> Irnasmnotmrzy:::txtsize
+Tttotocrmatso:::txtsize --> Irnasmnotmrzy:::txtsize
 Irnasmnotmrzy:::txtsize --> YMmnoihaiYilehpea:::txtsize
 YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
 YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
 Irnasmnotmrzy:::txtsize --> IcimsiYhoti:::txtsize
 IcimsiYhoti:::txtsize --> ScasiuooIefay:::txtsize
 IcimsiYhoti:::txtsize --> Tcdnmithcnc:::txtsize
-TsemoMnhon:::txtsize --> TarwsekaMn:::txtsize
+Tttotocrmatso:::txtsize --> TarwsekaMn:::txtsize
 TarwsekaMn:::txtsize --> YMmnoihaiYilehpea:::txtsize
 YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
 YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
@@ -105,52 +151,6 @@ TarwsekaMn:::txtsize --> Tcsbcaomhwes:::txtsize
 Tcsbcaomhwes:::txtsize --> Usuoinoeveun:::txtsize
 Tcsbcaomhwes:::txtsize --> Tttifolohwe:::txtsize
 
-BdpnScpepsoah@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:13 AM_
-Behind trump defence of saudi crown prince, a deeper us shift on human rights" }
-Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
-Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
-Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
-Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
-TsoidShiKoe@{ shape: win-pane, label: "_Published Oct 21, 2018, 04:04 AM_
-Trump says not satisfied with saudi handling of khashoggi death" }
-DorsasiSriepi@{ shape: win-pane, label: "_Published Oct 20, 2018, 08:46 AM_
-Death of journalist jamal khashoggi: from saudi royal insider to open critic" }
-TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
-Trump threatens abc news in oval office meltdown" }
-Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
-Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
-Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
-Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
-AkualawgiSAa@{ shape: win-pane, label: "_Published May 23, 2025, 07:20 AM_
-A check of trump’s false claims about white genocide in south africa" }
-Tahurpdvnesn@{ shape: win-pane, label: "_Published May 22, 2025, 01:26 AM_
-Trump ambushes south africa’s president over ‘genocide’ accusation" }
-FwSAarnTcsfimi@{ shape: win-pane, label: "_Published May 13, 2025, 04:01 AM_
-First white south africans arrive in us as trump claims they face discrimination" }
-Tssniofswplec@{ shape: win-pane, label: "_Published Feb 11, 2025, 08:13 PM_
-Trump’s accusations against south africa spark ‘white privilege’ self-mockery" }
-Tseatmaotoenthc@{ shape: win-pane, label: "_Published May 23, 2025, 04:50 AM_
-Trump’s image of dead ‘white farmers’ came from reuters footage in congo, not south africa" }
-Tahurpdvnesn@{ shape: win-pane, label: "_Published May 22, 2025, 01:26 AM_
-Trump ambushes south africa’s president over ‘genocide’ accusation" }
-Tahurpdvnesn@{ shape: win-pane, label: "_Published May 22, 2025, 01:26 AM_
-Trump ambushes south africa’s president over ‘genocide’ accusation" }
-
-BdpnScpepsoah:::txtsize --> Tdddnersdiinst:::txtsize
-Tdddnersdiinst:::txtsize --> Mrusnrsasikeprsc:::txtsize
-Mrusnrsasikeprsc:::txtsize --> TsoidShiKoe:::txtsize
-Mrusnrsasikeprsc:::txtsize --> DorsasiSriepi:::txtsize
-Tdddnersdiinst:::txtsize --> TttBsailn:::txtsize
-TttBsailn:::txtsize --> Mrusnrsasikeprsc:::txtsize
-TttBsailn:::txtsize --> Tdddnersdiinst:::txtsize
-BdpnScpepsoah:::txtsize --> AkualawgiSAa:::txtsize
-AkualawgiSAa:::txtsize --> Tahurpdvnesn:::txtsize
-Tahurpdvnesn:::txtsize --> FwSAarnTcsfimi:::txtsize
-Tahurpdvnesn:::txtsize --> Tssniofswplec:::txtsize
-AkualawgiSAa:::txtsize --> Tseatmaotoenthc:::txtsize
-Tseatmaotoenthc:::txtsize --> Tahurpdvnesn:::txtsize
-Tseatmaotoenthc:::txtsize --> Tahurpdvnesn:::txtsize
-
 ```
-<i>Last updated: 2025-11-20 12:01:04.658301 (GMT+8)</i>
+<i>Last updated: 2025-11-20 16:00:36.130700 (GMT+8)</i>
 <!-- END -->
