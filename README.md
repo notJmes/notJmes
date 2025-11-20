@@ -16,117 +16,138 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ioaruddnscfr@{ shape: win-pane, label: "_Published Nov 20, 2025, 07:24 PM_
-Iaea board passes resolution demanding answers and access from iran" }
-WeattrurraIlUi@{ shape: win-pane, label: "_Published Jun 27, 2025, 08:05 AM_
-What we know about the fate of iran’s nuclear programme after israeli and us strikes" }
-Tsafrrseicuilc@{ shape: win-pane, label: "_Published Jun 25, 2025, 05:25 PM_
-Trump says damage from iran strikes severe despite ‘inconclusive’ intelligence" }
-Uiaeaalrmjose@{ shape: win-pane, label: "_Published Jun 25, 2025, 04:45 AM_
-Us strikes may have set back iran nuclear programme by just months, sources say" }
-EUengserdeyetp@{ shape: win-pane, label: "_Published Jun 25, 2025, 04:35 AM_
-Early us assessment suggests strikes on iran did not destroy nuclear sites: report" }
-Uiaeaalrmjose@{ shape: win-pane, label: "_Published Jun 25, 2025, 04:45 AM_
-Us strikes may have set back iran nuclear programme by just months, sources say" }
-EUengserdeyetp@{ shape: win-pane, label: "_Published Jun 25, 2025, 04:35 AM_
-Early us assessment suggests strikes on iran did not destroy nuclear sites: report" }
+Gnsmtsadyt@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:33 PM_
+German christmas market opens year after deadly car attack" }
+Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
+‘torn from my side’: horror of german christmas market attack" }
+SmrdralnagceCta@{ shape: win-pane, label: "_Published Dec 21, 2024, 06:01 AM_
+Saudi man arrested after at least 2 killed in car ramming attack at german christmas market" }
+CinoCtaimneak@{ shape: win-pane, label: "_Published Dec 21, 2024, 03:42 AM_
+Car drives into crowd at christmas market in germany, in suspected attack" }
+Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
+‘torn from my side’: horror of german christmas market attack" }
+CinoCtaimneak@{ shape: win-pane, label: "_Published Dec 21, 2024, 03:42 AM_
+Car drives into crowd at christmas market in germany, in suspected attack" }
+Gnbaesatrfas@{ shape: win-pane, label: "_Published Aug 24, 2024, 05:23 AM_
+German stabbing rampage a ‘possible act of terrorism’, official says" }
+Gncofwtdianh@{ shape: win-pane, label: "_Published Jun 01, 2024, 12:55 AM_
+German police shoot knifeman who attacked far-right rally in mannheim" }
+Sdroadyaisea@{ shape: win-pane, label: "_Published Nov 10, 2025, 03:16 PM_
+Saudi doctor goes on trial for deadly german christmas market attack" }
+Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
+‘torn from my side’: horror of german christmas market attack" }
+SmrdralnagceCta@{ shape: win-pane, label: "_Published Dec 21, 2024, 06:01 AM_
+Saudi man arrested after at least 2 killed in car ramming attack at german christmas market" }
+CinoCtaimneak@{ shape: win-pane, label: "_Published Dec 21, 2024, 03:42 AM_
+Car drives into crowd at christmas market in germany, in suspected attack" }
+Scerlmrakt@{ shape: win-pane, label: "_Published Aug 19, 2025, 11:00 PM_
+Saudi charged over deadly german christmas market attack" }
+Gnsmtctlsx@{ shape: win-pane, label: "_Published Jan 06, 2025, 04:51 PM_
+German christmas market attack death toll rises to six" }
+SCtaakenyarie@{ shape: win-pane, label: "_Published Dec 31, 2024, 02:11 AM_
+Signs christmas market attack suspect mentally ill, says german minister" }
 
-Ioaruddnscfr:::txtsize --> WeattrurraIlUi:::txtsize
-WeattrurraIlUi:::txtsize --> Tsafrrseicuilc:::txtsize
-Tsafrrseicuilc:::txtsize --> Uiaeaalrmjose:::txtsize
-Tsafrrseicuilc:::txtsize --> EUengserdeyetp:::txtsize
-WeattrurraIlUi:::txtsize --> Uiaeaalrmjose:::txtsize
-Uiaeaalrmjose:::txtsize --> EUengserdeyetp:::txtsize
+Gnsmtsadyt:::txtsize --> Trsoomrakt:::txtsize
+Trsoomrakt:::txtsize --> SmrdralnagceCta:::txtsize
+SmrdralnagceCta:::txtsize --> CinoCtaimneak:::txtsize
+SmrdralnagceCta:::txtsize --> Trsoomrakt:::txtsize
+Trsoomrakt:::txtsize --> CinoCtaimneak:::txtsize
+CinoCtaimneak:::txtsize --> Gnbaesatrfas:::txtsize
+CinoCtaimneak:::txtsize --> Gncofwtdianh:::txtsize
+Gnsmtsadyt:::txtsize --> Sdroadyaisea:::txtsize
+Sdroadyaisea:::txtsize --> Trsoomrakt:::txtsize
+Trsoomrakt:::txtsize --> SmrdralnagceCta:::txtsize
+Trsoomrakt:::txtsize --> CinoCtaimneak:::txtsize
+Sdroadyaisea:::txtsize --> Scerlmrakt:::txtsize
+Scerlmrakt:::txtsize --> Gnsmtctlsx:::txtsize
+Scerlmrakt:::txtsize --> SCtaakenyarie:::txtsize
 
-FnaTbwaileoAan@{ shape: win-pane, label: "_Published Nov 20, 2025, 07:04 PM_
-Feud in the family: trump break with marjorie taylor greene jolts maga heartland" }
-TskeMewtco@{ shape: win-pane, label: "_Published Nov 18, 2025, 09:15 AM_
-Trump’s frankenstein? us maga meltdown tests its creator" }
-TsialjGeorfri@{ shape: win-pane, label: "_Published Nov 11, 2025, 07:29 AM_
-Trump says firebrand ally marjorie greene has ‘lost her way’ after criticism" }
-Tvoeichyfarkha@{ shape: win-pane, label: "_Published Nov 11, 2025, 02:09 AM_
-Trump vows to do everything he can to help syria after landmark talks with sharaa" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
-Frpsattly@{ shape: win-pane, label: "_Published Nov 16, 2025, 07:29 AM_
-Former trump ally says facing threats ‘fuelled’ by him" }
-TwrutomyoaGe@{ shape: win-pane, label: "_Published Nov 15, 2025, 02:43 PM_
-Trump withdraws support for long-time ally marjorie taylor greene" }
-HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
-‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
-Frpsattly@{ shape: win-pane, label: "_Published Nov 16, 2025, 07:29 AM_
-Former trump ally says facing threats ‘fuelled’ by him" }
-TwrutomyoaGe@{ shape: win-pane, label: "_Published Nov 15, 2025, 02:43 PM_
-Trump withdraws support for long-time ally marjorie taylor greene" }
-Lsounenonmr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:01 PM_
-Longest us govt shutdown is over but new showdowns loom for trump" }
-HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
-‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
-Jetisdntigntvem@{ shape: win-pane, label: "_Published Jul 08, 2025, 04:02 AM_
-Jeffrey epstein died by suicide, has no sex trafficking ‘client list’: us government memo" }
-Tspnerifag@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:45 AM_
-Trump says epstein ‘stole’ underage victim from mar-a-lago spa" }
+Uasencvoab@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:30 PM_
+Us cdc adopts kennedy’s anti-vaccine views on recast website" }
+Ucotskoagsstfli@{ shape: win-pane, label: "_Published Aug 28, 2025, 08:08 AM_
+Us cdc chief out after just weeks in role, challenges ouster as four top officials resign" }
+Ulttormnitcretnes@{ shape: win-pane, label: "_Published May 16, 2025, 06:40 AM_
+Us health authorities to stop recommending covid-19 shots for children, pregnant women, wsj reports" }
+Ulincehaoaee@{ shape: win-pane, label: "_Published May 15, 2025, 07:27 AM_
+Us health chief kennedy clashes with lawmakers over vaccine comments" }
+Fouhhewfncit@{ shape: win-pane, label: "_Published Feb 25, 2025, 12:10 PM_
+Fears of us public health crises grow amid falling vaccination rates" }
+Uetseetcoan@{ shape: win-pane, label: "_Published Aug 25, 2025, 07:15 AM_
+Us detects its first case of flesh-eating screwworm in a human" }
+Bleprnewiir@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:10 AM_
+Bird flu wiped out poultry, and now the screw worm is coming for beef" }
+Rstivafsd@{ shape: win-pane, label: "_Published Apr 11, 2025, 07:39 AM_
+Rfk jr says study will reveal cause of autism ‘epidemic’" }
+Rifttiec@{ shape: win-pane, label: "_Published Jan 02, 2025, 05:00 AM_
+Rfk jr is half right about american healthcare" }
+TnTsihzdech@{ shape: win-pane, label: "_Published Nov 20, 2024, 08:11 AM_
+Trump names tv personality mehmet oz as medicare, medicaid chief" }
+Tosleptlbrdhehs@{ shape: win-pane, label: "_Published Mar 31, 2025, 07:00 AM_
+‘this world is equally theirs’: a parent’s call for a better world for children with autism" }
+Oeelelrrshetoudd@{ shape: win-pane, label: "_Published Mar 27, 2025, 01:45 PM_
+Online guide to help parents plan for their autistic children’s future to be launched in end-2025" }
+RgsbttusniCeovi@{ shape: win-pane, label: "_Published Nov 17, 2024, 05:00 PM_
+Rising autism numbers: at least 70% of students in minds, rainbow centre schools have autism" }
 
-FnaTbwaileoAan:::txtsize --> TskeMewtco:::txtsize
-TskeMewtco:::txtsize --> TsialjGeorfri:::txtsize
-TsialjGeorfri:::txtsize --> Tvoeichyfarkha:::txtsize
-TsialjGeorfri:::txtsize --> Drwialosdp:::txtsize
-TskeMewtco:::txtsize --> Frpsattly:::txtsize
-Frpsattly:::txtsize --> TwrutomyoaGe:::txtsize
-Frpsattly:::txtsize --> HwtipngesTkfot:::txtsize
-FnaTbwaileoAan:::txtsize --> Frpsattly:::txtsize
-Frpsattly:::txtsize --> TwrutomyoaGe:::txtsize
-TwrutomyoaGe:::txtsize --> Lsounenonmr:::txtsize
-Frpsattly:::txtsize --> HwtipngesTkfot:::txtsize
-HwtipngesTkfot:::txtsize --> Jetisdntigntvem:::txtsize
-HwtipngesTkfot:::txtsize --> Tspnerifag:::txtsize
+Uasencvoab:::txtsize --> Ucotskoagsstfli:::txtsize
+Ucotskoagsstfli:::txtsize --> Ulttormnitcretnes:::txtsize
+Ulttormnitcretnes:::txtsize --> Ulincehaoaee:::txtsize
+Ulttormnitcretnes:::txtsize --> Fouhhewfncit:::txtsize
+Ucotskoagsstfli:::txtsize --> Uetseetcoan:::txtsize
+Uetseetcoan:::txtsize --> Bleprnewiir:::txtsize
+Uasencvoab:::txtsize --> Rstivafsd:::txtsize
+Rstivafsd:::txtsize --> Rifttiec:::txtsize
+Rifttiec:::txtsize --> TnTsihzdech:::txtsize
+Rstivafsd:::txtsize --> Tosleptlbrdhehs:::txtsize
+Tosleptlbrdhehs:::txtsize --> Oeelelrrshetoudd:::txtsize
+Tosleptlbrdhehs:::txtsize --> RgsbttusniCeovi:::txtsize
 
-EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
-Europeans push back at us plan that would force concessions from ukraine" }
-UcprrrteinlnsySe@{ shape: win-pane, label: "_Published Nov 20, 2025, 04:50 AM_
-Us peace proposal requires ukraine to cede russian-controlled land, slash army size: source" }
-Tsiviltvtnse@{ shape: win-pane, label: "_Published Nov 20, 2025, 04:03 AM_
-Trump’s ukraine envoy keith kellogg to leave post in january, sources say" }
-RailUnekreim@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:46 PM_
-Russian strike kills 25 in ukraine as zelensky’s turkey peace bid stumbles" }
-UnlysienoeoUch@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:48 PM_
-Ukraine’s zelensky meets turkish president as word emerges of new us peace push" }
-RailUnekreim@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:46 PM_
-Russian strike kills 25 in ukraine as zelensky’s turkey peace bid stumbles" }
-RakyanclUns@{ shape: win-pane, label: "_Published Nov 15, 2025, 04:56 AM_
-Russia strike on kyiv apartment block kills six, ukraine says" }
-Unlywlmiefesei@{ shape: win-pane, label: "_Published Nov 16, 2025, 04:39 AM_
-Ukraine’s zelensky renews calls for more air defence after deadly strike on kyiv" }
-Unlnkmtmjria@{ shape: win-pane, label: "_Published Nov 19, 2025, 09:14 PM_
-Ukraine parliament sacks two ministers amid major corruption scandal" }
-CpsartosUnly@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:15 PM_
-Corruption scandal, court battles pose test for ukraine’s zelensky" }
-UnpCeiaronhwmen@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:51 PM_
-Ukraine suspends cabinet minister as corruption scandal shakes wartime government" }
-UnasnaRaa@{ shape: win-pane, label: "_Published Nov 09, 2025, 08:55 PM_
-Ukraine scrambles for energy after russian attacks" }
-CpsartosUnly@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:15 PM_
-Corruption scandal, court battles pose test for ukraine’s zelensky" }
-UnpCeiaronhwmen@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:51 PM_
-Ukraine suspends cabinet minister as corruption scandal shakes wartime government" }
-UnasnaRaa@{ shape: win-pane, label: "_Published Nov 09, 2025, 08:55 PM_
-Ukraine scrambles for energy after russian attacks" }
+PrueueitaCh@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:10 PM_
+Pope urges ‘culture of abuse prevention’ in the italian church" }
+Atlspttispg@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:05 PM_
+Almost 4,400 people abused by priests in italy, victims’ group alleges" }
+Pelhbpteegn@{ shape: win-pane, label: "_Published Sep 12, 2025, 05:28 PM_
+Pope leo tells catholic bishops not to hide abuse allegations" }
+Peesiassair@{ shape: win-pane, label: "_Published Jul 05, 2025, 07:16 PM_
+Pope leo takes first action to address abuse by catholic clergy" }
+IahChrguosen@{ shape: win-pane, label: "_Published May 28, 2025, 10:09 PM_
+Italian catholic church reports higher number of abuse cases in 2023 and 2024" }
+Pedstirreabhcy@{ shape: win-pane, label: "_Published Oct 20, 2025, 09:07 PM_
+Pope leo holds first meeting with survivors of sexual abuse by catholic clergy" }
+Cluowlavmiaa@{ shape: win-pane, label: "_Published Oct 16, 2025, 05:35 PM_
+Catholic church too slow in helping abuse victims, vatican panel says" }
+UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
+Us cardinal prevost elected pope leo xiv, first american pontiff" }
+Pedstirreabhcy@{ shape: win-pane, label: "_Published Oct 20, 2025, 09:07 PM_
+Pope leo holds first meeting with survivors of sexual abuse by catholic clergy" }
+Cluowlavmiaa@{ shape: win-pane, label: "_Published Oct 16, 2025, 05:35 PM_
+Catholic church too slow in helping abuse victims, vatican panel says" }
+Pelhbpteegn@{ shape: win-pane, label: "_Published Sep 12, 2025, 05:28 PM_
+Pope leo tells catholic bishops not to hide abuse allegations" }
+Peesiassair@{ shape: win-pane, label: "_Published Jul 05, 2025, 07:16 PM_
+Pope leo takes first action to address abuse by catholic clergy" }
+UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
+Us cardinal prevost elected pope leo xiv, first american pontiff" }
+Arnclaenigi@{ shape: win-pane, label: "_Published May 09, 2025, 06:49 AM_
+A reformer and a reconciler: what pope leo’s new reign might bring" }
+IfarPeoselbia@{ shape: win-pane, label: "_Published May 09, 2025, 03:40 AM_
+In his first appearance, pope leo xiv offers three big clues about his papacy" }
 
-EeucStooosfke:::txtsize --> UcprrrteinlnsySe:::txtsize
-UcprrrteinlnsySe:::txtsize --> Tsiviltvtnse:::txtsize
-Tsiviltvtnse:::txtsize --> RailUnekreim:::txtsize
-Tsiviltvtnse:::txtsize --> UnlysienoeoUch:::txtsize
-UcprrrteinlnsySe:::txtsize --> RailUnekreim:::txtsize
-RailUnekreim:::txtsize --> RakyanclUns:::txtsize
-RailUnekreim:::txtsize --> Unlywlmiefesei:::txtsize
-EeucStooosfke:::txtsize --> Unlnkmtmjria:::txtsize
-Unlnkmtmjria:::txtsize --> CpsartosUnly:::txtsize
-CpsartosUnly:::txtsize --> UnpCeiaronhwmen:::txtsize
-CpsartosUnly:::txtsize --> UnasnaRaa:::txtsize
-Unlnkmtmjria:::txtsize --> CpsartosUnly:::txtsize
-CpsartosUnly:::txtsize --> UnpCeiaronhwmen:::txtsize
-CpsartosUnly:::txtsize --> UnasnaRaa:::txtsize
+PrueueitaCh:::txtsize --> Atlspttispg:::txtsize
+Atlspttispg:::txtsize --> Pelhbpteegn:::txtsize
+Pelhbpteegn:::txtsize --> Peesiassair:::txtsize
+Pelhbpteegn:::txtsize --> IahChrguosen:::txtsize
+Atlspttispg:::txtsize --> Pedstirreabhcy:::txtsize
+Pedstirreabhcy:::txtsize --> Cluowlavmiaa:::txtsize
+Pedstirreabhcy:::txtsize --> UdPscooimat:::txtsize
+PrueueitaCh:::txtsize --> Pedstirreabhcy:::txtsize
+Pedstirreabhcy:::txtsize --> Cluowlavmiaa:::txtsize
+Cluowlavmiaa:::txtsize --> Pelhbpteegn:::txtsize
+Cluowlavmiaa:::txtsize --> Peesiassair:::txtsize
+Pedstirreabhcy:::txtsize --> UdPscooimat:::txtsize
+UdPscooimat:::txtsize --> Arnclaenigi:::txtsize
+UdPscooimat:::txtsize --> IfarPeoselbia:::txtsize
 
 ```
-<i>Last updated: 2025-11-20 20:01:07.165597 (GMT+8)</i>
+<i>Last updated: 2025-11-21 00:00:41.015361 (GMT+8)</i>
 <!-- END -->
