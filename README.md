@@ -16,141 +16,117 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-HRshsrfrites@{ shape: win-pane, label: "_Published Nov 20, 2025, 01:08 PM_
-Human rights watch accuses israel of war crimes in west bank expulsions" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-Useteaattl@{ shape: win-pane, label: "_Published Aug 15, 2025, 06:29 PM_
-Un says israeli settlement plan breaks international law" }
-Ilcestzyysm@{ shape: win-pane, label: "_Published Aug 14, 2025, 05:23 PM_
-Israeli forces step up assault on gaza city as egypt hosts hamas" }
-Guishinlsons@{ shape: win-pane, label: "_Published Aug 12, 2025, 10:13 PM_
-Gaza suffering has reached ‘unimaginable’ levels, say 24 foreign ministers" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-Hlaenhoitsno@{ shape: win-pane, label: "_Published Aug 15, 2025, 04:51 PM_
-Hezbollah warns lebanon ‘will have no life’ if govt moves against group" }
-IetesisrLo@{ shape: win-pane, label: "_Published Aug 13, 2025, 03:25 PM_
-Iran security chief vows continued support for lebanon" }
-UnHlieedetw@{ shape: win-pane, label: "_Published Aug 08, 2025, 12:36 AM_
-Us plan sees hezbollah disarmed by year-end, israeli withdrawal" }
+Ioaruddnscfr@{ shape: win-pane, label: "_Published Nov 20, 2025, 07:24 PM_
+Iaea board passes resolution demanding answers and access from iran" }
+WeattrurraIlUi@{ shape: win-pane, label: "_Published Jun 27, 2025, 08:05 AM_
+What we know about the fate of iran’s nuclear programme after israeli and us strikes" }
+Tsafrrseicuilc@{ shape: win-pane, label: "_Published Jun 25, 2025, 05:25 PM_
+Trump says damage from iran strikes severe despite ‘inconclusive’ intelligence" }
+Uiaeaalrmjose@{ shape: win-pane, label: "_Published Jun 25, 2025, 04:45 AM_
+Us strikes may have set back iran nuclear programme by just months, sources say" }
+EUengserdeyetp@{ shape: win-pane, label: "_Published Jun 25, 2025, 04:35 AM_
+Early us assessment suggests strikes on iran did not destroy nuclear sites: report" }
+Uiaeaalrmjose@{ shape: win-pane, label: "_Published Jun 25, 2025, 04:45 AM_
+Us strikes may have set back iran nuclear programme by just months, sources say" }
+EUengserdeyetp@{ shape: win-pane, label: "_Published Jun 25, 2025, 04:35 AM_
+Early us assessment suggests strikes on iran did not destroy nuclear sites: report" }
 
-HRshsrfrites:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-HRshsrfrites:::txtsize --> Useteaattl:::txtsize
-Useteaattl:::txtsize --> Ilcestzyysm:::txtsize
-Ilcestzyysm:::txtsize --> Guishinlsons:::txtsize
-Ilcestzyysm:::txtsize --> Sbsrcdnacaale:::txtsize
-Useteaattl:::txtsize --> Hlaenhoitsno:::txtsize
-Hlaenhoitsno:::txtsize --> IetesisrLo:::txtsize
-Hlaenhoitsno:::txtsize --> UnHlieedetw:::txtsize
+Ioaruddnscfr:::txtsize --> WeattrurraIlUi:::txtsize
+WeattrurraIlUi:::txtsize --> Tsafrrseicuilc:::txtsize
+Tsafrrseicuilc:::txtsize --> Uiaeaalrmjose:::txtsize
+Tsafrrseicuilc:::txtsize --> EUengserdeyetp:::txtsize
+WeattrurraIlUi:::txtsize --> Uiaeaalrmjose:::txtsize
+Uiaeaalrmjose:::txtsize --> EUengserdeyetp:::txtsize
 
-WHhnimaainzi@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:20 AM_
-World health organization aims to vaccinate 40,000 children in gaza strip" }
-UuCipruomzcn@{ shape: win-pane, label: "_Published Nov 18, 2025, 06:27 AM_
-Un security council adopts us resolution on trump’s gaza peace plan" }
-Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
-What does trump’s gaza peace plan promise?" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
-Singapore strongly condemns terror attacks on israel, calls for end to violence" }
+FnaTbwaileoAan@{ shape: win-pane, label: "_Published Nov 20, 2025, 07:04 PM_
+Feud in the family: trump break with marjorie taylor greene jolts maga heartland" }
+TskeMewtco@{ shape: win-pane, label: "_Published Nov 18, 2025, 09:15 AM_
+Trump’s frankenstein? us maga meltdown tests its creator" }
+TsialjGeorfri@{ shape: win-pane, label: "_Published Nov 11, 2025, 07:29 AM_
+Trump says firebrand ally marjorie greene has ‘lost her way’ after criticism" }
+Tvoeichyfarkha@{ shape: win-pane, label: "_Published Nov 11, 2025, 02:09 AM_
+Trump vows to do everything he can to help syria after landmark talks with sharaa" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+Frpsattly@{ shape: win-pane, label: "_Published Nov 16, 2025, 07:29 AM_
+Former trump ally says facing threats ‘fuelled’ by him" }
+TwrutomyoaGe@{ shape: win-pane, label: "_Published Nov 15, 2025, 02:43 PM_
+Trump withdraws support for long-time ally marjorie taylor greene" }
+HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
+‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
+Frpsattly@{ shape: win-pane, label: "_Published Nov 16, 2025, 07:29 AM_
+Former trump ally says facing threats ‘fuelled’ by him" }
+TwrutomyoaGe@{ shape: win-pane, label: "_Published Nov 15, 2025, 02:43 PM_
+Trump withdraws support for long-time ally marjorie taylor greene" }
+Lsounenonmr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:01 PM_
+Longest us govt shutdown is over but new showdowns loom for trump" }
+HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
+‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
+Jetisdntigntvem@{ shape: win-pane, label: "_Published Jul 08, 2025, 04:02 AM_
+Jeffrey epstein died by suicide, has no sex trafficking ‘client list’: us government memo" }
+Tspnerifag@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:45 AM_
+Trump says epstein ‘stole’ underage victim from mar-a-lago spa" }
 
-WHhnimaainzi:::txtsize --> UuCipruomzcn:::txtsize
-UuCipruomzcn:::txtsize --> Wouaaam:::txtsize
-Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
-Wouaaam:::txtsize --> NyeeawHakl:::txtsize
-UuCipruomzcn:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-WHhnimaainzi:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-WzptIleint:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
-Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
+FnaTbwaileoAan:::txtsize --> TskeMewtco:::txtsize
+TskeMewtco:::txtsize --> TsialjGeorfri:::txtsize
+TsialjGeorfri:::txtsize --> Tvoeichyfarkha:::txtsize
+TsialjGeorfri:::txtsize --> Drwialosdp:::txtsize
+TskeMewtco:::txtsize --> Frpsattly:::txtsize
+Frpsattly:::txtsize --> TwrutomyoaGe:::txtsize
+Frpsattly:::txtsize --> HwtipngesTkfot:::txtsize
+FnaTbwaileoAan:::txtsize --> Frpsattly:::txtsize
+Frpsattly:::txtsize --> TwrutomyoaGe:::txtsize
+TwrutomyoaGe:::txtsize --> Lsounenonmr:::txtsize
+Frpsattly:::txtsize --> HwtipngesTkfot:::txtsize
+HwtipngesTkfot:::txtsize --> Jetisdntigntvem:::txtsize
+HwtipngesTkfot:::txtsize --> Tspnerifag:::txtsize
 
-Tttotocrmatso@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:38 AM_
-Trump to meet new york city mayor-elect zohran mamdani at white house on nov 21" }
-Irnasmnotmrzy@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:38 AM_
-Immigration operations to ramp up in new york city, trump’s border czar says" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
-Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
-Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
-Takeaways from us election night 2025" }
-IcimsiYhoti@{ shape: win-pane, label: "_Published Sep 27, 2025, 08:48 AM_
-Ice tactics inflame tensions in new york, chicago and other cities" }
-ScasiuooIefay@{ shape: win-pane, label: "_Published Sep 26, 2025, 03:07 AM_
-Suspect in dallas shooting sought to terrorise ice agents, officials say" }
-Tcdnmithcnc@{ shape: win-pane, label: "_Published Aug 14, 2025, 10:04 PM_
-Trump crackdown snares more migrants with no us criminal records" }
-TarwsekaMn@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:10 AM_
-Trump aides review funds for new york city after mamdani win" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
-Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
-Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
-Takeaways from us election night 2025" }
-Tcsbcaomhwes@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:55 AM_
-Trump claims ‘very big victory’ as us government shutdown vote nears" }
-Usuoinoeveun@{ shape: win-pane, label: "_Published Nov 12, 2025, 04:21 AM_
-Us house returns to washington for vote to end government shutdown" }
-Tttifolohwe@{ shape: win-pane, label: "_Published Nov 11, 2025, 08:14 AM_
-Trump threatens air traffic controllers over shutdown absences" }
+EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
+Europeans push back at us plan that would force concessions from ukraine" }
+UcprrrteinlnsySe@{ shape: win-pane, label: "_Published Nov 20, 2025, 04:50 AM_
+Us peace proposal requires ukraine to cede russian-controlled land, slash army size: source" }
+Tsiviltvtnse@{ shape: win-pane, label: "_Published Nov 20, 2025, 04:03 AM_
+Trump’s ukraine envoy keith kellogg to leave post in january, sources say" }
+RailUnekreim@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:46 PM_
+Russian strike kills 25 in ukraine as zelensky’s turkey peace bid stumbles" }
+UnlysienoeoUch@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:48 PM_
+Ukraine’s zelensky meets turkish president as word emerges of new us peace push" }
+RailUnekreim@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:46 PM_
+Russian strike kills 25 in ukraine as zelensky’s turkey peace bid stumbles" }
+RakyanclUns@{ shape: win-pane, label: "_Published Nov 15, 2025, 04:56 AM_
+Russia strike on kyiv apartment block kills six, ukraine says" }
+Unlywlmiefesei@{ shape: win-pane, label: "_Published Nov 16, 2025, 04:39 AM_
+Ukraine’s zelensky renews calls for more air defence after deadly strike on kyiv" }
+Unlnkmtmjria@{ shape: win-pane, label: "_Published Nov 19, 2025, 09:14 PM_
+Ukraine parliament sacks two ministers amid major corruption scandal" }
+CpsartosUnly@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:15 PM_
+Corruption scandal, court battles pose test for ukraine’s zelensky" }
+UnpCeiaronhwmen@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:51 PM_
+Ukraine suspends cabinet minister as corruption scandal shakes wartime government" }
+UnasnaRaa@{ shape: win-pane, label: "_Published Nov 09, 2025, 08:55 PM_
+Ukraine scrambles for energy after russian attacks" }
+CpsartosUnly@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:15 PM_
+Corruption scandal, court battles pose test for ukraine’s zelensky" }
+UnpCeiaronhwmen@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:51 PM_
+Ukraine suspends cabinet minister as corruption scandal shakes wartime government" }
+UnasnaRaa@{ shape: win-pane, label: "_Published Nov 09, 2025, 08:55 PM_
+Ukraine scrambles for energy after russian attacks" }
 
-Tttotocrmatso:::txtsize --> Irnasmnotmrzy:::txtsize
-Irnasmnotmrzy:::txtsize --> YMmnoihaiYilehpea:::txtsize
-YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
-YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
-Irnasmnotmrzy:::txtsize --> IcimsiYhoti:::txtsize
-IcimsiYhoti:::txtsize --> ScasiuooIefay:::txtsize
-IcimsiYhoti:::txtsize --> Tcdnmithcnc:::txtsize
-Tttotocrmatso:::txtsize --> TarwsekaMn:::txtsize
-TarwsekaMn:::txtsize --> YMmnoihaiYilehpea:::txtsize
-YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
-YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
-TarwsekaMn:::txtsize --> Tcsbcaomhwes:::txtsize
-Tcsbcaomhwes:::txtsize --> Usuoinoeveun:::txtsize
-Tcsbcaomhwes:::txtsize --> Tttifolohwe:::txtsize
+EeucStooosfke:::txtsize --> UcprrrteinlnsySe:::txtsize
+UcprrrteinlnsySe:::txtsize --> Tsiviltvtnse:::txtsize
+Tsiviltvtnse:::txtsize --> RailUnekreim:::txtsize
+Tsiviltvtnse:::txtsize --> UnlysienoeoUch:::txtsize
+UcprrrteinlnsySe:::txtsize --> RailUnekreim:::txtsize
+RailUnekreim:::txtsize --> RakyanclUns:::txtsize
+RailUnekreim:::txtsize --> Unlywlmiefesei:::txtsize
+EeucStooosfke:::txtsize --> Unlnkmtmjria:::txtsize
+Unlnkmtmjria:::txtsize --> CpsartosUnly:::txtsize
+CpsartosUnly:::txtsize --> UnpCeiaronhwmen:::txtsize
+CpsartosUnly:::txtsize --> UnasnaRaa:::txtsize
+Unlnkmtmjria:::txtsize --> CpsartosUnly:::txtsize
+CpsartosUnly:::txtsize --> UnpCeiaronhwmen:::txtsize
+CpsartosUnly:::txtsize --> UnasnaRaa:::txtsize
 
 ```
-<i>Last updated: 2025-11-20 16:00:36.130700 (GMT+8)</i>
+<i>Last updated: 2025-11-20 20:01:07.165597 (GMT+8)</i>
 <!-- END -->
