@@ -16,8 +16,79 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-NlacwetfeVuopcz@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:47 AM_
-Nobel laureate machado will be ‘fugitive’ if she leaves venezuela to accept peace prize" }
+Bvrhlgowuye@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:30 PM_
+Believe it or not, that $15.7 million gold toilet was bought by … ripley’s" }
+FKpicsrdor@{ shape: win-pane, label: "_Published Nov 21, 2025, 10:25 AM_
+Frida kahlo painting auctions for $71m, record for woman artist" }
+Kpacsdesrkat@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:10 PM_
+Klimt portrait becomes second most expensive artwork sold at auction" }
+Mndngsiec@{ shape: win-pane, label: "_Published Nov 12, 2025, 03:28 AM_
+Mellon blue diamond ring sells for $32.5m in geneva auction" }
+Rahpclmo@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:05 AM_
+Rare patek philippe watch sells for $22.9 million" }
+Kpacsdesrkat@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:10 PM_
+Klimt portrait becomes second most expensive artwork sold at auction" }
+Mndngsiec@{ shape: win-pane, label: "_Published Nov 12, 2025, 03:28 AM_
+Mellon blue diamond ring sells for $32.5m in geneva auction" }
+Rahpclmo@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:05 AM_
+Rare patek philippe watch sells for $22.9 million" }
+Kpacsdesrkat@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:10 PM_
+Klimt portrait becomes second most expensive artwork sold at auction" }
+Mndngsiec@{ shape: win-pane, label: "_Published Nov 12, 2025, 03:28 AM_
+Mellon blue diamond ring sells for $32.5m in geneva auction" }
+Dnpncotnv@{ shape: win-pane, label: "_Published Nov 06, 2025, 09:05 PM_
+Diamonds, napoleon brooch up for auction in geneva" }
+Rahpclmo@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:05 AM_
+Rare patek philippe watch sells for $22.9 million" }
+TagBnhcait@{ shape: win-pane, label: "_Published Jul 10, 2025, 11:59 PM_
+The $12.8m bag: original birkin smashes records at paris auction" }
+Hsafestic@{ shape: win-pane, label: "_Published Jun 10, 2025, 07:22 PM_
+Human-size labubu figure sells for $193,000 at beijing auction" }
+
+Bvrhlgowuye:::txtsize --> FKpicsrdor:::txtsize
+FKpicsrdor:::txtsize --> Kpacsdesrkat:::txtsize
+Kpacsdesrkat:::txtsize --> Mndngsiec:::txtsize
+Kpacsdesrkat:::txtsize --> Rahpclmo:::txtsize
+FKpicsrdor:::txtsize --> Kpacsdesrkat:::txtsize
+Kpacsdesrkat:::txtsize --> Mndngsiec:::txtsize
+Kpacsdesrkat:::txtsize --> Rahpclmo:::txtsize
+Bvrhlgowuye:::txtsize --> Kpacsdesrkat:::txtsize
+Kpacsdesrkat:::txtsize --> Mndngsiec:::txtsize
+Mndngsiec:::txtsize --> Dnpncotnv:::txtsize
+Kpacsdesrkat:::txtsize --> Rahpclmo:::txtsize
+Rahpclmo:::txtsize --> TagBnhcait:::txtsize
+Rahpclmo:::txtsize --> Hsafestic:::txtsize
+
+MeiMnsuswotg@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:22 PM_
+Miss mexico is new miss universe in surprising twist to chaotic pageant" }
+NIairMnssaetMede@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:59 PM_
+Nawat itsaragrisil sorry for miss universe fiasco, claims he didn’t call miss mexico ‘dumb head’" }
+MfedMnsgeeier@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:30 PM_
+My perfect weekend with miss universe singapore 2025 winner annika xue sager" }
+MfedMnsgeere@{ shape: win-pane, label: "_Published Oct 03, 2024, 03:00 PM_
+My perfect weekend with miss universe singapore 2024 winner charlotte chia" }
+Sryesiacseenudu@{ shape: win-pane, label: "_Published Sep 23, 2025, 04:15 PM_
+Singer harry styles runs berlin marathon, clocks impressive timing of just under 3 hours" }
+NIairMnssaetMede@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:59 PM_
+Nawat itsaragrisil sorry for miss universe fiasco, claims he didn’t call miss mexico ‘dumb head’" }
+MfedMnsgeeier@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:30 PM_
+My perfect weekend with miss universe singapore 2025 winner annika xue sager" }
+MfedMnsgeere@{ shape: win-pane, label: "_Published Oct 03, 2024, 03:00 PM_
+My perfect weekend with miss universe singapore 2024 winner charlotte chia" }
+Sryesiacseenudu@{ shape: win-pane, label: "_Published Sep 23, 2025, 04:15 PM_
+Singer harry styles runs berlin marathon, clocks impressive timing of just under 3 hours" }
+
+MeiMnsuswotg:::txtsize --> NIairMnssaetMede:::txtsize
+NIairMnssaetMede:::txtsize --> MfedMnsgeeier:::txtsize
+MfedMnsgeeier:::txtsize --> MfedMnsgeere:::txtsize
+MfedMnsgeeier:::txtsize --> Sryesiacseenudu:::txtsize
+MeiMnsuswotg:::txtsize --> NIairMnssaetMede:::txtsize
+NIairMnssaetMede:::txtsize --> MfedMnsgeeier:::txtsize
+MfedMnsgeeier:::txtsize --> MfedMnsgeere:::txtsize
+MfedMnsgeeier:::txtsize --> Sryesiacseenudu:::txtsize
+
+Nlarraobiilszteai@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:47 AM_
+Nobel laureate maria corina machado will be ‘fugitive’ if she leaves venezuela to accept peace prize" }
 Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
 Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
 TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
@@ -47,14 +118,14 @@ Us aircraft carrier moves into latin america region, escalating venezuela tensio
 Uddrngufialhe@{ shape: win-pane, label: "_Published Nov 14, 2025, 06:32 AM_
 Us conducted 20th strike on alleged drug trafficking boat earlier this week" }
 
-NlacwetfeVuopcz:::txtsize --> Vuoilranhibai:::txtsize
+Nlarraobiilszteai:::txtsize --> Vuoilranhibai:::txtsize
 Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
 TsonoeroelS:::txtsize --> Tseaupoabmrnluo:::txtsize
 TsonoeroelS:::txtsize --> Htahueirsmng:::txtsize
 Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
 TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
 TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
-NlacwetfeVuopcz:::txtsize --> TfsztaaMort:::txtsize
+Nlarraobiilszteai:::txtsize --> TfsztaaMort:::txtsize
 TfsztaaMort:::txtsize --> Ucceinaeiiburz:::txtsize
 Ucceinaeiiburz:::txtsize --> Eirdyroersl:::txtsize
 Ucceinaeiiburz:::txtsize --> VuonipcnAraTo:::txtsize
@@ -62,59 +133,6 @@ TfsztaaMort:::txtsize --> orsomalduttpon:::txtsize
 orsomalduttpon:::txtsize --> Ucceeonigsteens:::txtsize
 orsomalduttpon:::txtsize --> Uddrngufialhe:::txtsize
 
-AmipemostcIle@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:37 AM_
-Anonymous bidder pays nearly $1.2 million for secret to decode cia sculpture" }
-yisrArehnlia@{ shape: win-pane, label: "_Published Feb 02, 2024, 11:33 AM_
-40 years in prison for ex-cia coder who leaked hacking tools to wikileaks" }
-Frnevdkkie@{ shape: win-pane, label: "_Published Jul 14, 2022, 06:40 AM_
-Former cia engineer convicted in wikileaks espionage case" }
-UrUriWeoraa@{ shape: win-pane, label: "_Published Jun 17, 2022, 05:38 PM_
-Uk approves us extradition of wikileaks' founder julian assange" }
-AalkaraJnnranin@{ shape: win-pane, label: "_Published Sep 21, 2023, 06:48 AM_
-Australian lawmakers call for release of julian assange during talks in washington" }
-AalkorsuAgiv@{ shape: win-pane, label: "_Published Sep 05, 2023, 08:17 AM_
-Australian lawmakers to urge release of julian assange during us visit" }
-Weorniptrere@{ shape: win-pane, label: "_Published Jul 11, 2023, 02:29 AM_
-Wikileaks founder assange's wife appeals to us president for clemency" }
-
-AmipemostcIle:::txtsize --> yisrArehnlia:::txtsize
-yisrArehnlia:::txtsize --> Frnevdkkie:::txtsize
-Frnevdkkie:::txtsize --> UrUriWeoraa:::txtsize
-yisrArehnlia:::txtsize --> AalkaraJnnranin:::txtsize
-AalkaraJnnranin:::txtsize --> AalkorsuAgiv:::txtsize
-AalkaraJnnranin:::txtsize --> Weorniptrere:::txtsize
-
-Mnsaxatreecffg@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:05 AM_
-Miss universe jamaica exits pageant on stretcher after shocking fall off stage" }
-NIairMnssaetMede@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:59 PM_
-Nawat itsaragrisil sorry for miss universe fiasco, claims he didn’t call miss mexico ‘dumb head’" }
-MfedMnsgeeier@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:30 PM_
-My perfect weekend with miss universe singapore 2025 winner annika xue sager" }
-MfedMnsgeere@{ shape: win-pane, label: "_Published Oct 03, 2024, 03:00 PM_
-My perfect weekend with miss universe singapore 2024 winner charlotte chia" }
-Sryesiacseenudu@{ shape: win-pane, label: "_Published Sep 23, 2025, 04:15 PM_
-Singer harry styles runs berlin marathon, clocks impressive timing of just under 3 hours" }
-MnseccssaeNgir@{ shape: win-pane, label: "_Published Nov 08, 2025, 03:28 PM_
-Miss universe queen alicia machado’s ‘racist’ remarks versus nawat get asians’ ire" }
-NIairMnssaetMede@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:59 PM_
-Nawat itsaragrisil sorry for miss universe fiasco, claims he didn’t call miss mexico ‘dumb head’" }
-MfedMnsgeeier@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:30 PM_
-My perfect weekend with miss universe singapore 2025 winner annika xue sager" }
-NIairMnssaetMede@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:59 PM_
-Nawat itsaragrisil sorry for miss universe fiasco, claims he didn’t call miss mexico ‘dumb head’" }
-MfedMnsgeeier@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:30 PM_
-My perfect weekend with miss universe singapore 2025 winner annika xue sager" }
-
-Mnsaxatreecffg:::txtsize --> NIairMnssaetMede:::txtsize
-NIairMnssaetMede:::txtsize --> MfedMnsgeeier:::txtsize
-MfedMnsgeeier:::txtsize --> MfedMnsgeere:::txtsize
-MfedMnsgeeier:::txtsize --> Sryesiacseenudu:::txtsize
-Mnsaxatreecffg:::txtsize --> MnseccssaeNgir:::txtsize
-MnseccssaeNgir:::txtsize --> NIairMnssaetMede:::txtsize
-NIairMnssaetMede:::txtsize --> MfedMnsgeeier:::txtsize
-MnseccssaeNgir:::txtsize --> NIairMnssaetMede:::txtsize
-NIairMnssaetMede:::txtsize --> MfedMnsgeeier:::txtsize
-
 ```
-<i>Last updated: 2025-11-21 12:00:58.493117 (GMT+8)</i>
+<i>Last updated: 2025-11-21 16:00:23.292064 (GMT+8)</i>
 <!-- END -->
