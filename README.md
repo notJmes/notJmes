@@ -16,123 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Rasasiirwolspo@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:19 PM_
-Russia wants to stall us sanctions with ukraine war proposals, says eu top diplomat" }
-Ucsilrrionitncr@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:27 PM_
-Us sanctions russian oil majors over ukraine, prompting india jitters and moscow fury" }
-UpmucssorirPwht@{ shape: win-pane, label: "_Published Oct 23, 2025, 05:33 AM_
-Us slaps ‘tremendous sanctions’ on russian oil for ukraine war, says putin wasn’t ‘honest’" }
-ErtkftassewUn@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:10 AM_
-Eu approves 19th package of sanctions against russia over its war in ukraine" }
-PTtiaodrieei@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
-Putin-trump talks in budapest on hold after russia rejects ceasefire" }
-Tsemunpogrnil@{ shape: win-pane, label: "_Published May 19, 2025, 10:54 PM_
-Trump says he will meet putin in budapest, touting progress in ukraine talks" }
-TPdtsUncamre@{ shape: win-pane, label: "_Published Aug 16, 2025, 03:43 AM_
-Trump-putin direct talks over ukraine conclude as summit stretches on" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+Cidnhailvsu@{ shape: win-pane, label: "_Published Nov 22, 2025, 03:35 AM_
+Cop30 climate deal under threat as nations clash over fossil fuels" }
+UehPerayfls@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:59 PM_
+Un chief pushes cop30 for deal on roadmap away from fossil fuels" }
+SlWicrtteOodoaa@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:15 AM_
+St explains: why is it tricky for countries to agree at cop30 on how to adapt to climate change?" }
+Uneitumooiuttioan@{ shape: win-pane, label: "_Published Aug 16, 2025, 05:00 AM_
+Using nature, multi-use structures among solutions being studied to protect singapore coastlines" }
+FlsosOeeomc@{ shape: win-pane, label: "_Published Nov 08, 2025, 05:00 AM_
+From pledges to progress: can cop30 move the needle on climate action?" }
+CracnntnPalrge@{ shape: win-pane, label: "_Published Nov 19, 2025, 09:30 PM_
+Countries’ lack of consensus on adaptation at cop30 climate talks worrying: grace fu" }
+Uneitumooiuttioan@{ shape: win-pane, label: "_Published Aug 16, 2025, 05:00 AM_
+Using nature, multi-use structures among solutions being studied to protect singapore coastlines" }
+FlsosOeeomc@{ shape: win-pane, label: "_Published Nov 08, 2025, 05:00 AM_
+From pledges to progress: can cop30 move the needle on climate action?" }
+Umuvizoaffa@{ shape: win-pane, label: "_Published Nov 21, 2025, 02:28 AM_
+Un climate summit venue in brazil reopens after fire: officials" }
+Psftwtstehsi@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:26 AM_
+Protesters force their way into cop30 summit venue, clash with security" }
+FhehzdoabtddNamO@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:16 AM_
+From the andes to the amazon, indigenous leaders bring their demands to un climate summit cop30" }
+AoiznBuAndse@{ shape: win-pane, label: "_Published Nov 11, 2025, 09:55 AM_
+As cop30 opens in brazilian city belem, urban amazon residents swelter" }
+UehPerayfls@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:59 PM_
+Un chief pushes cop30 for deal on roadmap away from fossil fuels" }
+SlWicrtteOodoaa@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:15 AM_
+St explains: why is it tricky for countries to agree at cop30 on how to adapt to climate change?" }
+CracnntnPalrge@{ shape: win-pane, label: "_Published Nov 19, 2025, 09:30 PM_
+Countries’ lack of consensus on adaptation at cop30 climate talks worrying: grace fu" }
 
-Rasasiirwolspo:::txtsize --> Ucsilrrionitncr:::txtsize
-Ucsilrrionitncr:::txtsize --> UpmucssorirPwht:::txtsize
-UpmucssorirPwht:::txtsize --> ErtkftassewUn:::txtsize
-UpmucssorirPwht:::txtsize --> PTtiaodrieei:::txtsize
-Ucsilrrionitncr:::txtsize --> Tsemunpogrnil:::txtsize
-Tsemunpogrnil:::txtsize --> TPdtsUncamre:::txtsize
-Tsemunpogrnil:::txtsize --> Tdrcaaededlncbs:::txtsize
+Cidnhailvsu:::txtsize --> UehPerayfls:::txtsize
+UehPerayfls:::txtsize --> SlWicrtteOodoaa:::txtsize
+SlWicrtteOodoaa:::txtsize --> Uneitumooiuttioan:::txtsize
+SlWicrtteOodoaa:::txtsize --> FlsosOeeomc:::txtsize
+UehPerayfls:::txtsize --> CracnntnPalrge:::txtsize
+CracnntnPalrge:::txtsize --> Uneitumooiuttioan:::txtsize
+CracnntnPalrge:::txtsize --> FlsosOeeomc:::txtsize
+Cidnhailvsu:::txtsize --> Umuvizoaffa:::txtsize
+Umuvizoaffa:::txtsize --> Psftwtstehsi:::txtsize
+Psftwtstehsi:::txtsize --> FhehzdoabtddNamO:::txtsize
+Psftwtstehsi:::txtsize --> AoiznBuAndse:::txtsize
+Umuvizoaffa:::txtsize --> UehPerayfls:::txtsize
+UehPerayfls:::txtsize --> SlWicrtteOodoaa:::txtsize
+UehPerayfls:::txtsize --> CracnntnPalrge:::txtsize
 
-BsrlmPeUiapsr@{ shape: win-pane, label: "_Published Nov 21, 2025, 10:59 PM_
-British court jails former mep and reform uk politician for pro-russia bribes" }
-FrrocaGlgyoibhs@{ shape: win-pane, label: "_Published Sep 26, 2025, 09:28 PM_
-Former reform uk politician nathan gill  pleads guilty to pro-russia bribery charges" }
-RaleiMvpeE@{ shape: win-pane, label: "_Published Sep 25, 2025, 11:51 PM_
-Russia ‘deeply interfering’ in moldova’s sept 28 vote, says eu" }
-LreycawoMvaRa@{ shape: win-pane, label: "_Published Aug 28, 2025, 12:30 AM_
-Leaders of germany, france, poland vow ‘support’ to moldova in face of russia" }
-MvepaaenEak@{ shape: win-pane, label: "_Published Sep 25, 2025, 08:52 PM_
-Moldova faces key parliamentary election, with eu bid at stake" }
-Drkntoerisiivm@{ shape: win-pane, label: "_Published Sep 25, 2025, 11:52 PM_
-Denmark links drone sorties to state actor, latvia says; russia denies involvement" }
-Dsunitsdiesnne@{ shape: win-pane, label: "_Published Sep 25, 2025, 06:07 AM_
-Drones disrupt danish airports for second time in a week; russia denies involvement" }
-Dsunitsdiesnne@{ shape: win-pane, label: "_Published Sep 25, 2025, 06:07 AM_
-Drones disrupt danish airports for second time in a week; russia denies involvement" }
-Fedrhtftruon@{ shape: win-pane, label: "_Published Sep 26, 2025, 05:34 PM_
-Farage would win british election if held tomorrow, yougov poll finds" }
-Biptrtdordr@{ shape: win-pane, label: "_Published Sep 22, 2025, 09:06 PM_
-Britain’s populist reform party pledges tougher residency rules" }
-FniBeracSudaics@{ shape: win-pane, label: "_Published Sep 22, 2025, 07:45 AM_
-‘fast and furious’: h-1b workers abroad race back to us as trump order sparks dismay, confusion" }
-Jnaiiboidt@{ shape: win-pane, label: "_Published Sep 14, 2025, 06:30 PM_
-Japan needs an immigration debate, not social media myths" }
-BinumogIwrellgo@{ shape: win-pane, label: "_Published Sep 26, 2025, 02:42 PM_
-Britain to introduce compulsory digital id for workers to deter illegal immigration" }
-Bisictotmho@{ shape: win-pane, label: "_Published Aug 24, 2025, 09:45 AM_
-Britain’s mass facial recognition roll-out alarms rights groups" }
-ThnealmeEerdnrnt@{ shape: win-pane, label: "_Published Jun 12, 2025, 06:20 PM_
-The schengen agreement at 40: will free movement in europe endure amid rising migrant antipathy?" }
+Fevdblgclcfr@{ shape: win-pane, label: "_Published Nov 22, 2025, 01:39 AM_
+Four men convicted of cyberbullying french dj olympics performer" }
+Fhnsryfagaatoml@{ shape: win-pane, label: "_Published Jan 14, 2025, 08:55 PM_
+Frenchwoman faces cyber bullying after falling for fake brad pitt and losing $1.2m to  help him" }
+wiiekatrtcore@{ shape: win-pane, label: "_Published Sep 25, 2024, 02:40 PM_
+2 women in spain lose over $466k in brad pitt impersonation scam, 5 people arrested" }
+Innoiscfecdte@{ shape: win-pane, label: "_Published Feb 24, 2024, 03:10 PM_
+Indian businesswoman kidnaps tv anchor after being scammed by catfisher" }
+Innoiscfecdte@{ shape: win-pane, label: "_Published Feb 24, 2024, 03:10 PM_
+Indian businesswoman kidnaps tv anchor after being scammed by catfisher" }
+MIdarlihiaei@{ shape: win-pane, label: "_Published Feb 19, 2024, 01:05 PM_
+Man in india displays personal details on his e-rickshaw to seek bride" }
+Insupiashodo@{ shape: win-pane, label: "_Published Apr 16, 2023, 03:47 PM_
+Indian gangster-turned-politician and his brother shot dead live on tv" }
 
-BsrlmPeUiapsr:::txtsize --> FrrocaGlgyoibhs:::txtsize
-FrrocaGlgyoibhs:::txtsize --> RaleiMvpeE:::txtsize
-RaleiMvpeE:::txtsize --> LreycawoMvaRa:::txtsize
-RaleiMvpeE:::txtsize --> MvepaaenEak:::txtsize
-FrrocaGlgyoibhs:::txtsize --> Drkntoerisiivm:::txtsize
-Drkntoerisiivm:::txtsize --> Dsunitsdiesnne:::txtsize
-Drkntoerisiivm:::txtsize --> Dsunitsdiesnne:::txtsize
-BsrlmPeUiapsr:::txtsize --> Fedrhtftruon:::txtsize
-Fedrhtftruon:::txtsize --> Biptrtdordr:::txtsize
-Biptrtdordr:::txtsize --> FniBeracSudaics:::txtsize
-Biptrtdordr:::txtsize --> Jnaiiboidt:::txtsize
-Fedrhtftruon:::txtsize --> BinumogIwrellgo:::txtsize
-BinumogIwrellgo:::txtsize --> Bisictotmho:::txtsize
-BinumogIwrellgo:::txtsize --> ThnealmeEerdnrnt:::txtsize
+Fevdblgclcfr:::txtsize --> Fhnsryfagaatoml:::txtsize
+Fhnsryfagaatoml:::txtsize --> wiiekatrtcore:::txtsize
+wiiekatrtcore:::txtsize --> Innoiscfecdte:::txtsize
+Fhnsryfagaatoml:::txtsize --> Innoiscfecdte:::txtsize
+Innoiscfecdte:::txtsize --> MIdarlihiaei:::txtsize
+Innoiscfecdte:::txtsize --> Insupiashodo:::txtsize
 
-Gnebirisrse@{ shape: win-pane, label: "_Published Nov 21, 2025, 10:44 PM_
-Germany squeezes benefits for ukrainians as arrivals surge" }
-Uneoangtlad@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:11 AM_
-Ukraine eases ban on ukrainian men aged 18 to 22 travelling abroad" }
-Unndoseienpvg@{ shape: win-pane, label: "_Published Aug 26, 2025, 10:27 PM_
-Ukraine acknowledges for first time russia entered dnipropetrovsk region" }
-Zsysieisitit@{ shape: win-pane, label: "_Published Aug 22, 2025, 08:47 PM_
-Zelensky says russia doing ‘everything’ to stop his meeting with putin" }
-Woiaamiesics@{ shape: win-pane, label: "_Published Aug 23, 2025, 01:52 AM_
-With no ukraine peace deal, trump again threatens russia sanctions" }
-Woiaamiesics@{ shape: win-pane, label: "_Published Aug 23, 2025, 01:52 AM_
-With no ukraine peace deal, trump again threatens russia sanctions" }
-UnlyRanrefes@{ shape: win-pane, label: "_Published Aug 22, 2025, 03:43 AM_
-Ukraine’s zelensky says russia trying to ‘wriggle out’ of peace talks" }
-Zsysieisitit@{ shape: win-pane, label: "_Published Aug 22, 2025, 08:47 PM_
-Zelensky says russia doing ‘everything’ to stop his meeting with putin" }
-Meekenanhgey@{ shape: win-pane, label: "_Published Nov 13, 2025, 11:40 PM_
-Merz tells zelensky fewer young ukrainian men should go to germany" }
-Uneoangtlad@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:11 AM_
-Ukraine eases ban on ukrainian men aged 18 to 22 travelling abroad" }
-Unndoseienpvg@{ shape: win-pane, label: "_Published Aug 26, 2025, 10:27 PM_
-Ukraine acknowledges for first time russia entered dnipropetrovsk region" }
-Woiaamiesics@{ shape: win-pane, label: "_Published Aug 23, 2025, 01:52 AM_
-With no ukraine peace deal, trump again threatens russia sanctions" }
-Uneoangtlad@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:11 AM_
-Ukraine eases ban on ukrainian men aged 18 to 22 travelling abroad" }
-Unndoseienpvg@{ shape: win-pane, label: "_Published Aug 26, 2025, 10:27 PM_
-Ukraine acknowledges for first time russia entered dnipropetrovsk region" }
-Woiaamiesics@{ shape: win-pane, label: "_Published Aug 23, 2025, 01:52 AM_
-With no ukraine peace deal, trump again threatens russia sanctions" }
+Drpturosezcv@{ shape: win-pane, label: "_Published Nov 22, 2025, 01:28 AM_
+Denmark compensates four over vision loss linked to ozempic, wegovy" }
+NOikrafoerUls@{ shape: win-pane, label: "_Published Jun 08, 2025, 12:05 PM_
+Novo’s ozempic linked to rare cases of serious eye disorder, eu regulator says" }
+WthiokcbysOiha@{ shape: win-pane, label: "_Published May 07, 2025, 09:51 AM_
+Weightwatchers files for bankruptcy as obesity drugs like ozempic reshape market" }
+Wydtgsraun@{ shape: win-pane, label: "_Published May 01, 2025, 09:00 AM_
+Wegovy could treat a dangerous liver disease, study finds" }
+Otgytfisugcs@{ shape: win-pane, label: "_Published Jan 21, 2025, 11:35 AM_
+Obesity drug study points to effectiveness in curbing addictions" }
+Otdswdaegk@{ shape: win-pane, label: "_Published May 03, 2025, 05:00 AM_
+Obesity is a disease and we need to start treating it like one" }
+WtdchnsukaO@{ shape: win-pane, label: "_Published Dec 19, 2024, 12:05 AM_
+Weight-loss drugs could help end obesity – but risks remain, who says" }
+NOikrafoerUls@{ shape: win-pane, label: "_Published Jun 08, 2025, 12:05 PM_
+Novo’s ozempic linked to rare cases of serious eye disorder, eu regulator says" }
+WthiokcbysOiha@{ shape: win-pane, label: "_Published May 07, 2025, 09:51 AM_
+Weightwatchers files for bankruptcy as obesity drugs like ozempic reshape market" }
+Wydtgsraun@{ shape: win-pane, label: "_Published May 01, 2025, 09:00 AM_
+Wegovy could treat a dangerous liver disease, study finds" }
+Otgytfisugcs@{ shape: win-pane, label: "_Published Jan 21, 2025, 11:35 AM_
+Obesity drug study points to effectiveness in curbing addictions" }
+Otdswdaegk@{ shape: win-pane, label: "_Published May 03, 2025, 05:00 AM_
+Obesity is a disease and we need to start treating it like one" }
+WtdchnsukaO@{ shape: win-pane, label: "_Published Dec 19, 2024, 12:05 AM_
+Weight-loss drugs could help end obesity – but risks remain, who says" }
 
-Gnebirisrse:::txtsize --> Uneoangtlad:::txtsize
-Uneoangtlad:::txtsize --> Unndoseienpvg:::txtsize
-Unndoseienpvg:::txtsize --> Zsysieisitit:::txtsize
-Unndoseienpvg:::txtsize --> Woiaamiesics:::txtsize
-Uneoangtlad:::txtsize --> Woiaamiesics:::txtsize
-Woiaamiesics:::txtsize --> UnlyRanrefes:::txtsize
-Woiaamiesics:::txtsize --> Zsysieisitit:::txtsize
-Gnebirisrse:::txtsize --> Meekenanhgey:::txtsize
-Meekenanhgey:::txtsize --> Uneoangtlad:::txtsize
-Uneoangtlad:::txtsize --> Unndoseienpvg:::txtsize
-Uneoangtlad:::txtsize --> Woiaamiesics:::txtsize
-Meekenanhgey:::txtsize --> Uneoangtlad:::txtsize
-Uneoangtlad:::txtsize --> Unndoseienpvg:::txtsize
-Uneoangtlad:::txtsize --> Woiaamiesics:::txtsize
+Drpturosezcv:::txtsize --> NOikrafoerUls:::txtsize
+NOikrafoerUls:::txtsize --> WthiokcbysOiha:::txtsize
+WthiokcbysOiha:::txtsize --> Wydtgsraun:::txtsize
+WthiokcbysOiha:::txtsize --> Otgytfisugcs:::txtsize
+NOikrafoerUls:::txtsize --> Otdswdaegk:::txtsize
+Otdswdaegk:::txtsize --> WtdchnsukaO:::txtsize
+Drpturosezcv:::txtsize --> NOikrafoerUls:::txtsize
+NOikrafoerUls:::txtsize --> WthiokcbysOiha:::txtsize
+WthiokcbysOiha:::txtsize --> Wydtgsraun:::txtsize
+WthiokcbysOiha:::txtsize --> Otgytfisugcs:::txtsize
+NOikrafoerUls:::txtsize --> Otdswdaegk:::txtsize
+Otdswdaegk:::txtsize --> WtdchnsukaO:::txtsize
 
 ```
-<i>Last updated: 2025-11-22 00:00:22.218693 (GMT+8)</i>
+<i>Last updated: 2025-11-22 04:00:46.883309 (GMT+8)</i>
 <!-- END -->
