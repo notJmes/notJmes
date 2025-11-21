@@ -16,144 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-LaVupladboctta@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:28 AM_
-Lithuania’s vilnius airport closes again due to balloons, local authorities say" }
-Laghisolbrbohs@{ shape: win-pane, label: "_Published Oct 26, 2025, 03:35 AM_
-Lithuania again shuts vilnius airport, belarus border over balloon sightings" }
-LahitBudogelin@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:50 AM_
-Lithuania shuts airports and belarus border crossings after balloon sightings" }
-Slanctonit@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:20 PM_
-Smugglers’ balloons force shutdown of vilnius airport" }
-NeLaaoitendic@{ shape: win-pane, label: "_Published Oct 24, 2025, 01:56 AM_
-Nato member lithuania says two russian jets briefly entered its airspace" }
-Ryeyircdnret@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:35 AM_
-Runways at germany’s munich airport closed again after drone sightings" }
-Gneafrinuiroi@{ shape: win-pane, label: "_Published Oct 03, 2025, 09:15 AM_
-Germany investigates after drone sightings shut munich airport overnight" }
-Gneafrinuiroi@{ shape: win-pane, label: "_Published Oct 03, 2025, 09:15 AM_
-Germany investigates after drone sightings shut munich airport overnight" }
-Laawholsllsugrc@{ shape: win-pane, label: "_Published Oct 28, 2025, 12:59 AM_
-Lithuania says it will shoot down belarus smuggler balloons disrupting air traffic" }
-Lahisolbruicite@{ shape: win-pane, label: "_Published Oct 27, 2025, 04:40 AM_
-Lithuania shuts vilnius airport, belarus border in fourth airspace incident this week" }
-Laghisolbrbohs@{ shape: win-pane, label: "_Published Oct 26, 2025, 03:35 AM_
-Lithuania again shuts vilnius airport, belarus border over balloon sightings" }
-NeLaaoitendic@{ shape: win-pane, label: "_Published Oct 24, 2025, 01:56 AM_
-Nato member lithuania says two russian jets briefly entered its airspace" }
-Ryeyircdnret@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:35 AM_
-Runways at germany’s munich airport closed again after drone sightings" }
-Gneafrinuiroi@{ shape: win-pane, label: "_Published Oct 03, 2025, 09:15 AM_
-Germany investigates after drone sightings shut munich airport overnight" }
-Gneafrinuiroi@{ shape: win-pane, label: "_Published Oct 03, 2025, 09:15 AM_
-Germany investigates after drone sightings shut munich airport overnight" }
+WHddmlferi@{ shape: win-pane, label: "_Published Nov 21, 2025, 06:48 AM_
+White house defends trump calling a female reporter ‘piggy’" }
+HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
+‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
+Jetisdntigntvem@{ shape: win-pane, label: "_Published Jul 08, 2025, 04:02 AM_
+Jeffrey epstein died by suicide, has no sex trafficking ‘client list’: us government memo" }
+Jetcriiebceiy@{ shape: win-pane, label: "_Published Apr 26, 2025, 12:15 PM_
+Jeffrey epstein accuser virginia giuffre dies by suicide, her family says" }
+MesciuiEie@{ shape: win-pane, label: "_Published Jun 07, 2025, 09:45 PM_
+Musk deletes post claiming trump is ‘in the epstein files’" }
+Tspnerifag@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:45 AM_
+Trump says epstein ‘stole’ underage victim from mar-a-lago spa" }
+WodoumtnMov@{ shape: win-pane, label: "_Published Jul 19, 2025, 06:16 AM_
+What you need to know about trump, epstein and the maga controversy" }
+Tseentnxneyes@{ shape: win-pane, label: "_Published Jul 29, 2025, 02:33 AM_
+Trump says he turned down invitation to sex offender jeffrey epstein’s island" }
+Ptbusuert@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:05 AM_
+‘piggy’, ‘terrible’: trump lashes out at female reporters" }
+TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
+Trump threatens abc news in oval office meltdown" }
+Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
+Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
+Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
+Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
+TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
+Trump threatens abc news in oval office meltdown" }
+Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
+Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
+Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
+Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
 
-LaVupladboctta:::txtsize --> Laghisolbrbohs:::txtsize
-Laghisolbrbohs:::txtsize --> LahitBudogelin:::txtsize
-LahitBudogelin:::txtsize --> Slanctonit:::txtsize
-LahitBudogelin:::txtsize --> NeLaaoitendic:::txtsize
-Laghisolbrbohs:::txtsize --> Ryeyircdnret:::txtsize
-Ryeyircdnret:::txtsize --> Gneafrinuiroi:::txtsize
-Ryeyircdnret:::txtsize --> Gneafrinuiroi:::txtsize
-LaVupladboctta:::txtsize --> Laawholsllsugrc:::txtsize
-Laawholsllsugrc:::txtsize --> Lahisolbruicite:::txtsize
-Lahisolbruicite:::txtsize --> Laghisolbrbohs:::txtsize
-Lahisolbruicite:::txtsize --> NeLaaoitendic:::txtsize
-Laawholsllsugrc:::txtsize --> Ryeyircdnret:::txtsize
-Ryeyircdnret:::txtsize --> Gneafrinuiroi:::txtsize
-Ryeyircdnret:::txtsize --> Gneafrinuiroi:::txtsize
+WHddmlferi:::txtsize --> HwtipngesTkfot:::txtsize
+HwtipngesTkfot:::txtsize --> Jetisdntigntvem:::txtsize
+Jetisdntigntvem:::txtsize --> Jetcriiebceiy:::txtsize
+Jetisdntigntvem:::txtsize --> MesciuiEie:::txtsize
+HwtipngesTkfot:::txtsize --> Tspnerifag:::txtsize
+Tspnerifag:::txtsize --> WodoumtnMov:::txtsize
+Tspnerifag:::txtsize --> Tseentnxneyes:::txtsize
+WHddmlferi:::txtsize --> Ptbusuert:::txtsize
+Ptbusuert:::txtsize --> TttBsailn:::txtsize
+TttBsailn:::txtsize --> Mrusnrsasikeprsc:::txtsize
+TttBsailn:::txtsize --> Tdddnersdiinst:::txtsize
+Ptbusuert:::txtsize --> TttBsailn:::txtsize
+TttBsailn:::txtsize --> Mrusnrsasikeprsc:::txtsize
+TttBsailn:::txtsize --> Tdddnersdiinst:::txtsize
 
-RacpUnpkiritP@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:19 AM_
-Russian forces capture ukraine’s kupiansk, top military official tells putin" }
-ZscsaniaxssT@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
-Zelensky receives us plan to end war in ukraine, expects talks with trump" }
-EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
-Europeans push back at us plan that would force concessions from ukraine" }
-UcprrrteinlnsySe@{ shape: win-pane, label: "_Published Nov 20, 2025, 04:50 AM_
-Us peace proposal requires ukraine to cede russian-controlled land, slash army size: source" }
-Unlnkmtmjria@{ shape: win-pane, label: "_Published Nov 19, 2025, 09:14 PM_
-Ukraine parliament sacks two ministers amid major corruption scandal" }
-Unlyphaiogh@{ shape: win-pane, label: "_Published Mar 01, 2025, 01:48 AM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-TalytnretaWHsit@{ shape: win-pane, label: "_Published Mar 01, 2025, 02:44 AM_
-Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-YgitlIcsTZsaWH@{ shape: win-pane, label: "_Published Mar 01, 2025, 05:06 AM_
-‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
-RaewdwnerseiUnkk@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:19 AM_
-Russian video shows soldiers walking freely through southern ruins of ukraine’s pokrovsk" }
-EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
-Europeans push back at us plan that would force concessions from ukraine" }
-UcprrrteinlnsySe@{ shape: win-pane, label: "_Published Nov 20, 2025, 04:50 AM_
-Us peace proposal requires ukraine to cede russian-controlled land, slash army size: source" }
-Unlnkmtmjria@{ shape: win-pane, label: "_Published Nov 19, 2025, 09:14 PM_
-Ukraine parliament sacks two ministers amid major corruption scandal" }
-Atdretahfunceni@{ shape: win-pane, label: "_Published Nov 20, 2025, 09:24 PM_
-A relative’s desperate search then fading hope after russian attack in western ukraine" }
-RailUnekreim@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:46 PM_
-Russian strike kills 25 in ukraine as zelensky’s turkey peace bid stumbles" }
-Unsenyirnidhe@{ shape: win-pane, label: "_Published Aug 01, 2025, 09:24 PM_
-Ukraine says 31 killed in end-july russian strike on kyiv, including 5 children" }
+BcwoidDiv@{ shape: win-pane, label: "_Published Nov 21, 2025, 06:48 AM_
+Bbc faces new woes over discredited diana interview" }
+Peaautaakuees@{ shape: win-pane, label: "_Published Nov 20, 2025, 08:27 PM_
+Princess diana’s wax figure enters paris waxwork museum in ‘revenge dress’" }
+Csnantohaatae@{ shape: win-pane, label: "_Published Aug 22, 2022, 09:52 AM_
+Crises again threatening british monarchy's image 25 years after diana's death" }
+Peyemipiirfy@{ shape: win-pane, label: "_Published Feb 19, 2021, 08:53 PM_
+Prince harry and meghan make final split with british royal family" }
+BieddssirlerMnr@{ shape: win-pane, label: "_Published Mar 10, 2021, 01:56 AM_
+Britain's queen 'saddened', takes racism claims 'seriously' after harry and meghan interview" }
+LsnDaotfsag@{ shape: win-pane, label: "_Published Jun 10, 2025, 01:58 AM_
+‘largest princess diana auction’ features frocks, hats and bags" }
+Tossrerityaa@{ shape: win-pane, label: "_Published Jan 10, 2024, 12:46 AM_
+The crown costumes and props head for auction after royal drama wraps" }
+Secoreieelcrun@{ shape: win-pane, label: "_Published Mar 03, 2023, 03:00 PM_
+Stuffed raccoon goes for $121,000 at everything everywhere all at once charity auction" }
+Fspnxotlun@{ shape: win-pane, label: "_Published Feb 14, 2023, 06:55 PM_
+Forrest gump’s iconic ‘box of chocolates’ sold at auction for $33,000" }
+Pearecepbtd@{ shape: win-pane, label: "_Published Jul 17, 2023, 11:40 PM_
+Princess diana’s pre-loved ‘black sheep’ jumper to be auctioned" }
+Sonaaisadalr@{ shape: win-pane, label: "_Published Aug 12, 2021, 11:14 AM_
+Slice of prince charles and princess diana's 1981 wedding cake sells for $3,400" }
 
-RacpUnpkiritP:::txtsize --> ZscsaniaxssT:::txtsize
-ZscsaniaxssT:::txtsize --> EeucStooosfke:::txtsize
-EeucStooosfke:::txtsize --> UcprrrteinlnsySe:::txtsize
-EeucStooosfke:::txtsize --> Unlnkmtmjria:::txtsize
-ZscsaniaxssT:::txtsize --> Unlyphaiogh:::txtsize
-Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
-Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
-RacpUnpkiritP:::txtsize --> RaewdwnerseiUnkk:::txtsize
-RaewdwnerseiUnkk:::txtsize --> EeucStooosfke:::txtsize
-EeucStooosfke:::txtsize --> UcprrrteinlnsySe:::txtsize
-EeucStooosfke:::txtsize --> Unlnkmtmjria:::txtsize
-RaewdwnerseiUnkk:::txtsize --> Atdretahfunceni:::txtsize
-Atdretahfunceni:::txtsize --> RailUnekreim:::txtsize
-Atdretahfunceni:::txtsize --> Unsenyirnidhe:::txtsize
+BcwoidDiv:::txtsize --> Peaautaakuees:::txtsize
+Peaautaakuees:::txtsize --> Csnantohaatae:::txtsize
+Csnantohaatae:::txtsize --> Peyemipiirfy:::txtsize
+Csnantohaatae:::txtsize --> BieddssirlerMnr:::txtsize
+BcwoidDiv:::txtsize --> LsnDaotfsag:::txtsize
+LsnDaotfsag:::txtsize --> Tossrerityaa:::txtsize
+Tossrerityaa:::txtsize --> Secoreieelcrun:::txtsize
+Tossrerityaa:::txtsize --> Fspnxotlun:::txtsize
+LsnDaotfsag:::txtsize --> Pearecepbtd:::txtsize
+Pearecepbtd:::txtsize --> Sonaaisadalr:::txtsize
 
-ZscsaniaxssT@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
-Zelensky receives us plan to end war in ukraine, expects talks with trump" }
-EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
-Europeans push back at us plan that would force concessions from ukraine" }
-UcprrrteinlnsySe@{ shape: win-pane, label: "_Published Nov 20, 2025, 04:50 AM_
-Us peace proposal requires ukraine to cede russian-controlled land, slash army size: source" }
-Tsiviltvtnse@{ shape: win-pane, label: "_Published Nov 20, 2025, 04:03 AM_
-Trump’s ukraine envoy keith kellogg to leave post in january, sources say" }
-RailUnekreim@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:46 PM_
-Russian strike kills 25 in ukraine as zelensky’s turkey peace bid stumbles" }
-Unlnkmtmjria@{ shape: win-pane, label: "_Published Nov 19, 2025, 09:14 PM_
-Ukraine parliament sacks two ministers amid major corruption scandal" }
-CpsartosUnly@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:15 PM_
-Corruption scandal, court battles pose test for ukraine’s zelensky" }
-CpsartosUnly@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:15 PM_
-Corruption scandal, court battles pose test for ukraine’s zelensky" }
-Unlyphaiogh@{ shape: win-pane, label: "_Published Mar 01, 2025, 01:48 AM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-TalytnretaWHsit@{ shape: win-pane, label: "_Published Mar 01, 2025, 02:44 AM_
-Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-Unlyphaiogh@{ shape: win-pane, label: "_Published Mar 01, 2025, 01:48 AM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-Unlyphaiogh@{ shape: win-pane, label: "_Published Mar 01, 2025, 01:48 AM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-YgitlIcsTZsaWH@{ shape: win-pane, label: "_Published Mar 01, 2025, 05:06 AM_
-‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
-Unlyphaiogh@{ shape: win-pane, label: "_Published Mar 01, 2025, 01:48 AM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-Zsymasaeeets@{ shape: win-pane, label: "_Published Mar 01, 2025, 11:59 AM_
-Zelensky says trump relationship can be repaired after white house row" }
+IrdKhoaoOestods@{ shape: win-pane, label: "_Published Nov 21, 2025, 06:30 AM_
+Inquiry finds ex-uk pm johnson oversaw ‘chaotic’ covid response that led to more deaths" }
+Ceodsoonhpns@{ shape: win-pane, label: "_Published Jul 07, 2022, 08:18 PM_
+Cabinet revolt and chaos: how boris johnson lost his pm post in 72 hours" }
+BJoisiwenedic@{ shape: win-pane, label: "_Published Jul 07, 2022, 03:58 PM_
+Boris johnson resigns as british pm, will serve until new leader is in place" }
+Uoonsnaiegb@{ shape: win-pane, label: "_Published Jul 06, 2022, 01:44 AM_
+Uk pm boris johnson loses finance, health ministers in grave blow" }
+UudeusulicleMsso@{ shape: win-pane, label: "_Published Jul 06, 2022, 06:23 AM_
+Uk mp suspended over sexual misconduct allegations: scandals faced by pm boris johnson's govt" }
+Uoonsnaiegb@{ shape: win-pane, label: "_Published Jul 06, 2022, 01:44 AM_
+Uk pm boris johnson loses finance, health ministers in grave blow" }
+Bsncagtahir@{ shape: win-pane, label: "_Published Jul 06, 2022, 02:29 AM_
+British pm knew of complaint against lawmaker chris pincher in 2019" }
+Umfontpdslotgn@{ shape: win-pane, label: "_Published Jul 02, 2022, 01:38 AM_
+Uk lawmaker from johnson's party suspended over sexual misconduct allegations" }
+BJoiheuoditl@{ shape: win-pane, label: "_Published Jul 07, 2022, 10:04 PM_
+Boris johnson resigns: shredded reputation leads to his nasty fall" }
+BJoisiwenedic@{ shape: win-pane, label: "_Published Jul 07, 2022, 03:58 PM_
+Boris johnson resigns as british pm, will serve until new leader is in place" }
+Uoonsnaiegb@{ shape: win-pane, label: "_Published Jul 06, 2022, 01:44 AM_
+Uk pm boris johnson loses finance, health ministers in grave blow" }
+UudeusulicleMsso@{ shape: win-pane, label: "_Published Jul 06, 2022, 06:23 AM_
+Uk mp suspended over sexual misconduct allegations: scandals faced by pm boris johnson's govt" }
 
-ZscsaniaxssT:::txtsize --> EeucStooosfke:::txtsize
-EeucStooosfke:::txtsize --> UcprrrteinlnsySe:::txtsize
-UcprrrteinlnsySe:::txtsize --> Tsiviltvtnse:::txtsize
-UcprrrteinlnsySe:::txtsize --> RailUnekreim:::txtsize
-EeucStooosfke:::txtsize --> Unlnkmtmjria:::txtsize
-Unlnkmtmjria:::txtsize --> CpsartosUnly:::txtsize
-Unlnkmtmjria:::txtsize --> CpsartosUnly:::txtsize
-ZscsaniaxssT:::txtsize --> Unlyphaiogh:::txtsize
-Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
-TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
-TalytnretaWHsit:::txtsize --> Unlyphaiogh:::txtsize
-Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
-YgitlIcsTZsaWH:::txtsize --> Unlyphaiogh:::txtsize
-YgitlIcsTZsaWH:::txtsize --> Zsymasaeeets:::txtsize
+IrdKhoaoOestods:::txtsize --> Ceodsoonhpns:::txtsize
+Ceodsoonhpns:::txtsize --> BJoisiwenedic:::txtsize
+BJoisiwenedic:::txtsize --> Uoonsnaiegb:::txtsize
+BJoisiwenedic:::txtsize --> UudeusulicleMsso:::txtsize
+Ceodsoonhpns:::txtsize --> Uoonsnaiegb:::txtsize
+Uoonsnaiegb:::txtsize --> Bsncagtahir:::txtsize
+Uoonsnaiegb:::txtsize --> Umfontpdslotgn:::txtsize
+IrdKhoaoOestods:::txtsize --> BJoiheuoditl:::txtsize
+BJoiheuoditl:::txtsize --> BJoisiwenedic:::txtsize
+BJoisiwenedic:::txtsize --> Uoonsnaiegb:::txtsize
+BJoisiwenedic:::txtsize --> UudeusulicleMsso:::txtsize
 
 ```
-<i>Last updated: 2025-11-21 04:01:09.241634 (GMT+8)</i>
+<i>Last updated: 2025-11-21 08:00:35.466953 (GMT+8)</i>
 <!-- END -->
