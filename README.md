@@ -16,123 +16,105 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-WHddmlferi@{ shape: win-pane, label: "_Published Nov 21, 2025, 06:48 AM_
-White house defends trump calling a female reporter ‘piggy’" }
-HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
-‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
-Jetisdntigntvem@{ shape: win-pane, label: "_Published Jul 08, 2025, 04:02 AM_
-Jeffrey epstein died by suicide, has no sex trafficking ‘client list’: us government memo" }
-Jetcriiebceiy@{ shape: win-pane, label: "_Published Apr 26, 2025, 12:15 PM_
-Jeffrey epstein accuser virginia giuffre dies by suicide, her family says" }
-MesciuiEie@{ shape: win-pane, label: "_Published Jun 07, 2025, 09:45 PM_
-Musk deletes post claiming trump is ‘in the epstein files’" }
-Tspnerifag@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:45 AM_
-Trump says epstein ‘stole’ underage victim from mar-a-lago spa" }
-WodoumtnMov@{ shape: win-pane, label: "_Published Jul 19, 2025, 06:16 AM_
-What you need to know about trump, epstein and the maga controversy" }
-Tseentnxneyes@{ shape: win-pane, label: "_Published Jul 29, 2025, 02:33 AM_
-Trump says he turned down invitation to sex offender jeffrey epstein’s island" }
-Ptbusuert@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:05 AM_
-‘piggy’, ‘terrible’: trump lashes out at female reporters" }
-TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
-Trump threatens abc news in oval office meltdown" }
-Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
-Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
-Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
-Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
-TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
-Trump threatens abc news in oval office meltdown" }
-Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
-Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
-Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
-Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
+NlacwetfeVuopcz@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:47 AM_
+Nobel laureate machado will be ‘fugitive’ if she leaves venezuela to accept peace prize" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
+Trump says not winning nobel peace prize would be ‘insult’ to us" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+Htahueirsmng@{ shape: win-pane, label: "_Published Sep 26, 2025, 05:42 AM_
+Hegseth is said to have summoned us military brass from around the globe" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
+Israel marks oct 7 anniversary as talks are held to end gaza war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+TfsztaaMort@{ shape: win-pane, label: "_Published Nov 17, 2025, 08:57 AM_
+Trump floats venezuela talks as us labels maduro a terrorist" }
+Ucceinaeiiburz@{ shape: win-pane, label: "_Published Nov 17, 2025, 03:14 AM_
+Us aircraft carrier arrives in the caribbean amid military build-up near venezuela" }
+Eirdyroersl@{ shape: win-pane, label: "_Published Oct 31, 2025, 06:16 PM_
+Explainer: are the deadly us strikes on alleged drug vessels legal?​" }
+VuonipcnAraTo@{ shape: win-pane, label: "_Published Oct 27, 2025, 08:06 AM_
+Venezuela condemns ‘military provocation’ by cia and trinidad and tobago" }
+orsomalduttpon@{ shape: win-pane, label: "_Published Nov 14, 2025, 07:37 PM_
+29% of americans support us military killing drug suspects, reuters/ipsos poll finds" }
+Ucceeonigsteens@{ shape: win-pane, label: "_Published Nov 11, 2025, 11:41 PM_
+Us aircraft carrier moves into latin america region, escalating venezuela tensions" }
+Uddrngufialhe@{ shape: win-pane, label: "_Published Nov 14, 2025, 06:32 AM_
+Us conducted 20th strike on alleged drug trafficking boat earlier this week" }
 
-WHddmlferi:::txtsize --> HwtipngesTkfot:::txtsize
-HwtipngesTkfot:::txtsize --> Jetisdntigntvem:::txtsize
-Jetisdntigntvem:::txtsize --> Jetcriiebceiy:::txtsize
-Jetisdntigntvem:::txtsize --> MesciuiEie:::txtsize
-HwtipngesTkfot:::txtsize --> Tspnerifag:::txtsize
-Tspnerifag:::txtsize --> WodoumtnMov:::txtsize
-Tspnerifag:::txtsize --> Tseentnxneyes:::txtsize
-WHddmlferi:::txtsize --> Ptbusuert:::txtsize
-Ptbusuert:::txtsize --> TttBsailn:::txtsize
-TttBsailn:::txtsize --> Mrusnrsasikeprsc:::txtsize
-TttBsailn:::txtsize --> Tdddnersdiinst:::txtsize
-Ptbusuert:::txtsize --> TttBsailn:::txtsize
-TttBsailn:::txtsize --> Mrusnrsasikeprsc:::txtsize
-TttBsailn:::txtsize --> Tdddnersdiinst:::txtsize
+NlacwetfeVuopcz:::txtsize --> Vuoilranhibai:::txtsize
+Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
+TsonoeroelS:::txtsize --> Tseaupoabmrnluo:::txtsize
+TsonoeroelS:::txtsize --> Htahueirsmng:::txtsize
+Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
+TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
+TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
+NlacwetfeVuopcz:::txtsize --> TfsztaaMort:::txtsize
+TfsztaaMort:::txtsize --> Ucceinaeiiburz:::txtsize
+Ucceinaeiiburz:::txtsize --> Eirdyroersl:::txtsize
+Ucceinaeiiburz:::txtsize --> VuonipcnAraTo:::txtsize
+TfsztaaMort:::txtsize --> orsomalduttpon:::txtsize
+orsomalduttpon:::txtsize --> Ucceeonigsteens:::txtsize
+orsomalduttpon:::txtsize --> Uddrngufialhe:::txtsize
 
-BcwoidDiv@{ shape: win-pane, label: "_Published Nov 21, 2025, 06:48 AM_
-Bbc faces new woes over discredited diana interview" }
-Peaautaakuees@{ shape: win-pane, label: "_Published Nov 20, 2025, 08:27 PM_
-Princess diana’s wax figure enters paris waxwork museum in ‘revenge dress’" }
-Csnantohaatae@{ shape: win-pane, label: "_Published Aug 22, 2022, 09:52 AM_
-Crises again threatening british monarchy's image 25 years after diana's death" }
-Peyemipiirfy@{ shape: win-pane, label: "_Published Feb 19, 2021, 08:53 PM_
-Prince harry and meghan make final split with british royal family" }
-BieddssirlerMnr@{ shape: win-pane, label: "_Published Mar 10, 2021, 01:56 AM_
-Britain's queen 'saddened', takes racism claims 'seriously' after harry and meghan interview" }
-LsnDaotfsag@{ shape: win-pane, label: "_Published Jun 10, 2025, 01:58 AM_
-‘largest princess diana auction’ features frocks, hats and bags" }
-Tossrerityaa@{ shape: win-pane, label: "_Published Jan 10, 2024, 12:46 AM_
-The crown costumes and props head for auction after royal drama wraps" }
-Secoreieelcrun@{ shape: win-pane, label: "_Published Mar 03, 2023, 03:00 PM_
-Stuffed raccoon goes for $121,000 at everything everywhere all at once charity auction" }
-Fspnxotlun@{ shape: win-pane, label: "_Published Feb 14, 2023, 06:55 PM_
-Forrest gump’s iconic ‘box of chocolates’ sold at auction for $33,000" }
-Pearecepbtd@{ shape: win-pane, label: "_Published Jul 17, 2023, 11:40 PM_
-Princess diana’s pre-loved ‘black sheep’ jumper to be auctioned" }
-Sonaaisadalr@{ shape: win-pane, label: "_Published Aug 12, 2021, 11:14 AM_
-Slice of prince charles and princess diana's 1981 wedding cake sells for $3,400" }
+AmipemostcIle@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:37 AM_
+Anonymous bidder pays nearly $1.2 million for secret to decode cia sculpture" }
+yisrArehnlia@{ shape: win-pane, label: "_Published Feb 02, 2024, 11:33 AM_
+40 years in prison for ex-cia coder who leaked hacking tools to wikileaks" }
+Frnevdkkie@{ shape: win-pane, label: "_Published Jul 14, 2022, 06:40 AM_
+Former cia engineer convicted in wikileaks espionage case" }
+UrUriWeoraa@{ shape: win-pane, label: "_Published Jun 17, 2022, 05:38 PM_
+Uk approves us extradition of wikileaks' founder julian assange" }
+AalkaraJnnranin@{ shape: win-pane, label: "_Published Sep 21, 2023, 06:48 AM_
+Australian lawmakers call for release of julian assange during talks in washington" }
+AalkorsuAgiv@{ shape: win-pane, label: "_Published Sep 05, 2023, 08:17 AM_
+Australian lawmakers to urge release of julian assange during us visit" }
+Weorniptrere@{ shape: win-pane, label: "_Published Jul 11, 2023, 02:29 AM_
+Wikileaks founder assange's wife appeals to us president for clemency" }
 
-BcwoidDiv:::txtsize --> Peaautaakuees:::txtsize
-Peaautaakuees:::txtsize --> Csnantohaatae:::txtsize
-Csnantohaatae:::txtsize --> Peyemipiirfy:::txtsize
-Csnantohaatae:::txtsize --> BieddssirlerMnr:::txtsize
-BcwoidDiv:::txtsize --> LsnDaotfsag:::txtsize
-LsnDaotfsag:::txtsize --> Tossrerityaa:::txtsize
-Tossrerityaa:::txtsize --> Secoreieelcrun:::txtsize
-Tossrerityaa:::txtsize --> Fspnxotlun:::txtsize
-LsnDaotfsag:::txtsize --> Pearecepbtd:::txtsize
-Pearecepbtd:::txtsize --> Sonaaisadalr:::txtsize
+AmipemostcIle:::txtsize --> yisrArehnlia:::txtsize
+yisrArehnlia:::txtsize --> Frnevdkkie:::txtsize
+Frnevdkkie:::txtsize --> UrUriWeoraa:::txtsize
+yisrArehnlia:::txtsize --> AalkaraJnnranin:::txtsize
+AalkaraJnnranin:::txtsize --> AalkorsuAgiv:::txtsize
+AalkaraJnnranin:::txtsize --> Weorniptrere:::txtsize
 
-IrdKhoaoOestods@{ shape: win-pane, label: "_Published Nov 21, 2025, 06:30 AM_
-Inquiry finds ex-uk pm johnson oversaw ‘chaotic’ covid response that led to more deaths" }
-Ceodsoonhpns@{ shape: win-pane, label: "_Published Jul 07, 2022, 08:18 PM_
-Cabinet revolt and chaos: how boris johnson lost his pm post in 72 hours" }
-BJoisiwenedic@{ shape: win-pane, label: "_Published Jul 07, 2022, 03:58 PM_
-Boris johnson resigns as british pm, will serve until new leader is in place" }
-Uoonsnaiegb@{ shape: win-pane, label: "_Published Jul 06, 2022, 01:44 AM_
-Uk pm boris johnson loses finance, health ministers in grave blow" }
-UudeusulicleMsso@{ shape: win-pane, label: "_Published Jul 06, 2022, 06:23 AM_
-Uk mp suspended over sexual misconduct allegations: scandals faced by pm boris johnson's govt" }
-Uoonsnaiegb@{ shape: win-pane, label: "_Published Jul 06, 2022, 01:44 AM_
-Uk pm boris johnson loses finance, health ministers in grave blow" }
-Bsncagtahir@{ shape: win-pane, label: "_Published Jul 06, 2022, 02:29 AM_
-British pm knew of complaint against lawmaker chris pincher in 2019" }
-Umfontpdslotgn@{ shape: win-pane, label: "_Published Jul 02, 2022, 01:38 AM_
-Uk lawmaker from johnson's party suspended over sexual misconduct allegations" }
-BJoiheuoditl@{ shape: win-pane, label: "_Published Jul 07, 2022, 10:04 PM_
-Boris johnson resigns: shredded reputation leads to his nasty fall" }
-BJoisiwenedic@{ shape: win-pane, label: "_Published Jul 07, 2022, 03:58 PM_
-Boris johnson resigns as british pm, will serve until new leader is in place" }
-Uoonsnaiegb@{ shape: win-pane, label: "_Published Jul 06, 2022, 01:44 AM_
-Uk pm boris johnson loses finance, health ministers in grave blow" }
-UudeusulicleMsso@{ shape: win-pane, label: "_Published Jul 06, 2022, 06:23 AM_
-Uk mp suspended over sexual misconduct allegations: scandals faced by pm boris johnson's govt" }
+Mnsaxatreecffg@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:05 AM_
+Miss universe jamaica exits pageant on stretcher after shocking fall off stage" }
+NIairMnssaetMede@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:59 PM_
+Nawat itsaragrisil sorry for miss universe fiasco, claims he didn’t call miss mexico ‘dumb head’" }
+MfedMnsgeeier@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:30 PM_
+My perfect weekend with miss universe singapore 2025 winner annika xue sager" }
+MfedMnsgeere@{ shape: win-pane, label: "_Published Oct 03, 2024, 03:00 PM_
+My perfect weekend with miss universe singapore 2024 winner charlotte chia" }
+Sryesiacseenudu@{ shape: win-pane, label: "_Published Sep 23, 2025, 04:15 PM_
+Singer harry styles runs berlin marathon, clocks impressive timing of just under 3 hours" }
+MnseccssaeNgir@{ shape: win-pane, label: "_Published Nov 08, 2025, 03:28 PM_
+Miss universe queen alicia machado’s ‘racist’ remarks versus nawat get asians’ ire" }
+NIairMnssaetMede@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:59 PM_
+Nawat itsaragrisil sorry for miss universe fiasco, claims he didn’t call miss mexico ‘dumb head’" }
+MfedMnsgeeier@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:30 PM_
+My perfect weekend with miss universe singapore 2025 winner annika xue sager" }
+NIairMnssaetMede@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:59 PM_
+Nawat itsaragrisil sorry for miss universe fiasco, claims he didn’t call miss mexico ‘dumb head’" }
+MfedMnsgeeier@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:30 PM_
+My perfect weekend with miss universe singapore 2025 winner annika xue sager" }
 
-IrdKhoaoOestods:::txtsize --> Ceodsoonhpns:::txtsize
-Ceodsoonhpns:::txtsize --> BJoisiwenedic:::txtsize
-BJoisiwenedic:::txtsize --> Uoonsnaiegb:::txtsize
-BJoisiwenedic:::txtsize --> UudeusulicleMsso:::txtsize
-Ceodsoonhpns:::txtsize --> Uoonsnaiegb:::txtsize
-Uoonsnaiegb:::txtsize --> Bsncagtahir:::txtsize
-Uoonsnaiegb:::txtsize --> Umfontpdslotgn:::txtsize
-IrdKhoaoOestods:::txtsize --> BJoiheuoditl:::txtsize
-BJoiheuoditl:::txtsize --> BJoisiwenedic:::txtsize
-BJoisiwenedic:::txtsize --> Uoonsnaiegb:::txtsize
-BJoisiwenedic:::txtsize --> UudeusulicleMsso:::txtsize
+Mnsaxatreecffg:::txtsize --> NIairMnssaetMede:::txtsize
+NIairMnssaetMede:::txtsize --> MfedMnsgeeier:::txtsize
+MfedMnsgeeier:::txtsize --> MfedMnsgeere:::txtsize
+MfedMnsgeeier:::txtsize --> Sryesiacseenudu:::txtsize
+Mnsaxatreecffg:::txtsize --> MnseccssaeNgir:::txtsize
+MnseccssaeNgir:::txtsize --> NIairMnssaetMede:::txtsize
+NIairMnssaetMede:::txtsize --> MfedMnsgeeier:::txtsize
+MnseccssaeNgir:::txtsize --> NIairMnssaetMede:::txtsize
+NIairMnssaetMede:::txtsize --> MfedMnsgeeier:::txtsize
 
 ```
-<i>Last updated: 2025-11-21 08:00:35.466953 (GMT+8)</i>
+<i>Last updated: 2025-11-21 12:00:58.493117 (GMT+8)</i>
 <!-- END -->
