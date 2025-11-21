@@ -16,123 +16,135 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Bvrhlgowuye@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:30 PM_
-Believe it or not, that $15.7 million gold toilet was bought by … ripley’s" }
-FKpicsrdor@{ shape: win-pane, label: "_Published Nov 21, 2025, 10:25 AM_
-Frida kahlo painting auctions for $71m, record for woman artist" }
-Kpacsdesrkat@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:10 PM_
-Klimt portrait becomes second most expensive artwork sold at auction" }
-Mndngsiec@{ shape: win-pane, label: "_Published Nov 12, 2025, 03:28 AM_
-Mellon blue diamond ring sells for $32.5m in geneva auction" }
-Rahpclmo@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:05 AM_
-Rare patek philippe watch sells for $22.9 million" }
-Kpacsdesrkat@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:10 PM_
-Klimt portrait becomes second most expensive artwork sold at auction" }
-Mndngsiec@{ shape: win-pane, label: "_Published Nov 12, 2025, 03:28 AM_
-Mellon blue diamond ring sells for $32.5m in geneva auction" }
-Rahpclmo@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:05 AM_
-Rare patek philippe watch sells for $22.9 million" }
-Kpacsdesrkat@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:10 PM_
-Klimt portrait becomes second most expensive artwork sold at auction" }
-Mndngsiec@{ shape: win-pane, label: "_Published Nov 12, 2025, 03:28 AM_
-Mellon blue diamond ring sells for $32.5m in geneva auction" }
-Dnpncotnv@{ shape: win-pane, label: "_Published Nov 06, 2025, 09:05 PM_
-Diamonds, napoleon brooch up for auction in geneva" }
-Rahpclmo@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:05 AM_
-Rare patek philippe watch sells for $22.9 million" }
-TagBnhcait@{ shape: win-pane, label: "_Published Jul 10, 2025, 11:59 PM_
-The $12.8m bag: original birkin smashes records at paris auction" }
-Hsafestic@{ shape: win-pane, label: "_Published Jun 10, 2025, 07:22 PM_
-Human-size labubu figure sells for $193,000 at beijing auction" }
+Dsaoemlossd@{ shape: win-pane, label: "_Published Nov 21, 2025, 07:14 PM_
+Delays, setbacks loom over trump’s golden dome missile shield" }
+Tprdlaaubt@{ shape: win-pane, label: "_Published May 02, 2025, 11:55 AM_
+Trump plans record $1.32 trillion national security budget" }
+TcfoeSif@{ shape: win-pane, label: "_Published Jan 28, 2025, 09:40 AM_
+Trump calls for ‘iron dome’ for us missile defence" }
+Tffwtdirvvcesne@{ shape: win-pane, label: "_Published Jan 22, 2025, 01:30 AM_
+Trump fires first woman to lead a us military service over lack of leadership and more" }
+TcseAasomras@{ shape: win-pane, label: "_Published Nov 15, 2024, 10:18 AM_
+Trump causes jitters in australia as shadow looms over submarines deal" }
+Taiteeoluba@{ shape: win-pane, label: "_Published Feb 20, 2025, 07:00 AM_
+Trump administration tells pentagon to slash budget by 8% a year" }
+WnPasoulfufls@{ shape: win-pane, label: "_Published Feb 18, 2025, 05:20 AM_
+Washington post cancels ad from groups calling for trump to fire elon musk" }
+Tasgxrrtnsrafb@{ shape: win-pane, label: "_Published Feb 19, 2025, 07:11 AM_
+Trump and musk target tax enforcers, rocket scientists, bank regulators for job cuts" }
+Pglohaeeedo@{ shape: win-pane, label: "_Published Aug 13, 2025, 06:33 AM_
+Pentagon golden dome to have 4-layer defence system, slides show" }
+Tseeslassa@{ shape: win-pane, label: "_Published Jul 22, 2025, 06:18 PM_
+Trump’s golden dome looks for alternatives to musk’s spacex" }
+Tsushnelms@{ shape: win-pane, label: "_Published Jun 07, 2025, 03:58 AM_
+Trump says musk has ‘lost his mind’ as feud fallout mounts" }
+ATfoMSXlossden@{ shape: win-pane, label: "_Published Jun 13, 2025, 05:14 AM_
+After trump feud, role of musk's spacex in golden dome missile shield in question" }
 
-Bvrhlgowuye:::txtsize --> FKpicsrdor:::txtsize
-FKpicsrdor:::txtsize --> Kpacsdesrkat:::txtsize
-Kpacsdesrkat:::txtsize --> Mndngsiec:::txtsize
-Kpacsdesrkat:::txtsize --> Rahpclmo:::txtsize
-FKpicsrdor:::txtsize --> Kpacsdesrkat:::txtsize
-Kpacsdesrkat:::txtsize --> Mndngsiec:::txtsize
-Kpacsdesrkat:::txtsize --> Rahpclmo:::txtsize
-Bvrhlgowuye:::txtsize --> Kpacsdesrkat:::txtsize
-Kpacsdesrkat:::txtsize --> Mndngsiec:::txtsize
-Mndngsiec:::txtsize --> Dnpncotnv:::txtsize
-Kpacsdesrkat:::txtsize --> Rahpclmo:::txtsize
-Rahpclmo:::txtsize --> TagBnhcait:::txtsize
-Rahpclmo:::txtsize --> Hsafestic:::txtsize
+Dsaoemlossd:::txtsize --> Tprdlaaubt:::txtsize
+Tprdlaaubt:::txtsize --> TcfoeSif:::txtsize
+TcfoeSif:::txtsize --> Tffwtdirvvcesne:::txtsize
+TcfoeSif:::txtsize --> TcseAasomras:::txtsize
+Tprdlaaubt:::txtsize --> Taiteeoluba:::txtsize
+Taiteeoluba:::txtsize --> WnPasoulfufls:::txtsize
+Taiteeoluba:::txtsize --> Tasgxrrtnsrafb:::txtsize
+Dsaoemlossd:::txtsize --> Pglohaeeedo:::txtsize
+Pglohaeeedo:::txtsize --> Tseeslassa:::txtsize
+Tseeslassa:::txtsize --> Tsushnelms:::txtsize
+Tseeslassa:::txtsize --> ATfoMSXlossden:::txtsize
 
-MeiMnsuswotg@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:22 PM_
-Miss mexico is new miss universe in surprising twist to chaotic pageant" }
-NIairMnssaetMede@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:59 PM_
-Nawat itsaragrisil sorry for miss universe fiasco, claims he didn’t call miss mexico ‘dumb head’" }
-MfedMnsgeeier@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:30 PM_
-My perfect weekend with miss universe singapore 2025 winner annika xue sager" }
-MfedMnsgeere@{ shape: win-pane, label: "_Published Oct 03, 2024, 03:00 PM_
-My perfect weekend with miss universe singapore 2024 winner charlotte chia" }
-Sryesiacseenudu@{ shape: win-pane, label: "_Published Sep 23, 2025, 04:15 PM_
-Singer harry styles runs berlin marathon, clocks impressive timing of just under 3 hours" }
-NIairMnssaetMede@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:59 PM_
-Nawat itsaragrisil sorry for miss universe fiasco, claims he didn’t call miss mexico ‘dumb head’" }
-MfedMnsgeeier@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:30 PM_
-My perfect weekend with miss universe singapore 2025 winner annika xue sager" }
-MfedMnsgeere@{ shape: win-pane, label: "_Published Oct 03, 2024, 03:00 PM_
-My perfect weekend with miss universe singapore 2024 winner charlotte chia" }
-Sryesiacseenudu@{ shape: win-pane, label: "_Published Sep 23, 2025, 04:15 PM_
-Singer harry styles runs berlin marathon, clocks impressive timing of just under 3 hours" }
+Trsifleegsuel@{ shape: win-pane, label: "_Published Nov 21, 2025, 06:49 PM_
+Top ukraine security official denies accepting terms of trump’s peace plan" }
+Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
+Trump’s 28-point ukraine plan" }
+Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
+Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
+EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
+Europeans push back at us plan that would force concessions from ukraine" }
+Atdretahfunceni@{ shape: win-pane, label: "_Published Nov 20, 2025, 09:24 PM_
+A relative’s desperate search then fading hope after russian attack in western ukraine" }
+Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
+Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
+EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
+Europeans push back at us plan that would force concessions from ukraine" }
+Atdretahfunceni@{ shape: win-pane, label: "_Published Nov 20, 2025, 09:24 PM_
+A relative’s desperate search then fading hope after russian attack in western ukraine" }
+Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
+Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
+EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
+Europeans push back at us plan that would force concessions from ukraine" }
+UcprrrteinlnsySe@{ shape: win-pane, label: "_Published Nov 20, 2025, 04:50 AM_
+Us peace proposal requires ukraine to cede russian-controlled land, slash army size: source" }
+Unlnkmtmjria@{ shape: win-pane, label: "_Published Nov 19, 2025, 09:14 PM_
+Ukraine parliament sacks two ministers amid major corruption scandal" }
+Atdretahfunceni@{ shape: win-pane, label: "_Published Nov 20, 2025, 09:24 PM_
+A relative’s desperate search then fading hope after russian attack in western ukraine" }
+RailUnekreim@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:46 PM_
+Russian strike kills 25 in ukraine as zelensky’s turkey peace bid stumbles" }
+Unsenyirnidhe@{ shape: win-pane, label: "_Published Aug 01, 2025, 09:24 PM_
+Ukraine says 31 killed in end-july russian strike on kyiv, including 5 children" }
 
-MeiMnsuswotg:::txtsize --> NIairMnssaetMede:::txtsize
-NIairMnssaetMede:::txtsize --> MfedMnsgeeier:::txtsize
-MfedMnsgeeier:::txtsize --> MfedMnsgeere:::txtsize
-MfedMnsgeeier:::txtsize --> Sryesiacseenudu:::txtsize
-MeiMnsuswotg:::txtsize --> NIairMnssaetMede:::txtsize
-NIairMnssaetMede:::txtsize --> MfedMnsgeeier:::txtsize
-MfedMnsgeeier:::txtsize --> MfedMnsgeere:::txtsize
-MfedMnsgeeier:::txtsize --> Sryesiacseenudu:::txtsize
+Trsifleegsuel:::txtsize --> Tstia:::txtsize
+Tstia:::txtsize --> Zsarskbdaosb:::txtsize
+Zsarskbdaosb:::txtsize --> EeucStooosfke:::txtsize
+Zsarskbdaosb:::txtsize --> Atdretahfunceni:::txtsize
+Tstia:::txtsize --> Zsarskbdaosb:::txtsize
+Zsarskbdaosb:::txtsize --> EeucStooosfke:::txtsize
+Zsarskbdaosb:::txtsize --> Atdretahfunceni:::txtsize
+Trsifleegsuel:::txtsize --> Zsarskbdaosb:::txtsize
+Zsarskbdaosb:::txtsize --> EeucStooosfke:::txtsize
+EeucStooosfke:::txtsize --> UcprrrteinlnsySe:::txtsize
+EeucStooosfke:::txtsize --> Unlnkmtmjria:::txtsize
+Zsarskbdaosb:::txtsize --> Atdretahfunceni:::txtsize
+Atdretahfunceni:::txtsize --> RailUnekreim:::txtsize
+Atdretahfunceni:::txtsize --> Unsenyirnidhe:::txtsize
 
-Nlarraobiilszteai@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:47 AM_
-Nobel laureate maria corina machado will be ‘fugitive’ if she leaves venezuela to accept peace prize" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
-Trump says not winning nobel peace prize would be ‘insult’ to us" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-Htahueirsmng@{ shape: win-pane, label: "_Published Sep 26, 2025, 05:42 AM_
-Hegseth is said to have summoned us military brass from around the globe" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
-Israel marks oct 7 anniversary as talks are held to end gaza war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-TfsztaaMort@{ shape: win-pane, label: "_Published Nov 17, 2025, 08:57 AM_
-Trump floats venezuela talks as us labels maduro a terrorist" }
-Ucceinaeiiburz@{ shape: win-pane, label: "_Published Nov 17, 2025, 03:14 AM_
-Us aircraft carrier arrives in the caribbean amid military build-up near venezuela" }
-Eirdyroersl@{ shape: win-pane, label: "_Published Oct 31, 2025, 06:16 PM_
-Explainer: are the deadly us strikes on alleged drug vessels legal?​" }
-VuonipcnAraTo@{ shape: win-pane, label: "_Published Oct 27, 2025, 08:06 AM_
-Venezuela condemns ‘military provocation’ by cia and trinidad and tobago" }
-orsomalduttpon@{ shape: win-pane, label: "_Published Nov 14, 2025, 07:37 PM_
-29% of americans support us military killing drug suspects, reuters/ipsos poll finds" }
-Ucceeonigsteens@{ shape: win-pane, label: "_Published Nov 11, 2025, 11:41 PM_
-Us aircraft carrier moves into latin america region, escalating venezuela tensions" }
-Uddrngufialhe@{ shape: win-pane, label: "_Published Nov 14, 2025, 06:32 AM_
-Us conducted 20th strike on alleged drug trafficking boat earlier this week" }
+DCaporilsne@{ shape: win-pane, label: "_Published Nov 21, 2025, 05:40 PM_
+Draft cop30 deal drops effort for fossil fuel transition agreement" }
+UehPerayfls@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:59 PM_
+Un chief pushes cop30 for deal on roadmap away from fossil fuels" }
+SlWicrtteOodoaa@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:15 AM_
+St explains: why is it tricky for countries to agree at cop30 on how to adapt to climate change?" }
+Uneitumooiuttioan@{ shape: win-pane, label: "_Published Aug 16, 2025, 05:00 AM_
+Using nature, multi-use structures among solutions being studied to protect singapore coastlines" }
+FlsosOeeomc@{ shape: win-pane, label: "_Published Nov 08, 2025, 05:00 AM_
+From pledges to progress: can cop30 move the needle on climate action?" }
+CracnntnPalrge@{ shape: win-pane, label: "_Published Nov 19, 2025, 09:30 PM_
+Countries’ lack of consensus on adaptation at cop30 climate talks worrying: grace fu" }
+Uneitumooiuttioan@{ shape: win-pane, label: "_Published Aug 16, 2025, 05:00 AM_
+Using nature, multi-use structures among solutions being studied to protect singapore coastlines" }
+FlsosOeeomc@{ shape: win-pane, label: "_Published Nov 08, 2025, 05:00 AM_
+From pledges to progress: can cop30 move the needle on climate action?" }
+SlWicrtteOodoaa@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:15 AM_
+St explains: why is it tricky for countries to agree at cop30 on how to adapt to climate change?" }
+Uneitumooiuttioan@{ shape: win-pane, label: "_Published Aug 16, 2025, 05:00 AM_
+Using nature, multi-use structures among solutions being studied to protect singapore coastlines" }
+NruSpeotegon@{ shape: win-pane, label: "_Published Aug 16, 2025, 05:00 AM_
+Nowhere to run: why singapore needs to start protecting its coasts now" }
+NruSpeotegon@{ shape: win-pane, label: "_Published Aug 16, 2025, 05:00 AM_
+Nowhere to run: why singapore needs to start protecting its coasts now" }
+FlsosOeeomc@{ shape: win-pane, label: "_Published Nov 08, 2025, 05:00 AM_
+From pledges to progress: can cop30 move the needle on climate action?" }
+SsifawlecldiitsGF@{ shape: win-pane, label: "_Published Nov 06, 2025, 03:00 PM_
+S’pore’s readiness for dealing with climate impacts will guide business investments here: grace fu" }
+CtnondVao@{ shape: win-pane, label: "_Published Oct 30, 2025, 03:15 PM_
+Climate change, poor planning drive vietnam flooding" }
 
-Nlarraobiilszteai:::txtsize --> Vuoilranhibai:::txtsize
-Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
-TsonoeroelS:::txtsize --> Tseaupoabmrnluo:::txtsize
-TsonoeroelS:::txtsize --> Htahueirsmng:::txtsize
-Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
-TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
-TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
-Nlarraobiilszteai:::txtsize --> TfsztaaMort:::txtsize
-TfsztaaMort:::txtsize --> Ucceinaeiiburz:::txtsize
-Ucceinaeiiburz:::txtsize --> Eirdyroersl:::txtsize
-Ucceinaeiiburz:::txtsize --> VuonipcnAraTo:::txtsize
-TfsztaaMort:::txtsize --> orsomalduttpon:::txtsize
-orsomalduttpon:::txtsize --> Ucceeonigsteens:::txtsize
-orsomalduttpon:::txtsize --> Uddrngufialhe:::txtsize
+DCaporilsne:::txtsize --> UehPerayfls:::txtsize
+UehPerayfls:::txtsize --> SlWicrtteOodoaa:::txtsize
+SlWicrtteOodoaa:::txtsize --> Uneitumooiuttioan:::txtsize
+SlWicrtteOodoaa:::txtsize --> FlsosOeeomc:::txtsize
+UehPerayfls:::txtsize --> CracnntnPalrge:::txtsize
+CracnntnPalrge:::txtsize --> Uneitumooiuttioan:::txtsize
+CracnntnPalrge:::txtsize --> FlsosOeeomc:::txtsize
+DCaporilsne:::txtsize --> SlWicrtteOodoaa:::txtsize
+SlWicrtteOodoaa:::txtsize --> Uneitumooiuttioan:::txtsize
+Uneitumooiuttioan:::txtsize --> NruSpeotegon:::txtsize
+Uneitumooiuttioan:::txtsize --> NruSpeotegon:::txtsize
+SlWicrtteOodoaa:::txtsize --> FlsosOeeomc:::txtsize
+FlsosOeeomc:::txtsize --> SsifawlecldiitsGF:::txtsize
+FlsosOeeomc:::txtsize --> CtnondVao:::txtsize
 
 ```
-<i>Last updated: 2025-11-21 16:00:23.292064 (GMT+8)</i>
+<i>Last updated: 2025-11-21 20:00:55.249374 (GMT+8)</i>
 <!-- END -->
