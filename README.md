@@ -16,135 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Dsaoemlossd@{ shape: win-pane, label: "_Published Nov 21, 2025, 07:14 PM_
-Delays, setbacks loom over trump’s golden dome missile shield" }
-Tprdlaaubt@{ shape: win-pane, label: "_Published May 02, 2025, 11:55 AM_
-Trump plans record $1.32 trillion national security budget" }
-TcfoeSif@{ shape: win-pane, label: "_Published Jan 28, 2025, 09:40 AM_
-Trump calls for ‘iron dome’ for us missile defence" }
-Tffwtdirvvcesne@{ shape: win-pane, label: "_Published Jan 22, 2025, 01:30 AM_
-Trump fires first woman to lead a us military service over lack of leadership and more" }
-TcseAasomras@{ shape: win-pane, label: "_Published Nov 15, 2024, 10:18 AM_
-Trump causes jitters in australia as shadow looms over submarines deal" }
-Taiteeoluba@{ shape: win-pane, label: "_Published Feb 20, 2025, 07:00 AM_
-Trump administration tells pentagon to slash budget by 8% a year" }
-WnPasoulfufls@{ shape: win-pane, label: "_Published Feb 18, 2025, 05:20 AM_
-Washington post cancels ad from groups calling for trump to fire elon musk" }
-Tasgxrrtnsrafb@{ shape: win-pane, label: "_Published Feb 19, 2025, 07:11 AM_
-Trump and musk target tax enforcers, rocket scientists, bank regulators for job cuts" }
-Pglohaeeedo@{ shape: win-pane, label: "_Published Aug 13, 2025, 06:33 AM_
-Pentagon golden dome to have 4-layer defence system, slides show" }
-Tseeslassa@{ shape: win-pane, label: "_Published Jul 22, 2025, 06:18 PM_
-Trump’s golden dome looks for alternatives to musk’s spacex" }
-Tsushnelms@{ shape: win-pane, label: "_Published Jun 07, 2025, 03:58 AM_
-Trump says musk has ‘lost his mind’ as feud fallout mounts" }
-ATfoMSXlossden@{ shape: win-pane, label: "_Published Jun 13, 2025, 05:14 AM_
-After trump feud, role of musk's spacex in golden dome missile shield in question" }
+Rasasiirwolspo@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:19 PM_
+Russia wants to stall us sanctions with ukraine war proposals, says eu top diplomat" }
+Ucsilrrionitncr@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:27 PM_
+Us sanctions russian oil majors over ukraine, prompting india jitters and moscow fury" }
+UpmucssorirPwht@{ shape: win-pane, label: "_Published Oct 23, 2025, 05:33 AM_
+Us slaps ‘tremendous sanctions’ on russian oil for ukraine war, says putin wasn’t ‘honest’" }
+ErtkftassewUn@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:10 AM_
+Eu approves 19th package of sanctions against russia over its war in ukraine" }
+PTtiaodrieei@{ shape: win-pane, label: "_Published Oct 22, 2025, 01:12 AM_
+Putin-trump talks in budapest on hold after russia rejects ceasefire" }
+Tsemunpogrnil@{ shape: win-pane, label: "_Published May 19, 2025, 10:54 PM_
+Trump says he will meet putin in budapest, touting progress in ukraine talks" }
+TPdtsUncamre@{ shape: win-pane, label: "_Published Aug 16, 2025, 03:43 AM_
+Trump-putin direct talks over ukraine conclude as summit stretches on" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
 
-Dsaoemlossd:::txtsize --> Tprdlaaubt:::txtsize
-Tprdlaaubt:::txtsize --> TcfoeSif:::txtsize
-TcfoeSif:::txtsize --> Tffwtdirvvcesne:::txtsize
-TcfoeSif:::txtsize --> TcseAasomras:::txtsize
-Tprdlaaubt:::txtsize --> Taiteeoluba:::txtsize
-Taiteeoluba:::txtsize --> WnPasoulfufls:::txtsize
-Taiteeoluba:::txtsize --> Tasgxrrtnsrafb:::txtsize
-Dsaoemlossd:::txtsize --> Pglohaeeedo:::txtsize
-Pglohaeeedo:::txtsize --> Tseeslassa:::txtsize
-Tseeslassa:::txtsize --> Tsushnelms:::txtsize
-Tseeslassa:::txtsize --> ATfoMSXlossden:::txtsize
+Rasasiirwolspo:::txtsize --> Ucsilrrionitncr:::txtsize
+Ucsilrrionitncr:::txtsize --> UpmucssorirPwht:::txtsize
+UpmucssorirPwht:::txtsize --> ErtkftassewUn:::txtsize
+UpmucssorirPwht:::txtsize --> PTtiaodrieei:::txtsize
+Ucsilrrionitncr:::txtsize --> Tsemunpogrnil:::txtsize
+Tsemunpogrnil:::txtsize --> TPdtsUncamre:::txtsize
+Tsemunpogrnil:::txtsize --> Tdrcaaededlncbs:::txtsize
 
-Trsifleegsuel@{ shape: win-pane, label: "_Published Nov 21, 2025, 06:49 PM_
-Top ukraine security official denies accepting terms of trump’s peace plan" }
-Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
-Trump’s 28-point ukraine plan" }
-Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
-Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
-EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
-Europeans push back at us plan that would force concessions from ukraine" }
-Atdretahfunceni@{ shape: win-pane, label: "_Published Nov 20, 2025, 09:24 PM_
-A relative’s desperate search then fading hope after russian attack in western ukraine" }
-Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
-Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
-EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
-Europeans push back at us plan that would force concessions from ukraine" }
-Atdretahfunceni@{ shape: win-pane, label: "_Published Nov 20, 2025, 09:24 PM_
-A relative’s desperate search then fading hope after russian attack in western ukraine" }
-Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
-Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
-EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
-Europeans push back at us plan that would force concessions from ukraine" }
-UcprrrteinlnsySe@{ shape: win-pane, label: "_Published Nov 20, 2025, 04:50 AM_
-Us peace proposal requires ukraine to cede russian-controlled land, slash army size: source" }
-Unlnkmtmjria@{ shape: win-pane, label: "_Published Nov 19, 2025, 09:14 PM_
-Ukraine parliament sacks two ministers amid major corruption scandal" }
-Atdretahfunceni@{ shape: win-pane, label: "_Published Nov 20, 2025, 09:24 PM_
-A relative’s desperate search then fading hope after russian attack in western ukraine" }
-RailUnekreim@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:46 PM_
-Russian strike kills 25 in ukraine as zelensky’s turkey peace bid stumbles" }
-Unsenyirnidhe@{ shape: win-pane, label: "_Published Aug 01, 2025, 09:24 PM_
-Ukraine says 31 killed in end-july russian strike on kyiv, including 5 children" }
+BsrlmPeUiapsr@{ shape: win-pane, label: "_Published Nov 21, 2025, 10:59 PM_
+British court jails former mep and reform uk politician for pro-russia bribes" }
+FrrocaGlgyoibhs@{ shape: win-pane, label: "_Published Sep 26, 2025, 09:28 PM_
+Former reform uk politician nathan gill  pleads guilty to pro-russia bribery charges" }
+RaleiMvpeE@{ shape: win-pane, label: "_Published Sep 25, 2025, 11:51 PM_
+Russia ‘deeply interfering’ in moldova’s sept 28 vote, says eu" }
+LreycawoMvaRa@{ shape: win-pane, label: "_Published Aug 28, 2025, 12:30 AM_
+Leaders of germany, france, poland vow ‘support’ to moldova in face of russia" }
+MvepaaenEak@{ shape: win-pane, label: "_Published Sep 25, 2025, 08:52 PM_
+Moldova faces key parliamentary election, with eu bid at stake" }
+Drkntoerisiivm@{ shape: win-pane, label: "_Published Sep 25, 2025, 11:52 PM_
+Denmark links drone sorties to state actor, latvia says; russia denies involvement" }
+Dsunitsdiesnne@{ shape: win-pane, label: "_Published Sep 25, 2025, 06:07 AM_
+Drones disrupt danish airports for second time in a week; russia denies involvement" }
+Dsunitsdiesnne@{ shape: win-pane, label: "_Published Sep 25, 2025, 06:07 AM_
+Drones disrupt danish airports for second time in a week; russia denies involvement" }
+Fedrhtftruon@{ shape: win-pane, label: "_Published Sep 26, 2025, 05:34 PM_
+Farage would win british election if held tomorrow, yougov poll finds" }
+Biptrtdordr@{ shape: win-pane, label: "_Published Sep 22, 2025, 09:06 PM_
+Britain’s populist reform party pledges tougher residency rules" }
+FniBeracSudaics@{ shape: win-pane, label: "_Published Sep 22, 2025, 07:45 AM_
+‘fast and furious’: h-1b workers abroad race back to us as trump order sparks dismay, confusion" }
+Jnaiiboidt@{ shape: win-pane, label: "_Published Sep 14, 2025, 06:30 PM_
+Japan needs an immigration debate, not social media myths" }
+BinumogIwrellgo@{ shape: win-pane, label: "_Published Sep 26, 2025, 02:42 PM_
+Britain to introduce compulsory digital id for workers to deter illegal immigration" }
+Bisictotmho@{ shape: win-pane, label: "_Published Aug 24, 2025, 09:45 AM_
+Britain’s mass facial recognition roll-out alarms rights groups" }
+ThnealmeEerdnrnt@{ shape: win-pane, label: "_Published Jun 12, 2025, 06:20 PM_
+The schengen agreement at 40: will free movement in europe endure amid rising migrant antipathy?" }
 
-Trsifleegsuel:::txtsize --> Tstia:::txtsize
-Tstia:::txtsize --> Zsarskbdaosb:::txtsize
-Zsarskbdaosb:::txtsize --> EeucStooosfke:::txtsize
-Zsarskbdaosb:::txtsize --> Atdretahfunceni:::txtsize
-Tstia:::txtsize --> Zsarskbdaosb:::txtsize
-Zsarskbdaosb:::txtsize --> EeucStooosfke:::txtsize
-Zsarskbdaosb:::txtsize --> Atdretahfunceni:::txtsize
-Trsifleegsuel:::txtsize --> Zsarskbdaosb:::txtsize
-Zsarskbdaosb:::txtsize --> EeucStooosfke:::txtsize
-EeucStooosfke:::txtsize --> UcprrrteinlnsySe:::txtsize
-EeucStooosfke:::txtsize --> Unlnkmtmjria:::txtsize
-Zsarskbdaosb:::txtsize --> Atdretahfunceni:::txtsize
-Atdretahfunceni:::txtsize --> RailUnekreim:::txtsize
-Atdretahfunceni:::txtsize --> Unsenyirnidhe:::txtsize
+BsrlmPeUiapsr:::txtsize --> FrrocaGlgyoibhs:::txtsize
+FrrocaGlgyoibhs:::txtsize --> RaleiMvpeE:::txtsize
+RaleiMvpeE:::txtsize --> LreycawoMvaRa:::txtsize
+RaleiMvpeE:::txtsize --> MvepaaenEak:::txtsize
+FrrocaGlgyoibhs:::txtsize --> Drkntoerisiivm:::txtsize
+Drkntoerisiivm:::txtsize --> Dsunitsdiesnne:::txtsize
+Drkntoerisiivm:::txtsize --> Dsunitsdiesnne:::txtsize
+BsrlmPeUiapsr:::txtsize --> Fedrhtftruon:::txtsize
+Fedrhtftruon:::txtsize --> Biptrtdordr:::txtsize
+Biptrtdordr:::txtsize --> FniBeracSudaics:::txtsize
+Biptrtdordr:::txtsize --> Jnaiiboidt:::txtsize
+Fedrhtftruon:::txtsize --> BinumogIwrellgo:::txtsize
+BinumogIwrellgo:::txtsize --> Bisictotmho:::txtsize
+BinumogIwrellgo:::txtsize --> ThnealmeEerdnrnt:::txtsize
 
-DCaporilsne@{ shape: win-pane, label: "_Published Nov 21, 2025, 05:40 PM_
-Draft cop30 deal drops effort for fossil fuel transition agreement" }
-UehPerayfls@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:59 PM_
-Un chief pushes cop30 for deal on roadmap away from fossil fuels" }
-SlWicrtteOodoaa@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:15 AM_
-St explains: why is it tricky for countries to agree at cop30 on how to adapt to climate change?" }
-Uneitumooiuttioan@{ shape: win-pane, label: "_Published Aug 16, 2025, 05:00 AM_
-Using nature, multi-use structures among solutions being studied to protect singapore coastlines" }
-FlsosOeeomc@{ shape: win-pane, label: "_Published Nov 08, 2025, 05:00 AM_
-From pledges to progress: can cop30 move the needle on climate action?" }
-CracnntnPalrge@{ shape: win-pane, label: "_Published Nov 19, 2025, 09:30 PM_
-Countries’ lack of consensus on adaptation at cop30 climate talks worrying: grace fu" }
-Uneitumooiuttioan@{ shape: win-pane, label: "_Published Aug 16, 2025, 05:00 AM_
-Using nature, multi-use structures among solutions being studied to protect singapore coastlines" }
-FlsosOeeomc@{ shape: win-pane, label: "_Published Nov 08, 2025, 05:00 AM_
-From pledges to progress: can cop30 move the needle on climate action?" }
-SlWicrtteOodoaa@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:15 AM_
-St explains: why is it tricky for countries to agree at cop30 on how to adapt to climate change?" }
-Uneitumooiuttioan@{ shape: win-pane, label: "_Published Aug 16, 2025, 05:00 AM_
-Using nature, multi-use structures among solutions being studied to protect singapore coastlines" }
-NruSpeotegon@{ shape: win-pane, label: "_Published Aug 16, 2025, 05:00 AM_
-Nowhere to run: why singapore needs to start protecting its coasts now" }
-NruSpeotegon@{ shape: win-pane, label: "_Published Aug 16, 2025, 05:00 AM_
-Nowhere to run: why singapore needs to start protecting its coasts now" }
-FlsosOeeomc@{ shape: win-pane, label: "_Published Nov 08, 2025, 05:00 AM_
-From pledges to progress: can cop30 move the needle on climate action?" }
-SsifawlecldiitsGF@{ shape: win-pane, label: "_Published Nov 06, 2025, 03:00 PM_
-S’pore’s readiness for dealing with climate impacts will guide business investments here: grace fu" }
-CtnondVao@{ shape: win-pane, label: "_Published Oct 30, 2025, 03:15 PM_
-Climate change, poor planning drive vietnam flooding" }
+Gnebirisrse@{ shape: win-pane, label: "_Published Nov 21, 2025, 10:44 PM_
+Germany squeezes benefits for ukrainians as arrivals surge" }
+Uneoangtlad@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:11 AM_
+Ukraine eases ban on ukrainian men aged 18 to 22 travelling abroad" }
+Unndoseienpvg@{ shape: win-pane, label: "_Published Aug 26, 2025, 10:27 PM_
+Ukraine acknowledges for first time russia entered dnipropetrovsk region" }
+Zsysieisitit@{ shape: win-pane, label: "_Published Aug 22, 2025, 08:47 PM_
+Zelensky says russia doing ‘everything’ to stop his meeting with putin" }
+Woiaamiesics@{ shape: win-pane, label: "_Published Aug 23, 2025, 01:52 AM_
+With no ukraine peace deal, trump again threatens russia sanctions" }
+Woiaamiesics@{ shape: win-pane, label: "_Published Aug 23, 2025, 01:52 AM_
+With no ukraine peace deal, trump again threatens russia sanctions" }
+UnlyRanrefes@{ shape: win-pane, label: "_Published Aug 22, 2025, 03:43 AM_
+Ukraine’s zelensky says russia trying to ‘wriggle out’ of peace talks" }
+Zsysieisitit@{ shape: win-pane, label: "_Published Aug 22, 2025, 08:47 PM_
+Zelensky says russia doing ‘everything’ to stop his meeting with putin" }
+Meekenanhgey@{ shape: win-pane, label: "_Published Nov 13, 2025, 11:40 PM_
+Merz tells zelensky fewer young ukrainian men should go to germany" }
+Uneoangtlad@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:11 AM_
+Ukraine eases ban on ukrainian men aged 18 to 22 travelling abroad" }
+Unndoseienpvg@{ shape: win-pane, label: "_Published Aug 26, 2025, 10:27 PM_
+Ukraine acknowledges for first time russia entered dnipropetrovsk region" }
+Woiaamiesics@{ shape: win-pane, label: "_Published Aug 23, 2025, 01:52 AM_
+With no ukraine peace deal, trump again threatens russia sanctions" }
+Uneoangtlad@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:11 AM_
+Ukraine eases ban on ukrainian men aged 18 to 22 travelling abroad" }
+Unndoseienpvg@{ shape: win-pane, label: "_Published Aug 26, 2025, 10:27 PM_
+Ukraine acknowledges for first time russia entered dnipropetrovsk region" }
+Woiaamiesics@{ shape: win-pane, label: "_Published Aug 23, 2025, 01:52 AM_
+With no ukraine peace deal, trump again threatens russia sanctions" }
 
-DCaporilsne:::txtsize --> UehPerayfls:::txtsize
-UehPerayfls:::txtsize --> SlWicrtteOodoaa:::txtsize
-SlWicrtteOodoaa:::txtsize --> Uneitumooiuttioan:::txtsize
-SlWicrtteOodoaa:::txtsize --> FlsosOeeomc:::txtsize
-UehPerayfls:::txtsize --> CracnntnPalrge:::txtsize
-CracnntnPalrge:::txtsize --> Uneitumooiuttioan:::txtsize
-CracnntnPalrge:::txtsize --> FlsosOeeomc:::txtsize
-DCaporilsne:::txtsize --> SlWicrtteOodoaa:::txtsize
-SlWicrtteOodoaa:::txtsize --> Uneitumooiuttioan:::txtsize
-Uneitumooiuttioan:::txtsize --> NruSpeotegon:::txtsize
-Uneitumooiuttioan:::txtsize --> NruSpeotegon:::txtsize
-SlWicrtteOodoaa:::txtsize --> FlsosOeeomc:::txtsize
-FlsosOeeomc:::txtsize --> SsifawlecldiitsGF:::txtsize
-FlsosOeeomc:::txtsize --> CtnondVao:::txtsize
+Gnebirisrse:::txtsize --> Uneoangtlad:::txtsize
+Uneoangtlad:::txtsize --> Unndoseienpvg:::txtsize
+Unndoseienpvg:::txtsize --> Zsysieisitit:::txtsize
+Unndoseienpvg:::txtsize --> Woiaamiesics:::txtsize
+Uneoangtlad:::txtsize --> Woiaamiesics:::txtsize
+Woiaamiesics:::txtsize --> UnlyRanrefes:::txtsize
+Woiaamiesics:::txtsize --> Zsysieisitit:::txtsize
+Gnebirisrse:::txtsize --> Meekenanhgey:::txtsize
+Meekenanhgey:::txtsize --> Uneoangtlad:::txtsize
+Uneoangtlad:::txtsize --> Unndoseienpvg:::txtsize
+Uneoangtlad:::txtsize --> Woiaamiesics:::txtsize
+Meekenanhgey:::txtsize --> Uneoangtlad:::txtsize
+Uneoangtlad:::txtsize --> Unndoseienpvg:::txtsize
+Uneoangtlad:::txtsize --> Woiaamiesics:::txtsize
 
 ```
-<i>Last updated: 2025-11-21 20:00:55.249374 (GMT+8)</i>
+<i>Last updated: 2025-11-22 00:00:22.218693 (GMT+8)</i>
 <!-- END -->
