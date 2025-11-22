@@ -16,126 +16,117 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-UmMryrtitaihp@{ shape: win-pane, label: "_Published Nov 22, 2025, 10:04 AM_
-Us lawmaker marjorie taylor greene to resign after spat, split with trump" }
+Dndprrhnnunc@{ shape: win-pane, label: "_Published Nov 22, 2025, 03:19 PM_
+Dark and cold, kyiv prepares for another winter under russian attack" }
+Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
+Trump’s 28-point ukraine plan" }
+Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
+Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
+EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
+Europeans push back at us plan that would force concessions from ukraine" }
+Atdretahfunceni@{ shape: win-pane, label: "_Published Nov 20, 2025, 09:24 PM_
+A relative’s desperate search then fading hope after russian attack in western ukraine" }
+Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
+Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
+EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
+Europeans push back at us plan that would force concessions from ukraine" }
+Atdretahfunceni@{ shape: win-pane, label: "_Published Nov 20, 2025, 09:24 PM_
+A relative’s desperate search then fading hope after russian attack in western ukraine" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
+Explosions heard in ukraine capital kyiv, other cities" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
+Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+
+Dndprrhnnunc:::txtsize --> Tstia:::txtsize
+Tstia:::txtsize --> Zsarskbdaosb:::txtsize
+Zsarskbdaosb:::txtsize --> EeucStooosfke:::txtsize
+Zsarskbdaosb:::txtsize --> Atdretahfunceni:::txtsize
+Tstia:::txtsize --> Zsarskbdaosb:::txtsize
+Zsarskbdaosb:::txtsize --> EeucStooosfke:::txtsize
+Zsarskbdaosb:::txtsize --> Atdretahfunceni:::txtsize
+Dndprrhnnunc:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
+Eshiaalocs:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
+OaUuakaogrmc:::txtsize --> DsruasvUn:::txtsize
+
+Scictsos@{ shape: win-pane, label: "_Published Nov 22, 2025, 02:17 PM_
+Spain coal mine accident kills two workers" }
+Scialv@{ shape: win-pane, label: "_Published Mar 31, 2025, 07:46 PM_
+Spain coal mine blast kills five" }
+SAarearoeiie@{ shape: win-pane, label: "_Published Jan 16, 2025, 09:14 PM_
+South africa mine rescue ends, anger rises over 78 deaths in police siege" }
+SAashfawosemei@{ shape: win-pane, label: "_Published Jan 15, 2025, 03:38 PM_
+South africa accused of ‘horrific’ crackdown as 78 corpses pulled from besieged mine" }
+SAashfawosemei@{ shape: win-pane, label: "_Published Jan 15, 2025, 03:38 PM_
+South africa accused of ‘horrific’ crackdown as 78 corpses pulled from besieged mine" }
+Deirnlnnina@{ shape: win-pane, label: "_Published Mar 27, 2025, 05:00 PM_
+Deep-sea mining threatens sea life in a way no one is thinking about" }
+Terrlsnue@{ shape: win-pane, label: "_Published Dec 17, 2024, 06:00 PM_
+Trashed or treasure? will deep sea mining ruin oceans?" }
+Ernesstesccodrntos@{ shape: win-pane, label: "_Published Apr 15, 2024, 05:00 AM_
+Exploration of the deep sea has much to offer for science, but caution needed for mining of its resources" }
+CilesitVa@{ shape: win-pane, label: "_Published Jul 30, 2024, 10:49 AM_
+Coal mine collapse kills five in northern vietnam" }
+Teeaales@{ shape: win-pane, label: "_Published Mar 20, 2024, 06:42 PM_
+Twelve killed in pakistan coal mine explosion" }
+Oacfulonl@{ shape: win-pane, label: "_Published Mar 14, 2024, 06:25 AM_
+One dead, 29 rescued after australian gold mine collapse" }
+Khmserraes@{ shape: win-pane, label: "_Published Oct 29, 2023, 04:51 PM_
+Kazakhstan mourns 45 killed in arcelormittal mine disaster" }
+
+Scictsos:::txtsize --> Scialv:::txtsize
+Scialv:::txtsize --> SAarearoeiie:::txtsize
+SAarearoeiie:::txtsize --> SAashfawosemei:::txtsize
+SAarearoeiie:::txtsize --> SAashfawosemei:::txtsize
+Scialv:::txtsize --> Deirnlnnina:::txtsize
+Deirnlnnina:::txtsize --> Terrlsnue:::txtsize
+Deirnlnnina:::txtsize --> Ernesstesccodrntos:::txtsize
+Scictsos:::txtsize --> CilesitVa:::txtsize
+CilesitVa:::txtsize --> Teeaales:::txtsize
+Teeaales:::txtsize --> Oacfulonl:::txtsize
+Teeaales:::txtsize --> Khmserraes:::txtsize
+
+UcnrtgisgenpgaSe@{ shape: win-pane, label: "_Published Nov 22, 2025, 02:15 PM_
+Us education department using non-disclosure agreements in trump reorganisation: sources" }
+Taiteetanahp@{ shape: win-pane, label: "_Published Nov 21, 2025, 07:44 AM_
+Trump administration reshapes state department human rights report" }
+Bdpefincspsoah@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:13 AM_
+Behind trump’s defence of saudi crown prince lies a deeper us shift on human rights" }
+Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
+Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
+AkualawgiSAa@{ shape: win-pane, label: "_Published May 23, 2025, 07:20 AM_
+A check of trump’s false claims about white genocide in south africa" }
+Uhriithaaesr@{ shape: win-pane, label: "_Published Oct 21, 2025, 10:01 PM_
+Un rights work facing ‘existential threat’ amid targeted cuts: report" }
+Uepbtnirn@{ shape: win-pane, label: "_Published Sep 17, 2025, 07:54 AM_
+Un chief proposes 15% budget cut in 2026, cutting more than 2,000 jobs" }
+Uhfnsuala@{ shape: win-pane, label: "_Published May 16, 2025, 10:24 PM_
+Un rights office in ‘very serious’ financial situation" }
+Eietrafnl@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:35 AM_
+Epstein vote shatters trump’s aura of invincibility" }
 TwrutomyoaGe@{ shape: win-pane, label: "_Published Nov 15, 2025, 02:43 PM_
 Trump withdraws support for long-time ally marjorie taylor greene" }
 Lsounenonmr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:01 PM_
 Longest us govt shutdown is over but new showdowns loom for trump" }
-Tsdootveuns@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:48 AM_
-Trump signs deal to end longest us government shutdown in history" }
-TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
-Trump signs bill ordering us justice department to release epstein files" }
-Ugpsufrspnsitm@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:23 AM_
-Us congress passes measure to force release of epstein files, sending it to trump" }
-Therltsfwrons@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:55 AM_
-Trump has the power to release the epstein files, with or without congress" }
-Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
-Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
-Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
-Epstein files to be released to us public: what are they?" }
-ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
-After trump reversal, us house pushes forward on epstein vote" }
-TskeMewtco@{ shape: win-pane, label: "_Published Nov 18, 2025, 09:15 AM_
-Trump’s frankenstein? us maga meltdown tests its creator" }
 
-UmMryrtitaihp:::txtsize --> TwrutomyoaGe:::txtsize
+UcnrtgisgenpgaSe:::txtsize --> Taiteetanahp:::txtsize
+Taiteetanahp:::txtsize --> Bdpefincspsoah:::txtsize
+Bdpefincspsoah:::txtsize --> Tdddnersdiinst:::txtsize
+Bdpefincspsoah:::txtsize --> AkualawgiSAa:::txtsize
+Taiteetanahp:::txtsize --> Uhriithaaesr:::txtsize
+Uhriithaaesr:::txtsize --> Uepbtnirn:::txtsize
+Uhriithaaesr:::txtsize --> Uhfnsuala:::txtsize
+UcnrtgisgenpgaSe:::txtsize --> Eietrafnl:::txtsize
+Eietrafnl:::txtsize --> TwrutomyoaGe:::txtsize
 TwrutomyoaGe:::txtsize --> Lsounenonmr:::txtsize
-Lsounenonmr:::txtsize --> Tsdootveuns:::txtsize
-UmMryrtitaihp:::txtsize --> TsBrnuertlEie:::txtsize
-TsBrnuertlEie:::txtsize --> Ugpsufrspnsitm:::txtsize
-Ugpsufrspnsitm:::txtsize --> Therltsfwrons:::txtsize
-Ugpsufrspnsitm:::txtsize --> Tdddnersdiinst:::txtsize
-TsBrnuertlEie:::txtsize --> Eieeaobhe:::txtsize
-Eieeaobhe:::txtsize --> ATrsHpsaEie:::txtsize
-Eieeaobhe:::txtsize --> TskeMewtco:::txtsize
-
-Usrstnspalrie@{ shape: win-pane, label: "_Published Nov 22, 2025, 08:55 AM_
-Us coast guard says swastika and noose displays are no longer hate incidents" }
-Hrrnengfgtc@{ shape: win-pane, label: "_Published Oct 31, 2025, 12:42 AM_
-Hate-crime trial in sweden shines light on far-right ‘fitness clubs’" }
-VncnisdiUilps@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:05 PM_
-Violence, racism, and nazi praise: the dark side of us political group chats" }
-Tsanitwrske@{ shape: win-pane, label: "_Published Oct 22, 2025, 12:25 PM_
-Trump special counsel pick withdraws over ‘nazi streak’ comments" }
-Tsanitwrske@{ shape: win-pane, label: "_Published Oct 22, 2025, 12:25 PM_
-Trump special counsel pick withdraws over ‘nazi streak’ comments" }
-FgePsrceiccs@{ shape: win-pane, label: "_Published Oct 30, 2025, 11:25 PM_
-Far-right freedom party suffers shock reversal in dutch elections" }
-Eogsrwtttah@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:31 AM_
-Exit poll suggests centrists win dutch vote, beating far right" }
-Cibelotaosfoyrie@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:25 AM_
-Centrist rob jetten could become netherlands’ youngest and first openly gay prime minister" }
-Rwcsvuwasgz@{ shape: win-pane, label: "_Published Oct 06, 2025, 04:26 PM_
-Right-wing activists divide dublin with lamp-post flag blitz" }
-Inaoeigsrilo@{ shape: win-pane, label: "_Published Nov 26, 2024, 03:13 PM_
-Ireland’s tradition of welcoming migrants under strain in election" }
-Fnnitlokahee@{ shape: win-pane, label: "_Published Nov 06, 2023, 05:00 AM_
-From a nation of emigrants, ireland now working hard to host refugees" }
-IPkeicgmtogr@{ shape: win-pane, label: "_Published Nov 08, 2024, 10:03 PM_
-Irish pm kicks off election focusing on immigration, housing and trump" }
-Euosrlnhgos@{ shape: win-pane, label: "_Published Jul 11, 2025, 06:38 PM_
-Eu population hits record 450.4 million on another migration boost" }
-
-Usrstnspalrie:::txtsize --> Hrrnengfgtc:::txtsize
-Hrrnengfgtc:::txtsize --> VncnisdiUilps:::txtsize
-VncnisdiUilps:::txtsize --> Tsanitwrske:::txtsize
-VncnisdiUilps:::txtsize --> Tsanitwrske:::txtsize
-Hrrnengfgtc:::txtsize --> FgePsrceiccs:::txtsize
-FgePsrceiccs:::txtsize --> Eogsrwtttah:::txtsize
-FgePsrceiccs:::txtsize --> Cibelotaosfoyrie:::txtsize
-Usrstnspalrie:::txtsize --> Rwcsvuwasgz:::txtsize
-Rwcsvuwasgz:::txtsize --> Inaoeigsrilo:::txtsize
-Inaoeigsrilo:::txtsize --> Fnnitlokahee:::txtsize
-Inaoeigsrilo:::txtsize --> IPkeicgmtogr:::txtsize
-Rwcsvuwasgz:::txtsize --> Euosrlnhgos:::txtsize
-
-TwreptstiwCaloMn@{ shape: win-pane, label: "_Published Nov 22, 2025, 07:14 AM_
-Takeaways from the trump’s white house meeting with new york city mayor-elect zohran mamdani" }
-TcncoYaloMnhoeg@{ shape: win-pane, label: "_Published Nov 22, 2025, 04:54 AM_
-Trump commends victory of new york mayor-elect zohran mamdani at white house meeting" }
-ThuMnlmenekmae@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:15 PM_
-‘turn the volume up,’ mamdani tells trump after winning new york city mayoral race" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
-TarwsekaMn@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:10 AM_
-Trump aides review funds for new york city after mamdani win" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-Tcsbcaomhwes@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:55 AM_
-Trump claims ‘very big victory’ as us government shutdown vote nears" }
-TarwsekaMn@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:10 AM_
-Trump aides review funds for new york city after mamdani win" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
-Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
-Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
-Takeaways from us election night 2025" }
-Tcsbcaomhwes@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:55 AM_
-Trump claims ‘very big victory’ as us government shutdown vote nears" }
-Usuoinoeveun@{ shape: win-pane, label: "_Published Nov 12, 2025, 04:21 AM_
-Us house returns to washington for vote to end government shutdown" }
-Tttifolohwe@{ shape: win-pane, label: "_Published Nov 11, 2025, 08:14 AM_
-Trump threatens air traffic controllers over shutdown absences" }
-
-TwreptstiwCaloMn:::txtsize --> TcncoYaloMnhoeg:::txtsize
-TcncoYaloMnhoeg:::txtsize --> ThuMnlmenekmae:::txtsize
-ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
-ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
-TcncoYaloMnhoeg:::txtsize --> TarwsekaMn:::txtsize
-TarwsekaMn:::txtsize --> YMmnoihaiYilehpea:::txtsize
-TarwsekaMn:::txtsize --> Tcsbcaomhwes:::txtsize
-TwreptstiwCaloMn:::txtsize --> TarwsekaMn:::txtsize
-TarwsekaMn:::txtsize --> YMmnoihaiYilehpea:::txtsize
-YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
-YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
-TarwsekaMn:::txtsize --> Tcsbcaomhwes:::txtsize
-Tcsbcaomhwes:::txtsize --> Usuoinoeveun:::txtsize
-Tcsbcaomhwes:::txtsize --> Tttifolohwe:::txtsize
 
 ```
-<i>Last updated: 2025-11-22 12:00:36.910442 (GMT+8)</i>
+<i>Last updated: 2025-11-22 16:01:00.818701 (GMT+8)</i>
 <!-- END -->
