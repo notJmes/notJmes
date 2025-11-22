@@ -16,78 +16,138 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Cnatreuttl@{ shape: win-pane, label: "_Published Nov 22, 2025, 07:55 PM_
-‘carbonara sauce’ at eu parliament causes stir with italy" }
-IslouoUsgir@{ shape: win-pane, label: "_Published Jun 10, 2024, 05:18 AM_
-Italy’s pm meloni comes out on top in eu vote, strengthening her hand" }
-Fgvseiaantl@{ shape: win-pane, label: "_Published Jun 10, 2024, 08:00 AM_
-Far right advances in eu election, france calls snap national vote" }
-MnskccsrioLio@{ shape: win-pane, label: "_Published Jun 10, 2024, 04:23 AM_
-Macron calls shock french elections after far-right rout by le pen in eu vote" }
-MnskccsrioLio@{ shape: win-pane, label: "_Published Jun 10, 2024, 04:23 AM_
-Macron calls shock french elections after far-right rout by le pen in eu vote" }
-Fgvseiaantl@{ shape: win-pane, label: "_Published Jun 10, 2024, 08:00 AM_
-Far right advances in eu election, france calls snap national vote" }
-MnskccsrioLio@{ shape: win-pane, label: "_Published Jun 10, 2024, 04:23 AM_
-Macron calls shock french elections after far-right rout by le pen in eu vote" }
-MnskccsrioLio@{ shape: win-pane, label: "_Published Jun 10, 2024, 04:23 AM_
-Macron calls shock french elections after far-right rout by le pen in eu vote" }
+Unlyreufotclee@{ shape: win-pane, label: "_Published Nov 22, 2025, 11:55 PM_
+Ukraine’s zelensky orders defence audit after corruption scandal in energy sector" }
+CZslufetarc@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:54 AM_
+Close zelensky ally accused of orchestrating major graft scheme" }
+Unitcdrcsundst@{ shape: win-pane, label: "_Published Nov 11, 2025, 03:20 AM_
+Ukraine anti-graft agency raids energy sector as corruption stand-off escalates" }
+Rakreyknelgh@{ shape: win-pane, label: "_Published Oct 30, 2025, 09:46 PM_
+Russia strikes ukraine energy grid, killing seven, including one child" }
+Unscsreunroeore@{ shape: win-pane, label: "_Published Aug 03, 2025, 12:04 AM_
+Ukraine says it uncovers major drone procurement corruption scheme, 4 people arrested" }
+UnyIoieera@{ shape: win-pane, label: "_Published Sep 03, 2023, 11:00 AM_
+Ukrainian tycoon ihor kolomoisky detained in fraud case" }
+CpsartosUnly@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:15 PM_
+Corruption scandal, court battles pose test for ukraine’s zelensky" }
+UnpCeiaronhwmen@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:51 PM_
+Ukraine suspends cabinet minister as corruption scandal shakes wartime government" }
+CZslufetarc@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:54 AM_
+Close zelensky ally accused of orchestrating major graft scheme" }
+Zsvossssrrsgai@{ shape: win-pane, label: "_Published Jul 31, 2025, 10:39 PM_
+Zelensky, moving to defuse crisis, restores power of ukraine’s anti-graft agencies" }
+UnasnaRaa@{ shape: win-pane, label: "_Published Nov 09, 2025, 08:55 PM_
+Ukraine scrambles for energy after russian attacks" }
+Unnimruieusnoos@{ shape: win-pane, label: "_Published Nov 09, 2025, 01:25 PM_
+Ukraine drone strike temporarily cuts utilities in russia’s voronezh, governor says" }
+SdroisdshazaeaUn@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:53 AM_
+Second external power line restored at russian-held zaporizhzhia nuclear plant in ukraine" }
 
-Cnatreuttl:::txtsize --> IslouoUsgir:::txtsize
-IslouoUsgir:::txtsize --> Fgvseiaantl:::txtsize
-Fgvseiaantl:::txtsize --> MnskccsrioLio:::txtsize
-Fgvseiaantl:::txtsize --> MnskccsrioLio:::txtsize
-IslouoUsgir:::txtsize --> Fgvseiaantl:::txtsize
-Fgvseiaantl:::txtsize --> MnskccsrioLio:::txtsize
-Fgvseiaantl:::txtsize --> MnskccsrioLio:::txtsize
+Unlyreufotclee:::txtsize --> CZslufetarc:::txtsize
+CZslufetarc:::txtsize --> Unitcdrcsundst:::txtsize
+Unitcdrcsundst:::txtsize --> Rakreyknelgh:::txtsize
+Unitcdrcsundst:::txtsize --> Unscsreunroeore:::txtsize
+CZslufetarc:::txtsize --> UnyIoieera:::txtsize
+Unlyreufotclee:::txtsize --> CpsartosUnly:::txtsize
+CpsartosUnly:::txtsize --> UnpCeiaronhwmen:::txtsize
+UnpCeiaronhwmen:::txtsize --> CZslufetarc:::txtsize
+UnpCeiaronhwmen:::txtsize --> Zsvossssrrsgai:::txtsize
+CpsartosUnly:::txtsize --> UnasnaRaa:::txtsize
+UnasnaRaa:::txtsize --> Unnimruieusnoos:::txtsize
+UnasnaRaa:::txtsize --> SdroisdshazaeaUn:::txtsize
 
-DMwtsiaueh@{ shape: win-pane, label: "_Published Nov 22, 2025, 06:19 PM_
-Daily mail owner strikes $856 million deal to buy telegraph" }
-Tmwtehbaoauanwe@{ shape: win-pane, label: "_Published Oct 30, 2025, 11:00 AM_
-Tnp to merge with stomp; refreshed website aims to attract younger audience, new readers" }
-WoeehpfP@{ shape: win-pane, label: "_Published Oct 30, 2025, 11:00 AM_
-What does the merger with stomp mean for tnp?" }
-Twrfdae@{ shape: win-pane, label: "_Published Sep 20, 2021, 01:32 PM_
-The new paper to go fully digital after dec 10" }
-McrnaeuslaTk@{ shape: win-pane, label: "_Published Sep 23, 2025, 10:03 AM_
-Murdochs, burned on myspace, seek return to social media with tiktok" }
-TkrnelvkAe@{ shape: win-pane, label: "_Published Sep 17, 2025, 09:17 AM_
-Tiktok buyers to include oracle, silver lake and andreessen" }
-TsSbfk@{ shape: win-pane, label: "_Published Sep 16, 2025, 08:10 PM_
-Trump says us has a buyer for tiktok" }
-TkaSisltdd@{ shape: win-pane, label: "_Published Jul 09, 2025, 11:28 PM_
-Tiktok prepares us app with its own algorithm and user data" }
-LadilaaodrlivTkTs@{ shape: win-pane, label: "_Published Sep 22, 2025, 04:36 AM_
-Lachlan murdoch, michael dell and oracle co-founder larry ellison involved in tiktok deal, trump says" }
-Ricidhuhsrmeeige@{ shape: win-pane, label: "_Published Sep 09, 2025, 05:38 AM_
-Real-life succession ends: lachlan murdoch takes control of media empire and siblings take cash" }
-TsarolEioel@{ shape: win-pane, label: "_Published Jul 19, 2025, 05:39 AM_
-Trump sues wall street journal over epstein report, seeks $12.8 billion" }
+CtisesdlnUm@{ shape: win-pane, label: "_Published Nov 22, 2025, 11:07 PM_
+Climate activists dye venice’s grand canal green amid un summit" }
+Umupsoinnsril@{ shape: win-pane, label: "_Published Nov 22, 2025, 03:35 AM_
+Un climate summit pushes into overtime as nations clash over fossil fuels" }
+UehPerayfls@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:59 PM_
+Un chief pushes cop30 for deal on roadmap away from fossil fuels" }
+SlWicrtteOodoaa@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:15 AM_
+St explains: why is it tricky for countries to agree at cop30 on how to adapt to climate change?" }
+CracnntnPalrge@{ shape: win-pane, label: "_Published Nov 19, 2025, 09:30 PM_
+Countries’ lack of consensus on adaptation at cop30 climate talks worrying: grace fu" }
+Umuvizoaffa@{ shape: win-pane, label: "_Published Nov 21, 2025, 02:28 AM_
+Un climate summit venue in brazil reopens after fire: officials" }
+Psftwtstehsi@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:26 AM_
+Protesters force their way into cop30 summit venue, clash with security" }
+UehPerayfls@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:59 PM_
+Un chief pushes cop30 for deal on roadmap away from fossil fuels" }
+Umuvizoaffa@{ shape: win-pane, label: "_Published Nov 21, 2025, 02:28 AM_
+Un climate summit venue in brazil reopens after fire: officials" }
+Psftwtstehsi@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:26 AM_
+Protesters force their way into cop30 summit venue, clash with security" }
+FhehzdoabtddNamO@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:16 AM_
+From the andes to the amazon, indigenous leaders bring their demands to un climate summit cop30" }
+AoiznBuAndse@{ shape: win-pane, label: "_Published Nov 11, 2025, 09:55 AM_
+As cop30 opens in brazilian city belem, urban amazon residents swelter" }
+UehPerayfls@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:59 PM_
+Un chief pushes cop30 for deal on roadmap away from fossil fuels" }
+SlWicrtteOodoaa@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:15 AM_
+St explains: why is it tricky for countries to agree at cop30 on how to adapt to climate change?" }
+CracnntnPalrge@{ shape: win-pane, label: "_Published Nov 19, 2025, 09:30 PM_
+Countries’ lack of consensus on adaptation at cop30 climate talks worrying: grace fu" }
 
-DMwtsiaueh:::txtsize --> Tmwtehbaoauanwe:::txtsize
-Tmwtehbaoauanwe:::txtsize --> WoeehpfP:::txtsize
-WoeehpfP:::txtsize --> Twrfdae:::txtsize
-DMwtsiaueh:::txtsize --> McrnaeuslaTk:::txtsize
-McrnaeuslaTk:::txtsize --> TkrnelvkAe:::txtsize
-TkrnelvkAe:::txtsize --> TsSbfk:::txtsize
-TkrnelvkAe:::txtsize --> TkaSisltdd:::txtsize
-McrnaeuslaTk:::txtsize --> LadilaaodrlivTkTs:::txtsize
-LadilaaodrlivTkTs:::txtsize --> Ricidhuhsrmeeige:::txtsize
-LadilaaodrlivTkTs:::txtsize --> TsarolEioel:::txtsize
+CtisesdlnUm:::txtsize --> Umupsoinnsril:::txtsize
+Umupsoinnsril:::txtsize --> UehPerayfls:::txtsize
+UehPerayfls:::txtsize --> SlWicrtteOodoaa:::txtsize
+UehPerayfls:::txtsize --> CracnntnPalrge:::txtsize
+Umupsoinnsril:::txtsize --> Umuvizoaffa:::txtsize
+Umuvizoaffa:::txtsize --> Psftwtstehsi:::txtsize
+Umuvizoaffa:::txtsize --> UehPerayfls:::txtsize
+CtisesdlnUm:::txtsize --> Umuvizoaffa:::txtsize
+Umuvizoaffa:::txtsize --> Psftwtstehsi:::txtsize
+Psftwtstehsi:::txtsize --> FhehzdoabtddNamO:::txtsize
+Psftwtstehsi:::txtsize --> AoiznBuAndse:::txtsize
+Umuvizoaffa:::txtsize --> UehPerayfls:::txtsize
+UehPerayfls:::txtsize --> SlWicrtteOodoaa:::txtsize
+UehPerayfls:::txtsize --> CracnntnPalrge:::txtsize
 
-Blmensonfaislr@{ shape: win-pane, label: "_Published Nov 22, 2025, 06:19 PM_
-Brazil’s former president bolsonaro taken into federal police custody, lawyer says" }
-Blmensonfaislr@{ shape: win-pane, label: "_Published Nov 22, 2025, 06:19 PM_
-Brazil’s former president bolsonaro taken into federal police custody, lawyer says" }
-Blmensonfaislr@{ shape: win-pane, label: "_Published Nov 22, 2025, 06:19 PM_
-Brazil’s former president bolsonaro taken into federal police custody, lawyer says" }
-Blmensonfaislr@{ shape: win-pane, label: "_Published Nov 22, 2025, 06:19 PM_
-Brazil’s former president bolsonaro taken into federal police custody, lawyer says" }
+Citizanvlcy@{ shape: win-pane, label: "_Published Nov 22, 2025, 10:49 PM_
+Cop30 climate talks in brazil reach tentative deal, sources say" }
+SpoldtvtgotiteGF@{ shape: win-pane, label: "_Published Nov 22, 2025, 06:15 PM_
+Singapore hopeful for a deal at cop30 even as talks go into overtime without agreement: grace fu" }
+Cistotsoesedn@{ shape: win-pane, label: "_Published Nov 21, 2025, 05:40 PM_
+Cop30 climate summit set for last-gasp showdown over fossil fuels and finance" }
+UehPerayfls@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:59 PM_
+Un chief pushes cop30 for deal on roadmap away from fossil fuels" }
+SlWicrtteOodoaa@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:15 AM_
+St explains: why is it tricky for countries to agree at cop30 on how to adapt to climate change?" }
+SlWewsatbtist@{ shape: win-pane, label: "_Published Nov 03, 2025, 05:00 AM_
+St explains: why are renewables not easy to talk about at un climate summits?" }
+WffkemoN@{ shape: win-pane, label: "_Published Oct 28, 2025, 05:25 PM_
+World far off track to meet climate goals: un" }
+Cueerranthof@{ shape: win-pane, label: "_Published Dec 02, 2023, 03:17 PM_
+Cop28: 118 countries agree to triple renewable energy to push out fossil fuels" }
+SpoldtvtgotiteGF@{ shape: win-pane, label: "_Published Nov 22, 2025, 06:15 PM_
+Singapore hopeful for a deal at cop30 even as talks go into overtime without agreement: grace fu" }
+Cistotsoesedn@{ shape: win-pane, label: "_Published Nov 21, 2025, 05:40 PM_
+Cop30 climate summit set for last-gasp showdown over fossil fuels and finance" }
+UehPerayfls@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:59 PM_
+Un chief pushes cop30 for deal on roadmap away from fossil fuels" }
+SlWicrtteOodoaa@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:15 AM_
+St explains: why is it tricky for countries to agree at cop30 on how to adapt to climate change?" }
+SlWewsatbtist@{ shape: win-pane, label: "_Published Nov 03, 2025, 05:00 AM_
+St explains: why are renewables not easy to talk about at un climate summits?" }
+WffkemoN@{ shape: win-pane, label: "_Published Oct 28, 2025, 05:25 PM_
+World far off track to meet climate goals: un" }
+Cueerranthof@{ shape: win-pane, label: "_Published Dec 02, 2023, 03:17 PM_
+Cop28: 118 countries agree to triple renewable energy to push out fossil fuels" }
 
-Blmensonfaislr:::txtsize --> Blmensonfaislr:::txtsize
-Blmensonfaislr:::txtsize --> Blmensonfaislr:::txtsize
-Blmensonfaislr:::txtsize --> Blmensonfaislr:::txtsize
+Citizanvlcy:::txtsize --> SpoldtvtgotiteGF:::txtsize
+SpoldtvtgotiteGF:::txtsize --> Cistotsoesedn:::txtsize
+Cistotsoesedn:::txtsize --> UehPerayfls:::txtsize
+Cistotsoesedn:::txtsize --> SlWicrtteOodoaa:::txtsize
+SpoldtvtgotiteGF:::txtsize --> SlWewsatbtist:::txtsize
+SlWewsatbtist:::txtsize --> WffkemoN:::txtsize
+SlWewsatbtist:::txtsize --> Cueerranthof:::txtsize
+Citizanvlcy:::txtsize --> SpoldtvtgotiteGF:::txtsize
+SpoldtvtgotiteGF:::txtsize --> Cistotsoesedn:::txtsize
+Cistotsoesedn:::txtsize --> UehPerayfls:::txtsize
+Cistotsoesedn:::txtsize --> SlWicrtteOodoaa:::txtsize
+SpoldtvtgotiteGF:::txtsize --> SlWewsatbtist:::txtsize
+SlWewsatbtist:::txtsize --> WffkemoN:::txtsize
+SlWewsatbtist:::txtsize --> Cueerranthof:::txtsize
 
 ```
-<i>Last updated: 2025-11-22 20:00:25.273290 (GMT+8)</i>
+<i>Last updated: 2025-11-23 00:00:51.364150 (GMT+8)</i>
 <!-- END -->
