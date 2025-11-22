@@ -16,117 +16,78 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Dndprrhnnunc@{ shape: win-pane, label: "_Published Nov 22, 2025, 03:19 PM_
-Dark and cold, kyiv prepares for another winter under russian attack" }
-Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
-Trump’s 28-point ukraine plan" }
-Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
-Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
-EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
-Europeans push back at us plan that would force concessions from ukraine" }
-Atdretahfunceni@{ shape: win-pane, label: "_Published Nov 20, 2025, 09:24 PM_
-A relative’s desperate search then fading hope after russian attack in western ukraine" }
-Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
-Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
-EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
-Europeans push back at us plan that would force concessions from ukraine" }
-Atdretahfunceni@{ shape: win-pane, label: "_Published Nov 20, 2025, 09:24 PM_
-A relative’s desperate search then fading hope after russian attack in western ukraine" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
-Explosions heard in ukraine capital kyiv, other cities" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
-Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
+Cnatreuttl@{ shape: win-pane, label: "_Published Nov 22, 2025, 07:55 PM_
+‘carbonara sauce’ at eu parliament causes stir with italy" }
+IslouoUsgir@{ shape: win-pane, label: "_Published Jun 10, 2024, 05:18 AM_
+Italy’s pm meloni comes out on top in eu vote, strengthening her hand" }
+Fgvseiaantl@{ shape: win-pane, label: "_Published Jun 10, 2024, 08:00 AM_
+Far right advances in eu election, france calls snap national vote" }
+MnskccsrioLio@{ shape: win-pane, label: "_Published Jun 10, 2024, 04:23 AM_
+Macron calls shock french elections after far-right rout by le pen in eu vote" }
+MnskccsrioLio@{ shape: win-pane, label: "_Published Jun 10, 2024, 04:23 AM_
+Macron calls shock french elections after far-right rout by le pen in eu vote" }
+Fgvseiaantl@{ shape: win-pane, label: "_Published Jun 10, 2024, 08:00 AM_
+Far right advances in eu election, france calls snap national vote" }
+MnskccsrioLio@{ shape: win-pane, label: "_Published Jun 10, 2024, 04:23 AM_
+Macron calls shock french elections after far-right rout by le pen in eu vote" }
+MnskccsrioLio@{ shape: win-pane, label: "_Published Jun 10, 2024, 04:23 AM_
+Macron calls shock french elections after far-right rout by le pen in eu vote" }
 
-Dndprrhnnunc:::txtsize --> Tstia:::txtsize
-Tstia:::txtsize --> Zsarskbdaosb:::txtsize
-Zsarskbdaosb:::txtsize --> EeucStooosfke:::txtsize
-Zsarskbdaosb:::txtsize --> Atdretahfunceni:::txtsize
-Tstia:::txtsize --> Zsarskbdaosb:::txtsize
-Zsarskbdaosb:::txtsize --> EeucStooosfke:::txtsize
-Zsarskbdaosb:::txtsize --> Atdretahfunceni:::txtsize
-Dndprrhnnunc:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
-Eshiaalocs:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
-OaUuakaogrmc:::txtsize --> DsruasvUn:::txtsize
+Cnatreuttl:::txtsize --> IslouoUsgir:::txtsize
+IslouoUsgir:::txtsize --> Fgvseiaantl:::txtsize
+Fgvseiaantl:::txtsize --> MnskccsrioLio:::txtsize
+Fgvseiaantl:::txtsize --> MnskccsrioLio:::txtsize
+IslouoUsgir:::txtsize --> Fgvseiaantl:::txtsize
+Fgvseiaantl:::txtsize --> MnskccsrioLio:::txtsize
+Fgvseiaantl:::txtsize --> MnskccsrioLio:::txtsize
 
-Scictsos@{ shape: win-pane, label: "_Published Nov 22, 2025, 02:17 PM_
-Spain coal mine accident kills two workers" }
-Scialv@{ shape: win-pane, label: "_Published Mar 31, 2025, 07:46 PM_
-Spain coal mine blast kills five" }
-SAarearoeiie@{ shape: win-pane, label: "_Published Jan 16, 2025, 09:14 PM_
-South africa mine rescue ends, anger rises over 78 deaths in police siege" }
-SAashfawosemei@{ shape: win-pane, label: "_Published Jan 15, 2025, 03:38 PM_
-South africa accused of ‘horrific’ crackdown as 78 corpses pulled from besieged mine" }
-SAashfawosemei@{ shape: win-pane, label: "_Published Jan 15, 2025, 03:38 PM_
-South africa accused of ‘horrific’ crackdown as 78 corpses pulled from besieged mine" }
-Deirnlnnina@{ shape: win-pane, label: "_Published Mar 27, 2025, 05:00 PM_
-Deep-sea mining threatens sea life in a way no one is thinking about" }
-Terrlsnue@{ shape: win-pane, label: "_Published Dec 17, 2024, 06:00 PM_
-Trashed or treasure? will deep sea mining ruin oceans?" }
-Ernesstesccodrntos@{ shape: win-pane, label: "_Published Apr 15, 2024, 05:00 AM_
-Exploration of the deep sea has much to offer for science, but caution needed for mining of its resources" }
-CilesitVa@{ shape: win-pane, label: "_Published Jul 30, 2024, 10:49 AM_
-Coal mine collapse kills five in northern vietnam" }
-Teeaales@{ shape: win-pane, label: "_Published Mar 20, 2024, 06:42 PM_
-Twelve killed in pakistan coal mine explosion" }
-Oacfulonl@{ shape: win-pane, label: "_Published Mar 14, 2024, 06:25 AM_
-One dead, 29 rescued after australian gold mine collapse" }
-Khmserraes@{ shape: win-pane, label: "_Published Oct 29, 2023, 04:51 PM_
-Kazakhstan mourns 45 killed in arcelormittal mine disaster" }
+DMwtsiaueh@{ shape: win-pane, label: "_Published Nov 22, 2025, 06:19 PM_
+Daily mail owner strikes $856 million deal to buy telegraph" }
+Tmwtehbaoauanwe@{ shape: win-pane, label: "_Published Oct 30, 2025, 11:00 AM_
+Tnp to merge with stomp; refreshed website aims to attract younger audience, new readers" }
+WoeehpfP@{ shape: win-pane, label: "_Published Oct 30, 2025, 11:00 AM_
+What does the merger with stomp mean for tnp?" }
+Twrfdae@{ shape: win-pane, label: "_Published Sep 20, 2021, 01:32 PM_
+The new paper to go fully digital after dec 10" }
+McrnaeuslaTk@{ shape: win-pane, label: "_Published Sep 23, 2025, 10:03 AM_
+Murdochs, burned on myspace, seek return to social media with tiktok" }
+TkrnelvkAe@{ shape: win-pane, label: "_Published Sep 17, 2025, 09:17 AM_
+Tiktok buyers to include oracle, silver lake and andreessen" }
+TsSbfk@{ shape: win-pane, label: "_Published Sep 16, 2025, 08:10 PM_
+Trump says us has a buyer for tiktok" }
+TkaSisltdd@{ shape: win-pane, label: "_Published Jul 09, 2025, 11:28 PM_
+Tiktok prepares us app with its own algorithm and user data" }
+LadilaaodrlivTkTs@{ shape: win-pane, label: "_Published Sep 22, 2025, 04:36 AM_
+Lachlan murdoch, michael dell and oracle co-founder larry ellison involved in tiktok deal, trump says" }
+Ricidhuhsrmeeige@{ shape: win-pane, label: "_Published Sep 09, 2025, 05:38 AM_
+Real-life succession ends: lachlan murdoch takes control of media empire and siblings take cash" }
+TsarolEioel@{ shape: win-pane, label: "_Published Jul 19, 2025, 05:39 AM_
+Trump sues wall street journal over epstein report, seeks $12.8 billion" }
 
-Scictsos:::txtsize --> Scialv:::txtsize
-Scialv:::txtsize --> SAarearoeiie:::txtsize
-SAarearoeiie:::txtsize --> SAashfawosemei:::txtsize
-SAarearoeiie:::txtsize --> SAashfawosemei:::txtsize
-Scialv:::txtsize --> Deirnlnnina:::txtsize
-Deirnlnnina:::txtsize --> Terrlsnue:::txtsize
-Deirnlnnina:::txtsize --> Ernesstesccodrntos:::txtsize
-Scictsos:::txtsize --> CilesitVa:::txtsize
-CilesitVa:::txtsize --> Teeaales:::txtsize
-Teeaales:::txtsize --> Oacfulonl:::txtsize
-Teeaales:::txtsize --> Khmserraes:::txtsize
+DMwtsiaueh:::txtsize --> Tmwtehbaoauanwe:::txtsize
+Tmwtehbaoauanwe:::txtsize --> WoeehpfP:::txtsize
+WoeehpfP:::txtsize --> Twrfdae:::txtsize
+DMwtsiaueh:::txtsize --> McrnaeuslaTk:::txtsize
+McrnaeuslaTk:::txtsize --> TkrnelvkAe:::txtsize
+TkrnelvkAe:::txtsize --> TsSbfk:::txtsize
+TkrnelvkAe:::txtsize --> TkaSisltdd:::txtsize
+McrnaeuslaTk:::txtsize --> LadilaaodrlivTkTs:::txtsize
+LadilaaodrlivTkTs:::txtsize --> Ricidhuhsrmeeige:::txtsize
+LadilaaodrlivTkTs:::txtsize --> TsarolEioel:::txtsize
 
-UcnrtgisgenpgaSe@{ shape: win-pane, label: "_Published Nov 22, 2025, 02:15 PM_
-Us education department using non-disclosure agreements in trump reorganisation: sources" }
-Taiteetanahp@{ shape: win-pane, label: "_Published Nov 21, 2025, 07:44 AM_
-Trump administration reshapes state department human rights report" }
-Bdpefincspsoah@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:13 AM_
-Behind trump’s defence of saudi crown prince lies a deeper us shift on human rights" }
-Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
-Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
-AkualawgiSAa@{ shape: win-pane, label: "_Published May 23, 2025, 07:20 AM_
-A check of trump’s false claims about white genocide in south africa" }
-Uhriithaaesr@{ shape: win-pane, label: "_Published Oct 21, 2025, 10:01 PM_
-Un rights work facing ‘existential threat’ amid targeted cuts: report" }
-Uepbtnirn@{ shape: win-pane, label: "_Published Sep 17, 2025, 07:54 AM_
-Un chief proposes 15% budget cut in 2026, cutting more than 2,000 jobs" }
-Uhfnsuala@{ shape: win-pane, label: "_Published May 16, 2025, 10:24 PM_
-Un rights office in ‘very serious’ financial situation" }
-Eietrafnl@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:35 AM_
-Epstein vote shatters trump’s aura of invincibility" }
-TwrutomyoaGe@{ shape: win-pane, label: "_Published Nov 15, 2025, 02:43 PM_
-Trump withdraws support for long-time ally marjorie taylor greene" }
-Lsounenonmr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:01 PM_
-Longest us govt shutdown is over but new showdowns loom for trump" }
+Blmensonfaislr@{ shape: win-pane, label: "_Published Nov 22, 2025, 06:19 PM_
+Brazil’s former president bolsonaro taken into federal police custody, lawyer says" }
+Blmensonfaislr@{ shape: win-pane, label: "_Published Nov 22, 2025, 06:19 PM_
+Brazil’s former president bolsonaro taken into federal police custody, lawyer says" }
+Blmensonfaislr@{ shape: win-pane, label: "_Published Nov 22, 2025, 06:19 PM_
+Brazil’s former president bolsonaro taken into federal police custody, lawyer says" }
+Blmensonfaislr@{ shape: win-pane, label: "_Published Nov 22, 2025, 06:19 PM_
+Brazil’s former president bolsonaro taken into federal police custody, lawyer says" }
 
-UcnrtgisgenpgaSe:::txtsize --> Taiteetanahp:::txtsize
-Taiteetanahp:::txtsize --> Bdpefincspsoah:::txtsize
-Bdpefincspsoah:::txtsize --> Tdddnersdiinst:::txtsize
-Bdpefincspsoah:::txtsize --> AkualawgiSAa:::txtsize
-Taiteetanahp:::txtsize --> Uhriithaaesr:::txtsize
-Uhriithaaesr:::txtsize --> Uepbtnirn:::txtsize
-Uhriithaaesr:::txtsize --> Uhfnsuala:::txtsize
-UcnrtgisgenpgaSe:::txtsize --> Eietrafnl:::txtsize
-Eietrafnl:::txtsize --> TwrutomyoaGe:::txtsize
-TwrutomyoaGe:::txtsize --> Lsounenonmr:::txtsize
+Blmensonfaislr:::txtsize --> Blmensonfaislr:::txtsize
+Blmensonfaislr:::txtsize --> Blmensonfaislr:::txtsize
+Blmensonfaislr:::txtsize --> Blmensonfaislr:::txtsize
 
 ```
-<i>Last updated: 2025-11-22 16:01:00.818701 (GMT+8)</i>
+<i>Last updated: 2025-11-22 20:00:25.273290 (GMT+8)</i>
 <!-- END -->
