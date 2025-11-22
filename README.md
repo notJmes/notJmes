@@ -16,78 +16,96 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Glrcasldesund@{ shape: win-pane, label: "_Published Nov 22, 2025, 07:05 AM_
-Grizzly bear attack on canada school children leaves 4 seriously injured" }
-MolooooariSteriea@{ shape: win-pane, label: "_Published Sep 26, 2025, 04:45 PM_
-Make yourself at home: drone footage of polar bears living in soviet-era weather station goes viral" }
-Teiiosorhrs@{ shape: win-pane, label: "_Published Jul 22, 2025, 10:58 AM_
-The eye-opening science of close encounters with polar bears" }
-PbiehgAcus@{ shape: win-pane, label: "_Published May 19, 2025, 02:40 PM_
-Polar bear biopsies to shed light on arctic pollutants" }
-Pbsgtpoietr@{ shape: win-pane, label: "_Published Feb 14, 2024, 01:15 AM_
-Polar bears struggling to adapt to longer ice-free arctic periods" }
-Pbsgtpoietr@{ shape: win-pane, label: "_Published Feb 14, 2024, 01:15 AM_
-Polar bears struggling to adapt to longer ice-free arctic periods" }
+UmMryrtitaihp@{ shape: win-pane, label: "_Published Nov 22, 2025, 10:04 AM_
+Us lawmaker marjorie taylor greene to resign after spat, split with trump" }
+TwrutomyoaGe@{ shape: win-pane, label: "_Published Nov 15, 2025, 02:43 PM_
+Trump withdraws support for long-time ally marjorie taylor greene" }
+Lsounenonmr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:01 PM_
+Longest us govt shutdown is over but new showdowns loom for trump" }
+Tsdootveuns@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:48 AM_
+Trump signs deal to end longest us government shutdown in history" }
+TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
+Trump signs bill ordering us justice department to release epstein files" }
+Ugpsufrspnsitm@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:23 AM_
+Us congress passes measure to force release of epstein files, sending it to trump" }
+Therltsfwrons@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:55 AM_
+Trump has the power to release the epstein files, with or without congress" }
+Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
+Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
+Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
+Epstein files to be released to us public: what are they?" }
+ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
+After trump reversal, us house pushes forward on epstein vote" }
+TskeMewtco@{ shape: win-pane, label: "_Published Nov 18, 2025, 09:15 AM_
+Trump’s frankenstein? us maga meltdown tests its creator" }
 
-Glrcasldesund:::txtsize --> MolooooariSteriea:::txtsize
-MolooooariSteriea:::txtsize --> Teiiosorhrs:::txtsize
-Teiiosorhrs:::txtsize --> PbiehgAcus:::txtsize
-Teiiosorhrs:::txtsize --> Pbsgtpoietr:::txtsize
-MolooooariSteriea:::txtsize --> Pbsgtpoietr:::txtsize
+UmMryrtitaihp:::txtsize --> TwrutomyoaGe:::txtsize
+TwrutomyoaGe:::txtsize --> Lsounenonmr:::txtsize
+Lsounenonmr:::txtsize --> Tsdootveuns:::txtsize
+UmMryrtitaihp:::txtsize --> TsBrnuertlEie:::txtsize
+TsBrnuertlEie:::txtsize --> Ugpsufrspnsitm:::txtsize
+Ugpsufrspnsitm:::txtsize --> Therltsfwrons:::txtsize
+Ugpsufrspnsitm:::txtsize --> Tdddnersdiinst:::txtsize
+TsBrnuertlEie:::txtsize --> Eieeaobhe:::txtsize
+Eieeaobhe:::txtsize --> ATrsHpsaEie:::txtsize
+Eieeaobhe:::txtsize --> TskeMewtco:::txtsize
 
-WYresemhiN@{ shape: win-pane, label: "_Published Nov 22, 2025, 06:20 AM_
-While you were sleeping: 5 stories you might have missed, nov 22, 2025" }
-Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
-Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
-Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
-Trump’s 28-point ukraine plan" }
-Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
-Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
-Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
-Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
-Umupsoinnsril@{ shape: win-pane, label: "_Published Nov 22, 2025, 03:35 AM_
-Un climate summit pushes into overtime as nations clash over fossil fuels" }
-UehPerayfls@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:59 PM_
-Un chief pushes cop30 for deal on roadmap away from fossil fuels" }
-SlWicrtteOodoaa@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:15 AM_
-St explains: why is it tricky for countries to agree at cop30 on how to adapt to climate change?" }
-CracnntnPalrge@{ shape: win-pane, label: "_Published Nov 19, 2025, 09:30 PM_
-Countries’ lack of consensus on adaptation at cop30 climate talks worrying: grace fu" }
-Umuvizoaffa@{ shape: win-pane, label: "_Published Nov 21, 2025, 02:28 AM_
-Un climate summit venue in brazil reopens after fire: officials" }
-Psftwtstehsi@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:26 AM_
-Protesters force their way into cop30 summit venue, clash with security" }
-UehPerayfls@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:59 PM_
-Un chief pushes cop30 for deal on roadmap away from fossil fuels" }
+Usrstnspalrie@{ shape: win-pane, label: "_Published Nov 22, 2025, 08:55 AM_
+Us coast guard says swastika and noose displays are no longer hate incidents" }
+Hrrnengfgtc@{ shape: win-pane, label: "_Published Oct 31, 2025, 12:42 AM_
+Hate-crime trial in sweden shines light on far-right ‘fitness clubs’" }
+VncnisdiUilps@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:05 PM_
+Violence, racism, and nazi praise: the dark side of us political group chats" }
+Tsanitwrske@{ shape: win-pane, label: "_Published Oct 22, 2025, 12:25 PM_
+Trump special counsel pick withdraws over ‘nazi streak’ comments" }
+Tsanitwrske@{ shape: win-pane, label: "_Published Oct 22, 2025, 12:25 PM_
+Trump special counsel pick withdraws over ‘nazi streak’ comments" }
+FgePsrceiccs@{ shape: win-pane, label: "_Published Oct 30, 2025, 11:25 PM_
+Far-right freedom party suffers shock reversal in dutch elections" }
+Eogsrwtttah@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:31 AM_
+Exit poll suggests centrists win dutch vote, beating far right" }
+Cibelotaosfoyrie@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:25 AM_
+Centrist rob jetten could become netherlands’ youngest and first openly gay prime minister" }
+Rwcsvuwasgz@{ shape: win-pane, label: "_Published Oct 06, 2025, 04:26 PM_
+Right-wing activists divide dublin with lamp-post flag blitz" }
+Inaoeigsrilo@{ shape: win-pane, label: "_Published Nov 26, 2024, 03:13 PM_
+Ireland’s tradition of welcoming migrants under strain in election" }
+Fnnitlokahee@{ shape: win-pane, label: "_Published Nov 06, 2023, 05:00 AM_
+From a nation of emigrants, ireland now working hard to host refugees" }
+IPkeicgmtogr@{ shape: win-pane, label: "_Published Nov 08, 2024, 10:03 PM_
+Irish pm kicks off election focusing on immigration, housing and trump" }
+Euosrlnhgos@{ shape: win-pane, label: "_Published Jul 11, 2025, 06:38 PM_
+Eu population hits record 450.4 million on another migration boost" }
 
-WYresemhiN:::txtsize --> Uneftcrespepp:::txtsize
-Uneftcrespepp:::txtsize --> Tstia:::txtsize
-Tstia:::txtsize --> Zsarskbdaosb:::txtsize
-Tstia:::txtsize --> Zsarskbdaosb:::txtsize
-WYresemhiN:::txtsize --> Umupsoinnsril:::txtsize
-Umupsoinnsril:::txtsize --> UehPerayfls:::txtsize
-UehPerayfls:::txtsize --> SlWicrtteOodoaa:::txtsize
-UehPerayfls:::txtsize --> CracnntnPalrge:::txtsize
-Umupsoinnsril:::txtsize --> Umuvizoaffa:::txtsize
-Umuvizoaffa:::txtsize --> Psftwtstehsi:::txtsize
-Umuvizoaffa:::txtsize --> UehPerayfls:::txtsize
+Usrstnspalrie:::txtsize --> Hrrnengfgtc:::txtsize
+Hrrnengfgtc:::txtsize --> VncnisdiUilps:::txtsize
+VncnisdiUilps:::txtsize --> Tsanitwrske:::txtsize
+VncnisdiUilps:::txtsize --> Tsanitwrske:::txtsize
+Hrrnengfgtc:::txtsize --> FgePsrceiccs:::txtsize
+FgePsrceiccs:::txtsize --> Eogsrwtttah:::txtsize
+FgePsrceiccs:::txtsize --> Cibelotaosfoyrie:::txtsize
+Usrstnspalrie:::txtsize --> Rwcsvuwasgz:::txtsize
+Rwcsvuwasgz:::txtsize --> Inaoeigsrilo:::txtsize
+Inaoeigsrilo:::txtsize --> Fnnitlokahee:::txtsize
+Inaoeigsrilo:::txtsize --> IPkeicgmtogr:::txtsize
+Rwcsvuwasgz:::txtsize --> Euosrlnhgos:::txtsize
 
+TwreptstiwCaloMn@{ shape: win-pane, label: "_Published Nov 22, 2025, 07:14 AM_
+Takeaways from the trump’s white house meeting with new york city mayor-elect zohran mamdani" }
 TcncoYaloMnhoeg@{ shape: win-pane, label: "_Published Nov 22, 2025, 04:54 AM_
 Trump commends victory of new york mayor-elect zohran mamdani at white house meeting" }
 ThuMnlmenekmae@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:15 PM_
 ‘turn the volume up,’ mamdani tells trump after winning new york city mayoral race" }
 Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
 Democrats sweep first major elections of second trump term" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
-Cuomo to stay in new york mayoral race despite losing democratic primary" }
 Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
 Democrats sweep first major elections of second trump term" }
+TarwsekaMn@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:10 AM_
+Trump aides review funds for new york city after mamdani win" }
 YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
 Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
-Cuomo to stay in new york mayoral race despite losing democratic primary" }
+Tcsbcaomhwes@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:55 AM_
+Trump claims ‘very big victory’ as us government shutdown vote nears" }
 TarwsekaMn@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:10 AM_
 Trump aides review funds for new york city after mamdani win" }
 YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
@@ -103,14 +121,14 @@ Us house returns to washington for vote to end government shutdown" }
 Tttifolohwe@{ shape: win-pane, label: "_Published Nov 11, 2025, 08:14 AM_
 Trump threatens air traffic controllers over shutdown absences" }
 
+TwreptstiwCaloMn:::txtsize --> TcncoYaloMnhoeg:::txtsize
 TcncoYaloMnhoeg:::txtsize --> ThuMnlmenekmae:::txtsize
 ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
-Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
-Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
 ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
-Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
-Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
 TcncoYaloMnhoeg:::txtsize --> TarwsekaMn:::txtsize
+TarwsekaMn:::txtsize --> YMmnoihaiYilehpea:::txtsize
+TarwsekaMn:::txtsize --> Tcsbcaomhwes:::txtsize
+TwreptstiwCaloMn:::txtsize --> TarwsekaMn:::txtsize
 TarwsekaMn:::txtsize --> YMmnoihaiYilehpea:::txtsize
 YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
 YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
@@ -119,5 +137,5 @@ Tcsbcaomhwes:::txtsize --> Usuoinoeveun:::txtsize
 Tcsbcaomhwes:::txtsize --> Tttifolohwe:::txtsize
 
 ```
-<i>Last updated: 2025-11-22 08:01:11.163663 (GMT+8)</i>
+<i>Last updated: 2025-11-22 12:00:36.910442 (GMT+8)</i>
 <!-- END -->
