@@ -16,138 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Unlyreufotclee@{ shape: win-pane, label: "_Published Nov 22, 2025, 11:55 PM_
-Ukraine’s zelensky orders defence audit after corruption scandal in energy sector" }
-CZslufetarc@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:54 AM_
-Close zelensky ally accused of orchestrating major graft scheme" }
-Unitcdrcsundst@{ shape: win-pane, label: "_Published Nov 11, 2025, 03:20 AM_
-Ukraine anti-graft agency raids energy sector as corruption stand-off escalates" }
-Rakreyknelgh@{ shape: win-pane, label: "_Published Oct 30, 2025, 09:46 PM_
-Russia strikes ukraine energy grid, killing seven, including one child" }
-Unscsreunroeore@{ shape: win-pane, label: "_Published Aug 03, 2025, 12:04 AM_
-Ukraine says it uncovers major drone procurement corruption scheme, 4 people arrested" }
-UnyIoieera@{ shape: win-pane, label: "_Published Sep 03, 2023, 11:00 AM_
-Ukrainian tycoon ihor kolomoisky detained in fraud case" }
-CpsartosUnly@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:15 PM_
-Corruption scandal, court battles pose test for ukraine’s zelensky" }
-UnpCeiaronhwmen@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:51 PM_
-Ukraine suspends cabinet minister as corruption scandal shakes wartime government" }
-CZslufetarc@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:54 AM_
-Close zelensky ally accused of orchestrating major graft scheme" }
-Zsvossssrrsgai@{ shape: win-pane, label: "_Published Jul 31, 2025, 10:39 PM_
-Zelensky, moving to defuse crisis, restores power of ukraine’s anti-graft agencies" }
-UnasnaRaa@{ shape: win-pane, label: "_Published Nov 09, 2025, 08:55 PM_
-Ukraine scrambles for energy after russian attacks" }
-Unnimruieusnoos@{ shape: win-pane, label: "_Published Nov 09, 2025, 01:25 PM_
-Ukraine drone strike temporarily cuts utilities in russia’s voronezh, governor says" }
-SdroisdshazaeaUn@{ shape: win-pane, label: "_Published Nov 09, 2025, 03:53 AM_
-Second external power line restored at russian-held zaporizhzhia nuclear plant in ukraine" }
+MhinfnNioowmbi@{ shape: win-pane, label: "_Published Nov 23, 2025, 02:09 AM_
+More than 300 children, staff taken from nigeria school, in one of worst mass abductions" }
+Eihrhematnr@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:32 PM_
+Explainer: why is trump threatening military action in nigeria?" }
+TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
+Trump threatens military action in nigeria over ‘killing of christians’" }
+UDehewmeinegas@{ shape: win-pane, label: "_Published Nov 01, 2025, 09:00 AM_
+Us v-p j.d. vance says he hopes his wife embraces christianity, setting off backlash" }
+Tshoeonrierts@{ shape: win-pane, label: "_Published Nov 03, 2025, 07:41 AM_
+Trump says there ‘could be’ us troops on the ground in nigeria, or air strikes" }
+TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
+Trump threatens military action in nigeria over ‘killing of christians’" }
+Nislissuttesrt@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
+Nigeria says us help against islamist insurgents must respect its sovereignty" }
+yoeCksli@{ shape: win-pane, label: "_Published Apr 14, 2021, 04:33 PM_
+7 years on, more than 100 chibok girls still missing" }
 
-Unlyreufotclee:::txtsize --> CZslufetarc:::txtsize
-CZslufetarc:::txtsize --> Unitcdrcsundst:::txtsize
-Unitcdrcsundst:::txtsize --> Rakreyknelgh:::txtsize
-Unitcdrcsundst:::txtsize --> Unscsreunroeore:::txtsize
-CZslufetarc:::txtsize --> UnyIoieera:::txtsize
-Unlyreufotclee:::txtsize --> CpsartosUnly:::txtsize
-CpsartosUnly:::txtsize --> UnpCeiaronhwmen:::txtsize
-UnpCeiaronhwmen:::txtsize --> CZslufetarc:::txtsize
-UnpCeiaronhwmen:::txtsize --> Zsvossssrrsgai:::txtsize
-CpsartosUnly:::txtsize --> UnasnaRaa:::txtsize
-UnasnaRaa:::txtsize --> Unnimruieusnoos:::txtsize
-UnasnaRaa:::txtsize --> SdroisdshazaeaUn:::txtsize
+MhinfnNioowmbi:::txtsize --> Eihrhematnr:::txtsize
+Eihrhematnr:::txtsize --> TttiriNiriCt:::txtsize
+TttiriNiriCt:::txtsize --> UDehewmeinegas:::txtsize
+Eihrhematnr:::txtsize --> Tshoeonrierts:::txtsize
+Tshoeonrierts:::txtsize --> TttiriNiriCt:::txtsize
+Tshoeonrierts:::txtsize --> Nislissuttesrt:::txtsize
+MhinfnNioowmbi:::txtsize --> yoeCksli:::txtsize
 
-CtisesdlnUm@{ shape: win-pane, label: "_Published Nov 22, 2025, 11:07 PM_
-Climate activists dye venice’s grand canal green amid un summit" }
-Umupsoinnsril@{ shape: win-pane, label: "_Published Nov 22, 2025, 03:35 AM_
-Un climate summit pushes into overtime as nations clash over fossil fuels" }
-UehPerayfls@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:59 PM_
-Un chief pushes cop30 for deal on roadmap away from fossil fuels" }
-SlWicrtteOodoaa@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:15 AM_
-St explains: why is it tricky for countries to agree at cop30 on how to adapt to climate change?" }
-CracnntnPalrge@{ shape: win-pane, label: "_Published Nov 19, 2025, 09:30 PM_
-Countries’ lack of consensus on adaptation at cop30 climate talks worrying: grace fu" }
-Umuvizoaffa@{ shape: win-pane, label: "_Published Nov 21, 2025, 02:28 AM_
-Un climate summit venue in brazil reopens after fire: officials" }
-Psftwtstehsi@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:26 AM_
-Protesters force their way into cop30 summit venue, clash with security" }
-UehPerayfls@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:59 PM_
-Un chief pushes cop30 for deal on roadmap away from fossil fuels" }
-Umuvizoaffa@{ shape: win-pane, label: "_Published Nov 21, 2025, 02:28 AM_
-Un climate summit venue in brazil reopens after fire: officials" }
-Psftwtstehsi@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:26 AM_
-Protesters force their way into cop30 summit venue, clash with security" }
-FhehzdoabtddNamO@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:16 AM_
-From the andes to the amazon, indigenous leaders bring their demands to un climate summit cop30" }
-AoiznBuAndse@{ shape: win-pane, label: "_Published Nov 11, 2025, 09:55 AM_
-As cop30 opens in brazilian city belem, urban amazon residents swelter" }
-UehPerayfls@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:59 PM_
-Un chief pushes cop30 for deal on roadmap away from fossil fuels" }
-SlWicrtteOodoaa@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:15 AM_
-St explains: why is it tricky for countries to agree at cop30 on how to adapt to climate change?" }
-CracnntnPalrge@{ shape: win-pane, label: "_Published Nov 19, 2025, 09:30 PM_
-Countries’ lack of consensus on adaptation at cop30 climate talks worrying: grace fu" }
+Uniroairohssekd@{ shape: win-pane, label: "_Published Nov 23, 2025, 01:57 AM_
+Ukraine family buries mother and child ‘burned to death’ in russian strike that killed 33" }
+RailUnekreim@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:46 PM_
+Russian strike kills 25 in ukraine as zelensky’s turkey peace bid stumbles" }
+RakyanclUns@{ shape: win-pane, label: "_Published Nov 15, 2025, 04:56 AM_
+Russia strike on kyiv apartment block kills six, ukraine says" }
+Unalsrit@{ shape: win-pane, label: "_Published Nov 14, 2025, 09:56 AM_
+Ukrainian capital comes under ‘massive’ attack" }
+AapsRamlaibia@{ shape: win-pane, label: "_Published Nov 14, 2025, 11:27 PM_
+Azerbaijan protests to russia over missile damage to its embassy in ukraine" }
+Unlywlmiefesei@{ shape: win-pane, label: "_Published Nov 16, 2025, 04:39 AM_
+Ukraine’s zelensky renews calls for more air defence after deadly strike on kyiv" }
+Unitnilnes@{ shape: win-pane, label: "_Published Nov 16, 2025, 12:29 AM_
+Ukraine claims attack on russian oil refinery near moscow" }
+UnaRatufasy@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:55 PM_
+Ukraine attack on russian port disrupts 2% of global oil supply" }
+Atdretahfunceni@{ shape: win-pane, label: "_Published Nov 20, 2025, 09:24 PM_
+A relative’s desperate search then fading hope after russian attack in western ukraine" }
+RailUnekreim@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:46 PM_
+Russian strike kills 25 in ukraine as zelensky’s turkey peace bid stumbles" }
+RakyanclUns@{ shape: win-pane, label: "_Published Nov 15, 2025, 04:56 AM_
+Russia strike on kyiv apartment block kills six, ukraine says" }
+Unlywlmiefesei@{ shape: win-pane, label: "_Published Nov 16, 2025, 04:39 AM_
+Ukraine’s zelensky renews calls for more air defence after deadly strike on kyiv" }
+Unsenyirnidhe@{ shape: win-pane, label: "_Published Aug 01, 2025, 09:24 PM_
+Ukraine says 31 killed in end-july russian strike on kyiv, including 5 children" }
+Raiilpeirond@{ shape: win-pane, label: "_Published Jul 31, 2025, 08:39 PM_
+Russian strikes kill at least 16 people in kyiv; 6-year-old boy among dead" }
+Rainisiyminsi@{ shape: win-pane, label: "_Published Aug 01, 2025, 05:24 AM_
+Russia’s actions in ukraine ‘disgusting’, says trump, indicating new sanctions" }
 
-CtisesdlnUm:::txtsize --> Umupsoinnsril:::txtsize
-Umupsoinnsril:::txtsize --> UehPerayfls:::txtsize
-UehPerayfls:::txtsize --> SlWicrtteOodoaa:::txtsize
-UehPerayfls:::txtsize --> CracnntnPalrge:::txtsize
-Umupsoinnsril:::txtsize --> Umuvizoaffa:::txtsize
-Umuvizoaffa:::txtsize --> Psftwtstehsi:::txtsize
-Umuvizoaffa:::txtsize --> UehPerayfls:::txtsize
-CtisesdlnUm:::txtsize --> Umuvizoaffa:::txtsize
-Umuvizoaffa:::txtsize --> Psftwtstehsi:::txtsize
-Psftwtstehsi:::txtsize --> FhehzdoabtddNamO:::txtsize
-Psftwtstehsi:::txtsize --> AoiznBuAndse:::txtsize
-Umuvizoaffa:::txtsize --> UehPerayfls:::txtsize
-UehPerayfls:::txtsize --> SlWicrtteOodoaa:::txtsize
-UehPerayfls:::txtsize --> CracnntnPalrge:::txtsize
+Uniroairohssekd:::txtsize --> RailUnekreim:::txtsize
+RailUnekreim:::txtsize --> RakyanclUns:::txtsize
+RakyanclUns:::txtsize --> Unalsrit:::txtsize
+RakyanclUns:::txtsize --> AapsRamlaibia:::txtsize
+RailUnekreim:::txtsize --> Unlywlmiefesei:::txtsize
+Unlywlmiefesei:::txtsize --> Unitnilnes:::txtsize
+Unlywlmiefesei:::txtsize --> UnaRatufasy:::txtsize
+Uniroairohssekd:::txtsize --> Atdretahfunceni:::txtsize
+Atdretahfunceni:::txtsize --> RailUnekreim:::txtsize
+RailUnekreim:::txtsize --> RakyanclUns:::txtsize
+RailUnekreim:::txtsize --> Unlywlmiefesei:::txtsize
+Atdretahfunceni:::txtsize --> Unsenyirnidhe:::txtsize
+Unsenyirnidhe:::txtsize --> Raiilpeirond:::txtsize
+Unsenyirnidhe:::txtsize --> Rainisiyminsi:::txtsize
 
-Citizanvlcy@{ shape: win-pane, label: "_Published Nov 22, 2025, 10:49 PM_
-Cop30 climate talks in brazil reach tentative deal, sources say" }
-SpoldtvtgotiteGF@{ shape: win-pane, label: "_Published Nov 22, 2025, 06:15 PM_
-Singapore hopeful for a deal at cop30 even as talks go into overtime without agreement: grace fu" }
-Cistotsoesedn@{ shape: win-pane, label: "_Published Nov 21, 2025, 05:40 PM_
-Cop30 climate summit set for last-gasp showdown over fossil fuels and finance" }
-UehPerayfls@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:59 PM_
-Un chief pushes cop30 for deal on roadmap away from fossil fuels" }
-SlWicrtteOodoaa@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:15 AM_
-St explains: why is it tricky for countries to agree at cop30 on how to adapt to climate change?" }
-SlWewsatbtist@{ shape: win-pane, label: "_Published Nov 03, 2025, 05:00 AM_
-St explains: why are renewables not easy to talk about at un climate summits?" }
-WffkemoN@{ shape: win-pane, label: "_Published Oct 28, 2025, 05:25 PM_
-World far off track to meet climate goals: un" }
-Cueerranthof@{ shape: win-pane, label: "_Published Dec 02, 2023, 03:17 PM_
-Cop28: 118 countries agree to triple renewable energy to push out fossil fuels" }
-SpoldtvtgotiteGF@{ shape: win-pane, label: "_Published Nov 22, 2025, 06:15 PM_
-Singapore hopeful for a deal at cop30 even as talks go into overtime without agreement: grace fu" }
-Cistotsoesedn@{ shape: win-pane, label: "_Published Nov 21, 2025, 05:40 PM_
-Cop30 climate summit set for last-gasp showdown over fossil fuels and finance" }
-UehPerayfls@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:59 PM_
-Un chief pushes cop30 for deal on roadmap away from fossil fuels" }
-SlWicrtteOodoaa@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:15 AM_
-St explains: why is it tricky for countries to agree at cop30 on how to adapt to climate change?" }
-SlWewsatbtist@{ shape: win-pane, label: "_Published Nov 03, 2025, 05:00 AM_
-St explains: why are renewables not easy to talk about at un climate summits?" }
-WffkemoN@{ shape: win-pane, label: "_Published Oct 28, 2025, 05:25 PM_
-World far off track to meet climate goals: un" }
-Cueerranthof@{ shape: win-pane, label: "_Published Dec 02, 2023, 03:17 PM_
-Cop28: 118 countries agree to triple renewable energy to push out fossil fuels" }
+Ilselaonms@{ shape: win-pane, label: "_Published Nov 23, 2025, 01:09 AM_
+Israeli airstrikes kill at least 20 people in gaza, medics say" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+Ffoaakiosen@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:18 PM_
+‘full of sorrow’: gazans head back to ruined homes as truce begins" }
+Gsaardsrfsticese@{ shape: win-pane, label: "_Published Oct 10, 2025, 04:58 PM_
+Gazans stream towards wrecked homes as israeli forces start pulling back under ceasefire" }
+Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
+Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
 
-Citizanvlcy:::txtsize --> SpoldtvtgotiteGF:::txtsize
-SpoldtvtgotiteGF:::txtsize --> Cistotsoesedn:::txtsize
-Cistotsoesedn:::txtsize --> UehPerayfls:::txtsize
-Cistotsoesedn:::txtsize --> SlWicrtteOodoaa:::txtsize
-SpoldtvtgotiteGF:::txtsize --> SlWewsatbtist:::txtsize
-SlWewsatbtist:::txtsize --> WffkemoN:::txtsize
-SlWewsatbtist:::txtsize --> Cueerranthof:::txtsize
-Citizanvlcy:::txtsize --> SpoldtvtgotiteGF:::txtsize
-SpoldtvtgotiteGF:::txtsize --> Cistotsoesedn:::txtsize
-Cistotsoesedn:::txtsize --> UehPerayfls:::txtsize
-Cistotsoesedn:::txtsize --> SlWicrtteOodoaa:::txtsize
-SpoldtvtgotiteGF:::txtsize --> SlWewsatbtist:::txtsize
-SlWewsatbtist:::txtsize --> WffkemoN:::txtsize
-SlWewsatbtist:::txtsize --> Cueerranthof:::txtsize
+Ilselaonms:::txtsize --> Wouaaam:::txtsize
+Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+Wouaaam:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Ilselaonms:::txtsize --> Ffoaakiosen:::txtsize
+Ffoaakiosen:::txtsize --> Gsaardsrfsticese:::txtsize
+Gsaardsrfsticese:::txtsize --> Iliaeseoewa:::txtsize
+Gsaardsrfsticese:::txtsize --> TssHaossaaorslaoe:::txtsize
+Ffoaakiosen:::txtsize --> Wouaaam:::txtsize
+Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
+Wouaaam:::txtsize --> NyeeawHakl:::txtsize
 
 ```
-<i>Last updated: 2025-11-23 00:00:51.364150 (GMT+8)</i>
+<i>Last updated: 2025-11-23 04:00:16.655010 (GMT+8)</i>
 <!-- END -->
