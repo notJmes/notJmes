@@ -16,114 +16,108 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Cidnhailvsu@{ shape: win-pane, label: "_Published Nov 22, 2025, 03:35 AM_
-Cop30 climate deal under threat as nations clash over fossil fuels" }
+Glrcasldesund@{ shape: win-pane, label: "_Published Nov 22, 2025, 07:05 AM_
+Grizzly bear attack on canada school children leaves 4 seriously injured" }
+MolooooariSteriea@{ shape: win-pane, label: "_Published Sep 26, 2025, 04:45 PM_
+Make yourself at home: drone footage of polar bears living in soviet-era weather station goes viral" }
+Teiiosorhrs@{ shape: win-pane, label: "_Published Jul 22, 2025, 10:58 AM_
+The eye-opening science of close encounters with polar bears" }
+PbiehgAcus@{ shape: win-pane, label: "_Published May 19, 2025, 02:40 PM_
+Polar bear biopsies to shed light on arctic pollutants" }
+Pbsgtpoietr@{ shape: win-pane, label: "_Published Feb 14, 2024, 01:15 AM_
+Polar bears struggling to adapt to longer ice-free arctic periods" }
+Pbsgtpoietr@{ shape: win-pane, label: "_Published Feb 14, 2024, 01:15 AM_
+Polar bears struggling to adapt to longer ice-free arctic periods" }
+
+Glrcasldesund:::txtsize --> MolooooariSteriea:::txtsize
+MolooooariSteriea:::txtsize --> Teiiosorhrs:::txtsize
+Teiiosorhrs:::txtsize --> PbiehgAcus:::txtsize
+Teiiosorhrs:::txtsize --> Pbsgtpoietr:::txtsize
+MolooooariSteriea:::txtsize --> Pbsgtpoietr:::txtsize
+
+WYresemhiN@{ shape: win-pane, label: "_Published Nov 22, 2025, 06:20 AM_
+While you were sleeping: 5 stories you might have missed, nov 22, 2025" }
+Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
+Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
+Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
+Trump’s 28-point ukraine plan" }
+Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
+Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
+Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
+Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
+Umupsoinnsril@{ shape: win-pane, label: "_Published Nov 22, 2025, 03:35 AM_
+Un climate summit pushes into overtime as nations clash over fossil fuels" }
 UehPerayfls@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:59 PM_
 Un chief pushes cop30 for deal on roadmap away from fossil fuels" }
 SlWicrtteOodoaa@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:15 AM_
 St explains: why is it tricky for countries to agree at cop30 on how to adapt to climate change?" }
-Uneitumooiuttioan@{ shape: win-pane, label: "_Published Aug 16, 2025, 05:00 AM_
-Using nature, multi-use structures among solutions being studied to protect singapore coastlines" }
-FlsosOeeomc@{ shape: win-pane, label: "_Published Nov 08, 2025, 05:00 AM_
-From pledges to progress: can cop30 move the needle on climate action?" }
 CracnntnPalrge@{ shape: win-pane, label: "_Published Nov 19, 2025, 09:30 PM_
 Countries’ lack of consensus on adaptation at cop30 climate talks worrying: grace fu" }
-Uneitumooiuttioan@{ shape: win-pane, label: "_Published Aug 16, 2025, 05:00 AM_
-Using nature, multi-use structures among solutions being studied to protect singapore coastlines" }
-FlsosOeeomc@{ shape: win-pane, label: "_Published Nov 08, 2025, 05:00 AM_
-From pledges to progress: can cop30 move the needle on climate action?" }
 Umuvizoaffa@{ shape: win-pane, label: "_Published Nov 21, 2025, 02:28 AM_
 Un climate summit venue in brazil reopens after fire: officials" }
 Psftwtstehsi@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:26 AM_
 Protesters force their way into cop30 summit venue, clash with security" }
-FhehzdoabtddNamO@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:16 AM_
-From the andes to the amazon, indigenous leaders bring their demands to un climate summit cop30" }
-AoiznBuAndse@{ shape: win-pane, label: "_Published Nov 11, 2025, 09:55 AM_
-As cop30 opens in brazilian city belem, urban amazon residents swelter" }
 UehPerayfls@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:59 PM_
 Un chief pushes cop30 for deal on roadmap away from fossil fuels" }
-SlWicrtteOodoaa@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:15 AM_
-St explains: why is it tricky for countries to agree at cop30 on how to adapt to climate change?" }
-CracnntnPalrge@{ shape: win-pane, label: "_Published Nov 19, 2025, 09:30 PM_
-Countries’ lack of consensus on adaptation at cop30 climate talks worrying: grace fu" }
 
-Cidnhailvsu:::txtsize --> UehPerayfls:::txtsize
+WYresemhiN:::txtsize --> Uneftcrespepp:::txtsize
+Uneftcrespepp:::txtsize --> Tstia:::txtsize
+Tstia:::txtsize --> Zsarskbdaosb:::txtsize
+Tstia:::txtsize --> Zsarskbdaosb:::txtsize
+WYresemhiN:::txtsize --> Umupsoinnsril:::txtsize
+Umupsoinnsril:::txtsize --> UehPerayfls:::txtsize
 UehPerayfls:::txtsize --> SlWicrtteOodoaa:::txtsize
-SlWicrtteOodoaa:::txtsize --> Uneitumooiuttioan:::txtsize
-SlWicrtteOodoaa:::txtsize --> FlsosOeeomc:::txtsize
 UehPerayfls:::txtsize --> CracnntnPalrge:::txtsize
-CracnntnPalrge:::txtsize --> Uneitumooiuttioan:::txtsize
-CracnntnPalrge:::txtsize --> FlsosOeeomc:::txtsize
-Cidnhailvsu:::txtsize --> Umuvizoaffa:::txtsize
+Umupsoinnsril:::txtsize --> Umuvizoaffa:::txtsize
 Umuvizoaffa:::txtsize --> Psftwtstehsi:::txtsize
-Psftwtstehsi:::txtsize --> FhehzdoabtddNamO:::txtsize
-Psftwtstehsi:::txtsize --> AoiznBuAndse:::txtsize
 Umuvizoaffa:::txtsize --> UehPerayfls:::txtsize
-UehPerayfls:::txtsize --> SlWicrtteOodoaa:::txtsize
-UehPerayfls:::txtsize --> CracnntnPalrge:::txtsize
 
-Fevdblgclcfr@{ shape: win-pane, label: "_Published Nov 22, 2025, 01:39 AM_
-Four men convicted of cyberbullying french dj olympics performer" }
-Fhnsryfagaatoml@{ shape: win-pane, label: "_Published Jan 14, 2025, 08:55 PM_
-Frenchwoman faces cyber bullying after falling for fake brad pitt and losing $1.2m to  help him" }
-wiiekatrtcore@{ shape: win-pane, label: "_Published Sep 25, 2024, 02:40 PM_
-2 women in spain lose over $466k in brad pitt impersonation scam, 5 people arrested" }
-Innoiscfecdte@{ shape: win-pane, label: "_Published Feb 24, 2024, 03:10 PM_
-Indian businesswoman kidnaps tv anchor after being scammed by catfisher" }
-Innoiscfecdte@{ shape: win-pane, label: "_Published Feb 24, 2024, 03:10 PM_
-Indian businesswoman kidnaps tv anchor after being scammed by catfisher" }
-MIdarlihiaei@{ shape: win-pane, label: "_Published Feb 19, 2024, 01:05 PM_
-Man in india displays personal details on his e-rickshaw to seek bride" }
-Insupiashodo@{ shape: win-pane, label: "_Published Apr 16, 2023, 03:47 PM_
-Indian gangster-turned-politician and his brother shot dead live on tv" }
+TcncoYaloMnhoeg@{ shape: win-pane, label: "_Published Nov 22, 2025, 04:54 AM_
+Trump commends victory of new york mayor-elect zohran mamdani at white house meeting" }
+ThuMnlmenekmae@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:15 PM_
+‘turn the volume up,’ mamdani tells trump after winning new york city mayoral race" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
+Cuomo to stay in new york mayoral race despite losing democratic primary" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
+Cuomo to stay in new york mayoral race despite losing democratic primary" }
+TarwsekaMn@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:10 AM_
+Trump aides review funds for new york city after mamdani win" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
+Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
+Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
+Takeaways from us election night 2025" }
+Tcsbcaomhwes@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:55 AM_
+Trump claims ‘very big victory’ as us government shutdown vote nears" }
+Usuoinoeveun@{ shape: win-pane, label: "_Published Nov 12, 2025, 04:21 AM_
+Us house returns to washington for vote to end government shutdown" }
+Tttifolohwe@{ shape: win-pane, label: "_Published Nov 11, 2025, 08:14 AM_
+Trump threatens air traffic controllers over shutdown absences" }
 
-Fevdblgclcfr:::txtsize --> Fhnsryfagaatoml:::txtsize
-Fhnsryfagaatoml:::txtsize --> wiiekatrtcore:::txtsize
-wiiekatrtcore:::txtsize --> Innoiscfecdte:::txtsize
-Fhnsryfagaatoml:::txtsize --> Innoiscfecdte:::txtsize
-Innoiscfecdte:::txtsize --> MIdarlihiaei:::txtsize
-Innoiscfecdte:::txtsize --> Insupiashodo:::txtsize
-
-Drpturosezcv@{ shape: win-pane, label: "_Published Nov 22, 2025, 01:28 AM_
-Denmark compensates four over vision loss linked to ozempic, wegovy" }
-NOikrafoerUls@{ shape: win-pane, label: "_Published Jun 08, 2025, 12:05 PM_
-Novo’s ozempic linked to rare cases of serious eye disorder, eu regulator says" }
-WthiokcbysOiha@{ shape: win-pane, label: "_Published May 07, 2025, 09:51 AM_
-Weightwatchers files for bankruptcy as obesity drugs like ozempic reshape market" }
-Wydtgsraun@{ shape: win-pane, label: "_Published May 01, 2025, 09:00 AM_
-Wegovy could treat a dangerous liver disease, study finds" }
-Otgytfisugcs@{ shape: win-pane, label: "_Published Jan 21, 2025, 11:35 AM_
-Obesity drug study points to effectiveness in curbing addictions" }
-Otdswdaegk@{ shape: win-pane, label: "_Published May 03, 2025, 05:00 AM_
-Obesity is a disease and we need to start treating it like one" }
-WtdchnsukaO@{ shape: win-pane, label: "_Published Dec 19, 2024, 12:05 AM_
-Weight-loss drugs could help end obesity – but risks remain, who says" }
-NOikrafoerUls@{ shape: win-pane, label: "_Published Jun 08, 2025, 12:05 PM_
-Novo’s ozempic linked to rare cases of serious eye disorder, eu regulator says" }
-WthiokcbysOiha@{ shape: win-pane, label: "_Published May 07, 2025, 09:51 AM_
-Weightwatchers files for bankruptcy as obesity drugs like ozempic reshape market" }
-Wydtgsraun@{ shape: win-pane, label: "_Published May 01, 2025, 09:00 AM_
-Wegovy could treat a dangerous liver disease, study finds" }
-Otgytfisugcs@{ shape: win-pane, label: "_Published Jan 21, 2025, 11:35 AM_
-Obesity drug study points to effectiveness in curbing addictions" }
-Otdswdaegk@{ shape: win-pane, label: "_Published May 03, 2025, 05:00 AM_
-Obesity is a disease and we need to start treating it like one" }
-WtdchnsukaO@{ shape: win-pane, label: "_Published Dec 19, 2024, 12:05 AM_
-Weight-loss drugs could help end obesity – but risks remain, who says" }
-
-Drpturosezcv:::txtsize --> NOikrafoerUls:::txtsize
-NOikrafoerUls:::txtsize --> WthiokcbysOiha:::txtsize
-WthiokcbysOiha:::txtsize --> Wydtgsraun:::txtsize
-WthiokcbysOiha:::txtsize --> Otgytfisugcs:::txtsize
-NOikrafoerUls:::txtsize --> Otdswdaegk:::txtsize
-Otdswdaegk:::txtsize --> WtdchnsukaO:::txtsize
-Drpturosezcv:::txtsize --> NOikrafoerUls:::txtsize
-NOikrafoerUls:::txtsize --> WthiokcbysOiha:::txtsize
-WthiokcbysOiha:::txtsize --> Wydtgsraun:::txtsize
-WthiokcbysOiha:::txtsize --> Otgytfisugcs:::txtsize
-NOikrafoerUls:::txtsize --> Otdswdaegk:::txtsize
-Otdswdaegk:::txtsize --> WtdchnsukaO:::txtsize
+TcncoYaloMnhoeg:::txtsize --> ThuMnlmenekmae:::txtsize
+ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
+Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
+Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
+ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
+Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
+Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
+TcncoYaloMnhoeg:::txtsize --> TarwsekaMn:::txtsize
+TarwsekaMn:::txtsize --> YMmnoihaiYilehpea:::txtsize
+YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
+YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
+TarwsekaMn:::txtsize --> Tcsbcaomhwes:::txtsize
+Tcsbcaomhwes:::txtsize --> Usuoinoeveun:::txtsize
+Tcsbcaomhwes:::txtsize --> Tttifolohwe:::txtsize
 
 ```
-<i>Last updated: 2025-11-22 04:00:46.883309 (GMT+8)</i>
+<i>Last updated: 2025-11-22 08:01:11.163663 (GMT+8)</i>
 <!-- END -->
