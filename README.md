@@ -16,6 +16,47 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Nyistnllbmiiaw@{ shape: win-pane, label: "_Published Nov 23, 2025, 02:22 PM_
+Nearly 200,000 ukrainians in us thrown into legal limbo by trump immigration crackdown" }
+UnlnUnaffst@{ shape: win-pane, label: "_Published Mar 23, 2022, 06:28 AM_
+Us plans to allow in more ukrainians after few refugees admitted" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
+Explosions heard in ukraine capital kyiv, other cities" }
+OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
+Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
+TptogafislUra@{ shape: win-pane, label: "_Published Mar 06, 2025, 08:11 PM_
+Trump plans to revoke legal status of ukrainians who fled to us, sources say" }
+Unlyphaiogh@{ shape: win-pane, label: "_Published Mar 01, 2025, 01:48 AM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+TalytnretaWHsit@{ shape: win-pane, label: "_Published Mar 01, 2025, 02:44 AM_
+Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
+YgitlIcsTZsaWH@{ shape: win-pane, label: "_Published Mar 01, 2025, 05:06 AM_
+‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
+Unfelfreks@{ shape: win-pane, label: "_Published Mar 01, 2025, 08:49 PM_
+Ukrainians face new reality after trump-zelensky clash" }
+TalytnretaWHsit@{ shape: win-pane, label: "_Published Mar 01, 2025, 02:44 AM_
+Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
+Senrxganlne@{ shape: win-pane, label: "_Published Mar 01, 2025, 07:44 AM_
+Stunned by angry trump exchange, ukrainians rally round zelensky" }
+
+Nyistnllbmiiaw:::txtsize --> UnlnUnaffst:::txtsize
+UnlnUnaffst:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
+DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
+Nyistnllbmiiaw:::txtsize --> TptogafislUra:::txtsize
+TptogafislUra:::txtsize --> Unlyphaiogh:::txtsize
+Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
+Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
+TptogafislUra:::txtsize --> Unfelfreks:::txtsize
+Unfelfreks:::txtsize --> TalytnretaWHsit:::txtsize
+Unfelfreks:::txtsize --> Senrxganlne:::txtsize
+
+Ietoiuaoerrlo@{ shape: win-pane, label: "_Published Nov 23, 2025, 01:30 PM_
+In race-shifting london, is it just a matter of time before there’s no love lost?" }
+
+
 Aorkevdssgw@{ shape: win-pane, label: "_Published Nov 23, 2025, 11:15 AM_
 An ai toy bear speaks of sex, knives and pills, a consumer group warns" }
 MAeeolshidesin@{ shape: win-pane, label: "_Published Aug 14, 2025, 07:45 PM_
@@ -56,62 +97,6 @@ OIsdhTrneUnc:::txtsize --> Cbraes:::txtsize
 Coeirhweo:::txtsize --> OIdnolhTrea:::txtsize
 OIdnolhTrea:::txtsize --> OIsdhTrneUnc:::txtsize
 
-UisRahaal@{ shape: win-pane, label: "_Published Nov 23, 2025, 10:55 AM_
-Us denies pushing russian ‘wish list’ as ukraine plan" }
-Wrdaalermncon@{ shape: win-pane, label: "_Published Nov 22, 2025, 10:04 PM_
-Western leaders say ukraine plan needs work, trump signals scope for changes" }
-Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
-Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
-Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
-Trump’s 28-point ukraine plan" }
-
-UisRahaal:::txtsize --> Wrdaalermncon:::txtsize
-Wrdaalermncon:::txtsize --> Uneftcrespepp:::txtsize
-Uneftcrespepp:::txtsize --> Tstia:::txtsize
-
-Muclefaimulae@{ shape: win-pane, label: "_Published Nov 23, 2025, 10:50 AM_
-Meta buried ‘causal’ evidence of social media harm, us court filings allege" }
-ArsseoairvuviisiaA@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:26 AM_
-Authorities to assess meta’s compliance with directive to curb govt official impersonation scams: mha" }
-SprMoemisivefosp@{ shape: win-pane, label: "_Published Sep 25, 2025, 01:19 PM_
-Singapore orders meta to target scammers impersonating government office-holders by sept 30" }
-PestsirdSthmsfoo@{ shape: win-pane, label: "_Published Sep 03, 2025, 09:48 AM_
-Police to issue meta first online harms order in s’pore to fight scams; possible fines of up to $1m" }
-Oeiacifehioors@{ shape: win-pane, label: "_Published Jan 30, 2024, 03:41 PM_
-Online criminal harms act to kick in from feb 1, with special provisions for scams" }
-Sisnrtiawlcrt@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:00 PM_
-Scam victims in singapore lost $456m in first half of 2025 with almost 20,000 cases reported" }
-Sisosfhfmfshf@{ shape: win-pane, label: "_Published Aug 22, 2024, 03:00 PM_
-Scam victims in s’pore lost $385.6m in first half of 2024 as number of cases hits high of 26,587" }
-Sisnrerlnemfsrt@{ shape: win-pane, label: "_Published Feb 25, 2025, 03:00 PM_
-Scam victims in singapore lose record $1.1 billion in 2024; highest number of cases ever reported" }
-ipntrcnicoolDr@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:00 PM_
-4 in 5 in s’pore encounter harmful content online; 2 in 3 call for stronger laws: mddi surveys" }
-oeuenalekelMu@{ shape: win-pane, label: "_Published Jul 25, 2024, 06:30 PM_
-74% of internet users encounter harmful content like cyber bullying: mddi survey" }
-Vmnooohsssrynx@{ shape: win-pane, label: "_Published Jul 08, 2024, 05:00 AM_
-Victims turning to the court to stop harassment such as cyber bullying and doxxing" }
-Nlautrpewfiseo@{ shape: win-pane, label: "_Published Mar 07, 2025, 01:49 PM_
-New online harms support centre to operate from 2026, will offer victims faster recourse" }
-MhlesrdwnincAtcei@{ shape: win-pane, label: "_Published Feb 17, 2025, 06:00 PM_
-More than half of reports of harm not dealt with in the first instance: imda audit of social media firms" }
-Pslcoirkhftrsip@{ shape: win-pane, label: "_Published Mar 06, 2025, 11:00 AM_
-Proposal to let victims of online harms take tech platforms to court gets public support" }
-
-Muclefaimulae:::txtsize --> ArsseoairvuviisiaA:::txtsize
-ArsseoairvuviisiaA:::txtsize --> SprMoemisivefosp:::txtsize
-SprMoemisivefosp:::txtsize --> PestsirdSthmsfoo:::txtsize
-SprMoemisivefosp:::txtsize --> Oeiacifehioors:::txtsize
-ArsseoairvuviisiaA:::txtsize --> Sisnrtiawlcrt:::txtsize
-Sisnrtiawlcrt:::txtsize --> Sisosfhfmfshf:::txtsize
-Sisnrtiawlcrt:::txtsize --> Sisnrerlnemfsrt:::txtsize
-Muclefaimulae:::txtsize --> ipntrcnicoolDr:::txtsize
-ipntrcnicoolDr:::txtsize --> oeuenalekelMu:::txtsize
-oeuenalekelMu:::txtsize --> Vmnooohsssrynx:::txtsize
-ipntrcnicoolDr:::txtsize --> Nlautrpewfiseo:::txtsize
-Nlautrpewfiseo:::txtsize --> MhlesrdwnincAtcei:::txtsize
-Nlautrpewfiseo:::txtsize --> Pslcoirkhftrsip:::txtsize
-
 ```
-<i>Last updated: 2025-11-23 12:01:04.400048 (GMT+8)</i>
+<i>Last updated: 2025-11-23 16:00:36.495774 (GMT+8)</i>
 <!-- END -->
