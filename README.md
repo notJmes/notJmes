@@ -16,22 +16,48 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-WYresemhiN@{ shape: win-pane, label: "_Published Nov 23, 2025, 06:49 AM_
-While you were sleeping: 5 stories you might have missed, nov 23, 2025" }
-Caeletiesu@{ shape: win-pane, label: "_Published Nov 22, 2025, 10:49 PM_
-Cop30 seals uneasy climate deal that sidesteps fossil fuels" }
-Citizanvlrrn@{ shape: win-pane, label: "_Published Nov 22, 2025, 06:15 PM_
-Cop30 climate talks in brazil reach tentative deal after overrunning" }
-Cistotsoesedn@{ shape: win-pane, label: "_Published Nov 21, 2025, 05:40 PM_
-Cop30 climate summit set for last-gasp showdown over fossil fuels and finance" }
-SlWewsatbtist@{ shape: win-pane, label: "_Published Nov 03, 2025, 05:00 AM_
-St explains: why are renewables not easy to talk about at un climate summits?" }
-Citizanvlrrn@{ shape: win-pane, label: "_Published Nov 22, 2025, 06:15 PM_
-Cop30 climate talks in brazil reach tentative deal after overrunning" }
-Cistotsoesedn@{ shape: win-pane, label: "_Published Nov 21, 2025, 05:40 PM_
-Cop30 climate summit set for last-gasp showdown over fossil fuels and finance" }
-SlWewsatbtist@{ shape: win-pane, label: "_Published Nov 03, 2025, 05:00 AM_
-St explains: why are renewables not easy to talk about at un climate summits?" }
+Aorkevdssgw@{ shape: win-pane, label: "_Published Nov 23, 2025, 11:15 AM_
+An ai toy bear speaks of sex, knives and pills, a consumer group warns" }
+MAeeolshidesin@{ shape: win-pane, label: "_Published Aug 14, 2025, 07:45 PM_
+Meta’s ai rules have let bots hold ‘sensual’ chats with kids, offer false medical info" }
+Mifaavsibo@{ shape: win-pane, label: "_Published Jun 02, 2025, 09:53 PM_
+Meta aims to fully automate advertising with ai by 2026: report" }
+ModooilheeCat@{ shape: win-pane, label: "_Published Mar 20, 2025, 11:16 PM_
+Meta to seek disclosure on political ads that use ai ahead of canada elections" }
+MnscIstctl@{ shape: win-pane, label: "_Published Jun 09, 2025, 11:02 AM_
+Meta in talks for scale ai investment that could top $12.9 billion" }
+Mifaavsibo@{ shape: win-pane, label: "_Published Jun 02, 2025, 09:53 PM_
+Meta aims to fully automate advertising with ai by 2026: report" }
+Motgpdornm@{ shape: win-pane, label: "_Published Apr 17, 2025, 01:22 AM_
+Meta to start using europeans’ data for ai training from may 27" }
+Coeirhweo@{ shape: win-pane, label: "_Published Sep 28, 2025, 01:15 PM_
+Chatbots are hurting our kids – here’s what we can do" }
+OIsdhTrneUnc@{ shape: win-pane, label: "_Published Aug 27, 2025, 07:50 AM_
+Openai plans to update chatgpt after parents sue over us teen’s suicide" }
+HehTtiueliiir@{ shape: win-pane, label: "_Published May 10, 2025, 11:15 AM_
+Hear me out: chatgpt is not my friend, but it lends a late-night listening ear" }
+Cbraes@{ shape: win-pane, label: "_Published Jul 28, 2025, 05:00 AM_
+Can ai be my friend and therapist?" }
+OIdnolhTrea@{ shape: win-pane, label: "_Published Sep 02, 2025, 11:06 PM_
+Openai to add parental controls to chatgpt after us teen’s death" }
+OIsdhTrneUnc@{ shape: win-pane, label: "_Published Aug 27, 2025, 07:50 AM_
+Openai plans to update chatgpt after parents sue over us teen’s suicide" }
+
+Aorkevdssgw:::txtsize --> MAeeolshidesin:::txtsize
+MAeeolshidesin:::txtsize --> Mifaavsibo:::txtsize
+Mifaavsibo:::txtsize --> ModooilheeCat:::txtsize
+MAeeolshidesin:::txtsize --> MnscIstctl:::txtsize
+MnscIstctl:::txtsize --> Mifaavsibo:::txtsize
+MnscIstctl:::txtsize --> Motgpdornm:::txtsize
+Aorkevdssgw:::txtsize --> Coeirhweo:::txtsize
+Coeirhweo:::txtsize --> OIsdhTrneUnc:::txtsize
+OIsdhTrneUnc:::txtsize --> HehTtiueliiir:::txtsize
+OIsdhTrneUnc:::txtsize --> Cbraes:::txtsize
+Coeirhweo:::txtsize --> OIdnolhTrea:::txtsize
+OIdnolhTrea:::txtsize --> OIsdhTrneUnc:::txtsize
+
+UisRahaal@{ shape: win-pane, label: "_Published Nov 23, 2025, 10:55 AM_
+Us denies pushing russian ‘wish list’ as ukraine plan" }
 Wrdaalermncon@{ shape: win-pane, label: "_Published Nov 22, 2025, 10:04 PM_
 Western leaders say ukraine plan needs work, trump signals scope for changes" }
 Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
@@ -39,79 +65,53 @@ Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace pla
 Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
 Trump’s 28-point ukraine plan" }
 
-WYresemhiN:::txtsize --> Caeletiesu:::txtsize
-Caeletiesu:::txtsize --> Citizanvlrrn:::txtsize
-Citizanvlrrn:::txtsize --> Cistotsoesedn:::txtsize
-Citizanvlrrn:::txtsize --> SlWewsatbtist:::txtsize
-Caeletiesu:::txtsize --> Citizanvlrrn:::txtsize
-Citizanvlrrn:::txtsize --> Cistotsoesedn:::txtsize
-Citizanvlrrn:::txtsize --> SlWewsatbtist:::txtsize
-WYresemhiN:::txtsize --> Wrdaalermncon:::txtsize
+UisRahaal:::txtsize --> Wrdaalermncon:::txtsize
 Wrdaalermncon:::txtsize --> Uneftcrespepp:::txtsize
 Uneftcrespepp:::txtsize --> Tstia:::txtsize
 
-Blsoioibabld@{ shape: win-pane, label: "_Published Nov 23, 2025, 05:48 AM_
-Brazil’s bolsonaro detained for trying to break ankle bracelet and flee" }
-BleBnecyisrp@{ shape: win-pane, label: "_Published Sep 12, 2025, 04:02 AM_
-Brazil’s ex-leader bolsonaro sentenced to 27 years in prison for coup plot" }
-Aeoataperi@{ shape: win-pane, label: "_Published Jul 11, 2025, 06:43 AM_
-All eyes on bolsonaro with lula, trump locked in trade fight" }
-Tieinielah@{ shape: win-pane, label: "_Published Jul 10, 2025, 06:02 AM_
-Trump imposes 50% tariffs on brazil after public spat with lula" }
-Blagttopftsoo@{ shape: win-pane, label: "_Published Jul 11, 2025, 06:30 AM_
-Brazil’s lula pledges retaliation to trump tariffs but keeps diplomacy open" }
-Weotozom@{ shape: win-pane, label: "_Published Jan 10, 2023, 10:27 AM_
-What led up to the attack on brazil’s government?" }
-Ezensoclcietpeiet@{ shape: win-pane, label: "_Published Jan 09, 2023, 05:30 AM_
-Ex-brazil president bolsonaro rejects lula’s accusations he incited supporters to invade capital" }
-Blsoaurr@{ shape: win-pane, label: "_Published Aug 07, 2025, 08:16 AM_
-Brazil's bolsonaro appeals house arrest order" }
-Blsosdtswr@{ shape: win-pane, label: "_Published Aug 05, 2025, 06:40 AM_
-Brazil’s bolsonaro arrested, adding to tensions with trump" }
-NiyriaPdu@{ shape: win-pane, label: "_Published Jul 31, 2025, 07:35 AM_
-No one is defying trump like brazil’s president lula" }
-NiyriaPdu@{ shape: win-pane, label: "_Published Jul 31, 2025, 07:35 AM_
-No one is defying trump like brazil’s president lula" }
+Muclefaimulae@{ shape: win-pane, label: "_Published Nov 23, 2025, 10:50 AM_
+Meta buried ‘causal’ evidence of social media harm, us court filings allege" }
+ArsseoairvuviisiaA@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:26 AM_
+Authorities to assess meta’s compliance with directive to curb govt official impersonation scams: mha" }
+SprMoemisivefosp@{ shape: win-pane, label: "_Published Sep 25, 2025, 01:19 PM_
+Singapore orders meta to target scammers impersonating government office-holders by sept 30" }
+PestsirdSthmsfoo@{ shape: win-pane, label: "_Published Sep 03, 2025, 09:48 AM_
+Police to issue meta first online harms order in s’pore to fight scams; possible fines of up to $1m" }
+Oeiacifehioors@{ shape: win-pane, label: "_Published Jan 30, 2024, 03:41 PM_
+Online criminal harms act to kick in from feb 1, with special provisions for scams" }
+Sisnrtiawlcrt@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:00 PM_
+Scam victims in singapore lost $456m in first half of 2025 with almost 20,000 cases reported" }
+Sisosfhfmfshf@{ shape: win-pane, label: "_Published Aug 22, 2024, 03:00 PM_
+Scam victims in s’pore lost $385.6m in first half of 2024 as number of cases hits high of 26,587" }
+Sisnrerlnemfsrt@{ shape: win-pane, label: "_Published Feb 25, 2025, 03:00 PM_
+Scam victims in singapore lose record $1.1 billion in 2024; highest number of cases ever reported" }
+ipntrcnicoolDr@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:00 PM_
+4 in 5 in s’pore encounter harmful content online; 2 in 3 call for stronger laws: mddi surveys" }
+oeuenalekelMu@{ shape: win-pane, label: "_Published Jul 25, 2024, 06:30 PM_
+74% of internet users encounter harmful content like cyber bullying: mddi survey" }
+Vmnooohsssrynx@{ shape: win-pane, label: "_Published Jul 08, 2024, 05:00 AM_
+Victims turning to the court to stop harassment such as cyber bullying and doxxing" }
+Nlautrpewfiseo@{ shape: win-pane, label: "_Published Mar 07, 2025, 01:49 PM_
+New online harms support centre to operate from 2026, will offer victims faster recourse" }
+MhlesrdwnincAtcei@{ shape: win-pane, label: "_Published Feb 17, 2025, 06:00 PM_
+More than half of reports of harm not dealt with in the first instance: imda audit of social media firms" }
+Pslcoirkhftrsip@{ shape: win-pane, label: "_Published Mar 06, 2025, 11:00 AM_
+Proposal to let victims of online harms take tech platforms to court gets public support" }
 
-Blsoioibabld:::txtsize --> BleBnecyisrp:::txtsize
-BleBnecyisrp:::txtsize --> Aeoataperi:::txtsize
-Aeoataperi:::txtsize --> Tieinielah:::txtsize
-Aeoataperi:::txtsize --> Blagttopftsoo:::txtsize
-BleBnecyisrp:::txtsize --> Weotozom:::txtsize
-Weotozom:::txtsize --> Ezensoclcietpeiet:::txtsize
-Blsoioibabld:::txtsize --> Blsoaurr:::txtsize
-Blsoaurr:::txtsize --> Blsosdtswr:::txtsize
-Blsosdtswr:::txtsize --> NiyriaPdu:::txtsize
-Blsoaurr:::txtsize --> NiyriaPdu:::txtsize
-
-TiivriNrsmtsieogg@{ shape: win-pane, label: "_Published Nov 23, 2025, 05:27 AM_
-Traffic at eindhoven airport in the netherlands resumes after disruption due to drone sightings" }
-Buioneodis@{ shape: win-pane, label: "_Published Nov 11, 2025, 01:16 AM_
-Belgium enlists foreign forces to combat drone incursions" }
-FttBerartggo@{ shape: win-pane, label: "_Published Nov 05, 2025, 05:47 AM_
-Flights halted at brussels airport after reported sighting of drone" }
-FtttoggoGno@{ shape: win-pane, label: "_Published Nov 03, 2025, 08:42 AM_
-Flights halted after drone sighting at another german airport" }
-RarorantrkTe@{ shape: win-pane, label: "_Published Nov 10, 2025, 04:45 PM_
-Russia destroys four ukrainian drone boats near black sea’s tuapse" }
-UnasnaRaa@{ shape: win-pane, label: "_Published Nov 09, 2025, 08:55 PM_
-Ukraine scrambles for energy after russian attacks" }
-Gnkgrnnfnisie@{ shape: win-pane, label: "_Published Nov 08, 2025, 01:41 AM_
-Germany links belgium drone incidents to frozen russian assets dispute" }
-FttBerartggo@{ shape: win-pane, label: "_Published Nov 05, 2025, 05:47 AM_
-Flights halted at brussels airport after reported sighting of drone" }
-FtttoggoGno@{ shape: win-pane, label: "_Published Nov 03, 2025, 08:42 AM_
-Flights halted after drone sighting at another german airport" }
-
-TiivriNrsmtsieogg:::txtsize --> Buioneodis:::txtsize
-Buioneodis:::txtsize --> FttBerartggo:::txtsize
-FttBerartggo:::txtsize --> FtttoggoGno:::txtsize
-Buioneodis:::txtsize --> RarorantrkTe:::txtsize
-RarorantrkTe:::txtsize --> UnasnaRaa:::txtsize
-TiivriNrsmtsieogg:::txtsize --> Gnkgrnnfnisie:::txtsize
-Gnkgrnnfnisie:::txtsize --> FttBerartggo:::txtsize
-FttBerartggo:::txtsize --> FtttoggoGno:::txtsize
+Muclefaimulae:::txtsize --> ArsseoairvuviisiaA:::txtsize
+ArsseoairvuviisiaA:::txtsize --> SprMoemisivefosp:::txtsize
+SprMoemisivefosp:::txtsize --> PestsirdSthmsfoo:::txtsize
+SprMoemisivefosp:::txtsize --> Oeiacifehioors:::txtsize
+ArsseoairvuviisiaA:::txtsize --> Sisnrtiawlcrt:::txtsize
+Sisnrtiawlcrt:::txtsize --> Sisosfhfmfshf:::txtsize
+Sisnrtiawlcrt:::txtsize --> Sisnrerlnemfsrt:::txtsize
+Muclefaimulae:::txtsize --> ipntrcnicoolDr:::txtsize
+ipntrcnicoolDr:::txtsize --> oeuenalekelMu:::txtsize
+oeuenalekelMu:::txtsize --> Vmnooohsssrynx:::txtsize
+ipntrcnicoolDr:::txtsize --> Nlautrpewfiseo:::txtsize
+Nlautrpewfiseo:::txtsize --> MhlesrdwnincAtcei:::txtsize
+Nlautrpewfiseo:::txtsize --> Pslcoirkhftrsip:::txtsize
 
 ```
-<i>Last updated: 2025-11-23 08:00:41.360323 (GMT+8)</i>
+<i>Last updated: 2025-11-23 12:01:04.400048 (GMT+8)</i>
 <!-- END -->
