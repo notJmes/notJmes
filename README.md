@@ -16,87 +16,111 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Nyistnllbmiiaw@{ shape: win-pane, label: "_Published Nov 23, 2025, 02:22 PM_
-Nearly 200,000 ukrainians in us thrown into legal limbo by trump immigration crackdown" }
-UnlnUnaffst@{ shape: win-pane, label: "_Published Mar 23, 2022, 06:28 AM_
-Us plans to allow in more ukrainians after few refugees admitted" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
-Explosions heard in ukraine capital kyiv, other cities" }
-OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
-Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
-TptogafislUra@{ shape: win-pane, label: "_Published Mar 06, 2025, 08:11 PM_
-Trump plans to revoke legal status of ukrainians who fled to us, sources say" }
-Unlyphaiogh@{ shape: win-pane, label: "_Published Mar 01, 2025, 01:48 AM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-TalytnretaWHsit@{ shape: win-pane, label: "_Published Mar 01, 2025, 02:44 AM_
-Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-YgitlIcsTZsaWH@{ shape: win-pane, label: "_Published Mar 01, 2025, 05:06 AM_
-‘you’re gambling with world war iii’: excerpts from trump-zelensky clash at white house" }
-Unfelfreks@{ shape: win-pane, label: "_Published Mar 01, 2025, 08:49 PM_
-Ukrainians face new reality after trump-zelensky clash" }
-TalytnretaWHsit@{ shape: win-pane, label: "_Published Mar 01, 2025, 02:44 AM_
-Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
-Senrxganlne@{ shape: win-pane, label: "_Published Mar 01, 2025, 07:44 AM_
-Stunned by angry trump exchange, ukrainians rally round zelensky" }
+WfAhestitsom@{ shape: win-pane, label: "_Published Nov 23, 2025, 07:55 PM_
+War refugee aonishiki becomes first ukrainian to win sumo tournament" }
+Unausafntse@{ shape: win-pane, label: "_Published Oct 09, 2025, 03:46 PM_
+Ukrainian takes sumo by storm after fleeing war to pursue dreams" }
+Feksansuognlsf@{ shape: win-pane, label: "_Published Sep 23, 2025, 02:19 PM_
+Future bleak unless ukraine invests in young sporting talent: athletics chief" }
+Untisfihsmanna@{ shape: win-pane, label: "_Published Jul 09, 2025, 06:12 AM_
+Ukraine protests inclusion of russian athletes with military ranks as neutrals" }
+JnlpetvmaohinCn@{ shape: win-pane, label: "_Published Sep 20, 2025, 02:21 AM_
+Jasmine paolini sparkles as italy overcome ukraine to reach billie jean king cup final" }
+UnteruvheyRaaK@{ shape: win-pane, label: "_Published Sep 08, 2025, 12:46 AM_
+Ukraine footballer heorhiy sudakov says home destroyed in russian attack on kyiv" }
+RaUnhercasrtdb@{ shape: win-pane, label: "_Published Sep 07, 2025, 10:16 AM_
+Russia hits ukraine with biggest air attack of war, sets government building ablaze" }
+Trfaosaoeia@{ shape: win-pane, label: "_Published Sep 08, 2025, 01:11 AM_
+Trump ready for ‘phase two’ of russia sanctions over war in ukraine" }
+Unausafntse@{ shape: win-pane, label: "_Published Oct 09, 2025, 03:46 PM_
+Ukrainian takes sumo by storm after fleeing war to pursue dreams" }
+Feksansuognlsf@{ shape: win-pane, label: "_Published Sep 23, 2025, 02:19 PM_
+Future bleak unless ukraine invests in young sporting talent: athletics chief" }
+Untisfihsmanna@{ shape: win-pane, label: "_Published Jul 09, 2025, 06:12 AM_
+Ukraine protests inclusion of russian athletes with military ranks as neutrals" }
+JnlpetvmaohinCn@{ shape: win-pane, label: "_Published Sep 20, 2025, 02:21 AM_
+Jasmine paolini sparkles as italy overcome ukraine to reach billie jean king cup final" }
+UnteruvheyRaaK@{ shape: win-pane, label: "_Published Sep 08, 2025, 12:46 AM_
+Ukraine footballer heorhiy sudakov says home destroyed in russian attack on kyiv" }
+RaUnhercasrtdb@{ shape: win-pane, label: "_Published Sep 07, 2025, 10:16 AM_
+Russia hits ukraine with biggest air attack of war, sets government building ablaze" }
+Trfaosaoeia@{ shape: win-pane, label: "_Published Sep 08, 2025, 01:11 AM_
+Trump ready for ‘phase two’ of russia sanctions over war in ukraine" }
 
-Nyistnllbmiiaw:::txtsize --> UnlnUnaffst:::txtsize
-UnlnUnaffst:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
-DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
-Nyistnllbmiiaw:::txtsize --> TptogafislUra:::txtsize
-TptogafislUra:::txtsize --> Unlyphaiogh:::txtsize
-Unlyphaiogh:::txtsize --> TalytnretaWHsit:::txtsize
-Unlyphaiogh:::txtsize --> YgitlIcsTZsaWH:::txtsize
-TptogafislUra:::txtsize --> Unfelfreks:::txtsize
-Unfelfreks:::txtsize --> TalytnretaWHsit:::txtsize
-Unfelfreks:::txtsize --> Senrxganlne:::txtsize
+WfAhestitsom:::txtsize --> Unausafntse:::txtsize
+Unausafntse:::txtsize --> Feksansuognlsf:::txtsize
+Feksansuognlsf:::txtsize --> Untisfihsmanna:::txtsize
+Feksansuognlsf:::txtsize --> JnlpetvmaohinCn:::txtsize
+Unausafntse:::txtsize --> UnteruvheyRaaK:::txtsize
+UnteruvheyRaaK:::txtsize --> RaUnhercasrtdb:::txtsize
+UnteruvheyRaaK:::txtsize --> Trfaosaoeia:::txtsize
+WfAhestitsom:::txtsize --> Unausafntse:::txtsize
+Unausafntse:::txtsize --> Feksansuognlsf:::txtsize
+Feksansuognlsf:::txtsize --> Untisfihsmanna:::txtsize
+Feksansuognlsf:::txtsize --> JnlpetvmaohinCn:::txtsize
+Unausafntse:::txtsize --> UnteruvheyRaaK:::txtsize
+UnteruvheyRaaK:::txtsize --> RaUnhercasrtdb:::txtsize
+UnteruvheyRaaK:::txtsize --> Trfaosaoeia:::txtsize
 
-Ietoiuaoerrlo@{ shape: win-pane, label: "_Published Nov 23, 2025, 01:30 PM_
-In race-shifting london, is it just a matter of time before there’s no love lost?" }
+IafmoereAlhe@{ shape: win-pane, label: "_Published Nov 23, 2025, 07:50 PM_
+Iran warns of attempts to target supreme leader ayatollah khamenei" }
+ISmdoasigugdIl@{ shape: win-pane, label: "_Published Jun 27, 2025, 12:40 AM_
+Iran’s supreme leader avoided assassination by going underground, says israel" }
+TtIodirsdelmutt@{ shape: win-pane, label: "_Published Jun 13, 2025, 08:20 AM_
+Trump tells iran to ‘make deal’ with israel as world leaders call for ‘maximum restraint’" }
+IamrnaetlIli@{ shape: win-pane, label: "_Published Jun 13, 2025, 04:29 PM_
+Iranian commanders and nuclear scientists killed in israeli strikes" }
+Tsrdeecedletdr@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:17 AM_
+Trump says iran and israel agree to a ‘complete and total’ ceasefire to end 12-day war" }
+IiieSaQTcrnaec@{ shape: win-pane, label: "_Published Jun 24, 2025, 01:23 AM_
+Iran fires missiles at us airbase in qatar, trump calls response ‘weak’, urges peace" }
+Tsrdeecedletdr@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:17 AM_
+Trump says iran and israel agree to a ‘complete and total’ ceasefire to end 12-day war" }
+IiieSaQTcrnaec@{ shape: win-pane, label: "_Published Jun 24, 2025, 01:23 AM_
+Iran fires missiles at us airbase in qatar, trump calls response ‘weak’, urges peace" }
 
+IafmoereAlhe:::txtsize --> ISmdoasigugdIl:::txtsize
+ISmdoasigugdIl:::txtsize --> TtIodirsdelmutt:::txtsize
+TtIodirsdelmutt:::txtsize --> IamrnaetlIli:::txtsize
+ISmdoasigugdIl:::txtsize --> Tsrdeecedletdr:::txtsize
+Tsrdeecedletdr:::txtsize --> IiieSaQTcrnaec:::txtsize
+IafmoereAlhe:::txtsize --> Tsrdeecedletdr:::txtsize
+Tsrdeecedletdr:::txtsize --> IiieSaQTcrnaec:::txtsize
 
-Aorkevdssgw@{ shape: win-pane, label: "_Published Nov 23, 2025, 11:15 AM_
-An ai toy bear speaks of sex, knives and pills, a consumer group warns" }
-MAeeolshidesin@{ shape: win-pane, label: "_Published Aug 14, 2025, 07:45 PM_
-Meta’s ai rules have let bots hold ‘sensual’ chats with kids, offer false medical info" }
-Mifaavsibo@{ shape: win-pane, label: "_Published Jun 02, 2025, 09:53 PM_
-Meta aims to fully automate advertising with ai by 2026: report" }
-ModooilheeCat@{ shape: win-pane, label: "_Published Mar 20, 2025, 11:16 PM_
-Meta to seek disclosure on political ads that use ai ahead of canada elections" }
-MnscIstctl@{ shape: win-pane, label: "_Published Jun 09, 2025, 11:02 AM_
-Meta in talks for scale ai investment that could top $12.9 billion" }
-Mifaavsibo@{ shape: win-pane, label: "_Published Jun 02, 2025, 09:53 PM_
-Meta aims to fully automate advertising with ai by 2026: report" }
-Motgpdornm@{ shape: win-pane, label: "_Published Apr 17, 2025, 01:22 AM_
-Meta to start using europeans’ data for ai training from may 27" }
-Coeirhweo@{ shape: win-pane, label: "_Published Sep 28, 2025, 01:15 PM_
-Chatbots are hurting our kids – here’s what we can do" }
-OIsdhTrneUnc@{ shape: win-pane, label: "_Published Aug 27, 2025, 07:50 AM_
-Openai plans to update chatgpt after parents sue over us teen’s suicide" }
-HehTtiueliiir@{ shape: win-pane, label: "_Published May 10, 2025, 11:15 AM_
-Hear me out: chatgpt is not my friend, but it lends a late-night listening ear" }
-Cbraes@{ shape: win-pane, label: "_Published Jul 28, 2025, 05:00 AM_
-Can ai be my friend and therapist?" }
-OIdnolhTrea@{ shape: win-pane, label: "_Published Sep 02, 2025, 11:06 PM_
-Openai to add parental controls to chatgpt after us teen’s death" }
-OIsdhTrneUnc@{ shape: win-pane, label: "_Published Aug 27, 2025, 07:50 AM_
-Openai plans to update chatgpt after parents sue over us teen’s suicide" }
+Ilautpkanbh@{ shape: win-pane, label: "_Published Nov 23, 2025, 07:39 PM_
+Israel’s netanyahu vows to keep striking hamas and hezbollah" }
+Ilselaonms@{ shape: win-pane, label: "_Published Nov 23, 2025, 01:09 AM_
+Israeli airstrikes kill at least 20 people in gaza, medics say" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Ffoaakiosen@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:18 PM_
+‘full of sorrow’: gazans head back to ruined homes as truce begins" }
+Gsaardsrfsticese@{ shape: win-pane, label: "_Published Oct 10, 2025, 04:58 PM_
+Gazans stream towards wrecked homes as israeli forces start pulling back under ceasefire" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
+TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
+Tears, joy in israel as hamas hands over first hostages" }
 
-Aorkevdssgw:::txtsize --> MAeeolshidesin:::txtsize
-MAeeolshidesin:::txtsize --> Mifaavsibo:::txtsize
-Mifaavsibo:::txtsize --> ModooilheeCat:::txtsize
-MAeeolshidesin:::txtsize --> MnscIstctl:::txtsize
-MnscIstctl:::txtsize --> Mifaavsibo:::txtsize
-MnscIstctl:::txtsize --> Motgpdornm:::txtsize
-Aorkevdssgw:::txtsize --> Coeirhweo:::txtsize
-Coeirhweo:::txtsize --> OIsdhTrneUnc:::txtsize
-OIsdhTrneUnc:::txtsize --> HehTtiueliiir:::txtsize
-OIsdhTrneUnc:::txtsize --> Cbraes:::txtsize
-Coeirhweo:::txtsize --> OIdnolhTrea:::txtsize
-OIdnolhTrea:::txtsize --> OIsdhTrneUnc:::txtsize
+Ilautpkanbh:::txtsize --> Ilselaonms:::txtsize
+Ilselaonms:::txtsize --> Wouaaam:::txtsize
+Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
+Wouaaam:::txtsize --> NyeeawHakl:::txtsize
+Ilselaonms:::txtsize --> Ffoaakiosen:::txtsize
+Ffoaakiosen:::txtsize --> Gsaardsrfsticese:::txtsize
+Ffoaakiosen:::txtsize --> Wouaaam:::txtsize
+Ilautpkanbh:::txtsize --> Tdrcaaededlncbs:::txtsize
+Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
+PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
 
 ```
-<i>Last updated: 2025-11-23 16:00:36.495774 (GMT+8)</i>
+<i>Last updated: 2025-11-23 20:01:02.690735 (GMT+8)</i>
 <!-- END -->
