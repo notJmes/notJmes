@@ -16,111 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-WfAhestitsom@{ shape: win-pane, label: "_Published Nov 23, 2025, 07:55 PM_
-War refugee aonishiki becomes first ukrainian to win sumo tournament" }
-Unausafntse@{ shape: win-pane, label: "_Published Oct 09, 2025, 03:46 PM_
-Ukrainian takes sumo by storm after fleeing war to pursue dreams" }
-Feksansuognlsf@{ shape: win-pane, label: "_Published Sep 23, 2025, 02:19 PM_
-Future bleak unless ukraine invests in young sporting talent: athletics chief" }
-Untisfihsmanna@{ shape: win-pane, label: "_Published Jul 09, 2025, 06:12 AM_
-Ukraine protests inclusion of russian athletes with military ranks as neutrals" }
-JnlpetvmaohinCn@{ shape: win-pane, label: "_Published Sep 20, 2025, 02:21 AM_
-Jasmine paolini sparkles as italy overcome ukraine to reach billie jean king cup final" }
-UnteruvheyRaaK@{ shape: win-pane, label: "_Published Sep 08, 2025, 12:46 AM_
-Ukraine footballer heorhiy sudakov says home destroyed in russian attack on kyiv" }
-RaUnhercasrtdb@{ shape: win-pane, label: "_Published Sep 07, 2025, 10:16 AM_
-Russia hits ukraine with biggest air attack of war, sets government building ablaze" }
-Trfaosaoeia@{ shape: win-pane, label: "_Published Sep 08, 2025, 01:11 AM_
-Trump ready for ‘phase two’ of russia sanctions over war in ukraine" }
-Unausafntse@{ shape: win-pane, label: "_Published Oct 09, 2025, 03:46 PM_
-Ukrainian takes sumo by storm after fleeing war to pursue dreams" }
-Feksansuognlsf@{ shape: win-pane, label: "_Published Sep 23, 2025, 02:19 PM_
-Future bleak unless ukraine invests in young sporting talent: athletics chief" }
-Untisfihsmanna@{ shape: win-pane, label: "_Published Jul 09, 2025, 06:12 AM_
-Ukraine protests inclusion of russian athletes with military ranks as neutrals" }
-JnlpetvmaohinCn@{ shape: win-pane, label: "_Published Sep 20, 2025, 02:21 AM_
-Jasmine paolini sparkles as italy overcome ukraine to reach billie jean king cup final" }
-UnteruvheyRaaK@{ shape: win-pane, label: "_Published Sep 08, 2025, 12:46 AM_
-Ukraine footballer heorhiy sudakov says home destroyed in russian attack on kyiv" }
-RaUnhercasrtdb@{ shape: win-pane, label: "_Published Sep 07, 2025, 10:16 AM_
-Russia hits ukraine with biggest air attack of war, sets government building ablaze" }
-Trfaosaoeia@{ shape: win-pane, label: "_Published Sep 08, 2025, 01:11 AM_
-Trump ready for ‘phase two’ of russia sanctions over war in ukraine" }
+Tbsirgtots@{ shape: win-pane, label: "_Published Nov 23, 2025, 11:53 PM_
+Trump blasts ukraine for ‘zero gratitude’ to us as talks start" }
+Pperumsiddg@{ shape: win-pane, label: "_Published Nov 08, 2024, 01:42 AM_
+Putin praises ‘courageous’ trump, says russia ready for dialogue" }
+TsbchioUdetne@{ shape: win-pane, label: "_Published Nov 06, 2024, 07:37 AM_
+Trump set to be elected 47th president of the united states in stunning comeback" }
+Hrtoessmemt@{ shape: win-pane, label: "_Published Nov 06, 2024, 03:17 PM_
+‘historic return’: world leaders praise trump as he claims victory" }
+PgfctteetiuT@{ shape: win-pane, label: "_Published Nov 06, 2024, 08:59 PM_
+Pm wong reaffirms commitment to strengthening ties with us under trump" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
+Explosions heard in ukraine capital kyiv, other cities" }
+OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
+Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
 
-WfAhestitsom:::txtsize --> Unausafntse:::txtsize
-Unausafntse:::txtsize --> Feksansuognlsf:::txtsize
-Feksansuognlsf:::txtsize --> Untisfihsmanna:::txtsize
-Feksansuognlsf:::txtsize --> JnlpetvmaohinCn:::txtsize
-Unausafntse:::txtsize --> UnteruvheyRaaK:::txtsize
-UnteruvheyRaaK:::txtsize --> RaUnhercasrtdb:::txtsize
-UnteruvheyRaaK:::txtsize --> Trfaosaoeia:::txtsize
-WfAhestitsom:::txtsize --> Unausafntse:::txtsize
-Unausafntse:::txtsize --> Feksansuognlsf:::txtsize
-Feksansuognlsf:::txtsize --> Untisfihsmanna:::txtsize
-Feksansuognlsf:::txtsize --> JnlpetvmaohinCn:::txtsize
-Unausafntse:::txtsize --> UnteruvheyRaaK:::txtsize
-UnteruvheyRaaK:::txtsize --> RaUnhercasrtdb:::txtsize
-UnteruvheyRaaK:::txtsize --> Trfaosaoeia:::txtsize
+Tbsirgtots:::txtsize --> Pperumsiddg:::txtsize
+Pperumsiddg:::txtsize --> TsbchioUdetne:::txtsize
+TsbchioUdetne:::txtsize --> Hrtoessmemt:::txtsize
+TsbchioUdetne:::txtsize --> PgfctteetiuT:::txtsize
+Pperumsiddg:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
+DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
 
-IafmoereAlhe@{ shape: win-pane, label: "_Published Nov 23, 2025, 07:50 PM_
-Iran warns of attempts to target supreme leader ayatollah khamenei" }
-ISmdoasigugdIl@{ shape: win-pane, label: "_Published Jun 27, 2025, 12:40 AM_
-Iran’s supreme leader avoided assassination by going underground, says israel" }
-TtIodirsdelmutt@{ shape: win-pane, label: "_Published Jun 13, 2025, 08:20 AM_
-Trump tells iran to ‘make deal’ with israel as world leaders call for ‘maximum restraint’" }
-IamrnaetlIli@{ shape: win-pane, label: "_Published Jun 13, 2025, 04:29 PM_
-Iranian commanders and nuclear scientists killed in israeli strikes" }
-Tsrdeecedletdr@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:17 AM_
-Trump says iran and israel agree to a ‘complete and total’ ceasefire to end 12-day war" }
-IiieSaQTcrnaec@{ shape: win-pane, label: "_Published Jun 24, 2025, 01:23 AM_
-Iran fires missiles at us airbase in qatar, trump calls response ‘weak’, urges peace" }
-Tsrdeecedletdr@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:17 AM_
-Trump says iran and israel agree to a ‘complete and total’ ceasefire to end 12-day war" }
-IiieSaQTcrnaec@{ shape: win-pane, label: "_Published Jun 24, 2025, 01:23 AM_
-Iran fires missiles at us airbase in qatar, trump calls response ‘weak’, urges peace" }
+crdemrchsdsg@{ shape: win-pane, label: "_Published Nov 23, 2025, 10:35 PM_
+50 children kidnapped from nigerian school have escaped: christian group" }
+MhinfnNioowmbi@{ shape: win-pane, label: "_Published Nov 23, 2025, 02:09 AM_
+More than 300 children, staff taken from nigeria school, in one of worst mass abductions" }
+Eihrhematnr@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:32 PM_
+Explainer: why is trump threatening military action in nigeria?" }
+TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
+Trump threatens military action in nigeria over ‘killing of christians’" }
+Tshoeonrierts@{ shape: win-pane, label: "_Published Nov 03, 2025, 07:41 AM_
+Trump says there ‘could be’ us troops on the ground in nigeria, or air strikes" }
+yoeCksli@{ shape: win-pane, label: "_Published Apr 14, 2021, 04:33 PM_
+7 years on, more than 100 chibok girls still missing" }
+Unwfnmopoei@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:06 PM_
+Un agencies warn of famine for millions, appeal for more funding" }
+Usyadeurl@{ shape: win-pane, label: "_Published Sep 30, 2025, 08:48 PM_
+Un says ready for gaza aid surge set out in trump plan" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+Speemzcnsmatooa@{ shape: win-pane, label: "_Published Sep 30, 2025, 04:25 PM_
+Singapore welcomes trump’s gaza peace plan, calls on hamas to accept proposal to end war: mfa" }
+Hripnasaisea@{ shape: win-pane, label: "_Published Jun 16, 2025, 06:25 PM_
+Hunger crisis deepens in global hot spots as famine risk rises, un warns" }
+Cidaiclhrs@{ shape: win-pane, label: "_Published May 16, 2025, 07:48 PM_
+Conflict and climate drive record global hunger in 2024, un says" }
+WFrmnodkaaors@{ shape: win-pane, label: "_Published Apr 25, 2025, 09:55 PM_
+World food programme runs out of food stocks in gaza as aid block persists" }
 
-IafmoereAlhe:::txtsize --> ISmdoasigugdIl:::txtsize
-ISmdoasigugdIl:::txtsize --> TtIodirsdelmutt:::txtsize
-TtIodirsdelmutt:::txtsize --> IamrnaetlIli:::txtsize
-ISmdoasigugdIl:::txtsize --> Tsrdeecedletdr:::txtsize
-Tsrdeecedletdr:::txtsize --> IiieSaQTcrnaec:::txtsize
-IafmoereAlhe:::txtsize --> Tsrdeecedletdr:::txtsize
-Tsrdeecedletdr:::txtsize --> IiieSaQTcrnaec:::txtsize
+crdemrchsdsg:::txtsize --> MhinfnNioowmbi:::txtsize
+MhinfnNioowmbi:::txtsize --> Eihrhematnr:::txtsize
+Eihrhematnr:::txtsize --> TttiriNiriCt:::txtsize
+Eihrhematnr:::txtsize --> Tshoeonrierts:::txtsize
+MhinfnNioowmbi:::txtsize --> yoeCksli:::txtsize
+crdemrchsdsg:::txtsize --> Unwfnmopoei:::txtsize
+Unwfnmopoei:::txtsize --> Usyadeurl:::txtsize
+Usyadeurl:::txtsize --> Tseaupoabmrnluo:::txtsize
+Usyadeurl:::txtsize --> Speemzcnsmatooa:::txtsize
+Unwfnmopoei:::txtsize --> Hripnasaisea:::txtsize
+Hripnasaisea:::txtsize --> Cidaiclhrs:::txtsize
+Hripnasaisea:::txtsize --> WFrmnodkaaors:::txtsize
 
-Ilautpkanbh@{ shape: win-pane, label: "_Published Nov 23, 2025, 07:39 PM_
-Israel’s netanyahu vows to keep striking hamas and hezbollah" }
-Ilselaonms@{ shape: win-pane, label: "_Published Nov 23, 2025, 01:09 AM_
-Israeli airstrikes kill at least 20 people in gaza, medics say" }
-Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
-What does trump’s gaza peace plan promise?" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Ffoaakiosen@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:18 PM_
-‘full of sorrow’: gazans head back to ruined homes as truce begins" }
-Gsaardsrfsticese@{ shape: win-pane, label: "_Published Oct 10, 2025, 04:58 PM_
-Gazans stream towards wrecked homes as israeli forces start pulling back under ceasefire" }
-Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
-What does trump’s gaza peace plan promise?" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
-Peace finally descends on the middle east: now the battle to make it last begins" }
-TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
-Tears, joy in israel as hamas hands over first hostages" }
+CararnohSses@{ shape: win-pane, label: "_Published Nov 23, 2025, 10:12 PM_
+Canada pm carney says world can move on without us, stresses new ties" }
+Tahurpdvnesn@{ shape: win-pane, label: "_Published May 22, 2025, 01:26 AM_
+Trump ambushes south africa’s president over ‘genocide’ accusation" }
+FwSAarnTcsfimi@{ shape: win-pane, label: "_Published May 13, 2025, 04:01 AM_
+First white south africans arrive in us as trump claims they face discrimination" }
+FwSAaaarduivul@{ shape: win-pane, label: "_Published May 12, 2025, 05:01 AM_
+First white south africans board plane for us under trump’s divisive refugee plan" }
+Eluretashirt@{ shape: win-pane, label: "_Published Mar 23, 2025, 07:00 PM_
+Expelled south african envoy to us says he’s back home ‘with no regrets’" }
+Tssniofswplec@{ shape: win-pane, label: "_Published Feb 11, 2025, 08:13 PM_
+Trump’s accusations against south africa spark ‘white privilege’ self-mockery" }
+TfeSAaictfas@{ shape: win-pane, label: "_Published Feb 09, 2025, 02:40 AM_
+Trump freezes all south african assistance as stand-off escalates" }
+TjCamtard@{ shape: win-pane, label: "_Published Dec 19, 2024, 12:55 AM_
+Trump jokes canada becoming 51st us state ‘a great idea’" }
+CaaieyFasapyhPd@{ shape: win-pane, label: "_Published Dec 16, 2024, 10:39 PM_
+Canada’s finance minister chrystia freeland resigns after policy clash with pm trudeau" }
+Cadueroeo@{ shape: win-pane, label: "_Published Dec 10, 2024, 08:15 AM_
+Canada’s trudeau survives third no-confidence vote" }
+TamTtednstnfa@{ shape: win-pane, label: "_Published Dec 02, 2024, 04:19 AM_
+Trudeau promised trump tougher border controls, says top canada official" }
+CadaslfePi@{ shape: win-pane, label: "_Published Dec 18, 2024, 06:56 AM_
+Canada’s trudeau battles to hold on after deputy pm resigns" }
+CaaieyFasapyhPd@{ shape: win-pane, label: "_Published Dec 16, 2024, 10:39 PM_
+Canada’s finance minister chrystia freeland resigns after policy clash with pm trudeau" }
+TttheCanrollgoir@{ shape: win-pane, label: "_Published Nov 26, 2024, 08:02 AM_
+Trump threatens china, mexico, canada with new tariffs over illegal immigration, illicit drugs" }
 
-Ilautpkanbh:::txtsize --> Ilselaonms:::txtsize
-Ilselaonms:::txtsize --> Wouaaam:::txtsize
-Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
-Wouaaam:::txtsize --> NyeeawHakl:::txtsize
-Ilselaonms:::txtsize --> Ffoaakiosen:::txtsize
-Ffoaakiosen:::txtsize --> Gsaardsrfsticese:::txtsize
-Ffoaakiosen:::txtsize --> Wouaaam:::txtsize
-Ilautpkanbh:::txtsize --> Tdrcaaededlncbs:::txtsize
-Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
-PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
+CararnohSses:::txtsize --> Tahurpdvnesn:::txtsize
+Tahurpdvnesn:::txtsize --> FwSAarnTcsfimi:::txtsize
+FwSAarnTcsfimi:::txtsize --> FwSAaaarduivul:::txtsize
+FwSAarnTcsfimi:::txtsize --> Eluretashirt:::txtsize
+Tahurpdvnesn:::txtsize --> Tssniofswplec:::txtsize
+Tssniofswplec:::txtsize --> TfeSAaictfas:::txtsize
+CararnohSses:::txtsize --> TjCamtard:::txtsize
+TjCamtard:::txtsize --> CaaieyFasapyhPd:::txtsize
+CaaieyFasapyhPd:::txtsize --> Cadueroeo:::txtsize
+CaaieyFasapyhPd:::txtsize --> TamTtednstnfa:::txtsize
+TjCamtard:::txtsize --> CadaslfePi:::txtsize
+CadaslfePi:::txtsize --> CaaieyFasapyhPd:::txtsize
+CadaslfePi:::txtsize --> TttheCanrollgoir:::txtsize
 
 ```
-<i>Last updated: 2025-11-23 20:01:02.690735 (GMT+8)</i>
+<i>Last updated: 2025-11-24 00:00:30.730735 (GMT+8)</i>
 <!-- END -->
