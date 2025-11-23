@@ -16,114 +16,126 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tbsirgtots@{ shape: win-pane, label: "_Published Nov 23, 2025, 11:53 PM_
-Trump blasts ukraine for ‘zero gratitude’ to us as talks start" }
-Pperumsiddg@{ shape: win-pane, label: "_Published Nov 08, 2024, 01:42 AM_
-Putin praises ‘courageous’ trump, says russia ready for dialogue" }
-TsbchioUdetne@{ shape: win-pane, label: "_Published Nov 06, 2024, 07:37 AM_
-Trump set to be elected 47th president of the united states in stunning comeback" }
-Hrtoessmemt@{ shape: win-pane, label: "_Published Nov 06, 2024, 03:17 PM_
-‘historic return’: world leaders praise trump as he claims victory" }
-PgfctteetiuT@{ shape: win-pane, label: "_Published Nov 06, 2024, 08:59 PM_
-Pm wong reaffirms commitment to strengthening ties with us under trump" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
-Explosions heard in ukraine capital kyiv, other cities" }
-OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
-Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
-
-Tbsirgtots:::txtsize --> Pperumsiddg:::txtsize
-Pperumsiddg:::txtsize --> TsbchioUdetne:::txtsize
-TsbchioUdetne:::txtsize --> Hrtoessmemt:::txtsize
-TsbchioUdetne:::txtsize --> PgfctteetiuT:::txtsize
-Pperumsiddg:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
-DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
-
-crdemrchsdsg@{ shape: win-pane, label: "_Published Nov 23, 2025, 10:35 PM_
-50 children kidnapped from nigerian school have escaped: christian group" }
-MhinfnNioowmbi@{ shape: win-pane, label: "_Published Nov 23, 2025, 02:09 AM_
-More than 300 children, staff taken from nigeria school, in one of worst mass abductions" }
-Eihrhematnr@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:32 PM_
-Explainer: why is trump threatening military action in nigeria?" }
-TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
-Trump threatens military action in nigeria over ‘killing of christians’" }
-Tshoeonrierts@{ shape: win-pane, label: "_Published Nov 03, 2025, 07:41 AM_
-Trump says there ‘could be’ us troops on the ground in nigeria, or air strikes" }
-yoeCksli@{ shape: win-pane, label: "_Published Apr 14, 2021, 04:33 PM_
-7 years on, more than 100 chibok girls still missing" }
-Unwfnmopoei@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:06 PM_
-Un agencies warn of famine for millions, appeal for more funding" }
-Usyadeurl@{ shape: win-pane, label: "_Published Sep 30, 2025, 08:48 PM_
-Un says ready for gaza aid surge set out in trump plan" }
+HdamEsiyareecf@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:25 AM_
+Hamas delegation meets egypt spy chief, says israeli ‘breaches’ threaten ceasefire" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
 Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
 Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-Speemzcnsmatooa@{ shape: win-pane, label: "_Published Sep 30, 2025, 04:25 PM_
-Singapore welcomes trump’s gaza peace plan, calls on hamas to accept proposal to end war: mfa" }
-Hripnasaisea@{ shape: win-pane, label: "_Published Jun 16, 2025, 06:25 PM_
-Hunger crisis deepens in global hot spots as famine risk rises, un warns" }
-Cidaiclhrs@{ shape: win-pane, label: "_Published May 16, 2025, 07:48 PM_
-Conflict and climate drive record global hunger in 2024, un says" }
-WFrmnodkaaors@{ shape: win-pane, label: "_Published Apr 25, 2025, 09:55 PM_
-World food programme runs out of food stocks in gaza as aid block persists" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+AUencfmpome@{ shape: win-pane, label: "_Published Nov 19, 2025, 01:43 PM_
+After un vote, netanyahu calls for hamas’ expulsion from the region" }
+UuCipruomzcn@{ shape: win-pane, label: "_Published Nov 18, 2025, 06:27 AM_
+Un security council adopts us resolution on trump’s gaza peace plan" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+UecSiustfpa@{ shape: win-pane, label: "_Published Nov 18, 2025, 07:13 PM_
+Un chief welcomes security council’s adoption of trump’s gaza plan" }
+UuCipruomzcn@{ shape: win-pane, label: "_Published Nov 18, 2025, 06:27 AM_
+Un security council adopts us resolution on trump’s gaza peace plan" }
+UuCipruomzcn@{ shape: win-pane, label: "_Published Nov 18, 2025, 06:27 AM_
+Un security council adopts us resolution on trump’s gaza peace plan" }
 
-crdemrchsdsg:::txtsize --> MhinfnNioowmbi:::txtsize
-MhinfnNioowmbi:::txtsize --> Eihrhematnr:::txtsize
-Eihrhematnr:::txtsize --> TttiriNiriCt:::txtsize
-Eihrhematnr:::txtsize --> Tshoeonrierts:::txtsize
-MhinfnNioowmbi:::txtsize --> yoeCksli:::txtsize
-crdemrchsdsg:::txtsize --> Unwfnmopoei:::txtsize
-Unwfnmopoei:::txtsize --> Usyadeurl:::txtsize
-Usyadeurl:::txtsize --> Tseaupoabmrnluo:::txtsize
-Usyadeurl:::txtsize --> Speemzcnsmatooa:::txtsize
-Unwfnmopoei:::txtsize --> Hripnasaisea:::txtsize
-Hripnasaisea:::txtsize --> Cidaiclhrs:::txtsize
-Hripnasaisea:::txtsize --> WFrmnodkaaors:::txtsize
+HdamEsiyareecf:::txtsize --> Wouaaam:::txtsize
+Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+Wouaaam:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+HdamEsiyareecf:::txtsize --> AUencfmpome:::txtsize
+AUencfmpome:::txtsize --> UuCipruomzcn:::txtsize
+UuCipruomzcn:::txtsize --> Wouaaam:::txtsize
+UuCipruomzcn:::txtsize --> Sbsrcdnacaale:::txtsize
+AUencfmpome:::txtsize --> UecSiustfpa:::txtsize
+UecSiustfpa:::txtsize --> UuCipruomzcn:::txtsize
+UecSiustfpa:::txtsize --> UuCipruomzcn:::txtsize
 
-CararnohSses@{ shape: win-pane, label: "_Published Nov 23, 2025, 10:12 PM_
-Canada pm carney says world can move on without us, stresses new ties" }
-Tahurpdvnesn@{ shape: win-pane, label: "_Published May 22, 2025, 01:26 AM_
-Trump ambushes south africa’s president over ‘genocide’ accusation" }
-FwSAarnTcsfimi@{ shape: win-pane, label: "_Published May 13, 2025, 04:01 AM_
-First white south africans arrive in us as trump claims they face discrimination" }
-FwSAaaarduivul@{ shape: win-pane, label: "_Published May 12, 2025, 05:01 AM_
-First white south africans board plane for us under trump’s divisive refugee plan" }
-Eluretashirt@{ shape: win-pane, label: "_Published Mar 23, 2025, 07:00 PM_
-Expelled south african envoy to us says he’s back home ‘with no regrets’" }
-Tssniofswplec@{ shape: win-pane, label: "_Published Feb 11, 2025, 08:13 PM_
-Trump’s accusations against south africa spark ‘white privilege’ self-mockery" }
-TfeSAaictfas@{ shape: win-pane, label: "_Published Feb 09, 2025, 02:40 AM_
-Trump freezes all south african assistance as stand-off escalates" }
-TjCamtard@{ shape: win-pane, label: "_Published Dec 19, 2024, 12:55 AM_
-Trump jokes canada becoming 51st us state ‘a great idea’" }
-CaaieyFasapyhPd@{ shape: win-pane, label: "_Published Dec 16, 2024, 10:39 PM_
-Canada’s finance minister chrystia freeland resigns after policy clash with pm trudeau" }
-Cadueroeo@{ shape: win-pane, label: "_Published Dec 10, 2024, 08:15 AM_
-Canada’s trudeau survives third no-confidence vote" }
-TamTtednstnfa@{ shape: win-pane, label: "_Published Dec 02, 2024, 04:19 AM_
-Trudeau promised trump tougher border controls, says top canada official" }
-CadaslfePi@{ shape: win-pane, label: "_Published Dec 18, 2024, 06:56 AM_
-Canada’s trudeau battles to hold on after deputy pm resigns" }
-CaaieyFasapyhPd@{ shape: win-pane, label: "_Published Dec 16, 2024, 10:39 PM_
-Canada’s finance minister chrystia freeland resigns after policy clash with pm trudeau" }
-TttheCanrollgoir@{ shape: win-pane, label: "_Published Nov 26, 2024, 08:02 AM_
-Trump threatens china, mexico, canada with new tariffs over illegal immigration, illicit drugs" }
+UcPusirftttiln@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:26 AM_
+Us fbi chief patel under scrutiny for use of swat teams to protect his girlfriend" }
+Frrnostueececy@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:19 AM_
+Fbi fires more agents who investigated trump, then reverses course, sources say" }
+SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
+Storming of us capitol: timeline of key events in washington" }
+peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
+4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
+Freieedgatrt@{ shape: win-pane, label: "_Published Sep 27, 2025, 01:15 PM_
+Fbi fires agents pictured kneeling during racial justice protest in 2020" }
+Tttenadcm@{ shape: win-pane, label: "_Published Sep 27, 2025, 10:12 AM_
+Trump targets more opponents after ‘dirty cop’ comey" }
+Citearcicoisgp@{ shape: win-pane, label: "_Published Sep 27, 2025, 04:47 AM_
+Comey indictment escalates trump’s campaign to chill opposition, say legal experts" }
+Ierdsiupcao@{ shape: win-pane, label: "_Published Sep 28, 2025, 07:54 AM_
+Inside the trump administration’s push to prosecute james comey" }
+Frhorahdurcc@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:10 AM_
+Former fbi chief comey criminally charged as trump targets critics" }
+TpcgJcanhhe@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:36 AM_
+Trump publicly urges us justice department to charge his enemies" }
+Edtmteyevvceo@{ shape: win-pane, label: "_Published May 17, 2025, 03:04 AM_
+Ex-fbi director comey interviewed by secret service over ‘8647’ social media post" }
+TpcgJcanhhe@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:36 AM_
+Trump publicly urges us justice department to charge his enemies" }
+UsoeestrueeeLie@{ shape: win-pane, label: "_Published Sep 20, 2025, 11:09 PM_
+Us prosecutor ‘fired’ after pressure to charge trump foes james comey and letitia james" }
+AcTmtwrnslm@{ shape: win-pane, label: "_Published Oct 04, 2019, 07:45 AM_
+Adam schiff: the democratic lawmaker who enrages donald trump" }
 
-CararnohSses:::txtsize --> Tahurpdvnesn:::txtsize
-Tahurpdvnesn:::txtsize --> FwSAarnTcsfimi:::txtsize
-FwSAarnTcsfimi:::txtsize --> FwSAaaarduivul:::txtsize
-FwSAarnTcsfimi:::txtsize --> Eluretashirt:::txtsize
-Tahurpdvnesn:::txtsize --> Tssniofswplec:::txtsize
-Tssniofswplec:::txtsize --> TfeSAaictfas:::txtsize
-CararnohSses:::txtsize --> TjCamtard:::txtsize
-TjCamtard:::txtsize --> CaaieyFasapyhPd:::txtsize
-CaaieyFasapyhPd:::txtsize --> Cadueroeo:::txtsize
-CaaieyFasapyhPd:::txtsize --> TamTtednstnfa:::txtsize
-TjCamtard:::txtsize --> CadaslfePi:::txtsize
-CadaslfePi:::txtsize --> CaaieyFasapyhPd:::txtsize
-CadaslfePi:::txtsize --> TttheCanrollgoir:::txtsize
+UcPusirftttiln:::txtsize --> Frrnostueececy:::txtsize
+Frrnostueececy:::txtsize --> SiUiinenWn:::txtsize
+SiUiinenWn:::txtsize --> peapubmalrest:::txtsize
+Frrnostueececy:::txtsize --> Freieedgatrt:::txtsize
+Freieedgatrt:::txtsize --> Tttenadcm:::txtsize
+Freieedgatrt:::txtsize --> Citearcicoisgp:::txtsize
+UcPusirftttiln:::txtsize --> Ierdsiupcao:::txtsize
+Ierdsiupcao:::txtsize --> Frhorahdurcc:::txtsize
+Frhorahdurcc:::txtsize --> TpcgJcanhhe:::txtsize
+Frhorahdurcc:::txtsize --> Edtmteyevvceo:::txtsize
+Ierdsiupcao:::txtsize --> TpcgJcanhhe:::txtsize
+TpcgJcanhhe:::txtsize --> UsoeestrueeeLie:::txtsize
+TpcgJcanhhe:::txtsize --> AcTmtwrnslm:::txtsize
+
+RskeiGaahtr@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
+Rubio says ukraine meeting in geneva probably the best so far" }
+ZsarsalUnzruikn@{ shape: win-pane, label: "_Published Nov 23, 2025, 11:53 PM_
+Zelensky thanks trump as us leader blasts ukraine for ‘zero gratitude’ amid talks to end war" }
+EeregUalthmNtett@{ shape: win-pane, label: "_Published Nov 24, 2025, 12:32 AM_
+Europeans propose changes to us ukraine plan with higher army cap, nato-style security pact" }
+ZsarsalUnzruikn@{ shape: win-pane, label: "_Published Nov 23, 2025, 11:53 PM_
+Zelensky thanks trump as us leader blasts ukraine for ‘zero gratitude’ amid talks to end war" }
+UisRahaal@{ shape: win-pane, label: "_Published Nov 23, 2025, 10:55 AM_
+Us denies pushing russian ‘wish list’ as ukraine plan" }
+Wrdaalermncon@{ shape: win-pane, label: "_Published Nov 22, 2025, 10:04 PM_
+Western leaders say ukraine plan needs work, trump signals scope for changes" }
+EeregUalthmNtett@{ shape: win-pane, label: "_Published Nov 24, 2025, 12:32 AM_
+Europeans propose changes to us ukraine plan with higher army cap, nato-style security pact" }
+ZsarsalUnzruikn@{ shape: win-pane, label: "_Published Nov 23, 2025, 11:53 PM_
+Zelensky thanks trump as us leader blasts ukraine for ‘zero gratitude’ amid talks to end war" }
+EeregUalthmNtett@{ shape: win-pane, label: "_Published Nov 24, 2025, 12:32 AM_
+Europeans propose changes to us ukraine plan with higher army cap, nato-style security pact" }
+UisRahaal@{ shape: win-pane, label: "_Published Nov 23, 2025, 10:55 AM_
+Us denies pushing russian ‘wish list’ as ukraine plan" }
+
+RskeiGaahtr:::txtsize --> ZsarsalUnzruikn:::txtsize
+ZsarsalUnzruikn:::txtsize --> EeregUalthmNtett:::txtsize
+EeregUalthmNtett:::txtsize --> ZsarsalUnzruikn:::txtsize
+ZsarsalUnzruikn:::txtsize --> UisRahaal:::txtsize
+UisRahaal:::txtsize --> Wrdaalermncon:::txtsize
+RskeiGaahtr:::txtsize --> EeregUalthmNtett:::txtsize
+EeregUalthmNtett:::txtsize --> ZsarsalUnzruikn:::txtsize
+ZsarsalUnzruikn:::txtsize --> EeregUalthmNtett:::txtsize
+ZsarsalUnzruikn:::txtsize --> UisRahaal:::txtsize
 
 ```
-<i>Last updated: 2025-11-24 00:00:30.730735 (GMT+8)</i>
+<i>Last updated: 2025-11-24 04:00:58.769941 (GMT+8)</i>
 <!-- END -->
