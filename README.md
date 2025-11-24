@@ -16,132 +16,141 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Twivdipsiwuk@{ shape: win-pane, label: "_Published Nov 24, 2025, 10:52 PM_
-Trump weighing advanced nvidia chip sales to china, howard lutnick says" }
-Hndiylhseese@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:06 AM_
-High-end nvidia chips may be sold to china as tech evolves, says bessent" }
-Tshtoineipi@{ shape: win-pane, label: "_Published Nov 03, 2025, 09:33 AM_
-Trump says china, other countries can’t have nvidia’s top ai chips" }
-Tsvcaiiioecl@{ shape: win-pane, label: "_Published Oct 30, 2025, 02:12 PM_
-Trump says nvidia chip talks with china’s xi did not cover blackwell" }
-NamriSloybomrs@{ shape: win-pane, label: "_Published Oct 30, 2025, 12:46 AM_
-Nvidia becomes world’s first us$5 trillion company as ai boom powers meteoric rise" }
-CuUveeectt@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:36 AM_
-China urges us to avoid ‘red lines’ after reaching trade truce" }
-Anmubsirooe@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:05 PM_
-‘amazing’ trump-xi summit brings tactical truce, not major reset" }
-Wiacriswmi@{ shape: win-pane, label: "_Published Oct 31, 2025, 10:21 PM_
-Why taiwan’s absence in trump-xi talks was a welcome relief" }
-Tshtoineipi@{ shape: win-pane, label: "_Published Nov 03, 2025, 09:33 AM_
-Trump says china, other countries can’t have nvidia’s top ai chips" }
-Tsvcaiiioecl@{ shape: win-pane, label: "_Published Oct 30, 2025, 02:12 PM_
-Trump says nvidia chip talks with china’s xi did not cover blackwell" }
-NamriSloybomrs@{ shape: win-pane, label: "_Published Oct 30, 2025, 12:46 AM_
-Nvidia becomes world’s first us$5 trillion company as ai boom powers meteoric rise" }
-Cscehett@{ shape: win-pane, label: "_Published Oct 06, 2025, 10:56 AM_
-China’s chip challenge: the race to match us tech" }
-NamriSloybomrs@{ shape: win-pane, label: "_Published Oct 30, 2025, 12:46 AM_
-Nvidia becomes world’s first us$5 trillion company as ai boom powers meteoric rise" }
-Naefousacocboa@{ shape: win-pane, label: "_Published Oct 29, 2025, 06:26 AM_
-Nvidia ceo rebuts fears of ai bubble, says latest chips on track for $647 billion in sales" }
-Siliiesgmi@{ shape: win-pane, label: "_Published Oct 29, 2025, 08:18 AM_
-Sk hynix sells entire 2026 chip line-up in strong ai demand signal" }
+UgstiagtIfsyoLie@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:16 AM_
+Us judge tosses out criminal cases against ex-fbi chief james comey, new york a-g letitia james" }
+Frhorahdurcc@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:10 AM_
+Former fbi chief comey criminally charged as trump targets critics" }
+TpcgJcanhhe@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:36 AM_
+Trump publicly urges us justice department to charge his enemies" }
+UsoeestrueeeLie@{ shape: win-pane, label: "_Published Sep 20, 2025, 11:09 PM_
+Us prosecutor ‘fired’ after pressure to charge trump foes james comey and letitia james" }
+AcTmtwrnslm@{ shape: win-pane, label: "_Published Oct 04, 2019, 07:45 AM_
+Adam schiff: the democratic lawmaker who enrages donald trump" }
+Edtmteyevvceo@{ shape: win-pane, label: "_Published May 17, 2025, 03:04 AM_
+Ex-fbi director comey interviewed by secret service over ‘8647’ social media post" }
+UisitmIfyttp@{ shape: win-pane, label: "_Published May 16, 2025, 09:45 AM_
+Us officials looking into former fbi chief comey’s ‘8647’ post about trump" }
+Uiiwaipatbhra@{ shape: win-pane, label: "_Published Jan 08, 2021, 12:03 PM_
+Us capitol riot: how social media helped enable attack by die-hard trump fans" }
+Tlimruvwlyct@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:34 AM_
+Trump loyalist admits grand jury never saw final comey indictment" }
+UgddofmefabBhao@{ shape: win-pane, label: "_Published Nov 18, 2025, 04:07 AM_
+Us judge finds evidence of ‘profound’ missteps in federal probe of fbi ex-chief james comey" }
+Frfleroiasnio@{ shape: win-pane, label: "_Published Oct 22, 2025, 03:17 AM_
+Former us officials urge congress to examine ‘weaponisation’ working group" }
+EcCasicunees@{ shape: win-pane, label: "_Published Oct 31, 2025, 07:21 AM_
+Ex-fbi chief comey argues 2020 testimony can’t sustain false statements case" }
+EcCasicunees@{ shape: win-pane, label: "_Published Oct 31, 2025, 07:21 AM_
+Ex-fbi chief comey argues 2020 testimony can’t sustain false statements case" }
+TstseydtrBesn@{ shape: win-pane, label: "_Published Oct 10, 2025, 09:14 PM_
+Trump’s call to prosecute comey could bolster former fbi director's defence" }
+EcCpsuiepe@{ shape: win-pane, label: "_Published Oct 08, 2025, 11:53 PM_
+Ex-fbi chief comey pleads not guilty in case trump pushed for" }
 
-Twivdipsiwuk:::txtsize --> Hndiylhseese:::txtsize
-Hndiylhseese:::txtsize --> Tshtoineipi:::txtsize
-Tshtoineipi:::txtsize --> Tsvcaiiioecl:::txtsize
-Tshtoineipi:::txtsize --> NamriSloybomrs:::txtsize
-Hndiylhseese:::txtsize --> CuUveeectt:::txtsize
-CuUveeectt:::txtsize --> Anmubsirooe:::txtsize
-CuUveeectt:::txtsize --> Wiacriswmi:::txtsize
-Twivdipsiwuk:::txtsize --> Tshtoineipi:::txtsize
-Tshtoineipi:::txtsize --> Tsvcaiiioecl:::txtsize
-Tsvcaiiioecl:::txtsize --> NamriSloybomrs:::txtsize
-Tsvcaiiioecl:::txtsize --> Cscehett:::txtsize
-Tshtoineipi:::txtsize --> NamriSloybomrs:::txtsize
-NamriSloybomrs:::txtsize --> Naefousacocboa:::txtsize
-NamriSloybomrs:::txtsize --> Siliiesgmi:::txtsize
+UgstiagtIfsyoLie:::txtsize --> Frhorahdurcc:::txtsize
+Frhorahdurcc:::txtsize --> TpcgJcanhhe:::txtsize
+TpcgJcanhhe:::txtsize --> UsoeestrueeeLie:::txtsize
+TpcgJcanhhe:::txtsize --> AcTmtwrnslm:::txtsize
+Frhorahdurcc:::txtsize --> Edtmteyevvceo:::txtsize
+Edtmteyevvceo:::txtsize --> UisitmIfyttp:::txtsize
+Edtmteyevvceo:::txtsize --> Uiiwaipatbhra:::txtsize
+UgstiagtIfsyoLie:::txtsize --> Tlimruvwlyct:::txtsize
+Tlimruvwlyct:::txtsize --> UgddofmefabBhao:::txtsize
+UgddofmefabBhao:::txtsize --> Frfleroiasnio:::txtsize
+UgddofmefabBhao:::txtsize --> EcCasicunees:::txtsize
+Tlimruvwlyct:::txtsize --> EcCasicunees:::txtsize
+EcCasicunees:::txtsize --> TstseydtrBesn:::txtsize
+EcCasicunees:::txtsize --> EcCpsuiepe:::txtsize
 
-Umepigaonin@{ shape: win-pane, label: "_Published Nov 24, 2025, 10:43 PM_
-Us terminates temporarily legal status for myanmar citizens" }
-Nyistnllbmiiaw@{ shape: win-pane, label: "_Published Nov 23, 2025, 02:22 PM_
-Nearly 200,000 ukrainians in us thrown into legal limbo by trump immigration crackdown" }
-UnlnUnaffst@{ shape: win-pane, label: "_Published Mar 23, 2022, 06:28 AM_
-Us plans to allow in more ukrainians after few refugees admitted" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-TptogafislUra@{ shape: win-pane, label: "_Published Mar 06, 2025, 08:11 PM_
-Trump plans to revoke legal status of ukrainians who fled to us, sources say" }
-Unlyphaiogh@{ shape: win-pane, label: "_Published Mar 01, 2025, 01:48 AM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-Unfelfreks@{ shape: win-pane, label: "_Published Mar 01, 2025, 08:49 PM_
-Ukrainians face new reality after trump-zelensky clash" }
-Uredinute@{ shape: win-pane, label: "_Published Aug 19, 2025, 01:54 AM_
-Us has revoked 6,000 student visas under rubio: state dept" }
-Ttmerototafuacun@{ shape: win-pane, label: "_Published Jul 07, 2025, 10:17 PM_
-Trump to terminate deportation protection for thousands of hondurans and nicaraguans in us" }
-TaitentduNegs@{ shape: win-pane, label: "_Published Jun 06, 2025, 01:31 AM_
-Trump administration set to end protected status for nepalese migrants" }
-Iiroecyrgon@{ shape: win-pane, label: "_Published Jul 07, 2025, 09:20 AM_
-Ice raids derail los angeles economy as workers go into hiding" }
+AneoiTneapoldgono@{ shape: win-pane, label: "_Published Nov 25, 2025, 01:40 AM_
+Amazon suspected of acting as ‘trojan horse’ in italian probe over alleged smuggling of chinese goods" }
+Angtlonuoirve@{ shape: win-pane, label: "_Published Nov 25, 2025, 01:01 AM_
+Amazon pledges up to $65 billion to expand ai, supercomputing for us government" }
+OIdosmooiwocSce@{ shape: win-pane, label: "_Published Jul 03, 2025, 09:56 AM_
+Openai inks deal for massive amount of ai computing power from oracle’s us data centres" }
+AgodeerynE@{ shape: win-pane, label: "_Published Apr 10, 2025, 03:13 PM_
+Ai surge to double data centre electricity demand by 2030: iea" }
+Imdowsgp@{ shape: win-pane, label: "_Published Jul 06, 2024, 02:18 AM_
+Is ai a major drain on the world's energy supply?" }
+NattrherIe@{ shape: win-pane, label: "_Published Nov 24, 2025, 08:14 AM_
+Nvidia didn’t save the market. what’s next for the ai trade?" }
+SparnsenXee@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:00 AM_
+Singapore market responds positively to new sgx-mas measures" }
+Snenmmohixs@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:50 AM_
+Sweden’s government summons amazon over childlike sex dolls" }
+CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
+China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
+SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
+Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
+Shtfbsrol@{ shape: win-pane, label: "_Published Oct 10, 2025, 08:00 AM_
+Shein, hit with big fines, boosts internal controls" }
+Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
+Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
+FeaSbclelp@{ shape: win-pane, label: "_Published Nov 03, 2025, 08:50 PM_
+France threatens shein ban if ‘childlike’ sex dolls reappear" }
+CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
+China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
 
-Umepigaonin:::txtsize --> Nyistnllbmiiaw:::txtsize
-Nyistnllbmiiaw:::txtsize --> UnlnUnaffst:::txtsize
-UnlnUnaffst:::txtsize --> DsruasvUn:::txtsize
-Nyistnllbmiiaw:::txtsize --> TptogafislUra:::txtsize
-TptogafislUra:::txtsize --> Unlyphaiogh:::txtsize
-TptogafislUra:::txtsize --> Unfelfreks:::txtsize
-Umepigaonin:::txtsize --> Uredinute:::txtsize
-Uredinute:::txtsize --> Ttmerototafuacun:::txtsize
-Ttmerototafuacun:::txtsize --> TaitentduNegs:::txtsize
-Ttmerototafuacun:::txtsize --> Iiroecyrgon:::txtsize
+AneoiTneapoldgono:::txtsize --> Angtlonuoirve:::txtsize
+Angtlonuoirve:::txtsize --> OIdosmooiwocSce:::txtsize
+OIdosmooiwocSce:::txtsize --> AgodeerynE:::txtsize
+OIdosmooiwocSce:::txtsize --> Imdowsgp:::txtsize
+Angtlonuoirve:::txtsize --> NattrherIe:::txtsize
+NattrherIe:::txtsize --> SparnsenXee:::txtsize
+AneoiTneapoldgono:::txtsize --> Snenmmohixs:::txtsize
+Snenmmohixs:::txtsize --> CsnsdsloeoFhhoi:::txtsize
+CsnsdsloeoFhhoi:::txtsize --> SthirylerNsba:::txtsize
+CsnsdsloeoFhhoi:::txtsize --> Shtfbsrol:::txtsize
+Snenmmohixs:::txtsize --> Sbelerncrdo:::txtsize
+Sbelerncrdo:::txtsize --> FeaSbclelp:::txtsize
+Sbelerncrdo:::txtsize --> CsnsdsloeoFhhoi:::txtsize
 
-SAaeehossse@{ shape: win-pane, label: "_Published Nov 24, 2025, 10:32 PM_
-Saudi arabia to open more alcohol stores as curbs ease, sources say" }
-Sgtdoar@{ shape: win-pane, label: "_Published Dec 12, 2024, 12:16 AM_
-Some against 2034 world cup hosts saudi arabia" }
-NgetriilacsWCdps@{ shape: win-pane, label: "_Published Dec 10, 2024, 09:37 PM_
-Norwegian federation criticises fifa’s ‘flawed and inconsistent’ world cup bidding process" }
-Adneiskmon@{ shape: win-pane, label: "_Published Dec 10, 2024, 11:48 AM_
-A world cup on three continents sparks climate concerns" }
-HiSfatsaaWC@{ shape: win-pane, label: "_Published Dec 10, 2024, 11:20 AM_
-‘humanising saudi football’: netflix show paves way for world cup" }
-Fuldlbemgssmyro@{ shape: win-pane, label: "_Published Nov 11, 2024, 08:03 AM_
-Fifa must halt saudi world cup bid due to human rights issues, says amnesty international" }
-SWCdhplN@{ shape: win-pane, label: "_Published Oct 30, 2024, 12:56 PM_
-Saudi world cup bid’s rights report ‘flawed’: ngos" }
-Biehrpyuv@{ shape: win-pane, label: "_Published Nov 01, 2023, 03:03 PM_
-Bridging the gulf: how world cup is key to saudi revamp" }
-SAacertignh@{ shape: win-pane, label: "_Published May 26, 2025, 08:43 PM_
-Saudi arabia official denies reports of lifting ban on alcohol" }
-SAarslaAaru@{ shape: win-pane, label: "_Published Oct 31, 2023, 08:53 PM_
-Saudi arabia clear to host 2034 world cup after australia drops out" }
-WtQhydesfdi@{ shape: win-pane, label: "_Published Oct 18, 2023, 08:15 PM_
-We want what qatar had, says saudi vice-minister of 2034 world cup bid" }
-Wsdsreuol@{ shape: win-pane, label: "_Published Oct 06, 2023, 01:47 PM_
-Women’s squad seeks their share of saudi football boom" }
-Noldrpbisama@{ shape: win-pane, label: "_Published Feb 13, 2025, 01:44 PM_
-No alcohol allowed at 2034 world cup football finals, says saudi ambassador" }
-Sgtdoar@{ shape: win-pane, label: "_Published Dec 12, 2024, 12:16 AM_
-Some against 2034 world cup hosts saudi arabia" }
-SAalbthoataaaxn@{ shape: win-pane, label: "_Published Dec 01, 2024, 02:59 PM_
-Saudi arabia’s 2034 world cup bid gets higher score than united states, canada and mexico in 2026" }
+UIleaniuineomo@{ shape: win-pane, label: "_Published Nov 25, 2025, 01:24 AM_
+Us and israel-backed gaza humanitarian foundation announces end of its mission" }
+Ileaaarise@{ shape: win-pane, label: "_Published May 27, 2025, 04:12 AM_
+Israel-backed gaza food aid plan starts amid dissent, delay" }
+HfrsSeares@{ shape: win-pane, label: "_Published May 26, 2025, 09:28 AM_
+Head of controversial us-backed gaza aid group resigns" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+UlarSeetz@{ shape: win-pane, label: "_Published May 16, 2025, 12:57 AM_
+Un will not take part in us-backed aid effort in gaza" }
+Ueswclhsrld@{ shape: win-pane, label: "_Published May 24, 2025, 11:10 AM_
+Un chief says gaza war in ‘cruellest phase’ as aid trucks looted" }
+Usfeiaohrie@{ shape: win-pane, label: "_Published May 23, 2025, 11:06 PM_
+Un says more food needed in gaza as looting hampers deliveries" }
+Usfeiaohrie@{ shape: win-pane, label: "_Published May 23, 2025, 11:06 PM_
+Un says more food needed in gaza as looting hampers deliveries" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
+Israel marks oct 7 anniversary as talks are held to end gaza war" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+Hatmzcnhodro@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:11 PM_
+Hamas accepts trump’s gaza peace plan, but the bloodshed is far from over" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
 
-SAaeehossse:::txtsize --> Sgtdoar:::txtsize
-Sgtdoar:::txtsize --> NgetriilacsWCdps:::txtsize
-NgetriilacsWCdps:::txtsize --> Adneiskmon:::txtsize
-NgetriilacsWCdps:::txtsize --> HiSfatsaaWC:::txtsize
-Sgtdoar:::txtsize --> Fuldlbemgssmyro:::txtsize
-Fuldlbemgssmyro:::txtsize --> SWCdhplN:::txtsize
-Fuldlbemgssmyro:::txtsize --> Biehrpyuv:::txtsize
-SAaeehossse:::txtsize --> SAacertignh:::txtsize
-SAacertignh:::txtsize --> SAarslaAaru:::txtsize
-SAarslaAaru:::txtsize --> WtQhydesfdi:::txtsize
-SAarslaAaru:::txtsize --> Wsdsreuol:::txtsize
-SAacertignh:::txtsize --> Noldrpbisama:::txtsize
-Noldrpbisama:::txtsize --> Sgtdoar:::txtsize
-Noldrpbisama:::txtsize --> SAalbthoataaaxn:::txtsize
+UIleaniuineomo:::txtsize --> Ileaaarise:::txtsize
+Ileaaarise:::txtsize --> HfrsSeares:::txtsize
+HfrsSeares:::txtsize --> NyeeawHakl:::txtsize
+HfrsSeares:::txtsize --> UlarSeetz:::txtsize
+Ileaaarise:::txtsize --> Ueswclhsrld:::txtsize
+Ueswclhsrld:::txtsize --> Usfeiaohrie:::txtsize
+Ueswclhsrld:::txtsize --> Usfeiaohrie:::txtsize
+UIleaniuineomo:::txtsize --> TssHaossaaorslaoe:::txtsize
+TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
+Ilsnrakhoar:::txtsize --> Sbsrcdnacaale:::txtsize
+Ilsnrakhoar:::txtsize --> Hatmzcnhodro:::txtsize
+TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
 
 ```
-<i>Last updated: 2025-11-25 00:01:22.796840 (GMT+8)</i>
+<i>Last updated: 2025-11-25 04:00:59.436273 (GMT+8)</i>
 <!-- END -->
