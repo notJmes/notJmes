@@ -16,114 +16,129 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-PeduLoivap@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:00 PM_
-Pope leo heads to turkey, lebanon in first overseas trip" }
-Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
-Pope francis dies at age 88" }
-Prsdafoaaos@{ shape: win-pane, label: "_Published Mar 23, 2025, 01:28 AM_
-Pope francis to be discharged from hospital on march 23, doctor says" }
-Prsrrpfxtpds@{ shape: win-pane, label: "_Published Mar 22, 2025, 03:53 AM_
-Pope francis must relearn to speak after oxygen therapy, cardinal says" }
-Aecllsoud@{ shape: win-pane, label: "_Published Mar 19, 2025, 09:05 PM_
-As pope francis ails, outlandish rumours run wild" }
-PrsrVaeessl@{ shape: win-pane, label: "_Published Mar 23, 2025, 07:19 PM_
-Pope francis returns to vatican after five weeks in hospital" }
-Prsrrpfxtpds@{ shape: win-pane, label: "_Published Mar 22, 2025, 03:53 AM_
-Pope francis must relearn to speak after oxygen therapy, cardinal says" }
-AgFincadno@{ shape: win-pane, label: "_Published Mar 09, 2025, 04:10 PM_
-Ailing pope francis thanks doctors as condition improves" }
-Peiiiikbospaof@{ shape: win-pane, label: "_Published Oct 27, 2025, 08:50 PM_
-Pope leo to visit eight cities in turkey, lebanon on first trip abroad as pontiff" }
-UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
-Us cardinal prevost elected pope leo xiv, first american pontiff" }
-Arnclaenigi@{ shape: win-pane, label: "_Published May 09, 2025, 06:49 AM_
-A reformer and a reconciler: what pope leo’s new reign might bring" }
-IfarPeoselbia@{ shape: win-pane, label: "_Published May 09, 2025, 03:40 AM_
-In his first appearance, pope leo xiv offers three big clues about his papacy" }
-PemeVakicarm@{ shape: win-pane, label: "_Published Oct 06, 2025, 08:06 PM_
-Pope leo trims powers of vatican bank, rolling back a francis reform" }
-Peiitsdaasrctp@{ shape: win-pane, label: "_Published May 10, 2025, 07:40 PM_
-Pope leo xiv inherits vatican’s shoddy finances and its efforts to clean them up" }
-Nplacdraaeb@{ shape: win-pane, label: "_Published Apr 28, 2025, 06:16 PM_
-New pope will face a vatican budget crisis, a myriad other problems" }
-
-PeduLoivap:::txtsize --> Prsa:::txtsize
-Prsa:::txtsize --> Prsdafoaaos:::txtsize
-Prsdafoaaos:::txtsize --> Prsrrpfxtpds:::txtsize
-Prsdafoaaos:::txtsize --> Aecllsoud:::txtsize
-Prsa:::txtsize --> PrsrVaeessl:::txtsize
-PrsrVaeessl:::txtsize --> Prsrrpfxtpds:::txtsize
-PrsrVaeessl:::txtsize --> AgFincadno:::txtsize
-PeduLoivap:::txtsize --> Peiiiikbospaof:::txtsize
-Peiiiikbospaof:::txtsize --> UdPscooimat:::txtsize
-UdPscooimat:::txtsize --> Arnclaenigi:::txtsize
-UdPscooimat:::txtsize --> IfarPeoselbia:::txtsize
-Peiiiikbospaof:::txtsize --> PemeVakicarm:::txtsize
-PemeVakicarm:::txtsize --> Peiitsdaasrctp:::txtsize
-PemeVakicarm:::txtsize --> Nplacdraaeb:::txtsize
-
-Ulnaewniaark@{ shape: win-pane, label: "_Published Nov 24, 2025, 08:40 AM_
-Us hails ‘significant step forward’ in ukraine ‘peace framework’ talks" }
-Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
-Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
-Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
-Trump’s 28-point ukraine plan" }
-Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
-Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
-Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
-Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
-
-Ulnaewniaark:::txtsize --> Uneftcrespepp:::txtsize
-Uneftcrespepp:::txtsize --> Tstia:::txtsize
-Tstia:::txtsize --> Zsarskbdaosb:::txtsize
-Tstia:::txtsize --> Zsarskbdaosb:::txtsize
-
-Mnewrclese@{ shape: win-pane, label: "_Published Nov 24, 2025, 08:00 AM_
-Mamdani’s meeting with trump scrambled the maga-sphere" }
-TcncoYaloMnhoeg@{ shape: win-pane, label: "_Published Nov 22, 2025, 04:54 AM_
-Trump commends victory of new york mayor-elect zohran mamdani at white house meeting" }
-ThuMnlmenekmae@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:15 PM_
-‘turn the volume up,’ mamdani tells trump after winning new york city mayoral race" }
+TssrRlsttghreni@{ shape: win-pane, label: "_Published Nov 24, 2025, 07:02 PM_
+Trump seizes control of republicans’ 2026 election strategy with his presidency on the line" }
+Tcasefdrsfocm@{ shape: win-pane, label: "_Published Nov 15, 2025, 07:18 AM_
+Trump cuts tariffs on beef, coffee and other foods as inflation concerns mount" }
+Tpmopsfnarrrye@{ shape: win-pane, label: "_Published Nov 13, 2025, 08:05 AM_
+Trump plans move to ease prices on coffee and bananas: treasury secretary bessent" }
 Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
 Democrats sweep first major elections of second trump term" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
-TarwsekaMn@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:10 AM_
-Trump aides review funds for new york city after mamdani win" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-Tcsbcaomhwes@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:55 AM_
-Trump claims ‘very big victory’ as us government shutdown vote nears" }
-TcncoYaloMnhoeg@{ shape: win-pane, label: "_Published Nov 22, 2025, 04:54 AM_
-Trump commends victory of new york mayor-elect zohran mamdani at white house meeting" }
-ThuMnlmenekmae@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:15 PM_
-‘turn the volume up,’ mamdani tells trump after winning new york city mayoral race" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
-TarwsekaMn@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:10 AM_
-Trump aides review funds for new york city after mamdani win" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-Tcsbcaomhwes@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:55 AM_
-Trump claims ‘very big victory’ as us government shutdown vote nears" }
+Iucynrssoi@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:13 PM_
+It’s trump’s economy now, and americans don’t seem to love it" }
+Tspaspadanop@{ shape: win-pane, label: "_Published Apr 03, 2025, 04:47 AM_
+Trump’s sweeping tariffs amp up global trade war as china, eu vow response" }
+Ttftlaraarasrafl@{ shape: win-pane, label: "_Published Apr 03, 2025, 07:56 AM_
+Trump tariffs: hitting close partner singapore ‘a surprise’, says ex-senior us trade official" }
+Acnrrhteur@{ shape: win-pane, label: "_Published Feb 17, 2025, 01:52 PM_
+American consumers learn to shop in the age of trump tariffs" }
+TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
+Trump signs bill ordering us justice department to release epstein files" }
+Ugpsufrspnsitm@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:23 AM_
+Us congress passes measure to force release of epstein files, sending it to trump" }
+Therltsfwrons@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:55 AM_
+Trump has the power to release the epstein files, with or without congress" }
+Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
+Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
+Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
+Epstein files to be released to us public: what are they?" }
+ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
+After trump reversal, us house pushes forward on epstein vote" }
+TskeMewtco@{ shape: win-pane, label: "_Published Nov 18, 2025, 09:15 AM_
+Trump’s frankenstein? us maga meltdown tests its creator" }
 
-Mnewrclese:::txtsize --> TcncoYaloMnhoeg:::txtsize
-TcncoYaloMnhoeg:::txtsize --> ThuMnlmenekmae:::txtsize
-ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
-ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
-TcncoYaloMnhoeg:::txtsize --> TarwsekaMn:::txtsize
-TarwsekaMn:::txtsize --> YMmnoihaiYilehpea:::txtsize
-TarwsekaMn:::txtsize --> Tcsbcaomhwes:::txtsize
-Mnewrclese:::txtsize --> TcncoYaloMnhoeg:::txtsize
-TcncoYaloMnhoeg:::txtsize --> ThuMnlmenekmae:::txtsize
-ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
-ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
-TcncoYaloMnhoeg:::txtsize --> TarwsekaMn:::txtsize
-TarwsekaMn:::txtsize --> YMmnoihaiYilehpea:::txtsize
-TarwsekaMn:::txtsize --> Tcsbcaomhwes:::txtsize
+TssrRlsttghreni:::txtsize --> Tcasefdrsfocm:::txtsize
+Tcasefdrsfocm:::txtsize --> Tpmopsfnarrrye:::txtsize
+Tpmopsfnarrrye:::txtsize --> Drwialosdp:::txtsize
+Tpmopsfnarrrye:::txtsize --> Iucynrssoi:::txtsize
+Tcasefdrsfocm:::txtsize --> Tspaspadanop:::txtsize
+Tspaspadanop:::txtsize --> Ttftlaraarasrafl:::txtsize
+Tspaspadanop:::txtsize --> Acnrrhteur:::txtsize
+TssrRlsttghreni:::txtsize --> TsBrnuertlEie:::txtsize
+TsBrnuertlEie:::txtsize --> Ugpsufrspnsitm:::txtsize
+Ugpsufrspnsitm:::txtsize --> Therltsfwrons:::txtsize
+Ugpsufrspnsitm:::txtsize --> Tdddnersdiinst:::txtsize
+TsBrnuertlEie:::txtsize --> Eieeaobhe:::txtsize
+Eieeaobhe:::txtsize --> ATrsHpsaEie:::txtsize
+Eieeaobhe:::txtsize --> TskeMewtco:::txtsize
+
+Gesseoeetmk@{ shape: win-pane, label: "_Published Nov 24, 2025, 06:46 PM_
+Greek ex-pm tsipras issues memoir ahead of expected comeback" }
+TsnnooUnaie@{ shape: win-pane, label: "_Published Sep 29, 2025, 11:41 PM_
+Trump’s ego and ‘finnish solution’ for ukraine: ex-nato chief’s memoir" }
+EofSegmrfci@{ shape: win-pane, label: "_Published Feb 04, 2025, 06:41 PM_
+Ex-nato chief jens stoltenberg becomes norway’s finance minister" }
+OseuaskreitS@{ shape: win-pane, label: "_Published Feb 04, 2025, 09:36 AM_
+One response to trump’s tariffs: striking trade deals without the us" }
+EccysavemaCea@{ shape: win-pane, label: "_Published Jan 30, 2025, 10:44 PM_
+Eurosceptic party quits norway’s government, almost half of cabinet departs" }
+FranoerniarfawoT@{ shape: win-pane, label: "_Published Nov 21, 2024, 08:12 AM_
+Former german chancellor angela merkel, in memoir, recalls tricks for dealing with donald trump" }
+Feuiea@{ shape: win-pane, label: "_Published Feb 24, 2023, 05:54 PM_
+Feb 24, 2022: the day russia invaded ukraine" }
+Aaemnninocest@{ shape: win-pane, label: "_Published Dec 03, 2024, 11:35 AM_
+Angela merkel, obama reunite in washington for former chancellor’s book tour" }
+TetiWunSiien@{ shape: win-pane, label: "_Published Nov 07, 2024, 05:00 AM_
+The unexpected unifier: why trump won the us presidential election" }
+FranoerniarfawoT@{ shape: win-pane, label: "_Published Nov 21, 2024, 08:12 AM_
+Former german chancellor angela merkel, in memoir, recalls tricks for dealing with donald trump" }
+Feuiea@{ shape: win-pane, label: "_Published Feb 24, 2023, 05:54 PM_
+Feb 24, 2022: the day russia invaded ukraine" }
+
+Gesseoeetmk:::txtsize --> TsnnooUnaie:::txtsize
+TsnnooUnaie:::txtsize --> EofSegmrfci:::txtsize
+EofSegmrfci:::txtsize --> OseuaskreitS:::txtsize
+EofSegmrfci:::txtsize --> EccysavemaCea:::txtsize
+TsnnooUnaie:::txtsize --> FranoerniarfawoT:::txtsize
+FranoerniarfawoT:::txtsize --> Feuiea:::txtsize
+Gesseoeetmk:::txtsize --> Aaemnninocest:::txtsize
+Aaemnninocest:::txtsize --> TetiWunSiien:::txtsize
+Aaemnninocest:::txtsize --> FranoerniarfawoT:::txtsize
+FranoerniarfawoT:::txtsize --> Feuiea:::txtsize
+
+Sotmnqinoeua@{ shape: win-pane, label: "_Published Nov 24, 2025, 06:38 PM_
+Senator wants trump to answer questions on tiktok divestiture plan" }
+TbUkeigefre@{ shape: win-pane, label: "_Published Sep 26, 2025, 04:52 AM_
+Trump backs us$14b tiktok deal; china urges ‘open and fair’ treatment" }
+Eihcsrrnoid@{ shape: win-pane, label: "_Published Sep 25, 2025, 08:27 AM_
+Explainer: why oracle has a starring role in proposed tiktok deal" }
+Tkesamaret@{ shape: win-pane, label: "_Published Sep 17, 2025, 05:10 PM_
+Tiktok, rare earths, taiwan: trump-xi call to run the gamut" }
+UlkaTkTaitsa@{ shape: win-pane, label: "_Published Sep 18, 2025, 08:41 AM_
+Us key lawmakers wary of tiktok deal trump administration is preparing" }
+WnwTkoun@{ shape: win-pane, label: "_Published Sep 24, 2025, 05:00 PM_
+Washington wants tiktok. it’s not about china" }
+Tknbrrowae@{ shape: win-pane, label: "_Published Jan 21, 2025, 05:00 AM_
+Tiktok’s on and off ban: here’s a breakdown of what happened" }
+UmsiiaTkrwrsuc@{ shape: win-pane, label: "_Published Oct 17, 2025, 08:07 AM_
+Us lawmaker says licensing deal for tiktok algorithm would raise serious concerns" }
+TbUkeigefre@{ shape: win-pane, label: "_Published Sep 26, 2025, 04:52 AM_
+Trump backs us$14b tiktok deal; china urges ‘open and fair’ treatment" }
+Eihcsrrnoid@{ shape: win-pane, label: "_Published Sep 25, 2025, 08:27 AM_
+Explainer: why oracle has a starring role in proposed tiktok deal" }
+WnwTkoun@{ shape: win-pane, label: "_Published Sep 24, 2025, 05:00 PM_
+Washington wants tiktok. it’s not about china" }
+Wedkbhidii@{ shape: win-pane, label: "_Published Sep 22, 2025, 10:50 PM_
+What we do and don’t know about the us tiktok deal with china" }
+Tamrsidlmnha@{ shape: win-pane, label: "_Published Sep 20, 2025, 09:15 AM_
+Trump and xi make progress on tiktok deal, plan to meet in south korea" }
+CsDweoeoTSasca@{ shape: win-pane, label: "_Published Sep 21, 2025, 08:25 PM_
+China’s bytedance will get 1 of 7 board seats for tiktok’s us operations, official says" }
+
+Sotmnqinoeua:::txtsize --> TbUkeigefre:::txtsize
+TbUkeigefre:::txtsize --> Eihcsrrnoid:::txtsize
+Eihcsrrnoid:::txtsize --> Tkesamaret:::txtsize
+Eihcsrrnoid:::txtsize --> UlkaTkTaitsa:::txtsize
+TbUkeigefre:::txtsize --> WnwTkoun:::txtsize
+WnwTkoun:::txtsize --> Tknbrrowae:::txtsize
+Sotmnqinoeua:::txtsize --> UmsiiaTkrwrsuc:::txtsize
+UmsiiaTkrwrsuc:::txtsize --> TbUkeigefre:::txtsize
+TbUkeigefre:::txtsize --> Eihcsrrnoid:::txtsize
+TbUkeigefre:::txtsize --> WnwTkoun:::txtsize
+UmsiiaTkrwrsuc:::txtsize --> Wedkbhidii:::txtsize
+Wedkbhidii:::txtsize --> Tamrsidlmnha:::txtsize
+Wedkbhidii:::txtsize --> CsDweoeoTSasca:::txtsize
 
 ```
-<i>Last updated: 2025-11-24 16:01:15.575492 (GMT+8)</i>
+<i>Last updated: 2025-11-24 20:00:50.324006 (GMT+8)</i>
 <!-- END -->
