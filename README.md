@@ -16,126 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-HdamEsiyareecf@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:25 AM_
-Hamas delegation meets egypt spy chief, says israeli ‘breaches’ threaten ceasefire" }
-Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
-What does trump’s gaza peace plan promise?" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-AUencfmpome@{ shape: win-pane, label: "_Published Nov 19, 2025, 01:43 PM_
-After un vote, netanyahu calls for hamas’ expulsion from the region" }
-UuCipruomzcn@{ shape: win-pane, label: "_Published Nov 18, 2025, 06:27 AM_
-Un security council adopts us resolution on trump’s gaza peace plan" }
-Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
-What does trump’s gaza peace plan promise?" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-UecSiustfpa@{ shape: win-pane, label: "_Published Nov 18, 2025, 07:13 PM_
-Un chief welcomes security council’s adoption of trump’s gaza plan" }
-UuCipruomzcn@{ shape: win-pane, label: "_Published Nov 18, 2025, 06:27 AM_
-Un security council adopts us resolution on trump’s gaza peace plan" }
-UuCipruomzcn@{ shape: win-pane, label: "_Published Nov 18, 2025, 06:27 AM_
-Un security council adopts us resolution on trump’s gaza peace plan" }
-
-HdamEsiyareecf:::txtsize --> Wouaaam:::txtsize
-Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-Wouaaam:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-HdamEsiyareecf:::txtsize --> AUencfmpome:::txtsize
-AUencfmpome:::txtsize --> UuCipruomzcn:::txtsize
-UuCipruomzcn:::txtsize --> Wouaaam:::txtsize
-UuCipruomzcn:::txtsize --> Sbsrcdnacaale:::txtsize
-AUencfmpome:::txtsize --> UecSiustfpa:::txtsize
-UecSiustfpa:::txtsize --> UuCipruomzcn:::txtsize
-UecSiustfpa:::txtsize --> UuCipruomzcn:::txtsize
-
-UcPusirftttiln@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:26 AM_
-Us fbi chief patel under scrutiny for use of swat teams to protect his girlfriend" }
-Frrnostueececy@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:19 AM_
-Fbi fires more agents who investigated trump, then reverses course, sources say" }
-SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
-peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
-4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
-Freieedgatrt@{ shape: win-pane, label: "_Published Sep 27, 2025, 01:15 PM_
-Fbi fires agents pictured kneeling during racial justice protest in 2020" }
-Tttenadcm@{ shape: win-pane, label: "_Published Sep 27, 2025, 10:12 AM_
-Trump targets more opponents after ‘dirty cop’ comey" }
-Citearcicoisgp@{ shape: win-pane, label: "_Published Sep 27, 2025, 04:47 AM_
-Comey indictment escalates trump’s campaign to chill opposition, say legal experts" }
-Ierdsiupcao@{ shape: win-pane, label: "_Published Sep 28, 2025, 07:54 AM_
-Inside the trump administration’s push to prosecute james comey" }
-Frhorahdurcc@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:10 AM_
-Former fbi chief comey criminally charged as trump targets critics" }
-TpcgJcanhhe@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:36 AM_
-Trump publicly urges us justice department to charge his enemies" }
-Edtmteyevvceo@{ shape: win-pane, label: "_Published May 17, 2025, 03:04 AM_
-Ex-fbi director comey interviewed by secret service over ‘8647’ social media post" }
-TpcgJcanhhe@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:36 AM_
-Trump publicly urges us justice department to charge his enemies" }
-UsoeestrueeeLie@{ shape: win-pane, label: "_Published Sep 20, 2025, 11:09 PM_
-Us prosecutor ‘fired’ after pressure to charge trump foes james comey and letitia james" }
-AcTmtwrnslm@{ shape: win-pane, label: "_Published Oct 04, 2019, 07:45 AM_
-Adam schiff: the democratic lawmaker who enrages donald trump" }
-
-UcPusirftttiln:::txtsize --> Frrnostueececy:::txtsize
-Frrnostueececy:::txtsize --> SiUiinenWn:::txtsize
-SiUiinenWn:::txtsize --> peapubmalrest:::txtsize
-Frrnostueececy:::txtsize --> Freieedgatrt:::txtsize
-Freieedgatrt:::txtsize --> Tttenadcm:::txtsize
-Freieedgatrt:::txtsize --> Citearcicoisgp:::txtsize
-UcPusirftttiln:::txtsize --> Ierdsiupcao:::txtsize
-Ierdsiupcao:::txtsize --> Frhorahdurcc:::txtsize
-Frhorahdurcc:::txtsize --> TpcgJcanhhe:::txtsize
-Frhorahdurcc:::txtsize --> Edtmteyevvceo:::txtsize
-Ierdsiupcao:::txtsize --> TpcgJcanhhe:::txtsize
-TpcgJcanhhe:::txtsize --> UsoeestrueeeLie:::txtsize
-TpcgJcanhhe:::txtsize --> AcTmtwrnslm:::txtsize
-
-RskeiGaahtr@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
-Rubio says ukraine meeting in geneva probably the best so far" }
-ZsarsalUnzruikn@{ shape: win-pane, label: "_Published Nov 23, 2025, 11:53 PM_
-Zelensky thanks trump as us leader blasts ukraine for ‘zero gratitude’ amid talks to end war" }
-EeregUalthmNtett@{ shape: win-pane, label: "_Published Nov 24, 2025, 12:32 AM_
-Europeans propose changes to us ukraine plan with higher army cap, nato-style security pact" }
-ZsarsalUnzruikn@{ shape: win-pane, label: "_Published Nov 23, 2025, 11:53 PM_
-Zelensky thanks trump as us leader blasts ukraine for ‘zero gratitude’ amid talks to end war" }
-UisRahaal@{ shape: win-pane, label: "_Published Nov 23, 2025, 10:55 AM_
-Us denies pushing russian ‘wish list’ as ukraine plan" }
-Wrdaalermncon@{ shape: win-pane, label: "_Published Nov 22, 2025, 10:04 PM_
-Western leaders say ukraine plan needs work, trump signals scope for changes" }
-EeregUalthmNtett@{ shape: win-pane, label: "_Published Nov 24, 2025, 12:32 AM_
-Europeans propose changes to us ukraine plan with higher army cap, nato-style security pact" }
+Iterelnitcn@{ shape: win-pane, label: "_Published Nov 24, 2025, 07:45 AM_
+In his tightest corner yet, will zelensky rise to the occasion?" }
+Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
+Us hails progress in ukraine peace talks but security questions unresolved" }
 ZsarsalUnzruikn@{ shape: win-pane, label: "_Published Nov 23, 2025, 11:53 PM_
 Zelensky thanks trump as us leader blasts ukraine for ‘zero gratitude’ amid talks to end war" }
 EeregUalthmNtett@{ shape: win-pane, label: "_Published Nov 24, 2025, 12:32 AM_
 Europeans propose changes to us ukraine plan with higher army cap, nato-style security pact" }
 UisRahaal@{ shape: win-pane, label: "_Published Nov 23, 2025, 10:55 AM_
 Us denies pushing russian ‘wish list’ as ukraine plan" }
+Tskeleanwub@{ shape: win-pane, label: "_Published Nov 22, 2025, 04:26 AM_
+Trump says ukraine should accept plan to end war with russia by nov 27" }
+Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
+Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
+Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
+Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
 
-RskeiGaahtr:::txtsize --> ZsarsalUnzruikn:::txtsize
-ZsarsalUnzruikn:::txtsize --> EeregUalthmNtett:::txtsize
-EeregUalthmNtett:::txtsize --> ZsarsalUnzruikn:::txtsize
-ZsarsalUnzruikn:::txtsize --> UisRahaal:::txtsize
-UisRahaal:::txtsize --> Wrdaalermncon:::txtsize
-RskeiGaahtr:::txtsize --> EeregUalthmNtett:::txtsize
-EeregUalthmNtett:::txtsize --> ZsarsalUnzruikn:::txtsize
+Iterelnitcn:::txtsize --> Ulgiaeauuqinl:::txtsize
+Ulgiaeauuqinl:::txtsize --> ZsarsalUnzruikn:::txtsize
 ZsarsalUnzruikn:::txtsize --> EeregUalthmNtett:::txtsize
 ZsarsalUnzruikn:::txtsize --> UisRahaal:::txtsize
+Ulgiaeauuqinl:::txtsize --> Tskeleanwub:::txtsize
+Tskeleanwub:::txtsize --> Uneftcrespepp:::txtsize
+Tskeleanwub:::txtsize --> Uneftcrespepp:::txtsize
+
+Cohowhrfyoe@{ shape: win-pane, label: "_Published Nov 24, 2025, 06:45 AM_
+Crypto crash is eroding wealth for trump’s family and followers" }
+Tumsgnyrtmonoln@{ shape: win-pane, label: "_Published Apr 13, 2025, 09:30 AM_
+The trump family is going all in on crypto projects, from bitcoin mining to stablecoins" }
+TMtiosyoMniF@{ shape: win-pane, label: "_Published Mar 25, 2025, 09:18 AM_
+Trump media taps singapore-based crypto.com for made-in-america etfs" }
+Bikfoodevem@{ shape: win-pane, label: "_Published Mar 11, 2025, 10:20 AM_
+Bitcoin sinks to a four-month low amid concerns over us economy" }
+Tstesssdomolsu@{ shape: win-pane, label: "_Published Jan 20, 2025, 08:55 AM_
+Trump’s crypto memecoin surges in just two days to become one of world’s most valuable" }
+Humucohyanr@{ shape: win-pane, label: "_Published Jan 12, 2025, 10:00 AM_
+How trump came around to crypto – and what crypto wants in return" }
+TsbchioUdetne@{ shape: win-pane, label: "_Published Nov 06, 2024, 07:37 AM_
+Trump set to be elected 47th president of the united states in stunning comeback" }
+Coeisnrdlnpo@{ shape: win-pane, label: "_Published Nov 14, 2024, 04:16 PM_
+Crypto market capitalisation hits record $4.3 trillion on trump euphoria" }
+Tumsgnyrtmonoln@{ shape: win-pane, label: "_Published Apr 13, 2025, 09:30 AM_
+The trump family is going all in on crypto projects, from bitcoin mining to stablecoins" }
+TMtiosyoMniF@{ shape: win-pane, label: "_Published Mar 25, 2025, 09:18 AM_
+Trump media taps singapore-based crypto.com for made-in-america etfs" }
+Bikfoodevem@{ shape: win-pane, label: "_Published Mar 11, 2025, 10:20 AM_
+Bitcoin sinks to a four-month low amid concerns over us economy" }
+Tstesssdomolsu@{ shape: win-pane, label: "_Published Jan 20, 2025, 08:55 AM_
+Trump’s crypto memecoin surges in just two days to become one of world’s most valuable" }
+Humucohyanr@{ shape: win-pane, label: "_Published Jan 12, 2025, 10:00 AM_
+How trump came around to crypto – and what crypto wants in return" }
+TsbchioUdetne@{ shape: win-pane, label: "_Published Nov 06, 2024, 07:37 AM_
+Trump set to be elected 47th president of the united states in stunning comeback" }
+Coeisnrdlnpo@{ shape: win-pane, label: "_Published Nov 14, 2024, 04:16 PM_
+Crypto market capitalisation hits record $4.3 trillion on trump euphoria" }
+
+Cohowhrfyoe:::txtsize --> Tumsgnyrtmonoln:::txtsize
+Tumsgnyrtmonoln:::txtsize --> TMtiosyoMniF:::txtsize
+TMtiosyoMniF:::txtsize --> Bikfoodevem:::txtsize
+TMtiosyoMniF:::txtsize --> Tstesssdomolsu:::txtsize
+Tumsgnyrtmonoln:::txtsize --> Humucohyanr:::txtsize
+Humucohyanr:::txtsize --> TsbchioUdetne:::txtsize
+Humucohyanr:::txtsize --> Coeisnrdlnpo:::txtsize
+Cohowhrfyoe:::txtsize --> Tumsgnyrtmonoln:::txtsize
+Tumsgnyrtmonoln:::txtsize --> TMtiosyoMniF:::txtsize
+TMtiosyoMniF:::txtsize --> Bikfoodevem:::txtsize
+TMtiosyoMniF:::txtsize --> Tstesssdomolsu:::txtsize
+Tumsgnyrtmonoln:::txtsize --> Humucohyanr:::txtsize
+Humucohyanr:::txtsize --> TsbchioUdetne:::txtsize
+Humucohyanr:::txtsize --> Coeisnrdlnpo:::txtsize
+
+WYresemhiN@{ shape: win-pane, label: "_Published Nov 24, 2025, 06:06 AM_
+While you were sleeping: 5 stories you might have missed, nov 24, 2025" }
+Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
+Us hails progress in ukraine peace talks but security questions unresolved" }
+ZsarsalUnzruikn@{ shape: win-pane, label: "_Published Nov 23, 2025, 11:53 PM_
+Zelensky thanks trump as us leader blasts ukraine for ‘zero gratitude’ amid talks to end war" }
+EeregUalthmNtett@{ shape: win-pane, label: "_Published Nov 24, 2025, 12:32 AM_
+Europeans propose changes to us ukraine plan with higher army cap, nato-style security pact" }
+UisRahaal@{ shape: win-pane, label: "_Published Nov 23, 2025, 10:55 AM_
+Us denies pushing russian ‘wish list’ as ukraine plan" }
+Tskeleanwub@{ shape: win-pane, label: "_Published Nov 22, 2025, 04:26 AM_
+Trump says ukraine should accept plan to end war with russia by nov 27" }
+Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
+Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
+Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
+Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
+Ilsomaanui@{ shape: win-pane, label: "_Published Nov 24, 2025, 01:17 AM_
+Israel kills hezbollah military leader in beirut strike" }
+Ilautpkanbh@{ shape: win-pane, label: "_Published Nov 23, 2025, 07:39 PM_
+Israel’s netanyahu vows to keep striking hamas and hezbollah" }
+Ilselaonms@{ shape: win-pane, label: "_Published Nov 23, 2025, 01:09 AM_
+Israeli airstrikes kill at least 20 people in gaza, medics say" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+Ilsndmoucfe@{ shape: win-pane, label: "_Published Nov 02, 2025, 04:31 PM_
+Israel urges lebanon to disarm hezbollah under ceasefire terms" }
+TafnemsHleikl@{ shape: win-pane, label: "_Published Nov 27, 2024, 02:56 AM_
+Thousands of lebanese head home as israel-hezbollah ceasefire takes hold" }
+Hlutaarhbmrig@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:20 PM_
+Hezbollah supporters gather at nasrallah's tomb to commemorate killing" }
+
+WYresemhiN:::txtsize --> Ulgiaeauuqinl:::txtsize
+Ulgiaeauuqinl:::txtsize --> ZsarsalUnzruikn:::txtsize
+ZsarsalUnzruikn:::txtsize --> EeregUalthmNtett:::txtsize
+ZsarsalUnzruikn:::txtsize --> UisRahaal:::txtsize
+Ulgiaeauuqinl:::txtsize --> Tskeleanwub:::txtsize
+Tskeleanwub:::txtsize --> Uneftcrespepp:::txtsize
+Tskeleanwub:::txtsize --> Uneftcrespepp:::txtsize
+WYresemhiN:::txtsize --> Ilsomaanui:::txtsize
+Ilsomaanui:::txtsize --> Ilautpkanbh:::txtsize
+Ilautpkanbh:::txtsize --> Ilselaonms:::txtsize
+Ilautpkanbh:::txtsize --> Tdrcaaededlncbs:::txtsize
+Ilsomaanui:::txtsize --> Ilsndmoucfe:::txtsize
+Ilsndmoucfe:::txtsize --> TafnemsHleikl:::txtsize
+Ilsndmoucfe:::txtsize --> Hlutaarhbmrig:::txtsize
 
 ```
-<i>Last updated: 2025-11-24 04:00:58.769941 (GMT+8)</i>
+<i>Last updated: 2025-11-24 08:00:23.726496 (GMT+8)</i>
 <!-- END -->
