@@ -16,6 +16,68 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Ulnaewniaark@{ shape: win-pane, label: "_Published Nov 24, 2025, 08:40 AM_
+Us hails ‘significant step forward’ in ukraine ‘peace framework’ talks" }
+Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
+Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
+Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
+Trump’s 28-point ukraine plan" }
+Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
+Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
+Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
+Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
+
+Ulnaewniaark:::txtsize --> Uneftcrespepp:::txtsize
+Uneftcrespepp:::txtsize --> Tstia:::txtsize
+Tstia:::txtsize --> Zsarskbdaosb:::txtsize
+Tstia:::txtsize --> Zsarskbdaosb:::txtsize
+
+Mnewrclese@{ shape: win-pane, label: "_Published Nov 24, 2025, 08:00 AM_
+Mamdani’s meeting with trump scrambled the maga-sphere" }
+TcncoYaloMnhoeg@{ shape: win-pane, label: "_Published Nov 22, 2025, 04:54 AM_
+Trump commends victory of new york mayor-elect zohran mamdani at white house meeting" }
+ThuMnlmenekmae@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:15 PM_
+‘turn the volume up,’ mamdani tells trump after winning new york city mayoral race" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+TarwsekaMn@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:10 AM_
+Trump aides review funds for new york city after mamdani win" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+Tcsbcaomhwes@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:55 AM_
+Trump claims ‘very big victory’ as us government shutdown vote nears" }
+TcncoYaloMnhoeg@{ shape: win-pane, label: "_Published Nov 22, 2025, 04:54 AM_
+Trump commends victory of new york mayor-elect zohran mamdani at white house meeting" }
+ThuMnlmenekmae@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:15 PM_
+‘turn the volume up,’ mamdani tells trump after winning new york city mayoral race" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+TarwsekaMn@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:10 AM_
+Trump aides review funds for new york city after mamdani win" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+Tcsbcaomhwes@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:55 AM_
+Trump claims ‘very big victory’ as us government shutdown vote nears" }
+
+Mnewrclese:::txtsize --> TcncoYaloMnhoeg:::txtsize
+TcncoYaloMnhoeg:::txtsize --> ThuMnlmenekmae:::txtsize
+ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
+ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
+TcncoYaloMnhoeg:::txtsize --> TarwsekaMn:::txtsize
+TarwsekaMn:::txtsize --> YMmnoihaiYilehpea:::txtsize
+TarwsekaMn:::txtsize --> Tcsbcaomhwes:::txtsize
+Mnewrclese:::txtsize --> TcncoYaloMnhoeg:::txtsize
+TcncoYaloMnhoeg:::txtsize --> ThuMnlmenekmae:::txtsize
+ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
+ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
+TcncoYaloMnhoeg:::txtsize --> TarwsekaMn:::txtsize
+TarwsekaMn:::txtsize --> YMmnoihaiYilehpea:::txtsize
+TarwsekaMn:::txtsize --> Tcsbcaomhwes:::txtsize
+
 Iterelnitcn@{ shape: win-pane, label: "_Published Nov 24, 2025, 07:45 AM_
 In his tightest corner yet, will zelensky rise to the occasion?" }
 Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
@@ -41,98 +103,6 @@ Ulgiaeauuqinl:::txtsize --> Tskeleanwub:::txtsize
 Tskeleanwub:::txtsize --> Uneftcrespepp:::txtsize
 Tskeleanwub:::txtsize --> Uneftcrespepp:::txtsize
 
-Cohowhrfyoe@{ shape: win-pane, label: "_Published Nov 24, 2025, 06:45 AM_
-Crypto crash is eroding wealth for trump’s family and followers" }
-Tumsgnyrtmonoln@{ shape: win-pane, label: "_Published Apr 13, 2025, 09:30 AM_
-The trump family is going all in on crypto projects, from bitcoin mining to stablecoins" }
-TMtiosyoMniF@{ shape: win-pane, label: "_Published Mar 25, 2025, 09:18 AM_
-Trump media taps singapore-based crypto.com for made-in-america etfs" }
-Bikfoodevem@{ shape: win-pane, label: "_Published Mar 11, 2025, 10:20 AM_
-Bitcoin sinks to a four-month low amid concerns over us economy" }
-Tstesssdomolsu@{ shape: win-pane, label: "_Published Jan 20, 2025, 08:55 AM_
-Trump’s crypto memecoin surges in just two days to become one of world’s most valuable" }
-Humucohyanr@{ shape: win-pane, label: "_Published Jan 12, 2025, 10:00 AM_
-How trump came around to crypto – and what crypto wants in return" }
-TsbchioUdetne@{ shape: win-pane, label: "_Published Nov 06, 2024, 07:37 AM_
-Trump set to be elected 47th president of the united states in stunning comeback" }
-Coeisnrdlnpo@{ shape: win-pane, label: "_Published Nov 14, 2024, 04:16 PM_
-Crypto market capitalisation hits record $4.3 trillion on trump euphoria" }
-Tumsgnyrtmonoln@{ shape: win-pane, label: "_Published Apr 13, 2025, 09:30 AM_
-The trump family is going all in on crypto projects, from bitcoin mining to stablecoins" }
-TMtiosyoMniF@{ shape: win-pane, label: "_Published Mar 25, 2025, 09:18 AM_
-Trump media taps singapore-based crypto.com for made-in-america etfs" }
-Bikfoodevem@{ shape: win-pane, label: "_Published Mar 11, 2025, 10:20 AM_
-Bitcoin sinks to a four-month low amid concerns over us economy" }
-Tstesssdomolsu@{ shape: win-pane, label: "_Published Jan 20, 2025, 08:55 AM_
-Trump’s crypto memecoin surges in just two days to become one of world’s most valuable" }
-Humucohyanr@{ shape: win-pane, label: "_Published Jan 12, 2025, 10:00 AM_
-How trump came around to crypto – and what crypto wants in return" }
-TsbchioUdetne@{ shape: win-pane, label: "_Published Nov 06, 2024, 07:37 AM_
-Trump set to be elected 47th president of the united states in stunning comeback" }
-Coeisnrdlnpo@{ shape: win-pane, label: "_Published Nov 14, 2024, 04:16 PM_
-Crypto market capitalisation hits record $4.3 trillion on trump euphoria" }
-
-Cohowhrfyoe:::txtsize --> Tumsgnyrtmonoln:::txtsize
-Tumsgnyrtmonoln:::txtsize --> TMtiosyoMniF:::txtsize
-TMtiosyoMniF:::txtsize --> Bikfoodevem:::txtsize
-TMtiosyoMniF:::txtsize --> Tstesssdomolsu:::txtsize
-Tumsgnyrtmonoln:::txtsize --> Humucohyanr:::txtsize
-Humucohyanr:::txtsize --> TsbchioUdetne:::txtsize
-Humucohyanr:::txtsize --> Coeisnrdlnpo:::txtsize
-Cohowhrfyoe:::txtsize --> Tumsgnyrtmonoln:::txtsize
-Tumsgnyrtmonoln:::txtsize --> TMtiosyoMniF:::txtsize
-TMtiosyoMniF:::txtsize --> Bikfoodevem:::txtsize
-TMtiosyoMniF:::txtsize --> Tstesssdomolsu:::txtsize
-Tumsgnyrtmonoln:::txtsize --> Humucohyanr:::txtsize
-Humucohyanr:::txtsize --> TsbchioUdetne:::txtsize
-Humucohyanr:::txtsize --> Coeisnrdlnpo:::txtsize
-
-WYresemhiN@{ shape: win-pane, label: "_Published Nov 24, 2025, 06:06 AM_
-While you were sleeping: 5 stories you might have missed, nov 24, 2025" }
-Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
-Us hails progress in ukraine peace talks but security questions unresolved" }
-ZsarsalUnzruikn@{ shape: win-pane, label: "_Published Nov 23, 2025, 11:53 PM_
-Zelensky thanks trump as us leader blasts ukraine for ‘zero gratitude’ amid talks to end war" }
-EeregUalthmNtett@{ shape: win-pane, label: "_Published Nov 24, 2025, 12:32 AM_
-Europeans propose changes to us ukraine plan with higher army cap, nato-style security pact" }
-UisRahaal@{ shape: win-pane, label: "_Published Nov 23, 2025, 10:55 AM_
-Us denies pushing russian ‘wish list’ as ukraine plan" }
-Tskeleanwub@{ shape: win-pane, label: "_Published Nov 22, 2025, 04:26 AM_
-Trump says ukraine should accept plan to end war with russia by nov 27" }
-Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
-Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
-Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
-Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
-Ilsomaanui@{ shape: win-pane, label: "_Published Nov 24, 2025, 01:17 AM_
-Israel kills hezbollah military leader in beirut strike" }
-Ilautpkanbh@{ shape: win-pane, label: "_Published Nov 23, 2025, 07:39 PM_
-Israel’s netanyahu vows to keep striking hamas and hezbollah" }
-Ilselaonms@{ shape: win-pane, label: "_Published Nov 23, 2025, 01:09 AM_
-Israeli airstrikes kill at least 20 people in gaza, medics say" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-Ilsndmoucfe@{ shape: win-pane, label: "_Published Nov 02, 2025, 04:31 PM_
-Israel urges lebanon to disarm hezbollah under ceasefire terms" }
-TafnemsHleikl@{ shape: win-pane, label: "_Published Nov 27, 2024, 02:56 AM_
-Thousands of lebanese head home as israel-hezbollah ceasefire takes hold" }
-Hlutaarhbmrig@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:20 PM_
-Hezbollah supporters gather at nasrallah's tomb to commemorate killing" }
-
-WYresemhiN:::txtsize --> Ulgiaeauuqinl:::txtsize
-Ulgiaeauuqinl:::txtsize --> ZsarsalUnzruikn:::txtsize
-ZsarsalUnzruikn:::txtsize --> EeregUalthmNtett:::txtsize
-ZsarsalUnzruikn:::txtsize --> UisRahaal:::txtsize
-Ulgiaeauuqinl:::txtsize --> Tskeleanwub:::txtsize
-Tskeleanwub:::txtsize --> Uneftcrespepp:::txtsize
-Tskeleanwub:::txtsize --> Uneftcrespepp:::txtsize
-WYresemhiN:::txtsize --> Ilsomaanui:::txtsize
-Ilsomaanui:::txtsize --> Ilautpkanbh:::txtsize
-Ilautpkanbh:::txtsize --> Ilselaonms:::txtsize
-Ilautpkanbh:::txtsize --> Tdrcaaededlncbs:::txtsize
-Ilsomaanui:::txtsize --> Ilsndmoucfe:::txtsize
-Ilsndmoucfe:::txtsize --> TafnemsHleikl:::txtsize
-Ilsndmoucfe:::txtsize --> Hlutaarhbmrig:::txtsize
-
 ```
-<i>Last updated: 2025-11-24 08:00:23.726496 (GMT+8)</i>
+<i>Last updated: 2025-11-24 12:00:48.507618 (GMT+8)</i>
 <!-- END -->
