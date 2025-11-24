@@ -16,6 +16,52 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+PeduLoivap@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:00 PM_
+Pope leo heads to turkey, lebanon in first overseas trip" }
+Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
+Pope francis dies at age 88" }
+Prsdafoaaos@{ shape: win-pane, label: "_Published Mar 23, 2025, 01:28 AM_
+Pope francis to be discharged from hospital on march 23, doctor says" }
+Prsrrpfxtpds@{ shape: win-pane, label: "_Published Mar 22, 2025, 03:53 AM_
+Pope francis must relearn to speak after oxygen therapy, cardinal says" }
+Aecllsoud@{ shape: win-pane, label: "_Published Mar 19, 2025, 09:05 PM_
+As pope francis ails, outlandish rumours run wild" }
+PrsrVaeessl@{ shape: win-pane, label: "_Published Mar 23, 2025, 07:19 PM_
+Pope francis returns to vatican after five weeks in hospital" }
+Prsrrpfxtpds@{ shape: win-pane, label: "_Published Mar 22, 2025, 03:53 AM_
+Pope francis must relearn to speak after oxygen therapy, cardinal says" }
+AgFincadno@{ shape: win-pane, label: "_Published Mar 09, 2025, 04:10 PM_
+Ailing pope francis thanks doctors as condition improves" }
+Peiiiikbospaof@{ shape: win-pane, label: "_Published Oct 27, 2025, 08:50 PM_
+Pope leo to visit eight cities in turkey, lebanon on first trip abroad as pontiff" }
+UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
+Us cardinal prevost elected pope leo xiv, first american pontiff" }
+Arnclaenigi@{ shape: win-pane, label: "_Published May 09, 2025, 06:49 AM_
+A reformer and a reconciler: what pope leo’s new reign might bring" }
+IfarPeoselbia@{ shape: win-pane, label: "_Published May 09, 2025, 03:40 AM_
+In his first appearance, pope leo xiv offers three big clues about his papacy" }
+PemeVakicarm@{ shape: win-pane, label: "_Published Oct 06, 2025, 08:06 PM_
+Pope leo trims powers of vatican bank, rolling back a francis reform" }
+Peiitsdaasrctp@{ shape: win-pane, label: "_Published May 10, 2025, 07:40 PM_
+Pope leo xiv inherits vatican’s shoddy finances and its efforts to clean them up" }
+Nplacdraaeb@{ shape: win-pane, label: "_Published Apr 28, 2025, 06:16 PM_
+New pope will face a vatican budget crisis, a myriad other problems" }
+
+PeduLoivap:::txtsize --> Prsa:::txtsize
+Prsa:::txtsize --> Prsdafoaaos:::txtsize
+Prsdafoaaos:::txtsize --> Prsrrpfxtpds:::txtsize
+Prsdafoaaos:::txtsize --> Aecllsoud:::txtsize
+Prsa:::txtsize --> PrsrVaeessl:::txtsize
+PrsrVaeessl:::txtsize --> Prsrrpfxtpds:::txtsize
+PrsrVaeessl:::txtsize --> AgFincadno:::txtsize
+PeduLoivap:::txtsize --> Peiiiikbospaof:::txtsize
+Peiiiikbospaof:::txtsize --> UdPscooimat:::txtsize
+UdPscooimat:::txtsize --> Arnclaenigi:::txtsize
+UdPscooimat:::txtsize --> IfarPeoselbia:::txtsize
+Peiiiikbospaof:::txtsize --> PemeVakicarm:::txtsize
+PemeVakicarm:::txtsize --> Peiitsdaasrctp:::txtsize
+PemeVakicarm:::txtsize --> Nplacdraaeb:::txtsize
+
 Ulnaewniaark@{ shape: win-pane, label: "_Published Nov 24, 2025, 08:40 AM_
 Us hails ‘significant step forward’ in ukraine ‘peace framework’ talks" }
 Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
@@ -78,31 +124,6 @@ TcncoYaloMnhoeg:::txtsize --> TarwsekaMn:::txtsize
 TarwsekaMn:::txtsize --> YMmnoihaiYilehpea:::txtsize
 TarwsekaMn:::txtsize --> Tcsbcaomhwes:::txtsize
 
-Iterelnitcn@{ shape: win-pane, label: "_Published Nov 24, 2025, 07:45 AM_
-In his tightest corner yet, will zelensky rise to the occasion?" }
-Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
-Us hails progress in ukraine peace talks but security questions unresolved" }
-ZsarsalUnzruikn@{ shape: win-pane, label: "_Published Nov 23, 2025, 11:53 PM_
-Zelensky thanks trump as us leader blasts ukraine for ‘zero gratitude’ amid talks to end war" }
-EeregUalthmNtett@{ shape: win-pane, label: "_Published Nov 24, 2025, 12:32 AM_
-Europeans propose changes to us ukraine plan with higher army cap, nato-style security pact" }
-UisRahaal@{ shape: win-pane, label: "_Published Nov 23, 2025, 10:55 AM_
-Us denies pushing russian ‘wish list’ as ukraine plan" }
-Tskeleanwub@{ shape: win-pane, label: "_Published Nov 22, 2025, 04:26 AM_
-Trump says ukraine should accept plan to end war with russia by nov 27" }
-Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
-Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
-Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
-Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
-
-Iterelnitcn:::txtsize --> Ulgiaeauuqinl:::txtsize
-Ulgiaeauuqinl:::txtsize --> ZsarsalUnzruikn:::txtsize
-ZsarsalUnzruikn:::txtsize --> EeregUalthmNtett:::txtsize
-ZsarsalUnzruikn:::txtsize --> UisRahaal:::txtsize
-Ulgiaeauuqinl:::txtsize --> Tskeleanwub:::txtsize
-Tskeleanwub:::txtsize --> Uneftcrespepp:::txtsize
-Tskeleanwub:::txtsize --> Uneftcrespepp:::txtsize
-
 ```
-<i>Last updated: 2025-11-24 12:00:48.507618 (GMT+8)</i>
+<i>Last updated: 2025-11-24 16:01:15.575492 (GMT+8)</i>
 <!-- END -->
