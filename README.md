@@ -16,129 +16,132 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-TssrRlsttghreni@{ shape: win-pane, label: "_Published Nov 24, 2025, 07:02 PM_
-Trump seizes control of republicans’ 2026 election strategy with his presidency on the line" }
-Tcasefdrsfocm@{ shape: win-pane, label: "_Published Nov 15, 2025, 07:18 AM_
-Trump cuts tariffs on beef, coffee and other foods as inflation concerns mount" }
-Tpmopsfnarrrye@{ shape: win-pane, label: "_Published Nov 13, 2025, 08:05 AM_
-Trump plans move to ease prices on coffee and bananas: treasury secretary bessent" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
-Iucynrssoi@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:13 PM_
-It’s trump’s economy now, and americans don’t seem to love it" }
-Tspaspadanop@{ shape: win-pane, label: "_Published Apr 03, 2025, 04:47 AM_
-Trump’s sweeping tariffs amp up global trade war as china, eu vow response" }
-Ttftlaraarasrafl@{ shape: win-pane, label: "_Published Apr 03, 2025, 07:56 AM_
-Trump tariffs: hitting close partner singapore ‘a surprise’, says ex-senior us trade official" }
-Acnrrhteur@{ shape: win-pane, label: "_Published Feb 17, 2025, 01:52 PM_
-American consumers learn to shop in the age of trump tariffs" }
-TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
-Trump signs bill ordering us justice department to release epstein files" }
-Ugpsufrspnsitm@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:23 AM_
-Us congress passes measure to force release of epstein files, sending it to trump" }
-Therltsfwrons@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:55 AM_
-Trump has the power to release the epstein files, with or without congress" }
-Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
-Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
-Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
-Epstein files to be released to us public: what are they?" }
-ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
-After trump reversal, us house pushes forward on epstein vote" }
-TskeMewtco@{ shape: win-pane, label: "_Published Nov 18, 2025, 09:15 AM_
-Trump’s frankenstein? us maga meltdown tests its creator" }
+Twivdipsiwuk@{ shape: win-pane, label: "_Published Nov 24, 2025, 10:52 PM_
+Trump weighing advanced nvidia chip sales to china, howard lutnick says" }
+Hndiylhseese@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:06 AM_
+High-end nvidia chips may be sold to china as tech evolves, says bessent" }
+Tshtoineipi@{ shape: win-pane, label: "_Published Nov 03, 2025, 09:33 AM_
+Trump says china, other countries can’t have nvidia’s top ai chips" }
+Tsvcaiiioecl@{ shape: win-pane, label: "_Published Oct 30, 2025, 02:12 PM_
+Trump says nvidia chip talks with china’s xi did not cover blackwell" }
+NamriSloybomrs@{ shape: win-pane, label: "_Published Oct 30, 2025, 12:46 AM_
+Nvidia becomes world’s first us$5 trillion company as ai boom powers meteoric rise" }
+CuUveeectt@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:36 AM_
+China urges us to avoid ‘red lines’ after reaching trade truce" }
+Anmubsirooe@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:05 PM_
+‘amazing’ trump-xi summit brings tactical truce, not major reset" }
+Wiacriswmi@{ shape: win-pane, label: "_Published Oct 31, 2025, 10:21 PM_
+Why taiwan’s absence in trump-xi talks was a welcome relief" }
+Tshtoineipi@{ shape: win-pane, label: "_Published Nov 03, 2025, 09:33 AM_
+Trump says china, other countries can’t have nvidia’s top ai chips" }
+Tsvcaiiioecl@{ shape: win-pane, label: "_Published Oct 30, 2025, 02:12 PM_
+Trump says nvidia chip talks with china’s xi did not cover blackwell" }
+NamriSloybomrs@{ shape: win-pane, label: "_Published Oct 30, 2025, 12:46 AM_
+Nvidia becomes world’s first us$5 trillion company as ai boom powers meteoric rise" }
+Cscehett@{ shape: win-pane, label: "_Published Oct 06, 2025, 10:56 AM_
+China’s chip challenge: the race to match us tech" }
+NamriSloybomrs@{ shape: win-pane, label: "_Published Oct 30, 2025, 12:46 AM_
+Nvidia becomes world’s first us$5 trillion company as ai boom powers meteoric rise" }
+Naefousacocboa@{ shape: win-pane, label: "_Published Oct 29, 2025, 06:26 AM_
+Nvidia ceo rebuts fears of ai bubble, says latest chips on track for $647 billion in sales" }
+Siliiesgmi@{ shape: win-pane, label: "_Published Oct 29, 2025, 08:18 AM_
+Sk hynix sells entire 2026 chip line-up in strong ai demand signal" }
 
-TssrRlsttghreni:::txtsize --> Tcasefdrsfocm:::txtsize
-Tcasefdrsfocm:::txtsize --> Tpmopsfnarrrye:::txtsize
-Tpmopsfnarrrye:::txtsize --> Drwialosdp:::txtsize
-Tpmopsfnarrrye:::txtsize --> Iucynrssoi:::txtsize
-Tcasefdrsfocm:::txtsize --> Tspaspadanop:::txtsize
-Tspaspadanop:::txtsize --> Ttftlaraarasrafl:::txtsize
-Tspaspadanop:::txtsize --> Acnrrhteur:::txtsize
-TssrRlsttghreni:::txtsize --> TsBrnuertlEie:::txtsize
-TsBrnuertlEie:::txtsize --> Ugpsufrspnsitm:::txtsize
-Ugpsufrspnsitm:::txtsize --> Therltsfwrons:::txtsize
-Ugpsufrspnsitm:::txtsize --> Tdddnersdiinst:::txtsize
-TsBrnuertlEie:::txtsize --> Eieeaobhe:::txtsize
-Eieeaobhe:::txtsize --> ATrsHpsaEie:::txtsize
-Eieeaobhe:::txtsize --> TskeMewtco:::txtsize
+Twivdipsiwuk:::txtsize --> Hndiylhseese:::txtsize
+Hndiylhseese:::txtsize --> Tshtoineipi:::txtsize
+Tshtoineipi:::txtsize --> Tsvcaiiioecl:::txtsize
+Tshtoineipi:::txtsize --> NamriSloybomrs:::txtsize
+Hndiylhseese:::txtsize --> CuUveeectt:::txtsize
+CuUveeectt:::txtsize --> Anmubsirooe:::txtsize
+CuUveeectt:::txtsize --> Wiacriswmi:::txtsize
+Twivdipsiwuk:::txtsize --> Tshtoineipi:::txtsize
+Tshtoineipi:::txtsize --> Tsvcaiiioecl:::txtsize
+Tsvcaiiioecl:::txtsize --> NamriSloybomrs:::txtsize
+Tsvcaiiioecl:::txtsize --> Cscehett:::txtsize
+Tshtoineipi:::txtsize --> NamriSloybomrs:::txtsize
+NamriSloybomrs:::txtsize --> Naefousacocboa:::txtsize
+NamriSloybomrs:::txtsize --> Siliiesgmi:::txtsize
 
-Gesseoeetmk@{ shape: win-pane, label: "_Published Nov 24, 2025, 06:46 PM_
-Greek ex-pm tsipras issues memoir ahead of expected comeback" }
-TsnnooUnaie@{ shape: win-pane, label: "_Published Sep 29, 2025, 11:41 PM_
-Trump’s ego and ‘finnish solution’ for ukraine: ex-nato chief’s memoir" }
-EofSegmrfci@{ shape: win-pane, label: "_Published Feb 04, 2025, 06:41 PM_
-Ex-nato chief jens stoltenberg becomes norway’s finance minister" }
-OseuaskreitS@{ shape: win-pane, label: "_Published Feb 04, 2025, 09:36 AM_
-One response to trump’s tariffs: striking trade deals without the us" }
-EccysavemaCea@{ shape: win-pane, label: "_Published Jan 30, 2025, 10:44 PM_
-Eurosceptic party quits norway’s government, almost half of cabinet departs" }
-FranoerniarfawoT@{ shape: win-pane, label: "_Published Nov 21, 2024, 08:12 AM_
-Former german chancellor angela merkel, in memoir, recalls tricks for dealing with donald trump" }
-Feuiea@{ shape: win-pane, label: "_Published Feb 24, 2023, 05:54 PM_
-Feb 24, 2022: the day russia invaded ukraine" }
-Aaemnninocest@{ shape: win-pane, label: "_Published Dec 03, 2024, 11:35 AM_
-Angela merkel, obama reunite in washington for former chancellor’s book tour" }
-TetiWunSiien@{ shape: win-pane, label: "_Published Nov 07, 2024, 05:00 AM_
-The unexpected unifier: why trump won the us presidential election" }
-FranoerniarfawoT@{ shape: win-pane, label: "_Published Nov 21, 2024, 08:12 AM_
-Former german chancellor angela merkel, in memoir, recalls tricks for dealing with donald trump" }
-Feuiea@{ shape: win-pane, label: "_Published Feb 24, 2023, 05:54 PM_
-Feb 24, 2022: the day russia invaded ukraine" }
+Umepigaonin@{ shape: win-pane, label: "_Published Nov 24, 2025, 10:43 PM_
+Us terminates temporarily legal status for myanmar citizens" }
+Nyistnllbmiiaw@{ shape: win-pane, label: "_Published Nov 23, 2025, 02:22 PM_
+Nearly 200,000 ukrainians in us thrown into legal limbo by trump immigration crackdown" }
+UnlnUnaffst@{ shape: win-pane, label: "_Published Mar 23, 2022, 06:28 AM_
+Us plans to allow in more ukrainians after few refugees admitted" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+TptogafislUra@{ shape: win-pane, label: "_Published Mar 06, 2025, 08:11 PM_
+Trump plans to revoke legal status of ukrainians who fled to us, sources say" }
+Unlyphaiogh@{ shape: win-pane, label: "_Published Mar 01, 2025, 01:48 AM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+Unfelfreks@{ shape: win-pane, label: "_Published Mar 01, 2025, 08:49 PM_
+Ukrainians face new reality after trump-zelensky clash" }
+Uredinute@{ shape: win-pane, label: "_Published Aug 19, 2025, 01:54 AM_
+Us has revoked 6,000 student visas under rubio: state dept" }
+Ttmerototafuacun@{ shape: win-pane, label: "_Published Jul 07, 2025, 10:17 PM_
+Trump to terminate deportation protection for thousands of hondurans and nicaraguans in us" }
+TaitentduNegs@{ shape: win-pane, label: "_Published Jun 06, 2025, 01:31 AM_
+Trump administration set to end protected status for nepalese migrants" }
+Iiroecyrgon@{ shape: win-pane, label: "_Published Jul 07, 2025, 09:20 AM_
+Ice raids derail los angeles economy as workers go into hiding" }
 
-Gesseoeetmk:::txtsize --> TsnnooUnaie:::txtsize
-TsnnooUnaie:::txtsize --> EofSegmrfci:::txtsize
-EofSegmrfci:::txtsize --> OseuaskreitS:::txtsize
-EofSegmrfci:::txtsize --> EccysavemaCea:::txtsize
-TsnnooUnaie:::txtsize --> FranoerniarfawoT:::txtsize
-FranoerniarfawoT:::txtsize --> Feuiea:::txtsize
-Gesseoeetmk:::txtsize --> Aaemnninocest:::txtsize
-Aaemnninocest:::txtsize --> TetiWunSiien:::txtsize
-Aaemnninocest:::txtsize --> FranoerniarfawoT:::txtsize
-FranoerniarfawoT:::txtsize --> Feuiea:::txtsize
+Umepigaonin:::txtsize --> Nyistnllbmiiaw:::txtsize
+Nyistnllbmiiaw:::txtsize --> UnlnUnaffst:::txtsize
+UnlnUnaffst:::txtsize --> DsruasvUn:::txtsize
+Nyistnllbmiiaw:::txtsize --> TptogafislUra:::txtsize
+TptogafislUra:::txtsize --> Unlyphaiogh:::txtsize
+TptogafislUra:::txtsize --> Unfelfreks:::txtsize
+Umepigaonin:::txtsize --> Uredinute:::txtsize
+Uredinute:::txtsize --> Ttmerototafuacun:::txtsize
+Ttmerototafuacun:::txtsize --> TaitentduNegs:::txtsize
+Ttmerototafuacun:::txtsize --> Iiroecyrgon:::txtsize
 
-Sotmnqinoeua@{ shape: win-pane, label: "_Published Nov 24, 2025, 06:38 PM_
-Senator wants trump to answer questions on tiktok divestiture plan" }
-TbUkeigefre@{ shape: win-pane, label: "_Published Sep 26, 2025, 04:52 AM_
-Trump backs us$14b tiktok deal; china urges ‘open and fair’ treatment" }
-Eihcsrrnoid@{ shape: win-pane, label: "_Published Sep 25, 2025, 08:27 AM_
-Explainer: why oracle has a starring role in proposed tiktok deal" }
-Tkesamaret@{ shape: win-pane, label: "_Published Sep 17, 2025, 05:10 PM_
-Tiktok, rare earths, taiwan: trump-xi call to run the gamut" }
-UlkaTkTaitsa@{ shape: win-pane, label: "_Published Sep 18, 2025, 08:41 AM_
-Us key lawmakers wary of tiktok deal trump administration is preparing" }
-WnwTkoun@{ shape: win-pane, label: "_Published Sep 24, 2025, 05:00 PM_
-Washington wants tiktok. it’s not about china" }
-Tknbrrowae@{ shape: win-pane, label: "_Published Jan 21, 2025, 05:00 AM_
-Tiktok’s on and off ban: here’s a breakdown of what happened" }
-UmsiiaTkrwrsuc@{ shape: win-pane, label: "_Published Oct 17, 2025, 08:07 AM_
-Us lawmaker says licensing deal for tiktok algorithm would raise serious concerns" }
-TbUkeigefre@{ shape: win-pane, label: "_Published Sep 26, 2025, 04:52 AM_
-Trump backs us$14b tiktok deal; china urges ‘open and fair’ treatment" }
-Eihcsrrnoid@{ shape: win-pane, label: "_Published Sep 25, 2025, 08:27 AM_
-Explainer: why oracle has a starring role in proposed tiktok deal" }
-WnwTkoun@{ shape: win-pane, label: "_Published Sep 24, 2025, 05:00 PM_
-Washington wants tiktok. it’s not about china" }
-Wedkbhidii@{ shape: win-pane, label: "_Published Sep 22, 2025, 10:50 PM_
-What we do and don’t know about the us tiktok deal with china" }
-Tamrsidlmnha@{ shape: win-pane, label: "_Published Sep 20, 2025, 09:15 AM_
-Trump and xi make progress on tiktok deal, plan to meet in south korea" }
-CsDweoeoTSasca@{ shape: win-pane, label: "_Published Sep 21, 2025, 08:25 PM_
-China’s bytedance will get 1 of 7 board seats for tiktok’s us operations, official says" }
+SAaeehossse@{ shape: win-pane, label: "_Published Nov 24, 2025, 10:32 PM_
+Saudi arabia to open more alcohol stores as curbs ease, sources say" }
+Sgtdoar@{ shape: win-pane, label: "_Published Dec 12, 2024, 12:16 AM_
+Some against 2034 world cup hosts saudi arabia" }
+NgetriilacsWCdps@{ shape: win-pane, label: "_Published Dec 10, 2024, 09:37 PM_
+Norwegian federation criticises fifa’s ‘flawed and inconsistent’ world cup bidding process" }
+Adneiskmon@{ shape: win-pane, label: "_Published Dec 10, 2024, 11:48 AM_
+A world cup on three continents sparks climate concerns" }
+HiSfatsaaWC@{ shape: win-pane, label: "_Published Dec 10, 2024, 11:20 AM_
+‘humanising saudi football’: netflix show paves way for world cup" }
+Fuldlbemgssmyro@{ shape: win-pane, label: "_Published Nov 11, 2024, 08:03 AM_
+Fifa must halt saudi world cup bid due to human rights issues, says amnesty international" }
+SWCdhplN@{ shape: win-pane, label: "_Published Oct 30, 2024, 12:56 PM_
+Saudi world cup bid’s rights report ‘flawed’: ngos" }
+Biehrpyuv@{ shape: win-pane, label: "_Published Nov 01, 2023, 03:03 PM_
+Bridging the gulf: how world cup is key to saudi revamp" }
+SAacertignh@{ shape: win-pane, label: "_Published May 26, 2025, 08:43 PM_
+Saudi arabia official denies reports of lifting ban on alcohol" }
+SAarslaAaru@{ shape: win-pane, label: "_Published Oct 31, 2023, 08:53 PM_
+Saudi arabia clear to host 2034 world cup after australia drops out" }
+WtQhydesfdi@{ shape: win-pane, label: "_Published Oct 18, 2023, 08:15 PM_
+We want what qatar had, says saudi vice-minister of 2034 world cup bid" }
+Wsdsreuol@{ shape: win-pane, label: "_Published Oct 06, 2023, 01:47 PM_
+Women’s squad seeks their share of saudi football boom" }
+Noldrpbisama@{ shape: win-pane, label: "_Published Feb 13, 2025, 01:44 PM_
+No alcohol allowed at 2034 world cup football finals, says saudi ambassador" }
+Sgtdoar@{ shape: win-pane, label: "_Published Dec 12, 2024, 12:16 AM_
+Some against 2034 world cup hosts saudi arabia" }
+SAalbthoataaaxn@{ shape: win-pane, label: "_Published Dec 01, 2024, 02:59 PM_
+Saudi arabia’s 2034 world cup bid gets higher score than united states, canada and mexico in 2026" }
 
-Sotmnqinoeua:::txtsize --> TbUkeigefre:::txtsize
-TbUkeigefre:::txtsize --> Eihcsrrnoid:::txtsize
-Eihcsrrnoid:::txtsize --> Tkesamaret:::txtsize
-Eihcsrrnoid:::txtsize --> UlkaTkTaitsa:::txtsize
-TbUkeigefre:::txtsize --> WnwTkoun:::txtsize
-WnwTkoun:::txtsize --> Tknbrrowae:::txtsize
-Sotmnqinoeua:::txtsize --> UmsiiaTkrwrsuc:::txtsize
-UmsiiaTkrwrsuc:::txtsize --> TbUkeigefre:::txtsize
-TbUkeigefre:::txtsize --> Eihcsrrnoid:::txtsize
-TbUkeigefre:::txtsize --> WnwTkoun:::txtsize
-UmsiiaTkrwrsuc:::txtsize --> Wedkbhidii:::txtsize
-Wedkbhidii:::txtsize --> Tamrsidlmnha:::txtsize
-Wedkbhidii:::txtsize --> CsDweoeoTSasca:::txtsize
+SAaeehossse:::txtsize --> Sgtdoar:::txtsize
+Sgtdoar:::txtsize --> NgetriilacsWCdps:::txtsize
+NgetriilacsWCdps:::txtsize --> Adneiskmon:::txtsize
+NgetriilacsWCdps:::txtsize --> HiSfatsaaWC:::txtsize
+Sgtdoar:::txtsize --> Fuldlbemgssmyro:::txtsize
+Fuldlbemgssmyro:::txtsize --> SWCdhplN:::txtsize
+Fuldlbemgssmyro:::txtsize --> Biehrpyuv:::txtsize
+SAaeehossse:::txtsize --> SAacertignh:::txtsize
+SAacertignh:::txtsize --> SAarslaAaru:::txtsize
+SAarslaAaru:::txtsize --> WtQhydesfdi:::txtsize
+SAarslaAaru:::txtsize --> Wsdsreuol:::txtsize
+SAacertignh:::txtsize --> Noldrpbisama:::txtsize
+Noldrpbisama:::txtsize --> Sgtdoar:::txtsize
+Noldrpbisama:::txtsize --> SAalbthoataaaxn:::txtsize
 
 ```
-<i>Last updated: 2025-11-24 20:00:50.324006 (GMT+8)</i>
+<i>Last updated: 2025-11-25 00:01:22.796840 (GMT+8)</i>
 <!-- END -->
