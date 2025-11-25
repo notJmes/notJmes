@@ -16,81 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Mcoeldsesls@{ shape: win-pane, label: "_Published Nov 25, 2025, 11:34 PM_
-Man accused of liverpool parade crash in tears as trial opens" }
-hfrhrctwivotr@{ shape: win-pane, label: "_Published May 27, 2025, 02:18 AM_
-47 hurt after british man drives car into crowd during liverpool’s title parade" }
-Gnsbutslanai@{ shape: win-pane, label: "_Published May 24, 2025, 09:15 PM_
-Germany mass stabbing suspect has ‘psychological illness’, say police" }
-Gnnsftdmso@{ shape: win-pane, label: "_Published May 24, 2025, 01:44 AM_
-German woman arrested after 18 stabbed at hamburg station" }
-Gnrcscrrirea@{ shape: win-pane, label: "_Published May 06, 2025, 04:40 PM_
-Germany’s merz elected as chancellor after initial surprise setback" }
+Feryaoilnoeewke@{ shape: win-pane, label: "_Published Nov 26, 2025, 03:17 AM_
+France’s macron says ‘clearly no russian willingness to agree ceasefire’ with ukraine" }
+Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
+Us hails progress in ukraine peace talks but security questions unresolved" }
+ZsarsalUnzruikn@{ shape: win-pane, label: "_Published Nov 23, 2025, 11:53 PM_
+Zelensky thanks trump as us leader blasts ukraine for ‘zero gratitude’ amid talks to end war" }
+EeregUalthmNtett@{ shape: win-pane, label: "_Published Nov 24, 2025, 12:32 AM_
+Europeans propose changes to us ukraine plan with higher army cap, nato-style security pact" }
+UisRahaal@{ shape: win-pane, label: "_Published Nov 23, 2025, 10:55 AM_
+Us denies pushing russian ‘wish list’ as ukraine plan" }
+Tskeleanwub@{ shape: win-pane, label: "_Published Nov 22, 2025, 04:26 AM_
+Trump says ukraine should accept plan to end war with russia by nov 27" }
+Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
+Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
+Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
+Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
 
-Mcoeldsesls:::txtsize --> hfrhrctwivotr:::txtsize
-hfrhrctwivotr:::txtsize --> Gnsbutslanai:::txtsize
-Gnsbutslanai:::txtsize --> Gnnsftdmso:::txtsize
-Gnsbutslanai:::txtsize --> Gnrcscrrirea:::txtsize
+Feryaoilnoeewke:::txtsize --> Ulgiaeauuqinl:::txtsize
+Ulgiaeauuqinl:::txtsize --> ZsarsalUnzruikn:::txtsize
+ZsarsalUnzruikn:::txtsize --> EeregUalthmNtett:::txtsize
+ZsarsalUnzruikn:::txtsize --> UisRahaal:::txtsize
+Ulgiaeauuqinl:::txtsize --> Tskeleanwub:::txtsize
+Tskeleanwub:::txtsize --> Uneftcrespepp:::txtsize
+Tskeleanwub:::txtsize --> Uneftcrespepp:::txtsize
 
-Elnpwar@{ shape: win-pane, label: "_Published Nov 25, 2025, 10:51 PM_
-Eu parliament adopts new toy safety rules" }
-Saeiepheossye@{ shape: win-pane, label: "_Published Jun 27, 2025, 11:24 AM_
-Seoul asks temu, aliexpress to pull children’s products over safety concerns" }
-Pcuthlohamfeen@{ shape: win-pane, label: "_Published Jun 03, 2024, 06:15 PM_
-Products found with high levels of toxic chemicals removed from website: shein" }
-SKfheoimseos@{ shape: win-pane, label: "_Published May 28, 2024, 04:50 PM_
-South korea finds high levels of toxic chemicals in shein products" }
-SKnfkcoflrhoiwoha@{ shape: win-pane, label: "_Published May 26, 2024, 10:55 AM_
-South korean test finds kids’ accessories from aliexpress, shein to be tainted with toxic chemicals" }
-BseahdeobdsneLa@{ shape: win-pane, label: "_Published Sep 26, 2024, 09:50 AM_
-Buyers warned of safety hazards posed by some baby products sold on shopee and lazada" }
-Mheiawwbsianlnifl@{ shape: win-pane, label: "_Published Jul 31, 2023, 06:00 PM_
-More children accidentally swallowing objects, retailers asked not to list unsafe items for sale" }
-Qdnriovrgovlpn@{ shape: win-pane, label: "_Published Sep 13, 2024, 03:00 PM_
-Qoo10 under singapore police probe as vendors lodge reports over delayed payments" }
-Ccntaerhesteo@{ shape: win-pane, label: "_Published Mar 15, 2024, 03:16 AM_
-Chemicals in plastics far more numerous than previously estimated: report" }
-Ellnselcaiem@{ shape: win-pane, label: "_Published Mar 05, 2024, 10:38 AM_
-Eu seals deal on banning single-use plastic packaging in cafes from 2030" }
-Emsitesoiwrelsn@{ shape: win-pane, label: "_Published Jan 11, 2024, 09:10 PM_
-Eu lawmakers consider stronger plastic pollution law after pellet spill hits spain" }
-Uassatlpiul@{ shape: win-pane, label: "_Published Sep 29, 2023, 08:20 AM_
-Us finalises plans to phase out single-use plastic on public lands" }
+Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
+Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
+Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
+Us hails progress in ukraine peace talks but security questions unresolved" }
+ZsarsalUnzruikn@{ shape: win-pane, label: "_Published Nov 23, 2025, 11:53 PM_
+Zelensky thanks trump as us leader blasts ukraine for ‘zero gratitude’ amid talks to end war" }
+EeregUalthmNtett@{ shape: win-pane, label: "_Published Nov 24, 2025, 12:32 AM_
+Europeans propose changes to us ukraine plan with higher army cap, nato-style security pact" }
+UisRahaal@{ shape: win-pane, label: "_Published Nov 23, 2025, 10:55 AM_
+Us denies pushing russian ‘wish list’ as ukraine plan" }
+Tskeleanwub@{ shape: win-pane, label: "_Published Nov 22, 2025, 04:26 AM_
+Trump says ukraine should accept plan to end war with russia by nov 27" }
+Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
+Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
+Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
+Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
+URaptiDaspK@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:03 PM_
+Us and russia hold peace talks in abu dhabi as missiles pound kyiv" }
+Rarnksdpeue@{ shape: win-pane, label: "_Published Nov 25, 2025, 04:43 PM_
+Russian barrage on kyiv kills seven, disrupts energy supplies" }
+UKisrlerr@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:43 PM_
+Us and kyiv discuss reworked plan to end war in ukraine" }
+TPdtsUncamre@{ shape: win-pane, label: "_Published Aug 16, 2025, 03:43 AM_
+Trump-putin direct talks over ukraine conclude as summit stretches on" }
+Tweszaeiaoilst@{ shape: win-pane, label: "_Published Aug 15, 2025, 12:04 PM_
+Trump will seek to squeeze ukraine ceasefire deal out of putin at alaska summit" }
+Ddplee@{ shape: win-pane, label: "_Published Aug 15, 2025, 06:00 PM_
+Donald trump: nobel prize laureate?" }
 
-Elnpwar:::txtsize --> Saeiepheossye:::txtsize
-Saeiepheossye:::txtsize --> Pcuthlohamfeen:::txtsize
-Pcuthlohamfeen:::txtsize --> SKfheoimseos:::txtsize
-Pcuthlohamfeen:::txtsize --> SKnfkcoflrhoiwoha:::txtsize
-Saeiepheossye:::txtsize --> BseahdeobdsneLa:::txtsize
-BseahdeobdsneLa:::txtsize --> Mheiawwbsianlnifl:::txtsize
-BseahdeobdsneLa:::txtsize --> Qdnriovrgovlpn:::txtsize
-Elnpwar:::txtsize --> Ccntaerhesteo:::txtsize
-Ccntaerhesteo:::txtsize --> Ellnselcaiem:::txtsize
-Ellnselcaiem:::txtsize --> Emsitesoiwrelsn:::txtsize
-Ellnselcaiem:::txtsize --> Uassatlpiul:::txtsize
+Zsyaeonaalusdthp:::txtsize --> Ulgiaeauuqinl:::txtsize
+Ulgiaeauuqinl:::txtsize --> ZsarsalUnzruikn:::txtsize
+ZsarsalUnzruikn:::txtsize --> EeregUalthmNtett:::txtsize
+ZsarsalUnzruikn:::txtsize --> UisRahaal:::txtsize
+Ulgiaeauuqinl:::txtsize --> Tskeleanwub:::txtsize
+Tskeleanwub:::txtsize --> Uneftcrespepp:::txtsize
+Tskeleanwub:::txtsize --> Uneftcrespepp:::txtsize
+Zsyaeonaalusdthp:::txtsize --> URaptiDaspK:::txtsize
+URaptiDaspK:::txtsize --> Rarnksdpeue:::txtsize
+Rarnksdpeue:::txtsize --> UKisrlerr:::txtsize
+URaptiDaspK:::txtsize --> TPdtsUncamre:::txtsize
+TPdtsUncamre:::txtsize --> Tweszaeiaoilst:::txtsize
+TPdtsUncamre:::txtsize --> Ddplee:::txtsize
 
-PcsjolnnhFgfc@{ shape: win-pane, label: "_Published Nov 25, 2025, 10:28 PM_
-Prosecutors seek jail for italian influencer chiara ferragni in fraud case" }
-ACVaslarodtnnn@{ shape: win-pane, label: "_Published Feb 19, 2025, 05:00 PM_
-Apple cider vinegar: how social media gave rise to fraudulent wellness influencers" }
-SmnWerxFatWLACVa@{ shape: win-pane, label: "_Published Feb 05, 2025, 02:30 PM_
-Streaming sneaks: wellness turns toxic in february with the white lotus 3, apple cider vinegar" }
-FnieIvbahdee@{ shape: win-pane, label: "_Published Jan 30, 2025, 01:00 PM_
-Film and tv picks: secret ink, invincible season 3, the seed of the sacred fig" }
-SGoinNierwa@{ shape: win-pane, label: "_Published Jan 31, 2025, 01:45 PM_
-Squid game 3 to premiere on june 27, netflix unveils preview footage" }
-Uliesisrohtiols@{ shape: win-pane, label: "_Published May 13, 2024, 10:01 AM_
-Us wellness influencers pushing misinformation as they attack birth control pills" }
-Tslpokobo@{ shape: win-pane, label: "_Published Mar 20, 2024, 10:35 PM_
-Trump signals support for 15-week national abortion ban" }
+Rrtforun@{ shape: win-pane, label: "_Published Nov 26, 2025, 01:38 AM_
+Renoir painting of son sold for $2.1m at auction" }
+FKpicsrdor@{ shape: win-pane, label: "_Published Nov 21, 2025, 10:25 AM_
+Frida kahlo painting auctions for $71m, record for woman artist" }
+Kpacsdesrkat@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:10 PM_
+Klimt portrait becomes second most expensive artwork sold at auction" }
+Mndngsiec@{ shape: win-pane, label: "_Published Nov 12, 2025, 03:28 AM_
+Mellon blue diamond ring sells for $32.5m in geneva auction" }
+Rahpclmo@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:05 AM_
+Rare patek philippe watch sells for $22.9 million" }
+Kpacsdesrkat@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:10 PM_
+Klimt portrait becomes second most expensive artwork sold at auction" }
+Mndngsiec@{ shape: win-pane, label: "_Published Nov 12, 2025, 03:28 AM_
+Mellon blue diamond ring sells for $32.5m in geneva auction" }
+Rahpclmo@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:05 AM_
+Rare patek philippe watch sells for $22.9 million" }
+yleigdrn@{ shape: win-pane, label: "_Published Sep 11, 2025, 12:38 AM_
+400-year-old rubens painting found in paris mansion" }
+Atfacmnnsnzdiltt@{ shape: win-pane, label: "_Published Sep 04, 2025, 04:25 AM_
+Argentina officials recover missing painting stolen by nazis and seen in real estate photo" }
+Nomrserioy@{ shape: win-pane, label: "_Published Aug 28, 2025, 01:18 AM_
+Nazi-looted masterwork spotted in argentina property ad" }
+Nomrserioy@{ shape: win-pane, label: "_Published Aug 28, 2025, 01:18 AM_
+Nazi-looted masterwork spotted in argentina property ad" }
+Mmpyigayrdsr@{ shape: win-pane, label: "_Published Mar 26, 2025, 09:00 PM_
+Museum in japan says $600k painting is a fake, may seek refund from seller" }
+Jsepsceuk@{ shape: win-pane, label: "_Published Mar 09, 2025, 11:17 AM_
+Japan’s one-person publishers create unique books" }
+SanaaatPts@{ shape: win-pane, label: "_Published Dec 07, 2024, 05:20 PM_
+Shuntaro tanikawa, poet and translator of peanuts, dies at 92" }
 
-PcsjolnnhFgfc:::txtsize --> ACVaslarodtnnn:::txtsize
-ACVaslarodtnnn:::txtsize --> SmnWerxFatWLACVa:::txtsize
-SmnWerxFatWLACVa:::txtsize --> FnieIvbahdee:::txtsize
-SmnWerxFatWLACVa:::txtsize --> SGoinNierwa:::txtsize
-ACVaslarodtnnn:::txtsize --> Uliesisrohtiols:::txtsize
-Uliesisrohtiols:::txtsize --> Tslpokobo:::txtsize
+Rrtforun:::txtsize --> FKpicsrdor:::txtsize
+FKpicsrdor:::txtsize --> Kpacsdesrkat:::txtsize
+Kpacsdesrkat:::txtsize --> Mndngsiec:::txtsize
+Kpacsdesrkat:::txtsize --> Rahpclmo:::txtsize
+FKpicsrdor:::txtsize --> Kpacsdesrkat:::txtsize
+Kpacsdesrkat:::txtsize --> Mndngsiec:::txtsize
+Kpacsdesrkat:::txtsize --> Rahpclmo:::txtsize
+Rrtforun:::txtsize --> yleigdrn:::txtsize
+yleigdrn:::txtsize --> Atfacmnnsnzdiltt:::txtsize
+Atfacmnnsnzdiltt:::txtsize --> Nomrserioy:::txtsize
+Atfacmnnsnzdiltt:::txtsize --> Nomrserioy:::txtsize
+yleigdrn:::txtsize --> Mmpyigayrdsr:::txtsize
+Mmpyigayrdsr:::txtsize --> Jsepsceuk:::txtsize
+Mmpyigayrdsr:::txtsize --> SanaaatPts:::txtsize
 
 ```
-<i>Last updated: 2025-11-26 00:01:52.962316 (GMT+8)</i>
+<i>Last updated: 2025-11-26 04:01:28.248680 (GMT+8)</i>
 <!-- END -->
