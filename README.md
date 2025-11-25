@@ -16,141 +16,111 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-UgstiagtIfsyoLie@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:16 AM_
-Us judge tosses out criminal cases against ex-fbi chief james comey, new york a-g letitia james" }
-Frhorahdurcc@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:10 AM_
-Former fbi chief comey criminally charged as trump targets critics" }
-TpcgJcanhhe@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:36 AM_
-Trump publicly urges us justice department to charge his enemies" }
-UsoeestrueeeLie@{ shape: win-pane, label: "_Published Sep 20, 2025, 11:09 PM_
-Us prosecutor ‘fired’ after pressure to charge trump foes james comey and letitia james" }
-AcTmtwrnslm@{ shape: win-pane, label: "_Published Oct 04, 2019, 07:45 AM_
-Adam schiff: the democratic lawmaker who enrages donald trump" }
-Edtmteyevvceo@{ shape: win-pane, label: "_Published May 17, 2025, 03:04 AM_
-Ex-fbi director comey interviewed by secret service over ‘8647’ social media post" }
-UisitmIfyttp@{ shape: win-pane, label: "_Published May 16, 2025, 09:45 AM_
-Us officials looking into former fbi chief comey’s ‘8647’ post about trump" }
-Uiiwaipatbhra@{ shape: win-pane, label: "_Published Jan 08, 2021, 12:03 PM_
-Us capitol riot: how social media helped enable attack by die-hard trump fans" }
-Tlimruvwlyct@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:34 AM_
-Trump loyalist admits grand jury never saw final comey indictment" }
-UgddofmefabBhao@{ shape: win-pane, label: "_Published Nov 18, 2025, 04:07 AM_
-Us judge finds evidence of ‘profound’ missteps in federal probe of fbi ex-chief james comey" }
-Frfleroiasnio@{ shape: win-pane, label: "_Published Oct 22, 2025, 03:17 AM_
-Former us officials urge congress to examine ‘weaponisation’ working group" }
-EcCasicunees@{ shape: win-pane, label: "_Published Oct 31, 2025, 07:21 AM_
-Ex-fbi chief comey argues 2020 testimony can’t sustain false statements case" }
-EcCasicunees@{ shape: win-pane, label: "_Published Oct 31, 2025, 07:21 AM_
-Ex-fbi chief comey argues 2020 testimony can’t sustain false statements case" }
-TstseydtrBesn@{ shape: win-pane, label: "_Published Oct 10, 2025, 09:14 PM_
-Trump’s call to prosecute comey could bolster former fbi director's defence" }
-EcCpsuiepe@{ shape: win-pane, label: "_Published Oct 08, 2025, 11:53 PM_
-Ex-fbi chief comey pleads not guilty in case trump pushed for" }
+Birrootucnrtan@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:45 AM_
+Based in us or nigeria? x location feature fuels scrutiny over political accounts" }
+Frpsattly@{ shape: win-pane, label: "_Published Nov 16, 2025, 07:29 AM_
+Former trump ally says facing threats ‘fuelled’ by him" }
+TwrutomyoaGe@{ shape: win-pane, label: "_Published Nov 15, 2025, 02:43 PM_
+Trump withdraws support for long-time ally marjorie taylor greene" }
+Lsounenonmr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:01 PM_
+Longest us govt shutdown is over but new showdowns loom for trump" }
+HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
+‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
+Jetisdntigntvem@{ shape: win-pane, label: "_Published Jul 08, 2025, 04:02 AM_
+Jeffrey epstein died by suicide, has no sex trafficking ‘client list’: us government memo" }
+Tspnerifag@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:45 AM_
+Trump says epstein ‘stole’ underage victim from mar-a-lago spa" }
 
-UgstiagtIfsyoLie:::txtsize --> Frhorahdurcc:::txtsize
-Frhorahdurcc:::txtsize --> TpcgJcanhhe:::txtsize
-TpcgJcanhhe:::txtsize --> UsoeestrueeeLie:::txtsize
-TpcgJcanhhe:::txtsize --> AcTmtwrnslm:::txtsize
-Frhorahdurcc:::txtsize --> Edtmteyevvceo:::txtsize
-Edtmteyevvceo:::txtsize --> UisitmIfyttp:::txtsize
-Edtmteyevvceo:::txtsize --> Uiiwaipatbhra:::txtsize
-UgstiagtIfsyoLie:::txtsize --> Tlimruvwlyct:::txtsize
-Tlimruvwlyct:::txtsize --> UgddofmefabBhao:::txtsize
-UgddofmefabBhao:::txtsize --> Frfleroiasnio:::txtsize
-UgddofmefabBhao:::txtsize --> EcCasicunees:::txtsize
-Tlimruvwlyct:::txtsize --> EcCasicunees:::txtsize
-EcCasicunees:::txtsize --> TstseydtrBesn:::txtsize
-EcCasicunees:::txtsize --> EcCpsuiepe:::txtsize
+Birrootucnrtan:::txtsize --> Frpsattly:::txtsize
+Frpsattly:::txtsize --> TwrutomyoaGe:::txtsize
+TwrutomyoaGe:::txtsize --> Lsounenonmr:::txtsize
+Frpsattly:::txtsize --> HwtipngesTkfot:::txtsize
+HwtipngesTkfot:::txtsize --> Jetisdntigntvem:::txtsize
+HwtipngesTkfot:::txtsize --> Tspnerifag:::txtsize
 
-AneoiTneapoldgono@{ shape: win-pane, label: "_Published Nov 25, 2025, 01:40 AM_
-Amazon suspected of acting as ‘trojan horse’ in italian probe over alleged smuggling of chinese goods" }
-Angtlonuoirve@{ shape: win-pane, label: "_Published Nov 25, 2025, 01:01 AM_
-Amazon pledges up to $65 billion to expand ai, supercomputing for us government" }
-OIdosmooiwocSce@{ shape: win-pane, label: "_Published Jul 03, 2025, 09:56 AM_
-Openai inks deal for massive amount of ai computing power from oracle’s us data centres" }
-AgodeerynE@{ shape: win-pane, label: "_Published Apr 10, 2025, 03:13 PM_
-Ai surge to double data centre electricity demand by 2030: iea" }
-Imdowsgp@{ shape: win-pane, label: "_Published Jul 06, 2024, 02:18 AM_
-Is ai a major drain on the world's energy supply?" }
-NattrherIe@{ shape: win-pane, label: "_Published Nov 24, 2025, 08:14 AM_
-Nvidia didn’t save the market. what’s next for the ai trade?" }
-SparnsenXee@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:00 AM_
-Singapore market responds positively to new sgx-mas measures" }
-Snenmmohixs@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:50 AM_
-Sweden’s government summons amazon over childlike sex dolls" }
-CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
-China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
-SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
-Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
-Shtfbsrol@{ shape: win-pane, label: "_Published Oct 10, 2025, 08:00 AM_
-Shein, hit with big fines, boosts internal controls" }
-Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
-Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
-FeaSbclelp@{ shape: win-pane, label: "_Published Nov 03, 2025, 08:50 PM_
-France threatens shein ban if ‘childlike’ sex dolls reappear" }
-CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
-China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
+HriIacsadlas@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:40 AM_
+Hackers strike us ivy league schools already under political pressure" }
+Jemecmemtsbil@{ shape: win-pane, label: "_Published Oct 23, 2025, 11:30 AM_
+Japanese companies brace themselves for more attacks as cybercrimes climb" }
+JsgAGctmdoeea@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:10 PM_
+Japan’s beer giant asahi group cannot resume production after cyber attack" }
+Pbttssesscs@{ shape: win-pane, label: "_Published Apr 25, 2025, 10:15 AM_
+Portable internet helps asia scam centres bypass blackouts" }
+JAntbtagyoieift@{ shape: win-pane, label: "_Published Dec 26, 2024, 10:20 AM_
+Japan airlines hit by cyber attack, causing delays to domestic, international flights" }
+Jshrmaklyn@{ shape: win-pane, label: "_Published Oct 20, 2025, 03:25 PM_
+Japan’s muji hit by ransomware attack on delivery partner" }
+Qccglhnnhu@{ shape: win-pane, label: "_Published Oct 08, 2025, 02:39 AM_
+Qilin cybercrime gang claims hack on japan’s asahi group" }
+Jsismltnat@{ shape: win-pane, label: "_Published Oct 04, 2025, 07:00 PM_
+Japan’s asahi ships beer manually after ransomware attack" }
+CsaUeodoetis@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:00 AM_
+China sees gaps in us defences, ousted national security official says" }
+Uniulruausl@{ shape: win-pane, label: "_Published Jul 29, 2025, 05:49 PM_
+Us, china tariff truce holds for now but us says trump has final say" }
+CamdlUswetd@{ shape: win-pane, label: "_Published Jun 12, 2025, 03:48 PM_
+China affirms trade deal with us, says it always keeps its word" }
+UChekategfumn@{ shape: win-pane, label: "_Published Jul 29, 2025, 04:35 AM_
+Us and china hold new talks on tariff truce, easing path for trump-xi meeting" }
+Tsetimibyta@{ shape: win-pane, label: "_Published Jul 29, 2025, 12:13 PM_
+Trump says he is not seeking summit with xi, but may visit china" }
+UChekategfumn@{ shape: win-pane, label: "_Published Jul 29, 2025, 04:35 AM_
+Us and china hold new talks on tariff truce, easing path for trump-xi meeting" }
+Tpsrttsftuiaaa@{ shape: win-pane, label: "_Published Jul 28, 2025, 01:39 PM_
+Trump pauses export controls to bolster effort to secure china trade deal, ft says" }
 
-AneoiTneapoldgono:::txtsize --> Angtlonuoirve:::txtsize
-Angtlonuoirve:::txtsize --> OIdosmooiwocSce:::txtsize
-OIdosmooiwocSce:::txtsize --> AgodeerynE:::txtsize
-OIdosmooiwocSce:::txtsize --> Imdowsgp:::txtsize
-Angtlonuoirve:::txtsize --> NattrherIe:::txtsize
-NattrherIe:::txtsize --> SparnsenXee:::txtsize
-AneoiTneapoldgono:::txtsize --> Snenmmohixs:::txtsize
-Snenmmohixs:::txtsize --> CsnsdsloeoFhhoi:::txtsize
-CsnsdsloeoFhhoi:::txtsize --> SthirylerNsba:::txtsize
-CsnsdsloeoFhhoi:::txtsize --> Shtfbsrol:::txtsize
-Snenmmohixs:::txtsize --> Sbelerncrdo:::txtsize
-Sbelerncrdo:::txtsize --> FeaSbclelp:::txtsize
-Sbelerncrdo:::txtsize --> CsnsdsloeoFhhoi:::txtsize
+HriIacsadlas:::txtsize --> Jemecmemtsbil:::txtsize
+Jemecmemtsbil:::txtsize --> JsgAGctmdoeea:::txtsize
+JsgAGctmdoeea:::txtsize --> Pbttssesscs:::txtsize
+JsgAGctmdoeea:::txtsize --> JAntbtagyoieift:::txtsize
+Jemecmemtsbil:::txtsize --> Jshrmaklyn:::txtsize
+Jshrmaklyn:::txtsize --> Qccglhnnhu:::txtsize
+Jshrmaklyn:::txtsize --> Jsismltnat:::txtsize
+HriIacsadlas:::txtsize --> CsaUeodoetis:::txtsize
+CsaUeodoetis:::txtsize --> Uniulruausl:::txtsize
+Uniulruausl:::txtsize --> CamdlUswetd:::txtsize
+Uniulruausl:::txtsize --> UChekategfumn:::txtsize
+CsaUeodoetis:::txtsize --> Tsetimibyta:::txtsize
+Tsetimibyta:::txtsize --> UChekategfumn:::txtsize
+Tsetimibyta:::txtsize --> Tpsrttsftuiaaa:::txtsize
 
-UIleaniuineomo@{ shape: win-pane, label: "_Published Nov 25, 2025, 01:24 AM_
-Us and israel-backed gaza humanitarian foundation announces end of its mission" }
-Ileaaarise@{ shape: win-pane, label: "_Published May 27, 2025, 04:12 AM_
-Israel-backed gaza food aid plan starts amid dissent, delay" }
-HfrsSeares@{ shape: win-pane, label: "_Published May 26, 2025, 09:28 AM_
-Head of controversial us-backed gaza aid group resigns" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-UlarSeetz@{ shape: win-pane, label: "_Published May 16, 2025, 12:57 AM_
-Un will not take part in us-backed aid effort in gaza" }
-Ueswclhsrld@{ shape: win-pane, label: "_Published May 24, 2025, 11:10 AM_
-Un chief says gaza war in ‘cruellest phase’ as aid trucks looted" }
-Usfeiaohrie@{ shape: win-pane, label: "_Published May 23, 2025, 11:06 PM_
-Un says more food needed in gaza as looting hampers deliveries" }
-Usfeiaohrie@{ shape: win-pane, label: "_Published May 23, 2025, 11:06 PM_
-Un says more food needed in gaza as looting hampers deliveries" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
-Israel marks oct 7 anniversary as talks are held to end gaza war" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-Hatmzcnhodro@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:11 PM_
-Hamas accepts trump’s gaza peace plan, but the bloodshed is far from over" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
+Uanuewhspneares@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:25 AM_
+Us department of justice renews push to unseal epstein, maxwell grand jury materials" }
+ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
+After trump reversal, us house pushes forward on epstein vote" }
+TuRlstrspnsvla@{ shape: win-pane, label: "_Published Nov 17, 2025, 11:57 AM_
+Trump urges republicans to vote for release of epstein files in reversal of stance" }
+HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
+‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
+Utemerddostimt@{ shape: win-pane, label: "_Published Nov 15, 2025, 05:12 AM_
+Us justice department heeds trump’s demand to probe epstein ties with democrats" }
+JetructaaSes@{ shape: win-pane, label: "_Published Aug 21, 2025, 02:17 AM_
+Jeffrey epstein grand jury records to remain sealed, us judge rules" }
+WodoumtnMov@{ shape: win-pane, label: "_Published Jul 19, 2025, 06:16 AM_
+What you need to know about trump, epstein and the maga controversy" }
+Tseiqigrscrks@{ shape: win-pane, label: "_Published Jul 17, 2025, 03:35 AM_
+Trump says republicans questioning jeffrey epstein case are ‘weaklings’" }
+TsarolEioel@{ shape: win-pane, label: "_Published Jul 19, 2025, 05:39 AM_
+Trump sues wall street journal over epstein report, seeks $12.8 billion" }
+Jetisdntigntvem@{ shape: win-pane, label: "_Published Jul 08, 2025, 04:02 AM_
+Jeffrey epstein died by suicide, has no sex trafficking ‘client list’: us government memo" }
+Jetcriiebceiy@{ shape: win-pane, label: "_Published Apr 26, 2025, 12:15 PM_
+Jeffrey epstein accuser virginia giuffre dies by suicide, her family says" }
+MesciuiEie@{ shape: win-pane, label: "_Published Jun 07, 2025, 09:45 PM_
+Musk deletes post claiming trump is ‘in the epstein files’" }
 
-UIleaniuineomo:::txtsize --> Ileaaarise:::txtsize
-Ileaaarise:::txtsize --> HfrsSeares:::txtsize
-HfrsSeares:::txtsize --> NyeeawHakl:::txtsize
-HfrsSeares:::txtsize --> UlarSeetz:::txtsize
-Ileaaarise:::txtsize --> Ueswclhsrld:::txtsize
-Ueswclhsrld:::txtsize --> Usfeiaohrie:::txtsize
-Ueswclhsrld:::txtsize --> Usfeiaohrie:::txtsize
-UIleaniuineomo:::txtsize --> TssHaossaaorslaoe:::txtsize
-TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
-Ilsnrakhoar:::txtsize --> Sbsrcdnacaale:::txtsize
-Ilsnrakhoar:::txtsize --> Hatmzcnhodro:::txtsize
-TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Uanuewhspneares:::txtsize --> ATrsHpsaEie:::txtsize
+ATrsHpsaEie:::txtsize --> TuRlstrspnsvla:::txtsize
+TuRlstrspnsvla:::txtsize --> HwtipngesTkfot:::txtsize
+TuRlstrspnsvla:::txtsize --> Utemerddostimt:::txtsize
+Uanuewhspneares:::txtsize --> JetructaaSes:::txtsize
+JetructaaSes:::txtsize --> WodoumtnMov:::txtsize
+WodoumtnMov:::txtsize --> Tseiqigrscrks:::txtsize
+WodoumtnMov:::txtsize --> TsarolEioel:::txtsize
+JetructaaSes:::txtsize --> Jetisdntigntvem:::txtsize
+Jetisdntigntvem:::txtsize --> Jetcriiebceiy:::txtsize
+Jetisdntigntvem:::txtsize --> MesciuiEie:::txtsize
 
 ```
-<i>Last updated: 2025-11-25 04:00:59.436273 (GMT+8)</i>
+<i>Last updated: 2025-11-25 08:00:24.443737 (GMT+8)</i>
 <!-- END -->
