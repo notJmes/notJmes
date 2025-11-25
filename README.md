@@ -16,111 +16,135 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Birrootucnrtan@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:45 AM_
-Based in us or nigeria? x location feature fuels scrutiny over political accounts" }
-Frpsattly@{ shape: win-pane, label: "_Published Nov 16, 2025, 07:29 AM_
-Former trump ally says facing threats ‘fuelled’ by him" }
-TwrutomyoaGe@{ shape: win-pane, label: "_Published Nov 15, 2025, 02:43 PM_
-Trump withdraws support for long-time ally marjorie taylor greene" }
-Lsounenonmr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:01 PM_
-Longest us govt shutdown is over but new showdowns loom for trump" }
-HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
-‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
-Jetisdntigntvem@{ shape: win-pane, label: "_Published Jul 08, 2025, 04:02 AM_
-Jeffrey epstein died by suicide, has no sex trafficking ‘client list’: us government memo" }
-Tspnerifag@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:45 AM_
-Trump says epstein ‘stole’ underage victim from mar-a-lago spa" }
+Xwroiaptnas@{ shape: win-pane, label: "_Published Nov 25, 2025, 11:00 AM_
+Xi may want trump to rein in japan in spat with china, say analysts" }
+JPahciuinp@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:58 AM_
+Japan pm takaichi holds call with trump amid china dispute" }
+Xwroiaptnas@{ shape: win-pane, label: "_Published Nov 25, 2025, 11:00 AM_
+Xi may want trump to rein in japan in spat with china, say analysts" }
+JPahciuinp@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:58 AM_
+Japan pm takaichi holds call with trump amid china dispute" }
+JpsaCdmitarkiwm@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:00 PM_
+Japan protests against china diplomat’s violent threat over pm takaichi’s taiwan remark" }
+JslrcrthddTnr@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:35 AM_
+Japan sends letter to un chief rebutting china’s demand over taiwan remarks" }
+JpsaCdmitarkiwm@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:00 PM_
+Japan protests against china diplomat’s violent threat over pm takaichi’s taiwan remark" }
+Xlmtatsowdpc@{ shape: win-pane, label: "_Published Nov 24, 2025, 11:38 PM_
+Xi tells trump that taiwan’s ‘return’ is key to post-war order in phone call" }
+JpsaCdmitarkiwm@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:00 PM_
+Japan protests against china diplomat’s violent threat over pm takaichi’s taiwan remark" }
+JPaCseubitnts@{ shape: win-pane, label: "_Published Oct 31, 2025, 10:10 PM_
+Japan pm takaichi, china’s xi seek mutually beneficial ties in first talks" }
+Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
+China tightens rare earth export controls and targets defence, semiconductor users" }
+SlMyhunkorntei@{ shape: win-pane, label: "_Published Oct 17, 2025, 12:50 PM_
+Socialist pm murayama, who issued landmark apology for japan’s wartime deeds, dies at 101" }
+Ceovnrwnep@{ shape: win-pane, label: "_Published Oct 28, 2025, 06:45 PM_
+China eyes ‘positive signals’ from new japan leadership" }
+STcksaarminr@{ shape: win-pane, label: "_Published Oct 21, 2025, 12:50 PM_
+Sanae takaichi makes history as japan’s first woman prime minister" }
+TJPaairtaarii@{ shape: win-pane, label: "_Published Oct 28, 2025, 07:30 AM_
+Trump, japan pm sanae takaichi ink rare earths deal ahead of trump-xi meeting" }
 
-Birrootucnrtan:::txtsize --> Frpsattly:::txtsize
-Frpsattly:::txtsize --> TwrutomyoaGe:::txtsize
-TwrutomyoaGe:::txtsize --> Lsounenonmr:::txtsize
-Frpsattly:::txtsize --> HwtipngesTkfot:::txtsize
-HwtipngesTkfot:::txtsize --> Jetisdntigntvem:::txtsize
-HwtipngesTkfot:::txtsize --> Tspnerifag:::txtsize
+Xwroiaptnas:::txtsize --> JPahciuinp:::txtsize
+JPahciuinp:::txtsize --> Xwroiaptnas:::txtsize
+Xwroiaptnas:::txtsize --> JPahciuinp:::txtsize
+Xwroiaptnas:::txtsize --> JpsaCdmitarkiwm:::txtsize
+JPahciuinp:::txtsize --> JslrcrthddTnr:::txtsize
+JslrcrthddTnr:::txtsize --> JpsaCdmitarkiwm:::txtsize
+JslrcrthddTnr:::txtsize --> Xlmtatsowdpc:::txtsize
+Xwroiaptnas:::txtsize --> JpsaCdmitarkiwm:::txtsize
+JpsaCdmitarkiwm:::txtsize --> JPaCseubitnts:::txtsize
+JPaCseubitnts:::txtsize --> Ctertonsasnmdrs:::txtsize
+JPaCseubitnts:::txtsize --> SlMyhunkorntei:::txtsize
+JpsaCdmitarkiwm:::txtsize --> Ceovnrwnep:::txtsize
+Ceovnrwnep:::txtsize --> STcksaarminr:::txtsize
+Ceovnrwnep:::txtsize --> TJPaairtaarii:::txtsize
 
-HriIacsadlas@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:40 AM_
-Hackers strike us ivy league schools already under political pressure" }
-Jemecmemtsbil@{ shape: win-pane, label: "_Published Oct 23, 2025, 11:30 AM_
-Japanese companies brace themselves for more attacks as cybercrimes climb" }
-JsgAGctmdoeea@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:10 PM_
-Japan’s beer giant asahi group cannot resume production after cyber attack" }
-Pbttssesscs@{ shape: win-pane, label: "_Published Apr 25, 2025, 10:15 AM_
-Portable internet helps asia scam centres bypass blackouts" }
-JAntbtagyoieift@{ shape: win-pane, label: "_Published Dec 26, 2024, 10:20 AM_
-Japan airlines hit by cyber attack, causing delays to domestic, international flights" }
-Jshrmaklyn@{ shape: win-pane, label: "_Published Oct 20, 2025, 03:25 PM_
-Japan’s muji hit by ransomware attack on delivery partner" }
-Qccglhnnhu@{ shape: win-pane, label: "_Published Oct 08, 2025, 02:39 AM_
-Qilin cybercrime gang claims hack on japan’s asahi group" }
-Jsismltnat@{ shape: win-pane, label: "_Published Oct 04, 2025, 07:00 PM_
-Japan’s asahi ships beer manually after ransomware attack" }
-CsaUeodoetis@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:00 AM_
-China sees gaps in us defences, ousted national security official says" }
-Uniulruausl@{ shape: win-pane, label: "_Published Jul 29, 2025, 05:49 PM_
-Us, china tariff truce holds for now but us says trump has final say" }
-CamdlUswetd@{ shape: win-pane, label: "_Published Jun 12, 2025, 03:48 PM_
-China affirms trade deal with us, says it always keeps its word" }
-UChekategfumn@{ shape: win-pane, label: "_Published Jul 29, 2025, 04:35 AM_
-Us and china hold new talks on tariff truce, easing path for trump-xi meeting" }
-Tsetimibyta@{ shape: win-pane, label: "_Published Jul 29, 2025, 12:13 PM_
-Trump says he is not seeking summit with xi, but may visit china" }
-UChekategfumn@{ shape: win-pane, label: "_Published Jul 29, 2025, 04:35 AM_
-Us and china hold new talks on tariff truce, easing path for trump-xi meeting" }
-Tpsrttsftuiaaa@{ shape: win-pane, label: "_Published Jul 28, 2025, 01:39 PM_
-Trump pauses export controls to bolster effort to secure china trade deal, ft says" }
+OmlyooenU@{ shape: win-pane, label: "_Published Nov 25, 2025, 10:50 AM_
+One woman killed by someone close every 10 minutes: un" }
+SouwwswntM@{ shape: win-pane, label: "_Published Oct 01, 2025, 11:50 AM_
+'shut your mouth': low-paid women still waiting for their #metoo" }
+FhfteTqacyr@{ shape: win-pane, label: "_Published Mar 19, 2025, 01:00 PM_
+French male film stars tell #metoo inquiry about ‘clumsy’ remarks" }
+Fhdtgououanra@{ shape: win-pane, label: "_Published Feb 03, 2025, 09:40 PM_
+French film director ruggia found guilty of sexually abusing actress haenel" }
+SluiFhrraueuM@{ shape: win-pane, label: "_Published Oct 28, 2024, 10:30 PM_
+Sexual assault trial of french actor gerard depardieu suspended until march" }
+Jcflewos@{ shape: win-pane, label: "_Published Feb 09, 2025, 06:00 PM_
+Japan could finally face its own #metoo crisis" }
+JtdepeaNreeusuli@{ shape: win-pane, label: "_Published Jan 23, 2025, 03:15 PM_
+J-pop star and former smap leader masahiro nakai retires after sexual misconduct allegations" }
+Letrtoekia@{ shape: win-pane, label: "_Published Oct 31, 2025, 07:55 PM_
+‘look delicate’ marriage tips for women backfire in japan" }
+Jepieoo@{ shape: win-pane, label: "_Published Aug 07, 2025, 05:12 PM_
+Japanese population sees record drop in 2024" }
+Jerraptiaeer@{ shape: win-pane, label: "_Published Jul 16, 2025, 03:40 PM_
+‘japanese first’ party shakes up election with alarm over foreigners" }
+Wsssenn@{ shape: win-pane, label: "_Published Jan 04, 2025, 05:51 PM_
+World’s oldest person dies at 116 in japan" }
+Jnmhirssftohmbr@{ shape: win-pane, label: "_Published Mar 03, 2024, 08:55 PM_
+Japan needs more than childcare subsidies to defuse its demographic time bomb: experts" }
 
-HriIacsadlas:::txtsize --> Jemecmemtsbil:::txtsize
-Jemecmemtsbil:::txtsize --> JsgAGctmdoeea:::txtsize
-JsgAGctmdoeea:::txtsize --> Pbttssesscs:::txtsize
-JsgAGctmdoeea:::txtsize --> JAntbtagyoieift:::txtsize
-Jemecmemtsbil:::txtsize --> Jshrmaklyn:::txtsize
-Jshrmaklyn:::txtsize --> Qccglhnnhu:::txtsize
-Jshrmaklyn:::txtsize --> Jsismltnat:::txtsize
-HriIacsadlas:::txtsize --> CsaUeodoetis:::txtsize
-CsaUeodoetis:::txtsize --> Uniulruausl:::txtsize
-Uniulruausl:::txtsize --> CamdlUswetd:::txtsize
-Uniulruausl:::txtsize --> UChekategfumn:::txtsize
-CsaUeodoetis:::txtsize --> Tsetimibyta:::txtsize
-Tsetimibyta:::txtsize --> UChekategfumn:::txtsize
-Tsetimibyta:::txtsize --> Tpsrttsftuiaaa:::txtsize
+OmlyooenU:::txtsize --> SouwwswntM:::txtsize
+SouwwswntM:::txtsize --> FhfteTqacyr:::txtsize
+FhfteTqacyr:::txtsize --> Fhdtgououanra:::txtsize
+FhfteTqacyr:::txtsize --> SluiFhrraueuM:::txtsize
+SouwwswntM:::txtsize --> Jcflewos:::txtsize
+Jcflewos:::txtsize --> JtdepeaNreeusuli:::txtsize
+OmlyooenU:::txtsize --> Letrtoekia:::txtsize
+Letrtoekia:::txtsize --> Jepieoo:::txtsize
+Jepieoo:::txtsize --> Jerraptiaeer:::txtsize
+Jepieoo:::txtsize --> Wsssenn:::txtsize
+Letrtoekia:::txtsize --> Jnmhirssftohmbr:::txtsize
 
-Uanuewhspneares@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:25 AM_
-Us department of justice renews push to unseal epstein, maxwell grand jury materials" }
-ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
-After trump reversal, us house pushes forward on epstein vote" }
-TuRlstrspnsvla@{ shape: win-pane, label: "_Published Nov 17, 2025, 11:57 AM_
-Trump urges republicans to vote for release of epstein files in reversal of stance" }
-HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
-‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
-Utemerddostimt@{ shape: win-pane, label: "_Published Nov 15, 2025, 05:12 AM_
-Us justice department heeds trump’s demand to probe epstein ties with democrats" }
-JetructaaSes@{ shape: win-pane, label: "_Published Aug 21, 2025, 02:17 AM_
-Jeffrey epstein grand jury records to remain sealed, us judge rules" }
-WodoumtnMov@{ shape: win-pane, label: "_Published Jul 19, 2025, 06:16 AM_
-What you need to know about trump, epstein and the maga controversy" }
-Tseiqigrscrks@{ shape: win-pane, label: "_Published Jul 17, 2025, 03:35 AM_
-Trump says republicans questioning jeffrey epstein case are ‘weaklings’" }
-TsarolEioel@{ shape: win-pane, label: "_Published Jul 19, 2025, 05:39 AM_
-Trump sues wall street journal over epstein report, seeks $12.8 billion" }
-Jetisdntigntvem@{ shape: win-pane, label: "_Published Jul 08, 2025, 04:02 AM_
-Jeffrey epstein died by suicide, has no sex trafficking ‘client list’: us government memo" }
-Jetcriiebceiy@{ shape: win-pane, label: "_Published Apr 26, 2025, 12:15 PM_
-Jeffrey epstein accuser virginia giuffre dies by suicide, her family says" }
-MesciuiEie@{ shape: win-pane, label: "_Published Jun 07, 2025, 09:45 PM_
-Musk deletes post claiming trump is ‘in the epstein files’" }
+Trtimesmtnn@{ shape: win-pane, label: "_Published Nov 25, 2025, 10:15 AM_
+Trump redistricting gamble teeters as democrats gain ground" }
+TastmmprTsrr@{ shape: win-pane, label: "_Published Aug 23, 2025, 03:00 PM_
+Texas adopts electoral map aimed at preserving trump’s congress grip" }
+TRlsoucosattami@{ shape: win-pane, label: "_Published Aug 21, 2025, 02:11 AM_
+Texas republicans approve trump-backed congressional map to protect party’s majority" }
+WHlhkctTsgoi@{ shape: win-pane, label: "_Published Aug 20, 2025, 06:19 AM_
+White house launches tiktok account with trump saying ‘i am your voice’" }
+Tboabiisuo@{ shape: win-pane, label: "_Published Aug 21, 2025, 01:19 AM_
+Trump buys more than $128m in bonds in office, disclosure shows" }
+Ttnatth@{ shape: win-pane, label: "_Published Aug 18, 2025, 05:00 AM_
+Trump, tech and texas: what’s next for the us?" }
+Tlmoaclnsttlttos@{ shape: win-pane, label: "_Published Aug 06, 2025, 08:30 AM_
+Trump-led gambit to redraw electoral map in texas ignites national race to control congress" }
+Tlmoaclnsttlttos@{ shape: win-pane, label: "_Published Aug 06, 2025, 08:30 AM_
+Trump-led gambit to redraw electoral map in texas ignites national race to control congress" }
+Ffiriilwlrp@{ shape: win-pane, label: "_Published Oct 30, 2025, 04:15 PM_
+‘fight fire with fire’: california mulls skewing electoral map" }
+TastmmprTsrr@{ shape: win-pane, label: "_Published Aug 23, 2025, 03:00 PM_
+Texas adopts electoral map aimed at preserving trump’s congress grip" }
+TRlsoucosattami@{ shape: win-pane, label: "_Published Aug 21, 2025, 02:11 AM_
+Texas republicans approve trump-backed congressional map to protect party’s majority" }
+Ttnatth@{ shape: win-pane, label: "_Published Aug 18, 2025, 05:00 AM_
+Trump, tech and texas: what’s next for the us?" }
+Seesehceloatiy@{ shape: win-pane, label: "_Published Dec 05, 2024, 12:08 PM_
+Speaker mike johnson’s newest headache: the smallest house majority in history" }
+CoDriahteted@{ shape: win-pane, label: "_Published Dec 04, 2024, 02:40 PM_
+California democrat flips seat in the last house race to be decided" }
+FrpnttsnuCe@{ shape: win-pane, label: "_Published Nov 23, 2024, 02:53 AM_
+Former trump nominee matt gaetz says he won’t return to congress" }
 
-Uanuewhspneares:::txtsize --> ATrsHpsaEie:::txtsize
-ATrsHpsaEie:::txtsize --> TuRlstrspnsvla:::txtsize
-TuRlstrspnsvla:::txtsize --> HwtipngesTkfot:::txtsize
-TuRlstrspnsvla:::txtsize --> Utemerddostimt:::txtsize
-Uanuewhspneares:::txtsize --> JetructaaSes:::txtsize
-JetructaaSes:::txtsize --> WodoumtnMov:::txtsize
-WodoumtnMov:::txtsize --> Tseiqigrscrks:::txtsize
-WodoumtnMov:::txtsize --> TsarolEioel:::txtsize
-JetructaaSes:::txtsize --> Jetisdntigntvem:::txtsize
-Jetisdntigntvem:::txtsize --> Jetcriiebceiy:::txtsize
-Jetisdntigntvem:::txtsize --> MesciuiEie:::txtsize
+Trtimesmtnn:::txtsize --> TastmmprTsrr:::txtsize
+TastmmprTsrr:::txtsize --> TRlsoucosattami:::txtsize
+TRlsoucosattami:::txtsize --> WHlhkctTsgoi:::txtsize
+TRlsoucosattami:::txtsize --> Tboabiisuo:::txtsize
+TastmmprTsrr:::txtsize --> Ttnatth:::txtsize
+Ttnatth:::txtsize --> Tlmoaclnsttlttos:::txtsize
+Ttnatth:::txtsize --> Tlmoaclnsttlttos:::txtsize
+Trtimesmtnn:::txtsize --> Ffiriilwlrp:::txtsize
+Ffiriilwlrp:::txtsize --> TastmmprTsrr:::txtsize
+TastmmprTsrr:::txtsize --> TRlsoucosattami:::txtsize
+TastmmprTsrr:::txtsize --> Ttnatth:::txtsize
+Ffiriilwlrp:::txtsize --> Seesehceloatiy:::txtsize
+Seesehceloatiy:::txtsize --> CoDriahteted:::txtsize
+Seesehceloatiy:::txtsize --> FrpnttsnuCe:::txtsize
 
 ```
-<i>Last updated: 2025-11-25 08:00:24.443737 (GMT+8)</i>
+<i>Last updated: 2025-11-25 12:00:50.340557 (GMT+8)</i>
 <!-- END -->
