@@ -16,114 +16,81 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Bzlktaaapldhl@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:58 PM_
-Big buzz, small market: meta’s smartglasses are a specialty gadget this holiday" }
-Maersiidacfptg@{ shape: win-pane, label: "_Published Sep 18, 2025, 08:36 AM_
-Meta launches smart glasses with built-in display, reaching for ‘superintelligence’" }
-Zraneptggmi@{ shape: win-pane, label: "_Published Jul 01, 2025, 04:51 AM_
-Zuckerberg announces meta ‘superintelligence’ group, more hires" }
-MaanmnekC@{ shape: win-pane, label: "_Published Jun 13, 2025, 12:40 PM_
-Meta makes major investment in scale ai, takes in ceo" }
-MrohAfhuaOl@{ shape: win-pane, label: "_Published Jun 18, 2025, 08:04 AM_
-Meta tried to poach openai staff with $128m bonuses, says ceo sam altman" }
-ModeAiPugpcoin@{ shape: win-pane, label: "_Published Jul 10, 2025, 08:58 AM_
-Meta poached apple’s top ai engineer pang ruoming with pay package over $256 million" }
-Altetosne@{ shape: win-pane, label: "_Published Jul 08, 2025, 07:25 AM_
-Apple loses top ai executive to meta’s hiring spree" }
-Altetosne@{ shape: win-pane, label: "_Published Jul 08, 2025, 07:25 AM_
-Apple loses top ai executive to meta’s hiring spree" }
+Mcoeldsesls@{ shape: win-pane, label: "_Published Nov 25, 2025, 11:34 PM_
+Man accused of liverpool parade crash in tears as trial opens" }
+hfrhrctwivotr@{ shape: win-pane, label: "_Published May 27, 2025, 02:18 AM_
+47 hurt after british man drives car into crowd during liverpool’s title parade" }
+Gnsbutslanai@{ shape: win-pane, label: "_Published May 24, 2025, 09:15 PM_
+Germany mass stabbing suspect has ‘psychological illness’, say police" }
+Gnnsftdmso@{ shape: win-pane, label: "_Published May 24, 2025, 01:44 AM_
+German woman arrested after 18 stabbed at hamburg station" }
+Gnrcscrrirea@{ shape: win-pane, label: "_Published May 06, 2025, 04:40 PM_
+Germany’s merz elected as chancellor after initial surprise setback" }
 
-Bzlktaaapldhl:::txtsize --> Maersiidacfptg:::txtsize
-Maersiidacfptg:::txtsize --> Zraneptggmi:::txtsize
-Zraneptggmi:::txtsize --> MaanmnekC:::txtsize
-Zraneptggmi:::txtsize --> MrohAfhuaOl:::txtsize
-Maersiidacfptg:::txtsize --> ModeAiPugpcoin:::txtsize
-ModeAiPugpcoin:::txtsize --> Altetosne:::txtsize
-ModeAiPugpcoin:::txtsize --> Altetosne:::txtsize
+Mcoeldsesls:::txtsize --> hfrhrctwivotr:::txtsize
+hfrhrctwivotr:::txtsize --> Gnsbutslanai:::txtsize
+Gnsbutslanai:::txtsize --> Gnnsftdmso:::txtsize
+Gnsbutslanai:::txtsize --> Gnrcscrrirea:::txtsize
 
-Ptnrsiltwtt@{ shape: win-pane, label: "_Published Nov 25, 2025, 06:37 PM_
-Palestinians fear new israeli settlement will wreck their town" }
-Bietseternel@{ shape: win-pane, label: "_Published Sep 23, 2025, 05:52 AM_
-Bedouin face eviction as israeli settlement spreads near jerusalem" }
-Ilaiensepoifsat@{ shape: win-pane, label: "_Published Aug 14, 2025, 04:03 PM_
-Israel’s finance minister launches settlement plan to ‘bury’ idea of palestinian state" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-Iltaauttatkas@{ shape: win-pane, label: "_Published Aug 12, 2025, 08:55 AM_
-Israeli critics say netanyahu plan to capture gaza city lacks clear aims" }
-BiasiPgcseiaroni@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:34 PM_
-Britain, canada, australia and portugal recognise palestinian state; israel condemns decision" }
-Ferymylniaar@{ shape: win-pane, label: "_Published Sep 22, 2025, 01:32 AM_
-France’s macron says no embassy in palestine until gaza hostages freed" }
-Csaeisateito@{ shape: win-pane, label: "_Published Sep 22, 2025, 01:22 AM_
-Cheers, hugs at palestinian mission as britain recognises statehood" }
-HRshsrfrites@{ shape: win-pane, label: "_Published Nov 20, 2025, 01:08 PM_
-Human rights watch accuses israel of war crimes in west bank expulsions" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Useteaattl@{ shape: win-pane, label: "_Published Aug 15, 2025, 06:29 PM_
-Un says israeli settlement plan breaks international law" }
-Ilcestzyysm@{ shape: win-pane, label: "_Published Aug 14, 2025, 05:23 PM_
-Israeli forces step up assault on gaza city as egypt hosts hamas" }
-Hlaenhoitsno@{ shape: win-pane, label: "_Published Aug 15, 2025, 04:51 PM_
-Hezbollah warns lebanon ‘will have no life’ if govt moves against group" }
+Elnpwar@{ shape: win-pane, label: "_Published Nov 25, 2025, 10:51 PM_
+Eu parliament adopts new toy safety rules" }
+Saeiepheossye@{ shape: win-pane, label: "_Published Jun 27, 2025, 11:24 AM_
+Seoul asks temu, aliexpress to pull children’s products over safety concerns" }
+Pcuthlohamfeen@{ shape: win-pane, label: "_Published Jun 03, 2024, 06:15 PM_
+Products found with high levels of toxic chemicals removed from website: shein" }
+SKfheoimseos@{ shape: win-pane, label: "_Published May 28, 2024, 04:50 PM_
+South korea finds high levels of toxic chemicals in shein products" }
+SKnfkcoflrhoiwoha@{ shape: win-pane, label: "_Published May 26, 2024, 10:55 AM_
+South korean test finds kids’ accessories from aliexpress, shein to be tainted with toxic chemicals" }
+BseahdeobdsneLa@{ shape: win-pane, label: "_Published Sep 26, 2024, 09:50 AM_
+Buyers warned of safety hazards posed by some baby products sold on shopee and lazada" }
+Mheiawwbsianlnifl@{ shape: win-pane, label: "_Published Jul 31, 2023, 06:00 PM_
+More children accidentally swallowing objects, retailers asked not to list unsafe items for sale" }
+Qdnriovrgovlpn@{ shape: win-pane, label: "_Published Sep 13, 2024, 03:00 PM_
+Qoo10 under singapore police probe as vendors lodge reports over delayed payments" }
+Ccntaerhesteo@{ shape: win-pane, label: "_Published Mar 15, 2024, 03:16 AM_
+Chemicals in plastics far more numerous than previously estimated: report" }
+Ellnselcaiem@{ shape: win-pane, label: "_Published Mar 05, 2024, 10:38 AM_
+Eu seals deal on banning single-use plastic packaging in cafes from 2030" }
+Emsitesoiwrelsn@{ shape: win-pane, label: "_Published Jan 11, 2024, 09:10 PM_
+Eu lawmakers consider stronger plastic pollution law after pellet spill hits spain" }
+Uassatlpiul@{ shape: win-pane, label: "_Published Sep 29, 2023, 08:20 AM_
+Us finalises plans to phase out single-use plastic on public lands" }
 
-Ptnrsiltwtt:::txtsize --> Bietseternel:::txtsize
-Bietseternel:::txtsize --> Ilaiensepoifsat:::txtsize
-Ilaiensepoifsat:::txtsize --> Sbsrcdnacaale:::txtsize
-Ilaiensepoifsat:::txtsize --> Iltaauttatkas:::txtsize
-Bietseternel:::txtsize --> BiasiPgcseiaroni:::txtsize
-BiasiPgcseiaroni:::txtsize --> Ferymylniaar:::txtsize
-BiasiPgcseiaroni:::txtsize --> Csaeisateito:::txtsize
-Ptnrsiltwtt:::txtsize --> HRshsrfrites:::txtsize
-HRshsrfrites:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-HRshsrfrites:::txtsize --> Useteaattl:::txtsize
-Useteaattl:::txtsize --> Ilcestzyysm:::txtsize
-Useteaattl:::txtsize --> Hlaenhoitsno:::txtsize
+Elnpwar:::txtsize --> Saeiepheossye:::txtsize
+Saeiepheossye:::txtsize --> Pcuthlohamfeen:::txtsize
+Pcuthlohamfeen:::txtsize --> SKfheoimseos:::txtsize
+Pcuthlohamfeen:::txtsize --> SKnfkcoflrhoiwoha:::txtsize
+Saeiepheossye:::txtsize --> BseahdeobdsneLa:::txtsize
+BseahdeobdsneLa:::txtsize --> Mheiawwbsianlnifl:::txtsize
+BseahdeobdsneLa:::txtsize --> Qdnriovrgovlpn:::txtsize
+Elnpwar:::txtsize --> Ccntaerhesteo:::txtsize
+Ccntaerhesteo:::txtsize --> Ellnselcaiem:::txtsize
+Ellnselcaiem:::txtsize --> Emsitesoiwrelsn:::txtsize
+Ellnselcaiem:::txtsize --> Uassatlpiul:::txtsize
 
-Erssreleihhl@{ shape: win-pane, label: "_Published Nov 25, 2025, 06:33 PM_
-Eu court says same-sex marriage should be recognised throughout bloc" }
-Ngrostrun@{ shape: win-pane, label: "_Published Dec 07, 2024, 04:52 PM_
-‘no longer afraid’: poland’s first queer museum opens" }
-WsriGolifrln@{ shape: win-pane, label: "_Published Jun 01, 2024, 12:47 PM_
-‘we exist’: s. korea’s first lgbtq councillor fights for more inclusion" }
-Ssfvobinetcagey@{ shape: win-pane, label: "_Published May 04, 2023, 03:10 PM_
-Seoul's lgbt festival blocked by christian concert outside city hall, organisers say" }
-SPpeaidrgLrr@{ shape: win-pane, label: "_Published Jul 01, 2023, 09:46 AM_
-Seoul pride parade goes ahead in shadow of rising anti-lgbtq rhetoric" }
-PrtQirshChodfne@{ shape: win-pane, label: "_Published Oct 13, 2024, 02:16 AM_
-Pope urged at lgbtq meeting to reverse catholic church’s ban on gender-affirming care" }
-Prsosrpcseoeu@{ shape: win-pane, label: "_Published May 28, 2024, 09:42 PM_
-Pope francis apologises after homophobic slur, says he did not intend to use it" }
-Vaoratfslods@{ shape: win-pane, label: "_Published Apr 08, 2024, 08:29 PM_
-Vatican opposes criminalisation of homosexuality, top cardinal says" }
-ChrpioQufscnn@{ shape: win-pane, label: "_Published Oct 16, 2025, 10:35 PM_
-Church of norway apologises to lgbtq+ community for past discrimination" }
-CybesaLccdbpi@{ shape: win-pane, label: "_Published Jul 31, 2025, 06:18 PM_
-Cherry vann becomes first woman and lgbtq+ cleric named archbishop in britain" }
-BpsiuchoarLeiar@{ shape: win-pane, label: "_Published Jan 22, 2025, 07:17 AM_
-Bishop asks scowling trump in church sermon to have mercy on lgbt people, illegal migrants" }
-Aiotrllkaeegns@{ shape: win-pane, label: "_Published Jul 11, 2025, 03:13 PM_
-Archbishop of canterbury could scale back global role to avert anglican schism" }
+PcsjolnnhFgfc@{ shape: win-pane, label: "_Published Nov 25, 2025, 10:28 PM_
+Prosecutors seek jail for italian influencer chiara ferragni in fraud case" }
+ACVaslarodtnnn@{ shape: win-pane, label: "_Published Feb 19, 2025, 05:00 PM_
+Apple cider vinegar: how social media gave rise to fraudulent wellness influencers" }
+SmnWerxFatWLACVa@{ shape: win-pane, label: "_Published Feb 05, 2025, 02:30 PM_
+Streaming sneaks: wellness turns toxic in february with the white lotus 3, apple cider vinegar" }
+FnieIvbahdee@{ shape: win-pane, label: "_Published Jan 30, 2025, 01:00 PM_
+Film and tv picks: secret ink, invincible season 3, the seed of the sacred fig" }
+SGoinNierwa@{ shape: win-pane, label: "_Published Jan 31, 2025, 01:45 PM_
+Squid game 3 to premiere on june 27, netflix unveils preview footage" }
+Uliesisrohtiols@{ shape: win-pane, label: "_Published May 13, 2024, 10:01 AM_
+Us wellness influencers pushing misinformation as they attack birth control pills" }
+Tslpokobo@{ shape: win-pane, label: "_Published Mar 20, 2024, 10:35 PM_
+Trump signals support for 15-week national abortion ban" }
 
-Erssreleihhl:::txtsize --> Ngrostrun:::txtsize
-Ngrostrun:::txtsize --> WsriGolifrln:::txtsize
-WsriGolifrln:::txtsize --> Ssfvobinetcagey:::txtsize
-WsriGolifrln:::txtsize --> SPpeaidrgLrr:::txtsize
-Ngrostrun:::txtsize --> PrtQirshChodfne:::txtsize
-PrtQirshChodfne:::txtsize --> Prsosrpcseoeu:::txtsize
-PrtQirshChodfne:::txtsize --> Vaoratfslods:::txtsize
-Erssreleihhl:::txtsize --> ChrpioQufscnn:::txtsize
-ChrpioQufscnn:::txtsize --> CybesaLccdbpi:::txtsize
-CybesaLccdbpi:::txtsize --> BpsiuchoarLeiar:::txtsize
-CybesaLccdbpi:::txtsize --> Aiotrllkaeegns:::txtsize
+PcsjolnnhFgfc:::txtsize --> ACVaslarodtnnn:::txtsize
+ACVaslarodtnnn:::txtsize --> SmnWerxFatWLACVa:::txtsize
+SmnWerxFatWLACVa:::txtsize --> FnieIvbahdee:::txtsize
+SmnWerxFatWLACVa:::txtsize --> SGoinNierwa:::txtsize
+ACVaslarodtnnn:::txtsize --> Uliesisrohtiols:::txtsize
+Uliesisrohtiols:::txtsize --> Tslpokobo:::txtsize
 
 ```
-<i>Last updated: 2025-11-25 20:00:41.846164 (GMT+8)</i>
+<i>Last updated: 2025-11-26 00:01:52.962316 (GMT+8)</i>
 <!-- END -->
