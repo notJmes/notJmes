@@ -16,135 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Xwroiaptnas@{ shape: win-pane, label: "_Published Nov 25, 2025, 11:00 AM_
-Xi may want trump to rein in japan in spat with china, say analysts" }
-JPahciuinp@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:58 AM_
-Japan pm takaichi holds call with trump amid china dispute" }
-Xwroiaptnas@{ shape: win-pane, label: "_Published Nov 25, 2025, 11:00 AM_
-Xi may want trump to rein in japan in spat with china, say analysts" }
-JPahciuinp@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:58 AM_
-Japan pm takaichi holds call with trump amid china dispute" }
-JpsaCdmitarkiwm@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:00 PM_
-Japan protests against china diplomat’s violent threat over pm takaichi’s taiwan remark" }
-JslrcrthddTnr@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:35 AM_
-Japan sends letter to un chief rebutting china’s demand over taiwan remarks" }
-JpsaCdmitarkiwm@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:00 PM_
-Japan protests against china diplomat’s violent threat over pm takaichi’s taiwan remark" }
-Xlmtatsowdpc@{ shape: win-pane, label: "_Published Nov 24, 2025, 11:38 PM_
-Xi tells trump that taiwan’s ‘return’ is key to post-war order in phone call" }
-JpsaCdmitarkiwm@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:00 PM_
-Japan protests against china diplomat’s violent threat over pm takaichi’s taiwan remark" }
-JPaCseubitnts@{ shape: win-pane, label: "_Published Oct 31, 2025, 10:10 PM_
-Japan pm takaichi, china’s xi seek mutually beneficial ties in first talks" }
-Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
-China tightens rare earth export controls and targets defence, semiconductor users" }
-SlMyhunkorntei@{ shape: win-pane, label: "_Published Oct 17, 2025, 12:50 PM_
-Socialist pm murayama, who issued landmark apology for japan’s wartime deeds, dies at 101" }
-Ceovnrwnep@{ shape: win-pane, label: "_Published Oct 28, 2025, 06:45 PM_
-China eyes ‘positive signals’ from new japan leadership" }
-STcksaarminr@{ shape: win-pane, label: "_Published Oct 21, 2025, 12:50 PM_
-Sanae takaichi makes history as japan’s first woman prime minister" }
-TJPaairtaarii@{ shape: win-pane, label: "_Published Oct 28, 2025, 07:30 AM_
-Trump, japan pm sanae takaichi ink rare earths deal ahead of trump-xi meeting" }
+Abbsciilto@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:55 PM_
+At tomb of lebanon’s miracle saint, faithful await the pope" }
+PeduLoivap@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:00 PM_
+Pope leo heads to turkey, lebanon in first overseas trip" }
+Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
+Pope francis dies at age 88" }
+Prsdafoaaos@{ shape: win-pane, label: "_Published Mar 23, 2025, 01:28 AM_
+Pope francis to be discharged from hospital on march 23, doctor says" }
+PrsrVaeessl@{ shape: win-pane, label: "_Published Mar 23, 2025, 07:19 PM_
+Pope francis returns to vatican after five weeks in hospital" }
+Peiiiikbospaof@{ shape: win-pane, label: "_Published Oct 27, 2025, 08:50 PM_
+Pope leo to visit eight cities in turkey, lebanon on first trip abroad as pontiff" }
+UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
+Us cardinal prevost elected pope leo xiv, first american pontiff" }
+PemeVakicarm@{ shape: win-pane, label: "_Published Oct 06, 2025, 08:06 PM_
+Pope leo trims powers of vatican bank, rolling back a francis reform" }
+PeduLoivap@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:00 PM_
+Pope leo heads to turkey, lebanon in first overseas trip" }
+Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
+Pope francis dies at age 88" }
+Prsdafoaaos@{ shape: win-pane, label: "_Published Mar 23, 2025, 01:28 AM_
+Pope francis to be discharged from hospital on march 23, doctor says" }
+PrsrVaeessl@{ shape: win-pane, label: "_Published Mar 23, 2025, 07:19 PM_
+Pope francis returns to vatican after five weeks in hospital" }
+Peiiiikbospaof@{ shape: win-pane, label: "_Published Oct 27, 2025, 08:50 PM_
+Pope leo to visit eight cities in turkey, lebanon on first trip abroad as pontiff" }
+UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
+Us cardinal prevost elected pope leo xiv, first american pontiff" }
+PemeVakicarm@{ shape: win-pane, label: "_Published Oct 06, 2025, 08:06 PM_
+Pope leo trims powers of vatican bank, rolling back a francis reform" }
 
-Xwroiaptnas:::txtsize --> JPahciuinp:::txtsize
-JPahciuinp:::txtsize --> Xwroiaptnas:::txtsize
-Xwroiaptnas:::txtsize --> JPahciuinp:::txtsize
-Xwroiaptnas:::txtsize --> JpsaCdmitarkiwm:::txtsize
-JPahciuinp:::txtsize --> JslrcrthddTnr:::txtsize
-JslrcrthddTnr:::txtsize --> JpsaCdmitarkiwm:::txtsize
-JslrcrthddTnr:::txtsize --> Xlmtatsowdpc:::txtsize
-Xwroiaptnas:::txtsize --> JpsaCdmitarkiwm:::txtsize
-JpsaCdmitarkiwm:::txtsize --> JPaCseubitnts:::txtsize
-JPaCseubitnts:::txtsize --> Ctertonsasnmdrs:::txtsize
-JPaCseubitnts:::txtsize --> SlMyhunkorntei:::txtsize
-JpsaCdmitarkiwm:::txtsize --> Ceovnrwnep:::txtsize
-Ceovnrwnep:::txtsize --> STcksaarminr:::txtsize
-Ceovnrwnep:::txtsize --> TJPaairtaarii:::txtsize
+Abbsciilto:::txtsize --> PeduLoivap:::txtsize
+PeduLoivap:::txtsize --> Prsa:::txtsize
+Prsa:::txtsize --> Prsdafoaaos:::txtsize
+Prsa:::txtsize --> PrsrVaeessl:::txtsize
+PeduLoivap:::txtsize --> Peiiiikbospaof:::txtsize
+Peiiiikbospaof:::txtsize --> UdPscooimat:::txtsize
+Peiiiikbospaof:::txtsize --> PemeVakicarm:::txtsize
+Abbsciilto:::txtsize --> PeduLoivap:::txtsize
+PeduLoivap:::txtsize --> Prsa:::txtsize
+Prsa:::txtsize --> Prsdafoaaos:::txtsize
+Prsa:::txtsize --> PrsrVaeessl:::txtsize
+PeduLoivap:::txtsize --> Peiiiikbospaof:::txtsize
+Peiiiikbospaof:::txtsize --> UdPscooimat:::txtsize
+Peiiiikbospaof:::txtsize --> PemeVakicarm:::txtsize
 
-OmlyooenU@{ shape: win-pane, label: "_Published Nov 25, 2025, 10:50 AM_
-One woman killed by someone close every 10 minutes: un" }
-SouwwswntM@{ shape: win-pane, label: "_Published Oct 01, 2025, 11:50 AM_
-'shut your mouth': low-paid women still waiting for their #metoo" }
-FhfteTqacyr@{ shape: win-pane, label: "_Published Mar 19, 2025, 01:00 PM_
-French male film stars tell #metoo inquiry about ‘clumsy’ remarks" }
-Fhdtgououanra@{ shape: win-pane, label: "_Published Feb 03, 2025, 09:40 PM_
-French film director ruggia found guilty of sexually abusing actress haenel" }
-SluiFhrraueuM@{ shape: win-pane, label: "_Published Oct 28, 2024, 10:30 PM_
-Sexual assault trial of french actor gerard depardieu suspended until march" }
-Jcflewos@{ shape: win-pane, label: "_Published Feb 09, 2025, 06:00 PM_
-Japan could finally face its own #metoo crisis" }
-JtdepeaNreeusuli@{ shape: win-pane, label: "_Published Jan 23, 2025, 03:15 PM_
-J-pop star and former smap leader masahiro nakai retires after sexual misconduct allegations" }
-Letrtoekia@{ shape: win-pane, label: "_Published Oct 31, 2025, 07:55 PM_
-‘look delicate’ marriage tips for women backfire in japan" }
-Jepieoo@{ shape: win-pane, label: "_Published Aug 07, 2025, 05:12 PM_
-Japanese population sees record drop in 2024" }
-Jerraptiaeer@{ shape: win-pane, label: "_Published Jul 16, 2025, 03:40 PM_
-‘japanese first’ party shakes up election with alarm over foreigners" }
-Wsssenn@{ shape: win-pane, label: "_Published Jan 04, 2025, 05:51 PM_
-World’s oldest person dies at 116 in japan" }
-Jnmhirssftohmbr@{ shape: win-pane, label: "_Published Mar 03, 2024, 08:55 PM_
-Japan needs more than childcare subsidies to defuse its demographic time bomb: experts" }
+Iulcmnea@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:35 PM_
+Iran publicly executes man convicted of rape" }
+Jdrmsrltvtl@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:05 PM_
+Japan death row inmate’s sister still fighting, even after release" }
+Jetikruep@{ shape: win-pane, label: "_Published Jun 27, 2025, 09:45 AM_
+Japan executes ‘twitter killer’ who murdered 9 people" }
+Jetikruep@{ shape: win-pane, label: "_Published Jun 27, 2025, 09:45 AM_
+Japan executes ‘twitter killer’ who murdered 9 people" }
+Troaaplrdtrua@{ shape: win-pane, label: "_Published Sep 26, 2023, 06:00 PM_
+True crimes of asia podcast: japan - killer prowled twitter for the suicidal" }
+Jasdgeghnrdeni@{ shape: win-pane, label: "_Published Mar 25, 2025, 02:20 PM_
+Japan awards world’s longest-serving death row inmate record $1.87m after exoneration" }
+Lsveosatnni@{ shape: win-pane, label: "_Published Sep 26, 2024, 01:35 PM_
+Longest-serving death row prisoner acquitted in japan retrial" }
+Jpcbnofrhn@{ shape: win-pane, label: "_Published Nov 27, 2024, 05:11 PM_
+Japan prosecutor bows in apology to former death row inmate" }
+Ixeotrsfr@{ shape: win-pane, label: "_Published Sep 29, 2025, 01:08 PM_
+Iran executes ‘one of most important spies’ for israel" }
+Ixeaeagrournta@{ shape: win-pane, label: "_Published Aug 06, 2025, 03:10 PM_
+Iran executes man accused of passing information on nuclear scientist to israel" }
+Iahocoifgod@{ shape: win-pane, label: "_Published Jun 25, 2025, 10:14 PM_
+Iran hangs three more accused of spying as fears grow for swede" }
+Ilgdpddsrswnssc@{ shape: win-pane, label: "_Published Aug 03, 2025, 07:21 PM_
+Israel says ground troops conducted raids in syria to seize weapons, question suspects" }
+IagrdutnIlsyc@{ shape: win-pane, label: "_Published Aug 30, 2025, 04:38 PM_
+Iran says eight arrested for suspected links to israel’s mossad spy agency" }
+Ilamliiaiitacpaou@{ shape: win-pane, label: "_Published Jun 14, 2025, 07:54 AM_
+Israel exchanges missile strikes with iran as bid to wipe out tehran’s nuclear programme continues" }
+Tsrseeworre@{ shape: win-pane, label: "_Published Jun 22, 2025, 08:14 AM_
+Trump says iran must make peace or ‘we will go after’ other targets" }
 
-OmlyooenU:::txtsize --> SouwwswntM:::txtsize
-SouwwswntM:::txtsize --> FhfteTqacyr:::txtsize
-FhfteTqacyr:::txtsize --> Fhdtgououanra:::txtsize
-FhfteTqacyr:::txtsize --> SluiFhrraueuM:::txtsize
-SouwwswntM:::txtsize --> Jcflewos:::txtsize
-Jcflewos:::txtsize --> JtdepeaNreeusuli:::txtsize
-OmlyooenU:::txtsize --> Letrtoekia:::txtsize
-Letrtoekia:::txtsize --> Jepieoo:::txtsize
-Jepieoo:::txtsize --> Jerraptiaeer:::txtsize
-Jepieoo:::txtsize --> Wsssenn:::txtsize
-Letrtoekia:::txtsize --> Jnmhirssftohmbr:::txtsize
+Iulcmnea:::txtsize --> Jdrmsrltvtl:::txtsize
+Jdrmsrltvtl:::txtsize --> Jetikruep:::txtsize
+Jetikruep:::txtsize --> Jetikruep:::txtsize
+Jetikruep:::txtsize --> Troaaplrdtrua:::txtsize
+Jdrmsrltvtl:::txtsize --> Jasdgeghnrdeni:::txtsize
+Jasdgeghnrdeni:::txtsize --> Lsveosatnni:::txtsize
+Jasdgeghnrdeni:::txtsize --> Jpcbnofrhn:::txtsize
+Iulcmnea:::txtsize --> Ixeotrsfr:::txtsize
+Ixeotrsfr:::txtsize --> Ixeaeagrournta:::txtsize
+Ixeaeagrournta:::txtsize --> Iahocoifgod:::txtsize
+Ixeaeagrournta:::txtsize --> Ilgdpddsrswnssc:::txtsize
+Ixeotrsfr:::txtsize --> IagrdutnIlsyc:::txtsize
+IagrdutnIlsyc:::txtsize --> Ilamliiaiitacpaou:::txtsize
+IagrdutnIlsyc:::txtsize --> Tsrseeworre:::txtsize
 
-Trtimesmtnn@{ shape: win-pane, label: "_Published Nov 25, 2025, 10:15 AM_
-Trump redistricting gamble teeters as democrats gain ground" }
-TastmmprTsrr@{ shape: win-pane, label: "_Published Aug 23, 2025, 03:00 PM_
-Texas adopts electoral map aimed at preserving trump’s congress grip" }
-TRlsoucosattami@{ shape: win-pane, label: "_Published Aug 21, 2025, 02:11 AM_
-Texas republicans approve trump-backed congressional map to protect party’s majority" }
-WHlhkctTsgoi@{ shape: win-pane, label: "_Published Aug 20, 2025, 06:19 AM_
-White house launches tiktok account with trump saying ‘i am your voice’" }
-Tboabiisuo@{ shape: win-pane, label: "_Published Aug 21, 2025, 01:19 AM_
-Trump buys more than $128m in bonds in office, disclosure shows" }
-Ttnatth@{ shape: win-pane, label: "_Published Aug 18, 2025, 05:00 AM_
-Trump, tech and texas: what’s next for the us?" }
-Tlmoaclnsttlttos@{ shape: win-pane, label: "_Published Aug 06, 2025, 08:30 AM_
-Trump-led gambit to redraw electoral map in texas ignites national race to control congress" }
-Tlmoaclnsttlttos@{ shape: win-pane, label: "_Published Aug 06, 2025, 08:30 AM_
-Trump-led gambit to redraw electoral map in texas ignites national race to control congress" }
-Ffiriilwlrp@{ shape: win-pane, label: "_Published Oct 30, 2025, 04:15 PM_
-‘fight fire with fire’: california mulls skewing electoral map" }
-TastmmprTsrr@{ shape: win-pane, label: "_Published Aug 23, 2025, 03:00 PM_
-Texas adopts electoral map aimed at preserving trump’s congress grip" }
-TRlsoucosattami@{ shape: win-pane, label: "_Published Aug 21, 2025, 02:11 AM_
-Texas republicans approve trump-backed congressional map to protect party’s majority" }
-Ttnatth@{ shape: win-pane, label: "_Published Aug 18, 2025, 05:00 AM_
-Trump, tech and texas: what’s next for the us?" }
-Seesehceloatiy@{ shape: win-pane, label: "_Published Dec 05, 2024, 12:08 PM_
-Speaker mike johnson’s newest headache: the smallest house majority in history" }
-CoDriahteted@{ shape: win-pane, label: "_Published Dec 04, 2024, 02:40 PM_
-California democrat flips seat in the last house race to be decided" }
-FrpnttsnuCe@{ shape: win-pane, label: "_Published Nov 23, 2024, 02:53 AM_
-Former trump nominee matt gaetz says he won’t return to congress" }
+AglnctorrsB@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:23 PM_
+Ageing populations a ‘ticking time bomb’ for gdp growth, says ebrd" }
+Aeoiaege@{ shape: win-pane, label: "_Published Nov 22, 2025, 05:00 AM_
+A golden opportunity in a silver singapore" }
+IasatenuShuganti@{ shape: win-pane, label: "_Published Apr 20, 2023, 03:21 PM_
+Initiatives in place to tackle ageing issues as s’pore hits ‘super-aged’ status in 2026: health minister" }
+Antpraavlearg@{ shape: win-pane, label: "_Published Jan 30, 2023, 12:00 PM_
+Action plan to help older singaporeans live well as they age and work longer" }
+Hnrancefeot@{ shape: win-pane, label: "_Published Jan 19, 2023, 10:46 AM_
+How singapore is tackling the challenge of an ageing population" }
 
-Trtimesmtnn:::txtsize --> TastmmprTsrr:::txtsize
-TastmmprTsrr:::txtsize --> TRlsoucosattami:::txtsize
-TRlsoucosattami:::txtsize --> WHlhkctTsgoi:::txtsize
-TRlsoucosattami:::txtsize --> Tboabiisuo:::txtsize
-TastmmprTsrr:::txtsize --> Ttnatth:::txtsize
-Ttnatth:::txtsize --> Tlmoaclnsttlttos:::txtsize
-Ttnatth:::txtsize --> Tlmoaclnsttlttos:::txtsize
-Trtimesmtnn:::txtsize --> Ffiriilwlrp:::txtsize
-Ffiriilwlrp:::txtsize --> TastmmprTsrr:::txtsize
-TastmmprTsrr:::txtsize --> TRlsoucosattami:::txtsize
-TastmmprTsrr:::txtsize --> Ttnatth:::txtsize
-Ffiriilwlrp:::txtsize --> Seesehceloatiy:::txtsize
-Seesehceloatiy:::txtsize --> CoDriahteted:::txtsize
-Seesehceloatiy:::txtsize --> FrpnttsnuCe:::txtsize
+AglnctorrsB:::txtsize --> Aeoiaege:::txtsize
+Aeoiaege:::txtsize --> IasatenuShuganti:::txtsize
+IasatenuShuganti:::txtsize --> Antpraavlearg:::txtsize
+IasatenuShuganti:::txtsize --> Hnrancefeot:::txtsize
 
 ```
-<i>Last updated: 2025-11-25 12:00:50.340557 (GMT+8)</i>
+<i>Last updated: 2025-11-25 16:01:14.811936 (GMT+8)</i>
 <!-- END -->
