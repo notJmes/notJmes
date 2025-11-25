@@ -16,114 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Abbsciilto@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:55 PM_
-At tomb of lebanon’s miracle saint, faithful await the pope" }
-PeduLoivap@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:00 PM_
-Pope leo heads to turkey, lebanon in first overseas trip" }
-Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
-Pope francis dies at age 88" }
-Prsdafoaaos@{ shape: win-pane, label: "_Published Mar 23, 2025, 01:28 AM_
-Pope francis to be discharged from hospital on march 23, doctor says" }
-PrsrVaeessl@{ shape: win-pane, label: "_Published Mar 23, 2025, 07:19 PM_
-Pope francis returns to vatican after five weeks in hospital" }
-Peiiiikbospaof@{ shape: win-pane, label: "_Published Oct 27, 2025, 08:50 PM_
-Pope leo to visit eight cities in turkey, lebanon on first trip abroad as pontiff" }
-UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
-Us cardinal prevost elected pope leo xiv, first american pontiff" }
-PemeVakicarm@{ shape: win-pane, label: "_Published Oct 06, 2025, 08:06 PM_
-Pope leo trims powers of vatican bank, rolling back a francis reform" }
-PeduLoivap@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:00 PM_
-Pope leo heads to turkey, lebanon in first overseas trip" }
-Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
-Pope francis dies at age 88" }
-Prsdafoaaos@{ shape: win-pane, label: "_Published Mar 23, 2025, 01:28 AM_
-Pope francis to be discharged from hospital on march 23, doctor says" }
-PrsrVaeessl@{ shape: win-pane, label: "_Published Mar 23, 2025, 07:19 PM_
-Pope francis returns to vatican after five weeks in hospital" }
-Peiiiikbospaof@{ shape: win-pane, label: "_Published Oct 27, 2025, 08:50 PM_
-Pope leo to visit eight cities in turkey, lebanon on first trip abroad as pontiff" }
-UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
-Us cardinal prevost elected pope leo xiv, first american pontiff" }
-PemeVakicarm@{ shape: win-pane, label: "_Published Oct 06, 2025, 08:06 PM_
-Pope leo trims powers of vatican bank, rolling back a francis reform" }
+Bzlktaaapldhl@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:58 PM_
+Big buzz, small market: meta’s smartglasses are a specialty gadget this holiday" }
+Maersiidacfptg@{ shape: win-pane, label: "_Published Sep 18, 2025, 08:36 AM_
+Meta launches smart glasses with built-in display, reaching for ‘superintelligence’" }
+Zraneptggmi@{ shape: win-pane, label: "_Published Jul 01, 2025, 04:51 AM_
+Zuckerberg announces meta ‘superintelligence’ group, more hires" }
+MaanmnekC@{ shape: win-pane, label: "_Published Jun 13, 2025, 12:40 PM_
+Meta makes major investment in scale ai, takes in ceo" }
+MrohAfhuaOl@{ shape: win-pane, label: "_Published Jun 18, 2025, 08:04 AM_
+Meta tried to poach openai staff with $128m bonuses, says ceo sam altman" }
+ModeAiPugpcoin@{ shape: win-pane, label: "_Published Jul 10, 2025, 08:58 AM_
+Meta poached apple’s top ai engineer pang ruoming with pay package over $256 million" }
+Altetosne@{ shape: win-pane, label: "_Published Jul 08, 2025, 07:25 AM_
+Apple loses top ai executive to meta’s hiring spree" }
+Altetosne@{ shape: win-pane, label: "_Published Jul 08, 2025, 07:25 AM_
+Apple loses top ai executive to meta’s hiring spree" }
 
-Abbsciilto:::txtsize --> PeduLoivap:::txtsize
-PeduLoivap:::txtsize --> Prsa:::txtsize
-Prsa:::txtsize --> Prsdafoaaos:::txtsize
-Prsa:::txtsize --> PrsrVaeessl:::txtsize
-PeduLoivap:::txtsize --> Peiiiikbospaof:::txtsize
-Peiiiikbospaof:::txtsize --> UdPscooimat:::txtsize
-Peiiiikbospaof:::txtsize --> PemeVakicarm:::txtsize
-Abbsciilto:::txtsize --> PeduLoivap:::txtsize
-PeduLoivap:::txtsize --> Prsa:::txtsize
-Prsa:::txtsize --> Prsdafoaaos:::txtsize
-Prsa:::txtsize --> PrsrVaeessl:::txtsize
-PeduLoivap:::txtsize --> Peiiiikbospaof:::txtsize
-Peiiiikbospaof:::txtsize --> UdPscooimat:::txtsize
-Peiiiikbospaof:::txtsize --> PemeVakicarm:::txtsize
+Bzlktaaapldhl:::txtsize --> Maersiidacfptg:::txtsize
+Maersiidacfptg:::txtsize --> Zraneptggmi:::txtsize
+Zraneptggmi:::txtsize --> MaanmnekC:::txtsize
+Zraneptggmi:::txtsize --> MrohAfhuaOl:::txtsize
+Maersiidacfptg:::txtsize --> ModeAiPugpcoin:::txtsize
+ModeAiPugpcoin:::txtsize --> Altetosne:::txtsize
+ModeAiPugpcoin:::txtsize --> Altetosne:::txtsize
 
-Iulcmnea@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:35 PM_
-Iran publicly executes man convicted of rape" }
-Jdrmsrltvtl@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:05 PM_
-Japan death row inmate’s sister still fighting, even after release" }
-Jetikruep@{ shape: win-pane, label: "_Published Jun 27, 2025, 09:45 AM_
-Japan executes ‘twitter killer’ who murdered 9 people" }
-Jetikruep@{ shape: win-pane, label: "_Published Jun 27, 2025, 09:45 AM_
-Japan executes ‘twitter killer’ who murdered 9 people" }
-Troaaplrdtrua@{ shape: win-pane, label: "_Published Sep 26, 2023, 06:00 PM_
-True crimes of asia podcast: japan - killer prowled twitter for the suicidal" }
-Jasdgeghnrdeni@{ shape: win-pane, label: "_Published Mar 25, 2025, 02:20 PM_
-Japan awards world’s longest-serving death row inmate record $1.87m after exoneration" }
-Lsveosatnni@{ shape: win-pane, label: "_Published Sep 26, 2024, 01:35 PM_
-Longest-serving death row prisoner acquitted in japan retrial" }
-Jpcbnofrhn@{ shape: win-pane, label: "_Published Nov 27, 2024, 05:11 PM_
-Japan prosecutor bows in apology to former death row inmate" }
-Ixeotrsfr@{ shape: win-pane, label: "_Published Sep 29, 2025, 01:08 PM_
-Iran executes ‘one of most important spies’ for israel" }
-Ixeaeagrournta@{ shape: win-pane, label: "_Published Aug 06, 2025, 03:10 PM_
-Iran executes man accused of passing information on nuclear scientist to israel" }
-Iahocoifgod@{ shape: win-pane, label: "_Published Jun 25, 2025, 10:14 PM_
-Iran hangs three more accused of spying as fears grow for swede" }
-Ilgdpddsrswnssc@{ shape: win-pane, label: "_Published Aug 03, 2025, 07:21 PM_
-Israel says ground troops conducted raids in syria to seize weapons, question suspects" }
-IagrdutnIlsyc@{ shape: win-pane, label: "_Published Aug 30, 2025, 04:38 PM_
-Iran says eight arrested for suspected links to israel’s mossad spy agency" }
-Ilamliiaiitacpaou@{ shape: win-pane, label: "_Published Jun 14, 2025, 07:54 AM_
-Israel exchanges missile strikes with iran as bid to wipe out tehran’s nuclear programme continues" }
-Tsrseeworre@{ shape: win-pane, label: "_Published Jun 22, 2025, 08:14 AM_
-Trump says iran must make peace or ‘we will go after’ other targets" }
+Ptnrsiltwtt@{ shape: win-pane, label: "_Published Nov 25, 2025, 06:37 PM_
+Palestinians fear new israeli settlement will wreck their town" }
+Bietseternel@{ shape: win-pane, label: "_Published Sep 23, 2025, 05:52 AM_
+Bedouin face eviction as israeli settlement spreads near jerusalem" }
+Ilaiensepoifsat@{ shape: win-pane, label: "_Published Aug 14, 2025, 04:03 PM_
+Israel’s finance minister launches settlement plan to ‘bury’ idea of palestinian state" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+Iltaauttatkas@{ shape: win-pane, label: "_Published Aug 12, 2025, 08:55 AM_
+Israeli critics say netanyahu plan to capture gaza city lacks clear aims" }
+BiasiPgcseiaroni@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:34 PM_
+Britain, canada, australia and portugal recognise palestinian state; israel condemns decision" }
+Ferymylniaar@{ shape: win-pane, label: "_Published Sep 22, 2025, 01:32 AM_
+France’s macron says no embassy in palestine until gaza hostages freed" }
+Csaeisateito@{ shape: win-pane, label: "_Published Sep 22, 2025, 01:22 AM_
+Cheers, hugs at palestinian mission as britain recognises statehood" }
+HRshsrfrites@{ shape: win-pane, label: "_Published Nov 20, 2025, 01:08 PM_
+Human rights watch accuses israel of war crimes in west bank expulsions" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Useteaattl@{ shape: win-pane, label: "_Published Aug 15, 2025, 06:29 PM_
+Un says israeli settlement plan breaks international law" }
+Ilcestzyysm@{ shape: win-pane, label: "_Published Aug 14, 2025, 05:23 PM_
+Israeli forces step up assault on gaza city as egypt hosts hamas" }
+Hlaenhoitsno@{ shape: win-pane, label: "_Published Aug 15, 2025, 04:51 PM_
+Hezbollah warns lebanon ‘will have no life’ if govt moves against group" }
 
-Iulcmnea:::txtsize --> Jdrmsrltvtl:::txtsize
-Jdrmsrltvtl:::txtsize --> Jetikruep:::txtsize
-Jetikruep:::txtsize --> Jetikruep:::txtsize
-Jetikruep:::txtsize --> Troaaplrdtrua:::txtsize
-Jdrmsrltvtl:::txtsize --> Jasdgeghnrdeni:::txtsize
-Jasdgeghnrdeni:::txtsize --> Lsveosatnni:::txtsize
-Jasdgeghnrdeni:::txtsize --> Jpcbnofrhn:::txtsize
-Iulcmnea:::txtsize --> Ixeotrsfr:::txtsize
-Ixeotrsfr:::txtsize --> Ixeaeagrournta:::txtsize
-Ixeaeagrournta:::txtsize --> Iahocoifgod:::txtsize
-Ixeaeagrournta:::txtsize --> Ilgdpddsrswnssc:::txtsize
-Ixeotrsfr:::txtsize --> IagrdutnIlsyc:::txtsize
-IagrdutnIlsyc:::txtsize --> Ilamliiaiitacpaou:::txtsize
-IagrdutnIlsyc:::txtsize --> Tsrseeworre:::txtsize
+Ptnrsiltwtt:::txtsize --> Bietseternel:::txtsize
+Bietseternel:::txtsize --> Ilaiensepoifsat:::txtsize
+Ilaiensepoifsat:::txtsize --> Sbsrcdnacaale:::txtsize
+Ilaiensepoifsat:::txtsize --> Iltaauttatkas:::txtsize
+Bietseternel:::txtsize --> BiasiPgcseiaroni:::txtsize
+BiasiPgcseiaroni:::txtsize --> Ferymylniaar:::txtsize
+BiasiPgcseiaroni:::txtsize --> Csaeisateito:::txtsize
+Ptnrsiltwtt:::txtsize --> HRshsrfrites:::txtsize
+HRshsrfrites:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+HRshsrfrites:::txtsize --> Useteaattl:::txtsize
+Useteaattl:::txtsize --> Ilcestzyysm:::txtsize
+Useteaattl:::txtsize --> Hlaenhoitsno:::txtsize
 
-AglnctorrsB@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:23 PM_
-Ageing populations a ‘ticking time bomb’ for gdp growth, says ebrd" }
-Aeoiaege@{ shape: win-pane, label: "_Published Nov 22, 2025, 05:00 AM_
-A golden opportunity in a silver singapore" }
-IasatenuShuganti@{ shape: win-pane, label: "_Published Apr 20, 2023, 03:21 PM_
-Initiatives in place to tackle ageing issues as s’pore hits ‘super-aged’ status in 2026: health minister" }
-Antpraavlearg@{ shape: win-pane, label: "_Published Jan 30, 2023, 12:00 PM_
-Action plan to help older singaporeans live well as they age and work longer" }
-Hnrancefeot@{ shape: win-pane, label: "_Published Jan 19, 2023, 10:46 AM_
-How singapore is tackling the challenge of an ageing population" }
+Erssreleihhl@{ shape: win-pane, label: "_Published Nov 25, 2025, 06:33 PM_
+Eu court says same-sex marriage should be recognised throughout bloc" }
+Ngrostrun@{ shape: win-pane, label: "_Published Dec 07, 2024, 04:52 PM_
+‘no longer afraid’: poland’s first queer museum opens" }
+WsriGolifrln@{ shape: win-pane, label: "_Published Jun 01, 2024, 12:47 PM_
+‘we exist’: s. korea’s first lgbtq councillor fights for more inclusion" }
+Ssfvobinetcagey@{ shape: win-pane, label: "_Published May 04, 2023, 03:10 PM_
+Seoul's lgbt festival blocked by christian concert outside city hall, organisers say" }
+SPpeaidrgLrr@{ shape: win-pane, label: "_Published Jul 01, 2023, 09:46 AM_
+Seoul pride parade goes ahead in shadow of rising anti-lgbtq rhetoric" }
+PrtQirshChodfne@{ shape: win-pane, label: "_Published Oct 13, 2024, 02:16 AM_
+Pope urged at lgbtq meeting to reverse catholic church’s ban on gender-affirming care" }
+Prsosrpcseoeu@{ shape: win-pane, label: "_Published May 28, 2024, 09:42 PM_
+Pope francis apologises after homophobic slur, says he did not intend to use it" }
+Vaoratfslods@{ shape: win-pane, label: "_Published Apr 08, 2024, 08:29 PM_
+Vatican opposes criminalisation of homosexuality, top cardinal says" }
+ChrpioQufscnn@{ shape: win-pane, label: "_Published Oct 16, 2025, 10:35 PM_
+Church of norway apologises to lgbtq+ community for past discrimination" }
+CybesaLccdbpi@{ shape: win-pane, label: "_Published Jul 31, 2025, 06:18 PM_
+Cherry vann becomes first woman and lgbtq+ cleric named archbishop in britain" }
+BpsiuchoarLeiar@{ shape: win-pane, label: "_Published Jan 22, 2025, 07:17 AM_
+Bishop asks scowling trump in church sermon to have mercy on lgbt people, illegal migrants" }
+Aiotrllkaeegns@{ shape: win-pane, label: "_Published Jul 11, 2025, 03:13 PM_
+Archbishop of canterbury could scale back global role to avert anglican schism" }
 
-AglnctorrsB:::txtsize --> Aeoiaege:::txtsize
-Aeoiaege:::txtsize --> IasatenuShuganti:::txtsize
-IasatenuShuganti:::txtsize --> Antpraavlearg:::txtsize
-IasatenuShuganti:::txtsize --> Hnrancefeot:::txtsize
+Erssreleihhl:::txtsize --> Ngrostrun:::txtsize
+Ngrostrun:::txtsize --> WsriGolifrln:::txtsize
+WsriGolifrln:::txtsize --> Ssfvobinetcagey:::txtsize
+WsriGolifrln:::txtsize --> SPpeaidrgLrr:::txtsize
+Ngrostrun:::txtsize --> PrtQirshChodfne:::txtsize
+PrtQirshChodfne:::txtsize --> Prsosrpcseoeu:::txtsize
+PrtQirshChodfne:::txtsize --> Vaoratfslods:::txtsize
+Erssreleihhl:::txtsize --> ChrpioQufscnn:::txtsize
+ChrpioQufscnn:::txtsize --> CybesaLccdbpi:::txtsize
+CybesaLccdbpi:::txtsize --> BpsiuchoarLeiar:::txtsize
+CybesaLccdbpi:::txtsize --> Aiotrllkaeegns:::txtsize
 
 ```
-<i>Last updated: 2025-11-25 16:01:14.811936 (GMT+8)</i>
+<i>Last updated: 2025-11-25 20:00:41.846164 (GMT+8)</i>
 <!-- END -->
