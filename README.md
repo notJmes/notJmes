@@ -16,117 +16,141 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
-Us peace plan for ukraine drew from russian document, sources say" }
-Tsodirisohe@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:30 AM_
-Trump says no firm deadline for ukraine, russia to reach peace deal" }
-Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
-Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
-Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
-Us hails progress in ukraine peace talks but security questions unresolved" }
-URaptiDaspK@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:03 PM_
-Us and russia hold peace talks in abu dhabi as missiles pound kyiv" }
-UnlyorpfStd@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:08 AM_
-Ukraine’s zelensky welcomes ‘principles’ of new us draft to end war" }
-Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
-Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
-Feryaoilnoeewke@{ shape: win-pane, label: "_Published Nov 26, 2025, 03:17 AM_
-France’s macron says ‘clearly no russian willingness to agree ceasefire’ with ukraine" }
-UnlyorpfStd@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:08 AM_
-Ukraine’s zelensky welcomes ‘principles’ of new us draft to end war" }
-Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
-Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
-Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
-Us hails progress in ukraine peace talks but security questions unresolved" }
-URaptiDaspK@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:03 PM_
-Us and russia hold peace talks in abu dhabi as missiles pound kyiv" }
-Feryaoilnoeewke@{ shape: win-pane, label: "_Published Nov 26, 2025, 03:17 AM_
-France’s macron says ‘clearly no russian willingness to agree ceasefire’ with ukraine" }
-Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
-Us hails progress in ukraine peace talks but security questions unresolved" }
+PcHnethsninsee@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:55 PM_
+Paris court: hearing on request for shein’s suspension in france postponed to dec 5" }
+FessSoelwnairn@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:32 AM_
+France moves to suspend shein over sex dolls and weapons on day paris store opens" }
+CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
+China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
+SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
+Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
+Shtfbsrol@{ shape: win-pane, label: "_Published Oct 10, 2025, 08:00 AM_
+Shein, hit with big fines, boosts internal controls" }
+Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
+Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
+FeaSbclelp@{ shape: win-pane, label: "_Published Nov 03, 2025, 08:50 PM_
+France threatens shein ban if ‘childlike’ sex dolls reappear" }
+CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
+China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
+Festemaeeasrt@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:14 PM_
+France investigates shein, some rivals over underage access to porn content" }
+Ssonarrtngus@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:01 PM_
+Shein store opening in paris draws protesters and bargain hunters" }
+Fhtplettirnne@{ shape: win-pane, label: "_Published Jun 11, 2025, 12:54 AM_
+French senate adopts bill to regulate fast fashion, targeting china’s shein" }
+Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
+Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
+Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
+Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
+FeaSbclelp@{ shape: win-pane, label: "_Published Nov 03, 2025, 08:50 PM_
+France threatens shein ban if ‘childlike’ sex dolls reappear" }
+CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
+China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
 
-Ucnkefunmos:::txtsize --> Tsodirisohe:::txtsize
-Tsodirisohe:::txtsize --> Zsyaeonaalusdthp:::txtsize
-Zsyaeonaalusdthp:::txtsize --> Ulgiaeauuqinl:::txtsize
-Zsyaeonaalusdthp:::txtsize --> URaptiDaspK:::txtsize
-Tsodirisohe:::txtsize --> UnlyorpfStd:::txtsize
-UnlyorpfStd:::txtsize --> Zsyaeonaalusdthp:::txtsize
-UnlyorpfStd:::txtsize --> Feryaoilnoeewke:::txtsize
-Ucnkefunmos:::txtsize --> UnlyorpfStd:::txtsize
-UnlyorpfStd:::txtsize --> Zsyaeonaalusdthp:::txtsize
-Zsyaeonaalusdthp:::txtsize --> Ulgiaeauuqinl:::txtsize
-Zsyaeonaalusdthp:::txtsize --> URaptiDaspK:::txtsize
-UnlyorpfStd:::txtsize --> Feryaoilnoeewke:::txtsize
-Feryaoilnoeewke:::txtsize --> Ulgiaeauuqinl:::txtsize
+PcHnethsninsee:::txtsize --> FessSoelwnairn:::txtsize
+FessSoelwnairn:::txtsize --> CsnsdsloeoFhhoi:::txtsize
+CsnsdsloeoFhhoi:::txtsize --> SthirylerNsba:::txtsize
+CsnsdsloeoFhhoi:::txtsize --> Shtfbsrol:::txtsize
+FessSoelwnairn:::txtsize --> Sbelerncrdo:::txtsize
+Sbelerncrdo:::txtsize --> FeaSbclelp:::txtsize
+Sbelerncrdo:::txtsize --> CsnsdsloeoFhhoi:::txtsize
+PcHnethsninsee:::txtsize --> Festemaeeasrt:::txtsize
+Festemaeeasrt:::txtsize --> Ssonarrtngus:::txtsize
+Ssonarrtngus:::txtsize --> Fhtplettirnne:::txtsize
+Ssonarrtngus:::txtsize --> Sbelerncrdo:::txtsize
+Festemaeeasrt:::txtsize --> Sbelerncrdo:::txtsize
+Sbelerncrdo:::txtsize --> FeaSbclelp:::txtsize
+Sbelerncrdo:::txtsize --> CsnsdsloeoFhhoi:::txtsize
 
-Posoiassdulopo@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:10 PM_
-Psycho meets mrs doubtfire: italian son poses as dead mum to claim $80k of her pension" }
-Ltfassrceai@{ shape: win-pane, label: "_Published Jul 08, 2025, 02:50 PM_
-Lurid tale of china’s cross-dressing ‘red uncle’ goes viral online" }
-Sersevorffi@{ shape: win-pane, label: "_Published Dec 08, 2024, 04:16 PM_
-She sued over transgender ‘conversion therapy’, a first for china" }
-Ccdanlshegt@{ shape: win-pane, label: "_Published Sep 06, 2023, 01:59 PM_
-China considers law banning clothes that ‘hurt feelings’ of others" }
-Giceidrnrl@{ shape: win-pane, label: "_Published Jun 01, 2025, 02:30 PM_
-Gay chinese couple fulfil wedding dream in ‘freer’ thailand" }
-Tasarlgnrei@{ shape: win-pane, label: "_Published Jun 18, 2024, 04:00 PM_
-Thailand passes landmark bill recognising marriage equality" }
-Hedaeagcio@{ shape: win-pane, label: "_Published Jan 23, 2025, 01:20 PM_
-Hundreds wed as thai same-sex marriage law comes into force" }
-SprGeertrtnasc@{ shape: win-pane, label: "_Published Nov 25, 2025, 01:07 PM_
-Singapore orders google, apple to curb govt impersonation on messaging services" }
-PestsirdSthmsfoo@{ shape: win-pane, label: "_Published Sep 03, 2025, 09:48 AM_
-Police to issue meta first online harms order in s’pore to fight scams; possible fines of up to $1m" }
-Oeiacifehioors@{ shape: win-pane, label: "_Published Jan 30, 2024, 03:41 PM_
-Online criminal harms act to kick in from feb 1, with special provisions for scams" }
-Oeiacifehioors@{ shape: win-pane, label: "_Published Jan 30, 2024, 03:41 PM_
-Online criminal harms act to kick in from feb 1, with special provisions for scams" }
+Apbheolfesst@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:50 PM_
+Aliexpress bans chinese sex doll seller after reuters investigation" }
+Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
+Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
+FeaSbclelp@{ shape: win-pane, label: "_Published Nov 03, 2025, 08:50 PM_
+France threatens shein ban if ‘childlike’ sex dolls reappear" }
+CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
+China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
+SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
+Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
+CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
+China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
+SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
+Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
+Shtfbsrol@{ shape: win-pane, label: "_Published Oct 10, 2025, 08:00 AM_
+Shein, hit with big fines, boosts internal controls" }
+Fhdhesnhixs@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:32 AM_
+French fraud watchdog reports shein for ‘childlike’ sex dolls" }
+SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
+Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
+Seskmrirsich@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:53 PM_
+Shein enters bricks-and-mortar retail in france, sparking backlash" }
+Sfmin@{ shape: win-pane, label: "_Published Jul 10, 2025, 11:43 PM_
+Shein faces $200m fine in france" }
+SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
+Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
+Seskmrirsich@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:53 PM_
+Shein enters bricks-and-mortar retail in france, sparking backlash" }
+Sfmin@{ shape: win-pane, label: "_Published Jul 10, 2025, 11:43 PM_
+Shein faces $200m fine in france" }
 
-Posoiassdulopo:::txtsize --> Ltfassrceai:::txtsize
-Ltfassrceai:::txtsize --> Sersevorffi:::txtsize
-Sersevorffi:::txtsize --> Ccdanlshegt:::txtsize
-Ltfassrceai:::txtsize --> Giceidrnrl:::txtsize
-Giceidrnrl:::txtsize --> Tasarlgnrei:::txtsize
-Giceidrnrl:::txtsize --> Hedaeagcio:::txtsize
-Posoiassdulopo:::txtsize --> SprGeertrtnasc:::txtsize
-SprGeertrtnasc:::txtsize --> PestsirdSthmsfoo:::txtsize
-PestsirdSthmsfoo:::txtsize --> Oeiacifehioors:::txtsize
-PestsirdSthmsfoo:::txtsize --> Oeiacifehioors:::txtsize
+Apbheolfesst:::txtsize --> Sbelerncrdo:::txtsize
+Sbelerncrdo:::txtsize --> FeaSbclelp:::txtsize
+FeaSbclelp:::txtsize --> CsnsdsloeoFhhoi:::txtsize
+FeaSbclelp:::txtsize --> SthirylerNsba:::txtsize
+Sbelerncrdo:::txtsize --> CsnsdsloeoFhhoi:::txtsize
+CsnsdsloeoFhhoi:::txtsize --> SthirylerNsba:::txtsize
+CsnsdsloeoFhhoi:::txtsize --> Shtfbsrol:::txtsize
+Apbheolfesst:::txtsize --> Fhdhesnhixs:::txtsize
+Fhdhesnhixs:::txtsize --> SthirylerNsba:::txtsize
+SthirylerNsba:::txtsize --> Seskmrirsich:::txtsize
+SthirylerNsba:::txtsize --> Sfmin:::txtsize
+Fhdhesnhixs:::txtsize --> SthirylerNsba:::txtsize
+SthirylerNsba:::txtsize --> Seskmrirsich:::txtsize
+SthirylerNsba:::txtsize --> Sfmin:::txtsize
 
-Mnsisepnlaarapn@{ shape: win-pane, label: "_Published Nov 26, 2025, 01:45 PM_
-Miss universe 2025 fatima bosch speaks up against online hate, death threats after pageant win" }
-Mewaatrlrsnseinrw@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:22 PM_
-Miss mexico who staged walkout after insult by organiser wins miss universe title in surprise twist" }
-NIairMnssaetMede@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:59 PM_
-Nawat itsaragrisil sorry for miss universe fiasco, claims he didn’t call miss mexico ‘dumb head’" }
-MfedMnsgeeier@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:30 PM_
-My perfect weekend with miss universe singapore 2025 winner annika xue sager" }
-NIairMnssaetMede@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:59 PM_
-Nawat itsaragrisil sorry for miss universe fiasco, claims he didn’t call miss mexico ‘dumb head’" }
-MfedMnsgeeier@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:30 PM_
-My perfect weekend with miss universe singapore 2025 winner annika xue sager" }
-Mewaatrlrsnseinrw@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:22 PM_
-Miss mexico who staged walkout after insult by organiser wins miss universe title in surprise twist" }
-NIairMnssaetMede@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:59 PM_
-Nawat itsaragrisil sorry for miss universe fiasco, claims he didn’t call miss mexico ‘dumb head’" }
-MfedMnsgeeier@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:30 PM_
-My perfect weekend with miss universe singapore 2025 winner annika xue sager" }
-NIairMnssaetMede@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:59 PM_
-Nawat itsaragrisil sorry for miss universe fiasco, claims he didn’t call miss mexico ‘dumb head’" }
-MfedMnsgeeier@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:30 PM_
-My perfect weekend with miss universe singapore 2025 winner annika xue sager" }
+IleeeidoseMtHrrr@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:41 PM_
+Israel has returned 15 palestinian bodies to gaza, says health ministry in hamas-run territory" }
+Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
+Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
+Israel marks oct 7 anniversary as talks are held to end gaza war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Pgoihfcfge@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:53 AM_
+Pm wong welcomes first phase of gaza ceasefire agreement" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+SpeeamaeihfptGoc@{ shape: win-pane, label: "_Published Oct 09, 2025, 11:04 PM_
+Singapore welcomes israel-hamas deal to begin first phase of trump plan to end gaza conflict: mfa" }
+GrrswrHvnrs@{ shape: win-pane, label: "_Published Nov 24, 2025, 08:22 PM_
+Gaza truce progress slow as israeli-hamas violence persists" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
 
-Mnsisepnlaarapn:::txtsize --> Mewaatrlrsnseinrw:::txtsize
-Mewaatrlrsnseinrw:::txtsize --> NIairMnssaetMede:::txtsize
-NIairMnssaetMede:::txtsize --> MfedMnsgeeier:::txtsize
-Mewaatrlrsnseinrw:::txtsize --> NIairMnssaetMede:::txtsize
-NIairMnssaetMede:::txtsize --> MfedMnsgeeier:::txtsize
-Mnsisepnlaarapn:::txtsize --> Mewaatrlrsnseinrw:::txtsize
-Mewaatrlrsnseinrw:::txtsize --> NIairMnssaetMede:::txtsize
-NIairMnssaetMede:::txtsize --> MfedMnsgeeier:::txtsize
-Mewaatrlrsnseinrw:::txtsize --> NIairMnssaetMede:::txtsize
-NIairMnssaetMede:::txtsize --> MfedMnsgeeier:::txtsize
+IleeeidoseMtHrrr:::txtsize --> Iliaeseoewa:::txtsize
+Iliaeseoewa:::txtsize --> TssHaossaaorslaoe:::txtsize
+TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
+TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
+Iliaeseoewa:::txtsize --> Pgoihfcfge:::txtsize
+Pgoihfcfge:::txtsize --> TssHaossaaorslaoe:::txtsize
+Pgoihfcfge:::txtsize --> SpeeamaeihfptGoc:::txtsize
+IleeeidoseMtHrrr:::txtsize --> GrrswrHvnrs:::txtsize
+GrrswrHvnrs:::txtsize --> Tdrcaaededlncbs:::txtsize
+Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
+GrrswrHvnrs:::txtsize --> AtHfezerydatoGel:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
 
 ```
-<i>Last updated: 2025-11-26 16:00:50.971493 (GMT+8)</i>
+<i>Last updated: 2025-11-26 20:01:25.161238 (GMT+8)</i>
 <!-- END -->
