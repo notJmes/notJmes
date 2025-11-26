@@ -16,120 +16,108 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Viedoaeurius@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:25 AM_
-Visiting the grand canyon? us park fees to jump for foreign tourists" }
-Tsotsiperiss@{ shape: win-pane, label: "_Published Jul 04, 2025, 12:30 PM_
-Trump signs order to raise national park fees for foreign visitors" }
-FeceomtnntipaTc@{ shape: win-pane, label: "_Published Jun 08, 2025, 06:50 PM_
-From research to restrooms: summer staffing crunch hits national parks after trump cuts" }
-Gifakhinabe@{ shape: win-pane, label: "_Published Mar 09, 2025, 03:52 AM_
-‘grieving’: us federal workers thrown into uncertain job market" }
-Tptlaakstdae@{ shape: win-pane, label: "_Published Jun 02, 2025, 06:00 PM_
-Trump plans to offload national park sites, but states don’t want them" }
-Tptlaakstdae@{ shape: win-pane, label: "_Published Jun 02, 2025, 06:00 PM_
-Trump plans to offload national park sites, but states don’t want them" }
-Tseeednpgtuapn@{ shape: win-pane, label: "_Published May 05, 2025, 08:10 AM_
-Trump says he’s ordered rebuilding and reopening of notorious alcatraz prison" }
-UlcrJmrhotade@{ shape: win-pane, label: "_Published May 13, 2025, 12:00 PM_
-Us health secretary rfk jr swims in creek that flows with sewage and bacteria" }
-Tptlaakstdae@{ shape: win-pane, label: "_Published Jun 02, 2025, 06:00 PM_
-Trump plans to offload national park sites, but states don’t want them" }
-Tseeednpgtuapn@{ shape: win-pane, label: "_Published May 05, 2025, 08:10 AM_
-Trump says he’s ordered rebuilding and reopening of notorious alcatraz prison" }
-WHsbtfsDtlfmfscy@{ shape: win-pane, label: "_Published May 02, 2025, 09:43 AM_
-White house seeks budget cuts for justice department law enforcement offices, sources say" }
-Tttaatnaaw@{ shape: win-pane, label: "_Published Apr 29, 2025, 04:32 AM_
-Trump targets us 'sanctuary cities' in migrant crackdown" }
-UlcrJmrhotade@{ shape: win-pane, label: "_Published May 13, 2025, 12:00 PM_
-Us health secretary rfk jr swims in creek that flows with sewage and bacteria" }
-Ulinlhtrtgcnid@{ shape: win-pane, label: "_Published May 08, 2025, 01:30 AM_
-Us health chief kennedy launches autism project using medicare and medicaid data" }
-Rstivafsd@{ shape: win-pane, label: "_Published Apr 11, 2025, 07:39 AM_
-Rfk jr says study will reveal cause of autism ‘epidemic’" }
+Tsodirisohe@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:30 AM_
+Trump says no firm deadline for ukraine, russia to reach peace deal" }
+Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
+Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
+Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
+Us hails progress in ukraine peace talks but security questions unresolved" }
+ZsarsalUnzruikn@{ shape: win-pane, label: "_Published Nov 23, 2025, 11:53 PM_
+Zelensky thanks trump as us leader blasts ukraine for ‘zero gratitude’ amid talks to end war" }
+Tskeleanwub@{ shape: win-pane, label: "_Published Nov 22, 2025, 04:26 AM_
+Trump says ukraine should accept plan to end war with russia by nov 27" }
+URaptiDaspK@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:03 PM_
+Us and russia hold peace talks in abu dhabi as missiles pound kyiv" }
+Rarnksdpeue@{ shape: win-pane, label: "_Published Nov 25, 2025, 04:43 PM_
+Russian barrage on kyiv kills seven, disrupts energy supplies" }
+TPdtsUncamre@{ shape: win-pane, label: "_Published Aug 16, 2025, 03:43 AM_
+Trump-putin direct talks over ukraine conclude as summit stretches on" }
+UnlyorpfStd@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:08 AM_
+Ukraine’s zelensky welcomes ‘principles’ of new us draft to end war" }
+Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
+Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
+Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
+Us hails progress in ukraine peace talks but security questions unresolved" }
+URaptiDaspK@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:03 PM_
+Us and russia hold peace talks in abu dhabi as missiles pound kyiv" }
+Feryaoilnoeewke@{ shape: win-pane, label: "_Published Nov 26, 2025, 03:17 AM_
+France’s macron says ‘clearly no russian willingness to agree ceasefire’ with ukraine" }
+Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
+Us hails progress in ukraine peace talks but security questions unresolved" }
 
-Viedoaeurius:::txtsize --> Tsotsiperiss:::txtsize
-Tsotsiperiss:::txtsize --> FeceomtnntipaTc:::txtsize
-FeceomtnntipaTc:::txtsize --> Gifakhinabe:::txtsize
-FeceomtnntipaTc:::txtsize --> Tptlaakstdae:::txtsize
-Tsotsiperiss:::txtsize --> Tptlaakstdae:::txtsize
-Tptlaakstdae:::txtsize --> Tseeednpgtuapn:::txtsize
-Tptlaakstdae:::txtsize --> UlcrJmrhotade:::txtsize
-Viedoaeurius:::txtsize --> Tptlaakstdae:::txtsize
-Tptlaakstdae:::txtsize --> Tseeednpgtuapn:::txtsize
-Tseeednpgtuapn:::txtsize --> WHsbtfsDtlfmfscy:::txtsize
-Tseeednpgtuapn:::txtsize --> Tttaatnaaw:::txtsize
-Tptlaakstdae:::txtsize --> UlcrJmrhotade:::txtsize
-UlcrJmrhotade:::txtsize --> Ulinlhtrtgcnid:::txtsize
-UlcrJmrhotade:::txtsize --> Rstivafsd:::txtsize
+Tsodirisohe:::txtsize --> Zsyaeonaalusdthp:::txtsize
+Zsyaeonaalusdthp:::txtsize --> Ulgiaeauuqinl:::txtsize
+Ulgiaeauuqinl:::txtsize --> ZsarsalUnzruikn:::txtsize
+Ulgiaeauuqinl:::txtsize --> Tskeleanwub:::txtsize
+Zsyaeonaalusdthp:::txtsize --> URaptiDaspK:::txtsize
+URaptiDaspK:::txtsize --> Rarnksdpeue:::txtsize
+URaptiDaspK:::txtsize --> TPdtsUncamre:::txtsize
+Tsodirisohe:::txtsize --> UnlyorpfStd:::txtsize
+UnlyorpfStd:::txtsize --> Zsyaeonaalusdthp:::txtsize
+Zsyaeonaalusdthp:::txtsize --> Ulgiaeauuqinl:::txtsize
+Zsyaeonaalusdthp:::txtsize --> URaptiDaspK:::txtsize
+UnlyorpfStd:::txtsize --> Feryaoilnoeewke:::txtsize
+Feryaoilnoeewke:::txtsize --> Ulgiaeauuqinl:::txtsize
 
-Drsoemtucwnt@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:00 AM_
-Democratic senator urges trump not to resume nuclear weapons tests" }
-TsuCheltcwn@{ shape: win-pane, label: "_Published Nov 03, 2025, 11:35 AM_
-Trump says russia, china have secretly tested nuclear weapons" }
-Taeomareinap@{ shape: win-pane, label: "_Published Oct 30, 2025, 09:50 AM_
-Trump asks pentagon to immediately resume testing us nuclear weapons" }
-RasepPdprPs@{ shape: win-pane, label: "_Published Oct 29, 2025, 08:36 PM_
-Russia tests nuclear-capable poseidon super torpedo, putin says" }
-Tsuoolrnssai@{ shape: win-pane, label: "_Published Oct 06, 2025, 02:01 AM_
-Trump says putin’s offer on nuclear arms control ‘sounds like a good idea’" }
-Rasniurruie@{ shape: win-pane, label: "_Published Oct 26, 2025, 04:01 PM_
-Russia tests new ‘invincible’ nuclear-powered cruise missile" }
-UlRamaoerwttsparr@{ shape: win-pane, label: "_Published Oct 25, 2025, 06:05 PM_
-Us could hit russia with more sanctions to end ukraine war, but first wants europe to raise pressure" }
-Psonrsfltlasi@{ shape: win-pane, label: "_Published Oct 25, 2025, 12:40 AM_
-Putin’s economic envoy arrives in us for talks, after oil companies sanctioned" }
+OICPtmeeyi@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:00 AM_
+Openai says chatgpt not to blame in teen’s death by suicide" }
+OIsdhTrneUnc@{ shape: win-pane, label: "_Published Aug 27, 2025, 07:50 AM_
+Openai plans to update chatgpt after parents sue over us teen’s suicide" }
+HehTtiueliiir@{ shape: win-pane, label: "_Published May 10, 2025, 11:15 AM_
+Hear me out: chatgpt is not my friend, but it lends a late-night listening ear" }
+HtpiUpotaAtr@{ shape: win-pane, label: "_Published Feb 26, 2025, 04:15 PM_
+Human therapists in the us prepare for battle against ai pretenders" }
+Cbraes@{ shape: win-pane, label: "_Published Jul 28, 2025, 05:00 AM_
+Can ai be my friend and therapist?" }
+Mlthoxienfairnp@{ shape: win-pane, label: "_Published Jul 28, 2025, 05:00 AM_
+Mental health in the age of ai - exploring a new frontier for diagnosis, therapy and support" }
+VFhcnhfdIbtnwota@{ shape: win-pane, label: "_Published Jul 28, 2025, 05:00 AM_
+Views from the couch: think you have a friend? the ai chatbot is telling you what you want to hear" }
+OIirlrnGtlnei@{ shape: win-pane, label: "_Published Sep 29, 2025, 08:02 PM_
+Openai to bring parental controls in chatgpt after california teen’s suicide" }
+AaslaonwiU@{ shape: win-pane, label: "_Published Sep 25, 2025, 10:37 AM_
+Australia’s social media ban for teens draws praise at un" }
+AaitombYbaeo@{ shape: win-pane, label: "_Published Jul 30, 2025, 06:43 AM_
+Australia widens teen social media ban to youtube, scraps exemption" }
+Eekleinom@{ shape: win-pane, label: "_Published Sep 24, 2025, 10:06 PM_
+Eu chief backs calls to keep children off social media" }
+Coeirhweo@{ shape: win-pane, label: "_Published Sep 28, 2025, 01:15 PM_
+Chatbots are hurting our kids – here’s what we can do" }
+OIsdhTrneUnc@{ shape: win-pane, label: "_Published Aug 27, 2025, 07:50 AM_
+Openai plans to update chatgpt after parents sue over us teen’s suicide" }
+OIdnolhTrea@{ shape: win-pane, label: "_Published Sep 02, 2025, 11:06 PM_
+Openai to add parental controls to chatgpt after us teen’s death" }
 
-Drsoemtucwnt:::txtsize --> TsuCheltcwn:::txtsize
-TsuCheltcwn:::txtsize --> Taeomareinap:::txtsize
-Taeomareinap:::txtsize --> RasepPdprPs:::txtsize
-Taeomareinap:::txtsize --> Tsuoolrnssai:::txtsize
-TsuCheltcwn:::txtsize --> Rasniurruie:::txtsize
-Rasniurruie:::txtsize --> UlRamaoerwttsparr:::txtsize
-Rasniurruie:::txtsize --> Psonrsfltlasi:::txtsize
+OICPtmeeyi:::txtsize --> OIsdhTrneUnc:::txtsize
+OIsdhTrneUnc:::txtsize --> HehTtiueliiir:::txtsize
+HehTtiueliiir:::txtsize --> HtpiUpotaAtr:::txtsize
+OIsdhTrneUnc:::txtsize --> Cbraes:::txtsize
+Cbraes:::txtsize --> Mlthoxienfairnp:::txtsize
+Cbraes:::txtsize --> VFhcnhfdIbtnwota:::txtsize
+OICPtmeeyi:::txtsize --> OIirlrnGtlnei:::txtsize
+OIirlrnGtlnei:::txtsize --> AaslaonwiU:::txtsize
+AaslaonwiU:::txtsize --> AaitombYbaeo:::txtsize
+AaslaonwiU:::txtsize --> Eekleinom:::txtsize
+OIirlrnGtlnei:::txtsize --> Coeirhweo:::txtsize
+Coeirhweo:::txtsize --> OIsdhTrneUnc:::txtsize
+Coeirhweo:::txtsize --> OIdnolhTrea:::txtsize
 
-NeuwnthcdeTaes@{ shape: win-pane, label: "_Published Nov 26, 2025, 06:48 AM_
-Neither of sudan’s warring factions has accepted truce plan, trump adviser says" }
-Unotsilnpnd@{ shape: win-pane, label: "_Published Nov 22, 2025, 09:48 PM_
-Ukraine, us to start talks in switzerland on trump’s plan to end war" }
-Unorestler@{ shape: win-pane, label: "_Published Nov 22, 2025, 08:11 PM_
-Ukraine, europe scramble to respond to us plan to end war" }
-Dndprrhnnunc@{ shape: win-pane, label: "_Published Nov 22, 2025, 03:19 PM_
-Dark and cold, kyiv prepares for another winter under russian attack" }
-Pgtsturiti@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:00 PM_
-Pm wong to attend g-20 summit in south africa, visit ethiopia" }
-Sptineeorutpili@{ shape: win-pane, label: "_Published Jun 05, 2024, 10:03 PM_
-Singapore, ethiopia to enhance cooperation in areas such as transport, digitalisation" }
-Gfcfoaolqtry@{ shape: win-pane, label: "_Published Nov 04, 2025, 06:07 AM_
-G-20 taskforce calls for global panel to tackle ‘inequality emergency’" }
-TsSwoautiiq@{ shape: win-pane, label: "_Published Nov 20, 2025, 03:48 AM_
-Trump says us will work to end war in sudan at saudi arabia’s request" }
-Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
-Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
-Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
-Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
-TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
-Trump threatens abc news in oval office meltdown" }
-Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
-What does trump’s gaza peace plan promise?" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
+Atlesttpgeio@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:58 AM_
+A draft or volunteers? russian threat prompts urgent debate in europe" }
+Rarnksdpeue@{ shape: win-pane, label: "_Published Nov 25, 2025, 04:43 PM_
+Russian barrage on kyiv kills seven, disrupts energy supplies" }
+UKisrlerr@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:43 PM_
+Us and kyiv discuss reworked plan to end war in ukraine" }
+Ulnaewniaark@{ shape: win-pane, label: "_Published Nov 24, 2025, 08:40 AM_
+Us hails ‘significant step forward’ in ukraine ‘peace framework’ talks" }
+Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
+Trump’s 28-point ukraine plan" }
 
-NeuwnthcdeTaes:::txtsize --> Unotsilnpnd:::txtsize
-Unotsilnpnd:::txtsize --> Unorestler:::txtsize
-Unorestler:::txtsize --> Dndprrhnnunc:::txtsize
-Unotsilnpnd:::txtsize --> Pgtsturiti:::txtsize
-Pgtsturiti:::txtsize --> Sptineeorutpili:::txtsize
-Pgtsturiti:::txtsize --> Gfcfoaolqtry:::txtsize
-NeuwnthcdeTaes:::txtsize --> TsSwoautiiq:::txtsize
-TsSwoautiiq:::txtsize --> Tdddnersdiinst:::txtsize
-Tdddnersdiinst:::txtsize --> Mrusnrsasikeprsc:::txtsize
-Tdddnersdiinst:::txtsize --> TttBsailn:::txtsize
-TsSwoautiiq:::txtsize --> Wouaaam:::txtsize
-Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
-Wouaaam:::txtsize --> NyeeawHakl:::txtsize
+Atlesttpgeio:::txtsize --> Rarnksdpeue:::txtsize
+Rarnksdpeue:::txtsize --> UKisrlerr:::txtsize
+UKisrlerr:::txtsize --> Ulnaewniaark:::txtsize
+UKisrlerr:::txtsize --> Tstia:::txtsize
 
 ```
-<i>Last updated: 2025-11-26 08:00:58.104454 (GMT+8)</i>
+<i>Last updated: 2025-11-26 12:00:22.495870 (GMT+8)</i>
 <!-- END -->
