@@ -16,138 +16,141 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Traoasega@{ shape: win-pane, label: "_Published Nov 26, 2025, 11:27 PM_
-Trump rages at report that he is increasingly frail" }
-Tseraenn@{ shape: win-pane, label: "_Published Oct 27, 2025, 05:25 PM_
-Trump says he underwent an mri examination" }
-TdragnfitirsPd@{ shape: win-pane, label: "_Published Jan 21, 2025, 01:02 AM_
-Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
-Tpsrmtioutv@{ shape: win-pane, label: "_Published Jan 20, 2025, 05:54 AM_
-Trump promises harsh immigration limits on inauguration eve" }
-TttSecaaxhue@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:40 AM_
-Trump threatens us trade policy of ‘tariff and tax’ on other countries" }
-Thraylty@{ shape: win-pane, label: "_Published Oct 11, 2025, 11:00 AM_
-Trump, 79, has ‘cardiac age’ of 65-year-old, doctor says" }
-Tgemacha@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:24 PM_
-Trump, 79, gets second medical check-up this year" }
-Ttehamauon@{ shape: win-pane, label: "_Published Oct 09, 2025, 11:16 AM_
-Trump to undergo physical exam as health questions linger" }
-Ptbusuert@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:05 AM_
-‘piggy’, ‘terrible’: trump lashes out at female reporters" }
-TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
-Trump threatens abc news in oval office meltdown" }
-Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
-Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
-Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
-Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
-TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
-Trump threatens abc news in oval office meltdown" }
-Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
-Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
-Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
-Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
+Saalssshisnhn@{ shape: win-pane, label: "_Published Nov 27, 2025, 02:41 AM_
+Soup maker campbell’s responds to ‘absurd’ charge it uses 3d-printed chicken" }
+Ishesurknodhr@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:18 PM_
+India searches premises of cough syrup maker linked to child deaths: source" }
+Inecsldia@{ shape: win-pane, label: "_Published Oct 05, 2025, 03:06 PM_
+Indian states ban cough syrup linked to child deaths" }
+Ipsioyidsin@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:56 PM_
+India probes possible cough syrup link to deaths of 9 children" }
+Incendoyeeol@{ shape: win-pane, label: "_Published Oct 09, 2025, 01:45 PM_
+Indian police arrest owner of drug company linked to deaths of 21 children" }
+Ipsioyidsin@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:56 PM_
+India probes possible cough syrup link to deaths of 9 children" }
+Iftnspaaacsds@{ shape: win-pane, label: "_Published Oct 08, 2025, 06:46 PM_
+India flags testing lapses at pharma companies after cough syrup deaths" }
+Meekkrlntrr@{ shape: win-pane, label: "_Published Oct 22, 2025, 03:05 PM_
+Mobile battery-maker anker to recall around 520,000 units over fire risk" }
+Jersnrsedanoy@{ shape: win-pane, label: "_Published Jul 04, 2025, 05:17 PM_
+Japanese airlines to ban power banks in overhead compartments from july 8" }
+AsreuyrwaiaSK@{ shape: win-pane, label: "_Published Mar 14, 2025, 10:55 AM_
+Air busan fire likely caused by power bank with faulty insulation: south korea" }
+Pnbiiirsrekefa@{ shape: win-pane, label: "_Published Feb 28, 2025, 06:00 PM_
+Passengers boarding flights in s. korea must carry power banks on person from march 1" }
+fldwnahC@{ shape: win-pane, label: "_Published Apr 14, 2025, 11:15 AM_
+13 fires linked to power banks in 2024, a 6-year high: scdf" }
+Pbasiiiasetn@{ shape: win-pane, label: "_Published Mar 08, 2025, 12:35 PM_
+Power bank catches fire in train cabin at raffles place mrt station" }
+AsreuyrwaiaSK@{ shape: win-pane, label: "_Published Mar 14, 2025, 10:55 AM_
+Air busan fire likely caused by power bank with faulty insulation: south korea" }
 
-Traoasega:::txtsize --> Tseraenn:::txtsize
-Tseraenn:::txtsize --> TdragnfitirsPd:::txtsize
-TdragnfitirsPd:::txtsize --> Tpsrmtioutv:::txtsize
-TdragnfitirsPd:::txtsize --> TttSecaaxhue:::txtsize
-Tseraenn:::txtsize --> Thraylty:::txtsize
-Thraylty:::txtsize --> Tgemacha:::txtsize
-Thraylty:::txtsize --> Ttehamauon:::txtsize
-Traoasega:::txtsize --> Ptbusuert:::txtsize
-Ptbusuert:::txtsize --> TttBsailn:::txtsize
-TttBsailn:::txtsize --> Mrusnrsasikeprsc:::txtsize
-TttBsailn:::txtsize --> Tdddnersdiinst:::txtsize
-Ptbusuert:::txtsize --> TttBsailn:::txtsize
-TttBsailn:::txtsize --> Mrusnrsasikeprsc:::txtsize
-TttBsailn:::txtsize --> Tdddnersdiinst:::txtsize
+Saalssshisnhn:::txtsize --> Ishesurknodhr:::txtsize
+Ishesurknodhr:::txtsize --> Inecsldia:::txtsize
+Inecsldia:::txtsize --> Ipsioyidsin:::txtsize
+Ishesurknodhr:::txtsize --> Incendoyeeol:::txtsize
+Incendoyeeol:::txtsize --> Ipsioyidsin:::txtsize
+Incendoyeeol:::txtsize --> Iftnspaaacsds:::txtsize
+Saalssshisnhn:::txtsize --> Meekkrlntrr:::txtsize
+Meekkrlntrr:::txtsize --> Jersnrsedanoy:::txtsize
+Jersnrsedanoy:::txtsize --> AsreuyrwaiaSK:::txtsize
+Jersnrsedanoy:::txtsize --> Pnbiiirsrekefa:::txtsize
+Meekkrlntrr:::txtsize --> fldwnahC:::txtsize
+fldwnahC:::txtsize --> Pbasiiiasetn:::txtsize
+fldwnahC:::txtsize --> AsreuyrwaiaSK:::txtsize
 
-Boeaahbnsdg@{ shape: win-pane, label: "_Published Nov 26, 2025, 11:09 PM_
-Billionaire richard branson ‘heartbroken’ as his wife dies, aged 80" }
-Vncotnaietas@{ shape: win-pane, label: "_Published Jun 09, 2024, 03:40 AM_
-Virgin galactic completes final spaceflight before two-year pause" }
-Bopsiaftnpsts@{ shape: win-pane, label: "_Published Jul 12, 2021, 06:34 AM_
-Branson completes virgin galactic flight, aiming to open up space tourism" }
-Vncostcgfo@{ shape: win-pane, label: "_Published Sep 09, 2023, 04:34 AM_
-Virgin galactic notches fourth spaceflight in four months" }
-Vncaesgptcr@{ shape: win-pane, label: "_Published Aug 11, 2023, 12:05 AM_
-Virgin galactic launches first flight of private space tourists" }
-Vncaesgptcr@{ shape: win-pane, label: "_Published Aug 11, 2023, 12:05 AM_
-Virgin galactic launches first flight of private space tourists" }
-Boeaafdusrnivnc@{ shape: win-pane, label: "_Published May 04, 2023, 10:12 PM_
-Billionaire richard branson feared he would ‘lose everything’ during covid-19 pandemic" }
-Boeaasertsiip@{ shape: win-pane, label: "_Published Apr 05, 2023, 08:21 AM_
-Billionaire richard branson’s space empire teeters as virgin orbit flops" }
-Biorneecsi@{ shape: win-pane, label: "_Published Jan 10, 2023, 06:24 AM_
-Britain’s groundbreaking satellite launch ends in failure" }
-BocafiOffntsu@{ shape: win-pane, label: "_Published Apr 04, 2023, 03:07 PM_
-Branson’s rocket-launch firm virgin orbit files for bankruptcy, to seek buyer" }
-BocafiOffntsu@{ shape: win-pane, label: "_Published Apr 04, 2023, 03:07 PM_
-Branson’s rocket-launch firm virgin orbit files for bankruptcy, to seek buyer" }
-Biorneecsi@{ shape: win-pane, label: "_Published Jan 10, 2023, 06:24 AM_
-Britain’s groundbreaking satellite launch ends in failure" }
-Biorneecsi@{ shape: win-pane, label: "_Published Jan 10, 2023, 06:24 AM_
-Britain’s groundbreaking satellite launch ends in failure" }
+Ugmsptnee@{ shape: win-pane, label: "_Published Nov 27, 2025, 02:19 AM_
+Us judge dismisses trump election interference case" }
+TgosrSiDdp@{ shape: win-pane, label: "_Published Apr 15, 2024, 06:11 PM_
+The legal troubles of former us president donald trump" }
+Tsiunicfwitf@{ shape: win-pane, label: "_Published Apr 15, 2024, 09:07 PM_
+Trump’s criminal hush money trial kicks off in new york in historic first" }
+Frenmrvseebeia@{ shape: win-pane, label: "_Published Apr 04, 2023, 08:59 PM_
+Former us president trump charged over hush money scheme to boost 2016 election chances" }
+Tsdahncjsh@{ shape: win-pane, label: "_Published Mar 28, 2024, 10:00 AM_
+Trump spreads apparent hoax in attacking judge’s daughter" }
+TitehytnfUrefrar@{ shape: win-pane, label: "_Published Mar 31, 2023, 05:52 AM_
+Trump indicted over hush money paid to porn star, first us ex-president to face criminal charges" }
+Bdatrrclolmde@{ shape: win-pane, label: "_Published Mar 20, 2023, 10:07 AM_
+Behind the payoff to a porn star that could lead to donald trump’s indictment" }
+Ddpurrenphfl@{ shape: win-pane, label: "_Published Nov 16, 2022, 09:22 AM_
+Donald trump announces 2024 run for us president, jumping ahead of rivals" }
+Utelpclasanrtu@{ shape: win-pane, label: "_Published Jan 09, 2025, 12:34 AM_
+Us justice dept will not publicly release all of special counsel's report on trump" }
+Mvceimenmsrc@{ shape: win-pane, label: "_Published Oct 19, 2024, 12:13 AM_
+More evidence released in trump’s 2020 election attempted subversion case" }
+SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
+Storming of us capitol: timeline of key events in washington" }
+TpsutiStnm@{ shape: win-pane, label: "_Published Sep 05, 2024, 10:46 PM_
+Trump pleads not guilty to revised us 2020 election indictment" }
+LrunpmceUtemfas@{ shape: win-pane, label: "_Published Jan 07, 2025, 03:43 AM_
+Lead prosecutor on trump documents case leaves us justice department, official says" }
+TgosrSiDdp@{ shape: win-pane, label: "_Published Apr 15, 2024, 06:11 PM_
+The legal troubles of former us president donald trump" }
+SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
+Storming of us capitol: timeline of key events in washington" }
 
-Boeaahbnsdg:::txtsize --> Vncotnaietas:::txtsize
-Vncotnaietas:::txtsize --> Bopsiaftnpsts:::txtsize
-Vncotnaietas:::txtsize --> Vncostcgfo:::txtsize
-Vncostcgfo:::txtsize --> Vncaesgptcr:::txtsize
-Vncostcgfo:::txtsize --> Vncaesgptcr:::txtsize
-Boeaahbnsdg:::txtsize --> Boeaafdusrnivnc:::txtsize
-Boeaafdusrnivnc:::txtsize --> Boeaasertsiip:::txtsize
-Boeaasertsiip:::txtsize --> Biorneecsi:::txtsize
-Boeaasertsiip:::txtsize --> BocafiOffntsu:::txtsize
-Boeaafdusrnivnc:::txtsize --> BocafiOffntsu:::txtsize
-BocafiOffntsu:::txtsize --> Biorneecsi:::txtsize
-BocafiOffntsu:::txtsize --> Biorneecsi:::txtsize
+Ugmsptnee:::txtsize --> TgosrSiDdp:::txtsize
+TgosrSiDdp:::txtsize --> Tsiunicfwitf:::txtsize
+Tsiunicfwitf:::txtsize --> Frenmrvseebeia:::txtsize
+Tsiunicfwitf:::txtsize --> Tsdahncjsh:::txtsize
+TgosrSiDdp:::txtsize --> TitehytnfUrefrar:::txtsize
+TitehytnfUrefrar:::txtsize --> Bdatrrclolmde:::txtsize
+TitehytnfUrefrar:::txtsize --> Ddpurrenphfl:::txtsize
+Ugmsptnee:::txtsize --> Utelpclasanrtu:::txtsize
+Utelpclasanrtu:::txtsize --> Mvceimenmsrc:::txtsize
+Mvceimenmsrc:::txtsize --> SiUiinenWn:::txtsize
+Mvceimenmsrc:::txtsize --> TpsutiStnm:::txtsize
+Utelpclasanrtu:::txtsize --> LrunpmceUtemfas:::txtsize
+LrunpmceUtemfas:::txtsize --> TgosrSiDdp:::txtsize
+LrunpmceUtemfas:::txtsize --> SiUiinenWn:::txtsize
 
-Emsrutesoeogflh@{ shape: win-pane, label: "_Published Nov 26, 2025, 10:35 PM_
-Eu lawmakers back resolution to make it easier to suspend shopping platforms like shein" }
-PcHnethsninsee@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:55 PM_
-Paris court: hearing on request for shein’s suspension in france postponed to dec 5" }
-FessSoelwnairn@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:32 AM_
-France moves to suspend shein over sex dolls and weapons on day paris store opens" }
-CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
-China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
-Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
-Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
-Erhvlhixsga@{ shape: win-pane, label: "_Published Nov 26, 2025, 08:05 PM_
-Eu queries shein over sale of childlike sex dolls, illegal weapons" }
-FessSoelwnairn@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:32 AM_
-France moves to suspend shein over sex dolls and weapons on day paris store opens" }
-PcHnethsninsee@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:55 PM_
-Paris court: hearing on request for shein’s suspension in france postponed to dec 5" }
-PcHnethsninsee@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:55 PM_
-Paris court: hearing on request for shein’s suspension in france postponed to dec 5" }
-FessSoelwnairn@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:32 AM_
-France moves to suspend shein over sex dolls and weapons on day paris store opens" }
-CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
-China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
-Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
-Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
-Erhvlhixsga@{ shape: win-pane, label: "_Published Nov 26, 2025, 08:05 PM_
-Eu queries shein over sale of childlike sex dolls, illegal weapons" }
-FessSoelwnairn@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:32 AM_
-France moves to suspend shein over sex dolls and weapons on day paris store opens" }
-PcHnethsninsee@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:55 PM_
-Paris court: hearing on request for shein’s suspension in france postponed to dec 5" }
+Eescavtta@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:51 AM_
+Eu chief vows to back ukraine ‘every step’ until peace" }
+Tsodirisohe@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:30 AM_
+Trump says no firm deadline for ukraine, russia to reach peace deal" }
+Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
+Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
+Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
+Us hails progress in ukraine peace talks but security questions unresolved" }
+URaptiDaspK@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:03 PM_
+Us and russia hold peace talks in abu dhabi as missiles pound kyiv" }
+Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
+Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
+Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
+Us hails progress in ukraine peace talks but security questions unresolved" }
+URaptiDaspK@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:03 PM_
+Us and russia hold peace talks in abu dhabi as missiles pound kyiv" }
+Eesamngessfraotd@{ shape: win-pane, label: "_Published Nov 26, 2025, 06:43 PM_
+Eu urgently seeks agreement on using frozen russian assets for ukraine, as us touts other ideas" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
+Explosions heard in ukraine capital kyiv, other cities" }
+OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
+Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
+Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
+Trump’s 28-point ukraine plan" }
+Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
+Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
+Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
+Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
 
-Emsrutesoeogflh:::txtsize --> PcHnethsninsee:::txtsize
-PcHnethsninsee:::txtsize --> FessSoelwnairn:::txtsize
-FessSoelwnairn:::txtsize --> CsnsdsloeoFhhoi:::txtsize
-FessSoelwnairn:::txtsize --> Sbelerncrdo:::txtsize
-PcHnethsninsee:::txtsize --> Erhvlhixsga:::txtsize
-Erhvlhixsga:::txtsize --> FessSoelwnairn:::txtsize
-Erhvlhixsga:::txtsize --> PcHnethsninsee:::txtsize
-Emsrutesoeogflh:::txtsize --> PcHnethsninsee:::txtsize
-PcHnethsninsee:::txtsize --> FessSoelwnairn:::txtsize
-FessSoelwnairn:::txtsize --> CsnsdsloeoFhhoi:::txtsize
-FessSoelwnairn:::txtsize --> Sbelerncrdo:::txtsize
-PcHnethsninsee:::txtsize --> Erhvlhixsga:::txtsize
-Erhvlhixsga:::txtsize --> FessSoelwnairn:::txtsize
-Erhvlhixsga:::txtsize --> PcHnethsninsee:::txtsize
+Eescavtta:::txtsize --> Tsodirisohe:::txtsize
+Tsodirisohe:::txtsize --> Zsyaeonaalusdthp:::txtsize
+Zsyaeonaalusdthp:::txtsize --> Ulgiaeauuqinl:::txtsize
+Zsyaeonaalusdthp:::txtsize --> URaptiDaspK:::txtsize
+Tsodirisohe:::txtsize --> Zsyaeonaalusdthp:::txtsize
+Zsyaeonaalusdthp:::txtsize --> Ulgiaeauuqinl:::txtsize
+Zsyaeonaalusdthp:::txtsize --> URaptiDaspK:::txtsize
+Eescavtta:::txtsize --> Eesamngessfraotd:::txtsize
+Eesamngessfraotd:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
+DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
+Eesamngessfraotd:::txtsize --> Tstia:::txtsize
+Tstia:::txtsize --> Zsarskbdaosb:::txtsize
+Tstia:::txtsize --> Zsarskbdaosb:::txtsize
 
 ```
-<i>Last updated: 2025-11-27 00:00:54.482330 (GMT+8)</i>
+<i>Last updated: 2025-11-27 04:00:26.899280 (GMT+8)</i>
 <!-- END -->
