@@ -16,22 +16,22 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
+Us peace plan for ukraine drew from russian document, sources say" }
 Tsodirisohe@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:30 AM_
 Trump says no firm deadline for ukraine, russia to reach peace deal" }
 Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
 Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
 Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
 Us hails progress in ukraine peace talks but security questions unresolved" }
-ZsarsalUnzruikn@{ shape: win-pane, label: "_Published Nov 23, 2025, 11:53 PM_
-Zelensky thanks trump as us leader blasts ukraine for ‘zero gratitude’ amid talks to end war" }
-Tskeleanwub@{ shape: win-pane, label: "_Published Nov 22, 2025, 04:26 AM_
-Trump says ukraine should accept plan to end war with russia by nov 27" }
 URaptiDaspK@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:03 PM_
 Us and russia hold peace talks in abu dhabi as missiles pound kyiv" }
-Rarnksdpeue@{ shape: win-pane, label: "_Published Nov 25, 2025, 04:43 PM_
-Russian barrage on kyiv kills seven, disrupts energy supplies" }
-TPdtsUncamre@{ shape: win-pane, label: "_Published Aug 16, 2025, 03:43 AM_
-Trump-putin direct talks over ukraine conclude as summit stretches on" }
+UnlyorpfStd@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:08 AM_
+Ukraine’s zelensky welcomes ‘principles’ of new us draft to end war" }
+Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
+Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
+Feryaoilnoeewke@{ shape: win-pane, label: "_Published Nov 26, 2025, 03:17 AM_
+France’s macron says ‘clearly no russian willingness to agree ceasefire’ with ukraine" }
 UnlyorpfStd@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:08 AM_
 Ukraine’s zelensky welcomes ‘principles’ of new us draft to end war" }
 Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
@@ -45,79 +45,88 @@ France’s macron says ‘clearly no russian willingness to agree ceasefire’ w
 Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
 Us hails progress in ukraine peace talks but security questions unresolved" }
 
+Ucnkefunmos:::txtsize --> Tsodirisohe:::txtsize
 Tsodirisohe:::txtsize --> Zsyaeonaalusdthp:::txtsize
 Zsyaeonaalusdthp:::txtsize --> Ulgiaeauuqinl:::txtsize
-Ulgiaeauuqinl:::txtsize --> ZsarsalUnzruikn:::txtsize
-Ulgiaeauuqinl:::txtsize --> Tskeleanwub:::txtsize
 Zsyaeonaalusdthp:::txtsize --> URaptiDaspK:::txtsize
-URaptiDaspK:::txtsize --> Rarnksdpeue:::txtsize
-URaptiDaspK:::txtsize --> TPdtsUncamre:::txtsize
 Tsodirisohe:::txtsize --> UnlyorpfStd:::txtsize
+UnlyorpfStd:::txtsize --> Zsyaeonaalusdthp:::txtsize
+UnlyorpfStd:::txtsize --> Feryaoilnoeewke:::txtsize
+Ucnkefunmos:::txtsize --> UnlyorpfStd:::txtsize
 UnlyorpfStd:::txtsize --> Zsyaeonaalusdthp:::txtsize
 Zsyaeonaalusdthp:::txtsize --> Ulgiaeauuqinl:::txtsize
 Zsyaeonaalusdthp:::txtsize --> URaptiDaspK:::txtsize
 UnlyorpfStd:::txtsize --> Feryaoilnoeewke:::txtsize
 Feryaoilnoeewke:::txtsize --> Ulgiaeauuqinl:::txtsize
 
-OICPtmeeyi@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:00 AM_
-Openai says chatgpt not to blame in teen’s death by suicide" }
-OIsdhTrneUnc@{ shape: win-pane, label: "_Published Aug 27, 2025, 07:50 AM_
-Openai plans to update chatgpt after parents sue over us teen’s suicide" }
-HehTtiueliiir@{ shape: win-pane, label: "_Published May 10, 2025, 11:15 AM_
-Hear me out: chatgpt is not my friend, but it lends a late-night listening ear" }
-HtpiUpotaAtr@{ shape: win-pane, label: "_Published Feb 26, 2025, 04:15 PM_
-Human therapists in the us prepare for battle against ai pretenders" }
-Cbraes@{ shape: win-pane, label: "_Published Jul 28, 2025, 05:00 AM_
-Can ai be my friend and therapist?" }
-Mlthoxienfairnp@{ shape: win-pane, label: "_Published Jul 28, 2025, 05:00 AM_
-Mental health in the age of ai - exploring a new frontier for diagnosis, therapy and support" }
-VFhcnhfdIbtnwota@{ shape: win-pane, label: "_Published Jul 28, 2025, 05:00 AM_
-Views from the couch: think you have a friend? the ai chatbot is telling you what you want to hear" }
-OIirlrnGtlnei@{ shape: win-pane, label: "_Published Sep 29, 2025, 08:02 PM_
-Openai to bring parental controls in chatgpt after california teen’s suicide" }
-AaslaonwiU@{ shape: win-pane, label: "_Published Sep 25, 2025, 10:37 AM_
-Australia’s social media ban for teens draws praise at un" }
-AaitombYbaeo@{ shape: win-pane, label: "_Published Jul 30, 2025, 06:43 AM_
-Australia widens teen social media ban to youtube, scraps exemption" }
-Eekleinom@{ shape: win-pane, label: "_Published Sep 24, 2025, 10:06 PM_
-Eu chief backs calls to keep children off social media" }
-Coeirhweo@{ shape: win-pane, label: "_Published Sep 28, 2025, 01:15 PM_
-Chatbots are hurting our kids – here’s what we can do" }
-OIsdhTrneUnc@{ shape: win-pane, label: "_Published Aug 27, 2025, 07:50 AM_
-Openai plans to update chatgpt after parents sue over us teen’s suicide" }
-OIdnolhTrea@{ shape: win-pane, label: "_Published Sep 02, 2025, 11:06 PM_
-Openai to add parental controls to chatgpt after us teen’s death" }
+Posoiassdulopo@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:10 PM_
+Psycho meets mrs doubtfire: italian son poses as dead mum to claim $80k of her pension" }
+Ltfassrceai@{ shape: win-pane, label: "_Published Jul 08, 2025, 02:50 PM_
+Lurid tale of china’s cross-dressing ‘red uncle’ goes viral online" }
+Sersevorffi@{ shape: win-pane, label: "_Published Dec 08, 2024, 04:16 PM_
+She sued over transgender ‘conversion therapy’, a first for china" }
+Ccdanlshegt@{ shape: win-pane, label: "_Published Sep 06, 2023, 01:59 PM_
+China considers law banning clothes that ‘hurt feelings’ of others" }
+Giceidrnrl@{ shape: win-pane, label: "_Published Jun 01, 2025, 02:30 PM_
+Gay chinese couple fulfil wedding dream in ‘freer’ thailand" }
+Tasarlgnrei@{ shape: win-pane, label: "_Published Jun 18, 2024, 04:00 PM_
+Thailand passes landmark bill recognising marriage equality" }
+Hedaeagcio@{ shape: win-pane, label: "_Published Jan 23, 2025, 01:20 PM_
+Hundreds wed as thai same-sex marriage law comes into force" }
+SprGeertrtnasc@{ shape: win-pane, label: "_Published Nov 25, 2025, 01:07 PM_
+Singapore orders google, apple to curb govt impersonation on messaging services" }
+PestsirdSthmsfoo@{ shape: win-pane, label: "_Published Sep 03, 2025, 09:48 AM_
+Police to issue meta first online harms order in s’pore to fight scams; possible fines of up to $1m" }
+Oeiacifehioors@{ shape: win-pane, label: "_Published Jan 30, 2024, 03:41 PM_
+Online criminal harms act to kick in from feb 1, with special provisions for scams" }
+Oeiacifehioors@{ shape: win-pane, label: "_Published Jan 30, 2024, 03:41 PM_
+Online criminal harms act to kick in from feb 1, with special provisions for scams" }
 
-OICPtmeeyi:::txtsize --> OIsdhTrneUnc:::txtsize
-OIsdhTrneUnc:::txtsize --> HehTtiueliiir:::txtsize
-HehTtiueliiir:::txtsize --> HtpiUpotaAtr:::txtsize
-OIsdhTrneUnc:::txtsize --> Cbraes:::txtsize
-Cbraes:::txtsize --> Mlthoxienfairnp:::txtsize
-Cbraes:::txtsize --> VFhcnhfdIbtnwota:::txtsize
-OICPtmeeyi:::txtsize --> OIirlrnGtlnei:::txtsize
-OIirlrnGtlnei:::txtsize --> AaslaonwiU:::txtsize
-AaslaonwiU:::txtsize --> AaitombYbaeo:::txtsize
-AaslaonwiU:::txtsize --> Eekleinom:::txtsize
-OIirlrnGtlnei:::txtsize --> Coeirhweo:::txtsize
-Coeirhweo:::txtsize --> OIsdhTrneUnc:::txtsize
-Coeirhweo:::txtsize --> OIdnolhTrea:::txtsize
+Posoiassdulopo:::txtsize --> Ltfassrceai:::txtsize
+Ltfassrceai:::txtsize --> Sersevorffi:::txtsize
+Sersevorffi:::txtsize --> Ccdanlshegt:::txtsize
+Ltfassrceai:::txtsize --> Giceidrnrl:::txtsize
+Giceidrnrl:::txtsize --> Tasarlgnrei:::txtsize
+Giceidrnrl:::txtsize --> Hedaeagcio:::txtsize
+Posoiassdulopo:::txtsize --> SprGeertrtnasc:::txtsize
+SprGeertrtnasc:::txtsize --> PestsirdSthmsfoo:::txtsize
+PestsirdSthmsfoo:::txtsize --> Oeiacifehioors:::txtsize
+PestsirdSthmsfoo:::txtsize --> Oeiacifehioors:::txtsize
 
-Atlesttpgeio@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:58 AM_
-A draft or volunteers? russian threat prompts urgent debate in europe" }
-Rarnksdpeue@{ shape: win-pane, label: "_Published Nov 25, 2025, 04:43 PM_
-Russian barrage on kyiv kills seven, disrupts energy supplies" }
-UKisrlerr@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:43 PM_
-Us and kyiv discuss reworked plan to end war in ukraine" }
-Ulnaewniaark@{ shape: win-pane, label: "_Published Nov 24, 2025, 08:40 AM_
-Us hails ‘significant step forward’ in ukraine ‘peace framework’ talks" }
-Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
-Trump’s 28-point ukraine plan" }
+Mnsisepnlaarapn@{ shape: win-pane, label: "_Published Nov 26, 2025, 01:45 PM_
+Miss universe 2025 fatima bosch speaks up against online hate, death threats after pageant win" }
+Mewaatrlrsnseinrw@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:22 PM_
+Miss mexico who staged walkout after insult by organiser wins miss universe title in surprise twist" }
+NIairMnssaetMede@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:59 PM_
+Nawat itsaragrisil sorry for miss universe fiasco, claims he didn’t call miss mexico ‘dumb head’" }
+MfedMnsgeeier@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:30 PM_
+My perfect weekend with miss universe singapore 2025 winner annika xue sager" }
+NIairMnssaetMede@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:59 PM_
+Nawat itsaragrisil sorry for miss universe fiasco, claims he didn’t call miss mexico ‘dumb head’" }
+MfedMnsgeeier@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:30 PM_
+My perfect weekend with miss universe singapore 2025 winner annika xue sager" }
+Mewaatrlrsnseinrw@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:22 PM_
+Miss mexico who staged walkout after insult by organiser wins miss universe title in surprise twist" }
+NIairMnssaetMede@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:59 PM_
+Nawat itsaragrisil sorry for miss universe fiasco, claims he didn’t call miss mexico ‘dumb head’" }
+MfedMnsgeeier@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:30 PM_
+My perfect weekend with miss universe singapore 2025 winner annika xue sager" }
+NIairMnssaetMede@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:59 PM_
+Nawat itsaragrisil sorry for miss universe fiasco, claims he didn’t call miss mexico ‘dumb head’" }
+MfedMnsgeeier@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:30 PM_
+My perfect weekend with miss universe singapore 2025 winner annika xue sager" }
 
-Atlesttpgeio:::txtsize --> Rarnksdpeue:::txtsize
-Rarnksdpeue:::txtsize --> UKisrlerr:::txtsize
-UKisrlerr:::txtsize --> Ulnaewniaark:::txtsize
-UKisrlerr:::txtsize --> Tstia:::txtsize
+Mnsisepnlaarapn:::txtsize --> Mewaatrlrsnseinrw:::txtsize
+Mewaatrlrsnseinrw:::txtsize --> NIairMnssaetMede:::txtsize
+NIairMnssaetMede:::txtsize --> MfedMnsgeeier:::txtsize
+Mewaatrlrsnseinrw:::txtsize --> NIairMnssaetMede:::txtsize
+NIairMnssaetMede:::txtsize --> MfedMnsgeeier:::txtsize
+Mnsisepnlaarapn:::txtsize --> Mewaatrlrsnseinrw:::txtsize
+Mewaatrlrsnseinrw:::txtsize --> NIairMnssaetMede:::txtsize
+NIairMnssaetMede:::txtsize --> MfedMnsgeeier:::txtsize
+Mewaatrlrsnseinrw:::txtsize --> NIairMnssaetMede:::txtsize
+NIairMnssaetMede:::txtsize --> MfedMnsgeeier:::txtsize
 
 ```
-<i>Last updated: 2025-11-26 12:00:22.495870 (GMT+8)</i>
+<i>Last updated: 2025-11-26 16:00:50.971493 (GMT+8)</i>
 <!-- END -->
