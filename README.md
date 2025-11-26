@@ -16,141 +16,138 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Traoasega@{ shape: win-pane, label: "_Published Nov 26, 2025, 11:27 PM_
+Trump rages at report that he is increasingly frail" }
+Tseraenn@{ shape: win-pane, label: "_Published Oct 27, 2025, 05:25 PM_
+Trump says he underwent an mri examination" }
+TdragnfitirsPd@{ shape: win-pane, label: "_Published Jan 21, 2025, 01:02 AM_
+Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
+Tpsrmtioutv@{ shape: win-pane, label: "_Published Jan 20, 2025, 05:54 AM_
+Trump promises harsh immigration limits on inauguration eve" }
+TttSecaaxhue@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:40 AM_
+Trump threatens us trade policy of ‘tariff and tax’ on other countries" }
+Thraylty@{ shape: win-pane, label: "_Published Oct 11, 2025, 11:00 AM_
+Trump, 79, has ‘cardiac age’ of 65-year-old, doctor says" }
+Tgemacha@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:24 PM_
+Trump, 79, gets second medical check-up this year" }
+Ttehamauon@{ shape: win-pane, label: "_Published Oct 09, 2025, 11:16 AM_
+Trump to undergo physical exam as health questions linger" }
+Ptbusuert@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:05 AM_
+‘piggy’, ‘terrible’: trump lashes out at female reporters" }
+TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
+Trump threatens abc news in oval office meltdown" }
+Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
+Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
+Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
+Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
+TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
+Trump threatens abc news in oval office meltdown" }
+Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
+Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
+Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
+Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
+
+Traoasega:::txtsize --> Tseraenn:::txtsize
+Tseraenn:::txtsize --> TdragnfitirsPd:::txtsize
+TdragnfitirsPd:::txtsize --> Tpsrmtioutv:::txtsize
+TdragnfitirsPd:::txtsize --> TttSecaaxhue:::txtsize
+Tseraenn:::txtsize --> Thraylty:::txtsize
+Thraylty:::txtsize --> Tgemacha:::txtsize
+Thraylty:::txtsize --> Ttehamauon:::txtsize
+Traoasega:::txtsize --> Ptbusuert:::txtsize
+Ptbusuert:::txtsize --> TttBsailn:::txtsize
+TttBsailn:::txtsize --> Mrusnrsasikeprsc:::txtsize
+TttBsailn:::txtsize --> Tdddnersdiinst:::txtsize
+Ptbusuert:::txtsize --> TttBsailn:::txtsize
+TttBsailn:::txtsize --> Mrusnrsasikeprsc:::txtsize
+TttBsailn:::txtsize --> Tdddnersdiinst:::txtsize
+
+Boeaahbnsdg@{ shape: win-pane, label: "_Published Nov 26, 2025, 11:09 PM_
+Billionaire richard branson ‘heartbroken’ as his wife dies, aged 80" }
+Vncotnaietas@{ shape: win-pane, label: "_Published Jun 09, 2024, 03:40 AM_
+Virgin galactic completes final spaceflight before two-year pause" }
+Bopsiaftnpsts@{ shape: win-pane, label: "_Published Jul 12, 2021, 06:34 AM_
+Branson completes virgin galactic flight, aiming to open up space tourism" }
+Vncostcgfo@{ shape: win-pane, label: "_Published Sep 09, 2023, 04:34 AM_
+Virgin galactic notches fourth spaceflight in four months" }
+Vncaesgptcr@{ shape: win-pane, label: "_Published Aug 11, 2023, 12:05 AM_
+Virgin galactic launches first flight of private space tourists" }
+Vncaesgptcr@{ shape: win-pane, label: "_Published Aug 11, 2023, 12:05 AM_
+Virgin galactic launches first flight of private space tourists" }
+Boeaafdusrnivnc@{ shape: win-pane, label: "_Published May 04, 2023, 10:12 PM_
+Billionaire richard branson feared he would ‘lose everything’ during covid-19 pandemic" }
+Boeaasertsiip@{ shape: win-pane, label: "_Published Apr 05, 2023, 08:21 AM_
+Billionaire richard branson’s space empire teeters as virgin orbit flops" }
+Biorneecsi@{ shape: win-pane, label: "_Published Jan 10, 2023, 06:24 AM_
+Britain’s groundbreaking satellite launch ends in failure" }
+BocafiOffntsu@{ shape: win-pane, label: "_Published Apr 04, 2023, 03:07 PM_
+Branson’s rocket-launch firm virgin orbit files for bankruptcy, to seek buyer" }
+BocafiOffntsu@{ shape: win-pane, label: "_Published Apr 04, 2023, 03:07 PM_
+Branson’s rocket-launch firm virgin orbit files for bankruptcy, to seek buyer" }
+Biorneecsi@{ shape: win-pane, label: "_Published Jan 10, 2023, 06:24 AM_
+Britain’s groundbreaking satellite launch ends in failure" }
+Biorneecsi@{ shape: win-pane, label: "_Published Jan 10, 2023, 06:24 AM_
+Britain’s groundbreaking satellite launch ends in failure" }
+
+Boeaahbnsdg:::txtsize --> Vncotnaietas:::txtsize
+Vncotnaietas:::txtsize --> Bopsiaftnpsts:::txtsize
+Vncotnaietas:::txtsize --> Vncostcgfo:::txtsize
+Vncostcgfo:::txtsize --> Vncaesgptcr:::txtsize
+Vncostcgfo:::txtsize --> Vncaesgptcr:::txtsize
+Boeaahbnsdg:::txtsize --> Boeaafdusrnivnc:::txtsize
+Boeaafdusrnivnc:::txtsize --> Boeaasertsiip:::txtsize
+Boeaasertsiip:::txtsize --> Biorneecsi:::txtsize
+Boeaasertsiip:::txtsize --> BocafiOffntsu:::txtsize
+Boeaafdusrnivnc:::txtsize --> BocafiOffntsu:::txtsize
+BocafiOffntsu:::txtsize --> Biorneecsi:::txtsize
+BocafiOffntsu:::txtsize --> Biorneecsi:::txtsize
+
+Emsrutesoeogflh@{ shape: win-pane, label: "_Published Nov 26, 2025, 10:35 PM_
+Eu lawmakers back resolution to make it easier to suspend shopping platforms like shein" }
 PcHnethsninsee@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:55 PM_
 Paris court: hearing on request for shein’s suspension in france postponed to dec 5" }
 FessSoelwnairn@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:32 AM_
 France moves to suspend shein over sex dolls and weapons on day paris store opens" }
 CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
 China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
-SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
-Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
-Shtfbsrol@{ shape: win-pane, label: "_Published Oct 10, 2025, 08:00 AM_
-Shein, hit with big fines, boosts internal controls" }
 Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
 Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
-FeaSbclelp@{ shape: win-pane, label: "_Published Nov 03, 2025, 08:50 PM_
-France threatens shein ban if ‘childlike’ sex dolls reappear" }
+Erhvlhixsga@{ shape: win-pane, label: "_Published Nov 26, 2025, 08:05 PM_
+Eu queries shein over sale of childlike sex dolls, illegal weapons" }
+FessSoelwnairn@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:32 AM_
+France moves to suspend shein over sex dolls and weapons on day paris store opens" }
+PcHnethsninsee@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:55 PM_
+Paris court: hearing on request for shein’s suspension in france postponed to dec 5" }
+PcHnethsninsee@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:55 PM_
+Paris court: hearing on request for shein’s suspension in france postponed to dec 5" }
+FessSoelwnairn@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:32 AM_
+France moves to suspend shein over sex dolls and weapons on day paris store opens" }
 CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
 China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
-Festemaeeasrt@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:14 PM_
-France investigates shein, some rivals over underage access to porn content" }
-Ssonarrtngus@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:01 PM_
-Shein store opening in paris draws protesters and bargain hunters" }
-Fhtplettirnne@{ shape: win-pane, label: "_Published Jun 11, 2025, 12:54 AM_
-French senate adopts bill to regulate fast fashion, targeting china’s shein" }
 Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
 Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
-Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
-Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
-FeaSbclelp@{ shape: win-pane, label: "_Published Nov 03, 2025, 08:50 PM_
-France threatens shein ban if ‘childlike’ sex dolls reappear" }
-CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
-China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
+Erhvlhixsga@{ shape: win-pane, label: "_Published Nov 26, 2025, 08:05 PM_
+Eu queries shein over sale of childlike sex dolls, illegal weapons" }
+FessSoelwnairn@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:32 AM_
+France moves to suspend shein over sex dolls and weapons on day paris store opens" }
+PcHnethsninsee@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:55 PM_
+Paris court: hearing on request for shein’s suspension in france postponed to dec 5" }
 
+Emsrutesoeogflh:::txtsize --> PcHnethsninsee:::txtsize
 PcHnethsninsee:::txtsize --> FessSoelwnairn:::txtsize
 FessSoelwnairn:::txtsize --> CsnsdsloeoFhhoi:::txtsize
-CsnsdsloeoFhhoi:::txtsize --> SthirylerNsba:::txtsize
-CsnsdsloeoFhhoi:::txtsize --> Shtfbsrol:::txtsize
 FessSoelwnairn:::txtsize --> Sbelerncrdo:::txtsize
-Sbelerncrdo:::txtsize --> FeaSbclelp:::txtsize
-Sbelerncrdo:::txtsize --> CsnsdsloeoFhhoi:::txtsize
-PcHnethsninsee:::txtsize --> Festemaeeasrt:::txtsize
-Festemaeeasrt:::txtsize --> Ssonarrtngus:::txtsize
-Ssonarrtngus:::txtsize --> Fhtplettirnne:::txtsize
-Ssonarrtngus:::txtsize --> Sbelerncrdo:::txtsize
-Festemaeeasrt:::txtsize --> Sbelerncrdo:::txtsize
-Sbelerncrdo:::txtsize --> FeaSbclelp:::txtsize
-Sbelerncrdo:::txtsize --> CsnsdsloeoFhhoi:::txtsize
-
-Apbheolfesst@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:50 PM_
-Aliexpress bans chinese sex doll seller after reuters investigation" }
-Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
-Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
-FeaSbclelp@{ shape: win-pane, label: "_Published Nov 03, 2025, 08:50 PM_
-France threatens shein ban if ‘childlike’ sex dolls reappear" }
-CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
-China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
-SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
-Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
-CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
-China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
-SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
-Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
-Shtfbsrol@{ shape: win-pane, label: "_Published Oct 10, 2025, 08:00 AM_
-Shein, hit with big fines, boosts internal controls" }
-Fhdhesnhixs@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:32 AM_
-French fraud watchdog reports shein for ‘childlike’ sex dolls" }
-SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
-Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
-Seskmrirsich@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:53 PM_
-Shein enters bricks-and-mortar retail in france, sparking backlash" }
-Sfmin@{ shape: win-pane, label: "_Published Jul 10, 2025, 11:43 PM_
-Shein faces $200m fine in france" }
-SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
-Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
-Seskmrirsich@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:53 PM_
-Shein enters bricks-and-mortar retail in france, sparking backlash" }
-Sfmin@{ shape: win-pane, label: "_Published Jul 10, 2025, 11:43 PM_
-Shein faces $200m fine in france" }
-
-Apbheolfesst:::txtsize --> Sbelerncrdo:::txtsize
-Sbelerncrdo:::txtsize --> FeaSbclelp:::txtsize
-FeaSbclelp:::txtsize --> CsnsdsloeoFhhoi:::txtsize
-FeaSbclelp:::txtsize --> SthirylerNsba:::txtsize
-Sbelerncrdo:::txtsize --> CsnsdsloeoFhhoi:::txtsize
-CsnsdsloeoFhhoi:::txtsize --> SthirylerNsba:::txtsize
-CsnsdsloeoFhhoi:::txtsize --> Shtfbsrol:::txtsize
-Apbheolfesst:::txtsize --> Fhdhesnhixs:::txtsize
-Fhdhesnhixs:::txtsize --> SthirylerNsba:::txtsize
-SthirylerNsba:::txtsize --> Seskmrirsich:::txtsize
-SthirylerNsba:::txtsize --> Sfmin:::txtsize
-Fhdhesnhixs:::txtsize --> SthirylerNsba:::txtsize
-SthirylerNsba:::txtsize --> Seskmrirsich:::txtsize
-SthirylerNsba:::txtsize --> Sfmin:::txtsize
-
-IleeeidoseMtHrrr@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:41 PM_
-Israel has returned 15 palestinian bodies to gaza, says health ministry in hamas-run territory" }
-Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
-Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
-Israel marks oct 7 anniversary as talks are held to end gaza war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Pgoihfcfge@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:53 AM_
-Pm wong welcomes first phase of gaza ceasefire agreement" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-SpeeamaeihfptGoc@{ shape: win-pane, label: "_Published Oct 09, 2025, 11:04 PM_
-Singapore welcomes israel-hamas deal to begin first phase of trump plan to end gaza conflict: mfa" }
-GrrswrHvnrs@{ shape: win-pane, label: "_Published Nov 24, 2025, 08:22 PM_
-Gaza truce progress slow as israeli-hamas violence persists" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
-Peace finally descends on the middle east: now the battle to make it last begins" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-
-IleeeidoseMtHrrr:::txtsize --> Iliaeseoewa:::txtsize
-Iliaeseoewa:::txtsize --> TssHaossaaorslaoe:::txtsize
-TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
-TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
-Iliaeseoewa:::txtsize --> Pgoihfcfge:::txtsize
-Pgoihfcfge:::txtsize --> TssHaossaaorslaoe:::txtsize
-Pgoihfcfge:::txtsize --> SpeeamaeihfptGoc:::txtsize
-IleeeidoseMtHrrr:::txtsize --> GrrswrHvnrs:::txtsize
-GrrswrHvnrs:::txtsize --> Tdrcaaededlncbs:::txtsize
-Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
-GrrswrHvnrs:::txtsize --> AtHfezerydatoGel:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+PcHnethsninsee:::txtsize --> Erhvlhixsga:::txtsize
+Erhvlhixsga:::txtsize --> FessSoelwnairn:::txtsize
+Erhvlhixsga:::txtsize --> PcHnethsninsee:::txtsize
+Emsrutesoeogflh:::txtsize --> PcHnethsninsee:::txtsize
+PcHnethsninsee:::txtsize --> FessSoelwnairn:::txtsize
+FessSoelwnairn:::txtsize --> CsnsdsloeoFhhoi:::txtsize
+FessSoelwnairn:::txtsize --> Sbelerncrdo:::txtsize
+PcHnethsninsee:::txtsize --> Erhvlhixsga:::txtsize
+Erhvlhixsga:::txtsize --> FessSoelwnairn:::txtsize
+Erhvlhixsga:::txtsize --> PcHnethsninsee:::txtsize
 
 ```
-<i>Last updated: 2025-11-26 20:01:25.161238 (GMT+8)</i>
+<i>Last updated: 2025-11-27 00:00:54.482330 (GMT+8)</i>
 <!-- END -->
