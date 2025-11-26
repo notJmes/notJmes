@@ -16,120 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Feryaoilnoeewke@{ shape: win-pane, label: "_Published Nov 26, 2025, 03:17 AM_
-France’s macron says ‘clearly no russian willingness to agree ceasefire’ with ukraine" }
-Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
-Us hails progress in ukraine peace talks but security questions unresolved" }
-ZsarsalUnzruikn@{ shape: win-pane, label: "_Published Nov 23, 2025, 11:53 PM_
-Zelensky thanks trump as us leader blasts ukraine for ‘zero gratitude’ amid talks to end war" }
-EeregUalthmNtett@{ shape: win-pane, label: "_Published Nov 24, 2025, 12:32 AM_
-Europeans propose changes to us ukraine plan with higher army cap, nato-style security pact" }
-UisRahaal@{ shape: win-pane, label: "_Published Nov 23, 2025, 10:55 AM_
-Us denies pushing russian ‘wish list’ as ukraine plan" }
-Tskeleanwub@{ shape: win-pane, label: "_Published Nov 22, 2025, 04:26 AM_
-Trump says ukraine should accept plan to end war with russia by nov 27" }
-Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
-Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
-Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
-Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
+Viedoaeurius@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:25 AM_
+Visiting the grand canyon? us park fees to jump for foreign tourists" }
+Tsotsiperiss@{ shape: win-pane, label: "_Published Jul 04, 2025, 12:30 PM_
+Trump signs order to raise national park fees for foreign visitors" }
+FeceomtnntipaTc@{ shape: win-pane, label: "_Published Jun 08, 2025, 06:50 PM_
+From research to restrooms: summer staffing crunch hits national parks after trump cuts" }
+Gifakhinabe@{ shape: win-pane, label: "_Published Mar 09, 2025, 03:52 AM_
+‘grieving’: us federal workers thrown into uncertain job market" }
+Tptlaakstdae@{ shape: win-pane, label: "_Published Jun 02, 2025, 06:00 PM_
+Trump plans to offload national park sites, but states don’t want them" }
+Tptlaakstdae@{ shape: win-pane, label: "_Published Jun 02, 2025, 06:00 PM_
+Trump plans to offload national park sites, but states don’t want them" }
+Tseeednpgtuapn@{ shape: win-pane, label: "_Published May 05, 2025, 08:10 AM_
+Trump says he’s ordered rebuilding and reopening of notorious alcatraz prison" }
+UlcrJmrhotade@{ shape: win-pane, label: "_Published May 13, 2025, 12:00 PM_
+Us health secretary rfk jr swims in creek that flows with sewage and bacteria" }
+Tptlaakstdae@{ shape: win-pane, label: "_Published Jun 02, 2025, 06:00 PM_
+Trump plans to offload national park sites, but states don’t want them" }
+Tseeednpgtuapn@{ shape: win-pane, label: "_Published May 05, 2025, 08:10 AM_
+Trump says he’s ordered rebuilding and reopening of notorious alcatraz prison" }
+WHsbtfsDtlfmfscy@{ shape: win-pane, label: "_Published May 02, 2025, 09:43 AM_
+White house seeks budget cuts for justice department law enforcement offices, sources say" }
+Tttaatnaaw@{ shape: win-pane, label: "_Published Apr 29, 2025, 04:32 AM_
+Trump targets us 'sanctuary cities' in migrant crackdown" }
+UlcrJmrhotade@{ shape: win-pane, label: "_Published May 13, 2025, 12:00 PM_
+Us health secretary rfk jr swims in creek that flows with sewage and bacteria" }
+Ulinlhtrtgcnid@{ shape: win-pane, label: "_Published May 08, 2025, 01:30 AM_
+Us health chief kennedy launches autism project using medicare and medicaid data" }
+Rstivafsd@{ shape: win-pane, label: "_Published Apr 11, 2025, 07:39 AM_
+Rfk jr says study will reveal cause of autism ‘epidemic’" }
 
-Feryaoilnoeewke:::txtsize --> Ulgiaeauuqinl:::txtsize
-Ulgiaeauuqinl:::txtsize --> ZsarsalUnzruikn:::txtsize
-ZsarsalUnzruikn:::txtsize --> EeregUalthmNtett:::txtsize
-ZsarsalUnzruikn:::txtsize --> UisRahaal:::txtsize
-Ulgiaeauuqinl:::txtsize --> Tskeleanwub:::txtsize
-Tskeleanwub:::txtsize --> Uneftcrespepp:::txtsize
-Tskeleanwub:::txtsize --> Uneftcrespepp:::txtsize
+Viedoaeurius:::txtsize --> Tsotsiperiss:::txtsize
+Tsotsiperiss:::txtsize --> FeceomtnntipaTc:::txtsize
+FeceomtnntipaTc:::txtsize --> Gifakhinabe:::txtsize
+FeceomtnntipaTc:::txtsize --> Tptlaakstdae:::txtsize
+Tsotsiperiss:::txtsize --> Tptlaakstdae:::txtsize
+Tptlaakstdae:::txtsize --> Tseeednpgtuapn:::txtsize
+Tptlaakstdae:::txtsize --> UlcrJmrhotade:::txtsize
+Viedoaeurius:::txtsize --> Tptlaakstdae:::txtsize
+Tptlaakstdae:::txtsize --> Tseeednpgtuapn:::txtsize
+Tseeednpgtuapn:::txtsize --> WHsbtfsDtlfmfscy:::txtsize
+Tseeednpgtuapn:::txtsize --> Tttaatnaaw:::txtsize
+Tptlaakstdae:::txtsize --> UlcrJmrhotade:::txtsize
+UlcrJmrhotade:::txtsize --> Ulinlhtrtgcnid:::txtsize
+UlcrJmrhotade:::txtsize --> Rstivafsd:::txtsize
 
-Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
-Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
-Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
-Us hails progress in ukraine peace talks but security questions unresolved" }
-ZsarsalUnzruikn@{ shape: win-pane, label: "_Published Nov 23, 2025, 11:53 PM_
-Zelensky thanks trump as us leader blasts ukraine for ‘zero gratitude’ amid talks to end war" }
-EeregUalthmNtett@{ shape: win-pane, label: "_Published Nov 24, 2025, 12:32 AM_
-Europeans propose changes to us ukraine plan with higher army cap, nato-style security pact" }
-UisRahaal@{ shape: win-pane, label: "_Published Nov 23, 2025, 10:55 AM_
-Us denies pushing russian ‘wish list’ as ukraine plan" }
-Tskeleanwub@{ shape: win-pane, label: "_Published Nov 22, 2025, 04:26 AM_
-Trump says ukraine should accept plan to end war with russia by nov 27" }
-Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
-Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
-Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
-Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
-URaptiDaspK@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:03 PM_
-Us and russia hold peace talks in abu dhabi as missiles pound kyiv" }
-Rarnksdpeue@{ shape: win-pane, label: "_Published Nov 25, 2025, 04:43 PM_
-Russian barrage on kyiv kills seven, disrupts energy supplies" }
-UKisrlerr@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:43 PM_
-Us and kyiv discuss reworked plan to end war in ukraine" }
-TPdtsUncamre@{ shape: win-pane, label: "_Published Aug 16, 2025, 03:43 AM_
-Trump-putin direct talks over ukraine conclude as summit stretches on" }
-Tweszaeiaoilst@{ shape: win-pane, label: "_Published Aug 15, 2025, 12:04 PM_
-Trump will seek to squeeze ukraine ceasefire deal out of putin at alaska summit" }
-Ddplee@{ shape: win-pane, label: "_Published Aug 15, 2025, 06:00 PM_
-Donald trump: nobel prize laureate?" }
+Drsoemtucwnt@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:00 AM_
+Democratic senator urges trump not to resume nuclear weapons tests" }
+TsuCheltcwn@{ shape: win-pane, label: "_Published Nov 03, 2025, 11:35 AM_
+Trump says russia, china have secretly tested nuclear weapons" }
+Taeomareinap@{ shape: win-pane, label: "_Published Oct 30, 2025, 09:50 AM_
+Trump asks pentagon to immediately resume testing us nuclear weapons" }
+RasepPdprPs@{ shape: win-pane, label: "_Published Oct 29, 2025, 08:36 PM_
+Russia tests nuclear-capable poseidon super torpedo, putin says" }
+Tsuoolrnssai@{ shape: win-pane, label: "_Published Oct 06, 2025, 02:01 AM_
+Trump says putin’s offer on nuclear arms control ‘sounds like a good idea’" }
+Rasniurruie@{ shape: win-pane, label: "_Published Oct 26, 2025, 04:01 PM_
+Russia tests new ‘invincible’ nuclear-powered cruise missile" }
+UlRamaoerwttsparr@{ shape: win-pane, label: "_Published Oct 25, 2025, 06:05 PM_
+Us could hit russia with more sanctions to end ukraine war, but first wants europe to raise pressure" }
+Psonrsfltlasi@{ shape: win-pane, label: "_Published Oct 25, 2025, 12:40 AM_
+Putin’s economic envoy arrives in us for talks, after oil companies sanctioned" }
 
-Zsyaeonaalusdthp:::txtsize --> Ulgiaeauuqinl:::txtsize
-Ulgiaeauuqinl:::txtsize --> ZsarsalUnzruikn:::txtsize
-ZsarsalUnzruikn:::txtsize --> EeregUalthmNtett:::txtsize
-ZsarsalUnzruikn:::txtsize --> UisRahaal:::txtsize
-Ulgiaeauuqinl:::txtsize --> Tskeleanwub:::txtsize
-Tskeleanwub:::txtsize --> Uneftcrespepp:::txtsize
-Tskeleanwub:::txtsize --> Uneftcrespepp:::txtsize
-Zsyaeonaalusdthp:::txtsize --> URaptiDaspK:::txtsize
-URaptiDaspK:::txtsize --> Rarnksdpeue:::txtsize
-Rarnksdpeue:::txtsize --> UKisrlerr:::txtsize
-URaptiDaspK:::txtsize --> TPdtsUncamre:::txtsize
-TPdtsUncamre:::txtsize --> Tweszaeiaoilst:::txtsize
-TPdtsUncamre:::txtsize --> Ddplee:::txtsize
+Drsoemtucwnt:::txtsize --> TsuCheltcwn:::txtsize
+TsuCheltcwn:::txtsize --> Taeomareinap:::txtsize
+Taeomareinap:::txtsize --> RasepPdprPs:::txtsize
+Taeomareinap:::txtsize --> Tsuoolrnssai:::txtsize
+TsuCheltcwn:::txtsize --> Rasniurruie:::txtsize
+Rasniurruie:::txtsize --> UlRamaoerwttsparr:::txtsize
+Rasniurruie:::txtsize --> Psonrsfltlasi:::txtsize
 
-Rrtforun@{ shape: win-pane, label: "_Published Nov 26, 2025, 01:38 AM_
-Renoir painting of son sold for $2.1m at auction" }
-FKpicsrdor@{ shape: win-pane, label: "_Published Nov 21, 2025, 10:25 AM_
-Frida kahlo painting auctions for $71m, record for woman artist" }
-Kpacsdesrkat@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:10 PM_
-Klimt portrait becomes second most expensive artwork sold at auction" }
-Mndngsiec@{ shape: win-pane, label: "_Published Nov 12, 2025, 03:28 AM_
-Mellon blue diamond ring sells for $32.5m in geneva auction" }
-Rahpclmo@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:05 AM_
-Rare patek philippe watch sells for $22.9 million" }
-Kpacsdesrkat@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:10 PM_
-Klimt portrait becomes second most expensive artwork sold at auction" }
-Mndngsiec@{ shape: win-pane, label: "_Published Nov 12, 2025, 03:28 AM_
-Mellon blue diamond ring sells for $32.5m in geneva auction" }
-Rahpclmo@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:05 AM_
-Rare patek philippe watch sells for $22.9 million" }
-yleigdrn@{ shape: win-pane, label: "_Published Sep 11, 2025, 12:38 AM_
-400-year-old rubens painting found in paris mansion" }
-Atfacmnnsnzdiltt@{ shape: win-pane, label: "_Published Sep 04, 2025, 04:25 AM_
-Argentina officials recover missing painting stolen by nazis and seen in real estate photo" }
-Nomrserioy@{ shape: win-pane, label: "_Published Aug 28, 2025, 01:18 AM_
-Nazi-looted masterwork spotted in argentina property ad" }
-Nomrserioy@{ shape: win-pane, label: "_Published Aug 28, 2025, 01:18 AM_
-Nazi-looted masterwork spotted in argentina property ad" }
-Mmpyigayrdsr@{ shape: win-pane, label: "_Published Mar 26, 2025, 09:00 PM_
-Museum in japan says $600k painting is a fake, may seek refund from seller" }
-Jsepsceuk@{ shape: win-pane, label: "_Published Mar 09, 2025, 11:17 AM_
-Japan’s one-person publishers create unique books" }
-SanaaatPts@{ shape: win-pane, label: "_Published Dec 07, 2024, 05:20 PM_
-Shuntaro tanikawa, poet and translator of peanuts, dies at 92" }
+NeuwnthcdeTaes@{ shape: win-pane, label: "_Published Nov 26, 2025, 06:48 AM_
+Neither of sudan’s warring factions has accepted truce plan, trump adviser says" }
+Unotsilnpnd@{ shape: win-pane, label: "_Published Nov 22, 2025, 09:48 PM_
+Ukraine, us to start talks in switzerland on trump’s plan to end war" }
+Unorestler@{ shape: win-pane, label: "_Published Nov 22, 2025, 08:11 PM_
+Ukraine, europe scramble to respond to us plan to end war" }
+Dndprrhnnunc@{ shape: win-pane, label: "_Published Nov 22, 2025, 03:19 PM_
+Dark and cold, kyiv prepares for another winter under russian attack" }
+Pgtsturiti@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:00 PM_
+Pm wong to attend g-20 summit in south africa, visit ethiopia" }
+Sptineeorutpili@{ shape: win-pane, label: "_Published Jun 05, 2024, 10:03 PM_
+Singapore, ethiopia to enhance cooperation in areas such as transport, digitalisation" }
+Gfcfoaolqtry@{ shape: win-pane, label: "_Published Nov 04, 2025, 06:07 AM_
+G-20 taskforce calls for global panel to tackle ‘inequality emergency’" }
+TsSwoautiiq@{ shape: win-pane, label: "_Published Nov 20, 2025, 03:48 AM_
+Trump says us will work to end war in sudan at saudi arabia’s request" }
+Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
+Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
+Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
+Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
+TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
+Trump threatens abc news in oval office meltdown" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
 
-Rrtforun:::txtsize --> FKpicsrdor:::txtsize
-FKpicsrdor:::txtsize --> Kpacsdesrkat:::txtsize
-Kpacsdesrkat:::txtsize --> Mndngsiec:::txtsize
-Kpacsdesrkat:::txtsize --> Rahpclmo:::txtsize
-FKpicsrdor:::txtsize --> Kpacsdesrkat:::txtsize
-Kpacsdesrkat:::txtsize --> Mndngsiec:::txtsize
-Kpacsdesrkat:::txtsize --> Rahpclmo:::txtsize
-Rrtforun:::txtsize --> yleigdrn:::txtsize
-yleigdrn:::txtsize --> Atfacmnnsnzdiltt:::txtsize
-Atfacmnnsnzdiltt:::txtsize --> Nomrserioy:::txtsize
-Atfacmnnsnzdiltt:::txtsize --> Nomrserioy:::txtsize
-yleigdrn:::txtsize --> Mmpyigayrdsr:::txtsize
-Mmpyigayrdsr:::txtsize --> Jsepsceuk:::txtsize
-Mmpyigayrdsr:::txtsize --> SanaaatPts:::txtsize
+NeuwnthcdeTaes:::txtsize --> Unotsilnpnd:::txtsize
+Unotsilnpnd:::txtsize --> Unorestler:::txtsize
+Unorestler:::txtsize --> Dndprrhnnunc:::txtsize
+Unotsilnpnd:::txtsize --> Pgtsturiti:::txtsize
+Pgtsturiti:::txtsize --> Sptineeorutpili:::txtsize
+Pgtsturiti:::txtsize --> Gfcfoaolqtry:::txtsize
+NeuwnthcdeTaes:::txtsize --> TsSwoautiiq:::txtsize
+TsSwoautiiq:::txtsize --> Tdddnersdiinst:::txtsize
+Tdddnersdiinst:::txtsize --> Mrusnrsasikeprsc:::txtsize
+Tdddnersdiinst:::txtsize --> TttBsailn:::txtsize
+TsSwoautiiq:::txtsize --> Wouaaam:::txtsize
+Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
+Wouaaam:::txtsize --> NyeeawHakl:::txtsize
 
 ```
-<i>Last updated: 2025-11-26 04:01:28.248680 (GMT+8)</i>
+<i>Last updated: 2025-11-26 08:00:58.104454 (GMT+8)</i>
 <!-- END -->
