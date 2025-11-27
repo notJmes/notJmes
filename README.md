@@ -16,135 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-TsSrmfirwmee@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
-Trump says us must re-examine afghan immigrants who came under biden" }
-Ttldihttteiuius@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-Two national guard soldiers shot in ‘targeted’ attack near white house while trump was away" }
+Uphdpsdaitl@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:30 PM_
+Us airports hit by disruptions ahead of thanksgiving travel boom" }
+Uvenounpiu@{ shape: win-pane, label: "_Published Nov 07, 2025, 10:28 AM_
+Us travel woes mount as govt shutdown prompts flight cuts" }
+Utsanritlss@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:05 PM_
+Us shutdown sends airlines scrambling as travel chaos looms" }
+TaitroguaSouomhw@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:35 AM_
+Trump administration orders 10% of flights cut at major us airports due to government shutdown" }
+Tbscaomhwoot@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:21 AM_
+Trump blasts democrats as us government shutdown becomes longest ever" }
+Uentdoerlnh@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:45 AM_
+Us government shutdown drags on as senators fail to find path out" }
+Utsanritlss@{ shape: win-pane, label: "_Published Nov 06, 2025, 11:05 PM_
+Us shutdown sends airlines scrambling as travel chaos looms" }
+Tbscaomhwoot@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:21 AM_
+Trump blasts democrats as us government shutdown becomes longest ever" }
+Uelctrfnacr@{ shape: win-pane, label: "_Published Nov 13, 2025, 10:15 AM_
+Us freezes flight cuts at 6% as air traffic control absences shrink" }
+UasieveunsHorte@{ shape: win-pane, label: "_Published Nov 11, 2025, 11:01 AM_
+Us senate passes bill to end government shutdown, sends it to house of representatives" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+Uamitgegnso@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:21 AM_
+Us senate compromise sets stage for end to government shutdown" }
+Uglalnetifolhgr@{ shape: win-pane, label: "_Published Nov 10, 2025, 06:48 AM_
+Us flight delays, cancellations accelerate as air traffic controller shortages surge" }
+Ulbtefiyvendhs@{ shape: win-pane, label: "_Published Nov 09, 2025, 07:33 PM_
+Us airlines brace themselves for third day of government-mandated flight cuts" }
+Uavstfat@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:45 AM_
+Us senate advances bill to end federal shutdown" }
+
+Uphdpsdaitl:::txtsize --> Uvenounpiu:::txtsize
+Uvenounpiu:::txtsize --> Utsanritlss:::txtsize
+Utsanritlss:::txtsize --> TaitroguaSouomhw:::txtsize
+Utsanritlss:::txtsize --> Tbscaomhwoot:::txtsize
+Uvenounpiu:::txtsize --> Uentdoerlnh:::txtsize
+Uentdoerlnh:::txtsize --> Utsanritlss:::txtsize
+Uentdoerlnh:::txtsize --> Tbscaomhwoot:::txtsize
+Uphdpsdaitl:::txtsize --> Uelctrfnacr:::txtsize
+Uelctrfnacr:::txtsize --> UasieveunsHorte:::txtsize
+UasieveunsHorte:::txtsize --> YMmnoihaiYilehpea:::txtsize
+UasieveunsHorte:::txtsize --> Uamitgegnso:::txtsize
+Uelctrfnacr:::txtsize --> Uglalnetifolhgr:::txtsize
+Uglalnetifolhgr:::txtsize --> Ulbtefiyvendhs:::txtsize
+Uglalnetifolhgr:::txtsize --> Uavstfat:::txtsize
+
+Foosrdcaardnho@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:08 PM_
+Fbi probes motives in ‘targeted’ attack on national guard soldiers near white house" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
+Us stops processing afghan immigration requests after attack near white house" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Pfrygkiuregncr@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:35 AM_
+‘pried fingers away from gun’: wikipedia volunteers take down gunman at us conference" }
+Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
+Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
+Ipnsohehrmirgs@{ shape: win-pane, label: "_Published Nov 17, 2025, 04:50 PM_
+In pulpits and pews, catholic churches in the us urge compassion for immigrants" }
+PeieubnUhslit@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:25 PM_
+Pope leo’s critique of trump emboldens top us catholics to help immigrants" }
+Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
+Us stops processing afghan immigration requests after attack near white house" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
+Us stops processing afghan immigration requests after attack near white house" }
+Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
+Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
 Pfrygkiuregncr@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:35 AM_
 ‘pried fingers away from gun’: wikipedia volunteers take down gunman at us conference" }
 Spnrrvekighrhrnpo@{ shape: win-pane, label: "_Published Aug 21, 2025, 03:15 PM_
 Singaporean robert sim receives one of wikipedia’s highest honours for his work on online platform" }
 Fiieeoariamu@{ shape: win-pane, label: "_Published Sep 29, 2025, 12:52 AM_
 Four killed, 8 injured after shooting and fire at michigan mormon church" }
-Uroohagufwg@{ shape: win-pane, label: "_Published Oct 21, 2025, 03:44 AM_
-Us supreme court to weigh law barring drug users from owning guns" }
-UstHrnadsuji@{ shape: win-pane, label: "_Published Jun 12, 2024, 12:15 AM_
-Us president’s son, hunter biden, lied about drug use to buy gun, jury finds" }
-Felieoanaog@{ shape: win-pane, label: "_Published Oct 12, 2025, 11:39 PM_
-Four dead, at least 20 injured in south carolina island shooting" }
+
+Foosrdcaardnho:::txtsize --> Nnalsiydttteiu:::txtsize
+Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
+Upcnhmteteaats:::txtsize --> Nnalsiydttteiu:::txtsize
+Upcnhmteteaats:::txtsize --> Pfrygkiuregncr:::txtsize
+Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
+Pespnaemipuit:::txtsize --> Ipnsohehrmirgs:::txtsize
+Pespnaemipuit:::txtsize --> PeieubnUhslit:::txtsize
+Foosrdcaardnho:::txtsize --> Upcnhmteteaats:::txtsize
+Upcnhmteteaats:::txtsize --> Nnalsiydttteiu:::txtsize
+Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
+Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
+Upcnhmteteaats:::txtsize --> Pfrygkiuregncr:::txtsize
+Pfrygkiuregncr:::txtsize --> Spnrrvekighrhrnpo:::txtsize
+Pfrygkiuregncr:::txtsize --> Fiieeoariamu:::txtsize
+
+Nnamseiuccno@{ shape: win-pane, label: "_Published Nov 27, 2025, 12:06 PM_
+National guard members shot near white house in critical condition" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
+Us stops processing afghan immigration requests after attack near white house" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Pfrygkiuregncr@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:35 AM_
+‘pried fingers away from gun’: wikipedia volunteers take down gunman at us conference" }
+Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
+Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
+Ipnsohehrmirgs@{ shape: win-pane, label: "_Published Nov 17, 2025, 04:50 PM_
+In pulpits and pews, catholic churches in the us urge compassion for immigrants" }
+PeieubnUhslit@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:25 PM_
+Pope leo’s critique of trump emboldens top us catholics to help immigrants" }
+Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
+Us stops processing afghan immigration requests after attack near white house" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
+Us stops processing afghan immigration requests after attack near white house" }
+Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
+Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
 Pfrygkiuregncr@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:35 AM_
 ‘pried fingers away from gun’: wikipedia volunteers take down gunman at us conference" }
 Spnrrvekighrhrnpo@{ shape: win-pane, label: "_Published Aug 21, 2025, 03:15 PM_
 Singaporean robert sim receives one of wikipedia’s highest honours for his work on online platform" }
-SprCaosanzmotw@{ shape: win-pane, label: "_Published Jun 18, 2025, 08:14 PM_
-Singapore artist charmaine poh wins villa romana prize, germany’s oldest art award" }
-TorenwozhaBea@{ shape: win-pane, label: "_Published May 22, 2025, 10:30 PM_
-Tdcx founder laurent junique wins top prize at 40th singapore business awards" }
 Fiieeoariamu@{ shape: win-pane, label: "_Published Sep 29, 2025, 12:52 AM_
 Four killed, 8 injured after shooting and fire at michigan mormon church" }
-Cikerarsanccrs@{ shape: win-pane, label: "_Published Sep 22, 2025, 06:17 AM_
-Charlie kirk lauded at arizona memorial as galvanising force for conservatism" }
-Uistggoevsnohnp@{ shape: win-pane, label: "_Published Aug 29, 2025, 07:20 AM_
-Us officials sift through tangle of online grievances by minneapolis shooting suspect" }
 
-TsSrmfirwmee:::txtsize --> Ttldihttteiuius:::txtsize
-Ttldihttteiuius:::txtsize --> Pfrygkiuregncr:::txtsize
+Nnamseiuccno:::txtsize --> Nnalsiydttteiu:::txtsize
+Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
+Upcnhmteteaats:::txtsize --> Nnalsiydttteiu:::txtsize
+Upcnhmteteaats:::txtsize --> Pfrygkiuregncr:::txtsize
+Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
+Pespnaemipuit:::txtsize --> Ipnsohehrmirgs:::txtsize
+Pespnaemipuit:::txtsize --> PeieubnUhslit:::txtsize
+Nnamseiuccno:::txtsize --> Upcnhmteteaats:::txtsize
+Upcnhmteteaats:::txtsize --> Nnalsiydttteiu:::txtsize
+Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
+Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
+Upcnhmteteaats:::txtsize --> Pfrygkiuregncr:::txtsize
 Pfrygkiuregncr:::txtsize --> Spnrrvekighrhrnpo:::txtsize
 Pfrygkiuregncr:::txtsize --> Fiieeoariamu:::txtsize
-Ttldihttteiuius:::txtsize --> Uroohagufwg:::txtsize
-Uroohagufwg:::txtsize --> UstHrnadsuji:::txtsize
-Uroohagufwg:::txtsize --> Felieoanaog:::txtsize
-TsSrmfirwmee:::txtsize --> Pfrygkiuregncr:::txtsize
-Pfrygkiuregncr:::txtsize --> Spnrrvekighrhrnpo:::txtsize
-Spnrrvekighrhrnpo:::txtsize --> SprCaosanzmotw:::txtsize
-Spnrrvekighrhrnpo:::txtsize --> TorenwozhaBea:::txtsize
-Pfrygkiuregncr:::txtsize --> Fiieeoariamu:::txtsize
-Fiieeoariamu:::txtsize --> Cikerarsanccrs:::txtsize
-Fiieeoariamu:::txtsize --> Uistggoevsnohnp:::txtsize
-
-Pedoeclcivap@{ shape: win-pane, label: "_Published Nov 27, 2025, 09:18 AM_
-Pope leo heading to turkey for closely watched first overseas trip" }
-Ilsomaanui@{ shape: win-pane, label: "_Published Nov 24, 2025, 01:17 AM_
-Israel kills hezbollah military leader in beirut strike" }
-Ilautpkanbh@{ shape: win-pane, label: "_Published Nov 23, 2025, 07:39 PM_
-Israel’s netanyahu vows to keep striking hamas and hezbollah" }
-Ilselaonms@{ shape: win-pane, label: "_Published Nov 23, 2025, 01:09 AM_
-Israeli airstrikes kill at least 20 people in gaza, medics say" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-Ilsndmoucfe@{ shape: win-pane, label: "_Published Nov 02, 2025, 04:31 PM_
-Israel urges lebanon to disarm hezbollah under ceasefire terms" }
-TafnemsHleikl@{ shape: win-pane, label: "_Published Nov 27, 2024, 02:56 AM_
-Thousands of lebanese head home as israel-hezbollah ceasefire takes hold" }
-Hlutaarhbmrig@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:20 PM_
-Hezbollah supporters gather at nasrallah's tomb to commemorate killing" }
-Peaastkbosrt@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:48 PM_
-Pope leo to take peace message to turkey, lebanon on first overseas trip" }
-Abbsciilto@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:55 PM_
-At tomb of lebanon’s miracle saint, faithful await the pope" }
-PeduLoivap@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:00 PM_
-Pope leo heads to turkey, lebanon in first overseas trip" }
-PeduLoivap@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:00 PM_
-Pope leo heads to turkey, lebanon in first overseas trip" }
-IkaoCtoi@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:53 PM_
-In turkey, a patchwork of christian communities" }
-PeduLoivap@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:00 PM_
-Pope leo heads to turkey, lebanon in first overseas trip" }
-PeduLoivap@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:00 PM_
-Pope leo heads to turkey, lebanon in first overseas trip" }
-
-Pedoeclcivap:::txtsize --> Ilsomaanui:::txtsize
-Ilsomaanui:::txtsize --> Ilautpkanbh:::txtsize
-Ilautpkanbh:::txtsize --> Ilselaonms:::txtsize
-Ilautpkanbh:::txtsize --> Tdrcaaededlncbs:::txtsize
-Ilsomaanui:::txtsize --> Ilsndmoucfe:::txtsize
-Ilsndmoucfe:::txtsize --> TafnemsHleikl:::txtsize
-Ilsndmoucfe:::txtsize --> Hlutaarhbmrig:::txtsize
-Pedoeclcivap:::txtsize --> Peaastkbosrt:::txtsize
-Peaastkbosrt:::txtsize --> Abbsciilto:::txtsize
-Abbsciilto:::txtsize --> PeduLoivap:::txtsize
-Abbsciilto:::txtsize --> PeduLoivap:::txtsize
-Peaastkbosrt:::txtsize --> IkaoCtoi:::txtsize
-IkaoCtoi:::txtsize --> PeduLoivap:::txtsize
-IkaoCtoi:::txtsize --> PeduLoivap:::txtsize
-
-MnseMohnwrnfia@{ shape: win-pane, label: "_Published Nov 27, 2025, 08:45 AM_
-Miss universe owners in mexico and thailand hit with fraud and trafficking claims" }
-Mewaatrlrsnseinrw@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:22 PM_
-Miss mexico who staged walkout after insult by organiser wins miss universe title in surprise twist" }
-NIairMnssaetMede@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:59 PM_
-Nawat itsaragrisil sorry for miss universe fiasco, claims he didn’t call miss mexico ‘dumb head’" }
-MfedMnsgeeier@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:30 PM_
-My perfect weekend with miss universe singapore 2025 winner annika xue sager" }
-NIairMnssaetMede@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:59 PM_
-Nawat itsaragrisil sorry for miss universe fiasco, claims he didn’t call miss mexico ‘dumb head’" }
-MfedMnsgeeier@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:30 PM_
-My perfect weekend with miss universe singapore 2025 winner annika xue sager" }
-TosatarUro@{ shape: win-pane, label: "_Published Nov 26, 2025, 08:01 PM_
-Thai court issues arrest warrant for miss universe co-owner" }
-Mewaatrlrsnseinrw@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:22 PM_
-Miss mexico who staged walkout after insult by organiser wins miss universe title in surprise twist" }
-NIairMnssaetMede@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:59 PM_
-Nawat itsaragrisil sorry for miss universe fiasco, claims he didn’t call miss mexico ‘dumb head’" }
-NIairMnssaetMede@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:59 PM_
-Nawat itsaragrisil sorry for miss universe fiasco, claims he didn’t call miss mexico ‘dumb head’" }
-NIairMnssaetMede@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:59 PM_
-Nawat itsaragrisil sorry for miss universe fiasco, claims he didn’t call miss mexico ‘dumb head’" }
-MfedMnsgeeier@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:30 PM_
-My perfect weekend with miss universe singapore 2025 winner annika xue sager" }
-
-MnseMohnwrnfia:::txtsize --> Mewaatrlrsnseinrw:::txtsize
-Mewaatrlrsnseinrw:::txtsize --> NIairMnssaetMede:::txtsize
-NIairMnssaetMede:::txtsize --> MfedMnsgeeier:::txtsize
-Mewaatrlrsnseinrw:::txtsize --> NIairMnssaetMede:::txtsize
-NIairMnssaetMede:::txtsize --> MfedMnsgeeier:::txtsize
-MnseMohnwrnfia:::txtsize --> TosatarUro:::txtsize
-TosatarUro:::txtsize --> Mewaatrlrsnseinrw:::txtsize
-Mewaatrlrsnseinrw:::txtsize --> NIairMnssaetMede:::txtsize
-Mewaatrlrsnseinrw:::txtsize --> NIairMnssaetMede:::txtsize
-TosatarUro:::txtsize --> NIairMnssaetMede:::txtsize
-NIairMnssaetMede:::txtsize --> MfedMnsgeeier:::txtsize
 
 ```
-<i>Last updated: 2025-11-27 12:00:29.004228 (GMT+8)</i>
+<i>Last updated: 2025-11-27 16:00:55.420850 (GMT+8)</i>
 <!-- END -->
