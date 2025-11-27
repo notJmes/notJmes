@@ -16,10 +16,10 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-WYresemhiN@{ shape: win-pane, label: "_Published Nov 27, 2025, 05:58 AM_
-While you were sleeping: 5 stories you might have missed, nov 27, 2025" }
-Ttldeoaghondhrw@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-Two national guard members shot in washington; white house on lockdown while trump away" }
+TsSrmfirwmee@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
+Trump says us must re-examine afghan immigrants who came under biden" }
+Ttldihttteiuius@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+Two national guard soldiers shot in ‘targeted’ attack near white house while trump was away" }
 Pfrygkiuregncr@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:35 AM_
 ‘pried fingers away from gun’: wikipedia volunteers take down gunman at us conference" }
 Spnrrvekighrhrnpo@{ shape: win-pane, label: "_Published Aug 21, 2025, 03:15 PM_
@@ -32,38 +32,6 @@ UstHrnadsuji@{ shape: win-pane, label: "_Published Jun 12, 2024, 12:15 AM_
 Us president’s son, hunter biden, lied about drug use to buy gun, jury finds" }
 Felieoanaog@{ shape: win-pane, label: "_Published Oct 12, 2025, 11:39 PM_
 Four dead, at least 20 injured in south carolina island shooting" }
-Hortlslwudlsoat@{ shape: win-pane, label: "_Published Nov 26, 2025, 04:23 PM_
-Hong kong fire: death toll rises to at least 44 with hundreds still missing; police arrest 3" }
-Horkotanrbec@{ shape: win-pane, label: "_Published Nov 27, 2025, 07:01 AM_
-Hong kong fire: smoke, a knock on the apartment  door and a battle to escape" }
-Hortlslwudlsoat@{ shape: win-pane, label: "_Published Nov 26, 2025, 04:23 PM_
-Hong kong fire: death toll rises to at least 44 with hundreds still missing; police arrest 3" }
-Hortlslwudlsoat@{ shape: win-pane, label: "_Published Nov 26, 2025, 04:23 PM_
-Hong kong fire: death toll rises to at least 44 with hundreds still missing; police arrest 3" }
-Horhbeettig@{ shape: win-pane, label: "_Published Oct 18, 2025, 08:40 PM_
-Hong kong firefighters battle blaze in city centre building" }
-Bagntillteca@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:30 PM_
-Bangladesh garment factory fire kills 16, toll may to rise, official says" }
-SKsboorsrrece@{ shape: win-pane, label: "_Published Sep 27, 2025, 10:00 AM_
-South korea scrambles to restore services after major state data centre fire" }
-
-WYresemhiN:::txtsize --> Ttldeoaghondhrw:::txtsize
-Ttldeoaghondhrw:::txtsize --> Pfrygkiuregncr:::txtsize
-Pfrygkiuregncr:::txtsize --> Spnrrvekighrhrnpo:::txtsize
-Pfrygkiuregncr:::txtsize --> Fiieeoariamu:::txtsize
-Ttldeoaghondhrw:::txtsize --> Uroohagufwg:::txtsize
-Uroohagufwg:::txtsize --> UstHrnadsuji:::txtsize
-Uroohagufwg:::txtsize --> Felieoanaog:::txtsize
-WYresemhiN:::txtsize --> Hortlslwudlsoat:::txtsize
-Hortlslwudlsoat:::txtsize --> Horkotanrbec:::txtsize
-Horkotanrbec:::txtsize --> Hortlslwudlsoat:::txtsize
-Horkotanrbec:::txtsize --> Hortlslwudlsoat:::txtsize
-Hortlslwudlsoat:::txtsize --> Horhbeettig:::txtsize
-Horhbeettig:::txtsize --> Bagntillteca:::txtsize
-Horhbeettig:::txtsize --> SKsboorsrrece:::txtsize
-
-Ttldeoaghondhrw@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-Two national guard members shot in washington; white house on lockdown while trump away" }
 Pfrygkiuregncr@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:35 AM_
 ‘pried fingers away from gun’: wikipedia volunteers take down gunman at us conference" }
 Spnrrvekighrhrnpo@{ shape: win-pane, label: "_Published Aug 21, 2025, 03:15 PM_
@@ -78,79 +46,105 @@ Cikerarsanccrs@{ shape: win-pane, label: "_Published Sep 22, 2025, 06:17 AM_
 Charlie kirk lauded at arizona memorial as galvanising force for conservatism" }
 Uistggoevsnohnp@{ shape: win-pane, label: "_Published Aug 29, 2025, 07:20 AM_
 Us officials sift through tangle of online grievances by minneapolis shooting suspect" }
-Uroohagufwg@{ shape: win-pane, label: "_Published Oct 21, 2025, 03:44 AM_
-Us supreme court to weigh law barring drug users from owning guns" }
-UstHrnadsuji@{ shape: win-pane, label: "_Published Jun 12, 2024, 12:15 AM_
-Us president’s son, hunter biden, lied about drug use to buy gun, jury finds" }
-JioTgyltuni@{ shape: win-pane, label: "_Published May 31, 2024, 05:18 AM_
-Jury finds donald trump guilty on all 34 counts at hush money trial" }
-Felieoanaog@{ shape: win-pane, label: "_Published Oct 12, 2025, 11:39 PM_
-Four dead, at least 20 injured in south carolina island shooting" }
-Mgutedvdgios@{ shape: win-pane, label: "_Published Sep 30, 2025, 10:40 AM_
-Michigan church attacker said to have held grudge against mormons" }
-Asdndrtaspii@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:58 PM_
-At least 1 dead and 3 injured after shootings at mississippi universities" }
 
-Ttldeoaghondhrw:::txtsize --> Pfrygkiuregncr:::txtsize
+TsSrmfirwmee:::txtsize --> Ttldihttteiuius:::txtsize
+Ttldihttteiuius:::txtsize --> Pfrygkiuregncr:::txtsize
+Pfrygkiuregncr:::txtsize --> Spnrrvekighrhrnpo:::txtsize
+Pfrygkiuregncr:::txtsize --> Fiieeoariamu:::txtsize
+Ttldihttteiuius:::txtsize --> Uroohagufwg:::txtsize
+Uroohagufwg:::txtsize --> UstHrnadsuji:::txtsize
+Uroohagufwg:::txtsize --> Felieoanaog:::txtsize
+TsSrmfirwmee:::txtsize --> Pfrygkiuregncr:::txtsize
 Pfrygkiuregncr:::txtsize --> Spnrrvekighrhrnpo:::txtsize
 Spnrrvekighrhrnpo:::txtsize --> SprCaosanzmotw:::txtsize
 Spnrrvekighrhrnpo:::txtsize --> TorenwozhaBea:::txtsize
 Pfrygkiuregncr:::txtsize --> Fiieeoariamu:::txtsize
 Fiieeoariamu:::txtsize --> Cikerarsanccrs:::txtsize
 Fiieeoariamu:::txtsize --> Uistggoevsnohnp:::txtsize
-Ttldeoaghondhrw:::txtsize --> Uroohagufwg:::txtsize
-Uroohagufwg:::txtsize --> UstHrnadsuji:::txtsize
-UstHrnadsuji:::txtsize --> JioTgyltuni:::txtsize
-Uroohagufwg:::txtsize --> Felieoanaog:::txtsize
-Felieoanaog:::txtsize --> Mgutedvdgios:::txtsize
-Felieoanaog:::txtsize --> Asdndrtaspii:::txtsize
 
-PggsnbaYirnniBbep@{ shape: win-pane, label: "_Published Nov 27, 2025, 03:13 AM_
-Pentagon suggests adding alibaba, baidu, byd to list for aiding china military, bloomberg news reports" }
-WHslaiimatt@{ shape: win-pane, label: "_Published Nov 15, 2025, 07:45 AM_
-White house says alibaba helping chinese military to target us: ft" }
-UrmsoafuT@{ shape: win-pane, label: "_Published Nov 14, 2025, 12:59 PM_
-Us approves $429m arms sale to taiwan, the first under trump" }
-Tsihiliealsen@{ shape: win-pane, label: "_Published Aug 16, 2025, 07:44 AM_
-Trump says xi told him china will not invade taiwan while he is us president" }
-XsioenneseuSK@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:36 AM_
-Xi says us, china ‘should be partners and friends’ as he meets trump in south korea" }
-Umwoimdagwh@{ shape: win-pane, label: "_Published Sep 23, 2025, 02:07 PM_
-Us lawmaker warns of military ‘misunderstanding’ risk with china" }
-Usutmikois@{ shape: win-pane, label: "_Published Sep 22, 2025, 07:59 AM_
-Us house group meets premier li as it kicks off china visit" }
-Piibefintl@{ shape: win-pane, label: "_Published Sep 23, 2025, 05:00 AM_
-Pacific policing becomes new front in china-west rivalry" }
-Cslhnrsrsfa@{ shape: win-pane, label: "_Published Nov 20, 2025, 07:28 PM_
-China’s civilian shadow navy practises for invasion of taiwan" }
-Csroawaelayam@{ shape: win-pane, label: "_Published Nov 20, 2025, 05:28 PM_
-China says trade cooperation with japan ‘severely damaged’ by taiwan comments" }
-JPaaddwmaCstm@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:44 PM_
-Japan pm sanae takaichi defends taiwan remarks after chinese criticism" }
-Jetsiankmeces@{ shape: win-pane, label: "_Published Jul 31, 2023, 12:47 PM_
-Japanese eateries in china fear ruin as fukushima water discharge looms" }
-Tnginndtwp@{ shape: win-pane, label: "_Published Nov 18, 2025, 10:02 PM_
-Taiwan charges chinese national and six others with spying" }
-Tnrgcischeo@{ shape: win-pane, label: "_Published Jan 13, 2025, 11:53 AM_
-Taiwan reports ‘significant rise’ in suspected chinese espionage" }
-Tniiceuien@{ shape: win-pane, label: "_Published Nov 18, 2025, 12:53 PM_
-Taiwan detains chinese citizen on suspicion of espionage" }
+Pedoeclcivap@{ shape: win-pane, label: "_Published Nov 27, 2025, 09:18 AM_
+Pope leo heading to turkey for closely watched first overseas trip" }
+Ilsomaanui@{ shape: win-pane, label: "_Published Nov 24, 2025, 01:17 AM_
+Israel kills hezbollah military leader in beirut strike" }
+Ilautpkanbh@{ shape: win-pane, label: "_Published Nov 23, 2025, 07:39 PM_
+Israel’s netanyahu vows to keep striking hamas and hezbollah" }
+Ilselaonms@{ shape: win-pane, label: "_Published Nov 23, 2025, 01:09 AM_
+Israeli airstrikes kill at least 20 people in gaza, medics say" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+Ilsndmoucfe@{ shape: win-pane, label: "_Published Nov 02, 2025, 04:31 PM_
+Israel urges lebanon to disarm hezbollah under ceasefire terms" }
+TafnemsHleikl@{ shape: win-pane, label: "_Published Nov 27, 2024, 02:56 AM_
+Thousands of lebanese head home as israel-hezbollah ceasefire takes hold" }
+Hlutaarhbmrig@{ shape: win-pane, label: "_Published Sep 27, 2025, 11:20 PM_
+Hezbollah supporters gather at nasrallah's tomb to commemorate killing" }
+Peaastkbosrt@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:48 PM_
+Pope leo to take peace message to turkey, lebanon on first overseas trip" }
+Abbsciilto@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:55 PM_
+At tomb of lebanon’s miracle saint, faithful await the pope" }
+PeduLoivap@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:00 PM_
+Pope leo heads to turkey, lebanon in first overseas trip" }
+PeduLoivap@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:00 PM_
+Pope leo heads to turkey, lebanon in first overseas trip" }
+IkaoCtoi@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:53 PM_
+In turkey, a patchwork of christian communities" }
+PeduLoivap@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:00 PM_
+Pope leo heads to turkey, lebanon in first overseas trip" }
+PeduLoivap@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:00 PM_
+Pope leo heads to turkey, lebanon in first overseas trip" }
 
-PggsnbaYirnniBbep:::txtsize --> WHslaiimatt:::txtsize
-WHslaiimatt:::txtsize --> UrmsoafuT:::txtsize
-UrmsoafuT:::txtsize --> Tsihiliealsen:::txtsize
-UrmsoafuT:::txtsize --> XsioenneseuSK:::txtsize
-WHslaiimatt:::txtsize --> Umwoimdagwh:::txtsize
-Umwoimdagwh:::txtsize --> Usutmikois:::txtsize
-Umwoimdagwh:::txtsize --> Piibefintl:::txtsize
-PggsnbaYirnniBbep:::txtsize --> Cslhnrsrsfa:::txtsize
-Cslhnrsrsfa:::txtsize --> Csroawaelayam:::txtsize
-Csroawaelayam:::txtsize --> JPaaddwmaCstm:::txtsize
-Csroawaelayam:::txtsize --> Jetsiankmeces:::txtsize
-Cslhnrsrsfa:::txtsize --> Tnginndtwp:::txtsize
-Tnginndtwp:::txtsize --> Tnrgcischeo:::txtsize
-Tnginndtwp:::txtsize --> Tniiceuien:::txtsize
+Pedoeclcivap:::txtsize --> Ilsomaanui:::txtsize
+Ilsomaanui:::txtsize --> Ilautpkanbh:::txtsize
+Ilautpkanbh:::txtsize --> Ilselaonms:::txtsize
+Ilautpkanbh:::txtsize --> Tdrcaaededlncbs:::txtsize
+Ilsomaanui:::txtsize --> Ilsndmoucfe:::txtsize
+Ilsndmoucfe:::txtsize --> TafnemsHleikl:::txtsize
+Ilsndmoucfe:::txtsize --> Hlutaarhbmrig:::txtsize
+Pedoeclcivap:::txtsize --> Peaastkbosrt:::txtsize
+Peaastkbosrt:::txtsize --> Abbsciilto:::txtsize
+Abbsciilto:::txtsize --> PeduLoivap:::txtsize
+Abbsciilto:::txtsize --> PeduLoivap:::txtsize
+Peaastkbosrt:::txtsize --> IkaoCtoi:::txtsize
+IkaoCtoi:::txtsize --> PeduLoivap:::txtsize
+IkaoCtoi:::txtsize --> PeduLoivap:::txtsize
+
+MnseMohnwrnfia@{ shape: win-pane, label: "_Published Nov 27, 2025, 08:45 AM_
+Miss universe owners in mexico and thailand hit with fraud and trafficking claims" }
+Mewaatrlrsnseinrw@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:22 PM_
+Miss mexico who staged walkout after insult by organiser wins miss universe title in surprise twist" }
+NIairMnssaetMede@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:59 PM_
+Nawat itsaragrisil sorry for miss universe fiasco, claims he didn’t call miss mexico ‘dumb head’" }
+MfedMnsgeeier@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:30 PM_
+My perfect weekend with miss universe singapore 2025 winner annika xue sager" }
+NIairMnssaetMede@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:59 PM_
+Nawat itsaragrisil sorry for miss universe fiasco, claims he didn’t call miss mexico ‘dumb head’" }
+MfedMnsgeeier@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:30 PM_
+My perfect weekend with miss universe singapore 2025 winner annika xue sager" }
+TosatarUro@{ shape: win-pane, label: "_Published Nov 26, 2025, 08:01 PM_
+Thai court issues arrest warrant for miss universe co-owner" }
+Mewaatrlrsnseinrw@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:22 PM_
+Miss mexico who staged walkout after insult by organiser wins miss universe title in surprise twist" }
+NIairMnssaetMede@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:59 PM_
+Nawat itsaragrisil sorry for miss universe fiasco, claims he didn’t call miss mexico ‘dumb head’" }
+NIairMnssaetMede@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:59 PM_
+Nawat itsaragrisil sorry for miss universe fiasco, claims he didn’t call miss mexico ‘dumb head’" }
+NIairMnssaetMede@{ shape: win-pane, label: "_Published Nov 05, 2025, 11:59 PM_
+Nawat itsaragrisil sorry for miss universe fiasco, claims he didn’t call miss mexico ‘dumb head’" }
+MfedMnsgeeier@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:30 PM_
+My perfect weekend with miss universe singapore 2025 winner annika xue sager" }
+
+MnseMohnwrnfia:::txtsize --> Mewaatrlrsnseinrw:::txtsize
+Mewaatrlrsnseinrw:::txtsize --> NIairMnssaetMede:::txtsize
+NIairMnssaetMede:::txtsize --> MfedMnsgeeier:::txtsize
+Mewaatrlrsnseinrw:::txtsize --> NIairMnssaetMede:::txtsize
+NIairMnssaetMede:::txtsize --> MfedMnsgeeier:::txtsize
+MnseMohnwrnfia:::txtsize --> TosatarUro:::txtsize
+TosatarUro:::txtsize --> Mewaatrlrsnseinrw:::txtsize
+Mewaatrlrsnseinrw:::txtsize --> NIairMnssaetMede:::txtsize
+Mewaatrlrsnseinrw:::txtsize --> NIairMnssaetMede:::txtsize
+TosatarUro:::txtsize --> NIairMnssaetMede:::txtsize
+NIairMnssaetMede:::txtsize --> MfedMnsgeeier:::txtsize
 
 ```
-<i>Last updated: 2025-11-27 08:01:00.255589 (GMT+8)</i>
+<i>Last updated: 2025-11-27 12:00:29.004228 (GMT+8)</i>
 <!-- END -->
