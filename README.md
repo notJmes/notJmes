@@ -16,111 +16,135 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Slkeottiopaed@{ shape: win-pane, label: "_Published Nov 27, 2025, 07:09 PM_
-Swiss lawmakers seek probe into whether gifts to trump may have breached law" }
-Crtruiphawtuslk@{ shape: win-pane, label: "_Published Oct 30, 2025, 04:05 PM_
-Clever strategy or cultural misstep? south korea’s crown gift to trump has people talking" }
-SKwmuthsrlrnc@{ shape: win-pane, label: "_Published Oct 29, 2025, 11:55 AM_
-South korea welcomes trump with its highest award, a golden crown and ketchup" }
-Tlilpaerse@{ shape: win-pane, label: "_Published Oct 26, 2025, 10:00 AM_
-Trump lands in kuala lumpur to a dance, cheers and some jeers" }
-Csipeoon@{ shape: win-pane, label: "_Published Oct 29, 2025, 03:17 PM_
-China says xi, trump to meet in south korea on oct 30" }
-NgtrrmasrTre@{ shape: win-pane, label: "_Published Oct 19, 2025, 03:25 AM_
-‘no kings’ protesters emerge en masse across us for anti-trump rallies" }
-NglxerlssneaT@{ shape: win-pane, label: "_Published Oct 18, 2025, 06:06 PM_
-‘no kings’ rallies expected to draw millions across us in protest against trump" }
-WCikoeUst@{ shape: win-pane, label: "_Published Sep 11, 2025, 06:17 AM_
-Who is charlie kirk, the young hero of us conservatives?" }
-WogsnkikeafTb@{ shape: win-pane, label: "_Published Oct 28, 2025, 01:00 PM_
-With golfing gifts, japan pm takaichi invokes abe’s legacy to forge trump bond" }
-MargMiatoitutgle@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
-Make japan great again: pm takaichi lays out national vision to return to ‘top of global stage’" }
-STcksaarminr@{ shape: win-pane, label: "_Published Oct 21, 2025, 12:50 PM_
-Sanae takaichi makes history as japan’s first woman prime minister" }
+Unhscaarowei@{ shape: win-pane, label: "_Published Nov 27, 2025, 11:52 PM_
+Us plans to charge suspect in national guard shooting with terrorism" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
+Us stops processing afghan immigration requests after attack near white house" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Pfrygkiuregncr@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:35 AM_
+‘pried fingers away from gun’: wikipedia volunteers take down gunman at us conference" }
+Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
+Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
+Ipnsohehrmirgs@{ shape: win-pane, label: "_Published Nov 17, 2025, 04:50 PM_
+In pulpits and pews, catholic churches in the us urge compassion for immigrants" }
+PeieubnUhslit@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:25 PM_
+Pope leo’s critique of trump emboldens top us catholics to help immigrants" }
+Foosrdcaardnho@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:08 PM_
+Fbi probes motives in ‘targeted’ attack on national guard soldiers near white house" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
+Us stops processing afghan immigration requests after attack near white house" }
+Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
+Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
+Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
+Us stops processing afghan immigration requests after attack near white house" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Pfrygkiuregncr@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:35 AM_
+‘pried fingers away from gun’: wikipedia volunteers take down gunman at us conference" }
 
-Slkeottiopaed:::txtsize --> Crtruiphawtuslk:::txtsize
-Crtruiphawtuslk:::txtsize --> SKwmuthsrlrnc:::txtsize
-SKwmuthsrlrnc:::txtsize --> Tlilpaerse:::txtsize
-SKwmuthsrlrnc:::txtsize --> Csipeoon:::txtsize
-Crtruiphawtuslk:::txtsize --> NgtrrmasrTre:::txtsize
-NgtrrmasrTre:::txtsize --> NglxerlssneaT:::txtsize
-NgtrrmasrTre:::txtsize --> WCikoeUst:::txtsize
-Slkeottiopaed:::txtsize --> WogsnkikeafTb:::txtsize
-WogsnkikeafTb:::txtsize --> MargMiatoitutgle:::txtsize
-MargMiatoitutgle:::txtsize --> STcksaarminr:::txtsize
+Unhscaarowei:::txtsize --> Nnalsiydttteiu:::txtsize
+Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
+Upcnhmteteaats:::txtsize --> Nnalsiydttteiu:::txtsize
+Upcnhmteteaats:::txtsize --> Pfrygkiuregncr:::txtsize
+Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
+Pespnaemipuit:::txtsize --> Ipnsohehrmirgs:::txtsize
+Pespnaemipuit:::txtsize --> PeieubnUhslit:::txtsize
+Unhscaarowei:::txtsize --> Foosrdcaardnho:::txtsize
+Foosrdcaardnho:::txtsize --> Nnalsiydttteiu:::txtsize
+Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
+Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
+Foosrdcaardnho:::txtsize --> Upcnhmteteaats:::txtsize
+Upcnhmteteaats:::txtsize --> Nnalsiydttteiu:::txtsize
+Upcnhmteteaats:::txtsize --> Pfrygkiuregncr:::txtsize
 
-Fereeilatvoalyi@{ shape: win-pane, label: "_Published Nov 27, 2025, 07:08 PM_
-France’s macron, eyeing geopolitical threats, set to unveil voluntary military service" }
-Gnnsirnmar@{ shape: win-pane, label: "_Published Aug 27, 2025, 08:03 PM_
-German cabinet passes bill for voluntary military service" }
-Gnmregetafb@{ shape: win-pane, label: "_Published Jul 31, 2025, 11:34 PM_
-Germany’s armed forces see 28% surge in recruits in nato defence boost" }
-Raiilpeirond@{ shape: win-pane, label: "_Published Jul 31, 2025, 08:39 PM_
-Russian strikes kill at least 16 people in kyiv; 6-year-old boy among dead" }
-Gnphrftovlus@{ shape: win-pane, label: "_Published Jul 30, 2025, 06:53 AM_
-Germany prepares huge orders for jets, armoured vehicles, sources say" }
-Gnnprisnon@{ shape: win-pane, label: "_Published Jul 25, 2025, 06:54 AM_
-Germany plans compulsory military screening for young men" }
-Fuunensklyn@{ shape: win-pane, label: "_Published Sep 13, 2025, 05:45 PM_
-Fearful of russian aggression, poles flock to military training" }
-PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
-Poland shoots down drones, the first nato member to open fire during ukraine war" }
-Gnarwerr@{ shape: win-pane, label: "_Published Sep 10, 2025, 01:08 AM_
-Germany to back ukraine with ‘deep-strike’ drones" }
-Raidnocralpd@{ shape: win-pane, label: "_Published Sep 09, 2025, 11:36 PM_
-Russia’s putin ready to invade other countries, says poland’s president" }
+Aaidtoeiis@{ shape: win-pane, label: "_Published Nov 27, 2025, 11:15 PM_
+Air france, airbus dispute pilot roles in rio-paris crash" }
+Fhtsrnrsen@{ shape: win-pane, label: "_Published Sep 29, 2025, 06:08 AM_
+French court opens new trial on af447 air disaster 16 years on" }
+Adaigeanitostnu@{ shape: win-pane, label: "_Published Sep 25, 2025, 06:38 PM_
+Air india crash: grieving father of captain says investigators insinuated son cut fuel" }
+Bgoeeiistms@{ shape: win-pane, label: "_Published Sep 18, 2025, 04:30 AM_
+Boeing and honeywell sued by air india crash victim families" }
+FiAdacddaftr@{ shape: win-pane, label: "_Published Aug 09, 2025, 11:40 AM_
+Families of air india crash victims demand release of flight recorders" }
+Flierecrhst@{ shape: win-pane, label: "_Published Sep 25, 2025, 09:35 AM_
+First lawsuit filed over plane-helicopter crash in washington" }
+Medfmaljltlaathoe@{ shape: win-pane, label: "_Published Jan 30, 2025, 11:14 AM_
+Many feared dead after american airlines jet, helicopter collide and crash into washington river" }
+Uycraagrahle@{ shape: win-pane, label: "_Published Aug 02, 2025, 09:40 AM_
+Us army helicopter in deadly washington crash had technical issues" }
+Nvouncrrar@{ shape: win-pane, label: "_Published Dec 08, 2022, 07:38 AM_
+No convictions sought in french court over 2009 rio-paris crash" }
+IelSjeseispcay@{ shape: win-pane, label: "_Published Nov 10, 2022, 03:24 PM_
+Indonesia blames 2021 sriwijaya jet crash on mechanical issues, pilot complacency" }
+Iepceoehtnd@{ shape: win-pane, label: "_Published Jan 09, 2021, 06:48 PM_
+Indonesian plane crashes into the sea with more than 60 on board" }
+IeoinswniAa@{ shape: win-pane, label: "_Published Nov 08, 2022, 10:41 PM_
+Indonesia to publish findings this week on 2021 sriwijaya air crash" }
 
-Fereeilatvoalyi:::txtsize --> Gnnsirnmar:::txtsize
-Gnnsirnmar:::txtsize --> Gnmregetafb:::txtsize
-Gnmregetafb:::txtsize --> Raiilpeirond:::txtsize
-Gnmregetafb:::txtsize --> Gnphrftovlus:::txtsize
-Gnnsirnmar:::txtsize --> Gnnprisnon:::txtsize
-Fereeilatvoalyi:::txtsize --> Fuunensklyn:::txtsize
-Fuunensklyn:::txtsize --> PdtnefNetndgir:::txtsize
-PdtnefNetndgir:::txtsize --> Gnarwerr:::txtsize
-PdtnefNetndgir:::txtsize --> Raidnocralpd:::txtsize
+Aaidtoeiis:::txtsize --> Fhtsrnrsen:::txtsize
+Fhtsrnrsen:::txtsize --> Adaigeanitostnu:::txtsize
+Adaigeanitostnu:::txtsize --> Bgoeeiistms:::txtsize
+Adaigeanitostnu:::txtsize --> FiAdacddaftr:::txtsize
+Fhtsrnrsen:::txtsize --> Flierecrhst:::txtsize
+Flierecrhst:::txtsize --> Medfmaljltlaathoe:::txtsize
+Flierecrhst:::txtsize --> Uycraagrahle:::txtsize
+Aaidtoeiis:::txtsize --> Nvouncrrar:::txtsize
+Nvouncrrar:::txtsize --> IelSjeseispcay:::txtsize
+IelSjeseispcay:::txtsize --> Iepceoehtnd:::txtsize
+IelSjeseispcay:::txtsize --> IeoinswniAa:::txtsize
 
-TnFhsgurnss@{ shape: win-pane, label: "_Published Nov 27, 2025, 06:58 PM_
-Two men flee french jail sawing through bars, using bed sheets" }
-Fhossgolmego@{ shape: win-pane, label: "_Published Jul 13, 2025, 08:29 PM_
-French prisoner escapes in luggage of fellow inmate leaving prison" }
-Onspiiaeqpsfa@{ shape: win-pane, label: "_Published Jun 03, 2025, 01:00 PM_
-Over 200 inmates escape pakistani jail after earthquake panic, says official" }
-Eqkasfiaknlog@{ shape: win-pane, label: "_Published Mar 22, 2023, 02:03 AM_
-Earthquake kills at least 13 in afghanistan and pakistan, is felt across region" }
-Ptajoeolaaugfa@{ shape: win-pane, label: "_Published Mar 13, 2025, 12:25 PM_
-Pakistan train hijack hostages end ordeal with arrival in quetta, given first-aid" }
-Nljmeeaawegtc@{ shape: win-pane, label: "_Published May 21, 2025, 09:15 AM_
-New orleans jail employee arrested and charged with helping 10 inmates escape" }
-MnSibrsrpl@{ shape: win-pane, label: "_Published May 17, 2025, 09:12 AM_
-Manhunt in us tourist hub new orleans after 10 escape jail" }
-Nrtpnhnitn@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:16 PM_
-Nepal recaptures 200 prisoners, thousands still on the run" }
-Nsisekooranse@{ shape: win-pane, label: "_Published Sep 11, 2025, 07:52 PM_
-Nepal’s president says he’s seeking solution to crisis ‘as soon as possible’" }
-FnsNapehcyoaZcn@{ shape: win-pane, label: "_Published Sep 11, 2025, 05:15 PM_
-From indonesia to nepal, anime pirate flag has become symbol of asian gen z’s discontent" }
-Nsgesrttitlr@{ shape: win-pane, label: "_Published Sep 11, 2025, 12:22 PM_
-Nepal’s young protesters and army in talks to decide interim leader" }
-Nutiorslil@{ shape: win-pane, label: "_Published Sep 11, 2025, 11:10 AM_
-Nepal unrest: possible power brokers to fill political void" }
-YaotrtupO@{ shape: win-pane, label: "_Published Sep 09, 2025, 05:13 PM_
-Young anti-corruption protesters oust nepal pm oli" }
+FgeiotEiak@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:59 PM_
+Far-right swede jailed for plotting eurovision attack" }
+Hrrnengfgtc@{ shape: win-pane, label: "_Published Oct 31, 2025, 12:42 AM_
+Hate-crime trial in sweden shines light on far-right ‘fitness clubs’" }
+VncnisdiUilps@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:05 PM_
+Violence, racism, and nazi praise: the dark side of us political group chats" }
+Tsanitwrske@{ shape: win-pane, label: "_Published Oct 22, 2025, 12:25 PM_
+Trump special counsel pick withdraws over ‘nazi streak’ comments" }
+Tsanitwrske@{ shape: win-pane, label: "_Published Oct 22, 2025, 12:25 PM_
+Trump special counsel pick withdraws over ‘nazi streak’ comments" }
+FgePsrceiccs@{ shape: win-pane, label: "_Published Oct 30, 2025, 11:25 PM_
+Far-right freedom party suffers shock reversal in dutch elections" }
+Eogsrwtttah@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:31 AM_
+Exit poll suggests centrists win dutch vote, beating far right" }
+Cibelotaosfoyrie@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:25 AM_
+Centrist rob jetten could become netherlands’ youngest and first openly gay prime minister" }
+FgtsooPa@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:37 AM_
+Far-right puts its stamp on european parliament" }
+BsrlmPeUiapsr@{ shape: win-pane, label: "_Published Nov 21, 2025, 10:59 PM_
+British court jails former mep and reform uk politician for pro-russia bribes" }
+FrrocaGlgyoibhs@{ shape: win-pane, label: "_Published Sep 26, 2025, 09:28 PM_
+Former reform uk politician nathan gill  pleads guilty to pro-russia bribery charges" }
+Fedrhtftruon@{ shape: win-pane, label: "_Published Sep 26, 2025, 05:34 PM_
+Farage would win british election if held tomorrow, yougov poll finds" }
+Eescavtta@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:51 AM_
+Eu chief vows to back ukraine ‘every step’ until peace" }
+Tsodirisohe@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:30 AM_
+Trump says no firm deadline for ukraine, russia to reach peace deal" }
+Eesamngessfraotd@{ shape: win-pane, label: "_Published Nov 26, 2025, 06:43 PM_
+Eu urgently seeks agreement on using frozen russian assets for ukraine, as us touts other ideas" }
 
-TnFhsgurnss:::txtsize --> Fhossgolmego:::txtsize
-Fhossgolmego:::txtsize --> Onspiiaeqpsfa:::txtsize
-Onspiiaeqpsfa:::txtsize --> Eqkasfiaknlog:::txtsize
-Onspiiaeqpsfa:::txtsize --> Ptajoeolaaugfa:::txtsize
-Fhossgolmego:::txtsize --> Nljmeeaawegtc:::txtsize
-Nljmeeaawegtc:::txtsize --> MnSibrsrpl:::txtsize
-TnFhsgurnss:::txtsize --> Nrtpnhnitn:::txtsize
-Nrtpnhnitn:::txtsize --> Nsisekooranse:::txtsize
-Nsisekooranse:::txtsize --> FnsNapehcyoaZcn:::txtsize
-Nsisekooranse:::txtsize --> Nsgesrttitlr:::txtsize
-Nrtpnhnitn:::txtsize --> Nutiorslil:::txtsize
-Nutiorslil:::txtsize --> YaotrtupO:::txtsize
+FgeiotEiak:::txtsize --> Hrrnengfgtc:::txtsize
+Hrrnengfgtc:::txtsize --> VncnisdiUilps:::txtsize
+VncnisdiUilps:::txtsize --> Tsanitwrske:::txtsize
+VncnisdiUilps:::txtsize --> Tsanitwrske:::txtsize
+Hrrnengfgtc:::txtsize --> FgePsrceiccs:::txtsize
+FgePsrceiccs:::txtsize --> Eogsrwtttah:::txtsize
+FgePsrceiccs:::txtsize --> Cibelotaosfoyrie:::txtsize
+FgeiotEiak:::txtsize --> FgtsooPa:::txtsize
+FgtsooPa:::txtsize --> BsrlmPeUiapsr:::txtsize
+BsrlmPeUiapsr:::txtsize --> FrrocaGlgyoibhs:::txtsize
+BsrlmPeUiapsr:::txtsize --> Fedrhtftruon:::txtsize
+FgtsooPa:::txtsize --> Eescavtta:::txtsize
+Eescavtta:::txtsize --> Tsodirisohe:::txtsize
+Eescavtta:::txtsize --> Eesamngessfraotd:::txtsize
 
 ```
-<i>Last updated: 2025-11-27 20:00:25.405157 (GMT+8)</i>
+<i>Last updated: 2025-11-28 00:00:52.373470 (GMT+8)</i>
 <!-- END -->
