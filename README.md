@@ -16,141 +16,141 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Saalssshisnhn@{ shape: win-pane, label: "_Published Nov 27, 2025, 02:41 AM_
-Soup maker campbell’s responds to ‘absurd’ charge it uses 3d-printed chicken" }
-Ishesurknodhr@{ shape: win-pane, label: "_Published Oct 13, 2025, 01:18 PM_
-India searches premises of cough syrup maker linked to child deaths: source" }
-Inecsldia@{ shape: win-pane, label: "_Published Oct 05, 2025, 03:06 PM_
-Indian states ban cough syrup linked to child deaths" }
-Ipsioyidsin@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:56 PM_
-India probes possible cough syrup link to deaths of 9 children" }
-Incendoyeeol@{ shape: win-pane, label: "_Published Oct 09, 2025, 01:45 PM_
-Indian police arrest owner of drug company linked to deaths of 21 children" }
-Ipsioyidsin@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:56 PM_
-India probes possible cough syrup link to deaths of 9 children" }
-Iftnspaaacsds@{ shape: win-pane, label: "_Published Oct 08, 2025, 06:46 PM_
-India flags testing lapses at pharma companies after cough syrup deaths" }
-Meekkrlntrr@{ shape: win-pane, label: "_Published Oct 22, 2025, 03:05 PM_
-Mobile battery-maker anker to recall around 520,000 units over fire risk" }
-Jersnrsedanoy@{ shape: win-pane, label: "_Published Jul 04, 2025, 05:17 PM_
-Japanese airlines to ban power banks in overhead compartments from july 8" }
-AsreuyrwaiaSK@{ shape: win-pane, label: "_Published Mar 14, 2025, 10:55 AM_
-Air busan fire likely caused by power bank with faulty insulation: south korea" }
-Pnbiiirsrekefa@{ shape: win-pane, label: "_Published Feb 28, 2025, 06:00 PM_
-Passengers boarding flights in s. korea must carry power banks on person from march 1" }
-fldwnahC@{ shape: win-pane, label: "_Published Apr 14, 2025, 11:15 AM_
-13 fires linked to power banks in 2024, a 6-year high: scdf" }
-Pbasiiiasetn@{ shape: win-pane, label: "_Published Mar 08, 2025, 12:35 PM_
-Power bank catches fire in train cabin at raffles place mrt station" }
-AsreuyrwaiaSK@{ shape: win-pane, label: "_Published Mar 14, 2025, 10:55 AM_
-Air busan fire likely caused by power bank with faulty insulation: south korea" }
+WYresemhiN@{ shape: win-pane, label: "_Published Nov 27, 2025, 05:58 AM_
+While you were sleeping: 5 stories you might have missed, nov 27, 2025" }
+Ttldeoaghondhrw@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+Two national guard members shot in washington; white house on lockdown while trump away" }
+Pfrygkiuregncr@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:35 AM_
+‘pried fingers away from gun’: wikipedia volunteers take down gunman at us conference" }
+Spnrrvekighrhrnpo@{ shape: win-pane, label: "_Published Aug 21, 2025, 03:15 PM_
+Singaporean robert sim receives one of wikipedia’s highest honours for his work on online platform" }
+Fiieeoariamu@{ shape: win-pane, label: "_Published Sep 29, 2025, 12:52 AM_
+Four killed, 8 injured after shooting and fire at michigan mormon church" }
+Uroohagufwg@{ shape: win-pane, label: "_Published Oct 21, 2025, 03:44 AM_
+Us supreme court to weigh law barring drug users from owning guns" }
+UstHrnadsuji@{ shape: win-pane, label: "_Published Jun 12, 2024, 12:15 AM_
+Us president’s son, hunter biden, lied about drug use to buy gun, jury finds" }
+Felieoanaog@{ shape: win-pane, label: "_Published Oct 12, 2025, 11:39 PM_
+Four dead, at least 20 injured in south carolina island shooting" }
+Hortlslwudlsoat@{ shape: win-pane, label: "_Published Nov 26, 2025, 04:23 PM_
+Hong kong fire: death toll rises to at least 44 with hundreds still missing; police arrest 3" }
+Horkotanrbec@{ shape: win-pane, label: "_Published Nov 27, 2025, 07:01 AM_
+Hong kong fire: smoke, a knock on the apartment  door and a battle to escape" }
+Hortlslwudlsoat@{ shape: win-pane, label: "_Published Nov 26, 2025, 04:23 PM_
+Hong kong fire: death toll rises to at least 44 with hundreds still missing; police arrest 3" }
+Hortlslwudlsoat@{ shape: win-pane, label: "_Published Nov 26, 2025, 04:23 PM_
+Hong kong fire: death toll rises to at least 44 with hundreds still missing; police arrest 3" }
+Horhbeettig@{ shape: win-pane, label: "_Published Oct 18, 2025, 08:40 PM_
+Hong kong firefighters battle blaze in city centre building" }
+Bagntillteca@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:30 PM_
+Bangladesh garment factory fire kills 16, toll may to rise, official says" }
+SKsboorsrrece@{ shape: win-pane, label: "_Published Sep 27, 2025, 10:00 AM_
+South korea scrambles to restore services after major state data centre fire" }
 
-Saalssshisnhn:::txtsize --> Ishesurknodhr:::txtsize
-Ishesurknodhr:::txtsize --> Inecsldia:::txtsize
-Inecsldia:::txtsize --> Ipsioyidsin:::txtsize
-Ishesurknodhr:::txtsize --> Incendoyeeol:::txtsize
-Incendoyeeol:::txtsize --> Ipsioyidsin:::txtsize
-Incendoyeeol:::txtsize --> Iftnspaaacsds:::txtsize
-Saalssshisnhn:::txtsize --> Meekkrlntrr:::txtsize
-Meekkrlntrr:::txtsize --> Jersnrsedanoy:::txtsize
-Jersnrsedanoy:::txtsize --> AsreuyrwaiaSK:::txtsize
-Jersnrsedanoy:::txtsize --> Pnbiiirsrekefa:::txtsize
-Meekkrlntrr:::txtsize --> fldwnahC:::txtsize
-fldwnahC:::txtsize --> Pbasiiiasetn:::txtsize
-fldwnahC:::txtsize --> AsreuyrwaiaSK:::txtsize
+WYresemhiN:::txtsize --> Ttldeoaghondhrw:::txtsize
+Ttldeoaghondhrw:::txtsize --> Pfrygkiuregncr:::txtsize
+Pfrygkiuregncr:::txtsize --> Spnrrvekighrhrnpo:::txtsize
+Pfrygkiuregncr:::txtsize --> Fiieeoariamu:::txtsize
+Ttldeoaghondhrw:::txtsize --> Uroohagufwg:::txtsize
+Uroohagufwg:::txtsize --> UstHrnadsuji:::txtsize
+Uroohagufwg:::txtsize --> Felieoanaog:::txtsize
+WYresemhiN:::txtsize --> Hortlslwudlsoat:::txtsize
+Hortlslwudlsoat:::txtsize --> Horkotanrbec:::txtsize
+Horkotanrbec:::txtsize --> Hortlslwudlsoat:::txtsize
+Horkotanrbec:::txtsize --> Hortlslwudlsoat:::txtsize
+Hortlslwudlsoat:::txtsize --> Horhbeettig:::txtsize
+Horhbeettig:::txtsize --> Bagntillteca:::txtsize
+Horhbeettig:::txtsize --> SKsboorsrrece:::txtsize
 
-Ugmsptnee@{ shape: win-pane, label: "_Published Nov 27, 2025, 02:19 AM_
-Us judge dismisses trump election interference case" }
-TgosrSiDdp@{ shape: win-pane, label: "_Published Apr 15, 2024, 06:11 PM_
-The legal troubles of former us president donald trump" }
-Tsiunicfwitf@{ shape: win-pane, label: "_Published Apr 15, 2024, 09:07 PM_
-Trump’s criminal hush money trial kicks off in new york in historic first" }
-Frenmrvseebeia@{ shape: win-pane, label: "_Published Apr 04, 2023, 08:59 PM_
-Former us president trump charged over hush money scheme to boost 2016 election chances" }
-Tsdahncjsh@{ shape: win-pane, label: "_Published Mar 28, 2024, 10:00 AM_
-Trump spreads apparent hoax in attacking judge’s daughter" }
-TitehytnfUrefrar@{ shape: win-pane, label: "_Published Mar 31, 2023, 05:52 AM_
-Trump indicted over hush money paid to porn star, first us ex-president to face criminal charges" }
-Bdatrrclolmde@{ shape: win-pane, label: "_Published Mar 20, 2023, 10:07 AM_
-Behind the payoff to a porn star that could lead to donald trump’s indictment" }
-Ddpurrenphfl@{ shape: win-pane, label: "_Published Nov 16, 2022, 09:22 AM_
-Donald trump announces 2024 run for us president, jumping ahead of rivals" }
-Utelpclasanrtu@{ shape: win-pane, label: "_Published Jan 09, 2025, 12:34 AM_
-Us justice dept will not publicly release all of special counsel's report on trump" }
-Mvceimenmsrc@{ shape: win-pane, label: "_Published Oct 19, 2024, 12:13 AM_
-More evidence released in trump’s 2020 election attempted subversion case" }
-SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
-TpsutiStnm@{ shape: win-pane, label: "_Published Sep 05, 2024, 10:46 PM_
-Trump pleads not guilty to revised us 2020 election indictment" }
-LrunpmceUtemfas@{ shape: win-pane, label: "_Published Jan 07, 2025, 03:43 AM_
-Lead prosecutor on trump documents case leaves us justice department, official says" }
-TgosrSiDdp@{ shape: win-pane, label: "_Published Apr 15, 2024, 06:11 PM_
-The legal troubles of former us president donald trump" }
-SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
+Ttldeoaghondhrw@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+Two national guard members shot in washington; white house on lockdown while trump away" }
+Pfrygkiuregncr@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:35 AM_
+‘pried fingers away from gun’: wikipedia volunteers take down gunman at us conference" }
+Spnrrvekighrhrnpo@{ shape: win-pane, label: "_Published Aug 21, 2025, 03:15 PM_
+Singaporean robert sim receives one of wikipedia’s highest honours for his work on online platform" }
+SprCaosanzmotw@{ shape: win-pane, label: "_Published Jun 18, 2025, 08:14 PM_
+Singapore artist charmaine poh wins villa romana prize, germany’s oldest art award" }
+TorenwozhaBea@{ shape: win-pane, label: "_Published May 22, 2025, 10:30 PM_
+Tdcx founder laurent junique wins top prize at 40th singapore business awards" }
+Fiieeoariamu@{ shape: win-pane, label: "_Published Sep 29, 2025, 12:52 AM_
+Four killed, 8 injured after shooting and fire at michigan mormon church" }
+Cikerarsanccrs@{ shape: win-pane, label: "_Published Sep 22, 2025, 06:17 AM_
+Charlie kirk lauded at arizona memorial as galvanising force for conservatism" }
+Uistggoevsnohnp@{ shape: win-pane, label: "_Published Aug 29, 2025, 07:20 AM_
+Us officials sift through tangle of online grievances by minneapolis shooting suspect" }
+Uroohagufwg@{ shape: win-pane, label: "_Published Oct 21, 2025, 03:44 AM_
+Us supreme court to weigh law barring drug users from owning guns" }
+UstHrnadsuji@{ shape: win-pane, label: "_Published Jun 12, 2024, 12:15 AM_
+Us president’s son, hunter biden, lied about drug use to buy gun, jury finds" }
+JioTgyltuni@{ shape: win-pane, label: "_Published May 31, 2024, 05:18 AM_
+Jury finds donald trump guilty on all 34 counts at hush money trial" }
+Felieoanaog@{ shape: win-pane, label: "_Published Oct 12, 2025, 11:39 PM_
+Four dead, at least 20 injured in south carolina island shooting" }
+Mgutedvdgios@{ shape: win-pane, label: "_Published Sep 30, 2025, 10:40 AM_
+Michigan church attacker said to have held grudge against mormons" }
+Asdndrtaspii@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:58 PM_
+At least 1 dead and 3 injured after shootings at mississippi universities" }
 
-Ugmsptnee:::txtsize --> TgosrSiDdp:::txtsize
-TgosrSiDdp:::txtsize --> Tsiunicfwitf:::txtsize
-Tsiunicfwitf:::txtsize --> Frenmrvseebeia:::txtsize
-Tsiunicfwitf:::txtsize --> Tsdahncjsh:::txtsize
-TgosrSiDdp:::txtsize --> TitehytnfUrefrar:::txtsize
-TitehytnfUrefrar:::txtsize --> Bdatrrclolmde:::txtsize
-TitehytnfUrefrar:::txtsize --> Ddpurrenphfl:::txtsize
-Ugmsptnee:::txtsize --> Utelpclasanrtu:::txtsize
-Utelpclasanrtu:::txtsize --> Mvceimenmsrc:::txtsize
-Mvceimenmsrc:::txtsize --> SiUiinenWn:::txtsize
-Mvceimenmsrc:::txtsize --> TpsutiStnm:::txtsize
-Utelpclasanrtu:::txtsize --> LrunpmceUtemfas:::txtsize
-LrunpmceUtemfas:::txtsize --> TgosrSiDdp:::txtsize
-LrunpmceUtemfas:::txtsize --> SiUiinenWn:::txtsize
+Ttldeoaghondhrw:::txtsize --> Pfrygkiuregncr:::txtsize
+Pfrygkiuregncr:::txtsize --> Spnrrvekighrhrnpo:::txtsize
+Spnrrvekighrhrnpo:::txtsize --> SprCaosanzmotw:::txtsize
+Spnrrvekighrhrnpo:::txtsize --> TorenwozhaBea:::txtsize
+Pfrygkiuregncr:::txtsize --> Fiieeoariamu:::txtsize
+Fiieeoariamu:::txtsize --> Cikerarsanccrs:::txtsize
+Fiieeoariamu:::txtsize --> Uistggoevsnohnp:::txtsize
+Ttldeoaghondhrw:::txtsize --> Uroohagufwg:::txtsize
+Uroohagufwg:::txtsize --> UstHrnadsuji:::txtsize
+UstHrnadsuji:::txtsize --> JioTgyltuni:::txtsize
+Uroohagufwg:::txtsize --> Felieoanaog:::txtsize
+Felieoanaog:::txtsize --> Mgutedvdgios:::txtsize
+Felieoanaog:::txtsize --> Asdndrtaspii:::txtsize
 
-Eescavtta@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:51 AM_
-Eu chief vows to back ukraine ‘every step’ until peace" }
-Tsodirisohe@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:30 AM_
-Trump says no firm deadline for ukraine, russia to reach peace deal" }
-Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
-Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
-Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
-Us hails progress in ukraine peace talks but security questions unresolved" }
-URaptiDaspK@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:03 PM_
-Us and russia hold peace talks in abu dhabi as missiles pound kyiv" }
-Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
-Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
-Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
-Us hails progress in ukraine peace talks but security questions unresolved" }
-URaptiDaspK@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:03 PM_
-Us and russia hold peace talks in abu dhabi as missiles pound kyiv" }
-Eesamngessfraotd@{ shape: win-pane, label: "_Published Nov 26, 2025, 06:43 PM_
-Eu urgently seeks agreement on using frozen russian assets for ukraine, as us touts other ideas" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
-Explosions heard in ukraine capital kyiv, other cities" }
-OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
-Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
-Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
-Trump’s 28-point ukraine plan" }
-Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
-Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
-Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
-Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
+PggsnbaYirnniBbep@{ shape: win-pane, label: "_Published Nov 27, 2025, 03:13 AM_
+Pentagon suggests adding alibaba, baidu, byd to list for aiding china military, bloomberg news reports" }
+WHslaiimatt@{ shape: win-pane, label: "_Published Nov 15, 2025, 07:45 AM_
+White house says alibaba helping chinese military to target us: ft" }
+UrmsoafuT@{ shape: win-pane, label: "_Published Nov 14, 2025, 12:59 PM_
+Us approves $429m arms sale to taiwan, the first under trump" }
+Tsihiliealsen@{ shape: win-pane, label: "_Published Aug 16, 2025, 07:44 AM_
+Trump says xi told him china will not invade taiwan while he is us president" }
+XsioenneseuSK@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:36 AM_
+Xi says us, china ‘should be partners and friends’ as he meets trump in south korea" }
+Umwoimdagwh@{ shape: win-pane, label: "_Published Sep 23, 2025, 02:07 PM_
+Us lawmaker warns of military ‘misunderstanding’ risk with china" }
+Usutmikois@{ shape: win-pane, label: "_Published Sep 22, 2025, 07:59 AM_
+Us house group meets premier li as it kicks off china visit" }
+Piibefintl@{ shape: win-pane, label: "_Published Sep 23, 2025, 05:00 AM_
+Pacific policing becomes new front in china-west rivalry" }
+Cslhnrsrsfa@{ shape: win-pane, label: "_Published Nov 20, 2025, 07:28 PM_
+China’s civilian shadow navy practises for invasion of taiwan" }
+Csroawaelayam@{ shape: win-pane, label: "_Published Nov 20, 2025, 05:28 PM_
+China says trade cooperation with japan ‘severely damaged’ by taiwan comments" }
+JPaaddwmaCstm@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:44 PM_
+Japan pm sanae takaichi defends taiwan remarks after chinese criticism" }
+Jetsiankmeces@{ shape: win-pane, label: "_Published Jul 31, 2023, 12:47 PM_
+Japanese eateries in china fear ruin as fukushima water discharge looms" }
+Tnginndtwp@{ shape: win-pane, label: "_Published Nov 18, 2025, 10:02 PM_
+Taiwan charges chinese national and six others with spying" }
+Tnrgcischeo@{ shape: win-pane, label: "_Published Jan 13, 2025, 11:53 AM_
+Taiwan reports ‘significant rise’ in suspected chinese espionage" }
+Tniiceuien@{ shape: win-pane, label: "_Published Nov 18, 2025, 12:53 PM_
+Taiwan detains chinese citizen on suspicion of espionage" }
 
-Eescavtta:::txtsize --> Tsodirisohe:::txtsize
-Tsodirisohe:::txtsize --> Zsyaeonaalusdthp:::txtsize
-Zsyaeonaalusdthp:::txtsize --> Ulgiaeauuqinl:::txtsize
-Zsyaeonaalusdthp:::txtsize --> URaptiDaspK:::txtsize
-Tsodirisohe:::txtsize --> Zsyaeonaalusdthp:::txtsize
-Zsyaeonaalusdthp:::txtsize --> Ulgiaeauuqinl:::txtsize
-Zsyaeonaalusdthp:::txtsize --> URaptiDaspK:::txtsize
-Eescavtta:::txtsize --> Eesamngessfraotd:::txtsize
-Eesamngessfraotd:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
-DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
-Eesamngessfraotd:::txtsize --> Tstia:::txtsize
-Tstia:::txtsize --> Zsarskbdaosb:::txtsize
-Tstia:::txtsize --> Zsarskbdaosb:::txtsize
+PggsnbaYirnniBbep:::txtsize --> WHslaiimatt:::txtsize
+WHslaiimatt:::txtsize --> UrmsoafuT:::txtsize
+UrmsoafuT:::txtsize --> Tsihiliealsen:::txtsize
+UrmsoafuT:::txtsize --> XsioenneseuSK:::txtsize
+WHslaiimatt:::txtsize --> Umwoimdagwh:::txtsize
+Umwoimdagwh:::txtsize --> Usutmikois:::txtsize
+Umwoimdagwh:::txtsize --> Piibefintl:::txtsize
+PggsnbaYirnniBbep:::txtsize --> Cslhnrsrsfa:::txtsize
+Cslhnrsrsfa:::txtsize --> Csroawaelayam:::txtsize
+Csroawaelayam:::txtsize --> JPaaddwmaCstm:::txtsize
+Csroawaelayam:::txtsize --> Jetsiankmeces:::txtsize
+Cslhnrsrsfa:::txtsize --> Tnginndtwp:::txtsize
+Tnginndtwp:::txtsize --> Tnrgcischeo:::txtsize
+Tnginndtwp:::txtsize --> Tniiceuien:::txtsize
 
 ```
-<i>Last updated: 2025-11-27 04:00:26.899280 (GMT+8)</i>
+<i>Last updated: 2025-11-27 08:01:00.255589 (GMT+8)</i>
 <!-- END -->
