@@ -16,8 +16,58 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Unhscaarowei@{ shape: win-pane, label: "_Published Nov 27, 2025, 11:52 PM_
-Us plans to charge suspect in national guard shooting with terrorism" }
+Jnsitciszoiafwl@{ shape: win-pane, label: "_Published Nov 28, 2025, 03:42 AM_
+Jordan tells russia to stop recruiting its citizens for war in ukraine after two killed" }
+Crntehteoim@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:40 PM_
+Captured kenyan athlete says he was tricked into russian army" }
+Ksvitlfirike@{ shape: win-pane, label: "_Published Nov 13, 2025, 01:31 AM_
+Kenya says over 200 of its nationals are fighting for russia in ukraine war" }
+Unstfnmnoiggu@{ shape: win-pane, label: "_Published Nov 07, 2025, 10:50 PM_
+Ukraine says more than 1,400 africans from dozens of countries fighting for russia" }
+Unfoantgge@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:46 PM_
+Ukrainians flee southeastern front as fighting worsens" }
+RasicoUneotaechiu@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:33 PM_
+Russia rules out big concessions on ukraine, as leak shows witkoff advised moscow on handling trump" }
+TeWfisiavMww@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:23 PM_
+Trump envoy witkoff to discuss ukraine peace moves in moscow next week" }
+ToiegRaipuoorpp@{ shape: win-pane, label: "_Published Nov 23, 2025, 12:09 AM_
+Trump officials’ meeting with russian in miami spurs questions about ukraine peace plan" }
+Unstfnmnoiggu@{ shape: win-pane, label: "_Published Nov 07, 2025, 10:50 PM_
+Ukraine says more than 1,400 africans from dozens of countries fighting for russia" }
+Isteficupefirike@{ shape: win-pane, label: "_Published Mar 08, 2024, 05:51 PM_
+India says it busted trafficking racket duping people into fighting for russia in ukraine" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+InlUneeiosms@{ shape: win-pane, label: "_Published Mar 07, 2024, 11:56 PM_
+Indians killed in ukraine were forced to fight for russia, families say" }
+Raketfsoirggeskk@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:11 PM_
+Russia and ukraine says their forces are locked in fierce fighting in the ruins of pokrovsk" }
+EedgolranowuS@{ shape: win-pane, label: "_Published Nov 05, 2025, 12:33 AM_
+Europe could struggle to mobilise troops, arms in case of war with russia: study" }
+Unerpfsroaeks@{ shape: win-pane, label: "_Published Nov 04, 2025, 01:57 AM_
+Ukraine to set up arms export offices in berlin, copenhagen, zelensky says" }
+
+Jnsitciszoiafwl:::txtsize --> Crntehteoim:::txtsize
+Crntehteoim:::txtsize --> Ksvitlfirike:::txtsize
+Ksvitlfirike:::txtsize --> Unstfnmnoiggu:::txtsize
+Ksvitlfirike:::txtsize --> Unfoantgge:::txtsize
+Crntehteoim:::txtsize --> RasicoUneotaechiu:::txtsize
+RasicoUneotaechiu:::txtsize --> TeWfisiavMww:::txtsize
+RasicoUneotaechiu:::txtsize --> ToiegRaipuoorpp:::txtsize
+Jnsitciszoiafwl:::txtsize --> Unstfnmnoiggu:::txtsize
+Unstfnmnoiggu:::txtsize --> Isteficupefirike:::txtsize
+Isteficupefirike:::txtsize --> DsruasvUn:::txtsize
+Isteficupefirike:::txtsize --> InlUneeiosms:::txtsize
+Unstfnmnoiggu:::txtsize --> Raketfsoirggeskk:::txtsize
+Raketfsoirggeskk:::txtsize --> EedgolranowuS:::txtsize
+Raketfsoirggeskk:::txtsize --> Unerpfsroaeks:::txtsize
+
+MoirlovLe@{ shape: win-pane, label: "_Published Nov 28, 2025, 03:03 AM_
+Most non-eu visitors will pay 45% more to visit louvre from 2026" }
+
+
+PehtGddrartern@{ shape: win-pane, label: "_Published Nov 28, 2025, 02:03 AM_
+Pete hegseth visits uss gerald r. ford aircraft carrier in latin america region" }
 Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
 2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
 Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
@@ -32,119 +82,36 @@ Ipnsohehrmirgs@{ shape: win-pane, label: "_Published Nov 17, 2025, 04:50 PM_
 In pulpits and pews, catholic churches in the us urge compassion for immigrants" }
 PeieubnUhslit@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:25 PM_
 Pope leo’s critique of trump emboldens top us catholics to help immigrants" }
-Foosrdcaardnho@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:08 PM_
-Fbi probes motives in ‘targeted’ attack on national guard soldiers near white house" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
-Us stops processing afghan immigration requests after attack near white house" }
-Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
-Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
-Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
-Us stops processing afghan immigration requests after attack near white house" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Pfrygkiuregncr@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:35 AM_
-‘pried fingers away from gun’: wikipedia volunteers take down gunman at us conference" }
+Uddrngufialhe@{ shape: win-pane, label: "_Published Nov 14, 2025, 06:32 AM_
+Us conducted 20th strike on alleged drug trafficking boat earlier this week" }
+MRdsriUinkGi@{ shape: win-pane, label: "_Published Nov 13, 2025, 08:44 AM_
+Marco rubio dismisses criticism of us caribbean strikes at g-7 meeting" }
+UiaegonllTs@{ shape: win-pane, label: "_Published Oct 15, 2025, 04:50 AM_
+Us strike on alleged drug boat off venezuela kills six, trump says" }
+Nseldolrytc@{ shape: win-pane, label: "_Published Nov 07, 2025, 12:27 PM_
+New us strike on alleged drug boat kills three, says pentagon chief" }
+Uildcisiiig@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:20 PM_
+Us strikes alleged drug-carrying vessels in pacific, killing six" }
+Nseldolrytc@{ shape: win-pane, label: "_Published Nov 07, 2025, 12:27 PM_
+New us strike on alleged drug boat kills three, says pentagon chief" }
+Eirdyroersl@{ shape: win-pane, label: "_Published Oct 31, 2025, 06:16 PM_
+Explainer: are the deadly us strikes on alleged drug vessels legal?​" }
 
-Unhscaarowei:::txtsize --> Nnalsiydttteiu:::txtsize
+PehtGddrartern:::txtsize --> Nnalsiydttteiu:::txtsize
 Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
 Upcnhmteteaats:::txtsize --> Nnalsiydttteiu:::txtsize
 Upcnhmteteaats:::txtsize --> Pfrygkiuregncr:::txtsize
 Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
 Pespnaemipuit:::txtsize --> Ipnsohehrmirgs:::txtsize
 Pespnaemipuit:::txtsize --> PeieubnUhslit:::txtsize
-Unhscaarowei:::txtsize --> Foosrdcaardnho:::txtsize
-Foosrdcaardnho:::txtsize --> Nnalsiydttteiu:::txtsize
-Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
-Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
-Foosrdcaardnho:::txtsize --> Upcnhmteteaats:::txtsize
-Upcnhmteteaats:::txtsize --> Nnalsiydttteiu:::txtsize
-Upcnhmteteaats:::txtsize --> Pfrygkiuregncr:::txtsize
-
-Aaidtoeiis@{ shape: win-pane, label: "_Published Nov 27, 2025, 11:15 PM_
-Air france, airbus dispute pilot roles in rio-paris crash" }
-Fhtsrnrsen@{ shape: win-pane, label: "_Published Sep 29, 2025, 06:08 AM_
-French court opens new trial on af447 air disaster 16 years on" }
-Adaigeanitostnu@{ shape: win-pane, label: "_Published Sep 25, 2025, 06:38 PM_
-Air india crash: grieving father of captain says investigators insinuated son cut fuel" }
-Bgoeeiistms@{ shape: win-pane, label: "_Published Sep 18, 2025, 04:30 AM_
-Boeing and honeywell sued by air india crash victim families" }
-FiAdacddaftr@{ shape: win-pane, label: "_Published Aug 09, 2025, 11:40 AM_
-Families of air india crash victims demand release of flight recorders" }
-Flierecrhst@{ shape: win-pane, label: "_Published Sep 25, 2025, 09:35 AM_
-First lawsuit filed over plane-helicopter crash in washington" }
-Medfmaljltlaathoe@{ shape: win-pane, label: "_Published Jan 30, 2025, 11:14 AM_
-Many feared dead after american airlines jet, helicopter collide and crash into washington river" }
-Uycraagrahle@{ shape: win-pane, label: "_Published Aug 02, 2025, 09:40 AM_
-Us army helicopter in deadly washington crash had technical issues" }
-Nvouncrrar@{ shape: win-pane, label: "_Published Dec 08, 2022, 07:38 AM_
-No convictions sought in french court over 2009 rio-paris crash" }
-IelSjeseispcay@{ shape: win-pane, label: "_Published Nov 10, 2022, 03:24 PM_
-Indonesia blames 2021 sriwijaya jet crash on mechanical issues, pilot complacency" }
-Iepceoehtnd@{ shape: win-pane, label: "_Published Jan 09, 2021, 06:48 PM_
-Indonesian plane crashes into the sea with more than 60 on board" }
-IeoinswniAa@{ shape: win-pane, label: "_Published Nov 08, 2022, 10:41 PM_
-Indonesia to publish findings this week on 2021 sriwijaya air crash" }
-
-Aaidtoeiis:::txtsize --> Fhtsrnrsen:::txtsize
-Fhtsrnrsen:::txtsize --> Adaigeanitostnu:::txtsize
-Adaigeanitostnu:::txtsize --> Bgoeeiistms:::txtsize
-Adaigeanitostnu:::txtsize --> FiAdacddaftr:::txtsize
-Fhtsrnrsen:::txtsize --> Flierecrhst:::txtsize
-Flierecrhst:::txtsize --> Medfmaljltlaathoe:::txtsize
-Flierecrhst:::txtsize --> Uycraagrahle:::txtsize
-Aaidtoeiis:::txtsize --> Nvouncrrar:::txtsize
-Nvouncrrar:::txtsize --> IelSjeseispcay:::txtsize
-IelSjeseispcay:::txtsize --> Iepceoehtnd:::txtsize
-IelSjeseispcay:::txtsize --> IeoinswniAa:::txtsize
-
-FgeiotEiak@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:59 PM_
-Far-right swede jailed for plotting eurovision attack" }
-Hrrnengfgtc@{ shape: win-pane, label: "_Published Oct 31, 2025, 12:42 AM_
-Hate-crime trial in sweden shines light on far-right ‘fitness clubs’" }
-VncnisdiUilps@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:05 PM_
-Violence, racism, and nazi praise: the dark side of us political group chats" }
-Tsanitwrske@{ shape: win-pane, label: "_Published Oct 22, 2025, 12:25 PM_
-Trump special counsel pick withdraws over ‘nazi streak’ comments" }
-Tsanitwrske@{ shape: win-pane, label: "_Published Oct 22, 2025, 12:25 PM_
-Trump special counsel pick withdraws over ‘nazi streak’ comments" }
-FgePsrceiccs@{ shape: win-pane, label: "_Published Oct 30, 2025, 11:25 PM_
-Far-right freedom party suffers shock reversal in dutch elections" }
-Eogsrwtttah@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:31 AM_
-Exit poll suggests centrists win dutch vote, beating far right" }
-Cibelotaosfoyrie@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:25 AM_
-Centrist rob jetten could become netherlands’ youngest and first openly gay prime minister" }
-FgtsooPa@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:37 AM_
-Far-right puts its stamp on european parliament" }
-BsrlmPeUiapsr@{ shape: win-pane, label: "_Published Nov 21, 2025, 10:59 PM_
-British court jails former mep and reform uk politician for pro-russia bribes" }
-FrrocaGlgyoibhs@{ shape: win-pane, label: "_Published Sep 26, 2025, 09:28 PM_
-Former reform uk politician nathan gill  pleads guilty to pro-russia bribery charges" }
-Fedrhtftruon@{ shape: win-pane, label: "_Published Sep 26, 2025, 05:34 PM_
-Farage would win british election if held tomorrow, yougov poll finds" }
-Eescavtta@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:51 AM_
-Eu chief vows to back ukraine ‘every step’ until peace" }
-Tsodirisohe@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:30 AM_
-Trump says no firm deadline for ukraine, russia to reach peace deal" }
-Eesamngessfraotd@{ shape: win-pane, label: "_Published Nov 26, 2025, 06:43 PM_
-Eu urgently seeks agreement on using frozen russian assets for ukraine, as us touts other ideas" }
-
-FgeiotEiak:::txtsize --> Hrrnengfgtc:::txtsize
-Hrrnengfgtc:::txtsize --> VncnisdiUilps:::txtsize
-VncnisdiUilps:::txtsize --> Tsanitwrske:::txtsize
-VncnisdiUilps:::txtsize --> Tsanitwrske:::txtsize
-Hrrnengfgtc:::txtsize --> FgePsrceiccs:::txtsize
-FgePsrceiccs:::txtsize --> Eogsrwtttah:::txtsize
-FgePsrceiccs:::txtsize --> Cibelotaosfoyrie:::txtsize
-FgeiotEiak:::txtsize --> FgtsooPa:::txtsize
-FgtsooPa:::txtsize --> BsrlmPeUiapsr:::txtsize
-BsrlmPeUiapsr:::txtsize --> FrrocaGlgyoibhs:::txtsize
-BsrlmPeUiapsr:::txtsize --> Fedrhtftruon:::txtsize
-FgtsooPa:::txtsize --> Eescavtta:::txtsize
-Eescavtta:::txtsize --> Tsodirisohe:::txtsize
-Eescavtta:::txtsize --> Eesamngessfraotd:::txtsize
+PehtGddrartern:::txtsize --> Uddrngufialhe:::txtsize
+Uddrngufialhe:::txtsize --> MRdsriUinkGi:::txtsize
+MRdsriUinkGi:::txtsize --> UiaegonllTs:::txtsize
+MRdsriUinkGi:::txtsize --> Nseldolrytc:::txtsize
+Uddrngufialhe:::txtsize --> Uildcisiiig:::txtsize
+Uildcisiiig:::txtsize --> Nseldolrytc:::txtsize
+Uildcisiiig:::txtsize --> Eirdyroersl:::txtsize
 
 ```
-<i>Last updated: 2025-11-28 00:00:52.373470 (GMT+8)</i>
+<i>Last updated: 2025-11-28 04:00:22.280500 (GMT+8)</i>
 <!-- END -->
