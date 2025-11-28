@@ -16,144 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-FsihoiGsiotocmaama@{ shape: win-pane, label: "_Published Nov 28, 2025, 02:30 PM_
-For suspect in washington national guard shooting, a long path of conflict from afghanistan to america" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
-Us stops processing afghan immigration requests after attack near white house" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Pfrygkiuregncr@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:35 AM_
-‘pried fingers away from gun’: wikipedia volunteers take down gunman at us conference" }
-Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
-Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
-Ipnsohehrmirgs@{ shape: win-pane, label: "_Published Nov 17, 2025, 04:50 PM_
-In pulpits and pews, catholic churches in the us urge compassion for immigrants" }
-PeieubnUhslit@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:25 PM_
-Pope leo’s critique of trump emboldens top us catholics to help immigrants" }
-TsniGmrstogi@{ shape: win-pane, label: "_Published Nov 28, 2025, 09:30 AM_
-Trump says one national guard member in washington shooting has died" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
-Us stops processing afghan immigration requests after attack near white house" }
-Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
-Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
-Foosrdcaardnho@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:08 PM_
-Fbi probes motives in ‘targeted’ attack on national guard soldiers near white house" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
-Us stops processing afghan immigration requests after attack near white house" }
+Srtsiweainb@{ shape: win-pane, label: "_Published Nov 28, 2025, 06:43 PM_
+Spain reports first african swine fever cases since 1994 in wild boar" }
+SKistrswe@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:13 PM_
+South korea issues alert after 6th case of swine fever" }
+Tncrssf@{ shape: win-pane, label: "_Published Oct 23, 2025, 12:50 PM_
+Taiwan detects first cases of swine fever" }
+MssheaneoiirdAane@{ shape: win-pane, label: "_Published May 15, 2025, 10:08 AM_
+Malaysians switch to cheaper alternatives as pork prices hit 2-year high due to african swine fever" }
+FsSprhesoeuf@{ shape: win-pane, label: "_Published Oct 13, 2025, 05:00 AM_
+Flu cases in singapore are on the rise. here’s how to protect yourself" }
+Vairniweua@{ shape: win-pane, label: "_Published Aug 05, 2025, 12:55 PM_
+Vietnam facing worsening african swine fever outbreaks" }
+Vanopitaiweps@{ shape: win-pane, label: "_Published Jul 18, 2025, 12:01 PM_
+Vietnam warns of food supply disruptions as african swine fever spreads" }
+CsaanrAane@{ shape: win-pane, label: "_Published Mar 15, 2023, 05:23 PM_
+China's pig farms battle new surge in african swine fever" }
+Vanopitaiweps@{ shape: win-pane, label: "_Published Jul 18, 2025, 12:01 PM_
+Vietnam warns of food supply disruptions as african swine fever spreads" }
+Msoiuslsyciv@{ shape: win-pane, label: "_Published May 18, 2025, 11:00 AM_
+Malaysia’s pork prices surge as local farms hit by african swine fever" }
+MssheaneoiirdAane@{ shape: win-pane, label: "_Published May 15, 2025, 10:08 AM_
+Malaysians switch to cheaper alternatives as pork prices hit 2-year high due to african swine fever" }
+MssheaneoiirdAane@{ shape: win-pane, label: "_Published May 15, 2025, 10:08 AM_
+Malaysians switch to cheaper alternatives as pork prices hit 2-year high due to african swine fever" }
 
-FsihoiGsiotocmaama:::txtsize --> Nnalsiydttteiu:::txtsize
-Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
-Upcnhmteteaats:::txtsize --> Nnalsiydttteiu:::txtsize
-Upcnhmteteaats:::txtsize --> Pfrygkiuregncr:::txtsize
-Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
-Pespnaemipuit:::txtsize --> Ipnsohehrmirgs:::txtsize
-Pespnaemipuit:::txtsize --> PeieubnUhslit:::txtsize
-FsihoiGsiotocmaama:::txtsize --> TsniGmrstogi:::txtsize
-TsniGmrstogi:::txtsize --> Nnalsiydttteiu:::txtsize
-Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
-Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
-TsniGmrstogi:::txtsize --> Foosrdcaardnho:::txtsize
-Foosrdcaardnho:::txtsize --> Nnalsiydttteiu:::txtsize
-Foosrdcaardnho:::txtsize --> Upcnhmteteaats:::txtsize
+Srtsiweainb:::txtsize --> SKistrswe:::txtsize
+SKistrswe:::txtsize --> Tncrssf:::txtsize
+Tncrssf:::txtsize --> MssheaneoiirdAane:::txtsize
+Tncrssf:::txtsize --> FsSprhesoeuf:::txtsize
+SKistrswe:::txtsize --> Vairniweua:::txtsize
+Vairniweua:::txtsize --> Vanopitaiweps:::txtsize
+Vairniweua:::txtsize --> CsaanrAane:::txtsize
+Srtsiweainb:::txtsize --> Vanopitaiweps:::txtsize
+Vanopitaiweps:::txtsize --> Msoiuslsyciv:::txtsize
+Msoiuslsyciv:::txtsize --> MssheaneoiirdAane:::txtsize
+Msoiuslsyciv:::txtsize --> MssheaneoiirdAane:::txtsize
 
-Tuaarottiou@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:50 PM_
-Trump uses national guard shooting to cast suspicion on refugees" }
-TsniGmrstogi@{ shape: win-pane, label: "_Published Nov 28, 2025, 09:30 AM_
-Trump says one national guard member in washington shooting has died" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
-Us stops processing afghan immigration requests after attack near white house" }
-Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
-Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
-Foosrdcaardnho@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:08 PM_
-Fbi probes motives in ‘targeted’ attack on national guard soldiers near white house" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
-Us stops processing afghan immigration requests after attack near white house" }
-TvozrnTWcrfagt@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:11 PM_
-Trump vows to freeze migration from ‘third world countries’ after washington attack" }
-TsniGmrstogi@{ shape: win-pane, label: "_Published Nov 28, 2025, 09:30 AM_
-Trump says one national guard member in washington shooting has died" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Foosrdcaardnho@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:08 PM_
-Fbi probes motives in ‘targeted’ attack on national guard soldiers near white house" }
-Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
-Us stops processing afghan immigration requests after attack near white house" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Pfrygkiuregncr@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:35 AM_
-‘pried fingers away from gun’: wikipedia volunteers take down gunman at us conference" }
+Bieiylnhdh@{ shape: win-pane, label: "_Published Nov 28, 2025, 06:27 PM_
+Britain tries to fix frayed relations with world’s rich" }
+Ugamknoilialt@{ shape: win-pane, label: "_Published Nov 27, 2025, 06:00 PM_
+Uk budget plan calms markets and labour faithful, but will it appeal to voters?" }
+WrnnnomlevdiyLro@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:55 PM_
+With britain’s economy in the doldrums, will rachel reeves’ budget finally show labour can govern?" }
+Ktroreoiensnnsa@{ shape: win-pane, label: "_Published Jul 05, 2024, 12:05 PM_
+Keir starmer’s labour party sweeps to british election win as pm sunak concedes defeat" }
+Uoauaroeftf@{ shape: win-pane, label: "_Published Jun 13, 2024, 07:15 AM_
+Uk labour leader puts wealth creation at heart of election offer" }
+WrnnnomlevdiyLro@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:55 PM_
+With britain’s economy in the doldrums, will rachel reeves’ budget finally show labour can govern?" }
+Ktroreoiensnnsa@{ shape: win-pane, label: "_Published Jul 05, 2024, 12:05 PM_
+Keir starmer’s labour party sweeps to british election win as pm sunak concedes defeat" }
+Upmtzsstoei@{ shape: win-pane, label: "_Published Jul 05, 2024, 02:25 PM_
+Uk’s ex-prime minister liz truss loses seat to labour in election" }
+Uoauaroeftf@{ shape: win-pane, label: "_Published Jun 13, 2024, 07:15 AM_
+Uk labour leader puts wealth creation at heart of election offer" }
+Toshalaacfl@{ shape: win-pane, label: "_Published May 23, 2024, 12:20 AM_
+‘time to choose’: rishi sunak calls uk national election for july 4" }
+Unfoxacpred@{ shape: win-pane, label: "_Published Jun 11, 2024, 11:11 PM_
+Uk’s sunak offers more tax cuts as election polls refuse to budge" }
 
-Tuaarottiou:::txtsize --> TsniGmrstogi:::txtsize
-TsniGmrstogi:::txtsize --> Nnalsiydttteiu:::txtsize
-Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
-Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
-TsniGmrstogi:::txtsize --> Foosrdcaardnho:::txtsize
-Foosrdcaardnho:::txtsize --> Nnalsiydttteiu:::txtsize
-Foosrdcaardnho:::txtsize --> Upcnhmteteaats:::txtsize
-Tuaarottiou:::txtsize --> TvozrnTWcrfagt:::txtsize
-TvozrnTWcrfagt:::txtsize --> TsniGmrstogi:::txtsize
-TsniGmrstogi:::txtsize --> Nnalsiydttteiu:::txtsize
-TsniGmrstogi:::txtsize --> Foosrdcaardnho:::txtsize
-TvozrnTWcrfagt:::txtsize --> Upcnhmteteaats:::txtsize
-Upcnhmteteaats:::txtsize --> Nnalsiydttteiu:::txtsize
-Upcnhmteteaats:::txtsize --> Pfrygkiuregncr:::txtsize
+Bieiylnhdh:::txtsize --> Ugamknoilialt:::txtsize
+Ugamknoilialt:::txtsize --> WrnnnomlevdiyLro:::txtsize
+WrnnnomlevdiyLro:::txtsize --> Ktroreoiensnnsa:::txtsize
+WrnnnomlevdiyLro:::txtsize --> Uoauaroeftf:::txtsize
+Bieiylnhdh:::txtsize --> WrnnnomlevdiyLro:::txtsize
+WrnnnomlevdiyLro:::txtsize --> Ktroreoiensnnsa:::txtsize
+Ktroreoiensnnsa:::txtsize --> Upmtzsstoei:::txtsize
+WrnnnomlevdiyLro:::txtsize --> Uoauaroeftf:::txtsize
+Uoauaroeftf:::txtsize --> Toshalaacfl:::txtsize
+Uoauaroeftf:::txtsize --> Unfoxacpred:::txtsize
 
-TvozrnTWcrfagt@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:11 PM_
-Trump vows to freeze migration from ‘third world countries’ after washington attack" }
-TsniGmrstogi@{ shape: win-pane, label: "_Published Nov 28, 2025, 09:30 AM_
-Trump says one national guard member in washington shooting has died" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
-Us stops processing afghan immigration requests after attack near white house" }
-Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
-Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
-Foosrdcaardnho@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:08 PM_
-Fbi probes motives in ‘targeted’ attack on national guard soldiers near white house" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
-Us stops processing afghan immigration requests after attack near white house" }
-Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
-Us stops processing afghan immigration requests after attack near white house" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
-Us stops processing afghan immigration requests after attack near white house" }
-Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
-Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
-Pfrygkiuregncr@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:35 AM_
-‘pried fingers away from gun’: wikipedia volunteers take down gunman at us conference" }
-Spnrrvekighrhrnpo@{ shape: win-pane, label: "_Published Aug 21, 2025, 03:15 PM_
-Singaporean robert sim receives one of wikipedia’s highest honours for his work on online platform" }
-Fiieeoariamu@{ shape: win-pane, label: "_Published Sep 29, 2025, 12:52 AM_
-Four killed, 8 injured after shooting and fire at michigan mormon church" }
+Feheodtoai@{ shape: win-pane, label: "_Published Nov 28, 2025, 06:11 PM_
+France catches one of two in bed sheet prison break: minister" }
+Teteaosebshee@{ shape: win-pane, label: "_Published Nov 27, 2025, 06:58 PM_
+Two break out of french jail in ‘old-fashioned saw blades’, bed sheets escape" }
+Fhossgolmego@{ shape: win-pane, label: "_Published Jul 13, 2025, 08:29 PM_
+French prisoner escapes in luggage of fellow inmate leaving prison" }
+Onspiiaeqpsfa@{ shape: win-pane, label: "_Published Jun 03, 2025, 01:00 PM_
+Over 200 inmates escape pakistani jail after earthquake panic, says official" }
+Nljmeeaawegtc@{ shape: win-pane, label: "_Published May 21, 2025, 09:15 AM_
+New orleans jail employee arrested and charged with helping 10 inmates escape" }
+Nrtpnhnitn@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:16 PM_
+Nepal recaptures 200 prisoners, thousands still on the run" }
+Nsisekooranse@{ shape: win-pane, label: "_Published Sep 11, 2025, 07:52 PM_
+Nepal’s president says he’s seeking solution to crisis ‘as soon as possible’" }
+Nutiorslil@{ shape: win-pane, label: "_Published Sep 11, 2025, 11:10 AM_
+Nepal unrest: possible power brokers to fill political void" }
+Ftuteiviorotfs@{ shape: win-pane, label: "_Published Nov 25, 2025, 10:12 PM_
+Four other suspects arrested in louvre heist probe, paris prosecutor’s office says" }
+Fhcerpiviwtig@{ shape: win-pane, label: "_Published Oct 30, 2025, 03:20 PM_
+French police arrest more suspects in louvre heist, jewels still missing" }
+PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
+Paris’ louvre museum robbery: what jewels did the thieves steal?" }
+LesjsnrahRp@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:20 PM_
+Louvre transfers jewels to bank of france after heist, rtl reports" }
 
-TvozrnTWcrfagt:::txtsize --> TsniGmrstogi:::txtsize
-TsniGmrstogi:::txtsize --> Nnalsiydttteiu:::txtsize
-Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
-Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
-TsniGmrstogi:::txtsize --> Foosrdcaardnho:::txtsize
-Foosrdcaardnho:::txtsize --> Nnalsiydttteiu:::txtsize
-Foosrdcaardnho:::txtsize --> Upcnhmteteaats:::txtsize
-TvozrnTWcrfagt:::txtsize --> Upcnhmteteaats:::txtsize
-Upcnhmteteaats:::txtsize --> Nnalsiydttteiu:::txtsize
-Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
-Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
-Upcnhmteteaats:::txtsize --> Pfrygkiuregncr:::txtsize
-Pfrygkiuregncr:::txtsize --> Spnrrvekighrhrnpo:::txtsize
-Pfrygkiuregncr:::txtsize --> Fiieeoariamu:::txtsize
+Feheodtoai:::txtsize --> Teteaosebshee:::txtsize
+Teteaosebshee:::txtsize --> Fhossgolmego:::txtsize
+Fhossgolmego:::txtsize --> Onspiiaeqpsfa:::txtsize
+Fhossgolmego:::txtsize --> Nljmeeaawegtc:::txtsize
+Teteaosebshee:::txtsize --> Nrtpnhnitn:::txtsize
+Nrtpnhnitn:::txtsize --> Nsisekooranse:::txtsize
+Nrtpnhnitn:::txtsize --> Nutiorslil:::txtsize
+Feheodtoai:::txtsize --> Ftuteiviorotfs:::txtsize
+Ftuteiviorotfs:::txtsize --> Fhcerpiviwtig:::txtsize
+Fhcerpiviwtig:::txtsize --> PLeubhwitea:::txtsize
+Fhcerpiviwtig:::txtsize --> LesjsnrahRp:::txtsize
 
 ```
-<i>Last updated: 2025-11-28 16:00:45.916620 (GMT+8)</i>
+<i>Last updated: 2025-11-28 20:01:20.940906 (GMT+8)</i>
 <!-- END -->
