@@ -16,54 +16,8 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Prodjleeyceer@{ shape: win-pane, label: "_Published Nov 28, 2025, 11:00 AM_
-Pope, orthodox leader to jointly celebrate early church milestone in turkey" }
-Penocdrutivap@{ shape: win-pane, label: "_Published Nov 27, 2025, 09:18 AM_
-Pope leo warns of conflicts endangering humanity on first overseas trip" }
-Ilsomaanui@{ shape: win-pane, label: "_Published Nov 24, 2025, 01:17 AM_
-Israel kills hezbollah military leader in beirut strike" }
-Ilautpkanbh@{ shape: win-pane, label: "_Published Nov 23, 2025, 07:39 PM_
-Israel’s netanyahu vows to keep striking hamas and hezbollah" }
-Ilsndmoucfe@{ shape: win-pane, label: "_Published Nov 02, 2025, 04:31 PM_
-Israel urges lebanon to disarm hezbollah under ceasefire terms" }
-Peaastkbosrt@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:48 PM_
-Pope leo to take peace message to turkey, lebanon on first overseas trip" }
-Abbsciilto@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:55 PM_
-At tomb of lebanon’s miracle saint, faithful await the pope" }
-IkaoCtoi@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:53 PM_
-In turkey, a patchwork of christian communities" }
-Peaastkbosrt@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:48 PM_
-Pope leo to take peace message to turkey, lebanon on first overseas trip" }
-Abbsciilto@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:55 PM_
-At tomb of lebanon’s miracle saint, faithful await the pope" }
-PeduLoivap@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:00 PM_
-Pope leo heads to turkey, lebanon in first overseas trip" }
-PeduLoivap@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:00 PM_
-Pope leo heads to turkey, lebanon in first overseas trip" }
-IkaoCtoi@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:53 PM_
-In turkey, a patchwork of christian communities" }
-PeduLoivap@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:00 PM_
-Pope leo heads to turkey, lebanon in first overseas trip" }
-PeduLoivap@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:00 PM_
-Pope leo heads to turkey, lebanon in first overseas trip" }
-
-Prodjleeyceer:::txtsize --> Penocdrutivap:::txtsize
-Penocdrutivap:::txtsize --> Ilsomaanui:::txtsize
-Ilsomaanui:::txtsize --> Ilautpkanbh:::txtsize
-Ilsomaanui:::txtsize --> Ilsndmoucfe:::txtsize
-Penocdrutivap:::txtsize --> Peaastkbosrt:::txtsize
-Peaastkbosrt:::txtsize --> Abbsciilto:::txtsize
-Peaastkbosrt:::txtsize --> IkaoCtoi:::txtsize
-Prodjleeyceer:::txtsize --> Peaastkbosrt:::txtsize
-Peaastkbosrt:::txtsize --> Abbsciilto:::txtsize
-Abbsciilto:::txtsize --> PeduLoivap:::txtsize
-Abbsciilto:::txtsize --> PeduLoivap:::txtsize
-Peaastkbosrt:::txtsize --> IkaoCtoi:::txtsize
-IkaoCtoi:::txtsize --> PeduLoivap:::txtsize
-IkaoCtoi:::txtsize --> PeduLoivap:::txtsize
-
-TsniGmrstogi@{ shape: win-pane, label: "_Published Nov 28, 2025, 09:30 AM_
-Trump says one national guard member in washington shooting has died" }
+FsihoiGsiotocmaama@{ shape: win-pane, label: "_Published Nov 28, 2025, 02:30 PM_
+For suspect in washington national guard shooting, a long path of conflict from afghanistan to america" }
 Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
 2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
 Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
@@ -78,14 +32,60 @@ Ipnsohehrmirgs@{ shape: win-pane, label: "_Published Nov 17, 2025, 04:50 PM_
 In pulpits and pews, catholic churches in the us urge compassion for immigrants" }
 PeieubnUhslit@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:25 PM_
 Pope leo’s critique of trump emboldens top us catholics to help immigrants" }
-Foosrdcaardnho@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:08 PM_
-Fbi probes motives in ‘targeted’ attack on national guard soldiers near white house" }
+TsniGmrstogi@{ shape: win-pane, label: "_Published Nov 28, 2025, 09:30 AM_
+Trump says one national guard member in washington shooting has died" }
 Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
 2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
 Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
 Us stops processing afghan immigration requests after attack near white house" }
 Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
 Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
+Foosrdcaardnho@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:08 PM_
+Fbi probes motives in ‘targeted’ attack on national guard soldiers near white house" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
+Us stops processing afghan immigration requests after attack near white house" }
+
+FsihoiGsiotocmaama:::txtsize --> Nnalsiydttteiu:::txtsize
+Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
+Upcnhmteteaats:::txtsize --> Nnalsiydttteiu:::txtsize
+Upcnhmteteaats:::txtsize --> Pfrygkiuregncr:::txtsize
+Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
+Pespnaemipuit:::txtsize --> Ipnsohehrmirgs:::txtsize
+Pespnaemipuit:::txtsize --> PeieubnUhslit:::txtsize
+FsihoiGsiotocmaama:::txtsize --> TsniGmrstogi:::txtsize
+TsniGmrstogi:::txtsize --> Nnalsiydttteiu:::txtsize
+Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
+Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
+TsniGmrstogi:::txtsize --> Foosrdcaardnho:::txtsize
+Foosrdcaardnho:::txtsize --> Nnalsiydttteiu:::txtsize
+Foosrdcaardnho:::txtsize --> Upcnhmteteaats:::txtsize
+
+Tuaarottiou@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:50 PM_
+Trump uses national guard shooting to cast suspicion on refugees" }
+TsniGmrstogi@{ shape: win-pane, label: "_Published Nov 28, 2025, 09:30 AM_
+Trump says one national guard member in washington shooting has died" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
+Us stops processing afghan immigration requests after attack near white house" }
+Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
+Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
+Foosrdcaardnho@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:08 PM_
+Fbi probes motives in ‘targeted’ attack on national guard soldiers near white house" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
+Us stops processing afghan immigration requests after attack near white house" }
+TvozrnTWcrfagt@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:11 PM_
+Trump vows to freeze migration from ‘third world countries’ after washington attack" }
+TsniGmrstogi@{ shape: win-pane, label: "_Published Nov 28, 2025, 09:30 AM_
+Trump says one national guard member in washington shooting has died" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Foosrdcaardnho@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:08 PM_
+Fbi probes motives in ‘targeted’ attack on national guard soldiers near white house" }
 Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
 Us stops processing afghan immigration requests after attack near white house" }
 Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
@@ -93,61 +93,67 @@ Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
 Pfrygkiuregncr@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:35 AM_
 ‘pried fingers away from gun’: wikipedia volunteers take down gunman at us conference" }
 
+Tuaarottiou:::txtsize --> TsniGmrstogi:::txtsize
 TsniGmrstogi:::txtsize --> Nnalsiydttteiu:::txtsize
 Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
-Upcnhmteteaats:::txtsize --> Nnalsiydttteiu:::txtsize
-Upcnhmteteaats:::txtsize --> Pfrygkiuregncr:::txtsize
 Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
-Pespnaemipuit:::txtsize --> Ipnsohehrmirgs:::txtsize
-Pespnaemipuit:::txtsize --> PeieubnUhslit:::txtsize
 TsniGmrstogi:::txtsize --> Foosrdcaardnho:::txtsize
 Foosrdcaardnho:::txtsize --> Nnalsiydttteiu:::txtsize
-Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
-Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
 Foosrdcaardnho:::txtsize --> Upcnhmteteaats:::txtsize
+Tuaarottiou:::txtsize --> TvozrnTWcrfagt:::txtsize
+TvozrnTWcrfagt:::txtsize --> TsniGmrstogi:::txtsize
+TsniGmrstogi:::txtsize --> Nnalsiydttteiu:::txtsize
+TsniGmrstogi:::txtsize --> Foosrdcaardnho:::txtsize
+TvozrnTWcrfagt:::txtsize --> Upcnhmteteaats:::txtsize
 Upcnhmteteaats:::txtsize --> Nnalsiydttteiu:::txtsize
 Upcnhmteteaats:::txtsize --> Pfrygkiuregncr:::txtsize
 
-TsSsatgtzntisn@{ shape: win-pane, label: "_Published Nov 28, 2025, 08:38 AM_
-Trump says us will soon take action against venezuelan drug traffickers on land" }
-Uildcisiiig@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:20 PM_
-Us strikes alleged drug-carrying vessels in pacific, killing six" }
-Nseldolrytc@{ shape: win-pane, label: "_Published Nov 07, 2025, 12:27 PM_
-New us strike on alleged drug boat kills three, says pentagon chief" }
-Eirdyroersl@{ shape: win-pane, label: "_Published Oct 31, 2025, 06:16 PM_
-Explainer: are the deadly us strikes on alleged drug vessels legal?​" }
-Nselgufexeeov@{ shape: win-pane, label: "_Published Oct 29, 2025, 01:00 AM_
-New us strikes kill 14 alleged drug traffickers, mexico leads rescue of survivor" }
-VulClaaispbr@{ shape: win-pane, label: "_Published Oct 28, 2025, 01:03 PM_
-Venezuela claims cia ‘false flag’ attack foiled, as us deploys bombers" }
-UeoVugartipu@{ shape: win-pane, label: "_Published Nov 24, 2025, 10:38 PM_
-Us labels another venezuelan group as terrorist, ramping up pressure" }
-Taitrrwdaghe@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:17 AM_
-Trump administration orders review of biden-era refugees, shows memo" }
-TaitenuaicwSAa@{ shape: win-pane, label: "_Published Aug 15, 2025, 06:14 PM_
-Trump administration weighing refugee cap of 40,000 with focus on white south africans" }
-Usossyrocuienrs@{ shape: win-pane, label: "_Published Nov 24, 2025, 10:43 PM_
-Us ends temporary status for myanmar nationals, cites upcoming elections as ‘progress’" }
-Saeiannhlsnleag@{ shape: win-pane, label: "_Published Nov 23, 2025, 05:12 AM_
-Several international airlines cancel their flights in venezuela after us warning" }
-Ucceinaeiiburz@{ shape: win-pane, label: "_Published Nov 17, 2025, 03:14 AM_
-Us aircraft carrier arrives in the caribbean amid military build-up near venezuela" }
-Vuapiaaobiitloteb@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:47 AM_
-Venezuela says opposition leader machado will be ‘fugitive’ if she travels to norway to accept nobel" }
+TvozrnTWcrfagt@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:11 PM_
+Trump vows to freeze migration from ‘third world countries’ after washington attack" }
+TsniGmrstogi@{ shape: win-pane, label: "_Published Nov 28, 2025, 09:30 AM_
+Trump says one national guard member in washington shooting has died" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
+Us stops processing afghan immigration requests after attack near white house" }
+Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
+Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
+Foosrdcaardnho@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:08 PM_
+Fbi probes motives in ‘targeted’ attack on national guard soldiers near white house" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
+Us stops processing afghan immigration requests after attack near white house" }
+Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
+Us stops processing afghan immigration requests after attack near white house" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
+Us stops processing afghan immigration requests after attack near white house" }
+Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
+Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
+Pfrygkiuregncr@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:35 AM_
+‘pried fingers away from gun’: wikipedia volunteers take down gunman at us conference" }
+Spnrrvekighrhrnpo@{ shape: win-pane, label: "_Published Aug 21, 2025, 03:15 PM_
+Singaporean robert sim receives one of wikipedia’s highest honours for his work on online platform" }
+Fiieeoariamu@{ shape: win-pane, label: "_Published Sep 29, 2025, 12:52 AM_
+Four killed, 8 injured after shooting and fire at michigan mormon church" }
 
-TsSsatgtzntisn:::txtsize --> Uildcisiiig:::txtsize
-Uildcisiiig:::txtsize --> Nseldolrytc:::txtsize
-Uildcisiiig:::txtsize --> Eirdyroersl:::txtsize
-Eirdyroersl:::txtsize --> Nselgufexeeov:::txtsize
-Eirdyroersl:::txtsize --> VulClaaispbr:::txtsize
-TsSsatgtzntisn:::txtsize --> UeoVugartipu:::txtsize
-UeoVugartipu:::txtsize --> Taitrrwdaghe:::txtsize
-Taitrrwdaghe:::txtsize --> TaitenuaicwSAa:::txtsize
-Taitrrwdaghe:::txtsize --> Usossyrocuienrs:::txtsize
-UeoVugartipu:::txtsize --> Saeiannhlsnleag:::txtsize
-Saeiannhlsnleag:::txtsize --> Ucceinaeiiburz:::txtsize
-Saeiannhlsnleag:::txtsize --> Vuapiaaobiitloteb:::txtsize
+TvozrnTWcrfagt:::txtsize --> TsniGmrstogi:::txtsize
+TsniGmrstogi:::txtsize --> Nnalsiydttteiu:::txtsize
+Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
+Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
+TsniGmrstogi:::txtsize --> Foosrdcaardnho:::txtsize
+Foosrdcaardnho:::txtsize --> Nnalsiydttteiu:::txtsize
+Foosrdcaardnho:::txtsize --> Upcnhmteteaats:::txtsize
+TvozrnTWcrfagt:::txtsize --> Upcnhmteteaats:::txtsize
+Upcnhmteteaats:::txtsize --> Nnalsiydttteiu:::txtsize
+Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
+Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
+Upcnhmteteaats:::txtsize --> Pfrygkiuregncr:::txtsize
+Pfrygkiuregncr:::txtsize --> Spnrrvekighrhrnpo:::txtsize
+Pfrygkiuregncr:::txtsize --> Fiieeoariamu:::txtsize
 
 ```
-<i>Last updated: 2025-11-28 12:01:22.482385 (GMT+8)</i>
+<i>Last updated: 2025-11-28 16:00:45.916620 (GMT+8)</i>
 <!-- END -->
