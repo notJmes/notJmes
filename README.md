@@ -16,93 +16,102 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Dnkrnarttd@{ shape: win-pane, label: "_Published Nov 28, 2025, 11:20 PM_
-Driven by tiktok trends, new beauty brands target children" }
+Bgcsftuie@{ shape: win-pane, label: "_Published Nov 29, 2025, 03:44 AM_
+Bedbugs force closure of prestigious paris cinema" }
+Bgbiidiialc@{ shape: win-pane, label: "_Published Oct 04, 2023, 03:25 PM_
+Bedbugs are becoming a big headache in paris ahead of olympics" }
+Felsesdce@{ shape: win-pane, label: "_Published Oct 04, 2023, 09:00 AM_
+France to hold crisis meetings on bedbug ‘scourge’" }
+Fecapgtua@{ shape: win-pane, label: "_Published Sep 30, 2023, 03:52 PM_
+France launches battle plan against bedbug invasion" }
+Fecapgtua@{ shape: win-pane, label: "_Published Sep 30, 2023, 03:52 PM_
+France launches battle plan against bedbug invasion" }
+Fecapgtua@{ shape: win-pane, label: "_Published Sep 30, 2023, 03:52 PM_
+France launches battle plan against bedbug invasion" }
+Meenevesjas@{ shape: win-pane, label: "_Published Apr 16, 2023, 12:58 PM_
+Man died after being ‘eaten alive’ by bed bugs in us jail, family says" }
+MBieeaneoetce@{ shape: win-pane, label: "_Published Aug 14, 2023, 01:40 PM_
+Man in britain faces life-threatening allergy to red meat after tick bites" }
+Raimndsurnnr@{ shape: win-pane, label: "_Published Mar 02, 2024, 02:38 AM_
+Russian ‘disinformation’ hyped paris bedbug scare, french minister says" }
+Felsesdce@{ shape: win-pane, label: "_Published Oct 04, 2023, 09:00 AM_
+France to hold crisis meetings on bedbug ‘scourge’" }
+Fecapgtua@{ shape: win-pane, label: "_Published Sep 30, 2023, 03:52 PM_
+France launches battle plan against bedbug invasion" }
+Fecapgtua@{ shape: win-pane, label: "_Published Sep 30, 2023, 03:52 PM_
+France launches battle plan against bedbug invasion" }
+Unsinimnls@{ shape: win-pane, label: "_Published Feb 28, 2024, 01:25 AM_
+Ukraine says russia using disinformation to split west" }
+UnhstlsAvly@{ shape: win-pane, label: "_Published Feb 27, 2024, 11:02 PM_
+Ukraine withdraws from two villages near avdiivka, military says" }
+PdsueYtmuacUn@{ shape: win-pane, label: "_Published Feb 27, 2024, 07:22 AM_
+Poland warns us house speaker: you’re to blame if russia advances in ukraine" }
 
+Bgcsftuie:::txtsize --> Bgbiidiialc:::txtsize
+Bgbiidiialc:::txtsize --> Felsesdce:::txtsize
+Felsesdce:::txtsize --> Fecapgtua:::txtsize
+Felsesdce:::txtsize --> Fecapgtua:::txtsize
+Bgbiidiialc:::txtsize --> Fecapgtua:::txtsize
+Fecapgtua:::txtsize --> Meenevesjas:::txtsize
+Fecapgtua:::txtsize --> MBieeaneoetce:::txtsize
+Bgcsftuie:::txtsize --> Raimndsurnnr:::txtsize
+Raimndsurnnr:::txtsize --> Felsesdce:::txtsize
+Felsesdce:::txtsize --> Fecapgtua:::txtsize
+Felsesdce:::txtsize --> Fecapgtua:::txtsize
+Raimndsurnnr:::txtsize --> Unsinimnls:::txtsize
+Unsinimnls:::txtsize --> UnhstlsAvly:::txtsize
+Unsinimnls:::txtsize --> PdsueYtmuacUn:::txtsize
 
-GnsBurRae@{ shape: win-pane, label: "_Published Nov 28, 2025, 11:06 PM_
-Germany pressing belgium on frozen russian assets" }
-Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
-Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
-Eoufnisoker@{ shape: win-pane, label: "_Published Aug 31, 2025, 12:28 AM_
-Eu to work on using frozen russian assets to aid ukraine after war" }
-Unpsukrcyaleniin@{ shape: win-pane, label: "_Published Aug 30, 2025, 04:43 AM_
-Ukraine completes rescue work after attack on kyiv; death toll rises to 25, including 4 children" }
-Feawpuou@{ shape: win-pane, label: "_Published Aug 29, 2025, 10:53 PM_
-France, germany vow to up pressure on ‘ogre’ putin" }
-Rasptlfnttss@{ shape: win-pane, label: "_Published Sep 15, 2025, 04:05 PM_
-Russia warns europe that it will go after any state that takes its assets" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Tnainreumnvsr@{ shape: win-pane, label: "_Published Sep 12, 2025, 04:03 PM_
-Taiwan, china foreign ministers make unusual simultaneous visits to europe" }
-Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
-Belgium says eu states must share risk to use frozen russian assets for ukraine" }
-Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
-Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
-Eoufnisoker@{ shape: win-pane, label: "_Published Aug 31, 2025, 12:28 AM_
-Eu to work on using frozen russian assets to aid ukraine after war" }
-Rasptlfnttss@{ shape: win-pane, label: "_Published Sep 15, 2025, 04:05 PM_
-Russia warns europe that it will go after any state that takes its assets" }
-Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
-Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
-Eoufnisoker@{ shape: win-pane, label: "_Published Aug 31, 2025, 12:28 AM_
-Eu to work on using frozen russian assets to aid ukraine after war" }
-Rasptlfnttss@{ shape: win-pane, label: "_Published Sep 15, 2025, 04:05 PM_
-Russia warns europe that it will go after any state that takes its assets" }
+Feguutmfrsg@{ shape: win-pane, label: "_Published Nov 29, 2025, 03:15 AM_
+France charges fourth suspected member of louvre heist gang" }
+Coievitecjs@{ shape: win-pane, label: "_Published Oct 31, 2025, 07:06 PM_
+Count of paris urges louvre thieves to ‘give us back our jewels’" }
+Leteidlaerrsl@{ shape: win-pane, label: "_Published Oct 22, 2025, 02:52 AM_
+Louvre heist losses estimated at $133 million as museum director faces grilling" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
+Paris’ louvre museum robbery: what jewels did the thieves steal?" }
+PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
+Paris’ louvre museum robbery: what jewels did the thieves steal?" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
 
-GnsBurRae:::txtsize --> Elrgessfakeoau:::txtsize
-Elrgessfakeoau:::txtsize --> Eoufnisoker:::txtsize
-Eoufnisoker:::txtsize --> Unpsukrcyaleniin:::txtsize
-Eoufnisoker:::txtsize --> Feawpuou:::txtsize
-Elrgessfakeoau:::txtsize --> Rasptlfnttss:::txtsize
-Rasptlfnttss:::txtsize --> DsruasvUn:::txtsize
-Rasptlfnttss:::txtsize --> Tnainreumnvsr:::txtsize
-GnsBurRae:::txtsize --> Busauasszsaske:::txtsize
-Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
-Elrgessfakeoau:::txtsize --> Eoufnisoker:::txtsize
-Elrgessfakeoau:::txtsize --> Rasptlfnttss:::txtsize
-Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
-Elrgessfakeoau:::txtsize --> Eoufnisoker:::txtsize
-Elrgessfakeoau:::txtsize --> Rasptlfnttss:::txtsize
+Feguutmfrsg:::txtsize --> Coievitecjs:::txtsize
+Coievitecjs:::txtsize --> Leteidlaerrsl:::txtsize
+Leteidlaerrsl:::txtsize --> Ptineluiisey:::txtsize
+Leteidlaerrsl:::txtsize --> PLeubhwitea:::txtsize
+Coievitecjs:::txtsize --> PLeubhwitea:::txtsize
+PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
+PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
 
-Toalnlkcrnshs@{ shape: win-pane, label: "_Published Nov 28, 2025, 10:53 PM_
-Tattoo ink can kill immune cells, weaken vaccine response, research shows" }
-BlulkeohvaItss@{ shape: win-pane, label: "_Published Nov 27, 2025, 08:13 PM_
-Bird flu virus could risk pandemic worse than covid-19, france’s institut pasteur says" }
-Uoehblt@{ shape: win-pane, label: "_Published Nov 23, 2025, 04:44 PM_
-Us records second human bird flu death of 2025" }
-Liestfldi@{ shape: win-pane, label: "_Published Jan 07, 2025, 06:26 AM_
-Louisiana reports first bird flu-related death in us" }
-ZctfsttyafoeaoeEt@{ shape: win-pane, label: "_Published Nov 23, 2025, 12:00 PM_
-Zoo vaccination efforts don’t target every animal, but focus on rare, disease-prone species: experts" }
-Ssswehiuesemab@{ shape: win-pane, label: "_Published Nov 11, 2024, 05:00 AM_
-Study suggests new manner in which bird flu can be transmitted from migratory birds" }
-Wnsnodnaoslfrn@{ shape: win-pane, label: "_Published Jun 12, 2024, 09:12 AM_
-Who confirms human case of bird flu in india; 4-year-old hospitalised for three months" }
-NaeiunrpcdaiM@{ shape: win-pane, label: "_Published Jun 21, 2024, 01:15 PM_
-No human cases of bird flu in singapore but public urged to stay vigilant: moh" }
-TChniniolhl@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:00 AM_
-The us cdc’s shift on vaccines and autism should alarm the world" }
-Caslittaes@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:25 AM_
-Canada loses measles elimination status amid deadly surge" }
-Uspiwoey@{ shape: win-pane, label: "_Published Jul 08, 2025, 02:51 AM_
-Us measles epidemic its worst of 21st century" }
-Usaloevtde@{ shape: win-pane, label: "_Published Jul 09, 2025, 11:20 PM_
-Us measles cases climb to highest level in three decades" }
+Snwitai@{ shape: win-pane, label: "_Published Nov 29, 2025, 03:00 AM_
+Sweden runs war drill with royal family" }
+Snkexdooehe@{ shape: win-pane, label: "_Published Oct 22, 2025, 09:37 PM_
+Sweden and ukraine eye export deal for up to 150 gripen fighter jets" }
+UnefFoia@{ shape: win-pane, label: "_Published Aug 01, 2024, 06:14 AM_
+Ukraine receives first f-16 jets, officials say" }
+Zsyanwwuaoam@{ shape: win-pane, label: "_Published Aug 01, 2024, 12:29 AM_
+Zelensky says ukraine, and the world, want russia at second peace summit" }
+Caoiranidei@{ shape: win-pane, label: "_Published Jul 31, 2024, 10:33 PM_
+Czech army to receive german tanks in ukraine aid compensation" }
+Uosiuartdns@{ shape: win-pane, label: "_Published Sep 29, 2025, 07:10 PM_
+Us envoy says ukraine could be authorised to ‘hit deep’ into russia" }
+UsshieUnhpotnlse@{ shape: win-pane, label: "_Published Sep 29, 2025, 12:43 AM_
+Us considers tomahawk missiles for ukraine with trump set to make the final call, says vance" }
+BiuwKablke@{ shape: win-pane, label: "_Published Sep 24, 2025, 03:22 AM_
+‘big shift’: trump now says kyiv can win back ‘all of ukraine’" }
 
-Toalnlkcrnshs:::txtsize --> BlulkeohvaItss:::txtsize
-BlulkeohvaItss:::txtsize --> Uoehblt:::txtsize
-Uoehblt:::txtsize --> Liestfldi:::txtsize
-Uoehblt:::txtsize --> ZctfsttyafoeaoeEt:::txtsize
-BlulkeohvaItss:::txtsize --> Ssswehiuesemab:::txtsize
-Ssswehiuesemab:::txtsize --> Wnsnodnaoslfrn:::txtsize
-Ssswehiuesemab:::txtsize --> NaeiunrpcdaiM:::txtsize
-Toalnlkcrnshs:::txtsize --> TChniniolhl:::txtsize
-TChniniolhl:::txtsize --> Caslittaes:::txtsize
-Caslittaes:::txtsize --> Uspiwoey:::txtsize
-Caslittaes:::txtsize --> Usaloevtde:::txtsize
+Snwitai:::txtsize --> Snkexdooehe:::txtsize
+Snkexdooehe:::txtsize --> UnefFoia:::txtsize
+UnefFoia:::txtsize --> Zsyanwwuaoam:::txtsize
+UnefFoia:::txtsize --> Caoiranidei:::txtsize
+Snkexdooehe:::txtsize --> Uosiuartdns:::txtsize
+Uosiuartdns:::txtsize --> UsshieUnhpotnlse:::txtsize
+Uosiuartdns:::txtsize --> BiuwKablke:::txtsize
 
 ```
-<i>Last updated: 2025-11-29 00:00:42.955119 (GMT+8)</i>
+<i>Last updated: 2025-11-29 04:01:06.490398 (GMT+8)</i>
 <!-- END -->
