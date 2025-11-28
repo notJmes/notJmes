@@ -16,6 +16,40 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+WYresemhiN@{ shape: win-pane, label: "_Published Nov 28, 2025, 05:28 AM_
+While you were sleeping: 5 stories you might have missed, nov 28, 2025" }
+Hortlwcsmnztne@{ shape: win-pane, label: "_Published Nov 28, 2025, 05:04 AM_
+Hong kong fire death toll hits 94 with scores still missing; blaze mostly contained" }
+Aditngdtec@{ shape: win-pane, label: "_Published Nov 27, 2025, 07:30 PM_
+Around 280 missing after hong kong’s deadliest blaze in decades" }
+Cnnndngdrehn@{ shape: win-pane, label: "_Published Nov 27, 2025, 07:38 AM_
+‘couldn’t do anything’: deadly hong kong fire devours homes of thousands" }
+Psuwinsaea@{ shape: win-pane, label: "_Published Nov 27, 2025, 11:04 PM_
+Putin says russia will fight on unless ukraine cedes land" }
+Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
+Us peace plan for ukraine drew from russian document, sources say" }
+Tsodirisohe@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:30 AM_
+Trump says no firm deadline for ukraine, russia to reach peace deal" }
+UnlyorpfStd@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:08 AM_
+Ukraine’s zelensky welcomes ‘principles’ of new us draft to end war" }
+UnlyiRaitsuiKn@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:19 AM_
+Ukraine’s military dismisses russia’s claim that it has captured city of kupiansk" }
+Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
+Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
+RaewdwnerseiUnkk@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:19 AM_
+Russian video shows soldiers walking freely through southern ruins of ukraine’s pokrovsk" }
+
+WYresemhiN:::txtsize --> Hortlwcsmnztne:::txtsize
+Hortlwcsmnztne:::txtsize --> Aditngdtec:::txtsize
+Aditngdtec:::txtsize --> Cnnndngdrehn:::txtsize
+WYresemhiN:::txtsize --> Psuwinsaea:::txtsize
+Psuwinsaea:::txtsize --> Ucnkefunmos:::txtsize
+Ucnkefunmos:::txtsize --> Tsodirisohe:::txtsize
+Ucnkefunmos:::txtsize --> UnlyorpfStd:::txtsize
+Psuwinsaea:::txtsize --> UnlyiRaitsuiKn:::txtsize
+UnlyiRaitsuiKn:::txtsize --> Zsarskbdaosb:::txtsize
+UnlyiRaitsuiKn:::txtsize --> RaewdwnerseiUnkk:::txtsize
+
 Jnsitciszoiafwl@{ shape: win-pane, label: "_Published Nov 28, 2025, 03:42 AM_
 Jordan tells russia to stop recruiting its citizens for war in ukraine after two killed" }
 Crntehteoim@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:40 PM_
@@ -62,56 +96,52 @@ Unstfnmnoiggu:::txtsize --> Raketfsoirggeskk:::txtsize
 Raketfsoirggeskk:::txtsize --> EedgolranowuS:::txtsize
 Raketfsoirggeskk:::txtsize --> Unerpfsroaeks:::txtsize
 
-MoirlovLe@{ shape: win-pane, label: "_Published Nov 28, 2025, 03:03 AM_
-Most non-eu visitors will pay 45% more to visit louvre from 2026" }
+IlclPtnenarbrr@{ shape: win-pane, label: "_Published Nov 28, 2025, 03:38 AM_
+Israeli forces kill two palestinians in west bank who appeared to be surrendering" }
+Ilceiotnhen@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:38 PM_
+Israel launches new military operation in northern west bank" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
+Israel marks oct 7 anniversary as talks are held to end gaza war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Siecsyoafoenlnit@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:16 PM_
+S’pore imposes sanctions, entry bans on 4 israelis for violence against palestinians in west bank" }
+Sposgsionacsln@{ shape: win-pane, label: "_Published Sep 22, 2025, 03:23 PM_
+Singapore to impose targeted sanctions, condemns israel’s actions in palestine" }
+SpeeetnaiUoorGel@{ shape: win-pane, label: "_Published Nov 18, 2025, 02:00 PM_
+Singapore welcomes un security council’s adoption of us resolution on trump’s gaza peace plan" }
+IleeeidoseMtHrrr@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:41 PM_
+Israel has returned 15 palestinian bodies to gaza, says health ministry in hamas-run territory" }
+Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
+Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Pgoihfcfge@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:53 AM_
+Pm wong welcomes first phase of gaza ceasefire agreement" }
+GrrswrHvnrs@{ shape: win-pane, label: "_Published Nov 24, 2025, 08:22 PM_
+Gaza truce progress slow as israeli-hamas violence persists" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
 
-
-PehtGddrartern@{ shape: win-pane, label: "_Published Nov 28, 2025, 02:03 AM_
-Pete hegseth visits uss gerald r. ford aircraft carrier in latin america region" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
-Us stops processing afghan immigration requests after attack near white house" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Pfrygkiuregncr@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:35 AM_
-‘pried fingers away from gun’: wikipedia volunteers take down gunman at us conference" }
-Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
-Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
-Ipnsohehrmirgs@{ shape: win-pane, label: "_Published Nov 17, 2025, 04:50 PM_
-In pulpits and pews, catholic churches in the us urge compassion for immigrants" }
-PeieubnUhslit@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:25 PM_
-Pope leo’s critique of trump emboldens top us catholics to help immigrants" }
-Uddrngufialhe@{ shape: win-pane, label: "_Published Nov 14, 2025, 06:32 AM_
-Us conducted 20th strike on alleged drug trafficking boat earlier this week" }
-MRdsriUinkGi@{ shape: win-pane, label: "_Published Nov 13, 2025, 08:44 AM_
-Marco rubio dismisses criticism of us caribbean strikes at g-7 meeting" }
-UiaegonllTs@{ shape: win-pane, label: "_Published Oct 15, 2025, 04:50 AM_
-Us strike on alleged drug boat off venezuela kills six, trump says" }
-Nseldolrytc@{ shape: win-pane, label: "_Published Nov 07, 2025, 12:27 PM_
-New us strike on alleged drug boat kills three, says pentagon chief" }
-Uildcisiiig@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:20 PM_
-Us strikes alleged drug-carrying vessels in pacific, killing six" }
-Nseldolrytc@{ shape: win-pane, label: "_Published Nov 07, 2025, 12:27 PM_
-New us strike on alleged drug boat kills three, says pentagon chief" }
-Eirdyroersl@{ shape: win-pane, label: "_Published Oct 31, 2025, 06:16 PM_
-Explainer: are the deadly us strikes on alleged drug vessels legal?​" }
-
-PehtGddrartern:::txtsize --> Nnalsiydttteiu:::txtsize
-Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
-Upcnhmteteaats:::txtsize --> Nnalsiydttteiu:::txtsize
-Upcnhmteteaats:::txtsize --> Pfrygkiuregncr:::txtsize
-Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
-Pespnaemipuit:::txtsize --> Ipnsohehrmirgs:::txtsize
-Pespnaemipuit:::txtsize --> PeieubnUhslit:::txtsize
-PehtGddrartern:::txtsize --> Uddrngufialhe:::txtsize
-Uddrngufialhe:::txtsize --> MRdsriUinkGi:::txtsize
-MRdsriUinkGi:::txtsize --> UiaegonllTs:::txtsize
-MRdsriUinkGi:::txtsize --> Nseldolrytc:::txtsize
-Uddrngufialhe:::txtsize --> Uildcisiiig:::txtsize
-Uildcisiiig:::txtsize --> Nseldolrytc:::txtsize
-Uildcisiiig:::txtsize --> Eirdyroersl:::txtsize
+IlclPtnenarbrr:::txtsize --> Ilceiotnhen:::txtsize
+Ilceiotnhen:::txtsize --> TssHaossaaorslaoe:::txtsize
+TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
+TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
+Ilceiotnhen:::txtsize --> Siecsyoafoenlnit:::txtsize
+Siecsyoafoenlnit:::txtsize --> Sposgsionacsln:::txtsize
+Siecsyoafoenlnit:::txtsize --> SpeeetnaiUoorGel:::txtsize
+IlclPtnenarbrr:::txtsize --> IleeeidoseMtHrrr:::txtsize
+IleeeidoseMtHrrr:::txtsize --> Iliaeseoewa:::txtsize
+Iliaeseoewa:::txtsize --> TssHaossaaorslaoe:::txtsize
+Iliaeseoewa:::txtsize --> Pgoihfcfge:::txtsize
+IleeeidoseMtHrrr:::txtsize --> GrrswrHvnrs:::txtsize
+GrrswrHvnrs:::txtsize --> Tdrcaaededlncbs:::txtsize
+GrrswrHvnrs:::txtsize --> AtHfezerydatoGel:::txtsize
 
 ```
-<i>Last updated: 2025-11-28 04:00:22.280500 (GMT+8)</i>
+<i>Last updated: 2025-11-28 08:00:50.137779 (GMT+8)</i>
 <!-- END -->
