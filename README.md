@@ -16,114 +16,93 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Srtsiweainb@{ shape: win-pane, label: "_Published Nov 28, 2025, 06:43 PM_
-Spain reports first african swine fever cases since 1994 in wild boar" }
-SKistrswe@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:13 PM_
-South korea issues alert after 6th case of swine fever" }
-Tncrssf@{ shape: win-pane, label: "_Published Oct 23, 2025, 12:50 PM_
-Taiwan detects first cases of swine fever" }
-MssheaneoiirdAane@{ shape: win-pane, label: "_Published May 15, 2025, 10:08 AM_
-Malaysians switch to cheaper alternatives as pork prices hit 2-year high due to african swine fever" }
-FsSprhesoeuf@{ shape: win-pane, label: "_Published Oct 13, 2025, 05:00 AM_
-Flu cases in singapore are on the rise. here’s how to protect yourself" }
-Vairniweua@{ shape: win-pane, label: "_Published Aug 05, 2025, 12:55 PM_
-Vietnam facing worsening african swine fever outbreaks" }
-Vanopitaiweps@{ shape: win-pane, label: "_Published Jul 18, 2025, 12:01 PM_
-Vietnam warns of food supply disruptions as african swine fever spreads" }
-CsaanrAane@{ shape: win-pane, label: "_Published Mar 15, 2023, 05:23 PM_
-China's pig farms battle new surge in african swine fever" }
-Vanopitaiweps@{ shape: win-pane, label: "_Published Jul 18, 2025, 12:01 PM_
-Vietnam warns of food supply disruptions as african swine fever spreads" }
-Msoiuslsyciv@{ shape: win-pane, label: "_Published May 18, 2025, 11:00 AM_
-Malaysia’s pork prices surge as local farms hit by african swine fever" }
-MssheaneoiirdAane@{ shape: win-pane, label: "_Published May 15, 2025, 10:08 AM_
-Malaysians switch to cheaper alternatives as pork prices hit 2-year high due to african swine fever" }
-MssheaneoiirdAane@{ shape: win-pane, label: "_Published May 15, 2025, 10:08 AM_
-Malaysians switch to cheaper alternatives as pork prices hit 2-year high due to african swine fever" }
+Dnkrnarttd@{ shape: win-pane, label: "_Published Nov 28, 2025, 11:20 PM_
+Driven by tiktok trends, new beauty brands target children" }
 
-Srtsiweainb:::txtsize --> SKistrswe:::txtsize
-SKistrswe:::txtsize --> Tncrssf:::txtsize
-Tncrssf:::txtsize --> MssheaneoiirdAane:::txtsize
-Tncrssf:::txtsize --> FsSprhesoeuf:::txtsize
-SKistrswe:::txtsize --> Vairniweua:::txtsize
-Vairniweua:::txtsize --> Vanopitaiweps:::txtsize
-Vairniweua:::txtsize --> CsaanrAane:::txtsize
-Srtsiweainb:::txtsize --> Vanopitaiweps:::txtsize
-Vanopitaiweps:::txtsize --> Msoiuslsyciv:::txtsize
-Msoiuslsyciv:::txtsize --> MssheaneoiirdAane:::txtsize
-Msoiuslsyciv:::txtsize --> MssheaneoiirdAane:::txtsize
 
-Bieiylnhdh@{ shape: win-pane, label: "_Published Nov 28, 2025, 06:27 PM_
-Britain tries to fix frayed relations with world’s rich" }
-Ugamknoilialt@{ shape: win-pane, label: "_Published Nov 27, 2025, 06:00 PM_
-Uk budget plan calms markets and labour faithful, but will it appeal to voters?" }
-WrnnnomlevdiyLro@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:55 PM_
-With britain’s economy in the doldrums, will rachel reeves’ budget finally show labour can govern?" }
-Ktroreoiensnnsa@{ shape: win-pane, label: "_Published Jul 05, 2024, 12:05 PM_
-Keir starmer’s labour party sweeps to british election win as pm sunak concedes defeat" }
-Uoauaroeftf@{ shape: win-pane, label: "_Published Jun 13, 2024, 07:15 AM_
-Uk labour leader puts wealth creation at heart of election offer" }
-WrnnnomlevdiyLro@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:55 PM_
-With britain’s economy in the doldrums, will rachel reeves’ budget finally show labour can govern?" }
-Ktroreoiensnnsa@{ shape: win-pane, label: "_Published Jul 05, 2024, 12:05 PM_
-Keir starmer’s labour party sweeps to british election win as pm sunak concedes defeat" }
-Upmtzsstoei@{ shape: win-pane, label: "_Published Jul 05, 2024, 02:25 PM_
-Uk’s ex-prime minister liz truss loses seat to labour in election" }
-Uoauaroeftf@{ shape: win-pane, label: "_Published Jun 13, 2024, 07:15 AM_
-Uk labour leader puts wealth creation at heart of election offer" }
-Toshalaacfl@{ shape: win-pane, label: "_Published May 23, 2024, 12:20 AM_
-‘time to choose’: rishi sunak calls uk national election for july 4" }
-Unfoxacpred@{ shape: win-pane, label: "_Published Jun 11, 2024, 11:11 PM_
-Uk’s sunak offers more tax cuts as election polls refuse to budge" }
+GnsBurRae@{ shape: win-pane, label: "_Published Nov 28, 2025, 11:06 PM_
+Germany pressing belgium on frozen russian assets" }
+Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
+Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
+Eoufnisoker@{ shape: win-pane, label: "_Published Aug 31, 2025, 12:28 AM_
+Eu to work on using frozen russian assets to aid ukraine after war" }
+Unpsukrcyaleniin@{ shape: win-pane, label: "_Published Aug 30, 2025, 04:43 AM_
+Ukraine completes rescue work after attack on kyiv; death toll rises to 25, including 4 children" }
+Feawpuou@{ shape: win-pane, label: "_Published Aug 29, 2025, 10:53 PM_
+France, germany vow to up pressure on ‘ogre’ putin" }
+Rasptlfnttss@{ shape: win-pane, label: "_Published Sep 15, 2025, 04:05 PM_
+Russia warns europe that it will go after any state that takes its assets" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Tnainreumnvsr@{ shape: win-pane, label: "_Published Sep 12, 2025, 04:03 PM_
+Taiwan, china foreign ministers make unusual simultaneous visits to europe" }
+Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
+Belgium says eu states must share risk to use frozen russian assets for ukraine" }
+Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
+Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
+Eoufnisoker@{ shape: win-pane, label: "_Published Aug 31, 2025, 12:28 AM_
+Eu to work on using frozen russian assets to aid ukraine after war" }
+Rasptlfnttss@{ shape: win-pane, label: "_Published Sep 15, 2025, 04:05 PM_
+Russia warns europe that it will go after any state that takes its assets" }
+Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
+Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
+Eoufnisoker@{ shape: win-pane, label: "_Published Aug 31, 2025, 12:28 AM_
+Eu to work on using frozen russian assets to aid ukraine after war" }
+Rasptlfnttss@{ shape: win-pane, label: "_Published Sep 15, 2025, 04:05 PM_
+Russia warns europe that it will go after any state that takes its assets" }
 
-Bieiylnhdh:::txtsize --> Ugamknoilialt:::txtsize
-Ugamknoilialt:::txtsize --> WrnnnomlevdiyLro:::txtsize
-WrnnnomlevdiyLro:::txtsize --> Ktroreoiensnnsa:::txtsize
-WrnnnomlevdiyLro:::txtsize --> Uoauaroeftf:::txtsize
-Bieiylnhdh:::txtsize --> WrnnnomlevdiyLro:::txtsize
-WrnnnomlevdiyLro:::txtsize --> Ktroreoiensnnsa:::txtsize
-Ktroreoiensnnsa:::txtsize --> Upmtzsstoei:::txtsize
-WrnnnomlevdiyLro:::txtsize --> Uoauaroeftf:::txtsize
-Uoauaroeftf:::txtsize --> Toshalaacfl:::txtsize
-Uoauaroeftf:::txtsize --> Unfoxacpred:::txtsize
+GnsBurRae:::txtsize --> Elrgessfakeoau:::txtsize
+Elrgessfakeoau:::txtsize --> Eoufnisoker:::txtsize
+Eoufnisoker:::txtsize --> Unpsukrcyaleniin:::txtsize
+Eoufnisoker:::txtsize --> Feawpuou:::txtsize
+Elrgessfakeoau:::txtsize --> Rasptlfnttss:::txtsize
+Rasptlfnttss:::txtsize --> DsruasvUn:::txtsize
+Rasptlfnttss:::txtsize --> Tnainreumnvsr:::txtsize
+GnsBurRae:::txtsize --> Busauasszsaske:::txtsize
+Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
+Elrgessfakeoau:::txtsize --> Eoufnisoker:::txtsize
+Elrgessfakeoau:::txtsize --> Rasptlfnttss:::txtsize
+Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
+Elrgessfakeoau:::txtsize --> Eoufnisoker:::txtsize
+Elrgessfakeoau:::txtsize --> Rasptlfnttss:::txtsize
 
-Feheodtoai@{ shape: win-pane, label: "_Published Nov 28, 2025, 06:11 PM_
-France catches one of two in bed sheet prison break: minister" }
-Teteaosebshee@{ shape: win-pane, label: "_Published Nov 27, 2025, 06:58 PM_
-Two break out of french jail in ‘old-fashioned saw blades’, bed sheets escape" }
-Fhossgolmego@{ shape: win-pane, label: "_Published Jul 13, 2025, 08:29 PM_
-French prisoner escapes in luggage of fellow inmate leaving prison" }
-Onspiiaeqpsfa@{ shape: win-pane, label: "_Published Jun 03, 2025, 01:00 PM_
-Over 200 inmates escape pakistani jail after earthquake panic, says official" }
-Nljmeeaawegtc@{ shape: win-pane, label: "_Published May 21, 2025, 09:15 AM_
-New orleans jail employee arrested and charged with helping 10 inmates escape" }
-Nrtpnhnitn@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:16 PM_
-Nepal recaptures 200 prisoners, thousands still on the run" }
-Nsisekooranse@{ shape: win-pane, label: "_Published Sep 11, 2025, 07:52 PM_
-Nepal’s president says he’s seeking solution to crisis ‘as soon as possible’" }
-Nutiorslil@{ shape: win-pane, label: "_Published Sep 11, 2025, 11:10 AM_
-Nepal unrest: possible power brokers to fill political void" }
-Ftuteiviorotfs@{ shape: win-pane, label: "_Published Nov 25, 2025, 10:12 PM_
-Four other suspects arrested in louvre heist probe, paris prosecutor’s office says" }
-Fhcerpiviwtig@{ shape: win-pane, label: "_Published Oct 30, 2025, 03:20 PM_
-French police arrest more suspects in louvre heist, jewels still missing" }
-PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
-Paris’ louvre museum robbery: what jewels did the thieves steal?" }
-LesjsnrahRp@{ shape: win-pane, label: "_Published Oct 25, 2025, 07:20 PM_
-Louvre transfers jewels to bank of france after heist, rtl reports" }
+Toalnlkcrnshs@{ shape: win-pane, label: "_Published Nov 28, 2025, 10:53 PM_
+Tattoo ink can kill immune cells, weaken vaccine response, research shows" }
+BlulkeohvaItss@{ shape: win-pane, label: "_Published Nov 27, 2025, 08:13 PM_
+Bird flu virus could risk pandemic worse than covid-19, france’s institut pasteur says" }
+Uoehblt@{ shape: win-pane, label: "_Published Nov 23, 2025, 04:44 PM_
+Us records second human bird flu death of 2025" }
+Liestfldi@{ shape: win-pane, label: "_Published Jan 07, 2025, 06:26 AM_
+Louisiana reports first bird flu-related death in us" }
+ZctfsttyafoeaoeEt@{ shape: win-pane, label: "_Published Nov 23, 2025, 12:00 PM_
+Zoo vaccination efforts don’t target every animal, but focus on rare, disease-prone species: experts" }
+Ssswehiuesemab@{ shape: win-pane, label: "_Published Nov 11, 2024, 05:00 AM_
+Study suggests new manner in which bird flu can be transmitted from migratory birds" }
+Wnsnodnaoslfrn@{ shape: win-pane, label: "_Published Jun 12, 2024, 09:12 AM_
+Who confirms human case of bird flu in india; 4-year-old hospitalised for three months" }
+NaeiunrpcdaiM@{ shape: win-pane, label: "_Published Jun 21, 2024, 01:15 PM_
+No human cases of bird flu in singapore but public urged to stay vigilant: moh" }
+TChniniolhl@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:00 AM_
+The us cdc’s shift on vaccines and autism should alarm the world" }
+Caslittaes@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:25 AM_
+Canada loses measles elimination status amid deadly surge" }
+Uspiwoey@{ shape: win-pane, label: "_Published Jul 08, 2025, 02:51 AM_
+Us measles epidemic its worst of 21st century" }
+Usaloevtde@{ shape: win-pane, label: "_Published Jul 09, 2025, 11:20 PM_
+Us measles cases climb to highest level in three decades" }
 
-Feheodtoai:::txtsize --> Teteaosebshee:::txtsize
-Teteaosebshee:::txtsize --> Fhossgolmego:::txtsize
-Fhossgolmego:::txtsize --> Onspiiaeqpsfa:::txtsize
-Fhossgolmego:::txtsize --> Nljmeeaawegtc:::txtsize
-Teteaosebshee:::txtsize --> Nrtpnhnitn:::txtsize
-Nrtpnhnitn:::txtsize --> Nsisekooranse:::txtsize
-Nrtpnhnitn:::txtsize --> Nutiorslil:::txtsize
-Feheodtoai:::txtsize --> Ftuteiviorotfs:::txtsize
-Ftuteiviorotfs:::txtsize --> Fhcerpiviwtig:::txtsize
-Fhcerpiviwtig:::txtsize --> PLeubhwitea:::txtsize
-Fhcerpiviwtig:::txtsize --> LesjsnrahRp:::txtsize
+Toalnlkcrnshs:::txtsize --> BlulkeohvaItss:::txtsize
+BlulkeohvaItss:::txtsize --> Uoehblt:::txtsize
+Uoehblt:::txtsize --> Liestfldi:::txtsize
+Uoehblt:::txtsize --> ZctfsttyafoeaoeEt:::txtsize
+BlulkeohvaItss:::txtsize --> Ssswehiuesemab:::txtsize
+Ssswehiuesemab:::txtsize --> Wnsnodnaoslfrn:::txtsize
+Ssswehiuesemab:::txtsize --> NaeiunrpcdaiM:::txtsize
+Toalnlkcrnshs:::txtsize --> TChniniolhl:::txtsize
+TChniniolhl:::txtsize --> Caslittaes:::txtsize
+Caslittaes:::txtsize --> Uspiwoey:::txtsize
+Caslittaes:::txtsize --> Usaloevtde:::txtsize
 
 ```
-<i>Last updated: 2025-11-28 20:01:20.940906 (GMT+8)</i>
+<i>Last updated: 2025-11-29 00:00:42.955119 (GMT+8)</i>
 <!-- END -->
