@@ -16,135 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Hlroojsienbv@{ shape: win-pane, label: "_Published Nov 29, 2025, 07:50 PM_
-Hezbollah urges pope leo to reject israeli ‘aggression’ on lebanon visit" }
-Petdsinensgvn@{ shape: win-pane, label: "_Published Nov 28, 2025, 02:58 PM_
-Pope leo meets middle east christian leaders, condemns religious violence" }
-Penocdrutivap@{ shape: win-pane, label: "_Published Nov 27, 2025, 09:18 AM_
-Pope leo warns of conflicts endangering humanity on first overseas trip" }
-Ilsomaanui@{ shape: win-pane, label: "_Published Nov 24, 2025, 01:17 AM_
-Israel kills hezbollah military leader in beirut strike" }
-Peaastkbosrt@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:48 PM_
-Pope leo to take peace message to turkey, lebanon on first overseas trip" }
-Penocdrutivap@{ shape: win-pane, label: "_Published Nov 27, 2025, 09:18 AM_
-Pope leo warns of conflicts endangering humanity on first overseas trip" }
-Ilsomaanui@{ shape: win-pane, label: "_Published Nov 24, 2025, 01:17 AM_
-Israel kills hezbollah military leader in beirut strike" }
-Peaastkbosrt@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:48 PM_
-Pope leo to take peace message to turkey, lebanon on first overseas trip" }
-PiIbls@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:00 PM_
-Pope visits istanbul’s blue mosque" }
-Ptllhnhdm@{ shape: win-pane, label: "_Published Nov 29, 2025, 10:52 AM_
-Papal travels reflect changing catholic diplomacy" }
-Peaastkbosrt@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:48 PM_
-Pope leo to take peace message to turkey, lebanon on first overseas trip" }
-Ikpkoaihiv@{ shape: win-pane, label: "_Published Nov 29, 2025, 10:46 AM_
-In turkey, pope seeks to soothe an ancient christian divide" }
-Ikpkoaihiv@{ shape: win-pane, label: "_Published Nov 29, 2025, 10:46 AM_
-In turkey, pope seeks to soothe an ancient christian divide" }
-Penocdrutivap@{ shape: win-pane, label: "_Published Nov 27, 2025, 09:18 AM_
-Pope leo warns of conflicts endangering humanity on first overseas trip" }
+Dtrzssselld@{ shape: win-pane, label: "_Published Nov 29, 2025, 11:27 PM_
+Death toll from gaza war surpasses 70,000, as ceasefire largely holds" }
+Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
+Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
+Israel marks oct 7 anniversary as talks are held to end gaza war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Pgoihfcfge@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:53 AM_
+Pm wong welcomes first phase of gaza ceasefire agreement" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+SpeeamaeihfptGoc@{ shape: win-pane, label: "_Published Oct 09, 2025, 11:04 PM_
+Singapore welcomes israel-hamas deal to begin first phase of trump plan to end gaza conflict: mfa" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
 
-Hlroojsienbv:::txtsize --> Petdsinensgvn:::txtsize
-Petdsinensgvn:::txtsize --> Penocdrutivap:::txtsize
-Penocdrutivap:::txtsize --> Ilsomaanui:::txtsize
-Penocdrutivap:::txtsize --> Peaastkbosrt:::txtsize
-Petdsinensgvn:::txtsize --> Penocdrutivap:::txtsize
-Penocdrutivap:::txtsize --> Ilsomaanui:::txtsize
-Penocdrutivap:::txtsize --> Peaastkbosrt:::txtsize
-Hlroojsienbv:::txtsize --> PiIbls:::txtsize
-PiIbls:::txtsize --> Ptllhnhdm:::txtsize
-Ptllhnhdm:::txtsize --> Peaastkbosrt:::txtsize
-Ptllhnhdm:::txtsize --> Ikpkoaihiv:::txtsize
-PiIbls:::txtsize --> Ikpkoaihiv:::txtsize
-Ikpkoaihiv:::txtsize --> Penocdrutivap:::txtsize
+Dtrzssselld:::txtsize --> Iliaeseoewa:::txtsize
+Iliaeseoewa:::txtsize --> TssHaossaaorslaoe:::txtsize
+TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
+TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
+Iliaeseoewa:::txtsize --> Pgoihfcfge:::txtsize
+Pgoihfcfge:::txtsize --> TssHaossaaorslaoe:::txtsize
+Pgoihfcfge:::txtsize --> SpeeamaeihfptGoc:::txtsize
+Dtrzssselld:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
 
-Zsyangnsors@{ shape: win-pane, label: "_Published Nov 29, 2025, 07:38 PM_
-Zelensky says ukrainian delegation on its way to us for talks" }
-Rptpmneerius@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:39 AM_
-Rubio plans to skip nato meeting at key moment for ukraine, sources say" }
-Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
-Us peace plan for ukraine drew from russian document, sources say" }
-Tsodirisohe@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:30 AM_
-Trump says no firm deadline for ukraine, russia to reach peace deal" }
-UnlyorpfStd@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:08 AM_
-Ukraine’s zelensky welcomes ‘principles’ of new us draft to end war" }
-ToiegRaipuoorpp@{ shape: win-pane, label: "_Published Nov 23, 2025, 12:09 AM_
-Trump officials’ meeting with russian in miami spurs questions about ukraine peace plan" }
-Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
-Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
-Zsaaaercpp@{ shape: win-pane, label: "_Published Nov 28, 2025, 08:24 PM_
-Zelensky’s ‘man for all seasons’ ensnared in corruption probe" }
-Unitcehfncof@{ shape: win-pane, label: "_Published Nov 28, 2025, 04:19 PM_
-Ukraine anti-graft officers search home of zelensky’s chief of staff" }
-Unlydhffacir@{ shape: win-pane, label: "_Published Nov 21, 2025, 05:26 PM_
-Ukraine’s zelensky stands by chief of staff as graft accusations grow" }
-Psuwinsaea@{ shape: win-pane, label: "_Published Nov 27, 2025, 11:04 PM_
-Putin says russia will fight on unless ukraine cedes land" }
-Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
-Us peace plan for ukraine drew from russian document, sources say" }
-UnlyiRaitsuiKn@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:19 AM_
-Ukraine’s military dismisses russia’s claim that it has captured city of kupiansk" }
+Mvehicedbh@{ shape: win-pane, label: "_Published Nov 29, 2025, 11:21 PM_
+Moldova briefly shuts airspace after new drone breach" }
+Vunnakrkasenz@{ shape: win-pane, label: "_Published Nov 29, 2025, 03:39 PM_
+Vast russian overnight attack on ukraine kills at least three, wounds dozens" }
+HRaewcuatt@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:05 AM_
+How us-russia peace plan would carve up ukraine’s territory" }
+UKisrlerr@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:43 PM_
+Us and kyiv discuss reworked plan to end war in ukraine" }
+Unlystsippposehp@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:42 AM_
+Ukraine’s zelensky says sensitive issues in proposed peace plan to be discussed with trump" }
+HRaewcuatt@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:05 AM_
+How us-russia peace plan would carve up ukraine’s territory" }
+UKisrlerr@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:43 PM_
+Us and kyiv discuss reworked plan to end war in ukraine" }
+Unlystsippposehp@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:42 AM_
+Ukraine’s zelensky says sensitive issues in proposed peace plan to be discussed with trump" }
+MvpRanmnvatc@{ shape: win-pane, label: "_Published Nov 27, 2025, 12:15 AM_
+Moldova displays russian drone, summons envoy over ‘unacceptable’ crash" }
+Mvolairerntt@{ shape: win-pane, label: "_Published Sep 29, 2025, 06:28 AM_
+Moldova’s pro-eu ruling party wins surprise majority in pivotal vote" }
+Mvsupfeen@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:38 PM_
+Moldova bars pro-russia party from sept 28 election" }
+RaleiMvpeE@{ shape: win-pane, label: "_Published Sep 25, 2025, 11:51 PM_
+Russia ‘deeply interfering’ in moldova’s sept 28 vote, says eu" }
+RaleiMvpeE@{ shape: win-pane, label: "_Published Sep 25, 2025, 11:51 PM_
+Russia ‘deeply interfering’ in moldova’s sept 28 vote, says eu" }
+LreycawoMvaRa@{ shape: win-pane, label: "_Published Aug 28, 2025, 12:30 AM_
+Leaders of germany, france, poland vow ‘support’ to moldova in face of russia" }
+MvepaaenEak@{ shape: win-pane, label: "_Published Sep 25, 2025, 08:52 PM_
+Moldova faces key parliamentary election, with eu bid at stake" }
 
-Zsyangnsors:::txtsize --> Rptpmneerius:::txtsize
-Rptpmneerius:::txtsize --> Ucnkefunmos:::txtsize
-Ucnkefunmos:::txtsize --> Tsodirisohe:::txtsize
-Ucnkefunmos:::txtsize --> UnlyorpfStd:::txtsize
-Rptpmneerius:::txtsize --> ToiegRaipuoorpp:::txtsize
-ToiegRaipuoorpp:::txtsize --> Uneftcrespepp:::txtsize
-Zsyangnsors:::txtsize --> Zsaaaercpp:::txtsize
-Zsaaaercpp:::txtsize --> Unitcehfncof:::txtsize
-Unitcehfncof:::txtsize --> Unlydhffacir:::txtsize
-Zsaaaercpp:::txtsize --> Psuwinsaea:::txtsize
-Psuwinsaea:::txtsize --> Ucnkefunmos:::txtsize
-Psuwinsaea:::txtsize --> UnlyiRaitsuiKn:::txtsize
+Mvehicedbh:::txtsize --> Vunnakrkasenz:::txtsize
+Vunnakrkasenz:::txtsize --> HRaewcuatt:::txtsize
+HRaewcuatt:::txtsize --> UKisrlerr:::txtsize
+HRaewcuatt:::txtsize --> Unlystsippposehp:::txtsize
+Vunnakrkasenz:::txtsize --> HRaewcuatt:::txtsize
+HRaewcuatt:::txtsize --> UKisrlerr:::txtsize
+HRaewcuatt:::txtsize --> Unlystsippposehp:::txtsize
+Mvehicedbh:::txtsize --> MvpRanmnvatc:::txtsize
+MvpRanmnvatc:::txtsize --> Mvolairerntt:::txtsize
+Mvolairerntt:::txtsize --> Mvsupfeen:::txtsize
+Mvolairerntt:::txtsize --> RaleiMvpeE:::txtsize
+MvpRanmnvatc:::txtsize --> RaleiMvpeE:::txtsize
+RaleiMvpeE:::txtsize --> LreycawoMvaRa:::txtsize
+RaleiMvpeE:::txtsize --> MvepaaenEak:::txtsize
 
-Kitrbeoissaov@{ shape: win-pane, label: "_Published Nov 29, 2025, 06:50 PM_
-Kate winslet, other celebrities to join princess kate’s annual carol service" }
-Biiswsnfemdni@{ shape: win-pane, label: "_Published Oct 09, 2025, 06:08 PM_
-Britain’s princess kate warns screen time feeds ‘epidemic of disconnection’" }
-Nryslaaflligd@{ shape: win-pane, label: "_Published Oct 09, 2025, 06:45 AM_
-New york city sues social media companies for allegedly addicting children" }
-Gntnteirhl@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:00 PM_
-Gen z anger at ruling elites is erupting across the world" }
-Moeinnekisbyl@{ shape: win-pane, label: "_Published Sep 11, 2025, 09:40 AM_
-More young people in china going under the knife in quest for ‘beauty ideal’" }
-Draidrr@{ shape: win-pane, label: "_Published Oct 07, 2025, 11:27 PM_
-Denmark to ban social media for under-15s" }
-AaslaonwiU@{ shape: win-pane, label: "_Published Sep 25, 2025, 10:37 AM_
-Australia’s social media ban for teens draws praise at un" }
-WAimihuctaridn@{ shape: win-pane, label: "_Published Sep 24, 2025, 09:44 AM_
-Whatsapp, twitch among sites that could face australia under-16s social media ban" }
-Biisshtoveuter@{ shape: win-pane, label: "_Published Jul 02, 2025, 10:00 PM_
-Britain’s princess kate says she had to ‘put on brave face’ throughout cancer journey" }
-PeWeoteeeutocrn@{ shape: win-pane, label: "_Published Mar 24, 2024, 06:13 AM_
-Princess of wales ‘enormously touched’ by messages of support following cancer diagnosis" }
-Krnnoeieeahhfecy@{ shape: win-pane, label: "_Published Mar 23, 2024, 02:08 AM_
-Kate, britain’s princess of wales, having chemotherapy after ‘huge shock’ of cancer discovery" }
-Bihfaiaann@{ shape: win-pane, label: "_Published Mar 24, 2024, 02:59 AM_
-Britain in shock after catherine's cancer announcement" }
-Biiseshnsfa@{ shape: win-pane, label: "_Published Jan 14, 2025, 09:38 PM_
-Britain’s princess catherine says she is in remission from cancer" }
-PeWeoteeeutocrn@{ shape: win-pane, label: "_Published Mar 24, 2024, 06:13 AM_
-Princess of wales ‘enormously touched’ by messages of support following cancer diagnosis" }
-LgeoKnKaealrsctp@{ shape: win-pane, label: "_Published Sep 09, 2024, 11:52 PM_
-‘loving and being loved’: uk’s princess kate says she is grateful after finishing chemotherapy" }
+Sslbsuearennaee@{ shape: win-pane, label: "_Published Nov 29, 2025, 10:40 PM_
+Spanish airline iberia says customer data ‘compromised’ but no sign of fraudulent use" }
+Aaantylotsldnlgcbh@{ shape: win-pane, label: "_Published Oct 12, 2025, 12:15 PM_
+Australian airline qantas says millions of customers’ data leaked online following july cyber breach" }
+AaQsmotanpiek@{ shape: win-pane, label: "_Published Jul 02, 2025, 07:55 AM_
+Australia’s qantas says 6 million customer accounts exposed in cyber hack" }
+Ttpidrcs@{ shape: win-pane, label: "_Published Jul 01, 2025, 12:52 AM_
+‘targeted, sophisticated’ cyber attack hits icc" }
+Qsaoioeedai@{ shape: win-pane, label: "_Published Jun 24, 2025, 03:38 PM_
+Qantas jet takes 15-hour flight to nowhere due to middle east crisis" }
+Arohtegfawtsrry@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:16 AM_
+Airport chaos highlights rise in high-profile ransomware attacks, cyber experts say" }
+Eerslcakunrie@{ shape: win-pane, label: "_Published Sep 20, 2025, 03:40 PM_
+European airports snarled by cyber attack, disruption to stretch into sept 21" }
+Titceronttaw@{ shape: win-pane, label: "_Published Sep 18, 2025, 10:20 PM_
+Two british teens charged over london transport hack that lasted weeks" }
+Aaantylotsldnlgcbh@{ shape: win-pane, label: "_Published Oct 12, 2025, 12:15 PM_
+Australian airline qantas says millions of customers’ data leaked online following july cyber breach" }
+AaQsmotanpiek@{ shape: win-pane, label: "_Published Jul 02, 2025, 07:55 AM_
+Australia’s qantas says 6 million customer accounts exposed in cyber hack" }
+Ttpidrcs@{ shape: win-pane, label: "_Published Jul 01, 2025, 12:52 AM_
+‘targeted, sophisticated’ cyber attack hits icc" }
+Qsaoioeedai@{ shape: win-pane, label: "_Published Jun 24, 2025, 03:38 PM_
+Qantas jet takes 15-hour flight to nowhere due to middle east crisis" }
+Arohtegfawtsrry@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:16 AM_
+Airport chaos highlights rise in high-profile ransomware attacks, cyber experts say" }
+Eerslcakunrie@{ shape: win-pane, label: "_Published Sep 20, 2025, 03:40 PM_
+European airports snarled by cyber attack, disruption to stretch into sept 21" }
+Titceronttaw@{ shape: win-pane, label: "_Published Sep 18, 2025, 10:20 PM_
+Two british teens charged over london transport hack that lasted weeks" }
 
-Kitrbeoissaov:::txtsize --> Biiswsnfemdni:::txtsize
-Biiswsnfemdni:::txtsize --> Nryslaaflligd:::txtsize
-Nryslaaflligd:::txtsize --> Gntnteirhl:::txtsize
-Nryslaaflligd:::txtsize --> Moeinnekisbyl:::txtsize
-Biiswsnfemdni:::txtsize --> Draidrr:::txtsize
-Draidrr:::txtsize --> AaslaonwiU:::txtsize
-Draidrr:::txtsize --> WAimihuctaridn:::txtsize
-Kitrbeoissaov:::txtsize --> Biisshtoveuter:::txtsize
-Biisshtoveuter:::txtsize --> PeWeoteeeutocrn:::txtsize
-PeWeoteeeutocrn:::txtsize --> Krnnoeieeahhfecy:::txtsize
-PeWeoteeeutocrn:::txtsize --> Bihfaiaann:::txtsize
-Biisshtoveuter:::txtsize --> Biiseshnsfa:::txtsize
-Biiseshnsfa:::txtsize --> PeWeoteeeutocrn:::txtsize
-Biiseshnsfa:::txtsize --> LgeoKnKaealrsctp:::txtsize
+Sslbsuearennaee:::txtsize --> Aaantylotsldnlgcbh:::txtsize
+Aaantylotsldnlgcbh:::txtsize --> AaQsmotanpiek:::txtsize
+AaQsmotanpiek:::txtsize --> Ttpidrcs:::txtsize
+AaQsmotanpiek:::txtsize --> Qsaoioeedai:::txtsize
+Aaantylotsldnlgcbh:::txtsize --> Arohtegfawtsrry:::txtsize
+Arohtegfawtsrry:::txtsize --> Eerslcakunrie:::txtsize
+Arohtegfawtsrry:::txtsize --> Titceronttaw:::txtsize
+Sslbsuearennaee:::txtsize --> Aaantylotsldnlgcbh:::txtsize
+Aaantylotsldnlgcbh:::txtsize --> AaQsmotanpiek:::txtsize
+AaQsmotanpiek:::txtsize --> Ttpidrcs:::txtsize
+AaQsmotanpiek:::txtsize --> Qsaoioeedai:::txtsize
+Aaantylotsldnlgcbh:::txtsize --> Arohtegfawtsrry:::txtsize
+Arohtegfawtsrry:::txtsize --> Eerslcakunrie:::txtsize
+Arohtegfawtsrry:::txtsize --> Titceronttaw:::txtsize
 
 ```
-<i>Last updated: 2025-11-29 20:00:50.295906 (GMT+8)</i>
+<i>Last updated: 2025-11-30 00:01:49.160433 (GMT+8)</i>
 <!-- END -->
