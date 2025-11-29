@@ -16,135 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Utlcnrigkrro@{ shape: win-pane, label: "_Published Nov 29, 2025, 11:30 AM_
-Us halts asylum decisions as troop killing sparks migrant crackdown" }
-AeiGakcmrgmtairgo@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:44 AM_
-Accused national guard attacker faces us murder charge; trump wants to halt ‘third world’ migration" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
-Us stops processing afghan immigration requests after attack near white house" }
-Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
-Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
-Tuaarottiou@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:50 PM_
-Trump uses national guard shooting to cast suspicion on refugees" }
-TsniGmrstogi@{ shape: win-pane, label: "_Published Nov 28, 2025, 09:30 AM_
-Trump says one national guard member in washington shooting has died" }
-TvozrnTWcrfagt@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:11 PM_
-Trump vows to freeze migration from ‘third world countries’ after washington attack" }
-Tsongypddrt@{ shape: win-pane, label: "_Published Nov 29, 2025, 06:07 AM_
-Trump says documents signed by autopen under biden ‘terminated’" }
-Traoasega@{ shape: win-pane, label: "_Published Nov 26, 2025, 11:27 PM_
-Trump rages at report that he is increasingly frail" }
-Tseraenn@{ shape: win-pane, label: "_Published Oct 27, 2025, 05:25 PM_
-Trump says he underwent an mri examination" }
-Ptbusuert@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:05 AM_
-‘piggy’, ‘terrible’: trump lashes out at female reporters" }
-Twaehnnnict@{ shape: win-pane, label: "_Published Jul 18, 2025, 07:00 AM_
-Trump was diagnosed with chronic venous insufficiency. what is it?" }
-Tdoiidniglho@{ shape: win-pane, label: "_Published Jul 18, 2025, 02:46 AM_
-Trump diagnosed with vein condition causing leg swelling: white house" }
-Tdoiidniglho@{ shape: win-pane, label: "_Published Jul 18, 2025, 02:46 AM_
-Trump diagnosed with vein condition causing leg swelling: white house" }
+Taitgtttttns@{ shape: win-pane, label: "_Published Nov 29, 2025, 03:55 PM_
+Trump administration agrees to restore $1b to northwestern university" }
+HriIacsadlas@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:40 AM_
+Hackers strike us ivy league schools already under political pressure" }
+Jemecmemtsbil@{ shape: win-pane, label: "_Published Oct 23, 2025, 11:30 AM_
+Japanese companies brace themselves for more attacks as cybercrimes climb" }
+JsgAGctmdoeea@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:10 PM_
+Japan’s beer giant asahi group cannot resume production after cyber attack" }
+Jshrmaklyn@{ shape: win-pane, label: "_Published Oct 20, 2025, 03:25 PM_
+Japan’s muji hit by ransomware attack on delivery partner" }
+CsaUeodoetis@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:00 AM_
+China sees gaps in us defences, ousted national security official says" }
+Uniulruausl@{ shape: win-pane, label: "_Published Jul 29, 2025, 05:49 PM_
+Us, china tariff truce holds for now but us says trump has final say" }
+Tsetimibyta@{ shape: win-pane, label: "_Published Jul 29, 2025, 12:13 PM_
+Trump says he is not seeking summit with xi, but may visit china" }
+TosoeftugrtM@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:00 AM_
+Trump offers all colleges preferential funding plan rejected by mit" }
+GngcoetnooT@{ shape: win-pane, label: "_Published Sep 29, 2025, 09:25 AM_
+Give in or fight back? us colleges are torn on how to respond to trump" }
+Hrspnafogloett@{ shape: win-pane, label: "_Published May 23, 2025, 09:34 PM_
+Harvard sues trump administration for blocking enrolment of foreign students" }
+Ukssrooodswrdsi@{ shape: win-pane, label: "_Published Sep 13, 2025, 10:30 AM_
+Uc berkeley shares information on dozens of students, staff with trump administration" }
 
-Utlcnrigkrro:::txtsize --> AeiGakcmrgmtairgo:::txtsize
-AeiGakcmrgmtairgo:::txtsize --> Nnalsiydttteiu:::txtsize
-Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
-Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
-AeiGakcmrgmtairgo:::txtsize --> Tuaarottiou:::txtsize
-Tuaarottiou:::txtsize --> TsniGmrstogi:::txtsize
-Tuaarottiou:::txtsize --> TvozrnTWcrfagt:::txtsize
-Utlcnrigkrro:::txtsize --> Tsongypddrt:::txtsize
-Tsongypddrt:::txtsize --> Traoasega:::txtsize
-Traoasega:::txtsize --> Tseraenn:::txtsize
-Traoasega:::txtsize --> Ptbusuert:::txtsize
-Tsongypddrt:::txtsize --> Twaehnnnict:::txtsize
-Twaehnnnict:::txtsize --> Tdoiidniglho:::txtsize
-Twaehnnnict:::txtsize --> Tdoiidniglho:::txtsize
+Taitgtttttns:::txtsize --> HriIacsadlas:::txtsize
+HriIacsadlas:::txtsize --> Jemecmemtsbil:::txtsize
+Jemecmemtsbil:::txtsize --> JsgAGctmdoeea:::txtsize
+Jemecmemtsbil:::txtsize --> Jshrmaklyn:::txtsize
+HriIacsadlas:::txtsize --> CsaUeodoetis:::txtsize
+CsaUeodoetis:::txtsize --> Uniulruausl:::txtsize
+CsaUeodoetis:::txtsize --> Tsetimibyta:::txtsize
+Taitgtttttns:::txtsize --> TosoeftugrtM:::txtsize
+TosoeftugrtM:::txtsize --> GngcoetnooT:::txtsize
+GngcoetnooT:::txtsize --> Hrspnafogloett:::txtsize
+GngcoetnooT:::txtsize --> Ukssrooodswrdsi:::txtsize
 
-Ptllhnhdm@{ shape: win-pane, label: "_Published Nov 29, 2025, 10:52 AM_
-Papal travels reflect changing catholic diplomacy" }
-Peaastkbosrt@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:48 PM_
-Pope leo to take peace message to turkey, lebanon on first overseas trip" }
-Abbsciilto@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:55 PM_
-At tomb of lebanon’s miracle saint, faithful await the pope" }
-PeduLoivap@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:00 PM_
-Pope leo heads to turkey, lebanon in first overseas trip" }
-PeduLoivap@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:00 PM_
-Pope leo heads to turkey, lebanon in first overseas trip" }
-IkaoCtoi@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:53 PM_
-In turkey, a patchwork of christian communities" }
-PeduLoivap@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:00 PM_
-Pope leo heads to turkey, lebanon in first overseas trip" }
-PeduLoivap@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:00 PM_
-Pope leo heads to turkey, lebanon in first overseas trip" }
-Ikpkoaihiv@{ shape: win-pane, label: "_Published Nov 29, 2025, 10:46 AM_
-In turkey, pope seeks to soothe an ancient christian divide" }
-Penocdrutivap@{ shape: win-pane, label: "_Published Nov 27, 2025, 09:18 AM_
-Pope leo warns of conflicts endangering humanity on first overseas trip" }
-Ilsomaanui@{ shape: win-pane, label: "_Published Nov 24, 2025, 01:17 AM_
-Israel kills hezbollah military leader in beirut strike" }
-Peaastkbosrt@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:48 PM_
-Pope leo to take peace message to turkey, lebanon on first overseas trip" }
+Vunnakrktuo@{ shape: win-pane, label: "_Published Nov 29, 2025, 03:39 PM_
+Vast russian overnight attack on ukraine kills two, wounds dozens" }
+HRaewcuatt@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:05 AM_
+How us-russia peace plan would carve up ukraine’s territory" }
+UKisrlerr@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:43 PM_
+Us and kyiv discuss reworked plan to end war in ukraine" }
+Ulnaewniaark@{ shape: win-pane, label: "_Published Nov 24, 2025, 08:40 AM_
+Us hails ‘significant step forward’ in ukraine ‘peace framework’ talks" }
+Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
+Trump’s 28-point ukraine plan" }
+Unlystsippposehp@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:42 AM_
+Ukraine’s zelensky says sensitive issues in proposed peace plan to be discussed with trump" }
+UKisrlerr@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:43 PM_
+Us and kyiv discuss reworked plan to end war in ukraine" }
+HRaewcuatt@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:05 AM_
+How us-russia peace plan would carve up ukraine’s territory" }
+UKisrlerr@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:43 PM_
+Us and kyiv discuss reworked plan to end war in ukraine" }
+Ulnaewniaark@{ shape: win-pane, label: "_Published Nov 24, 2025, 08:40 AM_
+Us hails ‘significant step forward’ in ukraine ‘peace framework’ talks" }
+Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
+Trump’s 28-point ukraine plan" }
+Unlystsippposehp@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:42 AM_
+Ukraine’s zelensky says sensitive issues in proposed peace plan to be discussed with trump" }
+UKisrlerr@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:43 PM_
+Us and kyiv discuss reworked plan to end war in ukraine" }
 
-Ptllhnhdm:::txtsize --> Peaastkbosrt:::txtsize
-Peaastkbosrt:::txtsize --> Abbsciilto:::txtsize
-Abbsciilto:::txtsize --> PeduLoivap:::txtsize
-Abbsciilto:::txtsize --> PeduLoivap:::txtsize
-Peaastkbosrt:::txtsize --> IkaoCtoi:::txtsize
-IkaoCtoi:::txtsize --> PeduLoivap:::txtsize
-IkaoCtoi:::txtsize --> PeduLoivap:::txtsize
-Ptllhnhdm:::txtsize --> Ikpkoaihiv:::txtsize
-Ikpkoaihiv:::txtsize --> Penocdrutivap:::txtsize
-Penocdrutivap:::txtsize --> Ilsomaanui:::txtsize
-Penocdrutivap:::txtsize --> Peaastkbosrt:::txtsize
+Vunnakrktuo:::txtsize --> HRaewcuatt:::txtsize
+HRaewcuatt:::txtsize --> UKisrlerr:::txtsize
+UKisrlerr:::txtsize --> Ulnaewniaark:::txtsize
+UKisrlerr:::txtsize --> Tstia:::txtsize
+HRaewcuatt:::txtsize --> Unlystsippposehp:::txtsize
+Unlystsippposehp:::txtsize --> UKisrlerr:::txtsize
+Vunnakrktuo:::txtsize --> HRaewcuatt:::txtsize
+HRaewcuatt:::txtsize --> UKisrlerr:::txtsize
+UKisrlerr:::txtsize --> Ulnaewniaark:::txtsize
+UKisrlerr:::txtsize --> Tstia:::txtsize
+HRaewcuatt:::txtsize --> Unlystsippposehp:::txtsize
+Unlystsippposehp:::txtsize --> UKisrlerr:::txtsize
 
-Sflhntsrslpc@{ shape: win-pane, label: "_Published Nov 29, 2025, 10:52 AM_
-Stake for sale in the economist draws interest as deadline approaches" }
-TslhBleioe@{ shape: win-pane, label: "_Published Nov 25, 2025, 08:18 PM_
-Trump’s battle with the bbc could threaten its global reach" }
-Bunsoadtadnp@{ shape: win-pane, label: "_Published Nov 15, 2025, 10:53 PM_
-Bbc caught in crossfire of polarised political and media landscape" }
-BiCosueoshrtaoi@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:07 AM_
-Britain’s bbc apologises to trump over panorama speech edit, rejects defamation claim" }
-Tsieooieet@{ shape: win-pane, label: "_Published Nov 15, 2025, 10:09 AM_
-Trump says will sue bbc for up to $6.4 billion over video edit" }
-Bunsoadtadnp@{ shape: win-pane, label: "_Published Nov 15, 2025, 10:53 PM_
-Bbc caught in crossfire of polarised political and media landscape" }
-BiCosueoshrtaoi@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:07 AM_
-Britain’s bbc apologises to trump over panorama speech edit, rejects defamation claim" }
-Tsieooieet@{ shape: win-pane, label: "_Published Nov 15, 2025, 10:09 AM_
-Trump says will sue bbc for up to $6.4 billion over video edit" }
-Nreodoilcr@{ shape: win-pane, label: "_Published Feb 09, 2025, 10:00 AM_
-New york times reports 350,000 additional digital subscribers" }
-Nresuioolo@{ shape: win-pane, label: "_Published Nov 04, 2024, 09:27 PM_
-New york times passes 11m subscribers on eve of us election" }
-NreapsstlrsTi@{ shape: win-pane, label: "_Published Sep 24, 2024, 11:02 PM_
-New york times to launch podcast subscription plan for shows like the daily" }
-Twbtefespbe@{ shape: win-pane, label: "_Published Sep 17, 2023, 11:35 AM_
-The news may be getting better for america’s newspaper business" }
-Blmfioropraecnr@{ shape: win-pane, label: "_Published Feb 05, 2025, 06:14 PM_
-Bbc tells some staff in singapore bureau to reapply for jobs amid restructuring exercise" }
-BsiononneeCu@{ shape: win-pane, label: "_Published Oct 17, 2024, 09:05 AM_
-British media union warns of ‘worrying trend’ after latest bbc job cuts" }
-Dlfttoswoith@{ shape: win-pane, label: "_Published Feb 01, 2024, 02:45 PM_
-Dyson layoffs: what rights do workers have when companies retrench?" }
+FopsornLngooyc@{ shape: win-pane, label: "_Published Nov 29, 2025, 03:30 PM_
+From mobile phones to cooked frogs, inside london’s biggest lost property office" }
+GngncLgtnotaeega@{ shape: win-pane, label: "_Published Sep 16, 2025, 05:20 PM_
+Growing veggies in suitcases: luggage left behind by tourists in japan being reused, given away" }
+Jpeldnsaegmtss@{ shape: win-pane, label: "_Published Sep 14, 2025, 01:21 PM_
+Japan police trial crowd-easing measures at famed manga slam dunk tourist hot spot" }
+Aiaetmrbloi@{ shape: win-pane, label: "_Published Sep 03, 2025, 03:37 PM_
+Anger in japan after instagrammer drinks burial site offering" }
+Jsdtfrreomes@{ shape: win-pane, label: "_Published Aug 29, 2025, 03:23 PM_
+Japan should debate cap for foreign residents, government report says" }
+Tpefsrsfgr@{ shape: win-pane, label: "_Published Nov 24, 2024, 05:00 PM_
+Tokyo police care for lost umbrellas, keys, flying squirrels" }
+Jssrehmaefmgon@{ shape: win-pane, label: "_Published Nov 15, 2024, 11:15 AM_
+Japan’s latest tourism headache is american arrested for damaging tokyo shrine" }
+Jtliinaenip@{ shape: win-pane, label: "_Published Jun 06, 2024, 07:22 PM_
+Japan to build anti-tourist fence at another mount fuji viewpoint" }
+MFrskrnsvumr@{ shape: win-pane, label: "_Published Sep 11, 2024, 11:24 AM_
+Mount fuji crowds shrink after japan rolls out overtourism measures" }
+Tpeuidweipna@{ shape: win-pane, label: "_Published Jul 31, 2024, 01:40 PM_
+Tokyo police conduct drill to deter wild bears with repellent sprays" }
+Jwogasgmteacgfro@{ shape: win-pane, label: "_Published Apr 12, 2024, 10:45 AM_
+Japan warns of hungry bears in spring that may attack people after coming out of hibernation" }
+Jsrhsfseallcna@{ shape: win-pane, label: "_Published Aug 31, 2023, 09:50 PM_
+Japan’s diners rush to taste infamous ‘oso18’ bear that killed at least 30 cows in hokkaido" }
 
-Sflhntsrslpc:::txtsize --> TslhBleioe:::txtsize
-TslhBleioe:::txtsize --> Bunsoadtadnp:::txtsize
-Bunsoadtadnp:::txtsize --> BiCosueoshrtaoi:::txtsize
-Bunsoadtadnp:::txtsize --> Tsieooieet:::txtsize
-TslhBleioe:::txtsize --> Bunsoadtadnp:::txtsize
-Bunsoadtadnp:::txtsize --> BiCosueoshrtaoi:::txtsize
-Bunsoadtadnp:::txtsize --> Tsieooieet:::txtsize
-Sflhntsrslpc:::txtsize --> Nreodoilcr:::txtsize
-Nreodoilcr:::txtsize --> Nresuioolo:::txtsize
-Nresuioolo:::txtsize --> NreapsstlrsTi:::txtsize
-Nresuioolo:::txtsize --> Twbtefespbe:::txtsize
-Nreodoilcr:::txtsize --> Blmfioropraecnr:::txtsize
-Blmfioropraecnr:::txtsize --> BsiononneeCu:::txtsize
-Blmfioropraecnr:::txtsize --> Dlfttoswoith:::txtsize
+FopsornLngooyc:::txtsize --> GngncLgtnotaeega:::txtsize
+GngncLgtnotaeega:::txtsize --> Jpeldnsaegmtss:::txtsize
+Jpeldnsaegmtss:::txtsize --> Aiaetmrbloi:::txtsize
+Jpeldnsaegmtss:::txtsize --> Jsdtfrreomes:::txtsize
+FopsornLngooyc:::txtsize --> Tpefsrsfgr:::txtsize
+Tpefsrsfgr:::txtsize --> Jssrehmaefmgon:::txtsize
+Jssrehmaefmgon:::txtsize --> Jtliinaenip:::txtsize
+Jssrehmaefmgon:::txtsize --> MFrskrnsvumr:::txtsize
+Tpefsrsfgr:::txtsize --> Tpeuidweipna:::txtsize
+Tpeuidweipna:::txtsize --> Jwogasgmteacgfro:::txtsize
+Tpeuidweipna:::txtsize --> Jsrhsfseallcna:::txtsize
 
 ```
-<i>Last updated: 2025-11-29 12:00:58.502546 (GMT+8)</i>
+<i>Last updated: 2025-11-29 16:00:23.851035 (GMT+8)</i>
 <!-- END -->
