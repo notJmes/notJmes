@@ -16,102 +16,129 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Bgcsftuie@{ shape: win-pane, label: "_Published Nov 29, 2025, 03:44 AM_
-Bedbugs force closure of prestigious paris cinema" }
-Bgbiidiialc@{ shape: win-pane, label: "_Published Oct 04, 2023, 03:25 PM_
-Bedbugs are becoming a big headache in paris ahead of olympics" }
-Felsesdce@{ shape: win-pane, label: "_Published Oct 04, 2023, 09:00 AM_
-France to hold crisis meetings on bedbug ‘scourge’" }
-Fecapgtua@{ shape: win-pane, label: "_Published Sep 30, 2023, 03:52 PM_
-France launches battle plan against bedbug invasion" }
-Fecapgtua@{ shape: win-pane, label: "_Published Sep 30, 2023, 03:52 PM_
-France launches battle plan against bedbug invasion" }
-Fecapgtua@{ shape: win-pane, label: "_Published Sep 30, 2023, 03:52 PM_
-France launches battle plan against bedbug invasion" }
-Meenevesjas@{ shape: win-pane, label: "_Published Apr 16, 2023, 12:58 PM_
-Man died after being ‘eaten alive’ by bed bugs in us jail, family says" }
-MBieeaneoetce@{ shape: win-pane, label: "_Published Aug 14, 2023, 01:40 PM_
-Man in britain faces life-threatening allergy to red meat after tick bites" }
-Raimndsurnnr@{ shape: win-pane, label: "_Published Mar 02, 2024, 02:38 AM_
-Russian ‘disinformation’ hyped paris bedbug scare, french minister says" }
-Felsesdce@{ shape: win-pane, label: "_Published Oct 04, 2023, 09:00 AM_
-France to hold crisis meetings on bedbug ‘scourge’" }
-Fecapgtua@{ shape: win-pane, label: "_Published Sep 30, 2023, 03:52 PM_
-France launches battle plan against bedbug invasion" }
-Fecapgtua@{ shape: win-pane, label: "_Published Sep 30, 2023, 03:52 PM_
-France launches battle plan against bedbug invasion" }
-Unsinimnls@{ shape: win-pane, label: "_Published Feb 28, 2024, 01:25 AM_
-Ukraine says russia using disinformation to split west" }
-UnhstlsAvly@{ shape: win-pane, label: "_Published Feb 27, 2024, 11:02 PM_
-Ukraine withdraws from two villages near avdiivka, military says" }
-PdsueYtmuacUn@{ shape: win-pane, label: "_Published Feb 27, 2024, 07:22 AM_
-Poland warns us house speaker: you’re to blame if russia advances in ukraine" }
+Tsongypddrt@{ shape: win-pane, label: "_Published Nov 29, 2025, 06:07 AM_
+Trump says documents signed by autopen under biden ‘terminated’" }
+Traoasega@{ shape: win-pane, label: "_Published Nov 26, 2025, 11:27 PM_
+Trump rages at report that he is increasingly frail" }
+Tseraenn@{ shape: win-pane, label: "_Published Oct 27, 2025, 05:25 PM_
+Trump says he underwent an mri examination" }
+TdragnfitirsPd@{ shape: win-pane, label: "_Published Jan 21, 2025, 01:02 AM_
+Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
+Thraylty@{ shape: win-pane, label: "_Published Oct 11, 2025, 11:00 AM_
+Trump, 79, has ‘cardiac age’ of 65-year-old, doctor says" }
+Ptbusuert@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:05 AM_
+‘piggy’, ‘terrible’: trump lashes out at female reporters" }
+TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
+Trump threatens abc news in oval office meltdown" }
+TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
+Trump threatens abc news in oval office meltdown" }
+Twaehnnnict@{ shape: win-pane, label: "_Published Jul 18, 2025, 07:00 AM_
+Trump was diagnosed with chronic venous insufficiency. what is it?" }
+Tdoiidniglho@{ shape: win-pane, label: "_Published Jul 18, 2025, 02:46 AM_
+Trump diagnosed with vein condition causing leg swelling: white house" }
+Twaehnnnict@{ shape: win-pane, label: "_Published Jul 18, 2025, 07:00 AM_
+Trump was diagnosed with chronic venous insufficiency. what is it?" }
+Fumcrensnyv@{ shape: win-pane, label: "_Published Jul 17, 2025, 09:55 AM_
+For trump, domestic adversaries are not just wrong, they are ‘evil’" }
+Tdoiidniglho@{ shape: win-pane, label: "_Published Jul 18, 2025, 02:46 AM_
+Trump diagnosed with vein condition causing leg swelling: white house" }
+Twaehnnnict@{ shape: win-pane, label: "_Published Jul 18, 2025, 07:00 AM_
+Trump was diagnosed with chronic venous insufficiency. what is it?" }
+Fumcrensnyv@{ shape: win-pane, label: "_Published Jul 17, 2025, 09:55 AM_
+For trump, domestic adversaries are not just wrong, they are ‘evil’" }
 
-Bgcsftuie:::txtsize --> Bgbiidiialc:::txtsize
-Bgbiidiialc:::txtsize --> Felsesdce:::txtsize
-Felsesdce:::txtsize --> Fecapgtua:::txtsize
-Felsesdce:::txtsize --> Fecapgtua:::txtsize
-Bgbiidiialc:::txtsize --> Fecapgtua:::txtsize
-Fecapgtua:::txtsize --> Meenevesjas:::txtsize
-Fecapgtua:::txtsize --> MBieeaneoetce:::txtsize
-Bgcsftuie:::txtsize --> Raimndsurnnr:::txtsize
-Raimndsurnnr:::txtsize --> Felsesdce:::txtsize
-Felsesdce:::txtsize --> Fecapgtua:::txtsize
-Felsesdce:::txtsize --> Fecapgtua:::txtsize
-Raimndsurnnr:::txtsize --> Unsinimnls:::txtsize
-Unsinimnls:::txtsize --> UnhstlsAvly:::txtsize
-Unsinimnls:::txtsize --> PdsueYtmuacUn:::txtsize
+Tsongypddrt:::txtsize --> Traoasega:::txtsize
+Traoasega:::txtsize --> Tseraenn:::txtsize
+Tseraenn:::txtsize --> TdragnfitirsPd:::txtsize
+Tseraenn:::txtsize --> Thraylty:::txtsize
+Traoasega:::txtsize --> Ptbusuert:::txtsize
+Ptbusuert:::txtsize --> TttBsailn:::txtsize
+Ptbusuert:::txtsize --> TttBsailn:::txtsize
+Tsongypddrt:::txtsize --> Twaehnnnict:::txtsize
+Twaehnnnict:::txtsize --> Tdoiidniglho:::txtsize
+Tdoiidniglho:::txtsize --> Twaehnnnict:::txtsize
+Tdoiidniglho:::txtsize --> Fumcrensnyv:::txtsize
+Twaehnnnict:::txtsize --> Tdoiidniglho:::txtsize
+Tdoiidniglho:::txtsize --> Twaehnnnict:::txtsize
+Tdoiidniglho:::txtsize --> Fumcrensnyv:::txtsize
 
-Feguutmfrsg@{ shape: win-pane, label: "_Published Nov 29, 2025, 03:15 AM_
-France charges fourth suspected member of louvre heist gang" }
-Coievitecjs@{ shape: win-pane, label: "_Published Oct 31, 2025, 07:06 PM_
-Count of paris urges louvre thieves to ‘give us back our jewels’" }
-Leteidlaerrsl@{ shape: win-pane, label: "_Published Oct 22, 2025, 02:52 AM_
-Louvre heist losses estimated at $133 million as museum director faces grilling" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
-Paris’ louvre museum robbery: what jewels did the thieves steal?" }
-PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
-Paris’ louvre museum robbery: what jewels did the thieves steal?" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+WYresemhiN@{ shape: win-pane, label: "_Published Nov 29, 2025, 05:26 AM_
+While you were sleeping: 5 stories you might have missed, nov 29, 2025" }
+Unpetrsrbitc@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:09 AM_
+Ukraine’s top peace negotiator quits after raid by anti-graft police" }
+Unitcehfncof@{ shape: win-pane, label: "_Published Nov 28, 2025, 04:19 PM_
+Ukraine anti-graft officers search home of zelensky’s chief of staff" }
+Unlydhffacir@{ shape: win-pane, label: "_Published Nov 21, 2025, 05:26 PM_
+Ukraine’s zelensky stands by chief of staff as graft accusations grow" }
+CZslufetarc@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:54 AM_
+Close zelensky ally accused of orchestrating major graft scheme" }
+Unitcdrcsundst@{ shape: win-pane, label: "_Published Nov 11, 2025, 03:20 AM_
+Ukraine anti-graft agency raids energy sector as corruption stand-off escalates" }
+UnyIoieera@{ shape: win-pane, label: "_Published Sep 03, 2023, 11:00 AM_
+Ukrainian tycoon ihor kolomoisky detained in fraud case" }
+Aseocrdpscoi@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:03 AM_
+Airbus issues major a320 recall, travel disruptions expected worldwide" }
+Astimerts@{ shape: win-pane, label: "_Published Oct 07, 2025, 06:41 PM_
+Airbus a320 ousts boeing 737 as most-delivered jet in history" }
+BglssanCSe@{ shape: win-pane, label: "_Published Aug 22, 2025, 08:45 AM_
+Boeing in talks to sell as many as 500 planes to china: sources" }
+Cyfynireemhe@{ shape: win-pane, label: "_Published Aug 06, 2025, 01:55 PM_
+Cathay pacific buys 14 planes in its first boeing deal in more than a decade" }
+Aaidtoeiis@{ shape: win-pane, label: "_Published Nov 27, 2025, 11:15 PM_
+Air france, airbus dispute pilot roles in rio-paris crash" }
+Fhtsrnrsen@{ shape: win-pane, label: "_Published Sep 29, 2025, 06:08 AM_
+French court opens new trial on af447 air disaster 16 years on" }
+Nvouncrrar@{ shape: win-pane, label: "_Published Dec 08, 2022, 07:38 AM_
+No convictions sought in french court over 2009 rio-paris crash" }
 
-Feguutmfrsg:::txtsize --> Coievitecjs:::txtsize
-Coievitecjs:::txtsize --> Leteidlaerrsl:::txtsize
-Leteidlaerrsl:::txtsize --> Ptineluiisey:::txtsize
-Leteidlaerrsl:::txtsize --> PLeubhwitea:::txtsize
-Coievitecjs:::txtsize --> PLeubhwitea:::txtsize
-PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
-PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
+WYresemhiN:::txtsize --> Unpetrsrbitc:::txtsize
+Unpetrsrbitc:::txtsize --> Unitcehfncof:::txtsize
+Unitcehfncof:::txtsize --> Unlydhffacir:::txtsize
+Unpetrsrbitc:::txtsize --> CZslufetarc:::txtsize
+CZslufetarc:::txtsize --> Unitcdrcsundst:::txtsize
+CZslufetarc:::txtsize --> UnyIoieera:::txtsize
+WYresemhiN:::txtsize --> Aseocrdpscoi:::txtsize
+Aseocrdpscoi:::txtsize --> Astimerts:::txtsize
+Astimerts:::txtsize --> BglssanCSe:::txtsize
+Astimerts:::txtsize --> Cyfynireemhe:::txtsize
+Aseocrdpscoi:::txtsize --> Aaidtoeiis:::txtsize
+Aaidtoeiis:::txtsize --> Fhtsrnrsen:::txtsize
+Aaidtoeiis:::txtsize --> Nvouncrrar:::txtsize
 
-Snwitai@{ shape: win-pane, label: "_Published Nov 29, 2025, 03:00 AM_
-Sweden runs war drill with royal family" }
-Snkexdooehe@{ shape: win-pane, label: "_Published Oct 22, 2025, 09:37 PM_
-Sweden and ukraine eye export deal for up to 150 gripen fighter jets" }
-UnefFoia@{ shape: win-pane, label: "_Published Aug 01, 2024, 06:14 AM_
-Ukraine receives first f-16 jets, officials say" }
-Zsyanwwuaoam@{ shape: win-pane, label: "_Published Aug 01, 2024, 12:29 AM_
-Zelensky says ukraine, and the world, want russia at second peace summit" }
-Caoiranidei@{ shape: win-pane, label: "_Published Jul 31, 2024, 10:33 PM_
-Czech army to receive german tanks in ukraine aid compensation" }
-Uosiuartdns@{ shape: win-pane, label: "_Published Sep 29, 2025, 07:10 PM_
-Us envoy says ukraine could be authorised to ‘hit deep’ into russia" }
-UsshieUnhpotnlse@{ shape: win-pane, label: "_Published Sep 29, 2025, 12:43 AM_
-Us considers tomahawk missiles for ukraine with trump set to make the final call, says vance" }
-BiuwKablke@{ shape: win-pane, label: "_Published Sep 24, 2025, 03:22 AM_
-‘big shift’: trump now says kyiv can win back ‘all of ukraine’" }
+Rptpmneerius@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:39 AM_
+Rubio plans to skip nato meeting at key moment for ukraine, sources say" }
+Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
+Us peace plan for ukraine drew from russian document, sources say" }
+Tsodirisohe@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:30 AM_
+Trump says no firm deadline for ukraine, russia to reach peace deal" }
+Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
+Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
+Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
+Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
+UnlyorpfStd@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:08 AM_
+Ukraine’s zelensky welcomes ‘principles’ of new us draft to end war" }
+Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
+Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
+Feryaoilnoeewke@{ shape: win-pane, label: "_Published Nov 26, 2025, 03:17 AM_
+France’s macron says ‘clearly no russian willingness to agree ceasefire’ with ukraine" }
+ToiegRaipuoorpp@{ shape: win-pane, label: "_Published Nov 23, 2025, 12:09 AM_
+Trump officials’ meeting with russian in miami spurs questions about ukraine peace plan" }
+Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
+Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
+Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
+Trump’s 28-point ukraine plan" }
 
-Snwitai:::txtsize --> Snkexdooehe:::txtsize
-Snkexdooehe:::txtsize --> UnefFoia:::txtsize
-UnefFoia:::txtsize --> Zsyanwwuaoam:::txtsize
-UnefFoia:::txtsize --> Caoiranidei:::txtsize
-Snkexdooehe:::txtsize --> Uosiuartdns:::txtsize
-Uosiuartdns:::txtsize --> UsshieUnhpotnlse:::txtsize
-Uosiuartdns:::txtsize --> BiuwKablke:::txtsize
+Rptpmneerius:::txtsize --> Ucnkefunmos:::txtsize
+Ucnkefunmos:::txtsize --> Tsodirisohe:::txtsize
+Tsodirisohe:::txtsize --> Zsyaeonaalusdthp:::txtsize
+Tsodirisohe:::txtsize --> Zsyaeonaalusdthp:::txtsize
+Ucnkefunmos:::txtsize --> UnlyorpfStd:::txtsize
+UnlyorpfStd:::txtsize --> Zsyaeonaalusdthp:::txtsize
+UnlyorpfStd:::txtsize --> Feryaoilnoeewke:::txtsize
+Rptpmneerius:::txtsize --> ToiegRaipuoorpp:::txtsize
+ToiegRaipuoorpp:::txtsize --> Uneftcrespepp:::txtsize
+Uneftcrespepp:::txtsize --> Tstia:::txtsize
 
 ```
-<i>Last updated: 2025-11-29 04:01:06.490398 (GMT+8)</i>
+<i>Last updated: 2025-11-29 08:00:33.288345 (GMT+8)</i>
 <!-- END -->
