@@ -16,129 +16,135 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Utlcnrigkrro@{ shape: win-pane, label: "_Published Nov 29, 2025, 11:30 AM_
+Us halts asylum decisions as troop killing sparks migrant crackdown" }
+AeiGakcmrgmtairgo@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:44 AM_
+Accused national guard attacker faces us murder charge; trump wants to halt ‘third world’ migration" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
+Us stops processing afghan immigration requests after attack near white house" }
+Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
+Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
+Tuaarottiou@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:50 PM_
+Trump uses national guard shooting to cast suspicion on refugees" }
+TsniGmrstogi@{ shape: win-pane, label: "_Published Nov 28, 2025, 09:30 AM_
+Trump says one national guard member in washington shooting has died" }
+TvozrnTWcrfagt@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:11 PM_
+Trump vows to freeze migration from ‘third world countries’ after washington attack" }
 Tsongypddrt@{ shape: win-pane, label: "_Published Nov 29, 2025, 06:07 AM_
 Trump says documents signed by autopen under biden ‘terminated’" }
 Traoasega@{ shape: win-pane, label: "_Published Nov 26, 2025, 11:27 PM_
 Trump rages at report that he is increasingly frail" }
 Tseraenn@{ shape: win-pane, label: "_Published Oct 27, 2025, 05:25 PM_
 Trump says he underwent an mri examination" }
-TdragnfitirsPd@{ shape: win-pane, label: "_Published Jan 21, 2025, 01:02 AM_
-Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
-Thraylty@{ shape: win-pane, label: "_Published Oct 11, 2025, 11:00 AM_
-Trump, 79, has ‘cardiac age’ of 65-year-old, doctor says" }
 Ptbusuert@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:05 AM_
 ‘piggy’, ‘terrible’: trump lashes out at female reporters" }
-TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
-Trump threatens abc news in oval office meltdown" }
-TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
-Trump threatens abc news in oval office meltdown" }
 Twaehnnnict@{ shape: win-pane, label: "_Published Jul 18, 2025, 07:00 AM_
 Trump was diagnosed with chronic venous insufficiency. what is it?" }
 Tdoiidniglho@{ shape: win-pane, label: "_Published Jul 18, 2025, 02:46 AM_
 Trump diagnosed with vein condition causing leg swelling: white house" }
-Twaehnnnict@{ shape: win-pane, label: "_Published Jul 18, 2025, 07:00 AM_
-Trump was diagnosed with chronic venous insufficiency. what is it?" }
-Fumcrensnyv@{ shape: win-pane, label: "_Published Jul 17, 2025, 09:55 AM_
-For trump, domestic adversaries are not just wrong, they are ‘evil’" }
 Tdoiidniglho@{ shape: win-pane, label: "_Published Jul 18, 2025, 02:46 AM_
 Trump diagnosed with vein condition causing leg swelling: white house" }
-Twaehnnnict@{ shape: win-pane, label: "_Published Jul 18, 2025, 07:00 AM_
-Trump was diagnosed with chronic venous insufficiency. what is it?" }
-Fumcrensnyv@{ shape: win-pane, label: "_Published Jul 17, 2025, 09:55 AM_
-For trump, domestic adversaries are not just wrong, they are ‘evil’" }
 
+Utlcnrigkrro:::txtsize --> AeiGakcmrgmtairgo:::txtsize
+AeiGakcmrgmtairgo:::txtsize --> Nnalsiydttteiu:::txtsize
+Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
+Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
+AeiGakcmrgmtairgo:::txtsize --> Tuaarottiou:::txtsize
+Tuaarottiou:::txtsize --> TsniGmrstogi:::txtsize
+Tuaarottiou:::txtsize --> TvozrnTWcrfagt:::txtsize
+Utlcnrigkrro:::txtsize --> Tsongypddrt:::txtsize
 Tsongypddrt:::txtsize --> Traoasega:::txtsize
 Traoasega:::txtsize --> Tseraenn:::txtsize
-Tseraenn:::txtsize --> TdragnfitirsPd:::txtsize
-Tseraenn:::txtsize --> Thraylty:::txtsize
 Traoasega:::txtsize --> Ptbusuert:::txtsize
-Ptbusuert:::txtsize --> TttBsailn:::txtsize
-Ptbusuert:::txtsize --> TttBsailn:::txtsize
 Tsongypddrt:::txtsize --> Twaehnnnict:::txtsize
 Twaehnnnict:::txtsize --> Tdoiidniglho:::txtsize
-Tdoiidniglho:::txtsize --> Twaehnnnict:::txtsize
-Tdoiidniglho:::txtsize --> Fumcrensnyv:::txtsize
 Twaehnnnict:::txtsize --> Tdoiidniglho:::txtsize
-Tdoiidniglho:::txtsize --> Twaehnnnict:::txtsize
-Tdoiidniglho:::txtsize --> Fumcrensnyv:::txtsize
 
-WYresemhiN@{ shape: win-pane, label: "_Published Nov 29, 2025, 05:26 AM_
-While you were sleeping: 5 stories you might have missed, nov 29, 2025" }
-Unpetrsrbitc@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:09 AM_
-Ukraine’s top peace negotiator quits after raid by anti-graft police" }
-Unitcehfncof@{ shape: win-pane, label: "_Published Nov 28, 2025, 04:19 PM_
-Ukraine anti-graft officers search home of zelensky’s chief of staff" }
-Unlydhffacir@{ shape: win-pane, label: "_Published Nov 21, 2025, 05:26 PM_
-Ukraine’s zelensky stands by chief of staff as graft accusations grow" }
-CZslufetarc@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:54 AM_
-Close zelensky ally accused of orchestrating major graft scheme" }
-Unitcdrcsundst@{ shape: win-pane, label: "_Published Nov 11, 2025, 03:20 AM_
-Ukraine anti-graft agency raids energy sector as corruption stand-off escalates" }
-UnyIoieera@{ shape: win-pane, label: "_Published Sep 03, 2023, 11:00 AM_
-Ukrainian tycoon ihor kolomoisky detained in fraud case" }
-Aseocrdpscoi@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:03 AM_
-Airbus issues major a320 recall, travel disruptions expected worldwide" }
-Astimerts@{ shape: win-pane, label: "_Published Oct 07, 2025, 06:41 PM_
-Airbus a320 ousts boeing 737 as most-delivered jet in history" }
-BglssanCSe@{ shape: win-pane, label: "_Published Aug 22, 2025, 08:45 AM_
-Boeing in talks to sell as many as 500 planes to china: sources" }
-Cyfynireemhe@{ shape: win-pane, label: "_Published Aug 06, 2025, 01:55 PM_
-Cathay pacific buys 14 planes in its first boeing deal in more than a decade" }
-Aaidtoeiis@{ shape: win-pane, label: "_Published Nov 27, 2025, 11:15 PM_
-Air france, airbus dispute pilot roles in rio-paris crash" }
-Fhtsrnrsen@{ shape: win-pane, label: "_Published Sep 29, 2025, 06:08 AM_
-French court opens new trial on af447 air disaster 16 years on" }
-Nvouncrrar@{ shape: win-pane, label: "_Published Dec 08, 2022, 07:38 AM_
-No convictions sought in french court over 2009 rio-paris crash" }
+Ptllhnhdm@{ shape: win-pane, label: "_Published Nov 29, 2025, 10:52 AM_
+Papal travels reflect changing catholic diplomacy" }
+Peaastkbosrt@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:48 PM_
+Pope leo to take peace message to turkey, lebanon on first overseas trip" }
+Abbsciilto@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:55 PM_
+At tomb of lebanon’s miracle saint, faithful await the pope" }
+PeduLoivap@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:00 PM_
+Pope leo heads to turkey, lebanon in first overseas trip" }
+PeduLoivap@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:00 PM_
+Pope leo heads to turkey, lebanon in first overseas trip" }
+IkaoCtoi@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:53 PM_
+In turkey, a patchwork of christian communities" }
+PeduLoivap@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:00 PM_
+Pope leo heads to turkey, lebanon in first overseas trip" }
+PeduLoivap@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:00 PM_
+Pope leo heads to turkey, lebanon in first overseas trip" }
+Ikpkoaihiv@{ shape: win-pane, label: "_Published Nov 29, 2025, 10:46 AM_
+In turkey, pope seeks to soothe an ancient christian divide" }
+Penocdrutivap@{ shape: win-pane, label: "_Published Nov 27, 2025, 09:18 AM_
+Pope leo warns of conflicts endangering humanity on first overseas trip" }
+Ilsomaanui@{ shape: win-pane, label: "_Published Nov 24, 2025, 01:17 AM_
+Israel kills hezbollah military leader in beirut strike" }
+Peaastkbosrt@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:48 PM_
+Pope leo to take peace message to turkey, lebanon on first overseas trip" }
 
-WYresemhiN:::txtsize --> Unpetrsrbitc:::txtsize
-Unpetrsrbitc:::txtsize --> Unitcehfncof:::txtsize
-Unitcehfncof:::txtsize --> Unlydhffacir:::txtsize
-Unpetrsrbitc:::txtsize --> CZslufetarc:::txtsize
-CZslufetarc:::txtsize --> Unitcdrcsundst:::txtsize
-CZslufetarc:::txtsize --> UnyIoieera:::txtsize
-WYresemhiN:::txtsize --> Aseocrdpscoi:::txtsize
-Aseocrdpscoi:::txtsize --> Astimerts:::txtsize
-Astimerts:::txtsize --> BglssanCSe:::txtsize
-Astimerts:::txtsize --> Cyfynireemhe:::txtsize
-Aseocrdpscoi:::txtsize --> Aaidtoeiis:::txtsize
-Aaidtoeiis:::txtsize --> Fhtsrnrsen:::txtsize
-Aaidtoeiis:::txtsize --> Nvouncrrar:::txtsize
+Ptllhnhdm:::txtsize --> Peaastkbosrt:::txtsize
+Peaastkbosrt:::txtsize --> Abbsciilto:::txtsize
+Abbsciilto:::txtsize --> PeduLoivap:::txtsize
+Abbsciilto:::txtsize --> PeduLoivap:::txtsize
+Peaastkbosrt:::txtsize --> IkaoCtoi:::txtsize
+IkaoCtoi:::txtsize --> PeduLoivap:::txtsize
+IkaoCtoi:::txtsize --> PeduLoivap:::txtsize
+Ptllhnhdm:::txtsize --> Ikpkoaihiv:::txtsize
+Ikpkoaihiv:::txtsize --> Penocdrutivap:::txtsize
+Penocdrutivap:::txtsize --> Ilsomaanui:::txtsize
+Penocdrutivap:::txtsize --> Peaastkbosrt:::txtsize
 
-Rptpmneerius@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:39 AM_
-Rubio plans to skip nato meeting at key moment for ukraine, sources say" }
-Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
-Us peace plan for ukraine drew from russian document, sources say" }
-Tsodirisohe@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:30 AM_
-Trump says no firm deadline for ukraine, russia to reach peace deal" }
-Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
-Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
-Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
-Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
-UnlyorpfStd@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:08 AM_
-Ukraine’s zelensky welcomes ‘principles’ of new us draft to end war" }
-Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
-Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
-Feryaoilnoeewke@{ shape: win-pane, label: "_Published Nov 26, 2025, 03:17 AM_
-France’s macron says ‘clearly no russian willingness to agree ceasefire’ with ukraine" }
-ToiegRaipuoorpp@{ shape: win-pane, label: "_Published Nov 23, 2025, 12:09 AM_
-Trump officials’ meeting with russian in miami spurs questions about ukraine peace plan" }
-Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
-Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
-Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
-Trump’s 28-point ukraine plan" }
+Sflhntsrslpc@{ shape: win-pane, label: "_Published Nov 29, 2025, 10:52 AM_
+Stake for sale in the economist draws interest as deadline approaches" }
+TslhBleioe@{ shape: win-pane, label: "_Published Nov 25, 2025, 08:18 PM_
+Trump’s battle with the bbc could threaten its global reach" }
+Bunsoadtadnp@{ shape: win-pane, label: "_Published Nov 15, 2025, 10:53 PM_
+Bbc caught in crossfire of polarised political and media landscape" }
+BiCosueoshrtaoi@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:07 AM_
+Britain’s bbc apologises to trump over panorama speech edit, rejects defamation claim" }
+Tsieooieet@{ shape: win-pane, label: "_Published Nov 15, 2025, 10:09 AM_
+Trump says will sue bbc for up to $6.4 billion over video edit" }
+Bunsoadtadnp@{ shape: win-pane, label: "_Published Nov 15, 2025, 10:53 PM_
+Bbc caught in crossfire of polarised political and media landscape" }
+BiCosueoshrtaoi@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:07 AM_
+Britain’s bbc apologises to trump over panorama speech edit, rejects defamation claim" }
+Tsieooieet@{ shape: win-pane, label: "_Published Nov 15, 2025, 10:09 AM_
+Trump says will sue bbc for up to $6.4 billion over video edit" }
+Nreodoilcr@{ shape: win-pane, label: "_Published Feb 09, 2025, 10:00 AM_
+New york times reports 350,000 additional digital subscribers" }
+Nresuioolo@{ shape: win-pane, label: "_Published Nov 04, 2024, 09:27 PM_
+New york times passes 11m subscribers on eve of us election" }
+NreapsstlrsTi@{ shape: win-pane, label: "_Published Sep 24, 2024, 11:02 PM_
+New york times to launch podcast subscription plan for shows like the daily" }
+Twbtefespbe@{ shape: win-pane, label: "_Published Sep 17, 2023, 11:35 AM_
+The news may be getting better for america’s newspaper business" }
+Blmfioropraecnr@{ shape: win-pane, label: "_Published Feb 05, 2025, 06:14 PM_
+Bbc tells some staff in singapore bureau to reapply for jobs amid restructuring exercise" }
+BsiononneeCu@{ shape: win-pane, label: "_Published Oct 17, 2024, 09:05 AM_
+British media union warns of ‘worrying trend’ after latest bbc job cuts" }
+Dlfttoswoith@{ shape: win-pane, label: "_Published Feb 01, 2024, 02:45 PM_
+Dyson layoffs: what rights do workers have when companies retrench?" }
 
-Rptpmneerius:::txtsize --> Ucnkefunmos:::txtsize
-Ucnkefunmos:::txtsize --> Tsodirisohe:::txtsize
-Tsodirisohe:::txtsize --> Zsyaeonaalusdthp:::txtsize
-Tsodirisohe:::txtsize --> Zsyaeonaalusdthp:::txtsize
-Ucnkefunmos:::txtsize --> UnlyorpfStd:::txtsize
-UnlyorpfStd:::txtsize --> Zsyaeonaalusdthp:::txtsize
-UnlyorpfStd:::txtsize --> Feryaoilnoeewke:::txtsize
-Rptpmneerius:::txtsize --> ToiegRaipuoorpp:::txtsize
-ToiegRaipuoorpp:::txtsize --> Uneftcrespepp:::txtsize
-Uneftcrespepp:::txtsize --> Tstia:::txtsize
+Sflhntsrslpc:::txtsize --> TslhBleioe:::txtsize
+TslhBleioe:::txtsize --> Bunsoadtadnp:::txtsize
+Bunsoadtadnp:::txtsize --> BiCosueoshrtaoi:::txtsize
+Bunsoadtadnp:::txtsize --> Tsieooieet:::txtsize
+TslhBleioe:::txtsize --> Bunsoadtadnp:::txtsize
+Bunsoadtadnp:::txtsize --> BiCosueoshrtaoi:::txtsize
+Bunsoadtadnp:::txtsize --> Tsieooieet:::txtsize
+Sflhntsrslpc:::txtsize --> Nreodoilcr:::txtsize
+Nreodoilcr:::txtsize --> Nresuioolo:::txtsize
+Nresuioolo:::txtsize --> NreapsstlrsTi:::txtsize
+Nresuioolo:::txtsize --> Twbtefespbe:::txtsize
+Nreodoilcr:::txtsize --> Blmfioropraecnr:::txtsize
+Blmfioropraecnr:::txtsize --> BsiononneeCu:::txtsize
+Blmfioropraecnr:::txtsize --> Dlfttoswoith:::txtsize
 
 ```
-<i>Last updated: 2025-11-29 08:00:33.288345 (GMT+8)</i>
+<i>Last updated: 2025-11-29 12:00:58.502546 (GMT+8)</i>
 <!-- END -->
