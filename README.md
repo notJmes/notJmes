@@ -16,144 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Dtrzssselld@{ shape: win-pane, label: "_Published Nov 29, 2025, 11:27 PM_
-Death toll from gaza war surpasses 70,000, as ceasefire largely holds" }
-Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
-Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
-Israel marks oct 7 anniversary as talks are held to end gaza war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Pgoihfcfge@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:53 AM_
-Pm wong welcomes first phase of gaza ceasefire agreement" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-SpeeamaeihfptGoc@{ shape: win-pane, label: "_Published Oct 09, 2025, 11:04 PM_
-Singapore welcomes israel-hamas deal to begin first phase of trump plan to end gaza conflict: mfa" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
+WYresemhiN@{ shape: win-pane, label: "_Published Nov 30, 2025, 06:35 AM_
+While you were sleeping: 5 stories you might have missed, nov 30, 2025" }
+Tsicvsugztliee@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:19 PM_
+Trump says airspace above and surrounding venezuela to be closed in its entirety" }
+Ucceinaeiiburz@{ shape: win-pane, label: "_Published Nov 17, 2025, 03:14 AM_
+Us aircraft carrier arrives in the caribbean amid military build-up near venezuela" }
+Eirdyroersl@{ shape: win-pane, label: "_Published Oct 31, 2025, 06:16 PM_
+Explainer: are the deadly us strikes on alleged drug vessels legal?​" }
+VuonipcnAraTo@{ shape: win-pane, label: "_Published Oct 27, 2025, 08:06 AM_
+Venezuela condemns ‘military provocation’ by cia and trinidad and tobago" }
+Uddrngufialhe@{ shape: win-pane, label: "_Published Nov 14, 2025, 06:32 AM_
+Us conducted 20th strike on alleged drug trafficking boat earlier this week" }
+MRdsriUinkGi@{ shape: win-pane, label: "_Published Nov 13, 2025, 08:44 AM_
+Marco rubio dismisses criticism of us caribbean strikes at g-7 meeting" }
+Uildcisiiig@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:20 PM_
+Us strikes alleged drug-carrying vessels in pacific, killing six" }
+Cbstepsia@{ shape: win-pane, label: "_Published Nov 30, 2025, 12:25 AM_
+Crowd braves rain to attend pope leo’s mass in istanbul" }
+PiIbls@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:00 PM_
+Pope visits istanbul’s blue mosque" }
+Ptllhnhdm@{ shape: win-pane, label: "_Published Nov 29, 2025, 10:52 AM_
+Papal travels reflect changing catholic diplomacy" }
+Ikpkoaihiv@{ shape: win-pane, label: "_Published Nov 29, 2025, 10:46 AM_
+In turkey, pope seeks to soothe an ancient christian divide" }
+PiIbls@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:00 PM_
+Pope visits istanbul’s blue mosque" }
+Ptllhnhdm@{ shape: win-pane, label: "_Published Nov 29, 2025, 10:52 AM_
+Papal travels reflect changing catholic diplomacy" }
+Ikpkoaihiv@{ shape: win-pane, label: "_Published Nov 29, 2025, 10:46 AM_
+In turkey, pope seeks to soothe an ancient christian divide" }
 
-Dtrzssselld:::txtsize --> Iliaeseoewa:::txtsize
-Iliaeseoewa:::txtsize --> TssHaossaaorslaoe:::txtsize
-TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
-TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
-Iliaeseoewa:::txtsize --> Pgoihfcfge:::txtsize
-Pgoihfcfge:::txtsize --> TssHaossaaorslaoe:::txtsize
-Pgoihfcfge:::txtsize --> SpeeamaeihfptGoc:::txtsize
-Dtrzssselld:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+WYresemhiN:::txtsize --> Tsicvsugztliee:::txtsize
+Tsicvsugztliee:::txtsize --> Ucceinaeiiburz:::txtsize
+Ucceinaeiiburz:::txtsize --> Eirdyroersl:::txtsize
+Ucceinaeiiburz:::txtsize --> VuonipcnAraTo:::txtsize
+Tsicvsugztliee:::txtsize --> Uddrngufialhe:::txtsize
+Uddrngufialhe:::txtsize --> MRdsriUinkGi:::txtsize
+Uddrngufialhe:::txtsize --> Uildcisiiig:::txtsize
+WYresemhiN:::txtsize --> Cbstepsia:::txtsize
+Cbstepsia:::txtsize --> PiIbls:::txtsize
+PiIbls:::txtsize --> Ptllhnhdm:::txtsize
+PiIbls:::txtsize --> Ikpkoaihiv:::txtsize
+Cbstepsia:::txtsize --> PiIbls:::txtsize
+PiIbls:::txtsize --> Ptllhnhdm:::txtsize
+PiIbls:::txtsize --> Ikpkoaihiv:::txtsize
 
-Mvehicedbh@{ shape: win-pane, label: "_Published Nov 29, 2025, 11:21 PM_
-Moldova briefly shuts airspace after new drone breach" }
-Vunnakrkasenz@{ shape: win-pane, label: "_Published Nov 29, 2025, 03:39 PM_
-Vast russian overnight attack on ukraine kills at least three, wounds dozens" }
-HRaewcuatt@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:05 AM_
-How us-russia peace plan would carve up ukraine’s territory" }
-UKisrlerr@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:43 PM_
-Us and kyiv discuss reworked plan to end war in ukraine" }
-Unlystsippposehp@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:42 AM_
-Ukraine’s zelensky says sensitive issues in proposed peace plan to be discussed with trump" }
-HRaewcuatt@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:05 AM_
-How us-russia peace plan would carve up ukraine’s territory" }
-UKisrlerr@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:43 PM_
-Us and kyiv discuss reworked plan to end war in ukraine" }
-Unlystsippposehp@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:42 AM_
-Ukraine’s zelensky says sensitive issues in proposed peace plan to be discussed with trump" }
-MvpRanmnvatc@{ shape: win-pane, label: "_Published Nov 27, 2025, 12:15 AM_
-Moldova displays russian drone, summons envoy over ‘unacceptable’ crash" }
-Mvolairerntt@{ shape: win-pane, label: "_Published Sep 29, 2025, 06:28 AM_
-Moldova’s pro-eu ruling party wins surprise majority in pivotal vote" }
-Mvsupfeen@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:38 PM_
-Moldova bars pro-russia party from sept 28 election" }
-RaleiMvpeE@{ shape: win-pane, label: "_Published Sep 25, 2025, 11:51 PM_
-Russia ‘deeply interfering’ in moldova’s sept 28 vote, says eu" }
-RaleiMvpeE@{ shape: win-pane, label: "_Published Sep 25, 2025, 11:51 PM_
-Russia ‘deeply interfering’ in moldova’s sept 28 vote, says eu" }
-LreycawoMvaRa@{ shape: win-pane, label: "_Published Aug 28, 2025, 12:30 AM_
-Leaders of germany, france, poland vow ‘support’ to moldova in face of russia" }
-MvepaaenEak@{ shape: win-pane, label: "_Published Sep 25, 2025, 08:52 PM_
-Moldova faces key parliamentary election, with eu bid at stake" }
+RlUrteNseset@{ shape: win-pane, label: "_Published Nov 30, 2025, 05:37 AM_
+Republican us representative troy nehls says he won’t seek reelection" }
+FnaTbwaileoAan@{ shape: win-pane, label: "_Published Nov 20, 2025, 07:04 PM_
+Feud in the family: trump break with marjorie taylor greene jolts maga heartland" }
+TskeMewtco@{ shape: win-pane, label: "_Published Nov 18, 2025, 09:15 AM_
+Trump’s frankenstein? us maga meltdown tests its creator" }
+TsialjGeorfri@{ shape: win-pane, label: "_Published Nov 11, 2025, 07:29 AM_
+Trump says firebrand ally marjorie greene has ‘lost her way’ after criticism" }
+Frpsattly@{ shape: win-pane, label: "_Published Nov 16, 2025, 07:29 AM_
+Former trump ally says facing threats ‘fuelled’ by him" }
+Frpsattly@{ shape: win-pane, label: "_Published Nov 16, 2025, 07:29 AM_
+Former trump ally says facing threats ‘fuelled’ by him" }
+TwrutomyoaGe@{ shape: win-pane, label: "_Published Nov 15, 2025, 02:43 PM_
+Trump withdraws support for long-time ally marjorie taylor greene" }
+HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
+‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
 
-Mvehicedbh:::txtsize --> Vunnakrkasenz:::txtsize
-Vunnakrkasenz:::txtsize --> HRaewcuatt:::txtsize
-HRaewcuatt:::txtsize --> UKisrlerr:::txtsize
-HRaewcuatt:::txtsize --> Unlystsippposehp:::txtsize
-Vunnakrkasenz:::txtsize --> HRaewcuatt:::txtsize
-HRaewcuatt:::txtsize --> UKisrlerr:::txtsize
-HRaewcuatt:::txtsize --> Unlystsippposehp:::txtsize
-Mvehicedbh:::txtsize --> MvpRanmnvatc:::txtsize
-MvpRanmnvatc:::txtsize --> Mvolairerntt:::txtsize
-Mvolairerntt:::txtsize --> Mvsupfeen:::txtsize
-Mvolairerntt:::txtsize --> RaleiMvpeE:::txtsize
-MvpRanmnvatc:::txtsize --> RaleiMvpeE:::txtsize
-RaleiMvpeE:::txtsize --> LreycawoMvaRa:::txtsize
-RaleiMvpeE:::txtsize --> MvepaaenEak:::txtsize
+RlUrteNseset:::txtsize --> FnaTbwaileoAan:::txtsize
+FnaTbwaileoAan:::txtsize --> TskeMewtco:::txtsize
+TskeMewtco:::txtsize --> TsialjGeorfri:::txtsize
+TskeMewtco:::txtsize --> Frpsattly:::txtsize
+FnaTbwaileoAan:::txtsize --> Frpsattly:::txtsize
+Frpsattly:::txtsize --> TwrutomyoaGe:::txtsize
+Frpsattly:::txtsize --> HwtipngesTkfot:::txtsize
 
-Sslbsuearennaee@{ shape: win-pane, label: "_Published Nov 29, 2025, 10:40 PM_
-Spanish airline iberia says customer data ‘compromised’ but no sign of fraudulent use" }
-Aaantylotsldnlgcbh@{ shape: win-pane, label: "_Published Oct 12, 2025, 12:15 PM_
-Australian airline qantas says millions of customers’ data leaked online following july cyber breach" }
-AaQsmotanpiek@{ shape: win-pane, label: "_Published Jul 02, 2025, 07:55 AM_
-Australia’s qantas says 6 million customer accounts exposed in cyber hack" }
-Ttpidrcs@{ shape: win-pane, label: "_Published Jul 01, 2025, 12:52 AM_
-‘targeted, sophisticated’ cyber attack hits icc" }
-Qsaoioeedai@{ shape: win-pane, label: "_Published Jun 24, 2025, 03:38 PM_
-Qantas jet takes 15-hour flight to nowhere due to middle east crisis" }
-Arohtegfawtsrry@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:16 AM_
-Airport chaos highlights rise in high-profile ransomware attacks, cyber experts say" }
-Eerslcakunrie@{ shape: win-pane, label: "_Published Sep 20, 2025, 03:40 PM_
-European airports snarled by cyber attack, disruption to stretch into sept 21" }
-Titceronttaw@{ shape: win-pane, label: "_Published Sep 18, 2025, 10:20 PM_
-Two british teens charged over london transport hack that lasted weeks" }
-Aaantylotsldnlgcbh@{ shape: win-pane, label: "_Published Oct 12, 2025, 12:15 PM_
-Australian airline qantas says millions of customers’ data leaked online following july cyber breach" }
-AaQsmotanpiek@{ shape: win-pane, label: "_Published Jul 02, 2025, 07:55 AM_
-Australia’s qantas says 6 million customer accounts exposed in cyber hack" }
-Ttpidrcs@{ shape: win-pane, label: "_Published Jul 01, 2025, 12:52 AM_
-‘targeted, sophisticated’ cyber attack hits icc" }
-Qsaoioeedai@{ shape: win-pane, label: "_Published Jun 24, 2025, 03:38 PM_
-Qantas jet takes 15-hour flight to nowhere due to middle east crisis" }
-Arohtegfawtsrry@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:16 AM_
-Airport chaos highlights rise in high-profile ransomware attacks, cyber experts say" }
-Eerslcakunrie@{ shape: win-pane, label: "_Published Sep 20, 2025, 03:40 PM_
-European airports snarled by cyber attack, disruption to stretch into sept 21" }
-Titceronttaw@{ shape: win-pane, label: "_Published Sep 18, 2025, 10:20 PM_
-Two british teens charged over london transport hack that lasted weeks" }
+ItissibtamnA@{ shape: win-pane, label: "_Published Nov 30, 2025, 02:56 AM_
+‘i don’t trust it’: russians sceptical about state-backed messenger max" }
+RaatbWA@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:33 AM_
+Russia threatens total ban on whatsapp" }
+RattimleaWAtx@{ shape: win-pane, label: "_Published Aug 13, 2025, 09:38 PM_
+Russia starts restricting some calls on telegram and whatsapp, interfax says" }
+Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
+Timeline: how russia's attack on ukraine unfolded" }
+Racbsraa@{ shape: win-pane, label: "_Published Dec 14, 2024, 01:58 AM_
+Russian watchdog blocks viber messaging app" }
+RartkXWAvbilnett@{ shape: win-pane, label: "_Published Aug 21, 2025, 04:51 PM_
+Russia orders state-backed max app, a ‘whatsapp rival’, to be pre-installed on phones and tablets" }
+RattimleaWAtx@{ shape: win-pane, label: "_Published Aug 13, 2025, 09:38 PM_
+Russia starts restricting some calls on telegram and whatsapp, interfax says" }
+RareearsregncnSr@{ shape: win-pane, label: "_Published Apr 08, 2025, 07:58 AM_
+Russian court fines telegram app for refusal to remove anti-government content, tass reports" }
+RaatbWA@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:33 AM_
+Russia threatens total ban on whatsapp" }
+RattimleaWAtx@{ shape: win-pane, label: "_Published Aug 13, 2025, 09:38 PM_
+Russia starts restricting some calls on telegram and whatsapp, interfax says" }
+Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
+Timeline: how russia's attack on ukraine unfolded" }
+Racbsraa@{ shape: win-pane, label: "_Published Dec 14, 2024, 01:58 AM_
+Russian watchdog blocks viber messaging app" }
+RartkXWAvbilnett@{ shape: win-pane, label: "_Published Aug 21, 2025, 04:51 PM_
+Russia orders state-backed max app, a ‘whatsapp rival’, to be pre-installed on phones and tablets" }
+RattimleaWAtx@{ shape: win-pane, label: "_Published Aug 13, 2025, 09:38 PM_
+Russia starts restricting some calls on telegram and whatsapp, interfax says" }
+RareearsregncnSr@{ shape: win-pane, label: "_Published Apr 08, 2025, 07:58 AM_
+Russian court fines telegram app for refusal to remove anti-government content, tass reports" }
 
-Sslbsuearennaee:::txtsize --> Aaantylotsldnlgcbh:::txtsize
-Aaantylotsldnlgcbh:::txtsize --> AaQsmotanpiek:::txtsize
-AaQsmotanpiek:::txtsize --> Ttpidrcs:::txtsize
-AaQsmotanpiek:::txtsize --> Qsaoioeedai:::txtsize
-Aaantylotsldnlgcbh:::txtsize --> Arohtegfawtsrry:::txtsize
-Arohtegfawtsrry:::txtsize --> Eerslcakunrie:::txtsize
-Arohtegfawtsrry:::txtsize --> Titceronttaw:::txtsize
-Sslbsuearennaee:::txtsize --> Aaantylotsldnlgcbh:::txtsize
-Aaantylotsldnlgcbh:::txtsize --> AaQsmotanpiek:::txtsize
-AaQsmotanpiek:::txtsize --> Ttpidrcs:::txtsize
-AaQsmotanpiek:::txtsize --> Qsaoioeedai:::txtsize
-Aaantylotsldnlgcbh:::txtsize --> Arohtegfawtsrry:::txtsize
-Arohtegfawtsrry:::txtsize --> Eerslcakunrie:::txtsize
-Arohtegfawtsrry:::txtsize --> Titceronttaw:::txtsize
+ItissibtamnA:::txtsize --> RaatbWA:::txtsize
+RaatbWA:::txtsize --> RattimleaWAtx:::txtsize
+RattimleaWAtx:::txtsize --> Tiwitnifd:::txtsize
+RattimleaWAtx:::txtsize --> Racbsraa:::txtsize
+RaatbWA:::txtsize --> RartkXWAvbilnett:::txtsize
+RartkXWAvbilnett:::txtsize --> RattimleaWAtx:::txtsize
+RartkXWAvbilnett:::txtsize --> RareearsregncnSr:::txtsize
+ItissibtamnA:::txtsize --> RaatbWA:::txtsize
+RaatbWA:::txtsize --> RattimleaWAtx:::txtsize
+RattimleaWAtx:::txtsize --> Tiwitnifd:::txtsize
+RattimleaWAtx:::txtsize --> Racbsraa:::txtsize
+RaatbWA:::txtsize --> RartkXWAvbilnett:::txtsize
+RartkXWAvbilnett:::txtsize --> RattimleaWAtx:::txtsize
+RartkXWAvbilnett:::txtsize --> RareearsregncnSr:::txtsize
 
 ```
-<i>Last updated: 2025-11-30 00:01:49.160433 (GMT+8)</i>
+<i>Last updated: 2025-11-30 07:21:03.678216 (GMT+8)</i>
 <!-- END -->
