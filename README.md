@@ -16,120 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ilausoeorii@{ shape: win-pane, label: "_Published Nov 30, 2025, 06:34 PM_
-Israel’s netanyahu seeks pardon in years-long corruption trial" }
-Tasiitdthe@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:21 PM_
-Trump asks israeli president to pardon netanyahu in letter" }
-TuIlstreaororo@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:09 PM_
-Trump urges israel’s president to pardon netanyahu, who’s on trial for corruption" }
-Ilrtsnarifa@{ shape: win-pane, label: "_Published Jun 29, 2025, 09:03 PM_
-Israeli court postpones netanyahu appearance in graft trial" }
-Ilnvfteeveeaotr@{ shape: win-pane, label: "_Published Aug 05, 2025, 12:55 PM_
-Israel cabinet moves to fire attorney-general overseeing netanyahu’s corruption trial" }
-Tssithriioee@{ shape: win-pane, label: "_Published Jun 26, 2025, 08:10 AM_
-Trump says israeli pm netanyahu’s corruption trial should be cancelled" }
-EieariivIll@{ shape: win-pane, label: "_Published Dec 10, 2024, 07:12 AM_
-Explainer: netanyahu corruption trial divides israeli public" }
-IacfibdeSk@{ shape: win-pane, label: "_Published Jun 25, 2025, 11:10 PM_
-Iran says nuclear facilities ‘badly damaged’ by us strikes" }
-TsIlsoeauunl@{ shape: win-pane, label: "_Published Jun 29, 2025, 08:26 AM_
-Trump slams israel’s prosecutors over netanyahu corruption trial" }
-IltreoGoeene@{ shape: win-pane, label: "_Published Jun 29, 2025, 07:05 AM_
-Israeli protesters urge action for gaza hostages after iran truce" }
-Tsrdeecedletdr@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:17 AM_
-Trump says iran and israel agree to a ‘complete and total’ ceasefire to end 12-day war" }
-QuIlsinfrtGr@{ shape: win-pane, label: "_Published Jun 28, 2025, 05:23 PM_
-Qatar urges israel, hamas to seize ‘window of opportunity’ for gaza truce" }
+Peeialutaoc@{ shape: win-pane, label: "_Published Nov 30, 2025, 11:19 PM_
+Pope leo: palestinian state ‘only’ solution to israeli conflict" }
+UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
+Us cardinal prevost elected pope leo xiv, first american pontiff" }
+Arnclaenigi@{ shape: win-pane, label: "_Published May 09, 2025, 06:49 AM_
+A reformer and a reconciler: what pope leo’s new reign might bring" }
+Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
+Pope francis dies at age 88" }
+UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
+Us cardinal prevost elected pope leo xiv, first american pontiff" }
+IfarPeoselbia@{ shape: win-pane, label: "_Published May 09, 2025, 03:40 AM_
+In his first appearance, pope leo xiv offers three big clues about his papacy" }
+UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
+Us cardinal prevost elected pope leo xiv, first american pontiff" }
+Prsraoddsiasv@{ shape: win-pane, label: "_Published Apr 26, 2025, 09:05 AM_
+Pope francis’ funeral draws thousands, cardinal says his legacy must survive" }
+Hlroojsienbv@{ shape: win-pane, label: "_Published Nov 29, 2025, 07:50 PM_
+Hezbollah urges pope leo to reject israeli ‘aggression’ on lebanon visit" }
+Petdsinensgvn@{ shape: win-pane, label: "_Published Nov 28, 2025, 02:58 PM_
+Pope leo meets middle east christian leaders, condemns religious violence" }
+Penocdrutivap@{ shape: win-pane, label: "_Published Nov 27, 2025, 09:18 AM_
+Pope leo warns of conflicts endangering humanity on first overseas trip" }
+Penocdrutivap@{ shape: win-pane, label: "_Published Nov 27, 2025, 09:18 AM_
+Pope leo warns of conflicts endangering humanity on first overseas trip" }
+PiIbls@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:00 PM_
+Pope visits istanbul’s blue mosque" }
+Ptllhnhdm@{ shape: win-pane, label: "_Published Nov 29, 2025, 10:52 AM_
+Papal travels reflect changing catholic diplomacy" }
+Ikpkoaihiv@{ shape: win-pane, label: "_Published Nov 29, 2025, 10:46 AM_
+In turkey, pope seeks to soothe an ancient christian divide" }
 
-Ilausoeorii:::txtsize --> Tasiitdthe:::txtsize
-Tasiitdthe:::txtsize --> TuIlstreaororo:::txtsize
-TuIlstreaororo:::txtsize --> Ilrtsnarifa:::txtsize
-TuIlstreaororo:::txtsize --> Ilnvfteeveeaotr:::txtsize
-Tasiitdthe:::txtsize --> Tssithriioee:::txtsize
-Tssithriioee:::txtsize --> EieariivIll:::txtsize
-Tssithriioee:::txtsize --> IacfibdeSk:::txtsize
-Ilausoeorii:::txtsize --> TsIlsoeauunl:::txtsize
-TsIlsoeauunl:::txtsize --> IltreoGoeene:::txtsize
-IltreoGoeene:::txtsize --> Tsrdeecedletdr:::txtsize
-IltreoGoeene:::txtsize --> QuIlsinfrtGr:::txtsize
+Peeialutaoc:::txtsize --> UdPscooimat:::txtsize
+UdPscooimat:::txtsize --> Arnclaenigi:::txtsize
+Arnclaenigi:::txtsize --> Prsa:::txtsize
+Arnclaenigi:::txtsize --> UdPscooimat:::txtsize
+UdPscooimat:::txtsize --> IfarPeoselbia:::txtsize
+IfarPeoselbia:::txtsize --> UdPscooimat:::txtsize
+IfarPeoselbia:::txtsize --> Prsraoddsiasv:::txtsize
+Peeialutaoc:::txtsize --> Hlroojsienbv:::txtsize
+Hlroojsienbv:::txtsize --> Petdsinensgvn:::txtsize
+Petdsinensgvn:::txtsize --> Penocdrutivap:::txtsize
+Petdsinensgvn:::txtsize --> Penocdrutivap:::txtsize
+Hlroojsienbv:::txtsize --> PiIbls:::txtsize
+PiIbls:::txtsize --> Ptllhnhdm:::txtsize
+PiIbls:::txtsize --> Ikpkoaihiv:::txtsize
 
-RleiioaBins@{ shape: win-pane, label: "_Published Nov 30, 2025, 06:18 PM_
-Rachel reeves denies lying about state of britain’s finances" }
-Ugamknoilialt@{ shape: win-pane, label: "_Published Nov 27, 2025, 06:00 PM_
-Uk budget plan calms markets and labour faithful, but will it appeal to voters?" }
-WrnnnomlevdiyLro@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:55 PM_
-With britain’s economy in the doldrums, will rachel reeves’ budget finally show labour can govern?" }
-Ktroreoiensnnsa@{ shape: win-pane, label: "_Published Jul 05, 2024, 12:05 PM_
-Keir starmer’s labour party sweeps to british election win as pm sunak concedes defeat" }
-Uoauaroeftf@{ shape: win-pane, label: "_Published Jun 13, 2024, 07:15 AM_
-Uk labour leader puts wealth creation at heart of election offer" }
-WrnnnomlevdiyLro@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:55 PM_
-With britain’s economy in the doldrums, will rachel reeves’ budget finally show labour can govern?" }
-Ktroreoiensnnsa@{ shape: win-pane, label: "_Published Jul 05, 2024, 12:05 PM_
-Keir starmer’s labour party sweeps to british election win as pm sunak concedes defeat" }
-Upmtzsstoei@{ shape: win-pane, label: "_Published Jul 05, 2024, 02:25 PM_
-Uk’s ex-prime minister liz truss loses seat to labour in election" }
-Uoauaroeftf@{ shape: win-pane, label: "_Published Jun 13, 2024, 07:15 AM_
-Uk labour leader puts wealth creation at heart of election offer" }
-Toshalaacfl@{ shape: win-pane, label: "_Published May 23, 2024, 12:20 AM_
-‘time to choose’: rishi sunak calls uk national election for july 4" }
-Unfoxacpred@{ shape: win-pane, label: "_Published Jun 11, 2024, 11:11 PM_
-Uk’s sunak offers more tax cuts as election polls refuse to budge" }
+NnaowdihnyeSicrm@{ shape: win-pane, label: "_Published Nov 30, 2025, 11:06 PM_
+National guard shooter was radicalised while in us, says homeland security secretary noem" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
+Us stops processing afghan immigration requests after attack near white house" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Pfrygkiuregncr@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:35 AM_
+‘pried fingers away from gun’: wikipedia volunteers take down gunman at us conference" }
+Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
+Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
+Ipnsohehrmirgs@{ shape: win-pane, label: "_Published Nov 17, 2025, 04:50 PM_
+In pulpits and pews, catholic churches in the us urge compassion for immigrants" }
+PeieubnUhslit@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:25 PM_
+Pope leo’s critique of trump emboldens top us catholics to help immigrants" }
+TvozrnTWcrfagt@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:11 PM_
+Trump vows to freeze migration from ‘third world countries’ after washington attack" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
+Us stops processing afghan immigration requests after attack near white house" }
+Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
+Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
+TsniGmrstogi@{ shape: win-pane, label: "_Published Nov 28, 2025, 09:30 AM_
+Trump says one national guard member in washington shooting has died" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Foosrdcaardnho@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:08 PM_
+Fbi probes motives in ‘targeted’ attack on national guard soldiers near white house" }
 
-RleiioaBins:::txtsize --> Ugamknoilialt:::txtsize
-Ugamknoilialt:::txtsize --> WrnnnomlevdiyLro:::txtsize
-WrnnnomlevdiyLro:::txtsize --> Ktroreoiensnnsa:::txtsize
-WrnnnomlevdiyLro:::txtsize --> Uoauaroeftf:::txtsize
-RleiioaBins:::txtsize --> WrnnnomlevdiyLro:::txtsize
-WrnnnomlevdiyLro:::txtsize --> Ktroreoiensnnsa:::txtsize
-Ktroreoiensnnsa:::txtsize --> Upmtzsstoei:::txtsize
-WrnnnomlevdiyLro:::txtsize --> Uoauaroeftf:::txtsize
-Uoauaroeftf:::txtsize --> Toshalaacfl:::txtsize
-Uoauaroeftf:::txtsize --> Unfoxacpred:::txtsize
+NnaowdihnyeSicrm:::txtsize --> Nnalsiydttteiu:::txtsize
+Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
+Upcnhmteteaats:::txtsize --> Nnalsiydttteiu:::txtsize
+Upcnhmteteaats:::txtsize --> Pfrygkiuregncr:::txtsize
+Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
+Pespnaemipuit:::txtsize --> Ipnsohehrmirgs:::txtsize
+Pespnaemipuit:::txtsize --> PeieubnUhslit:::txtsize
+NnaowdihnyeSicrm:::txtsize --> TvozrnTWcrfagt:::txtsize
+TvozrnTWcrfagt:::txtsize --> Nnalsiydttteiu:::txtsize
+Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
+Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
+TvozrnTWcrfagt:::txtsize --> TsniGmrstogi:::txtsize
+TsniGmrstogi:::txtsize --> Nnalsiydttteiu:::txtsize
+TsniGmrstogi:::txtsize --> Foosrdcaardnho:::txtsize
 
-kdnoaeyair@{ shape: win-pane, label: "_Published Nov 30, 2025, 06:15 PM_
-4 killed coming out of gaza tunnels, says israeli military" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
-Israel marks oct 7 anniversary as talks are held to end gaza war" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-Hatmzcnhodro@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:11 PM_
-Hamas accepts trump’s gaza peace plan, but the bloodshed is far from over" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
-Singapore strongly condemns terror attacks on israel, calls for end to violence" }
+EmutivsSsgotra@{ shape: win-pane, label: "_Published Nov 30, 2025, 10:14 PM_
+Eight more suspected swine fever cases as spain struggles to limit export damage" }
+OiSskrtaldeerries@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:10 PM_
+One third of spanish pork export certificates blocked since swine fever outbreak, minister says" }
+SKistrswe@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:13 PM_
+South korea issues alert after 6th case of swine fever" }
+Tncrssf@{ shape: win-pane, label: "_Published Oct 23, 2025, 12:50 PM_
+Taiwan detects first cases of swine fever" }
+Vairniweua@{ shape: win-pane, label: "_Published Aug 05, 2025, 12:55 PM_
+Vietnam facing worsening african swine fever outbreaks" }
+Srtsiweainb@{ shape: win-pane, label: "_Published Nov 28, 2025, 06:43 PM_
+Spain reports first african swine fever cases since 1994 in wild boar" }
+SKistrswe@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:13 PM_
+South korea issues alert after 6th case of swine fever" }
+Vanopitaiweps@{ shape: win-pane, label: "_Published Jul 18, 2025, 12:01 PM_
+Vietnam warns of food supply disruptions as african swine fever spreads" }
+Shpxsitrsfnened@{ shape: win-pane, label: "_Published Nov 29, 2025, 02:33 AM_
+Spain halts pork exports to china after first case of african swine flu in three decades" }
+Srtsiweainb@{ shape: win-pane, label: "_Published Nov 28, 2025, 06:43 PM_
+Spain reports first african swine fever cases since 1994 in wild boar" }
+SKistrswe@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:13 PM_
+South korea issues alert after 6th case of swine fever" }
+Vanopitaiweps@{ shape: win-pane, label: "_Published Jul 18, 2025, 12:01 PM_
+Vietnam warns of food supply disruptions as african swine fever spreads" }
+Srtsiweainb@{ shape: win-pane, label: "_Published Nov 28, 2025, 06:43 PM_
+Spain reports first african swine fever cases since 1994 in wild boar" }
+SKistrswe@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:13 PM_
+South korea issues alert after 6th case of swine fever" }
+Vanopitaiweps@{ shape: win-pane, label: "_Published Jul 18, 2025, 12:01 PM_
+Vietnam warns of food supply disruptions as african swine fever spreads" }
 
-kdnoaeyair:::txtsize --> TssHaossaaorslaoe:::txtsize
-TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
-Ilsnrakhoar:::txtsize --> Sbsrcdnacaale:::txtsize
-Ilsnrakhoar:::txtsize --> Hatmzcnhodro:::txtsize
-TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-kdnoaeyair:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-WzptIleint:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
-Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
+EmutivsSsgotra:::txtsize --> OiSskrtaldeerries:::txtsize
+OiSskrtaldeerries:::txtsize --> SKistrswe:::txtsize
+SKistrswe:::txtsize --> Tncrssf:::txtsize
+SKistrswe:::txtsize --> Vairniweua:::txtsize
+OiSskrtaldeerries:::txtsize --> Srtsiweainb:::txtsize
+Srtsiweainb:::txtsize --> SKistrswe:::txtsize
+Srtsiweainb:::txtsize --> Vanopitaiweps:::txtsize
+EmutivsSsgotra:::txtsize --> Shpxsitrsfnened:::txtsize
+Shpxsitrsfnened:::txtsize --> Srtsiweainb:::txtsize
+Srtsiweainb:::txtsize --> SKistrswe:::txtsize
+Srtsiweainb:::txtsize --> Vanopitaiweps:::txtsize
+Shpxsitrsfnened:::txtsize --> Srtsiweainb:::txtsize
+Srtsiweainb:::txtsize --> SKistrswe:::txtsize
+Srtsiweainb:::txtsize --> Vanopitaiweps:::txtsize
 
 ```
-<i>Last updated: 2025-11-30 20:00:32.593293 (GMT+8)</i>
+<i>Last updated: 2025-12-01 00:00:57.402689 (GMT+8)</i>
 <!-- END -->
