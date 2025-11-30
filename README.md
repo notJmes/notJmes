@@ -87,52 +87,52 @@ FnaTbwaileoAan:::txtsize --> Frpsattly:::txtsize
 Frpsattly:::txtsize --> TwrutomyoaGe:::txtsize
 Frpsattly:::txtsize --> HwtipngesTkfot:::txtsize
 
-ItissibtamnA@{ shape: win-pane, label: "_Published Nov 30, 2025, 02:56 AM_
-‘i don’t trust it’: russians sceptical about state-backed messenger max" }
-RaatbWA@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:33 AM_
-Russia threatens total ban on whatsapp" }
-RattimleaWAtx@{ shape: win-pane, label: "_Published Aug 13, 2025, 09:38 PM_
-Russia starts restricting some calls on telegram and whatsapp, interfax says" }
-Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
-Timeline: how russia's attack on ukraine unfolded" }
-Racbsraa@{ shape: win-pane, label: "_Published Dec 14, 2024, 01:58 AM_
-Russian watchdog blocks viber messaging app" }
-RartkXWAvbilnett@{ shape: win-pane, label: "_Published Aug 21, 2025, 04:51 PM_
-Russia orders state-backed max app, a ‘whatsapp rival’, to be pre-installed on phones and tablets" }
-RattimleaWAtx@{ shape: win-pane, label: "_Published Aug 13, 2025, 09:38 PM_
-Russia starts restricting some calls on telegram and whatsapp, interfax says" }
-RareearsregncnSr@{ shape: win-pane, label: "_Published Apr 08, 2025, 07:58 AM_
-Russian court fines telegram app for refusal to remove anti-government content, tass reports" }
-RaatbWA@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:33 AM_
-Russia threatens total ban on whatsapp" }
-RattimleaWAtx@{ shape: win-pane, label: "_Published Aug 13, 2025, 09:38 PM_
-Russia starts restricting some calls on telegram and whatsapp, interfax says" }
-Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
-Timeline: how russia's attack on ukraine unfolded" }
-Racbsraa@{ shape: win-pane, label: "_Published Dec 14, 2024, 01:58 AM_
-Russian watchdog blocks viber messaging app" }
-RartkXWAvbilnett@{ shape: win-pane, label: "_Published Aug 21, 2025, 04:51 PM_
-Russia orders state-backed max app, a ‘whatsapp rival’, to be pre-installed on phones and tablets" }
-RattimleaWAtx@{ shape: win-pane, label: "_Published Aug 13, 2025, 09:38 PM_
-Russia starts restricting some calls on telegram and whatsapp, interfax says" }
-RareearsregncnSr@{ shape: win-pane, label: "_Published Apr 08, 2025, 07:58 AM_
-Russian court fines telegram app for refusal to remove anti-government content, tass reports" }
+UtanpcnaAne@{ shape: win-pane, label: "_Published Nov 30, 2025, 04:39 AM_
+Us state department stops processing visas for afghan allies" }
+AeiGakcmrgmtairgo@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:44 AM_
+Accused national guard attacker faces us murder charge; trump wants to halt ‘third world’ migration" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
+Us stops processing afghan immigration requests after attack near white house" }
+Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
+Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
+Tuaarottiou@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:50 PM_
+Trump uses national guard shooting to cast suspicion on refugees" }
+TsniGmrstogi@{ shape: win-pane, label: "_Published Nov 28, 2025, 09:30 AM_
+Trump says one national guard member in washington shooting has died" }
+TvozrnTWcrfagt@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:11 PM_
+Trump vows to freeze migration from ‘third world countries’ after washington attack" }
+TvozrnTWcrfagt@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:11 PM_
+Trump vows to freeze migration from ‘third world countries’ after washington attack" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
+Us stops processing afghan immigration requests after attack near white house" }
+Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
+Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
+TsniGmrstogi@{ shape: win-pane, label: "_Published Nov 28, 2025, 09:30 AM_
+Trump says one national guard member in washington shooting has died" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Foosrdcaardnho@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:08 PM_
+Fbi probes motives in ‘targeted’ attack on national guard soldiers near white house" }
 
-ItissibtamnA:::txtsize --> RaatbWA:::txtsize
-RaatbWA:::txtsize --> RattimleaWAtx:::txtsize
-RattimleaWAtx:::txtsize --> Tiwitnifd:::txtsize
-RattimleaWAtx:::txtsize --> Racbsraa:::txtsize
-RaatbWA:::txtsize --> RartkXWAvbilnett:::txtsize
-RartkXWAvbilnett:::txtsize --> RattimleaWAtx:::txtsize
-RartkXWAvbilnett:::txtsize --> RareearsregncnSr:::txtsize
-ItissibtamnA:::txtsize --> RaatbWA:::txtsize
-RaatbWA:::txtsize --> RattimleaWAtx:::txtsize
-RattimleaWAtx:::txtsize --> Tiwitnifd:::txtsize
-RattimleaWAtx:::txtsize --> Racbsraa:::txtsize
-RaatbWA:::txtsize --> RartkXWAvbilnett:::txtsize
-RartkXWAvbilnett:::txtsize --> RattimleaWAtx:::txtsize
-RartkXWAvbilnett:::txtsize --> RareearsregncnSr:::txtsize
+UtanpcnaAne:::txtsize --> AeiGakcmrgmtairgo:::txtsize
+AeiGakcmrgmtairgo:::txtsize --> Nnalsiydttteiu:::txtsize
+Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
+Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
+AeiGakcmrgmtairgo:::txtsize --> Tuaarottiou:::txtsize
+Tuaarottiou:::txtsize --> TsniGmrstogi:::txtsize
+Tuaarottiou:::txtsize --> TvozrnTWcrfagt:::txtsize
+UtanpcnaAne:::txtsize --> TvozrnTWcrfagt:::txtsize
+TvozrnTWcrfagt:::txtsize --> Nnalsiydttteiu:::txtsize
+Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
+Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
+TvozrnTWcrfagt:::txtsize --> TsniGmrstogi:::txtsize
+TsniGmrstogi:::txtsize --> Nnalsiydttteiu:::txtsize
+TsniGmrstogi:::txtsize --> Foosrdcaardnho:::txtsize
 
 ```
-<i>Last updated: 2025-11-30 07:21:03.678216 (GMT+8)</i>
+<i>Last updated: 2025-11-30 08:00:19.477278 (GMT+8)</i>
 <!-- END -->
