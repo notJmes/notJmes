@@ -16,6 +16,92 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Enpotaesana@{ shape: win-pane, label: "_Published Dec 01, 2025, 01:24 AM_
+Eu to unveil plan for cutting raw materials’ reliance on china" }
+Wssynisolriarr@{ shape: win-pane, label: "_Published Oct 11, 2025, 07:30 AM_
+World’s chip supply chain bracing itself for fallout from china’s rare earth curbs" }
+TreUndweixco@{ shape: win-pane, label: "_Published Oct 11, 2025, 05:16 AM_
+Trump ratchets up us-china trade war with new 100% tariffs, export controls" }
+Wnrtffnrlt@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:00 PM_
+Why donald trump’s tariffs are failing to break global trade" }
+Cruehromouiftt@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:48 PM_
+China ramps up rare earth restrictions, in move to beef up position for us trade talks" }
+Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
+China tightens rare earth export controls and targets defence, semiconductor users" }
+PammueCriiarmn@{ shape: win-pane, label: "_Published Oct 09, 2025, 08:35 PM_
+Pragmatism may temper turbulent us-china relationship: asia future summit panel" }
+CsiQlhafvart@{ shape: win-pane, label: "_Published Nov 24, 2025, 12:31 AM_
+China’s premier li qiang launches charm offensive on rare earths at g-20" }
+GiofasaopSopi@{ shape: win-pane, label: "_Published Nov 23, 2025, 04:26 AM_
+G-20 summit in south africa adopts declaration despite us boycott, opposition" }
+FbltiawowPg@{ shape: win-pane, label: "_Published Nov 22, 2025, 09:04 PM_
+Flexible multilateralism a way forward for the world: pm wong" }
+Tahurpdvnesn@{ shape: win-pane, label: "_Published May 22, 2025, 01:26 AM_
+Trump ambushes south africa’s president over ‘genocide’ accusation" }
+CuUveeectt@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:36 AM_
+China urges us to avoid ‘red lines’ after reaching trade truce" }
+Anmubsirooe@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:05 PM_
+‘amazing’ trump-xi summit brings tactical truce, not major reset" }
+Wiacriswmi@{ shape: win-pane, label: "_Published Oct 31, 2025, 10:21 PM_
+Why taiwan’s absence in trump-xi talks was a welcome relief" }
+
+Enpotaesana:::txtsize --> Wssynisolriarr:::txtsize
+Wssynisolriarr:::txtsize --> TreUndweixco:::txtsize
+TreUndweixco:::txtsize --> Wnrtffnrlt:::txtsize
+Wssynisolriarr:::txtsize --> Cruehromouiftt:::txtsize
+Cruehromouiftt:::txtsize --> Ctertonsasnmdrs:::txtsize
+Cruehromouiftt:::txtsize --> PammueCriiarmn:::txtsize
+Enpotaesana:::txtsize --> CsiQlhafvart:::txtsize
+CsiQlhafvart:::txtsize --> GiofasaopSopi:::txtsize
+GiofasaopSopi:::txtsize --> FbltiawowPg:::txtsize
+GiofasaopSopi:::txtsize --> Tahurpdvnesn:::txtsize
+CsiQlhafvart:::txtsize --> CuUveeectt:::txtsize
+CuUveeectt:::txtsize --> Anmubsirooe:::txtsize
+CuUveeectt:::txtsize --> Wiacriswmi:::txtsize
+
+Oixsmsdieoteir@{ shape: win-pane, label: "_Published Dec 01, 2025, 12:19 AM_
+Officials express optimism as us and ukraine seek to work out peace deal in florida" }
+Tseraniteaorbhut@{ shape: win-pane, label: "_Published Sep 03, 2025, 03:19 AM_
+Trump says he is ‘very disappointed’ with putin over ukraine, not worried about china-russia ties" }
+Atsmacolyugp@{ shape: win-pane, label: "_Published Aug 19, 2025, 11:20 AM_
+At white house summit, a masterclass of diplomacy – in courting trump" }
+Unlyphaiogh@{ shape: win-pane, label: "_Published Mar 01, 2025, 01:48 AM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+TaeaZsmdisfegn@{ shape: win-pane, label: "_Published Aug 16, 2025, 07:20 AM_
+Trump advises ukraine’s zelensky to ‘make a deal’ with russia after meeting putin" }
+UnlyRanrefes@{ shape: win-pane, label: "_Published Aug 22, 2025, 03:43 AM_
+Ukraine’s zelensky says russia trying to ‘wriggle out’ of peace talks" }
+PsnkeubNnenp@{ shape: win-pane, label: "_Published Aug 21, 2025, 11:12 PM_
+Putin’s demand to ukraine: give up donbas, no nato and no western troops" }
+Umesiptsrkn@{ shape: win-pane, label: "_Published Aug 21, 2025, 04:12 PM_
+Us firm targeted as russia ramps up strikes on ukraine, killing one" }
+Unpetrsrbitc@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:09 AM_
+Ukraine’s top peace negotiator quits after raid by anti-graft officers" }
+Unitcehfncof@{ shape: win-pane, label: "_Published Nov 28, 2025, 04:19 PM_
+Ukraine anti-graft officers search home of zelensky’s chief of staff" }
+Unlydhffacir@{ shape: win-pane, label: "_Published Nov 21, 2025, 05:26 PM_
+Ukraine’s zelensky stands by chief of staff as graft accusations grow" }
+CZslufetarc@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:54 AM_
+Close zelensky ally accused of orchestrating major graft scheme" }
+Unitcdrcsundst@{ shape: win-pane, label: "_Published Nov 11, 2025, 03:20 AM_
+Ukraine anti-graft agency raids energy sector as corruption stand-off escalates" }
+UnyIoieera@{ shape: win-pane, label: "_Published Sep 03, 2023, 11:00 AM_
+Ukrainian tycoon ihor kolomoisky detained in fraud case" }
+
+Oixsmsdieoteir:::txtsize --> Tseraniteaorbhut:::txtsize
+Tseraniteaorbhut:::txtsize --> Atsmacolyugp:::txtsize
+Atsmacolyugp:::txtsize --> Unlyphaiogh:::txtsize
+Atsmacolyugp:::txtsize --> TaeaZsmdisfegn:::txtsize
+Tseraniteaorbhut:::txtsize --> UnlyRanrefes:::txtsize
+UnlyRanrefes:::txtsize --> PsnkeubNnenp:::txtsize
+UnlyRanrefes:::txtsize --> Umesiptsrkn:::txtsize
+Oixsmsdieoteir:::txtsize --> Unpetrsrbitc:::txtsize
+Unpetrsrbitc:::txtsize --> Unitcehfncof:::txtsize
+Unitcehfncof:::txtsize --> Unlydhffacir:::txtsize
+Unpetrsrbitc:::txtsize --> CZslufetarc:::txtsize
+CZslufetarc:::txtsize --> Unitcdrcsundst:::txtsize
+CZslufetarc:::txtsize --> UnyIoieera:::txtsize
+
 Peeialutaoc@{ shape: win-pane, label: "_Published Nov 30, 2025, 11:19 PM_
 Pope leo: palestinian state ‘only’ solution to israeli conflict" }
 UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
@@ -62,98 +148,6 @@ Hlroojsienbv:::txtsize --> PiIbls:::txtsize
 PiIbls:::txtsize --> Ptllhnhdm:::txtsize
 PiIbls:::txtsize --> Ikpkoaihiv:::txtsize
 
-NnaowdihnyeSicrm@{ shape: win-pane, label: "_Published Nov 30, 2025, 11:06 PM_
-National guard shooter was radicalised while in us, says homeland security secretary noem" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
-Us stops processing afghan immigration requests after attack near white house" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Pfrygkiuregncr@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:35 AM_
-‘pried fingers away from gun’: wikipedia volunteers take down gunman at us conference" }
-Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
-Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
-Ipnsohehrmirgs@{ shape: win-pane, label: "_Published Nov 17, 2025, 04:50 PM_
-In pulpits and pews, catholic churches in the us urge compassion for immigrants" }
-PeieubnUhslit@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:25 PM_
-Pope leo’s critique of trump emboldens top us catholics to help immigrants" }
-TvozrnTWcrfagt@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:11 PM_
-Trump vows to freeze migration from ‘third world countries’ after washington attack" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
-Us stops processing afghan immigration requests after attack near white house" }
-Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
-Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
-TsniGmrstogi@{ shape: win-pane, label: "_Published Nov 28, 2025, 09:30 AM_
-Trump says one national guard member in washington shooting has died" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Foosrdcaardnho@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:08 PM_
-Fbi probes motives in ‘targeted’ attack on national guard soldiers near white house" }
-
-NnaowdihnyeSicrm:::txtsize --> Nnalsiydttteiu:::txtsize
-Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
-Upcnhmteteaats:::txtsize --> Nnalsiydttteiu:::txtsize
-Upcnhmteteaats:::txtsize --> Pfrygkiuregncr:::txtsize
-Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
-Pespnaemipuit:::txtsize --> Ipnsohehrmirgs:::txtsize
-Pespnaemipuit:::txtsize --> PeieubnUhslit:::txtsize
-NnaowdihnyeSicrm:::txtsize --> TvozrnTWcrfagt:::txtsize
-TvozrnTWcrfagt:::txtsize --> Nnalsiydttteiu:::txtsize
-Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
-Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
-TvozrnTWcrfagt:::txtsize --> TsniGmrstogi:::txtsize
-TsniGmrstogi:::txtsize --> Nnalsiydttteiu:::txtsize
-TsniGmrstogi:::txtsize --> Foosrdcaardnho:::txtsize
-
-EmutivsSsgotra@{ shape: win-pane, label: "_Published Nov 30, 2025, 10:14 PM_
-Eight more suspected swine fever cases as spain struggles to limit export damage" }
-OiSskrtaldeerries@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:10 PM_
-One third of spanish pork export certificates blocked since swine fever outbreak, minister says" }
-SKistrswe@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:13 PM_
-South korea issues alert after 6th case of swine fever" }
-Tncrssf@{ shape: win-pane, label: "_Published Oct 23, 2025, 12:50 PM_
-Taiwan detects first cases of swine fever" }
-Vairniweua@{ shape: win-pane, label: "_Published Aug 05, 2025, 12:55 PM_
-Vietnam facing worsening african swine fever outbreaks" }
-Srtsiweainb@{ shape: win-pane, label: "_Published Nov 28, 2025, 06:43 PM_
-Spain reports first african swine fever cases since 1994 in wild boar" }
-SKistrswe@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:13 PM_
-South korea issues alert after 6th case of swine fever" }
-Vanopitaiweps@{ shape: win-pane, label: "_Published Jul 18, 2025, 12:01 PM_
-Vietnam warns of food supply disruptions as african swine fever spreads" }
-Shpxsitrsfnened@{ shape: win-pane, label: "_Published Nov 29, 2025, 02:33 AM_
-Spain halts pork exports to china after first case of african swine flu in three decades" }
-Srtsiweainb@{ shape: win-pane, label: "_Published Nov 28, 2025, 06:43 PM_
-Spain reports first african swine fever cases since 1994 in wild boar" }
-SKistrswe@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:13 PM_
-South korea issues alert after 6th case of swine fever" }
-Vanopitaiweps@{ shape: win-pane, label: "_Published Jul 18, 2025, 12:01 PM_
-Vietnam warns of food supply disruptions as african swine fever spreads" }
-Srtsiweainb@{ shape: win-pane, label: "_Published Nov 28, 2025, 06:43 PM_
-Spain reports first african swine fever cases since 1994 in wild boar" }
-SKistrswe@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:13 PM_
-South korea issues alert after 6th case of swine fever" }
-Vanopitaiweps@{ shape: win-pane, label: "_Published Jul 18, 2025, 12:01 PM_
-Vietnam warns of food supply disruptions as african swine fever spreads" }
-
-EmutivsSsgotra:::txtsize --> OiSskrtaldeerries:::txtsize
-OiSskrtaldeerries:::txtsize --> SKistrswe:::txtsize
-SKistrswe:::txtsize --> Tncrssf:::txtsize
-SKistrswe:::txtsize --> Vairniweua:::txtsize
-OiSskrtaldeerries:::txtsize --> Srtsiweainb:::txtsize
-Srtsiweainb:::txtsize --> SKistrswe:::txtsize
-Srtsiweainb:::txtsize --> Vanopitaiweps:::txtsize
-EmutivsSsgotra:::txtsize --> Shpxsitrsfnened:::txtsize
-Shpxsitrsfnened:::txtsize --> Srtsiweainb:::txtsize
-Srtsiweainb:::txtsize --> SKistrswe:::txtsize
-Srtsiweainb:::txtsize --> Vanopitaiweps:::txtsize
-Shpxsitrsfnened:::txtsize --> Srtsiweainb:::txtsize
-Srtsiweainb:::txtsize --> SKistrswe:::txtsize
-Srtsiweainb:::txtsize --> Vanopitaiweps:::txtsize
-
 ```
-<i>Last updated: 2025-12-01 00:00:57.402689 (GMT+8)</i>
+<i>Last updated: 2025-12-01 04:00:23.194985 (GMT+8)</i>
 <!-- END -->
