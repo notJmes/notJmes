@@ -16,123 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-WYresemhiN@{ shape: win-pane, label: "_Published Nov 30, 2025, 06:35 AM_
-While you were sleeping: 5 stories you might have missed, nov 30, 2025" }
-Tsicvsugztliee@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:19 PM_
-Trump says airspace above and surrounding venezuela to be closed in its entirety" }
-Ucceinaeiiburz@{ shape: win-pane, label: "_Published Nov 17, 2025, 03:14 AM_
-Us aircraft carrier arrives in the caribbean amid military build-up near venezuela" }
-Eirdyroersl@{ shape: win-pane, label: "_Published Oct 31, 2025, 06:16 PM_
-Explainer: are the deadly us strikes on alleged drug vessels legal?​" }
-VuonipcnAraTo@{ shape: win-pane, label: "_Published Oct 27, 2025, 08:06 AM_
-Venezuela condemns ‘military provocation’ by cia and trinidad and tobago" }
-Uddrngufialhe@{ shape: win-pane, label: "_Published Nov 14, 2025, 06:32 AM_
-Us conducted 20th strike on alleged drug trafficking boat earlier this week" }
-MRdsriUinkGi@{ shape: win-pane, label: "_Published Nov 13, 2025, 08:44 AM_
-Marco rubio dismisses criticism of us caribbean strikes at g-7 meeting" }
-Uildcisiiig@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:20 PM_
-Us strikes alleged drug-carrying vessels in pacific, killing six" }
-Cbstepsia@{ shape: win-pane, label: "_Published Nov 30, 2025, 12:25 AM_
-Crowd braves rain to attend pope leo’s mass in istanbul" }
-PiIbls@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:00 PM_
-Pope visits istanbul’s blue mosque" }
-Ptllhnhdm@{ shape: win-pane, label: "_Published Nov 29, 2025, 10:52 AM_
-Papal travels reflect changing catholic diplomacy" }
-Ikpkoaihiv@{ shape: win-pane, label: "_Published Nov 29, 2025, 10:46 AM_
-In turkey, pope seeks to soothe an ancient christian divide" }
-PiIbls@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:00 PM_
-Pope visits istanbul’s blue mosque" }
-Ptllhnhdm@{ shape: win-pane, label: "_Published Nov 29, 2025, 10:52 AM_
-Papal travels reflect changing catholic diplomacy" }
-Ikpkoaihiv@{ shape: win-pane, label: "_Published Nov 29, 2025, 10:46 AM_
-In turkey, pope seeks to soothe an ancient christian divide" }
+AesesriDn@{ shape: win-pane, label: "_Published Nov 30, 2025, 11:20 AM_
+‘anti-semitism’ row erupts over renaming of dublin park" }
+Ilillaeaftspe@{ shape: win-pane, label: "_Published Oct 29, 2025, 10:55 AM_
+Israel says it will uphold gaza ceasefire a day after strikes kill 104 people" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
+NyarisaHhoeseimnt@{ shape: win-pane, label: "_Published Oct 28, 2025, 07:30 PM_
+Netanyahu says israel will respond after hamas hands over remains not belonging to missing hostages" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Hnruosd@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:32 AM_
+How donald trump pulled off his gaza deal" }
+Ririrdbetinngtpii@{ shape: win-pane, label: "_Published Nov 07, 2025, 05:15 PM_
+Religious groups in s’pore saddened by recent anti-semitic incidents, urge all to respect diversity" }
+RtSiisorgaitlenm@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:22 PM_
+Recent anti-semitic incidents in s’pore worrying, such acts will not be tolerated: shanmugam" }
+Spnssaotgrpoaig@{ shape: win-pane, label: "_Published Nov 05, 2025, 06:00 PM_
+Singapore invites palestinian pm to visit, pledges more support for gaza rebuilding" }
+Spnssaotgrpoaig@{ shape: win-pane, label: "_Published Nov 05, 2025, 06:00 PM_
+Singapore invites palestinian pm to visit, pledges more support for gaza rebuilding" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
 
-WYresemhiN:::txtsize --> Tsicvsugztliee:::txtsize
-Tsicvsugztliee:::txtsize --> Ucceinaeiiburz:::txtsize
-Ucceinaeiiburz:::txtsize --> Eirdyroersl:::txtsize
-Ucceinaeiiburz:::txtsize --> VuonipcnAraTo:::txtsize
-Tsicvsugztliee:::txtsize --> Uddrngufialhe:::txtsize
-Uddrngufialhe:::txtsize --> MRdsriUinkGi:::txtsize
-Uddrngufialhe:::txtsize --> Uildcisiiig:::txtsize
-WYresemhiN:::txtsize --> Cbstepsia:::txtsize
-Cbstepsia:::txtsize --> PiIbls:::txtsize
-PiIbls:::txtsize --> Ptllhnhdm:::txtsize
-PiIbls:::txtsize --> Ikpkoaihiv:::txtsize
-Cbstepsia:::txtsize --> PiIbls:::txtsize
-PiIbls:::txtsize --> Ptllhnhdm:::txtsize
-PiIbls:::txtsize --> Ikpkoaihiv:::txtsize
+AesesriDn:::txtsize --> Ilillaeaftspe:::txtsize
+Ilillaeaftspe:::txtsize --> Tdrcaaededlncbs:::txtsize
+Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
+Ilillaeaftspe:::txtsize --> NyarisaHhoeseimnt:::txtsize
+NyarisaHhoeseimnt:::txtsize --> NyeeawHakl:::txtsize
+NyarisaHhoeseimnt:::txtsize --> Hnruosd:::txtsize
+AesesriDn:::txtsize --> Ririrdbetinngtpii:::txtsize
+Ririrdbetinngtpii:::txtsize --> RtSiisorgaitlenm:::txtsize
+RtSiisorgaitlenm:::txtsize --> Spnssaotgrpoaig:::txtsize
+RtSiisorgaitlenm:::txtsize --> Spnssaotgrpoaig:::txtsize
+Ririrdbetinngtpii:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
 
-RlUrteNseset@{ shape: win-pane, label: "_Published Nov 30, 2025, 05:37 AM_
-Republican us representative troy nehls says he won’t seek reelection" }
-FnaTbwaileoAan@{ shape: win-pane, label: "_Published Nov 20, 2025, 07:04 PM_
-Feud in the family: trump break with marjorie taylor greene jolts maga heartland" }
-TskeMewtco@{ shape: win-pane, label: "_Published Nov 18, 2025, 09:15 AM_
-Trump’s frankenstein? us maga meltdown tests its creator" }
-TsialjGeorfri@{ shape: win-pane, label: "_Published Nov 11, 2025, 07:29 AM_
-Trump says firebrand ally marjorie greene has ‘lost her way’ after criticism" }
-Frpsattly@{ shape: win-pane, label: "_Published Nov 16, 2025, 07:29 AM_
-Former trump ally says facing threats ‘fuelled’ by him" }
-Frpsattly@{ shape: win-pane, label: "_Published Nov 16, 2025, 07:29 AM_
-Former trump ally says facing threats ‘fuelled’ by him" }
-TwrutomyoaGe@{ shape: win-pane, label: "_Published Nov 15, 2025, 02:43 PM_
-Trump withdraws support for long-time ally marjorie taylor greene" }
-HwtipngesTkfot@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:53 PM_
-‘he knew about the girls’: epstein alleged in e-mails that trump knew of his conduct" }
+Jyywwrhyaredai@{ shape: win-pane, label: "_Published Nov 30, 2025, 10:38 AM_
+Jeremy corbyn’s new left-wing british party in chaos as row overshadows gathering" }
+Ktroreoiensnnsa@{ shape: win-pane, label: "_Published Jul 05, 2024, 12:05 PM_
+Keir starmer’s labour party sweeps to british election win as pm sunak concedes defeat" }
+Upmtzsstoei@{ shape: win-pane, label: "_Published Jul 05, 2024, 02:25 PM_
+Uk’s ex-prime minister liz truss loses seat to labour in election" }
+Ktroreoiensnnsa@{ shape: win-pane, label: "_Published Jul 05, 2024, 12:05 PM_
+Keir starmer’s labour party sweeps to british election win as pm sunak concedes defeat" }
+Biboagocndupi@{ shape: win-pane, label: "_Published Nov 17, 2025, 05:33 PM_
+Britain’s labour govt plans migration crackdown in bid to blunt opposition" }
+ReUamitnemn@{ shape: win-pane, label: "_Published Nov 15, 2025, 08:16 AM_
+Refugees in uk to face time-limited stays in border clampdown" }
+Biasspadyet@{ shape: win-pane, label: "_Published Sep 06, 2025, 01:35 AM_
+Britain’s starmer shakes up top team after deputy rayner quits" }
+Bseaitennatui@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:37 PM_
+British pm keir starmer insists government is ‘united’ as plot rumours swirl" }
+ReUamitnemn@{ shape: win-pane, label: "_Published Nov 15, 2025, 08:16 AM_
+Refugees in uk to face time-limited stays in border clampdown" }
+Biasspadyet@{ shape: win-pane, label: "_Published Sep 06, 2025, 01:35 AM_
+Britain’s starmer shakes up top team after deputy rayner quits" }
+Bseaitennatui@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:37 PM_
+British pm keir starmer insists government is ‘united’ as plot rumours swirl" }
 
-RlUrteNseset:::txtsize --> FnaTbwaileoAan:::txtsize
-FnaTbwaileoAan:::txtsize --> TskeMewtco:::txtsize
-TskeMewtco:::txtsize --> TsialjGeorfri:::txtsize
-TskeMewtco:::txtsize --> Frpsattly:::txtsize
-FnaTbwaileoAan:::txtsize --> Frpsattly:::txtsize
-Frpsattly:::txtsize --> TwrutomyoaGe:::txtsize
-Frpsattly:::txtsize --> HwtipngesTkfot:::txtsize
+Jyywwrhyaredai:::txtsize --> Ktroreoiensnnsa:::txtsize
+Ktroreoiensnnsa:::txtsize --> Upmtzsstoei:::txtsize
+Upmtzsstoei:::txtsize --> Ktroreoiensnnsa:::txtsize
+Jyywwrhyaredai:::txtsize --> Biboagocndupi:::txtsize
+Biboagocndupi:::txtsize --> ReUamitnemn:::txtsize
+ReUamitnemn:::txtsize --> Biasspadyet:::txtsize
+ReUamitnemn:::txtsize --> Bseaitennatui:::txtsize
+Biboagocndupi:::txtsize --> ReUamitnemn:::txtsize
+ReUamitnemn:::txtsize --> Biasspadyet:::txtsize
+ReUamitnemn:::txtsize --> Bseaitennatui:::txtsize
 
-UtanpcnaAne@{ shape: win-pane, label: "_Published Nov 30, 2025, 04:39 AM_
-Us state department stops processing visas for afghan allies" }
-AeiGakcmrgmtairgo@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:44 AM_
-Accused national guard attacker faces us murder charge; trump wants to halt ‘third world’ migration" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
-Us stops processing afghan immigration requests after attack near white house" }
-Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
-Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
-Tuaarottiou@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:50 PM_
-Trump uses national guard shooting to cast suspicion on refugees" }
-TsniGmrstogi@{ shape: win-pane, label: "_Published Nov 28, 2025, 09:30 AM_
-Trump says one national guard member in washington shooting has died" }
-TvozrnTWcrfagt@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:11 PM_
-Trump vows to freeze migration from ‘third world countries’ after washington attack" }
-TvozrnTWcrfagt@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:11 PM_
-Trump vows to freeze migration from ‘third world countries’ after washington attack" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
-Us stops processing afghan immigration requests after attack near white house" }
-Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
-Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
-TsniGmrstogi@{ shape: win-pane, label: "_Published Nov 28, 2025, 09:30 AM_
-Trump says one national guard member in washington shooting has died" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Foosrdcaardnho@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:08 PM_
-Fbi probes motives in ‘targeted’ attack on national guard soldiers near white house" }
+Etsrfsarracc@{ shape: win-pane, label: "_Published Nov 30, 2025, 10:20 AM_
+Egypt trains hundreds of palestinians for future gaza police force" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
+Singapore strongly condemns terror attacks on israel, calls for end to violence" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
+TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
+Tears, joy in israel as hamas hands over first hostages" }
 
-UtanpcnaAne:::txtsize --> AeiGakcmrgmtairgo:::txtsize
-AeiGakcmrgmtairgo:::txtsize --> Nnalsiydttteiu:::txtsize
-Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
-Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
-AeiGakcmrgmtairgo:::txtsize --> Tuaarottiou:::txtsize
-Tuaarottiou:::txtsize --> TsniGmrstogi:::txtsize
-Tuaarottiou:::txtsize --> TvozrnTWcrfagt:::txtsize
-UtanpcnaAne:::txtsize --> TvozrnTWcrfagt:::txtsize
-TvozrnTWcrfagt:::txtsize --> Nnalsiydttteiu:::txtsize
-Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
-Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
-TvozrnTWcrfagt:::txtsize --> TsniGmrstogi:::txtsize
-TsniGmrstogi:::txtsize --> Nnalsiydttteiu:::txtsize
-TsniGmrstogi:::txtsize --> Foosrdcaardnho:::txtsize
+Etsrfsarracc:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+WzptIleint:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
+Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
+Etsrfsarracc:::txtsize --> Tdrcaaededlncbs:::txtsize
+Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
+PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
 
 ```
-<i>Last updated: 2025-11-30 08:00:19.477278 (GMT+8)</i>
+<i>Last updated: 2025-11-30 12:00:42.722520 (GMT+8)</i>
 <!-- END -->
