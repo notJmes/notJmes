@@ -16,135 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Svnuycctfpc@{ shape: win-pane, label: "_Published Nov 30, 2025, 03:45 PM_
-Swiss vote on compulsory civic duty, climate tax for super-rich" }
-Svslepsxsro@{ shape: win-pane, label: "_Published Oct 15, 2025, 05:35 PM_
-Swiss voters likely to reject proposed tax of 50% on super rich: poll" }
-Fhawnlnve@{ shape: win-pane, label: "_Published Oct 04, 2025, 08:46 PM_
-French pm plans new tax on people earning over $380,000 a year" }
-FePeiiirte@{ shape: win-pane, label: "_Published Sep 10, 2025, 09:07 PM_
-France’s new pm takes office amid anti-government protests" }
-Waninrentpcduts@{ shape: win-pane, label: "_Published Sep 14, 2025, 08:50 PM_
-Why france’s new prime minister backed down on cutting public holidays but little else" }
-Cmtttcoevei@{ shape: win-pane, label: "_Published Oct 15, 2024, 09:16 AM_
-China moves to tax the ultra-rich for overseas investment gains" }
-CmiinooCnr@{ shape: win-pane, label: "_Published Oct 15, 2024, 08:32 AM_
-China may raise $1.1 trillion to boost economy, caixin reports" }
-Citxboemted@{ shape: win-pane, label: "_Published Oct 11, 2024, 08:48 AM_
-China investors expect $369 billion of new stimulus this weekend" }
-Sedijndmto@{ shape: win-pane, label: "_Published Aug 19, 2025, 10:26 PM_
-Switzerland considers joining uk’s ‘dirty money’ task force" }
-Lysemlecaooioui@{ shape: win-pane, label: "_Published Aug 12, 2025, 04:44 PM_
-Luxury items seized in $3b money laundering case handed over to deloitte for liquidation" }
-Wehdrinaiydgige@{ shape: win-pane, label: "_Published Aug 18, 2023, 05:00 AM_
-Who are the 10 charged after the billion-dollar anti-money laundering raid in singapore?" }
-bydgSjnaiorin@{ shape: win-pane, label: "_Published Aug 06, 2025, 07:35 PM_
-$3b money laundering case: su haijin, wang dehai stripped of cypriot citizenship" }
-GnpPfeaenenr@{ shape: win-pane, label: "_Published Aug 18, 2023, 08:30 PM_
-‘golden passport’: a plan b for the rich, a rear exit and safe haven for crooks" }
+Ilausoeorii@{ shape: win-pane, label: "_Published Nov 30, 2025, 06:34 PM_
+Israel’s netanyahu seeks pardon in years-long corruption trial" }
+Tasiitdthe@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:21 PM_
+Trump asks israeli president to pardon netanyahu in letter" }
+TuIlstreaororo@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:09 PM_
+Trump urges israel’s president to pardon netanyahu, who’s on trial for corruption" }
+Ilrtsnarifa@{ shape: win-pane, label: "_Published Jun 29, 2025, 09:03 PM_
+Israeli court postpones netanyahu appearance in graft trial" }
+Ilnvfteeveeaotr@{ shape: win-pane, label: "_Published Aug 05, 2025, 12:55 PM_
+Israel cabinet moves to fire attorney-general overseeing netanyahu’s corruption trial" }
+Tssithriioee@{ shape: win-pane, label: "_Published Jun 26, 2025, 08:10 AM_
+Trump says israeli pm netanyahu’s corruption trial should be cancelled" }
+EieariivIll@{ shape: win-pane, label: "_Published Dec 10, 2024, 07:12 AM_
+Explainer: netanyahu corruption trial divides israeli public" }
+IacfibdeSk@{ shape: win-pane, label: "_Published Jun 25, 2025, 11:10 PM_
+Iran says nuclear facilities ‘badly damaged’ by us strikes" }
+TsIlsoeauunl@{ shape: win-pane, label: "_Published Jun 29, 2025, 08:26 AM_
+Trump slams israel’s prosecutors over netanyahu corruption trial" }
+IltreoGoeene@{ shape: win-pane, label: "_Published Jun 29, 2025, 07:05 AM_
+Israeli protesters urge action for gaza hostages after iran truce" }
+Tsrdeecedletdr@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:17 AM_
+Trump says iran and israel agree to a ‘complete and total’ ceasefire to end 12-day war" }
+QuIlsinfrtGr@{ shape: win-pane, label: "_Published Jun 28, 2025, 05:23 PM_
+Qatar urges israel, hamas to seize ‘window of opportunity’ for gaza truce" }
 
-Svnuycctfpc:::txtsize --> Svslepsxsro:::txtsize
-Svslepsxsro:::txtsize --> Fhawnlnve:::txtsize
-Fhawnlnve:::txtsize --> FePeiiirte:::txtsize
-Fhawnlnve:::txtsize --> Waninrentpcduts:::txtsize
-Svslepsxsro:::txtsize --> Cmtttcoevei:::txtsize
-Cmtttcoevei:::txtsize --> CmiinooCnr:::txtsize
-Cmtttcoevei:::txtsize --> Citxboemted:::txtsize
-Svnuycctfpc:::txtsize --> Sedijndmto:::txtsize
-Sedijndmto:::txtsize --> Lysemlecaooioui:::txtsize
-Lysemlecaooioui:::txtsize --> Wehdrinaiydgige:::txtsize
-Sedijndmto:::txtsize --> bydgSjnaiorin:::txtsize
-bydgSjnaiorin:::txtsize --> GnpPfeaenenr:::txtsize
+Ilausoeorii:::txtsize --> Tasiitdthe:::txtsize
+Tasiitdthe:::txtsize --> TuIlstreaororo:::txtsize
+TuIlstreaororo:::txtsize --> Ilrtsnarifa:::txtsize
+TuIlstreaororo:::txtsize --> Ilnvfteeveeaotr:::txtsize
+Tasiitdthe:::txtsize --> Tssithriioee:::txtsize
+Tssithriioee:::txtsize --> EieariivIll:::txtsize
+Tssithriioee:::txtsize --> IacfibdeSk:::txtsize
+Ilausoeorii:::txtsize --> TsIlsoeauunl:::txtsize
+TsIlsoeauunl:::txtsize --> IltreoGoeene:::txtsize
+IltreoGoeene:::txtsize --> Tsrdeecedletdr:::txtsize
+IltreoGoeene:::txtsize --> QuIlsinfrtGr:::txtsize
 
-Firtiglc@{ shape: win-pane, label: "_Published Nov 30, 2025, 03:15 PM_
-Four die in iran after drinking bootleg alcohol" }
-Asepesfrntllsa@{ shape: win-pane, label: "_Published Sep 26, 2025, 05:02 PM_
-At least seven people die in russia after drinking bootleg alcohol, ministry says" }
-Cmeeukpee@{ shape: win-pane, label: "_Published Jun 07, 2023, 05:05 AM_
-Contaminated cider in russia kills 29 people, sickens 61" }
-Taolriah@{ shape: win-pane, label: "_Published Dec 17, 2022, 03:15 PM_
-Toxic alcohol kills 37 in 'dry' indian state bihar" }
-Asddtigch@{ shape: win-pane, label: "_Published Jul 28, 2022, 02:57 PM_
-At least 42 dead in india after drinking toxic alcohol" }
-Jwsneetdoao@{ shape: win-pane, label: "_Published Feb 21, 2025, 03:29 PM_
-‘just two glasses’: in turkey, lives shattered by bootleg alcohol" }
-Iblmtcrtdu@{ shape: win-pane, label: "_Published Jan 15, 2025, 11:15 PM_
-Istanbul toll from tainted alcohol rises to 19 dead in 48 hours" }
-Wgeyksiagn@{ shape: win-pane, label: "_Published Dec 31, 2024, 11:00 AM_
-Why high-intensity drinking is riskier than binge drinking" }
-Tyhfoghs@{ shape: win-pane, label: "_Published Feb 26, 2025, 11:38 PM_
-Turkey death toll from bootleg alcohol rises to 152" }
-Iblmtcrtdu@{ shape: win-pane, label: "_Published Jan 15, 2025, 11:15 PM_
-Istanbul toll from tainted alcohol rises to 19 dead in 48 hours" }
-Fotascadhina@{ shape: win-pane, label: "_Published Nov 21, 2024, 01:23 PM_
-Four tourists die after suspected tainted alcohol poisoning in laos" }
-tsediiaoaaeosg@{ shape: win-pane, label: "_Published Nov 22, 2024, 06:40 AM_
-6 tourists die from drinking tainted alcohol in laos: what is methanol poisoning?" }
-Jwsneetdoao@{ shape: win-pane, label: "_Published Feb 21, 2025, 03:29 PM_
-‘just two glasses’: in turkey, lives shattered by bootleg alcohol" }
-Iblmtcrtdu@{ shape: win-pane, label: "_Published Jan 15, 2025, 11:15 PM_
-Istanbul toll from tainted alcohol rises to 19 dead in 48 hours" }
-Wgeyksiagn@{ shape: win-pane, label: "_Published Dec 31, 2024, 11:00 AM_
-Why high-intensity drinking is riskier than binge drinking" }
+RleiioaBins@{ shape: win-pane, label: "_Published Nov 30, 2025, 06:18 PM_
+Rachel reeves denies lying about state of britain’s finances" }
+Ugamknoilialt@{ shape: win-pane, label: "_Published Nov 27, 2025, 06:00 PM_
+Uk budget plan calms markets and labour faithful, but will it appeal to voters?" }
+WrnnnomlevdiyLro@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:55 PM_
+With britain’s economy in the doldrums, will rachel reeves’ budget finally show labour can govern?" }
+Ktroreoiensnnsa@{ shape: win-pane, label: "_Published Jul 05, 2024, 12:05 PM_
+Keir starmer’s labour party sweeps to british election win as pm sunak concedes defeat" }
+Uoauaroeftf@{ shape: win-pane, label: "_Published Jun 13, 2024, 07:15 AM_
+Uk labour leader puts wealth creation at heart of election offer" }
+WrnnnomlevdiyLro@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:55 PM_
+With britain’s economy in the doldrums, will rachel reeves’ budget finally show labour can govern?" }
+Ktroreoiensnnsa@{ shape: win-pane, label: "_Published Jul 05, 2024, 12:05 PM_
+Keir starmer’s labour party sweeps to british election win as pm sunak concedes defeat" }
+Upmtzsstoei@{ shape: win-pane, label: "_Published Jul 05, 2024, 02:25 PM_
+Uk’s ex-prime minister liz truss loses seat to labour in election" }
+Uoauaroeftf@{ shape: win-pane, label: "_Published Jun 13, 2024, 07:15 AM_
+Uk labour leader puts wealth creation at heart of election offer" }
+Toshalaacfl@{ shape: win-pane, label: "_Published May 23, 2024, 12:20 AM_
+‘time to choose’: rishi sunak calls uk national election for july 4" }
+Unfoxacpred@{ shape: win-pane, label: "_Published Jun 11, 2024, 11:11 PM_
+Uk’s sunak offers more tax cuts as election polls refuse to budge" }
 
-Firtiglc:::txtsize --> Asepesfrntllsa:::txtsize
-Asepesfrntllsa:::txtsize --> Cmeeukpee:::txtsize
-Cmeeukpee:::txtsize --> Taolriah:::txtsize
-Cmeeukpee:::txtsize --> Asddtigch:::txtsize
-Asepesfrntllsa:::txtsize --> Jwsneetdoao:::txtsize
-Jwsneetdoao:::txtsize --> Iblmtcrtdu:::txtsize
-Jwsneetdoao:::txtsize --> Wgeyksiagn:::txtsize
-Firtiglc:::txtsize --> Tyhfoghs:::txtsize
-Tyhfoghs:::txtsize --> Iblmtcrtdu:::txtsize
-Iblmtcrtdu:::txtsize --> Fotascadhina:::txtsize
-Iblmtcrtdu:::txtsize --> tsediiaoaaeosg:::txtsize
-Tyhfoghs:::txtsize --> Jwsneetdoao:::txtsize
-Jwsneetdoao:::txtsize --> Iblmtcrtdu:::txtsize
-Jwsneetdoao:::txtsize --> Wgeyksiagn:::txtsize
+RleiioaBins:::txtsize --> Ugamknoilialt:::txtsize
+Ugamknoilialt:::txtsize --> WrnnnomlevdiyLro:::txtsize
+WrnnnomlevdiyLro:::txtsize --> Ktroreoiensnnsa:::txtsize
+WrnnnomlevdiyLro:::txtsize --> Uoauaroeftf:::txtsize
+RleiioaBins:::txtsize --> WrnnnomlevdiyLro:::txtsize
+WrnnnomlevdiyLro:::txtsize --> Ktroreoiensnnsa:::txtsize
+Ktroreoiensnnsa:::txtsize --> Upmtzsstoei:::txtsize
+WrnnnomlevdiyLro:::txtsize --> Uoauaroeftf:::txtsize
+Uoauaroeftf:::txtsize --> Toshalaacfl:::txtsize
+Uoauaroeftf:::txtsize --> Unfoxacpred:::txtsize
 
-Fetohfyeiii@{ shape: win-pane, label: "_Published Nov 30, 2025, 01:19 PM_
-Four dead after 14 people shot at family gathering in california" }
-Asdndrtaspii@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:58 PM_
-At least 1 dead and 3 injured after shootings at mississippi universities" }
-Asddweissi@{ shape: win-pane, label: "_Published Oct 11, 2025, 11:16 PM_
-At least 4 dead and a dozen wounded in mississippi shooting" }
-Fiieeoariamu@{ shape: win-pane, label: "_Published Sep 29, 2025, 12:52 AM_
-Four killed, 8 injured after shooting and fire at michigan mormon church" }
-Odweadaog@{ shape: win-pane, label: "_Published Oct 06, 2025, 07:20 AM_
-Over a dozen wounded in rare sydney mass shooting" }
-Odweadaog@{ shape: win-pane, label: "_Published Oct 06, 2025, 07:20 AM_
-Over a dozen wounded in rare sydney mass shooting" }
-Aaordromtlig@{ shape: win-pane, label: "_Published Sep 06, 2025, 08:50 AM_
-Australia posts $840k reward for arrest of gunman after police killings" }
-Tlfrnkdntrsi@{ shape: win-pane, label: "_Published Dec 13, 2022, 06:10 AM_
-Two police officers among six killed in gunfight in rural australia" }
-Tlnunttaiifutfd@{ shape: win-pane, label: "_Published Sep 24, 2025, 09:02 PM_
-Two killed, one injured in shooting at dallas immigration office; suspect also found dead" }
-TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
-Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
-VsaKsirayce@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:59 AM_
-Videos of charlie kirk’s shooting spread rapidly on social media" }
-WsfwTttt@{ shape: win-pane, label: "_Published Sep 23, 2025, 06:21 AM_
-What is antifa and why is trump targeting it?" }
-Tdnaatfearsat@{ shape: win-pane, label: "_Published Sep 18, 2025, 08:52 AM_
-Trump designates anti-fascist antifa movement as a terrorist organisation" }
-WHrecerlalaerswn@{ shape: win-pane, label: "_Published Sep 18, 2025, 05:55 AM_
-White house readies executive order on political violence as liberal groups sound warning" }
+kdnoaeyair@{ shape: win-pane, label: "_Published Nov 30, 2025, 06:15 PM_
+4 killed coming out of gaza tunnels, says israeli military" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
+Israel marks oct 7 anniversary as talks are held to end gaza war" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+Hatmzcnhodro@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:11 PM_
+Hamas accepts trump’s gaza peace plan, but the bloodshed is far from over" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
+Singapore strongly condemns terror attacks on israel, calls for end to violence" }
 
-Fetohfyeiii:::txtsize --> Asdndrtaspii:::txtsize
-Asdndrtaspii:::txtsize --> Asddweissi:::txtsize
-Asddweissi:::txtsize --> Fiieeoariamu:::txtsize
-Asddweissi:::txtsize --> Odweadaog:::txtsize
-Asdndrtaspii:::txtsize --> Odweadaog:::txtsize
-Odweadaog:::txtsize --> Aaordromtlig:::txtsize
-Odweadaog:::txtsize --> Tlfrnkdntrsi:::txtsize
-Fetohfyeiii:::txtsize --> Tlnunttaiifutfd:::txtsize
-Tlnunttaiifutfd:::txtsize --> TahesegnipdoUstt:::txtsize
-TahesegnipdoUstt:::txtsize --> VsaKsirayce:::txtsize
-Tlnunttaiifutfd:::txtsize --> WsfwTttt:::txtsize
-WsfwTttt:::txtsize --> Tdnaatfearsat:::txtsize
-WsfwTttt:::txtsize --> WHrecerlalaerswn:::txtsize
+kdnoaeyair:::txtsize --> TssHaossaaorslaoe:::txtsize
+TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
+Ilsnrakhoar:::txtsize --> Sbsrcdnacaale:::txtsize
+Ilsnrakhoar:::txtsize --> Hatmzcnhodro:::txtsize
+TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+kdnoaeyair:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+WzptIleint:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
+Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
 
 ```
-<i>Last updated: 2025-11-30 16:01:08.097315 (GMT+8)</i>
+<i>Last updated: 2025-11-30 20:00:32.593293 (GMT+8)</i>
 <!-- END -->
