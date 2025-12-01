@@ -16,132 +16,126 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Anolhidirenv@{ shape: win-pane, label: "_Published Dec 01, 2025, 01:50 PM_
-Amazon and google launch multi-cloud service for faster connectivity" }
-Anutvgrrgraeele@{ shape: win-pane, label: "_Published Oct 20, 2025, 04:38 PM_
-Amazon’s cloud unit recovering after major outage disrupts apps, services worldwide" }
-Rtvrrtoutfeus@{ shape: win-pane, label: "_Published Jun 04, 2025, 04:14 AM_
-Reddit’s services restored after global outage that affected thousands" }
-WlyeleUcefs@{ shape: win-pane, label: "_Published Mar 19, 2025, 10:50 PM_
-‘will i lose my job?’ federal workers in us flock to reddit for answers" }
-RtetOIintt@{ shape: win-pane, label: "_Published May 17, 2024, 08:24 AM_
-Reddit forges pact with openai to bring content to chatgpt" }
-Andurtlpss@{ shape: win-pane, label: "_Published Aug 01, 2025, 07:21 AM_
-Amazon cloud computing results fail to impress; shares dive" }
-MsnabolIknmpf@{ shape: win-pane, label: "_Published Jul 31, 2025, 07:47 AM_
-Microsoft and meta fuel $648 billion rally in ai stocks as investments pay off" }
-Alfhshahtptgt@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:36 AM_
-Apple loses fourth ai researcher in a month to meta’s superintelligence team" }
-Mosnenaaodrln@{ shape: win-pane, label: "_Published Jul 31, 2025, 07:24 AM_
-Meta forecasts continued spending as it races to build ‘superintelligence’" }
-Ucdrrnraa@{ shape: win-pane, label: "_Published Aug 01, 2025, 04:59 AM_
-Us stocks end lower after strong start as rally fades" }
-Tearahdlgsse@{ shape: win-pane, label: "_Published Jul 31, 2025, 03:23 PM_
-Trump escalates trade war with canada following palestine stance" }
-TgMoaredireio@{ shape: win-pane, label: "_Published Aug 01, 2025, 01:49 AM_
-Trump gives mexico 90-day tariff reprieve as deadline for higher duties looms" }
+Ilauacapnecyp@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:29 PM_
+Israel’s netanyahu appears in court after pardon request backed by trump" }
+Tasiitdthe@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:21 PM_
+Trump asks israeli president to pardon netanyahu in letter" }
+TuIlstreaororo@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:09 PM_
+Trump urges israel’s president to pardon netanyahu, who’s on trial for corruption" }
+Ilrtsnarifa@{ shape: win-pane, label: "_Published Jun 29, 2025, 09:03 PM_
+Israeli court postpones netanyahu appearance in graft trial" }
+Ilnvfteeveeaotr@{ shape: win-pane, label: "_Published Aug 05, 2025, 12:55 PM_
+Israel cabinet moves to fire attorney-general overseeing netanyahu’s corruption trial" }
+Tssithriioee@{ shape: win-pane, label: "_Published Jun 26, 2025, 08:10 AM_
+Trump says israeli pm netanyahu’s corruption trial should be cancelled" }
+EieariivIll@{ shape: win-pane, label: "_Published Dec 10, 2024, 07:12 AM_
+Explainer: netanyahu corruption trial divides israeli public" }
+IacfibdeSk@{ shape: win-pane, label: "_Published Jun 25, 2025, 11:10 PM_
+Iran says nuclear facilities ‘badly damaged’ by us strikes" }
+Nyaotlneyt@{ shape: win-pane, label: "_Published Oct 26, 2025, 04:56 PM_
+Netanyahu faces vote with coalition weakened by gaza truce" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
+SdaoausCetsnal@{ shape: win-pane, label: "_Published Jul 17, 2025, 02:29 AM_
+Second ultra-orthodox party quits israel cabinet, but throws netanyahu a lifeline" }
+Ilaurtoceerysnln@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:40 PM_
+Israel’s netanyahu under mounting political pressure after party quits ruling coalition" }
+IlrsofuOdwot@{ shape: win-pane, label: "_Published May 16, 2024, 02:33 AM_
+Israeli pm presses bill on drafting ultra-orthodox jews into military" }
 
-Anolhidirenv:::txtsize --> Anutvgrrgraeele:::txtsize
-Anutvgrrgraeele:::txtsize --> Rtvrrtoutfeus:::txtsize
-Rtvrrtoutfeus:::txtsize --> WlyeleUcefs:::txtsize
-Rtvrrtoutfeus:::txtsize --> RtetOIintt:::txtsize
-Anolhidirenv:::txtsize --> Andurtlpss:::txtsize
-Andurtlpss:::txtsize --> MsnabolIknmpf:::txtsize
-MsnabolIknmpf:::txtsize --> Alfhshahtptgt:::txtsize
-MsnabolIknmpf:::txtsize --> Mosnenaaodrln:::txtsize
-Andurtlpss:::txtsize --> Ucdrrnraa:::txtsize
-Ucdrrnraa:::txtsize --> Tearahdlgsse:::txtsize
-Ucdrrnraa:::txtsize --> TgMoaredireio:::txtsize
+Ilauacapnecyp:::txtsize --> Tasiitdthe:::txtsize
+Tasiitdthe:::txtsize --> TuIlstreaororo:::txtsize
+TuIlstreaororo:::txtsize --> Ilrtsnarifa:::txtsize
+TuIlstreaororo:::txtsize --> Ilnvfteeveeaotr:::txtsize
+Tasiitdthe:::txtsize --> Tssithriioee:::txtsize
+Tssithriioee:::txtsize --> EieariivIll:::txtsize
+Tssithriioee:::txtsize --> IacfibdeSk:::txtsize
+Ilauacapnecyp:::txtsize --> Nyaotlneyt:::txtsize
+Nyaotlneyt:::txtsize --> Tdrcaaededlncbs:::txtsize
+Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
+Nyaotlneyt:::txtsize --> SdaoausCetsnal:::txtsize
+SdaoausCetsnal:::txtsize --> Ilaurtoceerysnln:::txtsize
+SdaoausCetsnal:::txtsize --> IlrsofuOdwot:::txtsize
 
-Tsioooooiaeg@{ shape: win-pane, label: "_Published Dec 01, 2025, 11:17 AM_
-Trump says will ‘look into’ supposed follow-on strike on alleged drug boat" }
-UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
-Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
-Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
-Us builds up forces in caribbean as officials, experts, ask why" }
-Ursratnldoi@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:51 AM_
-Us increases reward for arrest of venezeula’s maduro to $64 million" }
-Ursratnldoi@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:51 AM_
-Us increases reward for arrest of venezeula’s maduro to $64 million" }
-VuMoUswieggoy@{ shape: win-pane, label: "_Published Sep 02, 2025, 01:19 AM_
-Venezuela’s maduro says us warships with 1,200 missiles targeting his country" }
-Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
-Us builds up forces in caribbean as officials, experts, ask why" }
-Ursratnldoi@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:51 AM_
-Us increases reward for arrest of venezeula’s maduro to $64 million" }
-VuNnsyvgSse@{ shape: win-pane, label: "_Published Dec 01, 2025, 04:34 AM_
-Venezuela’s national assembly to investigate us boat strikes" }
-Uildcisiiig@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:20 PM_
-Us strikes alleged drug-carrying vessels in pacific, killing six" }
-Nseldolrytc@{ shape: win-pane, label: "_Published Nov 07, 2025, 12:27 PM_
-New us strike on alleged drug boat kills three, says pentagon chief" }
-Eirdyroersl@{ shape: win-pane, label: "_Published Oct 31, 2025, 06:16 PM_
-Explainer: are the deadly us strikes on alleged drug vessels legal?​" }
-UgVuMoceoyRllk@{ shape: win-pane, label: "_Published Dec 01, 2025, 05:07 AM_
-Us has given venezuela’s maduro chance to leave country, says republican lawmaker" }
-Tsicvsugztliee@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:19 PM_
-Trump says airspace above and surrounding venezuela to be closed in its entirety" }
-Hunllyoat@{ shape: win-pane, label: "_Published Nov 30, 2025, 12:09 AM_
-How could venezuela’s military respond to a us attack?" }
+CeDswnmeao@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:28 PM_
+Charles and diana’s rare wedding champagne to be auctioned" }
+Peaautaakuees@{ shape: win-pane, label: "_Published Nov 20, 2025, 08:27 PM_
+Princess diana’s wax figure enters paris waxwork museum in ‘revenge dress’" }
+Csnantohaatae@{ shape: win-pane, label: "_Published Aug 22, 2022, 09:52 AM_
+Crises again threatening british monarchy's image 25 years after diana's death" }
+Peyemipiirfy@{ shape: win-pane, label: "_Published Feb 19, 2021, 08:53 PM_
+Prince harry and meghan make final split with british royal family" }
+BieddssirlerMnr@{ shape: win-pane, label: "_Published Mar 10, 2021, 01:56 AM_
+Britain's queen 'saddened', takes racism claims 'seriously' after harry and meghan interview" }
+LsnDaotfsag@{ shape: win-pane, label: "_Published Jun 10, 2025, 01:58 AM_
+‘largest princess diana auction’ features frocks, hats and bags" }
+Tossrerityaa@{ shape: win-pane, label: "_Published Jan 10, 2024, 12:46 AM_
+The crown costumes and props head for auction after royal drama wraps" }
+Secoreieelcrun@{ shape: win-pane, label: "_Published Mar 03, 2023, 03:00 PM_
+Stuffed raccoon goes for $121,000 at everything everywhere all at once charity auction" }
+Fspnxotlun@{ shape: win-pane, label: "_Published Feb 14, 2023, 06:55 PM_
+Forrest gump’s iconic ‘box of chocolates’ sold at auction for $33,000" }
+Pearecepbtd@{ shape: win-pane, label: "_Published Jul 17, 2023, 11:40 PM_
+Princess diana’s pre-loved ‘black sheep’ jumper to be auctioned" }
+Sonaaisadalr@{ shape: win-pane, label: "_Published Aug 12, 2021, 11:14 AM_
+Slice of prince charles and princess diana's 1981 wedding cake sells for $3,400" }
 
-Tsioooooiaeg:::txtsize --> UikperngutVura:::txtsize
-UikperngutVura:::txtsize --> Ulfsrafapay:::txtsize
-Ulfsrafapay:::txtsize --> Ursratnldoi:::txtsize
-Ulfsrafapay:::txtsize --> Ursratnldoi:::txtsize
-UikperngutVura:::txtsize --> VuMoUswieggoy:::txtsize
-VuMoUswieggoy:::txtsize --> Ulfsrafapay:::txtsize
-VuMoUswieggoy:::txtsize --> Ursratnldoi:::txtsize
-Tsioooooiaeg:::txtsize --> VuNnsyvgSse:::txtsize
-VuNnsyvgSse:::txtsize --> Uildcisiiig:::txtsize
-Uildcisiiig:::txtsize --> Nseldolrytc:::txtsize
-Uildcisiiig:::txtsize --> Eirdyroersl:::txtsize
-VuNnsyvgSse:::txtsize --> UgVuMoceoyRllk:::txtsize
-UgVuMoceoyRllk:::txtsize --> Tsicvsugztliee:::txtsize
-UgVuMoceoyRllk:::txtsize --> Hunllyoat:::txtsize
+CeDswnmeao:::txtsize --> Peaautaakuees:::txtsize
+Peaautaakuees:::txtsize --> Csnantohaatae:::txtsize
+Csnantohaatae:::txtsize --> Peyemipiirfy:::txtsize
+Csnantohaatae:::txtsize --> BieddssirlerMnr:::txtsize
+CeDswnmeao:::txtsize --> LsnDaotfsag:::txtsize
+LsnDaotfsag:::txtsize --> Tossrerityaa:::txtsize
+Tossrerityaa:::txtsize --> Secoreieelcrun:::txtsize
+Tossrerityaa:::txtsize --> Fspnxotlun:::txtsize
+LsnDaotfsag:::txtsize --> Pearecepbtd:::txtsize
+Pearecepbtd:::txtsize --> Sonaaisadalr:::txtsize
 
-Etkctoiuc@{ shape: win-pane, label: "_Published Dec 01, 2025, 10:14 AM_
-Experts work on un climate report amid us pushback" }
-DywwrsctlshP@{ shape: win-pane, label: "_Published Nov 14, 2025, 06:22 AM_
-Deadly heat worldwide prompts $390m for climate health research at cop30" }
-Sneegrnitliseist@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:49 PM_
-Sharing renewable energy sources in s-e asia key to dealing with rising heat: climate scientist" }
-Spalpotboaieett@{ shape: win-pane, label: "_Published Nov 11, 2025, 09:07 PM_
-Singapore backs global push for sustainable cooling as cities step up heat action at cop30" }
-Ddidnerbn@{ shape: win-pane, label: "_Published Nov 12, 2025, 02:27 AM_
-Demand for air-conditioning set to triple by 2050, warns un" }
-CiokmtioehyS@{ shape: win-pane, label: "_Published Nov 13, 2025, 08:01 AM_
-Co2 to hit record in 2025, key temperature limit could be reached in 4 years: study" }
-Einairrsred@{ shape: win-pane, label: "_Published Nov 11, 2025, 08:35 AM_
-Emissions in china flat in third quarter as solar surges: study" }
-DymlsVaidc@{ shape: win-pane, label: "_Published Nov 27, 2025, 08:10 AM_
-Deadly storms, $4.2b in losses test vietnam’s climate defences" }
-Tasifrooirni@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:48 PM_
-Thailand to send aircraft carrier for flood relief as rain intensifies" }
-Taadrieeeisoveir@{ shape: win-pane, label: "_Published Nov 24, 2025, 04:37 PM_
-Thailand’s hat yai declared a disaster zone as it experiences the most severe deluge in 300 years" }
-HidltiiMsetclr@{ shape: win-pane, label: "_Published Nov 25, 2025, 01:19 PM_
-Hat yai floods deal blow to thai tourism as malaysians expected to cancel all trips" }
-Vacrtfiioaeds@{ shape: win-pane, label: "_Published Nov 26, 2025, 01:55 PM_
-Vietnam braces for new storm after historic floods leave over 100 dead or missing" }
-Tasifrooirni@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:48 PM_
-Thailand to send aircraft carrier for flood relief as rain intensifies" }
-Tarseusifsul@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:45 AM_
-Thailand airlifts patients, rushes supplies as floods in south kill 33" }
+Smiiriweannsiuc@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:05 PM_
+Spain mobilises military against swine fever, says contaminated sandwich could be cause" }
+Srtsiweainb@{ shape: win-pane, label: "_Published Nov 28, 2025, 06:43 PM_
+Spain reports first african swine fever cases since 1994 in wild boar" }
+SKistrswe@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:13 PM_
+South korea issues alert after 6th case of swine fever" }
+Tncrssf@{ shape: win-pane, label: "_Published Oct 23, 2025, 12:50 PM_
+Taiwan detects first cases of swine fever" }
+Vairniweua@{ shape: win-pane, label: "_Published Aug 05, 2025, 12:55 PM_
+Vietnam facing worsening african swine fever outbreaks" }
+Vanopitaiweps@{ shape: win-pane, label: "_Published Jul 18, 2025, 12:01 PM_
+Vietnam warns of food supply disruptions as african swine fever spreads" }
+Msoiuslsyciv@{ shape: win-pane, label: "_Published May 18, 2025, 11:00 AM_
+Malaysia’s pork prices surge as local farms hit by african swine fever" }
+EmutivsSsgotra@{ shape: win-pane, label: "_Published Nov 30, 2025, 10:14 PM_
+Eight more suspected swine fever cases as spain struggles to limit export damage" }
+OiSskrtaldeerries@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:10 PM_
+One third of spanish pork export certificates blocked since swine fever outbreak, minister says" }
+SKistrswe@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:13 PM_
+South korea issues alert after 6th case of swine fever" }
+Srtsiweainb@{ shape: win-pane, label: "_Published Nov 28, 2025, 06:43 PM_
+Spain reports first african swine fever cases since 1994 in wild boar" }
+Shpxsitrsfnened@{ shape: win-pane, label: "_Published Nov 29, 2025, 02:33 AM_
+Spain halts pork exports to china after first case of african swine flu in three decades" }
+Srtsiweainb@{ shape: win-pane, label: "_Published Nov 28, 2025, 06:43 PM_
+Spain reports first african swine fever cases since 1994 in wild boar" }
+Srtsiweainb@{ shape: win-pane, label: "_Published Nov 28, 2025, 06:43 PM_
+Spain reports first african swine fever cases since 1994 in wild boar" }
 
-Etkctoiuc:::txtsize --> DywwrsctlshP:::txtsize
-DywwrsctlshP:::txtsize --> Sneegrnitliseist:::txtsize
-Sneegrnitliseist:::txtsize --> Spalpotboaieett:::txtsize
-Sneegrnitliseist:::txtsize --> Ddidnerbn:::txtsize
-DywwrsctlshP:::txtsize --> CiokmtioehyS:::txtsize
-CiokmtioehyS:::txtsize --> Einairrsred:::txtsize
-Etkctoiuc:::txtsize --> DymlsVaidc:::txtsize
-DymlsVaidc:::txtsize --> Tasifrooirni:::txtsize
-Tasifrooirni:::txtsize --> Taadrieeeisoveir:::txtsize
-Tasifrooirni:::txtsize --> HidltiiMsetclr:::txtsize
-DymlsVaidc:::txtsize --> Vacrtfiioaeds:::txtsize
-Vacrtfiioaeds:::txtsize --> Tasifrooirni:::txtsize
-Vacrtfiioaeds:::txtsize --> Tarseusifsul:::txtsize
+Smiiriweannsiuc:::txtsize --> Srtsiweainb:::txtsize
+Srtsiweainb:::txtsize --> SKistrswe:::txtsize
+SKistrswe:::txtsize --> Tncrssf:::txtsize
+SKistrswe:::txtsize --> Vairniweua:::txtsize
+Srtsiweainb:::txtsize --> Vanopitaiweps:::txtsize
+Vanopitaiweps:::txtsize --> Msoiuslsyciv:::txtsize
+Smiiriweannsiuc:::txtsize --> EmutivsSsgotra:::txtsize
+EmutivsSsgotra:::txtsize --> OiSskrtaldeerries:::txtsize
+OiSskrtaldeerries:::txtsize --> SKistrswe:::txtsize
+OiSskrtaldeerries:::txtsize --> Srtsiweainb:::txtsize
+EmutivsSsgotra:::txtsize --> Shpxsitrsfnened:::txtsize
+Shpxsitrsfnened:::txtsize --> Srtsiweainb:::txtsize
+Shpxsitrsfnened:::txtsize --> Srtsiweainb:::txtsize
 
 ```
-<i>Last updated: 2025-12-01 16:00:40.252500 (GMT+8)</i>
+<i>Last updated: 2025-12-01 20:01:12.587054 (GMT+8)</i>
 <!-- END -->
