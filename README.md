@@ -16,6 +16,43 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Anolhidirenv@{ shape: win-pane, label: "_Published Dec 01, 2025, 01:50 PM_
+Amazon and google launch multi-cloud service for faster connectivity" }
+Anutvgrrgraeele@{ shape: win-pane, label: "_Published Oct 20, 2025, 04:38 PM_
+Amazon’s cloud unit recovering after major outage disrupts apps, services worldwide" }
+Rtvrrtoutfeus@{ shape: win-pane, label: "_Published Jun 04, 2025, 04:14 AM_
+Reddit’s services restored after global outage that affected thousands" }
+WlyeleUcefs@{ shape: win-pane, label: "_Published Mar 19, 2025, 10:50 PM_
+‘will i lose my job?’ federal workers in us flock to reddit for answers" }
+RtetOIintt@{ shape: win-pane, label: "_Published May 17, 2024, 08:24 AM_
+Reddit forges pact with openai to bring content to chatgpt" }
+Andurtlpss@{ shape: win-pane, label: "_Published Aug 01, 2025, 07:21 AM_
+Amazon cloud computing results fail to impress; shares dive" }
+MsnabolIknmpf@{ shape: win-pane, label: "_Published Jul 31, 2025, 07:47 AM_
+Microsoft and meta fuel $648 billion rally in ai stocks as investments pay off" }
+Alfhshahtptgt@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:36 AM_
+Apple loses fourth ai researcher in a month to meta’s superintelligence team" }
+Mosnenaaodrln@{ shape: win-pane, label: "_Published Jul 31, 2025, 07:24 AM_
+Meta forecasts continued spending as it races to build ‘superintelligence’" }
+Ucdrrnraa@{ shape: win-pane, label: "_Published Aug 01, 2025, 04:59 AM_
+Us stocks end lower after strong start as rally fades" }
+Tearahdlgsse@{ shape: win-pane, label: "_Published Jul 31, 2025, 03:23 PM_
+Trump escalates trade war with canada following palestine stance" }
+TgMoaredireio@{ shape: win-pane, label: "_Published Aug 01, 2025, 01:49 AM_
+Trump gives mexico 90-day tariff reprieve as deadline for higher duties looms" }
+
+Anolhidirenv:::txtsize --> Anutvgrrgraeele:::txtsize
+Anutvgrrgraeele:::txtsize --> Rtvrrtoutfeus:::txtsize
+Rtvrrtoutfeus:::txtsize --> WlyeleUcefs:::txtsize
+Rtvrrtoutfeus:::txtsize --> RtetOIintt:::txtsize
+Anolhidirenv:::txtsize --> Andurtlpss:::txtsize
+Andurtlpss:::txtsize --> MsnabolIknmpf:::txtsize
+MsnabolIknmpf:::txtsize --> Alfhshahtptgt:::txtsize
+MsnabolIknmpf:::txtsize --> Mosnenaaodrln:::txtsize
+Andurtlpss:::txtsize --> Ucdrrnraa:::txtsize
+Ucdrrnraa:::txtsize --> Tearahdlgsse:::txtsize
+Ucdrrnraa:::txtsize --> TgMoaredireio:::txtsize
+
 Tsioooooiaeg@{ shape: win-pane, label: "_Published Dec 01, 2025, 11:17 AM_
 Trump says will ‘look into’ supposed follow-on strike on alleged drug boat" }
 UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
@@ -105,37 +142,6 @@ DymlsVaidc:::txtsize --> Vacrtfiioaeds:::txtsize
 Vacrtfiioaeds:::txtsize --> Tasifrooirni:::txtsize
 Vacrtfiioaeds:::txtsize --> Tarseusifsul:::txtsize
 
-Aasceeenlno@{ shape: win-pane, label: "_Published Dec 01, 2025, 08:55 AM_
-Arms makers see record revenues as tensions fuel demand: report" }
-UnMecioSmsi@{ shape: win-pane, label: "_Published Oct 21, 2025, 11:57 PM_
-Ukraine and middle east conflicts boost us arms makers profits" }
-Pglohaeeedo@{ shape: win-pane, label: "_Published Aug 13, 2025, 06:33 AM_
-Pentagon golden dome to have 4-layer defence system, slides show" }
-Tseeslassa@{ shape: win-pane, label: "_Published Jul 22, 2025, 06:18 PM_
-Trump’s golden dome looks for alternatives to musk’s spacex" }
-TaityannrcnkMn@{ shape: win-pane, label: "_Published Aug 27, 2025, 02:58 AM_
-Trump administration eyes stakes in defence firms, including lockheed martin" }
-Tsnaeaftetk@{ shape: win-pane, label: "_Published Aug 23, 2025, 03:24 AM_
-Trump says intel has agreed to a deal for us to take 10% equity stake" }
-NnleuiUenta@{ shape: win-pane, label: "_Published Jun 19, 2025, 06:44 AM_
-Nippon steel closes acquisition of us steel to end 18-month saga" }
-Cstitlotuies@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:09 AM_
-China’s military firms struggle as corruption purge bites, report says" }
-Cstupnserdcis@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:28 AM_
-China’s military build-up demands response, australia defence minister says" }
-Aalhueeiice@{ shape: win-pane, label: "_Published Oct 20, 2025, 03:50 PM_
-Australia flags china’s ‘unsafe’ flare drop in aerial encounter" }
-
-Aasceeenlno:::txtsize --> UnMecioSmsi:::txtsize
-UnMecioSmsi:::txtsize --> Pglohaeeedo:::txtsize
-Pglohaeeedo:::txtsize --> Tseeslassa:::txtsize
-UnMecioSmsi:::txtsize --> TaityannrcnkMn:::txtsize
-TaityannrcnkMn:::txtsize --> Tsnaeaftetk:::txtsize
-TaityannrcnkMn:::txtsize --> NnleuiUenta:::txtsize
-Aasceeenlno:::txtsize --> Cstitlotuies:::txtsize
-Cstitlotuies:::txtsize --> Cstupnserdcis:::txtsize
-Cstupnserdcis:::txtsize --> Aalhueeiice:::txtsize
-
 ```
-<i>Last updated: 2025-12-01 12:01:13.463356 (GMT+8)</i>
+<i>Last updated: 2025-12-01 16:00:40.252500 (GMT+8)</i>
 <!-- END -->
