@@ -16,141 +16,99 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-EeaokeuvaMw@{ shape: win-pane, label: "_Published Dec 01, 2025, 11:29 PM_
-Europeans rally round ukraine as trump envoy heads to moscow" }
-Tsoafiseetot@{ shape: win-pane, label: "_Published Dec 01, 2025, 12:19 AM_
-Trump says ‘good chance’ of ukraine-russia peace deal after florida talks" }
-Tseraniteaorbhut@{ shape: win-pane, label: "_Published Sep 03, 2025, 03:19 AM_
-Trump says he is ‘very disappointed’ with putin over ukraine, not worried about china-russia ties" }
-Atsmacolyugp@{ shape: win-pane, label: "_Published Aug 19, 2025, 11:20 AM_
-At white house summit, a masterclass of diplomacy – in courting trump" }
-UnlyRanrefes@{ shape: win-pane, label: "_Published Aug 22, 2025, 03:43 AM_
-Ukraine’s zelensky says russia trying to ‘wriggle out’ of peace talks" }
-Unpetrsrbitc@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:09 AM_
-Ukraine’s top peace negotiator quits after raid by anti-graft officers" }
-Unitcehfncof@{ shape: win-pane, label: "_Published Nov 28, 2025, 04:19 PM_
-Ukraine anti-graft officers search home of zelensky’s chief of staff" }
-CZslufetarc@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:54 AM_
-Close zelensky ally accused of orchestrating major graft scheme" }
-KhtUnttnctntlrl@{ shape: win-pane, label: "_Published Nov 30, 2025, 11:24 PM_
-Kazakhstan tells ukraine to stop attacking black sea terminal after oil exports halted" }
-SoeeaeomRatn@{ shape: win-pane, label: "_Published Nov 30, 2025, 12:02 AM_
-Sea drones reportedly halt operations at major russian oil terminal" }
-Vunnakrkasenz@{ shape: win-pane, label: "_Published Nov 29, 2025, 03:39 PM_
-Vast russian overnight attack on ukraine kills at least three, wounds dozens" }
-UneodSeafegtx@{ shape: win-pane, label: "_Published Nov 29, 2025, 07:38 PM_
-Ukraine delegation heads to us for peace talks after lead negotiator’s exit" }
-UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
-Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
-Skleokusnde@{ shape: win-pane, label: "_Published Dec 17, 2024, 03:10 AM_
-Stricken oil tankers show risks of russia’s ageing ‘shadow fleet’" }
-SiRadentokfler@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:04 AM_
-Sanctioned russian ‘shadow fleet’ tanker at risk of sinking after blast near turkey" }
+Fhoeaoreio@{ shape: win-pane, label: "_Published Dec 02, 2025, 03:49 AM_
+French authorities detain two minors in terrorism probe" }
+Gnrakresnuc@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:26 PM_
+Germany’s christmas markets grapple with soaring security costs" }
+Gnhfedraaale@{ shape: win-pane, label: "_Published Dec 21, 2024, 02:25 PM_
+Germany in shock after new deadly christmas attack; death toll rises to 5" }
+Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
+‘torn from my side’: horror of german christmas market attack" }
+Gnhifcoslo@{ shape: win-pane, label: "_Published Dec 11, 2024, 11:03 PM_
+Germany’s scholz kicks off process towards feb 23 elections" }
+Tlelrtrirnaynm@{ shape: win-pane, label: "_Published Mar 03, 2025, 08:55 PM_
+Two killed, several injured after car rams into crowd in german city of mannheim" }
+CinoCtaimneak@{ shape: win-pane, label: "_Published Dec 21, 2024, 03:42 AM_
+Car drives into crowd at christmas market in germany, in suspected attack" }
+Nyipdagcubeac@{ shape: win-pane, label: "_Published Feb 13, 2025, 06:14 PM_
+Nearly 30 hurt in suspected car ramming attack in munich before german election" }
 
-EeaokeuvaMw:::txtsize --> Tsoafiseetot:::txtsize
-Tsoafiseetot:::txtsize --> Tseraniteaorbhut:::txtsize
-Tseraniteaorbhut:::txtsize --> Atsmacolyugp:::txtsize
-Tseraniteaorbhut:::txtsize --> UnlyRanrefes:::txtsize
-Tsoafiseetot:::txtsize --> Unpetrsrbitc:::txtsize
-Unpetrsrbitc:::txtsize --> Unitcehfncof:::txtsize
-Unpetrsrbitc:::txtsize --> CZslufetarc:::txtsize
-EeaokeuvaMw:::txtsize --> KhtUnttnctntlrl:::txtsize
-KhtUnttnctntlrl:::txtsize --> SoeeaeomRatn:::txtsize
-SoeeaeomRatn:::txtsize --> Vunnakrkasenz:::txtsize
-SoeeaeomRatn:::txtsize --> UneodSeafegtx:::txtsize
-KhtUnttnctntlrl:::txtsize --> UntaluneBScyca:::txtsize
-UntaluneBScyca:::txtsize --> Skleokusnde:::txtsize
-UntaluneBScyca:::txtsize --> SiRadentokfler:::txtsize
+Fhoeaoreio:::txtsize --> Gnrakresnuc:::txtsize
+Gnrakresnuc:::txtsize --> Gnhfedraaale:::txtsize
+Gnhfedraaale:::txtsize --> Trsoomrakt:::txtsize
+Gnhfedraaale:::txtsize --> Gnhifcoslo:::txtsize
+Gnrakresnuc:::txtsize --> Tlelrtrirnaynm:::txtsize
+Tlelrtrirnaynm:::txtsize --> CinoCtaimneak:::txtsize
+Tlelrtrirnaynm:::txtsize --> Nyipdagcubeac:::txtsize
 
-Asiuyea@{ shape: win-pane, label: "_Published Dec 01, 2025, 10:40 PM_
-Airbus confirms ‘quality issue’ on a320 panels" }
-Aseocrdpscoi@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:03 AM_
-Airbus issues major a320 recall; travel disruptions expected worldwide" }
-Spscyuciefsdmeo@{ shape: win-pane, label: "_Published Nov 29, 2025, 11:42 AM_
-21 scoot planes affected by airbus a320 recall; airline says fixes should be completed on nov 29" }
-Aseocrdpscoi@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:03 AM_
-Airbus issues major a320 recall; travel disruptions expected worldwide" }
-Aseocrdpscoi@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:03 AM_
-Airbus issues major a320 recall; travel disruptions expected worldwide" }
-AaJawmeiAtwsasft@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:15 AM_
-Australia’s jetstar airways impacted by airbus a320 fleet software issue, cancels some flights" }
-Aseocrdpscoi@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:03 AM_
-Airbus issues major a320 recall; travel disruptions expected worldwide" }
-GlifeimAl@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:00 AM_
-Global airlines affected by airbus’ major a320 recall" }
-Assrnlsaisiita@{ shape: win-pane, label: "_Published Dec 01, 2025, 08:41 AM_
-Airbus makes progress in resolving software crisis as airlines ride out a320 recall" }
-AsaoieexUoidp@{ shape: win-pane, label: "_Published Nov 30, 2025, 08:40 AM_
-Airbus a320 recall: global airlines race to fix jets; us reports little disruption" }
-Aseocrdpscoi@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:03 AM_
-Airbus issues major a320 recall; travel disruptions expected worldwide" }
-Anrdexsruassav@{ shape: win-pane, label: "_Published Nov 29, 2025, 03:25 PM_
-Airlines worldwide race to fix a320 jets after airbus recall disrupts global travel" }
-Anrdexsruassav@{ shape: win-pane, label: "_Published Nov 29, 2025, 03:25 PM_
-Airlines worldwide race to fix a320 jets after airbus recall disrupts global travel" }
-Astimerts@{ shape: win-pane, label: "_Published Oct 07, 2025, 06:41 PM_
-Airbus a320 ousts boeing 737 as most-delivered jet in history" }
-Spscyuciefsdmeo@{ shape: win-pane, label: "_Published Nov 29, 2025, 11:42 AM_
-21 scoot planes affected by airbus a320 recall; airline says fixes should be completed on nov 29" }
+Uetislomm@{ shape: win-pane, label: "_Published Dec 02, 2025, 03:05 AM_
+Us wipes south africa’s g-20 site clean for trump summit" }
+GiofasaopSopi@{ shape: win-pane, label: "_Published Nov 23, 2025, 04:26 AM_
+G-20 summit in south africa adopts declaration despite us boycott, opposition" }
+FbltiawowPg@{ shape: win-pane, label: "_Published Nov 22, 2025, 09:04 PM_
+Flexible multilateralism a way forward for the world: pm wong" }
+MlacoorxsMae@{ shape: win-pane, label: "_Published Jun 25, 2025, 07:27 PM_
+Multilateralism can evolve to be more ‘flexible’, says pm wong at wef event" }
+AkualawgiSAa@{ shape: win-pane, label: "_Published May 23, 2025, 07:20 AM_
+A check of trump’s false claims about white genocide in south africa" }
+Tahurpdvnesn@{ shape: win-pane, label: "_Published May 22, 2025, 01:26 AM_
+Trump ambushes south africa’s president over ‘genocide’ accusation" }
+FwSAarnTcsfimi@{ shape: win-pane, label: "_Published May 13, 2025, 04:01 AM_
+First white south africans arrive in us as trump claims they face discrimination" }
+Tssniofswplec@{ shape: win-pane, label: "_Published Feb 11, 2025, 08:13 PM_
+Trump’s accusations against south africa spark ‘white privilege’ self-mockery" }
 
-Asiuyea:::txtsize --> Aseocrdpscoi:::txtsize
-Aseocrdpscoi:::txtsize --> Spscyuciefsdmeo:::txtsize
-Spscyuciefsdmeo:::txtsize --> Aseocrdpscoi:::txtsize
-Spscyuciefsdmeo:::txtsize --> Aseocrdpscoi:::txtsize
-Aseocrdpscoi:::txtsize --> AaJawmeiAtwsasft:::txtsize
-AaJawmeiAtwsasft:::txtsize --> Aseocrdpscoi:::txtsize
-AaJawmeiAtwsasft:::txtsize --> GlifeimAl:::txtsize
-Asiuyea:::txtsize --> Assrnlsaisiita:::txtsize
-Assrnlsaisiita:::txtsize --> AsaoieexUoidp:::txtsize
-AsaoieexUoidp:::txtsize --> Aseocrdpscoi:::txtsize
-AsaoieexUoidp:::txtsize --> Anrdexsruassav:::txtsize
-Assrnlsaisiita:::txtsize --> Anrdexsruassav:::txtsize
-Anrdexsruassav:::txtsize --> Astimerts:::txtsize
-Anrdexsruassav:::txtsize --> Spscyuciefsdmeo:::txtsize
+Uetislomm:::txtsize --> GiofasaopSopi:::txtsize
+GiofasaopSopi:::txtsize --> FbltiawowPg:::txtsize
+FbltiawowPg:::txtsize --> MlacoorxsMae:::txtsize
+FbltiawowPg:::txtsize --> AkualawgiSAa:::txtsize
+GiofasaopSopi:::txtsize --> Tahurpdvnesn:::txtsize
+Tahurpdvnesn:::txtsize --> FwSAarnTcsfimi:::txtsize
+Tahurpdvnesn:::txtsize --> Tssniofswplec:::txtsize
 
-Ilauacapnecyp@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:29 PM_
-Israel’s netanyahu appears in court after pardon request backed by trump" }
-Tasiitdthe@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:21 PM_
-Trump asks israeli president to pardon netanyahu in letter" }
-TuIlstreaororo@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:09 PM_
-Trump urges israel’s president to pardon netanyahu, who’s on trial for corruption" }
-Ilrtsnarifa@{ shape: win-pane, label: "_Published Jun 29, 2025, 09:03 PM_
-Israeli court postpones netanyahu appearance in graft trial" }
-Ilnvfteeveeaotr@{ shape: win-pane, label: "_Published Aug 05, 2025, 12:55 PM_
-Israel cabinet moves to fire attorney-general overseeing netanyahu’s corruption trial" }
-Tssithriioee@{ shape: win-pane, label: "_Published Jun 26, 2025, 08:10 AM_
-Trump says israeli pm netanyahu’s corruption trial should be cancelled" }
-EieariivIll@{ shape: win-pane, label: "_Published Dec 10, 2024, 07:12 AM_
-Explainer: netanyahu corruption trial divides israeli public" }
-IacfibdeSk@{ shape: win-pane, label: "_Published Jun 25, 2025, 11:10 PM_
-Iran says nuclear facilities ‘badly damaged’ by us strikes" }
-Nyaotlneyt@{ shape: win-pane, label: "_Published Oct 26, 2025, 04:56 PM_
-Netanyahu faces vote with coalition weakened by gaza truce" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
-Peace finally descends on the middle east: now the battle to make it last begins" }
-SdaoausCetsnal@{ shape: win-pane, label: "_Published Jul 17, 2025, 02:29 AM_
-Second ultra-orthodox party quits israel cabinet, but throws netanyahu a lifeline" }
-Ilaurtoceerysnln@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:40 PM_
-Israel’s netanyahu under mounting political pressure after party quits ruling coalition" }
-IlrsofuOdwot@{ shape: win-pane, label: "_Published May 16, 2024, 02:33 AM_
-Israeli pm presses bill on drafting ultra-orthodox jews into military" }
+TwIlorii@{ shape: win-pane, label: "_Published Dec 02, 2025, 02:13 AM_
+Trump warns israel not to ‘interfere’ in syria" }
+Tvoeichyfarkha@{ shape: win-pane, label: "_Published Nov 11, 2025, 02:09 AM_
+Trump vows to do everything he can to help syria after landmark talks with sharaa" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
+Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
+SniaeagfSvmtrli@{ shape: win-pane, label: "_Published Nov 09, 2025, 05:58 PM_
+Syrian president arrives in washington after us removes him from terrorism blacklist" }
+UslaoSsiaotsi@{ shape: win-pane, label: "_Published Nov 05, 2025, 08:17 AM_
+Us asks un to lift sanctions on syria’s president ahead of white house visit" }
+SceppotasSs@{ shape: win-pane, label: "_Published Nov 09, 2025, 04:40 AM_
+Syria carries out pre-emptive operations against isis cells" }
+IlceiinsottyDcn@{ shape: win-pane, label: "_Published Jul 16, 2025, 09:50 PM_
+Israel launches heavy airstrikes in damascus, vowing to protect syria’s druze community" }
+Sneeeahtfiiveo@{ shape: win-pane, label: "_Published Jul 15, 2025, 04:34 PM_
+Syrian druze leader urges local fighters to confront incoming government troops" }
+SsrlseldeiasoD@{ shape: win-pane, label: "_Published Jul 15, 2025, 02:14 AM_
+Syria sectarian clashes leave nearly 100 dead; israel strikes targets to protect druze" }
+Snsicmnsiaoia@{ shape: win-pane, label: "_Published Jul 12, 2025, 11:55 PM_
+Syrian and israeli officials meet in baku, says diplomatic source in damascus" }
+Sneeeahtfiiveo@{ shape: win-pane, label: "_Published Jul 15, 2025, 04:34 PM_
+Syrian druze leader urges local fighters to confront incoming government troops" }
+SsrlseldeiasoD@{ shape: win-pane, label: "_Published Jul 15, 2025, 02:14 AM_
+Syria sectarian clashes leave nearly 100 dead; israel strikes targets to protect druze" }
+Snsicmnsiaoia@{ shape: win-pane, label: "_Published Jul 12, 2025, 11:55 PM_
+Syrian and israeli officials meet in baku, says diplomatic source in damascus" }
 
-Ilauacapnecyp:::txtsize --> Tasiitdthe:::txtsize
-Tasiitdthe:::txtsize --> TuIlstreaororo:::txtsize
-TuIlstreaororo:::txtsize --> Ilrtsnarifa:::txtsize
-TuIlstreaororo:::txtsize --> Ilnvfteeveeaotr:::txtsize
-Tasiitdthe:::txtsize --> Tssithriioee:::txtsize
-Tssithriioee:::txtsize --> EieariivIll:::txtsize
-Tssithriioee:::txtsize --> IacfibdeSk:::txtsize
-Ilauacapnecyp:::txtsize --> Nyaotlneyt:::txtsize
-Nyaotlneyt:::txtsize --> Tdrcaaededlncbs:::txtsize
-Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
-Nyaotlneyt:::txtsize --> SdaoausCetsnal:::txtsize
-SdaoausCetsnal:::txtsize --> Ilaurtoceerysnln:::txtsize
-SdaoausCetsnal:::txtsize --> IlrsofuOdwot:::txtsize
+TwIlorii:::txtsize --> Tvoeichyfarkha:::txtsize
+Tvoeichyfarkha:::txtsize --> SnltiARahtoy:::txtsize
+SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
+Tvoeichyfarkha:::txtsize --> SniaeagfSvmtrli:::txtsize
+SniaeagfSvmtrli:::txtsize --> UslaoSsiaotsi:::txtsize
+SniaeagfSvmtrli:::txtsize --> SceppotasSs:::txtsize
+TwIlorii:::txtsize --> IlceiinsottyDcn:::txtsize
+IlceiinsottyDcn:::txtsize --> Sneeeahtfiiveo:::txtsize
+Sneeeahtfiiveo:::txtsize --> SsrlseldeiasoD:::txtsize
+Sneeeahtfiiveo:::txtsize --> Snsicmnsiaoia:::txtsize
+IlceiinsottyDcn:::txtsize --> Sneeeahtfiiveo:::txtsize
+Sneeeahtfiiveo:::txtsize --> SsrlseldeiasoD:::txtsize
+Sneeeahtfiiveo:::txtsize --> Snsicmnsiaoia:::txtsize
 
 ```
-<i>Last updated: 2025-12-02 00:00:41.681292 (GMT+8)</i>
+<i>Last updated: 2025-12-02 04:01:06.345472 (GMT+8)</i>
 <!-- END -->
