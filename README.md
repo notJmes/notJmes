@@ -16,135 +16,126 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tfotaai@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:26 AM_
-The oxford 2025 word of the year is ‘rage bait’" }
-Bdsnrhr@{ shape: win-pane, label: "_Published Oct 31, 2025, 12:08 AM_
-Beyond words: ‘67’ crowned word of the year" }
-TrtrKangetorc@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:29 AM_
-Taylor swift and travis kelce announce engagement after two-year romance" }
-tsoueyeywnvl@{ shape: win-pane, label: "_Published Aug 27, 2025, 06:50 AM_
-5 things to know about love story between taylor swift and travis kelce" }
-Lsutofkaieapntvl@{ shape: win-pane, label: "_Published Aug 14, 2025, 09:42 AM_
-‘life is more upbeat’: taylor swift talks new album in rare podcast appearance with travis kelce" }
-WsGpasGscth@{ shape: win-pane, label: "_Published Sep 25, 2025, 03:49 PM_
-What is 6-7? this gen alpha slang has left gen zs scratching their heads" }
-psoioasaamiurt@{ shape: win-pane, label: "_Published Jul 22, 2025, 09:45 AM_
-‘+60 points for following crowd measures’: singaporeans jump on viral ‘aura farming’ trend" }
-DhayoeaGdtrini@{ shape: win-pane, label: "_Published Aug 29, 2025, 07:00 AM_
-Do you have a ‘5-9’ after your 9-5 job? some singapore gen zs do and they are having fun with it" }
-VonwfeCntr@{ shape: win-pane, label: "_Published Nov 06, 2025, 08:20 PM_
-‘vibe coding’ named word of the year by collins dictionary" }
-psoioasaamiurt@{ shape: win-pane, label: "_Published Jul 22, 2025, 09:45 AM_
-‘+60 points for following crowd measures’: singaporeans jump on viral ‘aura farming’ trend" }
-Wsfnsnnnso@{ shape: win-pane, label: "_Published Jul 11, 2025, 02:45 PM_
-What is ‘aura farming’? this indonesian tween will show you" }
-Bdsnrhr@{ shape: win-pane, label: "_Published Oct 31, 2025, 12:08 AM_
-Beyond words: ‘67’ crowned word of the year" }
-TrtrKangetorc@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:29 AM_
-Taylor swift and travis kelce announce engagement after two-year romance" }
-WsGpasGscth@{ shape: win-pane, label: "_Published Sep 25, 2025, 03:49 PM_
-What is 6-7? this gen alpha slang has left gen zs scratching their heads" }
+Tsioooooiaeg@{ shape: win-pane, label: "_Published Dec 01, 2025, 11:17 AM_
+Trump says will ‘look into’ supposed follow-on strike on alleged drug boat" }
+UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
+Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
+Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
+Us builds up forces in caribbean as officials, experts, ask why" }
+Ursratnldoi@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:51 AM_
+Us increases reward for arrest of venezeula’s maduro to $64 million" }
+Ursratnldoi@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:51 AM_
+Us increases reward for arrest of venezeula’s maduro to $64 million" }
+VuMoUswieggoy@{ shape: win-pane, label: "_Published Sep 02, 2025, 01:19 AM_
+Venezuela’s maduro says us warships with 1,200 missiles targeting his country" }
+Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
+Us builds up forces in caribbean as officials, experts, ask why" }
+Ursratnldoi@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:51 AM_
+Us increases reward for arrest of venezeula’s maduro to $64 million" }
+VuNnsyvgSse@{ shape: win-pane, label: "_Published Dec 01, 2025, 04:34 AM_
+Venezuela’s national assembly to investigate us boat strikes" }
+Uildcisiiig@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:20 PM_
+Us strikes alleged drug-carrying vessels in pacific, killing six" }
+Nseldolrytc@{ shape: win-pane, label: "_Published Nov 07, 2025, 12:27 PM_
+New us strike on alleged drug boat kills three, says pentagon chief" }
+Eirdyroersl@{ shape: win-pane, label: "_Published Oct 31, 2025, 06:16 PM_
+Explainer: are the deadly us strikes on alleged drug vessels legal?​" }
+UgVuMoceoyRllk@{ shape: win-pane, label: "_Published Dec 01, 2025, 05:07 AM_
+Us has given venezuela’s maduro chance to leave country, says republican lawmaker" }
+Tsicvsugztliee@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:19 PM_
+Trump says airspace above and surrounding venezuela to be closed in its entirety" }
+Hunllyoat@{ shape: win-pane, label: "_Published Nov 30, 2025, 12:09 AM_
+How could venezuela’s military respond to a us attack?" }
 
-Tfotaai:::txtsize --> Bdsnrhr:::txtsize
-Bdsnrhr:::txtsize --> TrtrKangetorc:::txtsize
-TrtrKangetorc:::txtsize --> tsoueyeywnvl:::txtsize
-TrtrKangetorc:::txtsize --> Lsutofkaieapntvl:::txtsize
-Bdsnrhr:::txtsize --> WsGpasGscth:::txtsize
-WsGpasGscth:::txtsize --> psoioasaamiurt:::txtsize
-WsGpasGscth:::txtsize --> DhayoeaGdtrini:::txtsize
-Tfotaai:::txtsize --> VonwfeCntr:::txtsize
-VonwfeCntr:::txtsize --> psoioasaamiurt:::txtsize
-psoioasaamiurt:::txtsize --> Wsfnsnnnso:::txtsize
-VonwfeCntr:::txtsize --> Bdsnrhr:::txtsize
-Bdsnrhr:::txtsize --> TrtrKangetorc:::txtsize
-Bdsnrhr:::txtsize --> WsGpasGscth:::txtsize
+Tsioooooiaeg:::txtsize --> UikperngutVura:::txtsize
+UikperngutVura:::txtsize --> Ulfsrafapay:::txtsize
+Ulfsrafapay:::txtsize --> Ursratnldoi:::txtsize
+Ulfsrafapay:::txtsize --> Ursratnldoi:::txtsize
+UikperngutVura:::txtsize --> VuMoUswieggoy:::txtsize
+VuMoUswieggoy:::txtsize --> Ulfsrafapay:::txtsize
+VuMoUswieggoy:::txtsize --> Ursratnldoi:::txtsize
+Tsioooooiaeg:::txtsize --> VuNnsyvgSse:::txtsize
+VuNnsyvgSse:::txtsize --> Uildcisiiig:::txtsize
+Uildcisiiig:::txtsize --> Nseldolrytc:::txtsize
+Uildcisiiig:::txtsize --> Eirdyroersl:::txtsize
+VuNnsyvgSse:::txtsize --> UgVuMoceoyRllk:::txtsize
+UgVuMoceoyRllk:::txtsize --> Tsicvsugztliee:::txtsize
+UgVuMoceoyRllk:::txtsize --> Hunllyoat:::txtsize
 
-Ilikdtvskeolausz@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:10 AM_
-Israel says it has killed 40 fighters over past week in operation to clear hamas’ tunnels in gaza" }
-kdnoaeyair@{ shape: win-pane, label: "_Published Nov 30, 2025, 06:15 PM_
-4 killed coming out of gaza tunnels, says israeli military" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
-Israel marks oct 7 anniversary as talks are held to end gaza war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-TmninGhntfr@{ shape: win-pane, label: "_Published Oct 27, 2023, 01:16 AM_
-The hamas tunnel city beneath gaza – a hidden front line for israel" }
-Iloiinasfnno@{ shape: win-pane, label: "_Published Oct 15, 2023, 06:00 AM_
-Israeli troops wait in fields near gaza in sign of imminent invasion" }
-Ilsycvdoapoestam@{ shape: win-pane, label: "_Published Oct 14, 2023, 05:05 PM_
-Israel faces risky choices in vow to destroy hamas, as option of street-to-street combat looms" }
-Aaisflsinwpson@{ shape: win-pane, label: "_Published Oct 14, 2023, 10:05 AM_
-At un, palestinians call for halt to israeli offensive, world powers mull options" }
-Bnbthgeaoaerdia@{ shape: win-pane, label: "_Published Oct 24, 2023, 05:42 PM_
-Beaten when being taken hostage, freed israeli woman says she was treated well in gaza" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-RsHActngrthls@{ shape: win-pane, label: "_Published Oct 21, 2023, 01:26 AM_
-Released by hamas, american mother and daughter reunite with family in israel" }
+Etkctoiuc@{ shape: win-pane, label: "_Published Dec 01, 2025, 10:14 AM_
+Experts work on un climate report amid us pushback" }
+DywwrsctlshP@{ shape: win-pane, label: "_Published Nov 14, 2025, 06:22 AM_
+Deadly heat worldwide prompts $390m for climate health research at cop30" }
+Sneegrnitliseist@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:49 PM_
+Sharing renewable energy sources in s-e asia key to dealing with rising heat: climate scientist" }
+Spalpotboaieett@{ shape: win-pane, label: "_Published Nov 11, 2025, 09:07 PM_
+Singapore backs global push for sustainable cooling as cities step up heat action at cop30" }
+Ddidnerbn@{ shape: win-pane, label: "_Published Nov 12, 2025, 02:27 AM_
+Demand for air-conditioning set to triple by 2050, warns un" }
+CiokmtioehyS@{ shape: win-pane, label: "_Published Nov 13, 2025, 08:01 AM_
+Co2 to hit record in 2025, key temperature limit could be reached in 4 years: study" }
+Einairrsred@{ shape: win-pane, label: "_Published Nov 11, 2025, 08:35 AM_
+Emissions in china flat in third quarter as solar surges: study" }
+DymlsVaidc@{ shape: win-pane, label: "_Published Nov 27, 2025, 08:10 AM_
+Deadly storms, $4.2b in losses test vietnam’s climate defences" }
+Tasifrooirni@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:48 PM_
+Thailand to send aircraft carrier for flood relief as rain intensifies" }
+Taadrieeeisoveir@{ shape: win-pane, label: "_Published Nov 24, 2025, 04:37 PM_
+Thailand’s hat yai declared a disaster zone as it experiences the most severe deluge in 300 years" }
+HidltiiMsetclr@{ shape: win-pane, label: "_Published Nov 25, 2025, 01:19 PM_
+Hat yai floods deal blow to thai tourism as malaysians expected to cancel all trips" }
+Vacrtfiioaeds@{ shape: win-pane, label: "_Published Nov 26, 2025, 01:55 PM_
+Vietnam braces for new storm after historic floods leave over 100 dead or missing" }
+Tasifrooirni@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:48 PM_
+Thailand to send aircraft carrier for flood relief as rain intensifies" }
+Tarseusifsul@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:45 AM_
+Thailand airlifts patients, rushes supplies as floods in south kill 33" }
 
-Ilikdtvskeolausz:::txtsize --> kdnoaeyair:::txtsize
-kdnoaeyair:::txtsize --> TssHaossaaorslaoe:::txtsize
-TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
-TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
-kdnoaeyair:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Ilikdtvskeolausz:::txtsize --> TmninGhntfr:::txtsize
-TmninGhntfr:::txtsize --> Iloiinasfnno:::txtsize
-Iloiinasfnno:::txtsize --> Ilsycvdoapoestam:::txtsize
-Iloiinasfnno:::txtsize --> Aaisflsinwpson:::txtsize
-TmninGhntfr:::txtsize --> Bnbthgeaoaerdia:::txtsize
-Bnbthgeaoaerdia:::txtsize --> NyeeawHakl:::txtsize
-Bnbthgeaoaerdia:::txtsize --> RsHActngrthls:::txtsize
+Etkctoiuc:::txtsize --> DywwrsctlshP:::txtsize
+DywwrsctlshP:::txtsize --> Sneegrnitliseist:::txtsize
+Sneegrnitliseist:::txtsize --> Spalpotboaieett:::txtsize
+Sneegrnitliseist:::txtsize --> Ddidnerbn:::txtsize
+DywwrsctlshP:::txtsize --> CiokmtioehyS:::txtsize
+CiokmtioehyS:::txtsize --> Einairrsred:::txtsize
+Etkctoiuc:::txtsize --> DymlsVaidc:::txtsize
+DymlsVaidc:::txtsize --> Tasifrooirni:::txtsize
+Tasifrooirni:::txtsize --> Taadrieeeisoveir:::txtsize
+Tasifrooirni:::txtsize --> HidltiiMsetclr:::txtsize
+DymlsVaidc:::txtsize --> Vacrtfiioaeds:::txtsize
+Vacrtfiioaeds:::txtsize --> Tasifrooirni:::txtsize
+Vacrtfiioaeds:::txtsize --> Tarseusifsul:::txtsize
 
-WYresemhiD@{ shape: win-pane, label: "_Published Dec 01, 2025, 06:19 AM_
-While you were sleeping: 5 stories you might have missed, dec 1, 2025" }
-Tsoafiseetot@{ shape: win-pane, label: "_Published Dec 01, 2025, 12:19 AM_
-Trump says ‘good chance’ of ukraine-russia peace deal after florida talks" }
-Tseraniteaorbhut@{ shape: win-pane, label: "_Published Sep 03, 2025, 03:19 AM_
-Trump says he is ‘very disappointed’ with putin over ukraine, not worried about china-russia ties" }
-Atsmacolyugp@{ shape: win-pane, label: "_Published Aug 19, 2025, 11:20 AM_
-At white house summit, a masterclass of diplomacy – in courting trump" }
-UnlyRanrefes@{ shape: win-pane, label: "_Published Aug 22, 2025, 03:43 AM_
-Ukraine’s zelensky says russia trying to ‘wriggle out’ of peace talks" }
-Unpetrsrbitc@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:09 AM_
-Ukraine’s top peace negotiator quits after raid by anti-graft officers" }
-Unitcehfncof@{ shape: win-pane, label: "_Published Nov 28, 2025, 04:19 PM_
-Ukraine anti-graft officers search home of zelensky’s chief of staff" }
-CZslufetarc@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:54 AM_
-Close zelensky ally accused of orchestrating major graft scheme" }
-Hotunfebia@{ shape: win-pane, label: "_Published Dec 01, 2025, 04:54 AM_
-Hong kong acts to quell anger after deadly building blaze" }
-Howrtlsrnirea@{ shape: win-pane, label: "_Published Nov 28, 2025, 05:04 AM_
-Hong kong tower fire death toll rises to 128 as 200 remain missing, more arrests made" }
-Wdetgsuasogun@{ shape: win-pane, label: "_Published Nov 27, 2025, 09:20 PM_
-Why modern megacity hong kong still uses bamboo scaffolding for building" }
-NngoetiiftatstseeL@{ shape: win-pane, label: "_Published May 28, 2020, 03:11 PM_
-Npc 2020: hong kong national security legislation is for city’s stability, prosperity, says chinese premier li" }
-Hottiflluekon@{ shape: win-pane, label: "_Published Oct 23, 2019, 03:09 PM_
-Hong kong extradition bill officially killed, but move unlikely to end unrest" }
+Aasceeenlno@{ shape: win-pane, label: "_Published Dec 01, 2025, 08:55 AM_
+Arms makers see record revenues as tensions fuel demand: report" }
+UnMecioSmsi@{ shape: win-pane, label: "_Published Oct 21, 2025, 11:57 PM_
+Ukraine and middle east conflicts boost us arms makers profits" }
+Pglohaeeedo@{ shape: win-pane, label: "_Published Aug 13, 2025, 06:33 AM_
+Pentagon golden dome to have 4-layer defence system, slides show" }
+Tseeslassa@{ shape: win-pane, label: "_Published Jul 22, 2025, 06:18 PM_
+Trump’s golden dome looks for alternatives to musk’s spacex" }
+TaityannrcnkMn@{ shape: win-pane, label: "_Published Aug 27, 2025, 02:58 AM_
+Trump administration eyes stakes in defence firms, including lockheed martin" }
+Tsnaeaftetk@{ shape: win-pane, label: "_Published Aug 23, 2025, 03:24 AM_
+Trump says intel has agreed to a deal for us to take 10% equity stake" }
+NnleuiUenta@{ shape: win-pane, label: "_Published Jun 19, 2025, 06:44 AM_
+Nippon steel closes acquisition of us steel to end 18-month saga" }
+Cstitlotuies@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:09 AM_
+China’s military firms struggle as corruption purge bites, report says" }
+Cstupnserdcis@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:28 AM_
+China’s military build-up demands response, australia defence minister says" }
+Aalhueeiice@{ shape: win-pane, label: "_Published Oct 20, 2025, 03:50 PM_
+Australia flags china’s ‘unsafe’ flare drop in aerial encounter" }
 
-WYresemhiD:::txtsize --> Tsoafiseetot:::txtsize
-Tsoafiseetot:::txtsize --> Tseraniteaorbhut:::txtsize
-Tseraniteaorbhut:::txtsize --> Atsmacolyugp:::txtsize
-Tseraniteaorbhut:::txtsize --> UnlyRanrefes:::txtsize
-Tsoafiseetot:::txtsize --> Unpetrsrbitc:::txtsize
-Unpetrsrbitc:::txtsize --> Unitcehfncof:::txtsize
-Unpetrsrbitc:::txtsize --> CZslufetarc:::txtsize
-WYresemhiD:::txtsize --> Hotunfebia:::txtsize
-Hotunfebia:::txtsize --> Howrtlsrnirea:::txtsize
-Howrtlsrnirea:::txtsize --> Wdetgsuasogun:::txtsize
-Hotunfebia:::txtsize --> NngoetiiftatstseeL:::txtsize
-NngoetiiftatstseeL:::txtsize --> Hottiflluekon:::txtsize
+Aasceeenlno:::txtsize --> UnMecioSmsi:::txtsize
+UnMecioSmsi:::txtsize --> Pglohaeeedo:::txtsize
+Pglohaeeedo:::txtsize --> Tseeslassa:::txtsize
+UnMecioSmsi:::txtsize --> TaityannrcnkMn:::txtsize
+TaityannrcnkMn:::txtsize --> Tsnaeaftetk:::txtsize
+TaityannrcnkMn:::txtsize --> NnleuiUenta:::txtsize
+Aasceeenlno:::txtsize --> Cstitlotuies:::txtsize
+Cstitlotuies:::txtsize --> Cstupnserdcis:::txtsize
+Cstupnserdcis:::txtsize --> Aalhueeiice:::txtsize
 
 ```
-<i>Last updated: 2025-12-01 08:00:49.350000 (GMT+8)</i>
+<i>Last updated: 2025-12-01 12:01:13.463356 (GMT+8)</i>
 <!-- END -->
