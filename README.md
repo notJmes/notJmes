@@ -16,6 +16,98 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+EeaokeuvaMw@{ shape: win-pane, label: "_Published Dec 01, 2025, 11:29 PM_
+Europeans rally round ukraine as trump envoy heads to moscow" }
+Tsoafiseetot@{ shape: win-pane, label: "_Published Dec 01, 2025, 12:19 AM_
+Trump says ‘good chance’ of ukraine-russia peace deal after florida talks" }
+Tseraniteaorbhut@{ shape: win-pane, label: "_Published Sep 03, 2025, 03:19 AM_
+Trump says he is ‘very disappointed’ with putin over ukraine, not worried about china-russia ties" }
+Atsmacolyugp@{ shape: win-pane, label: "_Published Aug 19, 2025, 11:20 AM_
+At white house summit, a masterclass of diplomacy – in courting trump" }
+UnlyRanrefes@{ shape: win-pane, label: "_Published Aug 22, 2025, 03:43 AM_
+Ukraine’s zelensky says russia trying to ‘wriggle out’ of peace talks" }
+Unpetrsrbitc@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:09 AM_
+Ukraine’s top peace negotiator quits after raid by anti-graft officers" }
+Unitcehfncof@{ shape: win-pane, label: "_Published Nov 28, 2025, 04:19 PM_
+Ukraine anti-graft officers search home of zelensky’s chief of staff" }
+CZslufetarc@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:54 AM_
+Close zelensky ally accused of orchestrating major graft scheme" }
+KhtUnttnctntlrl@{ shape: win-pane, label: "_Published Nov 30, 2025, 11:24 PM_
+Kazakhstan tells ukraine to stop attacking black sea terminal after oil exports halted" }
+SoeeaeomRatn@{ shape: win-pane, label: "_Published Nov 30, 2025, 12:02 AM_
+Sea drones reportedly halt operations at major russian oil terminal" }
+Vunnakrkasenz@{ shape: win-pane, label: "_Published Nov 29, 2025, 03:39 PM_
+Vast russian overnight attack on ukraine kills at least three, wounds dozens" }
+UneodSeafegtx@{ shape: win-pane, label: "_Published Nov 29, 2025, 07:38 PM_
+Ukraine delegation heads to us for peace talks after lead negotiator’s exit" }
+UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
+Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
+Skleokusnde@{ shape: win-pane, label: "_Published Dec 17, 2024, 03:10 AM_
+Stricken oil tankers show risks of russia’s ageing ‘shadow fleet’" }
+SiRadentokfler@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:04 AM_
+Sanctioned russian ‘shadow fleet’ tanker at risk of sinking after blast near turkey" }
+
+EeaokeuvaMw:::txtsize --> Tsoafiseetot:::txtsize
+Tsoafiseetot:::txtsize --> Tseraniteaorbhut:::txtsize
+Tseraniteaorbhut:::txtsize --> Atsmacolyugp:::txtsize
+Tseraniteaorbhut:::txtsize --> UnlyRanrefes:::txtsize
+Tsoafiseetot:::txtsize --> Unpetrsrbitc:::txtsize
+Unpetrsrbitc:::txtsize --> Unitcehfncof:::txtsize
+Unpetrsrbitc:::txtsize --> CZslufetarc:::txtsize
+EeaokeuvaMw:::txtsize --> KhtUnttnctntlrl:::txtsize
+KhtUnttnctntlrl:::txtsize --> SoeeaeomRatn:::txtsize
+SoeeaeomRatn:::txtsize --> Vunnakrkasenz:::txtsize
+SoeeaeomRatn:::txtsize --> UneodSeafegtx:::txtsize
+KhtUnttnctntlrl:::txtsize --> UntaluneBScyca:::txtsize
+UntaluneBScyca:::txtsize --> Skleokusnde:::txtsize
+UntaluneBScyca:::txtsize --> SiRadentokfler:::txtsize
+
+Asiuyea@{ shape: win-pane, label: "_Published Dec 01, 2025, 10:40 PM_
+Airbus confirms ‘quality issue’ on a320 panels" }
+Aseocrdpscoi@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:03 AM_
+Airbus issues major a320 recall; travel disruptions expected worldwide" }
+Spscyuciefsdmeo@{ shape: win-pane, label: "_Published Nov 29, 2025, 11:42 AM_
+21 scoot planes affected by airbus a320 recall; airline says fixes should be completed on nov 29" }
+Aseocrdpscoi@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:03 AM_
+Airbus issues major a320 recall; travel disruptions expected worldwide" }
+Aseocrdpscoi@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:03 AM_
+Airbus issues major a320 recall; travel disruptions expected worldwide" }
+AaJawmeiAtwsasft@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:15 AM_
+Australia’s jetstar airways impacted by airbus a320 fleet software issue, cancels some flights" }
+Aseocrdpscoi@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:03 AM_
+Airbus issues major a320 recall; travel disruptions expected worldwide" }
+GlifeimAl@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:00 AM_
+Global airlines affected by airbus’ major a320 recall" }
+Assrnlsaisiita@{ shape: win-pane, label: "_Published Dec 01, 2025, 08:41 AM_
+Airbus makes progress in resolving software crisis as airlines ride out a320 recall" }
+AsaoieexUoidp@{ shape: win-pane, label: "_Published Nov 30, 2025, 08:40 AM_
+Airbus a320 recall: global airlines race to fix jets; us reports little disruption" }
+Aseocrdpscoi@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:03 AM_
+Airbus issues major a320 recall; travel disruptions expected worldwide" }
+Anrdexsruassav@{ shape: win-pane, label: "_Published Nov 29, 2025, 03:25 PM_
+Airlines worldwide race to fix a320 jets after airbus recall disrupts global travel" }
+Anrdexsruassav@{ shape: win-pane, label: "_Published Nov 29, 2025, 03:25 PM_
+Airlines worldwide race to fix a320 jets after airbus recall disrupts global travel" }
+Astimerts@{ shape: win-pane, label: "_Published Oct 07, 2025, 06:41 PM_
+Airbus a320 ousts boeing 737 as most-delivered jet in history" }
+Spscyuciefsdmeo@{ shape: win-pane, label: "_Published Nov 29, 2025, 11:42 AM_
+21 scoot planes affected by airbus a320 recall; airline says fixes should be completed on nov 29" }
+
+Asiuyea:::txtsize --> Aseocrdpscoi:::txtsize
+Aseocrdpscoi:::txtsize --> Spscyuciefsdmeo:::txtsize
+Spscyuciefsdmeo:::txtsize --> Aseocrdpscoi:::txtsize
+Spscyuciefsdmeo:::txtsize --> Aseocrdpscoi:::txtsize
+Aseocrdpscoi:::txtsize --> AaJawmeiAtwsasft:::txtsize
+AaJawmeiAtwsasft:::txtsize --> Aseocrdpscoi:::txtsize
+AaJawmeiAtwsasft:::txtsize --> GlifeimAl:::txtsize
+Asiuyea:::txtsize --> Assrnlsaisiita:::txtsize
+Assrnlsaisiita:::txtsize --> AsaoieexUoidp:::txtsize
+AsaoieexUoidp:::txtsize --> Aseocrdpscoi:::txtsize
+AsaoieexUoidp:::txtsize --> Anrdexsruassav:::txtsize
+Assrnlsaisiita:::txtsize --> Anrdexsruassav:::txtsize
+Anrdexsruassav:::txtsize --> Astimerts:::txtsize
+Anrdexsruassav:::txtsize --> Spscyuciefsdmeo:::txtsize
+
 Ilauacapnecyp@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:29 PM_
 Israel’s netanyahu appears in court after pardon request backed by trump" }
 Tasiitdthe@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:21 PM_
@@ -59,83 +151,6 @@ Nyaotlneyt:::txtsize --> SdaoausCetsnal:::txtsize
 SdaoausCetsnal:::txtsize --> Ilaurtoceerysnln:::txtsize
 SdaoausCetsnal:::txtsize --> IlrsofuOdwot:::txtsize
 
-CeDswnmeao@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:28 PM_
-Charles and diana’s rare wedding champagne to be auctioned" }
-Peaautaakuees@{ shape: win-pane, label: "_Published Nov 20, 2025, 08:27 PM_
-Princess diana’s wax figure enters paris waxwork museum in ‘revenge dress’" }
-Csnantohaatae@{ shape: win-pane, label: "_Published Aug 22, 2022, 09:52 AM_
-Crises again threatening british monarchy's image 25 years after diana's death" }
-Peyemipiirfy@{ shape: win-pane, label: "_Published Feb 19, 2021, 08:53 PM_
-Prince harry and meghan make final split with british royal family" }
-BieddssirlerMnr@{ shape: win-pane, label: "_Published Mar 10, 2021, 01:56 AM_
-Britain's queen 'saddened', takes racism claims 'seriously' after harry and meghan interview" }
-LsnDaotfsag@{ shape: win-pane, label: "_Published Jun 10, 2025, 01:58 AM_
-‘largest princess diana auction’ features frocks, hats and bags" }
-Tossrerityaa@{ shape: win-pane, label: "_Published Jan 10, 2024, 12:46 AM_
-The crown costumes and props head for auction after royal drama wraps" }
-Secoreieelcrun@{ shape: win-pane, label: "_Published Mar 03, 2023, 03:00 PM_
-Stuffed raccoon goes for $121,000 at everything everywhere all at once charity auction" }
-Fspnxotlun@{ shape: win-pane, label: "_Published Feb 14, 2023, 06:55 PM_
-Forrest gump’s iconic ‘box of chocolates’ sold at auction for $33,000" }
-Pearecepbtd@{ shape: win-pane, label: "_Published Jul 17, 2023, 11:40 PM_
-Princess diana’s pre-loved ‘black sheep’ jumper to be auctioned" }
-Sonaaisadalr@{ shape: win-pane, label: "_Published Aug 12, 2021, 11:14 AM_
-Slice of prince charles and princess diana's 1981 wedding cake sells for $3,400" }
-
-CeDswnmeao:::txtsize --> Peaautaakuees:::txtsize
-Peaautaakuees:::txtsize --> Csnantohaatae:::txtsize
-Csnantohaatae:::txtsize --> Peyemipiirfy:::txtsize
-Csnantohaatae:::txtsize --> BieddssirlerMnr:::txtsize
-CeDswnmeao:::txtsize --> LsnDaotfsag:::txtsize
-LsnDaotfsag:::txtsize --> Tossrerityaa:::txtsize
-Tossrerityaa:::txtsize --> Secoreieelcrun:::txtsize
-Tossrerityaa:::txtsize --> Fspnxotlun:::txtsize
-LsnDaotfsag:::txtsize --> Pearecepbtd:::txtsize
-Pearecepbtd:::txtsize --> Sonaaisadalr:::txtsize
-
-Smiiriweannsiuc@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:05 PM_
-Spain mobilises military against swine fever, says contaminated sandwich could be cause" }
-Srtsiweainb@{ shape: win-pane, label: "_Published Nov 28, 2025, 06:43 PM_
-Spain reports first african swine fever cases since 1994 in wild boar" }
-SKistrswe@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:13 PM_
-South korea issues alert after 6th case of swine fever" }
-Tncrssf@{ shape: win-pane, label: "_Published Oct 23, 2025, 12:50 PM_
-Taiwan detects first cases of swine fever" }
-Vairniweua@{ shape: win-pane, label: "_Published Aug 05, 2025, 12:55 PM_
-Vietnam facing worsening african swine fever outbreaks" }
-Vanopitaiweps@{ shape: win-pane, label: "_Published Jul 18, 2025, 12:01 PM_
-Vietnam warns of food supply disruptions as african swine fever spreads" }
-Msoiuslsyciv@{ shape: win-pane, label: "_Published May 18, 2025, 11:00 AM_
-Malaysia’s pork prices surge as local farms hit by african swine fever" }
-EmutivsSsgotra@{ shape: win-pane, label: "_Published Nov 30, 2025, 10:14 PM_
-Eight more suspected swine fever cases as spain struggles to limit export damage" }
-OiSskrtaldeerries@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:10 PM_
-One third of spanish pork export certificates blocked since swine fever outbreak, minister says" }
-SKistrswe@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:13 PM_
-South korea issues alert after 6th case of swine fever" }
-Srtsiweainb@{ shape: win-pane, label: "_Published Nov 28, 2025, 06:43 PM_
-Spain reports first african swine fever cases since 1994 in wild boar" }
-Shpxsitrsfnened@{ shape: win-pane, label: "_Published Nov 29, 2025, 02:33 AM_
-Spain halts pork exports to china after first case of african swine flu in three decades" }
-Srtsiweainb@{ shape: win-pane, label: "_Published Nov 28, 2025, 06:43 PM_
-Spain reports first african swine fever cases since 1994 in wild boar" }
-Srtsiweainb@{ shape: win-pane, label: "_Published Nov 28, 2025, 06:43 PM_
-Spain reports first african swine fever cases since 1994 in wild boar" }
-
-Smiiriweannsiuc:::txtsize --> Srtsiweainb:::txtsize
-Srtsiweainb:::txtsize --> SKistrswe:::txtsize
-SKistrswe:::txtsize --> Tncrssf:::txtsize
-SKistrswe:::txtsize --> Vairniweua:::txtsize
-Srtsiweainb:::txtsize --> Vanopitaiweps:::txtsize
-Vanopitaiweps:::txtsize --> Msoiuslsyciv:::txtsize
-Smiiriweannsiuc:::txtsize --> EmutivsSsgotra:::txtsize
-EmutivsSsgotra:::txtsize --> OiSskrtaldeerries:::txtsize
-OiSskrtaldeerries:::txtsize --> SKistrswe:::txtsize
-OiSskrtaldeerries:::txtsize --> Srtsiweainb:::txtsize
-EmutivsSsgotra:::txtsize --> Shpxsitrsfnened:::txtsize
-Shpxsitrsfnened:::txtsize --> Srtsiweainb:::txtsize
-Shpxsitrsfnened:::txtsize --> Srtsiweainb:::txtsize
-
 ```
-<i>Last updated: 2025-12-01 20:01:12.587054 (GMT+8)</i>
+<i>Last updated: 2025-12-02 00:00:41.681292 (GMT+8)</i>
 <!-- END -->
