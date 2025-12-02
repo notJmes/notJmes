@@ -16,144 +16,99 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-FoaoTmelonbe@{ shape: win-pane, label: "_Published Dec 02, 2025, 07:30 AM_
-From honduras to poland, trump meddles in elections as never before" }
-UgVuMoceoyRllk@{ shape: win-pane, label: "_Published Dec 01, 2025, 05:07 AM_
-Us has given venezuela’s maduro chance to leave country, says republican lawmaker" }
-Tsicvsugztliee@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:19 PM_
-Trump says airspace above and surrounding venezuela to be closed in its entirety" }
-Ucceinaeiiburz@{ shape: win-pane, label: "_Published Nov 17, 2025, 03:14 AM_
-Us aircraft carrier arrives in the caribbean amid military build-up near venezuela" }
-Uddrngufialhe@{ shape: win-pane, label: "_Published Nov 14, 2025, 06:32 AM_
-Us conducted 20th strike on alleged drug trafficking boat earlier this week" }
-Hunllyoat@{ shape: win-pane, label: "_Published Nov 30, 2025, 12:09 AM_
-How could venezuela’s military respond to a us attack?" }
-Tsicvsugztliee@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:19 PM_
-Trump says airspace above and surrounding venezuela to be closed in its entirety" }
-Uildcisiiig@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:20 PM_
-Us strikes alleged drug-carrying vessels in pacific, killing six" }
-TaiteSoadoerei@{ shape: win-pane, label: "_Published Jul 18, 2025, 05:26 AM_
-Trump administration tells us diplomats abroad not to opine on foreign elections" }
-SDtssnewrrsuiao@{ shape: win-pane, label: "_Published Jul 12, 2025, 01:05 AM_
-State department starts firing more than 1,350 workers in trump’s shake-up of diplomatic corps" }
-TaitulUsgldtdh@{ shape: win-pane, label: "_Published Feb 05, 2025, 11:41 AM_
-Trump administration puts on leave usaid staff globally in dramatic aid overhaul" }
-RptsinhftSDt@{ shape: win-pane, label: "_Published Apr 23, 2025, 01:07 AM_
-Rubio plans to close offices in overhaul of ‘bloated’ us state department" }
-Uroeuimvusy@{ shape: win-pane, label: "_Published Jul 17, 2025, 09:35 AM_
-Us supreme court keeps ruling in trump’s favour, but doesn’t say why" }
-UrolwrptaDt@{ shape: win-pane, label: "_Published Jul 15, 2025, 04:31 AM_
-Us supreme court clears way for trump to gut education department" }
-UtaniyaSmri@{ shape: win-pane, label: "_Published Jul 11, 2025, 07:14 AM_
-Us state department begins layoffs after supreme court ruling" }
+Vdtarheowoa@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:15 AM_
+Vr headsets take war-scarred children to world away from gaza" }
+Tafdiahesle@{ shape: win-pane, label: "_Published Aug 18, 2025, 05:35 PM_
+The trauma of childhood in gaza: no school, few toys, little hope" }
+IludpsrGowog@{ shape: win-pane, label: "_Published Jul 27, 2025, 02:43 PM_
+Israel announces daily pauses in parts of gaza to allow aid for hungry" }
+Gugfiedvnshe@{ shape: win-pane, label: "_Published Jul 25, 2025, 05:09 PM_
+Gaza running out of specialised food to save malnourished children" }
+IlmraGirs@{ shape: win-pane, label: "_Published Jul 27, 2025, 04:03 AM_
+Israel resumes airdrop aid to gaza, military says" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+BeoeieSpoe@{ shape: win-pane, label: "_Published Nov 29, 2025, 10:30 AM_
+Big dreams for palestinian teens at singapore robot fest" }
+Sapnirliiopelnnm@{ shape: win-pane, label: "_Published Oct 09, 2025, 06:50 PM_
+Scholarships among various ground-led initiatives to help people of palestine: shanmugam" }
+OafleliPtne@{ shape: win-pane, label: "_Published Mar 19, 2025, 12:00 AM_
+Over $200,000 raised for full-ride scholarship for palestinian students" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Sposhotoslnme@{ shape: win-pane, label: "_Published Nov 12, 2025, 02:05 PM_
+Singapore donates $250,000 worth of prosthetic products to palestinian amputees" }
+Tvoeichyfarkha@{ shape: win-pane, label: "_Published Nov 11, 2025, 02:09 AM_
+Trump vows to do everything he can to help syria after landmark talks with sharaa" }
 
-FoaoTmelonbe:::txtsize --> UgVuMoceoyRllk:::txtsize
-UgVuMoceoyRllk:::txtsize --> Tsicvsugztliee:::txtsize
-Tsicvsugztliee:::txtsize --> Ucceinaeiiburz:::txtsize
-Tsicvsugztliee:::txtsize --> Uddrngufialhe:::txtsize
-UgVuMoceoyRllk:::txtsize --> Hunllyoat:::txtsize
-Hunllyoat:::txtsize --> Tsicvsugztliee:::txtsize
-Hunllyoat:::txtsize --> Uildcisiiig:::txtsize
-FoaoTmelonbe:::txtsize --> TaiteSoadoerei:::txtsize
-TaiteSoadoerei:::txtsize --> SDtssnewrrsuiao:::txtsize
-SDtssnewrrsuiao:::txtsize --> TaitulUsgldtdh:::txtsize
-SDtssnewrrsuiao:::txtsize --> RptsinhftSDt:::txtsize
-TaiteSoadoerei:::txtsize --> Uroeuimvusy:::txtsize
-Uroeuimvusy:::txtsize --> UrolwrptaDt:::txtsize
-Uroeuimvusy:::txtsize --> UtaniyaSmri:::txtsize
+Vdtarheowoa:::txtsize --> Tafdiahesle:::txtsize
+Tafdiahesle:::txtsize --> IludpsrGowog:::txtsize
+IludpsrGowog:::txtsize --> Gugfiedvnshe:::txtsize
+IludpsrGowog:::txtsize --> IlmraGirs:::txtsize
+Tafdiahesle:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Vdtarheowoa:::txtsize --> BeoeieSpoe:::txtsize
+BeoeieSpoe:::txtsize --> Sapnirliiopelnnm:::txtsize
+Sapnirliiopelnnm:::txtsize --> OafleliPtne:::txtsize
+Sapnirliiopelnnm:::txtsize --> TssHaossaaorslaoe:::txtsize
+BeoeieSpoe:::txtsize --> Sposhotoslnme:::txtsize
+Sposhotoslnme:::txtsize --> Tvoeichyfarkha:::txtsize
 
-Spdxtyreoaeda@{ shape: win-pane, label: "_Published Dec 02, 2025, 07:10 AM_
-Shein probed by texas attorney general over labour practices, product safety" }
-Erhvlhixsga@{ shape: win-pane, label: "_Published Nov 26, 2025, 08:05 PM_
-Eu queries shein over sale of childlike sex dolls, illegal weapons" }
-FessSoelwnairn@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:32 AM_
-France moves to suspend shein over sex dolls and weapons on day paris store opens" }
-CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
-China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
-Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
-Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
-PcHnethsninsee@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:55 PM_
-Paris court: hearing on request for shein’s suspension in france postponed to dec 5" }
-FessSoelwnairn@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:32 AM_
-France moves to suspend shein over sex dolls and weapons on day paris store opens" }
-Erhvlhixsga@{ shape: win-pane, label: "_Published Nov 26, 2025, 08:05 PM_
-Eu queries shein over sale of childlike sex dolls, illegal weapons" }
-Festbieoiee@{ shape: win-pane, label: "_Published Nov 06, 2025, 04:48 PM_
-France calls on eu to probe shein, take action against retailer" }
-FessSoelwnairn@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:32 AM_
-France moves to suspend shein over sex dolls and weapons on day paris store opens" }
-CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
-China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
-Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
-Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
-Ssonarrtngus@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:01 PM_
-Shein store opening in paris draws protesters and bargain hunters" }
-Fhtplettirnne@{ shape: win-pane, label: "_Published Jun 11, 2025, 12:54 AM_
-French senate adopts bill to regulate fast fashion, targeting china’s shein" }
-Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
-Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
+Rrnshunost@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:20 AM_
+Rich art: french pastry chefs auction chocolate sculptures" }
+CoiuhaepoCio@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:29 PM_
+Creator of viral ‘dubai chocolate’ opens pop-up store at changi airport t1" }
+Wyygobmgeon@{ shape: win-pane, label: "_Published Sep 16, 2024, 01:30 PM_
+Would you pay $59 for a 200g chocolate bar? some singaporeans don’t mind" }
+Clateiscecio@{ shape: win-pane, label: "_Published Mar 01, 2024, 01:35 PM_
+Chocolate makers try a new recipe – less chocolate – as cocoa prices soar" }
+Tmstawoiace@{ shape: win-pane, label: "_Published Oct 05, 2024, 12:00 PM_
+Tastemakers: meet the 22-year-old who brought in viral $59 chocolate bars" }
+Spoiudpt@{ shape: win-pane, label: "_Published Aug 21, 2024, 05:00 AM_
+Singapore food spicing up london’s appetite" }
 
-Spdxtyreoaeda:::txtsize --> Erhvlhixsga:::txtsize
-Erhvlhixsga:::txtsize --> FessSoelwnairn:::txtsize
-FessSoelwnairn:::txtsize --> CsnsdsloeoFhhoi:::txtsize
-FessSoelwnairn:::txtsize --> Sbelerncrdo:::txtsize
-Erhvlhixsga:::txtsize --> PcHnethsninsee:::txtsize
-PcHnethsninsee:::txtsize --> FessSoelwnairn:::txtsize
-PcHnethsninsee:::txtsize --> Erhvlhixsga:::txtsize
-Spdxtyreoaeda:::txtsize --> Festbieoiee:::txtsize
-Festbieoiee:::txtsize --> FessSoelwnairn:::txtsize
-FessSoelwnairn:::txtsize --> CsnsdsloeoFhhoi:::txtsize
-FessSoelwnairn:::txtsize --> Sbelerncrdo:::txtsize
-Festbieoiee:::txtsize --> Ssonarrtngus:::txtsize
-Ssonarrtngus:::txtsize --> Fhtplettirnne:::txtsize
-Ssonarrtngus:::txtsize --> Sbelerncrdo:::txtsize
+Rrnshunost:::txtsize --> CoiuhaepoCio:::txtsize
+CoiuhaepoCio:::txtsize --> Wyygobmgeon:::txtsize
+Wyygobmgeon:::txtsize --> Clateiscecio:::txtsize
+CoiuhaepoCio:::txtsize --> Tmstawoiace:::txtsize
+Tmstawoiace:::txtsize --> Spoiudpt:::txtsize
 
-Uuaaaoamdrostiuori@{ shape: win-pane, label: "_Published Dec 02, 2025, 07:05 AM_
-Us republican senator calls for doj and homeland security to investigate shein, temu for counterfeiting" }
-Emsrutesoeogflh@{ shape: win-pane, label: "_Published Nov 26, 2025, 10:35 PM_
-Eu lawmakers back resolution to make it easier to suspend shopping platforms like shein" }
-PcHnethsninsee@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:55 PM_
-Paris court: hearing on request for shein’s suspension in france postponed to dec 5" }
-FessSoelwnairn@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:32 AM_
-France moves to suspend shein over sex dolls and weapons on day paris store opens" }
-Erhvlhixsga@{ shape: win-pane, label: "_Published Nov 26, 2025, 08:05 PM_
-Eu queries shein over sale of childlike sex dolls, illegal weapons" }
-PcHnethsninsee@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:55 PM_
-Paris court: hearing on request for shein’s suspension in france postponed to dec 5" }
-FessSoelwnairn@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:32 AM_
-France moves to suspend shein over sex dolls and weapons on day paris store opens" }
-Erhvlhixsga@{ shape: win-pane, label: "_Published Nov 26, 2025, 08:05 PM_
-Eu queries shein over sale of childlike sex dolls, illegal weapons" }
-Apbheolfesst@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:50 PM_
-Aliexpress bans chinese sex doll seller after reuters investigation" }
-Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
-Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
-FeaSbclelp@{ shape: win-pane, label: "_Published Nov 03, 2025, 08:50 PM_
-France threatens shein ban if ‘childlike’ sex dolls reappear" }
-CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
-China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
-Fhdhesnhixs@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:32 AM_
-French fraud watchdog reports shein for ‘childlike’ sex dolls" }
-SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
-Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
-SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
-Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
+Taitaabcopu@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:05 AM_
+Trump administration backs bayer’s bid to curb roundup lawsuits" }
+Uavyeulr@{ shape: win-pane, label: "_Published Oct 25, 2025, 08:30 AM_
+Us fda approves bayer’s menopause relief drug" }
+Mautccpesimwmps@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:15 AM_
+Menopause support: from clinics to apps to events, midlife women now have more options" }
+Bfboptheyoe@{ shape: win-pane, label: "_Published Jan 15, 2025, 05:20 PM_
+Bayer faces billions in payouts for half century-old toxic mess" }
+Boealontopkrl@{ shape: win-pane, label: "_Published Jan 29, 2024, 09:10 AM_
+Bayer ordered to pay $3 billion to us man in latest roundup weedkiller trial" }
+Jtiasgrfabue@{ shape: win-pane, label: "_Published Nov 17, 2023, 02:20 PM_
+J&j settles first talc cases to go to trial after failed bankruptcies" }
+Ctsdgttac@{ shape: win-pane, label: "_Published Oct 04, 2023, 02:30 AM_
+Court tosses $300m verdict against j&j in talc cancer case" }
+BlRudeebooit@{ shape: win-pane, label: "_Published Feb 07, 2024, 09:55 AM_
+Bayer loses roundup weedkiller appeal in blow to bid to end litigation" }
+Boealontopkrl@{ shape: win-pane, label: "_Published Jan 29, 2024, 09:10 AM_
+Bayer ordered to pay $3 billion to us man in latest roundup weedkiller trial" }
+Boealontopkrl@{ shape: win-pane, label: "_Published Jan 29, 2024, 09:10 AM_
+Bayer ordered to pay $3 billion to us man in latest roundup weedkiller trial" }
 
-Uuaaaoamdrostiuori:::txtsize --> Emsrutesoeogflh:::txtsize
-Emsrutesoeogflh:::txtsize --> PcHnethsninsee:::txtsize
-PcHnethsninsee:::txtsize --> FessSoelwnairn:::txtsize
-PcHnethsninsee:::txtsize --> Erhvlhixsga:::txtsize
-Emsrutesoeogflh:::txtsize --> PcHnethsninsee:::txtsize
-PcHnethsninsee:::txtsize --> FessSoelwnairn:::txtsize
-PcHnethsninsee:::txtsize --> Erhvlhixsga:::txtsize
-Uuaaaoamdrostiuori:::txtsize --> Apbheolfesst:::txtsize
-Apbheolfesst:::txtsize --> Sbelerncrdo:::txtsize
-Sbelerncrdo:::txtsize --> FeaSbclelp:::txtsize
-Sbelerncrdo:::txtsize --> CsnsdsloeoFhhoi:::txtsize
-Apbheolfesst:::txtsize --> Fhdhesnhixs:::txtsize
-Fhdhesnhixs:::txtsize --> SthirylerNsba:::txtsize
-Fhdhesnhixs:::txtsize --> SthirylerNsba:::txtsize
+Taitaabcopu:::txtsize --> Uavyeulr:::txtsize
+Uavyeulr:::txtsize --> Mautccpesimwmps:::txtsize
+Taitaabcopu:::txtsize --> Bfboptheyoe:::txtsize
+Bfboptheyoe:::txtsize --> Boealontopkrl:::txtsize
+Boealontopkrl:::txtsize --> Jtiasgrfabue:::txtsize
+Boealontopkrl:::txtsize --> Ctsdgttac:::txtsize
+Bfboptheyoe:::txtsize --> BlRudeebooit:::txtsize
+BlRudeebooit:::txtsize --> Boealontopkrl:::txtsize
+BlRudeebooit:::txtsize --> Boealontopkrl:::txtsize
 
 ```
-<i>Last updated: 2025-12-02 08:00:30.472032 (GMT+8)</i>
+<i>Last updated: 2025-12-02 12:00:55.958824 (GMT+8)</i>
 <!-- END -->
