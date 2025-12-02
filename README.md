@@ -16,99 +16,102 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Vdtarheowoa@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:15 AM_
-Vr headsets take war-scarred children to world away from gaza" }
-Tafdiahesle@{ shape: win-pane, label: "_Published Aug 18, 2025, 05:35 PM_
-The trauma of childhood in gaza: no school, few toys, little hope" }
-IludpsrGowog@{ shape: win-pane, label: "_Published Jul 27, 2025, 02:43 PM_
-Israel announces daily pauses in parts of gaza to allow aid for hungry" }
-Gugfiedvnshe@{ shape: win-pane, label: "_Published Jul 25, 2025, 05:09 PM_
-Gaza running out of specialised food to save malnourished children" }
-IlmraGirs@{ shape: win-pane, label: "_Published Jul 27, 2025, 04:03 AM_
-Israel resumes airdrop aid to gaza, military says" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-BeoeieSpoe@{ shape: win-pane, label: "_Published Nov 29, 2025, 10:30 AM_
-Big dreams for palestinian teens at singapore robot fest" }
-Sapnirliiopelnnm@{ shape: win-pane, label: "_Published Oct 09, 2025, 06:50 PM_
-Scholarships among various ground-led initiatives to help people of palestine: shanmugam" }
-OafleliPtne@{ shape: win-pane, label: "_Published Mar 19, 2025, 12:00 AM_
-Over $200,000 raised for full-ride scholarship for palestinian students" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Sposhotoslnme@{ shape: win-pane, label: "_Published Nov 12, 2025, 02:05 PM_
-Singapore donates $250,000 worth of prosthetic products to palestinian amputees" }
-Tvoeichyfarkha@{ shape: win-pane, label: "_Published Nov 11, 2025, 02:09 AM_
-Trump vows to do everything he can to help syria after landmark talks with sharaa" }
+Fnosmnknaiwsed@{ shape: win-pane, label: "_Published Dec 02, 2025, 03:45 PM_
+Fearing ai job losses, some young workers in britain shift towards skilled trades" }
+Bishpwfrgcfj@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:10 PM_
+‘bloodied onslaughts’: experts warn of ai’s growing impact on office jobs" }
+TejtoyItdn@{ shape: win-pane, label: "_Published Oct 30, 2025, 04:15 PM_
+Tech sector job cuts in 2025: how many are ai-related redundancies?" }
+Antojoioyee@{ shape: win-pane, label: "_Published Oct 28, 2025, 09:45 PM_
+Amazon to cut 14,000 corporate jobs worldwide, s’pore may not be spared" }
+Antojoioyee@{ shape: win-pane, label: "_Published Oct 28, 2025, 09:45 PM_
+Amazon to cut 14,000 corporate jobs worldwide, s’pore may not be spared" }
+Heflknedstite@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:06 PM_
+High demand for roles like ai engineers and data scientists in fintech: report" }
+Fcdnnsvrfmtstpo@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:10 PM_
+Fintech funding in asean falls 36% as investors shift from growth-chasing start-ups: report" }
+SpaofcdtrIlsFet@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:00 PM_
+Singapore can be world’s fintech hub despite fears of ai bubble burst in 2026: sff panellists" }
+Fctfrpeonsri@{ shape: win-pane, label: "_Published Jul 29, 2025, 10:10 PM_
+Fintech sector offers bright prospects for young job seekers: alvin tan" }
+AulpmntercmWCg@{ shape: win-pane, label: "_Published Nov 12, 2025, 01:55 PM_
+Ai should help people do more and do it faster, not replace them: uob’s wee ee cheong" }
+SpaofcdtrIlsFet@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:00 PM_
+Singapore can be world’s fintech hub despite fears of ai bubble burst in 2026: sff panellists" }
+Spssitguneorno@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:30 PM_
+Singapore’s small size gives it an edge in building ai-ready workforce: gan kim yong" }
 
-Vdtarheowoa:::txtsize --> Tafdiahesle:::txtsize
-Tafdiahesle:::txtsize --> IludpsrGowog:::txtsize
-IludpsrGowog:::txtsize --> Gugfiedvnshe:::txtsize
-IludpsrGowog:::txtsize --> IlmraGirs:::txtsize
-Tafdiahesle:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Vdtarheowoa:::txtsize --> BeoeieSpoe:::txtsize
-BeoeieSpoe:::txtsize --> Sapnirliiopelnnm:::txtsize
-Sapnirliiopelnnm:::txtsize --> OafleliPtne:::txtsize
-Sapnirliiopelnnm:::txtsize --> TssHaossaaorslaoe:::txtsize
-BeoeieSpoe:::txtsize --> Sposhotoslnme:::txtsize
-Sposhotoslnme:::txtsize --> Tvoeichyfarkha:::txtsize
+Fnosmnknaiwsed:::txtsize --> Bishpwfrgcfj:::txtsize
+Bishpwfrgcfj:::txtsize --> TejtoyItdn:::txtsize
+TejtoyItdn:::txtsize --> Antojoioyee:::txtsize
+TejtoyItdn:::txtsize --> Antojoioyee:::txtsize
+Fnosmnknaiwsed:::txtsize --> Heflknedstite:::txtsize
+Heflknedstite:::txtsize --> Fcdnnsvrfmtstpo:::txtsize
+Fcdnnsvrfmtstpo:::txtsize --> SpaofcdtrIlsFet:::txtsize
+Fcdnnsvrfmtstpo:::txtsize --> Fctfrpeonsri:::txtsize
+Heflknedstite:::txtsize --> AulpmntercmWCg:::txtsize
+AulpmntercmWCg:::txtsize --> SpaofcdtrIlsFet:::txtsize
+AulpmntercmWCg:::txtsize --> Spssitguneorno:::txtsize
 
-Rrnshunost@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:20 AM_
-Rich art: french pastry chefs auction chocolate sculptures" }
-CoiuhaepoCio@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:29 PM_
-Creator of viral ‘dubai chocolate’ opens pop-up store at changi airport t1" }
-Wyygobmgeon@{ shape: win-pane, label: "_Published Sep 16, 2024, 01:30 PM_
-Would you pay $59 for a 200g chocolate bar? some singaporeans don’t mind" }
-Clateiscecio@{ shape: win-pane, label: "_Published Mar 01, 2024, 01:35 PM_
-Chocolate makers try a new recipe – less chocolate – as cocoa prices soar" }
-Tmstawoiace@{ shape: win-pane, label: "_Published Oct 05, 2024, 12:00 PM_
-Tastemakers: meet the 22-year-old who brought in viral $59 chocolate bars" }
-Spoiudpt@{ shape: win-pane, label: "_Published Aug 21, 2024, 05:00 AM_
-Singapore food spicing up london’s appetite" }
+Snmmhnihad@{ shape: win-pane, label: "_Published Dec 02, 2025, 03:00 PM_
+Soaring unemployment challenges finnish welfare model" }
+Fnnhnrsoles@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:15 AM_
+Finland clings to happiness crown as economic gloom deepens" }
+Wenrxasintc@{ shape: win-pane, label: "_Published Jan 25, 2024, 05:00 AM_
+Weighed down by our own expectations, despite money in the pocket" }
+Spnsyhildoomair@{ shape: win-pane, label: "_Published Jan 12, 2024, 05:00 AM_
+Singaporeans less happy, but those with balanced approach to life more satisfied: survey" }
+YatrNrdolnhenr@{ shape: win-pane, label: "_Published Nov 30, 2025, 05:00 AM_
+Young and on the streets: number of under-35s rough sleeping on the rise in singapore" }
 
-Rrnshunost:::txtsize --> CoiuhaepoCio:::txtsize
-CoiuhaepoCio:::txtsize --> Wyygobmgeon:::txtsize
-Wyygobmgeon:::txtsize --> Clateiscecio:::txtsize
-CoiuhaepoCio:::txtsize --> Tmstawoiace:::txtsize
-Tmstawoiace:::txtsize --> Spoiudpt:::txtsize
+Snmmhnihad:::txtsize --> Fnnhnrsoles:::txtsize
+Fnnhnrsoles:::txtsize --> Wenrxasintc:::txtsize
+Wenrxasintc:::txtsize --> Spnsyhildoomair:::txtsize
+Snmmhnihad:::txtsize --> YatrNrdolnhenr:::txtsize
 
-Taitaabcopu@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:05 AM_
-Trump administration backs bayer’s bid to curb roundup lawsuits" }
-Uavyeulr@{ shape: win-pane, label: "_Published Oct 25, 2025, 08:30 AM_
-Us fda approves bayer’s menopause relief drug" }
-Mautccpesimwmps@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:15 AM_
-Menopause support: from clinics to apps to events, midlife women now have more options" }
-Bfboptheyoe@{ shape: win-pane, label: "_Published Jan 15, 2025, 05:20 PM_
-Bayer faces billions in payouts for half century-old toxic mess" }
-Boealontopkrl@{ shape: win-pane, label: "_Published Jan 29, 2024, 09:10 AM_
-Bayer ordered to pay $3 billion to us man in latest roundup weedkiller trial" }
-Jtiasgrfabue@{ shape: win-pane, label: "_Published Nov 17, 2023, 02:20 PM_
-J&j settles first talc cases to go to trial after failed bankruptcies" }
-Ctsdgttac@{ shape: win-pane, label: "_Published Oct 04, 2023, 02:30 AM_
-Court tosses $300m verdict against j&j in talc cancer case" }
-BlRudeebooit@{ shape: win-pane, label: "_Published Feb 07, 2024, 09:55 AM_
-Bayer loses roundup weedkiller appeal in blow to bid to end litigation" }
-Boealontopkrl@{ shape: win-pane, label: "_Published Jan 29, 2024, 09:10 AM_
-Bayer ordered to pay $3 billion to us man in latest roundup weedkiller trial" }
-Boealontopkrl@{ shape: win-pane, label: "_Published Jan 29, 2024, 09:10 AM_
-Bayer ordered to pay $3 billion to us man in latest roundup weedkiller trial" }
+Poivapawes@{ shape: win-pane, label: "_Published Dec 02, 2025, 02:19 PM_
+Pope to end first overseas trip by praying with 100,000 lebanese" }
+Peeatreiiarhu@{ shape: win-pane, label: "_Published Nov 30, 2025, 11:19 PM_
+Pope leo urges lebanese to embrace reconciliation, stay in crisis-hit country" }
+Bttnanaeniopo@{ shape: win-pane, label: "_Published Aug 08, 2020, 04:00 PM_
+Beirut blast: lebanese say country was already in crisis before explosion" }
+NwrlachoaBtt@{ shape: win-pane, label: "_Published Aug 07, 2020, 07:15 PM_
+'no way we can rebuild': lebanese count huge losses after beirut blast" }
+Hlroojsienbv@{ shape: win-pane, label: "_Published Nov 29, 2025, 07:50 PM_
+Hezbollah urges pope leo to reject israeli ‘aggression’ on lebanon visit" }
+Petdsinensgvn@{ shape: win-pane, label: "_Published Nov 28, 2025, 02:58 PM_
+Pope leo meets middle east christian leaders, condemns religious violence" }
+PiIbls@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:00 PM_
+Pope visits istanbul’s blue mosque" }
+Pupmgedcsen@{ shape: win-pane, label: "_Published Dec 01, 2025, 05:50 PM_
+Pope pushes peace message on second day in crisis-hit lebanon" }
+Cbstepsia@{ shape: win-pane, label: "_Published Nov 30, 2025, 12:25 AM_
+Crowd braves rain to attend pope leo’s mass in istanbul" }
+PiIbls@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:00 PM_
+Pope visits istanbul’s blue mosque" }
+PiIbls@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:00 PM_
+Pope visits istanbul’s blue mosque" }
+Hlelspbywir@{ shape: win-pane, label: "_Published Nov 29, 2025, 02:14 AM_
+Hezbollah leader leaves open possibility of new war with israel" }
+Ilsomaanui@{ shape: win-pane, label: "_Published Nov 24, 2025, 01:17 AM_
+Israel kills hezbollah military leader in beirut strike" }
+Ilsomaanui@{ shape: win-pane, label: "_Published Nov 24, 2025, 01:17 AM_
+Israel kills hezbollah military leader in beirut strike" }
 
-Taitaabcopu:::txtsize --> Uavyeulr:::txtsize
-Uavyeulr:::txtsize --> Mautccpesimwmps:::txtsize
-Taitaabcopu:::txtsize --> Bfboptheyoe:::txtsize
-Bfboptheyoe:::txtsize --> Boealontopkrl:::txtsize
-Boealontopkrl:::txtsize --> Jtiasgrfabue:::txtsize
-Boealontopkrl:::txtsize --> Ctsdgttac:::txtsize
-Bfboptheyoe:::txtsize --> BlRudeebooit:::txtsize
-BlRudeebooit:::txtsize --> Boealontopkrl:::txtsize
-BlRudeebooit:::txtsize --> Boealontopkrl:::txtsize
+Poivapawes:::txtsize --> Peeatreiiarhu:::txtsize
+Peeatreiiarhu:::txtsize --> Bttnanaeniopo:::txtsize
+Bttnanaeniopo:::txtsize --> NwrlachoaBtt:::txtsize
+Peeatreiiarhu:::txtsize --> Hlroojsienbv:::txtsize
+Hlroojsienbv:::txtsize --> Petdsinensgvn:::txtsize
+Hlroojsienbv:::txtsize --> PiIbls:::txtsize
+Poivapawes:::txtsize --> Pupmgedcsen:::txtsize
+Pupmgedcsen:::txtsize --> Cbstepsia:::txtsize
+Cbstepsia:::txtsize --> PiIbls:::txtsize
+Cbstepsia:::txtsize --> PiIbls:::txtsize
+Pupmgedcsen:::txtsize --> Hlelspbywir:::txtsize
+Hlelspbywir:::txtsize --> Ilsomaanui:::txtsize
+Hlelspbywir:::txtsize --> Ilsomaanui:::txtsize
 
 ```
-<i>Last updated: 2025-12-02 12:00:55.958824 (GMT+8)</i>
+<i>Last updated: 2025-12-02 16:00:20.718736 (GMT+8)</i>
 <!-- END -->
