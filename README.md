@@ -16,99 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Fhoeaoreio@{ shape: win-pane, label: "_Published Dec 02, 2025, 03:49 AM_
-French authorities detain two minors in terrorism probe" }
-Gnrakresnuc@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:26 PM_
-Germany’s christmas markets grapple with soaring security costs" }
-Gnhfedraaale@{ shape: win-pane, label: "_Published Dec 21, 2024, 02:25 PM_
-Germany in shock after new deadly christmas attack; death toll rises to 5" }
-Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
-‘torn from my side’: horror of german christmas market attack" }
-Gnhifcoslo@{ shape: win-pane, label: "_Published Dec 11, 2024, 11:03 PM_
-Germany’s scholz kicks off process towards feb 23 elections" }
-Tlelrtrirnaynm@{ shape: win-pane, label: "_Published Mar 03, 2025, 08:55 PM_
-Two killed, several injured after car rams into crowd in german city of mannheim" }
-CinoCtaimneak@{ shape: win-pane, label: "_Published Dec 21, 2024, 03:42 AM_
-Car drives into crowd at christmas market in germany, in suspected attack" }
-Nyipdagcubeac@{ shape: win-pane, label: "_Published Feb 13, 2025, 06:14 PM_
-Nearly 30 hurt in suspected car ramming attack in munich before german election" }
+FoaoTmelonbe@{ shape: win-pane, label: "_Published Dec 02, 2025, 07:30 AM_
+From honduras to poland, trump meddles in elections as never before" }
+UgVuMoceoyRllk@{ shape: win-pane, label: "_Published Dec 01, 2025, 05:07 AM_
+Us has given venezuela’s maduro chance to leave country, says republican lawmaker" }
+Tsicvsugztliee@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:19 PM_
+Trump says airspace above and surrounding venezuela to be closed in its entirety" }
+Ucceinaeiiburz@{ shape: win-pane, label: "_Published Nov 17, 2025, 03:14 AM_
+Us aircraft carrier arrives in the caribbean amid military build-up near venezuela" }
+Uddrngufialhe@{ shape: win-pane, label: "_Published Nov 14, 2025, 06:32 AM_
+Us conducted 20th strike on alleged drug trafficking boat earlier this week" }
+Hunllyoat@{ shape: win-pane, label: "_Published Nov 30, 2025, 12:09 AM_
+How could venezuela’s military respond to a us attack?" }
+Tsicvsugztliee@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:19 PM_
+Trump says airspace above and surrounding venezuela to be closed in its entirety" }
+Uildcisiiig@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:20 PM_
+Us strikes alleged drug-carrying vessels in pacific, killing six" }
+TaiteSoadoerei@{ shape: win-pane, label: "_Published Jul 18, 2025, 05:26 AM_
+Trump administration tells us diplomats abroad not to opine on foreign elections" }
+SDtssnewrrsuiao@{ shape: win-pane, label: "_Published Jul 12, 2025, 01:05 AM_
+State department starts firing more than 1,350 workers in trump’s shake-up of diplomatic corps" }
+TaitulUsgldtdh@{ shape: win-pane, label: "_Published Feb 05, 2025, 11:41 AM_
+Trump administration puts on leave usaid staff globally in dramatic aid overhaul" }
+RptsinhftSDt@{ shape: win-pane, label: "_Published Apr 23, 2025, 01:07 AM_
+Rubio plans to close offices in overhaul of ‘bloated’ us state department" }
+Uroeuimvusy@{ shape: win-pane, label: "_Published Jul 17, 2025, 09:35 AM_
+Us supreme court keeps ruling in trump’s favour, but doesn’t say why" }
+UrolwrptaDt@{ shape: win-pane, label: "_Published Jul 15, 2025, 04:31 AM_
+Us supreme court clears way for trump to gut education department" }
+UtaniyaSmri@{ shape: win-pane, label: "_Published Jul 11, 2025, 07:14 AM_
+Us state department begins layoffs after supreme court ruling" }
 
-Fhoeaoreio:::txtsize --> Gnrakresnuc:::txtsize
-Gnrakresnuc:::txtsize --> Gnhfedraaale:::txtsize
-Gnhfedraaale:::txtsize --> Trsoomrakt:::txtsize
-Gnhfedraaale:::txtsize --> Gnhifcoslo:::txtsize
-Gnrakresnuc:::txtsize --> Tlelrtrirnaynm:::txtsize
-Tlelrtrirnaynm:::txtsize --> CinoCtaimneak:::txtsize
-Tlelrtrirnaynm:::txtsize --> Nyipdagcubeac:::txtsize
+FoaoTmelonbe:::txtsize --> UgVuMoceoyRllk:::txtsize
+UgVuMoceoyRllk:::txtsize --> Tsicvsugztliee:::txtsize
+Tsicvsugztliee:::txtsize --> Ucceinaeiiburz:::txtsize
+Tsicvsugztliee:::txtsize --> Uddrngufialhe:::txtsize
+UgVuMoceoyRllk:::txtsize --> Hunllyoat:::txtsize
+Hunllyoat:::txtsize --> Tsicvsugztliee:::txtsize
+Hunllyoat:::txtsize --> Uildcisiiig:::txtsize
+FoaoTmelonbe:::txtsize --> TaiteSoadoerei:::txtsize
+TaiteSoadoerei:::txtsize --> SDtssnewrrsuiao:::txtsize
+SDtssnewrrsuiao:::txtsize --> TaitulUsgldtdh:::txtsize
+SDtssnewrrsuiao:::txtsize --> RptsinhftSDt:::txtsize
+TaiteSoadoerei:::txtsize --> Uroeuimvusy:::txtsize
+Uroeuimvusy:::txtsize --> UrolwrptaDt:::txtsize
+Uroeuimvusy:::txtsize --> UtaniyaSmri:::txtsize
 
-Uetislomm@{ shape: win-pane, label: "_Published Dec 02, 2025, 03:05 AM_
-Us wipes south africa’s g-20 site clean for trump summit" }
-GiofasaopSopi@{ shape: win-pane, label: "_Published Nov 23, 2025, 04:26 AM_
-G-20 summit in south africa adopts declaration despite us boycott, opposition" }
-FbltiawowPg@{ shape: win-pane, label: "_Published Nov 22, 2025, 09:04 PM_
-Flexible multilateralism a way forward for the world: pm wong" }
-MlacoorxsMae@{ shape: win-pane, label: "_Published Jun 25, 2025, 07:27 PM_
-Multilateralism can evolve to be more ‘flexible’, says pm wong at wef event" }
-AkualawgiSAa@{ shape: win-pane, label: "_Published May 23, 2025, 07:20 AM_
-A check of trump’s false claims about white genocide in south africa" }
-Tahurpdvnesn@{ shape: win-pane, label: "_Published May 22, 2025, 01:26 AM_
-Trump ambushes south africa’s president over ‘genocide’ accusation" }
-FwSAarnTcsfimi@{ shape: win-pane, label: "_Published May 13, 2025, 04:01 AM_
-First white south africans arrive in us as trump claims they face discrimination" }
-Tssniofswplec@{ shape: win-pane, label: "_Published Feb 11, 2025, 08:13 PM_
-Trump’s accusations against south africa spark ‘white privilege’ self-mockery" }
+Spdxtyreoaeda@{ shape: win-pane, label: "_Published Dec 02, 2025, 07:10 AM_
+Shein probed by texas attorney general over labour practices, product safety" }
+Erhvlhixsga@{ shape: win-pane, label: "_Published Nov 26, 2025, 08:05 PM_
+Eu queries shein over sale of childlike sex dolls, illegal weapons" }
+FessSoelwnairn@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:32 AM_
+France moves to suspend shein over sex dolls and weapons on day paris store opens" }
+CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
+China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
+Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
+Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
+PcHnethsninsee@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:55 PM_
+Paris court: hearing on request for shein’s suspension in france postponed to dec 5" }
+FessSoelwnairn@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:32 AM_
+France moves to suspend shein over sex dolls and weapons on day paris store opens" }
+Erhvlhixsga@{ shape: win-pane, label: "_Published Nov 26, 2025, 08:05 PM_
+Eu queries shein over sale of childlike sex dolls, illegal weapons" }
+Festbieoiee@{ shape: win-pane, label: "_Published Nov 06, 2025, 04:48 PM_
+France calls on eu to probe shein, take action against retailer" }
+FessSoelwnairn@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:32 AM_
+France moves to suspend shein over sex dolls and weapons on day paris store opens" }
+CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
+China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
+Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
+Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
+Ssonarrtngus@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:01 PM_
+Shein store opening in paris draws protesters and bargain hunters" }
+Fhtplettirnne@{ shape: win-pane, label: "_Published Jun 11, 2025, 12:54 AM_
+French senate adopts bill to regulate fast fashion, targeting china’s shein" }
+Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
+Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
 
-Uetislomm:::txtsize --> GiofasaopSopi:::txtsize
-GiofasaopSopi:::txtsize --> FbltiawowPg:::txtsize
-FbltiawowPg:::txtsize --> MlacoorxsMae:::txtsize
-FbltiawowPg:::txtsize --> AkualawgiSAa:::txtsize
-GiofasaopSopi:::txtsize --> Tahurpdvnesn:::txtsize
-Tahurpdvnesn:::txtsize --> FwSAarnTcsfimi:::txtsize
-Tahurpdvnesn:::txtsize --> Tssniofswplec:::txtsize
+Spdxtyreoaeda:::txtsize --> Erhvlhixsga:::txtsize
+Erhvlhixsga:::txtsize --> FessSoelwnairn:::txtsize
+FessSoelwnairn:::txtsize --> CsnsdsloeoFhhoi:::txtsize
+FessSoelwnairn:::txtsize --> Sbelerncrdo:::txtsize
+Erhvlhixsga:::txtsize --> PcHnethsninsee:::txtsize
+PcHnethsninsee:::txtsize --> FessSoelwnairn:::txtsize
+PcHnethsninsee:::txtsize --> Erhvlhixsga:::txtsize
+Spdxtyreoaeda:::txtsize --> Festbieoiee:::txtsize
+Festbieoiee:::txtsize --> FessSoelwnairn:::txtsize
+FessSoelwnairn:::txtsize --> CsnsdsloeoFhhoi:::txtsize
+FessSoelwnairn:::txtsize --> Sbelerncrdo:::txtsize
+Festbieoiee:::txtsize --> Ssonarrtngus:::txtsize
+Ssonarrtngus:::txtsize --> Fhtplettirnne:::txtsize
+Ssonarrtngus:::txtsize --> Sbelerncrdo:::txtsize
 
-TwIlorii@{ shape: win-pane, label: "_Published Dec 02, 2025, 02:13 AM_
-Trump warns israel not to ‘interfere’ in syria" }
-Tvoeichyfarkha@{ shape: win-pane, label: "_Published Nov 11, 2025, 02:09 AM_
-Trump vows to do everything he can to help syria after landmark talks with sharaa" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
-Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
-SniaeagfSvmtrli@{ shape: win-pane, label: "_Published Nov 09, 2025, 05:58 PM_
-Syrian president arrives in washington after us removes him from terrorism blacklist" }
-UslaoSsiaotsi@{ shape: win-pane, label: "_Published Nov 05, 2025, 08:17 AM_
-Us asks un to lift sanctions on syria’s president ahead of white house visit" }
-SceppotasSs@{ shape: win-pane, label: "_Published Nov 09, 2025, 04:40 AM_
-Syria carries out pre-emptive operations against isis cells" }
-IlceiinsottyDcn@{ shape: win-pane, label: "_Published Jul 16, 2025, 09:50 PM_
-Israel launches heavy airstrikes in damascus, vowing to protect syria’s druze community" }
-Sneeeahtfiiveo@{ shape: win-pane, label: "_Published Jul 15, 2025, 04:34 PM_
-Syrian druze leader urges local fighters to confront incoming government troops" }
-SsrlseldeiasoD@{ shape: win-pane, label: "_Published Jul 15, 2025, 02:14 AM_
-Syria sectarian clashes leave nearly 100 dead; israel strikes targets to protect druze" }
-Snsicmnsiaoia@{ shape: win-pane, label: "_Published Jul 12, 2025, 11:55 PM_
-Syrian and israeli officials meet in baku, says diplomatic source in damascus" }
-Sneeeahtfiiveo@{ shape: win-pane, label: "_Published Jul 15, 2025, 04:34 PM_
-Syrian druze leader urges local fighters to confront incoming government troops" }
-SsrlseldeiasoD@{ shape: win-pane, label: "_Published Jul 15, 2025, 02:14 AM_
-Syria sectarian clashes leave nearly 100 dead; israel strikes targets to protect druze" }
-Snsicmnsiaoia@{ shape: win-pane, label: "_Published Jul 12, 2025, 11:55 PM_
-Syrian and israeli officials meet in baku, says diplomatic source in damascus" }
+Uuaaaoamdrostiuori@{ shape: win-pane, label: "_Published Dec 02, 2025, 07:05 AM_
+Us republican senator calls for doj and homeland security to investigate shein, temu for counterfeiting" }
+Emsrutesoeogflh@{ shape: win-pane, label: "_Published Nov 26, 2025, 10:35 PM_
+Eu lawmakers back resolution to make it easier to suspend shopping platforms like shein" }
+PcHnethsninsee@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:55 PM_
+Paris court: hearing on request for shein’s suspension in france postponed to dec 5" }
+FessSoelwnairn@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:32 AM_
+France moves to suspend shein over sex dolls and weapons on day paris store opens" }
+Erhvlhixsga@{ shape: win-pane, label: "_Published Nov 26, 2025, 08:05 PM_
+Eu queries shein over sale of childlike sex dolls, illegal weapons" }
+PcHnethsninsee@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:55 PM_
+Paris court: hearing on request for shein’s suspension in france postponed to dec 5" }
+FessSoelwnairn@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:32 AM_
+France moves to suspend shein over sex dolls and weapons on day paris store opens" }
+Erhvlhixsga@{ shape: win-pane, label: "_Published Nov 26, 2025, 08:05 PM_
+Eu queries shein over sale of childlike sex dolls, illegal weapons" }
+Apbheolfesst@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:50 PM_
+Aliexpress bans chinese sex doll seller after reuters investigation" }
+Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
+Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
+FeaSbclelp@{ shape: win-pane, label: "_Published Nov 03, 2025, 08:50 PM_
+France threatens shein ban if ‘childlike’ sex dolls reappear" }
+CsnsdsloeoFhhoi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:16 PM_
+China’s shein pulls child-like sex dolls from sale following french watchdog complaint" }
+Fhdhesnhixs@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:32 AM_
+French fraud watchdog reports shein for ‘childlike’ sex dolls" }
+SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
+Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
+SthirylerNsba@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:19 PM_
+Shein to go ahead with first physical store, in paris, on nov 5 despite backlash" }
 
-TwIlorii:::txtsize --> Tvoeichyfarkha:::txtsize
-Tvoeichyfarkha:::txtsize --> SnltiARahtoy:::txtsize
-SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
-Tvoeichyfarkha:::txtsize --> SniaeagfSvmtrli:::txtsize
-SniaeagfSvmtrli:::txtsize --> UslaoSsiaotsi:::txtsize
-SniaeagfSvmtrli:::txtsize --> SceppotasSs:::txtsize
-TwIlorii:::txtsize --> IlceiinsottyDcn:::txtsize
-IlceiinsottyDcn:::txtsize --> Sneeeahtfiiveo:::txtsize
-Sneeeahtfiiveo:::txtsize --> SsrlseldeiasoD:::txtsize
-Sneeeahtfiiveo:::txtsize --> Snsicmnsiaoia:::txtsize
-IlceiinsottyDcn:::txtsize --> Sneeeahtfiiveo:::txtsize
-Sneeeahtfiiveo:::txtsize --> SsrlseldeiasoD:::txtsize
-Sneeeahtfiiveo:::txtsize --> Snsicmnsiaoia:::txtsize
+Uuaaaoamdrostiuori:::txtsize --> Emsrutesoeogflh:::txtsize
+Emsrutesoeogflh:::txtsize --> PcHnethsninsee:::txtsize
+PcHnethsninsee:::txtsize --> FessSoelwnairn:::txtsize
+PcHnethsninsee:::txtsize --> Erhvlhixsga:::txtsize
+Emsrutesoeogflh:::txtsize --> PcHnethsninsee:::txtsize
+PcHnethsninsee:::txtsize --> FessSoelwnairn:::txtsize
+PcHnethsninsee:::txtsize --> Erhvlhixsga:::txtsize
+Uuaaaoamdrostiuori:::txtsize --> Apbheolfesst:::txtsize
+Apbheolfesst:::txtsize --> Sbelerncrdo:::txtsize
+Sbelerncrdo:::txtsize --> FeaSbclelp:::txtsize
+Sbelerncrdo:::txtsize --> CsnsdsloeoFhhoi:::txtsize
+Apbheolfesst:::txtsize --> Fhdhesnhixs:::txtsize
+Fhdhesnhixs:::txtsize --> SthirylerNsba:::txtsize
+Fhdhesnhixs:::txtsize --> SthirylerNsba:::txtsize
 
 ```
-<i>Last updated: 2025-12-02 04:01:06.345472 (GMT+8)</i>
+<i>Last updated: 2025-12-02 08:00:30.472032 (GMT+8)</i>
 <!-- END -->
