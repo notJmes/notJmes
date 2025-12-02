@@ -16,100 +16,8 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Eyncpian@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:15 PM_
-Ecb says cannot backstop ukraine loan plan" }
-Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
-Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
-Eoufnisoker@{ shape: win-pane, label: "_Published Aug 31, 2025, 12:28 AM_
-Eu to work on using frozen russian assets to aid ukraine after war" }
-Unpsukrcyaleniin@{ shape: win-pane, label: "_Published Aug 30, 2025, 04:43 AM_
-Ukraine completes rescue work after attack on kyiv; death toll rises to 25, including 4 children" }
-Feawpuou@{ shape: win-pane, label: "_Published Aug 29, 2025, 10:53 PM_
-France, germany vow to up pressure on ‘ogre’ putin" }
-Rasptlfnttss@{ shape: win-pane, label: "_Published Sep 15, 2025, 04:05 PM_
-Russia warns europe that it will go after any state that takes its assets" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Tnainreumnvsr@{ shape: win-pane, label: "_Published Sep 12, 2025, 04:03 PM_
-Taiwan, china foreign ministers make unusual simultaneous visits to europe" }
-BudnnpountUn@{ shape: win-pane, label: "_Published Nov 28, 2025, 07:44 PM_
-Belgium’s pm digs in against eu push to use russian assets for ukraine" }
-Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
-Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
-Eoufnisoker@{ shape: win-pane, label: "_Published Aug 31, 2025, 12:28 AM_
-Eu to work on using frozen russian assets to aid ukraine after war" }
-Rasptlfnttss@{ shape: win-pane, label: "_Published Sep 15, 2025, 04:05 PM_
-Russia warns europe that it will go after any state that takes its assets" }
-Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
-Belgium says eu states must share risk to use frozen russian assets for ukraine" }
-Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
-Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
-Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
-Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
-
-Eyncpian:::txtsize --> Elrgessfakeoau:::txtsize
-Elrgessfakeoau:::txtsize --> Eoufnisoker:::txtsize
-Eoufnisoker:::txtsize --> Unpsukrcyaleniin:::txtsize
-Eoufnisoker:::txtsize --> Feawpuou:::txtsize
-Elrgessfakeoau:::txtsize --> Rasptlfnttss:::txtsize
-Rasptlfnttss:::txtsize --> DsruasvUn:::txtsize
-Rasptlfnttss:::txtsize --> Tnainreumnvsr:::txtsize
-Eyncpian:::txtsize --> BudnnpountUn:::txtsize
-BudnnpountUn:::txtsize --> Elrgessfakeoau:::txtsize
-Elrgessfakeoau:::txtsize --> Eoufnisoker:::txtsize
-Elrgessfakeoau:::txtsize --> Rasptlfnttss:::txtsize
-BudnnpountUn:::txtsize --> Busauasszsaske:::txtsize
-Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
-Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
-
-Bstieewnro@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:05 PM_
-British justice minister unveils ‘sweeping’ court reforms" }
-Uialtyesfreols@{ shape: win-pane, label: "_Published Oct 25, 2025, 03:09 AM_
-Uk minister ‘appalled’ after asylum seeker sex offender is freed from jail by mistake" }
-Fesicnoitsa@{ shape: win-pane, label: "_Published Jun 19, 2025, 05:21 PM_
-France mulls over intercepting uk-bound migrant boats at sea" }
-UasuleonruoFee@{ shape: win-pane, label: "_Published May 12, 2025, 05:36 AM_
-Uk’s starmer steps up english tests, toughens migrant rules to halt farage’s rise" }
-Rdeednars@{ shape: win-pane, label: "_Published Mar 21, 2025, 05:41 PM_
-Record number of people died on migration routes in 2024: un" }
-BiartaoesiiIn@{ shape: win-pane, label: "_Published Oct 08, 2025, 07:17 AM_
-Britain’s starmer resists demands for more visas for high-skilled indians" }
-TtoeBealt@{ shape: win-pane, label: "_Published Sep 20, 2025, 04:36 AM_
-Trump to impose $130,000 fee for h-1b worker visas in blow to tech" }
-BiIsracidi@{ shape: win-pane, label: "_Published Jul 25, 2025, 06:54 AM_
-Britain and india sign free trade pact during modi visit" }
-Biiuilnreamc@{ shape: win-pane, label: "_Published Nov 17, 2025, 06:37 AM_
-Britain reviews human rights laws in major shake-up of asylum policy" }
-Biafssouamh@{ shape: win-pane, label: "_Published Nov 16, 2025, 06:42 AM_
-Britain to make refugee status temporary under asylum overhaul" }
-ReUamitnemn@{ shape: win-pane, label: "_Published Nov 15, 2025, 08:16 AM_
-Refugees in uk to face time-limited stays in border clampdown" }
-Bsnoieameoeeot@{ shape: win-pane, label: "_Published Nov 11, 2025, 08:26 PM_
-British council loses bid to remove asylum seekers from hotel at centre of protests" }
-ReUamitnemn@{ shape: win-pane, label: "_Published Nov 15, 2025, 08:16 AM_
-Refugees in uk to face time-limited stays in border clampdown" }
-Biasspadyet@{ shape: win-pane, label: "_Published Sep 06, 2025, 01:35 AM_
-Britain’s starmer shakes up top team after deputy rayner quits" }
-Bseaitennatui@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:37 PM_
-British pm keir starmer insists government is ‘united’ as plot rumours swirl" }
-
-Bstieewnro:::txtsize --> Uialtyesfreols:::txtsize
-Uialtyesfreols:::txtsize --> Fesicnoitsa:::txtsize
-Fesicnoitsa:::txtsize --> UasuleonruoFee:::txtsize
-Fesicnoitsa:::txtsize --> Rdeednars:::txtsize
-Uialtyesfreols:::txtsize --> BiartaoesiiIn:::txtsize
-BiartaoesiiIn:::txtsize --> TtoeBealt:::txtsize
-BiartaoesiiIn:::txtsize --> BiIsracidi:::txtsize
-Bstieewnro:::txtsize --> Biiuilnreamc:::txtsize
-Biiuilnreamc:::txtsize --> Biafssouamh:::txtsize
-Biafssouamh:::txtsize --> ReUamitnemn:::txtsize
-Biafssouamh:::txtsize --> Bsnoieameoeeot:::txtsize
-Biiuilnreamc:::txtsize --> ReUamitnemn:::txtsize
-ReUamitnemn:::txtsize --> Biasspadyet:::txtsize
-ReUamitnemn:::txtsize --> Bseaitennatui:::txtsize
-
-FrurerduldUs@{ shape: win-pane, label: "_Published Dec 02, 2025, 10:45 PM_
-Former honduran president pardoned by trump released from us prison" }
+Pgitsahltnkldb@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:21 AM_
+Pentagon chief pete hegseth says us has ‘only just begun’ striking alleged drug boats" }
 Uirdotoeramzsho@{ shape: win-pane, label: "_Published Dec 02, 2025, 04:09 AM_
 Us admiral ordered follow-up strike on alleged drug boat from venezuela, says white house" }
 UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
@@ -124,36 +32,86 @@ Tsicvsugztliee@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:19 PM_
 Trump says airspace above and surrounding venezuela to be closed in its entirety" }
 UgVuMoceoyRllk@{ shape: win-pane, label: "_Published Dec 01, 2025, 05:07 AM_
 Us has given venezuela’s maduro chance to leave country, says republican lawmaker" }
-HroacTiiie@{ shape: win-pane, label: "_Published Dec 01, 2025, 01:54 AM_
-Hondurans vote in an election trump is trying to influence" }
-UgVuMoceoyRllk@{ shape: win-pane, label: "_Published Dec 01, 2025, 05:07 AM_
-Us has given venezuela’s maduro chance to leave country, says republican lawmaker" }
-Tsicvsugztliee@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:19 PM_
-Trump says airspace above and surrounding venezuela to be closed in its entirety" }
-Hunllyoat@{ shape: win-pane, label: "_Published Nov 30, 2025, 12:09 AM_
-How could venezuela’s military respond to a us attack?" }
-PehtGddrartern@{ shape: win-pane, label: "_Published Nov 28, 2025, 02:03 AM_
-Pete hegseth visits uss gerald r. ford aircraft carrier in latin america region" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Uddrngufialhe@{ shape: win-pane, label: "_Published Nov 14, 2025, 06:32 AM_
-Us conducted 20th strike on alleged drug trafficking boat earlier this week" }
+UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
+Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
+Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
+Us builds up forces in caribbean as officials, experts, ask why" }
+Ursratnldoi@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:51 AM_
+Us increases reward for arrest of venezeula’s maduro to $64 million" }
+Ursratnldoi@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:51 AM_
+Us increases reward for arrest of venezeula’s maduro to $64 million" }
+VuMoUswieggoy@{ shape: win-pane, label: "_Published Sep 02, 2025, 01:19 AM_
+Venezuela’s maduro says us warships with 1,200 missiles targeting his country" }
+Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
+Us builds up forces in caribbean as officials, experts, ask why" }
+Ursratnldoi@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:51 AM_
+Us increases reward for arrest of venezeula’s maduro to $64 million" }
 
-FrurerduldUs:::txtsize --> Uirdotoeramzsho:::txtsize
+Pgitsahltnkldb:::txtsize --> Uirdotoeramzsho:::txtsize
 Uirdotoeramzsho:::txtsize --> UikperngutVura:::txtsize
 UikperngutVura:::txtsize --> Ulfsrafapay:::txtsize
 UikperngutVura:::txtsize --> VuMoUswieggoy:::txtsize
 Uirdotoeramzsho:::txtsize --> VulScpifromlMo:::txtsize
 VulScpifromlMo:::txtsize --> Tsicvsugztliee:::txtsize
 VulScpifromlMo:::txtsize --> UgVuMoceoyRllk:::txtsize
-FrurerduldUs:::txtsize --> HroacTiiie:::txtsize
-HroacTiiie:::txtsize --> UgVuMoceoyRllk:::txtsize
-UgVuMoceoyRllk:::txtsize --> Tsicvsugztliee:::txtsize
-UgVuMoceoyRllk:::txtsize --> Hunllyoat:::txtsize
-HroacTiiie:::txtsize --> PehtGddrartern:::txtsize
-PehtGddrartern:::txtsize --> Nnalsiydttteiu:::txtsize
-PehtGddrartern:::txtsize --> Uddrngufialhe:::txtsize
+Pgitsahltnkldb:::txtsize --> UikperngutVura:::txtsize
+UikperngutVura:::txtsize --> Ulfsrafapay:::txtsize
+Ulfsrafapay:::txtsize --> Ursratnldoi:::txtsize
+Ulfsrafapay:::txtsize --> Ursratnldoi:::txtsize
+UikperngutVura:::txtsize --> VuMoUswieggoy:::txtsize
+VuMoUswieggoy:::txtsize --> Ulfsrafapay:::txtsize
+VuMoUswieggoy:::txtsize --> Ursratnldoi:::txtsize
+
+Anreeheuecue@{ shape: win-pane, label: "_Published Dec 03, 2025, 01:48 AM_
+Afghan man arrested in texas threatened suicide attack: us justice dept" }
+UtanpcnaAne@{ shape: win-pane, label: "_Published Nov 30, 2025, 04:39 AM_
+Us state department stops processing visas for afghan allies" }
+AeiGakcmrgmtairgo@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:44 AM_
+Accused national guard attacker faces us murder charge; trump wants to halt ‘third world’ migration" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Tuaarottiou@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:50 PM_
+Trump uses national guard shooting to cast suspicion on refugees" }
+TvozrnTWcrfagt@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:11 PM_
+Trump vows to freeze migration from ‘third world countries’ after washington attack" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+TsniGmrstogi@{ shape: win-pane, label: "_Published Nov 28, 2025, 09:30 AM_
+Trump says one national guard member in washington shooting has died" }
+
+Anreeheuecue:::txtsize --> UtanpcnaAne:::txtsize
+UtanpcnaAne:::txtsize --> AeiGakcmrgmtairgo:::txtsize
+AeiGakcmrgmtairgo:::txtsize --> Nnalsiydttteiu:::txtsize
+AeiGakcmrgmtairgo:::txtsize --> Tuaarottiou:::txtsize
+UtanpcnaAne:::txtsize --> TvozrnTWcrfagt:::txtsize
+TvozrnTWcrfagt:::txtsize --> Nnalsiydttteiu:::txtsize
+TvozrnTWcrfagt:::txtsize --> TsniGmrstogi:::txtsize
+
+Frpoechiiub@{ shape: win-pane, label: "_Published Dec 03, 2025, 01:40 AM_
+Former eu top diplomat federica mogherini held in fraud probe" }
+Ilauacapnecyp@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:29 PM_
+Israel’s netanyahu appears in court after pardon request backed by trump" }
+Tasiitdthe@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:21 PM_
+Trump asks israeli president to pardon netanyahu in letter" }
+TuIlstreaororo@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:09 PM_
+Trump urges israel’s president to pardon netanyahu, who’s on trial for corruption" }
+Tssithriioee@{ shape: win-pane, label: "_Published Jun 26, 2025, 08:10 AM_
+Trump says israeli pm netanyahu’s corruption trial should be cancelled" }
+Nyaotlneyt@{ shape: win-pane, label: "_Published Oct 26, 2025, 04:56 PM_
+Netanyahu faces vote with coalition weakened by gaza truce" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+SdaoausCetsnal@{ shape: win-pane, label: "_Published Jul 17, 2025, 02:29 AM_
+Second ultra-orthodox party quits israel cabinet, but throws netanyahu a lifeline" }
+
+Frpoechiiub:::txtsize --> Ilauacapnecyp:::txtsize
+Ilauacapnecyp:::txtsize --> Tasiitdthe:::txtsize
+Tasiitdthe:::txtsize --> TuIlstreaororo:::txtsize
+Tasiitdthe:::txtsize --> Tssithriioee:::txtsize
+Ilauacapnecyp:::txtsize --> Nyaotlneyt:::txtsize
+Nyaotlneyt:::txtsize --> Tdrcaaededlncbs:::txtsize
+Nyaotlneyt:::txtsize --> SdaoausCetsnal:::txtsize
 
 ```
-<i>Last updated: 2025-12-03 00:00:20.788888 (GMT+8)</i>
+<i>Last updated: 2025-12-03 04:00:43.232542 (GMT+8)</i>
 <!-- END -->
