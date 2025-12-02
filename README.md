@@ -16,6 +16,83 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+AiilclrdeecptUor@{ shape: win-pane, label: "_Published Dec 02, 2025, 06:44 PM_
+Artificial intelligence could increase divide between rich and poor states, un report warns" }
+Fnosmnknaiwsed@{ shape: win-pane, label: "_Published Dec 02, 2025, 03:45 PM_
+Fearing ai job losses, some young workers in britain shift towards skilled trades" }
+Bishpwfrgcfj@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:10 PM_
+‘bloodied onslaughts’: experts warn of ai’s growing impact on office jobs" }
+TejtoyItdn@{ shape: win-pane, label: "_Published Oct 30, 2025, 04:15 PM_
+Tech sector job cuts in 2025: how many are ai-related redundancies?" }
+Heflknedstite@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:06 PM_
+High demand for roles like ai engineers and data scientists in fintech: report" }
+Fcdnnsvrfmtstpo@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:10 PM_
+Fintech funding in asean falls 36% as investors shift from growth-chasing start-ups: report" }
+AulpmntercmWCg@{ shape: win-pane, label: "_Published Nov 12, 2025, 01:55 PM_
+Ai should help people do more and do it faster, not replace them: uob’s wee ee cheong" }
+SpaiobdsnnlM@{ shape: win-pane, label: "_Published Nov 19, 2025, 11:59 PM_
+Singapore has varied toolkit, beyond taxes, to manage inequality: pm wong" }
+GnlnoynSavurrtn@{ shape: win-pane, label: "_Published Sep 24, 2025, 05:53 PM_
+Government looking at more ways to ensure s’poreans have enough for retirement: pm wong" }
+JeutaoiSwredeo@{ shape: win-pane, label: "_Published Aug 27, 2024, 05:30 PM_
+Job seeker support to start from april 2025 for s’pore workers who earned $5k or less a month" }
+WtkcPgdganlmd@{ shape: win-pane, label: "_Published Sep 24, 2025, 07:33 PM_
+‘we must break this cycle’: pm wong on reducing emphasis on single exams, grades" }
+
+AiilclrdeecptUor:::txtsize --> Fnosmnknaiwsed:::txtsize
+Fnosmnknaiwsed:::txtsize --> Bishpwfrgcfj:::txtsize
+Bishpwfrgcfj:::txtsize --> TejtoyItdn:::txtsize
+Fnosmnknaiwsed:::txtsize --> Heflknedstite:::txtsize
+Heflknedstite:::txtsize --> Fcdnnsvrfmtstpo:::txtsize
+Heflknedstite:::txtsize --> AulpmntercmWCg:::txtsize
+AiilclrdeecptUor:::txtsize --> SpaiobdsnnlM:::txtsize
+SpaiobdsnnlM:::txtsize --> GnlnoynSavurrtn:::txtsize
+GnlnoynSavurrtn:::txtsize --> JeutaoiSwredeo:::txtsize
+GnlnoynSavurrtn:::txtsize --> WtkcPgdganlmd:::txtsize
+
+Anbttulcamr@{ shape: win-pane, label: "_Published Dec 02, 2025, 04:52 PM_
+Afghan taliban authorities publicly execute man for murder" }
+TaftettlSha@{ shape: win-pane, label: "_Published Aug 14, 2025, 05:18 AM_
+Taliban use force to divert international aid, us watchdog says" }
+Ierfbaoeuoe@{ shape: win-pane, label: "_Published Jul 08, 2025, 11:19 PM_
+Icc seeks arrest of taliban leaders over persecution of women" }
+molnohhsTaue@{ shape: win-pane, label: "_Published Aug 15, 2024, 02:17 PM_
+1.4 million girls banned from afghan schools since taliban return: unesco" }
+Tadndvoauyniuh@{ shape: win-pane, label: "_Published Dec 29, 2024, 10:45 PM_
+Taliban leader bans windows overlooking areas used by women in neighbouring homes" }
+Ramrutoeaalgn@{ shape: win-pane, label: "_Published Jul 04, 2025, 03:21 AM_
+Russia becomes first country to recognise afghanistan’s taliban government" }
+Taaishodninles@{ shape: win-pane, label: "_Published May 23, 2025, 04:38 PM_
+Taliban in talks with russia, china for trade transactions in local currencies" }
+EtfrsiaictamAnn@{ shape: win-pane, label: "_Published Dec 01, 2025, 08:09 AM_
+Ex-british officer tells inquiry that military committed war crimes in afghanistan" }
+Ueoaaitithtri@{ shape: win-pane, label: "_Published Oct 06, 2025, 03:56 PM_
+Un to decide on broad eu-backed investigation into afghanistan atrocities" }
+Ierfbaoeuoe@{ shape: win-pane, label: "_Published Jul 08, 2025, 11:19 PM_
+Icc seeks arrest of taliban leaders over persecution of women" }
+Dcgooboihn@{ shape: win-pane, label: "_Published Mar 06, 2023, 01:26 PM_
+Divorced afghan women forced back to abusive ex-husbands" }
+BspeTaeadois@{ shape: win-pane, label: "_Published Sep 19, 2025, 07:50 PM_
+British couple freed by taliban after qatari mediation, official says" }
+TaisirfrsCsr@{ shape: win-pane, label: "_Published Feb 25, 2025, 08:55 AM_
+Taliban officials confirm arrest of two britons and a chinese-american" }
+UistiuridnAnn@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:50 PM_
+Us officials hold talks in kabul over americans detained in afghanistan" }
+
+Anbttulcamr:::txtsize --> TaftettlSha:::txtsize
+TaftettlSha:::txtsize --> Ierfbaoeuoe:::txtsize
+Ierfbaoeuoe:::txtsize --> molnohhsTaue:::txtsize
+Ierfbaoeuoe:::txtsize --> Tadndvoauyniuh:::txtsize
+TaftettlSha:::txtsize --> Ramrutoeaalgn:::txtsize
+Ramrutoeaalgn:::txtsize --> Taaishodninles:::txtsize
+Anbttulcamr:::txtsize --> EtfrsiaictamAnn:::txtsize
+EtfrsiaictamAnn:::txtsize --> Ueoaaitithtri:::txtsize
+Ueoaaitithtri:::txtsize --> Ierfbaoeuoe:::txtsize
+Ueoaaitithtri:::txtsize --> Dcgooboihn:::txtsize
+EtfrsiaictamAnn:::txtsize --> BspeTaeadois:::txtsize
+BspeTaeadois:::txtsize --> TaisirfrsCsr:::txtsize
+BspeTaeadois:::txtsize --> UistiuridnAnn:::txtsize
+
 Fnosmnknaiwsed@{ shape: win-pane, label: "_Published Dec 02, 2025, 03:45 PM_
 Fearing ai job losses, some young workers in britain shift towards skilled trades" }
 Bishpwfrgcfj@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:10 PM_
@@ -53,65 +130,6 @@ Heflknedstite:::txtsize --> AulpmntercmWCg:::txtsize
 AulpmntercmWCg:::txtsize --> SpaofcdtrIlsFet:::txtsize
 AulpmntercmWCg:::txtsize --> Spssitguneorno:::txtsize
 
-Snmmhnihad@{ shape: win-pane, label: "_Published Dec 02, 2025, 03:00 PM_
-Soaring unemployment challenges finnish welfare model" }
-Fnnhnrsoles@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:15 AM_
-Finland clings to happiness crown as economic gloom deepens" }
-Wenrxasintc@{ shape: win-pane, label: "_Published Jan 25, 2024, 05:00 AM_
-Weighed down by our own expectations, despite money in the pocket" }
-Spnsyhildoomair@{ shape: win-pane, label: "_Published Jan 12, 2024, 05:00 AM_
-Singaporeans less happy, but those with balanced approach to life more satisfied: survey" }
-YatrNrdolnhenr@{ shape: win-pane, label: "_Published Nov 30, 2025, 05:00 AM_
-Young and on the streets: number of under-35s rough sleeping on the rise in singapore" }
-
-Snmmhnihad:::txtsize --> Fnnhnrsoles:::txtsize
-Fnnhnrsoles:::txtsize --> Wenrxasintc:::txtsize
-Wenrxasintc:::txtsize --> Spnsyhildoomair:::txtsize
-Snmmhnihad:::txtsize --> YatrNrdolnhenr:::txtsize
-
-Poivapawes@{ shape: win-pane, label: "_Published Dec 02, 2025, 02:19 PM_
-Pope to end first overseas trip by praying with 100,000 lebanese" }
-Peeatreiiarhu@{ shape: win-pane, label: "_Published Nov 30, 2025, 11:19 PM_
-Pope leo urges lebanese to embrace reconciliation, stay in crisis-hit country" }
-Bttnanaeniopo@{ shape: win-pane, label: "_Published Aug 08, 2020, 04:00 PM_
-Beirut blast: lebanese say country was already in crisis before explosion" }
-NwrlachoaBtt@{ shape: win-pane, label: "_Published Aug 07, 2020, 07:15 PM_
-'no way we can rebuild': lebanese count huge losses after beirut blast" }
-Hlroojsienbv@{ shape: win-pane, label: "_Published Nov 29, 2025, 07:50 PM_
-Hezbollah urges pope leo to reject israeli ‘aggression’ on lebanon visit" }
-Petdsinensgvn@{ shape: win-pane, label: "_Published Nov 28, 2025, 02:58 PM_
-Pope leo meets middle east christian leaders, condemns religious violence" }
-PiIbls@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:00 PM_
-Pope visits istanbul’s blue mosque" }
-Pupmgedcsen@{ shape: win-pane, label: "_Published Dec 01, 2025, 05:50 PM_
-Pope pushes peace message on second day in crisis-hit lebanon" }
-Cbstepsia@{ shape: win-pane, label: "_Published Nov 30, 2025, 12:25 AM_
-Crowd braves rain to attend pope leo’s mass in istanbul" }
-PiIbls@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:00 PM_
-Pope visits istanbul’s blue mosque" }
-PiIbls@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:00 PM_
-Pope visits istanbul’s blue mosque" }
-Hlelspbywir@{ shape: win-pane, label: "_Published Nov 29, 2025, 02:14 AM_
-Hezbollah leader leaves open possibility of new war with israel" }
-Ilsomaanui@{ shape: win-pane, label: "_Published Nov 24, 2025, 01:17 AM_
-Israel kills hezbollah military leader in beirut strike" }
-Ilsomaanui@{ shape: win-pane, label: "_Published Nov 24, 2025, 01:17 AM_
-Israel kills hezbollah military leader in beirut strike" }
-
-Poivapawes:::txtsize --> Peeatreiiarhu:::txtsize
-Peeatreiiarhu:::txtsize --> Bttnanaeniopo:::txtsize
-Bttnanaeniopo:::txtsize --> NwrlachoaBtt:::txtsize
-Peeatreiiarhu:::txtsize --> Hlroojsienbv:::txtsize
-Hlroojsienbv:::txtsize --> Petdsinensgvn:::txtsize
-Hlroojsienbv:::txtsize --> PiIbls:::txtsize
-Poivapawes:::txtsize --> Pupmgedcsen:::txtsize
-Pupmgedcsen:::txtsize --> Cbstepsia:::txtsize
-Cbstepsia:::txtsize --> PiIbls:::txtsize
-Cbstepsia:::txtsize --> PiIbls:::txtsize
-Pupmgedcsen:::txtsize --> Hlelspbywir:::txtsize
-Hlelspbywir:::txtsize --> Ilsomaanui:::txtsize
-Hlelspbywir:::txtsize --> Ilsomaanui:::txtsize
-
 ```
-<i>Last updated: 2025-12-02 16:00:20.718736 (GMT+8)</i>
+<i>Last updated: 2025-12-02 20:00:53.432271 (GMT+8)</i>
 <!-- END -->
