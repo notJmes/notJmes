@@ -16,120 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-AiilclrdeecptUor@{ shape: win-pane, label: "_Published Dec 02, 2025, 06:44 PM_
-Artificial intelligence could increase divide between rich and poor states, un report warns" }
-Fnosmnknaiwsed@{ shape: win-pane, label: "_Published Dec 02, 2025, 03:45 PM_
-Fearing ai job losses, some young workers in britain shift towards skilled trades" }
-Bishpwfrgcfj@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:10 PM_
-‘bloodied onslaughts’: experts warn of ai’s growing impact on office jobs" }
-TejtoyItdn@{ shape: win-pane, label: "_Published Oct 30, 2025, 04:15 PM_
-Tech sector job cuts in 2025: how many are ai-related redundancies?" }
-Heflknedstite@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:06 PM_
-High demand for roles like ai engineers and data scientists in fintech: report" }
-Fcdnnsvrfmtstpo@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:10 PM_
-Fintech funding in asean falls 36% as investors shift from growth-chasing start-ups: report" }
-AulpmntercmWCg@{ shape: win-pane, label: "_Published Nov 12, 2025, 01:55 PM_
-Ai should help people do more and do it faster, not replace them: uob’s wee ee cheong" }
-SpaiobdsnnlM@{ shape: win-pane, label: "_Published Nov 19, 2025, 11:59 PM_
-Singapore has varied toolkit, beyond taxes, to manage inequality: pm wong" }
-GnlnoynSavurrtn@{ shape: win-pane, label: "_Published Sep 24, 2025, 05:53 PM_
-Government looking at more ways to ensure s’poreans have enough for retirement: pm wong" }
-JeutaoiSwredeo@{ shape: win-pane, label: "_Published Aug 27, 2024, 05:30 PM_
-Job seeker support to start from april 2025 for s’pore workers who earned $5k or less a month" }
-WtkcPgdganlmd@{ shape: win-pane, label: "_Published Sep 24, 2025, 07:33 PM_
-‘we must break this cycle’: pm wong on reducing emphasis on single exams, grades" }
+Eyncpian@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:15 PM_
+Ecb says cannot backstop ukraine loan plan" }
+Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
+Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
+Eoufnisoker@{ shape: win-pane, label: "_Published Aug 31, 2025, 12:28 AM_
+Eu to work on using frozen russian assets to aid ukraine after war" }
+Unpsukrcyaleniin@{ shape: win-pane, label: "_Published Aug 30, 2025, 04:43 AM_
+Ukraine completes rescue work after attack on kyiv; death toll rises to 25, including 4 children" }
+Feawpuou@{ shape: win-pane, label: "_Published Aug 29, 2025, 10:53 PM_
+France, germany vow to up pressure on ‘ogre’ putin" }
+Rasptlfnttss@{ shape: win-pane, label: "_Published Sep 15, 2025, 04:05 PM_
+Russia warns europe that it will go after any state that takes its assets" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Tnainreumnvsr@{ shape: win-pane, label: "_Published Sep 12, 2025, 04:03 PM_
+Taiwan, china foreign ministers make unusual simultaneous visits to europe" }
+BudnnpountUn@{ shape: win-pane, label: "_Published Nov 28, 2025, 07:44 PM_
+Belgium’s pm digs in against eu push to use russian assets for ukraine" }
+Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
+Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
+Eoufnisoker@{ shape: win-pane, label: "_Published Aug 31, 2025, 12:28 AM_
+Eu to work on using frozen russian assets to aid ukraine after war" }
+Rasptlfnttss@{ shape: win-pane, label: "_Published Sep 15, 2025, 04:05 PM_
+Russia warns europe that it will go after any state that takes its assets" }
+Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
+Belgium says eu states must share risk to use frozen russian assets for ukraine" }
+Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
+Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
+Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
+Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
 
-AiilclrdeecptUor:::txtsize --> Fnosmnknaiwsed:::txtsize
-Fnosmnknaiwsed:::txtsize --> Bishpwfrgcfj:::txtsize
-Bishpwfrgcfj:::txtsize --> TejtoyItdn:::txtsize
-Fnosmnknaiwsed:::txtsize --> Heflknedstite:::txtsize
-Heflknedstite:::txtsize --> Fcdnnsvrfmtstpo:::txtsize
-Heflknedstite:::txtsize --> AulpmntercmWCg:::txtsize
-AiilclrdeecptUor:::txtsize --> SpaiobdsnnlM:::txtsize
-SpaiobdsnnlM:::txtsize --> GnlnoynSavurrtn:::txtsize
-GnlnoynSavurrtn:::txtsize --> JeutaoiSwredeo:::txtsize
-GnlnoynSavurrtn:::txtsize --> WtkcPgdganlmd:::txtsize
+Eyncpian:::txtsize --> Elrgessfakeoau:::txtsize
+Elrgessfakeoau:::txtsize --> Eoufnisoker:::txtsize
+Eoufnisoker:::txtsize --> Unpsukrcyaleniin:::txtsize
+Eoufnisoker:::txtsize --> Feawpuou:::txtsize
+Elrgessfakeoau:::txtsize --> Rasptlfnttss:::txtsize
+Rasptlfnttss:::txtsize --> DsruasvUn:::txtsize
+Rasptlfnttss:::txtsize --> Tnainreumnvsr:::txtsize
+Eyncpian:::txtsize --> BudnnpountUn:::txtsize
+BudnnpountUn:::txtsize --> Elrgessfakeoau:::txtsize
+Elrgessfakeoau:::txtsize --> Eoufnisoker:::txtsize
+Elrgessfakeoau:::txtsize --> Rasptlfnttss:::txtsize
+BudnnpountUn:::txtsize --> Busauasszsaske:::txtsize
+Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
+Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
 
-Anbttulcamr@{ shape: win-pane, label: "_Published Dec 02, 2025, 04:52 PM_
-Afghan taliban authorities publicly execute man for murder" }
-TaftettlSha@{ shape: win-pane, label: "_Published Aug 14, 2025, 05:18 AM_
-Taliban use force to divert international aid, us watchdog says" }
-Ierfbaoeuoe@{ shape: win-pane, label: "_Published Jul 08, 2025, 11:19 PM_
-Icc seeks arrest of taliban leaders over persecution of women" }
-molnohhsTaue@{ shape: win-pane, label: "_Published Aug 15, 2024, 02:17 PM_
-1.4 million girls banned from afghan schools since taliban return: unesco" }
-Tadndvoauyniuh@{ shape: win-pane, label: "_Published Dec 29, 2024, 10:45 PM_
-Taliban leader bans windows overlooking areas used by women in neighbouring homes" }
-Ramrutoeaalgn@{ shape: win-pane, label: "_Published Jul 04, 2025, 03:21 AM_
-Russia becomes first country to recognise afghanistan’s taliban government" }
-Taaishodninles@{ shape: win-pane, label: "_Published May 23, 2025, 04:38 PM_
-Taliban in talks with russia, china for trade transactions in local currencies" }
-EtfrsiaictamAnn@{ shape: win-pane, label: "_Published Dec 01, 2025, 08:09 AM_
-Ex-british officer tells inquiry that military committed war crimes in afghanistan" }
-Ueoaaitithtri@{ shape: win-pane, label: "_Published Oct 06, 2025, 03:56 PM_
-Un to decide on broad eu-backed investigation into afghanistan atrocities" }
-Ierfbaoeuoe@{ shape: win-pane, label: "_Published Jul 08, 2025, 11:19 PM_
-Icc seeks arrest of taliban leaders over persecution of women" }
-Dcgooboihn@{ shape: win-pane, label: "_Published Mar 06, 2023, 01:26 PM_
-Divorced afghan women forced back to abusive ex-husbands" }
-BspeTaeadois@{ shape: win-pane, label: "_Published Sep 19, 2025, 07:50 PM_
-British couple freed by taliban after qatari mediation, official says" }
-TaisirfrsCsr@{ shape: win-pane, label: "_Published Feb 25, 2025, 08:55 AM_
-Taliban officials confirm arrest of two britons and a chinese-american" }
-UistiuridnAnn@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:50 PM_
-Us officials hold talks in kabul over americans detained in afghanistan" }
+Bstieewnro@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:05 PM_
+British justice minister unveils ‘sweeping’ court reforms" }
+Uialtyesfreols@{ shape: win-pane, label: "_Published Oct 25, 2025, 03:09 AM_
+Uk minister ‘appalled’ after asylum seeker sex offender is freed from jail by mistake" }
+Fesicnoitsa@{ shape: win-pane, label: "_Published Jun 19, 2025, 05:21 PM_
+France mulls over intercepting uk-bound migrant boats at sea" }
+UasuleonruoFee@{ shape: win-pane, label: "_Published May 12, 2025, 05:36 AM_
+Uk’s starmer steps up english tests, toughens migrant rules to halt farage’s rise" }
+Rdeednars@{ shape: win-pane, label: "_Published Mar 21, 2025, 05:41 PM_
+Record number of people died on migration routes in 2024: un" }
+BiartaoesiiIn@{ shape: win-pane, label: "_Published Oct 08, 2025, 07:17 AM_
+Britain’s starmer resists demands for more visas for high-skilled indians" }
+TtoeBealt@{ shape: win-pane, label: "_Published Sep 20, 2025, 04:36 AM_
+Trump to impose $130,000 fee for h-1b worker visas in blow to tech" }
+BiIsracidi@{ shape: win-pane, label: "_Published Jul 25, 2025, 06:54 AM_
+Britain and india sign free trade pact during modi visit" }
+Biiuilnreamc@{ shape: win-pane, label: "_Published Nov 17, 2025, 06:37 AM_
+Britain reviews human rights laws in major shake-up of asylum policy" }
+Biafssouamh@{ shape: win-pane, label: "_Published Nov 16, 2025, 06:42 AM_
+Britain to make refugee status temporary under asylum overhaul" }
+ReUamitnemn@{ shape: win-pane, label: "_Published Nov 15, 2025, 08:16 AM_
+Refugees in uk to face time-limited stays in border clampdown" }
+Bsnoieameoeeot@{ shape: win-pane, label: "_Published Nov 11, 2025, 08:26 PM_
+British council loses bid to remove asylum seekers from hotel at centre of protests" }
+ReUamitnemn@{ shape: win-pane, label: "_Published Nov 15, 2025, 08:16 AM_
+Refugees in uk to face time-limited stays in border clampdown" }
+Biasspadyet@{ shape: win-pane, label: "_Published Sep 06, 2025, 01:35 AM_
+Britain’s starmer shakes up top team after deputy rayner quits" }
+Bseaitennatui@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:37 PM_
+British pm keir starmer insists government is ‘united’ as plot rumours swirl" }
 
-Anbttulcamr:::txtsize --> TaftettlSha:::txtsize
-TaftettlSha:::txtsize --> Ierfbaoeuoe:::txtsize
-Ierfbaoeuoe:::txtsize --> molnohhsTaue:::txtsize
-Ierfbaoeuoe:::txtsize --> Tadndvoauyniuh:::txtsize
-TaftettlSha:::txtsize --> Ramrutoeaalgn:::txtsize
-Ramrutoeaalgn:::txtsize --> Taaishodninles:::txtsize
-Anbttulcamr:::txtsize --> EtfrsiaictamAnn:::txtsize
-EtfrsiaictamAnn:::txtsize --> Ueoaaitithtri:::txtsize
-Ueoaaitithtri:::txtsize --> Ierfbaoeuoe:::txtsize
-Ueoaaitithtri:::txtsize --> Dcgooboihn:::txtsize
-EtfrsiaictamAnn:::txtsize --> BspeTaeadois:::txtsize
-BspeTaeadois:::txtsize --> TaisirfrsCsr:::txtsize
-BspeTaeadois:::txtsize --> UistiuridnAnn:::txtsize
+Bstieewnro:::txtsize --> Uialtyesfreols:::txtsize
+Uialtyesfreols:::txtsize --> Fesicnoitsa:::txtsize
+Fesicnoitsa:::txtsize --> UasuleonruoFee:::txtsize
+Fesicnoitsa:::txtsize --> Rdeednars:::txtsize
+Uialtyesfreols:::txtsize --> BiartaoesiiIn:::txtsize
+BiartaoesiiIn:::txtsize --> TtoeBealt:::txtsize
+BiartaoesiiIn:::txtsize --> BiIsracidi:::txtsize
+Bstieewnro:::txtsize --> Biiuilnreamc:::txtsize
+Biiuilnreamc:::txtsize --> Biafssouamh:::txtsize
+Biafssouamh:::txtsize --> ReUamitnemn:::txtsize
+Biafssouamh:::txtsize --> Bsnoieameoeeot:::txtsize
+Biiuilnreamc:::txtsize --> ReUamitnemn:::txtsize
+ReUamitnemn:::txtsize --> Biasspadyet:::txtsize
+ReUamitnemn:::txtsize --> Bseaitennatui:::txtsize
 
-Fnosmnknaiwsed@{ shape: win-pane, label: "_Published Dec 02, 2025, 03:45 PM_
-Fearing ai job losses, some young workers in britain shift towards skilled trades" }
-Bishpwfrgcfj@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:10 PM_
-‘bloodied onslaughts’: experts warn of ai’s growing impact on office jobs" }
-TejtoyItdn@{ shape: win-pane, label: "_Published Oct 30, 2025, 04:15 PM_
-Tech sector job cuts in 2025: how many are ai-related redundancies?" }
-Antojoioyee@{ shape: win-pane, label: "_Published Oct 28, 2025, 09:45 PM_
-Amazon to cut 14,000 corporate jobs worldwide, s’pore may not be spared" }
-Antojoioyee@{ shape: win-pane, label: "_Published Oct 28, 2025, 09:45 PM_
-Amazon to cut 14,000 corporate jobs worldwide, s’pore may not be spared" }
-Heflknedstite@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:06 PM_
-High demand for roles like ai engineers and data scientists in fintech: report" }
-Fcdnnsvrfmtstpo@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:10 PM_
-Fintech funding in asean falls 36% as investors shift from growth-chasing start-ups: report" }
-SpaofcdtrIlsFet@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:00 PM_
-Singapore can be world’s fintech hub despite fears of ai bubble burst in 2026: sff panellists" }
-Fctfrpeonsri@{ shape: win-pane, label: "_Published Jul 29, 2025, 10:10 PM_
-Fintech sector offers bright prospects for young job seekers: alvin tan" }
-AulpmntercmWCg@{ shape: win-pane, label: "_Published Nov 12, 2025, 01:55 PM_
-Ai should help people do more and do it faster, not replace them: uob’s wee ee cheong" }
-SpaofcdtrIlsFet@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:00 PM_
-Singapore can be world’s fintech hub despite fears of ai bubble burst in 2026: sff panellists" }
-Spssitguneorno@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:30 PM_
-Singapore’s small size gives it an edge in building ai-ready workforce: gan kim yong" }
+FrurerduldUs@{ shape: win-pane, label: "_Published Dec 02, 2025, 10:45 PM_
+Former honduran president pardoned by trump released from us prison" }
+Uirdotoeramzsho@{ shape: win-pane, label: "_Published Dec 02, 2025, 04:09 AM_
+Us admiral ordered follow-up strike on alleged drug boat from venezuela, says white house" }
+UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
+Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
+Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
+Us builds up forces in caribbean as officials, experts, ask why" }
+VuMoUswieggoy@{ shape: win-pane, label: "_Published Sep 02, 2025, 01:19 AM_
+Venezuela’s maduro says us warships with 1,200 missiles targeting his country" }
+VulScpifromlMo@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:49 AM_
+Venezuela slams us attack preparations after trump confirms call with maduro" }
+Tsicvsugztliee@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:19 PM_
+Trump says airspace above and surrounding venezuela to be closed in its entirety" }
+UgVuMoceoyRllk@{ shape: win-pane, label: "_Published Dec 01, 2025, 05:07 AM_
+Us has given venezuela’s maduro chance to leave country, says republican lawmaker" }
+HroacTiiie@{ shape: win-pane, label: "_Published Dec 01, 2025, 01:54 AM_
+Hondurans vote in an election trump is trying to influence" }
+UgVuMoceoyRllk@{ shape: win-pane, label: "_Published Dec 01, 2025, 05:07 AM_
+Us has given venezuela’s maduro chance to leave country, says republican lawmaker" }
+Tsicvsugztliee@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:19 PM_
+Trump says airspace above and surrounding venezuela to be closed in its entirety" }
+Hunllyoat@{ shape: win-pane, label: "_Published Nov 30, 2025, 12:09 AM_
+How could venezuela’s military respond to a us attack?" }
+PehtGddrartern@{ shape: win-pane, label: "_Published Nov 28, 2025, 02:03 AM_
+Pete hegseth visits uss gerald r. ford aircraft carrier in latin america region" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Uddrngufialhe@{ shape: win-pane, label: "_Published Nov 14, 2025, 06:32 AM_
+Us conducted 20th strike on alleged drug trafficking boat earlier this week" }
 
-Fnosmnknaiwsed:::txtsize --> Bishpwfrgcfj:::txtsize
-Bishpwfrgcfj:::txtsize --> TejtoyItdn:::txtsize
-TejtoyItdn:::txtsize --> Antojoioyee:::txtsize
-TejtoyItdn:::txtsize --> Antojoioyee:::txtsize
-Fnosmnknaiwsed:::txtsize --> Heflknedstite:::txtsize
-Heflknedstite:::txtsize --> Fcdnnsvrfmtstpo:::txtsize
-Fcdnnsvrfmtstpo:::txtsize --> SpaofcdtrIlsFet:::txtsize
-Fcdnnsvrfmtstpo:::txtsize --> Fctfrpeonsri:::txtsize
-Heflknedstite:::txtsize --> AulpmntercmWCg:::txtsize
-AulpmntercmWCg:::txtsize --> SpaofcdtrIlsFet:::txtsize
-AulpmntercmWCg:::txtsize --> Spssitguneorno:::txtsize
+FrurerduldUs:::txtsize --> Uirdotoeramzsho:::txtsize
+Uirdotoeramzsho:::txtsize --> UikperngutVura:::txtsize
+UikperngutVura:::txtsize --> Ulfsrafapay:::txtsize
+UikperngutVura:::txtsize --> VuMoUswieggoy:::txtsize
+Uirdotoeramzsho:::txtsize --> VulScpifromlMo:::txtsize
+VulScpifromlMo:::txtsize --> Tsicvsugztliee:::txtsize
+VulScpifromlMo:::txtsize --> UgVuMoceoyRllk:::txtsize
+FrurerduldUs:::txtsize --> HroacTiiie:::txtsize
+HroacTiiie:::txtsize --> UgVuMoceoyRllk:::txtsize
+UgVuMoceoyRllk:::txtsize --> Tsicvsugztliee:::txtsize
+UgVuMoceoyRllk:::txtsize --> Hunllyoat:::txtsize
+HroacTiiie:::txtsize --> PehtGddrartern:::txtsize
+PehtGddrartern:::txtsize --> Nnalsiydttteiu:::txtsize
+PehtGddrartern:::txtsize --> Uddrngufialhe:::txtsize
 
 ```
-<i>Last updated: 2025-12-02 20:00:53.432271 (GMT+8)</i>
+<i>Last updated: 2025-12-03 00:00:20.788888 (GMT+8)</i>
 <!-- END -->
