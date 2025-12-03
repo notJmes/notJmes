@@ -16,102 +16,117 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Pgitsahltnkldb@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:21 AM_
-Pentagon chief pete hegseth says us has ‘only just begun’ striking alleged drug boats" }
-Uirdotoeramzsho@{ shape: win-pane, label: "_Published Dec 02, 2025, 04:09 AM_
-Us admiral ordered follow-up strike on alleged drug boat from venezuela, says white house" }
-UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
-Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
-Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
-Us builds up forces in caribbean as officials, experts, ask why" }
-VuMoUswieggoy@{ shape: win-pane, label: "_Published Sep 02, 2025, 01:19 AM_
-Venezuela’s maduro says us warships with 1,200 missiles targeting his country" }
-VulScpifromlMo@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:49 AM_
-Venezuela slams us attack preparations after trump confirms call with maduro" }
-Tsicvsugztliee@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:19 PM_
-Trump says airspace above and surrounding venezuela to be closed in its entirety" }
-UgVuMoceoyRllk@{ shape: win-pane, label: "_Published Dec 01, 2025, 05:07 AM_
-Us has given venezuela’s maduro chance to leave country, says republican lawmaker" }
-UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
-Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
-Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
-Us builds up forces in caribbean as officials, experts, ask why" }
-Ursratnldoi@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:51 AM_
-Us increases reward for arrest of venezeula’s maduro to $64 million" }
-Ursratnldoi@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:51 AM_
-Us increases reward for arrest of venezeula’s maduro to $64 million" }
-VuMoUswieggoy@{ shape: win-pane, label: "_Published Sep 02, 2025, 01:19 AM_
-Venezuela’s maduro says us warships with 1,200 missiles targeting his country" }
-Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
-Us builds up forces in caribbean as officials, experts, ask why" }
-Ursratnldoi@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:51 AM_
-Us increases reward for arrest of venezeula’s maduro to $64 million" }
+Blarisetinl@{ shape: win-pane, label: "_Published Dec 03, 2025, 07:45 AM_
+Brazil’s lula and trump discuss trade, sanctions in phone call" }
+EstobdTlrsrgb@{ shape: win-pane, label: "_Published Nov 26, 2025, 12:29 PM_
+Ex-president bolsonaro behind bars: the fall of brazil’s polarising firebrand" }
+Tsotoroznce@{ shape: win-pane, label: "_Published Nov 21, 2025, 08:58 AM_
+Trump signs order to remove tariffs on brazilian beef, coffee" }
+Uasitnrasna@{ shape: win-pane, label: "_Published Oct 29, 2025, 07:50 AM_
+Us senate passes bill to terminate trump tariffs against brazil" }
+TsitfaaOiaddnli@{ shape: win-pane, label: "_Published Oct 26, 2025, 05:04 AM_
+Trump sets 10% hike in tariffs on canada after ontario’s reagan ad aired during world series" }
+Thtteaaldhas@{ shape: win-pane, label: "_Published Oct 29, 2025, 06:50 AM_
+Trump heads to south korea to face trade talks and north korean missiles" }
 
-Pgitsahltnkldb:::txtsize --> Uirdotoeramzsho:::txtsize
-Uirdotoeramzsho:::txtsize --> UikperngutVura:::txtsize
-UikperngutVura:::txtsize --> Ulfsrafapay:::txtsize
-UikperngutVura:::txtsize --> VuMoUswieggoy:::txtsize
-Uirdotoeramzsho:::txtsize --> VulScpifromlMo:::txtsize
-VulScpifromlMo:::txtsize --> Tsicvsugztliee:::txtsize
-VulScpifromlMo:::txtsize --> UgVuMoceoyRllk:::txtsize
-Pgitsahltnkldb:::txtsize --> UikperngutVura:::txtsize
-UikperngutVura:::txtsize --> Ulfsrafapay:::txtsize
-Ulfsrafapay:::txtsize --> Ursratnldoi:::txtsize
-Ulfsrafapay:::txtsize --> Ursratnldoi:::txtsize
-UikperngutVura:::txtsize --> VuMoUswieggoy:::txtsize
-VuMoUswieggoy:::txtsize --> Ulfsrafapay:::txtsize
-VuMoUswieggoy:::txtsize --> Ursratnldoi:::txtsize
+Blarisetinl:::txtsize --> EstobdTlrsrgb:::txtsize
+Blarisetinl:::txtsize --> Tsotoroznce:::txtsize
+Tsotoroznce:::txtsize --> Uasitnrasna:::txtsize
+Uasitnrasna:::txtsize --> TsitfaaOiaddnli:::txtsize
+Uasitnrasna:::txtsize --> Thtteaaldhas:::txtsize
 
-Anreeheuecue@{ shape: win-pane, label: "_Published Dec 03, 2025, 01:48 AM_
-Afghan man arrested in texas threatened suicide attack: us justice dept" }
-UtanpcnaAne@{ shape: win-pane, label: "_Published Nov 30, 2025, 04:39 AM_
-Us state department stops processing visas for afghan allies" }
+Anlnintldt@{ shape: win-pane, label: "_Published Dec 03, 2025, 07:30 AM_
+Afghan man pleads not guilty in us national guard shooting" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
+Us stops processing afghan immigration requests after attack near white house" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Pfrygkiuregncr@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:35 AM_
+‘pried fingers away from gun’: wikipedia volunteers take down gunman at us conference" }
+Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
+Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
+Ipnsohehrmirgs@{ shape: win-pane, label: "_Published Nov 17, 2025, 04:50 PM_
+In pulpits and pews, catholic churches in the us urge compassion for immigrants" }
+PeieubnUhslit@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:25 PM_
+Pope leo’s critique of trump emboldens top us catholics to help immigrants" }
 AeiGakcmrgmtairgo@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:44 AM_
 Accused national guard attacker faces us murder charge; trump wants to halt ‘third world’ migration" }
 Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
 2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
+Us stops processing afghan immigration requests after attack near white house" }
+Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
+Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
 Tuaarottiou@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:50 PM_
 Trump uses national guard shooting to cast suspicion on refugees" }
-TvozrnTWcrfagt@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:11 PM_
-Trump vows to freeze migration from ‘third world countries’ after washington attack" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
 TsniGmrstogi@{ shape: win-pane, label: "_Published Nov 28, 2025, 09:30 AM_
 Trump says one national guard member in washington shooting has died" }
+TvozrnTWcrfagt@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:11 PM_
+Trump vows to freeze migration from ‘third world countries’ after washington attack" }
 
-Anreeheuecue:::txtsize --> UtanpcnaAne:::txtsize
-UtanpcnaAne:::txtsize --> AeiGakcmrgmtairgo:::txtsize
+Anlnintldt:::txtsize --> Nnalsiydttteiu:::txtsize
+Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
+Upcnhmteteaats:::txtsize --> Nnalsiydttteiu:::txtsize
+Upcnhmteteaats:::txtsize --> Pfrygkiuregncr:::txtsize
+Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
+Pespnaemipuit:::txtsize --> Ipnsohehrmirgs:::txtsize
+Pespnaemipuit:::txtsize --> PeieubnUhslit:::txtsize
+Anlnintldt:::txtsize --> AeiGakcmrgmtairgo:::txtsize
 AeiGakcmrgmtairgo:::txtsize --> Nnalsiydttteiu:::txtsize
+Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
+Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
 AeiGakcmrgmtairgo:::txtsize --> Tuaarottiou:::txtsize
-UtanpcnaAne:::txtsize --> TvozrnTWcrfagt:::txtsize
-TvozrnTWcrfagt:::txtsize --> Nnalsiydttteiu:::txtsize
-TvozrnTWcrfagt:::txtsize --> TsniGmrstogi:::txtsize
+Tuaarottiou:::txtsize --> TsniGmrstogi:::txtsize
+Tuaarottiou:::txtsize --> TvozrnTWcrfagt:::txtsize
 
-Frpoechiiub@{ shape: win-pane, label: "_Published Dec 03, 2025, 01:40 AM_
-Former eu top diplomat federica mogherini held in fraud probe" }
-Ilauacapnecyp@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:29 PM_
-Israel’s netanyahu appears in court after pardon request backed by trump" }
-Tasiitdthe@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:21 PM_
-Trump asks israeli president to pardon netanyahu in letter" }
-TuIlstreaororo@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:09 PM_
-Trump urges israel’s president to pardon netanyahu, who’s on trial for corruption" }
-Tssithriioee@{ shape: win-pane, label: "_Published Jun 26, 2025, 08:10 AM_
-Trump says israeli pm netanyahu’s corruption trial should be cancelled" }
-Nyaotlneyt@{ shape: win-pane, label: "_Published Oct 26, 2025, 04:56 PM_
-Netanyahu faces vote with coalition weakened by gaza truce" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-SdaoausCetsnal@{ shape: win-pane, label: "_Published Jul 17, 2025, 02:29 AM_
-Second ultra-orthodox party quits israel cabinet, but throws netanyahu a lifeline" }
+Tsertndoaseisun@{ shape: win-pane, label: "_Published Dec 03, 2025, 07:20 AM_
+Trump says he is terminating any pardons, commutations signed by biden using autopen" }
+Wuakivtst@{ shape: win-pane, label: "_Published Jul 15, 2025, 10:40 AM_
+Why trump is attacking biden over autopen signatures" }
+Tositscidedn@{ shape: win-pane, label: "_Published Jun 05, 2025, 08:52 AM_
+Trump orders inquiry into ‘conspiracy’ to hide biden’s health decline" }
+BsleUsteenspc@{ shape: win-pane, label: "_Published Jun 28, 2024, 09:21 AM_
+Biden stumbles in early us presidential debate exchanges as trump pounces" }
+IbhahrnrccidraHs@{ shape: win-pane, label: "_Published Jul 22, 2024, 01:59 AM_
+‘it has been the greatest honour’: biden ends re-election campaign and endorses kamala harris" }
+Bisopcluerutt@{ shape: win-pane, label: "_Published Jan 20, 2025, 09:31 PM_
+Biden issues pardons to protect milley, fauci, cheney from trump retaliation" }
+TsbchioUdetne@{ shape: win-pane, label: "_Published Nov 06, 2024, 07:37 AM_
+Trump set to be elected 47th president of the united states in stunning comeback" }
+Hpdwtmyrr@{ shape: win-pane, label: "_Published Jan 20, 2025, 10:37 AM_
+How us presidents wield their mighty power to pardon" }
+Tsongypddrt@{ shape: win-pane, label: "_Published Nov 29, 2025, 06:07 AM_
+Trump says documents signed by autopen under biden ‘terminated’" }
+Traoasega@{ shape: win-pane, label: "_Published Nov 26, 2025, 11:27 PM_
+Trump rages at report that he is increasingly frail" }
+Tseraenn@{ shape: win-pane, label: "_Published Oct 27, 2025, 05:25 PM_
+Trump says he underwent an mri examination" }
+Ptbusuert@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:05 AM_
+‘piggy’, ‘terrible’: trump lashes out at female reporters" }
+Twaehnnnict@{ shape: win-pane, label: "_Published Jul 18, 2025, 07:00 AM_
+Trump was diagnosed with chronic venous insufficiency. what is it?" }
+Tdoiidniglho@{ shape: win-pane, label: "_Published Jul 18, 2025, 02:46 AM_
+Trump diagnosed with vein condition causing leg swelling: white house" }
+Tdoiidniglho@{ shape: win-pane, label: "_Published Jul 18, 2025, 02:46 AM_
+Trump diagnosed with vein condition causing leg swelling: white house" }
 
-Frpoechiiub:::txtsize --> Ilauacapnecyp:::txtsize
-Ilauacapnecyp:::txtsize --> Tasiitdthe:::txtsize
-Tasiitdthe:::txtsize --> TuIlstreaororo:::txtsize
-Tasiitdthe:::txtsize --> Tssithriioee:::txtsize
-Ilauacapnecyp:::txtsize --> Nyaotlneyt:::txtsize
-Nyaotlneyt:::txtsize --> Tdrcaaededlncbs:::txtsize
-Nyaotlneyt:::txtsize --> SdaoausCetsnal:::txtsize
+Tsertndoaseisun:::txtsize --> Wuakivtst:::txtsize
+Wuakivtst:::txtsize --> Tositscidedn:::txtsize
+Tositscidedn:::txtsize --> BsleUsteenspc:::txtsize
+Tositscidedn:::txtsize --> IbhahrnrccidraHs:::txtsize
+Wuakivtst:::txtsize --> Bisopcluerutt:::txtsize
+Bisopcluerutt:::txtsize --> TsbchioUdetne:::txtsize
+Bisopcluerutt:::txtsize --> Hpdwtmyrr:::txtsize
+Tsertndoaseisun:::txtsize --> Tsongypddrt:::txtsize
+Tsongypddrt:::txtsize --> Traoasega:::txtsize
+Traoasega:::txtsize --> Tseraenn:::txtsize
+Traoasega:::txtsize --> Ptbusuert:::txtsize
+Tsongypddrt:::txtsize --> Twaehnnnict:::txtsize
+Twaehnnnict:::txtsize --> Tdoiidniglho:::txtsize
+Twaehnnnict:::txtsize --> Tdoiidniglho:::txtsize
 
 ```
-<i>Last updated: 2025-12-03 04:00:43.232542 (GMT+8)</i>
+<i>Last updated: 2025-12-03 08:01:06.346218 (GMT+8)</i>
 <!-- END -->
