@@ -16,135 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Gstscrregw@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:55 PM_
-Gazans race to preserve cultural heritage damaged in war" }
-Vdtarheowoa@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:15 AM_
-Vr headsets take war-scarred children to world away from gaza" }
-Tafdiahesle@{ shape: win-pane, label: "_Published Aug 18, 2025, 05:35 PM_
-The trauma of childhood in gaza: no school, few toys, little hope" }
-IludpsrGowog@{ shape: win-pane, label: "_Published Jul 27, 2025, 02:43 PM_
-Israel announces daily pauses in parts of gaza to allow aid for hungry" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-BeoeieSpoe@{ shape: win-pane, label: "_Published Nov 29, 2025, 10:30 AM_
-Big dreams for palestinian teens at singapore robot fest" }
-Sapnirliiopelnnm@{ shape: win-pane, label: "_Published Oct 09, 2025, 06:50 PM_
-Scholarships among various ground-led initiatives to help people of palestine: shanmugam" }
-Sposhotoslnme@{ shape: win-pane, label: "_Published Nov 12, 2025, 02:05 PM_
-Singapore donates $250,000 worth of prosthetic products to palestinian amputees" }
-Ililehitornlausz@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:10 AM_
-Israel says it killed over 40 fighters in past week of operations to clear hamas’ tunnels in gaza" }
-kdnoaeyair@{ shape: win-pane, label: "_Published Nov 30, 2025, 06:15 PM_
-4 killed coming out of gaza tunnels, says israeli military" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-TmninGhntfr@{ shape: win-pane, label: "_Published Oct 27, 2023, 01:16 AM_
-The hamas tunnel city beneath gaza – a hidden front line for israel" }
-Iloiinasfnno@{ shape: win-pane, label: "_Published Oct 15, 2023, 06:00 AM_
-Israeli troops wait in fields near gaza in sign of imminent invasion" }
-Bnbthgeaoaerdia@{ shape: win-pane, label: "_Published Oct 24, 2023, 05:42 PM_
-Beaten when being taken hostage, freed israeli woman says she was treated well in gaza" }
-
-Gstscrregw:::txtsize --> Vdtarheowoa:::txtsize
-Vdtarheowoa:::txtsize --> Tafdiahesle:::txtsize
-Tafdiahesle:::txtsize --> IludpsrGowog:::txtsize
-Tafdiahesle:::txtsize --> NyeeawHakl:::txtsize
-Vdtarheowoa:::txtsize --> BeoeieSpoe:::txtsize
-BeoeieSpoe:::txtsize --> Sapnirliiopelnnm:::txtsize
-BeoeieSpoe:::txtsize --> Sposhotoslnme:::txtsize
-Gstscrregw:::txtsize --> Ililehitornlausz:::txtsize
-Ililehitornlausz:::txtsize --> kdnoaeyair:::txtsize
-kdnoaeyair:::txtsize --> TssHaossaaorslaoe:::txtsize
-kdnoaeyair:::txtsize --> NyeeawHakl:::txtsize
-Ililehitornlausz:::txtsize --> TmninGhntfr:::txtsize
-TmninGhntfr:::txtsize --> Iloiinasfnno:::txtsize
-TmninGhntfr:::txtsize --> Bnbthgeaoaerdia:::txtsize
-
-Risseidic@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:45 PM_
-Romania says it destroyed maritime drone in black sea" }
-UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
-Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
-Skleokusnde@{ shape: win-pane, label: "_Published Dec 17, 2024, 03:10 AM_
-Stricken oil tankers show risks of russia’s ageing ‘shadow fleet’" }
-Raklnmliohi@{ shape: win-pane, label: "_Published Dec 15, 2024, 11:35 PM_
-Russian tanker splits in storm, spilling oil into kerch strait" }
-ZsysdyorrriKrn@{ shape: win-pane, label: "_Published Dec 14, 2024, 11:25 PM_
-Zelensky says russia is deploying more north korean troops in its kursk region" }
-SiRadentokfler@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:04 AM_
-Sanctioned russian ‘shadow fleet’ tanker at risk of sinking after blast near turkey" }
-Skleokusnde@{ shape: win-pane, label: "_Published Dec 17, 2024, 03:10 AM_
-Stricken oil tankers show risks of russia’s ageing ‘shadow fleet’" }
-PwEeuwesleu@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:45 PM_
-Putin warns europe: if you want war, then russia will defeat you" }
-UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
-Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
-Skleokusnde@{ shape: win-pane, label: "_Published Dec 17, 2024, 03:10 AM_
-Stricken oil tankers show risks of russia’s ageing ‘shadow fleet’" }
-SiRadentokfler@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:04 AM_
-Sanctioned russian ‘shadow fleet’ tanker at risk of sinking after blast near turkey" }
-TstUnrssllu@{ shape: win-pane, label: "_Published Dec 02, 2025, 02:04 PM_
-Trump’s push to end ukraine war raises fears of ‘ugly deal’ for europe" }
+Tsiafeiotlo@{ shape: win-pane, label: "_Published Dec 04, 2025, 02:55 AM_
+Trump’s ukraine peace effort tests his unconventional diplomacy" }
 Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
 Trump’s 28-point ukraine plan" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
+Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
+Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
+EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
+Europeans push back at us plan that would force concessions from ukraine" }
+Atdretahfunceni@{ shape: win-pane, label: "_Published Nov 20, 2025, 09:24 PM_
+A relative’s desperate search then fading hope after russian attack in western ukraine" }
+Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
+Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
+EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
+Europeans push back at us plan that would force concessions from ukraine" }
+Atdretahfunceni@{ shape: win-pane, label: "_Published Nov 20, 2025, 09:24 PM_
+A relative’s desperate search then fading hope after russian attack in western ukraine" }
+Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
+Us peace plan for ukraine drew from russian document, sources say" }
+Tsodirisohe@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:30 AM_
+Trump says no firm deadline for ukraine, russia to reach peace deal" }
+Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
+Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
+Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
+Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
+UnlyorpfStd@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:08 AM_
+Ukraine’s zelensky welcomes ‘principles’ of new us draft to end war" }
+Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
+Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
+Feryaoilnoeewke@{ shape: win-pane, label: "_Published Nov 26, 2025, 03:17 AM_
+France’s macron says ‘clearly no russian willingness to agree ceasefire’ with ukraine" }
 
-Risseidic:::txtsize --> UntaluneBScyca:::txtsize
-UntaluneBScyca:::txtsize --> Skleokusnde:::txtsize
-Skleokusnde:::txtsize --> Raklnmliohi:::txtsize
-Skleokusnde:::txtsize --> ZsysdyorrriKrn:::txtsize
-UntaluneBScyca:::txtsize --> SiRadentokfler:::txtsize
-SiRadentokfler:::txtsize --> Skleokusnde:::txtsize
-Risseidic:::txtsize --> PwEeuwesleu:::txtsize
-PwEeuwesleu:::txtsize --> UntaluneBScyca:::txtsize
-UntaluneBScyca:::txtsize --> Skleokusnde:::txtsize
-UntaluneBScyca:::txtsize --> SiRadentokfler:::txtsize
-PwEeuwesleu:::txtsize --> TstUnrssllu:::txtsize
-TstUnrssllu:::txtsize --> Tstia:::txtsize
-TstUnrssllu:::txtsize --> DsruasvUn:::txtsize
+Tsiafeiotlo:::txtsize --> Tstia:::txtsize
+Tstia:::txtsize --> Zsarskbdaosb:::txtsize
+Zsarskbdaosb:::txtsize --> EeucStooosfke:::txtsize
+Zsarskbdaosb:::txtsize --> Atdretahfunceni:::txtsize
+Tstia:::txtsize --> Zsarskbdaosb:::txtsize
+Zsarskbdaosb:::txtsize --> EeucStooosfke:::txtsize
+Zsarskbdaosb:::txtsize --> Atdretahfunceni:::txtsize
+Tsiafeiotlo:::txtsize --> Ucnkefunmos:::txtsize
+Ucnkefunmos:::txtsize --> Tsodirisohe:::txtsize
+Tsodirisohe:::txtsize --> Zsyaeonaalusdthp:::txtsize
+Tsodirisohe:::txtsize --> Zsyaeonaalusdthp:::txtsize
+Ucnkefunmos:::txtsize --> UnlyorpfStd:::txtsize
+UnlyorpfStd:::txtsize --> Zsyaeonaalusdthp:::txtsize
+UnlyorpfStd:::txtsize --> Feryaoilnoeewke:::txtsize
 
-Unlysnefrrrdct@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:10 PM_
-Ukraine’s zelensky seeks urgent renewal of supervisory boards in defence sector" }
-CZslufetarc@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:54 AM_
-Close zelensky ally accused of orchestrating major graft scheme" }
-Unitcdrcsundst@{ shape: win-pane, label: "_Published Nov 11, 2025, 03:20 AM_
-Ukraine anti-graft agency raids energy sector as corruption stand-off escalates" }
-Rakreyknelgh@{ shape: win-pane, label: "_Published Oct 30, 2025, 09:46 PM_
-Russia strikes ukraine energy grid, killing seven, including one child" }
-Unscsreunroeore@{ shape: win-pane, label: "_Published Aug 03, 2025, 12:04 AM_
-Ukraine says it uncovers major drone procurement corruption scheme, 4 people arrested" }
-UnyIoieera@{ shape: win-pane, label: "_Published Sep 03, 2023, 11:00 AM_
-Ukrainian tycoon ihor kolomoisky detained in fraud case" }
-Unlyreufotclee@{ shape: win-pane, label: "_Published Nov 22, 2025, 11:55 PM_
-Ukraine’s zelensky orders defence audit after corruption scandal in energy sector" }
-CZslufetarc@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:54 AM_
-Close zelensky ally accused of orchestrating major graft scheme" }
-Unitcdrcsundst@{ shape: win-pane, label: "_Published Nov 11, 2025, 03:20 AM_
-Ukraine anti-graft agency raids energy sector as corruption stand-off escalates" }
-UnyIoieera@{ shape: win-pane, label: "_Published Sep 03, 2023, 11:00 AM_
-Ukrainian tycoon ihor kolomoisky detained in fraud case" }
-CpsartosUnly@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:15 PM_
-Corruption scandal, court battles pose test for ukraine’s zelensky" }
-UnpCeiaronhwmen@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:51 PM_
-Ukraine suspends cabinet minister as corruption scandal shakes wartime government" }
-UnasnaRaa@{ shape: win-pane, label: "_Published Nov 09, 2025, 08:55 PM_
-Ukraine scrambles for energy after russian attacks" }
+EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
+Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
+Ranaomedrhuaiuv@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
+Russia says no ukraine compromise reached after five-hour putin talks with trump envoys" }
+Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
+Trump’s 28-point ukraine plan" }
+Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
+Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
+Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
+Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
+Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
+Us hails progress in ukraine peace talks but security questions unresolved" }
+ZsarsalUnzruikn@{ shape: win-pane, label: "_Published Nov 23, 2025, 11:53 PM_
+Zelensky thanks trump as us leader blasts ukraine for ‘zero gratitude’ amid talks to end war" }
+Tskeleanwub@{ shape: win-pane, label: "_Published Nov 22, 2025, 04:26 AM_
+Trump says ukraine should accept plan to end war with russia by nov 27" }
 
-Unlysnefrrrdct:::txtsize --> CZslufetarc:::txtsize
-CZslufetarc:::txtsize --> Unitcdrcsundst:::txtsize
-Unitcdrcsundst:::txtsize --> Rakreyknelgh:::txtsize
-Unitcdrcsundst:::txtsize --> Unscsreunroeore:::txtsize
-CZslufetarc:::txtsize --> UnyIoieera:::txtsize
-Unlysnefrrrdct:::txtsize --> Unlyreufotclee:::txtsize
-Unlyreufotclee:::txtsize --> CZslufetarc:::txtsize
-CZslufetarc:::txtsize --> Unitcdrcsundst:::txtsize
-CZslufetarc:::txtsize --> UnyIoieera:::txtsize
-Unlyreufotclee:::txtsize --> CpsartosUnly:::txtsize
-CpsartosUnly:::txtsize --> UnpCeiaronhwmen:::txtsize
-CpsartosUnly:::txtsize --> UnasnaRaa:::txtsize
+EihaDsitnnannsake:::txtsize --> Ranaomedrhuaiuv:::txtsize
+Ranaomedrhuaiuv:::txtsize --> Tstia:::txtsize
+Tstia:::txtsize --> Zsarskbdaosb:::txtsize
+Tstia:::txtsize --> Zsarskbdaosb:::txtsize
+Ranaomedrhuaiuv:::txtsize --> Ulgiaeauuqinl:::txtsize
+Ulgiaeauuqinl:::txtsize --> ZsarsalUnzruikn:::txtsize
+Ulgiaeauuqinl:::txtsize --> Tskeleanwub:::txtsize
+
+Liseafheiorh@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:07 AM_
+Laughing gas probe in france after three teens die in pool car crash" }
+Liseggliooncp@{ shape: win-pane, label: "_Published Apr 01, 2025, 05:00 AM_
+Laughing gas abuse among young people in singapore a concern: medical experts" }
+IaggoaPy@{ shape: win-pane, label: "_Published Dec 11, 2023, 10:30 PM_
+Illegal laughing gas on open sale in pattaya" }
+RaaoggsUsc@{ shape: win-pane, label: "_Published Nov 21, 2022, 07:20 PM_
+Recreational use of 'laughing gas' rising: eu drugs agency" }
+Tariesducbms@{ shape: win-pane, label: "_Published Sep 21, 2023, 04:42 PM_
+Thailand’s prime minister vows to end ‘free use’ of cannabis in 6 months" }
+Taaoiaeugan@{ shape: win-pane, label: "_Published Mar 18, 2025, 08:10 AM_
+Thailand cracks down on illegal sale of laughing gas balloons" }
+IaggoaPy@{ shape: win-pane, label: "_Published Dec 11, 2023, 10:30 PM_
+Illegal laughing gas on open sale in pattaya" }
+RaaoggsUsc@{ shape: win-pane, label: "_Published Nov 21, 2022, 07:20 PM_
+Recreational use of 'laughing gas' rising: eu drugs agency" }
+Taaoiaeugan@{ shape: win-pane, label: "_Published Mar 18, 2025, 08:10 AM_
+Thailand cracks down on illegal sale of laughing gas balloons" }
+IaggoaPy@{ shape: win-pane, label: "_Published Dec 11, 2023, 10:30 PM_
+Illegal laughing gas on open sale in pattaya" }
+RaaoggsUsc@{ shape: win-pane, label: "_Published Nov 21, 2022, 07:20 PM_
+Recreational use of 'laughing gas' rising: eu drugs agency" }
+Tariesducbms@{ shape: win-pane, label: "_Published Sep 21, 2023, 04:42 PM_
+Thailand’s prime minister vows to end ‘free use’ of cannabis in 6 months" }
+RaaoggsUsc@{ shape: win-pane, label: "_Published Nov 21, 2022, 07:20 PM_
+Recreational use of 'laughing gas' rising: eu drugs agency" }
+Mirupivggoiusrok@{ shape: win-pane, label: "_Published Jan 11, 2022, 01:57 PM_
+Moh doing more to curb popularity of vaping among the young, will study nz's cohort ban on smoking" }
+
+Liseafheiorh:::txtsize --> Liseggliooncp:::txtsize
+Liseggliooncp:::txtsize --> IaggoaPy:::txtsize
+IaggoaPy:::txtsize --> RaaoggsUsc:::txtsize
+IaggoaPy:::txtsize --> Tariesducbms:::txtsize
+Liseggliooncp:::txtsize --> Taaoiaeugan:::txtsize
+Taaoiaeugan:::txtsize --> IaggoaPy:::txtsize
+Taaoiaeugan:::txtsize --> RaaoggsUsc:::txtsize
+Liseafheiorh:::txtsize --> Taaoiaeugan:::txtsize
+Taaoiaeugan:::txtsize --> IaggoaPy:::txtsize
+IaggoaPy:::txtsize --> RaaoggsUsc:::txtsize
+IaggoaPy:::txtsize --> Tariesducbms:::txtsize
+Taaoiaeugan:::txtsize --> RaaoggsUsc:::txtsize
+RaaoggsUsc:::txtsize --> Mirupivggoiusrok:::txtsize
 
 ```
-<i>Last updated: 2025-12-04 00:00:50.812772 (GMT+8)</i>
+<i>Last updated: 2025-12-04 04:01:14.229556 (GMT+8)</i>
 <!-- END -->
