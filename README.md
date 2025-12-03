@@ -16,117 +16,129 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Blarisetinl@{ shape: win-pane, label: "_Published Dec 03, 2025, 07:45 AM_
-Brazil’s lula and trump discuss trade, sanctions in phone call" }
-EstobdTlrsrgb@{ shape: win-pane, label: "_Published Nov 26, 2025, 12:29 PM_
-Ex-president bolsonaro behind bars: the fall of brazil’s polarising firebrand" }
-Tsotoroznce@{ shape: win-pane, label: "_Published Nov 21, 2025, 08:58 AM_
-Trump signs order to remove tariffs on brazilian beef, coffee" }
-Uasitnrasna@{ shape: win-pane, label: "_Published Oct 29, 2025, 07:50 AM_
-Us senate passes bill to terminate trump tariffs against brazil" }
-TsitfaaOiaddnli@{ shape: win-pane, label: "_Published Oct 26, 2025, 05:04 AM_
-Trump sets 10% hike in tariffs on canada after ontario’s reagan ad aired during world series" }
-Thtteaaldhas@{ shape: win-pane, label: "_Published Oct 29, 2025, 06:50 AM_
-Trump heads to south korea to face trade talks and north korean missiles" }
+Ucotethsdssny@{ shape: win-pane, label: "_Published Dec 03, 2025, 11:01 AM_
+Us vaccine committee’s hepatitis b changes would be most consequential yet" }
+Usyidcsre@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:25 AM_
+Us fda’s newly appointed drugs chief set to retire" }
+Ulcreeyituuaeole@{ shape: win-pane, label: "_Published Nov 18, 2025, 05:10 AM_
+Us health secretary robert f. kennedy jr tries to tie aluminium in vaccines to food allergies" }
+MaulStryeso@{ shape: win-pane, label: "_Published Sep 04, 2025, 10:20 AM_
+Medical groups call on us health secretary kennedy to step down" }
+FUleheioeepento@{ shape: win-pane, label: "_Published Sep 18, 2025, 01:56 AM_
+Fired us health agency chief testifies about pressure to ‘replace evidence with ideology’" }
+Ucotskoagsstfli@{ shape: win-pane, label: "_Published Aug 28, 2025, 08:08 AM_
+Us cdc chief out after just weeks in role, challenges ouster as four top officials resign" }
+FUdtaweycpy@{ shape: win-pane, label: "_Published Aug 29, 2025, 08:36 AM_
+Fired us cdc director clashed with kennedy on vaccine policy" }
+Rifttiec@{ shape: win-pane, label: "_Published Jan 02, 2025, 05:00 AM_
+Rfk jr is half right about american healthcare" }
+TnTsihzdech@{ shape: win-pane, label: "_Published Nov 20, 2024, 08:11 AM_
+Trump names tv personality mehmet oz as medicare, medicaid chief" }
+MhfoUg@{ shape: win-pane, label: "_Published Jan 04, 2023, 01:44 AM_
+Meet the new faces of the us congress" }
+Maenuual@{ shape: win-pane, label: "_Published Nov 18, 2024, 08:35 AM_
+Mcdonald’s feast undercuts trump health pledge" }
 
-Blarisetinl:::txtsize --> EstobdTlrsrgb:::txtsize
-Blarisetinl:::txtsize --> Tsotoroznce:::txtsize
-Tsotoroznce:::txtsize --> Uasitnrasna:::txtsize
-Uasitnrasna:::txtsize --> TsitfaaOiaddnli:::txtsize
-Uasitnrasna:::txtsize --> Thtteaaldhas:::txtsize
+Ucotethsdssny:::txtsize --> Usyidcsre:::txtsize
+Usyidcsre:::txtsize --> Ulcreeyituuaeole:::txtsize
+Ulcreeyituuaeole:::txtsize --> MaulStryeso:::txtsize
+Usyidcsre:::txtsize --> FUleheioeepento:::txtsize
+FUleheioeepento:::txtsize --> Ucotskoagsstfli:::txtsize
+FUleheioeepento:::txtsize --> FUdtaweycpy:::txtsize
+Ucotethsdssny:::txtsize --> Rifttiec:::txtsize
+Rifttiec:::txtsize --> TnTsihzdech:::txtsize
+TnTsihzdech:::txtsize --> MhfoUg:::txtsize
+TnTsihzdech:::txtsize --> Maenuual:::txtsize
 
-Anlnintldt@{ shape: win-pane, label: "_Published Dec 03, 2025, 07:30 AM_
-Afghan man pleads not guilty in us national guard shooting" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
-Us stops processing afghan immigration requests after attack near white house" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Pfrygkiuregncr@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:35 AM_
-‘pried fingers away from gun’: wikipedia volunteers take down gunman at us conference" }
-Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
-Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
-Ipnsohehrmirgs@{ shape: win-pane, label: "_Published Nov 17, 2025, 04:50 PM_
-In pulpits and pews, catholic churches in the us urge compassion for immigrants" }
-PeieubnUhslit@{ shape: win-pane, label: "_Published Nov 07, 2025, 06:25 PM_
-Pope leo’s critique of trump emboldens top us catholics to help immigrants" }
-AeiGakcmrgmtairgo@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:44 AM_
-Accused national guard attacker faces us murder charge; trump wants to halt ‘third world’ migration" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
-Us stops processing afghan immigration requests after attack near white house" }
-Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
-Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
+UecectnDom@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:40 AM_
+Us wireless carrier at&t commits to ending dei programmes" }
+Utedsfsplageeh@{ shape: win-pane, label: "_Published Jan 22, 2025, 05:18 PM_
+Us govt workers in diversity offices to be put on leave as programmes ordered shut" }
+TcioirdsGi@{ shape: win-pane, label: "_Published Jan 21, 2025, 10:16 AM_
+Trump curtails protections around diversity, lgbtq rights" }
+Asdmseetiralavtge@{ shape: win-pane, label: "_Published Jan 12, 2025, 10:55 AM_
+Apple’s board recommends shareholders vote against proposal to eliminate diversity programmes" }
+MmsbiiomeTiuo@{ shape: win-pane, label: "_Published Jan 11, 2025, 08:43 AM_
+Meta, amazon scale back diversity programmes ahead of trump inauguration" }
+TcioirdsGi@{ shape: win-pane, label: "_Published Jan 21, 2025, 10:16 AM_
+Trump curtails protections around diversity, lgbtq rights" }
+Asdmseetiralavtge@{ shape: win-pane, label: "_Published Jan 12, 2025, 10:55 AM_
+Apple’s board recommends shareholders vote against proposal to eliminate diversity programmes" }
+MmsbiiomeTiuo@{ shape: win-pane, label: "_Published Jan 11, 2025, 08:43 AM_
+Meta, amazon scale back diversity programmes ahead of trump inauguration" }
+MSeiiiegpftoeia@{ shape: win-pane, label: "_Published Oct 17, 2025, 08:50 AM_
+More us universities join mit in rejecting trump’s preferential college funding plan" }
+TosoeftugrtM@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:00 AM_
+Trump offers all colleges preferential funding plan rejected by mit" }
+GngcoetnooT@{ shape: win-pane, label: "_Published Sep 29, 2025, 09:25 AM_
+Give in or fight back? us colleges are torn on how to respond to trump" }
+BUrrtiuasaat@{ shape: win-pane, label: "_Published Oct 16, 2025, 07:00 AM_
+Brown university rejects a white house deal for special treatment" }
+TosoeftugrtM@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:00 AM_
+Trump offers all colleges preferential funding plan rejected by mit" }
+BbetnssugtsT@{ shape: win-pane, label: "_Published Aug 05, 2025, 08:59 AM_
+Badly bruised elite us universities are rushing to cut deals with trump" }
+
+UecectnDom:::txtsize --> Utedsfsplageeh:::txtsize
+Utedsfsplageeh:::txtsize --> TcioirdsGi:::txtsize
+TcioirdsGi:::txtsize --> Asdmseetiralavtge:::txtsize
+TcioirdsGi:::txtsize --> MmsbiiomeTiuo:::txtsize
+Utedsfsplageeh:::txtsize --> TcioirdsGi:::txtsize
+TcioirdsGi:::txtsize --> Asdmseetiralavtge:::txtsize
+TcioirdsGi:::txtsize --> MmsbiiomeTiuo:::txtsize
+UecectnDom:::txtsize --> MSeiiiegpftoeia:::txtsize
+MSeiiiegpftoeia:::txtsize --> TosoeftugrtM:::txtsize
+TosoeftugrtM:::txtsize --> GngcoetnooT:::txtsize
+MSeiiiegpftoeia:::txtsize --> BUrrtiuasaat:::txtsize
+BUrrtiuasaat:::txtsize --> TosoeftugrtM:::txtsize
+BUrrtiuasaat:::txtsize --> BbetnssugtsT:::txtsize
+
+Uslgolirnpoi@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:35 AM_
+Us pauses all immigration applications from 19 non-european countries" }
+Wttragtlit@{ shape: win-pane, label: "_Published Dec 03, 2025, 07:40 AM_
+‘we don’t want them’: trump rages against somali immigrants" }
 Tuaarottiou@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:50 PM_
 Trump uses national guard shooting to cast suspicion on refugees" }
 TsniGmrstogi@{ shape: win-pane, label: "_Published Nov 28, 2025, 09:30 AM_
 Trump says one national guard member in washington shooting has died" }
 TvozrnTWcrfagt@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:11 PM_
 Trump vows to freeze migration from ‘third world countries’ after washington attack" }
+Tsedeaptrtfmina@{ shape: win-pane, label: "_Published Nov 22, 2025, 01:24 PM_
+Trump says he is ending temporary deportation protections for somalis in minnesota" }
+Tpoiraoitmecr@{ shape: win-pane, label: "_Published Nov 15, 2025, 08:54 AM_
+Trump plan could limit green cards for immigrants from travel ban countries" }
+Tseonsifeoe@{ shape: win-pane, label: "_Published Jun 08, 2025, 06:07 PM_
+Trump’s travel ban on 12 countries goes into effect early on june 9" }
+Aaaiiptinylauc@{ shape: win-pane, label: "_Published Dec 03, 2025, 08:20 AM_
+Australia’s anti-migration populist pauline hanson eyes political resurgence" }
+Uslgolirnpoi@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:35 AM_
+Us pauses all immigration applications from 19 non-european countries" }
+Wttragtlit@{ shape: win-pane, label: "_Published Dec 03, 2025, 07:40 AM_
+‘we don’t want them’: trump rages against somali immigrants" }
+Aaaiiptinylauc@{ shape: win-pane, label: "_Published Dec 03, 2025, 08:20 AM_
+Australia’s anti-migration populist pauline hanson eyes political resurgence" }
+FgsiliuHnbiln@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:12 PM_
+Far-right australian politician pauline hanson dons burqa in parliament" }
+Aafgtriwonuii@{ shape: win-pane, label: "_Published Oct 19, 2025, 08:40 PM_
+Australia’s far-right on the march amid growing concerns about immigration" }
+Aasnirntocrn@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:00 AM_
+Australia is losing the immigration debate to political correctness" }
 
-Anlnintldt:::txtsize --> Nnalsiydttteiu:::txtsize
-Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
-Upcnhmteteaats:::txtsize --> Nnalsiydttteiu:::txtsize
-Upcnhmteteaats:::txtsize --> Pfrygkiuregncr:::txtsize
-Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
-Pespnaemipuit:::txtsize --> Ipnsohehrmirgs:::txtsize
-Pespnaemipuit:::txtsize --> PeieubnUhslit:::txtsize
-Anlnintldt:::txtsize --> AeiGakcmrgmtairgo:::txtsize
-AeiGakcmrgmtairgo:::txtsize --> Nnalsiydttteiu:::txtsize
-Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
-Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
-AeiGakcmrgmtairgo:::txtsize --> Tuaarottiou:::txtsize
+Uslgolirnpoi:::txtsize --> Wttragtlit:::txtsize
+Wttragtlit:::txtsize --> Tuaarottiou:::txtsize
 Tuaarottiou:::txtsize --> TsniGmrstogi:::txtsize
 Tuaarottiou:::txtsize --> TvozrnTWcrfagt:::txtsize
-
-Tsertndoaseisun@{ shape: win-pane, label: "_Published Dec 03, 2025, 07:20 AM_
-Trump says he is terminating any pardons, commutations signed by biden using autopen" }
-Wuakivtst@{ shape: win-pane, label: "_Published Jul 15, 2025, 10:40 AM_
-Why trump is attacking biden over autopen signatures" }
-Tositscidedn@{ shape: win-pane, label: "_Published Jun 05, 2025, 08:52 AM_
-Trump orders inquiry into ‘conspiracy’ to hide biden’s health decline" }
-BsleUsteenspc@{ shape: win-pane, label: "_Published Jun 28, 2024, 09:21 AM_
-Biden stumbles in early us presidential debate exchanges as trump pounces" }
-IbhahrnrccidraHs@{ shape: win-pane, label: "_Published Jul 22, 2024, 01:59 AM_
-‘it has been the greatest honour’: biden ends re-election campaign and endorses kamala harris" }
-Bisopcluerutt@{ shape: win-pane, label: "_Published Jan 20, 2025, 09:31 PM_
-Biden issues pardons to protect milley, fauci, cheney from trump retaliation" }
-TsbchioUdetne@{ shape: win-pane, label: "_Published Nov 06, 2024, 07:37 AM_
-Trump set to be elected 47th president of the united states in stunning comeback" }
-Hpdwtmyrr@{ shape: win-pane, label: "_Published Jan 20, 2025, 10:37 AM_
-How us presidents wield their mighty power to pardon" }
-Tsongypddrt@{ shape: win-pane, label: "_Published Nov 29, 2025, 06:07 AM_
-Trump says documents signed by autopen under biden ‘terminated’" }
-Traoasega@{ shape: win-pane, label: "_Published Nov 26, 2025, 11:27 PM_
-Trump rages at report that he is increasingly frail" }
-Tseraenn@{ shape: win-pane, label: "_Published Oct 27, 2025, 05:25 PM_
-Trump says he underwent an mri examination" }
-Ptbusuert@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:05 AM_
-‘piggy’, ‘terrible’: trump lashes out at female reporters" }
-Twaehnnnict@{ shape: win-pane, label: "_Published Jul 18, 2025, 07:00 AM_
-Trump was diagnosed with chronic venous insufficiency. what is it?" }
-Tdoiidniglho@{ shape: win-pane, label: "_Published Jul 18, 2025, 02:46 AM_
-Trump diagnosed with vein condition causing leg swelling: white house" }
-Tdoiidniglho@{ shape: win-pane, label: "_Published Jul 18, 2025, 02:46 AM_
-Trump diagnosed with vein condition causing leg swelling: white house" }
-
-Tsertndoaseisun:::txtsize --> Wuakivtst:::txtsize
-Wuakivtst:::txtsize --> Tositscidedn:::txtsize
-Tositscidedn:::txtsize --> BsleUsteenspc:::txtsize
-Tositscidedn:::txtsize --> IbhahrnrccidraHs:::txtsize
-Wuakivtst:::txtsize --> Bisopcluerutt:::txtsize
-Bisopcluerutt:::txtsize --> TsbchioUdetne:::txtsize
-Bisopcluerutt:::txtsize --> Hpdwtmyrr:::txtsize
-Tsertndoaseisun:::txtsize --> Tsongypddrt:::txtsize
-Tsongypddrt:::txtsize --> Traoasega:::txtsize
-Traoasega:::txtsize --> Tseraenn:::txtsize
-Traoasega:::txtsize --> Ptbusuert:::txtsize
-Tsongypddrt:::txtsize --> Twaehnnnict:::txtsize
-Twaehnnnict:::txtsize --> Tdoiidniglho:::txtsize
-Twaehnnnict:::txtsize --> Tdoiidniglho:::txtsize
+Wttragtlit:::txtsize --> Tsedeaptrtfmina:::txtsize
+Tsedeaptrtfmina:::txtsize --> Tpoiraoitmecr:::txtsize
+Tsedeaptrtfmina:::txtsize --> Tseonsifeoe:::txtsize
+Uslgolirnpoi:::txtsize --> Aaaiiptinylauc:::txtsize
+Aaaiiptinylauc:::txtsize --> Uslgolirnpoi:::txtsize
+Uslgolirnpoi:::txtsize --> Wttragtlit:::txtsize
+Uslgolirnpoi:::txtsize --> Aaaiiptinylauc:::txtsize
+Aaaiiptinylauc:::txtsize --> FgsiliuHnbiln:::txtsize
+FgsiliuHnbiln:::txtsize --> Aafgtriwonuii:::txtsize
+FgsiliuHnbiln:::txtsize --> Aasnirntocrn:::txtsize
 
 ```
-<i>Last updated: 2025-12-03 08:01:06.346218 (GMT+8)</i>
+<i>Last updated: 2025-12-03 12:00:30.152911 (GMT+8)</i>
 <!-- END -->
