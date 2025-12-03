@@ -16,129 +16,135 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ucotethsdssny@{ shape: win-pane, label: "_Published Dec 03, 2025, 11:01 AM_
-Us vaccine committee’s hepatitis b changes would be most consequential yet" }
-Usyidcsre@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:25 AM_
-Us fda’s newly appointed drugs chief set to retire" }
-Ulcreeyituuaeole@{ shape: win-pane, label: "_Published Nov 18, 2025, 05:10 AM_
-Us health secretary robert f. kennedy jr tries to tie aluminium in vaccines to food allergies" }
-MaulStryeso@{ shape: win-pane, label: "_Published Sep 04, 2025, 10:20 AM_
-Medical groups call on us health secretary kennedy to step down" }
-FUleheioeepento@{ shape: win-pane, label: "_Published Sep 18, 2025, 01:56 AM_
-Fired us health agency chief testifies about pressure to ‘replace evidence with ideology’" }
-Ucotskoagsstfli@{ shape: win-pane, label: "_Published Aug 28, 2025, 08:08 AM_
-Us cdc chief out after just weeks in role, challenges ouster as four top officials resign" }
-FUdtaweycpy@{ shape: win-pane, label: "_Published Aug 29, 2025, 08:36 AM_
-Fired us cdc director clashed with kennedy on vaccine policy" }
-Rifttiec@{ shape: win-pane, label: "_Published Jan 02, 2025, 05:00 AM_
-Rfk jr is half right about american healthcare" }
-TnTsihzdech@{ shape: win-pane, label: "_Published Nov 20, 2024, 08:11 AM_
-Trump names tv personality mehmet oz as medicare, medicaid chief" }
-MhfoUg@{ shape: win-pane, label: "_Published Jan 04, 2023, 01:44 AM_
-Meet the new faces of the us congress" }
-Maenuual@{ shape: win-pane, label: "_Published Nov 18, 2024, 08:35 AM_
-Mcdonald’s feast undercuts trump health pledge" }
+Asderfrehpa@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:45 PM_
+Airbus cuts delivery target after troubles with most popular jet" }
+Asiuyea@{ shape: win-pane, label: "_Published Dec 01, 2025, 10:40 PM_
+Airbus confirms ‘quality issue’ on a320 panels" }
+Aseocrdpscoi@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:03 AM_
+Airbus issues major a320 recall; travel disruptions expected worldwide" }
+Spscyuciefsdmeo@{ shape: win-pane, label: "_Published Nov 29, 2025, 11:42 AM_
+21 scoot planes affected by airbus a320 recall; airline says fixes should be completed on nov 29" }
+AaJawmeiAtwsasft@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:15 AM_
+Australia’s jetstar airways impacted by airbus a320 fleet software issue, cancels some flights" }
+Assrnlsaisiita@{ shape: win-pane, label: "_Published Dec 01, 2025, 08:41 AM_
+Airbus makes progress in resolving software crisis as airlines ride out a320 recall" }
+AsaoieexUoidp@{ shape: win-pane, label: "_Published Nov 30, 2025, 08:40 AM_
+Airbus a320 recall: global airlines race to fix jets; us reports little disruption" }
+Anrdexsruassav@{ shape: win-pane, label: "_Published Nov 29, 2025, 03:25 PM_
+Airlines worldwide race to fix a320 jets after airbus recall disrupts global travel" }
+Assrnlsaisiita@{ shape: win-pane, label: "_Published Dec 01, 2025, 08:41 AM_
+Airbus makes progress in resolving software crisis as airlines ride out a320 recall" }
+AsaoieexUoidp@{ shape: win-pane, label: "_Published Nov 30, 2025, 08:40 AM_
+Airbus a320 recall: global airlines race to fix jets; us reports little disruption" }
+Aseocrdpscoi@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:03 AM_
+Airbus issues major a320 recall; travel disruptions expected worldwide" }
+Anrdexsruassav@{ shape: win-pane, label: "_Published Nov 29, 2025, 03:25 PM_
+Airlines worldwide race to fix a320 jets after airbus recall disrupts global travel" }
+Anrdexsruassav@{ shape: win-pane, label: "_Published Nov 29, 2025, 03:25 PM_
+Airlines worldwide race to fix a320 jets after airbus recall disrupts global travel" }
+Astimerts@{ shape: win-pane, label: "_Published Oct 07, 2025, 06:41 PM_
+Airbus a320 ousts boeing 737 as most-delivered jet in history" }
+Spscyuciefsdmeo@{ shape: win-pane, label: "_Published Nov 29, 2025, 11:42 AM_
+21 scoot planes affected by airbus a320 recall; airline says fixes should be completed on nov 29" }
 
-Ucotethsdssny:::txtsize --> Usyidcsre:::txtsize
-Usyidcsre:::txtsize --> Ulcreeyituuaeole:::txtsize
-Ulcreeyituuaeole:::txtsize --> MaulStryeso:::txtsize
-Usyidcsre:::txtsize --> FUleheioeepento:::txtsize
-FUleheioeepento:::txtsize --> Ucotskoagsstfli:::txtsize
-FUleheioeepento:::txtsize --> FUdtaweycpy:::txtsize
-Ucotethsdssny:::txtsize --> Rifttiec:::txtsize
-Rifttiec:::txtsize --> TnTsihzdech:::txtsize
-TnTsihzdech:::txtsize --> MhfoUg:::txtsize
-TnTsihzdech:::txtsize --> Maenuual:::txtsize
+Asderfrehpa:::txtsize --> Asiuyea:::txtsize
+Asiuyea:::txtsize --> Aseocrdpscoi:::txtsize
+Aseocrdpscoi:::txtsize --> Spscyuciefsdmeo:::txtsize
+Aseocrdpscoi:::txtsize --> AaJawmeiAtwsasft:::txtsize
+Asiuyea:::txtsize --> Assrnlsaisiita:::txtsize
+Assrnlsaisiita:::txtsize --> AsaoieexUoidp:::txtsize
+Assrnlsaisiita:::txtsize --> Anrdexsruassav:::txtsize
+Asderfrehpa:::txtsize --> Assrnlsaisiita:::txtsize
+Assrnlsaisiita:::txtsize --> AsaoieexUoidp:::txtsize
+AsaoieexUoidp:::txtsize --> Aseocrdpscoi:::txtsize
+AsaoieexUoidp:::txtsize --> Anrdexsruassav:::txtsize
+Assrnlsaisiita:::txtsize --> Anrdexsruassav:::txtsize
+Anrdexsruassav:::txtsize --> Astimerts:::txtsize
+Anrdexsruassav:::txtsize --> Spscyuciefsdmeo:::txtsize
 
-UecectnDom@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:40 AM_
-Us wireless carrier at&t commits to ending dei programmes" }
-Utedsfsplageeh@{ shape: win-pane, label: "_Published Jan 22, 2025, 05:18 PM_
-Us govt workers in diversity offices to be put on leave as programmes ordered shut" }
-TcioirdsGi@{ shape: win-pane, label: "_Published Jan 21, 2025, 10:16 AM_
-Trump curtails protections around diversity, lgbtq rights" }
-Asdmseetiralavtge@{ shape: win-pane, label: "_Published Jan 12, 2025, 10:55 AM_
-Apple’s board recommends shareholders vote against proposal to eliminate diversity programmes" }
-MmsbiiomeTiuo@{ shape: win-pane, label: "_Published Jan 11, 2025, 08:43 AM_
-Meta, amazon scale back diversity programmes ahead of trump inauguration" }
-TcioirdsGi@{ shape: win-pane, label: "_Published Jan 21, 2025, 10:16 AM_
-Trump curtails protections around diversity, lgbtq rights" }
-Asdmseetiralavtge@{ shape: win-pane, label: "_Published Jan 12, 2025, 10:55 AM_
-Apple’s board recommends shareholders vote against proposal to eliminate diversity programmes" }
-MmsbiiomeTiuo@{ shape: win-pane, label: "_Published Jan 11, 2025, 08:43 AM_
-Meta, amazon scale back diversity programmes ahead of trump inauguration" }
-MSeiiiegpftoeia@{ shape: win-pane, label: "_Published Oct 17, 2025, 08:50 AM_
-More us universities join mit in rejecting trump’s preferential college funding plan" }
-TosoeftugrtM@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:00 AM_
-Trump offers all colleges preferential funding plan rejected by mit" }
-GngcoetnooT@{ shape: win-pane, label: "_Published Sep 29, 2025, 09:25 AM_
-Give in or fight back? us colleges are torn on how to respond to trump" }
-BUrrtiuasaat@{ shape: win-pane, label: "_Published Oct 16, 2025, 07:00 AM_
-Brown university rejects a white house deal for special treatment" }
-TosoeftugrtM@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:00 AM_
-Trump offers all colleges preferential funding plan rejected by mit" }
-BbetnssugtsT@{ shape: win-pane, label: "_Published Aug 05, 2025, 08:59 AM_
-Badly bruised elite us universities are rushing to cut deals with trump" }
+TfsoaeivtacWudfa@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:40 PM_
+Tens of thousands of gazans need medical evacuation, says doctors without borders official" }
+Eesnbrec@{ shape: win-pane, label: "_Published Sep 23, 2025, 04:20 PM_
+Europe talks big on gaza but struggles to act" }
+Eihudctfsmoeina@{ shape: win-pane, label: "_Published Sep 22, 2025, 01:41 AM_
+Explainer: what would wider recognition of palestine mean for palestinians and israel?" }
+BiasiPgcseiaroni@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:34 PM_
+Britain, canada, australia and portugal recognise palestinian state; israel condemns decision" }
+Pgrygssatis@{ shape: win-pane, label: "_Published Sep 22, 2025, 03:41 AM_
+Portugal formally recognises palestinian state, minister says" }
+Goheuyelynksea@{ shape: win-pane, label: "_Published Nov 21, 2025, 07:44 PM_
+Gaza women, children injured by israeli military during shaky ceasefire, msf says" }
+Tafdiahesle@{ shape: win-pane, label: "_Published Aug 18, 2025, 05:35 PM_
+The trauma of childhood in gaza: no school, few toys, little hope" }
+IludpsrGowog@{ shape: win-pane, label: "_Published Jul 27, 2025, 02:43 PM_
+Israel announces daily pauses in parts of gaza to allow aid for hungry" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+IlselsaGansec@{ shape: win-pane, label: "_Published Nov 20, 2025, 01:13 AM_
+Israeli air strikes kill 25 palestinians in gaza, rattling ceasefire, medics say" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+Gtbfiwneta@{ shape: win-pane, label: "_Published Nov 20, 2025, 12:33 AM_
+Gaza storms bring flooding, sewage and misery in tent camps" }
 
-UecectnDom:::txtsize --> Utedsfsplageeh:::txtsize
-Utedsfsplageeh:::txtsize --> TcioirdsGi:::txtsize
-TcioirdsGi:::txtsize --> Asdmseetiralavtge:::txtsize
-TcioirdsGi:::txtsize --> MmsbiiomeTiuo:::txtsize
-Utedsfsplageeh:::txtsize --> TcioirdsGi:::txtsize
-TcioirdsGi:::txtsize --> Asdmseetiralavtge:::txtsize
-TcioirdsGi:::txtsize --> MmsbiiomeTiuo:::txtsize
-UecectnDom:::txtsize --> MSeiiiegpftoeia:::txtsize
-MSeiiiegpftoeia:::txtsize --> TosoeftugrtM:::txtsize
-TosoeftugrtM:::txtsize --> GngcoetnooT:::txtsize
-MSeiiiegpftoeia:::txtsize --> BUrrtiuasaat:::txtsize
-BUrrtiuasaat:::txtsize --> TosoeftugrtM:::txtsize
-BUrrtiuasaat:::txtsize --> BbetnssugtsT:::txtsize
+TfsoaeivtacWudfa:::txtsize --> Eesnbrec:::txtsize
+Eesnbrec:::txtsize --> Eihudctfsmoeina:::txtsize
+Eihudctfsmoeina:::txtsize --> BiasiPgcseiaroni:::txtsize
+Eihudctfsmoeina:::txtsize --> Pgrygssatis:::txtsize
+TfsoaeivtacWudfa:::txtsize --> Goheuyelynksea:::txtsize
+Goheuyelynksea:::txtsize --> Tafdiahesle:::txtsize
+Tafdiahesle:::txtsize --> IludpsrGowog:::txtsize
+Tafdiahesle:::txtsize --> NyeeawHakl:::txtsize
+Goheuyelynksea:::txtsize --> IlselsaGansec:::txtsize
+IlselsaGansec:::txtsize --> Wouaaam:::txtsize
+IlselsaGansec:::txtsize --> Gtbfiwneta:::txtsize
 
-Uslgolirnpoi@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:35 AM_
-Us pauses all immigration applications from 19 non-european countries" }
-Wttragtlit@{ shape: win-pane, label: "_Published Dec 03, 2025, 07:40 AM_
-‘we don’t want them’: trump rages against somali immigrants" }
-Tuaarottiou@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:50 PM_
-Trump uses national guard shooting to cast suspicion on refugees" }
-TsniGmrstogi@{ shape: win-pane, label: "_Published Nov 28, 2025, 09:30 AM_
-Trump says one national guard member in washington shooting has died" }
-TvozrnTWcrfagt@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:11 PM_
-Trump vows to freeze migration from ‘third world countries’ after washington attack" }
-Tsedeaptrtfmina@{ shape: win-pane, label: "_Published Nov 22, 2025, 01:24 PM_
-Trump says he is ending temporary deportation protections for somalis in minnesota" }
-Tpoiraoitmecr@{ shape: win-pane, label: "_Published Nov 15, 2025, 08:54 AM_
-Trump plan could limit green cards for immigrants from travel ban countries" }
-Tseonsifeoe@{ shape: win-pane, label: "_Published Jun 08, 2025, 06:07 PM_
-Trump’s travel ban on 12 countries goes into effect early on june 9" }
-Aaaiiptinylauc@{ shape: win-pane, label: "_Published Dec 03, 2025, 08:20 AM_
-Australia’s anti-migration populist pauline hanson eyes political resurgence" }
-Uslgolirnpoi@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:35 AM_
-Us pauses all immigration applications from 19 non-european countries" }
-Wttragtlit@{ shape: win-pane, label: "_Published Dec 03, 2025, 07:40 AM_
-‘we don’t want them’: trump rages against somali immigrants" }
-Aaaiiptinylauc@{ shape: win-pane, label: "_Published Dec 03, 2025, 08:20 AM_
-Australia’s anti-migration populist pauline hanson eyes political resurgence" }
-FgsiliuHnbiln@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:12 PM_
-Far-right australian politician pauline hanson dons burqa in parliament" }
-Aafgtriwonuii@{ shape: win-pane, label: "_Published Oct 19, 2025, 08:40 PM_
-Australia’s far-right on the march amid growing concerns about immigration" }
-Aasnirntocrn@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:00 AM_
-Australia is losing the immigration debate to political correctness" }
+Ilrnadetotass@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:05 PM_
+Israel says remains hamas handed over not those of last two gaza hostages" }
+Dtrzssselld@{ shape: win-pane, label: "_Published Nov 29, 2025, 11:27 PM_
+Death toll from gaza war surpasses 70,000, as ceasefire largely holds" }
+Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
+Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Pgoihfcfge@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:53 AM_
+Pm wong welcomes first phase of gaza ceasefire agreement" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+IleeeidoseMtHrrr@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:41 PM_
+Israel has returned 15 palestinian bodies to gaza, says health ministry in hamas-run territory" }
+Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
+Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Pgoihfcfge@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:53 AM_
+Pm wong welcomes first phase of gaza ceasefire agreement" }
+GrrswrHvnrs@{ shape: win-pane, label: "_Published Nov 24, 2025, 08:22 PM_
+Gaza truce progress slow as israeli-hamas violence persists" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
 
-Uslgolirnpoi:::txtsize --> Wttragtlit:::txtsize
-Wttragtlit:::txtsize --> Tuaarottiou:::txtsize
-Tuaarottiou:::txtsize --> TsniGmrstogi:::txtsize
-Tuaarottiou:::txtsize --> TvozrnTWcrfagt:::txtsize
-Wttragtlit:::txtsize --> Tsedeaptrtfmina:::txtsize
-Tsedeaptrtfmina:::txtsize --> Tpoiraoitmecr:::txtsize
-Tsedeaptrtfmina:::txtsize --> Tseonsifeoe:::txtsize
-Uslgolirnpoi:::txtsize --> Aaaiiptinylauc:::txtsize
-Aaaiiptinylauc:::txtsize --> Uslgolirnpoi:::txtsize
-Uslgolirnpoi:::txtsize --> Wttragtlit:::txtsize
-Uslgolirnpoi:::txtsize --> Aaaiiptinylauc:::txtsize
-Aaaiiptinylauc:::txtsize --> FgsiliuHnbiln:::txtsize
-FgsiliuHnbiln:::txtsize --> Aafgtriwonuii:::txtsize
-FgsiliuHnbiln:::txtsize --> Aasnirntocrn:::txtsize
+Ilrnadetotass:::txtsize --> Dtrzssselld:::txtsize
+Dtrzssselld:::txtsize --> Iliaeseoewa:::txtsize
+Iliaeseoewa:::txtsize --> TssHaossaaorslaoe:::txtsize
+Iliaeseoewa:::txtsize --> Pgoihfcfge:::txtsize
+Dtrzssselld:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Ilrnadetotass:::txtsize --> IleeeidoseMtHrrr:::txtsize
+IleeeidoseMtHrrr:::txtsize --> Iliaeseoewa:::txtsize
+Iliaeseoewa:::txtsize --> TssHaossaaorslaoe:::txtsize
+Iliaeseoewa:::txtsize --> Pgoihfcfge:::txtsize
+IleeeidoseMtHrrr:::txtsize --> GrrswrHvnrs:::txtsize
+GrrswrHvnrs:::txtsize --> Tdrcaaededlncbs:::txtsize
+GrrswrHvnrs:::txtsize --> AtHfezerydatoGel:::txtsize
 
 ```
-<i>Last updated: 2025-12-03 12:00:30.152911 (GMT+8)</i>
+<i>Last updated: 2025-12-03 16:00:53.813158 (GMT+8)</i>
 <!-- END -->
