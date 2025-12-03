@@ -16,135 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Asderfrehpa@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:45 PM_
-Airbus cuts delivery target after troubles with most popular jet" }
-Asiuyea@{ shape: win-pane, label: "_Published Dec 01, 2025, 10:40 PM_
-Airbus confirms ‘quality issue’ on a320 panels" }
-Aseocrdpscoi@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:03 AM_
-Airbus issues major a320 recall; travel disruptions expected worldwide" }
-Spscyuciefsdmeo@{ shape: win-pane, label: "_Published Nov 29, 2025, 11:42 AM_
-21 scoot planes affected by airbus a320 recall; airline says fixes should be completed on nov 29" }
-AaJawmeiAtwsasft@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:15 AM_
-Australia’s jetstar airways impacted by airbus a320 fleet software issue, cancels some flights" }
-Assrnlsaisiita@{ shape: win-pane, label: "_Published Dec 01, 2025, 08:41 AM_
-Airbus makes progress in resolving software crisis as airlines ride out a320 recall" }
-AsaoieexUoidp@{ shape: win-pane, label: "_Published Nov 30, 2025, 08:40 AM_
-Airbus a320 recall: global airlines race to fix jets; us reports little disruption" }
-Anrdexsruassav@{ shape: win-pane, label: "_Published Nov 29, 2025, 03:25 PM_
-Airlines worldwide race to fix a320 jets after airbus recall disrupts global travel" }
-Assrnlsaisiita@{ shape: win-pane, label: "_Published Dec 01, 2025, 08:41 AM_
-Airbus makes progress in resolving software crisis as airlines ride out a320 recall" }
-AsaoieexUoidp@{ shape: win-pane, label: "_Published Nov 30, 2025, 08:40 AM_
-Airbus a320 recall: global airlines race to fix jets; us reports little disruption" }
-Aseocrdpscoi@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:03 AM_
-Airbus issues major a320 recall; travel disruptions expected worldwide" }
-Anrdexsruassav@{ shape: win-pane, label: "_Published Nov 29, 2025, 03:25 PM_
-Airlines worldwide race to fix a320 jets after airbus recall disrupts global travel" }
-Anrdexsruassav@{ shape: win-pane, label: "_Published Nov 29, 2025, 03:25 PM_
-Airlines worldwide race to fix a320 jets after airbus recall disrupts global travel" }
-Astimerts@{ shape: win-pane, label: "_Published Oct 07, 2025, 06:41 PM_
-Airbus a320 ousts boeing 737 as most-delivered jet in history" }
-Spscyuciefsdmeo@{ shape: win-pane, label: "_Published Nov 29, 2025, 11:42 AM_
-21 scoot planes affected by airbus a320 recall; airline says fixes should be completed on nov 29" }
+WcCvatnrlwposhn@{ shape: win-pane, label: "_Published Dec 03, 2025, 06:50 PM_
+Why macron’s china visit and putin’s india trip will show europe no longer sets the agenda" }
+PsatseUsln@{ shape: win-pane, label: "_Published Dec 03, 2025, 09:25 AM_
+Putin’s india visit tests new delhi’s us-russia balancing act" }
+TslfftiaeopU@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:05 PM_
+Trump’s doubling of tariffs hits india, damages relationship with us" }
+ItnRaitprhsrtcy@{ shape: win-pane, label: "_Published Aug 02, 2025, 07:04 PM_
+India to maintain russian oil imports despite trump threats, government sources say" }
+Wusoreyktkes@{ shape: win-pane, label: "_Published Nov 28, 2025, 04:00 PM_
+Will russia’s economy force a reality check on putin’s ukraine invasion?" }
+Psuwinsaea@{ shape: win-pane, label: "_Published Nov 27, 2025, 11:04 PM_
+Putin says russia will fight on unless ukraine cedes land" }
 
-Asderfrehpa:::txtsize --> Asiuyea:::txtsize
-Asiuyea:::txtsize --> Aseocrdpscoi:::txtsize
-Aseocrdpscoi:::txtsize --> Spscyuciefsdmeo:::txtsize
-Aseocrdpscoi:::txtsize --> AaJawmeiAtwsasft:::txtsize
-Asiuyea:::txtsize --> Assrnlsaisiita:::txtsize
-Assrnlsaisiita:::txtsize --> AsaoieexUoidp:::txtsize
-Assrnlsaisiita:::txtsize --> Anrdexsruassav:::txtsize
-Asderfrehpa:::txtsize --> Assrnlsaisiita:::txtsize
-Assrnlsaisiita:::txtsize --> AsaoieexUoidp:::txtsize
-AsaoieexUoidp:::txtsize --> Aseocrdpscoi:::txtsize
-AsaoieexUoidp:::txtsize --> Anrdexsruassav:::txtsize
-Assrnlsaisiita:::txtsize --> Anrdexsruassav:::txtsize
-Anrdexsruassav:::txtsize --> Astimerts:::txtsize
-Anrdexsruassav:::txtsize --> Spscyuciefsdmeo:::txtsize
+WcCvatnrlwposhn:::txtsize --> PsatseUsln:::txtsize
+PsatseUsln:::txtsize --> TslfftiaeopU:::txtsize
+TslfftiaeopU:::txtsize --> ItnRaitprhsrtcy:::txtsize
+PsatseUsln:::txtsize --> Wusoreyktkes:::txtsize
+Wusoreyktkes:::txtsize --> Psuwinsaea:::txtsize
 
+Kisnpopsnidacnl@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:45 PM_
+Kremlin says putin accepted some us proposals on ukraine and is ready to continue talking" }
+Ranaomedrhuaiuv@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
+Russia says no ukraine compromise reached after five-hour putin talks with trump envoys" }
+Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
+Trump’s 28-point ukraine plan" }
+Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
+Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
+Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
+Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
+Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
+Us hails progress in ukraine peace talks but security questions unresolved" }
+ZsarsalUnzruikn@{ shape: win-pane, label: "_Published Nov 23, 2025, 11:53 PM_
+Zelensky thanks trump as us leader blasts ukraine for ‘zero gratitude’ amid talks to end war" }
+Tskeleanwub@{ shape: win-pane, label: "_Published Nov 22, 2025, 04:26 AM_
+Trump says ukraine should accept plan to end war with russia by nov 27" }
+Raiestiftarctr@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:45 PM_
+Russia’s putin threatens to ‘cut ukraine off from the sea’ after attacks on tankers" }
+UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
+Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
+Skleokusnde@{ shape: win-pane, label: "_Published Dec 17, 2024, 03:10 AM_
+Stricken oil tankers show risks of russia’s ageing ‘shadow fleet’" }
+SiRadentokfler@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:04 AM_
+Sanctioned russian ‘shadow fleet’ tanker at risk of sinking after blast near turkey" }
+Ragartnafehiy@{ shape: win-pane, label: "_Published Dec 02, 2025, 10:00 PM_
+Russian-flagged tanker reports drone attack off turkey, authorities say" }
+UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
+Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
+UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
+Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
+
+Kisnpopsnidacnl:::txtsize --> Ranaomedrhuaiuv:::txtsize
+Ranaomedrhuaiuv:::txtsize --> Tstia:::txtsize
+Tstia:::txtsize --> Zsarskbdaosb:::txtsize
+Tstia:::txtsize --> Zsarskbdaosb:::txtsize
+Ranaomedrhuaiuv:::txtsize --> Ulgiaeauuqinl:::txtsize
+Ulgiaeauuqinl:::txtsize --> ZsarsalUnzruikn:::txtsize
+Ulgiaeauuqinl:::txtsize --> Tskeleanwub:::txtsize
+Kisnpopsnidacnl:::txtsize --> Raiestiftarctr:::txtsize
+Raiestiftarctr:::txtsize --> UntaluneBScyca:::txtsize
+UntaluneBScyca:::txtsize --> Skleokusnde:::txtsize
+UntaluneBScyca:::txtsize --> SiRadentokfler:::txtsize
+Raiestiftarctr:::txtsize --> Ragartnafehiy:::txtsize
+Ragartnafehiy:::txtsize --> UntaluneBScyca:::txtsize
+Ragartnafehiy:::txtsize --> UntaluneBScyca:::txtsize
+
+Iltoaeotma@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:25 PM_
+Israel says to allow gazans to exit to egypt ‘in coming days’" }
+HrruadicrGelwhgt@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:25 PM_
+Historic un resolution accords legitimacy to trump’s gaza peace plan. now for the tough part" }
+UuCipruomzcn@{ shape: win-pane, label: "_Published Nov 18, 2025, 06:27 AM_
+Un security council adopts us resolution on trump’s gaza peace plan" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+AUencfmpome@{ shape: win-pane, label: "_Published Nov 19, 2025, 01:43 PM_
+After un vote, netanyahu calls for hamas’ expulsion from the region" }
+UuCipruomzcn@{ shape: win-pane, label: "_Published Nov 18, 2025, 06:27 AM_
+Un security council adopts us resolution on trump’s gaza peace plan" }
+UecSiustfpa@{ shape: win-pane, label: "_Published Nov 18, 2025, 07:13 PM_
+Un chief welcomes security council’s adoption of trump’s gaza plan" }
 TfsoaeivtacWudfa@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:40 PM_
 Tens of thousands of gazans need medical evacuation, says doctors without borders official" }
 Eesnbrec@{ shape: win-pane, label: "_Published Sep 23, 2025, 04:20 PM_
 Europe talks big on gaza but struggles to act" }
 Eihudctfsmoeina@{ shape: win-pane, label: "_Published Sep 22, 2025, 01:41 AM_
 Explainer: what would wider recognition of palestine mean for palestinians and israel?" }
-BiasiPgcseiaroni@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:34 PM_
-Britain, canada, australia and portugal recognise palestinian state; israel condemns decision" }
-Pgrygssatis@{ shape: win-pane, label: "_Published Sep 22, 2025, 03:41 AM_
-Portugal formally recognises palestinian state, minister says" }
 Goheuyelynksea@{ shape: win-pane, label: "_Published Nov 21, 2025, 07:44 PM_
 Gaza women, children injured by israeli military during shaky ceasefire, msf says" }
 Tafdiahesle@{ shape: win-pane, label: "_Published Aug 18, 2025, 05:35 PM_
 The trauma of childhood in gaza: no school, few toys, little hope" }
-IludpsrGowog@{ shape: win-pane, label: "_Published Jul 27, 2025, 02:43 PM_
-Israel announces daily pauses in parts of gaza to allow aid for hungry" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
 IlselsaGansec@{ shape: win-pane, label: "_Published Nov 20, 2025, 01:13 AM_
 Israeli air strikes kill 25 palestinians in gaza, rattling ceasefire, medics say" }
-Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
-What does trump’s gaza peace plan promise?" }
-Gtbfiwneta@{ shape: win-pane, label: "_Published Nov 20, 2025, 12:33 AM_
-Gaza storms bring flooding, sewage and misery in tent camps" }
 
+Iltoaeotma:::txtsize --> HrruadicrGelwhgt:::txtsize
+HrruadicrGelwhgt:::txtsize --> UuCipruomzcn:::txtsize
+UuCipruomzcn:::txtsize --> Wouaaam:::txtsize
+UuCipruomzcn:::txtsize --> Sbsrcdnacaale:::txtsize
+HrruadicrGelwhgt:::txtsize --> AUencfmpome:::txtsize
+AUencfmpome:::txtsize --> UuCipruomzcn:::txtsize
+AUencfmpome:::txtsize --> UecSiustfpa:::txtsize
+Iltoaeotma:::txtsize --> TfsoaeivtacWudfa:::txtsize
 TfsoaeivtacWudfa:::txtsize --> Eesnbrec:::txtsize
 Eesnbrec:::txtsize --> Eihudctfsmoeina:::txtsize
-Eihudctfsmoeina:::txtsize --> BiasiPgcseiaroni:::txtsize
-Eihudctfsmoeina:::txtsize --> Pgrygssatis:::txtsize
 TfsoaeivtacWudfa:::txtsize --> Goheuyelynksea:::txtsize
 Goheuyelynksea:::txtsize --> Tafdiahesle:::txtsize
-Tafdiahesle:::txtsize --> IludpsrGowog:::txtsize
-Tafdiahesle:::txtsize --> NyeeawHakl:::txtsize
 Goheuyelynksea:::txtsize --> IlselsaGansec:::txtsize
-IlselsaGansec:::txtsize --> Wouaaam:::txtsize
-IlselsaGansec:::txtsize --> Gtbfiwneta:::txtsize
-
-Ilrnadetotass@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:05 PM_
-Israel says remains hamas handed over not those of last two gaza hostages" }
-Dtrzssselld@{ shape: win-pane, label: "_Published Nov 29, 2025, 11:27 PM_
-Death toll from gaza war surpasses 70,000, as ceasefire largely holds" }
-Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
-Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Pgoihfcfge@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:53 AM_
-Pm wong welcomes first phase of gaza ceasefire agreement" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-IleeeidoseMtHrrr@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:41 PM_
-Israel has returned 15 palestinian bodies to gaza, says health ministry in hamas-run territory" }
-Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
-Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Pgoihfcfge@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:53 AM_
-Pm wong welcomes first phase of gaza ceasefire agreement" }
-GrrswrHvnrs@{ shape: win-pane, label: "_Published Nov 24, 2025, 08:22 PM_
-Gaza truce progress slow as israeli-hamas violence persists" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-
-Ilrnadetotass:::txtsize --> Dtrzssselld:::txtsize
-Dtrzssselld:::txtsize --> Iliaeseoewa:::txtsize
-Iliaeseoewa:::txtsize --> TssHaossaaorslaoe:::txtsize
-Iliaeseoewa:::txtsize --> Pgoihfcfge:::txtsize
-Dtrzssselld:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Ilrnadetotass:::txtsize --> IleeeidoseMtHrrr:::txtsize
-IleeeidoseMtHrrr:::txtsize --> Iliaeseoewa:::txtsize
-Iliaeseoewa:::txtsize --> TssHaossaaorslaoe:::txtsize
-Iliaeseoewa:::txtsize --> Pgoihfcfge:::txtsize
-IleeeidoseMtHrrr:::txtsize --> GrrswrHvnrs:::txtsize
-GrrswrHvnrs:::txtsize --> Tdrcaaededlncbs:::txtsize
-GrrswrHvnrs:::txtsize --> AtHfezerydatoGel:::txtsize
 
 ```
-<i>Last updated: 2025-12-03 16:00:53.813158 (GMT+8)</i>
+<i>Last updated: 2025-12-03 20:00:21.924848 (GMT+8)</i>
 <!-- END -->
