@@ -16,135 +16,111 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Nnusaerrclr@{ shape: win-pane, label: "_Published Dec 04, 2025, 11:05 AM_
-Nintendo launches long-awaited metroid prime 4 sci-fi blaster" }
-NnuSpotsnrnagsio@{ shape: win-pane, label: "_Published Nov 28, 2025, 11:25 AM_
-Nintendo studios singapore to be established in 2026 after japanese gaming giant’s acquisition" }
-Nntiomousan@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:59 PM_
-Nintendo sets up singapore arm to boost south-east asia business" }
-NnieTobdinhs@{ shape: win-pane, label: "_Published Jun 26, 2025, 11:35 AM_
-Nintendo switch 2 review: the good, the bad and the middling of the $719 console" }
-Mvriitst@{ shape: win-pane, label: "_Published Jul 15, 2025, 04:15 PM_
-Move over, mario. this cow is nintendo’s new star" }
-Nntiomousan@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:59 PM_
-Nintendo sets up singapore arm to boost south-east asia business" }
-NnieTobdinhs@{ shape: win-pane, label: "_Published Jun 26, 2025, 11:35 AM_
-Nintendo switch 2 review: the good, the bad and the middling of the $719 console" }
-Mvriitst@{ shape: win-pane, label: "_Published Jul 15, 2025, 04:15 PM_
-Move over, mario. this cow is nintendo’s new star" }
-BpLolesFislo@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:45 PM_
-Blackpink’s lisa to headline new season of fortnite festival video game" }
-Heerkmauapopot@{ shape: win-pane, label: "_Published Nov 25, 2025, 01:15 PM_
-Hundreds queue for blackpink merch at pop-up ahead of k-pop group’s s’pore concerts" }
-Bpnavasedolpecr@{ shape: win-pane, label: "_Published Nov 19, 2025, 03:10 PM_
-Blackpink in your area: events across s’pore ahead of k-pop girl group’s november concerts" }
-AstancissOe@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:45 PM_
-At least $6,000 lost to blackpink concert ticket scams since october" }
-Heerkmauapopot@{ shape: win-pane, label: "_Published Nov 25, 2025, 01:15 PM_
-Hundreds queue for blackpink merch at pop-up ahead of k-pop group’s s’pore concerts" }
-Bpnavasedolpecr@{ shape: win-pane, label: "_Published Nov 19, 2025, 03:10 PM_
-Blackpink in your area: events across s’pore ahead of k-pop girl group’s november concerts" }
-AstancissOe@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:45 PM_
-At least $6,000 lost to blackpink concert ticket scams since october" }
+Treljtmstrbna@{ shape: win-pane, label: "_Published Dec 04, 2025, 02:37 PM_
+Tree branches to fleece jackets: chemicals plant in germany bets on biomass" }
+MoimoiSaimcied@{ shape: win-pane, label: "_Published Nov 03, 2025, 05:00 AM_
+More could die from air pollution in s-e asia even if climate action is taken: study" }
+Lhehfealodd@{ shape: win-pane, label: "_Published Mar 07, 2023, 08:59 AM_
+Less than 1% of earth has safe levels of air pollution, study finds" }
+Ptesrnaditis@{ shape: win-pane, label: "_Published Mar 06, 2023, 08:06 PM_
+Pollution returns to northern china as industrial activities rise" }
+Eennrehailny@{ shape: win-pane, label: "_Published Mar 06, 2023, 12:44 PM_
+Even newborns aren’t spared the wrath of dhaka’s air pollution: daily star" }
+Tctoitde@{ shape: win-pane, label: "_Published Aug 09, 2021, 04:42 PM_
+The un climate report's five futures decoded" }
+GliusCinia@{ shape: win-pane, label: "_Published May 27, 2021, 08:53 AM_
+Global warming could pass 1.5 deg c within the next five years: un" }
+Ranghsocne@{ shape: win-pane, label: "_Published Oct 07, 2025, 01:21 PM_
+Renewable energy growth slows due to policy changes: report" }
+Ctlilranbhattlgn@{ shape: win-pane, label: "_Published Sep 24, 2024, 01:25 PM_
+Climate goal to triple global renewable energy by 2030 within reach: international energy agency" }
+Bcctnnunehrtfr@{ shape: win-pane, label: "_Published Jul 03, 2024, 08:11 AM_
+Biden calls climate change denial ‘dumb’, announces new heat protections for workers" }
+Eeleetpsc@{ shape: win-pane, label: "_Published Feb 06, 2024, 03:07 PM_
+Eu unveils 2040 climate targets with deep emissions cut" }
+Ualeeuakfabe@{ shape: win-pane, label: "_Published Jun 30, 2025, 11:41 PM_
+Us senate bill’s clean energy cuts draw backlash from labour, business" }
+Maatisiuoiil@{ shape: win-pane, label: "_Published Jun 29, 2025, 08:35 AM_
+Musk wades back into politics, slamming trump’s domestic policy bill" }
+Fwrtsbntolwoloe@{ shape: win-pane, label: "_Published Jun 30, 2025, 04:36 AM_
+Following trump attacks, republican senator thom tillis bows out of 2026 re-election race" }
 
-Nnusaerrclr:::txtsize --> NnuSpotsnrnagsio:::txtsize
-NnuSpotsnrnagsio:::txtsize --> Nntiomousan:::txtsize
-Nntiomousan:::txtsize --> NnieTobdinhs:::txtsize
-Nntiomousan:::txtsize --> Mvriitst:::txtsize
-NnuSpotsnrnagsio:::txtsize --> Nntiomousan:::txtsize
-Nntiomousan:::txtsize --> NnieTobdinhs:::txtsize
-Nntiomousan:::txtsize --> Mvriitst:::txtsize
-Nnusaerrclr:::txtsize --> BpLolesFislo:::txtsize
-BpLolesFislo:::txtsize --> Heerkmauapopot:::txtsize
-Heerkmauapopot:::txtsize --> Bpnavasedolpecr:::txtsize
-Heerkmauapopot:::txtsize --> AstancissOe:::txtsize
-BpLolesFislo:::txtsize --> Heerkmauapopot:::txtsize
-Heerkmauapopot:::txtsize --> Bpnavasedolpecr:::txtsize
-Heerkmauapopot:::txtsize --> AstancissOe:::txtsize
+Treljtmstrbna:::txtsize --> MoimoiSaimcied:::txtsize
+MoimoiSaimcied:::txtsize --> Lhehfealodd:::txtsize
+Lhehfealodd:::txtsize --> Ptesrnaditis:::txtsize
+Lhehfealodd:::txtsize --> Eennrehailny:::txtsize
+MoimoiSaimcied:::txtsize --> Tctoitde:::txtsize
+Tctoitde:::txtsize --> GliusCinia:::txtsize
+Treljtmstrbna:::txtsize --> Ranghsocne:::txtsize
+Ranghsocne:::txtsize --> Ctlilranbhattlgn:::txtsize
+Ctlilranbhattlgn:::txtsize --> Bcctnnunehrtfr:::txtsize
+Ctlilranbhattlgn:::txtsize --> Eeleetpsc:::txtsize
+Ranghsocne:::txtsize --> Ualeeuakfabe:::txtsize
+Ualeeuakfabe:::txtsize --> Maatisiuoiil:::txtsize
+Ualeeuakfabe:::txtsize --> Fwrtsbntolwoloe:::txtsize
 
-Ferefrtt@{ shape: win-pane, label: "_Published Dec 04, 2025, 10:45 AM_
-France’s macron meets xi for ukraine, trade talks" }
-WcCvatnrlwposhn@{ shape: win-pane, label: "_Published Dec 03, 2025, 06:50 PM_
-Why macron’s china visit and putin’s india trip will show europe no longer sets the agenda" }
-PsatseUsln@{ shape: win-pane, label: "_Published Dec 03, 2025, 09:25 AM_
-Putin’s india visit tests new delhi’s us-russia balancing act" }
-TslfftiaeopU@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:05 PM_
-Trump’s doubling of tariffs hits india, damages relationship with us" }
-Wusoreyktkes@{ shape: win-pane, label: "_Published Nov 28, 2025, 04:00 PM_
-Will russia’s economy force a reality check on putin’s ukraine invasion?" }
-EeaokeuvaMw@{ shape: win-pane, label: "_Published Dec 01, 2025, 11:29 PM_
-Europeans rally round ukraine as trump envoy heads to moscow" }
-Tsoafiseetot@{ shape: win-pane, label: "_Published Dec 01, 2025, 12:19 AM_
-Trump says ‘good chance’ of ukraine-russia peace deal after florida talks" }
-Tseraniteaorbhut@{ shape: win-pane, label: "_Published Sep 03, 2025, 03:19 AM_
-Trump says he is ‘very disappointed’ with putin over ukraine, not worried about china-russia ties" }
-Unpetrsrbitc@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:09 AM_
-Ukraine’s top peace negotiator quits after raid by anti-graft officers" }
-KhtUnttnctntlrl@{ shape: win-pane, label: "_Published Nov 30, 2025, 11:24 PM_
-Kazakhstan tells ukraine to stop attacking black sea terminal after oil exports halted" }
-SoeeaeomRatn@{ shape: win-pane, label: "_Published Nov 30, 2025, 12:02 AM_
-Sea drones reportedly halt operations at major russian oil terminal" }
-UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
-Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
+Aennleayty@{ shape: win-pane, label: "_Published Dec 04, 2025, 02:10 PM_
+Are americans drinking less? new data says yes, but not by much" }
+Aocklhdibh@{ shape: win-pane, label: "_Published Oct 31, 2025, 12:15 PM_
+Alcohol stocks take $1 trillion hit as drinking habits change" }
+PCnrlSpibnn@{ shape: win-pane, label: "_Published Jul 21, 2025, 01:30 PM_
+Proof & company spirits closes singapore distribution business" }
+JrGsmnaloJ@{ shape: win-pane, label: "_Published Jul 01, 2025, 01:30 PM_
+Jigger & pony group’s rosemead and sugarhall to close on july 26" }
+Trwultaptrankaue@{ shape: win-pane, label: "_Published May 02, 2025, 04:00 PM_
+‘the streets were full of laughter’: what happened to clarke quay, keong saik road and club street?" }
 
-Ferefrtt:::txtsize --> WcCvatnrlwposhn:::txtsize
-WcCvatnrlwposhn:::txtsize --> PsatseUsln:::txtsize
-PsatseUsln:::txtsize --> TslfftiaeopU:::txtsize
-PsatseUsln:::txtsize --> Wusoreyktkes:::txtsize
-Ferefrtt:::txtsize --> EeaokeuvaMw:::txtsize
-EeaokeuvaMw:::txtsize --> Tsoafiseetot:::txtsize
-Tsoafiseetot:::txtsize --> Tseraniteaorbhut:::txtsize
-Tsoafiseetot:::txtsize --> Unpetrsrbitc:::txtsize
-EeaokeuvaMw:::txtsize --> KhtUnttnctntlrl:::txtsize
-KhtUnttnctntlrl:::txtsize --> SoeeaeomRatn:::txtsize
-KhtUnttnctntlrl:::txtsize --> UntaluneBScyca:::txtsize
+Aennleayty:::txtsize --> Aocklhdibh:::txtsize
+Aocklhdibh:::txtsize --> PCnrlSpibnn:::txtsize
+PCnrlSpibnn:::txtsize --> JrGsmnaloJ:::txtsize
+PCnrlSpibnn:::txtsize --> Trwultaptrankaue:::txtsize
 
-FHrpdaurhdf@{ shape: win-pane, label: "_Published Dec 04, 2025, 10:45 AM_
-Freed honduran ex-president says trump pardon ‘changed my life’" }
-HroacTiiie@{ shape: win-pane, label: "_Published Dec 01, 2025, 01:54 AM_
-Hondurans vote in an election trump is trying to influence" }
-UgVuMoceoyRllk@{ shape: win-pane, label: "_Published Dec 01, 2025, 05:07 AM_
-Us has given venezuela’s maduro chance to leave country, says republican lawmaker" }
-Tsicvsugztliee@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:19 PM_
-Trump says airspace above and surrounding venezuela to be closed in its entirety" }
-Hunllyoat@{ shape: win-pane, label: "_Published Nov 30, 2025, 12:09 AM_
-How could venezuela’s military respond to a us attack?" }
-PehtGddrartern@{ shape: win-pane, label: "_Published Nov 28, 2025, 02:03 AM_
-Pete hegseth visits uss gerald r. ford aircraft carrier in latin america region" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Uddrngufialhe@{ shape: win-pane, label: "_Published Nov 14, 2025, 06:32 AM_
-Us conducted 20th strike on alleged drug trafficking boat earlier this week" }
-Trdostdr@{ shape: win-pane, label: "_Published Jun 08, 2025, 03:25 PM_
-Trump rewarding loyalists with pardon spree" }
-TpnrlgtUii@{ shape: win-pane, label: "_Published Jan 21, 2025, 09:16 AM_
-Trump pardons nearly all charged with jan 6 us capitol riot" }
-SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
-Hpdwtmyrr@{ shape: win-pane, label: "_Published Jan 20, 2025, 10:37 AM_
-How us presidents wield their mighty power to pardon" }
-Tpnkferflrh@{ shape: win-pane, label: "_Published Jan 22, 2025, 08:59 AM_
-Trump pardons silk road founder ulbricht for online drug scheme" }
-TbacbcrtraiCn@{ shape: win-pane, label: "_Published May 27, 2024, 07:40 AM_
-Trump booed and heckled by raucous crowd at libertarian national convention" }
-TsoloPBtahuyr@{ shape: win-pane, label: "_Published Jan 22, 2025, 05:51 AM_
-Trump’s pardons will embolden proud boys, other far-right groups, say experts" }
+Cdsrndrsgsa@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:10 PM_
+Child deaths will rise in 2025 as aid cuts reverse progress, says gates" }
+Goheuyelynksea@{ shape: win-pane, label: "_Published Nov 21, 2025, 07:44 PM_
+Gaza women, children injured by israeli military during shaky ceasefire, msf says" }
+Tafdiahesle@{ shape: win-pane, label: "_Published Aug 18, 2025, 05:35 PM_
+The trauma of childhood in gaza: no school, few toys, little hope" }
+IludpsrGowog@{ shape: win-pane, label: "_Published Jul 27, 2025, 02:43 PM_
+Israel announces daily pauses in parts of gaza to allow aid for hungry" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+IlselsaGansec@{ shape: win-pane, label: "_Published Nov 20, 2025, 01:13 AM_
+Israeli air strikes kill 25 palestinians in gaza, rattling ceasefire, medics say" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+Gtbfiwneta@{ shape: win-pane, label: "_Published Nov 20, 2025, 12:33 AM_
+Gaza storms bring flooding, sewage and misery in tent camps" }
+Wigawindaas@{ shape: win-pane, label: "_Published Nov 18, 2025, 03:16 AM_
+Who chief urges clampdown on nicotine products aimed at kids" }
+Wteeinauitoi@{ shape: win-pane, label: "_Published Oct 06, 2025, 08:47 PM_
+Who estimates at least 15 million teenagers use e-cigarettes worldwide" }
+YsrEavprsantbpc@{ shape: win-pane, label: "_Published Apr 08, 2025, 03:55 PM_
+Young smokers in s-e asia are giving up cigarettes for vapes and heated tobacco products" }
+Minzcpepedenom@{ shape: win-pane, label: "_Published Oct 03, 2025, 12:24 PM_
+‘my son is going crazy’: mum calls police on vaping 15-year-old, who gets sent to boys’ home" }
+Aaasiltckoirava@{ shape: win-pane, label: "_Published Nov 07, 2025, 07:30 PM_
+Australia battles surging illegal tobacco market as organised crime takes over trade" }
+Aabmtcaimsee@{ shape: win-pane, label: "_Published Mar 30, 2025, 11:54 AM_
+Australian black market tobacco sparks fire bombings, budget hole" }
+Aaecdnnaosees@{ shape: win-pane, label: "_Published Nov 28, 2023, 11:05 AM_
+Australia begins crackdown on vaping, to ban import of single-use devices" }
 
-FHrpdaurhdf:::txtsize --> HroacTiiie:::txtsize
-HroacTiiie:::txtsize --> UgVuMoceoyRllk:::txtsize
-UgVuMoceoyRllk:::txtsize --> Tsicvsugztliee:::txtsize
-UgVuMoceoyRllk:::txtsize --> Hunllyoat:::txtsize
-HroacTiiie:::txtsize --> PehtGddrartern:::txtsize
-PehtGddrartern:::txtsize --> Nnalsiydttteiu:::txtsize
-PehtGddrartern:::txtsize --> Uddrngufialhe:::txtsize
-FHrpdaurhdf:::txtsize --> Trdostdr:::txtsize
-Trdostdr:::txtsize --> TpnrlgtUii:::txtsize
-TpnrlgtUii:::txtsize --> SiUiinenWn:::txtsize
-TpnrlgtUii:::txtsize --> Hpdwtmyrr:::txtsize
-Trdostdr:::txtsize --> Tpnkferflrh:::txtsize
-Tpnkferflrh:::txtsize --> TbacbcrtraiCn:::txtsize
-Tpnkferflrh:::txtsize --> TsoloPBtahuyr:::txtsize
+Cdsrndrsgsa:::txtsize --> Goheuyelynksea:::txtsize
+Goheuyelynksea:::txtsize --> Tafdiahesle:::txtsize
+Tafdiahesle:::txtsize --> IludpsrGowog:::txtsize
+Tafdiahesle:::txtsize --> NyeeawHakl:::txtsize
+Goheuyelynksea:::txtsize --> IlselsaGansec:::txtsize
+IlselsaGansec:::txtsize --> Wouaaam:::txtsize
+IlselsaGansec:::txtsize --> Gtbfiwneta:::txtsize
+Cdsrndrsgsa:::txtsize --> Wigawindaas:::txtsize
+Wigawindaas:::txtsize --> Wteeinauitoi:::txtsize
+Wteeinauitoi:::txtsize --> YsrEavprsantbpc:::txtsize
+Wteeinauitoi:::txtsize --> Minzcpepedenom:::txtsize
+Wigawindaas:::txtsize --> Aaasiltckoirava:::txtsize
+Aaasiltckoirava:::txtsize --> Aabmtcaimsee:::txtsize
+Aaasiltckoirava:::txtsize --> Aaecdnnaosees:::txtsize
 
 ```
-<i>Last updated: 2025-12-04 12:01:01.865978 (GMT+8)</i>
+<i>Last updated: 2025-12-04 16:00:26.321324 (GMT+8)</i>
 <!-- END -->
