@@ -16,114 +16,141 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-RaUnheooeacKa@{ shape: win-pane, label: "_Published Dec 04, 2025, 11:18 PM_
-Russia sent ukrainian children to north korea ‘re-education’ camps, kyiv says" }
-IdsrwnPoamUn@{ shape: win-pane, label: "_Published Mar 17, 2023, 11:58 PM_
-Icc judges issue arrest warrant for putin over war crimes in ukraine" }
-Mriymrrafkria@{ shape: win-pane, label: "_Published Mar 17, 2023, 01:39 AM_
-Mortars, artillery and small arms fire as battle for bakhmut rages in ukraine" }
-Unronlroen@{ shape: win-pane, label: "_Published Mar 15, 2023, 01:12 AM_
-Ukraine starts producing shells for its soviet-era tanks" }
-Wphmiirspiner@{ shape: win-pane, label: "_Published Mar 15, 2023, 06:55 AM_
-White phosphorus munitions fired from russian positions in eastern ukraine" }
-UkefsoruUnhe@{ shape: win-pane, label: "_Published Dec 04, 2025, 06:35 AM_
-Us backs un demand for russia to return abducted ukrainian children" }
-Ranaomedrhuaiuv@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
-Russia says no ukraine compromise reached after five-hour putin talks with trump envoys" }
-Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
-Trump’s 28-point ukraine plan" }
-Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
-Us hails progress in ukraine peace talks but security questions unresolved" }
-Tsiafeiotlo@{ shape: win-pane, label: "_Published Dec 04, 2025, 02:55 AM_
-Trump’s ukraine peace effort tests his unconventional diplomacy" }
-Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
-Trump’s 28-point ukraine plan" }
-Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
-Us peace plan for ukraine drew from russian document, sources say" }
+Dssernlpoiirdr@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:50 AM_
+Drones were spotted near zelensky flight path to dublin, media in ireland report" }
+DsiithChOit@{ shape: win-pane, label: "_Published Sep 23, 2025, 08:52 AM_
+Drone sightings disrupt flights at copenhagen, oslo airports" }
+Eerslcakunrie@{ shape: win-pane, label: "_Published Sep 20, 2025, 03:40 PM_
+European airports snarled by cyber attack, disruption to stretch into sept 21" }
+DAnewietueptsgsi@{ shape: win-pane, label: "_Published Oct 26, 2024, 07:12 AM_
+Delta air lines sues crowdstrike over software update that prompted mass flight disruptions" }
+KpioeaMsityrc@{ shape: win-pane, label: "_Published Mar 25, 2025, 05:25 PM_
+Klia operations not affected after malaysian airport hit by cyber attack" }
+Arohtegfawtsrry@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:16 AM_
+Airport chaos highlights rise in high-profile ransomware attacks, cyber experts say" }
+Eerslcakunrie@{ shape: win-pane, label: "_Published Sep 20, 2025, 03:40 PM_
+European airports snarled by cyber attack, disruption to stretch into sept 21" }
+Titceronttaw@{ shape: win-pane, label: "_Published Sep 18, 2025, 10:20 PM_
+Two british teens charged over london transport hack that lasted weeks" }
+EeatsesPmna@{ shape: win-pane, label: "_Published Sep 01, 2025, 07:39 PM_
+Eu chief’s plane hit by suspected russian gps jamming in bulgaria" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
+Explosions heard in ukraine capital kyiv, other cities" }
+OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
+Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
+Apapoeafe@{ shape: win-pane, label: "_Published Aug 22, 2025, 05:00 AM_
+A trumpian game of ping pong over ukraine’s future" }
+Wteisoseiueguhni@{ shape: win-pane, label: "_Published Aug 20, 2025, 01:15 AM_
+With ‘stop the killing’ instead of ‘ceasefire’, eu tries trump-pleasing language shift on ukraine" }
 
-RaUnheooeacKa:::txtsize --> IdsrwnPoamUn:::txtsize
-IdsrwnPoamUn:::txtsize --> Mriymrrafkria:::txtsize
-Mriymrrafkria:::txtsize --> Unronlroen:::txtsize
-Mriymrrafkria:::txtsize --> Wphmiirspiner:::txtsize
-RaUnheooeacKa:::txtsize --> UkefsoruUnhe:::txtsize
-UkefsoruUnhe:::txtsize --> Ranaomedrhuaiuv:::txtsize
-Ranaomedrhuaiuv:::txtsize --> Tstia:::txtsize
-Ranaomedrhuaiuv:::txtsize --> Ulgiaeauuqinl:::txtsize
-UkefsoruUnhe:::txtsize --> Tsiafeiotlo:::txtsize
-Tsiafeiotlo:::txtsize --> Tstia:::txtsize
-Tsiafeiotlo:::txtsize --> Ucnkefunmos:::txtsize
+Dssernlpoiirdr:::txtsize --> DsiithChOit:::txtsize
+DsiithChOit:::txtsize --> Eerslcakunrie:::txtsize
+Eerslcakunrie:::txtsize --> DAnewietueptsgsi:::txtsize
+Eerslcakunrie:::txtsize --> KpioeaMsityrc:::txtsize
+DsiithChOit:::txtsize --> Arohtegfawtsrry:::txtsize
+Arohtegfawtsrry:::txtsize --> Eerslcakunrie:::txtsize
+Arohtegfawtsrry:::txtsize --> Titceronttaw:::txtsize
+Dssernlpoiirdr:::txtsize --> EeatsesPmna:::txtsize
+EeatsesPmna:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
+DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
+EeatsesPmna:::txtsize --> Apapoeafe:::txtsize
+Apapoeafe:::txtsize --> Wteisoseiueguhni:::txtsize
 
-Smheutiiaeap@{ shape: win-pane, label: "_Published Dec 04, 2025, 11:16 PM_
-Seven more children returned to families in ukraine, melania trump says" }
-UkefsoruUnhe@{ shape: win-pane, label: "_Published Dec 04, 2025, 06:35 AM_
-Us backs un demand for russia to return abducted ukrainian children" }
-Ranaomedrhuaiuv@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
-Russia says no ukraine compromise reached after five-hour putin talks with trump envoys" }
-Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
-Trump’s 28-point ukraine plan" }
-Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
-Us hails progress in ukraine peace talks but security questions unresolved" }
-Tsiafeiotlo@{ shape: win-pane, label: "_Published Dec 04, 2025, 02:55 AM_
-Trump’s ukraine peace effort tests his unconventional diplomacy" }
-Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
-Trump’s 28-point ukraine plan" }
-Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
-Us peace plan for ukraine drew from russian document, sources say" }
-IdsrwnPoamUn@{ shape: win-pane, label: "_Published Mar 17, 2023, 11:58 PM_
-Icc judges issue arrest warrant for putin over war crimes in ukraine" }
-Mriymrrafkria@{ shape: win-pane, label: "_Published Mar 17, 2023, 01:39 AM_
-Mortars, artillery and small arms fire as battle for bakhmut rages in ukraine" }
-Unronlroen@{ shape: win-pane, label: "_Published Mar 15, 2023, 01:12 AM_
-Ukraine starts producing shells for its soviet-era tanks" }
-Wphmiirspiner@{ shape: win-pane, label: "_Published Mar 15, 2023, 06:55 AM_
-White phosphorus munitions fired from russian positions in eastern ukraine" }
+Nogptgtibhstme@{ shape: win-pane, label: "_Published Dec 05, 2025, 01:45 AM_
+Nato looking to be proactive against russian ‘hybrid threats’, says top commander" }
+PduyrneayteRaee@{ shape: win-pane, label: "_Published Nov 18, 2025, 10:03 PM_
+Poland’s pm tusk says two responsible for railway blast worked for russian intelligence" }
+Pdeonlnrsabe@{ shape: win-pane, label: "_Published Nov 17, 2025, 04:32 PM_
+Poland suspects ‘foreign intelligence services’ for rail sabotage" }
+Pdceitiomsa@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:25 PM_
+Poland launches new military training programme, aims to train 400,000 in 2026" }
+PdileBudogo@{ shape: win-pane, label: "_Published Nov 14, 2025, 04:56 PM_
+Poland says it will reopen two belarus border crossings on nov 17" }
+Pdeonlnrsabe@{ shape: win-pane, label: "_Published Nov 17, 2025, 04:32 PM_
+Poland suspects ‘foreign intelligence services’ for rail sabotage" }
+Pdceitiomsa@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:25 PM_
+Poland launches new military training programme, aims to train 400,000 in 2026" }
+PdileBudogo@{ shape: win-pane, label: "_Published Nov 14, 2025, 04:56 PM_
+Poland says it will reopen two belarus border crossings on nov 17" }
+Dssernlpoiirdr@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:50 AM_
+Drones were spotted near zelensky flight path to dublin, media in ireland report" }
+DsiithChOit@{ shape: win-pane, label: "_Published Sep 23, 2025, 08:52 AM_
+Drone sightings disrupt flights at copenhagen, oslo airports" }
+Eerslcakunrie@{ shape: win-pane, label: "_Published Sep 20, 2025, 03:40 PM_
+European airports snarled by cyber attack, disruption to stretch into sept 21" }
+Arohtegfawtsrry@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:16 AM_
+Airport chaos highlights rise in high-profile ransomware attacks, cyber experts say" }
+EeatsesPmna@{ shape: win-pane, label: "_Published Sep 01, 2025, 07:39 PM_
+Eu chief’s plane hit by suspected russian gps jamming in bulgaria" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Apapoeafe@{ shape: win-pane, label: "_Published Aug 22, 2025, 05:00 AM_
+A trumpian game of ping pong over ukraine’s future" }
 
-Smheutiiaeap:::txtsize --> UkefsoruUnhe:::txtsize
-UkefsoruUnhe:::txtsize --> Ranaomedrhuaiuv:::txtsize
-Ranaomedrhuaiuv:::txtsize --> Tstia:::txtsize
-Ranaomedrhuaiuv:::txtsize --> Ulgiaeauuqinl:::txtsize
-UkefsoruUnhe:::txtsize --> Tsiafeiotlo:::txtsize
-Tsiafeiotlo:::txtsize --> Tstia:::txtsize
-Tsiafeiotlo:::txtsize --> Ucnkefunmos:::txtsize
-Smheutiiaeap:::txtsize --> IdsrwnPoamUn:::txtsize
-IdsrwnPoamUn:::txtsize --> Mriymrrafkria:::txtsize
-Mriymrrafkria:::txtsize --> Unronlroen:::txtsize
-Mriymrrafkria:::txtsize --> Wphmiirspiner:::txtsize
+Nogptgtibhstme:::txtsize --> PduyrneayteRaee:::txtsize
+PduyrneayteRaee:::txtsize --> Pdeonlnrsabe:::txtsize
+Pdeonlnrsabe:::txtsize --> Pdceitiomsa:::txtsize
+Pdeonlnrsabe:::txtsize --> PdileBudogo:::txtsize
+PduyrneayteRaee:::txtsize --> Pdeonlnrsabe:::txtsize
+Pdeonlnrsabe:::txtsize --> Pdceitiomsa:::txtsize
+Pdeonlnrsabe:::txtsize --> PdileBudogo:::txtsize
+Nogptgtibhstme:::txtsize --> Dssernlpoiirdr:::txtsize
+Dssernlpoiirdr:::txtsize --> DsiithChOit:::txtsize
+DsiithChOit:::txtsize --> Eerslcakunrie:::txtsize
+DsiithChOit:::txtsize --> Arohtegfawtsrry:::txtsize
+Dssernlpoiirdr:::txtsize --> EeatsesPmna:::txtsize
+EeatsesPmna:::txtsize --> DsruasvUn:::txtsize
+EeatsesPmna:::txtsize --> Apapoeafe:::txtsize
 
-MZrpdurveticnse@{ shape: win-pane, label: "_Published Dec 04, 2025, 11:14 PM_
-Meta’s zuckerberg plans deep cuts for metaverse efforts draining company’s resources" }
-Fouettsinsr@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:29 PM_
-Facebook’s ‘supreme court’ admits ‘frustrations’ in 5 years of work" }
-Mtneusslasi@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:40 AM_
-Meta starting to remove under-16s from social media in australia" }
-Hsinaeoid@{ shape: win-pane, label: "_Published Dec 01, 2025, 12:50 PM_
-How australia plans to ban under-16s from social media" }
-Ybswesnulomb@{ shape: win-pane, label: "_Published Dec 03, 2025, 07:35 AM_
-Youtube says kids will be ‘less safe’ under australia’s social media ban" }
-EaarrntrfWA@{ shape: win-pane, label: "_Published Dec 04, 2025, 06:30 PM_
-Eu to launch antitrust probe into meta over use of ai in whatsapp" }
-Mijtsejrno@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:47 PM_
-Meta wins major antitrust case as us judge rules no monopoly" }
-Mubeoesctsarosl@{ shape: win-pane, label: "_Published Apr 15, 2025, 03:35 AM_
-Mark zuckerberg tells court meta has more competitors than antitrust commission claims" }
-Geeeerntvr@{ shape: win-pane, label: "_Published Sep 03, 2025, 05:39 AM_
-Google not required to sell chrome in antitrust victory" }
-GengnyaSes@{ shape: win-pane, label: "_Published Aug 06, 2024, 07:03 AM_
-Google has an illegal monopoly on search, us judge finds" }
-Utemisgshtarny@{ shape: win-pane, label: "_Published Nov 19, 2024, 08:45 AM_
-Us justice department will push google to sell chrome to break search monopoly" }
+Voiriorrlisms@{ shape: win-pane, label: "_Published Dec 05, 2025, 01:36 AM_
+Video of us military strike shows survivors in ‘clear distress’, lawmaker says" }
+UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
+Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
+Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
+Us builds up forces in caribbean as officials, experts, ask why" }
+Ursratnldoi@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:51 AM_
+Us increases reward for arrest of venezeula’s maduro to $64 million" }
+Ursratnldoi@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:51 AM_
+Us increases reward for arrest of venezeula’s maduro to $64 million" }
+VuMoUswieggoy@{ shape: win-pane, label: "_Published Sep 02, 2025, 01:19 AM_
+Venezuela’s maduro says us warships with 1,200 missiles targeting his country" }
+Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
+Us builds up forces in caribbean as officials, experts, ask why" }
+Ursratnldoi@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:51 AM_
+Us increases reward for arrest of venezeula’s maduro to $64 million" }
+PgvaHtrasoei@{ shape: win-pane, label: "_Published Dec 04, 2025, 05:30 AM_
+Pentagon review faults hegseth over signal messages on yemen strikes" }
+WHmkssnliui@{ shape: win-pane, label: "_Published Mar 25, 2025, 04:50 AM_
+White house mistakenly shares yemen war plans with journalist" }
+Hiinuposhrah@{ shape: win-pane, label: "_Published Mar 17, 2025, 03:35 PM_
+‘hell will rain down on you’: trump, the houthis and the us’ proxy war with iran" }
+HicYfsteloofU@{ shape: win-pane, label: "_Published Mar 24, 2025, 07:55 AM_
+Houthi attacks in yemen force ships to make costly detour around africa: us" }
+Pgitsahltnkldb@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:21 AM_
+Pentagon chief pete hegseth says us has ‘only just begun’ striking alleged drug boats" }
+Uirdotoeramzsho@{ shape: win-pane, label: "_Published Dec 02, 2025, 04:09 AM_
+Us admiral ordered follow-up strike on alleged drug boat from venezuela, says white house" }
+UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
+Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
 
-MZrpdurveticnse:::txtsize --> Fouettsinsr:::txtsize
-Fouettsinsr:::txtsize --> Mtneusslasi:::txtsize
-Mtneusslasi:::txtsize --> Hsinaeoid:::txtsize
-Mtneusslasi:::txtsize --> Ybswesnulomb:::txtsize
-MZrpdurveticnse:::txtsize --> EaarrntrfWA:::txtsize
-EaarrntrfWA:::txtsize --> Mijtsejrno:::txtsize
-Mijtsejrno:::txtsize --> Mubeoesctsarosl:::txtsize
-EaarrntrfWA:::txtsize --> Geeeerntvr:::txtsize
-Geeeerntvr:::txtsize --> GengnyaSes:::txtsize
-Geeeerntvr:::txtsize --> Utemisgshtarny:::txtsize
+Voiriorrlisms:::txtsize --> UikperngutVura:::txtsize
+UikperngutVura:::txtsize --> Ulfsrafapay:::txtsize
+Ulfsrafapay:::txtsize --> Ursratnldoi:::txtsize
+Ulfsrafapay:::txtsize --> Ursratnldoi:::txtsize
+UikperngutVura:::txtsize --> VuMoUswieggoy:::txtsize
+VuMoUswieggoy:::txtsize --> Ulfsrafapay:::txtsize
+VuMoUswieggoy:::txtsize --> Ursratnldoi:::txtsize
+Voiriorrlisms:::txtsize --> PgvaHtrasoei:::txtsize
+PgvaHtrasoei:::txtsize --> WHmkssnliui:::txtsize
+WHmkssnliui:::txtsize --> Hiinuposhrah:::txtsize
+WHmkssnliui:::txtsize --> HicYfsteloofU:::txtsize
+PgvaHtrasoei:::txtsize --> Pgitsahltnkldb:::txtsize
+Pgitsahltnkldb:::txtsize --> Uirdotoeramzsho:::txtsize
+Pgitsahltnkldb:::txtsize --> UikperngutVura:::txtsize
 
 ```
-<i>Last updated: 2025-12-05 00:01:14.464584 (GMT+8)</i>
+<i>Last updated: 2025-12-05 04:01:00.162708 (GMT+8)</i>
 <!-- END -->
