@@ -16,120 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-ThCRaeltfa@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:55 PM_
-Trump hosts congo, rwanda leaders in latest push for peace" }
-Tdrzooetum@{ shape: win-pane, label: "_Published Oct 13, 2025, 05:59 AM_
-Trump declares gaza war ‘over’; hostages due to return home" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-TsatnuPaocli@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:45 AM_
-Trump’s name added to us institute of peace ahead of peace deal signing" }
-Tthptcurtm@{ shape: win-pane, label: "_Published Aug 21, 2025, 02:57 AM_
-Trump touts his diplomatic record, but the results are mixed" }
-CPdoTwelee@{ shape: win-pane, label: "_Published Jul 09, 2025, 05:22 AM_
-Can us president donald trump win the nobel peace prize?" }
-TaneetAaam@{ shape: win-pane, label: "_Published Aug 09, 2025, 05:01 AM_
-Trump announces peace deal between azerbaijan and armenia" }
-RaoiaaSdtttst@{ shape: win-pane, label: "_Published Jun 28, 2025, 02:51 AM_
-Rwanda and congo sign peace deal in us to end fighting, attract investment" }
-TcrCRaegstlee@{ shape: win-pane, label: "_Published Jun 21, 2025, 09:40 AM_
-Trump confirms dr congo-rwanda peace deal, gripes about nobel peace prize snub" }
+RaUnheooeacKa@{ shape: win-pane, label: "_Published Dec 04, 2025, 11:18 PM_
+Russia sent ukrainian children to north korea ‘re-education’ camps, kyiv says" }
+IdsrwnPoamUn@{ shape: win-pane, label: "_Published Mar 17, 2023, 11:58 PM_
+Icc judges issue arrest warrant for putin over war crimes in ukraine" }
+Mriymrrafkria@{ shape: win-pane, label: "_Published Mar 17, 2023, 01:39 AM_
+Mortars, artillery and small arms fire as battle for bakhmut rages in ukraine" }
+Unronlroen@{ shape: win-pane, label: "_Published Mar 15, 2023, 01:12 AM_
+Ukraine starts producing shells for its soviet-era tanks" }
+Wphmiirspiner@{ shape: win-pane, label: "_Published Mar 15, 2023, 06:55 AM_
+White phosphorus munitions fired from russian positions in eastern ukraine" }
+UkefsoruUnhe@{ shape: win-pane, label: "_Published Dec 04, 2025, 06:35 AM_
+Us backs un demand for russia to return abducted ukrainian children" }
+Ranaomedrhuaiuv@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
+Russia says no ukraine compromise reached after five-hour putin talks with trump envoys" }
+Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
+Trump’s 28-point ukraine plan" }
+Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
+Us hails progress in ukraine peace talks but security questions unresolved" }
+Tsiafeiotlo@{ shape: win-pane, label: "_Published Dec 04, 2025, 02:55 AM_
+Trump’s ukraine peace effort tests his unconventional diplomacy" }
+Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
+Trump’s 28-point ukraine plan" }
+Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
+Us peace plan for ukraine drew from russian document, sources say" }
 
-ThCRaeltfa:::txtsize --> Tdrzooetum:::txtsize
-Tdrzooetum:::txtsize --> AtHfezerydatoGel:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-ThCRaeltfa:::txtsize --> TsatnuPaocli:::txtsize
-TsatnuPaocli:::txtsize --> Tthptcurtm:::txtsize
-Tthptcurtm:::txtsize --> CPdoTwelee:::txtsize
-Tthptcurtm:::txtsize --> TaneetAaam:::txtsize
-TsatnuPaocli:::txtsize --> RaoiaaSdtttst:::txtsize
-RaoiaaSdtttst:::txtsize --> TcrCRaegstlee:::txtsize
+RaUnheooeacKa:::txtsize --> IdsrwnPoamUn:::txtsize
+IdsrwnPoamUn:::txtsize --> Mriymrrafkria:::txtsize
+Mriymrrafkria:::txtsize --> Unronlroen:::txtsize
+Mriymrrafkria:::txtsize --> Wphmiirspiner:::txtsize
+RaUnheooeacKa:::txtsize --> UkefsoruUnhe:::txtsize
+UkefsoruUnhe:::txtsize --> Ranaomedrhuaiuv:::txtsize
+Ranaomedrhuaiuv:::txtsize --> Tstia:::txtsize
+Ranaomedrhuaiuv:::txtsize --> Ulgiaeauuqinl:::txtsize
+UkefsoruUnhe:::txtsize --> Tsiafeiotlo:::txtsize
+Tsiafeiotlo:::txtsize --> Tstia:::txtsize
+Tsiafeiotlo:::txtsize --> Ucnkefunmos:::txtsize
 
-Vamoeilneaic@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:50 PM_
-Vatican commission votes against allowing women as catholic deacons" }
-PrswVaehawce@{ shape: win-pane, label: "_Published Apr 22, 2025, 06:04 AM_
-Pope francis gave women vatican roles, but held back on wider changes" }
-Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
-Pope francis dies at age 88" }
-Prsdafoaaos@{ shape: win-pane, label: "_Published Mar 23, 2025, 01:28 AM_
-Pope francis to be discharged from hospital on march 23, doctor says" }
-PrsrVaeessl@{ shape: win-pane, label: "_Published Mar 23, 2025, 07:19 PM_
-Pope francis returns to vatican after five weeks in hospital" }
-Prsoodtuyi@{ shape: win-pane, label: "_Published Apr 22, 2025, 03:33 AM_
-Pope francis died of stroke and heart failure, says vatican" }
-Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
-Pope francis dies at age 88" }
-WoehrchpnuVwan@{ shape: win-pane, label: "_Published Apr 22, 2025, 05:00 AM_
-With pope’s death, the church faces a sharp split in its future. vance wants a say in it" }
-Vamawsepthnng@{ shape: win-pane, label: "_Published Oct 27, 2024, 02:22 AM_
-Vatican summit praises women’s leadership, but stops short on women clergy" }
-Aiudsemeoatcc@{ shape: win-pane, label: "_Published Oct 21, 2024, 07:45 PM_
-As vatican summit dodges issue of women clergy, pope francis takes criticism" }
-Paupnsortto@{ shape: win-pane, label: "_Published Mar 08, 2023, 08:59 PM_
-Pope says equal opportunities for women are key to a better world" }
-PsrisretoeaireVam@{ shape: win-pane, label: "_Published Oct 02, 2024, 02:15 AM_
-Pope asks for forgiveness over abuse, treatment of women in catholic church, ahead of vatican summit" }
-Aiudsemeoatcc@{ shape: win-pane, label: "_Published Oct 21, 2024, 07:45 PM_
-As vatican summit dodges issue of women clergy, pope francis takes criticism" }
-Paupnsortto@{ shape: win-pane, label: "_Published Mar 08, 2023, 08:59 PM_
-Pope says equal opportunities for women are key to a better world" }
-PsrisretoeaireVam@{ shape: win-pane, label: "_Published Oct 02, 2024, 02:15 AM_
-Pope asks for forgiveness over abuse, treatment of women in catholic church, ahead of vatican summit" }
+Smheutiiaeap@{ shape: win-pane, label: "_Published Dec 04, 2025, 11:16 PM_
+Seven more children returned to families in ukraine, melania trump says" }
+UkefsoruUnhe@{ shape: win-pane, label: "_Published Dec 04, 2025, 06:35 AM_
+Us backs un demand for russia to return abducted ukrainian children" }
+Ranaomedrhuaiuv@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
+Russia says no ukraine compromise reached after five-hour putin talks with trump envoys" }
+Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
+Trump’s 28-point ukraine plan" }
+Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
+Us hails progress in ukraine peace talks but security questions unresolved" }
+Tsiafeiotlo@{ shape: win-pane, label: "_Published Dec 04, 2025, 02:55 AM_
+Trump’s ukraine peace effort tests his unconventional diplomacy" }
+Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
+Trump’s 28-point ukraine plan" }
+Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
+Us peace plan for ukraine drew from russian document, sources say" }
+IdsrwnPoamUn@{ shape: win-pane, label: "_Published Mar 17, 2023, 11:58 PM_
+Icc judges issue arrest warrant for putin over war crimes in ukraine" }
+Mriymrrafkria@{ shape: win-pane, label: "_Published Mar 17, 2023, 01:39 AM_
+Mortars, artillery and small arms fire as battle for bakhmut rages in ukraine" }
+Unronlroen@{ shape: win-pane, label: "_Published Mar 15, 2023, 01:12 AM_
+Ukraine starts producing shells for its soviet-era tanks" }
+Wphmiirspiner@{ shape: win-pane, label: "_Published Mar 15, 2023, 06:55 AM_
+White phosphorus munitions fired from russian positions in eastern ukraine" }
 
-Vamoeilneaic:::txtsize --> PrswVaehawce:::txtsize
-PrswVaehawce:::txtsize --> Prsa:::txtsize
-Prsa:::txtsize --> Prsdafoaaos:::txtsize
-Prsa:::txtsize --> PrsrVaeessl:::txtsize
-PrswVaehawce:::txtsize --> Prsoodtuyi:::txtsize
-Prsoodtuyi:::txtsize --> Prsa:::txtsize
-Prsoodtuyi:::txtsize --> WoehrchpnuVwan:::txtsize
-Vamoeilneaic:::txtsize --> Vamawsepthnng:::txtsize
-Vamawsepthnng:::txtsize --> Aiudsemeoatcc:::txtsize
-Aiudsemeoatcc:::txtsize --> Paupnsortto:::txtsize
-Aiudsemeoatcc:::txtsize --> PsrisretoeaireVam:::txtsize
-Vamawsepthnng:::txtsize --> Aiudsemeoatcc:::txtsize
-Aiudsemeoatcc:::txtsize --> Paupnsortto:::txtsize
-Aiudsemeoatcc:::txtsize --> PsrisretoeaireVam:::txtsize
+Smheutiiaeap:::txtsize --> UkefsoruUnhe:::txtsize
+UkefsoruUnhe:::txtsize --> Ranaomedrhuaiuv:::txtsize
+Ranaomedrhuaiuv:::txtsize --> Tstia:::txtsize
+Ranaomedrhuaiuv:::txtsize --> Ulgiaeauuqinl:::txtsize
+UkefsoruUnhe:::txtsize --> Tsiafeiotlo:::txtsize
+Tsiafeiotlo:::txtsize --> Tstia:::txtsize
+Tsiafeiotlo:::txtsize --> Ucnkefunmos:::txtsize
+Smheutiiaeap:::txtsize --> IdsrwnPoamUn:::txtsize
+IdsrwnPoamUn:::txtsize --> Mriymrrafkria:::txtsize
+Mriymrrafkria:::txtsize --> Unronlroen:::txtsize
+Mriymrrafkria:::txtsize --> Wphmiirspiner:::txtsize
 
+MZrpdurveticnse@{ shape: win-pane, label: "_Published Dec 04, 2025, 11:14 PM_
+Meta’s zuckerberg plans deep cuts for metaverse efforts draining company’s resources" }
+Fouettsinsr@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:29 PM_
+Facebook’s ‘supreme court’ admits ‘frustrations’ in 5 years of work" }
+Mtneusslasi@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:40 AM_
+Meta starting to remove under-16s from social media in australia" }
+Hsinaeoid@{ shape: win-pane, label: "_Published Dec 01, 2025, 12:50 PM_
+How australia plans to ban under-16s from social media" }
+Ybswesnulomb@{ shape: win-pane, label: "_Published Dec 03, 2025, 07:35 AM_
+Youtube says kids will be ‘less safe’ under australia’s social media ban" }
 EaarrntrfWA@{ shape: win-pane, label: "_Published Dec 04, 2025, 06:30 PM_
 Eu to launch antitrust probe into meta over use of ai in whatsapp" }
 Mijtsejrno@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:47 PM_
 Meta wins major antitrust case as us judge rules no monopoly" }
 Mubeoesctsarosl@{ shape: win-pane, label: "_Published Apr 15, 2025, 03:35 AM_
 Mark zuckerberg tells court meta has more competitors than antitrust commission claims" }
-FonteaphaaraWA@{ shape: win-pane, label: "_Published Apr 14, 2025, 09:19 PM_
-Facebook owner meta faces catastrophic threat at trial over instagram, whatsapp" }
-TEelstrtea@{ shape: win-pane, label: "_Published Apr 13, 2025, 08:35 AM_
-Tech ceos spent millions courting trump. it has yet to pay off" }
 Geeeerntvr@{ shape: win-pane, label: "_Published Sep 03, 2025, 05:39 AM_
 Google not required to sell chrome in antitrust victory" }
 GengnyaSes@{ shape: win-pane, label: "_Published Aug 06, 2024, 07:03 AM_
 Google has an illegal monopoly on search, us judge finds" }
-GelsjwsmStcs@{ shape: win-pane, label: "_Published May 04, 2024, 01:00 PM_
-Google trial wraps up as judge weighs landmark us antitrust claims" }
-OIrgmerriaPhsso@{ shape: win-pane, label: "_Published Jul 26, 2024, 03:55 AM_
-Openai enters google-dominated search market with searchgpt, alphabet shares end lower" }
 Utemisgshtarny@{ shape: win-pane, label: "_Published Nov 19, 2024, 08:45 AM_
 Us justice department will push google to sell chrome to break search monopoly" }
-GengnyaSes@{ shape: win-pane, label: "_Published Aug 06, 2024, 07:03 AM_
-Google has an illegal monopoly on search, us judge finds" }
 
+MZrpdurveticnse:::txtsize --> Fouettsinsr:::txtsize
+Fouettsinsr:::txtsize --> Mtneusslasi:::txtsize
+Mtneusslasi:::txtsize --> Hsinaeoid:::txtsize
+Mtneusslasi:::txtsize --> Ybswesnulomb:::txtsize
+MZrpdurveticnse:::txtsize --> EaarrntrfWA:::txtsize
 EaarrntrfWA:::txtsize --> Mijtsejrno:::txtsize
 Mijtsejrno:::txtsize --> Mubeoesctsarosl:::txtsize
-Mubeoesctsarosl:::txtsize --> FonteaphaaraWA:::txtsize
-Mubeoesctsarosl:::txtsize --> TEelstrtea:::txtsize
 EaarrntrfWA:::txtsize --> Geeeerntvr:::txtsize
 Geeeerntvr:::txtsize --> GengnyaSes:::txtsize
-GengnyaSes:::txtsize --> GelsjwsmStcs:::txtsize
-GengnyaSes:::txtsize --> OIrgmerriaPhsso:::txtsize
 Geeeerntvr:::txtsize --> Utemisgshtarny:::txtsize
-Utemisgshtarny:::txtsize --> GengnyaSes:::txtsize
 
 ```
-<i>Last updated: 2025-12-04 20:00:50.879462 (GMT+8)</i>
+<i>Last updated: 2025-12-05 00:01:14.464584 (GMT+8)</i>
 <!-- END -->
