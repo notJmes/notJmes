@@ -16,111 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Treljtmstrbna@{ shape: win-pane, label: "_Published Dec 04, 2025, 02:37 PM_
-Tree branches to fleece jackets: chemicals plant in germany bets on biomass" }
-MoimoiSaimcied@{ shape: win-pane, label: "_Published Nov 03, 2025, 05:00 AM_
-More could die from air pollution in s-e asia even if climate action is taken: study" }
-Lhehfealodd@{ shape: win-pane, label: "_Published Mar 07, 2023, 08:59 AM_
-Less than 1% of earth has safe levels of air pollution, study finds" }
-Ptesrnaditis@{ shape: win-pane, label: "_Published Mar 06, 2023, 08:06 PM_
-Pollution returns to northern china as industrial activities rise" }
-Eennrehailny@{ shape: win-pane, label: "_Published Mar 06, 2023, 12:44 PM_
-Even newborns aren’t spared the wrath of dhaka’s air pollution: daily star" }
-Tctoitde@{ shape: win-pane, label: "_Published Aug 09, 2021, 04:42 PM_
-The un climate report's five futures decoded" }
-GliusCinia@{ shape: win-pane, label: "_Published May 27, 2021, 08:53 AM_
-Global warming could pass 1.5 deg c within the next five years: un" }
-Ranghsocne@{ shape: win-pane, label: "_Published Oct 07, 2025, 01:21 PM_
-Renewable energy growth slows due to policy changes: report" }
-Ctlilranbhattlgn@{ shape: win-pane, label: "_Published Sep 24, 2024, 01:25 PM_
-Climate goal to triple global renewable energy by 2030 within reach: international energy agency" }
-Bcctnnunehrtfr@{ shape: win-pane, label: "_Published Jul 03, 2024, 08:11 AM_
-Biden calls climate change denial ‘dumb’, announces new heat protections for workers" }
-Eeleetpsc@{ shape: win-pane, label: "_Published Feb 06, 2024, 03:07 PM_
-Eu unveils 2040 climate targets with deep emissions cut" }
-Ualeeuakfabe@{ shape: win-pane, label: "_Published Jun 30, 2025, 11:41 PM_
-Us senate bill’s clean energy cuts draw backlash from labour, business" }
-Maatisiuoiil@{ shape: win-pane, label: "_Published Jun 29, 2025, 08:35 AM_
-Musk wades back into politics, slamming trump’s domestic policy bill" }
-Fwrtsbntolwoloe@{ shape: win-pane, label: "_Published Jun 30, 2025, 04:36 AM_
-Following trump attacks, republican senator thom tillis bows out of 2026 re-election race" }
+ThCRaeltfa@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:55 PM_
+Trump hosts congo, rwanda leaders in latest push for peace" }
+Tdrzooetum@{ shape: win-pane, label: "_Published Oct 13, 2025, 05:59 AM_
+Trump declares gaza war ‘over’; hostages due to return home" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+TsatnuPaocli@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:45 AM_
+Trump’s name added to us institute of peace ahead of peace deal signing" }
+Tthptcurtm@{ shape: win-pane, label: "_Published Aug 21, 2025, 02:57 AM_
+Trump touts his diplomatic record, but the results are mixed" }
+CPdoTwelee@{ shape: win-pane, label: "_Published Jul 09, 2025, 05:22 AM_
+Can us president donald trump win the nobel peace prize?" }
+TaneetAaam@{ shape: win-pane, label: "_Published Aug 09, 2025, 05:01 AM_
+Trump announces peace deal between azerbaijan and armenia" }
+RaoiaaSdtttst@{ shape: win-pane, label: "_Published Jun 28, 2025, 02:51 AM_
+Rwanda and congo sign peace deal in us to end fighting, attract investment" }
+TcrCRaegstlee@{ shape: win-pane, label: "_Published Jun 21, 2025, 09:40 AM_
+Trump confirms dr congo-rwanda peace deal, gripes about nobel peace prize snub" }
 
-Treljtmstrbna:::txtsize --> MoimoiSaimcied:::txtsize
-MoimoiSaimcied:::txtsize --> Lhehfealodd:::txtsize
-Lhehfealodd:::txtsize --> Ptesrnaditis:::txtsize
-Lhehfealodd:::txtsize --> Eennrehailny:::txtsize
-MoimoiSaimcied:::txtsize --> Tctoitde:::txtsize
-Tctoitde:::txtsize --> GliusCinia:::txtsize
-Treljtmstrbna:::txtsize --> Ranghsocne:::txtsize
-Ranghsocne:::txtsize --> Ctlilranbhattlgn:::txtsize
-Ctlilranbhattlgn:::txtsize --> Bcctnnunehrtfr:::txtsize
-Ctlilranbhattlgn:::txtsize --> Eeleetpsc:::txtsize
-Ranghsocne:::txtsize --> Ualeeuakfabe:::txtsize
-Ualeeuakfabe:::txtsize --> Maatisiuoiil:::txtsize
-Ualeeuakfabe:::txtsize --> Fwrtsbntolwoloe:::txtsize
+ThCRaeltfa:::txtsize --> Tdrzooetum:::txtsize
+Tdrzooetum:::txtsize --> AtHfezerydatoGel:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+ThCRaeltfa:::txtsize --> TsatnuPaocli:::txtsize
+TsatnuPaocli:::txtsize --> Tthptcurtm:::txtsize
+Tthptcurtm:::txtsize --> CPdoTwelee:::txtsize
+Tthptcurtm:::txtsize --> TaneetAaam:::txtsize
+TsatnuPaocli:::txtsize --> RaoiaaSdtttst:::txtsize
+RaoiaaSdtttst:::txtsize --> TcrCRaegstlee:::txtsize
 
-Aennleayty@{ shape: win-pane, label: "_Published Dec 04, 2025, 02:10 PM_
-Are americans drinking less? new data says yes, but not by much" }
-Aocklhdibh@{ shape: win-pane, label: "_Published Oct 31, 2025, 12:15 PM_
-Alcohol stocks take $1 trillion hit as drinking habits change" }
-PCnrlSpibnn@{ shape: win-pane, label: "_Published Jul 21, 2025, 01:30 PM_
-Proof & company spirits closes singapore distribution business" }
-JrGsmnaloJ@{ shape: win-pane, label: "_Published Jul 01, 2025, 01:30 PM_
-Jigger & pony group’s rosemead and sugarhall to close on july 26" }
-Trwultaptrankaue@{ shape: win-pane, label: "_Published May 02, 2025, 04:00 PM_
-‘the streets were full of laughter’: what happened to clarke quay, keong saik road and club street?" }
+Vamoeilneaic@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:50 PM_
+Vatican commission votes against allowing women as catholic deacons" }
+PrswVaehawce@{ shape: win-pane, label: "_Published Apr 22, 2025, 06:04 AM_
+Pope francis gave women vatican roles, but held back on wider changes" }
+Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
+Pope francis dies at age 88" }
+Prsdafoaaos@{ shape: win-pane, label: "_Published Mar 23, 2025, 01:28 AM_
+Pope francis to be discharged from hospital on march 23, doctor says" }
+PrsrVaeessl@{ shape: win-pane, label: "_Published Mar 23, 2025, 07:19 PM_
+Pope francis returns to vatican after five weeks in hospital" }
+Prsoodtuyi@{ shape: win-pane, label: "_Published Apr 22, 2025, 03:33 AM_
+Pope francis died of stroke and heart failure, says vatican" }
+Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
+Pope francis dies at age 88" }
+WoehrchpnuVwan@{ shape: win-pane, label: "_Published Apr 22, 2025, 05:00 AM_
+With pope’s death, the church faces a sharp split in its future. vance wants a say in it" }
+Vamawsepthnng@{ shape: win-pane, label: "_Published Oct 27, 2024, 02:22 AM_
+Vatican summit praises women’s leadership, but stops short on women clergy" }
+Aiudsemeoatcc@{ shape: win-pane, label: "_Published Oct 21, 2024, 07:45 PM_
+As vatican summit dodges issue of women clergy, pope francis takes criticism" }
+Paupnsortto@{ shape: win-pane, label: "_Published Mar 08, 2023, 08:59 PM_
+Pope says equal opportunities for women are key to a better world" }
+PsrisretoeaireVam@{ shape: win-pane, label: "_Published Oct 02, 2024, 02:15 AM_
+Pope asks for forgiveness over abuse, treatment of women in catholic church, ahead of vatican summit" }
+Aiudsemeoatcc@{ shape: win-pane, label: "_Published Oct 21, 2024, 07:45 PM_
+As vatican summit dodges issue of women clergy, pope francis takes criticism" }
+Paupnsortto@{ shape: win-pane, label: "_Published Mar 08, 2023, 08:59 PM_
+Pope says equal opportunities for women are key to a better world" }
+PsrisretoeaireVam@{ shape: win-pane, label: "_Published Oct 02, 2024, 02:15 AM_
+Pope asks for forgiveness over abuse, treatment of women in catholic church, ahead of vatican summit" }
 
-Aennleayty:::txtsize --> Aocklhdibh:::txtsize
-Aocklhdibh:::txtsize --> PCnrlSpibnn:::txtsize
-PCnrlSpibnn:::txtsize --> JrGsmnaloJ:::txtsize
-PCnrlSpibnn:::txtsize --> Trwultaptrankaue:::txtsize
+Vamoeilneaic:::txtsize --> PrswVaehawce:::txtsize
+PrswVaehawce:::txtsize --> Prsa:::txtsize
+Prsa:::txtsize --> Prsdafoaaos:::txtsize
+Prsa:::txtsize --> PrsrVaeessl:::txtsize
+PrswVaehawce:::txtsize --> Prsoodtuyi:::txtsize
+Prsoodtuyi:::txtsize --> Prsa:::txtsize
+Prsoodtuyi:::txtsize --> WoehrchpnuVwan:::txtsize
+Vamoeilneaic:::txtsize --> Vamawsepthnng:::txtsize
+Vamawsepthnng:::txtsize --> Aiudsemeoatcc:::txtsize
+Aiudsemeoatcc:::txtsize --> Paupnsortto:::txtsize
+Aiudsemeoatcc:::txtsize --> PsrisretoeaireVam:::txtsize
+Vamawsepthnng:::txtsize --> Aiudsemeoatcc:::txtsize
+Aiudsemeoatcc:::txtsize --> Paupnsortto:::txtsize
+Aiudsemeoatcc:::txtsize --> PsrisretoeaireVam:::txtsize
 
-Cdsrndrsgsa@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:10 PM_
-Child deaths will rise in 2025 as aid cuts reverse progress, says gates" }
-Goheuyelynksea@{ shape: win-pane, label: "_Published Nov 21, 2025, 07:44 PM_
-Gaza women, children injured by israeli military during shaky ceasefire, msf says" }
-Tafdiahesle@{ shape: win-pane, label: "_Published Aug 18, 2025, 05:35 PM_
-The trauma of childhood in gaza: no school, few toys, little hope" }
-IludpsrGowog@{ shape: win-pane, label: "_Published Jul 27, 2025, 02:43 PM_
-Israel announces daily pauses in parts of gaza to allow aid for hungry" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-IlselsaGansec@{ shape: win-pane, label: "_Published Nov 20, 2025, 01:13 AM_
-Israeli air strikes kill 25 palestinians in gaza, rattling ceasefire, medics say" }
-Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
-What does trump’s gaza peace plan promise?" }
-Gtbfiwneta@{ shape: win-pane, label: "_Published Nov 20, 2025, 12:33 AM_
-Gaza storms bring flooding, sewage and misery in tent camps" }
-Wigawindaas@{ shape: win-pane, label: "_Published Nov 18, 2025, 03:16 AM_
-Who chief urges clampdown on nicotine products aimed at kids" }
-Wteeinauitoi@{ shape: win-pane, label: "_Published Oct 06, 2025, 08:47 PM_
-Who estimates at least 15 million teenagers use e-cigarettes worldwide" }
-YsrEavprsantbpc@{ shape: win-pane, label: "_Published Apr 08, 2025, 03:55 PM_
-Young smokers in s-e asia are giving up cigarettes for vapes and heated tobacco products" }
-Minzcpepedenom@{ shape: win-pane, label: "_Published Oct 03, 2025, 12:24 PM_
-‘my son is going crazy’: mum calls police on vaping 15-year-old, who gets sent to boys’ home" }
-Aaasiltckoirava@{ shape: win-pane, label: "_Published Nov 07, 2025, 07:30 PM_
-Australia battles surging illegal tobacco market as organised crime takes over trade" }
-Aabmtcaimsee@{ shape: win-pane, label: "_Published Mar 30, 2025, 11:54 AM_
-Australian black market tobacco sparks fire bombings, budget hole" }
-Aaecdnnaosees@{ shape: win-pane, label: "_Published Nov 28, 2023, 11:05 AM_
-Australia begins crackdown on vaping, to ban import of single-use devices" }
+EaarrntrfWA@{ shape: win-pane, label: "_Published Dec 04, 2025, 06:30 PM_
+Eu to launch antitrust probe into meta over use of ai in whatsapp" }
+Mijtsejrno@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:47 PM_
+Meta wins major antitrust case as us judge rules no monopoly" }
+Mubeoesctsarosl@{ shape: win-pane, label: "_Published Apr 15, 2025, 03:35 AM_
+Mark zuckerberg tells court meta has more competitors than antitrust commission claims" }
+FonteaphaaraWA@{ shape: win-pane, label: "_Published Apr 14, 2025, 09:19 PM_
+Facebook owner meta faces catastrophic threat at trial over instagram, whatsapp" }
+TEelstrtea@{ shape: win-pane, label: "_Published Apr 13, 2025, 08:35 AM_
+Tech ceos spent millions courting trump. it has yet to pay off" }
+Geeeerntvr@{ shape: win-pane, label: "_Published Sep 03, 2025, 05:39 AM_
+Google not required to sell chrome in antitrust victory" }
+GengnyaSes@{ shape: win-pane, label: "_Published Aug 06, 2024, 07:03 AM_
+Google has an illegal monopoly on search, us judge finds" }
+GelsjwsmStcs@{ shape: win-pane, label: "_Published May 04, 2024, 01:00 PM_
+Google trial wraps up as judge weighs landmark us antitrust claims" }
+OIrgmerriaPhsso@{ shape: win-pane, label: "_Published Jul 26, 2024, 03:55 AM_
+Openai enters google-dominated search market with searchgpt, alphabet shares end lower" }
+Utemisgshtarny@{ shape: win-pane, label: "_Published Nov 19, 2024, 08:45 AM_
+Us justice department will push google to sell chrome to break search monopoly" }
+GengnyaSes@{ shape: win-pane, label: "_Published Aug 06, 2024, 07:03 AM_
+Google has an illegal monopoly on search, us judge finds" }
 
-Cdsrndrsgsa:::txtsize --> Goheuyelynksea:::txtsize
-Goheuyelynksea:::txtsize --> Tafdiahesle:::txtsize
-Tafdiahesle:::txtsize --> IludpsrGowog:::txtsize
-Tafdiahesle:::txtsize --> NyeeawHakl:::txtsize
-Goheuyelynksea:::txtsize --> IlselsaGansec:::txtsize
-IlselsaGansec:::txtsize --> Wouaaam:::txtsize
-IlselsaGansec:::txtsize --> Gtbfiwneta:::txtsize
-Cdsrndrsgsa:::txtsize --> Wigawindaas:::txtsize
-Wigawindaas:::txtsize --> Wteeinauitoi:::txtsize
-Wteeinauitoi:::txtsize --> YsrEavprsantbpc:::txtsize
-Wteeinauitoi:::txtsize --> Minzcpepedenom:::txtsize
-Wigawindaas:::txtsize --> Aaasiltckoirava:::txtsize
-Aaasiltckoirava:::txtsize --> Aabmtcaimsee:::txtsize
-Aaasiltckoirava:::txtsize --> Aaecdnnaosees:::txtsize
+EaarrntrfWA:::txtsize --> Mijtsejrno:::txtsize
+Mijtsejrno:::txtsize --> Mubeoesctsarosl:::txtsize
+Mubeoesctsarosl:::txtsize --> FonteaphaaraWA:::txtsize
+Mubeoesctsarosl:::txtsize --> TEelstrtea:::txtsize
+EaarrntrfWA:::txtsize --> Geeeerntvr:::txtsize
+Geeeerntvr:::txtsize --> GengnyaSes:::txtsize
+GengnyaSes:::txtsize --> GelsjwsmStcs:::txtsize
+GengnyaSes:::txtsize --> OIrgmerriaPhsso:::txtsize
+Geeeerntvr:::txtsize --> Utemisgshtarny:::txtsize
+Utemisgshtarny:::txtsize --> GengnyaSes:::txtsize
 
 ```
-<i>Last updated: 2025-12-04 16:00:26.321324 (GMT+8)</i>
+<i>Last updated: 2025-12-04 20:00:50.879462 (GMT+8)</i>
 <!-- END -->
