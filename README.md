@@ -16,120 +16,138 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tsiafeiotlo@{ shape: win-pane, label: "_Published Dec 04, 2025, 02:55 AM_
-Trump’s ukraine peace effort tests his unconventional diplomacy" }
+Ntoaanrrotra@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:38 AM_
+Next steps for ukraine talks unclear after moscow meeting, trump says" }
+Unpetrsrbitc@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:09 AM_
+Ukraine’s top peace negotiator quits after raid by anti-graft officers" }
+Unitcehfncof@{ shape: win-pane, label: "_Published Nov 28, 2025, 04:19 PM_
+Ukraine anti-graft officers search home of zelensky’s chief of staff" }
+Unlydhffacir@{ shape: win-pane, label: "_Published Nov 21, 2025, 05:26 PM_
+Ukraine’s zelensky stands by chief of staff as graft accusations grow" }
+CZslufetarc@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:54 AM_
+Close zelensky ally accused of orchestrating major graft scheme" }
+Unitcdrcsundst@{ shape: win-pane, label: "_Published Nov 11, 2025, 03:20 AM_
+Ukraine anti-graft agency raids energy sector as corruption stand-off escalates" }
+UnyIoieera@{ shape: win-pane, label: "_Published Sep 03, 2023, 11:00 AM_
+Ukrainian tycoon ihor kolomoisky detained in fraud case" }
+PwEeuwesleu@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:45 PM_
+Putin warns europe: if you want war, then russia will defeat you" }
+UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
+Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
+Skleokusnde@{ shape: win-pane, label: "_Published Dec 17, 2024, 03:10 AM_
+Stricken oil tankers show risks of russia’s ageing ‘shadow fleet’" }
+SiRadentokfler@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:04 AM_
+Sanctioned russian ‘shadow fleet’ tanker at risk of sinking after blast near turkey" }
+TstUnrssllu@{ shape: win-pane, label: "_Published Dec 02, 2025, 02:04 PM_
+Trump’s push to end ukraine war raises fears of ‘ugly deal’ for europe" }
 Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
 Trump’s 28-point ukraine plan" }
-Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
-Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
-EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
-Europeans push back at us plan that would force concessions from ukraine" }
-Atdretahfunceni@{ shape: win-pane, label: "_Published Nov 20, 2025, 09:24 PM_
-A relative’s desperate search then fading hope after russian attack in western ukraine" }
-Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
-Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
-EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
-Europeans push back at us plan that would force concessions from ukraine" }
-Atdretahfunceni@{ shape: win-pane, label: "_Published Nov 20, 2025, 09:24 PM_
-A relative’s desperate search then fading hope after russian attack in western ukraine" }
-Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
-Us peace plan for ukraine drew from russian document, sources say" }
-Tsodirisohe@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:30 AM_
-Trump says no firm deadline for ukraine, russia to reach peace deal" }
-Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
-Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
-Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
-Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
-UnlyorpfStd@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:08 AM_
-Ukraine’s zelensky welcomes ‘principles’ of new us draft to end war" }
-Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
-Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
-Feryaoilnoeewke@{ shape: win-pane, label: "_Published Nov 26, 2025, 03:17 AM_
-France’s macron says ‘clearly no russian willingness to agree ceasefire’ with ukraine" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
 
-Tsiafeiotlo:::txtsize --> Tstia:::txtsize
-Tstia:::txtsize --> Zsarskbdaosb:::txtsize
-Zsarskbdaosb:::txtsize --> EeucStooosfke:::txtsize
-Zsarskbdaosb:::txtsize --> Atdretahfunceni:::txtsize
-Tstia:::txtsize --> Zsarskbdaosb:::txtsize
-Zsarskbdaosb:::txtsize --> EeucStooosfke:::txtsize
-Zsarskbdaosb:::txtsize --> Atdretahfunceni:::txtsize
-Tsiafeiotlo:::txtsize --> Ucnkefunmos:::txtsize
-Ucnkefunmos:::txtsize --> Tsodirisohe:::txtsize
-Tsodirisohe:::txtsize --> Zsyaeonaalusdthp:::txtsize
-Tsodirisohe:::txtsize --> Zsyaeonaalusdthp:::txtsize
-Ucnkefunmos:::txtsize --> UnlyorpfStd:::txtsize
-UnlyorpfStd:::txtsize --> Zsyaeonaalusdthp:::txtsize
-UnlyorpfStd:::txtsize --> Feryaoilnoeewke:::txtsize
+Ntoaanrrotra:::txtsize --> Unpetrsrbitc:::txtsize
+Unpetrsrbitc:::txtsize --> Unitcehfncof:::txtsize
+Unitcehfncof:::txtsize --> Unlydhffacir:::txtsize
+Unpetrsrbitc:::txtsize --> CZslufetarc:::txtsize
+CZslufetarc:::txtsize --> Unitcdrcsundst:::txtsize
+CZslufetarc:::txtsize --> UnyIoieera:::txtsize
+Ntoaanrrotra:::txtsize --> PwEeuwesleu:::txtsize
+PwEeuwesleu:::txtsize --> UntaluneBScyca:::txtsize
+UntaluneBScyca:::txtsize --> Skleokusnde:::txtsize
+UntaluneBScyca:::txtsize --> SiRadentokfler:::txtsize
+PwEeuwesleu:::txtsize --> TstUnrssllu:::txtsize
+TstUnrssllu:::txtsize --> Tstia:::txtsize
+TstUnrssllu:::txtsize --> DsruasvUn:::txtsize
 
-EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
-Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
-Ranaomedrhuaiuv@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
-Russia says no ukraine compromise reached after five-hour putin talks with trump envoys" }
-Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
-Trump’s 28-point ukraine plan" }
-Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
-Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
-Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
-Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
-Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
-Us hails progress in ukraine peace talks but security questions unresolved" }
-ZsarsalUnzruikn@{ shape: win-pane, label: "_Published Nov 23, 2025, 11:53 PM_
-Zelensky thanks trump as us leader blasts ukraine for ‘zero gratitude’ amid talks to end war" }
-Tskeleanwub@{ shape: win-pane, label: "_Published Nov 22, 2025, 04:26 AM_
-Trump says ukraine should accept plan to end war with russia by nov 27" }
+Dreeopnosal@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:20 AM_
+Democrats release photos of epstein’s notorious private island" }
+TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
+Trump signs bill ordering us justice department to release epstein files" }
+Ugpsufrspnsitm@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:23 AM_
+Us congress passes measure to force release of epstein files, sending it to trump" }
+Therltsfwrons@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:55 AM_
+Trump has the power to release the epstein files, with or without congress" }
+Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
+Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
+Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
+Epstein files to be released to us public: what are they?" }
+ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
+After trump reversal, us house pushes forward on epstein vote" }
+TskeMewtco@{ shape: win-pane, label: "_Published Nov 18, 2025, 09:15 AM_
+Trump’s frankenstein? us maga meltdown tests its creator" }
+Gaalrspndtcmrc@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:10 AM_
+Ghislaine maxwell says release of epstein grand jury transcript may harm her case" }
+Uanuewhspnaldmi@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:25 AM_
+Us department of justice renews push to unseal epstein and maxwell grand jury materials" }
+ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
+After trump reversal, us house pushes forward on epstein vote" }
+JetructaaSes@{ shape: win-pane, label: "_Published Aug 21, 2025, 02:17 AM_
+Jeffrey epstein grand jury records to remain sealed, us judge rules" }
+TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
+Trump signs bill ordering us justice department to release epstein files" }
+Ugpsufrspnsitm@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:23 AM_
+Us congress passes measure to force release of epstein files, sending it to trump" }
+Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
+Epstein files to be released to us public: what are they?" }
 
-EihaDsitnnannsake:::txtsize --> Ranaomedrhuaiuv:::txtsize
-Ranaomedrhuaiuv:::txtsize --> Tstia:::txtsize
-Tstia:::txtsize --> Zsarskbdaosb:::txtsize
-Tstia:::txtsize --> Zsarskbdaosb:::txtsize
-Ranaomedrhuaiuv:::txtsize --> Ulgiaeauuqinl:::txtsize
-Ulgiaeauuqinl:::txtsize --> ZsarsalUnzruikn:::txtsize
-Ulgiaeauuqinl:::txtsize --> Tskeleanwub:::txtsize
+Dreeopnosal:::txtsize --> TsBrnuertlEie:::txtsize
+TsBrnuertlEie:::txtsize --> Ugpsufrspnsitm:::txtsize
+Ugpsufrspnsitm:::txtsize --> Therltsfwrons:::txtsize
+Ugpsufrspnsitm:::txtsize --> Tdddnersdiinst:::txtsize
+TsBrnuertlEie:::txtsize --> Eieeaobhe:::txtsize
+Eieeaobhe:::txtsize --> ATrsHpsaEie:::txtsize
+Eieeaobhe:::txtsize --> TskeMewtco:::txtsize
+Dreeopnosal:::txtsize --> Gaalrspndtcmrc:::txtsize
+Gaalrspndtcmrc:::txtsize --> Uanuewhspnaldmi:::txtsize
+Uanuewhspnaldmi:::txtsize --> ATrsHpsaEie:::txtsize
+Uanuewhspnaldmi:::txtsize --> JetructaaSes:::txtsize
+Gaalrspndtcmrc:::txtsize --> TsBrnuertlEie:::txtsize
+TsBrnuertlEie:::txtsize --> Ugpsufrspnsitm:::txtsize
+TsBrnuertlEie:::txtsize --> Eieeaobhe:::txtsize
 
-Liseafheiorh@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:07 AM_
-Laughing gas probe in france after three teens die in pool car crash" }
-Liseggliooncp@{ shape: win-pane, label: "_Published Apr 01, 2025, 05:00 AM_
-Laughing gas abuse among young people in singapore a concern: medical experts" }
-IaggoaPy@{ shape: win-pane, label: "_Published Dec 11, 2023, 10:30 PM_
-Illegal laughing gas on open sale in pattaya" }
-RaaoggsUsc@{ shape: win-pane, label: "_Published Nov 21, 2022, 07:20 PM_
-Recreational use of 'laughing gas' rising: eu drugs agency" }
-Tariesducbms@{ shape: win-pane, label: "_Published Sep 21, 2023, 04:42 PM_
-Thailand’s prime minister vows to end ‘free use’ of cannabis in 6 months" }
-Taaoiaeugan@{ shape: win-pane, label: "_Published Mar 18, 2025, 08:10 AM_
-Thailand cracks down on illegal sale of laughing gas balloons" }
-IaggoaPy@{ shape: win-pane, label: "_Published Dec 11, 2023, 10:30 PM_
-Illegal laughing gas on open sale in pattaya" }
-RaaoggsUsc@{ shape: win-pane, label: "_Published Nov 21, 2022, 07:20 PM_
-Recreational use of 'laughing gas' rising: eu drugs agency" }
-Taaoiaeugan@{ shape: win-pane, label: "_Published Mar 18, 2025, 08:10 AM_
-Thailand cracks down on illegal sale of laughing gas balloons" }
-IaggoaPy@{ shape: win-pane, label: "_Published Dec 11, 2023, 10:30 PM_
-Illegal laughing gas on open sale in pattaya" }
-RaaoggsUsc@{ shape: win-pane, label: "_Published Nov 21, 2022, 07:20 PM_
-Recreational use of 'laughing gas' rising: eu drugs agency" }
-Tariesducbms@{ shape: win-pane, label: "_Published Sep 21, 2023, 04:42 PM_
-Thailand’s prime minister vows to end ‘free use’ of cannabis in 6 months" }
-RaaoggsUsc@{ shape: win-pane, label: "_Published Nov 21, 2022, 07:20 PM_
-Recreational use of 'laughing gas' rising: eu drugs agency" }
-Mirupivggoiusrok@{ shape: win-pane, label: "_Published Jan 11, 2022, 01:57 PM_
-Moh doing more to curb popularity of vaping among the young, will study nz's cohort ban on smoking" }
+Iliehgdmsiaarnln@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:20 AM_
+Israel says it received hostage’s body from hamas as it indicates rafah crossing could open" }
+Gstscrregw@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:55 PM_
+Gazans race to preserve cultural heritage damaged in war" }
+Vdtarheowoa@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:15 AM_
+Vr headsets take war-scarred children to world away from gaza" }
+Tafdiahesle@{ shape: win-pane, label: "_Published Aug 18, 2025, 05:35 PM_
+The trauma of childhood in gaza: no school, few toys, little hope" }
+BeoeieSpoe@{ shape: win-pane, label: "_Published Nov 29, 2025, 10:30 AM_
+Big dreams for palestinian teens at singapore robot fest" }
+Ililehitornlausz@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:10 AM_
+Israel says it killed over 40 fighters in past week of operations to clear hamas’ tunnels in gaza" }
+kdnoaeyair@{ shape: win-pane, label: "_Published Nov 30, 2025, 06:15 PM_
+4 killed coming out of gaza tunnels, says israeli military" }
+TmninGhntfr@{ shape: win-pane, label: "_Published Oct 27, 2023, 01:16 AM_
+The hamas tunnel city beneath gaza – a hidden front line for israel" }
+TfsoaeivtacWudfa@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:40 PM_
+Tens of thousands of gazans need medical evacuation, says doctors without borders official" }
+Eesnbrec@{ shape: win-pane, label: "_Published Sep 23, 2025, 04:20 PM_
+Europe talks big on gaza but struggles to act" }
+Eihudctfsmoeina@{ shape: win-pane, label: "_Published Sep 22, 2025, 01:41 AM_
+Explainer: what would wider recognition of palestine mean for palestinians and israel?" }
+Goheuyelynksea@{ shape: win-pane, label: "_Published Nov 21, 2025, 07:44 PM_
+Gaza women, children injured by israeli military during shaky ceasefire, msf says" }
+Tafdiahesle@{ shape: win-pane, label: "_Published Aug 18, 2025, 05:35 PM_
+The trauma of childhood in gaza: no school, few toys, little hope" }
+IlselsaGansec@{ shape: win-pane, label: "_Published Nov 20, 2025, 01:13 AM_
+Israeli air strikes kill 25 palestinians in gaza, rattling ceasefire, medics say" }
 
-Liseafheiorh:::txtsize --> Liseggliooncp:::txtsize
-Liseggliooncp:::txtsize --> IaggoaPy:::txtsize
-IaggoaPy:::txtsize --> RaaoggsUsc:::txtsize
-IaggoaPy:::txtsize --> Tariesducbms:::txtsize
-Liseggliooncp:::txtsize --> Taaoiaeugan:::txtsize
-Taaoiaeugan:::txtsize --> IaggoaPy:::txtsize
-Taaoiaeugan:::txtsize --> RaaoggsUsc:::txtsize
-Liseafheiorh:::txtsize --> Taaoiaeugan:::txtsize
-Taaoiaeugan:::txtsize --> IaggoaPy:::txtsize
-IaggoaPy:::txtsize --> RaaoggsUsc:::txtsize
-IaggoaPy:::txtsize --> Tariesducbms:::txtsize
-Taaoiaeugan:::txtsize --> RaaoggsUsc:::txtsize
-RaaoggsUsc:::txtsize --> Mirupivggoiusrok:::txtsize
+Iliehgdmsiaarnln:::txtsize --> Gstscrregw:::txtsize
+Gstscrregw:::txtsize --> Vdtarheowoa:::txtsize
+Vdtarheowoa:::txtsize --> Tafdiahesle:::txtsize
+Vdtarheowoa:::txtsize --> BeoeieSpoe:::txtsize
+Gstscrregw:::txtsize --> Ililehitornlausz:::txtsize
+Ililehitornlausz:::txtsize --> kdnoaeyair:::txtsize
+Ililehitornlausz:::txtsize --> TmninGhntfr:::txtsize
+Iliehgdmsiaarnln:::txtsize --> TfsoaeivtacWudfa:::txtsize
+TfsoaeivtacWudfa:::txtsize --> Eesnbrec:::txtsize
+Eesnbrec:::txtsize --> Eihudctfsmoeina:::txtsize
+TfsoaeivtacWudfa:::txtsize --> Goheuyelynksea:::txtsize
+Goheuyelynksea:::txtsize --> Tafdiahesle:::txtsize
+Goheuyelynksea:::txtsize --> IlselsaGansec:::txtsize
 
 ```
-<i>Last updated: 2025-12-04 04:01:14.229556 (GMT+8)</i>
+<i>Last updated: 2025-12-04 08:00:38.675815 (GMT+8)</i>
 <!-- END -->
