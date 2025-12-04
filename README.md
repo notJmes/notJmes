@@ -16,138 +16,135 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ntoaanrrotra@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:38 AM_
-Next steps for ukraine talks unclear after moscow meeting, trump says" }
+Nnusaerrclr@{ shape: win-pane, label: "_Published Dec 04, 2025, 11:05 AM_
+Nintendo launches long-awaited metroid prime 4 sci-fi blaster" }
+NnuSpotsnrnagsio@{ shape: win-pane, label: "_Published Nov 28, 2025, 11:25 AM_
+Nintendo studios singapore to be established in 2026 after japanese gaming giant’s acquisition" }
+Nntiomousan@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:59 PM_
+Nintendo sets up singapore arm to boost south-east asia business" }
+NnieTobdinhs@{ shape: win-pane, label: "_Published Jun 26, 2025, 11:35 AM_
+Nintendo switch 2 review: the good, the bad and the middling of the $719 console" }
+Mvriitst@{ shape: win-pane, label: "_Published Jul 15, 2025, 04:15 PM_
+Move over, mario. this cow is nintendo’s new star" }
+Nntiomousan@{ shape: win-pane, label: "_Published Oct 01, 2025, 12:59 PM_
+Nintendo sets up singapore arm to boost south-east asia business" }
+NnieTobdinhs@{ shape: win-pane, label: "_Published Jun 26, 2025, 11:35 AM_
+Nintendo switch 2 review: the good, the bad and the middling of the $719 console" }
+Mvriitst@{ shape: win-pane, label: "_Published Jul 15, 2025, 04:15 PM_
+Move over, mario. this cow is nintendo’s new star" }
+BpLolesFislo@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:45 PM_
+Blackpink’s lisa to headline new season of fortnite festival video game" }
+Heerkmauapopot@{ shape: win-pane, label: "_Published Nov 25, 2025, 01:15 PM_
+Hundreds queue for blackpink merch at pop-up ahead of k-pop group’s s’pore concerts" }
+Bpnavasedolpecr@{ shape: win-pane, label: "_Published Nov 19, 2025, 03:10 PM_
+Blackpink in your area: events across s’pore ahead of k-pop girl group’s november concerts" }
+AstancissOe@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:45 PM_
+At least $6,000 lost to blackpink concert ticket scams since october" }
+Heerkmauapopot@{ shape: win-pane, label: "_Published Nov 25, 2025, 01:15 PM_
+Hundreds queue for blackpink merch at pop-up ahead of k-pop group’s s’pore concerts" }
+Bpnavasedolpecr@{ shape: win-pane, label: "_Published Nov 19, 2025, 03:10 PM_
+Blackpink in your area: events across s’pore ahead of k-pop girl group’s november concerts" }
+AstancissOe@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:45 PM_
+At least $6,000 lost to blackpink concert ticket scams since october" }
+
+Nnusaerrclr:::txtsize --> NnuSpotsnrnagsio:::txtsize
+NnuSpotsnrnagsio:::txtsize --> Nntiomousan:::txtsize
+Nntiomousan:::txtsize --> NnieTobdinhs:::txtsize
+Nntiomousan:::txtsize --> Mvriitst:::txtsize
+NnuSpotsnrnagsio:::txtsize --> Nntiomousan:::txtsize
+Nntiomousan:::txtsize --> NnieTobdinhs:::txtsize
+Nntiomousan:::txtsize --> Mvriitst:::txtsize
+Nnusaerrclr:::txtsize --> BpLolesFislo:::txtsize
+BpLolesFislo:::txtsize --> Heerkmauapopot:::txtsize
+Heerkmauapopot:::txtsize --> Bpnavasedolpecr:::txtsize
+Heerkmauapopot:::txtsize --> AstancissOe:::txtsize
+BpLolesFislo:::txtsize --> Heerkmauapopot:::txtsize
+Heerkmauapopot:::txtsize --> Bpnavasedolpecr:::txtsize
+Heerkmauapopot:::txtsize --> AstancissOe:::txtsize
+
+Ferefrtt@{ shape: win-pane, label: "_Published Dec 04, 2025, 10:45 AM_
+France’s macron meets xi for ukraine, trade talks" }
+WcCvatnrlwposhn@{ shape: win-pane, label: "_Published Dec 03, 2025, 06:50 PM_
+Why macron’s china visit and putin’s india trip will show europe no longer sets the agenda" }
+PsatseUsln@{ shape: win-pane, label: "_Published Dec 03, 2025, 09:25 AM_
+Putin’s india visit tests new delhi’s us-russia balancing act" }
+TslfftiaeopU@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:05 PM_
+Trump’s doubling of tariffs hits india, damages relationship with us" }
+Wusoreyktkes@{ shape: win-pane, label: "_Published Nov 28, 2025, 04:00 PM_
+Will russia’s economy force a reality check on putin’s ukraine invasion?" }
+EeaokeuvaMw@{ shape: win-pane, label: "_Published Dec 01, 2025, 11:29 PM_
+Europeans rally round ukraine as trump envoy heads to moscow" }
+Tsoafiseetot@{ shape: win-pane, label: "_Published Dec 01, 2025, 12:19 AM_
+Trump says ‘good chance’ of ukraine-russia peace deal after florida talks" }
+Tseraniteaorbhut@{ shape: win-pane, label: "_Published Sep 03, 2025, 03:19 AM_
+Trump says he is ‘very disappointed’ with putin over ukraine, not worried about china-russia ties" }
 Unpetrsrbitc@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:09 AM_
 Ukraine’s top peace negotiator quits after raid by anti-graft officers" }
-Unitcehfncof@{ shape: win-pane, label: "_Published Nov 28, 2025, 04:19 PM_
-Ukraine anti-graft officers search home of zelensky’s chief of staff" }
-Unlydhffacir@{ shape: win-pane, label: "_Published Nov 21, 2025, 05:26 PM_
-Ukraine’s zelensky stands by chief of staff as graft accusations grow" }
-CZslufetarc@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:54 AM_
-Close zelensky ally accused of orchestrating major graft scheme" }
-Unitcdrcsundst@{ shape: win-pane, label: "_Published Nov 11, 2025, 03:20 AM_
-Ukraine anti-graft agency raids energy sector as corruption stand-off escalates" }
-UnyIoieera@{ shape: win-pane, label: "_Published Sep 03, 2023, 11:00 AM_
-Ukrainian tycoon ihor kolomoisky detained in fraud case" }
-PwEeuwesleu@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:45 PM_
-Putin warns europe: if you want war, then russia will defeat you" }
+KhtUnttnctntlrl@{ shape: win-pane, label: "_Published Nov 30, 2025, 11:24 PM_
+Kazakhstan tells ukraine to stop attacking black sea terminal after oil exports halted" }
+SoeeaeomRatn@{ shape: win-pane, label: "_Published Nov 30, 2025, 12:02 AM_
+Sea drones reportedly halt operations at major russian oil terminal" }
 UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
 Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
-Skleokusnde@{ shape: win-pane, label: "_Published Dec 17, 2024, 03:10 AM_
-Stricken oil tankers show risks of russia’s ageing ‘shadow fleet’" }
-SiRadentokfler@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:04 AM_
-Sanctioned russian ‘shadow fleet’ tanker at risk of sinking after blast near turkey" }
-TstUnrssllu@{ shape: win-pane, label: "_Published Dec 02, 2025, 02:04 PM_
-Trump’s push to end ukraine war raises fears of ‘ugly deal’ for europe" }
-Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
-Trump’s 28-point ukraine plan" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
 
-Ntoaanrrotra:::txtsize --> Unpetrsrbitc:::txtsize
-Unpetrsrbitc:::txtsize --> Unitcehfncof:::txtsize
-Unitcehfncof:::txtsize --> Unlydhffacir:::txtsize
-Unpetrsrbitc:::txtsize --> CZslufetarc:::txtsize
-CZslufetarc:::txtsize --> Unitcdrcsundst:::txtsize
-CZslufetarc:::txtsize --> UnyIoieera:::txtsize
-Ntoaanrrotra:::txtsize --> PwEeuwesleu:::txtsize
-PwEeuwesleu:::txtsize --> UntaluneBScyca:::txtsize
-UntaluneBScyca:::txtsize --> Skleokusnde:::txtsize
-UntaluneBScyca:::txtsize --> SiRadentokfler:::txtsize
-PwEeuwesleu:::txtsize --> TstUnrssllu:::txtsize
-TstUnrssllu:::txtsize --> Tstia:::txtsize
-TstUnrssllu:::txtsize --> DsruasvUn:::txtsize
+Ferefrtt:::txtsize --> WcCvatnrlwposhn:::txtsize
+WcCvatnrlwposhn:::txtsize --> PsatseUsln:::txtsize
+PsatseUsln:::txtsize --> TslfftiaeopU:::txtsize
+PsatseUsln:::txtsize --> Wusoreyktkes:::txtsize
+Ferefrtt:::txtsize --> EeaokeuvaMw:::txtsize
+EeaokeuvaMw:::txtsize --> Tsoafiseetot:::txtsize
+Tsoafiseetot:::txtsize --> Tseraniteaorbhut:::txtsize
+Tsoafiseetot:::txtsize --> Unpetrsrbitc:::txtsize
+EeaokeuvaMw:::txtsize --> KhtUnttnctntlrl:::txtsize
+KhtUnttnctntlrl:::txtsize --> SoeeaeomRatn:::txtsize
+KhtUnttnctntlrl:::txtsize --> UntaluneBScyca:::txtsize
 
-Dreeopnosal@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:20 AM_
-Democrats release photos of epstein’s notorious private island" }
-TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
-Trump signs bill ordering us justice department to release epstein files" }
-Ugpsufrspnsitm@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:23 AM_
-Us congress passes measure to force release of epstein files, sending it to trump" }
-Therltsfwrons@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:55 AM_
-Trump has the power to release the epstein files, with or without congress" }
-Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
-Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
-Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
-Epstein files to be released to us public: what are they?" }
-ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
-After trump reversal, us house pushes forward on epstein vote" }
-TskeMewtco@{ shape: win-pane, label: "_Published Nov 18, 2025, 09:15 AM_
-Trump’s frankenstein? us maga meltdown tests its creator" }
-Gaalrspndtcmrc@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:10 AM_
-Ghislaine maxwell says release of epstein grand jury transcript may harm her case" }
-Uanuewhspnaldmi@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:25 AM_
-Us department of justice renews push to unseal epstein and maxwell grand jury materials" }
-ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
-After trump reversal, us house pushes forward on epstein vote" }
-JetructaaSes@{ shape: win-pane, label: "_Published Aug 21, 2025, 02:17 AM_
-Jeffrey epstein grand jury records to remain sealed, us judge rules" }
-TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
-Trump signs bill ordering us justice department to release epstein files" }
-Ugpsufrspnsitm@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:23 AM_
-Us congress passes measure to force release of epstein files, sending it to trump" }
-Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
-Epstein files to be released to us public: what are they?" }
+FHrpdaurhdf@{ shape: win-pane, label: "_Published Dec 04, 2025, 10:45 AM_
+Freed honduran ex-president says trump pardon ‘changed my life’" }
+HroacTiiie@{ shape: win-pane, label: "_Published Dec 01, 2025, 01:54 AM_
+Hondurans vote in an election trump is trying to influence" }
+UgVuMoceoyRllk@{ shape: win-pane, label: "_Published Dec 01, 2025, 05:07 AM_
+Us has given venezuela’s maduro chance to leave country, says republican lawmaker" }
+Tsicvsugztliee@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:19 PM_
+Trump says airspace above and surrounding venezuela to be closed in its entirety" }
+Hunllyoat@{ shape: win-pane, label: "_Published Nov 30, 2025, 12:09 AM_
+How could venezuela’s military respond to a us attack?" }
+PehtGddrartern@{ shape: win-pane, label: "_Published Nov 28, 2025, 02:03 AM_
+Pete hegseth visits uss gerald r. ford aircraft carrier in latin america region" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Uddrngufialhe@{ shape: win-pane, label: "_Published Nov 14, 2025, 06:32 AM_
+Us conducted 20th strike on alleged drug trafficking boat earlier this week" }
+Trdostdr@{ shape: win-pane, label: "_Published Jun 08, 2025, 03:25 PM_
+Trump rewarding loyalists with pardon spree" }
+TpnrlgtUii@{ shape: win-pane, label: "_Published Jan 21, 2025, 09:16 AM_
+Trump pardons nearly all charged with jan 6 us capitol riot" }
+SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
+Storming of us capitol: timeline of key events in washington" }
+Hpdwtmyrr@{ shape: win-pane, label: "_Published Jan 20, 2025, 10:37 AM_
+How us presidents wield their mighty power to pardon" }
+Tpnkferflrh@{ shape: win-pane, label: "_Published Jan 22, 2025, 08:59 AM_
+Trump pardons silk road founder ulbricht for online drug scheme" }
+TbacbcrtraiCn@{ shape: win-pane, label: "_Published May 27, 2024, 07:40 AM_
+Trump booed and heckled by raucous crowd at libertarian national convention" }
+TsoloPBtahuyr@{ shape: win-pane, label: "_Published Jan 22, 2025, 05:51 AM_
+Trump’s pardons will embolden proud boys, other far-right groups, say experts" }
 
-Dreeopnosal:::txtsize --> TsBrnuertlEie:::txtsize
-TsBrnuertlEie:::txtsize --> Ugpsufrspnsitm:::txtsize
-Ugpsufrspnsitm:::txtsize --> Therltsfwrons:::txtsize
-Ugpsufrspnsitm:::txtsize --> Tdddnersdiinst:::txtsize
-TsBrnuertlEie:::txtsize --> Eieeaobhe:::txtsize
-Eieeaobhe:::txtsize --> ATrsHpsaEie:::txtsize
-Eieeaobhe:::txtsize --> TskeMewtco:::txtsize
-Dreeopnosal:::txtsize --> Gaalrspndtcmrc:::txtsize
-Gaalrspndtcmrc:::txtsize --> Uanuewhspnaldmi:::txtsize
-Uanuewhspnaldmi:::txtsize --> ATrsHpsaEie:::txtsize
-Uanuewhspnaldmi:::txtsize --> JetructaaSes:::txtsize
-Gaalrspndtcmrc:::txtsize --> TsBrnuertlEie:::txtsize
-TsBrnuertlEie:::txtsize --> Ugpsufrspnsitm:::txtsize
-TsBrnuertlEie:::txtsize --> Eieeaobhe:::txtsize
-
-Iliehgdmsiaarnln@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:20 AM_
-Israel says it received hostage’s body from hamas as it indicates rafah crossing could open" }
-Gstscrregw@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:55 PM_
-Gazans race to preserve cultural heritage damaged in war" }
-Vdtarheowoa@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:15 AM_
-Vr headsets take war-scarred children to world away from gaza" }
-Tafdiahesle@{ shape: win-pane, label: "_Published Aug 18, 2025, 05:35 PM_
-The trauma of childhood in gaza: no school, few toys, little hope" }
-BeoeieSpoe@{ shape: win-pane, label: "_Published Nov 29, 2025, 10:30 AM_
-Big dreams for palestinian teens at singapore robot fest" }
-Ililehitornlausz@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:10 AM_
-Israel says it killed over 40 fighters in past week of operations to clear hamas’ tunnels in gaza" }
-kdnoaeyair@{ shape: win-pane, label: "_Published Nov 30, 2025, 06:15 PM_
-4 killed coming out of gaza tunnels, says israeli military" }
-TmninGhntfr@{ shape: win-pane, label: "_Published Oct 27, 2023, 01:16 AM_
-The hamas tunnel city beneath gaza – a hidden front line for israel" }
-TfsoaeivtacWudfa@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:40 PM_
-Tens of thousands of gazans need medical evacuation, says doctors without borders official" }
-Eesnbrec@{ shape: win-pane, label: "_Published Sep 23, 2025, 04:20 PM_
-Europe talks big on gaza but struggles to act" }
-Eihudctfsmoeina@{ shape: win-pane, label: "_Published Sep 22, 2025, 01:41 AM_
-Explainer: what would wider recognition of palestine mean for palestinians and israel?" }
-Goheuyelynksea@{ shape: win-pane, label: "_Published Nov 21, 2025, 07:44 PM_
-Gaza women, children injured by israeli military during shaky ceasefire, msf says" }
-Tafdiahesle@{ shape: win-pane, label: "_Published Aug 18, 2025, 05:35 PM_
-The trauma of childhood in gaza: no school, few toys, little hope" }
-IlselsaGansec@{ shape: win-pane, label: "_Published Nov 20, 2025, 01:13 AM_
-Israeli air strikes kill 25 palestinians in gaza, rattling ceasefire, medics say" }
-
-Iliehgdmsiaarnln:::txtsize --> Gstscrregw:::txtsize
-Gstscrregw:::txtsize --> Vdtarheowoa:::txtsize
-Vdtarheowoa:::txtsize --> Tafdiahesle:::txtsize
-Vdtarheowoa:::txtsize --> BeoeieSpoe:::txtsize
-Gstscrregw:::txtsize --> Ililehitornlausz:::txtsize
-Ililehitornlausz:::txtsize --> kdnoaeyair:::txtsize
-Ililehitornlausz:::txtsize --> TmninGhntfr:::txtsize
-Iliehgdmsiaarnln:::txtsize --> TfsoaeivtacWudfa:::txtsize
-TfsoaeivtacWudfa:::txtsize --> Eesnbrec:::txtsize
-Eesnbrec:::txtsize --> Eihudctfsmoeina:::txtsize
-TfsoaeivtacWudfa:::txtsize --> Goheuyelynksea:::txtsize
-Goheuyelynksea:::txtsize --> Tafdiahesle:::txtsize
-Goheuyelynksea:::txtsize --> IlselsaGansec:::txtsize
+FHrpdaurhdf:::txtsize --> HroacTiiie:::txtsize
+HroacTiiie:::txtsize --> UgVuMoceoyRllk:::txtsize
+UgVuMoceoyRllk:::txtsize --> Tsicvsugztliee:::txtsize
+UgVuMoceoyRllk:::txtsize --> Hunllyoat:::txtsize
+HroacTiiie:::txtsize --> PehtGddrartern:::txtsize
+PehtGddrartern:::txtsize --> Nnalsiydttteiu:::txtsize
+PehtGddrartern:::txtsize --> Uddrngufialhe:::txtsize
+FHrpdaurhdf:::txtsize --> Trdostdr:::txtsize
+Trdostdr:::txtsize --> TpnrlgtUii:::txtsize
+TpnrlgtUii:::txtsize --> SiUiinenWn:::txtsize
+TpnrlgtUii:::txtsize --> Hpdwtmyrr:::txtsize
+Trdostdr:::txtsize --> Tpnkferflrh:::txtsize
+Tpnkferflrh:::txtsize --> TbacbcrtraiCn:::txtsize
+Tpnkferflrh:::txtsize --> TsoloPBtahuyr:::txtsize
 
 ```
-<i>Last updated: 2025-12-04 08:00:38.675815 (GMT+8)</i>
+<i>Last updated: 2025-12-04 12:01:01.865978 (GMT+8)</i>
 <!-- END -->
