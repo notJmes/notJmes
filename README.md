@@ -16,123 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-YaSipyhas@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:55 PM_
-Yo-de-lay-unesco? swiss hope for yodel heritage listing" }
-Gstscrregw@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:55 PM_
-Gazans race to preserve cultural heritage damaged in war" }
-Vdtarheowoa@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:15 AM_
-Vr headsets take war-scarred children to world away from gaza" }
-Tafdiahesle@{ shape: win-pane, label: "_Published Aug 18, 2025, 05:35 PM_
-The trauma of childhood in gaza: no school, few toys, little hope" }
-BeoeieSpoe@{ shape: win-pane, label: "_Published Nov 29, 2025, 10:30 AM_
-Big dreams for palestinian teens at singapore robot fest" }
-Ililehitornlausz@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:10 AM_
-Israel says it killed over 40 fighters in past week of operations to clear hamas’ tunnels in gaza" }
-kdnoaeyair@{ shape: win-pane, label: "_Published Nov 30, 2025, 06:15 PM_
-4 killed coming out of gaza tunnels, says israeli military" }
-TmninGhntfr@{ shape: win-pane, label: "_Published Oct 27, 2023, 01:16 AM_
-The hamas tunnel city beneath gaza – a hidden front line for israel" }
-PvtusMPupsen@{ shape: win-pane, label: "_Published Sep 17, 2025, 07:11 AM_
-Peru evacuates 1,400 tourists from machu picchu amid protest; 900 more stranded" }
-SKnortiottkontl@{ shape: win-pane, label: "_Published Sep 12, 2025, 12:45 PM_
-South korean airport workers to strike from sept 19 to oct 9, sparking concerns for travellers" }
-MoLnronitsoeure@{ shape: win-pane, label: "_Published Sep 08, 2025, 07:48 AM_
-Millions of londoners brace for transit disruption as london underground strike begins" }
-Ydroobndenagnnd@{ shape: win-pane, label: "_Published Sep 08, 2025, 10:16 AM_
-Young doctors in south korea abandon residencies, open dermatology clinics instead" }
-Lnmstlsbitd@{ shape: win-pane, label: "_Published Sep 08, 2025, 03:50 PM_
-London’s commuters face travel chaos as tube strike hits hard" }
-Lnrnketeseo@{ shape: win-pane, label: "_Published Sep 07, 2025, 10:26 PM_
-London underground workers set to start week of strike action" }
-LnrovsiTtbs@{ shape: win-pane, label: "_Published Sep 05, 2025, 05:55 PM_
-Londoners brace for travel disruption as tube strike begins" }
+Fhoshssol@{ shape: win-pane, label: "_Published Dec 05, 2025, 07:15 PM_
+French town offers $1,500 birth bonuses to save local clinic" }
+Erdit@{ shape: win-pane, label: "_Published Mar 07, 2025, 09:26 PM_
+Eu saw record drop in births in 2023" }
+Eeipiayesno@{ shape: win-pane, label: "_Published May 19, 2024, 03:30 PM_
+Europe’s ageing population is a money magnet for some investors" }
+CstitlysdrCwn@{ shape: win-pane, label: "_Published Jan 12, 2023, 12:19 PM_
+Chinese fret over infecting elderly kin as holidays prompt covid-19 warnings" }
+Eliomptassdt@{ shape: win-pane, label: "_Published Apr 13, 2024, 10:55 AM_
+Elderly living alone to make up a fifth of japanese households by 2050: study" }
+Fropahsei@{ shape: win-pane, label: "_Published Jul 21, 2023, 06:52 AM_
+For europe’s older population, heat is the new covid-19" }
+Rdscgaoesevk@{ shape: win-pane, label: "_Published Jul 18, 2023, 02:00 PM_
+Record highs scorch the globe as europe prepares for heatwave peak" }
+HtthttEetrs@{ shape: win-pane, label: "_Published Jul 16, 2023, 11:48 PM_
+‘heat storm’ stretches into southern europe, health alerts issued" }
+isgacteinrrte@{ shape: win-pane, label: "_Published Oct 03, 2025, 03:00 PM_
+2024 is first dragon year since 1964 that failed to lift singapore’s fertility rate" }
+Spanmohdmounel@{ shape: win-pane, label: "_Published Sep 29, 2025, 03:00 PM_
+S’pore population now at 6.11 million, with 1.2% rise due to more construction workers, helpers" }
+Sptflatowllrt@{ shape: win-pane, label: "_Published Feb 28, 2024, 03:46 PM_
+Singapore’s total fertility rate hits record low in 2023, falls below 1 for first time" }
+PgkuCiolSftoeep@{ shape: win-pane, label: "_Published May 14, 2025, 03:37 PM_
+Pm wong breaks ground on changi airport t5; all sia, scoot flights to move there when it opens" }
+Cramhnabskeilpu@{ shape: win-pane, label: "_Published Jul 25, 2025, 08:10 PM_
+Career setbacks among challenges raised by those seeking fertility help in s’pore: survey" }
 
-YaSipyhas:::txtsize --> Gstscrregw:::txtsize
-Gstscrregw:::txtsize --> Vdtarheowoa:::txtsize
-Vdtarheowoa:::txtsize --> Tafdiahesle:::txtsize
-Vdtarheowoa:::txtsize --> BeoeieSpoe:::txtsize
-Gstscrregw:::txtsize --> Ililehitornlausz:::txtsize
-Ililehitornlausz:::txtsize --> kdnoaeyair:::txtsize
-Ililehitornlausz:::txtsize --> TmninGhntfr:::txtsize
-YaSipyhas:::txtsize --> PvtusMPupsen:::txtsize
-PvtusMPupsen:::txtsize --> SKnortiottkontl:::txtsize
-SKnortiottkontl:::txtsize --> MoLnronitsoeure:::txtsize
-SKnortiottkontl:::txtsize --> Ydroobndenagnnd:::txtsize
-PvtusMPupsen:::txtsize --> Lnmstlsbitd:::txtsize
-Lnmstlsbitd:::txtsize --> Lnrnketeseo:::txtsize
-Lnmstlsbitd:::txtsize --> LnrovsiTtbs:::txtsize
+Fhoshssol:::txtsize --> Erdit:::txtsize
+Erdit:::txtsize --> Eeipiayesno:::txtsize
+Eeipiayesno:::txtsize --> CstitlysdrCwn:::txtsize
+Eeipiayesno:::txtsize --> Eliomptassdt:::txtsize
+Erdit:::txtsize --> Fropahsei:::txtsize
+Fropahsei:::txtsize --> Rdscgaoesevk:::txtsize
+Fropahsei:::txtsize --> HtthttEetrs:::txtsize
+Fhoshssol:::txtsize --> isgacteinrrte:::txtsize
+isgacteinrrte:::txtsize --> Spanmohdmounel:::txtsize
+Spanmohdmounel:::txtsize --> Sptflatowllrt:::txtsize
+Spanmohdmounel:::txtsize --> PgkuCiolSftoeep:::txtsize
+isgacteinrrte:::txtsize --> Cramhnabskeilpu:::txtsize
 
-Nixilbrrsreua@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:40 PM_
-Netflix in exclusive talks to buy warner bros discovery assets, source says" }
-BnmosaAtoppubsg@{ shape: win-pane, label: "_Published Dec 04, 2025, 02:29 PM_
-Bad bunny named spotify’s global top artiste in 2025, rose’s apt. is apple music’s biggest song" }
-Hpanonrcodgsn@{ shape: win-pane, label: "_Published Sep 15, 2025, 04:45 PM_
-How rapper bad bunny is boosting puerto rico’s economy during slow season" }
-FotiuBanuRcriy@{ shape: win-pane, label: "_Published Jan 14, 2025, 01:45 PM_
-Fresh off latest hit album, bad bunny announces puerto rican concert residency" }
-Msankenittau@{ shape: win-pane, label: "_Published Jan 08, 2025, 02:30 PM_
-Music star bad bunny talks homecoming on his most puerto rican album yet" }
-SfeGlctlsopiinn@{ shape: win-pane, label: "_Published Jul 22, 2025, 01:55 PM_
-Spotify releases 2025 global impact list, highlights rise of k-pop soloists like jennie and jin" }
-Cnrhpatp@{ shape: win-pane, label: "_Published Oct 07, 2024, 09:45 AM_
-Can jennie break the k-pop solo artist slump?" }
-BboetliK@{ shape: win-pane, label: "_Published Jun 21, 2025, 01:15 PM_
-Bts is back together. is it still the king of k-pop?" }
+Tyrefasttsa@{ shape: win-pane, label: "_Published Dec 05, 2025, 06:55 PM_
+Turkey orders arrest of 29 footballers in match betting scandal" }
+Tykoianirua@{ shape: win-pane, label: "_Published Nov 20, 2025, 08:03 PM_
+Turkey crackdown on insider gambling to widen, prosecutor says" }
+Nheleoadssnplllr@{ shape: win-pane, label: "_Published Oct 24, 2025, 12:05 AM_
+Nba’s chauncey billups, terry rozier among dozens arrested in sweeping illegal gambling probe" }
+Nalhpeinwr@{ shape: win-pane, label: "_Published Oct 22, 2025, 04:52 PM_
+Nba plans to launch european league ‘in the next two years’" }
+Tgtslbndp@{ shape: win-pane, label: "_Published Nov 07, 2025, 05:00 AM_
+The big question: is legalised betting good for sport?" }
+Nheleoadssnplllr@{ shape: win-pane, label: "_Published Oct 24, 2025, 12:05 AM_
+Nba’s chauncey billups, terry rozier among dozens arrested in sweeping illegal gambling probe" }
+Nalhpeinwr@{ shape: win-pane, label: "_Published Oct 22, 2025, 04:52 PM_
+Nba plans to launch european league ‘in the next two years’" }
+DyuNiavasiatcl@{ shape: win-pane, label: "_Published Oct 25, 2025, 12:04 PM_
+‘deeply disturbed’: nba chief adam silver grapples with illegal betting scandal" }
+Nheleoadssnplllr@{ shape: win-pane, label: "_Published Oct 24, 2025, 12:05 AM_
+Nba’s chauncey billups, terry rozier among dozens arrested in sweeping illegal gambling probe" }
+Nmgdestrrme@{ shape: win-pane, label: "_Published Oct 25, 2025, 12:23 PM_
+Nba gambling scandal presents mounting trust problem for league" }
 
-Nixilbrrsreua:::txtsize --> BnmosaAtoppubsg:::txtsize
-BnmosaAtoppubsg:::txtsize --> Hpanonrcodgsn:::txtsize
-Hpanonrcodgsn:::txtsize --> FotiuBanuRcriy:::txtsize
-Hpanonrcodgsn:::txtsize --> Msankenittau:::txtsize
-BnmosaAtoppubsg:::txtsize --> SfeGlctlsopiinn:::txtsize
-SfeGlctlsopiinn:::txtsize --> Cnrhpatp:::txtsize
-SfeGlctlsopiinn:::txtsize --> BboetliK:::txtsize
+Tyrefasttsa:::txtsize --> Tykoianirua:::txtsize
+Tykoianirua:::txtsize --> Nheleoadssnplllr:::txtsize
+Nheleoadssnplllr:::txtsize --> Nalhpeinwr:::txtsize
+Tyrefasttsa:::txtsize --> Tgtslbndp:::txtsize
+Tgtslbndp:::txtsize --> Nheleoadssnplllr:::txtsize
+Nheleoadssnplllr:::txtsize --> Nalhpeinwr:::txtsize
+Tgtslbndp:::txtsize --> DyuNiavasiatcl:::txtsize
+DyuNiavasiatcl:::txtsize --> Nheleoadssnplllr:::txtsize
+DyuNiavasiatcl:::txtsize --> Nmgdestrrme:::txtsize
 
-LModittgeoo@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:30 PM_
-Luigi mangione had bus ticket to pittsburgh after shooting of ceo" }
-LMocdcetanelevl@{ shape: win-pane, label: "_Published Apr 18, 2025, 08:02 AM_
-Luigi mangione faces federal charges, death penalty in unitedhealth executive’s killing" }
-LMollrdgseiaElas@{ shape: win-pane, label: "_Published Feb 22, 2025, 09:02 AM_
-Luigi mangione illegally searched during arrest in health insurance ceo killing, lawyer says" }
-ScnHhknattutrhs@{ shape: win-pane, label: "_Published Dec 23, 2024, 10:39 PM_
-Suspect in unitedhealth ceo’s killing pleads not guilty to murder, terrorism charges" }
-MriaEpedlntihnd@{ shape: win-pane, label: "_Published Dec 13, 2024, 07:22 AM_
-Murder of us insurance ceo: suspect became disillusioned with society, then vanished" }
-ScnHhknattutrhs@{ shape: win-pane, label: "_Published Dec 23, 2024, 10:39 PM_
-Suspect in unitedhealth ceo’s killing pleads not guilty to murder, terrorism charges" }
-TevtodYoohu@{ shape: win-pane, label: "_Published Dec 04, 2024, 10:46 PM_
-Top executive shot dead outside new york hotel, police hunt gunman" }
-BdelOuiaiiycng@{ shape: win-pane, label: "_Published Dec 11, 2024, 08:05 AM_
-Behind unitedhealth ceo’s accused killer, a possible history of back pain emerges" }
-LMoituioerhhetuc@{ shape: win-pane, label: "_Published Dec 01, 2025, 11:54 PM_
-Luigi mangione tries to toss gun, manifesto evidence from us healthcare executive murder case" }
-TevtodYoohu@{ shape: win-pane, label: "_Published Dec 04, 2024, 10:46 PM_
-Top executive shot dead outside new york hotel, police hunt gunman" }
-RadsnEeainwnkees@{ shape: win-pane, label: "_Published Jul 12, 2024, 12:16 AM_
-Russia tried to assassinate ceo of german arms firm sending weapons to ukraine, say reports" }
-Caentaarie@{ shape: win-pane, label: "_Published Nov 19, 2024, 07:45 AM_
-Canada foiled iran plot to assassinate former minister" }
-Usoseeyuanuolsc@{ shape: win-pane, label: "_Published Apr 25, 2025, 09:00 AM_
-Us prosecutors to seek death penalty for luigi mangione in murder of health insurance ceo" }
-TevtodYoohu@{ shape: win-pane, label: "_Published Dec 04, 2024, 10:46 PM_
-Top executive shot dead outside new york hotel, police hunt gunman" }
-MriaEpedlntihnd@{ shape: win-pane, label: "_Published Dec 13, 2024, 07:22 AM_
-Murder of us insurance ceo: suspect became disillusioned with society, then vanished" }
+Gnitsrsirvadir@{ shape: win-pane, label: "_Published Dec 05, 2025, 06:40 PM_
+German parliament backs controversial military service law amid russian threat" }
+Gnmdoabsody@{ shape: win-pane, label: "_Published Sep 11, 2025, 10:58 PM_
+Germany’s army needs to more than double in size, commander says" }
+LaaatprhoetsRaa@{ shape: win-pane, label: "_Published Sep 11, 2025, 11:18 PM_
+Lithuania, latvia, and estonia prepare push to stop us security cuts amid russia threat" }
+PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
+Poland shoots down drones, the first nato member to open fire during ukraine war" }
+Raserkcioten@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:37 PM_
+Russian air strike in ukraine kills 23 civilians collecting pensions" }
+PdiotnlioaM@{ shape: win-pane, label: "_Published Sep 10, 2025, 06:02 PM_
+Poland is at its closest to open conflict since world war ii, pm says" }
+PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
+Poland shoots down drones, the first nato member to open fire during ukraine war" }
+PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
+Poland shoots down drones, the first nato member to open fire during ukraine war" }
+Fervvtirvmcatt@{ shape: win-pane, label: "_Published Nov 27, 2025, 07:08 PM_
+France’s macron unveils voluntary military service amid ‘accelerating threats’" }
+Gnnsirnmar@{ shape: win-pane, label: "_Published Aug 27, 2025, 08:03 PM_
+German cabinet passes bill for voluntary military service" }
+Gnmregetafb@{ shape: win-pane, label: "_Published Jul 31, 2025, 11:34 PM_
+Germany’s armed forces see 28% surge in recruits in nato defence boost" }
+Gnnprisnon@{ shape: win-pane, label: "_Published Jul 25, 2025, 06:54 AM_
+Germany plans compulsory military screening for young men" }
+Fuunensklyn@{ shape: win-pane, label: "_Published Sep 13, 2025, 05:45 PM_
+Fearful of russian aggression, poles flock to military training" }
+PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
+Poland shoots down drones, the first nato member to open fire during ukraine war" }
 
-LModittgeoo:::txtsize --> LMocdcetanelevl:::txtsize
-LMocdcetanelevl:::txtsize --> LMollrdgseiaElas:::txtsize
-LMollrdgseiaElas:::txtsize --> ScnHhknattutrhs:::txtsize
-LMollrdgseiaElas:::txtsize --> MriaEpedlntihnd:::txtsize
-LMocdcetanelevl:::txtsize --> ScnHhknattutrhs:::txtsize
-ScnHhknattutrhs:::txtsize --> TevtodYoohu:::txtsize
-ScnHhknattutrhs:::txtsize --> BdelOuiaiiycng:::txtsize
-LModittgeoo:::txtsize --> LMoituioerhhetuc:::txtsize
-LMoituioerhhetuc:::txtsize --> TevtodYoohu:::txtsize
-TevtodYoohu:::txtsize --> RadsnEeainwnkees:::txtsize
-TevtodYoohu:::txtsize --> Caentaarie:::txtsize
-LMoituioerhhetuc:::txtsize --> Usoseeyuanuolsc:::txtsize
-Usoseeyuanuolsc:::txtsize --> TevtodYoohu:::txtsize
-Usoseeyuanuolsc:::txtsize --> MriaEpedlntihnd:::txtsize
+Gnitsrsirvadir:::txtsize --> Gnmdoabsody:::txtsize
+Gnmdoabsody:::txtsize --> LaaatprhoetsRaa:::txtsize
+LaaatprhoetsRaa:::txtsize --> PdtnefNetndgir:::txtsize
+LaaatprhoetsRaa:::txtsize --> Raserkcioten:::txtsize
+Gnmdoabsody:::txtsize --> PdiotnlioaM:::txtsize
+PdiotnlioaM:::txtsize --> PdtnefNetndgir:::txtsize
+PdiotnlioaM:::txtsize --> PdtnefNetndgir:::txtsize
+Gnitsrsirvadir:::txtsize --> Fervvtirvmcatt:::txtsize
+Fervvtirvmcatt:::txtsize --> Gnnsirnmar:::txtsize
+Gnnsirnmar:::txtsize --> Gnmregetafb:::txtsize
+Gnnsirnmar:::txtsize --> Gnnprisnon:::txtsize
+Fervvtirvmcatt:::txtsize --> Fuunensklyn:::txtsize
+Fuunensklyn:::txtsize --> PdtnefNetndgir:::txtsize
 
 ```
-<i>Last updated: 2025-12-05 16:01:15.692940 (GMT+8)</i>
+<i>Last updated: 2025-12-05 20:00:44.467311 (GMT+8)</i>
 <!-- END -->
