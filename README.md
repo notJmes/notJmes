@@ -16,120 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Pehsporeeht@{ shape: win-pane, label: "_Published Dec 05, 2025, 11:47 AM_
-Pete hegseth keeps trump’s favour for now despite fresh missteps" }
-PgvaHtrasoei@{ shape: win-pane, label: "_Published Dec 04, 2025, 05:30 AM_
-Pentagon review faults hegseth over signal messages on yemen strikes" }
-WHmkssnliui@{ shape: win-pane, label: "_Published Mar 25, 2025, 04:50 AM_
-White house mistakenly shares yemen war plans with journalist" }
-Hiinuposhrah@{ shape: win-pane, label: "_Published Mar 17, 2025, 03:35 PM_
-‘hell will rain down on you’: trump, the houthis and the us’ proxy war with iran" }
-HicYfsteloofU@{ shape: win-pane, label: "_Published Mar 24, 2025, 07:55 AM_
-Houthi attacks in yemen force ships to make costly detour around africa: us" }
-Pgitsahltnkldb@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:21 AM_
-Pentagon chief pete hegseth says us has ‘only just begun’ striking alleged drug boats" }
-Uirdotoeramzsho@{ shape: win-pane, label: "_Published Dec 02, 2025, 04:09 AM_
-Us admiral ordered follow-up strike on alleged drug boat from venezuela, says white house" }
-UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
-Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
-Pgitsahltnkldb@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:21 AM_
-Pentagon chief pete hegseth says us has ‘only just begun’ striking alleged drug boats" }
-Uirdotoeramzsho@{ shape: win-pane, label: "_Published Dec 02, 2025, 04:09 AM_
-Us admiral ordered follow-up strike on alleged drug boat from venezuela, says white house" }
-UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
-Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
-VulScpifromlMo@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:49 AM_
-Venezuela slams us attack preparations after trump confirms call with maduro" }
-UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
-Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
-Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
-Us builds up forces in caribbean as officials, experts, ask why" }
-VuMoUswieggoy@{ shape: win-pane, label: "_Published Sep 02, 2025, 01:19 AM_
-Venezuela’s maduro says us warships with 1,200 missiles targeting his country" }
+YaSipyhas@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:55 PM_
+Yo-de-lay-unesco? swiss hope for yodel heritage listing" }
+Gstscrregw@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:55 PM_
+Gazans race to preserve cultural heritage damaged in war" }
+Vdtarheowoa@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:15 AM_
+Vr headsets take war-scarred children to world away from gaza" }
+Tafdiahesle@{ shape: win-pane, label: "_Published Aug 18, 2025, 05:35 PM_
+The trauma of childhood in gaza: no school, few toys, little hope" }
+BeoeieSpoe@{ shape: win-pane, label: "_Published Nov 29, 2025, 10:30 AM_
+Big dreams for palestinian teens at singapore robot fest" }
+Ililehitornlausz@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:10 AM_
+Israel says it killed over 40 fighters in past week of operations to clear hamas’ tunnels in gaza" }
+kdnoaeyair@{ shape: win-pane, label: "_Published Nov 30, 2025, 06:15 PM_
+4 killed coming out of gaza tunnels, says israeli military" }
+TmninGhntfr@{ shape: win-pane, label: "_Published Oct 27, 2023, 01:16 AM_
+The hamas tunnel city beneath gaza – a hidden front line for israel" }
+PvtusMPupsen@{ shape: win-pane, label: "_Published Sep 17, 2025, 07:11 AM_
+Peru evacuates 1,400 tourists from machu picchu amid protest; 900 more stranded" }
+SKnortiottkontl@{ shape: win-pane, label: "_Published Sep 12, 2025, 12:45 PM_
+South korean airport workers to strike from sept 19 to oct 9, sparking concerns for travellers" }
+MoLnronitsoeure@{ shape: win-pane, label: "_Published Sep 08, 2025, 07:48 AM_
+Millions of londoners brace for transit disruption as london underground strike begins" }
+Ydroobndenagnnd@{ shape: win-pane, label: "_Published Sep 08, 2025, 10:16 AM_
+Young doctors in south korea abandon residencies, open dermatology clinics instead" }
+Lnmstlsbitd@{ shape: win-pane, label: "_Published Sep 08, 2025, 03:50 PM_
+London’s commuters face travel chaos as tube strike hits hard" }
+Lnrnketeseo@{ shape: win-pane, label: "_Published Sep 07, 2025, 10:26 PM_
+London underground workers set to start week of strike action" }
+LnrovsiTtbs@{ shape: win-pane, label: "_Published Sep 05, 2025, 05:55 PM_
+Londoners brace for travel disruption as tube strike begins" }
 
-Pehsporeeht:::txtsize --> PgvaHtrasoei:::txtsize
-PgvaHtrasoei:::txtsize --> WHmkssnliui:::txtsize
-WHmkssnliui:::txtsize --> Hiinuposhrah:::txtsize
-WHmkssnliui:::txtsize --> HicYfsteloofU:::txtsize
-PgvaHtrasoei:::txtsize --> Pgitsahltnkldb:::txtsize
-Pgitsahltnkldb:::txtsize --> Uirdotoeramzsho:::txtsize
-Pgitsahltnkldb:::txtsize --> UikperngutVura:::txtsize
-Pehsporeeht:::txtsize --> Pgitsahltnkldb:::txtsize
-Pgitsahltnkldb:::txtsize --> Uirdotoeramzsho:::txtsize
-Uirdotoeramzsho:::txtsize --> UikperngutVura:::txtsize
-Uirdotoeramzsho:::txtsize --> VulScpifromlMo:::txtsize
-Pgitsahltnkldb:::txtsize --> UikperngutVura:::txtsize
-UikperngutVura:::txtsize --> Ulfsrafapay:::txtsize
-UikperngutVura:::txtsize --> VuMoUswieggoy:::txtsize
+YaSipyhas:::txtsize --> Gstscrregw:::txtsize
+Gstscrregw:::txtsize --> Vdtarheowoa:::txtsize
+Vdtarheowoa:::txtsize --> Tafdiahesle:::txtsize
+Vdtarheowoa:::txtsize --> BeoeieSpoe:::txtsize
+Gstscrregw:::txtsize --> Ililehitornlausz:::txtsize
+Ililehitornlausz:::txtsize --> kdnoaeyair:::txtsize
+Ililehitornlausz:::txtsize --> TmninGhntfr:::txtsize
+YaSipyhas:::txtsize --> PvtusMPupsen:::txtsize
+PvtusMPupsen:::txtsize --> SKnortiottkontl:::txtsize
+SKnortiottkontl:::txtsize --> MoLnronitsoeure:::txtsize
+SKnortiottkontl:::txtsize --> Ydroobndenagnnd:::txtsize
+PvtusMPupsen:::txtsize --> Lnmstlsbitd:::txtsize
+Lnmstlsbitd:::txtsize --> Lnrnketeseo:::txtsize
+Lnmstlsbitd:::txtsize --> LnrovsiTtbs:::txtsize
 
-Ssfnutdsfhc@{ shape: win-pane, label: "_Published Dec 05, 2025, 11:29 AM_
-Study says african penguins starved en masse off south africa" }
-Eogotdnatxetmh@{ shape: win-pane, label: "_Published Jun 10, 2025, 06:36 PM_
-Emperor penguin populations declining faster than expected due to climate change" }
-RdercaerneUtoy@{ shape: win-pane, label: "_Published Mar 19, 2025, 10:26 AM_
-Record 2024 temperatures accelerate ice loss, rise in sea levels, un weather body says" }
-Diesemeitt@{ shape: win-pane, label: "_Published Mar 20, 2023, 03:31 PM_
-Dreaming the impossible dream: the 1.5 deg c climate target" }
-Rderoctas@{ shape: win-pane, label: "_Published Mar 19, 2025, 08:35 AM_
-Record numbers forced to flee climate disasters: un" }
-Acctduedau@{ shape: win-pane, label: "_Published Mar 30, 2023, 11:59 AM_
-Antarctic ice melt could disrupt the world’s oceans: study" }
-Boegosauaisnce@{ shape: win-pane, label: "_Published Feb 17, 2023, 09:21 AM_
-Billionaire george soros sees threat to ‘survival of civilisation’ as arctic melts" }
-Pibuofcesmgfe@{ shape: win-pane, label: "_Published Apr 11, 2025, 10:20 PM_
-Penguin in a box caused south africa chopper crash, prompting tariff jokes" }
-Pieehemieid@{ shape: win-pane, label: "_Published Apr 04, 2025, 09:55 AM_
-Penguin memes take flight after trump tariffs remote island" }
-Tspaspadanop@{ shape: win-pane, label: "_Published Apr 03, 2025, 04:47 AM_
-Trump’s sweeping tariffs amp up global trade war as china, eu vow response" }
-Tdnaswmtocoeep@{ shape: win-pane, label: "_Published Apr 04, 2025, 04:52 AM_
-Trump defiant as tariffs send world markets into panic; us stocks see steep drop" }
-Ttfevhniiiss@{ shape: win-pane, label: "_Published Apr 03, 2025, 11:10 AM_
-Trump tariffs take aim everywhere, including uninhabited islands" }
-Tspaspadanop@{ shape: win-pane, label: "_Published Apr 03, 2025, 04:47 AM_
-Trump’s sweeping tariffs amp up global trade war as china, eu vow response" }
-OiaeqsenonBoH@{ shape: win-pane, label: "_Published Mar 28, 2025, 02:47 PM_
-Over 153 killed as powerful quake strikes myanmar, sows panic in bangkok and hanoi" }
+Nixilbrrsreua@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:40 PM_
+Netflix in exclusive talks to buy warner bros discovery assets, source says" }
+BnmosaAtoppubsg@{ shape: win-pane, label: "_Published Dec 04, 2025, 02:29 PM_
+Bad bunny named spotify’s global top artiste in 2025, rose’s apt. is apple music’s biggest song" }
+Hpanonrcodgsn@{ shape: win-pane, label: "_Published Sep 15, 2025, 04:45 PM_
+How rapper bad bunny is boosting puerto rico’s economy during slow season" }
+FotiuBanuRcriy@{ shape: win-pane, label: "_Published Jan 14, 2025, 01:45 PM_
+Fresh off latest hit album, bad bunny announces puerto rican concert residency" }
+Msankenittau@{ shape: win-pane, label: "_Published Jan 08, 2025, 02:30 PM_
+Music star bad bunny talks homecoming on his most puerto rican album yet" }
+SfeGlctlsopiinn@{ shape: win-pane, label: "_Published Jul 22, 2025, 01:55 PM_
+Spotify releases 2025 global impact list, highlights rise of k-pop soloists like jennie and jin" }
+Cnrhpatp@{ shape: win-pane, label: "_Published Oct 07, 2024, 09:45 AM_
+Can jennie break the k-pop solo artist slump?" }
+BboetliK@{ shape: win-pane, label: "_Published Jun 21, 2025, 01:15 PM_
+Bts is back together. is it still the king of k-pop?" }
 
-Ssfnutdsfhc:::txtsize --> Eogotdnatxetmh:::txtsize
-Eogotdnatxetmh:::txtsize --> RdercaerneUtoy:::txtsize
-RdercaerneUtoy:::txtsize --> Diesemeitt:::txtsize
-RdercaerneUtoy:::txtsize --> Rderoctas:::txtsize
-Eogotdnatxetmh:::txtsize --> Acctduedau:::txtsize
-Acctduedau:::txtsize --> Boegosauaisnce:::txtsize
-Ssfnutdsfhc:::txtsize --> Pibuofcesmgfe:::txtsize
-Pibuofcesmgfe:::txtsize --> Pieehemieid:::txtsize
-Pieehemieid:::txtsize --> Tspaspadanop:::txtsize
-Pieehemieid:::txtsize --> Tdnaswmtocoeep:::txtsize
-Pibuofcesmgfe:::txtsize --> Ttfevhniiiss:::txtsize
-Ttfevhniiiss:::txtsize --> Tspaspadanop:::txtsize
-Ttfevhniiiss:::txtsize --> OiaeqsenonBoH:::txtsize
+Nixilbrrsreua:::txtsize --> BnmosaAtoppubsg:::txtsize
+BnmosaAtoppubsg:::txtsize --> Hpanonrcodgsn:::txtsize
+Hpanonrcodgsn:::txtsize --> FotiuBanuRcriy:::txtsize
+Hpanonrcodgsn:::txtsize --> Msankenittau:::txtsize
+BnmosaAtoppubsg:::txtsize --> SfeGlctlsopiinn:::txtsize
+SfeGlctlsopiinn:::txtsize --> Cnrhpatp:::txtsize
+SfeGlctlsopiinn:::txtsize --> BboetliK:::txtsize
 
-UtbyCiaocdrter@{ shape: win-pane, label: "_Published Dec 05, 2025, 11:11 AM_
-Us wants stability with china instead of conflict: trade representative greer" }
-Unloehmsewne@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:01 AM_
-Us, china seal deal on rare earths; trump says xi meeting was a 12 on scale of 1 to 10" }
-LnmegvpSaee@{ shape: win-pane, label: "_Published Oct 30, 2025, 12:05 AM_
-Looming trump-xi meeting revives hope of us-china trade truce" }
-Ttudlpaahoo@{ shape: win-pane, label: "_Published Oct 29, 2025, 11:39 AM_
-Trump talks up trade deal prospects as asia tour hits south korea" }
-TXmgelreent@{ shape: win-pane, label: "_Published Oct 28, 2025, 09:35 PM_
-Trump-xi summit might yield only short-lived detente: analysts" }
-Wrteamdar@{ shape: win-pane, label: "_Published Oct 21, 2025, 09:47 PM_
-Why rare earths are china’s trump card in trade war" }
-GBnsnrtrgjomee@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:05 AM_
-Greer, bessent blast china’s rare earths curbs, urge beijing not to implement them" }
-Xrtopglmfps@{ shape: win-pane, label: "_Published Oct 15, 2025, 11:47 AM_
-Xi’s rare earth ‘bazooka’ sparks global alarm, race for supplies" }
+LModittgeoo@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:30 PM_
+Luigi mangione had bus ticket to pittsburgh after shooting of ceo" }
+LMocdcetanelevl@{ shape: win-pane, label: "_Published Apr 18, 2025, 08:02 AM_
+Luigi mangione faces federal charges, death penalty in unitedhealth executive’s killing" }
+LMollrdgseiaElas@{ shape: win-pane, label: "_Published Feb 22, 2025, 09:02 AM_
+Luigi mangione illegally searched during arrest in health insurance ceo killing, lawyer says" }
+ScnHhknattutrhs@{ shape: win-pane, label: "_Published Dec 23, 2024, 10:39 PM_
+Suspect in unitedhealth ceo’s killing pleads not guilty to murder, terrorism charges" }
+MriaEpedlntihnd@{ shape: win-pane, label: "_Published Dec 13, 2024, 07:22 AM_
+Murder of us insurance ceo: suspect became disillusioned with society, then vanished" }
+ScnHhknattutrhs@{ shape: win-pane, label: "_Published Dec 23, 2024, 10:39 PM_
+Suspect in unitedhealth ceo’s killing pleads not guilty to murder, terrorism charges" }
+TevtodYoohu@{ shape: win-pane, label: "_Published Dec 04, 2024, 10:46 PM_
+Top executive shot dead outside new york hotel, police hunt gunman" }
+BdelOuiaiiycng@{ shape: win-pane, label: "_Published Dec 11, 2024, 08:05 AM_
+Behind unitedhealth ceo’s accused killer, a possible history of back pain emerges" }
+LMoituioerhhetuc@{ shape: win-pane, label: "_Published Dec 01, 2025, 11:54 PM_
+Luigi mangione tries to toss gun, manifesto evidence from us healthcare executive murder case" }
+TevtodYoohu@{ shape: win-pane, label: "_Published Dec 04, 2024, 10:46 PM_
+Top executive shot dead outside new york hotel, police hunt gunman" }
+RadsnEeainwnkees@{ shape: win-pane, label: "_Published Jul 12, 2024, 12:16 AM_
+Russia tried to assassinate ceo of german arms firm sending weapons to ukraine, say reports" }
+Caentaarie@{ shape: win-pane, label: "_Published Nov 19, 2024, 07:45 AM_
+Canada foiled iran plot to assassinate former minister" }
+Usoseeyuanuolsc@{ shape: win-pane, label: "_Published Apr 25, 2025, 09:00 AM_
+Us prosecutors to seek death penalty for luigi mangione in murder of health insurance ceo" }
+TevtodYoohu@{ shape: win-pane, label: "_Published Dec 04, 2024, 10:46 PM_
+Top executive shot dead outside new york hotel, police hunt gunman" }
+MriaEpedlntihnd@{ shape: win-pane, label: "_Published Dec 13, 2024, 07:22 AM_
+Murder of us insurance ceo: suspect became disillusioned with society, then vanished" }
 
-UtbyCiaocdrter:::txtsize --> Unloehmsewne:::txtsize
-Unloehmsewne:::txtsize --> LnmegvpSaee:::txtsize
-LnmegvpSaee:::txtsize --> Ttudlpaahoo:::txtsize
-LnmegvpSaee:::txtsize --> TXmgelreent:::txtsize
-Unloehmsewne:::txtsize --> Wrteamdar:::txtsize
-Wrteamdar:::txtsize --> GBnsnrtrgjomee:::txtsize
-Wrteamdar:::txtsize --> Xrtopglmfps:::txtsize
+LModittgeoo:::txtsize --> LMocdcetanelevl:::txtsize
+LMocdcetanelevl:::txtsize --> LMollrdgseiaElas:::txtsize
+LMollrdgseiaElas:::txtsize --> ScnHhknattutrhs:::txtsize
+LMollrdgseiaElas:::txtsize --> MriaEpedlntihnd:::txtsize
+LMocdcetanelevl:::txtsize --> ScnHhknattutrhs:::txtsize
+ScnHhknattutrhs:::txtsize --> TevtodYoohu:::txtsize
+ScnHhknattutrhs:::txtsize --> BdelOuiaiiycng:::txtsize
+LModittgeoo:::txtsize --> LMoituioerhhetuc:::txtsize
+LMoituioerhhetuc:::txtsize --> TevtodYoohu:::txtsize
+TevtodYoohu:::txtsize --> RadsnEeainwnkees:::txtsize
+TevtodYoohu:::txtsize --> Caentaarie:::txtsize
+LMoituioerhhetuc:::txtsize --> Usoseeyuanuolsc:::txtsize
+Usoseeyuanuolsc:::txtsize --> TevtodYoohu:::txtsize
+Usoseeyuanuolsc:::txtsize --> MriaEpedlntihnd:::txtsize
 
 ```
-<i>Last updated: 2025-12-05 12:00:50.711948 (GMT+8)</i>
+<i>Last updated: 2025-12-05 16:01:15.692940 (GMT+8)</i>
 <!-- END -->
