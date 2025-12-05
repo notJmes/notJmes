@@ -16,123 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Usorateeele@{ shape: win-pane, label: "_Published Dec 05, 2025, 07:20 AM_
-Us slashes work permit validity time for refugees, asylum seekers" }
-Uslgolirnpoi@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:35 AM_
-Us pauses all immigration applications from 19 non-european countries" }
-Wttragtlit@{ shape: win-pane, label: "_Published Dec 03, 2025, 07:40 AM_
-‘we don’t want them’: trump rages against somali immigrants" }
-Tuaarottiou@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:50 PM_
-Trump uses national guard shooting to cast suspicion on refugees" }
-Tsedeaptrtfmina@{ shape: win-pane, label: "_Published Nov 22, 2025, 01:24 PM_
-Trump says he is ending temporary deportation protections for somalis in minnesota" }
-AaamapiuHnpiee@{ shape: win-pane, label: "_Published Dec 03, 2025, 08:20 AM_
-Australia’s anti-immigration populist pauline hanson eyes political resurgence" }
-Uslgolirnpoi@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:35 AM_
-Us pauses all immigration applications from 19 non-european countries" }
-FgsiliuHnbiln@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:12 PM_
-Far-right australian politician pauline hanson dons burqa in parliament" }
-Unhscaarowei@{ shape: win-pane, label: "_Published Nov 27, 2025, 11:52 PM_
-Us plans to charge suspect in national guard shooting with terrorism" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
-Us stops processing afghan immigration requests after attack near white house" }
-Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
-Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
-Foosrdcaardnho@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:08 PM_
-Fbi probes motives in ‘targeted’ attack on national guard soldiers near white house" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
-Us stops processing afghan immigration requests after attack near white house" }
-
-Usorateeele:::txtsize --> Uslgolirnpoi:::txtsize
-Uslgolirnpoi:::txtsize --> Wttragtlit:::txtsize
-Wttragtlit:::txtsize --> Tuaarottiou:::txtsize
-Wttragtlit:::txtsize --> Tsedeaptrtfmina:::txtsize
-Uslgolirnpoi:::txtsize --> AaamapiuHnpiee:::txtsize
-AaamapiuHnpiee:::txtsize --> Uslgolirnpoi:::txtsize
-AaamapiuHnpiee:::txtsize --> FgsiliuHnbiln:::txtsize
-Usorateeele:::txtsize --> Unhscaarowei:::txtsize
-Unhscaarowei:::txtsize --> Nnalsiydttteiu:::txtsize
-Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
-Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
-Unhscaarowei:::txtsize --> Foosrdcaardnho:::txtsize
-Foosrdcaardnho:::txtsize --> Nnalsiydttteiu:::txtsize
-Foosrdcaardnho:::txtsize --> Upcnhmteteaats:::txtsize
-
-Vnngtnponfpr@{ shape: win-pane, label: "_Published Dec 05, 2025, 07:05 AM_
-Virginia man charged with planting pipe bombs on eve of us capitol riot" }
-Fgoykiealccs@{ shape: win-pane, label: "_Published Jun 07, 2025, 03:06 AM_
-Far right proud boys seek $129 million over us capitol riot convictions" }
-Eusetdairnpak@{ shape: win-pane, label: "_Published Sep 06, 2023, 07:10 AM_
-Ex-proud boys leader sentenced to 22 years’ jail for role in us capitol attack" }
-SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
-JsnxdlrnrsStt@{ shape: win-pane, label: "_Published Sep 01, 2023, 01:46 AM_
-Judge sentences ex-proud boys leaders to 17 and 15-year terms for us capitol attack" }
-TaitotiwserSto@{ shape: win-pane, label: "_Published May 20, 2025, 04:24 AM_
-Trump administration to pay $6.5m to family of woman shot dead during us capitol riot" }
-Pnirmalcoomrlii@{ shape: win-pane, label: "_Published Jan 21, 2025, 07:36 PM_
-Pardoned prisoners from jan 6 capitol attack to go free on trump’s first full day in office" }
-UeerghIlnto@{ shape: win-pane, label: "_Published Apr 10, 2025, 07:40 AM_
-Us intelligence probing whether fbi involved in 2021 capitol riot" }
-TaitotiwserSto@{ shape: win-pane, label: "_Published May 20, 2025, 04:24 AM_
-Trump administration to pay $6.5m to family of woman shot dead during us capitol riot" }
-Pnirmalcoomrlii@{ shape: win-pane, label: "_Published Jan 21, 2025, 07:36 PM_
-Pardoned prisoners from jan 6 capitol attack to go free on trump’s first full day in office" }
-TkeasgoetrsdPdr@{ shape: win-pane, label: "_Published Jan 21, 2025, 11:07 AM_
-Tiktok ban delay, pardons, immigration: key executive orders signed by us president trump" }
-SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
-UeerghIlnto@{ shape: win-pane, label: "_Published Apr 10, 2025, 07:40 AM_
-Us intelligence probing whether fbi involved in 2021 capitol riot" }
-SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
+Pehsporeeht@{ shape: win-pane, label: "_Published Dec 05, 2025, 11:47 AM_
+Pete hegseth keeps trump’s favour for now despite fresh missteps" }
+PgvaHtrasoei@{ shape: win-pane, label: "_Published Dec 04, 2025, 05:30 AM_
+Pentagon review faults hegseth over signal messages on yemen strikes" }
 WHmkssnliui@{ shape: win-pane, label: "_Published Mar 25, 2025, 04:50 AM_
 White house mistakenly shares yemen war plans with journalist" }
+Hiinuposhrah@{ shape: win-pane, label: "_Published Mar 17, 2025, 03:35 PM_
+‘hell will rain down on you’: trump, the houthis and the us’ proxy war with iran" }
+HicYfsteloofU@{ shape: win-pane, label: "_Published Mar 24, 2025, 07:55 AM_
+Houthi attacks in yemen force ships to make costly detour around africa: us" }
+Pgitsahltnkldb@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:21 AM_
+Pentagon chief pete hegseth says us has ‘only just begun’ striking alleged drug boats" }
+Uirdotoeramzsho@{ shape: win-pane, label: "_Published Dec 02, 2025, 04:09 AM_
+Us admiral ordered follow-up strike on alleged drug boat from venezuela, says white house" }
+UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
+Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
+Pgitsahltnkldb@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:21 AM_
+Pentagon chief pete hegseth says us has ‘only just begun’ striking alleged drug boats" }
+Uirdotoeramzsho@{ shape: win-pane, label: "_Published Dec 02, 2025, 04:09 AM_
+Us admiral ordered follow-up strike on alleged drug boat from venezuela, says white house" }
+UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
+Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
+VulScpifromlMo@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:49 AM_
+Venezuela slams us attack preparations after trump confirms call with maduro" }
+UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
+Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
+Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
+Us builds up forces in caribbean as officials, experts, ask why" }
+VuMoUswieggoy@{ shape: win-pane, label: "_Published Sep 02, 2025, 01:19 AM_
+Venezuela’s maduro says us warships with 1,200 missiles targeting his country" }
 
-Vnngtnponfpr:::txtsize --> Fgoykiealccs:::txtsize
-Fgoykiealccs:::txtsize --> Eusetdairnpak:::txtsize
-Eusetdairnpak:::txtsize --> SiUiinenWn:::txtsize
-Eusetdairnpak:::txtsize --> JsnxdlrnrsStt:::txtsize
-Fgoykiealccs:::txtsize --> TaitotiwserSto:::txtsize
-TaitotiwserSto:::txtsize --> Pnirmalcoomrlii:::txtsize
-TaitotiwserSto:::txtsize --> UeerghIlnto:::txtsize
-Vnngtnponfpr:::txtsize --> TaitotiwserSto:::txtsize
-TaitotiwserSto:::txtsize --> Pnirmalcoomrlii:::txtsize
-Pnirmalcoomrlii:::txtsize --> TkeasgoetrsdPdr:::txtsize
-Pnirmalcoomrlii:::txtsize --> SiUiinenWn:::txtsize
-TaitotiwserSto:::txtsize --> UeerghIlnto:::txtsize
-UeerghIlnto:::txtsize --> SiUiinenWn:::txtsize
-UeerghIlnto:::txtsize --> WHmkssnliui:::txtsize
+Pehsporeeht:::txtsize --> PgvaHtrasoei:::txtsize
+PgvaHtrasoei:::txtsize --> WHmkssnliui:::txtsize
+WHmkssnliui:::txtsize --> Hiinuposhrah:::txtsize
+WHmkssnliui:::txtsize --> HicYfsteloofU:::txtsize
+PgvaHtrasoei:::txtsize --> Pgitsahltnkldb:::txtsize
+Pgitsahltnkldb:::txtsize --> Uirdotoeramzsho:::txtsize
+Pgitsahltnkldb:::txtsize --> UikperngutVura:::txtsize
+Pehsporeeht:::txtsize --> Pgitsahltnkldb:::txtsize
+Pgitsahltnkldb:::txtsize --> Uirdotoeramzsho:::txtsize
+Uirdotoeramzsho:::txtsize --> UikperngutVura:::txtsize
+Uirdotoeramzsho:::txtsize --> VulScpifromlMo:::txtsize
+Pgitsahltnkldb:::txtsize --> UikperngutVura:::txtsize
+UikperngutVura:::txtsize --> Ulfsrafapay:::txtsize
+UikperngutVura:::txtsize --> VuMoUswieggoy:::txtsize
 
-Tstatoslmeiuy@{ shape: win-pane, label: "_Published Dec 05, 2025, 07:00 AM_
-Trump selects new architect to oversee ballroom project, white house says" }
-WHgcdhmsaaok@{ shape: win-pane, label: "_Published Dec 02, 2025, 08:45 AM_
-White house gets scaled-down christmas display amid ballroom work" }
-WHEilowboudioo@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:39 AM_
-White house east wing will be torn down for ballroom, trump had promised not to do so" }
-Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
-‘music to my ears’: trump brushes off critics of white house demolition" }
-Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
-‘music to my ears’: trump brushes off critics of white house demolition" }
-Tletlmphrnmhts@{ shape: win-pane, label: "_Published Oct 25, 2025, 08:05 PM_
-The bulldozer and the ballroom: trump puts his permanent stamp on the white house" }
-WHEilowboudioo@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:39 AM_
-White house east wing will be torn down for ballroom, trump had promised not to do so" }
-WHEilowboudioo@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:39 AM_
-White house east wing will be torn down for ballroom, trump had promised not to do so" }
+Ssfnutdsfhc@{ shape: win-pane, label: "_Published Dec 05, 2025, 11:29 AM_
+Study says african penguins starved en masse off south africa" }
+Eogotdnatxetmh@{ shape: win-pane, label: "_Published Jun 10, 2025, 06:36 PM_
+Emperor penguin populations declining faster than expected due to climate change" }
+RdercaerneUtoy@{ shape: win-pane, label: "_Published Mar 19, 2025, 10:26 AM_
+Record 2024 temperatures accelerate ice loss, rise in sea levels, un weather body says" }
+Diesemeitt@{ shape: win-pane, label: "_Published Mar 20, 2023, 03:31 PM_
+Dreaming the impossible dream: the 1.5 deg c climate target" }
+Rderoctas@{ shape: win-pane, label: "_Published Mar 19, 2025, 08:35 AM_
+Record numbers forced to flee climate disasters: un" }
+Acctduedau@{ shape: win-pane, label: "_Published Mar 30, 2023, 11:59 AM_
+Antarctic ice melt could disrupt the world’s oceans: study" }
+Boegosauaisnce@{ shape: win-pane, label: "_Published Feb 17, 2023, 09:21 AM_
+Billionaire george soros sees threat to ‘survival of civilisation’ as arctic melts" }
+Pibuofcesmgfe@{ shape: win-pane, label: "_Published Apr 11, 2025, 10:20 PM_
+Penguin in a box caused south africa chopper crash, prompting tariff jokes" }
+Pieehemieid@{ shape: win-pane, label: "_Published Apr 04, 2025, 09:55 AM_
+Penguin memes take flight after trump tariffs remote island" }
+Tspaspadanop@{ shape: win-pane, label: "_Published Apr 03, 2025, 04:47 AM_
+Trump’s sweeping tariffs amp up global trade war as china, eu vow response" }
+Tdnaswmtocoeep@{ shape: win-pane, label: "_Published Apr 04, 2025, 04:52 AM_
+Trump defiant as tariffs send world markets into panic; us stocks see steep drop" }
+Ttfevhniiiss@{ shape: win-pane, label: "_Published Apr 03, 2025, 11:10 AM_
+Trump tariffs take aim everywhere, including uninhabited islands" }
+Tspaspadanop@{ shape: win-pane, label: "_Published Apr 03, 2025, 04:47 AM_
+Trump’s sweeping tariffs amp up global trade war as china, eu vow response" }
+OiaeqsenonBoH@{ shape: win-pane, label: "_Published Mar 28, 2025, 02:47 PM_
+Over 153 killed as powerful quake strikes myanmar, sows panic in bangkok and hanoi" }
 
-Tstatoslmeiuy:::txtsize --> WHgcdhmsaaok:::txtsize
-WHgcdhmsaaok:::txtsize --> WHEilowboudioo:::txtsize
-WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
-WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
-WHgcdhmsaaok:::txtsize --> Tletlmphrnmhts:::txtsize
-Tletlmphrnmhts:::txtsize --> WHEilowboudioo:::txtsize
-Tletlmphrnmhts:::txtsize --> WHEilowboudioo:::txtsize
+Ssfnutdsfhc:::txtsize --> Eogotdnatxetmh:::txtsize
+Eogotdnatxetmh:::txtsize --> RdercaerneUtoy:::txtsize
+RdercaerneUtoy:::txtsize --> Diesemeitt:::txtsize
+RdercaerneUtoy:::txtsize --> Rderoctas:::txtsize
+Eogotdnatxetmh:::txtsize --> Acctduedau:::txtsize
+Acctduedau:::txtsize --> Boegosauaisnce:::txtsize
+Ssfnutdsfhc:::txtsize --> Pibuofcesmgfe:::txtsize
+Pibuofcesmgfe:::txtsize --> Pieehemieid:::txtsize
+Pieehemieid:::txtsize --> Tspaspadanop:::txtsize
+Pieehemieid:::txtsize --> Tdnaswmtocoeep:::txtsize
+Pibuofcesmgfe:::txtsize --> Ttfevhniiiss:::txtsize
+Ttfevhniiiss:::txtsize --> Tspaspadanop:::txtsize
+Ttfevhniiiss:::txtsize --> OiaeqsenonBoH:::txtsize
+
+UtbyCiaocdrter@{ shape: win-pane, label: "_Published Dec 05, 2025, 11:11 AM_
+Us wants stability with china instead of conflict: trade representative greer" }
+Unloehmsewne@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:01 AM_
+Us, china seal deal on rare earths; trump says xi meeting was a 12 on scale of 1 to 10" }
+LnmegvpSaee@{ shape: win-pane, label: "_Published Oct 30, 2025, 12:05 AM_
+Looming trump-xi meeting revives hope of us-china trade truce" }
+Ttudlpaahoo@{ shape: win-pane, label: "_Published Oct 29, 2025, 11:39 AM_
+Trump talks up trade deal prospects as asia tour hits south korea" }
+TXmgelreent@{ shape: win-pane, label: "_Published Oct 28, 2025, 09:35 PM_
+Trump-xi summit might yield only short-lived detente: analysts" }
+Wrteamdar@{ shape: win-pane, label: "_Published Oct 21, 2025, 09:47 PM_
+Why rare earths are china’s trump card in trade war" }
+GBnsnrtrgjomee@{ shape: win-pane, label: "_Published Oct 16, 2025, 12:05 AM_
+Greer, bessent blast china’s rare earths curbs, urge beijing not to implement them" }
+Xrtopglmfps@{ shape: win-pane, label: "_Published Oct 15, 2025, 11:47 AM_
+Xi’s rare earth ‘bazooka’ sparks global alarm, race for supplies" }
+
+UtbyCiaocdrter:::txtsize --> Unloehmsewne:::txtsize
+Unloehmsewne:::txtsize --> LnmegvpSaee:::txtsize
+LnmegvpSaee:::txtsize --> Ttudlpaahoo:::txtsize
+LnmegvpSaee:::txtsize --> TXmgelreent:::txtsize
+Unloehmsewne:::txtsize --> Wrteamdar:::txtsize
+Wrteamdar:::txtsize --> GBnsnrtrgjomee:::txtsize
+Wrteamdar:::txtsize --> Xrtopglmfps:::txtsize
 
 ```
-<i>Last updated: 2025-12-05 08:00:25.046961 (GMT+8)</i>
+<i>Last updated: 2025-12-05 12:00:50.711948 (GMT+8)</i>
 <!-- END -->
