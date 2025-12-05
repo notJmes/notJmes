@@ -16,141 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Dssernlpoiirdr@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:50 AM_
-Drones were spotted near zelensky flight path to dublin, media in ireland report" }
-DsiithChOit@{ shape: win-pane, label: "_Published Sep 23, 2025, 08:52 AM_
-Drone sightings disrupt flights at copenhagen, oslo airports" }
-Eerslcakunrie@{ shape: win-pane, label: "_Published Sep 20, 2025, 03:40 PM_
-European airports snarled by cyber attack, disruption to stretch into sept 21" }
-DAnewietueptsgsi@{ shape: win-pane, label: "_Published Oct 26, 2024, 07:12 AM_
-Delta air lines sues crowdstrike over software update that prompted mass flight disruptions" }
-KpioeaMsityrc@{ shape: win-pane, label: "_Published Mar 25, 2025, 05:25 PM_
-Klia operations not affected after malaysian airport hit by cyber attack" }
-Arohtegfawtsrry@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:16 AM_
-Airport chaos highlights rise in high-profile ransomware attacks, cyber experts say" }
-Eerslcakunrie@{ shape: win-pane, label: "_Published Sep 20, 2025, 03:40 PM_
-European airports snarled by cyber attack, disruption to stretch into sept 21" }
-Titceronttaw@{ shape: win-pane, label: "_Published Sep 18, 2025, 10:20 PM_
-Two british teens charged over london transport hack that lasted weeks" }
-EeatsesPmna@{ shape: win-pane, label: "_Published Sep 01, 2025, 07:39 PM_
-Eu chief’s plane hit by suspected russian gps jamming in bulgaria" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
-Explosions heard in ukraine capital kyiv, other cities" }
-OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
-Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
-Apapoeafe@{ shape: win-pane, label: "_Published Aug 22, 2025, 05:00 AM_
-A trumpian game of ping pong over ukraine’s future" }
-Wteisoseiueguhni@{ shape: win-pane, label: "_Published Aug 20, 2025, 01:15 AM_
-With ‘stop the killing’ instead of ‘ceasefire’, eu tries trump-pleasing language shift on ukraine" }
+Usorateeele@{ shape: win-pane, label: "_Published Dec 05, 2025, 07:20 AM_
+Us slashes work permit validity time for refugees, asylum seekers" }
+Uslgolirnpoi@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:35 AM_
+Us pauses all immigration applications from 19 non-european countries" }
+Wttragtlit@{ shape: win-pane, label: "_Published Dec 03, 2025, 07:40 AM_
+‘we don’t want them’: trump rages against somali immigrants" }
+Tuaarottiou@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:50 PM_
+Trump uses national guard shooting to cast suspicion on refugees" }
+Tsedeaptrtfmina@{ shape: win-pane, label: "_Published Nov 22, 2025, 01:24 PM_
+Trump says he is ending temporary deportation protections for somalis in minnesota" }
+AaamapiuHnpiee@{ shape: win-pane, label: "_Published Dec 03, 2025, 08:20 AM_
+Australia’s anti-immigration populist pauline hanson eyes political resurgence" }
+Uslgolirnpoi@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:35 AM_
+Us pauses all immigration applications from 19 non-european countries" }
+FgsiliuHnbiln@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:12 PM_
+Far-right australian politician pauline hanson dons burqa in parliament" }
+Unhscaarowei@{ shape: win-pane, label: "_Published Nov 27, 2025, 11:52 PM_
+Us plans to charge suspect in national guard shooting with terrorism" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
+Us stops processing afghan immigration requests after attack near white house" }
+Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
+Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
+Foosrdcaardnho@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:08 PM_
+Fbi probes motives in ‘targeted’ attack on national guard soldiers near white house" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Upcnhmteteaats@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:58 AM_
+Us stops processing afghan immigration requests after attack near white house" }
 
-Dssernlpoiirdr:::txtsize --> DsiithChOit:::txtsize
-DsiithChOit:::txtsize --> Eerslcakunrie:::txtsize
-Eerslcakunrie:::txtsize --> DAnewietueptsgsi:::txtsize
-Eerslcakunrie:::txtsize --> KpioeaMsityrc:::txtsize
-DsiithChOit:::txtsize --> Arohtegfawtsrry:::txtsize
-Arohtegfawtsrry:::txtsize --> Eerslcakunrie:::txtsize
-Arohtegfawtsrry:::txtsize --> Titceronttaw:::txtsize
-Dssernlpoiirdr:::txtsize --> EeatsesPmna:::txtsize
-EeatsesPmna:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
-DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
-EeatsesPmna:::txtsize --> Apapoeafe:::txtsize
-Apapoeafe:::txtsize --> Wteisoseiueguhni:::txtsize
+Usorateeele:::txtsize --> Uslgolirnpoi:::txtsize
+Uslgolirnpoi:::txtsize --> Wttragtlit:::txtsize
+Wttragtlit:::txtsize --> Tuaarottiou:::txtsize
+Wttragtlit:::txtsize --> Tsedeaptrtfmina:::txtsize
+Uslgolirnpoi:::txtsize --> AaamapiuHnpiee:::txtsize
+AaamapiuHnpiee:::txtsize --> Uslgolirnpoi:::txtsize
+AaamapiuHnpiee:::txtsize --> FgsiliuHnbiln:::txtsize
+Usorateeele:::txtsize --> Unhscaarowei:::txtsize
+Unhscaarowei:::txtsize --> Nnalsiydttteiu:::txtsize
+Nnalsiydttteiu:::txtsize --> Upcnhmteteaats:::txtsize
+Nnalsiydttteiu:::txtsize --> Pespnaemipuit:::txtsize
+Unhscaarowei:::txtsize --> Foosrdcaardnho:::txtsize
+Foosrdcaardnho:::txtsize --> Nnalsiydttteiu:::txtsize
+Foosrdcaardnho:::txtsize --> Upcnhmteteaats:::txtsize
 
-Nogptgtibhstme@{ shape: win-pane, label: "_Published Dec 05, 2025, 01:45 AM_
-Nato looking to be proactive against russian ‘hybrid threats’, says top commander" }
-PduyrneayteRaee@{ shape: win-pane, label: "_Published Nov 18, 2025, 10:03 PM_
-Poland’s pm tusk says two responsible for railway blast worked for russian intelligence" }
-Pdeonlnrsabe@{ shape: win-pane, label: "_Published Nov 17, 2025, 04:32 PM_
-Poland suspects ‘foreign intelligence services’ for rail sabotage" }
-Pdceitiomsa@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:25 PM_
-Poland launches new military training programme, aims to train 400,000 in 2026" }
-PdileBudogo@{ shape: win-pane, label: "_Published Nov 14, 2025, 04:56 PM_
-Poland says it will reopen two belarus border crossings on nov 17" }
-Pdeonlnrsabe@{ shape: win-pane, label: "_Published Nov 17, 2025, 04:32 PM_
-Poland suspects ‘foreign intelligence services’ for rail sabotage" }
-Pdceitiomsa@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:25 PM_
-Poland launches new military training programme, aims to train 400,000 in 2026" }
-PdileBudogo@{ shape: win-pane, label: "_Published Nov 14, 2025, 04:56 PM_
-Poland says it will reopen two belarus border crossings on nov 17" }
-Dssernlpoiirdr@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:50 AM_
-Drones were spotted near zelensky flight path to dublin, media in ireland report" }
-DsiithChOit@{ shape: win-pane, label: "_Published Sep 23, 2025, 08:52 AM_
-Drone sightings disrupt flights at copenhagen, oslo airports" }
-Eerslcakunrie@{ shape: win-pane, label: "_Published Sep 20, 2025, 03:40 PM_
-European airports snarled by cyber attack, disruption to stretch into sept 21" }
-Arohtegfawtsrry@{ shape: win-pane, label: "_Published Sep 23, 2025, 12:16 AM_
-Airport chaos highlights rise in high-profile ransomware attacks, cyber experts say" }
-EeatsesPmna@{ shape: win-pane, label: "_Published Sep 01, 2025, 07:39 PM_
-Eu chief’s plane hit by suspected russian gps jamming in bulgaria" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Apapoeafe@{ shape: win-pane, label: "_Published Aug 22, 2025, 05:00 AM_
-A trumpian game of ping pong over ukraine’s future" }
-
-Nogptgtibhstme:::txtsize --> PduyrneayteRaee:::txtsize
-PduyrneayteRaee:::txtsize --> Pdeonlnrsabe:::txtsize
-Pdeonlnrsabe:::txtsize --> Pdceitiomsa:::txtsize
-Pdeonlnrsabe:::txtsize --> PdileBudogo:::txtsize
-PduyrneayteRaee:::txtsize --> Pdeonlnrsabe:::txtsize
-Pdeonlnrsabe:::txtsize --> Pdceitiomsa:::txtsize
-Pdeonlnrsabe:::txtsize --> PdileBudogo:::txtsize
-Nogptgtibhstme:::txtsize --> Dssernlpoiirdr:::txtsize
-Dssernlpoiirdr:::txtsize --> DsiithChOit:::txtsize
-DsiithChOit:::txtsize --> Eerslcakunrie:::txtsize
-DsiithChOit:::txtsize --> Arohtegfawtsrry:::txtsize
-Dssernlpoiirdr:::txtsize --> EeatsesPmna:::txtsize
-EeatsesPmna:::txtsize --> DsruasvUn:::txtsize
-EeatsesPmna:::txtsize --> Apapoeafe:::txtsize
-
-Voiriorrlisms@{ shape: win-pane, label: "_Published Dec 05, 2025, 01:36 AM_
-Video of us military strike shows survivors in ‘clear distress’, lawmaker says" }
-UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
-Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
-Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
-Us builds up forces in caribbean as officials, experts, ask why" }
-Ursratnldoi@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:51 AM_
-Us increases reward for arrest of venezeula’s maduro to $64 million" }
-Ursratnldoi@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:51 AM_
-Us increases reward for arrest of venezeula’s maduro to $64 million" }
-VuMoUswieggoy@{ shape: win-pane, label: "_Published Sep 02, 2025, 01:19 AM_
-Venezuela’s maduro says us warships with 1,200 missiles targeting his country" }
-Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
-Us builds up forces in caribbean as officials, experts, ask why" }
-Ursratnldoi@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:51 AM_
-Us increases reward for arrest of venezeula’s maduro to $64 million" }
-PgvaHtrasoei@{ shape: win-pane, label: "_Published Dec 04, 2025, 05:30 AM_
-Pentagon review faults hegseth over signal messages on yemen strikes" }
+Vnngtnponfpr@{ shape: win-pane, label: "_Published Dec 05, 2025, 07:05 AM_
+Virginia man charged with planting pipe bombs on eve of us capitol riot" }
+Fgoykiealccs@{ shape: win-pane, label: "_Published Jun 07, 2025, 03:06 AM_
+Far right proud boys seek $129 million over us capitol riot convictions" }
+Eusetdairnpak@{ shape: win-pane, label: "_Published Sep 06, 2023, 07:10 AM_
+Ex-proud boys leader sentenced to 22 years’ jail for role in us capitol attack" }
+SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
+Storming of us capitol: timeline of key events in washington" }
+JsnxdlrnrsStt@{ shape: win-pane, label: "_Published Sep 01, 2023, 01:46 AM_
+Judge sentences ex-proud boys leaders to 17 and 15-year terms for us capitol attack" }
+TaitotiwserSto@{ shape: win-pane, label: "_Published May 20, 2025, 04:24 AM_
+Trump administration to pay $6.5m to family of woman shot dead during us capitol riot" }
+Pnirmalcoomrlii@{ shape: win-pane, label: "_Published Jan 21, 2025, 07:36 PM_
+Pardoned prisoners from jan 6 capitol attack to go free on trump’s first full day in office" }
+UeerghIlnto@{ shape: win-pane, label: "_Published Apr 10, 2025, 07:40 AM_
+Us intelligence probing whether fbi involved in 2021 capitol riot" }
+TaitotiwserSto@{ shape: win-pane, label: "_Published May 20, 2025, 04:24 AM_
+Trump administration to pay $6.5m to family of woman shot dead during us capitol riot" }
+Pnirmalcoomrlii@{ shape: win-pane, label: "_Published Jan 21, 2025, 07:36 PM_
+Pardoned prisoners from jan 6 capitol attack to go free on trump’s first full day in office" }
+TkeasgoetrsdPdr@{ shape: win-pane, label: "_Published Jan 21, 2025, 11:07 AM_
+Tiktok ban delay, pardons, immigration: key executive orders signed by us president trump" }
+SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
+Storming of us capitol: timeline of key events in washington" }
+UeerghIlnto@{ shape: win-pane, label: "_Published Apr 10, 2025, 07:40 AM_
+Us intelligence probing whether fbi involved in 2021 capitol riot" }
+SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
+Storming of us capitol: timeline of key events in washington" }
 WHmkssnliui@{ shape: win-pane, label: "_Published Mar 25, 2025, 04:50 AM_
 White house mistakenly shares yemen war plans with journalist" }
-Hiinuposhrah@{ shape: win-pane, label: "_Published Mar 17, 2025, 03:35 PM_
-‘hell will rain down on you’: trump, the houthis and the us’ proxy war with iran" }
-HicYfsteloofU@{ shape: win-pane, label: "_Published Mar 24, 2025, 07:55 AM_
-Houthi attacks in yemen force ships to make costly detour around africa: us" }
-Pgitsahltnkldb@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:21 AM_
-Pentagon chief pete hegseth says us has ‘only just begun’ striking alleged drug boats" }
-Uirdotoeramzsho@{ shape: win-pane, label: "_Published Dec 02, 2025, 04:09 AM_
-Us admiral ordered follow-up strike on alleged drug boat from venezuela, says white house" }
-UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
-Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
 
-Voiriorrlisms:::txtsize --> UikperngutVura:::txtsize
-UikperngutVura:::txtsize --> Ulfsrafapay:::txtsize
-Ulfsrafapay:::txtsize --> Ursratnldoi:::txtsize
-Ulfsrafapay:::txtsize --> Ursratnldoi:::txtsize
-UikperngutVura:::txtsize --> VuMoUswieggoy:::txtsize
-VuMoUswieggoy:::txtsize --> Ulfsrafapay:::txtsize
-VuMoUswieggoy:::txtsize --> Ursratnldoi:::txtsize
-Voiriorrlisms:::txtsize --> PgvaHtrasoei:::txtsize
-PgvaHtrasoei:::txtsize --> WHmkssnliui:::txtsize
-WHmkssnliui:::txtsize --> Hiinuposhrah:::txtsize
-WHmkssnliui:::txtsize --> HicYfsteloofU:::txtsize
-PgvaHtrasoei:::txtsize --> Pgitsahltnkldb:::txtsize
-Pgitsahltnkldb:::txtsize --> Uirdotoeramzsho:::txtsize
-Pgitsahltnkldb:::txtsize --> UikperngutVura:::txtsize
+Vnngtnponfpr:::txtsize --> Fgoykiealccs:::txtsize
+Fgoykiealccs:::txtsize --> Eusetdairnpak:::txtsize
+Eusetdairnpak:::txtsize --> SiUiinenWn:::txtsize
+Eusetdairnpak:::txtsize --> JsnxdlrnrsStt:::txtsize
+Fgoykiealccs:::txtsize --> TaitotiwserSto:::txtsize
+TaitotiwserSto:::txtsize --> Pnirmalcoomrlii:::txtsize
+TaitotiwserSto:::txtsize --> UeerghIlnto:::txtsize
+Vnngtnponfpr:::txtsize --> TaitotiwserSto:::txtsize
+TaitotiwserSto:::txtsize --> Pnirmalcoomrlii:::txtsize
+Pnirmalcoomrlii:::txtsize --> TkeasgoetrsdPdr:::txtsize
+Pnirmalcoomrlii:::txtsize --> SiUiinenWn:::txtsize
+TaitotiwserSto:::txtsize --> UeerghIlnto:::txtsize
+UeerghIlnto:::txtsize --> SiUiinenWn:::txtsize
+UeerghIlnto:::txtsize --> WHmkssnliui:::txtsize
+
+Tstatoslmeiuy@{ shape: win-pane, label: "_Published Dec 05, 2025, 07:00 AM_
+Trump selects new architect to oversee ballroom project, white house says" }
+WHgcdhmsaaok@{ shape: win-pane, label: "_Published Dec 02, 2025, 08:45 AM_
+White house gets scaled-down christmas display amid ballroom work" }
+WHEilowboudioo@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:39 AM_
+White house east wing will be torn down for ballroom, trump had promised not to do so" }
+Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
+‘music to my ears’: trump brushes off critics of white house demolition" }
+Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
+‘music to my ears’: trump brushes off critics of white house demolition" }
+Tletlmphrnmhts@{ shape: win-pane, label: "_Published Oct 25, 2025, 08:05 PM_
+The bulldozer and the ballroom: trump puts his permanent stamp on the white house" }
+WHEilowboudioo@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:39 AM_
+White house east wing will be torn down for ballroom, trump had promised not to do so" }
+WHEilowboudioo@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:39 AM_
+White house east wing will be torn down for ballroom, trump had promised not to do so" }
+
+Tstatoslmeiuy:::txtsize --> WHgcdhmsaaok:::txtsize
+WHgcdhmsaaok:::txtsize --> WHEilowboudioo:::txtsize
+WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
+WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
+WHgcdhmsaaok:::txtsize --> Tletlmphrnmhts:::txtsize
+Tletlmphrnmhts:::txtsize --> WHEilowboudioo:::txtsize
+Tletlmphrnmhts:::txtsize --> WHEilowboudioo:::txtsize
 
 ```
-<i>Last updated: 2025-12-05 04:01:00.162708 (GMT+8)</i>
+<i>Last updated: 2025-12-05 08:00:25.046961 (GMT+8)</i>
 <!-- END -->
