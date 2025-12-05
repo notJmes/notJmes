@@ -16,120 +16,141 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Fhoshssol@{ shape: win-pane, label: "_Published Dec 05, 2025, 07:15 PM_
-French town offers $1,500 birth bonuses to save local clinic" }
-Erdit@{ shape: win-pane, label: "_Published Mar 07, 2025, 09:26 PM_
-Eu saw record drop in births in 2023" }
-Eeipiayesno@{ shape: win-pane, label: "_Published May 19, 2024, 03:30 PM_
-Europe’s ageing population is a money magnet for some investors" }
-CstitlysdrCwn@{ shape: win-pane, label: "_Published Jan 12, 2023, 12:19 PM_
-Chinese fret over infecting elderly kin as holidays prompt covid-19 warnings" }
-Eliomptassdt@{ shape: win-pane, label: "_Published Apr 13, 2024, 10:55 AM_
-Elderly living alone to make up a fifth of japanese households by 2050: study" }
-Fropahsei@{ shape: win-pane, label: "_Published Jul 21, 2023, 06:52 AM_
-For europe’s older population, heat is the new covid-19" }
-Rdscgaoesevk@{ shape: win-pane, label: "_Published Jul 18, 2023, 02:00 PM_
-Record highs scorch the globe as europe prepares for heatwave peak" }
-HtthttEetrs@{ shape: win-pane, label: "_Published Jul 16, 2023, 11:48 PM_
-‘heat storm’ stretches into southern europe, health alerts issued" }
-isgacteinrrte@{ shape: win-pane, label: "_Published Oct 03, 2025, 03:00 PM_
-2024 is first dragon year since 1964 that failed to lift singapore’s fertility rate" }
-Spanmohdmounel@{ shape: win-pane, label: "_Published Sep 29, 2025, 03:00 PM_
-S’pore population now at 6.11 million, with 1.2% rise due to more construction workers, helpers" }
-Sptflatowllrt@{ shape: win-pane, label: "_Published Feb 28, 2024, 03:46 PM_
-Singapore’s total fertility rate hits record low in 2023, falls below 1 for first time" }
-PgkuCiolSftoeep@{ shape: win-pane, label: "_Published May 14, 2025, 03:37 PM_
-Pm wong breaks ground on changi airport t5; all sia, scoot flights to move there when it opens" }
-Cramhnabskeilpu@{ shape: win-pane, label: "_Published Jul 25, 2025, 08:10 PM_
-Career setbacks among challenges raised by those seeking fertility help in s’pore: survey" }
+Fotcpazr@{ shape: win-pane, label: "_Published Dec 05, 2025, 11:55 PM_
+Fire forces 169 to evacuate plane at brazil airport" }
+MMuitgfufoasiktf@{ shape: win-pane, label: "_Published Nov 07, 2025, 05:57 PM_
+Man at melbourne airport lounge suffers burns after power bank inside his pocket catches fire" }
+Asrlasatesr@{ shape: win-pane, label: "_Published Jan 28, 2025, 10:18 PM_
+Air busan airbus plane catches fire at south korea’s busan airport" }
+Jinspniteooma@{ shape: win-pane, label: "_Published Dec 29, 2024, 08:58 AM_
+Jeju air plane crashes upon landing in south korea, 179 on board confirmed dead" }
+DNogoulhart@{ shape: win-pane, label: "_Published Jan 27, 2025, 07:18 AM_
+Duck dna in both engines of jeju air plane that crashed, report says" }
+fldwnahC@{ shape: win-pane, label: "_Published Apr 14, 2025, 11:15 AM_
+13 fires linked to power banks in 2024, a 6-year high: scdf" }
+Pbasiiiasetn@{ shape: win-pane, label: "_Published Mar 08, 2025, 12:35 PM_
+Power bank catches fire in train cabin at raffles place mrt station" }
+AsreuyrwaiaSK@{ shape: win-pane, label: "_Published Mar 14, 2025, 10:55 AM_
+Air busan fire likely caused by power bank with faulty insulation: south korea" }
+Asedrlrsnytooe@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:32 AM_
+At least seven dead after ups plane crashes in kentucky, erupts into ball of fire" }
+Uycraagrahle@{ shape: win-pane, label: "_Published Aug 02, 2025, 09:40 AM_
+Us army helicopter in deadly washington crash had technical issues" }
+Nvspaltloag@{ shape: win-pane, label: "_Published Jan 30, 2025, 09:10 PM_
+No survivors from plane and helicopter collision in washington" }
+Tusgtnjanoevnrr@{ shape: win-pane, label: "_Published Jul 26, 2025, 07:49 AM_
+Two southwest flight attendants injured as plane manoeuvres to avoid another aircraft" }
+Tailrnfahh@{ shape: win-pane, label: "_Published May 22, 2025, 09:43 PM_
+Two dead in fiery plane crash on california neighbourhood" }
+Medfmaljltlaathoe@{ shape: win-pane, label: "_Published Jan 30, 2025, 11:14 AM_
+Many feared dead after american airlines jet, helicopter collide and crash into washington river" }
+Jelynlrstb@{ shape: win-pane, label: "_Published May 14, 2025, 10:15 PM_
+Japanese military training plane crashes with two on board" }
 
-Fhoshssol:::txtsize --> Erdit:::txtsize
-Erdit:::txtsize --> Eeipiayesno:::txtsize
-Eeipiayesno:::txtsize --> CstitlysdrCwn:::txtsize
-Eeipiayesno:::txtsize --> Eliomptassdt:::txtsize
-Erdit:::txtsize --> Fropahsei:::txtsize
-Fropahsei:::txtsize --> Rdscgaoesevk:::txtsize
-Fropahsei:::txtsize --> HtthttEetrs:::txtsize
-Fhoshssol:::txtsize --> isgacteinrrte:::txtsize
-isgacteinrrte:::txtsize --> Spanmohdmounel:::txtsize
-Spanmohdmounel:::txtsize --> Sptflatowllrt:::txtsize
-Spanmohdmounel:::txtsize --> PgkuCiolSftoeep:::txtsize
-isgacteinrrte:::txtsize --> Cramhnabskeilpu:::txtsize
+Fotcpazr:::txtsize --> MMuitgfufoasiktf:::txtsize
+MMuitgfufoasiktf:::txtsize --> Asrlasatesr:::txtsize
+Asrlasatesr:::txtsize --> Jinspniteooma:::txtsize
+Asrlasatesr:::txtsize --> DNogoulhart:::txtsize
+MMuitgfufoasiktf:::txtsize --> fldwnahC:::txtsize
+fldwnahC:::txtsize --> Pbasiiiasetn:::txtsize
+fldwnahC:::txtsize --> AsreuyrwaiaSK:::txtsize
+Fotcpazr:::txtsize --> Asedrlrsnytooe:::txtsize
+Asedrlrsnytooe:::txtsize --> Uycraagrahle:::txtsize
+Uycraagrahle:::txtsize --> Nvspaltloag:::txtsize
+Uycraagrahle:::txtsize --> Tusgtnjanoevnrr:::txtsize
+Asedrlrsnytooe:::txtsize --> Tailrnfahh:::txtsize
+Tailrnfahh:::txtsize --> Medfmaljltlaathoe:::txtsize
+Tailrnfahh:::txtsize --> Jelynlrstb:::txtsize
 
-Tyrefasttsa@{ shape: win-pane, label: "_Published Dec 05, 2025, 06:55 PM_
-Turkey orders arrest of 29 footballers in match betting scandal" }
-Tykoianirua@{ shape: win-pane, label: "_Published Nov 20, 2025, 08:03 PM_
-Turkey crackdown on insider gambling to widen, prosecutor says" }
-Nheleoadssnplllr@{ shape: win-pane, label: "_Published Oct 24, 2025, 12:05 AM_
-Nba’s chauncey billups, terry rozier among dozens arrested in sweeping illegal gambling probe" }
-Nalhpeinwr@{ shape: win-pane, label: "_Published Oct 22, 2025, 04:52 PM_
-Nba plans to launch european league ‘in the next two years’" }
-Tgtslbndp@{ shape: win-pane, label: "_Published Nov 07, 2025, 05:00 AM_
-The big question: is legalised betting good for sport?" }
-Nheleoadssnplllr@{ shape: win-pane, label: "_Published Oct 24, 2025, 12:05 AM_
-Nba’s chauncey billups, terry rozier among dozens arrested in sweeping illegal gambling probe" }
-Nalhpeinwr@{ shape: win-pane, label: "_Published Oct 22, 2025, 04:52 PM_
-Nba plans to launch european league ‘in the next two years’" }
-DyuNiavasiatcl@{ shape: win-pane, label: "_Published Oct 25, 2025, 12:04 PM_
-‘deeply disturbed’: nba chief adam silver grapples with illegal betting scandal" }
-Nheleoadssnplllr@{ shape: win-pane, label: "_Published Oct 24, 2025, 12:05 AM_
-Nba’s chauncey billups, terry rozier among dozens arrested in sweeping illegal gambling probe" }
-Nmgdestrrme@{ shape: win-pane, label: "_Published Oct 25, 2025, 12:23 PM_
-Nba gambling scandal presents mounting trust problem for league" }
+Nreslyrgpot@{ shape: win-pane, label: "_Published Dec 05, 2025, 11:28 PM_
+New york times sues perplexity ai for ‘illegal’ copying of content" }
+Slafesexoadons@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:30 AM_
+Social media platform reddit sues perplexity for scraping data to train ai system" }
+Tpwlutplyogoo@{ shape: win-pane, label: "_Published Aug 26, 2025, 03:45 PM_
+Top japan news outlets sue ai start-up perplexity for copyright violations" }
+JeweihnUtplyuaal@{ shape: win-pane, label: "_Published Aug 10, 2025, 10:39 AM_
+Japanese newspaper yomiuri shimbun sues us ai start-up perplexity over use of about 120,000 articles" }
+JeweihnUtplyuaal@{ shape: win-pane, label: "_Published Aug 10, 2025, 10:39 AM_
+Japanese newspaper yomiuri shimbun sues us ai start-up perplexity over use of about 120,000 articles" }
+BrnaiaArexvnsi@{ shape: win-pane, label: "_Published Jun 20, 2025, 05:15 PM_
+Bbc threatens legal action against ai start-up perplexity over content scraping" }
+WtJaslyrrinn@{ shape: win-pane, label: "_Published Oct 22, 2024, 10:45 AM_
+Wall street journal sues perplexity ai for copyright infringement" }
+ArexometTk@{ shape: win-pane, label: "_Published Mar 22, 2025, 11:00 AM_
+Ai start-up perplexity confirms interest to buy tiktok" }
+JeweihnUtplyuaal@{ shape: win-pane, label: "_Published Aug 10, 2025, 10:39 AM_
+Japanese newspaper yomiuri shimbun sues us ai start-up perplexity over use of about 120,000 articles" }
+BrnaiaArexvnsi@{ shape: win-pane, label: "_Published Jun 20, 2025, 05:15 PM_
+Bbc threatens legal action against ai start-up perplexity over content scraping" }
+WtJaslyrrinn@{ shape: win-pane, label: "_Published Oct 22, 2024, 10:45 AM_
+Wall street journal sues perplexity ai for copyright infringement" }
+ArexometTk@{ shape: win-pane, label: "_Published Mar 22, 2025, 11:00 AM_
+Ai start-up perplexity confirms interest to buy tiktok" }
+GesfeCes@{ shape: win-pane, label: "_Published May 31, 2025, 01:50 AM_
+Google makes case for keeping chrome browser" }
+Geiconnwornp@{ shape: win-pane, label: "_Published May 21, 2025, 12:59 PM_
+Google unveils ai chatbot, signalling a new era for search landscape" }
 
-Tyrefasttsa:::txtsize --> Tykoianirua:::txtsize
-Tykoianirua:::txtsize --> Nheleoadssnplllr:::txtsize
-Nheleoadssnplllr:::txtsize --> Nalhpeinwr:::txtsize
-Tyrefasttsa:::txtsize --> Tgtslbndp:::txtsize
-Tgtslbndp:::txtsize --> Nheleoadssnplllr:::txtsize
-Nheleoadssnplllr:::txtsize --> Nalhpeinwr:::txtsize
-Tgtslbndp:::txtsize --> DyuNiavasiatcl:::txtsize
-DyuNiavasiatcl:::txtsize --> Nheleoadssnplllr:::txtsize
-DyuNiavasiatcl:::txtsize --> Nmgdestrrme:::txtsize
+Nreslyrgpot:::txtsize --> Slafesexoadons:::txtsize
+Slafesexoadons:::txtsize --> Tpwlutplyogoo:::txtsize
+Tpwlutplyogoo:::txtsize --> JeweihnUtplyuaal:::txtsize
+Tpwlutplyogoo:::txtsize --> JeweihnUtplyuaal:::txtsize
+Slafesexoadons:::txtsize --> BrnaiaArexvnsi:::txtsize
+BrnaiaArexvnsi:::txtsize --> WtJaslyrrinn:::txtsize
+BrnaiaArexvnsi:::txtsize --> ArexometTk:::txtsize
+Nreslyrgpot:::txtsize --> JeweihnUtplyuaal:::txtsize
+JeweihnUtplyuaal:::txtsize --> BrnaiaArexvnsi:::txtsize
+BrnaiaArexvnsi:::txtsize --> WtJaslyrrinn:::txtsize
+BrnaiaArexvnsi:::txtsize --> ArexometTk:::txtsize
+JeweihnUtplyuaal:::txtsize --> GesfeCes:::txtsize
+GesfeCes:::txtsize --> Geiconnwornp:::txtsize
 
-Gnitsrsirvadir@{ shape: win-pane, label: "_Published Dec 05, 2025, 06:40 PM_
-German parliament backs controversial military service law amid russian threat" }
-Gnmdoabsody@{ shape: win-pane, label: "_Published Sep 11, 2025, 10:58 PM_
-Germany’s army needs to more than double in size, commander says" }
-LaaatprhoetsRaa@{ shape: win-pane, label: "_Published Sep 11, 2025, 11:18 PM_
-Lithuania, latvia, and estonia prepare push to stop us security cuts amid russia threat" }
-PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
-Poland shoots down drones, the first nato member to open fire during ukraine war" }
-Raserkcioten@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:37 PM_
-Russian air strike in ukraine kills 23 civilians collecting pensions" }
-PdiotnlioaM@{ shape: win-pane, label: "_Published Sep 10, 2025, 06:02 PM_
-Poland is at its closest to open conflict since world war ii, pm says" }
-PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
-Poland shoots down drones, the first nato member to open fire during ukraine war" }
-PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
-Poland shoots down drones, the first nato member to open fire during ukraine war" }
-Fervvtirvmcatt@{ shape: win-pane, label: "_Published Nov 27, 2025, 07:08 PM_
-France’s macron unveils voluntary military service amid ‘accelerating threats’" }
-Gnnsirnmar@{ shape: win-pane, label: "_Published Aug 27, 2025, 08:03 PM_
-German cabinet passes bill for voluntary military service" }
-Gnmregetafb@{ shape: win-pane, label: "_Published Jul 31, 2025, 11:34 PM_
-Germany’s armed forces see 28% surge in recruits in nato defence boost" }
-Gnnprisnon@{ shape: win-pane, label: "_Published Jul 25, 2025, 06:54 AM_
-Germany plans compulsory military screening for young men" }
-Fuunensklyn@{ shape: win-pane, label: "_Published Sep 13, 2025, 05:45 PM_
-Fearful of russian aggression, poles flock to military training" }
-PdtnefNetndgir@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:37 AM_
-Poland shoots down drones, the first nato member to open fire during ukraine war" }
+EifbtetlsIl@{ shape: win-pane, label: "_Published Dec 05, 2025, 11:26 PM_
+Eurovision faces budget squeeze after walkouts over israel" }
+Ilrsnvnnadrto@{ shape: win-pane, label: "_Published Dec 05, 2025, 06:02 AM_
+Israel cleared to stay in eurovision; spain, ireland and others quit in protest" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+BdEiRaslroge@{ shape: win-pane, label: "_Published Sep 19, 2025, 10:00 PM_
+Barred from eurovision, russia hosts rival ‘intervision’ song contest" }
+BnStvStusiwe@{ shape: win-pane, label: "_Published Feb 04, 2025, 10:45 PM_
+Back in the ussr: putin revives soviet-era ‘eurovision’ with new allies" }
+BnStvStusiwe@{ shape: win-pane, label: "_Published Feb 04, 2025, 10:45 PM_
+Back in the ussr: putin revives soviet-era ‘eurovision’ with new allies" }
+Ilrsnvnnadrto@{ shape: win-pane, label: "_Published Dec 05, 2025, 06:02 AM_
+Israel cleared to stay in eurovision; spain, ireland and others quit in protest" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+BdEiRaslroge@{ shape: win-pane, label: "_Published Sep 19, 2025, 10:00 PM_
+Barred from eurovision, russia hosts rival ‘intervision’ song contest" }
+BnStvStusiwe@{ shape: win-pane, label: "_Published Feb 04, 2025, 10:45 PM_
+Back in the ussr: putin revives soviet-era ‘eurovision’ with new allies" }
+BnStvStusiwe@{ shape: win-pane, label: "_Published Feb 04, 2025, 10:45 PM_
+Back in the ussr: putin revives soviet-era ‘eurovision’ with new allies" }
 
-Gnitsrsirvadir:::txtsize --> Gnmdoabsody:::txtsize
-Gnmdoabsody:::txtsize --> LaaatprhoetsRaa:::txtsize
-LaaatprhoetsRaa:::txtsize --> PdtnefNetndgir:::txtsize
-LaaatprhoetsRaa:::txtsize --> Raserkcioten:::txtsize
-Gnmdoabsody:::txtsize --> PdiotnlioaM:::txtsize
-PdiotnlioaM:::txtsize --> PdtnefNetndgir:::txtsize
-PdiotnlioaM:::txtsize --> PdtnefNetndgir:::txtsize
-Gnitsrsirvadir:::txtsize --> Fervvtirvmcatt:::txtsize
-Fervvtirvmcatt:::txtsize --> Gnnsirnmar:::txtsize
-Gnnsirnmar:::txtsize --> Gnmregetafb:::txtsize
-Gnnsirnmar:::txtsize --> Gnnprisnon:::txtsize
-Fervvtirvmcatt:::txtsize --> Fuunensklyn:::txtsize
-Fuunensklyn:::txtsize --> PdtnefNetndgir:::txtsize
+EifbtetlsIl:::txtsize --> Ilrsnvnnadrto:::txtsize
+Ilrsnvnnadrto:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Ilrsnvnnadrto:::txtsize --> BdEiRaslroge:::txtsize
+BdEiRaslroge:::txtsize --> BnStvStusiwe:::txtsize
+BdEiRaslroge:::txtsize --> BnStvStusiwe:::txtsize
+EifbtetlsIl:::txtsize --> Ilrsnvnnadrto:::txtsize
+Ilrsnvnnadrto:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Ilrsnvnnadrto:::txtsize --> BdEiRaslroge:::txtsize
+BdEiRaslroge:::txtsize --> BnStvStusiwe:::txtsize
+BdEiRaslroge:::txtsize --> BnStvStusiwe:::txtsize
 
 ```
-<i>Last updated: 2025-12-05 20:00:44.467311 (GMT+8)</i>
+<i>Last updated: 2025-12-06 00:01:11.410066 (GMT+8)</i>
 <!-- END -->
