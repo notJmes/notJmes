@@ -16,141 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Fotcpazr@{ shape: win-pane, label: "_Published Dec 05, 2025, 11:55 PM_
-Fire forces 169 to evacuate plane at brazil airport" }
-MMuitgfufoasiktf@{ shape: win-pane, label: "_Published Nov 07, 2025, 05:57 PM_
-Man at melbourne airport lounge suffers burns after power bank inside his pocket catches fire" }
-Asrlasatesr@{ shape: win-pane, label: "_Published Jan 28, 2025, 10:18 PM_
-Air busan airbus plane catches fire at south korea’s busan airport" }
-Jinspniteooma@{ shape: win-pane, label: "_Published Dec 29, 2024, 08:58 AM_
-Jeju air plane crashes upon landing in south korea, 179 on board confirmed dead" }
-DNogoulhart@{ shape: win-pane, label: "_Published Jan 27, 2025, 07:18 AM_
-Duck dna in both engines of jeju air plane that crashed, report says" }
-fldwnahC@{ shape: win-pane, label: "_Published Apr 14, 2025, 11:15 AM_
-13 fires linked to power banks in 2024, a 6-year high: scdf" }
-Pbasiiiasetn@{ shape: win-pane, label: "_Published Mar 08, 2025, 12:35 PM_
-Power bank catches fire in train cabin at raffles place mrt station" }
-AsreuyrwaiaSK@{ shape: win-pane, label: "_Published Mar 14, 2025, 10:55 AM_
-Air busan fire likely caused by power bank with faulty insulation: south korea" }
-Asedrlrsnytooe@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:32 AM_
-At least seven dead after ups plane crashes in kentucky, erupts into ball of fire" }
-Uycraagrahle@{ shape: win-pane, label: "_Published Aug 02, 2025, 09:40 AM_
-Us army helicopter in deadly washington crash had technical issues" }
-Nvspaltloag@{ shape: win-pane, label: "_Published Jan 30, 2025, 09:10 PM_
-No survivors from plane and helicopter collision in washington" }
-Tusgtnjanoevnrr@{ shape: win-pane, label: "_Published Jul 26, 2025, 07:49 AM_
-Two southwest flight attendants injured as plane manoeuvres to avoid another aircraft" }
-Tailrnfahh@{ shape: win-pane, label: "_Published May 22, 2025, 09:43 PM_
-Two dead in fiery plane crash on california neighbourhood" }
-Medfmaljltlaathoe@{ shape: win-pane, label: "_Published Jan 30, 2025, 11:14 AM_
-Many feared dead after american airlines jet, helicopter collide and crash into washington river" }
-Jelynlrstb@{ shape: win-pane, label: "_Published May 14, 2025, 10:15 PM_
-Japanese military training plane crashes with two on board" }
+Siurymeoarnolu@{ shape: win-pane, label: "_Published Dec 06, 2025, 02:26 AM_
+Sweeping trump strategy document seeks to reframe us’ role in the world, slams europe" }
+Eeslierspntniiay@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:21 AM_
+Europe risks ‘civilisational erasure’, says trump admin, questioning reliability as an ally" }
+VakrvaUnkusinn@{ shape: win-pane, label: "_Published Feb 15, 2025, 07:44 AM_
+Vance attack on europe overshadows ukraine talks at munich security conference" }
+VmGnifdicifctm@{ shape: win-pane, label: "_Published Feb 15, 2025, 06:05 AM_
+Vance meets german far-right afd leader amid election interference criticism" }
+VmGnifdicifctm@{ shape: win-pane, label: "_Published Feb 15, 2025, 06:05 AM_
+Vance meets german far-right afd leader amid election interference criticism" }
+EeainletovrRt@{ shape: win-pane, label: "_Published Dec 04, 2025, 09:15 PM_
+European leaders in phone call voiced distrust of us over ukraine: report" }
+Ntoaanrrotra@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:38 AM_
+Next steps for ukraine talks unclear after moscow meeting, trump says" }
+Epufnisrotei@{ shape: win-pane, label: "_Published Dec 04, 2025, 04:29 AM_
+Eu proposes using frozen russian assets or borrowing to give ukraine $136b" }
 
-Fotcpazr:::txtsize --> MMuitgfufoasiktf:::txtsize
-MMuitgfufoasiktf:::txtsize --> Asrlasatesr:::txtsize
-Asrlasatesr:::txtsize --> Jinspniteooma:::txtsize
-Asrlasatesr:::txtsize --> DNogoulhart:::txtsize
-MMuitgfufoasiktf:::txtsize --> fldwnahC:::txtsize
-fldwnahC:::txtsize --> Pbasiiiasetn:::txtsize
-fldwnahC:::txtsize --> AsreuyrwaiaSK:::txtsize
-Fotcpazr:::txtsize --> Asedrlrsnytooe:::txtsize
-Asedrlrsnytooe:::txtsize --> Uycraagrahle:::txtsize
-Uycraagrahle:::txtsize --> Nvspaltloag:::txtsize
-Uycraagrahle:::txtsize --> Tusgtnjanoevnrr:::txtsize
-Asedrlrsnytooe:::txtsize --> Tailrnfahh:::txtsize
-Tailrnfahh:::txtsize --> Medfmaljltlaathoe:::txtsize
-Tailrnfahh:::txtsize --> Jelynlrstb:::txtsize
+Siurymeoarnolu:::txtsize --> Eeslierspntniiay:::txtsize
+Eeslierspntniiay:::txtsize --> VakrvaUnkusinn:::txtsize
+VakrvaUnkusinn:::txtsize --> VmGnifdicifctm:::txtsize
+VakrvaUnkusinn:::txtsize --> VmGnifdicifctm:::txtsize
+Eeslierspntniiay:::txtsize --> EeainletovrRt:::txtsize
+EeainletovrRt:::txtsize --> Ntoaanrrotra:::txtsize
+EeainletovrRt:::txtsize --> Epufnisrotei:::txtsize
 
-Nreslyrgpot@{ shape: win-pane, label: "_Published Dec 05, 2025, 11:28 PM_
-New york times sues perplexity ai for ‘illegal’ copying of content" }
-Slafesexoadons@{ shape: win-pane, label: "_Published Oct 23, 2025, 02:30 AM_
-Social media platform reddit sues perplexity for scraping data to train ai system" }
-Tpwlutplyogoo@{ shape: win-pane, label: "_Published Aug 26, 2025, 03:45 PM_
-Top japan news outlets sue ai start-up perplexity for copyright violations" }
-JeweihnUtplyuaal@{ shape: win-pane, label: "_Published Aug 10, 2025, 10:39 AM_
-Japanese newspaper yomiuri shimbun sues us ai start-up perplexity over use of about 120,000 articles" }
-JeweihnUtplyuaal@{ shape: win-pane, label: "_Published Aug 10, 2025, 10:39 AM_
-Japanese newspaper yomiuri shimbun sues us ai start-up perplexity over use of about 120,000 articles" }
-BrnaiaArexvnsi@{ shape: win-pane, label: "_Published Jun 20, 2025, 05:15 PM_
-Bbc threatens legal action against ai start-up perplexity over content scraping" }
-WtJaslyrrinn@{ shape: win-pane, label: "_Published Oct 22, 2024, 10:45 AM_
-Wall street journal sues perplexity ai for copyright infringement" }
-ArexometTk@{ shape: win-pane, label: "_Published Mar 22, 2025, 11:00 AM_
-Ai start-up perplexity confirms interest to buy tiktok" }
-JeweihnUtplyuaal@{ shape: win-pane, label: "_Published Aug 10, 2025, 10:39 AM_
-Japanese newspaper yomiuri shimbun sues us ai start-up perplexity over use of about 120,000 articles" }
-BrnaiaArexvnsi@{ shape: win-pane, label: "_Published Jun 20, 2025, 05:15 PM_
-Bbc threatens legal action against ai start-up perplexity over content scraping" }
-WtJaslyrrinn@{ shape: win-pane, label: "_Published Oct 22, 2024, 10:45 AM_
-Wall street journal sues perplexity ai for copyright infringement" }
-ArexometTk@{ shape: win-pane, label: "_Published Mar 22, 2025, 11:00 AM_
-Ai start-up perplexity confirms interest to buy tiktok" }
-GesfeCes@{ shape: win-pane, label: "_Published May 31, 2025, 01:50 AM_
-Google makes case for keeping chrome browser" }
-Geiconnwornp@{ shape: win-pane, label: "_Published May 21, 2025, 12:59 PM_
-Google unveils ai chatbot, signalling a new era for search landscape" }
+Eeslierspntniiay@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:21 AM_
+Europe risks ‘civilisational erasure’, says trump admin, questioning reliability as an ally" }
+VakrvaUnkusinn@{ shape: win-pane, label: "_Published Feb 15, 2025, 07:44 AM_
+Vance attack on europe overshadows ukraine talks at munich security conference" }
+VmGnifdicifctm@{ shape: win-pane, label: "_Published Feb 15, 2025, 06:05 AM_
+Vance meets german far-right afd leader amid election interference criticism" }
+EusrahdXsttten@{ shape: win-pane, label: "_Published Jan 10, 2025, 03:22 AM_
+Elon musk hosts german far-right leader on x, stirs angst about election meddling" }
+IincEelifofp@{ shape: win-pane, label: "_Published Feb 14, 2025, 10:49 PM_
+In munich, vance accuses european politicians of censoring free speech" }
+VmGnifdicifctm@{ shape: win-pane, label: "_Published Feb 15, 2025, 06:05 AM_
+Vance meets german far-right afd leader amid election interference criticism" }
+EusrahdXsttten@{ shape: win-pane, label: "_Published Jan 10, 2025, 03:22 AM_
+Elon musk hosts german far-right leader on x, stirs angst about election meddling" }
+IincEelifofp@{ shape: win-pane, label: "_Published Feb 14, 2025, 10:49 PM_
+In munich, vance accuses european politicians of censoring free speech" }
+EeainletovrRt@{ shape: win-pane, label: "_Published Dec 04, 2025, 09:15 PM_
+European leaders in phone call voiced distrust of us over ukraine: report" }
+Ntoaanrrotra@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:38 AM_
+Next steps for ukraine talks unclear after moscow meeting, trump says" }
+Unpetrsrbitc@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:09 AM_
+Ukraine’s top peace negotiator quits after raid by anti-graft officers" }
+PwEeuwesleu@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:45 PM_
+Putin warns europe: if you want war, then russia will defeat you" }
+Epufnisrotei@{ shape: win-pane, label: "_Published Dec 04, 2025, 04:29 AM_
+Eu proposes using frozen russian assets or borrowing to give ukraine $136b" }
+BudnnpountUn@{ shape: win-pane, label: "_Published Nov 28, 2025, 07:44 PM_
+Belgium’s pm digs in against eu push to use russian assets for ukraine" }
+PwEeuwesleu@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:45 PM_
+Putin warns europe: if you want war, then russia will defeat you" }
 
-Nreslyrgpot:::txtsize --> Slafesexoadons:::txtsize
-Slafesexoadons:::txtsize --> Tpwlutplyogoo:::txtsize
-Tpwlutplyogoo:::txtsize --> JeweihnUtplyuaal:::txtsize
-Tpwlutplyogoo:::txtsize --> JeweihnUtplyuaal:::txtsize
-Slafesexoadons:::txtsize --> BrnaiaArexvnsi:::txtsize
-BrnaiaArexvnsi:::txtsize --> WtJaslyrrinn:::txtsize
-BrnaiaArexvnsi:::txtsize --> ArexometTk:::txtsize
-Nreslyrgpot:::txtsize --> JeweihnUtplyuaal:::txtsize
-JeweihnUtplyuaal:::txtsize --> BrnaiaArexvnsi:::txtsize
-BrnaiaArexvnsi:::txtsize --> WtJaslyrrinn:::txtsize
-BrnaiaArexvnsi:::txtsize --> ArexometTk:::txtsize
-JeweihnUtplyuaal:::txtsize --> GesfeCes:::txtsize
-GesfeCes:::txtsize --> Geiconnwornp:::txtsize
+Eeslierspntniiay:::txtsize --> VakrvaUnkusinn:::txtsize
+VakrvaUnkusinn:::txtsize --> VmGnifdicifctm:::txtsize
+VmGnifdicifctm:::txtsize --> EusrahdXsttten:::txtsize
+VmGnifdicifctm:::txtsize --> IincEelifofp:::txtsize
+VakrvaUnkusinn:::txtsize --> VmGnifdicifctm:::txtsize
+VmGnifdicifctm:::txtsize --> EusrahdXsttten:::txtsize
+VmGnifdicifctm:::txtsize --> IincEelifofp:::txtsize
+Eeslierspntniiay:::txtsize --> EeainletovrRt:::txtsize
+EeainletovrRt:::txtsize --> Ntoaanrrotra:::txtsize
+Ntoaanrrotra:::txtsize --> Unpetrsrbitc:::txtsize
+Ntoaanrrotra:::txtsize --> PwEeuwesleu:::txtsize
+EeainletovrRt:::txtsize --> Epufnisrotei:::txtsize
+Epufnisrotei:::txtsize --> BudnnpountUn:::txtsize
+Epufnisrotei:::txtsize --> PwEeuwesleu:::txtsize
 
-EifbtetlsIl@{ shape: win-pane, label: "_Published Dec 05, 2025, 11:26 PM_
-Eurovision faces budget squeeze after walkouts over israel" }
-Ilrsnvnnadrto@{ shape: win-pane, label: "_Published Dec 05, 2025, 06:02 AM_
-Israel cleared to stay in eurovision; spain, ireland and others quit in protest" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-BdEiRaslroge@{ shape: win-pane, label: "_Published Sep 19, 2025, 10:00 PM_
-Barred from eurovision, russia hosts rival ‘intervision’ song contest" }
-BnStvStusiwe@{ shape: win-pane, label: "_Published Feb 04, 2025, 10:45 PM_
-Back in the ussr: putin revives soviet-era ‘eurovision’ with new allies" }
-BnStvStusiwe@{ shape: win-pane, label: "_Published Feb 04, 2025, 10:45 PM_
-Back in the ussr: putin revives soviet-era ‘eurovision’ with new allies" }
-Ilrsnvnnadrto@{ shape: win-pane, label: "_Published Dec 05, 2025, 06:02 AM_
-Israel cleared to stay in eurovision; spain, ireland and others quit in protest" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-BdEiRaslroge@{ shape: win-pane, label: "_Published Sep 19, 2025, 10:00 PM_
-Barred from eurovision, russia hosts rival ‘intervision’ song contest" }
-BnStvStusiwe@{ shape: win-pane, label: "_Published Feb 04, 2025, 10:45 PM_
-Back in the ussr: putin revives soviet-era ‘eurovision’ with new allies" }
-BnStvStusiwe@{ shape: win-pane, label: "_Published Feb 04, 2025, 10:45 PM_
-Back in the ussr: putin revives soviet-era ‘eurovision’ with new allies" }
+UsloolAfoia@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:00 AM_
+Us sets 2027 deadline for europe to lead nato defence, officials say" }
+UnsnacastRa@{ shape: win-pane, label: "_Published Dec 05, 2025, 04:16 AM_
+Ukraine says it wants ‘real peace, not appeasement’ with russia" }
+Ntoaanrrotra@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:38 AM_
+Next steps for ukraine talks unclear after moscow meeting, trump says" }
+Unpetrsrbitc@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:09 AM_
+Ukraine’s top peace negotiator quits after raid by anti-graft officers" }
+PwEeuwesleu@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:45 PM_
+Putin warns europe: if you want war, then russia will defeat you" }
+Dssernlpoiirdr@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:50 AM_
+Drones were spotted near zelensky flight path to dublin, media in ireland report" }
+DsiithChOit@{ shape: win-pane, label: "_Published Sep 23, 2025, 08:52 AM_
+Drone sightings disrupt flights at copenhagen, oslo airports" }
+EeatsesPmna@{ shape: win-pane, label: "_Published Sep 01, 2025, 07:39 PM_
+Eu chief’s plane hit by suspected russian gps jamming in bulgaria" }
+Eeslierspntniiay@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:21 AM_
+Europe risks ‘civilisational erasure’, says trump admin, questioning reliability as an ally" }
+VakrvaUnkusinn@{ shape: win-pane, label: "_Published Feb 15, 2025, 07:44 AM_
+Vance attack on europe overshadows ukraine talks at munich security conference" }
+VmGnifdicifctm@{ shape: win-pane, label: "_Published Feb 15, 2025, 06:05 AM_
+Vance meets german far-right afd leader amid election interference criticism" }
+VmGnifdicifctm@{ shape: win-pane, label: "_Published Feb 15, 2025, 06:05 AM_
+Vance meets german far-right afd leader amid election interference criticism" }
+EeainletovrRt@{ shape: win-pane, label: "_Published Dec 04, 2025, 09:15 PM_
+European leaders in phone call voiced distrust of us over ukraine: report" }
+Ntoaanrrotra@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:38 AM_
+Next steps for ukraine talks unclear after moscow meeting, trump says" }
+Epufnisrotei@{ shape: win-pane, label: "_Published Dec 04, 2025, 04:29 AM_
+Eu proposes using frozen russian assets or borrowing to give ukraine $136b" }
 
-EifbtetlsIl:::txtsize --> Ilrsnvnnadrto:::txtsize
-Ilrsnvnnadrto:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Ilrsnvnnadrto:::txtsize --> BdEiRaslroge:::txtsize
-BdEiRaslroge:::txtsize --> BnStvStusiwe:::txtsize
-BdEiRaslroge:::txtsize --> BnStvStusiwe:::txtsize
-EifbtetlsIl:::txtsize --> Ilrsnvnnadrto:::txtsize
-Ilrsnvnnadrto:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Ilrsnvnnadrto:::txtsize --> BdEiRaslroge:::txtsize
-BdEiRaslroge:::txtsize --> BnStvStusiwe:::txtsize
-BdEiRaslroge:::txtsize --> BnStvStusiwe:::txtsize
+UsloolAfoia:::txtsize --> UnsnacastRa:::txtsize
+UnsnacastRa:::txtsize --> Ntoaanrrotra:::txtsize
+Ntoaanrrotra:::txtsize --> Unpetrsrbitc:::txtsize
+Ntoaanrrotra:::txtsize --> PwEeuwesleu:::txtsize
+UnsnacastRa:::txtsize --> Dssernlpoiirdr:::txtsize
+Dssernlpoiirdr:::txtsize --> DsiithChOit:::txtsize
+Dssernlpoiirdr:::txtsize --> EeatsesPmna:::txtsize
+UsloolAfoia:::txtsize --> Eeslierspntniiay:::txtsize
+Eeslierspntniiay:::txtsize --> VakrvaUnkusinn:::txtsize
+VakrvaUnkusinn:::txtsize --> VmGnifdicifctm:::txtsize
+VakrvaUnkusinn:::txtsize --> VmGnifdicifctm:::txtsize
+Eeslierspntniiay:::txtsize --> EeainletovrRt:::txtsize
+EeainletovrRt:::txtsize --> Ntoaanrrotra:::txtsize
+EeainletovrRt:::txtsize --> Epufnisrotei:::txtsize
 
 ```
-<i>Last updated: 2025-12-06 00:01:11.410066 (GMT+8)</i>
+<i>Last updated: 2025-12-06 04:00:34.047965 (GMT+8)</i>
 <!-- END -->
