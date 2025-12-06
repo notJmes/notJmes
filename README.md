@@ -16,138 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ucaphiaetrrf@{ shape: win-pane, label: "_Published Dec 06, 2025, 10:25 AM_
-Us vaccine panel upends hepatitis b advice in latest trump-era shift" }
-Ucotethsdssny@{ shape: win-pane, label: "_Published Dec 03, 2025, 11:01 AM_
-Us vaccine committee’s hepatitis b changes would be most consequential yet" }
-Usyidcsre@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:25 AM_
-Us fda’s newly appointed drugs chief set to retire" }
-Ulcreeyituuaeole@{ shape: win-pane, label: "_Published Nov 18, 2025, 05:10 AM_
-Us health secretary robert f. kennedy jr tries to tie aluminium in vaccines to food allergies" }
-FUleheioeepento@{ shape: win-pane, label: "_Published Sep 18, 2025, 01:56 AM_
-Fired us health agency chief testifies about pressure to ‘replace evidence with ideology’" }
-Rifttiec@{ shape: win-pane, label: "_Published Jan 02, 2025, 05:00 AM_
-Rfk jr is half right about american healthcare" }
-TnTsihzdech@{ shape: win-pane, label: "_Published Nov 20, 2024, 08:11 AM_
-Trump names tv personality mehmet oz as medicare, medicaid chief" }
-TeeDmoespeoevnn@{ shape: win-pane, label: "_Published Dec 04, 2025, 10:12 AM_
-Twelve former us fda commissioners express deep concern about agency’s vaccine change" }
-Usyidcsre@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:25 AM_
-Us fda’s newly appointed drugs chief set to retire" }
-Ulcreeyituuaeole@{ shape: win-pane, label: "_Published Nov 18, 2025, 05:10 AM_
-Us health secretary robert f. kennedy jr tries to tie aluminium in vaccines to food allergies" }
-FUleheioeepento@{ shape: win-pane, label: "_Published Sep 18, 2025, 01:56 AM_
-Fired us health agency chief testifies about pressure to ‘replace evidence with ideology’" }
-Ucotethsdssny@{ shape: win-pane, label: "_Published Dec 03, 2025, 11:01 AM_
-Us vaccine committee’s hepatitis b changes would be most consequential yet" }
-Usyidcsre@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:25 AM_
-Us fda’s newly appointed drugs chief set to retire" }
-Rifttiec@{ shape: win-pane, label: "_Published Jan 02, 2025, 05:00 AM_
-Rfk jr is half right about american healthcare" }
+TsrtfnecpeS@{ shape: win-pane, label: "_Published Dec 06, 2025, 04:00 PM_
+Trump says production of japan-style tiny cars approved in us" }
+Tseocussp@{ shape: win-pane, label: "_Published Oct 27, 2025, 05:45 PM_
+Troops, trade and 'hot' trucks: trump descends on japan" }
+STcksaarminr@{ shape: win-pane, label: "_Published Oct 21, 2025, 12:50 PM_
+Sanae takaichi makes history as japan’s first woman prime minister" }
+STctJstnesfignst@{ shape: win-pane, label: "_Published Oct 04, 2025, 12:57 PM_
+Sanae takaichi set to be japan’s first woman prime minister after winning ruling ldp’s election" }
+Puaaorbensoctar@{ shape: win-pane, label: "_Published Oct 16, 2025, 09:42 PM_
+‘pitiful’ sanae takaichi on course to become japan pm as she woos new coalition partner" }
+Eearitdtlo@{ shape: win-pane, label: "_Published Jun 25, 2025, 10:50 PM_
+Europe placates trump with nato pledges it can ill afford" }
+NosgpngTatee@{ shape: win-pane, label: "_Published Jun 25, 2025, 08:38 PM_
+Nato commits to higher spending sought by trump and mutual defence" }
+Treoercvuhcom@{ shape: win-pane, label: "_Published Jun 25, 2025, 04:19 AM_
+Trump rattles nato allies over article five clause as he descends on summit" }
+TarnoiJsmaU@{ shape: win-pane, label: "_Published Dec 04, 2025, 09:45 AM_
+Trump appears open to production of japan-style mini cars in us" }
+Tseocussp@{ shape: win-pane, label: "_Published Oct 27, 2025, 05:45 PM_
+Troops, trade and 'hot' trucks: trump descends on japan" }
+STcksaarminr@{ shape: win-pane, label: "_Published Oct 21, 2025, 12:50 PM_
+Sanae takaichi makes history as japan’s first woman prime minister" }
+Eearitdtlo@{ shape: win-pane, label: "_Published Jun 25, 2025, 10:50 PM_
+Europe placates trump with nato pledges it can ill afford" }
+Xwroiaptnas@{ shape: win-pane, label: "_Published Nov 25, 2025, 11:00 AM_
+Xi may want trump to rein in japan in spat with china, say analysts" }
+EmoiJPatTbfiaihie@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:58 AM_
+‘extremely good friends’: japan pm takaichi touts trump bond after first talks since china dispute" }
+JpsaCdmitarkiwm@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:00 PM_
+Japan protests against china diplomat’s violent threat over pm takaichi’s taiwan remark" }
 
-Ucaphiaetrrf:::txtsize --> Ucotethsdssny:::txtsize
-Ucotethsdssny:::txtsize --> Usyidcsre:::txtsize
-Usyidcsre:::txtsize --> Ulcreeyituuaeole:::txtsize
-Usyidcsre:::txtsize --> FUleheioeepento:::txtsize
-Ucotethsdssny:::txtsize --> Rifttiec:::txtsize
-Rifttiec:::txtsize --> TnTsihzdech:::txtsize
-Ucaphiaetrrf:::txtsize --> TeeDmoespeoevnn:::txtsize
-TeeDmoespeoevnn:::txtsize --> Usyidcsre:::txtsize
-Usyidcsre:::txtsize --> Ulcreeyituuaeole:::txtsize
-Usyidcsre:::txtsize --> FUleheioeepento:::txtsize
-TeeDmoespeoevnn:::txtsize --> Ucotethsdssny:::txtsize
-Ucotethsdssny:::txtsize --> Usyidcsre:::txtsize
-Ucotethsdssny:::txtsize --> Rifttiec:::txtsize
+TsrtfnecpeS:::txtsize --> Tseocussp:::txtsize
+Tseocussp:::txtsize --> STcksaarminr:::txtsize
+STcksaarminr:::txtsize --> STctJstnesfignst:::txtsize
+STcksaarminr:::txtsize --> Puaaorbensoctar:::txtsize
+Tseocussp:::txtsize --> Eearitdtlo:::txtsize
+Eearitdtlo:::txtsize --> NosgpngTatee:::txtsize
+Eearitdtlo:::txtsize --> Treoercvuhcom:::txtsize
+TsrtfnecpeS:::txtsize --> TarnoiJsmaU:::txtsize
+TarnoiJsmaU:::txtsize --> Tseocussp:::txtsize
+Tseocussp:::txtsize --> STcksaarminr:::txtsize
+Tseocussp:::txtsize --> Eearitdtlo:::txtsize
+TarnoiJsmaU:::txtsize --> Xwroiaptnas:::txtsize
+Xwroiaptnas:::txtsize --> EmoiJPatTbfiaihie:::txtsize
+Xwroiaptnas:::txtsize --> JpsaCdmitarkiwm:::txtsize
 
-Unyrlearthde@{ shape: win-pane, label: "_Published Dec 06, 2025, 10:16 AM_
-Un agency says chornobyl nuclear plant’s protective shield damaged" }
-Unlywlmiefesei@{ shape: win-pane, label: "_Published Nov 16, 2025, 04:39 AM_
-Ukraine’s zelensky renews calls for more air defence after deadly strike on kyiv" }
-Unitnilnes@{ shape: win-pane, label: "_Published Nov 16, 2025, 12:29 AM_
-Ukraine claims attack on russian oil refinery near moscow" }
-RakyanclUns@{ shape: win-pane, label: "_Published Nov 15, 2025, 04:56 AM_
-Russia strike on kyiv apartment block kills six, ukraine says" }
-UnaRatufasy@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:55 PM_
-Ukraine attack on russian port disrupts 2% of global oil supply" }
-UnaRatufasy@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:55 PM_
-Ukraine attack on russian port disrupts 2% of global oil supply" }
-Unalsrit@{ shape: win-pane, label: "_Published Nov 14, 2025, 09:56 AM_
-Ukrainian capital comes under ‘massive’ attack" }
-Unalsrit@{ shape: win-pane, label: "_Published Nov 14, 2025, 09:56 AM_
-Ukrainian capital comes under ‘massive’ attack" }
-Ralcooneyllke@{ shape: win-pane, label: "_Published Oct 02, 2025, 03:39 AM_
-Russian shelling cuts power to defunct chernobyl nuclear plant, ukraine says" }
-Zsrcctofdrhcp@{ shape: win-pane, label: "_Published Oct 01, 2025, 03:45 AM_
-Zelensky warns of ‘critical’ situation at off-grid zaporizhzhia nuclear plant" }
-Ziilolfdiarl@{ shape: win-pane, label: "_Published Sep 28, 2025, 03:53 AM_
-Zaporizhzhia nuclear power plant off grid; russia, ukraine trade blame" }
-PcUnphnanvest@{ shape: win-pane, label: "_Published Jul 05, 2025, 01:36 AM_
-Power cut to ukraine’s zaporizhzhia nuclear plant; kyiv blames russian strike" }
-Ranueyeaiceirely@{ shape: win-pane, label: "_Published Feb 14, 2025, 03:59 PM_
-Russian drone ‘struck’ chernobyl cover, no radiation increase: ukraine’s president zelensky" }
-Tswunirwnmsdcgl@{ shape: win-pane, label: "_Published Feb 13, 2025, 11:55 PM_
-Trump’s call with putin on ukraine: europe’s worst nightmare is rapidly becoming a reality" }
-Nesoaotboiy@{ shape: win-pane, label: "_Published Feb 14, 2025, 06:34 AM_
-Nato membership for ukraine not off the table, us official says" }
+MershxdiatiIeo@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:06 PM_
+Meta delays release of phoenix mixed-reality glasses to 2027, business insider reports" }
+Socrsornlta@{ shape: win-pane, label: "_Published Jun 11, 2025, 10:58 AM_
+Snap to launch smart glasses for users in 2026 in challenge to meta" }
+MnscIstctl@{ shape: win-pane, label: "_Published Jun 09, 2025, 11:02 AM_
+Meta in talks for scale ai investment that could top $12.9 billion" }
+Mifaavsibo@{ shape: win-pane, label: "_Published Jun 02, 2025, 09:53 PM_
+Meta aims to fully automate advertising with ai by 2026: report" }
+Motgpdornm@{ shape: win-pane, label: "_Published Apr 17, 2025, 01:22 AM_
+Meta to start using europeans’ data for ai training from may 27" }
 
-Unyrlearthde:::txtsize --> Unlywlmiefesei:::txtsize
-Unlywlmiefesei:::txtsize --> Unitnilnes:::txtsize
-Unitnilnes:::txtsize --> RakyanclUns:::txtsize
-Unitnilnes:::txtsize --> UnaRatufasy:::txtsize
-Unlywlmiefesei:::txtsize --> UnaRatufasy:::txtsize
-UnaRatufasy:::txtsize --> Unalsrit:::txtsize
-UnaRatufasy:::txtsize --> Unalsrit:::txtsize
-Unyrlearthde:::txtsize --> Ralcooneyllke:::txtsize
-Ralcooneyllke:::txtsize --> Zsrcctofdrhcp:::txtsize
-Zsrcctofdrhcp:::txtsize --> Ziilolfdiarl:::txtsize
-Zsrcctofdrhcp:::txtsize --> PcUnphnanvest:::txtsize
-Ralcooneyllke:::txtsize --> Ranueyeaiceirely:::txtsize
-Ranueyeaiceirely:::txtsize --> Tswunirwnmsdcgl:::txtsize
-Ranueyeaiceirely:::txtsize --> Nesoaotboiy:::txtsize
+MershxdiatiIeo:::txtsize --> Socrsornlta:::txtsize
+Socrsornlta:::txtsize --> MnscIstctl:::txtsize
+MnscIstctl:::txtsize --> Mifaavsibo:::txtsize
+MnscIstctl:::txtsize --> Motgpdornm:::txtsize
 
-Udtncfrletia@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:55 AM_
-Us border patrol announces us$5,000 fee for people who enter the us illegally" }
-Ushietrorro@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:37 AM_
-Us uses war rhetoric, superman to recruit for migrant crackdown" }
-Usstcrosuncwi@{ shape: win-pane, label: "_Published Jul 16, 2025, 11:10 AM_
-Us says it has sent third-country deportees to southern africa’s eswatini" }
-Tpirlrapdaos@{ shape: win-pane, label: "_Published Jul 10, 2025, 07:33 PM_
-Trump pressing african leaders to take deported migrants, sources say" }
-Udtaotothwhsutey@{ shape: win-pane, label: "_Published Jul 14, 2025, 07:59 PM_
-Us may deport migrants to countries other than their own with just six hours’ notice, memo says" }
-Udtaotothwhsutey@{ shape: win-pane, label: "_Published Jul 14, 2025, 07:59 PM_
-Us may deport migrants to countries other than their own with just six hours’ notice, memo says" }
-FodfSgodln@{ shape: win-pane, label: "_Published Jul 13, 2025, 12:35 PM_
-Farm worker dies after us immigration raid in california" }
-UiiigCooan@{ shape: win-pane, label: "_Published Nov 16, 2025, 08:15 AM_
-Us immigration raids begin in charlotte, north carolina" }
-Asdriveatiirnk@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:30 AM_
-Agents raid daycare, senior living centre as part of chicago immigration crackdown" }
-IfkmCgurrap@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:45 AM_
-Ice officer kills man in chicago suburb during arrest attempt" }
-Ialttuoigcrhmtfe@{ shape: win-pane, label: "_Published Nov 06, 2025, 05:05 AM_
-Ice plans call centre to track unaccompanied migrant children, other immigration offenders" }
-TsSgodeneh@{ shape: win-pane, label: "_Published Nov 03, 2025, 06:40 AM_
-Trump says us immigration raids ‘haven’t gone far enough’" }
-PoesToisiewin@{ shape: win-pane, label: "_Published Jul 02, 2025, 02:09 PM_
-Paramount settles with trump over 60 minutes harris interview for $20 million" }
-WoocholeEko@{ shape: win-pane, label: "_Published Nov 03, 2025, 12:11 AM_
-‘we’re not a violent city’: chicago locals take on ice block by block" }
+Mnlhfeeotafrrraa@{ shape: win-pane, label: "_Published Dec 06, 2025, 12:40 PM_
+Meghan markle, duchess of sussex, tries to contact estranged father after reports of amputation" }
+MnldUrgaasrhln@{ shape: win-pane, label: "_Published Dec 06, 2025, 12:05 PM_
+Meghan markle’s dad in icu after emergency amputation surgery in the philippines" }
+Mnlhfeeotafrrraa@{ shape: win-pane, label: "_Published Dec 06, 2025, 12:40 PM_
+Meghan markle, duchess of sussex, tries to contact estranged father after reports of amputation" }
+MnldUrgaasrhln@{ shape: win-pane, label: "_Published Dec 06, 2025, 12:05 PM_
+Meghan markle’s dad in icu after emergency amputation surgery in the philippines" }
+MnldUrgaasrhln@{ shape: win-pane, label: "_Published Dec 06, 2025, 12:05 PM_
+Meghan markle’s dad in icu after emergency amputation surgery in the philippines" }
+Peyeakvpaedcmas@{ shape: win-pane, label: "_Published Apr 09, 2025, 04:36 AM_
+Prince harry’s wife meghan markle reveals pregnancy-related medical complications" }
+Ieaacwocaro@{ shape: win-pane, label: "_Published Apr 07, 2025, 03:00 PM_
+Inside meghan’s real kitchen, away from the cameras, is a real cook" }
+Biialbnstgchye@{ shape: win-pane, label: "_Published Apr 03, 2025, 09:47 PM_
+Britain’s prince harry blasts ‘blatant lies’ as watchdog launches charity probe" }
+MnldUrgaasrhln@{ shape: win-pane, label: "_Published Dec 06, 2025, 12:05 PM_
+Meghan markle’s dad in icu after emergency amputation surgery in the philippines" }
+Mnlhfeeotafrrraa@{ shape: win-pane, label: "_Published Dec 06, 2025, 12:40 PM_
+Meghan markle, duchess of sussex, tries to contact estranged father after reports of amputation" }
+MnldUrgaasrhln@{ shape: win-pane, label: "_Published Dec 06, 2025, 12:05 PM_
+Meghan markle’s dad in icu after emergency amputation surgery in the philippines" }
+MnldUrgaasrhln@{ shape: win-pane, label: "_Published Dec 06, 2025, 12:05 PM_
+Meghan markle’s dad in icu after emergency amputation surgery in the philippines" }
+Peyeakvpaedcmas@{ shape: win-pane, label: "_Published Apr 09, 2025, 04:36 AM_
+Prince harry’s wife meghan markle reveals pregnancy-related medical complications" }
+Ieaacwocaro@{ shape: win-pane, label: "_Published Apr 07, 2025, 03:00 PM_
+Inside meghan’s real kitchen, away from the cameras, is a real cook" }
+Biialbnstgchye@{ shape: win-pane, label: "_Published Apr 03, 2025, 09:47 PM_
+Britain’s prince harry blasts ‘blatant lies’ as watchdog launches charity probe" }
 
-Udtncfrletia:::txtsize --> Ushietrorro:::txtsize
-Ushietrorro:::txtsize --> Usstcrosuncwi:::txtsize
-Usstcrosuncwi:::txtsize --> Tpirlrapdaos:::txtsize
-Usstcrosuncwi:::txtsize --> Udtaotothwhsutey:::txtsize
-Ushietrorro:::txtsize --> Udtaotothwhsutey:::txtsize
-Udtaotothwhsutey:::txtsize --> FodfSgodln:::txtsize
-Udtncfrletia:::txtsize --> UiiigCooan:::txtsize
-UiiigCooan:::txtsize --> Asdriveatiirnk:::txtsize
-Asdriveatiirnk:::txtsize --> IfkmCgurrap:::txtsize
-Asdriveatiirnk:::txtsize --> Ialttuoigcrhmtfe:::txtsize
-UiiigCooan:::txtsize --> TsSgodeneh:::txtsize
-TsSgodeneh:::txtsize --> PoesToisiewin:::txtsize
-TsSgodeneh:::txtsize --> WoocholeEko:::txtsize
+Mnlhfeeotafrrraa:::txtsize --> MnldUrgaasrhln:::txtsize
+MnldUrgaasrhln:::txtsize --> Mnlhfeeotafrrraa:::txtsize
+Mnlhfeeotafrrraa:::txtsize --> MnldUrgaasrhln:::txtsize
+Mnlhfeeotafrrraa:::txtsize --> MnldUrgaasrhln:::txtsize
+MnldUrgaasrhln:::txtsize --> Peyeakvpaedcmas:::txtsize
+Peyeakvpaedcmas:::txtsize --> Ieaacwocaro:::txtsize
+Peyeakvpaedcmas:::txtsize --> Biialbnstgchye:::txtsize
+Mnlhfeeotafrrraa:::txtsize --> MnldUrgaasrhln:::txtsize
+MnldUrgaasrhln:::txtsize --> Mnlhfeeotafrrraa:::txtsize
+Mnlhfeeotafrrraa:::txtsize --> MnldUrgaasrhln:::txtsize
+Mnlhfeeotafrrraa:::txtsize --> MnldUrgaasrhln:::txtsize
+MnldUrgaasrhln:::txtsize --> Peyeakvpaedcmas:::txtsize
+Peyeakvpaedcmas:::txtsize --> Ieaacwocaro:::txtsize
+Peyeakvpaedcmas:::txtsize --> Biialbnstgchye:::txtsize
 
 ```
-<i>Last updated: 2025-12-06 12:00:27.784449 (GMT+8)</i>
+<i>Last updated: 2025-12-06 16:00:48.876174 (GMT+8)</i>
 <!-- END -->
