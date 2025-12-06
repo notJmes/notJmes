@@ -16,90 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-IaiAcnppeelreci@{ shape: win-pane, label: "_Published Dec 06, 2025, 11:59 PM_
-Iranian minister araghchi wants japan to play key safety role over nuclear facilities" }
-Ipdahibicfi@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:36 PM_
-Iran’s president says tehran will rebuild its nuclear facilities" }
-Tsifartdsodsirrr@{ shape: win-pane, label: "_Published Nov 01, 2025, 02:01 AM_
-Top us sanctions official to travel to middle east, europe to discuss ‘maximum pressure’ on iran" }
-TsoettclI@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:05 PM_
-Trump says would be ‘great to get a peace deal’ with iran" }
-RsinefawsUb@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:10 AM_
-Repression in iran worsened after 12-day war with israel: un probe" }
-Ipdahibicfi@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:36 PM_
-Iran’s president says tehran will rebuild its nuclear facilities" }
-Tsifartdsodsirrr@{ shape: win-pane, label: "_Published Nov 01, 2025, 02:01 AM_
-Top us sanctions official to travel to middle east, europe to discuss ‘maximum pressure’ on iran" }
-TsoettclI@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:05 PM_
-Trump says would be ‘great to get a peace deal’ with iran" }
-RsinefawsUb@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:10 AM_
-Repression in iran worsened after 12-day war with israel: un probe" }
+NaottirUk@{ shape: win-pane, label: "_Published Dec 07, 2025, 03:48 AM_
+No breakthrough at ‘constructive’ ukraine-us talks" }
+RansskerrocKa@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:11 PM_
+Russian drones, missiles hit ukraine power and transport sectors, kyiv says" }
+Ntoaanrrotra@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:38 AM_
+Next steps for ukraine talks unclear after moscow meeting, trump says" }
+Unpetrsrbitc@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:09 AM_
+Ukraine’s top peace negotiator quits after raid by anti-graft officers" }
+PwEeuwesleu@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:45 PM_
+Putin warns europe: if you want war, then russia will defeat you" }
+Unyrlearthde@{ shape: win-pane, label: "_Published Dec 06, 2025, 10:16 AM_
+Un agency says chornobyl nuclear plant’s protective shield damaged" }
+Unlywlmiefesei@{ shape: win-pane, label: "_Published Nov 16, 2025, 04:39 AM_
+Ukraine’s zelensky renews calls for more air defence after deadly strike on kyiv" }
+Ralcooneyllke@{ shape: win-pane, label: "_Published Oct 02, 2025, 03:39 AM_
+Russian shelling cuts power to defunct chernobyl nuclear plant, ukraine says" }
+Fermekrnznn@{ shape: win-pane, label: "_Published Dec 07, 2025, 12:16 AM_
+France’s macron to meet zelensky, starmer and merz in london on dec 8" }
+RansskerrocKa@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:11 PM_
+Russian drones, missiles hit ukraine power and transport sectors, kyiv says" }
+Ntoaanrrotra@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:38 AM_
+Next steps for ukraine talks unclear after moscow meeting, trump says" }
+Unyrlearthde@{ shape: win-pane, label: "_Published Dec 06, 2025, 10:16 AM_
+Un agency says chornobyl nuclear plant’s protective shield damaged" }
+Unphnanpiserttg@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:01 PM_
+Ukraine’s zaporizhzhia nuclear plant temporarily lost power overnight, un watchdog says" }
+Unyrlearthde@{ shape: win-pane, label: "_Published Dec 06, 2025, 10:16 AM_
+Un agency says chornobyl nuclear plant’s protective shield damaged" }
+RansskerrocKa@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:11 PM_
+Russian drones, missiles hit ukraine power and transport sectors, kyiv says" }
 
-IaiAcnppeelreci:::txtsize --> Ipdahibicfi:::txtsize
-Ipdahibicfi:::txtsize --> Tsifartdsodsirrr:::txtsize
-Tsifartdsodsirrr:::txtsize --> TsoettclI:::txtsize
-Tsifartdsodsirrr:::txtsize --> RsinefawsUb:::txtsize
-IaiAcnppeelreci:::txtsize --> Ipdahibicfi:::txtsize
-Ipdahibicfi:::txtsize --> Tsifartdsodsirrr:::txtsize
-Tsifartdsodsirrr:::txtsize --> TsoettclI:::txtsize
-Tsifartdsodsirrr:::txtsize --> RsinefawsUb:::txtsize
+NaottirUk:::txtsize --> RansskerrocKa:::txtsize
+RansskerrocKa:::txtsize --> Ntoaanrrotra:::txtsize
+Ntoaanrrotra:::txtsize --> Unpetrsrbitc:::txtsize
+Ntoaanrrotra:::txtsize --> PwEeuwesleu:::txtsize
+RansskerrocKa:::txtsize --> Unyrlearthde:::txtsize
+Unyrlearthde:::txtsize --> Unlywlmiefesei:::txtsize
+Unyrlearthde:::txtsize --> Ralcooneyllke:::txtsize
+NaottirUk:::txtsize --> Fermekrnznn:::txtsize
+Fermekrnznn:::txtsize --> RansskerrocKa:::txtsize
+RansskerrocKa:::txtsize --> Ntoaanrrotra:::txtsize
+RansskerrocKa:::txtsize --> Unyrlearthde:::txtsize
+Fermekrnznn:::txtsize --> Unphnanpiserttg:::txtsize
+Unphnanpiserttg:::txtsize --> Unyrlearthde:::txtsize
+Unphnanpiserttg:::txtsize --> RansskerrocKa:::txtsize
 
-Spslnfufer@{ shape: win-pane, label: "_Published Dec 06, 2025, 11:20 PM_
-Spain probes five labs in hunt for source of swine fever" }
-Shpxsitrsfnened@{ shape: win-pane, label: "_Published Nov 29, 2025, 02:33 AM_
-Spain halts pork exports to china after first case of african swine flu in three decades" }
-Srtsiweainb@{ shape: win-pane, label: "_Published Nov 28, 2025, 06:43 PM_
-Spain reports first african swine fever cases since 1994 in wild boar" }
-SKistrswe@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:13 PM_
-South korea issues alert after 6th case of swine fever" }
-Vanopitaiweps@{ shape: win-pane, label: "_Published Jul 18, 2025, 12:01 PM_
-Vietnam warns of food supply disruptions as african swine fever spreads" }
-Srtsiweainb@{ shape: win-pane, label: "_Published Nov 28, 2025, 06:43 PM_
-Spain reports first african swine fever cases since 1994 in wild boar" }
-SKistrswe@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:13 PM_
-South korea issues alert after 6th case of swine fever" }
-Vanopitaiweps@{ shape: win-pane, label: "_Published Jul 18, 2025, 12:01 PM_
-Vietnam warns of food supply disruptions as african swine fever spreads" }
-Srtsiweainb@{ shape: win-pane, label: "_Published Nov 28, 2025, 06:43 PM_
-Spain reports first african swine fever cases since 1994 in wild boar" }
-SKistrswe@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:13 PM_
-South korea issues alert after 6th case of swine fever" }
-Tncrssf@{ shape: win-pane, label: "_Published Oct 23, 2025, 12:50 PM_
-Taiwan detects first cases of swine fever" }
-Vairniweua@{ shape: win-pane, label: "_Published Aug 05, 2025, 12:55 PM_
-Vietnam facing worsening african swine fever outbreaks" }
-Vanopitaiweps@{ shape: win-pane, label: "_Published Jul 18, 2025, 12:01 PM_
-Vietnam warns of food supply disruptions as african swine fever spreads" }
-Msoiuslsyciv@{ shape: win-pane, label: "_Published May 18, 2025, 11:00 AM_
-Malaysia’s pork prices surge as local farms hit by african swine fever" }
+LaVuphgvlssp@{ shape: win-pane, label: "_Published Dec 07, 2025, 01:31 AM_
+Lithuania’s vilnius airport shuts again over balloons in its airspace" }
+Buhaeocsaesvt@{ shape: win-pane, label: "_Published Dec 02, 2025, 03:59 AM_
+Belarus, lithuania trade diplomatic barbs over alleged airspace violations" }
+Lahisoaeabo@{ shape: win-pane, label: "_Published Oct 31, 2025, 03:06 AM_
+Lithuania shuts vilnius airport again due to weather balloons" }
+Laawholsllsugrc@{ shape: win-pane, label: "_Published Oct 28, 2025, 12:59 AM_
+Lithuania says it will shoot down belarus smuggler balloons disrupting air traffic" }
+Lahisolbruicite@{ shape: win-pane, label: "_Published Oct 27, 2025, 04:40 AM_
+Lithuania shuts vilnius airport, belarus border in fourth airspace incident this week" }
+Laaloogvls@{ shape: win-pane, label: "_Published Dec 01, 2025, 12:59 AM_
+Lithuania capital airport closes again over balloons" }
+LaVupesroausii@{ shape: win-pane, label: "_Published Oct 05, 2025, 02:01 PM_
+Lithuania’s vilnius airport reopens after balloons cause suspension, diversions" }
+LaVupesroct@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:57 PM_
+Lithuania’s vilnius airport reopens after balloon incident" }
+LaoaecunBulP@{ shape: win-pane, label: "_Published Dec 05, 2025, 10:37 PM_
+Lithuania to declare ‘emergency situation’ over belarus balloons: pm" }
+Lahisoaeabo@{ shape: win-pane, label: "_Published Oct 31, 2025, 03:06 AM_
+Lithuania shuts vilnius airport again due to weather balloons" }
+Laawholsllsugrc@{ shape: win-pane, label: "_Published Oct 28, 2025, 12:59 AM_
+Lithuania says it will shoot down belarus smuggler balloons disrupting air traffic" }
+Lahisolbruicite@{ shape: win-pane, label: "_Published Oct 27, 2025, 04:40 AM_
+Lithuania shuts vilnius airport, belarus border in fourth airspace incident this week" }
+Buhaeocsaesvt@{ shape: win-pane, label: "_Published Dec 02, 2025, 03:59 AM_
+Belarus, lithuania trade diplomatic barbs over alleged airspace violations" }
+Lahisoaeabo@{ shape: win-pane, label: "_Published Oct 31, 2025, 03:06 AM_
+Lithuania shuts vilnius airport again due to weather balloons" }
+Laaloogvls@{ shape: win-pane, label: "_Published Dec 01, 2025, 12:59 AM_
+Lithuania capital airport closes again over balloons" }
 
-Spslnfufer:::txtsize --> Shpxsitrsfnened:::txtsize
-Shpxsitrsfnened:::txtsize --> Srtsiweainb:::txtsize
-Srtsiweainb:::txtsize --> SKistrswe:::txtsize
-Srtsiweainb:::txtsize --> Vanopitaiweps:::txtsize
-Shpxsitrsfnened:::txtsize --> Srtsiweainb:::txtsize
-Srtsiweainb:::txtsize --> SKistrswe:::txtsize
-Srtsiweainb:::txtsize --> Vanopitaiweps:::txtsize
-Spslnfufer:::txtsize --> Srtsiweainb:::txtsize
-Srtsiweainb:::txtsize --> SKistrswe:::txtsize
-SKistrswe:::txtsize --> Tncrssf:::txtsize
-SKistrswe:::txtsize --> Vairniweua:::txtsize
-Srtsiweainb:::txtsize --> Vanopitaiweps:::txtsize
-Vanopitaiweps:::txtsize --> Msoiuslsyciv:::txtsize
+LaVuphgvlssp:::txtsize --> Buhaeocsaesvt:::txtsize
+Buhaeocsaesvt:::txtsize --> Lahisoaeabo:::txtsize
+Lahisoaeabo:::txtsize --> Laawholsllsugrc:::txtsize
+Lahisoaeabo:::txtsize --> Lahisolbruicite:::txtsize
+Buhaeocsaesvt:::txtsize --> Laaloogvls:::txtsize
+Laaloogvls:::txtsize --> LaVupesroausii:::txtsize
+Laaloogvls:::txtsize --> LaVupesroct:::txtsize
+LaVuphgvlssp:::txtsize --> LaoaecunBulP:::txtsize
+LaoaecunBulP:::txtsize --> Lahisoaeabo:::txtsize
+Lahisoaeabo:::txtsize --> Laawholsllsugrc:::txtsize
+Lahisoaeabo:::txtsize --> Lahisolbruicite:::txtsize
+LaoaecunBulP:::txtsize --> Buhaeocsaesvt:::txtsize
+Buhaeocsaesvt:::txtsize --> Lahisoaeabo:::txtsize
+Buhaeocsaesvt:::txtsize --> Laaloogvls:::txtsize
 
-Irsaoarreooith@{ shape: win-pane, label: "_Published Dec 06, 2025, 11:17 PM_
-Iran arrests two marathon organisers over images of women competing without hijab" }
-Iwresnacdsife@{ shape: win-pane, label: "_Published Sep 15, 2024, 11:37 AM_
-Iran two years after mahsa amini’s death in custody: persecution, defiance" }
-Sdosinasnansa@{ shape: win-pane, label: "_Published Sep 18, 2023, 12:45 AM_
-Sporadic protests continue in iran as mahsa amini’s death anniversary passes" }
-Itamnsntiagr@{ shape: win-pane, label: "_Published Sep 17, 2023, 01:26 AM_
-Iran stops family marking mahsa amini death anniversary: rights groups" }
+UnlyhsaeewSivt@{ shape: win-pane, label: "_Published Dec 07, 2025, 01:01 AM_
+Ukraine’s zelensky says he had ‘substantive’ phone call with us special envoy witkoff" }
+Fermekrnznn@{ shape: win-pane, label: "_Published Dec 07, 2025, 12:16 AM_
+France’s macron to meet zelensky, starmer and merz in london on dec 8" }
+RansskerrocKa@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:11 PM_
+Russian drones, missiles hit ukraine power and transport sectors, kyiv says" }
+Ntoaanrrotra@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:38 AM_
+Next steps for ukraine talks unclear after moscow meeting, trump says" }
+Unyrlearthde@{ shape: win-pane, label: "_Published Dec 06, 2025, 10:16 AM_
+Un agency says chornobyl nuclear plant’s protective shield damaged" }
+Unphnanpiserttg@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:01 PM_
+Ukraine’s zaporizhzhia nuclear plant temporarily lost power overnight, un watchdog says" }
+Unyrlearthde@{ shape: win-pane, label: "_Published Dec 06, 2025, 10:16 AM_
+Un agency says chornobyl nuclear plant’s protective shield damaged" }
+RansskerrocKa@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:11 PM_
+Russian drones, missiles hit ukraine power and transport sectors, kyiv says" }
+IpestisdsaaZsnni@{ shape: win-pane, label: "_Published Dec 06, 2025, 12:40 AM_
+Irish police investigate ‘military style’ drones seen as ukraine’s zelensky landed in dublin" }
+Dssernlpoiirdr@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:50 AM_
+Drones were spotted near zelensky flight path to dublin, media in ireland report" }
+DsiithChOit@{ shape: win-pane, label: "_Published Sep 23, 2025, 08:52 AM_
+Drone sightings disrupt flights at copenhagen, oslo airports" }
+EeatsesPmna@{ shape: win-pane, label: "_Published Sep 01, 2025, 07:39 PM_
+Eu chief’s plane hit by suspected russian gps jamming in bulgaria" }
+Dssernlpoiirdr@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:50 AM_
+Drones were spotted near zelensky flight path to dublin, media in ireland report" }
+DsiithChOit@{ shape: win-pane, label: "_Published Sep 23, 2025, 08:52 AM_
+Drone sightings disrupt flights at copenhagen, oslo airports" }
+EeatsesPmna@{ shape: win-pane, label: "_Published Sep 01, 2025, 07:39 PM_
+Eu chief’s plane hit by suspected russian gps jamming in bulgaria" }
 
-Irsaoarreooith:::txtsize --> Iwresnacdsife:::txtsize
-Iwresnacdsife:::txtsize --> Sdosinasnansa:::txtsize
-Sdosinasnansa:::txtsize --> Itamnsntiagr:::txtsize
+UnlyhsaeewSivt:::txtsize --> Fermekrnznn:::txtsize
+Fermekrnznn:::txtsize --> RansskerrocKa:::txtsize
+RansskerrocKa:::txtsize --> Ntoaanrrotra:::txtsize
+RansskerrocKa:::txtsize --> Unyrlearthde:::txtsize
+Fermekrnznn:::txtsize --> Unphnanpiserttg:::txtsize
+Unphnanpiserttg:::txtsize --> Unyrlearthde:::txtsize
+Unphnanpiserttg:::txtsize --> RansskerrocKa:::txtsize
+UnlyhsaeewSivt:::txtsize --> IpestisdsaaZsnni:::txtsize
+IpestisdsaaZsnni:::txtsize --> Dssernlpoiirdr:::txtsize
+Dssernlpoiirdr:::txtsize --> DsiithChOit:::txtsize
+Dssernlpoiirdr:::txtsize --> EeatsesPmna:::txtsize
+IpestisdsaaZsnni:::txtsize --> Dssernlpoiirdr:::txtsize
+Dssernlpoiirdr:::txtsize --> DsiithChOit:::txtsize
+Dssernlpoiirdr:::txtsize --> EeatsesPmna:::txtsize
 
 ```
-<i>Last updated: 2025-12-07 00:00:36.674448 (GMT+8)</i>
+<i>Last updated: 2025-12-07 04:01:00.559515 (GMT+8)</i>
 <!-- END -->
