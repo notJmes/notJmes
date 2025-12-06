@@ -16,123 +16,105 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+TttwaMoeWCa@{ shape: win-pane, label: "_Published Dec 06, 2025, 06:16 AM_
+Trump talks trade with canada, mexico leaders at world cup draw" }
+IsksmteAcol@{ shape: win-pane, label: "_Published Dec 06, 2025, 05:52 AM_
+‘it doesn’t make sense’: trump wants to rename american football" }
+MocWCaSAatm@{ shape: win-pane, label: "_Published Dec 06, 2025, 02:16 AM_
+Mexico to kick off 2026 world cup against south africa, us get dream draw" }
+AWCawrnr@{ shape: win-pane, label: "_Published Dec 06, 2025, 03:51 AM_
+At the 2026 world cup draw, the winner is... donald trump" }
+AWCawrnr@{ shape: win-pane, label: "_Published Dec 06, 2025, 03:51 AM_
+At the 2026 world cup draw, the winner is... donald trump" }
+
+TttwaMoeWCa:::txtsize --> IsksmteAcol:::txtsize
+IsksmteAcol:::txtsize --> MocWCaSAatm:::txtsize
+IsksmteAcol:::txtsize --> AWCawrnr:::txtsize
+TttwaMoeWCa:::txtsize --> AWCawrnr:::txtsize
+
+WYresemhiD@{ shape: win-pane, label: "_Published Dec 06, 2025, 06:14 AM_
+While you were sleeping: 5 stories you might have missed, dec 6, 2025" }
 Siurymeoarnolu@{ shape: win-pane, label: "_Published Dec 06, 2025, 02:26 AM_
 Sweeping trump strategy document seeks to reframe us’ role in the world, slams europe" }
 Eeslierspntniiay@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:21 AM_
 Europe risks ‘civilisational erasure’, says trump admin, questioning reliability as an ally" }
 VakrvaUnkusinn@{ shape: win-pane, label: "_Published Feb 15, 2025, 07:44 AM_
 Vance attack on europe overshadows ukraine talks at munich security conference" }
-VmGnifdicifctm@{ shape: win-pane, label: "_Published Feb 15, 2025, 06:05 AM_
-Vance meets german far-right afd leader amid election interference criticism" }
-VmGnifdicifctm@{ shape: win-pane, label: "_Published Feb 15, 2025, 06:05 AM_
-Vance meets german far-right afd leader amid election interference criticism" }
 EeainletovrRt@{ shape: win-pane, label: "_Published Dec 04, 2025, 09:15 PM_
 European leaders in phone call voiced distrust of us over ukraine: report" }
-Ntoaanrrotra@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:38 AM_
-Next steps for ukraine talks unclear after moscow meeting, trump says" }
-Epufnisrotei@{ shape: win-pane, label: "_Published Dec 04, 2025, 04:29 AM_
-Eu proposes using frozen russian assets or borrowing to give ukraine $136b" }
-
-Siurymeoarnolu:::txtsize --> Eeslierspntniiay:::txtsize
-Eeslierspntniiay:::txtsize --> VakrvaUnkusinn:::txtsize
-VakrvaUnkusinn:::txtsize --> VmGnifdicifctm:::txtsize
-VakrvaUnkusinn:::txtsize --> VmGnifdicifctm:::txtsize
-Eeslierspntniiay:::txtsize --> EeainletovrRt:::txtsize
-EeainletovrRt:::txtsize --> Ntoaanrrotra:::txtsize
-EeainletovrRt:::txtsize --> Epufnisrotei:::txtsize
-
-Eeslierspntniiay@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:21 AM_
-Europe risks ‘civilisational erasure’, says trump admin, questioning reliability as an ally" }
-VakrvaUnkusinn@{ shape: win-pane, label: "_Published Feb 15, 2025, 07:44 AM_
-Vance attack on europe overshadows ukraine talks at munich security conference" }
-VmGnifdicifctm@{ shape: win-pane, label: "_Published Feb 15, 2025, 06:05 AM_
-Vance meets german far-right afd leader amid election interference criticism" }
-EusrahdXsttten@{ shape: win-pane, label: "_Published Jan 10, 2025, 03:22 AM_
-Elon musk hosts german far-right leader on x, stirs angst about election meddling" }
-IincEelifofp@{ shape: win-pane, label: "_Published Feb 14, 2025, 10:49 PM_
-In munich, vance accuses european politicians of censoring free speech" }
-VmGnifdicifctm@{ shape: win-pane, label: "_Published Feb 15, 2025, 06:05 AM_
-Vance meets german far-right afd leader amid election interference criticism" }
-EusrahdXsttten@{ shape: win-pane, label: "_Published Jan 10, 2025, 03:22 AM_
-Elon musk hosts german far-right leader on x, stirs angst about election meddling" }
-IincEelifofp@{ shape: win-pane, label: "_Published Feb 14, 2025, 10:49 PM_
-In munich, vance accuses european politicians of censoring free speech" }
-EeainletovrRt@{ shape: win-pane, label: "_Published Dec 04, 2025, 09:15 PM_
-European leaders in phone call voiced distrust of us over ukraine: report" }
-Ntoaanrrotra@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:38 AM_
-Next steps for ukraine talks unclear after moscow meeting, trump says" }
-Unpetrsrbitc@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:09 AM_
-Ukraine’s top peace negotiator quits after raid by anti-graft officers" }
-PwEeuwesleu@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:45 PM_
-Putin warns europe: if you want war, then russia will defeat you" }
-Epufnisrotei@{ shape: win-pane, label: "_Published Dec 04, 2025, 04:29 AM_
-Eu proposes using frozen russian assets or borrowing to give ukraine $136b" }
-BudnnpountUn@{ shape: win-pane, label: "_Published Nov 28, 2025, 07:44 PM_
-Belgium’s pm digs in against eu push to use russian assets for ukraine" }
-PwEeuwesleu@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:45 PM_
-Putin warns europe: if you want war, then russia will defeat you" }
-
-Eeslierspntniiay:::txtsize --> VakrvaUnkusinn:::txtsize
-VakrvaUnkusinn:::txtsize --> VmGnifdicifctm:::txtsize
-VmGnifdicifctm:::txtsize --> EusrahdXsttten:::txtsize
-VmGnifdicifctm:::txtsize --> IincEelifofp:::txtsize
-VakrvaUnkusinn:::txtsize --> VmGnifdicifctm:::txtsize
-VmGnifdicifctm:::txtsize --> EusrahdXsttten:::txtsize
-VmGnifdicifctm:::txtsize --> IincEelifofp:::txtsize
-Eeslierspntniiay:::txtsize --> EeainletovrRt:::txtsize
-EeainletovrRt:::txtsize --> Ntoaanrrotra:::txtsize
-Ntoaanrrotra:::txtsize --> Unpetrsrbitc:::txtsize
-Ntoaanrrotra:::txtsize --> PwEeuwesleu:::txtsize
-EeainletovrRt:::txtsize --> Epufnisrotei:::txtsize
-Epufnisrotei:::txtsize --> BudnnpountUn:::txtsize
-Epufnisrotei:::txtsize --> PwEeuwesleu:::txtsize
-
 UsloolAfoia@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:00 AM_
 Us sets 2027 deadline for europe to lead nato defence, officials say" }
 UnsnacastRa@{ shape: win-pane, label: "_Published Dec 05, 2025, 04:16 AM_
 Ukraine says it wants ‘real peace, not appeasement’ with russia" }
 Ntoaanrrotra@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:38 AM_
 Next steps for ukraine talks unclear after moscow meeting, trump says" }
-Unpetrsrbitc@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:09 AM_
-Ukraine’s top peace negotiator quits after raid by anti-graft officers" }
-PwEeuwesleu@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:45 PM_
-Putin warns europe: if you want war, then russia will defeat you" }
 Dssernlpoiirdr@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:50 AM_
 Drones were spotted near zelensky flight path to dublin, media in ireland report" }
-DsiithChOit@{ shape: win-pane, label: "_Published Sep 23, 2025, 08:52 AM_
-Drone sightings disrupt flights at copenhagen, oslo airports" }
-EeatsesPmna@{ shape: win-pane, label: "_Published Sep 01, 2025, 07:39 PM_
-Eu chief’s plane hit by suspected russian gps jamming in bulgaria" }
 Eeslierspntniiay@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:21 AM_
 Europe risks ‘civilisational erasure’, says trump admin, questioning reliability as an ally" }
 VakrvaUnkusinn@{ shape: win-pane, label: "_Published Feb 15, 2025, 07:44 AM_
 Vance attack on europe overshadows ukraine talks at munich security conference" }
-VmGnifdicifctm@{ shape: win-pane, label: "_Published Feb 15, 2025, 06:05 AM_
-Vance meets german far-right afd leader amid election interference criticism" }
-VmGnifdicifctm@{ shape: win-pane, label: "_Published Feb 15, 2025, 06:05 AM_
-Vance meets german far-right afd leader amid election interference criticism" }
 EeainletovrRt@{ shape: win-pane, label: "_Published Dec 04, 2025, 09:15 PM_
 European leaders in phone call voiced distrust of us over ukraine: report" }
-Ntoaanrrotra@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:38 AM_
-Next steps for ukraine talks unclear after moscow meeting, trump says" }
-Epufnisrotei@{ shape: win-pane, label: "_Published Dec 04, 2025, 04:29 AM_
-Eu proposes using frozen russian assets or borrowing to give ukraine $136b" }
 
+WYresemhiD:::txtsize --> Siurymeoarnolu:::txtsize
+Siurymeoarnolu:::txtsize --> Eeslierspntniiay:::txtsize
+Eeslierspntniiay:::txtsize --> VakrvaUnkusinn:::txtsize
+Eeslierspntniiay:::txtsize --> EeainletovrRt:::txtsize
+WYresemhiD:::txtsize --> UsloolAfoia:::txtsize
 UsloolAfoia:::txtsize --> UnsnacastRa:::txtsize
 UnsnacastRa:::txtsize --> Ntoaanrrotra:::txtsize
-Ntoaanrrotra:::txtsize --> Unpetrsrbitc:::txtsize
-Ntoaanrrotra:::txtsize --> PwEeuwesleu:::txtsize
 UnsnacastRa:::txtsize --> Dssernlpoiirdr:::txtsize
-Dssernlpoiirdr:::txtsize --> DsiithChOit:::txtsize
-Dssernlpoiirdr:::txtsize --> EeatsesPmna:::txtsize
 UsloolAfoia:::txtsize --> Eeslierspntniiay:::txtsize
 Eeslierspntniiay:::txtsize --> VakrvaUnkusinn:::txtsize
-VakrvaUnkusinn:::txtsize --> VmGnifdicifctm:::txtsize
-VakrvaUnkusinn:::txtsize --> VmGnifdicifctm:::txtsize
 Eeslierspntniiay:::txtsize --> EeainletovrRt:::txtsize
-EeainletovrRt:::txtsize --> Ntoaanrrotra:::txtsize
-EeainletovrRt:::txtsize --> Epufnisrotei:::txtsize
+
+Unotimsoi@{ shape: win-pane, label: "_Published Dec 06, 2025, 05:01 AM_
+Ukraine, us to hold talks in miami, says kyiv official" }
+Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
+Us peace plan for ukraine drew from russian document, sources say" }
+Tsodirisohe@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:30 AM_
+Trump says no firm deadline for ukraine, russia to reach peace deal" }
+Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
+Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
+Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
+Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
+UnlyorpfStd@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:08 AM_
+Ukraine’s zelensky welcomes ‘principles’ of new us draft to end war" }
+Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
+Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
+Feryaoilnoeewke@{ shape: win-pane, label: "_Published Nov 26, 2025, 03:17 AM_
+France’s macron says ‘clearly no russian willingness to agree ceasefire’ with ukraine" }
+Ntoaanrrotra@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:38 AM_
+Next steps for ukraine talks unclear after moscow meeting, trump says" }
+Unpetrsrbitc@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:09 AM_
+Ukraine’s top peace negotiator quits after raid by anti-graft officers" }
+Unitcehfncof@{ shape: win-pane, label: "_Published Nov 28, 2025, 04:19 PM_
+Ukraine anti-graft officers search home of zelensky’s chief of staff" }
+CZslufetarc@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:54 AM_
+Close zelensky ally accused of orchestrating major graft scheme" }
+PwEeuwesleu@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:45 PM_
+Putin warns europe: if you want war, then russia will defeat you" }
+UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
+Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
+TstUnrssllu@{ shape: win-pane, label: "_Published Dec 02, 2025, 02:04 PM_
+Trump’s push to end ukraine war raises fears of ‘ugly deal’ for europe" }
+
+Unotimsoi:::txtsize --> Ucnkefunmos:::txtsize
+Ucnkefunmos:::txtsize --> Tsodirisohe:::txtsize
+Tsodirisohe:::txtsize --> Zsyaeonaalusdthp:::txtsize
+Tsodirisohe:::txtsize --> Zsyaeonaalusdthp:::txtsize
+Ucnkefunmos:::txtsize --> UnlyorpfStd:::txtsize
+UnlyorpfStd:::txtsize --> Zsyaeonaalusdthp:::txtsize
+UnlyorpfStd:::txtsize --> Feryaoilnoeewke:::txtsize
+Unotimsoi:::txtsize --> Ntoaanrrotra:::txtsize
+Ntoaanrrotra:::txtsize --> Unpetrsrbitc:::txtsize
+Unpetrsrbitc:::txtsize --> Unitcehfncof:::txtsize
+Unpetrsrbitc:::txtsize --> CZslufetarc:::txtsize
+Ntoaanrrotra:::txtsize --> PwEeuwesleu:::txtsize
+PwEeuwesleu:::txtsize --> UntaluneBScyca:::txtsize
+PwEeuwesleu:::txtsize --> TstUnrssllu:::txtsize
 
 ```
-<i>Last updated: 2025-12-06 04:00:34.047965 (GMT+8)</i>
+<i>Last updated: 2025-12-06 08:01:01.166356 (GMT+8)</i>
 <!-- END -->
