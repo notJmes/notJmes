@@ -16,129 +16,90 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Frorngtocapn@{ shape: win-pane, label: "_Published Dec 06, 2025, 07:56 PM_
-Former doctor in britain charged with sex offences against 38 patients" }
-Drioemrgelah@{ shape: win-pane, label: "_Published Nov 14, 2025, 01:55 PM_
-Doctor convicted of voyeurism after using phone to film woman in shower" }
-Drstufuhsdkeli@{ shape: win-pane, label: "_Published Feb 06, 2025, 05:43 PM_
-Doctor accused of two counts of voyeurism has resigned: sengkang general hospital" }
-Slutomgoeasess@{ shape: win-pane, label: "_Published Dec 14, 2023, 04:17 PM_
-Serial voyeur who took compromising photos, videos of at least 52 women gets 3 years’ jail" }
-Chdojoupdmard@{ shape: win-pane, label: "_Published Dec 30, 2024, 05:30 PM_
-Court hands down 19 months’ jail to voyeur who preyed on female landlord, toddler" }
-Driyevrenusrdpi@{ shape: win-pane, label: "_Published Nov 04, 2025, 05:40 PM_
-Doctor previously jailed for voyeurism gets 6 months’ suspension from medical practice" }
-Cchsuaniaitfilyi@{ shape: win-pane, label: "_Published Oct 13, 2025, 08:30 PM_
-Cgh doctor who abused drugs placed on conditional registration after disciplinary hearing" }
-Vatsetrpiycnmti@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:00 AM_
-Veteran doctor suspended 36 months for inappropriately prescribing hormones to 18 patients" }
-Iituuodgnob@{ shape: win-pane, label: "_Published Aug 18, 2023, 08:50 PM_
-‘i am evil’: british nurse guilty of murdering seven newborn babies" }
-Ptoohlooehltwe@{ shape: win-pane, label: "_Published Jul 19, 2023, 12:05 PM_
-Parents in south korea who kill newborns now face death penalty after law passed" }
-Scniuefoornrtbs@{ shape: win-pane, label: "_Published Jun 22, 2023, 04:53 PM_
-Suspected infanticide uncovered after south korea probe into unregistered babies" }
-Ptaflldglite@{ shape: win-pane, label: "_Published Jul 03, 2023, 08:05 AM_
-Parents detained for allegedly murdering 5-day-old son in south korea" }
+IaiAcnppeelreci@{ shape: win-pane, label: "_Published Dec 06, 2025, 11:59 PM_
+Iranian minister araghchi wants japan to play key safety role over nuclear facilities" }
+Ipdahibicfi@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:36 PM_
+Iran’s president says tehran will rebuild its nuclear facilities" }
+Tsifartdsodsirrr@{ shape: win-pane, label: "_Published Nov 01, 2025, 02:01 AM_
+Top us sanctions official to travel to middle east, europe to discuss ‘maximum pressure’ on iran" }
+TsoettclI@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:05 PM_
+Trump says would be ‘great to get a peace deal’ with iran" }
+RsinefawsUb@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:10 AM_
+Repression in iran worsened after 12-day war with israel: un probe" }
+Ipdahibicfi@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:36 PM_
+Iran’s president says tehran will rebuild its nuclear facilities" }
+Tsifartdsodsirrr@{ shape: win-pane, label: "_Published Nov 01, 2025, 02:01 AM_
+Top us sanctions official to travel to middle east, europe to discuss ‘maximum pressure’ on iran" }
+TsoettclI@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:05 PM_
+Trump says would be ‘great to get a peace deal’ with iran" }
+RsinefawsUb@{ shape: win-pane, label: "_Published Oct 31, 2025, 09:10 AM_
+Repression in iran worsened after 12-day war with israel: un probe" }
 
-Frorngtocapn:::txtsize --> Drioemrgelah:::txtsize
-Drioemrgelah:::txtsize --> Drstufuhsdkeli:::txtsize
-Drstufuhsdkeli:::txtsize --> Slutomgoeasess:::txtsize
-Drstufuhsdkeli:::txtsize --> Chdojoupdmard:::txtsize
-Drioemrgelah:::txtsize --> Driyevrenusrdpi:::txtsize
-Driyevrenusrdpi:::txtsize --> Cchsuaniaitfilyi:::txtsize
-Driyevrenusrdpi:::txtsize --> Vatsetrpiycnmti:::txtsize
-Frorngtocapn:::txtsize --> Iituuodgnob:::txtsize
-Iituuodgnob:::txtsize --> Ptoohlooehltwe:::txtsize
-Ptoohlooehltwe:::txtsize --> Scniuefoornrtbs:::txtsize
-Ptoohlooehltwe:::txtsize --> Ptaflldglite:::txtsize
+IaiAcnppeelreci:::txtsize --> Ipdahibicfi:::txtsize
+Ipdahibicfi:::txtsize --> Tsifartdsodsirrr:::txtsize
+Tsifartdsodsirrr:::txtsize --> TsoettclI:::txtsize
+Tsifartdsodsirrr:::txtsize --> RsinefawsUb:::txtsize
+IaiAcnppeelreci:::txtsize --> Ipdahibicfi:::txtsize
+Ipdahibicfi:::txtsize --> Tsifartdsodsirrr:::txtsize
+Tsifartdsodsirrr:::txtsize --> TsoettclI:::txtsize
+Tsifartdsodsirrr:::txtsize --> RsinefawsUb:::txtsize
 
-LoeieaUr@{ shape: win-pane, label: "_Published Dec 06, 2025, 07:45 PM_
-Lebanon arrests six after attack on un patrol" }
-Ilcrtsub@{ shape: win-pane, label: "_Published Dec 05, 2025, 09:55 AM_
-Israel launches fresh strikes on south lebanon" }
-TafnemsHleikl@{ shape: win-pane, label: "_Published Nov 27, 2024, 02:56 AM_
-Thousands of lebanese head home as israel-hezbollah ceasefire takes hold" }
-IlocfheUktid@{ shape: win-pane, label: "_Published Nov 27, 2024, 05:28 AM_
-Israel-hezbollah ceasefire: what does the us-brokered truce include?" }
-PeLoseeaeao@{ shape: win-pane, label: "_Published Nov 26, 2024, 07:13 PM_
-Prospect of lebanon ceasefire leaves gazans feeling abandoned" }
-EdIlinn@{ shape: win-pane, label: "_Published Nov 08, 2025, 06:35 PM_
-Eu condemns israeli strikes in lebanon" }
-Ilamliiaiitacpaou@{ shape: win-pane, label: "_Published Jun 14, 2025, 07:54 AM_
-Israel exchanges missile strikes with iran as bid to wipe out tehran’s nuclear programme continues" }
-HlahemioneaIl@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:20 PM_
-Hezbollah says it has a ‘legitimate right’ to defend itself against israel" }
-Peeatreiiarhu@{ shape: win-pane, label: "_Published Nov 30, 2025, 11:19 PM_
-Pope leo urges lebanese to embrace reconciliation, stay in crisis-hit country" }
-Bttnanaeniopo@{ shape: win-pane, label: "_Published Aug 08, 2020, 04:00 PM_
-Beirut blast: lebanese say country was already in crisis before explosion" }
-NwrlachoaBtt@{ shape: win-pane, label: "_Published Aug 07, 2020, 07:15 PM_
-'no way we can rebuild': lebanese count huge losses after beirut blast" }
-Hlroojsienbv@{ shape: win-pane, label: "_Published Nov 29, 2025, 07:50 PM_
-Hezbollah urges pope leo to reject israeli ‘aggression’ on lebanon visit" }
-Petdsinensgvn@{ shape: win-pane, label: "_Published Nov 28, 2025, 02:58 PM_
-Pope leo meets middle east christian leaders, condemns religious violence" }
-PiIbls@{ shape: win-pane, label: "_Published Nov 29, 2025, 04:00 PM_
-Pope visits istanbul’s blue mosque" }
+Spslnfufer@{ shape: win-pane, label: "_Published Dec 06, 2025, 11:20 PM_
+Spain probes five labs in hunt for source of swine fever" }
+Shpxsitrsfnened@{ shape: win-pane, label: "_Published Nov 29, 2025, 02:33 AM_
+Spain halts pork exports to china after first case of african swine flu in three decades" }
+Srtsiweainb@{ shape: win-pane, label: "_Published Nov 28, 2025, 06:43 PM_
+Spain reports first african swine fever cases since 1994 in wild boar" }
+SKistrswe@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:13 PM_
+South korea issues alert after 6th case of swine fever" }
+Vanopitaiweps@{ shape: win-pane, label: "_Published Jul 18, 2025, 12:01 PM_
+Vietnam warns of food supply disruptions as african swine fever spreads" }
+Srtsiweainb@{ shape: win-pane, label: "_Published Nov 28, 2025, 06:43 PM_
+Spain reports first african swine fever cases since 1994 in wild boar" }
+SKistrswe@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:13 PM_
+South korea issues alert after 6th case of swine fever" }
+Vanopitaiweps@{ shape: win-pane, label: "_Published Jul 18, 2025, 12:01 PM_
+Vietnam warns of food supply disruptions as african swine fever spreads" }
+Srtsiweainb@{ shape: win-pane, label: "_Published Nov 28, 2025, 06:43 PM_
+Spain reports first african swine fever cases since 1994 in wild boar" }
+SKistrswe@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:13 PM_
+South korea issues alert after 6th case of swine fever" }
+Tncrssf@{ shape: win-pane, label: "_Published Oct 23, 2025, 12:50 PM_
+Taiwan detects first cases of swine fever" }
+Vairniweua@{ shape: win-pane, label: "_Published Aug 05, 2025, 12:55 PM_
+Vietnam facing worsening african swine fever outbreaks" }
+Vanopitaiweps@{ shape: win-pane, label: "_Published Jul 18, 2025, 12:01 PM_
+Vietnam warns of food supply disruptions as african swine fever spreads" }
+Msoiuslsyciv@{ shape: win-pane, label: "_Published May 18, 2025, 11:00 AM_
+Malaysia’s pork prices surge as local farms hit by african swine fever" }
 
-LoeieaUr:::txtsize --> Ilcrtsub:::txtsize
-Ilcrtsub:::txtsize --> TafnemsHleikl:::txtsize
-TafnemsHleikl:::txtsize --> IlocfheUktid:::txtsize
-TafnemsHleikl:::txtsize --> PeLoseeaeao:::txtsize
-Ilcrtsub:::txtsize --> EdIlinn:::txtsize
-EdIlinn:::txtsize --> Ilamliiaiitacpaou:::txtsize
-EdIlinn:::txtsize --> HlahemioneaIl:::txtsize
-LoeieaUr:::txtsize --> Peeatreiiarhu:::txtsize
-Peeatreiiarhu:::txtsize --> Bttnanaeniopo:::txtsize
-Bttnanaeniopo:::txtsize --> NwrlachoaBtt:::txtsize
-Peeatreiiarhu:::txtsize --> Hlroojsienbv:::txtsize
-Hlroojsienbv:::txtsize --> Petdsinensgvn:::txtsize
-Hlroojsienbv:::txtsize --> PiIbls:::txtsize
+Spslnfufer:::txtsize --> Shpxsitrsfnened:::txtsize
+Shpxsitrsfnened:::txtsize --> Srtsiweainb:::txtsize
+Srtsiweainb:::txtsize --> SKistrswe:::txtsize
+Srtsiweainb:::txtsize --> Vanopitaiweps:::txtsize
+Shpxsitrsfnened:::txtsize --> Srtsiweainb:::txtsize
+Srtsiweainb:::txtsize --> SKistrswe:::txtsize
+Srtsiweainb:::txtsize --> Vanopitaiweps:::txtsize
+Spslnfufer:::txtsize --> Srtsiweainb:::txtsize
+Srtsiweainb:::txtsize --> SKistrswe:::txtsize
+SKistrswe:::txtsize --> Tncrssf:::txtsize
+SKistrswe:::txtsize --> Vairniweua:::txtsize
+Srtsiweainb:::txtsize --> Vanopitaiweps:::txtsize
+Vanopitaiweps:::txtsize --> Msoiuslsyciv:::txtsize
 
-Gnresisano@{ shape: win-pane, label: "_Published Dec 06, 2025, 07:25 PM_
-Germany’s merz makes first visit to israel as chancellor" }
-yaWnpGnspse@{ shape: win-pane, label: "_Published May 07, 2025, 07:55 PM_
-80 years after wwii in europe: how germany’s past shapes its present" }
-Feuiea@{ shape: win-pane, label: "_Published Feb 24, 2023, 05:54 PM_
-Feb 24, 2022: the day russia invaded ukraine" }
-Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
-Timeline: how russia's attack on ukraine unfolded" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Psgnilitfdcim@{ shape: win-pane, label: "_Published Feb 02, 2025, 07:30 PM_
-Putin says ignoring soviet role in liberation of nazi death camps is ‘shameful’" }
-IdsrwnPoamUn@{ shape: win-pane, label: "_Published Mar 17, 2023, 11:58 PM_
-Icc judges issue arrest warrant for putin over war crimes in ukraine" }
-PhStfdovAw@{ shape: win-pane, label: "_Published Jan 28, 2025, 01:03 AM_
-Putin hails soviet army for ending ‘total evil’ of auschwitz" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
-Singapore strongly condemns terror attacks on israel, calls for end to violence" }
+Irsaoarreooith@{ shape: win-pane, label: "_Published Dec 06, 2025, 11:17 PM_
+Iran arrests two marathon organisers over images of women competing without hijab" }
+Iwresnacdsife@{ shape: win-pane, label: "_Published Sep 15, 2024, 11:37 AM_
+Iran two years after mahsa amini’s death in custody: persecution, defiance" }
+Sdosinasnansa@{ shape: win-pane, label: "_Published Sep 18, 2023, 12:45 AM_
+Sporadic protests continue in iran as mahsa amini’s death anniversary passes" }
+Itamnsntiagr@{ shape: win-pane, label: "_Published Sep 17, 2023, 01:26 AM_
+Iran stops family marking mahsa amini death anniversary: rights groups" }
 
-Gnresisano:::txtsize --> yaWnpGnspse:::txtsize
-yaWnpGnspse:::txtsize --> Feuiea:::txtsize
-Feuiea:::txtsize --> Tiwitnifd:::txtsize
-Feuiea:::txtsize --> DsruasvUn:::txtsize
-yaWnpGnspse:::txtsize --> Psgnilitfdcim:::txtsize
-Psgnilitfdcim:::txtsize --> IdsrwnPoamUn:::txtsize
-Psgnilitfdcim:::txtsize --> PhStfdovAw:::txtsize
-Gnresisano:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-WzptIleint:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
-Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
+Irsaoarreooith:::txtsize --> Iwresnacdsife:::txtsize
+Iwresnacdsife:::txtsize --> Sdosinasnansa:::txtsize
+Sdosinasnansa:::txtsize --> Itamnsntiagr:::txtsize
 
 ```
-<i>Last updated: 2025-12-06 20:01:15.970534 (GMT+8)</i>
+<i>Last updated: 2025-12-07 00:00:36.674448 (GMT+8)</i>
 <!-- END -->
