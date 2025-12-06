@@ -16,105 +16,138 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-TttwaMoeWCa@{ shape: win-pane, label: "_Published Dec 06, 2025, 06:16 AM_
-Trump talks trade with canada, mexico leaders at world cup draw" }
-IsksmteAcol@{ shape: win-pane, label: "_Published Dec 06, 2025, 05:52 AM_
-‘it doesn’t make sense’: trump wants to rename american football" }
-MocWCaSAatm@{ shape: win-pane, label: "_Published Dec 06, 2025, 02:16 AM_
-Mexico to kick off 2026 world cup against south africa, us get dream draw" }
-AWCawrnr@{ shape: win-pane, label: "_Published Dec 06, 2025, 03:51 AM_
-At the 2026 world cup draw, the winner is... donald trump" }
-AWCawrnr@{ shape: win-pane, label: "_Published Dec 06, 2025, 03:51 AM_
-At the 2026 world cup draw, the winner is... donald trump" }
+Ucaphiaetrrf@{ shape: win-pane, label: "_Published Dec 06, 2025, 10:25 AM_
+Us vaccine panel upends hepatitis b advice in latest trump-era shift" }
+Ucotethsdssny@{ shape: win-pane, label: "_Published Dec 03, 2025, 11:01 AM_
+Us vaccine committee’s hepatitis b changes would be most consequential yet" }
+Usyidcsre@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:25 AM_
+Us fda’s newly appointed drugs chief set to retire" }
+Ulcreeyituuaeole@{ shape: win-pane, label: "_Published Nov 18, 2025, 05:10 AM_
+Us health secretary robert f. kennedy jr tries to tie aluminium in vaccines to food allergies" }
+FUleheioeepento@{ shape: win-pane, label: "_Published Sep 18, 2025, 01:56 AM_
+Fired us health agency chief testifies about pressure to ‘replace evidence with ideology’" }
+Rifttiec@{ shape: win-pane, label: "_Published Jan 02, 2025, 05:00 AM_
+Rfk jr is half right about american healthcare" }
+TnTsihzdech@{ shape: win-pane, label: "_Published Nov 20, 2024, 08:11 AM_
+Trump names tv personality mehmet oz as medicare, medicaid chief" }
+TeeDmoespeoevnn@{ shape: win-pane, label: "_Published Dec 04, 2025, 10:12 AM_
+Twelve former us fda commissioners express deep concern about agency’s vaccine change" }
+Usyidcsre@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:25 AM_
+Us fda’s newly appointed drugs chief set to retire" }
+Ulcreeyituuaeole@{ shape: win-pane, label: "_Published Nov 18, 2025, 05:10 AM_
+Us health secretary robert f. kennedy jr tries to tie aluminium in vaccines to food allergies" }
+FUleheioeepento@{ shape: win-pane, label: "_Published Sep 18, 2025, 01:56 AM_
+Fired us health agency chief testifies about pressure to ‘replace evidence with ideology’" }
+Ucotethsdssny@{ shape: win-pane, label: "_Published Dec 03, 2025, 11:01 AM_
+Us vaccine committee’s hepatitis b changes would be most consequential yet" }
+Usyidcsre@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:25 AM_
+Us fda’s newly appointed drugs chief set to retire" }
+Rifttiec@{ shape: win-pane, label: "_Published Jan 02, 2025, 05:00 AM_
+Rfk jr is half right about american healthcare" }
 
-TttwaMoeWCa:::txtsize --> IsksmteAcol:::txtsize
-IsksmteAcol:::txtsize --> MocWCaSAatm:::txtsize
-IsksmteAcol:::txtsize --> AWCawrnr:::txtsize
-TttwaMoeWCa:::txtsize --> AWCawrnr:::txtsize
+Ucaphiaetrrf:::txtsize --> Ucotethsdssny:::txtsize
+Ucotethsdssny:::txtsize --> Usyidcsre:::txtsize
+Usyidcsre:::txtsize --> Ulcreeyituuaeole:::txtsize
+Usyidcsre:::txtsize --> FUleheioeepento:::txtsize
+Ucotethsdssny:::txtsize --> Rifttiec:::txtsize
+Rifttiec:::txtsize --> TnTsihzdech:::txtsize
+Ucaphiaetrrf:::txtsize --> TeeDmoespeoevnn:::txtsize
+TeeDmoespeoevnn:::txtsize --> Usyidcsre:::txtsize
+Usyidcsre:::txtsize --> Ulcreeyituuaeole:::txtsize
+Usyidcsre:::txtsize --> FUleheioeepento:::txtsize
+TeeDmoespeoevnn:::txtsize --> Ucotethsdssny:::txtsize
+Ucotethsdssny:::txtsize --> Usyidcsre:::txtsize
+Ucotethsdssny:::txtsize --> Rifttiec:::txtsize
 
-WYresemhiD@{ shape: win-pane, label: "_Published Dec 06, 2025, 06:14 AM_
-While you were sleeping: 5 stories you might have missed, dec 6, 2025" }
-Siurymeoarnolu@{ shape: win-pane, label: "_Published Dec 06, 2025, 02:26 AM_
-Sweeping trump strategy document seeks to reframe us’ role in the world, slams europe" }
-Eeslierspntniiay@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:21 AM_
-Europe risks ‘civilisational erasure’, says trump admin, questioning reliability as an ally" }
-VakrvaUnkusinn@{ shape: win-pane, label: "_Published Feb 15, 2025, 07:44 AM_
-Vance attack on europe overshadows ukraine talks at munich security conference" }
-EeainletovrRt@{ shape: win-pane, label: "_Published Dec 04, 2025, 09:15 PM_
-European leaders in phone call voiced distrust of us over ukraine: report" }
-UsloolAfoia@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:00 AM_
-Us sets 2027 deadline for europe to lead nato defence, officials say" }
-UnsnacastRa@{ shape: win-pane, label: "_Published Dec 05, 2025, 04:16 AM_
-Ukraine says it wants ‘real peace, not appeasement’ with russia" }
-Ntoaanrrotra@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:38 AM_
-Next steps for ukraine talks unclear after moscow meeting, trump says" }
-Dssernlpoiirdr@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:50 AM_
-Drones were spotted near zelensky flight path to dublin, media in ireland report" }
-Eeslierspntniiay@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:21 AM_
-Europe risks ‘civilisational erasure’, says trump admin, questioning reliability as an ally" }
-VakrvaUnkusinn@{ shape: win-pane, label: "_Published Feb 15, 2025, 07:44 AM_
-Vance attack on europe overshadows ukraine talks at munich security conference" }
-EeainletovrRt@{ shape: win-pane, label: "_Published Dec 04, 2025, 09:15 PM_
-European leaders in phone call voiced distrust of us over ukraine: report" }
+Unyrlearthde@{ shape: win-pane, label: "_Published Dec 06, 2025, 10:16 AM_
+Un agency says chornobyl nuclear plant’s protective shield damaged" }
+Unlywlmiefesei@{ shape: win-pane, label: "_Published Nov 16, 2025, 04:39 AM_
+Ukraine’s zelensky renews calls for more air defence after deadly strike on kyiv" }
+Unitnilnes@{ shape: win-pane, label: "_Published Nov 16, 2025, 12:29 AM_
+Ukraine claims attack on russian oil refinery near moscow" }
+RakyanclUns@{ shape: win-pane, label: "_Published Nov 15, 2025, 04:56 AM_
+Russia strike on kyiv apartment block kills six, ukraine says" }
+UnaRatufasy@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:55 PM_
+Ukraine attack on russian port disrupts 2% of global oil supply" }
+UnaRatufasy@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:55 PM_
+Ukraine attack on russian port disrupts 2% of global oil supply" }
+Unalsrit@{ shape: win-pane, label: "_Published Nov 14, 2025, 09:56 AM_
+Ukrainian capital comes under ‘massive’ attack" }
+Unalsrit@{ shape: win-pane, label: "_Published Nov 14, 2025, 09:56 AM_
+Ukrainian capital comes under ‘massive’ attack" }
+Ralcooneyllke@{ shape: win-pane, label: "_Published Oct 02, 2025, 03:39 AM_
+Russian shelling cuts power to defunct chernobyl nuclear plant, ukraine says" }
+Zsrcctofdrhcp@{ shape: win-pane, label: "_Published Oct 01, 2025, 03:45 AM_
+Zelensky warns of ‘critical’ situation at off-grid zaporizhzhia nuclear plant" }
+Ziilolfdiarl@{ shape: win-pane, label: "_Published Sep 28, 2025, 03:53 AM_
+Zaporizhzhia nuclear power plant off grid; russia, ukraine trade blame" }
+PcUnphnanvest@{ shape: win-pane, label: "_Published Jul 05, 2025, 01:36 AM_
+Power cut to ukraine’s zaporizhzhia nuclear plant; kyiv blames russian strike" }
+Ranueyeaiceirely@{ shape: win-pane, label: "_Published Feb 14, 2025, 03:59 PM_
+Russian drone ‘struck’ chernobyl cover, no radiation increase: ukraine’s president zelensky" }
+Tswunirwnmsdcgl@{ shape: win-pane, label: "_Published Feb 13, 2025, 11:55 PM_
+Trump’s call with putin on ukraine: europe’s worst nightmare is rapidly becoming a reality" }
+Nesoaotboiy@{ shape: win-pane, label: "_Published Feb 14, 2025, 06:34 AM_
+Nato membership for ukraine not off the table, us official says" }
 
-WYresemhiD:::txtsize --> Siurymeoarnolu:::txtsize
-Siurymeoarnolu:::txtsize --> Eeslierspntniiay:::txtsize
-Eeslierspntniiay:::txtsize --> VakrvaUnkusinn:::txtsize
-Eeslierspntniiay:::txtsize --> EeainletovrRt:::txtsize
-WYresemhiD:::txtsize --> UsloolAfoia:::txtsize
-UsloolAfoia:::txtsize --> UnsnacastRa:::txtsize
-UnsnacastRa:::txtsize --> Ntoaanrrotra:::txtsize
-UnsnacastRa:::txtsize --> Dssernlpoiirdr:::txtsize
-UsloolAfoia:::txtsize --> Eeslierspntniiay:::txtsize
-Eeslierspntniiay:::txtsize --> VakrvaUnkusinn:::txtsize
-Eeslierspntniiay:::txtsize --> EeainletovrRt:::txtsize
+Unyrlearthde:::txtsize --> Unlywlmiefesei:::txtsize
+Unlywlmiefesei:::txtsize --> Unitnilnes:::txtsize
+Unitnilnes:::txtsize --> RakyanclUns:::txtsize
+Unitnilnes:::txtsize --> UnaRatufasy:::txtsize
+Unlywlmiefesei:::txtsize --> UnaRatufasy:::txtsize
+UnaRatufasy:::txtsize --> Unalsrit:::txtsize
+UnaRatufasy:::txtsize --> Unalsrit:::txtsize
+Unyrlearthde:::txtsize --> Ralcooneyllke:::txtsize
+Ralcooneyllke:::txtsize --> Zsrcctofdrhcp:::txtsize
+Zsrcctofdrhcp:::txtsize --> Ziilolfdiarl:::txtsize
+Zsrcctofdrhcp:::txtsize --> PcUnphnanvest:::txtsize
+Ralcooneyllke:::txtsize --> Ranueyeaiceirely:::txtsize
+Ranueyeaiceirely:::txtsize --> Tswunirwnmsdcgl:::txtsize
+Ranueyeaiceirely:::txtsize --> Nesoaotboiy:::txtsize
 
-Unotimsoi@{ shape: win-pane, label: "_Published Dec 06, 2025, 05:01 AM_
-Ukraine, us to hold talks in miami, says kyiv official" }
-Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
-Us peace plan for ukraine drew from russian document, sources say" }
-Tsodirisohe@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:30 AM_
-Trump says no firm deadline for ukraine, russia to reach peace deal" }
-Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
-Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
-Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
-Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
-UnlyorpfStd@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:08 AM_
-Ukraine’s zelensky welcomes ‘principles’ of new us draft to end war" }
-Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
-Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
-Feryaoilnoeewke@{ shape: win-pane, label: "_Published Nov 26, 2025, 03:17 AM_
-France’s macron says ‘clearly no russian willingness to agree ceasefire’ with ukraine" }
-Ntoaanrrotra@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:38 AM_
-Next steps for ukraine talks unclear after moscow meeting, trump says" }
-Unpetrsrbitc@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:09 AM_
-Ukraine’s top peace negotiator quits after raid by anti-graft officers" }
-Unitcehfncof@{ shape: win-pane, label: "_Published Nov 28, 2025, 04:19 PM_
-Ukraine anti-graft officers search home of zelensky’s chief of staff" }
-CZslufetarc@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:54 AM_
-Close zelensky ally accused of orchestrating major graft scheme" }
-PwEeuwesleu@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:45 PM_
-Putin warns europe: if you want war, then russia will defeat you" }
-UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
-Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
-TstUnrssllu@{ shape: win-pane, label: "_Published Dec 02, 2025, 02:04 PM_
-Trump’s push to end ukraine war raises fears of ‘ugly deal’ for europe" }
+Udtncfrletia@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:55 AM_
+Us border patrol announces us$5,000 fee for people who enter the us illegally" }
+Ushietrorro@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:37 AM_
+Us uses war rhetoric, superman to recruit for migrant crackdown" }
+Usstcrosuncwi@{ shape: win-pane, label: "_Published Jul 16, 2025, 11:10 AM_
+Us says it has sent third-country deportees to southern africa’s eswatini" }
+Tpirlrapdaos@{ shape: win-pane, label: "_Published Jul 10, 2025, 07:33 PM_
+Trump pressing african leaders to take deported migrants, sources say" }
+Udtaotothwhsutey@{ shape: win-pane, label: "_Published Jul 14, 2025, 07:59 PM_
+Us may deport migrants to countries other than their own with just six hours’ notice, memo says" }
+Udtaotothwhsutey@{ shape: win-pane, label: "_Published Jul 14, 2025, 07:59 PM_
+Us may deport migrants to countries other than their own with just six hours’ notice, memo says" }
+FodfSgodln@{ shape: win-pane, label: "_Published Jul 13, 2025, 12:35 PM_
+Farm worker dies after us immigration raid in california" }
+UiiigCooan@{ shape: win-pane, label: "_Published Nov 16, 2025, 08:15 AM_
+Us immigration raids begin in charlotte, north carolina" }
+Asdriveatiirnk@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:30 AM_
+Agents raid daycare, senior living centre as part of chicago immigration crackdown" }
+IfkmCgurrap@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:45 AM_
+Ice officer kills man in chicago suburb during arrest attempt" }
+Ialttuoigcrhmtfe@{ shape: win-pane, label: "_Published Nov 06, 2025, 05:05 AM_
+Ice plans call centre to track unaccompanied migrant children, other immigration offenders" }
+TsSgodeneh@{ shape: win-pane, label: "_Published Nov 03, 2025, 06:40 AM_
+Trump says us immigration raids ‘haven’t gone far enough’" }
+PoesToisiewin@{ shape: win-pane, label: "_Published Jul 02, 2025, 02:09 PM_
+Paramount settles with trump over 60 minutes harris interview for $20 million" }
+WoocholeEko@{ shape: win-pane, label: "_Published Nov 03, 2025, 12:11 AM_
+‘we’re not a violent city’: chicago locals take on ice block by block" }
 
-Unotimsoi:::txtsize --> Ucnkefunmos:::txtsize
-Ucnkefunmos:::txtsize --> Tsodirisohe:::txtsize
-Tsodirisohe:::txtsize --> Zsyaeonaalusdthp:::txtsize
-Tsodirisohe:::txtsize --> Zsyaeonaalusdthp:::txtsize
-Ucnkefunmos:::txtsize --> UnlyorpfStd:::txtsize
-UnlyorpfStd:::txtsize --> Zsyaeonaalusdthp:::txtsize
-UnlyorpfStd:::txtsize --> Feryaoilnoeewke:::txtsize
-Unotimsoi:::txtsize --> Ntoaanrrotra:::txtsize
-Ntoaanrrotra:::txtsize --> Unpetrsrbitc:::txtsize
-Unpetrsrbitc:::txtsize --> Unitcehfncof:::txtsize
-Unpetrsrbitc:::txtsize --> CZslufetarc:::txtsize
-Ntoaanrrotra:::txtsize --> PwEeuwesleu:::txtsize
-PwEeuwesleu:::txtsize --> UntaluneBScyca:::txtsize
-PwEeuwesleu:::txtsize --> TstUnrssllu:::txtsize
+Udtncfrletia:::txtsize --> Ushietrorro:::txtsize
+Ushietrorro:::txtsize --> Usstcrosuncwi:::txtsize
+Usstcrosuncwi:::txtsize --> Tpirlrapdaos:::txtsize
+Usstcrosuncwi:::txtsize --> Udtaotothwhsutey:::txtsize
+Ushietrorro:::txtsize --> Udtaotothwhsutey:::txtsize
+Udtaotothwhsutey:::txtsize --> FodfSgodln:::txtsize
+Udtncfrletia:::txtsize --> UiiigCooan:::txtsize
+UiiigCooan:::txtsize --> Asdriveatiirnk:::txtsize
+Asdriveatiirnk:::txtsize --> IfkmCgurrap:::txtsize
+Asdriveatiirnk:::txtsize --> Ialttuoigcrhmtfe:::txtsize
+UiiigCooan:::txtsize --> TsSgodeneh:::txtsize
+TsSgodeneh:::txtsize --> PoesToisiewin:::txtsize
+TsSgodeneh:::txtsize --> WoocholeEko:::txtsize
 
 ```
-<i>Last updated: 2025-12-06 08:01:01.166356 (GMT+8)</i>
+<i>Last updated: 2025-12-06 12:00:27.784449 (GMT+8)</i>
 <!-- END -->
