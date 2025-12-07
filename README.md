@@ -16,27 +16,45 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-NraahuiI@{ shape: win-pane, label: "_Published Dec 07, 2025, 11:42 AM_
-Number’s up: calculators hold out against ai" }
-Ctudieriaa@{ shape: win-pane, label: "_Published Nov 19, 2025, 07:17 PM_
-Christie’s suspends paris sale of world’s ‘first calculator’" }
-Dnpncotnv@{ shape: win-pane, label: "_Published Nov 06, 2025, 09:05 PM_
-Diamonds, napoleon brooch up for auction in geneva" }
-Jisedpunui@{ shape: win-pane, label: "_Published Oct 21, 2025, 10:50 PM_
-Jane birkin’s hermes handbag up for auction in abu dhabi" }
-Erehiaaasnnr@{ shape: win-pane, label: "_Published Mar 28, 2025, 05:00 AM_
-Electric dreams: the curious tale of a thomas edison fan in singapore" }
-TunMhlrhgaso@{ shape: win-pane, label: "_Published Aug 10, 2024, 05:00 AM_
-Treasure hunters: meet the collectors archiving singapore’s history" }
-UentlgetqAut@{ shape: win-pane, label: "_Published Mar 07, 2025, 10:00 AM_
-Uncovering nuggets of old singapore at katong square antique centre" }
+KicedtaeStAp@{ shape: win-pane, label: "_Published Dec 07, 2025, 12:36 PM_
+Kremlin welcomes end to ‘direct threat’ label in us strategy, tass reports" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
+Explosions heard in ukraine capital kyiv, other cities" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
+Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Casoiitsroseo@{ shape: win-pane, label: "_Published Dec 07, 2025, 11:36 AM_
+China and russia hold third joint anti-missile drills on russian territory" }
+Ctnisnteuncaso@{ shape: win-pane, label: "_Published Nov 20, 2025, 08:50 AM_
+China teaming up with russia and north korea is fuelling concern: japanese report" }
+Csosrlydhni@{ shape: win-pane, label: "_Published Sep 03, 2025, 06:44 AM_
+China’s xi projects power at military parade with putin and kim" }
+Ispflatbeatri@{ shape: win-pane, label: "_Published Nov 19, 2025, 07:18 PM_
+Images of japan official appearing to bow before china counterpart go viral" }
+TrftasasiLC@{ shape: win-pane, label: "_Published Nov 11, 2025, 10:45 AM_
+Tanker spoofing its location seen taking sanctioned lng to china" }
+DhpnrecesGaieeew@{ shape: win-pane, label: "_Published Oct 19, 2025, 03:33 PM_
+Dark ship appearing to transfer sanctioned russia lng off malaysia, satellite images show" }
+WrUcssnfdiruysns@{ shape: win-pane, label: "_Published Nov 09, 2025, 01:58 AM_
+Waiver from us sanctions on russia energy for ‘indefinite period’, hungary minister insists" }
 
-NraahuiI:::txtsize --> Ctudieriaa:::txtsize
-Ctudieriaa:::txtsize --> Dnpncotnv:::txtsize
-Dnpncotnv:::txtsize --> Jisedpunui:::txtsize
-Ctudieriaa:::txtsize --> Erehiaaasnnr:::txtsize
-Erehiaaasnnr:::txtsize --> TunMhlrhgaso:::txtsize
-Erehiaaasnnr:::txtsize --> UentlgetqAut:::txtsize
+KicedtaeStAp:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
+Eshiaalocs:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
+OaUuakaogrmc:::txtsize --> DsruasvUn:::txtsize
+KicedtaeStAp:::txtsize --> Casoiitsroseo:::txtsize
+Casoiitsroseo:::txtsize --> Ctnisnteuncaso:::txtsize
+Ctnisnteuncaso:::txtsize --> Csosrlydhni:::txtsize
+Ctnisnteuncaso:::txtsize --> Ispflatbeatri:::txtsize
+Casoiitsroseo:::txtsize --> TrftasasiLC:::txtsize
+TrftasasiLC:::txtsize --> DhpnrecesGaieeew:::txtsize
+TrftasasiLC:::txtsize --> WrUcssnfdiruysns:::txtsize
 
 Tsahegufsdo@{ shape: win-pane, label: "_Published Dec 07, 2025, 10:25 AM_
 Trump’s pentagon chief pete hegseth under fire as scandals mount" }
@@ -131,5 +149,5 @@ MauvroseeU:::txtsize --> Maifsisdudioiy:::txtsize
 MauvroseeU:::txtsize --> Maowseufmy:::txtsize
 
 ```
-<i>Last updated: 2025-12-07 12:00:48.160278 (GMT+8)</i>
+<i>Last updated: 2025-12-07 16:01:12.922793 (GMT+8)</i>
 <!-- END -->
