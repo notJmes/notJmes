@@ -16,69 +16,99 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ileayitpiheao@{ shape: win-pane, label: "_Published Dec 07, 2025, 11:26 PM_
-Israel’s pm netanyahu says he will not quit politics if he receives a pardon" }
-Ilausoeorii@{ shape: win-pane, label: "_Published Nov 30, 2025, 06:34 PM_
-Israel’s netanyahu seeks pardon in years-long corruption trial" }
-Tasiitdthe@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:21 PM_
-Trump asks israeli president to pardon netanyahu in letter" }
-TuIlstreaororo@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:09 PM_
-Trump urges israel’s president to pardon netanyahu, who’s on trial for corruption" }
-Tssithriioee@{ shape: win-pane, label: "_Published Jun 26, 2025, 08:10 AM_
-Trump says israeli pm netanyahu’s corruption trial should be cancelled" }
-TsIlsoeauunl@{ shape: win-pane, label: "_Published Jun 29, 2025, 08:26 AM_
-Trump slams israel’s prosecutors over netanyahu corruption trial" }
-IltreoGoeene@{ shape: win-pane, label: "_Published Jun 29, 2025, 07:05 AM_
-Israeli protesters urge action for gaza hostages after iran truce" }
-Iorsitheyesnuas@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:05 PM_
-I beg your pardon? israeli pm netanyahu’s clemency request risks constitutional crisis" }
-Ilausoeorii@{ shape: win-pane, label: "_Published Nov 30, 2025, 06:34 PM_
-Israel’s netanyahu seeks pardon in years-long corruption trial" }
-Tasiitdthe@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:21 PM_
-Trump asks israeli president to pardon netanyahu in letter" }
-TsIlsoeauunl@{ shape: win-pane, label: "_Published Jun 29, 2025, 08:26 AM_
-Trump slams israel’s prosecutors over netanyahu corruption trial" }
+TUoezalnaisa@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:38 AM_
+Trump un envoy mike waltz, eu’s kaja kallas in jordan to discuss gaza aid" }
+Ileayiemisnsaan@{ shape: win-pane, label: "_Published Dec 07, 2025, 08:31 PM_
+Israeli pm netanyahu says he will meet trump to discuss second phase of gaza plan soon" }
+GrrswrHvnrs@{ shape: win-pane, label: "_Published Nov 24, 2025, 08:22 PM_
+Gaza truce progress slow as israeli-hamas violence persists" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Haognsidctseoiy@{ shape: win-pane, label: "_Published Oct 18, 2025, 12:36 AM_
+Hamas aims to keep grip on gaza security and can't commit to disarm, senior official says" }
+Hcewfkntrnucr@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:30 AM_
+Hamas carries out wave of gaza killings, citing crime and security concerns" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+GatiocfopQsesa@{ shape: win-pane, label: "_Published Dec 06, 2025, 06:16 PM_
+Gaza talks at critical moment, ceasefire not complete, qatar’s prime minister says" }
+UiKeNyiseft@{ shape: win-pane, label: "_Published Nov 10, 2025, 11:55 PM_
+Us mediator kushner and netanyahu discuss phase two of gaza truce" }
+Ililezirlocln@{ shape: win-pane, label: "_Published Nov 02, 2025, 11:01 PM_
+Israeli strike kills one in gaza as sides trade blame for truce violations" }
+Huahtuomzcn@{ shape: win-pane, label: "_Published Nov 09, 2025, 10:16 PM_
+Holed-up hamas fighters test future of trump’s gaza peace plan" }
+Iliehgdmsiaarnln@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:20 AM_
+Israel says it received hostage’s body from hamas as it indicates rafah crossing could open" }
+Gstscrregw@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:55 PM_
+Gazans race to preserve cultural heritage damaged in war" }
+TfsoaeivtacWudfa@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:40 PM_
+Tens of thousands of gazans need medical evacuation, says doctors without borders official" }
 
-Ileayitpiheao:::txtsize --> Ilausoeorii:::txtsize
-Ilausoeorii:::txtsize --> Tasiitdthe:::txtsize
-Tasiitdthe:::txtsize --> TuIlstreaororo:::txtsize
-Tasiitdthe:::txtsize --> Tssithriioee:::txtsize
-Ilausoeorii:::txtsize --> TsIlsoeauunl:::txtsize
-TsIlsoeauunl:::txtsize --> IltreoGoeene:::txtsize
-Ileayitpiheao:::txtsize --> Iorsitheyesnuas:::txtsize
-Iorsitheyesnuas:::txtsize --> Ilausoeorii:::txtsize
-Ilausoeorii:::txtsize --> Tasiitdthe:::txtsize
-Ilausoeorii:::txtsize --> TsIlsoeauunl:::txtsize
+TUoezalnaisa:::txtsize --> Ileayiemisnsaan:::txtsize
+Ileayiemisnsaan:::txtsize --> GrrswrHvnrs:::txtsize
+GrrswrHvnrs:::txtsize --> Tdrcaaededlncbs:::txtsize
+GrrswrHvnrs:::txtsize --> AtHfezerydatoGel:::txtsize
+Ileayiemisnsaan:::txtsize --> Haognsidctseoiy:::txtsize
+Haognsidctseoiy:::txtsize --> Hcewfkntrnucr:::txtsize
+Haognsidctseoiy:::txtsize --> Wouaaam:::txtsize
+TUoezalnaisa:::txtsize --> GatiocfopQsesa:::txtsize
+GatiocfopQsesa:::txtsize --> UiKeNyiseft:::txtsize
+UiKeNyiseft:::txtsize --> Ililezirlocln:::txtsize
+UiKeNyiseft:::txtsize --> Huahtuomzcn:::txtsize
+GatiocfopQsesa:::txtsize --> Iliehgdmsiaarnln:::txtsize
+Iliehgdmsiaarnln:::txtsize --> Gstscrregw:::txtsize
+Iliehgdmsiaarnln:::txtsize --> TfsoaeivtacWudfa:::txtsize
 
-NiknloiuMn@{ shape: win-pane, label: "_Published Dec 07, 2025, 09:41 PM_
-Nigeria seeks french help to combat insecurity, macron says" }
-Cdsrndrsgsa@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:10 PM_
-Child deaths will rise in 2025 as aid cuts reverse progress, says gates" }
-Goheuyelynksea@{ shape: win-pane, label: "_Published Nov 21, 2025, 07:44 PM_
-Gaza women, children injured by israeli military during shaky ceasefire, msf says" }
-Tafdiahesle@{ shape: win-pane, label: "_Published Aug 18, 2025, 05:35 PM_
-The trauma of childhood in gaza: no school, few toys, little hope" }
-IlselsaGansec@{ shape: win-pane, label: "_Published Nov 20, 2025, 01:13 AM_
-Israeli air strikes kill 25 palestinians in gaza, rattling ceasefire, medics say" }
-Wigawindaas@{ shape: win-pane, label: "_Published Nov 18, 2025, 03:16 AM_
-Who chief urges clampdown on nicotine products aimed at kids" }
-Wteeinauitoi@{ shape: win-pane, label: "_Published Oct 06, 2025, 08:47 PM_
-Who estimates at least 15 million teenagers use e-cigarettes worldwide" }
-Aaasiltckoirava@{ shape: win-pane, label: "_Published Nov 07, 2025, 07:30 PM_
-Australia battles surging illegal tobacco market as organised crime takes over trade" }
+KisSoetaadgisvn@{ shape: win-pane, label: "_Published Dec 08, 2025, 12:31 AM_
+Kremlin says new us national security strategy accords largely with russia’s vision" }
+Ueeprcerg@{ shape: win-pane, label: "_Published Dec 05, 2025, 06:00 PM_
+Us in decline; trump’s ‘donroe doctrine’ is worrying asia" }
+twoaTsaause@{ shape: win-pane, label: "_Published Dec 06, 2025, 07:14 PM_
+5 takeaways for asia from trump’s new national security strategy" }
 
-NiknloiuMn:::txtsize --> Cdsrndrsgsa:::txtsize
-Cdsrndrsgsa:::txtsize --> Goheuyelynksea:::txtsize
-Goheuyelynksea:::txtsize --> Tafdiahesle:::txtsize
-Goheuyelynksea:::txtsize --> IlselsaGansec:::txtsize
-Cdsrndrsgsa:::txtsize --> Wigawindaas:::txtsize
-Wigawindaas:::txtsize --> Wteeinauitoi:::txtsize
-Wigawindaas:::txtsize --> Aaasiltckoirava:::txtsize
+KisSoetaadgisvn:::txtsize --> Ueeprcerg:::txtsize
+KisSoetaadgisvn:::txtsize --> twoaTsaause:::txtsize
 
-Ferrnnhfedp@{ shape: win-pane, label: "_Published Dec 07, 2025, 09:01 PM_
-France’s macron threatens china with tariffs over trade surplus" }
+Wltsrembapausrt@{ shape: win-pane, label: "_Published Dec 08, 2025, 12:01 AM_
+Water leak at paris louvre museum damages books at egyptian antiquities department" }
+Leteidlaerrsl@{ shape: win-pane, label: "_Published Oct 22, 2025, 02:52 AM_
+Louvre heist losses estimated at $133 million as museum director faces grilling" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
+‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
+Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
+Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
+PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
+Paris’ louvre museum robbery: what jewels did the thieves steal?" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+Leulytsisturs@{ shape: win-pane, label: "_Published Nov 06, 2025, 05:30 PM_
+Louvre museum will need years to fix security issues, state auditor finds" }
+Letotmsrsioty@{ shape: win-pane, label: "_Published Nov 02, 2025, 09:46 PM_
+Louvre heist work of petty criminals, not organised crime, prosecutor says" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+Letutgors@{ shape: win-pane, label: "_Published Nov 01, 2025, 10:49 PM_
+Louvre heist: one suspect charged, another released" }
 
+Wltsrembapausrt:::txtsize --> Leteidlaerrsl:::txtsize
+Leteidlaerrsl:::txtsize --> Ptineluiisey:::txtsize
+Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
+Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
+Leteidlaerrsl:::txtsize --> PLeubhwitea:::txtsize
+PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
+PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
+Wltsrembapausrt:::txtsize --> Leulytsisturs:::txtsize
+Leulytsisturs:::txtsize --> Letotmsrsioty:::txtsize
+Letotmsrsioty:::txtsize --> Ptineluiisey:::txtsize
+Letotmsrsioty:::txtsize --> Letutgors:::txtsize
 
 ```
-<i>Last updated: 2025-12-08 00:00:54.500415 (GMT+8)</i>
+<i>Last updated: 2025-12-08 04:00:15.367455 (GMT+8)</i>
 <!-- END -->
