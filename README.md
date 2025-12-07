@@ -16,105 +16,69 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-BsiraetArpi@{ shape: win-pane, label: "_Published Dec 07, 2025, 07:55 PM_
-British police arrest man after heathrow airport car park fight" }
-Lnceneoiatt@{ shape: win-pane, label: "_Published Sep 10, 2025, 12:52 AM_
-London police arrest man suspected of taking tear gas to heathrow" }
-LntTnoahdaact@{ shape: win-pane, label: "_Published Sep 09, 2025, 02:48 AM_
-London’s heathrow terminal 4 reopens after hazardous materials incident" }
-Lnmstlsbitd@{ shape: win-pane, label: "_Published Sep 08, 2025, 03:50 PM_
-London’s commuters face travel chaos as tube strike hits hard" }
-Urhrtrysrlramnn@{ shape: win-pane, label: "_Published Aug 06, 2025, 11:15 PM_
-Uk’s birmingham airport temporarily shuts after small aircraft makes emergency landing" }
-LntTnoahdaact@{ shape: win-pane, label: "_Published Sep 09, 2025, 02:48 AM_
-London’s heathrow terminal 4 reopens after hazardous materials incident" }
-Lnmstlsbitd@{ shape: win-pane, label: "_Published Sep 08, 2025, 03:50 PM_
-London’s commuters face travel chaos as tube strike hits hard" }
-Urhrtrysrlramnn@{ shape: win-pane, label: "_Published Aug 06, 2025, 11:15 PM_
-Uk’s birmingham airport temporarily shuts after small aircraft makes emergency landing" }
-LntTnoahdaact@{ shape: win-pane, label: "_Published Sep 09, 2025, 02:48 AM_
-London’s heathrow terminal 4 reopens after hazardous materials incident" }
-Lnmstlsbitd@{ shape: win-pane, label: "_Published Sep 08, 2025, 03:50 PM_
-London’s commuters face travel chaos as tube strike hits hard" }
-Lnrnketeseo@{ shape: win-pane, label: "_Published Sep 07, 2025, 10:26 PM_
-London underground workers set to start week of strike action" }
-LnrovsiTtbs@{ shape: win-pane, label: "_Published Sep 05, 2025, 05:55 PM_
-Londoners brace for travel disruption as tube strike begins" }
-Urhrtrysrlramnn@{ shape: win-pane, label: "_Published Aug 06, 2025, 11:15 PM_
-Uk’s birmingham airport temporarily shuts after small aircraft makes emergency landing" }
-Hotnrdlitg@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:55 AM_
-Hong kong sets rainfall record as deluge disrupts flights" }
-Ssbveacnpnwos@{ shape: win-pane, label: "_Published Aug 06, 2025, 10:00 PM_
-Syria signs $18b in investment deals, including airport and subway projects" }
+Ileayitpiheao@{ shape: win-pane, label: "_Published Dec 07, 2025, 11:26 PM_
+Israel’s pm netanyahu says he will not quit politics if he receives a pardon" }
+Ilausoeorii@{ shape: win-pane, label: "_Published Nov 30, 2025, 06:34 PM_
+Israel’s netanyahu seeks pardon in years-long corruption trial" }
+Tasiitdthe@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:21 PM_
+Trump asks israeli president to pardon netanyahu in letter" }
+TuIlstreaororo@{ shape: win-pane, label: "_Published Oct 13, 2025, 09:09 PM_
+Trump urges israel’s president to pardon netanyahu, who’s on trial for corruption" }
+Tssithriioee@{ shape: win-pane, label: "_Published Jun 26, 2025, 08:10 AM_
+Trump says israeli pm netanyahu’s corruption trial should be cancelled" }
+TsIlsoeauunl@{ shape: win-pane, label: "_Published Jun 29, 2025, 08:26 AM_
+Trump slams israel’s prosecutors over netanyahu corruption trial" }
+IltreoGoeene@{ shape: win-pane, label: "_Published Jun 29, 2025, 07:05 AM_
+Israeli protesters urge action for gaza hostages after iran truce" }
+Iorsitheyesnuas@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:05 PM_
+I beg your pardon? israeli pm netanyahu’s clemency request risks constitutional crisis" }
+Ilausoeorii@{ shape: win-pane, label: "_Published Nov 30, 2025, 06:34 PM_
+Israel’s netanyahu seeks pardon in years-long corruption trial" }
+Tasiitdthe@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:21 PM_
+Trump asks israeli president to pardon netanyahu in letter" }
+TsIlsoeauunl@{ shape: win-pane, label: "_Published Jun 29, 2025, 08:26 AM_
+Trump slams israel’s prosecutors over netanyahu corruption trial" }
 
-BsiraetArpi:::txtsize --> Lnceneoiatt:::txtsize
-Lnceneoiatt:::txtsize --> LntTnoahdaact:::txtsize
-LntTnoahdaact:::txtsize --> Lnmstlsbitd:::txtsize
-LntTnoahdaact:::txtsize --> Urhrtrysrlramnn:::txtsize
-Lnceneoiatt:::txtsize --> LntTnoahdaact:::txtsize
-LntTnoahdaact:::txtsize --> Lnmstlsbitd:::txtsize
-LntTnoahdaact:::txtsize --> Urhrtrysrlramnn:::txtsize
-BsiraetArpi:::txtsize --> LntTnoahdaact:::txtsize
-LntTnoahdaact:::txtsize --> Lnmstlsbitd:::txtsize
-Lnmstlsbitd:::txtsize --> Lnrnketeseo:::txtsize
-Lnmstlsbitd:::txtsize --> LnrovsiTtbs:::txtsize
-LntTnoahdaact:::txtsize --> Urhrtrysrlramnn:::txtsize
-Urhrtrysrlramnn:::txtsize --> Hotnrdlitg:::txtsize
-Urhrtrysrlramnn:::txtsize --> Ssbveacnpnwos:::txtsize
+Ileayitpiheao:::txtsize --> Ilausoeorii:::txtsize
+Ilausoeorii:::txtsize --> Tasiitdthe:::txtsize
+Tasiitdthe:::txtsize --> TuIlstreaororo:::txtsize
+Tasiitdthe:::txtsize --> Tssithriioee:::txtsize
+Ilausoeorii:::txtsize --> TsIlsoeauunl:::txtsize
+TsIlsoeauunl:::txtsize --> IltreoGoeene:::txtsize
+Ileayitpiheao:::txtsize --> Iorsitheyesnuas:::txtsize
+Iorsitheyesnuas:::txtsize --> Ilausoeorii:::txtsize
+Ilausoeorii:::txtsize --> Tasiitdthe:::txtsize
+Ilausoeorii:::txtsize --> TsIlsoeauunl:::txtsize
 
-BsrHnelsmotnns@{ shape: win-pane, label: "_Published Dec 07, 2025, 06:09 PM_
-British star chef heston blumenthal redesigns menu for dieters on skinny jabs" }
-Tondyueaadulesdo@{ shape: win-pane, label: "_Published Nov 27, 2025, 06:00 PM_
-Taste of france and italy at moutarde, sundae royale and laurus table at resorts world sentosa" }
+NiknloiuMn@{ shape: win-pane, label: "_Published Dec 07, 2025, 09:41 PM_
+Nigeria seeks french help to combat insecurity, macron says" }
+Cdsrndrsgsa@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:10 PM_
+Child deaths will rise in 2025 as aid cuts reverse progress, says gates" }
+Goheuyelynksea@{ shape: win-pane, label: "_Published Nov 21, 2025, 07:44 PM_
+Gaza women, children injured by israeli military during shaky ceasefire, msf says" }
+Tafdiahesle@{ shape: win-pane, label: "_Published Aug 18, 2025, 05:35 PM_
+The trauma of childhood in gaza: no school, few toys, little hope" }
+IlselsaGansec@{ shape: win-pane, label: "_Published Nov 20, 2025, 01:13 AM_
+Israeli air strikes kill 25 palestinians in gaza, rattling ceasefire, medics say" }
+Wigawindaas@{ shape: win-pane, label: "_Published Nov 18, 2025, 03:16 AM_
+Who chief urges clampdown on nicotine products aimed at kids" }
+Wteeinauitoi@{ shape: win-pane, label: "_Published Oct 06, 2025, 08:47 PM_
+Who estimates at least 15 million teenagers use e-cigarettes worldwide" }
+Aaasiltckoirava@{ shape: win-pane, label: "_Published Nov 07, 2025, 07:30 PM_
+Australia battles surging illegal tobacco market as organised crime takes over trade" }
 
-BsrHnelsmotnns:::txtsize --> Tondyueaadulesdo:::txtsize
+NiknloiuMn:::txtsize --> Cdsrndrsgsa:::txtsize
+Cdsrndrsgsa:::txtsize --> Goheuyelynksea:::txtsize
+Goheuyelynksea:::txtsize --> Tafdiahesle:::txtsize
+Goheuyelynksea:::txtsize --> IlselsaGansec:::txtsize
+Cdsrndrsgsa:::txtsize --> Wigawindaas:::txtsize
+Wigawindaas:::txtsize --> Wteeinauitoi:::txtsize
+Wigawindaas:::txtsize --> Aaasiltckoirava:::txtsize
 
-Dseuigniizofa@{ shape: win-pane, label: "_Published Dec 07, 2025, 05:45 PM_
-Drone strikes on sudan kindergarten, hospital kill dozens: local official" }
-NeuwnthcdeTaes@{ shape: win-pane, label: "_Published Nov 26, 2025, 06:48 AM_
-Neither of sudan’s warring factions has accepted truce plan, trump adviser says" }
-Unotsilnpnd@{ shape: win-pane, label: "_Published Nov 22, 2025, 09:48 PM_
-Ukraine, us to start talks in switzerland on trump’s plan to end war" }
-Unorestler@{ shape: win-pane, label: "_Published Nov 22, 2025, 08:11 PM_
-Ukraine, europe scramble to respond to us plan to end war" }
-Pgtsturiti@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:00 PM_
-Pm wong to attend g-20 summit in south africa, visit ethiopia" }
-TsSwoautiiq@{ shape: win-pane, label: "_Published Nov 20, 2025, 03:48 AM_
-Trump says us will work to end war in sudan at saudi arabia’s request" }
-Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
-Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
-Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
-What does trump’s gaza peace plan promise?" }
-TsSwoautiiq@{ shape: win-pane, label: "_Published Nov 20, 2025, 03:48 AM_
-Trump says us will work to end war in sudan at saudi arabia’s request" }
-Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
-Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
-Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
-Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
-TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
-Trump threatens abc news in oval office meltdown" }
-Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
-What does trump’s gaza peace plan promise?" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
+Ferrnnhfedp@{ shape: win-pane, label: "_Published Dec 07, 2025, 09:01 PM_
+France’s macron threatens china with tariffs over trade surplus" }
 
-Dseuigniizofa:::txtsize --> NeuwnthcdeTaes:::txtsize
-NeuwnthcdeTaes:::txtsize --> Unotsilnpnd:::txtsize
-Unotsilnpnd:::txtsize --> Unorestler:::txtsize
-Unotsilnpnd:::txtsize --> Pgtsturiti:::txtsize
-NeuwnthcdeTaes:::txtsize --> TsSwoautiiq:::txtsize
-TsSwoautiiq:::txtsize --> Tdddnersdiinst:::txtsize
-TsSwoautiiq:::txtsize --> Wouaaam:::txtsize
-Dseuigniizofa:::txtsize --> TsSwoautiiq:::txtsize
-TsSwoautiiq:::txtsize --> Tdddnersdiinst:::txtsize
-Tdddnersdiinst:::txtsize --> Mrusnrsasikeprsc:::txtsize
-Tdddnersdiinst:::txtsize --> TttBsailn:::txtsize
-TsSwoautiiq:::txtsize --> Wouaaam:::txtsize
-Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
-Wouaaam:::txtsize --> NyeeawHakl:::txtsize
 
 ```
-<i>Last updated: 2025-12-07 20:00:35.002922 (GMT+8)</i>
+<i>Last updated: 2025-12-08 00:00:54.500415 (GMT+8)</i>
 <!-- END -->
