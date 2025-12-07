@@ -16,144 +16,129 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+EdaRNetrMniU@{ shape: win-pane, label: "_Published Dec 07, 2025, 07:59 AM_
+Ex-goldman banker roger ng loses bid to overturn 1mdb conviction in us" }
+SlMsxjduinasa@{ shape: win-pane, label: "_Published Aug 23, 2022, 05:13 PM_
+St explains: malaysia's ex-pm najib and the multi-billion-dollar 1mdb scandal" }
+MsPiialefagenot@{ shape: win-pane, label: "_Published Aug 23, 2022, 04:27 PM_
+Malaysia ex-pm najib begins 12-year jail sentence after failing to overturn 1mdb conviction" }
+AfdmqaiPiwceoeaus@{ shape: win-pane, label: "_Published Aug 18, 2022, 10:20 AM_
+After failed attempt to quit, malaysian ex-pm najib’s lawyers choose not to present oral arguments" }
+EdaTiretyjooeMs@{ shape: win-pane, label: "_Published May 30, 2025, 02:55 AM_
+Ex-goldman banker tim leissner sentenced to two years’ jail for involvement in 1mdb case" }
+SlMsxjduinasa@{ shape: win-pane, label: "_Published Aug 23, 2022, 05:13 PM_
+St explains: malaysia's ex-pm najib and the multi-billion-dollar 1mdb scandal" }
+MsPiialefagenot@{ shape: win-pane, label: "_Published Aug 23, 2022, 04:27 PM_
+Malaysia ex-pm najib begins 12-year jail sentence after failing to overturn 1mdb conviction" }
+Fisshhgapcyaby@{ shape: win-pane, label: "_Published Nov 19, 2024, 09:52 PM_
+Fugitive businessman jho low hiding in myanmar, protected by junta: najib’s lawyer" }
+FrshsaiPioiiaaJw@{ shape: win-pane, label: "_Published Oct 31, 2024, 12:38 PM_
+Former minister khairy says malaysia’s ex-pm najib ignored his advice to act against jho low" }
+NagtMsoDa@{ shape: win-pane, label: "_Published Oct 24, 2024, 05:54 PM_
+Najib apologises to all malaysians over 1mdb debacle" }
+
+EdaRNetrMniU:::txtsize --> SlMsxjduinasa:::txtsize
+SlMsxjduinasa:::txtsize --> MsPiialefagenot:::txtsize
+MsPiialefagenot:::txtsize --> AfdmqaiPiwceoeaus:::txtsize
+EdaRNetrMniU:::txtsize --> EdaTiretyjooeMs:::txtsize
+EdaTiretyjooeMs:::txtsize --> SlMsxjduinasa:::txtsize
+SlMsxjduinasa:::txtsize --> MsPiialefagenot:::txtsize
+EdaTiretyjooeMs:::txtsize --> Fisshhgapcyaby:::txtsize
+Fisshhgapcyaby:::txtsize --> FrshsaiPioiiaaJw:::txtsize
+Fisshhgapcyaby:::txtsize --> NagtMsoDa:::txtsize
+
+Srptslsonapep@{ shape: win-pane, label: "_Published Dec 07, 2025, 07:01 AM_
+Senior us diplomat calls eu policies bad for trans-atlantic partnership" }
+Tsushnelms@{ shape: win-pane, label: "_Published Jun 07, 2025, 03:58 AM_
+Trump says musk has ‘lost his mind’ as feud fallout mounts" }
+MndUuamtsuasil@{ shape: win-pane, label: "_Published Jun 05, 2025, 06:55 AM_
+Musk and hardline us republicans ramp up attacks on trump’s tax and spending bill" }
+Marttpnlgnmi@{ shape: win-pane, label: "_Published Jun 04, 2025, 04:04 AM_
+Musk calls trump’s tax-cut and spending bill ‘a disgusting abomination’" }
+TpslcUgasoin@{ shape: win-pane, label: "_Published May 03, 2025, 08:59 AM_
+Trump proposes $211 billion cut to us budget that slashes domestic spending" }
+Mispcnpduu@{ shape: win-pane, label: "_Published Jun 06, 2025, 03:28 PM_
+Musk signals he’s open to cooling-off period in trump feud" }
+Viodpugbuhlals@{ shape: win-pane, label: "_Published Jun 06, 2025, 12:49 AM_
+‘very disappointed’ trump in stunning live break-up with us billionaire elon musk" }
+BeiulksTsa@{ shape: win-pane, label: "_Published Jun 06, 2025, 07:50 AM_
+Before the ‘big beautiful breakup’: musk and trump’s bromance" }
+AfgtnsUlbh@{ shape: win-pane, label: "_Published Dec 07, 2025, 05:40 AM_
+After fine against x, elon musk says eu ‘should be abolished’" }
+EernbhncneTtwos@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:05 PM_
+Eu fines x more than $180m for breaching online content rules, tiktok settles with concessions" }
+Eeoigraceme@{ shape: win-pane, label: "_Published Aug 26, 2025, 07:50 PM_
+Eu asserts ‘sovereign right’ to regulate tech after trump threat" }
+Tkgtaglots@{ shape: win-pane, label: "_Published May 15, 2025, 09:27 PM_
+Tiktok charged with breaching eu online content rules" }
+EernbhncneTtwos@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:05 PM_
+Eu fines x more than $180m for breaching online content rules, tiktok settles with concessions" }
+Eeoigraceme@{ shape: win-pane, label: "_Published Aug 26, 2025, 07:50 PM_
+Eu asserts ‘sovereign right’ to regulate tech after trump threat" }
+Tkgtaglots@{ shape: win-pane, label: "_Published May 15, 2025, 09:27 PM_
+Tiktok charged with breaching eu online content rules" }
+
+Srptslsonapep:::txtsize --> Tsushnelms:::txtsize
+Tsushnelms:::txtsize --> MndUuamtsuasil:::txtsize
+MndUuamtsuasil:::txtsize --> Marttpnlgnmi:::txtsize
+MndUuamtsuasil:::txtsize --> TpslcUgasoin:::txtsize
+Tsushnelms:::txtsize --> Mispcnpduu:::txtsize
+Mispcnpduu:::txtsize --> Viodpugbuhlals:::txtsize
+Mispcnpduu:::txtsize --> BeiulksTsa:::txtsize
+Srptslsonapep:::txtsize --> AfgtnsUlbh:::txtsize
+AfgtnsUlbh:::txtsize --> EernbhncneTtwos:::txtsize
+EernbhncneTtwos:::txtsize --> Eeoigraceme:::txtsize
+EernbhncneTtwos:::txtsize --> Tkgtaglots:::txtsize
+AfgtnsUlbh:::txtsize --> EernbhncneTtwos:::txtsize
+EernbhncneTtwos:::txtsize --> Eeoigraceme:::txtsize
+EernbhncneTtwos:::txtsize --> Tkgtaglots:::txtsize
+
+WYresemhiD@{ shape: win-pane, label: "_Published Dec 07, 2025, 06:26 AM_
+While you were sleeping: 5 stories you might have missed, dec 7, 2025" }
 NaottirUk@{ shape: win-pane, label: "_Published Dec 07, 2025, 03:48 AM_
 No breakthrough at ‘constructive’ ukraine-us talks" }
 RansskerrocKa@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:11 PM_
 Russian drones, missiles hit ukraine power and transport sectors, kyiv says" }
 Ntoaanrrotra@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:38 AM_
 Next steps for ukraine talks unclear after moscow meeting, trump says" }
-Unpetrsrbitc@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:09 AM_
-Ukraine’s top peace negotiator quits after raid by anti-graft officers" }
-PwEeuwesleu@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:45 PM_
-Putin warns europe: if you want war, then russia will defeat you" }
 Unyrlearthde@{ shape: win-pane, label: "_Published Dec 06, 2025, 10:16 AM_
 Un agency says chornobyl nuclear plant’s protective shield damaged" }
-Unlywlmiefesei@{ shape: win-pane, label: "_Published Nov 16, 2025, 04:39 AM_
-Ukraine’s zelensky renews calls for more air defence after deadly strike on kyiv" }
-Ralcooneyllke@{ shape: win-pane, label: "_Published Oct 02, 2025, 03:39 AM_
-Russian shelling cuts power to defunct chernobyl nuclear plant, ukraine says" }
 Fermekrnznn@{ shape: win-pane, label: "_Published Dec 07, 2025, 12:16 AM_
 France’s macron to meet zelensky, starmer and merz in london on dec 8" }
 RansskerrocKa@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:11 PM_
 Russian drones, missiles hit ukraine power and transport sectors, kyiv says" }
-Ntoaanrrotra@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:38 AM_
-Next steps for ukraine talks unclear after moscow meeting, trump says" }
-Unyrlearthde@{ shape: win-pane, label: "_Published Dec 06, 2025, 10:16 AM_
-Un agency says chornobyl nuclear plant’s protective shield damaged" }
 Unphnanpiserttg@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:01 PM_
 Ukraine’s zaporizhzhia nuclear plant temporarily lost power overnight, un watchdog says" }
-Unyrlearthde@{ shape: win-pane, label: "_Published Dec 06, 2025, 10:16 AM_
-Un agency says chornobyl nuclear plant’s protective shield damaged" }
-RansskerrocKa@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:11 PM_
-Russian drones, missiles hit ukraine power and transport sectors, kyiv says" }
+kdnMase@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:55 PM_
+18 killed in central myanmar air strike" }
+Feheamadieunreti@{ shape: win-pane, label: "_Published Nov 22, 2025, 07:37 PM_
+Fierce clash between myanmar military and ethnic armed groups sends stray shell into thailand" }
+Lndmrayrgoake@{ shape: win-pane, label: "_Published Nov 19, 2025, 09:23 AM_
+Leaving border camps for orchards, myanmar refugees join thai workforce" }
+SritegMso@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:31 PM_
+Shipwreck migrants face charges in malaysian court" }
+Uryrlrooeenm@{ shape: win-pane, label: "_Published Oct 27, 2025, 05:20 PM_
+Un secretary-general calls for end to ‘deplorable’ violence in myanmar" }
+AsmaahoeMsrmty@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:30 PM_
+Asean’s myanmar peace plan not hard to implement, malaysia foreign minister says" }
+AnnmoMalr@{ shape: win-pane, label: "_Published Oct 27, 2025, 05:15 PM_
+Asean not sending monitors to myanmar polls: sources" }
 
+WYresemhiD:::txtsize --> NaottirUk:::txtsize
 NaottirUk:::txtsize --> RansskerrocKa:::txtsize
 RansskerrocKa:::txtsize --> Ntoaanrrotra:::txtsize
-Ntoaanrrotra:::txtsize --> Unpetrsrbitc:::txtsize
-Ntoaanrrotra:::txtsize --> PwEeuwesleu:::txtsize
 RansskerrocKa:::txtsize --> Unyrlearthde:::txtsize
-Unyrlearthde:::txtsize --> Unlywlmiefesei:::txtsize
-Unyrlearthde:::txtsize --> Ralcooneyllke:::txtsize
 NaottirUk:::txtsize --> Fermekrnznn:::txtsize
 Fermekrnznn:::txtsize --> RansskerrocKa:::txtsize
-RansskerrocKa:::txtsize --> Ntoaanrrotra:::txtsize
-RansskerrocKa:::txtsize --> Unyrlearthde:::txtsize
 Fermekrnznn:::txtsize --> Unphnanpiserttg:::txtsize
-Unphnanpiserttg:::txtsize --> Unyrlearthde:::txtsize
-Unphnanpiserttg:::txtsize --> RansskerrocKa:::txtsize
-
-LaVuphgvlssp@{ shape: win-pane, label: "_Published Dec 07, 2025, 01:31 AM_
-Lithuania’s vilnius airport shuts again over balloons in its airspace" }
-Buhaeocsaesvt@{ shape: win-pane, label: "_Published Dec 02, 2025, 03:59 AM_
-Belarus, lithuania trade diplomatic barbs over alleged airspace violations" }
-Lahisoaeabo@{ shape: win-pane, label: "_Published Oct 31, 2025, 03:06 AM_
-Lithuania shuts vilnius airport again due to weather balloons" }
-Laawholsllsugrc@{ shape: win-pane, label: "_Published Oct 28, 2025, 12:59 AM_
-Lithuania says it will shoot down belarus smuggler balloons disrupting air traffic" }
-Lahisolbruicite@{ shape: win-pane, label: "_Published Oct 27, 2025, 04:40 AM_
-Lithuania shuts vilnius airport, belarus border in fourth airspace incident this week" }
-Laaloogvls@{ shape: win-pane, label: "_Published Dec 01, 2025, 12:59 AM_
-Lithuania capital airport closes again over balloons" }
-LaVupesroausii@{ shape: win-pane, label: "_Published Oct 05, 2025, 02:01 PM_
-Lithuania’s vilnius airport reopens after balloons cause suspension, diversions" }
-LaVupesroct@{ shape: win-pane, label: "_Published Nov 24, 2025, 03:57 PM_
-Lithuania’s vilnius airport reopens after balloon incident" }
-LaoaecunBulP@{ shape: win-pane, label: "_Published Dec 05, 2025, 10:37 PM_
-Lithuania to declare ‘emergency situation’ over belarus balloons: pm" }
-Lahisoaeabo@{ shape: win-pane, label: "_Published Oct 31, 2025, 03:06 AM_
-Lithuania shuts vilnius airport again due to weather balloons" }
-Laawholsllsugrc@{ shape: win-pane, label: "_Published Oct 28, 2025, 12:59 AM_
-Lithuania says it will shoot down belarus smuggler balloons disrupting air traffic" }
-Lahisolbruicite@{ shape: win-pane, label: "_Published Oct 27, 2025, 04:40 AM_
-Lithuania shuts vilnius airport, belarus border in fourth airspace incident this week" }
-Buhaeocsaesvt@{ shape: win-pane, label: "_Published Dec 02, 2025, 03:59 AM_
-Belarus, lithuania trade diplomatic barbs over alleged airspace violations" }
-Lahisoaeabo@{ shape: win-pane, label: "_Published Oct 31, 2025, 03:06 AM_
-Lithuania shuts vilnius airport again due to weather balloons" }
-Laaloogvls@{ shape: win-pane, label: "_Published Dec 01, 2025, 12:59 AM_
-Lithuania capital airport closes again over balloons" }
-
-LaVuphgvlssp:::txtsize --> Buhaeocsaesvt:::txtsize
-Buhaeocsaesvt:::txtsize --> Lahisoaeabo:::txtsize
-Lahisoaeabo:::txtsize --> Laawholsllsugrc:::txtsize
-Lahisoaeabo:::txtsize --> Lahisolbruicite:::txtsize
-Buhaeocsaesvt:::txtsize --> Laaloogvls:::txtsize
-Laaloogvls:::txtsize --> LaVupesroausii:::txtsize
-Laaloogvls:::txtsize --> LaVupesroct:::txtsize
-LaVuphgvlssp:::txtsize --> LaoaecunBulP:::txtsize
-LaoaecunBulP:::txtsize --> Lahisoaeabo:::txtsize
-Lahisoaeabo:::txtsize --> Laawholsllsugrc:::txtsize
-Lahisoaeabo:::txtsize --> Lahisolbruicite:::txtsize
-LaoaecunBulP:::txtsize --> Buhaeocsaesvt:::txtsize
-Buhaeocsaesvt:::txtsize --> Lahisoaeabo:::txtsize
-Buhaeocsaesvt:::txtsize --> Laaloogvls:::txtsize
-
-UnlyhsaeewSivt@{ shape: win-pane, label: "_Published Dec 07, 2025, 01:01 AM_
-Ukraine’s zelensky says he had ‘substantive’ phone call with us special envoy witkoff" }
-Fermekrnznn@{ shape: win-pane, label: "_Published Dec 07, 2025, 12:16 AM_
-France’s macron to meet zelensky, starmer and merz in london on dec 8" }
-RansskerrocKa@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:11 PM_
-Russian drones, missiles hit ukraine power and transport sectors, kyiv says" }
-Ntoaanrrotra@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:38 AM_
-Next steps for ukraine talks unclear after moscow meeting, trump says" }
-Unyrlearthde@{ shape: win-pane, label: "_Published Dec 06, 2025, 10:16 AM_
-Un agency says chornobyl nuclear plant’s protective shield damaged" }
-Unphnanpiserttg@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:01 PM_
-Ukraine’s zaporizhzhia nuclear plant temporarily lost power overnight, un watchdog says" }
-Unyrlearthde@{ shape: win-pane, label: "_Published Dec 06, 2025, 10:16 AM_
-Un agency says chornobyl nuclear plant’s protective shield damaged" }
-RansskerrocKa@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:11 PM_
-Russian drones, missiles hit ukraine power and transport sectors, kyiv says" }
-IpestisdsaaZsnni@{ shape: win-pane, label: "_Published Dec 06, 2025, 12:40 AM_
-Irish police investigate ‘military style’ drones seen as ukraine’s zelensky landed in dublin" }
-Dssernlpoiirdr@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:50 AM_
-Drones were spotted near zelensky flight path to dublin, media in ireland report" }
-DsiithChOit@{ shape: win-pane, label: "_Published Sep 23, 2025, 08:52 AM_
-Drone sightings disrupt flights at copenhagen, oslo airports" }
-EeatsesPmna@{ shape: win-pane, label: "_Published Sep 01, 2025, 07:39 PM_
-Eu chief’s plane hit by suspected russian gps jamming in bulgaria" }
-Dssernlpoiirdr@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:50 AM_
-Drones were spotted near zelensky flight path to dublin, media in ireland report" }
-DsiithChOit@{ shape: win-pane, label: "_Published Sep 23, 2025, 08:52 AM_
-Drone sightings disrupt flights at copenhagen, oslo airports" }
-EeatsesPmna@{ shape: win-pane, label: "_Published Sep 01, 2025, 07:39 PM_
-Eu chief’s plane hit by suspected russian gps jamming in bulgaria" }
-
-UnlyhsaeewSivt:::txtsize --> Fermekrnznn:::txtsize
-Fermekrnznn:::txtsize --> RansskerrocKa:::txtsize
-RansskerrocKa:::txtsize --> Ntoaanrrotra:::txtsize
-RansskerrocKa:::txtsize --> Unyrlearthde:::txtsize
-Fermekrnznn:::txtsize --> Unphnanpiserttg:::txtsize
-Unphnanpiserttg:::txtsize --> Unyrlearthde:::txtsize
-Unphnanpiserttg:::txtsize --> RansskerrocKa:::txtsize
-UnlyhsaeewSivt:::txtsize --> IpestisdsaaZsnni:::txtsize
-IpestisdsaaZsnni:::txtsize --> Dssernlpoiirdr:::txtsize
-Dssernlpoiirdr:::txtsize --> DsiithChOit:::txtsize
-Dssernlpoiirdr:::txtsize --> EeatsesPmna:::txtsize
-IpestisdsaaZsnni:::txtsize --> Dssernlpoiirdr:::txtsize
-Dssernlpoiirdr:::txtsize --> DsiithChOit:::txtsize
-Dssernlpoiirdr:::txtsize --> EeatsesPmna:::txtsize
+WYresemhiD:::txtsize --> kdnMase:::txtsize
+kdnMase:::txtsize --> Feheamadieunreti:::txtsize
+Feheamadieunreti:::txtsize --> Lndmrayrgoake:::txtsize
+Feheamadieunreti:::txtsize --> SritegMso:::txtsize
+kdnMase:::txtsize --> Uryrlrooeenm:::txtsize
+Uryrlrooeenm:::txtsize --> AsmaahoeMsrmty:::txtsize
+Uryrlrooeenm:::txtsize --> AnnmoMalr:::txtsize
 
 ```
-<i>Last updated: 2025-12-07 04:01:00.559515 (GMT+8)</i>
+<i>Last updated: 2025-12-07 08:00:25.604072 (GMT+8)</i>
 <!-- END -->
