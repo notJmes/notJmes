@@ -16,129 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-EdaRNetrMniU@{ shape: win-pane, label: "_Published Dec 07, 2025, 07:59 AM_
-Ex-goldman banker roger ng loses bid to overturn 1mdb conviction in us" }
-SlMsxjduinasa@{ shape: win-pane, label: "_Published Aug 23, 2022, 05:13 PM_
-St explains: malaysia's ex-pm najib and the multi-billion-dollar 1mdb scandal" }
-MsPiialefagenot@{ shape: win-pane, label: "_Published Aug 23, 2022, 04:27 PM_
-Malaysia ex-pm najib begins 12-year jail sentence after failing to overturn 1mdb conviction" }
-AfdmqaiPiwceoeaus@{ shape: win-pane, label: "_Published Aug 18, 2022, 10:20 AM_
-After failed attempt to quit, malaysian ex-pm najib’s lawyers choose not to present oral arguments" }
-EdaTiretyjooeMs@{ shape: win-pane, label: "_Published May 30, 2025, 02:55 AM_
-Ex-goldman banker tim leissner sentenced to two years’ jail for involvement in 1mdb case" }
-SlMsxjduinasa@{ shape: win-pane, label: "_Published Aug 23, 2022, 05:13 PM_
-St explains: malaysia's ex-pm najib and the multi-billion-dollar 1mdb scandal" }
-MsPiialefagenot@{ shape: win-pane, label: "_Published Aug 23, 2022, 04:27 PM_
-Malaysia ex-pm najib begins 12-year jail sentence after failing to overturn 1mdb conviction" }
-Fisshhgapcyaby@{ shape: win-pane, label: "_Published Nov 19, 2024, 09:52 PM_
-Fugitive businessman jho low hiding in myanmar, protected by junta: najib’s lawyer" }
-FrshsaiPioiiaaJw@{ shape: win-pane, label: "_Published Oct 31, 2024, 12:38 PM_
-Former minister khairy says malaysia’s ex-pm najib ignored his advice to act against jho low" }
-NagtMsoDa@{ shape: win-pane, label: "_Published Oct 24, 2024, 05:54 PM_
-Najib apologises to all malaysians over 1mdb debacle" }
+NraahuiI@{ shape: win-pane, label: "_Published Dec 07, 2025, 11:42 AM_
+Number’s up: calculators hold out against ai" }
+Ctudieriaa@{ shape: win-pane, label: "_Published Nov 19, 2025, 07:17 PM_
+Christie’s suspends paris sale of world’s ‘first calculator’" }
+Dnpncotnv@{ shape: win-pane, label: "_Published Nov 06, 2025, 09:05 PM_
+Diamonds, napoleon brooch up for auction in geneva" }
+Jisedpunui@{ shape: win-pane, label: "_Published Oct 21, 2025, 10:50 PM_
+Jane birkin’s hermes handbag up for auction in abu dhabi" }
+Erehiaaasnnr@{ shape: win-pane, label: "_Published Mar 28, 2025, 05:00 AM_
+Electric dreams: the curious tale of a thomas edison fan in singapore" }
+TunMhlrhgaso@{ shape: win-pane, label: "_Published Aug 10, 2024, 05:00 AM_
+Treasure hunters: meet the collectors archiving singapore’s history" }
+UentlgetqAut@{ shape: win-pane, label: "_Published Mar 07, 2025, 10:00 AM_
+Uncovering nuggets of old singapore at katong square antique centre" }
 
-EdaRNetrMniU:::txtsize --> SlMsxjduinasa:::txtsize
-SlMsxjduinasa:::txtsize --> MsPiialefagenot:::txtsize
-MsPiialefagenot:::txtsize --> AfdmqaiPiwceoeaus:::txtsize
-EdaRNetrMniU:::txtsize --> EdaTiretyjooeMs:::txtsize
-EdaTiretyjooeMs:::txtsize --> SlMsxjduinasa:::txtsize
-SlMsxjduinasa:::txtsize --> MsPiialefagenot:::txtsize
-EdaTiretyjooeMs:::txtsize --> Fisshhgapcyaby:::txtsize
-Fisshhgapcyaby:::txtsize --> FrshsaiPioiiaaJw:::txtsize
-Fisshhgapcyaby:::txtsize --> NagtMsoDa:::txtsize
+NraahuiI:::txtsize --> Ctudieriaa:::txtsize
+Ctudieriaa:::txtsize --> Dnpncotnv:::txtsize
+Dnpncotnv:::txtsize --> Jisedpunui:::txtsize
+Ctudieriaa:::txtsize --> Erehiaaasnnr:::txtsize
+Erehiaaasnnr:::txtsize --> TunMhlrhgaso:::txtsize
+Erehiaaasnnr:::txtsize --> UentlgetqAut:::txtsize
 
-Srptslsonapep@{ shape: win-pane, label: "_Published Dec 07, 2025, 07:01 AM_
-Senior us diplomat calls eu policies bad for trans-atlantic partnership" }
-Tsushnelms@{ shape: win-pane, label: "_Published Jun 07, 2025, 03:58 AM_
-Trump says musk has ‘lost his mind’ as feud fallout mounts" }
-MndUuamtsuasil@{ shape: win-pane, label: "_Published Jun 05, 2025, 06:55 AM_
-Musk and hardline us republicans ramp up attacks on trump’s tax and spending bill" }
-Marttpnlgnmi@{ shape: win-pane, label: "_Published Jun 04, 2025, 04:04 AM_
-Musk calls trump’s tax-cut and spending bill ‘a disgusting abomination’" }
-TpslcUgasoin@{ shape: win-pane, label: "_Published May 03, 2025, 08:59 AM_
-Trump proposes $211 billion cut to us budget that slashes domestic spending" }
-Mispcnpduu@{ shape: win-pane, label: "_Published Jun 06, 2025, 03:28 PM_
-Musk signals he’s open to cooling-off period in trump feud" }
-Viodpugbuhlals@{ shape: win-pane, label: "_Published Jun 06, 2025, 12:49 AM_
-‘very disappointed’ trump in stunning live break-up with us billionaire elon musk" }
-BeiulksTsa@{ shape: win-pane, label: "_Published Jun 06, 2025, 07:50 AM_
-Before the ‘big beautiful breakup’: musk and trump’s bromance" }
-AfgtnsUlbh@{ shape: win-pane, label: "_Published Dec 07, 2025, 05:40 AM_
-After fine against x, elon musk says eu ‘should be abolished’" }
-EernbhncneTtwos@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:05 PM_
-Eu fines x more than $180m for breaching online content rules, tiktok settles with concessions" }
-Eeoigraceme@{ shape: win-pane, label: "_Published Aug 26, 2025, 07:50 PM_
-Eu asserts ‘sovereign right’ to regulate tech after trump threat" }
-Tkgtaglots@{ shape: win-pane, label: "_Published May 15, 2025, 09:27 PM_
-Tiktok charged with breaching eu online content rules" }
-EernbhncneTtwos@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:05 PM_
-Eu fines x more than $180m for breaching online content rules, tiktok settles with concessions" }
-Eeoigraceme@{ shape: win-pane, label: "_Published Aug 26, 2025, 07:50 PM_
-Eu asserts ‘sovereign right’ to regulate tech after trump threat" }
-Tkgtaglots@{ shape: win-pane, label: "_Published May 15, 2025, 09:27 PM_
-Tiktok charged with breaching eu online content rules" }
+Tsahegufsdo@{ shape: win-pane, label: "_Published Dec 07, 2025, 10:25 AM_
+Trump’s pentagon chief pete hegseth under fire as scandals mount" }
+WHmkssnliui@{ shape: win-pane, label: "_Published Mar 25, 2025, 04:50 AM_
+White house mistakenly shares yemen war plans with journalist" }
+Hiinuposhrah@{ shape: win-pane, label: "_Published Mar 17, 2025, 03:35 PM_
+‘hell will rain down on you’: trump, the houthis and the us’ proxy war with iran" }
+Hmdulnrecsud@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:15 PM_
+How hamas’ audacious, well-planned surprise attack on israel unfolded" }
+Ilshedoooia@{ shape: win-pane, label: "_Published Jan 16, 2025, 12:59 AM_
+Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
+HicYfsteloofU@{ shape: win-pane, label: "_Published Mar 24, 2025, 07:55 AM_
+Houthi attacks in yemen force ships to make costly detour around africa: us" }
+Uiignntuues@{ shape: win-pane, label: "_Published Mar 20, 2025, 02:02 AM_
+Us strikes hit targets in yemen capital, houthi-run tv reports" }
+Hiiakenhense@{ shape: win-pane, label: "_Published Mar 18, 2025, 06:13 PM_
+Houthis claim new attack on american warships, report new us strikes" }
+PgvaHtrasoei@{ shape: win-pane, label: "_Published Dec 04, 2025, 05:30 AM_
+Pentagon review faults hegseth over signal messages on yemen strikes" }
+WHmkssnliui@{ shape: win-pane, label: "_Published Mar 25, 2025, 04:50 AM_
+White house mistakenly shares yemen war plans with journalist" }
+Hiinuposhrah@{ shape: win-pane, label: "_Published Mar 17, 2025, 03:35 PM_
+‘hell will rain down on you’: trump, the houthis and the us’ proxy war with iran" }
+HicYfsteloofU@{ shape: win-pane, label: "_Published Mar 24, 2025, 07:55 AM_
+Houthi attacks in yemen force ships to make costly detour around africa: us" }
+Pgitsahltnkldb@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:21 AM_
+Pentagon chief pete hegseth says us has ‘only just begun’ striking alleged drug boats" }
+Uirdotoeramzsho@{ shape: win-pane, label: "_Published Dec 02, 2025, 04:09 AM_
+Us admiral ordered follow-up strike on alleged drug boat from venezuela, says white house" }
+UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
+Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
 
-Srptslsonapep:::txtsize --> Tsushnelms:::txtsize
-Tsushnelms:::txtsize --> MndUuamtsuasil:::txtsize
-MndUuamtsuasil:::txtsize --> Marttpnlgnmi:::txtsize
-MndUuamtsuasil:::txtsize --> TpslcUgasoin:::txtsize
-Tsushnelms:::txtsize --> Mispcnpduu:::txtsize
-Mispcnpduu:::txtsize --> Viodpugbuhlals:::txtsize
-Mispcnpduu:::txtsize --> BeiulksTsa:::txtsize
-Srptslsonapep:::txtsize --> AfgtnsUlbh:::txtsize
-AfgtnsUlbh:::txtsize --> EernbhncneTtwos:::txtsize
-EernbhncneTtwos:::txtsize --> Eeoigraceme:::txtsize
-EernbhncneTtwos:::txtsize --> Tkgtaglots:::txtsize
-AfgtnsUlbh:::txtsize --> EernbhncneTtwos:::txtsize
-EernbhncneTtwos:::txtsize --> Eeoigraceme:::txtsize
-EernbhncneTtwos:::txtsize --> Tkgtaglots:::txtsize
+Tsahegufsdo:::txtsize --> WHmkssnliui:::txtsize
+WHmkssnliui:::txtsize --> Hiinuposhrah:::txtsize
+Hiinuposhrah:::txtsize --> Hmdulnrecsud:::txtsize
+Hiinuposhrah:::txtsize --> Ilshedoooia:::txtsize
+WHmkssnliui:::txtsize --> HicYfsteloofU:::txtsize
+HicYfsteloofU:::txtsize --> Uiignntuues:::txtsize
+HicYfsteloofU:::txtsize --> Hiiakenhense:::txtsize
+Tsahegufsdo:::txtsize --> PgvaHtrasoei:::txtsize
+PgvaHtrasoei:::txtsize --> WHmkssnliui:::txtsize
+WHmkssnliui:::txtsize --> Hiinuposhrah:::txtsize
+WHmkssnliui:::txtsize --> HicYfsteloofU:::txtsize
+PgvaHtrasoei:::txtsize --> Pgitsahltnkldb:::txtsize
+Pgitsahltnkldb:::txtsize --> Uirdotoeramzsho:::txtsize
+Pgitsahltnkldb:::txtsize --> UikperngutVura:::txtsize
 
-WYresemhiD@{ shape: win-pane, label: "_Published Dec 07, 2025, 06:26 AM_
-While you were sleeping: 5 stories you might have missed, dec 7, 2025" }
-NaottirUk@{ shape: win-pane, label: "_Published Dec 07, 2025, 03:48 AM_
-No breakthrough at ‘constructive’ ukraine-us talks" }
-RansskerrocKa@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:11 PM_
-Russian drones, missiles hit ukraine power and transport sectors, kyiv says" }
-Ntoaanrrotra@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:38 AM_
-Next steps for ukraine talks unclear after moscow meeting, trump says" }
-Unyrlearthde@{ shape: win-pane, label: "_Published Dec 06, 2025, 10:16 AM_
-Un agency says chornobyl nuclear plant’s protective shield damaged" }
-Fermekrnznn@{ shape: win-pane, label: "_Published Dec 07, 2025, 12:16 AM_
-France’s macron to meet zelensky, starmer and merz in london on dec 8" }
-RansskerrocKa@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:11 PM_
-Russian drones, missiles hit ukraine power and transport sectors, kyiv says" }
-Unphnanpiserttg@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:01 PM_
-Ukraine’s zaporizhzhia nuclear plant temporarily lost power overnight, un watchdog says" }
-kdnMase@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:55 PM_
-18 killed in central myanmar air strike" }
-Feheamadieunreti@{ shape: win-pane, label: "_Published Nov 22, 2025, 07:37 PM_
-Fierce clash between myanmar military and ethnic armed groups sends stray shell into thailand" }
-Lndmrayrgoake@{ shape: win-pane, label: "_Published Nov 19, 2025, 09:23 AM_
-Leaving border camps for orchards, myanmar refugees join thai workforce" }
-SritegMso@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:31 PM_
-Shipwreck migrants face charges in malaysian court" }
-Uryrlrooeenm@{ shape: win-pane, label: "_Published Oct 27, 2025, 05:20 PM_
-Un secretary-general calls for end to ‘deplorable’ violence in myanmar" }
-AsmaahoeMsrmty@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:30 PM_
-Asean’s myanmar peace plan not hard to implement, malaysia foreign minister says" }
-AnnmoMalr@{ shape: win-pane, label: "_Published Oct 27, 2025, 05:15 PM_
-Asean not sending monitors to myanmar polls: sources" }
+Codusmorgrlr@{ shape: win-pane, label: "_Published Dec 07, 2025, 09:32 AM_
+California discourages wild mushroom foraging after fatal outbreak" }
+Ssintintruluod@{ shape: win-pane, label: "_Published Jul 07, 2025, 02:03 PM_
+Sweet-smelling fungi with sinister name at centre of australia’s mushroom murders" }
+Aawfgyltuoda@{ shape: win-pane, label: "_Published Jul 07, 2025, 12:32 PM_
+Australian woman found guilty of all counts in mushroom murders case" }
+Aawiruceehlkde@{ shape: win-pane, label: "_Published Nov 03, 2023, 11:31 AM_
+Australian woman in court on murder charges after mushroom lunch killed three" }
+Aaaeuodepnussios@{ shape: win-pane, label: "_Published Jun 12, 2025, 12:03 PM_
+Australian accused of mushroom murders denies poisoning lunch as cross-examination ends" }
+Aaaeuodepnussios@{ shape: win-pane, label: "_Published Jun 12, 2025, 12:03 PM_
+Australian accused of mushroom murders denies poisoning lunch as cross-examination ends" }
+Aawaeuileiyemo@{ shape: win-pane, label: "_Published Jun 11, 2025, 03:23 PM_
+Australian woman accused of murdering 3 relatives denies drying deadly mushrooms" }
+Aamoraeeanau@{ shape: win-pane, label: "_Published Jun 04, 2025, 12:16 PM_
+Australian mushroom murders accused gives her account of fatal lunch" }
+CgoatcreaBsrd@{ shape: win-pane, label: "_Published Dec 27, 2024, 07:28 AM_
+Chiang mai police arrest magic mushroom vendor after british tourist’s death" }
+Taaiuceehsg@{ shape: win-pane, label: "_Published Nov 25, 2022, 11:24 AM_
+Thailand’s cannabis industry clouded as legal threats emerge" }
+Arsdgageilie@{ shape: win-pane, label: "_Published Jul 03, 2022, 02:04 PM_
+Authorities worldwide give warnings after thailand legalises weed" }
+Taginsscetrtgcnm@{ shape: win-pane, label: "_Published Sep 01, 2022, 10:30 PM_
+Thailand legalising cannabis poses more challenges to s'pore's anti-drug stance: shanmugam" }
+MauvroseeU@{ shape: win-pane, label: "_Published Dec 12, 2024, 04:59 PM_
+Myanmar opium harvest drops for first time since coup: un" }
+Maifsisdudioiy@{ shape: win-pane, label: "_Published Oct 02, 2024, 12:45 PM_
+Myanmar civil war fuels surge in cross-border drug trade, thailand official says" }
+Maowseufmy@{ shape: win-pane, label: "_Published Dec 12, 2023, 12:11 PM_
+Myanmar is now the world’s largest source of opium, un says" }
 
-WYresemhiD:::txtsize --> NaottirUk:::txtsize
-NaottirUk:::txtsize --> RansskerrocKa:::txtsize
-RansskerrocKa:::txtsize --> Ntoaanrrotra:::txtsize
-RansskerrocKa:::txtsize --> Unyrlearthde:::txtsize
-NaottirUk:::txtsize --> Fermekrnznn:::txtsize
-Fermekrnznn:::txtsize --> RansskerrocKa:::txtsize
-Fermekrnznn:::txtsize --> Unphnanpiserttg:::txtsize
-WYresemhiD:::txtsize --> kdnMase:::txtsize
-kdnMase:::txtsize --> Feheamadieunreti:::txtsize
-Feheamadieunreti:::txtsize --> Lndmrayrgoake:::txtsize
-Feheamadieunreti:::txtsize --> SritegMso:::txtsize
-kdnMase:::txtsize --> Uryrlrooeenm:::txtsize
-Uryrlrooeenm:::txtsize --> AsmaahoeMsrmty:::txtsize
-Uryrlrooeenm:::txtsize --> AnnmoMalr:::txtsize
+Codusmorgrlr:::txtsize --> Ssintintruluod:::txtsize
+Ssintintruluod:::txtsize --> Aawfgyltuoda:::txtsize
+Aawfgyltuoda:::txtsize --> Aawiruceehlkde:::txtsize
+Aawfgyltuoda:::txtsize --> Aaaeuodepnussios:::txtsize
+Ssintintruluod:::txtsize --> Aaaeuodepnussios:::txtsize
+Aaaeuodepnussios:::txtsize --> Aawaeuileiyemo:::txtsize
+Aaaeuodepnussios:::txtsize --> Aamoraeeanau:::txtsize
+Codusmorgrlr:::txtsize --> CgoatcreaBsrd:::txtsize
+CgoatcreaBsrd:::txtsize --> Taaiuceehsg:::txtsize
+Taaiuceehsg:::txtsize --> Arsdgageilie:::txtsize
+Taaiuceehsg:::txtsize --> Taginsscetrtgcnm:::txtsize
+CgoatcreaBsrd:::txtsize --> MauvroseeU:::txtsize
+MauvroseeU:::txtsize --> Maifsisdudioiy:::txtsize
+MauvroseeU:::txtsize --> Maowseufmy:::txtsize
 
 ```
-<i>Last updated: 2025-12-07 08:00:25.604072 (GMT+8)</i>
+<i>Last updated: 2025-12-07 12:00:48.160278 (GMT+8)</i>
 <!-- END -->
