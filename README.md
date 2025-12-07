@@ -16,138 +16,105 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-KicedtaeStAp@{ shape: win-pane, label: "_Published Dec 07, 2025, 12:36 PM_
-Kremlin welcomes end to ‘direct threat’ label in us strategy, tass reports" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
-Explosions heard in ukraine capital kyiv, other cities" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
-Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Casoiitsroseo@{ shape: win-pane, label: "_Published Dec 07, 2025, 11:36 AM_
-China and russia hold third joint anti-missile drills on russian territory" }
-Ctnisnteuncaso@{ shape: win-pane, label: "_Published Nov 20, 2025, 08:50 AM_
-China teaming up with russia and north korea is fuelling concern: japanese report" }
-Csosrlydhni@{ shape: win-pane, label: "_Published Sep 03, 2025, 06:44 AM_
-China’s xi projects power at military parade with putin and kim" }
-Ispflatbeatri@{ shape: win-pane, label: "_Published Nov 19, 2025, 07:18 PM_
-Images of japan official appearing to bow before china counterpart go viral" }
-TrftasasiLC@{ shape: win-pane, label: "_Published Nov 11, 2025, 10:45 AM_
-Tanker spoofing its location seen taking sanctioned lng to china" }
-DhpnrecesGaieeew@{ shape: win-pane, label: "_Published Oct 19, 2025, 03:33 PM_
-Dark ship appearing to transfer sanctioned russia lng off malaysia, satellite images show" }
-WrUcssnfdiruysns@{ shape: win-pane, label: "_Published Nov 09, 2025, 01:58 AM_
-Waiver from us sanctions on russia energy for ‘indefinite period’, hungary minister insists" }
+BsiraetArpi@{ shape: win-pane, label: "_Published Dec 07, 2025, 07:55 PM_
+British police arrest man after heathrow airport car park fight" }
+Lnceneoiatt@{ shape: win-pane, label: "_Published Sep 10, 2025, 12:52 AM_
+London police arrest man suspected of taking tear gas to heathrow" }
+LntTnoahdaact@{ shape: win-pane, label: "_Published Sep 09, 2025, 02:48 AM_
+London’s heathrow terminal 4 reopens after hazardous materials incident" }
+Lnmstlsbitd@{ shape: win-pane, label: "_Published Sep 08, 2025, 03:50 PM_
+London’s commuters face travel chaos as tube strike hits hard" }
+Urhrtrysrlramnn@{ shape: win-pane, label: "_Published Aug 06, 2025, 11:15 PM_
+Uk’s birmingham airport temporarily shuts after small aircraft makes emergency landing" }
+LntTnoahdaact@{ shape: win-pane, label: "_Published Sep 09, 2025, 02:48 AM_
+London’s heathrow terminal 4 reopens after hazardous materials incident" }
+Lnmstlsbitd@{ shape: win-pane, label: "_Published Sep 08, 2025, 03:50 PM_
+London’s commuters face travel chaos as tube strike hits hard" }
+Urhrtrysrlramnn@{ shape: win-pane, label: "_Published Aug 06, 2025, 11:15 PM_
+Uk’s birmingham airport temporarily shuts after small aircraft makes emergency landing" }
+LntTnoahdaact@{ shape: win-pane, label: "_Published Sep 09, 2025, 02:48 AM_
+London’s heathrow terminal 4 reopens after hazardous materials incident" }
+Lnmstlsbitd@{ shape: win-pane, label: "_Published Sep 08, 2025, 03:50 PM_
+London’s commuters face travel chaos as tube strike hits hard" }
+Lnrnketeseo@{ shape: win-pane, label: "_Published Sep 07, 2025, 10:26 PM_
+London underground workers set to start week of strike action" }
+LnrovsiTtbs@{ shape: win-pane, label: "_Published Sep 05, 2025, 05:55 PM_
+Londoners brace for travel disruption as tube strike begins" }
+Urhrtrysrlramnn@{ shape: win-pane, label: "_Published Aug 06, 2025, 11:15 PM_
+Uk’s birmingham airport temporarily shuts after small aircraft makes emergency landing" }
+Hotnrdlitg@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:55 AM_
+Hong kong sets rainfall record as deluge disrupts flights" }
+Ssbveacnpnwos@{ shape: win-pane, label: "_Published Aug 06, 2025, 10:00 PM_
+Syria signs $18b in investment deals, including airport and subway projects" }
 
-KicedtaeStAp:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
-Eshiaalocs:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
-OaUuakaogrmc:::txtsize --> DsruasvUn:::txtsize
-KicedtaeStAp:::txtsize --> Casoiitsroseo:::txtsize
-Casoiitsroseo:::txtsize --> Ctnisnteuncaso:::txtsize
-Ctnisnteuncaso:::txtsize --> Csosrlydhni:::txtsize
-Ctnisnteuncaso:::txtsize --> Ispflatbeatri:::txtsize
-Casoiitsroseo:::txtsize --> TrftasasiLC:::txtsize
-TrftasasiLC:::txtsize --> DhpnrecesGaieeew:::txtsize
-TrftasasiLC:::txtsize --> WrUcssnfdiruysns:::txtsize
+BsiraetArpi:::txtsize --> Lnceneoiatt:::txtsize
+Lnceneoiatt:::txtsize --> LntTnoahdaact:::txtsize
+LntTnoahdaact:::txtsize --> Lnmstlsbitd:::txtsize
+LntTnoahdaact:::txtsize --> Urhrtrysrlramnn:::txtsize
+Lnceneoiatt:::txtsize --> LntTnoahdaact:::txtsize
+LntTnoahdaact:::txtsize --> Lnmstlsbitd:::txtsize
+LntTnoahdaact:::txtsize --> Urhrtrysrlramnn:::txtsize
+BsiraetArpi:::txtsize --> LntTnoahdaact:::txtsize
+LntTnoahdaact:::txtsize --> Lnmstlsbitd:::txtsize
+Lnmstlsbitd:::txtsize --> Lnrnketeseo:::txtsize
+Lnmstlsbitd:::txtsize --> LnrovsiTtbs:::txtsize
+LntTnoahdaact:::txtsize --> Urhrtrysrlramnn:::txtsize
+Urhrtrysrlramnn:::txtsize --> Hotnrdlitg:::txtsize
+Urhrtrysrlramnn:::txtsize --> Ssbveacnpnwos:::txtsize
 
-Tsahegufsdo@{ shape: win-pane, label: "_Published Dec 07, 2025, 10:25 AM_
-Trump’s pentagon chief pete hegseth under fire as scandals mount" }
-WHmkssnliui@{ shape: win-pane, label: "_Published Mar 25, 2025, 04:50 AM_
-White house mistakenly shares yemen war plans with journalist" }
-Hiinuposhrah@{ shape: win-pane, label: "_Published Mar 17, 2025, 03:35 PM_
-‘hell will rain down on you’: trump, the houthis and the us’ proxy war with iran" }
-Hmdulnrecsud@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:15 PM_
-How hamas’ audacious, well-planned surprise attack on israel unfolded" }
-Ilshedoooia@{ shape: win-pane, label: "_Published Jan 16, 2025, 12:59 AM_
-Israel, hamas reach ceasefire deal to end 15 months of war in gaza" }
-HicYfsteloofU@{ shape: win-pane, label: "_Published Mar 24, 2025, 07:55 AM_
-Houthi attacks in yemen force ships to make costly detour around africa: us" }
-Uiignntuues@{ shape: win-pane, label: "_Published Mar 20, 2025, 02:02 AM_
-Us strikes hit targets in yemen capital, houthi-run tv reports" }
-Hiiakenhense@{ shape: win-pane, label: "_Published Mar 18, 2025, 06:13 PM_
-Houthis claim new attack on american warships, report new us strikes" }
-PgvaHtrasoei@{ shape: win-pane, label: "_Published Dec 04, 2025, 05:30 AM_
-Pentagon review faults hegseth over signal messages on yemen strikes" }
-WHmkssnliui@{ shape: win-pane, label: "_Published Mar 25, 2025, 04:50 AM_
-White house mistakenly shares yemen war plans with journalist" }
-Hiinuposhrah@{ shape: win-pane, label: "_Published Mar 17, 2025, 03:35 PM_
-‘hell will rain down on you’: trump, the houthis and the us’ proxy war with iran" }
-HicYfsteloofU@{ shape: win-pane, label: "_Published Mar 24, 2025, 07:55 AM_
-Houthi attacks in yemen force ships to make costly detour around africa: us" }
-Pgitsahltnkldb@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:21 AM_
-Pentagon chief pete hegseth says us has ‘only just begun’ striking alleged drug boats" }
-Uirdotoeramzsho@{ shape: win-pane, label: "_Published Dec 02, 2025, 04:09 AM_
-Us admiral ordered follow-up strike on alleged drug boat from venezuela, says white house" }
-UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
-Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
+BsrHnelsmotnns@{ shape: win-pane, label: "_Published Dec 07, 2025, 06:09 PM_
+British star chef heston blumenthal redesigns menu for dieters on skinny jabs" }
+Tondyueaadulesdo@{ shape: win-pane, label: "_Published Nov 27, 2025, 06:00 PM_
+Taste of france and italy at moutarde, sundae royale and laurus table at resorts world sentosa" }
 
-Tsahegufsdo:::txtsize --> WHmkssnliui:::txtsize
-WHmkssnliui:::txtsize --> Hiinuposhrah:::txtsize
-Hiinuposhrah:::txtsize --> Hmdulnrecsud:::txtsize
-Hiinuposhrah:::txtsize --> Ilshedoooia:::txtsize
-WHmkssnliui:::txtsize --> HicYfsteloofU:::txtsize
-HicYfsteloofU:::txtsize --> Uiignntuues:::txtsize
-HicYfsteloofU:::txtsize --> Hiiakenhense:::txtsize
-Tsahegufsdo:::txtsize --> PgvaHtrasoei:::txtsize
-PgvaHtrasoei:::txtsize --> WHmkssnliui:::txtsize
-WHmkssnliui:::txtsize --> Hiinuposhrah:::txtsize
-WHmkssnliui:::txtsize --> HicYfsteloofU:::txtsize
-PgvaHtrasoei:::txtsize --> Pgitsahltnkldb:::txtsize
-Pgitsahltnkldb:::txtsize --> Uirdotoeramzsho:::txtsize
-Pgitsahltnkldb:::txtsize --> UikperngutVura:::txtsize
+BsrHnelsmotnns:::txtsize --> Tondyueaadulesdo:::txtsize
 
-Codusmorgrlr@{ shape: win-pane, label: "_Published Dec 07, 2025, 09:32 AM_
-California discourages wild mushroom foraging after fatal outbreak" }
-Ssintintruluod@{ shape: win-pane, label: "_Published Jul 07, 2025, 02:03 PM_
-Sweet-smelling fungi with sinister name at centre of australia’s mushroom murders" }
-Aawfgyltuoda@{ shape: win-pane, label: "_Published Jul 07, 2025, 12:32 PM_
-Australian woman found guilty of all counts in mushroom murders case" }
-Aawiruceehlkde@{ shape: win-pane, label: "_Published Nov 03, 2023, 11:31 AM_
-Australian woman in court on murder charges after mushroom lunch killed three" }
-Aaaeuodepnussios@{ shape: win-pane, label: "_Published Jun 12, 2025, 12:03 PM_
-Australian accused of mushroom murders denies poisoning lunch as cross-examination ends" }
-Aaaeuodepnussios@{ shape: win-pane, label: "_Published Jun 12, 2025, 12:03 PM_
-Australian accused of mushroom murders denies poisoning lunch as cross-examination ends" }
-Aawaeuileiyemo@{ shape: win-pane, label: "_Published Jun 11, 2025, 03:23 PM_
-Australian woman accused of murdering 3 relatives denies drying deadly mushrooms" }
-Aamoraeeanau@{ shape: win-pane, label: "_Published Jun 04, 2025, 12:16 PM_
-Australian mushroom murders accused gives her account of fatal lunch" }
-CgoatcreaBsrd@{ shape: win-pane, label: "_Published Dec 27, 2024, 07:28 AM_
-Chiang mai police arrest magic mushroom vendor after british tourist’s death" }
-Taaiuceehsg@{ shape: win-pane, label: "_Published Nov 25, 2022, 11:24 AM_
-Thailand’s cannabis industry clouded as legal threats emerge" }
-Arsdgageilie@{ shape: win-pane, label: "_Published Jul 03, 2022, 02:04 PM_
-Authorities worldwide give warnings after thailand legalises weed" }
-Taginsscetrtgcnm@{ shape: win-pane, label: "_Published Sep 01, 2022, 10:30 PM_
-Thailand legalising cannabis poses more challenges to s'pore's anti-drug stance: shanmugam" }
-MauvroseeU@{ shape: win-pane, label: "_Published Dec 12, 2024, 04:59 PM_
-Myanmar opium harvest drops for first time since coup: un" }
-Maifsisdudioiy@{ shape: win-pane, label: "_Published Oct 02, 2024, 12:45 PM_
-Myanmar civil war fuels surge in cross-border drug trade, thailand official says" }
-Maowseufmy@{ shape: win-pane, label: "_Published Dec 12, 2023, 12:11 PM_
-Myanmar is now the world’s largest source of opium, un says" }
+Dseuigniizofa@{ shape: win-pane, label: "_Published Dec 07, 2025, 05:45 PM_
+Drone strikes on sudan kindergarten, hospital kill dozens: local official" }
+NeuwnthcdeTaes@{ shape: win-pane, label: "_Published Nov 26, 2025, 06:48 AM_
+Neither of sudan’s warring factions has accepted truce plan, trump adviser says" }
+Unotsilnpnd@{ shape: win-pane, label: "_Published Nov 22, 2025, 09:48 PM_
+Ukraine, us to start talks in switzerland on trump’s plan to end war" }
+Unorestler@{ shape: win-pane, label: "_Published Nov 22, 2025, 08:11 PM_
+Ukraine, europe scramble to respond to us plan to end war" }
+Pgtsturiti@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:00 PM_
+Pm wong to attend g-20 summit in south africa, visit ethiopia" }
+TsSwoautiiq@{ shape: win-pane, label: "_Published Nov 20, 2025, 03:48 AM_
+Trump says us will work to end war in sudan at saudi arabia’s request" }
+Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
+Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+TsSwoautiiq@{ shape: win-pane, label: "_Published Nov 20, 2025, 03:48 AM_
+Trump says us will work to end war in sudan at saudi arabia’s request" }
+Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
+Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
+Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
+Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
+TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
+Trump threatens abc news in oval office meltdown" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
 
-Codusmorgrlr:::txtsize --> Ssintintruluod:::txtsize
-Ssintintruluod:::txtsize --> Aawfgyltuoda:::txtsize
-Aawfgyltuoda:::txtsize --> Aawiruceehlkde:::txtsize
-Aawfgyltuoda:::txtsize --> Aaaeuodepnussios:::txtsize
-Ssintintruluod:::txtsize --> Aaaeuodepnussios:::txtsize
-Aaaeuodepnussios:::txtsize --> Aawaeuileiyemo:::txtsize
-Aaaeuodepnussios:::txtsize --> Aamoraeeanau:::txtsize
-Codusmorgrlr:::txtsize --> CgoatcreaBsrd:::txtsize
-CgoatcreaBsrd:::txtsize --> Taaiuceehsg:::txtsize
-Taaiuceehsg:::txtsize --> Arsdgageilie:::txtsize
-Taaiuceehsg:::txtsize --> Taginsscetrtgcnm:::txtsize
-CgoatcreaBsrd:::txtsize --> MauvroseeU:::txtsize
-MauvroseeU:::txtsize --> Maifsisdudioiy:::txtsize
-MauvroseeU:::txtsize --> Maowseufmy:::txtsize
+Dseuigniizofa:::txtsize --> NeuwnthcdeTaes:::txtsize
+NeuwnthcdeTaes:::txtsize --> Unotsilnpnd:::txtsize
+Unotsilnpnd:::txtsize --> Unorestler:::txtsize
+Unotsilnpnd:::txtsize --> Pgtsturiti:::txtsize
+NeuwnthcdeTaes:::txtsize --> TsSwoautiiq:::txtsize
+TsSwoautiiq:::txtsize --> Tdddnersdiinst:::txtsize
+TsSwoautiiq:::txtsize --> Wouaaam:::txtsize
+Dseuigniizofa:::txtsize --> TsSwoautiiq:::txtsize
+TsSwoautiiq:::txtsize --> Tdddnersdiinst:::txtsize
+Tdddnersdiinst:::txtsize --> Mrusnrsasikeprsc:::txtsize
+Tdddnersdiinst:::txtsize --> TttBsailn:::txtsize
+TsSwoautiiq:::txtsize --> Wouaaam:::txtsize
+Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
+Wouaaam:::txtsize --> NyeeawHakl:::txtsize
 
 ```
-<i>Last updated: 2025-12-07 16:01:12.922793 (GMT+8)</i>
+<i>Last updated: 2025-12-07 20:00:35.002922 (GMT+8)</i>
 <!-- END -->
