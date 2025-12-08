@@ -16,111 +16,99 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-TsesxidrsAe@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:44 PM_
-Trump says he will sign executive order curbing state ai rules" }
-SCPeerlSr@{ shape: win-pane, label: "_Published Nov 20, 2025, 02:08 AM_
-Saudi crown prince hosted at friendlier us congress" }
-Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
-Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
-Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
-Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
-TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
-Trump threatens abc news in oval office meltdown" }
-Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
-Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
-Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
-Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
-TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
-Trump threatens abc news in oval office meltdown" }
-Urouwpfsao@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:15 PM_
-Us supreme court turns away appeal of texas library book ban" }
-Psfbgtos@{ shape: win-pane, label: "_Published Oct 19, 2025, 02:50 PM_
-Publishers fight back against us book bans" }
-Crolnitdipsw@{ shape: win-pane, label: "_Published Mar 18, 2023, 04:06 PM_
-Censorship or evolution? ‘sensitivity readers’ divide publishing world" }
-Enllcrnasdree@{ shape: win-pane, label: "_Published Feb 21, 2023, 05:00 PM_
-Editing roald dahl: help children to navigate history, don’t try to rewrite it" }
+easndepsenui@{ shape: win-pane, label: "_Published Dec 09, 2025, 03:30 AM_
+12 ex-fbi agents who kneeled to quell 2020 us protests sue for unlawful firings" }
+Freieedgatrt@{ shape: win-pane, label: "_Published Sep 27, 2025, 01:15 PM_
+Fbi fires agents pictured kneeling during racial justice protest in 2020" }
+Tttenadcm@{ shape: win-pane, label: "_Published Sep 27, 2025, 10:12 AM_
+Trump targets more opponents after ‘dirty cop’ comey" }
+Frhorahdurcc@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:10 AM_
+Former fbi chief comey criminally charged as trump targets critics" }
+TpcgJcanhhe@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:36 AM_
+Trump publicly urges us justice department to charge his enemies" }
+Citearcicoisgp@{ shape: win-pane, label: "_Published Sep 27, 2025, 04:47 AM_
+Comey indictment escalates trump’s campaign to chill opposition, say legal experts" }
+Frhorahdurcc@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:10 AM_
+Former fbi chief comey criminally charged as trump targets critics" }
+Utemugwhsnuonncys@{ shape: win-pane, label: "_Published Sep 26, 2025, 05:58 AM_
+Us justice department pushing for swift charges against trump’s former national security adviser" }
 
-TsesxidrsAe:::txtsize --> SCPeerlSr:::txtsize
-SCPeerlSr:::txtsize --> Tdddnersdiinst:::txtsize
-Tdddnersdiinst:::txtsize --> Mrusnrsasikeprsc:::txtsize
-Tdddnersdiinst:::txtsize --> TttBsailn:::txtsize
-SCPeerlSr:::txtsize --> Tdddnersdiinst:::txtsize
-Tdddnersdiinst:::txtsize --> Mrusnrsasikeprsc:::txtsize
-Tdddnersdiinst:::txtsize --> TttBsailn:::txtsize
-TsesxidrsAe:::txtsize --> Urouwpfsao:::txtsize
-Urouwpfsao:::txtsize --> Psfbgtos:::txtsize
-Psfbgtos:::txtsize --> Crolnitdipsw:::txtsize
-Psfbgtos:::txtsize --> Enllcrnasdree:::txtsize
+easndepsenui:::txtsize --> Freieedgatrt:::txtsize
+Freieedgatrt:::txtsize --> Tttenadcm:::txtsize
+Tttenadcm:::txtsize --> Frhorahdurcc:::txtsize
+Tttenadcm:::txtsize --> TpcgJcanhhe:::txtsize
+Freieedgatrt:::txtsize --> Citearcicoisgp:::txtsize
+Citearcicoisgp:::txtsize --> Frhorahdurcc:::txtsize
+Citearcicoisgp:::txtsize --> Utemugwhsnuonncys:::txtsize
 
-PoainidaBie@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:30 PM_
-Paramount makes $140.7 billion hostile bid for warner bros discovery" }
-Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
-Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
-Nixilbrrsreua@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:40 PM_
-Netflix in exclusive talks to buy warner bros discovery assets, source says" }
-BnmosaAtoppubsg@{ shape: win-pane, label: "_Published Dec 04, 2025, 02:29 PM_
-Bad bunny named spotify’s global top artiste in 2025, rose’s apt. is apple music’s biggest song" }
-Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
-Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
-Nixilbrrsreua@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:40 PM_
-Netflix in exclusive talks to buy warner bros discovery assets, source says" }
-BnmosaAtoppubsg@{ shape: win-pane, label: "_Published Dec 04, 2025, 02:29 PM_
-Bad bunny named spotify’s global top artiste in 2025, rose’s apt. is apple music’s biggest song" }
+Uroovesbrnic@{ shape: win-pane, label: "_Published Dec 09, 2025, 03:13 AM_
+Us supreme court conservatives poised to back trump in ftc firing case" }
+TpscfSrami@{ shape: win-pane, label: "_Published Mar 19, 2025, 10:23 AM_
+Trump purges democrats from us federal trade commission" }
+TainveTMuele@{ shape: win-pane, label: "_Published Feb 14, 2025, 11:27 AM_
+Thousands fired in us government as trump, musk purge federal workers" }
+Wuhdmeaipoglfs@{ shape: win-pane, label: "_Published Feb 12, 2025, 06:18 AM_
+With musk at his side, trump orders us agencies to plan for ‘large-scale’ staff cuts" }
+Tsulpvnslsgr@{ shape: win-pane, label: "_Published Feb 10, 2025, 01:08 AM_
+Trump says musk will help uncover ‘hundreds of billions’ in us govt fraud" }
+Meoitrctkcpon@{ shape: win-pane, label: "_Published Mar 14, 2025, 01:32 PM_
+Meta tests community notes to replace fact-checkers across platforms in us" }
+MiefhrsfSo@{ shape: win-pane, label: "_Published Jan 20, 2025, 10:40 PM_
+Meta will keep its fact checkers outside of the us ‘for now’" }
 
-PoainidaBie:::txtsize --> Niunocydtiimh:::txtsize
-Niunocydtiimh:::txtsize --> Nixilbrrsreua:::txtsize
-Nixilbrrsreua:::txtsize --> BnmosaAtoppubsg:::txtsize
-PoainidaBie:::txtsize --> Niunocydtiimh:::txtsize
-Niunocydtiimh:::txtsize --> Nixilbrrsreua:::txtsize
-Nixilbrrsreua:::txtsize --> BnmosaAtoppubsg:::txtsize
+Uroovesbrnic:::txtsize --> TpscfSrami:::txtsize
+TpscfSrami:::txtsize --> TainveTMuele:::txtsize
+TainveTMuele:::txtsize --> Wuhdmeaipoglfs:::txtsize
+TainveTMuele:::txtsize --> Tsulpvnslsgr:::txtsize
+TpscfSrami:::txtsize --> Meoitrctkcpon:::txtsize
+Meoitrctkcpon:::txtsize --> MiefhrsfSo:::txtsize
 
-EeaZslkoaciri@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:20 PM_
-European leaders, zelensky hold talks in london at ‘crucial’ time for ukraine" }
-ZsyaptwStita@{ shape: win-pane, label: "_Published Dec 08, 2025, 06:36 AM_
-Zelensky says ukraine’s peace talks with us constructive but not easy" }
-NaottirUk@{ shape: win-pane, label: "_Published Dec 07, 2025, 03:48 AM_
-No breakthrough at ‘constructive’ ukraine-us talks" }
-RansskerrocKa@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:11 PM_
-Russian drones, missiles hit ukraine power and transport sectors, kyiv says" }
-Fermekrnznn@{ shape: win-pane, label: "_Published Dec 07, 2025, 12:16 AM_
-France’s macron to meet zelensky, starmer and merz in london on dec 8" }
-NaottirUk@{ shape: win-pane, label: "_Published Dec 07, 2025, 03:48 AM_
-No breakthrough at ‘constructive’ ukraine-us talks" }
-RansskerrocKa@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:11 PM_
-Russian drones, missiles hit ukraine power and transport sectors, kyiv says" }
-Fermekrnznn@{ shape: win-pane, label: "_Published Dec 07, 2025, 12:16 AM_
-France’s macron to meet zelensky, starmer and merz in london on dec 8" }
-ZsyaptwStita@{ shape: win-pane, label: "_Published Dec 08, 2025, 06:36 AM_
-Zelensky says ukraine’s peace talks with us constructive but not easy" }
-NaottirUk@{ shape: win-pane, label: "_Published Dec 07, 2025, 03:48 AM_
-No breakthrough at ‘constructive’ ukraine-us talks" }
-RansskerrocKa@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:11 PM_
-Russian drones, missiles hit ukraine power and transport sectors, kyiv says" }
-Fermekrnznn@{ shape: win-pane, label: "_Published Dec 07, 2025, 12:16 AM_
-France’s macron to meet zelensky, starmer and merz in london on dec 8" }
-NaottirUk@{ shape: win-pane, label: "_Published Dec 07, 2025, 03:48 AM_
-No breakthrough at ‘constructive’ ukraine-us talks" }
-RansskerrocKa@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:11 PM_
-Russian drones, missiles hit ukraine power and transport sectors, kyiv says" }
-Fermekrnznn@{ shape: win-pane, label: "_Published Dec 07, 2025, 12:16 AM_
-France’s macron to meet zelensky, starmer and merz in london on dec 8" }
+BsmiKtrcianpa@{ shape: win-pane, label: "_Published Dec 09, 2025, 02:21 AM_
+British prime minister keir starmer launches tiktok account despite ban" }
+Bisoomessins@{ shape: win-pane, label: "_Published Mar 16, 2023, 08:43 PM_
+Britain bans tiktok on government devices over security concerns" }
+EmoaTspsnu@{ shape: win-pane, label: "_Published Feb 23, 2023, 07:58 PM_
+Eu commission to ban tiktok on staff phones, citing security" }
+Usirnaknces@{ shape: win-pane, label: "_Published Dec 28, 2022, 04:30 AM_
+Us house administration arm bans tiktok on official devices" }
+Muurehli@{ shape: win-pane, label: "_Published Jan 21, 2023, 11:00 AM_
+More public universities in the us block tiktok" }
+Uesoinwdea@{ shape: win-pane, label: "_Published Mar 16, 2023, 07:03 AM_
+Us threatens tiktok ban if chinese owners don't sell stake" }
+Elnsoovoetc@{ shape: win-pane, label: "_Published Mar 01, 2023, 05:15 PM_
+Eu parliament bans tiktok on work devices over security concerns" }
+Caiknfctl@{ shape: win-pane, label: "_Published Feb 28, 2023, 12:16 AM_
+Canada banning tiktok on staff devices: national post" }
+IttsMmostirnslt@{ shape: win-pane, label: "_Published Nov 25, 2025, 10:15 PM_
+‘i didn’t start it, miss’: uk pm starmer apologises after doing viral ‘6-7’ dance in school visit" }
+Bdsnrhr@{ shape: win-pane, label: "_Published Oct 31, 2025, 12:08 AM_
+Beyond words: ‘67’ crowned word of the year" }
+TrtrKangetorc@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:29 AM_
+Taylor swift and travis kelce announce engagement after two-year romance" }
+WsGpasGscth@{ shape: win-pane, label: "_Published Sep 25, 2025, 03:49 PM_
+What is 6-7? this gen alpha slang has left gen zs scratching their heads" }
+WsGpasGscth@{ shape: win-pane, label: "_Published Sep 25, 2025, 03:49 PM_
+What is 6-7? this gen alpha slang has left gen zs scratching their heads" }
+psoioasaamiurt@{ shape: win-pane, label: "_Published Jul 22, 2025, 09:45 AM_
+‘+60 points for following crowd measures’: singaporeans jump on viral ‘aura farming’ trend" }
+DhayoeaGdtrini@{ shape: win-pane, label: "_Published Aug 29, 2025, 07:00 AM_
+Do you have a ‘5-9’ after your 9-5 job? some singapore gen zs do and they are having fun with it" }
 
-EeaZslkoaciri:::txtsize --> ZsyaptwStita:::txtsize
-ZsyaptwStita:::txtsize --> NaottirUk:::txtsize
-NaottirUk:::txtsize --> RansskerrocKa:::txtsize
-NaottirUk:::txtsize --> Fermekrnznn:::txtsize
-ZsyaptwStita:::txtsize --> NaottirUk:::txtsize
-NaottirUk:::txtsize --> RansskerrocKa:::txtsize
-NaottirUk:::txtsize --> Fermekrnznn:::txtsize
-EeaZslkoaciri:::txtsize --> ZsyaptwStita:::txtsize
-ZsyaptwStita:::txtsize --> NaottirUk:::txtsize
-NaottirUk:::txtsize --> RansskerrocKa:::txtsize
-NaottirUk:::txtsize --> Fermekrnznn:::txtsize
-ZsyaptwStita:::txtsize --> NaottirUk:::txtsize
-NaottirUk:::txtsize --> RansskerrocKa:::txtsize
-NaottirUk:::txtsize --> Fermekrnznn:::txtsize
+BsmiKtrcianpa:::txtsize --> Bisoomessins:::txtsize
+Bisoomessins:::txtsize --> EmoaTspsnu:::txtsize
+EmoaTspsnu:::txtsize --> Usirnaknces:::txtsize
+EmoaTspsnu:::txtsize --> Muurehli:::txtsize
+Bisoomessins:::txtsize --> Uesoinwdea:::txtsize
+Uesoinwdea:::txtsize --> Elnsoovoetc:::txtsize
+Uesoinwdea:::txtsize --> Caiknfctl:::txtsize
+BsmiKtrcianpa:::txtsize --> IttsMmostirnslt:::txtsize
+IttsMmostirnslt:::txtsize --> Bdsnrhr:::txtsize
+Bdsnrhr:::txtsize --> TrtrKangetorc:::txtsize
+Bdsnrhr:::txtsize --> WsGpasGscth:::txtsize
+IttsMmostirnslt:::txtsize --> WsGpasGscth:::txtsize
+WsGpasGscth:::txtsize --> psoioasaamiurt:::txtsize
+WsGpasGscth:::txtsize --> DhayoeaGdtrini:::txtsize
 
 ```
-<i>Last updated: 2025-12-09 00:00:28.234788 (GMT+8)</i>
+<i>Last updated: 2025-12-09 04:00:53.686979 (GMT+8)</i>
 <!-- END -->
