@@ -16,144 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-IlrSeeNro@{ shape: win-pane, label: "_Published Dec 08, 2025, 07:30 AM_
-Israel, qatar and us secretly meet in new york: report" }
-Ilemahmaroais@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:27 PM_
-Israel targets hamas leadership in military strikes on qatar, officials say" }
-Ilssreana@{ shape: win-pane, label: "_Published Sep 08, 2025, 04:31 PM_
-Israel warns hamas to surrender or face ‘annihilation’" }
-Ilaeahitsnos@{ shape: win-pane, label: "_Published Sep 08, 2025, 03:55 AM_
-Israel hits another gaza city high-rise as troops intensify offensive" }
-Teaanrisnos@{ shape: win-pane, label: "_Published Sep 08, 2025, 03:21 AM_
-Trump eyes gaza deal ‘soon’, after issuing ‘last warning’ to hamas" }
-Lnthlareseeis@{ shape: win-pane, label: "_Published Sep 09, 2025, 02:18 AM_
-‘leave now’, netanyahu tells gaza city residents as israel intensifies assault" }
-Ptneltsbo@{ shape: win-pane, label: "_Published Sep 08, 2025, 05:21 PM_
-Palestinian gunmen kill six at jerusalem bus stop" }
-IlkvitSneidy@{ shape: win-pane, label: "_Published Sep 09, 2025, 06:21 AM_
-Israel strikes in vicinity of three syrian cities, syrian media say" }
-Ileayiemisnsaan@{ shape: win-pane, label: "_Published Dec 07, 2025, 08:31 PM_
-Israeli pm netanyahu says he will meet trump to discuss second phase of gaza plan soon" }
-GrrswrHvnrs@{ shape: win-pane, label: "_Published Nov 24, 2025, 08:22 PM_
-Gaza truce progress slow as israeli-hamas violence persists" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Haognsidctseoiy@{ shape: win-pane, label: "_Published Oct 18, 2025, 12:36 AM_
-Hamas aims to keep grip on gaza security and can't commit to disarm, senior official says" }
-Hcewfkntrnucr@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:30 AM_
-Hamas carries out wave of gaza killings, citing crime and security concerns" }
-Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
-What does trump’s gaza peace plan promise?" }
+Kdtneretpsl@{ shape: win-pane, label: "_Published Dec 08, 2025, 09:00 AM_
+Kennedy center honors fete performers, but trump takes spotlight" }
+TteeaohotvKdt@{ shape: win-pane, label: "_Published Feb 08, 2025, 09:30 AM_
+Trump to make himself head of top washington cultural venue kennedy centre" }
+TseoBsrln@{ shape: win-pane, label: "_Published Feb 08, 2025, 08:39 AM_
+Trump says he’s revoking biden’s security clearance" }
+SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
+Storming of us capitol: timeline of key events in washington" }
+Tseanccroytne@{ shape: win-pane, label: "_Published Feb 08, 2025, 01:34 AM_
+Trump says he will announce reciprocal tariffs on many countries next week" }
+Tseanccroytne@{ shape: win-pane, label: "_Published Feb 08, 2025, 01:34 AM_
+Trump says he will announce reciprocal tariffs on many countries next week" }
+TtcJtuhrtbcegIa@{ shape: win-pane, label: "_Published Feb 08, 2025, 03:00 AM_
+Trump touts close japan ties but pushes for ‘even’ trade balance in meeting with ishiba" }
+TpsfMoabta@{ shape: win-pane, label: "_Published Feb 04, 2025, 08:15 AM_
+Trump pauses tariffs on mexico and canada, but not china" }
+Tperoneisioh@{ shape: win-pane, label: "_Published Mar 18, 2025, 12:15 PM_
+Trump pledges overhaul of kennedy centre in first visit as board chair" }
+Tosifanidofia@{ shape: win-pane, label: "_Published Mar 15, 2025, 02:30 PM_
+Trump orders gutting of 7 federal agencies, including voice of america’s parent" }
+Ueurairede@{ shape: win-pane, label: "_Published Mar 14, 2025, 03:36 AM_
+Us federal judge orders agencies to rehire fired workers" }
+WHltsahlfenstcp@{ shape: win-pane, label: "_Published Mar 14, 2025, 06:31 PM_
+White house looks to press ahead with mass layoffs after agencies submit reduction plans" }
+TteeaohotvKdt@{ shape: win-pane, label: "_Published Feb 08, 2025, 09:30 AM_
+Trump to make himself head of top washington cultural venue kennedy centre" }
+TseoBsrln@{ shape: win-pane, label: "_Published Feb 08, 2025, 08:39 AM_
+Trump says he’s revoking biden’s security clearance" }
+Tseanccroytne@{ shape: win-pane, label: "_Published Feb 08, 2025, 01:34 AM_
+Trump says he will announce reciprocal tariffs on many countries next week" }
 
-IlrSeeNro:::txtsize --> Ilemahmaroais:::txtsize
-Ilemahmaroais:::txtsize --> Ilssreana:::txtsize
-Ilssreana:::txtsize --> Ilaeahitsnos:::txtsize
-Ilssreana:::txtsize --> Teaanrisnos:::txtsize
-Ilemahmaroais:::txtsize --> Lnthlareseeis:::txtsize
-Lnthlareseeis:::txtsize --> Ptneltsbo:::txtsize
-Lnthlareseeis:::txtsize --> IlkvitSneidy:::txtsize
-IlrSeeNro:::txtsize --> Ileayiemisnsaan:::txtsize
-Ileayiemisnsaan:::txtsize --> GrrswrHvnrs:::txtsize
-GrrswrHvnrs:::txtsize --> Tdrcaaededlncbs:::txtsize
-GrrswrHvnrs:::txtsize --> AtHfezerydatoGel:::txtsize
-Ileayiemisnsaan:::txtsize --> Haognsidctseoiy:::txtsize
-Haognsidctseoiy:::txtsize --> Hcewfkntrnucr:::txtsize
-Haognsidctseoiy:::txtsize --> Wouaaam:::txtsize
+Kdtneretpsl:::txtsize --> TteeaohotvKdt:::txtsize
+TteeaohotvKdt:::txtsize --> TseoBsrln:::txtsize
+TseoBsrln:::txtsize --> SiUiinenWn:::txtsize
+TseoBsrln:::txtsize --> Tseanccroytne:::txtsize
+TteeaohotvKdt:::txtsize --> Tseanccroytne:::txtsize
+Tseanccroytne:::txtsize --> TtcJtuhrtbcegIa:::txtsize
+Tseanccroytne:::txtsize --> TpsfMoabta:::txtsize
+Kdtneretpsl:::txtsize --> Tperoneisioh:::txtsize
+Tperoneisioh:::txtsize --> Tosifanidofia:::txtsize
+Tosifanidofia:::txtsize --> Ueurairede:::txtsize
+Tosifanidofia:::txtsize --> WHltsahlfenstcp:::txtsize
+Tperoneisioh:::txtsize --> TteeaohotvKdt:::txtsize
+TteeaohotvKdt:::txtsize --> TseoBsrln:::txtsize
+TteeaohotvKdt:::txtsize --> Tseanccroytne:::txtsize
 
-Kdcdrnccoertae@{ shape: win-pane, label: "_Published Dec 08, 2025, 07:15 AM_
-Kennedy vaccine advisers ‘turned back the clock’ on disease prevention, say experts" }
-Ucaphiaetrrf@{ shape: win-pane, label: "_Published Dec 06, 2025, 10:25 AM_
-Us vaccine panel upends hepatitis b advice in latest trump-era shift" }
-Ucotethsdssny@{ shape: win-pane, label: "_Published Dec 03, 2025, 11:01 AM_
-Us vaccine committee’s hepatitis b changes would be most consequential yet" }
-Usyidcsre@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:25 AM_
-Us fda’s newly appointed drugs chief set to retire" }
-Rifttiec@{ shape: win-pane, label: "_Published Jan 02, 2025, 05:00 AM_
-Rfk jr is half right about american healthcare" }
-TeeDmoespeoevnn@{ shape: win-pane, label: "_Published Dec 04, 2025, 10:12 AM_
-Twelve former us fda commissioners express deep concern about agency’s vaccine change" }
-Usyidcsre@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:25 AM_
-Us fda’s newly appointed drugs chief set to retire" }
-Ucotethsdssny@{ shape: win-pane, label: "_Published Dec 03, 2025, 11:01 AM_
-Us vaccine committee’s hepatitis b changes would be most consequential yet" }
-TeeDmoespeoevnn@{ shape: win-pane, label: "_Published Dec 04, 2025, 10:12 AM_
-Twelve former us fda commissioners express deep concern about agency’s vaccine change" }
-Usyidcsre@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:25 AM_
-Us fda’s newly appointed drugs chief set to retire" }
-Ulcreeyituuaeole@{ shape: win-pane, label: "_Published Nov 18, 2025, 05:10 AM_
-Us health secretary robert f. kennedy jr tries to tie aluminium in vaccines to food allergies" }
-FUleheioeepento@{ shape: win-pane, label: "_Published Sep 18, 2025, 01:56 AM_
-Fired us health agency chief testifies about pressure to ‘replace evidence with ideology’" }
-Ucotethsdssny@{ shape: win-pane, label: "_Published Dec 03, 2025, 11:01 AM_
-Us vaccine committee’s hepatitis b changes would be most consequential yet" }
-Usyidcsre@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:25 AM_
-Us fda’s newly appointed drugs chief set to retire" }
-Rifttiec@{ shape: win-pane, label: "_Published Jan 02, 2025, 05:00 AM_
-Rfk jr is half right about american healthcare" }
+Tsleiodnarera@{ shape: win-pane, label: "_Published Dec 08, 2025, 08:55 AM_
+Trump says ‘a little bit disappointed’ zelensky has not read peace proposal" }
+NaottirUk@{ shape: win-pane, label: "_Published Dec 07, 2025, 03:48 AM_
+No breakthrough at ‘constructive’ ukraine-us talks" }
+RansskerrocKa@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:11 PM_
+Russian drones, missiles hit ukraine power and transport sectors, kyiv says" }
+Ntoaanrrotra@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:38 AM_
+Next steps for ukraine talks unclear after moscow meeting, trump says" }
+Unyrlearthde@{ shape: win-pane, label: "_Published Dec 06, 2025, 10:16 AM_
+Un agency says chornobyl nuclear plant’s protective shield damaged" }
+Fermekrnznn@{ shape: win-pane, label: "_Published Dec 07, 2025, 12:16 AM_
+France’s macron to meet zelensky, starmer and merz in london on dec 8" }
+RansskerrocKa@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:11 PM_
+Russian drones, missiles hit ukraine power and transport sectors, kyiv says" }
+Unphnanpiserttg@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:01 PM_
+Ukraine’s zaporizhzhia nuclear plant temporarily lost power overnight, un watchdog says" }
+NaottirUk@{ shape: win-pane, label: "_Published Dec 07, 2025, 03:48 AM_
+No breakthrough at ‘constructive’ ukraine-us talks" }
+RansskerrocKa@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:11 PM_
+Russian drones, missiles hit ukraine power and transport sectors, kyiv says" }
+Ntoaanrrotra@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:38 AM_
+Next steps for ukraine talks unclear after moscow meeting, trump says" }
+Unyrlearthde@{ shape: win-pane, label: "_Published Dec 06, 2025, 10:16 AM_
+Un agency says chornobyl nuclear plant’s protective shield damaged" }
+Fermekrnznn@{ shape: win-pane, label: "_Published Dec 07, 2025, 12:16 AM_
+France’s macron to meet zelensky, starmer and merz in london on dec 8" }
+RansskerrocKa@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:11 PM_
+Russian drones, missiles hit ukraine power and transport sectors, kyiv says" }
+Unphnanpiserttg@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:01 PM_
+Ukraine’s zaporizhzhia nuclear plant temporarily lost power overnight, un watchdog says" }
 
-Kdcdrnccoertae:::txtsize --> Ucaphiaetrrf:::txtsize
-Ucaphiaetrrf:::txtsize --> Ucotethsdssny:::txtsize
-Ucotethsdssny:::txtsize --> Usyidcsre:::txtsize
-Ucotethsdssny:::txtsize --> Rifttiec:::txtsize
-Ucaphiaetrrf:::txtsize --> TeeDmoespeoevnn:::txtsize
-TeeDmoespeoevnn:::txtsize --> Usyidcsre:::txtsize
-TeeDmoespeoevnn:::txtsize --> Ucotethsdssny:::txtsize
-Kdcdrnccoertae:::txtsize --> TeeDmoespeoevnn:::txtsize
-TeeDmoespeoevnn:::txtsize --> Usyidcsre:::txtsize
-Usyidcsre:::txtsize --> Ulcreeyituuaeole:::txtsize
-Usyidcsre:::txtsize --> FUleheioeepento:::txtsize
-TeeDmoespeoevnn:::txtsize --> Ucotethsdssny:::txtsize
-Ucotethsdssny:::txtsize --> Usyidcsre:::txtsize
-Ucotethsdssny:::txtsize --> Rifttiec:::txtsize
+Tsleiodnarera:::txtsize --> NaottirUk:::txtsize
+NaottirUk:::txtsize --> RansskerrocKa:::txtsize
+RansskerrocKa:::txtsize --> Ntoaanrrotra:::txtsize
+RansskerrocKa:::txtsize --> Unyrlearthde:::txtsize
+NaottirUk:::txtsize --> Fermekrnznn:::txtsize
+Fermekrnznn:::txtsize --> RansskerrocKa:::txtsize
+Fermekrnznn:::txtsize --> Unphnanpiserttg:::txtsize
+Tsleiodnarera:::txtsize --> NaottirUk:::txtsize
+NaottirUk:::txtsize --> RansskerrocKa:::txtsize
+RansskerrocKa:::txtsize --> Ntoaanrrotra:::txtsize
+RansskerrocKa:::txtsize --> Unyrlearthde:::txtsize
+NaottirUk:::txtsize --> Fermekrnznn:::txtsize
+Fermekrnznn:::txtsize --> RansskerrocKa:::txtsize
+Fermekrnznn:::txtsize --> Unphnanpiserttg:::txtsize
 
-Draracivodaa@{ shape: win-pane, label: "_Published Dec 08, 2025, 06:50 AM_
-Democrats call for releasing classified video of deadly boat attacks" }
-UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
-Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
-Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
-Us builds up forces in caribbean as officials, experts, ask why" }
-Ursratnldoi@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:51 AM_
-Us increases reward for arrest of venezeula’s maduro to $64 million" }
-Ursratnldoi@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:51 AM_
-Us increases reward for arrest of venezeula’s maduro to $64 million" }
-VuMoUswieggoy@{ shape: win-pane, label: "_Published Sep 02, 2025, 01:19 AM_
-Venezuela’s maduro says us warships with 1,200 missiles targeting his country" }
-Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
-Us builds up forces in caribbean as officials, experts, ask why" }
-Ursratnldoi@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:51 AM_
-Us increases reward for arrest of venezeula’s maduro to $64 million" }
-Tsahegufsdo@{ shape: win-pane, label: "_Published Dec 07, 2025, 10:25 AM_
-Trump’s pentagon chief pete hegseth under fire as scandals mount" }
-WHmkssnliui@{ shape: win-pane, label: "_Published Mar 25, 2025, 04:50 AM_
-White house mistakenly shares yemen war plans with journalist" }
-Hiinuposhrah@{ shape: win-pane, label: "_Published Mar 17, 2025, 03:35 PM_
-‘hell will rain down on you’: trump, the houthis and the us’ proxy war with iran" }
-HicYfsteloofU@{ shape: win-pane, label: "_Published Mar 24, 2025, 07:55 AM_
-Houthi attacks in yemen force ships to make costly detour around africa: us" }
-PgvaHtrasoei@{ shape: win-pane, label: "_Published Dec 04, 2025, 05:30 AM_
-Pentagon review faults hegseth over signal messages on yemen strikes" }
-WHmkssnliui@{ shape: win-pane, label: "_Published Mar 25, 2025, 04:50 AM_
-White house mistakenly shares yemen war plans with journalist" }
-Pgitsahltnkldb@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:21 AM_
-Pentagon chief pete hegseth says us has ‘only just begun’ striking alleged drug boats" }
+TseivrwtWrhe@{ shape: win-pane, label: "_Published Dec 08, 2025, 08:40 AM_
+Trump says he’ll be involved in review of netflix-warner brothers deal" }
+Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
+Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
+Nixilbrrsreua@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:40 PM_
+Netflix in exclusive talks to buy warner bros discovery assets, source says" }
+BnmosaAtoppubsg@{ shape: win-pane, label: "_Published Dec 04, 2025, 02:29 PM_
+Bad bunny named spotify’s global top artiste in 2025, rose’s apt. is apple music’s biggest song" }
+NiaiWrwenoo@{ shape: win-pane, label: "_Published Dec 07, 2025, 06:20 PM_
+Netflix’s swallowing of warner bros will be the end of hollywood" }
+Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
+Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
+Nixilbrrsreua@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:40 PM_
+Netflix in exclusive talks to buy warner bros discovery assets, source says" }
 
-Draracivodaa:::txtsize --> UikperngutVura:::txtsize
-UikperngutVura:::txtsize --> Ulfsrafapay:::txtsize
-Ulfsrafapay:::txtsize --> Ursratnldoi:::txtsize
-Ulfsrafapay:::txtsize --> Ursratnldoi:::txtsize
-UikperngutVura:::txtsize --> VuMoUswieggoy:::txtsize
-VuMoUswieggoy:::txtsize --> Ulfsrafapay:::txtsize
-VuMoUswieggoy:::txtsize --> Ursratnldoi:::txtsize
-Draracivodaa:::txtsize --> Tsahegufsdo:::txtsize
-Tsahegufsdo:::txtsize --> WHmkssnliui:::txtsize
-WHmkssnliui:::txtsize --> Hiinuposhrah:::txtsize
-WHmkssnliui:::txtsize --> HicYfsteloofU:::txtsize
-Tsahegufsdo:::txtsize --> PgvaHtrasoei:::txtsize
-PgvaHtrasoei:::txtsize --> WHmkssnliui:::txtsize
-PgvaHtrasoei:::txtsize --> Pgitsahltnkldb:::txtsize
+TseivrwtWrhe:::txtsize --> Niunocydtiimh:::txtsize
+Niunocydtiimh:::txtsize --> Nixilbrrsreua:::txtsize
+Nixilbrrsreua:::txtsize --> BnmosaAtoppubsg:::txtsize
+TseivrwtWrhe:::txtsize --> NiaiWrwenoo:::txtsize
+NiaiWrwenoo:::txtsize --> Niunocydtiimh:::txtsize
+Niunocydtiimh:::txtsize --> Nixilbrrsreua:::txtsize
 
 ```
-<i>Last updated: 2025-12-08 08:00:40.844830 (GMT+8)</i>
+<i>Last updated: 2025-12-08 12:01:03.541296 (GMT+8)</i>
 <!-- END -->
