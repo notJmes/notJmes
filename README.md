@@ -16,8 +16,22 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-TUoezalnaisa@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:38 AM_
-Trump un envoy mike waltz, eu’s kaja kallas in jordan to discuss gaza aid" }
+IlrSeeNro@{ shape: win-pane, label: "_Published Dec 08, 2025, 07:30 AM_
+Israel, qatar and us secretly meet in new york: report" }
+Ilemahmaroais@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:27 PM_
+Israel targets hamas leadership in military strikes on qatar, officials say" }
+Ilssreana@{ shape: win-pane, label: "_Published Sep 08, 2025, 04:31 PM_
+Israel warns hamas to surrender or face ‘annihilation’" }
+Ilaeahitsnos@{ shape: win-pane, label: "_Published Sep 08, 2025, 03:55 AM_
+Israel hits another gaza city high-rise as troops intensify offensive" }
+Teaanrisnos@{ shape: win-pane, label: "_Published Sep 08, 2025, 03:21 AM_
+Trump eyes gaza deal ‘soon’, after issuing ‘last warning’ to hamas" }
+Lnthlareseeis@{ shape: win-pane, label: "_Published Sep 09, 2025, 02:18 AM_
+‘leave now’, netanyahu tells gaza city residents as israel intensifies assault" }
+Ptneltsbo@{ shape: win-pane, label: "_Published Sep 08, 2025, 05:21 PM_
+Palestinian gunmen kill six at jerusalem bus stop" }
+IlkvitSneidy@{ shape: win-pane, label: "_Published Sep 09, 2025, 06:21 AM_
+Israel strikes in vicinity of three syrian cities, syrian media say" }
 Ileayiemisnsaan@{ shape: win-pane, label: "_Published Dec 07, 2025, 08:31 PM_
 Israeli pm netanyahu says he will meet trump to discuss second phase of gaza plan soon" }
 GrrswrHvnrs@{ shape: win-pane, label: "_Published Nov 24, 2025, 08:22 PM_
@@ -32,83 +46,114 @@ Hcewfkntrnucr@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:30 AM_
 Hamas carries out wave of gaza killings, citing crime and security concerns" }
 Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
 What does trump’s gaza peace plan promise?" }
-GatiocfopQsesa@{ shape: win-pane, label: "_Published Dec 06, 2025, 06:16 PM_
-Gaza talks at critical moment, ceasefire not complete, qatar’s prime minister says" }
-UiKeNyiseft@{ shape: win-pane, label: "_Published Nov 10, 2025, 11:55 PM_
-Us mediator kushner and netanyahu discuss phase two of gaza truce" }
-Ililezirlocln@{ shape: win-pane, label: "_Published Nov 02, 2025, 11:01 PM_
-Israeli strike kills one in gaza as sides trade blame for truce violations" }
-Huahtuomzcn@{ shape: win-pane, label: "_Published Nov 09, 2025, 10:16 PM_
-Holed-up hamas fighters test future of trump’s gaza peace plan" }
-Iliehgdmsiaarnln@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:20 AM_
-Israel says it received hostage’s body from hamas as it indicates rafah crossing could open" }
-Gstscrregw@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:55 PM_
-Gazans race to preserve cultural heritage damaged in war" }
-TfsoaeivtacWudfa@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:40 PM_
-Tens of thousands of gazans need medical evacuation, says doctors without borders official" }
 
-TUoezalnaisa:::txtsize --> Ileayiemisnsaan:::txtsize
+IlrSeeNro:::txtsize --> Ilemahmaroais:::txtsize
+Ilemahmaroais:::txtsize --> Ilssreana:::txtsize
+Ilssreana:::txtsize --> Ilaeahitsnos:::txtsize
+Ilssreana:::txtsize --> Teaanrisnos:::txtsize
+Ilemahmaroais:::txtsize --> Lnthlareseeis:::txtsize
+Lnthlareseeis:::txtsize --> Ptneltsbo:::txtsize
+Lnthlareseeis:::txtsize --> IlkvitSneidy:::txtsize
+IlrSeeNro:::txtsize --> Ileayiemisnsaan:::txtsize
 Ileayiemisnsaan:::txtsize --> GrrswrHvnrs:::txtsize
 GrrswrHvnrs:::txtsize --> Tdrcaaededlncbs:::txtsize
 GrrswrHvnrs:::txtsize --> AtHfezerydatoGel:::txtsize
 Ileayiemisnsaan:::txtsize --> Haognsidctseoiy:::txtsize
 Haognsidctseoiy:::txtsize --> Hcewfkntrnucr:::txtsize
 Haognsidctseoiy:::txtsize --> Wouaaam:::txtsize
-TUoezalnaisa:::txtsize --> GatiocfopQsesa:::txtsize
-GatiocfopQsesa:::txtsize --> UiKeNyiseft:::txtsize
-UiKeNyiseft:::txtsize --> Ililezirlocln:::txtsize
-UiKeNyiseft:::txtsize --> Huahtuomzcn:::txtsize
-GatiocfopQsesa:::txtsize --> Iliehgdmsiaarnln:::txtsize
-Iliehgdmsiaarnln:::txtsize --> Gstscrregw:::txtsize
-Iliehgdmsiaarnln:::txtsize --> TfsoaeivtacWudfa:::txtsize
 
-KisSoetaadgisvn@{ shape: win-pane, label: "_Published Dec 08, 2025, 12:31 AM_
-Kremlin says new us national security strategy accords largely with russia’s vision" }
-Ueeprcerg@{ shape: win-pane, label: "_Published Dec 05, 2025, 06:00 PM_
-Us in decline; trump’s ‘donroe doctrine’ is worrying asia" }
-twoaTsaause@{ shape: win-pane, label: "_Published Dec 06, 2025, 07:14 PM_
-5 takeaways for asia from trump’s new national security strategy" }
+Kdcdrnccoertae@{ shape: win-pane, label: "_Published Dec 08, 2025, 07:15 AM_
+Kennedy vaccine advisers ‘turned back the clock’ on disease prevention, say experts" }
+Ucaphiaetrrf@{ shape: win-pane, label: "_Published Dec 06, 2025, 10:25 AM_
+Us vaccine panel upends hepatitis b advice in latest trump-era shift" }
+Ucotethsdssny@{ shape: win-pane, label: "_Published Dec 03, 2025, 11:01 AM_
+Us vaccine committee’s hepatitis b changes would be most consequential yet" }
+Usyidcsre@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:25 AM_
+Us fda’s newly appointed drugs chief set to retire" }
+Rifttiec@{ shape: win-pane, label: "_Published Jan 02, 2025, 05:00 AM_
+Rfk jr is half right about american healthcare" }
+TeeDmoespeoevnn@{ shape: win-pane, label: "_Published Dec 04, 2025, 10:12 AM_
+Twelve former us fda commissioners express deep concern about agency’s vaccine change" }
+Usyidcsre@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:25 AM_
+Us fda’s newly appointed drugs chief set to retire" }
+Ucotethsdssny@{ shape: win-pane, label: "_Published Dec 03, 2025, 11:01 AM_
+Us vaccine committee’s hepatitis b changes would be most consequential yet" }
+TeeDmoespeoevnn@{ shape: win-pane, label: "_Published Dec 04, 2025, 10:12 AM_
+Twelve former us fda commissioners express deep concern about agency’s vaccine change" }
+Usyidcsre@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:25 AM_
+Us fda’s newly appointed drugs chief set to retire" }
+Ulcreeyituuaeole@{ shape: win-pane, label: "_Published Nov 18, 2025, 05:10 AM_
+Us health secretary robert f. kennedy jr tries to tie aluminium in vaccines to food allergies" }
+FUleheioeepento@{ shape: win-pane, label: "_Published Sep 18, 2025, 01:56 AM_
+Fired us health agency chief testifies about pressure to ‘replace evidence with ideology’" }
+Ucotethsdssny@{ shape: win-pane, label: "_Published Dec 03, 2025, 11:01 AM_
+Us vaccine committee’s hepatitis b changes would be most consequential yet" }
+Usyidcsre@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:25 AM_
+Us fda’s newly appointed drugs chief set to retire" }
+Rifttiec@{ shape: win-pane, label: "_Published Jan 02, 2025, 05:00 AM_
+Rfk jr is half right about american healthcare" }
 
-KisSoetaadgisvn:::txtsize --> Ueeprcerg:::txtsize
-KisSoetaadgisvn:::txtsize --> twoaTsaause:::txtsize
+Kdcdrnccoertae:::txtsize --> Ucaphiaetrrf:::txtsize
+Ucaphiaetrrf:::txtsize --> Ucotethsdssny:::txtsize
+Ucotethsdssny:::txtsize --> Usyidcsre:::txtsize
+Ucotethsdssny:::txtsize --> Rifttiec:::txtsize
+Ucaphiaetrrf:::txtsize --> TeeDmoespeoevnn:::txtsize
+TeeDmoespeoevnn:::txtsize --> Usyidcsre:::txtsize
+TeeDmoespeoevnn:::txtsize --> Ucotethsdssny:::txtsize
+Kdcdrnccoertae:::txtsize --> TeeDmoespeoevnn:::txtsize
+TeeDmoespeoevnn:::txtsize --> Usyidcsre:::txtsize
+Usyidcsre:::txtsize --> Ulcreeyituuaeole:::txtsize
+Usyidcsre:::txtsize --> FUleheioeepento:::txtsize
+TeeDmoespeoevnn:::txtsize --> Ucotethsdssny:::txtsize
+Ucotethsdssny:::txtsize --> Usyidcsre:::txtsize
+Ucotethsdssny:::txtsize --> Rifttiec:::txtsize
 
-Wltsrembapausrt@{ shape: win-pane, label: "_Published Dec 08, 2025, 12:01 AM_
-Water leak at paris louvre museum damages books at egyptian antiquities department" }
-Leteidlaerrsl@{ shape: win-pane, label: "_Published Oct 22, 2025, 02:52 AM_
-Louvre heist losses estimated at $133 million as museum director faces grilling" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
-‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
-Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
-Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
-PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
-Paris’ louvre museum robbery: what jewels did the thieves steal?" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-Leulytsisturs@{ shape: win-pane, label: "_Published Nov 06, 2025, 05:30 PM_
-Louvre museum will need years to fix security issues, state auditor finds" }
-Letotmsrsioty@{ shape: win-pane, label: "_Published Nov 02, 2025, 09:46 PM_
-Louvre heist work of petty criminals, not organised crime, prosecutor says" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-Letutgors@{ shape: win-pane, label: "_Published Nov 01, 2025, 10:49 PM_
-Louvre heist: one suspect charged, another released" }
+Draracivodaa@{ shape: win-pane, label: "_Published Dec 08, 2025, 06:50 AM_
+Democrats call for releasing classified video of deadly boat attacks" }
+UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
+Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
+Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
+Us builds up forces in caribbean as officials, experts, ask why" }
+Ursratnldoi@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:51 AM_
+Us increases reward for arrest of venezeula’s maduro to $64 million" }
+Ursratnldoi@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:51 AM_
+Us increases reward for arrest of venezeula’s maduro to $64 million" }
+VuMoUswieggoy@{ shape: win-pane, label: "_Published Sep 02, 2025, 01:19 AM_
+Venezuela’s maduro says us warships with 1,200 missiles targeting his country" }
+Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
+Us builds up forces in caribbean as officials, experts, ask why" }
+Ursratnldoi@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:51 AM_
+Us increases reward for arrest of venezeula’s maduro to $64 million" }
+Tsahegufsdo@{ shape: win-pane, label: "_Published Dec 07, 2025, 10:25 AM_
+Trump’s pentagon chief pete hegseth under fire as scandals mount" }
+WHmkssnliui@{ shape: win-pane, label: "_Published Mar 25, 2025, 04:50 AM_
+White house mistakenly shares yemen war plans with journalist" }
+Hiinuposhrah@{ shape: win-pane, label: "_Published Mar 17, 2025, 03:35 PM_
+‘hell will rain down on you’: trump, the houthis and the us’ proxy war with iran" }
+HicYfsteloofU@{ shape: win-pane, label: "_Published Mar 24, 2025, 07:55 AM_
+Houthi attacks in yemen force ships to make costly detour around africa: us" }
+PgvaHtrasoei@{ shape: win-pane, label: "_Published Dec 04, 2025, 05:30 AM_
+Pentagon review faults hegseth over signal messages on yemen strikes" }
+WHmkssnliui@{ shape: win-pane, label: "_Published Mar 25, 2025, 04:50 AM_
+White house mistakenly shares yemen war plans with journalist" }
+Pgitsahltnkldb@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:21 AM_
+Pentagon chief pete hegseth says us has ‘only just begun’ striking alleged drug boats" }
 
-Wltsrembapausrt:::txtsize --> Leteidlaerrsl:::txtsize
-Leteidlaerrsl:::txtsize --> Ptineluiisey:::txtsize
-Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
-Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
-Leteidlaerrsl:::txtsize --> PLeubhwitea:::txtsize
-PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
-PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
-Wltsrembapausrt:::txtsize --> Leulytsisturs:::txtsize
-Leulytsisturs:::txtsize --> Letotmsrsioty:::txtsize
-Letotmsrsioty:::txtsize --> Ptineluiisey:::txtsize
-Letotmsrsioty:::txtsize --> Letutgors:::txtsize
+Draracivodaa:::txtsize --> UikperngutVura:::txtsize
+UikperngutVura:::txtsize --> Ulfsrafapay:::txtsize
+Ulfsrafapay:::txtsize --> Ursratnldoi:::txtsize
+Ulfsrafapay:::txtsize --> Ursratnldoi:::txtsize
+UikperngutVura:::txtsize --> VuMoUswieggoy:::txtsize
+VuMoUswieggoy:::txtsize --> Ulfsrafapay:::txtsize
+VuMoUswieggoy:::txtsize --> Ursratnldoi:::txtsize
+Draracivodaa:::txtsize --> Tsahegufsdo:::txtsize
+Tsahegufsdo:::txtsize --> WHmkssnliui:::txtsize
+WHmkssnliui:::txtsize --> Hiinuposhrah:::txtsize
+WHmkssnliui:::txtsize --> HicYfsteloofU:::txtsize
+Tsahegufsdo:::txtsize --> PgvaHtrasoei:::txtsize
+PgvaHtrasoei:::txtsize --> WHmkssnliui:::txtsize
+PgvaHtrasoei:::txtsize --> Pgitsahltnkldb:::txtsize
 
 ```
-<i>Last updated: 2025-12-08 04:00:15.367455 (GMT+8)</i>
+<i>Last updated: 2025-12-08 08:00:40.844830 (GMT+8)</i>
 <!-- END -->
