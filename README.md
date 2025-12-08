@@ -16,123 +16,111 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Leenlogkt@{ shape: win-pane, label: "_Published Dec 08, 2025, 07:40 PM_
-Louvre trade unions call for rolling strike next week" }
-Wltsrembapausrt@{ shape: win-pane, label: "_Published Dec 08, 2025, 12:01 AM_
-Water leak at paris’ louvre museum damages books at egyptian antiquities department" }
-Leteidlaerrsl@{ shape: win-pane, label: "_Published Oct 22, 2025, 02:52 AM_
-Louvre heist losses estimated at $133 million as museum director faces grilling" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
-Paris’ louvre museum robbery: what jewels did the thieves steal?" }
-Leulytsisturs@{ shape: win-pane, label: "_Published Nov 06, 2025, 05:30 PM_
-Louvre museum will need years to fix security issues, state auditor finds" }
-Letotmsrsioty@{ shape: win-pane, label: "_Published Nov 02, 2025, 09:46 PM_
-Louvre heist work of petty criminals, not organised crime, prosecutor says" }
-Wltsrembapausrt@{ shape: win-pane, label: "_Published Dec 08, 2025, 12:01 AM_
-Water leak at paris’ louvre museum damages books at egyptian antiquities department" }
-Leteidlaerrsl@{ shape: win-pane, label: "_Published Oct 22, 2025, 02:52 AM_
-Louvre heist losses estimated at $133 million as museum director faces grilling" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
-Paris’ louvre museum robbery: what jewels did the thieves steal?" }
-Leulytsisturs@{ shape: win-pane, label: "_Published Nov 06, 2025, 05:30 PM_
-Louvre museum will need years to fix security issues, state auditor finds" }
-Letotmsrsioty@{ shape: win-pane, label: "_Published Nov 02, 2025, 09:46 PM_
-Louvre heist work of petty criminals, not organised crime, prosecutor says" }
+TsesxidrsAe@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:44 PM_
+Trump says he will sign executive order curbing state ai rules" }
+SCPeerlSr@{ shape: win-pane, label: "_Published Nov 20, 2025, 02:08 AM_
+Saudi crown prince hosted at friendlier us congress" }
+Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
+Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
+Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
+Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
+TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
+Trump threatens abc news in oval office meltdown" }
+Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
+Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
+Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
+Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
+TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
+Trump threatens abc news in oval office meltdown" }
+Urouwpfsao@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:15 PM_
+Us supreme court turns away appeal of texas library book ban" }
+Psfbgtos@{ shape: win-pane, label: "_Published Oct 19, 2025, 02:50 PM_
+Publishers fight back against us book bans" }
+Crolnitdipsw@{ shape: win-pane, label: "_Published Mar 18, 2023, 04:06 PM_
+Censorship or evolution? ‘sensitivity readers’ divide publishing world" }
+Enllcrnasdree@{ shape: win-pane, label: "_Published Feb 21, 2023, 05:00 PM_
+Editing roald dahl: help children to navigate history, don’t try to rewrite it" }
 
-Leenlogkt:::txtsize --> Wltsrembapausrt:::txtsize
-Wltsrembapausrt:::txtsize --> Leteidlaerrsl:::txtsize
-Leteidlaerrsl:::txtsize --> Ptineluiisey:::txtsize
-Leteidlaerrsl:::txtsize --> PLeubhwitea:::txtsize
-Wltsrembapausrt:::txtsize --> Leulytsisturs:::txtsize
-Leulytsisturs:::txtsize --> Letotmsrsioty:::txtsize
-Leenlogkt:::txtsize --> Wltsrembapausrt:::txtsize
-Wltsrembapausrt:::txtsize --> Leteidlaerrsl:::txtsize
-Leteidlaerrsl:::txtsize --> Ptineluiisey:::txtsize
-Leteidlaerrsl:::txtsize --> PLeubhwitea:::txtsize
-Wltsrembapausrt:::txtsize --> Leulytsisturs:::txtsize
-Leulytsisturs:::txtsize --> Letotmsrsioty:::txtsize
+TsesxidrsAe:::txtsize --> SCPeerlSr:::txtsize
+SCPeerlSr:::txtsize --> Tdddnersdiinst:::txtsize
+Tdddnersdiinst:::txtsize --> Mrusnrsasikeprsc:::txtsize
+Tdddnersdiinst:::txtsize --> TttBsailn:::txtsize
+SCPeerlSr:::txtsize --> Tdddnersdiinst:::txtsize
+Tdddnersdiinst:::txtsize --> Mrusnrsasikeprsc:::txtsize
+Tdddnersdiinst:::txtsize --> TttBsailn:::txtsize
+TsesxidrsAe:::txtsize --> Urouwpfsao:::txtsize
+Urouwpfsao:::txtsize --> Psfbgtos:::txtsize
+Psfbgtos:::txtsize --> Crolnitdipsw:::txtsize
+Psfbgtos:::txtsize --> Enllcrnasdree:::txtsize
 
-Gleminatidit@{ shape: win-pane, label: "_Published Dec 08, 2025, 07:22 PM_
-Global leaders commit $2.46 billion to eradicate polio amid funding cuts" }
-TosimoeOio@{ shape: win-pane, label: "_Published Jan 21, 2025, 10:06 AM_
-Trump orders us exit from the world health organisation" }
-TsnmaUdilhh@{ shape: win-pane, label: "_Published Jan 12, 2025, 11:36 PM_
-Trump’s second term threatens us leadership on global health" }
-TtitlSoofhriorey@{ shape: win-pane, label: "_Published Dec 24, 2024, 01:59 AM_
-Trump transition team plans us pull out from who from the start of his second term, expert says" }
-Egolieoiaugy@{ shape: win-pane, label: "_Published Oct 21, 2025, 11:11 PM_
-Ending polio still possible, health officials say, as funding cut by 30%" }
-UiapecnsH@{ shape: win-pane, label: "_Published Mar 03, 2025, 08:15 PM_
-Us actions may set polio eradication back, says who" }
-UeoeOioas@{ shape: win-pane, label: "_Published Jan 24, 2025, 05:57 AM_
-Us to leave world health organisation on jan 22, 2026, says un" }
-PsclgzsioeW@{ shape: win-pane, label: "_Published Feb 19, 2025, 11:07 PM_
-Polio still circulating in gaza, mass vaccination to resume: who" }
-Wycedoscnau@{ shape: win-pane, label: "_Published May 21, 2025, 01:05 AM_
-Who says vaccine-derived poliovirus detected in papua new guinea" }
-CteHeafl@{ shape: win-pane, label: "_Published May 20, 2025, 09:59 PM_
-China to give $648m to who in next 5 years, official says" }
-UlcrJlmuaberttt@{ shape: win-pane, label: "_Published May 20, 2025, 08:45 PM_
-Us health secretary rfk jr calls who ‘moribund’ in assembly speech, urges others to quit" }
+PoainidaBie@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:30 PM_
+Paramount makes $140.7 billion hostile bid for warner bros discovery" }
+Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
+Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
+Nixilbrrsreua@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:40 PM_
+Netflix in exclusive talks to buy warner bros discovery assets, source says" }
+BnmosaAtoppubsg@{ shape: win-pane, label: "_Published Dec 04, 2025, 02:29 PM_
+Bad bunny named spotify’s global top artiste in 2025, rose’s apt. is apple music’s biggest song" }
+Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
+Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
+Nixilbrrsreua@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:40 PM_
+Netflix in exclusive talks to buy warner bros discovery assets, source says" }
+BnmosaAtoppubsg@{ shape: win-pane, label: "_Published Dec 04, 2025, 02:29 PM_
+Bad bunny named spotify’s global top artiste in 2025, rose’s apt. is apple music’s biggest song" }
 
-Gleminatidit:::txtsize --> TosimoeOio:::txtsize
-TosimoeOio:::txtsize --> TsnmaUdilhh:::txtsize
-TsnmaUdilhh:::txtsize --> TtitlSoofhriorey:::txtsize
-Gleminatidit:::txtsize --> Egolieoiaugy:::txtsize
-Egolieoiaugy:::txtsize --> UiapecnsH:::txtsize
-UiapecnsH:::txtsize --> UeoeOioas:::txtsize
-UiapecnsH:::txtsize --> PsclgzsioeW:::txtsize
-Egolieoiaugy:::txtsize --> Wycedoscnau:::txtsize
-Wycedoscnau:::txtsize --> CteHeafl:::txtsize
-Wycedoscnau:::txtsize --> UlcrJlmuaberttt:::txtsize
+PoainidaBie:::txtsize --> Niunocydtiimh:::txtsize
+Niunocydtiimh:::txtsize --> Nixilbrrsreua:::txtsize
+Nixilbrrsreua:::txtsize --> BnmosaAtoppubsg:::txtsize
+PoainidaBie:::txtsize --> Niunocydtiimh:::txtsize
+Niunocydtiimh:::txtsize --> Nixilbrrsreua:::txtsize
+Nixilbrrsreua:::txtsize --> BnmosaAtoppubsg:::txtsize
 
-SceasiOhnt@{ shape: win-pane, label: "_Published Dec 08, 2025, 07:20 PM_
-Suspect arrested after shooting in oslo shopping centre" }
-peucrlnhctog@{ shape: win-pane, label: "_Published Dec 06, 2025, 06:51 PM_
-12 people, including 3 children, killed in south africa hostel shooting" }
-Tetiamciti@{ shape: win-pane, label: "_Published Jul 29, 2024, 11:50 PM_
-Teacher shot and killed at primary school in south africa" }
-SiPaeyednrr@{ shape: win-pane, label: "_Published Jun 08, 2024, 05:12 AM_
-Shooting at panama university leaves one dead, another injured" }
-Urnuehoogtsisudn@{ shape: win-pane, label: "_Published Dec 02, 2025, 07:04 AM_
-Us guardsman who survived washington shooting gives thumbs up, still in serious condition" }
-TsSzsdiisne@{ shape: win-pane, label: "_Published Dec 01, 2025, 08:40 AM_
-Trump says us freeze on asylum decisions will last ‘a long time’" }
-NnaowdihnyeSicrm@{ shape: win-pane, label: "_Published Nov 30, 2025, 11:06 PM_
-National guard shooter was radicalised while in us, says homeland security secretary noem" }
-Hrfrsymtgafgenyg@{ shape: win-pane, label: "_Published Dec 05, 2025, 10:30 PM_
-Harvard professor arrested by us immigration agents after firing pellet gun near synagogue" }
-TaiteoHrllfad@{ shape: win-pane, label: "_Published Sep 30, 2025, 07:47 AM_
-Trump administration seeks to make harvard ineligible for federal funding" }
-GngcoetnooT@{ shape: win-pane, label: "_Published Sep 29, 2025, 09:25 AM_
-Give in or fight back? us colleges are torn on how to respond to trump" }
-Hrrreizsoop@{ shape: win-pane, label: "_Published Sep 20, 2025, 09:20 AM_
-Harvard’s former president criticizes its approach to trump" }
-Taitgtttttns@{ shape: win-pane, label: "_Published Nov 29, 2025, 03:55 PM_
-Trump administration agrees to restore $1b to northwestern university" }
-HriIacsadlas@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:40 AM_
-Hackers strike us ivy league schools already under political pressure" }
-TosoeftugrtM@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:00 AM_
-Trump offers all colleges preferential funding plan rejected by mit" }
+EeaZslkoaciri@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:20 PM_
+European leaders, zelensky hold talks in london at ‘crucial’ time for ukraine" }
+ZsyaptwStita@{ shape: win-pane, label: "_Published Dec 08, 2025, 06:36 AM_
+Zelensky says ukraine’s peace talks with us constructive but not easy" }
+NaottirUk@{ shape: win-pane, label: "_Published Dec 07, 2025, 03:48 AM_
+No breakthrough at ‘constructive’ ukraine-us talks" }
+RansskerrocKa@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:11 PM_
+Russian drones, missiles hit ukraine power and transport sectors, kyiv says" }
+Fermekrnznn@{ shape: win-pane, label: "_Published Dec 07, 2025, 12:16 AM_
+France’s macron to meet zelensky, starmer and merz in london on dec 8" }
+NaottirUk@{ shape: win-pane, label: "_Published Dec 07, 2025, 03:48 AM_
+No breakthrough at ‘constructive’ ukraine-us talks" }
+RansskerrocKa@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:11 PM_
+Russian drones, missiles hit ukraine power and transport sectors, kyiv says" }
+Fermekrnznn@{ shape: win-pane, label: "_Published Dec 07, 2025, 12:16 AM_
+France’s macron to meet zelensky, starmer and merz in london on dec 8" }
+ZsyaptwStita@{ shape: win-pane, label: "_Published Dec 08, 2025, 06:36 AM_
+Zelensky says ukraine’s peace talks with us constructive but not easy" }
+NaottirUk@{ shape: win-pane, label: "_Published Dec 07, 2025, 03:48 AM_
+No breakthrough at ‘constructive’ ukraine-us talks" }
+RansskerrocKa@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:11 PM_
+Russian drones, missiles hit ukraine power and transport sectors, kyiv says" }
+Fermekrnznn@{ shape: win-pane, label: "_Published Dec 07, 2025, 12:16 AM_
+France’s macron to meet zelensky, starmer and merz in london on dec 8" }
+NaottirUk@{ shape: win-pane, label: "_Published Dec 07, 2025, 03:48 AM_
+No breakthrough at ‘constructive’ ukraine-us talks" }
+RansskerrocKa@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:11 PM_
+Russian drones, missiles hit ukraine power and transport sectors, kyiv says" }
+Fermekrnznn@{ shape: win-pane, label: "_Published Dec 07, 2025, 12:16 AM_
+France’s macron to meet zelensky, starmer and merz in london on dec 8" }
 
-SceasiOhnt:::txtsize --> peucrlnhctog:::txtsize
-peucrlnhctog:::txtsize --> Tetiamciti:::txtsize
-Tetiamciti:::txtsize --> SiPaeyednrr:::txtsize
-peucrlnhctog:::txtsize --> Urnuehoogtsisudn:::txtsize
-Urnuehoogtsisudn:::txtsize --> TsSzsdiisne:::txtsize
-Urnuehoogtsisudn:::txtsize --> NnaowdihnyeSicrm:::txtsize
-SceasiOhnt:::txtsize --> Hrfrsymtgafgenyg:::txtsize
-Hrfrsymtgafgenyg:::txtsize --> TaiteoHrllfad:::txtsize
-TaiteoHrllfad:::txtsize --> GngcoetnooT:::txtsize
-TaiteoHrllfad:::txtsize --> Hrrreizsoop:::txtsize
-Hrfrsymtgafgenyg:::txtsize --> Taitgtttttns:::txtsize
-Taitgtttttns:::txtsize --> HriIacsadlas:::txtsize
-Taitgtttttns:::txtsize --> TosoeftugrtM:::txtsize
+EeaZslkoaciri:::txtsize --> ZsyaptwStita:::txtsize
+ZsyaptwStita:::txtsize --> NaottirUk:::txtsize
+NaottirUk:::txtsize --> RansskerrocKa:::txtsize
+NaottirUk:::txtsize --> Fermekrnznn:::txtsize
+ZsyaptwStita:::txtsize --> NaottirUk:::txtsize
+NaottirUk:::txtsize --> RansskerrocKa:::txtsize
+NaottirUk:::txtsize --> Fermekrnznn:::txtsize
+EeaZslkoaciri:::txtsize --> ZsyaptwStita:::txtsize
+ZsyaptwStita:::txtsize --> NaottirUk:::txtsize
+NaottirUk:::txtsize --> RansskerrocKa:::txtsize
+NaottirUk:::txtsize --> Fermekrnznn:::txtsize
+ZsyaptwStita:::txtsize --> NaottirUk:::txtsize
+NaottirUk:::txtsize --> RansskerrocKa:::txtsize
+NaottirUk:::txtsize --> Fermekrnznn:::txtsize
 
 ```
-<i>Last updated: 2025-12-08 20:01:05.419584 (GMT+8)</i>
+<i>Last updated: 2025-12-09 00:00:28.234788 (GMT+8)</i>
 <!-- END -->
