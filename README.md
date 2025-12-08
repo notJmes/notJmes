@@ -16,120 +16,135 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Kdtneretpsl@{ shape: win-pane, label: "_Published Dec 08, 2025, 09:00 AM_
-Kennedy center honors fete performers, but trump takes spotlight" }
-TteeaohotvKdt@{ shape: win-pane, label: "_Published Feb 08, 2025, 09:30 AM_
-Trump to make himself head of top washington cultural venue kennedy centre" }
-TseoBsrln@{ shape: win-pane, label: "_Published Feb 08, 2025, 08:39 AM_
-Trump says he’s revoking biden’s security clearance" }
-SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
-Tseanccroytne@{ shape: win-pane, label: "_Published Feb 08, 2025, 01:34 AM_
-Trump says he will announce reciprocal tariffs on many countries next week" }
-Tseanccroytne@{ shape: win-pane, label: "_Published Feb 08, 2025, 01:34 AM_
-Trump says he will announce reciprocal tariffs on many countries next week" }
-TtcJtuhrtbcegIa@{ shape: win-pane, label: "_Published Feb 08, 2025, 03:00 AM_
-Trump touts close japan ties but pushes for ‘even’ trade balance in meeting with ishiba" }
-TpsfMoabta@{ shape: win-pane, label: "_Published Feb 04, 2025, 08:15 AM_
-Trump pauses tariffs on mexico and canada, but not china" }
-Tperoneisioh@{ shape: win-pane, label: "_Published Mar 18, 2025, 12:15 PM_
-Trump pledges overhaul of kennedy centre in first visit as board chair" }
-Tosifanidofia@{ shape: win-pane, label: "_Published Mar 15, 2025, 02:30 PM_
-Trump orders gutting of 7 federal agencies, including voice of america’s parent" }
-Ueurairede@{ shape: win-pane, label: "_Published Mar 14, 2025, 03:36 AM_
-Us federal judge orders agencies to rehire fired workers" }
-WHltsahlfenstcp@{ shape: win-pane, label: "_Published Mar 14, 2025, 06:31 PM_
-White house looks to press ahead with mass layoffs after agencies submit reduction plans" }
-TteeaohotvKdt@{ shape: win-pane, label: "_Published Feb 08, 2025, 09:30 AM_
-Trump to make himself head of top washington cultural venue kennedy centre" }
-TseoBsrln@{ shape: win-pane, label: "_Published Feb 08, 2025, 08:39 AM_
-Trump says he’s revoking biden’s security clearance" }
-Tseanccroytne@{ shape: win-pane, label: "_Published Feb 08, 2025, 01:34 AM_
-Trump says he will announce reciprocal tariffs on many countries next week" }
+Umlancapo@{ shape: win-pane, label: "_Published Dec 08, 2025, 02:35 PM_
+Un slams world’s ‘apathy’ in launching aid appeal for 2026" }
+Usierian@{ shape: win-pane, label: "_Published Dec 08, 2025, 01:06 PM_
+Un cuts its aid appeal for 2026 despite soaring need" }
+TfsoaeivtacWudfa@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:40 PM_
+Tens of thousands of gazans need medical evacuation, says doctors without borders official" }
+Eesnbrec@{ shape: win-pane, label: "_Published Sep 23, 2025, 04:20 PM_
+Europe talks big on gaza but struggles to act" }
+Goheuyelynksea@{ shape: win-pane, label: "_Published Nov 21, 2025, 07:44 PM_
+Gaza women, children injured by israeli military during shaky ceasefire, msf says" }
+UsloolAfoia@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:00 AM_
+Us sets 2027 deadline for europe to lead nato defence, officials say" }
+UnsnacastRa@{ shape: win-pane, label: "_Published Dec 05, 2025, 04:16 AM_
+Ukraine says it wants ‘real peace, not appeasement’ with russia" }
+Taitariisnaqitiia@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:21 AM_
+Trump administration says europe risks ‘civilisational erasure’, questions its reliability as ally" }
+UEedcrtldsdsf@{ shape: win-pane, label: "_Published Nov 18, 2025, 01:32 AM_
+Us and european aid cuts could result in 22.6 million deaths worldwide, study finds" }
+OinllfSidS@{ shape: win-pane, label: "_Published Jul 01, 2025, 08:32 AM_
+Over 14 million people could die from us foreign aid cuts: study" }
+Uwrgyeasuaaura@{ shape: win-pane, label: "_Published Feb 28, 2025, 01:14 AM_
+Usaid workers say goodbye to headquarters as trump drastically cuts foreign aid" }
+Ulvvinovaaotos@{ shape: win-pane, label: "_Published Jun 07, 2025, 05:56 AM_
+Us mulling over giving millions to controversial gaza aid foundation, sources say" }
+Aipeiisrsaile@{ shape: win-pane, label: "_Published Jul 02, 2025, 01:55 AM_
+As usaid stops foreign aid, rubio says future us assistance will be limited" }
+RsSpoige@{ shape: win-pane, label: "_Published Mar 10, 2025, 08:50 PM_
+Rubio says us scrapping 83% of usaid programmes" }
+OinllfSidS@{ shape: win-pane, label: "_Published Jul 01, 2025, 08:32 AM_
+Over 14 million people could die from us foreign aid cuts: study" }
 
-Kdtneretpsl:::txtsize --> TteeaohotvKdt:::txtsize
-TteeaohotvKdt:::txtsize --> TseoBsrln:::txtsize
-TseoBsrln:::txtsize --> SiUiinenWn:::txtsize
-TseoBsrln:::txtsize --> Tseanccroytne:::txtsize
-TteeaohotvKdt:::txtsize --> Tseanccroytne:::txtsize
-Tseanccroytne:::txtsize --> TtcJtuhrtbcegIa:::txtsize
-Tseanccroytne:::txtsize --> TpsfMoabta:::txtsize
-Kdtneretpsl:::txtsize --> Tperoneisioh:::txtsize
-Tperoneisioh:::txtsize --> Tosifanidofia:::txtsize
-Tosifanidofia:::txtsize --> Ueurairede:::txtsize
-Tosifanidofia:::txtsize --> WHltsahlfenstcp:::txtsize
-Tperoneisioh:::txtsize --> TteeaohotvKdt:::txtsize
-TteeaohotvKdt:::txtsize --> TseoBsrln:::txtsize
-TteeaohotvKdt:::txtsize --> Tseanccroytne:::txtsize
+Umlancapo:::txtsize --> Usierian:::txtsize
+Usierian:::txtsize --> TfsoaeivtacWudfa:::txtsize
+TfsoaeivtacWudfa:::txtsize --> Eesnbrec:::txtsize
+TfsoaeivtacWudfa:::txtsize --> Goheuyelynksea:::txtsize
+Usierian:::txtsize --> UsloolAfoia:::txtsize
+UsloolAfoia:::txtsize --> UnsnacastRa:::txtsize
+UsloolAfoia:::txtsize --> Taitariisnaqitiia:::txtsize
+Umlancapo:::txtsize --> UEedcrtldsdsf:::txtsize
+UEedcrtldsdsf:::txtsize --> OinllfSidS:::txtsize
+OinllfSidS:::txtsize --> Uwrgyeasuaaura:::txtsize
+OinllfSidS:::txtsize --> Ulvvinovaaotos:::txtsize
+UEedcrtldsdsf:::txtsize --> Aipeiisrsaile:::txtsize
+Aipeiisrsaile:::txtsize --> RsSpoige:::txtsize
+Aipeiisrsaile:::txtsize --> OinllfSidS:::txtsize
 
-Tsleiodnarera@{ shape: win-pane, label: "_Published Dec 08, 2025, 08:55 AM_
-Trump says ‘a little bit disappointed’ zelensky has not read peace proposal" }
-NaottirUk@{ shape: win-pane, label: "_Published Dec 07, 2025, 03:48 AM_
-No breakthrough at ‘constructive’ ukraine-us talks" }
-RansskerrocKa@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:11 PM_
-Russian drones, missiles hit ukraine power and transport sectors, kyiv says" }
+Usierian@{ shape: win-pane, label: "_Published Dec 08, 2025, 01:06 PM_
+Un cuts its aid appeal for 2026 despite soaring need" }
+TfsoaeivtacWudfa@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:40 PM_
+Tens of thousands of gazans need medical evacuation, says doctors without borders official" }
+Eesnbrec@{ shape: win-pane, label: "_Published Sep 23, 2025, 04:20 PM_
+Europe talks big on gaza but struggles to act" }
+Eihudctfsmoeina@{ shape: win-pane, label: "_Published Sep 22, 2025, 01:41 AM_
+Explainer: what would wider recognition of palestine mean for palestinians and israel?" }
+Goheuyelynksea@{ shape: win-pane, label: "_Published Nov 21, 2025, 07:44 PM_
+Gaza women, children injured by israeli military during shaky ceasefire, msf says" }
+Tafdiahesle@{ shape: win-pane, label: "_Published Aug 18, 2025, 05:35 PM_
+The trauma of childhood in gaza: no school, few toys, little hope" }
+IlselsaGansec@{ shape: win-pane, label: "_Published Nov 20, 2025, 01:13 AM_
+Israeli air strikes kill 25 palestinians in gaza, rattling ceasefire, medics say" }
+UsloolAfoia@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:00 AM_
+Us sets 2027 deadline for europe to lead nato defence, officials say" }
+UnsnacastRa@{ shape: win-pane, label: "_Published Dec 05, 2025, 04:16 AM_
+Ukraine says it wants ‘real peace, not appeasement’ with russia" }
 Ntoaanrrotra@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:38 AM_
 Next steps for ukraine talks unclear after moscow meeting, trump says" }
-Unyrlearthde@{ shape: win-pane, label: "_Published Dec 06, 2025, 10:16 AM_
-Un agency says chornobyl nuclear plant’s protective shield damaged" }
-Fermekrnznn@{ shape: win-pane, label: "_Published Dec 07, 2025, 12:16 AM_
-France’s macron to meet zelensky, starmer and merz in london on dec 8" }
-RansskerrocKa@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:11 PM_
-Russian drones, missiles hit ukraine power and transport sectors, kyiv says" }
-Unphnanpiserttg@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:01 PM_
-Ukraine’s zaporizhzhia nuclear plant temporarily lost power overnight, un watchdog says" }
-NaottirUk@{ shape: win-pane, label: "_Published Dec 07, 2025, 03:48 AM_
-No breakthrough at ‘constructive’ ukraine-us talks" }
-RansskerrocKa@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:11 PM_
-Russian drones, missiles hit ukraine power and transport sectors, kyiv says" }
-Ntoaanrrotra@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:38 AM_
-Next steps for ukraine talks unclear after moscow meeting, trump says" }
-Unyrlearthde@{ shape: win-pane, label: "_Published Dec 06, 2025, 10:16 AM_
-Un agency says chornobyl nuclear plant’s protective shield damaged" }
-Fermekrnznn@{ shape: win-pane, label: "_Published Dec 07, 2025, 12:16 AM_
-France’s macron to meet zelensky, starmer and merz in london on dec 8" }
-RansskerrocKa@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:11 PM_
-Russian drones, missiles hit ukraine power and transport sectors, kyiv says" }
-Unphnanpiserttg@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:01 PM_
-Ukraine’s zaporizhzhia nuclear plant temporarily lost power overnight, un watchdog says" }
+Dssernlpoiirdr@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:50 AM_
+Drones were spotted near zelensky flight path to dublin, media in ireland report" }
+Taitariisnaqitiia@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:21 AM_
+Trump administration says europe risks ‘civilisational erasure’, questions its reliability as ally" }
+VakrvaUnkusinn@{ shape: win-pane, label: "_Published Feb 15, 2025, 07:44 AM_
+Vance attack on europe overshadows ukraine talks at munich security conference" }
+EeainletovrRt@{ shape: win-pane, label: "_Published Dec 04, 2025, 09:15 PM_
+European leaders in phone call voiced distrust of us over ukraine: report" }
 
-Tsleiodnarera:::txtsize --> NaottirUk:::txtsize
-NaottirUk:::txtsize --> RansskerrocKa:::txtsize
-RansskerrocKa:::txtsize --> Ntoaanrrotra:::txtsize
-RansskerrocKa:::txtsize --> Unyrlearthde:::txtsize
-NaottirUk:::txtsize --> Fermekrnznn:::txtsize
-Fermekrnznn:::txtsize --> RansskerrocKa:::txtsize
-Fermekrnznn:::txtsize --> Unphnanpiserttg:::txtsize
-Tsleiodnarera:::txtsize --> NaottirUk:::txtsize
-NaottirUk:::txtsize --> RansskerrocKa:::txtsize
-RansskerrocKa:::txtsize --> Ntoaanrrotra:::txtsize
-RansskerrocKa:::txtsize --> Unyrlearthde:::txtsize
-NaottirUk:::txtsize --> Fermekrnznn:::txtsize
-Fermekrnznn:::txtsize --> RansskerrocKa:::txtsize
-Fermekrnznn:::txtsize --> Unphnanpiserttg:::txtsize
+Usierian:::txtsize --> TfsoaeivtacWudfa:::txtsize
+TfsoaeivtacWudfa:::txtsize --> Eesnbrec:::txtsize
+Eesnbrec:::txtsize --> Eihudctfsmoeina:::txtsize
+TfsoaeivtacWudfa:::txtsize --> Goheuyelynksea:::txtsize
+Goheuyelynksea:::txtsize --> Tafdiahesle:::txtsize
+Goheuyelynksea:::txtsize --> IlselsaGansec:::txtsize
+Usierian:::txtsize --> UsloolAfoia:::txtsize
+UsloolAfoia:::txtsize --> UnsnacastRa:::txtsize
+UnsnacastRa:::txtsize --> Ntoaanrrotra:::txtsize
+UnsnacastRa:::txtsize --> Dssernlpoiirdr:::txtsize
+UsloolAfoia:::txtsize --> Taitariisnaqitiia:::txtsize
+Taitariisnaqitiia:::txtsize --> VakrvaUnkusinn:::txtsize
+Taitariisnaqitiia:::txtsize --> EeainletovrRt:::txtsize
 
-TseivrwtWrhe@{ shape: win-pane, label: "_Published Dec 08, 2025, 08:40 AM_
-Trump says he’ll be involved in review of netflix-warner brothers deal" }
-Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
-Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
-Nixilbrrsreua@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:40 PM_
-Netflix in exclusive talks to buy warner bros discovery assets, source says" }
-BnmosaAtoppubsg@{ shape: win-pane, label: "_Published Dec 04, 2025, 02:29 PM_
-Bad bunny named spotify’s global top artiste in 2025, rose’s apt. is apple music’s biggest song" }
-NiaiWrwenoo@{ shape: win-pane, label: "_Published Dec 07, 2025, 06:20 PM_
-Netflix’s swallowing of warner bros will be the end of hollywood" }
-Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
-Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
-Nixilbrrsreua@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:40 PM_
-Netflix in exclusive talks to buy warner bros discovery assets, source says" }
+Tsulfrhtw@{ shape: win-pane, label: "_Published Dec 08, 2025, 12:40 PM_
+Trump set to unveil $15.5b aid for farmers hit by trade war" }
+Uroeseieom@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:05 AM_
+Us supreme court revives pro-republican texas voting map" }
+Uriopcdigxnsl@{ shape: win-pane, label: "_Published Nov 19, 2025, 03:29 AM_
+Us court strikes down republican redistricting of texas congressional map" }
+TRlsoucosattami@{ shape: win-pane, label: "_Published Aug 21, 2025, 02:11 AM_
+Texas republicans approve trump-backed congressional map to protect party’s majority" }
+TRlsoucosattami@{ shape: win-pane, label: "_Published Aug 21, 2025, 02:11 AM_
+Texas republicans approve trump-backed congressional map to protect party’s majority" }
+TRlsoucosattami@{ shape: win-pane, label: "_Published Aug 21, 2025, 02:11 AM_
+Texas republicans approve trump-backed congressional map to protect party’s majority" }
+WHlhkctTsgoi@{ shape: win-pane, label: "_Published Aug 20, 2025, 06:19 AM_
+White house launches tiktok account with trump saying ‘i am your voice’" }
+Tboabiisuo@{ shape: win-pane, label: "_Published Aug 21, 2025, 01:19 AM_
+Trump buys more than $128m in bonds in office, disclosure shows" }
+CsteynSosee@{ shape: win-pane, label: "_Published Sep 19, 2025, 09:32 AM_
+China seeks trade edge by shunning us soy for first time since 1990s" }
+CssuiaUc@{ shape: win-pane, label: "_Published Sep 19, 2025, 05:00 AM_
+China’s ships are out of sight. can the us catch up?" }
+SKbienuUpdor@{ shape: win-pane, label: "_Published Aug 26, 2025, 11:27 AM_
+South korea bets big on reviving troubled us shipbuilding to woo trump" }
+TwskoisC@{ shape: win-pane, label: "_Published Sep 13, 2025, 12:58 PM_
+Trump weighs crackdown on medicines from china" }
+Tshtfog@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:50 PM_
+Trump says pharma tariff may go as high as 250%" }
 
-TseivrwtWrhe:::txtsize --> Niunocydtiimh:::txtsize
-Niunocydtiimh:::txtsize --> Nixilbrrsreua:::txtsize
-Nixilbrrsreua:::txtsize --> BnmosaAtoppubsg:::txtsize
-TseivrwtWrhe:::txtsize --> NiaiWrwenoo:::txtsize
-NiaiWrwenoo:::txtsize --> Niunocydtiimh:::txtsize
-Niunocydtiimh:::txtsize --> Nixilbrrsreua:::txtsize
+Tsulfrhtw:::txtsize --> Uroeseieom:::txtsize
+Uroeseieom:::txtsize --> Uriopcdigxnsl:::txtsize
+Uriopcdigxnsl:::txtsize --> TRlsoucosattami:::txtsize
+Uriopcdigxnsl:::txtsize --> TRlsoucosattami:::txtsize
+Uroeseieom:::txtsize --> TRlsoucosattami:::txtsize
+TRlsoucosattami:::txtsize --> WHlhkctTsgoi:::txtsize
+TRlsoucosattami:::txtsize --> Tboabiisuo:::txtsize
+Tsulfrhtw:::txtsize --> CsteynSosee:::txtsize
+CsteynSosee:::txtsize --> CssuiaUc:::txtsize
+CssuiaUc:::txtsize --> SKbienuUpdor:::txtsize
+CsteynSosee:::txtsize --> TwskoisC:::txtsize
+TwskoisC:::txtsize --> Tshtfog:::txtsize
 
 ```
-<i>Last updated: 2025-12-08 12:01:03.541296 (GMT+8)</i>
+<i>Last updated: 2025-12-08 16:00:36.129537 (GMT+8)</i>
 <!-- END -->
