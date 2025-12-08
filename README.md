@@ -16,135 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Umlancapo@{ shape: win-pane, label: "_Published Dec 08, 2025, 02:35 PM_
-Un slams world’s ‘apathy’ in launching aid appeal for 2026" }
-Usierian@{ shape: win-pane, label: "_Published Dec 08, 2025, 01:06 PM_
-Un cuts its aid appeal for 2026 despite soaring need" }
-TfsoaeivtacWudfa@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:40 PM_
-Tens of thousands of gazans need medical evacuation, says doctors without borders official" }
-Eesnbrec@{ shape: win-pane, label: "_Published Sep 23, 2025, 04:20 PM_
-Europe talks big on gaza but struggles to act" }
-Goheuyelynksea@{ shape: win-pane, label: "_Published Nov 21, 2025, 07:44 PM_
-Gaza women, children injured by israeli military during shaky ceasefire, msf says" }
-UsloolAfoia@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:00 AM_
-Us sets 2027 deadline for europe to lead nato defence, officials say" }
-UnsnacastRa@{ shape: win-pane, label: "_Published Dec 05, 2025, 04:16 AM_
-Ukraine says it wants ‘real peace, not appeasement’ with russia" }
-Taitariisnaqitiia@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:21 AM_
-Trump administration says europe risks ‘civilisational erasure’, questions its reliability as ally" }
-UEedcrtldsdsf@{ shape: win-pane, label: "_Published Nov 18, 2025, 01:32 AM_
-Us and european aid cuts could result in 22.6 million deaths worldwide, study finds" }
-OinllfSidS@{ shape: win-pane, label: "_Published Jul 01, 2025, 08:32 AM_
-Over 14 million people could die from us foreign aid cuts: study" }
-Uwrgyeasuaaura@{ shape: win-pane, label: "_Published Feb 28, 2025, 01:14 AM_
-Usaid workers say goodbye to headquarters as trump drastically cuts foreign aid" }
-Ulvvinovaaotos@{ shape: win-pane, label: "_Published Jun 07, 2025, 05:56 AM_
-Us mulling over giving millions to controversial gaza aid foundation, sources say" }
-Aipeiisrsaile@{ shape: win-pane, label: "_Published Jul 02, 2025, 01:55 AM_
-As usaid stops foreign aid, rubio says future us assistance will be limited" }
-RsSpoige@{ shape: win-pane, label: "_Published Mar 10, 2025, 08:50 PM_
-Rubio says us scrapping 83% of usaid programmes" }
-OinllfSidS@{ shape: win-pane, label: "_Published Jul 01, 2025, 08:32 AM_
-Over 14 million people could die from us foreign aid cuts: study" }
+Leenlogkt@{ shape: win-pane, label: "_Published Dec 08, 2025, 07:40 PM_
+Louvre trade unions call for rolling strike next week" }
+Wltsrembapausrt@{ shape: win-pane, label: "_Published Dec 08, 2025, 12:01 AM_
+Water leak at paris’ louvre museum damages books at egyptian antiquities department" }
+Leteidlaerrsl@{ shape: win-pane, label: "_Published Oct 22, 2025, 02:52 AM_
+Louvre heist losses estimated at $133 million as museum director faces grilling" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
+Paris’ louvre museum robbery: what jewels did the thieves steal?" }
+Leulytsisturs@{ shape: win-pane, label: "_Published Nov 06, 2025, 05:30 PM_
+Louvre museum will need years to fix security issues, state auditor finds" }
+Letotmsrsioty@{ shape: win-pane, label: "_Published Nov 02, 2025, 09:46 PM_
+Louvre heist work of petty criminals, not organised crime, prosecutor says" }
+Wltsrembapausrt@{ shape: win-pane, label: "_Published Dec 08, 2025, 12:01 AM_
+Water leak at paris’ louvre museum damages books at egyptian antiquities department" }
+Leteidlaerrsl@{ shape: win-pane, label: "_Published Oct 22, 2025, 02:52 AM_
+Louvre heist losses estimated at $133 million as museum director faces grilling" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
+Paris’ louvre museum robbery: what jewels did the thieves steal?" }
+Leulytsisturs@{ shape: win-pane, label: "_Published Nov 06, 2025, 05:30 PM_
+Louvre museum will need years to fix security issues, state auditor finds" }
+Letotmsrsioty@{ shape: win-pane, label: "_Published Nov 02, 2025, 09:46 PM_
+Louvre heist work of petty criminals, not organised crime, prosecutor says" }
 
-Umlancapo:::txtsize --> Usierian:::txtsize
-Usierian:::txtsize --> TfsoaeivtacWudfa:::txtsize
-TfsoaeivtacWudfa:::txtsize --> Eesnbrec:::txtsize
-TfsoaeivtacWudfa:::txtsize --> Goheuyelynksea:::txtsize
-Usierian:::txtsize --> UsloolAfoia:::txtsize
-UsloolAfoia:::txtsize --> UnsnacastRa:::txtsize
-UsloolAfoia:::txtsize --> Taitariisnaqitiia:::txtsize
-Umlancapo:::txtsize --> UEedcrtldsdsf:::txtsize
-UEedcrtldsdsf:::txtsize --> OinllfSidS:::txtsize
-OinllfSidS:::txtsize --> Uwrgyeasuaaura:::txtsize
-OinllfSidS:::txtsize --> Ulvvinovaaotos:::txtsize
-UEedcrtldsdsf:::txtsize --> Aipeiisrsaile:::txtsize
-Aipeiisrsaile:::txtsize --> RsSpoige:::txtsize
-Aipeiisrsaile:::txtsize --> OinllfSidS:::txtsize
+Leenlogkt:::txtsize --> Wltsrembapausrt:::txtsize
+Wltsrembapausrt:::txtsize --> Leteidlaerrsl:::txtsize
+Leteidlaerrsl:::txtsize --> Ptineluiisey:::txtsize
+Leteidlaerrsl:::txtsize --> PLeubhwitea:::txtsize
+Wltsrembapausrt:::txtsize --> Leulytsisturs:::txtsize
+Leulytsisturs:::txtsize --> Letotmsrsioty:::txtsize
+Leenlogkt:::txtsize --> Wltsrembapausrt:::txtsize
+Wltsrembapausrt:::txtsize --> Leteidlaerrsl:::txtsize
+Leteidlaerrsl:::txtsize --> Ptineluiisey:::txtsize
+Leteidlaerrsl:::txtsize --> PLeubhwitea:::txtsize
+Wltsrembapausrt:::txtsize --> Leulytsisturs:::txtsize
+Leulytsisturs:::txtsize --> Letotmsrsioty:::txtsize
 
-Usierian@{ shape: win-pane, label: "_Published Dec 08, 2025, 01:06 PM_
-Un cuts its aid appeal for 2026 despite soaring need" }
-TfsoaeivtacWudfa@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:40 PM_
-Tens of thousands of gazans need medical evacuation, says doctors without borders official" }
-Eesnbrec@{ shape: win-pane, label: "_Published Sep 23, 2025, 04:20 PM_
-Europe talks big on gaza but struggles to act" }
-Eihudctfsmoeina@{ shape: win-pane, label: "_Published Sep 22, 2025, 01:41 AM_
-Explainer: what would wider recognition of palestine mean for palestinians and israel?" }
-Goheuyelynksea@{ shape: win-pane, label: "_Published Nov 21, 2025, 07:44 PM_
-Gaza women, children injured by israeli military during shaky ceasefire, msf says" }
-Tafdiahesle@{ shape: win-pane, label: "_Published Aug 18, 2025, 05:35 PM_
-The trauma of childhood in gaza: no school, few toys, little hope" }
-IlselsaGansec@{ shape: win-pane, label: "_Published Nov 20, 2025, 01:13 AM_
-Israeli air strikes kill 25 palestinians in gaza, rattling ceasefire, medics say" }
-UsloolAfoia@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:00 AM_
-Us sets 2027 deadline for europe to lead nato defence, officials say" }
-UnsnacastRa@{ shape: win-pane, label: "_Published Dec 05, 2025, 04:16 AM_
-Ukraine says it wants ‘real peace, not appeasement’ with russia" }
-Ntoaanrrotra@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:38 AM_
-Next steps for ukraine talks unclear after moscow meeting, trump says" }
-Dssernlpoiirdr@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:50 AM_
-Drones were spotted near zelensky flight path to dublin, media in ireland report" }
-Taitariisnaqitiia@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:21 AM_
-Trump administration says europe risks ‘civilisational erasure’, questions its reliability as ally" }
-VakrvaUnkusinn@{ shape: win-pane, label: "_Published Feb 15, 2025, 07:44 AM_
-Vance attack on europe overshadows ukraine talks at munich security conference" }
-EeainletovrRt@{ shape: win-pane, label: "_Published Dec 04, 2025, 09:15 PM_
-European leaders in phone call voiced distrust of us over ukraine: report" }
+Gleminatidit@{ shape: win-pane, label: "_Published Dec 08, 2025, 07:22 PM_
+Global leaders commit $2.46 billion to eradicate polio amid funding cuts" }
+TosimoeOio@{ shape: win-pane, label: "_Published Jan 21, 2025, 10:06 AM_
+Trump orders us exit from the world health organisation" }
+TsnmaUdilhh@{ shape: win-pane, label: "_Published Jan 12, 2025, 11:36 PM_
+Trump’s second term threatens us leadership on global health" }
+TtitlSoofhriorey@{ shape: win-pane, label: "_Published Dec 24, 2024, 01:59 AM_
+Trump transition team plans us pull out from who from the start of his second term, expert says" }
+Egolieoiaugy@{ shape: win-pane, label: "_Published Oct 21, 2025, 11:11 PM_
+Ending polio still possible, health officials say, as funding cut by 30%" }
+UiapecnsH@{ shape: win-pane, label: "_Published Mar 03, 2025, 08:15 PM_
+Us actions may set polio eradication back, says who" }
+UeoeOioas@{ shape: win-pane, label: "_Published Jan 24, 2025, 05:57 AM_
+Us to leave world health organisation on jan 22, 2026, says un" }
+PsclgzsioeW@{ shape: win-pane, label: "_Published Feb 19, 2025, 11:07 PM_
+Polio still circulating in gaza, mass vaccination to resume: who" }
+Wycedoscnau@{ shape: win-pane, label: "_Published May 21, 2025, 01:05 AM_
+Who says vaccine-derived poliovirus detected in papua new guinea" }
+CteHeafl@{ shape: win-pane, label: "_Published May 20, 2025, 09:59 PM_
+China to give $648m to who in next 5 years, official says" }
+UlcrJlmuaberttt@{ shape: win-pane, label: "_Published May 20, 2025, 08:45 PM_
+Us health secretary rfk jr calls who ‘moribund’ in assembly speech, urges others to quit" }
 
-Usierian:::txtsize --> TfsoaeivtacWudfa:::txtsize
-TfsoaeivtacWudfa:::txtsize --> Eesnbrec:::txtsize
-Eesnbrec:::txtsize --> Eihudctfsmoeina:::txtsize
-TfsoaeivtacWudfa:::txtsize --> Goheuyelynksea:::txtsize
-Goheuyelynksea:::txtsize --> Tafdiahesle:::txtsize
-Goheuyelynksea:::txtsize --> IlselsaGansec:::txtsize
-Usierian:::txtsize --> UsloolAfoia:::txtsize
-UsloolAfoia:::txtsize --> UnsnacastRa:::txtsize
-UnsnacastRa:::txtsize --> Ntoaanrrotra:::txtsize
-UnsnacastRa:::txtsize --> Dssernlpoiirdr:::txtsize
-UsloolAfoia:::txtsize --> Taitariisnaqitiia:::txtsize
-Taitariisnaqitiia:::txtsize --> VakrvaUnkusinn:::txtsize
-Taitariisnaqitiia:::txtsize --> EeainletovrRt:::txtsize
+Gleminatidit:::txtsize --> TosimoeOio:::txtsize
+TosimoeOio:::txtsize --> TsnmaUdilhh:::txtsize
+TsnmaUdilhh:::txtsize --> TtitlSoofhriorey:::txtsize
+Gleminatidit:::txtsize --> Egolieoiaugy:::txtsize
+Egolieoiaugy:::txtsize --> UiapecnsH:::txtsize
+UiapecnsH:::txtsize --> UeoeOioas:::txtsize
+UiapecnsH:::txtsize --> PsclgzsioeW:::txtsize
+Egolieoiaugy:::txtsize --> Wycedoscnau:::txtsize
+Wycedoscnau:::txtsize --> CteHeafl:::txtsize
+Wycedoscnau:::txtsize --> UlcrJlmuaberttt:::txtsize
 
-Tsulfrhtw@{ shape: win-pane, label: "_Published Dec 08, 2025, 12:40 PM_
-Trump set to unveil $15.5b aid for farmers hit by trade war" }
-Uroeseieom@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:05 AM_
-Us supreme court revives pro-republican texas voting map" }
-Uriopcdigxnsl@{ shape: win-pane, label: "_Published Nov 19, 2025, 03:29 AM_
-Us court strikes down republican redistricting of texas congressional map" }
-TRlsoucosattami@{ shape: win-pane, label: "_Published Aug 21, 2025, 02:11 AM_
-Texas republicans approve trump-backed congressional map to protect party’s majority" }
-TRlsoucosattami@{ shape: win-pane, label: "_Published Aug 21, 2025, 02:11 AM_
-Texas republicans approve trump-backed congressional map to protect party’s majority" }
-TRlsoucosattami@{ shape: win-pane, label: "_Published Aug 21, 2025, 02:11 AM_
-Texas republicans approve trump-backed congressional map to protect party’s majority" }
-WHlhkctTsgoi@{ shape: win-pane, label: "_Published Aug 20, 2025, 06:19 AM_
-White house launches tiktok account with trump saying ‘i am your voice’" }
-Tboabiisuo@{ shape: win-pane, label: "_Published Aug 21, 2025, 01:19 AM_
-Trump buys more than $128m in bonds in office, disclosure shows" }
-CsteynSosee@{ shape: win-pane, label: "_Published Sep 19, 2025, 09:32 AM_
-China seeks trade edge by shunning us soy for first time since 1990s" }
-CssuiaUc@{ shape: win-pane, label: "_Published Sep 19, 2025, 05:00 AM_
-China’s ships are out of sight. can the us catch up?" }
-SKbienuUpdor@{ shape: win-pane, label: "_Published Aug 26, 2025, 11:27 AM_
-South korea bets big on reviving troubled us shipbuilding to woo trump" }
-TwskoisC@{ shape: win-pane, label: "_Published Sep 13, 2025, 12:58 PM_
-Trump weighs crackdown on medicines from china" }
-Tshtfog@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:50 PM_
-Trump says pharma tariff may go as high as 250%" }
+SceasiOhnt@{ shape: win-pane, label: "_Published Dec 08, 2025, 07:20 PM_
+Suspect arrested after shooting in oslo shopping centre" }
+peucrlnhctog@{ shape: win-pane, label: "_Published Dec 06, 2025, 06:51 PM_
+12 people, including 3 children, killed in south africa hostel shooting" }
+Tetiamciti@{ shape: win-pane, label: "_Published Jul 29, 2024, 11:50 PM_
+Teacher shot and killed at primary school in south africa" }
+SiPaeyednrr@{ shape: win-pane, label: "_Published Jun 08, 2024, 05:12 AM_
+Shooting at panama university leaves one dead, another injured" }
+Urnuehoogtsisudn@{ shape: win-pane, label: "_Published Dec 02, 2025, 07:04 AM_
+Us guardsman who survived washington shooting gives thumbs up, still in serious condition" }
+TsSzsdiisne@{ shape: win-pane, label: "_Published Dec 01, 2025, 08:40 AM_
+Trump says us freeze on asylum decisions will last ‘a long time’" }
+NnaowdihnyeSicrm@{ shape: win-pane, label: "_Published Nov 30, 2025, 11:06 PM_
+National guard shooter was radicalised while in us, says homeland security secretary noem" }
+Hrfrsymtgafgenyg@{ shape: win-pane, label: "_Published Dec 05, 2025, 10:30 PM_
+Harvard professor arrested by us immigration agents after firing pellet gun near synagogue" }
+TaiteoHrllfad@{ shape: win-pane, label: "_Published Sep 30, 2025, 07:47 AM_
+Trump administration seeks to make harvard ineligible for federal funding" }
+GngcoetnooT@{ shape: win-pane, label: "_Published Sep 29, 2025, 09:25 AM_
+Give in or fight back? us colleges are torn on how to respond to trump" }
+Hrrreizsoop@{ shape: win-pane, label: "_Published Sep 20, 2025, 09:20 AM_
+Harvard’s former president criticizes its approach to trump" }
+Taitgtttttns@{ shape: win-pane, label: "_Published Nov 29, 2025, 03:55 PM_
+Trump administration agrees to restore $1b to northwestern university" }
+HriIacsadlas@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:40 AM_
+Hackers strike us ivy league schools already under political pressure" }
+TosoeftugrtM@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:00 AM_
+Trump offers all colleges preferential funding plan rejected by mit" }
 
-Tsulfrhtw:::txtsize --> Uroeseieom:::txtsize
-Uroeseieom:::txtsize --> Uriopcdigxnsl:::txtsize
-Uriopcdigxnsl:::txtsize --> TRlsoucosattami:::txtsize
-Uriopcdigxnsl:::txtsize --> TRlsoucosattami:::txtsize
-Uroeseieom:::txtsize --> TRlsoucosattami:::txtsize
-TRlsoucosattami:::txtsize --> WHlhkctTsgoi:::txtsize
-TRlsoucosattami:::txtsize --> Tboabiisuo:::txtsize
-Tsulfrhtw:::txtsize --> CsteynSosee:::txtsize
-CsteynSosee:::txtsize --> CssuiaUc:::txtsize
-CssuiaUc:::txtsize --> SKbienuUpdor:::txtsize
-CsteynSosee:::txtsize --> TwskoisC:::txtsize
-TwskoisC:::txtsize --> Tshtfog:::txtsize
+SceasiOhnt:::txtsize --> peucrlnhctog:::txtsize
+peucrlnhctog:::txtsize --> Tetiamciti:::txtsize
+Tetiamciti:::txtsize --> SiPaeyednrr:::txtsize
+peucrlnhctog:::txtsize --> Urnuehoogtsisudn:::txtsize
+Urnuehoogtsisudn:::txtsize --> TsSzsdiisne:::txtsize
+Urnuehoogtsisudn:::txtsize --> NnaowdihnyeSicrm:::txtsize
+SceasiOhnt:::txtsize --> Hrfrsymtgafgenyg:::txtsize
+Hrfrsymtgafgenyg:::txtsize --> TaiteoHrllfad:::txtsize
+TaiteoHrllfad:::txtsize --> GngcoetnooT:::txtsize
+TaiteoHrllfad:::txtsize --> Hrrreizsoop:::txtsize
+Hrfrsymtgafgenyg:::txtsize --> Taitgtttttns:::txtsize
+Taitgtttttns:::txtsize --> HriIacsadlas:::txtsize
+Taitgtttttns:::txtsize --> TosoeftugrtM:::txtsize
 
 ```
-<i>Last updated: 2025-12-08 16:00:36.129537 (GMT+8)</i>
+<i>Last updated: 2025-12-08 20:01:05.419584 (GMT+8)</i>
 <!-- END -->
