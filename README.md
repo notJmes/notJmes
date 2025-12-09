@@ -16,123 +16,129 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Uoaonrcsegnn@{ shape: win-pane, label: "_Published Dec 09, 2025, 11:22 PM_
-Us imposes sanctions on network it accuses of fuelling war in sudan" }
-NeuwnthcdeTaes@{ shape: win-pane, label: "_Published Nov 26, 2025, 06:48 AM_
-Neither of sudan’s warring factions has accepted truce plan, trump adviser says" }
-Unotsilnpnd@{ shape: win-pane, label: "_Published Nov 22, 2025, 09:48 PM_
-Ukraine, us to start talks in switzerland on trump’s plan to end war" }
-Unorestler@{ shape: win-pane, label: "_Published Nov 22, 2025, 08:11 PM_
-Ukraine, europe scramble to respond to us plan to end war" }
-Pgtsturiti@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:00 PM_
-Pm wong to attend g-20 summit in south africa, visit ethiopia" }
-TsSwoautiiq@{ shape: win-pane, label: "_Published Nov 20, 2025, 03:48 AM_
-Trump says us will work to end war in sudan at saudi arabia’s request" }
-Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
-Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
-Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
-What does trump’s gaza peace plan promise?" }
-Ssgtrahiase@{ shape: win-pane, label: "_Published Nov 07, 2025, 03:55 PM_
-Sudan’s rsf agrees to us proposal for humanitarian ceasefire" }
-Ncstnebsseili@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:09 PM_
-‘no one could stop it’: sudanese describe mass rapes while fleeing fallen city" }
-Sinayitrsld@{ shape: win-pane, label: "_Published Nov 01, 2025, 04:19 PM_
-Sudan is being ravaged by a civil war the world has overlooked" }
-Svtsbndrnseldca@{ shape: win-pane, label: "_Published Nov 03, 2025, 10:01 PM_
-Sudan volunteers shown beaten in video were among those later killed, red crescent says" }
-Svtsbndrnseldca@{ shape: win-pane, label: "_Published Nov 03, 2025, 10:01 PM_
-Sudan volunteers shown beaten in video were among those later killed, red crescent says" }
-Nttggmigsnna@{ shape: win-pane, label: "_Published Nov 01, 2025, 05:45 PM_
-New satellite images suggest mass killings persist in sudan’s el-fasher" }
-Roasopnufeel@{ shape: win-pane, label: "_Published Nov 03, 2025, 06:21 PM_
-Red cross head says ‘history repeating’ in sudan after reported killings" }
+NItafhroehfeem@{ shape: win-pane, label: "_Published Dec 10, 2025, 03:07 AM_
+Nobel institute calls off machado press conference ahead of peace prize ceremony" }
+VuMdskecze@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:25 PM_
+Venezuela’s machado vows to make nobel peace prize ceremony" }
+Vuapiaaobiitloteb@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:47 AM_
+Venezuela says opposition leader machado will be ‘fugitive’ if she travels to norway to accept nobel" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+TfsztaaMort@{ shape: win-pane, label: "_Published Nov 17, 2025, 08:57 AM_
+Trump floats venezuela talks as us labels maduro a terrorist" }
+NPPwrnhetaT@{ shape: win-pane, label: "_Published Oct 10, 2025, 11:50 PM_
+Nobel peace prize winner corina machado dedicates award to trump" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+WHsoottioe@{ shape: win-pane, label: "_Published Oct 10, 2025, 08:43 PM_
+White house says nobel committee puts ‘politics over peace’" }
+Vuclshtdsnrri@{ shape: win-pane, label: "_Published Dec 08, 2025, 06:45 AM_
+Venezuela acknowledges death of detained opposition figure alfredo diaz" }
+NseldoPilr@{ shape: win-pane, label: "_Published Dec 05, 2025, 09:30 AM_
+New us strike on alleged drug boat in pacific kills four" }
+UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
+Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
+UmsvnoaTpealtoea@{ shape: win-pane, label: "_Published Dec 04, 2025, 06:50 AM_
+Us lawmakers want vote on war powers after trump pledges to launch land attack on venezuela ‘soon’" }
+UeefdikuoCbt@{ shape: win-pane, label: "_Published Dec 07, 2025, 06:51 AM_
+Us’ pete hegseth defends decision to kill survivors in caribbean strike" }
+Uirdotoeramzsho@{ shape: win-pane, label: "_Published Dec 02, 2025, 04:09 AM_
+Us admiral ordered follow-up strike on alleged drug boat from venezuela, says white house" }
 
-Uoaonrcsegnn:::txtsize --> NeuwnthcdeTaes:::txtsize
-NeuwnthcdeTaes:::txtsize --> Unotsilnpnd:::txtsize
-Unotsilnpnd:::txtsize --> Unorestler:::txtsize
-Unotsilnpnd:::txtsize --> Pgtsturiti:::txtsize
-NeuwnthcdeTaes:::txtsize --> TsSwoautiiq:::txtsize
-TsSwoautiiq:::txtsize --> Tdddnersdiinst:::txtsize
-TsSwoautiiq:::txtsize --> Wouaaam:::txtsize
-Uoaonrcsegnn:::txtsize --> Ssgtrahiase:::txtsize
-Ssgtrahiase:::txtsize --> Ncstnebsseili:::txtsize
-Ncstnebsseili:::txtsize --> Sinayitrsld:::txtsize
-Ncstnebsseili:::txtsize --> Svtsbndrnseldca:::txtsize
-Ssgtrahiase:::txtsize --> Svtsbndrnseldca:::txtsize
-Svtsbndrnseldca:::txtsize --> Nttggmigsnna:::txtsize
-Svtsbndrnseldca:::txtsize --> Roasopnufeel:::txtsize
+NItafhroehfeem:::txtsize --> VuMdskecze:::txtsize
+VuMdskecze:::txtsize --> Vuapiaaobiitloteb:::txtsize
+Vuapiaaobiitloteb:::txtsize --> Vuoilranhibai:::txtsize
+Vuapiaaobiitloteb:::txtsize --> TfsztaaMort:::txtsize
+VuMdskecze:::txtsize --> NPPwrnhetaT:::txtsize
+NPPwrnhetaT:::txtsize --> Vuoilranhibai:::txtsize
+NPPwrnhetaT:::txtsize --> WHsoottioe:::txtsize
+NItafhroehfeem:::txtsize --> Vuclshtdsnrri:::txtsize
+Vuclshtdsnrri:::txtsize --> NseldoPilr:::txtsize
+NseldoPilr:::txtsize --> UikperngutVura:::txtsize
+NseldoPilr:::txtsize --> UmsvnoaTpealtoea:::txtsize
+Vuclshtdsnrri:::txtsize --> UeefdikuoCbt:::txtsize
+UeefdikuoCbt:::txtsize --> Uirdotoeramzsho:::txtsize
 
-Aiveeawldsbsl@{ shape: win-pane, label: "_Published Dec 09, 2025, 11:12 PM_
-Austrian government presses ahead with planned headscarf ban in schools" }
-AiloztMmsacrsean@{ shape: win-pane, label: "_Published Jan 11, 2025, 02:02 PM_
-Activist malala yousafzai attends muslim girls’ education conference snubbed by taliban" }
-molnohhsTaue@{ shape: win-pane, label: "_Published Aug 15, 2024, 02:17 PM_
-1.4 million girls banned from afghan schools since taliban return: unesco" }
-Taknrohtaehth@{ shape: win-pane, label: "_Published Aug 14, 2024, 05:47 PM_
-Taliban marks 3rd anniversary of afghanistan’s takeover with military show" }
-Anoswiafian@{ shape: win-pane, label: "_Published Mar 20, 2024, 02:30 PM_
-Afghan schools restart, with girls barred for third year running" }
-Malinienlfpr@{ shape: win-pane, label: "_Published Aug 18, 2024, 05:50 PM_
-‘magical’ taylor swift concert is nobel winner malala’s first proper gig" }
-TrtttpetrLn@{ shape: win-pane, label: "_Published Aug 16, 2024, 12:10 AM_
-Taylor swift excitement eclipses security fears for london fans" }
-Trtrsidteot@{ shape: win-pane, label: "_Published Aug 15, 2024, 11:15 AM_
-Taylor swift returns to stage in london after vienna concert plot" }
-Nwulhineadtyncimi@{ shape: win-pane, label: "_Published Nov 28, 2025, 08:00 PM_
-New laws, tudung policy shift cited in s’pore’s update under un treaty against racial discrimination" }
-Iilsdeelueeamiohn@{ shape: win-pane, label: "_Published Oct 25, 2025, 06:00 PM_
-Identity politics will damage society in long run, have bigger impact on minority groups: chee hong tat" }
-SlWstIrncheo@{ shape: win-pane, label: "_Published Aug 02, 2024, 05:00 AM_
-St explains: what is the ethnic integration policy and how does it work?" }
-SconpihniSpsataa@{ shape: win-pane, label: "_Published Oct 14, 2025, 02:22 PM_
-Steer clear of identity politics, uphold integrity of singapore’s secular system: shanmugam" }
-RlraakabnineceuIu@{ shape: win-pane, label: "_Published Feb 03, 2025, 04:08 PM_
-Racial discrimination at work has fallen, but minorities continue to face more prejudice: ips study" }
-Rleorssiget@{ shape: win-pane, label: "_Published Feb 03, 2025, 04:00 PM_
-Racial and religious harmony scores rise in singapore: ips study" }
-Spneporisriiu@{ shape: win-pane, label: "_Published Feb 03, 2025, 09:35 PM_
-Singaporeans more accepting of all races in personal relationships: study" }
+Mrafsekedrn@{ shape: win-pane, label: "_Published Dec 10, 2025, 02:58 AM_
+Member of uk armed forces killed in ukraine accident, britain says" }
+Unlyreusaalbt@{ shape: win-pane, label: "_Published Dec 10, 2025, 12:42 AM_
+Ukraine’s zelensky says ‘refined documents’ on peace plan will soon be sent to us" }
+Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
+Us peace plan for ukraine drew from russian document, sources say" }
+Tsodirisohe@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:30 AM_
+Trump says no firm deadline for ukraine, russia to reach peace deal" }
+UnlyorpfStd@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:08 AM_
+Ukraine’s zelensky welcomes ‘principles’ of new us draft to end war" }
+Paotagerirsn@{ shape: win-pane, label: "_Published Dec 09, 2025, 06:27 PM_
+Pope calls for ‘just and lasting peace’ after meeting ukraine’s zelensky" }
+UnhedewScna@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:20 PM_
+Ukraine to share revised peace plan with us on dec 9, zelensky says" }
+UnhedewScna@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:20 PM_
+Ukraine to share revised peace plan with us on dec 9, zelensky says" }
+EseRaeciotrn@{ shape: win-pane, label: "_Published Dec 10, 2025, 01:42 AM_
+Eu close to deal on russian assets, dec 18 summit to go on until agreement" }
+EsnbnUndozsas@{ shape: win-pane, label: "_Published Oct 23, 2025, 11:00 PM_
+Eu vows financial backing for ukraine, holds off on frozen russian assets plan" }
+ErtkftassewUn@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:10 AM_
+Eu approves 19th package of sanctions against russia over its war in ukraine" }
+Ucsilrrionitncr@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:27 PM_
+Us sanctions russian oil majors over ukraine, prompting india jitters and moscow fury" }
+Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
+Belgium says eu states must share risk to use frozen russian assets for ukraine" }
+Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
+Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
+Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
+Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
 
-Aiveeawldsbsl:::txtsize --> AiloztMmsacrsean:::txtsize
-AiloztMmsacrsean:::txtsize --> molnohhsTaue:::txtsize
-molnohhsTaue:::txtsize --> Taknrohtaehth:::txtsize
-molnohhsTaue:::txtsize --> Anoswiafian:::txtsize
-AiloztMmsacrsean:::txtsize --> Malinienlfpr:::txtsize
-Malinienlfpr:::txtsize --> TrtttpetrLn:::txtsize
-Malinienlfpr:::txtsize --> Trtrsidteot:::txtsize
-Aiveeawldsbsl:::txtsize --> Nwulhineadtyncimi:::txtsize
-Nwulhineadtyncimi:::txtsize --> Iilsdeelueeamiohn:::txtsize
-Iilsdeelueeamiohn:::txtsize --> SlWstIrncheo:::txtsize
-Iilsdeelueeamiohn:::txtsize --> SconpihniSpsataa:::txtsize
-Nwulhineadtyncimi:::txtsize --> RlraakabnineceuIu:::txtsize
-RlraakabnineceuIu:::txtsize --> Rleorssiget:::txtsize
-RlraakabnineceuIu:::txtsize --> Spneporisriiu:::txtsize
+Mrafsekedrn:::txtsize --> Unlyreusaalbt:::txtsize
+Unlyreusaalbt:::txtsize --> Ucnkefunmos:::txtsize
+Ucnkefunmos:::txtsize --> Tsodirisohe:::txtsize
+Ucnkefunmos:::txtsize --> UnlyorpfStd:::txtsize
+Unlyreusaalbt:::txtsize --> Paotagerirsn:::txtsize
+Paotagerirsn:::txtsize --> UnhedewScna:::txtsize
+Paotagerirsn:::txtsize --> UnhedewScna:::txtsize
+Mrafsekedrn:::txtsize --> EseRaeciotrn:::txtsize
+EseRaeciotrn:::txtsize --> EsnbnUndozsas:::txtsize
+EsnbnUndozsas:::txtsize --> ErtkftassewUn:::txtsize
+EsnbnUndozsas:::txtsize --> Ucsilrrionitncr:::txtsize
+EseRaeciotrn:::txtsize --> Busauasszsaske:::txtsize
+Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
+Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
 
-Shpsdigaos@{ shape: win-pane, label: "_Published Dec 09, 2025, 11:02 PM_
-Save the elephants founder iain douglas-hamilton dies at 83" }
-Jolapndaae@{ shape: win-pane, label: "_Published Oct 02, 2025, 02:39 AM_
-Jane goodall, primate expert and wildlife advocate, dies at 91" }
-Mhmkossnrtega@{ shape: win-pane, label: "_Published Aug 22, 2025, 05:00 AM_
-Meet the team tracking monkey sounds in singapore to stop emerging diseases" }
-MieMsrlemq@{ shape: win-pane, label: "_Published Apr 28, 2025, 09:24 AM_
-Malaria threat in malaysia currently comes from macaques" }
-Rrnpxsefsscrrita@{ shape: win-pane, label: "_Published Jan 06, 2025, 05:00 AM_
-Research wanted: s’pore experts on the hunt for diseases that can spread from animals to humans" }
-Mynohninememodritt@{ shape: win-pane, label: "_Published Mar 15, 2025, 06:20 PM_
-Monkey business: zoo in china investigating after chimpanzee filmed smoking discarded cigarette butt" }
-RiegozgnentsiSp@{ shape: win-pane, label: "_Published Sep 19, 2023, 12:21 AM_
-Rare silvered langur spotted ‘zoning out’ in clementi in first such sighting in singapore" }
-AakaarnogChgrh@{ shape: win-pane, label: "_Published Nov 01, 2024, 02:36 PM_
-African monkey that escaped from mandai zoo caught in choa chu kang after 6 months" }
+Anstunfdaoho@{ shape: win-pane, label: "_Published Dec 10, 2025, 02:45 AM_
+Amy winehouse’s father sues singer’s friends for auctioning her clothes" }
+CeDswnmeao@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:28 PM_
+Charles and diana’s rare wedding champagne to be auctioned" }
+Peaautaakuees@{ shape: win-pane, label: "_Published Nov 20, 2025, 08:27 PM_
+Princess diana’s wax figure enters paris waxwork museum in ‘revenge dress’" }
+Csnantohaatae@{ shape: win-pane, label: "_Published Aug 22, 2022, 09:52 AM_
+Crises again threatening british monarchy's image 25 years after diana's death" }
+LsnDaotfsag@{ shape: win-pane, label: "_Published Jun 10, 2025, 01:58 AM_
+‘largest princess diana auction’ features frocks, hats and bags" }
+Tossrerityaa@{ shape: win-pane, label: "_Published Jan 10, 2024, 12:46 AM_
+The crown costumes and props head for auction after royal drama wraps" }
+Pearecepbtd@{ shape: win-pane, label: "_Published Jul 17, 2023, 11:40 PM_
+Princess diana’s pre-loved ‘black sheep’ jumper to be auctioned" }
+UeFidoPnclnyun@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:15 PM_
+Us director francis ford coppola’s f.p. journe watch sells for nearly $14m at auction" }
+MostworttDtaFoa@{ shape: win-pane, label: "_Published Sep 27, 2024, 03:00 PM_
+Megalopolis is not some ‘woke movie or political thing’: director francis ford coppola" }
+FiejBeeoleihy@{ shape: win-pane, label: "_Published Sep 05, 2024, 03:00 PM_
+Film picks: beetlejuice beetlejuice, cuckoo, till we meet again on the lily hill" }
+AihopTtsgesopmVT@{ shape: win-pane, label: "_Published Sep 26, 2024, 04:00 PM_
+Arts picks: chio books pop-up at the arts house, singapore translation symposium, deja vu at stpi" }
 
-Shpsdigaos:::txtsize --> Jolapndaae:::txtsize
-Jolapndaae:::txtsize --> Mhmkossnrtega:::txtsize
-Mhmkossnrtega:::txtsize --> MieMsrlemq:::txtsize
-Mhmkossnrtega:::txtsize --> Rrnpxsefsscrrita:::txtsize
-Jolapndaae:::txtsize --> Mynohninememodritt:::txtsize
-Mynohninememodritt:::txtsize --> RiegozgnentsiSp:::txtsize
-Mynohninememodritt:::txtsize --> AakaarnogChgrh:::txtsize
+Anstunfdaoho:::txtsize --> CeDswnmeao:::txtsize
+CeDswnmeao:::txtsize --> Peaautaakuees:::txtsize
+Peaautaakuees:::txtsize --> Csnantohaatae:::txtsize
+CeDswnmeao:::txtsize --> LsnDaotfsag:::txtsize
+LsnDaotfsag:::txtsize --> Tossrerityaa:::txtsize
+LsnDaotfsag:::txtsize --> Pearecepbtd:::txtsize
+Anstunfdaoho:::txtsize --> UeFidoPnclnyun:::txtsize
+UeFidoPnclnyun:::txtsize --> MostworttDtaFoa:::txtsize
+MostworttDtaFoa:::txtsize --> FiejBeeoleihy:::txtsize
+MostworttDtaFoa:::txtsize --> AihopTtsgesopmVT:::txtsize
 
 ```
-<i>Last updated: 2025-12-10 00:00:59.851291 (GMT+8)</i>
+<i>Last updated: 2025-12-10 04:00:24.790345 (GMT+8)</i>
 <!-- END -->
