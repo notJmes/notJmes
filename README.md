@@ -16,117 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tavtisbnkoif@{ shape: win-pane, label: "_Published Dec 09, 2025, 07:48 PM_
-Trump approval rating rises as republicans back cost-of-living efforts" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
-Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
-Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
-Takeaways from us election night 2025" }
-Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
-Cuomo to stay in new york mayoral race despite losing democratic primary" }
-MnCankgnsodty@{ shape: win-pane, label: "_Published Jun 27, 2025, 06:16 PM_
-Mamdani’s nyc primary win sparks surge in anti-muslim posts, advocates say" }
-Tcasefdrsfocm@{ shape: win-pane, label: "_Published Nov 15, 2025, 07:18 AM_
-Trump cuts tariffs on beef, coffee and other foods as inflation concerns mount" }
-Tpmopsfnarrrye@{ shape: win-pane, label: "_Published Nov 13, 2025, 08:05 AM_
-Trump plans move to ease prices on coffee and bananas: treasury secretary bessent" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
-Iucynrssoi@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:13 PM_
-It’s trump’s economy now, and americans don’t seem to love it" }
-Tspaspadanop@{ shape: win-pane, label: "_Published Apr 03, 2025, 04:47 AM_
-Trump’s sweeping tariffs amp up global trade war as china, eu vow response" }
-Ttftlaraarasrafl@{ shape: win-pane, label: "_Published Apr 03, 2025, 07:56 AM_
-Trump tariffs: hitting close partner singapore ‘a surprise’, says ex-senior us trade official" }
-Acnrrhteur@{ shape: win-pane, label: "_Published Feb 17, 2025, 01:52 PM_
-American consumers learn to shop in the age of trump tariffs" }
+Uoaonrcsegnn@{ shape: win-pane, label: "_Published Dec 09, 2025, 11:22 PM_
+Us imposes sanctions on network it accuses of fuelling war in sudan" }
+NeuwnthcdeTaes@{ shape: win-pane, label: "_Published Nov 26, 2025, 06:48 AM_
+Neither of sudan’s warring factions has accepted truce plan, trump adviser says" }
+Unotsilnpnd@{ shape: win-pane, label: "_Published Nov 22, 2025, 09:48 PM_
+Ukraine, us to start talks in switzerland on trump’s plan to end war" }
+Unorestler@{ shape: win-pane, label: "_Published Nov 22, 2025, 08:11 PM_
+Ukraine, europe scramble to respond to us plan to end war" }
+Pgtsturiti@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:00 PM_
+Pm wong to attend g-20 summit in south africa, visit ethiopia" }
+TsSwoautiiq@{ shape: win-pane, label: "_Published Nov 20, 2025, 03:48 AM_
+Trump says us will work to end war in sudan at saudi arabia’s request" }
+Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
+Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+Ssgtrahiase@{ shape: win-pane, label: "_Published Nov 07, 2025, 03:55 PM_
+Sudan’s rsf agrees to us proposal for humanitarian ceasefire" }
+Ncstnebsseili@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:09 PM_
+‘no one could stop it’: sudanese describe mass rapes while fleeing fallen city" }
+Sinayitrsld@{ shape: win-pane, label: "_Published Nov 01, 2025, 04:19 PM_
+Sudan is being ravaged by a civil war the world has overlooked" }
+Svtsbndrnseldca@{ shape: win-pane, label: "_Published Nov 03, 2025, 10:01 PM_
+Sudan volunteers shown beaten in video were among those later killed, red crescent says" }
+Svtsbndrnseldca@{ shape: win-pane, label: "_Published Nov 03, 2025, 10:01 PM_
+Sudan volunteers shown beaten in video were among those later killed, red crescent says" }
+Nttggmigsnna@{ shape: win-pane, label: "_Published Nov 01, 2025, 05:45 PM_
+New satellite images suggest mass killings persist in sudan’s el-fasher" }
+Roasopnufeel@{ shape: win-pane, label: "_Published Nov 03, 2025, 06:21 PM_
+Red cross head says ‘history repeating’ in sudan after reported killings" }
 
-Tavtisbnkoif:::txtsize --> Drwialosdp:::txtsize
-Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
-YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
-YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
-Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
-Ctywmaeiseary:::txtsize --> MnCankgnsodty:::txtsize
-Tavtisbnkoif:::txtsize --> Tcasefdrsfocm:::txtsize
-Tcasefdrsfocm:::txtsize --> Tpmopsfnarrrye:::txtsize
-Tpmopsfnarrrye:::txtsize --> Drwialosdp:::txtsize
-Tpmopsfnarrrye:::txtsize --> Iucynrssoi:::txtsize
-Tcasefdrsfocm:::txtsize --> Tspaspadanop:::txtsize
-Tspaspadanop:::txtsize --> Ttftlaraarasrafl:::txtsize
-Tspaspadanop:::txtsize --> Acnrrhteur:::txtsize
+Uoaonrcsegnn:::txtsize --> NeuwnthcdeTaes:::txtsize
+NeuwnthcdeTaes:::txtsize --> Unotsilnpnd:::txtsize
+Unotsilnpnd:::txtsize --> Unorestler:::txtsize
+Unotsilnpnd:::txtsize --> Pgtsturiti:::txtsize
+NeuwnthcdeTaes:::txtsize --> TsSwoautiiq:::txtsize
+TsSwoautiiq:::txtsize --> Tdddnersdiinst:::txtsize
+TsSwoautiiq:::txtsize --> Wouaaam:::txtsize
+Uoaonrcsegnn:::txtsize --> Ssgtrahiase:::txtsize
+Ssgtrahiase:::txtsize --> Ncstnebsseili:::txtsize
+Ncstnebsseili:::txtsize --> Sinayitrsld:::txtsize
+Ncstnebsseili:::txtsize --> Svtsbndrnseldca:::txtsize
+Ssgtrahiase:::txtsize --> Svtsbndrnseldca:::txtsize
+Svtsbndrnseldca:::txtsize --> Nttggmigsnna:::txtsize
+Svtsbndrnseldca:::txtsize --> Roasopnufeel:::txtsize
 
-PdotstStNhma@{ shape: win-pane, label: "_Published Dec 09, 2025, 07:27 PM_
-Putin does not want to restore the ussr or attack nato, the kremlin says" }
-PwEeuwesleu@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:45 PM_
-Putin warns europe: if you want war, then russia will defeat you" }
-UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
-Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
-Skleokusnde@{ shape: win-pane, label: "_Published Dec 17, 2024, 03:10 AM_
-Stricken oil tankers show risks of russia’s ageing ‘shadow fleet’" }
-SiRadentokfler@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:04 AM_
-Sanctioned russian ‘shadow fleet’ tanker at risk of sinking after blast near turkey" }
-TstUnrssllu@{ shape: win-pane, label: "_Published Dec 02, 2025, 02:04 PM_
-Trump’s push to end ukraine war raises fears of ‘ugly deal’ for europe" }
-Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
-Trump’s 28-point ukraine plan" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
+Aiveeawldsbsl@{ shape: win-pane, label: "_Published Dec 09, 2025, 11:12 PM_
+Austrian government presses ahead with planned headscarf ban in schools" }
+AiloztMmsacrsean@{ shape: win-pane, label: "_Published Jan 11, 2025, 02:02 PM_
+Activist malala yousafzai attends muslim girls’ education conference snubbed by taliban" }
+molnohhsTaue@{ shape: win-pane, label: "_Published Aug 15, 2024, 02:17 PM_
+1.4 million girls banned from afghan schools since taliban return: unesco" }
+Taknrohtaehth@{ shape: win-pane, label: "_Published Aug 14, 2024, 05:47 PM_
+Taliban marks 3rd anniversary of afghanistan’s takeover with military show" }
+Anoswiafian@{ shape: win-pane, label: "_Published Mar 20, 2024, 02:30 PM_
+Afghan schools restart, with girls barred for third year running" }
+Malinienlfpr@{ shape: win-pane, label: "_Published Aug 18, 2024, 05:50 PM_
+‘magical’ taylor swift concert is nobel winner malala’s first proper gig" }
+TrtttpetrLn@{ shape: win-pane, label: "_Published Aug 16, 2024, 12:10 AM_
+Taylor swift excitement eclipses security fears for london fans" }
+Trtrsidteot@{ shape: win-pane, label: "_Published Aug 15, 2024, 11:15 AM_
+Taylor swift returns to stage in london after vienna concert plot" }
+Nwulhineadtyncimi@{ shape: win-pane, label: "_Published Nov 28, 2025, 08:00 PM_
+New laws, tudung policy shift cited in s’pore’s update under un treaty against racial discrimination" }
+Iilsdeelueeamiohn@{ shape: win-pane, label: "_Published Oct 25, 2025, 06:00 PM_
+Identity politics will damage society in long run, have bigger impact on minority groups: chee hong tat" }
+SlWstIrncheo@{ shape: win-pane, label: "_Published Aug 02, 2024, 05:00 AM_
+St explains: what is the ethnic integration policy and how does it work?" }
+SconpihniSpsataa@{ shape: win-pane, label: "_Published Oct 14, 2025, 02:22 PM_
+Steer clear of identity politics, uphold integrity of singapore’s secular system: shanmugam" }
+RlraakabnineceuIu@{ shape: win-pane, label: "_Published Feb 03, 2025, 04:08 PM_
+Racial discrimination at work has fallen, but minorities continue to face more prejudice: ips study" }
+Rleorssiget@{ shape: win-pane, label: "_Published Feb 03, 2025, 04:00 PM_
+Racial and religious harmony scores rise in singapore: ips study" }
+Spneporisriiu@{ shape: win-pane, label: "_Published Feb 03, 2025, 09:35 PM_
+Singaporeans more accepting of all races in personal relationships: study" }
 
-PdotstStNhma:::txtsize --> PwEeuwesleu:::txtsize
-PwEeuwesleu:::txtsize --> UntaluneBScyca:::txtsize
-UntaluneBScyca:::txtsize --> Skleokusnde:::txtsize
-UntaluneBScyca:::txtsize --> SiRadentokfler:::txtsize
-PwEeuwesleu:::txtsize --> TstUnrssllu:::txtsize
-TstUnrssllu:::txtsize --> Tstia:::txtsize
-TstUnrssllu:::txtsize --> DsruasvUn:::txtsize
+Aiveeawldsbsl:::txtsize --> AiloztMmsacrsean:::txtsize
+AiloztMmsacrsean:::txtsize --> molnohhsTaue:::txtsize
+molnohhsTaue:::txtsize --> Taknrohtaehth:::txtsize
+molnohhsTaue:::txtsize --> Anoswiafian:::txtsize
+AiloztMmsacrsean:::txtsize --> Malinienlfpr:::txtsize
+Malinienlfpr:::txtsize --> TrtttpetrLn:::txtsize
+Malinienlfpr:::txtsize --> Trtrsidteot:::txtsize
+Aiveeawldsbsl:::txtsize --> Nwulhineadtyncimi:::txtsize
+Nwulhineadtyncimi:::txtsize --> Iilsdeelueeamiohn:::txtsize
+Iilsdeelueeamiohn:::txtsize --> SlWstIrncheo:::txtsize
+Iilsdeelueeamiohn:::txtsize --> SconpihniSpsataa:::txtsize
+Nwulhineadtyncimi:::txtsize --> RlraakabnineceuIu:::txtsize
+RlraakabnineceuIu:::txtsize --> Rleorssiget:::txtsize
+RlraakabnineceuIu:::txtsize --> Spneporisriiu:::txtsize
 
-GGhonekmnmpdtD@{ shape: win-pane, label: "_Published Dec 09, 2025, 07:10 PM_
-Goose, grinchmas socks and other wacky items seen at gamestop’s trade anything day" }
-WsGpasGscth@{ shape: win-pane, label: "_Published Sep 25, 2025, 03:49 PM_
-What is 6-7? this gen alpha slang has left gen zs scratching their heads" }
-psoioasaamiurt@{ shape: win-pane, label: "_Published Jul 22, 2025, 09:45 AM_
-‘+60 points for following crowd measures’: singaporeans jump on viral ‘aura farming’ trend" }
-Wsfnsnnnso@{ shape: win-pane, label: "_Published Jul 11, 2025, 02:45 PM_
-What is ‘aura farming’? this indonesian tween will show you" }
-DhayoeaGdtrini@{ shape: win-pane, label: "_Published Aug 29, 2025, 07:00 AM_
-Do you have a ‘5-9’ after your 9-5 job? some singapore gen zs do and they are having fun with it" }
-Dnwharsodncewl@{ shape: win-pane, label: "_Published Jul 11, 2025, 02:35 PM_
-‘don’t know how to be human any more’: why some young adults need a course on how to talk" }
-Cnptevtbolrutsipn@{ shape: win-pane, label: "_Published Jul 11, 2025, 09:30 PM_
-Community space stranger conversations blossoms as ‘library of human stories’ and life experiences" }
-BpLolesFislo@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:45 PM_
-Blackpink’s lisa to headline new season of fortnite festival video game" }
-Heerkmauapopot@{ shape: win-pane, label: "_Published Nov 25, 2025, 01:15 PM_
-Hundreds queue for blackpink merch at pop-up ahead of k-pop group’s s’pore concerts" }
-Bpnavasedolpecr@{ shape: win-pane, label: "_Published Nov 19, 2025, 03:10 PM_
-Blackpink in your area: events across s’pore ahead of k-pop girl group’s november concerts" }
-AstancissOe@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:45 PM_
-At least $6,000 lost to blackpink concert ticket scams since october" }
-Heerkmauapopot@{ shape: win-pane, label: "_Published Nov 25, 2025, 01:15 PM_
-Hundreds queue for blackpink merch at pop-up ahead of k-pop group’s s’pore concerts" }
-Bpnavasedolpecr@{ shape: win-pane, label: "_Published Nov 19, 2025, 03:10 PM_
-Blackpink in your area: events across s’pore ahead of k-pop girl group’s november concerts" }
-AstancissOe@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:45 PM_
-At least $6,000 lost to blackpink concert ticket scams since october" }
+Shpsdigaos@{ shape: win-pane, label: "_Published Dec 09, 2025, 11:02 PM_
+Save the elephants founder iain douglas-hamilton dies at 83" }
+Jolapndaae@{ shape: win-pane, label: "_Published Oct 02, 2025, 02:39 AM_
+Jane goodall, primate expert and wildlife advocate, dies at 91" }
+Mhmkossnrtega@{ shape: win-pane, label: "_Published Aug 22, 2025, 05:00 AM_
+Meet the team tracking monkey sounds in singapore to stop emerging diseases" }
+MieMsrlemq@{ shape: win-pane, label: "_Published Apr 28, 2025, 09:24 AM_
+Malaria threat in malaysia currently comes from macaques" }
+Rrnpxsefsscrrita@{ shape: win-pane, label: "_Published Jan 06, 2025, 05:00 AM_
+Research wanted: s’pore experts on the hunt for diseases that can spread from animals to humans" }
+Mynohninememodritt@{ shape: win-pane, label: "_Published Mar 15, 2025, 06:20 PM_
+Monkey business: zoo in china investigating after chimpanzee filmed smoking discarded cigarette butt" }
+RiegozgnentsiSp@{ shape: win-pane, label: "_Published Sep 19, 2023, 12:21 AM_
+Rare silvered langur spotted ‘zoning out’ in clementi in first such sighting in singapore" }
+AakaarnogChgrh@{ shape: win-pane, label: "_Published Nov 01, 2024, 02:36 PM_
+African monkey that escaped from mandai zoo caught in choa chu kang after 6 months" }
 
-GGhonekmnmpdtD:::txtsize --> WsGpasGscth:::txtsize
-WsGpasGscth:::txtsize --> psoioasaamiurt:::txtsize
-psoioasaamiurt:::txtsize --> Wsfnsnnnso:::txtsize
-WsGpasGscth:::txtsize --> DhayoeaGdtrini:::txtsize
-DhayoeaGdtrini:::txtsize --> Dnwharsodncewl:::txtsize
-DhayoeaGdtrini:::txtsize --> Cnptevtbolrutsipn:::txtsize
-GGhonekmnmpdtD:::txtsize --> BpLolesFislo:::txtsize
-BpLolesFislo:::txtsize --> Heerkmauapopot:::txtsize
-Heerkmauapopot:::txtsize --> Bpnavasedolpecr:::txtsize
-Heerkmauapopot:::txtsize --> AstancissOe:::txtsize
-BpLolesFislo:::txtsize --> Heerkmauapopot:::txtsize
-Heerkmauapopot:::txtsize --> Bpnavasedolpecr:::txtsize
-Heerkmauapopot:::txtsize --> AstancissOe:::txtsize
+Shpsdigaos:::txtsize --> Jolapndaae:::txtsize
+Jolapndaae:::txtsize --> Mhmkossnrtega:::txtsize
+Mhmkossnrtega:::txtsize --> MieMsrlemq:::txtsize
+Mhmkossnrtega:::txtsize --> Rrnpxsefsscrrita:::txtsize
+Jolapndaae:::txtsize --> Mynohninememodritt:::txtsize
+Mynohninememodritt:::txtsize --> RiegozgnentsiSp:::txtsize
+Mynohninememodritt:::txtsize --> AakaarnogChgrh:::txtsize
 
 ```
-<i>Last updated: 2025-12-09 20:00:34.514722 (GMT+8)</i>
+<i>Last updated: 2025-12-10 00:00:59.851291 (GMT+8)</i>
 <!-- END -->
