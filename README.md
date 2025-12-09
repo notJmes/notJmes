@@ -16,141 +16,117 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ragasiaggrari@{ shape: win-pane, label: "_Published Dec 09, 2025, 03:51 PM_
-Russia’s top general says army is advancing along entire ukraine front line" }
-UnhedewScna@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:20 PM_
-Ukraine to share revised peace plan with us on dec 9, zelensky says" }
-ZsyaptwStita@{ shape: win-pane, label: "_Published Dec 08, 2025, 06:36 AM_
-Zelensky says ukraine’s peace talks with us constructive but not easy" }
-NaottirUk@{ shape: win-pane, label: "_Published Dec 07, 2025, 03:48 AM_
-No breakthrough at ‘constructive’ ukraine-us talks" }
-NaottirUk@{ shape: win-pane, label: "_Published Dec 07, 2025, 03:48 AM_
-No breakthrough at ‘constructive’ ukraine-us talks" }
-ZsyaptwStita@{ shape: win-pane, label: "_Published Dec 08, 2025, 06:36 AM_
-Zelensky says ukraine’s peace talks with us constructive but not easy" }
-NaottirUk@{ shape: win-pane, label: "_Published Dec 07, 2025, 03:48 AM_
-No breakthrough at ‘constructive’ ukraine-us talks" }
-NaottirUk@{ shape: win-pane, label: "_Published Dec 07, 2025, 03:48 AM_
-No breakthrough at ‘constructive’ ukraine-us talks" }
-UnsnacastRa@{ shape: win-pane, label: "_Published Dec 05, 2025, 04:16 AM_
-Ukraine says it wants ‘real peace, not appeasement’ with russia" }
-Ntoaanrrotra@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:38 AM_
-Next steps for ukraine talks unclear after moscow meeting, trump says" }
-Unpetrsrbitc@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:09 AM_
-Ukraine’s top peace negotiator quits after raid by anti-graft officers" }
+Tavtisbnkoif@{ shape: win-pane, label: "_Published Dec 09, 2025, 07:48 PM_
+Trump approval rating rises as republicans back cost-of-living efforts" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
+Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
+Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
+Takeaways from us election night 2025" }
+Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
+Cuomo to stay in new york mayoral race despite losing democratic primary" }
+MnCankgnsodty@{ shape: win-pane, label: "_Published Jun 27, 2025, 06:16 PM_
+Mamdani’s nyc primary win sparks surge in anti-muslim posts, advocates say" }
+Tcasefdrsfocm@{ shape: win-pane, label: "_Published Nov 15, 2025, 07:18 AM_
+Trump cuts tariffs on beef, coffee and other foods as inflation concerns mount" }
+Tpmopsfnarrrye@{ shape: win-pane, label: "_Published Nov 13, 2025, 08:05 AM_
+Trump plans move to ease prices on coffee and bananas: treasury secretary bessent" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+Iucynrssoi@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:13 PM_
+It’s trump’s economy now, and americans don’t seem to love it" }
+Tspaspadanop@{ shape: win-pane, label: "_Published Apr 03, 2025, 04:47 AM_
+Trump’s sweeping tariffs amp up global trade war as china, eu vow response" }
+Ttftlaraarasrafl@{ shape: win-pane, label: "_Published Apr 03, 2025, 07:56 AM_
+Trump tariffs: hitting close partner singapore ‘a surprise’, says ex-senior us trade official" }
+Acnrrhteur@{ shape: win-pane, label: "_Published Feb 17, 2025, 01:52 PM_
+American consumers learn to shop in the age of trump tariffs" }
+
+Tavtisbnkoif:::txtsize --> Drwialosdp:::txtsize
+Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
+YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
+YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
+Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
+Ctywmaeiseary:::txtsize --> MnCankgnsodty:::txtsize
+Tavtisbnkoif:::txtsize --> Tcasefdrsfocm:::txtsize
+Tcasefdrsfocm:::txtsize --> Tpmopsfnarrrye:::txtsize
+Tpmopsfnarrrye:::txtsize --> Drwialosdp:::txtsize
+Tpmopsfnarrrye:::txtsize --> Iucynrssoi:::txtsize
+Tcasefdrsfocm:::txtsize --> Tspaspadanop:::txtsize
+Tspaspadanop:::txtsize --> Ttftlaraarasrafl:::txtsize
+Tspaspadanop:::txtsize --> Acnrrhteur:::txtsize
+
+PdotstStNhma@{ shape: win-pane, label: "_Published Dec 09, 2025, 07:27 PM_
+Putin does not want to restore the ussr or attack nato, the kremlin says" }
 PwEeuwesleu@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:45 PM_
 Putin warns europe: if you want war, then russia will defeat you" }
-Dssernlpoiirdr@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:50 AM_
-Drones were spotted near zelensky flight path to dublin, media in ireland report" }
-DsiithChOit@{ shape: win-pane, label: "_Published Sep 23, 2025, 08:52 AM_
-Drone sightings disrupt flights at copenhagen, oslo airports" }
-EeatsesPmna@{ shape: win-pane, label: "_Published Sep 01, 2025, 07:39 PM_
-Eu chief’s plane hit by suspected russian gps jamming in bulgaria" }
+UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
+Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
+Skleokusnde@{ shape: win-pane, label: "_Published Dec 17, 2024, 03:10 AM_
+Stricken oil tankers show risks of russia’s ageing ‘shadow fleet’" }
+SiRadentokfler@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:04 AM_
+Sanctioned russian ‘shadow fleet’ tanker at risk of sinking after blast near turkey" }
+TstUnrssllu@{ shape: win-pane, label: "_Published Dec 02, 2025, 02:04 PM_
+Trump’s push to end ukraine war raises fears of ‘ugly deal’ for europe" }
+Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
+Trump’s 28-point ukraine plan" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
 
-Ragasiaggrari:::txtsize --> UnhedewScna:::txtsize
-UnhedewScna:::txtsize --> ZsyaptwStita:::txtsize
-ZsyaptwStita:::txtsize --> NaottirUk:::txtsize
-ZsyaptwStita:::txtsize --> NaottirUk:::txtsize
-UnhedewScna:::txtsize --> ZsyaptwStita:::txtsize
-ZsyaptwStita:::txtsize --> NaottirUk:::txtsize
-ZsyaptwStita:::txtsize --> NaottirUk:::txtsize
-Ragasiaggrari:::txtsize --> UnsnacastRa:::txtsize
-UnsnacastRa:::txtsize --> Ntoaanrrotra:::txtsize
-Ntoaanrrotra:::txtsize --> Unpetrsrbitc:::txtsize
-Ntoaanrrotra:::txtsize --> PwEeuwesleu:::txtsize
-UnsnacastRa:::txtsize --> Dssernlpoiirdr:::txtsize
-Dssernlpoiirdr:::txtsize --> DsiithChOit:::txtsize
-Dssernlpoiirdr:::txtsize --> EeatsesPmna:::txtsize
+PdotstStNhma:::txtsize --> PwEeuwesleu:::txtsize
+PwEeuwesleu:::txtsize --> UntaluneBScyca:::txtsize
+UntaluneBScyca:::txtsize --> Skleokusnde:::txtsize
+UntaluneBScyca:::txtsize --> SiRadentokfler:::txtsize
+PwEeuwesleu:::txtsize --> TstUnrssllu:::txtsize
+TstUnrssllu:::txtsize --> Tstia:::txtsize
+TstUnrssllu:::txtsize --> DsruasvUn:::txtsize
 
-Uidosrefilr@{ shape: win-pane, label: "_Published Dec 09, 2025, 03:45 PM_
-Us military developing small refineries for critical minerals" }
-Xrtopglmfps@{ shape: win-pane, label: "_Published Oct 15, 2025, 11:47 AM_
-Xi’s rare earth ‘bazooka’ sparks global alarm, race for supplies" }
-Cstaftetwt@{ shape: win-pane, label: "_Published Oct 14, 2025, 10:02 AM_
-China says it is ready to ‘fight to the end’ in trade war with us" }
-Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
-China tightens rare earth export controls and targets defence, semiconductor users" }
-Ttpafrlnt@{ shape: win-pane, label: "_Published May 16, 2025, 10:29 AM_
-Trump to keep 30% china tariffs through late 2025: analysts" }
-Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
-China tightens rare earth export controls and targets defence, semiconductor users" }
-Whapira@{ shape: win-pane, label: "_Published Sep 14, 2025, 11:05 AM_
-Will the us catch up to china on rare earths?" }
-UsocCoemtrn@{ shape: win-pane, label: "_Published Nov 13, 2025, 06:16 AM_
-Us house report accuses china of minerals market interference" }
-Unneonaaonsm@{ shape: win-pane, label: "_Published Nov 12, 2025, 04:53 AM_
-Ukraine, china mineral dominance on agenda as g-7 foreign ministers meet" }
-Ucsilrrionitncr@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:27 PM_
-Us sanctions russian oil majors over ukraine, prompting india jitters and moscow fury" }
-Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
-Trump says all trade talks with canada are terminated" }
-Chbetolefeins@{ shape: win-pane, label: "_Published Nov 09, 2025, 05:15 PM_
-China halts ban on export to us of dual-use metals, further easing tensions" }
-CtbrkiimnU@{ shape: win-pane, label: "_Published Dec 03, 2024, 05:23 PM_
-China to curb exports of key chipmaking components to us" }
-Unloehmsewne@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:01 AM_
-Us, china seal deal on rare earths; trump says xi meeting was a 12 on scale of 1 to 10" }
+GGhonekmnmpdtD@{ shape: win-pane, label: "_Published Dec 09, 2025, 07:10 PM_
+Goose, grinchmas socks and other wacky items seen at gamestop’s trade anything day" }
+WsGpasGscth@{ shape: win-pane, label: "_Published Sep 25, 2025, 03:49 PM_
+What is 6-7? this gen alpha slang has left gen zs scratching their heads" }
+psoioasaamiurt@{ shape: win-pane, label: "_Published Jul 22, 2025, 09:45 AM_
+‘+60 points for following crowd measures’: singaporeans jump on viral ‘aura farming’ trend" }
+Wsfnsnnnso@{ shape: win-pane, label: "_Published Jul 11, 2025, 02:45 PM_
+What is ‘aura farming’? this indonesian tween will show you" }
+DhayoeaGdtrini@{ shape: win-pane, label: "_Published Aug 29, 2025, 07:00 AM_
+Do you have a ‘5-9’ after your 9-5 job? some singapore gen zs do and they are having fun with it" }
+Dnwharsodncewl@{ shape: win-pane, label: "_Published Jul 11, 2025, 02:35 PM_
+‘don’t know how to be human any more’: why some young adults need a course on how to talk" }
+Cnptevtbolrutsipn@{ shape: win-pane, label: "_Published Jul 11, 2025, 09:30 PM_
+Community space stranger conversations blossoms as ‘library of human stories’ and life experiences" }
+BpLolesFislo@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:45 PM_
+Blackpink’s lisa to headline new season of fortnite festival video game" }
+Heerkmauapopot@{ shape: win-pane, label: "_Published Nov 25, 2025, 01:15 PM_
+Hundreds queue for blackpink merch at pop-up ahead of k-pop group’s s’pore concerts" }
+Bpnavasedolpecr@{ shape: win-pane, label: "_Published Nov 19, 2025, 03:10 PM_
+Blackpink in your area: events across s’pore ahead of k-pop girl group’s november concerts" }
+AstancissOe@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:45 PM_
+At least $6,000 lost to blackpink concert ticket scams since october" }
+Heerkmauapopot@{ shape: win-pane, label: "_Published Nov 25, 2025, 01:15 PM_
+Hundreds queue for blackpink merch at pop-up ahead of k-pop group’s s’pore concerts" }
+Bpnavasedolpecr@{ shape: win-pane, label: "_Published Nov 19, 2025, 03:10 PM_
+Blackpink in your area: events across s’pore ahead of k-pop girl group’s november concerts" }
+AstancissOe@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:45 PM_
+At least $6,000 lost to blackpink concert ticket scams since october" }
 
-Uidosrefilr:::txtsize --> Xrtopglmfps:::txtsize
-Xrtopglmfps:::txtsize --> Cstaftetwt:::txtsize
-Cstaftetwt:::txtsize --> Ctertonsasnmdrs:::txtsize
-Cstaftetwt:::txtsize --> Ttpafrlnt:::txtsize
-Xrtopglmfps:::txtsize --> Ctertonsasnmdrs:::txtsize
-Ctertonsasnmdrs:::txtsize --> Whapira:::txtsize
-Uidosrefilr:::txtsize --> UsocCoemtrn:::txtsize
-UsocCoemtrn:::txtsize --> Unneonaaonsm:::txtsize
-Unneonaaonsm:::txtsize --> Ucsilrrionitncr:::txtsize
-Unneonaaonsm:::txtsize --> Tsldkhdtn:::txtsize
-UsocCoemtrn:::txtsize --> Chbetolefeins:::txtsize
-Chbetolefeins:::txtsize --> CtbrkiimnU:::txtsize
-Chbetolefeins:::txtsize --> Unloehmsewne:::txtsize
-
-Ryaliteolai@{ shape: win-pane, label: "_Published Dec 09, 2025, 01:40 PM_
-Rsf says israel killed highest number of journalists again in 2025" }
-Weolkdrsesoaa@{ shape: win-pane, label: "_Published Aug 26, 2025, 10:45 AM_
-Who are the journalists killed in israel’s strike on nasser hospital in gaza?" }
-IlGoalttllgnt@{ shape: win-pane, label: "_Published Aug 25, 2025, 05:00 PM_
-Israel hits gaza hospital, killing at least 20 people, including 5 journalists" }
-NytferqdGec@{ shape: win-pane, label: "_Published Aug 22, 2025, 05:00 PM_
-Netanyahu’s talk of peace is mere masquerade for gaza destruction" }
-IllronseWal@{ shape: win-pane, label: "_Published Aug 25, 2025, 12:35 AM_
-Israeli bulldozers uproot hundreds of trees in west bank village" }
-IlGoalttllgnt@{ shape: win-pane, label: "_Published Aug 25, 2025, 05:00 PM_
-Israel hits gaza hospital, killing at least 20 people, including 5 journalists" }
-NytferqdGec@{ shape: win-pane, label: "_Published Aug 22, 2025, 05:00 PM_
-Netanyahu’s talk of peace is mere masquerade for gaza destruction" }
-IllronseWal@{ shape: win-pane, label: "_Published Aug 25, 2025, 12:35 AM_
-Israeli bulldozers uproot hundreds of trees in west bank village" }
-WmagrtaUds@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:15 AM_
-Why jamal khashoggi’s murder still haunts us-saudi ties" }
-Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
-Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
-Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
-Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
-TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
-Trump threatens abc news in oval office meltdown" }
-Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
-Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
-Mrusnrsasikeprsc@{ shape: win-pane, label: "_Published Oct 20, 2018, 12:23 PM_
-Murder of saudi dissident journalist jamal khashoggi: a look at the main players and suspects" }
-TttBsailn@{ shape: win-pane, label: "_Published Nov 19, 2025, 05:25 AM_
-Trump threatens abc news in oval office meltdown" }
-
-Ryaliteolai:::txtsize --> Weolkdrsesoaa:::txtsize
-Weolkdrsesoaa:::txtsize --> IlGoalttllgnt:::txtsize
-IlGoalttllgnt:::txtsize --> NytferqdGec:::txtsize
-IlGoalttllgnt:::txtsize --> IllronseWal:::txtsize
-Weolkdrsesoaa:::txtsize --> IlGoalttllgnt:::txtsize
-IlGoalttllgnt:::txtsize --> NytferqdGec:::txtsize
-IlGoalttllgnt:::txtsize --> IllronseWal:::txtsize
-Ryaliteolai:::txtsize --> WmagrtaUds:::txtsize
-WmagrtaUds:::txtsize --> Tdddnersdiinst:::txtsize
-Tdddnersdiinst:::txtsize --> Mrusnrsasikeprsc:::txtsize
-Tdddnersdiinst:::txtsize --> TttBsailn:::txtsize
-WmagrtaUds:::txtsize --> Tdddnersdiinst:::txtsize
-Tdddnersdiinst:::txtsize --> Mrusnrsasikeprsc:::txtsize
-Tdddnersdiinst:::txtsize --> TttBsailn:::txtsize
+GGhonekmnmpdtD:::txtsize --> WsGpasGscth:::txtsize
+WsGpasGscth:::txtsize --> psoioasaamiurt:::txtsize
+psoioasaamiurt:::txtsize --> Wsfnsnnnso:::txtsize
+WsGpasGscth:::txtsize --> DhayoeaGdtrini:::txtsize
+DhayoeaGdtrini:::txtsize --> Dnwharsodncewl:::txtsize
+DhayoeaGdtrini:::txtsize --> Cnptevtbolrutsipn:::txtsize
+GGhonekmnmpdtD:::txtsize --> BpLolesFislo:::txtsize
+BpLolesFislo:::txtsize --> Heerkmauapopot:::txtsize
+Heerkmauapopot:::txtsize --> Bpnavasedolpecr:::txtsize
+Heerkmauapopot:::txtsize --> AstancissOe:::txtsize
+BpLolesFislo:::txtsize --> Heerkmauapopot:::txtsize
+Heerkmauapopot:::txtsize --> Bpnavasedolpecr:::txtsize
+Heerkmauapopot:::txtsize --> AstancissOe:::txtsize
 
 ```
-<i>Last updated: 2025-12-09 16:01:04.051537 (GMT+8)</i>
+<i>Last updated: 2025-12-09 20:00:34.514722 (GMT+8)</i>
 <!-- END -->
