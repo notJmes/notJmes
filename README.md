@@ -16,30 +16,16 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Hrnonustlslnt@{ shape: win-pane, label: "_Published Dec 09, 2025, 07:25 AM_
-Heavy rain and strong winds could disrupt travel across ireland and britain" }
-SttouartcNe@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:55 PM_
-Storm threatens to disrupt transport systems across northern uk" }
-RrpBideaitnt@{ shape: win-pane, label: "_Published Sep 30, 2025, 10:04 AM_
-Rain from typhoon bualoi floods homes in hanoi, disrupts transport" }
-Toliaonlajg@{ shape: win-pane, label: "_Published Sep 29, 2025, 09:53 AM_
-Typhoon bualoi brings havoc to vietnam, killing 13 and injuring 46" }
-VacsssarTola@{ shape: win-pane, label: "_Published Sep 28, 2025, 10:43 AM_
-Vietnam evacuates thousands, shuts airports as typhoon bualoi nears" }
-Tndoinkes@{ shape: win-pane, label: "_Published Oct 01, 2025, 06:19 PM_
-Torrential downpours kill nine in ukraine’s odesa" }
-RaUniDortrtkn@{ shape: win-pane, label: "_Published Sep 30, 2025, 11:54 PM_
-Russia hits ukrainian city of dnipro in rare daytime drone attack, killing one" }
-Zsrcctofdrhcp@{ shape: win-pane, label: "_Published Oct 01, 2025, 03:45 AM_
-Zelensky warns of ‘critical’ situation at off-grid zaporizhzhia nuclear plant" }
-AhagavSesisynpurl@{ shape: win-pane, label: "_Published Nov 07, 2025, 02:42 PM_
-As typhoon kalmaegi wreaks havoc in south-east asia, scientists say rising temperatures are to blame" }
-Tombsroimalrhp@{ shape: win-pane, label: "_Published Nov 07, 2025, 10:00 AM_
-Typhoon kalmaegi brings destruction to vietnam as death toll nears 200 in philippines" }
-TomhimriPps@{ shape: win-pane, label: "_Published Nov 06, 2025, 10:40 PM_
-Typhoon kalmaegi hits vietnam after killing 140 in philippines" }
-PfpKeioctkfe@{ shape: win-pane, label: "_Published Nov 06, 2025, 10:30 AM_
-Powerful typhoon kalmaegi poised to drench vietnam’s key coffee region" }
+ociotynror@{ shape: win-pane, label: "_Published Dec 09, 2025, 11:33 AM_
+2025 on track to tie second-hottest year on record: eu monitor" }
+Hogmcrc@{ shape: win-pane, label: "_Published Nov 04, 2025, 05:25 PM_
+Hong kong logs warmest october on record" }
+Hogomfhtd@{ shape: win-pane, label: "_Published Oct 08, 2025, 10:05 PM_
+Hong kong logs record number of ‘very hot’ october days" }
+SKsewstrc@{ shape: win-pane, label: "_Published Oct 02, 2025, 07:45 PM_
+South korea sees second-warmest september on record" }
+SmatnraOw@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:55 PM_
+September was hottest on record in japan’s okinawa" }
 Hcrnheswnitrmeee@{ shape: win-pane, label: "_Published Oct 09, 2025, 04:30 PM_
 Hk’s record-breaking typhoon season spurs warnings to invest in more climate-ready measures" }
 TavtTomhuna@{ shape: win-pane, label: "_Published Oct 05, 2025, 04:20 PM_
@@ -47,48 +33,32 @@ Thousands evacuated as typhoon matmo lashes southern china" }
 DaglnfppRafHo@{ shape: win-pane, label: "_Published Sep 24, 2025, 11:15 PM_
 Dire warnings, early planning for super typhoon ragasa pay off for hong kong" }
 
-Hrnonustlslnt:::txtsize --> SttouartcNe:::txtsize
-SttouartcNe:::txtsize --> RrpBideaitnt:::txtsize
-RrpBideaitnt:::txtsize --> Toliaonlajg:::txtsize
-RrpBideaitnt:::txtsize --> VacsssarTola:::txtsize
-SttouartcNe:::txtsize --> Tndoinkes:::txtsize
-Tndoinkes:::txtsize --> RaUniDortrtkn:::txtsize
-Tndoinkes:::txtsize --> Zsrcctofdrhcp:::txtsize
-Hrnonustlslnt:::txtsize --> AhagavSesisynpurl:::txtsize
-AhagavSesisynpurl:::txtsize --> Tombsroimalrhp:::txtsize
-Tombsroimalrhp:::txtsize --> TomhimriPps:::txtsize
-Tombsroimalrhp:::txtsize --> PfpKeioctkfe:::txtsize
-AhagavSesisynpurl:::txtsize --> Hcrnheswnitrmeee:::txtsize
+ociotynror:::txtsize --> Hogmcrc:::txtsize
+Hogmcrc:::txtsize --> Hogomfhtd:::txtsize
+Hogomfhtd:::txtsize --> SKsewstrc:::txtsize
+Hogomfhtd:::txtsize --> SmatnraOw:::txtsize
+Hogmcrc:::txtsize --> Hcrnheswnitrmeee:::txtsize
 Hcrnheswnitrmeee:::txtsize --> TavtTomhuna:::txtsize
 Hcrnheswnitrmeee:::txtsize --> DaglnfppRafHo:::txtsize
 
-Ilhiiairenarep@{ shape: win-pane, label: "_Published Dec 09, 2025, 06:31 AM_
-Israeli authorities raid un palestinian refugee agency’s east jerusalem compound" }
-NyiemaDoes@{ shape: win-pane, label: "_Published Dec 08, 2025, 10:21 PM_
-Netanyahu will meet trump on gaza on dec 29, spokesperson says" }
-Ileayiemisnsaan@{ shape: win-pane, label: "_Published Dec 07, 2025, 08:31 PM_
-Israeli pm netanyahu says he will meet trump to discuss second phase of gaza plan soon" }
-GrrswrHvnrs@{ shape: win-pane, label: "_Published Nov 24, 2025, 08:22 PM_
-Gaza truce progress slow as israeli-hamas violence persists" }
-Haognsidctseoiy@{ shape: win-pane, label: "_Published Oct 18, 2025, 12:36 AM_
-Hamas aims to keep grip on gaza security and can't commit to disarm, senior official says" }
-TieauiuyaMi@{ shape: win-pane, label: "_Published Dec 02, 2025, 03:25 AM_
-Trump invites netanyahu to white house, says israeli pm’s office" }
-TwIlorii@{ shape: win-pane, label: "_Published Dec 02, 2025, 02:13 AM_
-Trump warns israel not to ‘interfere’ in syria" }
-Ilauacapnecyp@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:29 PM_
-Israel’s netanyahu appears in court after pardon request backed by trump" }
+ThhdsihAc@{ shape: win-pane, label: "_Published Dec 09, 2025, 11:25 AM_
+Trump hits the road as cost of living hurts americans" }
+Hfbymydipis@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:59 PM_
+How affordability became the year’s defining us political issue" }
+ThuMnlmenekmae@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:15 PM_
+‘turn the volume up,’ mamdani tells trump after winning new york city mayoral race" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
 
-Ilhiiairenarep:::txtsize --> NyiemaDoes:::txtsize
-NyiemaDoes:::txtsize --> Ileayiemisnsaan:::txtsize
-Ileayiemisnsaan:::txtsize --> GrrswrHvnrs:::txtsize
-Ileayiemisnsaan:::txtsize --> Haognsidctseoiy:::txtsize
-NyiemaDoes:::txtsize --> TieauiuyaMi:::txtsize
-TieauiuyaMi:::txtsize --> TwIlorii:::txtsize
-TieauiuyaMi:::txtsize --> Ilauacapnecyp:::txtsize
+ThhdsihAc:::txtsize --> Hfbymydipis:::txtsize
+Hfbymydipis:::txtsize --> ThuMnlmenekmae:::txtsize
+ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
+ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
 
-WYresemhiD@{ shape: win-pane, label: "_Published Dec 09, 2025, 06:21 AM_
-While you were sleeping: 5 stories you might have missed, dec 9, 2025" }
+KeerndaBaeassry@{ shape: win-pane, label: "_Published Dec 09, 2025, 10:15 AM_
+Kushner role in paramount’s bid for warner bros raises ethical questions, experts say" }
 Wrfhuhisboat@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:30 PM_
 Warner bros fight heats up with $140.7 billion hostile bid from paramount" }
 Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
@@ -99,34 +69,31 @@ Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
 Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
 Nixilbrrsreua@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:40 PM_
 Netflix in exclusive talks to buy warner bros discovery assets, source says" }
-Jeqienagelgito@{ shape: win-pane, label: "_Published Dec 08, 2025, 10:37 PM_
-Japan earthquake: 23 injured, tsunami warning lifted following 7.6-magnitude temblor" }
-Jbdoafasddp@{ shape: win-pane, label: "_Published Jul 05, 2025, 11:41 AM_
-Japan braced for more quakes, officials dismiss doomsday hype" }
-Jueaolaqse@{ shape: win-pane, label: "_Published Jul 04, 2025, 06:19 AM_
-Japan urges evacuation of small island as 1,000 quakes hit region" }
-Mtuhswraaslou@{ shape: win-pane, label: "_Published Jul 05, 2025, 09:52 AM_
-Magnitude 5.4 quake shakes south-western japan islands as temblors continue" }
-Jueaeaeahrcnstmm@{ shape: win-pane, label: "_Published Jul 02, 2025, 02:00 PM_
-Japan updates ‘mega quake’ preparedness plan with efforts including constructing embankments" }
-UecdJikoearvke@{ shape: win-pane, label: "_Published Mar 31, 2025, 12:04 PM_
-Up to 298,000 people could die in japan in nankai trough mega quake, warns govt task force" }
-Heeqslaidn@{ shape: win-pane, label: "_Published Jun 26, 2025, 03:45 PM_
-Hundreds of earthquakes rattle japanese island chain" }
+TwNinapnuo@{ shape: win-pane, label: "_Published Dec 08, 2025, 08:40 AM_
+Trump warns netflix-warner deal may pose antitrust ‘problem’" }
+Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
+Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
+Nixilbrrsreua@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:40 PM_
+Netflix in exclusive talks to buy warner bros discovery assets, source says" }
+Helrranoo@{ shape: win-pane, label: "_Published Dec 06, 2025, 04:54 PM_
+How the netflix-warner bros deal changes hollywood" }
+Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
+Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
+Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
+Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
 
-WYresemhiD:::txtsize --> Wrfhuhisboat:::txtsize
+KeerndaBaeassry:::txtsize --> Wrfhuhisboat:::txtsize
 Wrfhuhisboat:::txtsize --> Niunocydtiimh:::txtsize
 Niunocydtiimh:::txtsize --> Nixilbrrsreua:::txtsize
 Wrfhuhisboat:::txtsize --> Niunocydtiimh:::txtsize
 Niunocydtiimh:::txtsize --> Nixilbrrsreua:::txtsize
-WYresemhiD:::txtsize --> Jeqienagelgito:::txtsize
-Jeqienagelgito:::txtsize --> Jbdoafasddp:::txtsize
-Jbdoafasddp:::txtsize --> Jueaolaqse:::txtsize
-Jbdoafasddp:::txtsize --> Mtuhswraaslou:::txtsize
-Jeqienagelgito:::txtsize --> Jueaeaeahrcnstmm:::txtsize
-Jueaeaeahrcnstmm:::txtsize --> UecdJikoearvke:::txtsize
-Jueaeaeahrcnstmm:::txtsize --> Heeqslaidn:::txtsize
+KeerndaBaeassry:::txtsize --> TwNinapnuo:::txtsize
+TwNinapnuo:::txtsize --> Niunocydtiimh:::txtsize
+Niunocydtiimh:::txtsize --> Nixilbrrsreua:::txtsize
+TwNinapnuo:::txtsize --> Helrranoo:::txtsize
+Helrranoo:::txtsize --> Niunocydtiimh:::txtsize
+Helrranoo:::txtsize --> Niunocydtiimh:::txtsize
 
 ```
-<i>Last updated: 2025-12-09 08:00:19.297695 (GMT+8)</i>
+<i>Last updated: 2025-12-09 12:00:38.287052 (GMT+8)</i>
 <!-- END -->
