@@ -16,99 +16,117 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-easndepsenui@{ shape: win-pane, label: "_Published Dec 09, 2025, 03:30 AM_
-12 ex-fbi agents who kneeled to quell 2020 us protests sue for unlawful firings" }
-Freieedgatrt@{ shape: win-pane, label: "_Published Sep 27, 2025, 01:15 PM_
-Fbi fires agents pictured kneeling during racial justice protest in 2020" }
-Tttenadcm@{ shape: win-pane, label: "_Published Sep 27, 2025, 10:12 AM_
-Trump targets more opponents after ‘dirty cop’ comey" }
-Frhorahdurcc@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:10 AM_
-Former fbi chief comey criminally charged as trump targets critics" }
-TpcgJcanhhe@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:36 AM_
-Trump publicly urges us justice department to charge his enemies" }
-Citearcicoisgp@{ shape: win-pane, label: "_Published Sep 27, 2025, 04:47 AM_
-Comey indictment escalates trump’s campaign to chill opposition, say legal experts" }
-Frhorahdurcc@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:10 AM_
-Former fbi chief comey criminally charged as trump targets critics" }
-Utemugwhsnuonncys@{ shape: win-pane, label: "_Published Sep 26, 2025, 05:58 AM_
-Us justice department pushing for swift charges against trump’s former national security adviser" }
+Hrnonustlslnt@{ shape: win-pane, label: "_Published Dec 09, 2025, 07:25 AM_
+Heavy rain and strong winds could disrupt travel across ireland and britain" }
+SttouartcNe@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:55 PM_
+Storm threatens to disrupt transport systems across northern uk" }
+RrpBideaitnt@{ shape: win-pane, label: "_Published Sep 30, 2025, 10:04 AM_
+Rain from typhoon bualoi floods homes in hanoi, disrupts transport" }
+Toliaonlajg@{ shape: win-pane, label: "_Published Sep 29, 2025, 09:53 AM_
+Typhoon bualoi brings havoc to vietnam, killing 13 and injuring 46" }
+VacsssarTola@{ shape: win-pane, label: "_Published Sep 28, 2025, 10:43 AM_
+Vietnam evacuates thousands, shuts airports as typhoon bualoi nears" }
+Tndoinkes@{ shape: win-pane, label: "_Published Oct 01, 2025, 06:19 PM_
+Torrential downpours kill nine in ukraine’s odesa" }
+RaUniDortrtkn@{ shape: win-pane, label: "_Published Sep 30, 2025, 11:54 PM_
+Russia hits ukrainian city of dnipro in rare daytime drone attack, killing one" }
+Zsrcctofdrhcp@{ shape: win-pane, label: "_Published Oct 01, 2025, 03:45 AM_
+Zelensky warns of ‘critical’ situation at off-grid zaporizhzhia nuclear plant" }
+AhagavSesisynpurl@{ shape: win-pane, label: "_Published Nov 07, 2025, 02:42 PM_
+As typhoon kalmaegi wreaks havoc in south-east asia, scientists say rising temperatures are to blame" }
+Tombsroimalrhp@{ shape: win-pane, label: "_Published Nov 07, 2025, 10:00 AM_
+Typhoon kalmaegi brings destruction to vietnam as death toll nears 200 in philippines" }
+TomhimriPps@{ shape: win-pane, label: "_Published Nov 06, 2025, 10:40 PM_
+Typhoon kalmaegi hits vietnam after killing 140 in philippines" }
+PfpKeioctkfe@{ shape: win-pane, label: "_Published Nov 06, 2025, 10:30 AM_
+Powerful typhoon kalmaegi poised to drench vietnam’s key coffee region" }
+Hcrnheswnitrmeee@{ shape: win-pane, label: "_Published Oct 09, 2025, 04:30 PM_
+Hk’s record-breaking typhoon season spurs warnings to invest in more climate-ready measures" }
+TavtTomhuna@{ shape: win-pane, label: "_Published Oct 05, 2025, 04:20 PM_
+Thousands evacuated as typhoon matmo lashes southern china" }
+DaglnfppRafHo@{ shape: win-pane, label: "_Published Sep 24, 2025, 11:15 PM_
+Dire warnings, early planning for super typhoon ragasa pay off for hong kong" }
 
-easndepsenui:::txtsize --> Freieedgatrt:::txtsize
-Freieedgatrt:::txtsize --> Tttenadcm:::txtsize
-Tttenadcm:::txtsize --> Frhorahdurcc:::txtsize
-Tttenadcm:::txtsize --> TpcgJcanhhe:::txtsize
-Freieedgatrt:::txtsize --> Citearcicoisgp:::txtsize
-Citearcicoisgp:::txtsize --> Frhorahdurcc:::txtsize
-Citearcicoisgp:::txtsize --> Utemugwhsnuonncys:::txtsize
+Hrnonustlslnt:::txtsize --> SttouartcNe:::txtsize
+SttouartcNe:::txtsize --> RrpBideaitnt:::txtsize
+RrpBideaitnt:::txtsize --> Toliaonlajg:::txtsize
+RrpBideaitnt:::txtsize --> VacsssarTola:::txtsize
+SttouartcNe:::txtsize --> Tndoinkes:::txtsize
+Tndoinkes:::txtsize --> RaUniDortrtkn:::txtsize
+Tndoinkes:::txtsize --> Zsrcctofdrhcp:::txtsize
+Hrnonustlslnt:::txtsize --> AhagavSesisynpurl:::txtsize
+AhagavSesisynpurl:::txtsize --> Tombsroimalrhp:::txtsize
+Tombsroimalrhp:::txtsize --> TomhimriPps:::txtsize
+Tombsroimalrhp:::txtsize --> PfpKeioctkfe:::txtsize
+AhagavSesisynpurl:::txtsize --> Hcrnheswnitrmeee:::txtsize
+Hcrnheswnitrmeee:::txtsize --> TavtTomhuna:::txtsize
+Hcrnheswnitrmeee:::txtsize --> DaglnfppRafHo:::txtsize
 
-Uroovesbrnic@{ shape: win-pane, label: "_Published Dec 09, 2025, 03:13 AM_
-Us supreme court conservatives poised to back trump in ftc firing case" }
-TpscfSrami@{ shape: win-pane, label: "_Published Mar 19, 2025, 10:23 AM_
-Trump purges democrats from us federal trade commission" }
-TainveTMuele@{ shape: win-pane, label: "_Published Feb 14, 2025, 11:27 AM_
-Thousands fired in us government as trump, musk purge federal workers" }
-Wuhdmeaipoglfs@{ shape: win-pane, label: "_Published Feb 12, 2025, 06:18 AM_
-With musk at his side, trump orders us agencies to plan for ‘large-scale’ staff cuts" }
-Tsulpvnslsgr@{ shape: win-pane, label: "_Published Feb 10, 2025, 01:08 AM_
-Trump says musk will help uncover ‘hundreds of billions’ in us govt fraud" }
-Meoitrctkcpon@{ shape: win-pane, label: "_Published Mar 14, 2025, 01:32 PM_
-Meta tests community notes to replace fact-checkers across platforms in us" }
-MiefhrsfSo@{ shape: win-pane, label: "_Published Jan 20, 2025, 10:40 PM_
-Meta will keep its fact checkers outside of the us ‘for now’" }
+Ilhiiairenarep@{ shape: win-pane, label: "_Published Dec 09, 2025, 06:31 AM_
+Israeli authorities raid un palestinian refugee agency’s east jerusalem compound" }
+NyiemaDoes@{ shape: win-pane, label: "_Published Dec 08, 2025, 10:21 PM_
+Netanyahu will meet trump on gaza on dec 29, spokesperson says" }
+Ileayiemisnsaan@{ shape: win-pane, label: "_Published Dec 07, 2025, 08:31 PM_
+Israeli pm netanyahu says he will meet trump to discuss second phase of gaza plan soon" }
+GrrswrHvnrs@{ shape: win-pane, label: "_Published Nov 24, 2025, 08:22 PM_
+Gaza truce progress slow as israeli-hamas violence persists" }
+Haognsidctseoiy@{ shape: win-pane, label: "_Published Oct 18, 2025, 12:36 AM_
+Hamas aims to keep grip on gaza security and can't commit to disarm, senior official says" }
+TieauiuyaMi@{ shape: win-pane, label: "_Published Dec 02, 2025, 03:25 AM_
+Trump invites netanyahu to white house, says israeli pm’s office" }
+TwIlorii@{ shape: win-pane, label: "_Published Dec 02, 2025, 02:13 AM_
+Trump warns israel not to ‘interfere’ in syria" }
+Ilauacapnecyp@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:29 PM_
+Israel’s netanyahu appears in court after pardon request backed by trump" }
 
-Uroovesbrnic:::txtsize --> TpscfSrami:::txtsize
-TpscfSrami:::txtsize --> TainveTMuele:::txtsize
-TainveTMuele:::txtsize --> Wuhdmeaipoglfs:::txtsize
-TainveTMuele:::txtsize --> Tsulpvnslsgr:::txtsize
-TpscfSrami:::txtsize --> Meoitrctkcpon:::txtsize
-Meoitrctkcpon:::txtsize --> MiefhrsfSo:::txtsize
+Ilhiiairenarep:::txtsize --> NyiemaDoes:::txtsize
+NyiemaDoes:::txtsize --> Ileayiemisnsaan:::txtsize
+Ileayiemisnsaan:::txtsize --> GrrswrHvnrs:::txtsize
+Ileayiemisnsaan:::txtsize --> Haognsidctseoiy:::txtsize
+NyiemaDoes:::txtsize --> TieauiuyaMi:::txtsize
+TieauiuyaMi:::txtsize --> TwIlorii:::txtsize
+TieauiuyaMi:::txtsize --> Ilauacapnecyp:::txtsize
 
-BsmiKtrcianpa@{ shape: win-pane, label: "_Published Dec 09, 2025, 02:21 AM_
-British prime minister keir starmer launches tiktok account despite ban" }
-Bisoomessins@{ shape: win-pane, label: "_Published Mar 16, 2023, 08:43 PM_
-Britain bans tiktok on government devices over security concerns" }
-EmoaTspsnu@{ shape: win-pane, label: "_Published Feb 23, 2023, 07:58 PM_
-Eu commission to ban tiktok on staff phones, citing security" }
-Usirnaknces@{ shape: win-pane, label: "_Published Dec 28, 2022, 04:30 AM_
-Us house administration arm bans tiktok on official devices" }
-Muurehli@{ shape: win-pane, label: "_Published Jan 21, 2023, 11:00 AM_
-More public universities in the us block tiktok" }
-Uesoinwdea@{ shape: win-pane, label: "_Published Mar 16, 2023, 07:03 AM_
-Us threatens tiktok ban if chinese owners don't sell stake" }
-Elnsoovoetc@{ shape: win-pane, label: "_Published Mar 01, 2023, 05:15 PM_
-Eu parliament bans tiktok on work devices over security concerns" }
-Caiknfctl@{ shape: win-pane, label: "_Published Feb 28, 2023, 12:16 AM_
-Canada banning tiktok on staff devices: national post" }
-IttsMmostirnslt@{ shape: win-pane, label: "_Published Nov 25, 2025, 10:15 PM_
-‘i didn’t start it, miss’: uk pm starmer apologises after doing viral ‘6-7’ dance in school visit" }
-Bdsnrhr@{ shape: win-pane, label: "_Published Oct 31, 2025, 12:08 AM_
-Beyond words: ‘67’ crowned word of the year" }
-TrtrKangetorc@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:29 AM_
-Taylor swift and travis kelce announce engagement after two-year romance" }
-WsGpasGscth@{ shape: win-pane, label: "_Published Sep 25, 2025, 03:49 PM_
-What is 6-7? this gen alpha slang has left gen zs scratching their heads" }
-WsGpasGscth@{ shape: win-pane, label: "_Published Sep 25, 2025, 03:49 PM_
-What is 6-7? this gen alpha slang has left gen zs scratching their heads" }
-psoioasaamiurt@{ shape: win-pane, label: "_Published Jul 22, 2025, 09:45 AM_
-‘+60 points for following crowd measures’: singaporeans jump on viral ‘aura farming’ trend" }
-DhayoeaGdtrini@{ shape: win-pane, label: "_Published Aug 29, 2025, 07:00 AM_
-Do you have a ‘5-9’ after your 9-5 job? some singapore gen zs do and they are having fun with it" }
+WYresemhiD@{ shape: win-pane, label: "_Published Dec 09, 2025, 06:21 AM_
+While you were sleeping: 5 stories you might have missed, dec 9, 2025" }
+Wrfhuhisboat@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:30 PM_
+Warner bros fight heats up with $140.7 billion hostile bid from paramount" }
+Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
+Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
+Nixilbrrsreua@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:40 PM_
+Netflix in exclusive talks to buy warner bros discovery assets, source says" }
+Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
+Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
+Nixilbrrsreua@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:40 PM_
+Netflix in exclusive talks to buy warner bros discovery assets, source says" }
+Jeqienagelgito@{ shape: win-pane, label: "_Published Dec 08, 2025, 10:37 PM_
+Japan earthquake: 23 injured, tsunami warning lifted following 7.6-magnitude temblor" }
+Jbdoafasddp@{ shape: win-pane, label: "_Published Jul 05, 2025, 11:41 AM_
+Japan braced for more quakes, officials dismiss doomsday hype" }
+Jueaolaqse@{ shape: win-pane, label: "_Published Jul 04, 2025, 06:19 AM_
+Japan urges evacuation of small island as 1,000 quakes hit region" }
+Mtuhswraaslou@{ shape: win-pane, label: "_Published Jul 05, 2025, 09:52 AM_
+Magnitude 5.4 quake shakes south-western japan islands as temblors continue" }
+Jueaeaeahrcnstmm@{ shape: win-pane, label: "_Published Jul 02, 2025, 02:00 PM_
+Japan updates ‘mega quake’ preparedness plan with efforts including constructing embankments" }
+UecdJikoearvke@{ shape: win-pane, label: "_Published Mar 31, 2025, 12:04 PM_
+Up to 298,000 people could die in japan in nankai trough mega quake, warns govt task force" }
+Heeqslaidn@{ shape: win-pane, label: "_Published Jun 26, 2025, 03:45 PM_
+Hundreds of earthquakes rattle japanese island chain" }
 
-BsmiKtrcianpa:::txtsize --> Bisoomessins:::txtsize
-Bisoomessins:::txtsize --> EmoaTspsnu:::txtsize
-EmoaTspsnu:::txtsize --> Usirnaknces:::txtsize
-EmoaTspsnu:::txtsize --> Muurehli:::txtsize
-Bisoomessins:::txtsize --> Uesoinwdea:::txtsize
-Uesoinwdea:::txtsize --> Elnsoovoetc:::txtsize
-Uesoinwdea:::txtsize --> Caiknfctl:::txtsize
-BsmiKtrcianpa:::txtsize --> IttsMmostirnslt:::txtsize
-IttsMmostirnslt:::txtsize --> Bdsnrhr:::txtsize
-Bdsnrhr:::txtsize --> TrtrKangetorc:::txtsize
-Bdsnrhr:::txtsize --> WsGpasGscth:::txtsize
-IttsMmostirnslt:::txtsize --> WsGpasGscth:::txtsize
-WsGpasGscth:::txtsize --> psoioasaamiurt:::txtsize
-WsGpasGscth:::txtsize --> DhayoeaGdtrini:::txtsize
+WYresemhiD:::txtsize --> Wrfhuhisboat:::txtsize
+Wrfhuhisboat:::txtsize --> Niunocydtiimh:::txtsize
+Niunocydtiimh:::txtsize --> Nixilbrrsreua:::txtsize
+Wrfhuhisboat:::txtsize --> Niunocydtiimh:::txtsize
+Niunocydtiimh:::txtsize --> Nixilbrrsreua:::txtsize
+WYresemhiD:::txtsize --> Jeqienagelgito:::txtsize
+Jeqienagelgito:::txtsize --> Jbdoafasddp:::txtsize
+Jbdoafasddp:::txtsize --> Jueaolaqse:::txtsize
+Jbdoafasddp:::txtsize --> Mtuhswraaslou:::txtsize
+Jeqienagelgito:::txtsize --> Jueaeaeahrcnstmm:::txtsize
+Jueaeaeahrcnstmm:::txtsize --> UecdJikoearvke:::txtsize
+Jueaeaeahrcnstmm:::txtsize --> Heeqslaidn:::txtsize
 
 ```
-<i>Last updated: 2025-12-09 04:00:53.686979 (GMT+8)</i>
+<i>Last updated: 2025-12-09 08:00:19.297695 (GMT+8)</i>
 <!-- END -->
