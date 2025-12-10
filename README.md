@@ -16,105 +16,96 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Veesieas@{ shape: win-pane, label: "_Published Dec 10, 2025, 03:37 PM_
-Veggie 'burgers' at stake in eu negotiations" }
-Sckdalsadr@{ shape: win-pane, label: "_Published Jun 23, 2025, 05:00 AM_
-Science talk: blended meat could boost asia’s food security" }
-Wodoutet@{ shape: win-pane, label: "_Published Jan 07, 2023, 05:00 AM_
-What you need to know about cultivated meat" }
-Cneasifhlg@{ shape: win-pane, label: "_Published Jun 11, 2022, 02:00 PM_
-Can diners tell plant-based chicken from the real thing?" }
+Nydovorohecr@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:57 PM_
+Nearly 200 children conceived from sperm donor with increased cancer risk" }
+Busensdwald@{ shape: win-pane, label: "_Published May 31, 2025, 01:29 AM_
+Belgium says 52 babies born from sperm donor with cancer-linked gene" }
+Tenoe@{ shape: win-pane, label: "_Published Oct 17, 2024, 05:00 AM_
+The sperm donor bros of tech" }
+WPDCmgpe@{ shape: win-pane, label: "_Published Aug 25, 2024, 08:30 AM_
+Who is pavel durov, ceo of messaging app telegram?" }
+SgsonrCsbootnsttp@{ shape: win-pane, label: "_Published Sep 13, 2023, 04:30 PM_
+Stronger, faster, more concentrated: china sperm bank holds contest for university students’ samples" }
+Iiiarstcfni@{ shape: win-pane, label: "_Published Feb 10, 2023, 12:16 PM_
+In ageing china, a call for ‘bold’ steps to cut cost of having babies" }
+Tenoe@{ shape: win-pane, label: "_Published Oct 17, 2024, 05:00 AM_
+The sperm donor bros of tech" }
+WPDCmgpe@{ shape: win-pane, label: "_Published Aug 25, 2024, 08:30 AM_
+Who is pavel durov, ceo of messaging app telegram?" }
+TrsnCvrrdaand@{ shape: win-pane, label: "_Published Aug 25, 2024, 07:45 AM_
+Telegram messaging app ceo pavel durov arrested in france, say french media" }
+TrsnCvrrdaand@{ shape: win-pane, label: "_Published Aug 25, 2024, 07:45 AM_
+Telegram messaging app ceo pavel durov arrested in france, say french media" }
 
-Veesieas:::txtsize --> Sckdalsadr:::txtsize
-Sckdalsadr:::txtsize --> Wodoutet:::txtsize
-Wodoutet:::txtsize --> Cneasifhlg:::txtsize
+Nydovorohecr:::txtsize --> Busensdwald:::txtsize
+Busensdwald:::txtsize --> Tenoe:::txtsize
+Tenoe:::txtsize --> WPDCmgpe:::txtsize
+Busensdwald:::txtsize --> SgsonrCsbootnsttp:::txtsize
+SgsonrCsbootnsttp:::txtsize --> Iiiarstcfni:::txtsize
+Nydovorohecr:::txtsize --> Tenoe:::txtsize
+Tenoe:::txtsize --> WPDCmgpe:::txtsize
+WPDCmgpe:::txtsize --> TrsnCvrrdaand:::txtsize
+WPDCmgpe:::txtsize --> TrsnCvrrdaand:::txtsize
 
-Vupthaoseczr@{ shape: win-pane, label: "_Published Dec 10, 2025, 02:32 PM_
-Venezuela opposition chief machado to miss nobel peace prize award" }
-NItafhroehfeem@{ shape: win-pane, label: "_Published Dec 10, 2025, 03:07 AM_
-Nobel institute calls off machado press conference ahead of peace prize ceremony" }
-VuMdskecze@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:25 PM_
-Venezuela’s machado vows to make nobel peace prize ceremony" }
-Vuapiaaobiitloteb@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:47 AM_
-Venezuela says opposition leader machado will be ‘fugitive’ if she travels to norway to accept nobel" }
-NPPwrnhetaT@{ shape: win-pane, label: "_Published Oct 10, 2025, 11:50 PM_
-Nobel peace prize winner corina machado dedicates award to trump" }
-Vuclshtdsnrri@{ shape: win-pane, label: "_Published Dec 08, 2025, 06:45 AM_
-Venezuela acknowledges death of detained opposition figure alfredo diaz" }
-NseldoPilr@{ shape: win-pane, label: "_Published Dec 05, 2025, 09:30 AM_
-New us strike on alleged drug boat in pacific kills four" }
-UeefdikuoCbt@{ shape: win-pane, label: "_Published Dec 07, 2025, 06:51 AM_
-Us’ pete hegseth defends decision to kill survivors in caribbean strike" }
-NseldoPilr@{ shape: win-pane, label: "_Published Dec 05, 2025, 09:30 AM_
-New us strike on alleged drug boat in pacific kills four" }
-UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
-Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
-Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
-Us builds up forces in caribbean as officials, experts, ask why" }
-VuMoUswieggoy@{ shape: win-pane, label: "_Published Sep 02, 2025, 01:19 AM_
-Venezuela’s maduro says us warships with 1,200 missiles targeting his country" }
-UmsvnoaTpealtoea@{ shape: win-pane, label: "_Published Dec 04, 2025, 06:50 AM_
-Us lawmakers want vote on war powers after trump pledges to launch land attack on venezuela ‘soon’" }
-CsdltSatcerrrtsz@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
-‘colossal and costly mistake’: us lawmakers to force vote on war powers if trump attacks venezuela" }
+Levcwesaov@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:57 PM_
+Louvre thieves escaped with 30 seconds to spare, probe reveals" }
+Leudecafexdrl@{ shape: win-pane, label: "_Published Nov 19, 2025, 06:53 PM_
+Louvre museum to add 100 external cameras by 2026 after heist exposed security flaws" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
+‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
+Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
+Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
+Coievitecjs@{ shape: win-pane, label: "_Published Oct 31, 2025, 07:06 PM_
+Count of paris urges louvre thieves to ‘give us back our jewels’" }
+Leteidlaerrsl@{ shape: win-pane, label: "_Published Oct 22, 2025, 02:52 AM_
+Louvre heist losses estimated at $133 million as museum director faces grilling" }
+PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
+Paris’ louvre museum robbery: what jewels did the thieves steal?" }
 
-Vupthaoseczr:::txtsize --> NItafhroehfeem:::txtsize
-NItafhroehfeem:::txtsize --> VuMdskecze:::txtsize
-VuMdskecze:::txtsize --> Vuapiaaobiitloteb:::txtsize
-VuMdskecze:::txtsize --> NPPwrnhetaT:::txtsize
-NItafhroehfeem:::txtsize --> Vuclshtdsnrri:::txtsize
-Vuclshtdsnrri:::txtsize --> NseldoPilr:::txtsize
-Vuclshtdsnrri:::txtsize --> UeefdikuoCbt:::txtsize
-Vupthaoseczr:::txtsize --> NseldoPilr:::txtsize
-NseldoPilr:::txtsize --> UikperngutVura:::txtsize
-UikperngutVura:::txtsize --> Ulfsrafapay:::txtsize
-UikperngutVura:::txtsize --> VuMoUswieggoy:::txtsize
-NseldoPilr:::txtsize --> UmsvnoaTpealtoea:::txtsize
-UmsvnoaTpealtoea:::txtsize --> CsdltSatcerrrtsz:::txtsize
+Levcwesaov:::txtsize --> Leudecafexdrl:::txtsize
+Leudecafexdrl:::txtsize --> Ptineluiisey:::txtsize
+Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
+Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
+Leudecafexdrl:::txtsize --> Coievitecjs:::txtsize
+Coievitecjs:::txtsize --> Leteidlaerrsl:::txtsize
+Coievitecjs:::txtsize --> PLeubhwitea:::txtsize
 
-SpgjeyouooioA@{ shape: win-pane, label: "_Published Dec 10, 2025, 02:21 PM_
-Singapore’s green jet fuel levy roll-out could boost production growth: iata" }
-Ciorpnnleeytdrea@{ shape: win-pane, label: "_Published Nov 07, 2024, 06:00 PM_
-Changi airport to raise passenger and airline fees over six years to fund $3b improvement plans" }
-CrohArmtriaPg@{ shape: win-pane, label: "_Published Sep 06, 2024, 08:50 PM_
-Construction of changi airport terminal 5 to start in first half of 2025: pm wong" }
-Naitepmolpeasrlne@{ shape: win-pane, label: "_Published Aug 21, 2022, 09:02 PM_
-Ndr 2022: changi airport t5 to be more pandemic-proof, able to operate as smaller sub-terminals when needed" }
-SpnairdgiZsi@{ shape: win-pane, label: "_Published Jun 02, 2024, 09:06 PM_
-Singapore and ukraine sign air deal during president zelensky’s visit" }
-Cioesysyrdagn@{ shape: win-pane, label: "_Published Nov 01, 2023, 12:00 PM_
-Changi airport t2 reopens fully with 4-storey waterfall display, new garden" }
-Cioapitmshi@{ shape: win-pane, label: "_Published Sep 28, 2023, 09:50 AM_
-Changi airport starts operations at revamped t2’s northern wing" }
-botletoysedeleI@{ shape: win-pane, label: "_Published Dec 09, 2025, 05:50 PM_
-5.2 billion air travellers expected globally in 2026, passenger loads to reach all-time high: iata" }
-SpgjeyouooioA@{ shape: win-pane, label: "_Published Dec 10, 2025, 02:21 PM_
-Singapore’s green jet fuel levy roll-out could boost production growth: iata" }
-Ciorpnnleeytdrea@{ shape: win-pane, label: "_Published Nov 07, 2024, 06:00 PM_
-Changi airport to raise passenger and airline fees over six years to fund $3b improvement plans" }
-botletoysedeleI@{ shape: win-pane, label: "_Published Dec 09, 2025, 05:50 PM_
-5.2 billion air travellers expected globally in 2026, passenger loads to reach all-time high: iata" }
-FtrsauerhiCEmecn@{ shape: win-pane, label: "_Published Dec 09, 2025, 01:10 PM_
-Flight diversions at changi due to weather see sharp rise in 2025; caas, nea to improve forecasting" }
-OaejaSpiegodtvue@{ shape: win-pane, label: "_Published May 21, 2024, 06:20 PM_
-One dead, dozens injured after singapore airlines flight from london hit by severe turbulence" }
-Tirnagegpfasaaasy@{ shape: win-pane, label: "_Published Sep 03, 2025, 05:35 PM_
-Tackling turbulence, adapting to emerging tech part of singapore’s new national aviation safety plan" }
+NwgacnscNsuegt@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:37 PM_
+Nonna was right! italian cuisine wins a place on unesco’s cultural heritage list" }
+IniftaiEegt@{ shape: win-pane, label: "_Published Dec 10, 2025, 03:10 PM_
+Indian festival of lights diwali joins unesco heritage list" }
+BdaatcaretSd@{ shape: win-pane, label: "_Published Dec 09, 2025, 05:52 PM_
+Beyond pizza and pasta: italy’s culinary heritage awaits unesco nod" }
+Spneiudttbncalthas@{ shape: win-pane, label: "_Published Dec 04, 2024, 09:53 PM_
+Singapore and 4 other nations succeed in getting the kebaya on unesco intangible cultural heritage list" }
+Spneiudttbncalthas@{ shape: win-pane, label: "_Published Dec 04, 2024, 09:53 PM_
+Singapore and 4 other nations succeed in getting the kebaya on unesco intangible cultural heritage list" }
+YaSipyhas@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:55 PM_
+Yo-de-lay-unesco? swiss hope for yodel heritage listing" }
+Gstscrregw@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:55 PM_
+Gazans race to preserve cultural heritage damaged in war" }
+PvtusMPupsen@{ shape: win-pane, label: "_Published Sep 17, 2025, 07:11 AM_
+Peru evacuates 1,400 tourists from machu picchu amid protest; 900 more stranded" }
+Spneiudttbncalthas@{ shape: win-pane, label: "_Published Dec 04, 2024, 09:53 PM_
+Singapore and 4 other nations succeed in getting the kebaya on unesco intangible cultural heritage list" }
+Spneionefeniuail@{ shape: win-pane, label: "_Published Nov 23, 2022, 03:00 PM_
+Singapore and 3 other nations to nominate kebaya for unesco intangible cultural heritage list" }
+SpagirteUoneuegio@{ shape: win-pane, label: "_Published Mar 15, 2022, 05:00 AM_
+Singapore casting net wide for inputs on second unesco intangible cultural heritage nomination" }
 
-SpgjeyouooioA:::txtsize --> Ciorpnnleeytdrea:::txtsize
-Ciorpnnleeytdrea:::txtsize --> CrohArmtriaPg:::txtsize
-CrohArmtriaPg:::txtsize --> Naitepmolpeasrlne:::txtsize
-CrohArmtriaPg:::txtsize --> SpnairdgiZsi:::txtsize
-Ciorpnnleeytdrea:::txtsize --> Cioesysyrdagn:::txtsize
-Cioesysyrdagn:::txtsize --> Cioapitmshi:::txtsize
-SpgjeyouooioA:::txtsize --> botletoysedeleI:::txtsize
-botletoysedeleI:::txtsize --> SpgjeyouooioA:::txtsize
-SpgjeyouooioA:::txtsize --> Ciorpnnleeytdrea:::txtsize
-SpgjeyouooioA:::txtsize --> botletoysedeleI:::txtsize
-botletoysedeleI:::txtsize --> FtrsauerhiCEmecn:::txtsize
-FtrsauerhiCEmecn:::txtsize --> OaejaSpiegodtvue:::txtsize
-FtrsauerhiCEmecn:::txtsize --> Tirnagegpfasaaasy:::txtsize
+NwgacnscNsuegt:::txtsize --> IniftaiEegt:::txtsize
+IniftaiEegt:::txtsize --> BdaatcaretSd:::txtsize
+BdaatcaretSd:::txtsize --> Spneiudttbncalthas:::txtsize
+BdaatcaretSd:::txtsize --> Spneiudttbncalthas:::txtsize
+IniftaiEegt:::txtsize --> YaSipyhas:::txtsize
+YaSipyhas:::txtsize --> Gstscrregw:::txtsize
+YaSipyhas:::txtsize --> PvtusMPupsen:::txtsize
+NwgacnscNsuegt:::txtsize --> Spneiudttbncalthas:::txtsize
+Spneiudttbncalthas:::txtsize --> Spneionefeniuail:::txtsize
+Spneionefeniuail:::txtsize --> SpagirteUoneuegio:::txtsize
 
 ```
-<i>Last updated: 2025-12-10 16:00:36.045350 (GMT+8)</i>
+<i>Last updated: 2025-12-10 20:00:57.704151 (GMT+8)</i>
 <!-- END -->
