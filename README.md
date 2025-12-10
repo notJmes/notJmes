@@ -16,138 +16,132 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-CitesicUri@{ shape: win-pane, label: "_Published Dec 10, 2025, 11:54 PM_
-Court in austria rejects ukraine tycoon’s us extradition" }
-Urehegtiihtd@{ shape: win-pane, label: "_Published Jan 31, 2024, 05:47 AM_
-Us court sides with sotheby’s against russian oligarch in art fraud case" }
-Snsapioindlh@{ shape: win-pane, label: "_Published Jan 17, 2024, 02:02 AM_
-Stolen picasso, chagall paintings worth $1.2 million found in belgian house" }
-Snotdederr@{ shape: win-pane, label: "_Published Sep 13, 2023, 11:25 PM_
-Stolen van gogh returned in ikea bag ‘damaged but restorable’" }
-Iainleeulu@{ shape: win-pane, label: "_Published Sep 15, 2023, 11:45 AM_
-Italian police find stolen treasures at australian museum" }
-Mducrgnpioys@{ shape: win-pane, label: "_Published Jan 11, 2024, 01:30 AM_
-Madrid museum welcomes ruling it can keep painting looted by nazis" }
-Mdukirnldzalre@{ shape: win-pane, label: "_Published Jan 10, 2024, 07:15 AM_
-Madrid museum may keep pissarro painting looted by nazis, us appeals court rules" }
-Iainleeulu@{ shape: win-pane, label: "_Published Sep 15, 2023, 11:45 AM_
-Italian police find stolen treasures at australian museum" }
-Eoinevurwoses@{ shape: win-pane, label: "_Published Dec 14, 2023, 07:07 PM_
-Ex-fbi official sentenced to over four years for work for russia’s deripaska" }
-Ealdsormoegeons@{ shape: win-pane, label: "_Published Sep 23, 2023, 05:15 AM_
-Ex-fbi agent linked to russian oligarch admits to concealing payments, foreign trips" }
-Uyeutlisordnn@{ shape: win-pane, label: "_Published Apr 26, 2023, 03:47 AM_
-Us lawyer pleads guilty to dealing with russian oligarch under sanctions" }
-LnKtCfcalaa@{ shape: win-pane, label: "_Published Jul 28, 2023, 07:33 AM_
-Life under uk sanctions: chauffeurs, chefs and $1.3 million allowances" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
-Explosions heard in ukraine capital kyiv, other cities" }
-OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
-Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
+NoavoketmsG@{ shape: win-pane, label: "_Published Dec 11, 2025, 03:57 AM_
+‘no proof’ of mass diversion of ukraine arms to criminals, say ngos" }
+Unsinlmnalos@{ shape: win-pane, label: "_Published Dec 11, 2025, 01:17 AM_
+Ukraine says russia launches large mechanised assault in pokrovsk" }
+Eeadsaiuccmoc@{ shape: win-pane, label: "_Published Dec 11, 2025, 01:32 AM_
+European leaders discuss ukraine with trump at ‘critical moment’ for peace" }
+Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
+Us peace plan for ukraine drew from russian document, sources say" }
+UnhedewScna@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:20 PM_
+Ukraine to share revised peace plan with us on dec 9, zelensky says" }
+EseRaeciotrn@{ shape: win-pane, label: "_Published Dec 10, 2025, 01:42 AM_
+Eu close to deal on russian assets, dec 18 summit to go on until agreement" }
+EsnbnUndozsas@{ shape: win-pane, label: "_Published Oct 23, 2025, 11:00 PM_
+Eu vows financial backing for ukraine, holds off on frozen russian assets plan" }
+Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
+Belgium says eu states must share risk to use frozen russian assets for ukraine" }
+Eeadsaiuccmoc@{ shape: win-pane, label: "_Published Dec 11, 2025, 01:32 AM_
+European leaders discuss ukraine with trump at ‘critical moment’ for peace" }
+Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
+Us peace plan for ukraine drew from russian document, sources say" }
+Tsodirisohe@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:30 AM_
+Trump says no firm deadline for ukraine, russia to reach peace deal" }
+UnlyorpfStd@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:08 AM_
+Ukraine’s zelensky welcomes ‘principles’ of new us draft to end war" }
+UnhedewScna@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:20 PM_
+Ukraine to share revised peace plan with us on dec 9, zelensky says" }
+ZsyaptwStita@{ shape: win-pane, label: "_Published Dec 08, 2025, 06:36 AM_
+Zelensky says ukraine’s peace talks with us constructive but not easy" }
+ZsyaptwStita@{ shape: win-pane, label: "_Published Dec 08, 2025, 06:36 AM_
+Zelensky says ukraine’s peace talks with us constructive but not easy" }
 
-CitesicUri:::txtsize --> Urehegtiihtd:::txtsize
-Urehegtiihtd:::txtsize --> Snsapioindlh:::txtsize
-Snsapioindlh:::txtsize --> Snotdederr:::txtsize
-Snsapioindlh:::txtsize --> Iainleeulu:::txtsize
-Urehegtiihtd:::txtsize --> Mducrgnpioys:::txtsize
-Mducrgnpioys:::txtsize --> Mdukirnldzalre:::txtsize
-Mducrgnpioys:::txtsize --> Iainleeulu:::txtsize
-CitesicUri:::txtsize --> Eoinevurwoses:::txtsize
-Eoinevurwoses:::txtsize --> Ealdsormoegeons:::txtsize
-Ealdsormoegeons:::txtsize --> Uyeutlisordnn:::txtsize
-Ealdsormoegeons:::txtsize --> LnKtCfcalaa:::txtsize
-Eoinevurwoses:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
-DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
+NoavoketmsG:::txtsize --> Unsinlmnalos:::txtsize
+Unsinlmnalos:::txtsize --> Eeadsaiuccmoc:::txtsize
+Eeadsaiuccmoc:::txtsize --> Ucnkefunmos:::txtsize
+Eeadsaiuccmoc:::txtsize --> UnhedewScna:::txtsize
+Unsinlmnalos:::txtsize --> EseRaeciotrn:::txtsize
+EseRaeciotrn:::txtsize --> EsnbnUndozsas:::txtsize
+EseRaeciotrn:::txtsize --> Busauasszsaske:::txtsize
+NoavoketmsG:::txtsize --> Eeadsaiuccmoc:::txtsize
+Eeadsaiuccmoc:::txtsize --> Ucnkefunmos:::txtsize
+Ucnkefunmos:::txtsize --> Tsodirisohe:::txtsize
+Ucnkefunmos:::txtsize --> UnlyorpfStd:::txtsize
+Eeadsaiuccmoc:::txtsize --> UnhedewScna:::txtsize
+UnhedewScna:::txtsize --> ZsyaptwStita:::txtsize
+UnhedewScna:::txtsize --> ZsyaptwStita:::txtsize
 
-Igsieomr@{ shape: win-pane, label: "_Published Dec 10, 2025, 11:45 PM_
-Instagram users given new algorithm controls" }
-Itooersaisues@{ shape: win-pane, label: "_Published Dec 10, 2025, 08:48 PM_
-‘i didn’t get to say goodbye’: australia’s social media ban stirs unease, praise" }
-Wwesnaisita@{ shape: win-pane, label: "_Published Dec 10, 2025, 11:15 AM_
-World watches first teen social media ban start in australia" }
-Aaombrdnafils@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:32 PM_
-Australia social media ban for children under 16 takes effect in world first" }
-Aneaisesint@{ shape: win-pane, label: "_Published Dec 10, 2025, 08:20 AM_
-Alternative social media apps surge as australia teen ban starts" }
-SpnsAavceayu@{ shape: win-pane, label: "_Published Jan 07, 2025, 01:27 PM_
-Singapore in talks with australia over social media ban for young users" }
-Aaaslaolu@{ shape: win-pane, label: "_Published Nov 28, 2024, 08:33 PM_
-Australia passes social media ban for children under 16" }
-Wwesnaisita@{ shape: win-pane, label: "_Published Dec 10, 2025, 11:15 AM_
-World watches first teen social media ban start in australia" }
-Aaombrdnafils@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:32 PM_
-Australia social media ban for children under 16 takes effect in world first" }
-Aaombtkeagbaw@{ shape: win-pane, label: "_Published Dec 09, 2025, 12:07 PM_
-Australia social media ban set to take effect, sparking a global crackdown" }
-FulEetmocromas@{ shape: win-pane, label: "_Published Dec 09, 2025, 12:37 PM_
-From australia to europe, countries move to curb children’s social media access" }
-Aneaisesint@{ shape: win-pane, label: "_Published Dec 10, 2025, 08:20 AM_
-Alternative social media apps surge as australia teen ban starts" }
-Aaaslaolu@{ shape: win-pane, label: "_Published Nov 28, 2024, 08:33 PM_
-Australia passes social media ban for children under 16" }
-Aaombrdnafils@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:32 PM_
-Australia social media ban for children under 16 takes effect in world first" }
+Fhipdepsrnh@{ shape: win-pane, label: "_Published Dec 11, 2025, 02:09 AM_
+French far right sparks debate with proposal to re-open brothels" }
+Dpeoardeose@{ shape: win-pane, label: "_Published Nov 17, 2024, 05:16 PM_
+Dutch police use hologram to try and decode sex worker’s 2009 murder" }
+Scricldnool@{ shape: win-pane, label: "_Published Jul 15, 2023, 04:41 AM_
+Suspect charged with decade-old murders on new york’s long island" }
+Schasleriufe@{ shape: win-pane, label: "_Published May 04, 2023, 12:28 AM_
+Suspected thai cyanide serial killer charged with 14 counts of murder" }
+TrslerojrFe@{ shape: win-pane, label: "_Published Dec 24, 2022, 04:52 PM_
+'the serpent' serial killer charles sobhraj returns to france" }
+Tpeaestirnr@{ shape: win-pane, label: "_Published Feb 05, 2025, 05:30 PM_
+Tokyo police bust alleged prostitution ring targeting tourists" }
+Rdiustpiupvo@{ shape: win-pane, label: "_Published Jan 15, 2025, 04:26 PM_
+Record 36.8 million tourists visited japan in 2024 in return to pre-covid-19 boom" }
+Wepatshhires@{ shape: win-pane, label: "_Published Apr 29, 2024, 08:30 AM_
+Weak yen keeps japanese tourists at home while visitor numbers rise" }
+Jsmirpvuw@{ shape: win-pane, label: "_Published Jun 20, 2024, 06:20 PM_
+Japan seeks more visitors despite overtourism woes" }
+Staiywrst@{ shape: win-pane, label: "_Published Jan 04, 2025, 10:56 PM_
+Street in osaka painted yellow to curb prostitution" }
+Cfsbaoaisrua@{ shape: win-pane, label: "_Published Nov 20, 2023, 09:25 AM_
+Calls for host clubs in japan to stop allowing customers to run up tabs" }
+Lsuawfrmou@{ shape: win-pane, label: "_Published Dec 27, 2023, 03:03 PM_
+‘like a saviour’: japanese women fall prey to male host clubs" }
 
-Igsieomr:::txtsize --> Itooersaisues:::txtsize
-Itooersaisues:::txtsize --> Wwesnaisita:::txtsize
-Wwesnaisita:::txtsize --> Aaombrdnafils:::txtsize
-Wwesnaisita:::txtsize --> Aneaisesint:::txtsize
-Itooersaisues:::txtsize --> SpnsAavceayu:::txtsize
-SpnsAavceayu:::txtsize --> Aaaslaolu:::txtsize
-Igsieomr:::txtsize --> Wwesnaisita:::txtsize
-Wwesnaisita:::txtsize --> Aaombrdnafils:::txtsize
-Aaombrdnafils:::txtsize --> Aaombtkeagbaw:::txtsize
-Aaombrdnafils:::txtsize --> FulEetmocromas:::txtsize
-Wwesnaisita:::txtsize --> Aneaisesint:::txtsize
-Aneaisesint:::txtsize --> Aaaslaolu:::txtsize
-Aneaisesint:::txtsize --> Aaombrdnafils:::txtsize
+Fhipdepsrnh:::txtsize --> Dpeoardeose:::txtsize
+Dpeoardeose:::txtsize --> Scricldnool:::txtsize
+Scricldnool:::txtsize --> Schasleriufe:::txtsize
+Scricldnool:::txtsize --> TrslerojrFe:::txtsize
+Fhipdepsrnh:::txtsize --> Tpeaestirnr:::txtsize
+Tpeaestirnr:::txtsize --> Rdiustpiupvo:::txtsize
+Rdiustpiupvo:::txtsize --> Wepatshhires:::txtsize
+Rdiustpiupvo:::txtsize --> Jsmirpvuw:::txtsize
+Tpeaestirnr:::txtsize --> Staiywrst:::txtsize
+Staiywrst:::txtsize --> Cfsbaoaisrua:::txtsize
+Staiywrst:::txtsize --> Lsuawfrmou:::txtsize
 
-EmiGrntilpdo@{ shape: win-pane, label: "_Published Dec 10, 2025, 11:40 PM_
-Economy minister guy parmelin elected switzerland’s president for 2026" }
-SedeesUotfk@{ shape: win-pane, label: "_Published Aug 08, 2025, 04:08 AM_
-Switzerland to seek more talks with us as 39% ‘horror’ tariffs kick in" }
-Sednaastnetaagma@{ shape: win-pane, label: "_Published Aug 07, 2025, 12:50 AM_
-Switzerland facing 39% us tariff as president karin keller-sutter leaves washington empty-handed" }
-SednUiteeaoo@{ shape: win-pane, label: "_Published Aug 02, 2025, 05:11 AM_
-Switzerland stunned by us tariff rate of 39%, seeks negotiated solution" }
-SednUiteeaoo@{ shape: win-pane, label: "_Published Aug 02, 2025, 05:11 AM_
-Switzerland stunned by us tariff rate of 39%, seeks negotiated solution" }
-SednUiteeaoo@{ shape: win-pane, label: "_Published Aug 02, 2025, 05:11 AM_
-Switzerland stunned by us tariff rate of 39%, seeks negotiated solution" }
-Tmiccraodrnarn@{ shape: win-pane, label: "_Published Aug 01, 2025, 07:56 AM_
-Trump modifies reciprocal tariffs ahead of deadline; rate on singapore remains at 10%" }
-SedUittdinve@{ shape: win-pane, label: "_Published Nov 14, 2025, 11:44 PM_
-Switzerland wins us tariff rate cut to 15%, pledges $260 billion in investments" }
-SedeesUotfk@{ shape: win-pane, label: "_Published Aug 08, 2025, 04:08 AM_
-Switzerland to seek more talks with us as 39% ‘horror’ tariffs kick in" }
-Sednaastnetaagma@{ shape: win-pane, label: "_Published Aug 07, 2025, 12:50 AM_
-Switzerland facing 39% us tariff as president karin keller-sutter leaves washington empty-handed" }
-SednUiteeaoo@{ shape: win-pane, label: "_Published Aug 02, 2025, 05:11 AM_
-Switzerland stunned by us tariff rate of 39%, seeks negotiated solution" }
-Sedcerasti@{ shape: win-pane, label: "_Published Sep 11, 2025, 10:42 PM_
-Switzerland’s watchmakers turn us tariffs into timepieces" }
-SedeesUotfk@{ shape: win-pane, label: "_Published Aug 08, 2025, 04:08 AM_
-Switzerland to seek more talks with us as 39% ‘horror’ tariffs kick in" }
-SedeesUotfk@{ shape: win-pane, label: "_Published Aug 08, 2025, 04:08 AM_
-Switzerland to seek more talks with us as 39% ‘horror’ tariffs kick in" }
+NvMauuICtdrl@{ shape: win-pane, label: "_Published Dec 11, 2025, 01:48 AM_
+Not lovin’ it: mcdonald’s pulls dutch ‘ai slop’ christmas ad after backlash" }
+Fnosmnknaiwsed@{ shape: win-pane, label: "_Published Dec 02, 2025, 03:45 PM_
+Fearing ai job losses, some young workers in britain shift towards skilled trades" }
+Bishpwfrgcfj@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:10 PM_
+‘bloodied onslaughts’: experts warn of ai’s growing impact on office jobs" }
+TejtoyItdn@{ shape: win-pane, label: "_Published Oct 30, 2025, 04:15 PM_
+Tech sector job cuts in 2025: how many are ai-related redundancies?" }
+Heflknedstite@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:06 PM_
+High demand for roles like ai engineers and data scientists in fintech: report" }
+Fcdnnsvrfmtstpo@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:10 PM_
+Fintech funding in asean falls 36% as investors shift from growth-chasing start-ups: report" }
+AulpmntercmWCg@{ shape: win-pane, label: "_Published Nov 12, 2025, 01:55 PM_
+Ai should help people do more and do it faster, not replace them: uob’s wee ee cheong" }
+LrofAeieftna@{ shape: win-pane, label: "_Published Aug 05, 2024, 10:10 AM_
+‘lies are flooding feeds’: ai fakery raises fears of us voter manipulation" }
+Titeciekdrsaien@{ shape: win-pane, label: "_Published Feb 14, 2024, 06:49 AM_
+Tech giants to unveil pact to fight deepfakes and other ai misuse targeting elections" }
+Dadaondegac@{ shape: win-pane, label: "_Published Dec 17, 2023, 05:00 AM_
+Deepfake videos raise concern in india ahead of general election" }
+IKvreolsenm@{ shape: win-pane, label: "_Published Feb 12, 2024, 12:10 PM_
+Imran khan’s ‘victory speech’ from jail shows ai’s peril and promise" }
+Dadaondegac@{ shape: win-pane, label: "_Published Dec 17, 2023, 05:00 AM_
+Deepfake videos raise concern in india ahead of general election" }
+AsIdwitaiut@{ shape: win-pane, label: "_Published Dec 08, 2023, 04:45 PM_
+Apps using ai to undress women in photos soaring in popularity" }
+Nnseyfcrao@{ shape: win-pane, label: "_Published Nov 18, 2023, 11:15 AM_
+News anchors targeted by deepfake scammers on facebook" }
 
-EmiGrntilpdo:::txtsize --> SedeesUotfk:::txtsize
-SedeesUotfk:::txtsize --> Sednaastnetaagma:::txtsize
-Sednaastnetaagma:::txtsize --> SednUiteeaoo:::txtsize
-Sednaastnetaagma:::txtsize --> SednUiteeaoo:::txtsize
-SedeesUotfk:::txtsize --> SednUiteeaoo:::txtsize
-SednUiteeaoo:::txtsize --> Tmiccraodrnarn:::txtsize
-EmiGrntilpdo:::txtsize --> SedUittdinve:::txtsize
-SedUittdinve:::txtsize --> SedeesUotfk:::txtsize
-SedeesUotfk:::txtsize --> Sednaastnetaagma:::txtsize
-SedeesUotfk:::txtsize --> SednUiteeaoo:::txtsize
-SedUittdinve:::txtsize --> Sedcerasti:::txtsize
-Sedcerasti:::txtsize --> SedeesUotfk:::txtsize
-Sedcerasti:::txtsize --> SedeesUotfk:::txtsize
+NvMauuICtdrl:::txtsize --> Fnosmnknaiwsed:::txtsize
+Fnosmnknaiwsed:::txtsize --> Bishpwfrgcfj:::txtsize
+Bishpwfrgcfj:::txtsize --> TejtoyItdn:::txtsize
+Fnosmnknaiwsed:::txtsize --> Heflknedstite:::txtsize
+Heflknedstite:::txtsize --> Fcdnnsvrfmtstpo:::txtsize
+Heflknedstite:::txtsize --> AulpmntercmWCg:::txtsize
+NvMauuICtdrl:::txtsize --> LrofAeieftna:::txtsize
+LrofAeieftna:::txtsize --> Titeciekdrsaien:::txtsize
+Titeciekdrsaien:::txtsize --> Dadaondegac:::txtsize
+Titeciekdrsaien:::txtsize --> IKvreolsenm:::txtsize
+LrofAeieftna:::txtsize --> Dadaondegac:::txtsize
+Dadaondegac:::txtsize --> AsIdwitaiut:::txtsize
+Dadaondegac:::txtsize --> Nnseyfcrao:::txtsize
 
 ```
-<i>Last updated: 2025-12-11 00:00:21.970170 (GMT+8)</i>
+<i>Last updated: 2025-12-11 04:00:49.588249 (GMT+8)</i>
 <!-- END -->
