@@ -16,96 +16,138 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Nydovorohecr@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:57 PM_
-Nearly 200 children conceived from sperm donor with increased cancer risk" }
-Busensdwald@{ shape: win-pane, label: "_Published May 31, 2025, 01:29 AM_
-Belgium says 52 babies born from sperm donor with cancer-linked gene" }
-Tenoe@{ shape: win-pane, label: "_Published Oct 17, 2024, 05:00 AM_
-The sperm donor bros of tech" }
-WPDCmgpe@{ shape: win-pane, label: "_Published Aug 25, 2024, 08:30 AM_
-Who is pavel durov, ceo of messaging app telegram?" }
-SgsonrCsbootnsttp@{ shape: win-pane, label: "_Published Sep 13, 2023, 04:30 PM_
-Stronger, faster, more concentrated: china sperm bank holds contest for university students’ samples" }
-Iiiarstcfni@{ shape: win-pane, label: "_Published Feb 10, 2023, 12:16 PM_
-In ageing china, a call for ‘bold’ steps to cut cost of having babies" }
-Tenoe@{ shape: win-pane, label: "_Published Oct 17, 2024, 05:00 AM_
-The sperm donor bros of tech" }
-WPDCmgpe@{ shape: win-pane, label: "_Published Aug 25, 2024, 08:30 AM_
-Who is pavel durov, ceo of messaging app telegram?" }
-TrsnCvrrdaand@{ shape: win-pane, label: "_Published Aug 25, 2024, 07:45 AM_
-Telegram messaging app ceo pavel durov arrested in france, say french media" }
-TrsnCvrrdaand@{ shape: win-pane, label: "_Published Aug 25, 2024, 07:45 AM_
-Telegram messaging app ceo pavel durov arrested in france, say french media" }
+CitesicUri@{ shape: win-pane, label: "_Published Dec 10, 2025, 11:54 PM_
+Court in austria rejects ukraine tycoon’s us extradition" }
+Urehegtiihtd@{ shape: win-pane, label: "_Published Jan 31, 2024, 05:47 AM_
+Us court sides with sotheby’s against russian oligarch in art fraud case" }
+Snsapioindlh@{ shape: win-pane, label: "_Published Jan 17, 2024, 02:02 AM_
+Stolen picasso, chagall paintings worth $1.2 million found in belgian house" }
+Snotdederr@{ shape: win-pane, label: "_Published Sep 13, 2023, 11:25 PM_
+Stolen van gogh returned in ikea bag ‘damaged but restorable’" }
+Iainleeulu@{ shape: win-pane, label: "_Published Sep 15, 2023, 11:45 AM_
+Italian police find stolen treasures at australian museum" }
+Mducrgnpioys@{ shape: win-pane, label: "_Published Jan 11, 2024, 01:30 AM_
+Madrid museum welcomes ruling it can keep painting looted by nazis" }
+Mdukirnldzalre@{ shape: win-pane, label: "_Published Jan 10, 2024, 07:15 AM_
+Madrid museum may keep pissarro painting looted by nazis, us appeals court rules" }
+Iainleeulu@{ shape: win-pane, label: "_Published Sep 15, 2023, 11:45 AM_
+Italian police find stolen treasures at australian museum" }
+Eoinevurwoses@{ shape: win-pane, label: "_Published Dec 14, 2023, 07:07 PM_
+Ex-fbi official sentenced to over four years for work for russia’s deripaska" }
+Ealdsormoegeons@{ shape: win-pane, label: "_Published Sep 23, 2023, 05:15 AM_
+Ex-fbi agent linked to russian oligarch admits to concealing payments, foreign trips" }
+Uyeutlisordnn@{ shape: win-pane, label: "_Published Apr 26, 2023, 03:47 AM_
+Us lawyer pleads guilty to dealing with russian oligarch under sanctions" }
+LnKtCfcalaa@{ shape: win-pane, label: "_Published Jul 28, 2023, 07:33 AM_
+Life under uk sanctions: chauffeurs, chefs and $1.3 million allowances" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
+Explosions heard in ukraine capital kyiv, other cities" }
+OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
+Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
 
-Nydovorohecr:::txtsize --> Busensdwald:::txtsize
-Busensdwald:::txtsize --> Tenoe:::txtsize
-Tenoe:::txtsize --> WPDCmgpe:::txtsize
-Busensdwald:::txtsize --> SgsonrCsbootnsttp:::txtsize
-SgsonrCsbootnsttp:::txtsize --> Iiiarstcfni:::txtsize
-Nydovorohecr:::txtsize --> Tenoe:::txtsize
-Tenoe:::txtsize --> WPDCmgpe:::txtsize
-WPDCmgpe:::txtsize --> TrsnCvrrdaand:::txtsize
-WPDCmgpe:::txtsize --> TrsnCvrrdaand:::txtsize
+CitesicUri:::txtsize --> Urehegtiihtd:::txtsize
+Urehegtiihtd:::txtsize --> Snsapioindlh:::txtsize
+Snsapioindlh:::txtsize --> Snotdederr:::txtsize
+Snsapioindlh:::txtsize --> Iainleeulu:::txtsize
+Urehegtiihtd:::txtsize --> Mducrgnpioys:::txtsize
+Mducrgnpioys:::txtsize --> Mdukirnldzalre:::txtsize
+Mducrgnpioys:::txtsize --> Iainleeulu:::txtsize
+CitesicUri:::txtsize --> Eoinevurwoses:::txtsize
+Eoinevurwoses:::txtsize --> Ealdsormoegeons:::txtsize
+Ealdsormoegeons:::txtsize --> Uyeutlisordnn:::txtsize
+Ealdsormoegeons:::txtsize --> LnKtCfcalaa:::txtsize
+Eoinevurwoses:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
+DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
 
-Levcwesaov@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:57 PM_
-Louvre thieves escaped with 30 seconds to spare, probe reveals" }
-Leudecafexdrl@{ shape: win-pane, label: "_Published Nov 19, 2025, 06:53 PM_
-Louvre museum to add 100 external cameras by 2026 after heist exposed security flaws" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
-‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
-Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
-Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
-Coievitecjs@{ shape: win-pane, label: "_Published Oct 31, 2025, 07:06 PM_
-Count of paris urges louvre thieves to ‘give us back our jewels’" }
-Leteidlaerrsl@{ shape: win-pane, label: "_Published Oct 22, 2025, 02:52 AM_
-Louvre heist losses estimated at $133 million as museum director faces grilling" }
-PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
-Paris’ louvre museum robbery: what jewels did the thieves steal?" }
+Igsieomr@{ shape: win-pane, label: "_Published Dec 10, 2025, 11:45 PM_
+Instagram users given new algorithm controls" }
+Itooersaisues@{ shape: win-pane, label: "_Published Dec 10, 2025, 08:48 PM_
+‘i didn’t get to say goodbye’: australia’s social media ban stirs unease, praise" }
+Wwesnaisita@{ shape: win-pane, label: "_Published Dec 10, 2025, 11:15 AM_
+World watches first teen social media ban start in australia" }
+Aaombrdnafils@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:32 PM_
+Australia social media ban for children under 16 takes effect in world first" }
+Aneaisesint@{ shape: win-pane, label: "_Published Dec 10, 2025, 08:20 AM_
+Alternative social media apps surge as australia teen ban starts" }
+SpnsAavceayu@{ shape: win-pane, label: "_Published Jan 07, 2025, 01:27 PM_
+Singapore in talks with australia over social media ban for young users" }
+Aaaslaolu@{ shape: win-pane, label: "_Published Nov 28, 2024, 08:33 PM_
+Australia passes social media ban for children under 16" }
+Wwesnaisita@{ shape: win-pane, label: "_Published Dec 10, 2025, 11:15 AM_
+World watches first teen social media ban start in australia" }
+Aaombrdnafils@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:32 PM_
+Australia social media ban for children under 16 takes effect in world first" }
+Aaombtkeagbaw@{ shape: win-pane, label: "_Published Dec 09, 2025, 12:07 PM_
+Australia social media ban set to take effect, sparking a global crackdown" }
+FulEetmocromas@{ shape: win-pane, label: "_Published Dec 09, 2025, 12:37 PM_
+From australia to europe, countries move to curb children’s social media access" }
+Aneaisesint@{ shape: win-pane, label: "_Published Dec 10, 2025, 08:20 AM_
+Alternative social media apps surge as australia teen ban starts" }
+Aaaslaolu@{ shape: win-pane, label: "_Published Nov 28, 2024, 08:33 PM_
+Australia passes social media ban for children under 16" }
+Aaombrdnafils@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:32 PM_
+Australia social media ban for children under 16 takes effect in world first" }
 
-Levcwesaov:::txtsize --> Leudecafexdrl:::txtsize
-Leudecafexdrl:::txtsize --> Ptineluiisey:::txtsize
-Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
-Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
-Leudecafexdrl:::txtsize --> Coievitecjs:::txtsize
-Coievitecjs:::txtsize --> Leteidlaerrsl:::txtsize
-Coievitecjs:::txtsize --> PLeubhwitea:::txtsize
+Igsieomr:::txtsize --> Itooersaisues:::txtsize
+Itooersaisues:::txtsize --> Wwesnaisita:::txtsize
+Wwesnaisita:::txtsize --> Aaombrdnafils:::txtsize
+Wwesnaisita:::txtsize --> Aneaisesint:::txtsize
+Itooersaisues:::txtsize --> SpnsAavceayu:::txtsize
+SpnsAavceayu:::txtsize --> Aaaslaolu:::txtsize
+Igsieomr:::txtsize --> Wwesnaisita:::txtsize
+Wwesnaisita:::txtsize --> Aaombrdnafils:::txtsize
+Aaombrdnafils:::txtsize --> Aaombtkeagbaw:::txtsize
+Aaombrdnafils:::txtsize --> FulEetmocromas:::txtsize
+Wwesnaisita:::txtsize --> Aneaisesint:::txtsize
+Aneaisesint:::txtsize --> Aaaslaolu:::txtsize
+Aneaisesint:::txtsize --> Aaombrdnafils:::txtsize
 
-NwgacnscNsuegt@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:37 PM_
-Nonna was right! italian cuisine wins a place on unesco’s cultural heritage list" }
-IniftaiEegt@{ shape: win-pane, label: "_Published Dec 10, 2025, 03:10 PM_
-Indian festival of lights diwali joins unesco heritage list" }
-BdaatcaretSd@{ shape: win-pane, label: "_Published Dec 09, 2025, 05:52 PM_
-Beyond pizza and pasta: italy’s culinary heritage awaits unesco nod" }
-Spneiudttbncalthas@{ shape: win-pane, label: "_Published Dec 04, 2024, 09:53 PM_
-Singapore and 4 other nations succeed in getting the kebaya on unesco intangible cultural heritage list" }
-Spneiudttbncalthas@{ shape: win-pane, label: "_Published Dec 04, 2024, 09:53 PM_
-Singapore and 4 other nations succeed in getting the kebaya on unesco intangible cultural heritage list" }
-YaSipyhas@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:55 PM_
-Yo-de-lay-unesco? swiss hope for yodel heritage listing" }
-Gstscrregw@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:55 PM_
-Gazans race to preserve cultural heritage damaged in war" }
-PvtusMPupsen@{ shape: win-pane, label: "_Published Sep 17, 2025, 07:11 AM_
-Peru evacuates 1,400 tourists from machu picchu amid protest; 900 more stranded" }
-Spneiudttbncalthas@{ shape: win-pane, label: "_Published Dec 04, 2024, 09:53 PM_
-Singapore and 4 other nations succeed in getting the kebaya on unesco intangible cultural heritage list" }
-Spneionefeniuail@{ shape: win-pane, label: "_Published Nov 23, 2022, 03:00 PM_
-Singapore and 3 other nations to nominate kebaya for unesco intangible cultural heritage list" }
-SpagirteUoneuegio@{ shape: win-pane, label: "_Published Mar 15, 2022, 05:00 AM_
-Singapore casting net wide for inputs on second unesco intangible cultural heritage nomination" }
+EmiGrntilpdo@{ shape: win-pane, label: "_Published Dec 10, 2025, 11:40 PM_
+Economy minister guy parmelin elected switzerland’s president for 2026" }
+SedeesUotfk@{ shape: win-pane, label: "_Published Aug 08, 2025, 04:08 AM_
+Switzerland to seek more talks with us as 39% ‘horror’ tariffs kick in" }
+Sednaastnetaagma@{ shape: win-pane, label: "_Published Aug 07, 2025, 12:50 AM_
+Switzerland facing 39% us tariff as president karin keller-sutter leaves washington empty-handed" }
+SednUiteeaoo@{ shape: win-pane, label: "_Published Aug 02, 2025, 05:11 AM_
+Switzerland stunned by us tariff rate of 39%, seeks negotiated solution" }
+SednUiteeaoo@{ shape: win-pane, label: "_Published Aug 02, 2025, 05:11 AM_
+Switzerland stunned by us tariff rate of 39%, seeks negotiated solution" }
+SednUiteeaoo@{ shape: win-pane, label: "_Published Aug 02, 2025, 05:11 AM_
+Switzerland stunned by us tariff rate of 39%, seeks negotiated solution" }
+Tmiccraodrnarn@{ shape: win-pane, label: "_Published Aug 01, 2025, 07:56 AM_
+Trump modifies reciprocal tariffs ahead of deadline; rate on singapore remains at 10%" }
+SedUittdinve@{ shape: win-pane, label: "_Published Nov 14, 2025, 11:44 PM_
+Switzerland wins us tariff rate cut to 15%, pledges $260 billion in investments" }
+SedeesUotfk@{ shape: win-pane, label: "_Published Aug 08, 2025, 04:08 AM_
+Switzerland to seek more talks with us as 39% ‘horror’ tariffs kick in" }
+Sednaastnetaagma@{ shape: win-pane, label: "_Published Aug 07, 2025, 12:50 AM_
+Switzerland facing 39% us tariff as president karin keller-sutter leaves washington empty-handed" }
+SednUiteeaoo@{ shape: win-pane, label: "_Published Aug 02, 2025, 05:11 AM_
+Switzerland stunned by us tariff rate of 39%, seeks negotiated solution" }
+Sedcerasti@{ shape: win-pane, label: "_Published Sep 11, 2025, 10:42 PM_
+Switzerland’s watchmakers turn us tariffs into timepieces" }
+SedeesUotfk@{ shape: win-pane, label: "_Published Aug 08, 2025, 04:08 AM_
+Switzerland to seek more talks with us as 39% ‘horror’ tariffs kick in" }
+SedeesUotfk@{ shape: win-pane, label: "_Published Aug 08, 2025, 04:08 AM_
+Switzerland to seek more talks with us as 39% ‘horror’ tariffs kick in" }
 
-NwgacnscNsuegt:::txtsize --> IniftaiEegt:::txtsize
-IniftaiEegt:::txtsize --> BdaatcaretSd:::txtsize
-BdaatcaretSd:::txtsize --> Spneiudttbncalthas:::txtsize
-BdaatcaretSd:::txtsize --> Spneiudttbncalthas:::txtsize
-IniftaiEegt:::txtsize --> YaSipyhas:::txtsize
-YaSipyhas:::txtsize --> Gstscrregw:::txtsize
-YaSipyhas:::txtsize --> PvtusMPupsen:::txtsize
-NwgacnscNsuegt:::txtsize --> Spneiudttbncalthas:::txtsize
-Spneiudttbncalthas:::txtsize --> Spneionefeniuail:::txtsize
-Spneionefeniuail:::txtsize --> SpagirteUoneuegio:::txtsize
+EmiGrntilpdo:::txtsize --> SedeesUotfk:::txtsize
+SedeesUotfk:::txtsize --> Sednaastnetaagma:::txtsize
+Sednaastnetaagma:::txtsize --> SednUiteeaoo:::txtsize
+Sednaastnetaagma:::txtsize --> SednUiteeaoo:::txtsize
+SedeesUotfk:::txtsize --> SednUiteeaoo:::txtsize
+SednUiteeaoo:::txtsize --> Tmiccraodrnarn:::txtsize
+EmiGrntilpdo:::txtsize --> SedUittdinve:::txtsize
+SedUittdinve:::txtsize --> SedeesUotfk:::txtsize
+SedeesUotfk:::txtsize --> Sednaastnetaagma:::txtsize
+SedeesUotfk:::txtsize --> SednUiteeaoo:::txtsize
+SedUittdinve:::txtsize --> Sedcerasti:::txtsize
+Sedcerasti:::txtsize --> SedeesUotfk:::txtsize
+Sedcerasti:::txtsize --> SedeesUotfk:::txtsize
 
 ```
-<i>Last updated: 2025-12-10 20:00:57.704151 (GMT+8)</i>
+<i>Last updated: 2025-12-11 00:00:21.970170 (GMT+8)</i>
 <!-- END -->
