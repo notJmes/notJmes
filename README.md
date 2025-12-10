@@ -16,129 +16,135 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-NItafhroehfeem@{ shape: win-pane, label: "_Published Dec 10, 2025, 03:07 AM_
-Nobel institute calls off machado press conference ahead of peace prize ceremony" }
-VuMdskecze@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:25 PM_
-Venezuela’s machado vows to make nobel peace prize ceremony" }
-Vuapiaaobiitloteb@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:47 AM_
-Venezuela says opposition leader machado will be ‘fugitive’ if she travels to norway to accept nobel" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-TfsztaaMort@{ shape: win-pane, label: "_Published Nov 17, 2025, 08:57 AM_
-Trump floats venezuela talks as us labels maduro a terrorist" }
-NPPwrnhetaT@{ shape: win-pane, label: "_Published Oct 10, 2025, 11:50 PM_
-Nobel peace prize winner corina machado dedicates award to trump" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-WHsoottioe@{ shape: win-pane, label: "_Published Oct 10, 2025, 08:43 PM_
-White house says nobel committee puts ‘politics over peace’" }
-Vuclshtdsnrri@{ shape: win-pane, label: "_Published Dec 08, 2025, 06:45 AM_
-Venezuela acknowledges death of detained opposition figure alfredo diaz" }
-NseldoPilr@{ shape: win-pane, label: "_Published Dec 05, 2025, 09:30 AM_
-New us strike on alleged drug boat in pacific kills four" }
-UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
-Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
-UmsvnoaTpealtoea@{ shape: win-pane, label: "_Published Dec 04, 2025, 06:50 AM_
-Us lawmakers want vote on war powers after trump pledges to launch land attack on venezuela ‘soon’" }
-UeefdikuoCbt@{ shape: win-pane, label: "_Published Dec 07, 2025, 06:51 AM_
-Us’ pete hegseth defends decision to kill survivors in caribbean strike" }
-Uirdotoeramzsho@{ shape: win-pane, label: "_Published Dec 02, 2025, 04:09 AM_
-Us admiral ordered follow-up strike on alleged drug boat from venezuela, says white house" }
+Fasidefohne@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:48 AM_
+Fda examines possible adult deaths from covid-19 shots in probe" }
+Kdcdrnccoertae@{ shape: win-pane, label: "_Published Dec 08, 2025, 07:15 AM_
+Kennedy vaccine advisers ‘turned back the clock’ on disease prevention, say experts" }
+Ucaphiaetrrf@{ shape: win-pane, label: "_Published Dec 06, 2025, 10:25 AM_
+Us vaccine panel upends hepatitis b advice in latest trump-era shift" }
+Ucotethsdssny@{ shape: win-pane, label: "_Published Dec 03, 2025, 11:01 AM_
+Us vaccine committee’s hepatitis b changes would be most consequential yet" }
+TeeDmoespeoevnn@{ shape: win-pane, label: "_Published Dec 04, 2025, 10:12 AM_
+Twelve former us fda commissioners express deep concern about agency’s vaccine change" }
+TeeDmoespeoevnn@{ shape: win-pane, label: "_Published Dec 04, 2025, 10:12 AM_
+Twelve former us fda commissioners express deep concern about agency’s vaccine change" }
+Usyidcsre@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:25 AM_
+Us fda’s newly appointed drugs chief set to retire" }
+Ucotethsdssny@{ shape: win-pane, label: "_Published Dec 03, 2025, 11:01 AM_
+Us vaccine committee’s hepatitis b changes would be most consequential yet" }
+Ulcreeyituuaeole@{ shape: win-pane, label: "_Published Nov 18, 2025, 05:10 AM_
+Us health secretary robert f. kennedy jr tries to tie aluminium in vaccines to food allergies" }
+MaulStryeso@{ shape: win-pane, label: "_Published Sep 04, 2025, 10:20 AM_
+Medical groups call on us health secretary kennedy to step down" }
+Ulttormnitcretnes@{ shape: win-pane, label: "_Published May 16, 2025, 06:40 AM_
+Us health authorities to stop recommending covid-19 shots for children, pregnant women, wsj reports" }
+Ucotskoagsstfli@{ shape: win-pane, label: "_Published Aug 28, 2025, 08:08 AM_
+Us cdc chief out after just weeks in role, challenges ouster as four top officials resign" }
 
-NItafhroehfeem:::txtsize --> VuMdskecze:::txtsize
-VuMdskecze:::txtsize --> Vuapiaaobiitloteb:::txtsize
-Vuapiaaobiitloteb:::txtsize --> Vuoilranhibai:::txtsize
-Vuapiaaobiitloteb:::txtsize --> TfsztaaMort:::txtsize
-VuMdskecze:::txtsize --> NPPwrnhetaT:::txtsize
-NPPwrnhetaT:::txtsize --> Vuoilranhibai:::txtsize
-NPPwrnhetaT:::txtsize --> WHsoottioe:::txtsize
-NItafhroehfeem:::txtsize --> Vuclshtdsnrri:::txtsize
-Vuclshtdsnrri:::txtsize --> NseldoPilr:::txtsize
-NseldoPilr:::txtsize --> UikperngutVura:::txtsize
-NseldoPilr:::txtsize --> UmsvnoaTpealtoea:::txtsize
-Vuclshtdsnrri:::txtsize --> UeefdikuoCbt:::txtsize
-UeefdikuoCbt:::txtsize --> Uirdotoeramzsho:::txtsize
+Fasidefohne:::txtsize --> Kdcdrnccoertae:::txtsize
+Kdcdrnccoertae:::txtsize --> Ucaphiaetrrf:::txtsize
+Ucaphiaetrrf:::txtsize --> Ucotethsdssny:::txtsize
+Ucaphiaetrrf:::txtsize --> TeeDmoespeoevnn:::txtsize
+Kdcdrnccoertae:::txtsize --> TeeDmoespeoevnn:::txtsize
+TeeDmoespeoevnn:::txtsize --> Usyidcsre:::txtsize
+TeeDmoespeoevnn:::txtsize --> Ucotethsdssny:::txtsize
+Fasidefohne:::txtsize --> Ulcreeyituuaeole:::txtsize
+Ulcreeyituuaeole:::txtsize --> MaulStryeso:::txtsize
+MaulStryeso:::txtsize --> Ulttormnitcretnes:::txtsize
+MaulStryeso:::txtsize --> Ucotskoagsstfli:::txtsize
 
-Mrafsekedrn@{ shape: win-pane, label: "_Published Dec 10, 2025, 02:58 AM_
-Member of uk armed forces killed in ukraine accident, britain says" }
-Unlyreusaalbt@{ shape: win-pane, label: "_Published Dec 10, 2025, 12:42 AM_
-Ukraine’s zelensky says ‘refined documents’ on peace plan will soon be sent to us" }
-Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
-Us peace plan for ukraine drew from russian document, sources say" }
-Tsodirisohe@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:30 AM_
-Trump says no firm deadline for ukraine, russia to reach peace deal" }
-UnlyorpfStd@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:08 AM_
-Ukraine’s zelensky welcomes ‘principles’ of new us draft to end war" }
-Paotagerirsn@{ shape: win-pane, label: "_Published Dec 09, 2025, 06:27 PM_
-Pope calls for ‘just and lasting peace’ after meeting ukraine’s zelensky" }
-UnhedewScna@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:20 PM_
-Ukraine to share revised peace plan with us on dec 9, zelensky says" }
-UnhedewScna@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:20 PM_
-Ukraine to share revised peace plan with us on dec 9, zelensky says" }
-EseRaeciotrn@{ shape: win-pane, label: "_Published Dec 10, 2025, 01:42 AM_
-Eu close to deal on russian assets, dec 18 summit to go on until agreement" }
-EsnbnUndozsas@{ shape: win-pane, label: "_Published Oct 23, 2025, 11:00 PM_
-Eu vows financial backing for ukraine, holds off on frozen russian assets plan" }
-ErtkftassewUn@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:10 AM_
-Eu approves 19th package of sanctions against russia over its war in ukraine" }
-Ucsilrrionitncr@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:27 PM_
-Us sanctions russian oil majors over ukraine, prompting india jitters and moscow fury" }
-Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
-Belgium says eu states must share risk to use frozen russian assets for ukraine" }
-Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
-Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
-Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
-Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
+RsscssouaiSo@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:45 AM_
+Rubio stages font coup as times new roman ousts calibri for us diplomats" }
+UecectnDom@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:40 AM_
+Us wireless carrier at&t commits to ending dei programmes" }
+Utedsfsplageeh@{ shape: win-pane, label: "_Published Jan 22, 2025, 05:18 PM_
+Us govt workers in diversity offices to be put on leave as programmes ordered shut" }
+TcioirdsGi@{ shape: win-pane, label: "_Published Jan 21, 2025, 10:16 AM_
+Trump curtails protections around diversity, lgbtq rights" }
+TcioirdsGi@{ shape: win-pane, label: "_Published Jan 21, 2025, 10:16 AM_
+Trump curtails protections around diversity, lgbtq rights" }
+MSeiiiegpftoeia@{ shape: win-pane, label: "_Published Oct 17, 2025, 08:50 AM_
+More us universities join mit in rejecting trump’s preferential college funding plan" }
+TosoeftugrtM@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:00 AM_
+Trump offers all colleges preferential funding plan rejected by mit" }
+BUrrtiuasaat@{ shape: win-pane, label: "_Published Oct 16, 2025, 07:00 AM_
+Brown university rejects a white house deal for special treatment" }
+Taitahnetidr@{ shape: win-pane, label: "_Published Feb 27, 2025, 09:53 AM_
+Trump administration says it has cancelled most foreign aid contracts" }
+Udpseekrtnshs@{ shape: win-pane, label: "_Published Feb 14, 2025, 07:44 AM_
+Usaid disruptions leave oxygen tanks, tb drugs stuck in ships, warehouses" }
+Ucasosgpnaoiton@{ shape: win-pane, label: "_Published Feb 12, 2025, 02:08 AM_
+Usaid contractors join others suing trump administration over dismantling of agency" }
+WdruugAainednrt@{ shape: win-pane, label: "_Published Feb 11, 2025, 11:28 AM_
+Watchdog warns trump’s gutting of usaid leaves $11 billion unspent aid with no oversight" }
+Uwdrtilriitec@{ shape: win-pane, label: "_Published Feb 12, 2025, 02:45 PM_
+Usaid watchdog fired after critical report on bid to dismantle the agency" }
+WdruugAainednrt@{ shape: win-pane, label: "_Published Feb 11, 2025, 11:28 AM_
+Watchdog warns trump’s gutting of usaid leaves $11 billion unspent aid with no oversight" }
+Uctgeeugote@{ shape: win-pane, label: "_Published Feb 10, 2025, 02:36 PM_
+Usaid climate programmes aimed to curb migration. now they’re gone" }
 
-Mrafsekedrn:::txtsize --> Unlyreusaalbt:::txtsize
-Unlyreusaalbt:::txtsize --> Ucnkefunmos:::txtsize
-Ucnkefunmos:::txtsize --> Tsodirisohe:::txtsize
-Ucnkefunmos:::txtsize --> UnlyorpfStd:::txtsize
-Unlyreusaalbt:::txtsize --> Paotagerirsn:::txtsize
-Paotagerirsn:::txtsize --> UnhedewScna:::txtsize
-Paotagerirsn:::txtsize --> UnhedewScna:::txtsize
-Mrafsekedrn:::txtsize --> EseRaeciotrn:::txtsize
-EseRaeciotrn:::txtsize --> EsnbnUndozsas:::txtsize
-EsnbnUndozsas:::txtsize --> ErtkftassewUn:::txtsize
-EsnbnUndozsas:::txtsize --> Ucsilrrionitncr:::txtsize
-EseRaeciotrn:::txtsize --> Busauasszsaske:::txtsize
-Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
-Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
+RsscssouaiSo:::txtsize --> UecectnDom:::txtsize
+UecectnDom:::txtsize --> Utedsfsplageeh:::txtsize
+Utedsfsplageeh:::txtsize --> TcioirdsGi:::txtsize
+Utedsfsplageeh:::txtsize --> TcioirdsGi:::txtsize
+UecectnDom:::txtsize --> MSeiiiegpftoeia:::txtsize
+MSeiiiegpftoeia:::txtsize --> TosoeftugrtM:::txtsize
+MSeiiiegpftoeia:::txtsize --> BUrrtiuasaat:::txtsize
+RsscssouaiSo:::txtsize --> Taitahnetidr:::txtsize
+Taitahnetidr:::txtsize --> Udpseekrtnshs:::txtsize
+Udpseekrtnshs:::txtsize --> Ucasosgpnaoiton:::txtsize
+Udpseekrtnshs:::txtsize --> WdruugAainednrt:::txtsize
+Taitahnetidr:::txtsize --> Uwdrtilriitec:::txtsize
+Uwdrtilriitec:::txtsize --> WdruugAainednrt:::txtsize
+Uwdrtilriitec:::txtsize --> Uctgeeugote:::txtsize
 
-Anstunfdaoho@{ shape: win-pane, label: "_Published Dec 10, 2025, 02:45 AM_
-Amy winehouse’s father sues singer’s friends for auctioning her clothes" }
-CeDswnmeao@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:28 PM_
-Charles and diana’s rare wedding champagne to be auctioned" }
-Peaautaakuees@{ shape: win-pane, label: "_Published Nov 20, 2025, 08:27 PM_
-Princess diana’s wax figure enters paris waxwork museum in ‘revenge dress’" }
-Csnantohaatae@{ shape: win-pane, label: "_Published Aug 22, 2022, 09:52 AM_
-Crises again threatening british monarchy's image 25 years after diana's death" }
-LsnDaotfsag@{ shape: win-pane, label: "_Published Jun 10, 2025, 01:58 AM_
-‘largest princess diana auction’ features frocks, hats and bags" }
-Tossrerityaa@{ shape: win-pane, label: "_Published Jan 10, 2024, 12:46 AM_
-The crown costumes and props head for auction after royal drama wraps" }
-Pearecepbtd@{ shape: win-pane, label: "_Published Jul 17, 2023, 11:40 PM_
-Princess diana’s pre-loved ‘black sheep’ jumper to be auctioned" }
-UeFidoPnclnyun@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:15 PM_
-Us director francis ford coppola’s f.p. journe watch sells for nearly $14m at auction" }
-MostworttDtaFoa@{ shape: win-pane, label: "_Published Sep 27, 2024, 03:00 PM_
-Megalopolis is not some ‘woke movie or political thing’: director francis ford coppola" }
-FiejBeeoleihy@{ shape: win-pane, label: "_Published Sep 05, 2024, 03:00 PM_
-Film picks: beetlejuice beetlejuice, cuckoo, till we meet again on the lily hill" }
-AihopTtsgesopmVT@{ shape: win-pane, label: "_Published Sep 26, 2024, 04:00 PM_
-Arts picks: chio books pop-up at the arts house, singapore translation symposium, deja vu at stpi" }
+CoampoilWeei@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:35 AM_
+‘come north!’ canada makes play for h-1b visa holders with new talent drive" }
+TaitrectfpnHa@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:25 AM_
+Trump administration orders enhanced vetting for applicants of h-1b visa" }
+Tddisepooes@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:39 AM_
+Trump defends h-1b visas as needed despite moves to raise costs" }
+TaitreHaevnhibrwr@{ shape: win-pane, label: "_Published Sep 23, 2025, 10:07 PM_
+Trump administration proposes new h-1b visa process favouring higher-skilled, better-paid workers" }
+Rndpiotmcirnrn@{ shape: win-pane, label: "_Published Sep 08, 2025, 11:00 PM_
+Raid on hyundai-lg plant in us points to trump’s focus on immigration enforcement" }
+Innuemrfrvvu@{ shape: win-pane, label: "_Published Nov 17, 2025, 02:30 PM_
+International student enrolment drops after trump’s visa overhaul" }
+UanpoloifrBe@{ shape: win-pane, label: "_Published Oct 07, 2025, 11:18 AM_
+Us visa no longer a passport to love for indians after trump h-1b squeeze" }
+Spnenemuroplnrtnu@{ shape: win-pane, label: "_Published Apr 08, 2025, 05:00 AM_
+Singaporean students in us on edge amid trump’s crackdown on pro-palestinian protesters on campus" }
+TaitrectfpnHa@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:25 AM_
+Trump administration orders enhanced vetting for applicants of h-1b visa" }
+Tddisepooes@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:39 AM_
+Trump defends h-1b visas as needed despite moves to raise costs" }
+TaitreHaevnhibrwr@{ shape: win-pane, label: "_Published Sep 23, 2025, 10:07 PM_
+Trump administration proposes new h-1b visa process favouring higher-skilled, better-paid workers" }
+Rndpiotmcirnrn@{ shape: win-pane, label: "_Published Sep 08, 2025, 11:00 PM_
+Raid on hyundai-lg plant in us points to trump’s focus on immigration enforcement" }
+Innuemrfrvvu@{ shape: win-pane, label: "_Published Nov 17, 2025, 02:30 PM_
+International student enrolment drops after trump’s visa overhaul" }
+UanpoloifrBe@{ shape: win-pane, label: "_Published Oct 07, 2025, 11:18 AM_
+Us visa no longer a passport to love for indians after trump h-1b squeeze" }
+Spnenemuroplnrtnu@{ shape: win-pane, label: "_Published Apr 08, 2025, 05:00 AM_
+Singaporean students in us on edge amid trump’s crackdown on pro-palestinian protesters on campus" }
 
-Anstunfdaoho:::txtsize --> CeDswnmeao:::txtsize
-CeDswnmeao:::txtsize --> Peaautaakuees:::txtsize
-Peaautaakuees:::txtsize --> Csnantohaatae:::txtsize
-CeDswnmeao:::txtsize --> LsnDaotfsag:::txtsize
-LsnDaotfsag:::txtsize --> Tossrerityaa:::txtsize
-LsnDaotfsag:::txtsize --> Pearecepbtd:::txtsize
-Anstunfdaoho:::txtsize --> UeFidoPnclnyun:::txtsize
-UeFidoPnclnyun:::txtsize --> MostworttDtaFoa:::txtsize
-MostworttDtaFoa:::txtsize --> FiejBeeoleihy:::txtsize
-MostworttDtaFoa:::txtsize --> AihopTtsgesopmVT:::txtsize
+CoampoilWeei:::txtsize --> TaitrectfpnHa:::txtsize
+TaitrectfpnHa:::txtsize --> Tddisepooes:::txtsize
+Tddisepooes:::txtsize --> TaitreHaevnhibrwr:::txtsize
+Tddisepooes:::txtsize --> Rndpiotmcirnrn:::txtsize
+TaitrectfpnHa:::txtsize --> Innuemrfrvvu:::txtsize
+Innuemrfrvvu:::txtsize --> UanpoloifrBe:::txtsize
+Innuemrfrvvu:::txtsize --> Spnenemuroplnrtnu:::txtsize
+CoampoilWeei:::txtsize --> TaitrectfpnHa:::txtsize
+TaitrectfpnHa:::txtsize --> Tddisepooes:::txtsize
+Tddisepooes:::txtsize --> TaitreHaevnhibrwr:::txtsize
+Tddisepooes:::txtsize --> Rndpiotmcirnrn:::txtsize
+TaitrectfpnHa:::txtsize --> Innuemrfrvvu:::txtsize
+Innuemrfrvvu:::txtsize --> UanpoloifrBe:::txtsize
+Innuemrfrvvu:::txtsize --> Spnenemuroplnrtnu:::txtsize
 
 ```
-<i>Last updated: 2025-12-10 04:00:24.790345 (GMT+8)</i>
+<i>Last updated: 2025-12-10 08:00:48.342992 (GMT+8)</i>
 <!-- END -->
