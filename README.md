@@ -16,135 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Fasidefohne@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:48 AM_
-Fda examines possible adult deaths from covid-19 shots in probe" }
-Kdcdrnccoertae@{ shape: win-pane, label: "_Published Dec 08, 2025, 07:15 AM_
-Kennedy vaccine advisers ‘turned back the clock’ on disease prevention, say experts" }
-Ucaphiaetrrf@{ shape: win-pane, label: "_Published Dec 06, 2025, 10:25 AM_
-Us vaccine panel upends hepatitis b advice in latest trump-era shift" }
-Ucotethsdssny@{ shape: win-pane, label: "_Published Dec 03, 2025, 11:01 AM_
-Us vaccine committee’s hepatitis b changes would be most consequential yet" }
-TeeDmoespeoevnn@{ shape: win-pane, label: "_Published Dec 04, 2025, 10:12 AM_
-Twelve former us fda commissioners express deep concern about agency’s vaccine change" }
-TeeDmoespeoevnn@{ shape: win-pane, label: "_Published Dec 04, 2025, 10:12 AM_
-Twelve former us fda commissioners express deep concern about agency’s vaccine change" }
-Usyidcsre@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:25 AM_
-Us fda’s newly appointed drugs chief set to retire" }
-Ucotethsdssny@{ shape: win-pane, label: "_Published Dec 03, 2025, 11:01 AM_
-Us vaccine committee’s hepatitis b changes would be most consequential yet" }
-Ulcreeyituuaeole@{ shape: win-pane, label: "_Published Nov 18, 2025, 05:10 AM_
-Us health secretary robert f. kennedy jr tries to tie aluminium in vaccines to food allergies" }
-MaulStryeso@{ shape: win-pane, label: "_Published Sep 04, 2025, 10:20 AM_
-Medical groups call on us health secretary kennedy to step down" }
-Ulttormnitcretnes@{ shape: win-pane, label: "_Published May 16, 2025, 06:40 AM_
-Us health authorities to stop recommending covid-19 shots for children, pregnant women, wsj reports" }
-Ucotskoagsstfli@{ shape: win-pane, label: "_Published Aug 28, 2025, 08:08 AM_
-Us cdc chief out after just weeks in role, challenges ouster as four top officials resign" }
+MSsoeidslcasy@{ shape: win-pane, label: "_Published Dec 10, 2025, 11:35 AM_
+Most us teens use youtube and tiktok daily, some ‘almost constantly’, survey says" }
+Ctngsieidngieae@{ shape: win-pane, label: "_Published Dec 08, 2025, 12:11 PM_
+Christmas unplugged: australian teen social media ban brings holiday headspace woes" }
+Tkmisntae@{ shape: win-pane, label: "_Published Dec 05, 2025, 03:11 PM_
+Tiktok to comply with ‘upsetting’ australian under-16 ban" }
+Hsinaeoid@{ shape: win-pane, label: "_Published Dec 01, 2025, 12:50 PM_
+How australia plans to ban under-16s from social media" }
+Msvebussla@{ shape: win-pane, label: "_Published Dec 04, 2025, 09:12 AM_
+Malaysia government to block under-16s from social media" }
+Aaaedfwaiaatct@{ shape: win-pane, label: "_Published Dec 05, 2025, 05:00 AM_
+Australia says the world will follow social media ban as meta starts blocking teens" }
+Ybowulecea@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:55 AM_
+Youtube to comply with australia’s teen social media ban" }
+Aathnslaattbs@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:09 AM_
+Australian teen challenging social media ban says internet will be less safe" }
+Coeirhweo@{ shape: win-pane, label: "_Published Sep 28, 2025, 01:15 PM_
+Chatbots are hurting our kids – here’s what we can do" }
+OIsdhTrneUnc@{ shape: win-pane, label: "_Published Aug 27, 2025, 07:50 AM_
+Openai plans to update chatgpt after parents sue over us teen’s suicide" }
+HehTtiueliiir@{ shape: win-pane, label: "_Published May 10, 2025, 11:15 AM_
+Hear me out: chatgpt is not my friend, but it lends a late-night listening ear" }
+Cbraes@{ shape: win-pane, label: "_Published Jul 28, 2025, 05:00 AM_
+Can ai be my friend and therapist?" }
+OIdnolhTrea@{ shape: win-pane, label: "_Published Sep 02, 2025, 11:06 PM_
+Openai to add parental controls to chatgpt after us teen’s death" }
+OIsdhTrneUnc@{ shape: win-pane, label: "_Published Aug 27, 2025, 07:50 AM_
+Openai plans to update chatgpt after parents sue over us teen’s suicide" }
 
-Fasidefohne:::txtsize --> Kdcdrnccoertae:::txtsize
-Kdcdrnccoertae:::txtsize --> Ucaphiaetrrf:::txtsize
-Ucaphiaetrrf:::txtsize --> Ucotethsdssny:::txtsize
-Ucaphiaetrrf:::txtsize --> TeeDmoespeoevnn:::txtsize
-Kdcdrnccoertae:::txtsize --> TeeDmoespeoevnn:::txtsize
-TeeDmoespeoevnn:::txtsize --> Usyidcsre:::txtsize
-TeeDmoespeoevnn:::txtsize --> Ucotethsdssny:::txtsize
-Fasidefohne:::txtsize --> Ulcreeyituuaeole:::txtsize
-Ulcreeyituuaeole:::txtsize --> MaulStryeso:::txtsize
-MaulStryeso:::txtsize --> Ulttormnitcretnes:::txtsize
-MaulStryeso:::txtsize --> Ucotskoagsstfli:::txtsize
+MSsoeidslcasy:::txtsize --> Ctngsieidngieae:::txtsize
+Ctngsieidngieae:::txtsize --> Tkmisntae:::txtsize
+Tkmisntae:::txtsize --> Hsinaeoid:::txtsize
+Tkmisntae:::txtsize --> Msvebussla:::txtsize
+Ctngsieidngieae:::txtsize --> Aaaedfwaiaatct:::txtsize
+Aaaedfwaiaatct:::txtsize --> Ybowulecea:::txtsize
+Aaaedfwaiaatct:::txtsize --> Aathnslaattbs:::txtsize
+MSsoeidslcasy:::txtsize --> Coeirhweo:::txtsize
+Coeirhweo:::txtsize --> OIsdhTrneUnc:::txtsize
+OIsdhTrneUnc:::txtsize --> HehTtiueliiir:::txtsize
+OIsdhTrneUnc:::txtsize --> Cbraes:::txtsize
+Coeirhweo:::txtsize --> OIdnolhTrea:::txtsize
+OIdnolhTrea:::txtsize --> OIsdhTrneUnc:::txtsize
 
-RsscssouaiSo@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:45 AM_
-Rubio stages font coup as times new roman ousts calibri for us diplomats" }
-UecectnDom@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:40 AM_
-Us wireless carrier at&t commits to ending dei programmes" }
-Utedsfsplageeh@{ shape: win-pane, label: "_Published Jan 22, 2025, 05:18 PM_
-Us govt workers in diversity offices to be put on leave as programmes ordered shut" }
-TcioirdsGi@{ shape: win-pane, label: "_Published Jan 21, 2025, 10:16 AM_
-Trump curtails protections around diversity, lgbtq rights" }
-TcioirdsGi@{ shape: win-pane, label: "_Published Jan 21, 2025, 10:16 AM_
-Trump curtails protections around diversity, lgbtq rights" }
-MSeiiiegpftoeia@{ shape: win-pane, label: "_Published Oct 17, 2025, 08:50 AM_
-More us universities join mit in rejecting trump’s preferential college funding plan" }
-TosoeftugrtM@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:00 AM_
-Trump offers all colleges preferential funding plan rejected by mit" }
-BUrrtiuasaat@{ shape: win-pane, label: "_Published Oct 16, 2025, 07:00 AM_
-Brown university rejects a white house deal for special treatment" }
-Taitahnetidr@{ shape: win-pane, label: "_Published Feb 27, 2025, 09:53 AM_
-Trump administration says it has cancelled most foreign aid contracts" }
-Udpseekrtnshs@{ shape: win-pane, label: "_Published Feb 14, 2025, 07:44 AM_
-Usaid disruptions leave oxygen tanks, tb drugs stuck in ships, warehouses" }
-Ucasosgpnaoiton@{ shape: win-pane, label: "_Published Feb 12, 2025, 02:08 AM_
-Usaid contractors join others suing trump administration over dismantling of agency" }
-WdruugAainednrt@{ shape: win-pane, label: "_Published Feb 11, 2025, 11:28 AM_
-Watchdog warns trump’s gutting of usaid leaves $11 billion unspent aid with no oversight" }
-Uwdrtilriitec@{ shape: win-pane, label: "_Published Feb 12, 2025, 02:45 PM_
-Usaid watchdog fired after critical report on bid to dismantle the agency" }
-WdruugAainednrt@{ shape: win-pane, label: "_Published Feb 11, 2025, 11:28 AM_
-Watchdog warns trump’s gutting of usaid leaves $11 billion unspent aid with no oversight" }
-Uctgeeugote@{ shape: win-pane, label: "_Published Feb 10, 2025, 02:36 PM_
-Usaid climate programmes aimed to curb migration. now they’re gone" }
+UdlIetolUis@{ shape: win-pane, label: "_Published Dec 10, 2025, 10:50 AM_
+Us trade deal with indonesia at risk of collapse, us official says" }
+SasoofeaswnNsnke@{ shape: win-pane, label: "_Published Dec 06, 2025, 04:00 PM_
+S’pore and rest of world worse off after us tariffs; ties within asean must stay on track: sm lee" }
+SMseooottogdsistp@{ shape: win-pane, label: "_Published Dec 04, 2025, 12:12 PM_
+S’pore, malaysia deepen collaboration; continue talks on longstanding issues in ‘constructive spirit’" }
+Nbrclaomogeyese@{ shape: win-pane, label: "_Published Dec 04, 2025, 06:30 PM_
+New sabah, sarawak consulates among outcomes from singapore-malaysia leaders’ retreat" }
+SMslntplrcgt@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:05 PM_
+S’pore, malaysia will jointly study optimal air traffic management" }
+UtbyCiaocdrter@{ shape: win-pane, label: "_Published Dec 05, 2025, 11:11 AM_
+Us wants stability with china instead of conflict: trade representative greer" }
+Unloehmsewne@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:01 AM_
+Us, china seal deal on rare earths; trump says xi meeting was a 12 on scale of 1 to 10" }
+LnmegvpSaee@{ shape: win-pane, label: "_Published Oct 30, 2025, 12:05 AM_
+Looming trump-xi meeting revives hope of us-china trade truce" }
+Wrteamdar@{ shape: win-pane, label: "_Published Oct 21, 2025, 09:47 PM_
+Why rare earths are china’s trump card in trade war" }
 
-RsscssouaiSo:::txtsize --> UecectnDom:::txtsize
-UecectnDom:::txtsize --> Utedsfsplageeh:::txtsize
-Utedsfsplageeh:::txtsize --> TcioirdsGi:::txtsize
-Utedsfsplageeh:::txtsize --> TcioirdsGi:::txtsize
-UecectnDom:::txtsize --> MSeiiiegpftoeia:::txtsize
-MSeiiiegpftoeia:::txtsize --> TosoeftugrtM:::txtsize
-MSeiiiegpftoeia:::txtsize --> BUrrtiuasaat:::txtsize
-RsscssouaiSo:::txtsize --> Taitahnetidr:::txtsize
-Taitahnetidr:::txtsize --> Udpseekrtnshs:::txtsize
-Udpseekrtnshs:::txtsize --> Ucasosgpnaoiton:::txtsize
-Udpseekrtnshs:::txtsize --> WdruugAainednrt:::txtsize
-Taitahnetidr:::txtsize --> Uwdrtilriitec:::txtsize
-Uwdrtilriitec:::txtsize --> WdruugAainednrt:::txtsize
-Uwdrtilriitec:::txtsize --> Uctgeeugote:::txtsize
+UdlIetolUis:::txtsize --> SasoofeaswnNsnke:::txtsize
+SasoofeaswnNsnke:::txtsize --> SMseooottogdsistp:::txtsize
+SMseooottogdsistp:::txtsize --> Nbrclaomogeyese:::txtsize
+SMseooottogdsistp:::txtsize --> SMslntplrcgt:::txtsize
+UdlIetolUis:::txtsize --> UtbyCiaocdrter:::txtsize
+UtbyCiaocdrter:::txtsize --> Unloehmsewne:::txtsize
+Unloehmsewne:::txtsize --> LnmegvpSaee:::txtsize
+Unloehmsewne:::txtsize --> Wrteamdar:::txtsize
 
-CoampoilWeei@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:35 AM_
-‘come north!’ canada makes play for h-1b visa holders with new talent drive" }
-TaitrectfpnHa@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:25 AM_
-Trump administration orders enhanced vetting for applicants of h-1b visa" }
-Tddisepooes@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:39 AM_
-Trump defends h-1b visas as needed despite moves to raise costs" }
-TaitreHaevnhibrwr@{ shape: win-pane, label: "_Published Sep 23, 2025, 10:07 PM_
-Trump administration proposes new h-1b visa process favouring higher-skilled, better-paid workers" }
-Rndpiotmcirnrn@{ shape: win-pane, label: "_Published Sep 08, 2025, 11:00 PM_
-Raid on hyundai-lg plant in us points to trump’s focus on immigration enforcement" }
-Innuemrfrvvu@{ shape: win-pane, label: "_Published Nov 17, 2025, 02:30 PM_
-International student enrolment drops after trump’s visa overhaul" }
-UanpoloifrBe@{ shape: win-pane, label: "_Published Oct 07, 2025, 11:18 AM_
-Us visa no longer a passport to love for indians after trump h-1b squeeze" }
-Spnenemuroplnrtnu@{ shape: win-pane, label: "_Published Apr 08, 2025, 05:00 AM_
-Singaporean students in us on edge amid trump’s crackdown on pro-palestinian protesters on campus" }
-TaitrectfpnHa@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:25 AM_
-Trump administration orders enhanced vetting for applicants of h-1b visa" }
-Tddisepooes@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:39 AM_
-Trump defends h-1b visas as needed despite moves to raise costs" }
-TaitreHaevnhibrwr@{ shape: win-pane, label: "_Published Sep 23, 2025, 10:07 PM_
-Trump administration proposes new h-1b visa process favouring higher-skilled, better-paid workers" }
-Rndpiotmcirnrn@{ shape: win-pane, label: "_Published Sep 08, 2025, 11:00 PM_
-Raid on hyundai-lg plant in us points to trump’s focus on immigration enforcement" }
-Innuemrfrvvu@{ shape: win-pane, label: "_Published Nov 17, 2025, 02:30 PM_
-International student enrolment drops after trump’s visa overhaul" }
-UanpoloifrBe@{ shape: win-pane, label: "_Published Oct 07, 2025, 11:18 AM_
-Us visa no longer a passport to love for indians after trump h-1b squeeze" }
-Spnenemuroplnrtnu@{ shape: win-pane, label: "_Published Apr 08, 2025, 05:00 AM_
-Singaporean students in us on edge amid trump’s crackdown on pro-palestinian protesters on campus" }
+UkaieCoann@{ shape: win-pane, label: "_Published Dec 10, 2025, 08:52 AM_
+Us backs japan in dispute with china over radar incident" }
+CsscerdJelyeys@{ shape: win-pane, label: "_Published Dec 07, 2025, 08:41 AM_
+Chinese jets direct fire-control radar at japanese military planes, tokyo says" }
+JPaaddwmaCstm@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:44 PM_
+Japan pm sanae takaichi defends taiwan remarks after chinese criticism" }
+JpsaCdmitarkiwm@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:00 PM_
+Japan protests against china diplomat’s violent threat over pm takaichi’s taiwan remark" }
+ChuaSTcriioi@{ shape: win-pane, label: "_Published Nov 02, 2025, 11:37 AM_
+China hits out at japan’s sanae takaichi for meeting taiwan’s officials" }
+Cacotsnps@{ shape: win-pane, label: "_Published Nov 27, 2025, 07:55 AM_
+China again cautions citizens against japan visits" }
+JPaaddwmaCstm@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:44 PM_
+Japan pm sanae takaichi defends taiwan remarks after chinese criticism" }
+JfbitCriktrrs@{ shape: win-pane, label: "_Published Nov 21, 2025, 07:08 AM_
+Japan faces $1.6b tourism hit amid china row; trip bookings to s’pore, s. korea rise" }
+EmoiJPatTbfiaihie@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:58 AM_
+‘extremely good friends’: japan pm takaichi touts trump bond after first talks since china dispute" }
+Xwroiaptnas@{ shape: win-pane, label: "_Published Nov 25, 2025, 11:00 AM_
+Xi may want trump to rein in japan in spat with china, say analysts" }
+EmoiJPatTbfiaihie@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:58 AM_
+‘extremely good friends’: japan pm takaichi touts trump bond after first talks since china dispute" }
+JpsaCdmitarkiwm@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:00 PM_
+Japan protests against china diplomat’s violent threat over pm takaichi’s taiwan remark" }
+JslrcrthcsTnr@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:35 AM_
+Japan sends letter to un chief rebutting china’s claims over taiwan remarks" }
+JpsaCdmitarkiwm@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:00 PM_
+Japan protests against china diplomat’s violent threat over pm takaichi’s taiwan remark" }
+Xlmtatsowdpc@{ shape: win-pane, label: "_Published Nov 24, 2025, 11:38 PM_
+Xi tells trump that taiwan’s ‘return’ is key to post-war order in phone call" }
 
-CoampoilWeei:::txtsize --> TaitrectfpnHa:::txtsize
-TaitrectfpnHa:::txtsize --> Tddisepooes:::txtsize
-Tddisepooes:::txtsize --> TaitreHaevnhibrwr:::txtsize
-Tddisepooes:::txtsize --> Rndpiotmcirnrn:::txtsize
-TaitrectfpnHa:::txtsize --> Innuemrfrvvu:::txtsize
-Innuemrfrvvu:::txtsize --> UanpoloifrBe:::txtsize
-Innuemrfrvvu:::txtsize --> Spnenemuroplnrtnu:::txtsize
-CoampoilWeei:::txtsize --> TaitrectfpnHa:::txtsize
-TaitrectfpnHa:::txtsize --> Tddisepooes:::txtsize
-Tddisepooes:::txtsize --> TaitreHaevnhibrwr:::txtsize
-Tddisepooes:::txtsize --> Rndpiotmcirnrn:::txtsize
-TaitrectfpnHa:::txtsize --> Innuemrfrvvu:::txtsize
-Innuemrfrvvu:::txtsize --> UanpoloifrBe:::txtsize
-Innuemrfrvvu:::txtsize --> Spnenemuroplnrtnu:::txtsize
+UkaieCoann:::txtsize --> CsscerdJelyeys:::txtsize
+CsscerdJelyeys:::txtsize --> JPaaddwmaCstm:::txtsize
+JPaaddwmaCstm:::txtsize --> JpsaCdmitarkiwm:::txtsize
+JPaaddwmaCstm:::txtsize --> ChuaSTcriioi:::txtsize
+CsscerdJelyeys:::txtsize --> Cacotsnps:::txtsize
+Cacotsnps:::txtsize --> JPaaddwmaCstm:::txtsize
+Cacotsnps:::txtsize --> JfbitCriktrrs:::txtsize
+UkaieCoann:::txtsize --> EmoiJPatTbfiaihie:::txtsize
+EmoiJPatTbfiaihie:::txtsize --> Xwroiaptnas:::txtsize
+Xwroiaptnas:::txtsize --> EmoiJPatTbfiaihie:::txtsize
+Xwroiaptnas:::txtsize --> JpsaCdmitarkiwm:::txtsize
+EmoiJPatTbfiaihie:::txtsize --> JslrcrthcsTnr:::txtsize
+JslrcrthcsTnr:::txtsize --> JpsaCdmitarkiwm:::txtsize
+JslrcrthcsTnr:::txtsize --> Xlmtatsowdpc:::txtsize
 
 ```
-<i>Last updated: 2025-12-10 08:00:48.342992 (GMT+8)</i>
+<i>Last updated: 2025-12-10 12:01:12.418402 (GMT+8)</i>
 <!-- END -->
