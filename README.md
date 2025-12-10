@@ -16,123 +16,105 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-MSsoeidslcasy@{ shape: win-pane, label: "_Published Dec 10, 2025, 11:35 AM_
-Most us teens use youtube and tiktok daily, some ‘almost constantly’, survey says" }
-Ctngsieidngieae@{ shape: win-pane, label: "_Published Dec 08, 2025, 12:11 PM_
-Christmas unplugged: australian teen social media ban brings holiday headspace woes" }
-Tkmisntae@{ shape: win-pane, label: "_Published Dec 05, 2025, 03:11 PM_
-Tiktok to comply with ‘upsetting’ australian under-16 ban" }
-Hsinaeoid@{ shape: win-pane, label: "_Published Dec 01, 2025, 12:50 PM_
-How australia plans to ban under-16s from social media" }
-Msvebussla@{ shape: win-pane, label: "_Published Dec 04, 2025, 09:12 AM_
-Malaysia government to block under-16s from social media" }
-Aaaedfwaiaatct@{ shape: win-pane, label: "_Published Dec 05, 2025, 05:00 AM_
-Australia says the world will follow social media ban as meta starts blocking teens" }
-Ybowulecea@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:55 AM_
-Youtube to comply with australia’s teen social media ban" }
-Aathnslaattbs@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:09 AM_
-Australian teen challenging social media ban says internet will be less safe" }
-Coeirhweo@{ shape: win-pane, label: "_Published Sep 28, 2025, 01:15 PM_
-Chatbots are hurting our kids – here’s what we can do" }
-OIsdhTrneUnc@{ shape: win-pane, label: "_Published Aug 27, 2025, 07:50 AM_
-Openai plans to update chatgpt after parents sue over us teen’s suicide" }
-HehTtiueliiir@{ shape: win-pane, label: "_Published May 10, 2025, 11:15 AM_
-Hear me out: chatgpt is not my friend, but it lends a late-night listening ear" }
-Cbraes@{ shape: win-pane, label: "_Published Jul 28, 2025, 05:00 AM_
-Can ai be my friend and therapist?" }
-OIdnolhTrea@{ shape: win-pane, label: "_Published Sep 02, 2025, 11:06 PM_
-Openai to add parental controls to chatgpt after us teen’s death" }
-OIsdhTrneUnc@{ shape: win-pane, label: "_Published Aug 27, 2025, 07:50 AM_
-Openai plans to update chatgpt after parents sue over us teen’s suicide" }
+Veesieas@{ shape: win-pane, label: "_Published Dec 10, 2025, 03:37 PM_
+Veggie 'burgers' at stake in eu negotiations" }
+Sckdalsadr@{ shape: win-pane, label: "_Published Jun 23, 2025, 05:00 AM_
+Science talk: blended meat could boost asia’s food security" }
+Wodoutet@{ shape: win-pane, label: "_Published Jan 07, 2023, 05:00 AM_
+What you need to know about cultivated meat" }
+Cneasifhlg@{ shape: win-pane, label: "_Published Jun 11, 2022, 02:00 PM_
+Can diners tell plant-based chicken from the real thing?" }
 
-MSsoeidslcasy:::txtsize --> Ctngsieidngieae:::txtsize
-Ctngsieidngieae:::txtsize --> Tkmisntae:::txtsize
-Tkmisntae:::txtsize --> Hsinaeoid:::txtsize
-Tkmisntae:::txtsize --> Msvebussla:::txtsize
-Ctngsieidngieae:::txtsize --> Aaaedfwaiaatct:::txtsize
-Aaaedfwaiaatct:::txtsize --> Ybowulecea:::txtsize
-Aaaedfwaiaatct:::txtsize --> Aathnslaattbs:::txtsize
-MSsoeidslcasy:::txtsize --> Coeirhweo:::txtsize
-Coeirhweo:::txtsize --> OIsdhTrneUnc:::txtsize
-OIsdhTrneUnc:::txtsize --> HehTtiueliiir:::txtsize
-OIsdhTrneUnc:::txtsize --> Cbraes:::txtsize
-Coeirhweo:::txtsize --> OIdnolhTrea:::txtsize
-OIdnolhTrea:::txtsize --> OIsdhTrneUnc:::txtsize
+Veesieas:::txtsize --> Sckdalsadr:::txtsize
+Sckdalsadr:::txtsize --> Wodoutet:::txtsize
+Wodoutet:::txtsize --> Cneasifhlg:::txtsize
 
-UdlIetolUis@{ shape: win-pane, label: "_Published Dec 10, 2025, 10:50 AM_
-Us trade deal with indonesia at risk of collapse, us official says" }
-SasoofeaswnNsnke@{ shape: win-pane, label: "_Published Dec 06, 2025, 04:00 PM_
-S’pore and rest of world worse off after us tariffs; ties within asean must stay on track: sm lee" }
-SMseooottogdsistp@{ shape: win-pane, label: "_Published Dec 04, 2025, 12:12 PM_
-S’pore, malaysia deepen collaboration; continue talks on longstanding issues in ‘constructive spirit’" }
-Nbrclaomogeyese@{ shape: win-pane, label: "_Published Dec 04, 2025, 06:30 PM_
-New sabah, sarawak consulates among outcomes from singapore-malaysia leaders’ retreat" }
-SMslntplrcgt@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:05 PM_
-S’pore, malaysia will jointly study optimal air traffic management" }
-UtbyCiaocdrter@{ shape: win-pane, label: "_Published Dec 05, 2025, 11:11 AM_
-Us wants stability with china instead of conflict: trade representative greer" }
-Unloehmsewne@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:01 AM_
-Us, china seal deal on rare earths; trump says xi meeting was a 12 on scale of 1 to 10" }
-LnmegvpSaee@{ shape: win-pane, label: "_Published Oct 30, 2025, 12:05 AM_
-Looming trump-xi meeting revives hope of us-china trade truce" }
-Wrteamdar@{ shape: win-pane, label: "_Published Oct 21, 2025, 09:47 PM_
-Why rare earths are china’s trump card in trade war" }
+Vupthaoseczr@{ shape: win-pane, label: "_Published Dec 10, 2025, 02:32 PM_
+Venezuela opposition chief machado to miss nobel peace prize award" }
+NItafhroehfeem@{ shape: win-pane, label: "_Published Dec 10, 2025, 03:07 AM_
+Nobel institute calls off machado press conference ahead of peace prize ceremony" }
+VuMdskecze@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:25 PM_
+Venezuela’s machado vows to make nobel peace prize ceremony" }
+Vuapiaaobiitloteb@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:47 AM_
+Venezuela says opposition leader machado will be ‘fugitive’ if she travels to norway to accept nobel" }
+NPPwrnhetaT@{ shape: win-pane, label: "_Published Oct 10, 2025, 11:50 PM_
+Nobel peace prize winner corina machado dedicates award to trump" }
+Vuclshtdsnrri@{ shape: win-pane, label: "_Published Dec 08, 2025, 06:45 AM_
+Venezuela acknowledges death of detained opposition figure alfredo diaz" }
+NseldoPilr@{ shape: win-pane, label: "_Published Dec 05, 2025, 09:30 AM_
+New us strike on alleged drug boat in pacific kills four" }
+UeefdikuoCbt@{ shape: win-pane, label: "_Published Dec 07, 2025, 06:51 AM_
+Us’ pete hegseth defends decision to kill survivors in caribbean strike" }
+NseldoPilr@{ shape: win-pane, label: "_Published Dec 05, 2025, 09:30 AM_
+New us strike on alleged drug boat in pacific kills four" }
+UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
+Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
+Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
+Us builds up forces in caribbean as officials, experts, ask why" }
+VuMoUswieggoy@{ shape: win-pane, label: "_Published Sep 02, 2025, 01:19 AM_
+Venezuela’s maduro says us warships with 1,200 missiles targeting his country" }
+UmsvnoaTpealtoea@{ shape: win-pane, label: "_Published Dec 04, 2025, 06:50 AM_
+Us lawmakers want vote on war powers after trump pledges to launch land attack on venezuela ‘soon’" }
+CsdltSatcerrrtsz@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
+‘colossal and costly mistake’: us lawmakers to force vote on war powers if trump attacks venezuela" }
 
-UdlIetolUis:::txtsize --> SasoofeaswnNsnke:::txtsize
-SasoofeaswnNsnke:::txtsize --> SMseooottogdsistp:::txtsize
-SMseooottogdsistp:::txtsize --> Nbrclaomogeyese:::txtsize
-SMseooottogdsistp:::txtsize --> SMslntplrcgt:::txtsize
-UdlIetolUis:::txtsize --> UtbyCiaocdrter:::txtsize
-UtbyCiaocdrter:::txtsize --> Unloehmsewne:::txtsize
-Unloehmsewne:::txtsize --> LnmegvpSaee:::txtsize
-Unloehmsewne:::txtsize --> Wrteamdar:::txtsize
+Vupthaoseczr:::txtsize --> NItafhroehfeem:::txtsize
+NItafhroehfeem:::txtsize --> VuMdskecze:::txtsize
+VuMdskecze:::txtsize --> Vuapiaaobiitloteb:::txtsize
+VuMdskecze:::txtsize --> NPPwrnhetaT:::txtsize
+NItafhroehfeem:::txtsize --> Vuclshtdsnrri:::txtsize
+Vuclshtdsnrri:::txtsize --> NseldoPilr:::txtsize
+Vuclshtdsnrri:::txtsize --> UeefdikuoCbt:::txtsize
+Vupthaoseczr:::txtsize --> NseldoPilr:::txtsize
+NseldoPilr:::txtsize --> UikperngutVura:::txtsize
+UikperngutVura:::txtsize --> Ulfsrafapay:::txtsize
+UikperngutVura:::txtsize --> VuMoUswieggoy:::txtsize
+NseldoPilr:::txtsize --> UmsvnoaTpealtoea:::txtsize
+UmsvnoaTpealtoea:::txtsize --> CsdltSatcerrrtsz:::txtsize
 
-UkaieCoann@{ shape: win-pane, label: "_Published Dec 10, 2025, 08:52 AM_
-Us backs japan in dispute with china over radar incident" }
-CsscerdJelyeys@{ shape: win-pane, label: "_Published Dec 07, 2025, 08:41 AM_
-Chinese jets direct fire-control radar at japanese military planes, tokyo says" }
-JPaaddwmaCstm@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:44 PM_
-Japan pm sanae takaichi defends taiwan remarks after chinese criticism" }
-JpsaCdmitarkiwm@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:00 PM_
-Japan protests against china diplomat’s violent threat over pm takaichi’s taiwan remark" }
-ChuaSTcriioi@{ shape: win-pane, label: "_Published Nov 02, 2025, 11:37 AM_
-China hits out at japan’s sanae takaichi for meeting taiwan’s officials" }
-Cacotsnps@{ shape: win-pane, label: "_Published Nov 27, 2025, 07:55 AM_
-China again cautions citizens against japan visits" }
-JPaaddwmaCstm@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:44 PM_
-Japan pm sanae takaichi defends taiwan remarks after chinese criticism" }
-JfbitCriktrrs@{ shape: win-pane, label: "_Published Nov 21, 2025, 07:08 AM_
-Japan faces $1.6b tourism hit amid china row; trip bookings to s’pore, s. korea rise" }
-EmoiJPatTbfiaihie@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:58 AM_
-‘extremely good friends’: japan pm takaichi touts trump bond after first talks since china dispute" }
-Xwroiaptnas@{ shape: win-pane, label: "_Published Nov 25, 2025, 11:00 AM_
-Xi may want trump to rein in japan in spat with china, say analysts" }
-EmoiJPatTbfiaihie@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:58 AM_
-‘extremely good friends’: japan pm takaichi touts trump bond after first talks since china dispute" }
-JpsaCdmitarkiwm@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:00 PM_
-Japan protests against china diplomat’s violent threat over pm takaichi’s taiwan remark" }
-JslrcrthcsTnr@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:35 AM_
-Japan sends letter to un chief rebutting china’s claims over taiwan remarks" }
-JpsaCdmitarkiwm@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:00 PM_
-Japan protests against china diplomat’s violent threat over pm takaichi’s taiwan remark" }
-Xlmtatsowdpc@{ shape: win-pane, label: "_Published Nov 24, 2025, 11:38 PM_
-Xi tells trump that taiwan’s ‘return’ is key to post-war order in phone call" }
+SpgjeyouooioA@{ shape: win-pane, label: "_Published Dec 10, 2025, 02:21 PM_
+Singapore’s green jet fuel levy roll-out could boost production growth: iata" }
+Ciorpnnleeytdrea@{ shape: win-pane, label: "_Published Nov 07, 2024, 06:00 PM_
+Changi airport to raise passenger and airline fees over six years to fund $3b improvement plans" }
+CrohArmtriaPg@{ shape: win-pane, label: "_Published Sep 06, 2024, 08:50 PM_
+Construction of changi airport terminal 5 to start in first half of 2025: pm wong" }
+Naitepmolpeasrlne@{ shape: win-pane, label: "_Published Aug 21, 2022, 09:02 PM_
+Ndr 2022: changi airport t5 to be more pandemic-proof, able to operate as smaller sub-terminals when needed" }
+SpnairdgiZsi@{ shape: win-pane, label: "_Published Jun 02, 2024, 09:06 PM_
+Singapore and ukraine sign air deal during president zelensky’s visit" }
+Cioesysyrdagn@{ shape: win-pane, label: "_Published Nov 01, 2023, 12:00 PM_
+Changi airport t2 reopens fully with 4-storey waterfall display, new garden" }
+Cioapitmshi@{ shape: win-pane, label: "_Published Sep 28, 2023, 09:50 AM_
+Changi airport starts operations at revamped t2’s northern wing" }
+botletoysedeleI@{ shape: win-pane, label: "_Published Dec 09, 2025, 05:50 PM_
+5.2 billion air travellers expected globally in 2026, passenger loads to reach all-time high: iata" }
+SpgjeyouooioA@{ shape: win-pane, label: "_Published Dec 10, 2025, 02:21 PM_
+Singapore’s green jet fuel levy roll-out could boost production growth: iata" }
+Ciorpnnleeytdrea@{ shape: win-pane, label: "_Published Nov 07, 2024, 06:00 PM_
+Changi airport to raise passenger and airline fees over six years to fund $3b improvement plans" }
+botletoysedeleI@{ shape: win-pane, label: "_Published Dec 09, 2025, 05:50 PM_
+5.2 billion air travellers expected globally in 2026, passenger loads to reach all-time high: iata" }
+FtrsauerhiCEmecn@{ shape: win-pane, label: "_Published Dec 09, 2025, 01:10 PM_
+Flight diversions at changi due to weather see sharp rise in 2025; caas, nea to improve forecasting" }
+OaejaSpiegodtvue@{ shape: win-pane, label: "_Published May 21, 2024, 06:20 PM_
+One dead, dozens injured after singapore airlines flight from london hit by severe turbulence" }
+Tirnagegpfasaaasy@{ shape: win-pane, label: "_Published Sep 03, 2025, 05:35 PM_
+Tackling turbulence, adapting to emerging tech part of singapore’s new national aviation safety plan" }
 
-UkaieCoann:::txtsize --> CsscerdJelyeys:::txtsize
-CsscerdJelyeys:::txtsize --> JPaaddwmaCstm:::txtsize
-JPaaddwmaCstm:::txtsize --> JpsaCdmitarkiwm:::txtsize
-JPaaddwmaCstm:::txtsize --> ChuaSTcriioi:::txtsize
-CsscerdJelyeys:::txtsize --> Cacotsnps:::txtsize
-Cacotsnps:::txtsize --> JPaaddwmaCstm:::txtsize
-Cacotsnps:::txtsize --> JfbitCriktrrs:::txtsize
-UkaieCoann:::txtsize --> EmoiJPatTbfiaihie:::txtsize
-EmoiJPatTbfiaihie:::txtsize --> Xwroiaptnas:::txtsize
-Xwroiaptnas:::txtsize --> EmoiJPatTbfiaihie:::txtsize
-Xwroiaptnas:::txtsize --> JpsaCdmitarkiwm:::txtsize
-EmoiJPatTbfiaihie:::txtsize --> JslrcrthcsTnr:::txtsize
-JslrcrthcsTnr:::txtsize --> JpsaCdmitarkiwm:::txtsize
-JslrcrthcsTnr:::txtsize --> Xlmtatsowdpc:::txtsize
+SpgjeyouooioA:::txtsize --> Ciorpnnleeytdrea:::txtsize
+Ciorpnnleeytdrea:::txtsize --> CrohArmtriaPg:::txtsize
+CrohArmtriaPg:::txtsize --> Naitepmolpeasrlne:::txtsize
+CrohArmtriaPg:::txtsize --> SpnairdgiZsi:::txtsize
+Ciorpnnleeytdrea:::txtsize --> Cioesysyrdagn:::txtsize
+Cioesysyrdagn:::txtsize --> Cioapitmshi:::txtsize
+SpgjeyouooioA:::txtsize --> botletoysedeleI:::txtsize
+botletoysedeleI:::txtsize --> SpgjeyouooioA:::txtsize
+SpgjeyouooioA:::txtsize --> Ciorpnnleeytdrea:::txtsize
+SpgjeyouooioA:::txtsize --> botletoysedeleI:::txtsize
+botletoysedeleI:::txtsize --> FtrsauerhiCEmecn:::txtsize
+FtrsauerhiCEmecn:::txtsize --> OaejaSpiegodtvue:::txtsize
+FtrsauerhiCEmecn:::txtsize --> Tirnagegpfasaaasy:::txtsize
 
 ```
-<i>Last updated: 2025-12-10 12:01:12.418402 (GMT+8)</i>
+<i>Last updated: 2025-12-10 16:00:36.045350 (GMT+8)</i>
 <!-- END -->
