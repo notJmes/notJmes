@@ -16,114 +16,126 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tddgwrabn@{ shape: win-pane, label: "_Published Dec 11, 2025, 07:59 AM_
-Trump demands cnn get new owners in warner bidding war" }
-Nikonnrsrra@{ shape: win-pane, label: "_Published Dec 09, 2025, 08:06 AM_
-Netflix sinks as concerns mount over risks of warner bros deal" }
-Helrranoo@{ shape: win-pane, label: "_Published Dec 06, 2025, 04:54 PM_
-How the netflix-warner bros deal changes hollywood" }
-Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
-Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
-Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
-Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
-Wrfhuhisboat@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:30 PM_
-Warner bros fight heats up with $140.7 billion hostile bid from paramount" }
-Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
-Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
-Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
-Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
-NiPortfrnWr@{ shape: win-pane, label: "_Published Dec 10, 2025, 08:13 PM_
-Netflix and paramount are battling for more than just warner bros" }
-Wrfhuhisboat@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:30 PM_
-Warner bros fight heats up with $140.7 billion hostile bid from paramount" }
-Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
-Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
-Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
-Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
+Alpecgnts@{ shape: win-pane, label: "_Published Dec 11, 2025, 10:40 AM_
+Ai’s $517 billion problem: are chips getting old too fast?" }
+CygNasa@{ shape: win-pane, label: "_Published Mar 21, 2024, 05:57 PM_
+Can anything stop nvidia’s jensen huang?" }
+NaiapiBnxda@{ shape: win-pane, label: "_Published Mar 19, 2024, 07:50 AM_
+Nvidia unveils flagship ai chip, the b200, aiming to extend dominance" }
+WteiituFries@{ shape: win-pane, label: "_Published Mar 19, 2024, 06:05 AM_
+Wall street ends higher, investors juggle fed nerves with ai enthusiasm" }
+Msisoseveni@{ shape: win-pane, label: "_Published Mar 15, 2024, 08:40 AM_
+Microsoft singles out google’s competitive edge in generative ai" }
+Nauaieltdhntel@{ shape: win-pane, label: "_Published Mar 19, 2025, 07:21 AM_
+Nvidia ceo huang says chipmaker well-positioned for shift in ai, but shares fall" }
+TisrtllI@{ shape: win-pane, label: "_Published Mar 17, 2025, 06:00 PM_
+Tech giants, stop trying to build godlike ai" }
+TaunrohnaeI@{ shape: win-pane, label: "_Published Mar 10, 2025, 02:35 PM_
+Tsmc sales quicken in first two months of 2025 in upbeat note for ai" }
+Tnmhrmowtaig@{ shape: win-pane, label: "_Published Mar 06, 2025, 08:50 PM_
+Tsmc investment a ‘historic moment’ for taiwan-us ties, says lai ching-te" }
+TnsansMoAcern@{ shape: win-pane, label: "_Published Mar 04, 2025, 12:40 PM_
+Taiwan minister says concerns of tsmc becoming americanised overblown" }
 
-Tddgwrabn:::txtsize --> Nikonnrsrra:::txtsize
-Nikonnrsrra:::txtsize --> Helrranoo:::txtsize
-Helrranoo:::txtsize --> Niunocydtiimh:::txtsize
-Helrranoo:::txtsize --> Niunocydtiimh:::txtsize
-Nikonnrsrra:::txtsize --> Wrfhuhisboat:::txtsize
-Wrfhuhisboat:::txtsize --> Niunocydtiimh:::txtsize
-Wrfhuhisboat:::txtsize --> Niunocydtiimh:::txtsize
-Tddgwrabn:::txtsize --> NiPortfrnWr:::txtsize
-NiPortfrnWr:::txtsize --> Wrfhuhisboat:::txtsize
-Wrfhuhisboat:::txtsize --> Niunocydtiimh:::txtsize
-Wrfhuhisboat:::txtsize --> Niunocydtiimh:::txtsize
+Alpecgnts:::txtsize --> CygNasa:::txtsize
+CygNasa:::txtsize --> NaiapiBnxda:::txtsize
+NaiapiBnxda:::txtsize --> WteiituFries:::txtsize
+NaiapiBnxda:::txtsize --> Msisoseveni:::txtsize
+Alpecgnts:::txtsize --> Nauaieltdhntel:::txtsize
+Nauaieltdhntel:::txtsize --> TisrtllI:::txtsize
+Nauaieltdhntel:::txtsize --> TaunrohnaeI:::txtsize
+TaunrohnaeI:::txtsize --> Tnmhrmowtaig:::txtsize
+TaunrohnaeI:::txtsize --> TnsansMoAcern:::txtsize
 
-Yboonsaessab@{ shape: win-pane, label: "_Published Dec 11, 2025, 07:37 AM_
-Youtube tv to roll out genre-based plans, deepens sports streaming bet" }
-NiPortfrnWr@{ shape: win-pane, label: "_Published Dec 10, 2025, 08:13 PM_
-Netflix and paramount are battling for more than just warner bros" }
-Wrfhuhisboat@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:30 PM_
-Warner bros fight heats up with $140.7 billion hostile bid from paramount" }
-Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
-Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
-Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
-Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
-HenluSotbtd@{ shape: win-pane, label: "_Published Dec 11, 2025, 05:00 AM_
-Harmless fun? people are using sora to create problematic videos" }
-OIcotTyp@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:31 PM_
-Openai launches sora 2 with tiktok-style app" }
-OIahTrcr@{ shape: win-pane, label: "_Published Aug 08, 2025, 03:24 AM_
-Openai releases chatgpt-5 as ai race accelerates" }
-Bitptfsoltsoog@{ shape: win-pane, label: "_Published Sep 30, 2025, 07:43 AM_
-Buy it in chatgpt: openai takes first step to enable chatbot users to go shopping" }
+Tlhldrfpeahrra@{ shape: win-pane, label: "_Published Dec 11, 2025, 09:47 AM_
+Trump launches gold card programme for expedited visas with a nearly $1.3m price tag" }
+UnsAisuvoogeeceiy@{ shape: win-pane, label: "_Published Dec 10, 2025, 05:50 PM_
+Us plans to ask esta applicants, including visitors from singapore, for 5-year social media history" }
+Ueaaoansletry@{ shape: win-pane, label: "_Published Dec 05, 2025, 10:11 AM_
+Us widens travel ban to more than 30 countries, homeland security secretary says" }
+TaitrectfpnHa@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:25 AM_
+Trump administration orders enhanced vetting for applicants of h-1b visa" }
+Uslgolirnpoi@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:35 AM_
+Us pauses all immigration applications from 19 non-european countries" }
+Anlnintldt@{ shape: win-pane, label: "_Published Dec 03, 2025, 07:30 AM_
+Afghan man pleads not guilty in us national guard shooting" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+AeiGakcmrgmtairgo@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:44 AM_
+Accused national guard attacker faces us murder charge; trump wants to halt ‘third world’ migration" }
+Fhrecrvvu@{ shape: win-pane, label: "_Published Dec 10, 2025, 08:45 PM_
+Fact-check group ‘deeply concerned’ over us visa curbs" }
+TaitrectfpnHa@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:25 AM_
+Trump administration orders enhanced vetting for applicants of h-1b visa" }
+Tddisepooes@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:39 AM_
+Trump defends h-1b visas as needed despite moves to raise costs" }
+Innuemrfrvvu@{ shape: win-pane, label: "_Published Nov 17, 2025, 02:30 PM_
+International student enrolment drops after trump’s visa overhaul" }
+HlgeetUdtmhniil@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:00 AM_
+H-1b1 still singaporeans’ best bet for a us job, despite trump tightening immigration rules" }
+Wsvrmdspgt@{ shape: win-pane, label: "_Published Sep 21, 2025, 03:45 PM_
+What is us’ h-1b visa programme and how is trump changing it?" }
 
-Yboonsaessab:::txtsize --> NiPortfrnWr:::txtsize
-NiPortfrnWr:::txtsize --> Wrfhuhisboat:::txtsize
-Wrfhuhisboat:::txtsize --> Niunocydtiimh:::txtsize
-Wrfhuhisboat:::txtsize --> Niunocydtiimh:::txtsize
-Yboonsaessab:::txtsize --> HenluSotbtd:::txtsize
-HenluSotbtd:::txtsize --> OIcotTyp:::txtsize
-OIcotTyp:::txtsize --> OIahTrcr:::txtsize
-OIcotTyp:::txtsize --> Bitptfsoltsoog:::txtsize
+Tlhldrfpeahrra:::txtsize --> UnsAisuvoogeeceiy:::txtsize
+UnsAisuvoogeeceiy:::txtsize --> Ueaaoansletry:::txtsize
+Ueaaoansletry:::txtsize --> TaitrectfpnHa:::txtsize
+Ueaaoansletry:::txtsize --> Uslgolirnpoi:::txtsize
+UnsAisuvoogeeceiy:::txtsize --> Anlnintldt:::txtsize
+Anlnintldt:::txtsize --> Nnalsiydttteiu:::txtsize
+Anlnintldt:::txtsize --> AeiGakcmrgmtairgo:::txtsize
+Tlhldrfpeahrra:::txtsize --> Fhrecrvvu:::txtsize
+Fhrecrvvu:::txtsize --> TaitrectfpnHa:::txtsize
+TaitrectfpnHa:::txtsize --> Tddisepooes:::txtsize
+TaitrectfpnHa:::txtsize --> Innuemrfrvvu:::txtsize
+Fhrecrvvu:::txtsize --> HlgeetUdtmhniil:::txtsize
+HlgeetUdtmhniil:::txtsize --> Wsvrmdspgt:::txtsize
 
-Rtnteeftsne@{ shape: win-pane, label: "_Published Dec 11, 2025, 07:25 AM_
-Reddit begins testing verified profiles to boost transparency" }
-Rtillhrslrueidn@{ shape: win-pane, label: "_Published Dec 09, 2025, 07:35 AM_
-Reddit says it will comply with australia’s ‘legally erroneous’ under-16 social media ban" }
-Aaaedfwaiaatct@{ shape: win-pane, label: "_Published Dec 05, 2025, 05:00 AM_
-Australia says the world will follow social media ban as meta starts blocking teens" }
-Ybowulecea@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:55 AM_
-Youtube to comply with australia’s teen social media ban" }
-Aathnslaattbs@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:09 AM_
-Australian teen challenging social media ban says internet will be less safe" }
-Ctngsieidngieae@{ shape: win-pane, label: "_Published Dec 08, 2025, 12:11 PM_
-Christmas unplugged: australian teen social media ban brings holiday headspace woes" }
-Tkmisntae@{ shape: win-pane, label: "_Published Dec 05, 2025, 03:11 PM_
-Tiktok to comply with ‘upsetting’ australian under-16 ban" }
-Aaaedfwaiaatct@{ shape: win-pane, label: "_Published Dec 05, 2025, 05:00 AM_
-Australia says the world will follow social media ban as meta starts blocking teens" }
-Itooersaisues@{ shape: win-pane, label: "_Published Dec 10, 2025, 08:48 PM_
-‘i didn’t get to say goodbye’: australia’s social media ban stirs unease, praise" }
+ACsonnilaBipcc@{ shape: win-pane, label: "_Published Dec 11, 2025, 09:25 AM_
+Apple ceo pushes for changes in us child online safety bill, citing privacy concerns" }
 Wwesnaisita@{ shape: win-pane, label: "_Published Dec 10, 2025, 11:15 AM_
 World watches first teen social media ban start in australia" }
 Aaombrdnafils@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:32 PM_
 Australia social media ban for children under 16 takes effect in world first" }
+Aaombtkeagbaw@{ shape: win-pane, label: "_Published Dec 09, 2025, 12:07 PM_
+Australia social media ban set to take effect, sparking a global crackdown" }
+FulEetmocromas@{ shape: win-pane, label: "_Published Dec 09, 2025, 12:37 PM_
+From australia to europe, countries move to curb children’s social media access" }
 Aneaisesint@{ shape: win-pane, label: "_Published Dec 10, 2025, 08:20 AM_
 Alternative social media apps surge as australia teen ban starts" }
-SpnsAavceayu@{ shape: win-pane, label: "_Published Jan 07, 2025, 01:27 PM_
-Singapore in talks with australia over social media ban for young users" }
 Aaaslaolu@{ shape: win-pane, label: "_Published Nov 28, 2024, 08:33 PM_
 Australia passes social media ban for children under 16" }
+Aaombrdnafils@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:32 PM_
+Australia social media ban for children under 16 takes effect in world first" }
+MlsAGeaegt@{ shape: win-pane, label: "_Published Jul 26, 2025, 07:59 AM_
+Meta clashes with apple, google over age check legislation" }
+MootctFo@{ shape: win-pane, label: "_Published Apr 08, 2025, 07:15 PM_
+Meta to introduce teen accounts for facebook" }
+Igounuiiptnsryt@{ shape: win-pane, label: "_Published Sep 17, 2024, 08:50 PM_
+Instagram rolls out teen accounts with privacy, parental controls as scrutiny mounts" }
+Aaaslaolu@{ shape: win-pane, label: "_Published Nov 28, 2024, 08:33 PM_
+Australia passes social media ban for children under 16" }
+Gecpeecnncn@{ shape: win-pane, label: "_Published Jun 13, 2025, 07:40 PM_
+Google rejects app store age verification for online content" }
+Puesscrecn@{ shape: win-pane, label: "_Published Jun 03, 2025, 11:16 PM_
+Pornhub owner pressures france over age verification law" }
+Pnaigduootnlitnsr@{ shape: win-pane, label: "_Published Feb 09, 2025, 05:00 AM_
+Porn on social media disguised as educational content; parents’ role key in protecting kids: experts" }
 
-Rtnteeftsne:::txtsize --> Rtillhrslrueidn:::txtsize
-Rtillhrslrueidn:::txtsize --> Aaaedfwaiaatct:::txtsize
-Aaaedfwaiaatct:::txtsize --> Ybowulecea:::txtsize
-Aaaedfwaiaatct:::txtsize --> Aathnslaattbs:::txtsize
-Rtillhrslrueidn:::txtsize --> Ctngsieidngieae:::txtsize
-Ctngsieidngieae:::txtsize --> Tkmisntae:::txtsize
-Ctngsieidngieae:::txtsize --> Aaaedfwaiaatct:::txtsize
-Rtnteeftsne:::txtsize --> Itooersaisues:::txtsize
-Itooersaisues:::txtsize --> Wwesnaisita:::txtsize
+ACsonnilaBipcc:::txtsize --> Wwesnaisita:::txtsize
 Wwesnaisita:::txtsize --> Aaombrdnafils:::txtsize
+Aaombrdnafils:::txtsize --> Aaombtkeagbaw:::txtsize
+Aaombrdnafils:::txtsize --> FulEetmocromas:::txtsize
 Wwesnaisita:::txtsize --> Aneaisesint:::txtsize
-Itooersaisues:::txtsize --> SpnsAavceayu:::txtsize
-SpnsAavceayu:::txtsize --> Aaaslaolu:::txtsize
+Aneaisesint:::txtsize --> Aaaslaolu:::txtsize
+Aneaisesint:::txtsize --> Aaombrdnafils:::txtsize
+ACsonnilaBipcc:::txtsize --> MlsAGeaegt:::txtsize
+MlsAGeaegt:::txtsize --> MootctFo:::txtsize
+MootctFo:::txtsize --> Igounuiiptnsryt:::txtsize
+MootctFo:::txtsize --> Aaaslaolu:::txtsize
+MlsAGeaegt:::txtsize --> Gecpeecnncn:::txtsize
+Gecpeecnncn:::txtsize --> Puesscrecn:::txtsize
+Gecpeecnncn:::txtsize --> Pnaigduootnlitnsr:::txtsize
 
 ```
-<i>Last updated: 2025-12-11 08:01:16.418701 (GMT+8)</i>
+<i>Last updated: 2025-12-11 12:00:49.409902 (GMT+8)</i>
 <!-- END -->
