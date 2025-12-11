@@ -16,126 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Alpecgnts@{ shape: win-pane, label: "_Published Dec 11, 2025, 10:40 AM_
-Ai’s $517 billion problem: are chips getting old too fast?" }
-CygNasa@{ shape: win-pane, label: "_Published Mar 21, 2024, 05:57 PM_
-Can anything stop nvidia’s jensen huang?" }
-NaiapiBnxda@{ shape: win-pane, label: "_Published Mar 19, 2024, 07:50 AM_
-Nvidia unveils flagship ai chip, the b200, aiming to extend dominance" }
-WteiituFries@{ shape: win-pane, label: "_Published Mar 19, 2024, 06:05 AM_
-Wall street ends higher, investors juggle fed nerves with ai enthusiasm" }
-Msisoseveni@{ shape: win-pane, label: "_Published Mar 15, 2024, 08:40 AM_
-Microsoft singles out google’s competitive edge in generative ai" }
-Nauaieltdhntel@{ shape: win-pane, label: "_Published Mar 19, 2025, 07:21 AM_
-Nvidia ceo huang says chipmaker well-positioned for shift in ai, but shares fall" }
-TisrtllI@{ shape: win-pane, label: "_Published Mar 17, 2025, 06:00 PM_
-Tech giants, stop trying to build godlike ai" }
-TaunrohnaeI@{ shape: win-pane, label: "_Published Mar 10, 2025, 02:35 PM_
-Tsmc sales quicken in first two months of 2025 in upbeat note for ai" }
-Tnmhrmowtaig@{ shape: win-pane, label: "_Published Mar 06, 2025, 08:50 PM_
-Tsmc investment a ‘historic moment’ for taiwan-us ties, says lai ching-te" }
-TnsansMoAcern@{ shape: win-pane, label: "_Published Mar 04, 2025, 12:40 PM_
-Taiwan minister says concerns of tsmc becoming americanised overblown" }
+Tonranissssaa@{ shape: win-pane, label: "_Published Dec 11, 2025, 02:17 PM_
+Trial of chinese crime gangs in italian fashion stalls amid sabotage fears" }
+CnnCeiirmtconurt@{ shape: win-pane, label: "_Published Oct 18, 2025, 11:34 PM_
+Criminal gangs in china exploit us gift cards to move stolen cash: homeland security report" }
+Uitiasemiohtn@{ shape: win-pane, label: "_Published Oct 07, 2025, 08:25 PM_
+Uk police hit criminal gang suspected of smuggling stolen phones to china" }
+Pptiesslants@{ shape: win-pane, label: "_Published Aug 17, 2025, 01:35 PM_
+‘pickypockets!’ vigilante pairs with social media on london streets" }
+Urdmifdef@{ shape: win-pane, label: "_Published Mar 19, 2025, 08:38 AM_
+Uk court finds two men guilty of $4.8m gold toilet theft" }
+CrldrritrnbU@{ shape: win-pane, label: "_Published Apr 21, 2025, 02:08 PM_
+‘cancer’ of billion-dollar cyberscam industry spreading globally: un" }
+SesvebnuMa@{ shape: win-pane, label: "_Published Feb 15, 2025, 08:10 AM_
+Scam centre survivors tell of beatings, abuse in myanmar" }
+Tatelneppon@{ shape: win-pane, label: "_Published Feb 05, 2025, 05:26 PM_
+Thailand cuts power, fuel and internet supply to parts of myanmar" }
+Iatpnnrasnar@{ shape: win-pane, label: "_Published Aug 04, 2025, 08:45 PM_
+Italy arrests 13 people in nationwide raids against chinese mafia groups" }
 
-Alpecgnts:::txtsize --> CygNasa:::txtsize
-CygNasa:::txtsize --> NaiapiBnxda:::txtsize
-NaiapiBnxda:::txtsize --> WteiituFries:::txtsize
-NaiapiBnxda:::txtsize --> Msisoseveni:::txtsize
-Alpecgnts:::txtsize --> Nauaieltdhntel:::txtsize
-Nauaieltdhntel:::txtsize --> TisrtllI:::txtsize
-Nauaieltdhntel:::txtsize --> TaunrohnaeI:::txtsize
-TaunrohnaeI:::txtsize --> Tnmhrmowtaig:::txtsize
-TaunrohnaeI:::txtsize --> TnsansMoAcern:::txtsize
+Tonranissssaa:::txtsize --> CnnCeiirmtconurt:::txtsize
+CnnCeiirmtconurt:::txtsize --> Uitiasemiohtn:::txtsize
+Uitiasemiohtn:::txtsize --> Pptiesslants:::txtsize
+Uitiasemiohtn:::txtsize --> Urdmifdef:::txtsize
+CnnCeiirmtconurt:::txtsize --> CrldrritrnbU:::txtsize
+CrldrritrnbU:::txtsize --> SesvebnuMa:::txtsize
+CrldrritrnbU:::txtsize --> Tatelneppon:::txtsize
+Tonranissssaa:::txtsize --> Iatpnnrasnar:::txtsize
 
-Tlhldrfpeahrra@{ shape: win-pane, label: "_Published Dec 11, 2025, 09:47 AM_
-Trump launches gold card programme for expedited visas with a nearly $1.3m price tag" }
-UnsAisuvoogeeceiy@{ shape: win-pane, label: "_Published Dec 10, 2025, 05:50 PM_
-Us plans to ask esta applicants, including visitors from singapore, for 5-year social media history" }
-Ueaaoansletry@{ shape: win-pane, label: "_Published Dec 05, 2025, 10:11 AM_
-Us widens travel ban to more than 30 countries, homeland security secretary says" }
-TaitrectfpnHa@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:25 AM_
-Trump administration orders enhanced vetting for applicants of h-1b visa" }
-Uslgolirnpoi@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:35 AM_
-Us pauses all immigration applications from 19 non-european countries" }
-Anlnintldt@{ shape: win-pane, label: "_Published Dec 03, 2025, 07:30 AM_
-Afghan man pleads not guilty in us national guard shooting" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-AeiGakcmrgmtairgo@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:44 AM_
-Accused national guard attacker faces us murder charge; trump wants to halt ‘third world’ migration" }
-Fhrecrvvu@{ shape: win-pane, label: "_Published Dec 10, 2025, 08:45 PM_
-Fact-check group ‘deeply concerned’ over us visa curbs" }
-TaitrectfpnHa@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:25 AM_
-Trump administration orders enhanced vetting for applicants of h-1b visa" }
-Tddisepooes@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:39 AM_
-Trump defends h-1b visas as needed despite moves to raise costs" }
-Innuemrfrvvu@{ shape: win-pane, label: "_Published Nov 17, 2025, 02:30 PM_
-International student enrolment drops after trump’s visa overhaul" }
-HlgeetUdtmhniil@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:00 AM_
-H-1b1 still singaporeans’ best bet for a us job, despite trump tightening immigration rules" }
-Wsvrmdspgt@{ shape: win-pane, label: "_Published Sep 21, 2025, 03:45 PM_
-What is us’ h-1b visa programme and how is trump changing it?" }
+Oaohnzakrnee@{ shape: win-pane, label: "_Published Dec 11, 2025, 12:52 PM_
+Over 30 sanctioned ships in venezuela at risk after us tanker seizure" }
+Uzlecoeap@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
+Us seizes oil tanker off coast of venezuela, trump says" }
+TenurneCbVuo@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:52 PM_
+Trump eyes anti-drug operations in mexico, colombia as venezuela looms" }
+Siurymeoarnolu@{ shape: win-pane, label: "_Published Dec 06, 2025, 02:26 AM_
+Sweeping trump strategy document seeks to reframe us’ role in the world, slams europe" }
+Uirdotoeramzsho@{ shape: win-pane, label: "_Published Dec 02, 2025, 04:09 AM_
+Us admiral ordered follow-up strike on alleged drug boat from venezuela, says white house" }
+VulScpifromlMo@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:49 AM_
+Venezuela slams us attack preparations after trump confirms call with maduro" }
+Tsicvsugztliee@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:19 PM_
+Trump says airspace above and surrounding venezuela to be closed in its entirety" }
+UgVuMoceoyRllk@{ shape: win-pane, label: "_Published Dec 01, 2025, 05:07 AM_
+Us has given venezuela’s maduro chance to leave country, says republican lawmaker" }
+UeoVugartipu@{ shape: win-pane, label: "_Published Nov 24, 2025, 10:38 PM_
+Us labels another venezuelan group as terrorist, ramping up pressure" }
+Taitrrwdaghe@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:17 AM_
+Trump administration orders review of biden-era refugees, shows memo" }
+TaitenuaicwSAa@{ shape: win-pane, label: "_Published Aug 15, 2025, 06:14 PM_
+Trump administration weighing refugee cap of 40,000 with focus on white south africans" }
+Usossyrocuienrs@{ shape: win-pane, label: "_Published Nov 24, 2025, 10:43 PM_
+Us ends temporary status for myanmar nationals, cites upcoming elections as ‘progress’" }
+Saeiannhlsnleag@{ shape: win-pane, label: "_Published Nov 23, 2025, 05:12 AM_
+Several international airlines cancel their flights in venezuela after us warning" }
+Ucceinaeiiburz@{ shape: win-pane, label: "_Published Nov 17, 2025, 03:14 AM_
+Us aircraft carrier arrives in the caribbean amid military build-up near venezuela" }
+Vuapiaaobiitloteb@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:47 AM_
+Venezuela says opposition leader machado will be ‘fugitive’ if she travels to norway to accept nobel" }
 
-Tlhldrfpeahrra:::txtsize --> UnsAisuvoogeeceiy:::txtsize
-UnsAisuvoogeeceiy:::txtsize --> Ueaaoansletry:::txtsize
-Ueaaoansletry:::txtsize --> TaitrectfpnHa:::txtsize
-Ueaaoansletry:::txtsize --> Uslgolirnpoi:::txtsize
-UnsAisuvoogeeceiy:::txtsize --> Anlnintldt:::txtsize
-Anlnintldt:::txtsize --> Nnalsiydttteiu:::txtsize
-Anlnintldt:::txtsize --> AeiGakcmrgmtairgo:::txtsize
-Tlhldrfpeahrra:::txtsize --> Fhrecrvvu:::txtsize
-Fhrecrvvu:::txtsize --> TaitrectfpnHa:::txtsize
-TaitrectfpnHa:::txtsize --> Tddisepooes:::txtsize
-TaitrectfpnHa:::txtsize --> Innuemrfrvvu:::txtsize
-Fhrecrvvu:::txtsize --> HlgeetUdtmhniil:::txtsize
-HlgeetUdtmhniil:::txtsize --> Wsvrmdspgt:::txtsize
+Oaohnzakrnee:::txtsize --> Uzlecoeap:::txtsize
+Uzlecoeap:::txtsize --> TenurneCbVuo:::txtsize
+TenurneCbVuo:::txtsize --> Siurymeoarnolu:::txtsize
+TenurneCbVuo:::txtsize --> Uirdotoeramzsho:::txtsize
+Uzlecoeap:::txtsize --> VulScpifromlMo:::txtsize
+VulScpifromlMo:::txtsize --> Tsicvsugztliee:::txtsize
+VulScpifromlMo:::txtsize --> UgVuMoceoyRllk:::txtsize
+Oaohnzakrnee:::txtsize --> UeoVugartipu:::txtsize
+UeoVugartipu:::txtsize --> Taitrrwdaghe:::txtsize
+Taitrrwdaghe:::txtsize --> TaitenuaicwSAa:::txtsize
+Taitrrwdaghe:::txtsize --> Usossyrocuienrs:::txtsize
+UeoVugartipu:::txtsize --> Saeiannhlsnleag:::txtsize
+Saeiannhlsnleag:::txtsize --> Ucceinaeiiburz:::txtsize
+Saeiannhlsnleag:::txtsize --> Vuapiaaobiitloteb:::txtsize
 
-ACsonnilaBipcc@{ shape: win-pane, label: "_Published Dec 11, 2025, 09:25 AM_
-Apple ceo pushes for changes in us child online safety bill, citing privacy concerns" }
-Wwesnaisita@{ shape: win-pane, label: "_Published Dec 10, 2025, 11:15 AM_
-World watches first teen social media ban start in australia" }
-Aaombrdnafils@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:32 PM_
-Australia social media ban for children under 16 takes effect in world first" }
-Aaombtkeagbaw@{ shape: win-pane, label: "_Published Dec 09, 2025, 12:07 PM_
-Australia social media ban set to take effect, sparking a global crackdown" }
-FulEetmocromas@{ shape: win-pane, label: "_Published Dec 09, 2025, 12:37 PM_
-From australia to europe, countries move to curb children’s social media access" }
-Aneaisesint@{ shape: win-pane, label: "_Published Dec 10, 2025, 08:20 AM_
-Alternative social media apps surge as australia teen ban starts" }
-Aaaslaolu@{ shape: win-pane, label: "_Published Nov 28, 2024, 08:33 PM_
-Australia passes social media ban for children under 16" }
-Aaombrdnafils@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:32 PM_
-Australia social media ban for children under 16 takes effect in world first" }
-MlsAGeaegt@{ shape: win-pane, label: "_Published Jul 26, 2025, 07:59 AM_
-Meta clashes with apple, google over age check legislation" }
-MootctFo@{ shape: win-pane, label: "_Published Apr 08, 2025, 07:15 PM_
-Meta to introduce teen accounts for facebook" }
-Igounuiiptnsryt@{ shape: win-pane, label: "_Published Sep 17, 2024, 08:50 PM_
-Instagram rolls out teen accounts with privacy, parental controls as scrutiny mounts" }
-Aaaslaolu@{ shape: win-pane, label: "_Published Nov 28, 2024, 08:33 PM_
-Australia passes social media ban for children under 16" }
-Gecpeecnncn@{ shape: win-pane, label: "_Published Jun 13, 2025, 07:40 PM_
-Google rejects app store age verification for online content" }
-Puesscrecn@{ shape: win-pane, label: "_Published Jun 03, 2025, 11:16 PM_
-Pornhub owner pressures france over age verification law" }
-Pnaigduootnlitnsr@{ shape: win-pane, label: "_Published Feb 09, 2025, 05:00 AM_
-Porn on social media disguised as educational content; parents’ role key in protecting kids: experts" }
+UatwrmetpyiU@{ shape: win-pane, label: "_Published Dec 11, 2025, 12:45 PM_
+Unusually strong winter storms expected to drop heavy snow in the us" }
+ActsrrsUuec@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:00 AM_
+Arctic blast grips central, north-eastern us in sub-freezing cold" }
+NrysoleavwutEn@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:22 PM_
+New york city faces risk of airline delays as heavy snow hits upstate, new england" }
+Uphdpsdaitl@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:30 PM_
+Us airports hit by disruptions ahead of thanksgiving travel boom" }
+Lotlrehuoogene@{ shape: win-pane, label: "_Published Nov 13, 2025, 02:45 PM_
+Look cool in the cold: your winter fashion guide to tokyo, shanghai, seoul and more" }
+Snswtsltio@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:00 AM_
+Season’s first snowfall throws seoul into traffic chaos" }
+MFeafsasru@{ shape: win-pane, label: "_Published Oct 23, 2025, 12:00 PM_
+Mount fuji gets season’s first snowcap, 21 days later than usual" }
+NrysoleavwutEn@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:22 PM_
+New york city faces risk of airline delays as heavy snow hits upstate, new england" }
+NrysoleavwutEn@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:22 PM_
+New york city faces risk of airline delays as heavy snow hits upstate, new england" }
+Uphdpsdaitl@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:30 PM_
+Us airports hit by disruptions ahead of thanksgiving travel boom" }
+Uvenounpiu@{ shape: win-pane, label: "_Published Nov 07, 2025, 10:28 AM_
+Us travel woes mount as govt shutdown prompts flight cuts" }
+Uelctrfnacr@{ shape: win-pane, label: "_Published Nov 13, 2025, 10:15 AM_
+Us freezes flight cuts at 6% as air traffic control absences shrink" }
+Lotlrehuoogene@{ shape: win-pane, label: "_Published Nov 13, 2025, 02:45 PM_
+Look cool in the cold: your winter fashion guide to tokyo, shanghai, seoul and more" }
 
-ACsonnilaBipcc:::txtsize --> Wwesnaisita:::txtsize
-Wwesnaisita:::txtsize --> Aaombrdnafils:::txtsize
-Aaombrdnafils:::txtsize --> Aaombtkeagbaw:::txtsize
-Aaombrdnafils:::txtsize --> FulEetmocromas:::txtsize
-Wwesnaisita:::txtsize --> Aneaisesint:::txtsize
-Aneaisesint:::txtsize --> Aaaslaolu:::txtsize
-Aneaisesint:::txtsize --> Aaombrdnafils:::txtsize
-ACsonnilaBipcc:::txtsize --> MlsAGeaegt:::txtsize
-MlsAGeaegt:::txtsize --> MootctFo:::txtsize
-MootctFo:::txtsize --> Igounuiiptnsryt:::txtsize
-MootctFo:::txtsize --> Aaaslaolu:::txtsize
-MlsAGeaegt:::txtsize --> Gecpeecnncn:::txtsize
-Gecpeecnncn:::txtsize --> Puesscrecn:::txtsize
-Gecpeecnncn:::txtsize --> Pnaigduootnlitnsr:::txtsize
+UatwrmetpyiU:::txtsize --> ActsrrsUuec:::txtsize
+ActsrrsUuec:::txtsize --> NrysoleavwutEn:::txtsize
+NrysoleavwutEn:::txtsize --> Uphdpsdaitl:::txtsize
+NrysoleavwutEn:::txtsize --> Lotlrehuoogene:::txtsize
+ActsrrsUuec:::txtsize --> Snswtsltio:::txtsize
+Snswtsltio:::txtsize --> MFeafsasru:::txtsize
+Snswtsltio:::txtsize --> NrysoleavwutEn:::txtsize
+UatwrmetpyiU:::txtsize --> NrysoleavwutEn:::txtsize
+NrysoleavwutEn:::txtsize --> Uphdpsdaitl:::txtsize
+Uphdpsdaitl:::txtsize --> Uvenounpiu:::txtsize
+Uphdpsdaitl:::txtsize --> Uelctrfnacr:::txtsize
+NrysoleavwutEn:::txtsize --> Lotlrehuoogene:::txtsize
 
 ```
-<i>Last updated: 2025-12-11 12:00:49.409902 (GMT+8)</i>
+<i>Last updated: 2025-12-11 16:01:26.135019 (GMT+8)</i>
 <!-- END -->
