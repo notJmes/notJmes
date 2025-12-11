@@ -16,141 +16,135 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-FpstuataroS@{ shape: win-pane, label: "_Published Dec 11, 2025, 11:39 PM_
-Fda approves first home-use headset to treat depression in us" }
-Fasidefohne@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:48 AM_
-Fda examines possible adult deaths from covid-19 shots in probe" }
-Kdcdrnccoertae@{ shape: win-pane, label: "_Published Dec 08, 2025, 07:15 AM_
-Kennedy vaccine advisers ‘turned back the clock’ on disease prevention, say experts" }
-Ucaphiaetrrf@{ shape: win-pane, label: "_Published Dec 06, 2025, 10:25 AM_
-Us vaccine panel upends hepatitis b advice in latest trump-era shift" }
-TeeDmoespeoevnn@{ shape: win-pane, label: "_Published Dec 04, 2025, 10:12 AM_
-Twelve former us fda commissioners express deep concern about agency’s vaccine change" }
-Ulcreeyituuaeole@{ shape: win-pane, label: "_Published Nov 18, 2025, 05:10 AM_
-Us health secretary robert f. kennedy jr tries to tie aluminium in vaccines to food allergies" }
-MaulStryeso@{ shape: win-pane, label: "_Published Sep 04, 2025, 10:20 AM_
-Medical groups call on us health secretary kennedy to step down" }
-TeeDmoespeoevnn@{ shape: win-pane, label: "_Published Dec 04, 2025, 10:12 AM_
-Twelve former us fda commissioners express deep concern about agency’s vaccine change" }
-Usyidcsre@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:25 AM_
-Us fda’s newly appointed drugs chief set to retire" }
-Ulcreeyituuaeole@{ shape: win-pane, label: "_Published Nov 18, 2025, 05:10 AM_
-Us health secretary robert f. kennedy jr tries to tie aluminium in vaccines to food allergies" }
-FUleheioeepento@{ shape: win-pane, label: "_Published Sep 18, 2025, 01:56 AM_
-Fired us health agency chief testifies about pressure to ‘replace evidence with ideology’" }
-Ucotethsdssny@{ shape: win-pane, label: "_Published Dec 03, 2025, 11:01 AM_
-Us vaccine committee’s hepatitis b changes would be most consequential yet" }
-Usyidcsre@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:25 AM_
-Us fda’s newly appointed drugs chief set to retire" }
-Rifttiec@{ shape: win-pane, label: "_Published Jan 02, 2025, 05:00 AM_
-Rfk jr is half right about american healthcare" }
+UeenzfidmeoZsy@{ shape: win-pane, label: "_Published Dec 12, 2025, 03:33 AM_
+Us offers ‘free economic zone’ if ukraine cedes remainder of donbas, zelensky says" }
+EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
+Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
+Ranaomedrhuaiuv@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
+Russia says no ukraine compromise reached after five-hour putin talks with trump envoys" }
+Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
+Trump’s 28-point ukraine plan" }
+Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
+Us hails progress in ukraine peace talks but security questions unresolved" }
+Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
+Us peace plan for ukraine drew from russian document, sources say" }
+Tsodirisohe@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:30 AM_
+Trump says no firm deadline for ukraine, russia to reach peace deal" }
+Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
+Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
+Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
+Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
+UnlyorpfStd@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:08 AM_
+Ukraine’s zelensky welcomes ‘principles’ of new us draft to end war" }
+Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
+Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
+Feryaoilnoeewke@{ shape: win-pane, label: "_Published Nov 26, 2025, 03:17 AM_
+France’s macron says ‘clearly no russian willingness to agree ceasefire’ with ukraine" }
 
-FpstuataroS:::txtsize --> Fasidefohne:::txtsize
-Fasidefohne:::txtsize --> Kdcdrnccoertae:::txtsize
-Kdcdrnccoertae:::txtsize --> Ucaphiaetrrf:::txtsize
-Kdcdrnccoertae:::txtsize --> TeeDmoespeoevnn:::txtsize
-Fasidefohne:::txtsize --> Ulcreeyituuaeole:::txtsize
-Ulcreeyituuaeole:::txtsize --> MaulStryeso:::txtsize
-FpstuataroS:::txtsize --> TeeDmoespeoevnn:::txtsize
-TeeDmoespeoevnn:::txtsize --> Usyidcsre:::txtsize
-Usyidcsre:::txtsize --> Ulcreeyituuaeole:::txtsize
-Usyidcsre:::txtsize --> FUleheioeepento:::txtsize
-TeeDmoespeoevnn:::txtsize --> Ucotethsdssny:::txtsize
-Ucotethsdssny:::txtsize --> Usyidcsre:::txtsize
-Ucotethsdssny:::txtsize --> Rifttiec:::txtsize
+UeenzfidmeoZsy:::txtsize --> EihaDsitnnannsake:::txtsize
+EihaDsitnnannsake:::txtsize --> Ranaomedrhuaiuv:::txtsize
+Ranaomedrhuaiuv:::txtsize --> Tstia:::txtsize
+Ranaomedrhuaiuv:::txtsize --> Ulgiaeauuqinl:::txtsize
+UeenzfidmeoZsy:::txtsize --> Ucnkefunmos:::txtsize
+Ucnkefunmos:::txtsize --> Tsodirisohe:::txtsize
+Tsodirisohe:::txtsize --> Zsyaeonaalusdthp:::txtsize
+Tsodirisohe:::txtsize --> Zsyaeonaalusdthp:::txtsize
+Ucnkefunmos:::txtsize --> UnlyorpfStd:::txtsize
+UnlyorpfStd:::txtsize --> Zsyaeonaalusdthp:::txtsize
+UnlyorpfStd:::txtsize --> Feryaoilnoeewke:::txtsize
 
-Nufaaalaeidaca@{ shape: win-pane, label: "_Published Dec 11, 2025, 11:25 PM_
-New church of england head sarah mullally accused of mishandling abuse complaint" }
-Wanrsfeytffecnd@{ shape: win-pane, label: "_Published Oct 03, 2025, 05:12 PM_
-Woman appointed archbishop of canterbury a historic first for the church of england" }
-TmerusdchCrann@{ shape: win-pane, label: "_Published Oct 01, 2025, 10:49 PM_
-Two women seen as front runners ahead of archbishop of canterbury announcement" }
-Aiotrtlsobcl@{ shape: win-pane, label: "_Published Nov 12, 2024, 10:09 PM_
-Archbishop of canterbury justin welby resigns over abuse scandal" }
-BpvoufaanantCeo@{ shape: win-pane, label: "_Published Jan 29, 2025, 04:08 AM_
-Bishop of liverpool accused of sexual assault and harassment, britain’s channel 4 reports" }
-VaupfdeIri@{ shape: win-pane, label: "_Published Oct 03, 2025, 11:05 AM_
-Virtual jesus? people of faith divided as ai enters religion" }
-BnoutuBtonweln@{ shape: win-pane, label: "_Published Feb 14, 2025, 11:49 AM_
-Bhutanese monks, nuns to test buddhabot ai tool to expand knowledge in religion" }
-SchiJipctsha@{ shape: win-pane, label: "_Published Nov 20, 2024, 11:00 PM_
-Swiss church unveils ‘ai jesus’ in art project that melds faith and data" }
-Aiotrtlsobcl@{ shape: win-pane, label: "_Published Nov 12, 2024, 10:09 PM_
-Archbishop of canterbury justin welby resigns over abuse scandal" }
-ChasgtiiPcs@{ shape: win-pane, label: "_Published Oct 29, 2024, 10:45 PM_
-Church must act faster against abusive priests: papal commission" }
-Vamawsepthnng@{ shape: win-pane, label: "_Published Oct 27, 2024, 02:22 AM_
-Vatican summit praises women’s leadership, but stops short on women clergy" }
-PrtQirshChodfne@{ shape: win-pane, label: "_Published Oct 13, 2024, 02:16 AM_
-Pope urged at lgbtq meeting to reverse catholic church’s ban on gender-affirming care" }
-Lgaieyiseea@{ shape: win-pane, label: "_Published Oct 17, 2024, 07:35 AM_
-Los angeles archdiocese to pay $1.16b to victims of clergy sexual abuse" }
-PsrisretoeaireVam@{ shape: win-pane, label: "_Published Oct 02, 2024, 02:15 AM_
-Pope asks for forgiveness over abuse, treatment of women in catholic church, ahead of vatican summit" }
-Bmairtadrfdnn@{ shape: win-pane, label: "_Published Apr 06, 2023, 08:18 AM_
-Baltimore catholic clergy in the us abused hundreds of children and teens" }
+Ctfigupemifnisoa@{ shape: win-pane, label: "_Published Dec 12, 2025, 03:03 AM_
+‘coalition of the willing’ discusses progress on mobilising frozen russian assets for ukraine" }
+Eeadsaiuccmoc@{ shape: win-pane, label: "_Published Dec 11, 2025, 01:32 AM_
+European leaders discuss ukraine with trump at ‘critical moment’ for peace" }
+Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
+Us peace plan for ukraine drew from russian document, sources say" }
+Tsodirisohe@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:30 AM_
+Trump says no firm deadline for ukraine, russia to reach peace deal" }
+UnlyorpfStd@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:08 AM_
+Ukraine’s zelensky welcomes ‘principles’ of new us draft to end war" }
+UnhedewScna@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:20 PM_
+Ukraine to share revised peace plan with us on dec 9, zelensky says" }
+ZsyaptwStita@{ shape: win-pane, label: "_Published Dec 08, 2025, 06:36 AM_
+Zelensky says ukraine’s peace talks with us constructive but not easy" }
+ZsyaptwStita@{ shape: win-pane, label: "_Published Dec 08, 2025, 06:36 AM_
+Zelensky says ukraine’s peace talks with us constructive but not easy" }
+Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
+Us peace plan for ukraine drew from russian document, sources say" }
+Tsodirisohe@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:30 AM_
+Trump says no firm deadline for ukraine, russia to reach peace deal" }
+Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
+Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
+Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
+Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
+UnlyorpfStd@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:08 AM_
+Ukraine’s zelensky welcomes ‘principles’ of new us draft to end war" }
+Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
+Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
+Feryaoilnoeewke@{ shape: win-pane, label: "_Published Nov 26, 2025, 03:17 AM_
+France’s macron says ‘clearly no russian willingness to agree ceasefire’ with ukraine" }
 
-Nufaaalaeidaca:::txtsize --> Wanrsfeytffecnd:::txtsize
-Wanrsfeytffecnd:::txtsize --> TmerusdchCrann:::txtsize
-TmerusdchCrann:::txtsize --> Aiotrtlsobcl:::txtsize
-TmerusdchCrann:::txtsize --> BpvoufaanantCeo:::txtsize
-Wanrsfeytffecnd:::txtsize --> VaupfdeIri:::txtsize
-VaupfdeIri:::txtsize --> BnoutuBtonweln:::txtsize
-VaupfdeIri:::txtsize --> SchiJipctsha:::txtsize
-Nufaaalaeidaca:::txtsize --> Aiotrtlsobcl:::txtsize
-Aiotrtlsobcl:::txtsize --> ChasgtiiPcs:::txtsize
-ChasgtiiPcs:::txtsize --> Vamawsepthnng:::txtsize
-ChasgtiiPcs:::txtsize --> PrtQirshChodfne:::txtsize
-Aiotrtlsobcl:::txtsize --> Lgaieyiseea:::txtsize
-Lgaieyiseea:::txtsize --> PsrisretoeaireVam:::txtsize
-Lgaieyiseea:::txtsize --> Bmairtadrfdnn:::txtsize
+Ctfigupemifnisoa:::txtsize --> Eeadsaiuccmoc:::txtsize
+Eeadsaiuccmoc:::txtsize --> Ucnkefunmos:::txtsize
+Ucnkefunmos:::txtsize --> Tsodirisohe:::txtsize
+Ucnkefunmos:::txtsize --> UnlyorpfStd:::txtsize
+Eeadsaiuccmoc:::txtsize --> UnhedewScna:::txtsize
+UnhedewScna:::txtsize --> ZsyaptwStita:::txtsize
+UnhedewScna:::txtsize --> ZsyaptwStita:::txtsize
+Ctfigupemifnisoa:::txtsize --> Ucnkefunmos:::txtsize
+Ucnkefunmos:::txtsize --> Tsodirisohe:::txtsize
+Tsodirisohe:::txtsize --> Zsyaeonaalusdthp:::txtsize
+Tsodirisohe:::txtsize --> Zsyaeonaalusdthp:::txtsize
+Ucnkefunmos:::txtsize --> UnlyorpfStd:::txtsize
+UnlyorpfStd:::txtsize --> Zsyaeonaalusdthp:::txtsize
+UnlyorpfStd:::txtsize --> Feryaoilnoeewke:::txtsize
 
-Agattldrsoe@{ shape: win-pane, label: "_Published Dec 11, 2025, 10:42 PM_
-Ageing germany set to get smaller and older, says stats office" }
-Fhoshssol@{ shape: win-pane, label: "_Published Dec 05, 2025, 07:15 PM_
-French town offers $1,500 birth bonuses to save local clinic" }
-Erdit@{ shape: win-pane, label: "_Published Mar 07, 2025, 09:26 PM_
-Eu saw record drop in births in 2023" }
-Eeipiayesno@{ shape: win-pane, label: "_Published May 19, 2024, 03:30 PM_
-Europe’s ageing population is a money magnet for some investors" }
-Fropahsei@{ shape: win-pane, label: "_Published Jul 21, 2023, 06:52 AM_
-For europe’s older population, heat is the new covid-19" }
-isgacteinrrte@{ shape: win-pane, label: "_Published Oct 03, 2025, 03:00 PM_
-2024 is first dragon year since 1964 that failed to lift singapore’s fertility rate" }
-Spanmohdmounel@{ shape: win-pane, label: "_Published Sep 29, 2025, 03:00 PM_
-S’pore population now at 6.11 million, with 1.2% rise due to more construction workers, helpers" }
-Cramhnabskeilpu@{ shape: win-pane, label: "_Published Jul 25, 2025, 08:10 PM_
-Career setbacks among challenges raised by those seeking fertility help in s’pore: survey" }
-Jsalyersve@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:00 AM_
-Japan’s isolated elderly leave record sums to government in 2024" }
-Jepieoo@{ shape: win-pane, label: "_Published Aug 07, 2025, 05:12 PM_
-Japanese population sees record drop in 2024" }
-Jerraptiaeer@{ shape: win-pane, label: "_Published Jul 16, 2025, 03:40 PM_
-‘japanese first’ party shakes up election with alarm over foreigners" }
-Wsssenn@{ shape: win-pane, label: "_Published Jan 04, 2025, 05:51 PM_
-World’s oldest person dies at 116 in japan" }
-Jcnneacinyomn@{ shape: win-pane, label: "_Published Sep 12, 2025, 03:00 PM_
-Japan centenarian numbers reach record high at nearly 100,000, with 88% of them women" }
-Mhpeooto@{ shape: win-pane, label: "_Published Sep 17, 2024, 02:10 PM_
-More than 95,000 japanese aged over 100, most of them women" }
-WsssltbdU@{ shape: win-pane, label: "_Published Aug 21, 2025, 06:45 PM_
-World’s oldest person celebrates 116th birthday in uk" }
+SnhiBen@{ shape: win-pane, label: "_Published Dec 12, 2025, 02:53 AM_
+Stolen boat hits rialto bridge in venice" }
+LweouorghfaaoirT@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:58 PM_
+Loose wire led to power outage on s’pore-flagged ship before march 2024 baltimore bridge crash: ntsb" }
+BmrcpfpldcMatvgn@{ shape: win-pane, label: "_Published Mar 26, 2024, 03:33 PM_
+Baltimore bridge collapses after s’pore-flagged ship crash; mpa to assist in investigations" }
+Snbedleane@{ shape: win-pane, label: "_Published Jun 05, 2023, 09:40 PM_
+Suspension bridge in india collapses for a second time" }
+Geglkoje@{ shape: win-pane, label: "_Published Jul 24, 2023, 01:58 AM_
+Greece bridge collapse kills one, injures eight" }
+MayiirpeNonglrm@{ shape: win-pane, label: "_Published May 18, 2025, 09:49 AM_
+Mexican navy sailing ship carrying 277 people hits ny’s brooklyn bridge, killing 2 crew members" }
+BmrcpfpldcMatvgn@{ shape: win-pane, label: "_Published Mar 26, 2024, 03:33 PM_
+Baltimore bridge collapses after s’pore-flagged ship crash; mpa to assist in investigations" }
+Tsillfeprswsoe@{ shape: win-pane, label: "_Published Apr 11, 2025, 04:30 AM_
+Tourist family, pilot killed after helicopter crashes in new york’s hudson river" }
+Marmslacafrinsen@{ shape: win-pane, label: "_Published Nov 12, 2025, 09:28 PM_
+‘mountain’s problem’ or design flaw? dramatic collapse of new bridge in china raises questions" }
+NbHighSatyamsri@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:49 AM_
+Newly built hongqi bridge in china’s sichuan partially collapses, months after opening" }
+digrglsi@{ shape: win-pane, label: "_Published Aug 22, 2025, 05:05 PM_
+12 dead, 4 missing after bridge collapses in china" }
+Asdrriosugcnv@{ shape: win-pane, label: "_Published Jul 09, 2025, 08:01 PM_
+At least 9 dead after gujarat bridge collapses, plunging vehicles into river" }
+digrglsi@{ shape: win-pane, label: "_Published Aug 22, 2025, 05:05 PM_
+12 dead, 4 missing after bridge collapses in china" }
+Fiinngresiin@{ shape: win-pane, label: "_Published Aug 07, 2025, 04:41 PM_
+Five killed in china’s xinjiang after cable on suspension bridge snaps" }
+Asdrgestnkle@{ shape: win-pane, label: "_Published Mar 15, 2025, 04:00 PM_
+At least 5 dead after bridge under construction in bangkok collapses" }
 
-Agattldrsoe:::txtsize --> Fhoshssol:::txtsize
-Fhoshssol:::txtsize --> Erdit:::txtsize
-Erdit:::txtsize --> Eeipiayesno:::txtsize
-Erdit:::txtsize --> Fropahsei:::txtsize
-Fhoshssol:::txtsize --> isgacteinrrte:::txtsize
-isgacteinrrte:::txtsize --> Spanmohdmounel:::txtsize
-isgacteinrrte:::txtsize --> Cramhnabskeilpu:::txtsize
-Agattldrsoe:::txtsize --> Jsalyersve:::txtsize
-Jsalyersve:::txtsize --> Jepieoo:::txtsize
-Jepieoo:::txtsize --> Jerraptiaeer:::txtsize
-Jepieoo:::txtsize --> Wsssenn:::txtsize
-Jsalyersve:::txtsize --> Jcnneacinyomn:::txtsize
-Jcnneacinyomn:::txtsize --> Mhpeooto:::txtsize
-Jcnneacinyomn:::txtsize --> WsssltbdU:::txtsize
+SnhiBen:::txtsize --> LweouorghfaaoirT:::txtsize
+LweouorghfaaoirT:::txtsize --> BmrcpfpldcMatvgn:::txtsize
+BmrcpfpldcMatvgn:::txtsize --> Snbedleane:::txtsize
+BmrcpfpldcMatvgn:::txtsize --> Geglkoje:::txtsize
+LweouorghfaaoirT:::txtsize --> MayiirpeNonglrm:::txtsize
+MayiirpeNonglrm:::txtsize --> BmrcpfpldcMatvgn:::txtsize
+MayiirpeNonglrm:::txtsize --> Tsillfeprswsoe:::txtsize
+SnhiBen:::txtsize --> Marmslacafrinsen:::txtsize
+Marmslacafrinsen:::txtsize --> NbHighSatyamsri:::txtsize
+NbHighSatyamsri:::txtsize --> digrglsi:::txtsize
+NbHighSatyamsri:::txtsize --> Asdrriosugcnv:::txtsize
+Marmslacafrinsen:::txtsize --> digrglsi:::txtsize
+digrglsi:::txtsize --> Fiinngresiin:::txtsize
+digrglsi:::txtsize --> Asdrgestnkle:::txtsize
 
 ```
-<i>Last updated: 2025-12-12 00:00:43.596368 (GMT+8)</i>
+<i>Last updated: 2025-12-12 04:01:11.500335 (GMT+8)</i>
 <!-- END -->
