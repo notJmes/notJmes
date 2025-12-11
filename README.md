@@ -16,132 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-NoavoketmsG@{ shape: win-pane, label: "_Published Dec 11, 2025, 03:57 AM_
-‘no proof’ of mass diversion of ukraine arms to criminals, say ngos" }
-Unsinlmnalos@{ shape: win-pane, label: "_Published Dec 11, 2025, 01:17 AM_
-Ukraine says russia launches large mechanised assault in pokrovsk" }
-Eeadsaiuccmoc@{ shape: win-pane, label: "_Published Dec 11, 2025, 01:32 AM_
-European leaders discuss ukraine with trump at ‘critical moment’ for peace" }
-Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
-Us peace plan for ukraine drew from russian document, sources say" }
-UnhedewScna@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:20 PM_
-Ukraine to share revised peace plan with us on dec 9, zelensky says" }
-EseRaeciotrn@{ shape: win-pane, label: "_Published Dec 10, 2025, 01:42 AM_
-Eu close to deal on russian assets, dec 18 summit to go on until agreement" }
-EsnbnUndozsas@{ shape: win-pane, label: "_Published Oct 23, 2025, 11:00 PM_
-Eu vows financial backing for ukraine, holds off on frozen russian assets plan" }
-Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
-Belgium says eu states must share risk to use frozen russian assets for ukraine" }
-Eeadsaiuccmoc@{ shape: win-pane, label: "_Published Dec 11, 2025, 01:32 AM_
-European leaders discuss ukraine with trump at ‘critical moment’ for peace" }
-Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
-Us peace plan for ukraine drew from russian document, sources say" }
-Tsodirisohe@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:30 AM_
-Trump says no firm deadline for ukraine, russia to reach peace deal" }
-UnlyorpfStd@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:08 AM_
-Ukraine’s zelensky welcomes ‘principles’ of new us draft to end war" }
-UnhedewScna@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:20 PM_
-Ukraine to share revised peace plan with us on dec 9, zelensky says" }
-ZsyaptwStita@{ shape: win-pane, label: "_Published Dec 08, 2025, 06:36 AM_
-Zelensky says ukraine’s peace talks with us constructive but not easy" }
-ZsyaptwStita@{ shape: win-pane, label: "_Published Dec 08, 2025, 06:36 AM_
-Zelensky says ukraine’s peace talks with us constructive but not easy" }
+Tddgwrabn@{ shape: win-pane, label: "_Published Dec 11, 2025, 07:59 AM_
+Trump demands cnn get new owners in warner bidding war" }
+Nikonnrsrra@{ shape: win-pane, label: "_Published Dec 09, 2025, 08:06 AM_
+Netflix sinks as concerns mount over risks of warner bros deal" }
+Helrranoo@{ shape: win-pane, label: "_Published Dec 06, 2025, 04:54 PM_
+How the netflix-warner bros deal changes hollywood" }
+Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
+Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
+Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
+Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
+Wrfhuhisboat@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:30 PM_
+Warner bros fight heats up with $140.7 billion hostile bid from paramount" }
+Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
+Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
+Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
+Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
+NiPortfrnWr@{ shape: win-pane, label: "_Published Dec 10, 2025, 08:13 PM_
+Netflix and paramount are battling for more than just warner bros" }
+Wrfhuhisboat@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:30 PM_
+Warner bros fight heats up with $140.7 billion hostile bid from paramount" }
+Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
+Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
+Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
+Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
 
-NoavoketmsG:::txtsize --> Unsinlmnalos:::txtsize
-Unsinlmnalos:::txtsize --> Eeadsaiuccmoc:::txtsize
-Eeadsaiuccmoc:::txtsize --> Ucnkefunmos:::txtsize
-Eeadsaiuccmoc:::txtsize --> UnhedewScna:::txtsize
-Unsinlmnalos:::txtsize --> EseRaeciotrn:::txtsize
-EseRaeciotrn:::txtsize --> EsnbnUndozsas:::txtsize
-EseRaeciotrn:::txtsize --> Busauasszsaske:::txtsize
-NoavoketmsG:::txtsize --> Eeadsaiuccmoc:::txtsize
-Eeadsaiuccmoc:::txtsize --> Ucnkefunmos:::txtsize
-Ucnkefunmos:::txtsize --> Tsodirisohe:::txtsize
-Ucnkefunmos:::txtsize --> UnlyorpfStd:::txtsize
-Eeadsaiuccmoc:::txtsize --> UnhedewScna:::txtsize
-UnhedewScna:::txtsize --> ZsyaptwStita:::txtsize
-UnhedewScna:::txtsize --> ZsyaptwStita:::txtsize
+Tddgwrabn:::txtsize --> Nikonnrsrra:::txtsize
+Nikonnrsrra:::txtsize --> Helrranoo:::txtsize
+Helrranoo:::txtsize --> Niunocydtiimh:::txtsize
+Helrranoo:::txtsize --> Niunocydtiimh:::txtsize
+Nikonnrsrra:::txtsize --> Wrfhuhisboat:::txtsize
+Wrfhuhisboat:::txtsize --> Niunocydtiimh:::txtsize
+Wrfhuhisboat:::txtsize --> Niunocydtiimh:::txtsize
+Tddgwrabn:::txtsize --> NiPortfrnWr:::txtsize
+NiPortfrnWr:::txtsize --> Wrfhuhisboat:::txtsize
+Wrfhuhisboat:::txtsize --> Niunocydtiimh:::txtsize
+Wrfhuhisboat:::txtsize --> Niunocydtiimh:::txtsize
 
-Fhipdepsrnh@{ shape: win-pane, label: "_Published Dec 11, 2025, 02:09 AM_
-French far right sparks debate with proposal to re-open brothels" }
-Dpeoardeose@{ shape: win-pane, label: "_Published Nov 17, 2024, 05:16 PM_
-Dutch police use hologram to try and decode sex worker’s 2009 murder" }
-Scricldnool@{ shape: win-pane, label: "_Published Jul 15, 2023, 04:41 AM_
-Suspect charged with decade-old murders on new york’s long island" }
-Schasleriufe@{ shape: win-pane, label: "_Published May 04, 2023, 12:28 AM_
-Suspected thai cyanide serial killer charged with 14 counts of murder" }
-TrslerojrFe@{ shape: win-pane, label: "_Published Dec 24, 2022, 04:52 PM_
-'the serpent' serial killer charles sobhraj returns to france" }
-Tpeaestirnr@{ shape: win-pane, label: "_Published Feb 05, 2025, 05:30 PM_
-Tokyo police bust alleged prostitution ring targeting tourists" }
-Rdiustpiupvo@{ shape: win-pane, label: "_Published Jan 15, 2025, 04:26 PM_
-Record 36.8 million tourists visited japan in 2024 in return to pre-covid-19 boom" }
-Wepatshhires@{ shape: win-pane, label: "_Published Apr 29, 2024, 08:30 AM_
-Weak yen keeps japanese tourists at home while visitor numbers rise" }
-Jsmirpvuw@{ shape: win-pane, label: "_Published Jun 20, 2024, 06:20 PM_
-Japan seeks more visitors despite overtourism woes" }
-Staiywrst@{ shape: win-pane, label: "_Published Jan 04, 2025, 10:56 PM_
-Street in osaka painted yellow to curb prostitution" }
-Cfsbaoaisrua@{ shape: win-pane, label: "_Published Nov 20, 2023, 09:25 AM_
-Calls for host clubs in japan to stop allowing customers to run up tabs" }
-Lsuawfrmou@{ shape: win-pane, label: "_Published Dec 27, 2023, 03:03 PM_
-‘like a saviour’: japanese women fall prey to male host clubs" }
+Yboonsaessab@{ shape: win-pane, label: "_Published Dec 11, 2025, 07:37 AM_
+Youtube tv to roll out genre-based plans, deepens sports streaming bet" }
+NiPortfrnWr@{ shape: win-pane, label: "_Published Dec 10, 2025, 08:13 PM_
+Netflix and paramount are battling for more than just warner bros" }
+Wrfhuhisboat@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:30 PM_
+Warner bros fight heats up with $140.7 billion hostile bid from paramount" }
+Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
+Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
+Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
+Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
+HenluSotbtd@{ shape: win-pane, label: "_Published Dec 11, 2025, 05:00 AM_
+Harmless fun? people are using sora to create problematic videos" }
+OIcotTyp@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:31 PM_
+Openai launches sora 2 with tiktok-style app" }
+OIahTrcr@{ shape: win-pane, label: "_Published Aug 08, 2025, 03:24 AM_
+Openai releases chatgpt-5 as ai race accelerates" }
+Bitptfsoltsoog@{ shape: win-pane, label: "_Published Sep 30, 2025, 07:43 AM_
+Buy it in chatgpt: openai takes first step to enable chatbot users to go shopping" }
 
-Fhipdepsrnh:::txtsize --> Dpeoardeose:::txtsize
-Dpeoardeose:::txtsize --> Scricldnool:::txtsize
-Scricldnool:::txtsize --> Schasleriufe:::txtsize
-Scricldnool:::txtsize --> TrslerojrFe:::txtsize
-Fhipdepsrnh:::txtsize --> Tpeaestirnr:::txtsize
-Tpeaestirnr:::txtsize --> Rdiustpiupvo:::txtsize
-Rdiustpiupvo:::txtsize --> Wepatshhires:::txtsize
-Rdiustpiupvo:::txtsize --> Jsmirpvuw:::txtsize
-Tpeaestirnr:::txtsize --> Staiywrst:::txtsize
-Staiywrst:::txtsize --> Cfsbaoaisrua:::txtsize
-Staiywrst:::txtsize --> Lsuawfrmou:::txtsize
+Yboonsaessab:::txtsize --> NiPortfrnWr:::txtsize
+NiPortfrnWr:::txtsize --> Wrfhuhisboat:::txtsize
+Wrfhuhisboat:::txtsize --> Niunocydtiimh:::txtsize
+Wrfhuhisboat:::txtsize --> Niunocydtiimh:::txtsize
+Yboonsaessab:::txtsize --> HenluSotbtd:::txtsize
+HenluSotbtd:::txtsize --> OIcotTyp:::txtsize
+OIcotTyp:::txtsize --> OIahTrcr:::txtsize
+OIcotTyp:::txtsize --> Bitptfsoltsoog:::txtsize
 
-NvMauuICtdrl@{ shape: win-pane, label: "_Published Dec 11, 2025, 01:48 AM_
-Not lovin’ it: mcdonald’s pulls dutch ‘ai slop’ christmas ad after backlash" }
-Fnosmnknaiwsed@{ shape: win-pane, label: "_Published Dec 02, 2025, 03:45 PM_
-Fearing ai job losses, some young workers in britain shift towards skilled trades" }
-Bishpwfrgcfj@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:10 PM_
-‘bloodied onslaughts’: experts warn of ai’s growing impact on office jobs" }
-TejtoyItdn@{ shape: win-pane, label: "_Published Oct 30, 2025, 04:15 PM_
-Tech sector job cuts in 2025: how many are ai-related redundancies?" }
-Heflknedstite@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:06 PM_
-High demand for roles like ai engineers and data scientists in fintech: report" }
-Fcdnnsvrfmtstpo@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:10 PM_
-Fintech funding in asean falls 36% as investors shift from growth-chasing start-ups: report" }
-AulpmntercmWCg@{ shape: win-pane, label: "_Published Nov 12, 2025, 01:55 PM_
-Ai should help people do more and do it faster, not replace them: uob’s wee ee cheong" }
-LrofAeieftna@{ shape: win-pane, label: "_Published Aug 05, 2024, 10:10 AM_
-‘lies are flooding feeds’: ai fakery raises fears of us voter manipulation" }
-Titeciekdrsaien@{ shape: win-pane, label: "_Published Feb 14, 2024, 06:49 AM_
-Tech giants to unveil pact to fight deepfakes and other ai misuse targeting elections" }
-Dadaondegac@{ shape: win-pane, label: "_Published Dec 17, 2023, 05:00 AM_
-Deepfake videos raise concern in india ahead of general election" }
-IKvreolsenm@{ shape: win-pane, label: "_Published Feb 12, 2024, 12:10 PM_
-Imran khan’s ‘victory speech’ from jail shows ai’s peril and promise" }
-Dadaondegac@{ shape: win-pane, label: "_Published Dec 17, 2023, 05:00 AM_
-Deepfake videos raise concern in india ahead of general election" }
-AsIdwitaiut@{ shape: win-pane, label: "_Published Dec 08, 2023, 04:45 PM_
-Apps using ai to undress women in photos soaring in popularity" }
-Nnseyfcrao@{ shape: win-pane, label: "_Published Nov 18, 2023, 11:15 AM_
-News anchors targeted by deepfake scammers on facebook" }
+Rtnteeftsne@{ shape: win-pane, label: "_Published Dec 11, 2025, 07:25 AM_
+Reddit begins testing verified profiles to boost transparency" }
+Rtillhrslrueidn@{ shape: win-pane, label: "_Published Dec 09, 2025, 07:35 AM_
+Reddit says it will comply with australia’s ‘legally erroneous’ under-16 social media ban" }
+Aaaedfwaiaatct@{ shape: win-pane, label: "_Published Dec 05, 2025, 05:00 AM_
+Australia says the world will follow social media ban as meta starts blocking teens" }
+Ybowulecea@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:55 AM_
+Youtube to comply with australia’s teen social media ban" }
+Aathnslaattbs@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:09 AM_
+Australian teen challenging social media ban says internet will be less safe" }
+Ctngsieidngieae@{ shape: win-pane, label: "_Published Dec 08, 2025, 12:11 PM_
+Christmas unplugged: australian teen social media ban brings holiday headspace woes" }
+Tkmisntae@{ shape: win-pane, label: "_Published Dec 05, 2025, 03:11 PM_
+Tiktok to comply with ‘upsetting’ australian under-16 ban" }
+Aaaedfwaiaatct@{ shape: win-pane, label: "_Published Dec 05, 2025, 05:00 AM_
+Australia says the world will follow social media ban as meta starts blocking teens" }
+Itooersaisues@{ shape: win-pane, label: "_Published Dec 10, 2025, 08:48 PM_
+‘i didn’t get to say goodbye’: australia’s social media ban stirs unease, praise" }
+Wwesnaisita@{ shape: win-pane, label: "_Published Dec 10, 2025, 11:15 AM_
+World watches first teen social media ban start in australia" }
+Aaombrdnafils@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:32 PM_
+Australia social media ban for children under 16 takes effect in world first" }
+Aneaisesint@{ shape: win-pane, label: "_Published Dec 10, 2025, 08:20 AM_
+Alternative social media apps surge as australia teen ban starts" }
+SpnsAavceayu@{ shape: win-pane, label: "_Published Jan 07, 2025, 01:27 PM_
+Singapore in talks with australia over social media ban for young users" }
+Aaaslaolu@{ shape: win-pane, label: "_Published Nov 28, 2024, 08:33 PM_
+Australia passes social media ban for children under 16" }
 
-NvMauuICtdrl:::txtsize --> Fnosmnknaiwsed:::txtsize
-Fnosmnknaiwsed:::txtsize --> Bishpwfrgcfj:::txtsize
-Bishpwfrgcfj:::txtsize --> TejtoyItdn:::txtsize
-Fnosmnknaiwsed:::txtsize --> Heflknedstite:::txtsize
-Heflknedstite:::txtsize --> Fcdnnsvrfmtstpo:::txtsize
-Heflknedstite:::txtsize --> AulpmntercmWCg:::txtsize
-NvMauuICtdrl:::txtsize --> LrofAeieftna:::txtsize
-LrofAeieftna:::txtsize --> Titeciekdrsaien:::txtsize
-Titeciekdrsaien:::txtsize --> Dadaondegac:::txtsize
-Titeciekdrsaien:::txtsize --> IKvreolsenm:::txtsize
-LrofAeieftna:::txtsize --> Dadaondegac:::txtsize
-Dadaondegac:::txtsize --> AsIdwitaiut:::txtsize
-Dadaondegac:::txtsize --> Nnseyfcrao:::txtsize
+Rtnteeftsne:::txtsize --> Rtillhrslrueidn:::txtsize
+Rtillhrslrueidn:::txtsize --> Aaaedfwaiaatct:::txtsize
+Aaaedfwaiaatct:::txtsize --> Ybowulecea:::txtsize
+Aaaedfwaiaatct:::txtsize --> Aathnslaattbs:::txtsize
+Rtillhrslrueidn:::txtsize --> Ctngsieidngieae:::txtsize
+Ctngsieidngieae:::txtsize --> Tkmisntae:::txtsize
+Ctngsieidngieae:::txtsize --> Aaaedfwaiaatct:::txtsize
+Rtnteeftsne:::txtsize --> Itooersaisues:::txtsize
+Itooersaisues:::txtsize --> Wwesnaisita:::txtsize
+Wwesnaisita:::txtsize --> Aaombrdnafils:::txtsize
+Wwesnaisita:::txtsize --> Aneaisesint:::txtsize
+Itooersaisues:::txtsize --> SpnsAavceayu:::txtsize
+SpnsAavceayu:::txtsize --> Aaaslaolu:::txtsize
 
 ```
-<i>Last updated: 2025-12-11 04:00:49.588249 (GMT+8)</i>
+<i>Last updated: 2025-12-11 08:01:16.418701 (GMT+8)</i>
 <!-- END -->
