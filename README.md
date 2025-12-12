@@ -16,99 +16,141 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-AariltnNrogaia@{ shape: win-pane, label: "_Published Dec 12, 2025, 07:45 AM_
-A us grand jury again declines to re-indict new york attorney general letitia james" }
-Lieteenmitrf@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:43 AM_
-Letitia james, ny attorney general and trump foe, indicted for bank fraud" }
-EcCpsuiepe@{ shape: win-pane, label: "_Published Oct 08, 2025, 11:53 PM_
-Ex-fbi chief comey pleads not guilty in case trump pushed for" }
-Ierdsiupcao@{ shape: win-pane, label: "_Published Sep 28, 2025, 07:54 AM_
-Inside the trump administration’s push to prosecute james comey" }
-Citearcicoisgp@{ shape: win-pane, label: "_Published Sep 27, 2025, 04:47 AM_
-Comey indictment escalates trump’s campaign to chill opposition, say legal experts" }
-Ierdsiupcao@{ shape: win-pane, label: "_Published Sep 28, 2025, 07:54 AM_
-Inside the trump administration’s push to prosecute james comey" }
-Frhorahdurcc@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:10 AM_
-Former fbi chief comey criminally charged as trump targets critics" }
-TpcgJcanhhe@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:36 AM_
-Trump publicly urges us justice department to charge his enemies" }
-UgstiagtIfsyoLie@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:16 AM_
-Us judge tosses out criminal cases against ex-fbi chief james comey, new york a-g letitia james" }
-Frhorahdurcc@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:10 AM_
-Former fbi chief comey criminally charged as trump targets critics" }
-TpcgJcanhhe@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:36 AM_
-Trump publicly urges us justice department to charge his enemies" }
-Edtmteyevvceo@{ shape: win-pane, label: "_Published May 17, 2025, 03:04 AM_
-Ex-fbi director comey interviewed by secret service over ‘8647’ social media post" }
-MiAchrsgrwrnaheP@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:30 PM_
-Majority of americans think trump is using federal law enforcement to target his enemies: poll" }
-EcCpsuiepe@{ shape: win-pane, label: "_Published Oct 08, 2025, 11:53 PM_
-Ex-fbi chief comey pleads not guilty in case trump pushed for" }
-TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
-Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
+Acrhnrebooisfir@{ shape: win-pane, label: "_Published Dec 12, 2025, 11:45 AM_
+American burger chain in-n-out removes number ‘67’ from its ordering system after viral trend" }
+WsGpasGscth@{ shape: win-pane, label: "_Published Sep 25, 2025, 03:49 PM_
+What is 6-7? this gen alpha slang has left gen zs scratching their heads" }
+psoioasaamiurt@{ shape: win-pane, label: "_Published Jul 22, 2025, 09:45 AM_
+‘+60 points for following crowd measures’: singaporeans jump on viral ‘aura farming’ trend" }
+Wsfnsnnnso@{ shape: win-pane, label: "_Published Jul 11, 2025, 02:45 PM_
+What is ‘aura farming’? this indonesian tween will show you" }
+DhayoeaGdtrini@{ shape: win-pane, label: "_Published Aug 29, 2025, 07:00 AM_
+Do you have a ‘5-9’ after your 9-5 job? some singapore gen zs do and they are having fun with it" }
+Dnwharsodncewl@{ shape: win-pane, label: "_Published Jul 11, 2025, 02:35 PM_
+‘don’t know how to be human any more’: why some young adults need a course on how to talk" }
+Cnptevtbolrutsipn@{ shape: win-pane, label: "_Published Jul 11, 2025, 09:30 PM_
+Community space stranger conversations blossoms as ‘library of human stories’ and life experiences" }
+Bdsnrhr@{ shape: win-pane, label: "_Published Oct 31, 2025, 12:08 AM_
+Beyond words: ‘67’ crowned word of the year" }
+TrtrKangetorc@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:29 AM_
+Taylor swift and travis kelce announce engagement after two-year romance" }
+tsoueyeywnvl@{ shape: win-pane, label: "_Published Aug 27, 2025, 06:50 AM_
+5 things to know about love story between taylor swift and travis kelce" }
+Lsutofkaieapntvl@{ shape: win-pane, label: "_Published Aug 14, 2025, 09:42 AM_
+‘life is more upbeat’: taylor swift talks new album in rare podcast appearance with travis kelce" }
+WsGpasGscth@{ shape: win-pane, label: "_Published Sep 25, 2025, 03:49 PM_
+What is 6-7? this gen alpha slang has left gen zs scratching their heads" }
+psoioasaamiurt@{ shape: win-pane, label: "_Published Jul 22, 2025, 09:45 AM_
+‘+60 points for following crowd measures’: singaporeans jump on viral ‘aura farming’ trend" }
+DhayoeaGdtrini@{ shape: win-pane, label: "_Published Aug 29, 2025, 07:00 AM_
+Do you have a ‘5-9’ after your 9-5 job? some singapore gen zs do and they are having fun with it" }
 
-AariltnNrogaia:::txtsize --> Lieteenmitrf:::txtsize
-Lieteenmitrf:::txtsize --> EcCpsuiepe:::txtsize
-EcCpsuiepe:::txtsize --> Ierdsiupcao:::txtsize
-EcCpsuiepe:::txtsize --> Citearcicoisgp:::txtsize
-Lieteenmitrf:::txtsize --> Ierdsiupcao:::txtsize
-Ierdsiupcao:::txtsize --> Frhorahdurcc:::txtsize
-Ierdsiupcao:::txtsize --> TpcgJcanhhe:::txtsize
-AariltnNrogaia:::txtsize --> UgstiagtIfsyoLie:::txtsize
-UgstiagtIfsyoLie:::txtsize --> Frhorahdurcc:::txtsize
-Frhorahdurcc:::txtsize --> TpcgJcanhhe:::txtsize
-Frhorahdurcc:::txtsize --> Edtmteyevvceo:::txtsize
-UgstiagtIfsyoLie:::txtsize --> MiAchrsgrwrnaheP:::txtsize
-MiAchrsgrwrnaheP:::txtsize --> EcCpsuiepe:::txtsize
-MiAchrsgrwrnaheP:::txtsize --> TahesegnipdoUstt:::txtsize
+Acrhnrebooisfir:::txtsize --> WsGpasGscth:::txtsize
+WsGpasGscth:::txtsize --> psoioasaamiurt:::txtsize
+psoioasaamiurt:::txtsize --> Wsfnsnnnso:::txtsize
+WsGpasGscth:::txtsize --> DhayoeaGdtrini:::txtsize
+DhayoeaGdtrini:::txtsize --> Dnwharsodncewl:::txtsize
+DhayoeaGdtrini:::txtsize --> Cnptevtbolrutsipn:::txtsize
+Acrhnrebooisfir:::txtsize --> Bdsnrhr:::txtsize
+Bdsnrhr:::txtsize --> TrtrKangetorc:::txtsize
+TrtrKangetorc:::txtsize --> tsoueyeywnvl:::txtsize
+TrtrKangetorc:::txtsize --> Lsutofkaieapntvl:::txtsize
+Bdsnrhr:::txtsize --> WsGpasGscth:::txtsize
+WsGpasGscth:::txtsize --> psoioasaamiurt:::txtsize
+WsGpasGscth:::txtsize --> DhayoeaGdtrini:::txtsize
 
-Anewofna@{ shape: win-pane, label: "_Published Dec 12, 2025, 07:39 AM_
-Ancient undersea wall found off french coast" }
-Rreadmsinet@{ shape: win-pane, label: "_Published Feb 27, 2025, 01:59 AM_
-Rare frescoes unearthed in pompeii shed light on ancient rituals" }
-Isecisnr@{ shape: win-pane, label: "_Published Nov 09, 2024, 01:08 AM_
-Italy's pompeii to cap daily visitor numbers at 20,000" }
-Mnimdeoie@{ shape: win-pane, label: "_Published Aug 18, 2024, 04:10 PM_
-Madonna visits pompeii, donates to local kids’   theatre" }
-Anaafsrel@{ shape: win-pane, label: "_Published May 10, 2024, 05:00 PM_
-‘ancient roman’ solar roof tiles power pompeii villa" }
-EqsulcPilsh@{ shape: win-pane, label: "_Published Jul 19, 2024, 08:15 AM_
-Earthquakes, not just volcanic ash, a pompeii killer: research" }
-CdoaeiisenWHas@{ shape: win-pane, label: "_Published Sep 19, 2023, 10:00 AM_
-Cambodia’s koh ker archaeological site inscribed on unesco world heritage list" }
+OcesdnSteune@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:20 AM_
+Obamacare health subsidy to end as us senate rejects duelling remedies" }
+Tsohgenanr@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:35 AM_
+Trump says money should go to people, not health insurers" }
+Kdcdrnccoertae@{ shape: win-pane, label: "_Published Dec 08, 2025, 07:15 AM_
+Kennedy vaccine advisers ‘turned back the clock’ on disease prevention, say experts" }
+Ucaphiaetrrf@{ shape: win-pane, label: "_Published Dec 06, 2025, 10:25 AM_
+Us vaccine panel upends hepatitis b advice in latest trump-era shift" }
+TeeDmoespeoevnn@{ shape: win-pane, label: "_Published Dec 04, 2025, 10:12 AM_
+Twelve former us fda commissioners express deep concern about agency’s vaccine change" }
+UniMaveelragop@{ shape: win-pane, label: "_Published Aug 01, 2025, 07:10 PM_
+Us plans medicare, medicaid coverage for weight-loss drugs, washington post reports" }
+Csthseehatesrdt@{ shape: win-pane, label: "_Published Jun 30, 2025, 03:12 PM_
+China’s first weight loss drug emerges with its nascent market poised for rapid growth" }
+MSopoahhbiwtsia@{ shape: win-pane, label: "_Published Jul 16, 2025, 06:44 PM_
+Many us employers plan to cut back on healthcare benefits as weight-loss spending soars" }
+TtaOcsoeldid@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:20 AM_
+Trump takes aim at obamacare as historic federal shutdown hits 40th day" }
+Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
+Us government shutdown becomes longest in history" }
+AcobeaSdnsdh@{ shape: win-pane, label: "_Published Nov 01, 2025, 01:34 AM_
+Americans worry about next meal as us shutdown enters second month" }
+Uentesraosactt@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:47 PM_
+Us government shutdown enters record 35th day as congressional inaction takes toll" }
+UajBoodwresdrd@{ shape: win-pane, label: "_Published Nov 08, 2025, 08:50 AM_
+Us senate rejects bill to restore federal worker pay, remains at odds over shutdown" }
+Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
+Us government shutdown becomes longest in history" }
+aWoeveunfotm@{ shape: win-pane, label: "_Published Nov 07, 2025, 05:55 PM_
+Askst: what does the us government shutdown mean for a tourist like me?" }
 
-Anewofna:::txtsize --> Rreadmsinet:::txtsize
-Rreadmsinet:::txtsize --> Isecisnr:::txtsize
-Isecisnr:::txtsize --> Mnimdeoie:::txtsize
-Isecisnr:::txtsize --> Anaafsrel:::txtsize
-Rreadmsinet:::txtsize --> EqsulcPilsh:::txtsize
-EqsulcPilsh:::txtsize --> CdoaeiisenWHas:::txtsize
+OcesdnSteune:::txtsize --> Tsohgenanr:::txtsize
+Tsohgenanr:::txtsize --> Kdcdrnccoertae:::txtsize
+Kdcdrnccoertae:::txtsize --> Ucaphiaetrrf:::txtsize
+Kdcdrnccoertae:::txtsize --> TeeDmoespeoevnn:::txtsize
+Tsohgenanr:::txtsize --> UniMaveelragop:::txtsize
+UniMaveelragop:::txtsize --> Csthseehatesrdt:::txtsize
+UniMaveelragop:::txtsize --> MSopoahhbiwtsia:::txtsize
+OcesdnSteune:::txtsize --> TtaOcsoeldid:::txtsize
+TtaOcsoeldid:::txtsize --> Uentbegno:::txtsize
+Uentbegno:::txtsize --> AcobeaSdnsdh:::txtsize
+Uentbegno:::txtsize --> Uentesraosactt:::txtsize
+TtaOcsoeldid:::txtsize --> UajBoodwresdrd:::txtsize
+UajBoodwresdrd:::txtsize --> Uentbegno:::txtsize
+UajBoodwresdrd:::txtsize --> aWoeveunfotm:::txtsize
 
-WHbspdhnss@{ shape: win-pane, label: "_Published Dec 12, 2025, 07:10 AM_
-White house blames trump's bandaged hand on handshakes" }
-Tseadieael@{ shape: win-pane, label: "_Published Dec 10, 2025, 12:40 PM_
-Trump says he ‘aced’ a third cognitive exam taken recently" }
-Tddnrdnvraraoips@{ shape: win-pane, label: "_Published Dec 10, 2025, 12:00 PM_
-Trump defends economic record at pennsylvania rally amid frustration over rising prices" }
-ThhdsihAc@{ shape: win-pane, label: "_Published Dec 09, 2025, 11:25 AM_
-Trump hits the road as cost of living hurts americans" }
-Tavtisbnkoif@{ shape: win-pane, label: "_Published Dec 09, 2025, 07:48 PM_
-Trump approval rating rises as republicans back cost-of-living efforts" }
-UsteSndtesodg@{ shape: win-pane, label: "_Published Jun 28, 2024, 01:35 PM_
-Us presidential debate: some undecided voters see a disastrous biden night" }
-BsleUsteenspc@{ shape: win-pane, label: "_Published Jun 28, 2024, 09:21 AM_
-Biden stumbles in early us presidential debate exchanges as trump pounces" }
-Ndescestdupdaa@{ shape: win-pane, label: "_Published Jun 28, 2024, 10:11 AM_
-No handshake, hoarse voice: takeaways from the biden-trump us presidential debate" }
+Upgirkfeasespncy@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:13 AM_
+Us preparing to seize more tankers off venezuela’s coast after first ship taken, sources say" }
+Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
+Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
+TenurneCbVuo@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:52 PM_
+Trump eyes anti-drug operations in mexico, colombia as venezuela looms" }
+Siurymeoarnolu@{ shape: win-pane, label: "_Published Dec 06, 2025, 02:26 AM_
+Sweeping trump strategy document seeks to reframe us’ role in the world, slams europe" }
+Uirdotoeramzsho@{ shape: win-pane, label: "_Published Dec 02, 2025, 04:09 AM_
+Us admiral ordered follow-up strike on alleged drug boat from venezuela, says white house" }
+VulScpifromlMo@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:49 AM_
+Venezuela slams us attack preparations after trump confirms call with maduro" }
+Tsicvsugztliee@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:19 PM_
+Trump says airspace above and surrounding venezuela to be closed in its entirety" }
+UgVuMoceoyRllk@{ shape: win-pane, label: "_Published Dec 01, 2025, 05:07 AM_
+Us has given venezuela’s maduro chance to leave country, says republican lawmaker" }
+Voiriorrlisms@{ shape: win-pane, label: "_Published Dec 05, 2025, 01:36 AM_
+Video of us military strike shows survivors in ‘clear distress’, lawmaker says" }
+UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
+Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
+Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
+Us builds up forces in caribbean as officials, experts, ask why" }
+VuMoUswieggoy@{ shape: win-pane, label: "_Published Sep 02, 2025, 01:19 AM_
+Venezuela’s maduro says us warships with 1,200 missiles targeting his country" }
+PgvaHtrasoei@{ shape: win-pane, label: "_Published Dec 04, 2025, 05:30 AM_
+Pentagon review faults hegseth over signal messages on yemen strikes" }
+WHmkssnliui@{ shape: win-pane, label: "_Published Mar 25, 2025, 04:50 AM_
+White house mistakenly shares yemen war plans with journalist" }
+Pgitsahltnkldb@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:21 AM_
+Pentagon chief pete hegseth says us has ‘only just begun’ striking alleged drug boats" }
 
-WHbspdhnss:::txtsize --> Tseadieael:::txtsize
-Tseadieael:::txtsize --> Tddnrdnvraraoips:::txtsize
-Tddnrdnvraraoips:::txtsize --> ThhdsihAc:::txtsize
-Tddnrdnvraraoips:::txtsize --> Tavtisbnkoif:::txtsize
-Tseadieael:::txtsize --> UsteSndtesodg:::txtsize
-UsteSndtesodg:::txtsize --> BsleUsteenspc:::txtsize
-UsteSndtesodg:::txtsize --> Ndescestdupdaa:::txtsize
+Upgirkfeasespncy:::txtsize --> Uzlecoeapageo:::txtsize
+Uzlecoeapageo:::txtsize --> TenurneCbVuo:::txtsize
+TenurneCbVuo:::txtsize --> Siurymeoarnolu:::txtsize
+TenurneCbVuo:::txtsize --> Uirdotoeramzsho:::txtsize
+Uzlecoeapageo:::txtsize --> VulScpifromlMo:::txtsize
+VulScpifromlMo:::txtsize --> Tsicvsugztliee:::txtsize
+VulScpifromlMo:::txtsize --> UgVuMoceoyRllk:::txtsize
+Upgirkfeasespncy:::txtsize --> Voiriorrlisms:::txtsize
+Voiriorrlisms:::txtsize --> UikperngutVura:::txtsize
+UikperngutVura:::txtsize --> Ulfsrafapay:::txtsize
+UikperngutVura:::txtsize --> VuMoUswieggoy:::txtsize
+Voiriorrlisms:::txtsize --> PgvaHtrasoei:::txtsize
+PgvaHtrasoei:::txtsize --> WHmkssnliui:::txtsize
+PgvaHtrasoei:::txtsize --> Pgitsahltnkldb:::txtsize
 
 ```
-<i>Last updated: 2025-12-12 08:00:35.846539 (GMT+8)</i>
+<i>Last updated: 2025-12-12 12:01:08.728811 (GMT+8)</i>
 <!-- END -->
