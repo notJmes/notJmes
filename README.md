@@ -16,141 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Acrhnrebooisfir@{ shape: win-pane, label: "_Published Dec 12, 2025, 11:45 AM_
-American burger chain in-n-out removes number ‘67’ from its ordering system after viral trend" }
-WsGpasGscth@{ shape: win-pane, label: "_Published Sep 25, 2025, 03:49 PM_
-What is 6-7? this gen alpha slang has left gen zs scratching their heads" }
-psoioasaamiurt@{ shape: win-pane, label: "_Published Jul 22, 2025, 09:45 AM_
-‘+60 points for following crowd measures’: singaporeans jump on viral ‘aura farming’ trend" }
-Wsfnsnnnso@{ shape: win-pane, label: "_Published Jul 11, 2025, 02:45 PM_
-What is ‘aura farming’? this indonesian tween will show you" }
-DhayoeaGdtrini@{ shape: win-pane, label: "_Published Aug 29, 2025, 07:00 AM_
-Do you have a ‘5-9’ after your 9-5 job? some singapore gen zs do and they are having fun with it" }
-Dnwharsodncewl@{ shape: win-pane, label: "_Published Jul 11, 2025, 02:35 PM_
-‘don’t know how to be human any more’: why some young adults need a course on how to talk" }
-Cnptevtbolrutsipn@{ shape: win-pane, label: "_Published Jul 11, 2025, 09:30 PM_
-Community space stranger conversations blossoms as ‘library of human stories’ and life experiences" }
-Bdsnrhr@{ shape: win-pane, label: "_Published Oct 31, 2025, 12:08 AM_
-Beyond words: ‘67’ crowned word of the year" }
-TrtrKangetorc@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:29 AM_
-Taylor swift and travis kelce announce engagement after two-year romance" }
-tsoueyeywnvl@{ shape: win-pane, label: "_Published Aug 27, 2025, 06:50 AM_
-5 things to know about love story between taylor swift and travis kelce" }
-Lsutofkaieapntvl@{ shape: win-pane, label: "_Published Aug 14, 2025, 09:42 AM_
-‘life is more upbeat’: taylor swift talks new album in rare podcast appearance with travis kelce" }
-WsGpasGscth@{ shape: win-pane, label: "_Published Sep 25, 2025, 03:49 PM_
-What is 6-7? this gen alpha slang has left gen zs scratching their heads" }
-psoioasaamiurt@{ shape: win-pane, label: "_Published Jul 22, 2025, 09:45 AM_
-‘+60 points for following crowd measures’: singaporeans jump on viral ‘aura farming’ trend" }
-DhayoeaGdtrini@{ shape: win-pane, label: "_Published Aug 29, 2025, 07:00 AM_
-Do you have a ‘5-9’ after your 9-5 job? some singapore gen zs do and they are having fun with it" }
+AwnrrsEanuwsioud@{ shape: win-pane, label: "_Published Dec 12, 2025, 03:35 PM_
+Apple wins only partial reversal in epic games antitrust lawsuit; sanctions mostly upheld" }
+GeUroozsicics@{ shape: win-pane, label: "_Published Sep 25, 2025, 10:30 PM_
+Google asks us supreme court to freeze app store injunction in epic games case" }
+Ugeooustpi@{ shape: win-pane, label: "_Published Oct 08, 2024, 04:21 AM_
+Us judge orders google to open up app store to competition" }
+Ussaroego@{ shape: win-pane, label: "_Published Aug 14, 2024, 08:02 AM_
+Us considers rare antitrust move: breaking up google" }
+Eauonsvpe@{ shape: win-pane, label: "_Published Sep 30, 2024, 07:45 PM_
+Epic games sues google and samsung over app store" }
+EaotkAaoUera@{ shape: win-pane, label: "_Published May 21, 2025, 08:25 AM_
+Epic games’ fortnite back up on apple app store in us after nearly 5 years" }
+Ptnmret@{ shape: win-pane, label: "_Published Oct 02, 2024, 12:45 PM_
+Parents can now limit fortnite play time" }
+Eauonsvpe@{ shape: win-pane, label: "_Published Sep 30, 2024, 07:45 PM_
+Epic games sues google and samsung over app store" }
+Esgsmuveedas@{ shape: win-pane, label: "_Published Sep 12, 2024, 07:50 AM_
+Eu consumer groups slam ‘manipulative’ video game spending tactics" }
+Nrssnaosnsa@{ shape: win-pane, label: "_Published May 14, 2024, 05:12 PM_
+Netherlands fines fortnite maker for ‘pressuring’ kids with ads" }
+Pteoseeumi@{ shape: win-pane, label: "_Published Feb 18, 2024, 05:00 AM_
+Parents, take note of these video games popular among kids" }
+IuySdamapdsa@{ shape: win-pane, label: "_Published May 04, 2024, 05:00 PM_
+‘i gave up on my life’: she didn’t leave home for a year, played games all day" }
 
-Acrhnrebooisfir:::txtsize --> WsGpasGscth:::txtsize
-WsGpasGscth:::txtsize --> psoioasaamiurt:::txtsize
-psoioasaamiurt:::txtsize --> Wsfnsnnnso:::txtsize
-WsGpasGscth:::txtsize --> DhayoeaGdtrini:::txtsize
-DhayoeaGdtrini:::txtsize --> Dnwharsodncewl:::txtsize
-DhayoeaGdtrini:::txtsize --> Cnptevtbolrutsipn:::txtsize
-Acrhnrebooisfir:::txtsize --> Bdsnrhr:::txtsize
-Bdsnrhr:::txtsize --> TrtrKangetorc:::txtsize
-TrtrKangetorc:::txtsize --> tsoueyeywnvl:::txtsize
-TrtrKangetorc:::txtsize --> Lsutofkaieapntvl:::txtsize
-Bdsnrhr:::txtsize --> WsGpasGscth:::txtsize
-WsGpasGscth:::txtsize --> psoioasaamiurt:::txtsize
-WsGpasGscth:::txtsize --> DhayoeaGdtrini:::txtsize
+AwnrrsEanuwsioud:::txtsize --> GeUroozsicics:::txtsize
+GeUroozsicics:::txtsize --> Ugeooustpi:::txtsize
+Ugeooustpi:::txtsize --> Ussaroego:::txtsize
+Ugeooustpi:::txtsize --> Eauonsvpe:::txtsize
+AwnrrsEanuwsioud:::txtsize --> EaotkAaoUera:::txtsize
+EaotkAaoUera:::txtsize --> Ptnmret:::txtsize
+Ptnmret:::txtsize --> Eauonsvpe:::txtsize
+Ptnmret:::txtsize --> Esgsmuveedas:::txtsize
+EaotkAaoUera:::txtsize --> Nrssnaosnsa:::txtsize
+Nrssnaosnsa:::txtsize --> Pteoseeumi:::txtsize
+Nrssnaosnsa:::txtsize --> IuySdamapdsa:::txtsize
 
-OcesdnSteune@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:20 AM_
-Obamacare health subsidy to end as us senate rejects duelling remedies" }
-Tsohgenanr@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:35 AM_
-Trump says money should go to people, not health insurers" }
-Kdcdrnccoertae@{ shape: win-pane, label: "_Published Dec 08, 2025, 07:15 AM_
-Kennedy vaccine advisers ‘turned back the clock’ on disease prevention, say experts" }
-Ucaphiaetrrf@{ shape: win-pane, label: "_Published Dec 06, 2025, 10:25 AM_
-Us vaccine panel upends hepatitis b advice in latest trump-era shift" }
-TeeDmoespeoevnn@{ shape: win-pane, label: "_Published Dec 04, 2025, 10:12 AM_
-Twelve former us fda commissioners express deep concern about agency’s vaccine change" }
-UniMaveelragop@{ shape: win-pane, label: "_Published Aug 01, 2025, 07:10 PM_
-Us plans medicare, medicaid coverage for weight-loss drugs, washington post reports" }
-Csthseehatesrdt@{ shape: win-pane, label: "_Published Jun 30, 2025, 03:12 PM_
-China’s first weight loss drug emerges with its nascent market poised for rapid growth" }
-MSopoahhbiwtsia@{ shape: win-pane, label: "_Published Jul 16, 2025, 06:44 PM_
-Many us employers plan to cut back on healthcare benefits as weight-loss spending soars" }
-TtaOcsoeldid@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:20 AM_
-Trump takes aim at obamacare as historic federal shutdown hits 40th day" }
-Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
-Us government shutdown becomes longest in history" }
-AcobeaSdnsdh@{ shape: win-pane, label: "_Published Nov 01, 2025, 01:34 AM_
-Americans worry about next meal as us shutdown enters second month" }
-Uentesraosactt@{ shape: win-pane, label: "_Published Nov 04, 2025, 08:47 PM_
-Us government shutdown enters record 35th day as congressional inaction takes toll" }
-UajBoodwresdrd@{ shape: win-pane, label: "_Published Nov 08, 2025, 08:50 AM_
-Us senate rejects bill to restore federal worker pay, remains at odds over shutdown" }
-Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
-Us government shutdown becomes longest in history" }
-aWoeveunfotm@{ shape: win-pane, label: "_Published Nov 07, 2025, 05:55 PM_
-Askst: what does the us government shutdown mean for a tourist like me?" }
+Trledenloss@{ shape: win-pane, label: "_Published Dec 12, 2025, 01:40 PM_
+Trump repeals biden land protections in alaska, other states" }
+Tavtisbnkoif@{ shape: win-pane, label: "_Published Dec 09, 2025, 07:48 PM_
+Trump approval rating rises as republicans back cost-of-living efforts" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
+Cuomo to stay in new york mayoral race despite losing democratic primary" }
+Tcasefdrsfocm@{ shape: win-pane, label: "_Published Nov 15, 2025, 07:18 AM_
+Trump cuts tariffs on beef, coffee and other foods as inflation concerns mount" }
+Tpmopsfnarrrye@{ shape: win-pane, label: "_Published Nov 13, 2025, 08:05 AM_
+Trump plans move to ease prices on coffee and bananas: treasury secretary bessent" }
+Tspaspadanop@{ shape: win-pane, label: "_Published Apr 03, 2025, 04:47 AM_
+Trump’s sweeping tariffs amp up global trade war as china, eu vow response" }
 
-OcesdnSteune:::txtsize --> Tsohgenanr:::txtsize
-Tsohgenanr:::txtsize --> Kdcdrnccoertae:::txtsize
-Kdcdrnccoertae:::txtsize --> Ucaphiaetrrf:::txtsize
-Kdcdrnccoertae:::txtsize --> TeeDmoespeoevnn:::txtsize
-Tsohgenanr:::txtsize --> UniMaveelragop:::txtsize
-UniMaveelragop:::txtsize --> Csthseehatesrdt:::txtsize
-UniMaveelragop:::txtsize --> MSopoahhbiwtsia:::txtsize
-OcesdnSteune:::txtsize --> TtaOcsoeldid:::txtsize
-TtaOcsoeldid:::txtsize --> Uentbegno:::txtsize
-Uentbegno:::txtsize --> AcobeaSdnsdh:::txtsize
-Uentbegno:::txtsize --> Uentesraosactt:::txtsize
-TtaOcsoeldid:::txtsize --> UajBoodwresdrd:::txtsize
-UajBoodwresdrd:::txtsize --> Uentbegno:::txtsize
-UajBoodwresdrd:::txtsize --> aWoeveunfotm:::txtsize
+Trledenloss:::txtsize --> Tavtisbnkoif:::txtsize
+Tavtisbnkoif:::txtsize --> Drwialosdp:::txtsize
+Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
+Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
+Tavtisbnkoif:::txtsize --> Tcasefdrsfocm:::txtsize
+Tcasefdrsfocm:::txtsize --> Tpmopsfnarrrye:::txtsize
+Tcasefdrsfocm:::txtsize --> Tspaspadanop:::txtsize
 
-Upgirkfeasespncy@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:13 AM_
-Us preparing to seize more tankers off venezuela’s coast after first ship taken, sources say" }
-Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
-Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
-TenurneCbVuo@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:52 PM_
-Trump eyes anti-drug operations in mexico, colombia as venezuela looms" }
-Siurymeoarnolu@{ shape: win-pane, label: "_Published Dec 06, 2025, 02:26 AM_
-Sweeping trump strategy document seeks to reframe us’ role in the world, slams europe" }
-Uirdotoeramzsho@{ shape: win-pane, label: "_Published Dec 02, 2025, 04:09 AM_
-Us admiral ordered follow-up strike on alleged drug boat from venezuela, says white house" }
-VulScpifromlMo@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:49 AM_
-Venezuela slams us attack preparations after trump confirms call with maduro" }
-Tsicvsugztliee@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:19 PM_
-Trump says airspace above and surrounding venezuela to be closed in its entirety" }
-UgVuMoceoyRllk@{ shape: win-pane, label: "_Published Dec 01, 2025, 05:07 AM_
-Us has given venezuela’s maduro chance to leave country, says republican lawmaker" }
-Voiriorrlisms@{ shape: win-pane, label: "_Published Dec 05, 2025, 01:36 AM_
-Video of us military strike shows survivors in ‘clear distress’, lawmaker says" }
-UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
-Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
-Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
-Us builds up forces in caribbean as officials, experts, ask why" }
-VuMoUswieggoy@{ shape: win-pane, label: "_Published Sep 02, 2025, 01:19 AM_
-Venezuela’s maduro says us warships with 1,200 missiles targeting his country" }
-PgvaHtrasoei@{ shape: win-pane, label: "_Published Dec 04, 2025, 05:30 AM_
-Pentagon review faults hegseth over signal messages on yemen strikes" }
-WHmkssnliui@{ shape: win-pane, label: "_Published Mar 25, 2025, 04:50 AM_
-White house mistakenly shares yemen war plans with journalist" }
-Pgitsahltnkldb@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:21 AM_
-Pentagon chief pete hegseth says us has ‘only just begun’ striking alleged drug boats" }
+Unpoucscn@{ shape: win-pane, label: "_Published Dec 12, 2025, 12:39 PM_
+Us launches pact for ai supply chains to face china" }
+NaTsooHiC@{ shape: win-pane, label: "_Published Dec 09, 2025, 04:08 AM_
+Nvidia wins trump’s approval to ship h200 ai chips to china" }
+NaebwUgrtprl@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:01 AM_
+Nvidia scores lobbying win as us congress rejects chip export bill" }
+Aniwiaasd@{ shape: win-pane, label: "_Published Dec 03, 2025, 01:33 AM_
+Amazon unveils new ai chip in battle against nvidia" }
+Andnwapai@{ shape: win-pane, label: "_Published Dec 03, 2025, 12:28 PM_
+Ai frenzy is driving a new global supply chain crisis" }
+Umascbitopscctek@{ shape: win-pane, label: "_Published Dec 09, 2025, 04:40 AM_
+Us communications agency may bar chinese telecom companies from connecting to us networks" }
+UntbilesisotStc@{ shape: win-pane, label: "_Published May 23, 2025, 10:20 AM_
+Us agency votes to bar chinese labs deemed security risks from testing us electronics" }
+Usnanydaca@{ shape: win-pane, label: "_Published Jul 17, 2025, 02:30 AM_
+Us aims to ban china technology in undersea telecoms cables" }
+Mnoletssmooh@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:30 PM_
+Micron to stop selling memory to consumers as demand soars for ai chips" }
+MnnnrnelmiddIlh@{ shape: win-pane, label: "_Published Jul 03, 2025, 05:00 AM_
+Micron sees new singapore plant as key in plan to meet rising demand for ai-enabling chips" }
+Mnininrtipiepb@{ shape: win-pane, label: "_Published Jan 08, 2025, 02:22 PM_
+Micron’s $9.5b chip plant to give singapore foothold in ai space; will create up to 3,000 jobs" }
+StgbithattlnatsTe@{ shape: win-pane, label: "_Published May 20, 2025, 01:28 PM_
+S’pore to forge global chip partnerships, ramp up talent development in face of ‘trade storm’: tan see leng" }
+Andnwapai@{ shape: win-pane, label: "_Published Dec 03, 2025, 12:28 PM_
+Ai frenzy is driving a new global supply chain crisis" }
+BemepnrrleutyiTa@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:50 AM_
+Businesses must develop wide networks for resilience amid uncertainty: president tharman" }
+SpayvinmsnApsrk@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:00 PM_
+Singapore factory activity rises in november as demand for ai chips and servers picks up" }
 
-Upgirkfeasespncy:::txtsize --> Uzlecoeapageo:::txtsize
-Uzlecoeapageo:::txtsize --> TenurneCbVuo:::txtsize
-TenurneCbVuo:::txtsize --> Siurymeoarnolu:::txtsize
-TenurneCbVuo:::txtsize --> Uirdotoeramzsho:::txtsize
-Uzlecoeapageo:::txtsize --> VulScpifromlMo:::txtsize
-VulScpifromlMo:::txtsize --> Tsicvsugztliee:::txtsize
-VulScpifromlMo:::txtsize --> UgVuMoceoyRllk:::txtsize
-Upgirkfeasespncy:::txtsize --> Voiriorrlisms:::txtsize
-Voiriorrlisms:::txtsize --> UikperngutVura:::txtsize
-UikperngutVura:::txtsize --> Ulfsrafapay:::txtsize
-UikperngutVura:::txtsize --> VuMoUswieggoy:::txtsize
-Voiriorrlisms:::txtsize --> PgvaHtrasoei:::txtsize
-PgvaHtrasoei:::txtsize --> WHmkssnliui:::txtsize
-PgvaHtrasoei:::txtsize --> Pgitsahltnkldb:::txtsize
+Unpoucscn:::txtsize --> NaTsooHiC:::txtsize
+NaTsooHiC:::txtsize --> NaebwUgrtprl:::txtsize
+NaebwUgrtprl:::txtsize --> Aniwiaasd:::txtsize
+NaebwUgrtprl:::txtsize --> Andnwapai:::txtsize
+NaTsooHiC:::txtsize --> Umascbitopscctek:::txtsize
+Umascbitopscctek:::txtsize --> UntbilesisotStc:::txtsize
+Umascbitopscctek:::txtsize --> Usnanydaca:::txtsize
+Unpoucscn:::txtsize --> Mnoletssmooh:::txtsize
+Mnoletssmooh:::txtsize --> MnnnrnelmiddIlh:::txtsize
+MnnnrnelmiddIlh:::txtsize --> Mnininrtipiepb:::txtsize
+MnnnrnelmiddIlh:::txtsize --> StgbithattlnatsTe:::txtsize
+Mnoletssmooh:::txtsize --> Andnwapai:::txtsize
+Andnwapai:::txtsize --> BemepnrrleutyiTa:::txtsize
+Andnwapai:::txtsize --> SpayvinmsnApsrk:::txtsize
 
 ```
-<i>Last updated: 2025-12-12 12:01:08.728811 (GMT+8)</i>
+<i>Last updated: 2025-12-12 16:00:41.025575 (GMT+8)</i>
 <!-- END -->
