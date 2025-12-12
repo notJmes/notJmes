@@ -16,129 +16,141 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-RldiseMonpwCetlor@{ shape: win-pane, label: "_Published Dec 12, 2025, 07:52 PM_
-Republican disunity tests speaker mike johnson’s grip on power as congress enters election year" }
-TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
-Trump signs bill ordering us justice department to release epstein files" }
-Ugpsufrspnsitm@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:23 AM_
-Us congress passes measure to force release of epstein files, sending it to trump" }
-Therltsfwrons@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:55 AM_
-Trump has the power to release the epstein files, with or without congress" }
-Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
-Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
-Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
-Epstein files to be released to us public: what are they?" }
-ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
-After trump reversal, us house pushes forward on epstein vote" }
-TskeMewtco@{ shape: win-pane, label: "_Published Nov 18, 2025, 09:15 AM_
-Trump’s frankenstein? us maga meltdown tests its creator" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
-Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
-Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
-Takeaways from us election night 2025" }
-Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
-Cuomo to stay in new york mayoral race despite losing democratic primary" }
-MnCankgnsodty@{ shape: win-pane, label: "_Published Jun 27, 2025, 06:16 PM_
-Mamdani’s nyc primary win sparks surge in anti-muslim posts, advocates say" }
+Ireezncsghdsr@{ shape: win-pane, label: "_Published Dec 12, 2025, 11:21 PM_
+Iran arrested nobel prize-winning activist narges mohammadi, say supporters" }
+Ibsitagrpasp@{ shape: win-pane, label: "_Published Dec 09, 2025, 08:55 PM_
+Iran objects to ‘pride match’ branding of world cup game against egypt" }
+Iaaddraeu@{ shape: win-pane, label: "_Published Dec 04, 2025, 05:31 AM_
+Iran says to attend world cup draw in apparent u-turn" }
+IoorpontlSis@{ shape: win-pane, label: "_Published Nov 28, 2025, 09:59 PM_
+Iran to boycott world cup draw over ‘unsportsmanlike’ us visa issues" }
+Foteaedrp@{ shape: win-pane, label: "_Published Nov 26, 2025, 01:33 AM_
+Fifa to keep top seeds apart in expanded 2026 world cup draw" }
+VhntttTdpoun@{ shape: win-pane, label: "_Published Dec 04, 2025, 10:10 AM_
+Visa chaos and host city threats: how trump disrupted world cup plans" }
+TsSeiixawarpei@{ shape: win-pane, label: "_Published Mar 08, 2025, 08:56 PM_
+Trump says us trade tensions with mexico, canada will make world cup more exciting" }
+TsSeiixawarpei@{ shape: win-pane, label: "_Published Mar 08, 2025, 08:56 PM_
+Trump says us trade tensions with mexico, canada will make world cup more exciting" }
+IwsdetlofS@{ shape: win-pane, label: "_Published Dec 07, 2025, 05:41 PM_
+Iran awaits second plane of nationals deported from us" }
+Ddpaoneose@{ shape: win-pane, label: "_Published Dec 07, 2025, 03:00 PM_
+Donald trump’s bleak, incoherent foreign-policy strategy" }
+twoaTsaause@{ shape: win-pane, label: "_Published Dec 06, 2025, 07:14 PM_
+5 takeaways for asia from trump’s new national security strategy" }
+Udtncfrletia@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:55 AM_
+Us border patrol announces us$5,000 fee for people who enter the us illegally" }
+Ushietrorro@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:37 AM_
+Us uses war rhetoric, superman to recruit for migrant crackdown" }
+UiiigCooan@{ shape: win-pane, label: "_Published Nov 16, 2025, 08:15 AM_
+Us immigration raids begin in charlotte, north carolina" }
 
-RldiseMonpwCetlor:::txtsize --> TsBrnuertlEie:::txtsize
-TsBrnuertlEie:::txtsize --> Ugpsufrspnsitm:::txtsize
-Ugpsufrspnsitm:::txtsize --> Therltsfwrons:::txtsize
-Ugpsufrspnsitm:::txtsize --> Tdddnersdiinst:::txtsize
-TsBrnuertlEie:::txtsize --> Eieeaobhe:::txtsize
-Eieeaobhe:::txtsize --> ATrsHpsaEie:::txtsize
-Eieeaobhe:::txtsize --> TskeMewtco:::txtsize
-RldiseMonpwCetlor:::txtsize --> Drwialosdp:::txtsize
-Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
-YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
-YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
-Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
-Ctywmaeiseary:::txtsize --> MnCankgnsodty:::txtsize
+Ireezncsghdsr:::txtsize --> Ibsitagrpasp:::txtsize
+Ibsitagrpasp:::txtsize --> Iaaddraeu:::txtsize
+Iaaddraeu:::txtsize --> IoorpontlSis:::txtsize
+Iaaddraeu:::txtsize --> Foteaedrp:::txtsize
+Ibsitagrpasp:::txtsize --> VhntttTdpoun:::txtsize
+VhntttTdpoun:::txtsize --> TsSeiixawarpei:::txtsize
+VhntttTdpoun:::txtsize --> TsSeiixawarpei:::txtsize
+Ireezncsghdsr:::txtsize --> IwsdetlofS:::txtsize
+IwsdetlofS:::txtsize --> Ddpaoneose:::txtsize
+Ddpaoneose:::txtsize --> twoaTsaause:::txtsize
+IwsdetlofS:::txtsize --> Udtncfrletia:::txtsize
+Udtncfrletia:::txtsize --> Ushietrorro:::txtsize
+Udtncfrletia:::txtsize --> UiiigCooan:::txtsize
 
-Budrusdbw@{ shape: win-pane, label: "_Published Dec 12, 2025, 07:46 PM_
-Belgium holds four in brussels child sex abuse sweep" }
-Atsscdhgatnrasa@{ shape: win-pane, label: "_Published Dec 11, 2025, 10:13 PM_
-Amnesty says hamas attacks and gaza hostage treatment amount to crimes against humanity" }
-Hsntoypae@{ shape: win-pane, label: "_Published Oct 03, 2025, 04:11 PM_
-Hamas still needs time to study trump’s gaza peace plan" }
-Ilpaoavidrhr@{ shape: win-pane, label: "_Published Oct 02, 2025, 07:45 PM_
-Israel to deport gaza flotilla activists including greta thunberg" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-Ilroaarw@{ shape: win-pane, label: "_Published Jun 12, 2025, 05:08 PM_
-Israeli ‘starvation’ of gaza is a ‘war crime’: sweden" }
-AseiinadUanio@{ shape: win-pane, label: "_Published Jun 03, 2025, 03:30 PM_
-At least 27 palestinians killed near gaza aid site; un demands investigation" }
+Usnaaaeotryfl@{ shape: win-pane, label: "_Published Dec 12, 2025, 11:13 PM_
+Us aims for international gaza force deployment in early 2026, say us officials" }
+IlHwerfrrepr@{ shape: win-pane, label: "_Published Dec 11, 2025, 08:00 PM_
+Israel says hamas ‘will be disarmed’ after group proposes weapons freeze" }
+Cfonaoteervta@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:44 PM_
+Ceasefire holds in gaza ahead of hostage release and trump’s visit to israel" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+PtndCnspaamnt@{ shape: win-pane, label: "_Published Oct 12, 2025, 02:44 AM_
+Palestinians find gaza city in ruins; trump to chair peace summit in egypt" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+Tsesmadae@{ shape: win-pane, label: "_Published Dec 11, 2025, 10:37 AM_
+Trump says he plans to name gaza board of peace in early 2026" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
 NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
 Netanyahu declares israel at war as hamas attacks kill over 100" }
-Bssopstelanlala@{ shape: win-pane, label: "_Published Dec 03, 2025, 08:30 PM_
-British nursery worker pleads guilty to sexually assaulting children and filming abuse" }
-StrwreaniU@{ shape: win-pane, label: "_Published Sep 27, 2025, 02:11 AM_
-‘sadistic’ nursery worker jailed for abusing 21 babies in uk" }
-WaelaheOdrna@{ shape: win-pane, label: "_Published Sep 11, 2025, 02:50 PM_
-Woman allegedly ill-treated 3 children at moe kindergarten in one day" }
-cacemogddsiltnbn@{ shape: win-pane, label: "_Published Sep 19, 2025, 11:04 AM_
-31 child abuse charges for man who allegedly dunked baby’s head in pail of water, hung him by a hanger" }
-MesselsronCagst@{ shape: win-pane, label: "_Published Nov 22, 2025, 12:00 PM_
-More reports of suspected child abuse in pre-schools in 2024, with cctvs aiding investigations" }
-CasmaoaeoJ@{ shape: win-pane, label: "_Published Aug 31, 2023, 07:20 PM_
-Cctv cameras to be made mandatory in all pre-schools by july 2024" }
-Wceeaebaaorra@{ shape: win-pane, label: "_Published Nov 21, 2025, 02:55 PM_
-Woman charged after she allegedly abused a baby and a toddler under her care" }
+UuCipruomzcn@{ shape: win-pane, label: "_Published Nov 18, 2025, 06:27 AM_
+Un security council adopts us resolution on trump’s gaza peace plan" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
 
-Budrusdbw:::txtsize --> Atsscdhgatnrasa:::txtsize
-Atsscdhgatnrasa:::txtsize --> Hsntoypae:::txtsize
-Hsntoypae:::txtsize --> Ilpaoavidrhr:::txtsize
-Hsntoypae:::txtsize --> Sbsrcdnacaale:::txtsize
-Atsscdhgatnrasa:::txtsize --> Ilroaarw:::txtsize
-Ilroaarw:::txtsize --> AseiinadUanio:::txtsize
-Ilroaarw:::txtsize --> NyeeawHakl:::txtsize
-Budrusdbw:::txtsize --> Bssopstelanlala:::txtsize
-Bssopstelanlala:::txtsize --> StrwreaniU:::txtsize
-StrwreaniU:::txtsize --> WaelaheOdrna:::txtsize
-StrwreaniU:::txtsize --> cacemogddsiltnbn:::txtsize
-Bssopstelanlala:::txtsize --> MesselsronCagst:::txtsize
-MesselsronCagst:::txtsize --> CasmaoaeoJ:::txtsize
-MesselsronCagst:::txtsize --> Wceeaebaaorra:::txtsize
+Usnaaaeotryfl:::txtsize --> IlHwerfrrepr:::txtsize
+IlHwerfrrepr:::txtsize --> Cfonaoteervta:::txtsize
+Cfonaoteervta:::txtsize --> Wouaaam:::txtsize
+Cfonaoteervta:::txtsize --> PtndCnspaamnt:::txtsize
+IlHwerfrrepr:::txtsize --> AtHfezerydatoGel:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+Usnaaaeotryfl:::txtsize --> Tsesmadae:::txtsize
+Tsesmadae:::txtsize --> Wouaaam:::txtsize
+Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
+Wouaaam:::txtsize --> NyeeawHakl:::txtsize
+Tsesmadae:::txtsize --> UuCipruomzcn:::txtsize
+UuCipruomzcn:::txtsize --> Wouaaam:::txtsize
+UuCipruomzcn:::txtsize --> Sbsrcdnacaale:::txtsize
 
-FttmesiCvnNr@{ shape: win-pane, label: "_Published Dec 12, 2025, 07:25 PM_
-Fda intends to put most serious warning on covid-19 vaccines, cnn reports" }
-Fasidefohne@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:48 AM_
-Fda examines possible adult deaths from covid-19 shots in probe" }
-Kdcdrnccoertae@{ shape: win-pane, label: "_Published Dec 08, 2025, 07:15 AM_
-Kennedy vaccine advisers ‘turned back the clock’ on disease prevention, say experts" }
-Ucaphiaetrrf@{ shape: win-pane, label: "_Published Dec 06, 2025, 10:25 AM_
-Us vaccine panel upends hepatitis b advice in latest trump-era shift" }
-TeeDmoespeoevnn@{ shape: win-pane, label: "_Published Dec 04, 2025, 10:12 AM_
-Twelve former us fda commissioners express deep concern about agency’s vaccine change" }
-Ulcreeyituuaeole@{ shape: win-pane, label: "_Published Nov 18, 2025, 05:10 AM_
-Us health secretary robert f. kennedy jr tries to tie aluminium in vaccines to food allergies" }
-MaulStryeso@{ shape: win-pane, label: "_Published Sep 04, 2025, 10:20 AM_
-Medical groups call on us health secretary kennedy to step down" }
-DanaieCitac@{ shape: win-pane, label: "_Published Jan 15, 2025, 05:00 AM_
-Don’t call kennedy a vaccine sceptic. call him what he is – a cynic" }
-Rwraenarwesomlbr@{ shape: win-pane, label: "_Published Nov 09, 2024, 11:20 AM_
-Rfk jr, who spread vaccine misinformation, reviewing resumes for top trump health jobs: sources" }
-RtnrTwererrigr@{ shape: win-pane, label: "_Published Nov 03, 2024, 11:06 AM_
-Robert f. kennedy jr says trump will seek to remove fluoride from drinking water" }
-Rsekomstxstgn@{ shape: win-pane, label: "_Published Jul 03, 2024, 07:50 AM_
-Rfk jr says he has 'skeletons in my closet' after sexual assault allegation" }
+Fuolcelnat@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:33 PM_
+For 2 hours, a football match offers palestinians a rarity: joy" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+FninaiPiia@{ shape: win-pane, label: "_Published Aug 11, 2025, 03:23 PM_
+Fans and family honour ‘palestinian pele’ killed in gaza" }
+Nyarnzeess@{ shape: win-pane, label: "_Published Aug 11, 2025, 06:25 AM_
+Netanyahu says israel’s new gaza offensive will start soon" }
+Nyaaeattoh@{ shape: win-pane, label: "_Published Aug 10, 2025, 08:15 PM_
+Netanyahu says plan to seize gaza city ‘best way to end the war’" }
+Ilneafvgsnpe@{ shape: win-pane, label: "_Published Aug 10, 2025, 03:56 PM_
+Israel’s plan to step up gaza offensive dangerous and unacceptable: mfa" }
+Eenrmeaeat@{ shape: win-pane, label: "_Published Aug 10, 2025, 10:45 PM_
+European ministers slam israel’s plan to seize gaza city" }
+Ilytolzyf@{ shape: win-pane, label: "_Published Aug 08, 2025, 10:56 AM_
+Israeli army will ‘take control’ of gaza city: pm’s office" }
+Ilneafvgsnpe@{ shape: win-pane, label: "_Published Aug 10, 2025, 03:56 PM_
+Israel’s plan to step up gaza offensive dangerous and unacceptable: mfa" }
 
-FttmesiCvnNr:::txtsize --> Fasidefohne:::txtsize
-Fasidefohne:::txtsize --> Kdcdrnccoertae:::txtsize
-Kdcdrnccoertae:::txtsize --> Ucaphiaetrrf:::txtsize
-Kdcdrnccoertae:::txtsize --> TeeDmoespeoevnn:::txtsize
-Fasidefohne:::txtsize --> Ulcreeyituuaeole:::txtsize
-Ulcreeyituuaeole:::txtsize --> MaulStryeso:::txtsize
-FttmesiCvnNr:::txtsize --> DanaieCitac:::txtsize
-DanaieCitac:::txtsize --> Rwraenarwesomlbr:::txtsize
-Rwraenarwesomlbr:::txtsize --> RtnrTwererrigr:::txtsize
-Rwraenarwesomlbr:::txtsize --> Rsekomstxstgn:::txtsize
+Fuolcelnat:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Fuolcelnat:::txtsize --> FninaiPiia:::txtsize
+FninaiPiia:::txtsize --> Nyarnzeess:::txtsize
+Nyarnzeess:::txtsize --> Nyaaeattoh:::txtsize
+Nyarnzeess:::txtsize --> Ilneafvgsnpe:::txtsize
+FninaiPiia:::txtsize --> Eenrmeaeat:::txtsize
+Eenrmeaeat:::txtsize --> Ilytolzyf:::txtsize
+Eenrmeaeat:::txtsize --> Ilneafvgsnpe:::txtsize
 
 ```
-<i>Last updated: 2025-12-12 20:01:18.746928 (GMT+8)</i>
+<i>Last updated: 2025-12-13 00:00:46.517279 (GMT+8)</i>
 <!-- END -->
