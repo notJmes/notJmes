@@ -16,135 +16,99 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-UeenzfidmeoZsy@{ shape: win-pane, label: "_Published Dec 12, 2025, 03:33 AM_
-Us offers ‘free economic zone’ if ukraine cedes remainder of donbas, zelensky says" }
-EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
-Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
-Ranaomedrhuaiuv@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
-Russia says no ukraine compromise reached after five-hour putin talks with trump envoys" }
-Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
-Trump’s 28-point ukraine plan" }
-Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
-Us hails progress in ukraine peace talks but security questions unresolved" }
-Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
-Us peace plan for ukraine drew from russian document, sources say" }
-Tsodirisohe@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:30 AM_
-Trump says no firm deadline for ukraine, russia to reach peace deal" }
-Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
-Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
-Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
-Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
-UnlyorpfStd@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:08 AM_
-Ukraine’s zelensky welcomes ‘principles’ of new us draft to end war" }
-Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
-Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
-Feryaoilnoeewke@{ shape: win-pane, label: "_Published Nov 26, 2025, 03:17 AM_
-France’s macron says ‘clearly no russian willingness to agree ceasefire’ with ukraine" }
+AariltnNrogaia@{ shape: win-pane, label: "_Published Dec 12, 2025, 07:45 AM_
+A us grand jury again declines to re-indict new york attorney general letitia james" }
+Lieteenmitrf@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:43 AM_
+Letitia james, ny attorney general and trump foe, indicted for bank fraud" }
+EcCpsuiepe@{ shape: win-pane, label: "_Published Oct 08, 2025, 11:53 PM_
+Ex-fbi chief comey pleads not guilty in case trump pushed for" }
+Ierdsiupcao@{ shape: win-pane, label: "_Published Sep 28, 2025, 07:54 AM_
+Inside the trump administration’s push to prosecute james comey" }
+Citearcicoisgp@{ shape: win-pane, label: "_Published Sep 27, 2025, 04:47 AM_
+Comey indictment escalates trump’s campaign to chill opposition, say legal experts" }
+Ierdsiupcao@{ shape: win-pane, label: "_Published Sep 28, 2025, 07:54 AM_
+Inside the trump administration’s push to prosecute james comey" }
+Frhorahdurcc@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:10 AM_
+Former fbi chief comey criminally charged as trump targets critics" }
+TpcgJcanhhe@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:36 AM_
+Trump publicly urges us justice department to charge his enemies" }
+UgstiagtIfsyoLie@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:16 AM_
+Us judge tosses out criminal cases against ex-fbi chief james comey, new york a-g letitia james" }
+Frhorahdurcc@{ shape: win-pane, label: "_Published Sep 26, 2025, 08:10 AM_
+Former fbi chief comey criminally charged as trump targets critics" }
+TpcgJcanhhe@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:36 AM_
+Trump publicly urges us justice department to charge his enemies" }
+Edtmteyevvceo@{ shape: win-pane, label: "_Published May 17, 2025, 03:04 AM_
+Ex-fbi director comey interviewed by secret service over ‘8647’ social media post" }
+MiAchrsgrwrnaheP@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:30 PM_
+Majority of americans think trump is using federal law enforcement to target his enemies: poll" }
+EcCpsuiepe@{ shape: win-pane, label: "_Published Oct 08, 2025, 11:53 PM_
+Ex-fbi chief comey pleads not guilty in case trump pushed for" }
+TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
+Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
 
-UeenzfidmeoZsy:::txtsize --> EihaDsitnnannsake:::txtsize
-EihaDsitnnannsake:::txtsize --> Ranaomedrhuaiuv:::txtsize
-Ranaomedrhuaiuv:::txtsize --> Tstia:::txtsize
-Ranaomedrhuaiuv:::txtsize --> Ulgiaeauuqinl:::txtsize
-UeenzfidmeoZsy:::txtsize --> Ucnkefunmos:::txtsize
-Ucnkefunmos:::txtsize --> Tsodirisohe:::txtsize
-Tsodirisohe:::txtsize --> Zsyaeonaalusdthp:::txtsize
-Tsodirisohe:::txtsize --> Zsyaeonaalusdthp:::txtsize
-Ucnkefunmos:::txtsize --> UnlyorpfStd:::txtsize
-UnlyorpfStd:::txtsize --> Zsyaeonaalusdthp:::txtsize
-UnlyorpfStd:::txtsize --> Feryaoilnoeewke:::txtsize
+AariltnNrogaia:::txtsize --> Lieteenmitrf:::txtsize
+Lieteenmitrf:::txtsize --> EcCpsuiepe:::txtsize
+EcCpsuiepe:::txtsize --> Ierdsiupcao:::txtsize
+EcCpsuiepe:::txtsize --> Citearcicoisgp:::txtsize
+Lieteenmitrf:::txtsize --> Ierdsiupcao:::txtsize
+Ierdsiupcao:::txtsize --> Frhorahdurcc:::txtsize
+Ierdsiupcao:::txtsize --> TpcgJcanhhe:::txtsize
+AariltnNrogaia:::txtsize --> UgstiagtIfsyoLie:::txtsize
+UgstiagtIfsyoLie:::txtsize --> Frhorahdurcc:::txtsize
+Frhorahdurcc:::txtsize --> TpcgJcanhhe:::txtsize
+Frhorahdurcc:::txtsize --> Edtmteyevvceo:::txtsize
+UgstiagtIfsyoLie:::txtsize --> MiAchrsgrwrnaheP:::txtsize
+MiAchrsgrwrnaheP:::txtsize --> EcCpsuiepe:::txtsize
+MiAchrsgrwrnaheP:::txtsize --> TahesegnipdoUstt:::txtsize
 
-Ctfigupemifnisoa@{ shape: win-pane, label: "_Published Dec 12, 2025, 03:03 AM_
-‘coalition of the willing’ discusses progress on mobilising frozen russian assets for ukraine" }
-Eeadsaiuccmoc@{ shape: win-pane, label: "_Published Dec 11, 2025, 01:32 AM_
-European leaders discuss ukraine with trump at ‘critical moment’ for peace" }
-Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
-Us peace plan for ukraine drew from russian document, sources say" }
-Tsodirisohe@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:30 AM_
-Trump says no firm deadline for ukraine, russia to reach peace deal" }
-UnlyorpfStd@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:08 AM_
-Ukraine’s zelensky welcomes ‘principles’ of new us draft to end war" }
-UnhedewScna@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:20 PM_
-Ukraine to share revised peace plan with us on dec 9, zelensky says" }
-ZsyaptwStita@{ shape: win-pane, label: "_Published Dec 08, 2025, 06:36 AM_
-Zelensky says ukraine’s peace talks with us constructive but not easy" }
-ZsyaptwStita@{ shape: win-pane, label: "_Published Dec 08, 2025, 06:36 AM_
-Zelensky says ukraine’s peace talks with us constructive but not easy" }
-Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
-Us peace plan for ukraine drew from russian document, sources say" }
-Tsodirisohe@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:30 AM_
-Trump says no firm deadline for ukraine, russia to reach peace deal" }
-Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
-Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
-Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
-Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
-UnlyorpfStd@{ shape: win-pane, label: "_Published Nov 26, 2025, 05:08 AM_
-Ukraine’s zelensky welcomes ‘principles’ of new us draft to end war" }
-Zsyaeonaalusdthp@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:45 AM_
-Zelensky says ukraine ready to advance peace plan, will discuss disputed points with trump" }
-Feryaoilnoeewke@{ shape: win-pane, label: "_Published Nov 26, 2025, 03:17 AM_
-France’s macron says ‘clearly no russian willingness to agree ceasefire’ with ukraine" }
+Anewofna@{ shape: win-pane, label: "_Published Dec 12, 2025, 07:39 AM_
+Ancient undersea wall found off french coast" }
+Rreadmsinet@{ shape: win-pane, label: "_Published Feb 27, 2025, 01:59 AM_
+Rare frescoes unearthed in pompeii shed light on ancient rituals" }
+Isecisnr@{ shape: win-pane, label: "_Published Nov 09, 2024, 01:08 AM_
+Italy's pompeii to cap daily visitor numbers at 20,000" }
+Mnimdeoie@{ shape: win-pane, label: "_Published Aug 18, 2024, 04:10 PM_
+Madonna visits pompeii, donates to local kids’   theatre" }
+Anaafsrel@{ shape: win-pane, label: "_Published May 10, 2024, 05:00 PM_
+‘ancient roman’ solar roof tiles power pompeii villa" }
+EqsulcPilsh@{ shape: win-pane, label: "_Published Jul 19, 2024, 08:15 AM_
+Earthquakes, not just volcanic ash, a pompeii killer: research" }
+CdoaeiisenWHas@{ shape: win-pane, label: "_Published Sep 19, 2023, 10:00 AM_
+Cambodia’s koh ker archaeological site inscribed on unesco world heritage list" }
 
-Ctfigupemifnisoa:::txtsize --> Eeadsaiuccmoc:::txtsize
-Eeadsaiuccmoc:::txtsize --> Ucnkefunmos:::txtsize
-Ucnkefunmos:::txtsize --> Tsodirisohe:::txtsize
-Ucnkefunmos:::txtsize --> UnlyorpfStd:::txtsize
-Eeadsaiuccmoc:::txtsize --> UnhedewScna:::txtsize
-UnhedewScna:::txtsize --> ZsyaptwStita:::txtsize
-UnhedewScna:::txtsize --> ZsyaptwStita:::txtsize
-Ctfigupemifnisoa:::txtsize --> Ucnkefunmos:::txtsize
-Ucnkefunmos:::txtsize --> Tsodirisohe:::txtsize
-Tsodirisohe:::txtsize --> Zsyaeonaalusdthp:::txtsize
-Tsodirisohe:::txtsize --> Zsyaeonaalusdthp:::txtsize
-Ucnkefunmos:::txtsize --> UnlyorpfStd:::txtsize
-UnlyorpfStd:::txtsize --> Zsyaeonaalusdthp:::txtsize
-UnlyorpfStd:::txtsize --> Feryaoilnoeewke:::txtsize
+Anewofna:::txtsize --> Rreadmsinet:::txtsize
+Rreadmsinet:::txtsize --> Isecisnr:::txtsize
+Isecisnr:::txtsize --> Mnimdeoie:::txtsize
+Isecisnr:::txtsize --> Anaafsrel:::txtsize
+Rreadmsinet:::txtsize --> EqsulcPilsh:::txtsize
+EqsulcPilsh:::txtsize --> CdoaeiisenWHas:::txtsize
 
-SnhiBen@{ shape: win-pane, label: "_Published Dec 12, 2025, 02:53 AM_
-Stolen boat hits rialto bridge in venice" }
-LweouorghfaaoirT@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:58 PM_
-Loose wire led to power outage on s’pore-flagged ship before march 2024 baltimore bridge crash: ntsb" }
-BmrcpfpldcMatvgn@{ shape: win-pane, label: "_Published Mar 26, 2024, 03:33 PM_
-Baltimore bridge collapses after s’pore-flagged ship crash; mpa to assist in investigations" }
-Snbedleane@{ shape: win-pane, label: "_Published Jun 05, 2023, 09:40 PM_
-Suspension bridge in india collapses for a second time" }
-Geglkoje@{ shape: win-pane, label: "_Published Jul 24, 2023, 01:58 AM_
-Greece bridge collapse kills one, injures eight" }
-MayiirpeNonglrm@{ shape: win-pane, label: "_Published May 18, 2025, 09:49 AM_
-Mexican navy sailing ship carrying 277 people hits ny’s brooklyn bridge, killing 2 crew members" }
-BmrcpfpldcMatvgn@{ shape: win-pane, label: "_Published Mar 26, 2024, 03:33 PM_
-Baltimore bridge collapses after s’pore-flagged ship crash; mpa to assist in investigations" }
-Tsillfeprswsoe@{ shape: win-pane, label: "_Published Apr 11, 2025, 04:30 AM_
-Tourist family, pilot killed after helicopter crashes in new york’s hudson river" }
-Marmslacafrinsen@{ shape: win-pane, label: "_Published Nov 12, 2025, 09:28 PM_
-‘mountain’s problem’ or design flaw? dramatic collapse of new bridge in china raises questions" }
-NbHighSatyamsri@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:49 AM_
-Newly built hongqi bridge in china’s sichuan partially collapses, months after opening" }
-digrglsi@{ shape: win-pane, label: "_Published Aug 22, 2025, 05:05 PM_
-12 dead, 4 missing after bridge collapses in china" }
-Asdrriosugcnv@{ shape: win-pane, label: "_Published Jul 09, 2025, 08:01 PM_
-At least 9 dead after gujarat bridge collapses, plunging vehicles into river" }
-digrglsi@{ shape: win-pane, label: "_Published Aug 22, 2025, 05:05 PM_
-12 dead, 4 missing after bridge collapses in china" }
-Fiinngresiin@{ shape: win-pane, label: "_Published Aug 07, 2025, 04:41 PM_
-Five killed in china’s xinjiang after cable on suspension bridge snaps" }
-Asdrgestnkle@{ shape: win-pane, label: "_Published Mar 15, 2025, 04:00 PM_
-At least 5 dead after bridge under construction in bangkok collapses" }
+WHbspdhnss@{ shape: win-pane, label: "_Published Dec 12, 2025, 07:10 AM_
+White house blames trump's bandaged hand on handshakes" }
+Tseadieael@{ shape: win-pane, label: "_Published Dec 10, 2025, 12:40 PM_
+Trump says he ‘aced’ a third cognitive exam taken recently" }
+Tddnrdnvraraoips@{ shape: win-pane, label: "_Published Dec 10, 2025, 12:00 PM_
+Trump defends economic record at pennsylvania rally amid frustration over rising prices" }
+ThhdsihAc@{ shape: win-pane, label: "_Published Dec 09, 2025, 11:25 AM_
+Trump hits the road as cost of living hurts americans" }
+Tavtisbnkoif@{ shape: win-pane, label: "_Published Dec 09, 2025, 07:48 PM_
+Trump approval rating rises as republicans back cost-of-living efforts" }
+UsteSndtesodg@{ shape: win-pane, label: "_Published Jun 28, 2024, 01:35 PM_
+Us presidential debate: some undecided voters see a disastrous biden night" }
+BsleUsteenspc@{ shape: win-pane, label: "_Published Jun 28, 2024, 09:21 AM_
+Biden stumbles in early us presidential debate exchanges as trump pounces" }
+Ndescestdupdaa@{ shape: win-pane, label: "_Published Jun 28, 2024, 10:11 AM_
+No handshake, hoarse voice: takeaways from the biden-trump us presidential debate" }
 
-SnhiBen:::txtsize --> LweouorghfaaoirT:::txtsize
-LweouorghfaaoirT:::txtsize --> BmrcpfpldcMatvgn:::txtsize
-BmrcpfpldcMatvgn:::txtsize --> Snbedleane:::txtsize
-BmrcpfpldcMatvgn:::txtsize --> Geglkoje:::txtsize
-LweouorghfaaoirT:::txtsize --> MayiirpeNonglrm:::txtsize
-MayiirpeNonglrm:::txtsize --> BmrcpfpldcMatvgn:::txtsize
-MayiirpeNonglrm:::txtsize --> Tsillfeprswsoe:::txtsize
-SnhiBen:::txtsize --> Marmslacafrinsen:::txtsize
-Marmslacafrinsen:::txtsize --> NbHighSatyamsri:::txtsize
-NbHighSatyamsri:::txtsize --> digrglsi:::txtsize
-NbHighSatyamsri:::txtsize --> Asdrriosugcnv:::txtsize
-Marmslacafrinsen:::txtsize --> digrglsi:::txtsize
-digrglsi:::txtsize --> Fiinngresiin:::txtsize
-digrglsi:::txtsize --> Asdrgestnkle:::txtsize
+WHbspdhnss:::txtsize --> Tseadieael:::txtsize
+Tseadieael:::txtsize --> Tddnrdnvraraoips:::txtsize
+Tddnrdnvraraoips:::txtsize --> ThhdsihAc:::txtsize
+Tddnrdnvraraoips:::txtsize --> Tavtisbnkoif:::txtsize
+Tseadieael:::txtsize --> UsteSndtesodg:::txtsize
+UsteSndtesodg:::txtsize --> BsleUsteenspc:::txtsize
+UsteSndtesodg:::txtsize --> Ndescestdupdaa:::txtsize
 
 ```
-<i>Last updated: 2025-12-12 04:01:11.500335 (GMT+8)</i>
+<i>Last updated: 2025-12-12 08:00:35.846539 (GMT+8)</i>
 <!-- END -->
