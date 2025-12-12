@@ -16,114 +16,129 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-AwnrrsEanuwsioud@{ shape: win-pane, label: "_Published Dec 12, 2025, 03:35 PM_
-Apple wins only partial reversal in epic games antitrust lawsuit; sanctions mostly upheld" }
-GeUroozsicics@{ shape: win-pane, label: "_Published Sep 25, 2025, 10:30 PM_
-Google asks us supreme court to freeze app store injunction in epic games case" }
-Ugeooustpi@{ shape: win-pane, label: "_Published Oct 08, 2024, 04:21 AM_
-Us judge orders google to open up app store to competition" }
-Ussaroego@{ shape: win-pane, label: "_Published Aug 14, 2024, 08:02 AM_
-Us considers rare antitrust move: breaking up google" }
-Eauonsvpe@{ shape: win-pane, label: "_Published Sep 30, 2024, 07:45 PM_
-Epic games sues google and samsung over app store" }
-EaotkAaoUera@{ shape: win-pane, label: "_Published May 21, 2025, 08:25 AM_
-Epic games’ fortnite back up on apple app store in us after nearly 5 years" }
-Ptnmret@{ shape: win-pane, label: "_Published Oct 02, 2024, 12:45 PM_
-Parents can now limit fortnite play time" }
-Eauonsvpe@{ shape: win-pane, label: "_Published Sep 30, 2024, 07:45 PM_
-Epic games sues google and samsung over app store" }
-Esgsmuveedas@{ shape: win-pane, label: "_Published Sep 12, 2024, 07:50 AM_
-Eu consumer groups slam ‘manipulative’ video game spending tactics" }
-Nrssnaosnsa@{ shape: win-pane, label: "_Published May 14, 2024, 05:12 PM_
-Netherlands fines fortnite maker for ‘pressuring’ kids with ads" }
-Pteoseeumi@{ shape: win-pane, label: "_Published Feb 18, 2024, 05:00 AM_
-Parents, take note of these video games popular among kids" }
-IuySdamapdsa@{ shape: win-pane, label: "_Published May 04, 2024, 05:00 PM_
-‘i gave up on my life’: she didn’t leave home for a year, played games all day" }
-
-AwnrrsEanuwsioud:::txtsize --> GeUroozsicics:::txtsize
-GeUroozsicics:::txtsize --> Ugeooustpi:::txtsize
-Ugeooustpi:::txtsize --> Ussaroego:::txtsize
-Ugeooustpi:::txtsize --> Eauonsvpe:::txtsize
-AwnrrsEanuwsioud:::txtsize --> EaotkAaoUera:::txtsize
-EaotkAaoUera:::txtsize --> Ptnmret:::txtsize
-Ptnmret:::txtsize --> Eauonsvpe:::txtsize
-Ptnmret:::txtsize --> Esgsmuveedas:::txtsize
-EaotkAaoUera:::txtsize --> Nrssnaosnsa:::txtsize
-Nrssnaosnsa:::txtsize --> Pteoseeumi:::txtsize
-Nrssnaosnsa:::txtsize --> IuySdamapdsa:::txtsize
-
-Trledenloss@{ shape: win-pane, label: "_Published Dec 12, 2025, 01:40 PM_
-Trump repeals biden land protections in alaska, other states" }
-Tavtisbnkoif@{ shape: win-pane, label: "_Published Dec 09, 2025, 07:48 PM_
-Trump approval rating rises as republicans back cost-of-living efforts" }
+RldiseMonpwCetlor@{ shape: win-pane, label: "_Published Dec 12, 2025, 07:52 PM_
+Republican disunity tests speaker mike johnson’s grip on power as congress enters election year" }
+TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
+Trump signs bill ordering us justice department to release epstein files" }
+Ugpsufrspnsitm@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:23 AM_
+Us congress passes measure to force release of epstein files, sending it to trump" }
+Therltsfwrons@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:55 AM_
+Trump has the power to release the epstein files, with or without congress" }
+Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
+Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
+Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
+Epstein files to be released to us public: what are they?" }
+ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
+After trump reversal, us house pushes forward on epstein vote" }
+TskeMewtco@{ shape: win-pane, label: "_Published Nov 18, 2025, 09:15 AM_
+Trump’s frankenstein? us maga meltdown tests its creator" }
 Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
 Democrats sweep first major elections of second trump term" }
 YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
 Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
+Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
+Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
+Takeaways from us election night 2025" }
 Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
 Cuomo to stay in new york mayoral race despite losing democratic primary" }
-Tcasefdrsfocm@{ shape: win-pane, label: "_Published Nov 15, 2025, 07:18 AM_
-Trump cuts tariffs on beef, coffee and other foods as inflation concerns mount" }
-Tpmopsfnarrrye@{ shape: win-pane, label: "_Published Nov 13, 2025, 08:05 AM_
-Trump plans move to ease prices on coffee and bananas: treasury secretary bessent" }
-Tspaspadanop@{ shape: win-pane, label: "_Published Apr 03, 2025, 04:47 AM_
-Trump’s sweeping tariffs amp up global trade war as china, eu vow response" }
+MnCankgnsodty@{ shape: win-pane, label: "_Published Jun 27, 2025, 06:16 PM_
+Mamdani’s nyc primary win sparks surge in anti-muslim posts, advocates say" }
 
-Trledenloss:::txtsize --> Tavtisbnkoif:::txtsize
-Tavtisbnkoif:::txtsize --> Drwialosdp:::txtsize
+RldiseMonpwCetlor:::txtsize --> TsBrnuertlEie:::txtsize
+TsBrnuertlEie:::txtsize --> Ugpsufrspnsitm:::txtsize
+Ugpsufrspnsitm:::txtsize --> Therltsfwrons:::txtsize
+Ugpsufrspnsitm:::txtsize --> Tdddnersdiinst:::txtsize
+TsBrnuertlEie:::txtsize --> Eieeaobhe:::txtsize
+Eieeaobhe:::txtsize --> ATrsHpsaEie:::txtsize
+Eieeaobhe:::txtsize --> TskeMewtco:::txtsize
+RldiseMonpwCetlor:::txtsize --> Drwialosdp:::txtsize
 Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
+YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
+YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
 Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
-Tavtisbnkoif:::txtsize --> Tcasefdrsfocm:::txtsize
-Tcasefdrsfocm:::txtsize --> Tpmopsfnarrrye:::txtsize
-Tcasefdrsfocm:::txtsize --> Tspaspadanop:::txtsize
+Ctywmaeiseary:::txtsize --> MnCankgnsodty:::txtsize
 
-Unpoucscn@{ shape: win-pane, label: "_Published Dec 12, 2025, 12:39 PM_
-Us launches pact for ai supply chains to face china" }
-NaTsooHiC@{ shape: win-pane, label: "_Published Dec 09, 2025, 04:08 AM_
-Nvidia wins trump’s approval to ship h200 ai chips to china" }
-NaebwUgrtprl@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:01 AM_
-Nvidia scores lobbying win as us congress rejects chip export bill" }
-Aniwiaasd@{ shape: win-pane, label: "_Published Dec 03, 2025, 01:33 AM_
-Amazon unveils new ai chip in battle against nvidia" }
-Andnwapai@{ shape: win-pane, label: "_Published Dec 03, 2025, 12:28 PM_
-Ai frenzy is driving a new global supply chain crisis" }
-Umascbitopscctek@{ shape: win-pane, label: "_Published Dec 09, 2025, 04:40 AM_
-Us communications agency may bar chinese telecom companies from connecting to us networks" }
-UntbilesisotStc@{ shape: win-pane, label: "_Published May 23, 2025, 10:20 AM_
-Us agency votes to bar chinese labs deemed security risks from testing us electronics" }
-Usnanydaca@{ shape: win-pane, label: "_Published Jul 17, 2025, 02:30 AM_
-Us aims to ban china technology in undersea telecoms cables" }
-Mnoletssmooh@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:30 PM_
-Micron to stop selling memory to consumers as demand soars for ai chips" }
-MnnnrnelmiddIlh@{ shape: win-pane, label: "_Published Jul 03, 2025, 05:00 AM_
-Micron sees new singapore plant as key in plan to meet rising demand for ai-enabling chips" }
-Mnininrtipiepb@{ shape: win-pane, label: "_Published Jan 08, 2025, 02:22 PM_
-Micron’s $9.5b chip plant to give singapore foothold in ai space; will create up to 3,000 jobs" }
-StgbithattlnatsTe@{ shape: win-pane, label: "_Published May 20, 2025, 01:28 PM_
-S’pore to forge global chip partnerships, ramp up talent development in face of ‘trade storm’: tan see leng" }
-Andnwapai@{ shape: win-pane, label: "_Published Dec 03, 2025, 12:28 PM_
-Ai frenzy is driving a new global supply chain crisis" }
-BemepnrrleutyiTa@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:50 AM_
-Businesses must develop wide networks for resilience amid uncertainty: president tharman" }
-SpayvinmsnApsrk@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:00 PM_
-Singapore factory activity rises in november as demand for ai chips and servers picks up" }
+Budrusdbw@{ shape: win-pane, label: "_Published Dec 12, 2025, 07:46 PM_
+Belgium holds four in brussels child sex abuse sweep" }
+Atsscdhgatnrasa@{ shape: win-pane, label: "_Published Dec 11, 2025, 10:13 PM_
+Amnesty says hamas attacks and gaza hostage treatment amount to crimes against humanity" }
+Hsntoypae@{ shape: win-pane, label: "_Published Oct 03, 2025, 04:11 PM_
+Hamas still needs time to study trump’s gaza peace plan" }
+Ilpaoavidrhr@{ shape: win-pane, label: "_Published Oct 02, 2025, 07:45 PM_
+Israel to deport gaza flotilla activists including greta thunberg" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+Ilroaarw@{ shape: win-pane, label: "_Published Jun 12, 2025, 05:08 PM_
+Israeli ‘starvation’ of gaza is a ‘war crime’: sweden" }
+AseiinadUanio@{ shape: win-pane, label: "_Published Jun 03, 2025, 03:30 PM_
+At least 27 palestinians killed near gaza aid site; un demands investigation" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Bssopstelanlala@{ shape: win-pane, label: "_Published Dec 03, 2025, 08:30 PM_
+British nursery worker pleads guilty to sexually assaulting children and filming abuse" }
+StrwreaniU@{ shape: win-pane, label: "_Published Sep 27, 2025, 02:11 AM_
+‘sadistic’ nursery worker jailed for abusing 21 babies in uk" }
+WaelaheOdrna@{ shape: win-pane, label: "_Published Sep 11, 2025, 02:50 PM_
+Woman allegedly ill-treated 3 children at moe kindergarten in one day" }
+cacemogddsiltnbn@{ shape: win-pane, label: "_Published Sep 19, 2025, 11:04 AM_
+31 child abuse charges for man who allegedly dunked baby’s head in pail of water, hung him by a hanger" }
+MesselsronCagst@{ shape: win-pane, label: "_Published Nov 22, 2025, 12:00 PM_
+More reports of suspected child abuse in pre-schools in 2024, with cctvs aiding investigations" }
+CasmaoaeoJ@{ shape: win-pane, label: "_Published Aug 31, 2023, 07:20 PM_
+Cctv cameras to be made mandatory in all pre-schools by july 2024" }
+Wceeaebaaorra@{ shape: win-pane, label: "_Published Nov 21, 2025, 02:55 PM_
+Woman charged after she allegedly abused a baby and a toddler under her care" }
 
-Unpoucscn:::txtsize --> NaTsooHiC:::txtsize
-NaTsooHiC:::txtsize --> NaebwUgrtprl:::txtsize
-NaebwUgrtprl:::txtsize --> Aniwiaasd:::txtsize
-NaebwUgrtprl:::txtsize --> Andnwapai:::txtsize
-NaTsooHiC:::txtsize --> Umascbitopscctek:::txtsize
-Umascbitopscctek:::txtsize --> UntbilesisotStc:::txtsize
-Umascbitopscctek:::txtsize --> Usnanydaca:::txtsize
-Unpoucscn:::txtsize --> Mnoletssmooh:::txtsize
-Mnoletssmooh:::txtsize --> MnnnrnelmiddIlh:::txtsize
-MnnnrnelmiddIlh:::txtsize --> Mnininrtipiepb:::txtsize
-MnnnrnelmiddIlh:::txtsize --> StgbithattlnatsTe:::txtsize
-Mnoletssmooh:::txtsize --> Andnwapai:::txtsize
-Andnwapai:::txtsize --> BemepnrrleutyiTa:::txtsize
-Andnwapai:::txtsize --> SpayvinmsnApsrk:::txtsize
+Budrusdbw:::txtsize --> Atsscdhgatnrasa:::txtsize
+Atsscdhgatnrasa:::txtsize --> Hsntoypae:::txtsize
+Hsntoypae:::txtsize --> Ilpaoavidrhr:::txtsize
+Hsntoypae:::txtsize --> Sbsrcdnacaale:::txtsize
+Atsscdhgatnrasa:::txtsize --> Ilroaarw:::txtsize
+Ilroaarw:::txtsize --> AseiinadUanio:::txtsize
+Ilroaarw:::txtsize --> NyeeawHakl:::txtsize
+Budrusdbw:::txtsize --> Bssopstelanlala:::txtsize
+Bssopstelanlala:::txtsize --> StrwreaniU:::txtsize
+StrwreaniU:::txtsize --> WaelaheOdrna:::txtsize
+StrwreaniU:::txtsize --> cacemogddsiltnbn:::txtsize
+Bssopstelanlala:::txtsize --> MesselsronCagst:::txtsize
+MesselsronCagst:::txtsize --> CasmaoaeoJ:::txtsize
+MesselsronCagst:::txtsize --> Wceeaebaaorra:::txtsize
+
+FttmesiCvnNr@{ shape: win-pane, label: "_Published Dec 12, 2025, 07:25 PM_
+Fda intends to put most serious warning on covid-19 vaccines, cnn reports" }
+Fasidefohne@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:48 AM_
+Fda examines possible adult deaths from covid-19 shots in probe" }
+Kdcdrnccoertae@{ shape: win-pane, label: "_Published Dec 08, 2025, 07:15 AM_
+Kennedy vaccine advisers ‘turned back the clock’ on disease prevention, say experts" }
+Ucaphiaetrrf@{ shape: win-pane, label: "_Published Dec 06, 2025, 10:25 AM_
+Us vaccine panel upends hepatitis b advice in latest trump-era shift" }
+TeeDmoespeoevnn@{ shape: win-pane, label: "_Published Dec 04, 2025, 10:12 AM_
+Twelve former us fda commissioners express deep concern about agency’s vaccine change" }
+Ulcreeyituuaeole@{ shape: win-pane, label: "_Published Nov 18, 2025, 05:10 AM_
+Us health secretary robert f. kennedy jr tries to tie aluminium in vaccines to food allergies" }
+MaulStryeso@{ shape: win-pane, label: "_Published Sep 04, 2025, 10:20 AM_
+Medical groups call on us health secretary kennedy to step down" }
+DanaieCitac@{ shape: win-pane, label: "_Published Jan 15, 2025, 05:00 AM_
+Don’t call kennedy a vaccine sceptic. call him what he is – a cynic" }
+Rwraenarwesomlbr@{ shape: win-pane, label: "_Published Nov 09, 2024, 11:20 AM_
+Rfk jr, who spread vaccine misinformation, reviewing resumes for top trump health jobs: sources" }
+RtnrTwererrigr@{ shape: win-pane, label: "_Published Nov 03, 2024, 11:06 AM_
+Robert f. kennedy jr says trump will seek to remove fluoride from drinking water" }
+Rsekomstxstgn@{ shape: win-pane, label: "_Published Jul 03, 2024, 07:50 AM_
+Rfk jr says he has 'skeletons in my closet' after sexual assault allegation" }
+
+FttmesiCvnNr:::txtsize --> Fasidefohne:::txtsize
+Fasidefohne:::txtsize --> Kdcdrnccoertae:::txtsize
+Kdcdrnccoertae:::txtsize --> Ucaphiaetrrf:::txtsize
+Kdcdrnccoertae:::txtsize --> TeeDmoespeoevnn:::txtsize
+Fasidefohne:::txtsize --> Ulcreeyituuaeole:::txtsize
+Ulcreeyituuaeole:::txtsize --> MaulStryeso:::txtsize
+FttmesiCvnNr:::txtsize --> DanaieCitac:::txtsize
+DanaieCitac:::txtsize --> Rwraenarwesomlbr:::txtsize
+Rwraenarwesomlbr:::txtsize --> RtnrTwererrigr:::txtsize
+Rwraenarwesomlbr:::txtsize --> Rsekomstxstgn:::txtsize
 
 ```
-<i>Last updated: 2025-12-12 16:00:41.025575 (GMT+8)</i>
+<i>Last updated: 2025-12-12 20:01:18.746928 (GMT+8)</i>
 <!-- END -->
