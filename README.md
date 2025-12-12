@@ -16,141 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ireezncsghdsr@{ shape: win-pane, label: "_Published Dec 12, 2025, 11:21 PM_
-Iran arrested nobel prize-winning activist narges mohammadi, say supporters" }
-Ibsitagrpasp@{ shape: win-pane, label: "_Published Dec 09, 2025, 08:55 PM_
-Iran objects to ‘pride match’ branding of world cup game against egypt" }
-Iaaddraeu@{ shape: win-pane, label: "_Published Dec 04, 2025, 05:31 AM_
-Iran says to attend world cup draw in apparent u-turn" }
-IoorpontlSis@{ shape: win-pane, label: "_Published Nov 28, 2025, 09:59 PM_
-Iran to boycott world cup draw over ‘unsportsmanlike’ us visa issues" }
-Foteaedrp@{ shape: win-pane, label: "_Published Nov 26, 2025, 01:33 AM_
-Fifa to keep top seeds apart in expanded 2026 world cup draw" }
-VhntttTdpoun@{ shape: win-pane, label: "_Published Dec 04, 2025, 10:10 AM_
-Visa chaos and host city threats: how trump disrupted world cup plans" }
-TsSeiixawarpei@{ shape: win-pane, label: "_Published Mar 08, 2025, 08:56 PM_
-Trump says us trade tensions with mexico, canada will make world cup more exciting" }
-TsSeiixawarpei@{ shape: win-pane, label: "_Published Mar 08, 2025, 08:56 PM_
-Trump says us trade tensions with mexico, canada will make world cup more exciting" }
-IwsdetlofS@{ shape: win-pane, label: "_Published Dec 07, 2025, 05:41 PM_
-Iran awaits second plane of nationals deported from us" }
-Ddpaoneose@{ shape: win-pane, label: "_Published Dec 07, 2025, 03:00 PM_
-Donald trump’s bleak, incoherent foreign-policy strategy" }
-twoaTsaause@{ shape: win-pane, label: "_Published Dec 06, 2025, 07:14 PM_
-5 takeaways for asia from trump’s new national security strategy" }
-Udtncfrletia@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:55 AM_
-Us border patrol announces us$5,000 fee for people who enter the us illegally" }
-Ushietrorro@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:37 AM_
-Us uses war rhetoric, superman to recruit for migrant crackdown" }
-UiiigCooan@{ shape: win-pane, label: "_Published Nov 16, 2025, 08:15 AM_
-Us immigration raids begin in charlotte, north carolina" }
+Crjhnkals@{ shape: win-pane, label: "_Published Dec 13, 2025, 03:51 AM_
+Can ukraine join the eu in 2027? unlikely say diplomats" }
+UnUnnUfls@{ shape: win-pane, label: "_Published Dec 13, 2025, 12:16 AM_
+Us plan sees ukraine joining eu in 2027, official tells afp" }
+Crjhnkals@{ shape: win-pane, label: "_Published Dec 13, 2025, 03:51 AM_
+Can ukraine join the eu in 2027? unlikely say diplomats" }
+UnUnnUfls@{ shape: win-pane, label: "_Published Dec 13, 2025, 12:16 AM_
+Us plan sees ukraine joining eu in 2027, official tells afp" }
+UnUnnUfls@{ shape: win-pane, label: "_Published Dec 13, 2025, 12:16 AM_
+Us plan sees ukraine joining eu in 2027, official tells afp" }
+Eeiilesasvblke@{ shape: win-pane, label: "_Published Dec 13, 2025, 01:13 AM_
+Eu agrees to indefinitely freeze russian assets, removing obstacle to ukraine loan" }
+Epufnisrotei@{ shape: win-pane, label: "_Published Dec 04, 2025, 04:29 AM_
+Eu proposes using frozen russian assets or borrowing to give ukraine $136b" }
+EseRaeciotrn@{ shape: win-pane, label: "_Published Dec 10, 2025, 01:42 AM_
+Eu close to deal on russian assets, dec 18 summit to go on until agreement" }
+UnUnnUfls@{ shape: win-pane, label: "_Published Dec 13, 2025, 12:16 AM_
+Us plan sees ukraine joining eu in 2027, official tells afp" }
+Crjhnkals@{ shape: win-pane, label: "_Published Dec 13, 2025, 03:51 AM_
+Can ukraine join the eu in 2027? unlikely say diplomats" }
+UnUnnUfls@{ shape: win-pane, label: "_Published Dec 13, 2025, 12:16 AM_
+Us plan sees ukraine joining eu in 2027, official tells afp" }
+UnUnnUfls@{ shape: win-pane, label: "_Published Dec 13, 2025, 12:16 AM_
+Us plan sees ukraine joining eu in 2027, official tells afp" }
+Eeiilesasvblke@{ shape: win-pane, label: "_Published Dec 13, 2025, 01:13 AM_
+Eu agrees to indefinitely freeze russian assets, removing obstacle to ukraine loan" }
+Epufnisrotei@{ shape: win-pane, label: "_Published Dec 04, 2025, 04:29 AM_
+Eu proposes using frozen russian assets or borrowing to give ukraine $136b" }
+EseRaeciotrn@{ shape: win-pane, label: "_Published Dec 10, 2025, 01:42 AM_
+Eu close to deal on russian assets, dec 18 summit to go on until agreement" }
 
-Ireezncsghdsr:::txtsize --> Ibsitagrpasp:::txtsize
-Ibsitagrpasp:::txtsize --> Iaaddraeu:::txtsize
-Iaaddraeu:::txtsize --> IoorpontlSis:::txtsize
-Iaaddraeu:::txtsize --> Foteaedrp:::txtsize
-Ibsitagrpasp:::txtsize --> VhntttTdpoun:::txtsize
-VhntttTdpoun:::txtsize --> TsSeiixawarpei:::txtsize
-VhntttTdpoun:::txtsize --> TsSeiixawarpei:::txtsize
-Ireezncsghdsr:::txtsize --> IwsdetlofS:::txtsize
-IwsdetlofS:::txtsize --> Ddpaoneose:::txtsize
-Ddpaoneose:::txtsize --> twoaTsaause:::txtsize
-IwsdetlofS:::txtsize --> Udtncfrletia:::txtsize
-Udtncfrletia:::txtsize --> Ushietrorro:::txtsize
-Udtncfrletia:::txtsize --> UiiigCooan:::txtsize
+Crjhnkals:::txtsize --> UnUnnUfls:::txtsize
+UnUnnUfls:::txtsize --> Crjhnkals:::txtsize
+Crjhnkals:::txtsize --> UnUnnUfls:::txtsize
+Crjhnkals:::txtsize --> UnUnnUfls:::txtsize
+UnUnnUfls:::txtsize --> Eeiilesasvblke:::txtsize
+Eeiilesasvblke:::txtsize --> Epufnisrotei:::txtsize
+Eeiilesasvblke:::txtsize --> EseRaeciotrn:::txtsize
+Crjhnkals:::txtsize --> UnUnnUfls:::txtsize
+UnUnnUfls:::txtsize --> Crjhnkals:::txtsize
+Crjhnkals:::txtsize --> UnUnnUfls:::txtsize
+Crjhnkals:::txtsize --> UnUnnUfls:::txtsize
+UnUnnUfls:::txtsize --> Eeiilesasvblke:::txtsize
+Eeiilesasvblke:::txtsize --> Epufnisrotei:::txtsize
+Eeiilesasvblke:::txtsize --> EseRaeciotrn:::txtsize
 
-Usnaaaeotryfl@{ shape: win-pane, label: "_Published Dec 12, 2025, 11:13 PM_
-Us aims for international gaza force deployment in early 2026, say us officials" }
-IlHwerfrrepr@{ shape: win-pane, label: "_Published Dec 11, 2025, 08:00 PM_
-Israel says hamas ‘will be disarmed’ after group proposes weapons freeze" }
-Cfonaoteervta@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:44 PM_
-Ceasefire holds in gaza ahead of hostage release and trump’s visit to israel" }
-Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
-What does trump’s gaza peace plan promise?" }
-PtndCnspaamnt@{ shape: win-pane, label: "_Published Oct 12, 2025, 02:44 AM_
-Palestinians find gaza city in ruins; trump to chair peace summit in egypt" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-Tsesmadae@{ shape: win-pane, label: "_Published Dec 11, 2025, 10:37 AM_
-Trump says he plans to name gaza board of peace in early 2026" }
-Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
-What does trump’s gaza peace plan promise?" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-UuCipruomzcn@{ shape: win-pane, label: "_Published Nov 18, 2025, 06:27 AM_
-Un security council adopts us resolution on trump’s gaza peace plan" }
-Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
-What does trump’s gaza peace plan promise?" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+Tareeetoasfrrs@{ shape: win-pane, label: "_Published Dec 13, 2025, 01:50 AM_
+Trump appears in newly released photos from estate of sex offender jeffrey epstein" }
+Dreeopnosal@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:20 AM_
+Democrats release photos of epstein’s notorious private island" }
+TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
+Trump signs bill ordering us justice department to release epstein files" }
+Ugpsufrspnsitm@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:23 AM_
+Us congress passes measure to force release of epstein files, sending it to trump" }
+Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
+Epstein files to be released to us public: what are they?" }
+Gaalrspndtcmrc@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:10 AM_
+Ghislaine maxwell says release of epstein grand jury transcript may harm her case" }
+Uanuewhspnaldmi@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:25 AM_
+Us department of justice renews push to unseal epstein and maxwell grand jury materials" }
+TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
+Trump signs bill ordering us justice department to release epstein files" }
+Ugoloteddde@{ shape: win-pane, label: "_Published Dec 09, 2025, 10:52 PM_
+Us judge allows release of epstein-related grand jury documents" }
+Gaalrspndtcmrc@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:10 AM_
+Ghislaine maxwell says release of epstein grand jury transcript may harm her case" }
+Uanuewhspnaldmi@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:25 AM_
+Us department of justice renews push to unseal epstein and maxwell grand jury materials" }
+TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
+Trump signs bill ordering us justice department to release epstein files" }
+Uanuewhspnaldmi@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:25 AM_
+Us department of justice renews push to unseal epstein and maxwell grand jury materials" }
+ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
+After trump reversal, us house pushes forward on epstein vote" }
+JetructaaSes@{ shape: win-pane, label: "_Published Aug 21, 2025, 02:17 AM_
+Jeffrey epstein grand jury records to remain sealed, us judge rules" }
 
-Usnaaaeotryfl:::txtsize --> IlHwerfrrepr:::txtsize
-IlHwerfrrepr:::txtsize --> Cfonaoteervta:::txtsize
-Cfonaoteervta:::txtsize --> Wouaaam:::txtsize
-Cfonaoteervta:::txtsize --> PtndCnspaamnt:::txtsize
-IlHwerfrrepr:::txtsize --> AtHfezerydatoGel:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
-Usnaaaeotryfl:::txtsize --> Tsesmadae:::txtsize
-Tsesmadae:::txtsize --> Wouaaam:::txtsize
-Wouaaam:::txtsize --> AtHfezerydatoGel:::txtsize
-Wouaaam:::txtsize --> NyeeawHakl:::txtsize
-Tsesmadae:::txtsize --> UuCipruomzcn:::txtsize
-UuCipruomzcn:::txtsize --> Wouaaam:::txtsize
-UuCipruomzcn:::txtsize --> Sbsrcdnacaale:::txtsize
+Tareeetoasfrrs:::txtsize --> Dreeopnosal:::txtsize
+Dreeopnosal:::txtsize --> TsBrnuertlEie:::txtsize
+TsBrnuertlEie:::txtsize --> Ugpsufrspnsitm:::txtsize
+TsBrnuertlEie:::txtsize --> Eieeaobhe:::txtsize
+Dreeopnosal:::txtsize --> Gaalrspndtcmrc:::txtsize
+Gaalrspndtcmrc:::txtsize --> Uanuewhspnaldmi:::txtsize
+Gaalrspndtcmrc:::txtsize --> TsBrnuertlEie:::txtsize
+Tareeetoasfrrs:::txtsize --> Ugoloteddde:::txtsize
+Ugoloteddde:::txtsize --> Gaalrspndtcmrc:::txtsize
+Gaalrspndtcmrc:::txtsize --> Uanuewhspnaldmi:::txtsize
+Gaalrspndtcmrc:::txtsize --> TsBrnuertlEie:::txtsize
+Ugoloteddde:::txtsize --> Uanuewhspnaldmi:::txtsize
+Uanuewhspnaldmi:::txtsize --> ATrsHpsaEie:::txtsize
+Uanuewhspnaldmi:::txtsize --> JetructaaSes:::txtsize
 
-Fuolcelnat@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:33 PM_
-For 2 hours, a football match offers palestinians a rarity: joy" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-FninaiPiia@{ shape: win-pane, label: "_Published Aug 11, 2025, 03:23 PM_
-Fans and family honour ‘palestinian pele’ killed in gaza" }
-Nyarnzeess@{ shape: win-pane, label: "_Published Aug 11, 2025, 06:25 AM_
-Netanyahu says israel’s new gaza offensive will start soon" }
-Nyaaeattoh@{ shape: win-pane, label: "_Published Aug 10, 2025, 08:15 PM_
-Netanyahu says plan to seize gaza city ‘best way to end the war’" }
-Ilneafvgsnpe@{ shape: win-pane, label: "_Published Aug 10, 2025, 03:56 PM_
-Israel’s plan to step up gaza offensive dangerous and unacceptable: mfa" }
-Eenrmeaeat@{ shape: win-pane, label: "_Published Aug 10, 2025, 10:45 PM_
-European ministers slam israel’s plan to seize gaza city" }
-Ilytolzyf@{ shape: win-pane, label: "_Published Aug 08, 2025, 10:56 AM_
-Israeli army will ‘take control’ of gaza city: pm’s office" }
-Ilneafvgsnpe@{ shape: win-pane, label: "_Published Aug 10, 2025, 03:56 PM_
-Israel’s plan to step up gaza offensive dangerous and unacceptable: mfa" }
+Uiegonniew@{ shape: win-pane, label: "_Published Dec 13, 2025, 01:43 AM_
+Us admiral leading us troops in latin america steps down" }
+UeefdikuoCbt@{ shape: win-pane, label: "_Published Dec 07, 2025, 06:51 AM_
+Us’ pete hegseth defends decision to kill survivors in caribbean strike" }
+Uirdotoeramzsho@{ shape: win-pane, label: "_Published Dec 02, 2025, 04:09 AM_
+Us admiral ordered follow-up strike on alleged drug boat from venezuela, says white house" }
+UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
+Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
+VulScpifromlMo@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:49 AM_
+Venezuela slams us attack preparations after trump confirms call with maduro" }
+VuorKiuyr@{ shape: win-pane, label: "_Published Dec 04, 2025, 05:10 PM_
+Venezuela boat strikes: kill first, justify never?" }
+UmsvnoaTpealtoea@{ shape: win-pane, label: "_Published Dec 04, 2025, 06:50 AM_
+Us lawmakers want vote on war powers after trump pledges to launch land attack on venezuela ‘soon’" }
+CsdltSatcerrrtsz@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
+‘colossal and costly mistake’: us lawmakers to force vote on war powers if trump attacks venezuela" }
 
-Fuolcelnat:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Fuolcelnat:::txtsize --> FninaiPiia:::txtsize
-FninaiPiia:::txtsize --> Nyarnzeess:::txtsize
-Nyarnzeess:::txtsize --> Nyaaeattoh:::txtsize
-Nyarnzeess:::txtsize --> Ilneafvgsnpe:::txtsize
-FninaiPiia:::txtsize --> Eenrmeaeat:::txtsize
-Eenrmeaeat:::txtsize --> Ilytolzyf:::txtsize
-Eenrmeaeat:::txtsize --> Ilneafvgsnpe:::txtsize
+Uiegonniew:::txtsize --> UeefdikuoCbt:::txtsize
+UeefdikuoCbt:::txtsize --> Uirdotoeramzsho:::txtsize
+Uirdotoeramzsho:::txtsize --> UikperngutVura:::txtsize
+Uirdotoeramzsho:::txtsize --> VulScpifromlMo:::txtsize
+Uiegonniew:::txtsize --> VuorKiuyr:::txtsize
+VuorKiuyr:::txtsize --> UmsvnoaTpealtoea:::txtsize
+UmsvnoaTpealtoea:::txtsize --> CsdltSatcerrrtsz:::txtsize
 
 ```
-<i>Last updated: 2025-12-13 00:00:46.517279 (GMT+8)</i>
+<i>Last updated: 2025-12-13 04:01:13.534243 (GMT+8)</i>
 <!-- END -->
