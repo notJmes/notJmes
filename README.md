@@ -16,8 +16,62 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-WeoonssayrniLh@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:53 PM_
-Who are the most prominent prisoners released by belarusian president lukashenko?" }
+Shurcmlovwal@{ shape: win-pane, label: "_Published Dec 14, 2025, 03:12 AM_
+‘stop the slaughter’: french farmers block roads over cow disease cull" }
+Bleprnewiir@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:10 AM_
+Bird flu wiped out poultry, and now the screw worm is coming for beef" }
+Mogcessrougerw@{ shape: win-pane, label: "_Published May 14, 2025, 12:12 AM_
+Mexico to tighten cattle flows from south, rules out shutting border over screwworm" }
+SdfronitSy@{ shape: win-pane, label: "_Published Feb 06, 2025, 05:33 AM_
+Second bird flu strain found in us dairy cattle, usda says" }
+UsncesanSaa@{ shape: win-pane, label: "_Published Apr 14, 2025, 01:21 AM_
+Uk says ‘will never change food standards’ in any us-uk trade deal" }
+SesMothnem@{ shape: win-pane, label: "_Published Jul 11, 2025, 09:53 PM_
+Sniffer dogs help mexico fight flesh-eating screwworm" }
+Mogcessrougerw@{ shape: win-pane, label: "_Published May 14, 2025, 12:12 AM_
+Mexico to tighten cattle flows from south, rules out shutting border over screwworm" }
+Mogcessrougerw@{ shape: win-pane, label: "_Published May 14, 2025, 12:12 AM_
+Mexico to tighten cattle flows from south, rules out shutting border over screwworm" }
+Blbboaaaet@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:25 AM_
+Bird flu may be airborne on us dairy farms, say scientists" }
+Bleprnewiir@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:10 AM_
+Bird flu wiped out poultry, and now the screw worm is coming for beef" }
+Mogcessrougerw@{ shape: win-pane, label: "_Published May 14, 2025, 12:12 AM_
+Mexico to tighten cattle flows from south, rules out shutting border over screwworm" }
+SesMothnem@{ shape: win-pane, label: "_Published Jul 11, 2025, 09:53 PM_
+Sniffer dogs help mexico fight flesh-eating screwworm" }
+SdfronitSy@{ shape: win-pane, label: "_Published Feb 06, 2025, 05:33 AM_
+Second bird flu strain found in us dairy cattle, usda says" }
+EoentUtnteih@{ shape: win-pane, label: "_Published Feb 04, 2025, 11:37 PM_
+Egg shortages are now hitting us restaurants, with no relief in sight" }
+Knyiurhuiea@{ shape: win-pane, label: "_Published Jan 28, 2025, 12:10 PM_
+Keeping an eye on bird flu outbreak that could quickly escalate" }
+
+Shurcmlovwal:::txtsize --> Bleprnewiir:::txtsize
+Bleprnewiir:::txtsize --> Mogcessrougerw:::txtsize
+Mogcessrougerw:::txtsize --> SdfronitSy:::txtsize
+Mogcessrougerw:::txtsize --> UsncesanSaa:::txtsize
+Bleprnewiir:::txtsize --> SesMothnem:::txtsize
+SesMothnem:::txtsize --> Mogcessrougerw:::txtsize
+SesMothnem:::txtsize --> Mogcessrougerw:::txtsize
+Shurcmlovwal:::txtsize --> Blbboaaaet:::txtsize
+Blbboaaaet:::txtsize --> Bleprnewiir:::txtsize
+Bleprnewiir:::txtsize --> Mogcessrougerw:::txtsize
+Bleprnewiir:::txtsize --> SesMothnem:::txtsize
+Blbboaaaet:::txtsize --> SdfronitSy:::txtsize
+SdfronitSy:::txtsize --> EoentUtnteih:::txtsize
+SdfronitSy:::txtsize --> Knyiurhuiea:::txtsize
+
+Usrrobooiin@{ shape: win-pane, label: "_Published Dec 14, 2025, 01:44 AM_
+Us says belarus agreed to stop balloon flyovers into lithuania" }
+Laeetmnelfes@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:17 PM_
+Lithuania declares state of emergency over balloons from belarus" }
+LaVuphgvlssp@{ shape: win-pane, label: "_Published Dec 07, 2025, 01:31 AM_
+Lithuania’s vilnius airport shuts again over balloons in its airspace" }
+Buhaeocsaesvt@{ shape: win-pane, label: "_Published Dec 02, 2025, 03:59 AM_
+Belarus, lithuania trade diplomatic barbs over alleged airspace violations" }
+LaoaecunBulP@{ shape: win-pane, label: "_Published Dec 05, 2025, 10:37 PM_
+Lithuania to declare ‘emergency situation’ over belarus balloons: pm" }
 BueenpsnrUecs@{ shape: win-pane, label: "_Published Dec 13, 2025, 08:43 PM_
 Belarus frees nobel winner, top opposition figures as us eases sanctions" }
 DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
@@ -32,29 +86,12 @@ BuepnfrpUaa@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:08 PM_
 Belarus releases 52 prisoners after trump appeal, us embassy says" }
 Raeimehsmlderr@{ shape: win-pane, label: "_Published Sep 14, 2025, 04:50 PM_
 Russia flexes military muscle with hypersonic missiles and bombers during drills" }
-BueenpsnrUecs@{ shape: win-pane, label: "_Published Dec 13, 2025, 08:43 PM_
-Belarus frees nobel winner, top opposition figures as us eases sanctions" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
-Explosions heard in ukraine capital kyiv, other cities" }
-OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
-Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
-Uioiaetsesl@{ shape: win-pane, label: "_Published Sep 16, 2025, 12:51 AM_
-Us military officials pay rare visit to russia-belarus drills" }
-BuepnfrpUaa@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:08 PM_
-Belarus releases 52 prisoners after trump appeal, us embassy says" }
-Raeimehsmlderr@{ shape: win-pane, label: "_Published Sep 14, 2025, 04:50 PM_
-Russia flexes military muscle with hypersonic missiles and bombers during drills" }
 
-WeoonssayrniLh:::txtsize --> BueenpsnrUecs:::txtsize
-BueenpsnrUecs:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
-DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
-BueenpsnrUecs:::txtsize --> Uioiaetsesl:::txtsize
-Uioiaetsesl:::txtsize --> BuepnfrpUaa:::txtsize
-Uioiaetsesl:::txtsize --> Raeimehsmlderr:::txtsize
-WeoonssayrniLh:::txtsize --> BueenpsnrUecs:::txtsize
+Usrrobooiin:::txtsize --> Laeetmnelfes:::txtsize
+Laeetmnelfes:::txtsize --> LaVuphgvlssp:::txtsize
+LaVuphgvlssp:::txtsize --> Buhaeocsaesvt:::txtsize
+LaVuphgvlssp:::txtsize --> LaoaecunBulP:::txtsize
+Usrrobooiin:::txtsize --> BueenpsnrUecs:::txtsize
 BueenpsnrUecs:::txtsize --> DsruasvUn:::txtsize
 DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
 DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
@@ -62,77 +99,52 @@ BueenpsnrUecs:::txtsize --> Uioiaetsesl:::txtsize
 Uioiaetsesl:::txtsize --> BuepnfrpUaa:::txtsize
 Uioiaetsesl:::txtsize --> Raeimehsmlderr:::txtsize
 
-Ilsoamrzirm@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:28 PM_
-Israel kills senior hamas commander in gaza strike: israeli media" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
-Peace finally descends on the middle east: now the battle to make it last begins" }
-TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
-Tears, joy in israel as hamas hands over first hostages" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
-Singapore strongly condemns terror attacks on israel, calls for end to violence" }
+RanatiTssrs@{ shape: win-pane, label: "_Published Dec 14, 2025, 01:13 AM_
+Russian drone attack hits civilian turkish vessel, ukraine says" }
+Racoirmgeins@{ shape: win-pane, label: "_Published Dec 12, 2025, 11:43 PM_
+Russia attacks two ukraine ports, damaging three turkish-owned vessels" }
+UnaRadesiaele@{ shape: win-pane, label: "_Published Dec 11, 2025, 04:22 AM_
+Ukraine disables russian ‘shadow fleet’ vessel with sea drones in black sea" }
+UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
+Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
+Eeadsaiuccmoc@{ shape: win-pane, label: "_Published Dec 11, 2025, 01:32 AM_
+European leaders discuss ukraine with trump at ‘critical moment’ for peace" }
+Zssuskekrflo@{ shape: win-pane, label: "_Published Dec 12, 2025, 09:58 PM_
+Zelensky visits kupyansk as ukraine retakes parts of front-line town" }
+UnlyiRaitsuiKn@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:19 AM_
+Ukraine’s military dismisses russia’s claim that it has captured city of kupyansk" }
+Unsltnoiabs@{ shape: win-pane, label: "_Published Dec 03, 2025, 12:53 AM_
+Ukraine says still fighting in pokrovsk, city claimed by russia" }
+Racoirmgeins@{ shape: win-pane, label: "_Published Dec 12, 2025, 11:43 PM_
+Russia attacks two ukraine ports, damaging three turkish-owned vessels" }
+UnaRadesiaele@{ shape: win-pane, label: "_Published Dec 11, 2025, 04:22 AM_
+Ukraine disables russian ‘shadow fleet’ vessel with sea drones in black sea" }
+UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
+Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
+Eeadsaiuccmoc@{ shape: win-pane, label: "_Published Dec 11, 2025, 01:32 AM_
+European leaders discuss ukraine with trump at ‘critical moment’ for peace" }
+Zssuskekrflo@{ shape: win-pane, label: "_Published Dec 12, 2025, 09:58 PM_
+Zelensky visits kupyansk as ukraine retakes parts of front-line town" }
+UnlyiRaitsuiKn@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:19 AM_
+Ukraine’s military dismisses russia’s claim that it has captured city of kupyansk" }
+Unsltnoiabs@{ shape: win-pane, label: "_Published Dec 03, 2025, 12:53 AM_
+Ukraine says still fighting in pokrovsk, city claimed by russia" }
 
-Ilsoamrzirm:::txtsize --> Tdrcaaededlncbs:::txtsize
-Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
-PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
-Ilsoamrzirm:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-WzptIleint:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
-Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
-
-Uirodiifnrr@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:18 PM_
-Us, syrian forces wounded by unidentified fire in central syria" }
-Smoaepoa@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:31 PM_
-Syria marks one year after toppling of assad" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
-Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
-Sngtsssrod@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:26 PM_
-Syrian refugee returns set to slow as donor support fades" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Smoaepoa@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:31 PM_
-Syria marks one year after toppling of assad" }
-Sngtsssrod@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:26 PM_
-Syrian refugee returns set to slow as donor support fades" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
-Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
-Smoaepoa@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:31 PM_
-Syria marks one year after toppling of assad" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Sngtsssrod@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:26 PM_
-Syrian refugee returns set to slow as donor support fades" }
-
-Uirodiifnrr:::txtsize --> Smoaepoa:::txtsize
-Smoaepoa:::txtsize --> SnltiARahtoy:::txtsize
-SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
-Smoaepoa:::txtsize --> Sngtsssrod:::txtsize
-Sngtsssrod:::txtsize --> SnltiARahtoy:::txtsize
-Sngtsssrod:::txtsize --> Smoaepoa:::txtsize
-Uirodiifnrr:::txtsize --> Sngtsssrod:::txtsize
-Sngtsssrod:::txtsize --> SnltiARahtoy:::txtsize
-SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
-Sngtsssrod:::txtsize --> Smoaepoa:::txtsize
-Smoaepoa:::txtsize --> SnltiARahtoy:::txtsize
-Smoaepoa:::txtsize --> Sngtsssrod:::txtsize
+RanatiTssrs:::txtsize --> Racoirmgeins:::txtsize
+Racoirmgeins:::txtsize --> UnaRadesiaele:::txtsize
+UnaRadesiaele:::txtsize --> UntaluneBScyca:::txtsize
+UnaRadesiaele:::txtsize --> Eeadsaiuccmoc:::txtsize
+Racoirmgeins:::txtsize --> Zssuskekrflo:::txtsize
+Zssuskekrflo:::txtsize --> UnlyiRaitsuiKn:::txtsize
+Zssuskekrflo:::txtsize --> Unsltnoiabs:::txtsize
+RanatiTssrs:::txtsize --> Racoirmgeins:::txtsize
+Racoirmgeins:::txtsize --> UnaRadesiaele:::txtsize
+UnaRadesiaele:::txtsize --> UntaluneBScyca:::txtsize
+UnaRadesiaele:::txtsize --> Eeadsaiuccmoc:::txtsize
+Racoirmgeins:::txtsize --> Zssuskekrflo:::txtsize
+Zssuskekrflo:::txtsize --> UnlyiRaitsuiKn:::txtsize
+Zssuskekrflo:::txtsize --> Unsltnoiabs:::txtsize
 
 ```
-<i>Last updated: 2025-12-14 00:00:42.814552 (GMT+8)</i>
+<i>Last updated: 2025-12-14 04:01:08.553134 (GMT+8)</i>
 <!-- END -->
