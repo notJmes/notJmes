@@ -16,8 +16,54 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Uznenltrwtpoonw@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
-Us seized tanker near venezuela just as warrant was set to expire, court document shows" }
+Uvtutg@{ shape: win-pane, label: "_Published Dec 13, 2025, 03:35 PM_
+Un to evaluate refugee strategy" }
+FrpdaNgicts@{ shape: win-pane, label: "_Published Dec 12, 2025, 06:08 PM_
+Former iraq president named un refugee chief, document shows" }
+Usgtnorflnm@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:31 AM_
+Un says refugees stuck in vicious circle of conflict and climate" }
+Taitahnetidr@{ shape: win-pane, label: "_Published Feb 27, 2025, 09:53 AM_
+Trump administration says it has cancelled most foreign aid contracts" }
+Miidnaddwd@{ shape: win-pane, label: "_Published Jul 07, 2024, 06:00 PM_
+Managing climate driven migration demands a new paradigm" }
+Ensetoamatpy@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:06 PM_
+Eu countries agree positions on new asylum, migrant returns policy" }
+Iartehntrfotr@{ shape: win-pane, label: "_Published Dec 02, 2025, 06:39 AM_
+Illegal migrants to face clothing and mouth searches for phones at uk ports" }
+Inhirnsdouow@{ shape: win-pane, label: "_Published Nov 26, 2025, 10:08 PM_
+Ireland tightens immigration rules in bid to slow population growth" }
+Tseessifsocrd@{ shape: win-pane, label: "_Published Oct 31, 2025, 01:46 AM_
+Trump sets refugee admissions ceiling at 7,500 for fiscal 2026, lowest cap on record" }
+FwSAarnTcsfimi@{ shape: win-pane, label: "_Published May 13, 2025, 04:01 AM_
+First white south africans arrive in us as trump claims they face discrimination" }
+FwSAaaarduivul@{ shape: win-pane, label: "_Published May 12, 2025, 05:01 AM_
+First white south africans board plane for us under trump’s divisive refugee plan" }
+Eluretashirt@{ shape: win-pane, label: "_Published Mar 23, 2025, 07:00 PM_
+Expelled south african envoy to us says he’s back home ‘with no regrets’" }
+Nniursdrirnr@{ shape: win-pane, label: "_Published Feb 09, 2025, 09:47 PM_
+‘no thanks’, white south africans turn down trump’s immigration offer" }
+TfeSAaictfas@{ shape: win-pane, label: "_Published Feb 09, 2025, 02:40 AM_
+Trump freezes all south african assistance as stand-off escalates" }
+TfeSAaictfas@{ shape: win-pane, label: "_Published Feb 09, 2025, 02:40 AM_
+Trump freezes all south african assistance as stand-off escalates" }
+
+Uvtutg:::txtsize --> FrpdaNgicts:::txtsize
+FrpdaNgicts:::txtsize --> Usgtnorflnm:::txtsize
+Usgtnorflnm:::txtsize --> Taitahnetidr:::txtsize
+Usgtnorflnm:::txtsize --> Miidnaddwd:::txtsize
+FrpdaNgicts:::txtsize --> Ensetoamatpy:::txtsize
+Ensetoamatpy:::txtsize --> Iartehntrfotr:::txtsize
+Ensetoamatpy:::txtsize --> Inhirnsdouow:::txtsize
+Uvtutg:::txtsize --> Tseessifsocrd:::txtsize
+Tseessifsocrd:::txtsize --> FwSAarnTcsfimi:::txtsize
+FwSAarnTcsfimi:::txtsize --> FwSAaaarduivul:::txtsize
+FwSAarnTcsfimi:::txtsize --> Eluretashirt:::txtsize
+Tseessifsocrd:::txtsize --> Nniursdrirnr:::txtsize
+Nniursdrirnr:::txtsize --> TfeSAaictfas:::txtsize
+Nniursdrirnr:::txtsize --> TfeSAaictfas:::txtsize
+
+Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
+Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
 Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
 Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
 TenurneCbVuo@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:52 PM_
@@ -47,14 +93,14 @@ Us military kills 11 people in strike on alleged drug boat from venezuela, trump
 PgvaHtrasoei@{ shape: win-pane, label: "_Published Dec 04, 2025, 05:30 AM_
 Pentagon review faults hegseth over signal messages on yemen strikes" }
 
-Uznenltrwtpoonw:::txtsize --> Uzlecoeapageo:::txtsize
+Uznenltrwtphoon:::txtsize --> Uzlecoeapageo:::txtsize
 Uzlecoeapageo:::txtsize --> TenurneCbVuo:::txtsize
 TenurneCbVuo:::txtsize --> Siurymeoarnolu:::txtsize
 TenurneCbVuo:::txtsize --> Uirdotoeramzsho:::txtsize
 Uzlecoeapageo:::txtsize --> VulScpifromlMo:::txtsize
 VulScpifromlMo:::txtsize --> Tsicvsugztliee:::txtsize
 VulScpifromlMo:::txtsize --> UgVuMoceoyRllk:::txtsize
-Uznenltrwtpoonw:::txtsize --> Upgirkfeasespncy:::txtsize
+Uznenltrwtphoon:::txtsize --> Upgirkfeasespncy:::txtsize
 Upgirkfeasespncy:::txtsize --> Uzlecoeapageo:::txtsize
 Uzlecoeapageo:::txtsize --> TenurneCbVuo:::txtsize
 Uzlecoeapageo:::txtsize --> VulScpifromlMo:::txtsize
@@ -93,52 +139,6 @@ Jonuyastcecrf:::txtsize --> Jonesastn:::txtsize
 Jonesastn:::txtsize --> Jonuyatrrja:::txtsize
 Jonesastn:::txtsize --> Jcsdlntoege:::txtsize
 
-UmddanpitliiC@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:40 AM_
-Us lawmaker demands details on trump’s decision to sell nvidia h200 chips to china" }
-NaTsooHiC@{ shape: win-pane, label: "_Published Dec 09, 2025, 04:08 AM_
-Nvidia wins trump’s approval to ship h200 ai chips to china" }
-NaebwUgrtprl@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:01 AM_
-Nvidia scores lobbying win as us congress rejects chip export bill" }
-Aniwiaasd@{ shape: win-pane, label: "_Published Dec 03, 2025, 01:33 AM_
-Amazon unveils new ai chip in battle against nvidia" }
-Andnwapai@{ shape: win-pane, label: "_Published Dec 03, 2025, 12:28 PM_
-Ai frenzy is driving a new global supply chain crisis" }
-Umascbitopscctek@{ shape: win-pane, label: "_Published Dec 09, 2025, 04:40 AM_
-Us communications agency may bar chinese telecom companies from connecting to us networks" }
-UntbilesisotStc@{ shape: win-pane, label: "_Published May 23, 2025, 10:20 AM_
-Us agency votes to bar chinese labs deemed security risks from testing us electronics" }
-Usnanydaca@{ shape: win-pane, label: "_Published Jul 17, 2025, 02:30 AM_
-Us aims to ban china technology in undersea telecoms cables" }
-NaebwUgrtprl@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:01 AM_
-Nvidia scores lobbying win as us congress rejects chip export bill" }
-Aniwiaasd@{ shape: win-pane, label: "_Published Dec 03, 2025, 01:33 AM_
-Amazon unveils new ai chip in battle against nvidia" }
-Gepinaawye@{ shape: win-pane, label: "_Published Nov 26, 2025, 10:39 AM_
-Google, sleeping giant in global ai race, now ‘fully awake’" }
-Cceirlaitder@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:49 AM_
-China couple rake in nearly $12 billion as ai circuit board shares soar 530%" }
-Andnwapai@{ shape: win-pane, label: "_Published Dec 03, 2025, 12:28 PM_
-Ai frenzy is driving a new global supply chain crisis" }
-BemepnrrleutyiTa@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:50 AM_
-Businesses must develop wide networks for resilience amid uncertainty: president tharman" }
-SpayvinmsnApsrk@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:00 PM_
-Singapore factory activity rises in november as demand for ai chips and servers picks up" }
-
-UmddanpitliiC:::txtsize --> NaTsooHiC:::txtsize
-NaTsooHiC:::txtsize --> NaebwUgrtprl:::txtsize
-NaebwUgrtprl:::txtsize --> Aniwiaasd:::txtsize
-NaebwUgrtprl:::txtsize --> Andnwapai:::txtsize
-NaTsooHiC:::txtsize --> Umascbitopscctek:::txtsize
-Umascbitopscctek:::txtsize --> UntbilesisotStc:::txtsize
-Umascbitopscctek:::txtsize --> Usnanydaca:::txtsize
-UmddanpitliiC:::txtsize --> NaebwUgrtprl:::txtsize
-NaebwUgrtprl:::txtsize --> Aniwiaasd:::txtsize
-Aniwiaasd:::txtsize --> Gepinaawye:::txtsize
-Aniwiaasd:::txtsize --> Cceirlaitder:::txtsize
-NaebwUgrtprl:::txtsize --> Andnwapai:::txtsize
-Andnwapai:::txtsize --> BemepnrrleutyiTa:::txtsize
-Andnwapai:::txtsize --> SpayvinmsnApsrk:::txtsize
-
 ```
-<i>Last updated: 2025-12-13 12:01:11.819301 (GMT+8)</i>
+<i>Last updated: 2025-12-13 16:00:45.302038 (GMT+8)</i>
 <!-- END -->
