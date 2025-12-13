@@ -16,8 +16,8 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-VuSipnoznsleeehoa@{ shape: win-pane, label: "_Published Dec 13, 2025, 07:41 AM_
-Venezuela-us tensions spike in wake of seized tanker as nobel peace prize winner machado vows change" }
+Uznenltrwtpoonw@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
+Us seized tanker near venezuela just as warrant was set to expire, court document shows" }
 Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
 Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
 TenurneCbVuo@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:52 PM_
@@ -47,14 +47,14 @@ Us military kills 11 people in strike on alleged drug boat from venezuela, trump
 PgvaHtrasoei@{ shape: win-pane, label: "_Published Dec 04, 2025, 05:30 AM_
 Pentagon review faults hegseth over signal messages on yemen strikes" }
 
-VuSipnoznsleeehoa:::txtsize --> Uzlecoeapageo:::txtsize
+Uznenltrwtpoonw:::txtsize --> Uzlecoeapageo:::txtsize
 Uzlecoeapageo:::txtsize --> TenurneCbVuo:::txtsize
 TenurneCbVuo:::txtsize --> Siurymeoarnolu:::txtsize
 TenurneCbVuo:::txtsize --> Uirdotoeramzsho:::txtsize
 Uzlecoeapageo:::txtsize --> VulScpifromlMo:::txtsize
 VulScpifromlMo:::txtsize --> Tsicvsugztliee:::txtsize
 VulScpifromlMo:::txtsize --> UgVuMoceoyRllk:::txtsize
-VuSipnoznsleeehoa:::txtsize --> Upgirkfeasespncy:::txtsize
+Uznenltrwtpoonw:::txtsize --> Upgirkfeasespncy:::txtsize
 Upgirkfeasespncy:::txtsize --> Uzlecoeapageo:::txtsize
 Uzlecoeapageo:::txtsize --> TenurneCbVuo:::txtsize
 Uzlecoeapageo:::txtsize --> VulScpifromlMo:::txtsize
@@ -62,98 +62,83 @@ Upgirkfeasespncy:::txtsize --> Voiriorrlisms:::txtsize
 Voiriorrlisms:::txtsize --> UikperngutVura:::txtsize
 Voiriorrlisms:::txtsize --> PgvaHtrasoei:::txtsize
 
-WYresemhiD@{ shape: win-pane, label: "_Published Dec 13, 2025, 05:25 AM_
-While you were sleeping: 5 stories you might have missed, dec 13, 2025" }
-Tshnbhgtpes@{ shape: win-pane, label: "_Published Dec 13, 2025, 03:37 AM_
-Trump says thailand, cambodia have agreed to stop border clashes" }
-EihTadoinnid@{ shape: win-pane, label: "_Published Dec 08, 2025, 06:12 PM_
-Explainer: why are thailand and cambodia fighting along their border?" }
-Taustsmareng@{ shape: win-pane, label: "_Published Dec 08, 2025, 10:24 AM_
-Thailand launches air strikes on cambodia as border tensions reignite" }
-Tsaiigtitluteheo@{ shape: win-pane, label: "_Published Nov 15, 2025, 04:21 AM_
-Trump says cambodia, thailand ‘going to be fine’ after calls; anutin still seeks phnom penh apology" }
-Taustsmareng@{ shape: win-pane, label: "_Published Dec 08, 2025, 10:24 AM_
-Thailand launches air strikes on cambodia as border tensions reignite" }
-Cdademtudnarelor@{ shape: win-pane, label: "_Published Jul 28, 2025, 05:56 PM_
-Cambodia, thailand agree to ‘immediate and unconditional ceasefire’ to de-escalate border row" }
-TahmeicfetbwnWn@{ shape: win-pane, label: "_Published Nov 11, 2025, 01:01 PM_
-Thailand to halt implementation of ceasefire deal with cambodia, will inform washington" }
-Eeiilesasvblke@{ shape: win-pane, label: "_Published Dec 13, 2025, 01:13 AM_
-Eu agrees to indefinitely freeze russian assets, removing obstacle to ukraine loan" }
-Epufnisrotei@{ shape: win-pane, label: "_Published Dec 04, 2025, 04:29 AM_
-Eu proposes using frozen russian assets or borrowing to give ukraine $136b" }
-BudnnpountUn@{ shape: win-pane, label: "_Published Nov 28, 2025, 07:44 PM_
-Belgium’s pm digs in against eu push to use russian assets for ukraine" }
-PwEeuwesleu@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:45 PM_
-Putin warns europe: if you want war, then russia will defeat you" }
-EseRaeciotrn@{ shape: win-pane, label: "_Published Dec 10, 2025, 01:42 AM_
-Eu close to deal on russian assets, dec 18 summit to go on until agreement" }
-EsnbnUndozsas@{ shape: win-pane, label: "_Published Oct 23, 2025, 11:00 PM_
-Eu vows financial backing for ukraine, holds off on frozen russian assets plan" }
-Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
-Belgium says eu states must share risk to use frozen russian assets for ukraine" }
+JrJonoSitmltt@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:45 AM_
+Jury orders johnson & johnson to pay us$40 million to two women in latest talc trial" }
+Tmecaonsrouse@{ shape: win-pane, label: "_Published Apr 05, 2023, 09:10 AM_
+Talcum powder cancer claims: johnson & johnson agrees to pay out $11.8b in settlement" }
+Jonolsocdpr@{ shape: win-pane, label: "_Published Aug 12, 2022, 07:08 AM_
+Johnson & johnson to end global sales of talc-based baby powder" }
+Jonuyastcecrf@{ shape: win-pane, label: "_Published Oct 16, 2024, 05:20 PM_
+Johnson & johnson must pay $20m to man who says its talc caused his cancer, jury finds" }
+Wealrlcu@{ shape: win-pane, label: "_Published Jul 05, 2024, 11:50 PM_
+Who agency says talc is ‘probably’ cancer-causing" }
+Jonesastn@{ shape: win-pane, label: "_Published Jun 12, 2024, 08:50 AM_
+Johnson & johnson reaches us$700m talc case settlement" }
+Jonawsanorvitl@{ shape: win-pane, label: "_Published Jun 18, 2024, 08:35 AM_
+Johnson & johnson baby powder users want cancer monitoring even if it costs billions" }
+Jonesastn@{ shape: win-pane, label: "_Published Jun 12, 2024, 08:50 AM_
+Johnson & johnson reaches us$700m talc case settlement" }
+Jonuyatrrja@{ shape: win-pane, label: "_Published Jun 04, 2024, 02:35 PM_
+Johnson & johnson must pay $350m in latest talc trial, oregon jury says" }
+Jcsdlntoege@{ shape: win-pane, label: "_Published Mar 28, 2024, 04:17 AM_
+J&j can contest evidence linking its talc to cancer, judge rules" }
 
-WYresemhiD:::txtsize --> Tshnbhgtpes:::txtsize
-Tshnbhgtpes:::txtsize --> EihTadoinnid:::txtsize
-EihTadoinnid:::txtsize --> Taustsmareng:::txtsize
-EihTadoinnid:::txtsize --> Tsaiigtitluteheo:::txtsize
-Tshnbhgtpes:::txtsize --> Taustsmareng:::txtsize
-Taustsmareng:::txtsize --> Cdademtudnarelor:::txtsize
-Taustsmareng:::txtsize --> TahmeicfetbwnWn:::txtsize
-WYresemhiD:::txtsize --> Eeiilesasvblke:::txtsize
-Eeiilesasvblke:::txtsize --> Epufnisrotei:::txtsize
-Epufnisrotei:::txtsize --> BudnnpountUn:::txtsize
-Epufnisrotei:::txtsize --> PwEeuwesleu:::txtsize
-Eeiilesasvblke:::txtsize --> EseRaeciotrn:::txtsize
-EseRaeciotrn:::txtsize --> EsnbnUndozsas:::txtsize
-EseRaeciotrn:::txtsize --> Busauasszsaske:::txtsize
+JrJonoSitmltt:::txtsize --> Tmecaonsrouse:::txtsize
+Tmecaonsrouse:::txtsize --> Jonolsocdpr:::txtsize
+JrJonoSitmltt:::txtsize --> Jonuyastcecrf:::txtsize
+Jonuyastcecrf:::txtsize --> Wealrlcu:::txtsize
+Wealrlcu:::txtsize --> Jonesastn:::txtsize
+Wealrlcu:::txtsize --> Jonawsanorvitl:::txtsize
+Jonuyastcecrf:::txtsize --> Jonesastn:::txtsize
+Jonesastn:::txtsize --> Jonuyatrrja:::txtsize
+Jonesastn:::txtsize --> Jcsdlntoege:::txtsize
 
-Binranreled@{ shape: win-pane, label: "_Published Dec 13, 2025, 04:45 AM_
-Britain’s king charles says cancer treatment will be reduced in 2026" }
-Binranissnhyoa@{ shape: win-pane, label: "_Published May 01, 2025, 02:12 AM_
-Britain’s king charles says cancer diagnosis has shown him ‘the very best of humanity’" }
-Binristcchl@{ shape: win-pane, label: "_Published Feb 06, 2024, 02:09 AM_
-Britain’s king charles diagnosed with cancer: buckingham palace" }
-KhsrdnWiry@{ shape: win-pane, label: "_Published May 06, 2023, 03:25 PM_
-King charles iii crowned at london’s westminster abbey" }
-Tognrnarrhr@{ shape: win-pane, label: "_Published May 05, 2023, 05:00 PM_
-The crowning of king charles: a new start for the british monarchy?" }
-Khssacerupce@{ shape: win-pane, label: "_Published Apr 30, 2024, 08:50 AM_
-King charles to visit a cancer centre to mark return to public duties" }
-Binristcchl@{ shape: win-pane, label: "_Published Feb 06, 2024, 02:09 AM_
-Britain’s king charles diagnosed with cancer: buckingham palace" }
-Khssudsregs@{ shape: win-pane, label: "_Published Apr 27, 2024, 01:43 AM_
-King charles to resume public duties after cancer diagnosis" }
-Khsrsecreiodcroy@{ shape: win-pane, label: "_Published Jul 11, 2025, 08:28 PM_
-King charles and princess kate’s cancer struggles having profound impact, charity boss says" }
-Biisshtoveuter@{ shape: win-pane, label: "_Published Jul 02, 2025, 10:00 PM_
-Britain’s princess kate says she had to ‘put on brave face’ throughout cancer journey" }
-PeWeoteeeutocrn@{ shape: win-pane, label: "_Published Mar 24, 2024, 06:13 AM_
-Princess of wales ‘enormously touched’ by messages of support following cancer diagnosis" }
-Biiseshnsfa@{ shape: win-pane, label: "_Published Jan 14, 2025, 09:38 PM_
-Britain’s princess catherine says she is in remission from cancer" }
-Neesuucrtsrshe@{ shape: win-pane, label: "_Published May 12, 2025, 08:11 PM_
-Nature has been my sanctuary during cancer treatment, says princess catherine" }
-PeWeoteeeutocrn@{ shape: win-pane, label: "_Published Mar 24, 2024, 06:13 AM_
-Princess of wales ‘enormously touched’ by messages of support following cancer diagnosis" }
-Biiseshnsfa@{ shape: win-pane, label: "_Published Jan 14, 2025, 09:38 PM_
-Britain’s princess catherine says she is in remission from cancer" }
+UmddanpitliiC@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:40 AM_
+Us lawmaker demands details on trump’s decision to sell nvidia h200 chips to china" }
+NaTsooHiC@{ shape: win-pane, label: "_Published Dec 09, 2025, 04:08 AM_
+Nvidia wins trump’s approval to ship h200 ai chips to china" }
+NaebwUgrtprl@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:01 AM_
+Nvidia scores lobbying win as us congress rejects chip export bill" }
+Aniwiaasd@{ shape: win-pane, label: "_Published Dec 03, 2025, 01:33 AM_
+Amazon unveils new ai chip in battle against nvidia" }
+Andnwapai@{ shape: win-pane, label: "_Published Dec 03, 2025, 12:28 PM_
+Ai frenzy is driving a new global supply chain crisis" }
+Umascbitopscctek@{ shape: win-pane, label: "_Published Dec 09, 2025, 04:40 AM_
+Us communications agency may bar chinese telecom companies from connecting to us networks" }
+UntbilesisotStc@{ shape: win-pane, label: "_Published May 23, 2025, 10:20 AM_
+Us agency votes to bar chinese labs deemed security risks from testing us electronics" }
+Usnanydaca@{ shape: win-pane, label: "_Published Jul 17, 2025, 02:30 AM_
+Us aims to ban china technology in undersea telecoms cables" }
+NaebwUgrtprl@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:01 AM_
+Nvidia scores lobbying win as us congress rejects chip export bill" }
+Aniwiaasd@{ shape: win-pane, label: "_Published Dec 03, 2025, 01:33 AM_
+Amazon unveils new ai chip in battle against nvidia" }
+Gepinaawye@{ shape: win-pane, label: "_Published Nov 26, 2025, 10:39 AM_
+Google, sleeping giant in global ai race, now ‘fully awake’" }
+Cceirlaitder@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:49 AM_
+China couple rake in nearly $12 billion as ai circuit board shares soar 530%" }
+Andnwapai@{ shape: win-pane, label: "_Published Dec 03, 2025, 12:28 PM_
+Ai frenzy is driving a new global supply chain crisis" }
+BemepnrrleutyiTa@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:50 AM_
+Businesses must develop wide networks for resilience amid uncertainty: president tharman" }
+SpayvinmsnApsrk@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:00 PM_
+Singapore factory activity rises in november as demand for ai chips and servers picks up" }
 
-Binranreled:::txtsize --> Binranissnhyoa:::txtsize
-Binranissnhyoa:::txtsize --> Binristcchl:::txtsize
-Binristcchl:::txtsize --> KhsrdnWiry:::txtsize
-Binristcchl:::txtsize --> Tognrnarrhr:::txtsize
-Binranissnhyoa:::txtsize --> Khssacerupce:::txtsize
-Khssacerupce:::txtsize --> Binristcchl:::txtsize
-Khssacerupce:::txtsize --> Khssudsregs:::txtsize
-Binranreled:::txtsize --> Khsrsecreiodcroy:::txtsize
-Khsrsecreiodcroy:::txtsize --> Biisshtoveuter:::txtsize
-Biisshtoveuter:::txtsize --> PeWeoteeeutocrn:::txtsize
-Biisshtoveuter:::txtsize --> Biiseshnsfa:::txtsize
-Khsrsecreiodcroy:::txtsize --> Neesuucrtsrshe:::txtsize
-Neesuucrtsrshe:::txtsize --> PeWeoteeeutocrn:::txtsize
-Neesuucrtsrshe:::txtsize --> Biiseshnsfa:::txtsize
+UmddanpitliiC:::txtsize --> NaTsooHiC:::txtsize
+NaTsooHiC:::txtsize --> NaebwUgrtprl:::txtsize
+NaebwUgrtprl:::txtsize --> Aniwiaasd:::txtsize
+NaebwUgrtprl:::txtsize --> Andnwapai:::txtsize
+NaTsooHiC:::txtsize --> Umascbitopscctek:::txtsize
+Umascbitopscctek:::txtsize --> UntbilesisotStc:::txtsize
+Umascbitopscctek:::txtsize --> Usnanydaca:::txtsize
+UmddanpitliiC:::txtsize --> NaebwUgrtprl:::txtsize
+NaebwUgrtprl:::txtsize --> Aniwiaasd:::txtsize
+Aniwiaasd:::txtsize --> Gepinaawye:::txtsize
+Aniwiaasd:::txtsize --> Cceirlaitder:::txtsize
+NaebwUgrtprl:::txtsize --> Andnwapai:::txtsize
+Andnwapai:::txtsize --> BemepnrrleutyiTa:::txtsize
+Andnwapai:::txtsize --> SpayvinmsnApsrk:::txtsize
 
 ```
-<i>Last updated: 2025-12-13 08:00:43.380124 (GMT+8)</i>
+<i>Last updated: 2025-12-13 12:01:11.819301 (GMT+8)</i>
 <!-- END -->
