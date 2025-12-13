@@ -16,129 +16,108 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Uvtutg@{ shape: win-pane, label: "_Published Dec 13, 2025, 03:35 PM_
-Un to evaluate refugee strategy" }
-FrpdaNgicts@{ shape: win-pane, label: "_Published Dec 12, 2025, 06:08 PM_
-Former iraq president named un refugee chief, document shows" }
-Usgtnorflnm@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:31 AM_
-Un says refugees stuck in vicious circle of conflict and climate" }
-Taitahnetidr@{ shape: win-pane, label: "_Published Feb 27, 2025, 09:53 AM_
-Trump administration says it has cancelled most foreign aid contracts" }
-Miidnaddwd@{ shape: win-pane, label: "_Published Jul 07, 2024, 06:00 PM_
-Managing climate driven migration demands a new paradigm" }
-Ensetoamatpy@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:06 PM_
-Eu countries agree positions on new asylum, migrant returns policy" }
-Iartehntrfotr@{ shape: win-pane, label: "_Published Dec 02, 2025, 06:39 AM_
-Illegal migrants to face clothing and mouth searches for phones at uk ports" }
-Inhirnsdouow@{ shape: win-pane, label: "_Published Nov 26, 2025, 10:08 PM_
-Ireland tightens immigration rules in bid to slow population growth" }
+PnHisnekCd@{ shape: win-pane, label: "_Published Dec 13, 2025, 07:09 PM_
+‘pins on a map’: how chicago students are tracking ice raids" }
+TsSgodeneh@{ shape: win-pane, label: "_Published Nov 03, 2025, 06:40 AM_
+Trump says us immigration raids ‘haven’t gone far enough’" }
+PoesToisiewin@{ shape: win-pane, label: "_Published Jul 02, 2025, 02:09 PM_
+Paramount settles with trump over 60 minutes harris interview for $20 million" }
+TsBrlrteis@{ shape: win-pane, label: "_Published Nov 01, 2024, 05:40 AM_
+Trump sues cbs over kamala harris interview on 60 minutes" }
+UwBasemnbhr@{ shape: win-pane, label: "_Published Dec 15, 2024, 07:40 AM_
+Us network abc to pay $20m to settle defamation suit brought by trump" }
+WoocholeEko@{ shape: win-pane, label: "_Published Nov 03, 2025, 12:11 AM_
+‘we’re not a violent city’: chicago locals take on ice block by block" }
+Tseessifsocrd@{ shape: win-pane, label: "_Published Oct 31, 2025, 01:46 AM_
+Trump sets refugee admissions ceiling at 7,500 for fiscal 2026, lowest cap on record" }
+WoocholeEko@{ shape: win-pane, label: "_Published Nov 03, 2025, 12:11 AM_
+‘we’re not a violent city’: chicago locals take on ice block by block" }
 Tseessifsocrd@{ shape: win-pane, label: "_Published Oct 31, 2025, 01:46 AM_
 Trump sets refugee admissions ceiling at 7,500 for fiscal 2026, lowest cap on record" }
 FwSAarnTcsfimi@{ shape: win-pane, label: "_Published May 13, 2025, 04:01 AM_
 First white south africans arrive in us as trump claims they face discrimination" }
-FwSAaaarduivul@{ shape: win-pane, label: "_Published May 12, 2025, 05:01 AM_
-First white south africans board plane for us under trump’s divisive refugee plan" }
-Eluretashirt@{ shape: win-pane, label: "_Published Mar 23, 2025, 07:00 PM_
-Expelled south african envoy to us says he’s back home ‘with no regrets’" }
 Nniursdrirnr@{ shape: win-pane, label: "_Published Feb 09, 2025, 09:47 PM_
 ‘no thanks’, white south africans turn down trump’s immigration offer" }
-TfeSAaictfas@{ shape: win-pane, label: "_Published Feb 09, 2025, 02:40 AM_
-Trump freezes all south african assistance as stand-off escalates" }
-TfeSAaictfas@{ shape: win-pane, label: "_Published Feb 09, 2025, 02:40 AM_
-Trump freezes all south african assistance as stand-off escalates" }
 
-Uvtutg:::txtsize --> FrpdaNgicts:::txtsize
-FrpdaNgicts:::txtsize --> Usgtnorflnm:::txtsize
-Usgtnorflnm:::txtsize --> Taitahnetidr:::txtsize
-Usgtnorflnm:::txtsize --> Miidnaddwd:::txtsize
-FrpdaNgicts:::txtsize --> Ensetoamatpy:::txtsize
-Ensetoamatpy:::txtsize --> Iartehntrfotr:::txtsize
-Ensetoamatpy:::txtsize --> Inhirnsdouow:::txtsize
-Uvtutg:::txtsize --> Tseessifsocrd:::txtsize
+PnHisnekCd:::txtsize --> TsSgodeneh:::txtsize
+TsSgodeneh:::txtsize --> PoesToisiewin:::txtsize
+PoesToisiewin:::txtsize --> TsBrlrteis:::txtsize
+PoesToisiewin:::txtsize --> UwBasemnbhr:::txtsize
+TsSgodeneh:::txtsize --> WoocholeEko:::txtsize
+WoocholeEko:::txtsize --> Tseessifsocrd:::txtsize
+PnHisnekCd:::txtsize --> WoocholeEko:::txtsize
+WoocholeEko:::txtsize --> Tseessifsocrd:::txtsize
 Tseessifsocrd:::txtsize --> FwSAarnTcsfimi:::txtsize
-FwSAarnTcsfimi:::txtsize --> FwSAaaarduivul:::txtsize
-FwSAarnTcsfimi:::txtsize --> Eluretashirt:::txtsize
 Tseessifsocrd:::txtsize --> Nniursdrirnr:::txtsize
-Nniursdrirnr:::txtsize --> TfeSAaictfas:::txtsize
-Nniursdrirnr:::txtsize --> TfeSAaictfas:::txtsize
 
-Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
-Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
-Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
-Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
-TenurneCbVuo@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:52 PM_
-Trump eyes anti-drug operations in mexico, colombia as venezuela looms" }
-Siurymeoarnolu@{ shape: win-pane, label: "_Published Dec 06, 2025, 02:26 AM_
-Sweeping trump strategy document seeks to reframe us’ role in the world, slams europe" }
-Uirdotoeramzsho@{ shape: win-pane, label: "_Published Dec 02, 2025, 04:09 AM_
-Us admiral ordered follow-up strike on alleged drug boat from venezuela, says white house" }
-VulScpifromlMo@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:49 AM_
-Venezuela slams us attack preparations after trump confirms call with maduro" }
-Tsicvsugztliee@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:19 PM_
-Trump says airspace above and surrounding venezuela to be closed in its entirety" }
-UgVuMoceoyRllk@{ shape: win-pane, label: "_Published Dec 01, 2025, 05:07 AM_
-Us has given venezuela’s maduro chance to leave country, says republican lawmaker" }
-Upgirkfeasespncy@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:13 AM_
-Us preparing to seize more tankers off venezuela’s coast after first ship taken, sources say" }
-Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
-Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
-TenurneCbVuo@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:52 PM_
-Trump eyes anti-drug operations in mexico, colombia as venezuela looms" }
-VulScpifromlMo@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:49 AM_
-Venezuela slams us attack preparations after trump confirms call with maduro" }
-Voiriorrlisms@{ shape: win-pane, label: "_Published Dec 05, 2025, 01:36 AM_
-Video of us military strike shows survivors in ‘clear distress’, lawmaker says" }
-UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
-Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
-PgvaHtrasoei@{ shape: win-pane, label: "_Published Dec 04, 2025, 05:30 AM_
-Pentagon review faults hegseth over signal messages on yemen strikes" }
+PeipsTvsoaei@{ shape: win-pane, label: "_Published Dec 13, 2025, 06:39 PM_
+Pinched by higher prices, many trump voters say: don’t blame the president" }
+Tbsnncpini@{ shape: win-pane, label: "_Published Feb 13, 2025, 04:29 AM_
+Trump blames biden for unexpected uptick in us inflation" }
+UlnslisFha@{ shape: win-pane, label: "_Published Feb 12, 2025, 10:14 PM_
+Us inflation heats up, bolstering case for fed to hold rates" }
+UspsfirthDb@{ shape: win-pane, label: "_Published Jan 15, 2025, 10:05 PM_
+Us consumer prices rose for third straight month to 2.9% in december" }
+TpsfMoabta@{ shape: win-pane, label: "_Published Feb 04, 2025, 08:15 AM_
+Trump pauses tariffs on mexico and canada, but not china" }
+Ulssewtota@{ shape: win-pane, label: "_Published Dec 19, 2024, 03:15 AM_
+Us fed lowers rates but sees fewer cuts in 2025 to fight inflation" }
+Ucmsywtso@{ shape: win-pane, label: "_Published Dec 19, 2024, 05:37 AM_
+Us stocks tumble as fed eyes fewer 2025 rate cuts, dow down 2.6%" }
+Ualoeonne@{ shape: win-pane, label: "_Published Dec 18, 2024, 08:00 AM_
+Us retail sales showcase economy’s enduring strength" }
 
-Uznenltrwtphoon:::txtsize --> Uzlecoeapageo:::txtsize
-Uzlecoeapageo:::txtsize --> TenurneCbVuo:::txtsize
-TenurneCbVuo:::txtsize --> Siurymeoarnolu:::txtsize
-TenurneCbVuo:::txtsize --> Uirdotoeramzsho:::txtsize
-Uzlecoeapageo:::txtsize --> VulScpifromlMo:::txtsize
-VulScpifromlMo:::txtsize --> Tsicvsugztliee:::txtsize
-VulScpifromlMo:::txtsize --> UgVuMoceoyRllk:::txtsize
-Uznenltrwtphoon:::txtsize --> Upgirkfeasespncy:::txtsize
-Upgirkfeasespncy:::txtsize --> Uzlecoeapageo:::txtsize
-Uzlecoeapageo:::txtsize --> TenurneCbVuo:::txtsize
-Uzlecoeapageo:::txtsize --> VulScpifromlMo:::txtsize
-Upgirkfeasespncy:::txtsize --> Voiriorrlisms:::txtsize
-Voiriorrlisms:::txtsize --> UikperngutVura:::txtsize
-Voiriorrlisms:::txtsize --> PgvaHtrasoei:::txtsize
+PeipsTvsoaei:::txtsize --> Tbsnncpini:::txtsize
+Tbsnncpini:::txtsize --> UlnslisFha:::txtsize
+UlnslisFha:::txtsize --> UspsfirthDb:::txtsize
+UlnslisFha:::txtsize --> TpsfMoabta:::txtsize
+Tbsnncpini:::txtsize --> Ulssewtota:::txtsize
+Ulssewtota:::txtsize --> Ucmsywtso:::txtsize
+Ulssewtota:::txtsize --> Ualoeonne:::txtsize
 
-JrJonoSitmltt@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:45 AM_
-Jury orders johnson & johnson to pay us$40 million to two women in latest talc trial" }
-Tmecaonsrouse@{ shape: win-pane, label: "_Published Apr 05, 2023, 09:10 AM_
-Talcum powder cancer claims: johnson & johnson agrees to pay out $11.8b in settlement" }
-Jonolsocdpr@{ shape: win-pane, label: "_Published Aug 12, 2022, 07:08 AM_
-Johnson & johnson to end global sales of talc-based baby powder" }
-Jonuyastcecrf@{ shape: win-pane, label: "_Published Oct 16, 2024, 05:20 PM_
-Johnson & johnson must pay $20m to man who says its talc caused his cancer, jury finds" }
-Wealrlcu@{ shape: win-pane, label: "_Published Jul 05, 2024, 11:50 PM_
-Who agency says talc is ‘probably’ cancer-causing" }
-Jonesastn@{ shape: win-pane, label: "_Published Jun 12, 2024, 08:50 AM_
-Johnson & johnson reaches us$700m talc case settlement" }
-Jonawsanorvitl@{ shape: win-pane, label: "_Published Jun 18, 2024, 08:35 AM_
-Johnson & johnson baby powder users want cancer monitoring even if it costs billions" }
-Jonesastn@{ shape: win-pane, label: "_Published Jun 12, 2024, 08:50 AM_
-Johnson & johnson reaches us$700m talc case settlement" }
-Jonuyatrrja@{ shape: win-pane, label: "_Published Jun 04, 2024, 02:35 PM_
-Johnson & johnson must pay $350m in latest talc trial, oregon jury says" }
-Jcsdlntoege@{ shape: win-pane, label: "_Published Mar 28, 2024, 04:17 AM_
-J&j can contest evidence linking its talc to cancer, judge rules" }
+Eesyfrstnrt@{ shape: win-pane, label: "_Published Dec 13, 2025, 06:37 PM_
+Europe tries to buy time for car industry stuck in the present" }
+Atonrmbsau@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:17 AM_
+Almost half of china’s first-time car buyers want an ev: survey" }
+MsAlhrstkubr@{ shape: win-pane, label: "_Published Dec 01, 2025, 01:00 PM_
+Malaysia pm anwar launches perodua’s first ev at $25k, excluding battery" }
+WsirvnyryV@{ shape: win-pane, label: "_Published Feb 07, 2025, 01:45 PM_
+What’s stopping more drivers in malaysia from buying evs" }
+Msriknregsodli@{ shape: win-pane, label: "_Published Sep 12, 2025, 01:30 PM_
+Malaysia’s proton is back in singapore, unveiling a new showroom and its electric suv" }
+CsVdfltthgnvsxtge@{ shape: win-pane, label: "_Published Nov 18, 2025, 04:40 PM_
+China’s nio ev brand firefly rolls out first batch of right-hand drive cars for export to singapore" }
+CEtikaSpfxire@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:19 AM_
+China evs set to gain market share in singapore after extension of rebates" }
+Csriecnaisrf@{ shape: win-pane, label: "_Published Aug 18, 2025, 06:35 PM_
+Chinese ev brand nio to be launched in singapore in first quarter of 2026" }
+Erhpspnyatk@{ shape: win-pane, label: "_Published Nov 30, 2025, 11:51 AM_
+Electric vehicle prowess helps china’s flying car sector take off" }
+Mrtfnsginwtcy@{ shape: win-pane, label: "_Published Mar 09, 2025, 10:20 PM_
+Mass production of flying cars in sight amid china’s ‘low-altitude economy’ push" }
+HaeciafanftriU@{ shape: win-pane, label: "_Published Nov 07, 2024, 11:30 AM_
+Hyundai’s electric vertical take-off air taxi can take flight as early as 2028 in the us" }
+Cstgpnerrmii@{ shape: win-pane, label: "_Published May 28, 2023, 11:50 AM_
+China’s first home-grown passenger jet, c919, marks first commercial flight" }
+Xfgcdirrrna@{ shape: win-pane, label: "_Published Sep 17, 2025, 12:15 PM_
+Xpeng flying cars collide during air show rehearsal in china" }
+Bdidrtarsime@{ shape: win-pane, label: "_Published Jun 03, 2025, 02:45 PM_
+Beyond dancing and somersaults, humanoid robots in china aim higher" }
 
-JrJonoSitmltt:::txtsize --> Tmecaonsrouse:::txtsize
-Tmecaonsrouse:::txtsize --> Jonolsocdpr:::txtsize
-JrJonoSitmltt:::txtsize --> Jonuyastcecrf:::txtsize
-Jonuyastcecrf:::txtsize --> Wealrlcu:::txtsize
-Wealrlcu:::txtsize --> Jonesastn:::txtsize
-Wealrlcu:::txtsize --> Jonawsanorvitl:::txtsize
-Jonuyastcecrf:::txtsize --> Jonesastn:::txtsize
-Jonesastn:::txtsize --> Jonuyatrrja:::txtsize
-Jonesastn:::txtsize --> Jcsdlntoege:::txtsize
+Eesyfrstnrt:::txtsize --> Atonrmbsau:::txtsize
+Atonrmbsau:::txtsize --> MsAlhrstkubr:::txtsize
+MsAlhrstkubr:::txtsize --> WsirvnyryV:::txtsize
+MsAlhrstkubr:::txtsize --> Msriknregsodli:::txtsize
+Atonrmbsau:::txtsize --> CsVdfltthgnvsxtge:::txtsize
+CsVdfltthgnvsxtge:::txtsize --> CEtikaSpfxire:::txtsize
+CsVdfltthgnvsxtge:::txtsize --> Csriecnaisrf:::txtsize
+Eesyfrstnrt:::txtsize --> Erhpspnyatk:::txtsize
+Erhpspnyatk:::txtsize --> Mrtfnsginwtcy:::txtsize
+Mrtfnsginwtcy:::txtsize --> HaeciafanftriU:::txtsize
+Mrtfnsginwtcy:::txtsize --> Cstgpnerrmii:::txtsize
+Erhpspnyatk:::txtsize --> Xfgcdirrrna:::txtsize
+Xfgcdirrrna:::txtsize --> Bdidrtarsime:::txtsize
 
 ```
-<i>Last updated: 2025-12-13 16:00:45.302038 (GMT+8)</i>
+<i>Last updated: 2025-12-13 20:01:16.191649 (GMT+8)</i>
 <!-- END -->
