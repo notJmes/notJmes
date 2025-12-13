@@ -16,108 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-PnHisnekCd@{ shape: win-pane, label: "_Published Dec 13, 2025, 07:09 PM_
-‘pins on a map’: how chicago students are tracking ice raids" }
-TsSgodeneh@{ shape: win-pane, label: "_Published Nov 03, 2025, 06:40 AM_
-Trump says us immigration raids ‘haven’t gone far enough’" }
-PoesToisiewin@{ shape: win-pane, label: "_Published Jul 02, 2025, 02:09 PM_
-Paramount settles with trump over 60 minutes harris interview for $20 million" }
-TsBrlrteis@{ shape: win-pane, label: "_Published Nov 01, 2024, 05:40 AM_
-Trump sues cbs over kamala harris interview on 60 minutes" }
-UwBasemnbhr@{ shape: win-pane, label: "_Published Dec 15, 2024, 07:40 AM_
-Us network abc to pay $20m to settle defamation suit brought by trump" }
-WoocholeEko@{ shape: win-pane, label: "_Published Nov 03, 2025, 12:11 AM_
-‘we’re not a violent city’: chicago locals take on ice block by block" }
-Tseessifsocrd@{ shape: win-pane, label: "_Published Oct 31, 2025, 01:46 AM_
-Trump sets refugee admissions ceiling at 7,500 for fiscal 2026, lowest cap on record" }
-WoocholeEko@{ shape: win-pane, label: "_Published Nov 03, 2025, 12:11 AM_
-‘we’re not a violent city’: chicago locals take on ice block by block" }
-Tseessifsocrd@{ shape: win-pane, label: "_Published Oct 31, 2025, 01:46 AM_
-Trump sets refugee admissions ceiling at 7,500 for fiscal 2026, lowest cap on record" }
-FwSAarnTcsfimi@{ shape: win-pane, label: "_Published May 13, 2025, 04:01 AM_
-First white south africans arrive in us as trump claims they face discrimination" }
-Nniursdrirnr@{ shape: win-pane, label: "_Published Feb 09, 2025, 09:47 PM_
-‘no thanks’, white south africans turn down trump’s immigration offer" }
+WeoonssayrniLh@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:53 PM_
+Who are the most prominent prisoners released by belarusian president lukashenko?" }
+BueenpsnrUecs@{ shape: win-pane, label: "_Published Dec 13, 2025, 08:43 PM_
+Belarus frees nobel winner, top opposition figures as us eases sanctions" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
+Explosions heard in ukraine capital kyiv, other cities" }
+OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
+Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
+Uioiaetsesl@{ shape: win-pane, label: "_Published Sep 16, 2025, 12:51 AM_
+Us military officials pay rare visit to russia-belarus drills" }
+BuepnfrpUaa@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:08 PM_
+Belarus releases 52 prisoners after trump appeal, us embassy says" }
+Raeimehsmlderr@{ shape: win-pane, label: "_Published Sep 14, 2025, 04:50 PM_
+Russia flexes military muscle with hypersonic missiles and bombers during drills" }
+BueenpsnrUecs@{ shape: win-pane, label: "_Published Dec 13, 2025, 08:43 PM_
+Belarus frees nobel winner, top opposition figures as us eases sanctions" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
+Explosions heard in ukraine capital kyiv, other cities" }
+OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
+Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
+Uioiaetsesl@{ shape: win-pane, label: "_Published Sep 16, 2025, 12:51 AM_
+Us military officials pay rare visit to russia-belarus drills" }
+BuepnfrpUaa@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:08 PM_
+Belarus releases 52 prisoners after trump appeal, us embassy says" }
+Raeimehsmlderr@{ shape: win-pane, label: "_Published Sep 14, 2025, 04:50 PM_
+Russia flexes military muscle with hypersonic missiles and bombers during drills" }
 
-PnHisnekCd:::txtsize --> TsSgodeneh:::txtsize
-TsSgodeneh:::txtsize --> PoesToisiewin:::txtsize
-PoesToisiewin:::txtsize --> TsBrlrteis:::txtsize
-PoesToisiewin:::txtsize --> UwBasemnbhr:::txtsize
-TsSgodeneh:::txtsize --> WoocholeEko:::txtsize
-WoocholeEko:::txtsize --> Tseessifsocrd:::txtsize
-PnHisnekCd:::txtsize --> WoocholeEko:::txtsize
-WoocholeEko:::txtsize --> Tseessifsocrd:::txtsize
-Tseessifsocrd:::txtsize --> FwSAarnTcsfimi:::txtsize
-Tseessifsocrd:::txtsize --> Nniursdrirnr:::txtsize
+WeoonssayrniLh:::txtsize --> BueenpsnrUecs:::txtsize
+BueenpsnrUecs:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
+DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
+BueenpsnrUecs:::txtsize --> Uioiaetsesl:::txtsize
+Uioiaetsesl:::txtsize --> BuepnfrpUaa:::txtsize
+Uioiaetsesl:::txtsize --> Raeimehsmlderr:::txtsize
+WeoonssayrniLh:::txtsize --> BueenpsnrUecs:::txtsize
+BueenpsnrUecs:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
+DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
+BueenpsnrUecs:::txtsize --> Uioiaetsesl:::txtsize
+Uioiaetsesl:::txtsize --> BuepnfrpUaa:::txtsize
+Uioiaetsesl:::txtsize --> Raeimehsmlderr:::txtsize
 
-PeipsTvsoaei@{ shape: win-pane, label: "_Published Dec 13, 2025, 06:39 PM_
-Pinched by higher prices, many trump voters say: don’t blame the president" }
-Tbsnncpini@{ shape: win-pane, label: "_Published Feb 13, 2025, 04:29 AM_
-Trump blames biden for unexpected uptick in us inflation" }
-UlnslisFha@{ shape: win-pane, label: "_Published Feb 12, 2025, 10:14 PM_
-Us inflation heats up, bolstering case for fed to hold rates" }
-UspsfirthDb@{ shape: win-pane, label: "_Published Jan 15, 2025, 10:05 PM_
-Us consumer prices rose for third straight month to 2.9% in december" }
-TpsfMoabta@{ shape: win-pane, label: "_Published Feb 04, 2025, 08:15 AM_
-Trump pauses tariffs on mexico and canada, but not china" }
-Ulssewtota@{ shape: win-pane, label: "_Published Dec 19, 2024, 03:15 AM_
-Us fed lowers rates but sees fewer cuts in 2025 to fight inflation" }
-Ucmsywtso@{ shape: win-pane, label: "_Published Dec 19, 2024, 05:37 AM_
-Us stocks tumble as fed eyes fewer 2025 rate cuts, dow down 2.6%" }
-Ualoeonne@{ shape: win-pane, label: "_Published Dec 18, 2024, 08:00 AM_
-Us retail sales showcase economy’s enduring strength" }
+Ilsoamrzirm@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:28 PM_
+Israel kills senior hamas commander in gaza strike: israeli media" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
+TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
+Tears, joy in israel as hamas hands over first hostages" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
+Singapore strongly condemns terror attacks on israel, calls for end to violence" }
 
-PeipsTvsoaei:::txtsize --> Tbsnncpini:::txtsize
-Tbsnncpini:::txtsize --> UlnslisFha:::txtsize
-UlnslisFha:::txtsize --> UspsfirthDb:::txtsize
-UlnslisFha:::txtsize --> TpsfMoabta:::txtsize
-Tbsnncpini:::txtsize --> Ulssewtota:::txtsize
-Ulssewtota:::txtsize --> Ucmsywtso:::txtsize
-Ulssewtota:::txtsize --> Ualoeonne:::txtsize
+Ilsoamrzirm:::txtsize --> Tdrcaaededlncbs:::txtsize
+Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
+PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
+Ilsoamrzirm:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+WzptIleint:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
+Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
 
-Eesyfrstnrt@{ shape: win-pane, label: "_Published Dec 13, 2025, 06:37 PM_
-Europe tries to buy time for car industry stuck in the present" }
-Atonrmbsau@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:17 AM_
-Almost half of china’s first-time car buyers want an ev: survey" }
-MsAlhrstkubr@{ shape: win-pane, label: "_Published Dec 01, 2025, 01:00 PM_
-Malaysia pm anwar launches perodua’s first ev at $25k, excluding battery" }
-WsirvnyryV@{ shape: win-pane, label: "_Published Feb 07, 2025, 01:45 PM_
-What’s stopping more drivers in malaysia from buying evs" }
-Msriknregsodli@{ shape: win-pane, label: "_Published Sep 12, 2025, 01:30 PM_
-Malaysia’s proton is back in singapore, unveiling a new showroom and its electric suv" }
-CsVdfltthgnvsxtge@{ shape: win-pane, label: "_Published Nov 18, 2025, 04:40 PM_
-China’s nio ev brand firefly rolls out first batch of right-hand drive cars for export to singapore" }
-CEtikaSpfxire@{ shape: win-pane, label: "_Published Sep 10, 2025, 10:19 AM_
-China evs set to gain market share in singapore after extension of rebates" }
-Csriecnaisrf@{ shape: win-pane, label: "_Published Aug 18, 2025, 06:35 PM_
-Chinese ev brand nio to be launched in singapore in first quarter of 2026" }
-Erhpspnyatk@{ shape: win-pane, label: "_Published Nov 30, 2025, 11:51 AM_
-Electric vehicle prowess helps china’s flying car sector take off" }
-Mrtfnsginwtcy@{ shape: win-pane, label: "_Published Mar 09, 2025, 10:20 PM_
-Mass production of flying cars in sight amid china’s ‘low-altitude economy’ push" }
-HaeciafanftriU@{ shape: win-pane, label: "_Published Nov 07, 2024, 11:30 AM_
-Hyundai’s electric vertical take-off air taxi can take flight as early as 2028 in the us" }
-Cstgpnerrmii@{ shape: win-pane, label: "_Published May 28, 2023, 11:50 AM_
-China’s first home-grown passenger jet, c919, marks first commercial flight" }
-Xfgcdirrrna@{ shape: win-pane, label: "_Published Sep 17, 2025, 12:15 PM_
-Xpeng flying cars collide during air show rehearsal in china" }
-Bdidrtarsime@{ shape: win-pane, label: "_Published Jun 03, 2025, 02:45 PM_
-Beyond dancing and somersaults, humanoid robots in china aim higher" }
+Uirodiifnrr@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:18 PM_
+Us, syrian forces wounded by unidentified fire in central syria" }
+Smoaepoa@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:31 PM_
+Syria marks one year after toppling of assad" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
+Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
+Sngtsssrod@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:26 PM_
+Syrian refugee returns set to slow as donor support fades" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Smoaepoa@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:31 PM_
+Syria marks one year after toppling of assad" }
+Sngtsssrod@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:26 PM_
+Syrian refugee returns set to slow as donor support fades" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
+Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
+Smoaepoa@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:31 PM_
+Syria marks one year after toppling of assad" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Sngtsssrod@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:26 PM_
+Syrian refugee returns set to slow as donor support fades" }
 
-Eesyfrstnrt:::txtsize --> Atonrmbsau:::txtsize
-Atonrmbsau:::txtsize --> MsAlhrstkubr:::txtsize
-MsAlhrstkubr:::txtsize --> WsirvnyryV:::txtsize
-MsAlhrstkubr:::txtsize --> Msriknregsodli:::txtsize
-Atonrmbsau:::txtsize --> CsVdfltthgnvsxtge:::txtsize
-CsVdfltthgnvsxtge:::txtsize --> CEtikaSpfxire:::txtsize
-CsVdfltthgnvsxtge:::txtsize --> Csriecnaisrf:::txtsize
-Eesyfrstnrt:::txtsize --> Erhpspnyatk:::txtsize
-Erhpspnyatk:::txtsize --> Mrtfnsginwtcy:::txtsize
-Mrtfnsginwtcy:::txtsize --> HaeciafanftriU:::txtsize
-Mrtfnsginwtcy:::txtsize --> Cstgpnerrmii:::txtsize
-Erhpspnyatk:::txtsize --> Xfgcdirrrna:::txtsize
-Xfgcdirrrna:::txtsize --> Bdidrtarsime:::txtsize
+Uirodiifnrr:::txtsize --> Smoaepoa:::txtsize
+Smoaepoa:::txtsize --> SnltiARahtoy:::txtsize
+SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
+Smoaepoa:::txtsize --> Sngtsssrod:::txtsize
+Sngtsssrod:::txtsize --> SnltiARahtoy:::txtsize
+Sngtsssrod:::txtsize --> Smoaepoa:::txtsize
+Uirodiifnrr:::txtsize --> Sngtsssrod:::txtsize
+Sngtsssrod:::txtsize --> SnltiARahtoy:::txtsize
+SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
+Sngtsssrod:::txtsize --> Smoaepoa:::txtsize
+Smoaepoa:::txtsize --> SnltiARahtoy:::txtsize
+Smoaepoa:::txtsize --> Sngtsssrod:::txtsize
 
 ```
-<i>Last updated: 2025-12-13 20:01:16.191649 (GMT+8)</i>
+<i>Last updated: 2025-12-14 00:00:42.814552 (GMT+8)</i>
 <!-- END -->
