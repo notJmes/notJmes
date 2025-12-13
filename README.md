@@ -16,123 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Crjhnkals@{ shape: win-pane, label: "_Published Dec 13, 2025, 03:51 AM_
-Can ukraine join the eu in 2027? unlikely say diplomats" }
-UnUnnUfls@{ shape: win-pane, label: "_Published Dec 13, 2025, 12:16 AM_
-Us plan sees ukraine joining eu in 2027, official tells afp" }
-Crjhnkals@{ shape: win-pane, label: "_Published Dec 13, 2025, 03:51 AM_
-Can ukraine join the eu in 2027? unlikely say diplomats" }
-UnUnnUfls@{ shape: win-pane, label: "_Published Dec 13, 2025, 12:16 AM_
-Us plan sees ukraine joining eu in 2027, official tells afp" }
-UnUnnUfls@{ shape: win-pane, label: "_Published Dec 13, 2025, 12:16 AM_
-Us plan sees ukraine joining eu in 2027, official tells afp" }
-Eeiilesasvblke@{ shape: win-pane, label: "_Published Dec 13, 2025, 01:13 AM_
-Eu agrees to indefinitely freeze russian assets, removing obstacle to ukraine loan" }
-Epufnisrotei@{ shape: win-pane, label: "_Published Dec 04, 2025, 04:29 AM_
-Eu proposes using frozen russian assets or borrowing to give ukraine $136b" }
-EseRaeciotrn@{ shape: win-pane, label: "_Published Dec 10, 2025, 01:42 AM_
-Eu close to deal on russian assets, dec 18 summit to go on until agreement" }
-UnUnnUfls@{ shape: win-pane, label: "_Published Dec 13, 2025, 12:16 AM_
-Us plan sees ukraine joining eu in 2027, official tells afp" }
-Crjhnkals@{ shape: win-pane, label: "_Published Dec 13, 2025, 03:51 AM_
-Can ukraine join the eu in 2027? unlikely say diplomats" }
-UnUnnUfls@{ shape: win-pane, label: "_Published Dec 13, 2025, 12:16 AM_
-Us plan sees ukraine joining eu in 2027, official tells afp" }
-UnUnnUfls@{ shape: win-pane, label: "_Published Dec 13, 2025, 12:16 AM_
-Us plan sees ukraine joining eu in 2027, official tells afp" }
-Eeiilesasvblke@{ shape: win-pane, label: "_Published Dec 13, 2025, 01:13 AM_
-Eu agrees to indefinitely freeze russian assets, removing obstacle to ukraine loan" }
-Epufnisrotei@{ shape: win-pane, label: "_Published Dec 04, 2025, 04:29 AM_
-Eu proposes using frozen russian assets or borrowing to give ukraine $136b" }
-EseRaeciotrn@{ shape: win-pane, label: "_Published Dec 10, 2025, 01:42 AM_
-Eu close to deal on russian assets, dec 18 summit to go on until agreement" }
-
-Crjhnkals:::txtsize --> UnUnnUfls:::txtsize
-UnUnnUfls:::txtsize --> Crjhnkals:::txtsize
-Crjhnkals:::txtsize --> UnUnnUfls:::txtsize
-Crjhnkals:::txtsize --> UnUnnUfls:::txtsize
-UnUnnUfls:::txtsize --> Eeiilesasvblke:::txtsize
-Eeiilesasvblke:::txtsize --> Epufnisrotei:::txtsize
-Eeiilesasvblke:::txtsize --> EseRaeciotrn:::txtsize
-Crjhnkals:::txtsize --> UnUnnUfls:::txtsize
-UnUnnUfls:::txtsize --> Crjhnkals:::txtsize
-Crjhnkals:::txtsize --> UnUnnUfls:::txtsize
-Crjhnkals:::txtsize --> UnUnnUfls:::txtsize
-UnUnnUfls:::txtsize --> Eeiilesasvblke:::txtsize
-Eeiilesasvblke:::txtsize --> Epufnisrotei:::txtsize
-Eeiilesasvblke:::txtsize --> EseRaeciotrn:::txtsize
-
-Tareeetoasfrrs@{ shape: win-pane, label: "_Published Dec 13, 2025, 01:50 AM_
-Trump appears in newly released photos from estate of sex offender jeffrey epstein" }
-Dreeopnosal@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:20 AM_
-Democrats release photos of epstein’s notorious private island" }
-TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
-Trump signs bill ordering us justice department to release epstein files" }
-Ugpsufrspnsitm@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:23 AM_
-Us congress passes measure to force release of epstein files, sending it to trump" }
-Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
-Epstein files to be released to us public: what are they?" }
-Gaalrspndtcmrc@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:10 AM_
-Ghislaine maxwell says release of epstein grand jury transcript may harm her case" }
-Uanuewhspnaldmi@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:25 AM_
-Us department of justice renews push to unseal epstein and maxwell grand jury materials" }
-TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
-Trump signs bill ordering us justice department to release epstein files" }
-Ugoloteddde@{ shape: win-pane, label: "_Published Dec 09, 2025, 10:52 PM_
-Us judge allows release of epstein-related grand jury documents" }
-Gaalrspndtcmrc@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:10 AM_
-Ghislaine maxwell says release of epstein grand jury transcript may harm her case" }
-Uanuewhspnaldmi@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:25 AM_
-Us department of justice renews push to unseal epstein and maxwell grand jury materials" }
-TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
-Trump signs bill ordering us justice department to release epstein files" }
-Uanuewhspnaldmi@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:25 AM_
-Us department of justice renews push to unseal epstein and maxwell grand jury materials" }
-ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
-After trump reversal, us house pushes forward on epstein vote" }
-JetructaaSes@{ shape: win-pane, label: "_Published Aug 21, 2025, 02:17 AM_
-Jeffrey epstein grand jury records to remain sealed, us judge rules" }
-
-Tareeetoasfrrs:::txtsize --> Dreeopnosal:::txtsize
-Dreeopnosal:::txtsize --> TsBrnuertlEie:::txtsize
-TsBrnuertlEie:::txtsize --> Ugpsufrspnsitm:::txtsize
-TsBrnuertlEie:::txtsize --> Eieeaobhe:::txtsize
-Dreeopnosal:::txtsize --> Gaalrspndtcmrc:::txtsize
-Gaalrspndtcmrc:::txtsize --> Uanuewhspnaldmi:::txtsize
-Gaalrspndtcmrc:::txtsize --> TsBrnuertlEie:::txtsize
-Tareeetoasfrrs:::txtsize --> Ugoloteddde:::txtsize
-Ugoloteddde:::txtsize --> Gaalrspndtcmrc:::txtsize
-Gaalrspndtcmrc:::txtsize --> Uanuewhspnaldmi:::txtsize
-Gaalrspndtcmrc:::txtsize --> TsBrnuertlEie:::txtsize
-Ugoloteddde:::txtsize --> Uanuewhspnaldmi:::txtsize
-Uanuewhspnaldmi:::txtsize --> ATrsHpsaEie:::txtsize
-Uanuewhspnaldmi:::txtsize --> JetructaaSes:::txtsize
-
-Uiegonniew@{ shape: win-pane, label: "_Published Dec 13, 2025, 01:43 AM_
-Us admiral leading us troops in latin america steps down" }
-UeefdikuoCbt@{ shape: win-pane, label: "_Published Dec 07, 2025, 06:51 AM_
-Us’ pete hegseth defends decision to kill survivors in caribbean strike" }
+VuSipnoznsleeehoa@{ shape: win-pane, label: "_Published Dec 13, 2025, 07:41 AM_
+Venezuela-us tensions spike in wake of seized tanker as nobel peace prize winner machado vows change" }
+Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
+Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
+TenurneCbVuo@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:52 PM_
+Trump eyes anti-drug operations in mexico, colombia as venezuela looms" }
+Siurymeoarnolu@{ shape: win-pane, label: "_Published Dec 06, 2025, 02:26 AM_
+Sweeping trump strategy document seeks to reframe us’ role in the world, slams europe" }
 Uirdotoeramzsho@{ shape: win-pane, label: "_Published Dec 02, 2025, 04:09 AM_
 Us admiral ordered follow-up strike on alleged drug boat from venezuela, says white house" }
-UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
-Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
 VulScpifromlMo@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:49 AM_
 Venezuela slams us attack preparations after trump confirms call with maduro" }
-VuorKiuyr@{ shape: win-pane, label: "_Published Dec 04, 2025, 05:10 PM_
-Venezuela boat strikes: kill first, justify never?" }
-UmsvnoaTpealtoea@{ shape: win-pane, label: "_Published Dec 04, 2025, 06:50 AM_
-Us lawmakers want vote on war powers after trump pledges to launch land attack on venezuela ‘soon’" }
-CsdltSatcerrrtsz@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
-‘colossal and costly mistake’: us lawmakers to force vote on war powers if trump attacks venezuela" }
+Tsicvsugztliee@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:19 PM_
+Trump says airspace above and surrounding venezuela to be closed in its entirety" }
+UgVuMoceoyRllk@{ shape: win-pane, label: "_Published Dec 01, 2025, 05:07 AM_
+Us has given venezuela’s maduro chance to leave country, says republican lawmaker" }
+Upgirkfeasespncy@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:13 AM_
+Us preparing to seize more tankers off venezuela’s coast after first ship taken, sources say" }
+Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
+Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
+TenurneCbVuo@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:52 PM_
+Trump eyes anti-drug operations in mexico, colombia as venezuela looms" }
+VulScpifromlMo@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:49 AM_
+Venezuela slams us attack preparations after trump confirms call with maduro" }
+Voiriorrlisms@{ shape: win-pane, label: "_Published Dec 05, 2025, 01:36 AM_
+Video of us military strike shows survivors in ‘clear distress’, lawmaker says" }
+UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
+Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
+PgvaHtrasoei@{ shape: win-pane, label: "_Published Dec 04, 2025, 05:30 AM_
+Pentagon review faults hegseth over signal messages on yemen strikes" }
 
-Uiegonniew:::txtsize --> UeefdikuoCbt:::txtsize
-UeefdikuoCbt:::txtsize --> Uirdotoeramzsho:::txtsize
-Uirdotoeramzsho:::txtsize --> UikperngutVura:::txtsize
-Uirdotoeramzsho:::txtsize --> VulScpifromlMo:::txtsize
-Uiegonniew:::txtsize --> VuorKiuyr:::txtsize
-VuorKiuyr:::txtsize --> UmsvnoaTpealtoea:::txtsize
-UmsvnoaTpealtoea:::txtsize --> CsdltSatcerrrtsz:::txtsize
+VuSipnoznsleeehoa:::txtsize --> Uzlecoeapageo:::txtsize
+Uzlecoeapageo:::txtsize --> TenurneCbVuo:::txtsize
+TenurneCbVuo:::txtsize --> Siurymeoarnolu:::txtsize
+TenurneCbVuo:::txtsize --> Uirdotoeramzsho:::txtsize
+Uzlecoeapageo:::txtsize --> VulScpifromlMo:::txtsize
+VulScpifromlMo:::txtsize --> Tsicvsugztliee:::txtsize
+VulScpifromlMo:::txtsize --> UgVuMoceoyRllk:::txtsize
+VuSipnoznsleeehoa:::txtsize --> Upgirkfeasespncy:::txtsize
+Upgirkfeasespncy:::txtsize --> Uzlecoeapageo:::txtsize
+Uzlecoeapageo:::txtsize --> TenurneCbVuo:::txtsize
+Uzlecoeapageo:::txtsize --> VulScpifromlMo:::txtsize
+Upgirkfeasespncy:::txtsize --> Voiriorrlisms:::txtsize
+Voiriorrlisms:::txtsize --> UikperngutVura:::txtsize
+Voiriorrlisms:::txtsize --> PgvaHtrasoei:::txtsize
+
+WYresemhiD@{ shape: win-pane, label: "_Published Dec 13, 2025, 05:25 AM_
+While you were sleeping: 5 stories you might have missed, dec 13, 2025" }
+Tshnbhgtpes@{ shape: win-pane, label: "_Published Dec 13, 2025, 03:37 AM_
+Trump says thailand, cambodia have agreed to stop border clashes" }
+EihTadoinnid@{ shape: win-pane, label: "_Published Dec 08, 2025, 06:12 PM_
+Explainer: why are thailand and cambodia fighting along their border?" }
+Taustsmareng@{ shape: win-pane, label: "_Published Dec 08, 2025, 10:24 AM_
+Thailand launches air strikes on cambodia as border tensions reignite" }
+Tsaiigtitluteheo@{ shape: win-pane, label: "_Published Nov 15, 2025, 04:21 AM_
+Trump says cambodia, thailand ‘going to be fine’ after calls; anutin still seeks phnom penh apology" }
+Taustsmareng@{ shape: win-pane, label: "_Published Dec 08, 2025, 10:24 AM_
+Thailand launches air strikes on cambodia as border tensions reignite" }
+Cdademtudnarelor@{ shape: win-pane, label: "_Published Jul 28, 2025, 05:56 PM_
+Cambodia, thailand agree to ‘immediate and unconditional ceasefire’ to de-escalate border row" }
+TahmeicfetbwnWn@{ shape: win-pane, label: "_Published Nov 11, 2025, 01:01 PM_
+Thailand to halt implementation of ceasefire deal with cambodia, will inform washington" }
+Eeiilesasvblke@{ shape: win-pane, label: "_Published Dec 13, 2025, 01:13 AM_
+Eu agrees to indefinitely freeze russian assets, removing obstacle to ukraine loan" }
+Epufnisrotei@{ shape: win-pane, label: "_Published Dec 04, 2025, 04:29 AM_
+Eu proposes using frozen russian assets or borrowing to give ukraine $136b" }
+BudnnpountUn@{ shape: win-pane, label: "_Published Nov 28, 2025, 07:44 PM_
+Belgium’s pm digs in against eu push to use russian assets for ukraine" }
+PwEeuwesleu@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:45 PM_
+Putin warns europe: if you want war, then russia will defeat you" }
+EseRaeciotrn@{ shape: win-pane, label: "_Published Dec 10, 2025, 01:42 AM_
+Eu close to deal on russian assets, dec 18 summit to go on until agreement" }
+EsnbnUndozsas@{ shape: win-pane, label: "_Published Oct 23, 2025, 11:00 PM_
+Eu vows financial backing for ukraine, holds off on frozen russian assets plan" }
+Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
+Belgium says eu states must share risk to use frozen russian assets for ukraine" }
+
+WYresemhiD:::txtsize --> Tshnbhgtpes:::txtsize
+Tshnbhgtpes:::txtsize --> EihTadoinnid:::txtsize
+EihTadoinnid:::txtsize --> Taustsmareng:::txtsize
+EihTadoinnid:::txtsize --> Tsaiigtitluteheo:::txtsize
+Tshnbhgtpes:::txtsize --> Taustsmareng:::txtsize
+Taustsmareng:::txtsize --> Cdademtudnarelor:::txtsize
+Taustsmareng:::txtsize --> TahmeicfetbwnWn:::txtsize
+WYresemhiD:::txtsize --> Eeiilesasvblke:::txtsize
+Eeiilesasvblke:::txtsize --> Epufnisrotei:::txtsize
+Epufnisrotei:::txtsize --> BudnnpountUn:::txtsize
+Epufnisrotei:::txtsize --> PwEeuwesleu:::txtsize
+Eeiilesasvblke:::txtsize --> EseRaeciotrn:::txtsize
+EseRaeciotrn:::txtsize --> EsnbnUndozsas:::txtsize
+EseRaeciotrn:::txtsize --> Busauasszsaske:::txtsize
+
+Binranreled@{ shape: win-pane, label: "_Published Dec 13, 2025, 04:45 AM_
+Britain’s king charles says cancer treatment will be reduced in 2026" }
+Binranissnhyoa@{ shape: win-pane, label: "_Published May 01, 2025, 02:12 AM_
+Britain’s king charles says cancer diagnosis has shown him ‘the very best of humanity’" }
+Binristcchl@{ shape: win-pane, label: "_Published Feb 06, 2024, 02:09 AM_
+Britain’s king charles diagnosed with cancer: buckingham palace" }
+KhsrdnWiry@{ shape: win-pane, label: "_Published May 06, 2023, 03:25 PM_
+King charles iii crowned at london’s westminster abbey" }
+Tognrnarrhr@{ shape: win-pane, label: "_Published May 05, 2023, 05:00 PM_
+The crowning of king charles: a new start for the british monarchy?" }
+Khssacerupce@{ shape: win-pane, label: "_Published Apr 30, 2024, 08:50 AM_
+King charles to visit a cancer centre to mark return to public duties" }
+Binristcchl@{ shape: win-pane, label: "_Published Feb 06, 2024, 02:09 AM_
+Britain’s king charles diagnosed with cancer: buckingham palace" }
+Khssudsregs@{ shape: win-pane, label: "_Published Apr 27, 2024, 01:43 AM_
+King charles to resume public duties after cancer diagnosis" }
+Khsrsecreiodcroy@{ shape: win-pane, label: "_Published Jul 11, 2025, 08:28 PM_
+King charles and princess kate’s cancer struggles having profound impact, charity boss says" }
+Biisshtoveuter@{ shape: win-pane, label: "_Published Jul 02, 2025, 10:00 PM_
+Britain’s princess kate says she had to ‘put on brave face’ throughout cancer journey" }
+PeWeoteeeutocrn@{ shape: win-pane, label: "_Published Mar 24, 2024, 06:13 AM_
+Princess of wales ‘enormously touched’ by messages of support following cancer diagnosis" }
+Biiseshnsfa@{ shape: win-pane, label: "_Published Jan 14, 2025, 09:38 PM_
+Britain’s princess catherine says she is in remission from cancer" }
+Neesuucrtsrshe@{ shape: win-pane, label: "_Published May 12, 2025, 08:11 PM_
+Nature has been my sanctuary during cancer treatment, says princess catherine" }
+PeWeoteeeutocrn@{ shape: win-pane, label: "_Published Mar 24, 2024, 06:13 AM_
+Princess of wales ‘enormously touched’ by messages of support following cancer diagnosis" }
+Biiseshnsfa@{ shape: win-pane, label: "_Published Jan 14, 2025, 09:38 PM_
+Britain’s princess catherine says she is in remission from cancer" }
+
+Binranreled:::txtsize --> Binranissnhyoa:::txtsize
+Binranissnhyoa:::txtsize --> Binristcchl:::txtsize
+Binristcchl:::txtsize --> KhsrdnWiry:::txtsize
+Binristcchl:::txtsize --> Tognrnarrhr:::txtsize
+Binranissnhyoa:::txtsize --> Khssacerupce:::txtsize
+Khssacerupce:::txtsize --> Binristcchl:::txtsize
+Khssacerupce:::txtsize --> Khssudsregs:::txtsize
+Binranreled:::txtsize --> Khsrsecreiodcroy:::txtsize
+Khsrsecreiodcroy:::txtsize --> Biisshtoveuter:::txtsize
+Biisshtoveuter:::txtsize --> PeWeoteeeutocrn:::txtsize
+Biisshtoveuter:::txtsize --> Biiseshnsfa:::txtsize
+Khsrsecreiodcroy:::txtsize --> Neesuucrtsrshe:::txtsize
+Neesuucrtsrshe:::txtsize --> PeWeoteeeutocrn:::txtsize
+Neesuucrtsrshe:::txtsize --> Biiseshnsfa:::txtsize
 
 ```
-<i>Last updated: 2025-12-13 04:01:13.534243 (GMT+8)</i>
+<i>Last updated: 2025-12-13 08:00:43.380124 (GMT+8)</i>
 <!-- END -->
