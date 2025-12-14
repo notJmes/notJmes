@@ -16,6 +16,52 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Hrerrayody@{ shape: win-pane, label: "_Published Dec 14, 2025, 12:10 PM_
+Hungary winemakers fear disease may ‘wipe out’ industry" }
+Shurcmlovwal@{ shape: win-pane, label: "_Published Dec 14, 2025, 03:12 AM_
+‘stop the slaughter’: french farmers block roads over cow disease cull" }
+Bleprnewiir@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:10 AM_
+Bird flu wiped out poultry, and now the screw worm is coming for beef" }
+Mogcessrougerw@{ shape: win-pane, label: "_Published May 14, 2025, 12:12 AM_
+Mexico to tighten cattle flows from south, rules out shutting border over screwworm" }
+SesMothnem@{ shape: win-pane, label: "_Published Jul 11, 2025, 09:53 PM_
+Sniffer dogs help mexico fight flesh-eating screwworm" }
+Blbboaaaet@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:25 AM_
+Bird flu may be airborne on us dairy farms, say scientists" }
+Bleprnewiir@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:10 AM_
+Bird flu wiped out poultry, and now the screw worm is coming for beef" }
+SdfronitSy@{ shape: win-pane, label: "_Published Feb 06, 2025, 05:33 AM_
+Second bird flu strain found in us dairy cattle, usda says" }
+Iaieenareis@{ shape: win-pane, label: "_Published Nov 14, 2025, 03:45 PM_
+Italian fruit detective racing to save forgotten varieties" }
+GiaereautostStn@{ shape: win-pane, label: "_Published Jul 18, 2025, 04:06 PM_
+Georgia’s tea growers work to revive an industry that collapsed with the soviet union" }
+FodfSgodln@{ shape: win-pane, label: "_Published Jul 13, 2025, 12:35 PM_
+Farm worker dies after us immigration raid in california" }
+LaanutipdMu@{ shape: win-pane, label: "_Published Apr 28, 2025, 02:15 PM_
+Lush landscapes and a gourmet trail in gippsland near melbourne" }
+Csasnverrat@{ shape: win-pane, label: "_Published Jul 09, 2025, 12:20 PM_
+China’s ‘new farmers’ learn to live-stream in rural revitalisation" }
+HifnspUmnooe@{ shape: win-pane, label: "_Published Apr 21, 2025, 01:01 AM_
+How china is finding ways to replace us farmers in response to trade war" }
+WoatorWainaakv@{ shape: win-pane, label: "_Published Jun 19, 2025, 11:01 AM_
+Want to howl and eat raw food for work? ‘wild man’ job in chinese national park goes viral" }
+
+Hrerrayody:::txtsize --> Shurcmlovwal:::txtsize
+Shurcmlovwal:::txtsize --> Bleprnewiir:::txtsize
+Bleprnewiir:::txtsize --> Mogcessrougerw:::txtsize
+Bleprnewiir:::txtsize --> SesMothnem:::txtsize
+Shurcmlovwal:::txtsize --> Blbboaaaet:::txtsize
+Blbboaaaet:::txtsize --> Bleprnewiir:::txtsize
+Blbboaaaet:::txtsize --> SdfronitSy:::txtsize
+Hrerrayody:::txtsize --> Iaieenareis:::txtsize
+Iaieenareis:::txtsize --> GiaereautostStn:::txtsize
+GiaereautostStn:::txtsize --> FodfSgodln:::txtsize
+GiaereautostStn:::txtsize --> LaanutipdMu:::txtsize
+Iaieenareis:::txtsize --> Csasnverrat:::txtsize
+Csasnverrat:::txtsize --> HifnspUmnooe:::txtsize
+Csasnverrat:::txtsize --> WoatorWainaakv:::txtsize
+
 Finpdnnoynm@{ shape: win-pane, label: "_Published Dec 14, 2025, 11:40 AM_
 For children of deported parents, lonely journeys to a new home" }
 Irnipiditoayprol@{ shape: win-pane, label: "_Published Dec 11, 2025, 07:28 PM_
@@ -84,52 +130,6 @@ kddtogoiinfnna:::txtsize --> Asdndrtaspii:::txtsize
 Asdndrtaspii:::txtsize --> Asddweissi:::txtsize
 Asdndrtaspii:::txtsize --> Odweadaog:::txtsize
 
-Gnsilttarak@{ shape: win-pane, label: "_Published Dec 14, 2025, 09:30 AM_
-Germany says it foils islamist plot to attack christmas market" }
-Gnrakresnuc@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:26 PM_
-Germany’s christmas markets grapple with soaring security costs" }
-Gnhfedraaale@{ shape: win-pane, label: "_Published Dec 21, 2024, 02:25 PM_
-Germany in shock after new deadly christmas attack; death toll rises to 5" }
-Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
-‘torn from my side’: horror of german christmas market attack" }
-Gnhifcoslo@{ shape: win-pane, label: "_Published Dec 11, 2024, 11:03 PM_
-Germany’s scholz kicks off process towards feb 23 elections" }
-Tlelrtrirnaynm@{ shape: win-pane, label: "_Published Mar 03, 2025, 08:55 PM_
-Two killed, several injured after car rams into crowd in german city of mannheim" }
-CinoCtaimneak@{ shape: win-pane, label: "_Published Dec 21, 2024, 03:42 AM_
-Car drives into crowd at christmas market in germany, in suspected attack" }
-Nyipdagcubeac@{ shape: win-pane, label: "_Published Feb 13, 2025, 06:14 PM_
-Nearly 30 hurt in suspected car ramming attack in munich before german election" }
-Gnsmtsadyt@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:33 PM_
-German christmas market opens year after deadly car attack" }
-Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
-‘torn from my side’: horror of german christmas market attack" }
-SmrdralnagceCta@{ shape: win-pane, label: "_Published Dec 21, 2024, 06:01 AM_
-Saudi man arrested after at least 2 killed in car ramming attack at german christmas market" }
-CinoCtaimneak@{ shape: win-pane, label: "_Published Dec 21, 2024, 03:42 AM_
-Car drives into crowd at christmas market in germany, in suspected attack" }
-Sdroadyaisea@{ shape: win-pane, label: "_Published Nov 10, 2025, 03:16 PM_
-Saudi doctor goes on trial for deadly german christmas market attack" }
-Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
-‘torn from my side’: horror of german christmas market attack" }
-Scerlmrakt@{ shape: win-pane, label: "_Published Aug 19, 2025, 11:00 PM_
-Saudi charged over deadly german christmas market attack" }
-
-Gnsilttarak:::txtsize --> Gnrakresnuc:::txtsize
-Gnrakresnuc:::txtsize --> Gnhfedraaale:::txtsize
-Gnhfedraaale:::txtsize --> Trsoomrakt:::txtsize
-Gnhfedraaale:::txtsize --> Gnhifcoslo:::txtsize
-Gnrakresnuc:::txtsize --> Tlelrtrirnaynm:::txtsize
-Tlelrtrirnaynm:::txtsize --> CinoCtaimneak:::txtsize
-Tlelrtrirnaynm:::txtsize --> Nyipdagcubeac:::txtsize
-Gnsilttarak:::txtsize --> Gnsmtsadyt:::txtsize
-Gnsmtsadyt:::txtsize --> Trsoomrakt:::txtsize
-Trsoomrakt:::txtsize --> SmrdralnagceCta:::txtsize
-Trsoomrakt:::txtsize --> CinoCtaimneak:::txtsize
-Gnsmtsadyt:::txtsize --> Sdroadyaisea:::txtsize
-Sdroadyaisea:::txtsize --> Trsoomrakt:::txtsize
-Sdroadyaisea:::txtsize --> Scerlmrakt:::txtsize
-
 ```
-<i>Last updated: 2025-12-14 12:00:58.321341 (GMT+8)</i>
+<i>Last updated: 2025-12-14 16:00:24.353452 (GMT+8)</i>
 <!-- END -->
