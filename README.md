@@ -16,135 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-AsliljasiBUr@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
-At least 2 killed, 8 critically injured after shooting at brown university" }
+Finpdnnoynm@{ shape: win-pane, label: "_Published Dec 14, 2025, 11:40 AM_
+For children of deported parents, lonely journeys to a new home" }
+Irnipiditoayprol@{ shape: win-pane, label: "_Published Dec 11, 2025, 07:28 PM_
+Ice threatens family separation, indefinite detention to satisfy trump deportation goal" }
+TdragnfitirsPd@{ shape: win-pane, label: "_Published Jan 21, 2025, 01:02 AM_
+Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
+Tpsrmtioutv@{ shape: win-pane, label: "_Published Jan 20, 2025, 05:54 AM_
+Trump promises harsh immigration limits on inauguration eve" }
+TttSecaaxhue@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:40 AM_
+Trump threatens us trade policy of ‘tariff and tax’ on other countries" }
+Iermncnktngoe@{ shape: win-pane, label: "_Published Aug 27, 2025, 06:38 AM_
+Inside ice, trump’s migrant crackdown is taking a toll on the agency officers" }
+Iasccsidate@{ shape: win-pane, label: "_Published Jun 11, 2025, 06:23 AM_
+Ice’s tactics draw criticism as it triples daily arrest targets" }
+
+Finpdnnoynm:::txtsize --> Irnipiditoayprol:::txtsize
+Irnipiditoayprol:::txtsize --> TdragnfitirsPd:::txtsize
+TdragnfitirsPd:::txtsize --> Tpsrmtioutv:::txtsize
+TdragnfitirsPd:::txtsize --> TttSecaaxhue:::txtsize
+Irnipiditoayprol:::txtsize --> Iermncnktngoe:::txtsize
+Iermncnktngoe:::txtsize --> Iasccsidate:::txtsize
+
+Wsebiaasoiiogair@{ shape: win-pane, label: "_Published Dec 14, 2025, 09:40 AM_
+Witnesses describe anxious campus as news of brown university shooting spread, police arrived" }
+kddtogoiinfnna@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
+2 killed, 9 wounded after shooting at brown university; manhunt for gunman underway" }
 SiKcaiileecd@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:03 AM_
 Shooting at kentucky state university kills one, suspect in custody" }
 SceasiOhnt@{ shape: win-pane, label: "_Published Dec 08, 2025, 07:20 PM_
 Suspect arrested after shooting in oslo shopping centre" }
-peucrlnhctog@{ shape: win-pane, label: "_Published Dec 06, 2025, 06:51 PM_
-12 people, including 3 children, killed in south africa hostel shooting" }
 Hrfrsymtgafgenyg@{ shape: win-pane, label: "_Published Dec 05, 2025, 10:30 PM_
 Harvard professor arrested by us immigration agents after firing pellet gun near synagogue" }
-Hrfrsymtgafgenyg@{ shape: win-pane, label: "_Published Dec 05, 2025, 10:30 PM_
-Harvard professor arrested by us immigration agents after firing pellet gun near synagogue" }
-TaiteoHrllfad@{ shape: win-pane, label: "_Published Sep 30, 2025, 07:47 AM_
-Trump administration seeks to make harvard ineligible for federal funding" }
-Taitgtttttns@{ shape: win-pane, label: "_Published Nov 29, 2025, 03:55 PM_
-Trump administration agrees to restore $1b to northwestern university" }
 Asdndrtaspii@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:58 PM_
 At least 1 dead and 3 injured after shootings at mississippi universities" }
 Asddweissi@{ shape: win-pane, label: "_Published Oct 11, 2025, 11:16 PM_
 At least 4 dead and a dozen wounded in mississippi shooting" }
-Fiieeoariamu@{ shape: win-pane, label: "_Published Sep 29, 2025, 12:52 AM_
-Four killed, 8 injured after shooting and fire at michigan mormon church" }
 Odweadaog@{ shape: win-pane, label: "_Published Oct 06, 2025, 07:20 AM_
 Over a dozen wounded in rare sydney mass shooting" }
+kddtogoiinfnna@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
+2 killed, 9 wounded after shooting at brown university; manhunt for gunman underway" }
+SiKcaiileecd@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:03 AM_
+Shooting at kentucky state university kills one, suspect in custody" }
+SceasiOhnt@{ shape: win-pane, label: "_Published Dec 08, 2025, 07:20 PM_
+Suspect arrested after shooting in oslo shopping centre" }
+Hrfrsymtgafgenyg@{ shape: win-pane, label: "_Published Dec 05, 2025, 10:30 PM_
+Harvard professor arrested by us immigration agents after firing pellet gun near synagogue" }
+Asdndrtaspii@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:58 PM_
+At least 1 dead and 3 injured after shootings at mississippi universities" }
+Asddweissi@{ shape: win-pane, label: "_Published Oct 11, 2025, 11:16 PM_
+At least 4 dead and a dozen wounded in mississippi shooting" }
 Odweadaog@{ shape: win-pane, label: "_Published Oct 06, 2025, 07:20 AM_
 Over a dozen wounded in rare sydney mass shooting" }
-Aaordromtlig@{ shape: win-pane, label: "_Published Sep 06, 2025, 08:50 AM_
-Australia posts $840k reward for arrest of gunman after police killings" }
-Tlfrnkdntrsi@{ shape: win-pane, label: "_Published Dec 13, 2022, 06:10 AM_
-Two police officers among six killed in gunfight in rural australia" }
 
-AsliljasiBUr:::txtsize --> SiKcaiileecd:::txtsize
+Wsebiaasoiiogair:::txtsize --> kddtogoiinfnna:::txtsize
+kddtogoiinfnna:::txtsize --> SiKcaiileecd:::txtsize
 SiKcaiileecd:::txtsize --> SceasiOhnt:::txtsize
-SceasiOhnt:::txtsize --> peucrlnhctog:::txtsize
-SceasiOhnt:::txtsize --> Hrfrsymtgafgenyg:::txtsize
 SiKcaiileecd:::txtsize --> Hrfrsymtgafgenyg:::txtsize
-Hrfrsymtgafgenyg:::txtsize --> TaiteoHrllfad:::txtsize
-Hrfrsymtgafgenyg:::txtsize --> Taitgtttttns:::txtsize
-AsliljasiBUr:::txtsize --> Asdndrtaspii:::txtsize
+kddtogoiinfnna:::txtsize --> Asdndrtaspii:::txtsize
 Asdndrtaspii:::txtsize --> Asddweissi:::txtsize
-Asddweissi:::txtsize --> Fiieeoariamu:::txtsize
-Asddweissi:::txtsize --> Odweadaog:::txtsize
 Asdndrtaspii:::txtsize --> Odweadaog:::txtsize
-Odweadaog:::txtsize --> Aaordromtlig:::txtsize
-Odweadaog:::txtsize --> Tlfrnkdntrsi:::txtsize
+Wsebiaasoiiogair:::txtsize --> kddtogoiinfnna:::txtsize
+kddtogoiinfnna:::txtsize --> SiKcaiileecd:::txtsize
+SiKcaiileecd:::txtsize --> SceasiOhnt:::txtsize
+SiKcaiileecd:::txtsize --> Hrfrsymtgafgenyg:::txtsize
+kddtogoiinfnna:::txtsize --> Asdndrtaspii:::txtsize
+Asdndrtaspii:::txtsize --> Asddweissi:::txtsize
+Asdndrtaspii:::txtsize --> Odweadaog:::txtsize
 
-WYresemhiD@{ shape: win-pane, label: "_Published Dec 14, 2025, 05:53 AM_
-While you were sleeping: 5 stories you might have missed, dec 14, 2025" }
-TveaaUdkdrt@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:09 AM_
-Trump vows retaliation after us soldiers killed in syria attack" }
-Uolnahcy@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:18 PM_
-Us troops killed in isis ambush attack in syria" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Smoaepoa@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:31 PM_
-Syria marks one year after toppling of assad" }
-Uolnahcy@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:18 PM_
-Us troops killed in isis ambush attack in syria" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Smoaepoa@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:31 PM_
-Syria marks one year after toppling of assad" }
-TaudntnmafTsecs@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:35 PM_
-Thailand doubles down on fight against cambodia, rebuffing trump’s ceasefire claims" }
-Msgadaieirior@{ shape: win-pane, label: "_Published Dec 13, 2025, 07:28 PM_
-Malaysia urges thailand and cambodia to cease military action along border" }
-Tshnbhgtpes@{ shape: win-pane, label: "_Published Dec 13, 2025, 03:37 AM_
-Trump says thailand, cambodia have agreed to stop border clashes" }
-Taustsmareng@{ shape: win-pane, label: "_Published Dec 08, 2025, 10:24 AM_
-Thailand launches air strikes on cambodia as border tensions reignite" }
-Cdademtudnarelor@{ shape: win-pane, label: "_Published Jul 28, 2025, 05:56 PM_
-Cambodia, thailand agree to ‘immediate and unconditional ceasefire’ to de-escalate border row" }
-TahmeicfetbwnWn@{ shape: win-pane, label: "_Published Nov 11, 2025, 01:01 PM_
-Thailand to halt implementation of ceasefire deal with cambodia, will inform washington" }
+Gnsilttarak@{ shape: win-pane, label: "_Published Dec 14, 2025, 09:30 AM_
+Germany says it foils islamist plot to attack christmas market" }
+Gnrakresnuc@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:26 PM_
+Germany’s christmas markets grapple with soaring security costs" }
+Gnhfedraaale@{ shape: win-pane, label: "_Published Dec 21, 2024, 02:25 PM_
+Germany in shock after new deadly christmas attack; death toll rises to 5" }
+Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
+‘torn from my side’: horror of german christmas market attack" }
+Gnhifcoslo@{ shape: win-pane, label: "_Published Dec 11, 2024, 11:03 PM_
+Germany’s scholz kicks off process towards feb 23 elections" }
+Tlelrtrirnaynm@{ shape: win-pane, label: "_Published Mar 03, 2025, 08:55 PM_
+Two killed, several injured after car rams into crowd in german city of mannheim" }
+CinoCtaimneak@{ shape: win-pane, label: "_Published Dec 21, 2024, 03:42 AM_
+Car drives into crowd at christmas market in germany, in suspected attack" }
+Nyipdagcubeac@{ shape: win-pane, label: "_Published Feb 13, 2025, 06:14 PM_
+Nearly 30 hurt in suspected car ramming attack in munich before german election" }
+Gnsmtsadyt@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:33 PM_
+German christmas market opens year after deadly car attack" }
+Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
+‘torn from my side’: horror of german christmas market attack" }
+SmrdralnagceCta@{ shape: win-pane, label: "_Published Dec 21, 2024, 06:01 AM_
+Saudi man arrested after at least 2 killed in car ramming attack at german christmas market" }
+CinoCtaimneak@{ shape: win-pane, label: "_Published Dec 21, 2024, 03:42 AM_
+Car drives into crowd at christmas market in germany, in suspected attack" }
+Sdroadyaisea@{ shape: win-pane, label: "_Published Nov 10, 2025, 03:16 PM_
+Saudi doctor goes on trial for deadly german christmas market attack" }
+Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
+‘torn from my side’: horror of german christmas market attack" }
+Scerlmrakt@{ shape: win-pane, label: "_Published Aug 19, 2025, 11:00 PM_
+Saudi charged over deadly german christmas market attack" }
 
-WYresemhiD:::txtsize --> TveaaUdkdrt:::txtsize
-TveaaUdkdrt:::txtsize --> Uolnahcy:::txtsize
-Uolnahcy:::txtsize --> SnltiARahtoy:::txtsize
-Uolnahcy:::txtsize --> Smoaepoa:::txtsize
-TveaaUdkdrt:::txtsize --> Uolnahcy:::txtsize
-Uolnahcy:::txtsize --> SnltiARahtoy:::txtsize
-Uolnahcy:::txtsize --> Smoaepoa:::txtsize
-WYresemhiD:::txtsize --> TaudntnmafTsecs:::txtsize
-TaudntnmafTsecs:::txtsize --> Msgadaieirior:::txtsize
-Msgadaieirior:::txtsize --> Tshnbhgtpes:::txtsize
-TaudntnmafTsecs:::txtsize --> Taustsmareng:::txtsize
-Taustsmareng:::txtsize --> Cdademtudnarelor:::txtsize
-Taustsmareng:::txtsize --> TahmeicfetbwnWn:::txtsize
-
-TveaaUdkdrt@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:09 AM_
-Trump vows retaliation after us soldiers killed in syria attack" }
-Uolnahcy@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:18 PM_
-Us troops killed in isis ambush attack in syria" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
-Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
-Smoaepoa@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:31 PM_
-Syria marks one year after toppling of assad" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Sngtsssrod@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:26 PM_
-Syrian refugee returns set to slow as donor support fades" }
-Uolnahcy@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:18 PM_
-Us troops killed in isis ambush attack in syria" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
-Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
-Smoaepoa@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:31 PM_
-Syria marks one year after toppling of assad" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Sngtsssrod@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:26 PM_
-Syrian refugee returns set to slow as donor support fades" }
-
-TveaaUdkdrt:::txtsize --> Uolnahcy:::txtsize
-Uolnahcy:::txtsize --> SnltiARahtoy:::txtsize
-SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
-Uolnahcy:::txtsize --> Smoaepoa:::txtsize
-Smoaepoa:::txtsize --> SnltiARahtoy:::txtsize
-Smoaepoa:::txtsize --> Sngtsssrod:::txtsize
-TveaaUdkdrt:::txtsize --> Uolnahcy:::txtsize
-Uolnahcy:::txtsize --> SnltiARahtoy:::txtsize
-SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
-Uolnahcy:::txtsize --> Smoaepoa:::txtsize
-Smoaepoa:::txtsize --> SnltiARahtoy:::txtsize
-Smoaepoa:::txtsize --> Sngtsssrod:::txtsize
+Gnsilttarak:::txtsize --> Gnrakresnuc:::txtsize
+Gnrakresnuc:::txtsize --> Gnhfedraaale:::txtsize
+Gnhfedraaale:::txtsize --> Trsoomrakt:::txtsize
+Gnhfedraaale:::txtsize --> Gnhifcoslo:::txtsize
+Gnrakresnuc:::txtsize --> Tlelrtrirnaynm:::txtsize
+Tlelrtrirnaynm:::txtsize --> CinoCtaimneak:::txtsize
+Tlelrtrirnaynm:::txtsize --> Nyipdagcubeac:::txtsize
+Gnsilttarak:::txtsize --> Gnsmtsadyt:::txtsize
+Gnsmtsadyt:::txtsize --> Trsoomrakt:::txtsize
+Trsoomrakt:::txtsize --> SmrdralnagceCta:::txtsize
+Trsoomrakt:::txtsize --> CinoCtaimneak:::txtsize
+Gnsmtsadyt:::txtsize --> Sdroadyaisea:::txtsize
+Sdroadyaisea:::txtsize --> Trsoomrakt:::txtsize
+Sdroadyaisea:::txtsize --> Scerlmrakt:::txtsize
 
 ```
-<i>Last updated: 2025-12-14 08:00:34.033325 (GMT+8)</i>
+<i>Last updated: 2025-12-14 12:00:58.321341 (GMT+8)</i>
 <!-- END -->
