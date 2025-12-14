@@ -16,135 +16,135 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Shurcmlovwal@{ shape: win-pane, label: "_Published Dec 14, 2025, 03:12 AM_
-‘stop the slaughter’: french farmers block roads over cow disease cull" }
-Bleprnewiir@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:10 AM_
-Bird flu wiped out poultry, and now the screw worm is coming for beef" }
-Mogcessrougerw@{ shape: win-pane, label: "_Published May 14, 2025, 12:12 AM_
-Mexico to tighten cattle flows from south, rules out shutting border over screwworm" }
-SdfronitSy@{ shape: win-pane, label: "_Published Feb 06, 2025, 05:33 AM_
-Second bird flu strain found in us dairy cattle, usda says" }
-UsncesanSaa@{ shape: win-pane, label: "_Published Apr 14, 2025, 01:21 AM_
-Uk says ‘will never change food standards’ in any us-uk trade deal" }
-SesMothnem@{ shape: win-pane, label: "_Published Jul 11, 2025, 09:53 PM_
-Sniffer dogs help mexico fight flesh-eating screwworm" }
-Mogcessrougerw@{ shape: win-pane, label: "_Published May 14, 2025, 12:12 AM_
-Mexico to tighten cattle flows from south, rules out shutting border over screwworm" }
-Mogcessrougerw@{ shape: win-pane, label: "_Published May 14, 2025, 12:12 AM_
-Mexico to tighten cattle flows from south, rules out shutting border over screwworm" }
-Blbboaaaet@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:25 AM_
-Bird flu may be airborne on us dairy farms, say scientists" }
-Bleprnewiir@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:10 AM_
-Bird flu wiped out poultry, and now the screw worm is coming for beef" }
-Mogcessrougerw@{ shape: win-pane, label: "_Published May 14, 2025, 12:12 AM_
-Mexico to tighten cattle flows from south, rules out shutting border over screwworm" }
-SesMothnem@{ shape: win-pane, label: "_Published Jul 11, 2025, 09:53 PM_
-Sniffer dogs help mexico fight flesh-eating screwworm" }
-SdfronitSy@{ shape: win-pane, label: "_Published Feb 06, 2025, 05:33 AM_
-Second bird flu strain found in us dairy cattle, usda says" }
-EoentUtnteih@{ shape: win-pane, label: "_Published Feb 04, 2025, 11:37 PM_
-Egg shortages are now hitting us restaurants, with no relief in sight" }
-Knyiurhuiea@{ shape: win-pane, label: "_Published Jan 28, 2025, 12:10 PM_
-Keeping an eye on bird flu outbreak that could quickly escalate" }
+AsliljasiBUr@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
+At least 2 killed, 8 critically injured after shooting at brown university" }
+SiKcaiileecd@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:03 AM_
+Shooting at kentucky state university kills one, suspect in custody" }
+SceasiOhnt@{ shape: win-pane, label: "_Published Dec 08, 2025, 07:20 PM_
+Suspect arrested after shooting in oslo shopping centre" }
+peucrlnhctog@{ shape: win-pane, label: "_Published Dec 06, 2025, 06:51 PM_
+12 people, including 3 children, killed in south africa hostel shooting" }
+Hrfrsymtgafgenyg@{ shape: win-pane, label: "_Published Dec 05, 2025, 10:30 PM_
+Harvard professor arrested by us immigration agents after firing pellet gun near synagogue" }
+Hrfrsymtgafgenyg@{ shape: win-pane, label: "_Published Dec 05, 2025, 10:30 PM_
+Harvard professor arrested by us immigration agents after firing pellet gun near synagogue" }
+TaiteoHrllfad@{ shape: win-pane, label: "_Published Sep 30, 2025, 07:47 AM_
+Trump administration seeks to make harvard ineligible for federal funding" }
+Taitgtttttns@{ shape: win-pane, label: "_Published Nov 29, 2025, 03:55 PM_
+Trump administration agrees to restore $1b to northwestern university" }
+Asdndrtaspii@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:58 PM_
+At least 1 dead and 3 injured after shootings at mississippi universities" }
+Asddweissi@{ shape: win-pane, label: "_Published Oct 11, 2025, 11:16 PM_
+At least 4 dead and a dozen wounded in mississippi shooting" }
+Fiieeoariamu@{ shape: win-pane, label: "_Published Sep 29, 2025, 12:52 AM_
+Four killed, 8 injured after shooting and fire at michigan mormon church" }
+Odweadaog@{ shape: win-pane, label: "_Published Oct 06, 2025, 07:20 AM_
+Over a dozen wounded in rare sydney mass shooting" }
+Odweadaog@{ shape: win-pane, label: "_Published Oct 06, 2025, 07:20 AM_
+Over a dozen wounded in rare sydney mass shooting" }
+Aaordromtlig@{ shape: win-pane, label: "_Published Sep 06, 2025, 08:50 AM_
+Australia posts $840k reward for arrest of gunman after police killings" }
+Tlfrnkdntrsi@{ shape: win-pane, label: "_Published Dec 13, 2022, 06:10 AM_
+Two police officers among six killed in gunfight in rural australia" }
 
-Shurcmlovwal:::txtsize --> Bleprnewiir:::txtsize
-Bleprnewiir:::txtsize --> Mogcessrougerw:::txtsize
-Mogcessrougerw:::txtsize --> SdfronitSy:::txtsize
-Mogcessrougerw:::txtsize --> UsncesanSaa:::txtsize
-Bleprnewiir:::txtsize --> SesMothnem:::txtsize
-SesMothnem:::txtsize --> Mogcessrougerw:::txtsize
-SesMothnem:::txtsize --> Mogcessrougerw:::txtsize
-Shurcmlovwal:::txtsize --> Blbboaaaet:::txtsize
-Blbboaaaet:::txtsize --> Bleprnewiir:::txtsize
-Bleprnewiir:::txtsize --> Mogcessrougerw:::txtsize
-Bleprnewiir:::txtsize --> SesMothnem:::txtsize
-Blbboaaaet:::txtsize --> SdfronitSy:::txtsize
-SdfronitSy:::txtsize --> EoentUtnteih:::txtsize
-SdfronitSy:::txtsize --> Knyiurhuiea:::txtsize
+AsliljasiBUr:::txtsize --> SiKcaiileecd:::txtsize
+SiKcaiileecd:::txtsize --> SceasiOhnt:::txtsize
+SceasiOhnt:::txtsize --> peucrlnhctog:::txtsize
+SceasiOhnt:::txtsize --> Hrfrsymtgafgenyg:::txtsize
+SiKcaiileecd:::txtsize --> Hrfrsymtgafgenyg:::txtsize
+Hrfrsymtgafgenyg:::txtsize --> TaiteoHrllfad:::txtsize
+Hrfrsymtgafgenyg:::txtsize --> Taitgtttttns:::txtsize
+AsliljasiBUr:::txtsize --> Asdndrtaspii:::txtsize
+Asdndrtaspii:::txtsize --> Asddweissi:::txtsize
+Asddweissi:::txtsize --> Fiieeoariamu:::txtsize
+Asddweissi:::txtsize --> Odweadaog:::txtsize
+Asdndrtaspii:::txtsize --> Odweadaog:::txtsize
+Odweadaog:::txtsize --> Aaordromtlig:::txtsize
+Odweadaog:::txtsize --> Tlfrnkdntrsi:::txtsize
 
-Usrrobooiin@{ shape: win-pane, label: "_Published Dec 14, 2025, 01:44 AM_
-Us says belarus agreed to stop balloon flyovers into lithuania" }
-Laeetmnelfes@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:17 PM_
-Lithuania declares state of emergency over balloons from belarus" }
-LaVuphgvlssp@{ shape: win-pane, label: "_Published Dec 07, 2025, 01:31 AM_
-Lithuania’s vilnius airport shuts again over balloons in its airspace" }
-Buhaeocsaesvt@{ shape: win-pane, label: "_Published Dec 02, 2025, 03:59 AM_
-Belarus, lithuania trade diplomatic barbs over alleged airspace violations" }
-LaoaecunBulP@{ shape: win-pane, label: "_Published Dec 05, 2025, 10:37 PM_
-Lithuania to declare ‘emergency situation’ over belarus balloons: pm" }
-BueenpsnrUecs@{ shape: win-pane, label: "_Published Dec 13, 2025, 08:43 PM_
-Belarus frees nobel winner, top opposition figures as us eases sanctions" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
-Explosions heard in ukraine capital kyiv, other cities" }
-OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
-Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
-Uioiaetsesl@{ shape: win-pane, label: "_Published Sep 16, 2025, 12:51 AM_
-Us military officials pay rare visit to russia-belarus drills" }
-BuepnfrpUaa@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:08 PM_
-Belarus releases 52 prisoners after trump appeal, us embassy says" }
-Raeimehsmlderr@{ shape: win-pane, label: "_Published Sep 14, 2025, 04:50 PM_
-Russia flexes military muscle with hypersonic missiles and bombers during drills" }
+WYresemhiD@{ shape: win-pane, label: "_Published Dec 14, 2025, 05:53 AM_
+While you were sleeping: 5 stories you might have missed, dec 14, 2025" }
+TveaaUdkdrt@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:09 AM_
+Trump vows retaliation after us soldiers killed in syria attack" }
+Uolnahcy@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:18 PM_
+Us troops killed in isis ambush attack in syria" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Smoaepoa@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:31 PM_
+Syria marks one year after toppling of assad" }
+Uolnahcy@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:18 PM_
+Us troops killed in isis ambush attack in syria" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Smoaepoa@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:31 PM_
+Syria marks one year after toppling of assad" }
+TaudntnmafTsecs@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:35 PM_
+Thailand doubles down on fight against cambodia, rebuffing trump’s ceasefire claims" }
+Msgadaieirior@{ shape: win-pane, label: "_Published Dec 13, 2025, 07:28 PM_
+Malaysia urges thailand and cambodia to cease military action along border" }
+Tshnbhgtpes@{ shape: win-pane, label: "_Published Dec 13, 2025, 03:37 AM_
+Trump says thailand, cambodia have agreed to stop border clashes" }
+Taustsmareng@{ shape: win-pane, label: "_Published Dec 08, 2025, 10:24 AM_
+Thailand launches air strikes on cambodia as border tensions reignite" }
+Cdademtudnarelor@{ shape: win-pane, label: "_Published Jul 28, 2025, 05:56 PM_
+Cambodia, thailand agree to ‘immediate and unconditional ceasefire’ to de-escalate border row" }
+TahmeicfetbwnWn@{ shape: win-pane, label: "_Published Nov 11, 2025, 01:01 PM_
+Thailand to halt implementation of ceasefire deal with cambodia, will inform washington" }
 
-Usrrobooiin:::txtsize --> Laeetmnelfes:::txtsize
-Laeetmnelfes:::txtsize --> LaVuphgvlssp:::txtsize
-LaVuphgvlssp:::txtsize --> Buhaeocsaesvt:::txtsize
-LaVuphgvlssp:::txtsize --> LaoaecunBulP:::txtsize
-Usrrobooiin:::txtsize --> BueenpsnrUecs:::txtsize
-BueenpsnrUecs:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
-DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
-BueenpsnrUecs:::txtsize --> Uioiaetsesl:::txtsize
-Uioiaetsesl:::txtsize --> BuepnfrpUaa:::txtsize
-Uioiaetsesl:::txtsize --> Raeimehsmlderr:::txtsize
+WYresemhiD:::txtsize --> TveaaUdkdrt:::txtsize
+TveaaUdkdrt:::txtsize --> Uolnahcy:::txtsize
+Uolnahcy:::txtsize --> SnltiARahtoy:::txtsize
+Uolnahcy:::txtsize --> Smoaepoa:::txtsize
+TveaaUdkdrt:::txtsize --> Uolnahcy:::txtsize
+Uolnahcy:::txtsize --> SnltiARahtoy:::txtsize
+Uolnahcy:::txtsize --> Smoaepoa:::txtsize
+WYresemhiD:::txtsize --> TaudntnmafTsecs:::txtsize
+TaudntnmafTsecs:::txtsize --> Msgadaieirior:::txtsize
+Msgadaieirior:::txtsize --> Tshnbhgtpes:::txtsize
+TaudntnmafTsecs:::txtsize --> Taustsmareng:::txtsize
+Taustsmareng:::txtsize --> Cdademtudnarelor:::txtsize
+Taustsmareng:::txtsize --> TahmeicfetbwnWn:::txtsize
 
-RanatiTssrs@{ shape: win-pane, label: "_Published Dec 14, 2025, 01:13 AM_
-Russian drone attack hits civilian turkish vessel, ukraine says" }
-Racoirmgeins@{ shape: win-pane, label: "_Published Dec 12, 2025, 11:43 PM_
-Russia attacks two ukraine ports, damaging three turkish-owned vessels" }
-UnaRadesiaele@{ shape: win-pane, label: "_Published Dec 11, 2025, 04:22 AM_
-Ukraine disables russian ‘shadow fleet’ vessel with sea drones in black sea" }
-UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
-Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
-Eeadsaiuccmoc@{ shape: win-pane, label: "_Published Dec 11, 2025, 01:32 AM_
-European leaders discuss ukraine with trump at ‘critical moment’ for peace" }
-Zssuskekrflo@{ shape: win-pane, label: "_Published Dec 12, 2025, 09:58 PM_
-Zelensky visits kupyansk as ukraine retakes parts of front-line town" }
-UnlyiRaitsuiKn@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:19 AM_
-Ukraine’s military dismisses russia’s claim that it has captured city of kupyansk" }
-Unsltnoiabs@{ shape: win-pane, label: "_Published Dec 03, 2025, 12:53 AM_
-Ukraine says still fighting in pokrovsk, city claimed by russia" }
-Racoirmgeins@{ shape: win-pane, label: "_Published Dec 12, 2025, 11:43 PM_
-Russia attacks two ukraine ports, damaging three turkish-owned vessels" }
-UnaRadesiaele@{ shape: win-pane, label: "_Published Dec 11, 2025, 04:22 AM_
-Ukraine disables russian ‘shadow fleet’ vessel with sea drones in black sea" }
-UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
-Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
-Eeadsaiuccmoc@{ shape: win-pane, label: "_Published Dec 11, 2025, 01:32 AM_
-European leaders discuss ukraine with trump at ‘critical moment’ for peace" }
-Zssuskekrflo@{ shape: win-pane, label: "_Published Dec 12, 2025, 09:58 PM_
-Zelensky visits kupyansk as ukraine retakes parts of front-line town" }
-UnlyiRaitsuiKn@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:19 AM_
-Ukraine’s military dismisses russia’s claim that it has captured city of kupyansk" }
-Unsltnoiabs@{ shape: win-pane, label: "_Published Dec 03, 2025, 12:53 AM_
-Ukraine says still fighting in pokrovsk, city claimed by russia" }
+TveaaUdkdrt@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:09 AM_
+Trump vows retaliation after us soldiers killed in syria attack" }
+Uolnahcy@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:18 PM_
+Us troops killed in isis ambush attack in syria" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
+Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
+Smoaepoa@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:31 PM_
+Syria marks one year after toppling of assad" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Sngtsssrod@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:26 PM_
+Syrian refugee returns set to slow as donor support fades" }
+Uolnahcy@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:18 PM_
+Us troops killed in isis ambush attack in syria" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
+Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
+Smoaepoa@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:31 PM_
+Syria marks one year after toppling of assad" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Sngtsssrod@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:26 PM_
+Syrian refugee returns set to slow as donor support fades" }
 
-RanatiTssrs:::txtsize --> Racoirmgeins:::txtsize
-Racoirmgeins:::txtsize --> UnaRadesiaele:::txtsize
-UnaRadesiaele:::txtsize --> UntaluneBScyca:::txtsize
-UnaRadesiaele:::txtsize --> Eeadsaiuccmoc:::txtsize
-Racoirmgeins:::txtsize --> Zssuskekrflo:::txtsize
-Zssuskekrflo:::txtsize --> UnlyiRaitsuiKn:::txtsize
-Zssuskekrflo:::txtsize --> Unsltnoiabs:::txtsize
-RanatiTssrs:::txtsize --> Racoirmgeins:::txtsize
-Racoirmgeins:::txtsize --> UnaRadesiaele:::txtsize
-UnaRadesiaele:::txtsize --> UntaluneBScyca:::txtsize
-UnaRadesiaele:::txtsize --> Eeadsaiuccmoc:::txtsize
-Racoirmgeins:::txtsize --> Zssuskekrflo:::txtsize
-Zssuskekrflo:::txtsize --> UnlyiRaitsuiKn:::txtsize
-Zssuskekrflo:::txtsize --> Unsltnoiabs:::txtsize
+TveaaUdkdrt:::txtsize --> Uolnahcy:::txtsize
+Uolnahcy:::txtsize --> SnltiARahtoy:::txtsize
+SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
+Uolnahcy:::txtsize --> Smoaepoa:::txtsize
+Smoaepoa:::txtsize --> SnltiARahtoy:::txtsize
+Smoaepoa:::txtsize --> Sngtsssrod:::txtsize
+TveaaUdkdrt:::txtsize --> Uolnahcy:::txtsize
+Uolnahcy:::txtsize --> SnltiARahtoy:::txtsize
+SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
+Uolnahcy:::txtsize --> Smoaepoa:::txtsize
+Smoaepoa:::txtsize --> SnltiARahtoy:::txtsize
+Smoaepoa:::txtsize --> Sngtsssrod:::txtsize
 
 ```
-<i>Last updated: 2025-12-14 04:01:08.553134 (GMT+8)</i>
+<i>Last updated: 2025-12-14 08:00:34.033325 (GMT+8)</i>
 <!-- END -->
