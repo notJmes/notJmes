@@ -16,138 +16,135 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ildonttenacarlnit@{ shape: win-pane, label: "_Published Dec 14, 2025, 10:55 PM_
-Israeli leaders condemn shooting at sydney’s bondi beach, accuse canberra of allowing antisemitism" }
+GniaelUmtllcAl@{ shape: win-pane, label: "_Published Dec 15, 2025, 03:34 AM_
+German far-right lawmaker calls for us-german nationalist alliance at maga gala" }
+Gnoeevscfnhmrt@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:13 PM_
+German authorities arrest five men suspected of planning christmas market attack" }
+GnsixiotCta@{ shape: win-pane, label: "_Published Dec 14, 2025, 09:30 AM_
+Germany says it foiled extremist plot to attack christmas market" }
+Gnrakresnuc@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:26 PM_
+Germany’s christmas markets grapple with soaring security costs" }
+Gnsmtsadyt@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:33 PM_
+German christmas market opens year after deadly car attack" }
+Gnhfedraaale@{ shape: win-pane, label: "_Published Dec 21, 2024, 02:25 PM_
+Germany in shock after new deadly christmas attack; death toll rises to 5" }
+Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
+‘torn from my side’: horror of german christmas market attack" }
+Gnhifcoslo@{ shape: win-pane, label: "_Published Dec 11, 2024, 11:03 PM_
+Germany’s scholz kicks off process towards feb 23 elections" }
+UhryebrCta@{ shape: win-pane, label: "_Published Dec 13, 2025, 08:31 PM_
+Uk bishops ‘gravely concerned’ by far-right ‘christmas’ rally" }
+Nufaaalaeidaca@{ shape: win-pane, label: "_Published Dec 11, 2025, 11:25 PM_
+New church of england head sarah mullally accused of mishandling abuse complaint" }
+Wanrsfeytffecnd@{ shape: win-pane, label: "_Published Oct 03, 2025, 05:12 PM_
+Woman appointed archbishop of canterbury a historic first for the church of england" }
+Aiotrtlsobcl@{ shape: win-pane, label: "_Published Nov 12, 2024, 10:09 PM_
+Archbishop of canterbury justin welby resigns over abuse scandal" }
+
+GniaelUmtllcAl:::txtsize --> Gnoeevscfnhmrt:::txtsize
+Gnoeevscfnhmrt:::txtsize --> GnsixiotCta:::txtsize
+GnsixiotCta:::txtsize --> Gnrakresnuc:::txtsize
+GnsixiotCta:::txtsize --> Gnsmtsadyt:::txtsize
+Gnoeevscfnhmrt:::txtsize --> Gnhfedraaale:::txtsize
+Gnhfedraaale:::txtsize --> Trsoomrakt:::txtsize
+Gnhfedraaale:::txtsize --> Gnhifcoslo:::txtsize
+GniaelUmtllcAl:::txtsize --> UhryebrCta:::txtsize
+UhryebrCta:::txtsize --> Nufaaalaeidaca:::txtsize
+Nufaaalaeidaca:::txtsize --> Wanrsfeytffecnd:::txtsize
+Nufaaalaeidaca:::txtsize --> Aiotrtlsobcl:::txtsize
+
+Nryirgffe@{ shape: win-pane, label: "_Published Dec 15, 2025, 03:11 AM_
+New york city gets its first big snowfall of the season" }
+UatwrmetpyiU@{ shape: win-pane, label: "_Published Dec 11, 2025, 12:45 PM_
+Unusually strong winter storms expected to drop heavy snow in the us" }
+ActsrrsUuec@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:00 AM_
+Arctic blast grips central, north-eastern us in sub-freezing cold" }
+NrysoleavwutEn@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:22 PM_
+New york city faces risk of airline delays as heavy snow hits upstate, new england" }
+Snswtsltio@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:00 AM_
+Season’s first snowfall throws seoul into traffic chaos" }
+NrysoleavwutEn@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:22 PM_
+New york city faces risk of airline delays as heavy snow hits upstate, new england" }
+Uphdpsdaitl@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:30 PM_
+Us airports hit by disruptions ahead of thanksgiving travel boom" }
+Lotlrehuoogene@{ shape: win-pane, label: "_Published Nov 13, 2025, 02:45 PM_
+Look cool in the cold: your winter fashion guide to tokyo, shanghai, seoul and more" }
+Hsesoatfseun@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:46 PM_
+Heavy snow returns as seoul braces itself for possible disruption" }
+Snswtsltio@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:00 AM_
+Season’s first snowfall throws seoul into traffic chaos" }
+MFeafsasru@{ shape: win-pane, label: "_Published Oct 23, 2025, 12:00 PM_
+Mount fuji gets season’s first snowcap, 21 days later than usual" }
+NrysoleavwutEn@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:22 PM_
+New york city faces risk of airline delays as heavy snow hits upstate, new england" }
+CaiurturoeD@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:45 PM_
+Cold wave grips south korea with seoul’s first snow likely on dec 4" }
+Snszoiuren@{ shape: win-pane, label: "_Published Nov 18, 2025, 03:10 PM_
+Season’s first sub-zero cold grips south korea, to ease on nov 20" }
+NrysoleavwutEn@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:22 PM_
+New york city faces risk of airline delays as heavy snow hits upstate, new england" }
+
+Nryirgffe:::txtsize --> UatwrmetpyiU:::txtsize
+UatwrmetpyiU:::txtsize --> ActsrrsUuec:::txtsize
+ActsrrsUuec:::txtsize --> NrysoleavwutEn:::txtsize
+ActsrrsUuec:::txtsize --> Snswtsltio:::txtsize
+UatwrmetpyiU:::txtsize --> NrysoleavwutEn:::txtsize
+NrysoleavwutEn:::txtsize --> Uphdpsdaitl:::txtsize
+NrysoleavwutEn:::txtsize --> Lotlrehuoogene:::txtsize
+Nryirgffe:::txtsize --> Hsesoatfseun:::txtsize
+Hsesoatfseun:::txtsize --> Snswtsltio:::txtsize
+Snswtsltio:::txtsize --> MFeafsasru:::txtsize
+Snswtsltio:::txtsize --> NrysoleavwutEn:::txtsize
+Hsesoatfseun:::txtsize --> CaiurturoeD:::txtsize
+CaiurturoeD:::txtsize --> Snszoiuren:::txtsize
+CaiurturoeD:::txtsize --> NrysoleavwutEn:::txtsize
+
+HkcyerwaBBsi@{ shape: win-pane, label: "_Published Dec 15, 2025, 12:49 AM_
+Hanukkah security ramped up around world after bondi beach shootings" }
 Asdrttenaleeoie@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:30 PM_
-At least 12 dead after shooting at sydney’s bondi beach; police declare ‘terrorist incident’" }
+At least 16 dead after shooting at sydney’s bondi beach; police declare ‘terrorist incident’" }
 Prolmnnaogee@{ shape: win-pane, label: "_Published Dec 14, 2025, 08:54 PM_
 Passer-by who tackled armed man at bondi beach shooting hailed as hero" }
 Asdrttenaleeoie@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:30 PM_
-At least 12 dead after shooting at sydney’s bondi beach; police declare ‘terrorist incident’" }
+At least 16 dead after shooting at sydney’s bondi beach; police declare ‘terrorist incident’" }
 Aolaaunoaksina@{ shape: win-pane, label: "_Published Dec 14, 2025, 10:50 PM_
-‘an act of evil’: at least 12 dead, 29 injured in terrorist attack at australia’s bondi beach" }
+‘an act of evil’: at least 16 dead, 40 injured in terrorist attack at australia’s bondi beach" }
 AeccAaitfw@{ shape: win-pane, label: "_Published Dec 14, 2025, 07:28 PM_
 Anti-semitic attacks in australia since start of gaza war" }
 NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
 Netanyahu declares israel at war as hamas attacks kill over 100" }
 ArastIlfurd@{ shape: win-pane, label: "_Published Dec 11, 2024, 08:10 AM_
 ‘an outrage’: vandals paint anti-israel graffiti, burn car in sydney" }
-IlauwulMdJhu@{ shape: win-pane, label: "_Published Aug 19, 2025, 07:16 PM_
-Israel’s netanyahu says ‘weak’ australian pm abandoned jewish community" }
-IlksrAadmfaescd@{ shape: win-pane, label: "_Published Aug 18, 2025, 09:06 PM_
-Israel revokes visas for some australian diplomats after lawmaker’s visa cancelled" }
-GttrlFerwcnJolrce@{ shape: win-pane, label: "_Published Aug 04, 2025, 07:00 AM_
-Gaza student ordered to leave france after her tweets calling for jews to be killed are discovered" }
-Uevteittis@{ shape: win-pane, label: "_Published Jul 31, 2025, 09:35 PM_
-Us to refuse visas to palestinian authority officials" }
-PtnhfsitfiGus@{ shape: win-pane, label: "_Published Jul 29, 2025, 06:08 PM_
-Palestinian death toll from israeli military offensive in gaza surpasses 60,000" }
-Usarattcar@{ shape: win-pane, label: "_Published Jul 27, 2025, 11:33 PM_
-Un to use ‘humanitarian pauses’ to try to reach gaza’s starving" }
-Fipnzsoau@{ shape: win-pane, label: "_Published Jul 27, 2025, 11:05 PM_
-Food airdropped into gaza as israel opens aid routes" }
+BBsioryeceiyolrsi@{ shape: win-pane, label: "_Published Dec 15, 2025, 12:18 AM_
+Bondi beach shooting: s’pore strongly condemns act of terrorism, says pm wong in letter to australian pm" }
+Asdrttenaleeoie@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:30 PM_
+At least 16 dead after shooting at sydney’s bondi beach; police declare ‘terrorist incident’" }
+Prolmnnaogee@{ shape: win-pane, label: "_Published Dec 14, 2025, 08:54 PM_
+Passer-by who tackled armed man at bondi beach shooting hailed as hero" }
+AeccAaitfw@{ shape: win-pane, label: "_Published Dec 14, 2025, 07:28 PM_
+Anti-semitic attacks in australia since start of gaza war" }
+Aolaaunoaksina@{ shape: win-pane, label: "_Published Dec 14, 2025, 10:50 PM_
+‘an act of evil’: at least 16 dead, 40 injured in terrorist attack at australia’s bondi beach" }
+Asdrttenaleeoie@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:30 PM_
+At least 16 dead after shooting at sydney’s bondi beach; police declare ‘terrorist incident’" }
+BBsioryeceiyolrsi@{ shape: win-pane, label: "_Published Dec 15, 2025, 12:18 AM_
+Bondi beach shooting: s’pore strongly condemns act of terrorism, says pm wong in letter to australian pm" }
 
-Ildonttenacarlnit:::txtsize --> Asdrttenaleeoie:::txtsize
+HkcyerwaBBsi:::txtsize --> Asdrttenaleeoie:::txtsize
 Asdrttenaleeoie:::txtsize --> Prolmnnaogee:::txtsize
 Prolmnnaogee:::txtsize --> Asdrttenaleeoie:::txtsize
 Prolmnnaogee:::txtsize --> Aolaaunoaksina:::txtsize
 Asdrttenaleeoie:::txtsize --> AeccAaitfw:::txtsize
 AeccAaitfw:::txtsize --> NyeeawHakl:::txtsize
 AeccAaitfw:::txtsize --> ArastIlfurd:::txtsize
-Ildonttenacarlnit:::txtsize --> IlauwulMdJhu:::txtsize
-IlauwulMdJhu:::txtsize --> IlksrAadmfaescd:::txtsize
-IlksrAadmfaescd:::txtsize --> GttrlFerwcnJolrce:::txtsize
-IlksrAadmfaescd:::txtsize --> Uevteittis:::txtsize
-IlauwulMdJhu:::txtsize --> PtnhfsitfiGus:::txtsize
-PtnhfsitfiGus:::txtsize --> Usarattcar:::txtsize
-PtnhfsitfiGus:::txtsize --> Fipnzsoau:::txtsize
-
-Hsssisrattei@{ shape: win-pane, label: "_Published Dec 14, 2025, 09:04 PM_
-Hamas says israel's killing of senior commander threatens ceasefire" }
-Ililimmedia@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:28 PM_
-Israel says it kills senior hamas commander raed saed in gaza" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
-Peace finally descends on the middle east: now the battle to make it last begins" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
-Singapore strongly condemns terror attacks on israel, calls for end to violence" }
-
-Hsssisrattei:::txtsize --> Ililimmedia:::txtsize
-Ililimmedia:::txtsize --> Tdrcaaededlncbs:::txtsize
-Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
-Ililimmedia:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Hsssisrattei:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-WzptIleint:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
-Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
-
-ThasRllne@{ shape: win-pane, label: "_Published Dec 14, 2025, 08:06 PM_
-Trump hints at possible republican loss in midterms" }
-TssrRlsttghreni@{ shape: win-pane, label: "_Published Nov 24, 2025, 07:02 PM_
-Trump seizes control of republicans’ 2026 election strategy with his presidency on the line" }
-Tcasefdrsfocm@{ shape: win-pane, label: "_Published Nov 15, 2025, 07:18 AM_
-Trump cuts tariffs on beef, coffee and other foods as inflation concerns mount" }
-Tpmopsfnarrrye@{ shape: win-pane, label: "_Published Nov 13, 2025, 08:05 AM_
-Trump plans move to ease prices on coffee and bananas: treasury secretary bessent" }
-Tspaspadanop@{ shape: win-pane, label: "_Published Apr 03, 2025, 04:47 AM_
-Trump’s sweeping tariffs amp up global trade war as china, eu vow response" }
-TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
-Trump signs bill ordering us justice department to release epstein files" }
-Ugpsufrspnsitm@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:23 AM_
-Us congress passes measure to force release of epstein files, sending it to trump" }
-Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
-Epstein files to be released to us public: what are they?" }
-TdragnfitirsPd@{ shape: win-pane, label: "_Published Jan 21, 2025, 01:02 AM_
-Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
-Tpsrmtioutv@{ shape: win-pane, label: "_Published Jan 20, 2025, 05:54 AM_
-Trump promises harsh immigration limits on inauguration eve" }
-SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
-TkieiraTvond@{ shape: win-pane, label: "_Published Jan 19, 2025, 11:30 PM_
-Tiktok says it is restoring service after trump vows to extend deadline" }
-TttSecaaxhue@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:40 AM_
-Trump threatens us trade policy of ‘tariff and tax’ on other countries" }
-Fgohesrtftso@{ shape: win-pane, label: "_Published Jan 18, 2025, 05:00 AM_
-Facing a flood of chinese goods and trump’s tariffs, what can asean do?" }
-TdragnfitirsPd@{ shape: win-pane, label: "_Published Jan 21, 2025, 01:02 AM_
-Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
-
-ThasRllne:::txtsize --> TssrRlsttghreni:::txtsize
-TssrRlsttghreni:::txtsize --> Tcasefdrsfocm:::txtsize
-Tcasefdrsfocm:::txtsize --> Tpmopsfnarrrye:::txtsize
-Tcasefdrsfocm:::txtsize --> Tspaspadanop:::txtsize
-TssrRlsttghreni:::txtsize --> TsBrnuertlEie:::txtsize
-TsBrnuertlEie:::txtsize --> Ugpsufrspnsitm:::txtsize
-TsBrnuertlEie:::txtsize --> Eieeaobhe:::txtsize
-ThasRllne:::txtsize --> TdragnfitirsPd:::txtsize
-TdragnfitirsPd:::txtsize --> Tpsrmtioutv:::txtsize
-Tpsrmtioutv:::txtsize --> SiUiinenWn:::txtsize
-Tpsrmtioutv:::txtsize --> TkieiraTvond:::txtsize
-TdragnfitirsPd:::txtsize --> TttSecaaxhue:::txtsize
-TttSecaaxhue:::txtsize --> Fgohesrtftso:::txtsize
-TttSecaaxhue:::txtsize --> TdragnfitirsPd:::txtsize
+HkcyerwaBBsi:::txtsize --> BBsioryeceiyolrsi:::txtsize
+BBsioryeceiyolrsi:::txtsize --> Asdrttenaleeoie:::txtsize
+Asdrttenaleeoie:::txtsize --> Prolmnnaogee:::txtsize
+Asdrttenaleeoie:::txtsize --> AeccAaitfw:::txtsize
+BBsioryeceiyolrsi:::txtsize --> Aolaaunoaksina:::txtsize
+Aolaaunoaksina:::txtsize --> Asdrttenaleeoie:::txtsize
+Aolaaunoaksina:::txtsize --> BBsioryeceiyolrsi:::txtsize
 
 ```
-<i>Last updated: 2025-12-15 00:00:30.203368 (GMT+8)</i>
+<i>Last updated: 2025-12-15 04:01:02.769638 (GMT+8)</i>
 <!-- END -->
