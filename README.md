@@ -16,141 +16,138 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-UnlyhTiaock@{ shape: win-pane, label: "_Published Dec 14, 2025, 07:24 PM_
-Ukraine’s zelensky ditches nato ambition ahead of peace talks" }
-Zsyamroohb@{ shape: win-pane, label: "_Published Dec 22, 2024, 09:14 PM_
-Zelensky says ukraine’s membership of nato is ‘achievable’" }
-Zsircuacpni@{ shape: win-pane, label: "_Published Dec 20, 2024, 08:40 AM_
-Zelensky raises prospect of european peacekeepers in ukraine" }
-Zsdwuadsps@{ shape: win-pane, label: "_Published Dec 19, 2024, 05:29 AM_
-Zelensky huddles with european leaders as trump looms" }
-Wmalysnprs@{ shape: win-pane, label: "_Published Dec 20, 2024, 12:23 AM_
-‘welcome donald’: zelensky seeks to win trump to ukraine’s side" }
-Rasaerskomdmmo@{ shape: win-pane, label: "_Published Dec 20, 2024, 10:31 PM_
-Russian missile barrage on ukraine’s kyiv kills one, damages diplomatic missions" }
-Tkdsmlkere@{ shape: win-pane, label: "_Published Dec 20, 2024, 12:46 AM_
-Three killed by russian missile in ukraine’s kharkiv region" }
-Ttoelaeackeciy@{ shape: win-pane, label: "_Published Dec 20, 2024, 02:24 PM_
-Too little too late: us allies say biden strategy cost ukraine chance of victory" }
-Uaouareaoost@{ shape: win-pane, label: "_Published Dec 13, 2025, 07:28 PM_
-Us, ukraine to discuss ceasefire in berlin ahead of european summit" }
-UoeTairocitde@{ shape: win-pane, label: "_Published Dec 12, 2025, 01:30 PM_
-Us involvement in thai-cambodian border conflict unlikely to produce peace" }
-Cdkadefitetnerivo@{ shape: win-pane, label: "_Published Dec 11, 2025, 12:30 PM_
-Cambodia takes thailand border conflict issue to un security council, seeks urgent intervention" }
-Tnssprberpaa@{ shape: win-pane, label: "_Published Dec 12, 2025, 05:50 PM_
-Trump, not russia, is europe’s formidable foe in ukraine peace advocacy" }
-Eeadsaiuccmoc@{ shape: win-pane, label: "_Published Dec 11, 2025, 01:32 AM_
-European leaders discuss ukraine with trump at ‘critical moment’ for peace" }
-Twtsalorilbavrw@{ shape: win-pane, label: "_Published Nov 12, 2025, 03:00 PM_
-The eu wants to raise financial support for ukraine. will member states ever agree how?" }
+Ildonttenacarlnit@{ shape: win-pane, label: "_Published Dec 14, 2025, 10:55 PM_
+Israeli leaders condemn shooting at sydney’s bondi beach, accuse canberra of allowing antisemitism" }
+Asdrttenaleeoie@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:30 PM_
+At least 12 dead after shooting at sydney’s bondi beach; police declare ‘terrorist incident’" }
+Prolmnnaogee@{ shape: win-pane, label: "_Published Dec 14, 2025, 08:54 PM_
+Passer-by who tackled armed man at bondi beach shooting hailed as hero" }
+Asdrttenaleeoie@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:30 PM_
+At least 12 dead after shooting at sydney’s bondi beach; police declare ‘terrorist incident’" }
+Aolaaunoaksina@{ shape: win-pane, label: "_Published Dec 14, 2025, 10:50 PM_
+‘an act of evil’: at least 12 dead, 29 injured in terrorist attack at australia’s bondi beach" }
+AeccAaitfw@{ shape: win-pane, label: "_Published Dec 14, 2025, 07:28 PM_
+Anti-semitic attacks in australia since start of gaza war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+ArastIlfurd@{ shape: win-pane, label: "_Published Dec 11, 2024, 08:10 AM_
+‘an outrage’: vandals paint anti-israel graffiti, burn car in sydney" }
+IlauwulMdJhu@{ shape: win-pane, label: "_Published Aug 19, 2025, 07:16 PM_
+Israel’s netanyahu says ‘weak’ australian pm abandoned jewish community" }
+IlksrAadmfaescd@{ shape: win-pane, label: "_Published Aug 18, 2025, 09:06 PM_
+Israel revokes visas for some australian diplomats after lawmaker’s visa cancelled" }
+GttrlFerwcnJolrce@{ shape: win-pane, label: "_Published Aug 04, 2025, 07:00 AM_
+Gaza student ordered to leave france after her tweets calling for jews to be killed are discovered" }
+Uevteittis@{ shape: win-pane, label: "_Published Jul 31, 2025, 09:35 PM_
+Us to refuse visas to palestinian authority officials" }
+PtnhfsitfiGus@{ shape: win-pane, label: "_Published Jul 29, 2025, 06:08 PM_
+Palestinian death toll from israeli military offensive in gaza surpasses 60,000" }
+Usarattcar@{ shape: win-pane, label: "_Published Jul 27, 2025, 11:33 PM_
+Un to use ‘humanitarian pauses’ to try to reach gaza’s starving" }
+Fipnzsoau@{ shape: win-pane, label: "_Published Jul 27, 2025, 11:05 PM_
+Food airdropped into gaza as israel opens aid routes" }
 
-UnlyhTiaock:::txtsize --> Zsyamroohb:::txtsize
-Zsyamroohb:::txtsize --> Zsircuacpni:::txtsize
-Zsircuacpni:::txtsize --> Zsdwuadsps:::txtsize
-Zsircuacpni:::txtsize --> Wmalysnprs:::txtsize
-Zsyamroohb:::txtsize --> Rasaerskomdmmo:::txtsize
-Rasaerskomdmmo:::txtsize --> Tkdsmlkere:::txtsize
-Rasaerskomdmmo:::txtsize --> Ttoelaeackeciy:::txtsize
-UnlyhTiaock:::txtsize --> Uaouareaoost:::txtsize
-Uaouareaoost:::txtsize --> UoeTairocitde:::txtsize
-UoeTairocitde:::txtsize --> Cdkadefitetnerivo:::txtsize
-Uaouareaoost:::txtsize --> Tnssprberpaa:::txtsize
-Tnssprberpaa:::txtsize --> Eeadsaiuccmoc:::txtsize
-Tnssprberpaa:::txtsize --> Twtsalorilbavrw:::txtsize
+Ildonttenacarlnit:::txtsize --> Asdrttenaleeoie:::txtsize
+Asdrttenaleeoie:::txtsize --> Prolmnnaogee:::txtsize
+Prolmnnaogee:::txtsize --> Asdrttenaleeoie:::txtsize
+Prolmnnaogee:::txtsize --> Aolaaunoaksina:::txtsize
+Asdrttenaleeoie:::txtsize --> AeccAaitfw:::txtsize
+AeccAaitfw:::txtsize --> NyeeawHakl:::txtsize
+AeccAaitfw:::txtsize --> ArastIlfurd:::txtsize
+Ildonttenacarlnit:::txtsize --> IlauwulMdJhu:::txtsize
+IlauwulMdJhu:::txtsize --> IlksrAadmfaescd:::txtsize
+IlksrAadmfaescd:::txtsize --> GttrlFerwcnJolrce:::txtsize
+IlksrAadmfaescd:::txtsize --> Uevteittis:::txtsize
+IlauwulMdJhu:::txtsize --> PtnhfsitfiGus:::txtsize
+PtnhfsitfiGus:::txtsize --> Usarattcar:::txtsize
+PtnhfsitfiGus:::txtsize --> Fipnzsoau:::txtsize
 
-Gnoeevscfnhmrt@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:13 PM_
-German authorities arrest five men suspected of planning christmas market attack" }
-GnsixiotCta@{ shape: win-pane, label: "_Published Dec 14, 2025, 09:30 AM_
-Germany says it foiled extremist plot to attack christmas market" }
-Gnrakresnuc@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:26 PM_
-Germany’s christmas markets grapple with soaring security costs" }
-Gnhfedraaale@{ shape: win-pane, label: "_Published Dec 21, 2024, 02:25 PM_
-Germany in shock after new deadly christmas attack; death toll rises to 5" }
-Tlelrtrirnaynm@{ shape: win-pane, label: "_Published Mar 03, 2025, 08:55 PM_
-Two killed, several injured after car rams into crowd in german city of mannheim" }
-Gnsmtsadyt@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:33 PM_
-German christmas market opens year after deadly car attack" }
-Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
-‘torn from my side’: horror of german christmas market attack" }
-Sdroadyaisea@{ shape: win-pane, label: "_Published Nov 10, 2025, 03:16 PM_
-Saudi doctor goes on trial for deadly german christmas market attack" }
-Gnhfedraaale@{ shape: win-pane, label: "_Published Dec 21, 2024, 02:25 PM_
-Germany in shock after new deadly christmas attack; death toll rises to 5" }
-Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
-‘torn from my side’: horror of german christmas market attack" }
-SmrdralnagceCta@{ shape: win-pane, label: "_Published Dec 21, 2024, 06:01 AM_
-Saudi man arrested after at least 2 killed in car ramming attack at german christmas market" }
-CinoCtaimneak@{ shape: win-pane, label: "_Published Dec 21, 2024, 03:42 AM_
-Car drives into crowd at christmas market in germany, in suspected attack" }
-Gnhifcoslo@{ shape: win-pane, label: "_Published Dec 11, 2024, 11:03 PM_
-Germany’s scholz kicks off process towards feb 23 elections" }
-Gnunrhpis@{ shape: win-pane, label: "_Published Nov 21, 2024, 05:00 AM_
-Germany struggling to break the grip of twin crises" }
-Gnieinpnntfgt@{ shape: win-pane, label: "_Published Dec 07, 2024, 09:21 PM_
-German far-right leader is chinese-speaking economist with foreign partner" }
+Hsssisrattei@{ shape: win-pane, label: "_Published Dec 14, 2025, 09:04 PM_
+Hamas says israel's killing of senior commander threatens ceasefire" }
+Ililimmedia@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:28 PM_
+Israel says it kills senior hamas commander raed saed in gaza" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
+Singapore strongly condemns terror attacks on israel, calls for end to violence" }
 
-Gnoeevscfnhmrt:::txtsize --> GnsixiotCta:::txtsize
-GnsixiotCta:::txtsize --> Gnrakresnuc:::txtsize
-Gnrakresnuc:::txtsize --> Gnhfedraaale:::txtsize
-Gnrakresnuc:::txtsize --> Tlelrtrirnaynm:::txtsize
-GnsixiotCta:::txtsize --> Gnsmtsadyt:::txtsize
-Gnsmtsadyt:::txtsize --> Trsoomrakt:::txtsize
-Gnsmtsadyt:::txtsize --> Sdroadyaisea:::txtsize
-Gnoeevscfnhmrt:::txtsize --> Gnhfedraaale:::txtsize
-Gnhfedraaale:::txtsize --> Trsoomrakt:::txtsize
-Trsoomrakt:::txtsize --> SmrdralnagceCta:::txtsize
-Trsoomrakt:::txtsize --> CinoCtaimneak:::txtsize
-Gnhfedraaale:::txtsize --> Gnhifcoslo:::txtsize
-Gnhifcoslo:::txtsize --> Gnunrhpis:::txtsize
-Gnhifcoslo:::txtsize --> Gnieinpnntfgt:::txtsize
+Hsssisrattei:::txtsize --> Ililimmedia:::txtsize
+Ililimmedia:::txtsize --> Tdrcaaededlncbs:::txtsize
+Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
+Ililimmedia:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Hsssisrattei:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+WzptIleint:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
+Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
 
-Hrerrayody@{ shape: win-pane, label: "_Published Dec 14, 2025, 12:10 PM_
-Hungary winemakers fear disease may ‘wipe out’ industry" }
-Shurcmlovwal@{ shape: win-pane, label: "_Published Dec 14, 2025, 03:12 AM_
-‘stop the slaughter’: french farmers block roads over cow disease cull" }
-Bleprnewiir@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:10 AM_
-Bird flu wiped out poultry, and now the screw worm is coming for beef" }
-Mogcessrougerw@{ shape: win-pane, label: "_Published May 14, 2025, 12:12 AM_
-Mexico to tighten cattle flows from south, rules out shutting border over screwworm" }
-SesMothnem@{ shape: win-pane, label: "_Published Jul 11, 2025, 09:53 PM_
-Sniffer dogs help mexico fight flesh-eating screwworm" }
-Blbboaaaet@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:25 AM_
-Bird flu may be airborne on us dairy farms, say scientists" }
-Bleprnewiir@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:10 AM_
-Bird flu wiped out poultry, and now the screw worm is coming for beef" }
-SdfronitSy@{ shape: win-pane, label: "_Published Feb 06, 2025, 05:33 AM_
-Second bird flu strain found in us dairy cattle, usda says" }
-Iaieenareis@{ shape: win-pane, label: "_Published Nov 14, 2025, 03:45 PM_
-Italian fruit detective racing to save forgotten varieties" }
-GiaereautostStn@{ shape: win-pane, label: "_Published Jul 18, 2025, 04:06 PM_
-Georgia’s tea growers work to revive an industry that collapsed with the soviet union" }
-FodfSgodln@{ shape: win-pane, label: "_Published Jul 13, 2025, 12:35 PM_
-Farm worker dies after us immigration raid in california" }
-LaanutipdMu@{ shape: win-pane, label: "_Published Apr 28, 2025, 02:15 PM_
-Lush landscapes and a gourmet trail in gippsland near melbourne" }
-Csasnverrat@{ shape: win-pane, label: "_Published Jul 09, 2025, 12:20 PM_
-China’s ‘new farmers’ learn to live-stream in rural revitalisation" }
-HifnspUmnooe@{ shape: win-pane, label: "_Published Apr 21, 2025, 01:01 AM_
-How china is finding ways to replace us farmers in response to trade war" }
-WoatorWainaakv@{ shape: win-pane, label: "_Published Jun 19, 2025, 11:01 AM_
-Want to howl and eat raw food for work? ‘wild man’ job in chinese national park goes viral" }
+ThasRllne@{ shape: win-pane, label: "_Published Dec 14, 2025, 08:06 PM_
+Trump hints at possible republican loss in midterms" }
+TssrRlsttghreni@{ shape: win-pane, label: "_Published Nov 24, 2025, 07:02 PM_
+Trump seizes control of republicans’ 2026 election strategy with his presidency on the line" }
+Tcasefdrsfocm@{ shape: win-pane, label: "_Published Nov 15, 2025, 07:18 AM_
+Trump cuts tariffs on beef, coffee and other foods as inflation concerns mount" }
+Tpmopsfnarrrye@{ shape: win-pane, label: "_Published Nov 13, 2025, 08:05 AM_
+Trump plans move to ease prices on coffee and bananas: treasury secretary bessent" }
+Tspaspadanop@{ shape: win-pane, label: "_Published Apr 03, 2025, 04:47 AM_
+Trump’s sweeping tariffs amp up global trade war as china, eu vow response" }
+TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
+Trump signs bill ordering us justice department to release epstein files" }
+Ugpsufrspnsitm@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:23 AM_
+Us congress passes measure to force release of epstein files, sending it to trump" }
+Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
+Epstein files to be released to us public: what are they?" }
+TdragnfitirsPd@{ shape: win-pane, label: "_Published Jan 21, 2025, 01:02 AM_
+Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
+Tpsrmtioutv@{ shape: win-pane, label: "_Published Jan 20, 2025, 05:54 AM_
+Trump promises harsh immigration limits on inauguration eve" }
+SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
+Storming of us capitol: timeline of key events in washington" }
+TkieiraTvond@{ shape: win-pane, label: "_Published Jan 19, 2025, 11:30 PM_
+Tiktok says it is restoring service after trump vows to extend deadline" }
+TttSecaaxhue@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:40 AM_
+Trump threatens us trade policy of ‘tariff and tax’ on other countries" }
+Fgohesrtftso@{ shape: win-pane, label: "_Published Jan 18, 2025, 05:00 AM_
+Facing a flood of chinese goods and trump’s tariffs, what can asean do?" }
+TdragnfitirsPd@{ shape: win-pane, label: "_Published Jan 21, 2025, 01:02 AM_
+Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
 
-Hrerrayody:::txtsize --> Shurcmlovwal:::txtsize
-Shurcmlovwal:::txtsize --> Bleprnewiir:::txtsize
-Bleprnewiir:::txtsize --> Mogcessrougerw:::txtsize
-Bleprnewiir:::txtsize --> SesMothnem:::txtsize
-Shurcmlovwal:::txtsize --> Blbboaaaet:::txtsize
-Blbboaaaet:::txtsize --> Bleprnewiir:::txtsize
-Blbboaaaet:::txtsize --> SdfronitSy:::txtsize
-Hrerrayody:::txtsize --> Iaieenareis:::txtsize
-Iaieenareis:::txtsize --> GiaereautostStn:::txtsize
-GiaereautostStn:::txtsize --> FodfSgodln:::txtsize
-GiaereautostStn:::txtsize --> LaanutipdMu:::txtsize
-Iaieenareis:::txtsize --> Csasnverrat:::txtsize
-Csasnverrat:::txtsize --> HifnspUmnooe:::txtsize
-Csasnverrat:::txtsize --> WoatorWainaakv:::txtsize
+ThasRllne:::txtsize --> TssrRlsttghreni:::txtsize
+TssrRlsttghreni:::txtsize --> Tcasefdrsfocm:::txtsize
+Tcasefdrsfocm:::txtsize --> Tpmopsfnarrrye:::txtsize
+Tcasefdrsfocm:::txtsize --> Tspaspadanop:::txtsize
+TssrRlsttghreni:::txtsize --> TsBrnuertlEie:::txtsize
+TsBrnuertlEie:::txtsize --> Ugpsufrspnsitm:::txtsize
+TsBrnuertlEie:::txtsize --> Eieeaobhe:::txtsize
+ThasRllne:::txtsize --> TdragnfitirsPd:::txtsize
+TdragnfitirsPd:::txtsize --> Tpsrmtioutv:::txtsize
+Tpsrmtioutv:::txtsize --> SiUiinenWn:::txtsize
+Tpsrmtioutv:::txtsize --> TkieiraTvond:::txtsize
+TdragnfitirsPd:::txtsize --> TttSecaaxhue:::txtsize
+TttSecaaxhue:::txtsize --> Fgohesrtftso:::txtsize
+TttSecaaxhue:::txtsize --> TdragnfitirsPd:::txtsize
 
 ```
-<i>Last updated: 2025-12-14 20:00:55.528705 (GMT+8)</i>
+<i>Last updated: 2025-12-15 00:00:30.203368 (GMT+8)</i>
 <!-- END -->
