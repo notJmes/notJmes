@@ -16,6 +16,95 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+UnlyhTiaock@{ shape: win-pane, label: "_Published Dec 14, 2025, 07:24 PM_
+Ukraine’s zelensky ditches nato ambition ahead of peace talks" }
+Zsyamroohb@{ shape: win-pane, label: "_Published Dec 22, 2024, 09:14 PM_
+Zelensky says ukraine’s membership of nato is ‘achievable’" }
+Zsircuacpni@{ shape: win-pane, label: "_Published Dec 20, 2024, 08:40 AM_
+Zelensky raises prospect of european peacekeepers in ukraine" }
+Zsdwuadsps@{ shape: win-pane, label: "_Published Dec 19, 2024, 05:29 AM_
+Zelensky huddles with european leaders as trump looms" }
+Wmalysnprs@{ shape: win-pane, label: "_Published Dec 20, 2024, 12:23 AM_
+‘welcome donald’: zelensky seeks to win trump to ukraine’s side" }
+Rasaerskomdmmo@{ shape: win-pane, label: "_Published Dec 20, 2024, 10:31 PM_
+Russian missile barrage on ukraine’s kyiv kills one, damages diplomatic missions" }
+Tkdsmlkere@{ shape: win-pane, label: "_Published Dec 20, 2024, 12:46 AM_
+Three killed by russian missile in ukraine’s kharkiv region" }
+Ttoelaeackeciy@{ shape: win-pane, label: "_Published Dec 20, 2024, 02:24 PM_
+Too little too late: us allies say biden strategy cost ukraine chance of victory" }
+Uaouareaoost@{ shape: win-pane, label: "_Published Dec 13, 2025, 07:28 PM_
+Us, ukraine to discuss ceasefire in berlin ahead of european summit" }
+UoeTairocitde@{ shape: win-pane, label: "_Published Dec 12, 2025, 01:30 PM_
+Us involvement in thai-cambodian border conflict unlikely to produce peace" }
+Cdkadefitetnerivo@{ shape: win-pane, label: "_Published Dec 11, 2025, 12:30 PM_
+Cambodia takes thailand border conflict issue to un security council, seeks urgent intervention" }
+Tnssprberpaa@{ shape: win-pane, label: "_Published Dec 12, 2025, 05:50 PM_
+Trump, not russia, is europe’s formidable foe in ukraine peace advocacy" }
+Eeadsaiuccmoc@{ shape: win-pane, label: "_Published Dec 11, 2025, 01:32 AM_
+European leaders discuss ukraine with trump at ‘critical moment’ for peace" }
+Twtsalorilbavrw@{ shape: win-pane, label: "_Published Nov 12, 2025, 03:00 PM_
+The eu wants to raise financial support for ukraine. will member states ever agree how?" }
+
+UnlyhTiaock:::txtsize --> Zsyamroohb:::txtsize
+Zsyamroohb:::txtsize --> Zsircuacpni:::txtsize
+Zsircuacpni:::txtsize --> Zsdwuadsps:::txtsize
+Zsircuacpni:::txtsize --> Wmalysnprs:::txtsize
+Zsyamroohb:::txtsize --> Rasaerskomdmmo:::txtsize
+Rasaerskomdmmo:::txtsize --> Tkdsmlkere:::txtsize
+Rasaerskomdmmo:::txtsize --> Ttoelaeackeciy:::txtsize
+UnlyhTiaock:::txtsize --> Uaouareaoost:::txtsize
+Uaouareaoost:::txtsize --> UoeTairocitde:::txtsize
+UoeTairocitde:::txtsize --> Cdkadefitetnerivo:::txtsize
+Uaouareaoost:::txtsize --> Tnssprberpaa:::txtsize
+Tnssprberpaa:::txtsize --> Eeadsaiuccmoc:::txtsize
+Tnssprberpaa:::txtsize --> Twtsalorilbavrw:::txtsize
+
+Gnoeevscfnhmrt@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:13 PM_
+German authorities arrest five men suspected of planning christmas market attack" }
+GnsixiotCta@{ shape: win-pane, label: "_Published Dec 14, 2025, 09:30 AM_
+Germany says it foiled extremist plot to attack christmas market" }
+Gnrakresnuc@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:26 PM_
+Germany’s christmas markets grapple with soaring security costs" }
+Gnhfedraaale@{ shape: win-pane, label: "_Published Dec 21, 2024, 02:25 PM_
+Germany in shock after new deadly christmas attack; death toll rises to 5" }
+Tlelrtrirnaynm@{ shape: win-pane, label: "_Published Mar 03, 2025, 08:55 PM_
+Two killed, several injured after car rams into crowd in german city of mannheim" }
+Gnsmtsadyt@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:33 PM_
+German christmas market opens year after deadly car attack" }
+Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
+‘torn from my side’: horror of german christmas market attack" }
+Sdroadyaisea@{ shape: win-pane, label: "_Published Nov 10, 2025, 03:16 PM_
+Saudi doctor goes on trial for deadly german christmas market attack" }
+Gnhfedraaale@{ shape: win-pane, label: "_Published Dec 21, 2024, 02:25 PM_
+Germany in shock after new deadly christmas attack; death toll rises to 5" }
+Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
+‘torn from my side’: horror of german christmas market attack" }
+SmrdralnagceCta@{ shape: win-pane, label: "_Published Dec 21, 2024, 06:01 AM_
+Saudi man arrested after at least 2 killed in car ramming attack at german christmas market" }
+CinoCtaimneak@{ shape: win-pane, label: "_Published Dec 21, 2024, 03:42 AM_
+Car drives into crowd at christmas market in germany, in suspected attack" }
+Gnhifcoslo@{ shape: win-pane, label: "_Published Dec 11, 2024, 11:03 PM_
+Germany’s scholz kicks off process towards feb 23 elections" }
+Gnunrhpis@{ shape: win-pane, label: "_Published Nov 21, 2024, 05:00 AM_
+Germany struggling to break the grip of twin crises" }
+Gnieinpnntfgt@{ shape: win-pane, label: "_Published Dec 07, 2024, 09:21 PM_
+German far-right leader is chinese-speaking economist with foreign partner" }
+
+Gnoeevscfnhmrt:::txtsize --> GnsixiotCta:::txtsize
+GnsixiotCta:::txtsize --> Gnrakresnuc:::txtsize
+Gnrakresnuc:::txtsize --> Gnhfedraaale:::txtsize
+Gnrakresnuc:::txtsize --> Tlelrtrirnaynm:::txtsize
+GnsixiotCta:::txtsize --> Gnsmtsadyt:::txtsize
+Gnsmtsadyt:::txtsize --> Trsoomrakt:::txtsize
+Gnsmtsadyt:::txtsize --> Sdroadyaisea:::txtsize
+Gnoeevscfnhmrt:::txtsize --> Gnhfedraaale:::txtsize
+Gnhfedraaale:::txtsize --> Trsoomrakt:::txtsize
+Trsoomrakt:::txtsize --> SmrdralnagceCta:::txtsize
+Trsoomrakt:::txtsize --> CinoCtaimneak:::txtsize
+Gnhfedraaale:::txtsize --> Gnhifcoslo:::txtsize
+Gnhifcoslo:::txtsize --> Gnunrhpis:::txtsize
+Gnhifcoslo:::txtsize --> Gnieinpnntfgt:::txtsize
+
 Hrerrayody@{ shape: win-pane, label: "_Published Dec 14, 2025, 12:10 PM_
 Hungary winemakers fear disease may ‘wipe out’ industry" }
 Shurcmlovwal@{ shape: win-pane, label: "_Published Dec 14, 2025, 03:12 AM_
@@ -62,74 +151,6 @@ Iaieenareis:::txtsize --> Csasnverrat:::txtsize
 Csasnverrat:::txtsize --> HifnspUmnooe:::txtsize
 Csasnverrat:::txtsize --> WoatorWainaakv:::txtsize
 
-Finpdnnoynm@{ shape: win-pane, label: "_Published Dec 14, 2025, 11:40 AM_
-For children of deported parents, lonely journeys to a new home" }
-Irnipiditoayprol@{ shape: win-pane, label: "_Published Dec 11, 2025, 07:28 PM_
-Ice threatens family separation, indefinite detention to satisfy trump deportation goal" }
-TdragnfitirsPd@{ shape: win-pane, label: "_Published Jan 21, 2025, 01:02 AM_
-Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
-Tpsrmtioutv@{ shape: win-pane, label: "_Published Jan 20, 2025, 05:54 AM_
-Trump promises harsh immigration limits on inauguration eve" }
-TttSecaaxhue@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:40 AM_
-Trump threatens us trade policy of ‘tariff and tax’ on other countries" }
-Iermncnktngoe@{ shape: win-pane, label: "_Published Aug 27, 2025, 06:38 AM_
-Inside ice, trump’s migrant crackdown is taking a toll on the agency officers" }
-Iasccsidate@{ shape: win-pane, label: "_Published Jun 11, 2025, 06:23 AM_
-Ice’s tactics draw criticism as it triples daily arrest targets" }
-
-Finpdnnoynm:::txtsize --> Irnipiditoayprol:::txtsize
-Irnipiditoayprol:::txtsize --> TdragnfitirsPd:::txtsize
-TdragnfitirsPd:::txtsize --> Tpsrmtioutv:::txtsize
-TdragnfitirsPd:::txtsize --> TttSecaaxhue:::txtsize
-Irnipiditoayprol:::txtsize --> Iermncnktngoe:::txtsize
-Iermncnktngoe:::txtsize --> Iasccsidate:::txtsize
-
-Wsebiaasoiiogair@{ shape: win-pane, label: "_Published Dec 14, 2025, 09:40 AM_
-Witnesses describe anxious campus as news of brown university shooting spread, police arrived" }
-kddtogoiinfnna@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
-2 killed, 9 wounded after shooting at brown university; manhunt for gunman underway" }
-SiKcaiileecd@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:03 AM_
-Shooting at kentucky state university kills one, suspect in custody" }
-SceasiOhnt@{ shape: win-pane, label: "_Published Dec 08, 2025, 07:20 PM_
-Suspect arrested after shooting in oslo shopping centre" }
-Hrfrsymtgafgenyg@{ shape: win-pane, label: "_Published Dec 05, 2025, 10:30 PM_
-Harvard professor arrested by us immigration agents after firing pellet gun near synagogue" }
-Asdndrtaspii@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:58 PM_
-At least 1 dead and 3 injured after shootings at mississippi universities" }
-Asddweissi@{ shape: win-pane, label: "_Published Oct 11, 2025, 11:16 PM_
-At least 4 dead and a dozen wounded in mississippi shooting" }
-Odweadaog@{ shape: win-pane, label: "_Published Oct 06, 2025, 07:20 AM_
-Over a dozen wounded in rare sydney mass shooting" }
-kddtogoiinfnna@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
-2 killed, 9 wounded after shooting at brown university; manhunt for gunman underway" }
-SiKcaiileecd@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:03 AM_
-Shooting at kentucky state university kills one, suspect in custody" }
-SceasiOhnt@{ shape: win-pane, label: "_Published Dec 08, 2025, 07:20 PM_
-Suspect arrested after shooting in oslo shopping centre" }
-Hrfrsymtgafgenyg@{ shape: win-pane, label: "_Published Dec 05, 2025, 10:30 PM_
-Harvard professor arrested by us immigration agents after firing pellet gun near synagogue" }
-Asdndrtaspii@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:58 PM_
-At least 1 dead and 3 injured after shootings at mississippi universities" }
-Asddweissi@{ shape: win-pane, label: "_Published Oct 11, 2025, 11:16 PM_
-At least 4 dead and a dozen wounded in mississippi shooting" }
-Odweadaog@{ shape: win-pane, label: "_Published Oct 06, 2025, 07:20 AM_
-Over a dozen wounded in rare sydney mass shooting" }
-
-Wsebiaasoiiogair:::txtsize --> kddtogoiinfnna:::txtsize
-kddtogoiinfnna:::txtsize --> SiKcaiileecd:::txtsize
-SiKcaiileecd:::txtsize --> SceasiOhnt:::txtsize
-SiKcaiileecd:::txtsize --> Hrfrsymtgafgenyg:::txtsize
-kddtogoiinfnna:::txtsize --> Asdndrtaspii:::txtsize
-Asdndrtaspii:::txtsize --> Asddweissi:::txtsize
-Asdndrtaspii:::txtsize --> Odweadaog:::txtsize
-Wsebiaasoiiogair:::txtsize --> kddtogoiinfnna:::txtsize
-kddtogoiinfnna:::txtsize --> SiKcaiileecd:::txtsize
-SiKcaiileecd:::txtsize --> SceasiOhnt:::txtsize
-SiKcaiileecd:::txtsize --> Hrfrsymtgafgenyg:::txtsize
-kddtogoiinfnna:::txtsize --> Asdndrtaspii:::txtsize
-Asdndrtaspii:::txtsize --> Asddweissi:::txtsize
-Asdndrtaspii:::txtsize --> Odweadaog:::txtsize
-
 ```
-<i>Last updated: 2025-12-14 16:00:24.353452 (GMT+8)</i>
+<i>Last updated: 2025-12-14 20:00:55.528705 (GMT+8)</i>
 <!-- END -->
