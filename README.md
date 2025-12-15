@@ -16,105 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-PLeulcdcok@{ shape: win-pane, label: "_Published Dec 15, 2025, 05:59 PM_
-Paris louvre museum will stay closed on dec 15 due to strike" }
-Levcwesaov@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:57 PM_
-Louvre thieves escaped with 30 seconds to spare, probe reveals" }
-Wltsrembapausrt@{ shape: win-pane, label: "_Published Dec 08, 2025, 12:01 AM_
-Water leak at paris’ louvre museum damages books at egyptian antiquities department" }
-Leteidlaerrsl@{ shape: win-pane, label: "_Published Oct 22, 2025, 02:52 AM_
-Louvre heist losses estimated at $133 million as museum director faces grilling" }
-Leulytsisturs@{ shape: win-pane, label: "_Published Nov 06, 2025, 05:30 PM_
-Louvre museum will need years to fix security issues, state auditor finds" }
-MoirlovLe@{ shape: win-pane, label: "_Published Nov 28, 2025, 03:03 AM_
-Most non-eu visitors will pay 45% more to visit louvre from 2026" }
+SfAbpnnoi@{ shape: win-pane, label: "_Published Dec 15, 2025, 11:40 PM_
+Spain fines airbnb $97m for posting banned properties" }
+Bosniefotss@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:45 PM_
+Bali ponders airbnb ban in latest effort to curb tourism mess" }
+Blorehlsitlcsl@{ shape: win-pane, label: "_Published Nov 19, 2025, 01:00 PM_
+Bali plans to ban private beaches as locals, tourists struggle to access shorelines" }
+PiaspIeesaa@{ shape: win-pane, label: "_Published Aug 01, 2025, 09:06 AM_
+Paradise beaches sit empty as indonesia bets on saturated bali" }
+Ieetfniaoiib@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:41 AM_
+Indonesia weighs transforming bali into a regional financial hub" }
 
-PLeulcdcok:::txtsize --> Levcwesaov:::txtsize
-Levcwesaov:::txtsize --> Wltsrembapausrt:::txtsize
-Wltsrembapausrt:::txtsize --> Leteidlaerrsl:::txtsize
-Wltsrembapausrt:::txtsize --> Leulytsisturs:::txtsize
-PLeulcdcok:::txtsize --> MoirlovLe:::txtsize
+SfAbpnnoi:::txtsize --> Bosniefotss:::txtsize
+Bosniefotss:::txtsize --> Blorehlsitlcsl:::txtsize
+Blorehlsitlcsl:::txtsize --> PiaspIeesaa:::txtsize
+Blorehlsitlcsl:::txtsize --> Ieetfniaoiib:::txtsize
 
-Decslnairtfrriisr@{ shape: win-pane, label: "_Published Dec 15, 2025, 05:45 PM_
-Drunken raccoon a serial offender, says animal protection officer after virginia liquor store raid" }
-StacriSorskaobo@{ shape: win-pane, label: "_Published Dec 03, 2025, 01:38 PM_
-‘spirit animal’: raccoon breaks into us liquor store, gets drunk and passes out in bathroom" }
-Aahhnrhfomaerdyi@{ shape: win-pane, label: "_Published Nov 14, 2025, 08:30 PM_
-Ay, caramba! chihuahua lands forever home after foster mum learns he understands only spanish" }
-LHtuefedddidac@{ shape: win-pane, label: "_Published Sep 29, 2025, 10:00 PM_
-Lewis hamilton mourns death of his beloved bulldog and f1 social media star roscoe" }
-Mnflnekulun@{ shape: win-pane, label: "_Published Nov 13, 2025, 01:34 PM_
-Missing dog finally found after 7 weeks in australia’s bushland" }
-Aahhnrhfomaerdyi@{ shape: win-pane, label: "_Published Nov 14, 2025, 08:30 PM_
-Ay, caramba! chihuahua lands forever home after foster mum learns he understands only spanish" }
-LHtuefedddidac@{ shape: win-pane, label: "_Published Sep 29, 2025, 10:00 PM_
-Lewis hamilton mourns death of his beloved bulldog and f1 social media star roscoe" }
-APeneeruatszk@{ shape: win-pane, label: "_Published Mar 03, 2025, 05:45 PM_
-Actor pierre png and wife andrea decruz mourn death of their shih tzu cookie" }
-Trgyomarapgi@{ shape: win-pane, label: "_Published Sep 24, 2024, 04:40 PM_
-‘the hardest goodbye’: actor desmond tan mourns death of pet dog hoshi" }
-Mnflnekulun@{ shape: win-pane, label: "_Published Nov 13, 2025, 01:34 PM_
-Missing dog finally found after 7 weeks in australia’s bushland" }
-RasogfaAaid@{ shape: win-pane, label: "_Published Apr 26, 2025, 11:05 AM_
-Runaway sausage dog snagged after 529 days on australian island" }
-GmeDUdiosit@{ shape: win-pane, label: "_Published Oct 08, 2025, 01:25 PM_
-‘grandma loves you’: dog in us leads police to owner’s missing mother" }
+Drndrfhjomo@{ shape: win-pane, label: "_Published Dec 15, 2025, 11:30 PM_
+Doctors in england to strike after they reject government’s offer" }
+Ppsenostlovkle@{ shape: win-pane, label: "_Published Oct 13, 2025, 05:00 PM_
+Philippines suspends in-person classes at manila schools over hike in flu cases" }
+Frtaaahigisai@{ shape: win-pane, label: "_Published Oct 13, 2025, 08:11 AM_
+Flu surge puts penang on alert as authorities urge residents to stay vigilant" }
+FsSprhesoeuf@{ shape: win-pane, label: "_Published Oct 13, 2025, 05:00 AM_
+Flu cases in singapore are on the rise. here’s how to protect yourself" }
+Jshewicolls@{ shape: win-pane, label: "_Published Feb 10, 2025, 07:06 PM_
+Johor sees sharp week-on-week rise in cases of flu-like illness" }
+Osptegdaedo@{ shape: win-pane, label: "_Published Sep 16, 2025, 02:25 AM_
+One in six us parents rejecting standard vaccine schedule: poll" }
+Tddlcretnsl@{ shape: win-pane, label: "_Published Sep 05, 2025, 10:41 AM_
+Trump defends health secretary after heated congress grilling" }
+twrHheKdneg@{ shape: win-pane, label: "_Published Sep 05, 2025, 08:02 AM_
+5 takeaways from us health secretary kennedy’s senate hearing" }
+Tafoutoajna@{ shape: win-pane, label: "_Published Nov 14, 2025, 06:36 PM_
+Thousands of doctors launch strike over pay and jobs in england" }
+Bstafaingl@{ shape: win-pane, label: "_Published Jul 25, 2025, 04:19 PM_
+British doctors launch five-day strike, ignoring pm’s plea" }
+Utgoier@{ shape: win-pane, label: "_Published Sep 17, 2024, 03:37 AM_
+Uk doctors agree to 22.3% pay rise to end strikes" }
+JroEnkkiedd@{ shape: win-pane, label: "_Published Jul 08, 2025, 08:45 PM_
+Junior doctors in england back strike action over pay demand" }
+Ugolyahiakro@{ shape: win-pane, label: "_Published Oct 29, 2025, 06:45 AM_
+Uk targets food delivery and car washes in illegal working crackdown" }
+BinumogIwrellgo@{ shape: win-pane, label: "_Published Sep 26, 2025, 02:42 PM_
+Britain to introduce compulsory digital id for workers to deter illegal immigration" }
+Biteemnepnen@{ shape: win-pane, label: "_Published Sep 29, 2025, 05:38 AM_
+Britain may toughen rules for migrants seeking permanent residency" }
 
-Decslnairtfrriisr:::txtsize --> StacriSorskaobo:::txtsize
-StacriSorskaobo:::txtsize --> Aahhnrhfomaerdyi:::txtsize
-Aahhnrhfomaerdyi:::txtsize --> LHtuefedddidac:::txtsize
-Aahhnrhfomaerdyi:::txtsize --> Mnflnekulun:::txtsize
-Decslnairtfrriisr:::txtsize --> Aahhnrhfomaerdyi:::txtsize
-Aahhnrhfomaerdyi:::txtsize --> LHtuefedddidac:::txtsize
-LHtuefedddidac:::txtsize --> APeneeruatszk:::txtsize
-LHtuefedddidac:::txtsize --> Trgyomarapgi:::txtsize
-Aahhnrhfomaerdyi:::txtsize --> Mnflnekulun:::txtsize
-Mnflnekulun:::txtsize --> RasogfaAaid:::txtsize
-Mnflnekulun:::txtsize --> GmeDUdiosit:::txtsize
+Drndrfhjomo:::txtsize --> Ppsenostlovkle:::txtsize
+Ppsenostlovkle:::txtsize --> Frtaaahigisai:::txtsize
+Frtaaahigisai:::txtsize --> FsSprhesoeuf:::txtsize
+Frtaaahigisai:::txtsize --> Jshewicolls:::txtsize
+Ppsenostlovkle:::txtsize --> Osptegdaedo:::txtsize
+Osptegdaedo:::txtsize --> Tddlcretnsl:::txtsize
+Osptegdaedo:::txtsize --> twrHheKdneg:::txtsize
+Drndrfhjomo:::txtsize --> Tafoutoajna:::txtsize
+Tafoutoajna:::txtsize --> Bstafaingl:::txtsize
+Bstafaingl:::txtsize --> Utgoier:::txtsize
+Bstafaingl:::txtsize --> JroEnkkiedd:::txtsize
+Tafoutoajna:::txtsize --> Ugolyahiakro:::txtsize
+Ugolyahiakro:::txtsize --> BinumogIwrellgo:::txtsize
+Ugolyahiakro:::txtsize --> Biteemnepnen:::txtsize
 
-Railndydnartnic@{ shape: win-pane, label: "_Published Dec 15, 2025, 05:14 PM_
-Russian anti-kremlin punk band pussy riot designated an extremist organisation by court" }
-OevusiRases@{ shape: win-pane, label: "_Published Aug 21, 2025, 03:20 PM_
-Online behaviour under scrutiny as russia hunts ‘extremists’" }
-Pslnileeemotf@{ shape: win-pane, label: "_Published Jul 31, 2025, 10:45 PM_
-Putin signs law penalising online searches for ‘extremist’ content with $81 fine" }
-Feuiea@{ shape: win-pane, label: "_Published Feb 24, 2023, 05:54 PM_
-Feb 24, 2022: the day russia invaded ukraine" }
-EmalsiRalua@{ shape: win-pane, label: "_Published Jul 16, 2024, 05:31 PM_
-Euphemisms and self-censorship: how russians talk about ukraine" }
-Raiiunms@{ shape: win-pane, label: "_Published Jul 22, 2025, 05:50 PM_
-Russian police raid popular online media site" }
-SSomKoatAnlBs@{ shape: win-pane, label: "_Published Jul 18, 2025, 12:45 AM_
-Spies, sas troops among uk nationals affected by afghan data leak, bbc says" }
-Ldtgssrsatia@{ shape: win-pane, label: "_Published Oct 20, 2024, 03:40 PM_
-Leaked us intelligence suggests israel is preparing to strike iran" }
-PRodcrctnsu@{ shape: win-pane, label: "_Published Jun 08, 2025, 02:53 PM_
-Pussy riot co-founder back in prison cell – at los angeles museum" }
-TstlsSseitowip@{ shape: win-pane, label: "_Published Mar 11, 2025, 03:00 PM_
-Trump’s erratic policies put us at risk of recession, but much of the world is prepared" }
-UcksinlTphaas@{ shape: win-pane, label: "_Published Mar 11, 2025, 05:49 AM_
-Us stock market loses $5 trillion in value as trump ploughs ahead on tariffs" }
-Ralsteifgn@{ shape: win-pane, label: "_Published Dec 30, 2021, 11:18 PM_
-Russia labels pussy riot member, satirist 'foreign agents'" }
-Radtorie@{ shape: win-pane, label: "_Published Sep 30, 2021, 01:24 AM_
-Russia brands protest monitor 'foreign agent'" }
-Rarecamhrspo@{ shape: win-pane, label: "_Published Dec 30, 2021, 01:11 AM_
-Russian court orders second ban of a major human rights group in two days" }
+Nwrafderrvee@{ shape: win-pane, label: "_Published Dec 15, 2025, 11:10 PM_
+Nobel winner machado suffered vertebra fracture leaving venezuela" }
+NPlacsSelVuotwo@{ shape: win-pane, label: "_Published Dec 11, 2025, 08:12 AM_
+Nobel peace laureate machado says us helped her leave venezuela; vows to take award home" }
+DrsffeNlacs@{ shape: win-pane, label: "_Published Dec 10, 2025, 10:22 PM_
+Democracies must fight for freedom, nobel laureate machado says" }
+Vupthaoseczr@{ shape: win-pane, label: "_Published Dec 10, 2025, 02:32 PM_
+Venezuela opposition chief machado to miss nobel peace prize award" }
+Vuapiaaobiitloteb@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:47 AM_
+Venezuela says opposition leader machado will be ‘fugitive’ if she travels to norway to accept nobel" }
+Vupthaoseczr@{ shape: win-pane, label: "_Published Dec 10, 2025, 02:32 PM_
+Venezuela opposition chief machado to miss nobel peace prize award" }
+NItafhroehfeem@{ shape: win-pane, label: "_Published Dec 10, 2025, 03:07 AM_
+Nobel institute calls off machado press conference ahead of peace prize ceremony" }
+NseldoPilr@{ shape: win-pane, label: "_Published Dec 05, 2025, 09:30 AM_
+New us strike on alleged drug boat in pacific kills four" }
+Vupthaoseczr@{ shape: win-pane, label: "_Published Dec 10, 2025, 02:32 PM_
+Venezuela opposition chief machado to miss nobel peace prize award" }
+NItafhroehfeem@{ shape: win-pane, label: "_Published Dec 10, 2025, 03:07 AM_
+Nobel institute calls off machado press conference ahead of peace prize ceremony" }
+VuMdskecze@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:25 PM_
+Venezuela’s machado vows to make nobel peace prize ceremony" }
+Vuclshtdsnrri@{ shape: win-pane, label: "_Published Dec 08, 2025, 06:45 AM_
+Venezuela acknowledges death of detained opposition figure alfredo diaz" }
+NseldoPilr@{ shape: win-pane, label: "_Published Dec 05, 2025, 09:30 AM_
+New us strike on alleged drug boat in pacific kills four" }
+UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
+Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
+UmsvnoaTpealtoea@{ shape: win-pane, label: "_Published Dec 04, 2025, 06:50 AM_
+Us lawmakers want vote on war powers after trump pledges to launch land attack on venezuela ‘soon’" }
 
-Railndydnartnic:::txtsize --> OevusiRases:::txtsize
-OevusiRases:::txtsize --> Pslnileeemotf:::txtsize
-Pslnileeemotf:::txtsize --> Feuiea:::txtsize
-Pslnileeemotf:::txtsize --> EmalsiRalua:::txtsize
-OevusiRases:::txtsize --> Raiiunms:::txtsize
-Raiiunms:::txtsize --> SSomKoatAnlBs:::txtsize
-Raiiunms:::txtsize --> Ldtgssrsatia:::txtsize
-Railndydnartnic:::txtsize --> PRodcrctnsu:::txtsize
-PRodcrctnsu:::txtsize --> TstlsSseitowip:::txtsize
-TstlsSseitowip:::txtsize --> UcksinlTphaas:::txtsize
-PRodcrctnsu:::txtsize --> Ralsteifgn:::txtsize
-Ralsteifgn:::txtsize --> Radtorie:::txtsize
-Ralsteifgn:::txtsize --> Rarecamhrspo:::txtsize
+Nwrafderrvee:::txtsize --> NPlacsSelVuotwo:::txtsize
+NPlacsSelVuotwo:::txtsize --> DrsffeNlacs:::txtsize
+DrsffeNlacs:::txtsize --> Vupthaoseczr:::txtsize
+DrsffeNlacs:::txtsize --> Vuapiaaobiitloteb:::txtsize
+NPlacsSelVuotwo:::txtsize --> Vupthaoseczr:::txtsize
+Vupthaoseczr:::txtsize --> NItafhroehfeem:::txtsize
+Vupthaoseczr:::txtsize --> NseldoPilr:::txtsize
+Nwrafderrvee:::txtsize --> Vupthaoseczr:::txtsize
+Vupthaoseczr:::txtsize --> NItafhroehfeem:::txtsize
+NItafhroehfeem:::txtsize --> VuMdskecze:::txtsize
+NItafhroehfeem:::txtsize --> Vuclshtdsnrri:::txtsize
+Vupthaoseczr:::txtsize --> NseldoPilr:::txtsize
+NseldoPilr:::txtsize --> UikperngutVura:::txtsize
+NseldoPilr:::txtsize --> UmsvnoaTpealtoea:::txtsize
 
 ```
-<i>Last updated: 2025-12-15 20:01:09.620346 (GMT+8)</i>
+<i>Last updated: 2025-12-16 00:00:36.356000 (GMT+8)</i>
 <!-- END -->
