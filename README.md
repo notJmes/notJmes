@@ -16,114 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-SfAbpnnoi@{ shape: win-pane, label: "_Published Dec 15, 2025, 11:40 PM_
-Spain fines airbnb $97m for posting banned properties" }
-Bosniefotss@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:45 PM_
-Bali ponders airbnb ban in latest effort to curb tourism mess" }
-Blorehlsitlcsl@{ shape: win-pane, label: "_Published Nov 19, 2025, 01:00 PM_
-Bali plans to ban private beaches as locals, tourists struggle to access shorelines" }
-PiaspIeesaa@{ shape: win-pane, label: "_Published Aug 01, 2025, 09:06 AM_
-Paradise beaches sit empty as indonesia bets on saturated bali" }
-Ieetfniaoiib@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:41 AM_
-Indonesia weighs transforming bali into a regional financial hub" }
+Tafioeemnss@{ shape: win-pane, label: "_Published Dec 16, 2025, 03:54 AM_
+Thousands of glaciers to melt each year by mid-century, study shows" }
+Sgerhyrtfntsts@{ shape: win-pane, label: "_Published Oct 01, 2025, 03:09 PM_
+Swiss glaciers shrank sharply after light snowfall and heatwave, scientists say" }
+Gelbsznlnnkemn@{ shape: win-pane, label: "_Published May 28, 2025, 11:04 PM_
+Glacier collapse buries switzerland village in mud and rock, one person missing" }
+Mvkemssa@{ shape: win-pane, label: "_Published Jun 17, 2023, 01:13 AM_
+Massive rockslide just misses swiss village" }
+Fesavnkhhrrai@{ shape: win-pane, label: "_Published May 22, 2025, 05:55 PM_
+Four dead, 17 missing as heavy rains soak southern china, triggering landslides" }
+Sednecegaic@{ shape: win-pane, label: "_Published Sep 22, 2025, 06:46 PM_
+Switzerland’s ‘dying’ gries glacier melting at an alarming pace" }
+Stwgtsticoes@{ shape: win-pane, label: "_Published Sep 09, 2025, 07:00 PM_
+Scientists warn against plans to artificially cool polar regions" }
+Bfindlgeer@{ shape: win-pane, label: "_Published Aug 07, 2025, 04:59 PM_
+Body of missing man found on melting glacier after 28 years" }
+Sednecegaic@{ shape: win-pane, label: "_Published Sep 22, 2025, 06:46 PM_
+Switzerland’s ‘dying’ gries glacier melting at an alarming pace" }
+Stwgtsticoes@{ shape: win-pane, label: "_Published Sep 09, 2025, 07:00 PM_
+Scientists warn against plans to artificially cool polar regions" }
+CseflaurataAch@{ shape: win-pane, label: "_Published Sep 03, 2025, 12:59 AM_
+Colossal iceberg finally breaking up nearly 40 years after leaving antarctic shelf" }
+Rlfriyitnnet@{ shape: win-pane, label: "_Published Aug 20, 2025, 11:17 PM_
+Rapid loss of antarctic ice may be climate tipping point, scientists say" }
+Bfindlgeer@{ shape: win-pane, label: "_Published Aug 07, 2025, 04:59 PM_
+Body of missing man found on melting glacier after 28 years" }
+BfindlAiaamha@{ shape: win-pane, label: "_Published Aug 24, 2023, 01:40 PM_
+Body of missing man found on melting austrian glacier after more than 20 years" }
+Holnimeydr@{ shape: win-pane, label: "_Published Aug 05, 2025, 06:07 PM_
+Hong kong police investigate mangled body found on street" }
 
-SfAbpnnoi:::txtsize --> Bosniefotss:::txtsize
-Bosniefotss:::txtsize --> Blorehlsitlcsl:::txtsize
-Blorehlsitlcsl:::txtsize --> PiaspIeesaa:::txtsize
-Blorehlsitlcsl:::txtsize --> Ieetfniaoiib:::txtsize
+Tafioeemnss:::txtsize --> Sgerhyrtfntsts:::txtsize
+Sgerhyrtfntsts:::txtsize --> Gelbsznlnnkemn:::txtsize
+Gelbsznlnnkemn:::txtsize --> Mvkemssa:::txtsize
+Gelbsznlnnkemn:::txtsize --> Fesavnkhhrrai:::txtsize
+Sgerhyrtfntsts:::txtsize --> Sednecegaic:::txtsize
+Sednecegaic:::txtsize --> Stwgtsticoes:::txtsize
+Sednecegaic:::txtsize --> Bfindlgeer:::txtsize
+Tafioeemnss:::txtsize --> Sednecegaic:::txtsize
+Sednecegaic:::txtsize --> Stwgtsticoes:::txtsize
+Stwgtsticoes:::txtsize --> CseflaurataAch:::txtsize
+Stwgtsticoes:::txtsize --> Rlfriyitnnet:::txtsize
+Sednecegaic:::txtsize --> Bfindlgeer:::txtsize
+Bfindlgeer:::txtsize --> BfindlAiaamha:::txtsize
+Bfindlgeer:::txtsize --> Holnimeydr:::txtsize
 
-Drndrfhjomo@{ shape: win-pane, label: "_Published Dec 15, 2025, 11:30 PM_
-Doctors in england to strike after they reject government’s offer" }
-Ppsenostlovkle@{ shape: win-pane, label: "_Published Oct 13, 2025, 05:00 PM_
-Philippines suspends in-person classes at manila schools over hike in flu cases" }
-Frtaaahigisai@{ shape: win-pane, label: "_Published Oct 13, 2025, 08:11 AM_
-Flu surge puts penang on alert as authorities urge residents to stay vigilant" }
-FsSprhesoeuf@{ shape: win-pane, label: "_Published Oct 13, 2025, 05:00 AM_
-Flu cases in singapore are on the rise. here’s how to protect yourself" }
-Jshewicolls@{ shape: win-pane, label: "_Published Feb 10, 2025, 07:06 PM_
-Johor sees sharp week-on-week rise in cases of flu-like illness" }
-Osptegdaedo@{ shape: win-pane, label: "_Published Sep 16, 2025, 02:25 AM_
-One in six us parents rejecting standard vaccine schedule: poll" }
-Tddlcretnsl@{ shape: win-pane, label: "_Published Sep 05, 2025, 10:41 AM_
-Trump defends health secretary after heated congress grilling" }
-twrHheKdneg@{ shape: win-pane, label: "_Published Sep 05, 2025, 08:02 AM_
-5 takeaways from us health secretary kennedy’s senate hearing" }
-Tafoutoajna@{ shape: win-pane, label: "_Published Nov 14, 2025, 06:36 PM_
-Thousands of doctors launch strike over pay and jobs in england" }
-Bstafaingl@{ shape: win-pane, label: "_Published Jul 25, 2025, 04:19 PM_
-British doctors launch five-day strike, ignoring pm’s plea" }
-Utgoier@{ shape: win-pane, label: "_Published Sep 17, 2024, 03:37 AM_
-Uk doctors agree to 22.3% pay rise to end strikes" }
-JroEnkkiedd@{ shape: win-pane, label: "_Published Jul 08, 2025, 08:45 PM_
-Junior doctors in england back strike action over pay demand" }
-Ugolyahiakro@{ shape: win-pane, label: "_Published Oct 29, 2025, 06:45 AM_
-Uk targets food delivery and car washes in illegal working crackdown" }
-BinumogIwrellgo@{ shape: win-pane, label: "_Published Sep 26, 2025, 02:42 PM_
-Britain to introduce compulsory digital id for workers to deter illegal immigration" }
-Biteemnepnen@{ shape: win-pane, label: "_Published Sep 29, 2025, 05:38 AM_
-Britain may toughen rules for migrants seeking permanent residency" }
+TcmoileRrghne@{ shape: win-pane, label: "_Published Dec 16, 2025, 03:21 AM_
+Trump condemned for saying filmmaker rob reiner brought on his own murder" }
+Richtdtsle@{ shape: win-pane, label: "_Published Dec 15, 2025, 04:45 PM_
+Rob reiner, actor who went on to direct classic films, dies at 78" }
+Uivgghoorreafpni@{ shape: win-pane, label: "_Published Dec 15, 2025, 11:45 AM_
+Us police investigating deaths of hollywood director rob reiner and wife as apparent homicide" }
+WfHaroetimsrit@{ shape: win-pane, label: "_Published Apr 16, 2025, 09:39 AM_
+Wife of gene hackman searched online about flu-like symptoms before their deaths" }
+TnalaCCuuaoa@{ shape: win-pane, label: "_Published Mar 16, 2025, 05:51 PM_
+Taiwanese martial arts actor chang chen-huan found dead at home at age 65" }
+Owncecafndm@{ shape: win-pane, label: "_Published Feb 27, 2025, 04:47 PM_
+Oscar-winning us actor gene hackman and wife found dead at home" }
+Tacmeroauasdt@{ shape: win-pane, label: "_Published Oct 31, 2024, 12:30 PM_
+Teri garr, oscar-nominated star of tootsie and young frankenstein, dies at 79" }
+Ltcyea@{ shape: win-pane, label: "_Published Dec 09, 2023, 12:15 PM_
+Love story actor ryan o’neal dead at 82" }
+Riscrimeefmaf@{ shape: win-pane, label: "_Published Dec 16, 2025, 12:23 AM_
+Rob reiner’s son nick charged with homicide for death of filmmaker and wife" }
+Uivgghoorreafpni@{ shape: win-pane, label: "_Published Dec 15, 2025, 11:45 AM_
+Us police investigating deaths of hollywood director rob reiner and wife as apparent homicide" }
+WfHaroetimsrit@{ shape: win-pane, label: "_Published Apr 16, 2025, 09:39 AM_
+Wife of gene hackman searched online about flu-like symptoms before their deaths" }
+TnalaCCuuaoa@{ shape: win-pane, label: "_Published Mar 16, 2025, 05:51 PM_
+Taiwanese martial arts actor chang chen-huan found dead at home at age 65" }
+TcmoileRrghne@{ shape: win-pane, label: "_Published Dec 16, 2025, 03:21 AM_
+Trump condemned for saying filmmaker rob reiner brought on his own murder" }
+Richtdtsle@{ shape: win-pane, label: "_Published Dec 15, 2025, 04:45 PM_
+Rob reiner, actor who went on to direct classic films, dies at 78" }
+Riscrimeefmaf@{ shape: win-pane, label: "_Published Dec 16, 2025, 12:23 AM_
+Rob reiner’s son nick charged with homicide for death of filmmaker and wife" }
 
-Drndrfhjomo:::txtsize --> Ppsenostlovkle:::txtsize
-Ppsenostlovkle:::txtsize --> Frtaaahigisai:::txtsize
-Frtaaahigisai:::txtsize --> FsSprhesoeuf:::txtsize
-Frtaaahigisai:::txtsize --> Jshewicolls:::txtsize
-Ppsenostlovkle:::txtsize --> Osptegdaedo:::txtsize
-Osptegdaedo:::txtsize --> Tddlcretnsl:::txtsize
-Osptegdaedo:::txtsize --> twrHheKdneg:::txtsize
-Drndrfhjomo:::txtsize --> Tafoutoajna:::txtsize
-Tafoutoajna:::txtsize --> Bstafaingl:::txtsize
-Bstafaingl:::txtsize --> Utgoier:::txtsize
-Bstafaingl:::txtsize --> JroEnkkiedd:::txtsize
-Tafoutoajna:::txtsize --> Ugolyahiakro:::txtsize
-Ugolyahiakro:::txtsize --> BinumogIwrellgo:::txtsize
-Ugolyahiakro:::txtsize --> Biteemnepnen:::txtsize
+TcmoileRrghne:::txtsize --> Richtdtsle:::txtsize
+Richtdtsle:::txtsize --> Uivgghoorreafpni:::txtsize
+Uivgghoorreafpni:::txtsize --> WfHaroetimsrit:::txtsize
+Uivgghoorreafpni:::txtsize --> TnalaCCuuaoa:::txtsize
+Richtdtsle:::txtsize --> Owncecafndm:::txtsize
+Owncecafndm:::txtsize --> Tacmeroauasdt:::txtsize
+Owncecafndm:::txtsize --> Ltcyea:::txtsize
+TcmoileRrghne:::txtsize --> Riscrimeefmaf:::txtsize
+Riscrimeefmaf:::txtsize --> Uivgghoorreafpni:::txtsize
+Uivgghoorreafpni:::txtsize --> WfHaroetimsrit:::txtsize
+Uivgghoorreafpni:::txtsize --> TnalaCCuuaoa:::txtsize
+Riscrimeefmaf:::txtsize --> TcmoileRrghne:::txtsize
+TcmoileRrghne:::txtsize --> Richtdtsle:::txtsize
+TcmoileRrghne:::txtsize --> Riscrimeefmaf:::txtsize
 
-Nwrafderrvee@{ shape: win-pane, label: "_Published Dec 15, 2025, 11:10 PM_
-Nobel winner machado suffered vertebra fracture leaving venezuela" }
-NPlacsSelVuotwo@{ shape: win-pane, label: "_Published Dec 11, 2025, 08:12 AM_
-Nobel peace laureate machado says us helped her leave venezuela; vows to take award home" }
-DrsffeNlacs@{ shape: win-pane, label: "_Published Dec 10, 2025, 10:22 PM_
-Democracies must fight for freedom, nobel laureate machado says" }
-Vupthaoseczr@{ shape: win-pane, label: "_Published Dec 10, 2025, 02:32 PM_
-Venezuela opposition chief machado to miss nobel peace prize award" }
-Vuapiaaobiitloteb@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:47 AM_
-Venezuela says opposition leader machado will be ‘fugitive’ if she travels to norway to accept nobel" }
-Vupthaoseczr@{ shape: win-pane, label: "_Published Dec 10, 2025, 02:32 PM_
-Venezuela opposition chief machado to miss nobel peace prize award" }
-NItafhroehfeem@{ shape: win-pane, label: "_Published Dec 10, 2025, 03:07 AM_
-Nobel institute calls off machado press conference ahead of peace prize ceremony" }
-NseldoPilr@{ shape: win-pane, label: "_Published Dec 05, 2025, 09:30 AM_
-New us strike on alleged drug boat in pacific kills four" }
-Vupthaoseczr@{ shape: win-pane, label: "_Published Dec 10, 2025, 02:32 PM_
-Venezuela opposition chief machado to miss nobel peace prize award" }
-NItafhroehfeem@{ shape: win-pane, label: "_Published Dec 10, 2025, 03:07 AM_
-Nobel institute calls off machado press conference ahead of peace prize ceremony" }
-VuMdskecze@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:25 PM_
-Venezuela’s machado vows to make nobel peace prize ceremony" }
-Vuclshtdsnrri@{ shape: win-pane, label: "_Published Dec 08, 2025, 06:45 AM_
-Venezuela acknowledges death of detained opposition figure alfredo diaz" }
-NseldoPilr@{ shape: win-pane, label: "_Published Dec 05, 2025, 09:30 AM_
-New us strike on alleged drug boat in pacific kills four" }
-UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
-Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
-UmsvnoaTpealtoea@{ shape: win-pane, label: "_Published Dec 04, 2025, 06:50 AM_
-Us lawmakers want vote on war powers after trump pledges to launch land attack on venezuela ‘soon’" }
+Taitaeptenfto@{ shape: win-pane, label: "_Published Dec 16, 2025, 03:13 AM_
+Trump administration launches campaign to hire 1,000 engineers for ai, tech roles" }
+Taotniddfoevet@{ shape: win-pane, label: "_Published Nov 25, 2025, 08:30 AM_
+Trump aims to boost ai innovation and build platform to harness government data" }
+TsosniteIln@{ shape: win-pane, label: "_Published Dec 12, 2025, 08:10 AM_
+Trump signs order seeking to limit state-level ai regulation" }
+HenluSotbtd@{ shape: win-pane, label: "_Published Dec 11, 2025, 05:00 AM_
+Harmless fun? people are using sora to create problematic videos" }
+OIcotTyp@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:31 PM_
+Openai launches sora 2 with tiktok-style app" }
 
-Nwrafderrvee:::txtsize --> NPlacsSelVuotwo:::txtsize
-NPlacsSelVuotwo:::txtsize --> DrsffeNlacs:::txtsize
-DrsffeNlacs:::txtsize --> Vupthaoseczr:::txtsize
-DrsffeNlacs:::txtsize --> Vuapiaaobiitloteb:::txtsize
-NPlacsSelVuotwo:::txtsize --> Vupthaoseczr:::txtsize
-Vupthaoseczr:::txtsize --> NItafhroehfeem:::txtsize
-Vupthaoseczr:::txtsize --> NseldoPilr:::txtsize
-Nwrafderrvee:::txtsize --> Vupthaoseczr:::txtsize
-Vupthaoseczr:::txtsize --> NItafhroehfeem:::txtsize
-NItafhroehfeem:::txtsize --> VuMdskecze:::txtsize
-NItafhroehfeem:::txtsize --> Vuclshtdsnrri:::txtsize
-Vupthaoseczr:::txtsize --> NseldoPilr:::txtsize
-NseldoPilr:::txtsize --> UikperngutVura:::txtsize
-NseldoPilr:::txtsize --> UmsvnoaTpealtoea:::txtsize
+Taitaeptenfto:::txtsize --> Taotniddfoevet:::txtsize
+Taitaeptenfto:::txtsize --> TsosniteIln:::txtsize
+TsosniteIln:::txtsize --> HenluSotbtd:::txtsize
+HenluSotbtd:::txtsize --> OIcotTyp:::txtsize
 
 ```
-<i>Last updated: 2025-12-16 00:00:36.356000 (GMT+8)</i>
+<i>Last updated: 2025-12-16 04:01:04.123280 (GMT+8)</i>
 <!-- END -->
