@@ -16,123 +16,105 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-GoereBUr@{ shape: win-pane, label: "_Published Dec 15, 2025, 02:06 PM_
-Gunshots, then 12 hours of fear at brown university" }
-BUrrnmtette@{ shape: win-pane, label: "_Published Dec 15, 2025, 06:30 AM_
-Brown university, reeling from shooting, sends students home" }
-Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
-Police hold person of interest after brown university shooting left 2 dead" }
-SiKcaiileecd@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:03 AM_
-Shooting at kentucky state university kills one, suspect in custody" }
-Asdndrtaspii@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:58 PM_
-At least 1 dead and 3 injured after shootings at mississippi universities" }
-Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
-Police hold person of interest after brown university shooting left 2 dead" }
-SiKcaiileecd@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:03 AM_
-Shooting at kentucky state university kills one, suspect in custody" }
-Asdndrtaspii@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:58 PM_
-At least 1 dead and 3 injured after shootings at mississippi universities" }
-PeanayteireBsi@{ shape: win-pane, label: "_Published Dec 15, 2025, 07:00 AM_
-Police release man and say they are still searching for suspect in brown shooting" }
-Wsebiaasoiiogair@{ shape: win-pane, label: "_Published Dec 14, 2025, 09:40 AM_
-Witnesses describe anxious campus as news of brown university shooting spread, police arrived" }
-Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
-Police hold person of interest after brown university shooting left 2 dead" }
-Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
-Police hold person of interest after brown university shooting left 2 dead" }
-BUrrnmtette@{ shape: win-pane, label: "_Published Dec 15, 2025, 06:30 AM_
-Brown university, reeling from shooting, sends students home" }
-Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
-Police hold person of interest after brown university shooting left 2 dead" }
-Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
-Police hold person of interest after brown university shooting left 2 dead" }
+PLeulcdcok@{ shape: win-pane, label: "_Published Dec 15, 2025, 05:59 PM_
+Paris louvre museum will stay closed on dec 15 due to strike" }
+Levcwesaov@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:57 PM_
+Louvre thieves escaped with 30 seconds to spare, probe reveals" }
+Wltsrembapausrt@{ shape: win-pane, label: "_Published Dec 08, 2025, 12:01 AM_
+Water leak at paris’ louvre museum damages books at egyptian antiquities department" }
+Leteidlaerrsl@{ shape: win-pane, label: "_Published Oct 22, 2025, 02:52 AM_
+Louvre heist losses estimated at $133 million as museum director faces grilling" }
+Leulytsisturs@{ shape: win-pane, label: "_Published Nov 06, 2025, 05:30 PM_
+Louvre museum will need years to fix security issues, state auditor finds" }
+MoirlovLe@{ shape: win-pane, label: "_Published Nov 28, 2025, 03:03 AM_
+Most non-eu visitors will pay 45% more to visit louvre from 2026" }
 
-GoereBUr:::txtsize --> BUrrnmtette:::txtsize
-BUrrnmtette:::txtsize --> Pepnttrneytea:::txtsize
-Pepnttrneytea:::txtsize --> SiKcaiileecd:::txtsize
-Pepnttrneytea:::txtsize --> Asdndrtaspii:::txtsize
-BUrrnmtette:::txtsize --> Pepnttrneytea:::txtsize
-Pepnttrneytea:::txtsize --> SiKcaiileecd:::txtsize
-Pepnttrneytea:::txtsize --> Asdndrtaspii:::txtsize
-GoereBUr:::txtsize --> PeanayteireBsi:::txtsize
-PeanayteireBsi:::txtsize --> Wsebiaasoiiogair:::txtsize
-Wsebiaasoiiogair:::txtsize --> Pepnttrneytea:::txtsize
-Wsebiaasoiiogair:::txtsize --> Pepnttrneytea:::txtsize
-PeanayteireBsi:::txtsize --> BUrrnmtette:::txtsize
-BUrrnmtette:::txtsize --> Pepnttrneytea:::txtsize
-BUrrnmtette:::txtsize --> Pepnttrneytea:::txtsize
+PLeulcdcok:::txtsize --> Levcwesaov:::txtsize
+Levcwesaov:::txtsize --> Wltsrembapausrt:::txtsize
+Wltsrembapausrt:::txtsize --> Leteidlaerrsl:::txtsize
+Wltsrembapausrt:::txtsize --> Leulytsisturs:::txtsize
+PLeulcdcok:::txtsize --> MoirlovLe:::txtsize
 
-JnoCspdrpicie@{ shape: win-pane, label: "_Published Dec 15, 2025, 02:04 PM_
-Jose antonio kast, chile’s next president, traces politics back to pinochet era" }
-CesAitenhiai@{ shape: win-pane, label: "_Published Dec 15, 2025, 06:34 AM_
-Chile elects jose antonio kast as president in sharp rightward shift" }
-Cboryteydhto@{ shape: win-pane, label: "_Published Dec 03, 2025, 08:35 AM_
-Chile bans non-emergency smartphone use by children while at school" }
-Nrnioyoolgned@{ shape: win-pane, label: "_Published Nov 30, 2025, 06:00 PM_
-No smartphone use in secondary schools from 2026, including during recess and ccas" }
-MooianndopMirtes@{ shape: win-pane, label: "_Published Dec 02, 2025, 01:40 PM_
-More focus, social interaction: parents and schools support moe’s tighter smartphone rules" }
-Ptnatfeingleeeb@{ shape: win-pane, label: "_Published Mar 22, 2025, 05:00 AM_
-Parents turn to smartwatches for their children amid global phone screen-time pushback" }
-Hgrnoedhhsiny@{ shape: win-pane, label: "_Published Dec 02, 2025, 08:00 AM_
-Having a smartphone before age 12 could pose health risks to children, study says" }
-Nrnioyoolgned@{ shape: win-pane, label: "_Published Nov 30, 2025, 06:00 PM_
-No smartphone use in secondary schools from 2026, including during recess and ccas" }
-Jetsltspsuua@{ shape: win-pane, label: "_Published Aug 21, 2025, 02:20 PM_
-Japanese city to ask children to use smartphones for just 2 hours a day" }
+Decslnairtfrriisr@{ shape: win-pane, label: "_Published Dec 15, 2025, 05:45 PM_
+Drunken raccoon a serial offender, says animal protection officer after virginia liquor store raid" }
+StacriSorskaobo@{ shape: win-pane, label: "_Published Dec 03, 2025, 01:38 PM_
+‘spirit animal’: raccoon breaks into us liquor store, gets drunk and passes out in bathroom" }
+Aahhnrhfomaerdyi@{ shape: win-pane, label: "_Published Nov 14, 2025, 08:30 PM_
+Ay, caramba! chihuahua lands forever home after foster mum learns he understands only spanish" }
+LHtuefedddidac@{ shape: win-pane, label: "_Published Sep 29, 2025, 10:00 PM_
+Lewis hamilton mourns death of his beloved bulldog and f1 social media star roscoe" }
+Mnflnekulun@{ shape: win-pane, label: "_Published Nov 13, 2025, 01:34 PM_
+Missing dog finally found after 7 weeks in australia’s bushland" }
+Aahhnrhfomaerdyi@{ shape: win-pane, label: "_Published Nov 14, 2025, 08:30 PM_
+Ay, caramba! chihuahua lands forever home after foster mum learns he understands only spanish" }
+LHtuefedddidac@{ shape: win-pane, label: "_Published Sep 29, 2025, 10:00 PM_
+Lewis hamilton mourns death of his beloved bulldog and f1 social media star roscoe" }
+APeneeruatszk@{ shape: win-pane, label: "_Published Mar 03, 2025, 05:45 PM_
+Actor pierre png and wife andrea decruz mourn death of their shih tzu cookie" }
+Trgyomarapgi@{ shape: win-pane, label: "_Published Sep 24, 2024, 04:40 PM_
+‘the hardest goodbye’: actor desmond tan mourns death of pet dog hoshi" }
+Mnflnekulun@{ shape: win-pane, label: "_Published Nov 13, 2025, 01:34 PM_
+Missing dog finally found after 7 weeks in australia’s bushland" }
+RasogfaAaid@{ shape: win-pane, label: "_Published Apr 26, 2025, 11:05 AM_
+Runaway sausage dog snagged after 529 days on australian island" }
+GmeDUdiosit@{ shape: win-pane, label: "_Published Oct 08, 2025, 01:25 PM_
+‘grandma loves you’: dog in us leads police to owner’s missing mother" }
 
-JnoCspdrpicie:::txtsize --> CesAitenhiai:::txtsize
-JnoCspdrpicie:::txtsize --> Cboryteydhto:::txtsize
-Cboryteydhto:::txtsize --> Nrnioyoolgned:::txtsize
-Nrnioyoolgned:::txtsize --> MooianndopMirtes:::txtsize
-Nrnioyoolgned:::txtsize --> Ptnatfeingleeeb:::txtsize
-Cboryteydhto:::txtsize --> Hgrnoedhhsiny:::txtsize
-Hgrnoedhhsiny:::txtsize --> Nrnioyoolgned:::txtsize
-Hgrnoedhhsiny:::txtsize --> Jetsltspsuua:::txtsize
+Decslnairtfrriisr:::txtsize --> StacriSorskaobo:::txtsize
+StacriSorskaobo:::txtsize --> Aahhnrhfomaerdyi:::txtsize
+Aahhnrhfomaerdyi:::txtsize --> LHtuefedddidac:::txtsize
+Aahhnrhfomaerdyi:::txtsize --> Mnflnekulun:::txtsize
+Decslnairtfrriisr:::txtsize --> Aahhnrhfomaerdyi:::txtsize
+Aahhnrhfomaerdyi:::txtsize --> LHtuefedddidac:::txtsize
+LHtuefedddidac:::txtsize --> APeneeruatszk:::txtsize
+LHtuefedddidac:::txtsize --> Trgyomarapgi:::txtsize
+Aahhnrhfomaerdyi:::txtsize --> Mnflnekulun:::txtsize
+Mnflnekulun:::txtsize --> RasogfaAaid:::txtsize
+Mnflnekulun:::txtsize --> GmeDUdiosit:::txtsize
 
-Finesaunrrnitsso@{ shape: win-pane, label: "_Published Dec 15, 2025, 09:47 AM_
-Fed chief contender hassett says trump can offer central bank advice but won’t set its action" }
-TnWHtocnWy@{ shape: win-pane, label: "_Published Dec 13, 2025, 08:30 AM_
-Trump names warsh, hassett as top fed contenders, wsj says" }
-Deeerenjnun@{ shape: win-pane, label: "_Published Dec 11, 2025, 03:42 AM_
-Divided us fed makes third rate cut in 2025, sees just one reduction in 2026" }
-SptioeFleo@{ shape: win-pane, label: "_Published Dec 10, 2025, 06:45 PM_
-Singapore stocks inch down ahead of fed policy decision" }
-Tsemeeomny@{ shape: win-pane, label: "_Published Dec 03, 2025, 04:08 AM_
-Trump says he will make fed chief announcement in early 2026" }
-Tsemeeomny@{ shape: win-pane, label: "_Published Dec 03, 2025, 04:08 AM_
-Trump says he will make fed chief announcement in early 2026" }
-Sphuglnortaodi@{ shape: win-pane, label: "_Published Dec 01, 2025, 06:50 PM_
-Singapore shares up marginally as investors turn cautious ahead of fed decision" }
-EgnrKrgfiiardeh@{ shape: win-pane, label: "_Published Nov 16, 2025, 02:30 PM_
-Ex-fed governor adriana kugler resigned after violating trading rules, documents show" }
-Deeerenjnun@{ shape: win-pane, label: "_Published Dec 11, 2025, 03:42 AM_
-Divided us fed makes third rate cut in 2025, sees just one reduction in 2026" }
-SptioeFleo@{ shape: win-pane, label: "_Published Dec 10, 2025, 06:45 PM_
-Singapore stocks inch down ahead of fed policy decision" }
-Sptgoosonsi@{ shape: win-pane, label: "_Published Dec 09, 2025, 07:25 PM_
-Singapore stocks gain more ground as regional indexes end mixed" }
-Tsemeeomny@{ shape: win-pane, label: "_Published Dec 03, 2025, 04:08 AM_
-Trump says he will make fed chief announcement in early 2026" }
-Sphuglnortaodi@{ shape: win-pane, label: "_Published Dec 01, 2025, 06:50 PM_
-Singapore shares up marginally as investors turn cautious ahead of fed decision" }
-EgnrKrgfiiardeh@{ shape: win-pane, label: "_Published Nov 16, 2025, 02:30 PM_
-Ex-fed governor adriana kugler resigned after violating trading rules, documents show" }
+Railndydnartnic@{ shape: win-pane, label: "_Published Dec 15, 2025, 05:14 PM_
+Russian anti-kremlin punk band pussy riot designated an extremist organisation by court" }
+OevusiRases@{ shape: win-pane, label: "_Published Aug 21, 2025, 03:20 PM_
+Online behaviour under scrutiny as russia hunts ‘extremists’" }
+Pslnileeemotf@{ shape: win-pane, label: "_Published Jul 31, 2025, 10:45 PM_
+Putin signs law penalising online searches for ‘extremist’ content with $81 fine" }
+Feuiea@{ shape: win-pane, label: "_Published Feb 24, 2023, 05:54 PM_
+Feb 24, 2022: the day russia invaded ukraine" }
+EmalsiRalua@{ shape: win-pane, label: "_Published Jul 16, 2024, 05:31 PM_
+Euphemisms and self-censorship: how russians talk about ukraine" }
+Raiiunms@{ shape: win-pane, label: "_Published Jul 22, 2025, 05:50 PM_
+Russian police raid popular online media site" }
+SSomKoatAnlBs@{ shape: win-pane, label: "_Published Jul 18, 2025, 12:45 AM_
+Spies, sas troops among uk nationals affected by afghan data leak, bbc says" }
+Ldtgssrsatia@{ shape: win-pane, label: "_Published Oct 20, 2024, 03:40 PM_
+Leaked us intelligence suggests israel is preparing to strike iran" }
+PRodcrctnsu@{ shape: win-pane, label: "_Published Jun 08, 2025, 02:53 PM_
+Pussy riot co-founder back in prison cell – at los angeles museum" }
+TstlsSseitowip@{ shape: win-pane, label: "_Published Mar 11, 2025, 03:00 PM_
+Trump’s erratic policies put us at risk of recession, but much of the world is prepared" }
+UcksinlTphaas@{ shape: win-pane, label: "_Published Mar 11, 2025, 05:49 AM_
+Us stock market loses $5 trillion in value as trump ploughs ahead on tariffs" }
+Ralsteifgn@{ shape: win-pane, label: "_Published Dec 30, 2021, 11:18 PM_
+Russia labels pussy riot member, satirist 'foreign agents'" }
+Radtorie@{ shape: win-pane, label: "_Published Sep 30, 2021, 01:24 AM_
+Russia brands protest monitor 'foreign agent'" }
+Rarecamhrspo@{ shape: win-pane, label: "_Published Dec 30, 2021, 01:11 AM_
+Russian court orders second ban of a major human rights group in two days" }
 
-Finesaunrrnitsso:::txtsize --> TnWHtocnWy:::txtsize
-TnWHtocnWy:::txtsize --> Deeerenjnun:::txtsize
-Deeerenjnun:::txtsize --> SptioeFleo:::txtsize
-Deeerenjnun:::txtsize --> Tsemeeomny:::txtsize
-TnWHtocnWy:::txtsize --> Tsemeeomny:::txtsize
-Tsemeeomny:::txtsize --> Sphuglnortaodi:::txtsize
-Tsemeeomny:::txtsize --> EgnrKrgfiiardeh:::txtsize
-Finesaunrrnitsso:::txtsize --> Deeerenjnun:::txtsize
-Deeerenjnun:::txtsize --> SptioeFleo:::txtsize
-SptioeFleo:::txtsize --> Sptgoosonsi:::txtsize
-Deeerenjnun:::txtsize --> Tsemeeomny:::txtsize
-Tsemeeomny:::txtsize --> Sphuglnortaodi:::txtsize
-Tsemeeomny:::txtsize --> EgnrKrgfiiardeh:::txtsize
+Railndydnartnic:::txtsize --> OevusiRases:::txtsize
+OevusiRases:::txtsize --> Pslnileeemotf:::txtsize
+Pslnileeemotf:::txtsize --> Feuiea:::txtsize
+Pslnileeemotf:::txtsize --> EmalsiRalua:::txtsize
+OevusiRases:::txtsize --> Raiiunms:::txtsize
+Raiiunms:::txtsize --> SSomKoatAnlBs:::txtsize
+Raiiunms:::txtsize --> Ldtgssrsatia:::txtsize
+Railndydnartnic:::txtsize --> PRodcrctnsu:::txtsize
+PRodcrctnsu:::txtsize --> TstlsSseitowip:::txtsize
+TstlsSseitowip:::txtsize --> UcksinlTphaas:::txtsize
+PRodcrctnsu:::txtsize --> Ralsteifgn:::txtsize
+Ralsteifgn:::txtsize --> Radtorie:::txtsize
+Ralsteifgn:::txtsize --> Rarecamhrspo:::txtsize
 
 ```
-<i>Last updated: 2025-12-15 16:00:34.238370 (GMT+8)</i>
+<i>Last updated: 2025-12-15 20:01:09.620346 (GMT+8)</i>
 <!-- END -->
