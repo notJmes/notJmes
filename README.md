@@ -16,6 +16,80 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+GoereBUr@{ shape: win-pane, label: "_Published Dec 15, 2025, 02:06 PM_
+Gunshots, then 12 hours of fear at brown university" }
+BUrrnmtette@{ shape: win-pane, label: "_Published Dec 15, 2025, 06:30 AM_
+Brown university, reeling from shooting, sends students home" }
+Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
+Police hold person of interest after brown university shooting left 2 dead" }
+SiKcaiileecd@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:03 AM_
+Shooting at kentucky state university kills one, suspect in custody" }
+Asdndrtaspii@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:58 PM_
+At least 1 dead and 3 injured after shootings at mississippi universities" }
+Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
+Police hold person of interest after brown university shooting left 2 dead" }
+SiKcaiileecd@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:03 AM_
+Shooting at kentucky state university kills one, suspect in custody" }
+Asdndrtaspii@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:58 PM_
+At least 1 dead and 3 injured after shootings at mississippi universities" }
+PeanayteireBsi@{ shape: win-pane, label: "_Published Dec 15, 2025, 07:00 AM_
+Police release man and say they are still searching for suspect in brown shooting" }
+Wsebiaasoiiogair@{ shape: win-pane, label: "_Published Dec 14, 2025, 09:40 AM_
+Witnesses describe anxious campus as news of brown university shooting spread, police arrived" }
+Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
+Police hold person of interest after brown university shooting left 2 dead" }
+Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
+Police hold person of interest after brown university shooting left 2 dead" }
+BUrrnmtette@{ shape: win-pane, label: "_Published Dec 15, 2025, 06:30 AM_
+Brown university, reeling from shooting, sends students home" }
+Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
+Police hold person of interest after brown university shooting left 2 dead" }
+Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
+Police hold person of interest after brown university shooting left 2 dead" }
+
+GoereBUr:::txtsize --> BUrrnmtette:::txtsize
+BUrrnmtette:::txtsize --> Pepnttrneytea:::txtsize
+Pepnttrneytea:::txtsize --> SiKcaiileecd:::txtsize
+Pepnttrneytea:::txtsize --> Asdndrtaspii:::txtsize
+BUrrnmtette:::txtsize --> Pepnttrneytea:::txtsize
+Pepnttrneytea:::txtsize --> SiKcaiileecd:::txtsize
+Pepnttrneytea:::txtsize --> Asdndrtaspii:::txtsize
+GoereBUr:::txtsize --> PeanayteireBsi:::txtsize
+PeanayteireBsi:::txtsize --> Wsebiaasoiiogair:::txtsize
+Wsebiaasoiiogair:::txtsize --> Pepnttrneytea:::txtsize
+Wsebiaasoiiogair:::txtsize --> Pepnttrneytea:::txtsize
+PeanayteireBsi:::txtsize --> BUrrnmtette:::txtsize
+BUrrnmtette:::txtsize --> Pepnttrneytea:::txtsize
+BUrrnmtette:::txtsize --> Pepnttrneytea:::txtsize
+
+JnoCspdrpicie@{ shape: win-pane, label: "_Published Dec 15, 2025, 02:04 PM_
+Jose antonio kast, chile’s next president, traces politics back to pinochet era" }
+CesAitenhiai@{ shape: win-pane, label: "_Published Dec 15, 2025, 06:34 AM_
+Chile elects jose antonio kast as president in sharp rightward shift" }
+Cboryteydhto@{ shape: win-pane, label: "_Published Dec 03, 2025, 08:35 AM_
+Chile bans non-emergency smartphone use by children while at school" }
+Nrnioyoolgned@{ shape: win-pane, label: "_Published Nov 30, 2025, 06:00 PM_
+No smartphone use in secondary schools from 2026, including during recess and ccas" }
+MooianndopMirtes@{ shape: win-pane, label: "_Published Dec 02, 2025, 01:40 PM_
+More focus, social interaction: parents and schools support moe’s tighter smartphone rules" }
+Ptnatfeingleeeb@{ shape: win-pane, label: "_Published Mar 22, 2025, 05:00 AM_
+Parents turn to smartwatches for their children amid global phone screen-time pushback" }
+Hgrnoedhhsiny@{ shape: win-pane, label: "_Published Dec 02, 2025, 08:00 AM_
+Having a smartphone before age 12 could pose health risks to children, study says" }
+Nrnioyoolgned@{ shape: win-pane, label: "_Published Nov 30, 2025, 06:00 PM_
+No smartphone use in secondary schools from 2026, including during recess and ccas" }
+Jetsltspsuua@{ shape: win-pane, label: "_Published Aug 21, 2025, 02:20 PM_
+Japanese city to ask children to use smartphones for just 2 hours a day" }
+
+JnoCspdrpicie:::txtsize --> CesAitenhiai:::txtsize
+JnoCspdrpicie:::txtsize --> Cboryteydhto:::txtsize
+Cboryteydhto:::txtsize --> Nrnioyoolgned:::txtsize
+Nrnioyoolgned:::txtsize --> MooianndopMirtes:::txtsize
+Nrnioyoolgned:::txtsize --> Ptnatfeingleeeb:::txtsize
+Cboryteydhto:::txtsize --> Hgrnoedhhsiny:::txtsize
+Hgrnoedhhsiny:::txtsize --> Nrnioyoolgned:::txtsize
+Hgrnoedhhsiny:::txtsize --> Jetsltspsuua:::txtsize
+
 Finesaunrrnitsso@{ shape: win-pane, label: "_Published Dec 15, 2025, 09:47 AM_
 Fed chief contender hassett says trump can offer central bank advice but won’t set its action" }
 TnWHtocnWy@{ shape: win-pane, label: "_Published Dec 13, 2025, 08:30 AM_
@@ -59,98 +133,6 @@ Deeerenjnun:::txtsize --> Tsemeeomny:::txtsize
 Tsemeeomny:::txtsize --> Sphuglnortaodi:::txtsize
 Tsemeeomny:::txtsize --> EgnrKrgfiiardeh:::txtsize
 
-Dpesrtnrcrc@{ shape: win-pane, label: "_Published Dec 15, 2025, 09:18 AM_
-Dutch police arrest 22 at protest against israeli cantor’s concert" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-TeonegartdcaSy@{ shape: win-pane, label: "_Published Dec 15, 2025, 06:40 AM_
-‘the feeling of being under siege’: us rabbis react to bondi beach attack in sydney" }
-Asdrttenaleeoie@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:30 PM_
-At least 16 dead after shooting at sydney’s bondi beach; police declare ‘terrorist incident’" }
-Prolmnnaogee@{ shape: win-pane, label: "_Published Dec 14, 2025, 08:54 PM_
-Passer-by who tackled armed man at bondi beach shooting hailed as hero" }
-AeccAaitfw@{ shape: win-pane, label: "_Published Dec 14, 2025, 07:28 PM_
-Anti-semitic attacks in australia since start of gaza war" }
-MtCaoteslu@{ shape: win-pane, label: "_Published Jun 02, 2025, 06:15 AM_
-Man attacks colorado crowd with firebombs, 8 people injured" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-TresflWnsinpe@{ shape: win-pane, label: "_Published May 22, 2025, 11:50 AM_
-Two israeli embassy staff killed in washington shooting; lone suspect held" }
-
-Dpesrtnrcrc:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Dpesrtnrcrc:::txtsize --> TeonegartdcaSy:::txtsize
-TeonegartdcaSy:::txtsize --> Asdrttenaleeoie:::txtsize
-Asdrttenaleeoie:::txtsize --> Prolmnnaogee:::txtsize
-Asdrttenaleeoie:::txtsize --> AeccAaitfw:::txtsize
-TeonegartdcaSy:::txtsize --> MtCaoteslu:::txtsize
-MtCaoteslu:::txtsize --> NyeeawHakl:::txtsize
-MtCaoteslu:::txtsize --> TresflWnsinpe:::txtsize
-
-Bspengsuttre@{ shape: win-pane, label: "_Published Dec 15, 2025, 08:04 AM_
-British mi6 spy chief warns of ‘aggressive’ russia threat in first speech" }
-Bioffeopn@{ shape: win-pane, label: "_Published Jun 16, 2025, 06:05 AM_
-Britain appoints first female head of mi6 spy agency" }
-BierittRaIatiw@{ shape: win-pane, label: "_Published Jun 07, 2025, 03:27 AM_
-Britain faces ‘extraordinary’ threat from russian and iranian plots, official warns" }
-Rarejdfae@{ shape: win-pane, label: "_Published May 13, 2025, 01:11 AM_
-Russian spy ring leader jailed in uk for nearly 11 years" }
-BiemesthsCara@{ shape: win-pane, label: "_Published Jun 03, 2025, 06:39 AM_
-Britain faces the most serious military threat since cold war, starmer says" }
-Urhrnhesg@{ shape: win-pane, label: "_Published May 18, 2025, 04:03 AM_
-Uk charges three iranians with suspected spying" }
-Rarejdfae@{ shape: win-pane, label: "_Published May 13, 2025, 01:11 AM_
-Russian spy ring leader jailed in uk for nearly 11 years" }
-Brsoasnritoe@{ shape: win-pane, label: "_Published Nov 29, 2024, 12:28 AM_
-Bulgarians spied on us base, dissidents for russia, british court hears" }
-Bsenrtruntase@{ shape: win-pane, label: "_Published Sep 19, 2025, 05:50 AM_
-British spies turn to dark web to recruit russian agents and access secrets" }
-Bioffeopn@{ shape: win-pane, label: "_Published Jun 16, 2025, 06:05 AM_
-Britain appoints first female head of mi6 spy agency" }
-BierittRaIatiw@{ shape: win-pane, label: "_Published Jun 07, 2025, 03:27 AM_
-Britain faces ‘extraordinary’ threat from russian and iranian plots, official warns" }
-Urhrnhesg@{ shape: win-pane, label: "_Published May 18, 2025, 04:03 AM_
-Uk charges three iranians with suspected spying" }
-Utspemgfr@{ shape: win-pane, label: "_Published Jun 28, 2025, 05:19 PM_
-Uk distances new spy chief from ‘nazi’ grandfather" }
-Bioffeopn@{ shape: win-pane, label: "_Published Jun 16, 2025, 06:05 AM_
-Britain appoints first female head of mi6 spy agency" }
-Uennbgsheo@{ shape: win-pane, label: "_Published Jun 25, 2025, 12:44 AM_
-Uk government to invest $1b to fight rising chinese espionage" }
-
-Bspengsuttre:::txtsize --> Bioffeopn:::txtsize
-Bioffeopn:::txtsize --> BierittRaIatiw:::txtsize
-BierittRaIatiw:::txtsize --> Rarejdfae:::txtsize
-BierittRaIatiw:::txtsize --> BiemesthsCara:::txtsize
-Bioffeopn:::txtsize --> Urhrnhesg:::txtsize
-Urhrnhesg:::txtsize --> Rarejdfae:::txtsize
-Urhrnhesg:::txtsize --> Brsoasnritoe:::txtsize
-Bspengsuttre:::txtsize --> Bsenrtruntase:::txtsize
-Bsenrtruntase:::txtsize --> Bioffeopn:::txtsize
-Bioffeopn:::txtsize --> BierittRaIatiw:::txtsize
-Bioffeopn:::txtsize --> Urhrnhesg:::txtsize
-Bsenrtruntase:::txtsize --> Utspemgfr:::txtsize
-Utspemgfr:::txtsize --> Bioffeopn:::txtsize
-Utspemgfr:::txtsize --> Uennbgsheo:::txtsize
-
 ```
-<i>Last updated: 2025-12-15 12:00:59.879178 (GMT+8)</i>
+<i>Last updated: 2025-12-15 16:00:34.238370 (GMT+8)</i>
 <!-- END -->
