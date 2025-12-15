@@ -16,91 +16,54 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-GniaelUmtllcAl@{ shape: win-pane, label: "_Published Dec 15, 2025, 03:34 AM_
-German far-right lawmaker calls for us-german nationalist alliance at maga gala" }
-Gnoeevscfnhmrt@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:13 PM_
-German authorities arrest five men suspected of planning christmas market attack" }
-GnsixiotCta@{ shape: win-pane, label: "_Published Dec 14, 2025, 09:30 AM_
-Germany says it foiled extremist plot to attack christmas market" }
-Gnrakresnuc@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:26 PM_
-Germany’s christmas markets grapple with soaring security costs" }
-Gnsmtsadyt@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:33 PM_
-German christmas market opens year after deadly car attack" }
-Gnhfedraaale@{ shape: win-pane, label: "_Published Dec 21, 2024, 02:25 PM_
-Germany in shock after new deadly christmas attack; death toll rises to 5" }
-Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
-‘torn from my side’: horror of german christmas market attack" }
-Gnhifcoslo@{ shape: win-pane, label: "_Published Dec 11, 2024, 11:03 PM_
-Germany’s scholz kicks off process towards feb 23 elections" }
-UhryebrCta@{ shape: win-pane, label: "_Published Dec 13, 2025, 08:31 PM_
-Uk bishops ‘gravely concerned’ by far-right ‘christmas’ rally" }
-Nufaaalaeidaca@{ shape: win-pane, label: "_Published Dec 11, 2025, 11:25 PM_
-New church of england head sarah mullally accused of mishandling abuse complaint" }
-Wanrsfeytffecnd@{ shape: win-pane, label: "_Published Oct 03, 2025, 05:12 PM_
-Woman appointed archbishop of canterbury a historic first for the church of england" }
-Aiotrtlsobcl@{ shape: win-pane, label: "_Published Nov 12, 2024, 10:09 PM_
-Archbishop of canterbury justin welby resigns over abuse scandal" }
+Wnaitdnitwvto@{ shape: win-pane, label: "_Published Dec 15, 2025, 07:00 AM_
+Wisconsin man in his 20s detained in connection with brown university shooting" }
+Wsebiaasoiiogair@{ shape: win-pane, label: "_Published Dec 14, 2025, 09:40 AM_
+Witnesses describe anxious campus as news of brown university shooting spread, police arrived" }
+Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
+Police hold person of interest after brown university shooting left 2 dead" }
+SiKcaiileecd@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:03 AM_
+Shooting at kentucky state university kills one, suspect in custody" }
+Asdndrtaspii@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:58 PM_
+At least 1 dead and 3 injured after shootings at mississippi universities" }
+Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
+Police hold person of interest after brown university shooting left 2 dead" }
+SiKcaiileecd@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:03 AM_
+Shooting at kentucky state university kills one, suspect in custody" }
+Asdndrtaspii@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:58 PM_
+At least 1 dead and 3 injured after shootings at mississippi universities" }
+BUrrnmtette@{ shape: win-pane, label: "_Published Dec 15, 2025, 06:30 AM_
+Brown university, reeling from shooting, sends students home" }
+Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
+Police hold person of interest after brown university shooting left 2 dead" }
+SiKcaiileecd@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:03 AM_
+Shooting at kentucky state university kills one, suspect in custody" }
+Asdndrtaspii@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:58 PM_
+At least 1 dead and 3 injured after shootings at mississippi universities" }
+Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
+Police hold person of interest after brown university shooting left 2 dead" }
+SiKcaiileecd@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:03 AM_
+Shooting at kentucky state university kills one, suspect in custody" }
+Asdndrtaspii@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:58 PM_
+At least 1 dead and 3 injured after shootings at mississippi universities" }
 
-GniaelUmtllcAl:::txtsize --> Gnoeevscfnhmrt:::txtsize
-Gnoeevscfnhmrt:::txtsize --> GnsixiotCta:::txtsize
-GnsixiotCta:::txtsize --> Gnrakresnuc:::txtsize
-GnsixiotCta:::txtsize --> Gnsmtsadyt:::txtsize
-Gnoeevscfnhmrt:::txtsize --> Gnhfedraaale:::txtsize
-Gnhfedraaale:::txtsize --> Trsoomrakt:::txtsize
-Gnhfedraaale:::txtsize --> Gnhifcoslo:::txtsize
-GniaelUmtllcAl:::txtsize --> UhryebrCta:::txtsize
-UhryebrCta:::txtsize --> Nufaaalaeidaca:::txtsize
-Nufaaalaeidaca:::txtsize --> Wanrsfeytffecnd:::txtsize
-Nufaaalaeidaca:::txtsize --> Aiotrtlsobcl:::txtsize
+Wnaitdnitwvto:::txtsize --> Wsebiaasoiiogair:::txtsize
+Wsebiaasoiiogair:::txtsize --> Pepnttrneytea:::txtsize
+Pepnttrneytea:::txtsize --> SiKcaiileecd:::txtsize
+Pepnttrneytea:::txtsize --> Asdndrtaspii:::txtsize
+Wsebiaasoiiogair:::txtsize --> Pepnttrneytea:::txtsize
+Pepnttrneytea:::txtsize --> SiKcaiileecd:::txtsize
+Pepnttrneytea:::txtsize --> Asdndrtaspii:::txtsize
+Wnaitdnitwvto:::txtsize --> BUrrnmtette:::txtsize
+BUrrnmtette:::txtsize --> Pepnttrneytea:::txtsize
+Pepnttrneytea:::txtsize --> SiKcaiileecd:::txtsize
+Pepnttrneytea:::txtsize --> Asdndrtaspii:::txtsize
+BUrrnmtette:::txtsize --> Pepnttrneytea:::txtsize
+Pepnttrneytea:::txtsize --> SiKcaiileecd:::txtsize
+Pepnttrneytea:::txtsize --> Asdndrtaspii:::txtsize
 
-Nryirgffe@{ shape: win-pane, label: "_Published Dec 15, 2025, 03:11 AM_
-New york city gets its first big snowfall of the season" }
-UatwrmetpyiU@{ shape: win-pane, label: "_Published Dec 11, 2025, 12:45 PM_
-Unusually strong winter storms expected to drop heavy snow in the us" }
-ActsrrsUuec@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:00 AM_
-Arctic blast grips central, north-eastern us in sub-freezing cold" }
-NrysoleavwutEn@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:22 PM_
-New york city faces risk of airline delays as heavy snow hits upstate, new england" }
-Snswtsltio@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:00 AM_
-Season’s first snowfall throws seoul into traffic chaos" }
-NrysoleavwutEn@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:22 PM_
-New york city faces risk of airline delays as heavy snow hits upstate, new england" }
-Uphdpsdaitl@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:30 PM_
-Us airports hit by disruptions ahead of thanksgiving travel boom" }
-Lotlrehuoogene@{ shape: win-pane, label: "_Published Nov 13, 2025, 02:45 PM_
-Look cool in the cold: your winter fashion guide to tokyo, shanghai, seoul and more" }
-Hsesoatfseun@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:46 PM_
-Heavy snow returns as seoul braces itself for possible disruption" }
-Snswtsltio@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:00 AM_
-Season’s first snowfall throws seoul into traffic chaos" }
-MFeafsasru@{ shape: win-pane, label: "_Published Oct 23, 2025, 12:00 PM_
-Mount fuji gets season’s first snowcap, 21 days later than usual" }
-NrysoleavwutEn@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:22 PM_
-New york city faces risk of airline delays as heavy snow hits upstate, new england" }
-CaiurturoeD@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:45 PM_
-Cold wave grips south korea with seoul’s first snow likely on dec 4" }
-Snszoiuren@{ shape: win-pane, label: "_Published Nov 18, 2025, 03:10 PM_
-Season’s first sub-zero cold grips south korea, to ease on nov 20" }
-NrysoleavwutEn@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:22 PM_
-New york city faces risk of airline delays as heavy snow hits upstate, new england" }
-
-Nryirgffe:::txtsize --> UatwrmetpyiU:::txtsize
-UatwrmetpyiU:::txtsize --> ActsrrsUuec:::txtsize
-ActsrrsUuec:::txtsize --> NrysoleavwutEn:::txtsize
-ActsrrsUuec:::txtsize --> Snswtsltio:::txtsize
-UatwrmetpyiU:::txtsize --> NrysoleavwutEn:::txtsize
-NrysoleavwutEn:::txtsize --> Uphdpsdaitl:::txtsize
-NrysoleavwutEn:::txtsize --> Lotlrehuoogene:::txtsize
-Nryirgffe:::txtsize --> Hsesoatfseun:::txtsize
-Hsesoatfseun:::txtsize --> Snswtsltio:::txtsize
-Snswtsltio:::txtsize --> MFeafsasru:::txtsize
-Snswtsltio:::txtsize --> NrysoleavwutEn:::txtsize
-Hsesoatfseun:::txtsize --> CaiurturoeD:::txtsize
-CaiurturoeD:::txtsize --> Snszoiuren:::txtsize
-CaiurturoeD:::txtsize --> NrysoleavwutEn:::txtsize
-
-HkcyerwaBBsi@{ shape: win-pane, label: "_Published Dec 15, 2025, 12:49 AM_
-Hanukkah security ramped up around world after bondi beach shootings" }
+TeonegartdcaSy@{ shape: win-pane, label: "_Published Dec 15, 2025, 06:40 AM_
+‘the feeling of being under siege’: us rabbis react to bondi beach attack in sydney" }
 Asdrttenaleeoie@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:30 PM_
 At least 16 dead after shooting at sydney’s bondi beach; police declare ‘terrorist incident’" }
 Prolmnnaogee@{ shape: win-pane, label: "_Published Dec 14, 2025, 08:54 PM_
@@ -115,36 +78,40 @@ NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
 Netanyahu declares israel at war as hamas attacks kill over 100" }
 ArastIlfurd@{ shape: win-pane, label: "_Published Dec 11, 2024, 08:10 AM_
 ‘an outrage’: vandals paint anti-israel graffiti, burn car in sydney" }
-BBsioryeceiyolrsi@{ shape: win-pane, label: "_Published Dec 15, 2025, 12:18 AM_
-Bondi beach shooting: s’pore strongly condemns act of terrorism, says pm wong in letter to australian pm" }
-Asdrttenaleeoie@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:30 PM_
-At least 16 dead after shooting at sydney’s bondi beach; police declare ‘terrorist incident’" }
-Prolmnnaogee@{ shape: win-pane, label: "_Published Dec 14, 2025, 08:54 PM_
-Passer-by who tackled armed man at bondi beach shooting hailed as hero" }
-AeccAaitfw@{ shape: win-pane, label: "_Published Dec 14, 2025, 07:28 PM_
-Anti-semitic attacks in australia since start of gaza war" }
-Aolaaunoaksina@{ shape: win-pane, label: "_Published Dec 14, 2025, 10:50 PM_
-‘an act of evil’: at least 16 dead, 40 injured in terrorist attack at australia’s bondi beach" }
-Asdrttenaleeoie@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:30 PM_
-At least 16 dead after shooting at sydney’s bondi beach; police declare ‘terrorist incident’" }
-BBsioryeceiyolrsi@{ shape: win-pane, label: "_Published Dec 15, 2025, 12:18 AM_
-Bondi beach shooting: s’pore strongly condemns act of terrorism, says pm wong in letter to australian pm" }
+MtCaoteslu@{ shape: win-pane, label: "_Published Jun 02, 2025, 06:15 AM_
+Man attacks colorado crowd with firebombs, 8 people injured" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+TresflWnsinpe@{ shape: win-pane, label: "_Published May 22, 2025, 11:50 AM_
+Two israeli embassy staff killed in washington shooting; lone suspect held" }
+FdssithnyPtniy@{ shape: win-pane, label: "_Published Feb 18, 2025, 01:30 AM_
+Florida man shot israeli visitors thinking they were palestinians, police say" }
+Fgakdrbnv@{ shape: win-pane, label: "_Published Jan 22, 2025, 08:25 AM_
+Foreign attacker killed after stabbing 5 in tel aviv" }
 
-HkcyerwaBBsi:::txtsize --> Asdrttenaleeoie:::txtsize
+TeonegartdcaSy:::txtsize --> Asdrttenaleeoie:::txtsize
 Asdrttenaleeoie:::txtsize --> Prolmnnaogee:::txtsize
 Prolmnnaogee:::txtsize --> Asdrttenaleeoie:::txtsize
 Prolmnnaogee:::txtsize --> Aolaaunoaksina:::txtsize
 Asdrttenaleeoie:::txtsize --> AeccAaitfw:::txtsize
 AeccAaitfw:::txtsize --> NyeeawHakl:::txtsize
 AeccAaitfw:::txtsize --> ArastIlfurd:::txtsize
-HkcyerwaBBsi:::txtsize --> BBsioryeceiyolrsi:::txtsize
-BBsioryeceiyolrsi:::txtsize --> Asdrttenaleeoie:::txtsize
-Asdrttenaleeoie:::txtsize --> Prolmnnaogee:::txtsize
-Asdrttenaleeoie:::txtsize --> AeccAaitfw:::txtsize
-BBsioryeceiyolrsi:::txtsize --> Aolaaunoaksina:::txtsize
-Aolaaunoaksina:::txtsize --> Asdrttenaleeoie:::txtsize
-Aolaaunoaksina:::txtsize --> BBsioryeceiyolrsi:::txtsize
+TeonegartdcaSy:::txtsize --> MtCaoteslu:::txtsize
+MtCaoteslu:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+MtCaoteslu:::txtsize --> TresflWnsinpe:::txtsize
+TresflWnsinpe:::txtsize --> FdssithnyPtniy:::txtsize
+TresflWnsinpe:::txtsize --> Fgakdrbnv:::txtsize
+
+CesAiternildrt@{ shape: win-pane, label: "_Published Dec 15, 2025, 06:34 AM_
+Chile elects jose antonio kast, deepening regional shift to law-and-order politics" }
+
 
 ```
-<i>Last updated: 2025-12-15 04:01:02.769638 (GMT+8)</i>
+<i>Last updated: 2025-12-15 08:00:23.646648 (GMT+8)</i>
 <!-- END -->
