@@ -16,114 +16,69 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tbsawnstidaao@{ shape: win-pane, label: "_Published Dec 16, 2025, 07:19 AM_
-Trump brands fentanyl a ‘weapon of mass destruction’ in drug war escalation" }
-HrUrdsiosir@{ shape: win-pane, label: "_Published May 15, 2025, 12:38 AM_
-Huge drop in us overdose deaths, marking progress in opioid crisis" }
-TsidzpiaoMo@{ shape: win-pane, label: "_Published Feb 14, 2025, 07:34 AM_
-Trump’s foreign aid freeze stops anti-fentanyl work in mexico" }
-Tanaineowni@{ shape: win-pane, label: "_Published Feb 03, 2025, 11:00 AM_
-Trump announces talks with canada, mexico over sweeping tariffs" }
-WoaTssindida@{ shape: win-pane, label: "_Published Feb 02, 2025, 08:48 AM_
-What to know about trump’s latest tariffs on canada, mexico and china" }
-Cseyuesit@{ shape: win-pane, label: "_Published May 13, 2025, 02:49 PM_
-China says fentanyl issue is responsibility of the us" }
-Tsdaeeogwff@{ shape: win-pane, label: "_Published Apr 10, 2025, 06:00 PM_
-Trump’s world view and the dangers from his great wall of tariffs" }
-CwsafosttWp@{ shape: win-pane, label: "_Published May 03, 2025, 02:23 AM_
-China weighs fentanyl offer to us to start trade talks, wsj reports" }
-VuorKiuyr@{ shape: win-pane, label: "_Published Dec 04, 2025, 05:10 PM_
-Venezuela boat strikes: kill first, justify never?" }
-UmsvnoaTpealtoea@{ shape: win-pane, label: "_Published Dec 04, 2025, 06:50 AM_
-Us lawmakers want vote on war powers after trump pledges to launch land attack on venezuela ‘soon’" }
-CsdltSatcerrrtsz@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
-‘colossal and costly mistake’: us lawmakers to force vote on war powers if trump attacks venezuela" }
+DeaSrtatsUsls@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:50 AM_
+Delivery giant ups underpaid thousands at christmas, us lawsuit alleges" }
+Uejtncaer@{ shape: win-pane, label: "_Published Oct 29, 2025, 09:48 AM_
+Ups deepens job cuts to 48,000 on reduced amazon deliveries" }
+Antojoioyee@{ shape: win-pane, label: "_Published Oct 28, 2025, 09:45 PM_
+Amazon to cut 14,000 corporate jobs worldwide, s’pore may not be spared" }
+Annosapesitc@{ shape: win-pane, label: "_Published Oct 28, 2025, 04:02 AM_
+Amazon planning to cut as many as 30,000 corporate jobs starting oct 28: sources" }
+Anspmhoto@{ shape: win-pane, label: "_Published Oct 22, 2025, 08:15 AM_
+Amazon plans to replace more than 500k jobs with robots" }
+AbphsCsrfroere@{ shape: win-pane, label: "_Published Aug 10, 2025, 04:30 PM_
+As global supply chains shift, china’s exports of factory robots see a sharp rise" }
+Rsgohhwreho@{ shape: win-pane, label: "_Published Nov 24, 2024, 11:00 AM_
+Robots struggle to match warehouse workers on ‘really hard’ jobs" }
 
-Tbsawnstidaao:::txtsize --> HrUrdsiosir:::txtsize
-HrUrdsiosir:::txtsize --> TsidzpiaoMo:::txtsize
-TsidzpiaoMo:::txtsize --> Tanaineowni:::txtsize
-TsidzpiaoMo:::txtsize --> WoaTssindida:::txtsize
-HrUrdsiosir:::txtsize --> Cseyuesit:::txtsize
-Cseyuesit:::txtsize --> Tsdaeeogwff:::txtsize
-Cseyuesit:::txtsize --> CwsafosttWp:::txtsize
-Tbsawnstidaao:::txtsize --> VuorKiuyr:::txtsize
-VuorKiuyr:::txtsize --> UmsvnoaTpealtoea:::txtsize
-UmsvnoaTpealtoea:::txtsize --> CsdltSatcerrrtsz:::txtsize
+DeaSrtatsUsls:::txtsize --> Uejtncaer:::txtsize
+Uejtncaer:::txtsize --> Antojoioyee:::txtsize
+Antojoioyee:::txtsize --> Annosapesitc:::txtsize
+Uejtncaer:::txtsize --> Anspmhoto:::txtsize
+Anspmhoto:::txtsize --> AbphsCsrfroere:::txtsize
+Anspmhoto:::txtsize --> Rsgohhwreho:::txtsize
 
-TsatnCled@{ shape: win-pane, label: "_Published Dec 16, 2025, 07:10 AM_
-Trump says lawsuit against bbc likely to be filed soon" }
-TttBhiwaagfio@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:49 AM_
-Trump threatens bbc with $1.3 billion lawsuit as bbc apologises for edit error" }
-Bshfqfroneri@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:45 AM_
-Bbc boss and head of news quit after trump documentary edit criticism" }
-Gonsobhcyerws@{ shape: win-pane, label: "_Published Jul 15, 2025, 01:09 AM_
-Gaza documentary shown on bbc breached accuracy guideline, review finds" }
-BsislBsisedpsnies@{ shape: win-pane, label: "_Published Nov 09, 2025, 09:00 PM_
-British minister says claims bbc misled viewers with edited trump clips are ‘incredibly serious’" }
-SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
-peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
-4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
-BtnfTdac@{ shape: win-pane, label: "_Published Nov 17, 2025, 11:28 PM_
-Bbc ‘determined to fight’ trump defamation claim" }
-Tsieooieet@{ shape: win-pane, label: "_Published Nov 15, 2025, 10:09 AM_
-Trump says will sue bbc for up to $6.4 billion over video edit" }
-TttBhiwaagfio@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:49 AM_
-Trump threatens bbc with $1.3 billion lawsuit as bbc apologises for edit error" }
-BiCosueoshrtaoi@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:07 AM_
-Britain’s bbc apologises to trump over panorama speech edit, rejects defamation claim" }
-Bshfqfroneri@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:45 AM_
-Bbc boss and head of news quit after trump documentary edit criticism" }
-Gonsobhcyerws@{ shape: win-pane, label: "_Published Jul 15, 2025, 01:09 AM_
-Gaza documentary shown on bbc breached accuracy guideline, review finds" }
-BsislBsisedpsnies@{ shape: win-pane, label: "_Published Nov 09, 2025, 09:00 PM_
-British minister says claims bbc misled viewers with edited trump clips are ‘incredibly serious’" }
+Cogdreieify@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:45 AM_
+Controlling blood sugar cut heart disease risk in half, study says" }
+Spepvobsuorrluewn@{ shape: win-pane, label: "_Published Aug 18, 2025, 05:00 AM_
+Singapore-developed device for diabetics measures long-term average blood sugar levels within 6 mins" }
+Hheeguvgeihhcbd@{ shape: win-pane, label: "_Published Aug 11, 2025, 08:00 AM_
+Healthy lifestyle changes could save singapore $650 million in healthcare costs by 2050: study" }
+HhGhyenonraafl@{ shape: win-pane, label: "_Published Oct 04, 2022, 06:08 PM_
+Healthier sg: six things you need to know about singapore's healthcare reform plan" }
+AecpceinhftSYg@{ shape: win-pane, label: "_Published Jun 16, 2025, 10:10 AM_
+Ai to help doctors predict disease risk in next phase of healthier sg: ong ye kung" }
 
-TsatnCled:::txtsize --> TttBhiwaagfio:::txtsize
-TttBhiwaagfio:::txtsize --> Bshfqfroneri:::txtsize
-Bshfqfroneri:::txtsize --> Gonsobhcyerws:::txtsize
-Bshfqfroneri:::txtsize --> BsislBsisedpsnies:::txtsize
-TttBhiwaagfio:::txtsize --> SiUiinenWn:::txtsize
-SiUiinenWn:::txtsize --> peapubmalrest:::txtsize
-TsatnCled:::txtsize --> BtnfTdac:::txtsize
-BtnfTdac:::txtsize --> Tsieooieet:::txtsize
-Tsieooieet:::txtsize --> TttBhiwaagfio:::txtsize
-Tsieooieet:::txtsize --> BiCosueoshrtaoi:::txtsize
-BtnfTdac:::txtsize --> Bshfqfroneri:::txtsize
-Bshfqfroneri:::txtsize --> Gonsobhcyerws:::txtsize
-Bshfqfroneri:::txtsize --> BsislBsisedpsnies:::txtsize
+Cogdreieify:::txtsize --> Spepvobsuorrluewn:::txtsize
+Spepvobsuorrluewn:::txtsize --> Hheeguvgeihhcbd:::txtsize
+Hheeguvgeihhcbd:::txtsize --> HhGhyenonraafl:::txtsize
+Hheeguvgeihhcbd:::txtsize --> AecpceinhftSYg:::txtsize
 
-TsesilHoia@{ shape: win-pane, label: "_Published Dec 16, 2025, 07:10 AM_
-Trump says he has asked xi to release hong kong’s jimmy lai" }
-Houncialsircsnoeta@{ shape: win-pane, label: "_Published Dec 15, 2025, 10:50 AM_
-Hong kong court finds tycoon jimmy lai guilty of sedition, foreign collusion in national security trial" }
-Hopapioefetfeo@{ shape: win-pane, label: "_Published Jun 24, 2021, 10:58 AM_
-Hong kong's apple daily apologises to readers in farewell note for final edition" }
-Hopaouaoeoatt@{ shape: win-pane, label: "_Published Jun 23, 2021, 03:20 PM_
-Hong kong's apple daily to end publication on june 24 following arrests of staff" }
-Fyeafnglmi@{ shape: win-pane, label: "_Published Dec 03, 2025, 07:20 AM_
-Family voices new alarm for hong kong’s jailed jimmy lai" }
-TpenteaHiomios@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:25 AM_
-Trump pressed china’s xi to release jailed hk media tycoon jimmy lai, say sources" }
-Kngsotteassy@{ shape: win-pane, label: "_Published Sep 09, 2025, 10:20 AM_
-Killing hong kong’s lai would strengthen democracy message, son says" }
-TpenteaHiomios@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:25 AM_
-Trump pressed china’s xi to release jailed hk media tycoon jimmy lai, say sources" }
-Homtylrnsgnlae@{ shape: win-pane, label: "_Published Aug 20, 2025, 07:01 PM_
-Hong kong democrat jimmy lai’s lawyer defends basic rights in trial’s final stretch" }
-FrKaeHytalaotrdnt@{ shape: win-pane, label: "_Published Aug 18, 2025, 03:05 PM_
-Former hong kong lawmaker ted hui says australian asylum grant shows city infringed human rights" }
+FJatteeeBcis@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:15 AM_
+Famed jerusalem stone still sells despite west bank economic woes" }
+IllronseWal@{ shape: win-pane, label: "_Published Aug 25, 2025, 12:35 AM_
+Israeli bulldozers uproot hundreds of trees in west bank village" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+Ildasbsewfi@{ shape: win-pane, label: "_Published Aug 24, 2025, 04:37 PM_
+Israel pounds gaza city suburbs, vows to press on with offensive" }
+Ilttataodmhg@{ shape: win-pane, label: "_Published Aug 22, 2025, 03:55 PM_
+Israel vows to destroy gaza city if hamas doesn't disarm, free hostages" }
+IldaoaraspsC@{ shape: win-pane, label: "_Published Aug 22, 2025, 01:42 AM_
+Israel pm orders talks to free ‘all our hostages’ as army pounds gaza city" }
 
-TsesilHoia:::txtsize --> Houncialsircsnoeta:::txtsize
-Houncialsircsnoeta:::txtsize --> Hopapioefetfeo:::txtsize
-Hopapioefetfeo:::txtsize --> Hopaouaoeoatt:::txtsize
-Houncialsircsnoeta:::txtsize --> Fyeafnglmi:::txtsize
-Fyeafnglmi:::txtsize --> TpenteaHiomios:::txtsize
-Fyeafnglmi:::txtsize --> Kngsotteassy:::txtsize
-TsesilHoia:::txtsize --> TpenteaHiomios:::txtsize
-TpenteaHiomios:::txtsize --> Homtylrnsgnlae:::txtsize
-Homtylrnsgnlae:::txtsize --> FrKaeHytalaotrdnt:::txtsize
+FJatteeeBcis:::txtsize --> IllronseWal:::txtsize
+IllronseWal:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+IllronseWal:::txtsize --> Ildasbsewfi:::txtsize
+Ildasbsewfi:::txtsize --> Ilttataodmhg:::txtsize
+Ildasbsewfi:::txtsize --> IldaoaraspsC:::txtsize
 
 ```
-<i>Last updated: 2025-12-16 08:00:28.515890 (GMT+8)</i>
+<i>Last updated: 2025-12-16 12:00:47.983605 (GMT+8)</i>
 <!-- END -->
