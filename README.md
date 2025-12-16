@@ -16,6 +16,77 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+BBhescrnae@{ shape: win-pane, label: "_Published Dec 16, 2025, 07:00 PM_
+Bondi beach hero becomes source of pride in syrian hometown" }
+Asdrttenaleeoie@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:30 PM_
+At least 16 dead after shooting at sydney’s bondi beach; police declare ‘terrorist incident’" }
+Prolmnnaogee@{ shape: win-pane, label: "_Published Dec 14, 2025, 08:54 PM_
+Passer-by who tackled armed man at bondi beach shooting hailed as hero" }
+Asdrttenaleeoie@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:30 PM_
+At least 16 dead after shooting at sydney’s bondi beach; police declare ‘terrorist incident’" }
+Aolaaunoaksina@{ shape: win-pane, label: "_Published Dec 14, 2025, 10:50 PM_
+‘an act of evil’: at least 16 dead, 40 injured in terrorist attack at australia’s bondi beach" }
+AeccAaitfw@{ shape: win-pane, label: "_Published Dec 14, 2025, 07:28 PM_
+Anti-semitic attacks in australia since start of gaza war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+ArastIlfurd@{ shape: win-pane, label: "_Published Dec 11, 2024, 08:10 AM_
+‘an outrage’: vandals paint anti-israel graffiti, burn car in sydney" }
+
+BBhescrnae:::txtsize --> Asdrttenaleeoie:::txtsize
+Asdrttenaleeoie:::txtsize --> Prolmnnaogee:::txtsize
+Prolmnnaogee:::txtsize --> Asdrttenaleeoie:::txtsize
+Prolmnnaogee:::txtsize --> Aolaaunoaksina:::txtsize
+Asdrttenaleeoie:::txtsize --> AeccAaitfw:::txtsize
+AeccAaitfw:::txtsize --> NyeeawHakl:::txtsize
+AeccAaitfw:::txtsize --> ArastIlfurd:::txtsize
+
+Cseeyodnih@{ shape: win-pane, label: "_Published Dec 16, 2025, 05:30 PM_
+Child stabbed to death by fellow student in russian school" }
+Uibsitnanrsi@{ shape: win-pane, label: "_Published Nov 03, 2025, 03:29 AM_
+Uk train stabbings carried out by lone attacker, not terrorism: police" }
+BsiynectrnnBsat@{ shape: win-pane, label: "_Published Nov 02, 2025, 02:59 PM_
+British police say train knife attack not terrorist incident, two british men arrested" }
+Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
+British man of syrian descent named as manchester synagogue attacker" }
+Bieaykccs@{ shape: win-pane, label: "_Published Jul 29, 2025, 02:18 PM_
+Britain tries to tackle youth knife crime crisis" }
+BsiynectrnnBsat@{ shape: win-pane, label: "_Published Nov 02, 2025, 02:59 PM_
+British police say train knife attack not terrorist incident, two british men arrested" }
+Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
+British man of syrian descent named as manchester synagogue attacker" }
+Bieaykccs@{ shape: win-pane, label: "_Published Jul 29, 2025, 02:18 PM_
+Britain tries to tackle youth knife crime crisis" }
+Fheobaifacea@{ shape: win-pane, label: "_Published Sep 24, 2025, 05:47 PM_
+French student who stabbed teacher in the face was fascinated by nazism" }
+Fhtietottohei@{ shape: win-pane, label: "_Published Dec 21, 2024, 12:50 PM_
+French court convicts 8 people tied to events that led to teacher’s beheading" }
+Seeeneotihner@{ shape: win-pane, label: "_Published Dec 09, 2023, 03:45 AM_
+Six french teenagers convicted in connection with beheading of teacher" }
+oarouochwoca@{ shape: win-pane, label: "_Published Nov 04, 2024, 06:46 PM_
+8 on trial in france over murder of teacher who showed prophet caricature" }
+Tiavoncrlitbi@{ shape: win-pane, label: "_Published Sep 02, 2025, 11:59 PM_
+Tunisian stabs five at hotel in france’s marseille and is shot dead by police" }
+Tattrrgeloiy@{ shape: win-pane, label: "_Published Jul 29, 2025, 03:28 AM_
+Two stabbed to death near tower bridge in central london, police say" }
+ientalihUis@{ shape: win-pane, label: "_Published Jul 27, 2025, 08:38 AM_
+11 injured in knife attack at a walmart in michigan, us officials say" }
+
+Cseeyodnih:::txtsize --> Uibsitnanrsi:::txtsize
+Uibsitnanrsi:::txtsize --> BsiynectrnnBsat:::txtsize
+BsiynectrnnBsat:::txtsize --> Bsoisnaceaec:::txtsize
+BsiynectrnnBsat:::txtsize --> Bieaykccs:::txtsize
+Uibsitnanrsi:::txtsize --> BsiynectrnnBsat:::txtsize
+BsiynectrnnBsat:::txtsize --> Bsoisnaceaec:::txtsize
+BsiynectrnnBsat:::txtsize --> Bieaykccs:::txtsize
+Cseeyodnih:::txtsize --> Fheobaifacea:::txtsize
+Fheobaifacea:::txtsize --> Fhtietottohei:::txtsize
+Fhtietottohei:::txtsize --> Seeeneotihner:::txtsize
+Fhtietottohei:::txtsize --> oarouochwoca:::txtsize
+Fheobaifacea:::txtsize --> Tiavoncrlitbi:::txtsize
+Tiavoncrlitbi:::txtsize --> Tattrrgeloiy:::txtsize
+Tiavoncrlitbi:::txtsize --> ientalihUis:::txtsize
+
 Ddpgtieidn@{ shape: win-pane, label: "_Published Dec 16, 2025, 01:42 PM_
 Donald trump jr engaged to socialite bettina anderson" }
 TpsiKrilmaocTraou@{ shape: win-pane, label: "_Published Dec 11, 2024, 09:18 AM_
@@ -62,44 +133,6 @@ Cohowhrfyoe:::txtsize --> Tumsgnyrtmonoln:::txtsize
 Tumsgnyrtmonoln:::txtsize --> TMtiosyoMniF:::txtsize
 Tumsgnyrtmonoln:::txtsize --> Humucohyanr:::txtsize
 
-DeaSrtafdaoswae@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:50 AM_
-Delivery giant ups underpaid thousands of holiday season workers, us lawsuit alleges" }
-Uejtncaer@{ shape: win-pane, label: "_Published Oct 29, 2025, 09:48 AM_
-Ups deepens job cuts to 48,000 on reduced amazon deliveries" }
-Antojoioyee@{ shape: win-pane, label: "_Published Oct 28, 2025, 09:45 PM_
-Amazon to cut 14,000 corporate jobs worldwide, s’pore may not be spared" }
-Annosapesitc@{ shape: win-pane, label: "_Published Oct 28, 2025, 04:02 AM_
-Amazon planning to cut as many as 30,000 corporate jobs starting oct 28: sources" }
-Anspmhoto@{ shape: win-pane, label: "_Published Oct 22, 2025, 08:15 AM_
-Amazon plans to replace more than 500k jobs with robots" }
-AbphsCsrfroere@{ shape: win-pane, label: "_Published Aug 10, 2025, 04:30 PM_
-As global supply chains shift, china’s exports of factory robots see a sharp rise" }
-Rsgohhwreho@{ shape: win-pane, label: "_Published Nov 24, 2024, 11:00 AM_
-Robots struggle to match warehouse workers on ‘really hard’ jobs" }
-
-DeaSrtafdaoswae:::txtsize --> Uejtncaer:::txtsize
-Uejtncaer:::txtsize --> Antojoioyee:::txtsize
-Antojoioyee:::txtsize --> Annosapesitc:::txtsize
-Uejtncaer:::txtsize --> Anspmhoto:::txtsize
-Anspmhoto:::txtsize --> AbphsCsrfroere:::txtsize
-Anspmhoto:::txtsize --> Rsgohhwreho:::txtsize
-
-Cogdreieify@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:45 AM_
-Controlling blood sugar cut heart disease risk in half, study says" }
-Spepvobsuorrluewn@{ shape: win-pane, label: "_Published Aug 18, 2025, 05:00 AM_
-Singapore-developed device for diabetics measures long-term average blood sugar levels within 6 mins" }
-Hheeguvgeihhcbd@{ shape: win-pane, label: "_Published Aug 11, 2025, 08:00 AM_
-Healthy lifestyle changes could save singapore $650 million in healthcare costs by 2050: study" }
-HhGhyenonraafl@{ shape: win-pane, label: "_Published Oct 04, 2022, 06:08 PM_
-Healthier sg: six things you need to know about singapore's healthcare reform plan" }
-AecpceinhftSYg@{ shape: win-pane, label: "_Published Jun 16, 2025, 10:10 AM_
-Ai to help doctors predict disease risk in next phase of healthier sg: ong ye kung" }
-
-Cogdreieify:::txtsize --> Spepvobsuorrluewn:::txtsize
-Spepvobsuorrluewn:::txtsize --> Hheeguvgeihhcbd:::txtsize
-Hheeguvgeihhcbd:::txtsize --> HhGhyenonraafl:::txtsize
-Hheeguvgeihhcbd:::txtsize --> AecpceinhftSYg:::txtsize
-
 ```
-<i>Last updated: 2025-12-16 16:01:10.628721 (GMT+8)</i>
+<i>Last updated: 2025-12-16 20:00:38.317297 (GMT+8)</i>
 <!-- END -->
