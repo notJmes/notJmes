@@ -16,102 +16,129 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-JKevhraabna@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:46 PM_
-Jared kushner is everywhere, from peace deals to big money deals" }
+Eeboinors@{ shape: win-pane, label: "_Published Dec 17, 2025, 01:29 AM_
+Eu eases 2035 combustion-engine ban to boost car industry" }
+Binulpgeio@{ shape: win-pane, label: "_Published Nov 23, 2025, 10:35 AM_
+Britain to introduce $2.5 billion package to help switch to evs" }
+BiestVoe@{ shape: win-pane, label: "_Published Jul 15, 2025, 09:05 AM_
+Britain offers discounts on evs to boost demand" }
+EotaediayeO@{ shape: win-pane, label: "_Published Jun 26, 2025, 03:20 PM_
+Environmental fears over $7.64b indonesia ev battery project: ngos" }
+Ttaaoollcose@{ shape: win-pane, label: "_Published Apr 19, 2025, 09:00 AM_
+Tesla to delay us launch of affordable ev, a lower-cost model y, sources say" }
+Aehperhsdoagace@{ shape: win-pane, label: "_Published Nov 21, 2025, 02:45 PM_
+Are there other types of electric vehicles besides those that plug into a wall charger?" }
+Hcrmighpwntalt@{ shape: win-pane, label: "_Published Nov 14, 2025, 02:15 PM_
+How to compare a combustion engine’s horsepower with an electric car’s kilowatts" }
+TeWoyehhdani@{ shape: win-pane, label: "_Published Nov 07, 2025, 02:45 PM_
+Torque shop: what to do if you are caught in the middle of a chain collision" }
+Hcrmighpwntalt@{ shape: win-pane, label: "_Published Nov 14, 2025, 02:15 PM_
+How to compare a combustion engine’s horsepower with an electric car’s kilowatts" }
+TeWoyehhdani@{ shape: win-pane, label: "_Published Nov 07, 2025, 02:45 PM_
+Torque shop: what to do if you are caught in the middle of a chain collision" }
+TeLnukorates@{ shape: win-pane, label: "_Published Oct 24, 2025, 03:15 PM_
+Torque shop: locking and unlocking your car with a smartphone app is safe" }
+TeLnukorates@{ shape: win-pane, label: "_Published Oct 24, 2025, 03:15 PM_
+Torque shop: locking and unlocking your car with a smartphone app is safe" }
+TeRaluwuacaairr@{ shape: win-pane, label: "_Published Oct 17, 2025, 02:45 PM_
+Torque shop: red flags to look out for when buying a used car that had an accident repair" }
+TeWssvsorcrr@{ shape: win-pane, label: "_Published Sep 26, 2025, 03:15 PM_
+Torque shop: when is it best to avoid using your tyre puncture repair kit?" }
 
+Eeboinors:::txtsize --> Binulpgeio:::txtsize
+Binulpgeio:::txtsize --> BiestVoe:::txtsize
+BiestVoe:::txtsize --> EotaediayeO:::txtsize
+BiestVoe:::txtsize --> Ttaaoollcose:::txtsize
+Binulpgeio:::txtsize --> Aehperhsdoagace:::txtsize
+Aehperhsdoagace:::txtsize --> Hcrmighpwntalt:::txtsize
+Aehperhsdoagace:::txtsize --> TeWoyehhdani:::txtsize
+Eeboinors:::txtsize --> Hcrmighpwntalt:::txtsize
+Hcrmighpwntalt:::txtsize --> TeWoyehhdani:::txtsize
+TeWoyehhdani:::txtsize --> TeLnukorates:::txtsize
+Hcrmighpwntalt:::txtsize --> TeLnukorates:::txtsize
+TeLnukorates:::txtsize --> TeRaluwuacaairr:::txtsize
+TeLnukorates:::txtsize --> TeWssvsorcrr:::txtsize
 
-EecnaamoUnde@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:44 PM_
-Europe launches international commission for ukraine war damages" }
-EeapsodiarZsiagwS@{ shape: win-pane, label: "_Published Dec 16, 2025, 03:54 AM_
-European leaders propose europe-led ukraine peace force as zelensky hails ‘real progress’ with us" }
-UnckencatfteEe@{ shape: win-pane, label: "_Published Dec 15, 2025, 08:19 PM_
-Ukraine peace talks stretch into second day at start of pivotal week for europe" }
-UnpOackeedsd@{ shape: win-pane, label: "_Published Dec 14, 2025, 07:24 PM_
-Ukraine drops nato goal as peace talks in berlin extend into second day" }
-TsdidEe@{ shape: win-pane, label: "_Published Dec 10, 2025, 06:40 AM_
-Trump slams ‘decaying’ and ‘weak’ europe" }
-PdikerutirtoNrUis@{ shape: win-pane, label: "_Published Dec 16, 2025, 01:29 AM_
-Peace deal gives ukraine security guarantees similar to article 5 of the nato treaty, us official says" }
-UnckencatfteEe@{ shape: win-pane, label: "_Published Dec 15, 2025, 08:19 PM_
-Ukraine peace talks stretch into second day at start of pivotal week for europe" }
-Uollaodrnrnee@{ shape: win-pane, label: "_Published Dec 16, 2025, 01:53 AM_
-Us reportedly tells ukraine to withdraw from donetsk region for peace deal" }
-EeapsodiarZsiagwS@{ shape: win-pane, label: "_Published Dec 16, 2025, 03:54 AM_
-European leaders propose europe-led ukraine peace force as zelensky hails ‘real progress’ with us" }
-UnckencatfteEe@{ shape: win-pane, label: "_Published Dec 15, 2025, 08:19 PM_
-Ukraine peace talks stretch into second day at start of pivotal week for europe" }
-UnpOackeedsd@{ shape: win-pane, label: "_Published Dec 14, 2025, 07:24 PM_
-Ukraine drops nato goal as peace talks in berlin extend into second day" }
-TsdidEe@{ shape: win-pane, label: "_Published Dec 10, 2025, 06:40 AM_
-Trump slams ‘decaying’ and ‘weak’ europe" }
-PdikerutirtoNrUis@{ shape: win-pane, label: "_Published Dec 16, 2025, 01:29 AM_
-Peace deal gives ukraine security guarantees similar to article 5 of the nato treaty, us official says" }
-UnckencatfteEe@{ shape: win-pane, label: "_Published Dec 15, 2025, 08:19 PM_
-Ukraine peace talks stretch into second day at start of pivotal week for europe" }
-Uollaodrnrnee@{ shape: win-pane, label: "_Published Dec 16, 2025, 01:53 AM_
-Us reportedly tells ukraine to withdraw from donetsk region for peace deal" }
+Upirsdbtvtlgs@{ shape: win-pane, label: "_Published Dec 17, 2025, 01:14 AM_
+Us not planning to release unedited boat strike video to public, hegseth says" }
+Voiriorrlisms@{ shape: win-pane, label: "_Published Dec 05, 2025, 01:36 AM_
+Video of us military strike shows survivors in ‘clear distress’, lawmaker says" }
+UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
+Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
+Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
+Us builds up forces in caribbean as officials, experts, ask why" }
+VuMoUswieggoy@{ shape: win-pane, label: "_Published Sep 02, 2025, 01:19 AM_
+Venezuela’s maduro says us warships with 1,200 missiles targeting his country" }
+PgvaHtrasoei@{ shape: win-pane, label: "_Published Dec 04, 2025, 05:30 AM_
+Pentagon review faults hegseth over signal messages on yemen strikes" }
+WHmkssnliui@{ shape: win-pane, label: "_Published Mar 25, 2025, 04:50 AM_
+White house mistakenly shares yemen war plans with journalist" }
+Pgitsahltnkldb@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:21 AM_
+Pentagon chief pete hegseth says us has ‘only just begun’ striking alleged drug boats" }
+Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
+Us military says it carried out strikes on three vessels in eastern pacific" }
+TsSbrltsurnama@{ shape: win-pane, label: "_Published Dec 13, 2025, 07:41 AM_
+Trump says us will be ‘starting’ land strikes on drug operations in latin america" }
+Upgirkfeasespncy@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:13 AM_
+Us preparing to seize more tankers off venezuela’s coast after first ship taken, sources say" }
+Uuennggrmeenik@{ shape: win-pane, label: "_Published Dec 12, 2025, 04:18 AM_
+Us issues fresh sanctions targeting maduro’s family, venezuela-linked oil tankers" }
+RararoVuMouaps@{ shape: win-pane, label: "_Published Dec 12, 2025, 01:23 AM_
+Russia, belarus leaders reach out to venezuela’s maduro, as trump cranks up pressure" }
 
-EecnaamoUnde:::txtsize --> EeapsodiarZsiagwS:::txtsize
-EeapsodiarZsiagwS:::txtsize --> UnckencatfteEe:::txtsize
-UnckencatfteEe:::txtsize --> UnpOackeedsd:::txtsize
-UnckencatfteEe:::txtsize --> TsdidEe:::txtsize
-EeapsodiarZsiagwS:::txtsize --> PdikerutirtoNrUis:::txtsize
-PdikerutirtoNrUis:::txtsize --> UnckencatfteEe:::txtsize
-PdikerutirtoNrUis:::txtsize --> Uollaodrnrnee:::txtsize
-EecnaamoUnde:::txtsize --> EeapsodiarZsiagwS:::txtsize
-EeapsodiarZsiagwS:::txtsize --> UnckencatfteEe:::txtsize
-UnckencatfteEe:::txtsize --> UnpOackeedsd:::txtsize
-UnckencatfteEe:::txtsize --> TsdidEe:::txtsize
-EeapsodiarZsiagwS:::txtsize --> PdikerutirtoNrUis:::txtsize
-PdikerutirtoNrUis:::txtsize --> UnckencatfteEe:::txtsize
-PdikerutirtoNrUis:::txtsize --> Uollaodrnrnee:::txtsize
+Upirsdbtvtlgs:::txtsize --> Voiriorrlisms:::txtsize
+Voiriorrlisms:::txtsize --> UikperngutVura:::txtsize
+UikperngutVura:::txtsize --> Ulfsrafapay:::txtsize
+UikperngutVura:::txtsize --> VuMoUswieggoy:::txtsize
+Voiriorrlisms:::txtsize --> PgvaHtrasoei:::txtsize
+PgvaHtrasoei:::txtsize --> WHmkssnliui:::txtsize
+PgvaHtrasoei:::txtsize --> Pgitsahltnkldb:::txtsize
+Upirsdbtvtlgs:::txtsize --> Uistitktvlanf:::txtsize
+Uistitktvlanf:::txtsize --> TsSbrltsurnama:::txtsize
+TsSbrltsurnama:::txtsize --> Upgirkfeasespncy:::txtsize
+TsSbrltsurnama:::txtsize --> Uuennggrmeenik:::txtsize
+Uistitktvlanf:::txtsize --> RararoVuMouaps:::txtsize
 
-Rasaatueedarsn@{ shape: win-pane, label: "_Published Dec 16, 2025, 10:24 PM_
-Russia calls german broadcaster deutsche welle an ‘undesirable organisation’" }
-Gnmsoeaafncifc@{ shape: win-pane, label: "_Published Dec 12, 2025, 08:39 PM_
-Germany blames russia for cyberattack on air safety and election interference" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
-Explosions heard in ukraine capital kyiv, other cities" }
-OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
-Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
-Gnhafiernl@{ shape: win-pane, label: "_Published Dec 08, 2025, 10:21 PM_
-German spy chief warns of russia threat to 2026 regional polls" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-RatagspSeynk@{ shape: win-pane, label: "_Published Mar 18, 2025, 10:57 PM_
-Russia sabotage campaign hits european, us targets, says think-tank" }
-Gnhafiernl@{ shape: win-pane, label: "_Published Dec 08, 2025, 10:21 PM_
-German spy chief warns of russia threat to 2026 regional polls" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
-Explosions heard in ukraine capital kyiv, other cities" }
-OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
-Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
-RatagspSeynk@{ shape: win-pane, label: "_Published Mar 18, 2025, 10:57 PM_
-Russia sabotage campaign hits european, us targets, says think-tank" }
-Notipntdarrabn@{ shape: win-pane, label: "_Published Dec 28, 2024, 12:41 AM_
-Nato to boost baltic sea presence after undersea power, internet cables broken" }
-LalRaKstogckeo@{ shape: win-pane, label: "_Published Mar 17, 2025, 10:17 PM_
-Lithuania blames russia for ikea arson, notes store logo matches ukraine’s colours" }
+Rnlurteseee@{ shape: win-pane, label: "_Published Dec 17, 2025, 01:07 AM_
+Rome’s new colosseum metro station reveals ancient treasures" }
+Ehveetrsaetsi@{ shape: win-pane, label: "_Published Oct 30, 2025, 07:51 PM_
+Egypt hopes vast new museum by the pyramids will accelerate tourism revival" }
+Anpmerlstoll@{ shape: win-pane, label: "_Published Jul 03, 2025, 02:56 AM_
+Ancient egyptian man’s genome reveals his society’s cross-cultural ties" }
+Eaniiepomoar@{ shape: win-pane, label: "_Published Feb 20, 2025, 10:00 AM_
+Egypt announces first discovery of pharaoh’s tomb in more than 100 years" }
+Eixtaiierteoee@{ shape: win-pane, label: "_Published Nov 10, 2024, 03:15 PM_
+Egyptians exhume the dead as historic cemetery razed to make way for development" }
+Eulneetamrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 01:26 AM_
+Egypt unveils plan for new desert city in latest megaproject" }
+Trqlieides@{ shape: win-pane, label: "_Published Feb 14, 2024, 03:12 PM_
+The world is quietly losing the land it needs to feed itself" }
+Harihitmede@{ shape: win-pane, label: "_Published Dec 14, 2025, 07:00 AM_
+Heritage for hire in delhi? the idea stirs a monumental debate" }
+IniftaiEegt@{ shape: win-pane, label: "_Published Dec 10, 2025, 03:10 PM_
+Indian festival of lights diwali joins unesco heritage list" }
+BdaatcaretSd@{ shape: win-pane, label: "_Published Dec 09, 2025, 05:52 PM_
+Beyond pizza and pasta: italy’s culinary heritage awaits unesco nod" }
+YaSipyhas@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:55 PM_
+Yo-de-lay-unesco? swiss hope for yodel heritage listing" }
+Ilhastyagsrys@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:25 PM_
+India launches ai app to save its many tribal languages before they vanish" }
+Ottetluitntsoine@{ shape: win-pane, label: "_Published Oct 25, 2023, 05:00 AM_
+One letter at a time – toto tribal community in eastern india strives to protect its language" }
 
-Rasaatueedarsn:::txtsize --> Gnmsoeaafncifc:::txtsize
-Gnmsoeaafncifc:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
-DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
-Gnmsoeaafncifc:::txtsize --> Gnhafiernl:::txtsize
-Gnhafiernl:::txtsize --> DsruasvUn:::txtsize
-Gnhafiernl:::txtsize --> RatagspSeynk:::txtsize
-Rasaatueedarsn:::txtsize --> Gnhafiernl:::txtsize
-Gnhafiernl:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
-DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
-Gnhafiernl:::txtsize --> RatagspSeynk:::txtsize
-RatagspSeynk:::txtsize --> Notipntdarrabn:::txtsize
-RatagspSeynk:::txtsize --> LalRaKstogckeo:::txtsize
+Rnlurteseee:::txtsize --> Ehveetrsaetsi:::txtsize
+Ehveetrsaetsi:::txtsize --> Anpmerlstoll:::txtsize
+Anpmerlstoll:::txtsize --> Eaniiepomoar:::txtsize
+Anpmerlstoll:::txtsize --> Eixtaiierteoee:::txtsize
+Ehveetrsaetsi:::txtsize --> Eulneetamrt:::txtsize
+Eulneetamrt:::txtsize --> Trqlieides:::txtsize
+Rnlurteseee:::txtsize --> Harihitmede:::txtsize
+Harihitmede:::txtsize --> IniftaiEegt:::txtsize
+IniftaiEegt:::txtsize --> BdaatcaretSd:::txtsize
+IniftaiEegt:::txtsize --> YaSipyhas:::txtsize
+Harihitmede:::txtsize --> Ilhastyagsrys:::txtsize
+Ilhastyagsrys:::txtsize --> Ottetluitntsoine:::txtsize
 
 ```
-<i>Last updated: 2025-12-17 00:01:01.454389 (GMT+8)</i>
+<i>Last updated: 2025-12-17 04:00:31.284400 (GMT+8)</i>
 <!-- END -->
