@@ -16,123 +16,102 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-BBhescrnae@{ shape: win-pane, label: "_Published Dec 16, 2025, 07:00 PM_
-Bondi beach hero becomes source of pride in syrian hometown" }
-Asdrttenaleeoie@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:30 PM_
-At least 16 dead after shooting at sydney’s bondi beach; police declare ‘terrorist incident’" }
-Prolmnnaogee@{ shape: win-pane, label: "_Published Dec 14, 2025, 08:54 PM_
-Passer-by who tackled armed man at bondi beach shooting hailed as hero" }
-Asdrttenaleeoie@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:30 PM_
-At least 16 dead after shooting at sydney’s bondi beach; police declare ‘terrorist incident’" }
-Aolaaunoaksina@{ shape: win-pane, label: "_Published Dec 14, 2025, 10:50 PM_
-‘an act of evil’: at least 16 dead, 40 injured in terrorist attack at australia’s bondi beach" }
-AeccAaitfw@{ shape: win-pane, label: "_Published Dec 14, 2025, 07:28 PM_
-Anti-semitic attacks in australia since start of gaza war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-ArastIlfurd@{ shape: win-pane, label: "_Published Dec 11, 2024, 08:10 AM_
-‘an outrage’: vandals paint anti-israel graffiti, burn car in sydney" }
+JKevhraabna@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:46 PM_
+Jared kushner is everywhere, from peace deals to big money deals" }
 
-BBhescrnae:::txtsize --> Asdrttenaleeoie:::txtsize
-Asdrttenaleeoie:::txtsize --> Prolmnnaogee:::txtsize
-Prolmnnaogee:::txtsize --> Asdrttenaleeoie:::txtsize
-Prolmnnaogee:::txtsize --> Aolaaunoaksina:::txtsize
-Asdrttenaleeoie:::txtsize --> AeccAaitfw:::txtsize
-AeccAaitfw:::txtsize --> NyeeawHakl:::txtsize
-AeccAaitfw:::txtsize --> ArastIlfurd:::txtsize
 
-Cseeyodnih@{ shape: win-pane, label: "_Published Dec 16, 2025, 05:30 PM_
-Child stabbed to death by fellow student in russian school" }
-Uibsitnanrsi@{ shape: win-pane, label: "_Published Nov 03, 2025, 03:29 AM_
-Uk train stabbings carried out by lone attacker, not terrorism: police" }
-BsiynectrnnBsat@{ shape: win-pane, label: "_Published Nov 02, 2025, 02:59 PM_
-British police say train knife attack not terrorist incident, two british men arrested" }
-Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
-British man of syrian descent named as manchester synagogue attacker" }
-Bieaykccs@{ shape: win-pane, label: "_Published Jul 29, 2025, 02:18 PM_
-Britain tries to tackle youth knife crime crisis" }
-BsiynectrnnBsat@{ shape: win-pane, label: "_Published Nov 02, 2025, 02:59 PM_
-British police say train knife attack not terrorist incident, two british men arrested" }
-Bsoisnaceaec@{ shape: win-pane, label: "_Published Oct 03, 2025, 06:58 AM_
-British man of syrian descent named as manchester synagogue attacker" }
-Bieaykccs@{ shape: win-pane, label: "_Published Jul 29, 2025, 02:18 PM_
-Britain tries to tackle youth knife crime crisis" }
-Fheobaifacea@{ shape: win-pane, label: "_Published Sep 24, 2025, 05:47 PM_
-French student who stabbed teacher in the face was fascinated by nazism" }
-Fhtietottohei@{ shape: win-pane, label: "_Published Dec 21, 2024, 12:50 PM_
-French court convicts 8 people tied to events that led to teacher’s beheading" }
-Seeeneotihner@{ shape: win-pane, label: "_Published Dec 09, 2023, 03:45 AM_
-Six french teenagers convicted in connection with beheading of teacher" }
-oarouochwoca@{ shape: win-pane, label: "_Published Nov 04, 2024, 06:46 PM_
-8 on trial in france over murder of teacher who showed prophet caricature" }
-Tiavoncrlitbi@{ shape: win-pane, label: "_Published Sep 02, 2025, 11:59 PM_
-Tunisian stabs five at hotel in france’s marseille and is shot dead by police" }
-Tattrrgeloiy@{ shape: win-pane, label: "_Published Jul 29, 2025, 03:28 AM_
-Two stabbed to death near tower bridge in central london, police say" }
-ientalihUis@{ shape: win-pane, label: "_Published Jul 27, 2025, 08:38 AM_
-11 injured in knife attack at a walmart in michigan, us officials say" }
+EecnaamoUnde@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:44 PM_
+Europe launches international commission for ukraine war damages" }
+EeapsodiarZsiagwS@{ shape: win-pane, label: "_Published Dec 16, 2025, 03:54 AM_
+European leaders propose europe-led ukraine peace force as zelensky hails ‘real progress’ with us" }
+UnckencatfteEe@{ shape: win-pane, label: "_Published Dec 15, 2025, 08:19 PM_
+Ukraine peace talks stretch into second day at start of pivotal week for europe" }
+UnpOackeedsd@{ shape: win-pane, label: "_Published Dec 14, 2025, 07:24 PM_
+Ukraine drops nato goal as peace talks in berlin extend into second day" }
+TsdidEe@{ shape: win-pane, label: "_Published Dec 10, 2025, 06:40 AM_
+Trump slams ‘decaying’ and ‘weak’ europe" }
+PdikerutirtoNrUis@{ shape: win-pane, label: "_Published Dec 16, 2025, 01:29 AM_
+Peace deal gives ukraine security guarantees similar to article 5 of the nato treaty, us official says" }
+UnckencatfteEe@{ shape: win-pane, label: "_Published Dec 15, 2025, 08:19 PM_
+Ukraine peace talks stretch into second day at start of pivotal week for europe" }
+Uollaodrnrnee@{ shape: win-pane, label: "_Published Dec 16, 2025, 01:53 AM_
+Us reportedly tells ukraine to withdraw from donetsk region for peace deal" }
+EeapsodiarZsiagwS@{ shape: win-pane, label: "_Published Dec 16, 2025, 03:54 AM_
+European leaders propose europe-led ukraine peace force as zelensky hails ‘real progress’ with us" }
+UnckencatfteEe@{ shape: win-pane, label: "_Published Dec 15, 2025, 08:19 PM_
+Ukraine peace talks stretch into second day at start of pivotal week for europe" }
+UnpOackeedsd@{ shape: win-pane, label: "_Published Dec 14, 2025, 07:24 PM_
+Ukraine drops nato goal as peace talks in berlin extend into second day" }
+TsdidEe@{ shape: win-pane, label: "_Published Dec 10, 2025, 06:40 AM_
+Trump slams ‘decaying’ and ‘weak’ europe" }
+PdikerutirtoNrUis@{ shape: win-pane, label: "_Published Dec 16, 2025, 01:29 AM_
+Peace deal gives ukraine security guarantees similar to article 5 of the nato treaty, us official says" }
+UnckencatfteEe@{ shape: win-pane, label: "_Published Dec 15, 2025, 08:19 PM_
+Ukraine peace talks stretch into second day at start of pivotal week for europe" }
+Uollaodrnrnee@{ shape: win-pane, label: "_Published Dec 16, 2025, 01:53 AM_
+Us reportedly tells ukraine to withdraw from donetsk region for peace deal" }
 
-Cseeyodnih:::txtsize --> Uibsitnanrsi:::txtsize
-Uibsitnanrsi:::txtsize --> BsiynectrnnBsat:::txtsize
-BsiynectrnnBsat:::txtsize --> Bsoisnaceaec:::txtsize
-BsiynectrnnBsat:::txtsize --> Bieaykccs:::txtsize
-Uibsitnanrsi:::txtsize --> BsiynectrnnBsat:::txtsize
-BsiynectrnnBsat:::txtsize --> Bsoisnaceaec:::txtsize
-BsiynectrnnBsat:::txtsize --> Bieaykccs:::txtsize
-Cseeyodnih:::txtsize --> Fheobaifacea:::txtsize
-Fheobaifacea:::txtsize --> Fhtietottohei:::txtsize
-Fhtietottohei:::txtsize --> Seeeneotihner:::txtsize
-Fhtietottohei:::txtsize --> oarouochwoca:::txtsize
-Fheobaifacea:::txtsize --> Tiavoncrlitbi:::txtsize
-Tiavoncrlitbi:::txtsize --> Tattrrgeloiy:::txtsize
-Tiavoncrlitbi:::txtsize --> ientalihUis:::txtsize
+EecnaamoUnde:::txtsize --> EeapsodiarZsiagwS:::txtsize
+EeapsodiarZsiagwS:::txtsize --> UnckencatfteEe:::txtsize
+UnckencatfteEe:::txtsize --> UnpOackeedsd:::txtsize
+UnckencatfteEe:::txtsize --> TsdidEe:::txtsize
+EeapsodiarZsiagwS:::txtsize --> PdikerutirtoNrUis:::txtsize
+PdikerutirtoNrUis:::txtsize --> UnckencatfteEe:::txtsize
+PdikerutirtoNrUis:::txtsize --> Uollaodrnrnee:::txtsize
+EecnaamoUnde:::txtsize --> EeapsodiarZsiagwS:::txtsize
+EeapsodiarZsiagwS:::txtsize --> UnckencatfteEe:::txtsize
+UnckencatfteEe:::txtsize --> UnpOackeedsd:::txtsize
+UnckencatfteEe:::txtsize --> TsdidEe:::txtsize
+EeapsodiarZsiagwS:::txtsize --> PdikerutirtoNrUis:::txtsize
+PdikerutirtoNrUis:::txtsize --> UnckencatfteEe:::txtsize
+PdikerutirtoNrUis:::txtsize --> Uollaodrnrnee:::txtsize
 
-Ddpgtieidn@{ shape: win-pane, label: "_Published Dec 16, 2025, 01:42 PM_
-Donald trump jr engaged to socialite bettina anderson" }
-TpsiKrilmaocTraou@{ shape: win-pane, label: "_Published Dec 11, 2024, 09:18 AM_
-Trump picks son’s fiance kimberly guilfoyle as ambassador to greece and tom barrack as envoy to turkey" }
-Tthsntfoanoc@{ shape: win-pane, label: "_Published Dec 01, 2024, 06:03 AM_
-Trump taps charles kushner, father of his son-in-law, as envoy to france" }
-TttaocnseeUl@{ shape: win-pane, label: "_Published Dec 01, 2024, 03:57 AM_
-Trump threatens 100% tariff on brics countries if they undercut us dollar" }
-Tdsotwasetegpf@{ shape: win-pane, label: "_Published Dec 01, 2024, 03:14 AM_
-Trump discussed border, trade with canada’s trudeau after pledging steep tariffs" }
-TpMdoessAiEra@{ shape: win-pane, label: "_Published Dec 02, 2024, 04:58 AM_
-Trump picks massad boulos to serve as adviser on arab, middle eastern affairs" }
-Tthsntfoanoc@{ shape: win-pane, label: "_Published Dec 01, 2024, 06:03 AM_
-Trump taps charles kushner, father of his son-in-law, as envoy to france" }
-TpSoifdowhI@{ shape: win-pane, label: "_Published Nov 27, 2024, 01:50 PM_
-Trump picks stanford critic of covid-19 era lockdowns to head nih" }
-Cohowhrfyoe@{ shape: win-pane, label: "_Published Nov 24, 2025, 06:45 AM_
-Crypto crash is eroding wealth for trump’s family and followers" }
-Tumsgnyrtmonoln@{ shape: win-pane, label: "_Published Apr 13, 2025, 09:30 AM_
-The trump family is going all in on crypto projects, from bitcoin mining to stablecoins" }
-TMtiosyoMniF@{ shape: win-pane, label: "_Published Mar 25, 2025, 09:18 AM_
-Trump media taps singapore-based crypto.com for made-in-america etfs" }
-Humucohyanr@{ shape: win-pane, label: "_Published Jan 12, 2025, 10:00 AM_
-How trump came around to crypto – and what crypto wants in return" }
-Tumsgnyrtmonoln@{ shape: win-pane, label: "_Published Apr 13, 2025, 09:30 AM_
-The trump family is going all in on crypto projects, from bitcoin mining to stablecoins" }
-TMtiosyoMniF@{ shape: win-pane, label: "_Published Mar 25, 2025, 09:18 AM_
-Trump media taps singapore-based crypto.com for made-in-america etfs" }
-Humucohyanr@{ shape: win-pane, label: "_Published Jan 12, 2025, 10:00 AM_
-How trump came around to crypto – and what crypto wants in return" }
+Rasaatueedarsn@{ shape: win-pane, label: "_Published Dec 16, 2025, 10:24 PM_
+Russia calls german broadcaster deutsche welle an ‘undesirable organisation’" }
+Gnmsoeaafncifc@{ shape: win-pane, label: "_Published Dec 12, 2025, 08:39 PM_
+Germany blames russia for cyberattack on air safety and election interference" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
+Explosions heard in ukraine capital kyiv, other cities" }
+OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
+Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
+Gnhafiernl@{ shape: win-pane, label: "_Published Dec 08, 2025, 10:21 PM_
+German spy chief warns of russia threat to 2026 regional polls" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+RatagspSeynk@{ shape: win-pane, label: "_Published Mar 18, 2025, 10:57 PM_
+Russia sabotage campaign hits european, us targets, says think-tank" }
+Gnhafiernl@{ shape: win-pane, label: "_Published Dec 08, 2025, 10:21 PM_
+German spy chief warns of russia threat to 2026 regional polls" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
+Explosions heard in ukraine capital kyiv, other cities" }
+OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
+Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
+RatagspSeynk@{ shape: win-pane, label: "_Published Mar 18, 2025, 10:57 PM_
+Russia sabotage campaign hits european, us targets, says think-tank" }
+Notipntdarrabn@{ shape: win-pane, label: "_Published Dec 28, 2024, 12:41 AM_
+Nato to boost baltic sea presence after undersea power, internet cables broken" }
+LalRaKstogckeo@{ shape: win-pane, label: "_Published Mar 17, 2025, 10:17 PM_
+Lithuania blames russia for ikea arson, notes store logo matches ukraine’s colours" }
 
-Ddpgtieidn:::txtsize --> TpsiKrilmaocTraou:::txtsize
-TpsiKrilmaocTraou:::txtsize --> Tthsntfoanoc:::txtsize
-Tthsntfoanoc:::txtsize --> TttaocnseeUl:::txtsize
-Tthsntfoanoc:::txtsize --> Tdsotwasetegpf:::txtsize
-TpsiKrilmaocTraou:::txtsize --> TpMdoessAiEra:::txtsize
-TpMdoessAiEra:::txtsize --> Tthsntfoanoc:::txtsize
-TpMdoessAiEra:::txtsize --> TpSoifdowhI:::txtsize
-Ddpgtieidn:::txtsize --> Cohowhrfyoe:::txtsize
-Cohowhrfyoe:::txtsize --> Tumsgnyrtmonoln:::txtsize
-Tumsgnyrtmonoln:::txtsize --> TMtiosyoMniF:::txtsize
-Tumsgnyrtmonoln:::txtsize --> Humucohyanr:::txtsize
-Cohowhrfyoe:::txtsize --> Tumsgnyrtmonoln:::txtsize
-Tumsgnyrtmonoln:::txtsize --> TMtiosyoMniF:::txtsize
-Tumsgnyrtmonoln:::txtsize --> Humucohyanr:::txtsize
+Rasaatueedarsn:::txtsize --> Gnmsoeaafncifc:::txtsize
+Gnmsoeaafncifc:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
+DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
+Gnmsoeaafncifc:::txtsize --> Gnhafiernl:::txtsize
+Gnhafiernl:::txtsize --> DsruasvUn:::txtsize
+Gnhafiernl:::txtsize --> RatagspSeynk:::txtsize
+Rasaatueedarsn:::txtsize --> Gnhafiernl:::txtsize
+Gnhafiernl:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
+DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
+Gnhafiernl:::txtsize --> RatagspSeynk:::txtsize
+RatagspSeynk:::txtsize --> Notipntdarrabn:::txtsize
+RatagspSeynk:::txtsize --> LalRaKstogckeo:::txtsize
 
 ```
-<i>Last updated: 2025-12-16 20:00:38.317297 (GMT+8)</i>
+<i>Last updated: 2025-12-17 00:01:01.454389 (GMT+8)</i>
 <!-- END -->
