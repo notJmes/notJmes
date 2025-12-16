@@ -16,8 +16,54 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-DeaSrtatsUsls@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:50 AM_
-Delivery giant ups underpaid thousands at christmas, us lawsuit alleges" }
+Ddpgtieidn@{ shape: win-pane, label: "_Published Dec 16, 2025, 01:42 PM_
+Donald trump jr engaged to socialite bettina anderson" }
+TpsiKrilmaocTraou@{ shape: win-pane, label: "_Published Dec 11, 2024, 09:18 AM_
+Trump picks son’s fiance kimberly guilfoyle as ambassador to greece and tom barrack as envoy to turkey" }
+Tthsntfoanoc@{ shape: win-pane, label: "_Published Dec 01, 2024, 06:03 AM_
+Trump taps charles kushner, father of his son-in-law, as envoy to france" }
+TttaocnseeUl@{ shape: win-pane, label: "_Published Dec 01, 2024, 03:57 AM_
+Trump threatens 100% tariff on brics countries if they undercut us dollar" }
+Tdsotwasetegpf@{ shape: win-pane, label: "_Published Dec 01, 2024, 03:14 AM_
+Trump discussed border, trade with canada’s trudeau after pledging steep tariffs" }
+TpMdoessAiEra@{ shape: win-pane, label: "_Published Dec 02, 2024, 04:58 AM_
+Trump picks massad boulos to serve as adviser on arab, middle eastern affairs" }
+Tthsntfoanoc@{ shape: win-pane, label: "_Published Dec 01, 2024, 06:03 AM_
+Trump taps charles kushner, father of his son-in-law, as envoy to france" }
+TpSoifdowhI@{ shape: win-pane, label: "_Published Nov 27, 2024, 01:50 PM_
+Trump picks stanford critic of covid-19 era lockdowns to head nih" }
+Cohowhrfyoe@{ shape: win-pane, label: "_Published Nov 24, 2025, 06:45 AM_
+Crypto crash is eroding wealth for trump’s family and followers" }
+Tumsgnyrtmonoln@{ shape: win-pane, label: "_Published Apr 13, 2025, 09:30 AM_
+The trump family is going all in on crypto projects, from bitcoin mining to stablecoins" }
+TMtiosyoMniF@{ shape: win-pane, label: "_Published Mar 25, 2025, 09:18 AM_
+Trump media taps singapore-based crypto.com for made-in-america etfs" }
+Humucohyanr@{ shape: win-pane, label: "_Published Jan 12, 2025, 10:00 AM_
+How trump came around to crypto – and what crypto wants in return" }
+Tumsgnyrtmonoln@{ shape: win-pane, label: "_Published Apr 13, 2025, 09:30 AM_
+The trump family is going all in on crypto projects, from bitcoin mining to stablecoins" }
+TMtiosyoMniF@{ shape: win-pane, label: "_Published Mar 25, 2025, 09:18 AM_
+Trump media taps singapore-based crypto.com for made-in-america etfs" }
+Humucohyanr@{ shape: win-pane, label: "_Published Jan 12, 2025, 10:00 AM_
+How trump came around to crypto – and what crypto wants in return" }
+
+Ddpgtieidn:::txtsize --> TpsiKrilmaocTraou:::txtsize
+TpsiKrilmaocTraou:::txtsize --> Tthsntfoanoc:::txtsize
+Tthsntfoanoc:::txtsize --> TttaocnseeUl:::txtsize
+Tthsntfoanoc:::txtsize --> Tdsotwasetegpf:::txtsize
+TpsiKrilmaocTraou:::txtsize --> TpMdoessAiEra:::txtsize
+TpMdoessAiEra:::txtsize --> Tthsntfoanoc:::txtsize
+TpMdoessAiEra:::txtsize --> TpSoifdowhI:::txtsize
+Ddpgtieidn:::txtsize --> Cohowhrfyoe:::txtsize
+Cohowhrfyoe:::txtsize --> Tumsgnyrtmonoln:::txtsize
+Tumsgnyrtmonoln:::txtsize --> TMtiosyoMniF:::txtsize
+Tumsgnyrtmonoln:::txtsize --> Humucohyanr:::txtsize
+Cohowhrfyoe:::txtsize --> Tumsgnyrtmonoln:::txtsize
+Tumsgnyrtmonoln:::txtsize --> TMtiosyoMniF:::txtsize
+Tumsgnyrtmonoln:::txtsize --> Humucohyanr:::txtsize
+
+DeaSrtafdaoswae@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:50 AM_
+Delivery giant ups underpaid thousands of holiday season workers, us lawsuit alleges" }
 Uejtncaer@{ shape: win-pane, label: "_Published Oct 29, 2025, 09:48 AM_
 Ups deepens job cuts to 48,000 on reduced amazon deliveries" }
 Antojoioyee@{ shape: win-pane, label: "_Published Oct 28, 2025, 09:45 PM_
@@ -31,7 +77,7 @@ As global supply chains shift, china’s exports of factory robots see a sharp r
 Rsgohhwreho@{ shape: win-pane, label: "_Published Nov 24, 2024, 11:00 AM_
 Robots struggle to match warehouse workers on ‘really hard’ jobs" }
 
-DeaSrtatsUsls:::txtsize --> Uejtncaer:::txtsize
+DeaSrtafdaoswae:::txtsize --> Uejtncaer:::txtsize
 Uejtncaer:::txtsize --> Antojoioyee:::txtsize
 Antojoioyee:::txtsize --> Annosapesitc:::txtsize
 Uejtncaer:::txtsize --> Anspmhoto:::txtsize
@@ -54,31 +100,6 @@ Spepvobsuorrluewn:::txtsize --> Hheeguvgeihhcbd:::txtsize
 Hheeguvgeihhcbd:::txtsize --> HhGhyenonraafl:::txtsize
 Hheeguvgeihhcbd:::txtsize --> AecpceinhftSYg:::txtsize
 
-FJatteeeBcis@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:15 AM_
-Famed jerusalem stone still sells despite west bank economic woes" }
-IllronseWal@{ shape: win-pane, label: "_Published Aug 25, 2025, 12:35 AM_
-Israeli bulldozers uproot hundreds of trees in west bank village" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-Ildasbsewfi@{ shape: win-pane, label: "_Published Aug 24, 2025, 04:37 PM_
-Israel pounds gaza city suburbs, vows to press on with offensive" }
-Ilttataodmhg@{ shape: win-pane, label: "_Published Aug 22, 2025, 03:55 PM_
-Israel vows to destroy gaza city if hamas doesn't disarm, free hostages" }
-IldaoaraspsC@{ shape: win-pane, label: "_Published Aug 22, 2025, 01:42 AM_
-Israel pm orders talks to free ‘all our hostages’ as army pounds gaza city" }
-
-FJatteeeBcis:::txtsize --> IllronseWal:::txtsize
-IllronseWal:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-IllronseWal:::txtsize --> Ildasbsewfi:::txtsize
-Ildasbsewfi:::txtsize --> Ilttataodmhg:::txtsize
-Ildasbsewfi:::txtsize --> IldaoaraspsC:::txtsize
-
 ```
-<i>Last updated: 2025-12-16 12:00:47.983605 (GMT+8)</i>
+<i>Last updated: 2025-12-16 16:01:10.628721 (GMT+8)</i>
 <!-- END -->
