@@ -16,114 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tafioeemnss@{ shape: win-pane, label: "_Published Dec 16, 2025, 03:54 AM_
-Thousands of glaciers to melt each year by mid-century, study shows" }
-Sgerhyrtfntsts@{ shape: win-pane, label: "_Published Oct 01, 2025, 03:09 PM_
-Swiss glaciers shrank sharply after light snowfall and heatwave, scientists say" }
-Gelbsznlnnkemn@{ shape: win-pane, label: "_Published May 28, 2025, 11:04 PM_
-Glacier collapse buries switzerland village in mud and rock, one person missing" }
-Mvkemssa@{ shape: win-pane, label: "_Published Jun 17, 2023, 01:13 AM_
-Massive rockslide just misses swiss village" }
-Fesavnkhhrrai@{ shape: win-pane, label: "_Published May 22, 2025, 05:55 PM_
-Four dead, 17 missing as heavy rains soak southern china, triggering landslides" }
-Sednecegaic@{ shape: win-pane, label: "_Published Sep 22, 2025, 06:46 PM_
-Switzerland’s ‘dying’ gries glacier melting at an alarming pace" }
-Stwgtsticoes@{ shape: win-pane, label: "_Published Sep 09, 2025, 07:00 PM_
-Scientists warn against plans to artificially cool polar regions" }
-Bfindlgeer@{ shape: win-pane, label: "_Published Aug 07, 2025, 04:59 PM_
-Body of missing man found on melting glacier after 28 years" }
-Sednecegaic@{ shape: win-pane, label: "_Published Sep 22, 2025, 06:46 PM_
-Switzerland’s ‘dying’ gries glacier melting at an alarming pace" }
-Stwgtsticoes@{ shape: win-pane, label: "_Published Sep 09, 2025, 07:00 PM_
-Scientists warn against plans to artificially cool polar regions" }
-CseflaurataAch@{ shape: win-pane, label: "_Published Sep 03, 2025, 12:59 AM_
-Colossal iceberg finally breaking up nearly 40 years after leaving antarctic shelf" }
-Rlfriyitnnet@{ shape: win-pane, label: "_Published Aug 20, 2025, 11:17 PM_
-Rapid loss of antarctic ice may be climate tipping point, scientists say" }
-Bfindlgeer@{ shape: win-pane, label: "_Published Aug 07, 2025, 04:59 PM_
-Body of missing man found on melting glacier after 28 years" }
-BfindlAiaamha@{ shape: win-pane, label: "_Published Aug 24, 2023, 01:40 PM_
-Body of missing man found on melting austrian glacier after more than 20 years" }
-Holnimeydr@{ shape: win-pane, label: "_Published Aug 05, 2025, 06:07 PM_
-Hong kong police investigate mangled body found on street" }
+Tbsawnstidaao@{ shape: win-pane, label: "_Published Dec 16, 2025, 07:19 AM_
+Trump brands fentanyl a ‘weapon of mass destruction’ in drug war escalation" }
+HrUrdsiosir@{ shape: win-pane, label: "_Published May 15, 2025, 12:38 AM_
+Huge drop in us overdose deaths, marking progress in opioid crisis" }
+TsidzpiaoMo@{ shape: win-pane, label: "_Published Feb 14, 2025, 07:34 AM_
+Trump’s foreign aid freeze stops anti-fentanyl work in mexico" }
+Tanaineowni@{ shape: win-pane, label: "_Published Feb 03, 2025, 11:00 AM_
+Trump announces talks with canada, mexico over sweeping tariffs" }
+WoaTssindida@{ shape: win-pane, label: "_Published Feb 02, 2025, 08:48 AM_
+What to know about trump’s latest tariffs on canada, mexico and china" }
+Cseyuesit@{ shape: win-pane, label: "_Published May 13, 2025, 02:49 PM_
+China says fentanyl issue is responsibility of the us" }
+Tsdaeeogwff@{ shape: win-pane, label: "_Published Apr 10, 2025, 06:00 PM_
+Trump’s world view and the dangers from his great wall of tariffs" }
+CwsafosttWp@{ shape: win-pane, label: "_Published May 03, 2025, 02:23 AM_
+China weighs fentanyl offer to us to start trade talks, wsj reports" }
+VuorKiuyr@{ shape: win-pane, label: "_Published Dec 04, 2025, 05:10 PM_
+Venezuela boat strikes: kill first, justify never?" }
+UmsvnoaTpealtoea@{ shape: win-pane, label: "_Published Dec 04, 2025, 06:50 AM_
+Us lawmakers want vote on war powers after trump pledges to launch land attack on venezuela ‘soon’" }
+CsdltSatcerrrtsz@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
+‘colossal and costly mistake’: us lawmakers to force vote on war powers if trump attacks venezuela" }
 
-Tafioeemnss:::txtsize --> Sgerhyrtfntsts:::txtsize
-Sgerhyrtfntsts:::txtsize --> Gelbsznlnnkemn:::txtsize
-Gelbsznlnnkemn:::txtsize --> Mvkemssa:::txtsize
-Gelbsznlnnkemn:::txtsize --> Fesavnkhhrrai:::txtsize
-Sgerhyrtfntsts:::txtsize --> Sednecegaic:::txtsize
-Sednecegaic:::txtsize --> Stwgtsticoes:::txtsize
-Sednecegaic:::txtsize --> Bfindlgeer:::txtsize
-Tafioeemnss:::txtsize --> Sednecegaic:::txtsize
-Sednecegaic:::txtsize --> Stwgtsticoes:::txtsize
-Stwgtsticoes:::txtsize --> CseflaurataAch:::txtsize
-Stwgtsticoes:::txtsize --> Rlfriyitnnet:::txtsize
-Sednecegaic:::txtsize --> Bfindlgeer:::txtsize
-Bfindlgeer:::txtsize --> BfindlAiaamha:::txtsize
-Bfindlgeer:::txtsize --> Holnimeydr:::txtsize
+Tbsawnstidaao:::txtsize --> HrUrdsiosir:::txtsize
+HrUrdsiosir:::txtsize --> TsidzpiaoMo:::txtsize
+TsidzpiaoMo:::txtsize --> Tanaineowni:::txtsize
+TsidzpiaoMo:::txtsize --> WoaTssindida:::txtsize
+HrUrdsiosir:::txtsize --> Cseyuesit:::txtsize
+Cseyuesit:::txtsize --> Tsdaeeogwff:::txtsize
+Cseyuesit:::txtsize --> CwsafosttWp:::txtsize
+Tbsawnstidaao:::txtsize --> VuorKiuyr:::txtsize
+VuorKiuyr:::txtsize --> UmsvnoaTpealtoea:::txtsize
+UmsvnoaTpealtoea:::txtsize --> CsdltSatcerrrtsz:::txtsize
 
-TcmoileRrghne@{ shape: win-pane, label: "_Published Dec 16, 2025, 03:21 AM_
-Trump condemned for saying filmmaker rob reiner brought on his own murder" }
-Richtdtsle@{ shape: win-pane, label: "_Published Dec 15, 2025, 04:45 PM_
-Rob reiner, actor who went on to direct classic films, dies at 78" }
-Uivgghoorreafpni@{ shape: win-pane, label: "_Published Dec 15, 2025, 11:45 AM_
-Us police investigating deaths of hollywood director rob reiner and wife as apparent homicide" }
-WfHaroetimsrit@{ shape: win-pane, label: "_Published Apr 16, 2025, 09:39 AM_
-Wife of gene hackman searched online about flu-like symptoms before their deaths" }
-TnalaCCuuaoa@{ shape: win-pane, label: "_Published Mar 16, 2025, 05:51 PM_
-Taiwanese martial arts actor chang chen-huan found dead at home at age 65" }
-Owncecafndm@{ shape: win-pane, label: "_Published Feb 27, 2025, 04:47 PM_
-Oscar-winning us actor gene hackman and wife found dead at home" }
-Tacmeroauasdt@{ shape: win-pane, label: "_Published Oct 31, 2024, 12:30 PM_
-Teri garr, oscar-nominated star of tootsie and young frankenstein, dies at 79" }
-Ltcyea@{ shape: win-pane, label: "_Published Dec 09, 2023, 12:15 PM_
-Love story actor ryan o’neal dead at 82" }
-Riscrimeefmaf@{ shape: win-pane, label: "_Published Dec 16, 2025, 12:23 AM_
-Rob reiner’s son nick charged with homicide for death of filmmaker and wife" }
-Uivgghoorreafpni@{ shape: win-pane, label: "_Published Dec 15, 2025, 11:45 AM_
-Us police investigating deaths of hollywood director rob reiner and wife as apparent homicide" }
-WfHaroetimsrit@{ shape: win-pane, label: "_Published Apr 16, 2025, 09:39 AM_
-Wife of gene hackman searched online about flu-like symptoms before their deaths" }
-TnalaCCuuaoa@{ shape: win-pane, label: "_Published Mar 16, 2025, 05:51 PM_
-Taiwanese martial arts actor chang chen-huan found dead at home at age 65" }
-TcmoileRrghne@{ shape: win-pane, label: "_Published Dec 16, 2025, 03:21 AM_
-Trump condemned for saying filmmaker rob reiner brought on his own murder" }
-Richtdtsle@{ shape: win-pane, label: "_Published Dec 15, 2025, 04:45 PM_
-Rob reiner, actor who went on to direct classic films, dies at 78" }
-Riscrimeefmaf@{ shape: win-pane, label: "_Published Dec 16, 2025, 12:23 AM_
-Rob reiner’s son nick charged with homicide for death of filmmaker and wife" }
+TsatnCled@{ shape: win-pane, label: "_Published Dec 16, 2025, 07:10 AM_
+Trump says lawsuit against bbc likely to be filed soon" }
+TttBhiwaagfio@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:49 AM_
+Trump threatens bbc with $1.3 billion lawsuit as bbc apologises for edit error" }
+Bshfqfroneri@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:45 AM_
+Bbc boss and head of news quit after trump documentary edit criticism" }
+Gonsobhcyerws@{ shape: win-pane, label: "_Published Jul 15, 2025, 01:09 AM_
+Gaza documentary shown on bbc breached accuracy guideline, review finds" }
+BsislBsisedpsnies@{ shape: win-pane, label: "_Published Nov 09, 2025, 09:00 PM_
+British minister says claims bbc misled viewers with edited trump clips are ‘incredibly serious’" }
+SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
+Storming of us capitol: timeline of key events in washington" }
+peapubmalrest@{ shape: win-pane, label: "_Published Jan 07, 2021, 03:22 AM_
+4 people dead after pro-trump mob storms us capitol; congress resumes debate" }
+BtnfTdac@{ shape: win-pane, label: "_Published Nov 17, 2025, 11:28 PM_
+Bbc ‘determined to fight’ trump defamation claim" }
+Tsieooieet@{ shape: win-pane, label: "_Published Nov 15, 2025, 10:09 AM_
+Trump says will sue bbc for up to $6.4 billion over video edit" }
+TttBhiwaagfio@{ shape: win-pane, label: "_Published Nov 11, 2025, 12:49 AM_
+Trump threatens bbc with $1.3 billion lawsuit as bbc apologises for edit error" }
+BiCosueoshrtaoi@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:07 AM_
+Britain’s bbc apologises to trump over panorama speech edit, rejects defamation claim" }
+Bshfqfroneri@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:45 AM_
+Bbc boss and head of news quit after trump documentary edit criticism" }
+Gonsobhcyerws@{ shape: win-pane, label: "_Published Jul 15, 2025, 01:09 AM_
+Gaza documentary shown on bbc breached accuracy guideline, review finds" }
+BsislBsisedpsnies@{ shape: win-pane, label: "_Published Nov 09, 2025, 09:00 PM_
+British minister says claims bbc misled viewers with edited trump clips are ‘incredibly serious’" }
 
-TcmoileRrghne:::txtsize --> Richtdtsle:::txtsize
-Richtdtsle:::txtsize --> Uivgghoorreafpni:::txtsize
-Uivgghoorreafpni:::txtsize --> WfHaroetimsrit:::txtsize
-Uivgghoorreafpni:::txtsize --> TnalaCCuuaoa:::txtsize
-Richtdtsle:::txtsize --> Owncecafndm:::txtsize
-Owncecafndm:::txtsize --> Tacmeroauasdt:::txtsize
-Owncecafndm:::txtsize --> Ltcyea:::txtsize
-TcmoileRrghne:::txtsize --> Riscrimeefmaf:::txtsize
-Riscrimeefmaf:::txtsize --> Uivgghoorreafpni:::txtsize
-Uivgghoorreafpni:::txtsize --> WfHaroetimsrit:::txtsize
-Uivgghoorreafpni:::txtsize --> TnalaCCuuaoa:::txtsize
-Riscrimeefmaf:::txtsize --> TcmoileRrghne:::txtsize
-TcmoileRrghne:::txtsize --> Richtdtsle:::txtsize
-TcmoileRrghne:::txtsize --> Riscrimeefmaf:::txtsize
+TsatnCled:::txtsize --> TttBhiwaagfio:::txtsize
+TttBhiwaagfio:::txtsize --> Bshfqfroneri:::txtsize
+Bshfqfroneri:::txtsize --> Gonsobhcyerws:::txtsize
+Bshfqfroneri:::txtsize --> BsislBsisedpsnies:::txtsize
+TttBhiwaagfio:::txtsize --> SiUiinenWn:::txtsize
+SiUiinenWn:::txtsize --> peapubmalrest:::txtsize
+TsatnCled:::txtsize --> BtnfTdac:::txtsize
+BtnfTdac:::txtsize --> Tsieooieet:::txtsize
+Tsieooieet:::txtsize --> TttBhiwaagfio:::txtsize
+Tsieooieet:::txtsize --> BiCosueoshrtaoi:::txtsize
+BtnfTdac:::txtsize --> Bshfqfroneri:::txtsize
+Bshfqfroneri:::txtsize --> Gonsobhcyerws:::txtsize
+Bshfqfroneri:::txtsize --> BsislBsisedpsnies:::txtsize
 
-Taitaeptenfto@{ shape: win-pane, label: "_Published Dec 16, 2025, 03:13 AM_
-Trump administration launches campaign to hire 1,000 engineers for ai, tech roles" }
-Taotniddfoevet@{ shape: win-pane, label: "_Published Nov 25, 2025, 08:30 AM_
-Trump aims to boost ai innovation and build platform to harness government data" }
-TsosniteIln@{ shape: win-pane, label: "_Published Dec 12, 2025, 08:10 AM_
-Trump signs order seeking to limit state-level ai regulation" }
-HenluSotbtd@{ shape: win-pane, label: "_Published Dec 11, 2025, 05:00 AM_
-Harmless fun? people are using sora to create problematic videos" }
-OIcotTyp@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:31 PM_
-Openai launches sora 2 with tiktok-style app" }
+TsesilHoia@{ shape: win-pane, label: "_Published Dec 16, 2025, 07:10 AM_
+Trump says he has asked xi to release hong kong’s jimmy lai" }
+Houncialsircsnoeta@{ shape: win-pane, label: "_Published Dec 15, 2025, 10:50 AM_
+Hong kong court finds tycoon jimmy lai guilty of sedition, foreign collusion in national security trial" }
+Hopapioefetfeo@{ shape: win-pane, label: "_Published Jun 24, 2021, 10:58 AM_
+Hong kong's apple daily apologises to readers in farewell note for final edition" }
+Hopaouaoeoatt@{ shape: win-pane, label: "_Published Jun 23, 2021, 03:20 PM_
+Hong kong's apple daily to end publication on june 24 following arrests of staff" }
+Fyeafnglmi@{ shape: win-pane, label: "_Published Dec 03, 2025, 07:20 AM_
+Family voices new alarm for hong kong’s jailed jimmy lai" }
+TpenteaHiomios@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:25 AM_
+Trump pressed china’s xi to release jailed hk media tycoon jimmy lai, say sources" }
+Kngsotteassy@{ shape: win-pane, label: "_Published Sep 09, 2025, 10:20 AM_
+Killing hong kong’s lai would strengthen democracy message, son says" }
+TpenteaHiomios@{ shape: win-pane, label: "_Published Nov 06, 2025, 06:25 AM_
+Trump pressed china’s xi to release jailed hk media tycoon jimmy lai, say sources" }
+Homtylrnsgnlae@{ shape: win-pane, label: "_Published Aug 20, 2025, 07:01 PM_
+Hong kong democrat jimmy lai’s lawyer defends basic rights in trial’s final stretch" }
+FrKaeHytalaotrdnt@{ shape: win-pane, label: "_Published Aug 18, 2025, 03:05 PM_
+Former hong kong lawmaker ted hui says australian asylum grant shows city infringed human rights" }
 
-Taitaeptenfto:::txtsize --> Taotniddfoevet:::txtsize
-Taitaeptenfto:::txtsize --> TsosniteIln:::txtsize
-TsosniteIln:::txtsize --> HenluSotbtd:::txtsize
-HenluSotbtd:::txtsize --> OIcotTyp:::txtsize
+TsesilHoia:::txtsize --> Houncialsircsnoeta:::txtsize
+Houncialsircsnoeta:::txtsize --> Hopapioefetfeo:::txtsize
+Hopapioefetfeo:::txtsize --> Hopaouaoeoatt:::txtsize
+Houncialsircsnoeta:::txtsize --> Fyeafnglmi:::txtsize
+Fyeafnglmi:::txtsize --> TpenteaHiomios:::txtsize
+Fyeafnglmi:::txtsize --> Kngsotteassy:::txtsize
+TsesilHoia:::txtsize --> TpenteaHiomios:::txtsize
+TpenteaHiomios:::txtsize --> Homtylrnsgnlae:::txtsize
+Homtylrnsgnlae:::txtsize --> FrKaeHytalaotrdnt:::txtsize
 
 ```
-<i>Last updated: 2025-12-16 04:01:04.123280 (GMT+8)</i>
+<i>Last updated: 2025-12-16 08:00:28.515890 (GMT+8)</i>
 <!-- END -->
