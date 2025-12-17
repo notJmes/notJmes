@@ -16,42 +16,54 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Taitloalnme@{ shape: win-pane, label: "_Published Dec 17, 2025, 07:25 PM_
-Trump administration plans to dismantle leading climate centre" }
-Trledenloss@{ shape: win-pane, label: "_Published Dec 12, 2025, 01:40 PM_
-Trump repeals biden land protections in alaska, other states" }
-Tavtisbnkoif@{ shape: win-pane, label: "_Published Dec 09, 2025, 07:48 PM_
-Trump approval rating rises as republicans back cost-of-living efforts" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
-Tcasefdrsfocm@{ shape: win-pane, label: "_Published Nov 15, 2025, 07:18 AM_
-Trump cuts tariffs on beef, coffee and other foods as inflation concerns mount" }
-Unpiceswto@{ shape: win-pane, label: "_Published Dec 10, 2025, 01:20 PM_
-Us agency wipes climate change facts from website: reports" }
-Twrrriamg@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:36 AM_
-Trump withdraws from paris climate agreement, again" }
-Feuiea@{ shape: win-pane, label: "_Published Feb 24, 2023, 05:54 PM_
-Feb 24, 2022: the day russia invaded ukraine" }
-Hutciristicn@{ shape: win-pane, label: "_Published Aug 03, 2025, 01:16 PM_
-How trump-vetted scientists are trying to shred the climate consensus" }
-Tmtloweieuo@{ shape: win-pane, label: "_Published Mar 13, 2025, 06:53 AM_
-Trump moves to roll back over two dozen us air, water regulations" }
-Mxauicegtwety@{ shape: win-pane, label: "_Published Dec 30, 2024, 06:34 PM_
-‘must exit road to ruin’: climate change brought extreme weather, heat in 2024, says un" }
+Stuictleklprha@{ shape: win-pane, label: "_Published Dec 17, 2025, 11:05 PM_
+Spain to set up national climate shelter network to help people survive heatwaves" }
+Hannetpwt@{ shape: win-pane, label: "_Published Jul 14, 2025, 09:59 PM_
+Heatwaves in spain caused 1,180 deaths in past two months" }
+CtndohatCedw@{ shape: win-pane, label: "_Published Jul 09, 2025, 09:00 PM_
+Climate change made european heatwave up to 4 deg c hotter, study shows" }
+Eeaeetiste@{ shape: win-pane, label: "_Published Jul 09, 2025, 12:42 PM_
+European heatwave caused 2,300 deaths, scientists estimate" }
+Tnotsdtoon@{ shape: win-pane, label: "_Published Oct 07, 2024, 05:00 AM_
+The dangers of heat stress: a sudden strike or a slow burn" }
+Niweoeyuyemtrefe@{ shape: win-pane, label: "_Published Jul 14, 2025, 07:44 PM_
+New british weather records set ‘very frequently’ over extremes in temperature, rainfall: report" }
+Wtsipirvialcomh@{ shape: win-pane, label: "_Published Jul 09, 2025, 05:47 PM_
+‘world that is burning’: pope leo interrupts vacation to appeal for action on climate change" }
+Thstwueeomh@{ shape: win-pane, label: "_Published Jul 09, 2025, 08:20 AM_
+Trump hires scientists who doubt the consensus on climate change" }
+Biecntoobnvot@{ shape: win-pane, label: "_Published Dec 17, 2025, 10:05 AM_
+Britain experiences sunniest year on record in 2025, beating previous one set in 2003" }
+Bitnreotremdrn@{ shape: win-pane, label: "_Published Oct 15, 2025, 07:15 AM_
+Britain must urgently prepare for hotter temperatures, climate advisers warn" }
+Wfnbdrtoirdsisoy@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:05 AM_
+World falling far behind deforestation goals, with farms and fires driving loss, report says" }
+Ntnosager@{ shape: win-pane, label: "_Published Oct 13, 2025, 11:10 AM_
+Not nothing, not enough: is the paris agreement working?" }
+UootMyg@{ shape: win-pane, label: "_Published May 02, 2025, 07:04 AM_
+Uk records hottest ever may day at 29.3 deg c" }
+WspatagsM@{ shape: win-pane, label: "_Published Apr 08, 2025, 12:31 PM_
+World’s ‘exceptional’ heat streak lengthens into march" }
+Ssusctawiprger@{ shape: win-pane, label: "_Published Apr 04, 2025, 12:00 PM_
+S’pore’s mercury taskforce: what is it and how will it help with rising temperatures?" }
 
-Taitloalnme:::txtsize --> Trledenloss:::txtsize
-Trledenloss:::txtsize --> Tavtisbnkoif:::txtsize
-Tavtisbnkoif:::txtsize --> Drwialosdp:::txtsize
-Tavtisbnkoif:::txtsize --> Tcasefdrsfocm:::txtsize
-Taitloalnme:::txtsize --> Unpiceswto:::txtsize
-Unpiceswto:::txtsize --> Twrrriamg:::txtsize
-Twrrriamg:::txtsize --> Feuiea:::txtsize
-Unpiceswto:::txtsize --> Hutciristicn:::txtsize
-Hutciristicn:::txtsize --> Tmtloweieuo:::txtsize
-Hutciristicn:::txtsize --> Mxauicegtwety:::txtsize
+Stuictleklprha:::txtsize --> Hannetpwt:::txtsize
+Hannetpwt:::txtsize --> CtndohatCedw:::txtsize
+CtndohatCedw:::txtsize --> Eeaeetiste:::txtsize
+CtndohatCedw:::txtsize --> Tnotsdtoon:::txtsize
+Hannetpwt:::txtsize --> Niweoeyuyemtrefe:::txtsize
+Niweoeyuyemtrefe:::txtsize --> Wtsipirvialcomh:::txtsize
+Niweoeyuyemtrefe:::txtsize --> Thstwueeomh:::txtsize
+Stuictleklprha:::txtsize --> Biecntoobnvot:::txtsize
+Biecntoobnvot:::txtsize --> Bitnreotremdrn:::txtsize
+Bitnreotremdrn:::txtsize --> Wfnbdrtoirdsisoy:::txtsize
+Bitnreotremdrn:::txtsize --> Ntnosager:::txtsize
+Biecntoobnvot:::txtsize --> UootMyg:::txtsize
+UootMyg:::txtsize --> WspatagsM:::txtsize
+UootMyg:::txtsize --> Ssusctawiprger:::txtsize
 
-Feeeneerauf@{ shape: win-pane, label: "_Published Dec 17, 2025, 07:15 PM_
-France probes ‘foreign interference’ after malware found on ferry" }
+Gnnnneeil@{ shape: win-pane, label: "_Published Dec 17, 2025, 11:05 PM_
+Germany opens joint drone defence centre in berlin" }
 Gnmsoeaafncifc@{ shape: win-pane, label: "_Published Dec 12, 2025, 08:39 PM_
 Germany blames russia for cyberattack on air safety and election interference" }
 DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
@@ -66,61 +78,64 @@ DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
 'darkest hours of europe' as russia invades ukraine" }
 RatagspSeynk@{ shape: win-pane, label: "_Published Mar 18, 2025, 10:57 PM_
 Russia sabotage campaign hits european, us targets, says think-tank" }
-Untatucfoawi@{ shape: win-pane, label: "_Published Nov 19, 2025, 11:13 PM_
-Us, uk and australia sanction russia cyber firms over ransomware links" }
-Bistpsyssisriico@{ shape: win-pane, label: "_Published Nov 19, 2025, 07:13 PM_
-Britain says ‘military options’ ready as russian spy ship uses lasers against air force pilots" }
-UltlTytnsP@{ shape: win-pane, label: "_Published Oct 28, 2025, 12:20 AM_
-Uk seals $13b jets deal with turkey in nato sign to russia’s putin" }
-UjdfnnnnroiRae@{ shape: win-pane, label: "_Published Nov 08, 2025, 01:17 AM_
-Uk man jailed for offering then-defence minister’s information to russian ‘spies’" }
-RailUnekreim@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:46 PM_
-Russian strike kills 25 in ukraine as zelensky’s turkey peace bid stumbles" }
-RakyanclUns@{ shape: win-pane, label: "_Published Nov 15, 2025, 04:56 AM_
-Russia strike on kyiv apartment block kills six, ukraine says" }
-Unlywlmiefesei@{ shape: win-pane, label: "_Published Nov 16, 2025, 04:39 AM_
-Ukraine’s zelensky renews calls for more air defence after deadly strike on kyiv" }
+Gnhafiernl@{ shape: win-pane, label: "_Published Dec 08, 2025, 10:21 PM_
+German spy chief warns of russia threat to 2026 regional polls" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
+Explosions heard in ukraine capital kyiv, other cities" }
+OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
+Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
+RatagspSeynk@{ shape: win-pane, label: "_Published Mar 18, 2025, 10:57 PM_
+Russia sabotage campaign hits european, us targets, says think-tank" }
+Notipntdarrabn@{ shape: win-pane, label: "_Published Dec 28, 2024, 12:41 AM_
+Nato to boost baltic sea presence after undersea power, internet cables broken" }
+LalRaKstogckeo@{ shape: win-pane, label: "_Published Mar 17, 2025, 10:17 PM_
+Lithuania blames russia for ikea arson, notes store logo matches ukraine’s colours" }
 
-Feeeneerauf:::txtsize --> Gnmsoeaafncifc:::txtsize
+Gnnnneeil:::txtsize --> Gnmsoeaafncifc:::txtsize
 Gnmsoeaafncifc:::txtsize --> DsruasvUn:::txtsize
 DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
 DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
 Gnmsoeaafncifc:::txtsize --> Gnhafiernl:::txtsize
 Gnhafiernl:::txtsize --> DsruasvUn:::txtsize
 Gnhafiernl:::txtsize --> RatagspSeynk:::txtsize
-Feeeneerauf:::txtsize --> Untatucfoawi:::txtsize
-Untatucfoawi:::txtsize --> Bistpsyssisriico:::txtsize
-Bistpsyssisriico:::txtsize --> UltlTytnsP:::txtsize
-Bistpsyssisriico:::txtsize --> UjdfnnnnroiRae:::txtsize
-Untatucfoawi:::txtsize --> RailUnekreim:::txtsize
-RailUnekreim:::txtsize --> RakyanclUns:::txtsize
-RailUnekreim:::txtsize --> Unlywlmiefesei:::txtsize
+Gnnnneeil:::txtsize --> Gnhafiernl:::txtsize
+Gnhafiernl:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
+DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
+Gnhafiernl:::txtsize --> RatagspSeynk:::txtsize
+RatagspSeynk:::txtsize --> Notipntdarrabn:::txtsize
+RatagspSeynk:::txtsize --> LalRaKstogckeo:::txtsize
 
-Snmetifpfge@{ shape: win-pane, label: "_Published Dec 17, 2025, 06:52 PM_
-Sudan named most neglected crisis of 2025, says poll of aid agencies" }
-Uvtutgriefcoaar@{ shape: win-pane, label: "_Published Dec 13, 2025, 03:35 PM_
-Un to evaluate refugee strategy over rise in armed conflict, cuts to global aid and more" }
-FrpdaNgicts@{ shape: win-pane, label: "_Published Dec 12, 2025, 06:08 PM_
-Former iraq president named un refugee chief, document shows" }
-Usgtnorflnm@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:31 AM_
-Un says refugees stuck in vicious circle of conflict and climate" }
-Ensetoamatpy@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:06 PM_
-Eu countries agree positions on new asylum, migrant returns policy" }
-Tseessifsocrd@{ shape: win-pane, label: "_Published Oct 31, 2025, 01:46 AM_
-Trump sets refugee admissions ceiling at 7,500 for fiscal 2026, lowest cap on record" }
-FwSAarnTcsfimi@{ shape: win-pane, label: "_Published May 13, 2025, 04:01 AM_
-First white south africans arrive in us as trump claims they face discrimination" }
-Nniursdrirnr@{ shape: win-pane, label: "_Published Feb 09, 2025, 09:47 PM_
-‘no thanks’, white south africans turn down trump’s immigration offer" }
+Pdaoniomtaerd@{ shape: win-pane, label: "_Published Dec 17, 2025, 11:05 PM_
+Poland to start producing anti-personnel mines to lay along eastern border" }
+Lisioyegteaa@{ shape: win-pane, label: "_Published Dec 01, 2025, 04:39 PM_
+Landmine casualties globally hit 4-year high as states exit ban treaty" }
+Unrodrtnreealyew@{ shape: win-pane, label: "_Published Jun 29, 2025, 07:50 PM_
+Ukraine on track to withdraw from ottawa anti-personnel mines treaty, zelensky decree shows" }
+FnxneakepnesrM@{ shape: win-pane, label: "_Published Apr 01, 2025, 08:36 PM_
+Finland to exit landmines treaty, hike defence spending given russia threat, pm says" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
+Explosions heard in ukraine capital kyiv, other cities" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
+Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
 
-Snmetifpfge:::txtsize --> Uvtutgriefcoaar:::txtsize
-Uvtutgriefcoaar:::txtsize --> FrpdaNgicts:::txtsize
-FrpdaNgicts:::txtsize --> Usgtnorflnm:::txtsize
-FrpdaNgicts:::txtsize --> Ensetoamatpy:::txtsize
-Uvtutgriefcoaar:::txtsize --> Tseessifsocrd:::txtsize
-Tseessifsocrd:::txtsize --> FwSAarnTcsfimi:::txtsize
-Tseessifsocrd:::txtsize --> Nniursdrirnr:::txtsize
+Pdaoniomtaerd:::txtsize --> Lisioyegteaa:::txtsize
+Lisioyegteaa:::txtsize --> Unrodrtnreealyew:::txtsize
+Unrodrtnreealyew:::txtsize --> FnxneakepnesrM:::txtsize
+Pdaoniomtaerd:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
+Eshiaalocs:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
+OaUuakaogrmc:::txtsize --> DsruasvUn:::txtsize
 
 ```
-<i>Last updated: 2025-12-17 20:00:42.975866 (GMT+8)</i>
+<i>Last updated: 2025-12-18 00:01:06.849470 (GMT+8)</i>
 <!-- END -->
