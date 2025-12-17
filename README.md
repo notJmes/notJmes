@@ -16,144 +16,132 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Hnuntheeeiestn@{ shape: win-pane, label: "_Published Dec 17, 2025, 07:40 AM_
-Hacking group ‘shinyhunters’ threatens to expose premium users of sex site pornhub" }
-Puesscrecn@{ shape: win-pane, label: "_Published Jun 03, 2025, 11:16 PM_
-Pornhub owner pressures france over age verification law" }
-Pnaigduootnlitnsr@{ shape: win-pane, label: "_Published Feb 09, 2025, 05:00 AM_
-Porn on social media disguised as educational content; parents’ role key in protecting kids: experts" }
-Aooeogesodmsaol@{ shape: win-pane, label: "_Published Jan 15, 2025, 06:30 PM_
-App stores to screen age of singapore users to block kids from accessing apps for adults" }
-SsniOestennsla@{ shape: win-pane, label: "_Published Jan 25, 2025, 05:00 AM_
-‘she was trying to hide it’: online harms lead to some parents wanting social media ban" }
-Castrsobabse@{ shape: win-pane, label: "_Published Mar 04, 2025, 01:11 PM_
-Canada seeks court order to ensure pornhub operator obtains consent" }
-SleSrcrepp@{ shape: win-pane, label: "_Published Sep 15, 2024, 05:00 AM_
-Social workers in s’pore raise concerns over deepfake porn" }
-Pnaigduootnlitnsr@{ shape: win-pane, label: "_Published Feb 09, 2025, 05:00 AM_
-Porn on social media disguised as educational content; parents’ role key in protecting kids: experts" }
-Castrsobabse@{ shape: win-pane, label: "_Published Mar 04, 2025, 01:11 PM_
-Canada seeks court order to ensure pornhub operator obtains consent" }
-SleSrcrepp@{ shape: win-pane, label: "_Published Sep 15, 2024, 05:00 AM_
-Social workers in s’pore raise concerns over deepfake porn" }
-SKiiekni@{ shape: win-pane, label: "_Published Sep 11, 2024, 05:00 AM_
-South korea is facing a deepfake porn crisis" }
-SariliseeeSK@{ shape: win-pane, label: "_Published Sep 05, 2024, 10:10 AM_
-Stigma and criticism follow victims of deepfake content in south korea" }
-Pnaigduootnlitnsr@{ shape: win-pane, label: "_Published Feb 09, 2025, 05:00 AM_
-Porn on social media disguised as educational content; parents’ role key in protecting kids: experts" }
-Aooeogesodmsaol@{ shape: win-pane, label: "_Published Jan 15, 2025, 06:30 PM_
-App stores to screen age of singapore users to block kids from accessing apps for adults" }
-SsniOestennsla@{ shape: win-pane, label: "_Published Jan 25, 2025, 05:00 AM_
-‘she was trying to hide it’: online harms lead to some parents wanting social media ban" }
+TagttegeniCb@{ shape: win-pane, label: "_Published Dec 17, 2025, 10:30 AM_
+Team races against time to save a tangled sea lion in british columbia" }
+Tuehfeanyrel@{ shape: win-pane, label: "_Published Dec 16, 2025, 01:55 PM_
+The gruesome poaching of rare elephants in malaysia’s remote jungle" }
+Ouakdiovti@{ shape: win-pane, label: "_Published Dec 09, 2025, 01:26 PM_
+Orang utans at risk as indonesia floods devastate habitat" }
+Ieldtio@{ shape: win-pane, label: "_Published Nov 28, 2025, 12:35 PM_
+Indonesia floods death toll rises to 84" }
+Iesblntceoaie@{ shape: win-pane, label: "_Published Dec 06, 2025, 06:06 PM_
+Indonesians climb over logs in walk to aid centre as flood deaths rise over 900" }
+Ipielgaoeifd@{ shape: win-pane, label: "_Published Dec 11, 2025, 02:40 PM_
+Interpol seizes record 30,000 living animals from illegal wildlife trade" }
+SperdslirCio@{ shape: win-pane, label: "_Published Nov 18, 2025, 04:00 PM_
+Singapore seizes record 35.7kg of smuggled rhino horns at changi airport" }
+wjariuhgdrla@{ shape: win-pane, label: "_Published Jun 05, 2025, 09:27 PM_
+3 weeks’ jail each for married couple who smuggled dogs from malaysia" }
+Ustagaluosjehg@{ shape: win-pane, label: "_Published Dec 09, 2025, 10:15 PM_
+Understand the challenges of animal rescue before passing judgments: shanmugam" }
+AlrgsaTiouipinmei@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:35 PM_
+Animal lovers league loses lease at the animal lodge; authorities prioritising animals’ well-being" }
+Thliemesnsys@{ shape: win-pane, label: "_Published Aug 02, 2025, 12:00 PM_
+Tengah facility with over 40 animal shelters, businesses hit by ticks" }
+Nfuinseaenslsa@{ shape: win-pane, label: "_Published Jul 20, 2025, 12:00 PM_
+No unified guidelines? animal shelters chart their own paths on welfare standards" }
+Alrgassre@{ shape: win-pane, label: "_Published Dec 09, 2025, 08:10 PM_
+Animal lovers league charity status under probe" }
+AlrgsaTiouipinmei@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:35 PM_
+Animal lovers league loses lease at the animal lodge; authorities prioritising animals’ well-being" }
+Ustagaluosjehg@{ shape: win-pane, label: "_Published Dec 09, 2025, 10:15 PM_
+Understand the challenges of animal rescue before passing judgments: shanmugam" }
 
-Hnuntheeeiestn:::txtsize --> Puesscrecn:::txtsize
-Puesscrecn:::txtsize --> Pnaigduootnlitnsr:::txtsize
-Pnaigduootnlitnsr:::txtsize --> Aooeogesodmsaol:::txtsize
-Pnaigduootnlitnsr:::txtsize --> SsniOestennsla:::txtsize
-Puesscrecn:::txtsize --> Castrsobabse:::txtsize
-Castrsobabse:::txtsize --> SleSrcrepp:::txtsize
-Castrsobabse:::txtsize --> Pnaigduootnlitnsr:::txtsize
-Hnuntheeeiestn:::txtsize --> Castrsobabse:::txtsize
-Castrsobabse:::txtsize --> SleSrcrepp:::txtsize
-SleSrcrepp:::txtsize --> SKiiekni:::txtsize
-SleSrcrepp:::txtsize --> SariliseeeSK:::txtsize
-Castrsobabse:::txtsize --> Pnaigduootnlitnsr:::txtsize
-Pnaigduootnlitnsr:::txtsize --> Aooeogesodmsaol:::txtsize
-Pnaigduootnlitnsr:::txtsize --> SsniOestennsla:::txtsize
+TagttegeniCb:::txtsize --> Tuehfeanyrel:::txtsize
+Tuehfeanyrel:::txtsize --> Ouakdiovti:::txtsize
+Ouakdiovti:::txtsize --> Ieldtio:::txtsize
+Ouakdiovti:::txtsize --> Iesblntceoaie:::txtsize
+Tuehfeanyrel:::txtsize --> Ipielgaoeifd:::txtsize
+Ipielgaoeifd:::txtsize --> SperdslirCio:::txtsize
+Ipielgaoeifd:::txtsize --> wjariuhgdrla:::txtsize
+TagttegeniCb:::txtsize --> Ustagaluosjehg:::txtsize
+Ustagaluosjehg:::txtsize --> AlrgsaTiouipinmei:::txtsize
+AlrgsaTiouipinmei:::txtsize --> Thliemesnsys:::txtsize
+AlrgsaTiouipinmei:::txtsize --> Nfuinseaenslsa:::txtsize
+Ustagaluosjehg:::txtsize --> Alrgassre:::txtsize
+Alrgassre:::txtsize --> AlrgsaTiouipinmei:::txtsize
+Alrgassre:::txtsize --> Ustagaluosjehg:::txtsize
 
-Tapsiecofieelers@{ shape: win-pane, label: "_Published Dec 17, 2025, 06:45 AM_
-Trump and top aides publicly defend chief of staff susie wiles after explosive interviews" }
-Thcirlhffesiblr@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:34 AM_
-Trump has ‘alcoholic’s personality’, chief of staff susie wiles says in bombshell interview" }
-Tapsiecofieelers@{ shape: win-pane, label: "_Published Dec 17, 2025, 06:45 AM_
-Trump and top aides publicly defend chief of staff susie wiles after explosive interviews" }
-Thcirlhffesiblr@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:34 AM_
-Trump has ‘alcoholic’s personality’, chief of staff susie wiles says in bombshell interview" }
-Thcirlhffesiblr@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:34 AM_
-Trump has ‘alcoholic’s personality’, chief of staff susie wiles says in bombshell interview" }
-TsoastneRrols@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:14 AM_
-Trump’s approval rating slips to 39%, economy weighs, reuters/ipsos poll finds" }
-Hthnndwrust@{ shape: win-pane, label: "_Published Nov 14, 2025, 08:52 AM_
-‘hope it won’t happen again’: us federal workers return post-shutdown" }
-Thcirlhffesiblr@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:34 AM_
-Trump has ‘alcoholic’s personality’, chief of staff susie wiles says in bombshell interview" }
-Thcirlhffesiblr@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:34 AM_
-Trump has ‘alcoholic’s personality’, chief of staff susie wiles says in bombshell interview" }
-Tapsiecofieelers@{ shape: win-pane, label: "_Published Dec 17, 2025, 06:45 AM_
-Trump and top aides publicly defend chief of staff susie wiles after explosive interviews" }
-Thcirlhffesiblr@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:34 AM_
-Trump has ‘alcoholic’s personality’, chief of staff susie wiles says in bombshell interview" }
-Thcirlhffesiblr@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:34 AM_
-Trump has ‘alcoholic’s personality’, chief of staff susie wiles says in bombshell interview" }
-TsoastneRrols@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:14 AM_
-Trump’s approval rating slips to 39%, economy weighs, reuters/ipsos poll finds" }
-Hthnndwrust@{ shape: win-pane, label: "_Published Nov 14, 2025, 08:52 AM_
-‘hope it won’t happen again’: us federal workers return post-shutdown" }
-Thcirlhffesiblr@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:34 AM_
-Trump has ‘alcoholic’s personality’, chief of staff susie wiles says in bombshell interview" }
+Biecntoo@{ shape: win-pane, label: "_Published Dec 17, 2025, 10:05 AM_
+Britain experiences sunniest year on record" }
+Bitnreotremdrn@{ shape: win-pane, label: "_Published Oct 15, 2025, 07:15 AM_
+Britain must urgently prepare for hotter temperatures, climate advisers warn" }
+Wfnbdrtoirdsisoy@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:05 AM_
+World falling far behind deforestation goals, with farms and fires driving loss, report says" }
+Ntnosager@{ shape: win-pane, label: "_Published Oct 13, 2025, 11:10 AM_
+Not nothing, not enough: is the paris agreement working?" }
+Ctpoaiostwhf@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:09 AM_
+Climate tipping points are being crossed, scientists warn ahead of cop30" }
+Ntnosager@{ shape: win-pane, label: "_Published Oct 13, 2025, 11:10 AM_
+Not nothing, not enough: is the paris agreement working?" }
+Smhotanrmor@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:31 AM_
+September third-hottest globally on record: climate monitor" }
+Ranghsocne@{ shape: win-pane, label: "_Published Oct 07, 2025, 01:21 PM_
+Renewable energy growth slows due to policy changes: report" }
+UootMyg@{ shape: win-pane, label: "_Published May 02, 2025, 07:04 AM_
+Uk records hottest ever may day at 29.3 deg c" }
+WspatagsM@{ shape: win-pane, label: "_Published Apr 08, 2025, 12:31 PM_
+World’s ‘exceptional’ heat streak lengthens into march" }
+ottyrasharev@{ shape: win-pane, label: "_Published Jan 10, 2025, 11:00 AM_
+2024 one of the hottest years, rainfall also higher than average: met service" }
+Spnaeolcsiausfoti@{ shape: win-pane, label: "_Published Mar 19, 2025, 01:25 PM_
+Singapore’s new heatwave response plan includes cooling spaces, suspension of outdoor activities" }
+Ssusctawiprger@{ shape: win-pane, label: "_Published Apr 04, 2025, 12:00 PM_
+S’pore’s mercury taskforce: what is it and how will it help with rising temperatures?" }
+Spnaeolcsiausfoti@{ shape: win-pane, label: "_Published Mar 19, 2025, 01:25 PM_
+Singapore’s new heatwave response plan includes cooling spaces, suspension of outdoor activities" }
+Nnaeolitiootahes@{ shape: win-pane, label: "_Published Apr 04, 2025, 12:00 PM_
+National heatwave response plan a signal that singapore should start taking heat seriously" }
 
-Tapsiecofieelers:::txtsize --> Thcirlhffesiblr:::txtsize
-Thcirlhffesiblr:::txtsize --> Tapsiecofieelers:::txtsize
-Tapsiecofieelers:::txtsize --> Thcirlhffesiblr:::txtsize
-Tapsiecofieelers:::txtsize --> Thcirlhffesiblr:::txtsize
-Thcirlhffesiblr:::txtsize --> TsoastneRrols:::txtsize
-TsoastneRrols:::txtsize --> Hthnndwrust:::txtsize
-TsoastneRrols:::txtsize --> Thcirlhffesiblr:::txtsize
-Tapsiecofieelers:::txtsize --> Thcirlhffesiblr:::txtsize
-Thcirlhffesiblr:::txtsize --> Tapsiecofieelers:::txtsize
-Tapsiecofieelers:::txtsize --> Thcirlhffesiblr:::txtsize
-Tapsiecofieelers:::txtsize --> Thcirlhffesiblr:::txtsize
-Thcirlhffesiblr:::txtsize --> TsoastneRrols:::txtsize
-TsoastneRrols:::txtsize --> Hthnndwrust:::txtsize
-TsoastneRrols:::txtsize --> Thcirlhffesiblr:::txtsize
+Biecntoo:::txtsize --> Bitnreotremdrn:::txtsize
+Bitnreotremdrn:::txtsize --> Wfnbdrtoirdsisoy:::txtsize
+Wfnbdrtoirdsisoy:::txtsize --> Ntnosager:::txtsize
+Wfnbdrtoirdsisoy:::txtsize --> Ctpoaiostwhf:::txtsize
+Bitnreotremdrn:::txtsize --> Ntnosager:::txtsize
+Ntnosager:::txtsize --> Smhotanrmor:::txtsize
+Ntnosager:::txtsize --> Ranghsocne:::txtsize
+Biecntoo:::txtsize --> UootMyg:::txtsize
+UootMyg:::txtsize --> WspatagsM:::txtsize
+WspatagsM:::txtsize --> ottyrasharev:::txtsize
+WspatagsM:::txtsize --> Spnaeolcsiausfoti:::txtsize
+UootMyg:::txtsize --> Ssusctawiprger:::txtsize
+Ssusctawiprger:::txtsize --> Spnaeolcsiausfoti:::txtsize
+Ssusctawiprger:::txtsize --> Nnaeolitiootahes:::txtsize
 
-MnBUrseesfhegdoe@{ shape: win-pane, label: "_Published Dec 17, 2025, 06:05 AM_
-Manhunt for brown university shooter stretches into fourth day, leaving residents on edge" }
-Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
-Police hold person of interest after brown university shooting left 2 dead" }
-SiKcaiileecd@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:03 AM_
-Shooting at kentucky state university kills one, suspect in custody" }
-SceasiOhnt@{ shape: win-pane, label: "_Published Dec 08, 2025, 07:20 PM_
-Suspect arrested after shooting in oslo shopping centre" }
-Hrfrsymtgafgenyg@{ shape: win-pane, label: "_Published Dec 05, 2025, 10:30 PM_
-Harvard professor arrested by us immigration agents after firing pellet gun near synagogue" }
-Asdndrtaspii@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:58 PM_
-At least 1 dead and 3 injured after shootings at mississippi universities" }
-Asddweissi@{ shape: win-pane, label: "_Published Oct 11, 2025, 11:16 PM_
-At least 4 dead and a dozen wounded in mississippi shooting" }
-Odweadaog@{ shape: win-pane, label: "_Published Oct 06, 2025, 07:20 AM_
-Over a dozen wounded in rare sydney mass shooting" }
-PeanayteireBsi@{ shape: win-pane, label: "_Published Dec 15, 2025, 07:00 AM_
-Police release man and say they are still searching for suspect in brown shooting" }
-Wsebiaasoiiogair@{ shape: win-pane, label: "_Published Dec 14, 2025, 09:40 AM_
-Witnesses describe anxious campus as news of brown university shooting spread, police arrived" }
-Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
-Police hold person of interest after brown university shooting left 2 dead" }
-Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
-Police hold person of interest after brown university shooting left 2 dead" }
-BUrrnmtette@{ shape: win-pane, label: "_Published Dec 15, 2025, 06:30 AM_
-Brown university, reeling from shooting, sends students home" }
-Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
-Police hold person of interest after brown university shooting left 2 dead" }
-Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
-Police hold person of interest after brown university shooting left 2 dead" }
+Wrlyjebmbcfnircy@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:40 AM_
+Warner bros likely to reject nearly $140b paramount bid, back netflix in bidding war, sources say" }
+Wrfhuhisboat@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:30 PM_
+Warner bros fight heats up with $140.7 billion hostile bid from paramount" }
+Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
+Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
+Nixilbrrsreua@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:40 PM_
+Netflix in exclusive talks to buy warner bros discovery assets, source says" }
+Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
+Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
+Nixilbrrsreua@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:40 PM_
+Netflix in exclusive talks to buy warner bros discovery assets, source says" }
+Wrfhuhisboat@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:30 PM_
+Warner bros fight heats up with $140.7 billion hostile bid from paramount" }
+Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
+Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
+Nixilbrrsreua@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:40 PM_
+Netflix in exclusive talks to buy warner bros discovery assets, source says" }
+Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
+Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
+Nixilbrrsreua@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:40 PM_
+Netflix in exclusive talks to buy warner bros discovery assets, source says" }
 
-MnBUrseesfhegdoe:::txtsize --> Pepnttrneytea:::txtsize
-Pepnttrneytea:::txtsize --> SiKcaiileecd:::txtsize
-SiKcaiileecd:::txtsize --> SceasiOhnt:::txtsize
-SiKcaiileecd:::txtsize --> Hrfrsymtgafgenyg:::txtsize
-Pepnttrneytea:::txtsize --> Asdndrtaspii:::txtsize
-Asdndrtaspii:::txtsize --> Asddweissi:::txtsize
-Asdndrtaspii:::txtsize --> Odweadaog:::txtsize
-MnBUrseesfhegdoe:::txtsize --> PeanayteireBsi:::txtsize
-PeanayteireBsi:::txtsize --> Wsebiaasoiiogair:::txtsize
-Wsebiaasoiiogair:::txtsize --> Pepnttrneytea:::txtsize
-Wsebiaasoiiogair:::txtsize --> Pepnttrneytea:::txtsize
-PeanayteireBsi:::txtsize --> BUrrnmtette:::txtsize
-BUrrnmtette:::txtsize --> Pepnttrneytea:::txtsize
-BUrrnmtette:::txtsize --> Pepnttrneytea:::txtsize
+Wrlyjebmbcfnircy:::txtsize --> Wrfhuhisboat:::txtsize
+Wrfhuhisboat:::txtsize --> Niunocydtiimh:::txtsize
+Niunocydtiimh:::txtsize --> Nixilbrrsreua:::txtsize
+Wrfhuhisboat:::txtsize --> Niunocydtiimh:::txtsize
+Niunocydtiimh:::txtsize --> Nixilbrrsreua:::txtsize
+Wrlyjebmbcfnircy:::txtsize --> Wrfhuhisboat:::txtsize
+Wrfhuhisboat:::txtsize --> Niunocydtiimh:::txtsize
+Niunocydtiimh:::txtsize --> Nixilbrrsreua:::txtsize
+Wrfhuhisboat:::txtsize --> Niunocydtiimh:::txtsize
+Niunocydtiimh:::txtsize --> Nixilbrrsreua:::txtsize
 
 ```
-<i>Last updated: 2025-12-17 08:00:55.916457 (GMT+8)</i>
+<i>Last updated: 2025-12-17 12:00:23.027470 (GMT+8)</i>
 <!-- END -->
