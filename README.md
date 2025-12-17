@@ -16,126 +16,96 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Stuictleklprha@{ shape: win-pane, label: "_Published Dec 17, 2025, 11:05 PM_
-Spain to set up national climate shelter network to help people survive heatwaves" }
-Hannetpwt@{ shape: win-pane, label: "_Published Jul 14, 2025, 09:59 PM_
-Heatwaves in spain caused 1,180 deaths in past two months" }
-CtndohatCedw@{ shape: win-pane, label: "_Published Jul 09, 2025, 09:00 PM_
-Climate change made european heatwave up to 4 deg c hotter, study shows" }
-Eeaeetiste@{ shape: win-pane, label: "_Published Jul 09, 2025, 12:42 PM_
-European heatwave caused 2,300 deaths, scientists estimate" }
-Tnotsdtoon@{ shape: win-pane, label: "_Published Oct 07, 2024, 05:00 AM_
-The dangers of heat stress: a sudden strike or a slow burn" }
-Niweoeyuyemtrefe@{ shape: win-pane, label: "_Published Jul 14, 2025, 07:44 PM_
-New british weather records set ‘very frequently’ over extremes in temperature, rainfall: report" }
-Wtsipirvialcomh@{ shape: win-pane, label: "_Published Jul 09, 2025, 05:47 PM_
-‘world that is burning’: pope leo interrupts vacation to appeal for action on climate change" }
-Thstwueeomh@{ shape: win-pane, label: "_Published Jul 09, 2025, 08:20 AM_
-Trump hires scientists who doubt the consensus on climate change" }
-Biecntoobnvot@{ shape: win-pane, label: "_Published Dec 17, 2025, 10:05 AM_
-Britain experiences sunniest year on record in 2025, beating previous one set in 2003" }
-Bitnreotremdrn@{ shape: win-pane, label: "_Published Oct 15, 2025, 07:15 AM_
-Britain must urgently prepare for hotter temperatures, climate advisers warn" }
-Wfnbdrtoirdsisoy@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:05 AM_
-World falling far behind deforestation goals, with farms and fires driving loss, report says" }
-Ntnosager@{ shape: win-pane, label: "_Published Oct 13, 2025, 11:10 AM_
-Not nothing, not enough: is the paris agreement working?" }
-UootMyg@{ shape: win-pane, label: "_Published May 02, 2025, 07:04 AM_
-Uk records hottest ever may day at 29.3 deg c" }
-WspatagsM@{ shape: win-pane, label: "_Published Apr 08, 2025, 12:31 PM_
-World’s ‘exceptional’ heat streak lengthens into march" }
-Ssusctawiprger@{ shape: win-pane, label: "_Published Apr 04, 2025, 12:00 PM_
-S’pore’s mercury taskforce: what is it and how will it help with rising temperatures?" }
+Unlyspfntnsptw@{ shape: win-pane, label: "_Published Dec 18, 2025, 01:55 AM_
+Ukraine’s zelensky tells europe: use frozen assets to end russia’s appetite for war" }
+Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
+Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
+Eoufnisoker@{ shape: win-pane, label: "_Published Aug 31, 2025, 12:28 AM_
+Eu to work on using frozen russian assets to aid ukraine after war" }
+Unpsukrcyaleniin@{ shape: win-pane, label: "_Published Aug 30, 2025, 04:43 AM_
+Ukraine completes rescue work after attack on kyiv; death toll rises to 25, including 4 children" }
+Feawpuou@{ shape: win-pane, label: "_Published Aug 29, 2025, 10:53 PM_
+France, germany vow to up pressure on ‘ogre’ putin" }
+Rasptlfnttss@{ shape: win-pane, label: "_Published Sep 15, 2025, 04:05 PM_
+Russia warns europe that it will go after any state that takes its assets" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Tnainreumnvsr@{ shape: win-pane, label: "_Published Sep 12, 2025, 04:03 PM_
+Taiwan, china foreign ministers make unusual simultaneous visits to europe" }
+Eeiilesasvblke@{ shape: win-pane, label: "_Published Dec 13, 2025, 01:13 AM_
+Eu agrees to indefinitely freeze russian assets, removing obstacle to ukraine loan" }
+Epufnisrotei@{ shape: win-pane, label: "_Published Dec 04, 2025, 04:29 AM_
+Eu proposes using frozen russian assets or borrowing to give ukraine $136b" }
+BudnnpountUn@{ shape: win-pane, label: "_Published Nov 28, 2025, 07:44 PM_
+Belgium’s pm digs in against eu push to use russian assets for ukraine" }
+PwEeuwesleu@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:45 PM_
+Putin warns europe: if you want war, then russia will defeat you" }
+EseRaeciotrn@{ shape: win-pane, label: "_Published Dec 10, 2025, 01:42 AM_
+Eu close to deal on russian assets, dec 18 summit to go on until agreement" }
+EsnbnUndozsas@{ shape: win-pane, label: "_Published Oct 23, 2025, 11:00 PM_
+Eu vows financial backing for ukraine, holds off on frozen russian assets plan" }
+Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
+Belgium says eu states must share risk to use frozen russian assets for ukraine" }
 
-Stuictleklprha:::txtsize --> Hannetpwt:::txtsize
-Hannetpwt:::txtsize --> CtndohatCedw:::txtsize
-CtndohatCedw:::txtsize --> Eeaeetiste:::txtsize
-CtndohatCedw:::txtsize --> Tnotsdtoon:::txtsize
-Hannetpwt:::txtsize --> Niweoeyuyemtrefe:::txtsize
-Niweoeyuyemtrefe:::txtsize --> Wtsipirvialcomh:::txtsize
-Niweoeyuyemtrefe:::txtsize --> Thstwueeomh:::txtsize
-Stuictleklprha:::txtsize --> Biecntoobnvot:::txtsize
-Biecntoobnvot:::txtsize --> Bitnreotremdrn:::txtsize
-Bitnreotremdrn:::txtsize --> Wfnbdrtoirdsisoy:::txtsize
-Bitnreotremdrn:::txtsize --> Ntnosager:::txtsize
-Biecntoobnvot:::txtsize --> UootMyg:::txtsize
-UootMyg:::txtsize --> WspatagsM:::txtsize
-UootMyg:::txtsize --> Ssusctawiprger:::txtsize
+Unlyspfntnsptw:::txtsize --> Elrgessfakeoau:::txtsize
+Elrgessfakeoau:::txtsize --> Eoufnisoker:::txtsize
+Eoufnisoker:::txtsize --> Unpsukrcyaleniin:::txtsize
+Eoufnisoker:::txtsize --> Feawpuou:::txtsize
+Elrgessfakeoau:::txtsize --> Rasptlfnttss:::txtsize
+Rasptlfnttss:::txtsize --> DsruasvUn:::txtsize
+Rasptlfnttss:::txtsize --> Tnainreumnvsr:::txtsize
+Unlyspfntnsptw:::txtsize --> Eeiilesasvblke:::txtsize
+Eeiilesasvblke:::txtsize --> Epufnisrotei:::txtsize
+Epufnisrotei:::txtsize --> BudnnpountUn:::txtsize
+Epufnisrotei:::txtsize --> PwEeuwesleu:::txtsize
+Eeiilesasvblke:::txtsize --> EseRaeciotrn:::txtsize
+EseRaeciotrn:::txtsize --> EsnbnUndozsas:::txtsize
+EseRaeciotrn:::txtsize --> Busauasszsaske:::txtsize
 
-Gnnnneeil@{ shape: win-pane, label: "_Published Dec 17, 2025, 11:05 PM_
-Germany opens joint drone defence centre in berlin" }
-Gnmsoeaafncifc@{ shape: win-pane, label: "_Published Dec 12, 2025, 08:39 PM_
-Germany blames russia for cyberattack on air safety and election interference" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
-Explosions heard in ukraine capital kyiv, other cities" }
-OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
-Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
-Gnhafiernl@{ shape: win-pane, label: "_Published Dec 08, 2025, 10:21 PM_
-German spy chief warns of russia threat to 2026 regional polls" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-RatagspSeynk@{ shape: win-pane, label: "_Published Mar 18, 2025, 10:57 PM_
-Russia sabotage campaign hits european, us targets, says think-tank" }
-Gnhafiernl@{ shape: win-pane, label: "_Published Dec 08, 2025, 10:21 PM_
-German spy chief warns of russia threat to 2026 regional polls" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
-Explosions heard in ukraine capital kyiv, other cities" }
-OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
-Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
-RatagspSeynk@{ shape: win-pane, label: "_Published Mar 18, 2025, 10:57 PM_
-Russia sabotage campaign hits european, us targets, says think-tank" }
-Notipntdarrabn@{ shape: win-pane, label: "_Published Dec 28, 2024, 12:41 AM_
-Nato to boost baltic sea presence after undersea power, internet cables broken" }
-LalRaKstogckeo@{ shape: win-pane, label: "_Published Mar 17, 2025, 10:17 PM_
-Lithuania blames russia for ikea arson, notes store logo matches ukraine’s colours" }
+Ugpsleetnepoano@{ shape: win-pane, label: "_Published Dec 18, 2025, 01:50 AM_
+Us congress passes $1 trillion defence bill that includes support for ukraine and europe" }
+Siurymeoarnolu@{ shape: win-pane, label: "_Published Dec 06, 2025, 02:26 AM_
+Sweeping trump strategy document seeks to reframe us’ role in the world, slams europe" }
+Taitariisnaqitiia@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:21 AM_
+Trump administration says europe risks ‘civilisational erasure’, questions its reliability as ally" }
+VakrvaUnkusinn@{ shape: win-pane, label: "_Published Feb 15, 2025, 07:44 AM_
+Vance attack on europe overshadows ukraine talks at munich security conference" }
+EeainletovrRt@{ shape: win-pane, label: "_Published Dec 04, 2025, 09:15 PM_
+European leaders in phone call voiced distrust of us over ukraine: report" }
+Medfmaljltlaathoe@{ shape: win-pane, label: "_Published Jan 30, 2025, 11:14 AM_
+Many feared dead after american airlines jet, helicopter collide and crash into washington river" }
+Uuawniienthtoi@{ shape: win-pane, label: "_Published Jan 30, 2025, 04:44 PM_
+Us figure skaters were on american airlines plane that crashed into potomac river" }
+Medfmaljltlaathoe@{ shape: win-pane, label: "_Published Jan 30, 2025, 11:14 AM_
+Many feared dead after american airlines jet, helicopter collide and crash into washington river" }
+OhrtodsaennooBar@{ shape: win-pane, label: "_Published Jan 30, 2025, 04:55 PM_
+‘open the door, open the door!’: how dozens fled an inferno on a plane in south korea’s busan airport" }
 
-Gnnnneeil:::txtsize --> Gnmsoeaafncifc:::txtsize
-Gnmsoeaafncifc:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
-DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
-Gnmsoeaafncifc:::txtsize --> Gnhafiernl:::txtsize
-Gnhafiernl:::txtsize --> DsruasvUn:::txtsize
-Gnhafiernl:::txtsize --> RatagspSeynk:::txtsize
-Gnnnneeil:::txtsize --> Gnhafiernl:::txtsize
-Gnhafiernl:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
-DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
-Gnhafiernl:::txtsize --> RatagspSeynk:::txtsize
-RatagspSeynk:::txtsize --> Notipntdarrabn:::txtsize
-RatagspSeynk:::txtsize --> LalRaKstogckeo:::txtsize
+Ugpsleetnepoano:::txtsize --> Siurymeoarnolu:::txtsize
+Siurymeoarnolu:::txtsize --> Taitariisnaqitiia:::txtsize
+Taitariisnaqitiia:::txtsize --> VakrvaUnkusinn:::txtsize
+Taitariisnaqitiia:::txtsize --> EeainletovrRt:::txtsize
+Ugpsleetnepoano:::txtsize --> Medfmaljltlaathoe:::txtsize
+Medfmaljltlaathoe:::txtsize --> Uuawniienthtoi:::txtsize
+Uuawniienthtoi:::txtsize --> Medfmaljltlaathoe:::txtsize
+Uuawniienthtoi:::txtsize --> OhrtodsaennooBar:::txtsize
 
-Pdaoniomtaerd@{ shape: win-pane, label: "_Published Dec 17, 2025, 11:05 PM_
-Poland to start producing anti-personnel mines to lay along eastern border" }
-Lisioyegteaa@{ shape: win-pane, label: "_Published Dec 01, 2025, 04:39 PM_
-Landmine casualties globally hit 4-year high as states exit ban treaty" }
-Unrodrtnreealyew@{ shape: win-pane, label: "_Published Jun 29, 2025, 07:50 PM_
-Ukraine on track to withdraw from ottawa anti-personnel mines treaty, zelensky decree shows" }
-FnxneakepnesrM@{ shape: win-pane, label: "_Published Apr 01, 2025, 08:36 PM_
-Finland to exit landmines treaty, hike defence spending given russia threat, pm says" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
-Explosions heard in ukraine capital kyiv, other cities" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
-Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
+Drtaqqnodei@{ shape: win-pane, label: "_Published Dec 18, 2025, 01:46 AM_
+Denmark wants to ban burqas, niqabs in schools and universities" }
+Airepssbsl@{ shape: win-pane, label: "_Published Dec 11, 2025, 09:15 PM_
+Austrian parliament approves headscarf ban in schools" }
+Aiveeawldsbsl@{ shape: win-pane, label: "_Published Dec 09, 2025, 11:12 PM_
+Austrian government presses ahead with planned headscarf ban in schools" }
+AiloztMmsacrsean@{ shape: win-pane, label: "_Published Jan 11, 2025, 02:02 PM_
+Activist malala yousafzai attends muslim girls’ education conference snubbed by taliban" }
+Nwulhineadtyncimi@{ shape: win-pane, label: "_Published Nov 28, 2025, 08:00 PM_
+New laws, tudung policy shift cited in s’pore’s update under un treaty against racial discrimination" }
 
-Pdaoniomtaerd:::txtsize --> Lisioyegteaa:::txtsize
-Lisioyegteaa:::txtsize --> Unrodrtnreealyew:::txtsize
-Unrodrtnreealyew:::txtsize --> FnxneakepnesrM:::txtsize
-Pdaoniomtaerd:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
-Eshiaalocs:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
-OaUuakaogrmc:::txtsize --> DsruasvUn:::txtsize
+Drtaqqnodei:::txtsize --> Airepssbsl:::txtsize
+Airepssbsl:::txtsize --> Aiveeawldsbsl:::txtsize
+Aiveeawldsbsl:::txtsize --> AiloztMmsacrsean:::txtsize
+Aiveeawldsbsl:::txtsize --> Nwulhineadtyncimi:::txtsize
 
 ```
-<i>Last updated: 2025-12-18 00:01:06.849470 (GMT+8)</i>
+<i>Last updated: 2025-12-18 04:00:38.210207 (GMT+8)</i>
 <!-- END -->
