@@ -16,141 +16,111 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Catcehetpprfentr@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:20 PM_
-Canada’s fentanyl czar seeks chinese help to stop drug precursors from reaching north america" }
-Csddrodet@{ shape: win-pane, label: "_Published Oct 31, 2025, 07:31 PM_
-China’s xi and canada’s carney vow to advance relations" }
-TsitfaaOiaddnli@{ shape: win-pane, label: "_Published Oct 26, 2025, 05:04 AM_
-Trump sets 10% hike in tariffs on canada after ontario’s reagan ad aired during world series" }
-Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
-Trump says all trade talks with canada are terminated" }
-Ciuaaaeirctt@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:33 AM_
-Canadians pull reagan tariff ad after furious trump scraps trade talks" }
-Threwarfar@{ shape: win-pane, label: "_Published Oct 30, 2025, 02:26 PM_
-Trump has ‘very nice’ talk with mark carney after canada rift" }
-Ciuaaaeirctt@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:33 AM_
-Canadians pull reagan tariff ad after furious trump scraps trade talks" }
-Oimsetlere@{ shape: win-pane, label: "_Published Oct 30, 2025, 01:54 PM_
-Ontario premier asks us envoy to apologise for profane rant" }
-TcrroadcbeC@{ shape: win-pane, label: "_Published Mar 04, 2025, 05:03 AM_
-Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
-MoapnTghhtfa@{ shape: win-pane, label: "_Published Mar 03, 2025, 10:44 PM_
-Mexico has backup plan in case trump goes through with tariff threat" }
-ModieiocTwececra@{ shape: win-pane, label: "_Published Mar 02, 2025, 11:54 PM_
-Mexico, canada tariffs set to kick in on march 4, but trump will set exact levels: us commerce head" }
-Csenitresple@{ shape: win-pane, label: "_Published Mar 03, 2025, 06:10 PM_
-China’s trade dominance in south america tempers trump’s influence" }
-Fgtaer@{ shape: win-pane, label: "_Published Mar 03, 2025, 05:00 AM_
-Facing up to the realities of trump 2.0" }
-TalytnretaWHsit@{ shape: win-pane, label: "_Published Mar 01, 2025, 02:44 AM_
-Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
+Taitloalnme@{ shape: win-pane, label: "_Published Dec 17, 2025, 07:25 PM_
+Trump administration plans to dismantle leading climate centre" }
+Trledenloss@{ shape: win-pane, label: "_Published Dec 12, 2025, 01:40 PM_
+Trump repeals biden land protections in alaska, other states" }
+Tavtisbnkoif@{ shape: win-pane, label: "_Published Dec 09, 2025, 07:48 PM_
+Trump approval rating rises as republicans back cost-of-living efforts" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+Tcasefdrsfocm@{ shape: win-pane, label: "_Published Nov 15, 2025, 07:18 AM_
+Trump cuts tariffs on beef, coffee and other foods as inflation concerns mount" }
+Unpiceswto@{ shape: win-pane, label: "_Published Dec 10, 2025, 01:20 PM_
+Us agency wipes climate change facts from website: reports" }
+Twrrriamg@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:36 AM_
+Trump withdraws from paris climate agreement, again" }
+Feuiea@{ shape: win-pane, label: "_Published Feb 24, 2023, 05:54 PM_
+Feb 24, 2022: the day russia invaded ukraine" }
+Hutciristicn@{ shape: win-pane, label: "_Published Aug 03, 2025, 01:16 PM_
+How trump-vetted scientists are trying to shred the climate consensus" }
+Tmtloweieuo@{ shape: win-pane, label: "_Published Mar 13, 2025, 06:53 AM_
+Trump moves to roll back over two dozen us air, water regulations" }
+Mxauicegtwety@{ shape: win-pane, label: "_Published Dec 30, 2024, 06:34 PM_
+‘must exit road to ruin’: climate change brought extreme weather, heat in 2024, says un" }
 
-Catcehetpprfentr:::txtsize --> Csddrodet:::txtsize
-Csddrodet:::txtsize --> TsitfaaOiaddnli:::txtsize
-TsitfaaOiaddnli:::txtsize --> Tsldkhdtn:::txtsize
-TsitfaaOiaddnli:::txtsize --> Ciuaaaeirctt:::txtsize
-Csddrodet:::txtsize --> Threwarfar:::txtsize
-Threwarfar:::txtsize --> Ciuaaaeirctt:::txtsize
-Threwarfar:::txtsize --> Oimsetlere:::txtsize
-Catcehetpprfentr:::txtsize --> TcrroadcbeC:::txtsize
-TcrroadcbeC:::txtsize --> MoapnTghhtfa:::txtsize
-MoapnTghhtfa:::txtsize --> ModieiocTwececra:::txtsize
-MoapnTghhtfa:::txtsize --> Csenitresple:::txtsize
-TcrroadcbeC:::txtsize --> Fgtaer:::txtsize
-Fgtaer:::txtsize --> TalytnretaWHsit:::txtsize
+Taitloalnme:::txtsize --> Trledenloss:::txtsize
+Trledenloss:::txtsize --> Tavtisbnkoif:::txtsize
+Tavtisbnkoif:::txtsize --> Drwialosdp:::txtsize
+Tavtisbnkoif:::txtsize --> Tcasefdrsfocm:::txtsize
+Taitloalnme:::txtsize --> Unpiceswto:::txtsize
+Unpiceswto:::txtsize --> Twrrriamg:::txtsize
+Twrrriamg:::txtsize --> Feuiea:::txtsize
+Unpiceswto:::txtsize --> Hutciristicn:::txtsize
+Hutciristicn:::txtsize --> Tmtloweieuo:::txtsize
+Hutciristicn:::txtsize --> Mxauicegtwety:::txtsize
 
-GlddehnsoiIy@{ shape: win-pane, label: "_Published Dec 17, 2025, 02:33 PM_
-Global coal demand hit record high in 2025 but is set to decline by 2030, iea says" }
-Aaaleaeepel@{ shape: win-pane, label: "_Published Jan 30, 2025, 03:46 PM_
-Australia says reliance on coal-fired power drops to record low" }
-AaoyarcutyTsr@{ shape: win-pane, label: "_Published Dec 23, 2024, 04:50 PM_
-Australia to delay 2035 climate targets, cites uncertainty over trump’s return" }
-Aarfrnhstlb@{ shape: win-pane, label: "_Published Dec 23, 2024, 02:50 PM_
-Australia braced for worsening bush fires as national park burns" }
-PsioewAateaeanl@{ shape: win-pane, label: "_Published Dec 19, 2024, 07:45 PM_
-Proposed switch to nuclear power in australia stirs debate as experts back renewables" }
-Aaoirlcpp@{ shape: win-pane, label: "_Published Dec 13, 2024, 10:52 AM_
-Australia’s opposition reveals $284b nuclear power plan" }
-Aaoctlero@{ shape: win-pane, label: "_Published Mar 18, 2024, 03:15 PM_
-Australia to miss 2030 climate goal by a few years: report" }
-Mgfofweltoraan@{ shape: win-pane, label: "_Published Oct 27, 2024, 12:00 PM_
-Moving away from fossil fuels will be costly; but that goes for climate inaction too" }
-Ieowatakolttli@{ shape: win-pane, label: "_Published Nov 18, 2025, 03:33 AM_
-Indonesia coal power phase-out plan at risk due to stalled international funding" }
-Aytnsatcnige@{ shape: win-pane, label: "_Published Oct 14, 2023, 05:00 AM_
-A dirty habit: why indonesia is addicted to coal and how it can go green" }
-Ieaotaenoii@{ shape: win-pane, label: "_Published Sep 06, 2023, 01:54 PM_
-Indonesia halves output at coal power plant as pollution spikes" }
-Ieaebamnolrt@{ shape: win-pane, label: "_Published Feb 22, 2023, 03:18 PM_
-Indonesia launches carbon trading mechanism for coal power plants" }
-Uhionlolsfous@{ shape: win-pane, label: "_Published Mar 05, 2025, 10:05 PM_
-Us withdrawing from plan to help major polluters move from coal, sources say" }
-TlunlAcsuaicrn@{ shape: win-pane, label: "_Published Jan 21, 2025, 09:54 AM_
-Trump lays out plan to unleash american fossil fuels, halt climate cooperation" }
-TsctieekhleitEt@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:40 PM_
-Trump’s anti-climate action steps a setback for the world and especially the us: experts" }
+Feeeneerauf@{ shape: win-pane, label: "_Published Dec 17, 2025, 07:15 PM_
+France probes ‘foreign interference’ after malware found on ferry" }
+Gnmsoeaafncifc@{ shape: win-pane, label: "_Published Dec 12, 2025, 08:39 PM_
+Germany blames russia for cyberattack on air safety and election interference" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
+Explosions heard in ukraine capital kyiv, other cities" }
+OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
+Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
+Gnhafiernl@{ shape: win-pane, label: "_Published Dec 08, 2025, 10:21 PM_
+German spy chief warns of russia threat to 2026 regional polls" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+RatagspSeynk@{ shape: win-pane, label: "_Published Mar 18, 2025, 10:57 PM_
+Russia sabotage campaign hits european, us targets, says think-tank" }
+Untatucfoawi@{ shape: win-pane, label: "_Published Nov 19, 2025, 11:13 PM_
+Us, uk and australia sanction russia cyber firms over ransomware links" }
+Bistpsyssisriico@{ shape: win-pane, label: "_Published Nov 19, 2025, 07:13 PM_
+Britain says ‘military options’ ready as russian spy ship uses lasers against air force pilots" }
+UltlTytnsP@{ shape: win-pane, label: "_Published Oct 28, 2025, 12:20 AM_
+Uk seals $13b jets deal with turkey in nato sign to russia’s putin" }
+UjdfnnnnroiRae@{ shape: win-pane, label: "_Published Nov 08, 2025, 01:17 AM_
+Uk man jailed for offering then-defence minister’s information to russian ‘spies’" }
+RailUnekreim@{ shape: win-pane, label: "_Published Nov 19, 2025, 10:46 PM_
+Russian strike kills 25 in ukraine as zelensky’s turkey peace bid stumbles" }
+RakyanclUns@{ shape: win-pane, label: "_Published Nov 15, 2025, 04:56 AM_
+Russia strike on kyiv apartment block kills six, ukraine says" }
+Unlywlmiefesei@{ shape: win-pane, label: "_Published Nov 16, 2025, 04:39 AM_
+Ukraine’s zelensky renews calls for more air defence after deadly strike on kyiv" }
 
-GlddehnsoiIy:::txtsize --> Aaaleaeepel:::txtsize
-Aaaleaeepel:::txtsize --> AaoyarcutyTsr:::txtsize
-AaoyarcutyTsr:::txtsize --> Aarfrnhstlb:::txtsize
-AaoyarcutyTsr:::txtsize --> PsioewAateaeanl:::txtsize
-Aaaleaeepel:::txtsize --> Aaoirlcpp:::txtsize
-Aaoirlcpp:::txtsize --> Aaoctlero:::txtsize
-Aaoirlcpp:::txtsize --> Mgfofweltoraan:::txtsize
-GlddehnsoiIy:::txtsize --> Ieowatakolttli:::txtsize
-Ieowatakolttli:::txtsize --> Aytnsatcnige:::txtsize
-Aytnsatcnige:::txtsize --> Ieaotaenoii:::txtsize
-Aytnsatcnige:::txtsize --> Ieaebamnolrt:::txtsize
-Ieowatakolttli:::txtsize --> Uhionlolsfous:::txtsize
-Uhionlolsfous:::txtsize --> TlunlAcsuaicrn:::txtsize
-Uhionlolsfous:::txtsize --> TsctieekhleitEt:::txtsize
+Feeeneerauf:::txtsize --> Gnmsoeaafncifc:::txtsize
+Gnmsoeaafncifc:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
+DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
+Gnmsoeaafncifc:::txtsize --> Gnhafiernl:::txtsize
+Gnhafiernl:::txtsize --> DsruasvUn:::txtsize
+Gnhafiernl:::txtsize --> RatagspSeynk:::txtsize
+Feeeneerauf:::txtsize --> Untatucfoawi:::txtsize
+Untatucfoawi:::txtsize --> Bistpsyssisriico:::txtsize
+Bistpsyssisriico:::txtsize --> UltlTytnsP:::txtsize
+Bistpsyssisriico:::txtsize --> UjdfnnnnroiRae:::txtsize
+Untatucfoawi:::txtsize --> RailUnekreim:::txtsize
+RailUnekreim:::txtsize --> RakyanclUns:::txtsize
+RailUnekreim:::txtsize --> Unlywlmiefesei:::txtsize
 
-TafrseoT@{ shape: win-pane, label: "_Published Dec 17, 2025, 01:57 PM_
-The statue of liberty has fallen – no, not that one" }
-GstafreoceS@{ shape: win-pane, label: "_Published Mar 17, 2025, 02:46 AM_
-Give us back the statue of liberty, french politician tells us" }
-Amgecetrervi@{ shape: win-pane, label: "_Published Feb 17, 2025, 03:20 PM_
-As trump targets research, scientists share grief and resolve to fight" }
-Stdrruelaug@{ shape: win-pane, label: "_Published Feb 09, 2025, 08:05 AM_
-Scientists deplore sharp us cut in medical research funding" }
-Tsnmbhteyr@{ shape: win-pane, label: "_Published Feb 04, 2025, 12:29 PM_
-Trump sued in attempt to block his anti-diversity orders" }
-TatdssUnsesUo@{ shape: win-pane, label: "_Published Mar 16, 2025, 11:41 PM_
-Trump and putin to discuss this week ukraine ceasefire terms, says us envoy" }
-Thpctwuaswtaon@{ shape: win-pane, label: "_Published Mar 14, 2025, 01:16 AM_
-Trump hails ‘productive’ talks with putin, says russia’s war with ukraine could end" }
-UneSoocfnis@{ shape: win-pane, label: "_Published Mar 12, 2025, 02:16 AM_
-Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
-ieeosmdamer@{ shape: win-pane, label: "_Published Aug 01, 2025, 06:56 AM_
-23 injured after carousel snaps mid-ride at saudi amusement park" }
-Tieicsaiseprs@{ shape: win-pane, label: "_Published Oct 27, 2023, 05:53 PM_
-Three injured as giant octopus ride at thailand’s amusement park crashes" }
-ieetcpuprerseer@{ shape: win-pane, label: "_Published Aug 18, 2023, 12:15 PM_
-7 injured after platform collapses during  performance at germany’s biggest theme park" }
-VoCaelagdnrmnn@{ shape: win-pane, label: "_Published Sep 26, 2023, 11:20 AM_
-Visitors at canada theme park left hanging upside down after ride malfunction" }
-MTajafnetdnaae@{ shape: win-pane, label: "_Published Jul 17, 2025, 04:36 PM_
-Man in thailand injured after falling face first onto durian in traffic accident" }
-Meaiekmchrgbe@{ shape: win-pane, label: "_Published Jul 07, 2025, 12:25 PM_
-Man dies in malaysia after cow kicks motorcycle he was riding off a bridge" }
-Inrittdfeilc@{ shape: win-pane, label: "_Published Apr 24, 2023, 09:40 AM_
-Indian man urinating on train track dies after being hit by ‘flying cow’" }
+Snmetifpfge@{ shape: win-pane, label: "_Published Dec 17, 2025, 06:52 PM_
+Sudan named most neglected crisis of 2025, says poll of aid agencies" }
+Uvtutgriefcoaar@{ shape: win-pane, label: "_Published Dec 13, 2025, 03:35 PM_
+Un to evaluate refugee strategy over rise in armed conflict, cuts to global aid and more" }
+FrpdaNgicts@{ shape: win-pane, label: "_Published Dec 12, 2025, 06:08 PM_
+Former iraq president named un refugee chief, document shows" }
+Usgtnorflnm@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:31 AM_
+Un says refugees stuck in vicious circle of conflict and climate" }
+Ensetoamatpy@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:06 PM_
+Eu countries agree positions on new asylum, migrant returns policy" }
+Tseessifsocrd@{ shape: win-pane, label: "_Published Oct 31, 2025, 01:46 AM_
+Trump sets refugee admissions ceiling at 7,500 for fiscal 2026, lowest cap on record" }
+FwSAarnTcsfimi@{ shape: win-pane, label: "_Published May 13, 2025, 04:01 AM_
+First white south africans arrive in us as trump claims they face discrimination" }
+Nniursdrirnr@{ shape: win-pane, label: "_Published Feb 09, 2025, 09:47 PM_
+‘no thanks’, white south africans turn down trump’s immigration offer" }
 
-TafrseoT:::txtsize --> GstafreoceS:::txtsize
-GstafreoceS:::txtsize --> Amgecetrervi:::txtsize
-Amgecetrervi:::txtsize --> Stdrruelaug:::txtsize
-Amgecetrervi:::txtsize --> Tsnmbhteyr:::txtsize
-GstafreoceS:::txtsize --> TatdssUnsesUo:::txtsize
-TatdssUnsesUo:::txtsize --> Thpctwuaswtaon:::txtsize
-TatdssUnsesUo:::txtsize --> UneSoocfnis:::txtsize
-TafrseoT:::txtsize --> ieeosmdamer:::txtsize
-ieeosmdamer:::txtsize --> Tieicsaiseprs:::txtsize
-Tieicsaiseprs:::txtsize --> ieetcpuprerseer:::txtsize
-Tieicsaiseprs:::txtsize --> VoCaelagdnrmnn:::txtsize
-ieeosmdamer:::txtsize --> MTajafnetdnaae:::txtsize
-MTajafnetdnaae:::txtsize --> Meaiekmchrgbe:::txtsize
-MTajafnetdnaae:::txtsize --> Inrittdfeilc:::txtsize
+Snmetifpfge:::txtsize --> Uvtutgriefcoaar:::txtsize
+Uvtutgriefcoaar:::txtsize --> FrpdaNgicts:::txtsize
+FrpdaNgicts:::txtsize --> Usgtnorflnm:::txtsize
+FrpdaNgicts:::txtsize --> Ensetoamatpy:::txtsize
+Uvtutgriefcoaar:::txtsize --> Tseessifsocrd:::txtsize
+Tseessifsocrd:::txtsize --> FwSAarnTcsfimi:::txtsize
+Tseessifsocrd:::txtsize --> Nniursdrirnr:::txtsize
 
 ```
-<i>Last updated: 2025-12-17 16:01:07.464503 (GMT+8)</i>
+<i>Last updated: 2025-12-17 20:00:42.975866 (GMT+8)</i>
 <!-- END -->
