@@ -16,132 +16,141 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-TagttegeniCb@{ shape: win-pane, label: "_Published Dec 17, 2025, 10:30 AM_
-Team races against time to save a tangled sea lion in british columbia" }
-Tuehfeanyrel@{ shape: win-pane, label: "_Published Dec 16, 2025, 01:55 PM_
-The gruesome poaching of rare elephants in malaysia’s remote jungle" }
-Ouakdiovti@{ shape: win-pane, label: "_Published Dec 09, 2025, 01:26 PM_
-Orang utans at risk as indonesia floods devastate habitat" }
-Ieldtio@{ shape: win-pane, label: "_Published Nov 28, 2025, 12:35 PM_
-Indonesia floods death toll rises to 84" }
-Iesblntceoaie@{ shape: win-pane, label: "_Published Dec 06, 2025, 06:06 PM_
-Indonesians climb over logs in walk to aid centre as flood deaths rise over 900" }
-Ipielgaoeifd@{ shape: win-pane, label: "_Published Dec 11, 2025, 02:40 PM_
-Interpol seizes record 30,000 living animals from illegal wildlife trade" }
-SperdslirCio@{ shape: win-pane, label: "_Published Nov 18, 2025, 04:00 PM_
-Singapore seizes record 35.7kg of smuggled rhino horns at changi airport" }
-wjariuhgdrla@{ shape: win-pane, label: "_Published Jun 05, 2025, 09:27 PM_
-3 weeks’ jail each for married couple who smuggled dogs from malaysia" }
-Ustagaluosjehg@{ shape: win-pane, label: "_Published Dec 09, 2025, 10:15 PM_
-Understand the challenges of animal rescue before passing judgments: shanmugam" }
-AlrgsaTiouipinmei@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:35 PM_
-Animal lovers league loses lease at the animal lodge; authorities prioritising animals’ well-being" }
-Thliemesnsys@{ shape: win-pane, label: "_Published Aug 02, 2025, 12:00 PM_
-Tengah facility with over 40 animal shelters, businesses hit by ticks" }
-Nfuinseaenslsa@{ shape: win-pane, label: "_Published Jul 20, 2025, 12:00 PM_
-No unified guidelines? animal shelters chart their own paths on welfare standards" }
-Alrgassre@{ shape: win-pane, label: "_Published Dec 09, 2025, 08:10 PM_
-Animal lovers league charity status under probe" }
-AlrgsaTiouipinmei@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:35 PM_
-Animal lovers league loses lease at the animal lodge; authorities prioritising animals’ well-being" }
-Ustagaluosjehg@{ shape: win-pane, label: "_Published Dec 09, 2025, 10:15 PM_
-Understand the challenges of animal rescue before passing judgments: shanmugam" }
+Catcehetpprfentr@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:20 PM_
+Canada’s fentanyl czar seeks chinese help to stop drug precursors from reaching north america" }
+Csddrodet@{ shape: win-pane, label: "_Published Oct 31, 2025, 07:31 PM_
+China’s xi and canada’s carney vow to advance relations" }
+TsitfaaOiaddnli@{ shape: win-pane, label: "_Published Oct 26, 2025, 05:04 AM_
+Trump sets 10% hike in tariffs on canada after ontario’s reagan ad aired during world series" }
+Tsldkhdtn@{ shape: win-pane, label: "_Published Oct 24, 2025, 11:40 AM_
+Trump says all trade talks with canada are terminated" }
+Ciuaaaeirctt@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:33 AM_
+Canadians pull reagan tariff ad after furious trump scraps trade talks" }
+Threwarfar@{ shape: win-pane, label: "_Published Oct 30, 2025, 02:26 PM_
+Trump has ‘very nice’ talk with mark carney after canada rift" }
+Ciuaaaeirctt@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:33 AM_
+Canadians pull reagan tariff ad after furious trump scraps trade talks" }
+Oimsetlere@{ shape: win-pane, label: "_Published Oct 30, 2025, 01:54 PM_
+Ontario premier asks us envoy to apologise for profane rant" }
+TcrroadcbeC@{ shape: win-pane, label: "_Published Mar 04, 2025, 05:03 AM_
+Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
+MoapnTghhtfa@{ shape: win-pane, label: "_Published Mar 03, 2025, 10:44 PM_
+Mexico has backup plan in case trump goes through with tariff threat" }
+ModieiocTwececra@{ shape: win-pane, label: "_Published Mar 02, 2025, 11:54 PM_
+Mexico, canada tariffs set to kick in on march 4, but trump will set exact levels: us commerce head" }
+Csenitresple@{ shape: win-pane, label: "_Published Mar 03, 2025, 06:10 PM_
+China’s trade dominance in south america tempers trump’s influence" }
+Fgtaer@{ shape: win-pane, label: "_Published Mar 03, 2025, 05:00 AM_
+Facing up to the realities of trump 2.0" }
+TalytnretaWHsit@{ shape: win-pane, label: "_Published Mar 01, 2025, 02:44 AM_
+Trump and zelensky fail to sign minerals deal after clash in white house shouting match" }
 
-TagttegeniCb:::txtsize --> Tuehfeanyrel:::txtsize
-Tuehfeanyrel:::txtsize --> Ouakdiovti:::txtsize
-Ouakdiovti:::txtsize --> Ieldtio:::txtsize
-Ouakdiovti:::txtsize --> Iesblntceoaie:::txtsize
-Tuehfeanyrel:::txtsize --> Ipielgaoeifd:::txtsize
-Ipielgaoeifd:::txtsize --> SperdslirCio:::txtsize
-Ipielgaoeifd:::txtsize --> wjariuhgdrla:::txtsize
-TagttegeniCb:::txtsize --> Ustagaluosjehg:::txtsize
-Ustagaluosjehg:::txtsize --> AlrgsaTiouipinmei:::txtsize
-AlrgsaTiouipinmei:::txtsize --> Thliemesnsys:::txtsize
-AlrgsaTiouipinmei:::txtsize --> Nfuinseaenslsa:::txtsize
-Ustagaluosjehg:::txtsize --> Alrgassre:::txtsize
-Alrgassre:::txtsize --> AlrgsaTiouipinmei:::txtsize
-Alrgassre:::txtsize --> Ustagaluosjehg:::txtsize
+Catcehetpprfentr:::txtsize --> Csddrodet:::txtsize
+Csddrodet:::txtsize --> TsitfaaOiaddnli:::txtsize
+TsitfaaOiaddnli:::txtsize --> Tsldkhdtn:::txtsize
+TsitfaaOiaddnli:::txtsize --> Ciuaaaeirctt:::txtsize
+Csddrodet:::txtsize --> Threwarfar:::txtsize
+Threwarfar:::txtsize --> Ciuaaaeirctt:::txtsize
+Threwarfar:::txtsize --> Oimsetlere:::txtsize
+Catcehetpprfentr:::txtsize --> TcrroadcbeC:::txtsize
+TcrroadcbeC:::txtsize --> MoapnTghhtfa:::txtsize
+MoapnTghhtfa:::txtsize --> ModieiocTwececra:::txtsize
+MoapnTghhtfa:::txtsize --> Csenitresple:::txtsize
+TcrroadcbeC:::txtsize --> Fgtaer:::txtsize
+Fgtaer:::txtsize --> TalytnretaWHsit:::txtsize
 
-Biecntoo@{ shape: win-pane, label: "_Published Dec 17, 2025, 10:05 AM_
-Britain experiences sunniest year on record" }
-Bitnreotremdrn@{ shape: win-pane, label: "_Published Oct 15, 2025, 07:15 AM_
-Britain must urgently prepare for hotter temperatures, climate advisers warn" }
-Wfnbdrtoirdsisoy@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:05 AM_
-World falling far behind deforestation goals, with farms and fires driving loss, report says" }
-Ntnosager@{ shape: win-pane, label: "_Published Oct 13, 2025, 11:10 AM_
-Not nothing, not enough: is the paris agreement working?" }
-Ctpoaiostwhf@{ shape: win-pane, label: "_Published Oct 13, 2025, 07:09 AM_
-Climate tipping points are being crossed, scientists warn ahead of cop30" }
-Ntnosager@{ shape: win-pane, label: "_Published Oct 13, 2025, 11:10 AM_
-Not nothing, not enough: is the paris agreement working?" }
-Smhotanrmor@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:31 AM_
-September third-hottest globally on record: climate monitor" }
-Ranghsocne@{ shape: win-pane, label: "_Published Oct 07, 2025, 01:21 PM_
-Renewable energy growth slows due to policy changes: report" }
-UootMyg@{ shape: win-pane, label: "_Published May 02, 2025, 07:04 AM_
-Uk records hottest ever may day at 29.3 deg c" }
-WspatagsM@{ shape: win-pane, label: "_Published Apr 08, 2025, 12:31 PM_
-World’s ‘exceptional’ heat streak lengthens into march" }
-ottyrasharev@{ shape: win-pane, label: "_Published Jan 10, 2025, 11:00 AM_
-2024 one of the hottest years, rainfall also higher than average: met service" }
-Spnaeolcsiausfoti@{ shape: win-pane, label: "_Published Mar 19, 2025, 01:25 PM_
-Singapore’s new heatwave response plan includes cooling spaces, suspension of outdoor activities" }
-Ssusctawiprger@{ shape: win-pane, label: "_Published Apr 04, 2025, 12:00 PM_
-S’pore’s mercury taskforce: what is it and how will it help with rising temperatures?" }
-Spnaeolcsiausfoti@{ shape: win-pane, label: "_Published Mar 19, 2025, 01:25 PM_
-Singapore’s new heatwave response plan includes cooling spaces, suspension of outdoor activities" }
-Nnaeolitiootahes@{ shape: win-pane, label: "_Published Apr 04, 2025, 12:00 PM_
-National heatwave response plan a signal that singapore should start taking heat seriously" }
+GlddehnsoiIy@{ shape: win-pane, label: "_Published Dec 17, 2025, 02:33 PM_
+Global coal demand hit record high in 2025 but is set to decline by 2030, iea says" }
+Aaaleaeepel@{ shape: win-pane, label: "_Published Jan 30, 2025, 03:46 PM_
+Australia says reliance on coal-fired power drops to record low" }
+AaoyarcutyTsr@{ shape: win-pane, label: "_Published Dec 23, 2024, 04:50 PM_
+Australia to delay 2035 climate targets, cites uncertainty over trump’s return" }
+Aarfrnhstlb@{ shape: win-pane, label: "_Published Dec 23, 2024, 02:50 PM_
+Australia braced for worsening bush fires as national park burns" }
+PsioewAateaeanl@{ shape: win-pane, label: "_Published Dec 19, 2024, 07:45 PM_
+Proposed switch to nuclear power in australia stirs debate as experts back renewables" }
+Aaoirlcpp@{ shape: win-pane, label: "_Published Dec 13, 2024, 10:52 AM_
+Australia’s opposition reveals $284b nuclear power plan" }
+Aaoctlero@{ shape: win-pane, label: "_Published Mar 18, 2024, 03:15 PM_
+Australia to miss 2030 climate goal by a few years: report" }
+Mgfofweltoraan@{ shape: win-pane, label: "_Published Oct 27, 2024, 12:00 PM_
+Moving away from fossil fuels will be costly; but that goes for climate inaction too" }
+Ieowatakolttli@{ shape: win-pane, label: "_Published Nov 18, 2025, 03:33 AM_
+Indonesia coal power phase-out plan at risk due to stalled international funding" }
+Aytnsatcnige@{ shape: win-pane, label: "_Published Oct 14, 2023, 05:00 AM_
+A dirty habit: why indonesia is addicted to coal and how it can go green" }
+Ieaotaenoii@{ shape: win-pane, label: "_Published Sep 06, 2023, 01:54 PM_
+Indonesia halves output at coal power plant as pollution spikes" }
+Ieaebamnolrt@{ shape: win-pane, label: "_Published Feb 22, 2023, 03:18 PM_
+Indonesia launches carbon trading mechanism for coal power plants" }
+Uhionlolsfous@{ shape: win-pane, label: "_Published Mar 05, 2025, 10:05 PM_
+Us withdrawing from plan to help major polluters move from coal, sources say" }
+TlunlAcsuaicrn@{ shape: win-pane, label: "_Published Jan 21, 2025, 09:54 AM_
+Trump lays out plan to unleash american fossil fuels, halt climate cooperation" }
+TsctieekhleitEt@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:40 PM_
+Trump’s anti-climate action steps a setback for the world and especially the us: experts" }
 
-Biecntoo:::txtsize --> Bitnreotremdrn:::txtsize
-Bitnreotremdrn:::txtsize --> Wfnbdrtoirdsisoy:::txtsize
-Wfnbdrtoirdsisoy:::txtsize --> Ntnosager:::txtsize
-Wfnbdrtoirdsisoy:::txtsize --> Ctpoaiostwhf:::txtsize
-Bitnreotremdrn:::txtsize --> Ntnosager:::txtsize
-Ntnosager:::txtsize --> Smhotanrmor:::txtsize
-Ntnosager:::txtsize --> Ranghsocne:::txtsize
-Biecntoo:::txtsize --> UootMyg:::txtsize
-UootMyg:::txtsize --> WspatagsM:::txtsize
-WspatagsM:::txtsize --> ottyrasharev:::txtsize
-WspatagsM:::txtsize --> Spnaeolcsiausfoti:::txtsize
-UootMyg:::txtsize --> Ssusctawiprger:::txtsize
-Ssusctawiprger:::txtsize --> Spnaeolcsiausfoti:::txtsize
-Ssusctawiprger:::txtsize --> Nnaeolitiootahes:::txtsize
+GlddehnsoiIy:::txtsize --> Aaaleaeepel:::txtsize
+Aaaleaeepel:::txtsize --> AaoyarcutyTsr:::txtsize
+AaoyarcutyTsr:::txtsize --> Aarfrnhstlb:::txtsize
+AaoyarcutyTsr:::txtsize --> PsioewAateaeanl:::txtsize
+Aaaleaeepel:::txtsize --> Aaoirlcpp:::txtsize
+Aaoirlcpp:::txtsize --> Aaoctlero:::txtsize
+Aaoirlcpp:::txtsize --> Mgfofweltoraan:::txtsize
+GlddehnsoiIy:::txtsize --> Ieowatakolttli:::txtsize
+Ieowatakolttli:::txtsize --> Aytnsatcnige:::txtsize
+Aytnsatcnige:::txtsize --> Ieaotaenoii:::txtsize
+Aytnsatcnige:::txtsize --> Ieaebamnolrt:::txtsize
+Ieowatakolttli:::txtsize --> Uhionlolsfous:::txtsize
+Uhionlolsfous:::txtsize --> TlunlAcsuaicrn:::txtsize
+Uhionlolsfous:::txtsize --> TsctieekhleitEt:::txtsize
 
-Wrlyjebmbcfnircy@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:40 AM_
-Warner bros likely to reject nearly $140b paramount bid, back netflix in bidding war, sources say" }
-Wrfhuhisboat@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:30 PM_
-Warner bros fight heats up with $140.7 billion hostile bid from paramount" }
-Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
-Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
-Nixilbrrsreua@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:40 PM_
-Netflix in exclusive talks to buy warner bros discovery assets, source says" }
-Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
-Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
-Nixilbrrsreua@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:40 PM_
-Netflix in exclusive talks to buy warner bros discovery assets, source says" }
-Wrfhuhisboat@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:30 PM_
-Warner bros fight heats up with $140.7 billion hostile bid from paramount" }
-Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
-Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
-Nixilbrrsreua@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:40 PM_
-Netflix in exclusive talks to buy warner bros discovery assets, source says" }
-Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
-Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
-Nixilbrrsreua@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:40 PM_
-Netflix in exclusive talks to buy warner bros discovery assets, source says" }
+TafrseoT@{ shape: win-pane, label: "_Published Dec 17, 2025, 01:57 PM_
+The statue of liberty has fallen – no, not that one" }
+GstafreoceS@{ shape: win-pane, label: "_Published Mar 17, 2025, 02:46 AM_
+Give us back the statue of liberty, french politician tells us" }
+Amgecetrervi@{ shape: win-pane, label: "_Published Feb 17, 2025, 03:20 PM_
+As trump targets research, scientists share grief and resolve to fight" }
+Stdrruelaug@{ shape: win-pane, label: "_Published Feb 09, 2025, 08:05 AM_
+Scientists deplore sharp us cut in medical research funding" }
+Tsnmbhteyr@{ shape: win-pane, label: "_Published Feb 04, 2025, 12:29 PM_
+Trump sued in attempt to block his anti-diversity orders" }
+TatdssUnsesUo@{ shape: win-pane, label: "_Published Mar 16, 2025, 11:41 PM_
+Trump and putin to discuss this week ukraine ceasefire terms, says us envoy" }
+Thpctwuaswtaon@{ shape: win-pane, label: "_Published Mar 14, 2025, 01:16 AM_
+Trump hails ‘productive’ talks with putin, says russia’s war with ukraine could end" }
+UneSoocfnis@{ shape: win-pane, label: "_Published Mar 12, 2025, 02:16 AM_
+Ukraine accepts us proposal for 30-day ceasefire in war with russia" }
+ieeosmdamer@{ shape: win-pane, label: "_Published Aug 01, 2025, 06:56 AM_
+23 injured after carousel snaps mid-ride at saudi amusement park" }
+Tieicsaiseprs@{ shape: win-pane, label: "_Published Oct 27, 2023, 05:53 PM_
+Three injured as giant octopus ride at thailand’s amusement park crashes" }
+ieetcpuprerseer@{ shape: win-pane, label: "_Published Aug 18, 2023, 12:15 PM_
+7 injured after platform collapses during  performance at germany’s biggest theme park" }
+VoCaelagdnrmnn@{ shape: win-pane, label: "_Published Sep 26, 2023, 11:20 AM_
+Visitors at canada theme park left hanging upside down after ride malfunction" }
+MTajafnetdnaae@{ shape: win-pane, label: "_Published Jul 17, 2025, 04:36 PM_
+Man in thailand injured after falling face first onto durian in traffic accident" }
+Meaiekmchrgbe@{ shape: win-pane, label: "_Published Jul 07, 2025, 12:25 PM_
+Man dies in malaysia after cow kicks motorcycle he was riding off a bridge" }
+Inrittdfeilc@{ shape: win-pane, label: "_Published Apr 24, 2023, 09:40 AM_
+Indian man urinating on train track dies after being hit by ‘flying cow’" }
 
-Wrlyjebmbcfnircy:::txtsize --> Wrfhuhisboat:::txtsize
-Wrfhuhisboat:::txtsize --> Niunocydtiimh:::txtsize
-Niunocydtiimh:::txtsize --> Nixilbrrsreua:::txtsize
-Wrfhuhisboat:::txtsize --> Niunocydtiimh:::txtsize
-Niunocydtiimh:::txtsize --> Nixilbrrsreua:::txtsize
-Wrlyjebmbcfnircy:::txtsize --> Wrfhuhisboat:::txtsize
-Wrfhuhisboat:::txtsize --> Niunocydtiimh:::txtsize
-Niunocydtiimh:::txtsize --> Nixilbrrsreua:::txtsize
-Wrfhuhisboat:::txtsize --> Niunocydtiimh:::txtsize
-Niunocydtiimh:::txtsize --> Nixilbrrsreua:::txtsize
+TafrseoT:::txtsize --> GstafreoceS:::txtsize
+GstafreoceS:::txtsize --> Amgecetrervi:::txtsize
+Amgecetrervi:::txtsize --> Stdrruelaug:::txtsize
+Amgecetrervi:::txtsize --> Tsnmbhteyr:::txtsize
+GstafreoceS:::txtsize --> TatdssUnsesUo:::txtsize
+TatdssUnsesUo:::txtsize --> Thpctwuaswtaon:::txtsize
+TatdssUnsesUo:::txtsize --> UneSoocfnis:::txtsize
+TafrseoT:::txtsize --> ieeosmdamer:::txtsize
+ieeosmdamer:::txtsize --> Tieicsaiseprs:::txtsize
+Tieicsaiseprs:::txtsize --> ieetcpuprerseer:::txtsize
+Tieicsaiseprs:::txtsize --> VoCaelagdnrmnn:::txtsize
+ieeosmdamer:::txtsize --> MTajafnetdnaae:::txtsize
+MTajafnetdnaae:::txtsize --> Meaiekmchrgbe:::txtsize
+MTajafnetdnaae:::txtsize --> Inrittdfeilc:::txtsize
 
 ```
-<i>Last updated: 2025-12-17 12:00:23.027470 (GMT+8)</i>
+<i>Last updated: 2025-12-17 16:01:07.464503 (GMT+8)</i>
 <!-- END -->
