@@ -16,129 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Eeboinors@{ shape: win-pane, label: "_Published Dec 17, 2025, 01:29 AM_
-Eu eases 2035 combustion-engine ban to boost car industry" }
-Binulpgeio@{ shape: win-pane, label: "_Published Nov 23, 2025, 10:35 AM_
-Britain to introduce $2.5 billion package to help switch to evs" }
-BiestVoe@{ shape: win-pane, label: "_Published Jul 15, 2025, 09:05 AM_
-Britain offers discounts on evs to boost demand" }
-EotaediayeO@{ shape: win-pane, label: "_Published Jun 26, 2025, 03:20 PM_
-Environmental fears over $7.64b indonesia ev battery project: ngos" }
-Ttaaoollcose@{ shape: win-pane, label: "_Published Apr 19, 2025, 09:00 AM_
-Tesla to delay us launch of affordable ev, a lower-cost model y, sources say" }
-Aehperhsdoagace@{ shape: win-pane, label: "_Published Nov 21, 2025, 02:45 PM_
-Are there other types of electric vehicles besides those that plug into a wall charger?" }
-Hcrmighpwntalt@{ shape: win-pane, label: "_Published Nov 14, 2025, 02:15 PM_
-How to compare a combustion engine’s horsepower with an electric car’s kilowatts" }
-TeWoyehhdani@{ shape: win-pane, label: "_Published Nov 07, 2025, 02:45 PM_
-Torque shop: what to do if you are caught in the middle of a chain collision" }
-Hcrmighpwntalt@{ shape: win-pane, label: "_Published Nov 14, 2025, 02:15 PM_
-How to compare a combustion engine’s horsepower with an electric car’s kilowatts" }
-TeWoyehhdani@{ shape: win-pane, label: "_Published Nov 07, 2025, 02:45 PM_
-Torque shop: what to do if you are caught in the middle of a chain collision" }
-TeLnukorates@{ shape: win-pane, label: "_Published Oct 24, 2025, 03:15 PM_
-Torque shop: locking and unlocking your car with a smartphone app is safe" }
-TeLnukorates@{ shape: win-pane, label: "_Published Oct 24, 2025, 03:15 PM_
-Torque shop: locking and unlocking your car with a smartphone app is safe" }
-TeRaluwuacaairr@{ shape: win-pane, label: "_Published Oct 17, 2025, 02:45 PM_
-Torque shop: red flags to look out for when buying a used car that had an accident repair" }
-TeWssvsorcrr@{ shape: win-pane, label: "_Published Sep 26, 2025, 03:15 PM_
-Torque shop: when is it best to avoid using your tyre puncture repair kit?" }
+Hnuntheeeiestn@{ shape: win-pane, label: "_Published Dec 17, 2025, 07:40 AM_
+Hacking group ‘shinyhunters’ threatens to expose premium users of sex site pornhub" }
+Puesscrecn@{ shape: win-pane, label: "_Published Jun 03, 2025, 11:16 PM_
+Pornhub owner pressures france over age verification law" }
+Pnaigduootnlitnsr@{ shape: win-pane, label: "_Published Feb 09, 2025, 05:00 AM_
+Porn on social media disguised as educational content; parents’ role key in protecting kids: experts" }
+Aooeogesodmsaol@{ shape: win-pane, label: "_Published Jan 15, 2025, 06:30 PM_
+App stores to screen age of singapore users to block kids from accessing apps for adults" }
+SsniOestennsla@{ shape: win-pane, label: "_Published Jan 25, 2025, 05:00 AM_
+‘she was trying to hide it’: online harms lead to some parents wanting social media ban" }
+Castrsobabse@{ shape: win-pane, label: "_Published Mar 04, 2025, 01:11 PM_
+Canada seeks court order to ensure pornhub operator obtains consent" }
+SleSrcrepp@{ shape: win-pane, label: "_Published Sep 15, 2024, 05:00 AM_
+Social workers in s’pore raise concerns over deepfake porn" }
+Pnaigduootnlitnsr@{ shape: win-pane, label: "_Published Feb 09, 2025, 05:00 AM_
+Porn on social media disguised as educational content; parents’ role key in protecting kids: experts" }
+Castrsobabse@{ shape: win-pane, label: "_Published Mar 04, 2025, 01:11 PM_
+Canada seeks court order to ensure pornhub operator obtains consent" }
+SleSrcrepp@{ shape: win-pane, label: "_Published Sep 15, 2024, 05:00 AM_
+Social workers in s’pore raise concerns over deepfake porn" }
+SKiiekni@{ shape: win-pane, label: "_Published Sep 11, 2024, 05:00 AM_
+South korea is facing a deepfake porn crisis" }
+SariliseeeSK@{ shape: win-pane, label: "_Published Sep 05, 2024, 10:10 AM_
+Stigma and criticism follow victims of deepfake content in south korea" }
+Pnaigduootnlitnsr@{ shape: win-pane, label: "_Published Feb 09, 2025, 05:00 AM_
+Porn on social media disguised as educational content; parents’ role key in protecting kids: experts" }
+Aooeogesodmsaol@{ shape: win-pane, label: "_Published Jan 15, 2025, 06:30 PM_
+App stores to screen age of singapore users to block kids from accessing apps for adults" }
+SsniOestennsla@{ shape: win-pane, label: "_Published Jan 25, 2025, 05:00 AM_
+‘she was trying to hide it’: online harms lead to some parents wanting social media ban" }
 
-Eeboinors:::txtsize --> Binulpgeio:::txtsize
-Binulpgeio:::txtsize --> BiestVoe:::txtsize
-BiestVoe:::txtsize --> EotaediayeO:::txtsize
-BiestVoe:::txtsize --> Ttaaoollcose:::txtsize
-Binulpgeio:::txtsize --> Aehperhsdoagace:::txtsize
-Aehperhsdoagace:::txtsize --> Hcrmighpwntalt:::txtsize
-Aehperhsdoagace:::txtsize --> TeWoyehhdani:::txtsize
-Eeboinors:::txtsize --> Hcrmighpwntalt:::txtsize
-Hcrmighpwntalt:::txtsize --> TeWoyehhdani:::txtsize
-TeWoyehhdani:::txtsize --> TeLnukorates:::txtsize
-Hcrmighpwntalt:::txtsize --> TeLnukorates:::txtsize
-TeLnukorates:::txtsize --> TeRaluwuacaairr:::txtsize
-TeLnukorates:::txtsize --> TeWssvsorcrr:::txtsize
+Hnuntheeeiestn:::txtsize --> Puesscrecn:::txtsize
+Puesscrecn:::txtsize --> Pnaigduootnlitnsr:::txtsize
+Pnaigduootnlitnsr:::txtsize --> Aooeogesodmsaol:::txtsize
+Pnaigduootnlitnsr:::txtsize --> SsniOestennsla:::txtsize
+Puesscrecn:::txtsize --> Castrsobabse:::txtsize
+Castrsobabse:::txtsize --> SleSrcrepp:::txtsize
+Castrsobabse:::txtsize --> Pnaigduootnlitnsr:::txtsize
+Hnuntheeeiestn:::txtsize --> Castrsobabse:::txtsize
+Castrsobabse:::txtsize --> SleSrcrepp:::txtsize
+SleSrcrepp:::txtsize --> SKiiekni:::txtsize
+SleSrcrepp:::txtsize --> SariliseeeSK:::txtsize
+Castrsobabse:::txtsize --> Pnaigduootnlitnsr:::txtsize
+Pnaigduootnlitnsr:::txtsize --> Aooeogesodmsaol:::txtsize
+Pnaigduootnlitnsr:::txtsize --> SsniOestennsla:::txtsize
 
-Upirsdbtvtlgs@{ shape: win-pane, label: "_Published Dec 17, 2025, 01:14 AM_
-Us not planning to release unedited boat strike video to public, hegseth says" }
-Voiriorrlisms@{ shape: win-pane, label: "_Published Dec 05, 2025, 01:36 AM_
-Video of us military strike shows survivors in ‘clear distress’, lawmaker says" }
-UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
-Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
-Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
-Us builds up forces in caribbean as officials, experts, ask why" }
-VuMoUswieggoy@{ shape: win-pane, label: "_Published Sep 02, 2025, 01:19 AM_
-Venezuela’s maduro says us warships with 1,200 missiles targeting his country" }
-PgvaHtrasoei@{ shape: win-pane, label: "_Published Dec 04, 2025, 05:30 AM_
-Pentagon review faults hegseth over signal messages on yemen strikes" }
-WHmkssnliui@{ shape: win-pane, label: "_Published Mar 25, 2025, 04:50 AM_
-White house mistakenly shares yemen war plans with journalist" }
-Pgitsahltnkldb@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:21 AM_
-Pentagon chief pete hegseth says us has ‘only just begun’ striking alleged drug boats" }
-Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
-Us military says it carried out strikes on three vessels in eastern pacific" }
-TsSbrltsurnama@{ shape: win-pane, label: "_Published Dec 13, 2025, 07:41 AM_
-Trump says us will be ‘starting’ land strikes on drug operations in latin america" }
-Upgirkfeasespncy@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:13 AM_
-Us preparing to seize more tankers off venezuela’s coast after first ship taken, sources say" }
-Uuennggrmeenik@{ shape: win-pane, label: "_Published Dec 12, 2025, 04:18 AM_
-Us issues fresh sanctions targeting maduro’s family, venezuela-linked oil tankers" }
-RararoVuMouaps@{ shape: win-pane, label: "_Published Dec 12, 2025, 01:23 AM_
-Russia, belarus leaders reach out to venezuela’s maduro, as trump cranks up pressure" }
+Tapsiecofieelers@{ shape: win-pane, label: "_Published Dec 17, 2025, 06:45 AM_
+Trump and top aides publicly defend chief of staff susie wiles after explosive interviews" }
+Thcirlhffesiblr@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:34 AM_
+Trump has ‘alcoholic’s personality’, chief of staff susie wiles says in bombshell interview" }
+Tapsiecofieelers@{ shape: win-pane, label: "_Published Dec 17, 2025, 06:45 AM_
+Trump and top aides publicly defend chief of staff susie wiles after explosive interviews" }
+Thcirlhffesiblr@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:34 AM_
+Trump has ‘alcoholic’s personality’, chief of staff susie wiles says in bombshell interview" }
+Thcirlhffesiblr@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:34 AM_
+Trump has ‘alcoholic’s personality’, chief of staff susie wiles says in bombshell interview" }
+TsoastneRrols@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:14 AM_
+Trump’s approval rating slips to 39%, economy weighs, reuters/ipsos poll finds" }
+Hthnndwrust@{ shape: win-pane, label: "_Published Nov 14, 2025, 08:52 AM_
+‘hope it won’t happen again’: us federal workers return post-shutdown" }
+Thcirlhffesiblr@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:34 AM_
+Trump has ‘alcoholic’s personality’, chief of staff susie wiles says in bombshell interview" }
+Thcirlhffesiblr@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:34 AM_
+Trump has ‘alcoholic’s personality’, chief of staff susie wiles says in bombshell interview" }
+Tapsiecofieelers@{ shape: win-pane, label: "_Published Dec 17, 2025, 06:45 AM_
+Trump and top aides publicly defend chief of staff susie wiles after explosive interviews" }
+Thcirlhffesiblr@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:34 AM_
+Trump has ‘alcoholic’s personality’, chief of staff susie wiles says in bombshell interview" }
+Thcirlhffesiblr@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:34 AM_
+Trump has ‘alcoholic’s personality’, chief of staff susie wiles says in bombshell interview" }
+TsoastneRrols@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:14 AM_
+Trump’s approval rating slips to 39%, economy weighs, reuters/ipsos poll finds" }
+Hthnndwrust@{ shape: win-pane, label: "_Published Nov 14, 2025, 08:52 AM_
+‘hope it won’t happen again’: us federal workers return post-shutdown" }
+Thcirlhffesiblr@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:34 AM_
+Trump has ‘alcoholic’s personality’, chief of staff susie wiles says in bombshell interview" }
 
-Upirsdbtvtlgs:::txtsize --> Voiriorrlisms:::txtsize
-Voiriorrlisms:::txtsize --> UikperngutVura:::txtsize
-UikperngutVura:::txtsize --> Ulfsrafapay:::txtsize
-UikperngutVura:::txtsize --> VuMoUswieggoy:::txtsize
-Voiriorrlisms:::txtsize --> PgvaHtrasoei:::txtsize
-PgvaHtrasoei:::txtsize --> WHmkssnliui:::txtsize
-PgvaHtrasoei:::txtsize --> Pgitsahltnkldb:::txtsize
-Upirsdbtvtlgs:::txtsize --> Uistitktvlanf:::txtsize
-Uistitktvlanf:::txtsize --> TsSbrltsurnama:::txtsize
-TsSbrltsurnama:::txtsize --> Upgirkfeasespncy:::txtsize
-TsSbrltsurnama:::txtsize --> Uuennggrmeenik:::txtsize
-Uistitktvlanf:::txtsize --> RararoVuMouaps:::txtsize
+Tapsiecofieelers:::txtsize --> Thcirlhffesiblr:::txtsize
+Thcirlhffesiblr:::txtsize --> Tapsiecofieelers:::txtsize
+Tapsiecofieelers:::txtsize --> Thcirlhffesiblr:::txtsize
+Tapsiecofieelers:::txtsize --> Thcirlhffesiblr:::txtsize
+Thcirlhffesiblr:::txtsize --> TsoastneRrols:::txtsize
+TsoastneRrols:::txtsize --> Hthnndwrust:::txtsize
+TsoastneRrols:::txtsize --> Thcirlhffesiblr:::txtsize
+Tapsiecofieelers:::txtsize --> Thcirlhffesiblr:::txtsize
+Thcirlhffesiblr:::txtsize --> Tapsiecofieelers:::txtsize
+Tapsiecofieelers:::txtsize --> Thcirlhffesiblr:::txtsize
+Tapsiecofieelers:::txtsize --> Thcirlhffesiblr:::txtsize
+Thcirlhffesiblr:::txtsize --> TsoastneRrols:::txtsize
+TsoastneRrols:::txtsize --> Hthnndwrust:::txtsize
+TsoastneRrols:::txtsize --> Thcirlhffesiblr:::txtsize
 
-Rnlurteseee@{ shape: win-pane, label: "_Published Dec 17, 2025, 01:07 AM_
-Rome’s new colosseum metro station reveals ancient treasures" }
-Ehveetrsaetsi@{ shape: win-pane, label: "_Published Oct 30, 2025, 07:51 PM_
-Egypt hopes vast new museum by the pyramids will accelerate tourism revival" }
-Anpmerlstoll@{ shape: win-pane, label: "_Published Jul 03, 2025, 02:56 AM_
-Ancient egyptian man’s genome reveals his society’s cross-cultural ties" }
-Eaniiepomoar@{ shape: win-pane, label: "_Published Feb 20, 2025, 10:00 AM_
-Egypt announces first discovery of pharaoh’s tomb in more than 100 years" }
-Eixtaiierteoee@{ shape: win-pane, label: "_Published Nov 10, 2024, 03:15 PM_
-Egyptians exhume the dead as historic cemetery razed to make way for development" }
-Eulneetamrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 01:26 AM_
-Egypt unveils plan for new desert city in latest megaproject" }
-Trqlieides@{ shape: win-pane, label: "_Published Feb 14, 2024, 03:12 PM_
-The world is quietly losing the land it needs to feed itself" }
-Harihitmede@{ shape: win-pane, label: "_Published Dec 14, 2025, 07:00 AM_
-Heritage for hire in delhi? the idea stirs a monumental debate" }
-IniftaiEegt@{ shape: win-pane, label: "_Published Dec 10, 2025, 03:10 PM_
-Indian festival of lights diwali joins unesco heritage list" }
-BdaatcaretSd@{ shape: win-pane, label: "_Published Dec 09, 2025, 05:52 PM_
-Beyond pizza and pasta: italy’s culinary heritage awaits unesco nod" }
-YaSipyhas@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:55 PM_
-Yo-de-lay-unesco? swiss hope for yodel heritage listing" }
-Ilhastyagsrys@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:25 PM_
-India launches ai app to save its many tribal languages before they vanish" }
-Ottetluitntsoine@{ shape: win-pane, label: "_Published Oct 25, 2023, 05:00 AM_
-One letter at a time – toto tribal community in eastern india strives to protect its language" }
+MnBUrseesfhegdoe@{ shape: win-pane, label: "_Published Dec 17, 2025, 06:05 AM_
+Manhunt for brown university shooter stretches into fourth day, leaving residents on edge" }
+Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
+Police hold person of interest after brown university shooting left 2 dead" }
+SiKcaiileecd@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:03 AM_
+Shooting at kentucky state university kills one, suspect in custody" }
+SceasiOhnt@{ shape: win-pane, label: "_Published Dec 08, 2025, 07:20 PM_
+Suspect arrested after shooting in oslo shopping centre" }
+Hrfrsymtgafgenyg@{ shape: win-pane, label: "_Published Dec 05, 2025, 10:30 PM_
+Harvard professor arrested by us immigration agents after firing pellet gun near synagogue" }
+Asdndrtaspii@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:58 PM_
+At least 1 dead and 3 injured after shootings at mississippi universities" }
+Asddweissi@{ shape: win-pane, label: "_Published Oct 11, 2025, 11:16 PM_
+At least 4 dead and a dozen wounded in mississippi shooting" }
+Odweadaog@{ shape: win-pane, label: "_Published Oct 06, 2025, 07:20 AM_
+Over a dozen wounded in rare sydney mass shooting" }
+PeanayteireBsi@{ shape: win-pane, label: "_Published Dec 15, 2025, 07:00 AM_
+Police release man and say they are still searching for suspect in brown shooting" }
+Wsebiaasoiiogair@{ shape: win-pane, label: "_Published Dec 14, 2025, 09:40 AM_
+Witnesses describe anxious campus as news of brown university shooting spread, police arrived" }
+Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
+Police hold person of interest after brown university shooting left 2 dead" }
+Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
+Police hold person of interest after brown university shooting left 2 dead" }
+BUrrnmtette@{ shape: win-pane, label: "_Published Dec 15, 2025, 06:30 AM_
+Brown university, reeling from shooting, sends students home" }
+Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
+Police hold person of interest after brown university shooting left 2 dead" }
+Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
+Police hold person of interest after brown university shooting left 2 dead" }
 
-Rnlurteseee:::txtsize --> Ehveetrsaetsi:::txtsize
-Ehveetrsaetsi:::txtsize --> Anpmerlstoll:::txtsize
-Anpmerlstoll:::txtsize --> Eaniiepomoar:::txtsize
-Anpmerlstoll:::txtsize --> Eixtaiierteoee:::txtsize
-Ehveetrsaetsi:::txtsize --> Eulneetamrt:::txtsize
-Eulneetamrt:::txtsize --> Trqlieides:::txtsize
-Rnlurteseee:::txtsize --> Harihitmede:::txtsize
-Harihitmede:::txtsize --> IniftaiEegt:::txtsize
-IniftaiEegt:::txtsize --> BdaatcaretSd:::txtsize
-IniftaiEegt:::txtsize --> YaSipyhas:::txtsize
-Harihitmede:::txtsize --> Ilhastyagsrys:::txtsize
-Ilhastyagsrys:::txtsize --> Ottetluitntsoine:::txtsize
+MnBUrseesfhegdoe:::txtsize --> Pepnttrneytea:::txtsize
+Pepnttrneytea:::txtsize --> SiKcaiileecd:::txtsize
+SiKcaiileecd:::txtsize --> SceasiOhnt:::txtsize
+SiKcaiileecd:::txtsize --> Hrfrsymtgafgenyg:::txtsize
+Pepnttrneytea:::txtsize --> Asdndrtaspii:::txtsize
+Asdndrtaspii:::txtsize --> Asddweissi:::txtsize
+Asdndrtaspii:::txtsize --> Odweadaog:::txtsize
+MnBUrseesfhegdoe:::txtsize --> PeanayteireBsi:::txtsize
+PeanayteireBsi:::txtsize --> Wsebiaasoiiogair:::txtsize
+Wsebiaasoiiogair:::txtsize --> Pepnttrneytea:::txtsize
+Wsebiaasoiiogair:::txtsize --> Pepnttrneytea:::txtsize
+PeanayteireBsi:::txtsize --> BUrrnmtette:::txtsize
+BUrrnmtette:::txtsize --> Pepnttrneytea:::txtsize
+BUrrnmtette:::txtsize --> Pepnttrneytea:::txtsize
 
 ```
-<i>Last updated: 2025-12-17 04:00:31.284400 (GMT+8)</i>
+<i>Last updated: 2025-12-17 08:00:55.916457 (GMT+8)</i>
 <!-- END -->
