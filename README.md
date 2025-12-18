@@ -16,96 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Unlyspfntnsptw@{ shape: win-pane, label: "_Published Dec 18, 2025, 01:55 AM_
-Ukraine’s zelensky tells europe: use frozen assets to end russia’s appetite for war" }
-Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
-Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
-Eoufnisoker@{ shape: win-pane, label: "_Published Aug 31, 2025, 12:28 AM_
-Eu to work on using frozen russian assets to aid ukraine after war" }
-Unpsukrcyaleniin@{ shape: win-pane, label: "_Published Aug 30, 2025, 04:43 AM_
-Ukraine completes rescue work after attack on kyiv; death toll rises to 25, including 4 children" }
-Feawpuou@{ shape: win-pane, label: "_Published Aug 29, 2025, 10:53 PM_
-France, germany vow to up pressure on ‘ogre’ putin" }
-Rasptlfnttss@{ shape: win-pane, label: "_Published Sep 15, 2025, 04:05 PM_
-Russia warns europe that it will go after any state that takes its assets" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Tnainreumnvsr@{ shape: win-pane, label: "_Published Sep 12, 2025, 04:03 PM_
-Taiwan, china foreign ministers make unusual simultaneous visits to europe" }
-Eeiilesasvblke@{ shape: win-pane, label: "_Published Dec 13, 2025, 01:13 AM_
-Eu agrees to indefinitely freeze russian assets, removing obstacle to ukraine loan" }
-Epufnisrotei@{ shape: win-pane, label: "_Published Dec 04, 2025, 04:29 AM_
-Eu proposes using frozen russian assets or borrowing to give ukraine $136b" }
-BudnnpountUn@{ shape: win-pane, label: "_Published Nov 28, 2025, 07:44 PM_
-Belgium’s pm digs in against eu push to use russian assets for ukraine" }
-PwEeuwesleu@{ shape: win-pane, label: "_Published Dec 02, 2025, 11:45 PM_
-Putin warns europe: if you want war, then russia will defeat you" }
-EseRaeciotrn@{ shape: win-pane, label: "_Published Dec 10, 2025, 01:42 AM_
-Eu close to deal on russian assets, dec 18 summit to go on until agreement" }
-EsnbnUndozsas@{ shape: win-pane, label: "_Published Oct 23, 2025, 11:00 PM_
-Eu vows financial backing for ukraine, holds off on frozen russian assets plan" }
-Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
-Belgium says eu states must share risk to use frozen russian assets for ukraine" }
+Jasplpcrdo@{ shape: win-pane, label: "_Published Dec 18, 2025, 07:59 AM_
+Judge allows trump’s ballroom project to proceed for now" }
+Tstatoslmeiuy@{ shape: win-pane, label: "_Published Dec 05, 2025, 07:00 AM_
+Trump selects new architect to oversee ballroom project, white house says" }
+WHgcdhmsaaok@{ shape: win-pane, label: "_Published Dec 02, 2025, 08:45 AM_
+White house gets scaled-down christmas display amid ballroom work" }
+WHEilowboudioo@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:39 AM_
+White house east wing will be torn down for ballroom, trump had promised not to do so" }
+Tletlmphrnmhts@{ shape: win-pane, label: "_Published Oct 25, 2025, 08:05 PM_
+The bulldozer and the ballroom: trump puts his permanent stamp on the white house" }
+Tletlmphrnmhts@{ shape: win-pane, label: "_Published Oct 25, 2025, 08:05 PM_
+The bulldozer and the ballroom: trump puts his permanent stamp on the white house" }
+WHEilowboudioo@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:39 AM_
+White house east wing will be torn down for ballroom, trump had promised not to do so" }
+Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
+‘music to my ears’: trump brushes off critics of white house demolition" }
+Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
+‘music to my ears’: trump brushes off critics of white house demolition" }
+WHEilowboudioo@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:39 AM_
+White house east wing will be torn down for ballroom, trump had promised not to do so" }
+Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
+‘music to my ears’: trump brushes off critics of white house demolition" }
+Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
+‘music to my ears’: trump brushes off critics of white house demolition" }
 
-Unlyspfntnsptw:::txtsize --> Elrgessfakeoau:::txtsize
-Elrgessfakeoau:::txtsize --> Eoufnisoker:::txtsize
-Eoufnisoker:::txtsize --> Unpsukrcyaleniin:::txtsize
-Eoufnisoker:::txtsize --> Feawpuou:::txtsize
-Elrgessfakeoau:::txtsize --> Rasptlfnttss:::txtsize
-Rasptlfnttss:::txtsize --> DsruasvUn:::txtsize
-Rasptlfnttss:::txtsize --> Tnainreumnvsr:::txtsize
-Unlyspfntnsptw:::txtsize --> Eeiilesasvblke:::txtsize
-Eeiilesasvblke:::txtsize --> Epufnisrotei:::txtsize
-Epufnisrotei:::txtsize --> BudnnpountUn:::txtsize
-Epufnisrotei:::txtsize --> PwEeuwesleu:::txtsize
-Eeiilesasvblke:::txtsize --> EseRaeciotrn:::txtsize
-EseRaeciotrn:::txtsize --> EsnbnUndozsas:::txtsize
-EseRaeciotrn:::txtsize --> Busauasszsaske:::txtsize
+Jasplpcrdo:::txtsize --> Tstatoslmeiuy:::txtsize
+Tstatoslmeiuy:::txtsize --> WHgcdhmsaaok:::txtsize
+WHgcdhmsaaok:::txtsize --> WHEilowboudioo:::txtsize
+WHgcdhmsaaok:::txtsize --> Tletlmphrnmhts:::txtsize
+Jasplpcrdo:::txtsize --> Tletlmphrnmhts:::txtsize
+Tletlmphrnmhts:::txtsize --> WHEilowboudioo:::txtsize
+WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
+WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
+Tletlmphrnmhts:::txtsize --> WHEilowboudioo:::txtsize
+WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
+WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
 
-Ugpsleetnepoano@{ shape: win-pane, label: "_Published Dec 18, 2025, 01:50 AM_
-Us congress passes $1 trillion defence bill that includes support for ukraine and europe" }
-Siurymeoarnolu@{ shape: win-pane, label: "_Published Dec 06, 2025, 02:26 AM_
-Sweeping trump strategy document seeks to reframe us’ role in the world, slams europe" }
-Taitariisnaqitiia@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:21 AM_
-Trump administration says europe risks ‘civilisational erasure’, questions its reliability as ally" }
-VakrvaUnkusinn@{ shape: win-pane, label: "_Published Feb 15, 2025, 07:44 AM_
-Vance attack on europe overshadows ukraine talks at munich security conference" }
-EeainletovrRt@{ shape: win-pane, label: "_Published Dec 04, 2025, 09:15 PM_
-European leaders in phone call voiced distrust of us over ukraine: report" }
-Medfmaljltlaathoe@{ shape: win-pane, label: "_Published Jan 30, 2025, 11:14 AM_
-Many feared dead after american airlines jet, helicopter collide and crash into washington river" }
-Uuawniienthtoi@{ shape: win-pane, label: "_Published Jan 30, 2025, 04:44 PM_
-Us figure skaters were on american airlines plane that crashed into potomac river" }
-Medfmaljltlaathoe@{ shape: win-pane, label: "_Published Jan 30, 2025, 11:14 AM_
-Many feared dead after american airlines jet, helicopter collide and crash into washington river" }
-OhrtodsaennooBar@{ shape: win-pane, label: "_Published Jan 30, 2025, 04:55 PM_
-‘open the door, open the door!’: how dozens fled an inferno on a plane in south korea’s busan airport" }
+Cisheerai@{ shape: win-pane, label: "_Published Dec 18, 2025, 07:21 AM_
+Canadian researchers see rare polar bear adoption" }
+MolooooariSteriea@{ shape: win-pane, label: "_Published Sep 26, 2025, 04:45 PM_
+Make yourself at home: drone footage of polar bears living in soviet-era weather station goes viral" }
+Teiiosorhrs@{ shape: win-pane, label: "_Published Jul 22, 2025, 10:58 AM_
+The eye-opening science of close encounters with polar bears" }
+PbiehgAcus@{ shape: win-pane, label: "_Published May 19, 2025, 02:40 PM_
+Polar bear biopsies to shed light on arctic pollutants" }
+Pbsgtpoietr@{ shape: win-pane, label: "_Published Feb 14, 2024, 01:15 AM_
+Polar bears struggling to adapt to longer ice-free arctic periods" }
+Pbsgtpoietr@{ shape: win-pane, label: "_Published Feb 14, 2024, 01:15 AM_
+Polar bears struggling to adapt to longer ice-free arctic periods" }
+PbiehgAcus@{ shape: win-pane, label: "_Published May 19, 2025, 02:40 PM_
+Polar bear biopsies to shed light on arctic pollutants" }
+Accecooorad@{ shape: win-pane, label: "_Published Feb 05, 2025, 07:45 AM_
+Arctic sea ice levels second lowest on record for january: us data" }
+Tiebgnnoby@{ shape: win-pane, label: "_Published Jan 31, 2025, 03:09 AM_
+Trump interest in buying greenland ‘not a joke’, rubio says" }
+Pbsgtpoietr@{ shape: win-pane, label: "_Published Feb 14, 2024, 01:15 AM_
+Polar bears struggling to adapt to longer ice-free arctic periods" }
+Pbsgtpoietr@{ shape: win-pane, label: "_Published Feb 14, 2024, 01:15 AM_
+Polar bears struggling to adapt to longer ice-free arctic periods" }
 
-Ugpsleetnepoano:::txtsize --> Siurymeoarnolu:::txtsize
-Siurymeoarnolu:::txtsize --> Taitariisnaqitiia:::txtsize
-Taitariisnaqitiia:::txtsize --> VakrvaUnkusinn:::txtsize
-Taitariisnaqitiia:::txtsize --> EeainletovrRt:::txtsize
-Ugpsleetnepoano:::txtsize --> Medfmaljltlaathoe:::txtsize
-Medfmaljltlaathoe:::txtsize --> Uuawniienthtoi:::txtsize
-Uuawniienthtoi:::txtsize --> Medfmaljltlaathoe:::txtsize
-Uuawniienthtoi:::txtsize --> OhrtodsaennooBar:::txtsize
+Cisheerai:::txtsize --> MolooooariSteriea:::txtsize
+MolooooariSteriea:::txtsize --> Teiiosorhrs:::txtsize
+Teiiosorhrs:::txtsize --> PbiehgAcus:::txtsize
+Teiiosorhrs:::txtsize --> Pbsgtpoietr:::txtsize
+MolooooariSteriea:::txtsize --> Pbsgtpoietr:::txtsize
+Cisheerai:::txtsize --> PbiehgAcus:::txtsize
+PbiehgAcus:::txtsize --> Accecooorad:::txtsize
+Accecooorad:::txtsize --> Tiebgnnoby:::txtsize
+Accecooorad:::txtsize --> Pbsgtpoietr:::txtsize
+PbiehgAcus:::txtsize --> Pbsgtpoietr:::txtsize
 
-Drtaqqnodei@{ shape: win-pane, label: "_Published Dec 18, 2025, 01:46 AM_
-Denmark wants to ban burqas, niqabs in schools and universities" }
-Airepssbsl@{ shape: win-pane, label: "_Published Dec 11, 2025, 09:15 PM_
-Austrian parliament approves headscarf ban in schools" }
-Aiveeawldsbsl@{ shape: win-pane, label: "_Published Dec 09, 2025, 11:12 PM_
-Austrian government presses ahead with planned headscarf ban in schools" }
-AiloztMmsacrsean@{ shape: win-pane, label: "_Published Jan 11, 2025, 02:02 PM_
-Activist malala yousafzai attends muslim girls’ education conference snubbed by taliban" }
-Nwulhineadtyncimi@{ shape: win-pane, label: "_Published Nov 28, 2025, 08:00 PM_
-New laws, tudung policy shift cited in s’pore’s update under un treaty against racial discrimination" }
+Ttsgidsociu@{ shape: win-pane, label: "_Published Dec 18, 2025, 07:00 AM_
+Trump to vow ‘stronger’ us in tv address as economic worries mount" }
+TsoastneRrols@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:14 AM_
+Trump’s approval rating slips to 39%, economy weighs, reuters/ipsos poll finds" }
+Hthnndwrust@{ shape: win-pane, label: "_Published Nov 14, 2025, 08:52 AM_
+‘hope it won’t happen again’: us federal workers return post-shutdown" }
+Tsdootveuns@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:48 AM_
+Trump signs deal to end longest us government shutdown in history" }
+Annoalsvuni@{ shape: win-pane, label: "_Published Nov 10, 2025, 10:23 PM_
+Airlines cancel more than 1,500 us flights on nov 10 as shutdown persists" }
+Thcirlhffesiblr@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:34 AM_
+Trump has ‘alcoholic’s personality’, chief of staff susie wiles says in bombshell interview" }
+Tapsiecofieelers@{ shape: win-pane, label: "_Published Dec 17, 2025, 06:45 AM_
+Trump and top aides publicly defend chief of staff susie wiles after explosive interviews" }
+TsoastneRrols@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:14 AM_
+Trump’s approval rating slips to 39%, economy weighs, reuters/ipsos poll finds" }
+ThuMnlmenekmae@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:15 PM_
+‘turn the volume up,’ mamdani tells trump after winning new york city mayoral race" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
+Cuomo to stay in new york mayoral race despite losing democratic primary" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
+Cuomo to stay in new york mayoral race despite losing democratic primary" }
 
-Drtaqqnodei:::txtsize --> Airepssbsl:::txtsize
-Airepssbsl:::txtsize --> Aiveeawldsbsl:::txtsize
-Aiveeawldsbsl:::txtsize --> AiloztMmsacrsean:::txtsize
-Aiveeawldsbsl:::txtsize --> Nwulhineadtyncimi:::txtsize
+Ttsgidsociu:::txtsize --> TsoastneRrols:::txtsize
+TsoastneRrols:::txtsize --> Hthnndwrust:::txtsize
+Hthnndwrust:::txtsize --> Tsdootveuns:::txtsize
+Hthnndwrust:::txtsize --> Annoalsvuni:::txtsize
+TsoastneRrols:::txtsize --> Thcirlhffesiblr:::txtsize
+Thcirlhffesiblr:::txtsize --> Tapsiecofieelers:::txtsize
+Thcirlhffesiblr:::txtsize --> TsoastneRrols:::txtsize
+Ttsgidsociu:::txtsize --> ThuMnlmenekmae:::txtsize
+ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
+Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
+Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
+ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
+Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
+Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
 
 ```
-<i>Last updated: 2025-12-18 04:00:38.210207 (GMT+8)</i>
+<i>Last updated: 2025-12-18 08:01:05.542092 (GMT+8)</i>
 <!-- END -->
