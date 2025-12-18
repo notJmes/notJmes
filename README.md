@@ -16,96 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Etriraap@{ shape: win-pane, label: "_Published Dec 18, 2025, 03:05 PM_
-Eu must reform or risk irrelevance, says report" }
-CuUveeectt@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:36 AM_
-China urges us to avoid ‘red lines’ after reaching trade truce" }
-Anmubsirooe@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:05 PM_
-‘amazing’ trump-xi summit brings tactical truce, not major reset" }
-Tslnihnltaas@{ shape: win-pane, label: "_Published Oct 30, 2025, 01:05 PM_
-Trump says planning to visit china in april, to cut fentanyl tariffs to 10%" }
-Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
-China tightens rare earth export controls and targets defence, semiconductor users" }
-Wiacriswmi@{ shape: win-pane, label: "_Published Oct 31, 2025, 10:21 PM_
-Why taiwan’s absence in trump-xi talks was a welcome relief" }
-TnsUnensdumnp@{ shape: win-pane, label: "_Published Oct 28, 2025, 10:20 AM_
-Taiwan plays down us abandonment concerns ahead of trump-xi meeting at apec" }
-CuUveeectt@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:36 AM_
-China urges us to avoid ‘red lines’ after reaching trade truce" }
-Anmubsirooe@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:05 PM_
-‘amazing’ trump-xi summit brings tactical truce, not major reset" }
-Tslnihnltaas@{ shape: win-pane, label: "_Published Oct 30, 2025, 01:05 PM_
-Trump says planning to visit china in april, to cut fentanyl tariffs to 10%" }
-Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
-China tightens rare earth export controls and targets defence, semiconductor users" }
-Wiacriswmi@{ shape: win-pane, label: "_Published Oct 31, 2025, 10:21 PM_
-Why taiwan’s absence in trump-xi talks was a welcome relief" }
-TnsUnensdumnp@{ shape: win-pane, label: "_Published Oct 28, 2025, 10:20 AM_
-Taiwan plays down us abandonment concerns ahead of trump-xi meeting at apec" }
+Uctrdcinlo@{ shape: win-pane, label: "_Published Dec 18, 2025, 07:22 PM_
+Uk teachers to be trained to tackle misogyny in classrooms" }
+Nisseckpti@{ shape: win-pane, label: "_Published Mar 24, 2025, 11:30 AM_
+Netflix hit series adolescence stokes uk parents’ anxiety" }
+Bwyhorsadea@{ shape: win-pane, label: "_Published Mar 12, 2025, 01:00 PM_
+Binge-worthy: the white lotus 3 brings sex, death and protein shakes" }
+Hsshosaiaemad@{ shape: win-pane, label: "_Published Jan 29, 2025, 04:20 PM_
+Hit tv series the white lotus is already driving a travel boom in thailand" }
+Ffhorkttlram@{ shape: win-pane, label: "_Published Dec 30, 2022, 05:06 PM_
+Fans of the white lotus are booking stays at hotels where it was filmed" }
+FimlWMioeaEBp@{ shape: win-pane, label: "_Published Mar 13, 2025, 07:36 PM_
+Film picks: i’m still here, women make film showcase, the day the earth blew up" }
+Fieonmdchsk@{ shape: win-pane, label: "_Published Mar 06, 2025, 12:00 PM_
+Film picks: ne zha 2, hong kong film awards special showcase, mickey 17" }
+Degwisoywdc@{ shape: win-pane, label: "_Published Mar 31, 2025, 05:00 AM_
+‘do something-itis’ won’t fix crisis among boys shown in adolescence" }
+Nioeeetneese@{ shape: win-pane, label: "_Published Mar 29, 2025, 12:00 PM_
+Netflix’s adolescence: deciphering the language of the manosphere" }
+Nisseckpti@{ shape: win-pane, label: "_Published Mar 24, 2025, 11:30 AM_
+Netflix hit series adolescence stokes uk parents’ anxiety" }
+Iuiledmoeoenoy@{ shape: win-pane, label: "_Published Feb 16, 2025, 05:00 AM_
+Involuntarily celibate: inside the minds of ‘incels’ who blame women and society" }
 
-Etriraap:::txtsize --> CuUveeectt:::txtsize
-CuUveeectt:::txtsize --> Anmubsirooe:::txtsize
-Anmubsirooe:::txtsize --> Tslnihnltaas:::txtsize
-Anmubsirooe:::txtsize --> Ctertonsasnmdrs:::txtsize
-CuUveeectt:::txtsize --> Wiacriswmi:::txtsize
-Wiacriswmi:::txtsize --> TnsUnensdumnp:::txtsize
-Etriraap:::txtsize --> CuUveeectt:::txtsize
-CuUveeectt:::txtsize --> Anmubsirooe:::txtsize
-Anmubsirooe:::txtsize --> Tslnihnltaas:::txtsize
-Anmubsirooe:::txtsize --> Ctertonsasnmdrs:::txtsize
-CuUveeectt:::txtsize --> Wiacriswmi:::txtsize
-Wiacriswmi:::txtsize --> TnsUnensdumnp:::txtsize
+Uctrdcinlo:::txtsize --> Nisseckpti:::txtsize
+Nisseckpti:::txtsize --> Bwyhorsadea:::txtsize
+Bwyhorsadea:::txtsize --> Hsshosaiaemad:::txtsize
+Bwyhorsadea:::txtsize --> Ffhorkttlram:::txtsize
+Nisseckpti:::txtsize --> FimlWMioeaEBp:::txtsize
+FimlWMioeaEBp:::txtsize --> Fieonmdchsk:::txtsize
+Uctrdcinlo:::txtsize --> Degwisoywdc:::txtsize
+Degwisoywdc:::txtsize --> Nioeeetneese:::txtsize
+Nioeeetneese:::txtsize --> Nisseckpti:::txtsize
+Nioeeetneese:::txtsize --> Iuiledmoeoenoy:::txtsize
 
-UshaniMWH@{ shape: win-pane, label: "_Published Dec 18, 2025, 02:55 PM_
-Us, russia to hold talks on ukraine in miami: white house" }
+Msemhtisoeolreepy@{ shape: win-pane, label: "_Published Dec 18, 2025, 06:25 PM_
+Malaysia’s pet boom clashes with religious taboos as selangor mall reverses pet-friendly policy" }
+Dpcslakagsla@{ shape: win-pane, label: "_Published Oct 27, 2025, 03:29 PM_
+Dognapping claims in malaysia spark fear and anger on social media" }
+Knithatis@{ shape: win-pane, label: "_Published May 10, 2024, 10:05 AM_
+Korean dog finds its way home 41 days after going missing" }
+Taeduadtsnes@{ shape: win-pane, label: "_Published Dec 03, 2023, 06:20 PM_
+Tears as owner and dog reunite after dramatic rescue on busy expressway" }
+Sowcdyleiohrehe@{ shape: win-pane, label: "_Published Sep 13, 2023, 09:10 PM_
+Smrt worker who escorted lost 10-year-old home, reunited dog with owner says empathy is key" }
+DSsdnriyan@{ shape: win-pane, label: "_Published Sep 22, 2025, 09:28 PM_
+Duyun, sabah’s lone drug sniffer dog, finally gets a partner" }
+Csticlpresrenoss@{ shape: win-pane, label: "_Published Jan 26, 2025, 05:00 PM_
+China’s first corgi police dog loses ‘performance bonus’ after it sleeps on the job, pees in basin" }
+Csticds@{ shape: win-pane, label: "_Published Mar 26, 2024, 02:28 PM_
+China’s first corgi police dog debuts" }
+TnctlstgsaJr@{ shape: win-pane, label: "_Published Apr 22, 2024, 12:45 PM_
+Taiwan police set to deploy its first indigenous dog, called jaguar" }
+Pthpetrort@{ shape: win-pane, label: "_Published Sep 30, 2023, 05:44 PM_
+Paw patrol: philippine security guards adopt stray cats" }
+Tsetsaoapnufu@{ shape: win-pane, label: "_Published Feb 19, 2023, 11:31 PM_
+Turkish firefighter rescues and adopts cat trapped under rubble for 129 hours" }
+Hmorttsgabaeio@{ shape: win-pane, label: "_Published Dec 12, 2022, 09:50 AM_
+He’s coming home: stray qatar cat heads to england after being adopted by city duo" }
+
+Msemhtisoeolreepy:::txtsize --> Dpcslakagsla:::txtsize
+Dpcslakagsla:::txtsize --> Knithatis:::txtsize
+Knithatis:::txtsize --> Taeduadtsnes:::txtsize
+Knithatis:::txtsize --> Sowcdyleiohrehe:::txtsize
+Msemhtisoeolreepy:::txtsize --> DSsdnriyan:::txtsize
+DSsdnriyan:::txtsize --> Csticlpresrenoss:::txtsize
+Csticlpresrenoss:::txtsize --> Csticds:::txtsize
+Csticlpresrenoss:::txtsize --> TnctlstgsaJr:::txtsize
+DSsdnriyan:::txtsize --> Pthpetrort:::txtsize
+Pthpetrort:::txtsize --> Tsetsaoapnufu:::txtsize
+Pthpetrort:::txtsize --> Hmorttsgabaeio:::txtsize
+
+Sriptifrtiioi@{ shape: win-pane, label: "_Published Dec 18, 2025, 06:00 PM_
+Senior ukraine diplomat in beijing for rare meeting with chinese officials" }
+Unfdepssmaanief@{ shape: win-pane, label: "_Published May 26, 2025, 06:58 PM_
+Ukraine confirmed chinese supplies to 20 russian military plants, intelligence chief says" }
+UnlynaCipgts@{ shape: win-pane, label: "_Published Apr 18, 2025, 12:12 AM_
+Ukraine’s zelensky has ‘information’ china is supplying arms to russia" }
+Zsynaaggss@{ shape: win-pane, label: "_Published Apr 10, 2025, 05:10 AM_
+Zelensky says 155 chinese nationals fighting on russia’s side" }
+Cuceawntitttl@{ shape: win-pane, label: "_Published Apr 08, 2025, 09:13 PM_
+China urges citizens to avoid war zones after kyiv captures two nationals" }
+Tsuaelyyinetos@{ shape: win-pane, label: "_Published May 26, 2025, 06:53 AM_
+Trump says putin has ‘gone absolutely crazy’, considering more sanctions on russia" }
+kdsusifnoi@{ shape: win-pane, label: "_Published May 25, 2025, 11:43 AM_
+12 killed as russia pummels ukraine in fresh night of strikes" }
+Rakiesgarep@{ shape: win-pane, label: "_Published May 24, 2025, 06:10 PM_
+Russia strikes kyiv after first stage of major prisoner swop" }
+Uwhausguaa@{ shape: win-pane, label: "_Published Dec 16, 2025, 03:34 AM_
+Uk’s new spy chief warns putin is ‘dragging out’ ukraine talks" }
+EeapsodiarZsiagwS@{ shape: win-pane, label: "_Published Dec 16, 2025, 03:54 AM_
+European leaders propose europe-led ukraine peace force as zelensky hails ‘real progress’ with us" }
 UnckencatfteEe@{ shape: win-pane, label: "_Published Dec 15, 2025, 08:19 PM_
 Ukraine peace talks stretch into second day at start of pivotal week for europe" }
-UnpOackeedsd@{ shape: win-pane, label: "_Published Dec 14, 2025, 07:24 PM_
-Ukraine drops nato goal as peace talks in berlin extend into second day" }
-Zsyamroohb@{ shape: win-pane, label: "_Published Dec 22, 2024, 09:14 PM_
-Zelensky says ukraine’s membership of nato is ‘achievable’" }
-Psuwalrsailiow@{ shape: win-pane, label: "_Published Dec 04, 2025, 04:55 PM_
-Putin says russia will take all of ukraine’s donbas region militarily or otherwise" }
-TsdidEe@{ shape: win-pane, label: "_Published Dec 10, 2025, 06:40 AM_
-Trump slams ‘decaying’ and ‘weak’ europe" }
-EebeddnymM@{ shape: win-pane, label: "_Published Dec 09, 2025, 11:42 PM_
-Europe must become less dependent on us, says germany’s merz" }
-TplibdeaauSe@{ shape: win-pane, label: "_Published Dec 09, 2025, 05:00 AM_
-The imperialist vision behind the new us national security strategy" }
+PdikerutirtoNrUis@{ shape: win-pane, label: "_Published Dec 16, 2025, 01:29 AM_
+Peace deal gives ukraine security guarantees similar to article 5 of the nato treaty, us official says" }
+Ranaomedrhuaiuv@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
+Russia says no ukraine compromise reached after five-hour putin talks with trump envoys" }
+Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
+Trump’s 28-point ukraine plan" }
+Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
+Us hails progress in ukraine peace talks but security questions unresolved" }
 
-UshaniMWH:::txtsize --> UnckencatfteEe:::txtsize
-UnckencatfteEe:::txtsize --> UnpOackeedsd:::txtsize
-UnpOackeedsd:::txtsize --> Zsyamroohb:::txtsize
-UnpOackeedsd:::txtsize --> Psuwalrsailiow:::txtsize
-UnckencatfteEe:::txtsize --> TsdidEe:::txtsize
-TsdidEe:::txtsize --> EebeddnymM:::txtsize
-TsdidEe:::txtsize --> TplibdeaauSe:::txtsize
-
-CvsorzaSkueid@{ shape: win-pane, label: "_Published Dec 18, 2025, 02:25 PM_
-China voices support for venezuela amid us blockade, but makes no aid pledges" }
-Twruedett@{ shape: win-pane, label: "_Published Dec 18, 2025, 12:58 PM_
-Takeaways from trump’s year-end address to the nation" }
-IraafguwnblBiroo@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:54 AM_
-‘i inherited a mess, and i’m fixing it’: trump vows economic boom, blames biden in address to nation" }
-Ttsgidsociu@{ shape: win-pane, label: "_Published Dec 18, 2025, 07:00 AM_
-Trump to vow ‘stronger’ us in tv address as economic worries mount" }
-TaitismonAcfzi@{ shape: win-pane, label: "_Published Dec 18, 2025, 09:55 AM_
-Trump administration aims to strip more foreign-born americans of citizenship" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
-Us military says it carried out strikes on three vessels in eastern pacific" }
-Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
-Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
-
-CvsorzaSkueid:::txtsize --> Twruedett:::txtsize
-Twruedett:::txtsize --> IraafguwnblBiroo:::txtsize
-IraafguwnblBiroo:::txtsize --> Ttsgidsociu:::txtsize
-IraafguwnblBiroo:::txtsize --> TaitismonAcfzi:::txtsize
-Twruedett:::txtsize --> Toskftdasitgz:::txtsize
-Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
-Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
+Sriptifrtiioi:::txtsize --> Unfdepssmaanief:::txtsize
+Unfdepssmaanief:::txtsize --> UnlynaCipgts:::txtsize
+UnlynaCipgts:::txtsize --> Zsynaaggss:::txtsize
+UnlynaCipgts:::txtsize --> Cuceawntitttl:::txtsize
+Unfdepssmaanief:::txtsize --> Tsuaelyyinetos:::txtsize
+Tsuaelyyinetos:::txtsize --> kdsusifnoi:::txtsize
+Tsuaelyyinetos:::txtsize --> Rakiesgarep:::txtsize
+Sriptifrtiioi:::txtsize --> Uwhausguaa:::txtsize
+Uwhausguaa:::txtsize --> EeapsodiarZsiagwS:::txtsize
+EeapsodiarZsiagwS:::txtsize --> UnckencatfteEe:::txtsize
+EeapsodiarZsiagwS:::txtsize --> PdikerutirtoNrUis:::txtsize
+Uwhausguaa:::txtsize --> Ranaomedrhuaiuv:::txtsize
+Ranaomedrhuaiuv:::txtsize --> Tstia:::txtsize
+Ranaomedrhuaiuv:::txtsize --> Ulgiaeauuqinl:::txtsize
 
 ```
-<i>Last updated: 2025-12-18 16:01:02.296960 (GMT+8)</i>
+<i>Last updated: 2025-12-18 20:00:32.365290 (GMT+8)</i>
 <!-- END -->
