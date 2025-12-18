@@ -16,114 +16,96 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tvcimeedst@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:54 AM_
-Trump vows economic boom, blames biden in address to nation" }
+Etriraap@{ shape: win-pane, label: "_Published Dec 18, 2025, 03:05 PM_
+Eu must reform or risk irrelevance, says report" }
+CuUveeectt@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:36 AM_
+China urges us to avoid ‘red lines’ after reaching trade truce" }
+Anmubsirooe@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:05 PM_
+‘amazing’ trump-xi summit brings tactical truce, not major reset" }
+Tslnihnltaas@{ shape: win-pane, label: "_Published Oct 30, 2025, 01:05 PM_
+Trump says planning to visit china in april, to cut fentanyl tariffs to 10%" }
+Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
+China tightens rare earth export controls and targets defence, semiconductor users" }
+Wiacriswmi@{ shape: win-pane, label: "_Published Oct 31, 2025, 10:21 PM_
+Why taiwan’s absence in trump-xi talks was a welcome relief" }
+TnsUnensdumnp@{ shape: win-pane, label: "_Published Oct 28, 2025, 10:20 AM_
+Taiwan plays down us abandonment concerns ahead of trump-xi meeting at apec" }
+CuUveeectt@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:36 AM_
+China urges us to avoid ‘red lines’ after reaching trade truce" }
+Anmubsirooe@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:05 PM_
+‘amazing’ trump-xi summit brings tactical truce, not major reset" }
+Tslnihnltaas@{ shape: win-pane, label: "_Published Oct 30, 2025, 01:05 PM_
+Trump says planning to visit china in april, to cut fentanyl tariffs to 10%" }
+Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
+China tightens rare earth export controls and targets defence, semiconductor users" }
+Wiacriswmi@{ shape: win-pane, label: "_Published Oct 31, 2025, 10:21 PM_
+Why taiwan’s absence in trump-xi talks was a welcome relief" }
+TnsUnensdumnp@{ shape: win-pane, label: "_Published Oct 28, 2025, 10:20 AM_
+Taiwan plays down us abandonment concerns ahead of trump-xi meeting at apec" }
+
+Etriraap:::txtsize --> CuUveeectt:::txtsize
+CuUveeectt:::txtsize --> Anmubsirooe:::txtsize
+Anmubsirooe:::txtsize --> Tslnihnltaas:::txtsize
+Anmubsirooe:::txtsize --> Ctertonsasnmdrs:::txtsize
+CuUveeectt:::txtsize --> Wiacriswmi:::txtsize
+Wiacriswmi:::txtsize --> TnsUnensdumnp:::txtsize
+Etriraap:::txtsize --> CuUveeectt:::txtsize
+CuUveeectt:::txtsize --> Anmubsirooe:::txtsize
+Anmubsirooe:::txtsize --> Tslnihnltaas:::txtsize
+Anmubsirooe:::txtsize --> Ctertonsasnmdrs:::txtsize
+CuUveeectt:::txtsize --> Wiacriswmi:::txtsize
+Wiacriswmi:::txtsize --> TnsUnensdumnp:::txtsize
+
+UshaniMWH@{ shape: win-pane, label: "_Published Dec 18, 2025, 02:55 PM_
+Us, russia to hold talks on ukraine in miami: white house" }
+UnckencatfteEe@{ shape: win-pane, label: "_Published Dec 15, 2025, 08:19 PM_
+Ukraine peace talks stretch into second day at start of pivotal week for europe" }
+UnpOackeedsd@{ shape: win-pane, label: "_Published Dec 14, 2025, 07:24 PM_
+Ukraine drops nato goal as peace talks in berlin extend into second day" }
+Zsyamroohb@{ shape: win-pane, label: "_Published Dec 22, 2024, 09:14 PM_
+Zelensky says ukraine’s membership of nato is ‘achievable’" }
+Psuwalrsailiow@{ shape: win-pane, label: "_Published Dec 04, 2025, 04:55 PM_
+Putin says russia will take all of ukraine’s donbas region militarily or otherwise" }
+TsdidEe@{ shape: win-pane, label: "_Published Dec 10, 2025, 06:40 AM_
+Trump slams ‘decaying’ and ‘weak’ europe" }
+EebeddnymM@{ shape: win-pane, label: "_Published Dec 09, 2025, 11:42 PM_
+Europe must become less dependent on us, says germany’s merz" }
+TplibdeaauSe@{ shape: win-pane, label: "_Published Dec 09, 2025, 05:00 AM_
+The imperialist vision behind the new us national security strategy" }
+
+UshaniMWH:::txtsize --> UnckencatfteEe:::txtsize
+UnckencatfteEe:::txtsize --> UnpOackeedsd:::txtsize
+UnpOackeedsd:::txtsize --> Zsyamroohb:::txtsize
+UnpOackeedsd:::txtsize --> Psuwalrsailiow:::txtsize
+UnckencatfteEe:::txtsize --> TsdidEe:::txtsize
+TsdidEe:::txtsize --> EebeddnymM:::txtsize
+TsdidEe:::txtsize --> TplibdeaauSe:::txtsize
+
+CvsorzaSkueid@{ shape: win-pane, label: "_Published Dec 18, 2025, 02:25 PM_
+China voices support for venezuela amid us blockade, but makes no aid pledges" }
+Twruedett@{ shape: win-pane, label: "_Published Dec 18, 2025, 12:58 PM_
+Takeaways from trump’s year-end address to the nation" }
+IraafguwnblBiroo@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:54 AM_
+‘i inherited a mess, and i’m fixing it’: trump vows economic boom, blames biden in address to nation" }
 Ttsgidsociu@{ shape: win-pane, label: "_Published Dec 18, 2025, 07:00 AM_
 Trump to vow ‘stronger’ us in tv address as economic worries mount" }
-TsoastneRrols@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:14 AM_
-Trump’s approval rating slips to 39%, economy weighs, reuters/ipsos poll finds" }
-Hthnndwrust@{ shape: win-pane, label: "_Published Nov 14, 2025, 08:52 AM_
-‘hope it won’t happen again’: us federal workers return post-shutdown" }
-Thcirlhffesiblr@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:34 AM_
-Trump has ‘alcoholic’s personality’, chief of staff susie wiles says in bombshell interview" }
-ThuMnlmenekmae@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:15 PM_
-‘turn the volume up,’ mamdani tells trump after winning new york city mayoral race" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
 TaitismonAcfzi@{ shape: win-pane, label: "_Published Dec 18, 2025, 09:55 AM_
 Trump administration aims to strip more foreign-born americans of citizenship" }
-Taeoicniuaat@{ shape: win-pane, label: "_Published Dec 17, 2025, 05:35 AM_
-Trump adds seven countries, including syria, to full travel ban list" }
-Ttlncifasem@{ shape: win-pane, label: "_Published Jun 09, 2025, 02:45 PM_
-Trump travel ban in effect, citizens from 12 nations barred from us" }
-Ueaaoansletry@{ shape: win-pane, label: "_Published Dec 05, 2025, 10:11 AM_
-Us widens travel ban to more than 30 countries, homeland security secretary says" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
+Us military says it carried out strikes on three vessels in eastern pacific" }
+Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
+Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
 
-Tvcimeedst:::txtsize --> Ttsgidsociu:::txtsize
-Ttsgidsociu:::txtsize --> TsoastneRrols:::txtsize
-TsoastneRrols:::txtsize --> Hthnndwrust:::txtsize
-TsoastneRrols:::txtsize --> Thcirlhffesiblr:::txtsize
-Ttsgidsociu:::txtsize --> ThuMnlmenekmae:::txtsize
-ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
-ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
-Tvcimeedst:::txtsize --> TaitismonAcfzi:::txtsize
-TaitismonAcfzi:::txtsize --> Taeoicniuaat:::txtsize
-Taeoicniuaat:::txtsize --> Ttlncifasem:::txtsize
-Taeoicniuaat:::txtsize --> Ueaaoansletry:::txtsize
-
-TaitismonAcfzi@{ shape: win-pane, label: "_Published Dec 18, 2025, 09:55 AM_
-Trump administration aims to strip more foreign-born americans of citizenship" }
-Taeoicniuaat@{ shape: win-pane, label: "_Published Dec 17, 2025, 05:35 AM_
-Trump adds seven countries, including syria, to full travel ban list" }
-Ttlncifasem@{ shape: win-pane, label: "_Published Jun 09, 2025, 02:45 PM_
-Trump travel ban in effect, citizens from 12 nations barred from us" }
-Tbinmtidyrtlt@{ shape: win-pane, label: "_Published Jun 05, 2025, 07:46 AM_
-Trump bans citizens from 12 countries, including myanmar, from travelling to us" }
-MtCaoteslu@{ shape: win-pane, label: "_Published Jun 02, 2025, 06:15 AM_
-Man attacks colorado crowd with firebombs, 8 people injured" }
-Ueaaoansletry@{ shape: win-pane, label: "_Published Dec 05, 2025, 10:11 AM_
-Us widens travel ban to more than 30 countries, homeland security secretary says" }
-TaitrectfpnHa@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:25 AM_
-Trump administration orders enhanced vetting for applicants of h-1b visa" }
-Uslgolirnpoi@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:35 AM_
-Us pauses all immigration applications from 19 non-european countries" }
-
-TaitismonAcfzi:::txtsize --> Taeoicniuaat:::txtsize
-Taeoicniuaat:::txtsize --> Ttlncifasem:::txtsize
-Ttlncifasem:::txtsize --> Tbinmtidyrtlt:::txtsize
-Ttlncifasem:::txtsize --> MtCaoteslu:::txtsize
-Taeoicniuaat:::txtsize --> Ueaaoansletry:::txtsize
-Ueaaoansletry:::txtsize --> TaitrectfpnHa:::txtsize
-Ueaaoansletry:::txtsize --> Uslgolirnpoi:::txtsize
-
-Hwaicuart@{ shape: win-pane, label: "_Published Dec 18, 2025, 09:50 AM_
-How new social media checks would change travel to us" }
-UnsAisuvoogeeceiy@{ shape: win-pane, label: "_Published Dec 10, 2025, 05:50 PM_
-Us plans to ask esta applicants, including visitors from singapore, for 5-year social media history" }
-Ueaaoansletry@{ shape: win-pane, label: "_Published Dec 05, 2025, 10:11 AM_
-Us widens travel ban to more than 30 countries, homeland security secretary says" }
-TaitrectfpnHa@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:25 AM_
-Trump administration orders enhanced vetting for applicants of h-1b visa" }
-Uslgolirnpoi@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:35 AM_
-Us pauses all immigration applications from 19 non-european countries" }
-Anlnintldt@{ shape: win-pane, label: "_Published Dec 03, 2025, 07:30 AM_
-Afghan man pleads not guilty in us national guard shooting" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-AeiGakcmrgmtairgo@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:44 AM_
-Accused national guard attacker faces us murder charge; trump wants to halt ‘third world’ migration" }
-Taeoicniuaat@{ shape: win-pane, label: "_Published Dec 17, 2025, 05:35 AM_
-Trump adds seven countries, including syria, to full travel ban list" }
-Ttlncifasem@{ shape: win-pane, label: "_Published Jun 09, 2025, 02:45 PM_
-Trump travel ban in effect, citizens from 12 nations barred from us" }
-Tbinmtidyrtlt@{ shape: win-pane, label: "_Published Jun 05, 2025, 07:46 AM_
-Trump bans citizens from 12 countries, including myanmar, from travelling to us" }
-MtCaoteslu@{ shape: win-pane, label: "_Published Jun 02, 2025, 06:15 AM_
-Man attacks colorado crowd with firebombs, 8 people injured" }
-Ueaaoansletry@{ shape: win-pane, label: "_Published Dec 05, 2025, 10:11 AM_
-Us widens travel ban to more than 30 countries, homeland security secretary says" }
-TaitrectfpnHa@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:25 AM_
-Trump administration orders enhanced vetting for applicants of h-1b visa" }
-Uslgolirnpoi@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:35 AM_
-Us pauses all immigration applications from 19 non-european countries" }
-
-Hwaicuart:::txtsize --> UnsAisuvoogeeceiy:::txtsize
-UnsAisuvoogeeceiy:::txtsize --> Ueaaoansletry:::txtsize
-Ueaaoansletry:::txtsize --> TaitrectfpnHa:::txtsize
-Ueaaoansletry:::txtsize --> Uslgolirnpoi:::txtsize
-UnsAisuvoogeeceiy:::txtsize --> Anlnintldt:::txtsize
-Anlnintldt:::txtsize --> Nnalsiydttteiu:::txtsize
-Anlnintldt:::txtsize --> AeiGakcmrgmtairgo:::txtsize
-Hwaicuart:::txtsize --> Taeoicniuaat:::txtsize
-Taeoicniuaat:::txtsize --> Ttlncifasem:::txtsize
-Ttlncifasem:::txtsize --> Tbinmtidyrtlt:::txtsize
-Ttlncifasem:::txtsize --> MtCaoteslu:::txtsize
-Taeoicniuaat:::txtsize --> Ueaaoansletry:::txtsize
-Ueaaoansletry:::txtsize --> TaitrectfpnHa:::txtsize
-Ueaaoansletry:::txtsize --> Uslgolirnpoi:::txtsize
+CvsorzaSkueid:::txtsize --> Twruedett:::txtsize
+Twruedett:::txtsize --> IraafguwnblBiroo:::txtsize
+IraafguwnblBiroo:::txtsize --> Ttsgidsociu:::txtsize
+IraafguwnblBiroo:::txtsize --> TaitismonAcfzi:::txtsize
+Twruedett:::txtsize --> Toskftdasitgz:::txtsize
+Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
+Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
 
 ```
-<i>Last updated: 2025-12-18 12:00:33.554999 (GMT+8)</i>
+<i>Last updated: 2025-12-18 16:01:02.296960 (GMT+8)</i>
 <!-- END -->
