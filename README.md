@@ -16,123 +16,141 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Uctrdcinlo@{ shape: win-pane, label: "_Published Dec 18, 2025, 07:22 PM_
-Uk teachers to be trained to tackle misogyny in classrooms" }
-Nisseckpti@{ shape: win-pane, label: "_Published Mar 24, 2025, 11:30 AM_
-Netflix hit series adolescence stokes uk parents’ anxiety" }
-Bwyhorsadea@{ shape: win-pane, label: "_Published Mar 12, 2025, 01:00 PM_
-Binge-worthy: the white lotus 3 brings sex, death and protein shakes" }
-Hsshosaiaemad@{ shape: win-pane, label: "_Published Jan 29, 2025, 04:20 PM_
-Hit tv series the white lotus is already driving a travel boom in thailand" }
-Ffhorkttlram@{ shape: win-pane, label: "_Published Dec 30, 2022, 05:06 PM_
-Fans of the white lotus are booking stays at hotels where it was filmed" }
-FimlWMioeaEBp@{ shape: win-pane, label: "_Published Mar 13, 2025, 07:36 PM_
-Film picks: i’m still here, women make film showcase, the day the earth blew up" }
-Fieonmdchsk@{ shape: win-pane, label: "_Published Mar 06, 2025, 12:00 PM_
-Film picks: ne zha 2, hong kong film awards special showcase, mickey 17" }
-Degwisoywdc@{ shape: win-pane, label: "_Published Mar 31, 2025, 05:00 AM_
-‘do something-itis’ won’t fix crisis among boys shown in adolescence" }
-Nioeeetneese@{ shape: win-pane, label: "_Published Mar 29, 2025, 12:00 PM_
-Netflix’s adolescence: deciphering the language of the manosphere" }
-Nisseckpti@{ shape: win-pane, label: "_Published Mar 24, 2025, 11:30 AM_
-Netflix hit series adolescence stokes uk parents’ anxiety" }
-Iuiledmoeoenoy@{ shape: win-pane, label: "_Published Feb 16, 2025, 05:00 AM_
-Involuntarily celibate: inside the minds of ‘incels’ who blame women and society" }
+Gniebeudtrrt@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:20 PM_
+Germany, spain urge eu to back mercosur trade pact, but france resists" }
+FremhpentvMsaa@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:56 PM_
+Farmers in belgium clash with police during protest over eu-mercosur trade deal" }
+Ereeweuccrlpi@{ shape: win-pane, label: "_Published Sep 03, 2025, 12:19 PM_
+Eu to propose trade deal with mercosur bloc, in face of france-led opposition" }
+EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
+Eu reaches long-sought mercosur deal over macron’s objections" }
+EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
+Eu reaches long-sought mercosur deal over macron’s objections" }
+Gniebeudtrrt@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:20 PM_
+Germany, spain urge eu to back mercosur trade pact, but france resists" }
+FremhpentvMsaa@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:56 PM_
+Farmers in belgium clash with police during protest over eu-mercosur trade deal" }
+EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
+Eu reaches long-sought mercosur deal over macron’s objections" }
+EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
+Eu reaches long-sought mercosur deal over macron’s objections" }
+Wulearhma@{ shape: win-pane, label: "_Published Nov 07, 2024, 08:34 AM_
+Why trump’s plan to escalate tariffs has so many haters" }
+TocalEoaipvngs@{ shape: win-pane, label: "_Published Nov 07, 2024, 12:05 AM_
+Trump on track for a triple win: electoral landslide, popular vote and congress sweep" }
+Spiffphrskawdeya@{ shape: win-pane, label: "_Published Nov 02, 2024, 05:00 AM_
+Singapore will suffer if trump’s higher tariffs shrink global growth and trade, analysts say" }
+Fgferytter@{ shape: win-pane, label: "_Published Nov 06, 2024, 10:27 PM_
+Facing tariff threat, europe eyes options to appease trump" }
+TsbchioUdetne@{ shape: win-pane, label: "_Published Nov 06, 2024, 07:37 AM_
+Trump set to be elected 47th president of the united states in stunning comeback" }
 
-Uctrdcinlo:::txtsize --> Nisseckpti:::txtsize
-Nisseckpti:::txtsize --> Bwyhorsadea:::txtsize
-Bwyhorsadea:::txtsize --> Hsshosaiaemad:::txtsize
-Bwyhorsadea:::txtsize --> Ffhorkttlram:::txtsize
-Nisseckpti:::txtsize --> FimlWMioeaEBp:::txtsize
-FimlWMioeaEBp:::txtsize --> Fieonmdchsk:::txtsize
-Uctrdcinlo:::txtsize --> Degwisoywdc:::txtsize
-Degwisoywdc:::txtsize --> Nioeeetneese:::txtsize
-Nioeeetneese:::txtsize --> Nisseckpti:::txtsize
-Nioeeetneese:::txtsize --> Iuiledmoeoenoy:::txtsize
+Gniebeudtrrt:::txtsize --> FremhpentvMsaa:::txtsize
+FremhpentvMsaa:::txtsize --> Ereeweuccrlpi:::txtsize
+Ereeweuccrlpi:::txtsize --> EcoueulMnen:::txtsize
+Ereeweuccrlpi:::txtsize --> EcoueulMnen:::txtsize
+FremhpentvMsaa:::txtsize --> Gniebeudtrrt:::txtsize
+Gniebeudtrrt:::txtsize --> FremhpentvMsaa:::txtsize
+Gniebeudtrrt:::txtsize --> EcoueulMnen:::txtsize
+Gniebeudtrrt:::txtsize --> EcoueulMnen:::txtsize
+EcoueulMnen:::txtsize --> Wulearhma:::txtsize
+Wulearhma:::txtsize --> TocalEoaipvngs:::txtsize
+Wulearhma:::txtsize --> Spiffphrskawdeya:::txtsize
+EcoueulMnen:::txtsize --> Fgferytter:::txtsize
+Fgferytter:::txtsize --> TsbchioUdetne:::txtsize
 
-Msemhtisoeolreepy@{ shape: win-pane, label: "_Published Dec 18, 2025, 06:25 PM_
-Malaysia’s pet boom clashes with religious taboos as selangor mall reverses pet-friendly policy" }
-Dpcslakagsla@{ shape: win-pane, label: "_Published Oct 27, 2025, 03:29 PM_
-Dognapping claims in malaysia spark fear and anger on social media" }
-Knithatis@{ shape: win-pane, label: "_Published May 10, 2024, 10:05 AM_
-Korean dog finds its way home 41 days after going missing" }
-Taeduadtsnes@{ shape: win-pane, label: "_Published Dec 03, 2023, 06:20 PM_
-Tears as owner and dog reunite after dramatic rescue on busy expressway" }
-Sowcdyleiohrehe@{ shape: win-pane, label: "_Published Sep 13, 2023, 09:10 PM_
-Smrt worker who escorted lost 10-year-old home, reunited dog with owner says empathy is key" }
-DSsdnriyan@{ shape: win-pane, label: "_Published Sep 22, 2025, 09:28 PM_
-Duyun, sabah’s lone drug sniffer dog, finally gets a partner" }
-Csticlpresrenoss@{ shape: win-pane, label: "_Published Jan 26, 2025, 05:00 PM_
-China’s first corgi police dog loses ‘performance bonus’ after it sleeps on the job, pees in basin" }
-Csticds@{ shape: win-pane, label: "_Published Mar 26, 2024, 02:28 PM_
-China’s first corgi police dog debuts" }
-TnctlstgsaJr@{ shape: win-pane, label: "_Published Apr 22, 2024, 12:45 PM_
-Taiwan police set to deploy its first indigenous dog, called jaguar" }
-Pthpetrort@{ shape: win-pane, label: "_Published Sep 30, 2023, 05:44 PM_
-Paw patrol: philippine security guards adopt stray cats" }
-Tsetsaoapnufu@{ shape: win-pane, label: "_Published Feb 19, 2023, 11:31 PM_
-Turkish firefighter rescues and adopts cat trapped under rubble for 129 hours" }
-Hmorttsgabaeio@{ shape: win-pane, label: "_Published Dec 12, 2022, 09:50 AM_
-He’s coming home: stray qatar cat heads to england after being adopted by city duo" }
+FeesoipteflaLrt@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:58 PM_
+France denies ‘false information’ it plans to cede pacific islands, after le pen repost on x" }
+Caaabtthaleoiee@{ shape: win-pane, label: "_Published Jul 03, 2025, 09:11 PM_
+Crimea’s tatars, scarred by past, fear their homeland will be ceded to russia in peace deal" }
+Zsymltaoohdrptdu@{ shape: win-pane, label: "_Published Apr 26, 2025, 01:34 AM_
+Zelensky says crimea belongs to ukraine, ‘position unchanged’ after trump questioned its future" }
+Tlstnoatrloi@{ shape: win-pane, label: "_Published Apr 24, 2025, 12:45 AM_
+Trump lashes out at zelensky for not accepting crimea loss to russia" }
+Wrsnauodrcfe@{ shape: win-pane, label: "_Published Apr 24, 2025, 04:30 PM_
+Why ukraine’s zelensky has refused to accede to trump’s ceasefire deal" }
+Unstiioehrros@{ shape: win-pane, label: "_Published Jun 03, 2025, 08:40 PM_
+Ukraine says it hit russia’s bridge to crimea with underwater explosives" }
+Untbotunemgducyca@{ shape: win-pane, label: "_Published Jun 02, 2025, 03:13 AM_
+Ukraine destroys $9 billion worth of russian bombers in major ground assault, security official says" }
+Untbotunemgducyca@{ shape: win-pane, label: "_Published Jun 02, 2025, 03:13 AM_
+Ukraine destroys $9 billion worth of russian bombers in major ground assault, security official says" }
+YnnnrtnMseed@{ shape: win-pane, label: "_Published Apr 04, 2025, 03:58 AM_
+‘you cannot annex another country’, danish pm tells us over greenland" }
+Tnluiemtsenoanen@{ shape: win-pane, label: "_Published Jan 08, 2025, 01:26 AM_
+Trump not ruling out military, economic action as he seeks control of panama canal, greenland" }
+TjCamtard@{ shape: win-pane, label: "_Published Dec 19, 2024, 12:55 AM_
+Trump jokes canada becoming 51st us state ‘a great idea’" }
+CuynWobe@{ shape: win-pane, label: "_Published Dec 24, 2024, 09:15 AM_
+Can trump buy greenland? what to know besides ‘no’" }
+RritUasinarans@{ shape: win-pane, label: "_Published Apr 03, 2025, 11:17 PM_
+Rubio reaffirms ‘strong’ us relationship with denmark amid greenland tensions" }
+Tsetenaocp@{ shape: win-pane, label: "_Published Mar 26, 2025, 11:52 PM_
+Trump says ‘we have to have’ greenland, ahead of vance trip" }
+Drpeutnasms@{ shape: win-pane, label: "_Published Apr 03, 2025, 04:42 AM_
+Denmark’s pm pledges to support greenland against trump pressure" }
 
-Msemhtisoeolreepy:::txtsize --> Dpcslakagsla:::txtsize
-Dpcslakagsla:::txtsize --> Knithatis:::txtsize
-Knithatis:::txtsize --> Taeduadtsnes:::txtsize
-Knithatis:::txtsize --> Sowcdyleiohrehe:::txtsize
-Msemhtisoeolreepy:::txtsize --> DSsdnriyan:::txtsize
-DSsdnriyan:::txtsize --> Csticlpresrenoss:::txtsize
-Csticlpresrenoss:::txtsize --> Csticds:::txtsize
-Csticlpresrenoss:::txtsize --> TnctlstgsaJr:::txtsize
-DSsdnriyan:::txtsize --> Pthpetrort:::txtsize
-Pthpetrort:::txtsize --> Tsetsaoapnufu:::txtsize
-Pthpetrort:::txtsize --> Hmorttsgabaeio:::txtsize
+FeesoipteflaLrt:::txtsize --> Caaabtthaleoiee:::txtsize
+Caaabtthaleoiee:::txtsize --> Zsymltaoohdrptdu:::txtsize
+Zsymltaoohdrptdu:::txtsize --> Tlstnoatrloi:::txtsize
+Zsymltaoohdrptdu:::txtsize --> Wrsnauodrcfe:::txtsize
+Caaabtthaleoiee:::txtsize --> Unstiioehrros:::txtsize
+Unstiioehrros:::txtsize --> Untbotunemgducyca:::txtsize
+Unstiioehrros:::txtsize --> Untbotunemgducyca:::txtsize
+FeesoipteflaLrt:::txtsize --> YnnnrtnMseed:::txtsize
+YnnnrtnMseed:::txtsize --> Tnluiemtsenoanen:::txtsize
+Tnluiemtsenoanen:::txtsize --> TjCamtard:::txtsize
+Tnluiemtsenoanen:::txtsize --> CuynWobe:::txtsize
+YnnnrtnMseed:::txtsize --> RritUasinarans:::txtsize
+RritUasinarans:::txtsize --> Tsetenaocp:::txtsize
+RritUasinarans:::txtsize --> Drpeutnasms:::txtsize
 
-Sriptifrtiioi@{ shape: win-pane, label: "_Published Dec 18, 2025, 06:00 PM_
-Senior ukraine diplomat in beijing for rare meeting with chinese officials" }
-Unfdepssmaanief@{ shape: win-pane, label: "_Published May 26, 2025, 06:58 PM_
-Ukraine confirmed chinese supplies to 20 russian military plants, intelligence chief says" }
-UnlynaCipgts@{ shape: win-pane, label: "_Published Apr 18, 2025, 12:12 AM_
-Ukraine’s zelensky has ‘information’ china is supplying arms to russia" }
-Zsynaaggss@{ shape: win-pane, label: "_Published Apr 10, 2025, 05:10 AM_
-Zelensky says 155 chinese nationals fighting on russia’s side" }
-Cuceawntitttl@{ shape: win-pane, label: "_Published Apr 08, 2025, 09:13 PM_
-China urges citizens to avoid war zones after kyiv captures two nationals" }
-Tsuaelyyinetos@{ shape: win-pane, label: "_Published May 26, 2025, 06:53 AM_
-Trump says putin has ‘gone absolutely crazy’, considering more sanctions on russia" }
-kdsusifnoi@{ shape: win-pane, label: "_Published May 25, 2025, 11:43 AM_
-12 killed as russia pummels ukraine in fresh night of strikes" }
-Rakiesgarep@{ shape: win-pane, label: "_Published May 24, 2025, 06:10 PM_
-Russia strikes kyiv after first stage of major prisoner swop" }
-Uwhausguaa@{ shape: win-pane, label: "_Published Dec 16, 2025, 03:34 AM_
-Uk’s new spy chief warns putin is ‘dragging out’ ukraine talks" }
-EeapsodiarZsiagwS@{ shape: win-pane, label: "_Published Dec 16, 2025, 03:54 AM_
-European leaders propose europe-led ukraine peace force as zelensky hails ‘real progress’ with us" }
-UnckencatfteEe@{ shape: win-pane, label: "_Published Dec 15, 2025, 08:19 PM_
-Ukraine peace talks stretch into second day at start of pivotal week for europe" }
-PdikerutirtoNrUis@{ shape: win-pane, label: "_Published Dec 16, 2025, 01:29 AM_
-Peace deal gives ukraine security guarantees similar to article 5 of the nato treaty, us official says" }
-Ranaomedrhuaiuv@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
-Russia says no ukraine compromise reached after five-hour putin talks with trump envoys" }
-Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
-Trump’s 28-point ukraine plan" }
-Ulgiaeauuqinl@{ shape: win-pane, label: "_Published Nov 24, 2025, 02:17 AM_
-Us hails progress in ukraine peace talks but security questions unresolved" }
+FremhpentvMsaa@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:56 PM_
+Farmers in belgium clash with police during protest over eu-mercosur trade deal" }
+Ereeweuccrlpi@{ shape: win-pane, label: "_Published Sep 03, 2025, 12:19 PM_
+Eu to propose trade deal with mercosur bloc, in face of france-led opposition" }
+EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
+Eu reaches long-sought mercosur deal over macron’s objections" }
+Wulearhma@{ shape: win-pane, label: "_Published Nov 07, 2024, 08:34 AM_
+Why trump’s plan to escalate tariffs has so many haters" }
+Fgferytter@{ shape: win-pane, label: "_Published Nov 06, 2024, 10:27 PM_
+Facing tariff threat, europe eyes options to appease trump" }
+EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
+Eu reaches long-sought mercosur deal over macron’s objections" }
+Wulearhma@{ shape: win-pane, label: "_Published Nov 07, 2024, 08:34 AM_
+Why trump’s plan to escalate tariffs has so many haters" }
+Fgferytter@{ shape: win-pane, label: "_Published Nov 06, 2024, 10:27 PM_
+Facing tariff threat, europe eyes options to appease trump" }
+Gniebeudtrrt@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:20 PM_
+Germany, spain urge eu to back mercosur trade pact, but france resists" }
+FremhpentvMsaa@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:56 PM_
+Farmers in belgium clash with police during protest over eu-mercosur trade deal" }
+Ereeweuccrlpi@{ shape: win-pane, label: "_Published Sep 03, 2025, 12:19 PM_
+Eu to propose trade deal with mercosur bloc, in face of france-led opposition" }
+Gniebeudtrrt@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:20 PM_
+Germany, spain urge eu to back mercosur trade pact, but france resists" }
+EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
+Eu reaches long-sought mercosur deal over macron’s objections" }
+Wulearhma@{ shape: win-pane, label: "_Published Nov 07, 2024, 08:34 AM_
+Why trump’s plan to escalate tariffs has so many haters" }
+Fgferytter@{ shape: win-pane, label: "_Published Nov 06, 2024, 10:27 PM_
+Facing tariff threat, europe eyes options to appease trump" }
 
-Sriptifrtiioi:::txtsize --> Unfdepssmaanief:::txtsize
-Unfdepssmaanief:::txtsize --> UnlynaCipgts:::txtsize
-UnlynaCipgts:::txtsize --> Zsynaaggss:::txtsize
-UnlynaCipgts:::txtsize --> Cuceawntitttl:::txtsize
-Unfdepssmaanief:::txtsize --> Tsuaelyyinetos:::txtsize
-Tsuaelyyinetos:::txtsize --> kdsusifnoi:::txtsize
-Tsuaelyyinetos:::txtsize --> Rakiesgarep:::txtsize
-Sriptifrtiioi:::txtsize --> Uwhausguaa:::txtsize
-Uwhausguaa:::txtsize --> EeapsodiarZsiagwS:::txtsize
-EeapsodiarZsiagwS:::txtsize --> UnckencatfteEe:::txtsize
-EeapsodiarZsiagwS:::txtsize --> PdikerutirtoNrUis:::txtsize
-Uwhausguaa:::txtsize --> Ranaomedrhuaiuv:::txtsize
-Ranaomedrhuaiuv:::txtsize --> Tstia:::txtsize
-Ranaomedrhuaiuv:::txtsize --> Ulgiaeauuqinl:::txtsize
+FremhpentvMsaa:::txtsize --> Ereeweuccrlpi:::txtsize
+Ereeweuccrlpi:::txtsize --> EcoueulMnen:::txtsize
+EcoueulMnen:::txtsize --> Wulearhma:::txtsize
+EcoueulMnen:::txtsize --> Fgferytter:::txtsize
+Ereeweuccrlpi:::txtsize --> EcoueulMnen:::txtsize
+EcoueulMnen:::txtsize --> Wulearhma:::txtsize
+EcoueulMnen:::txtsize --> Fgferytter:::txtsize
+FremhpentvMsaa:::txtsize --> Gniebeudtrrt:::txtsize
+Gniebeudtrrt:::txtsize --> FremhpentvMsaa:::txtsize
+FremhpentvMsaa:::txtsize --> Ereeweuccrlpi:::txtsize
+FremhpentvMsaa:::txtsize --> Gniebeudtrrt:::txtsize
+Gniebeudtrrt:::txtsize --> EcoueulMnen:::txtsize
+EcoueulMnen:::txtsize --> Wulearhma:::txtsize
+EcoueulMnen:::txtsize --> Fgferytter:::txtsize
 
 ```
-<i>Last updated: 2025-12-18 20:00:32.365290 (GMT+8)</i>
+<i>Last updated: 2025-12-19 00:01:06.708038 (GMT+8)</i>
 <!-- END -->
