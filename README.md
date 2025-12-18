@@ -16,141 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Gniebeudtrrt@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:20 PM_
-Germany, spain urge eu to back mercosur trade pact, but france resists" }
-FremhpentvMsaa@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:56 PM_
-Farmers in belgium clash with police during protest over eu-mercosur trade deal" }
-Ereeweuccrlpi@{ shape: win-pane, label: "_Published Sep 03, 2025, 12:19 PM_
-Eu to propose trade deal with mercosur bloc, in face of france-led opposition" }
-EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
-Eu reaches long-sought mercosur deal over macron’s objections" }
-EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
-Eu reaches long-sought mercosur deal over macron’s objections" }
-Gniebeudtrrt@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:20 PM_
-Germany, spain urge eu to back mercosur trade pact, but france resists" }
-FremhpentvMsaa@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:56 PM_
-Farmers in belgium clash with police during protest over eu-mercosur trade deal" }
-EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
-Eu reaches long-sought mercosur deal over macron’s objections" }
-EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
-Eu reaches long-sought mercosur deal over macron’s objections" }
-Wulearhma@{ shape: win-pane, label: "_Published Nov 07, 2024, 08:34 AM_
-Why trump’s plan to escalate tariffs has so many haters" }
-TocalEoaipvngs@{ shape: win-pane, label: "_Published Nov 07, 2024, 12:05 AM_
-Trump on track for a triple win: electoral landslide, popular vote and congress sweep" }
-Spiffphrskawdeya@{ shape: win-pane, label: "_Published Nov 02, 2024, 05:00 AM_
-Singapore will suffer if trump’s higher tariffs shrink global growth and trade, analysts say" }
-Fgferytter@{ shape: win-pane, label: "_Published Nov 06, 2024, 10:27 PM_
-Facing tariff threat, europe eyes options to appease trump" }
-TsbchioUdetne@{ shape: win-pane, label: "_Published Nov 06, 2024, 07:37 AM_
-Trump set to be elected 47th president of the united states in stunning comeback" }
+PobAdrBehUaeo@{ shape: win-pane, label: "_Published Dec 19, 2025, 03:49 AM_
+Plane owned by ex-nascar driver greg biffle crashes in us; fatalities reported" }
+Ctnddrneret@{ shape: win-pane, label: "_Published Oct 09, 2024, 04:30 PM_
+Climate change made deadly hurricane helene more intense: study" }
+Eawoenreollasrcr@{ shape: win-pane, label: "_Published Oct 09, 2024, 12:59 AM_
+‘evacuate now, now, now’: biden warns hurricane milton could be florida’s worst storm in a century" }
+UisgohiHepyr@{ shape: win-pane, label: "_Published Oct 05, 2024, 07:06 PM_
+Us officials struggle to quash hurricane helene conspiracy theories" }
+IwfiHepsosiid@{ shape: win-pane, label: "_Published Oct 02, 2024, 08:00 AM_
+In the wake of hurricane helene, trump seeks to boost his presidential bid" }
+BeepoeeroiHce@{ shape: win-pane, label: "_Published Oct 05, 2024, 01:11 AM_
+By mule and helicopter, volunteers deliver aid to victims of hurricane helene" }
+BHsHesoopd@{ shape: win-pane, label: "_Published Oct 03, 2024, 03:44 AM_
+Biden, harris view helene devastation, 1,000 troops deployed" }
+Wslnorfastremn@{ shape: win-pane, label: "_Published Oct 04, 2024, 05:41 AM_
+Will asheville’s once-booming riverfront art district ever recover from helene?" }
+LrniircrhkdeCw@{ shape: win-pane, label: "_Published Dec 16, 2025, 09:04 PM_
+Leonardo denies liability for 2018 helicopter crash that killed leicester city owner" }
+HoctiLswaiaui@{ shape: win-pane, label: "_Published Jan 29, 2025, 02:43 AM_
+Helicopter crash that killed leicester owner was accidental, inquest finds" }
+Tyslirltkeacrc@{ shape: win-pane, label: "_Published Jan 11, 2025, 02:12 AM_
+Thai tycoon’s family claims $2.7b from helicopter maker over fatal leicester city crash" }
 
-Gniebeudtrrt:::txtsize --> FremhpentvMsaa:::txtsize
-FremhpentvMsaa:::txtsize --> Ereeweuccrlpi:::txtsize
-Ereeweuccrlpi:::txtsize --> EcoueulMnen:::txtsize
-Ereeweuccrlpi:::txtsize --> EcoueulMnen:::txtsize
-FremhpentvMsaa:::txtsize --> Gniebeudtrrt:::txtsize
-Gniebeudtrrt:::txtsize --> FremhpentvMsaa:::txtsize
-Gniebeudtrrt:::txtsize --> EcoueulMnen:::txtsize
-Gniebeudtrrt:::txtsize --> EcoueulMnen:::txtsize
-EcoueulMnen:::txtsize --> Wulearhma:::txtsize
-Wulearhma:::txtsize --> TocalEoaipvngs:::txtsize
-Wulearhma:::txtsize --> Spiffphrskawdeya:::txtsize
-EcoueulMnen:::txtsize --> Fgferytter:::txtsize
-Fgferytter:::txtsize --> TsbchioUdetne:::txtsize
+PobAdrBehUaeo:::txtsize --> Ctnddrneret:::txtsize
+Ctnddrneret:::txtsize --> Eawoenreollasrcr:::txtsize
+Eawoenreollasrcr:::txtsize --> UisgohiHepyr:::txtsize
+Eawoenreollasrcr:::txtsize --> IwfiHepsosiid:::txtsize
+Ctnddrneret:::txtsize --> BeepoeeroiHce:::txtsize
+BeepoeeroiHce:::txtsize --> BHsHesoopd:::txtsize
+BeepoeeroiHce:::txtsize --> Wslnorfastremn:::txtsize
+PobAdrBehUaeo:::txtsize --> LrniircrhkdeCw:::txtsize
+LrniircrhkdeCw:::txtsize --> HoctiLswaiaui:::txtsize
+HoctiLswaiaui:::txtsize --> Tyslirltkeacrc:::txtsize
 
-FeesoipteflaLrt@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:58 PM_
-France denies ‘false information’ it plans to cede pacific islands, after le pen repost on x" }
-Caaabtthaleoiee@{ shape: win-pane, label: "_Published Jul 03, 2025, 09:11 PM_
-Crimea’s tatars, scarred by past, fear their homeland will be ceded to russia in peace deal" }
-Zsymltaoohdrptdu@{ shape: win-pane, label: "_Published Apr 26, 2025, 01:34 AM_
-Zelensky says crimea belongs to ukraine, ‘position unchanged’ after trump questioned its future" }
-Tlstnoatrloi@{ shape: win-pane, label: "_Published Apr 24, 2025, 12:45 AM_
-Trump lashes out at zelensky for not accepting crimea loss to russia" }
-Wrsnauodrcfe@{ shape: win-pane, label: "_Published Apr 24, 2025, 04:30 PM_
-Why ukraine’s zelensky has refused to accede to trump’s ceasefire deal" }
-Unstiioehrros@{ shape: win-pane, label: "_Published Jun 03, 2025, 08:40 PM_
-Ukraine says it hit russia’s bridge to crimea with underwater explosives" }
-Untbotunemgducyca@{ shape: win-pane, label: "_Published Jun 02, 2025, 03:13 AM_
-Ukraine destroys $9 billion worth of russian bombers in major ground assault, security official says" }
-Untbotunemgducyca@{ shape: win-pane, label: "_Published Jun 02, 2025, 03:13 AM_
-Ukraine destroys $9 billion worth of russian bombers in major ground assault, security official says" }
-YnnnrtnMseed@{ shape: win-pane, label: "_Published Apr 04, 2025, 03:58 AM_
-‘you cannot annex another country’, danish pm tells us over greenland" }
-Tnluiemtsenoanen@{ shape: win-pane, label: "_Published Jan 08, 2025, 01:26 AM_
-Trump not ruling out military, economic action as he seeks control of panama canal, greenland" }
-TjCamtard@{ shape: win-pane, label: "_Published Dec 19, 2024, 12:55 AM_
-Trump jokes canada becoming 51st us state ‘a great idea’" }
-CuynWobe@{ shape: win-pane, label: "_Published Dec 24, 2024, 09:15 AM_
-Can trump buy greenland? what to know besides ‘no’" }
-RritUasinarans@{ shape: win-pane, label: "_Published Apr 03, 2025, 11:17 PM_
-Rubio reaffirms ‘strong’ us relationship with denmark amid greenland tensions" }
-Tsetenaocp@{ shape: win-pane, label: "_Published Mar 26, 2025, 11:52 PM_
-Trump says ‘we have to have’ greenland, ahead of vance trip" }
-Drpeutnasms@{ shape: win-pane, label: "_Published Apr 03, 2025, 04:42 AM_
-Denmark’s pm pledges to support greenland against trump pressure" }
+Biocrohirssre@{ shape: win-pane, label: "_Published Dec 19, 2025, 02:36 AM_
+Britain appoints career diplomat christian turner as ambassador to the us" }
+Bikdnasopns@{ shape: win-pane, label: "_Published Sep 11, 2025, 06:03 PM_
+Britain sacks mandelson as us ambassador over epstein links" }
+Tsgrytteeoa@{ shape: win-pane, label: "_Published Sep 09, 2025, 04:23 AM_
+Trump’s alleged birthday note to epstein released by house panel" }
+VmeeJetoisear@{ shape: win-pane, label: "_Published Sep 04, 2025, 02:07 AM_
+Victims of sex offender jeffrey epstein compiling list of sexual abusers" }
+WodoumtnMov@{ shape: win-pane, label: "_Published Jul 19, 2025, 06:16 AM_
+What you need to know about trump, epstein and the maga controversy" }
+Nstrgehnslr@{ shape: win-pane, label: "_Published Sep 10, 2025, 09:00 AM_
+‘not my signature’: trump again denies he penned epstein letter" }
+Tsgrytteeoa@{ shape: win-pane, label: "_Published Sep 09, 2025, 04:23 AM_
+Trump’s alleged birthday note to epstein released by house panel" }
+WHstdorcyfgugrpne@{ shape: win-pane, label: "_Published Sep 10, 2025, 06:12 AM_
+White house says it would support forensic analysis of alleged trump signature on epstein letter" }
+Uspnoinnywrn@{ shape: win-pane, label: "_Published Dec 16, 2025, 08:04 PM_
+Us pauses implementation of $51.6 billion technology deal with britain" }
+Tstsnst@{ shape: win-pane, label: "_Published Sep 18, 2025, 10:10 PM_
+Trump’s visit lands uk $261b in investments" }
+Tanrget@{ shape: win-pane, label: "_Published May 08, 2025, 07:50 PM_
+Trump announces trade agreement with uk" }
+Thsaasiaeipscet@{ shape: win-pane, label: "_Published Sep 18, 2025, 06:01 AM_
+Trump hails special relationship with uk as he revels in pomp of historic state visit" }
+Taahrhhod@{ shape: win-pane, label: "_Published May 08, 2025, 11:50 PM_
+Trump and starmer hail ‘breakthrough’ deal on trade" }
+Tsiepleainl@{ shape: win-pane, label: "_Published Mar 17, 2025, 01:39 PM_
+Trump set to impose reciprocal and sectoral tariffs on april 2" }
+Cabdmditndk@{ shape: win-pane, label: "_Published May 07, 2025, 08:50 PM_
+China and us begin diplomatic dance in restarting trade talks" }
 
-FeesoipteflaLrt:::txtsize --> Caaabtthaleoiee:::txtsize
-Caaabtthaleoiee:::txtsize --> Zsymltaoohdrptdu:::txtsize
-Zsymltaoohdrptdu:::txtsize --> Tlstnoatrloi:::txtsize
-Zsymltaoohdrptdu:::txtsize --> Wrsnauodrcfe:::txtsize
-Caaabtthaleoiee:::txtsize --> Unstiioehrros:::txtsize
-Unstiioehrros:::txtsize --> Untbotunemgducyca:::txtsize
-Unstiioehrros:::txtsize --> Untbotunemgducyca:::txtsize
-FeesoipteflaLrt:::txtsize --> YnnnrtnMseed:::txtsize
-YnnnrtnMseed:::txtsize --> Tnluiemtsenoanen:::txtsize
-Tnluiemtsenoanen:::txtsize --> TjCamtard:::txtsize
-Tnluiemtsenoanen:::txtsize --> CuynWobe:::txtsize
-YnnnrtnMseed:::txtsize --> RritUasinarans:::txtsize
-RritUasinarans:::txtsize --> Tsetenaocp:::txtsize
-RritUasinarans:::txtsize --> Drpeutnasms:::txtsize
+Biocrohirssre:::txtsize --> Bikdnasopns:::txtsize
+Bikdnasopns:::txtsize --> Tsgrytteeoa:::txtsize
+Tsgrytteeoa:::txtsize --> VmeeJetoisear:::txtsize
+Tsgrytteeoa:::txtsize --> WodoumtnMov:::txtsize
+Bikdnasopns:::txtsize --> Nstrgehnslr:::txtsize
+Nstrgehnslr:::txtsize --> Tsgrytteeoa:::txtsize
+Nstrgehnslr:::txtsize --> WHstdorcyfgugrpne:::txtsize
+Biocrohirssre:::txtsize --> Uspnoinnywrn:::txtsize
+Uspnoinnywrn:::txtsize --> Tstsnst:::txtsize
+Tstsnst:::txtsize --> Tanrget:::txtsize
+Tstsnst:::txtsize --> Thsaasiaeipscet:::txtsize
+Uspnoinnywrn:::txtsize --> Taahrhhod:::txtsize
+Taahrhhod:::txtsize --> Tsiepleainl:::txtsize
+Taahrhhod:::txtsize --> Cabdmditndk:::txtsize
 
-FremhpentvMsaa@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:56 PM_
-Farmers in belgium clash with police during protest over eu-mercosur trade deal" }
-Ereeweuccrlpi@{ shape: win-pane, label: "_Published Sep 03, 2025, 12:19 PM_
-Eu to propose trade deal with mercosur bloc, in face of france-led opposition" }
-EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
-Eu reaches long-sought mercosur deal over macron’s objections" }
-Wulearhma@{ shape: win-pane, label: "_Published Nov 07, 2024, 08:34 AM_
-Why trump’s plan to escalate tariffs has so many haters" }
-Fgferytter@{ shape: win-pane, label: "_Published Nov 06, 2024, 10:27 PM_
-Facing tariff threat, europe eyes options to appease trump" }
-EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
-Eu reaches long-sought mercosur deal over macron’s objections" }
-Wulearhma@{ shape: win-pane, label: "_Published Nov 07, 2024, 08:34 AM_
-Why trump’s plan to escalate tariffs has so many haters" }
-Fgferytter@{ shape: win-pane, label: "_Published Nov 06, 2024, 10:27 PM_
-Facing tariff threat, europe eyes options to appease trump" }
-Gniebeudtrrt@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:20 PM_
-Germany, spain urge eu to back mercosur trade pact, but france resists" }
-FremhpentvMsaa@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:56 PM_
-Farmers in belgium clash with police during protest over eu-mercosur trade deal" }
-Ereeweuccrlpi@{ shape: win-pane, label: "_Published Sep 03, 2025, 12:19 PM_
-Eu to propose trade deal with mercosur bloc, in face of france-led opposition" }
-Gniebeudtrrt@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:20 PM_
-Germany, spain urge eu to back mercosur trade pact, but france resists" }
-EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
-Eu reaches long-sought mercosur deal over macron’s objections" }
-Wulearhma@{ shape: win-pane, label: "_Published Nov 07, 2024, 08:34 AM_
-Why trump’s plan to escalate tariffs has so many haters" }
-Fgferytter@{ shape: win-pane, label: "_Published Nov 06, 2024, 10:27 PM_
-Facing tariff threat, europe eyes options to appease trump" }
+TaitmstomCg@{ shape: win-pane, label: "_Published Dec 19, 2025, 02:30 AM_
+Trump administration imposes sanctions on two more icc judges" }
+InnilteersssnGn@{ shape: win-pane, label: "_Published Nov 21, 2024, 08:23 PM_
+International criminal court issues arrest warrants for israel’s netanyahu, gallant" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+UesCcssrdoruu@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:17 PM_
+Us threatens new icc sanctions unless court pledges not to prosecute trump" }
+InnilteersssnGn@{ shape: win-pane, label: "_Published Nov 21, 2024, 08:23 PM_
+International criminal court issues arrest warrants for israel’s netanyahu, gallant" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+TaitmsaofCgot@{ shape: win-pane, label: "_Published Aug 20, 2025, 11:01 PM_
+Trump administration imposes new sanctions on four icc judges, prosecutors" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+IdeIluodearat@{ shape: win-pane, label: "_Published Jul 17, 2025, 12:20 AM_
+Icc judges reject israel’s request to withdraw netanyahu arrest warrant" }
 
-FremhpentvMsaa:::txtsize --> Ereeweuccrlpi:::txtsize
-Ereeweuccrlpi:::txtsize --> EcoueulMnen:::txtsize
-EcoueulMnen:::txtsize --> Wulearhma:::txtsize
-EcoueulMnen:::txtsize --> Fgferytter:::txtsize
-Ereeweuccrlpi:::txtsize --> EcoueulMnen:::txtsize
-EcoueulMnen:::txtsize --> Wulearhma:::txtsize
-EcoueulMnen:::txtsize --> Fgferytter:::txtsize
-FremhpentvMsaa:::txtsize --> Gniebeudtrrt:::txtsize
-Gniebeudtrrt:::txtsize --> FremhpentvMsaa:::txtsize
-FremhpentvMsaa:::txtsize --> Ereeweuccrlpi:::txtsize
-FremhpentvMsaa:::txtsize --> Gniebeudtrrt:::txtsize
-Gniebeudtrrt:::txtsize --> EcoueulMnen:::txtsize
-EcoueulMnen:::txtsize --> Wulearhma:::txtsize
-EcoueulMnen:::txtsize --> Fgferytter:::txtsize
+TaitmstomCg:::txtsize --> InnilteersssnGn:::txtsize
+InnilteersssnGn:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+TaitmstomCg:::txtsize --> UesCcssrdoruu:::txtsize
+UesCcssrdoruu:::txtsize --> InnilteersssnGn:::txtsize
+InnilteersssnGn:::txtsize --> Sbsrcdnacaale:::txtsize
+UesCcssrdoruu:::txtsize --> TaitmsaofCgot:::txtsize
+TaitmsaofCgot:::txtsize --> DsruasvUn:::txtsize
+TaitmsaofCgot:::txtsize --> IdeIluodearat:::txtsize
 
 ```
-<i>Last updated: 2025-12-19 00:01:06.708038 (GMT+8)</i>
+<i>Last updated: 2025-12-19 04:00:35.904542 (GMT+8)</i>
 <!-- END -->
