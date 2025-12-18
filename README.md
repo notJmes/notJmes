@@ -16,123 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Jasplpcrdo@{ shape: win-pane, label: "_Published Dec 18, 2025, 07:59 AM_
-Judge allows trump’s ballroom project to proceed for now" }
-Tstatoslmeiuy@{ shape: win-pane, label: "_Published Dec 05, 2025, 07:00 AM_
-Trump selects new architect to oversee ballroom project, white house says" }
-WHgcdhmsaaok@{ shape: win-pane, label: "_Published Dec 02, 2025, 08:45 AM_
-White house gets scaled-down christmas display amid ballroom work" }
-WHEilowboudioo@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:39 AM_
-White house east wing will be torn down for ballroom, trump had promised not to do so" }
-Tletlmphrnmhts@{ shape: win-pane, label: "_Published Oct 25, 2025, 08:05 PM_
-The bulldozer and the ballroom: trump puts his permanent stamp on the white house" }
-Tletlmphrnmhts@{ shape: win-pane, label: "_Published Oct 25, 2025, 08:05 PM_
-The bulldozer and the ballroom: trump puts his permanent stamp on the white house" }
-WHEilowboudioo@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:39 AM_
-White house east wing will be torn down for ballroom, trump had promised not to do so" }
-Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
-‘music to my ears’: trump brushes off critics of white house demolition" }
-Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
-‘music to my ears’: trump brushes off critics of white house demolition" }
-WHEilowboudioo@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:39 AM_
-White house east wing will be torn down for ballroom, trump had promised not to do so" }
-Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
-‘music to my ears’: trump brushes off critics of white house demolition" }
-Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
-‘music to my ears’: trump brushes off critics of white house demolition" }
-
-Jasplpcrdo:::txtsize --> Tstatoslmeiuy:::txtsize
-Tstatoslmeiuy:::txtsize --> WHgcdhmsaaok:::txtsize
-WHgcdhmsaaok:::txtsize --> WHEilowboudioo:::txtsize
-WHgcdhmsaaok:::txtsize --> Tletlmphrnmhts:::txtsize
-Jasplpcrdo:::txtsize --> Tletlmphrnmhts:::txtsize
-Tletlmphrnmhts:::txtsize --> WHEilowboudioo:::txtsize
-WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
-WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
-Tletlmphrnmhts:::txtsize --> WHEilowboudioo:::txtsize
-WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
-WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
-
-Cisheerai@{ shape: win-pane, label: "_Published Dec 18, 2025, 07:21 AM_
-Canadian researchers see rare polar bear adoption" }
-MolooooariSteriea@{ shape: win-pane, label: "_Published Sep 26, 2025, 04:45 PM_
-Make yourself at home: drone footage of polar bears living in soviet-era weather station goes viral" }
-Teiiosorhrs@{ shape: win-pane, label: "_Published Jul 22, 2025, 10:58 AM_
-The eye-opening science of close encounters with polar bears" }
-PbiehgAcus@{ shape: win-pane, label: "_Published May 19, 2025, 02:40 PM_
-Polar bear biopsies to shed light on arctic pollutants" }
-Pbsgtpoietr@{ shape: win-pane, label: "_Published Feb 14, 2024, 01:15 AM_
-Polar bears struggling to adapt to longer ice-free arctic periods" }
-Pbsgtpoietr@{ shape: win-pane, label: "_Published Feb 14, 2024, 01:15 AM_
-Polar bears struggling to adapt to longer ice-free arctic periods" }
-PbiehgAcus@{ shape: win-pane, label: "_Published May 19, 2025, 02:40 PM_
-Polar bear biopsies to shed light on arctic pollutants" }
-Accecooorad@{ shape: win-pane, label: "_Published Feb 05, 2025, 07:45 AM_
-Arctic sea ice levels second lowest on record for january: us data" }
-Tiebgnnoby@{ shape: win-pane, label: "_Published Jan 31, 2025, 03:09 AM_
-Trump interest in buying greenland ‘not a joke’, rubio says" }
-Pbsgtpoietr@{ shape: win-pane, label: "_Published Feb 14, 2024, 01:15 AM_
-Polar bears struggling to adapt to longer ice-free arctic periods" }
-Pbsgtpoietr@{ shape: win-pane, label: "_Published Feb 14, 2024, 01:15 AM_
-Polar bears struggling to adapt to longer ice-free arctic periods" }
-
-Cisheerai:::txtsize --> MolooooariSteriea:::txtsize
-MolooooariSteriea:::txtsize --> Teiiosorhrs:::txtsize
-Teiiosorhrs:::txtsize --> PbiehgAcus:::txtsize
-Teiiosorhrs:::txtsize --> Pbsgtpoietr:::txtsize
-MolooooariSteriea:::txtsize --> Pbsgtpoietr:::txtsize
-Cisheerai:::txtsize --> PbiehgAcus:::txtsize
-PbiehgAcus:::txtsize --> Accecooorad:::txtsize
-Accecooorad:::txtsize --> Tiebgnnoby:::txtsize
-Accecooorad:::txtsize --> Pbsgtpoietr:::txtsize
-PbiehgAcus:::txtsize --> Pbsgtpoietr:::txtsize
-
+Tvcimeedst@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:54 AM_
+Trump vows economic boom, blames biden in address to nation" }
 Ttsgidsociu@{ shape: win-pane, label: "_Published Dec 18, 2025, 07:00 AM_
 Trump to vow ‘stronger’ us in tv address as economic worries mount" }
 TsoastneRrols@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:14 AM_
 Trump’s approval rating slips to 39%, economy weighs, reuters/ipsos poll finds" }
 Hthnndwrust@{ shape: win-pane, label: "_Published Nov 14, 2025, 08:52 AM_
 ‘hope it won’t happen again’: us federal workers return post-shutdown" }
-Tsdootveuns@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:48 AM_
-Trump signs deal to end longest us government shutdown in history" }
-Annoalsvuni@{ shape: win-pane, label: "_Published Nov 10, 2025, 10:23 PM_
-Airlines cancel more than 1,500 us flights on nov 10 as shutdown persists" }
 Thcirlhffesiblr@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:34 AM_
 Trump has ‘alcoholic’s personality’, chief of staff susie wiles says in bombshell interview" }
-Tapsiecofieelers@{ shape: win-pane, label: "_Published Dec 17, 2025, 06:45 AM_
-Trump and top aides publicly defend chief of staff susie wiles after explosive interviews" }
-TsoastneRrols@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:14 AM_
-Trump’s approval rating slips to 39%, economy weighs, reuters/ipsos poll finds" }
 ThuMnlmenekmae@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:15 PM_
 ‘turn the volume up,’ mamdani tells trump after winning new york city mayoral race" }
 Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
 Democrats sweep first major elections of second trump term" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
-Cuomo to stay in new york mayoral race despite losing democratic primary" }
 Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
 Democrats sweep first major elections of second trump term" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-Ctywmaeiseary@{ shape: win-pane, label: "_Published Jul 15, 2025, 06:24 AM_
-Cuomo to stay in new york mayoral race despite losing democratic primary" }
+TaitismonAcfzi@{ shape: win-pane, label: "_Published Dec 18, 2025, 09:55 AM_
+Trump administration aims to strip more foreign-born americans of citizenship" }
+Taeoicniuaat@{ shape: win-pane, label: "_Published Dec 17, 2025, 05:35 AM_
+Trump adds seven countries, including syria, to full travel ban list" }
+Ttlncifasem@{ shape: win-pane, label: "_Published Jun 09, 2025, 02:45 PM_
+Trump travel ban in effect, citizens from 12 nations barred from us" }
+Ueaaoansletry@{ shape: win-pane, label: "_Published Dec 05, 2025, 10:11 AM_
+Us widens travel ban to more than 30 countries, homeland security secretary says" }
 
+Tvcimeedst:::txtsize --> Ttsgidsociu:::txtsize
 Ttsgidsociu:::txtsize --> TsoastneRrols:::txtsize
 TsoastneRrols:::txtsize --> Hthnndwrust:::txtsize
-Hthnndwrust:::txtsize --> Tsdootveuns:::txtsize
-Hthnndwrust:::txtsize --> Annoalsvuni:::txtsize
 TsoastneRrols:::txtsize --> Thcirlhffesiblr:::txtsize
-Thcirlhffesiblr:::txtsize --> Tapsiecofieelers:::txtsize
-Thcirlhffesiblr:::txtsize --> TsoastneRrols:::txtsize
 Ttsgidsociu:::txtsize --> ThuMnlmenekmae:::txtsize
 ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
-Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
-Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
 ThuMnlmenekmae:::txtsize --> Drwialosdp:::txtsize
-Drwialosdp:::txtsize --> YMmnoihaiYilehpea:::txtsize
-Drwialosdp:::txtsize --> Ctywmaeiseary:::txtsize
+Tvcimeedst:::txtsize --> TaitismonAcfzi:::txtsize
+TaitismonAcfzi:::txtsize --> Taeoicniuaat:::txtsize
+Taeoicniuaat:::txtsize --> Ttlncifasem:::txtsize
+Taeoicniuaat:::txtsize --> Ueaaoansletry:::txtsize
+
+TaitismonAcfzi@{ shape: win-pane, label: "_Published Dec 18, 2025, 09:55 AM_
+Trump administration aims to strip more foreign-born americans of citizenship" }
+Taeoicniuaat@{ shape: win-pane, label: "_Published Dec 17, 2025, 05:35 AM_
+Trump adds seven countries, including syria, to full travel ban list" }
+Ttlncifasem@{ shape: win-pane, label: "_Published Jun 09, 2025, 02:45 PM_
+Trump travel ban in effect, citizens from 12 nations barred from us" }
+Tbinmtidyrtlt@{ shape: win-pane, label: "_Published Jun 05, 2025, 07:46 AM_
+Trump bans citizens from 12 countries, including myanmar, from travelling to us" }
+MtCaoteslu@{ shape: win-pane, label: "_Published Jun 02, 2025, 06:15 AM_
+Man attacks colorado crowd with firebombs, 8 people injured" }
+Ueaaoansletry@{ shape: win-pane, label: "_Published Dec 05, 2025, 10:11 AM_
+Us widens travel ban to more than 30 countries, homeland security secretary says" }
+TaitrectfpnHa@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:25 AM_
+Trump administration orders enhanced vetting for applicants of h-1b visa" }
+Uslgolirnpoi@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:35 AM_
+Us pauses all immigration applications from 19 non-european countries" }
+
+TaitismonAcfzi:::txtsize --> Taeoicniuaat:::txtsize
+Taeoicniuaat:::txtsize --> Ttlncifasem:::txtsize
+Ttlncifasem:::txtsize --> Tbinmtidyrtlt:::txtsize
+Ttlncifasem:::txtsize --> MtCaoteslu:::txtsize
+Taeoicniuaat:::txtsize --> Ueaaoansletry:::txtsize
+Ueaaoansletry:::txtsize --> TaitrectfpnHa:::txtsize
+Ueaaoansletry:::txtsize --> Uslgolirnpoi:::txtsize
+
+Hwaicuart@{ shape: win-pane, label: "_Published Dec 18, 2025, 09:50 AM_
+How new social media checks would change travel to us" }
+UnsAisuvoogeeceiy@{ shape: win-pane, label: "_Published Dec 10, 2025, 05:50 PM_
+Us plans to ask esta applicants, including visitors from singapore, for 5-year social media history" }
+Ueaaoansletry@{ shape: win-pane, label: "_Published Dec 05, 2025, 10:11 AM_
+Us widens travel ban to more than 30 countries, homeland security secretary says" }
+TaitrectfpnHa@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:25 AM_
+Trump administration orders enhanced vetting for applicants of h-1b visa" }
+Uslgolirnpoi@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:35 AM_
+Us pauses all immigration applications from 19 non-european countries" }
+Anlnintldt@{ shape: win-pane, label: "_Published Dec 03, 2025, 07:30 AM_
+Afghan man pleads not guilty in us national guard shooting" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+AeiGakcmrgmtairgo@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:44 AM_
+Accused national guard attacker faces us murder charge; trump wants to halt ‘third world’ migration" }
+Taeoicniuaat@{ shape: win-pane, label: "_Published Dec 17, 2025, 05:35 AM_
+Trump adds seven countries, including syria, to full travel ban list" }
+Ttlncifasem@{ shape: win-pane, label: "_Published Jun 09, 2025, 02:45 PM_
+Trump travel ban in effect, citizens from 12 nations barred from us" }
+Tbinmtidyrtlt@{ shape: win-pane, label: "_Published Jun 05, 2025, 07:46 AM_
+Trump bans citizens from 12 countries, including myanmar, from travelling to us" }
+MtCaoteslu@{ shape: win-pane, label: "_Published Jun 02, 2025, 06:15 AM_
+Man attacks colorado crowd with firebombs, 8 people injured" }
+Ueaaoansletry@{ shape: win-pane, label: "_Published Dec 05, 2025, 10:11 AM_
+Us widens travel ban to more than 30 countries, homeland security secretary says" }
+TaitrectfpnHa@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:25 AM_
+Trump administration orders enhanced vetting for applicants of h-1b visa" }
+Uslgolirnpoi@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:35 AM_
+Us pauses all immigration applications from 19 non-european countries" }
+
+Hwaicuart:::txtsize --> UnsAisuvoogeeceiy:::txtsize
+UnsAisuvoogeeceiy:::txtsize --> Ueaaoansletry:::txtsize
+Ueaaoansletry:::txtsize --> TaitrectfpnHa:::txtsize
+Ueaaoansletry:::txtsize --> Uslgolirnpoi:::txtsize
+UnsAisuvoogeeceiy:::txtsize --> Anlnintldt:::txtsize
+Anlnintldt:::txtsize --> Nnalsiydttteiu:::txtsize
+Anlnintldt:::txtsize --> AeiGakcmrgmtairgo:::txtsize
+Hwaicuart:::txtsize --> Taeoicniuaat:::txtsize
+Taeoicniuaat:::txtsize --> Ttlncifasem:::txtsize
+Ttlncifasem:::txtsize --> Tbinmtidyrtlt:::txtsize
+Ttlncifasem:::txtsize --> MtCaoteslu:::txtsize
+Taeoicniuaat:::txtsize --> Ueaaoansletry:::txtsize
+Ueaaoansletry:::txtsize --> TaitrectfpnHa:::txtsize
+Ueaaoansletry:::txtsize --> Uslgolirnpoi:::txtsize
 
 ```
-<i>Last updated: 2025-12-18 08:01:05.542092 (GMT+8)</i>
+<i>Last updated: 2025-12-18 12:00:33.554999 (GMT+8)</i>
 <!-- END -->
