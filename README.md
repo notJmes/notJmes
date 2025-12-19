@@ -16,132 +16,87 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-TnCrdroaiuy@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:34 AM_
-The kennedy center is adding ‘trump’ to its name, white house says" }
-Tperoneisioh@{ shape: win-pane, label: "_Published Mar 18, 2025, 12:15 PM_
-Trump pledges overhaul of kennedy centre in first visit as board chair" }
-Tosifanidofia@{ shape: win-pane, label: "_Published Mar 15, 2025, 02:30 PM_
-Trump orders gutting of 7 federal agencies, including voice of america’s parent" }
-Ueurairede@{ shape: win-pane, label: "_Published Mar 14, 2025, 03:36 AM_
-Us federal judge orders agencies to rehire fired workers" }
-WHltsahlfenstcp@{ shape: win-pane, label: "_Published Mar 14, 2025, 06:31 PM_
-White house looks to press ahead with mass layoffs after agencies submit reduction plans" }
-TteeaohotvKdt@{ shape: win-pane, label: "_Published Feb 08, 2025, 09:30 AM_
-Trump to make himself head of top washington cultural venue kennedy centre" }
-TseoBsrln@{ shape: win-pane, label: "_Published Feb 08, 2025, 08:39 AM_
-Trump says he’s revoking biden’s security clearance" }
-Tseanccroytne@{ shape: win-pane, label: "_Published Feb 08, 2025, 01:34 AM_
-Trump says he will announce reciprocal tariffs on many countries next week" }
-Jasplpcrdo@{ shape: win-pane, label: "_Published Dec 18, 2025, 07:59 AM_
-Judge allows trump’s ballroom project to proceed for now" }
-WHEilowboudioo@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:39 AM_
-White house east wing will be torn down for ballroom, trump had promised not to do so" }
-Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
-‘music to my ears’: trump brushes off critics of white house demolition" }
-Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
-‘music to my ears’: trump brushes off critics of white house demolition" }
-Tstatoslmeiuy@{ shape: win-pane, label: "_Published Dec 05, 2025, 07:00 AM_
-Trump selects new architect to oversee ballroom project, white house says" }
-WHgcdhmsaaok@{ shape: win-pane, label: "_Published Dec 02, 2025, 08:45 AM_
-White house gets scaled-down christmas display amid ballroom work" }
+DtnsUrtruapein@{ shape: win-pane, label: "_Published Dec 19, 2025, 11:50 AM_
+Deportation fears spur us migrants to entrust guardianship of their children" }
+Irnipiditoayprol@{ shape: win-pane, label: "_Published Dec 11, 2025, 07:28 PM_
+Ice threatens family separation, indefinite detention to satisfy trump deportation goal" }
+TdragnfitirsPd@{ shape: win-pane, label: "_Published Jan 21, 2025, 01:02 AM_
+Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
+Tpsrmtioutv@{ shape: win-pane, label: "_Published Jan 20, 2025, 05:54 AM_
+Trump promises harsh immigration limits on inauguration eve" }
+TttSecaaxhue@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:40 AM_
+Trump threatens us trade policy of ‘tariff and tax’ on other countries" }
+Iermncnktngoe@{ shape: win-pane, label: "_Published Aug 27, 2025, 06:38 AM_
+Inside ice, trump’s migrant crackdown is taking a toll on the agency officers" }
+Iasccsidate@{ shape: win-pane, label: "_Published Jun 11, 2025, 06:23 AM_
+Ice’s tactics draw criticism as it triples daily arrest targets" }
+Usorateeele@{ shape: win-pane, label: "_Published Dec 05, 2025, 07:20 AM_
+Us slashes work permit validity time for refugees, asylum seekers" }
+Uslgolirnpoi@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:35 AM_
+Us pauses all immigration applications from 19 non-european countries" }
+Wttragtlit@{ shape: win-pane, label: "_Published Dec 03, 2025, 07:40 AM_
+‘we don’t want them’: trump rages against somali immigrants" }
+AaamapiuHnpiee@{ shape: win-pane, label: "_Published Dec 03, 2025, 08:20 AM_
+Australia’s anti-immigration populist pauline hanson eyes political resurgence" }
+Unhscaarowei@{ shape: win-pane, label: "_Published Nov 27, 2025, 11:52 PM_
+Us plans to charge suspect in national guard shooting with terrorism" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+Foosrdcaardnho@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:08 PM_
+Fbi probes motives in ‘targeted’ attack on national guard soldiers near white house" }
 
-TnCrdroaiuy:::txtsize --> Tperoneisioh:::txtsize
-Tperoneisioh:::txtsize --> Tosifanidofia:::txtsize
-Tosifanidofia:::txtsize --> Ueurairede:::txtsize
-Tosifanidofia:::txtsize --> WHltsahlfenstcp:::txtsize
-Tperoneisioh:::txtsize --> TteeaohotvKdt:::txtsize
-TteeaohotvKdt:::txtsize --> TseoBsrln:::txtsize
-TteeaohotvKdt:::txtsize --> Tseanccroytne:::txtsize
-TnCrdroaiuy:::txtsize --> Jasplpcrdo:::txtsize
-Jasplpcrdo:::txtsize --> WHEilowboudioo:::txtsize
-WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
-WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
-Jasplpcrdo:::txtsize --> Tstatoslmeiuy:::txtsize
-Tstatoslmeiuy:::txtsize --> WHgcdhmsaaok:::txtsize
+DtnsUrtruapein:::txtsize --> Irnipiditoayprol:::txtsize
+Irnipiditoayprol:::txtsize --> TdragnfitirsPd:::txtsize
+TdragnfitirsPd:::txtsize --> Tpsrmtioutv:::txtsize
+TdragnfitirsPd:::txtsize --> TttSecaaxhue:::txtsize
+Irnipiditoayprol:::txtsize --> Iermncnktngoe:::txtsize
+Iermncnktngoe:::txtsize --> Iasccsidate:::txtsize
+DtnsUrtruapein:::txtsize --> Usorateeele:::txtsize
+Usorateeele:::txtsize --> Uslgolirnpoi:::txtsize
+Uslgolirnpoi:::txtsize --> Wttragtlit:::txtsize
+Uslgolirnpoi:::txtsize --> AaamapiuHnpiee:::txtsize
+Usorateeele:::txtsize --> Unhscaarowei:::txtsize
+Unhscaarowei:::txtsize --> Nnalsiydttteiu:::txtsize
+Unhscaarowei:::txtsize --> Foosrdcaardnho:::txtsize
 
-UstesieBsioseorig@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:20 AM_
-Us cops identify new person of interest in brown shooting, probe possible tie to mit prof’s killing" }
-PeanayteireBsi@{ shape: win-pane, label: "_Published Dec 15, 2025, 07:00 AM_
-Police release man and say they are still searching for suspect in brown shooting" }
-Wsebiaasoiiogair@{ shape: win-pane, label: "_Published Dec 14, 2025, 09:40 AM_
-Witnesses describe anxious campus as news of brown university shooting spread, police arrived" }
-Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
-Police hold person of interest after brown university shooting left 2 dead" }
-Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
-Police hold person of interest after brown university shooting left 2 dead" }
-BUrrnmtette@{ shape: win-pane, label: "_Published Dec 15, 2025, 06:30 AM_
-Brown university, reeling from shooting, sends students home" }
-Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
-Police hold person of interest after brown university shooting left 2 dead" }
-Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
-Police hold person of interest after brown university shooting left 2 dead" }
-RnTisohso@{ shape: win-pane, label: "_Published Dec 18, 2025, 04:17 PM_
-Renowned mit physicist shot to death in boston home" }
-BUrgndyeoahou@{ shape: win-pane, label: "_Published Dec 18, 2025, 06:55 AM_
-Brown university gunman ‘could be anywhere’, say police as manhunt continues" }
-Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
-Police hold person of interest after brown university shooting left 2 dead" }
-PeanayteireBsi@{ shape: win-pane, label: "_Published Dec 15, 2025, 07:00 AM_
-Police release man and say they are still searching for suspect in brown shooting" }
+Wnuouotiumtrody@{ shape: win-pane, label: "_Published Dec 19, 2025, 11:31 AM_
+Wisconsin judge found guilty of obstructing trump immigration crackdown, media says" }
+TaitismonAcfzi@{ shape: win-pane, label: "_Published Dec 18, 2025, 09:55 AM_
+Trump administration aims to strip more foreign-born americans of citizenship" }
+Taeoicniuaat@{ shape: win-pane, label: "_Published Dec 17, 2025, 05:35 AM_
+Trump adds seven countries, including syria, to full travel ban list" }
+Ttlncifasem@{ shape: win-pane, label: "_Published Jun 09, 2025, 02:45 PM_
+Trump travel ban in effect, citizens from 12 nations barred from us" }
+Ueaaoansletry@{ shape: win-pane, label: "_Published Dec 05, 2025, 10:11 AM_
+Us widens travel ban to more than 30 countries, homeland security secretary says" }
 
-UstesieBsioseorig:::txtsize --> PeanayteireBsi:::txtsize
-PeanayteireBsi:::txtsize --> Wsebiaasoiiogair:::txtsize
-Wsebiaasoiiogair:::txtsize --> Pepnttrneytea:::txtsize
-Wsebiaasoiiogair:::txtsize --> Pepnttrneytea:::txtsize
-PeanayteireBsi:::txtsize --> BUrrnmtette:::txtsize
-BUrrnmtette:::txtsize --> Pepnttrneytea:::txtsize
-BUrrnmtette:::txtsize --> Pepnttrneytea:::txtsize
-UstesieBsioseorig:::txtsize --> RnTisohso:::txtsize
-RnTisohso:::txtsize --> BUrgndyeoahou:::txtsize
-BUrgndyeoahou:::txtsize --> Pepnttrneytea:::txtsize
-BUrgndyeoahou:::txtsize --> PeanayteireBsi:::txtsize
+Wnuouotiumtrody:::txtsize --> TaitismonAcfzi:::txtsize
+TaitismonAcfzi:::txtsize --> Taeoicniuaat:::txtsize
+Taeoicniuaat:::txtsize --> Ttlncifasem:::txtsize
+Taeoicniuaat:::txtsize --> Ueaaoansletry:::txtsize
 
-Dreenemfpnt@{ shape: win-pane, label: "_Published Dec 19, 2025, 06:35 AM_
-Democrats release dozens more new images from epstein estate" }
-Ugoloteddde@{ shape: win-pane, label: "_Published Dec 09, 2025, 10:52 PM_
-Us judge allows release of epstein-related grand jury documents" }
-Gaalrspndtcmrc@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:10 AM_
-Ghislaine maxwell says release of epstein grand jury transcript may harm her case" }
-Uanuewhspnaldmi@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:25 AM_
-Us department of justice renews push to unseal epstein and maxwell grand jury materials" }
-TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
-Trump signs bill ordering us justice department to release epstein files" }
-Uanuewhspnaldmi@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:25 AM_
-Us department of justice renews push to unseal epstein and maxwell grand jury materials" }
-ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
-After trump reversal, us house pushes forward on epstein vote" }
-JetructaaSes@{ shape: win-pane, label: "_Published Aug 21, 2025, 02:17 AM_
-Jeffrey epstein grand jury records to remain sealed, us judge rules" }
-Dreeopnosal@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:20 AM_
-Democrats release photos of epstein’s notorious private island" }
-TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
-Trump signs bill ordering us justice department to release epstein files" }
-Ugpsufrspnsitm@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:23 AM_
-Us congress passes measure to force release of epstein files, sending it to trump" }
-Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
-Epstein files to be released to us public: what are they?" }
-Gaalrspndtcmrc@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:10 AM_
-Ghislaine maxwell says release of epstein grand jury transcript may harm her case" }
-Uanuewhspnaldmi@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:25 AM_
-Us department of justice renews push to unseal epstein and maxwell grand jury materials" }
-TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
-Trump signs bill ordering us justice department to release epstein files" }
+Tthgenepot@{ shape: win-pane, label: "_Published Dec 19, 2025, 11:18 AM_
+The ritual shaming of the woman at the coldplay concert" }
+Wctbnpimetobuvmt@{ shape: win-pane, label: "_Published Sep 10, 2025, 03:22 PM_
+Woman caught with boss on coldplay ‘kiss cam’ was separated from husband during viral moment" }
+AnCoaeabi@{ shape: win-pane, label: "_Published Jul 23, 2025, 07:00 PM_
+Astronomer ceo’s coldplay moment is a textbook fiasco" }
+Toynrlslauialifoac@{ shape: win-pane, label: "_Published Jul 18, 2025, 11:15 AM_
+Tech company ceo andy byron deletes social media account amid affair allegations after coldplay concert" }
+UvdAnhCMnwhrtrppn@{ shape: win-pane, label: "_Published Jul 26, 2025, 05:35 PM_
+‘uno reversed this’: astronomer hires chris martin’s ex gwyneth paltrow as ‘temporary spokesperson’" }
+Toynrlslauialifoac@{ shape: win-pane, label: "_Published Jul 18, 2025, 11:15 AM_
+Tech company ceo andy byron deletes social media account amid affair allegations after coldplay concert" }
+AnsisavClsv@{ shape: win-pane, label: "_Published Jul 25, 2025, 08:44 AM_
+Astronomer’s hr chief resigns after viral coldplay ‘kiss cam’ video" }
 
-Dreenemfpnt:::txtsize --> Ugoloteddde:::txtsize
-Ugoloteddde:::txtsize --> Gaalrspndtcmrc:::txtsize
-Gaalrspndtcmrc:::txtsize --> Uanuewhspnaldmi:::txtsize
-Gaalrspndtcmrc:::txtsize --> TsBrnuertlEie:::txtsize
-Ugoloteddde:::txtsize --> Uanuewhspnaldmi:::txtsize
-Uanuewhspnaldmi:::txtsize --> ATrsHpsaEie:::txtsize
-Uanuewhspnaldmi:::txtsize --> JetructaaSes:::txtsize
-Dreenemfpnt:::txtsize --> Dreeopnosal:::txtsize
-Dreeopnosal:::txtsize --> TsBrnuertlEie:::txtsize
-TsBrnuertlEie:::txtsize --> Ugpsufrspnsitm:::txtsize
-TsBrnuertlEie:::txtsize --> Eieeaobhe:::txtsize
-Dreeopnosal:::txtsize --> Gaalrspndtcmrc:::txtsize
-Gaalrspndtcmrc:::txtsize --> Uanuewhspnaldmi:::txtsize
-Gaalrspndtcmrc:::txtsize --> TsBrnuertlEie:::txtsize
+Tthgenepot:::txtsize --> Wctbnpimetobuvmt:::txtsize
+Wctbnpimetobuvmt:::txtsize --> AnCoaeabi:::txtsize
+AnCoaeabi:::txtsize --> Toynrlslauialifoac:::txtsize
+Wctbnpimetobuvmt:::txtsize --> UvdAnhCMnwhrtrppn:::txtsize
+UvdAnhCMnwhrtrppn:::txtsize --> Toynrlslauialifoac:::txtsize
+UvdAnhCMnwhrtrppn:::txtsize --> AnsisavClsv:::txtsize
 
 ```
-<i>Last updated: 2025-12-19 08:01:00.744931 (GMT+8)</i>
+<i>Last updated: 2025-12-19 12:00:23.451526 (GMT+8)</i>
 <!-- END -->
