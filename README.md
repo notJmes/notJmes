@@ -16,87 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-DtnsUrtruapein@{ shape: win-pane, label: "_Published Dec 19, 2025, 11:50 AM_
-Deportation fears spur us migrants to entrust guardianship of their children" }
-Irnipiditoayprol@{ shape: win-pane, label: "_Published Dec 11, 2025, 07:28 PM_
-Ice threatens family separation, indefinite detention to satisfy trump deportation goal" }
-TdragnfitirsPd@{ shape: win-pane, label: "_Published Jan 21, 2025, 01:02 AM_
-Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
-Tpsrmtioutv@{ shape: win-pane, label: "_Published Jan 20, 2025, 05:54 AM_
-Trump promises harsh immigration limits on inauguration eve" }
-TttSecaaxhue@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:40 AM_
-Trump threatens us trade policy of ‘tariff and tax’ on other countries" }
-Iermncnktngoe@{ shape: win-pane, label: "_Published Aug 27, 2025, 06:38 AM_
-Inside ice, trump’s migrant crackdown is taking a toll on the agency officers" }
-Iasccsidate@{ shape: win-pane, label: "_Published Jun 11, 2025, 06:23 AM_
-Ice’s tactics draw criticism as it triples daily arrest targets" }
-Usorateeele@{ shape: win-pane, label: "_Published Dec 05, 2025, 07:20 AM_
-Us slashes work permit validity time for refugees, asylum seekers" }
-Uslgolirnpoi@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:35 AM_
-Us pauses all immigration applications from 19 non-european countries" }
-Wttragtlit@{ shape: win-pane, label: "_Published Dec 03, 2025, 07:40 AM_
-‘we don’t want them’: trump rages against somali immigrants" }
-AaamapiuHnpiee@{ shape: win-pane, label: "_Published Dec 03, 2025, 08:20 AM_
-Australia’s anti-immigration populist pauline hanson eyes political resurgence" }
-Unhscaarowei@{ shape: win-pane, label: "_Published Nov 27, 2025, 11:52 PM_
-Us plans to charge suspect in national guard shooting with terrorism" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-Foosrdcaardnho@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:08 PM_
-Fbi probes motives in ‘targeted’ attack on national guard soldiers near white house" }
+Uenhdtmtns@{ shape: win-pane, label: "_Published Dec 19, 2025, 03:42 PM_
+Uk government was hacked in october, minister confirms" }
+Mreepotss@{ shape: win-pane, label: "_Published Dec 19, 2025, 02:39 PM_
+Mystery video stream appears on white house website" }
+TnCrdsdpsdnk@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:34 AM_
+The kennedy center board votes to add ‘trump’ to its name, drawing backlash" }
+TteeaohotvKdt@{ shape: win-pane, label: "_Published Feb 08, 2025, 09:30 AM_
+Trump to make himself head of top washington cultural venue kennedy centre" }
+Tperoneisioh@{ shape: win-pane, label: "_Published Mar 18, 2025, 12:15 PM_
+Trump pledges overhaul of kennedy centre in first visit as board chair" }
+NKsbynrs@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:16 PM_
+North korea stole $2.57b of crypto in 2025, report says" }
+NKbdiyhaI@{ shape: win-pane, label: "_Published Feb 27, 2025, 02:30 PM_
+North korea behind $2 billion crypto theft, says fbi" }
+Iiplrnseinne@{ shape: win-pane, label: "_Published Feb 10, 2025, 10:00 PM_
+Illicit crypto volume drops in 2024, but use in terrorist financing up: report" }
+NKleinoricUe@{ shape: win-pane, label: "_Published May 15, 2024, 04:27 AM_
+North korea laundered $199 million in stolen crypto in march, say un experts" }
+NKucortgaop@{ shape: win-pane, label: "_Published Oct 25, 2025, 12:38 PM_
+North korea using crypto, it workers to dodge un sanctions: report" }
+NKneetofda@{ shape: win-pane, label: "_Published Sep 15, 2025, 09:40 AM_
+North korean hackers used chatgpt to help forge deepfake id" }
+Jemecmemtsbil@{ shape: win-pane, label: "_Published Oct 23, 2025, 11:30 AM_
+Japanese companies brace themselves for more attacks as cybercrimes climb" }
 
-DtnsUrtruapein:::txtsize --> Irnipiditoayprol:::txtsize
-Irnipiditoayprol:::txtsize --> TdragnfitirsPd:::txtsize
-TdragnfitirsPd:::txtsize --> Tpsrmtioutv:::txtsize
-TdragnfitirsPd:::txtsize --> TttSecaaxhue:::txtsize
-Irnipiditoayprol:::txtsize --> Iermncnktngoe:::txtsize
-Iermncnktngoe:::txtsize --> Iasccsidate:::txtsize
-DtnsUrtruapein:::txtsize --> Usorateeele:::txtsize
-Usorateeele:::txtsize --> Uslgolirnpoi:::txtsize
-Uslgolirnpoi:::txtsize --> Wttragtlit:::txtsize
-Uslgolirnpoi:::txtsize --> AaamapiuHnpiee:::txtsize
-Usorateeele:::txtsize --> Unhscaarowei:::txtsize
-Unhscaarowei:::txtsize --> Nnalsiydttteiu:::txtsize
-Unhscaarowei:::txtsize --> Foosrdcaardnho:::txtsize
+Uenhdtmtns:::txtsize --> Mreepotss:::txtsize
+Mreepotss:::txtsize --> TnCrdsdpsdnk:::txtsize
+TnCrdsdpsdnk:::txtsize --> TteeaohotvKdt:::txtsize
+TnCrdsdpsdnk:::txtsize --> Tperoneisioh:::txtsize
+Uenhdtmtns:::txtsize --> NKsbynrs:::txtsize
+NKsbynrs:::txtsize --> NKbdiyhaI:::txtsize
+NKbdiyhaI:::txtsize --> Iiplrnseinne:::txtsize
+NKbdiyhaI:::txtsize --> NKleinoricUe:::txtsize
+NKsbynrs:::txtsize --> NKucortgaop:::txtsize
+NKucortgaop:::txtsize --> NKneetofda:::txtsize
+NKucortgaop:::txtsize --> Jemecmemtsbil:::txtsize
 
-Wnuouotiumtrody@{ shape: win-pane, label: "_Published Dec 19, 2025, 11:31 AM_
-Wisconsin judge found guilty of obstructing trump immigration crackdown, media says" }
-TaitismonAcfzi@{ shape: win-pane, label: "_Published Dec 18, 2025, 09:55 AM_
-Trump administration aims to strip more foreign-born americans of citizenship" }
-Taeoicniuaat@{ shape: win-pane, label: "_Published Dec 17, 2025, 05:35 AM_
-Trump adds seven countries, including syria, to full travel ban list" }
-Ttlncifasem@{ shape: win-pane, label: "_Published Jun 09, 2025, 02:45 PM_
-Trump travel ban in effect, citizens from 12 nations barred from us" }
-Ueaaoansletry@{ shape: win-pane, label: "_Published Dec 05, 2025, 10:11 AM_
-Us widens travel ban to more than 30 countries, homeland security secretary says" }
+Tsngcoyrnts@{ shape: win-pane, label: "_Published Dec 19, 2025, 03:11 PM_
+Trump suspends us green card lottery after brown, mit attacks" }
+Scuiwvtstoe@{ shape: win-pane, label: "_Published Dec 19, 2025, 10:43 AM_
+Suspected gunman in brown university mass shooting found dead" }
+RnTisohso@{ shape: win-pane, label: "_Published Dec 18, 2025, 04:17 PM_
+Renowned mit physicist shot to death in boston home" }
+BUrgndyeoahou@{ shape: win-pane, label: "_Published Dec 18, 2025, 06:55 AM_
+Brown university gunman ‘could be anywhere’, say police as manhunt continues" }
+Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
+Police hold person of interest after brown university shooting left 2 dead" }
+SiKcaiileecd@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:03 AM_
+Shooting at kentucky state university kills one, suspect in custody" }
+Asdndrtaspii@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:58 PM_
+At least 1 dead and 3 injured after shootings at mississippi universities" }
+Wunceoi@{ shape: win-pane, label: "_Published Sep 21, 2025, 08:40 AM_
+Why trump wants to charge us$100k for h-1b visas" }
+UHaityigeiuy@{ shape: win-pane, label: "_Published Sep 21, 2025, 01:51 AM_
+Us’ new h-1b visa fee will not apply to existing holders, white house says" }
+TtoeBealt@{ shape: win-pane, label: "_Published Sep 20, 2025, 04:36 AM_
+Trump to impose $130,000 fee for h-1b worker visas in blow to tech" }
+Wuniiidv@{ shape: win-pane, label: "_Published Sep 20, 2025, 12:10 PM_
+Why trump’s inner circle is so divided on h-1b visas" }
+TseBshsainsa@{ shape: win-pane, label: "_Published Sep 20, 2025, 11:33 PM_
+Trump’s us$100,000 fee for h-1b visas, a tech industry favourite, concerns india" }
+TtoeBealt@{ shape: win-pane, label: "_Published Sep 20, 2025, 04:36 AM_
+Trump to impose $130,000 fee for h-1b worker visas in blow to tech" }
+Tsiesuaa@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:08 AM_
+Trump’s us$100k visa fee spurs confusion and chaos" }
 
-Wnuouotiumtrody:::txtsize --> TaitismonAcfzi:::txtsize
-TaitismonAcfzi:::txtsize --> Taeoicniuaat:::txtsize
-Taeoicniuaat:::txtsize --> Ttlncifasem:::txtsize
-Taeoicniuaat:::txtsize --> Ueaaoansletry:::txtsize
+Tsngcoyrnts:::txtsize --> Scuiwvtstoe:::txtsize
+Scuiwvtstoe:::txtsize --> RnTisohso:::txtsize
+RnTisohso:::txtsize --> BUrgndyeoahou:::txtsize
+Scuiwvtstoe:::txtsize --> Pepnttrneytea:::txtsize
+Pepnttrneytea:::txtsize --> SiKcaiileecd:::txtsize
+Pepnttrneytea:::txtsize --> Asdndrtaspii:::txtsize
+Tsngcoyrnts:::txtsize --> Wunceoi:::txtsize
+Wunceoi:::txtsize --> UHaityigeiuy:::txtsize
+UHaityigeiuy:::txtsize --> TtoeBealt:::txtsize
+UHaityigeiuy:::txtsize --> Wuniiidv:::txtsize
+Wunceoi:::txtsize --> TseBshsainsa:::txtsize
+TseBshsainsa:::txtsize --> TtoeBealt:::txtsize
+TseBshsainsa:::txtsize --> Tsiesuaa:::txtsize
 
-Tthgenepot@{ shape: win-pane, label: "_Published Dec 19, 2025, 11:18 AM_
-The ritual shaming of the woman at the coldplay concert" }
-Wctbnpimetobuvmt@{ shape: win-pane, label: "_Published Sep 10, 2025, 03:22 PM_
-Woman caught with boss on coldplay ‘kiss cam’ was separated from husband during viral moment" }
-AnCoaeabi@{ shape: win-pane, label: "_Published Jul 23, 2025, 07:00 PM_
-Astronomer ceo’s coldplay moment is a textbook fiasco" }
-Toynrlslauialifoac@{ shape: win-pane, label: "_Published Jul 18, 2025, 11:15 AM_
-Tech company ceo andy byron deletes social media account amid affair allegations after coldplay concert" }
-UvdAnhCMnwhrtrppn@{ shape: win-pane, label: "_Published Jul 26, 2025, 05:35 PM_
-‘uno reversed this’: astronomer hires chris martin’s ex gwyneth paltrow as ‘temporary spokesperson’" }
-Toynrlslauialifoac@{ shape: win-pane, label: "_Published Jul 18, 2025, 11:15 AM_
-Tech company ceo andy byron deletes social media account amid affair allegations after coldplay concert" }
-AnsisavClsv@{ shape: win-pane, label: "_Published Jul 25, 2025, 08:44 AM_
-Astronomer’s hr chief resigns after viral coldplay ‘kiss cam’ video" }
+Naeeotgaha@{ shape: win-pane, label: "_Published Dec 19, 2025, 03:01 PM_
+Nato lacks resilience to fight a long war, naval chief warns" }
+Nhaltrser@{ shape: win-pane, label: "_Published Dec 11, 2025, 09:18 PM_
+Nato chief warns allies they are russia’s next target" }
+Eeadsaiuccmoc@{ shape: win-pane, label: "_Published Dec 11, 2025, 01:32 AM_
+European leaders discuss ukraine with trump at ‘critical moment’ for peace" }
+Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
+Us peace plan for ukraine drew from russian document, sources say" }
+UnhedewScna@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:20 PM_
+Ukraine to share revised peace plan with us on dec 9, zelensky says" }
+Rastfnlnai@{ shape: win-pane, label: "_Published Sep 26, 2025, 06:33 AM_
+Russia accuses nato, eu of waging ‘real war’ on it via ukraine" }
+BiuwKablke@{ shape: win-pane, label: "_Published Sep 24, 2025, 03:22 AM_
+‘big shift’: trump now says kyiv can win back ‘all of ukraine’" }
+TPdtsUncamre@{ shape: win-pane, label: "_Published Aug 16, 2025, 03:43 AM_
+Trump-putin direct talks over ukraine conclude as summit stretches on" }
+Unlyphaiogh@{ shape: win-pane, label: "_Published Mar 01, 2025, 01:48 AM_
+Ukraine’s zelensky, trump clash in oval office shouting match" }
+Raiureetntotseni@{ shape: win-pane, label: "_Published Sep 25, 2025, 05:52 PM_
+Russia says it assumes trump, despite shift in tone, is still committed to seek peace in ukraine" }
+Trrhrusni@{ shape: win-pane, label: "_Published Aug 12, 2025, 08:35 AM_
+The territory at the heart of russia’s war in ukraine" }
+Wiokepeisse@{ shape: win-pane, label: "_Published Sep 25, 2025, 10:31 AM_
+With his pivot on ukraine, trump may be washing his hands of the war" }
 
-Tthgenepot:::txtsize --> Wctbnpimetobuvmt:::txtsize
-Wctbnpimetobuvmt:::txtsize --> AnCoaeabi:::txtsize
-AnCoaeabi:::txtsize --> Toynrlslauialifoac:::txtsize
-Wctbnpimetobuvmt:::txtsize --> UvdAnhCMnwhrtrppn:::txtsize
-UvdAnhCMnwhrtrppn:::txtsize --> Toynrlslauialifoac:::txtsize
-UvdAnhCMnwhrtrppn:::txtsize --> AnsisavClsv:::txtsize
+Naeeotgaha:::txtsize --> Nhaltrser:::txtsize
+Nhaltrser:::txtsize --> Eeadsaiuccmoc:::txtsize
+Eeadsaiuccmoc:::txtsize --> Ucnkefunmos:::txtsize
+Eeadsaiuccmoc:::txtsize --> UnhedewScna:::txtsize
+Naeeotgaha:::txtsize --> Rastfnlnai:::txtsize
+Rastfnlnai:::txtsize --> BiuwKablke:::txtsize
+BiuwKablke:::txtsize --> TPdtsUncamre:::txtsize
+BiuwKablke:::txtsize --> Unlyphaiogh:::txtsize
+Rastfnlnai:::txtsize --> Raiureetntotseni:::txtsize
+Raiureetntotseni:::txtsize --> Trrhrusni:::txtsize
+Raiureetntotseni:::txtsize --> Wiokepeisse:::txtsize
 
 ```
-<i>Last updated: 2025-12-19 12:00:23.451526 (GMT+8)</i>
+<i>Last updated: 2025-12-19 16:00:50.516238 (GMT+8)</i>
 <!-- END -->
