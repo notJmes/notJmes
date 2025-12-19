@@ -16,120 +16,132 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-PobAdrBehUaeo@{ shape: win-pane, label: "_Published Dec 19, 2025, 03:49 AM_
-Plane owned by ex-nascar driver greg biffle crashes in us; fatalities reported" }
-Ctnddrneret@{ shape: win-pane, label: "_Published Oct 09, 2024, 04:30 PM_
-Climate change made deadly hurricane helene more intense: study" }
-Eawoenreollasrcr@{ shape: win-pane, label: "_Published Oct 09, 2024, 12:59 AM_
-‘evacuate now, now, now’: biden warns hurricane milton could be florida’s worst storm in a century" }
-UisgohiHepyr@{ shape: win-pane, label: "_Published Oct 05, 2024, 07:06 PM_
-Us officials struggle to quash hurricane helene conspiracy theories" }
-IwfiHepsosiid@{ shape: win-pane, label: "_Published Oct 02, 2024, 08:00 AM_
-In the wake of hurricane helene, trump seeks to boost his presidential bid" }
-BeepoeeroiHce@{ shape: win-pane, label: "_Published Oct 05, 2024, 01:11 AM_
-By mule and helicopter, volunteers deliver aid to victims of hurricane helene" }
-BHsHesoopd@{ shape: win-pane, label: "_Published Oct 03, 2024, 03:44 AM_
-Biden, harris view helene devastation, 1,000 troops deployed" }
-Wslnorfastremn@{ shape: win-pane, label: "_Published Oct 04, 2024, 05:41 AM_
-Will asheville’s once-booming riverfront art district ever recover from helene?" }
-LrniircrhkdeCw@{ shape: win-pane, label: "_Published Dec 16, 2025, 09:04 PM_
-Leonardo denies liability for 2018 helicopter crash that killed leicester city owner" }
-HoctiLswaiaui@{ shape: win-pane, label: "_Published Jan 29, 2025, 02:43 AM_
-Helicopter crash that killed leicester owner was accidental, inquest finds" }
-Tyslirltkeacrc@{ shape: win-pane, label: "_Published Jan 11, 2025, 02:12 AM_
-Thai tycoon’s family claims $2.7b from helicopter maker over fatal leicester city crash" }
+TnCrdroaiuy@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:34 AM_
+The kennedy center is adding ‘trump’ to its name, white house says" }
+Tperoneisioh@{ shape: win-pane, label: "_Published Mar 18, 2025, 12:15 PM_
+Trump pledges overhaul of kennedy centre in first visit as board chair" }
+Tosifanidofia@{ shape: win-pane, label: "_Published Mar 15, 2025, 02:30 PM_
+Trump orders gutting of 7 federal agencies, including voice of america’s parent" }
+Ueurairede@{ shape: win-pane, label: "_Published Mar 14, 2025, 03:36 AM_
+Us federal judge orders agencies to rehire fired workers" }
+WHltsahlfenstcp@{ shape: win-pane, label: "_Published Mar 14, 2025, 06:31 PM_
+White house looks to press ahead with mass layoffs after agencies submit reduction plans" }
+TteeaohotvKdt@{ shape: win-pane, label: "_Published Feb 08, 2025, 09:30 AM_
+Trump to make himself head of top washington cultural venue kennedy centre" }
+TseoBsrln@{ shape: win-pane, label: "_Published Feb 08, 2025, 08:39 AM_
+Trump says he’s revoking biden’s security clearance" }
+Tseanccroytne@{ shape: win-pane, label: "_Published Feb 08, 2025, 01:34 AM_
+Trump says he will announce reciprocal tariffs on many countries next week" }
+Jasplpcrdo@{ shape: win-pane, label: "_Published Dec 18, 2025, 07:59 AM_
+Judge allows trump’s ballroom project to proceed for now" }
+WHEilowboudioo@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:39 AM_
+White house east wing will be torn down for ballroom, trump had promised not to do so" }
+Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
+‘music to my ears’: trump brushes off critics of white house demolition" }
+Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
+‘music to my ears’: trump brushes off critics of white house demolition" }
+Tstatoslmeiuy@{ shape: win-pane, label: "_Published Dec 05, 2025, 07:00 AM_
+Trump selects new architect to oversee ballroom project, white house says" }
+WHgcdhmsaaok@{ shape: win-pane, label: "_Published Dec 02, 2025, 08:45 AM_
+White house gets scaled-down christmas display amid ballroom work" }
 
-PobAdrBehUaeo:::txtsize --> Ctnddrneret:::txtsize
-Ctnddrneret:::txtsize --> Eawoenreollasrcr:::txtsize
-Eawoenreollasrcr:::txtsize --> UisgohiHepyr:::txtsize
-Eawoenreollasrcr:::txtsize --> IwfiHepsosiid:::txtsize
-Ctnddrneret:::txtsize --> BeepoeeroiHce:::txtsize
-BeepoeeroiHce:::txtsize --> BHsHesoopd:::txtsize
-BeepoeeroiHce:::txtsize --> Wslnorfastremn:::txtsize
-PobAdrBehUaeo:::txtsize --> LrniircrhkdeCw:::txtsize
-LrniircrhkdeCw:::txtsize --> HoctiLswaiaui:::txtsize
-HoctiLswaiaui:::txtsize --> Tyslirltkeacrc:::txtsize
+TnCrdroaiuy:::txtsize --> Tperoneisioh:::txtsize
+Tperoneisioh:::txtsize --> Tosifanidofia:::txtsize
+Tosifanidofia:::txtsize --> Ueurairede:::txtsize
+Tosifanidofia:::txtsize --> WHltsahlfenstcp:::txtsize
+Tperoneisioh:::txtsize --> TteeaohotvKdt:::txtsize
+TteeaohotvKdt:::txtsize --> TseoBsrln:::txtsize
+TteeaohotvKdt:::txtsize --> Tseanccroytne:::txtsize
+TnCrdroaiuy:::txtsize --> Jasplpcrdo:::txtsize
+Jasplpcrdo:::txtsize --> WHEilowboudioo:::txtsize
+WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
+WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
+Jasplpcrdo:::txtsize --> Tstatoslmeiuy:::txtsize
+Tstatoslmeiuy:::txtsize --> WHgcdhmsaaok:::txtsize
 
-Biocrohirssre@{ shape: win-pane, label: "_Published Dec 19, 2025, 02:36 AM_
-Britain appoints career diplomat christian turner as ambassador to the us" }
-Bikdnasopns@{ shape: win-pane, label: "_Published Sep 11, 2025, 06:03 PM_
-Britain sacks mandelson as us ambassador over epstein links" }
-Tsgrytteeoa@{ shape: win-pane, label: "_Published Sep 09, 2025, 04:23 AM_
-Trump’s alleged birthday note to epstein released by house panel" }
-VmeeJetoisear@{ shape: win-pane, label: "_Published Sep 04, 2025, 02:07 AM_
-Victims of sex offender jeffrey epstein compiling list of sexual abusers" }
-WodoumtnMov@{ shape: win-pane, label: "_Published Jul 19, 2025, 06:16 AM_
-What you need to know about trump, epstein and the maga controversy" }
-Nstrgehnslr@{ shape: win-pane, label: "_Published Sep 10, 2025, 09:00 AM_
-‘not my signature’: trump again denies he penned epstein letter" }
-Tsgrytteeoa@{ shape: win-pane, label: "_Published Sep 09, 2025, 04:23 AM_
-Trump’s alleged birthday note to epstein released by house panel" }
-WHstdorcyfgugrpne@{ shape: win-pane, label: "_Published Sep 10, 2025, 06:12 AM_
-White house says it would support forensic analysis of alleged trump signature on epstein letter" }
-Uspnoinnywrn@{ shape: win-pane, label: "_Published Dec 16, 2025, 08:04 PM_
-Us pauses implementation of $51.6 billion technology deal with britain" }
-Tstsnst@{ shape: win-pane, label: "_Published Sep 18, 2025, 10:10 PM_
-Trump’s visit lands uk $261b in investments" }
-Tanrget@{ shape: win-pane, label: "_Published May 08, 2025, 07:50 PM_
-Trump announces trade agreement with uk" }
-Thsaasiaeipscet@{ shape: win-pane, label: "_Published Sep 18, 2025, 06:01 AM_
-Trump hails special relationship with uk as he revels in pomp of historic state visit" }
-Taahrhhod@{ shape: win-pane, label: "_Published May 08, 2025, 11:50 PM_
-Trump and starmer hail ‘breakthrough’ deal on trade" }
-Tsiepleainl@{ shape: win-pane, label: "_Published Mar 17, 2025, 01:39 PM_
-Trump set to impose reciprocal and sectoral tariffs on april 2" }
-Cabdmditndk@{ shape: win-pane, label: "_Published May 07, 2025, 08:50 PM_
-China and us begin diplomatic dance in restarting trade talks" }
+UstesieBsioseorig@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:20 AM_
+Us cops identify new person of interest in brown shooting, probe possible tie to mit prof’s killing" }
+PeanayteireBsi@{ shape: win-pane, label: "_Published Dec 15, 2025, 07:00 AM_
+Police release man and say they are still searching for suspect in brown shooting" }
+Wsebiaasoiiogair@{ shape: win-pane, label: "_Published Dec 14, 2025, 09:40 AM_
+Witnesses describe anxious campus as news of brown university shooting spread, police arrived" }
+Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
+Police hold person of interest after brown university shooting left 2 dead" }
+Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
+Police hold person of interest after brown university shooting left 2 dead" }
+BUrrnmtette@{ shape: win-pane, label: "_Published Dec 15, 2025, 06:30 AM_
+Brown university, reeling from shooting, sends students home" }
+Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
+Police hold person of interest after brown university shooting left 2 dead" }
+Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
+Police hold person of interest after brown university shooting left 2 dead" }
+RnTisohso@{ shape: win-pane, label: "_Published Dec 18, 2025, 04:17 PM_
+Renowned mit physicist shot to death in boston home" }
+BUrgndyeoahou@{ shape: win-pane, label: "_Published Dec 18, 2025, 06:55 AM_
+Brown university gunman ‘could be anywhere’, say police as manhunt continues" }
+Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
+Police hold person of interest after brown university shooting left 2 dead" }
+PeanayteireBsi@{ shape: win-pane, label: "_Published Dec 15, 2025, 07:00 AM_
+Police release man and say they are still searching for suspect in brown shooting" }
 
-Biocrohirssre:::txtsize --> Bikdnasopns:::txtsize
-Bikdnasopns:::txtsize --> Tsgrytteeoa:::txtsize
-Tsgrytteeoa:::txtsize --> VmeeJetoisear:::txtsize
-Tsgrytteeoa:::txtsize --> WodoumtnMov:::txtsize
-Bikdnasopns:::txtsize --> Nstrgehnslr:::txtsize
-Nstrgehnslr:::txtsize --> Tsgrytteeoa:::txtsize
-Nstrgehnslr:::txtsize --> WHstdorcyfgugrpne:::txtsize
-Biocrohirssre:::txtsize --> Uspnoinnywrn:::txtsize
-Uspnoinnywrn:::txtsize --> Tstsnst:::txtsize
-Tstsnst:::txtsize --> Tanrget:::txtsize
-Tstsnst:::txtsize --> Thsaasiaeipscet:::txtsize
-Uspnoinnywrn:::txtsize --> Taahrhhod:::txtsize
-Taahrhhod:::txtsize --> Tsiepleainl:::txtsize
-Taahrhhod:::txtsize --> Cabdmditndk:::txtsize
+UstesieBsioseorig:::txtsize --> PeanayteireBsi:::txtsize
+PeanayteireBsi:::txtsize --> Wsebiaasoiiogair:::txtsize
+Wsebiaasoiiogair:::txtsize --> Pepnttrneytea:::txtsize
+Wsebiaasoiiogair:::txtsize --> Pepnttrneytea:::txtsize
+PeanayteireBsi:::txtsize --> BUrrnmtette:::txtsize
+BUrrnmtette:::txtsize --> Pepnttrneytea:::txtsize
+BUrrnmtette:::txtsize --> Pepnttrneytea:::txtsize
+UstesieBsioseorig:::txtsize --> RnTisohso:::txtsize
+RnTisohso:::txtsize --> BUrgndyeoahou:::txtsize
+BUrgndyeoahou:::txtsize --> Pepnttrneytea:::txtsize
+BUrgndyeoahou:::txtsize --> PeanayteireBsi:::txtsize
 
-TaitmstomCg@{ shape: win-pane, label: "_Published Dec 19, 2025, 02:30 AM_
-Trump administration imposes sanctions on two more icc judges" }
-InnilteersssnGn@{ shape: win-pane, label: "_Published Nov 21, 2024, 08:23 PM_
-International criminal court issues arrest warrants for israel’s netanyahu, gallant" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-UesCcssrdoruu@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:17 PM_
-Us threatens new icc sanctions unless court pledges not to prosecute trump" }
-InnilteersssnGn@{ shape: win-pane, label: "_Published Nov 21, 2024, 08:23 PM_
-International criminal court issues arrest warrants for israel’s netanyahu, gallant" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-TaitmsaofCgot@{ shape: win-pane, label: "_Published Aug 20, 2025, 11:01 PM_
-Trump administration imposes new sanctions on four icc judges, prosecutors" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-IdeIluodearat@{ shape: win-pane, label: "_Published Jul 17, 2025, 12:20 AM_
-Icc judges reject israel’s request to withdraw netanyahu arrest warrant" }
+Dreenemfpnt@{ shape: win-pane, label: "_Published Dec 19, 2025, 06:35 AM_
+Democrats release dozens more new images from epstein estate" }
+Ugoloteddde@{ shape: win-pane, label: "_Published Dec 09, 2025, 10:52 PM_
+Us judge allows release of epstein-related grand jury documents" }
+Gaalrspndtcmrc@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:10 AM_
+Ghislaine maxwell says release of epstein grand jury transcript may harm her case" }
+Uanuewhspnaldmi@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:25 AM_
+Us department of justice renews push to unseal epstein and maxwell grand jury materials" }
+TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
+Trump signs bill ordering us justice department to release epstein files" }
+Uanuewhspnaldmi@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:25 AM_
+Us department of justice renews push to unseal epstein and maxwell grand jury materials" }
+ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
+After trump reversal, us house pushes forward on epstein vote" }
+JetructaaSes@{ shape: win-pane, label: "_Published Aug 21, 2025, 02:17 AM_
+Jeffrey epstein grand jury records to remain sealed, us judge rules" }
+Dreeopnosal@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:20 AM_
+Democrats release photos of epstein’s notorious private island" }
+TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
+Trump signs bill ordering us justice department to release epstein files" }
+Ugpsufrspnsitm@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:23 AM_
+Us congress passes measure to force release of epstein files, sending it to trump" }
+Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
+Epstein files to be released to us public: what are they?" }
+Gaalrspndtcmrc@{ shape: win-pane, label: "_Published Dec 04, 2025, 07:10 AM_
+Ghislaine maxwell says release of epstein grand jury transcript may harm her case" }
+Uanuewhspnaldmi@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:25 AM_
+Us department of justice renews push to unseal epstein and maxwell grand jury materials" }
+TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
+Trump signs bill ordering us justice department to release epstein files" }
 
-TaitmstomCg:::txtsize --> InnilteersssnGn:::txtsize
-InnilteersssnGn:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-TaitmstomCg:::txtsize --> UesCcssrdoruu:::txtsize
-UesCcssrdoruu:::txtsize --> InnilteersssnGn:::txtsize
-InnilteersssnGn:::txtsize --> Sbsrcdnacaale:::txtsize
-UesCcssrdoruu:::txtsize --> TaitmsaofCgot:::txtsize
-TaitmsaofCgot:::txtsize --> DsruasvUn:::txtsize
-TaitmsaofCgot:::txtsize --> IdeIluodearat:::txtsize
+Dreenemfpnt:::txtsize --> Ugoloteddde:::txtsize
+Ugoloteddde:::txtsize --> Gaalrspndtcmrc:::txtsize
+Gaalrspndtcmrc:::txtsize --> Uanuewhspnaldmi:::txtsize
+Gaalrspndtcmrc:::txtsize --> TsBrnuertlEie:::txtsize
+Ugoloteddde:::txtsize --> Uanuewhspnaldmi:::txtsize
+Uanuewhspnaldmi:::txtsize --> ATrsHpsaEie:::txtsize
+Uanuewhspnaldmi:::txtsize --> JetructaaSes:::txtsize
+Dreenemfpnt:::txtsize --> Dreeopnosal:::txtsize
+Dreeopnosal:::txtsize --> TsBrnuertlEie:::txtsize
+TsBrnuertlEie:::txtsize --> Ugpsufrspnsitm:::txtsize
+TsBrnuertlEie:::txtsize --> Eieeaobhe:::txtsize
+Dreeopnosal:::txtsize --> Gaalrspndtcmrc:::txtsize
+Gaalrspndtcmrc:::txtsize --> Uanuewhspnaldmi:::txtsize
+Gaalrspndtcmrc:::txtsize --> TsBrnuertlEie:::txtsize
 
 ```
-<i>Last updated: 2025-12-19 04:00:35.904542 (GMT+8)</i>
+<i>Last updated: 2025-12-19 08:01:00.744931 (GMT+8)</i>
 <!-- END -->
