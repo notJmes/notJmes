@@ -16,60 +16,68 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-OateaiaioaeW@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:05 PM_
-Over 1,000 patients have died awaiting evacuation from gaza since july 2024: who" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
-Singapore strongly condemns terror attacks on israel, calls for end to violence" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
-Singapore strongly condemns terror attacks on israel, calls for end to violence" }
+Fhtriearoein@{ shape: win-pane, label: "_Published Dec 19, 2025, 11:13 PM_
+French court orders shein to verify age for sex toy sales or risk fines" }
+Spdxtyreoaeda@{ shape: win-pane, label: "_Published Dec 02, 2025, 07:10 AM_
+Shein probed by texas attorney general over labour practices, product safety" }
+Erhvlhixsga@{ shape: win-pane, label: "_Published Nov 26, 2025, 08:05 PM_
+Eu queries shein over sale of childlike sex dolls, illegal weapons" }
+FessSoelwnairn@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:32 AM_
+France moves to suspend shein over sex dolls and weapons on day paris store opens" }
+PcHnethsninsee@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:55 PM_
+Paris court: hearing on request for shein’s suspension in france postponed to dec 5" }
+Festbieoiee@{ shape: win-pane, label: "_Published Nov 06, 2025, 04:48 PM_
+France calls on eu to probe shein, take action against retailer" }
+FessSoelwnairn@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:32 AM_
+France moves to suspend shein over sex dolls and weapons on day paris store opens" }
+Ssonarrtngus@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:01 PM_
+Shein store opening in paris draws protesters and bargain hunters" }
+Uuaaaoamdrostiuori@{ shape: win-pane, label: "_Published Dec 02, 2025, 07:05 AM_
+Us republican senator calls for doj and homeland security to investigate shein, temu for counterfeiting" }
+Emsrutesoeogflh@{ shape: win-pane, label: "_Published Nov 26, 2025, 10:35 PM_
+Eu lawmakers back resolution to make it easier to suspend shopping platforms like shein" }
+PcHnethsninsee@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:55 PM_
+Paris court: hearing on request for shein’s suspension in france postponed to dec 5" }
+PcHnethsninsee@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:55 PM_
+Paris court: hearing on request for shein’s suspension in france postponed to dec 5" }
+Apbheolfesst@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:50 PM_
+Aliexpress bans chinese sex doll seller after reuters investigation" }
+Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
+Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
+Fhdhesnhixs@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:32 AM_
+French fraud watchdog reports shein for ‘childlike’ sex dolls" }
 
-OateaiaioaeW:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-WzptIleint:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
-Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
-OateaiaioaeW:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-WzptIleint:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
-Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
+Fhtriearoein:::txtsize --> Spdxtyreoaeda:::txtsize
+Spdxtyreoaeda:::txtsize --> Erhvlhixsga:::txtsize
+Erhvlhixsga:::txtsize --> FessSoelwnairn:::txtsize
+Erhvlhixsga:::txtsize --> PcHnethsninsee:::txtsize
+Spdxtyreoaeda:::txtsize --> Festbieoiee:::txtsize
+Festbieoiee:::txtsize --> FessSoelwnairn:::txtsize
+Festbieoiee:::txtsize --> Ssonarrtngus:::txtsize
+Fhtriearoein:::txtsize --> Uuaaaoamdrostiuori:::txtsize
+Uuaaaoamdrostiuori:::txtsize --> Emsrutesoeogflh:::txtsize
+Emsrutesoeogflh:::txtsize --> PcHnethsninsee:::txtsize
+Emsrutesoeogflh:::txtsize --> PcHnethsninsee:::txtsize
+Uuaaaoamdrostiuori:::txtsize --> Apbheolfesst:::txtsize
+Apbheolfesst:::txtsize --> Sbelerncrdo:::txtsize
+Apbheolfesst:::txtsize --> Fhdhesnhixs:::txtsize
 
-PosmiUnsbfd@{ shape: win-pane, label: "_Published Dec 19, 2025, 06:53 PM_
-Putin offers no compromise on ukraine, says eu ‘robbery’ failed" }
-UnpOackeedsd@{ shape: win-pane, label: "_Published Dec 14, 2025, 07:24 PM_
-Ukraine drops nato goal as peace talks in berlin extend into second day" }
-Zsyamroohb@{ shape: win-pane, label: "_Published Dec 22, 2024, 09:14 PM_
-Zelensky says ukraine’s membership of nato is ‘achievable’" }
-Zsircuacpni@{ shape: win-pane, label: "_Published Dec 20, 2024, 08:40 AM_
-Zelensky raises prospect of european peacekeepers in ukraine" }
-Rasaerskomdmmo@{ shape: win-pane, label: "_Published Dec 20, 2024, 10:31 PM_
-Russian missile barrage on ukraine’s kyiv kills one, damages diplomatic missions" }
-Psuwalrsailiow@{ shape: win-pane, label: "_Published Dec 04, 2025, 04:55 PM_
-Putin says russia will take all of ukraine’s donbas region militarily or otherwise" }
-Feuiea@{ shape: win-pane, label: "_Published Feb 24, 2023, 05:54 PM_
-Feb 24, 2022: the day russia invaded ukraine" }
+HlEoUnkoount@{ shape: win-pane, label: "_Published Dec 19, 2025, 11:06 PM_
+How will the eu’s $136b loan to ukraine work without frozen russian assets?" }
+Eelloaitis@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:23 PM_
+Eu agrees $136 billion loan for ukraine, without russian assets" }
+TsegemnaSikke@{ shape: win-pane, label: "_Published Dec 19, 2025, 04:20 AM_
+Trump says ‘getting close to something’ ahead of us, russia talks on ukraine" }
+EdaueosrRaeri@{ shape: win-pane, label: "_Published Dec 18, 2025, 03:36 PM_
+Eu leaders face crunch decision on using frozen russian assets for ukraine" }
+EaeyiElernpoa@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:15 AM_
+Ecb’s lagarde ‘fully confident’ eu will agree reparation loan plan for ukraine" }
+Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
+Belgium says eu states must share risk to use frozen russian assets for ukraine" }
+Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
+Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
+Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
+Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
 Eelloaitis@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:23 PM_
 Eu agrees $136 billion loan for ukraine, without russian assets" }
 TsegemnaSikke@{ shape: win-pane, label: "_Published Dec 19, 2025, 04:20 AM_
@@ -85,13 +93,14 @@ Eu mulls over using frozen russian assets for loan to ukraine, wary of legal iss
 Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
 Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
 
-PosmiUnsbfd:::txtsize --> UnpOackeedsd:::txtsize
-UnpOackeedsd:::txtsize --> Zsyamroohb:::txtsize
-Zsyamroohb:::txtsize --> Zsircuacpni:::txtsize
-Zsyamroohb:::txtsize --> Rasaerskomdmmo:::txtsize
-UnpOackeedsd:::txtsize --> Psuwalrsailiow:::txtsize
-Psuwalrsailiow:::txtsize --> Feuiea:::txtsize
-PosmiUnsbfd:::txtsize --> Eelloaitis:::txtsize
+HlEoUnkoount:::txtsize --> Eelloaitis:::txtsize
+Eelloaitis:::txtsize --> TsegemnaSikke:::txtsize
+TsegemnaSikke:::txtsize --> EdaueosrRaeri:::txtsize
+TsegemnaSikke:::txtsize --> EaeyiElernpoa:::txtsize
+Eelloaitis:::txtsize --> Busauasszsaske:::txtsize
+Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
+Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
+HlEoUnkoount:::txtsize --> Eelloaitis:::txtsize
 Eelloaitis:::txtsize --> TsegemnaSikke:::txtsize
 TsegemnaSikke:::txtsize --> EdaueosrRaeri:::txtsize
 TsegemnaSikke:::txtsize --> EaeyiElernpoa:::txtsize
@@ -99,31 +108,52 @@ Eelloaitis:::txtsize --> Busauasszsaske:::txtsize
 Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
 Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
 
-Leforutnrnme@{ shape: win-pane, label: "_Published Dec 19, 2025, 06:50 PM_
-Louvre staff call off strike, museum to open ‘as normal’: unions, management" }
-Leteidlaerrsl@{ shape: win-pane, label: "_Published Oct 22, 2025, 02:52 AM_
-Louvre heist losses estimated at $133 million as museum director faces grilling" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
-‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
-Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
-Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
-PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
-Paris’ louvre museum robbery: what jewels did the thieves steal?" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+NeseshnnmUncn@{ shape: win-pane, label: "_Published Dec 19, 2025, 10:51 PM_
+Nato sees positive signs czech ammunition scheme for ukraine may continue" }
+NplyosUiiTis@{ shape: win-pane, label: "_Published Dec 19, 2025, 10:11 PM_
+No drop in military aid to kyiv since us policy shift, nato official says" }
+UnsialaiiaS@{ shape: win-pane, label: "_Published Dec 19, 2025, 09:31 PM_
+Ukraine hits russian ‘shadow fleet’ tanker in mediterranean sea" }
+Unsilacipoom@{ shape: win-pane, label: "_Published Dec 13, 2025, 03:18 AM_
+Ukraine hits russian oil infrastructure in caspian for second time" }
+UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
+Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
+Eelloaitis@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:23 PM_
+Eu agrees $136 billion loan for ukraine, without russian assets" }
+TsegemnaSikke@{ shape: win-pane, label: "_Published Dec 19, 2025, 04:20 AM_
+Trump says ‘getting close to something’ ahead of us, russia talks on ukraine" }
+Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
+Belgium says eu states must share risk to use frozen russian assets for ukraine" }
+Eelloaitis@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:23 PM_
+Eu agrees $136 billion loan for ukraine, without russian assets" }
+TsegemnaSikke@{ shape: win-pane, label: "_Published Dec 19, 2025, 04:20 AM_
+Trump says ‘getting close to something’ ahead of us, russia talks on ukraine" }
+EdaueosrRaeri@{ shape: win-pane, label: "_Published Dec 18, 2025, 03:36 PM_
+Eu leaders face crunch decision on using frozen russian assets for ukraine" }
+EaeyiElernpoa@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:15 AM_
+Ecb’s lagarde ‘fully confident’ eu will agree reparation loan plan for ukraine" }
+Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
+Belgium says eu states must share risk to use frozen russian assets for ukraine" }
+Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
+Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
+Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
+Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
 
-Leforutnrnme:::txtsize --> Leteidlaerrsl:::txtsize
-Leteidlaerrsl:::txtsize --> Ptineluiisey:::txtsize
-Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
-Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
-Leteidlaerrsl:::txtsize --> PLeubhwitea:::txtsize
-PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
-PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
+NeseshnnmUncn:::txtsize --> NplyosUiiTis:::txtsize
+NplyosUiiTis:::txtsize --> UnsialaiiaS:::txtsize
+UnsialaiiaS:::txtsize --> Unsilacipoom:::txtsize
+UnsialaiiaS:::txtsize --> UntaluneBScyca:::txtsize
+NplyosUiiTis:::txtsize --> Eelloaitis:::txtsize
+Eelloaitis:::txtsize --> TsegemnaSikke:::txtsize
+Eelloaitis:::txtsize --> Busauasszsaske:::txtsize
+NeseshnnmUncn:::txtsize --> Eelloaitis:::txtsize
+Eelloaitis:::txtsize --> TsegemnaSikke:::txtsize
+TsegemnaSikke:::txtsize --> EdaueosrRaeri:::txtsize
+TsegemnaSikke:::txtsize --> EaeyiElernpoa:::txtsize
+Eelloaitis:::txtsize --> Busauasszsaske:::txtsize
+Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
+Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
 
 ```
-<i>Last updated: 2025-12-19 20:01:16.218391 (GMT+8)</i>
+<i>Last updated: 2025-12-20 00:00:43.165595 (GMT+8)</i>
 <!-- END -->
