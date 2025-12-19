@@ -16,123 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Uenhdtmtns@{ shape: win-pane, label: "_Published Dec 19, 2025, 03:42 PM_
-Uk government was hacked in october, minister confirms" }
-Mreepotss@{ shape: win-pane, label: "_Published Dec 19, 2025, 02:39 PM_
-Mystery video stream appears on white house website" }
-TnCrdsdpsdnk@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:34 AM_
-The kennedy center board votes to add ‘trump’ to its name, drawing backlash" }
-TteeaohotvKdt@{ shape: win-pane, label: "_Published Feb 08, 2025, 09:30 AM_
-Trump to make himself head of top washington cultural venue kennedy centre" }
-Tperoneisioh@{ shape: win-pane, label: "_Published Mar 18, 2025, 12:15 PM_
-Trump pledges overhaul of kennedy centre in first visit as board chair" }
-NKsbynrs@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:16 PM_
-North korea stole $2.57b of crypto in 2025, report says" }
-NKbdiyhaI@{ shape: win-pane, label: "_Published Feb 27, 2025, 02:30 PM_
-North korea behind $2 billion crypto theft, says fbi" }
-Iiplrnseinne@{ shape: win-pane, label: "_Published Feb 10, 2025, 10:00 PM_
-Illicit crypto volume drops in 2024, but use in terrorist financing up: report" }
-NKleinoricUe@{ shape: win-pane, label: "_Published May 15, 2024, 04:27 AM_
-North korea laundered $199 million in stolen crypto in march, say un experts" }
-NKucortgaop@{ shape: win-pane, label: "_Published Oct 25, 2025, 12:38 PM_
-North korea using crypto, it workers to dodge un sanctions: report" }
-NKneetofda@{ shape: win-pane, label: "_Published Sep 15, 2025, 09:40 AM_
-North korean hackers used chatgpt to help forge deepfake id" }
-Jemecmemtsbil@{ shape: win-pane, label: "_Published Oct 23, 2025, 11:30 AM_
-Japanese companies brace themselves for more attacks as cybercrimes climb" }
+OateaiaioaeW@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:05 PM_
+Over 1,000 patients have died awaiting evacuation from gaza since july 2024: who" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
+Singapore strongly condemns terror attacks on israel, calls for end to violence" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
+Singapore strongly condemns terror attacks on israel, calls for end to violence" }
 
-Uenhdtmtns:::txtsize --> Mreepotss:::txtsize
-Mreepotss:::txtsize --> TnCrdsdpsdnk:::txtsize
-TnCrdsdpsdnk:::txtsize --> TteeaohotvKdt:::txtsize
-TnCrdsdpsdnk:::txtsize --> Tperoneisioh:::txtsize
-Uenhdtmtns:::txtsize --> NKsbynrs:::txtsize
-NKsbynrs:::txtsize --> NKbdiyhaI:::txtsize
-NKbdiyhaI:::txtsize --> Iiplrnseinne:::txtsize
-NKbdiyhaI:::txtsize --> NKleinoricUe:::txtsize
-NKsbynrs:::txtsize --> NKucortgaop:::txtsize
-NKucortgaop:::txtsize --> NKneetofda:::txtsize
-NKucortgaop:::txtsize --> Jemecmemtsbil:::txtsize
+OateaiaioaeW:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+WzptIleint:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
+Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
+OateaiaioaeW:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+WzptIleint:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
+Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
 
-Tsngcoyrnts@{ shape: win-pane, label: "_Published Dec 19, 2025, 03:11 PM_
-Trump suspends us green card lottery after brown, mit attacks" }
-Scuiwvtstoe@{ shape: win-pane, label: "_Published Dec 19, 2025, 10:43 AM_
-Suspected gunman in brown university mass shooting found dead" }
-RnTisohso@{ shape: win-pane, label: "_Published Dec 18, 2025, 04:17 PM_
-Renowned mit physicist shot to death in boston home" }
-BUrgndyeoahou@{ shape: win-pane, label: "_Published Dec 18, 2025, 06:55 AM_
-Brown university gunman ‘could be anywhere’, say police as manhunt continues" }
-Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
-Police hold person of interest after brown university shooting left 2 dead" }
-SiKcaiileecd@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:03 AM_
-Shooting at kentucky state university kills one, suspect in custody" }
-Asdndrtaspii@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:58 PM_
-At least 1 dead and 3 injured after shootings at mississippi universities" }
-Wunceoi@{ shape: win-pane, label: "_Published Sep 21, 2025, 08:40 AM_
-Why trump wants to charge us$100k for h-1b visas" }
-UHaityigeiuy@{ shape: win-pane, label: "_Published Sep 21, 2025, 01:51 AM_
-Us’ new h-1b visa fee will not apply to existing holders, white house says" }
-TtoeBealt@{ shape: win-pane, label: "_Published Sep 20, 2025, 04:36 AM_
-Trump to impose $130,000 fee for h-1b worker visas in blow to tech" }
-Wuniiidv@{ shape: win-pane, label: "_Published Sep 20, 2025, 12:10 PM_
-Why trump’s inner circle is so divided on h-1b visas" }
-TseBshsainsa@{ shape: win-pane, label: "_Published Sep 20, 2025, 11:33 PM_
-Trump’s us$100,000 fee for h-1b visas, a tech industry favourite, concerns india" }
-TtoeBealt@{ shape: win-pane, label: "_Published Sep 20, 2025, 04:36 AM_
-Trump to impose $130,000 fee for h-1b worker visas in blow to tech" }
-Tsiesuaa@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:08 AM_
-Trump’s us$100k visa fee spurs confusion and chaos" }
+PosmiUnsbfd@{ shape: win-pane, label: "_Published Dec 19, 2025, 06:53 PM_
+Putin offers no compromise on ukraine, says eu ‘robbery’ failed" }
+UnpOackeedsd@{ shape: win-pane, label: "_Published Dec 14, 2025, 07:24 PM_
+Ukraine drops nato goal as peace talks in berlin extend into second day" }
+Zsyamroohb@{ shape: win-pane, label: "_Published Dec 22, 2024, 09:14 PM_
+Zelensky says ukraine’s membership of nato is ‘achievable’" }
+Zsircuacpni@{ shape: win-pane, label: "_Published Dec 20, 2024, 08:40 AM_
+Zelensky raises prospect of european peacekeepers in ukraine" }
+Rasaerskomdmmo@{ shape: win-pane, label: "_Published Dec 20, 2024, 10:31 PM_
+Russian missile barrage on ukraine’s kyiv kills one, damages diplomatic missions" }
+Psuwalrsailiow@{ shape: win-pane, label: "_Published Dec 04, 2025, 04:55 PM_
+Putin says russia will take all of ukraine’s donbas region militarily or otherwise" }
+Feuiea@{ shape: win-pane, label: "_Published Feb 24, 2023, 05:54 PM_
+Feb 24, 2022: the day russia invaded ukraine" }
+Eelloaitis@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:23 PM_
+Eu agrees $136 billion loan for ukraine, without russian assets" }
+TsegemnaSikke@{ shape: win-pane, label: "_Published Dec 19, 2025, 04:20 AM_
+Trump says ‘getting close to something’ ahead of us, russia talks on ukraine" }
+EdaueosrRaeri@{ shape: win-pane, label: "_Published Dec 18, 2025, 03:36 PM_
+Eu leaders face crunch decision on using frozen russian assets for ukraine" }
+EaeyiElernpoa@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:15 AM_
+Ecb’s lagarde ‘fully confident’ eu will agree reparation loan plan for ukraine" }
+Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
+Belgium says eu states must share risk to use frozen russian assets for ukraine" }
+Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
+Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
+Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
+Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
 
-Tsngcoyrnts:::txtsize --> Scuiwvtstoe:::txtsize
-Scuiwvtstoe:::txtsize --> RnTisohso:::txtsize
-RnTisohso:::txtsize --> BUrgndyeoahou:::txtsize
-Scuiwvtstoe:::txtsize --> Pepnttrneytea:::txtsize
-Pepnttrneytea:::txtsize --> SiKcaiileecd:::txtsize
-Pepnttrneytea:::txtsize --> Asdndrtaspii:::txtsize
-Tsngcoyrnts:::txtsize --> Wunceoi:::txtsize
-Wunceoi:::txtsize --> UHaityigeiuy:::txtsize
-UHaityigeiuy:::txtsize --> TtoeBealt:::txtsize
-UHaityigeiuy:::txtsize --> Wuniiidv:::txtsize
-Wunceoi:::txtsize --> TseBshsainsa:::txtsize
-TseBshsainsa:::txtsize --> TtoeBealt:::txtsize
-TseBshsainsa:::txtsize --> Tsiesuaa:::txtsize
+PosmiUnsbfd:::txtsize --> UnpOackeedsd:::txtsize
+UnpOackeedsd:::txtsize --> Zsyamroohb:::txtsize
+Zsyamroohb:::txtsize --> Zsircuacpni:::txtsize
+Zsyamroohb:::txtsize --> Rasaerskomdmmo:::txtsize
+UnpOackeedsd:::txtsize --> Psuwalrsailiow:::txtsize
+Psuwalrsailiow:::txtsize --> Feuiea:::txtsize
+PosmiUnsbfd:::txtsize --> Eelloaitis:::txtsize
+Eelloaitis:::txtsize --> TsegemnaSikke:::txtsize
+TsegemnaSikke:::txtsize --> EdaueosrRaeri:::txtsize
+TsegemnaSikke:::txtsize --> EaeyiElernpoa:::txtsize
+Eelloaitis:::txtsize --> Busauasszsaske:::txtsize
+Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
+Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
 
-Naeeotgaha@{ shape: win-pane, label: "_Published Dec 19, 2025, 03:01 PM_
-Nato lacks resilience to fight a long war, naval chief warns" }
-Nhaltrser@{ shape: win-pane, label: "_Published Dec 11, 2025, 09:18 PM_
-Nato chief warns allies they are russia’s next target" }
-Eeadsaiuccmoc@{ shape: win-pane, label: "_Published Dec 11, 2025, 01:32 AM_
-European leaders discuss ukraine with trump at ‘critical moment’ for peace" }
-Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
-Us peace plan for ukraine drew from russian document, sources say" }
-UnhedewScna@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:20 PM_
-Ukraine to share revised peace plan with us on dec 9, zelensky says" }
-Rastfnlnai@{ shape: win-pane, label: "_Published Sep 26, 2025, 06:33 AM_
-Russia accuses nato, eu of waging ‘real war’ on it via ukraine" }
-BiuwKablke@{ shape: win-pane, label: "_Published Sep 24, 2025, 03:22 AM_
-‘big shift’: trump now says kyiv can win back ‘all of ukraine’" }
-TPdtsUncamre@{ shape: win-pane, label: "_Published Aug 16, 2025, 03:43 AM_
-Trump-putin direct talks over ukraine conclude as summit stretches on" }
-Unlyphaiogh@{ shape: win-pane, label: "_Published Mar 01, 2025, 01:48 AM_
-Ukraine’s zelensky, trump clash in oval office shouting match" }
-Raiureetntotseni@{ shape: win-pane, label: "_Published Sep 25, 2025, 05:52 PM_
-Russia says it assumes trump, despite shift in tone, is still committed to seek peace in ukraine" }
-Trrhrusni@{ shape: win-pane, label: "_Published Aug 12, 2025, 08:35 AM_
-The territory at the heart of russia’s war in ukraine" }
-Wiokepeisse@{ shape: win-pane, label: "_Published Sep 25, 2025, 10:31 AM_
-With his pivot on ukraine, trump may be washing his hands of the war" }
+Leforutnrnme@{ shape: win-pane, label: "_Published Dec 19, 2025, 06:50 PM_
+Louvre staff call off strike, museum to open ‘as normal’: unions, management" }
+Leteidlaerrsl@{ shape: win-pane, label: "_Published Oct 22, 2025, 02:52 AM_
+Louvre heist losses estimated at $133 million as museum director faces grilling" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
+‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
+Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
+Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
+PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
+Paris’ louvre museum robbery: what jewels did the thieves steal?" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
 
-Naeeotgaha:::txtsize --> Nhaltrser:::txtsize
-Nhaltrser:::txtsize --> Eeadsaiuccmoc:::txtsize
-Eeadsaiuccmoc:::txtsize --> Ucnkefunmos:::txtsize
-Eeadsaiuccmoc:::txtsize --> UnhedewScna:::txtsize
-Naeeotgaha:::txtsize --> Rastfnlnai:::txtsize
-Rastfnlnai:::txtsize --> BiuwKablke:::txtsize
-BiuwKablke:::txtsize --> TPdtsUncamre:::txtsize
-BiuwKablke:::txtsize --> Unlyphaiogh:::txtsize
-Rastfnlnai:::txtsize --> Raiureetntotseni:::txtsize
-Raiureetntotseni:::txtsize --> Trrhrusni:::txtsize
-Raiureetntotseni:::txtsize --> Wiokepeisse:::txtsize
+Leforutnrnme:::txtsize --> Leteidlaerrsl:::txtsize
+Leteidlaerrsl:::txtsize --> Ptineluiisey:::txtsize
+Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
+Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
+Leteidlaerrsl:::txtsize --> PLeubhwitea:::txtsize
+PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
+PLeubhwitea:::txtsize --> Ptineluiisey:::txtsize
 
 ```
-<i>Last updated: 2025-12-19 16:00:50.516238 (GMT+8)</i>
+<i>Last updated: 2025-12-19 20:01:16.218391 (GMT+8)</i>
 <!-- END -->
