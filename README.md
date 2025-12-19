@@ -16,144 +16,90 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Fhtriearoein@{ shape: win-pane, label: "_Published Dec 19, 2025, 11:13 PM_
-French court orders shein to verify age for sex toy sales or risk fines" }
-Spdxtyreoaeda@{ shape: win-pane, label: "_Published Dec 02, 2025, 07:10 AM_
-Shein probed by texas attorney general over labour practices, product safety" }
-Erhvlhixsga@{ shape: win-pane, label: "_Published Nov 26, 2025, 08:05 PM_
-Eu queries shein over sale of childlike sex dolls, illegal weapons" }
-FessSoelwnairn@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:32 AM_
-France moves to suspend shein over sex dolls and weapons on day paris store opens" }
-PcHnethsninsee@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:55 PM_
-Paris court: hearing on request for shein’s suspension in france postponed to dec 5" }
-Festbieoiee@{ shape: win-pane, label: "_Published Nov 06, 2025, 04:48 PM_
-France calls on eu to probe shein, take action against retailer" }
-FessSoelwnairn@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:32 AM_
-France moves to suspend shein over sex dolls and weapons on day paris store opens" }
-Ssonarrtngus@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:01 PM_
-Shein store opening in paris draws protesters and bargain hunters" }
-Uuaaaoamdrostiuori@{ shape: win-pane, label: "_Published Dec 02, 2025, 07:05 AM_
-Us republican senator calls for doj and homeland security to investigate shein, temu for counterfeiting" }
-Emsrutesoeogflh@{ shape: win-pane, label: "_Published Nov 26, 2025, 10:35 PM_
-Eu lawmakers back resolution to make it easier to suspend shopping platforms like shein" }
-PcHnethsninsee@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:55 PM_
-Paris court: hearing on request for shein’s suspension in france postponed to dec 5" }
-PcHnethsninsee@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:55 PM_
-Paris court: hearing on request for shein’s suspension in france postponed to dec 5" }
-Apbheolfesst@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:50 PM_
-Aliexpress bans chinese sex doll seller after reuters investigation" }
-Sbelerncrdo@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:05 AM_
-Shein bans sex dolls after outrage in france over ‘childlike’ ones" }
-Fhdhesnhixs@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:32 AM_
-French fraud watchdog reports shein for ‘childlike’ sex dolls" }
+WolittlroJcUst@{ shape: win-pane, label: "_Published Dec 20, 2025, 03:47 AM_
+Widow of influential activist charlie kirk endorses j.d. vance for us president" }
+TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
+Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
+VsaKsirayce@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:59 AM_
+Videos of charlie kirk’s shooting spread rapidly on social media" }
+TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
+Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
+TwrutomyoaGe@{ shape: win-pane, label: "_Published Nov 15, 2025, 02:43 PM_
+Trump withdraws support for long-time ally marjorie taylor greene" }
+Lsounenonmr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:01 PM_
+Longest us govt shutdown is over but new showdowns loom for trump" }
+Tsdootveuns@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:48 AM_
+Trump signs deal to end longest us government shutdown in history" }
 
-Fhtriearoein:::txtsize --> Spdxtyreoaeda:::txtsize
-Spdxtyreoaeda:::txtsize --> Erhvlhixsga:::txtsize
-Erhvlhixsga:::txtsize --> FessSoelwnairn:::txtsize
-Erhvlhixsga:::txtsize --> PcHnethsninsee:::txtsize
-Spdxtyreoaeda:::txtsize --> Festbieoiee:::txtsize
-Festbieoiee:::txtsize --> FessSoelwnairn:::txtsize
-Festbieoiee:::txtsize --> Ssonarrtngus:::txtsize
-Fhtriearoein:::txtsize --> Uuaaaoamdrostiuori:::txtsize
-Uuaaaoamdrostiuori:::txtsize --> Emsrutesoeogflh:::txtsize
-Emsrutesoeogflh:::txtsize --> PcHnethsninsee:::txtsize
-Emsrutesoeogflh:::txtsize --> PcHnethsninsee:::txtsize
-Uuaaaoamdrostiuori:::txtsize --> Apbheolfesst:::txtsize
-Apbheolfesst:::txtsize --> Sbelerncrdo:::txtsize
-Apbheolfesst:::txtsize --> Fhdhesnhixs:::txtsize
+WolittlroJcUst:::txtsize --> TahesegnipdoUstt:::txtsize
+TahesegnipdoUstt:::txtsize --> VsaKsirayce:::txtsize
+VsaKsirayce:::txtsize --> TahesegnipdoUstt:::txtsize
+WolittlroJcUst:::txtsize --> TwrutomyoaGe:::txtsize
+TwrutomyoaGe:::txtsize --> Lsounenonmr:::txtsize
+Lsounenonmr:::txtsize --> Tsdootveuns:::txtsize
 
-HlEoUnkoount@{ shape: win-pane, label: "_Published Dec 19, 2025, 11:06 PM_
-How will the eu’s $136b loan to ukraine work without frozen russian assets?" }
-Eelloaitis@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:23 PM_
-Eu agrees $136 billion loan for ukraine, without russian assets" }
-TsegemnaSikke@{ shape: win-pane, label: "_Published Dec 19, 2025, 04:20 AM_
-Trump says ‘getting close to something’ ahead of us, russia talks on ukraine" }
-EdaueosrRaeri@{ shape: win-pane, label: "_Published Dec 18, 2025, 03:36 PM_
-Eu leaders face crunch decision on using frozen russian assets for ukraine" }
-EaeyiElernpoa@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:15 AM_
-Ecb’s lagarde ‘fully confident’ eu will agree reparation loan plan for ukraine" }
-Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
-Belgium says eu states must share risk to use frozen russian assets for ukraine" }
-Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
-Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
-Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
-Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
-Eelloaitis@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:23 PM_
-Eu agrees $136 billion loan for ukraine, without russian assets" }
-TsegemnaSikke@{ shape: win-pane, label: "_Published Dec 19, 2025, 04:20 AM_
-Trump says ‘getting close to something’ ahead of us, russia talks on ukraine" }
-EdaueosrRaeri@{ shape: win-pane, label: "_Published Dec 18, 2025, 03:36 PM_
-Eu leaders face crunch decision on using frozen russian assets for ukraine" }
-EaeyiElernpoa@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:15 AM_
-Ecb’s lagarde ‘fully confident’ eu will agree reparation loan plan for ukraine" }
-Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
-Belgium says eu states must share risk to use frozen russian assets for ukraine" }
-Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
-Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
-Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
-Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
+RsSntreiake@{ shape: win-pane, label: "_Published Dec 20, 2025, 03:28 AM_
+Rubio says us doesn’t want to force a ceasefire deal on ukraine" }
+ToiegRaipuoorpp@{ shape: win-pane, label: "_Published Nov 23, 2025, 12:09 AM_
+Trump officials’ meeting with russian in miami spurs questions about ukraine peace plan" }
+Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
+Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
+Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
+Trump’s 28-point ukraine plan" }
+Uisonocitseea@{ shape: win-pane, label: "_Published Dec 20, 2025, 02:11 AM_
+Us’ rubio says not concerned about escalation with russia over venezuela" }
+Siurymeoarnolu@{ shape: win-pane, label: "_Published Dec 06, 2025, 02:26 AM_
+Sweeping trump strategy document seeks to reframe us’ role in the world, slams europe" }
+Taitariisnaqitiia@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:21 AM_
+Trump administration says europe risks ‘civilisational erasure’, questions its reliability as ally" }
+Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
+Us military says it carried out strikes on three vessels in eastern pacific" }
+TsSbrltsurnama@{ shape: win-pane, label: "_Published Dec 13, 2025, 07:41 AM_
+Trump says us will be ‘starting’ land strikes on drug operations in latin america" }
+RararoVuMouaps@{ shape: win-pane, label: "_Published Dec 12, 2025, 01:23 AM_
+Russia, belarus leaders reach out to venezuela’s maduro, as trump cranks up pressure" }
 
-HlEoUnkoount:::txtsize --> Eelloaitis:::txtsize
-Eelloaitis:::txtsize --> TsegemnaSikke:::txtsize
-TsegemnaSikke:::txtsize --> EdaueosrRaeri:::txtsize
-TsegemnaSikke:::txtsize --> EaeyiElernpoa:::txtsize
-Eelloaitis:::txtsize --> Busauasszsaske:::txtsize
-Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
-Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
-HlEoUnkoount:::txtsize --> Eelloaitis:::txtsize
-Eelloaitis:::txtsize --> TsegemnaSikke:::txtsize
-TsegemnaSikke:::txtsize --> EdaueosrRaeri:::txtsize
-TsegemnaSikke:::txtsize --> EaeyiElernpoa:::txtsize
-Eelloaitis:::txtsize --> Busauasszsaske:::txtsize
-Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
-Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
+RsSntreiake:::txtsize --> ToiegRaipuoorpp:::txtsize
+ToiegRaipuoorpp:::txtsize --> Uneftcrespepp:::txtsize
+Uneftcrespepp:::txtsize --> Tstia:::txtsize
+RsSntreiake:::txtsize --> Uisonocitseea:::txtsize
+Uisonocitseea:::txtsize --> Siurymeoarnolu:::txtsize
+Siurymeoarnolu:::txtsize --> Taitariisnaqitiia:::txtsize
+Uisonocitseea:::txtsize --> Uistitktvlanf:::txtsize
+Uistitktvlanf:::txtsize --> TsSbrltsurnama:::txtsize
+Uistitktvlanf:::txtsize --> RararoVuMouaps:::txtsize
 
-NeseshnnmUncn@{ shape: win-pane, label: "_Published Dec 19, 2025, 10:51 PM_
-Nato sees positive signs czech ammunition scheme for ukraine may continue" }
-NplyosUiiTis@{ shape: win-pane, label: "_Published Dec 19, 2025, 10:11 PM_
-No drop in military aid to kyiv since us policy shift, nato official says" }
-UnsialaiiaS@{ shape: win-pane, label: "_Published Dec 19, 2025, 09:31 PM_
-Ukraine hits russian ‘shadow fleet’ tanker in mediterranean sea" }
-Unsilacipoom@{ shape: win-pane, label: "_Published Dec 13, 2025, 03:18 AM_
-Ukraine hits russian oil infrastructure in caspian for second time" }
-UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
-Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
-Eelloaitis@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:23 PM_
-Eu agrees $136 billion loan for ukraine, without russian assets" }
-TsegemnaSikke@{ shape: win-pane, label: "_Published Dec 19, 2025, 04:20 AM_
-Trump says ‘getting close to something’ ahead of us, russia talks on ukraine" }
-Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
-Belgium says eu states must share risk to use frozen russian assets for ukraine" }
-Eelloaitis@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:23 PM_
-Eu agrees $136 billion loan for ukraine, without russian assets" }
-TsegemnaSikke@{ shape: win-pane, label: "_Published Dec 19, 2025, 04:20 AM_
-Trump says ‘getting close to something’ ahead of us, russia talks on ukraine" }
-EdaueosrRaeri@{ shape: win-pane, label: "_Published Dec 18, 2025, 03:36 PM_
-Eu leaders face crunch decision on using frozen russian assets for ukraine" }
-EaeyiElernpoa@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:15 AM_
-Ecb’s lagarde ‘fully confident’ eu will agree reparation loan plan for ukraine" }
-Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
-Belgium says eu states must share risk to use frozen russian assets for ukraine" }
-Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
-Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
-Elrgessfakeoau@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:29 PM_
-Eu mulls over using frozen russian assets for loan to ukraine, wary of legal issues" }
+Uisonocitseea@{ shape: win-pane, label: "_Published Dec 20, 2025, 02:11 AM_
+Us’ rubio says not concerned about escalation with russia over venezuela" }
+Siurymeoarnolu@{ shape: win-pane, label: "_Published Dec 06, 2025, 02:26 AM_
+Sweeping trump strategy document seeks to reframe us’ role in the world, slams europe" }
+Taitariisnaqitiia@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:21 AM_
+Trump administration says europe risks ‘civilisational erasure’, questions its reliability as ally" }
+VakrvaUnkusinn@{ shape: win-pane, label: "_Published Feb 15, 2025, 07:44 AM_
+Vance attack on europe overshadows ukraine talks at munich security conference" }
+EeainletovrRt@{ shape: win-pane, label: "_Published Dec 04, 2025, 09:15 PM_
+European leaders in phone call voiced distrust of us over ukraine: report" }
+Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
+Us military says it carried out strikes on three vessels in eastern pacific" }
+TsSbrltsurnama@{ shape: win-pane, label: "_Published Dec 13, 2025, 07:41 AM_
+Trump says us will be ‘starting’ land strikes on drug operations in latin america" }
+Upgirkfeasespncy@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:13 AM_
+Us preparing to seize more tankers off venezuela’s coast after first ship taken, sources say" }
+Uuennggrmeenik@{ shape: win-pane, label: "_Published Dec 12, 2025, 04:18 AM_
+Us issues fresh sanctions targeting maduro’s family, venezuela-linked oil tankers" }
+RararoVuMouaps@{ shape: win-pane, label: "_Published Dec 12, 2025, 01:23 AM_
+Russia, belarus leaders reach out to venezuela’s maduro, as trump cranks up pressure" }
 
-NeseshnnmUncn:::txtsize --> NplyosUiiTis:::txtsize
-NplyosUiiTis:::txtsize --> UnsialaiiaS:::txtsize
-UnsialaiiaS:::txtsize --> Unsilacipoom:::txtsize
-UnsialaiiaS:::txtsize --> UntaluneBScyca:::txtsize
-NplyosUiiTis:::txtsize --> Eelloaitis:::txtsize
-Eelloaitis:::txtsize --> TsegemnaSikke:::txtsize
-Eelloaitis:::txtsize --> Busauasszsaske:::txtsize
-NeseshnnmUncn:::txtsize --> Eelloaitis:::txtsize
-Eelloaitis:::txtsize --> TsegemnaSikke:::txtsize
-TsegemnaSikke:::txtsize --> EdaueosrRaeri:::txtsize
-TsegemnaSikke:::txtsize --> EaeyiElernpoa:::txtsize
-Eelloaitis:::txtsize --> Busauasszsaske:::txtsize
-Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
-Busauasszsaske:::txtsize --> Elrgessfakeoau:::txtsize
+Uisonocitseea:::txtsize --> Siurymeoarnolu:::txtsize
+Siurymeoarnolu:::txtsize --> Taitariisnaqitiia:::txtsize
+Taitariisnaqitiia:::txtsize --> VakrvaUnkusinn:::txtsize
+Taitariisnaqitiia:::txtsize --> EeainletovrRt:::txtsize
+Uisonocitseea:::txtsize --> Uistitktvlanf:::txtsize
+Uistitktvlanf:::txtsize --> TsSbrltsurnama:::txtsize
+TsSbrltsurnama:::txtsize --> Upgirkfeasespncy:::txtsize
+TsSbrltsurnama:::txtsize --> Uuennggrmeenik:::txtsize
+Uistitktvlanf:::txtsize --> RararoVuMouaps:::txtsize
 
 ```
-<i>Last updated: 2025-12-20 00:00:43.165595 (GMT+8)</i>
+<i>Last updated: 2025-12-20 04:01:09.292793 (GMT+8)</i>
 <!-- END -->
