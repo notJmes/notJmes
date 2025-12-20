@@ -16,6 +16,98 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+UterRasdaieks@{ shape: win-pane, label: "_Published Dec 20, 2025, 10:16 PM_
+Us moots direct ukraine-russia talks on ending war in miami, zelensky says" }
+Raefrrketonnoiia@{ shape: win-pane, label: "_Published Feb 20, 2025, 05:37 PM_
+Russia targets infrastructure in ukraine’s east and south in extensive overnight air attack" }
+RaaUneeiereeaes@{ shape: win-pane, label: "_Published Feb 19, 2025, 03:06 PM_
+Russian attack on ukraine’s odessa region injures four, causes widespread power cuts" }
+Eaiipdaolyo@{ shape: win-pane, label: "_Published Feb 19, 2025, 10:44 AM_
+Eu floats initiative to provide ukraine more military support" }
+Unokorreoeimay@{ shape: win-pane, label: "_Published Feb 19, 2025, 04:11 AM_
+Ukrainian forces knock out north korean self-propelled howitzer, military says" }
+Raiiaolegdiec@{ shape: win-pane, label: "_Published Feb 16, 2025, 09:50 PM_
+Russian strikes hit ukraine power plant, leaving residents in freezing cold" }
+FesostrsiFnr@{ shape: win-pane, label: "_Published Feb 16, 2025, 09:40 PM_
+France to host european summit on ukraine, security on feb 17, minister says" }
+Usmniirirynv@{ shape: win-pane, label: "_Published Feb 16, 2025, 04:50 AM_
+Us, russia to meet in saudi arabia over ukraine war, but kyiv is not invited" }
+Sdsissctacnkes@{ shape: win-pane, label: "_Published Dec 20, 2025, 05:55 AM_
+Seven dead as russian missiles attack port infrastructure near ukraine’s odesa" }
+Ueenttasrace@{ shape: win-pane, label: "_Published Dec 20, 2025, 04:16 AM_
+Us intelligence indicates putin’s war aims in ukraine are unchanged" }
+EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
+Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
+EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
+Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
+RsSntreiake@{ shape: win-pane, label: "_Published Dec 20, 2025, 03:28 AM_
+Rubio says us doesn’t want to force a ceasefire deal on ukraine" }
+ToiegRaipuoorpp@{ shape: win-pane, label: "_Published Nov 23, 2025, 12:09 AM_
+Trump officials’ meeting with russian in miami spurs questions about ukraine peace plan" }
+Uisonocitseea@{ shape: win-pane, label: "_Published Dec 20, 2025, 02:11 AM_
+Us’ rubio says not concerned about escalation with russia over venezuela" }
+
+UterRasdaieks:::txtsize --> Raefrrketonnoiia:::txtsize
+Raefrrketonnoiia:::txtsize --> RaaUneeiereeaes:::txtsize
+RaaUneeiereeaes:::txtsize --> Eaiipdaolyo:::txtsize
+RaaUneeiereeaes:::txtsize --> Unokorreoeimay:::txtsize
+Raefrrketonnoiia:::txtsize --> Raiiaolegdiec:::txtsize
+Raiiaolegdiec:::txtsize --> FesostrsiFnr:::txtsize
+Raiiaolegdiec:::txtsize --> Usmniirirynv:::txtsize
+UterRasdaieks:::txtsize --> Sdsissctacnkes:::txtsize
+Sdsissctacnkes:::txtsize --> Ueenttasrace:::txtsize
+Ueenttasrace:::txtsize --> EihaDsitnnannsake:::txtsize
+Ueenttasrace:::txtsize --> EihaDsitnnannsake:::txtsize
+Sdsissctacnkes:::txtsize --> RsSntreiake:::txtsize
+RsSntreiake:::txtsize --> ToiegRaipuoorpp:::txtsize
+RsSntreiake:::txtsize --> Uisonocitseea:::txtsize
+
+Testetwnglads@{ shape: win-pane, label: "_Published Dec 20, 2025, 07:06 PM_
+Trump enters election year with big wins – and bigger political headwinds" }
+Hnoeameaoais@{ shape: win-pane, label: "_Published Dec 20, 2025, 03:13 PM_
+Heading into midterm year, trump hopes to make economy a winning issue" }
+IraafguwnblBiroo@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:54 AM_
+‘i inherited a mess, and i’m fixing it’: trump vows economic boom, blames biden in address to nation" }
+Ttsgidsociu@{ shape: win-pane, label: "_Published Dec 18, 2025, 07:00 AM_
+Trump to vow ‘stronger’ us in tv address as economic worries mount" }
+TaitismonAcfzi@{ shape: win-pane, label: "_Published Dec 18, 2025, 09:55 AM_
+Trump administration aims to strip more foreign-born americans of citizenship" }
+Twruedett@{ shape: win-pane, label: "_Published Dec 18, 2025, 12:58 PM_
+Takeaways from trump’s year-end address to the nation" }
+IraafguwnblBiroo@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:54 AM_
+‘i inherited a mess, and i’m fixing it’: trump vows economic boom, blames biden in address to nation" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+RsSutneitn@{ shape: win-pane, label: "_Published Dec 20, 2025, 05:09 PM_
+Rubio says us can support japan while working with china" }
+Hstiafictbnot@{ shape: win-pane, label: "_Published Dec 18, 2025, 01:42 PM_
+Hotels and stores in japan suffer amid cancellations by chinese tourists" }
+Vgrtaomirhili@{ shape: win-pane, label: "_Published Dec 18, 2025, 01:25 PM_
+Village near mount fuji aims to draw more visitors with hot air balloon rides" }
+Jvoighnoephrwn@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:20 PM_
+Japan visitor arrivals growth strong in november despite china travel warning" }
+STcksaarminr@{ shape: win-pane, label: "_Published Oct 21, 2025, 12:50 PM_
+Sanae takaichi makes history as japan’s first woman prime minister" }
+STctJstnesfignst@{ shape: win-pane, label: "_Published Oct 04, 2025, 12:57 PM_
+Sanae takaichi set to be japan’s first woman prime minister after winning ruling ldp’s election" }
+Puaaorbensoctar@{ shape: win-pane, label: "_Published Oct 16, 2025, 09:42 PM_
+‘pitiful’ sanae takaichi on course to become japan pm as she woos new coalition partner" }
+
+Testetwnglads:::txtsize --> Hnoeameaoais:::txtsize
+Hnoeameaoais:::txtsize --> IraafguwnblBiroo:::txtsize
+IraafguwnblBiroo:::txtsize --> Ttsgidsociu:::txtsize
+IraafguwnblBiroo:::txtsize --> TaitismonAcfzi:::txtsize
+Hnoeameaoais:::txtsize --> Twruedett:::txtsize
+Twruedett:::txtsize --> IraafguwnblBiroo:::txtsize
+Twruedett:::txtsize --> Toskftdasitgz:::txtsize
+Testetwnglads:::txtsize --> RsSutneitn:::txtsize
+RsSutneitn:::txtsize --> Hstiafictbnot:::txtsize
+Hstiafictbnot:::txtsize --> Vgrtaomirhili:::txtsize
+Hstiafictbnot:::txtsize --> Jvoighnoephrwn:::txtsize
+RsSutneitn:::txtsize --> STcksaarminr:::txtsize
+STcksaarminr:::txtsize --> STctJstnesfignst:::txtsize
+STcksaarminr:::txtsize --> Puaaorbensoctar:::txtsize
+
 RsSutneitn@{ shape: win-pane, label: "_Published Dec 20, 2025, 05:09 PM_
 Rubio says us can support japan while working with china" }
 Hstiafictbnot@{ shape: win-pane, label: "_Published Dec 18, 2025, 01:42 PM_
@@ -56,89 +148,6 @@ STcksaarminr:::txtsize --> Puaaorbensoctar:::txtsize
 Puaaorbensoctar:::txtsize --> STctJstnesfignst:::txtsize
 Puaaorbensoctar:::txtsize --> MaahvafrrkaPag:::txtsize
 
-Piituooeagp@{ shape: win-pane, label: "_Published Dec 20, 2025, 04:50 PM_
-Pilot in mexico city refuses to take off over unpaid wages: reports" }
-SKnortiottkontl@{ shape: win-pane, label: "_Published Sep 12, 2025, 12:45 PM_
-South korean airport workers to strike from sept 19 to oct 9, sparking concerns for travellers" }
-MoLnronitsoeure@{ shape: win-pane, label: "_Published Sep 08, 2025, 07:48 AM_
-Millions of londoners brace for transit disruption as london underground strike begins" }
-Lnrnketeseo@{ shape: win-pane, label: "_Published Sep 07, 2025, 10:26 PM_
-London underground workers set to start week of strike action" }
-LnrovsiTtbs@{ shape: win-pane, label: "_Published Sep 05, 2025, 05:55 PM_
-Londoners brace for travel disruption as tube strike begins" }
-Ydroobndenagnnd@{ shape: win-pane, label: "_Published Sep 08, 2025, 10:16 AM_
-Young doctors in south korea abandon residencies, open dermatology clinics instead" }
-SKnncwurtnaaeloa@{ shape: win-pane, label: "_Published Feb 20, 2024, 11:54 PM_
-South korean trainee doctors walk out in protest against plan to raise medical school intake" }
-SKnncwurtnaaeloa@{ shape: win-pane, label: "_Published Feb 20, 2024, 11:54 PM_
-South korean trainee doctors walk out in protest against plan to raise medical school intake" }
-SiemejocefhU@{ shape: win-pane, label: "_Published Oct 27, 2025, 02:11 AM_
-Striking boeing employees reject contract offer for fourth time: union" }
-Astimerts@{ shape: win-pane, label: "_Published Oct 07, 2025, 06:41 PM_
-Airbus a320 ousts boeing 737 as most-delivered jet in history" }
-BglssanCSe@{ shape: win-pane, label: "_Published Aug 22, 2025, 08:45 AM_
-Boeing in talks to sell as many as 500 planes to china: sources" }
-Cyfynireemhe@{ shape: win-pane, label: "_Published Aug 06, 2025, 01:55 PM_
-Cathay pacific buys 14 planes in its first boeing deal in more than a decade" }
-Csnutitpfaerh@{ shape: win-pane, label: "_Published Jan 08, 2025, 01:40 PM_
-Checks find no issues with boeing 737-800 jets in s’pore after fatal jeju air crash" }
-Jinspniteooma@{ shape: win-pane, label: "_Published Dec 29, 2024, 08:58 AM_
-Jeju air plane crashes upon landing in south korea, 179 on board confirmed dead" }
-Weatjpcite@{ shape: win-pane, label: "_Published Dec 29, 2024, 05:10 PM_
-What we know about the jeju air plane crash in south korea" }
-
-Piituooeagp:::txtsize --> SKnortiottkontl:::txtsize
-SKnortiottkontl:::txtsize --> MoLnronitsoeure:::txtsize
-MoLnronitsoeure:::txtsize --> Lnrnketeseo:::txtsize
-MoLnronitsoeure:::txtsize --> LnrovsiTtbs:::txtsize
-SKnortiottkontl:::txtsize --> Ydroobndenagnnd:::txtsize
-Ydroobndenagnnd:::txtsize --> SKnncwurtnaaeloa:::txtsize
-Ydroobndenagnnd:::txtsize --> SKnncwurtnaaeloa:::txtsize
-Piituooeagp:::txtsize --> SiemejocefhU:::txtsize
-SiemejocefhU:::txtsize --> Astimerts:::txtsize
-Astimerts:::txtsize --> BglssanCSe:::txtsize
-Astimerts:::txtsize --> Cyfynireemhe:::txtsize
-SiemejocefhU:::txtsize --> Csnutitpfaerh:::txtsize
-Csnutitpfaerh:::txtsize --> Jinspniteooma:::txtsize
-Csnutitpfaerh:::txtsize --> Weatjpcite:::txtsize
-
-BeciEegaret@{ shape: win-pane, label: "_Published Dec 20, 2025, 04:10 PM_
-Beetles block mining of europe’s biggest rare earths deposit" }
-MgVlestii@{ shape: win-pane, label: "_Published Apr 04, 2024, 03:18 PM_
-Mining for ev metals threatens great apes in africa" }
-IwlBndonsd@{ shape: win-pane, label: "_Published Apr 04, 2024, 12:01 PM_
-In 2023, the world lost a bhutan-sized area of rainforest: study" }
-Spooisndeftn@{ shape: win-pane, label: "_Published Nov 12, 2021, 06:08 PM_
-Singapore joins 130 countries in signing pledge to end deforestation by 2030" }
-Hoimroserete@{ shape: win-pane, label: "_Published Oct 29, 2023, 04:58 AM_
-Home countries of major rainforests agree to work together to save them" }
-Foeoneurehvel@{ shape: win-pane, label: "_Published Apr 04, 2024, 02:59 PM_
-From polar bears to groundwater, nature is riddled with ‘forever chemicals’" }
-Crieldierarealp@{ shape: win-pane, label: "_Published Mar 07, 2024, 11:45 AM_
-Cancer-causing chemical found in clinique, clearasil acne treatments, says us lab reports" }
-Hdoridtnyoae@{ shape: win-pane, label: "_Published Jul 08, 2023, 02:00 AM_
-Hazardous 'forever chemicals' detected in nearly half of us tap water" }
-Crrtemnsaesia@{ shape: win-pane, label: "_Published Feb 13, 2025, 05:38 PM_
-Concern as orangutan seen roaming indonesia coal site in east kalimantan" }
-Ffaalsdisnnp@{ shape: win-pane, label: "_Published Mar 22, 2023, 10:14 AM_
-Fears for orang utans, dolphins as indonesia presses on with new capital" }
-Ieftcoginonry@{ shape: win-pane, label: "_Published Apr 28, 2022, 04:09 PM_
-Indonesia's forest policies working but risks on the horizon, experts say" }
-Nenonakgl@{ shape: win-pane, label: "_Published Mar 21, 2023, 03:12 PM_
-No freedom on the horizon for bangkok 'mall gorilla'" }
-
-BeciEegaret:::txtsize --> MgVlestii:::txtsize
-MgVlestii:::txtsize --> IwlBndonsd:::txtsize
-IwlBndonsd:::txtsize --> Spooisndeftn:::txtsize
-IwlBndonsd:::txtsize --> Hoimroserete:::txtsize
-MgVlestii:::txtsize --> Foeoneurehvel:::txtsize
-Foeoneurehvel:::txtsize --> Crieldierarealp:::txtsize
-Foeoneurehvel:::txtsize --> Hdoridtnyoae:::txtsize
-BeciEegaret:::txtsize --> Crrtemnsaesia:::txtsize
-Crrtemnsaesia:::txtsize --> Ffaalsdisnnp:::txtsize
-Ffaalsdisnnp:::txtsize --> Ieftcoginonry:::txtsize
-Ffaalsdisnnp:::txtsize --> Nenonakgl:::txtsize
-
 ```
-<i>Last updated: 2025-12-20 20:01:07.507354 (GMT+8)</i>
+<i>Last updated: 2025-12-21 00:00:36.731440 (GMT+8)</i>
 <!-- END -->
