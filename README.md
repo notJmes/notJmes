@@ -16,8 +16,54 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-UterRasdaieks@{ shape: win-pane, label: "_Published Dec 20, 2025, 10:16 PM_
-Us moots direct ukraine-russia talks on ending war in miami, zelensky says" }
+Gnnestlrtvs@{ shape: win-pane, label: "_Published Dec 21, 2025, 01:48 AM_
+German engineer becomes first wheelchair user to travel to space" }
+EetnercorPsmeek@{ shape: win-pane, label: "_Published Apr 22, 2025, 03:15 PM_
+Even levitating in space aboard a rocket, pop star katy perry still manages to get dunked on" }
+Brcninarcetau@{ shape: win-pane, label: "_Published Apr 14, 2025, 10:59 PM_
+Blue origin crew including singer katy perry back safely after space launch" }
+SXssocimtt@{ shape: win-pane, label: "_Published Jan 17, 2025, 08:34 AM_
+Spacex loses starship rocket carrying dummy satellites" }
+kiseocfpifraig@{ shape: win-pane, label: "_Published Feb 28, 2025, 03:00 PM_
+$810k for 3 minutes at the edge of space? two from s’pore sign up for virgin galactic flights" }
+NotvrtrEoia@{ shape: win-pane, label: "_Published Apr 20, 2025, 05:05 PM_
+Nasa’s oldest active astronaut returns to earth on 70th birthday" }
+Urtdocpadoaas@{ shape: win-pane, label: "_Published Mar 18, 2025, 01:02 AM_
+Us astronauts head home on spacex capsule after drawn-out space station stay" }
+Biistcholils@{ shape: win-pane, label: "_Published Apr 17, 2025, 02:15 PM_
+Bringing a little spice to space with the monse blue origin flight suits" }
+RosvptnuattS@{ shape: win-pane, label: "_Published Nov 13, 2025, 11:01 PM_
+Race for first private space station hots up as nasa set to retire iss" }
+AptpanloctoesS@{ shape: win-pane, label: "_Published Oct 14, 2024, 02:50 PM_
+Aerospace start-up vast announces plans for space station to succeed nasa’s iss" }
+Isetasaneeaeeoa@{ shape: win-pane, label: "_Published Oct 14, 2024, 10:36 AM_
+India’s space strategy: harness data and tiny satellites to capture market beyond spacex" }
+NproyhpsEaar@{ shape: win-pane, label: "_Published Oct 14, 2024, 02:11 AM_
+Nasa spacecraft to study whether jupiter’s moon europa can harbour life" }
+NotvrtrEoia@{ shape: win-pane, label: "_Published Apr 20, 2025, 05:05 PM_
+Nasa’s oldest active astronaut returns to earth on 70th birthday" }
+Urtdocpadoaas@{ shape: win-pane, label: "_Published Mar 18, 2025, 01:02 AM_
+Us astronauts head home on spacex capsule after drawn-out space station stay" }
+Biistcholils@{ shape: win-pane, label: "_Published Apr 17, 2025, 02:15 PM_
+Bringing a little spice to space with the monse blue origin flight suits" }
+
+Gnnestlrtvs:::txtsize --> EetnercorPsmeek:::txtsize
+EetnercorPsmeek:::txtsize --> Brcninarcetau:::txtsize
+Brcninarcetau:::txtsize --> SXssocimtt:::txtsize
+Brcninarcetau:::txtsize --> kiseocfpifraig:::txtsize
+EetnercorPsmeek:::txtsize --> NotvrtrEoia:::txtsize
+NotvrtrEoia:::txtsize --> Urtdocpadoaas:::txtsize
+NotvrtrEoia:::txtsize --> Biistcholils:::txtsize
+Gnnestlrtvs:::txtsize --> RosvptnuattS:::txtsize
+RosvptnuattS:::txtsize --> AptpanloctoesS:::txtsize
+AptpanloctoesS:::txtsize --> Isetasaneeaeeoa:::txtsize
+AptpanloctoesS:::txtsize --> NproyhpsEaar:::txtsize
+RosvptnuattS:::txtsize --> NotvrtrEoia:::txtsize
+NotvrtrEoia:::txtsize --> Urtdocpadoaas:::txtsize
+NotvrtrEoia:::txtsize --> Biistcholils:::txtsize
+
+EaRasetUnfees@{ shape: win-pane, label: "_Published Dec 21, 2025, 12:56 AM_
+Escalating russian airstrikes aim to cut ukraine off from sea, zelensky says" }
 Raefrrketonnoiia@{ shape: win-pane, label: "_Published Feb 20, 2025, 05:37 PM_
 Russia targets infrastructure in ukraine’s east and south in extensive overnight air attack" }
 RaaUneeiereeaes@{ shape: win-pane, label: "_Published Feb 19, 2025, 03:06 PM_
@@ -32,122 +78,79 @@ FesostrsiFnr@{ shape: win-pane, label: "_Published Feb 16, 2025, 09:40 PM_
 France to host european summit on ukraine, security on feb 17, minister says" }
 Usmniirirynv@{ shape: win-pane, label: "_Published Feb 16, 2025, 04:50 AM_
 Us, russia to meet in saudi arabia over ukraine war, but kyiv is not invited" }
-Sdsissctacnkes@{ shape: win-pane, label: "_Published Dec 20, 2025, 05:55 AM_
-Seven dead as russian missiles attack port infrastructure near ukraine’s odesa" }
-Ueenttasrace@{ shape: win-pane, label: "_Published Dec 20, 2025, 04:16 AM_
-Us intelligence indicates putin’s war aims in ukraine are unchanged" }
-EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
-Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
-EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
-Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
-RsSntreiake@{ shape: win-pane, label: "_Published Dec 20, 2025, 03:28 AM_
-Rubio says us doesn’t want to force a ceasefire deal on ukraine" }
-ToiegRaipuoorpp@{ shape: win-pane, label: "_Published Nov 23, 2025, 12:09 AM_
-Trump officials’ meeting with russian in miami spurs questions about ukraine peace plan" }
-Uisonocitseea@{ shape: win-pane, label: "_Published Dec 20, 2025, 02:11 AM_
-Us’ rubio says not concerned about escalation with russia over venezuela" }
+Unefmbofunc@{ shape: win-pane, label: "_Published Dec 13, 2025, 08:18 PM_
+Ukraine’s odesa suffers major blackouts after russian attack" }
+Zssuskekrflo@{ shape: win-pane, label: "_Published Dec 12, 2025, 09:58 PM_
+Zelensky visits kupyansk as ukraine retakes parts of front-line town" }
+UnlyiRaitsuiKn@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:19 AM_
+Ukraine’s military dismisses russia’s claim that it has captured city of kupyansk" }
+Unsltnoiabs@{ shape: win-pane, label: "_Published Dec 03, 2025, 12:53 AM_
+Ukraine says still fighting in pokrovsk, city claimed by russia" }
+Eeiilesasvblke@{ shape: win-pane, label: "_Published Dec 13, 2025, 01:13 AM_
+Eu agrees to indefinitely freeze russian assets, removing obstacle to ukraine loan" }
+Epufnisrotei@{ shape: win-pane, label: "_Published Dec 04, 2025, 04:29 AM_
+Eu proposes using frozen russian assets or borrowing to give ukraine $136b" }
+EseRaeciotrn@{ shape: win-pane, label: "_Published Dec 10, 2025, 01:42 AM_
+Eu close to deal on russian assets, dec 18 summit to go on until agreement" }
 
-UterRasdaieks:::txtsize --> Raefrrketonnoiia:::txtsize
+EaRasetUnfees:::txtsize --> Raefrrketonnoiia:::txtsize
 Raefrrketonnoiia:::txtsize --> RaaUneeiereeaes:::txtsize
 RaaUneeiereeaes:::txtsize --> Eaiipdaolyo:::txtsize
 RaaUneeiereeaes:::txtsize --> Unokorreoeimay:::txtsize
 Raefrrketonnoiia:::txtsize --> Raiiaolegdiec:::txtsize
 Raiiaolegdiec:::txtsize --> FesostrsiFnr:::txtsize
 Raiiaolegdiec:::txtsize --> Usmniirirynv:::txtsize
-UterRasdaieks:::txtsize --> Sdsissctacnkes:::txtsize
-Sdsissctacnkes:::txtsize --> Ueenttasrace:::txtsize
-Ueenttasrace:::txtsize --> EihaDsitnnannsake:::txtsize
-Ueenttasrace:::txtsize --> EihaDsitnnannsake:::txtsize
-Sdsissctacnkes:::txtsize --> RsSntreiake:::txtsize
-RsSntreiake:::txtsize --> ToiegRaipuoorpp:::txtsize
-RsSntreiake:::txtsize --> Uisonocitseea:::txtsize
+EaRasetUnfees:::txtsize --> Unefmbofunc:::txtsize
+Unefmbofunc:::txtsize --> Zssuskekrflo:::txtsize
+Zssuskekrflo:::txtsize --> UnlyiRaitsuiKn:::txtsize
+Zssuskekrflo:::txtsize --> Unsltnoiabs:::txtsize
+Unefmbofunc:::txtsize --> Eeiilesasvblke:::txtsize
+Eeiilesasvblke:::txtsize --> Epufnisrotei:::txtsize
+Eeiilesasvblke:::txtsize --> EseRaeciotrn:::txtsize
 
-Testetwnglads@{ shape: win-pane, label: "_Published Dec 20, 2025, 07:06 PM_
-Trump enters election year with big wins – and bigger political headwinds" }
-Hnoeameaoais@{ shape: win-pane, label: "_Published Dec 20, 2025, 03:13 PM_
-Heading into midterm year, trump hopes to make economy a winning issue" }
-IraafguwnblBiroo@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:54 AM_
-‘i inherited a mess, and i’m fixing it’: trump vows economic boom, blames biden in address to nation" }
-Ttsgidsociu@{ shape: win-pane, label: "_Published Dec 18, 2025, 07:00 AM_
-Trump to vow ‘stronger’ us in tv address as economic worries mount" }
-TaitismonAcfzi@{ shape: win-pane, label: "_Published Dec 18, 2025, 09:55 AM_
-Trump administration aims to strip more foreign-born americans of citizenship" }
+Uzsfeasis@{ shape: win-pane, label: "_Published Dec 21, 2025, 12:31 AM_
+Us seizes vessel off venezuelan coast, officials say" }
+Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
+Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
+TenurneCbVuo@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:52 PM_
+Trump eyes anti-drug operations in mexico, colombia as venezuela looms" }
+Siurymeoarnolu@{ shape: win-pane, label: "_Published Dec 06, 2025, 02:26 AM_
+Sweeping trump strategy document seeks to reframe us’ role in the world, slams europe" }
+Uirdotoeramzsho@{ shape: win-pane, label: "_Published Dec 02, 2025, 04:09 AM_
+Us admiral ordered follow-up strike on alleged drug boat from venezuela, says white house" }
+VulScpifromlMo@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:49 AM_
+Venezuela slams us attack preparations after trump confirms call with maduro" }
+Tsicvsugztliee@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:19 PM_
+Trump says airspace above and surrounding venezuela to be closed in its entirety" }
+UgVuMoceoyRllk@{ shape: win-pane, label: "_Published Dec 01, 2025, 05:07 AM_
+Us has given venezuela’s maduro chance to leave country, says republican lawmaker" }
+Tsetnwteaep@{ shape: win-pane, label: "_Published Dec 19, 2025, 06:46 PM_
+Trump says he is not ruling out war with venezuela, nbc news reports" }
+CvsorzaSkueid@{ shape: win-pane, label: "_Published Dec 18, 2025, 02:25 PM_
+China voices support for venezuela amid us blockade, but makes no aid pledges" }
 Twruedett@{ shape: win-pane, label: "_Published Dec 18, 2025, 12:58 PM_
 Takeaways from trump’s year-end address to the nation" }
-IraafguwnblBiroo@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:54 AM_
-‘i inherited a mess, and i’m fixing it’: trump vows economic boom, blames biden in address to nation" }
+Useirnpeaa@{ shape: win-pane, label: "_Published Dec 18, 2025, 07:50 AM_
+Us house defeats bids to rein in trump’s venezuela campaign" }
 Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
 Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-RsSutneitn@{ shape: win-pane, label: "_Published Dec 20, 2025, 05:09 PM_
-Rubio says us can support japan while working with china" }
-Hstiafictbnot@{ shape: win-pane, label: "_Published Dec 18, 2025, 01:42 PM_
-Hotels and stores in japan suffer amid cancellations by chinese tourists" }
-Vgrtaomirhili@{ shape: win-pane, label: "_Published Dec 18, 2025, 01:25 PM_
-Village near mount fuji aims to draw more visitors with hot air balloon rides" }
-Jvoighnoephrwn@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:20 PM_
-Japan visitor arrivals growth strong in november despite china travel warning" }
-STcksaarminr@{ shape: win-pane, label: "_Published Oct 21, 2025, 12:50 PM_
-Sanae takaichi makes history as japan’s first woman prime minister" }
-STctJstnesfignst@{ shape: win-pane, label: "_Published Oct 04, 2025, 12:57 PM_
-Sanae takaichi set to be japan’s first woman prime minister after winning ruling ldp’s election" }
-Puaaorbensoctar@{ shape: win-pane, label: "_Published Oct 16, 2025, 09:42 PM_
-‘pitiful’ sanae takaichi on course to become japan pm as she woos new coalition partner" }
+Tbsawnstidaao@{ shape: win-pane, label: "_Published Dec 16, 2025, 07:19 AM_
+Trump brands fentanyl a ‘weapon of mass destruction’ in drug war escalation" }
 
-Testetwnglads:::txtsize --> Hnoeameaoais:::txtsize
-Hnoeameaoais:::txtsize --> IraafguwnblBiroo:::txtsize
-IraafguwnblBiroo:::txtsize --> Ttsgidsociu:::txtsize
-IraafguwnblBiroo:::txtsize --> TaitismonAcfzi:::txtsize
-Hnoeameaoais:::txtsize --> Twruedett:::txtsize
-Twruedett:::txtsize --> IraafguwnblBiroo:::txtsize
-Twruedett:::txtsize --> Toskftdasitgz:::txtsize
-Testetwnglads:::txtsize --> RsSutneitn:::txtsize
-RsSutneitn:::txtsize --> Hstiafictbnot:::txtsize
-Hstiafictbnot:::txtsize --> Vgrtaomirhili:::txtsize
-Hstiafictbnot:::txtsize --> Jvoighnoephrwn:::txtsize
-RsSutneitn:::txtsize --> STcksaarminr:::txtsize
-STcksaarminr:::txtsize --> STctJstnesfignst:::txtsize
-STcksaarminr:::txtsize --> Puaaorbensoctar:::txtsize
-
-RsSutneitn@{ shape: win-pane, label: "_Published Dec 20, 2025, 05:09 PM_
-Rubio says us can support japan while working with china" }
-Hstiafictbnot@{ shape: win-pane, label: "_Published Dec 18, 2025, 01:42 PM_
-Hotels and stores in japan suffer amid cancellations by chinese tourists" }
-Vgrtaomirhili@{ shape: win-pane, label: "_Published Dec 18, 2025, 01:25 PM_
-Village near mount fuji aims to draw more visitors with hot air balloon rides" }
-Jhqstwuape@{ shape: win-pane, label: "_Published Dec 09, 2025, 06:25 PM_
-Japan hit by quakes: what to know if you have a trip planned" }
-Jvoighnoephrwn@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:20 PM_
-Japan visitor arrivals growth strong in november despite china travel warning" }
-WpSTcarksci@{ shape: win-pane, label: "_Published Nov 11, 2025, 01:06 PM_
-Why japan pm sanae takaichi’s taiwan remarks caused such a stir" }
-STcksaarminr@{ shape: win-pane, label: "_Published Oct 21, 2025, 12:50 PM_
-Sanae takaichi makes history as japan’s first woman prime minister" }
-STctJstnesfignst@{ shape: win-pane, label: "_Published Oct 04, 2025, 12:57 PM_
-Sanae takaichi set to be japan’s first woman prime minister after winning ruling ldp’s election" }
-Tsoonalinrnst@{ shape: win-pane, label: "_Published Sep 26, 2025, 01:47 PM_
-Trump says south korea and japan will pay billions ‘upfront’ in investment" }
-AonnnetcJspmt@{ shape: win-pane, label: "_Published Sep 25, 2025, 10:30 PM_
-Anti-foreigner sentiment takes root in race for japan’s next prime minister" }
-Puaaorbensoctar@{ shape: win-pane, label: "_Published Oct 16, 2025, 09:42 PM_
-‘pitiful’ sanae takaichi on course to become japan pm as she woos new coalition partner" }
-STctJstnesfignst@{ shape: win-pane, label: "_Published Oct 04, 2025, 12:57 PM_
-Sanae takaichi set to be japan’s first woman prime minister after winning ruling ldp’s election" }
-MaahvafrrkaPag@{ shape: win-pane, label: "_Published Oct 04, 2025, 08:10 PM_
-Meet sanae takaichi: heavy metal fan, former biker chick and japan’s pm-in-waiting" }
-
-RsSutneitn:::txtsize --> Hstiafictbnot:::txtsize
-Hstiafictbnot:::txtsize --> Vgrtaomirhili:::txtsize
-Vgrtaomirhili:::txtsize --> Jhqstwuape:::txtsize
-Hstiafictbnot:::txtsize --> Jvoighnoephrwn:::txtsize
-Jvoighnoephrwn:::txtsize --> WpSTcarksci:::txtsize
-RsSutneitn:::txtsize --> STcksaarminr:::txtsize
-STcksaarminr:::txtsize --> STctJstnesfignst:::txtsize
-STctJstnesfignst:::txtsize --> Tsoonalinrnst:::txtsize
-STctJstnesfignst:::txtsize --> AonnnetcJspmt:::txtsize
-STcksaarminr:::txtsize --> Puaaorbensoctar:::txtsize
-Puaaorbensoctar:::txtsize --> STctJstnesfignst:::txtsize
-Puaaorbensoctar:::txtsize --> MaahvafrrkaPag:::txtsize
+Uzsfeasis:::txtsize --> Uzlecoeapageo:::txtsize
+Uzlecoeapageo:::txtsize --> TenurneCbVuo:::txtsize
+TenurneCbVuo:::txtsize --> Siurymeoarnolu:::txtsize
+TenurneCbVuo:::txtsize --> Uirdotoeramzsho:::txtsize
+Uzlecoeapageo:::txtsize --> VulScpifromlMo:::txtsize
+VulScpifromlMo:::txtsize --> Tsicvsugztliee:::txtsize
+VulScpifromlMo:::txtsize --> UgVuMoceoyRllk:::txtsize
+Uzsfeasis:::txtsize --> Tsetnwteaep:::txtsize
+Tsetnwteaep:::txtsize --> CvsorzaSkueid:::txtsize
+CvsorzaSkueid:::txtsize --> Twruedett:::txtsize
+Tsetnwteaep:::txtsize --> Useirnpeaa:::txtsize
+Useirnpeaa:::txtsize --> Toskftdasitgz:::txtsize
+Useirnpeaa:::txtsize --> Tbsawnstidaao:::txtsize
 
 ```
-<i>Last updated: 2025-12-21 00:00:36.731440 (GMT+8)</i>
+<i>Last updated: 2025-12-21 04:01:06.761534 (GMT+8)</i>
 <!-- END -->
