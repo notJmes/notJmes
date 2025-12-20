@@ -16,6 +16,80 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+hfwiliJy@{ shape: win-pane, label: "_Published Dec 20, 2025, 03:57 PM_
+17 hurt after two trains collide in new jersey" }
+Tnivuqiesyc@{ shape: win-pane, label: "_Published Dec 20, 2025, 01:50 PM_
+Taiwan president vows full inquiry into deadly subway attack" }
+Kwitrseiiroc@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:57 PM_
+Knife-wielding attacker kills three in taipei, dies during police chase" }
+Ngefentsiioaf@{ shape: win-pane, label: "_Published Dec 20, 2025, 12:38 PM_
+No singaporeans affected by knife attacks in taipei: singapore trade office" }
+Tnivuqiesyc@{ shape: win-pane, label: "_Published Dec 20, 2025, 01:50 PM_
+Taiwan president vows full inquiry into deadly subway attack" }
+Ngefentsiioaf@{ shape: win-pane, label: "_Published Dec 20, 2025, 12:38 PM_
+No singaporeans affected by knife attacks in taipei: singapore trade office" }
+Kwitrseiiroc@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:57 PM_
+Knife-wielding attacker kills three in taipei, dies during police chase" }
+Tseasitl@{ shape: win-pane, label: "_Published May 19, 2025, 10:30 AM_
+Train strike ends after snarling ny travel" }
+Nrrtsetuaeaesl@{ shape: win-pane, label: "_Published May 16, 2025, 04:48 PM_
+New jersey transit rail strike, first in four decades, begins as wage talks stall" }
+SuosnoiUithp@{ shape: win-pane, label: "_Published Dec 21, 2024, 02:50 PM_
+Starbucks workers’ union goes on strike in us cities as talks hit impasse" }
+
+hfwiliJy:::txtsize --> Tnivuqiesyc:::txtsize
+Tnivuqiesyc:::txtsize --> Kwitrseiiroc:::txtsize
+Kwitrseiiroc:::txtsize --> Ngefentsiioaf:::txtsize
+Kwitrseiiroc:::txtsize --> Tnivuqiesyc:::txtsize
+Tnivuqiesyc:::txtsize --> Ngefentsiioaf:::txtsize
+Ngefentsiioaf:::txtsize --> Kwitrseiiroc:::txtsize
+hfwiliJy:::txtsize --> Tseasitl:::txtsize
+Tseasitl:::txtsize --> Nrrtsetuaeaesl:::txtsize
+Nrrtsetuaeaesl:::txtsize --> SuosnoiUithp:::txtsize
+
+Hnoeameaoais@{ shape: win-pane, label: "_Published Dec 20, 2025, 03:13 PM_
+Heading into midterm year, trump hopes to make economy a winning issue" }
+IraafguwnblBiroo@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:54 AM_
+‘i inherited a mess, and i’m fixing it’: trump vows economic boom, blames biden in address to nation" }
+Ttsgidsociu@{ shape: win-pane, label: "_Published Dec 18, 2025, 07:00 AM_
+Trump to vow ‘stronger’ us in tv address as economic worries mount" }
+TsoastneRrols@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:14 AM_
+Trump’s approval rating slips to 39%, economy weighs, reuters/ipsos poll finds" }
+ThuMnlmenekmae@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:15 PM_
+‘turn the volume up,’ mamdani tells trump after winning new york city mayoral race" }
+TaitismonAcfzi@{ shape: win-pane, label: "_Published Dec 18, 2025, 09:55 AM_
+Trump administration aims to strip more foreign-born americans of citizenship" }
+Taeoicniuaat@{ shape: win-pane, label: "_Published Dec 17, 2025, 05:35 AM_
+Trump adds seven countries, including syria, to full travel ban list" }
+Twruedett@{ shape: win-pane, label: "_Published Dec 18, 2025, 12:58 PM_
+Takeaways from trump’s year-end address to the nation" }
+IraafguwnblBiroo@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:54 AM_
+‘i inherited a mess, and i’m fixing it’: trump vows economic boom, blames biden in address to nation" }
+Ttsgidsociu@{ shape: win-pane, label: "_Published Dec 18, 2025, 07:00 AM_
+Trump to vow ‘stronger’ us in tv address as economic worries mount" }
+TaitismonAcfzi@{ shape: win-pane, label: "_Published Dec 18, 2025, 09:55 AM_
+Trump administration aims to strip more foreign-born americans of citizenship" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
+Us military says it carried out strikes on three vessels in eastern pacific" }
+Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
+Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
+
+Hnoeameaoais:::txtsize --> IraafguwnblBiroo:::txtsize
+IraafguwnblBiroo:::txtsize --> Ttsgidsociu:::txtsize
+Ttsgidsociu:::txtsize --> TsoastneRrols:::txtsize
+Ttsgidsociu:::txtsize --> ThuMnlmenekmae:::txtsize
+IraafguwnblBiroo:::txtsize --> TaitismonAcfzi:::txtsize
+TaitismonAcfzi:::txtsize --> Taeoicniuaat:::txtsize
+Hnoeameaoais:::txtsize --> Twruedett:::txtsize
+Twruedett:::txtsize --> IraafguwnblBiroo:::txtsize
+IraafguwnblBiroo:::txtsize --> Ttsgidsociu:::txtsize
+IraafguwnblBiroo:::txtsize --> TaitismonAcfzi:::txtsize
+Twruedett:::txtsize --> Toskftdasitgz:::txtsize
+Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
+Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
+
 GesfUainaavebdsnnr@{ shape: win-pane, label: "_Published Dec 20, 2025, 11:45 AM_
 Google warns staff with us visas against international travel due to embassy delays, business insider says" }
 Toiriltier@{ shape: win-pane, label: "_Published Sep 21, 2025, 03:30 PM_
@@ -62,71 +136,6 @@ TsgobeadrnAce:::txtsize --> TaitreHaevnhibrwr:::txtsize
 TaitreHaevnhibrwr:::txtsize --> Wsvrmdspgt:::txtsize
 TaitreHaevnhibrwr:::txtsize --> FniBeracSudaics:::txtsize
 
-AardSsStefaelustl@{ shape: win-pane, label: "_Published Dec 20, 2025, 11:45 AM_
-After airport pat-down, us transport secretary sean duffy’s daughter calls tsa ‘unconstitutional’" }
-UeniateWnDcs@{ shape: win-pane, label: "_Published Dec 18, 2025, 08:55 AM_
-Us government admits liability in deadly washington dc air collision" }
-Uycraagrahle@{ shape: win-pane, label: "_Published Aug 02, 2025, 09:40 AM_
-Us army helicopter in deadly washington crash had technical issues" }
-Nvspaltloag@{ shape: win-pane, label: "_Published Jan 30, 2025, 09:10 PM_
-No survivors from plane and helicopter collision in washington" }
-Tusgtnjanoevnrr@{ shape: win-pane, label: "_Published Jul 26, 2025, 07:49 AM_
-Two southwest flight attendants injured as plane manoeuvres to avoid another aircraft" }
-Nvspaltloag@{ shape: win-pane, label: "_Published Jan 30, 2025, 09:10 PM_
-No survivors from plane and helicopter collision in washington" }
-Medfmaljltlaathoe@{ shape: win-pane, label: "_Published Jan 30, 2025, 11:14 AM_
-Many feared dead after american airlines jet, helicopter collide and crash into washington river" }
-Medfmaljltlaathoe@{ shape: win-pane, label: "_Published Jan 30, 2025, 11:14 AM_
-Many feared dead after american airlines jet, helicopter collide and crash into washington river" }
-
-AardSsStefaelustl:::txtsize --> UeniateWnDcs:::txtsize
-UeniateWnDcs:::txtsize --> Uycraagrahle:::txtsize
-Uycraagrahle:::txtsize --> Nvspaltloag:::txtsize
-Uycraagrahle:::txtsize --> Tusgtnjanoevnrr:::txtsize
-UeniateWnDcs:::txtsize --> Nvspaltloag:::txtsize
-Nvspaltloag:::txtsize --> Medfmaljltlaathoe:::txtsize
-Nvspaltloag:::txtsize --> Medfmaljltlaathoe:::txtsize
-
-Urtsragetpniirt@{ shape: win-pane, label: "_Published Dec 20, 2025, 11:36 AM_
-Universal studios in early planning stages for theme park in saudi arabia, wsj reports" }
-Dyvincccfrel@{ shape: win-pane, label: "_Published Dec 11, 2025, 10:25 PM_
-Disney to invest $1.29b in openai, license characters for sora video tool" }
-TareffllnPne@{ shape: win-pane, label: "_Published Dec 11, 2025, 10:04 PM_
-Time names architects of artificial intelligence as ‘person of the year’" }
-OIsdhTrneUnc@{ shape: win-pane, label: "_Published Aug 27, 2025, 07:50 AM_
-Openai plans to update chatgpt after parents sue over us teen’s suicide" }
-Alpecgnts@{ shape: win-pane, label: "_Published Dec 11, 2025, 10:40 AM_
-Ai’s $517 billion problem: are chips getting old too fast?" }
-DyeWrsiArixogfe@{ shape: win-pane, label: "_Published Sep 17, 2025, 07:39 AM_
-Disney, universal, warner bros sue chinese ai start-up minimax for copyright infringement" }
-Aosfimevliroytie@{ shape: win-pane, label: "_Published Jun 11, 2025, 10:54 PM_
-A ‘bottomless pit of plagiarism’: disney, universal sue midjourney for copyright infringement" }
-WsrsnnbriitIu@{ shape: win-pane, label: "_Published Apr 06, 2025, 05:00 AM_
-Will users, organisations be in trouble for posting ghibli-style ai pictures?" }
-Wrfhuhisboat@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:30 PM_
-Warner bros fight heats up with $140.7 billion hostile bid from paramount" }
-Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
-Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
-Nixilbrrsreua@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:40 PM_
-Netflix in exclusive talks to buy warner bros discovery assets, source says" }
-Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
-Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
-Nixilbrrsreua@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:40 PM_
-Netflix in exclusive talks to buy warner bros discovery assets, source says" }
-
-Urtsragetpniirt:::txtsize --> Dyvincccfrel:::txtsize
-Dyvincccfrel:::txtsize --> TareffllnPne:::txtsize
-TareffllnPne:::txtsize --> OIsdhTrneUnc:::txtsize
-TareffllnPne:::txtsize --> Alpecgnts:::txtsize
-Dyvincccfrel:::txtsize --> DyeWrsiArixogfe:::txtsize
-DyeWrsiArixogfe:::txtsize --> Aosfimevliroytie:::txtsize
-DyeWrsiArixogfe:::txtsize --> WsrsnnbriitIu:::txtsize
-Urtsragetpniirt:::txtsize --> Wrfhuhisboat:::txtsize
-Wrfhuhisboat:::txtsize --> Niunocydtiimh:::txtsize
-Niunocydtiimh:::txtsize --> Nixilbrrsreua:::txtsize
-Wrfhuhisboat:::txtsize --> Niunocydtiimh:::txtsize
-Niunocydtiimh:::txtsize --> Nixilbrrsreua:::txtsize
-
 ```
-<i>Last updated: 2025-12-20 12:01:05.726287 (GMT+8)</i>
+<i>Last updated: 2025-12-20 16:00:32.225989 (GMT+8)</i>
 <!-- END -->
