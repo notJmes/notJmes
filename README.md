@@ -16,132 +16,117 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-UruglaorasSrfl@{ shape: win-pane, label: "_Published Dec 20, 2025, 07:01 AM_
-Us carries out large-scale retaliatory strikes against isis in syria, officials say" }
-TveaaUdkdrt@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:09 AM_
-Trump vows retaliation after us soldiers killed in syria attack" }
-Uolnahcy@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:18 PM_
-Us troops killed in isis ambush attack in syria" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Smoaepoa@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:31 PM_
-Syria marks one year after toppling of assad" }
-Uolnahcy@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:18 PM_
-Us troops killed in isis ambush attack in syria" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Smoaepoa@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:31 PM_
-Syria marks one year after toppling of assad" }
-TveaaUdkdrt@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:09 AM_
-Trump vows retaliation after us soldiers killed in syria attack" }
-Uolnahcy@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:18 PM_
-Us troops killed in isis ambush attack in syria" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Smoaepoa@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:31 PM_
-Syria marks one year after toppling of assad" }
-Uolnahcy@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:18 PM_
-Us troops killed in isis ambush attack in syria" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Smoaepoa@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:31 PM_
-Syria marks one year after toppling of assad" }
+GesfUainaavebdsnnr@{ shape: win-pane, label: "_Published Dec 20, 2025, 11:45 AM_
+Google warns staff with us visas against international travel due to embassy delays, business insider says" }
+Toiriltier@{ shape: win-pane, label: "_Published Sep 21, 2025, 03:30 PM_
+Tech companies warn h-1b visa holders to avoid foreign travel" }
+Wunceoi@{ shape: win-pane, label: "_Published Sep 21, 2025, 08:40 AM_
+Why trump wants to charge us$100k for h-1b visas" }
+UHaityigeiuy@{ shape: win-pane, label: "_Published Sep 21, 2025, 01:51 AM_
+Us’ new h-1b visa fee will not apply to existing holders, white house says" }
+TseBshsainsa@{ shape: win-pane, label: "_Published Sep 20, 2025, 11:33 PM_
+Trump’s us$100,000 fee for h-1b visas, a tech industry favourite, concerns india" }
+Wunceoi@{ shape: win-pane, label: "_Published Sep 21, 2025, 08:40 AM_
+Why trump wants to charge us$100k for h-1b visas" }
+UHaityigeiuy@{ shape: win-pane, label: "_Published Sep 21, 2025, 01:51 AM_
+Us’ new h-1b visa fee will not apply to existing holders, white house says" }
+TseBshsainsa@{ shape: win-pane, label: "_Published Sep 20, 2025, 11:33 PM_
+Trump’s us$100,000 fee for h-1b visas, a tech industry favourite, concerns india" }
+TsgobeadrnAce@{ shape: win-pane, label: "_Published Sep 24, 2025, 07:07 PM_
+Trump's immigration curbs make indian students rethink the american dream" }
+TssiaiSorcr@{ shape: win-pane, label: "_Published Sep 24, 2025, 06:07 PM_
+Trump’s h-1b visa fee increase raises us doctor shortage concerns" }
+TttigeoAcb@{ shape: win-pane, label: "_Published Sep 21, 2025, 06:00 PM_
+Trump targets h-1b visa in gamble to protect american jobs" }
+FniBeracSudaics@{ shape: win-pane, label: "_Published Sep 22, 2025, 07:45 AM_
+‘fast and furious’: h-1b workers abroad race back to us as trump order sparks dismay, confusion" }
+TaitreHaevnhibrwr@{ shape: win-pane, label: "_Published Sep 23, 2025, 10:07 PM_
+Trump administration proposes new h-1b visa process favouring higher-skilled, better-paid workers" }
+Wsvrmdspgt@{ shape: win-pane, label: "_Published Sep 21, 2025, 03:45 PM_
+What is us’ h-1b visa programme and how is trump changing it?" }
+FniBeracSudaics@{ shape: win-pane, label: "_Published Sep 22, 2025, 07:45 AM_
+‘fast and furious’: h-1b workers abroad race back to us as trump order sparks dismay, confusion" }
 
-UruglaorasSrfl:::txtsize --> TveaaUdkdrt:::txtsize
-TveaaUdkdrt:::txtsize --> Uolnahcy:::txtsize
-Uolnahcy:::txtsize --> SnltiARahtoy:::txtsize
-Uolnahcy:::txtsize --> Smoaepoa:::txtsize
-TveaaUdkdrt:::txtsize --> Uolnahcy:::txtsize
-Uolnahcy:::txtsize --> SnltiARahtoy:::txtsize
-Uolnahcy:::txtsize --> Smoaepoa:::txtsize
-UruglaorasSrfl:::txtsize --> TveaaUdkdrt:::txtsize
-TveaaUdkdrt:::txtsize --> Uolnahcy:::txtsize
-Uolnahcy:::txtsize --> SnltiARahtoy:::txtsize
-Uolnahcy:::txtsize --> Smoaepoa:::txtsize
-TveaaUdkdrt:::txtsize --> Uolnahcy:::txtsize
-Uolnahcy:::txtsize --> SnltiARahtoy:::txtsize
-Uolnahcy:::txtsize --> Smoaepoa:::txtsize
+GesfUainaavebdsnnr:::txtsize --> Toiriltier:::txtsize
+Toiriltier:::txtsize --> Wunceoi:::txtsize
+Wunceoi:::txtsize --> UHaityigeiuy:::txtsize
+Wunceoi:::txtsize --> TseBshsainsa:::txtsize
+Toiriltier:::txtsize --> Wunceoi:::txtsize
+Wunceoi:::txtsize --> UHaityigeiuy:::txtsize
+Wunceoi:::txtsize --> TseBshsainsa:::txtsize
+GesfUainaavebdsnnr:::txtsize --> TsgobeadrnAce:::txtsize
+TsgobeadrnAce:::txtsize --> TssiaiSorcr:::txtsize
+TssiaiSorcr:::txtsize --> TttigeoAcb:::txtsize
+TssiaiSorcr:::txtsize --> FniBeracSudaics:::txtsize
+TsgobeadrnAce:::txtsize --> TaitreHaevnhibrwr:::txtsize
+TaitreHaevnhibrwr:::txtsize --> Wsvrmdspgt:::txtsize
+TaitreHaevnhibrwr:::txtsize --> FniBeracSudaics:::txtsize
 
-WYresemhiD@{ shape: win-pane, label: "_Published Dec 20, 2025, 06:41 AM_
-While you were sleeping: 5 stories you might have missed, dec 20, 2025" }
-Ueenttasrace@{ shape: win-pane, label: "_Published Dec 20, 2025, 04:16 AM_
-Us intelligence indicates putin’s war aims in ukraine are unchanged" }
-EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
-Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
-Ranaomedrhuaiuv@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
-Russia says no ukraine compromise reached after five-hour putin talks with trump envoys" }
-EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
-Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
-Ranaomedrhuaiuv@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
-Russia says no ukraine compromise reached after five-hour putin talks with trump envoys" }
-UnsialaiiaS@{ shape: win-pane, label: "_Published Dec 19, 2025, 09:31 PM_
-Ukraine hits russian ‘shadow fleet’ tanker in mediterranean sea" }
-Unsilacipoom@{ shape: win-pane, label: "_Published Dec 13, 2025, 03:18 AM_
-Ukraine hits russian oil infrastructure in caspian for second time" }
-Unsilniaiifl@{ shape: win-pane, label: "_Published Dec 11, 2025, 08:43 PM_
-Ukraine hits russian oil rig in caspian sea for first time, official says" }
-UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
-Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
-UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
-Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
-Skleokusnde@{ shape: win-pane, label: "_Published Dec 17, 2024, 03:10 AM_
-Stricken oil tankers show risks of russia’s ageing ‘shadow fleet’" }
-SiRadentokfler@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:04 AM_
-Sanctioned russian ‘shadow fleet’ tanker at risk of sinking after blast near turkey" }
+AardSsStefaelustl@{ shape: win-pane, label: "_Published Dec 20, 2025, 11:45 AM_
+After airport pat-down, us transport secretary sean duffy’s daughter calls tsa ‘unconstitutional’" }
+UeniateWnDcs@{ shape: win-pane, label: "_Published Dec 18, 2025, 08:55 AM_
+Us government admits liability in deadly washington dc air collision" }
+Uycraagrahle@{ shape: win-pane, label: "_Published Aug 02, 2025, 09:40 AM_
+Us army helicopter in deadly washington crash had technical issues" }
+Nvspaltloag@{ shape: win-pane, label: "_Published Jan 30, 2025, 09:10 PM_
+No survivors from plane and helicopter collision in washington" }
+Tusgtnjanoevnrr@{ shape: win-pane, label: "_Published Jul 26, 2025, 07:49 AM_
+Two southwest flight attendants injured as plane manoeuvres to avoid another aircraft" }
+Nvspaltloag@{ shape: win-pane, label: "_Published Jan 30, 2025, 09:10 PM_
+No survivors from plane and helicopter collision in washington" }
+Medfmaljltlaathoe@{ shape: win-pane, label: "_Published Jan 30, 2025, 11:14 AM_
+Many feared dead after american airlines jet, helicopter collide and crash into washington river" }
+Medfmaljltlaathoe@{ shape: win-pane, label: "_Published Jan 30, 2025, 11:14 AM_
+Many feared dead after american airlines jet, helicopter collide and crash into washington river" }
 
-WYresemhiD:::txtsize --> Ueenttasrace:::txtsize
-Ueenttasrace:::txtsize --> EihaDsitnnannsake:::txtsize
-EihaDsitnnannsake:::txtsize --> Ranaomedrhuaiuv:::txtsize
-Ueenttasrace:::txtsize --> EihaDsitnnannsake:::txtsize
-EihaDsitnnannsake:::txtsize --> Ranaomedrhuaiuv:::txtsize
-WYresemhiD:::txtsize --> UnsialaiiaS:::txtsize
-UnsialaiiaS:::txtsize --> Unsilacipoom:::txtsize
-Unsilacipoom:::txtsize --> Unsilniaiifl:::txtsize
-Unsilacipoom:::txtsize --> UntaluneBScyca:::txtsize
-UnsialaiiaS:::txtsize --> UntaluneBScyca:::txtsize
-UntaluneBScyca:::txtsize --> Skleokusnde:::txtsize
-UntaluneBScyca:::txtsize --> SiRadentokfler:::txtsize
+AardSsStefaelustl:::txtsize --> UeniateWnDcs:::txtsize
+UeniateWnDcs:::txtsize --> Uycraagrahle:::txtsize
+Uycraagrahle:::txtsize --> Nvspaltloag:::txtsize
+Uycraagrahle:::txtsize --> Tusgtnjanoevnrr:::txtsize
+UeniateWnDcs:::txtsize --> Nvspaltloag:::txtsize
+Nvspaltloag:::txtsize --> Medfmaljltlaathoe:::txtsize
+Nvspaltloag:::txtsize --> Medfmaljltlaathoe:::txtsize
 
-UeasBUrseiaam@{ shape: win-pane, label: "_Published Dec 20, 2025, 06:01 AM_
-Us investigators study brown university shooter’s failed past in academia" }
-Scuiwvtstoe@{ shape: win-pane, label: "_Published Dec 19, 2025, 10:43 AM_
-Suspected gunman in brown university mass shooting found dead" }
-RnTisohso@{ shape: win-pane, label: "_Published Dec 18, 2025, 04:17 PM_
-Renowned mit physicist shot to death in boston home" }
-BUrgndyeoahou@{ shape: win-pane, label: "_Published Dec 18, 2025, 06:55 AM_
-Brown university gunman ‘could be anywhere’, say police as manhunt continues" }
-Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
-Police hold person of interest after brown university shooting left 2 dead" }
-SiKcaiileecd@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:03 AM_
-Shooting at kentucky state university kills one, suspect in custody" }
-Asdndrtaspii@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:58 PM_
-At least 1 dead and 3 injured after shootings at mississippi universities" }
-Rtlbtgrhnea@{ shape: win-pane, label: "_Published Dec 19, 2025, 04:00 PM_
-Reddit post led to breakthrough in brown shooting investigation" }
-Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
-Police hold person of interest after brown university shooting left 2 dead" }
-SiKcaiileecd@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:03 AM_
-Shooting at kentucky state university kills one, suspect in custody" }
-Asdndrtaspii@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:58 PM_
-At least 1 dead and 3 injured after shootings at mississippi universities" }
-RnTisohso@{ shape: win-pane, label: "_Published Dec 18, 2025, 04:17 PM_
-Renowned mit physicist shot to death in boston home" }
-BUrgndyeoahou@{ shape: win-pane, label: "_Published Dec 18, 2025, 06:55 AM_
-Brown university gunman ‘could be anywhere’, say police as manhunt continues" }
+Urtsragetpniirt@{ shape: win-pane, label: "_Published Dec 20, 2025, 11:36 AM_
+Universal studios in early planning stages for theme park in saudi arabia, wsj reports" }
+Dyvincccfrel@{ shape: win-pane, label: "_Published Dec 11, 2025, 10:25 PM_
+Disney to invest $1.29b in openai, license characters for sora video tool" }
+TareffllnPne@{ shape: win-pane, label: "_Published Dec 11, 2025, 10:04 PM_
+Time names architects of artificial intelligence as ‘person of the year’" }
+OIsdhTrneUnc@{ shape: win-pane, label: "_Published Aug 27, 2025, 07:50 AM_
+Openai plans to update chatgpt after parents sue over us teen’s suicide" }
+Alpecgnts@{ shape: win-pane, label: "_Published Dec 11, 2025, 10:40 AM_
+Ai’s $517 billion problem: are chips getting old too fast?" }
+DyeWrsiArixogfe@{ shape: win-pane, label: "_Published Sep 17, 2025, 07:39 AM_
+Disney, universal, warner bros sue chinese ai start-up minimax for copyright infringement" }
+Aosfimevliroytie@{ shape: win-pane, label: "_Published Jun 11, 2025, 10:54 PM_
+A ‘bottomless pit of plagiarism’: disney, universal sue midjourney for copyright infringement" }
+WsrsnnbriitIu@{ shape: win-pane, label: "_Published Apr 06, 2025, 05:00 AM_
+Will users, organisations be in trouble for posting ghibli-style ai pictures?" }
+Wrfhuhisboat@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:30 PM_
+Warner bros fight heats up with $140.7 billion hostile bid from paramount" }
+Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
+Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
+Nixilbrrsreua@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:40 PM_
+Netflix in exclusive talks to buy warner bros discovery assets, source says" }
+Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
+Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
+Nixilbrrsreua@{ shape: win-pane, label: "_Published Dec 05, 2025, 02:40 PM_
+Netflix in exclusive talks to buy warner bros discovery assets, source says" }
 
-UeasBUrseiaam:::txtsize --> Scuiwvtstoe:::txtsize
-Scuiwvtstoe:::txtsize --> RnTisohso:::txtsize
-RnTisohso:::txtsize --> BUrgndyeoahou:::txtsize
-Scuiwvtstoe:::txtsize --> Pepnttrneytea:::txtsize
-Pepnttrneytea:::txtsize --> SiKcaiileecd:::txtsize
-Pepnttrneytea:::txtsize --> Asdndrtaspii:::txtsize
-UeasBUrseiaam:::txtsize --> Rtlbtgrhnea:::txtsize
-Rtlbtgrhnea:::txtsize --> Pepnttrneytea:::txtsize
-Pepnttrneytea:::txtsize --> SiKcaiileecd:::txtsize
-Pepnttrneytea:::txtsize --> Asdndrtaspii:::txtsize
-Rtlbtgrhnea:::txtsize --> RnTisohso:::txtsize
-RnTisohso:::txtsize --> BUrgndyeoahou:::txtsize
+Urtsragetpniirt:::txtsize --> Dyvincccfrel:::txtsize
+Dyvincccfrel:::txtsize --> TareffllnPne:::txtsize
+TareffllnPne:::txtsize --> OIsdhTrneUnc:::txtsize
+TareffllnPne:::txtsize --> Alpecgnts:::txtsize
+Dyvincccfrel:::txtsize --> DyeWrsiArixogfe:::txtsize
+DyeWrsiArixogfe:::txtsize --> Aosfimevliroytie:::txtsize
+DyeWrsiArixogfe:::txtsize --> WsrsnnbriitIu:::txtsize
+Urtsragetpniirt:::txtsize --> Wrfhuhisboat:::txtsize
+Wrfhuhisboat:::txtsize --> Niunocydtiimh:::txtsize
+Niunocydtiimh:::txtsize --> Nixilbrrsreua:::txtsize
+Wrfhuhisboat:::txtsize --> Niunocydtiimh:::txtsize
+Niunocydtiimh:::txtsize --> Nixilbrrsreua:::txtsize
 
 ```
-<i>Last updated: 2025-12-20 08:00:37.536352 (GMT+8)</i>
+<i>Last updated: 2025-12-20 12:01:05.726287 (GMT+8)</i>
 <!-- END -->
