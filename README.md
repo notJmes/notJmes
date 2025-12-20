@@ -16,126 +16,129 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-hfwiliJy@{ shape: win-pane, label: "_Published Dec 20, 2025, 03:57 PM_
-17 hurt after two trains collide in new jersey" }
-Tnivuqiesyc@{ shape: win-pane, label: "_Published Dec 20, 2025, 01:50 PM_
-Taiwan president vows full inquiry into deadly subway attack" }
-Kwitrseiiroc@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:57 PM_
-Knife-wielding attacker kills three in taipei, dies during police chase" }
-Ngefentsiioaf@{ shape: win-pane, label: "_Published Dec 20, 2025, 12:38 PM_
-No singaporeans affected by knife attacks in taipei: singapore trade office" }
-Tnivuqiesyc@{ shape: win-pane, label: "_Published Dec 20, 2025, 01:50 PM_
-Taiwan president vows full inquiry into deadly subway attack" }
-Ngefentsiioaf@{ shape: win-pane, label: "_Published Dec 20, 2025, 12:38 PM_
-No singaporeans affected by knife attacks in taipei: singapore trade office" }
-Kwitrseiiroc@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:57 PM_
-Knife-wielding attacker kills three in taipei, dies during police chase" }
-Tseasitl@{ shape: win-pane, label: "_Published May 19, 2025, 10:30 AM_
-Train strike ends after snarling ny travel" }
-Nrrtsetuaeaesl@{ shape: win-pane, label: "_Published May 16, 2025, 04:48 PM_
-New jersey transit rail strike, first in four decades, begins as wage talks stall" }
-SuosnoiUithp@{ shape: win-pane, label: "_Published Dec 21, 2024, 02:50 PM_
-Starbucks workers’ union goes on strike in us cities as talks hit impasse" }
+RsSutneitn@{ shape: win-pane, label: "_Published Dec 20, 2025, 05:09 PM_
+Rubio says us can support japan while working with china" }
+Hstiafictbnot@{ shape: win-pane, label: "_Published Dec 18, 2025, 01:42 PM_
+Hotels and stores in japan suffer amid cancellations by chinese tourists" }
+Vgrtaomirhili@{ shape: win-pane, label: "_Published Dec 18, 2025, 01:25 PM_
+Village near mount fuji aims to draw more visitors with hot air balloon rides" }
+Jhqstwuape@{ shape: win-pane, label: "_Published Dec 09, 2025, 06:25 PM_
+Japan hit by quakes: what to know if you have a trip planned" }
+Jvoighnoephrwn@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:20 PM_
+Japan visitor arrivals growth strong in november despite china travel warning" }
+WpSTcarksci@{ shape: win-pane, label: "_Published Nov 11, 2025, 01:06 PM_
+Why japan pm sanae takaichi’s taiwan remarks caused such a stir" }
+STcksaarminr@{ shape: win-pane, label: "_Published Oct 21, 2025, 12:50 PM_
+Sanae takaichi makes history as japan’s first woman prime minister" }
+STctJstnesfignst@{ shape: win-pane, label: "_Published Oct 04, 2025, 12:57 PM_
+Sanae takaichi set to be japan’s first woman prime minister after winning ruling ldp’s election" }
+Tsoonalinrnst@{ shape: win-pane, label: "_Published Sep 26, 2025, 01:47 PM_
+Trump says south korea and japan will pay billions ‘upfront’ in investment" }
+AonnnetcJspmt@{ shape: win-pane, label: "_Published Sep 25, 2025, 10:30 PM_
+Anti-foreigner sentiment takes root in race for japan’s next prime minister" }
+Puaaorbensoctar@{ shape: win-pane, label: "_Published Oct 16, 2025, 09:42 PM_
+‘pitiful’ sanae takaichi on course to become japan pm as she woos new coalition partner" }
+STctJstnesfignst@{ shape: win-pane, label: "_Published Oct 04, 2025, 12:57 PM_
+Sanae takaichi set to be japan’s first woman prime minister after winning ruling ldp’s election" }
+MaahvafrrkaPag@{ shape: win-pane, label: "_Published Oct 04, 2025, 08:10 PM_
+Meet sanae takaichi: heavy metal fan, former biker chick and japan’s pm-in-waiting" }
 
-hfwiliJy:::txtsize --> Tnivuqiesyc:::txtsize
-Tnivuqiesyc:::txtsize --> Kwitrseiiroc:::txtsize
-Kwitrseiiroc:::txtsize --> Ngefentsiioaf:::txtsize
-Kwitrseiiroc:::txtsize --> Tnivuqiesyc:::txtsize
-Tnivuqiesyc:::txtsize --> Ngefentsiioaf:::txtsize
-Ngefentsiioaf:::txtsize --> Kwitrseiiroc:::txtsize
-hfwiliJy:::txtsize --> Tseasitl:::txtsize
-Tseasitl:::txtsize --> Nrrtsetuaeaesl:::txtsize
-Nrrtsetuaeaesl:::txtsize --> SuosnoiUithp:::txtsize
+RsSutneitn:::txtsize --> Hstiafictbnot:::txtsize
+Hstiafictbnot:::txtsize --> Vgrtaomirhili:::txtsize
+Vgrtaomirhili:::txtsize --> Jhqstwuape:::txtsize
+Hstiafictbnot:::txtsize --> Jvoighnoephrwn:::txtsize
+Jvoighnoephrwn:::txtsize --> WpSTcarksci:::txtsize
+RsSutneitn:::txtsize --> STcksaarminr:::txtsize
+STcksaarminr:::txtsize --> STctJstnesfignst:::txtsize
+STctJstnesfignst:::txtsize --> Tsoonalinrnst:::txtsize
+STctJstnesfignst:::txtsize --> AonnnetcJspmt:::txtsize
+STcksaarminr:::txtsize --> Puaaorbensoctar:::txtsize
+Puaaorbensoctar:::txtsize --> STctJstnesfignst:::txtsize
+Puaaorbensoctar:::txtsize --> MaahvafrrkaPag:::txtsize
 
-Hnoeameaoais@{ shape: win-pane, label: "_Published Dec 20, 2025, 03:13 PM_
-Heading into midterm year, trump hopes to make economy a winning issue" }
-IraafguwnblBiroo@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:54 AM_
-‘i inherited a mess, and i’m fixing it’: trump vows economic boom, blames biden in address to nation" }
-Ttsgidsociu@{ shape: win-pane, label: "_Published Dec 18, 2025, 07:00 AM_
-Trump to vow ‘stronger’ us in tv address as economic worries mount" }
-TsoastneRrols@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:14 AM_
-Trump’s approval rating slips to 39%, economy weighs, reuters/ipsos poll finds" }
-ThuMnlmenekmae@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:15 PM_
-‘turn the volume up,’ mamdani tells trump after winning new york city mayoral race" }
-TaitismonAcfzi@{ shape: win-pane, label: "_Published Dec 18, 2025, 09:55 AM_
-Trump administration aims to strip more foreign-born americans of citizenship" }
-Taeoicniuaat@{ shape: win-pane, label: "_Published Dec 17, 2025, 05:35 AM_
-Trump adds seven countries, including syria, to full travel ban list" }
-Twruedett@{ shape: win-pane, label: "_Published Dec 18, 2025, 12:58 PM_
-Takeaways from trump’s year-end address to the nation" }
-IraafguwnblBiroo@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:54 AM_
-‘i inherited a mess, and i’m fixing it’: trump vows economic boom, blames biden in address to nation" }
-Ttsgidsociu@{ shape: win-pane, label: "_Published Dec 18, 2025, 07:00 AM_
-Trump to vow ‘stronger’ us in tv address as economic worries mount" }
-TaitismonAcfzi@{ shape: win-pane, label: "_Published Dec 18, 2025, 09:55 AM_
-Trump administration aims to strip more foreign-born americans of citizenship" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
-Us military says it carried out strikes on three vessels in eastern pacific" }
-Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
-Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
+Piituooeagp@{ shape: win-pane, label: "_Published Dec 20, 2025, 04:50 PM_
+Pilot in mexico city refuses to take off over unpaid wages: reports" }
+SKnortiottkontl@{ shape: win-pane, label: "_Published Sep 12, 2025, 12:45 PM_
+South korean airport workers to strike from sept 19 to oct 9, sparking concerns for travellers" }
+MoLnronitsoeure@{ shape: win-pane, label: "_Published Sep 08, 2025, 07:48 AM_
+Millions of londoners brace for transit disruption as london underground strike begins" }
+Lnrnketeseo@{ shape: win-pane, label: "_Published Sep 07, 2025, 10:26 PM_
+London underground workers set to start week of strike action" }
+LnrovsiTtbs@{ shape: win-pane, label: "_Published Sep 05, 2025, 05:55 PM_
+Londoners brace for travel disruption as tube strike begins" }
+Ydroobndenagnnd@{ shape: win-pane, label: "_Published Sep 08, 2025, 10:16 AM_
+Young doctors in south korea abandon residencies, open dermatology clinics instead" }
+SKnncwurtnaaeloa@{ shape: win-pane, label: "_Published Feb 20, 2024, 11:54 PM_
+South korean trainee doctors walk out in protest against plan to raise medical school intake" }
+SKnncwurtnaaeloa@{ shape: win-pane, label: "_Published Feb 20, 2024, 11:54 PM_
+South korean trainee doctors walk out in protest against plan to raise medical school intake" }
+SiemejocefhU@{ shape: win-pane, label: "_Published Oct 27, 2025, 02:11 AM_
+Striking boeing employees reject contract offer for fourth time: union" }
+Astimerts@{ shape: win-pane, label: "_Published Oct 07, 2025, 06:41 PM_
+Airbus a320 ousts boeing 737 as most-delivered jet in history" }
+BglssanCSe@{ shape: win-pane, label: "_Published Aug 22, 2025, 08:45 AM_
+Boeing in talks to sell as many as 500 planes to china: sources" }
+Cyfynireemhe@{ shape: win-pane, label: "_Published Aug 06, 2025, 01:55 PM_
+Cathay pacific buys 14 planes in its first boeing deal in more than a decade" }
+Csnutitpfaerh@{ shape: win-pane, label: "_Published Jan 08, 2025, 01:40 PM_
+Checks find no issues with boeing 737-800 jets in s’pore after fatal jeju air crash" }
+Jinspniteooma@{ shape: win-pane, label: "_Published Dec 29, 2024, 08:58 AM_
+Jeju air plane crashes upon landing in south korea, 179 on board confirmed dead" }
+Weatjpcite@{ shape: win-pane, label: "_Published Dec 29, 2024, 05:10 PM_
+What we know about the jeju air plane crash in south korea" }
 
-Hnoeameaoais:::txtsize --> IraafguwnblBiroo:::txtsize
-IraafguwnblBiroo:::txtsize --> Ttsgidsociu:::txtsize
-Ttsgidsociu:::txtsize --> TsoastneRrols:::txtsize
-Ttsgidsociu:::txtsize --> ThuMnlmenekmae:::txtsize
-IraafguwnblBiroo:::txtsize --> TaitismonAcfzi:::txtsize
-TaitismonAcfzi:::txtsize --> Taeoicniuaat:::txtsize
-Hnoeameaoais:::txtsize --> Twruedett:::txtsize
-Twruedett:::txtsize --> IraafguwnblBiroo:::txtsize
-IraafguwnblBiroo:::txtsize --> Ttsgidsociu:::txtsize
-IraafguwnblBiroo:::txtsize --> TaitismonAcfzi:::txtsize
-Twruedett:::txtsize --> Toskftdasitgz:::txtsize
-Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
-Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
+Piituooeagp:::txtsize --> SKnortiottkontl:::txtsize
+SKnortiottkontl:::txtsize --> MoLnronitsoeure:::txtsize
+MoLnronitsoeure:::txtsize --> Lnrnketeseo:::txtsize
+MoLnronitsoeure:::txtsize --> LnrovsiTtbs:::txtsize
+SKnortiottkontl:::txtsize --> Ydroobndenagnnd:::txtsize
+Ydroobndenagnnd:::txtsize --> SKnncwurtnaaeloa:::txtsize
+Ydroobndenagnnd:::txtsize --> SKnncwurtnaaeloa:::txtsize
+Piituooeagp:::txtsize --> SiemejocefhU:::txtsize
+SiemejocefhU:::txtsize --> Astimerts:::txtsize
+Astimerts:::txtsize --> BglssanCSe:::txtsize
+Astimerts:::txtsize --> Cyfynireemhe:::txtsize
+SiemejocefhU:::txtsize --> Csnutitpfaerh:::txtsize
+Csnutitpfaerh:::txtsize --> Jinspniteooma:::txtsize
+Csnutitpfaerh:::txtsize --> Weatjpcite:::txtsize
 
-GesfUainaavebdsnnr@{ shape: win-pane, label: "_Published Dec 20, 2025, 11:45 AM_
-Google warns staff with us visas against international travel due to embassy delays, business insider says" }
-Toiriltier@{ shape: win-pane, label: "_Published Sep 21, 2025, 03:30 PM_
-Tech companies warn h-1b visa holders to avoid foreign travel" }
-Wunceoi@{ shape: win-pane, label: "_Published Sep 21, 2025, 08:40 AM_
-Why trump wants to charge us$100k for h-1b visas" }
-UHaityigeiuy@{ shape: win-pane, label: "_Published Sep 21, 2025, 01:51 AM_
-Us’ new h-1b visa fee will not apply to existing holders, white house says" }
-TseBshsainsa@{ shape: win-pane, label: "_Published Sep 20, 2025, 11:33 PM_
-Trump’s us$100,000 fee for h-1b visas, a tech industry favourite, concerns india" }
-Wunceoi@{ shape: win-pane, label: "_Published Sep 21, 2025, 08:40 AM_
-Why trump wants to charge us$100k for h-1b visas" }
-UHaityigeiuy@{ shape: win-pane, label: "_Published Sep 21, 2025, 01:51 AM_
-Us’ new h-1b visa fee will not apply to existing holders, white house says" }
-TseBshsainsa@{ shape: win-pane, label: "_Published Sep 20, 2025, 11:33 PM_
-Trump’s us$100,000 fee for h-1b visas, a tech industry favourite, concerns india" }
-TsgobeadrnAce@{ shape: win-pane, label: "_Published Sep 24, 2025, 07:07 PM_
-Trump's immigration curbs make indian students rethink the american dream" }
-TssiaiSorcr@{ shape: win-pane, label: "_Published Sep 24, 2025, 06:07 PM_
-Trump’s h-1b visa fee increase raises us doctor shortage concerns" }
-TttigeoAcb@{ shape: win-pane, label: "_Published Sep 21, 2025, 06:00 PM_
-Trump targets h-1b visa in gamble to protect american jobs" }
-FniBeracSudaics@{ shape: win-pane, label: "_Published Sep 22, 2025, 07:45 AM_
-‘fast and furious’: h-1b workers abroad race back to us as trump order sparks dismay, confusion" }
-TaitreHaevnhibrwr@{ shape: win-pane, label: "_Published Sep 23, 2025, 10:07 PM_
-Trump administration proposes new h-1b visa process favouring higher-skilled, better-paid workers" }
-Wsvrmdspgt@{ shape: win-pane, label: "_Published Sep 21, 2025, 03:45 PM_
-What is us’ h-1b visa programme and how is trump changing it?" }
-FniBeracSudaics@{ shape: win-pane, label: "_Published Sep 22, 2025, 07:45 AM_
-‘fast and furious’: h-1b workers abroad race back to us as trump order sparks dismay, confusion" }
+BeciEegaret@{ shape: win-pane, label: "_Published Dec 20, 2025, 04:10 PM_
+Beetles block mining of europe’s biggest rare earths deposit" }
+MgVlestii@{ shape: win-pane, label: "_Published Apr 04, 2024, 03:18 PM_
+Mining for ev metals threatens great apes in africa" }
+IwlBndonsd@{ shape: win-pane, label: "_Published Apr 04, 2024, 12:01 PM_
+In 2023, the world lost a bhutan-sized area of rainforest: study" }
+Spooisndeftn@{ shape: win-pane, label: "_Published Nov 12, 2021, 06:08 PM_
+Singapore joins 130 countries in signing pledge to end deforestation by 2030" }
+Hoimroserete@{ shape: win-pane, label: "_Published Oct 29, 2023, 04:58 AM_
+Home countries of major rainforests agree to work together to save them" }
+Foeoneurehvel@{ shape: win-pane, label: "_Published Apr 04, 2024, 02:59 PM_
+From polar bears to groundwater, nature is riddled with ‘forever chemicals’" }
+Crieldierarealp@{ shape: win-pane, label: "_Published Mar 07, 2024, 11:45 AM_
+Cancer-causing chemical found in clinique, clearasil acne treatments, says us lab reports" }
+Hdoridtnyoae@{ shape: win-pane, label: "_Published Jul 08, 2023, 02:00 AM_
+Hazardous 'forever chemicals' detected in nearly half of us tap water" }
+Crrtemnsaesia@{ shape: win-pane, label: "_Published Feb 13, 2025, 05:38 PM_
+Concern as orangutan seen roaming indonesia coal site in east kalimantan" }
+Ffaalsdisnnp@{ shape: win-pane, label: "_Published Mar 22, 2023, 10:14 AM_
+Fears for orang utans, dolphins as indonesia presses on with new capital" }
+Ieftcoginonry@{ shape: win-pane, label: "_Published Apr 28, 2022, 04:09 PM_
+Indonesia's forest policies working but risks on the horizon, experts say" }
+Nenonakgl@{ shape: win-pane, label: "_Published Mar 21, 2023, 03:12 PM_
+No freedom on the horizon for bangkok 'mall gorilla'" }
 
-GesfUainaavebdsnnr:::txtsize --> Toiriltier:::txtsize
-Toiriltier:::txtsize --> Wunceoi:::txtsize
-Wunceoi:::txtsize --> UHaityigeiuy:::txtsize
-Wunceoi:::txtsize --> TseBshsainsa:::txtsize
-Toiriltier:::txtsize --> Wunceoi:::txtsize
-Wunceoi:::txtsize --> UHaityigeiuy:::txtsize
-Wunceoi:::txtsize --> TseBshsainsa:::txtsize
-GesfUainaavebdsnnr:::txtsize --> TsgobeadrnAce:::txtsize
-TsgobeadrnAce:::txtsize --> TssiaiSorcr:::txtsize
-TssiaiSorcr:::txtsize --> TttigeoAcb:::txtsize
-TssiaiSorcr:::txtsize --> FniBeracSudaics:::txtsize
-TsgobeadrnAce:::txtsize --> TaitreHaevnhibrwr:::txtsize
-TaitreHaevnhibrwr:::txtsize --> Wsvrmdspgt:::txtsize
-TaitreHaevnhibrwr:::txtsize --> FniBeracSudaics:::txtsize
+BeciEegaret:::txtsize --> MgVlestii:::txtsize
+MgVlestii:::txtsize --> IwlBndonsd:::txtsize
+IwlBndonsd:::txtsize --> Spooisndeftn:::txtsize
+IwlBndonsd:::txtsize --> Hoimroserete:::txtsize
+MgVlestii:::txtsize --> Foeoneurehvel:::txtsize
+Foeoneurehvel:::txtsize --> Crieldierarealp:::txtsize
+Foeoneurehvel:::txtsize --> Hdoridtnyoae:::txtsize
+BeciEegaret:::txtsize --> Crrtemnsaesia:::txtsize
+Crrtemnsaesia:::txtsize --> Ffaalsdisnnp:::txtsize
+Ffaalsdisnnp:::txtsize --> Ieftcoginonry:::txtsize
+Ffaalsdisnnp:::txtsize --> Nenonakgl:::txtsize
 
 ```
-<i>Last updated: 2025-12-20 16:00:32.225989 (GMT+8)</i>
+<i>Last updated: 2025-12-20 20:01:07.507354 (GMT+8)</i>
 <!-- END -->
