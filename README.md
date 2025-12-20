@@ -16,90 +16,132 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-WolittlroJcUst@{ shape: win-pane, label: "_Published Dec 20, 2025, 03:47 AM_
-Widow of influential activist charlie kirk endorses j.d. vance for us president" }
-TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
-Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
-VsaKsirayce@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:59 AM_
-Videos of charlie kirk’s shooting spread rapidly on social media" }
-TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
-Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
-TwrutomyoaGe@{ shape: win-pane, label: "_Published Nov 15, 2025, 02:43 PM_
-Trump withdraws support for long-time ally marjorie taylor greene" }
-Lsounenonmr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:01 PM_
-Longest us govt shutdown is over but new showdowns loom for trump" }
-Tsdootveuns@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:48 AM_
-Trump signs deal to end longest us government shutdown in history" }
+UruglaorasSrfl@{ shape: win-pane, label: "_Published Dec 20, 2025, 07:01 AM_
+Us carries out large-scale retaliatory strikes against isis in syria, officials say" }
+TveaaUdkdrt@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:09 AM_
+Trump vows retaliation after us soldiers killed in syria attack" }
+Uolnahcy@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:18 PM_
+Us troops killed in isis ambush attack in syria" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Smoaepoa@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:31 PM_
+Syria marks one year after toppling of assad" }
+Uolnahcy@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:18 PM_
+Us troops killed in isis ambush attack in syria" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Smoaepoa@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:31 PM_
+Syria marks one year after toppling of assad" }
+TveaaUdkdrt@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:09 AM_
+Trump vows retaliation after us soldiers killed in syria attack" }
+Uolnahcy@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:18 PM_
+Us troops killed in isis ambush attack in syria" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Smoaepoa@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:31 PM_
+Syria marks one year after toppling of assad" }
+Uolnahcy@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:18 PM_
+Us troops killed in isis ambush attack in syria" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Smoaepoa@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:31 PM_
+Syria marks one year after toppling of assad" }
 
-WolittlroJcUst:::txtsize --> TahesegnipdoUstt:::txtsize
-TahesegnipdoUstt:::txtsize --> VsaKsirayce:::txtsize
-VsaKsirayce:::txtsize --> TahesegnipdoUstt:::txtsize
-WolittlroJcUst:::txtsize --> TwrutomyoaGe:::txtsize
-TwrutomyoaGe:::txtsize --> Lsounenonmr:::txtsize
-Lsounenonmr:::txtsize --> Tsdootveuns:::txtsize
+UruglaorasSrfl:::txtsize --> TveaaUdkdrt:::txtsize
+TveaaUdkdrt:::txtsize --> Uolnahcy:::txtsize
+Uolnahcy:::txtsize --> SnltiARahtoy:::txtsize
+Uolnahcy:::txtsize --> Smoaepoa:::txtsize
+TveaaUdkdrt:::txtsize --> Uolnahcy:::txtsize
+Uolnahcy:::txtsize --> SnltiARahtoy:::txtsize
+Uolnahcy:::txtsize --> Smoaepoa:::txtsize
+UruglaorasSrfl:::txtsize --> TveaaUdkdrt:::txtsize
+TveaaUdkdrt:::txtsize --> Uolnahcy:::txtsize
+Uolnahcy:::txtsize --> SnltiARahtoy:::txtsize
+Uolnahcy:::txtsize --> Smoaepoa:::txtsize
+TveaaUdkdrt:::txtsize --> Uolnahcy:::txtsize
+Uolnahcy:::txtsize --> SnltiARahtoy:::txtsize
+Uolnahcy:::txtsize --> Smoaepoa:::txtsize
 
-RsSntreiake@{ shape: win-pane, label: "_Published Dec 20, 2025, 03:28 AM_
-Rubio says us doesn’t want to force a ceasefire deal on ukraine" }
-ToiegRaipuoorpp@{ shape: win-pane, label: "_Published Nov 23, 2025, 12:09 AM_
-Trump officials’ meeting with russian in miami spurs questions about ukraine peace plan" }
-Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
-Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
-Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
-Trump’s 28-point ukraine plan" }
-Uisonocitseea@{ shape: win-pane, label: "_Published Dec 20, 2025, 02:11 AM_
-Us’ rubio says not concerned about escalation with russia over venezuela" }
-Siurymeoarnolu@{ shape: win-pane, label: "_Published Dec 06, 2025, 02:26 AM_
-Sweeping trump strategy document seeks to reframe us’ role in the world, slams europe" }
-Taitariisnaqitiia@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:21 AM_
-Trump administration says europe risks ‘civilisational erasure’, questions its reliability as ally" }
-Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
-Us military says it carried out strikes on three vessels in eastern pacific" }
-TsSbrltsurnama@{ shape: win-pane, label: "_Published Dec 13, 2025, 07:41 AM_
-Trump says us will be ‘starting’ land strikes on drug operations in latin america" }
-RararoVuMouaps@{ shape: win-pane, label: "_Published Dec 12, 2025, 01:23 AM_
-Russia, belarus leaders reach out to venezuela’s maduro, as trump cranks up pressure" }
+WYresemhiD@{ shape: win-pane, label: "_Published Dec 20, 2025, 06:41 AM_
+While you were sleeping: 5 stories you might have missed, dec 20, 2025" }
+Ueenttasrace@{ shape: win-pane, label: "_Published Dec 20, 2025, 04:16 AM_
+Us intelligence indicates putin’s war aims in ukraine are unchanged" }
+EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
+Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
+Ranaomedrhuaiuv@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
+Russia says no ukraine compromise reached after five-hour putin talks with trump envoys" }
+EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
+Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
+Ranaomedrhuaiuv@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
+Russia says no ukraine compromise reached after five-hour putin talks with trump envoys" }
+UnsialaiiaS@{ shape: win-pane, label: "_Published Dec 19, 2025, 09:31 PM_
+Ukraine hits russian ‘shadow fleet’ tanker in mediterranean sea" }
+Unsilacipoom@{ shape: win-pane, label: "_Published Dec 13, 2025, 03:18 AM_
+Ukraine hits russian oil infrastructure in caspian for second time" }
+Unsilniaiifl@{ shape: win-pane, label: "_Published Dec 11, 2025, 08:43 PM_
+Ukraine hits russian oil rig in caspian sea for first time, official says" }
+UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
+Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
+UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
+Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
+Skleokusnde@{ shape: win-pane, label: "_Published Dec 17, 2024, 03:10 AM_
+Stricken oil tankers show risks of russia’s ageing ‘shadow fleet’" }
+SiRadentokfler@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:04 AM_
+Sanctioned russian ‘shadow fleet’ tanker at risk of sinking after blast near turkey" }
 
-RsSntreiake:::txtsize --> ToiegRaipuoorpp:::txtsize
-ToiegRaipuoorpp:::txtsize --> Uneftcrespepp:::txtsize
-Uneftcrespepp:::txtsize --> Tstia:::txtsize
-RsSntreiake:::txtsize --> Uisonocitseea:::txtsize
-Uisonocitseea:::txtsize --> Siurymeoarnolu:::txtsize
-Siurymeoarnolu:::txtsize --> Taitariisnaqitiia:::txtsize
-Uisonocitseea:::txtsize --> Uistitktvlanf:::txtsize
-Uistitktvlanf:::txtsize --> TsSbrltsurnama:::txtsize
-Uistitktvlanf:::txtsize --> RararoVuMouaps:::txtsize
+WYresemhiD:::txtsize --> Ueenttasrace:::txtsize
+Ueenttasrace:::txtsize --> EihaDsitnnannsake:::txtsize
+EihaDsitnnannsake:::txtsize --> Ranaomedrhuaiuv:::txtsize
+Ueenttasrace:::txtsize --> EihaDsitnnannsake:::txtsize
+EihaDsitnnannsake:::txtsize --> Ranaomedrhuaiuv:::txtsize
+WYresemhiD:::txtsize --> UnsialaiiaS:::txtsize
+UnsialaiiaS:::txtsize --> Unsilacipoom:::txtsize
+Unsilacipoom:::txtsize --> Unsilniaiifl:::txtsize
+Unsilacipoom:::txtsize --> UntaluneBScyca:::txtsize
+UnsialaiiaS:::txtsize --> UntaluneBScyca:::txtsize
+UntaluneBScyca:::txtsize --> Skleokusnde:::txtsize
+UntaluneBScyca:::txtsize --> SiRadentokfler:::txtsize
 
-Uisonocitseea@{ shape: win-pane, label: "_Published Dec 20, 2025, 02:11 AM_
-Us’ rubio says not concerned about escalation with russia over venezuela" }
-Siurymeoarnolu@{ shape: win-pane, label: "_Published Dec 06, 2025, 02:26 AM_
-Sweeping trump strategy document seeks to reframe us’ role in the world, slams europe" }
-Taitariisnaqitiia@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:21 AM_
-Trump administration says europe risks ‘civilisational erasure’, questions its reliability as ally" }
-VakrvaUnkusinn@{ shape: win-pane, label: "_Published Feb 15, 2025, 07:44 AM_
-Vance attack on europe overshadows ukraine talks at munich security conference" }
-EeainletovrRt@{ shape: win-pane, label: "_Published Dec 04, 2025, 09:15 PM_
-European leaders in phone call voiced distrust of us over ukraine: report" }
-Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
-Us military says it carried out strikes on three vessels in eastern pacific" }
-TsSbrltsurnama@{ shape: win-pane, label: "_Published Dec 13, 2025, 07:41 AM_
-Trump says us will be ‘starting’ land strikes on drug operations in latin america" }
-Upgirkfeasespncy@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:13 AM_
-Us preparing to seize more tankers off venezuela’s coast after first ship taken, sources say" }
-Uuennggrmeenik@{ shape: win-pane, label: "_Published Dec 12, 2025, 04:18 AM_
-Us issues fresh sanctions targeting maduro’s family, venezuela-linked oil tankers" }
-RararoVuMouaps@{ shape: win-pane, label: "_Published Dec 12, 2025, 01:23 AM_
-Russia, belarus leaders reach out to venezuela’s maduro, as trump cranks up pressure" }
+UeasBUrseiaam@{ shape: win-pane, label: "_Published Dec 20, 2025, 06:01 AM_
+Us investigators study brown university shooter’s failed past in academia" }
+Scuiwvtstoe@{ shape: win-pane, label: "_Published Dec 19, 2025, 10:43 AM_
+Suspected gunman in brown university mass shooting found dead" }
+RnTisohso@{ shape: win-pane, label: "_Published Dec 18, 2025, 04:17 PM_
+Renowned mit physicist shot to death in boston home" }
+BUrgndyeoahou@{ shape: win-pane, label: "_Published Dec 18, 2025, 06:55 AM_
+Brown university gunman ‘could be anywhere’, say police as manhunt continues" }
+Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
+Police hold person of interest after brown university shooting left 2 dead" }
+SiKcaiileecd@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:03 AM_
+Shooting at kentucky state university kills one, suspect in custody" }
+Asdndrtaspii@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:58 PM_
+At least 1 dead and 3 injured after shootings at mississippi universities" }
+Rtlbtgrhnea@{ shape: win-pane, label: "_Published Dec 19, 2025, 04:00 PM_
+Reddit post led to breakthrough in brown shooting investigation" }
+Pepnttrneytea@{ shape: win-pane, label: "_Published Dec 14, 2025, 06:58 AM_
+Police hold person of interest after brown university shooting left 2 dead" }
+SiKcaiileecd@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:03 AM_
+Shooting at kentucky state university kills one, suspect in custody" }
+Asdndrtaspii@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:58 PM_
+At least 1 dead and 3 injured after shootings at mississippi universities" }
+RnTisohso@{ shape: win-pane, label: "_Published Dec 18, 2025, 04:17 PM_
+Renowned mit physicist shot to death in boston home" }
+BUrgndyeoahou@{ shape: win-pane, label: "_Published Dec 18, 2025, 06:55 AM_
+Brown university gunman ‘could be anywhere’, say police as manhunt continues" }
 
-Uisonocitseea:::txtsize --> Siurymeoarnolu:::txtsize
-Siurymeoarnolu:::txtsize --> Taitariisnaqitiia:::txtsize
-Taitariisnaqitiia:::txtsize --> VakrvaUnkusinn:::txtsize
-Taitariisnaqitiia:::txtsize --> EeainletovrRt:::txtsize
-Uisonocitseea:::txtsize --> Uistitktvlanf:::txtsize
-Uistitktvlanf:::txtsize --> TsSbrltsurnama:::txtsize
-TsSbrltsurnama:::txtsize --> Upgirkfeasespncy:::txtsize
-TsSbrltsurnama:::txtsize --> Uuennggrmeenik:::txtsize
-Uistitktvlanf:::txtsize --> RararoVuMouaps:::txtsize
+UeasBUrseiaam:::txtsize --> Scuiwvtstoe:::txtsize
+Scuiwvtstoe:::txtsize --> RnTisohso:::txtsize
+RnTisohso:::txtsize --> BUrgndyeoahou:::txtsize
+Scuiwvtstoe:::txtsize --> Pepnttrneytea:::txtsize
+Pepnttrneytea:::txtsize --> SiKcaiileecd:::txtsize
+Pepnttrneytea:::txtsize --> Asdndrtaspii:::txtsize
+UeasBUrseiaam:::txtsize --> Rtlbtgrhnea:::txtsize
+Rtlbtgrhnea:::txtsize --> Pepnttrneytea:::txtsize
+Pepnttrneytea:::txtsize --> SiKcaiileecd:::txtsize
+Pepnttrneytea:::txtsize --> Asdndrtaspii:::txtsize
+Rtlbtgrhnea:::txtsize --> RnTisohso:::txtsize
+RnTisohso:::txtsize --> BUrgndyeoahou:::txtsize
 
 ```
-<i>Last updated: 2025-12-20 04:01:09.292793 (GMT+8)</i>
+<i>Last updated: 2025-12-20 08:00:37.536352 (GMT+8)</i>
 <!-- END -->
