@@ -16,93 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tsedgocnsbnk@{ shape: win-pane, label: "_Published Dec 21, 2025, 07:31 PM_
-Trump set to expand immigration crackdown in 2026 despite brewing backlash" }
-TlhmtroNl@{ shape: win-pane, label: "_Published Dec 04, 2025, 03:20 AM_
-Trump launches immigration crackdown in new orleans" }
-
-Tsedgocnsbnk:::txtsize --> TlhmtroNl:::txtsize
-
-KiiryrRases@{ shape: win-pane, label: "_Published Dec 21, 2025, 06:56 PM_
-Kremlin denies three-way us-ukraine-russia talks on the cards" }
+Untttsbtgure@{ shape: win-pane, label: "_Published Dec 21, 2025, 11:55 PM_
+Ukraine battles attempted russian breakthrough in sumy border region" }
+Rackulrmiroms@{ shape: win-pane, label: "_Published Dec 21, 2025, 05:16 PM_
+Russian forces take around 50 villagers from ukraine across border, media says" }
 ZsvUpoetwkeuireu@{ shape: win-pane, label: "_Published Dec 20, 2025, 10:16 PM_
 Zelensky favours us proposal of three-way talks with ukraine and russia if it produces results" }
 Unrwdltygty@{ shape: win-pane, label: "_Published Dec 20, 2025, 12:36 AM_
 Ukraine starts new round of talks with us,  kyiv negotiator says" }
-Eelloaitis@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:23 PM_
-Eu agrees $136 billion loan for ukraine, without russian assets" }
-NplyosUiiTis@{ shape: win-pane, label: "_Published Dec 19, 2025, 10:11 PM_
-No drop in military aid to kyiv since us policy shift, nato official says" }
 Raefrrketonnoiia@{ shape: win-pane, label: "_Published Feb 20, 2025, 05:37 PM_
 Russia targets infrastructure in ukraine’s east and south in extensive overnight air attack" }
-RaaUneeiereeaes@{ shape: win-pane, label: "_Published Feb 19, 2025, 03:06 PM_
-Russian attack on ukraine’s odessa region injures four, causes widespread power cuts" }
-Raiiaolegdiec@{ shape: win-pane, label: "_Published Feb 16, 2025, 09:50 PM_
-Russian strikes hit ukraine power plant, leaving residents in freezing cold" }
+EaRasetUnfees@{ shape: win-pane, label: "_Published Dec 21, 2025, 12:56 AM_
+Escalating russian air strikes aim to cut ukraine off from sea, zelensky says" }
+Raefrrketonnoiia@{ shape: win-pane, label: "_Published Feb 20, 2025, 05:37 PM_
+Russia targets infrastructure in ukraine’s east and south in extensive overnight air attack" }
+Unefmbofunc@{ shape: win-pane, label: "_Published Dec 13, 2025, 08:18 PM_
+Ukraine’s odesa suffers major blackouts after russian attack" }
+Rackulrmiroms@{ shape: win-pane, label: "_Published Dec 21, 2025, 05:16 PM_
+Russian forces take around 50 villagers from ukraine across border, media says" }
+ZsvUpoetwkeuireu@{ shape: win-pane, label: "_Published Dec 20, 2025, 10:16 PM_
+Zelensky favours us proposal of three-way talks with ukraine and russia if it produces results" }
 Unrwdltygty@{ shape: win-pane, label: "_Published Dec 20, 2025, 12:36 AM_
 Ukraine starts new round of talks with us,  kyiv negotiator says" }
-Eelloaitis@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:23 PM_
-Eu agrees $136 billion loan for ukraine, without russian assets" }
-TsegemnaSikke@{ shape: win-pane, label: "_Published Dec 19, 2025, 04:20 AM_
-Trump says ‘getting close to something’ ahead of us, russia talks on ukraine" }
-Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
-Belgium says eu states must share risk to use frozen russian assets for ukraine" }
+Raefrrketonnoiia@{ shape: win-pane, label: "_Published Feb 20, 2025, 05:37 PM_
+Russia targets infrastructure in ukraine’s east and south in extensive overnight air attack" }
+EaRasetUnfees@{ shape: win-pane, label: "_Published Dec 21, 2025, 12:56 AM_
+Escalating russian air strikes aim to cut ukraine off from sea, zelensky says" }
+Raefrrketonnoiia@{ shape: win-pane, label: "_Published Feb 20, 2025, 05:37 PM_
+Russia targets infrastructure in ukraine’s east and south in extensive overnight air attack" }
+Unefmbofunc@{ shape: win-pane, label: "_Published Dec 13, 2025, 08:18 PM_
+Ukraine’s odesa suffers major blackouts after russian attack" }
+
+Untttsbtgure:::txtsize --> Rackulrmiroms:::txtsize
+Rackulrmiroms:::txtsize --> ZsvUpoetwkeuireu:::txtsize
+ZsvUpoetwkeuireu:::txtsize --> Unrwdltygty:::txtsize
+ZsvUpoetwkeuireu:::txtsize --> Raefrrketonnoiia:::txtsize
+Rackulrmiroms:::txtsize --> EaRasetUnfees:::txtsize
+EaRasetUnfees:::txtsize --> Raefrrketonnoiia:::txtsize
+EaRasetUnfees:::txtsize --> Unefmbofunc:::txtsize
+Untttsbtgure:::txtsize --> Rackulrmiroms:::txtsize
+Rackulrmiroms:::txtsize --> ZsvUpoetwkeuireu:::txtsize
+ZsvUpoetwkeuireu:::txtsize --> Unrwdltygty:::txtsize
+ZsvUpoetwkeuireu:::txtsize --> Raefrrketonnoiia:::txtsize
+Rackulrmiroms:::txtsize --> EaRasetUnfees:::txtsize
+EaRasetUnfees:::txtsize --> Raefrrketonnoiia:::txtsize
+EaRasetUnfees:::txtsize --> Unefmbofunc:::txtsize
+
+FeiwrarolosG@{ shape: win-pane, label: "_Published Dec 21, 2025, 11:26 PM_
+France to build new aircraft carrier, macron tells troops based in gulf" }
+Raeiaeasghc@{ shape: win-pane, label: "_Published Dec 19, 2025, 10:06 PM_
+Russian defence firms targeted by hackers using ai, other tactics" }
 NplyosUiiTis@{ shape: win-pane, label: "_Published Dec 19, 2025, 10:11 PM_
 No drop in military aid to kyiv since us policy shift, nato official says" }
 UnsialaiiaS@{ shape: win-pane, label: "_Published Dec 19, 2025, 09:31 PM_
 Ukraine hits russian ‘shadow fleet’ tanker in mediterranean sea" }
 Eelloaitis@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:23 PM_
 Eu agrees $136 billion loan for ukraine, without russian assets" }
+UnsialaiiaS@{ shape: win-pane, label: "_Published Dec 19, 2025, 09:31 PM_
+Ukraine hits russian ‘shadow fleet’ tanker in mediterranean sea" }
+Unsilacipoom@{ shape: win-pane, label: "_Published Dec 13, 2025, 03:18 AM_
+Ukraine hits russian oil infrastructure in caspian for second time" }
+UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
+Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
 
-KiiryrRases:::txtsize --> ZsvUpoetwkeuireu:::txtsize
-ZsvUpoetwkeuireu:::txtsize --> Unrwdltygty:::txtsize
-Unrwdltygty:::txtsize --> Eelloaitis:::txtsize
-Unrwdltygty:::txtsize --> NplyosUiiTis:::txtsize
-ZsvUpoetwkeuireu:::txtsize --> Raefrrketonnoiia:::txtsize
-Raefrrketonnoiia:::txtsize --> RaaUneeiereeaes:::txtsize
-Raefrrketonnoiia:::txtsize --> Raiiaolegdiec:::txtsize
-KiiryrRases:::txtsize --> Unrwdltygty:::txtsize
-Unrwdltygty:::txtsize --> Eelloaitis:::txtsize
-Eelloaitis:::txtsize --> TsegemnaSikke:::txtsize
-Eelloaitis:::txtsize --> Busauasszsaske:::txtsize
-Unrwdltygty:::txtsize --> NplyosUiiTis:::txtsize
+FeiwrarolosG:::txtsize --> Raeiaeasghc:::txtsize
+Raeiaeasghc:::txtsize --> NplyosUiiTis:::txtsize
 NplyosUiiTis:::txtsize --> UnsialaiiaS:::txtsize
 NplyosUiiTis:::txtsize --> Eelloaitis:::txtsize
+Raeiaeasghc:::txtsize --> UnsialaiiaS:::txtsize
+UnsialaiiaS:::txtsize --> Unsilacipoom:::txtsize
+UnsialaiiaS:::txtsize --> UntaluneBScyca:::txtsize
 
-IluCerntenB@{ shape: win-pane, label: "_Published Dec 21, 2025, 06:29 PM_
-Israel’s security cabinet approves 19 new settlements in west bank" }
-IlausBemxiaePtne@{ shape: win-pane, label: "_Published Sep 12, 2025, 06:16 AM_
-Israel’s netanyahu signs west bank settlement expansion plan, rules out palestinian state" }
-Ilemahmaroais@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:27 PM_
-Israel targets hamas leadership in military strikes on qatar, officials say" }
-Ilssreana@{ shape: win-pane, label: "_Published Sep 08, 2025, 04:31 PM_
-Israel warns hamas to surrender or face ‘annihilation’" }
-Lnthlareseeis@{ shape: win-pane, label: "_Published Sep 09, 2025, 02:18 AM_
-‘leave now’, netanyahu tells gaza city residents as israel intensifies assault" }
-FhtoesatweIl@{ shape: win-pane, label: "_Published Jul 25, 2025, 05:49 AM_
-French plan to recognise palestinian state draws fire from israel, us" }
-Spaoefgvnausa@{ shape: win-pane, label: "_Published Jul 24, 2025, 07:45 PM_
-Singapore says prolonged suffering of civilians in gaza is ‘unconscionable’" }
-Hstotezcp@{ shape: win-pane, label: "_Published Jul 24, 2025, 08:45 AM_
-Hamas says it responded to latest gaza truce proposal" }
-ToTvswoet@{ shape: win-pane, label: "_Published Sep 26, 2025, 06:02 AM_
-‘time to stop’: trump vows israel will not annex west bank" }
-Rnnlntfnirmea@{ shape: win-pane, label: "_Published Sep 23, 2025, 04:52 PM_
-Recognition of palestinian state offers no relief for traumatised gazans" }
-AsldlnaGaot@{ shape: win-pane, label: "_Published Sep 03, 2025, 07:33 PM_
-At least 21,000 children disabled since start of gaza war: un committee" }
+SIinrtidnhe@{ shape: win-pane, label: "_Published Dec 21, 2025, 09:12 PM_
+Swiss interior minister open to social media ban for children" }
+Aaanceosrow@{ shape: win-pane, label: "_Published Dec 10, 2025, 11:25 AM_
+Australia has banned social media for kids under 16. how does it work?" }
+Aaombrdnafils@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:32 PM_
+Australia social media ban for children under 16 takes effect in world first" }
+Aaombtkeagbaw@{ shape: win-pane, label: "_Published Dec 09, 2025, 12:07 PM_
+Australia social media ban set to take effect, sparking a global crackdown" }
+FulEetmocromas@{ shape: win-pane, label: "_Published Dec 09, 2025, 12:37 PM_
+From australia to europe, countries move to curb children’s social media access" }
+Wwesnaisita@{ shape: win-pane, label: "_Published Dec 10, 2025, 11:15 AM_
+World watches first teen social media ban start in australia" }
+Aaombrdnafils@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:32 PM_
+Australia social media ban for children under 16 takes effect in world first" }
+Aneaisesint@{ shape: win-pane, label: "_Published Dec 10, 2025, 08:20 AM_
+Alternative social media apps surge as australia teen ban starts" }
+Itooersaisues@{ shape: win-pane, label: "_Published Dec 10, 2025, 08:48 PM_
+‘i didn’t get to say goodbye’: australia’s social media ban stirs unease, praise" }
+Wwesnaisita@{ shape: win-pane, label: "_Published Dec 10, 2025, 11:15 AM_
+World watches first teen social media ban start in australia" }
+Aaombrdnafils@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:32 PM_
+Australia social media ban for children under 16 takes effect in world first" }
+Aneaisesint@{ shape: win-pane, label: "_Published Dec 10, 2025, 08:20 AM_
+Alternative social media apps surge as australia teen ban starts" }
+SpnsAavceayu@{ shape: win-pane, label: "_Published Jan 07, 2025, 01:27 PM_
+Singapore in talks with australia over social media ban for young users" }
+Aaaslaolu@{ shape: win-pane, label: "_Published Nov 28, 2024, 08:33 PM_
+Australia passes social media ban for children under 16" }
 
-IluCerntenB:::txtsize --> IlausBemxiaePtne:::txtsize
-IlausBemxiaePtne:::txtsize --> Ilemahmaroais:::txtsize
-Ilemahmaroais:::txtsize --> Ilssreana:::txtsize
-Ilemahmaroais:::txtsize --> Lnthlareseeis:::txtsize
-IlausBemxiaePtne:::txtsize --> FhtoesatweIl:::txtsize
-FhtoesatweIl:::txtsize --> Spaoefgvnausa:::txtsize
-FhtoesatweIl:::txtsize --> Hstotezcp:::txtsize
-IluCerntenB:::txtsize --> ToTvswoet:::txtsize
-ToTvswoet:::txtsize --> Rnnlntfnirmea:::txtsize
-Rnnlntfnirmea:::txtsize --> AsldlnaGaot:::txtsize
+SIinrtidnhe:::txtsize --> Aaanceosrow:::txtsize
+Aaanceosrow:::txtsize --> Aaombrdnafils:::txtsize
+Aaombrdnafils:::txtsize --> Aaombtkeagbaw:::txtsize
+Aaombrdnafils:::txtsize --> FulEetmocromas:::txtsize
+Aaanceosrow:::txtsize --> Wwesnaisita:::txtsize
+Wwesnaisita:::txtsize --> Aaombrdnafils:::txtsize
+Wwesnaisita:::txtsize --> Aneaisesint:::txtsize
+SIinrtidnhe:::txtsize --> Itooersaisues:::txtsize
+Itooersaisues:::txtsize --> Wwesnaisita:::txtsize
+Wwesnaisita:::txtsize --> Aaombrdnafils:::txtsize
+Wwesnaisita:::txtsize --> Aneaisesint:::txtsize
+Itooersaisues:::txtsize --> SpnsAavceayu:::txtsize
+SpnsAavceayu:::txtsize --> Aaaslaolu:::txtsize
 
 ```
-<i>Last updated: 2025-12-21 20:00:42.539681 (GMT+8)</i>
+<i>Last updated: 2025-12-22 00:01:04.813281 (GMT+8)</i>
 <!-- END -->
