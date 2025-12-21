@@ -16,120 +16,138 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Untttsbtgure@{ shape: win-pane, label: "_Published Dec 21, 2025, 11:55 PM_
-Ukraine battles attempted russian breakthrough in sumy border region" }
-Rackulrmiroms@{ shape: win-pane, label: "_Published Dec 21, 2025, 05:16 PM_
-Russian forces take around 50 villagers from ukraine across border, media says" }
+Unoaenanaiptr@{ shape: win-pane, label: "_Published Dec 22, 2025, 02:30 AM_
+Ukraine, us to hold another round of talks on dec 22, says kyiv’s top negotiator" }
 ZsvUpoetwkeuireu@{ shape: win-pane, label: "_Published Dec 20, 2025, 10:16 PM_
 Zelensky favours us proposal of three-way talks with ukraine and russia if it produces results" }
 Unrwdltygty@{ shape: win-pane, label: "_Published Dec 20, 2025, 12:36 AM_
 Ukraine starts new round of talks with us,  kyiv negotiator says" }
-Raefrrketonnoiia@{ shape: win-pane, label: "_Published Feb 20, 2025, 05:37 PM_
-Russia targets infrastructure in ukraine’s east and south in extensive overnight air attack" }
-EaRasetUnfees@{ shape: win-pane, label: "_Published Dec 21, 2025, 12:56 AM_
-Escalating russian air strikes aim to cut ukraine off from sea, zelensky says" }
-Raefrrketonnoiia@{ shape: win-pane, label: "_Published Feb 20, 2025, 05:37 PM_
-Russia targets infrastructure in ukraine’s east and south in extensive overnight air attack" }
-Unefmbofunc@{ shape: win-pane, label: "_Published Dec 13, 2025, 08:18 PM_
-Ukraine’s odesa suffers major blackouts after russian attack" }
-Rackulrmiroms@{ shape: win-pane, label: "_Published Dec 21, 2025, 05:16 PM_
-Russian forces take around 50 villagers from ukraine across border, media says" }
-ZsvUpoetwkeuireu@{ shape: win-pane, label: "_Published Dec 20, 2025, 10:16 PM_
-Zelensky favours us proposal of three-way talks with ukraine and russia if it produces results" }
-Unrwdltygty@{ shape: win-pane, label: "_Published Dec 20, 2025, 12:36 AM_
-Ukraine starts new round of talks with us,  kyiv negotiator says" }
-Raefrrketonnoiia@{ shape: win-pane, label: "_Published Feb 20, 2025, 05:37 PM_
-Russia targets infrastructure in ukraine’s east and south in extensive overnight air attack" }
-EaRasetUnfees@{ shape: win-pane, label: "_Published Dec 21, 2025, 12:56 AM_
-Escalating russian air strikes aim to cut ukraine off from sea, zelensky says" }
-Raefrrketonnoiia@{ shape: win-pane, label: "_Published Feb 20, 2025, 05:37 PM_
-Russia targets infrastructure in ukraine’s east and south in extensive overnight air attack" }
-Unefmbofunc@{ shape: win-pane, label: "_Published Dec 13, 2025, 08:18 PM_
-Ukraine’s odesa suffers major blackouts after russian attack" }
-
-Untttsbtgure:::txtsize --> Rackulrmiroms:::txtsize
-Rackulrmiroms:::txtsize --> ZsvUpoetwkeuireu:::txtsize
-ZsvUpoetwkeuireu:::txtsize --> Unrwdltygty:::txtsize
-ZsvUpoetwkeuireu:::txtsize --> Raefrrketonnoiia:::txtsize
-Rackulrmiroms:::txtsize --> EaRasetUnfees:::txtsize
-EaRasetUnfees:::txtsize --> Raefrrketonnoiia:::txtsize
-EaRasetUnfees:::txtsize --> Unefmbofunc:::txtsize
-Untttsbtgure:::txtsize --> Rackulrmiroms:::txtsize
-Rackulrmiroms:::txtsize --> ZsvUpoetwkeuireu:::txtsize
-ZsvUpoetwkeuireu:::txtsize --> Unrwdltygty:::txtsize
-ZsvUpoetwkeuireu:::txtsize --> Raefrrketonnoiia:::txtsize
-Rackulrmiroms:::txtsize --> EaRasetUnfees:::txtsize
-EaRasetUnfees:::txtsize --> Raefrrketonnoiia:::txtsize
-EaRasetUnfees:::txtsize --> Unefmbofunc:::txtsize
-
-FeiwrarolosG@{ shape: win-pane, label: "_Published Dec 21, 2025, 11:26 PM_
-France to build new aircraft carrier, macron tells troops based in gulf" }
-Raeiaeasghc@{ shape: win-pane, label: "_Published Dec 19, 2025, 10:06 PM_
-Russian defence firms targeted by hackers using ai, other tactics" }
-NplyosUiiTis@{ shape: win-pane, label: "_Published Dec 19, 2025, 10:11 PM_
-No drop in military aid to kyiv since us policy shift, nato official says" }
-UnsialaiiaS@{ shape: win-pane, label: "_Published Dec 19, 2025, 09:31 PM_
-Ukraine hits russian ‘shadow fleet’ tanker in mediterranean sea" }
 Eelloaitis@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:23 PM_
 Eu agrees $136 billion loan for ukraine, without russian assets" }
-UnsialaiiaS@{ shape: win-pane, label: "_Published Dec 19, 2025, 09:31 PM_
-Ukraine hits russian ‘shadow fleet’ tanker in mediterranean sea" }
-Unsilacipoom@{ shape: win-pane, label: "_Published Dec 13, 2025, 03:18 AM_
-Ukraine hits russian oil infrastructure in caspian for second time" }
-UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
-Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
+NplyosUiiTis@{ shape: win-pane, label: "_Published Dec 19, 2025, 10:11 PM_
+No drop in military aid to kyiv since us policy shift, nato official says" }
+Raefrrketonnoiia@{ shape: win-pane, label: "_Published Feb 20, 2025, 05:37 PM_
+Russia targets infrastructure in ukraine’s east and south in extensive overnight air attack" }
+RaaUneeiereeaes@{ shape: win-pane, label: "_Published Feb 19, 2025, 03:06 PM_
+Russian attack on ukraine’s odessa region injures four, causes widespread power cuts" }
+Raiiaolegdiec@{ shape: win-pane, label: "_Published Feb 16, 2025, 09:50 PM_
+Russian strikes hit ukraine power plant, leaving residents in freezing cold" }
+ZsvUpoetwkeuireu@{ shape: win-pane, label: "_Published Dec 20, 2025, 10:16 PM_
+Zelensky favours us proposal of three-way talks with ukraine and russia if it produces results" }
+Unrwdltygty@{ shape: win-pane, label: "_Published Dec 20, 2025, 12:36 AM_
+Ukraine starts new round of talks with us,  kyiv negotiator says" }
+Eelloaitis@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:23 PM_
+Eu agrees $136 billion loan for ukraine, without russian assets" }
+NplyosUiiTis@{ shape: win-pane, label: "_Published Dec 19, 2025, 10:11 PM_
+No drop in military aid to kyiv since us policy shift, nato official says" }
+Raefrrketonnoiia@{ shape: win-pane, label: "_Published Feb 20, 2025, 05:37 PM_
+Russia targets infrastructure in ukraine’s east and south in extensive overnight air attack" }
+RaaUneeiereeaes@{ shape: win-pane, label: "_Published Feb 19, 2025, 03:06 PM_
+Russian attack on ukraine’s odessa region injures four, causes widespread power cuts" }
+Raiiaolegdiec@{ shape: win-pane, label: "_Published Feb 16, 2025, 09:50 PM_
+Russian strikes hit ukraine power plant, leaving residents in freezing cold" }
 
-FeiwrarolosG:::txtsize --> Raeiaeasghc:::txtsize
-Raeiaeasghc:::txtsize --> NplyosUiiTis:::txtsize
-NplyosUiiTis:::txtsize --> UnsialaiiaS:::txtsize
-NplyosUiiTis:::txtsize --> Eelloaitis:::txtsize
-Raeiaeasghc:::txtsize --> UnsialaiiaS:::txtsize
-UnsialaiiaS:::txtsize --> Unsilacipoom:::txtsize
-UnsialaiiaS:::txtsize --> UntaluneBScyca:::txtsize
+Unoaenanaiptr:::txtsize --> ZsvUpoetwkeuireu:::txtsize
+ZsvUpoetwkeuireu:::txtsize --> Unrwdltygty:::txtsize
+Unrwdltygty:::txtsize --> Eelloaitis:::txtsize
+Unrwdltygty:::txtsize --> NplyosUiiTis:::txtsize
+ZsvUpoetwkeuireu:::txtsize --> Raefrrketonnoiia:::txtsize
+Raefrrketonnoiia:::txtsize --> RaaUneeiereeaes:::txtsize
+Raefrrketonnoiia:::txtsize --> Raiiaolegdiec:::txtsize
+Unoaenanaiptr:::txtsize --> ZsvUpoetwkeuireu:::txtsize
+ZsvUpoetwkeuireu:::txtsize --> Unrwdltygty:::txtsize
+Unrwdltygty:::txtsize --> Eelloaitis:::txtsize
+Unrwdltygty:::txtsize --> NplyosUiiTis:::txtsize
+ZsvUpoetwkeuireu:::txtsize --> Raefrrketonnoiia:::txtsize
+Raefrrketonnoiia:::txtsize --> RaaUneeiereeaes:::txtsize
+Raefrrketonnoiia:::txtsize --> Raiiaolegdiec:::txtsize
 
-SIinrtidnhe@{ shape: win-pane, label: "_Published Dec 21, 2025, 09:12 PM_
-Swiss interior minister open to social media ban for children" }
-Aaanceosrow@{ shape: win-pane, label: "_Published Dec 10, 2025, 11:25 AM_
-Australia has banned social media for kids under 16. how does it work?" }
-Aaombrdnafils@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:32 PM_
-Australia social media ban for children under 16 takes effect in world first" }
-Aaombtkeagbaw@{ shape: win-pane, label: "_Published Dec 09, 2025, 12:07 PM_
-Australia social media ban set to take effect, sparking a global crackdown" }
-FulEetmocromas@{ shape: win-pane, label: "_Published Dec 09, 2025, 12:37 PM_
-From australia to europe, countries move to curb children’s social media access" }
-Wwesnaisita@{ shape: win-pane, label: "_Published Dec 10, 2025, 11:15 AM_
-World watches first teen social media ban start in australia" }
-Aaombrdnafils@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:32 PM_
-Australia social media ban for children under 16 takes effect in world first" }
-Aneaisesint@{ shape: win-pane, label: "_Published Dec 10, 2025, 08:20 AM_
-Alternative social media apps surge as australia teen ban starts" }
-Itooersaisues@{ shape: win-pane, label: "_Published Dec 10, 2025, 08:48 PM_
-‘i didn’t get to say goodbye’: australia’s social media ban stirs unease, praise" }
-Wwesnaisita@{ shape: win-pane, label: "_Published Dec 10, 2025, 11:15 AM_
-World watches first teen social media ban start in australia" }
-Aaombrdnafils@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:32 PM_
-Australia social media ban for children under 16 takes effect in world first" }
-Aneaisesint@{ shape: win-pane, label: "_Published Dec 10, 2025, 08:20 AM_
-Alternative social media apps surge as australia teen ban starts" }
-SpnsAavceayu@{ shape: win-pane, label: "_Published Jan 07, 2025, 01:27 PM_
-Singapore in talks with australia over social media ban for young users" }
-Aaaslaolu@{ shape: win-pane, label: "_Published Nov 28, 2024, 08:33 PM_
-Australia passes social media ban for children under 16" }
+Pgcsewoahna@{ shape: win-pane, label: "_Published Dec 22, 2025, 12:36 AM_
+Portugal recovers bodies of two indonesian fishermen lost at sea" }
+IefrehigrianPg@{ shape: win-pane, label: "_Published Dec 17, 2025, 12:51 AM_
+Indonesian fisherman dead, others missing after fishing boats sink off portugal" }
+Iefruatieifdu@{ shape: win-pane, label: "_Published Mar 14, 2025, 08:15 AM_
+Indonesian fishermen sue us canned tuna firm over claims of forced labour" }
+AagmibufUdcs@{ shape: win-pane, label: "_Published Jun 08, 2024, 02:17 AM_
+Aquafarming becomes main global source of fish, un food agency says" }
+AagmibufUdcs@{ shape: win-pane, label: "_Published Jun 08, 2024, 02:17 AM_
+Aquafarming becomes main global source of fish, un food agency says" }
+Dsnbrviru@{ shape: win-pane, label: "_Published Apr 30, 2024, 02:37 PM_
+Dying salmon trouble norway’s vast fish-farm industry" }
+Rnnsafaneticeh@{ shape: win-pane, label: "_Published Oct 23, 2023, 05:00 AM_
+Raising standards of coastal fish farms in s’pore with tilapia, the ‘chicken of the sea’" }
+IefrehigrianPg@{ shape: win-pane, label: "_Published Dec 17, 2025, 12:51 AM_
+Indonesian fisherman dead, others missing after fishing boats sink off portugal" }
+Iefruatieifdu@{ shape: win-pane, label: "_Published Mar 14, 2025, 08:15 AM_
+Indonesian fishermen sue us canned tuna firm over claims of forced labour" }
+AagmibufUdcs@{ shape: win-pane, label: "_Published Jun 08, 2024, 02:17 AM_
+Aquafarming becomes main global source of fish, un food agency says" }
+AagmibufUdcs@{ shape: win-pane, label: "_Published Jun 08, 2024, 02:17 AM_
+Aquafarming becomes main global source of fish, un food agency says" }
+Dsnbrviru@{ shape: win-pane, label: "_Published Apr 30, 2024, 02:37 PM_
+Dying salmon trouble norway’s vast fish-farm industry" }
+Rnnsafaneticeh@{ shape: win-pane, label: "_Published Oct 23, 2023, 05:00 AM_
+Raising standards of coastal fish farms in s’pore with tilapia, the ‘chicken of the sea’" }
 
-SIinrtidnhe:::txtsize --> Aaanceosrow:::txtsize
-Aaanceosrow:::txtsize --> Aaombrdnafils:::txtsize
-Aaombrdnafils:::txtsize --> Aaombtkeagbaw:::txtsize
-Aaombrdnafils:::txtsize --> FulEetmocromas:::txtsize
-Aaanceosrow:::txtsize --> Wwesnaisita:::txtsize
-Wwesnaisita:::txtsize --> Aaombrdnafils:::txtsize
-Wwesnaisita:::txtsize --> Aneaisesint:::txtsize
-SIinrtidnhe:::txtsize --> Itooersaisues:::txtsize
-Itooersaisues:::txtsize --> Wwesnaisita:::txtsize
-Wwesnaisita:::txtsize --> Aaombrdnafils:::txtsize
-Wwesnaisita:::txtsize --> Aneaisesint:::txtsize
-Itooersaisues:::txtsize --> SpnsAavceayu:::txtsize
-SpnsAavceayu:::txtsize --> Aaaslaolu:::txtsize
+Pgcsewoahna:::txtsize --> IefrehigrianPg:::txtsize
+IefrehigrianPg:::txtsize --> Iefruatieifdu:::txtsize
+Iefruatieifdu:::txtsize --> AagmibufUdcs:::txtsize
+IefrehigrianPg:::txtsize --> AagmibufUdcs:::txtsize
+AagmibufUdcs:::txtsize --> Dsnbrviru:::txtsize
+AagmibufUdcs:::txtsize --> Rnnsafaneticeh:::txtsize
+Pgcsewoahna:::txtsize --> IefrehigrianPg:::txtsize
+IefrehigrianPg:::txtsize --> Iefruatieifdu:::txtsize
+Iefruatieifdu:::txtsize --> AagmibufUdcs:::txtsize
+IefrehigrianPg:::txtsize --> AagmibufUdcs:::txtsize
+AagmibufUdcs:::txtsize --> Dsnbrviru:::txtsize
+AagmibufUdcs:::txtsize --> Rnnsafaneticeh:::txtsize
+
+Ustonenlis@{ shape: win-pane, label: "_Published Dec 21, 2025, 11:56 PM_
+Us pursuing third oil tanker near venezuela, officials say" }
+Uettreeofay@{ shape: win-pane, label: "_Published Dec 21, 2025, 12:31 AM_
+Us intercepts oil tanker off venezuelan coast, officials say" }
+Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
+Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
+TenurneCbVuo@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:52 PM_
+Trump eyes anti-drug operations in mexico, colombia as venezuela looms" }
+VulScpifromlMo@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:49 AM_
+Venezuela slams us attack preparations after trump confirms call with maduro" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
+Us military says it carried out strikes on three vessels in eastern pacific" }
+Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
+Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
+Us military says it carried out strikes on three vessels in eastern pacific" }
+TsSbrltsurnama@{ shape: win-pane, label: "_Published Dec 13, 2025, 07:41 AM_
+Trump says us will be ‘starting’ land strikes on drug operations in latin america" }
+RararoVuMouaps@{ shape: win-pane, label: "_Published Dec 12, 2025, 01:23 AM_
+Russia, belarus leaders reach out to venezuela’s maduro, as trump cranks up pressure" }
+Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
+Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
+Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
+Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
+Upgirkfeasespncy@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:13 AM_
+Us preparing to seize more tankers off venezuela’s coast after first ship taken, sources say" }
+
+Ustonenlis:::txtsize --> Uettreeofay:::txtsize
+Uettreeofay:::txtsize --> Uzlecoeapageo:::txtsize
+Uzlecoeapageo:::txtsize --> TenurneCbVuo:::txtsize
+Uzlecoeapageo:::txtsize --> VulScpifromlMo:::txtsize
+Uettreeofay:::txtsize --> Toskftdasitgz:::txtsize
+Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
+Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
+Ustonenlis:::txtsize --> Toskftdasitgz:::txtsize
+Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
+Uistitktvlanf:::txtsize --> TsSbrltsurnama:::txtsize
+Uistitktvlanf:::txtsize --> RararoVuMouaps:::txtsize
+Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
+Uznenltrwtphoon:::txtsize --> Uzlecoeapageo:::txtsize
+Uznenltrwtphoon:::txtsize --> Upgirkfeasespncy:::txtsize
 
 ```
-<i>Last updated: 2025-12-22 00:01:04.813281 (GMT+8)</i>
+<i>Last updated: 2025-12-22 04:00:29.495079 (GMT+8)</i>
 <!-- END -->
