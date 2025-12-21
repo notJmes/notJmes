@@ -16,6 +16,52 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+PrnoSaceeaa@{ shape: win-pane, label: "_Published Dec 21, 2025, 03:37 PM_
+Power returns to most of san francisco after widespread outage" }
+MpoeSac@{ shape: win-pane, label: "_Published Dec 21, 2025, 09:45 AM_
+Major power outage hits san francisco" }
+Oimrstphocipt@{ shape: win-pane, label: "_Published Mar 12, 2025, 05:15 AM_
+Ontario premier freezes plan to slap surcharge of electricity exports to us" }
+Oisamrwureryr@{ shape: win-pane, label: "_Published Mar 11, 2025, 04:10 AM_
+Ontario hits back at trump’s tariffs with 25% surcharge on electricity export" }
+Uotfaaasr@{ shape: win-pane, label: "_Published Mar 11, 2025, 10:22 PM_
+Us to double tariffs on canadian metals to 50%, says trump" }
+Taitnaiorntt@{ shape: win-pane, label: "_Published Mar 09, 2025, 01:20 PM_
+Trump administration ends iraq’s waiver to buy iranian electricity" }
+Troamsnaoexsr@{ shape: win-pane, label: "_Published Feb 05, 2025, 05:11 AM_
+Trump re-imposes ‘maximum pressure’ on iran, aims to drive oil exports to zero" }
+IKnyrlninSys@{ shape: win-pane, label: "_Published Mar 08, 2025, 11:36 PM_
+Iran’s khamenei says tehran will not negotiate under us ‘bully’ pressure" }
+GntsycaeSackpmoi@{ shape: win-pane, label: "_Published Nov 14, 2023, 05:00 AM_
+Golden city tarnished by dirt, crime and needles: san francisco looks to apec summit for revival" }
+WpemteonhemSac@{ shape: win-pane, label: "_Published Nov 13, 2023, 06:00 PM_
+Will apec meet the moment? pm lee off to attend high-stakes summit in san francisco" }
+BXmtlneIlscise@{ shape: win-pane, label: "_Published Nov 10, 2023, 09:04 PM_
+Biden-xi summit to take place on wednesday; israel-hamas war, economic ties on agenda" }
+Ccnirloaod@{ shape: win-pane, label: "_Published Aug 08, 2022, 12:30 PM_
+China continues military drills around taiwan on monday" }
+WpemteonhemSac@{ shape: win-pane, label: "_Published Nov 13, 2023, 06:00 PM_
+Will apec meet the moment? pm lee off to attend high-stakes summit in san francisco" }
+BXmtlneIlscise@{ shape: win-pane, label: "_Published Nov 10, 2023, 09:04 PM_
+Biden-xi summit to take place on wednesday; israel-hamas war, economic ties on agenda" }
+Ccnirloaod@{ shape: win-pane, label: "_Published Aug 08, 2022, 12:30 PM_
+China continues military drills around taiwan on monday" }
+
+PrnoSaceeaa:::txtsize --> MpoeSac:::txtsize
+MpoeSac:::txtsize --> Oimrstphocipt:::txtsize
+Oimrstphocipt:::txtsize --> Oisamrwureryr:::txtsize
+Oimrstphocipt:::txtsize --> Uotfaaasr:::txtsize
+MpoeSac:::txtsize --> Taitnaiorntt:::txtsize
+Taitnaiorntt:::txtsize --> Troamsnaoexsr:::txtsize
+Taitnaiorntt:::txtsize --> IKnyrlninSys:::txtsize
+PrnoSaceeaa:::txtsize --> GntsycaeSackpmoi:::txtsize
+GntsycaeSackpmoi:::txtsize --> WpemteonhemSac:::txtsize
+WpemteonhemSac:::txtsize --> BXmtlneIlscise:::txtsize
+WpemteonhemSac:::txtsize --> Ccnirloaod:::txtsize
+GntsycaeSackpmoi:::txtsize --> WpemteonhemSac:::txtsize
+WpemteonhemSac:::txtsize --> BXmtlneIlscise:::txtsize
+WpemteonhemSac:::txtsize --> Ccnirloaod:::txtsize
+
 Eietsamrticnom@{ shape: win-pane, label: "_Published Dec 21, 2025, 09:49 AM_
 Epstein files photos disappear from government website, including one of trump" }
 Utieelstkafcr@{ shape: win-pane, label: "_Published Dec 20, 2025, 05:46 AM_
@@ -87,52 +133,6 @@ Taitnaiorntt:::txtsize --> IKnyrlninSys:::txtsize
 IKnyrlninSys:::txtsize --> Tselradniur:::txtsize
 IKnyrlninSys:::txtsize --> Tselradniur:::txtsize
 
-Usfaelaort@{ shape: win-pane, label: "_Published Dec 21, 2025, 07:41 AM_
-Us, russian officials meet in florida for more ukraine talks" }
-ZsvUpoetwkeuireu@{ shape: win-pane, label: "_Published Dec 20, 2025, 10:16 PM_
-Zelensky favours us proposal of three-way talks with ukraine and russia if it produces results" }
-Unrwdltygty@{ shape: win-pane, label: "_Published Dec 20, 2025, 12:36 AM_
-Ukraine starts new round of talks with us,  kyiv negotiator says" }
-Eelloaitis@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:23 PM_
-Eu agrees $136 billion loan for ukraine, without russian assets" }
-NplyosUiiTis@{ shape: win-pane, label: "_Published Dec 19, 2025, 10:11 PM_
-No drop in military aid to kyiv since us policy shift, nato official says" }
-Raefrrketonnoiia@{ shape: win-pane, label: "_Published Feb 20, 2025, 05:37 PM_
-Russia targets infrastructure in ukraine’s east and south in extensive overnight air attack" }
-RaaUneeiereeaes@{ shape: win-pane, label: "_Published Feb 19, 2025, 03:06 PM_
-Russian attack on ukraine’s odessa region injures four, causes widespread power cuts" }
-Raiiaolegdiec@{ shape: win-pane, label: "_Published Feb 16, 2025, 09:50 PM_
-Russian strikes hit ukraine power plant, leaving residents in freezing cold" }
-EaRasetUnfees@{ shape: win-pane, label: "_Published Dec 21, 2025, 12:56 AM_
-Escalating russian airstrikes aim to cut ukraine off from sea, zelensky says" }
-Raefrrketonnoiia@{ shape: win-pane, label: "_Published Feb 20, 2025, 05:37 PM_
-Russia targets infrastructure in ukraine’s east and south in extensive overnight air attack" }
-RaaUneeiereeaes@{ shape: win-pane, label: "_Published Feb 19, 2025, 03:06 PM_
-Russian attack on ukraine’s odessa region injures four, causes widespread power cuts" }
-Raiiaolegdiec@{ shape: win-pane, label: "_Published Feb 16, 2025, 09:50 PM_
-Russian strikes hit ukraine power plant, leaving residents in freezing cold" }
-Unefmbofunc@{ shape: win-pane, label: "_Published Dec 13, 2025, 08:18 PM_
-Ukraine’s odesa suffers major blackouts after russian attack" }
-Zssuskekrflo@{ shape: win-pane, label: "_Published Dec 12, 2025, 09:58 PM_
-Zelensky visits kupyansk as ukraine retakes parts of front-line town" }
-Eeiilesasvblke@{ shape: win-pane, label: "_Published Dec 13, 2025, 01:13 AM_
-Eu agrees to indefinitely freeze russian assets, removing obstacle to ukraine loan" }
-
-Usfaelaort:::txtsize --> ZsvUpoetwkeuireu:::txtsize
-ZsvUpoetwkeuireu:::txtsize --> Unrwdltygty:::txtsize
-Unrwdltygty:::txtsize --> Eelloaitis:::txtsize
-Unrwdltygty:::txtsize --> NplyosUiiTis:::txtsize
-ZsvUpoetwkeuireu:::txtsize --> Raefrrketonnoiia:::txtsize
-Raefrrketonnoiia:::txtsize --> RaaUneeiereeaes:::txtsize
-Raefrrketonnoiia:::txtsize --> Raiiaolegdiec:::txtsize
-Usfaelaort:::txtsize --> EaRasetUnfees:::txtsize
-EaRasetUnfees:::txtsize --> Raefrrketonnoiia:::txtsize
-Raefrrketonnoiia:::txtsize --> RaaUneeiereeaes:::txtsize
-Raefrrketonnoiia:::txtsize --> Raiiaolegdiec:::txtsize
-EaRasetUnfees:::txtsize --> Unefmbofunc:::txtsize
-Unefmbofunc:::txtsize --> Zssuskekrflo:::txtsize
-Unefmbofunc:::txtsize --> Eeiilesasvblke:::txtsize
-
 ```
-<i>Last updated: 2025-12-21 12:00:57.739947 (GMT+8)</i>
+<i>Last updated: 2025-12-21 16:00:20.596836 (GMT+8)</i>
 <!-- END -->
