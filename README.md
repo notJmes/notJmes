@@ -16,123 +16,93 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-PrnoSaceeaa@{ shape: win-pane, label: "_Published Dec 21, 2025, 03:37 PM_
-Power returns to most of san francisco after widespread outage" }
-MpoeSac@{ shape: win-pane, label: "_Published Dec 21, 2025, 09:45 AM_
-Major power outage hits san francisco" }
-Oimrstphocipt@{ shape: win-pane, label: "_Published Mar 12, 2025, 05:15 AM_
-Ontario premier freezes plan to slap surcharge of electricity exports to us" }
-Oisamrwureryr@{ shape: win-pane, label: "_Published Mar 11, 2025, 04:10 AM_
-Ontario hits back at trump’s tariffs with 25% surcharge on electricity export" }
-Uotfaaasr@{ shape: win-pane, label: "_Published Mar 11, 2025, 10:22 PM_
-Us to double tariffs on canadian metals to 50%, says trump" }
-Taitnaiorntt@{ shape: win-pane, label: "_Published Mar 09, 2025, 01:20 PM_
-Trump administration ends iraq’s waiver to buy iranian electricity" }
-Troamsnaoexsr@{ shape: win-pane, label: "_Published Feb 05, 2025, 05:11 AM_
-Trump re-imposes ‘maximum pressure’ on iran, aims to drive oil exports to zero" }
-IKnyrlninSys@{ shape: win-pane, label: "_Published Mar 08, 2025, 11:36 PM_
-Iran’s khamenei says tehran will not negotiate under us ‘bully’ pressure" }
-GntsycaeSackpmoi@{ shape: win-pane, label: "_Published Nov 14, 2023, 05:00 AM_
-Golden city tarnished by dirt, crime and needles: san francisco looks to apec summit for revival" }
-WpemteonhemSac@{ shape: win-pane, label: "_Published Nov 13, 2023, 06:00 PM_
-Will apec meet the moment? pm lee off to attend high-stakes summit in san francisco" }
-BXmtlneIlscise@{ shape: win-pane, label: "_Published Nov 10, 2023, 09:04 PM_
-Biden-xi summit to take place on wednesday; israel-hamas war, economic ties on agenda" }
-Ccnirloaod@{ shape: win-pane, label: "_Published Aug 08, 2022, 12:30 PM_
-China continues military drills around taiwan on monday" }
-WpemteonhemSac@{ shape: win-pane, label: "_Published Nov 13, 2023, 06:00 PM_
-Will apec meet the moment? pm lee off to attend high-stakes summit in san francisco" }
-BXmtlneIlscise@{ shape: win-pane, label: "_Published Nov 10, 2023, 09:04 PM_
-Biden-xi summit to take place on wednesday; israel-hamas war, economic ties on agenda" }
-Ccnirloaod@{ shape: win-pane, label: "_Published Aug 08, 2022, 12:30 PM_
-China continues military drills around taiwan on monday" }
+Tsedgocnsbnk@{ shape: win-pane, label: "_Published Dec 21, 2025, 07:31 PM_
+Trump set to expand immigration crackdown in 2026 despite brewing backlash" }
+TlhmtroNl@{ shape: win-pane, label: "_Published Dec 04, 2025, 03:20 AM_
+Trump launches immigration crackdown in new orleans" }
 
-PrnoSaceeaa:::txtsize --> MpoeSac:::txtsize
-MpoeSac:::txtsize --> Oimrstphocipt:::txtsize
-Oimrstphocipt:::txtsize --> Oisamrwureryr:::txtsize
-Oimrstphocipt:::txtsize --> Uotfaaasr:::txtsize
-MpoeSac:::txtsize --> Taitnaiorntt:::txtsize
-Taitnaiorntt:::txtsize --> Troamsnaoexsr:::txtsize
-Taitnaiorntt:::txtsize --> IKnyrlninSys:::txtsize
-PrnoSaceeaa:::txtsize --> GntsycaeSackpmoi:::txtsize
-GntsycaeSackpmoi:::txtsize --> WpemteonhemSac:::txtsize
-WpemteonhemSac:::txtsize --> BXmtlneIlscise:::txtsize
-WpemteonhemSac:::txtsize --> Ccnirloaod:::txtsize
-GntsycaeSackpmoi:::txtsize --> WpemteonhemSac:::txtsize
-WpemteonhemSac:::txtsize --> BXmtlneIlscise:::txtsize
-WpemteonhemSac:::txtsize --> Ccnirloaod:::txtsize
+Tsedgocnsbnk:::txtsize --> TlhmtroNl:::txtsize
 
-Eietsamrticnom@{ shape: win-pane, label: "_Published Dec 21, 2025, 09:49 AM_
-Epstein files photos disappear from government website, including one of trump" }
-Utieelstkafcr@{ shape: win-pane, label: "_Published Dec 20, 2025, 05:46 AM_
-Us epstein files release highlights clinton, makes scant reference to trump" }
-Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
-Epstein files to be released to us public: what are they?" }
-ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
-After trump reversal, us house pushes forward on epstein vote" }
-TskeMewtco@{ shape: win-pane, label: "_Published Nov 18, 2025, 09:15 AM_
-Trump’s frankenstein? us maga meltdown tests its creator" }
-BilprAwsipinr@{ shape: win-pane, label: "_Published Nov 02, 2025, 08:16 PM_
-Britain will strip disgraced andrew of last military position, minister says" }
-Binrtberrtssm@{ shape: win-pane, label: "_Published Oct 31, 2025, 03:36 AM_
-Britain’s king charles strips brother andrew of royal titles, windsor home" }
-BidfrSFsurcsyi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:59 AM_
-Britain’s andrew’s former wife sarah ferguson, daughters and corgis hit by crisis" }
+KiiryrRases@{ shape: win-pane, label: "_Published Dec 21, 2025, 06:56 PM_
+Kremlin denies three-way us-ukraine-russia talks on the cards" }
+ZsvUpoetwkeuireu@{ shape: win-pane, label: "_Published Dec 20, 2025, 10:16 PM_
+Zelensky favours us proposal of three-way talks with ukraine and russia if it produces results" }
+Unrwdltygty@{ shape: win-pane, label: "_Published Dec 20, 2025, 12:36 AM_
+Ukraine starts new round of talks with us,  kyiv negotiator says" }
+Eelloaitis@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:23 PM_
+Eu agrees $136 billion loan for ukraine, without russian assets" }
+NplyosUiiTis@{ shape: win-pane, label: "_Published Dec 19, 2025, 10:11 PM_
+No drop in military aid to kyiv since us policy shift, nato official says" }
+Raefrrketonnoiia@{ shape: win-pane, label: "_Published Feb 20, 2025, 05:37 PM_
+Russia targets infrastructure in ukraine’s east and south in extensive overnight air attack" }
+RaaUneeiereeaes@{ shape: win-pane, label: "_Published Feb 19, 2025, 03:06 PM_
+Russian attack on ukraine’s odessa region injures four, causes widespread power cuts" }
+Raiiaolegdiec@{ shape: win-pane, label: "_Published Feb 16, 2025, 09:50 PM_
+Russian strikes hit ukraine power plant, leaving residents in freezing cold" }
+Unrwdltygty@{ shape: win-pane, label: "_Published Dec 20, 2025, 12:36 AM_
+Ukraine starts new round of talks with us,  kyiv negotiator says" }
+Eelloaitis@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:23 PM_
+Eu agrees $136 billion loan for ukraine, without russian assets" }
+TsegemnaSikke@{ shape: win-pane, label: "_Published Dec 19, 2025, 04:20 AM_
+Trump says ‘getting close to something’ ahead of us, russia talks on ukraine" }
+Busauasszsaske@{ shape: win-pane, label: "_Published Oct 02, 2025, 08:50 PM_
+Belgium says eu states must share risk to use frozen russian assets for ukraine" }
+NplyosUiiTis@{ shape: win-pane, label: "_Published Dec 19, 2025, 10:11 PM_
+No drop in military aid to kyiv since us policy shift, nato official says" }
+UnsialaiiaS@{ shape: win-pane, label: "_Published Dec 19, 2025, 09:31 PM_
+Ukraine hits russian ‘shadow fleet’ tanker in mediterranean sea" }
+Eelloaitis@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:23 PM_
+Eu agrees $136 billion loan for ukraine, without russian assets" }
 
-Eietsamrticnom:::txtsize --> Utieelstkafcr:::txtsize
-Utieelstkafcr:::txtsize --> Eieeaobhe:::txtsize
-Eieeaobhe:::txtsize --> ATrsHpsaEie:::txtsize
-Eieeaobhe:::txtsize --> TskeMewtco:::txtsize
-Utieelstkafcr:::txtsize --> BilprAwsipinr:::txtsize
-BilprAwsipinr:::txtsize --> Binrtberrtssm:::txtsize
-BilprAwsipinr:::txtsize --> BidfrSFsurcsyi:::txtsize
+KiiryrRases:::txtsize --> ZsvUpoetwkeuireu:::txtsize
+ZsvUpoetwkeuireu:::txtsize --> Unrwdltygty:::txtsize
+Unrwdltygty:::txtsize --> Eelloaitis:::txtsize
+Unrwdltygty:::txtsize --> NplyosUiiTis:::txtsize
+ZsvUpoetwkeuireu:::txtsize --> Raefrrketonnoiia:::txtsize
+Raefrrketonnoiia:::txtsize --> RaaUneeiereeaes:::txtsize
+Raefrrketonnoiia:::txtsize --> Raiiaolegdiec:::txtsize
+KiiryrRases:::txtsize --> Unrwdltygty:::txtsize
+Unrwdltygty:::txtsize --> Eelloaitis:::txtsize
+Eelloaitis:::txtsize --> TsegemnaSikke:::txtsize
+Eelloaitis:::txtsize --> Busauasszsaske:::txtsize
+Unrwdltygty:::txtsize --> NplyosUiiTis:::txtsize
+NplyosUiiTis:::txtsize --> UnsialaiiaS:::txtsize
+NplyosUiiTis:::txtsize --> Eelloaitis:::txtsize
 
-MpoeSac@{ shape: win-pane, label: "_Published Dec 21, 2025, 09:45 AM_
-Major power outage hits san francisco" }
-Oimrstphocipt@{ shape: win-pane, label: "_Published Mar 12, 2025, 05:15 AM_
-Ontario premier freezes plan to slap surcharge of electricity exports to us" }
-Oisamrwureryr@{ shape: win-pane, label: "_Published Mar 11, 2025, 04:10 AM_
-Ontario hits back at trump’s tariffs with 25% surcharge on electricity export" }
-TcrroadcbeC@{ shape: win-pane, label: "_Published Mar 04, 2025, 05:03 AM_
-Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
-AiaihTalyo@{ shape: win-pane, label: "_Published Mar 10, 2025, 07:45 AM_
-As tariff chaos reigns, what is trump actually trying to do?" }
-Uotfaaasr@{ shape: win-pane, label: "_Published Mar 11, 2025, 10:22 PM_
-Us to double tariffs on canadian metals to 50%, says trump" }
-UcksinlTphaas@{ shape: win-pane, label: "_Published Mar 11, 2025, 05:49 AM_
-Us stock market loses $5 trillion in value as trump ploughs ahead on tariffs" }
-TcrroadcbeC@{ shape: win-pane, label: "_Published Mar 04, 2025, 05:03 AM_
-Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
-Taitnaiorntt@{ shape: win-pane, label: "_Published Mar 09, 2025, 01:20 PM_
-Trump administration ends iraq’s waiver to buy iranian electricity" }
-Troamsnaoexsr@{ shape: win-pane, label: "_Published Feb 05, 2025, 05:11 AM_
-Trump re-imposes ‘maximum pressure’ on iran, aims to drive oil exports to zero" }
-WeaWHTpsrnpmfn@{ shape: win-pane, label: "_Published Feb 05, 2025, 06:21 AM_
-With netanyahu at white house, trump proposes permanent displacement of gazans" }
-Iaueistfntsl@{ shape: win-pane, label: "_Published Jan 23, 2025, 11:41 PM_
-Iran says trump’s ‘terrorist’ designation of yemen’s houthis is ‘baseless’" }
-IKnyrlninSys@{ shape: win-pane, label: "_Published Mar 08, 2025, 11:36 PM_
-Iran’s khamenei says tehran will not negotiate under us ‘bully’ pressure" }
-Tselradniur@{ shape: win-pane, label: "_Published Mar 07, 2025, 09:11 PM_
-Trump says he sent letter to iran leader to negotiate nuclear deal" }
-Tselradniur@{ shape: win-pane, label: "_Published Mar 07, 2025, 09:11 PM_
-Trump says he sent letter to iran leader to negotiate nuclear deal" }
+IluCerntenB@{ shape: win-pane, label: "_Published Dec 21, 2025, 06:29 PM_
+Israel’s security cabinet approves 19 new settlements in west bank" }
+IlausBemxiaePtne@{ shape: win-pane, label: "_Published Sep 12, 2025, 06:16 AM_
+Israel’s netanyahu signs west bank settlement expansion plan, rules out palestinian state" }
+Ilemahmaroais@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:27 PM_
+Israel targets hamas leadership in military strikes on qatar, officials say" }
+Ilssreana@{ shape: win-pane, label: "_Published Sep 08, 2025, 04:31 PM_
+Israel warns hamas to surrender or face ‘annihilation’" }
+Lnthlareseeis@{ shape: win-pane, label: "_Published Sep 09, 2025, 02:18 AM_
+‘leave now’, netanyahu tells gaza city residents as israel intensifies assault" }
+FhtoesatweIl@{ shape: win-pane, label: "_Published Jul 25, 2025, 05:49 AM_
+French plan to recognise palestinian state draws fire from israel, us" }
+Spaoefgvnausa@{ shape: win-pane, label: "_Published Jul 24, 2025, 07:45 PM_
+Singapore says prolonged suffering of civilians in gaza is ‘unconscionable’" }
+Hstotezcp@{ shape: win-pane, label: "_Published Jul 24, 2025, 08:45 AM_
+Hamas says it responded to latest gaza truce proposal" }
+ToTvswoet@{ shape: win-pane, label: "_Published Sep 26, 2025, 06:02 AM_
+‘time to stop’: trump vows israel will not annex west bank" }
+Rnnlntfnirmea@{ shape: win-pane, label: "_Published Sep 23, 2025, 04:52 PM_
+Recognition of palestinian state offers no relief for traumatised gazans" }
+AsldlnaGaot@{ shape: win-pane, label: "_Published Sep 03, 2025, 07:33 PM_
+At least 21,000 children disabled since start of gaza war: un committee" }
 
-MpoeSac:::txtsize --> Oimrstphocipt:::txtsize
-Oimrstphocipt:::txtsize --> Oisamrwureryr:::txtsize
-Oisamrwureryr:::txtsize --> TcrroadcbeC:::txtsize
-Oisamrwureryr:::txtsize --> AiaihTalyo:::txtsize
-Oimrstphocipt:::txtsize --> Uotfaaasr:::txtsize
-Uotfaaasr:::txtsize --> UcksinlTphaas:::txtsize
-Uotfaaasr:::txtsize --> TcrroadcbeC:::txtsize
-MpoeSac:::txtsize --> Taitnaiorntt:::txtsize
-Taitnaiorntt:::txtsize --> Troamsnaoexsr:::txtsize
-Troamsnaoexsr:::txtsize --> WeaWHTpsrnpmfn:::txtsize
-Troamsnaoexsr:::txtsize --> Iaueistfntsl:::txtsize
-Taitnaiorntt:::txtsize --> IKnyrlninSys:::txtsize
-IKnyrlninSys:::txtsize --> Tselradniur:::txtsize
-IKnyrlninSys:::txtsize --> Tselradniur:::txtsize
+IluCerntenB:::txtsize --> IlausBemxiaePtne:::txtsize
+IlausBemxiaePtne:::txtsize --> Ilemahmaroais:::txtsize
+Ilemahmaroais:::txtsize --> Ilssreana:::txtsize
+Ilemahmaroais:::txtsize --> Lnthlareseeis:::txtsize
+IlausBemxiaePtne:::txtsize --> FhtoesatweIl:::txtsize
+FhtoesatweIl:::txtsize --> Spaoefgvnausa:::txtsize
+FhtoesatweIl:::txtsize --> Hstotezcp:::txtsize
+IluCerntenB:::txtsize --> ToTvswoet:::txtsize
+ToTvswoet:::txtsize --> Rnnlntfnirmea:::txtsize
+Rnnlntfnirmea:::txtsize --> AsldlnaGaot:::txtsize
 
 ```
-<i>Last updated: 2025-12-21 16:00:20.596836 (GMT+8)</i>
+<i>Last updated: 2025-12-21 20:00:42.539681 (GMT+8)</i>
 <!-- END -->
