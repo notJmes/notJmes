@@ -16,144 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Gnsmtboaw@{ shape: win-pane, label: "_Published Dec 22, 2025, 07:29 PM_
-German christmas markets hit by flood of fake news" }
-Gnsmtsadyt@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:33 PM_
-German christmas market opens year after deadly car attack" }
-Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
-‘torn from my side’: horror of german christmas market attack" }
-SmrdralnagceCta@{ shape: win-pane, label: "_Published Dec 21, 2024, 06:01 AM_
-Saudi man arrested after at least 2 killed in car ramming attack at german christmas market" }
-CinoCtaimneak@{ shape: win-pane, label: "_Published Dec 21, 2024, 03:42 AM_
-Car drives into crowd at christmas market in germany, in suspected attack" }
-Sdroadyaisea@{ shape: win-pane, label: "_Published Nov 10, 2025, 03:16 PM_
-Saudi doctor goes on trial for deadly german christmas market attack" }
-Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
-‘torn from my side’: horror of german christmas market attack" }
-Scerlmrakt@{ shape: win-pane, label: "_Published Aug 19, 2025, 11:00 PM_
-Saudi charged over deadly german christmas market attack" }
-Sdroadyaisea@{ shape: win-pane, label: "_Published Nov 10, 2025, 03:16 PM_
-Saudi doctor goes on trial for deadly german christmas market attack" }
-Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
-‘torn from my side’: horror of german christmas market attack" }
-SmrdralnagceCta@{ shape: win-pane, label: "_Published Dec 21, 2024, 06:01 AM_
-Saudi man arrested after at least 2 killed in car ramming attack at german christmas market" }
-CinoCtaimneak@{ shape: win-pane, label: "_Published Dec 21, 2024, 03:42 AM_
-Car drives into crowd at christmas market in germany, in suspected attack" }
-Scerlmrakt@{ shape: win-pane, label: "_Published Aug 19, 2025, 11:00 PM_
-Saudi charged over deadly german christmas market attack" }
-Gnsmtctlsx@{ shape: win-pane, label: "_Published Jan 06, 2025, 04:51 PM_
-German christmas market attack death toll rises to six" }
-SCtaakenyarie@{ shape: win-pane, label: "_Published Dec 31, 2024, 02:11 AM_
-Signs christmas market attack suspect mentally ill, says german minister" }
+Fnsisst@{ shape: win-pane, label: "_Published Dec 22, 2025, 10:59 PM_
+Finland says to raise reservist age to 65" }
+Naaelaaidmsm@{ shape: win-pane, label: "_Published Apr 04, 2023, 06:46 PM_
+Nato gains massive artillery arsenal as finland becomes its 31st member" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
+Explosions heard in ukraine capital kyiv, other cities" }
+OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
+Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
+TslniFntbiwkag@{ shape: win-pane, label: "_Published Mar 31, 2023, 05:44 AM_
+Turkish parliament ratifies finland’s nato membership as sweden kept waiting" }
+Unsilybdtlorng@{ shape: win-pane, label: "_Published Mar 29, 2023, 06:23 PM_
+Ukraine hits russian-held city deep behind front as talk of counteroffensive grows" }
+HrlnklNciebn@{ shape: win-pane, label: "_Published Mar 28, 2023, 01:19 AM_
+Hungary parliament backs finland’s nato accession, swedish bid pending" }
+Fnsugosocih@{ shape: win-pane, label: "_Published Nov 18, 2023, 02:23 AM_
+Finland sees asylum surge before russia border crossings shut" }
 
-Gnsmtboaw:::txtsize --> Gnsmtsadyt:::txtsize
-Gnsmtsadyt:::txtsize --> Trsoomrakt:::txtsize
-Trsoomrakt:::txtsize --> SmrdralnagceCta:::txtsize
-Trsoomrakt:::txtsize --> CinoCtaimneak:::txtsize
-Gnsmtsadyt:::txtsize --> Sdroadyaisea:::txtsize
-Sdroadyaisea:::txtsize --> Trsoomrakt:::txtsize
-Sdroadyaisea:::txtsize --> Scerlmrakt:::txtsize
-Gnsmtboaw:::txtsize --> Sdroadyaisea:::txtsize
-Sdroadyaisea:::txtsize --> Trsoomrakt:::txtsize
-Trsoomrakt:::txtsize --> SmrdralnagceCta:::txtsize
-Trsoomrakt:::txtsize --> CinoCtaimneak:::txtsize
-Sdroadyaisea:::txtsize --> Scerlmrakt:::txtsize
-Scerlmrakt:::txtsize --> Gnsmtctlsx:::txtsize
-Scerlmrakt:::txtsize --> SCtaakenyarie:::txtsize
+Fnsisst:::txtsize --> Naaelaaidmsm:::txtsize
+Naaelaaidmsm:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
+DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
+Naaelaaidmsm:::txtsize --> TslniFntbiwkag:::txtsize
+TslniFntbiwkag:::txtsize --> Unsilybdtlorng:::txtsize
+TslniFntbiwkag:::txtsize --> HrlnklNciebn:::txtsize
+Fnsisst:::txtsize --> Fnsugosocih:::txtsize
 
-FgamUaorpedy@{ shape: win-pane, label: "_Published Dec 22, 2025, 07:19 PM_
-Fuming denmark summons us ambassador over trump’s greenland envoy" }
-TtoavrLyeeted@{ shape: win-pane, label: "_Published Dec 22, 2025, 12:13 PM_
-Trump taps louisiana governor jeff landry as special envoy to greenland" }
-DdpGlniyahery@{ shape: win-pane, label: "_Published Jan 07, 2025, 11:20 PM_
-Donald trump jr in greenland on ‘tourist’ day trip as father eyes territory" }
-Gllrssiecma@{ shape: win-pane, label: "_Published Jan 03, 2025, 06:30 PM_
-Greenland’s leader steps up push for independence from denmark" }
-CuynWobe@{ shape: win-pane, label: "_Published Dec 24, 2024, 09:15 AM_
-Can trump buy greenland? what to know besides ‘no’" }
-DrmSyodetleen@{ shape: win-pane, label: "_Published Aug 27, 2025, 02:17 PM_
-Denmark summons us envoy over ‘outside attempts to influence’ in greenland" }
-EihspGlnle@{ shape: win-pane, label: "_Published Jan 08, 2025, 09:36 PM_
-Explainer: why does trump want greenland and could he get it?" }
-DrteeVrenrams@{ shape: win-pane, label: "_Published Mar 30, 2025, 01:18 AM_
-Denmark criticises ‘tone’ of us vice-president vance’s greenland comments" }
-Tsetenaocp@{ shape: win-pane, label: "_Published Mar 26, 2025, 11:52 PM_
-Trump says ‘we have to have’ greenland, ahead of vance trip" }
-Tnluiemtsenoanen@{ shape: win-pane, label: "_Published Jan 08, 2025, 01:26 AM_
-Trump not ruling out military, economic action as he seeks control of panama canal, greenland" }
-TjCamtard@{ shape: win-pane, label: "_Published Dec 19, 2024, 12:55 AM_
-Trump jokes canada becoming 51st us state ‘a great idea’" }
-CuynWobe@{ shape: win-pane, label: "_Published Dec 24, 2024, 09:15 AM_
-Can trump buy greenland? what to know besides ‘no’" }
-Mifepeltedliibd@{ shape: win-pane, label: "_Published Mar 25, 2025, 03:44 AM_
-‘maybe in our future’: trump pushes us claims to greenland as delegation trip lambasted" }
-Nieseniserrpnneo@{ shape: win-pane, label: "_Published Mar 24, 2025, 07:35 AM_
-‘not an innocent visit’: greenland officials express fury over trump’s plan to send delegation" }
-Suacdititgtp@{ shape: win-pane, label: "_Published Mar 24, 2025, 02:08 PM_
-Some europeans reconsider trips to the us in protest against trump" }
+Uptdrgsepo@{ shape: win-pane, label: "_Published Dec 22, 2025, 10:15 PM_
+Us triples stipend offer to migrants who ‘self-deport’ to $3,900" }
+Taitfuoigcrvtyeth@{ shape: win-pane, label: "_Published Oct 04, 2025, 09:51 AM_
+Trump administration offers unaccompanied migrant children $3,200 to voluntarily leave us, letter shows" }
+Utanflfeeodtn@{ shape: win-pane, label: "_Published Jun 05, 2025, 02:26 AM_
+Us state department shifts $321 million from refugee aid to ‘self-deportations’" }
+TsrornruditeWH@{ shape: win-pane, label: "_Published Jan 24, 2025, 08:42 PM_
+Trump’s deportation operation under way, hundreds of migrants arrested: white house" }
+Taitfmnovtye@{ shape: win-pane, label: "_Published May 05, 2025, 11:30 PM_
+Trump administration offers migrants about $1,300 to voluntarily leave us" }
+Taitisgonfeuoigcr@{ shape: win-pane, label: "_Published Feb 23, 2025, 09:07 PM_
+Trump administration directs immigration agents to find, deport unaccompanied migrant children" }
+Wrmeapeoit@{ shape: win-pane, label: "_Published Jan 25, 2025, 11:20 AM_
+What trump’s mass deportation plan means for immigrants" }
+Taitaeseaa@{ shape: win-pane, label: "_Published Mar 10, 2025, 11:07 PM_
+Trump administration launches new ‘self-deportation’ app" }
+Ttcrtnsrfpn@{ shape: win-pane, label: "_Published Feb 26, 2025, 07:58 AM_
+Trump to force migrants to join registry or face fines, prison" }
+TsrornruditeWH@{ shape: win-pane, label: "_Published Jan 24, 2025, 08:42 PM_
+Trump’s deportation operation under way, hundreds of migrants arrested: white house" }
+UiaatomnnGmais@{ shape: win-pane, label: "_Published Jan 28, 2025, 08:33 AM_
+Us military aircraft with deported migrants lands in guatemala, say officials" }
+Taitisgonfeuoigcr@{ shape: win-pane, label: "_Published Feb 23, 2025, 09:07 PM_
+Trump administration directs immigration agents to find, deport unaccompanied migrant children" }
+Wrmeapeoit@{ shape: win-pane, label: "_Published Jan 25, 2025, 11:20 AM_
+What trump’s mass deportation plan means for immigrants" }
 
-FgamUaorpedy:::txtsize --> TtoavrLyeeted:::txtsize
-TtoavrLyeeted:::txtsize --> DdpGlniyahery:::txtsize
-DdpGlniyahery:::txtsize --> Gllrssiecma:::txtsize
-DdpGlniyahery:::txtsize --> CuynWobe:::txtsize
-TtoavrLyeeted:::txtsize --> DrmSyodetleen:::txtsize
-DrmSyodetleen:::txtsize --> EihspGlnle:::txtsize
-DrmSyodetleen:::txtsize --> DrteeVrenrams:::txtsize
-FgamUaorpedy:::txtsize --> Tsetenaocp:::txtsize
-Tsetenaocp:::txtsize --> Tnluiemtsenoanen:::txtsize
-Tnluiemtsenoanen:::txtsize --> TjCamtard:::txtsize
-Tnluiemtsenoanen:::txtsize --> CuynWobe:::txtsize
-Tsetenaocp:::txtsize --> Mifepeltedliibd:::txtsize
-Mifepeltedliibd:::txtsize --> Nieseniserrpnneo:::txtsize
-Mifepeltedliibd:::txtsize --> Suacdititgtp:::txtsize
+Uptdrgsepo:::txtsize --> Taitfuoigcrvtyeth:::txtsize
+Taitfuoigcrvtyeth:::txtsize --> Utanflfeeodtn:::txtsize
+Utanflfeeodtn:::txtsize --> TsrornruditeWH:::txtsize
+Utanflfeeodtn:::txtsize --> Taitfmnovtye:::txtsize
+Taitfuoigcrvtyeth:::txtsize --> Taitisgonfeuoigcr:::txtsize
+Taitisgonfeuoigcr:::txtsize --> Wrmeapeoit:::txtsize
+Uptdrgsepo:::txtsize --> Taitaeseaa:::txtsize
+Taitaeseaa:::txtsize --> Ttcrtnsrfpn:::txtsize
+Ttcrtnsrfpn:::txtsize --> TsrornruditeWH:::txtsize
+Ttcrtnsrfpn:::txtsize --> UiaatomnnGmais:::txtsize
+Taitaeseaa:::txtsize --> Taitisgonfeuoigcr:::txtsize
+Taitisgonfeuoigcr:::txtsize --> Wrmeapeoit:::txtsize
 
-Fhcptpetit@{ shape: win-pane, label: "_Published Dec 22, 2025, 07:13 PM_
-French pm races to pass stopgap budget law to avoid shutdown" }
-WFedogtcs@{ shape: win-pane, label: "_Published Oct 06, 2025, 05:36 PM_
-Why is france mired in a rolling political crisis?" }
-Fhrtssrgidnoci@{ shape: win-pane, label: "_Published Oct 06, 2025, 04:01 PM_
-French government quits hours after being appointed, deepening political crisis" }
-MnloLrkfdeneom@{ shape: win-pane, label: "_Published Oct 06, 2025, 03:01 AM_
-Macron loyalist roland lescure picked to fix budget mess in new french government" }
-WFedogtcs@{ shape: win-pane, label: "_Published Oct 06, 2025, 05:36 PM_
-Why is france mired in a rolling political crisis?" }
-Fhriwrelrnham@{ shape: win-pane, label: "_Published Jul 08, 2024, 02:06 AM_
-French voters deliver a win for the left, a blow for le pen and a hung parliament" }
-Eihtecsslol@{ shape: win-pane, label: "_Published Jun 10, 2024, 06:13 AM_
-Explainer: what’s at stake in macron’s shock snap election call?" }
-Eihtecsslol@{ shape: win-pane, label: "_Published Jun 10, 2024, 06:13 AM_
-Explainer: what’s at stake in macron’s shock snap election call?" }
-Featbtrs@{ shape: win-pane, label: "_Published Dec 19, 2025, 10:16 PM_
-France to start 2026 without budget after talks fail" }
-Feseepnutnuoiiy@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:35 PM_
-France faces pandemic-level spending to support ageing population, audit office says" }
-Fhavoosiuuenr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:46 AM_
-French lawmakers vote to approve suspension of unpopular pension reform" }
-Fharttpsbtt@{ shape: win-pane, label: "_Published Nov 01, 2025, 02:46 AM_
-French lawmakers reject wealth tax proposal in budget debate" }
-Ferninfceehwrt@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:15 PM_
-France’s macron won’t resign as no-confidence votes threaten his new government" }
-Ferancaoyernn@{ shape: win-pane, label: "_Published Oct 11, 2025, 06:48 AM_
-France’s macron reappoints lecornu as pm four days after his resignation" }
-Ferancaoyernn@{ shape: win-pane, label: "_Published Oct 11, 2025, 06:48 AM_
-France’s macron reappoints lecornu as pm four days after his resignation" }
+Pewsaiomgcd@{ shape: win-pane, label: "_Published Dec 22, 2025, 10:03 PM_
+Pope leo’s new us bishops are critics of trump’s migrant crackdown" }
+Pagtrgiiuc@{ shape: win-pane, label: "_Published Dec 22, 2025, 09:24 PM_
+Pope warns against power struggles in vatican bureaucracy" }
+Peeflnrshtcn@{ shape: win-pane, label: "_Published Dec 22, 2025, 06:29 PM_
+Pope leo urges joyful, welcoming church in speech to vatican cardinals" }
+Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
+Pope francis dies at age 88" }
+PrsGledNluhd@{ shape: win-pane, label: "_Published Dec 19, 2025, 02:21 PM_
+Pope francis, jane goodall, robert redford: notable figures who died in 2025" }
+PelNrrlnaoh@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:01 PM_
+Pope leo replaces new york’s cardinal dolan in shake-up of us church" }
+Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
+Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
+Prscahkpm@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:24 PM_
+Pope francis: radical leader who broke the papal mould" }
+Peeflnrshtcn@{ shape: win-pane, label: "_Published Dec 22, 2025, 06:29 PM_
+Pope leo urges joyful, welcoming church in speech to vatican cardinals" }
+Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
+Pope francis dies at age 88" }
+Prsdafoaaos@{ shape: win-pane, label: "_Published Mar 23, 2025, 01:28 AM_
+Pope francis to be discharged from hospital on march 23, doctor says" }
+PrsrVaeessl@{ shape: win-pane, label: "_Published Mar 23, 2025, 07:19 PM_
+Pope francis returns to vatican after five weeks in hospital" }
+PrsGledNluhd@{ shape: win-pane, label: "_Published Dec 19, 2025, 02:21 PM_
+Pope francis, jane goodall, robert redford: notable figures who died in 2025" }
+Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
+Pope francis dies at age 88" }
+Jolapndaae@{ shape: win-pane, label: "_Published Oct 02, 2025, 02:39 AM_
+Jane goodall, primate expert and wildlife advocate, dies at 91" }
 
-Fhcptpetit:::txtsize --> WFedogtcs:::txtsize
-WFedogtcs:::txtsize --> Fhrtssrgidnoci:::txtsize
-Fhrtssrgidnoci:::txtsize --> MnloLrkfdeneom:::txtsize
-Fhrtssrgidnoci:::txtsize --> WFedogtcs:::txtsize
-WFedogtcs:::txtsize --> Fhriwrelrnham:::txtsize
-Fhriwrelrnham:::txtsize --> Eihtecsslol:::txtsize
-Fhriwrelrnham:::txtsize --> Eihtecsslol:::txtsize
-Fhcptpetit:::txtsize --> Featbtrs:::txtsize
-Featbtrs:::txtsize --> Feseepnutnuoiiy:::txtsize
-Feseepnutnuoiiy:::txtsize --> Fhavoosiuuenr:::txtsize
-Feseepnutnuoiiy:::txtsize --> Fharttpsbtt:::txtsize
-Featbtrs:::txtsize --> Ferninfceehwrt:::txtsize
-Ferninfceehwrt:::txtsize --> Ferancaoyernn:::txtsize
-Ferninfceehwrt:::txtsize --> Ferancaoyernn:::txtsize
+Pewsaiomgcd:::txtsize --> Pagtrgiiuc:::txtsize
+Pagtrgiiuc:::txtsize --> Peeflnrshtcn:::txtsize
+Peeflnrshtcn:::txtsize --> Prsa:::txtsize
+Peeflnrshtcn:::txtsize --> PrsGledNluhd:::txtsize
+Pagtrgiiuc:::txtsize --> PelNrrlnaoh:::txtsize
+PelNrrlnaoh:::txtsize --> Pespnaemipuit:::txtsize
+PelNrrlnaoh:::txtsize --> Prscahkpm:::txtsize
+Pewsaiomgcd:::txtsize --> Peeflnrshtcn:::txtsize
+Peeflnrshtcn:::txtsize --> Prsa:::txtsize
+Prsa:::txtsize --> Prsdafoaaos:::txtsize
+Prsa:::txtsize --> PrsrVaeessl:::txtsize
+Peeflnrshtcn:::txtsize --> PrsGledNluhd:::txtsize
+PrsGledNluhd:::txtsize --> Prsa:::txtsize
+PrsGledNluhd:::txtsize --> Jolapndaae:::txtsize
 
 ```
-<i>Last updated: 2025-12-22 20:00:25.186208 (GMT+8)</i>
+<i>Last updated: 2025-12-23 00:00:54.130799 (GMT+8)</i>
 <!-- END -->
