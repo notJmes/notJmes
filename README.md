@@ -16,111 +16,99 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Uovkakesue@{ shape: win-pane, label: "_Published Dec 22, 2025, 06:56 AM_
-Us envoy steve witkoff calls ukraine talks productive" }
-Uaaoialter@{ shape: win-pane, label: "_Published Dec 22, 2025, 06:33 AM_
-Us, ukraine hail ‘productive’ miami talks but no breakthrough" }
-Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
-Trump’s 28-point ukraine plan" }
-Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
-Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
-Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
-Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
-Explosions heard in ukraine capital kyiv, other cities" }
-OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
-Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
-Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
-Trump’s 28-point ukraine plan" }
-Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
-Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
-EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
-Europeans push back at us plan that would force concessions from ukraine" }
-Atdretahfunceni@{ shape: win-pane, label: "_Published Nov 20, 2025, 09:24 PM_
-A relative’s desperate search then fading hope after russian attack in western ukraine" }
-Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
-Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
-EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
-Europeans push back at us plan that would force concessions from ukraine" }
-Atdretahfunceni@{ shape: win-pane, label: "_Published Nov 20, 2025, 09:24 PM_
-A relative’s desperate search then fading hope after russian attack in western ukraine" }
+Autodbesre@{ shape: win-pane, label: "_Published Dec 22, 2025, 10:40 AM_
+Ai resurrections of dead celebrities amuse and rankle" }
+OIcotTyp@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:31 PM_
+Openai launches sora 2 with tiktok-style app" }
+OIahTrcr@{ shape: win-pane, label: "_Published Aug 08, 2025, 03:24 AM_
+Openai releases chatgpt-5 as ai race accelerates" }
+AwsgronpSnrr@{ shape: win-pane, label: "_Published Jul 01, 2025, 08:40 AM_
+Apple weighs using anthropic or openai to power siri in major reversal" }
+OIlwoileoh@{ shape: win-pane, label: "_Published Jul 10, 2025, 02:19 AM_
+Openai to release web browser in challenge to google chrome" }
+Bitptfsoltsoog@{ shape: win-pane, label: "_Published Sep 30, 2025, 07:43 AM_
+Buy it in chatgpt: openai takes first step to enable chatbot users to go shopping" }
+OIirlrnGtlnei@{ shape: win-pane, label: "_Published Sep 29, 2025, 08:02 PM_
+Openai to bring parental controls in chatgpt after california teen’s suicide" }
+MftsiuIkrc@{ shape: win-pane, label: "_Published Sep 29, 2025, 08:17 AM_
+Magnificent 7 is passe. this group of ai stocks can replace it" }
+OIscsruKrretod@{ shape: win-pane, label: "_Published Oct 17, 2025, 05:45 PM_
+Openai halts depictions of martin luther king jr. after ‘disrespectful’ sora videos" }
+Dalamunpoaos@{ shape: win-pane, label: "_Published Oct 02, 2025, 11:19 AM_
+Deepfake political scam ads surge on meta platforms, watchdog says" }
+MoIsrldt@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:22 PM_
+Meta to use ai chats to personalise ads, content" }
+Aaoiarekn@{ shape: win-pane, label: "_Published Sep 26, 2025, 06:08 PM_
+Australia court fines man over $280,000 for deepfake porn" }
+WAimihuctaridn@{ shape: win-pane, label: "_Published Sep 24, 2025, 09:44 AM_
+Whatsapp, twitch among sites that could face australia under-16s social media ban" }
+Pestekeoioocsn@{ shape: win-pane, label: "_Published Nov 12, 2024, 04:10 PM_
+Police investigating deepfake nude photos of singapore sports school students" }
 
-Uovkakesue:::txtsize --> Uaaoialter:::txtsize
-Uaaoialter:::txtsize --> Tstia:::txtsize
-Tstia:::txtsize --> Zsarskbdaosb:::txtsize
-Tstia:::txtsize --> Zsarskbdaosb:::txtsize
-Uaaoialter:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
-DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
-Uovkakesue:::txtsize --> Tstia:::txtsize
-Tstia:::txtsize --> Zsarskbdaosb:::txtsize
-Zsarskbdaosb:::txtsize --> EeucStooosfke:::txtsize
-Zsarskbdaosb:::txtsize --> Atdretahfunceni:::txtsize
-Tstia:::txtsize --> Zsarskbdaosb:::txtsize
-Zsarskbdaosb:::txtsize --> EeucStooosfke:::txtsize
-Zsarskbdaosb:::txtsize --> Atdretahfunceni:::txtsize
+Autodbesre:::txtsize --> OIcotTyp:::txtsize
+OIcotTyp:::txtsize --> OIahTrcr:::txtsize
+OIahTrcr:::txtsize --> AwsgronpSnrr:::txtsize
+OIahTrcr:::txtsize --> OIlwoileoh:::txtsize
+OIcotTyp:::txtsize --> Bitptfsoltsoog:::txtsize
+Bitptfsoltsoog:::txtsize --> OIirlrnGtlnei:::txtsize
+Bitptfsoltsoog:::txtsize --> MftsiuIkrc:::txtsize
+Autodbesre:::txtsize --> OIscsruKrretod:::txtsize
+OIscsruKrretod:::txtsize --> Dalamunpoaos:::txtsize
+Dalamunpoaos:::txtsize --> MoIsrldt:::txtsize
+OIscsruKrretod:::txtsize --> Aaoiarekn:::txtsize
+Aaoiarekn:::txtsize --> WAimihuctaridn:::txtsize
+Aaoiarekn:::txtsize --> Pestekeoioocsn:::txtsize
 
-Ptrntpfn@{ shape: win-pane, label: "_Published Dec 22, 2025, 06:54 AM_
-Paw patrol: britain vows to end puppy farming" }
-SKsysnuefootu@{ shape: win-pane, label: "_Published May 30, 2023, 08:16 PM_
-South korea’s ‘puppy mills’ churning out cuteness from conveyor belt of abuse" }
-Oegnoimusoo@{ shape: win-pane, label: "_Published Mar 06, 2023, 03:35 PM_
-Over 1,000 dead dogs found in horrific animal abuse case in south korea" }
-MCfdteelduad@{ shape: win-pane, label: "_Published Mar 05, 2023, 08:49 AM_
-Man in china forced to eat faeces after he allegedly abused cats to death" }
-oedesnrnaedtr@{ shape: win-pane, label: "_Published Jun 18, 2024, 05:00 AM_
-19 of 22 licensed dog breeders in singapore found to have breached tightened rules" }
-Siaiegiserbeivml@{ shape: win-pane, label: "_Published Oct 08, 2021, 12:00 PM_
-Sweeping changes in licensing conditions for pet boarders, breeders to improve animal welfare" }
-MntsdiiiaatmCV@{ shape: win-pane, label: "_Published Jan 09, 2019, 12:57 PM_
-Missing shetland sheepdog prince died while boarded at platinium dogs club: ava" }
-Osgdtonmwotedral@{ shape: win-pane, label: "_Published Apr 30, 2019, 09:41 PM_
-Owners of dog that died at pet boarding firm not aware tourists were hired to care for animals" }
+JRnowTrs@{ shape: win-pane, label: "_Published Dec 22, 2025, 10:00 AM_
+James ransone, actor known for the wire, dies at 46" }
 
-Ptrntpfn:::txtsize --> SKsysnuefootu:::txtsize
-SKsysnuefootu:::txtsize --> Oegnoimusoo:::txtsize
-Oegnoimusoo:::txtsize --> MCfdteelduad:::txtsize
-Ptrntpfn:::txtsize --> oedesnrnaedtr:::txtsize
-oedesnrnaedtr:::txtsize --> Siaiegiserbeivml:::txtsize
-Siaiegiserbeivml:::txtsize --> MntsdiiiaatmCV:::txtsize
-Siaiegiserbeivml:::txtsize --> Osgdtonmwotedral:::txtsize
 
-UaririHHleee@{ shape: win-pane, label: "_Published Dec 22, 2025, 06:46 AM_
-Us senator urges military action if hamas, hezbollah remained armed" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
-Peace finally descends on the middle east: now the battle to make it last begins" }
-TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
-Tears, joy in israel as hamas hands over first hostages" }
-TafnemsHleikl@{ shape: win-pane, label: "_Published Nov 27, 2024, 02:56 AM_
-Thousands of lebanese head home as israel-hezbollah ceasefire takes hold" }
-IlocfheUktid@{ shape: win-pane, label: "_Published Nov 27, 2024, 05:28 AM_
-Israel-hezbollah ceasefire: what does the us-brokered truce include?" }
-TafnemsHleikl@{ shape: win-pane, label: "_Published Nov 27, 2024, 02:56 AM_
-Thousands of lebanese head home as israel-hezbollah ceasefire takes hold" }
-TafnemsHleikl@{ shape: win-pane, label: "_Published Nov 27, 2024, 02:56 AM_
-Thousands of lebanese head home as israel-hezbollah ceasefire takes hold" }
-PeLoseeaeao@{ shape: win-pane, label: "_Published Nov 26, 2024, 07:13 PM_
-Prospect of lebanon ceasefire leaves gazans feeling abandoned" }
-AaOtsiPtnlnags@{ shape: win-pane, label: "_Published Oct 07, 2024, 12:12 PM_
-A year after oct 7 attack: israelis and palestinians reflect on loss as war grinds on" }
-Wrssdszseeisepts@{ shape: win-pane, label: "_Published Nov 25, 2024, 09:33 PM_
-Winter rainstorms flood tents of gaza’s displaced palestinians as israel steps up strikes" }
+TtAcpliyee@{ shape: win-pane, label: "_Published Dec 22, 2025, 09:30 AM_
+Trump takes america’s ‘imperial presidency’ to a new level" }
+ScpetifAnarte@{ shape: win-pane, label: "_Published Nov 17, 2025, 02:40 PM_
+Saudi crown prince visits us with defence, ai and nuclear energy on the agenda" }
+Ilemahmaroais@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:27 PM_
+Israel targets hamas leadership in military strikes on qatar, officials say" }
+Ilssreana@{ shape: win-pane, label: "_Published Sep 08, 2025, 04:31 PM_
+Israel warns hamas to surrender or face ‘annihilation’" }
+Lnthlareseeis@{ shape: win-pane, label: "_Published Sep 09, 2025, 02:18 AM_
+‘leave now’, netanyahu tells gaza city residents as israel intensifies assault" }
+BesTSAalweoae@{ shape: win-pane, label: "_Published Nov 09, 2025, 02:05 PM_
+Before talks with trump, saudi arabia doubles down on terms for israel ties" }
+WrAao@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:46 PM_
+What are the abraham accords?" }
+Ssgtrahiase@{ shape: win-pane, label: "_Published Nov 07, 2025, 03:55 PM_
+Sudan’s rsf agrees to us proposal for humanitarian ceasefire" }
+Thsaasiaeipscet@{ shape: win-pane, label: "_Published Sep 18, 2025, 06:01 AM_
+Trump hails special relationship with uk as he revels in pomp of historic state visit" }
+BilgPtnewnsr@{ shape: win-pane, label: "_Published Sep 18, 2025, 04:10 AM_
+Britain will recognise palestinian state this weekend, says report" }
+Thsaasiaeipscet@{ shape: win-pane, label: "_Published Sep 18, 2025, 06:01 AM_
+Trump hails special relationship with uk as he revels in pomp of historic state visit" }
+JweiaisgUsrt@{ shape: win-pane, label: "_Published Sep 17, 2025, 08:26 AM_
+Japan won’t recognise a palestinian state given us ties, says report" }
+OkrteTserltnCe@{ shape: win-pane, label: "_Published Sep 18, 2025, 12:01 AM_
+Onlookers, protesters bemoan trump’s closed-door royal visit to windsor castle" }
+Tbsotioiprt@{ shape: win-pane, label: "_Published Sep 17, 2025, 01:05 PM_
+Trump begins historic state visit to uk amid pomp and protests" }
+Khssccntptione@{ shape: win-pane, label: "_Published Jul 08, 2025, 11:22 PM_
+King charles hosts france’s macron in first european state visit to uk since brexit" }
 
-UaririHHleee:::txtsize --> Tdrcaaededlncbs:::txtsize
-Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
-PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
-UaririHHleee:::txtsize --> TafnemsHleikl:::txtsize
-TafnemsHleikl:::txtsize --> IlocfheUktid:::txtsize
-IlocfheUktid:::txtsize --> TafnemsHleikl:::txtsize
-IlocfheUktid:::txtsize --> TafnemsHleikl:::txtsize
-TafnemsHleikl:::txtsize --> PeLoseeaeao:::txtsize
-PeLoseeaeao:::txtsize --> AaOtsiPtnlnags:::txtsize
-PeLoseeaeao:::txtsize --> Wrssdszseeisepts:::txtsize
+TtAcpliyee:::txtsize --> ScpetifAnarte:::txtsize
+ScpetifAnarte:::txtsize --> Ilemahmaroais:::txtsize
+Ilemahmaroais:::txtsize --> Ilssreana:::txtsize
+Ilemahmaroais:::txtsize --> Lnthlareseeis:::txtsize
+ScpetifAnarte:::txtsize --> BesTSAalweoae:::txtsize
+BesTSAalweoae:::txtsize --> WrAao:::txtsize
+BesTSAalweoae:::txtsize --> Ssgtrahiase:::txtsize
+TtAcpliyee:::txtsize --> Thsaasiaeipscet:::txtsize
+Thsaasiaeipscet:::txtsize --> BilgPtnewnsr:::txtsize
+BilgPtnewnsr:::txtsize --> Thsaasiaeipscet:::txtsize
+BilgPtnewnsr:::txtsize --> JweiaisgUsrt:::txtsize
+Thsaasiaeipscet:::txtsize --> OkrteTserltnCe:::txtsize
+OkrteTserltnCe:::txtsize --> Tbsotioiprt:::txtsize
+OkrteTserltnCe:::txtsize --> Khssccntptione:::txtsize
 
 ```
-<i>Last updated: 2025-12-22 08:00:55.762020 (GMT+8)</i>
+<i>Last updated: 2025-12-22 12:00:21.538163 (GMT+8)</i>
 <!-- END -->
