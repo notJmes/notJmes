@@ -16,120 +16,126 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Fnsisst@{ shape: win-pane, label: "_Published Dec 22, 2025, 10:59 PM_
-Finland says to raise reservist age to 65" }
-Naaelaaidmsm@{ shape: win-pane, label: "_Published Apr 04, 2023, 06:46 PM_
-Nato gains massive artillery arsenal as finland becomes its 31st member" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
-Explosions heard in ukraine capital kyiv, other cities" }
-OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
-Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
-TslniFntbiwkag@{ shape: win-pane, label: "_Published Mar 31, 2023, 05:44 AM_
-Turkish parliament ratifies finland’s nato membership as sweden kept waiting" }
-Unsilybdtlorng@{ shape: win-pane, label: "_Published Mar 29, 2023, 06:23 PM_
-Ukraine hits russian-held city deep behind front as talk of counteroffensive grows" }
-HrlnklNciebn@{ shape: win-pane, label: "_Published Mar 28, 2023, 01:19 AM_
-Hungary parliament backs finland’s nato accession, swedish bid pending" }
-Fnsugosocih@{ shape: win-pane, label: "_Published Nov 18, 2023, 02:23 AM_
-Finland sees asylum surge before russia border crossings shut" }
+Tsuuestilnc@{ shape: win-pane, label: "_Published Dec 23, 2025, 03:24 AM_
+Three seriously hurt in explosion at chemical plant in france" }
+Hiablnrnstne@{ shape: win-pane, label: "_Published Nov 15, 2025, 08:45 PM_
+Huge fire sparked by explosions near argentina’s capital ‘contained’" }
+Ivuerlrrt@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:03 AM_
+India vows justice after deadly ‘terror’ car blast" }
+IpsbehbarKieos@{ shape: win-pane, label: "_Published Nov 12, 2025, 05:31 PM_
+India probes link between delhi car blast and earlier kashmir arrests, sources say" }
+DycIaknnrosc@{ shape: win-pane, label: "_Published Nov 11, 2025, 07:40 PM_
+Deadly attacks in india and pakistan reignite cross-border suspicions" }
+ItlotltadSlcs@{ shape: win-pane, label: "_Published Nov 02, 2025, 11:43 AM_
+‘intentional’ explosion took place at harvard medical school, officials say" }
+TsrgTsadeyneodcg@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:20 AM_
+‘their sins are forgiven’: trump says harvard university to run ‘trade schools’ under upcoming deal" }
+Hrdnlnyinnar@{ shape: win-pane, label: "_Published Oct 17, 2025, 03:05 AM_
+Harvard’s endowment swells to nearly $74 billion; donations hit a record" }
+Tlnrnlnsili@{ shape: win-pane, label: "_Published Oct 28, 2025, 10:15 AM_
+Two killed in underground explosion at australian silver mine" }
+Fonseigeaeoadt@{ shape: win-pane, label: "_Published Oct 06, 2025, 10:31 AM_
+Freeport confirms all seven missing workers dead after indonesia mine disaster" }
+FodipPmpitnd@{ shape: win-pane, label: "_Published Sep 09, 2025, 07:47 PM_
+Freeport indonesia suspends papua mine operation after landslide" }
+TdoncFodikrdnoa@{ shape: win-pane, label: "_Published Sep 20, 2025, 02:26 PM_
+Two bodies found in search for freeport indonesia workers trapped in mine, reports say" }
+Scialv@{ shape: win-pane, label: "_Published Mar 31, 2025, 07:46 PM_
+Spain coal mine blast kills five" }
+SAarearoeiie@{ shape: win-pane, label: "_Published Jan 16, 2025, 09:14 PM_
+South africa mine rescue ends, anger rises over 78 deaths in police siege" }
+Deirnlnnina@{ shape: win-pane, label: "_Published Mar 27, 2025, 05:00 PM_
+Deep-sea mining threatens sea life in a way no one is thinking about" }
 
-Fnsisst:::txtsize --> Naaelaaidmsm:::txtsize
-Naaelaaidmsm:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
-DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
-Naaelaaidmsm:::txtsize --> TslniFntbiwkag:::txtsize
-TslniFntbiwkag:::txtsize --> Unsilybdtlorng:::txtsize
-TslniFntbiwkag:::txtsize --> HrlnklNciebn:::txtsize
-Fnsisst:::txtsize --> Fnsugosocih:::txtsize
+Tsuuestilnc:::txtsize --> Hiablnrnstne:::txtsize
+Hiablnrnstne:::txtsize --> Ivuerlrrt:::txtsize
+Ivuerlrrt:::txtsize --> IpsbehbarKieos:::txtsize
+Ivuerlrrt:::txtsize --> DycIaknnrosc:::txtsize
+Hiablnrnstne:::txtsize --> ItlotltadSlcs:::txtsize
+ItlotltadSlcs:::txtsize --> TsrgTsadeyneodcg:::txtsize
+ItlotltadSlcs:::txtsize --> Hrdnlnyinnar:::txtsize
+Tsuuestilnc:::txtsize --> Tlnrnlnsili:::txtsize
+Tlnrnlnsili:::txtsize --> Fonseigeaeoadt:::txtsize
+Fonseigeaeoadt:::txtsize --> FodipPmpitnd:::txtsize
+Fonseigeaeoadt:::txtsize --> TdoncFodikrdnoa:::txtsize
+Tlnrnlnsili:::txtsize --> Scialv:::txtsize
+Scialv:::txtsize --> SAarearoeiie:::txtsize
+Scialv:::txtsize --> Deirnlnnina:::txtsize
 
-Uptdrgsepo@{ shape: win-pane, label: "_Published Dec 22, 2025, 10:15 PM_
-Us triples stipend offer to migrants who ‘self-deport’ to $3,900" }
-Taitfuoigcrvtyeth@{ shape: win-pane, label: "_Published Oct 04, 2025, 09:51 AM_
-Trump administration offers unaccompanied migrant children $3,200 to voluntarily leave us, letter shows" }
-Utanflfeeodtn@{ shape: win-pane, label: "_Published Jun 05, 2025, 02:26 AM_
-Us state department shifts $321 million from refugee aid to ‘self-deportations’" }
-TsrornruditeWH@{ shape: win-pane, label: "_Published Jan 24, 2025, 08:42 PM_
-Trump’s deportation operation under way, hundreds of migrants arrested: white house" }
-Taitfmnovtye@{ shape: win-pane, label: "_Published May 05, 2025, 11:30 PM_
-Trump administration offers migrants about $1,300 to voluntarily leave us" }
-Taitisgonfeuoigcr@{ shape: win-pane, label: "_Published Feb 23, 2025, 09:07 PM_
-Trump administration directs immigration agents to find, deport unaccompanied migrant children" }
-Wrmeapeoit@{ shape: win-pane, label: "_Published Jan 25, 2025, 11:20 AM_
-What trump’s mass deportation plan means for immigrants" }
-Taitaeseaa@{ shape: win-pane, label: "_Published Mar 10, 2025, 11:07 PM_
-Trump administration launches new ‘self-deportation’ app" }
-Ttcrtnsrfpn@{ shape: win-pane, label: "_Published Feb 26, 2025, 07:58 AM_
-Trump to force migrants to join registry or face fines, prison" }
-TsrornruditeWH@{ shape: win-pane, label: "_Published Jan 24, 2025, 08:42 PM_
-Trump’s deportation operation under way, hundreds of migrants arrested: white house" }
-UiaatomnnGmais@{ shape: win-pane, label: "_Published Jan 28, 2025, 08:33 AM_
-Us military aircraft with deported migrants lands in guatemala, say officials" }
-Taitisgonfeuoigcr@{ shape: win-pane, label: "_Published Feb 23, 2025, 09:07 PM_
-Trump administration directs immigration agents to find, deport unaccompanied migrant children" }
-Wrmeapeoit@{ shape: win-pane, label: "_Published Jan 25, 2025, 11:20 AM_
-What trump’s mass deportation plan means for immigrants" }
+BsetaulerLn@{ shape: win-pane, label: "_Published Dec 23, 2025, 03:06 AM_
+British street artist banksy unveils latest mural in london" }
+Bsrrdonueitye@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:09 AM_
+British courts service destroys banksy mural depicting attack by judge" }
+Nnutogrwgips@{ shape: win-pane, label: "_Published Sep 08, 2025, 07:56 PM_
+New banksy mural at london’s high court shows judge striking protester" }
+Rapiulrsftoe@{ shape: win-pane, label: "_Published Mar 05, 2025, 02:40 PM_
+Rare banksy painting crude oil (vettriano) sells for $7.4m at london sale" }
+Nnueieipsrn@{ shape: win-pane, label: "_Published Mar 19, 2024, 11:40 AM_
+New banksy mural depicting tree foliage appears in north london" }
+Nnutogrwgips@{ shape: win-pane, label: "_Published Sep 08, 2025, 07:56 PM_
+New banksy mural at london’s high court shows judge striking protester" }
+Rapiulrsftoe@{ shape: win-pane, label: "_Published Mar 05, 2025, 02:40 PM_
+Rare banksy painting crude oil (vettriano) sells for $7.4m at london sale" }
+Nnueieipsrn@{ shape: win-pane, label: "_Published Mar 19, 2024, 11:40 AM_
+New banksy mural depicting tree foliage appears in north london" }
+Minrlapi@{ shape: win-pane, label: "_Published Nov 15, 2025, 03:43 AM_
+Man jailed in uk for stealing banksy painting" }
+Bsrrdonueitye@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:09 AM_
+British courts service destroys banksy mural depicting attack by judge" }
+Nnutogrwgips@{ shape: win-pane, label: "_Published Sep 08, 2025, 07:56 PM_
+New banksy mural at london’s high court shows judge striking protester" }
+Nnutogrwgips@{ shape: win-pane, label: "_Published Sep 08, 2025, 07:56 PM_
+New banksy mural at london’s high court shows judge striking protester" }
+Rapiulrsftoe@{ shape: win-pane, label: "_Published Mar 05, 2025, 02:40 PM_
+Rare banksy painting crude oil (vettriano) sells for $7.4m at london sale" }
+Tniortinoigecr@{ shape: win-pane, label: "_Published Nov 06, 2024, 05:00 PM_
+Touring exhibition of graffiti artist banksy to open in singapore in december" }
+Mtigaoomo@{ shape: win-pane, label: "_Published Nov 20, 2024, 06:05 PM_
+Magritte painting nets auction record of $162 million" }
 
-Uptdrgsepo:::txtsize --> Taitfuoigcrvtyeth:::txtsize
-Taitfuoigcrvtyeth:::txtsize --> Utanflfeeodtn:::txtsize
-Utanflfeeodtn:::txtsize --> TsrornruditeWH:::txtsize
-Utanflfeeodtn:::txtsize --> Taitfmnovtye:::txtsize
-Taitfuoigcrvtyeth:::txtsize --> Taitisgonfeuoigcr:::txtsize
-Taitisgonfeuoigcr:::txtsize --> Wrmeapeoit:::txtsize
-Uptdrgsepo:::txtsize --> Taitaeseaa:::txtsize
-Taitaeseaa:::txtsize --> Ttcrtnsrfpn:::txtsize
-Ttcrtnsrfpn:::txtsize --> TsrornruditeWH:::txtsize
-Ttcrtnsrfpn:::txtsize --> UiaatomnnGmais:::txtsize
-Taitaeseaa:::txtsize --> Taitisgonfeuoigcr:::txtsize
-Taitisgonfeuoigcr:::txtsize --> Wrmeapeoit:::txtsize
+BsetaulerLn:::txtsize --> Bsrrdonueitye:::txtsize
+Bsrrdonueitye:::txtsize --> Nnutogrwgips:::txtsize
+Nnutogrwgips:::txtsize --> Rapiulrsftoe:::txtsize
+Nnutogrwgips:::txtsize --> Nnueieipsrn:::txtsize
+Bsrrdonueitye:::txtsize --> Nnutogrwgips:::txtsize
+Nnutogrwgips:::txtsize --> Rapiulrsftoe:::txtsize
+Nnutogrwgips:::txtsize --> Nnueieipsrn:::txtsize
+BsetaulerLn:::txtsize --> Minrlapi:::txtsize
+Minrlapi:::txtsize --> Bsrrdonueitye:::txtsize
+Bsrrdonueitye:::txtsize --> Nnutogrwgips:::txtsize
+Bsrrdonueitye:::txtsize --> Nnutogrwgips:::txtsize
+Minrlapi:::txtsize --> Rapiulrsftoe:::txtsize
+Rapiulrsftoe:::txtsize --> Tniortinoigecr:::txtsize
+Rapiulrsftoe:::txtsize --> Mtigaoomo:::txtsize
 
-Pewsaiomgcd@{ shape: win-pane, label: "_Published Dec 22, 2025, 10:03 PM_
-Pope leo’s new us bishops are critics of trump’s migrant crackdown" }
-Pagtrgiiuc@{ shape: win-pane, label: "_Published Dec 22, 2025, 09:24 PM_
-Pope warns against power struggles in vatican bureaucracy" }
-Peeflnrshtcn@{ shape: win-pane, label: "_Published Dec 22, 2025, 06:29 PM_
-Pope leo urges joyful, welcoming church in speech to vatican cardinals" }
-Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
-Pope francis dies at age 88" }
-PrsGledNluhd@{ shape: win-pane, label: "_Published Dec 19, 2025, 02:21 PM_
-Pope francis, jane goodall, robert redford: notable figures who died in 2025" }
-PelNrrlnaoh@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:01 PM_
-Pope leo replaces new york’s cardinal dolan in shake-up of us church" }
-Pespnaemipuit@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:38 AM_
-Pope leo says trump administration ‘extremely disrespectful’ to migrants" }
-Prscahkpm@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:24 PM_
-Pope francis: radical leader who broke the papal mould" }
-Peeflnrshtcn@{ shape: win-pane, label: "_Published Dec 22, 2025, 06:29 PM_
-Pope leo urges joyful, welcoming church in speech to vatican cardinals" }
-Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
-Pope francis dies at age 88" }
-Prsdafoaaos@{ shape: win-pane, label: "_Published Mar 23, 2025, 01:28 AM_
-Pope francis to be discharged from hospital on march 23, doctor says" }
-PrsrVaeessl@{ shape: win-pane, label: "_Published Mar 23, 2025, 07:19 PM_
-Pope francis returns to vatican after five weeks in hospital" }
-PrsGledNluhd@{ shape: win-pane, label: "_Published Dec 19, 2025, 02:21 PM_
-Pope francis, jane goodall, robert redford: notable figures who died in 2025" }
-Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
-Pope francis dies at age 88" }
-Jolapndaae@{ shape: win-pane, label: "_Published Oct 02, 2025, 02:39 AM_
-Jane goodall, primate expert and wildlife advocate, dies at 91" }
+UdnvalsNiemeth@{ shape: win-pane, label: "_Published Dec 23, 2025, 01:23 AM_
+Us conducting surveillance flights over nigeria after trump intervention threat" }
+TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
+Trump threatens military action in nigeria over ‘killing of christians’" }
+UDehewmeinegas@{ shape: win-pane, label: "_Published Nov 01, 2025, 09:00 AM_
+Us v-p j.d. vance says he hopes his wife embraces christianity, setting off backlash" }
+UanyrAcm@{ shape: win-pane, label: "_Published Mar 28, 2025, 01:30 PM_
+Usha vance in the eye of trump’s arctic storm" }
+TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
+Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
+TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
+Trump threatens military action in nigeria over ‘killing of christians’" }
+UDehewmeinegas@{ shape: win-pane, label: "_Published Nov 01, 2025, 09:00 AM_
+Us v-p j.d. vance says he hopes his wife embraces christianity, setting off backlash" }
+UanyrAcm@{ shape: win-pane, label: "_Published Mar 28, 2025, 01:30 PM_
+Usha vance in the eye of trump’s arctic storm" }
+TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
+Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
 
-Pewsaiomgcd:::txtsize --> Pagtrgiiuc:::txtsize
-Pagtrgiiuc:::txtsize --> Peeflnrshtcn:::txtsize
-Peeflnrshtcn:::txtsize --> Prsa:::txtsize
-Peeflnrshtcn:::txtsize --> PrsGledNluhd:::txtsize
-Pagtrgiiuc:::txtsize --> PelNrrlnaoh:::txtsize
-PelNrrlnaoh:::txtsize --> Pespnaemipuit:::txtsize
-PelNrrlnaoh:::txtsize --> Prscahkpm:::txtsize
-Pewsaiomgcd:::txtsize --> Peeflnrshtcn:::txtsize
-Peeflnrshtcn:::txtsize --> Prsa:::txtsize
-Prsa:::txtsize --> Prsdafoaaos:::txtsize
-Prsa:::txtsize --> PrsrVaeessl:::txtsize
-Peeflnrshtcn:::txtsize --> PrsGledNluhd:::txtsize
-PrsGledNluhd:::txtsize --> Prsa:::txtsize
-PrsGledNluhd:::txtsize --> Jolapndaae:::txtsize
+UdnvalsNiemeth:::txtsize --> TttiriNiriCt:::txtsize
+TttiriNiriCt:::txtsize --> UDehewmeinegas:::txtsize
+UDehewmeinegas:::txtsize --> UanyrAcm:::txtsize
+UDehewmeinegas:::txtsize --> TahesegnipdoUstt:::txtsize
+UdnvalsNiemeth:::txtsize --> TttiriNiriCt:::txtsize
+TttiriNiriCt:::txtsize --> UDehewmeinegas:::txtsize
+UDehewmeinegas:::txtsize --> UanyrAcm:::txtsize
+UDehewmeinegas:::txtsize --> TahesegnipdoUstt:::txtsize
 
 ```
-<i>Last updated: 2025-12-23 00:00:54.130799 (GMT+8)</i>
+<i>Last updated: 2025-12-23 04:00:21.288952 (GMT+8)</i>
 <!-- END -->
