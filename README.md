@@ -16,138 +16,111 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Unoaenanaiptr@{ shape: win-pane, label: "_Published Dec 22, 2025, 02:30 AM_
-Ukraine, us to hold another round of talks on dec 22, says kyiv’s top negotiator" }
-ZsvUpoetwkeuireu@{ shape: win-pane, label: "_Published Dec 20, 2025, 10:16 PM_
-Zelensky favours us proposal of three-way talks with ukraine and russia if it produces results" }
-Unrwdltygty@{ shape: win-pane, label: "_Published Dec 20, 2025, 12:36 AM_
-Ukraine starts new round of talks with us,  kyiv negotiator says" }
-Eelloaitis@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:23 PM_
-Eu agrees $136 billion loan for ukraine, without russian assets" }
-NplyosUiiTis@{ shape: win-pane, label: "_Published Dec 19, 2025, 10:11 PM_
-No drop in military aid to kyiv since us policy shift, nato official says" }
-Raefrrketonnoiia@{ shape: win-pane, label: "_Published Feb 20, 2025, 05:37 PM_
-Russia targets infrastructure in ukraine’s east and south in extensive overnight air attack" }
-RaaUneeiereeaes@{ shape: win-pane, label: "_Published Feb 19, 2025, 03:06 PM_
-Russian attack on ukraine’s odessa region injures four, causes widespread power cuts" }
-Raiiaolegdiec@{ shape: win-pane, label: "_Published Feb 16, 2025, 09:50 PM_
-Russian strikes hit ukraine power plant, leaving residents in freezing cold" }
-ZsvUpoetwkeuireu@{ shape: win-pane, label: "_Published Dec 20, 2025, 10:16 PM_
-Zelensky favours us proposal of three-way talks with ukraine and russia if it produces results" }
-Unrwdltygty@{ shape: win-pane, label: "_Published Dec 20, 2025, 12:36 AM_
-Ukraine starts new round of talks with us,  kyiv negotiator says" }
-Eelloaitis@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:23 PM_
-Eu agrees $136 billion loan for ukraine, without russian assets" }
-NplyosUiiTis@{ shape: win-pane, label: "_Published Dec 19, 2025, 10:11 PM_
-No drop in military aid to kyiv since us policy shift, nato official says" }
-Raefrrketonnoiia@{ shape: win-pane, label: "_Published Feb 20, 2025, 05:37 PM_
-Russia targets infrastructure in ukraine’s east and south in extensive overnight air attack" }
-RaaUneeiereeaes@{ shape: win-pane, label: "_Published Feb 19, 2025, 03:06 PM_
-Russian attack on ukraine’s odessa region injures four, causes widespread power cuts" }
-Raiiaolegdiec@{ shape: win-pane, label: "_Published Feb 16, 2025, 09:50 PM_
-Russian strikes hit ukraine power plant, leaving residents in freezing cold" }
+Uovkakesue@{ shape: win-pane, label: "_Published Dec 22, 2025, 06:56 AM_
+Us envoy steve witkoff calls ukraine talks productive" }
+Uaaoialter@{ shape: win-pane, label: "_Published Dec 22, 2025, 06:33 AM_
+Us, ukraine hail ‘productive’ miami talks but no breakthrough" }
+Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
+Trump’s 28-point ukraine plan" }
+Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
+Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
+Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
+Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
+Explosions heard in ukraine capital kyiv, other cities" }
+OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
+Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
+Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
+Trump’s 28-point ukraine plan" }
+Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
+Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
+EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
+Europeans push back at us plan that would force concessions from ukraine" }
+Atdretahfunceni@{ shape: win-pane, label: "_Published Nov 20, 2025, 09:24 PM_
+A relative’s desperate search then fading hope after russian attack in western ukraine" }
+Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
+Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
+EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
+Europeans push back at us plan that would force concessions from ukraine" }
+Atdretahfunceni@{ shape: win-pane, label: "_Published Nov 20, 2025, 09:24 PM_
+A relative’s desperate search then fading hope after russian attack in western ukraine" }
 
-Unoaenanaiptr:::txtsize --> ZsvUpoetwkeuireu:::txtsize
-ZsvUpoetwkeuireu:::txtsize --> Unrwdltygty:::txtsize
-Unrwdltygty:::txtsize --> Eelloaitis:::txtsize
-Unrwdltygty:::txtsize --> NplyosUiiTis:::txtsize
-ZsvUpoetwkeuireu:::txtsize --> Raefrrketonnoiia:::txtsize
-Raefrrketonnoiia:::txtsize --> RaaUneeiereeaes:::txtsize
-Raefrrketonnoiia:::txtsize --> Raiiaolegdiec:::txtsize
-Unoaenanaiptr:::txtsize --> ZsvUpoetwkeuireu:::txtsize
-ZsvUpoetwkeuireu:::txtsize --> Unrwdltygty:::txtsize
-Unrwdltygty:::txtsize --> Eelloaitis:::txtsize
-Unrwdltygty:::txtsize --> NplyosUiiTis:::txtsize
-ZsvUpoetwkeuireu:::txtsize --> Raefrrketonnoiia:::txtsize
-Raefrrketonnoiia:::txtsize --> RaaUneeiereeaes:::txtsize
-Raefrrketonnoiia:::txtsize --> Raiiaolegdiec:::txtsize
+Uovkakesue:::txtsize --> Uaaoialter:::txtsize
+Uaaoialter:::txtsize --> Tstia:::txtsize
+Tstia:::txtsize --> Zsarskbdaosb:::txtsize
+Tstia:::txtsize --> Zsarskbdaosb:::txtsize
+Uaaoialter:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
+DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
+Uovkakesue:::txtsize --> Tstia:::txtsize
+Tstia:::txtsize --> Zsarskbdaosb:::txtsize
+Zsarskbdaosb:::txtsize --> EeucStooosfke:::txtsize
+Zsarskbdaosb:::txtsize --> Atdretahfunceni:::txtsize
+Tstia:::txtsize --> Zsarskbdaosb:::txtsize
+Zsarskbdaosb:::txtsize --> EeucStooosfke:::txtsize
+Zsarskbdaosb:::txtsize --> Atdretahfunceni:::txtsize
 
-Pgcsewoahna@{ shape: win-pane, label: "_Published Dec 22, 2025, 12:36 AM_
-Portugal recovers bodies of two indonesian fishermen lost at sea" }
-IefrehigrianPg@{ shape: win-pane, label: "_Published Dec 17, 2025, 12:51 AM_
-Indonesian fisherman dead, others missing after fishing boats sink off portugal" }
-Iefruatieifdu@{ shape: win-pane, label: "_Published Mar 14, 2025, 08:15 AM_
-Indonesian fishermen sue us canned tuna firm over claims of forced labour" }
-AagmibufUdcs@{ shape: win-pane, label: "_Published Jun 08, 2024, 02:17 AM_
-Aquafarming becomes main global source of fish, un food agency says" }
-AagmibufUdcs@{ shape: win-pane, label: "_Published Jun 08, 2024, 02:17 AM_
-Aquafarming becomes main global source of fish, un food agency says" }
-Dsnbrviru@{ shape: win-pane, label: "_Published Apr 30, 2024, 02:37 PM_
-Dying salmon trouble norway’s vast fish-farm industry" }
-Rnnsafaneticeh@{ shape: win-pane, label: "_Published Oct 23, 2023, 05:00 AM_
-Raising standards of coastal fish farms in s’pore with tilapia, the ‘chicken of the sea’" }
-IefrehigrianPg@{ shape: win-pane, label: "_Published Dec 17, 2025, 12:51 AM_
-Indonesian fisherman dead, others missing after fishing boats sink off portugal" }
-Iefruatieifdu@{ shape: win-pane, label: "_Published Mar 14, 2025, 08:15 AM_
-Indonesian fishermen sue us canned tuna firm over claims of forced labour" }
-AagmibufUdcs@{ shape: win-pane, label: "_Published Jun 08, 2024, 02:17 AM_
-Aquafarming becomes main global source of fish, un food agency says" }
-AagmibufUdcs@{ shape: win-pane, label: "_Published Jun 08, 2024, 02:17 AM_
-Aquafarming becomes main global source of fish, un food agency says" }
-Dsnbrviru@{ shape: win-pane, label: "_Published Apr 30, 2024, 02:37 PM_
-Dying salmon trouble norway’s vast fish-farm industry" }
-Rnnsafaneticeh@{ shape: win-pane, label: "_Published Oct 23, 2023, 05:00 AM_
-Raising standards of coastal fish farms in s’pore with tilapia, the ‘chicken of the sea’" }
+Ptrntpfn@{ shape: win-pane, label: "_Published Dec 22, 2025, 06:54 AM_
+Paw patrol: britain vows to end puppy farming" }
+SKsysnuefootu@{ shape: win-pane, label: "_Published May 30, 2023, 08:16 PM_
+South korea’s ‘puppy mills’ churning out cuteness from conveyor belt of abuse" }
+Oegnoimusoo@{ shape: win-pane, label: "_Published Mar 06, 2023, 03:35 PM_
+Over 1,000 dead dogs found in horrific animal abuse case in south korea" }
+MCfdteelduad@{ shape: win-pane, label: "_Published Mar 05, 2023, 08:49 AM_
+Man in china forced to eat faeces after he allegedly abused cats to death" }
+oedesnrnaedtr@{ shape: win-pane, label: "_Published Jun 18, 2024, 05:00 AM_
+19 of 22 licensed dog breeders in singapore found to have breached tightened rules" }
+Siaiegiserbeivml@{ shape: win-pane, label: "_Published Oct 08, 2021, 12:00 PM_
+Sweeping changes in licensing conditions for pet boarders, breeders to improve animal welfare" }
+MntsdiiiaatmCV@{ shape: win-pane, label: "_Published Jan 09, 2019, 12:57 PM_
+Missing shetland sheepdog prince died while boarded at platinium dogs club: ava" }
+Osgdtonmwotedral@{ shape: win-pane, label: "_Published Apr 30, 2019, 09:41 PM_
+Owners of dog that died at pet boarding firm not aware tourists were hired to care for animals" }
 
-Pgcsewoahna:::txtsize --> IefrehigrianPg:::txtsize
-IefrehigrianPg:::txtsize --> Iefruatieifdu:::txtsize
-Iefruatieifdu:::txtsize --> AagmibufUdcs:::txtsize
-IefrehigrianPg:::txtsize --> AagmibufUdcs:::txtsize
-AagmibufUdcs:::txtsize --> Dsnbrviru:::txtsize
-AagmibufUdcs:::txtsize --> Rnnsafaneticeh:::txtsize
-Pgcsewoahna:::txtsize --> IefrehigrianPg:::txtsize
-IefrehigrianPg:::txtsize --> Iefruatieifdu:::txtsize
-Iefruatieifdu:::txtsize --> AagmibufUdcs:::txtsize
-IefrehigrianPg:::txtsize --> AagmibufUdcs:::txtsize
-AagmibufUdcs:::txtsize --> Dsnbrviru:::txtsize
-AagmibufUdcs:::txtsize --> Rnnsafaneticeh:::txtsize
+Ptrntpfn:::txtsize --> SKsysnuefootu:::txtsize
+SKsysnuefootu:::txtsize --> Oegnoimusoo:::txtsize
+Oegnoimusoo:::txtsize --> MCfdteelduad:::txtsize
+Ptrntpfn:::txtsize --> oedesnrnaedtr:::txtsize
+oedesnrnaedtr:::txtsize --> Siaiegiserbeivml:::txtsize
+Siaiegiserbeivml:::txtsize --> MntsdiiiaatmCV:::txtsize
+Siaiegiserbeivml:::txtsize --> Osgdtonmwotedral:::txtsize
 
-Ustonenlis@{ shape: win-pane, label: "_Published Dec 21, 2025, 11:56 PM_
-Us pursuing third oil tanker near venezuela, officials say" }
-Uettreeofay@{ shape: win-pane, label: "_Published Dec 21, 2025, 12:31 AM_
-Us intercepts oil tanker off venezuelan coast, officials say" }
-Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
-Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
-TenurneCbVuo@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:52 PM_
-Trump eyes anti-drug operations in mexico, colombia as venezuela looms" }
-VulScpifromlMo@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:49 AM_
-Venezuela slams us attack preparations after trump confirms call with maduro" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
-Us military says it carried out strikes on three vessels in eastern pacific" }
-Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
-Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
-Us military says it carried out strikes on three vessels in eastern pacific" }
-TsSbrltsurnama@{ shape: win-pane, label: "_Published Dec 13, 2025, 07:41 AM_
-Trump says us will be ‘starting’ land strikes on drug operations in latin america" }
-RararoVuMouaps@{ shape: win-pane, label: "_Published Dec 12, 2025, 01:23 AM_
-Russia, belarus leaders reach out to venezuela’s maduro, as trump cranks up pressure" }
-Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
-Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
-Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
-Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
-Upgirkfeasespncy@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:13 AM_
-Us preparing to seize more tankers off venezuela’s coast after first ship taken, sources say" }
+UaririHHleee@{ shape: win-pane, label: "_Published Dec 22, 2025, 06:46 AM_
+Us senator urges military action if hamas, hezbollah remained armed" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
+TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
+Tears, joy in israel as hamas hands over first hostages" }
+TafnemsHleikl@{ shape: win-pane, label: "_Published Nov 27, 2024, 02:56 AM_
+Thousands of lebanese head home as israel-hezbollah ceasefire takes hold" }
+IlocfheUktid@{ shape: win-pane, label: "_Published Nov 27, 2024, 05:28 AM_
+Israel-hezbollah ceasefire: what does the us-brokered truce include?" }
+TafnemsHleikl@{ shape: win-pane, label: "_Published Nov 27, 2024, 02:56 AM_
+Thousands of lebanese head home as israel-hezbollah ceasefire takes hold" }
+TafnemsHleikl@{ shape: win-pane, label: "_Published Nov 27, 2024, 02:56 AM_
+Thousands of lebanese head home as israel-hezbollah ceasefire takes hold" }
+PeLoseeaeao@{ shape: win-pane, label: "_Published Nov 26, 2024, 07:13 PM_
+Prospect of lebanon ceasefire leaves gazans feeling abandoned" }
+AaOtsiPtnlnags@{ shape: win-pane, label: "_Published Oct 07, 2024, 12:12 PM_
+A year after oct 7 attack: israelis and palestinians reflect on loss as war grinds on" }
+Wrssdszseeisepts@{ shape: win-pane, label: "_Published Nov 25, 2024, 09:33 PM_
+Winter rainstorms flood tents of gaza’s displaced palestinians as israel steps up strikes" }
 
-Ustonenlis:::txtsize --> Uettreeofay:::txtsize
-Uettreeofay:::txtsize --> Uzlecoeapageo:::txtsize
-Uzlecoeapageo:::txtsize --> TenurneCbVuo:::txtsize
-Uzlecoeapageo:::txtsize --> VulScpifromlMo:::txtsize
-Uettreeofay:::txtsize --> Toskftdasitgz:::txtsize
-Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
-Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
-Ustonenlis:::txtsize --> Toskftdasitgz:::txtsize
-Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
-Uistitktvlanf:::txtsize --> TsSbrltsurnama:::txtsize
-Uistitktvlanf:::txtsize --> RararoVuMouaps:::txtsize
-Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
-Uznenltrwtphoon:::txtsize --> Uzlecoeapageo:::txtsize
-Uznenltrwtphoon:::txtsize --> Upgirkfeasespncy:::txtsize
+UaririHHleee:::txtsize --> Tdrcaaededlncbs:::txtsize
+Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
+PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
+UaririHHleee:::txtsize --> TafnemsHleikl:::txtsize
+TafnemsHleikl:::txtsize --> IlocfheUktid:::txtsize
+IlocfheUktid:::txtsize --> TafnemsHleikl:::txtsize
+IlocfheUktid:::txtsize --> TafnemsHleikl:::txtsize
+TafnemsHleikl:::txtsize --> PeLoseeaeao:::txtsize
+PeLoseeaeao:::txtsize --> AaOtsiPtnlnags:::txtsize
+PeLoseeaeao:::txtsize --> Wrssdszseeisepts:::txtsize
 
 ```
-<i>Last updated: 2025-12-22 04:00:29.495079 (GMT+8)</i>
+<i>Last updated: 2025-12-22 08:00:55.762020 (GMT+8)</i>
 <!-- END -->
