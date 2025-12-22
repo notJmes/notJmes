@@ -16,6 +16,83 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Sslndacsvhd@{ shape: win-pane, label: "_Published Dec 22, 2025, 01:50 PM_
+Santas and elves in canada steal groceries to give to the needy" }
+Cettismluans@{ shape: win-pane, label: "_Published Dec 19, 2025, 11:49 AM_
+Cars decorated with christmas ornaments light up malaysian roads" }
+WHgcdhmsaaok@{ shape: win-pane, label: "_Published Dec 02, 2025, 08:45 AM_
+White house gets scaled-down christmas display amid ballroom work" }
+WHEilowboudioo@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:39 AM_
+White house east wing will be torn down for ballroom, trump had promised not to do so" }
+Tletlmphrnmhts@{ shape: win-pane, label: "_Published Oct 25, 2025, 08:05 PM_
+The bulldozer and the ballroom: trump puts his permanent stamp on the white house" }
+TeatnfaFedyssn@{ shape: win-pane, label: "_Published Dec 02, 2025, 12:50 PM_
+Thieves steal $135,000 worth of snails from farm in france ahead of key christmas season" }
+NeacUdamloY@{ shape: win-pane, label: "_Published Mar 23, 2023, 10:13 PM_
+'not the most attractive': underdog snail named mollusc of the year" }
+Milrpntposehbs@{ shape: win-pane, label: "_Published Feb 15, 2023, 04:00 AM_
+Meet ‘giant clam girl’ of s’pore and her team's plan to save species with lego bricks" }
+WhletvNaslgm@{ shape: win-pane, label: "_Published May 08, 2025, 01:15 PM_
+What the shell: scientists marvel as new zealand snail lays egg from neck" }
+TwliuSpnahseacle@{ shape: win-pane, label: "_Published Mar 03, 2025, 05:55 PM_
+Two new snail species found in singapore and asia for the first time, may harm local wildlife" }
+Ksmisouidor@{ shape: win-pane, label: "_Published Apr 24, 2025, 08:30 AM_
+Kenya’s ant smuggling bust exposes lucrative underground trade" }
+
+Sslndacsvhd:::txtsize --> Cettismluans:::txtsize
+Cettismluans:::txtsize --> WHgcdhmsaaok:::txtsize
+WHgcdhmsaaok:::txtsize --> WHEilowboudioo:::txtsize
+WHgcdhmsaaok:::txtsize --> Tletlmphrnmhts:::txtsize
+Sslndacsvhd:::txtsize --> TeatnfaFedyssn:::txtsize
+TeatnfaFedyssn:::txtsize --> NeacUdamloY:::txtsize
+NeacUdamloY:::txtsize --> Milrpntposehbs:::txtsize
+TeatnfaFedyssn:::txtsize --> WhletvNaslgm:::txtsize
+WhletvNaslgm:::txtsize --> TwliuSpnahseacle:::txtsize
+WhletvNaslgm:::txtsize --> Ksmisouidor:::txtsize
+
+TtoavrLyeeted@{ shape: win-pane, label: "_Published Dec 22, 2025, 12:13 PM_
+Trump taps louisiana governor jeff landry as special envoy to greenland" }
+DdpGlniyahery@{ shape: win-pane, label: "_Published Jan 07, 2025, 11:20 PM_
+Donald trump jr in greenland on ‘tourist’ day trip as father eyes territory" }
+Gllrssiecma@{ shape: win-pane, label: "_Published Jan 03, 2025, 06:30 PM_
+Greenland’s leader steps up push for independence from denmark" }
+CuynWobe@{ shape: win-pane, label: "_Published Dec 24, 2024, 09:15 AM_
+Can trump buy greenland? what to know besides ‘no’" }
+Glostdyesr@{ shape: win-pane, label: "_Published Dec 23, 2024, 08:49 PM_
+Greenland not for sale, its leader says in response to trump" }
+CuynWobe@{ shape: win-pane, label: "_Published Dec 24, 2024, 09:15 AM_
+Can trump buy greenland? what to know besides ‘no’" }
+Eihtnanhurntt@{ shape: win-pane, label: "_Published Dec 24, 2024, 03:04 AM_
+Explainer: what is the panama canal and why has trump threatened to take it over?" }
+DrmSyodetleen@{ shape: win-pane, label: "_Published Aug 27, 2025, 02:17 PM_
+Denmark summons us envoy over ‘outside attempts to influence’ in greenland" }
+EihspGlnle@{ shape: win-pane, label: "_Published Jan 08, 2025, 09:36 PM_
+Explainer: why does trump want greenland and could he get it?" }
+DdpGlniyahery@{ shape: win-pane, label: "_Published Jan 07, 2025, 11:20 PM_
+Donald trump jr in greenland on ‘tourist’ day trip as father eyes territory" }
+Tnluiemtsenoanen@{ shape: win-pane, label: "_Published Jan 08, 2025, 01:26 AM_
+Trump not ruling out military, economic action as he seeks control of panama canal, greenland" }
+DrteeVrenrams@{ shape: win-pane, label: "_Published Mar 30, 2025, 01:18 AM_
+Denmark criticises ‘tone’ of us vice-president vance’s greenland comments" }
+UeiVsDrneGlaosi@{ shape: win-pane, label: "_Published Mar 29, 2025, 01:47 AM_
+Us vice-president vance slams denmark for not keeping greenland safe from russia, china" }
+Tsetenaocp@{ shape: win-pane, label: "_Published Mar 26, 2025, 11:52 PM_
+Trump says ‘we have to have’ greenland, ahead of vance trip" }
+
+TtoavrLyeeted:::txtsize --> DdpGlniyahery:::txtsize
+DdpGlniyahery:::txtsize --> Gllrssiecma:::txtsize
+Gllrssiecma:::txtsize --> CuynWobe:::txtsize
+Gllrssiecma:::txtsize --> Glostdyesr:::txtsize
+DdpGlniyahery:::txtsize --> CuynWobe:::txtsize
+CuynWobe:::txtsize --> Eihtnanhurntt:::txtsize
+TtoavrLyeeted:::txtsize --> DrmSyodetleen:::txtsize
+DrmSyodetleen:::txtsize --> EihspGlnle:::txtsize
+EihspGlnle:::txtsize --> DdpGlniyahery:::txtsize
+EihspGlnle:::txtsize --> Tnluiemtsenoanen:::txtsize
+DrmSyodetleen:::txtsize --> DrteeVrenrams:::txtsize
+DrteeVrenrams:::txtsize --> UeiVsDrneGlaosi:::txtsize
+DrteeVrenrams:::txtsize --> Tsetenaocp:::txtsize
+
 Autodbesre@{ shape: win-pane, label: "_Published Dec 22, 2025, 10:40 AM_
 Ai resurrections of dead celebrities amuse and rankle" }
 OIcotTyp@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:31 PM_
@@ -59,56 +136,6 @@ OIscsruKrretod:::txtsize --> Aaoiarekn:::txtsize
 Aaoiarekn:::txtsize --> WAimihuctaridn:::txtsize
 Aaoiarekn:::txtsize --> Pestekeoioocsn:::txtsize
 
-JRnowTrs@{ shape: win-pane, label: "_Published Dec 22, 2025, 10:00 AM_
-James ransone, actor known for the wire, dies at 46" }
-
-
-TtAcpliyee@{ shape: win-pane, label: "_Published Dec 22, 2025, 09:30 AM_
-Trump takes america’s ‘imperial presidency’ to a new level" }
-ScpetifAnarte@{ shape: win-pane, label: "_Published Nov 17, 2025, 02:40 PM_
-Saudi crown prince visits us with defence, ai and nuclear energy on the agenda" }
-Ilemahmaroais@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:27 PM_
-Israel targets hamas leadership in military strikes on qatar, officials say" }
-Ilssreana@{ shape: win-pane, label: "_Published Sep 08, 2025, 04:31 PM_
-Israel warns hamas to surrender or face ‘annihilation’" }
-Lnthlareseeis@{ shape: win-pane, label: "_Published Sep 09, 2025, 02:18 AM_
-‘leave now’, netanyahu tells gaza city residents as israel intensifies assault" }
-BesTSAalweoae@{ shape: win-pane, label: "_Published Nov 09, 2025, 02:05 PM_
-Before talks with trump, saudi arabia doubles down on terms for israel ties" }
-WrAao@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:46 PM_
-What are the abraham accords?" }
-Ssgtrahiase@{ shape: win-pane, label: "_Published Nov 07, 2025, 03:55 PM_
-Sudan’s rsf agrees to us proposal for humanitarian ceasefire" }
-Thsaasiaeipscet@{ shape: win-pane, label: "_Published Sep 18, 2025, 06:01 AM_
-Trump hails special relationship with uk as he revels in pomp of historic state visit" }
-BilgPtnewnsr@{ shape: win-pane, label: "_Published Sep 18, 2025, 04:10 AM_
-Britain will recognise palestinian state this weekend, says report" }
-Thsaasiaeipscet@{ shape: win-pane, label: "_Published Sep 18, 2025, 06:01 AM_
-Trump hails special relationship with uk as he revels in pomp of historic state visit" }
-JweiaisgUsrt@{ shape: win-pane, label: "_Published Sep 17, 2025, 08:26 AM_
-Japan won’t recognise a palestinian state given us ties, says report" }
-OkrteTserltnCe@{ shape: win-pane, label: "_Published Sep 18, 2025, 12:01 AM_
-Onlookers, protesters bemoan trump’s closed-door royal visit to windsor castle" }
-Tbsotioiprt@{ shape: win-pane, label: "_Published Sep 17, 2025, 01:05 PM_
-Trump begins historic state visit to uk amid pomp and protests" }
-Khssccntptione@{ shape: win-pane, label: "_Published Jul 08, 2025, 11:22 PM_
-King charles hosts france’s macron in first european state visit to uk since brexit" }
-
-TtAcpliyee:::txtsize --> ScpetifAnarte:::txtsize
-ScpetifAnarte:::txtsize --> Ilemahmaroais:::txtsize
-Ilemahmaroais:::txtsize --> Ilssreana:::txtsize
-Ilemahmaroais:::txtsize --> Lnthlareseeis:::txtsize
-ScpetifAnarte:::txtsize --> BesTSAalweoae:::txtsize
-BesTSAalweoae:::txtsize --> WrAao:::txtsize
-BesTSAalweoae:::txtsize --> Ssgtrahiase:::txtsize
-TtAcpliyee:::txtsize --> Thsaasiaeipscet:::txtsize
-Thsaasiaeipscet:::txtsize --> BilgPtnewnsr:::txtsize
-BilgPtnewnsr:::txtsize --> Thsaasiaeipscet:::txtsize
-BilgPtnewnsr:::txtsize --> JweiaisgUsrt:::txtsize
-Thsaasiaeipscet:::txtsize --> OkrteTserltnCe:::txtsize
-OkrteTserltnCe:::txtsize --> Tbsotioiprt:::txtsize
-OkrteTserltnCe:::txtsize --> Khssccntptione:::txtsize
-
 ```
-<i>Last updated: 2025-12-22 12:00:21.538163 (GMT+8)</i>
+<i>Last updated: 2025-12-22 16:00:55.449676 (GMT+8)</i>
 <!-- END -->
