@@ -16,40 +16,54 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Sslndacsvhd@{ shape: win-pane, label: "_Published Dec 22, 2025, 01:50 PM_
-Santas and elves in canada steal groceries to give to the needy" }
-Cettismluans@{ shape: win-pane, label: "_Published Dec 19, 2025, 11:49 AM_
-Cars decorated with christmas ornaments light up malaysian roads" }
-WHgcdhmsaaok@{ shape: win-pane, label: "_Published Dec 02, 2025, 08:45 AM_
-White house gets scaled-down christmas display amid ballroom work" }
-WHEilowboudioo@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:39 AM_
-White house east wing will be torn down for ballroom, trump had promised not to do so" }
-Tletlmphrnmhts@{ shape: win-pane, label: "_Published Oct 25, 2025, 08:05 PM_
-The bulldozer and the ballroom: trump puts his permanent stamp on the white house" }
-TeatnfaFedyssn@{ shape: win-pane, label: "_Published Dec 02, 2025, 12:50 PM_
-Thieves steal $135,000 worth of snails from farm in france ahead of key christmas season" }
-NeacUdamloY@{ shape: win-pane, label: "_Published Mar 23, 2023, 10:13 PM_
-'not the most attractive': underdog snail named mollusc of the year" }
-Milrpntposehbs@{ shape: win-pane, label: "_Published Feb 15, 2023, 04:00 AM_
-Meet ‘giant clam girl’ of s’pore and her team's plan to save species with lego bricks" }
-WhletvNaslgm@{ shape: win-pane, label: "_Published May 08, 2025, 01:15 PM_
-What the shell: scientists marvel as new zealand snail lays egg from neck" }
-TwliuSpnahseacle@{ shape: win-pane, label: "_Published Mar 03, 2025, 05:55 PM_
-Two new snail species found in singapore and asia for the first time, may harm local wildlife" }
-Ksmisouidor@{ shape: win-pane, label: "_Published Apr 24, 2025, 08:30 AM_
-Kenya’s ant smuggling bust exposes lucrative underground trade" }
+Gnsmtboaw@{ shape: win-pane, label: "_Published Dec 22, 2025, 07:29 PM_
+German christmas markets hit by flood of fake news" }
+Gnsmtsadyt@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:33 PM_
+German christmas market opens year after deadly car attack" }
+Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
+‘torn from my side’: horror of german christmas market attack" }
+SmrdralnagceCta@{ shape: win-pane, label: "_Published Dec 21, 2024, 06:01 AM_
+Saudi man arrested after at least 2 killed in car ramming attack at german christmas market" }
+CinoCtaimneak@{ shape: win-pane, label: "_Published Dec 21, 2024, 03:42 AM_
+Car drives into crowd at christmas market in germany, in suspected attack" }
+Sdroadyaisea@{ shape: win-pane, label: "_Published Nov 10, 2025, 03:16 PM_
+Saudi doctor goes on trial for deadly german christmas market attack" }
+Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
+‘torn from my side’: horror of german christmas market attack" }
+Scerlmrakt@{ shape: win-pane, label: "_Published Aug 19, 2025, 11:00 PM_
+Saudi charged over deadly german christmas market attack" }
+Sdroadyaisea@{ shape: win-pane, label: "_Published Nov 10, 2025, 03:16 PM_
+Saudi doctor goes on trial for deadly german christmas market attack" }
+Trsoomrakt@{ shape: win-pane, label: "_Published Dec 21, 2024, 09:15 AM_
+‘torn from my side’: horror of german christmas market attack" }
+SmrdralnagceCta@{ shape: win-pane, label: "_Published Dec 21, 2024, 06:01 AM_
+Saudi man arrested after at least 2 killed in car ramming attack at german christmas market" }
+CinoCtaimneak@{ shape: win-pane, label: "_Published Dec 21, 2024, 03:42 AM_
+Car drives into crowd at christmas market in germany, in suspected attack" }
+Scerlmrakt@{ shape: win-pane, label: "_Published Aug 19, 2025, 11:00 PM_
+Saudi charged over deadly german christmas market attack" }
+Gnsmtctlsx@{ shape: win-pane, label: "_Published Jan 06, 2025, 04:51 PM_
+German christmas market attack death toll rises to six" }
+SCtaakenyarie@{ shape: win-pane, label: "_Published Dec 31, 2024, 02:11 AM_
+Signs christmas market attack suspect mentally ill, says german minister" }
 
-Sslndacsvhd:::txtsize --> Cettismluans:::txtsize
-Cettismluans:::txtsize --> WHgcdhmsaaok:::txtsize
-WHgcdhmsaaok:::txtsize --> WHEilowboudioo:::txtsize
-WHgcdhmsaaok:::txtsize --> Tletlmphrnmhts:::txtsize
-Sslndacsvhd:::txtsize --> TeatnfaFedyssn:::txtsize
-TeatnfaFedyssn:::txtsize --> NeacUdamloY:::txtsize
-NeacUdamloY:::txtsize --> Milrpntposehbs:::txtsize
-TeatnfaFedyssn:::txtsize --> WhletvNaslgm:::txtsize
-WhletvNaslgm:::txtsize --> TwliuSpnahseacle:::txtsize
-WhletvNaslgm:::txtsize --> Ksmisouidor:::txtsize
+Gnsmtboaw:::txtsize --> Gnsmtsadyt:::txtsize
+Gnsmtsadyt:::txtsize --> Trsoomrakt:::txtsize
+Trsoomrakt:::txtsize --> SmrdralnagceCta:::txtsize
+Trsoomrakt:::txtsize --> CinoCtaimneak:::txtsize
+Gnsmtsadyt:::txtsize --> Sdroadyaisea:::txtsize
+Sdroadyaisea:::txtsize --> Trsoomrakt:::txtsize
+Sdroadyaisea:::txtsize --> Scerlmrakt:::txtsize
+Gnsmtboaw:::txtsize --> Sdroadyaisea:::txtsize
+Sdroadyaisea:::txtsize --> Trsoomrakt:::txtsize
+Trsoomrakt:::txtsize --> SmrdralnagceCta:::txtsize
+Trsoomrakt:::txtsize --> CinoCtaimneak:::txtsize
+Sdroadyaisea:::txtsize --> Scerlmrakt:::txtsize
+Scerlmrakt:::txtsize --> Gnsmtctlsx:::txtsize
+Scerlmrakt:::txtsize --> SCtaakenyarie:::txtsize
 
+FgamUaorpedy@{ shape: win-pane, label: "_Published Dec 22, 2025, 07:19 PM_
+Fuming denmark summons us ambassador over trump’s greenland envoy" }
 TtoavrLyeeted@{ shape: win-pane, label: "_Published Dec 22, 2025, 12:13 PM_
 Trump taps louisiana governor jeff landry as special envoy to greenland" }
 DdpGlniyahery@{ shape: win-pane, label: "_Published Jan 07, 2025, 11:20 PM_
@@ -58,84 +72,88 @@ Gllrssiecma@{ shape: win-pane, label: "_Published Jan 03, 2025, 06:30 PM_
 Greenland’s leader steps up push for independence from denmark" }
 CuynWobe@{ shape: win-pane, label: "_Published Dec 24, 2024, 09:15 AM_
 Can trump buy greenland? what to know besides ‘no’" }
-Glostdyesr@{ shape: win-pane, label: "_Published Dec 23, 2024, 08:49 PM_
-Greenland not for sale, its leader says in response to trump" }
-CuynWobe@{ shape: win-pane, label: "_Published Dec 24, 2024, 09:15 AM_
-Can trump buy greenland? what to know besides ‘no’" }
-Eihtnanhurntt@{ shape: win-pane, label: "_Published Dec 24, 2024, 03:04 AM_
-Explainer: what is the panama canal and why has trump threatened to take it over?" }
 DrmSyodetleen@{ shape: win-pane, label: "_Published Aug 27, 2025, 02:17 PM_
 Denmark summons us envoy over ‘outside attempts to influence’ in greenland" }
 EihspGlnle@{ shape: win-pane, label: "_Published Jan 08, 2025, 09:36 PM_
 Explainer: why does trump want greenland and could he get it?" }
-DdpGlniyahery@{ shape: win-pane, label: "_Published Jan 07, 2025, 11:20 PM_
-Donald trump jr in greenland on ‘tourist’ day trip as father eyes territory" }
-Tnluiemtsenoanen@{ shape: win-pane, label: "_Published Jan 08, 2025, 01:26 AM_
-Trump not ruling out military, economic action as he seeks control of panama canal, greenland" }
 DrteeVrenrams@{ shape: win-pane, label: "_Published Mar 30, 2025, 01:18 AM_
 Denmark criticises ‘tone’ of us vice-president vance’s greenland comments" }
-UeiVsDrneGlaosi@{ shape: win-pane, label: "_Published Mar 29, 2025, 01:47 AM_
-Us vice-president vance slams denmark for not keeping greenland safe from russia, china" }
 Tsetenaocp@{ shape: win-pane, label: "_Published Mar 26, 2025, 11:52 PM_
 Trump says ‘we have to have’ greenland, ahead of vance trip" }
+Tnluiemtsenoanen@{ shape: win-pane, label: "_Published Jan 08, 2025, 01:26 AM_
+Trump not ruling out military, economic action as he seeks control of panama canal, greenland" }
+TjCamtard@{ shape: win-pane, label: "_Published Dec 19, 2024, 12:55 AM_
+Trump jokes canada becoming 51st us state ‘a great idea’" }
+CuynWobe@{ shape: win-pane, label: "_Published Dec 24, 2024, 09:15 AM_
+Can trump buy greenland? what to know besides ‘no’" }
+Mifepeltedliibd@{ shape: win-pane, label: "_Published Mar 25, 2025, 03:44 AM_
+‘maybe in our future’: trump pushes us claims to greenland as delegation trip lambasted" }
+Nieseniserrpnneo@{ shape: win-pane, label: "_Published Mar 24, 2025, 07:35 AM_
+‘not an innocent visit’: greenland officials express fury over trump’s plan to send delegation" }
+Suacdititgtp@{ shape: win-pane, label: "_Published Mar 24, 2025, 02:08 PM_
+Some europeans reconsider trips to the us in protest against trump" }
 
+FgamUaorpedy:::txtsize --> TtoavrLyeeted:::txtsize
 TtoavrLyeeted:::txtsize --> DdpGlniyahery:::txtsize
 DdpGlniyahery:::txtsize --> Gllrssiecma:::txtsize
-Gllrssiecma:::txtsize --> CuynWobe:::txtsize
-Gllrssiecma:::txtsize --> Glostdyesr:::txtsize
 DdpGlniyahery:::txtsize --> CuynWobe:::txtsize
-CuynWobe:::txtsize --> Eihtnanhurntt:::txtsize
 TtoavrLyeeted:::txtsize --> DrmSyodetleen:::txtsize
 DrmSyodetleen:::txtsize --> EihspGlnle:::txtsize
-EihspGlnle:::txtsize --> DdpGlniyahery:::txtsize
-EihspGlnle:::txtsize --> Tnluiemtsenoanen:::txtsize
 DrmSyodetleen:::txtsize --> DrteeVrenrams:::txtsize
-DrteeVrenrams:::txtsize --> UeiVsDrneGlaosi:::txtsize
-DrteeVrenrams:::txtsize --> Tsetenaocp:::txtsize
+FgamUaorpedy:::txtsize --> Tsetenaocp:::txtsize
+Tsetenaocp:::txtsize --> Tnluiemtsenoanen:::txtsize
+Tnluiemtsenoanen:::txtsize --> TjCamtard:::txtsize
+Tnluiemtsenoanen:::txtsize --> CuynWobe:::txtsize
+Tsetenaocp:::txtsize --> Mifepeltedliibd:::txtsize
+Mifepeltedliibd:::txtsize --> Nieseniserrpnneo:::txtsize
+Mifepeltedliibd:::txtsize --> Suacdititgtp:::txtsize
 
-Autodbesre@{ shape: win-pane, label: "_Published Dec 22, 2025, 10:40 AM_
-Ai resurrections of dead celebrities amuse and rankle" }
-OIcotTyp@{ shape: win-pane, label: "_Published Oct 01, 2025, 04:31 PM_
-Openai launches sora 2 with tiktok-style app" }
-OIahTrcr@{ shape: win-pane, label: "_Published Aug 08, 2025, 03:24 AM_
-Openai releases chatgpt-5 as ai race accelerates" }
-AwsgronpSnrr@{ shape: win-pane, label: "_Published Jul 01, 2025, 08:40 AM_
-Apple weighs using anthropic or openai to power siri in major reversal" }
-OIlwoileoh@{ shape: win-pane, label: "_Published Jul 10, 2025, 02:19 AM_
-Openai to release web browser in challenge to google chrome" }
-Bitptfsoltsoog@{ shape: win-pane, label: "_Published Sep 30, 2025, 07:43 AM_
-Buy it in chatgpt: openai takes first step to enable chatbot users to go shopping" }
-OIirlrnGtlnei@{ shape: win-pane, label: "_Published Sep 29, 2025, 08:02 PM_
-Openai to bring parental controls in chatgpt after california teen’s suicide" }
-MftsiuIkrc@{ shape: win-pane, label: "_Published Sep 29, 2025, 08:17 AM_
-Magnificent 7 is passe. this group of ai stocks can replace it" }
-OIscsruKrretod@{ shape: win-pane, label: "_Published Oct 17, 2025, 05:45 PM_
-Openai halts depictions of martin luther king jr. after ‘disrespectful’ sora videos" }
-Dalamunpoaos@{ shape: win-pane, label: "_Published Oct 02, 2025, 11:19 AM_
-Deepfake political scam ads surge on meta platforms, watchdog says" }
-MoIsrldt@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:22 PM_
-Meta to use ai chats to personalise ads, content" }
-Aaoiarekn@{ shape: win-pane, label: "_Published Sep 26, 2025, 06:08 PM_
-Australia court fines man over $280,000 for deepfake porn" }
-WAimihuctaridn@{ shape: win-pane, label: "_Published Sep 24, 2025, 09:44 AM_
-Whatsapp, twitch among sites that could face australia under-16s social media ban" }
-Pestekeoioocsn@{ shape: win-pane, label: "_Published Nov 12, 2024, 04:10 PM_
-Police investigating deepfake nude photos of singapore sports school students" }
+Fhcptpetit@{ shape: win-pane, label: "_Published Dec 22, 2025, 07:13 PM_
+French pm races to pass stopgap budget law to avoid shutdown" }
+WFedogtcs@{ shape: win-pane, label: "_Published Oct 06, 2025, 05:36 PM_
+Why is france mired in a rolling political crisis?" }
+Fhrtssrgidnoci@{ shape: win-pane, label: "_Published Oct 06, 2025, 04:01 PM_
+French government quits hours after being appointed, deepening political crisis" }
+MnloLrkfdeneom@{ shape: win-pane, label: "_Published Oct 06, 2025, 03:01 AM_
+Macron loyalist roland lescure picked to fix budget mess in new french government" }
+WFedogtcs@{ shape: win-pane, label: "_Published Oct 06, 2025, 05:36 PM_
+Why is france mired in a rolling political crisis?" }
+Fhriwrelrnham@{ shape: win-pane, label: "_Published Jul 08, 2024, 02:06 AM_
+French voters deliver a win for the left, a blow for le pen and a hung parliament" }
+Eihtecsslol@{ shape: win-pane, label: "_Published Jun 10, 2024, 06:13 AM_
+Explainer: what’s at stake in macron’s shock snap election call?" }
+Eihtecsslol@{ shape: win-pane, label: "_Published Jun 10, 2024, 06:13 AM_
+Explainer: what’s at stake in macron’s shock snap election call?" }
+Featbtrs@{ shape: win-pane, label: "_Published Dec 19, 2025, 10:16 PM_
+France to start 2026 without budget after talks fail" }
+Feseepnutnuoiiy@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:35 PM_
+France faces pandemic-level spending to support ageing population, audit office says" }
+Fhavoosiuuenr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:46 AM_
+French lawmakers vote to approve suspension of unpopular pension reform" }
+Fharttpsbtt@{ shape: win-pane, label: "_Published Nov 01, 2025, 02:46 AM_
+French lawmakers reject wealth tax proposal in budget debate" }
+Ferninfceehwrt@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:15 PM_
+France’s macron won’t resign as no-confidence votes threaten his new government" }
+Ferancaoyernn@{ shape: win-pane, label: "_Published Oct 11, 2025, 06:48 AM_
+France’s macron reappoints lecornu as pm four days after his resignation" }
+Ferancaoyernn@{ shape: win-pane, label: "_Published Oct 11, 2025, 06:48 AM_
+France’s macron reappoints lecornu as pm four days after his resignation" }
 
-Autodbesre:::txtsize --> OIcotTyp:::txtsize
-OIcotTyp:::txtsize --> OIahTrcr:::txtsize
-OIahTrcr:::txtsize --> AwsgronpSnrr:::txtsize
-OIahTrcr:::txtsize --> OIlwoileoh:::txtsize
-OIcotTyp:::txtsize --> Bitptfsoltsoog:::txtsize
-Bitptfsoltsoog:::txtsize --> OIirlrnGtlnei:::txtsize
-Bitptfsoltsoog:::txtsize --> MftsiuIkrc:::txtsize
-Autodbesre:::txtsize --> OIscsruKrretod:::txtsize
-OIscsruKrretod:::txtsize --> Dalamunpoaos:::txtsize
-Dalamunpoaos:::txtsize --> MoIsrldt:::txtsize
-OIscsruKrretod:::txtsize --> Aaoiarekn:::txtsize
-Aaoiarekn:::txtsize --> WAimihuctaridn:::txtsize
-Aaoiarekn:::txtsize --> Pestekeoioocsn:::txtsize
+Fhcptpetit:::txtsize --> WFedogtcs:::txtsize
+WFedogtcs:::txtsize --> Fhrtssrgidnoci:::txtsize
+Fhrtssrgidnoci:::txtsize --> MnloLrkfdeneom:::txtsize
+Fhrtssrgidnoci:::txtsize --> WFedogtcs:::txtsize
+WFedogtcs:::txtsize --> Fhriwrelrnham:::txtsize
+Fhriwrelrnham:::txtsize --> Eihtecsslol:::txtsize
+Fhriwrelrnham:::txtsize --> Eihtecsslol:::txtsize
+Fhcptpetit:::txtsize --> Featbtrs:::txtsize
+Featbtrs:::txtsize --> Feseepnutnuoiiy:::txtsize
+Feseepnutnuoiiy:::txtsize --> Fhavoosiuuenr:::txtsize
+Feseepnutnuoiiy:::txtsize --> Fharttpsbtt:::txtsize
+Featbtrs:::txtsize --> Ferninfceehwrt:::txtsize
+Ferninfceehwrt:::txtsize --> Ferancaoyernn:::txtsize
+Ferninfceehwrt:::txtsize --> Ferancaoyernn:::txtsize
 
 ```
-<i>Last updated: 2025-12-22 16:00:55.449676 (GMT+8)</i>
+<i>Last updated: 2025-12-22 20:00:25.186208 (GMT+8)</i>
 <!-- END -->
