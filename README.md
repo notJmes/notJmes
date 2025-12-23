@@ -16,141 +16,108 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tseltirnnuo@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:57 AM_
-Trump says ‘terrible’ epstein files are tarnishing reputations" }
-Utieelstkafcr@{ shape: win-pane, label: "_Published Dec 20, 2025, 05:46 AM_
-Us epstein files release highlights clinton, makes scant reference to trump" }
-Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
-Epstein files to be released to us public: what are they?" }
-ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
-After trump reversal, us house pushes forward on epstein vote" }
-TskeMewtco@{ shape: win-pane, label: "_Published Nov 18, 2025, 09:15 AM_
-Trump’s frankenstein? us maga meltdown tests its creator" }
-BilprAwsipinr@{ shape: win-pane, label: "_Published Nov 02, 2025, 08:16 PM_
-Britain will strip disgraced andrew of last military position, minister says" }
-Binrtberrtssm@{ shape: win-pane, label: "_Published Oct 31, 2025, 03:36 AM_
-Britain’s king charles strips brother andrew of royal titles, windsor home" }
-BidfrSFsurcsyi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:59 AM_
-Britain’s andrew’s former wife sarah ferguson, daughters and corgis hit by crisis" }
-TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
-Trump signs bill ordering us justice department to release epstein files" }
-Ugpsufrspnsitm@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:23 AM_
-Us congress passes measure to force release of epstein files, sending it to trump" }
-Therltsfwrons@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:55 AM_
-Trump has the power to release the epstein files, with or without congress" }
-Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
-Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
-Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
-Epstein files to be released to us public: what are they?" }
-ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
-After trump reversal, us house pushes forward on epstein vote" }
-TskeMewtco@{ shape: win-pane, label: "_Published Nov 18, 2025, 09:15 AM_
-Trump’s frankenstein? us maga meltdown tests its creator" }
+TeeaodGstwe@{ shape: win-pane, label: "_Published Dec 23, 2025, 11:30 AM_
+Trapped under israeli bombardment, gazans fear the ‘new border’" }
+HsonsGrhscnii@{ shape: win-pane, label: "_Published Dec 09, 2025, 10:23 PM_
+Hamas says no second phase for gaza truce while israel ‘continues violations’" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
+TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
+Tears, joy in israel as hamas hands over first hostages" }
 
-Tseltirnnuo:::txtsize --> Utieelstkafcr:::txtsize
-Utieelstkafcr:::txtsize --> Eieeaobhe:::txtsize
-Eieeaobhe:::txtsize --> ATrsHpsaEie:::txtsize
-Eieeaobhe:::txtsize --> TskeMewtco:::txtsize
-Utieelstkafcr:::txtsize --> BilprAwsipinr:::txtsize
-BilprAwsipinr:::txtsize --> Binrtberrtssm:::txtsize
-BilprAwsipinr:::txtsize --> BidfrSFsurcsyi:::txtsize
-Tseltirnnuo:::txtsize --> TsBrnuertlEie:::txtsize
-TsBrnuertlEie:::txtsize --> Ugpsufrspnsitm:::txtsize
-Ugpsufrspnsitm:::txtsize --> Therltsfwrons:::txtsize
-Ugpsufrspnsitm:::txtsize --> Tdddnersdiinst:::txtsize
-TsBrnuertlEie:::txtsize --> Eieeaobhe:::txtsize
-Eieeaobhe:::txtsize --> ATrsHpsaEie:::txtsize
-Eieeaobhe:::txtsize --> TskeMewtco:::txtsize
+TeeaodGstwe:::txtsize --> HsonsGrhscnii:::txtsize
+HsonsGrhscnii:::txtsize --> Tdrcaaededlncbs:::txtsize
+Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
+HsonsGrhscnii:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+TeeaodGstwe:::txtsize --> Tdrcaaededlncbs:::txtsize
+Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
+PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
 
-Tsetenaane@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:51 AM_
-Trump says ‘we have to have’ greenland after appointing envoy" }
-TtoavrLyeeted@{ shape: win-pane, label: "_Published Dec 22, 2025, 12:13 PM_
-Trump taps louisiana governor jeff landry as special envoy to greenland" }
-DdpGlniyahery@{ shape: win-pane, label: "_Published Jan 07, 2025, 11:20 PM_
-Donald trump jr in greenland on ‘tourist’ day trip as father eyes territory" }
-Gllrssiecma@{ shape: win-pane, label: "_Published Jan 03, 2025, 06:30 PM_
-Greenland’s leader steps up push for independence from denmark" }
-CuynWobe@{ shape: win-pane, label: "_Published Dec 24, 2024, 09:15 AM_
-Can trump buy greenland? what to know besides ‘no’" }
-DrmSyodetleen@{ shape: win-pane, label: "_Published Aug 27, 2025, 02:17 PM_
-Denmark summons us envoy over ‘outside attempts to influence’ in greenland" }
-EihspGlnle@{ shape: win-pane, label: "_Published Jan 08, 2025, 09:36 PM_
-Explainer: why does trump want greenland and could he get it?" }
-DrteeVrenrams@{ shape: win-pane, label: "_Published Mar 30, 2025, 01:18 AM_
-Denmark criticises ‘tone’ of us vice-president vance’s greenland comments" }
-EihspGlnle@{ shape: win-pane, label: "_Published Jan 08, 2025, 09:36 PM_
-Explainer: why does trump want greenland and could he get it?" }
-DdpGlniyahery@{ shape: win-pane, label: "_Published Jan 07, 2025, 11:20 PM_
-Donald trump jr in greenland on ‘tourist’ day trip as father eyes territory" }
-Gllrssiecma@{ shape: win-pane, label: "_Published Jan 03, 2025, 06:30 PM_
-Greenland’s leader steps up push for independence from denmark" }
-CuynWobe@{ shape: win-pane, label: "_Published Dec 24, 2024, 09:15 AM_
-Can trump buy greenland? what to know besides ‘no’" }
-Tnluiemtsenoanen@{ shape: win-pane, label: "_Published Jan 08, 2025, 01:26 AM_
-Trump not ruling out military, economic action as he seeks control of panama canal, greenland" }
-TjCamtard@{ shape: win-pane, label: "_Published Dec 19, 2024, 12:55 AM_
-Trump jokes canada becoming 51st us state ‘a great idea’" }
-CuynWobe@{ shape: win-pane, label: "_Published Dec 24, 2024, 09:15 AM_
-Can trump buy greenland? what to know besides ‘no’" }
+WrrbieFioupyl@{ shape: win-pane, label: "_Published Dec 23, 2025, 11:25 AM_
+Waymo restarts robotaxis after san francisco power outage paralysed fleet" }
+PrnoSaceeaa@{ shape: win-pane, label: "_Published Dec 21, 2025, 03:37 PM_
+Power returns to most of san francisco after widespread outage" }
+MpoeSac@{ shape: win-pane, label: "_Published Dec 21, 2025, 09:45 AM_
+Major power outage hits san francisco" }
+Oimrstphocipt@{ shape: win-pane, label: "_Published Mar 12, 2025, 05:15 AM_
+Ontario premier freezes plan to slap surcharge of electricity exports to us" }
+Taitnaiorntt@{ shape: win-pane, label: "_Published Mar 09, 2025, 01:20 PM_
+Trump administration ends iraq’s waiver to buy iranian electricity" }
+GntsycaeSackpmoi@{ shape: win-pane, label: "_Published Nov 14, 2023, 05:00 AM_
+Golden city tarnished by dirt, crime and needles: san francisco looks to apec summit for revival" }
+WpemteonhemSac@{ shape: win-pane, label: "_Published Nov 13, 2023, 06:00 PM_
+Will apec meet the moment? pm lee off to attend high-stakes summit in san francisco" }
+WpemteonhemSac@{ shape: win-pane, label: "_Published Nov 13, 2023, 06:00 PM_
+Will apec meet the moment? pm lee off to attend high-stakes summit in san francisco" }
+Abaipdcssbiip@{ shape: win-pane, label: "_Published Jul 16, 2025, 07:14 AM_
+Alphabet's waymo picks up speed in us cities as tesla robotaxi service expands" }
+Tssaeoschel@{ shape: win-pane, label: "_Published Jun 23, 2025, 10:32 AM_
+Tesla starts long-awaited robotaxi service with low-key roll-out" }
+Testaaeru@{ shape: win-pane, label: "_Published Jun 22, 2025, 02:05 PM_
+Texas enacts robotaxi law ahead of tesla’s roll-out" }
+Csurapoiola@{ shape: win-pane, label: "_Published Jun 20, 2025, 12:06 AM_
+China’s baidu eyes robotaxi expansion to singapore, malaysia" }
+Uarhadesrgsoas@{ shape: win-pane, label: "_Published Jul 15, 2025, 10:17 PM_
+Uber partners with china’s baidu to deploy self-driving taxis in global markets" }
+Unscnobufelvtpa@{ shape: win-pane, label: "_Published Jun 27, 2025, 08:52 AM_
+Uber in talks with co-founder to help buy us unit of chinese self-driving start-up pony.ai" }
 
-Tsetenaane:::txtsize --> TtoavrLyeeted:::txtsize
-TtoavrLyeeted:::txtsize --> DdpGlniyahery:::txtsize
-DdpGlniyahery:::txtsize --> Gllrssiecma:::txtsize
-DdpGlniyahery:::txtsize --> CuynWobe:::txtsize
-TtoavrLyeeted:::txtsize --> DrmSyodetleen:::txtsize
-DrmSyodetleen:::txtsize --> EihspGlnle:::txtsize
-DrmSyodetleen:::txtsize --> DrteeVrenrams:::txtsize
-Tsetenaane:::txtsize --> EihspGlnle:::txtsize
-EihspGlnle:::txtsize --> DdpGlniyahery:::txtsize
-DdpGlniyahery:::txtsize --> Gllrssiecma:::txtsize
-DdpGlniyahery:::txtsize --> CuynWobe:::txtsize
-EihspGlnle:::txtsize --> Tnluiemtsenoanen:::txtsize
-Tnluiemtsenoanen:::txtsize --> TjCamtard:::txtsize
-Tnluiemtsenoanen:::txtsize --> CuynWobe:::txtsize
+WrrbieFioupyl:::txtsize --> PrnoSaceeaa:::txtsize
+PrnoSaceeaa:::txtsize --> MpoeSac:::txtsize
+MpoeSac:::txtsize --> Oimrstphocipt:::txtsize
+MpoeSac:::txtsize --> Taitnaiorntt:::txtsize
+PrnoSaceeaa:::txtsize --> GntsycaeSackpmoi:::txtsize
+GntsycaeSackpmoi:::txtsize --> WpemteonhemSac:::txtsize
+GntsycaeSackpmoi:::txtsize --> WpemteonhemSac:::txtsize
+WrrbieFioupyl:::txtsize --> Abaipdcssbiip:::txtsize
+Abaipdcssbiip:::txtsize --> Tssaeoschel:::txtsize
+Tssaeoschel:::txtsize --> Testaaeru:::txtsize
+Tssaeoschel:::txtsize --> Csurapoiola:::txtsize
+Abaipdcssbiip:::txtsize --> Uarhadesrgsoas:::txtsize
+Uarhadesrgsoas:::txtsize --> Unscnobufelvtpa:::txtsize
 
-Tttnrueegys@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:38 AM_
-Trump to host defence firms to urge less spending on buybacks" }
-Tulsafifilp@{ shape: win-pane, label: "_Published Dec 23, 2025, 06:58 AM_
-Trump unveils warship named after himself in shipbuilding push" }
-SisstttnraIelyev@{ shape: win-pane, label: "_Published Jul 14, 2024, 06:52 AM_
-Shooting was ‘assassination attempt’ on donald trump, says fbi; suspect, 20, killed by secret  service" }
-HwkaTskgntdenrhn@{ shape: win-pane, label: "_Published Jul 14, 2024, 03:20 PM_
-Here’s what’s known about thomas crooks, 20, the gunman identified by the fbi in the trump shooting" }
-Tsatnefeace@{ shape: win-pane, label: "_Published Dec 20, 2025, 08:59 AM_
-Trump’s name added to kennedy center facade, a day after change" }
-TnCrdsdpsdnk@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:34 AM_
-The kennedy center board votes to add ‘trump’ to its name, drawing backlash" }
-Niuaakpoidsu@{ shape: win-pane, label: "_Published Dec 18, 2025, 05:45 AM_
-New white house plaques attack trump’s democratic predecessors, bush" }
-TaityannrcnkMn@{ shape: win-pane, label: "_Published Aug 27, 2025, 02:58 AM_
-Trump administration eyes stakes in defence firms, including lockheed martin" }
-Tsnaeaftetk@{ shape: win-pane, label: "_Published Aug 23, 2025, 03:24 AM_
-Trump says intel has agreed to a deal for us to take 10% equity stake" }
-ICnuhapamlrnn@{ shape: win-pane, label: "_Published Aug 08, 2025, 02:11 PM_
-Intel ceo tan lip-bu says has board support as trump calls for resignation" }
-SaitiITaitattek@{ shape: win-pane, label: "_Published Aug 19, 2025, 07:23 AM_
-Softbank to invest $2.6 billion in intel; trump administration said in talks to take a 10% stake" }
-NnleuiUenta@{ shape: win-pane, label: "_Published Jun 19, 2025, 06:44 AM_
-Nippon steel closes acquisition of us steel to end 18-month saga" }
-TgflsooebofS@{ shape: win-pane, label: "_Published Jun 14, 2025, 07:39 AM_
-Trump gives formal blessing to nippon steel’s us$19 billion bid for us steel" }
-NnlsbtntSasn@{ shape: win-pane, label: "_Published Jun 16, 2025, 08:53 AM_
-Nippon steel investors begin to count cost of us steel acquisition" }
+Oiltntskiohshr@{ shape: win-pane, label: "_Published Dec 23, 2025, 10:10 AM_
+Ozempic meals? restaurants in the us shrink portions to match bite-sized hunger" }
+Tochsmdn@{ shape: win-pane, label: "_Published Oct 29, 2024, 05:00 PM_
+The economics of thinness (ozempic edition)" }
+Oitwtwrbpcou@{ shape: win-pane, label: "_Published Jun 01, 2023, 04:00 PM_
+Ozempic touted as weight-loss ‘wonder’ drug, but experts caution its use" }
+UrfGlwtNok@{ shape: win-pane, label: "_Published Dec 23, 2025, 09:50 AM_
+Us approves first glp-1 pill for weight loss: novo nordisk" }
+TgfAhsrpestbie@{ shape: win-pane, label: "_Published Jun 21, 2025, 03:45 PM_
+The wegovy effect: a weight-loss drug reshapes the lives of us teens battling obesity" }
+Wycgsirlr@{ shape: win-pane, label: "_Published May 20, 2024, 05:00 PM_
+Wegovy is becoming too essential for its elite price" }
+WyspiogsgUt@{ shape: win-pane, label: "_Published Feb 16, 2024, 01:45 PM_
+Wegovy fuels sharp rise in use of weight-loss drugs for us youth" }
+TesomiuuSK@{ shape: win-pane, label: "_Published Dec 07, 2025, 04:10 PM_
+Thinness obsession prompts diet drug misuse in south korea" }
+Elailoowtnt@{ shape: win-pane, label: "_Published Nov 20, 2025, 08:37 PM_
+Eli lilly’s daily pill helps people lose 10% of weight in 18 months: study" }
 
-Tttnrueegys:::txtsize --> Tulsafifilp:::txtsize
-Tulsafifilp:::txtsize --> SisstttnraIelyev:::txtsize
-SisstttnraIelyev:::txtsize --> HwkaTskgntdenrhn:::txtsize
-Tulsafifilp:::txtsize --> Tsatnefeace:::txtsize
-Tsatnefeace:::txtsize --> TnCrdsdpsdnk:::txtsize
-Tsatnefeace:::txtsize --> Niuaakpoidsu:::txtsize
-Tttnrueegys:::txtsize --> TaityannrcnkMn:::txtsize
-TaityannrcnkMn:::txtsize --> Tsnaeaftetk:::txtsize
-Tsnaeaftetk:::txtsize --> ICnuhapamlrnn:::txtsize
-Tsnaeaftetk:::txtsize --> SaitiITaitattek:::txtsize
-TaityannrcnkMn:::txtsize --> NnleuiUenta:::txtsize
-NnleuiUenta:::txtsize --> TgflsooebofS:::txtsize
-NnleuiUenta:::txtsize --> NnlsbtntSasn:::txtsize
+Oiltntskiohshr:::txtsize --> Tochsmdn:::txtsize
+Tochsmdn:::txtsize --> Oitwtwrbpcou:::txtsize
+Oiltntskiohshr:::txtsize --> UrfGlwtNok:::txtsize
+UrfGlwtNok:::txtsize --> TgfAhsrpestbie:::txtsize
+TgfAhsrpestbie:::txtsize --> Wycgsirlr:::txtsize
+TgfAhsrpestbie:::txtsize --> WyspiogsgUt:::txtsize
+UrfGlwtNok:::txtsize --> TesomiuuSK:::txtsize
+TesomiuuSK:::txtsize --> Elailoowtnt:::txtsize
 
 ```
-<i>Last updated: 2025-12-23 08:00:48.397925 (GMT+8)</i>
+<i>Last updated: 2025-12-23 12:01:16.940079 (GMT+8)</i>
 <!-- END -->
