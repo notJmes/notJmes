@@ -16,126 +16,141 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tsuuestilnc@{ shape: win-pane, label: "_Published Dec 23, 2025, 03:24 AM_
-Three seriously hurt in explosion at chemical plant in france" }
-Hiablnrnstne@{ shape: win-pane, label: "_Published Nov 15, 2025, 08:45 PM_
-Huge fire sparked by explosions near argentina’s capital ‘contained’" }
-Ivuerlrrt@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:03 AM_
-India vows justice after deadly ‘terror’ car blast" }
-IpsbehbarKieos@{ shape: win-pane, label: "_Published Nov 12, 2025, 05:31 PM_
-India probes link between delhi car blast and earlier kashmir arrests, sources say" }
-DycIaknnrosc@{ shape: win-pane, label: "_Published Nov 11, 2025, 07:40 PM_
-Deadly attacks in india and pakistan reignite cross-border suspicions" }
-ItlotltadSlcs@{ shape: win-pane, label: "_Published Nov 02, 2025, 11:43 AM_
-‘intentional’ explosion took place at harvard medical school, officials say" }
-TsrgTsadeyneodcg@{ shape: win-pane, label: "_Published Oct 01, 2025, 09:20 AM_
-‘their sins are forgiven’: trump says harvard university to run ‘trade schools’ under upcoming deal" }
-Hrdnlnyinnar@{ shape: win-pane, label: "_Published Oct 17, 2025, 03:05 AM_
-Harvard’s endowment swells to nearly $74 billion; donations hit a record" }
-Tlnrnlnsili@{ shape: win-pane, label: "_Published Oct 28, 2025, 10:15 AM_
-Two killed in underground explosion at australian silver mine" }
-Fonseigeaeoadt@{ shape: win-pane, label: "_Published Oct 06, 2025, 10:31 AM_
-Freeport confirms all seven missing workers dead after indonesia mine disaster" }
-FodipPmpitnd@{ shape: win-pane, label: "_Published Sep 09, 2025, 07:47 PM_
-Freeport indonesia suspends papua mine operation after landslide" }
-TdoncFodikrdnoa@{ shape: win-pane, label: "_Published Sep 20, 2025, 02:26 PM_
-Two bodies found in search for freeport indonesia workers trapped in mine, reports say" }
-Scialv@{ shape: win-pane, label: "_Published Mar 31, 2025, 07:46 PM_
-Spain coal mine blast kills five" }
-SAarearoeiie@{ shape: win-pane, label: "_Published Jan 16, 2025, 09:14 PM_
-South africa mine rescue ends, anger rises over 78 deaths in police siege" }
-Deirnlnnina@{ shape: win-pane, label: "_Published Mar 27, 2025, 05:00 PM_
-Deep-sea mining threatens sea life in a way no one is thinking about" }
+Tseltirnnuo@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:57 AM_
+Trump says ‘terrible’ epstein files are tarnishing reputations" }
+Utieelstkafcr@{ shape: win-pane, label: "_Published Dec 20, 2025, 05:46 AM_
+Us epstein files release highlights clinton, makes scant reference to trump" }
+Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
+Epstein files to be released to us public: what are they?" }
+ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
+After trump reversal, us house pushes forward on epstein vote" }
+TskeMewtco@{ shape: win-pane, label: "_Published Nov 18, 2025, 09:15 AM_
+Trump’s frankenstein? us maga meltdown tests its creator" }
+BilprAwsipinr@{ shape: win-pane, label: "_Published Nov 02, 2025, 08:16 PM_
+Britain will strip disgraced andrew of last military position, minister says" }
+Binrtberrtssm@{ shape: win-pane, label: "_Published Oct 31, 2025, 03:36 AM_
+Britain’s king charles strips brother andrew of royal titles, windsor home" }
+BidfrSFsurcsyi@{ shape: win-pane, label: "_Published Nov 02, 2025, 10:59 AM_
+Britain’s andrew’s former wife sarah ferguson, daughters and corgis hit by crisis" }
+TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
+Trump signs bill ordering us justice department to release epstein files" }
+Ugpsufrspnsitm@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:23 AM_
+Us congress passes measure to force release of epstein files, sending it to trump" }
+Therltsfwrons@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:55 AM_
+Trump has the power to release the epstein files, with or without congress" }
+Tdddnersdiinst@{ shape: win-pane, label: "_Published Nov 19, 2025, 12:28 AM_
+Trump defends saudi prince over journalist murder, hails $1.3 trillion investment vow" }
+Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
+Epstein files to be released to us public: what are they?" }
+ATrsHpsaEie@{ shape: win-pane, label: "_Published Nov 18, 2025, 11:15 AM_
+After trump reversal, us house pushes forward on epstein vote" }
+TskeMewtco@{ shape: win-pane, label: "_Published Nov 18, 2025, 09:15 AM_
+Trump’s frankenstein? us maga meltdown tests its creator" }
 
-Tsuuestilnc:::txtsize --> Hiablnrnstne:::txtsize
-Hiablnrnstne:::txtsize --> Ivuerlrrt:::txtsize
-Ivuerlrrt:::txtsize --> IpsbehbarKieos:::txtsize
-Ivuerlrrt:::txtsize --> DycIaknnrosc:::txtsize
-Hiablnrnstne:::txtsize --> ItlotltadSlcs:::txtsize
-ItlotltadSlcs:::txtsize --> TsrgTsadeyneodcg:::txtsize
-ItlotltadSlcs:::txtsize --> Hrdnlnyinnar:::txtsize
-Tsuuestilnc:::txtsize --> Tlnrnlnsili:::txtsize
-Tlnrnlnsili:::txtsize --> Fonseigeaeoadt:::txtsize
-Fonseigeaeoadt:::txtsize --> FodipPmpitnd:::txtsize
-Fonseigeaeoadt:::txtsize --> TdoncFodikrdnoa:::txtsize
-Tlnrnlnsili:::txtsize --> Scialv:::txtsize
-Scialv:::txtsize --> SAarearoeiie:::txtsize
-Scialv:::txtsize --> Deirnlnnina:::txtsize
+Tseltirnnuo:::txtsize --> Utieelstkafcr:::txtsize
+Utieelstkafcr:::txtsize --> Eieeaobhe:::txtsize
+Eieeaobhe:::txtsize --> ATrsHpsaEie:::txtsize
+Eieeaobhe:::txtsize --> TskeMewtco:::txtsize
+Utieelstkafcr:::txtsize --> BilprAwsipinr:::txtsize
+BilprAwsipinr:::txtsize --> Binrtberrtssm:::txtsize
+BilprAwsipinr:::txtsize --> BidfrSFsurcsyi:::txtsize
+Tseltirnnuo:::txtsize --> TsBrnuertlEie:::txtsize
+TsBrnuertlEie:::txtsize --> Ugpsufrspnsitm:::txtsize
+Ugpsufrspnsitm:::txtsize --> Therltsfwrons:::txtsize
+Ugpsufrspnsitm:::txtsize --> Tdddnersdiinst:::txtsize
+TsBrnuertlEie:::txtsize --> Eieeaobhe:::txtsize
+Eieeaobhe:::txtsize --> ATrsHpsaEie:::txtsize
+Eieeaobhe:::txtsize --> TskeMewtco:::txtsize
 
-BsetaulerLn@{ shape: win-pane, label: "_Published Dec 23, 2025, 03:06 AM_
-British street artist banksy unveils latest mural in london" }
-Bsrrdonueitye@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:09 AM_
-British courts service destroys banksy mural depicting attack by judge" }
-Nnutogrwgips@{ shape: win-pane, label: "_Published Sep 08, 2025, 07:56 PM_
-New banksy mural at london’s high court shows judge striking protester" }
-Rapiulrsftoe@{ shape: win-pane, label: "_Published Mar 05, 2025, 02:40 PM_
-Rare banksy painting crude oil (vettriano) sells for $7.4m at london sale" }
-Nnueieipsrn@{ shape: win-pane, label: "_Published Mar 19, 2024, 11:40 AM_
-New banksy mural depicting tree foliage appears in north london" }
-Nnutogrwgips@{ shape: win-pane, label: "_Published Sep 08, 2025, 07:56 PM_
-New banksy mural at london’s high court shows judge striking protester" }
-Rapiulrsftoe@{ shape: win-pane, label: "_Published Mar 05, 2025, 02:40 PM_
-Rare banksy painting crude oil (vettriano) sells for $7.4m at london sale" }
-Nnueieipsrn@{ shape: win-pane, label: "_Published Mar 19, 2024, 11:40 AM_
-New banksy mural depicting tree foliage appears in north london" }
-Minrlapi@{ shape: win-pane, label: "_Published Nov 15, 2025, 03:43 AM_
-Man jailed in uk for stealing banksy painting" }
-Bsrrdonueitye@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:09 AM_
-British courts service destroys banksy mural depicting attack by judge" }
-Nnutogrwgips@{ shape: win-pane, label: "_Published Sep 08, 2025, 07:56 PM_
-New banksy mural at london’s high court shows judge striking protester" }
-Nnutogrwgips@{ shape: win-pane, label: "_Published Sep 08, 2025, 07:56 PM_
-New banksy mural at london’s high court shows judge striking protester" }
-Rapiulrsftoe@{ shape: win-pane, label: "_Published Mar 05, 2025, 02:40 PM_
-Rare banksy painting crude oil (vettriano) sells for $7.4m at london sale" }
-Tniortinoigecr@{ shape: win-pane, label: "_Published Nov 06, 2024, 05:00 PM_
-Touring exhibition of graffiti artist banksy to open in singapore in december" }
-Mtigaoomo@{ shape: win-pane, label: "_Published Nov 20, 2024, 06:05 PM_
-Magritte painting nets auction record of $162 million" }
+Tsetenaane@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:51 AM_
+Trump says ‘we have to have’ greenland after appointing envoy" }
+TtoavrLyeeted@{ shape: win-pane, label: "_Published Dec 22, 2025, 12:13 PM_
+Trump taps louisiana governor jeff landry as special envoy to greenland" }
+DdpGlniyahery@{ shape: win-pane, label: "_Published Jan 07, 2025, 11:20 PM_
+Donald trump jr in greenland on ‘tourist’ day trip as father eyes territory" }
+Gllrssiecma@{ shape: win-pane, label: "_Published Jan 03, 2025, 06:30 PM_
+Greenland’s leader steps up push for independence from denmark" }
+CuynWobe@{ shape: win-pane, label: "_Published Dec 24, 2024, 09:15 AM_
+Can trump buy greenland? what to know besides ‘no’" }
+DrmSyodetleen@{ shape: win-pane, label: "_Published Aug 27, 2025, 02:17 PM_
+Denmark summons us envoy over ‘outside attempts to influence’ in greenland" }
+EihspGlnle@{ shape: win-pane, label: "_Published Jan 08, 2025, 09:36 PM_
+Explainer: why does trump want greenland and could he get it?" }
+DrteeVrenrams@{ shape: win-pane, label: "_Published Mar 30, 2025, 01:18 AM_
+Denmark criticises ‘tone’ of us vice-president vance’s greenland comments" }
+EihspGlnle@{ shape: win-pane, label: "_Published Jan 08, 2025, 09:36 PM_
+Explainer: why does trump want greenland and could he get it?" }
+DdpGlniyahery@{ shape: win-pane, label: "_Published Jan 07, 2025, 11:20 PM_
+Donald trump jr in greenland on ‘tourist’ day trip as father eyes territory" }
+Gllrssiecma@{ shape: win-pane, label: "_Published Jan 03, 2025, 06:30 PM_
+Greenland’s leader steps up push for independence from denmark" }
+CuynWobe@{ shape: win-pane, label: "_Published Dec 24, 2024, 09:15 AM_
+Can trump buy greenland? what to know besides ‘no’" }
+Tnluiemtsenoanen@{ shape: win-pane, label: "_Published Jan 08, 2025, 01:26 AM_
+Trump not ruling out military, economic action as he seeks control of panama canal, greenland" }
+TjCamtard@{ shape: win-pane, label: "_Published Dec 19, 2024, 12:55 AM_
+Trump jokes canada becoming 51st us state ‘a great idea’" }
+CuynWobe@{ shape: win-pane, label: "_Published Dec 24, 2024, 09:15 AM_
+Can trump buy greenland? what to know besides ‘no’" }
 
-BsetaulerLn:::txtsize --> Bsrrdonueitye:::txtsize
-Bsrrdonueitye:::txtsize --> Nnutogrwgips:::txtsize
-Nnutogrwgips:::txtsize --> Rapiulrsftoe:::txtsize
-Nnutogrwgips:::txtsize --> Nnueieipsrn:::txtsize
-Bsrrdonueitye:::txtsize --> Nnutogrwgips:::txtsize
-Nnutogrwgips:::txtsize --> Rapiulrsftoe:::txtsize
-Nnutogrwgips:::txtsize --> Nnueieipsrn:::txtsize
-BsetaulerLn:::txtsize --> Minrlapi:::txtsize
-Minrlapi:::txtsize --> Bsrrdonueitye:::txtsize
-Bsrrdonueitye:::txtsize --> Nnutogrwgips:::txtsize
-Bsrrdonueitye:::txtsize --> Nnutogrwgips:::txtsize
-Minrlapi:::txtsize --> Rapiulrsftoe:::txtsize
-Rapiulrsftoe:::txtsize --> Tniortinoigecr:::txtsize
-Rapiulrsftoe:::txtsize --> Mtigaoomo:::txtsize
+Tsetenaane:::txtsize --> TtoavrLyeeted:::txtsize
+TtoavrLyeeted:::txtsize --> DdpGlniyahery:::txtsize
+DdpGlniyahery:::txtsize --> Gllrssiecma:::txtsize
+DdpGlniyahery:::txtsize --> CuynWobe:::txtsize
+TtoavrLyeeted:::txtsize --> DrmSyodetleen:::txtsize
+DrmSyodetleen:::txtsize --> EihspGlnle:::txtsize
+DrmSyodetleen:::txtsize --> DrteeVrenrams:::txtsize
+Tsetenaane:::txtsize --> EihspGlnle:::txtsize
+EihspGlnle:::txtsize --> DdpGlniyahery:::txtsize
+DdpGlniyahery:::txtsize --> Gllrssiecma:::txtsize
+DdpGlniyahery:::txtsize --> CuynWobe:::txtsize
+EihspGlnle:::txtsize --> Tnluiemtsenoanen:::txtsize
+Tnluiemtsenoanen:::txtsize --> TjCamtard:::txtsize
+Tnluiemtsenoanen:::txtsize --> CuynWobe:::txtsize
 
-UdnvalsNiemeth@{ shape: win-pane, label: "_Published Dec 23, 2025, 01:23 AM_
-Us conducting surveillance flights over nigeria after trump intervention threat" }
-TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
-Trump threatens military action in nigeria over ‘killing of christians’" }
-UDehewmeinegas@{ shape: win-pane, label: "_Published Nov 01, 2025, 09:00 AM_
-Us v-p j.d. vance says he hopes his wife embraces christianity, setting off backlash" }
-UanyrAcm@{ shape: win-pane, label: "_Published Mar 28, 2025, 01:30 PM_
-Usha vance in the eye of trump’s arctic storm" }
-TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
-Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
-TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
-Trump threatens military action in nigeria over ‘killing of christians’" }
-UDehewmeinegas@{ shape: win-pane, label: "_Published Nov 01, 2025, 09:00 AM_
-Us v-p j.d. vance says he hopes his wife embraces christianity, setting off backlash" }
-UanyrAcm@{ shape: win-pane, label: "_Published Mar 28, 2025, 01:30 PM_
-Usha vance in the eye of trump’s arctic storm" }
-TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
-Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
+Tttnrueegys@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:38 AM_
+Trump to host defence firms to urge less spending on buybacks" }
+Tulsafifilp@{ shape: win-pane, label: "_Published Dec 23, 2025, 06:58 AM_
+Trump unveils warship named after himself in shipbuilding push" }
+SisstttnraIelyev@{ shape: win-pane, label: "_Published Jul 14, 2024, 06:52 AM_
+Shooting was ‘assassination attempt’ on donald trump, says fbi; suspect, 20, killed by secret  service" }
+HwkaTskgntdenrhn@{ shape: win-pane, label: "_Published Jul 14, 2024, 03:20 PM_
+Here’s what’s known about thomas crooks, 20, the gunman identified by the fbi in the trump shooting" }
+Tsatnefeace@{ shape: win-pane, label: "_Published Dec 20, 2025, 08:59 AM_
+Trump’s name added to kennedy center facade, a day after change" }
+TnCrdsdpsdnk@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:34 AM_
+The kennedy center board votes to add ‘trump’ to its name, drawing backlash" }
+Niuaakpoidsu@{ shape: win-pane, label: "_Published Dec 18, 2025, 05:45 AM_
+New white house plaques attack trump’s democratic predecessors, bush" }
+TaityannrcnkMn@{ shape: win-pane, label: "_Published Aug 27, 2025, 02:58 AM_
+Trump administration eyes stakes in defence firms, including lockheed martin" }
+Tsnaeaftetk@{ shape: win-pane, label: "_Published Aug 23, 2025, 03:24 AM_
+Trump says intel has agreed to a deal for us to take 10% equity stake" }
+ICnuhapamlrnn@{ shape: win-pane, label: "_Published Aug 08, 2025, 02:11 PM_
+Intel ceo tan lip-bu says has board support as trump calls for resignation" }
+SaitiITaitattek@{ shape: win-pane, label: "_Published Aug 19, 2025, 07:23 AM_
+Softbank to invest $2.6 billion in intel; trump administration said in talks to take a 10% stake" }
+NnleuiUenta@{ shape: win-pane, label: "_Published Jun 19, 2025, 06:44 AM_
+Nippon steel closes acquisition of us steel to end 18-month saga" }
+TgflsooebofS@{ shape: win-pane, label: "_Published Jun 14, 2025, 07:39 AM_
+Trump gives formal blessing to nippon steel’s us$19 billion bid for us steel" }
+NnlsbtntSasn@{ shape: win-pane, label: "_Published Jun 16, 2025, 08:53 AM_
+Nippon steel investors begin to count cost of us steel acquisition" }
 
-UdnvalsNiemeth:::txtsize --> TttiriNiriCt:::txtsize
-TttiriNiriCt:::txtsize --> UDehewmeinegas:::txtsize
-UDehewmeinegas:::txtsize --> UanyrAcm:::txtsize
-UDehewmeinegas:::txtsize --> TahesegnipdoUstt:::txtsize
-UdnvalsNiemeth:::txtsize --> TttiriNiriCt:::txtsize
-TttiriNiriCt:::txtsize --> UDehewmeinegas:::txtsize
-UDehewmeinegas:::txtsize --> UanyrAcm:::txtsize
-UDehewmeinegas:::txtsize --> TahesegnipdoUstt:::txtsize
+Tttnrueegys:::txtsize --> Tulsafifilp:::txtsize
+Tulsafifilp:::txtsize --> SisstttnraIelyev:::txtsize
+SisstttnraIelyev:::txtsize --> HwkaTskgntdenrhn:::txtsize
+Tulsafifilp:::txtsize --> Tsatnefeace:::txtsize
+Tsatnefeace:::txtsize --> TnCrdsdpsdnk:::txtsize
+Tsatnefeace:::txtsize --> Niuaakpoidsu:::txtsize
+Tttnrueegys:::txtsize --> TaityannrcnkMn:::txtsize
+TaityannrcnkMn:::txtsize --> Tsnaeaftetk:::txtsize
+Tsnaeaftetk:::txtsize --> ICnuhapamlrnn:::txtsize
+Tsnaeaftetk:::txtsize --> SaitiITaitattek:::txtsize
+TaityannrcnkMn:::txtsize --> NnleuiUenta:::txtsize
+NnleuiUenta:::txtsize --> TgflsooebofS:::txtsize
+NnleuiUenta:::txtsize --> NnlsbtntSasn:::txtsize
 
 ```
-<i>Last updated: 2025-12-23 04:00:21.288952 (GMT+8)</i>
+<i>Last updated: 2025-12-23 08:00:48.397925 (GMT+8)</i>
 <!-- END -->
