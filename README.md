@@ -16,111 +16,99 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ilnnrtyzaho@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:54 PM_
-Israel defence minister vows to stay in gaza, establish outposts" }
-Gsrepmfsik@{ shape: win-pane, label: "_Published Dec 23, 2025, 04:52 PM_
-Gazans fear renewed displacement after israeli strikes" }
-TeeaodGstwe@{ shape: win-pane, label: "_Published Dec 23, 2025, 11:30 AM_
-Trapped under israeli bombardment, gazans fear the ‘new border’" }
-HsonsGrhscnii@{ shape: win-pane, label: "_Published Dec 09, 2025, 10:23 PM_
-Hamas says no second phase for gaza truce while israel ‘continues violations’" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-Uaoazrnioamm@{ shape: win-pane, label: "_Published Dec 18, 2025, 06:20 AM_
-Un and aid groups warn gaza operations at risk from israeli impediments" }
-UvoindIlti@{ shape: win-pane, label: "_Published Dec 16, 2025, 10:17 AM_
-Un halves food rations in gaza due to israeli restrictions" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-TeeaodGstwe@{ shape: win-pane, label: "_Published Dec 23, 2025, 11:30 AM_
-Trapped under israeli bombardment, gazans fear the ‘new border’" }
-HsonsGrhscnii@{ shape: win-pane, label: "_Published Dec 09, 2025, 10:23 PM_
-Hamas says no second phase for gaza truce while israel ‘continues violations’" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
-Peace finally descends on the middle east: now the battle to make it last begins" }
+Oremgnlcnmtt@{ shape: win-pane, label: "_Published Dec 23, 2025, 10:49 PM_
+Over 400 prominent women urge iran to halt execution of woman activist" }
+Iaerhtecelrsm@{ shape: win-pane, label: "_Published Dec 15, 2025, 04:59 PM_
+Iranian nobel laureate hospitalised twice after ‘violent arrest’, say family" }
+Ireezncsghdsr@{ shape: win-pane, label: "_Published Dec 12, 2025, 11:21 PM_
+Iran arrested nobel prize-winning activist narges mohammadi, say supporters" }
+Ibsitagrpasp@{ shape: win-pane, label: "_Published Dec 09, 2025, 08:55 PM_
+Iran objects to ‘pride match’ branding of world cup game against egypt" }
+IwsdetlofS@{ shape: win-pane, label: "_Published Dec 07, 2025, 05:41 PM_
+Iran awaits second plane of nationals deported from us" }
+RspdeeroerNsmin@{ shape: win-pane, label: "_Published Dec 13, 2025, 05:08 PM_
+Rights groups condemn reported re-arrest of nobel laureate narges mohammadi in iran" }
+Ireezncsghdsr@{ shape: win-pane, label: "_Published Dec 12, 2025, 11:21 PM_
+Iran arrested nobel prize-winning activist narges mohammadi, say supporters" }
+JditteaiNPP@{ shape: win-pane, label: "_Published Oct 06, 2023, 05:04 PM_
+Jailed iranian activist narges mohammadi wins 2023 nobel peace prize" }
+RspdeeroerNsmin@{ shape: win-pane, label: "_Published Dec 13, 2025, 05:08 PM_
+Rights groups condemn reported re-arrest of nobel laureate narges mohammadi in iran" }
+Ireezncsghdsr@{ shape: win-pane, label: "_Published Dec 12, 2025, 11:21 PM_
+Iran arrested nobel prize-winning activist narges mohammadi, say supporters" }
+Ibsitagrpasp@{ shape: win-pane, label: "_Published Dec 09, 2025, 08:55 PM_
+Iran objects to ‘pride match’ branding of world cup game against egypt" }
+IwsdetlofS@{ shape: win-pane, label: "_Published Dec 07, 2025, 05:41 PM_
+Iran awaits second plane of nationals deported from us" }
+JditteaiNPP@{ shape: win-pane, label: "_Published Oct 06, 2023, 05:04 PM_
+Jailed iranian activist narges mohammadi wins 2023 nobel peace prize" }
+JasaaPpsusraiecz@{ shape: win-pane, label: "_Published Oct 08, 2021, 05:13 PM_
+Journalists maria ressa from philippines and russia's dmitry muratov win 2021 nobel peace prize" }
+Itamnsntiagr@{ shape: win-pane, label: "_Published Sep 17, 2023, 01:26 AM_
+Iran stops family marking mahsa amini death anniversary: rights groups" }
 
-Ilnnrtyzaho:::txtsize --> Gsrepmfsik:::txtsize
-Gsrepmfsik:::txtsize --> TeeaodGstwe:::txtsize
-TeeaodGstwe:::txtsize --> HsonsGrhscnii:::txtsize
-TeeaodGstwe:::txtsize --> Tdrcaaededlncbs:::txtsize
-Gsrepmfsik:::txtsize --> Uaoazrnioamm:::txtsize
-Uaoazrnioamm:::txtsize --> UvoindIlti:::txtsize
-Uaoazrnioamm:::txtsize --> TssHaossaaorslaoe:::txtsize
-Ilnnrtyzaho:::txtsize --> TeeaodGstwe:::txtsize
-TeeaodGstwe:::txtsize --> HsonsGrhscnii:::txtsize
-HsonsGrhscnii:::txtsize --> Tdrcaaededlncbs:::txtsize
-HsonsGrhscnii:::txtsize --> NyeeawHakl:::txtsize
-TeeaodGstwe:::txtsize --> Tdrcaaededlncbs:::txtsize
-Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
+Oremgnlcnmtt:::txtsize --> Iaerhtecelrsm:::txtsize
+Iaerhtecelrsm:::txtsize --> Ireezncsghdsr:::txtsize
+Ireezncsghdsr:::txtsize --> Ibsitagrpasp:::txtsize
+Ireezncsghdsr:::txtsize --> IwsdetlofS:::txtsize
+Iaerhtecelrsm:::txtsize --> RspdeeroerNsmin:::txtsize
+RspdeeroerNsmin:::txtsize --> Ireezncsghdsr:::txtsize
+RspdeeroerNsmin:::txtsize --> JditteaiNPP:::txtsize
+Oremgnlcnmtt:::txtsize --> RspdeeroerNsmin:::txtsize
+RspdeeroerNsmin:::txtsize --> Ireezncsghdsr:::txtsize
+Ireezncsghdsr:::txtsize --> Ibsitagrpasp:::txtsize
+Ireezncsghdsr:::txtsize --> IwsdetlofS:::txtsize
+RspdeeroerNsmin:::txtsize --> JditteaiNPP:::txtsize
+JditteaiNPP:::txtsize --> JasaaPpsusraiecz:::txtsize
+JditteaiNPP:::txtsize --> Itamnsntiagr:::txtsize
 
-AsEikctebuert@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:00 PM_
-At least 8,000 new epstein-linked documents released by us justice department" }
-Vmmseoefel@{ shape: win-pane, label: "_Published Dec 23, 2025, 06:26 AM_
-Victims, lawmakers condemn slow release of epstein files" }
-Taitecurcpns@{ shape: win-pane, label: "_Published Dec 22, 2025, 04:02 AM_
-Trump administration denies cover-up over redacted epstein files" }
-Utieelstkafcr@{ shape: win-pane, label: "_Published Dec 20, 2025, 05:46 AM_
-Us epstein files release highlights clinton, makes scant reference to trump" }
-Eietsamrticnom@{ shape: win-pane, label: "_Published Dec 21, 2025, 09:49 AM_
-Epstein files photos disappear from government website, including one of trump" }
-Tseltirnnuo@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:57 AM_
-Trump says ‘terrible’ epstein files are tarnishing reputations" }
-Utieelstkafcr@{ shape: win-pane, label: "_Published Dec 20, 2025, 05:46 AM_
-Us epstein files release highlights clinton, makes scant reference to trump" }
-Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
-Epstein files to be released to us public: what are they?" }
-BilprAwsipinr@{ shape: win-pane, label: "_Published Nov 02, 2025, 08:16 PM_
-Britain will strip disgraced andrew of last military position, minister says" }
-TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
-Trump signs bill ordering us justice department to release epstein files" }
-Ugpsufrspnsitm@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:23 AM_
-Us congress passes measure to force release of epstein files, sending it to trump" }
-Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
-Epstein files to be released to us public: what are they?" }
+Uletriresal@{ shape: win-pane, label: "_Published Dec 23, 2025, 10:44 PM_
+Us airlines expect record holiday travel even as airfares climb" }
+Ioiehiwarat@{ shape: win-pane, label: "_Published Dec 23, 2025, 02:45 PM_
+Indigo crisis reveals why india’s new air safety rules are vital" }
+Tgiiixssdvo@{ shape: win-pane, label: "_Published Dec 08, 2025, 10:35 AM_
+Too big to fail? indigo crisis exposes risks in indian aviation" }
+Iciesdrlsrtefd@{ shape: win-pane, label: "_Published Dec 06, 2025, 02:56 PM_
+India caps airline fares as indigo crisis leaves hundreds stranded for fifth day" }
+OiaIDlceoesnd@{ shape: win-pane, label: "_Published Jun 13, 2025, 05:08 AM_
+Over 240 killed as air india dreamliner crashes into college hostel in ahmedabad" }
+Iossatnair@{ shape: win-pane, label: "_Published Dec 13, 2025, 06:00 AM_
+Indigo chaos unmasks fragility of india’s aviation market" }
+CaIserIoei@{ shape: win-pane, label: "_Published Dec 04, 2025, 09:00 PM_
+Chaos after india’s biggest airline indigo cancels 1,200 flights" }
 
-AsEikctebuert:::txtsize --> Vmmseoefel:::txtsize
-Vmmseoefel:::txtsize --> Taitecurcpns:::txtsize
-Taitecurcpns:::txtsize --> Utieelstkafcr:::txtsize
-Taitecurcpns:::txtsize --> Eietsamrticnom:::txtsize
-AsEikctebuert:::txtsize --> Tseltirnnuo:::txtsize
-Tseltirnnuo:::txtsize --> Utieelstkafcr:::txtsize
-Utieelstkafcr:::txtsize --> Eieeaobhe:::txtsize
-Utieelstkafcr:::txtsize --> BilprAwsipinr:::txtsize
-Tseltirnnuo:::txtsize --> TsBrnuertlEie:::txtsize
-TsBrnuertlEie:::txtsize --> Ugpsufrspnsitm:::txtsize
-TsBrnuertlEie:::txtsize --> Eieeaobhe:::txtsize
+Uletriresal:::txtsize --> Ioiehiwarat:::txtsize
+Ioiehiwarat:::txtsize --> Tgiiixssdvo:::txtsize
+Tgiiixssdvo:::txtsize --> Iciesdrlsrtefd:::txtsize
+Tgiiixssdvo:::txtsize --> OiaIDlceoesnd:::txtsize
+Ioiehiwarat:::txtsize --> Iossatnair:::txtsize
+Iossatnair:::txtsize --> CaIserIoei:::txtsize
 
-Kwmiseketpey@{ shape: win-pane, label: "_Published Dec 23, 2025, 06:10 PM_
-Kyiv’s wartime christmas reflects ukraine capital’s ‘split’ reality" }
-Rarnksdpeue@{ shape: win-pane, label: "_Published Nov 25, 2025, 04:43 PM_
-Russian barrage on kyiv kills seven, disrupts energy supplies" }
-UKisrlerr@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:43 PM_
-Us and kyiv discuss reworked plan to end war in ukraine" }
-Ulnaewniaark@{ shape: win-pane, label: "_Published Nov 24, 2025, 08:40 AM_
-Us hails ‘significant step forward’ in ukraine ‘peace framework’ talks" }
-Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
-Trump’s 28-point ukraine plan" }
-HwtgaetafliKoioa@{ shape: win-pane, label: "_Published Nov 06, 2025, 03:52 AM_
-Hollywood star angelina jolie visits ukraine’s front-line city of kherson, media reports say" }
-HwcsetaLrtpyn@{ shape: win-pane, label: "_Published May 01, 2022, 05:26 AM_
-Hollywood actress jolie visits ukraine's lviv, trip interrupted by sirens" }
-HwcsetaLrtpyn@{ shape: win-pane, label: "_Published May 01, 2022, 05:26 AM_
-Hollywood actress jolie visits ukraine's lviv, trip interrupted by sirens" }
+ApoersnCbxnbra@{ shape: win-pane, label: "_Published Dec 23, 2025, 10:31 PM_
+After power outage, san francisco wonders: can robot taxis handle a big earthquake?" }
+PrnoSaceeaa@{ shape: win-pane, label: "_Published Dec 21, 2025, 03:37 PM_
+Power returns to most of san francisco after widespread outage" }
+MpoeSac@{ shape: win-pane, label: "_Published Dec 21, 2025, 09:45 AM_
+Major power outage hits san francisco" }
+Oimrstphocipt@{ shape: win-pane, label: "_Published Mar 12, 2025, 05:15 AM_
+Ontario premier freezes plan to slap surcharge of electricity exports to us" }
+Taitnaiorntt@{ shape: win-pane, label: "_Published Mar 09, 2025, 01:20 PM_
+Trump administration ends iraq’s waiver to buy iranian electricity" }
+GntsycaeSackpmoi@{ shape: win-pane, label: "_Published Nov 14, 2023, 05:00 AM_
+Golden city tarnished by dirt, crime and needles: san francisco looks to apec summit for revival" }
+WpemteonhemSac@{ shape: win-pane, label: "_Published Nov 13, 2023, 06:00 PM_
+Will apec meet the moment? pm lee off to attend high-stakes summit in san francisco" }
+WpemteonhemSac@{ shape: win-pane, label: "_Published Nov 13, 2023, 06:00 PM_
+Will apec meet the moment? pm lee off to attend high-stakes summit in san francisco" }
 
-Kwmiseketpey:::txtsize --> Rarnksdpeue:::txtsize
-Rarnksdpeue:::txtsize --> UKisrlerr:::txtsize
-UKisrlerr:::txtsize --> Ulnaewniaark:::txtsize
-UKisrlerr:::txtsize --> Tstia:::txtsize
-Kwmiseketpey:::txtsize --> HwtgaetafliKoioa:::txtsize
-HwtgaetafliKoioa:::txtsize --> HwcsetaLrtpyn:::txtsize
-HwtgaetafliKoioa:::txtsize --> HwcsetaLrtpyn:::txtsize
+ApoersnCbxnbra:::txtsize --> PrnoSaceeaa:::txtsize
+PrnoSaceeaa:::txtsize --> MpoeSac:::txtsize
+MpoeSac:::txtsize --> Oimrstphocipt:::txtsize
+MpoeSac:::txtsize --> Taitnaiorntt:::txtsize
+PrnoSaceeaa:::txtsize --> GntsycaeSackpmoi:::txtsize
+GntsycaeSackpmoi:::txtsize --> WpemteonhemSac:::txtsize
+GntsycaeSackpmoi:::txtsize --> WpemteonhemSac:::txtsize
 
 ```
-<i>Last updated: 2025-12-23 20:00:43.296541 (GMT+8)</i>
+<i>Last updated: 2025-12-24 00:01:10.275357 (GMT+8)</i>
 <!-- END -->
