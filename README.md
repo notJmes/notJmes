@@ -16,129 +16,111 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-TnnItekbeiaid@{ shape: win-pane, label: "_Published Dec 23, 2025, 02:50 PM_
-The pentagon and ai giants have a weakness – both need china’s batteries, badly" }
-Anatimashrn@{ shape: win-pane, label: "_Published Sep 13, 2025, 04:00 PM_
-As drones swarm battlefields, militaries seek cheaper defences" }
-Feuiea@{ shape: win-pane, label: "_Published Feb 24, 2023, 05:54 PM_
-Feb 24, 2022: the day russia invaded ukraine" }
-Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
-Timeline: how russia's attack on ukraine unfolded" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-PdRanunlheiertr@{ shape: win-pane, label: "_Published Sep 12, 2025, 08:30 PM_
-Poland says russian drone incursions could not have been a mistake, contradicting trump" }
-Zsgloirntlrni@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:53 PM_
-Zelensky urges allies to rethink air defence after poland drone intrusion" }
-Pdraaaerd@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:12 PM_
-Poland restricts air traffic along eastern border" }
-Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
-China tightens rare earth export controls and targets defence, semiconductor users" }
-Whapira@{ shape: win-pane, label: "_Published Sep 14, 2025, 11:05 AM_
-Will the us catch up to china on rare earths?" }
-ChaUiipoleeh@{ shape: win-pane, label: "_Published Apr 05, 2025, 03:53 AM_
-China hits back at us tariffs with export controls on key rare earths" }
-Tpeoohunuserw@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:45 PM_
-Trump presses nato nations to halt russian oil purchases to end ukraine war" }
+Gsrepmfsik@{ shape: win-pane, label: "_Published Dec 23, 2025, 04:52 PM_
+Gazans fear renewed displacement after israeli strikes" }
+TeeaodGstwe@{ shape: win-pane, label: "_Published Dec 23, 2025, 11:30 AM_
+Trapped under israeli bombardment, gazans fear the ‘new border’" }
+HsonsGrhscnii@{ shape: win-pane, label: "_Published Dec 09, 2025, 10:23 PM_
+Hamas says no second phase for gaza truce while israel ‘continues violations’" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
+Uaoazrnioamm@{ shape: win-pane, label: "_Published Dec 18, 2025, 06:20 AM_
+Un and aid groups warn gaza operations at risk from israeli impediments" }
+UvoindIlti@{ shape: win-pane, label: "_Published Dec 16, 2025, 10:17 AM_
+Un halves food rations in gaza due to israeli restrictions" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+Noeoagatmdca@{ shape: win-pane, label: "_Published Nov 04, 2025, 11:02 PM_
+Not enough tents, food reaching gaza as winter comes, aid agencies say" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
+Israel marks oct 7 anniversary as talks are held to end gaza war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
 
-TnnItekbeiaid:::txtsize --> Anatimashrn:::txtsize
-Anatimashrn:::txtsize --> Feuiea:::txtsize
-Feuiea:::txtsize --> Tiwitnifd:::txtsize
-Feuiea:::txtsize --> DsruasvUn:::txtsize
-Anatimashrn:::txtsize --> PdRanunlheiertr:::txtsize
-PdRanunlheiertr:::txtsize --> Zsgloirntlrni:::txtsize
-PdRanunlheiertr:::txtsize --> Pdraaaerd:::txtsize
-TnnItekbeiaid:::txtsize --> Ctertonsasnmdrs:::txtsize
-Ctertonsasnmdrs:::txtsize --> Whapira:::txtsize
-Whapira:::txtsize --> ChaUiipoleeh:::txtsize
-Whapira:::txtsize --> Tpeoohunuserw:::txtsize
+Gsrepmfsik:::txtsize --> TeeaodGstwe:::txtsize
+TeeaodGstwe:::txtsize --> HsonsGrhscnii:::txtsize
+HsonsGrhscnii:::txtsize --> Tdrcaaededlncbs:::txtsize
+HsonsGrhscnii:::txtsize --> NyeeawHakl:::txtsize
+TeeaodGstwe:::txtsize --> Tdrcaaededlncbs:::txtsize
+Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
+Gsrepmfsik:::txtsize --> Uaoazrnioamm:::txtsize
+Uaoazrnioamm:::txtsize --> UvoindIlti:::txtsize
+UvoindIlti:::txtsize --> Tdrcaaededlncbs:::txtsize
+UvoindIlti:::txtsize --> Noeoagatmdca:::txtsize
+Uaoazrnioamm:::txtsize --> TssHaossaaorslaoe:::txtsize
+TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
+TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
 
-MTdapsvtlryed@{ shape: win-pane, label: "_Published Dec 23, 2025, 01:06 PM_
-Meta’s threads to launch podcast previews that play directly in user feeds" }
-Vpscernto@{ shape: win-pane, label: "_Published Nov 14, 2025, 10:45 AM_
-Video podcasts become next streaming battleground" }
-Znaciippfiiirh@{ shape: win-pane, label: "_Published Nov 06, 2025, 01:25 AM_
-Zohran mamdani victory in us fires up europe’s left against right-wing surge at home" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-Trnsdouex@{ shape: win-pane, label: "_Published Jul 15, 2025, 07:55 AM_
-The streaming wars come down to 2: youtube v netflix" }
-Isenroeaw@{ shape: win-pane, label: "_Published Jun 01, 2023, 04:35 PM_
-India’s richest man enters the online streaming wars" }
-Vpscernto@{ shape: win-pane, label: "_Published Nov 14, 2025, 10:45 AM_
-Video podcasts become next streaming battleground" }
-Znaciippfiiirh@{ shape: win-pane, label: "_Published Nov 06, 2025, 01:25 AM_
-Zohran mamdani victory in us fires up europe’s left against right-wing surge at home" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-Trnsdouex@{ shape: win-pane, label: "_Published Jul 15, 2025, 07:55 AM_
-The streaming wars come down to 2: youtube v netflix" }
-Isenroeaw@{ shape: win-pane, label: "_Published Jun 01, 2023, 04:35 PM_
-India’s richest man enters the online streaming wars" }
+LtsrheKndggr@{ shape: win-pane, label: "_Published Dec 23, 2025, 04:24 PM_
+Lured to russia for jobs, hundreds of kenyans wind up fighting in ukraine" }
+Knaaeimuslur@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:20 PM_
+Kenyan lawmakers accuse british army of murder, sexual assault, torture" }
+Robsdrdicw@{ shape: win-pane, label: "_Published Sep 08, 2025, 05:42 PM_
+Rules of war ‘being shredded’ worldwide, un rights chief warns" }
+Iabigpraneetortr@{ shape: win-pane, label: "_Published Sep 06, 2025, 08:30 AM_
+‘it’s really about winning’: trump orders department of defence to return to department of war name" }
+TaitmsaofCgot@{ shape: win-pane, label: "_Published Aug 20, 2025, 11:01 PM_
+Trump administration imposes new sanctions on four icc judges, prosecutors" }
+Crntehteoim@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:40 PM_
+Captured kenyan athlete says he was tricked into russian army" }
+Ksvitlfirike@{ shape: win-pane, label: "_Published Nov 13, 2025, 01:31 AM_
+Kenya says over 200 of its nationals are fighting for russia in ukraine war" }
+Unstfnmnoiggu@{ shape: win-pane, label: "_Published Nov 07, 2025, 10:50 PM_
+Ukraine says more than 1,400 africans from dozens of countries fighting for russia" }
+Unfoantgge@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:46 PM_
+Ukrainians flee southeastern front as fighting worsens" }
+RasicoUneotaechiu@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:33 PM_
+Russia rules out big concessions on ukraine, as leak shows witkoff advised moscow on handling trump" }
+TeWfisiavMww@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:23 PM_
+Trump envoy witkoff to discuss ukraine peace moves in moscow next week" }
+ToiegRaipuoorpp@{ shape: win-pane, label: "_Published Nov 23, 2025, 12:09 AM_
+Trump officials’ meeting with russian in miami spurs questions about ukraine peace plan" }
 
-MTdapsvtlryed:::txtsize --> Vpscernto:::txtsize
-Vpscernto:::txtsize --> Znaciippfiiirh:::txtsize
-Znaciippfiiirh:::txtsize --> YMmnoihaiYilehpea:::txtsize
-Znaciippfiiirh:::txtsize --> YMmnoihaiYilehpea:::txtsize
-Vpscernto:::txtsize --> Trnsdouex:::txtsize
-Trnsdouex:::txtsize --> Isenroeaw:::txtsize
-MTdapsvtlryed:::txtsize --> Vpscernto:::txtsize
-Vpscernto:::txtsize --> Znaciippfiiirh:::txtsize
-Znaciippfiiirh:::txtsize --> YMmnoihaiYilehpea:::txtsize
-Znaciippfiiirh:::txtsize --> YMmnoihaiYilehpea:::txtsize
-Vpscernto:::txtsize --> Trnsdouex:::txtsize
-Trnsdouex:::txtsize --> Isenroeaw:::txtsize
+LtsrheKndggr:::txtsize --> Knaaeimuslur:::txtsize
+Knaaeimuslur:::txtsize --> Robsdrdicw:::txtsize
+Robsdrdicw:::txtsize --> Iabigpraneetortr:::txtsize
+Robsdrdicw:::txtsize --> TaitmsaofCgot:::txtsize
+LtsrheKndggr:::txtsize --> Crntehteoim:::txtsize
+Crntehteoim:::txtsize --> Ksvitlfirike:::txtsize
+Ksvitlfirike:::txtsize --> Unstfnmnoiggu:::txtsize
+Ksvitlfirike:::txtsize --> Unfoantgge:::txtsize
+Crntehteoim:::txtsize --> RasicoUneotaechiu:::txtsize
+RasicoUneotaechiu:::txtsize --> TeWfisiavMww:::txtsize
+RasicoUneotaechiu:::txtsize --> ToiegRaipuoorpp:::txtsize
 
-Tsyenrednoe@{ shape: win-pane, label: "_Published Dec 23, 2025, 12:41 PM_
-Trump sued by kennedy center trustee for adding name to venue" }
-TnCrdsdpsdnk@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:34 AM_
-The kennedy center board votes to add ‘trump’ to its name, drawing backlash" }
-TteeaohotvKdt@{ shape: win-pane, label: "_Published Feb 08, 2025, 09:30 AM_
-Trump to make himself head of top washington cultural venue kennedy centre" }
-TseoBsrln@{ shape: win-pane, label: "_Published Feb 08, 2025, 08:39 AM_
-Trump says he’s revoking biden’s security clearance" }
-Tseanccroytne@{ shape: win-pane, label: "_Published Feb 08, 2025, 01:34 AM_
-Trump says he will announce reciprocal tariffs on many countries next week" }
-Tperoneisioh@{ shape: win-pane, label: "_Published Mar 18, 2025, 12:15 PM_
-Trump pledges overhaul of kennedy centre in first visit as board chair" }
-Tosifanidofia@{ shape: win-pane, label: "_Published Mar 15, 2025, 02:30 PM_
-Trump orders gutting of 7 federal agencies, including voice of america’s parent" }
-TteeaohotvKdt@{ shape: win-pane, label: "_Published Feb 08, 2025, 09:30 AM_
-Trump to make himself head of top washington cultural venue kennedy centre" }
-Tsatnefeace@{ shape: win-pane, label: "_Published Dec 20, 2025, 08:59 AM_
-Trump’s name added to kennedy center facade, a day after change" }
-TnCrdsdpsdnk@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:34 AM_
-The kennedy center board votes to add ‘trump’ to its name, drawing backlash" }
-TteeaohotvKdt@{ shape: win-pane, label: "_Published Feb 08, 2025, 09:30 AM_
-Trump to make himself head of top washington cultural venue kennedy centre" }
-Tperoneisioh@{ shape: win-pane, label: "_Published Mar 18, 2025, 12:15 PM_
-Trump pledges overhaul of kennedy centre in first visit as board chair" }
-Niuaakpoidsu@{ shape: win-pane, label: "_Published Dec 18, 2025, 05:45 AM_
-New white house plaques attack trump’s democratic predecessors, bush" }
-TsoastneRrols@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:14 AM_
-Trump’s approval rating slips to 39%, economy weighs, reuters/ipsos poll finds" }
-Thcirlhffesiblr@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:34 AM_
-Trump has ‘alcoholic’s personality’, chief of staff susie wiles says in bombshell interview" }
+Cstenntai@{ shape: win-pane, label: "_Published Dec 23, 2025, 04:00 PM_
+China’s new-style tea brands find a hot new market in us" }
+CscCecSmrl@{ shape: win-pane, label: "_Published Apr 11, 2025, 08:30 AM_
+Chinese tea chain chagee launches us ipo amid market slump" }
+Vaeaiadenrem@{ shape: win-pane, label: "_Published Mar 21, 2025, 03:45 PM_
+Vietnam investigates milk tea brand chagee in another probe over map" }
+Vasiirhaa@{ shape: win-pane, label: "_Published Jul 03, 2023, 04:05 PM_
+Vietnam bans barbie movie over south china sea map" }
+ToVallrhaa@{ shape: win-pane, label: "_Published Mar 19, 2025, 05:38 PM_
+Toy trouble: vietnam pulls dolls over south china sea map" }
+Glctetknpiitee@{ shape: win-pane, label: "_Published Jan 07, 2025, 04:20 PM_
+Global ipo activity expected to pick up in 2025; new us policies to impact market: ey report" }
+TsbchioUdetne@{ shape: win-pane, label: "_Published Nov 06, 2024, 07:37 AM_
+Trump set to be elected 47th president of the united states in stunning comeback" }
+SPlteculshRt@{ shape: win-pane, label: "_Published Dec 18, 2024, 06:15 PM_
+Sgx’s 4 ipos in 2024 lowest in over a decade, but outlook is bright for 2025: report" }
 
-Tsyenrednoe:::txtsize --> TnCrdsdpsdnk:::txtsize
-TnCrdsdpsdnk:::txtsize --> TteeaohotvKdt:::txtsize
-TteeaohotvKdt:::txtsize --> TseoBsrln:::txtsize
-TteeaohotvKdt:::txtsize --> Tseanccroytne:::txtsize
-TnCrdsdpsdnk:::txtsize --> Tperoneisioh:::txtsize
-Tperoneisioh:::txtsize --> Tosifanidofia:::txtsize
-Tperoneisioh:::txtsize --> TteeaohotvKdt:::txtsize
-Tsyenrednoe:::txtsize --> Tsatnefeace:::txtsize
-Tsatnefeace:::txtsize --> TnCrdsdpsdnk:::txtsize
-TnCrdsdpsdnk:::txtsize --> TteeaohotvKdt:::txtsize
-TnCrdsdpsdnk:::txtsize --> Tperoneisioh:::txtsize
-Tsatnefeace:::txtsize --> Niuaakpoidsu:::txtsize
-Niuaakpoidsu:::txtsize --> TsoastneRrols:::txtsize
-Niuaakpoidsu:::txtsize --> Thcirlhffesiblr:::txtsize
+Cstenntai:::txtsize --> CscCecSmrl:::txtsize
+CscCecSmrl:::txtsize --> Vaeaiadenrem:::txtsize
+Vaeaiadenrem:::txtsize --> Vasiirhaa:::txtsize
+Vaeaiadenrem:::txtsize --> ToVallrhaa:::txtsize
+CscCecSmrl:::txtsize --> Glctetknpiitee:::txtsize
+Glctetknpiitee:::txtsize --> TsbchioUdetne:::txtsize
+Glctetknpiitee:::txtsize --> SPlteculshRt:::txtsize
 
 ```
-<i>Last updated: 2025-12-23 16:00:45.467073 (GMT+8)</i>
+<i>Last updated: 2025-12-23 17:06:11.761999 (GMT+8)</i>
 <!-- END -->
