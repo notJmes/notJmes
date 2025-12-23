@@ -16,8 +16,22 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Ilnnrtyzaho@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:54 PM_
+Israel defence minister vows to stay in gaza, establish outposts" }
 Gsrepmfsik@{ shape: win-pane, label: "_Published Dec 23, 2025, 04:52 PM_
 Gazans fear renewed displacement after israeli strikes" }
+TeeaodGstwe@{ shape: win-pane, label: "_Published Dec 23, 2025, 11:30 AM_
+Trapped under israeli bombardment, gazans fear the ‘new border’" }
+HsonsGrhscnii@{ shape: win-pane, label: "_Published Dec 09, 2025, 10:23 PM_
+Hamas says no second phase for gaza truce while israel ‘continues violations’" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+Uaoazrnioamm@{ shape: win-pane, label: "_Published Dec 18, 2025, 06:20 AM_
+Un and aid groups warn gaza operations at risk from israeli impediments" }
+UvoindIlti@{ shape: win-pane, label: "_Published Dec 16, 2025, 10:17 AM_
+Un halves food rations in gaza due to israeli restrictions" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
 TeeaodGstwe@{ shape: win-pane, label: "_Published Dec 23, 2025, 11:30 AM_
 Trapped under israeli bombardment, gazans fear the ‘new border’" }
 HsonsGrhscnii@{ shape: win-pane, label: "_Published Dec 09, 2025, 10:23 PM_
@@ -30,97 +44,83 @@ Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
 Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
 PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
 Peace finally descends on the middle east: now the battle to make it last begins" }
-Uaoazrnioamm@{ shape: win-pane, label: "_Published Dec 18, 2025, 06:20 AM_
-Un and aid groups warn gaza operations at risk from israeli impediments" }
-UvoindIlti@{ shape: win-pane, label: "_Published Dec 16, 2025, 10:17 AM_
-Un halves food rations in gaza due to israeli restrictions" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-Noeoagatmdca@{ shape: win-pane, label: "_Published Nov 04, 2025, 11:02 PM_
-Not enough tents, food reaching gaza as winter comes, aid agencies say" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
-Israel marks oct 7 anniversary as talks are held to end gaza war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
 
+Ilnnrtyzaho:::txtsize --> Gsrepmfsik:::txtsize
 Gsrepmfsik:::txtsize --> TeeaodGstwe:::txtsize
+TeeaodGstwe:::txtsize --> HsonsGrhscnii:::txtsize
+TeeaodGstwe:::txtsize --> Tdrcaaededlncbs:::txtsize
+Gsrepmfsik:::txtsize --> Uaoazrnioamm:::txtsize
+Uaoazrnioamm:::txtsize --> UvoindIlti:::txtsize
+Uaoazrnioamm:::txtsize --> TssHaossaaorslaoe:::txtsize
+Ilnnrtyzaho:::txtsize --> TeeaodGstwe:::txtsize
 TeeaodGstwe:::txtsize --> HsonsGrhscnii:::txtsize
 HsonsGrhscnii:::txtsize --> Tdrcaaededlncbs:::txtsize
 HsonsGrhscnii:::txtsize --> NyeeawHakl:::txtsize
 TeeaodGstwe:::txtsize --> Tdrcaaededlncbs:::txtsize
 Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
-Gsrepmfsik:::txtsize --> Uaoazrnioamm:::txtsize
-Uaoazrnioamm:::txtsize --> UvoindIlti:::txtsize
-UvoindIlti:::txtsize --> Tdrcaaededlncbs:::txtsize
-UvoindIlti:::txtsize --> Noeoagatmdca:::txtsize
-Uaoazrnioamm:::txtsize --> TssHaossaaorslaoe:::txtsize
-TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
-TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
 
-LtsrheKndggr@{ shape: win-pane, label: "_Published Dec 23, 2025, 04:24 PM_
-Lured to russia for jobs, hundreds of kenyans wind up fighting in ukraine" }
-Knaaeimuslur@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:20 PM_
-Kenyan lawmakers accuse british army of murder, sexual assault, torture" }
-Robsdrdicw@{ shape: win-pane, label: "_Published Sep 08, 2025, 05:42 PM_
-Rules of war ‘being shredded’ worldwide, un rights chief warns" }
-Iabigpraneetortr@{ shape: win-pane, label: "_Published Sep 06, 2025, 08:30 AM_
-‘it’s really about winning’: trump orders department of defence to return to department of war name" }
-TaitmsaofCgot@{ shape: win-pane, label: "_Published Aug 20, 2025, 11:01 PM_
-Trump administration imposes new sanctions on four icc judges, prosecutors" }
-Crntehteoim@{ shape: win-pane, label: "_Published Nov 27, 2025, 10:40 PM_
-Captured kenyan athlete says he was tricked into russian army" }
-Ksvitlfirike@{ shape: win-pane, label: "_Published Nov 13, 2025, 01:31 AM_
-Kenya says over 200 of its nationals are fighting for russia in ukraine war" }
-Unstfnmnoiggu@{ shape: win-pane, label: "_Published Nov 07, 2025, 10:50 PM_
-Ukraine says more than 1,400 africans from dozens of countries fighting for russia" }
-Unfoantgge@{ shape: win-pane, label: "_Published Nov 12, 2025, 11:46 PM_
-Ukrainians flee southeastern front as fighting worsens" }
-RasicoUneotaechiu@{ shape: win-pane, label: "_Published Nov 26, 2025, 09:33 PM_
-Russia rules out big concessions on ukraine, as leak shows witkoff advised moscow on handling trump" }
-TeWfisiavMww@{ shape: win-pane, label: "_Published Nov 26, 2025, 07:23 PM_
-Trump envoy witkoff to discuss ukraine peace moves in moscow next week" }
-ToiegRaipuoorpp@{ shape: win-pane, label: "_Published Nov 23, 2025, 12:09 AM_
-Trump officials’ meeting with russian in miami spurs questions about ukraine peace plan" }
+AsEikctebuert@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:00 PM_
+At least 8,000 new epstein-linked documents released by us justice department" }
+Vmmseoefel@{ shape: win-pane, label: "_Published Dec 23, 2025, 06:26 AM_
+Victims, lawmakers condemn slow release of epstein files" }
+Taitecurcpns@{ shape: win-pane, label: "_Published Dec 22, 2025, 04:02 AM_
+Trump administration denies cover-up over redacted epstein files" }
+Utieelstkafcr@{ shape: win-pane, label: "_Published Dec 20, 2025, 05:46 AM_
+Us epstein files release highlights clinton, makes scant reference to trump" }
+Eietsamrticnom@{ shape: win-pane, label: "_Published Dec 21, 2025, 09:49 AM_
+Epstein files photos disappear from government website, including one of trump" }
+Tseltirnnuo@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:57 AM_
+Trump says ‘terrible’ epstein files are tarnishing reputations" }
+Utieelstkafcr@{ shape: win-pane, label: "_Published Dec 20, 2025, 05:46 AM_
+Us epstein files release highlights clinton, makes scant reference to trump" }
+Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
+Epstein files to be released to us public: what are they?" }
+BilprAwsipinr@{ shape: win-pane, label: "_Published Nov 02, 2025, 08:16 PM_
+Britain will strip disgraced andrew of last military position, minister says" }
+TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
+Trump signs bill ordering us justice department to release epstein files" }
+Ugpsufrspnsitm@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:23 AM_
+Us congress passes measure to force release of epstein files, sending it to trump" }
+Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
+Epstein files to be released to us public: what are they?" }
 
-LtsrheKndggr:::txtsize --> Knaaeimuslur:::txtsize
-Knaaeimuslur:::txtsize --> Robsdrdicw:::txtsize
-Robsdrdicw:::txtsize --> Iabigpraneetortr:::txtsize
-Robsdrdicw:::txtsize --> TaitmsaofCgot:::txtsize
-LtsrheKndggr:::txtsize --> Crntehteoim:::txtsize
-Crntehteoim:::txtsize --> Ksvitlfirike:::txtsize
-Ksvitlfirike:::txtsize --> Unstfnmnoiggu:::txtsize
-Ksvitlfirike:::txtsize --> Unfoantgge:::txtsize
-Crntehteoim:::txtsize --> RasicoUneotaechiu:::txtsize
-RasicoUneotaechiu:::txtsize --> TeWfisiavMww:::txtsize
-RasicoUneotaechiu:::txtsize --> ToiegRaipuoorpp:::txtsize
+AsEikctebuert:::txtsize --> Vmmseoefel:::txtsize
+Vmmseoefel:::txtsize --> Taitecurcpns:::txtsize
+Taitecurcpns:::txtsize --> Utieelstkafcr:::txtsize
+Taitecurcpns:::txtsize --> Eietsamrticnom:::txtsize
+AsEikctebuert:::txtsize --> Tseltirnnuo:::txtsize
+Tseltirnnuo:::txtsize --> Utieelstkafcr:::txtsize
+Utieelstkafcr:::txtsize --> Eieeaobhe:::txtsize
+Utieelstkafcr:::txtsize --> BilprAwsipinr:::txtsize
+Tseltirnnuo:::txtsize --> TsBrnuertlEie:::txtsize
+TsBrnuertlEie:::txtsize --> Ugpsufrspnsitm:::txtsize
+TsBrnuertlEie:::txtsize --> Eieeaobhe:::txtsize
 
-Cstenntai@{ shape: win-pane, label: "_Published Dec 23, 2025, 04:00 PM_
-China’s new-style tea brands find a hot new market in us" }
-CscCecSmrl@{ shape: win-pane, label: "_Published Apr 11, 2025, 08:30 AM_
-Chinese tea chain chagee launches us ipo amid market slump" }
-Vaeaiadenrem@{ shape: win-pane, label: "_Published Mar 21, 2025, 03:45 PM_
-Vietnam investigates milk tea brand chagee in another probe over map" }
-Vasiirhaa@{ shape: win-pane, label: "_Published Jul 03, 2023, 04:05 PM_
-Vietnam bans barbie movie over south china sea map" }
-ToVallrhaa@{ shape: win-pane, label: "_Published Mar 19, 2025, 05:38 PM_
-Toy trouble: vietnam pulls dolls over south china sea map" }
-Glctetknpiitee@{ shape: win-pane, label: "_Published Jan 07, 2025, 04:20 PM_
-Global ipo activity expected to pick up in 2025; new us policies to impact market: ey report" }
-TsbchioUdetne@{ shape: win-pane, label: "_Published Nov 06, 2024, 07:37 AM_
-Trump set to be elected 47th president of the united states in stunning comeback" }
-SPlteculshRt@{ shape: win-pane, label: "_Published Dec 18, 2024, 06:15 PM_
-Sgx’s 4 ipos in 2024 lowest in over a decade, but outlook is bright for 2025: report" }
+Kwmiseketpey@{ shape: win-pane, label: "_Published Dec 23, 2025, 06:10 PM_
+Kyiv’s wartime christmas reflects ukraine capital’s ‘split’ reality" }
+Rarnksdpeue@{ shape: win-pane, label: "_Published Nov 25, 2025, 04:43 PM_
+Russian barrage on kyiv kills seven, disrupts energy supplies" }
+UKisrlerr@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:43 PM_
+Us and kyiv discuss reworked plan to end war in ukraine" }
+Ulnaewniaark@{ shape: win-pane, label: "_Published Nov 24, 2025, 08:40 AM_
+Us hails ‘significant step forward’ in ukraine ‘peace framework’ talks" }
+Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
+Trump’s 28-point ukraine plan" }
+HwtgaetafliKoioa@{ shape: win-pane, label: "_Published Nov 06, 2025, 03:52 AM_
+Hollywood star angelina jolie visits ukraine’s front-line city of kherson, media reports say" }
+HwcsetaLrtpyn@{ shape: win-pane, label: "_Published May 01, 2022, 05:26 AM_
+Hollywood actress jolie visits ukraine's lviv, trip interrupted by sirens" }
+HwcsetaLrtpyn@{ shape: win-pane, label: "_Published May 01, 2022, 05:26 AM_
+Hollywood actress jolie visits ukraine's lviv, trip interrupted by sirens" }
 
-Cstenntai:::txtsize --> CscCecSmrl:::txtsize
-CscCecSmrl:::txtsize --> Vaeaiadenrem:::txtsize
-Vaeaiadenrem:::txtsize --> Vasiirhaa:::txtsize
-Vaeaiadenrem:::txtsize --> ToVallrhaa:::txtsize
-CscCecSmrl:::txtsize --> Glctetknpiitee:::txtsize
-Glctetknpiitee:::txtsize --> TsbchioUdetne:::txtsize
-Glctetknpiitee:::txtsize --> SPlteculshRt:::txtsize
+Kwmiseketpey:::txtsize --> Rarnksdpeue:::txtsize
+Rarnksdpeue:::txtsize --> UKisrlerr:::txtsize
+UKisrlerr:::txtsize --> Ulnaewniaark:::txtsize
+UKisrlerr:::txtsize --> Tstia:::txtsize
+Kwmiseketpey:::txtsize --> HwtgaetafliKoioa:::txtsize
+HwtgaetafliKoioa:::txtsize --> HwcsetaLrtpyn:::txtsize
+HwtgaetafliKoioa:::txtsize --> HwcsetaLrtpyn:::txtsize
 
 ```
-<i>Last updated: 2025-12-23 17:06:11.761999 (GMT+8)</i>
+<i>Last updated: 2025-12-23 20:00:43.296541 (GMT+8)</i>
 <!-- END -->
