@@ -16,99 +16,132 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Oremgnlcnmtt@{ shape: win-pane, label: "_Published Dec 23, 2025, 10:49 PM_
-Over 400 prominent women urge iran to halt execution of woman activist" }
-Iaerhtecelrsm@{ shape: win-pane, label: "_Published Dec 15, 2025, 04:59 PM_
-Iranian nobel laureate hospitalised twice after ‘violent arrest’, say family" }
-Ireezncsghdsr@{ shape: win-pane, label: "_Published Dec 12, 2025, 11:21 PM_
-Iran arrested nobel prize-winning activist narges mohammadi, say supporters" }
-Ibsitagrpasp@{ shape: win-pane, label: "_Published Dec 09, 2025, 08:55 PM_
-Iran objects to ‘pride match’ branding of world cup game against egypt" }
-IwsdetlofS@{ shape: win-pane, label: "_Published Dec 07, 2025, 05:41 PM_
-Iran awaits second plane of nationals deported from us" }
-RspdeeroerNsmin@{ shape: win-pane, label: "_Published Dec 13, 2025, 05:08 PM_
-Rights groups condemn reported re-arrest of nobel laureate narges mohammadi in iran" }
-Ireezncsghdsr@{ shape: win-pane, label: "_Published Dec 12, 2025, 11:21 PM_
-Iran arrested nobel prize-winning activist narges mohammadi, say supporters" }
-JditteaiNPP@{ shape: win-pane, label: "_Published Oct 06, 2023, 05:04 PM_
-Jailed iranian activist narges mohammadi wins 2023 nobel peace prize" }
-RspdeeroerNsmin@{ shape: win-pane, label: "_Published Dec 13, 2025, 05:08 PM_
-Rights groups condemn reported re-arrest of nobel laureate narges mohammadi in iran" }
-Ireezncsghdsr@{ shape: win-pane, label: "_Published Dec 12, 2025, 11:21 PM_
-Iran arrested nobel prize-winning activist narges mohammadi, say supporters" }
-Ibsitagrpasp@{ shape: win-pane, label: "_Published Dec 09, 2025, 08:55 PM_
-Iran objects to ‘pride match’ branding of world cup game against egypt" }
-IwsdetlofS@{ shape: win-pane, label: "_Published Dec 07, 2025, 05:41 PM_
-Iran awaits second plane of nationals deported from us" }
-JditteaiNPP@{ shape: win-pane, label: "_Published Oct 06, 2023, 05:04 PM_
-Jailed iranian activist narges mohammadi wins 2023 nobel peace prize" }
-JasaaPpsusraiecz@{ shape: win-pane, label: "_Published Oct 08, 2021, 05:13 PM_
-Journalists maria ressa from philippines and russia's dmitry muratov win 2021 nobel peace prize" }
-Itamnsntiagr@{ shape: win-pane, label: "_Published Sep 17, 2023, 01:26 AM_
-Iran stops family marking mahsa amini death anniversary: rights groups" }
+MeoEvpnuitily@{ shape: win-pane, label: "_Published Dec 24, 2025, 03:36 AM_
+60 minutes report on el salvador prison pops up online after being pulled by cbs" }
+Oyrurmpnsopro@{ shape: win-pane, label: "_Published Dec 23, 2025, 12:40 AM_
+Outcry after cbs pulls programme on prison that’s key to trump deportations" }
+TsoosSzolr@{ shape: win-pane, label: "_Published Apr 15, 2025, 03:12 PM_
+Trump says would ‘love’ to send us citizens to el salvador jail" }
+Uaaojldznmres@{ shape: win-pane, label: "_Published Mar 16, 2025, 04:16 AM_
+Us to pay el salvador $8m to jail 300 alleged venezuelan gang members, ap reports" }
+Uiceoromohlr@{ shape: win-pane, label: "_Published Apr 01, 2025, 02:01 AM_
+Us military completes ‘counter-terrorism mission’ with el salvador" }
+Afautvrras@{ shape: win-pane, label: "_Published Dec 19, 2025, 08:08 AM_
+As netflix, paramount battle over warner bros, what’s at stake?" }
+Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
+Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
+WrDvoeslrrn@{ shape: win-pane, label: "_Published Dec 17, 2025, 09:07 PM_
+Warner bros discovery board rejects rival bid from paramount" }
+HfefdmnsT@{ shape: win-pane, label: "_Published May 20, 2025, 07:57 AM_
+Head of cbs news is forced out amid tensions with trump" }
+TsBrlrteis@{ shape: win-pane, label: "_Published Nov 01, 2024, 05:40 AM_
+Trump sues cbs over kamala harris interview on 60 minutes" }
+PrstsencwohliIc@{ shape: win-pane, label: "_Published Nov 01, 2024, 07:00 AM_
+Pastors and secret codes: us election officials wage low-tech battle against ai robocalls" }
+Acwidnrltettd@{ shape: win-pane, label: "_Published Feb 21, 2025, 06:00 PM_
+America’s new enemies under donald trump: allies, the deep state and the media" }
 
-Oremgnlcnmtt:::txtsize --> Iaerhtecelrsm:::txtsize
-Iaerhtecelrsm:::txtsize --> Ireezncsghdsr:::txtsize
-Ireezncsghdsr:::txtsize --> Ibsitagrpasp:::txtsize
-Ireezncsghdsr:::txtsize --> IwsdetlofS:::txtsize
-Iaerhtecelrsm:::txtsize --> RspdeeroerNsmin:::txtsize
-RspdeeroerNsmin:::txtsize --> Ireezncsghdsr:::txtsize
-RspdeeroerNsmin:::txtsize --> JditteaiNPP:::txtsize
-Oremgnlcnmtt:::txtsize --> RspdeeroerNsmin:::txtsize
-RspdeeroerNsmin:::txtsize --> Ireezncsghdsr:::txtsize
-Ireezncsghdsr:::txtsize --> Ibsitagrpasp:::txtsize
-Ireezncsghdsr:::txtsize --> IwsdetlofS:::txtsize
-RspdeeroerNsmin:::txtsize --> JditteaiNPP:::txtsize
-JditteaiNPP:::txtsize --> JasaaPpsusraiecz:::txtsize
-JditteaiNPP:::txtsize --> Itamnsntiagr:::txtsize
+MeoEvpnuitily:::txtsize --> Oyrurmpnsopro:::txtsize
+Oyrurmpnsopro:::txtsize --> TsoosSzolr:::txtsize
+TsoosSzolr:::txtsize --> Uaaojldznmres:::txtsize
+TsoosSzolr:::txtsize --> Uiceoromohlr:::txtsize
+Oyrurmpnsopro:::txtsize --> Afautvrras:::txtsize
+Afautvrras:::txtsize --> Niunocydtiimh:::txtsize
+Afautvrras:::txtsize --> WrDvoeslrrn:::txtsize
+MeoEvpnuitily:::txtsize --> HfefdmnsT:::txtsize
+HfefdmnsT:::txtsize --> TsBrlrteis:::txtsize
+TsBrlrteis:::txtsize --> PrstsencwohliIc:::txtsize
+HfefdmnsT:::txtsize --> Acwidnrltettd:::txtsize
 
-Uletriresal@{ shape: win-pane, label: "_Published Dec 23, 2025, 10:44 PM_
-Us airlines expect record holiday travel even as airfares climb" }
-Ioiehiwarat@{ shape: win-pane, label: "_Published Dec 23, 2025, 02:45 PM_
-Indigo crisis reveals why india’s new air safety rules are vital" }
-Tgiiixssdvo@{ shape: win-pane, label: "_Published Dec 08, 2025, 10:35 AM_
-Too big to fail? indigo crisis exposes risks in indian aviation" }
-Iciesdrlsrtefd@{ shape: win-pane, label: "_Published Dec 06, 2025, 02:56 PM_
-India caps airline fares as indigo crisis leaves hundreds stranded for fifth day" }
-OiaIDlceoesnd@{ shape: win-pane, label: "_Published Jun 13, 2025, 05:08 AM_
-Over 240 killed as air india dreamliner crashes into college hostel in ahmedabad" }
-Iossatnair@{ shape: win-pane, label: "_Published Dec 13, 2025, 06:00 AM_
-Indigo chaos unmasks fragility of india’s aviation market" }
-CaIserIoei@{ shape: win-pane, label: "_Published Dec 04, 2025, 09:00 PM_
-Chaos after india’s biggest airline indigo cancels 1,200 flights" }
+Tapseptohi@{ shape: win-pane, label: "_Published Dec 24, 2025, 02:53 AM_
+Trump admin pushes for self-deportations over the holidays" }
+Uptdrgsepo@{ shape: win-pane, label: "_Published Dec 22, 2025, 10:15 PM_
+Us triples stipend offer to migrants who ‘self-deport’ to $3,900" }
+Taitfuoigcrvtyeth@{ shape: win-pane, label: "_Published Oct 04, 2025, 09:51 AM_
+Trump administration offers unaccompanied migrant children $3,200 to voluntarily leave us, letter shows" }
+Utanflfeeodtn@{ shape: win-pane, label: "_Published Jun 05, 2025, 02:26 AM_
+Us state department shifts $321 million from refugee aid to ‘self-deportations’" }
+Taitisgonfeuoigcr@{ shape: win-pane, label: "_Published Feb 23, 2025, 09:07 PM_
+Trump administration directs immigration agents to find, deport unaccompanied migrant children" }
+Taitaeseaa@{ shape: win-pane, label: "_Published Mar 10, 2025, 11:07 PM_
+Trump administration launches new ‘self-deportation’ app" }
+Ttcrtnsrfpn@{ shape: win-pane, label: "_Published Feb 26, 2025, 07:58 AM_
+Trump to force migrants to join registry or face fines, prison" }
+Taitisgonfeuoigcr@{ shape: win-pane, label: "_Published Feb 23, 2025, 09:07 PM_
+Trump administration directs immigration agents to find, deport unaccompanied migrant children" }
+UkatafueNes@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:58 PM_
+Us seeks to cancel thousands of asylum cases, cbs news reports" }
+TsSzsdiisne@{ shape: win-pane, label: "_Published Dec 01, 2025, 08:40 AM_
+Trump says us freeze on asylum decisions will last ‘a long time’" }
+Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
+2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
+AeiGakcmrgmtairgo@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:44 AM_
+Accused national guard attacker faces us murder charge; trump wants to halt ‘third world’ migration" }
+Pewsaiomgcd@{ shape: win-pane, label: "_Published Dec 22, 2025, 10:03 PM_
+Pope leo’s new us bishops are critics of trump’s migrant crackdown" }
+Pagtrgiiuc@{ shape: win-pane, label: "_Published Dec 22, 2025, 09:24 PM_
+Pope warns against power struggles in vatican bureaucracy" }
+Peeflnrshtcn@{ shape: win-pane, label: "_Published Dec 22, 2025, 06:29 PM_
+Pope leo urges joyful, welcoming church in speech to vatican cardinals" }
 
-Uletriresal:::txtsize --> Ioiehiwarat:::txtsize
-Ioiehiwarat:::txtsize --> Tgiiixssdvo:::txtsize
-Tgiiixssdvo:::txtsize --> Iciesdrlsrtefd:::txtsize
-Tgiiixssdvo:::txtsize --> OiaIDlceoesnd:::txtsize
-Ioiehiwarat:::txtsize --> Iossatnair:::txtsize
-Iossatnair:::txtsize --> CaIserIoei:::txtsize
+Tapseptohi:::txtsize --> Uptdrgsepo:::txtsize
+Uptdrgsepo:::txtsize --> Taitfuoigcrvtyeth:::txtsize
+Taitfuoigcrvtyeth:::txtsize --> Utanflfeeodtn:::txtsize
+Taitfuoigcrvtyeth:::txtsize --> Taitisgonfeuoigcr:::txtsize
+Uptdrgsepo:::txtsize --> Taitaeseaa:::txtsize
+Taitaeseaa:::txtsize --> Ttcrtnsrfpn:::txtsize
+Taitaeseaa:::txtsize --> Taitisgonfeuoigcr:::txtsize
+Tapseptohi:::txtsize --> UkatafueNes:::txtsize
+UkatafueNes:::txtsize --> TsSzsdiisne:::txtsize
+TsSzsdiisne:::txtsize --> Nnalsiydttteiu:::txtsize
+TsSzsdiisne:::txtsize --> AeiGakcmrgmtairgo:::txtsize
+UkatafueNes:::txtsize --> Pewsaiomgcd:::txtsize
+Pewsaiomgcd:::txtsize --> Pagtrgiiuc:::txtsize
+Pewsaiomgcd:::txtsize --> Peeflnrshtcn:::txtsize
 
-ApoersnCbxnbra@{ shape: win-pane, label: "_Published Dec 23, 2025, 10:31 PM_
-After power outage, san francisco wonders: can robot taxis handle a big earthquake?" }
-PrnoSaceeaa@{ shape: win-pane, label: "_Published Dec 21, 2025, 03:37 PM_
-Power returns to most of san francisco after widespread outage" }
-MpoeSac@{ shape: win-pane, label: "_Published Dec 21, 2025, 09:45 AM_
-Major power outage hits san francisco" }
-Oimrstphocipt@{ shape: win-pane, label: "_Published Mar 12, 2025, 05:15 AM_
-Ontario premier freezes plan to slap surcharge of electricity exports to us" }
-Taitnaiorntt@{ shape: win-pane, label: "_Published Mar 09, 2025, 01:20 PM_
-Trump administration ends iraq’s waiver to buy iranian electricity" }
-GntsycaeSackpmoi@{ shape: win-pane, label: "_Published Nov 14, 2023, 05:00 AM_
-Golden city tarnished by dirt, crime and needles: san francisco looks to apec summit for revival" }
-WpemteonhemSac@{ shape: win-pane, label: "_Published Nov 13, 2023, 06:00 PM_
-Will apec meet the moment? pm lee off to attend high-stakes summit in san francisco" }
-WpemteonhemSac@{ shape: win-pane, label: "_Published Nov 13, 2023, 06:00 PM_
-Will apec meet the moment? pm lee off to attend high-stakes summit in san francisco" }
+UnrwrotoSs@{ shape: win-pane, label: "_Published Dec 24, 2025, 01:33 AM_
+Ukrainian troops withdraw from eastern town of siversk" }
+Wreaanolari@{ shape: win-pane, label: "_Published Aug 13, 2025, 07:10 AM_
+Why surrendering a key eastern region would be hard for ukraine" }
+Tsitidpaorarern@{ shape: win-pane, label: "_Published Aug 12, 2025, 07:00 PM_
+Trump’s meeting with putin sends ripples far beyond ukraine and europe’s eastern flank" }
+Tatmnnk@{ shape: win-pane, label: "_Published Aug 09, 2025, 06:36 AM_
+Trump and putin to meet on aug 15 in alaska" }
+UnedutmiRaborr@{ shape: win-pane, label: "_Published Aug 13, 2025, 04:23 AM_
+Ukraine, sidelined in trump-putin summit, fights russian grab for more territory" }
+Unstiutposaa@{ shape: win-pane, label: "_Published Aug 12, 2025, 11:57 PM_
+Ukraine says fighting ‘difficult’ after reports of russia’s rapid gains" }
+WHsruegiiee@{ shape: win-pane, label: "_Published Aug 13, 2025, 02:18 AM_
+White house says trump-putin meeting is a ‘listening exercise’" }
+Unlyireitfttfr@{ shape: win-pane, label: "_Published Dec 12, 2025, 12:22 AM_
+Ukraine’s military says its forces remain in control of front-line town of siversk" }
+Unsltnoiabs@{ shape: win-pane, label: "_Published Dec 03, 2025, 12:53 AM_
+Ukraine says still fighting in pokrovsk, city claimed by russia" }
+UnlyiRaitsuiKn@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:19 AM_
+Ukraine’s military dismisses russia’s claim that it has captured city of kupyansk" }
+TstUnrssllu@{ shape: win-pane, label: "_Published Dec 02, 2025, 02:04 PM_
+Trump’s push to end ukraine war raises fears of ‘ugly deal’ for europe" }
+Unsinlmnalos@{ shape: win-pane, label: "_Published Dec 11, 2025, 01:17 AM_
+Ukraine says russia launches large mechanised assault in pokrovsk" }
+Eeadsaiuccmoc@{ shape: win-pane, label: "_Published Dec 11, 2025, 01:32 AM_
+European leaders discuss ukraine with trump at ‘critical moment’ for peace" }
+EseRaeciotrn@{ shape: win-pane, label: "_Published Dec 10, 2025, 01:42 AM_
+Eu close to deal on russian assets, dec 18 summit to go on until agreement" }
 
-ApoersnCbxnbra:::txtsize --> PrnoSaceeaa:::txtsize
-PrnoSaceeaa:::txtsize --> MpoeSac:::txtsize
-MpoeSac:::txtsize --> Oimrstphocipt:::txtsize
-MpoeSac:::txtsize --> Taitnaiorntt:::txtsize
-PrnoSaceeaa:::txtsize --> GntsycaeSackpmoi:::txtsize
-GntsycaeSackpmoi:::txtsize --> WpemteonhemSac:::txtsize
-GntsycaeSackpmoi:::txtsize --> WpemteonhemSac:::txtsize
+UnrwrotoSs:::txtsize --> Wreaanolari:::txtsize
+Wreaanolari:::txtsize --> Tsitidpaorarern:::txtsize
+Tsitidpaorarern:::txtsize --> Tatmnnk:::txtsize
+Wreaanolari:::txtsize --> UnedutmiRaborr:::txtsize
+UnedutmiRaborr:::txtsize --> Unstiutposaa:::txtsize
+UnedutmiRaborr:::txtsize --> WHsruegiiee:::txtsize
+UnrwrotoSs:::txtsize --> Unlyireitfttfr:::txtsize
+Unlyireitfttfr:::txtsize --> Unsltnoiabs:::txtsize
+Unsltnoiabs:::txtsize --> UnlyiRaitsuiKn:::txtsize
+Unsltnoiabs:::txtsize --> TstUnrssllu:::txtsize
+Unlyireitfttfr:::txtsize --> Unsinlmnalos:::txtsize
+Unsinlmnalos:::txtsize --> Eeadsaiuccmoc:::txtsize
+Unsinlmnalos:::txtsize --> EseRaeciotrn:::txtsize
 
 ```
-<i>Last updated: 2025-12-24 00:01:10.275357 (GMT+8)</i>
+<i>Last updated: 2025-12-24 04:00:42.599883 (GMT+8)</i>
 <!-- END -->
