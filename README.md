@@ -16,108 +16,129 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-TeeaodGstwe@{ shape: win-pane, label: "_Published Dec 23, 2025, 11:30 AM_
-Trapped under israeli bombardment, gazans fear the ‘new border’" }
-HsonsGrhscnii@{ shape: win-pane, label: "_Published Dec 09, 2025, 10:23 PM_
-Hamas says no second phase for gaza truce while israel ‘continues violations’" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
-Peace finally descends on the middle east: now the battle to make it last begins" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
-Peace finally descends on the middle east: now the battle to make it last begins" }
-TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
-Tears, joy in israel as hamas hands over first hostages" }
+TnnItekbeiaid@{ shape: win-pane, label: "_Published Dec 23, 2025, 02:50 PM_
+The pentagon and ai giants have a weakness – both need china’s batteries, badly" }
+Anatimashrn@{ shape: win-pane, label: "_Published Sep 13, 2025, 04:00 PM_
+As drones swarm battlefields, militaries seek cheaper defences" }
+Feuiea@{ shape: win-pane, label: "_Published Feb 24, 2023, 05:54 PM_
+Feb 24, 2022: the day russia invaded ukraine" }
+Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
+Timeline: how russia's attack on ukraine unfolded" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+PdRanunlheiertr@{ shape: win-pane, label: "_Published Sep 12, 2025, 08:30 PM_
+Poland says russian drone incursions could not have been a mistake, contradicting trump" }
+Zsgloirntlrni@{ shape: win-pane, label: "_Published Sep 11, 2025, 08:53 PM_
+Zelensky urges allies to rethink air defence after poland drone intrusion" }
+Pdraaaerd@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:12 PM_
+Poland restricts air traffic along eastern border" }
+Ctertonsasnmdrs@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:46 AM_
+China tightens rare earth export controls and targets defence, semiconductor users" }
+Whapira@{ shape: win-pane, label: "_Published Sep 14, 2025, 11:05 AM_
+Will the us catch up to china on rare earths?" }
+ChaUiipoleeh@{ shape: win-pane, label: "_Published Apr 05, 2025, 03:53 AM_
+China hits back at us tariffs with export controls on key rare earths" }
+Tpeoohunuserw@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:45 PM_
+Trump presses nato nations to halt russian oil purchases to end ukraine war" }
 
-TeeaodGstwe:::txtsize --> HsonsGrhscnii:::txtsize
-HsonsGrhscnii:::txtsize --> Tdrcaaededlncbs:::txtsize
-Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
-HsonsGrhscnii:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-TeeaodGstwe:::txtsize --> Tdrcaaededlncbs:::txtsize
-Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
-PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
+TnnItekbeiaid:::txtsize --> Anatimashrn:::txtsize
+Anatimashrn:::txtsize --> Feuiea:::txtsize
+Feuiea:::txtsize --> Tiwitnifd:::txtsize
+Feuiea:::txtsize --> DsruasvUn:::txtsize
+Anatimashrn:::txtsize --> PdRanunlheiertr:::txtsize
+PdRanunlheiertr:::txtsize --> Zsgloirntlrni:::txtsize
+PdRanunlheiertr:::txtsize --> Pdraaaerd:::txtsize
+TnnItekbeiaid:::txtsize --> Ctertonsasnmdrs:::txtsize
+Ctertonsasnmdrs:::txtsize --> Whapira:::txtsize
+Whapira:::txtsize --> ChaUiipoleeh:::txtsize
+Whapira:::txtsize --> Tpeoohunuserw:::txtsize
 
-WrrbieFioupyl@{ shape: win-pane, label: "_Published Dec 23, 2025, 11:25 AM_
-Waymo restarts robotaxis after san francisco power outage paralysed fleet" }
-PrnoSaceeaa@{ shape: win-pane, label: "_Published Dec 21, 2025, 03:37 PM_
-Power returns to most of san francisco after widespread outage" }
-MpoeSac@{ shape: win-pane, label: "_Published Dec 21, 2025, 09:45 AM_
-Major power outage hits san francisco" }
-Oimrstphocipt@{ shape: win-pane, label: "_Published Mar 12, 2025, 05:15 AM_
-Ontario premier freezes plan to slap surcharge of electricity exports to us" }
-Taitnaiorntt@{ shape: win-pane, label: "_Published Mar 09, 2025, 01:20 PM_
-Trump administration ends iraq’s waiver to buy iranian electricity" }
-GntsycaeSackpmoi@{ shape: win-pane, label: "_Published Nov 14, 2023, 05:00 AM_
-Golden city tarnished by dirt, crime and needles: san francisco looks to apec summit for revival" }
-WpemteonhemSac@{ shape: win-pane, label: "_Published Nov 13, 2023, 06:00 PM_
-Will apec meet the moment? pm lee off to attend high-stakes summit in san francisco" }
-WpemteonhemSac@{ shape: win-pane, label: "_Published Nov 13, 2023, 06:00 PM_
-Will apec meet the moment? pm lee off to attend high-stakes summit in san francisco" }
-Abaipdcssbiip@{ shape: win-pane, label: "_Published Jul 16, 2025, 07:14 AM_
-Alphabet's waymo picks up speed in us cities as tesla robotaxi service expands" }
-Tssaeoschel@{ shape: win-pane, label: "_Published Jun 23, 2025, 10:32 AM_
-Tesla starts long-awaited robotaxi service with low-key roll-out" }
-Testaaeru@{ shape: win-pane, label: "_Published Jun 22, 2025, 02:05 PM_
-Texas enacts robotaxi law ahead of tesla’s roll-out" }
-Csurapoiola@{ shape: win-pane, label: "_Published Jun 20, 2025, 12:06 AM_
-China’s baidu eyes robotaxi expansion to singapore, malaysia" }
-Uarhadesrgsoas@{ shape: win-pane, label: "_Published Jul 15, 2025, 10:17 PM_
-Uber partners with china’s baidu to deploy self-driving taxis in global markets" }
-Unscnobufelvtpa@{ shape: win-pane, label: "_Published Jun 27, 2025, 08:52 AM_
-Uber in talks with co-founder to help buy us unit of chinese self-driving start-up pony.ai" }
+MTdapsvtlryed@{ shape: win-pane, label: "_Published Dec 23, 2025, 01:06 PM_
+Meta’s threads to launch podcast previews that play directly in user feeds" }
+Vpscernto@{ shape: win-pane, label: "_Published Nov 14, 2025, 10:45 AM_
+Video podcasts become next streaming battleground" }
+Znaciippfiiirh@{ shape: win-pane, label: "_Published Nov 06, 2025, 01:25 AM_
+Zohran mamdani victory in us fires up europe’s left against right-wing surge at home" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+Trnsdouex@{ shape: win-pane, label: "_Published Jul 15, 2025, 07:55 AM_
+The streaming wars come down to 2: youtube v netflix" }
+Isenroeaw@{ shape: win-pane, label: "_Published Jun 01, 2023, 04:35 PM_
+India’s richest man enters the online streaming wars" }
+Vpscernto@{ shape: win-pane, label: "_Published Nov 14, 2025, 10:45 AM_
+Video podcasts become next streaming battleground" }
+Znaciippfiiirh@{ shape: win-pane, label: "_Published Nov 06, 2025, 01:25 AM_
+Zohran mamdani victory in us fires up europe’s left against right-wing surge at home" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+Trnsdouex@{ shape: win-pane, label: "_Published Jul 15, 2025, 07:55 AM_
+The streaming wars come down to 2: youtube v netflix" }
+Isenroeaw@{ shape: win-pane, label: "_Published Jun 01, 2023, 04:35 PM_
+India’s richest man enters the online streaming wars" }
 
-WrrbieFioupyl:::txtsize --> PrnoSaceeaa:::txtsize
-PrnoSaceeaa:::txtsize --> MpoeSac:::txtsize
-MpoeSac:::txtsize --> Oimrstphocipt:::txtsize
-MpoeSac:::txtsize --> Taitnaiorntt:::txtsize
-PrnoSaceeaa:::txtsize --> GntsycaeSackpmoi:::txtsize
-GntsycaeSackpmoi:::txtsize --> WpemteonhemSac:::txtsize
-GntsycaeSackpmoi:::txtsize --> WpemteonhemSac:::txtsize
-WrrbieFioupyl:::txtsize --> Abaipdcssbiip:::txtsize
-Abaipdcssbiip:::txtsize --> Tssaeoschel:::txtsize
-Tssaeoschel:::txtsize --> Testaaeru:::txtsize
-Tssaeoschel:::txtsize --> Csurapoiola:::txtsize
-Abaipdcssbiip:::txtsize --> Uarhadesrgsoas:::txtsize
-Uarhadesrgsoas:::txtsize --> Unscnobufelvtpa:::txtsize
+MTdapsvtlryed:::txtsize --> Vpscernto:::txtsize
+Vpscernto:::txtsize --> Znaciippfiiirh:::txtsize
+Znaciippfiiirh:::txtsize --> YMmnoihaiYilehpea:::txtsize
+Znaciippfiiirh:::txtsize --> YMmnoihaiYilehpea:::txtsize
+Vpscernto:::txtsize --> Trnsdouex:::txtsize
+Trnsdouex:::txtsize --> Isenroeaw:::txtsize
+MTdapsvtlryed:::txtsize --> Vpscernto:::txtsize
+Vpscernto:::txtsize --> Znaciippfiiirh:::txtsize
+Znaciippfiiirh:::txtsize --> YMmnoihaiYilehpea:::txtsize
+Znaciippfiiirh:::txtsize --> YMmnoihaiYilehpea:::txtsize
+Vpscernto:::txtsize --> Trnsdouex:::txtsize
+Trnsdouex:::txtsize --> Isenroeaw:::txtsize
 
-Oiltntskiohshr@{ shape: win-pane, label: "_Published Dec 23, 2025, 10:10 AM_
-Ozempic meals? restaurants in the us shrink portions to match bite-sized hunger" }
-Tochsmdn@{ shape: win-pane, label: "_Published Oct 29, 2024, 05:00 PM_
-The economics of thinness (ozempic edition)" }
-Oitwtwrbpcou@{ shape: win-pane, label: "_Published Jun 01, 2023, 04:00 PM_
-Ozempic touted as weight-loss ‘wonder’ drug, but experts caution its use" }
-UrfGlwtNok@{ shape: win-pane, label: "_Published Dec 23, 2025, 09:50 AM_
-Us approves first glp-1 pill for weight loss: novo nordisk" }
-TgfAhsrpestbie@{ shape: win-pane, label: "_Published Jun 21, 2025, 03:45 PM_
-The wegovy effect: a weight-loss drug reshapes the lives of us teens battling obesity" }
-Wycgsirlr@{ shape: win-pane, label: "_Published May 20, 2024, 05:00 PM_
-Wegovy is becoming too essential for its elite price" }
-WyspiogsgUt@{ shape: win-pane, label: "_Published Feb 16, 2024, 01:45 PM_
-Wegovy fuels sharp rise in use of weight-loss drugs for us youth" }
-TesomiuuSK@{ shape: win-pane, label: "_Published Dec 07, 2025, 04:10 PM_
-Thinness obsession prompts diet drug misuse in south korea" }
-Elailoowtnt@{ shape: win-pane, label: "_Published Nov 20, 2025, 08:37 PM_
-Eli lilly’s daily pill helps people lose 10% of weight in 18 months: study" }
+Tsyenrednoe@{ shape: win-pane, label: "_Published Dec 23, 2025, 12:41 PM_
+Trump sued by kennedy center trustee for adding name to venue" }
+TnCrdsdpsdnk@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:34 AM_
+The kennedy center board votes to add ‘trump’ to its name, drawing backlash" }
+TteeaohotvKdt@{ shape: win-pane, label: "_Published Feb 08, 2025, 09:30 AM_
+Trump to make himself head of top washington cultural venue kennedy centre" }
+TseoBsrln@{ shape: win-pane, label: "_Published Feb 08, 2025, 08:39 AM_
+Trump says he’s revoking biden’s security clearance" }
+Tseanccroytne@{ shape: win-pane, label: "_Published Feb 08, 2025, 01:34 AM_
+Trump says he will announce reciprocal tariffs on many countries next week" }
+Tperoneisioh@{ shape: win-pane, label: "_Published Mar 18, 2025, 12:15 PM_
+Trump pledges overhaul of kennedy centre in first visit as board chair" }
+Tosifanidofia@{ shape: win-pane, label: "_Published Mar 15, 2025, 02:30 PM_
+Trump orders gutting of 7 federal agencies, including voice of america’s parent" }
+TteeaohotvKdt@{ shape: win-pane, label: "_Published Feb 08, 2025, 09:30 AM_
+Trump to make himself head of top washington cultural venue kennedy centre" }
+Tsatnefeace@{ shape: win-pane, label: "_Published Dec 20, 2025, 08:59 AM_
+Trump’s name added to kennedy center facade, a day after change" }
+TnCrdsdpsdnk@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:34 AM_
+The kennedy center board votes to add ‘trump’ to its name, drawing backlash" }
+TteeaohotvKdt@{ shape: win-pane, label: "_Published Feb 08, 2025, 09:30 AM_
+Trump to make himself head of top washington cultural venue kennedy centre" }
+Tperoneisioh@{ shape: win-pane, label: "_Published Mar 18, 2025, 12:15 PM_
+Trump pledges overhaul of kennedy centre in first visit as board chair" }
+Niuaakpoidsu@{ shape: win-pane, label: "_Published Dec 18, 2025, 05:45 AM_
+New white house plaques attack trump’s democratic predecessors, bush" }
+TsoastneRrols@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:14 AM_
+Trump’s approval rating slips to 39%, economy weighs, reuters/ipsos poll finds" }
+Thcirlhffesiblr@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:34 AM_
+Trump has ‘alcoholic’s personality’, chief of staff susie wiles says in bombshell interview" }
 
-Oiltntskiohshr:::txtsize --> Tochsmdn:::txtsize
-Tochsmdn:::txtsize --> Oitwtwrbpcou:::txtsize
-Oiltntskiohshr:::txtsize --> UrfGlwtNok:::txtsize
-UrfGlwtNok:::txtsize --> TgfAhsrpestbie:::txtsize
-TgfAhsrpestbie:::txtsize --> Wycgsirlr:::txtsize
-TgfAhsrpestbie:::txtsize --> WyspiogsgUt:::txtsize
-UrfGlwtNok:::txtsize --> TesomiuuSK:::txtsize
-TesomiuuSK:::txtsize --> Elailoowtnt:::txtsize
+Tsyenrednoe:::txtsize --> TnCrdsdpsdnk:::txtsize
+TnCrdsdpsdnk:::txtsize --> TteeaohotvKdt:::txtsize
+TteeaohotvKdt:::txtsize --> TseoBsrln:::txtsize
+TteeaohotvKdt:::txtsize --> Tseanccroytne:::txtsize
+TnCrdsdpsdnk:::txtsize --> Tperoneisioh:::txtsize
+Tperoneisioh:::txtsize --> Tosifanidofia:::txtsize
+Tperoneisioh:::txtsize --> TteeaohotvKdt:::txtsize
+Tsyenrednoe:::txtsize --> Tsatnefeace:::txtsize
+Tsatnefeace:::txtsize --> TnCrdsdpsdnk:::txtsize
+TnCrdsdpsdnk:::txtsize --> TteeaohotvKdt:::txtsize
+TnCrdsdpsdnk:::txtsize --> Tperoneisioh:::txtsize
+Tsatnefeace:::txtsize --> Niuaakpoidsu:::txtsize
+Niuaakpoidsu:::txtsize --> TsoastneRrols:::txtsize
+Niuaakpoidsu:::txtsize --> Thcirlhffesiblr:::txtsize
 
 ```
-<i>Last updated: 2025-12-23 12:01:16.940079 (GMT+8)</i>
+<i>Last updated: 2025-12-23 16:00:45.467073 (GMT+8)</i>
 <!-- END -->
