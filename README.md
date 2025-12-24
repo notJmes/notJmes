@@ -16,6 +16,52 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+MCosbsysvt@{ shape: win-pane, label: "_Published Dec 24, 2025, 01:23 PM_
+Major california storm brings heavy rain, snow, evacuations" }
+Dtrslrsashewii@{ shape: win-pane, label: "_Published Jan 13, 2025, 08:05 PM_
+Death toll from los angeles fires rises to at least 24, with dangerous winds incoming" }
+Lgfdeeomllo@{ shape: win-pane, label: "_Published Jan 13, 2025, 06:37 AM_
+Los angeles fires deliver latest blow to embattled hollywood" }
+Bslleciiseesweg@{ shape: win-pane, label: "_Published Jan 11, 2025, 10:20 PM_
+Big los angeles wildfire switches direction, posing new threat despite winds easing" }
+PHngbeomLe@{ shape: win-pane, label: "_Published Jan 10, 2025, 05:37 AM_
+Paris hilton among celebrities to lose homes in la fires" }
+Wanslrtpeofi@{ shape: win-pane, label: "_Published Jan 13, 2025, 07:08 PM_
+With tacos and toys, angelenos rally to support neighbours after fires" }
+Dtrslrsashewii@{ shape: win-pane, label: "_Published Jan 13, 2025, 08:05 PM_
+Death toll from los angeles fires rises to at least 24, with dangerous winds incoming" }
+Tloelelfhr@{ shape: win-pane, label: "_Published Jan 13, 2025, 05:00 PM_
+The hollywood fires will cause harm long after they burn out" }
+TnruseaoeascNw@{ shape: win-pane, label: "_Published Dec 12, 2025, 09:53 AM_
+Torrential rains unleash widespread flooding, evacuations in pacific northwest" }
+UatwrmetpyiU@{ shape: win-pane, label: "_Published Dec 11, 2025, 12:45 PM_
+Unusually strong winter storms expected to drop heavy snow in the us" }
+ActsrrsUuec@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:00 AM_
+Arctic blast grips central, north-eastern us in sub-freezing cold" }
+NrysoleavwutEn@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:22 PM_
+New york city faces risk of airline delays as heavy snow hits upstate, new england" }
+ActsrrsUuec@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:00 AM_
+Arctic blast grips central, north-eastern us in sub-freezing cold" }
+NrysoleavwutEn@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:22 PM_
+New york city faces risk of airline delays as heavy snow hits upstate, new england" }
+Snswtsltio@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:00 AM_
+Season’s first snowfall throws seoul into traffic chaos" }
+
+MCosbsysvt:::txtsize --> Dtrslrsashewii:::txtsize
+Dtrslrsashewii:::txtsize --> Lgfdeeomllo:::txtsize
+Lgfdeeomllo:::txtsize --> Bslleciiseesweg:::txtsize
+Lgfdeeomllo:::txtsize --> PHngbeomLe:::txtsize
+Dtrslrsashewii:::txtsize --> Wanslrtpeofi:::txtsize
+Wanslrtpeofi:::txtsize --> Dtrslrsashewii:::txtsize
+Wanslrtpeofi:::txtsize --> Tloelelfhr:::txtsize
+MCosbsysvt:::txtsize --> TnruseaoeascNw:::txtsize
+TnruseaoeascNw:::txtsize --> UatwrmetpyiU:::txtsize
+UatwrmetpyiU:::txtsize --> ActsrrsUuec:::txtsize
+UatwrmetpyiU:::txtsize --> NrysoleavwutEn:::txtsize
+TnruseaoeascNw:::txtsize --> ActsrrsUuec:::txtsize
+ActsrrsUuec:::txtsize --> NrysoleavwutEn:::txtsize
+ActsrrsUuec:::txtsize --> Snswtsltio:::txtsize
+
 UgeusuagrHa@{ shape: win-pane, label: "_Published Dec 24, 2025, 11:12 AM_
 Us judge rejects business group’s challenge to trump’s $128,260 h-1b visa fee" }
 Tsiesuaa@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:08 AM_
@@ -108,52 +154,6 @@ CrcmeeiiTnas:::txtsize --> Csnilwecdidre:::txtsize
 Csnilwecdidre:::txtsize --> Ctdiriiesuiat:::txtsize
 Csnilwecdidre:::txtsize --> Csnsumasiaydot:::txtsize
 
-Ustltdtelgera@{ shape: win-pane, label: "_Published Dec 24, 2025, 09:43 AM_
-Us eyes additional coast guard assets to seize fleeing tanker, sources say" }
-Uettreeofay@{ shape: win-pane, label: "_Published Dec 21, 2025, 12:31 AM_
-Us intercepts oil tanker off venezuelan coast, officials say" }
-Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
-Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
-TenurneCbVuo@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:52 PM_
-Trump eyes anti-drug operations in mexico, colombia as venezuela looms" }
-VulScpifromlMo@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:49 AM_
-Venezuela slams us attack preparations after trump confirms call with maduro" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
-Us military says it carried out strikes on three vessels in eastern pacific" }
-Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
-Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
-Us military says it carried out strikes on three vessels in eastern pacific" }
-TsSbrltsurnama@{ shape: win-pane, label: "_Published Dec 13, 2025, 07:41 AM_
-Trump says us will be ‘starting’ land strikes on drug operations in latin america" }
-RararoVuMouaps@{ shape: win-pane, label: "_Published Dec 12, 2025, 01:23 AM_
-Russia, belarus leaders reach out to venezuela’s maduro, as trump cranks up pressure" }
-Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
-Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
-Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
-Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
-Upgirkfeasespncy@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:13 AM_
-Us preparing to seize more tankers off venezuela’s coast after first ship taken, sources say" }
-
-Ustltdtelgera:::txtsize --> Uettreeofay:::txtsize
-Uettreeofay:::txtsize --> Uzlecoeapageo:::txtsize
-Uzlecoeapageo:::txtsize --> TenurneCbVuo:::txtsize
-Uzlecoeapageo:::txtsize --> VulScpifromlMo:::txtsize
-Uettreeofay:::txtsize --> Toskftdasitgz:::txtsize
-Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
-Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
-Ustltdtelgera:::txtsize --> Toskftdasitgz:::txtsize
-Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
-Uistitktvlanf:::txtsize --> TsSbrltsurnama:::txtsize
-Uistitktvlanf:::txtsize --> RararoVuMouaps:::txtsize
-Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
-Uznenltrwtphoon:::txtsize --> Uzlecoeapageo:::txtsize
-Uznenltrwtphoon:::txtsize --> Upgirkfeasespncy:::txtsize
-
 ```
-<i>Last updated: 2025-12-24 12:00:37.703875 (GMT+8)</i>
+<i>Last updated: 2025-12-24 16:11:24.807835 (GMT+8)</i>
 <!-- END -->
