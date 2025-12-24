@@ -16,59 +16,109 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-MeoEvpnuitily@{ shape: win-pane, label: "_Published Dec 24, 2025, 03:36 AM_
-60 minutes report on el salvador prison pops up online after being pulled by cbs" }
-Oyrurmpnsopro@{ shape: win-pane, label: "_Published Dec 23, 2025, 12:40 AM_
-Outcry after cbs pulls programme on prison that’s key to trump deportations" }
-TsoosSzolr@{ shape: win-pane, label: "_Published Apr 15, 2025, 03:12 PM_
-Trump says would ‘love’ to send us citizens to el salvador jail" }
-Uaaojldznmres@{ shape: win-pane, label: "_Published Mar 16, 2025, 04:16 AM_
-Us to pay el salvador $8m to jail 300 alleged venezuelan gang members, ap reports" }
-Uiceoromohlr@{ shape: win-pane, label: "_Published Apr 01, 2025, 02:01 AM_
-Us military completes ‘counter-terrorism mission’ with el salvador" }
-Afautvrras@{ shape: win-pane, label: "_Published Dec 19, 2025, 08:08 AM_
-As netflix, paramount battle over warner bros, what’s at stake?" }
-Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
-Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
-WrDvoeslrrn@{ shape: win-pane, label: "_Published Dec 17, 2025, 09:07 PM_
-Warner bros discovery board rejects rival bid from paramount" }
-HfefdmnsT@{ shape: win-pane, label: "_Published May 20, 2025, 07:57 AM_
-Head of cbs news is forced out amid tensions with trump" }
-TsBrlrteis@{ shape: win-pane, label: "_Published Nov 01, 2024, 05:40 AM_
-Trump sues cbs over kamala harris interview on 60 minutes" }
-PrstsencwohliIc@{ shape: win-pane, label: "_Published Nov 01, 2024, 07:00 AM_
-Pastors and secret codes: us election officials wage low-tech battle against ai robocalls" }
-Acwidnrltettd@{ shape: win-pane, label: "_Published Feb 21, 2025, 06:00 PM_
-America’s new enemies under donald trump: allies, the deep state and the media" }
+EsirPyiso@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:39 AM_
+Explosion rips through pennsylvania nursing home" }
+Tsuuestilnc@{ shape: win-pane, label: "_Published Dec 23, 2025, 03:24 AM_
+Three seriously hurt in explosion at chemical plant in france" }
+Hiablnrnstne@{ shape: win-pane, label: "_Published Nov 15, 2025, 08:45 PM_
+Huge fire sparked by explosions near argentina’s capital ‘contained’" }
+Ivuerlrrt@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:03 AM_
+India vows justice after deadly ‘terror’ car blast" }
+ItlotltadSlcs@{ shape: win-pane, label: "_Published Nov 02, 2025, 11:43 AM_
+‘intentional’ explosion took place at harvard medical school, officials say" }
+Tlnrnlnsili@{ shape: win-pane, label: "_Published Oct 28, 2025, 10:15 AM_
+Two killed in underground explosion at australian silver mine" }
+Fonseigeaeoadt@{ shape: win-pane, label: "_Published Oct 06, 2025, 10:31 AM_
+Freeport confirms all seven missing workers dead after indonesia mine disaster" }
+Scialv@{ shape: win-pane, label: "_Published Mar 31, 2025, 07:46 PM_
+Spain coal mine blast kills five" }
+Cnaiiacugdiune@{ shape: win-pane, label: "_Published Nov 26, 2025, 12:29 AM_
+‘couldn’t see anything’: kyiv locals escape burning building hit by russian drone" }
+URaptiDaspK@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:03 PM_
+Us and russia hold peace talks in abu dhabi as missiles pound kyiv" }
+Rarnksdpeue@{ shape: win-pane, label: "_Published Nov 25, 2025, 04:43 PM_
+Russian barrage on kyiv kills seven, disrupts energy supplies" }
+TPdtsUncamre@{ shape: win-pane, label: "_Published Aug 16, 2025, 03:43 AM_
+Trump-putin direct talks over ukraine conclude as summit stretches on" }
+Rarnksdpeue@{ shape: win-pane, label: "_Published Nov 25, 2025, 04:43 PM_
+Russian barrage on kyiv kills seven, disrupts energy supplies" }
+UKisrlerr@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:43 PM_
+Us and kyiv discuss reworked plan to end war in ukraine" }
 
-MeoEvpnuitily:::txtsize --> Oyrurmpnsopro:::txtsize
-Oyrurmpnsopro:::txtsize --> TsoosSzolr:::txtsize
-TsoosSzolr:::txtsize --> Uaaojldznmres:::txtsize
-TsoosSzolr:::txtsize --> Uiceoromohlr:::txtsize
-Oyrurmpnsopro:::txtsize --> Afautvrras:::txtsize
-Afautvrras:::txtsize --> Niunocydtiimh:::txtsize
-Afautvrras:::txtsize --> WrDvoeslrrn:::txtsize
-MeoEvpnuitily:::txtsize --> HfefdmnsT:::txtsize
-HfefdmnsT:::txtsize --> TsBrlrteis:::txtsize
-TsBrlrteis:::txtsize --> PrstsencwohliIc:::txtsize
-HfefdmnsT:::txtsize --> Acwidnrltettd:::txtsize
+EsirPyiso:::txtsize --> Tsuuestilnc:::txtsize
+Tsuuestilnc:::txtsize --> Hiablnrnstne:::txtsize
+Hiablnrnstne:::txtsize --> Ivuerlrrt:::txtsize
+Hiablnrnstne:::txtsize --> ItlotltadSlcs:::txtsize
+Tsuuestilnc:::txtsize --> Tlnrnlnsili:::txtsize
+Tlnrnlnsili:::txtsize --> Fonseigeaeoadt:::txtsize
+Tlnrnlnsili:::txtsize --> Scialv:::txtsize
+EsirPyiso:::txtsize --> Cnaiiacugdiune:::txtsize
+Cnaiiacugdiune:::txtsize --> URaptiDaspK:::txtsize
+URaptiDaspK:::txtsize --> Rarnksdpeue:::txtsize
+URaptiDaspK:::txtsize --> TPdtsUncamre:::txtsize
+Cnaiiacugdiune:::txtsize --> Rarnksdpeue:::txtsize
+Rarnksdpeue:::txtsize --> UKisrlerr:::txtsize
 
-Tapseptohi@{ shape: win-pane, label: "_Published Dec 24, 2025, 02:53 AM_
-Trump admin pushes for self-deportations over the holidays" }
-Uptdrgsepo@{ shape: win-pane, label: "_Published Dec 22, 2025, 10:15 PM_
-Us triples stipend offer to migrants who ‘self-deport’ to $3,900" }
-Taitfuoigcrvtyeth@{ shape: win-pane, label: "_Published Oct 04, 2025, 09:51 AM_
-Trump administration offers unaccompanied migrant children $3,200 to voluntarily leave us, letter shows" }
-Utanflfeeodtn@{ shape: win-pane, label: "_Published Jun 05, 2025, 02:26 AM_
-Us state department shifts $321 million from refugee aid to ‘self-deportations’" }
-Taitisgonfeuoigcr@{ shape: win-pane, label: "_Published Feb 23, 2025, 09:07 PM_
-Trump administration directs immigration agents to find, deport unaccompanied migrant children" }
-Taitaeseaa@{ shape: win-pane, label: "_Published Mar 10, 2025, 11:07 PM_
-Trump administration launches new ‘self-deportation’ app" }
-Ttcrtnsrfpn@{ shape: win-pane, label: "_Published Feb 26, 2025, 07:58 AM_
-Trump to force migrants to join registry or face fines, prison" }
-Taitisgonfeuoigcr@{ shape: win-pane, label: "_Published Feb 23, 2025, 09:07 PM_
-Trump administration directs immigration agents to find, deport unaccompanied migrant children" }
+Ldreuoznrdtpsty@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:34 AM_
+Loaded supertanker returns to venezuelan waters amid us interceptions, monitor says" }
+Ustonenlis@{ shape: win-pane, label: "_Published Dec 21, 2025, 11:56 PM_
+Us pursuing third oil tanker near venezuela: officials" }
+Uettreeofay@{ shape: win-pane, label: "_Published Dec 21, 2025, 12:31 AM_
+Us intercepts oil tanker off venezuelan coast, officials say" }
+Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
+Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
+Us military says it carried out strikes on three vessels in eastern pacific" }
+Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
+Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
+OpnkreSVueguse@{ shape: win-pane, label: "_Published Dec 13, 2025, 01:23 AM_
+Oil supertanker skipper, seized by us near venezuela, heading to houston, sources say" }
+Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
+Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
+TenurneCbVuo@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:52 PM_
+Trump eyes anti-drug operations in mexico, colombia as venezuela looms" }
+VulScpifromlMo@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:49 AM_
+Venezuela slams us attack preparations after trump confirms call with maduro" }
+Upgirkfeasespncy@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:13 AM_
+Us preparing to seize more tankers off venezuela’s coast after first ship taken, sources say" }
+Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
+Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
+Voiriorrlisms@{ shape: win-pane, label: "_Published Dec 05, 2025, 01:36 AM_
+Video of us military strike shows survivors in ‘clear distress’, lawmaker says" }
+
+Ldreuoznrdtpsty:::txtsize --> Ustonenlis:::txtsize
+Ustonenlis:::txtsize --> Uettreeofay:::txtsize
+Uettreeofay:::txtsize --> Uzlecoeapageo:::txtsize
+Uettreeofay:::txtsize --> Toskftdasitgz:::txtsize
+Ustonenlis:::txtsize --> Toskftdasitgz:::txtsize
+Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
+Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
+Ldreuoznrdtpsty:::txtsize --> OpnkreSVueguse:::txtsize
+OpnkreSVueguse:::txtsize --> Uzlecoeapageo:::txtsize
+Uzlecoeapageo:::txtsize --> TenurneCbVuo:::txtsize
+Uzlecoeapageo:::txtsize --> VulScpifromlMo:::txtsize
+OpnkreSVueguse:::txtsize --> Upgirkfeasespncy:::txtsize
+Upgirkfeasespncy:::txtsize --> Uzlecoeapageo:::txtsize
+Upgirkfeasespncy:::txtsize --> Voiriorrlisms:::txtsize
+
+Ugsuagekgoaa@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:29 AM_
+Us judge tosses trump challenge to new york immigration-related law" }
+Irnipiditoayprol@{ shape: win-pane, label: "_Published Dec 11, 2025, 07:28 PM_
+Ice threatens family separation, indefinite detention to satisfy trump deportation goal" }
+TdragnfitirsPd@{ shape: win-pane, label: "_Published Jan 21, 2025, 01:02 AM_
+Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
+Tpsrmtioutv@{ shape: win-pane, label: "_Published Jan 20, 2025, 05:54 AM_
+Trump promises harsh immigration limits on inauguration eve" }
+TttSecaaxhue@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:40 AM_
+Trump threatens us trade policy of ‘tariff and tax’ on other countries" }
+Iermncnktngoe@{ shape: win-pane, label: "_Published Aug 27, 2025, 06:38 AM_
+Inside ice, trump’s migrant crackdown is taking a toll on the agency officers" }
+Iasccsidate@{ shape: win-pane, label: "_Published Jun 11, 2025, 06:23 AM_
+Ice’s tactics draw criticism as it triples daily arrest targets" }
 UkatafueNes@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:58 PM_
 Us seeks to cancel thousands of asylum cases, cbs news reports" }
 TsSzsdiisne@{ shape: win-pane, label: "_Published Dec 01, 2025, 08:40 AM_
@@ -84,14 +134,13 @@ Pope warns against power struggles in vatican bureaucracy" }
 Peeflnrshtcn@{ shape: win-pane, label: "_Published Dec 22, 2025, 06:29 PM_
 Pope leo urges joyful, welcoming church in speech to vatican cardinals" }
 
-Tapseptohi:::txtsize --> Uptdrgsepo:::txtsize
-Uptdrgsepo:::txtsize --> Taitfuoigcrvtyeth:::txtsize
-Taitfuoigcrvtyeth:::txtsize --> Utanflfeeodtn:::txtsize
-Taitfuoigcrvtyeth:::txtsize --> Taitisgonfeuoigcr:::txtsize
-Uptdrgsepo:::txtsize --> Taitaeseaa:::txtsize
-Taitaeseaa:::txtsize --> Ttcrtnsrfpn:::txtsize
-Taitaeseaa:::txtsize --> Taitisgonfeuoigcr:::txtsize
-Tapseptohi:::txtsize --> UkatafueNes:::txtsize
+Ugsuagekgoaa:::txtsize --> Irnipiditoayprol:::txtsize
+Irnipiditoayprol:::txtsize --> TdragnfitirsPd:::txtsize
+TdragnfitirsPd:::txtsize --> Tpsrmtioutv:::txtsize
+TdragnfitirsPd:::txtsize --> TttSecaaxhue:::txtsize
+Irnipiditoayprol:::txtsize --> Iermncnktngoe:::txtsize
+Iermncnktngoe:::txtsize --> Iasccsidate:::txtsize
+Ugsuagekgoaa:::txtsize --> UkatafueNes:::txtsize
 UkatafueNes:::txtsize --> TsSzsdiisne:::txtsize
 TsSzsdiisne:::txtsize --> Nnalsiydttteiu:::txtsize
 TsSzsdiisne:::txtsize --> AeiGakcmrgmtairgo:::txtsize
@@ -99,49 +148,6 @@ UkatafueNes:::txtsize --> Pewsaiomgcd:::txtsize
 Pewsaiomgcd:::txtsize --> Pagtrgiiuc:::txtsize
 Pewsaiomgcd:::txtsize --> Peeflnrshtcn:::txtsize
 
-UnrwrotoSs@{ shape: win-pane, label: "_Published Dec 24, 2025, 01:33 AM_
-Ukrainian troops withdraw from eastern town of siversk" }
-Wreaanolari@{ shape: win-pane, label: "_Published Aug 13, 2025, 07:10 AM_
-Why surrendering a key eastern region would be hard for ukraine" }
-Tsitidpaorarern@{ shape: win-pane, label: "_Published Aug 12, 2025, 07:00 PM_
-Trump’s meeting with putin sends ripples far beyond ukraine and europe’s eastern flank" }
-Tatmnnk@{ shape: win-pane, label: "_Published Aug 09, 2025, 06:36 AM_
-Trump and putin to meet on aug 15 in alaska" }
-UnedutmiRaborr@{ shape: win-pane, label: "_Published Aug 13, 2025, 04:23 AM_
-Ukraine, sidelined in trump-putin summit, fights russian grab for more territory" }
-Unstiutposaa@{ shape: win-pane, label: "_Published Aug 12, 2025, 11:57 PM_
-Ukraine says fighting ‘difficult’ after reports of russia’s rapid gains" }
-WHsruegiiee@{ shape: win-pane, label: "_Published Aug 13, 2025, 02:18 AM_
-White house says trump-putin meeting is a ‘listening exercise’" }
-Unlyireitfttfr@{ shape: win-pane, label: "_Published Dec 12, 2025, 12:22 AM_
-Ukraine’s military says its forces remain in control of front-line town of siversk" }
-Unsltnoiabs@{ shape: win-pane, label: "_Published Dec 03, 2025, 12:53 AM_
-Ukraine says still fighting in pokrovsk, city claimed by russia" }
-UnlyiRaitsuiKn@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:19 AM_
-Ukraine’s military dismisses russia’s claim that it has captured city of kupyansk" }
-TstUnrssllu@{ shape: win-pane, label: "_Published Dec 02, 2025, 02:04 PM_
-Trump’s push to end ukraine war raises fears of ‘ugly deal’ for europe" }
-Unsinlmnalos@{ shape: win-pane, label: "_Published Dec 11, 2025, 01:17 AM_
-Ukraine says russia launches large mechanised assault in pokrovsk" }
-Eeadsaiuccmoc@{ shape: win-pane, label: "_Published Dec 11, 2025, 01:32 AM_
-European leaders discuss ukraine with trump at ‘critical moment’ for peace" }
-EseRaeciotrn@{ shape: win-pane, label: "_Published Dec 10, 2025, 01:42 AM_
-Eu close to deal on russian assets, dec 18 summit to go on until agreement" }
-
-UnrwrotoSs:::txtsize --> Wreaanolari:::txtsize
-Wreaanolari:::txtsize --> Tsitidpaorarern:::txtsize
-Tsitidpaorarern:::txtsize --> Tatmnnk:::txtsize
-Wreaanolari:::txtsize --> UnedutmiRaborr:::txtsize
-UnedutmiRaborr:::txtsize --> Unstiutposaa:::txtsize
-UnedutmiRaborr:::txtsize --> WHsruegiiee:::txtsize
-UnrwrotoSs:::txtsize --> Unlyireitfttfr:::txtsize
-Unlyireitfttfr:::txtsize --> Unsltnoiabs:::txtsize
-Unsltnoiabs:::txtsize --> UnlyiRaitsuiKn:::txtsize
-Unsltnoiabs:::txtsize --> TstUnrssllu:::txtsize
-Unlyireitfttfr:::txtsize --> Unsinlmnalos:::txtsize
-Unsinlmnalos:::txtsize --> Eeadsaiuccmoc:::txtsize
-Unsinlmnalos:::txtsize --> EseRaeciotrn:::txtsize
-
 ```
-<i>Last updated: 2025-12-24 04:00:42.599883 (GMT+8)</i>
+<i>Last updated: 2025-12-24 08:01:10.678613 (GMT+8)</i>
 <!-- END -->
