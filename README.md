@@ -16,138 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-EsirPyiso@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:39 AM_
-Explosion rips through pennsylvania nursing home" }
-Tsuuestilnc@{ shape: win-pane, label: "_Published Dec 23, 2025, 03:24 AM_
-Three seriously hurt in explosion at chemical plant in france" }
-Hiablnrnstne@{ shape: win-pane, label: "_Published Nov 15, 2025, 08:45 PM_
-Huge fire sparked by explosions near argentina’s capital ‘contained’" }
-Ivuerlrrt@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:03 AM_
-India vows justice after deadly ‘terror’ car blast" }
-ItlotltadSlcs@{ shape: win-pane, label: "_Published Nov 02, 2025, 11:43 AM_
-‘intentional’ explosion took place at harvard medical school, officials say" }
-Tlnrnlnsili@{ shape: win-pane, label: "_Published Oct 28, 2025, 10:15 AM_
-Two killed in underground explosion at australian silver mine" }
-Fonseigeaeoadt@{ shape: win-pane, label: "_Published Oct 06, 2025, 10:31 AM_
-Freeport confirms all seven missing workers dead after indonesia mine disaster" }
-Scialv@{ shape: win-pane, label: "_Published Mar 31, 2025, 07:46 PM_
-Spain coal mine blast kills five" }
-Cnaiiacugdiune@{ shape: win-pane, label: "_Published Nov 26, 2025, 12:29 AM_
-‘couldn’t see anything’: kyiv locals escape burning building hit by russian drone" }
-URaptiDaspK@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:03 PM_
-Us and russia hold peace talks in abu dhabi as missiles pound kyiv" }
-Rarnksdpeue@{ shape: win-pane, label: "_Published Nov 25, 2025, 04:43 PM_
-Russian barrage on kyiv kills seven, disrupts energy supplies" }
-TPdtsUncamre@{ shape: win-pane, label: "_Published Aug 16, 2025, 03:43 AM_
-Trump-putin direct talks over ukraine conclude as summit stretches on" }
-Rarnksdpeue@{ shape: win-pane, label: "_Published Nov 25, 2025, 04:43 PM_
-Russian barrage on kyiv kills seven, disrupts energy supplies" }
-UKisrlerr@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:43 PM_
-Us and kyiv discuss reworked plan to end war in ukraine" }
+UgeusuagrHa@{ shape: win-pane, label: "_Published Dec 24, 2025, 11:12 AM_
+Us judge rejects business group’s challenge to trump’s $128,260 h-1b visa fee" }
+Tsiesuaa@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:08 AM_
+Trump’s us$100k visa fee spurs confusion and chaos" }
+TtoeBealt@{ shape: win-pane, label: "_Published Sep 20, 2025, 04:36 AM_
+Trump to impose $130,000 fee for h-1b worker visas in blow to tech" }
+Lissashrtfisal@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:12 AM_
+Lawsuit says musk’s tesla hires visa holders instead of americans so it can pay less" }
+SKaolvsbeuboen@{ shape: win-pane, label: "_Published Sep 19, 2025, 03:30 PM_
+South korea aims to resolve us visa issues before executing $450 billion investment" }
+UHaityigeiuy@{ shape: win-pane, label: "_Published Sep 21, 2025, 01:51 AM_
+Us’ new h-1b visa fee will not apply to existing holders, white house says" }
+TtoeBealt@{ shape: win-pane, label: "_Published Sep 20, 2025, 04:36 AM_
+Trump to impose $130,000 fee for h-1b worker visas in blow to tech" }
+Wuniiidv@{ shape: win-pane, label: "_Published Sep 20, 2025, 12:10 PM_
+Why trump’s inner circle is so divided on h-1b visas" }
+TsvewaleUt@{ shape: win-pane, label: "_Published Dec 13, 2025, 04:07 AM_
+Trump’s us$100,000 h-1b visa fee draws legal challenge from us states" }
+Wunceoi@{ shape: win-pane, label: "_Published Sep 21, 2025, 08:40 AM_
+Why trump wants to charge us$100k for h-1b visas" }
+UHaityigeiuy@{ shape: win-pane, label: "_Published Sep 21, 2025, 01:51 AM_
+Us’ new h-1b visa fee will not apply to existing holders, white house says" }
+TseBshsainsa@{ shape: win-pane, label: "_Published Sep 20, 2025, 11:33 PM_
+Trump’s us$100,000 fee for h-1b visas, a tech industry favourite, concerns india" }
+Coampoilweei@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:35 AM_
+‘come north!’ canada makes play for h-1b visa holders with new talent drive" }
+TaitrectfpnHa@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:25 AM_
+Trump administration orders enhanced vetting for applicants of h-1b visa" }
+TaitrectfpnHa@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:25 AM_
+Trump administration orders enhanced vetting for applicants of h-1b visa" }
 
-EsirPyiso:::txtsize --> Tsuuestilnc:::txtsize
-Tsuuestilnc:::txtsize --> Hiablnrnstne:::txtsize
-Hiablnrnstne:::txtsize --> Ivuerlrrt:::txtsize
-Hiablnrnstne:::txtsize --> ItlotltadSlcs:::txtsize
-Tsuuestilnc:::txtsize --> Tlnrnlnsili:::txtsize
-Tlnrnlnsili:::txtsize --> Fonseigeaeoadt:::txtsize
-Tlnrnlnsili:::txtsize --> Scialv:::txtsize
-EsirPyiso:::txtsize --> Cnaiiacugdiune:::txtsize
-Cnaiiacugdiune:::txtsize --> URaptiDaspK:::txtsize
-URaptiDaspK:::txtsize --> Rarnksdpeue:::txtsize
-URaptiDaspK:::txtsize --> TPdtsUncamre:::txtsize
-Cnaiiacugdiune:::txtsize --> Rarnksdpeue:::txtsize
-Rarnksdpeue:::txtsize --> UKisrlerr:::txtsize
+UgeusuagrHa:::txtsize --> Tsiesuaa:::txtsize
+Tsiesuaa:::txtsize --> TtoeBealt:::txtsize
+TtoeBealt:::txtsize --> Lissashrtfisal:::txtsize
+TtoeBealt:::txtsize --> SKaolvsbeuboen:::txtsize
+Tsiesuaa:::txtsize --> UHaityigeiuy:::txtsize
+UHaityigeiuy:::txtsize --> TtoeBealt:::txtsize
+UHaityigeiuy:::txtsize --> Wuniiidv:::txtsize
+UgeusuagrHa:::txtsize --> TsvewaleUt:::txtsize
+TsvewaleUt:::txtsize --> Wunceoi:::txtsize
+Wunceoi:::txtsize --> UHaityigeiuy:::txtsize
+Wunceoi:::txtsize --> TseBshsainsa:::txtsize
+TsvewaleUt:::txtsize --> Coampoilweei:::txtsize
+Coampoilweei:::txtsize --> TaitrectfpnHa:::txtsize
+Coampoilweei:::txtsize --> TaitrectfpnHa:::txtsize
 
-Ldreuoznrdtpsty@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:34 AM_
-Loaded supertanker returns to venezuelan waters amid us interceptions, monitor says" }
-Ustonenlis@{ shape: win-pane, label: "_Published Dec 21, 2025, 11:56 PM_
-Us pursuing third oil tanker near venezuela: officials" }
+Cstupslbnnr@{ shape: win-pane, label: "_Published Dec 24, 2025, 10:00 AM_
+China’s military build-up makes us vulnerable: pentagon report" }
+ClyeeIiodtrt@{ shape: win-pane, label: "_Published Dec 22, 2025, 10:33 PM_
+China likely loaded more than 100 icbms in silo fields, pentagon report says" }
+CrcmeeiiTnas@{ shape: win-pane, label: "_Published Dec 22, 2025, 07:54 PM_
+China replaces commanders overseeing beijing, taiwan operations" }
+Csairliwtdebi@{ shape: win-pane, label: "_Published Sep 04, 2025, 05:00 AM_
+China showcases military, diplomatic prowess at parade attended by putin, kim" }
+Csnilwecdidre@{ shape: win-pane, label: "_Published Jul 31, 2023, 11:07 PM_
+China’s xi jinping installs new rocket force leadership amid major purge" }
+JeSTcutsdiat@{ shape: win-pane, label: "_Published Dec 22, 2025, 11:40 AM_
+Japanese pm sanae takaichi’s support stays solid as china spat festers" }
+STcksaarminr@{ shape: win-pane, label: "_Published Oct 21, 2025, 12:50 PM_
+Sanae takaichi makes history as japan’s first woman prime minister" }
+Crtaahamnit@{ shape: win-pane, label: "_Published Dec 05, 2025, 09:50 AM_
+China rejects japan pm takaichi’s reaffirmation of taiwan stance" }
+CrcmeeiiTnas@{ shape: win-pane, label: "_Published Dec 22, 2025, 07:54 PM_
+China replaces commanders overseeing beijing, taiwan operations" }
+Csairliwtdebi@{ shape: win-pane, label: "_Published Sep 04, 2025, 05:00 AM_
+China showcases military, diplomatic prowess at parade attended by putin, kim" }
+RbebnrdsPatsaa@{ shape: win-pane, label: "_Published Sep 03, 2025, 09:15 PM_
+Remember the past, but don’t be trapped by it, says dpm gan as he attends china’s parade" }
+Hcstdsigaanoi@{ shape: win-pane, label: "_Published Sep 03, 2025, 07:49 PM_
+Hot mic picks up putin and xi discussing organ transplants and immortality" }
+Csnilwecdidre@{ shape: win-pane, label: "_Published Jul 31, 2023, 11:07 PM_
+China’s xi jinping installs new rocket force leadership amid major purge" }
+Ctdiriiesuiat@{ shape: win-pane, label: "_Published Jul 28, 2023, 06:10 PM_
+China to conduct military training in some areas in south china sea july 29 to aug 2" }
+Csnsumasiaydot@{ shape: win-pane, label: "_Published Jul 06, 2023, 08:30 PM_
+China’s xi jinping says during military inspection that army must ‘dare to fight’" }
+
+Cstupslbnnr:::txtsize --> ClyeeIiodtrt:::txtsize
+ClyeeIiodtrt:::txtsize --> CrcmeeiiTnas:::txtsize
+CrcmeeiiTnas:::txtsize --> Csairliwtdebi:::txtsize
+CrcmeeiiTnas:::txtsize --> Csnilwecdidre:::txtsize
+ClyeeIiodtrt:::txtsize --> JeSTcutsdiat:::txtsize
+JeSTcutsdiat:::txtsize --> STcksaarminr:::txtsize
+JeSTcutsdiat:::txtsize --> Crtaahamnit:::txtsize
+Cstupslbnnr:::txtsize --> CrcmeeiiTnas:::txtsize
+CrcmeeiiTnas:::txtsize --> Csairliwtdebi:::txtsize
+Csairliwtdebi:::txtsize --> RbebnrdsPatsaa:::txtsize
+Csairliwtdebi:::txtsize --> Hcstdsigaanoi:::txtsize
+CrcmeeiiTnas:::txtsize --> Csnilwecdidre:::txtsize
+Csnilwecdidre:::txtsize --> Ctdiriiesuiat:::txtsize
+Csnilwecdidre:::txtsize --> Csnsumasiaydot:::txtsize
+
+Ustltdtelgera@{ shape: win-pane, label: "_Published Dec 24, 2025, 09:43 AM_
+Us eyes additional coast guard assets to seize fleeing tanker, sources say" }
 Uettreeofay@{ shape: win-pane, label: "_Published Dec 21, 2025, 12:31 AM_
 Us intercepts oil tanker off venezuelan coast, officials say" }
-Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
-Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
-Us military says it carried out strikes on three vessels in eastern pacific" }
-Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
-Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
-OpnkreSVueguse@{ shape: win-pane, label: "_Published Dec 13, 2025, 01:23 AM_
-Oil supertanker skipper, seized by us near venezuela, heading to houston, sources say" }
 Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
 Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
 TenurneCbVuo@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:52 PM_
 Trump eyes anti-drug operations in mexico, colombia as venezuela looms" }
 VulScpifromlMo@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:49 AM_
 Venezuela slams us attack preparations after trump confirms call with maduro" }
-Upgirkfeasespncy@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:13 AM_
-Us preparing to seize more tankers off venezuela’s coast after first ship taken, sources say" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
+Us military says it carried out strikes on three vessels in eastern pacific" }
+Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
+Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
+Us military says it carried out strikes on three vessels in eastern pacific" }
+TsSbrltsurnama@{ shape: win-pane, label: "_Published Dec 13, 2025, 07:41 AM_
+Trump says us will be ‘starting’ land strikes on drug operations in latin america" }
+RararoVuMouaps@{ shape: win-pane, label: "_Published Dec 12, 2025, 01:23 AM_
+Russia, belarus leaders reach out to venezuela’s maduro, as trump cranks up pressure" }
+Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
+Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
 Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
 Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
-Voiriorrlisms@{ shape: win-pane, label: "_Published Dec 05, 2025, 01:36 AM_
-Video of us military strike shows survivors in ‘clear distress’, lawmaker says" }
+Upgirkfeasespncy@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:13 AM_
+Us preparing to seize more tankers off venezuela’s coast after first ship taken, sources say" }
 
-Ldreuoznrdtpsty:::txtsize --> Ustonenlis:::txtsize
-Ustonenlis:::txtsize --> Uettreeofay:::txtsize
+Ustltdtelgera:::txtsize --> Uettreeofay:::txtsize
 Uettreeofay:::txtsize --> Uzlecoeapageo:::txtsize
-Uettreeofay:::txtsize --> Toskftdasitgz:::txtsize
-Ustonenlis:::txtsize --> Toskftdasitgz:::txtsize
-Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
-Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
-Ldreuoznrdtpsty:::txtsize --> OpnkreSVueguse:::txtsize
-OpnkreSVueguse:::txtsize --> Uzlecoeapageo:::txtsize
 Uzlecoeapageo:::txtsize --> TenurneCbVuo:::txtsize
 Uzlecoeapageo:::txtsize --> VulScpifromlMo:::txtsize
-OpnkreSVueguse:::txtsize --> Upgirkfeasespncy:::txtsize
-Upgirkfeasespncy:::txtsize --> Uzlecoeapageo:::txtsize
-Upgirkfeasespncy:::txtsize --> Voiriorrlisms:::txtsize
-
-Ugsuagekgoaa@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:29 AM_
-Us judge tosses trump challenge to new york immigration-related law" }
-Irnipiditoayprol@{ shape: win-pane, label: "_Published Dec 11, 2025, 07:28 PM_
-Ice threatens family separation, indefinite detention to satisfy trump deportation goal" }
-TdragnfitirsPd@{ shape: win-pane, label: "_Published Jan 21, 2025, 01:02 AM_
-Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
-Tpsrmtioutv@{ shape: win-pane, label: "_Published Jan 20, 2025, 05:54 AM_
-Trump promises harsh immigration limits on inauguration eve" }
-TttSecaaxhue@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:40 AM_
-Trump threatens us trade policy of ‘tariff and tax’ on other countries" }
-Iermncnktngoe@{ shape: win-pane, label: "_Published Aug 27, 2025, 06:38 AM_
-Inside ice, trump’s migrant crackdown is taking a toll on the agency officers" }
-Iasccsidate@{ shape: win-pane, label: "_Published Jun 11, 2025, 06:23 AM_
-Ice’s tactics draw criticism as it triples daily arrest targets" }
-UkatafueNes@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:58 PM_
-Us seeks to cancel thousands of asylum cases, cbs news reports" }
-TsSzsdiisne@{ shape: win-pane, label: "_Published Dec 01, 2025, 08:40 AM_
-Trump says us freeze on asylum decisions will last ‘a long time’" }
-Nnalsiydttteiu@{ shape: win-pane, label: "_Published Nov 27, 2025, 04:33 AM_
-2 national guard soldiers critically wounded in ‘targeted’ attack near white house" }
-AeiGakcmrgmtairgo@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:44 AM_
-Accused national guard attacker faces us murder charge; trump wants to halt ‘third world’ migration" }
-Pewsaiomgcd@{ shape: win-pane, label: "_Published Dec 22, 2025, 10:03 PM_
-Pope leo’s new us bishops are critics of trump’s migrant crackdown" }
-Pagtrgiiuc@{ shape: win-pane, label: "_Published Dec 22, 2025, 09:24 PM_
-Pope warns against power struggles in vatican bureaucracy" }
-Peeflnrshtcn@{ shape: win-pane, label: "_Published Dec 22, 2025, 06:29 PM_
-Pope leo urges joyful, welcoming church in speech to vatican cardinals" }
-
-Ugsuagekgoaa:::txtsize --> Irnipiditoayprol:::txtsize
-Irnipiditoayprol:::txtsize --> TdragnfitirsPd:::txtsize
-TdragnfitirsPd:::txtsize --> Tpsrmtioutv:::txtsize
-TdragnfitirsPd:::txtsize --> TttSecaaxhue:::txtsize
-Irnipiditoayprol:::txtsize --> Iermncnktngoe:::txtsize
-Iermncnktngoe:::txtsize --> Iasccsidate:::txtsize
-Ugsuagekgoaa:::txtsize --> UkatafueNes:::txtsize
-UkatafueNes:::txtsize --> TsSzsdiisne:::txtsize
-TsSzsdiisne:::txtsize --> Nnalsiydttteiu:::txtsize
-TsSzsdiisne:::txtsize --> AeiGakcmrgmtairgo:::txtsize
-UkatafueNes:::txtsize --> Pewsaiomgcd:::txtsize
-Pewsaiomgcd:::txtsize --> Pagtrgiiuc:::txtsize
-Pewsaiomgcd:::txtsize --> Peeflnrshtcn:::txtsize
+Uettreeofay:::txtsize --> Toskftdasitgz:::txtsize
+Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
+Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
+Ustltdtelgera:::txtsize --> Toskftdasitgz:::txtsize
+Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
+Uistitktvlanf:::txtsize --> TsSbrltsurnama:::txtsize
+Uistitktvlanf:::txtsize --> RararoVuMouaps:::txtsize
+Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
+Uznenltrwtphoon:::txtsize --> Uzlecoeapageo:::txtsize
+Uznenltrwtphoon:::txtsize --> Upgirkfeasespncy:::txtsize
 
 ```
-<i>Last updated: 2025-12-24 08:01:10.678613 (GMT+8)</i>
+<i>Last updated: 2025-12-24 12:00:37.703875 (GMT+8)</i>
 <!-- END -->
