@@ -16,6 +16,52 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Evddaotmoi@{ shape: win-pane, label: "_Published Dec 24, 2025, 05:19 PM_
+El salvador defends mega-prison key to trump deportations" }
+MeoEvpnuitily@{ shape: win-pane, label: "_Published Dec 24, 2025, 03:36 AM_
+60 minutes report on el salvador prison pops up online after being pulled by cbs" }
+Oyrurmpnsopro@{ shape: win-pane, label: "_Published Dec 23, 2025, 12:40 AM_
+Outcry after cbs pulls programme on prison that’s key to trump deportations" }
+TsoosSzolr@{ shape: win-pane, label: "_Published Apr 15, 2025, 03:12 PM_
+Trump says would ‘love’ to send us citizens to el salvador jail" }
+Afautvrras@{ shape: win-pane, label: "_Published Dec 19, 2025, 08:08 AM_
+As netflix, paramount battle over warner bros, what’s at stake?" }
+HfefdmnsT@{ shape: win-pane, label: "_Published May 20, 2025, 07:57 AM_
+Head of cbs news is forced out amid tensions with trump" }
+TsBrlrteis@{ shape: win-pane, label: "_Published Nov 01, 2024, 05:40 AM_
+Trump sues cbs over kamala harris interview on 60 minutes" }
+Acwidnrltettd@{ shape: win-pane, label: "_Published Feb 21, 2025, 06:00 PM_
+America’s new enemies under donald trump: allies, the deep state and the media" }
+Oyrurmpnsopro@{ shape: win-pane, label: "_Published Dec 23, 2025, 12:40 AM_
+Outcry after cbs pulls programme on prison that’s key to trump deportations" }
+TsoosSzolr@{ shape: win-pane, label: "_Published Apr 15, 2025, 03:12 PM_
+Trump says would ‘love’ to send us citizens to el salvador jail" }
+Uaaojldznmres@{ shape: win-pane, label: "_Published Mar 16, 2025, 04:16 AM_
+Us to pay el salvador $8m to jail 300 alleged venezuelan gang members, ap reports" }
+Uiceoromohlr@{ shape: win-pane, label: "_Published Apr 01, 2025, 02:01 AM_
+Us military completes ‘counter-terrorism mission’ with el salvador" }
+Afautvrras@{ shape: win-pane, label: "_Published Dec 19, 2025, 08:08 AM_
+As netflix, paramount battle over warner bros, what’s at stake?" }
+Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
+Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
+WrDvoeslrrn@{ shape: win-pane, label: "_Published Dec 17, 2025, 09:07 PM_
+Warner bros discovery board rejects rival bid from paramount" }
+
+Evddaotmoi:::txtsize --> MeoEvpnuitily:::txtsize
+MeoEvpnuitily:::txtsize --> Oyrurmpnsopro:::txtsize
+Oyrurmpnsopro:::txtsize --> TsoosSzolr:::txtsize
+Oyrurmpnsopro:::txtsize --> Afautvrras:::txtsize
+MeoEvpnuitily:::txtsize --> HfefdmnsT:::txtsize
+HfefdmnsT:::txtsize --> TsBrlrteis:::txtsize
+HfefdmnsT:::txtsize --> Acwidnrltettd:::txtsize
+Evddaotmoi:::txtsize --> Oyrurmpnsopro:::txtsize
+Oyrurmpnsopro:::txtsize --> TsoosSzolr:::txtsize
+TsoosSzolr:::txtsize --> Uaaojldznmres:::txtsize
+TsoosSzolr:::txtsize --> Uiceoromohlr:::txtsize
+Oyrurmpnsopro:::txtsize --> Afautvrras:::txtsize
+Afautvrras:::txtsize --> Niunocydtiimh:::txtsize
+Afautvrras:::txtsize --> WrDvoeslrrn:::txtsize
+
 MCosbsysvt@{ shape: win-pane, label: "_Published Dec 24, 2025, 01:23 PM_
 Major california storm brings heavy rain, snow, evacuations" }
 Dtrslrsashewii@{ shape: win-pane, label: "_Published Jan 13, 2025, 08:05 PM_
@@ -108,52 +154,6 @@ TsvewaleUt:::txtsize --> Coampoilweei:::txtsize
 Coampoilweei:::txtsize --> TaitrectfpnHa:::txtsize
 Coampoilweei:::txtsize --> TaitrectfpnHa:::txtsize
 
-Cstupslbnnr@{ shape: win-pane, label: "_Published Dec 24, 2025, 10:00 AM_
-China’s military build-up makes us vulnerable: pentagon report" }
-ClyeeIiodtrt@{ shape: win-pane, label: "_Published Dec 22, 2025, 10:33 PM_
-China likely loaded more than 100 icbms in silo fields, pentagon report says" }
-CrcmeeiiTnas@{ shape: win-pane, label: "_Published Dec 22, 2025, 07:54 PM_
-China replaces commanders overseeing beijing, taiwan operations" }
-Csairliwtdebi@{ shape: win-pane, label: "_Published Sep 04, 2025, 05:00 AM_
-China showcases military, diplomatic prowess at parade attended by putin, kim" }
-Csnilwecdidre@{ shape: win-pane, label: "_Published Jul 31, 2023, 11:07 PM_
-China’s xi jinping installs new rocket force leadership amid major purge" }
-JeSTcutsdiat@{ shape: win-pane, label: "_Published Dec 22, 2025, 11:40 AM_
-Japanese pm sanae takaichi’s support stays solid as china spat festers" }
-STcksaarminr@{ shape: win-pane, label: "_Published Oct 21, 2025, 12:50 PM_
-Sanae takaichi makes history as japan’s first woman prime minister" }
-Crtaahamnit@{ shape: win-pane, label: "_Published Dec 05, 2025, 09:50 AM_
-China rejects japan pm takaichi’s reaffirmation of taiwan stance" }
-CrcmeeiiTnas@{ shape: win-pane, label: "_Published Dec 22, 2025, 07:54 PM_
-China replaces commanders overseeing beijing, taiwan operations" }
-Csairliwtdebi@{ shape: win-pane, label: "_Published Sep 04, 2025, 05:00 AM_
-China showcases military, diplomatic prowess at parade attended by putin, kim" }
-RbebnrdsPatsaa@{ shape: win-pane, label: "_Published Sep 03, 2025, 09:15 PM_
-Remember the past, but don’t be trapped by it, says dpm gan as he attends china’s parade" }
-Hcstdsigaanoi@{ shape: win-pane, label: "_Published Sep 03, 2025, 07:49 PM_
-Hot mic picks up putin and xi discussing organ transplants and immortality" }
-Csnilwecdidre@{ shape: win-pane, label: "_Published Jul 31, 2023, 11:07 PM_
-China’s xi jinping installs new rocket force leadership amid major purge" }
-Ctdiriiesuiat@{ shape: win-pane, label: "_Published Jul 28, 2023, 06:10 PM_
-China to conduct military training in some areas in south china sea july 29 to aug 2" }
-Csnsumasiaydot@{ shape: win-pane, label: "_Published Jul 06, 2023, 08:30 PM_
-China’s xi jinping says during military inspection that army must ‘dare to fight’" }
-
-Cstupslbnnr:::txtsize --> ClyeeIiodtrt:::txtsize
-ClyeeIiodtrt:::txtsize --> CrcmeeiiTnas:::txtsize
-CrcmeeiiTnas:::txtsize --> Csairliwtdebi:::txtsize
-CrcmeeiiTnas:::txtsize --> Csnilwecdidre:::txtsize
-ClyeeIiodtrt:::txtsize --> JeSTcutsdiat:::txtsize
-JeSTcutsdiat:::txtsize --> STcksaarminr:::txtsize
-JeSTcutsdiat:::txtsize --> Crtaahamnit:::txtsize
-Cstupslbnnr:::txtsize --> CrcmeeiiTnas:::txtsize
-CrcmeeiiTnas:::txtsize --> Csairliwtdebi:::txtsize
-Csairliwtdebi:::txtsize --> RbebnrdsPatsaa:::txtsize
-Csairliwtdebi:::txtsize --> Hcstdsigaanoi:::txtsize
-CrcmeeiiTnas:::txtsize --> Csnilwecdidre:::txtsize
-Csnilwecdidre:::txtsize --> Ctdiriiesuiat:::txtsize
-Csnilwecdidre:::txtsize --> Csnsumasiaydot:::txtsize
-
 ```
-<i>Last updated: 2025-12-24 16:11:40.961006 (GMT+8)</i>
+<i>Last updated: 2025-12-24 17:25:38.104354 (GMT+8)</i>
 <!-- END -->
