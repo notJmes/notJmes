@@ -16,22 +16,97 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Evddaotmoi@{ shape: win-pane, label: "_Published Dec 24, 2025, 05:19 PM_
-El salvador defends mega-prison key to trump deportations" }
-MeoEvpnuitily@{ shape: win-pane, label: "_Published Dec 24, 2025, 03:36 AM_
-60 minutes report on el salvador prison pops up online after being pulled by cbs" }
-Oyrurmpnsopro@{ shape: win-pane, label: "_Published Dec 23, 2025, 12:40 AM_
-Outcry after cbs pulls programme on prison that’s key to trump deportations" }
-TsoosSzolr@{ shape: win-pane, label: "_Published Apr 15, 2025, 03:12 PM_
-Trump says would ‘love’ to send us citizens to el salvador jail" }
-Afautvrras@{ shape: win-pane, label: "_Published Dec 19, 2025, 08:08 AM_
-As netflix, paramount battle over warner bros, what’s at stake?" }
-HfefdmnsT@{ shape: win-pane, label: "_Published May 20, 2025, 07:57 AM_
-Head of cbs news is forced out amid tensions with trump" }
-TsBrlrteis@{ shape: win-pane, label: "_Published Nov 01, 2024, 05:40 AM_
-Trump sues cbs over kamala harris interview on 60 minutes" }
-Acwidnrltettd@{ shape: win-pane, label: "_Published Feb 21, 2025, 06:00 PM_
-America’s new enemies under donald trump: allies, the deep state and the media" }
+Ililmnain@{ shape: win-pane, label: "_Published Dec 24, 2025, 07:14 PM_
+Israel says it killed hamas financial officer in gaza" }
+NyoddomonyO@{ shape: win-pane, label: "_Published Dec 23, 2025, 06:16 AM_
+Netanyahu vows independence of commission of inquiry into oct 7" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyomoodssRso@{ shape: win-pane, label: "_Published Dec 22, 2025, 09:33 PM_
+Netanyahu government moves to shut down israel’s army radio station" }
+IleieesvsaaSyc@{ shape: win-pane, label: "_Published Dec 22, 2025, 06:14 AM_
+Israeli foreign minister urges jews to move to israel a week after sydney attack" }
+Ilistanlfsansk@{ shape: win-pane, label: "_Published Dec 22, 2025, 07:23 PM_
+Israeli military says it is examining killing of palestinian teen in west bank" }
+Ilnnrtyzaho@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:54 PM_
+Israel defence minister vows to stay in gaza, establish outposts" }
+Gsrepmfsik@{ shape: win-pane, label: "_Published Dec 23, 2025, 04:52 PM_
+Gazans fear renewed displacement after israeli strikes" }
+TeeaodGstwe@{ shape: win-pane, label: "_Published Dec 23, 2025, 11:30 AM_
+Trapped under israeli bombardment, gazans fear the ‘new border’" }
+Uaoazrnioamm@{ shape: win-pane, label: "_Published Dec 18, 2025, 06:20 AM_
+Un and aid groups warn gaza operations at risk from israeli impediments" }
+TeeaodGstwe@{ shape: win-pane, label: "_Published Dec 23, 2025, 11:30 AM_
+Trapped under israeli bombardment, gazans fear the ‘new border’" }
+HsonsGrhscnii@{ shape: win-pane, label: "_Published Dec 09, 2025, 10:23 PM_
+Hamas says no second phase for gaza truce while israel ‘continues violations’" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+
+Ililmnain:::txtsize --> NyoddomonyO:::txtsize
+NyoddomonyO:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+NyoddomonyO:::txtsize --> NyomoodssRso:::txtsize
+NyomoodssRso:::txtsize --> IleieesvsaaSyc:::txtsize
+NyomoodssRso:::txtsize --> Ilistanlfsansk:::txtsize
+Ililmnain:::txtsize --> Ilnnrtyzaho:::txtsize
+Ilnnrtyzaho:::txtsize --> Gsrepmfsik:::txtsize
+Gsrepmfsik:::txtsize --> TeeaodGstwe:::txtsize
+Gsrepmfsik:::txtsize --> Uaoazrnioamm:::txtsize
+Ilnnrtyzaho:::txtsize --> TeeaodGstwe:::txtsize
+TeeaodGstwe:::txtsize --> HsonsGrhscnii:::txtsize
+TeeaodGstwe:::txtsize --> Tdrcaaededlncbs:::txtsize
+
+Hrhotciakxais@{ shape: win-pane, label: "_Published Dec 24, 2025, 05:24 PM_
+How israel’s hilltop settlers coordinate attacks to expel palestinians" }
+AkiaisniuWayioe@{ shape: win-pane, label: "_Published Jul 15, 2025, 05:19 PM_
+Attacks against palestinians intensify in occupied west bank, says un rights office" }
+Gcsiasskwfsaoie@{ shape: win-pane, label: "_Published Jul 09, 2025, 02:12 PM_
+‘ghost camp’: israeli operations in west bank push wave of palestinians from their homes" }
+WeIlrtsdseg@{ shape: win-pane, label: "_Published Jun 18, 2025, 05:00 AM_
+Why the iran-israel confrontation is a middle east game changer" }
+Gscmsepeehec@{ shape: win-pane, label: "_Published Jul 08, 2025, 11:02 PM_
+Gazans reject trump’s displacement plan despite death and destruction" }
+Attdhoennnwkdts@{ shape: win-pane, label: "_Published Jul 14, 2025, 05:09 AM_
+Anger turns towards washington in west bank town mourning two men killed by settlers" }
+Uiiitsea@{ shape: win-pane, label: "_Published Jul 13, 2025, 07:34 PM_
+Us citizen killed in west bank settler attack" }
+Iltorcet@{ shape: win-pane, label: "_Published Jun 30, 2025, 06:43 PM_
+Israelis attack soldiers in occupied west bank" }
+IluCerntenB@{ shape: win-pane, label: "_Published Dec 21, 2025, 06:29 PM_
+Israel’s security cabinet approves 19 new settlements in west bank" }
+IlausBemxiaePtne@{ shape: win-pane, label: "_Published Sep 12, 2025, 06:16 AM_
+Israel’s netanyahu signs west bank settlement expansion plan, rules out palestinian state" }
+Ilemahmaroais@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:27 PM_
+Israel targets hamas leadership in military strikes on qatar, officials say" }
+FhtoesatweIl@{ shape: win-pane, label: "_Published Jul 25, 2025, 05:49 AM_
+French plan to recognise palestinian state draws fire from israel, us" }
+ToTvswoet@{ shape: win-pane, label: "_Published Sep 26, 2025, 06:02 AM_
+‘time to stop’: trump vows israel will not annex west bank" }
+Rnnlntfnirmea@{ shape: win-pane, label: "_Published Sep 23, 2025, 04:52 PM_
+Recognition of palestinian state offers no relief for traumatised gazans" }
+
+Hrhotciakxais:::txtsize --> AkiaisniuWayioe:::txtsize
+AkiaisniuWayioe:::txtsize --> Gcsiasskwfsaoie:::txtsize
+Gcsiasskwfsaoie:::txtsize --> WeIlrtsdseg:::txtsize
+Gcsiasskwfsaoie:::txtsize --> Gscmsepeehec:::txtsize
+AkiaisniuWayioe:::txtsize --> Attdhoennnwkdts:::txtsize
+Attdhoennnwkdts:::txtsize --> Uiiitsea:::txtsize
+Attdhoennnwkdts:::txtsize --> Iltorcet:::txtsize
+Hrhotciakxais:::txtsize --> IluCerntenB:::txtsize
+IluCerntenB:::txtsize --> IlausBemxiaePtne:::txtsize
+IlausBemxiaePtne:::txtsize --> Ilemahmaroais:::txtsize
+IlausBemxiaePtne:::txtsize --> FhtoesatweIl:::txtsize
+IluCerntenB:::txtsize --> ToTvswoet:::txtsize
+ToTvswoet:::txtsize --> Rnnlntfnirmea:::txtsize
+
+Evddaotyupt@{ shape: win-pane, label: "_Published Dec 24, 2025, 05:19 PM_
+El salvador defends mega-prison that is key to trump deportations" }
 Oyrurmpnsopro@{ shape: win-pane, label: "_Published Dec 23, 2025, 12:40 AM_
 Outcry after cbs pulls programme on prison that’s key to trump deportations" }
 TsoosSzolr@{ shape: win-pane, label: "_Published Apr 15, 2025, 03:12 PM_
@@ -46,114 +121,36 @@ Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
 Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
 WrDvoeslrrn@{ shape: win-pane, label: "_Published Dec 17, 2025, 09:07 PM_
 Warner bros discovery board rejects rival bid from paramount" }
+MeoEvpnuitily@{ shape: win-pane, label: "_Published Dec 24, 2025, 03:36 AM_
+60 minutes report on el salvador prison pops up online after being pulled by cbs" }
+Oyrurmpnsopro@{ shape: win-pane, label: "_Published Dec 23, 2025, 12:40 AM_
+Outcry after cbs pulls programme on prison that’s key to trump deportations" }
+TsoosSzolr@{ shape: win-pane, label: "_Published Apr 15, 2025, 03:12 PM_
+Trump says would ‘love’ to send us citizens to el salvador jail" }
+Afautvrras@{ shape: win-pane, label: "_Published Dec 19, 2025, 08:08 AM_
+As netflix, paramount battle over warner bros, what’s at stake?" }
+HfefdmnsT@{ shape: win-pane, label: "_Published May 20, 2025, 07:57 AM_
+Head of cbs news is forced out amid tensions with trump" }
+TsBrlrteis@{ shape: win-pane, label: "_Published Nov 01, 2024, 05:40 AM_
+Trump sues cbs over kamala harris interview on 60 minutes" }
+Acwidnrltettd@{ shape: win-pane, label: "_Published Feb 21, 2025, 06:00 PM_
+America’s new enemies under donald trump: allies, the deep state and the media" }
 
-Evddaotmoi:::txtsize --> MeoEvpnuitily:::txtsize
-MeoEvpnuitily:::txtsize --> Oyrurmpnsopro:::txtsize
-Oyrurmpnsopro:::txtsize --> TsoosSzolr:::txtsize
-Oyrurmpnsopro:::txtsize --> Afautvrras:::txtsize
-MeoEvpnuitily:::txtsize --> HfefdmnsT:::txtsize
-HfefdmnsT:::txtsize --> TsBrlrteis:::txtsize
-HfefdmnsT:::txtsize --> Acwidnrltettd:::txtsize
-Evddaotmoi:::txtsize --> Oyrurmpnsopro:::txtsize
+Evddaotyupt:::txtsize --> Oyrurmpnsopro:::txtsize
 Oyrurmpnsopro:::txtsize --> TsoosSzolr:::txtsize
 TsoosSzolr:::txtsize --> Uaaojldznmres:::txtsize
 TsoosSzolr:::txtsize --> Uiceoromohlr:::txtsize
 Oyrurmpnsopro:::txtsize --> Afautvrras:::txtsize
 Afautvrras:::txtsize --> Niunocydtiimh:::txtsize
 Afautvrras:::txtsize --> WrDvoeslrrn:::txtsize
-
-MCosbsysvt@{ shape: win-pane, label: "_Published Dec 24, 2025, 01:23 PM_
-Major california storm brings heavy rain, snow, evacuations" }
-Dtrslrsashewii@{ shape: win-pane, label: "_Published Jan 13, 2025, 08:05 PM_
-Death toll from los angeles fires rises to at least 24, with dangerous winds incoming" }
-Lgfdeeomllo@{ shape: win-pane, label: "_Published Jan 13, 2025, 06:37 AM_
-Los angeles fires deliver latest blow to embattled hollywood" }
-Bslleciiseesweg@{ shape: win-pane, label: "_Published Jan 11, 2025, 10:20 PM_
-Big los angeles wildfire switches direction, posing new threat despite winds easing" }
-PHngbeomLe@{ shape: win-pane, label: "_Published Jan 10, 2025, 05:37 AM_
-Paris hilton among celebrities to lose homes in la fires" }
-Wanslrtpeofi@{ shape: win-pane, label: "_Published Jan 13, 2025, 07:08 PM_
-With tacos and toys, angelenos rally to support neighbours after fires" }
-Dtrslrsashewii@{ shape: win-pane, label: "_Published Jan 13, 2025, 08:05 PM_
-Death toll from los angeles fires rises to at least 24, with dangerous winds incoming" }
-Tloelelfhr@{ shape: win-pane, label: "_Published Jan 13, 2025, 05:00 PM_
-The hollywood fires will cause harm long after they burn out" }
-TnruseaoeascNw@{ shape: win-pane, label: "_Published Dec 12, 2025, 09:53 AM_
-Torrential rains unleash widespread flooding, evacuations in pacific northwest" }
-UatwrmetpyiU@{ shape: win-pane, label: "_Published Dec 11, 2025, 12:45 PM_
-Unusually strong winter storms expected to drop heavy snow in the us" }
-ActsrrsUuec@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:00 AM_
-Arctic blast grips central, north-eastern us in sub-freezing cold" }
-NrysoleavwutEn@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:22 PM_
-New york city faces risk of airline delays as heavy snow hits upstate, new england" }
-ActsrrsUuec@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:00 AM_
-Arctic blast grips central, north-eastern us in sub-freezing cold" }
-NrysoleavwutEn@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:22 PM_
-New york city faces risk of airline delays as heavy snow hits upstate, new england" }
-Snswtsltio@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:00 AM_
-Season’s first snowfall throws seoul into traffic chaos" }
-
-MCosbsysvt:::txtsize --> Dtrslrsashewii:::txtsize
-Dtrslrsashewii:::txtsize --> Lgfdeeomllo:::txtsize
-Lgfdeeomllo:::txtsize --> Bslleciiseesweg:::txtsize
-Lgfdeeomllo:::txtsize --> PHngbeomLe:::txtsize
-Dtrslrsashewii:::txtsize --> Wanslrtpeofi:::txtsize
-Wanslrtpeofi:::txtsize --> Dtrslrsashewii:::txtsize
-Wanslrtpeofi:::txtsize --> Tloelelfhr:::txtsize
-MCosbsysvt:::txtsize --> TnruseaoeascNw:::txtsize
-TnruseaoeascNw:::txtsize --> UatwrmetpyiU:::txtsize
-UatwrmetpyiU:::txtsize --> ActsrrsUuec:::txtsize
-UatwrmetpyiU:::txtsize --> NrysoleavwutEn:::txtsize
-TnruseaoeascNw:::txtsize --> ActsrrsUuec:::txtsize
-ActsrrsUuec:::txtsize --> NrysoleavwutEn:::txtsize
-ActsrrsUuec:::txtsize --> Snswtsltio:::txtsize
-
-UgeusuagrHa@{ shape: win-pane, label: "_Published Dec 24, 2025, 11:12 AM_
-Us judge rejects business group’s challenge to trump’s $128,260 h-1b visa fee" }
-Tsiesuaa@{ shape: win-pane, label: "_Published Sep 21, 2025, 09:08 AM_
-Trump’s us$100k visa fee spurs confusion and chaos" }
-TtoeBealt@{ shape: win-pane, label: "_Published Sep 20, 2025, 04:36 AM_
-Trump to impose $130,000 fee for h-1b worker visas in blow to tech" }
-Lissashrtfisal@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:12 AM_
-Lawsuit says musk’s tesla hires visa holders instead of americans so it can pay less" }
-SKaolvsbeuboen@{ shape: win-pane, label: "_Published Sep 19, 2025, 03:30 PM_
-South korea aims to resolve us visa issues before executing $450 billion investment" }
-UHaityigeiuy@{ shape: win-pane, label: "_Published Sep 21, 2025, 01:51 AM_
-Us’ new h-1b visa fee will not apply to existing holders, white house says" }
-TtoeBealt@{ shape: win-pane, label: "_Published Sep 20, 2025, 04:36 AM_
-Trump to impose $130,000 fee for h-1b worker visas in blow to tech" }
-Wuniiidv@{ shape: win-pane, label: "_Published Sep 20, 2025, 12:10 PM_
-Why trump’s inner circle is so divided on h-1b visas" }
-TsvewaleUt@{ shape: win-pane, label: "_Published Dec 13, 2025, 04:07 AM_
-Trump’s us$100,000 h-1b visa fee draws legal challenge from us states" }
-Wunceoi@{ shape: win-pane, label: "_Published Sep 21, 2025, 08:40 AM_
-Why trump wants to charge us$100k for h-1b visas" }
-UHaityigeiuy@{ shape: win-pane, label: "_Published Sep 21, 2025, 01:51 AM_
-Us’ new h-1b visa fee will not apply to existing holders, white house says" }
-TseBshsainsa@{ shape: win-pane, label: "_Published Sep 20, 2025, 11:33 PM_
-Trump’s us$100,000 fee for h-1b visas, a tech industry favourite, concerns india" }
-Coampoilweei@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:35 AM_
-‘come north!’ canada makes play for h-1b visa holders with new talent drive" }
-TaitrectfpnHa@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:25 AM_
-Trump administration orders enhanced vetting for applicants of h-1b visa" }
-TaitrectfpnHa@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:25 AM_
-Trump administration orders enhanced vetting for applicants of h-1b visa" }
-
-UgeusuagrHa:::txtsize --> Tsiesuaa:::txtsize
-Tsiesuaa:::txtsize --> TtoeBealt:::txtsize
-TtoeBealt:::txtsize --> Lissashrtfisal:::txtsize
-TtoeBealt:::txtsize --> SKaolvsbeuboen:::txtsize
-Tsiesuaa:::txtsize --> UHaityigeiuy:::txtsize
-UHaityigeiuy:::txtsize --> TtoeBealt:::txtsize
-UHaityigeiuy:::txtsize --> Wuniiidv:::txtsize
-UgeusuagrHa:::txtsize --> TsvewaleUt:::txtsize
-TsvewaleUt:::txtsize --> Wunceoi:::txtsize
-Wunceoi:::txtsize --> UHaityigeiuy:::txtsize
-Wunceoi:::txtsize --> TseBshsainsa:::txtsize
-TsvewaleUt:::txtsize --> Coampoilweei:::txtsize
-Coampoilweei:::txtsize --> TaitrectfpnHa:::txtsize
-Coampoilweei:::txtsize --> TaitrectfpnHa:::txtsize
+Evddaotyupt:::txtsize --> MeoEvpnuitily:::txtsize
+MeoEvpnuitily:::txtsize --> Oyrurmpnsopro:::txtsize
+Oyrurmpnsopro:::txtsize --> TsoosSzolr:::txtsize
+Oyrurmpnsopro:::txtsize --> Afautvrras:::txtsize
+MeoEvpnuitily:::txtsize --> HfefdmnsT:::txtsize
+HfefdmnsT:::txtsize --> TsBrlrteis:::txtsize
+HfefdmnsT:::txtsize --> Acwidnrltettd:::txtsize
 
 ```
-<i>Last updated: 2025-12-24 17:25:38.104354 (GMT+8)</i>
+<i>Last updated: 2025-12-24 20:01:04.538670 (GMT+8)</i>
 <!-- END -->
