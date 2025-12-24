@@ -16,22 +16,60 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ililmnain@{ shape: win-pane, label: "_Published Dec 24, 2025, 07:14 PM_
-Israel says it killed hamas financial officer in gaza" }
-NyoddomonyO@{ shape: win-pane, label: "_Published Dec 23, 2025, 06:16 AM_
-Netanyahu vows independence of commission of inquiry into oct 7" }
+Drrursssrlresa@{ shape: win-pane, label: "_Published Dec 24, 2025, 11:13 PM_
+Democrats urge trump to reverse mass ambassador recalls, warn of leadership vacuum" }
+TpeseFprstelr@{ shape: win-pane, label: "_Published Dec 23, 2025, 01:13 AM_
+Trump pulls 30 envoys in ‘america first’ push; critics say it weakens us leadership" }
+Siurymeoarnolu@{ shape: win-pane, label: "_Published Dec 06, 2025, 02:26 AM_
+Sweeping trump strategy document seeks to reframe us’ role in the world, slams europe" }
+Taitariisnaqitiia@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:21 AM_
+Trump administration says europe risks ‘civilisational erasure’, questions its reliability as ally" }
+TpeseFprstelr@{ shape: win-pane, label: "_Published Dec 23, 2025, 01:13 AM_
+Trump pulls 30 envoys in ‘america first’ push; critics say it weakens us leadership" }
+Siurymeoarnolu@{ shape: win-pane, label: "_Published Dec 06, 2025, 02:26 AM_
+Sweeping trump strategy document seeks to reframe us’ role in the world, slams europe" }
+Taitariisnaqitiia@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:21 AM_
+Trump administration says europe risks ‘civilisational erasure’, questions its reliability as ally" }
+
+Drrursssrlresa:::txtsize --> TpeseFprstelr:::txtsize
+TpeseFprstelr:::txtsize --> Siurymeoarnolu:::txtsize
+Siurymeoarnolu:::txtsize --> Taitariisnaqitiia:::txtsize
+Drrursssrlresa:::txtsize --> TpeseFprstelr:::txtsize
+TpeseFprstelr:::txtsize --> Siurymeoarnolu:::txtsize
+Siurymeoarnolu:::txtsize --> Taitariisnaqitiia:::txtsize
+
+Blresoisesr@{ shape: win-pane, label: "_Published Dec 24, 2025, 10:34 PM_
+Brazil’s imprisoned bolsonaro hospitalised ahead of surgery" }
+EstobdTlrsrgb@{ shape: win-pane, label: "_Published Nov 26, 2025, 12:29 PM_
+Ex-president bolsonaro behind bars: the fall of brazil’s polarising firebrand" }
+Blmensonfaislr@{ shape: win-pane, label: "_Published Nov 22, 2025, 06:19 PM_
+Brazil’s former president bolsonaro taken into federal police custody, lawyer says" }
+Blmensonfaislr@{ shape: win-pane, label: "_Published Nov 22, 2025, 06:19 PM_
+Brazil’s former president bolsonaro taken into federal police custody, lawyer says" }
+Blmensonfaislr@{ shape: win-pane, label: "_Published Nov 22, 2025, 06:19 PM_
+Brazil’s former president bolsonaro taken into federal police custody, lawyer says" }
+
+Blresoisesr:::txtsize --> EstobdTlrsrgb:::txtsize
+Blresoisesr:::txtsize --> Blmensonfaislr:::txtsize
+Blmensonfaislr:::txtsize --> Blmensonfaislr:::txtsize
+Blmensonfaislr:::txtsize --> Blmensonfaislr:::txtsize
+
+BeeaieessGa@{ shape: win-pane, label: "_Published Dec 24, 2025, 09:40 PM_
+Bethlehem celebrates first festive christmas since gaza war" }
+Behmeuftiar@{ shape: win-pane, label: "_Published Dec 07, 2025, 04:11 AM_
+Bethlehem christmas tree lit up for first time since gaza war" }
 NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
 Netanyahu declares israel at war as hamas attacks kill over 100" }
 WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
 Why gaza is epicentre of israeli-palestinian conflict" }
 Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
 World in shock after hamas surprise attacks on israel" }
-NyomoodssRso@{ shape: win-pane, label: "_Published Dec 22, 2025, 09:33 PM_
-Netanyahu government moves to shut down israel’s army radio station" }
-IleieesvsaaSyc@{ shape: win-pane, label: "_Published Dec 22, 2025, 06:14 AM_
-Israeli foreign minister urges jews to move to israel a week after sydney attack" }
-Ilistanlfsansk@{ shape: win-pane, label: "_Published Dec 22, 2025, 07:23 PM_
-Israeli military says it is examining killing of palestinian teen in west bank" }
+TafnemsHleikl@{ shape: win-pane, label: "_Published Nov 27, 2024, 02:56 AM_
+Thousands of lebanese head home as israel-hezbollah ceasefire takes hold" }
+IlocfheUktid@{ shape: win-pane, label: "_Published Nov 27, 2024, 05:28 AM_
+Israel-hezbollah ceasefire: what does the us-brokered truce include?" }
+PeLoseeaeao@{ shape: win-pane, label: "_Published Nov 26, 2024, 07:13 PM_
+Prospect of lebanon ceasefire leaves gazans feeling abandoned" }
 Ilnnrtyzaho@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:54 PM_
 Israel defence minister vows to stay in gaza, establish outposts" }
 Gsrepmfsik@{ shape: win-pane, label: "_Published Dec 23, 2025, 04:52 PM_
@@ -47,14 +85,14 @@ Hamas says no second phase for gaza truce while israel ‘continues violations�
 Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
 Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
 
-Ililmnain:::txtsize --> NyoddomonyO:::txtsize
-NyoddomonyO:::txtsize --> NyeeawHakl:::txtsize
+BeeaieessGa:::txtsize --> Behmeuftiar:::txtsize
+Behmeuftiar:::txtsize --> NyeeawHakl:::txtsize
 NyeeawHakl:::txtsize --> WzptIleint:::txtsize
 NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-NyoddomonyO:::txtsize --> NyomoodssRso:::txtsize
-NyomoodssRso:::txtsize --> IleieesvsaaSyc:::txtsize
-NyomoodssRso:::txtsize --> Ilistanlfsansk:::txtsize
-Ililmnain:::txtsize --> Ilnnrtyzaho:::txtsize
+Behmeuftiar:::txtsize --> TafnemsHleikl:::txtsize
+TafnemsHleikl:::txtsize --> IlocfheUktid:::txtsize
+TafnemsHleikl:::txtsize --> PeLoseeaeao:::txtsize
+BeeaieessGa:::txtsize --> Ilnnrtyzaho:::txtsize
 Ilnnrtyzaho:::txtsize --> Gsrepmfsik:::txtsize
 Gsrepmfsik:::txtsize --> TeeaodGstwe:::txtsize
 Gsrepmfsik:::txtsize --> Uaoazrnioamm:::txtsize
@@ -62,95 +100,6 @@ Ilnnrtyzaho:::txtsize --> TeeaodGstwe:::txtsize
 TeeaodGstwe:::txtsize --> HsonsGrhscnii:::txtsize
 TeeaodGstwe:::txtsize --> Tdrcaaededlncbs:::txtsize
 
-Hrhotciakxais@{ shape: win-pane, label: "_Published Dec 24, 2025, 05:24 PM_
-How israel’s hilltop settlers coordinate attacks to expel palestinians" }
-AkiaisniuWayioe@{ shape: win-pane, label: "_Published Jul 15, 2025, 05:19 PM_
-Attacks against palestinians intensify in occupied west bank, says un rights office" }
-Gcsiasskwfsaoie@{ shape: win-pane, label: "_Published Jul 09, 2025, 02:12 PM_
-‘ghost camp’: israeli operations in west bank push wave of palestinians from their homes" }
-WeIlrtsdseg@{ shape: win-pane, label: "_Published Jun 18, 2025, 05:00 AM_
-Why the iran-israel confrontation is a middle east game changer" }
-Gscmsepeehec@{ shape: win-pane, label: "_Published Jul 08, 2025, 11:02 PM_
-Gazans reject trump’s displacement plan despite death and destruction" }
-Attdhoennnwkdts@{ shape: win-pane, label: "_Published Jul 14, 2025, 05:09 AM_
-Anger turns towards washington in west bank town mourning two men killed by settlers" }
-Uiiitsea@{ shape: win-pane, label: "_Published Jul 13, 2025, 07:34 PM_
-Us citizen killed in west bank settler attack" }
-Iltorcet@{ shape: win-pane, label: "_Published Jun 30, 2025, 06:43 PM_
-Israelis attack soldiers in occupied west bank" }
-IluCerntenB@{ shape: win-pane, label: "_Published Dec 21, 2025, 06:29 PM_
-Israel’s security cabinet approves 19 new settlements in west bank" }
-IlausBemxiaePtne@{ shape: win-pane, label: "_Published Sep 12, 2025, 06:16 AM_
-Israel’s netanyahu signs west bank settlement expansion plan, rules out palestinian state" }
-Ilemahmaroais@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:27 PM_
-Israel targets hamas leadership in military strikes on qatar, officials say" }
-FhtoesatweIl@{ shape: win-pane, label: "_Published Jul 25, 2025, 05:49 AM_
-French plan to recognise palestinian state draws fire from israel, us" }
-ToTvswoet@{ shape: win-pane, label: "_Published Sep 26, 2025, 06:02 AM_
-‘time to stop’: trump vows israel will not annex west bank" }
-Rnnlntfnirmea@{ shape: win-pane, label: "_Published Sep 23, 2025, 04:52 PM_
-Recognition of palestinian state offers no relief for traumatised gazans" }
-
-Hrhotciakxais:::txtsize --> AkiaisniuWayioe:::txtsize
-AkiaisniuWayioe:::txtsize --> Gcsiasskwfsaoie:::txtsize
-Gcsiasskwfsaoie:::txtsize --> WeIlrtsdseg:::txtsize
-Gcsiasskwfsaoie:::txtsize --> Gscmsepeehec:::txtsize
-AkiaisniuWayioe:::txtsize --> Attdhoennnwkdts:::txtsize
-Attdhoennnwkdts:::txtsize --> Uiiitsea:::txtsize
-Attdhoennnwkdts:::txtsize --> Iltorcet:::txtsize
-Hrhotciakxais:::txtsize --> IluCerntenB:::txtsize
-IluCerntenB:::txtsize --> IlausBemxiaePtne:::txtsize
-IlausBemxiaePtne:::txtsize --> Ilemahmaroais:::txtsize
-IlausBemxiaePtne:::txtsize --> FhtoesatweIl:::txtsize
-IluCerntenB:::txtsize --> ToTvswoet:::txtsize
-ToTvswoet:::txtsize --> Rnnlntfnirmea:::txtsize
-
-Evddaotyupt@{ shape: win-pane, label: "_Published Dec 24, 2025, 05:19 PM_
-El salvador defends mega-prison that is key to trump deportations" }
-Oyrurmpnsopro@{ shape: win-pane, label: "_Published Dec 23, 2025, 12:40 AM_
-Outcry after cbs pulls programme on prison that’s key to trump deportations" }
-TsoosSzolr@{ shape: win-pane, label: "_Published Apr 15, 2025, 03:12 PM_
-Trump says would ‘love’ to send us citizens to el salvador jail" }
-Uaaojldznmres@{ shape: win-pane, label: "_Published Mar 16, 2025, 04:16 AM_
-Us to pay el salvador $8m to jail 300 alleged venezuelan gang members, ap reports" }
-Uiceoromohlr@{ shape: win-pane, label: "_Published Apr 01, 2025, 02:01 AM_
-Us military completes ‘counter-terrorism mission’ with el salvador" }
-Afautvrras@{ shape: win-pane, label: "_Published Dec 19, 2025, 08:08 AM_
-As netflix, paramount battle over warner bros, what’s at stake?" }
-Niunocydtiimh@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 PM_
-Netflix to buy warner bros discovery’s studios, streaming unit for more than $93b" }
-WrDvoeslrrn@{ shape: win-pane, label: "_Published Dec 17, 2025, 09:07 PM_
-Warner bros discovery board rejects rival bid from paramount" }
-MeoEvpnuitily@{ shape: win-pane, label: "_Published Dec 24, 2025, 03:36 AM_
-60 minutes report on el salvador prison pops up online after being pulled by cbs" }
-Oyrurmpnsopro@{ shape: win-pane, label: "_Published Dec 23, 2025, 12:40 AM_
-Outcry after cbs pulls programme on prison that’s key to trump deportations" }
-TsoosSzolr@{ shape: win-pane, label: "_Published Apr 15, 2025, 03:12 PM_
-Trump says would ‘love’ to send us citizens to el salvador jail" }
-Afautvrras@{ shape: win-pane, label: "_Published Dec 19, 2025, 08:08 AM_
-As netflix, paramount battle over warner bros, what’s at stake?" }
-HfefdmnsT@{ shape: win-pane, label: "_Published May 20, 2025, 07:57 AM_
-Head of cbs news is forced out amid tensions with trump" }
-TsBrlrteis@{ shape: win-pane, label: "_Published Nov 01, 2024, 05:40 AM_
-Trump sues cbs over kamala harris interview on 60 minutes" }
-Acwidnrltettd@{ shape: win-pane, label: "_Published Feb 21, 2025, 06:00 PM_
-America’s new enemies under donald trump: allies, the deep state and the media" }
-
-Evddaotyupt:::txtsize --> Oyrurmpnsopro:::txtsize
-Oyrurmpnsopro:::txtsize --> TsoosSzolr:::txtsize
-TsoosSzolr:::txtsize --> Uaaojldznmres:::txtsize
-TsoosSzolr:::txtsize --> Uiceoromohlr:::txtsize
-Oyrurmpnsopro:::txtsize --> Afautvrras:::txtsize
-Afautvrras:::txtsize --> Niunocydtiimh:::txtsize
-Afautvrras:::txtsize --> WrDvoeslrrn:::txtsize
-Evddaotyupt:::txtsize --> MeoEvpnuitily:::txtsize
-MeoEvpnuitily:::txtsize --> Oyrurmpnsopro:::txtsize
-Oyrurmpnsopro:::txtsize --> TsoosSzolr:::txtsize
-Oyrurmpnsopro:::txtsize --> Afautvrras:::txtsize
-MeoEvpnuitily:::txtsize --> HfefdmnsT:::txtsize
-HfefdmnsT:::txtsize --> TsBrlrteis:::txtsize
-HfefdmnsT:::txtsize --> Acwidnrltettd:::txtsize
-
 ```
-<i>Last updated: 2025-12-24 20:01:04.538670 (GMT+8)</i>
+<i>Last updated: 2025-12-25 00:00:24.941357 (GMT+8)</i>
 <!-- END -->
