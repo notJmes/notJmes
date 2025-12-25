@@ -16,8 +16,54 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-KdtrajoteaTsa@{ shape: win-pane, label: "_Published Dec 25, 2025, 11:47 AM_
-Kennedy center christmas eve jazz concert cancelled after trump’s name added" }
+Hocozstmrletuiy@{ shape: win-pane, label: "_Published Dec 25, 2025, 02:58 PM_
+Helicopter crash on tanzania’s mount kilimanjaro kills five, aviation authority says" }
+UeniateWnDcs@{ shape: win-pane, label: "_Published Dec 18, 2025, 08:55 AM_
+Us government admits liability in deadly washington dc air collision" }
+Uycraagrahle@{ shape: win-pane, label: "_Published Aug 02, 2025, 09:40 AM_
+Us army helicopter in deadly washington crash had technical issues" }
+Nvspaltloag@{ shape: win-pane, label: "_Published Jan 30, 2025, 09:10 PM_
+No survivors from plane and helicopter collision in washington" }
+Tusgtnjanoevnrr@{ shape: win-pane, label: "_Published Jul 26, 2025, 07:49 AM_
+Two southwest flight attendants injured as plane manoeuvres to avoid another aircraft" }
+Nvspaltloag@{ shape: win-pane, label: "_Published Jan 30, 2025, 09:10 PM_
+No survivors from plane and helicopter collision in washington" }
+Medfmaljltlaathoe@{ shape: win-pane, label: "_Published Jan 30, 2025, 11:14 AM_
+Many feared dead after american airlines jet, helicopter collide and crash into washington river" }
+Medfmaljltlaathoe@{ shape: win-pane, label: "_Published Jan 30, 2025, 11:14 AM_
+Many feared dead after american airlines jet, helicopter collide and crash into washington river" }
+Tsipceeaaso@{ shape: win-pane, label: "_Published Nov 11, 2025, 10:06 PM_
+Turkish military plane crashes in georgia with at least 20 on board" }
+Citoncemlrhltt@{ shape: win-pane, label: "_Published Nov 06, 2025, 12:15 AM_
+Crash investigators find ‘black boxes’ from ups plane crash that killed at least 12" }
+Asedrlrsnytooe@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:32 AM_
+At least seven dead after ups plane crashes in kentucky, erupts into ball of fire" }
+Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
+Us government shutdown becomes longest in history" }
+Kneyuidarceade@{ shape: win-pane, label: "_Published Oct 28, 2025, 07:30 PM_
+Kenyan plane carrying hungarian and german tourists crashes, all 11 aboard killed" }
+Cpssuigknarf@{ shape: win-pane, label: "_Published Oct 20, 2025, 06:53 AM_
+Cargo plane slides off runway in hong kong, killing two airport staff" }
+Troisnnr@{ shape: win-pane, label: "_Published Jun 12, 2025, 09:39 PM_
+The world’s worst air crashes in recent years" }
+
+Hocozstmrletuiy:::txtsize --> UeniateWnDcs:::txtsize
+UeniateWnDcs:::txtsize --> Uycraagrahle:::txtsize
+Uycraagrahle:::txtsize --> Nvspaltloag:::txtsize
+Uycraagrahle:::txtsize --> Tusgtnjanoevnrr:::txtsize
+UeniateWnDcs:::txtsize --> Nvspaltloag:::txtsize
+Nvspaltloag:::txtsize --> Medfmaljltlaathoe:::txtsize
+Nvspaltloag:::txtsize --> Medfmaljltlaathoe:::txtsize
+Hocozstmrletuiy:::txtsize --> Tsipceeaaso:::txtsize
+Tsipceeaaso:::txtsize --> Citoncemlrhltt:::txtsize
+Citoncemlrhltt:::txtsize --> Asedrlrsnytooe:::txtsize
+Citoncemlrhltt:::txtsize --> Uentbegno:::txtsize
+Tsipceeaaso:::txtsize --> Kneyuidarceade:::txtsize
+Kneyuidarceade:::txtsize --> Cpssuigknarf:::txtsize
+Kneyuidarceade:::txtsize --> Troisnnr:::txtsize
+
+Kdtrajoteneemme@{ shape: win-pane, label: "_Published Dec 25, 2025, 11:47 AM_
+Kennedy center christmas eve jazz concert in the us cancelled after trump’s name added" }
 Tsyenrednoe@{ shape: win-pane, label: "_Published Dec 23, 2025, 12:41 PM_
 Trump sued by kennedy center trustee for adding name to venue" }
 TnCrdsdpsdnk@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:34 AM_
@@ -47,14 +93,14 @@ The kennedy center board votes to add ‘trump’ to its name, drawing backlash"
 Niuaakpoidsu@{ shape: win-pane, label: "_Published Dec 18, 2025, 05:45 AM_
 New white house plaques attack trump’s democratic predecessors, bush" }
 
-KdtrajoteaTsa:::txtsize --> Tsyenrednoe:::txtsize
+Kdtrajoteneemme:::txtsize --> Tsyenrednoe:::txtsize
 Tsyenrednoe:::txtsize --> TnCrdsdpsdnk:::txtsize
 TnCrdsdpsdnk:::txtsize --> TteeaohotvKdt:::txtsize
 TnCrdsdpsdnk:::txtsize --> Tperoneisioh:::txtsize
 Tsyenrednoe:::txtsize --> Tsatnefeace:::txtsize
 Tsatnefeace:::txtsize --> TnCrdsdpsdnk:::txtsize
 Tsatnefeace:::txtsize --> Niuaakpoidsu:::txtsize
-KdtrajoteaTsa:::txtsize --> Tsyenrednoe:::txtsize
+Kdtrajoteneemme:::txtsize --> Tsyenrednoe:::txtsize
 Tsyenrednoe:::txtsize --> TnCrdsdpsdnk:::txtsize
 TnCrdsdpsdnk:::txtsize --> TteeaohotvKdt:::txtsize
 TnCrdsdpsdnk:::txtsize --> Tperoneisioh:::txtsize
@@ -105,10 +151,6 @@ Pehmednpoeid:::txtsize --> BeeaieessGa:::txtsize
 BeeaieessGa:::txtsize --> Behmeuftiar:::txtsize
 BeeaieessGa:::txtsize --> Ilnnrtyzaho:::txtsize
 
-Cncimeeiro@{ shape: win-pane, label: "_Published Dec 25, 2025, 08:06 AM_
-Chasing an economic boom, white house dismisses risks of ai" }
-
-
 ```
-<i>Last updated: 2025-12-25 12:00:41.318833 (GMT+8)</i>
+<i>Last updated: 2025-12-25 16:01:08.136424 (GMT+8)</i>
 <!-- END -->
