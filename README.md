@@ -16,132 +16,141 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-RaaoocaFharthma@{ shape: win-pane, label: "_Published Dec 25, 2025, 07:09 PM_
-Russia made a proposal to france on jailed french researcher vinatier, the kremlin says" }
-Pdrsiaeta@{ shape: win-pane, label: "_Published Dec 25, 2025, 06:59 PM_
-Poland intercepts russian plane over baltic sea" }
-Ueenttasrace@{ shape: win-pane, label: "_Published Dec 20, 2025, 04:16 AM_
-Us intelligence indicates putin’s war aims in ukraine are unchanged" }
-EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
-Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
-EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
-Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
-UnsialaiiaS@{ shape: win-pane, label: "_Published Dec 19, 2025, 09:31 PM_
-Ukraine hits russian ‘shadow fleet’ tanker in mediterranean sea" }
-Unsilacipoom@{ shape: win-pane, label: "_Published Dec 13, 2025, 03:18 AM_
-Ukraine hits russian oil infrastructure in caspian for second time" }
-UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
-Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
+COBoitrNsb@{ shape: win-pane, label: "_Published Dec 25, 2025, 11:57 PM_
+Carol of the bells once filled the air here. now it’s only bombs." }
+Unerdsseisifi@{ shape: win-pane, label: "_Published Dec 25, 2025, 10:04 PM_
+Ukraine fires storm shadow missiles, drones to hit russia’s oil, gas facilities" }
+Raiauwllrsa@{ shape: win-pane, label: "_Published Dec 25, 2025, 03:59 AM_
+Russian strikes cause sunflower oil spill in ukraine’s odesa" }
+Sdsissctacnkes@{ shape: win-pane, label: "_Published Dec 20, 2025, 05:55 AM_
+Seven dead as russian missiles attack port infrastructure near ukraine’s odesa" }
 Unlydprstowren@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:43 PM_
 Ukraine’s zelensky says draft plan freezes front line, opens way for concessions" }
+NKniaegiS@{ shape: win-pane, label: "_Published Dec 24, 2025, 12:42 PM_
+North korean pows in ukraine seeking ‘new life’ in south" }
+ZsyeronatalUn@{ shape: win-pane, label: "_Published Dec 23, 2025, 08:58 PM_
+Zelensky says several draft documents ready after miami talks on ukraine war" }
+SstoooPiouo@{ shape: win-pane, label: "_Published Feb 20, 2025, 09:15 AM_
+Seoul says it supports north korean pows’ right to asylum in south" }
+NKniaegiS@{ shape: win-pane, label: "_Published Dec 24, 2025, 12:42 PM_
+North korean pows in ukraine seeking ‘new life’ in south" }
+ZsyeronatalUn@{ shape: win-pane, label: "_Published Dec 23, 2025, 08:58 PM_
+Zelensky says several draft documents ready after miami talks on ukraine war" }
 ToiegRaipuoorpp@{ shape: win-pane, label: "_Published Nov 23, 2025, 12:09 AM_
 Trump officials’ meeting with russian in miami spurs questions about ukraine peace plan" }
-Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
-Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
-EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
-Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
-Ranaomedrhuaiuv@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
-Russia says no ukraine compromise reached after five-hour putin talks with trump envoys" }
+Unlyninatnsre@{ shape: win-pane, label: "_Published Dec 23, 2025, 05:33 AM_
+Ukraine’s zelensky says negotiations on war settlement ‘close to a real result’" }
+SstoooPiouo@{ shape: win-pane, label: "_Published Feb 20, 2025, 09:15 AM_
+Seoul says it supports north korean pows’ right to asylum in south" }
+NKsilsnagUnahi@{ shape: win-pane, label: "_Published Jan 14, 2025, 05:38 PM_
+North korea’s suicide soldiers pose new challenge for ukraine in war with russia" }
+Ssooaesngiye@{ shape: win-pane, label: "_Published Feb 11, 2025, 06:25 PM_
+Seoul says north korea has given russia 200 long-range artillery pieces" }
 
-RaaoocaFharthma:::txtsize --> Pdrsiaeta:::txtsize
-Pdrsiaeta:::txtsize --> Ueenttasrace:::txtsize
-Ueenttasrace:::txtsize --> EihaDsitnnannsake:::txtsize
-Ueenttasrace:::txtsize --> EihaDsitnnannsake:::txtsize
-Pdrsiaeta:::txtsize --> UnsialaiiaS:::txtsize
-UnsialaiiaS:::txtsize --> Unsilacipoom:::txtsize
-UnsialaiiaS:::txtsize --> UntaluneBScyca:::txtsize
-RaaoocaFharthma:::txtsize --> Unlydprstowren:::txtsize
-Unlydprstowren:::txtsize --> ToiegRaipuoorpp:::txtsize
-ToiegRaipuoorpp:::txtsize --> Uneftcrespepp:::txtsize
-Unlydprstowren:::txtsize --> EihaDsitnnannsake:::txtsize
-EihaDsitnnannsake:::txtsize --> Ranaomedrhuaiuv:::txtsize
+COBoitrNsb:::txtsize --> Unerdsseisifi:::txtsize
+Unerdsseisifi:::txtsize --> Raiauwllrsa:::txtsize
+Raiauwllrsa:::txtsize --> Sdsissctacnkes:::txtsize
+Raiauwllrsa:::txtsize --> Unlydprstowren:::txtsize
+Unerdsseisifi:::txtsize --> NKniaegiS:::txtsize
+NKniaegiS:::txtsize --> ZsyeronatalUn:::txtsize
+NKniaegiS:::txtsize --> SstoooPiouo:::txtsize
+COBoitrNsb:::txtsize --> NKniaegiS:::txtsize
+NKniaegiS:::txtsize --> ZsyeronatalUn:::txtsize
+ZsyeronatalUn:::txtsize --> ToiegRaipuoorpp:::txtsize
+ZsyeronatalUn:::txtsize --> Unlyninatnsre:::txtsize
+NKniaegiS:::txtsize --> SstoooPiouo:::txtsize
+SstoooPiouo:::txtsize --> NKsilsnagUnahi:::txtsize
+SstoooPiouo:::txtsize --> Ssooaesngiye:::txtsize
 
-Isisoeesisaisz@{ shape: win-pane, label: "_Published Dec 25, 2025, 05:44 PM_
-In first christmas sermon, pope leo decries conditions for palestinians in gaza" }
+Ssivggoctduoppdr@{ shape: win-pane, label: "_Published Dec 25, 2025, 11:24 PM_
+Swedish police investigating serious incident in boden; a number of people reported injured" }
+TnifgytrlaJhu@{ shape: win-pane, label: "_Published Dec 23, 2025, 09:43 PM_
+Two men in britain found guilty over terrorism plot against jewish community" }
+Hsicehwihdco@{ shape: win-pane, label: "_Published Dec 21, 2025, 05:00 AM_
+How australia has changed in the one week since the bondi beach shooting" }
+Fayenaogiiole@{ shape: win-pane, label: "_Published Dec 18, 2025, 07:30 AM_
+Funeral for youngest bondi beach shooting victim, matilda, to be held on dec 18" }
+Bsiagcasitant@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:30 PM_
+British police plan tougher action against anti-semitic chants and protests" }
+Aapegeoiweiufe@{ shape: win-pane, label: "_Published Dec 17, 2025, 01:45 PM_
+Australian police charge alleged bondi killer with terrorism, 15 counts of murder" }
+Asdninualissorg@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:29 PM_
+At least two dead in british synagogue attack, police kill suspect said to be carrying bomb" }
+Tlfrlesno@{ shape: win-pane, label: "_Published Dec 24, 2025, 08:13 AM_
+Two police officers killed in explosion in moscow" }
+TsgalMwlofSs@{ shape: win-pane, label: "_Published Dec 22, 2025, 04:03 PM_
+Top russian general killed in moscow car blast hours after us talks" }
+Uovkakesue@{ shape: win-pane, label: "_Published Dec 22, 2025, 06:56 AM_
+Us envoy steve witkoff calls ukraine talks productive" }
+Feuiea@{ shape: win-pane, label: "_Published Feb 24, 2023, 05:54 PM_
+Feb 24, 2022: the day russia invaded ukraine" }
+Srilyclnxiac@{ shape: win-pane, label: "_Published Apr 25, 2025, 06:30 PM_
+Senior russian military officer killed in car explosion near moscow" }
+Wrsnauodrcfe@{ shape: win-pane, label: "_Published Apr 24, 2025, 04:30 PM_
+Why ukraine’s zelensky has refused to accede to trump’s ceasefire deal" }
+CooahRadayrite@{ shape: win-pane, label: "_Published Apr 25, 2025, 01:15 PM_
+Cash bonus for a year fighting russia? inside ukraine’s youth recruitment drive" }
+
+Ssivggoctduoppdr:::txtsize --> TnifgytrlaJhu:::txtsize
+TnifgytrlaJhu:::txtsize --> Hsicehwihdco:::txtsize
+Hsicehwihdco:::txtsize --> Fayenaogiiole:::txtsize
+TnifgytrlaJhu:::txtsize --> Bsiagcasitant:::txtsize
+Bsiagcasitant:::txtsize --> Aapegeoiweiufe:::txtsize
+Bsiagcasitant:::txtsize --> Asdninualissorg:::txtsize
+Ssivggoctduoppdr:::txtsize --> Tlfrlesno:::txtsize
+Tlfrlesno:::txtsize --> TsgalMwlofSs:::txtsize
+TsgalMwlofSs:::txtsize --> Uovkakesue:::txtsize
+TsgalMwlofSs:::txtsize --> Feuiea:::txtsize
+Tlfrlesno:::txtsize --> Srilyclnxiac:::txtsize
+Srilyclnxiac:::txtsize --> Wrsnauodrcfe:::txtsize
+Srilyclnxiac:::txtsize --> CooahRadayrite:::txtsize
+
+Binrannriisa@{ shape: win-pane, label: "_Published Dec 25, 2025, 11:04 PM_
+Britain’s king charles lauds unity in diversity in christmas message" }
+Bihlotipaelid@{ shape: win-pane, label: "_Published Oct 24, 2025, 10:25 PM_
+Britain pushes allies to boost ukraine support as zelensky lands in london" }
+EsnbnUndozsas@{ shape: win-pane, label: "_Published Oct 23, 2025, 11:00 PM_
+Eu vows financial backing for ukraine, holds off on frozen russian assets plan" }
+ErtkftassewUn@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:10 AM_
+Eu approves 19th package of sanctions against russia over its war in ukraine" }
+Ucsilrrionitncr@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:27 PM_
+Us sanctions russian oil majors over ukraine, prompting india jitters and moscow fury" }
+Ucsilrrionitncr@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:27 PM_
+Us sanctions russian oil majors over ukraine, prompting india jitters and moscow fury" }
+UpmucssorirPwht@{ shape: win-pane, label: "_Published Oct 23, 2025, 05:33 AM_
+Us slaps ‘tremendous sanctions’ on russian oil for ukraine war, says putin wasn’t ‘honest’" }
+Tsemunpogrnil@{ shape: win-pane, label: "_Published May 19, 2025, 10:54 PM_
+Trump says he will meet putin in budapest, touting progress in ukraine talks" }
+KhsLaeiasanth@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:17 PM_
+King charles, pope leo pray together in a 500-year first in vatican’s sistine chapel" }
 UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
 Us cardinal prevost elected pope leo xiv, first american pontiff" }
 Arnclaenigi@{ shape: win-pane, label: "_Published May 09, 2025, 06:49 AM_
 A reformer and a reconciler: what pope leo’s new reign might bring" }
-Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
-Pope francis dies at age 88" }
-UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
-Us cardinal prevost elected pope leo xiv, first american pontiff" }
 IfarPeoselbia@{ shape: win-pane, label: "_Published May 09, 2025, 03:40 AM_
 In his first appearance, pope leo xiv offers three big clues about his papacy" }
-UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
-Us cardinal prevost elected pope leo xiv, first american pontiff" }
-Prsraoddsiasv@{ shape: win-pane, label: "_Published Apr 26, 2025, 09:05 AM_
-Pope francis’ funeral draws thousands, cardinal says his legacy must survive" }
-Pehmednpoeid@{ shape: win-pane, label: "_Published Dec 25, 2025, 06:04 AM_
-Pope leo, on christmas eve, says denying help to poor is rejecting god" }
-Pewsaiomgcd@{ shape: win-pane, label: "_Published Dec 22, 2025, 10:03 PM_
-Pope leo’s new us bishops are critics of trump’s migrant crackdown" }
-Pagtrgiiuc@{ shape: win-pane, label: "_Published Dec 22, 2025, 09:24 PM_
-Pope warns against power struggles in vatican bureaucracy" }
-Peeflnrshtcn@{ shape: win-pane, label: "_Published Dec 22, 2025, 06:29 PM_
-Pope leo urges joyful, welcoming church in speech to vatican cardinals" }
-BeeaieessGa@{ shape: win-pane, label: "_Published Dec 24, 2025, 09:40 PM_
-Bethlehem celebrates first festive christmas since gaza war" }
-Behmeuftiar@{ shape: win-pane, label: "_Published Dec 07, 2025, 04:11 AM_
-Bethlehem christmas tree lit up for first time since gaza war" }
-Ilnnrtyzaho@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:54 PM_
-Israel defence minister vows to stay in gaza, establish outposts" }
+Wanrsfeytffecnd@{ shape: win-pane, label: "_Published Oct 03, 2025, 05:12 PM_
+Woman appointed archbishop of canterbury a historic first for the church of england" }
+TmerusdchCrann@{ shape: win-pane, label: "_Published Oct 01, 2025, 10:49 PM_
+Two women seen as front runners ahead of archbishop of canterbury announcement" }
+VaupfdeIri@{ shape: win-pane, label: "_Published Oct 03, 2025, 11:05 AM_
+Virtual jesus? people of faith divided as ai enters religion" }
 
-Isisoeesisaisz:::txtsize --> UdPscooimat:::txtsize
+Binrannriisa:::txtsize --> Bihlotipaelid:::txtsize
+Bihlotipaelid:::txtsize --> EsnbnUndozsas:::txtsize
+EsnbnUndozsas:::txtsize --> ErtkftassewUn:::txtsize
+EsnbnUndozsas:::txtsize --> Ucsilrrionitncr:::txtsize
+Bihlotipaelid:::txtsize --> Ucsilrrionitncr:::txtsize
+Ucsilrrionitncr:::txtsize --> UpmucssorirPwht:::txtsize
+Ucsilrrionitncr:::txtsize --> Tsemunpogrnil:::txtsize
+Binrannriisa:::txtsize --> KhsLaeiasanth:::txtsize
+KhsLaeiasanth:::txtsize --> UdPscooimat:::txtsize
 UdPscooimat:::txtsize --> Arnclaenigi:::txtsize
-Arnclaenigi:::txtsize --> Prsa:::txtsize
-Arnclaenigi:::txtsize --> UdPscooimat:::txtsize
 UdPscooimat:::txtsize --> IfarPeoselbia:::txtsize
-IfarPeoselbia:::txtsize --> UdPscooimat:::txtsize
-IfarPeoselbia:::txtsize --> Prsraoddsiasv:::txtsize
-Isisoeesisaisz:::txtsize --> Pehmednpoeid:::txtsize
-Pehmednpoeid:::txtsize --> Pewsaiomgcd:::txtsize
-Pewsaiomgcd:::txtsize --> Pagtrgiiuc:::txtsize
-Pewsaiomgcd:::txtsize --> Peeflnrshtcn:::txtsize
-Pehmednpoeid:::txtsize --> BeeaieessGa:::txtsize
-BeeaieessGa:::txtsize --> Behmeuftiar:::txtsize
-BeeaieessGa:::txtsize --> Ilnnrtyzaho:::txtsize
-
-Gsccnsliasnmc@{ shape: win-pane, label: "_Published Dec 25, 2025, 05:27 PM_
-G-7 to discuss critical minerals supply chains to address china’s dominance" }
-Gomvwtiniaea@{ shape: win-pane, label: "_Published Nov 13, 2025, 03:26 AM_
-G-7 diplomats mull over how to get russia to engage in ukraine peace talks" }
-Ucceeonigsteens@{ shape: win-pane, label: "_Published Nov 11, 2025, 11:41 PM_
-Us aircraft carrier moves into latin america region, escalating venezuela tensions" }
-Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
-Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
-Uildcisiiig@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:20 PM_
-Us strikes alleged drug-carrying vessels in pacific, killing six" }
-Nseldolrytc@{ shape: win-pane, label: "_Published Nov 07, 2025, 12:27 PM_
-New us strike on alleged drug boat kills three, says pentagon chief" }
-Eirdyroersl@{ shape: win-pane, label: "_Published Oct 31, 2025, 06:16 PM_
-Explainer: are the deadly us strikes on alleged drug vessels legal?​" }
-Gotteigceilh@{ shape: win-pane, label: "_Published Oct 02, 2025, 06:29 AM_
-G-7 nations to target those continuing to increase russian oil purchases" }
-Ulitilsereos@{ shape: win-pane, label: "_Published Sep 27, 2025, 03:01 AM_
-Us tells india that russian oil curbs are key to trade deal progress" }
-TslfftiaeopU@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:05 PM_
-Trump’s doubling of tariffs hits india, damages relationship with us" }
-Tpeoohunuserw@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:45 PM_
-Trump presses nato nations to halt russian oil purchases to end ukraine war" }
-Tpeoohunuserw@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:45 PM_
-Trump presses nato nations to halt russian oil purchases to end ukraine war" }
-NouefpsfaPddr@{ shape: win-pane, label: "_Published Sep 13, 2025, 01:03 AM_
-Nato to beef up defence of europe’s eastern flank after poland shot down drones" }
-
-Gsccnsliasnmc:::txtsize --> Gomvwtiniaea:::txtsize
-Gomvwtiniaea:::txtsize --> Ucceeonigsteens:::txtsize
-Ucceeonigsteens:::txtsize --> Uidycceuomasnswee:::txtsize
-Gomvwtiniaea:::txtsize --> Uildcisiiig:::txtsize
-Uildcisiiig:::txtsize --> Nseldolrytc:::txtsize
-Uildcisiiig:::txtsize --> Eirdyroersl:::txtsize
-Gsccnsliasnmc:::txtsize --> Gotteigceilh:::txtsize
-Gotteigceilh:::txtsize --> Ulitilsereos:::txtsize
-Ulitilsereos:::txtsize --> TslfftiaeopU:::txtsize
-Ulitilsereos:::txtsize --> Tpeoohunuserw:::txtsize
-Gotteigceilh:::txtsize --> Tpeoohunuserw:::txtsize
-Tpeoohunuserw:::txtsize --> NouefpsfaPddr:::txtsize
+KhsLaeiasanth:::txtsize --> Wanrsfeytffecnd:::txtsize
+Wanrsfeytffecnd:::txtsize --> TmerusdchCrann:::txtsize
+Wanrsfeytffecnd:::txtsize --> VaupfdeIri:::txtsize
 
 ```
-<i>Last updated: 2025-12-25 20:00:37.858277 (GMT+8)</i>
+<i>Last updated: 2025-12-26 00:01:03.107949 (GMT+8)</i>
 <!-- END -->
