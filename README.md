@@ -16,112 +16,62 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Hocozstmrletuiy@{ shape: win-pane, label: "_Published Dec 25, 2025, 02:58 PM_
-Helicopter crash on tanzania’s mount kilimanjaro kills five, aviation authority says" }
-UeniateWnDcs@{ shape: win-pane, label: "_Published Dec 18, 2025, 08:55 AM_
-Us government admits liability in deadly washington dc air collision" }
-Uycraagrahle@{ shape: win-pane, label: "_Published Aug 02, 2025, 09:40 AM_
-Us army helicopter in deadly washington crash had technical issues" }
-Nvspaltloag@{ shape: win-pane, label: "_Published Jan 30, 2025, 09:10 PM_
-No survivors from plane and helicopter collision in washington" }
-Tusgtnjanoevnrr@{ shape: win-pane, label: "_Published Jul 26, 2025, 07:49 AM_
-Two southwest flight attendants injured as plane manoeuvres to avoid another aircraft" }
-Nvspaltloag@{ shape: win-pane, label: "_Published Jan 30, 2025, 09:10 PM_
-No survivors from plane and helicopter collision in washington" }
-Medfmaljltlaathoe@{ shape: win-pane, label: "_Published Jan 30, 2025, 11:14 AM_
-Many feared dead after american airlines jet, helicopter collide and crash into washington river" }
-Medfmaljltlaathoe@{ shape: win-pane, label: "_Published Jan 30, 2025, 11:14 AM_
-Many feared dead after american airlines jet, helicopter collide and crash into washington river" }
-Tsipceeaaso@{ shape: win-pane, label: "_Published Nov 11, 2025, 10:06 PM_
-Turkish military plane crashes in georgia with at least 20 on board" }
-Citoncemlrhltt@{ shape: win-pane, label: "_Published Nov 06, 2025, 12:15 AM_
-Crash investigators find ‘black boxes’ from ups plane crash that killed at least 12" }
-Asedrlrsnytooe@{ shape: win-pane, label: "_Published Nov 05, 2025, 07:32 AM_
-At least seven dead after ups plane crashes in kentucky, erupts into ball of fire" }
-Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
-Us government shutdown becomes longest in history" }
-Kneyuidarceade@{ shape: win-pane, label: "_Published Oct 28, 2025, 07:30 PM_
-Kenyan plane carrying hungarian and german tourists crashes, all 11 aboard killed" }
-Cpssuigknarf@{ shape: win-pane, label: "_Published Oct 20, 2025, 06:53 AM_
-Cargo plane slides off runway in hong kong, killing two airport staff" }
-Troisnnr@{ shape: win-pane, label: "_Published Jun 12, 2025, 09:39 PM_
-The world’s worst air crashes in recent years" }
+RaaoocaFharthma@{ shape: win-pane, label: "_Published Dec 25, 2025, 07:09 PM_
+Russia made a proposal to france on jailed french researcher vinatier, the kremlin says" }
+Pdrsiaeta@{ shape: win-pane, label: "_Published Dec 25, 2025, 06:59 PM_
+Poland intercepts russian plane over baltic sea" }
+Ueenttasrace@{ shape: win-pane, label: "_Published Dec 20, 2025, 04:16 AM_
+Us intelligence indicates putin’s war aims in ukraine are unchanged" }
+EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
+Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
+EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
+Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
+UnsialaiiaS@{ shape: win-pane, label: "_Published Dec 19, 2025, 09:31 PM_
+Ukraine hits russian ‘shadow fleet’ tanker in mediterranean sea" }
+Unsilacipoom@{ shape: win-pane, label: "_Published Dec 13, 2025, 03:18 AM_
+Ukraine hits russian oil infrastructure in caspian for second time" }
+UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
+Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
+Unlydprstowren@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:43 PM_
+Ukraine’s zelensky says draft plan freezes front line, opens way for concessions" }
+ToiegRaipuoorpp@{ shape: win-pane, label: "_Published Nov 23, 2025, 12:09 AM_
+Trump officials’ meeting with russian in miami spurs questions about ukraine peace plan" }
+Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
+Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
+EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
+Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
+Ranaomedrhuaiuv@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
+Russia says no ukraine compromise reached after five-hour putin talks with trump envoys" }
 
-Hocozstmrletuiy:::txtsize --> UeniateWnDcs:::txtsize
-UeniateWnDcs:::txtsize --> Uycraagrahle:::txtsize
-Uycraagrahle:::txtsize --> Nvspaltloag:::txtsize
-Uycraagrahle:::txtsize --> Tusgtnjanoevnrr:::txtsize
-UeniateWnDcs:::txtsize --> Nvspaltloag:::txtsize
-Nvspaltloag:::txtsize --> Medfmaljltlaathoe:::txtsize
-Nvspaltloag:::txtsize --> Medfmaljltlaathoe:::txtsize
-Hocozstmrletuiy:::txtsize --> Tsipceeaaso:::txtsize
-Tsipceeaaso:::txtsize --> Citoncemlrhltt:::txtsize
-Citoncemlrhltt:::txtsize --> Asedrlrsnytooe:::txtsize
-Citoncemlrhltt:::txtsize --> Uentbegno:::txtsize
-Tsipceeaaso:::txtsize --> Kneyuidarceade:::txtsize
-Kneyuidarceade:::txtsize --> Cpssuigknarf:::txtsize
-Kneyuidarceade:::txtsize --> Troisnnr:::txtsize
+RaaoocaFharthma:::txtsize --> Pdrsiaeta:::txtsize
+Pdrsiaeta:::txtsize --> Ueenttasrace:::txtsize
+Ueenttasrace:::txtsize --> EihaDsitnnannsake:::txtsize
+Ueenttasrace:::txtsize --> EihaDsitnnannsake:::txtsize
+Pdrsiaeta:::txtsize --> UnsialaiiaS:::txtsize
+UnsialaiiaS:::txtsize --> Unsilacipoom:::txtsize
+UnsialaiiaS:::txtsize --> UntaluneBScyca:::txtsize
+RaaoocaFharthma:::txtsize --> Unlydprstowren:::txtsize
+Unlydprstowren:::txtsize --> ToiegRaipuoorpp:::txtsize
+ToiegRaipuoorpp:::txtsize --> Uneftcrespepp:::txtsize
+Unlydprstowren:::txtsize --> EihaDsitnnannsake:::txtsize
+EihaDsitnnannsake:::txtsize --> Ranaomedrhuaiuv:::txtsize
 
-Kdtrajoteneemme@{ shape: win-pane, label: "_Published Dec 25, 2025, 11:47 AM_
-Kennedy center christmas eve jazz concert in the us cancelled after trump’s name added" }
-Tsyenrednoe@{ shape: win-pane, label: "_Published Dec 23, 2025, 12:41 PM_
-Trump sued by kennedy center trustee for adding name to venue" }
-TnCrdsdpsdnk@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:34 AM_
-The kennedy center board votes to add ‘trump’ to its name, drawing backlash" }
-TteeaohotvKdt@{ shape: win-pane, label: "_Published Feb 08, 2025, 09:30 AM_
-Trump to make himself head of top washington cultural venue kennedy centre" }
-Tperoneisioh@{ shape: win-pane, label: "_Published Mar 18, 2025, 12:15 PM_
-Trump pledges overhaul of kennedy centre in first visit as board chair" }
-Tsatnefeace@{ shape: win-pane, label: "_Published Dec 20, 2025, 08:59 AM_
-Trump’s name added to kennedy center facade, a day after change" }
-TnCrdsdpsdnk@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:34 AM_
-The kennedy center board votes to add ‘trump’ to its name, drawing backlash" }
-Niuaakpoidsu@{ shape: win-pane, label: "_Published Dec 18, 2025, 05:45 AM_
-New white house plaques attack trump’s democratic predecessors, bush" }
-Tsyenrednoe@{ shape: win-pane, label: "_Published Dec 23, 2025, 12:41 PM_
-Trump sued by kennedy center trustee for adding name to venue" }
-TnCrdsdpsdnk@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:34 AM_
-The kennedy center board votes to add ‘trump’ to its name, drawing backlash" }
-TteeaohotvKdt@{ shape: win-pane, label: "_Published Feb 08, 2025, 09:30 AM_
-Trump to make himself head of top washington cultural venue kennedy centre" }
-Tperoneisioh@{ shape: win-pane, label: "_Published Mar 18, 2025, 12:15 PM_
-Trump pledges overhaul of kennedy centre in first visit as board chair" }
-Tsatnefeace@{ shape: win-pane, label: "_Published Dec 20, 2025, 08:59 AM_
-Trump’s name added to kennedy center facade, a day after change" }
-TnCrdsdpsdnk@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:34 AM_
-The kennedy center board votes to add ‘trump’ to its name, drawing backlash" }
-Niuaakpoidsu@{ shape: win-pane, label: "_Published Dec 18, 2025, 05:45 AM_
-New white house plaques attack trump’s democratic predecessors, bush" }
-
-Kdtrajoteneemme:::txtsize --> Tsyenrednoe:::txtsize
-Tsyenrednoe:::txtsize --> TnCrdsdpsdnk:::txtsize
-TnCrdsdpsdnk:::txtsize --> TteeaohotvKdt:::txtsize
-TnCrdsdpsdnk:::txtsize --> Tperoneisioh:::txtsize
-Tsyenrednoe:::txtsize --> Tsatnefeace:::txtsize
-Tsatnefeace:::txtsize --> TnCrdsdpsdnk:::txtsize
-Tsatnefeace:::txtsize --> Niuaakpoidsu:::txtsize
-Kdtrajoteneemme:::txtsize --> Tsyenrednoe:::txtsize
-Tsyenrednoe:::txtsize --> TnCrdsdpsdnk:::txtsize
-TnCrdsdpsdnk:::txtsize --> TteeaohotvKdt:::txtsize
-TnCrdsdpsdnk:::txtsize --> Tperoneisioh:::txtsize
-Tsyenrednoe:::txtsize --> Tsatnefeace:::txtsize
-Tsatnefeace:::txtsize --> TnCrdsdpsdnk:::txtsize
-Tsatnefeace:::txtsize --> Niuaakpoidsu:::txtsize
-
-TtCtvtdlc@{ shape: win-pane, label: "_Published Dec 25, 2025, 10:57 AM_
-Trump takes christmas eve shot at ‘radical left scum’" }
-Unghedtgrne@{ shape: win-pane, label: "_Published Dec 23, 2025, 11:00 PM_
-Us economic growth surges in 3rd quarter, highest rate in two years" }
-Rnbcstnamtn@{ shape: win-pane, label: "_Published Aug 22, 2025, 08:15 AM_
-Rise in us jobless claims adds to signs of labour market softness" }
-Usewrapeisgrn@{ shape: win-pane, label: "_Published May 30, 2025, 09:28 AM_
-Us jobs market showing cracks as corporate profits post largest drop since 2020" }
-IvoSeaeeoti@{ shape: win-pane, label: "_Published Jul 06, 2025, 10:59 AM_
-Into a void: young us college graduates face employment crisis" }
-Lsounenonmr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:01 PM_
-Longest us govt shutdown is over but new showdowns loom for trump" }
-Tsdootveuns@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:48 AM_
-Trump signs deal to end longest us government shutdown in history" }
+Isisoeesisaisz@{ shape: win-pane, label: "_Published Dec 25, 2025, 05:44 PM_
+In first christmas sermon, pope leo decries conditions for palestinians in gaza" }
+UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
+Us cardinal prevost elected pope leo xiv, first american pontiff" }
+Arnclaenigi@{ shape: win-pane, label: "_Published May 09, 2025, 06:49 AM_
+A reformer and a reconciler: what pope leo’s new reign might bring" }
+Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
+Pope francis dies at age 88" }
+UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
+Us cardinal prevost elected pope leo xiv, first american pontiff" }
+IfarPeoselbia@{ shape: win-pane, label: "_Published May 09, 2025, 03:40 AM_
+In his first appearance, pope leo xiv offers three big clues about his papacy" }
+UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
+Us cardinal prevost elected pope leo xiv, first american pontiff" }
+Prsraoddsiasv@{ shape: win-pane, label: "_Published Apr 26, 2025, 09:05 AM_
+Pope francis’ funeral draws thousands, cardinal says his legacy must survive" }
 Pehmednpoeid@{ shape: win-pane, label: "_Published Dec 25, 2025, 06:04 AM_
 Pope leo, on christmas eve, says denying help to poor is rejecting god" }
 Pewsaiomgcd@{ shape: win-pane, label: "_Published Dec 22, 2025, 10:03 PM_
@@ -137,13 +87,14 @@ Bethlehem christmas tree lit up for first time since gaza war" }
 Ilnnrtyzaho@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:54 PM_
 Israel defence minister vows to stay in gaza, establish outposts" }
 
-TtCtvtdlc:::txtsize --> Unghedtgrne:::txtsize
-Unghedtgrne:::txtsize --> Rnbcstnamtn:::txtsize
-Rnbcstnamtn:::txtsize --> Usewrapeisgrn:::txtsize
-Rnbcstnamtn:::txtsize --> IvoSeaeeoti:::txtsize
-Unghedtgrne:::txtsize --> Lsounenonmr:::txtsize
-Lsounenonmr:::txtsize --> Tsdootveuns:::txtsize
-TtCtvtdlc:::txtsize --> Pehmednpoeid:::txtsize
+Isisoeesisaisz:::txtsize --> UdPscooimat:::txtsize
+UdPscooimat:::txtsize --> Arnclaenigi:::txtsize
+Arnclaenigi:::txtsize --> Prsa:::txtsize
+Arnclaenigi:::txtsize --> UdPscooimat:::txtsize
+UdPscooimat:::txtsize --> IfarPeoselbia:::txtsize
+IfarPeoselbia:::txtsize --> UdPscooimat:::txtsize
+IfarPeoselbia:::txtsize --> Prsraoddsiasv:::txtsize
+Isisoeesisaisz:::txtsize --> Pehmednpoeid:::txtsize
 Pehmednpoeid:::txtsize --> Pewsaiomgcd:::txtsize
 Pewsaiomgcd:::txtsize --> Pagtrgiiuc:::txtsize
 Pewsaiomgcd:::txtsize --> Peeflnrshtcn:::txtsize
@@ -151,6 +102,46 @@ Pehmednpoeid:::txtsize --> BeeaieessGa:::txtsize
 BeeaieessGa:::txtsize --> Behmeuftiar:::txtsize
 BeeaieessGa:::txtsize --> Ilnnrtyzaho:::txtsize
 
+Gsccnsliasnmc@{ shape: win-pane, label: "_Published Dec 25, 2025, 05:27 PM_
+G-7 to discuss critical minerals supply chains to address china’s dominance" }
+Gomvwtiniaea@{ shape: win-pane, label: "_Published Nov 13, 2025, 03:26 AM_
+G-7 diplomats mull over how to get russia to engage in ukraine peace talks" }
+Ucceeonigsteens@{ shape: win-pane, label: "_Published Nov 11, 2025, 11:41 PM_
+Us aircraft carrier moves into latin america region, escalating venezuela tensions" }
+Uidycceuomasnswee@{ shape: win-pane, label: "_Published Oct 25, 2025, 02:00 AM_
+Us military deploys aircraft carrier group to south america amid soaring tensions with venezuela" }
+Uildcisiiig@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:20 PM_
+Us strikes alleged drug-carrying vessels in pacific, killing six" }
+Nseldolrytc@{ shape: win-pane, label: "_Published Nov 07, 2025, 12:27 PM_
+New us strike on alleged drug boat kills three, says pentagon chief" }
+Eirdyroersl@{ shape: win-pane, label: "_Published Oct 31, 2025, 06:16 PM_
+Explainer: are the deadly us strikes on alleged drug vessels legal?​" }
+Gotteigceilh@{ shape: win-pane, label: "_Published Oct 02, 2025, 06:29 AM_
+G-7 nations to target those continuing to increase russian oil purchases" }
+Ulitilsereos@{ shape: win-pane, label: "_Published Sep 27, 2025, 03:01 AM_
+Us tells india that russian oil curbs are key to trade deal progress" }
+TslfftiaeopU@{ shape: win-pane, label: "_Published Aug 27, 2025, 01:05 PM_
+Trump’s doubling of tariffs hits india, damages relationship with us" }
+Tpeoohunuserw@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:45 PM_
+Trump presses nato nations to halt russian oil purchases to end ukraine war" }
+Tpeoohunuserw@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:45 PM_
+Trump presses nato nations to halt russian oil purchases to end ukraine war" }
+NouefpsfaPddr@{ shape: win-pane, label: "_Published Sep 13, 2025, 01:03 AM_
+Nato to beef up defence of europe’s eastern flank after poland shot down drones" }
+
+Gsccnsliasnmc:::txtsize --> Gomvwtiniaea:::txtsize
+Gomvwtiniaea:::txtsize --> Ucceeonigsteens:::txtsize
+Ucceeonigsteens:::txtsize --> Uidycceuomasnswee:::txtsize
+Gomvwtiniaea:::txtsize --> Uildcisiiig:::txtsize
+Uildcisiiig:::txtsize --> Nseldolrytc:::txtsize
+Uildcisiiig:::txtsize --> Eirdyroersl:::txtsize
+Gsccnsliasnmc:::txtsize --> Gotteigceilh:::txtsize
+Gotteigceilh:::txtsize --> Ulitilsereos:::txtsize
+Ulitilsereos:::txtsize --> TslfftiaeopU:::txtsize
+Ulitilsereos:::txtsize --> Tpeoohunuserw:::txtsize
+Gotteigceilh:::txtsize --> Tpeoohunuserw:::txtsize
+Tpeoohunuserw:::txtsize --> NouefpsfaPddr:::txtsize
+
 ```
-<i>Last updated: 2025-12-25 16:01:08.136424 (GMT+8)</i>
+<i>Last updated: 2025-12-25 20:00:37.858277 (GMT+8)</i>
 <!-- END -->
