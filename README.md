@@ -16,132 +16,132 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Raiauwllrsa@{ shape: win-pane, label: "_Published Dec 25, 2025, 03:59 AM_
-Russian strikes cause sunflower oil spill in ukraine’s odesa" }
-Sdsissctacnkes@{ shape: win-pane, label: "_Published Dec 20, 2025, 05:55 AM_
-Seven dead as russian missiles attack port infrastructure near ukraine’s odesa" }
-Ueenttasrace@{ shape: win-pane, label: "_Published Dec 20, 2025, 04:16 AM_
-Us intelligence indicates putin’s war aims in ukraine are unchanged" }
-EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
-Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
-EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
-Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
-RsSntreiake@{ shape: win-pane, label: "_Published Dec 20, 2025, 03:28 AM_
-Rubio says us doesn’t want to force a ceasefire deal on ukraine" }
-ToiegRaipuoorpp@{ shape: win-pane, label: "_Published Nov 23, 2025, 12:09 AM_
-Trump officials’ meeting with russian in miami spurs questions about ukraine peace plan" }
-Uisonocitseea@{ shape: win-pane, label: "_Published Dec 20, 2025, 02:11 AM_
-Us’ rubio says not concerned about escalation with russia over venezuela" }
-Unlydprstowren@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:43 PM_
-Ukraine’s zelensky says draft plan freezes front line, opens way for concessions" }
-ToiegRaipuoorpp@{ shape: win-pane, label: "_Published Nov 23, 2025, 12:09 AM_
-Trump officials’ meeting with russian in miami spurs questions about ukraine peace plan" }
-Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
-Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
-EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
-Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
-Ranaomedrhuaiuv@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
-Russia says no ukraine compromise reached after five-hour putin talks with trump envoys" }
+Iisrrnhehtant@{ shape: win-pane, label: "_Published Dec 25, 2025, 07:49 AM_
+In christmas surprise, britain’s catherine and charlotte play piano duet" }
+KhsLaeiasanth@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:17 PM_
+King charles, pope leo pray together in a 500-year first in vatican’s sistine chapel" }
+UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
+Us cardinal prevost elected pope leo xiv, first american pontiff" }
+Arnclaenigi@{ shape: win-pane, label: "_Published May 09, 2025, 06:49 AM_
+A reformer and a reconciler: what pope leo’s new reign might bring" }
+IfarPeoselbia@{ shape: win-pane, label: "_Published May 09, 2025, 03:40 AM_
+In his first appearance, pope leo xiv offers three big clues about his papacy" }
+Wanrsfeytffecnd@{ shape: win-pane, label: "_Published Oct 03, 2025, 05:12 PM_
+Woman appointed archbishop of canterbury a historic first for the church of england" }
+TmerusdchCrann@{ shape: win-pane, label: "_Published Oct 01, 2025, 10:49 PM_
+Two women seen as front runners ahead of archbishop of canterbury announcement" }
+VaupfdeIri@{ shape: win-pane, label: "_Published Oct 03, 2025, 11:05 AM_
+Virtual jesus? people of faith divided as ai enters religion" }
+Biiscertexefsiy@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:55 AM_
+Britain’s princess kate chooses fairy costume, beatrix potter art for museum display" }
+Khsrsecreiodcroy@{ shape: win-pane, label: "_Published Jul 11, 2025, 08:28 PM_
+King charles and princess kate’s cancer struggles having profound impact, charity boss says" }
+Biisshtoveuter@{ shape: win-pane, label: "_Published Jul 02, 2025, 10:00 PM_
+Britain’s princess kate says she had to ‘put on brave face’ throughout cancer journey" }
+Neesuucrtsrshe@{ shape: win-pane, label: "_Published May 12, 2025, 08:11 PM_
+Nature has been my sanctuary during cancer treatment, says princess catherine" }
+Neesuucrtsrshe@{ shape: win-pane, label: "_Published May 12, 2025, 08:11 PM_
+Nature has been my sanctuary during cancer treatment, says princess catherine" }
+PeWeoteeeutocrn@{ shape: win-pane, label: "_Published Mar 24, 2024, 06:13 AM_
+Princess of wales ‘enormously touched’ by messages of support following cancer diagnosis" }
+Biiseshnsfa@{ shape: win-pane, label: "_Published Jan 14, 2025, 09:38 PM_
+Britain’s princess catherine says she is in remission from cancer" }
 
-Raiauwllrsa:::txtsize --> Sdsissctacnkes:::txtsize
-Sdsissctacnkes:::txtsize --> Ueenttasrace:::txtsize
-Ueenttasrace:::txtsize --> EihaDsitnnannsake:::txtsize
-Ueenttasrace:::txtsize --> EihaDsitnnannsake:::txtsize
-Sdsissctacnkes:::txtsize --> RsSntreiake:::txtsize
-RsSntreiake:::txtsize --> ToiegRaipuoorpp:::txtsize
-RsSntreiake:::txtsize --> Uisonocitseea:::txtsize
-Raiauwllrsa:::txtsize --> Unlydprstowren:::txtsize
-Unlydprstowren:::txtsize --> ToiegRaipuoorpp:::txtsize
-ToiegRaipuoorpp:::txtsize --> Uneftcrespepp:::txtsize
-Unlydprstowren:::txtsize --> EihaDsitnnannsake:::txtsize
-EihaDsitnnannsake:::txtsize --> Ranaomedrhuaiuv:::txtsize
+Iisrrnhehtant:::txtsize --> KhsLaeiasanth:::txtsize
+KhsLaeiasanth:::txtsize --> UdPscooimat:::txtsize
+UdPscooimat:::txtsize --> Arnclaenigi:::txtsize
+UdPscooimat:::txtsize --> IfarPeoselbia:::txtsize
+KhsLaeiasanth:::txtsize --> Wanrsfeytffecnd:::txtsize
+Wanrsfeytffecnd:::txtsize --> TmerusdchCrann:::txtsize
+Wanrsfeytffecnd:::txtsize --> VaupfdeIri:::txtsize
+Iisrrnhehtant:::txtsize --> Biiscertexefsiy:::txtsize
+Biiscertexefsiy:::txtsize --> Khsrsecreiodcroy:::txtsize
+Khsrsecreiodcroy:::txtsize --> Biisshtoveuter:::txtsize
+Khsrsecreiodcroy:::txtsize --> Neesuucrtsrshe:::txtsize
+Biiscertexefsiy:::txtsize --> Neesuucrtsrshe:::txtsize
+Neesuucrtsrshe:::txtsize --> PeWeoteeeutocrn:::txtsize
+Neesuucrtsrshe:::txtsize --> Biiseshnsfa:::txtsize
 
-Niqmkase@{ shape: win-pane, label: "_Published Dec 25, 2025, 02:33 AM_
-Nigeria mosque bombing kills at least seven" }
-UdnvalsNiemeth@{ shape: win-pane, label: "_Published Dec 23, 2025, 01:23 AM_
-Us conducting surveillance flights over nigeria after trump intervention threat" }
-TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
-Trump threatens military action in nigeria over ‘killing of christians’" }
-UDehewmeinegas@{ shape: win-pane, label: "_Published Nov 01, 2025, 09:00 AM_
-Us v-p j.d. vance says he hopes his wife embraces christianity, setting off backlash" }
-TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
-Trump threatens military action in nigeria over ‘killing of christians’" }
-UDehewmeinegas@{ shape: win-pane, label: "_Published Nov 01, 2025, 09:00 AM_
-Us v-p j.d. vance says he hopes his wife embraces christianity, setting off backlash" }
-Niioseavngrlcy@{ shape: win-pane, label: "_Published Dec 08, 2025, 04:51 PM_
-Nigeria police probe suspected organ-harvesting ring after grisly discovery" }
-Kypdntaaoaohb@{ shape: win-pane, label: "_Published Dec 07, 2025, 05:30 AM_
-Kidney recipient dies in us after transplant from organ donor who had rabies" }
-Jtsobartens@{ shape: win-pane, label: "_Published Nov 25, 2025, 11:10 PM_
-Jakarta bans cat, dog and bat meat to prevent rabies transmission" }
-Sasitntuba@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:09 PM_
-Sarawak considering cat licensing to reduce rabies cases" }
-RohatrLetiratrfia@{ shape: win-pane, label: "_Published Apr 05, 2023, 12:38 PM_
-Reunion with ex-classmate ‘scorpion lady’ nearly turns into organ harvesting ordeal for taiwan man" }
-Ninamnlioratl@{ shape: win-pane, label: "_Published Feb 06, 2023, 10:28 PM_
-Nigerian senator and family on trial in britain over organ harvesting plot" }
-Jenieynllnsteslatd@{ shape: win-pane, label: "_Published Feb 11, 2023, 07:13 PM_
-Japanese non-profit allegedly arranged illegal organ transplants in belarus that left patients dead" }
+Apcrcoerreao@{ shape: win-pane, label: "_Published Dec 25, 2025, 07:29 AM_
+Atmospheric river drenches los angeles, triggers widespread flooding" }
+MCosbsysvt@{ shape: win-pane, label: "_Published Dec 24, 2025, 01:23 PM_
+Major california storm brings heavy rain, snow, evacuations" }
+Dtrslrsashewii@{ shape: win-pane, label: "_Published Jan 13, 2025, 08:05 PM_
+Death toll from los angeles fires rises to at least 24, with dangerous winds incoming" }
+Lgfdeeomllo@{ shape: win-pane, label: "_Published Jan 13, 2025, 06:37 AM_
+Los angeles fires deliver latest blow to embattled hollywood" }
+Wanslrtpeofi@{ shape: win-pane, label: "_Published Jan 13, 2025, 07:08 PM_
+With tacos and toys, angelenos rally to support neighbours after fires" }
+TnruseaoeascNw@{ shape: win-pane, label: "_Published Dec 12, 2025, 09:53 AM_
+Torrential rains unleash widespread flooding, evacuations in pacific northwest" }
+UatwrmetpyiU@{ shape: win-pane, label: "_Published Dec 11, 2025, 12:45 PM_
+Unusually strong winter storms expected to drop heavy snow in the us" }
+ActsrrsUuec@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:00 AM_
+Arctic blast grips central, north-eastern us in sub-freezing cold" }
+Esnmsurofa@{ shape: win-pane, label: "_Published Oct 14, 2025, 11:10 AM_
+Early season storm sends a deluge of rain to california" }
+Cowirvtiaet@{ shape: win-pane, label: "_Published Aug 22, 2025, 10:31 AM_
+California wildfire forces evacuations in rural wine country" }
+Stbtirtdevon@{ shape: win-pane, label: "_Published Aug 21, 2025, 10:45 PM_
+Spain to probe whether wildfire-hit towns drafted prevention plans" }
 
-Niqmkase:::txtsize --> UdnvalsNiemeth:::txtsize
-UdnvalsNiemeth:::txtsize --> TttiriNiriCt:::txtsize
-TttiriNiriCt:::txtsize --> UDehewmeinegas:::txtsize
-UdnvalsNiemeth:::txtsize --> TttiriNiriCt:::txtsize
-TttiriNiriCt:::txtsize --> UDehewmeinegas:::txtsize
-Niqmkase:::txtsize --> Niioseavngrlcy:::txtsize
-Niioseavngrlcy:::txtsize --> Kypdntaaoaohb:::txtsize
-Kypdntaaoaohb:::txtsize --> Jtsobartens:::txtsize
-Kypdntaaoaohb:::txtsize --> Sasitntuba:::txtsize
-Niioseavngrlcy:::txtsize --> RohatrLetiratrfia:::txtsize
-RohatrLetiratrfia:::txtsize --> Ninamnlioratl:::txtsize
-RohatrLetiratrfia:::txtsize --> Jenieynllnsteslatd:::txtsize
+Apcrcoerreao:::txtsize --> MCosbsysvt:::txtsize
+MCosbsysvt:::txtsize --> Dtrslrsashewii:::txtsize
+Dtrslrsashewii:::txtsize --> Lgfdeeomllo:::txtsize
+Dtrslrsashewii:::txtsize --> Wanslrtpeofi:::txtsize
+MCosbsysvt:::txtsize --> TnruseaoeascNw:::txtsize
+TnruseaoeascNw:::txtsize --> UatwrmetpyiU:::txtsize
+TnruseaoeascNw:::txtsize --> ActsrrsUuec:::txtsize
+Apcrcoerreao:::txtsize --> Esnmsurofa:::txtsize
+Esnmsurofa:::txtsize --> Cowirvtiaet:::txtsize
+Cowirvtiaet:::txtsize --> Stbtirtdevon:::txtsize
 
-Ilvieneemu@{ shape: win-pane, label: "_Published Dec 25, 2025, 01:52 AM_
-Israel to invest $140b in developing independent arms industry" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-Ilnwbosealcy@{ shape: win-pane, label: "_Published Dec 23, 2025, 08:04 PM_
-Israel extends power to ban broadcasts deemed harmful to security" }
-Nyutteffraa@{ shape: win-pane, label: "_Published Apr 01, 2024, 09:57 PM_
-Netanyahu pushes to shut israeli office of qatar’s al jazeera tv" }
-Aeazrstrdrfs@{ shape: win-pane, label: "_Published Mar 18, 2024, 09:10 PM_
-Al jazeera says gaza journalist beaten, arrested by israeli forces" }
-Ilcsolsiakeore@{ shape: win-pane, label: "_Published Jan 11, 2024, 08:25 AM_
-Israel army claims two journalists slain in gaza strike were ‘terror operatives’" }
-Ilnnrtyzaho@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:54 PM_
-Israel defence minister vows to stay in gaza, establish outposts" }
-Gsrepmfsik@{ shape: win-pane, label: "_Published Dec 23, 2025, 04:52 PM_
-Gazans fear renewed displacement after israeli strikes" }
-TeeaodGstwe@{ shape: win-pane, label: "_Published Dec 23, 2025, 11:30 AM_
-Trapped under israeli bombardment, gazans fear the ‘new border’" }
+Tbdrsurefefyiec@{ shape: win-pane, label: "_Published Dec 25, 2025, 06:49 AM_
+Trump-backed asfura wins honduras presidency after weeks of delays in disputed election" }
+FoaoTmelonbe@{ shape: win-pane, label: "_Published Dec 02, 2025, 07:30 AM_
+From honduras to poland, trump meddles in elections as never before" }
+UgVuMoceoyRllk@{ shape: win-pane, label: "_Published Dec 01, 2025, 05:07 AM_
+Us has given venezuela’s maduro chance to leave country, says republican lawmaker" }
+Tsicvsugztliee@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:19 PM_
+Trump says airspace above and surrounding venezuela to be closed in its entirety" }
+Hunllyoat@{ shape: win-pane, label: "_Published Nov 30, 2025, 12:09 AM_
+How could venezuela’s military respond to a us attack?" }
+TaiteSoadoerei@{ shape: win-pane, label: "_Published Jul 18, 2025, 05:26 AM_
+Trump administration tells us diplomats abroad not to opine on foreign elections" }
+SDtssnewrrsuiao@{ shape: win-pane, label: "_Published Jul 12, 2025, 01:05 AM_
+State department starts firing more than 1,350 workers in trump’s shake-up of diplomatic corps" }
+Uroeuimvusy@{ shape: win-pane, label: "_Published Jul 17, 2025, 09:35 AM_
+Us supreme court keeps ruling in trump’s favour, but doesn’t say why" }
+FHrpdaurhdf@{ shape: win-pane, label: "_Published Dec 04, 2025, 10:45 AM_
+Freed honduran ex-president says trump pardon ‘changed my life’" }
+HroacTiiie@{ shape: win-pane, label: "_Published Dec 01, 2025, 01:54 AM_
+Hondurans vote in an election trump is trying to influence" }
+UgVuMoceoyRllk@{ shape: win-pane, label: "_Published Dec 01, 2025, 05:07 AM_
+Us has given venezuela’s maduro chance to leave country, says republican lawmaker" }
+PehtGddrartern@{ shape: win-pane, label: "_Published Nov 28, 2025, 02:03 AM_
+Pete hegseth visits uss gerald r. ford aircraft carrier in latin america region" }
+Trdostdr@{ shape: win-pane, label: "_Published Jun 08, 2025, 03:25 PM_
+Trump rewarding loyalists with pardon spree" }
+TpnrlgtUii@{ shape: win-pane, label: "_Published Jan 21, 2025, 09:16 AM_
+Trump pardons nearly all charged with jan 6 us capitol riot" }
+Tpnkferflrh@{ shape: win-pane, label: "_Published Jan 22, 2025, 08:59 AM_
+Trump pardons silk road founder ulbricht for online drug scheme" }
 
-Ilvieneemu:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Ilvieneemu:::txtsize --> Ilnwbosealcy:::txtsize
-Ilnwbosealcy:::txtsize --> Nyutteffraa:::txtsize
-Nyutteffraa:::txtsize --> Aeazrstrdrfs:::txtsize
-Nyutteffraa:::txtsize --> Ilcsolsiakeore:::txtsize
-Ilnwbosealcy:::txtsize --> Ilnnrtyzaho:::txtsize
-Ilnnrtyzaho:::txtsize --> Gsrepmfsik:::txtsize
-Ilnnrtyzaho:::txtsize --> TeeaodGstwe:::txtsize
+Tbdrsurefefyiec:::txtsize --> FoaoTmelonbe:::txtsize
+FoaoTmelonbe:::txtsize --> UgVuMoceoyRllk:::txtsize
+UgVuMoceoyRllk:::txtsize --> Tsicvsugztliee:::txtsize
+UgVuMoceoyRllk:::txtsize --> Hunllyoat:::txtsize
+FoaoTmelonbe:::txtsize --> TaiteSoadoerei:::txtsize
+TaiteSoadoerei:::txtsize --> SDtssnewrrsuiao:::txtsize
+TaiteSoadoerei:::txtsize --> Uroeuimvusy:::txtsize
+Tbdrsurefefyiec:::txtsize --> FHrpdaurhdf:::txtsize
+FHrpdaurhdf:::txtsize --> HroacTiiie:::txtsize
+HroacTiiie:::txtsize --> UgVuMoceoyRllk:::txtsize
+HroacTiiie:::txtsize --> PehtGddrartern:::txtsize
+FHrpdaurhdf:::txtsize --> Trdostdr:::txtsize
+Trdostdr:::txtsize --> TpnrlgtUii:::txtsize
+Trdostdr:::txtsize --> Tpnkferflrh:::txtsize
 
 ```
-<i>Last updated: 2025-12-25 04:00:49.802931 (GMT+8)</i>
+<i>Last updated: 2025-12-25 08:01:19.142663 (GMT+8)</i>
 <!-- END -->
