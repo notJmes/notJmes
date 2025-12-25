@@ -16,132 +16,99 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Iisrrnhehtant@{ shape: win-pane, label: "_Published Dec 25, 2025, 07:49 AM_
-In christmas surprise, britain’s catherine and charlotte play piano duet" }
-KhsLaeiasanth@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:17 PM_
-King charles, pope leo pray together in a 500-year first in vatican’s sistine chapel" }
-UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
-Us cardinal prevost elected pope leo xiv, first american pontiff" }
-Arnclaenigi@{ shape: win-pane, label: "_Published May 09, 2025, 06:49 AM_
-A reformer and a reconciler: what pope leo’s new reign might bring" }
-IfarPeoselbia@{ shape: win-pane, label: "_Published May 09, 2025, 03:40 AM_
-In his first appearance, pope leo xiv offers three big clues about his papacy" }
-Wanrsfeytffecnd@{ shape: win-pane, label: "_Published Oct 03, 2025, 05:12 PM_
-Woman appointed archbishop of canterbury a historic first for the church of england" }
-TmerusdchCrann@{ shape: win-pane, label: "_Published Oct 01, 2025, 10:49 PM_
-Two women seen as front runners ahead of archbishop of canterbury announcement" }
-VaupfdeIri@{ shape: win-pane, label: "_Published Oct 03, 2025, 11:05 AM_
-Virtual jesus? people of faith divided as ai enters religion" }
-Biiscertexefsiy@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:55 AM_
-Britain’s princess kate chooses fairy costume, beatrix potter art for museum display" }
-Khsrsecreiodcroy@{ shape: win-pane, label: "_Published Jul 11, 2025, 08:28 PM_
-King charles and princess kate’s cancer struggles having profound impact, charity boss says" }
-Biisshtoveuter@{ shape: win-pane, label: "_Published Jul 02, 2025, 10:00 PM_
-Britain’s princess kate says she had to ‘put on brave face’ throughout cancer journey" }
-Neesuucrtsrshe@{ shape: win-pane, label: "_Published May 12, 2025, 08:11 PM_
-Nature has been my sanctuary during cancer treatment, says princess catherine" }
-Neesuucrtsrshe@{ shape: win-pane, label: "_Published May 12, 2025, 08:11 PM_
-Nature has been my sanctuary during cancer treatment, says princess catherine" }
-PeWeoteeeutocrn@{ shape: win-pane, label: "_Published Mar 24, 2024, 06:13 AM_
-Princess of wales ‘enormously touched’ by messages of support following cancer diagnosis" }
-Biiseshnsfa@{ shape: win-pane, label: "_Published Jan 14, 2025, 09:38 PM_
-Britain’s princess catherine says she is in remission from cancer" }
+KdtrajoteaTsa@{ shape: win-pane, label: "_Published Dec 25, 2025, 11:47 AM_
+Kennedy center christmas eve jazz concert cancelled after trump’s name added" }
+Tsyenrednoe@{ shape: win-pane, label: "_Published Dec 23, 2025, 12:41 PM_
+Trump sued by kennedy center trustee for adding name to venue" }
+TnCrdsdpsdnk@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:34 AM_
+The kennedy center board votes to add ‘trump’ to its name, drawing backlash" }
+TteeaohotvKdt@{ shape: win-pane, label: "_Published Feb 08, 2025, 09:30 AM_
+Trump to make himself head of top washington cultural venue kennedy centre" }
+Tperoneisioh@{ shape: win-pane, label: "_Published Mar 18, 2025, 12:15 PM_
+Trump pledges overhaul of kennedy centre in first visit as board chair" }
+Tsatnefeace@{ shape: win-pane, label: "_Published Dec 20, 2025, 08:59 AM_
+Trump’s name added to kennedy center facade, a day after change" }
+TnCrdsdpsdnk@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:34 AM_
+The kennedy center board votes to add ‘trump’ to its name, drawing backlash" }
+Niuaakpoidsu@{ shape: win-pane, label: "_Published Dec 18, 2025, 05:45 AM_
+New white house plaques attack trump’s democratic predecessors, bush" }
+Tsyenrednoe@{ shape: win-pane, label: "_Published Dec 23, 2025, 12:41 PM_
+Trump sued by kennedy center trustee for adding name to venue" }
+TnCrdsdpsdnk@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:34 AM_
+The kennedy center board votes to add ‘trump’ to its name, drawing backlash" }
+TteeaohotvKdt@{ shape: win-pane, label: "_Published Feb 08, 2025, 09:30 AM_
+Trump to make himself head of top washington cultural venue kennedy centre" }
+Tperoneisioh@{ shape: win-pane, label: "_Published Mar 18, 2025, 12:15 PM_
+Trump pledges overhaul of kennedy centre in first visit as board chair" }
+Tsatnefeace@{ shape: win-pane, label: "_Published Dec 20, 2025, 08:59 AM_
+Trump’s name added to kennedy center facade, a day after change" }
+TnCrdsdpsdnk@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:34 AM_
+The kennedy center board votes to add ‘trump’ to its name, drawing backlash" }
+Niuaakpoidsu@{ shape: win-pane, label: "_Published Dec 18, 2025, 05:45 AM_
+New white house plaques attack trump’s democratic predecessors, bush" }
 
-Iisrrnhehtant:::txtsize --> KhsLaeiasanth:::txtsize
-KhsLaeiasanth:::txtsize --> UdPscooimat:::txtsize
-UdPscooimat:::txtsize --> Arnclaenigi:::txtsize
-UdPscooimat:::txtsize --> IfarPeoselbia:::txtsize
-KhsLaeiasanth:::txtsize --> Wanrsfeytffecnd:::txtsize
-Wanrsfeytffecnd:::txtsize --> TmerusdchCrann:::txtsize
-Wanrsfeytffecnd:::txtsize --> VaupfdeIri:::txtsize
-Iisrrnhehtant:::txtsize --> Biiscertexefsiy:::txtsize
-Biiscertexefsiy:::txtsize --> Khsrsecreiodcroy:::txtsize
-Khsrsecreiodcroy:::txtsize --> Biisshtoveuter:::txtsize
-Khsrsecreiodcroy:::txtsize --> Neesuucrtsrshe:::txtsize
-Biiscertexefsiy:::txtsize --> Neesuucrtsrshe:::txtsize
-Neesuucrtsrshe:::txtsize --> PeWeoteeeutocrn:::txtsize
-Neesuucrtsrshe:::txtsize --> Biiseshnsfa:::txtsize
+KdtrajoteaTsa:::txtsize --> Tsyenrednoe:::txtsize
+Tsyenrednoe:::txtsize --> TnCrdsdpsdnk:::txtsize
+TnCrdsdpsdnk:::txtsize --> TteeaohotvKdt:::txtsize
+TnCrdsdpsdnk:::txtsize --> Tperoneisioh:::txtsize
+Tsyenrednoe:::txtsize --> Tsatnefeace:::txtsize
+Tsatnefeace:::txtsize --> TnCrdsdpsdnk:::txtsize
+Tsatnefeace:::txtsize --> Niuaakpoidsu:::txtsize
+KdtrajoteaTsa:::txtsize --> Tsyenrednoe:::txtsize
+Tsyenrednoe:::txtsize --> TnCrdsdpsdnk:::txtsize
+TnCrdsdpsdnk:::txtsize --> TteeaohotvKdt:::txtsize
+TnCrdsdpsdnk:::txtsize --> Tperoneisioh:::txtsize
+Tsyenrednoe:::txtsize --> Tsatnefeace:::txtsize
+Tsatnefeace:::txtsize --> TnCrdsdpsdnk:::txtsize
+Tsatnefeace:::txtsize --> Niuaakpoidsu:::txtsize
 
-Apcrcoerreao@{ shape: win-pane, label: "_Published Dec 25, 2025, 07:29 AM_
-Atmospheric river drenches los angeles, triggers widespread flooding" }
-MCosbsysvt@{ shape: win-pane, label: "_Published Dec 24, 2025, 01:23 PM_
-Major california storm brings heavy rain, snow, evacuations" }
-Dtrslrsashewii@{ shape: win-pane, label: "_Published Jan 13, 2025, 08:05 PM_
-Death toll from los angeles fires rises to at least 24, with dangerous winds incoming" }
-Lgfdeeomllo@{ shape: win-pane, label: "_Published Jan 13, 2025, 06:37 AM_
-Los angeles fires deliver latest blow to embattled hollywood" }
-Wanslrtpeofi@{ shape: win-pane, label: "_Published Jan 13, 2025, 07:08 PM_
-With tacos and toys, angelenos rally to support neighbours after fires" }
-TnruseaoeascNw@{ shape: win-pane, label: "_Published Dec 12, 2025, 09:53 AM_
-Torrential rains unleash widespread flooding, evacuations in pacific northwest" }
-UatwrmetpyiU@{ shape: win-pane, label: "_Published Dec 11, 2025, 12:45 PM_
-Unusually strong winter storms expected to drop heavy snow in the us" }
-ActsrrsUuec@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:00 AM_
-Arctic blast grips central, north-eastern us in sub-freezing cold" }
-Esnmsurofa@{ shape: win-pane, label: "_Published Oct 14, 2025, 11:10 AM_
-Early season storm sends a deluge of rain to california" }
-Cowirvtiaet@{ shape: win-pane, label: "_Published Aug 22, 2025, 10:31 AM_
-California wildfire forces evacuations in rural wine country" }
-Stbtirtdevon@{ shape: win-pane, label: "_Published Aug 21, 2025, 10:45 PM_
-Spain to probe whether wildfire-hit towns drafted prevention plans" }
+TtCtvtdlc@{ shape: win-pane, label: "_Published Dec 25, 2025, 10:57 AM_
+Trump takes christmas eve shot at ‘radical left scum’" }
+Unghedtgrne@{ shape: win-pane, label: "_Published Dec 23, 2025, 11:00 PM_
+Us economic growth surges in 3rd quarter, highest rate in two years" }
+Rnbcstnamtn@{ shape: win-pane, label: "_Published Aug 22, 2025, 08:15 AM_
+Rise in us jobless claims adds to signs of labour market softness" }
+Usewrapeisgrn@{ shape: win-pane, label: "_Published May 30, 2025, 09:28 AM_
+Us jobs market showing cracks as corporate profits post largest drop since 2020" }
+IvoSeaeeoti@{ shape: win-pane, label: "_Published Jul 06, 2025, 10:59 AM_
+Into a void: young us college graduates face employment crisis" }
+Lsounenonmr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:01 PM_
+Longest us govt shutdown is over but new showdowns loom for trump" }
+Tsdootveuns@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:48 AM_
+Trump signs deal to end longest us government shutdown in history" }
+Pehmednpoeid@{ shape: win-pane, label: "_Published Dec 25, 2025, 06:04 AM_
+Pope leo, on christmas eve, says denying help to poor is rejecting god" }
+Pewsaiomgcd@{ shape: win-pane, label: "_Published Dec 22, 2025, 10:03 PM_
+Pope leo’s new us bishops are critics of trump’s migrant crackdown" }
+Pagtrgiiuc@{ shape: win-pane, label: "_Published Dec 22, 2025, 09:24 PM_
+Pope warns against power struggles in vatican bureaucracy" }
+Peeflnrshtcn@{ shape: win-pane, label: "_Published Dec 22, 2025, 06:29 PM_
+Pope leo urges joyful, welcoming church in speech to vatican cardinals" }
+BeeaieessGa@{ shape: win-pane, label: "_Published Dec 24, 2025, 09:40 PM_
+Bethlehem celebrates first festive christmas since gaza war" }
+Behmeuftiar@{ shape: win-pane, label: "_Published Dec 07, 2025, 04:11 AM_
+Bethlehem christmas tree lit up for first time since gaza war" }
+Ilnnrtyzaho@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:54 PM_
+Israel defence minister vows to stay in gaza, establish outposts" }
 
-Apcrcoerreao:::txtsize --> MCosbsysvt:::txtsize
-MCosbsysvt:::txtsize --> Dtrslrsashewii:::txtsize
-Dtrslrsashewii:::txtsize --> Lgfdeeomllo:::txtsize
-Dtrslrsashewii:::txtsize --> Wanslrtpeofi:::txtsize
-MCosbsysvt:::txtsize --> TnruseaoeascNw:::txtsize
-TnruseaoeascNw:::txtsize --> UatwrmetpyiU:::txtsize
-TnruseaoeascNw:::txtsize --> ActsrrsUuec:::txtsize
-Apcrcoerreao:::txtsize --> Esnmsurofa:::txtsize
-Esnmsurofa:::txtsize --> Cowirvtiaet:::txtsize
-Cowirvtiaet:::txtsize --> Stbtirtdevon:::txtsize
+TtCtvtdlc:::txtsize --> Unghedtgrne:::txtsize
+Unghedtgrne:::txtsize --> Rnbcstnamtn:::txtsize
+Rnbcstnamtn:::txtsize --> Usewrapeisgrn:::txtsize
+Rnbcstnamtn:::txtsize --> IvoSeaeeoti:::txtsize
+Unghedtgrne:::txtsize --> Lsounenonmr:::txtsize
+Lsounenonmr:::txtsize --> Tsdootveuns:::txtsize
+TtCtvtdlc:::txtsize --> Pehmednpoeid:::txtsize
+Pehmednpoeid:::txtsize --> Pewsaiomgcd:::txtsize
+Pewsaiomgcd:::txtsize --> Pagtrgiiuc:::txtsize
+Pewsaiomgcd:::txtsize --> Peeflnrshtcn:::txtsize
+Pehmednpoeid:::txtsize --> BeeaieessGa:::txtsize
+BeeaieessGa:::txtsize --> Behmeuftiar:::txtsize
+BeeaieessGa:::txtsize --> Ilnnrtyzaho:::txtsize
 
-Tbdrsurefefyiec@{ shape: win-pane, label: "_Published Dec 25, 2025, 06:49 AM_
-Trump-backed asfura wins honduras presidency after weeks of delays in disputed election" }
-FoaoTmelonbe@{ shape: win-pane, label: "_Published Dec 02, 2025, 07:30 AM_
-From honduras to poland, trump meddles in elections as never before" }
-UgVuMoceoyRllk@{ shape: win-pane, label: "_Published Dec 01, 2025, 05:07 AM_
-Us has given venezuela’s maduro chance to leave country, says republican lawmaker" }
-Tsicvsugztliee@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:19 PM_
-Trump says airspace above and surrounding venezuela to be closed in its entirety" }
-Hunllyoat@{ shape: win-pane, label: "_Published Nov 30, 2025, 12:09 AM_
-How could venezuela’s military respond to a us attack?" }
-TaiteSoadoerei@{ shape: win-pane, label: "_Published Jul 18, 2025, 05:26 AM_
-Trump administration tells us diplomats abroad not to opine on foreign elections" }
-SDtssnewrrsuiao@{ shape: win-pane, label: "_Published Jul 12, 2025, 01:05 AM_
-State department starts firing more than 1,350 workers in trump’s shake-up of diplomatic corps" }
-Uroeuimvusy@{ shape: win-pane, label: "_Published Jul 17, 2025, 09:35 AM_
-Us supreme court keeps ruling in trump’s favour, but doesn’t say why" }
-FHrpdaurhdf@{ shape: win-pane, label: "_Published Dec 04, 2025, 10:45 AM_
-Freed honduran ex-president says trump pardon ‘changed my life’" }
-HroacTiiie@{ shape: win-pane, label: "_Published Dec 01, 2025, 01:54 AM_
-Hondurans vote in an election trump is trying to influence" }
-UgVuMoceoyRllk@{ shape: win-pane, label: "_Published Dec 01, 2025, 05:07 AM_
-Us has given venezuela’s maduro chance to leave country, says republican lawmaker" }
-PehtGddrartern@{ shape: win-pane, label: "_Published Nov 28, 2025, 02:03 AM_
-Pete hegseth visits uss gerald r. ford aircraft carrier in latin america region" }
-Trdostdr@{ shape: win-pane, label: "_Published Jun 08, 2025, 03:25 PM_
-Trump rewarding loyalists with pardon spree" }
-TpnrlgtUii@{ shape: win-pane, label: "_Published Jan 21, 2025, 09:16 AM_
-Trump pardons nearly all charged with jan 6 us capitol riot" }
-Tpnkferflrh@{ shape: win-pane, label: "_Published Jan 22, 2025, 08:59 AM_
-Trump pardons silk road founder ulbricht for online drug scheme" }
+Cncimeeiro@{ shape: win-pane, label: "_Published Dec 25, 2025, 08:06 AM_
+Chasing an economic boom, white house dismisses risks of ai" }
 
-Tbdrsurefefyiec:::txtsize --> FoaoTmelonbe:::txtsize
-FoaoTmelonbe:::txtsize --> UgVuMoceoyRllk:::txtsize
-UgVuMoceoyRllk:::txtsize --> Tsicvsugztliee:::txtsize
-UgVuMoceoyRllk:::txtsize --> Hunllyoat:::txtsize
-FoaoTmelonbe:::txtsize --> TaiteSoadoerei:::txtsize
-TaiteSoadoerei:::txtsize --> SDtssnewrrsuiao:::txtsize
-TaiteSoadoerei:::txtsize --> Uroeuimvusy:::txtsize
-Tbdrsurefefyiec:::txtsize --> FHrpdaurhdf:::txtsize
-FHrpdaurhdf:::txtsize --> HroacTiiie:::txtsize
-HroacTiiie:::txtsize --> UgVuMoceoyRllk:::txtsize
-HroacTiiie:::txtsize --> PehtGddrartern:::txtsize
-FHrpdaurhdf:::txtsize --> Trdostdr:::txtsize
-Trdostdr:::txtsize --> TpnrlgtUii:::txtsize
-Trdostdr:::txtsize --> Tpnkferflrh:::txtsize
 
 ```
-<i>Last updated: 2025-12-25 08:01:19.142663 (GMT+8)</i>
+<i>Last updated: 2025-12-25 12:00:41.318833 (GMT+8)</i>
 <!-- END -->
