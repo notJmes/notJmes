@@ -16,8 +16,95 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-COBoitrNsb@{ shape: win-pane, label: "_Published Dec 25, 2025, 11:57 PM_
-Carol of the bells once filled the air here. now it’s only bombs." }
+Ilttieeibes@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:00 AM_
+Israeli settler attack injures palestinian baby, five arrested" }
+Hrhotciakxais@{ shape: win-pane, label: "_Published Dec 24, 2025, 05:24 PM_
+How israel’s hilltop settlers coordinate attacks to expel palestinians" }
+AkiaisniuWayioe@{ shape: win-pane, label: "_Published Jul 15, 2025, 05:19 PM_
+Attacks against palestinians intensify in occupied west bank, says un rights office" }
+Gcsiasskwfsaoie@{ shape: win-pane, label: "_Published Jul 09, 2025, 02:12 PM_
+‘ghost camp’: israeli operations in west bank push wave of palestinians from their homes" }
+Attdhoennnwkdts@{ shape: win-pane, label: "_Published Jul 14, 2025, 05:09 AM_
+Anger turns towards washington in west bank town mourning two men killed by settlers" }
+IluCerntenB@{ shape: win-pane, label: "_Published Dec 21, 2025, 06:29 PM_
+Israel’s security cabinet approves 19 new settlements in west bank" }
+IlausBemxiaePtne@{ shape: win-pane, label: "_Published Sep 12, 2025, 06:16 AM_
+Israel’s netanyahu signs west bank settlement expansion plan, rules out palestinian state" }
+ToTvswoet@{ shape: win-pane, label: "_Published Sep 26, 2025, 06:02 AM_
+‘time to stop’: trump vows israel will not annex west bank" }
+Siecsyoafoenlnit@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:16 PM_
+S’pore imposes sanctions, entry bans on 4 israelis for violence against palestinians in west bank" }
+Sposgsionacsln@{ shape: win-pane, label: "_Published Sep 22, 2025, 03:23 PM_
+Singapore to impose targeted sanctions, condemns israel’s actions in palestine" }
+Sweiooaisteosa@{ shape: win-pane, label: "_Published Sep 22, 2025, 03:12 PM_
+S’pore will reconsider position on palestine if situation deteriorates: vivian" }
+Sweiooaisteosa@{ shape: win-pane, label: "_Published Sep 22, 2025, 03:12 PM_
+S’pore will reconsider position on palestine if situation deteriorates: vivian" }
+SpeeetnaiUoorGel@{ shape: win-pane, label: "_Published Nov 18, 2025, 02:00 PM_
+Singapore welcomes un security council’s adoption of us resolution on trump’s gaza peace plan" }
+UuCipruomzcn@{ shape: win-pane, label: "_Published Nov 18, 2025, 06:27 AM_
+Un security council adopts us resolution on trump’s gaza peace plan" }
+Sweiooaisteosa@{ shape: win-pane, label: "_Published Sep 22, 2025, 03:12 PM_
+S’pore will reconsider position on palestine if situation deteriorates: vivian" }
+
+Ilttieeibes:::txtsize --> Hrhotciakxais:::txtsize
+Hrhotciakxais:::txtsize --> AkiaisniuWayioe:::txtsize
+AkiaisniuWayioe:::txtsize --> Gcsiasskwfsaoie:::txtsize
+AkiaisniuWayioe:::txtsize --> Attdhoennnwkdts:::txtsize
+Hrhotciakxais:::txtsize --> IluCerntenB:::txtsize
+IluCerntenB:::txtsize --> IlausBemxiaePtne:::txtsize
+IluCerntenB:::txtsize --> ToTvswoet:::txtsize
+Ilttieeibes:::txtsize --> Siecsyoafoenlnit:::txtsize
+Siecsyoafoenlnit:::txtsize --> Sposgsionacsln:::txtsize
+Sposgsionacsln:::txtsize --> Sweiooaisteosa:::txtsize
+Sposgsionacsln:::txtsize --> Sweiooaisteosa:::txtsize
+Siecsyoafoenlnit:::txtsize --> SpeeetnaiUoorGel:::txtsize
+SpeeetnaiUoorGel:::txtsize --> UuCipruomzcn:::txtsize
+SpeeetnaiUoorGel:::txtsize --> Sweiooaisteosa:::txtsize
+
+BsharTaitveb@{ shape: win-pane, label: "_Published Dec 26, 2025, 02:36 AM_
+British tech campaigner sues trump administration over us entry ban" }
+UgoEmocstaoldop@{ shape: win-pane, label: "_Published Dec 24, 2025, 08:03 AM_
+Us targets former eu commissioner, activists with visa bans over alleged censorship" }
+TaitrectfpnHa@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:25 AM_
+Trump administration orders enhanced vetting for applicants of h-1b visa" }
+Tddisepooes@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:39 AM_
+Trump defends h-1b visas as needed despite moves to raise costs" }
+Innuemrfrvvu@{ shape: win-pane, label: "_Published Nov 17, 2025, 02:30 PM_
+International student enrolment drops after trump’s visa overhaul" }
+EesbfSshglvnh@{ shape: win-pane, label: "_Published Dec 24, 2025, 07:38 PM_
+Europe slams visa bans after us takes fresh swing at allies over ‘censorship’" }
+UgoEmocstaoldop@{ shape: win-pane, label: "_Published Dec 24, 2025, 08:03 AM_
+Us targets former eu commissioner, activists with visa bans over alleged censorship" }
+TaitrectfpnHa@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:25 AM_
+Trump administration orders enhanced vetting for applicants of h-1b visa" }
+UgoEmocstaoldop@{ shape: win-pane, label: "_Published Dec 24, 2025, 08:03 AM_
+Us targets former eu commissioner, activists with visa bans over alleged censorship" }
+TaitrectfpnHa@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:25 AM_
+Trump administration orders enhanced vetting for applicants of h-1b visa" }
+
+BsharTaitveb:::txtsize --> UgoEmocstaoldop:::txtsize
+UgoEmocstaoldop:::txtsize --> TaitrectfpnHa:::txtsize
+TaitrectfpnHa:::txtsize --> Tddisepooes:::txtsize
+TaitrectfpnHa:::txtsize --> Innuemrfrvvu:::txtsize
+BsharTaitveb:::txtsize --> EesbfSshglvnh:::txtsize
+EesbfSshglvnh:::txtsize --> UgoEmocstaoldop:::txtsize
+UgoEmocstaoldop:::txtsize --> TaitrectfpnHa:::txtsize
+EesbfSshglvnh:::txtsize --> UgoEmocstaoldop:::txtsize
+UgoEmocstaoldop:::txtsize --> TaitrectfpnHa:::txtsize
+
+ZsssrwSykur@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:53 AM_
+Zelensky has talks on ukraine with us envoys witkoff, kushner" }
+Unlydprstowren@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:43 PM_
+Ukraine’s zelensky says draft plan freezes front line, opens way for concessions" }
+ToiegRaipuoorpp@{ shape: win-pane, label: "_Published Nov 23, 2025, 12:09 AM_
+Trump officials’ meeting with russian in miami spurs questions about ukraine peace plan" }
+Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
+Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
+EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
+Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
+Ranaomedrhuaiuv@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
+Russia says no ukraine compromise reached after five-hour putin talks with trump envoys" }
 Unerdsseisifi@{ shape: win-pane, label: "_Published Dec 25, 2025, 10:04 PM_
 Ukraine fires storm shadow missiles, drones to hit russia’s oil, gas facilities" }
 Raiauwllrsa@{ shape: win-pane, label: "_Published Dec 25, 2025, 03:59 AM_
@@ -32,125 +119,20 @@ ZsyeronatalUn@{ shape: win-pane, label: "_Published Dec 23, 2025, 08:58 PM_
 Zelensky says several draft documents ready after miami talks on ukraine war" }
 SstoooPiouo@{ shape: win-pane, label: "_Published Feb 20, 2025, 09:15 AM_
 Seoul says it supports north korean pows’ right to asylum in south" }
-NKniaegiS@{ shape: win-pane, label: "_Published Dec 24, 2025, 12:42 PM_
-North korean pows in ukraine seeking ‘new life’ in south" }
-ZsyeronatalUn@{ shape: win-pane, label: "_Published Dec 23, 2025, 08:58 PM_
-Zelensky says several draft documents ready after miami talks on ukraine war" }
-ToiegRaipuoorpp@{ shape: win-pane, label: "_Published Nov 23, 2025, 12:09 AM_
-Trump officials’ meeting with russian in miami spurs questions about ukraine peace plan" }
-Unlyninatnsre@{ shape: win-pane, label: "_Published Dec 23, 2025, 05:33 AM_
-Ukraine’s zelensky says negotiations on war settlement ‘close to a real result’" }
-SstoooPiouo@{ shape: win-pane, label: "_Published Feb 20, 2025, 09:15 AM_
-Seoul says it supports north korean pows’ right to asylum in south" }
-NKsilsnagUnahi@{ shape: win-pane, label: "_Published Jan 14, 2025, 05:38 PM_
-North korea’s suicide soldiers pose new challenge for ukraine in war with russia" }
-Ssooaesngiye@{ shape: win-pane, label: "_Published Feb 11, 2025, 06:25 PM_
-Seoul says north korea has given russia 200 long-range artillery pieces" }
 
-COBoitrNsb:::txtsize --> Unerdsseisifi:::txtsize
+ZsssrwSykur:::txtsize --> Unlydprstowren:::txtsize
+Unlydprstowren:::txtsize --> ToiegRaipuoorpp:::txtsize
+ToiegRaipuoorpp:::txtsize --> Uneftcrespepp:::txtsize
+Unlydprstowren:::txtsize --> EihaDsitnnannsake:::txtsize
+EihaDsitnnannsake:::txtsize --> Ranaomedrhuaiuv:::txtsize
+ZsssrwSykur:::txtsize --> Unerdsseisifi:::txtsize
 Unerdsseisifi:::txtsize --> Raiauwllrsa:::txtsize
 Raiauwllrsa:::txtsize --> Sdsissctacnkes:::txtsize
 Raiauwllrsa:::txtsize --> Unlydprstowren:::txtsize
 Unerdsseisifi:::txtsize --> NKniaegiS:::txtsize
 NKniaegiS:::txtsize --> ZsyeronatalUn:::txtsize
 NKniaegiS:::txtsize --> SstoooPiouo:::txtsize
-COBoitrNsb:::txtsize --> NKniaegiS:::txtsize
-NKniaegiS:::txtsize --> ZsyeronatalUn:::txtsize
-ZsyeronatalUn:::txtsize --> ToiegRaipuoorpp:::txtsize
-ZsyeronatalUn:::txtsize --> Unlyninatnsre:::txtsize
-NKniaegiS:::txtsize --> SstoooPiouo:::txtsize
-SstoooPiouo:::txtsize --> NKsilsnagUnahi:::txtsize
-SstoooPiouo:::txtsize --> Ssooaesngiye:::txtsize
-
-Ssivggoctduoppdr@{ shape: win-pane, label: "_Published Dec 25, 2025, 11:24 PM_
-Swedish police investigating serious incident in boden; a number of people reported injured" }
-TnifgytrlaJhu@{ shape: win-pane, label: "_Published Dec 23, 2025, 09:43 PM_
-Two men in britain found guilty over terrorism plot against jewish community" }
-Hsicehwihdco@{ shape: win-pane, label: "_Published Dec 21, 2025, 05:00 AM_
-How australia has changed in the one week since the bondi beach shooting" }
-Fayenaogiiole@{ shape: win-pane, label: "_Published Dec 18, 2025, 07:30 AM_
-Funeral for youngest bondi beach shooting victim, matilda, to be held on dec 18" }
-Bsiagcasitant@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:30 PM_
-British police plan tougher action against anti-semitic chants and protests" }
-Aapegeoiweiufe@{ shape: win-pane, label: "_Published Dec 17, 2025, 01:45 PM_
-Australian police charge alleged bondi killer with terrorism, 15 counts of murder" }
-Asdninualissorg@{ shape: win-pane, label: "_Published Oct 02, 2025, 05:29 PM_
-At least two dead in british synagogue attack, police kill suspect said to be carrying bomb" }
-Tlfrlesno@{ shape: win-pane, label: "_Published Dec 24, 2025, 08:13 AM_
-Two police officers killed in explosion in moscow" }
-TsgalMwlofSs@{ shape: win-pane, label: "_Published Dec 22, 2025, 04:03 PM_
-Top russian general killed in moscow car blast hours after us talks" }
-Uovkakesue@{ shape: win-pane, label: "_Published Dec 22, 2025, 06:56 AM_
-Us envoy steve witkoff calls ukraine talks productive" }
-Feuiea@{ shape: win-pane, label: "_Published Feb 24, 2023, 05:54 PM_
-Feb 24, 2022: the day russia invaded ukraine" }
-Srilyclnxiac@{ shape: win-pane, label: "_Published Apr 25, 2025, 06:30 PM_
-Senior russian military officer killed in car explosion near moscow" }
-Wrsnauodrcfe@{ shape: win-pane, label: "_Published Apr 24, 2025, 04:30 PM_
-Why ukraine’s zelensky has refused to accede to trump’s ceasefire deal" }
-CooahRadayrite@{ shape: win-pane, label: "_Published Apr 25, 2025, 01:15 PM_
-Cash bonus for a year fighting russia? inside ukraine’s youth recruitment drive" }
-
-Ssivggoctduoppdr:::txtsize --> TnifgytrlaJhu:::txtsize
-TnifgytrlaJhu:::txtsize --> Hsicehwihdco:::txtsize
-Hsicehwihdco:::txtsize --> Fayenaogiiole:::txtsize
-TnifgytrlaJhu:::txtsize --> Bsiagcasitant:::txtsize
-Bsiagcasitant:::txtsize --> Aapegeoiweiufe:::txtsize
-Bsiagcasitant:::txtsize --> Asdninualissorg:::txtsize
-Ssivggoctduoppdr:::txtsize --> Tlfrlesno:::txtsize
-Tlfrlesno:::txtsize --> TsgalMwlofSs:::txtsize
-TsgalMwlofSs:::txtsize --> Uovkakesue:::txtsize
-TsgalMwlofSs:::txtsize --> Feuiea:::txtsize
-Tlfrlesno:::txtsize --> Srilyclnxiac:::txtsize
-Srilyclnxiac:::txtsize --> Wrsnauodrcfe:::txtsize
-Srilyclnxiac:::txtsize --> CooahRadayrite:::txtsize
-
-Binrannriisa@{ shape: win-pane, label: "_Published Dec 25, 2025, 11:04 PM_
-Britain’s king charles lauds unity in diversity in christmas message" }
-Bihlotipaelid@{ shape: win-pane, label: "_Published Oct 24, 2025, 10:25 PM_
-Britain pushes allies to boost ukraine support as zelensky lands in london" }
-EsnbnUndozsas@{ shape: win-pane, label: "_Published Oct 23, 2025, 11:00 PM_
-Eu vows financial backing for ukraine, holds off on frozen russian assets plan" }
-ErtkftassewUn@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:10 AM_
-Eu approves 19th package of sanctions against russia over its war in ukraine" }
-Ucsilrrionitncr@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:27 PM_
-Us sanctions russian oil majors over ukraine, prompting india jitters and moscow fury" }
-Ucsilrrionitncr@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:27 PM_
-Us sanctions russian oil majors over ukraine, prompting india jitters and moscow fury" }
-UpmucssorirPwht@{ shape: win-pane, label: "_Published Oct 23, 2025, 05:33 AM_
-Us slaps ‘tremendous sanctions’ on russian oil for ukraine war, says putin wasn’t ‘honest’" }
-Tsemunpogrnil@{ shape: win-pane, label: "_Published May 19, 2025, 10:54 PM_
-Trump says he will meet putin in budapest, touting progress in ukraine talks" }
-KhsLaeiasanth@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:17 PM_
-King charles, pope leo pray together in a 500-year first in vatican’s sistine chapel" }
-UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
-Us cardinal prevost elected pope leo xiv, first american pontiff" }
-Arnclaenigi@{ shape: win-pane, label: "_Published May 09, 2025, 06:49 AM_
-A reformer and a reconciler: what pope leo’s new reign might bring" }
-IfarPeoselbia@{ shape: win-pane, label: "_Published May 09, 2025, 03:40 AM_
-In his first appearance, pope leo xiv offers three big clues about his papacy" }
-Wanrsfeytffecnd@{ shape: win-pane, label: "_Published Oct 03, 2025, 05:12 PM_
-Woman appointed archbishop of canterbury a historic first for the church of england" }
-TmerusdchCrann@{ shape: win-pane, label: "_Published Oct 01, 2025, 10:49 PM_
-Two women seen as front runners ahead of archbishop of canterbury announcement" }
-VaupfdeIri@{ shape: win-pane, label: "_Published Oct 03, 2025, 11:05 AM_
-Virtual jesus? people of faith divided as ai enters religion" }
-
-Binrannriisa:::txtsize --> Bihlotipaelid:::txtsize
-Bihlotipaelid:::txtsize --> EsnbnUndozsas:::txtsize
-EsnbnUndozsas:::txtsize --> ErtkftassewUn:::txtsize
-EsnbnUndozsas:::txtsize --> Ucsilrrionitncr:::txtsize
-Bihlotipaelid:::txtsize --> Ucsilrrionitncr:::txtsize
-Ucsilrrionitncr:::txtsize --> UpmucssorirPwht:::txtsize
-Ucsilrrionitncr:::txtsize --> Tsemunpogrnil:::txtsize
-Binrannriisa:::txtsize --> KhsLaeiasanth:::txtsize
-KhsLaeiasanth:::txtsize --> UdPscooimat:::txtsize
-UdPscooimat:::txtsize --> Arnclaenigi:::txtsize
-UdPscooimat:::txtsize --> IfarPeoselbia:::txtsize
-KhsLaeiasanth:::txtsize --> Wanrsfeytffecnd:::txtsize
-Wanrsfeytffecnd:::txtsize --> TmerusdchCrann:::txtsize
-Wanrsfeytffecnd:::txtsize --> VaupfdeIri:::txtsize
 
 ```
-<i>Last updated: 2025-12-26 00:01:03.107949 (GMT+8)</i>
+<i>Last updated: 2025-12-26 04:00:27.888090 (GMT+8)</i>
 <!-- END -->
