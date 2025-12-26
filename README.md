@@ -16,132 +16,138 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Lneontsslnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:07 PM_
-London’s love of wood burning stoves sparks a pollution debate" }
-Saisybsn@{ shape: win-pane, label: "_Published Nov 27, 2023, 05:13 PM_
-Sichuan residents salty over bacon smoking ban" }
-Sbnmroineh@{ shape: win-pane, label: "_Published Nov 05, 2023, 08:59 AM_
-Straw burning blamed for air pollution in north-east china" }
-Alosrodaaml@{ shape: win-pane, label: "_Published Oct 18, 2023, 03:18 PM_
-Air pollution missing from two-thirds of national climate plans" }
-Ctttptepl@{ shape: win-pane, label: "_Published Nov 02, 2023, 09:21 AM_
-Climate’s ‘catch-22’: cutting pollution heats up the planet" }
-ChntoeggSCi@{ shape: win-pane, label: "_Published Nov 07, 2021, 09:48 PM_
-China has 'long way to go' to meet ecological goals: state council" }
-Caooeyow@{ shape: win-pane, label: "_Published Oct 24, 2021, 10:39 PM_
-China aims to cut fossil energy use to below 20% by 2060" }
-MoimoiSaimcied@{ shape: win-pane, label: "_Published Nov 03, 2025, 05:00 AM_
-More could die from air pollution in s-e asia even if climate action is taken: study" }
-Lhehfealodd@{ shape: win-pane, label: "_Published Mar 07, 2023, 08:59 AM_
-Less than 1% of earth has safe levels of air pollution, study finds" }
-Ptesrnaditis@{ shape: win-pane, label: "_Published Mar 06, 2023, 08:06 PM_
-Pollution returns to northern china as industrial activities rise" }
-Eennrehailny@{ shape: win-pane, label: "_Published Mar 06, 2023, 12:44 PM_
-Even newborns aren’t spared the wrath of dhaka’s air pollution: daily star" }
-Tctoitde@{ shape: win-pane, label: "_Published Aug 09, 2021, 04:42 PM_
-The un climate report's five futures decoded" }
-GliusCinia@{ shape: win-pane, label: "_Published May 27, 2021, 08:53 AM_
-Global warming could pass 1.5 deg c within the next five years: un" }
+LEoEuseton@{ shape: win-pane, label: "_Published Dec 26, 2025, 07:26 PM_
+Larry ellison, not elon musk, was the tech titan who defined 2025" }
+Tksindoae@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:33 AM_
+Tiktok signs us joint venture deal to end ban threat" }
+Sotmnqinoeua@{ shape: win-pane, label: "_Published Nov 24, 2025, 06:38 PM_
+Senator wants trump to answer questions on tiktok divestiture plan" }
+TbUkeigefre@{ shape: win-pane, label: "_Published Sep 26, 2025, 04:52 AM_
+Trump backs us$14b tiktok deal; china urges ‘open and fair’ treatment" }
+UmsiiaTkrwrsuc@{ shape: win-pane, label: "_Published Oct 17, 2025, 08:07 AM_
+Us lawmaker says licensing deal for tiktok algorithm would raise serious concerns" }
+Uaseynavkrel@{ shape: win-pane, label: "_Published Oct 30, 2025, 09:41 PM_
+Us treasury’s bessent says china has approved tiktok transfer deal" }
+TtakeahlSrait@{ shape: win-pane, label: "_Published Sep 23, 2025, 08:56 AM_
+Trump team says tiktok deal near, with oracle and silver lake among investors" }
+TsenokrlpaTk@{ shape: win-pane, label: "_Published Jan 22, 2025, 07:59 AM_
+Trump says he’s open to elon musk or larry ellison purchasing tiktok" }
+TsTkryapa@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:31 AM_
+Trump signs tiktok order delaying ban of app by 75 days" }
+Tkdosoyhnp@{ shape: win-pane, label: "_Published Jan 19, 2025, 02:35 AM_
+Tiktok goes dark for us users, company pins hope on trump" }
+TkoSituyast@{ shape: win-pane, label: "_Published Jan 20, 2025, 06:55 AM_
+Tiktok restores us service after trump says ‘we have to save it’" }
+Tkdosoyhnp@{ shape: win-pane, label: "_Published Jan 19, 2025, 02:35 AM_
+Tiktok goes dark for us users, company pins hope on trump" }
+TkilraSoscoe@{ shape: win-pane, label: "_Published Jan 18, 2025, 10:35 AM_
+Tiktok says it will go dark on jan 19 in us without assurances from biden" }
+Uropsolnstm@{ shape: win-pane, label: "_Published Jan 17, 2025, 11:09 PM_
+Us supreme court upholds tiktok ban, leaving app’s fate to trump" }
 
-Lneontsslnt:::txtsize --> Saisybsn:::txtsize
-Saisybsn:::txtsize --> Sbnmroineh:::txtsize
-Sbnmroineh:::txtsize --> Alosrodaaml:::txtsize
-Sbnmroineh:::txtsize --> Ctttptepl:::txtsize
-Saisybsn:::txtsize --> ChntoeggSCi:::txtsize
-ChntoeggSCi:::txtsize --> Caooeyow:::txtsize
-Lneontsslnt:::txtsize --> MoimoiSaimcied:::txtsize
-MoimoiSaimcied:::txtsize --> Lhehfealodd:::txtsize
-Lhehfealodd:::txtsize --> Ptesrnaditis:::txtsize
-Lhehfealodd:::txtsize --> Eennrehailny:::txtsize
-MoimoiSaimcied:::txtsize --> Tctoitde:::txtsize
-Tctoitde:::txtsize --> GliusCinia:::txtsize
+LEoEuseton:::txtsize --> Tksindoae:::txtsize
+Tksindoae:::txtsize --> Sotmnqinoeua:::txtsize
+Sotmnqinoeua:::txtsize --> TbUkeigefre:::txtsize
+Sotmnqinoeua:::txtsize --> UmsiiaTkrwrsuc:::txtsize
+Tksindoae:::txtsize --> Uaseynavkrel:::txtsize
+Uaseynavkrel:::txtsize --> TtakeahlSrait:::txtsize
+LEoEuseton:::txtsize --> TsenokrlpaTk:::txtsize
+TsenokrlpaTk:::txtsize --> TsTkryapa:::txtsize
+TsTkryapa:::txtsize --> Tkdosoyhnp:::txtsize
+TsTkryapa:::txtsize --> TkoSituyast:::txtsize
+TsenokrlpaTk:::txtsize --> Tkdosoyhnp:::txtsize
+Tkdosoyhnp:::txtsize --> TkilraSoscoe:::txtsize
+Tkdosoyhnp:::txtsize --> Uropsolnstm:::txtsize
 
-StitiraYirs@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:36 PM_
-Snowstorm disrupts holiday travel at new york city airports" }
-Treeamdshatacsn@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:15 AM_
-Temperatures in seoul fall to minus 11.8 deg c as south korea is hit by season’s coldest morning" }
-Sgszfaraedune@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:10 AM_
-Strong winds, blizzards forecast across japan; weekend disruption feared" }
-Treeamdshatacsn@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:15 AM_
-Temperatures in seoul fall to minus 11.8 deg c as south korea is hit by season’s coldest morning" }
-Jtaawntotptun@{ shape: win-pane, label: "_Published Dec 16, 2025, 03:55 PM_
-Japan to revamp weather warning system from may to aid prompt evacuation" }
-Ntishaasodfesaly@{ shape: win-pane, label: "_Published Dec 23, 2025, 06:15 PM_
-No white christmas: south korea to brace itself for cold snap from dec 25 but snowfall unlikely" }
-Hsesoatfseun@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:46 PM_
-Heavy snow returns as seoul braces itself for possible disruption" }
-Snszoiuren@{ shape: win-pane, label: "_Published Nov 18, 2025, 03:10 PM_
-Season’s first sub-zero cold grips south korea, to ease on nov 20" }
-Sgszfaraedune@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:10 AM_
-Strong winds, blizzards forecast across japan; weekend disruption feared" }
-Treeamdshatacsn@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:15 AM_
-Temperatures in seoul fall to minus 11.8 deg c as south korea is hit by season’s coldest morning" }
-Sgszfaraedune@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:10 AM_
-Strong winds, blizzards forecast across japan; weekend disruption feared" }
-Ntishaasodfesaly@{ shape: win-pane, label: "_Published Dec 23, 2025, 06:15 PM_
-No white christmas: south korea to brace itself for cold snap from dec 25 but snowfall unlikely" }
-Jtaawntotptun@{ shape: win-pane, label: "_Published Dec 16, 2025, 03:55 PM_
-Japan to revamp weather warning system from may to aid prompt evacuation" }
-Jlmudreeetr@{ shape: win-pane, label: "_Published Dec 16, 2025, 12:14 PM_
-Japan lifts mega quake advisory a week after powerful tremor" }
-Batkdptaicl@{ shape: win-pane, label: "_Published Dec 15, 2025, 02:00 PM_
-Blizzard hits hokkaido, disrupting train and flight schedules" }
+Iletvlosapnen@{ shape: win-pane, label: "_Published Dec 26, 2025, 07:14 PM_
+Israeli reservist rams vehicle into palestinian man praying in west bank" }
+Ilttieeibes@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:00 AM_
+Israeli settler attack injures palestinian baby, five arrested" }
+Hrhotciakxais@{ shape: win-pane, label: "_Published Dec 24, 2025, 05:24 PM_
+How israel’s hilltop settlers coordinate attacks to expel palestinians" }
+AkiaisniuWayioe@{ shape: win-pane, label: "_Published Jul 15, 2025, 05:19 PM_
+Attacks against palestinians intensify in occupied west bank, says un rights office" }
+IluCerntenB@{ shape: win-pane, label: "_Published Dec 21, 2025, 06:29 PM_
+Israel’s security cabinet approves 19 new settlements in west bank" }
+Siecsyoafoenlnit@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:16 PM_
+S’pore imposes sanctions, entry bans on 4 israelis for violence against palestinians in west bank" }
+Sposgsionacsln@{ shape: win-pane, label: "_Published Sep 22, 2025, 03:23 PM_
+Singapore to impose targeted sanctions, condemns israel’s actions in palestine" }
+SpeeetnaiUoorGel@{ shape: win-pane, label: "_Published Nov 18, 2025, 02:00 PM_
+Singapore welcomes un security council’s adoption of us resolution on trump’s gaza peace plan" }
+Ilsmvtauyis@{ shape: win-pane, label: "_Published Dec 24, 2025, 09:38 PM_
+Israel accuses hamas of violating gaza truce, says it will respond" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+Ilcfntutrkla@{ shape: win-pane, label: "_Published Oct 20, 2025, 06:50 AM_
+Israel says ceasefire and aid to resume after airstrikes kill 26 in gaza" }
+Ilkzispec@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:06 PM_
+Israel strikes gaza, saying its troops were attacked" }
+TssHcftnerse@{ shape: win-pane, label: "_Published Oct 20, 2025, 09:55 AM_
+Trump says israel-hamas ceasefire still in place after gaza strikes" }
 
-StitiraYirs:::txtsize --> Treeamdshatacsn:::txtsize
-Treeamdshatacsn:::txtsize --> Sgszfaraedune:::txtsize
-Sgszfaraedune:::txtsize --> Treeamdshatacsn:::txtsize
-Sgszfaraedune:::txtsize --> Jtaawntotptun:::txtsize
-Treeamdshatacsn:::txtsize --> Ntishaasodfesaly:::txtsize
-Ntishaasodfesaly:::txtsize --> Hsesoatfseun:::txtsize
-Ntishaasodfesaly:::txtsize --> Snszoiuren:::txtsize
-StitiraYirs:::txtsize --> Sgszfaraedune:::txtsize
-Sgszfaraedune:::txtsize --> Treeamdshatacsn:::txtsize
-Treeamdshatacsn:::txtsize --> Sgszfaraedune:::txtsize
-Treeamdshatacsn:::txtsize --> Ntishaasodfesaly:::txtsize
-Sgszfaraedune:::txtsize --> Jtaawntotptun:::txtsize
-Jtaawntotptun:::txtsize --> Jlmudreeetr:::txtsize
-Jtaawntotptun:::txtsize --> Batkdptaicl:::txtsize
+Iletvlosapnen:::txtsize --> Ilttieeibes:::txtsize
+Ilttieeibes:::txtsize --> Hrhotciakxais:::txtsize
+Hrhotciakxais:::txtsize --> AkiaisniuWayioe:::txtsize
+Hrhotciakxais:::txtsize --> IluCerntenB:::txtsize
+Ilttieeibes:::txtsize --> Siecsyoafoenlnit:::txtsize
+Siecsyoafoenlnit:::txtsize --> Sposgsionacsln:::txtsize
+Siecsyoafoenlnit:::txtsize --> SpeeetnaiUoorGel:::txtsize
+Iletvlosapnen:::txtsize --> Ilsmvtauyis:::txtsize
+Ilsmvtauyis:::txtsize --> AtHfezerydatoGel:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+AtHfezerydatoGel:::txtsize --> Tseaupoabmrnluo:::txtsize
+Ilsmvtauyis:::txtsize --> Ilcfntutrkla:::txtsize
+Ilcfntutrkla:::txtsize --> Ilkzispec:::txtsize
+Ilcfntutrkla:::txtsize --> TssHcftnerse:::txtsize
 
-Wtdaagstw@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:00 PM_
-Weight-loss drugs are changing. here’s what to know" }
-UrfGlwtNok@{ shape: win-pane, label: "_Published Dec 23, 2025, 09:50 AM_
-Us approves first glp-1 pill for weight loss: novo nordisk" }
-TgfAhsrpestbie@{ shape: win-pane, label: "_Published Jun 21, 2025, 03:45 PM_
-The wegovy effect: a weight-loss drug reshapes the lives of us teens battling obesity" }
-Wycgsirlr@{ shape: win-pane, label: "_Published May 20, 2024, 05:00 PM_
-Wegovy is becoming too essential for its elite price" }
-WyspiogsgUt@{ shape: win-pane, label: "_Published Feb 16, 2024, 01:45 PM_
-Wegovy fuels sharp rise in use of weight-loss drugs for us youth" }
-TesomiuuSK@{ shape: win-pane, label: "_Published Dec 07, 2025, 04:10 PM_
-Thinness obsession prompts diet drug misuse in south korea" }
-Elailoowtnt@{ shape: win-pane, label: "_Published Nov 20, 2025, 08:37 PM_
-Eli lilly’s daily pill helps people lose 10% of weight in 18 months: study" }
-Oiltntskiohshr@{ shape: win-pane, label: "_Published Dec 23, 2025, 10:10 AM_
-Ozempic meals? restaurants in the us shrink portions to match bite-sized hunger" }
-Tochsmdn@{ shape: win-pane, label: "_Published Oct 29, 2024, 05:00 PM_
-The economics of thinness (ozempic edition)" }
-Oitwtwrbpcou@{ shape: win-pane, label: "_Published Jun 01, 2023, 04:00 PM_
-Ozempic touted as weight-loss ‘wonder’ drug, but experts caution its use" }
-UrfGlwtNok@{ shape: win-pane, label: "_Published Dec 23, 2025, 09:50 AM_
-Us approves first glp-1 pill for weight loss: novo nordisk" }
-TgfAhsrpestbie@{ shape: win-pane, label: "_Published Jun 21, 2025, 03:45 PM_
-The wegovy effect: a weight-loss drug reshapes the lives of us teens battling obesity" }
-TesomiuuSK@{ shape: win-pane, label: "_Published Dec 07, 2025, 04:10 PM_
-Thinness obsession prompts diet drug misuse in south korea" }
+BioidTovTseehd@{ shape: win-pane, label: "_Published Dec 26, 2025, 05:35 PM_
+Bumbling crooks rip and drag atm out of 7-eleven in texas, still end up empty-handed" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
+‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
+NegaTrah@{ shape: win-pane, label: "_Published Feb 20, 2025, 01:00 PM_
+Nike bets big on reality tv star kim kardashian" }
+Kriinucneida@{ shape: win-pane, label: "_Published May 17, 2023, 12:00 PM_
+Kim kardashian's $1.34 billion buyout pitch leans on her social media reach" }
+Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
+Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
+GpmglnolN@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:52 PM_
+Greenpeace $880m damages ruling in us shocks global ngos" }
+Joivfdcfe@{ shape: win-pane, label: "_Published Oct 24, 2025, 09:25 PM_
+Jail for man involved in failed $40,000 snatch theft attempt" }
+Jolheeocm@{ shape: win-pane, label: "_Published Feb 13, 2024, 04:00 PM_
+Jail for uncle, nephew over attempt to snatch $40,000 from man" }
+JowodnghhiTn@{ shape: win-pane, label: "_Published Jan 19, 2024, 05:30 PM_
+Jail for man who swopped diamond ring worth $318k with replica at tiffany & co" }
+Mioeidntaegr@{ shape: win-pane, label: "_Published Feb 10, 2023, 07:14 PM_
+Man jailed for offences including snatch theft and cheating others of $700k" }
+Mboeneitehaoo@{ shape: win-pane, label: "_Published May 29, 2025, 09:00 PM_
+Man, 67, nabbed for alleged involvement in snatch theft of handbag in toa payoh" }
+Jolheeocm@{ shape: win-pane, label: "_Published Feb 13, 2024, 04:00 PM_
+Jail for uncle, nephew over attempt to snatch $40,000 from man" }
+Wweoteiosceyl@{ shape: win-pane, label: "_Published Mar 21, 2024, 05:44 PM_
+Woman who lied to police that her mobile phone was snatched gets 5 days’ jail" }
 
-Wtdaagstw:::txtsize --> UrfGlwtNok:::txtsize
-UrfGlwtNok:::txtsize --> TgfAhsrpestbie:::txtsize
-TgfAhsrpestbie:::txtsize --> Wycgsirlr:::txtsize
-TgfAhsrpestbie:::txtsize --> WyspiogsgUt:::txtsize
-UrfGlwtNok:::txtsize --> TesomiuuSK:::txtsize
-TesomiuuSK:::txtsize --> Elailoowtnt:::txtsize
-Wtdaagstw:::txtsize --> Oiltntskiohshr:::txtsize
-Oiltntskiohshr:::txtsize --> Tochsmdn:::txtsize
-Tochsmdn:::txtsize --> Oitwtwrbpcou:::txtsize
-Oiltntskiohshr:::txtsize --> UrfGlwtNok:::txtsize
-UrfGlwtNok:::txtsize --> TgfAhsrpestbie:::txtsize
-UrfGlwtNok:::txtsize --> TesomiuuSK:::txtsize
+BioidTovTseehd:::txtsize --> Ptineluiisey:::txtsize
+Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
+GpboiPoidaes:::txtsize --> NegaTrah:::txtsize
+GpboiPoidaes:::txtsize --> Kriinucneida:::txtsize
+Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
+Gpssofemmnsrt:::txtsize --> GpmglnolN:::txtsize
+BioidTovTseehd:::txtsize --> Joivfdcfe:::txtsize
+Joivfdcfe:::txtsize --> Jolheeocm:::txtsize
+Jolheeocm:::txtsize --> JowodnghhiTn:::txtsize
+Jolheeocm:::txtsize --> Mioeidntaegr:::txtsize
+Joivfdcfe:::txtsize --> Mboeneitehaoo:::txtsize
+Mboeneitehaoo:::txtsize --> Jolheeocm:::txtsize
+Mboeneitehaoo:::txtsize --> Wweoteiosceyl:::txtsize
 
 ```
-<i>Last updated: 2025-12-26 16:00:41.678572 (GMT+8)</i>
+<i>Last updated: 2025-12-26 20:01:14.665840 (GMT+8)</i>
 <!-- END -->
