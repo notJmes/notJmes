@@ -16,123 +16,99 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ilttieeibes@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:00 AM_
-Israeli settler attack injures palestinian baby, five arrested" }
-Hrhotciakxais@{ shape: win-pane, label: "_Published Dec 24, 2025, 05:24 PM_
-How israel’s hilltop settlers coordinate attacks to expel palestinians" }
-AkiaisniuWayioe@{ shape: win-pane, label: "_Published Jul 15, 2025, 05:19 PM_
-Attacks against palestinians intensify in occupied west bank, says un rights office" }
-Gcsiasskwfsaoie@{ shape: win-pane, label: "_Published Jul 09, 2025, 02:12 PM_
-‘ghost camp’: israeli operations in west bank push wave of palestinians from their homes" }
-Attdhoennnwkdts@{ shape: win-pane, label: "_Published Jul 14, 2025, 05:09 AM_
-Anger turns towards washington in west bank town mourning two men killed by settlers" }
-IluCerntenB@{ shape: win-pane, label: "_Published Dec 21, 2025, 06:29 PM_
-Israel’s security cabinet approves 19 new settlements in west bank" }
-IlausBemxiaePtne@{ shape: win-pane, label: "_Published Sep 12, 2025, 06:16 AM_
-Israel’s netanyahu signs west bank settlement expansion plan, rules out palestinian state" }
-ToTvswoet@{ shape: win-pane, label: "_Published Sep 26, 2025, 06:02 AM_
-‘time to stop’: trump vows israel will not annex west bank" }
-Siecsyoafoenlnit@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:16 PM_
-S’pore imposes sanctions, entry bans on 4 israelis for violence against palestinians in west bank" }
-Sposgsionacsln@{ shape: win-pane, label: "_Published Sep 22, 2025, 03:23 PM_
-Singapore to impose targeted sanctions, condemns israel’s actions in palestine" }
-Sweiooaisteosa@{ shape: win-pane, label: "_Published Sep 22, 2025, 03:12 PM_
-S’pore will reconsider position on palestine if situation deteriorates: vivian" }
-Sweiooaisteosa@{ shape: win-pane, label: "_Published Sep 22, 2025, 03:12 PM_
-S’pore will reconsider position on palestine if situation deteriorates: vivian" }
-SpeeetnaiUoorGel@{ shape: win-pane, label: "_Published Nov 18, 2025, 02:00 PM_
-Singapore welcomes un security council’s adoption of us resolution on trump’s gaza peace plan" }
-UuCipruomzcn@{ shape: win-pane, label: "_Published Nov 18, 2025, 06:27 AM_
-Un security council adopts us resolution on trump’s gaza peace plan" }
-Sweiooaisteosa@{ shape: win-pane, label: "_Published Sep 22, 2025, 03:12 PM_
-S’pore will reconsider position on palestine if situation deteriorates: vivian" }
+Fhiotloia@{ shape: win-pane, label: "_Published Dec 26, 2025, 07:53 AM_
+French victim of bondi attack laid to rest in israel" }
+Asdrttenaleeoie@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:30 PM_
+At least 16 dead after shooting at sydney’s bondi beach; police declare ‘terrorist incident’" }
+Prolmnnaogee@{ shape: win-pane, label: "_Published Dec 14, 2025, 08:54 PM_
+Passer-by who tackled armed man at bondi beach shooting hailed as hero" }
+Asdrttenaleeoie@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:30 PM_
+At least 16 dead after shooting at sydney’s bondi beach; police declare ‘terrorist incident’" }
+Aolaaunoaksina@{ shape: win-pane, label: "_Published Dec 14, 2025, 10:50 PM_
+‘an act of evil’: at least 16 dead, 40 injured in terrorist attack at australia’s bondi beach" }
+AeccAaitfw@{ shape: win-pane, label: "_Published Dec 14, 2025, 07:28 PM_
+Anti-semitic attacks in australia since start of gaza war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+ArastIlfurd@{ shape: win-pane, label: "_Published Dec 11, 2024, 08:10 AM_
+‘an outrage’: vandals paint anti-israel graffiti, burn car in sydney" }
+Aapegeoiweiufe@{ shape: win-pane, label: "_Published Dec 17, 2025, 01:45 PM_
+Australian police charge alleged bondi killer with terrorism, 15 counts of murder" }
+Frueynnoehnrioa@{ shape: win-pane, label: "_Published Dec 15, 2025, 05:14 AM_
+Father-son duo allegedly behind sydney’s bondi beach shooting; 10-year-old girl among 16 dead" }
+Aolaaunoaksina@{ shape: win-pane, label: "_Published Dec 14, 2025, 10:50 PM_
+‘an act of evil’: at least 16 dead, 40 injured in terrorist attack at australia’s bondi beach" }
+BBsioryeceiWrtta@{ shape: win-pane, label: "_Published Dec 15, 2025, 12:18 AM_
+Bondi beach shooting: s’pore strongly condemns act of terrorism, pm wong writes to australian pm" }
+NdortnfoustPps@{ shape: win-pane, label: "_Published Dec 17, 2025, 02:39 PM_
+No evidence of ‘terrorist training’ after bondi gunmen’s visit, says philippines" }
+Asdrttenaleeoie@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:30 PM_
+At least 16 dead after shooting at sydney’s bondi beach; police declare ‘terrorist incident’" }
+BscrorlneItc@{ shape: win-pane, label: "_Published Dec 16, 2025, 03:37 PM_
+Bondi suspects were in southern philippines, where isis is still active" }
 
-Ilttieeibes:::txtsize --> Hrhotciakxais:::txtsize
-Hrhotciakxais:::txtsize --> AkiaisniuWayioe:::txtsize
-AkiaisniuWayioe:::txtsize --> Gcsiasskwfsaoie:::txtsize
-AkiaisniuWayioe:::txtsize --> Attdhoennnwkdts:::txtsize
-Hrhotciakxais:::txtsize --> IluCerntenB:::txtsize
-IluCerntenB:::txtsize --> IlausBemxiaePtne:::txtsize
-IluCerntenB:::txtsize --> ToTvswoet:::txtsize
-Ilttieeibes:::txtsize --> Siecsyoafoenlnit:::txtsize
-Siecsyoafoenlnit:::txtsize --> Sposgsionacsln:::txtsize
-Sposgsionacsln:::txtsize --> Sweiooaisteosa:::txtsize
-Sposgsionacsln:::txtsize --> Sweiooaisteosa:::txtsize
-Siecsyoafoenlnit:::txtsize --> SpeeetnaiUoorGel:::txtsize
-SpeeetnaiUoorGel:::txtsize --> UuCipruomzcn:::txtsize
-SpeeetnaiUoorGel:::txtsize --> Sweiooaisteosa:::txtsize
+Fhiotloia:::txtsize --> Asdrttenaleeoie:::txtsize
+Asdrttenaleeoie:::txtsize --> Prolmnnaogee:::txtsize
+Prolmnnaogee:::txtsize --> Asdrttenaleeoie:::txtsize
+Prolmnnaogee:::txtsize --> Aolaaunoaksina:::txtsize
+Asdrttenaleeoie:::txtsize --> AeccAaitfw:::txtsize
+AeccAaitfw:::txtsize --> NyeeawHakl:::txtsize
+AeccAaitfw:::txtsize --> ArastIlfurd:::txtsize
+Fhiotloia:::txtsize --> Aapegeoiweiufe:::txtsize
+Aapegeoiweiufe:::txtsize --> Frueynnoehnrioa:::txtsize
+Frueynnoehnrioa:::txtsize --> Aolaaunoaksina:::txtsize
+Frueynnoehnrioa:::txtsize --> BBsioryeceiWrtta:::txtsize
+Aapegeoiweiufe:::txtsize --> NdortnfoustPps:::txtsize
+NdortnfoustPps:::txtsize --> Asdrttenaleeoie:::txtsize
+NdortnfoustPps:::txtsize --> BscrorlneItc:::txtsize
 
-BsharTaitveb@{ shape: win-pane, label: "_Published Dec 26, 2025, 02:36 AM_
-British tech campaigner sues trump administration over us entry ban" }
-UgoEmocstaoldop@{ shape: win-pane, label: "_Published Dec 24, 2025, 08:03 AM_
-Us targets former eu commissioner, activists with visa bans over alleged censorship" }
-TaitrectfpnHa@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:25 AM_
-Trump administration orders enhanced vetting for applicants of h-1b visa" }
-Tddisepooes@{ shape: win-pane, label: "_Published Nov 12, 2025, 10:39 AM_
-Trump defends h-1b visas as needed despite moves to raise costs" }
-Innuemrfrvvu@{ shape: win-pane, label: "_Published Nov 17, 2025, 02:30 PM_
-International student enrolment drops after trump’s visa overhaul" }
-EesbfSshglvnh@{ shape: win-pane, label: "_Published Dec 24, 2025, 07:38 PM_
-Europe slams visa bans after us takes fresh swing at allies over ‘censorship’" }
-UgoEmocstaoldop@{ shape: win-pane, label: "_Published Dec 24, 2025, 08:03 AM_
-Us targets former eu commissioner, activists with visa bans over alleged censorship" }
-TaitrectfpnHa@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:25 AM_
-Trump administration orders enhanced vetting for applicants of h-1b visa" }
-UgoEmocstaoldop@{ shape: win-pane, label: "_Published Dec 24, 2025, 08:03 AM_
-Us targets former eu commissioner, activists with visa bans over alleged censorship" }
-TaitrectfpnHa@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:25 AM_
-Trump administration orders enhanced vetting for applicants of h-1b visa" }
+TRarolelno@{ shape: win-pane, label: "_Published Dec 26, 2025, 07:40 AM_
+Tesla robotaxis are big on wall street but lagging on roads" }
 
-BsharTaitveb:::txtsize --> UgoEmocstaoldop:::txtsize
-UgoEmocstaoldop:::txtsize --> TaitrectfpnHa:::txtsize
-TaitrectfpnHa:::txtsize --> Tddisepooes:::txtsize
-TaitrectfpnHa:::txtsize --> Innuemrfrvvu:::txtsize
-BsharTaitveb:::txtsize --> EesbfSshglvnh:::txtsize
-EesbfSshglvnh:::txtsize --> UgoEmocstaoldop:::txtsize
-UgoEmocstaoldop:::txtsize --> TaitrectfpnHa:::txtsize
-EesbfSshglvnh:::txtsize --> UgoEmocstaoldop:::txtsize
-UgoEmocstaoldop:::txtsize --> TaitrectfpnHa:::txtsize
 
-ZsssrwSykur@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:53 AM_
-Zelensky has talks on ukraine with us envoys witkoff, kushner" }
-Unlydprstowren@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:43 PM_
-Ukraine’s zelensky says draft plan freezes front line, opens way for concessions" }
-ToiegRaipuoorpp@{ shape: win-pane, label: "_Published Nov 23, 2025, 12:09 AM_
-Trump officials’ meeting with russian in miami spurs questions about ukraine peace plan" }
-Uneftcrespepp@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:49 PM_
-Ukraine faces ‘difficult choice’ as trump demands acceptance of us peace plan" }
-EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
-Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
-Ranaomedrhuaiuv@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
-Russia says no ukraine compromise reached after five-hour putin talks with trump envoys" }
-Unerdsseisifi@{ shape: win-pane, label: "_Published Dec 25, 2025, 10:04 PM_
-Ukraine fires storm shadow missiles, drones to hit russia’s oil, gas facilities" }
-Raiauwllrsa@{ shape: win-pane, label: "_Published Dec 25, 2025, 03:59 AM_
-Russian strikes cause sunflower oil spill in ukraine’s odesa" }
-Sdsissctacnkes@{ shape: win-pane, label: "_Published Dec 20, 2025, 05:55 AM_
-Seven dead as russian missiles attack port infrastructure near ukraine’s odesa" }
-Unlydprstowren@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:43 PM_
-Ukraine’s zelensky says draft plan freezes front line, opens way for concessions" }
-NKniaegiS@{ shape: win-pane, label: "_Published Dec 24, 2025, 12:42 PM_
-North korean pows in ukraine seeking ‘new life’ in south" }
-ZsyeronatalUn@{ shape: win-pane, label: "_Published Dec 23, 2025, 08:58 PM_
-Zelensky says several draft documents ready after miami talks on ukraine war" }
-SstoooPiouo@{ shape: win-pane, label: "_Published Feb 20, 2025, 09:15 AM_
-Seoul says it supports north korean pows’ right to asylum in south" }
+Hrllhln@{ shape: win-pane, label: "_Published Dec 26, 2025, 06:45 AM_
+Heavy rain, flash floods hit california" }
+Apcrcoerreao@{ shape: win-pane, label: "_Published Dec 25, 2025, 07:29 AM_
+Atmospheric river drenches los angeles, triggers widespread flooding" }
+MCosbsysvt@{ shape: win-pane, label: "_Published Dec 24, 2025, 01:23 PM_
+Major california storm brings heavy rain, snow, evacuations" }
+Dtrslrsashewii@{ shape: win-pane, label: "_Published Jan 13, 2025, 08:05 PM_
+Death toll from los angeles fires rises to at least 24, with dangerous winds incoming" }
+TnruseaoeascNw@{ shape: win-pane, label: "_Published Dec 12, 2025, 09:53 AM_
+Torrential rains unleash widespread flooding, evacuations in pacific northwest" }
+Esnmsurofa@{ shape: win-pane, label: "_Published Oct 14, 2025, 11:10 AM_
+Early season storm sends a deluge of rain to california" }
+Cowirvtiaet@{ shape: win-pane, label: "_Published Aug 22, 2025, 10:31 AM_
+California wildfire forces evacuations in rural wine country" }
+MCosbsysvt@{ shape: win-pane, label: "_Published Dec 24, 2025, 01:23 PM_
+Major california storm brings heavy rain, snow, evacuations" }
+Dtrslrsashewii@{ shape: win-pane, label: "_Published Jan 13, 2025, 08:05 PM_
+Death toll from los angeles fires rises to at least 24, with dangerous winds incoming" }
+Lgfdeeomllo@{ shape: win-pane, label: "_Published Jan 13, 2025, 06:37 AM_
+Los angeles fires deliver latest blow to embattled hollywood" }
+Wanslrtpeofi@{ shape: win-pane, label: "_Published Jan 13, 2025, 07:08 PM_
+With tacos and toys, angelenos rally to support neighbours after fires" }
+TnruseaoeascNw@{ shape: win-pane, label: "_Published Dec 12, 2025, 09:53 AM_
+Torrential rains unleash widespread flooding, evacuations in pacific northwest" }
+UatwrmetpyiU@{ shape: win-pane, label: "_Published Dec 11, 2025, 12:45 PM_
+Unusually strong winter storms expected to drop heavy snow in the us" }
+ActsrrsUuec@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:00 AM_
+Arctic blast grips central, north-eastern us in sub-freezing cold" }
 
-ZsssrwSykur:::txtsize --> Unlydprstowren:::txtsize
-Unlydprstowren:::txtsize --> ToiegRaipuoorpp:::txtsize
-ToiegRaipuoorpp:::txtsize --> Uneftcrespepp:::txtsize
-Unlydprstowren:::txtsize --> EihaDsitnnannsake:::txtsize
-EihaDsitnnannsake:::txtsize --> Ranaomedrhuaiuv:::txtsize
-ZsssrwSykur:::txtsize --> Unerdsseisifi:::txtsize
-Unerdsseisifi:::txtsize --> Raiauwllrsa:::txtsize
-Raiauwllrsa:::txtsize --> Sdsissctacnkes:::txtsize
-Raiauwllrsa:::txtsize --> Unlydprstowren:::txtsize
-Unerdsseisifi:::txtsize --> NKniaegiS:::txtsize
-NKniaegiS:::txtsize --> ZsyeronatalUn:::txtsize
-NKniaegiS:::txtsize --> SstoooPiouo:::txtsize
+Hrllhln:::txtsize --> Apcrcoerreao:::txtsize
+Apcrcoerreao:::txtsize --> MCosbsysvt:::txtsize
+MCosbsysvt:::txtsize --> Dtrslrsashewii:::txtsize
+MCosbsysvt:::txtsize --> TnruseaoeascNw:::txtsize
+Apcrcoerreao:::txtsize --> Esnmsurofa:::txtsize
+Esnmsurofa:::txtsize --> Cowirvtiaet:::txtsize
+Hrllhln:::txtsize --> MCosbsysvt:::txtsize
+MCosbsysvt:::txtsize --> Dtrslrsashewii:::txtsize
+Dtrslrsashewii:::txtsize --> Lgfdeeomllo:::txtsize
+Dtrslrsashewii:::txtsize --> Wanslrtpeofi:::txtsize
+MCosbsysvt:::txtsize --> TnruseaoeascNw:::txtsize
+TnruseaoeascNw:::txtsize --> UatwrmetpyiU:::txtsize
+TnruseaoeascNw:::txtsize --> ActsrrsUuec:::txtsize
 
 ```
-<i>Last updated: 2025-12-26 04:00:27.888090 (GMT+8)</i>
+<i>Last updated: 2025-12-26 08:00:49.801516 (GMT+8)</i>
 <!-- END -->
