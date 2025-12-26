@@ -16,99 +16,102 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Fhiotloia@{ shape: win-pane, label: "_Published Dec 26, 2025, 07:53 AM_
-French victim of bondi attack laid to rest in israel" }
-Asdrttenaleeoie@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:30 PM_
-At least 16 dead after shooting at sydney’s bondi beach; police declare ‘terrorist incident’" }
-Prolmnnaogee@{ shape: win-pane, label: "_Published Dec 14, 2025, 08:54 PM_
-Passer-by who tackled armed man at bondi beach shooting hailed as hero" }
-Asdrttenaleeoie@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:30 PM_
-At least 16 dead after shooting at sydney’s bondi beach; police declare ‘terrorist incident’" }
-Aolaaunoaksina@{ shape: win-pane, label: "_Published Dec 14, 2025, 10:50 PM_
-‘an act of evil’: at least 16 dead, 40 injured in terrorist attack at australia’s bondi beach" }
-AeccAaitfw@{ shape: win-pane, label: "_Published Dec 14, 2025, 07:28 PM_
-Anti-semitic attacks in australia since start of gaza war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-ArastIlfurd@{ shape: win-pane, label: "_Published Dec 11, 2024, 08:10 AM_
-‘an outrage’: vandals paint anti-israel graffiti, burn car in sydney" }
-Aapegeoiweiufe@{ shape: win-pane, label: "_Published Dec 17, 2025, 01:45 PM_
-Australian police charge alleged bondi killer with terrorism, 15 counts of murder" }
-Frueynnoehnrioa@{ shape: win-pane, label: "_Published Dec 15, 2025, 05:14 AM_
-Father-son duo allegedly behind sydney’s bondi beach shooting; 10-year-old girl among 16 dead" }
-Aolaaunoaksina@{ shape: win-pane, label: "_Published Dec 14, 2025, 10:50 PM_
-‘an act of evil’: at least 16 dead, 40 injured in terrorist attack at australia’s bondi beach" }
-BBsioryeceiWrtta@{ shape: win-pane, label: "_Published Dec 15, 2025, 12:18 AM_
-Bondi beach shooting: s’pore strongly condemns act of terrorism, pm wong writes to australian pm" }
-NdortnfoustPps@{ shape: win-pane, label: "_Published Dec 17, 2025, 02:39 PM_
-No evidence of ‘terrorist training’ after bondi gunmen’s visit, says philippines" }
-Asdrttenaleeoie@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:30 PM_
-At least 16 dead after shooting at sydney’s bondi beach; police declare ‘terrorist incident’" }
-BscrorlneItc@{ shape: win-pane, label: "_Published Dec 16, 2025, 03:37 PM_
-Bondi suspects were in southern philippines, where isis is still active" }
+WoaUiang@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:36 AM_
+What to know about us military action in nigeria" }
+UnsenIisrse@{ shape: win-pane, label: "_Published Dec 26, 2025, 08:34 AM_
+Us launches strike against isis militants in north-west nigeria" }
+Fiieoakc@{ shape: win-pane, label: "_Published Dec 25, 2025, 11:49 PM_
+Five killed in nigeria mosque attack, police say" }
+Niqmkase@{ shape: win-pane, label: "_Published Dec 25, 2025, 02:33 AM_
+Nigeria mosque bombing kills at least seven" }
+UdnvalsNiemeth@{ shape: win-pane, label: "_Published Dec 23, 2025, 01:23 AM_
+Us conducting surveillance flights over nigeria after trump intervention threat" }
+Fiieoakc@{ shape: win-pane, label: "_Published Dec 25, 2025, 11:49 PM_
+Five killed in nigeria mosque attack, police say" }
+Niqmkase@{ shape: win-pane, label: "_Published Dec 25, 2025, 02:33 AM_
+Nigeria mosque bombing kills at least seven" }
+UdnvalsNiemeth@{ shape: win-pane, label: "_Published Dec 23, 2025, 01:23 AM_
+Us conducting surveillance flights over nigeria after trump intervention threat" }
+Niioseavngrlcy@{ shape: win-pane, label: "_Published Dec 08, 2025, 04:51 PM_
+Nigeria police probe suspected organ-harvesting ring after grisly discovery" }
+UdnvalsNiemeth@{ shape: win-pane, label: "_Published Dec 23, 2025, 01:23 AM_
+Us conducting surveillance flights over nigeria after trump intervention threat" }
+TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
+Trump threatens military action in nigeria over ‘killing of christians’" }
+TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
+Trump threatens military action in nigeria over ‘killing of christians’" }
 
-Fhiotloia:::txtsize --> Asdrttenaleeoie:::txtsize
-Asdrttenaleeoie:::txtsize --> Prolmnnaogee:::txtsize
-Prolmnnaogee:::txtsize --> Asdrttenaleeoie:::txtsize
-Prolmnnaogee:::txtsize --> Aolaaunoaksina:::txtsize
-Asdrttenaleeoie:::txtsize --> AeccAaitfw:::txtsize
-AeccAaitfw:::txtsize --> NyeeawHakl:::txtsize
-AeccAaitfw:::txtsize --> ArastIlfurd:::txtsize
-Fhiotloia:::txtsize --> Aapegeoiweiufe:::txtsize
-Aapegeoiweiufe:::txtsize --> Frueynnoehnrioa:::txtsize
-Frueynnoehnrioa:::txtsize --> Aolaaunoaksina:::txtsize
-Frueynnoehnrioa:::txtsize --> BBsioryeceiWrtta:::txtsize
-Aapegeoiweiufe:::txtsize --> NdortnfoustPps:::txtsize
-NdortnfoustPps:::txtsize --> Asdrttenaleeoie:::txtsize
-NdortnfoustPps:::txtsize --> BscrorlneItc:::txtsize
+WoaUiang:::txtsize --> UnsenIisrse:::txtsize
+UnsenIisrse:::txtsize --> Fiieoakc:::txtsize
+Fiieoakc:::txtsize --> Niqmkase:::txtsize
+Fiieoakc:::txtsize --> UdnvalsNiemeth:::txtsize
+WoaUiang:::txtsize --> Fiieoakc:::txtsize
+Fiieoakc:::txtsize --> Niqmkase:::txtsize
+Niqmkase:::txtsize --> UdnvalsNiemeth:::txtsize
+Niqmkase:::txtsize --> Niioseavngrlcy:::txtsize
+Fiieoakc:::txtsize --> UdnvalsNiemeth:::txtsize
+UdnvalsNiemeth:::txtsize --> TttiriNiriCt:::txtsize
+UdnvalsNiemeth:::txtsize --> TttiriNiriCt:::txtsize
 
-TRarolelno@{ shape: win-pane, label: "_Published Dec 26, 2025, 07:40 AM_
-Tesla robotaxis are big on wall street but lagging on roads" }
+Taitmieofaisa@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:23 AM_
+Trump administration emphasises religion in official christmas messages" }
+Tulisbar@{ shape: win-pane, label: "_Published Feb 07, 2025, 01:35 AM_
+Trump unveils ‘anti-christian bias’ task force" }
+TsanymiiaAnntdhp@{ shape: win-pane, label: "_Published Feb 05, 2025, 09:01 AM_
+Trump’s impeachment lawyer pam bondi confirmed as his attorney-general to lead doj shake-up" }
+Tptosttaenosro@{ shape: win-pane, label: "_Published Feb 03, 2025, 07:05 PM_
+Trump plans to invoke obscure 18th century wartime law in bid for mass deportations" }
+SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
+Storming of us capitol: timeline of key events in washington" }
+DEmsoeyde@{ shape: win-pane, label: "_Published Jan 28, 2025, 09:52 AM_
+Do or dei: trump’s assault on diversity divides america" }
+Tciadsrommetne@{ shape: win-pane, label: "_Published Jan 23, 2025, 06:41 AM_
+Trump campaign against diversity urges government employees to turn informer" }
+TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
+Trump threatens military action in nigeria over ‘killing of christians’" }
+UDehewmeinegas@{ shape: win-pane, label: "_Published Nov 01, 2025, 09:00 AM_
+Us v-p j.d. vance says he hopes his wife embraces christianity, setting off backlash" }
+UanyrAcm@{ shape: win-pane, label: "_Published Mar 28, 2025, 01:30 PM_
+Usha vance in the eye of trump’s arctic storm" }
+TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
+Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
 
+Taitmieofaisa:::txtsize --> Tulisbar:::txtsize
+Tulisbar:::txtsize --> TsanymiiaAnntdhp:::txtsize
+TsanymiiaAnntdhp:::txtsize --> Tptosttaenosro:::txtsize
+TsanymiiaAnntdhp:::txtsize --> SiUiinenWn:::txtsize
+Tulisbar:::txtsize --> DEmsoeyde:::txtsize
+DEmsoeyde:::txtsize --> Tciadsrommetne:::txtsize
+Taitmieofaisa:::txtsize --> TttiriNiriCt:::txtsize
+TttiriNiriCt:::txtsize --> UDehewmeinegas:::txtsize
+UDehewmeinegas:::txtsize --> UanyrAcm:::txtsize
+UDehewmeinegas:::txtsize --> TahesegnipdoUstt:::txtsize
 
-Hrllhln@{ shape: win-pane, label: "_Published Dec 26, 2025, 06:45 AM_
-Heavy rain, flash floods hit california" }
-Apcrcoerreao@{ shape: win-pane, label: "_Published Dec 25, 2025, 07:29 AM_
-Atmospheric river drenches los angeles, triggers widespread flooding" }
-MCosbsysvt@{ shape: win-pane, label: "_Published Dec 24, 2025, 01:23 PM_
-Major california storm brings heavy rain, snow, evacuations" }
-Dtrslrsashewii@{ shape: win-pane, label: "_Published Jan 13, 2025, 08:05 PM_
-Death toll from los angeles fires rises to at least 24, with dangerous winds incoming" }
-TnruseaoeascNw@{ shape: win-pane, label: "_Published Dec 12, 2025, 09:53 AM_
-Torrential rains unleash widespread flooding, evacuations in pacific northwest" }
-Esnmsurofa@{ shape: win-pane, label: "_Published Oct 14, 2025, 11:10 AM_
-Early season storm sends a deluge of rain to california" }
-Cowirvtiaet@{ shape: win-pane, label: "_Published Aug 22, 2025, 10:31 AM_
-California wildfire forces evacuations in rural wine country" }
-MCosbsysvt@{ shape: win-pane, label: "_Published Dec 24, 2025, 01:23 PM_
-Major california storm brings heavy rain, snow, evacuations" }
-Dtrslrsashewii@{ shape: win-pane, label: "_Published Jan 13, 2025, 08:05 PM_
-Death toll from los angeles fires rises to at least 24, with dangerous winds incoming" }
-Lgfdeeomllo@{ shape: win-pane, label: "_Published Jan 13, 2025, 06:37 AM_
-Los angeles fires deliver latest blow to embattled hollywood" }
-Wanslrtpeofi@{ shape: win-pane, label: "_Published Jan 13, 2025, 07:08 PM_
-With tacos and toys, angelenos rally to support neighbours after fires" }
-TnruseaoeascNw@{ shape: win-pane, label: "_Published Dec 12, 2025, 09:53 AM_
-Torrential rains unleash widespread flooding, evacuations in pacific northwest" }
-UatwrmetpyiU@{ shape: win-pane, label: "_Published Dec 11, 2025, 12:45 PM_
-Unusually strong winter storms expected to drop heavy snow in the us" }
-ActsrrsUuec@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:00 AM_
-Arctic blast grips central, north-eastern us in sub-freezing cold" }
+UnsenIisrse@{ shape: win-pane, label: "_Published Dec 26, 2025, 08:34 AM_
+Us launches strike against isis militants in north-west nigeria" }
+Fiieoakc@{ shape: win-pane, label: "_Published Dec 25, 2025, 11:49 PM_
+Five killed in nigeria mosque attack, police say" }
+Niqmkase@{ shape: win-pane, label: "_Published Dec 25, 2025, 02:33 AM_
+Nigeria mosque bombing kills at least seven" }
+UdnvalsNiemeth@{ shape: win-pane, label: "_Published Dec 23, 2025, 01:23 AM_
+Us conducting surveillance flights over nigeria after trump intervention threat" }
+Niioseavngrlcy@{ shape: win-pane, label: "_Published Dec 08, 2025, 04:51 PM_
+Nigeria police probe suspected organ-harvesting ring after grisly discovery" }
+UdnvalsNiemeth@{ shape: win-pane, label: "_Published Dec 23, 2025, 01:23 AM_
+Us conducting surveillance flights over nigeria after trump intervention threat" }
+TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
+Trump threatens military action in nigeria over ‘killing of christians’" }
+TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
+Trump threatens military action in nigeria over ‘killing of christians’" }
 
-Hrllhln:::txtsize --> Apcrcoerreao:::txtsize
-Apcrcoerreao:::txtsize --> MCosbsysvt:::txtsize
-MCosbsysvt:::txtsize --> Dtrslrsashewii:::txtsize
-MCosbsysvt:::txtsize --> TnruseaoeascNw:::txtsize
-Apcrcoerreao:::txtsize --> Esnmsurofa:::txtsize
-Esnmsurofa:::txtsize --> Cowirvtiaet:::txtsize
-Hrllhln:::txtsize --> MCosbsysvt:::txtsize
-MCosbsysvt:::txtsize --> Dtrslrsashewii:::txtsize
-Dtrslrsashewii:::txtsize --> Lgfdeeomllo:::txtsize
-Dtrslrsashewii:::txtsize --> Wanslrtpeofi:::txtsize
-MCosbsysvt:::txtsize --> TnruseaoeascNw:::txtsize
-TnruseaoeascNw:::txtsize --> UatwrmetpyiU:::txtsize
-TnruseaoeascNw:::txtsize --> ActsrrsUuec:::txtsize
+UnsenIisrse:::txtsize --> Fiieoakc:::txtsize
+Fiieoakc:::txtsize --> Niqmkase:::txtsize
+Niqmkase:::txtsize --> UdnvalsNiemeth:::txtsize
+Niqmkase:::txtsize --> Niioseavngrlcy:::txtsize
+Fiieoakc:::txtsize --> UdnvalsNiemeth:::txtsize
+UdnvalsNiemeth:::txtsize --> TttiriNiriCt:::txtsize
+UdnvalsNiemeth:::txtsize --> TttiriNiriCt:::txtsize
 
 ```
-<i>Last updated: 2025-12-26 08:00:49.801516 (GMT+8)</i>
+<i>Last updated: 2025-12-26 12:01:15.325831 (GMT+8)</i>
 <!-- END -->
