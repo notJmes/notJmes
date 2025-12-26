@@ -16,144 +16,90 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Fhgczptpors@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:55 PM_
-Fuel shortage forces gaza hospital to suspend most services" }
-Ptnsagagela@{ shape: win-pane, label: "_Published Dec 26, 2025, 08:30 PM_
-Palestinian kills 2 in stabbing and ramming, israeli police say" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Iletvlosapnen@{ shape: win-pane, label: "_Published Dec 26, 2025, 07:14 PM_
-Israeli reservist rams vehicle into palestinian man praying in west bank" }
-Ilttieeibes@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:00 AM_
-Israeli settler attack injures palestinian baby, five arrested" }
-Ilsmvtauyis@{ shape: win-pane, label: "_Published Dec 24, 2025, 09:38 PM_
-Israel accuses hamas of violating gaza truce, says it will respond" }
-Ilttieeibes@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:00 AM_
-Israeli settler attack injures palestinian baby, five arrested" }
-Hrhotciakxais@{ shape: win-pane, label: "_Published Dec 24, 2025, 05:24 PM_
-How israel’s hilltop settlers coordinate attacks to expel palestinians" }
-AkiaisniuWayioe@{ shape: win-pane, label: "_Published Jul 15, 2025, 05:19 PM_
-Attacks against palestinians intensify in occupied west bank, says un rights office" }
-IluCerntenB@{ shape: win-pane, label: "_Published Dec 21, 2025, 06:29 PM_
-Israel’s security cabinet approves 19 new settlements in west bank" }
-Siecsyoafoenlnit@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:16 PM_
-S’pore imposes sanctions, entry bans on 4 israelis for violence against palestinians in west bank" }
-Sposgsionacsln@{ shape: win-pane, label: "_Published Sep 22, 2025, 03:23 PM_
-Singapore to impose targeted sanctions, condemns israel’s actions in palestine" }
-SpeeetnaiUoorGel@{ shape: win-pane, label: "_Published Nov 18, 2025, 02:00 PM_
-Singapore welcomes un security council’s adoption of us resolution on trump’s gaza peace plan" }
+Mtdrechonsce@{ shape: win-pane, label: "_Published Dec 27, 2025, 03:50 AM_
+Man detained after knife attack on three women in paris city centre" }
+ieaftnurtfas@{ shape: win-pane, label: "_Published Dec 26, 2025, 06:01 PM_
+15 injured in japan after stabbing, liquid spray attack, official says" }
+Scdrkdupecnnnfap@{ shape: win-pane, label: "_Published May 25, 2023, 07:20 PM_
+Suspect held after four killed, including 2 police officers, in japan gun and knife attack: reports" }
+Jhcsnefaghmolgia@{ shape: win-pane, label: "_Published Mar 02, 2023, 02:21 PM_
+Japan high school student arrested for stabbing teacher, admits to mutilating multiple cats" }
+JAiytwkrewt@{ shape: win-pane, label: "_Published Mar 17, 2025, 01:20 PM_
+Japan aum shinrikyo cult widow speaks 30 years after subway attack" }
+UeaJssmaamne@{ shape: win-pane, label: "_Published Jun 10, 2024, 01:00 PM_
+Unlike the yakuza, japan’s latest crime menace is anonymous and faceless" }
+Jsynldaomstrfsreue@{ shape: win-pane, label: "_Published Mar 02, 2023, 06:29 PM_
+Japan’s ‘happy science’ cult leader okawa, who claimed he spoke to spirits of jesus and freddie mercury, dies" }
+Tnsloserlrb@{ shape: win-pane, label: "_Published Dec 26, 2025, 04:14 PM_
+Taiwan holds drill to boost response after deadly metro stabbing" }
+Kwitrseiiroc@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:57 PM_
+Knife-wielding attacker kills three in taipei, dies during police chase" }
+Ngefentsiioaf@{ shape: win-pane, label: "_Published Dec 20, 2025, 12:38 PM_
+No singaporeans affected by knife attacks in taipei: singapore trade office" }
+Tnivuqiesyc@{ shape: win-pane, label: "_Published Dec 20, 2025, 01:50 PM_
+Taiwan president vows full inquiry into deadly subway attack" }
+Tnceeimsi@{ shape: win-pane, label: "_Published Dec 21, 2025, 05:20 PM_
+Taiwan police rule out ‘terrorism’ in metro stabbing" }
+Kwitrseiiroc@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:57 PM_
+Knife-wielding attacker kills three in taipei, dies during police chase" }
+Tiecrhettrfoheh@{ shape: win-pane, label: "_Published Dec 21, 2025, 03:55 PM_
+Taipei knife attack: 57-year-old who tried to stop attacker died from wound that pierced heart" }
 
-Fhgczptpors:::txtsize --> Ptnsagagela:::txtsize
-Ptnsagagela:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Ptnsagagela:::txtsize --> Iletvlosapnen:::txtsize
-Iletvlosapnen:::txtsize --> Ilttieeibes:::txtsize
-Iletvlosapnen:::txtsize --> Ilsmvtauyis:::txtsize
-Fhgczptpors:::txtsize --> Ilttieeibes:::txtsize
-Ilttieeibes:::txtsize --> Hrhotciakxais:::txtsize
-Hrhotciakxais:::txtsize --> AkiaisniuWayioe:::txtsize
-Hrhotciakxais:::txtsize --> IluCerntenB:::txtsize
-Ilttieeibes:::txtsize --> Siecsyoafoenlnit:::txtsize
-Siecsyoafoenlnit:::txtsize --> Sposgsionacsln:::txtsize
-Siecsyoafoenlnit:::txtsize --> SpeeetnaiUoorGel:::txtsize
+Mtdrechonsce:::txtsize --> ieaftnurtfas:::txtsize
+ieaftnurtfas:::txtsize --> Scdrkdupecnnnfap:::txtsize
+Scdrkdupecnnnfap:::txtsize --> Jhcsnefaghmolgia:::txtsize
+ieaftnurtfas:::txtsize --> JAiytwkrewt:::txtsize
+JAiytwkrewt:::txtsize --> UeaJssmaamne:::txtsize
+JAiytwkrewt:::txtsize --> Jsynldaomstrfsreue:::txtsize
+Mtdrechonsce:::txtsize --> Tnsloserlrb:::txtsize
+Tnsloserlrb:::txtsize --> Kwitrseiiroc:::txtsize
+Kwitrseiiroc:::txtsize --> Ngefentsiioaf:::txtsize
+Kwitrseiiroc:::txtsize --> Tnivuqiesyc:::txtsize
+Tnsloserlrb:::txtsize --> Tnceeimsi:::txtsize
+Tnceeimsi:::txtsize --> Kwitrseiiroc:::txtsize
+Tnceeimsi:::txtsize --> Tiecrhettrfoheh:::txtsize
 
-Ilmrutmrnolspnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:49 PM_
-Israel becomes first country to formally recognise somaliland as independent state" }
-Upneockecdr@{ shape: win-pane, label: "_Published May 17, 2025, 02:21 PM_
-Uae is pouring money into africa, seeking resources and power" }
-TaniliEtrnn@{ shape: win-pane, label: "_Published May 16, 2025, 01:27 AM_
-Trump announces $260b in deals during uae visit, ai agreement signed" }
-ThQignboSaaU@{ shape: win-pane, label: "_Published May 15, 2025, 07:03 PM_
-Trump hails qatari pledge to invest $12.98 billion in us airbase, heads to uae" }
-Thtaoonai@{ shape: win-pane, label: "_Published May 15, 2025, 12:07 PM_
-Trump heads to uae as it hopes to advance ai ambitions" }
-Gtuuelrima@{ shape: win-pane, label: "_Published May 17, 2025, 12:38 AM_
-Gulf states use opulence and flattery to win trump’s heart" }
-Ubbsaodnpbsair@{ shape: win-pane, label: "_Published May 16, 2025, 06:31 AM_
-Uae to build biggest ai campus outside us in trump deal, bypassing past china worries" }
-Tsynctrhntoi@{ shape: win-pane, label: "_Published May 15, 2025, 05:47 AM_
-Trump’s big syria announcement surprised his own sanctions officials" }
-Illrtzeinhnc@{ shape: win-pane, label: "_Published Aug 16, 2025, 12:19 AM_
-Israel in talks to resettle gaza palestinians in south sudan: sources" }
-NyawIlktff@{ shape: win-pane, label: "_Published Aug 08, 2025, 01:58 AM_
-Netanyahu says he wants israel to take control of all of gaza" }
-Ilaunsieoagw@{ shape: win-pane, label: "_Published Aug 07, 2025, 06:26 PM_
-Israel’s netanyahu to convene security meeting on expanding gaza war" }
-Ilicpsoagwus@{ shape: win-pane, label: "_Published Aug 06, 2025, 07:01 PM_
-Israeli military chief pushes back on expanding gaza war, sources say" }
-Ilaiensepoifsat@{ shape: win-pane, label: "_Published Aug 14, 2025, 04:03 PM_
-Israel’s finance minister launches settlement plan to ‘bury’ idea of palestinian state" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-Iltaauttatkas@{ shape: win-pane, label: "_Published Aug 12, 2025, 08:55 AM_
-Israeli critics say netanyahu plan to capture gaza city lacks clear aims" }
+Nreeaitssmltn@{ shape: win-pane, label: "_Published Dec 27, 2025, 03:02 AM_
+New york to require social media platforms to display mental health warnings" }
+Dairmreidrsi@{ shape: win-pane, label: "_Published Dec 11, 2025, 09:36 PM_
+‘downward spiral’: french mother blames social media for teen’s suicide" }
+Slaheaiptltroi@{ shape: win-pane, label: "_Published Dec 11, 2025, 04:00 PM_
+Social media and children are a bad mix, yet parents still post their photos online" }
+Itooersaisues@{ shape: win-pane, label: "_Published Dec 10, 2025, 08:48 PM_
+‘i didn’t get to say goodbye’: australia’s social media ban stirs unease, praise" }
+Aamleyidnee@{ shape: win-pane, label: "_Published Dec 10, 2025, 12:15 PM_
+Australian mum of late teen says social media ban ‘bittersweet’" }
+Aaombrdnafils@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:32 PM_
+Australia social media ban for children under 16 takes effect in world first" }
 
-Ilmrutmrnolspnt:::txtsize --> Upneockecdr:::txtsize
-Upneockecdr:::txtsize --> TaniliEtrnn:::txtsize
-TaniliEtrnn:::txtsize --> ThQignboSaaU:::txtsize
-TaniliEtrnn:::txtsize --> Thtaoonai:::txtsize
-Upneockecdr:::txtsize --> Gtuuelrima:::txtsize
-Gtuuelrima:::txtsize --> Ubbsaodnpbsair:::txtsize
-Gtuuelrima:::txtsize --> Tsynctrhntoi:::txtsize
-Ilmrutmrnolspnt:::txtsize --> Illrtzeinhnc:::txtsize
-Illrtzeinhnc:::txtsize --> NyawIlktff:::txtsize
-NyawIlktff:::txtsize --> Ilaunsieoagw:::txtsize
-NyawIlktff:::txtsize --> Ilicpsoagwus:::txtsize
-Illrtzeinhnc:::txtsize --> Ilaiensepoifsat:::txtsize
-Ilaiensepoifsat:::txtsize --> Sbsrcdnacaale:::txtsize
-Ilaiensepoifsat:::txtsize --> Iltaauttatkas:::txtsize
+Nreeaitssmltn:::txtsize --> Dairmreidrsi:::txtsize
+Dairmreidrsi:::txtsize --> Slaheaiptltroi:::txtsize
+Slaheaiptltroi:::txtsize --> Itooersaisues:::txtsize
+Dairmreidrsi:::txtsize --> Aamleyidnee:::txtsize
+Aamleyidnee:::txtsize --> Aaombrdnafils:::txtsize
 
-MhiasodornNry@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:32 PM_
-More than 560 flights across us grounded as snowstorm blankets new york city" }
-AsgalnassatYirs@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:36 PM_
-At least 400 flights cancelled, many delayed as snowstorm affects new york city airports" }
-Treeamdshatacsn@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:15 AM_
-Temperatures in seoul fall to minus 11.8 deg c as south korea is hit by season’s coldest morning" }
-Sgszfaraedune@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:10 AM_
-Strong winds, blizzards forecast across japan; weekend disruption feared" }
-Ntishaasodfesaly@{ shape: win-pane, label: "_Published Dec 23, 2025, 06:15 PM_
-No white christmas: south korea to brace itself for cold snap from dec 25 but snowfall unlikely" }
-Sgszfaraedune@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:10 AM_
-Strong winds, blizzards forecast across japan; weekend disruption feared" }
-Treeamdshatacsn@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:15 AM_
-Temperatures in seoul fall to minus 11.8 deg c as south korea is hit by season’s coldest morning" }
-Jtaawntotptun@{ shape: win-pane, label: "_Published Dec 16, 2025, 03:55 PM_
-Japan to revamp weather warning system from may to aid prompt evacuation" }
-Spiegmudcdwdstnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 02:46 PM_
-Singapore airlines flights among hundreds cancelled in new york due to snowstorm in us city" }
-AsgalnassatYirs@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:36 PM_
-At least 400 flights cancelled, many delayed as snowstorm affects new york city airports" }
-Treeamdshatacsn@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:15 AM_
-Temperatures in seoul fall to minus 11.8 deg c as south korea is hit by season’s coldest morning" }
-Sgszfaraedune@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:10 AM_
-Strong winds, blizzards forecast across japan; weekend disruption feared" }
-AsgalnassatYirs@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:36 PM_
-At least 400 flights cancelled, many delayed as snowstorm affects new york city airports" }
-Treeamdshatacsn@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:15 AM_
-Temperatures in seoul fall to minus 11.8 deg c as south korea is hit by season’s coldest morning" }
-Sgszfaraedune@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:10 AM_
-Strong winds, blizzards forecast across japan; weekend disruption feared" }
+Estisnasst@{ shape: win-pane, label: "_Published Dec 27, 2025, 12:29 AM_
+Explosion at alawite mosque in syria’s homs kills eight" }
+Swrtpmachctep@{ shape: win-pane, label: "_Published Jun 25, 2025, 12:06 AM_
+Shadowy extremist group claims damascus church attack that killed 25 people" }
+Asljicogmsc@{ shape: win-pane, label: "_Published Jun 23, 2025, 01:28 AM_
+At least 20 killed, 52 injured in suicide bombing at damascus church" }
+Ievgtyocynq@{ shape: win-pane, label: "_Published Jun 12, 2025, 02:08 PM_
+Isis reactivating fighters, eying comeback in syria and iraq" }
+Snrtedmadse@{ shape: win-pane, label: "_Published May 17, 2025, 10:08 PM_
+Syrian government forces raid islamic state hideouts in aleppo" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
+Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
 
-MhiasodornNry:::txtsize --> AsgalnassatYirs:::txtsize
-AsgalnassatYirs:::txtsize --> Treeamdshatacsn:::txtsize
-Treeamdshatacsn:::txtsize --> Sgszfaraedune:::txtsize
-Treeamdshatacsn:::txtsize --> Ntishaasodfesaly:::txtsize
-AsgalnassatYirs:::txtsize --> Sgszfaraedune:::txtsize
-Sgszfaraedune:::txtsize --> Treeamdshatacsn:::txtsize
-Sgszfaraedune:::txtsize --> Jtaawntotptun:::txtsize
-MhiasodornNry:::txtsize --> Spiegmudcdwdstnt:::txtsize
-Spiegmudcdwdstnt:::txtsize --> AsgalnassatYirs:::txtsize
-AsgalnassatYirs:::txtsize --> Treeamdshatacsn:::txtsize
-AsgalnassatYirs:::txtsize --> Sgszfaraedune:::txtsize
-Spiegmudcdwdstnt:::txtsize --> AsgalnassatYirs:::txtsize
-AsgalnassatYirs:::txtsize --> Treeamdshatacsn:::txtsize
-AsgalnassatYirs:::txtsize --> Sgszfaraedune:::txtsize
+Estisnasst:::txtsize --> Swrtpmachctep:::txtsize
+Swrtpmachctep:::txtsize --> Asljicogmsc:::txtsize
+Asljicogmsc:::txtsize --> Ievgtyocynq:::txtsize
+Asljicogmsc:::txtsize --> Snrtedmadse:::txtsize
+Swrtpmachctep:::txtsize --> SnltiARahtoy:::txtsize
+SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
 
 ```
-<i>Last updated: 2025-12-27 00:00:43.154414 (GMT+8)</i>
+<i>Last updated: 2025-12-27 04:01:07.151773 (GMT+8)</i>
 <!-- END -->
