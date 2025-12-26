@@ -16,102 +16,132 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-WoaUiang@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:36 AM_
-What to know about us military action in nigeria" }
-UnsenIisrse@{ shape: win-pane, label: "_Published Dec 26, 2025, 08:34 AM_
-Us launches strike against isis militants in north-west nigeria" }
-Fiieoakc@{ shape: win-pane, label: "_Published Dec 25, 2025, 11:49 PM_
-Five killed in nigeria mosque attack, police say" }
-Niqmkase@{ shape: win-pane, label: "_Published Dec 25, 2025, 02:33 AM_
-Nigeria mosque bombing kills at least seven" }
-UdnvalsNiemeth@{ shape: win-pane, label: "_Published Dec 23, 2025, 01:23 AM_
-Us conducting surveillance flights over nigeria after trump intervention threat" }
-Fiieoakc@{ shape: win-pane, label: "_Published Dec 25, 2025, 11:49 PM_
-Five killed in nigeria mosque attack, police say" }
-Niqmkase@{ shape: win-pane, label: "_Published Dec 25, 2025, 02:33 AM_
-Nigeria mosque bombing kills at least seven" }
-UdnvalsNiemeth@{ shape: win-pane, label: "_Published Dec 23, 2025, 01:23 AM_
-Us conducting surveillance flights over nigeria after trump intervention threat" }
-Niioseavngrlcy@{ shape: win-pane, label: "_Published Dec 08, 2025, 04:51 PM_
-Nigeria police probe suspected organ-harvesting ring after grisly discovery" }
-UdnvalsNiemeth@{ shape: win-pane, label: "_Published Dec 23, 2025, 01:23 AM_
-Us conducting surveillance flights over nigeria after trump intervention threat" }
-TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
-Trump threatens military action in nigeria over ‘killing of christians’" }
-TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
-Trump threatens military action in nigeria over ‘killing of christians’" }
+Lneontsslnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:07 PM_
+London’s love of wood burning stoves sparks a pollution debate" }
+Saisybsn@{ shape: win-pane, label: "_Published Nov 27, 2023, 05:13 PM_
+Sichuan residents salty over bacon smoking ban" }
+Sbnmroineh@{ shape: win-pane, label: "_Published Nov 05, 2023, 08:59 AM_
+Straw burning blamed for air pollution in north-east china" }
+Alosrodaaml@{ shape: win-pane, label: "_Published Oct 18, 2023, 03:18 PM_
+Air pollution missing from two-thirds of national climate plans" }
+Ctttptepl@{ shape: win-pane, label: "_Published Nov 02, 2023, 09:21 AM_
+Climate’s ‘catch-22’: cutting pollution heats up the planet" }
+ChntoeggSCi@{ shape: win-pane, label: "_Published Nov 07, 2021, 09:48 PM_
+China has 'long way to go' to meet ecological goals: state council" }
+Caooeyow@{ shape: win-pane, label: "_Published Oct 24, 2021, 10:39 PM_
+China aims to cut fossil energy use to below 20% by 2060" }
+MoimoiSaimcied@{ shape: win-pane, label: "_Published Nov 03, 2025, 05:00 AM_
+More could die from air pollution in s-e asia even if climate action is taken: study" }
+Lhehfealodd@{ shape: win-pane, label: "_Published Mar 07, 2023, 08:59 AM_
+Less than 1% of earth has safe levels of air pollution, study finds" }
+Ptesrnaditis@{ shape: win-pane, label: "_Published Mar 06, 2023, 08:06 PM_
+Pollution returns to northern china as industrial activities rise" }
+Eennrehailny@{ shape: win-pane, label: "_Published Mar 06, 2023, 12:44 PM_
+Even newborns aren’t spared the wrath of dhaka’s air pollution: daily star" }
+Tctoitde@{ shape: win-pane, label: "_Published Aug 09, 2021, 04:42 PM_
+The un climate report's five futures decoded" }
+GliusCinia@{ shape: win-pane, label: "_Published May 27, 2021, 08:53 AM_
+Global warming could pass 1.5 deg c within the next five years: un" }
 
-WoaUiang:::txtsize --> UnsenIisrse:::txtsize
-UnsenIisrse:::txtsize --> Fiieoakc:::txtsize
-Fiieoakc:::txtsize --> Niqmkase:::txtsize
-Fiieoakc:::txtsize --> UdnvalsNiemeth:::txtsize
-WoaUiang:::txtsize --> Fiieoakc:::txtsize
-Fiieoakc:::txtsize --> Niqmkase:::txtsize
-Niqmkase:::txtsize --> UdnvalsNiemeth:::txtsize
-Niqmkase:::txtsize --> Niioseavngrlcy:::txtsize
-Fiieoakc:::txtsize --> UdnvalsNiemeth:::txtsize
-UdnvalsNiemeth:::txtsize --> TttiriNiriCt:::txtsize
-UdnvalsNiemeth:::txtsize --> TttiriNiriCt:::txtsize
+Lneontsslnt:::txtsize --> Saisybsn:::txtsize
+Saisybsn:::txtsize --> Sbnmroineh:::txtsize
+Sbnmroineh:::txtsize --> Alosrodaaml:::txtsize
+Sbnmroineh:::txtsize --> Ctttptepl:::txtsize
+Saisybsn:::txtsize --> ChntoeggSCi:::txtsize
+ChntoeggSCi:::txtsize --> Caooeyow:::txtsize
+Lneontsslnt:::txtsize --> MoimoiSaimcied:::txtsize
+MoimoiSaimcied:::txtsize --> Lhehfealodd:::txtsize
+Lhehfealodd:::txtsize --> Ptesrnaditis:::txtsize
+Lhehfealodd:::txtsize --> Eennrehailny:::txtsize
+MoimoiSaimcied:::txtsize --> Tctoitde:::txtsize
+Tctoitde:::txtsize --> GliusCinia:::txtsize
 
-Taitmieofaisa@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:23 AM_
-Trump administration emphasises religion in official christmas messages" }
-Tulisbar@{ shape: win-pane, label: "_Published Feb 07, 2025, 01:35 AM_
-Trump unveils ‘anti-christian bias’ task force" }
-TsanymiiaAnntdhp@{ shape: win-pane, label: "_Published Feb 05, 2025, 09:01 AM_
-Trump’s impeachment lawyer pam bondi confirmed as his attorney-general to lead doj shake-up" }
-Tptosttaenosro@{ shape: win-pane, label: "_Published Feb 03, 2025, 07:05 PM_
-Trump plans to invoke obscure 18th century wartime law in bid for mass deportations" }
-SiUiinenWn@{ shape: win-pane, label: "_Published Jan 07, 2021, 12:55 PM_
-Storming of us capitol: timeline of key events in washington" }
-DEmsoeyde@{ shape: win-pane, label: "_Published Jan 28, 2025, 09:52 AM_
-Do or dei: trump’s assault on diversity divides america" }
-Tciadsrommetne@{ shape: win-pane, label: "_Published Jan 23, 2025, 06:41 AM_
-Trump campaign against diversity urges government employees to turn informer" }
-TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
-Trump threatens military action in nigeria over ‘killing of christians’" }
-UDehewmeinegas@{ shape: win-pane, label: "_Published Nov 01, 2025, 09:00 AM_
-Us v-p j.d. vance says he hopes his wife embraces christianity, setting off backlash" }
-UanyrAcm@{ shape: win-pane, label: "_Published Mar 28, 2025, 01:30 PM_
-Usha vance in the eye of trump’s arctic storm" }
-TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
-Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
+StitiraYirs@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:36 PM_
+Snowstorm disrupts holiday travel at new york city airports" }
+Treeamdshatacsn@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:15 AM_
+Temperatures in seoul fall to minus 11.8 deg c as south korea is hit by season’s coldest morning" }
+Sgszfaraedune@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:10 AM_
+Strong winds, blizzards forecast across japan; weekend disruption feared" }
+Treeamdshatacsn@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:15 AM_
+Temperatures in seoul fall to minus 11.8 deg c as south korea is hit by season’s coldest morning" }
+Jtaawntotptun@{ shape: win-pane, label: "_Published Dec 16, 2025, 03:55 PM_
+Japan to revamp weather warning system from may to aid prompt evacuation" }
+Ntishaasodfesaly@{ shape: win-pane, label: "_Published Dec 23, 2025, 06:15 PM_
+No white christmas: south korea to brace itself for cold snap from dec 25 but snowfall unlikely" }
+Hsesoatfseun@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:46 PM_
+Heavy snow returns as seoul braces itself for possible disruption" }
+Snszoiuren@{ shape: win-pane, label: "_Published Nov 18, 2025, 03:10 PM_
+Season’s first sub-zero cold grips south korea, to ease on nov 20" }
+Sgszfaraedune@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:10 AM_
+Strong winds, blizzards forecast across japan; weekend disruption feared" }
+Treeamdshatacsn@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:15 AM_
+Temperatures in seoul fall to minus 11.8 deg c as south korea is hit by season’s coldest morning" }
+Sgszfaraedune@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:10 AM_
+Strong winds, blizzards forecast across japan; weekend disruption feared" }
+Ntishaasodfesaly@{ shape: win-pane, label: "_Published Dec 23, 2025, 06:15 PM_
+No white christmas: south korea to brace itself for cold snap from dec 25 but snowfall unlikely" }
+Jtaawntotptun@{ shape: win-pane, label: "_Published Dec 16, 2025, 03:55 PM_
+Japan to revamp weather warning system from may to aid prompt evacuation" }
+Jlmudreeetr@{ shape: win-pane, label: "_Published Dec 16, 2025, 12:14 PM_
+Japan lifts mega quake advisory a week after powerful tremor" }
+Batkdptaicl@{ shape: win-pane, label: "_Published Dec 15, 2025, 02:00 PM_
+Blizzard hits hokkaido, disrupting train and flight schedules" }
 
-Taitmieofaisa:::txtsize --> Tulisbar:::txtsize
-Tulisbar:::txtsize --> TsanymiiaAnntdhp:::txtsize
-TsanymiiaAnntdhp:::txtsize --> Tptosttaenosro:::txtsize
-TsanymiiaAnntdhp:::txtsize --> SiUiinenWn:::txtsize
-Tulisbar:::txtsize --> DEmsoeyde:::txtsize
-DEmsoeyde:::txtsize --> Tciadsrommetne:::txtsize
-Taitmieofaisa:::txtsize --> TttiriNiriCt:::txtsize
-TttiriNiriCt:::txtsize --> UDehewmeinegas:::txtsize
-UDehewmeinegas:::txtsize --> UanyrAcm:::txtsize
-UDehewmeinegas:::txtsize --> TahesegnipdoUstt:::txtsize
+StitiraYirs:::txtsize --> Treeamdshatacsn:::txtsize
+Treeamdshatacsn:::txtsize --> Sgszfaraedune:::txtsize
+Sgszfaraedune:::txtsize --> Treeamdshatacsn:::txtsize
+Sgszfaraedune:::txtsize --> Jtaawntotptun:::txtsize
+Treeamdshatacsn:::txtsize --> Ntishaasodfesaly:::txtsize
+Ntishaasodfesaly:::txtsize --> Hsesoatfseun:::txtsize
+Ntishaasodfesaly:::txtsize --> Snszoiuren:::txtsize
+StitiraYirs:::txtsize --> Sgszfaraedune:::txtsize
+Sgszfaraedune:::txtsize --> Treeamdshatacsn:::txtsize
+Treeamdshatacsn:::txtsize --> Sgszfaraedune:::txtsize
+Treeamdshatacsn:::txtsize --> Ntishaasodfesaly:::txtsize
+Sgszfaraedune:::txtsize --> Jtaawntotptun:::txtsize
+Jtaawntotptun:::txtsize --> Jlmudreeetr:::txtsize
+Jtaawntotptun:::txtsize --> Batkdptaicl:::txtsize
 
-UnsenIisrse@{ shape: win-pane, label: "_Published Dec 26, 2025, 08:34 AM_
-Us launches strike against isis militants in north-west nigeria" }
-Fiieoakc@{ shape: win-pane, label: "_Published Dec 25, 2025, 11:49 PM_
-Five killed in nigeria mosque attack, police say" }
-Niqmkase@{ shape: win-pane, label: "_Published Dec 25, 2025, 02:33 AM_
-Nigeria mosque bombing kills at least seven" }
-UdnvalsNiemeth@{ shape: win-pane, label: "_Published Dec 23, 2025, 01:23 AM_
-Us conducting surveillance flights over nigeria after trump intervention threat" }
-Niioseavngrlcy@{ shape: win-pane, label: "_Published Dec 08, 2025, 04:51 PM_
-Nigeria police probe suspected organ-harvesting ring after grisly discovery" }
-UdnvalsNiemeth@{ shape: win-pane, label: "_Published Dec 23, 2025, 01:23 AM_
-Us conducting surveillance flights over nigeria after trump intervention threat" }
-TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
-Trump threatens military action in nigeria over ‘killing of christians’" }
-TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
-Trump threatens military action in nigeria over ‘killing of christians’" }
+Wtdaagstw@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:00 PM_
+Weight-loss drugs are changing. here’s what to know" }
+UrfGlwtNok@{ shape: win-pane, label: "_Published Dec 23, 2025, 09:50 AM_
+Us approves first glp-1 pill for weight loss: novo nordisk" }
+TgfAhsrpestbie@{ shape: win-pane, label: "_Published Jun 21, 2025, 03:45 PM_
+The wegovy effect: a weight-loss drug reshapes the lives of us teens battling obesity" }
+Wycgsirlr@{ shape: win-pane, label: "_Published May 20, 2024, 05:00 PM_
+Wegovy is becoming too essential for its elite price" }
+WyspiogsgUt@{ shape: win-pane, label: "_Published Feb 16, 2024, 01:45 PM_
+Wegovy fuels sharp rise in use of weight-loss drugs for us youth" }
+TesomiuuSK@{ shape: win-pane, label: "_Published Dec 07, 2025, 04:10 PM_
+Thinness obsession prompts diet drug misuse in south korea" }
+Elailoowtnt@{ shape: win-pane, label: "_Published Nov 20, 2025, 08:37 PM_
+Eli lilly’s daily pill helps people lose 10% of weight in 18 months: study" }
+Oiltntskiohshr@{ shape: win-pane, label: "_Published Dec 23, 2025, 10:10 AM_
+Ozempic meals? restaurants in the us shrink portions to match bite-sized hunger" }
+Tochsmdn@{ shape: win-pane, label: "_Published Oct 29, 2024, 05:00 PM_
+The economics of thinness (ozempic edition)" }
+Oitwtwrbpcou@{ shape: win-pane, label: "_Published Jun 01, 2023, 04:00 PM_
+Ozempic touted as weight-loss ‘wonder’ drug, but experts caution its use" }
+UrfGlwtNok@{ shape: win-pane, label: "_Published Dec 23, 2025, 09:50 AM_
+Us approves first glp-1 pill for weight loss: novo nordisk" }
+TgfAhsrpestbie@{ shape: win-pane, label: "_Published Jun 21, 2025, 03:45 PM_
+The wegovy effect: a weight-loss drug reshapes the lives of us teens battling obesity" }
+TesomiuuSK@{ shape: win-pane, label: "_Published Dec 07, 2025, 04:10 PM_
+Thinness obsession prompts diet drug misuse in south korea" }
 
-UnsenIisrse:::txtsize --> Fiieoakc:::txtsize
-Fiieoakc:::txtsize --> Niqmkase:::txtsize
-Niqmkase:::txtsize --> UdnvalsNiemeth:::txtsize
-Niqmkase:::txtsize --> Niioseavngrlcy:::txtsize
-Fiieoakc:::txtsize --> UdnvalsNiemeth:::txtsize
-UdnvalsNiemeth:::txtsize --> TttiriNiriCt:::txtsize
-UdnvalsNiemeth:::txtsize --> TttiriNiriCt:::txtsize
+Wtdaagstw:::txtsize --> UrfGlwtNok:::txtsize
+UrfGlwtNok:::txtsize --> TgfAhsrpestbie:::txtsize
+TgfAhsrpestbie:::txtsize --> Wycgsirlr:::txtsize
+TgfAhsrpestbie:::txtsize --> WyspiogsgUt:::txtsize
+UrfGlwtNok:::txtsize --> TesomiuuSK:::txtsize
+TesomiuuSK:::txtsize --> Elailoowtnt:::txtsize
+Wtdaagstw:::txtsize --> Oiltntskiohshr:::txtsize
+Oiltntskiohshr:::txtsize --> Tochsmdn:::txtsize
+Tochsmdn:::txtsize --> Oitwtwrbpcou:::txtsize
+Oiltntskiohshr:::txtsize --> UrfGlwtNok:::txtsize
+UrfGlwtNok:::txtsize --> TgfAhsrpestbie:::txtsize
+UrfGlwtNok:::txtsize --> TesomiuuSK:::txtsize
 
 ```
-<i>Last updated: 2025-12-26 12:01:15.325831 (GMT+8)</i>
+<i>Last updated: 2025-12-26 16:00:41.678572 (GMT+8)</i>
 <!-- END -->
