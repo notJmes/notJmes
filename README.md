@@ -16,90 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Mtdrechonsce@{ shape: win-pane, label: "_Published Dec 27, 2025, 03:50 AM_
-Man detained after knife attack on three women in paris city centre" }
-ieaftnurtfas@{ shape: win-pane, label: "_Published Dec 26, 2025, 06:01 PM_
-15 injured in japan after stabbing, liquid spray attack, official says" }
-Scdrkdupecnnnfap@{ shape: win-pane, label: "_Published May 25, 2023, 07:20 PM_
-Suspect held after four killed, including 2 police officers, in japan gun and knife attack: reports" }
-Jhcsnefaghmolgia@{ shape: win-pane, label: "_Published Mar 02, 2023, 02:21 PM_
-Japan high school student arrested for stabbing teacher, admits to mutilating multiple cats" }
-JAiytwkrewt@{ shape: win-pane, label: "_Published Mar 17, 2025, 01:20 PM_
-Japan aum shinrikyo cult widow speaks 30 years after subway attack" }
-UeaJssmaamne@{ shape: win-pane, label: "_Published Jun 10, 2024, 01:00 PM_
-Unlike the yakuza, japan’s latest crime menace is anonymous and faceless" }
-Jsynldaomstrfsreue@{ shape: win-pane, label: "_Published Mar 02, 2023, 06:29 PM_
-Japan’s ‘happy science’ cult leader okawa, who claimed he spoke to spirits of jesus and freddie mercury, dies" }
-Tnsloserlrb@{ shape: win-pane, label: "_Published Dec 26, 2025, 04:14 PM_
-Taiwan holds drill to boost response after deadly metro stabbing" }
-Kwitrseiiroc@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:57 PM_
-Knife-wielding attacker kills three in taipei, dies during police chase" }
-Ngefentsiioaf@{ shape: win-pane, label: "_Published Dec 20, 2025, 12:38 PM_
-No singaporeans affected by knife attacks in taipei: singapore trade office" }
-Tnivuqiesyc@{ shape: win-pane, label: "_Published Dec 20, 2025, 01:50 PM_
-Taiwan president vows full inquiry into deadly subway attack" }
-Tnceeimsi@{ shape: win-pane, label: "_Published Dec 21, 2025, 05:20 PM_
-Taiwan police rule out ‘terrorism’ in metro stabbing" }
-Kwitrseiiroc@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:57 PM_
-Knife-wielding attacker kills three in taipei, dies during police chase" }
-Tiecrhettrfoheh@{ shape: win-pane, label: "_Published Dec 21, 2025, 03:55 PM_
-Taipei knife attack: 57-year-old who tried to stop attacker died from wound that pierced heart" }
+Tssglssaa@{ shape: win-pane, label: "_Published Dec 27, 2025, 07:45 AM_
+Trump’s christmas gospel: bombs, blessings and blame" }
+UnsenIisrse@{ shape: win-pane, label: "_Published Dec 26, 2025, 08:34 AM_
+Us launches strike against isis militants in north-west nigeria" }
+Fiieoakc@{ shape: win-pane, label: "_Published Dec 25, 2025, 11:49 PM_
+Five killed in nigeria mosque attack, police say" }
+Niqmkase@{ shape: win-pane, label: "_Published Dec 25, 2025, 02:33 AM_
+Nigeria mosque bombing kills at least seven" }
+UdnvalsNiemeth@{ shape: win-pane, label: "_Published Dec 23, 2025, 01:23 AM_
+Us conducting surveillance flights over nigeria after trump intervention threat" }
+Bstkoistfrmfl@{ shape: win-pane, label: "_Published Sep 23, 2024, 01:25 PM_
+Bibles, ‘fight’ sneakers, coins with his ‘beautiful face’: trump’s merch for sale" }
+Ssueinel@{ shape: win-pane, label: "_Published Aug 21, 2024, 03:35 AM_
+Shares of trump’s media firm sink to record low" }
+Riusewees@{ shape: win-pane, label: "_Published Aug 13, 2024, 12:13 AM_
+Rambling trump, musk interview marred by tech issues" }
+NrgaHsdTiUt@{ shape: win-pane, label: "_Published Aug 11, 2024, 12:20 AM_
+New surveys give kamala harris a lead over trump in 3 key us states" }
+TsaouipTrtsdn@{ shape: win-pane, label: "_Published Sep 13, 2024, 01:25 PM_
+Trump’s campaign rolls out t-shirt copying taylor swift’s eras tour design" }
+Trtrarlrren@{ shape: win-pane, label: "_Published Sep 11, 2024, 11:19 AM_
+Taylor swift endorses ‘warrior’ kamala harris for us president" }
+Tssomsnlip@{ shape: win-pane, label: "_Published Aug 20, 2024, 01:44 AM_
+Trump shares doctored images showing taylor swift support" }
 
-Mtdrechonsce:::txtsize --> ieaftnurtfas:::txtsize
-ieaftnurtfas:::txtsize --> Scdrkdupecnnnfap:::txtsize
-Scdrkdupecnnnfap:::txtsize --> Jhcsnefaghmolgia:::txtsize
-ieaftnurtfas:::txtsize --> JAiytwkrewt:::txtsize
-JAiytwkrewt:::txtsize --> UeaJssmaamne:::txtsize
-JAiytwkrewt:::txtsize --> Jsynldaomstrfsreue:::txtsize
-Mtdrechonsce:::txtsize --> Tnsloserlrb:::txtsize
-Tnsloserlrb:::txtsize --> Kwitrseiiroc:::txtsize
-Kwitrseiiroc:::txtsize --> Ngefentsiioaf:::txtsize
-Kwitrseiiroc:::txtsize --> Tnivuqiesyc:::txtsize
-Tnsloserlrb:::txtsize --> Tnceeimsi:::txtsize
-Tnceeimsi:::txtsize --> Kwitrseiiroc:::txtsize
-Tnceeimsi:::txtsize --> Tiecrhettrfoheh:::txtsize
+Tssglssaa:::txtsize --> UnsenIisrse:::txtsize
+UnsenIisrse:::txtsize --> Fiieoakc:::txtsize
+Fiieoakc:::txtsize --> Niqmkase:::txtsize
+Fiieoakc:::txtsize --> UdnvalsNiemeth:::txtsize
+Tssglssaa:::txtsize --> Bstkoistfrmfl:::txtsize
+Bstkoistfrmfl:::txtsize --> Ssueinel:::txtsize
+Ssueinel:::txtsize --> Riusewees:::txtsize
+Ssueinel:::txtsize --> NrgaHsdTiUt:::txtsize
+Bstkoistfrmfl:::txtsize --> TsaouipTrtsdn:::txtsize
+TsaouipTrtsdn:::txtsize --> Trtrarlrren:::txtsize
+TsaouipTrtsdn:::txtsize --> Tssomsnlip:::txtsize
 
-Nreeaitssmltn@{ shape: win-pane, label: "_Published Dec 27, 2025, 03:02 AM_
-New york to require social media platforms to display mental health warnings" }
-Dairmreidrsi@{ shape: win-pane, label: "_Published Dec 11, 2025, 09:36 PM_
-‘downward spiral’: french mother blames social media for teen’s suicide" }
-Slaheaiptltroi@{ shape: win-pane, label: "_Published Dec 11, 2025, 04:00 PM_
-Social media and children are a bad mix, yet parents still post their photos online" }
-Itooersaisues@{ shape: win-pane, label: "_Published Dec 10, 2025, 08:48 PM_
-‘i didn’t get to say goodbye’: australia’s social media ban stirs unease, praise" }
-Aamleyidnee@{ shape: win-pane, label: "_Published Dec 10, 2025, 12:15 PM_
-Australian mum of late teen says social media ban ‘bittersweet’" }
-Aaombrdnafils@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:32 PM_
-Australia social media ban for children under 16 takes effect in world first" }
+WYresemhiD@{ shape: win-pane, label: "_Published Dec 27, 2025, 06:19 AM_
+While you were sleeping: 5 stories you might have missed, dec 27, 2025" }
+Olssrenoasot@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:32 PM_
+Over 1,700 flights across us grounded as snowstorm blankets new york city" }
+AsgalnassatYirs@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:36 PM_
+At least 400 flights cancelled, many delayed as snowstorm affects new york city airports" }
+Treeamdshatacsn@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:15 AM_
+Temperatures in seoul fall to minus 11.8 deg c as south korea is hit by season’s coldest morning" }
+Sgszfaraedune@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:10 AM_
+Strong winds, blizzards forecast across japan; weekend disruption feared" }
+Spiegmudcdwdstnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 02:46 PM_
+Singapore airlines flights among hundreds cancelled in new york due to snowstorm in us city" }
+AsgalnassatYirs@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:36 PM_
+At least 400 flights cancelled, many delayed as snowstorm affects new york city airports" }
+AsgalnassatYirs@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:36 PM_
+At least 400 flights cancelled, many delayed as snowstorm affects new york city airports" }
 
-Nreeaitssmltn:::txtsize --> Dairmreidrsi:::txtsize
-Dairmreidrsi:::txtsize --> Slaheaiptltroi:::txtsize
-Slaheaiptltroi:::txtsize --> Itooersaisues:::txtsize
-Dairmreidrsi:::txtsize --> Aamleyidnee:::txtsize
-Aamleyidnee:::txtsize --> Aaombrdnafils:::txtsize
+WYresemhiD:::txtsize --> Olssrenoasot:::txtsize
+Olssrenoasot:::txtsize --> AsgalnassatYirs:::txtsize
+AsgalnassatYirs:::txtsize --> Treeamdshatacsn:::txtsize
+AsgalnassatYirs:::txtsize --> Sgszfaraedune:::txtsize
+Olssrenoasot:::txtsize --> Spiegmudcdwdstnt:::txtsize
+Spiegmudcdwdstnt:::txtsize --> AsgalnassatYirs:::txtsize
+Spiegmudcdwdstnt:::txtsize --> AsgalnassatYirs:::txtsize
 
-Estisnasst@{ shape: win-pane, label: "_Published Dec 27, 2025, 12:29 AM_
-Explosion at alawite mosque in syria’s homs kills eight" }
-Swrtpmachctep@{ shape: win-pane, label: "_Published Jun 25, 2025, 12:06 AM_
-Shadowy extremist group claims damascus church attack that killed 25 people" }
-Asljicogmsc@{ shape: win-pane, label: "_Published Jun 23, 2025, 01:28 AM_
-At least 20 killed, 52 injured in suicide bombing at damascus church" }
-Ievgtyocynq@{ shape: win-pane, label: "_Published Jun 12, 2025, 02:08 PM_
-Isis reactivating fighters, eying comeback in syria and iraq" }
-Snrtedmadse@{ shape: win-pane, label: "_Published May 17, 2025, 10:08 PM_
-Syrian government forces raid islamic state hideouts in aleppo" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
-Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
+Zsysilttoutidc@{ shape: win-pane, label: "_Published Dec 27, 2025, 05:29 AM_
+Zelensky says russia using belarus territory to circumvent ukrainian defences" }
+RalceeisamriaSard@{ shape: win-pane, label: "_Published Dec 27, 2025, 03:49 AM_
+Russia likely placing new hypersonic missiles at former airbase in belarus, us researchers find" }
+PdrsiaetpaaesBu@{ shape: win-pane, label: "_Published Dec 25, 2025, 06:59 PM_
+Poland intercepts russian plane over baltic, reports airspace breaches from belarus" }
+Rasrnicatoo@{ shape: win-pane, label: "_Published Sep 19, 2025, 11:15 PM_
+Russian jets enter estonia’s airspace in latest test for nato" }
+Usrrobooiin@{ shape: win-pane, label: "_Published Dec 14, 2025, 01:44 AM_
+Us says belarus agreed to stop balloon flyovers into lithuania" }
+Zsmrnnidscmk@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:08 PM_
+Zelensky to meet trump on dec 28 in florida to discuss peace framework" }
+Unlydprstowren@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:43 PM_
+Ukraine’s zelensky says draft plan freezes front line, opens way for concessions" }
+PiaucbnrrprkeRt@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:59 PM_
+Putin indicated russia could be open to territory swop as part of ukraine deal: report" }
+RaUnkoelUcn@{ shape: win-pane, label: "_Published Dec 27, 2025, 02:34 AM_
+Russia says ukraine seeking to ‘torpedo’ talks on us peace plan" }
+Zsmrnnidscmk@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:08 PM_
+Zelensky to meet trump on dec 28 in florida to discuss peace framework" }
+Unlydprstowren@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:43 PM_
+Ukraine’s zelensky says draft plan freezes front line, opens way for concessions" }
+PiaucbnrrprkeRt@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:59 PM_
+Putin indicated russia could be open to territory swop as part of ukraine deal: report" }
+Unlydprstowren@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:43 PM_
+Ukraine’s zelensky says draft plan freezes front line, opens way for concessions" }
+ToiegRaipuoorpp@{ shape: win-pane, label: "_Published Nov 23, 2025, 12:09 AM_
+Trump officials’ meeting with russian in miami spurs questions about ukraine peace plan" }
+EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
+Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
 
-Estisnasst:::txtsize --> Swrtpmachctep:::txtsize
-Swrtpmachctep:::txtsize --> Asljicogmsc:::txtsize
-Asljicogmsc:::txtsize --> Ievgtyocynq:::txtsize
-Asljicogmsc:::txtsize --> Snrtedmadse:::txtsize
-Swrtpmachctep:::txtsize --> SnltiARahtoy:::txtsize
-SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
+Zsysilttoutidc:::txtsize --> RalceeisamriaSard:::txtsize
+RalceeisamriaSard:::txtsize --> PdrsiaetpaaesBu:::txtsize
+PdrsiaetpaaesBu:::txtsize --> Rasrnicatoo:::txtsize
+PdrsiaetpaaesBu:::txtsize --> Usrrobooiin:::txtsize
+RalceeisamriaSard:::txtsize --> Zsmrnnidscmk:::txtsize
+Zsmrnnidscmk:::txtsize --> Unlydprstowren:::txtsize
+Zsmrnnidscmk:::txtsize --> PiaucbnrrprkeRt:::txtsize
+Zsysilttoutidc:::txtsize --> RaUnkoelUcn:::txtsize
+RaUnkoelUcn:::txtsize --> Zsmrnnidscmk:::txtsize
+Zsmrnnidscmk:::txtsize --> Unlydprstowren:::txtsize
+Zsmrnnidscmk:::txtsize --> PiaucbnrrprkeRt:::txtsize
+RaUnkoelUcn:::txtsize --> Unlydprstowren:::txtsize
+Unlydprstowren:::txtsize --> ToiegRaipuoorpp:::txtsize
+Unlydprstowren:::txtsize --> EihaDsitnnannsake:::txtsize
 
 ```
-<i>Last updated: 2025-12-27 04:01:07.151773 (GMT+8)</i>
+<i>Last updated: 2025-12-27 08:00:30.503295 (GMT+8)</i>
 <!-- END -->
