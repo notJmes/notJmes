@@ -16,135 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-UiaeStLahtea@{ shape: win-pane, label: "_Published Dec 27, 2025, 11:22 PM_
-Us strikes targeted isis militants, lakurawa jihadists, nigeria says" }
-Ueietotslt@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:08 PM_
-Us, nigeria diverge in details over strikes on militants" }
-UnsenIisrse@{ shape: win-pane, label: "_Published Dec 26, 2025, 08:34 AM_
-Us launches strike against isis militants in north-west nigeria" }
-Fiieoakc@{ shape: win-pane, label: "_Published Dec 25, 2025, 11:49 PM_
-Five killed in nigeria mosque attack, police say" }
-WudakinNi@{ shape: win-pane, label: "_Published Dec 27, 2025, 01:20 PM_
-Why trump ordered a strike on militants in nigeria" }
-TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
-Trump threatens military action in nigeria over ‘killing of christians’" }
-UnsenIisrse@{ shape: win-pane, label: "_Published Dec 26, 2025, 08:34 AM_
-Us launches strike against isis militants in north-west nigeria" }
-Ueietotslt@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:08 PM_
-Us, nigeria diverge in details over strikes on militants" }
-UnsenIisrse@{ shape: win-pane, label: "_Published Dec 26, 2025, 08:34 AM_
-Us launches strike against isis militants in north-west nigeria" }
-Fiieoakc@{ shape: win-pane, label: "_Published Dec 25, 2025, 11:49 PM_
-Five killed in nigeria mosque attack, police say" }
-WudakinNi@{ shape: win-pane, label: "_Published Dec 27, 2025, 01:20 PM_
-Why trump ordered a strike on militants in nigeria" }
-TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
-Trump threatens military action in nigeria over ‘killing of christians’" }
-UnsenIisrse@{ shape: win-pane, label: "_Published Dec 26, 2025, 08:34 AM_
-Us launches strike against isis militants in north-west nigeria" }
-
-UiaeStLahtea:::txtsize --> Ueietotslt:::txtsize
-Ueietotslt:::txtsize --> UnsenIisrse:::txtsize
-UnsenIisrse:::txtsize --> Fiieoakc:::txtsize
-Ueietotslt:::txtsize --> WudakinNi:::txtsize
-WudakinNi:::txtsize --> TttiriNiriCt:::txtsize
-WudakinNi:::txtsize --> UnsenIisrse:::txtsize
-UiaeStLahtea:::txtsize --> Ueietotslt:::txtsize
-Ueietotslt:::txtsize --> UnsenIisrse:::txtsize
-UnsenIisrse:::txtsize --> Fiieoakc:::txtsize
-Ueietotslt:::txtsize --> WudakinNi:::txtsize
-WudakinNi:::txtsize --> TttiriNiriCt:::txtsize
-WudakinNi:::txtsize --> UnsenIisrse:::txtsize
-
-WrhUttsodldsei@{ shape: win-pane, label: "_Published Dec 27, 2025, 11:01 PM_
-Winter weather in us north-east leads to thousands of flight delays, cancellations" }
-Olssrenoasot@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:32 PM_
-Over 1,700 flights across us grounded as snowstorm blankets new york city" }
-AsgalnassatYirs@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:36 PM_
-At least 400 flights cancelled, many delayed as snowstorm affects new york city airports" }
-Treeamdshatacsn@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:15 AM_
-Temperatures in seoul fall to minus 11.8 deg c as south korea is hit by season’s coldest morning" }
-Sgszfaraedune@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:10 AM_
-Strong winds, blizzards forecast across japan; weekend disruption feared" }
-Spiegmudcdwdstnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 02:46 PM_
-Singapore airlines flights among hundreds cancelled in new york due to snowstorm in us city" }
-AsgalnassatYirs@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:36 PM_
-At least 400 flights cancelled, many delayed as snowstorm affects new york city airports" }
-AsgalnassatYirs@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:36 PM_
-At least 400 flights cancelled, many delayed as snowstorm affects new york city airports" }
-Olssrenoasot@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:32 PM_
-Over 1,700 flights across us grounded as snowstorm blankets new york city" }
-AsgalnassatYirs@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:36 PM_
-At least 400 flights cancelled, many delayed as snowstorm affects new york city airports" }
-Treeamdshatacsn@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:15 AM_
-Temperatures in seoul fall to minus 11.8 deg c as south korea is hit by season’s coldest morning" }
-Sgszfaraedune@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:10 AM_
-Strong winds, blizzards forecast across japan; weekend disruption feared" }
-Spiegmudcdwdstnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 02:46 PM_
-Singapore airlines flights among hundreds cancelled in new york due to snowstorm in us city" }
-AsgalnassatYirs@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:36 PM_
-At least 400 flights cancelled, many delayed as snowstorm affects new york city airports" }
-AsgalnassatYirs@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:36 PM_
-At least 400 flights cancelled, many delayed as snowstorm affects new york city airports" }
-
-WrhUttsodldsei:::txtsize --> Olssrenoasot:::txtsize
-Olssrenoasot:::txtsize --> AsgalnassatYirs:::txtsize
-AsgalnassatYirs:::txtsize --> Treeamdshatacsn:::txtsize
-AsgalnassatYirs:::txtsize --> Sgszfaraedune:::txtsize
-Olssrenoasot:::txtsize --> Spiegmudcdwdstnt:::txtsize
-Spiegmudcdwdstnt:::txtsize --> AsgalnassatYirs:::txtsize
-Spiegmudcdwdstnt:::txtsize --> AsgalnassatYirs:::txtsize
-WrhUttsodldsei:::txtsize --> Olssrenoasot:::txtsize
-Olssrenoasot:::txtsize --> AsgalnassatYirs:::txtsize
-AsgalnassatYirs:::txtsize --> Treeamdshatacsn:::txtsize
-AsgalnassatYirs:::txtsize --> Sgszfaraedune:::txtsize
-Olssrenoasot:::txtsize --> Spiegmudcdwdstnt:::txtsize
-Spiegmudcdwdstnt:::txtsize --> AsgalnassatYirs:::txtsize
-Spiegmudcdwdstnt:::txtsize --> AsgalnassatYirs:::txtsize
-
-NyoTieeafa@{ shape: win-pane, label: "_Published Dec 27, 2025, 10:42 PM_
-Netanyahu to meet trump in us next week: israeli official" }
-HsonsGrhscnii@{ shape: win-pane, label: "_Published Dec 09, 2025, 10:23 PM_
-Hamas says no second phase for gaza truce while israel ‘continues violations’" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
-Peace finally descends on the middle east: now the battle to make it last begins" }
+Ilsaivgenedt@{ shape: win-pane, label: "_Published Dec 28, 2025, 03:44 AM_
+Israel seals off palestinian village in west bank after deadly attack" }
+Ptnsagagela@{ shape: win-pane, label: "_Published Dec 26, 2025, 08:30 PM_
+Palestinian kills 2 in stabbing and ramming, israeli police say" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
 NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
 Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
-Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
-Israel marks oct 7 anniversary as talks are held to end gaza war" }
 NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
 Netanyahu declares israel at war as hamas attacks kill over 100" }
-Pgoihfcfge@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:53 AM_
-Pm wong welcomes first phase of gaza ceasefire agreement" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-SpeeamaeihfptGoc@{ shape: win-pane, label: "_Published Oct 09, 2025, 11:04 PM_
-Singapore welcomes israel-hamas deal to begin first phase of trump plan to end gaza conflict: mfa" }
+Iletvlosapnen@{ shape: win-pane, label: "_Published Dec 26, 2025, 07:14 PM_
+Israeli reservist rams vehicle into palestinian man praying in west bank" }
+Ilttieeibes@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:00 AM_
+Israeli settler attack injures palestinian baby, five arrested" }
+Ilsmvtauyis@{ shape: win-pane, label: "_Published Dec 24, 2025, 09:38 PM_
+Israel accuses hamas of violating gaza truce, says it will respond" }
+Iletvlosapnen@{ shape: win-pane, label: "_Published Dec 26, 2025, 07:14 PM_
+Israeli reservist rams vehicle into palestinian man praying in west bank" }
+Ilttieeibes@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:00 AM_
+Israeli settler attack injures palestinian baby, five arrested" }
+Hrhotciakxais@{ shape: win-pane, label: "_Published Dec 24, 2025, 05:24 PM_
+How israel’s hilltop settlers coordinate attacks to expel palestinians" }
+Siecsyoafoenlnit@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:16 PM_
+S’pore imposes sanctions, entry bans on 4 israelis for violence against palestinians in west bank" }
+Ilsmvtauyis@{ shape: win-pane, label: "_Published Dec 24, 2025, 09:38 PM_
+Israel accuses hamas of violating gaza truce, says it will respond" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Ilcfntutrkla@{ shape: win-pane, label: "_Published Oct 20, 2025, 06:50 AM_
+Israel says ceasefire and aid to resume after airstrikes kill 26 in gaza" }
 
-NyoTieeafa:::txtsize --> HsonsGrhscnii:::txtsize
-HsonsGrhscnii:::txtsize --> Tdrcaaededlncbs:::txtsize
-Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
-HsonsGrhscnii:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-NyoTieeafa:::txtsize --> Iliaeseoewa:::txtsize
-Iliaeseoewa:::txtsize --> TssHaossaaorslaoe:::txtsize
-TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
-TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
-Iliaeseoewa:::txtsize --> Pgoihfcfge:::txtsize
-Pgoihfcfge:::txtsize --> TssHaossaaorslaoe:::txtsize
-Pgoihfcfge:::txtsize --> SpeeamaeihfptGoc:::txtsize
+Ilsaivgenedt:::txtsize --> Ptnsagagela:::txtsize
+Ptnsagagela:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Ptnsagagela:::txtsize --> Iletvlosapnen:::txtsize
+Iletvlosapnen:::txtsize --> Ilttieeibes:::txtsize
+Iletvlosapnen:::txtsize --> Ilsmvtauyis:::txtsize
+Ilsaivgenedt:::txtsize --> Iletvlosapnen:::txtsize
+Iletvlosapnen:::txtsize --> Ilttieeibes:::txtsize
+Ilttieeibes:::txtsize --> Hrhotciakxais:::txtsize
+Ilttieeibes:::txtsize --> Siecsyoafoenlnit:::txtsize
+Iletvlosapnen:::txtsize --> Ilsmvtauyis:::txtsize
+Ilsmvtauyis:::txtsize --> AtHfezerydatoGel:::txtsize
+Ilsmvtauyis:::txtsize --> Ilcfntutrkla:::txtsize
+
+Pskehtccnrt@{ shape: win-pane, label: "_Published Dec 28, 2025, 02:34 AM_
+Putin says ukraine in no hurry to reach peace, agencies report" }
+RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
+Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
+Zsmrnnidscmk@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:08 PM_
+Zelensky to meet trump on dec 28 in florida to discuss peace framework" }
+Unlydprstowren@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:43 PM_
+Ukraine’s zelensky says draft plan freezes front line, opens way for concessions" }
+PiaucbnrrprkeRt@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:59 PM_
+Putin indicated russia could be open to territory swop as part of ukraine deal: report" }
+Rarnkoaudhntp@{ shape: win-pane, label: "_Published Dec 27, 2025, 05:25 PM_
+Russian barrage on kyiv kills one, leaves hundreds of thousands without power" }
+RaUnkoelUcn@{ shape: win-pane, label: "_Published Dec 27, 2025, 02:34 AM_
+Russia says ukraine seeking to ‘torpedo’ talks on us peace plan" }
+RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
+Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
+RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
+Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
+Zsmrnnidscmk@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:08 PM_
+Zelensky to meet trump on dec 28 in florida to discuss peace framework" }
+Unlydprstowren@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:43 PM_
+Ukraine’s zelensky says draft plan freezes front line, opens way for concessions" }
+PiaucbnrrprkeRt@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:59 PM_
+Putin indicated russia could be open to territory swop as part of ukraine deal: report" }
+Rarnkoaudhntp@{ shape: win-pane, label: "_Published Dec 27, 2025, 05:25 PM_
+Russian barrage on kyiv kills one, leaves hundreds of thousands without power" }
+RaUnkoelUcn@{ shape: win-pane, label: "_Published Dec 27, 2025, 02:34 AM_
+Russia says ukraine seeking to ‘torpedo’ talks on us peace plan" }
+RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
+Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
+
+Pskehtccnrt:::txtsize --> RanssdieZsue:::txtsize
+RanssdieZsue:::txtsize --> Zsmrnnidscmk:::txtsize
+Zsmrnnidscmk:::txtsize --> Unlydprstowren:::txtsize
+Zsmrnnidscmk:::txtsize --> PiaucbnrrprkeRt:::txtsize
+RanssdieZsue:::txtsize --> Rarnkoaudhntp:::txtsize
+Rarnkoaudhntp:::txtsize --> RaUnkoelUcn:::txtsize
+Rarnkoaudhntp:::txtsize --> RanssdieZsue:::txtsize
+Pskehtccnrt:::txtsize --> RanssdieZsue:::txtsize
+RanssdieZsue:::txtsize --> Zsmrnnidscmk:::txtsize
+Zsmrnnidscmk:::txtsize --> Unlydprstowren:::txtsize
+Zsmrnnidscmk:::txtsize --> PiaucbnrrprkeRt:::txtsize
+RanssdieZsue:::txtsize --> Rarnkoaudhntp:::txtsize
+Rarnkoaudhntp:::txtsize --> RaUnkoelUcn:::txtsize
+Rarnkoaudhntp:::txtsize --> RanssdieZsue:::txtsize
+
+AsdrGmui@{ shape: win-pane, label: "_Published Dec 28, 2025, 02:14 AM_
+At least 15 dead, 19 injured in guatemala bus accident" }
+AslVaeou@{ shape: win-pane, label: "_Published Dec 27, 2025, 12:24 PM_
+At least 7 killed in vietnam after bus overturns" }
+dndhespphoy@{ shape: win-pane, label: "_Published Dec 27, 2025, 09:54 AM_
+2 dead, 26 injured in 67-vehicle expressway pile-up north-west of tokyo" }
+ieulnkpwlSpna@{ shape: win-pane, label: "_Published Apr 06, 2025, 10:10 AM_
+47 injured in bus collision on tokyo expressway; at least 1 singaporean on board" }
+Snswtsltio@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:00 AM_
+Season’s first snowfall throws seoul into traffic chaos" }
+Ssisatstsdi@{ shape: win-pane, label: "_Published Dec 27, 2025, 02:52 PM_
+Spanish family missing after tourist boat sinks in indonesia" }
+EkdrldysdihR@{ shape: win-pane, label: "_Published Nov 15, 2025, 11:55 AM_
+Eight killed after overloaded ferry sinks in indonesia’s mahakam river" }
+digrysydil@{ shape: win-pane, label: "_Published Jul 03, 2025, 09:06 AM_
+4 dead, 30 missing after ferry sinks on way to indonesia’s bali" }
+Ieuslca@{ shape: win-pane, label: "_Published Dec 22, 2025, 11:45 AM_
+Indonesia bus crash kills 16, rescuer says" }
+ieaunushNJtmro@{ shape: win-pane, label: "_Published Dec 11, 2025, 04:50 PM_
+21 injured as car ploughs into students, teacher at north jakarta elementary school" }
+Ieraejufoiytc@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:17 PM_
+Indonesia free meal scheme major cause of food poisoning, says govt official" }
+EkdrldysdihR@{ shape: win-pane, label: "_Published Nov 15, 2025, 11:55 AM_
+Eight killed after overloaded ferry sinks in indonesia’s mahakam river" }
+Fheiiiicnnsa@{ shape: win-pane, label: "_Published Nov 14, 2025, 03:21 PM_
+Five chinese tourists killed in minibus accident in indonesia’s bali" }
+Tinneennitltd@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:34 PM_
+Two chinese nationals dead, one indonesian missing after bali boat accident" }
+TslbaeIeB@{ shape: win-pane, label: "_Published Mar 22, 2025, 01:50 PM_
+Tourist killed as boat capsizes off indonesia’s bali" }
+
+AsdrGmui:::txtsize --> AslVaeou:::txtsize
+AslVaeou:::txtsize --> dndhespphoy:::txtsize
+dndhespphoy:::txtsize --> ieulnkpwlSpna:::txtsize
+dndhespphoy:::txtsize --> Snswtsltio:::txtsize
+AslVaeou:::txtsize --> Ssisatstsdi:::txtsize
+Ssisatstsdi:::txtsize --> EkdrldysdihR:::txtsize
+Ssisatstsdi:::txtsize --> digrysydil:::txtsize
+AsdrGmui:::txtsize --> Ieuslca:::txtsize
+Ieuslca:::txtsize --> ieaunushNJtmro:::txtsize
+ieaunushNJtmro:::txtsize --> Ieraejufoiytc:::txtsize
+ieaunushNJtmro:::txtsize --> EkdrldysdihR:::txtsize
+Ieuslca:::txtsize --> Fheiiiicnnsa:::txtsize
+Fheiiiicnnsa:::txtsize --> Tinneennitltd:::txtsize
+Fheiiiicnnsa:::txtsize --> TslbaeIeB:::txtsize
 
 ```
-<i>Last updated: 2025-12-28 00:01:14.268948 (GMT+8)</i>
+<i>Last updated: 2025-12-28 04:00:38.150639 (GMT+8)</i>
 <!-- END -->
