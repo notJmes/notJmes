@@ -16,114 +16,141 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tssglssaa@{ shape: win-pane, label: "_Published Dec 27, 2025, 07:45 AM_
-Trump’s christmas gospel: bombs, blessings and blame" }
-UnsenIisrse@{ shape: win-pane, label: "_Published Dec 26, 2025, 08:34 AM_
-Us launches strike against isis militants in north-west nigeria" }
-Fiieoakc@{ shape: win-pane, label: "_Published Dec 25, 2025, 11:49 PM_
-Five killed in nigeria mosque attack, police say" }
-Niqmkase@{ shape: win-pane, label: "_Published Dec 25, 2025, 02:33 AM_
-Nigeria mosque bombing kills at least seven" }
-UdnvalsNiemeth@{ shape: win-pane, label: "_Published Dec 23, 2025, 01:23 AM_
-Us conducting surveillance flights over nigeria after trump intervention threat" }
-Bstkoistfrmfl@{ shape: win-pane, label: "_Published Sep 23, 2024, 01:25 PM_
-Bibles, ‘fight’ sneakers, coins with his ‘beautiful face’: trump’s merch for sale" }
-Ssueinel@{ shape: win-pane, label: "_Published Aug 21, 2024, 03:35 AM_
-Shares of trump’s media firm sink to record low" }
-Riusewees@{ shape: win-pane, label: "_Published Aug 13, 2024, 12:13 AM_
-Rambling trump, musk interview marred by tech issues" }
-NrgaHsdTiUt@{ shape: win-pane, label: "_Published Aug 11, 2024, 12:20 AM_
-New surveys give kamala harris a lead over trump in 3 key us states" }
-TsaouipTrtsdn@{ shape: win-pane, label: "_Published Sep 13, 2024, 01:25 PM_
-Trump’s campaign rolls out t-shirt copying taylor swift’s eras tour design" }
-Trtrarlrren@{ shape: win-pane, label: "_Published Sep 11, 2024, 11:19 AM_
-Taylor swift endorses ‘warrior’ kamala harris for us president" }
-Tssomsnlip@{ shape: win-pane, label: "_Published Aug 20, 2024, 01:44 AM_
-Trump shares doctored images showing taylor swift support" }
+Siosectfld@{ shape: win-pane, label: "_Published Dec 27, 2025, 10:36 AM_
+Somalia denounces israeli recognition of somaliland" }
+Ilmrutmrnolspnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:49 PM_
+Israel becomes first country to formally recognise somaliland as independent state" }
+WrAao@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:46 PM_
+What are the abraham accords?" }
+Ilemahmaroais@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:27 PM_
+Israel targets hamas leadership in military strikes on qatar, officials say" }
+Hmdulnrecsud@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:15 PM_
+How hamas’ audacious, well-planned surprise attack on israel unfolded" }
+Upneockecdr@{ shape: win-pane, label: "_Published May 17, 2025, 02:21 PM_
+Uae is pouring money into africa, seeking resources and power" }
+TaniliEtrnn@{ shape: win-pane, label: "_Published May 16, 2025, 01:27 AM_
+Trump announces $260b in deals during uae visit, ai agreement signed" }
+Gtuuelrima@{ shape: win-pane, label: "_Published May 17, 2025, 12:38 AM_
+Gulf states use opulence and flattery to win trump’s heart" }
+WrAao@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:46 PM_
+What are the abraham accords?" }
+Ilemahmaroais@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:27 PM_
+Israel targets hamas leadership in military strikes on qatar, officials say" }
+Ilssreana@{ shape: win-pane, label: "_Published Sep 08, 2025, 04:31 PM_
+Israel warns hamas to surrender or face ‘annihilation’" }
+Lnthlareseeis@{ shape: win-pane, label: "_Published Sep 09, 2025, 02:18 AM_
+‘leave now’, netanyahu tells gaza city residents as israel intensifies assault" }
+Hmdulnrecsud@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:15 PM_
+How hamas’ audacious, well-planned surprise attack on israel unfolded" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
 
-Tssglssaa:::txtsize --> UnsenIisrse:::txtsize
-UnsenIisrse:::txtsize --> Fiieoakc:::txtsize
-Fiieoakc:::txtsize --> Niqmkase:::txtsize
-Fiieoakc:::txtsize --> UdnvalsNiemeth:::txtsize
-Tssglssaa:::txtsize --> Bstkoistfrmfl:::txtsize
-Bstkoistfrmfl:::txtsize --> Ssueinel:::txtsize
-Ssueinel:::txtsize --> Riusewees:::txtsize
-Ssueinel:::txtsize --> NrgaHsdTiUt:::txtsize
-Bstkoistfrmfl:::txtsize --> TsaouipTrtsdn:::txtsize
-TsaouipTrtsdn:::txtsize --> Trtrarlrren:::txtsize
-TsaouipTrtsdn:::txtsize --> Tssomsnlip:::txtsize
+Siosectfld:::txtsize --> Ilmrutmrnolspnt:::txtsize
+Ilmrutmrnolspnt:::txtsize --> WrAao:::txtsize
+WrAao:::txtsize --> Ilemahmaroais:::txtsize
+WrAao:::txtsize --> Hmdulnrecsud:::txtsize
+Ilmrutmrnolspnt:::txtsize --> Upneockecdr:::txtsize
+Upneockecdr:::txtsize --> TaniliEtrnn:::txtsize
+Upneockecdr:::txtsize --> Gtuuelrima:::txtsize
+Siosectfld:::txtsize --> WrAao:::txtsize
+WrAao:::txtsize --> Ilemahmaroais:::txtsize
+Ilemahmaroais:::txtsize --> Ilssreana:::txtsize
+Ilemahmaroais:::txtsize --> Lnthlareseeis:::txtsize
+WrAao:::txtsize --> Hmdulnrecsud:::txtsize
+Hmdulnrecsud:::txtsize --> NyeeawHakl:::txtsize
+Hmdulnrecsud:::txtsize --> NyeeawHakl:::txtsize
 
-WYresemhiD@{ shape: win-pane, label: "_Published Dec 27, 2025, 06:19 AM_
-While you were sleeping: 5 stories you might have missed, dec 27, 2025" }
-Olssrenoasot@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:32 PM_
-Over 1,700 flights across us grounded as snowstorm blankets new york city" }
-AsgalnassatYirs@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:36 PM_
-At least 400 flights cancelled, many delayed as snowstorm affects new york city airports" }
-Treeamdshatacsn@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:15 AM_
-Temperatures in seoul fall to minus 11.8 deg c as south korea is hit by season’s coldest morning" }
-Sgszfaraedune@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:10 AM_
-Strong winds, blizzards forecast across japan; weekend disruption feared" }
-Spiegmudcdwdstnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 02:46 PM_
-Singapore airlines flights among hundreds cancelled in new york due to snowstorm in us city" }
-AsgalnassatYirs@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:36 PM_
-At least 400 flights cancelled, many delayed as snowstorm affects new york city airports" }
-AsgalnassatYirs@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:36 PM_
-At least 400 flights cancelled, many delayed as snowstorm affects new york city airports" }
+Drsmnohdrlrgsnla@{ shape: win-pane, label: "_Published Dec 27, 2025, 10:15 AM_
+Driver livestreaming on tiktok is charged after fatally striking pedestrian, us police say" }
+Jorvoehhrgictkdrs@{ shape: win-pane, label: "_Published Aug 29, 2025, 06:50 PM_
+Jail for lorry driver who looked at phone while driving, causing accident that killed law professor" }
+NwekdpoRcn@{ shape: win-pane, label: "_Published Jul 08, 2023, 11:15 PM_
+Nus law professor, 70, killed in upper thomson road accident" }
+Mecnphnldrsoedn@{ shape: win-pane, label: "_Published Jul 07, 2023, 05:05 PM_
+Man dies in accident in upper thomson road; lorry driver arrested for careless driving" }
+Mecnphnldrsoedn@{ shape: win-pane, label: "_Published Jul 07, 2023, 05:05 PM_
+Man dies in accident in upper thomson road; lorry driver arrested for careless driving" }
+NwekdpoRcn@{ shape: win-pane, label: "_Published Jul 08, 2023, 11:15 PM_
+Nus law professor, 70, killed in upper thomson road accident" }
+Mecnphnldrsoedn@{ shape: win-pane, label: "_Published Jul 07, 2023, 05:05 PM_
+Man dies in accident in upper thomson road; lorry driver arrested for careless driving" }
+Mecnphnldrsoedn@{ shape: win-pane, label: "_Published Jul 07, 2023, 05:05 PM_
+Man dies in accident in upper thomson road; lorry driver arrested for careless driving" }
+Speeoaalor@{ shape: win-pane, label: "_Published May 03, 2025, 10:16 AM_
+Seven people killed in road crash near yellowstone park" }
+FniineeirsUeom@{ shape: win-pane, label: "_Published Apr 29, 2025, 09:30 AM_
+Four, including children, killed after vehicle crashes into us after-school camp" }
+Scrndrnaat@{ shape: win-pane, label: "_Published Apr 28, 2025, 11:45 AM_
+Suspect charged in canada car-ramming attack that left 11 dead" }
+kdineoabiof@{ shape: win-pane, label: "_Published Apr 28, 2025, 12:27 PM_
+1 killed, multiple injuries reported after boat hits florida ferry" }
+Tsillfeprswsoe@{ shape: win-pane, label: "_Published Apr 11, 2025, 04:30 AM_
+Tourist family, pilot killed after helicopter crashes in new york’s hudson river" }
+PsitaSoeaalolo@{ shape: win-pane, label: "_Published Apr 11, 2025, 03:20 AM_
+Planes collide on taxiway at us airport where a jan 29 mid-air collision killed 67 people" }
+Uncnstoietstdoi@{ shape: win-pane, label: "_Published Mar 12, 2025, 03:20 AM_
+Us agency recommends restrictions on helicopters after washington mid-air collision" }
 
-WYresemhiD:::txtsize --> Olssrenoasot:::txtsize
-Olssrenoasot:::txtsize --> AsgalnassatYirs:::txtsize
-AsgalnassatYirs:::txtsize --> Treeamdshatacsn:::txtsize
-AsgalnassatYirs:::txtsize --> Sgszfaraedune:::txtsize
-Olssrenoasot:::txtsize --> Spiegmudcdwdstnt:::txtsize
-Spiegmudcdwdstnt:::txtsize --> AsgalnassatYirs:::txtsize
-Spiegmudcdwdstnt:::txtsize --> AsgalnassatYirs:::txtsize
+Drsmnohdrlrgsnla:::txtsize --> Jorvoehhrgictkdrs:::txtsize
+Jorvoehhrgictkdrs:::txtsize --> NwekdpoRcn:::txtsize
+NwekdpoRcn:::txtsize --> Mecnphnldrsoedn:::txtsize
+NwekdpoRcn:::txtsize --> Mecnphnldrsoedn:::txtsize
+Jorvoehhrgictkdrs:::txtsize --> NwekdpoRcn:::txtsize
+NwekdpoRcn:::txtsize --> Mecnphnldrsoedn:::txtsize
+NwekdpoRcn:::txtsize --> Mecnphnldrsoedn:::txtsize
+Drsmnohdrlrgsnla:::txtsize --> Speeoaalor:::txtsize
+Speeoaalor:::txtsize --> FniineeirsUeom:::txtsize
+FniineeirsUeom:::txtsize --> Scrndrnaat:::txtsize
+FniineeirsUeom:::txtsize --> kdineoabiof:::txtsize
+Speeoaalor:::txtsize --> Tsillfeprswsoe:::txtsize
+Tsillfeprswsoe:::txtsize --> PsitaSoeaalolo:::txtsize
+Tsillfeprswsoe:::txtsize --> Uncnstoietstdoi:::txtsize
 
-Zsysilttoutidc@{ shape: win-pane, label: "_Published Dec 27, 2025, 05:29 AM_
-Zelensky says russia using belarus territory to circumvent ukrainian defences" }
-RalceeisamriaSard@{ shape: win-pane, label: "_Published Dec 27, 2025, 03:49 AM_
-Russia likely placing new hypersonic missiles at former airbase in belarus, us researchers find" }
-PdrsiaetpaaesBu@{ shape: win-pane, label: "_Published Dec 25, 2025, 06:59 PM_
-Poland intercepts russian plane over baltic, reports airspace breaches from belarus" }
-Rasrnicatoo@{ shape: win-pane, label: "_Published Sep 19, 2025, 11:15 PM_
-Russian jets enter estonia’s airspace in latest test for nato" }
-Usrrobooiin@{ shape: win-pane, label: "_Published Dec 14, 2025, 01:44 AM_
-Us says belarus agreed to stop balloon flyovers into lithuania" }
-Zsmrnnidscmk@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:08 PM_
-Zelensky to meet trump on dec 28 in florida to discuss peace framework" }
-Unlydprstowren@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:43 PM_
-Ukraine’s zelensky says draft plan freezes front line, opens way for concessions" }
-PiaucbnrrprkeRt@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:59 PM_
-Putin indicated russia could be open to territory swop as part of ukraine deal: report" }
-RaUnkoelUcn@{ shape: win-pane, label: "_Published Dec 27, 2025, 02:34 AM_
-Russia says ukraine seeking to ‘torpedo’ talks on us peace plan" }
-Zsmrnnidscmk@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:08 PM_
-Zelensky to meet trump on dec 28 in florida to discuss peace framework" }
-Unlydprstowren@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:43 PM_
-Ukraine’s zelensky says draft plan freezes front line, opens way for concessions" }
-PiaucbnrrprkeRt@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:59 PM_
-Putin indicated russia could be open to territory swop as part of ukraine deal: report" }
-Unlydprstowren@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:43 PM_
-Ukraine’s zelensky says draft plan freezes front line, opens way for concessions" }
-ToiegRaipuoorpp@{ shape: win-pane, label: "_Published Nov 23, 2025, 12:09 AM_
-Trump officials’ meeting with russian in miami spurs questions about ukraine peace plan" }
-EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
-Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
+Hrffseharoan@{ shape: win-pane, label: "_Published Dec 27, 2025, 09:06 AM_
+Heavy rains, flash floods leave southern california homes caked in mud" }
+Hrllhln@{ shape: win-pane, label: "_Published Dec 26, 2025, 06:45 AM_
+Heavy rain, flash floods hit california" }
+Apcrcoerreao@{ shape: win-pane, label: "_Published Dec 25, 2025, 07:29 AM_
+Atmospheric river drenches los angeles, triggers widespread flooding" }
+MCosbsysvt@{ shape: win-pane, label: "_Published Dec 24, 2025, 01:23 PM_
+Major california storm brings heavy rain, snow, evacuations" }
+Esnmsurofa@{ shape: win-pane, label: "_Published Oct 14, 2025, 11:10 AM_
+Early season storm sends a deluge of rain to california" }
+MCosbsysvt@{ shape: win-pane, label: "_Published Dec 24, 2025, 01:23 PM_
+Major california storm brings heavy rain, snow, evacuations" }
+Dtrslrsashewii@{ shape: win-pane, label: "_Published Jan 13, 2025, 08:05 PM_
+Death toll from los angeles fires rises to at least 24, with dangerous winds incoming" }
+TnruseaoeascNw@{ shape: win-pane, label: "_Published Dec 12, 2025, 09:53 AM_
+Torrential rains unleash widespread flooding, evacuations in pacific northwest" }
+Apcrcoerreao@{ shape: win-pane, label: "_Published Dec 25, 2025, 07:29 AM_
+Atmospheric river drenches los angeles, triggers widespread flooding" }
+MCosbsysvt@{ shape: win-pane, label: "_Published Dec 24, 2025, 01:23 PM_
+Major california storm brings heavy rain, snow, evacuations" }
+Dtrslrsashewii@{ shape: win-pane, label: "_Published Jan 13, 2025, 08:05 PM_
+Death toll from los angeles fires rises to at least 24, with dangerous winds incoming" }
+TnruseaoeascNw@{ shape: win-pane, label: "_Published Dec 12, 2025, 09:53 AM_
+Torrential rains unleash widespread flooding, evacuations in pacific northwest" }
+Esnmsurofa@{ shape: win-pane, label: "_Published Oct 14, 2025, 11:10 AM_
+Early season storm sends a deluge of rain to california" }
+Cowirvtiaet@{ shape: win-pane, label: "_Published Aug 22, 2025, 10:31 AM_
+California wildfire forces evacuations in rural wine country" }
 
-Zsysilttoutidc:::txtsize --> RalceeisamriaSard:::txtsize
-RalceeisamriaSard:::txtsize --> PdrsiaetpaaesBu:::txtsize
-PdrsiaetpaaesBu:::txtsize --> Rasrnicatoo:::txtsize
-PdrsiaetpaaesBu:::txtsize --> Usrrobooiin:::txtsize
-RalceeisamriaSard:::txtsize --> Zsmrnnidscmk:::txtsize
-Zsmrnnidscmk:::txtsize --> Unlydprstowren:::txtsize
-Zsmrnnidscmk:::txtsize --> PiaucbnrrprkeRt:::txtsize
-Zsysilttoutidc:::txtsize --> RaUnkoelUcn:::txtsize
-RaUnkoelUcn:::txtsize --> Zsmrnnidscmk:::txtsize
-Zsmrnnidscmk:::txtsize --> Unlydprstowren:::txtsize
-Zsmrnnidscmk:::txtsize --> PiaucbnrrprkeRt:::txtsize
-RaUnkoelUcn:::txtsize --> Unlydprstowren:::txtsize
-Unlydprstowren:::txtsize --> ToiegRaipuoorpp:::txtsize
-Unlydprstowren:::txtsize --> EihaDsitnnannsake:::txtsize
+Hrffseharoan:::txtsize --> Hrllhln:::txtsize
+Hrllhln:::txtsize --> Apcrcoerreao:::txtsize
+Apcrcoerreao:::txtsize --> MCosbsysvt:::txtsize
+Apcrcoerreao:::txtsize --> Esnmsurofa:::txtsize
+Hrllhln:::txtsize --> MCosbsysvt:::txtsize
+MCosbsysvt:::txtsize --> Dtrslrsashewii:::txtsize
+MCosbsysvt:::txtsize --> TnruseaoeascNw:::txtsize
+Hrffseharoan:::txtsize --> Apcrcoerreao:::txtsize
+Apcrcoerreao:::txtsize --> MCosbsysvt:::txtsize
+MCosbsysvt:::txtsize --> Dtrslrsashewii:::txtsize
+MCosbsysvt:::txtsize --> TnruseaoeascNw:::txtsize
+Apcrcoerreao:::txtsize --> Esnmsurofa:::txtsize
+Esnmsurofa:::txtsize --> Cowirvtiaet:::txtsize
 
 ```
-<i>Last updated: 2025-12-27 08:00:30.503295 (GMT+8)</i>
+<i>Last updated: 2025-12-27 12:00:57.096044 (GMT+8)</i>
 <!-- END -->
