@@ -16,126 +16,132 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-WudakinNi@{ shape: win-pane, label: "_Published Dec 27, 2025, 01:20 PM_
-Why trump ordered a strike on militants in nigeria" }
-TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
-Trump threatens military action in nigeria over ‘killing of christians’" }
-UDehewmeinegas@{ shape: win-pane, label: "_Published Nov 01, 2025, 09:00 AM_
-Us v-p j.d. vance says he hopes his wife embraces christianity, setting off backlash" }
-UanyrAcm@{ shape: win-pane, label: "_Published Mar 28, 2025, 01:30 PM_
-Usha vance in the eye of trump’s arctic storm" }
-TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
-Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
-UnsenIisrse@{ shape: win-pane, label: "_Published Dec 26, 2025, 08:34 AM_
-Us launches strike against isis militants in north-west nigeria" }
-Fiieoakc@{ shape: win-pane, label: "_Published Dec 25, 2025, 11:49 PM_
-Five killed in nigeria mosque attack, police say" }
-Niqmkase@{ shape: win-pane, label: "_Published Dec 25, 2025, 02:33 AM_
-Nigeria mosque bombing kills at least seven" }
-UdnvalsNiemeth@{ shape: win-pane, label: "_Published Dec 23, 2025, 01:23 AM_
-Us conducting surveillance flights over nigeria after trump intervention threat" }
+Iatufilsa@{ shape: win-pane, label: "_Published Dec 27, 2025, 06:33 PM_
+Italy arrests 7 accused of raising millions for hamas" }
+InnzcblilUis@{ shape: win-pane, label: "_Published Dec 12, 2025, 11:13 PM_
+International gaza force may be deployed in early 2026, say us officials" }
+IlHwerfrrepr@{ shape: win-pane, label: "_Published Dec 11, 2025, 08:00 PM_
+Israel says hamas ‘will be disarmed’ after group proposes weapons freeze" }
+Cfonaoteervta@{ shape: win-pane, label: "_Published Oct 12, 2025, 05:44 PM_
+Ceasefire holds in gaza ahead of hostage release and trump’s visit to israel" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Tsesmadae@{ shape: win-pane, label: "_Published Dec 11, 2025, 10:37 AM_
+Trump says he plans to name gaza board of peace in early 2026" }
+Wouaaam@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:50 PM_
+What does trump’s gaza peace plan promise?" }
+UuCipruomzcn@{ shape: win-pane, label: "_Published Nov 18, 2025, 06:27 AM_
+Un security council adopts us resolution on trump’s gaza peace plan" }
+HqlssrGswli@{ shape: win-pane, label: "_Published Nov 14, 2025, 04:01 PM_
+Hamas quietly reasserts control in gaza as post-war talks grind on" }
+Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
+Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Pgoihfcfge@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:53 AM_
+Pm wong welcomes first phase of gaza ceasefire agreement" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
 
-WudakinNi:::txtsize --> TttiriNiriCt:::txtsize
-TttiriNiriCt:::txtsize --> UDehewmeinegas:::txtsize
-UDehewmeinegas:::txtsize --> UanyrAcm:::txtsize
-UDehewmeinegas:::txtsize --> TahesegnipdoUstt:::txtsize
-WudakinNi:::txtsize --> UnsenIisrse:::txtsize
-UnsenIisrse:::txtsize --> Fiieoakc:::txtsize
-Fiieoakc:::txtsize --> Niqmkase:::txtsize
-Fiieoakc:::txtsize --> UdnvalsNiemeth:::txtsize
+Iatufilsa:::txtsize --> InnzcblilUis:::txtsize
+InnzcblilUis:::txtsize --> IlHwerfrrepr:::txtsize
+IlHwerfrrepr:::txtsize --> Cfonaoteervta:::txtsize
+IlHwerfrrepr:::txtsize --> AtHfezerydatoGel:::txtsize
+InnzcblilUis:::txtsize --> Tsesmadae:::txtsize
+Tsesmadae:::txtsize --> Wouaaam:::txtsize
+Tsesmadae:::txtsize --> UuCipruomzcn:::txtsize
+Iatufilsa:::txtsize --> HqlssrGswli:::txtsize
+HqlssrGswli:::txtsize --> Iliaeseoewa:::txtsize
+Iliaeseoewa:::txtsize --> TssHaossaaorslaoe:::txtsize
+Iliaeseoewa:::txtsize --> Pgoihfcfge:::txtsize
+HqlssrGswli:::txtsize --> Sbsrcdnacaale:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
+Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
 
-Sipnlohhota@{ shape: win-pane, label: "_Published Dec 27, 2025, 01:05 PM_
-Snow piles up as winter blast moves through new york city area" }
-Spiegmudcdwdstnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 02:46 PM_
-Singapore airlines flights among hundreds cancelled in new york due to snowstorm in us city" }
-AsgalnassatYirs@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:36 PM_
-At least 400 flights cancelled, many delayed as snowstorm affects new york city airports" }
-Treeamdshatacsn@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:15 AM_
-Temperatures in seoul fall to minus 11.8 deg c as south korea is hit by season’s coldest morning" }
-Sgszfaraedune@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:10 AM_
-Strong winds, blizzards forecast across japan; weekend disruption feared" }
-AsgalnassatYirs@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:36 PM_
-At least 400 flights cancelled, many delayed as snowstorm affects new york city airports" }
-Treeamdshatacsn@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:15 AM_
-Temperatures in seoul fall to minus 11.8 deg c as south korea is hit by season’s coldest morning" }
-Sgszfaraedune@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:10 AM_
-Strong winds, blizzards forecast across japan; weekend disruption feared" }
-Nryirgffe@{ shape: win-pane, label: "_Published Dec 15, 2025, 03:11 AM_
-New york city gets its first big snowfall of the season" }
-UatwrmetpyiU@{ shape: win-pane, label: "_Published Dec 11, 2025, 12:45 PM_
-Unusually strong winter storms expected to drop heavy snow in the us" }
-ActsrrsUuec@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:00 AM_
-Arctic blast grips central, north-eastern us in sub-freezing cold" }
-NrysoleavwutEn@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:22 PM_
-New york city faces risk of airline delays as heavy snow hits upstate, new england" }
-Hsesoatfseun@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:46 PM_
-Heavy snow returns as seoul braces itself for possible disruption" }
-Snswtsltio@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:00 AM_
-Season’s first snowfall throws seoul into traffic chaos" }
-CaiurturoeD@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:45 PM_
-Cold wave grips south korea with seoul’s first snow likely on dec 4" }
+Ahailaddlmsak@{ shape: win-pane, label: "_Published Dec 27, 2025, 06:29 PM_
+Army chief says switzerland cannot defend itself from full-scale attack" }
+Fnsisst@{ shape: win-pane, label: "_Published Dec 22, 2025, 10:59 PM_
+Finland says to raise reservist age to 65" }
+Naaelaaidmsm@{ shape: win-pane, label: "_Published Apr 04, 2023, 06:46 PM_
+Nato gains massive artillery arsenal as finland becomes its 31st member" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+TslniFntbiwkag@{ shape: win-pane, label: "_Published Mar 31, 2023, 05:44 AM_
+Turkish parliament ratifies finland’s nato membership as sweden kept waiting" }
+Fnsugosocih@{ shape: win-pane, label: "_Published Nov 18, 2023, 02:23 AM_
+Finland sees asylum surge before russia border crossings shut" }
+Naeeotgaha@{ shape: win-pane, label: "_Published Dec 19, 2025, 03:01 PM_
+Nato lacks resilience to fight a long war, naval chief warns" }
+Nhaltrser@{ shape: win-pane, label: "_Published Dec 11, 2025, 09:18 PM_
+Nato chief warns allies they are russia’s next target" }
+Eeadsaiuccmoc@{ shape: win-pane, label: "_Published Dec 11, 2025, 01:32 AM_
+European leaders discuss ukraine with trump at ‘critical moment’ for peace" }
+Rastfnlnai@{ shape: win-pane, label: "_Published Sep 26, 2025, 06:33 AM_
+Russia accuses nato, eu of waging ‘real war’ on it via ukraine" }
+BiuwKablke@{ shape: win-pane, label: "_Published Sep 24, 2025, 03:22 AM_
+‘big shift’: trump now says kyiv can win back ‘all of ukraine’" }
+Raiureetntotseni@{ shape: win-pane, label: "_Published Sep 25, 2025, 05:52 PM_
+Russia says it assumes trump, despite shift in tone, is still committed to seek peace in ukraine" }
 
-Sipnlohhota:::txtsize --> Spiegmudcdwdstnt:::txtsize
-Spiegmudcdwdstnt:::txtsize --> AsgalnassatYirs:::txtsize
-AsgalnassatYirs:::txtsize --> Treeamdshatacsn:::txtsize
-AsgalnassatYirs:::txtsize --> Sgszfaraedune:::txtsize
-Spiegmudcdwdstnt:::txtsize --> AsgalnassatYirs:::txtsize
-AsgalnassatYirs:::txtsize --> Treeamdshatacsn:::txtsize
-AsgalnassatYirs:::txtsize --> Sgszfaraedune:::txtsize
-Sipnlohhota:::txtsize --> Nryirgffe:::txtsize
-Nryirgffe:::txtsize --> UatwrmetpyiU:::txtsize
-UatwrmetpyiU:::txtsize --> ActsrrsUuec:::txtsize
-UatwrmetpyiU:::txtsize --> NrysoleavwutEn:::txtsize
-Nryirgffe:::txtsize --> Hsesoatfseun:::txtsize
-Hsesoatfseun:::txtsize --> Snswtsltio:::txtsize
-Hsesoatfseun:::txtsize --> CaiurturoeD:::txtsize
+Ahailaddlmsak:::txtsize --> Fnsisst:::txtsize
+Fnsisst:::txtsize --> Naaelaaidmsm:::txtsize
+Naaelaaidmsm:::txtsize --> DsruasvUn:::txtsize
+Naaelaaidmsm:::txtsize --> TslniFntbiwkag:::txtsize
+Fnsisst:::txtsize --> Fnsugosocih:::txtsize
+Ahailaddlmsak:::txtsize --> Naeeotgaha:::txtsize
+Naeeotgaha:::txtsize --> Nhaltrser:::txtsize
+Nhaltrser:::txtsize --> Eeadsaiuccmoc:::txtsize
+Naeeotgaha:::txtsize --> Rastfnlnai:::txtsize
+Rastfnlnai:::txtsize --> BiuwKablke:::txtsize
+Rastfnlnai:::txtsize --> Raiureetntotseni:::txtsize
 
-Bictiacleermdde@{ shape: win-pane, label: "_Published Dec 27, 2025, 12:00 PM_
-Building back better? sri lankans face challenges in recovery from floods, landslides" }
-Snsrairsalps@{ shape: win-pane, label: "_Published Dec 05, 2025, 09:45 PM_
-Sri lanka issues fresh landslide warnings as death toll surpasses 600" }
-Snastaadyoalns@{ shape: win-pane, label: "_Published Dec 02, 2025, 05:24 PM_
-Sri lanka grapples with trauma, loss after deadly cyclone that killed hundreds" }
-Dtnaiorot@{ shape: win-pane, label: "_Published Nov 29, 2025, 01:45 PM_
-Death toll in sri lanka rises to 153 after cyclone ditwah" }
-Roisorreop@{ shape: win-pane, label: "_Published Dec 02, 2025, 02:09 PM_
-Race to get aid to asia flood survivors as death toll tops 1,300" }
-Dyoniakia@{ shape: win-pane, label: "_Published Dec 05, 2025, 03:55 PM_
-Deadly cyclone dents sri lanka’s peak tourism season" }
-Sncsvftourfr@{ shape: win-pane, label: "_Published Dec 05, 2025, 01:46 AM_
-Sri lanka cyclone survivors afraid to go home, stuck in relief centres" }
-DtgssSnliugd@{ shape: win-pane, label: "_Published Dec 04, 2025, 10:55 PM_
-Devastating landslides turn sri lanka village into burial ground" }
-Snsrairsalps@{ shape: win-pane, label: "_Published Dec 05, 2025, 09:45 PM_
-Sri lanka issues fresh landslide warnings as death toll surpasses 600" }
-Snastaadyoalns@{ shape: win-pane, label: "_Published Dec 02, 2025, 05:24 PM_
-Sri lanka grapples with trauma, loss after deadly cyclone that killed hundreds" }
-Dtnaiorot@{ shape: win-pane, label: "_Published Nov 29, 2025, 01:45 PM_
-Death toll in sri lanka rises to 153 after cyclone ditwah" }
-Roisorreop@{ shape: win-pane, label: "_Published Dec 02, 2025, 02:09 PM_
-Race to get aid to asia flood survivors as death toll tops 1,300" }
-Dyoniakia@{ shape: win-pane, label: "_Published Dec 05, 2025, 03:55 PM_
-Deadly cyclone dents sri lanka’s peak tourism season" }
-Sncsvftourfr@{ shape: win-pane, label: "_Published Dec 05, 2025, 01:46 AM_
-Sri lanka cyclone survivors afraid to go home, stuck in relief centres" }
-DtgssSnliugd@{ shape: win-pane, label: "_Published Dec 04, 2025, 10:55 PM_
-Devastating landslides turn sri lanka village into burial ground" }
+EiheaUnneozurrt@{ shape: win-pane, label: "_Published Dec 27, 2025, 05:44 PM_
+Explainer: what lies ahead for ukraine’s contested zaporizhzhia nuclear power plant?" }
+HRaewcuatt@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:05 AM_
+How us-russia peace plan would carve up ukraine’s territory" }
+UKisrlerr@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:43 PM_
+Us and kyiv discuss reworked plan to end war in ukraine" }
+Ulnaewniaark@{ shape: win-pane, label: "_Published Nov 24, 2025, 08:40 AM_
+Us hails ‘significant step forward’ in ukraine ‘peace framework’ talks" }
+Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
+Trump’s 28-point ukraine plan" }
+Unlystsippposehp@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:42 AM_
+Ukraine’s zelensky says sensitive issues in proposed peace plan to be discussed with trump" }
+UKisrlerr@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:43 PM_
+Us and kyiv discuss reworked plan to end war in ukraine" }
+Rakreyknelgh@{ shape: win-pane, label: "_Published Oct 30, 2025, 09:46 PM_
+Russia strikes ukraine energy grid, killing seven, including one child" }
+UnsPvfssstss@{ shape: win-pane, label: "_Published Oct 30, 2025, 09:31 PM_
+Ukraine bolsters pokrovsk defences as russia escalates assaults" }
+Rakreyknelgh@{ shape: win-pane, label: "_Published Oct 30, 2025, 09:46 PM_
+Russia strikes ukraine energy grid, killing seven, including one child" }
+TsSareoaa@{ shape: win-pane, label: "_Published Oct 30, 2025, 01:19 PM_
+Trump says us, china to ‘work together’ on ukraine war" }
+TsSareoaa@{ shape: win-pane, label: "_Published Oct 30, 2025, 01:19 PM_
+Trump says us, china to ‘work together’ on ukraine war" }
+Unloehmsewne@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:01 AM_
+Us, china seal deal on rare earths; trump says xi meeting was a 12 on scale of 1 to 10" }
+Tsuheeiress@{ shape: win-pane, label: "_Published Oct 27, 2025, 04:55 PM_
+Trump says putin should end the ukraine war, not test missiles" }
 
-Bictiacleermdde:::txtsize --> Snsrairsalps:::txtsize
-Snsrairsalps:::txtsize --> Snastaadyoalns:::txtsize
-Snastaadyoalns:::txtsize --> Dtnaiorot:::txtsize
-Snastaadyoalns:::txtsize --> Roisorreop:::txtsize
-Snsrairsalps:::txtsize --> Dyoniakia:::txtsize
-Dyoniakia:::txtsize --> Sncsvftourfr:::txtsize
-Dyoniakia:::txtsize --> DtgssSnliugd:::txtsize
-Bictiacleermdde:::txtsize --> Snsrairsalps:::txtsize
-Snsrairsalps:::txtsize --> Snastaadyoalns:::txtsize
-Snastaadyoalns:::txtsize --> Dtnaiorot:::txtsize
-Snastaadyoalns:::txtsize --> Roisorreop:::txtsize
-Snsrairsalps:::txtsize --> Dyoniakia:::txtsize
-Dyoniakia:::txtsize --> Sncsvftourfr:::txtsize
-Dyoniakia:::txtsize --> DtgssSnliugd:::txtsize
+EiheaUnneozurrt:::txtsize --> HRaewcuatt:::txtsize
+HRaewcuatt:::txtsize --> UKisrlerr:::txtsize
+UKisrlerr:::txtsize --> Ulnaewniaark:::txtsize
+UKisrlerr:::txtsize --> Tstia:::txtsize
+HRaewcuatt:::txtsize --> Unlystsippposehp:::txtsize
+Unlystsippposehp:::txtsize --> UKisrlerr:::txtsize
+EiheaUnneozurrt:::txtsize --> Rakreyknelgh:::txtsize
+Rakreyknelgh:::txtsize --> UnsPvfssstss:::txtsize
+UnsPvfssstss:::txtsize --> Rakreyknelgh:::txtsize
+UnsPvfssstss:::txtsize --> TsSareoaa:::txtsize
+Rakreyknelgh:::txtsize --> TsSareoaa:::txtsize
+TsSareoaa:::txtsize --> Unloehmsewne:::txtsize
+TsSareoaa:::txtsize --> Tsuheeiress:::txtsize
 
 ```
-<i>Last updated: 2025-12-27 16:00:22.195923 (GMT+8)</i>
+<i>Last updated: 2025-12-27 20:00:49.878626 (GMT+8)</i>
 <!-- END -->
