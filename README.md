@@ -16,141 +16,126 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Siosectfld@{ shape: win-pane, label: "_Published Dec 27, 2025, 10:36 AM_
-Somalia denounces israeli recognition of somaliland" }
-Ilmrutmrnolspnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:49 PM_
-Israel becomes first country to formally recognise somaliland as independent state" }
-WrAao@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:46 PM_
-What are the abraham accords?" }
-Ilemahmaroais@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:27 PM_
-Israel targets hamas leadership in military strikes on qatar, officials say" }
-Hmdulnrecsud@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:15 PM_
-How hamas’ audacious, well-planned surprise attack on israel unfolded" }
-Upneockecdr@{ shape: win-pane, label: "_Published May 17, 2025, 02:21 PM_
-Uae is pouring money into africa, seeking resources and power" }
-TaniliEtrnn@{ shape: win-pane, label: "_Published May 16, 2025, 01:27 AM_
-Trump announces $260b in deals during uae visit, ai agreement signed" }
-Gtuuelrima@{ shape: win-pane, label: "_Published May 17, 2025, 12:38 AM_
-Gulf states use opulence and flattery to win trump’s heart" }
-WrAao@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:46 PM_
-What are the abraham accords?" }
-Ilemahmaroais@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:27 PM_
-Israel targets hamas leadership in military strikes on qatar, officials say" }
-Ilssreana@{ shape: win-pane, label: "_Published Sep 08, 2025, 04:31 PM_
-Israel warns hamas to surrender or face ‘annihilation’" }
-Lnthlareseeis@{ shape: win-pane, label: "_Published Sep 09, 2025, 02:18 AM_
-‘leave now’, netanyahu tells gaza city residents as israel intensifies assault" }
-Hmdulnrecsud@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:15 PM_
-How hamas’ audacious, well-planned surprise attack on israel unfolded" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
+WudakinNi@{ shape: win-pane, label: "_Published Dec 27, 2025, 01:20 PM_
+Why trump ordered a strike on militants in nigeria" }
+TttiriNiriCt@{ shape: win-pane, label: "_Published Nov 02, 2025, 05:56 AM_
+Trump threatens military action in nigeria over ‘killing of christians’" }
+UDehewmeinegas@{ shape: win-pane, label: "_Published Nov 01, 2025, 09:00 AM_
+Us v-p j.d. vance says he hopes his wife embraces christianity, setting off backlash" }
+UanyrAcm@{ shape: win-pane, label: "_Published Mar 28, 2025, 01:30 PM_
+Usha vance in the eye of trump’s arctic storm" }
+TahesegnipdoUstt@{ shape: win-pane, label: "_Published Sep 11, 2025, 03:07 AM_
+Trump ally charlie kirk shot dead; right-wing activist played key role in us president’s 2024 victory" }
+UnsenIisrse@{ shape: win-pane, label: "_Published Dec 26, 2025, 08:34 AM_
+Us launches strike against isis militants in north-west nigeria" }
+Fiieoakc@{ shape: win-pane, label: "_Published Dec 25, 2025, 11:49 PM_
+Five killed in nigeria mosque attack, police say" }
+Niqmkase@{ shape: win-pane, label: "_Published Dec 25, 2025, 02:33 AM_
+Nigeria mosque bombing kills at least seven" }
+UdnvalsNiemeth@{ shape: win-pane, label: "_Published Dec 23, 2025, 01:23 AM_
+Us conducting surveillance flights over nigeria after trump intervention threat" }
 
-Siosectfld:::txtsize --> Ilmrutmrnolspnt:::txtsize
-Ilmrutmrnolspnt:::txtsize --> WrAao:::txtsize
-WrAao:::txtsize --> Ilemahmaroais:::txtsize
-WrAao:::txtsize --> Hmdulnrecsud:::txtsize
-Ilmrutmrnolspnt:::txtsize --> Upneockecdr:::txtsize
-Upneockecdr:::txtsize --> TaniliEtrnn:::txtsize
-Upneockecdr:::txtsize --> Gtuuelrima:::txtsize
-Siosectfld:::txtsize --> WrAao:::txtsize
-WrAao:::txtsize --> Ilemahmaroais:::txtsize
-Ilemahmaroais:::txtsize --> Ilssreana:::txtsize
-Ilemahmaroais:::txtsize --> Lnthlareseeis:::txtsize
-WrAao:::txtsize --> Hmdulnrecsud:::txtsize
-Hmdulnrecsud:::txtsize --> NyeeawHakl:::txtsize
-Hmdulnrecsud:::txtsize --> NyeeawHakl:::txtsize
+WudakinNi:::txtsize --> TttiriNiriCt:::txtsize
+TttiriNiriCt:::txtsize --> UDehewmeinegas:::txtsize
+UDehewmeinegas:::txtsize --> UanyrAcm:::txtsize
+UDehewmeinegas:::txtsize --> TahesegnipdoUstt:::txtsize
+WudakinNi:::txtsize --> UnsenIisrse:::txtsize
+UnsenIisrse:::txtsize --> Fiieoakc:::txtsize
+Fiieoakc:::txtsize --> Niqmkase:::txtsize
+Fiieoakc:::txtsize --> UdnvalsNiemeth:::txtsize
 
-Drsmnohdrlrgsnla@{ shape: win-pane, label: "_Published Dec 27, 2025, 10:15 AM_
-Driver livestreaming on tiktok is charged after fatally striking pedestrian, us police say" }
-Jorvoehhrgictkdrs@{ shape: win-pane, label: "_Published Aug 29, 2025, 06:50 PM_
-Jail for lorry driver who looked at phone while driving, causing accident that killed law professor" }
-NwekdpoRcn@{ shape: win-pane, label: "_Published Jul 08, 2023, 11:15 PM_
-Nus law professor, 70, killed in upper thomson road accident" }
-Mecnphnldrsoedn@{ shape: win-pane, label: "_Published Jul 07, 2023, 05:05 PM_
-Man dies in accident in upper thomson road; lorry driver arrested for careless driving" }
-Mecnphnldrsoedn@{ shape: win-pane, label: "_Published Jul 07, 2023, 05:05 PM_
-Man dies in accident in upper thomson road; lorry driver arrested for careless driving" }
-NwekdpoRcn@{ shape: win-pane, label: "_Published Jul 08, 2023, 11:15 PM_
-Nus law professor, 70, killed in upper thomson road accident" }
-Mecnphnldrsoedn@{ shape: win-pane, label: "_Published Jul 07, 2023, 05:05 PM_
-Man dies in accident in upper thomson road; lorry driver arrested for careless driving" }
-Mecnphnldrsoedn@{ shape: win-pane, label: "_Published Jul 07, 2023, 05:05 PM_
-Man dies in accident in upper thomson road; lorry driver arrested for careless driving" }
-Speeoaalor@{ shape: win-pane, label: "_Published May 03, 2025, 10:16 AM_
-Seven people killed in road crash near yellowstone park" }
-FniineeirsUeom@{ shape: win-pane, label: "_Published Apr 29, 2025, 09:30 AM_
-Four, including children, killed after vehicle crashes into us after-school camp" }
-Scrndrnaat@{ shape: win-pane, label: "_Published Apr 28, 2025, 11:45 AM_
-Suspect charged in canada car-ramming attack that left 11 dead" }
-kdineoabiof@{ shape: win-pane, label: "_Published Apr 28, 2025, 12:27 PM_
-1 killed, multiple injuries reported after boat hits florida ferry" }
-Tsillfeprswsoe@{ shape: win-pane, label: "_Published Apr 11, 2025, 04:30 AM_
-Tourist family, pilot killed after helicopter crashes in new york’s hudson river" }
-PsitaSoeaalolo@{ shape: win-pane, label: "_Published Apr 11, 2025, 03:20 AM_
-Planes collide on taxiway at us airport where a jan 29 mid-air collision killed 67 people" }
-Uncnstoietstdoi@{ shape: win-pane, label: "_Published Mar 12, 2025, 03:20 AM_
-Us agency recommends restrictions on helicopters after washington mid-air collision" }
+Sipnlohhota@{ shape: win-pane, label: "_Published Dec 27, 2025, 01:05 PM_
+Snow piles up as winter blast moves through new york city area" }
+Spiegmudcdwdstnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 02:46 PM_
+Singapore airlines flights among hundreds cancelled in new york due to snowstorm in us city" }
+AsgalnassatYirs@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:36 PM_
+At least 400 flights cancelled, many delayed as snowstorm affects new york city airports" }
+Treeamdshatacsn@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:15 AM_
+Temperatures in seoul fall to minus 11.8 deg c as south korea is hit by season’s coldest morning" }
+Sgszfaraedune@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:10 AM_
+Strong winds, blizzards forecast across japan; weekend disruption feared" }
+AsgalnassatYirs@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:36 PM_
+At least 400 flights cancelled, many delayed as snowstorm affects new york city airports" }
+Treeamdshatacsn@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:15 AM_
+Temperatures in seoul fall to minus 11.8 deg c as south korea is hit by season’s coldest morning" }
+Sgszfaraedune@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:10 AM_
+Strong winds, blizzards forecast across japan; weekend disruption feared" }
+Nryirgffe@{ shape: win-pane, label: "_Published Dec 15, 2025, 03:11 AM_
+New york city gets its first big snowfall of the season" }
+UatwrmetpyiU@{ shape: win-pane, label: "_Published Dec 11, 2025, 12:45 PM_
+Unusually strong winter storms expected to drop heavy snow in the us" }
+ActsrrsUuec@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:00 AM_
+Arctic blast grips central, north-eastern us in sub-freezing cold" }
+NrysoleavwutEn@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:22 PM_
+New york city faces risk of airline delays as heavy snow hits upstate, new england" }
+Hsesoatfseun@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:46 PM_
+Heavy snow returns as seoul braces itself for possible disruption" }
+Snswtsltio@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:00 AM_
+Season’s first snowfall throws seoul into traffic chaos" }
+CaiurturoeD@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:45 PM_
+Cold wave grips south korea with seoul’s first snow likely on dec 4" }
 
-Drsmnohdrlrgsnla:::txtsize --> Jorvoehhrgictkdrs:::txtsize
-Jorvoehhrgictkdrs:::txtsize --> NwekdpoRcn:::txtsize
-NwekdpoRcn:::txtsize --> Mecnphnldrsoedn:::txtsize
-NwekdpoRcn:::txtsize --> Mecnphnldrsoedn:::txtsize
-Jorvoehhrgictkdrs:::txtsize --> NwekdpoRcn:::txtsize
-NwekdpoRcn:::txtsize --> Mecnphnldrsoedn:::txtsize
-NwekdpoRcn:::txtsize --> Mecnphnldrsoedn:::txtsize
-Drsmnohdrlrgsnla:::txtsize --> Speeoaalor:::txtsize
-Speeoaalor:::txtsize --> FniineeirsUeom:::txtsize
-FniineeirsUeom:::txtsize --> Scrndrnaat:::txtsize
-FniineeirsUeom:::txtsize --> kdineoabiof:::txtsize
-Speeoaalor:::txtsize --> Tsillfeprswsoe:::txtsize
-Tsillfeprswsoe:::txtsize --> PsitaSoeaalolo:::txtsize
-Tsillfeprswsoe:::txtsize --> Uncnstoietstdoi:::txtsize
+Sipnlohhota:::txtsize --> Spiegmudcdwdstnt:::txtsize
+Spiegmudcdwdstnt:::txtsize --> AsgalnassatYirs:::txtsize
+AsgalnassatYirs:::txtsize --> Treeamdshatacsn:::txtsize
+AsgalnassatYirs:::txtsize --> Sgszfaraedune:::txtsize
+Spiegmudcdwdstnt:::txtsize --> AsgalnassatYirs:::txtsize
+AsgalnassatYirs:::txtsize --> Treeamdshatacsn:::txtsize
+AsgalnassatYirs:::txtsize --> Sgszfaraedune:::txtsize
+Sipnlohhota:::txtsize --> Nryirgffe:::txtsize
+Nryirgffe:::txtsize --> UatwrmetpyiU:::txtsize
+UatwrmetpyiU:::txtsize --> ActsrrsUuec:::txtsize
+UatwrmetpyiU:::txtsize --> NrysoleavwutEn:::txtsize
+Nryirgffe:::txtsize --> Hsesoatfseun:::txtsize
+Hsesoatfseun:::txtsize --> Snswtsltio:::txtsize
+Hsesoatfseun:::txtsize --> CaiurturoeD:::txtsize
 
-Hrffseharoan@{ shape: win-pane, label: "_Published Dec 27, 2025, 09:06 AM_
-Heavy rains, flash floods leave southern california homes caked in mud" }
-Hrllhln@{ shape: win-pane, label: "_Published Dec 26, 2025, 06:45 AM_
-Heavy rain, flash floods hit california" }
-Apcrcoerreao@{ shape: win-pane, label: "_Published Dec 25, 2025, 07:29 AM_
-Atmospheric river drenches los angeles, triggers widespread flooding" }
-MCosbsysvt@{ shape: win-pane, label: "_Published Dec 24, 2025, 01:23 PM_
-Major california storm brings heavy rain, snow, evacuations" }
-Esnmsurofa@{ shape: win-pane, label: "_Published Oct 14, 2025, 11:10 AM_
-Early season storm sends a deluge of rain to california" }
-MCosbsysvt@{ shape: win-pane, label: "_Published Dec 24, 2025, 01:23 PM_
-Major california storm brings heavy rain, snow, evacuations" }
-Dtrslrsashewii@{ shape: win-pane, label: "_Published Jan 13, 2025, 08:05 PM_
-Death toll from los angeles fires rises to at least 24, with dangerous winds incoming" }
-TnruseaoeascNw@{ shape: win-pane, label: "_Published Dec 12, 2025, 09:53 AM_
-Torrential rains unleash widespread flooding, evacuations in pacific northwest" }
-Apcrcoerreao@{ shape: win-pane, label: "_Published Dec 25, 2025, 07:29 AM_
-Atmospheric river drenches los angeles, triggers widespread flooding" }
-MCosbsysvt@{ shape: win-pane, label: "_Published Dec 24, 2025, 01:23 PM_
-Major california storm brings heavy rain, snow, evacuations" }
-Dtrslrsashewii@{ shape: win-pane, label: "_Published Jan 13, 2025, 08:05 PM_
-Death toll from los angeles fires rises to at least 24, with dangerous winds incoming" }
-TnruseaoeascNw@{ shape: win-pane, label: "_Published Dec 12, 2025, 09:53 AM_
-Torrential rains unleash widespread flooding, evacuations in pacific northwest" }
-Esnmsurofa@{ shape: win-pane, label: "_Published Oct 14, 2025, 11:10 AM_
-Early season storm sends a deluge of rain to california" }
-Cowirvtiaet@{ shape: win-pane, label: "_Published Aug 22, 2025, 10:31 AM_
-California wildfire forces evacuations in rural wine country" }
+Bictiacleermdde@{ shape: win-pane, label: "_Published Dec 27, 2025, 12:00 PM_
+Building back better? sri lankans face challenges in recovery from floods, landslides" }
+Snsrairsalps@{ shape: win-pane, label: "_Published Dec 05, 2025, 09:45 PM_
+Sri lanka issues fresh landslide warnings as death toll surpasses 600" }
+Snastaadyoalns@{ shape: win-pane, label: "_Published Dec 02, 2025, 05:24 PM_
+Sri lanka grapples with trauma, loss after deadly cyclone that killed hundreds" }
+Dtnaiorot@{ shape: win-pane, label: "_Published Nov 29, 2025, 01:45 PM_
+Death toll in sri lanka rises to 153 after cyclone ditwah" }
+Roisorreop@{ shape: win-pane, label: "_Published Dec 02, 2025, 02:09 PM_
+Race to get aid to asia flood survivors as death toll tops 1,300" }
+Dyoniakia@{ shape: win-pane, label: "_Published Dec 05, 2025, 03:55 PM_
+Deadly cyclone dents sri lanka’s peak tourism season" }
+Sncsvftourfr@{ shape: win-pane, label: "_Published Dec 05, 2025, 01:46 AM_
+Sri lanka cyclone survivors afraid to go home, stuck in relief centres" }
+DtgssSnliugd@{ shape: win-pane, label: "_Published Dec 04, 2025, 10:55 PM_
+Devastating landslides turn sri lanka village into burial ground" }
+Snsrairsalps@{ shape: win-pane, label: "_Published Dec 05, 2025, 09:45 PM_
+Sri lanka issues fresh landslide warnings as death toll surpasses 600" }
+Snastaadyoalns@{ shape: win-pane, label: "_Published Dec 02, 2025, 05:24 PM_
+Sri lanka grapples with trauma, loss after deadly cyclone that killed hundreds" }
+Dtnaiorot@{ shape: win-pane, label: "_Published Nov 29, 2025, 01:45 PM_
+Death toll in sri lanka rises to 153 after cyclone ditwah" }
+Roisorreop@{ shape: win-pane, label: "_Published Dec 02, 2025, 02:09 PM_
+Race to get aid to asia flood survivors as death toll tops 1,300" }
+Dyoniakia@{ shape: win-pane, label: "_Published Dec 05, 2025, 03:55 PM_
+Deadly cyclone dents sri lanka’s peak tourism season" }
+Sncsvftourfr@{ shape: win-pane, label: "_Published Dec 05, 2025, 01:46 AM_
+Sri lanka cyclone survivors afraid to go home, stuck in relief centres" }
+DtgssSnliugd@{ shape: win-pane, label: "_Published Dec 04, 2025, 10:55 PM_
+Devastating landslides turn sri lanka village into burial ground" }
 
-Hrffseharoan:::txtsize --> Hrllhln:::txtsize
-Hrllhln:::txtsize --> Apcrcoerreao:::txtsize
-Apcrcoerreao:::txtsize --> MCosbsysvt:::txtsize
-Apcrcoerreao:::txtsize --> Esnmsurofa:::txtsize
-Hrllhln:::txtsize --> MCosbsysvt:::txtsize
-MCosbsysvt:::txtsize --> Dtrslrsashewii:::txtsize
-MCosbsysvt:::txtsize --> TnruseaoeascNw:::txtsize
-Hrffseharoan:::txtsize --> Apcrcoerreao:::txtsize
-Apcrcoerreao:::txtsize --> MCosbsysvt:::txtsize
-MCosbsysvt:::txtsize --> Dtrslrsashewii:::txtsize
-MCosbsysvt:::txtsize --> TnruseaoeascNw:::txtsize
-Apcrcoerreao:::txtsize --> Esnmsurofa:::txtsize
-Esnmsurofa:::txtsize --> Cowirvtiaet:::txtsize
+Bictiacleermdde:::txtsize --> Snsrairsalps:::txtsize
+Snsrairsalps:::txtsize --> Snastaadyoalns:::txtsize
+Snastaadyoalns:::txtsize --> Dtnaiorot:::txtsize
+Snastaadyoalns:::txtsize --> Roisorreop:::txtsize
+Snsrairsalps:::txtsize --> Dyoniakia:::txtsize
+Dyoniakia:::txtsize --> Sncsvftourfr:::txtsize
+Dyoniakia:::txtsize --> DtgssSnliugd:::txtsize
+Bictiacleermdde:::txtsize --> Snsrairsalps:::txtsize
+Snsrairsalps:::txtsize --> Snastaadyoalns:::txtsize
+Snastaadyoalns:::txtsize --> Dtnaiorot:::txtsize
+Snastaadyoalns:::txtsize --> Roisorreop:::txtsize
+Snsrairsalps:::txtsize --> Dyoniakia:::txtsize
+Dyoniakia:::txtsize --> Sncsvftourfr:::txtsize
+Dyoniakia:::txtsize --> DtgssSnliugd:::txtsize
 
 ```
-<i>Last updated: 2025-12-27 12:00:57.096044 (GMT+8)</i>
+<i>Last updated: 2025-12-27 16:00:22.195923 (GMT+8)</i>
 <!-- END -->
