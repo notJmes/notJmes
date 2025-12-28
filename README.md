@@ -16,85 +16,54 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Blreisotru@{ shape: win-pane, label: "_Published Dec 28, 2025, 06:45 AM_
-Brazil’s ex-president jair bolsonaro treated for hiccups" }
-BleBnecyisrp@{ shape: win-pane, label: "_Published Sep 12, 2025, 04:02 AM_
-Brazil’s ex-leader bolsonaro sentenced to 27 years in prison for coup plot" }
-Aeoataperi@{ shape: win-pane, label: "_Published Jul 11, 2025, 06:43 AM_
-All eyes on bolsonaro with lula, trump locked in trade fight" }
-Tieinielah@{ shape: win-pane, label: "_Published Jul 10, 2025, 06:02 AM_
-Trump imposes 50% tariffs on brazil after public spat with lula" }
-Blagttopftsoo@{ shape: win-pane, label: "_Published Jul 11, 2025, 06:30 AM_
-Brazil’s lula pledges retaliation to trump tariffs but keeps diplomacy open" }
-Weotozom@{ shape: win-pane, label: "_Published Jan 10, 2023, 10:27 AM_
-What led up to the attack on brazil’s government?" }
-Ezensoclcietpeiet@{ shape: win-pane, label: "_Published Jan 09, 2023, 05:30 AM_
-Ex-brazil president bolsonaro rejects lula’s accusations he incited supporters to invade capital" }
-BleBnecyisrp@{ shape: win-pane, label: "_Published Sep 12, 2025, 04:02 AM_
-Brazil’s ex-leader bolsonaro sentenced to 27 years in prison for coup plot" }
-Aeoataperi@{ shape: win-pane, label: "_Published Jul 11, 2025, 06:43 AM_
-All eyes on bolsonaro with lula, trump locked in trade fight" }
-Tieinielah@{ shape: win-pane, label: "_Published Jul 10, 2025, 06:02 AM_
-Trump imposes 50% tariffs on brazil after public spat with lula" }
-Blagttopftsoo@{ shape: win-pane, label: "_Published Jul 11, 2025, 06:30 AM_
-Brazil’s lula pledges retaliation to trump tariffs but keeps diplomacy open" }
-Weotozom@{ shape: win-pane, label: "_Published Jan 10, 2023, 10:27 AM_
-What led up to the attack on brazil’s government?" }
-Ezensoclcietpeiet@{ shape: win-pane, label: "_Published Jan 09, 2023, 05:30 AM_
-Ex-brazil president bolsonaro rejects lula’s accusations he incited supporters to invade capital" }
+EepoaoiaIlldgo@{ shape: win-pane, label: "_Published Dec 28, 2025, 03:50 PM_
+Eu urges respect for somalia sovereignty after israel somaliland recognition" }
+Ilmrutmrnolspnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:49 PM_
+Israel becomes first country to formally recognise somaliland as independent state" }
+WrAao@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:46 PM_
+What are the abraham accords?" }
+Ilemahmaroais@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:27 PM_
+Israel targets hamas leadership in military strikes on qatar, officials say" }
+Hmdulnrecsud@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:15 PM_
+How hamas’ audacious, well-planned surprise attack on israel unfolded" }
+Upneockecdr@{ shape: win-pane, label: "_Published May 17, 2025, 02:21 PM_
+Uae is pouring money into africa, seeking resources and power" }
+TaniliEtrnn@{ shape: win-pane, label: "_Published May 16, 2025, 01:27 AM_
+Trump announces $260b in deals during uae visit, ai agreement signed" }
+Gtuuelrima@{ shape: win-pane, label: "_Published May 17, 2025, 12:38 AM_
+Gulf states use opulence and flattery to win trump’s heart" }
+Siosectfld@{ shape: win-pane, label: "_Published Dec 27, 2025, 10:36 AM_
+Somalia denounces israeli recognition of somaliland" }
+Ilmrutmrnolspnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:49 PM_
+Israel becomes first country to formally recognise somaliland as independent state" }
+WrAao@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:46 PM_
+What are the abraham accords?" }
+Upneockecdr@{ shape: win-pane, label: "_Published May 17, 2025, 02:21 PM_
+Uae is pouring money into africa, seeking resources and power" }
+WrAao@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:46 PM_
+What are the abraham accords?" }
+Ilemahmaroais@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:27 PM_
+Israel targets hamas leadership in military strikes on qatar, officials say" }
+Hmdulnrecsud@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:15 PM_
+How hamas’ audacious, well-planned surprise attack on israel unfolded" }
 
-Blreisotru:::txtsize --> BleBnecyisrp:::txtsize
-BleBnecyisrp:::txtsize --> Aeoataperi:::txtsize
-Aeoataperi:::txtsize --> Tieinielah:::txtsize
-Aeoataperi:::txtsize --> Blagttopftsoo:::txtsize
-BleBnecyisrp:::txtsize --> Weotozom:::txtsize
-Weotozom:::txtsize --> Ezensoclcietpeiet:::txtsize
-Blreisotru:::txtsize --> BleBnecyisrp:::txtsize
-BleBnecyisrp:::txtsize --> Aeoataperi:::txtsize
-Aeoataperi:::txtsize --> Tieinielah:::txtsize
-Aeoataperi:::txtsize --> Blagttopftsoo:::txtsize
-BleBnecyisrp:::txtsize --> Weotozom:::txtsize
-Weotozom:::txtsize --> Ezensoclcietpeiet:::txtsize
+EepoaoiaIlldgo:::txtsize --> Ilmrutmrnolspnt:::txtsize
+Ilmrutmrnolspnt:::txtsize --> WrAao:::txtsize
+WrAao:::txtsize --> Ilemahmaroais:::txtsize
+WrAao:::txtsize --> Hmdulnrecsud:::txtsize
+Ilmrutmrnolspnt:::txtsize --> Upneockecdr:::txtsize
+Upneockecdr:::txtsize --> TaniliEtrnn:::txtsize
+Upneockecdr:::txtsize --> Gtuuelrima:::txtsize
+EepoaoiaIlldgo:::txtsize --> Siosectfld:::txtsize
+Siosectfld:::txtsize --> Ilmrutmrnolspnt:::txtsize
+Ilmrutmrnolspnt:::txtsize --> WrAao:::txtsize
+Ilmrutmrnolspnt:::txtsize --> Upneockecdr:::txtsize
+Siosectfld:::txtsize --> WrAao:::txtsize
+WrAao:::txtsize --> Ilemahmaroais:::txtsize
+WrAao:::txtsize --> Hmdulnrecsud:::txtsize
 
-WYresemhiD@{ shape: win-pane, label: "_Published Dec 28, 2025, 06:06 AM_
-While you were sleeping: 5 stories you might have missed, dec 28, 2025" }
-Tnlmtu@{ shape: win-pane, label: "_Published Dec 27, 2025, 11:36 PM_
-Taiwan rattled by 7-magnitude quake" }
-Serwayiqneerde@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:18 PM_
-South-eastern taiwan shaken by 6.1-magnitude quake; no immediate reports of damage" }
-Nigtkaaiwnnyasi@{ shape: win-pane, label: "_Published Dec 23, 2025, 03:38 PM_
-Nankai trough earthquake: not all evacuation towers in japan ready for major tsunami" }
-Tnbssogfeo@{ shape: win-pane, label: "_Published Dec 24, 2025, 02:12 PM_
-Taiwan celebrates christmas once again after 25 years. sort of" }
-Vgnyrtecafefl@{ shape: win-pane, label: "_Published Dec 28, 2025, 05:41 AM_
-Voting begins in myanmar’s restricted election after five years of civil war" }
-Matkicloeel@{ shape: win-pane, label: "_Published Dec 23, 2025, 02:25 PM_
-Myanmar junta seeks legitimacy in election widely seen as flawed" }
-Maygwtaoatmnurutt@{ shape: win-pane, label: "_Published Feb 01, 2021, 07:07 AM_
-Myanmar army pledges new elections after one-year state of emergency; suu kyi urges public to protest" }
-Matgenryoi@{ shape: win-pane, label: "_Published Dec 23, 2025, 02:11 PM_
-Myanmar junta stages election after five years of civil war" }
-Cidsmngayrt@{ shape: win-pane, label: "_Published Dec 27, 2025, 11:29 AM_
-Conflict and fear sap campaign energy ahead of myanmar election" }
-Matkicloeel@{ shape: win-pane, label: "_Published Dec 23, 2025, 02:25 PM_
-Myanmar junta seeks legitimacy in election widely seen as flawed" }
-SloyMaene@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:15 AM_
-Stateless rohingya rue myanmar’s election from exile" }
-
-WYresemhiD:::txtsize --> Tnlmtu:::txtsize
-Tnlmtu:::txtsize --> Serwayiqneerde:::txtsize
-Serwayiqneerde:::txtsize --> Nigtkaaiwnnyasi:::txtsize
-Serwayiqneerde:::txtsize --> Tnbssogfeo:::txtsize
-WYresemhiD:::txtsize --> Vgnyrtecafefl:::txtsize
-Vgnyrtecafefl:::txtsize --> Matkicloeel:::txtsize
-Matkicloeel:::txtsize --> Maygwtaoatmnurutt:::txtsize
-Matkicloeel:::txtsize --> Matgenryoi:::txtsize
-Vgnyrtecafefl:::txtsize --> Cidsmngayrt:::txtsize
-Cidsmngayrt:::txtsize --> Matkicloeel:::txtsize
-Cidsmngayrt:::txtsize --> SloyMaene:::txtsize
-
-Zsltirtsimke@{ shape: win-pane, label: "_Published Dec 28, 2025, 05:24 AM_
-Zelensky talks with allies en route to us as russia pummels ukraine" }
+Zsmrnirsrpp@{ shape: win-pane, label: "_Published Dec 28, 2025, 01:05 PM_
+Zelensky to meet trump in florida for talks on ukraine peace plan" }
 RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
 Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
 Zsmrnnidscmk@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:08 PM_
@@ -109,36 +78,67 @@ RaUnkoelUcn@{ shape: win-pane, label: "_Published Dec 27, 2025, 02:34 AM_
 Russia says ukraine seeking to ‘torpedo’ talks on us peace plan" }
 RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
 Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
-Pskehtcc@{ shape: win-pane, label: "_Published Dec 28, 2025, 02:34 AM_
-Putin says ukraine in no hurry to reach peace" }
-RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
-Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
-Zsmrnnidscmk@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:08 PM_
-Zelensky to meet trump on dec 28 in florida to discuss peace framework" }
-Rarnkoaudhntp@{ shape: win-pane, label: "_Published Dec 27, 2025, 05:25 PM_
-Russian barrage on kyiv kills one, leaves hundreds of thousands without power" }
-RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
-Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
-Zsmrnnidscmk@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:08 PM_
-Zelensky to meet trump on dec 28 in florida to discuss peace framework" }
-Rarnkoaudhntp@{ shape: win-pane, label: "_Published Dec 27, 2025, 05:25 PM_
-Russian barrage on kyiv kills one, leaves hundreds of thousands without power" }
+Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
+Trump’s 28-point ukraine plan" }
+Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
+Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
+EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
+Europeans push back at us plan that would force concessions from ukraine" }
+Atdretahfunceni@{ shape: win-pane, label: "_Published Nov 20, 2025, 09:24 PM_
+A relative’s desperate search then fading hope after russian attack in western ukraine" }
+Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
+Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
+EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
+Europeans push back at us plan that would force concessions from ukraine" }
+Atdretahfunceni@{ shape: win-pane, label: "_Published Nov 20, 2025, 09:24 PM_
+A relative’s desperate search then fading hope after russian attack in western ukraine" }
 
-Zsltirtsimke:::txtsize --> RanssdieZsue:::txtsize
+Zsmrnirsrpp:::txtsize --> RanssdieZsue:::txtsize
 RanssdieZsue:::txtsize --> Zsmrnnidscmk:::txtsize
 Zsmrnnidscmk:::txtsize --> Unlydprstowren:::txtsize
 Zsmrnnidscmk:::txtsize --> PiaucbnrrprkeRt:::txtsize
 RanssdieZsue:::txtsize --> Rarnkoaudhntp:::txtsize
 Rarnkoaudhntp:::txtsize --> RaUnkoelUcn:::txtsize
 Rarnkoaudhntp:::txtsize --> RanssdieZsue:::txtsize
-Zsltirtsimke:::txtsize --> Pskehtcc:::txtsize
-Pskehtcc:::txtsize --> RanssdieZsue:::txtsize
-RanssdieZsue:::txtsize --> Zsmrnnidscmk:::txtsize
-RanssdieZsue:::txtsize --> Rarnkoaudhntp:::txtsize
-Pskehtcc:::txtsize --> RanssdieZsue:::txtsize
-RanssdieZsue:::txtsize --> Zsmrnnidscmk:::txtsize
-RanssdieZsue:::txtsize --> Rarnkoaudhntp:::txtsize
+Zsmrnirsrpp:::txtsize --> Tstia:::txtsize
+Tstia:::txtsize --> Zsarskbdaosb:::txtsize
+Zsarskbdaosb:::txtsize --> EeucStooosfke:::txtsize
+Zsarskbdaosb:::txtsize --> Atdretahfunceni:::txtsize
+Tstia:::txtsize --> Zsarskbdaosb:::txtsize
+Zsarskbdaosb:::txtsize --> EeucStooosfke:::txtsize
+Zsarskbdaosb:::txtsize --> Atdretahfunceni:::txtsize
+
+Isrwlcao@{ shape: win-pane, label: "_Published Dec 28, 2025, 12:03 PM_
+Iraqis cover soil with clay to curb sandstorms" }
+Ifstfeasd@{ shape: win-pane, label: "_Published Apr 01, 2023, 01:53 AM_
+Iraq's first sandstorm of the year blankets baghdad" }
+RgdspstasiE@{ shape: win-pane, label: "_Published Jul 06, 2022, 11:00 AM_
+Rising heat drives crippling sandstorms across the middle east" }
+Inctiwtmce@{ shape: win-pane, label: "_Published Aug 12, 2025, 06:36 AM_
+Iraq announces nationwide power outage amid ‘record’ heat" }
+Umeaserdsreei@{ shape: win-pane, label: "_Published Aug 04, 2025, 09:15 PM_
+Uae summer temperatures surge near record highs after hottest-ever spring" }
+wetadfamcia@{ shape: win-pane, label: "_Published Jan 10, 2025, 11:07 AM_
+2024 was the first year above 1.5 deg c of global warming, scientists say" }
+hesea@{ shape: win-pane, label: "_Published Aug 04, 2025, 04:22 PM_
+17 heat records broken in japan" }
+JatitooaangTy@{ shape: win-pane, label: "_Published Aug 07, 2025, 10:31 AM_
+July was earth’s third-hottest on record; it also marked new high for turkey" }
+Tysheitt@{ shape: win-pane, label: "_Published Jul 27, 2025, 05:12 AM_
+Turkey marks 50.5 deg c heat record in south-east" }
+Vulxelnosue@{ shape: win-pane, label: "_Published Mar 25, 2025, 03:38 PM_
+Vicious cycle of extreme heat leading to more fossil fuel use" }
+
+Isrwlcao:::txtsize --> Ifstfeasd:::txtsize
+Ifstfeasd:::txtsize --> RgdspstasiE:::txtsize
+Isrwlcao:::txtsize --> Inctiwtmce:::txtsize
+Inctiwtmce:::txtsize --> Umeaserdsreei:::txtsize
+Umeaserdsreei:::txtsize --> wetadfamcia:::txtsize
+Umeaserdsreei:::txtsize --> hesea:::txtsize
+Inctiwtmce:::txtsize --> JatitooaangTy:::txtsize
+JatitooaangTy:::txtsize --> Tysheitt:::txtsize
+JatitooaangTy:::txtsize --> Vulxelnosue:::txtsize
 
 ```
-<i>Last updated: 2025-12-28 12:00:31.326785 (GMT+8)</i>
+<i>Last updated: 2025-12-28 16:01:00.042773 (GMT+8)</i>
 <!-- END -->
