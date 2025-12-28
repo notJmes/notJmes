@@ -16,126 +16,117 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Snrokhisleevsogor@{ shape: win-pane, label: "_Published Dec 28, 2025, 10:38 PM_
-Syrian security forces kill 2 while dispersing alawite protests over mosque bombing: war monitor" }
-Estisnasst@{ shape: win-pane, label: "_Published Dec 27, 2025, 12:29 AM_
-Explosion at alawite mosque in syria’s homs kills eight" }
-Swrtpmachctep@{ shape: win-pane, label: "_Published Jun 25, 2025, 12:06 AM_
-Shadowy extremist group claims damascus church attack that killed 25 people" }
-Asljicogmsc@{ shape: win-pane, label: "_Published Jun 23, 2025, 01:28 AM_
-At least 20 killed, 52 injured in suicide bombing at damascus church" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
-Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Hmsis@{ shape: win-pane, label: "_Published Dec 08, 2024, 04:00 PM_
-How damascus fell in 11 days" }
+Tsadvkhnrem@{ shape: win-pane, label: "_Published Dec 29, 2025, 02:09 AM_
+Trump says has 'productive' talks with putin before zelensky meet" }
+RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
+Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
+Zsmrnnidscmk@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:08 PM_
+Zelensky to meet trump on dec 28 in florida to discuss peace framework" }
+Unlydprstowren@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:43 PM_
+Ukraine’s zelensky says draft plan freezes front line, opens way for concessions" }
+PiaucbnrrprkeRt@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:59 PM_
+Putin indicated russia could be open to territory swop as part of ukraine deal: report" }
+Rarnkoaudhntp@{ shape: win-pane, label: "_Published Dec 27, 2025, 05:25 PM_
+Russian barrage on kyiv kills one, leaves hundreds of thousands without power" }
+RaUnkoelUcn@{ shape: win-pane, label: "_Published Dec 27, 2025, 02:34 AM_
+Russia says ukraine seeking to ‘torpedo’ talks on us peace plan" }
+RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
+Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
+Psuwcekebcyeaa@{ shape: win-pane, label: "_Published Dec 28, 2025, 02:34 AM_
+Putin says russia will achieve its ukraine aims by force if kyiv doesn’t want peace" }
+RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
+Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
+Zsmrnnidscmk@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:08 PM_
+Zelensky to meet trump on dec 28 in florida to discuss peace framework" }
+Rarnkoaudhntp@{ shape: win-pane, label: "_Published Dec 27, 2025, 05:25 PM_
+Russian barrage on kyiv kills one, leaves hundreds of thousands without power" }
+Zsmrnirsrpp@{ shape: win-pane, label: "_Published Dec 28, 2025, 01:05 PM_
+Zelensky to meet trump in florida for talks on ukraine peace plan" }
+RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
+Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
+Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
+Trump’s 28-point ukraine plan" }
 
-Snrokhisleevsogor:::txtsize --> Estisnasst:::txtsize
-Estisnasst:::txtsize --> Swrtpmachctep:::txtsize
-Swrtpmachctep:::txtsize --> Asljicogmsc:::txtsize
-Swrtpmachctep:::txtsize --> SnltiARahtoy:::txtsize
-Snrokhisleevsogor:::txtsize --> SnltiARahtoy:::txtsize
-SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
-Wasrsnnafriben:::txtsize --> SnltiARahtoy:::txtsize
-Wasrsnnafriben:::txtsize --> Hmsis:::txtsize
+Tsadvkhnrem:::txtsize --> RanssdieZsue:::txtsize
+RanssdieZsue:::txtsize --> Zsmrnnidscmk:::txtsize
+Zsmrnnidscmk:::txtsize --> Unlydprstowren:::txtsize
+Zsmrnnidscmk:::txtsize --> PiaucbnrrprkeRt:::txtsize
+RanssdieZsue:::txtsize --> Rarnkoaudhntp:::txtsize
+Rarnkoaudhntp:::txtsize --> RaUnkoelUcn:::txtsize
+Rarnkoaudhntp:::txtsize --> RanssdieZsue:::txtsize
+Tsadvkhnrem:::txtsize --> Psuwcekebcyeaa:::txtsize
+Psuwcekebcyeaa:::txtsize --> RanssdieZsue:::txtsize
+RanssdieZsue:::txtsize --> Zsmrnnidscmk:::txtsize
+RanssdieZsue:::txtsize --> Rarnkoaudhntp:::txtsize
+Psuwcekebcyeaa:::txtsize --> Zsmrnirsrpp:::txtsize
+Zsmrnirsrpp:::txtsize --> RanssdieZsue:::txtsize
+Zsmrnirsrpp:::txtsize --> Tstia:::txtsize
 
-SrrlfirbrlGs@{ shape: win-pane, label: "_Published Dec 28, 2025, 09:55 PM_
-‘shivering from cold and fear’: winter rains batter displaced gazans" }
-Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
-Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
-Israel marks oct 7 anniversary as talks are held to end gaza war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Pgoihfcfge@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:53 AM_
-Pm wong welcomes first phase of gaza ceasefire agreement" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-SpeeamaeihfptGoc@{ shape: win-pane, label: "_Published Oct 09, 2025, 11:04 PM_
-Singapore welcomes israel-hamas deal to begin first phase of trump plan to end gaza conflict: mfa" }
-Fhgczptpors@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:55 PM_
-Fuel shortage forces gaza hospital to suspend most services" }
+Iauselssfu@{ shape: win-pane, label: "_Published Dec 29, 2025, 12:48 AM_
+Iran says launches three satellites into space from russia" }
+Deacssarixs@{ shape: win-pane, label: "_Published Jun 14, 2025, 04:24 AM_
+Damage to iran’s nuclear sites so far appears limited, experts say" }
+TtIodirsdelmutt@{ shape: win-pane, label: "_Published Jun 13, 2025, 08:20 AM_
+Trump tells iran to ‘make deal’ with israel as world leaders call for ‘maximum restraint’" }
+IamrnaetlIli@{ shape: win-pane, label: "_Published Jun 13, 2025, 04:29 PM_
+Iranian commanders and nuclear scientists killed in israeli strikes" }
+AIlintdantsoee@{ shape: win-pane, label: "_Published Jun 13, 2025, 05:50 PM_
+After israel’s strikes on iran, the middle east confronts prospect of more violence" }
+TtIodirsdelmutt@{ shape: win-pane, label: "_Published Jun 13, 2025, 08:20 AM_
+Trump tells iran to ‘make deal’ with israel as world leaders call for ‘maximum restraint’" }
+
+Iauselssfu:::txtsize --> Deacssarixs:::txtsize
+Deacssarixs:::txtsize --> TtIodirsdelmutt:::txtsize
+TtIodirsdelmutt:::txtsize --> IamrnaetlIli:::txtsize
+Deacssarixs:::txtsize --> AIlintdantsoee:::txtsize
+AIlintdantsoee:::txtsize --> TtIodirsdelmutt:::txtsize
+
+IleroWawea@{ shape: win-pane, label: "_Published Dec 29, 2025, 12:39 AM_
+Israel army ends crackdown on west bank town after attack" }
+Ilsaivgenedt@{ shape: win-pane, label: "_Published Dec 28, 2025, 03:44 AM_
+Israel seals off palestinian village in west bank after deadly attack" }
 Ptnsagagela@{ shape: win-pane, label: "_Published Dec 26, 2025, 08:30 PM_
 Palestinian kills 2 in stabbing and ramming, israeli police say" }
 Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
 ‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
 Iletvlosapnen@{ shape: win-pane, label: "_Published Dec 26, 2025, 07:14 PM_
 Israeli reservist rams vehicle into palestinian man praying in west bank" }
+Iletvlosapnen@{ shape: win-pane, label: "_Published Dec 26, 2025, 07:14 PM_
+Israeli reservist rams vehicle into palestinian man praying in west bank" }
 Ilttieeibes@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:00 AM_
 Israeli settler attack injures palestinian baby, five arrested" }
-Hrhotciakxais@{ shape: win-pane, label: "_Published Dec 24, 2025, 05:24 PM_
-How israel’s hilltop settlers coordinate attacks to expel palestinians" }
-Siecsyoafoenlnit@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:16 PM_
-S’pore imposes sanctions, entry bans on 4 israelis for violence against palestinians in west bank" }
+Ilsmvtauyis@{ shape: win-pane, label: "_Published Dec 24, 2025, 09:38 PM_
+Israel accuses hamas of violating gaza truce, says it will respond" }
+Ilsaivgenedt@{ shape: win-pane, label: "_Published Dec 28, 2025, 03:44 AM_
+Israel seals off palestinian village in west bank after deadly attack" }
+Ptnsagagela@{ shape: win-pane, label: "_Published Dec 26, 2025, 08:30 PM_
+Palestinian kills 2 in stabbing and ramming, israeli police say" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+Iletvlosapnen@{ shape: win-pane, label: "_Published Dec 26, 2025, 07:14 PM_
+Israeli reservist rams vehicle into palestinian man praying in west bank" }
+Iletvlosapnen@{ shape: win-pane, label: "_Published Dec 26, 2025, 07:14 PM_
+Israeli reservist rams vehicle into palestinian man praying in west bank" }
+Ilttieeibes@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:00 AM_
+Israeli settler attack injures palestinian baby, five arrested" }
+Ilsmvtauyis@{ shape: win-pane, label: "_Published Dec 24, 2025, 09:38 PM_
+Israel accuses hamas of violating gaza truce, says it will respond" }
 
-SrrlfirbrlGs:::txtsize --> Iliaeseoewa:::txtsize
-Iliaeseoewa:::txtsize --> TssHaossaaorslaoe:::txtsize
-TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
-TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
-Iliaeseoewa:::txtsize --> Pgoihfcfge:::txtsize
-Pgoihfcfge:::txtsize --> TssHaossaaorslaoe:::txtsize
-Pgoihfcfge:::txtsize --> SpeeamaeihfptGoc:::txtsize
-SrrlfirbrlGs:::txtsize --> Fhgczptpors:::txtsize
-Fhgczptpors:::txtsize --> Ptnsagagela:::txtsize
+IleroWawea:::txtsize --> Ilsaivgenedt:::txtsize
+Ilsaivgenedt:::txtsize --> Ptnsagagela:::txtsize
 Ptnsagagela:::txtsize --> Sbsrcdnacaale:::txtsize
 Ptnsagagela:::txtsize --> Iletvlosapnen:::txtsize
-Fhgczptpors:::txtsize --> Ilttieeibes:::txtsize
-Ilttieeibes:::txtsize --> Hrhotciakxais:::txtsize
-Ilttieeibes:::txtsize --> Siecsyoafoenlnit:::txtsize
-
-kIreed@{ shape: win-pane, label: "_Published Dec 28, 2025, 07:39 PM_
-470kg wwii bomb removed in belgrade" }
-UlWrcorgotit@{ shape: win-pane, label: "_Published Jun 29, 2024, 05:47 PM_
-Unexploded wwii ordnance removed from ang mo kio construction site" }
-ReaumeWmpuiusyr@{ shape: win-pane, label: "_Published Sep 26, 2023, 11:42 AM_
-Residents can return home after 100kg wwii bomb in upper bukit timah successfully destroyed" }
-MhsthatUBTbiarn@{ shape: win-pane, label: "_Published Sep 25, 2023, 06:06 PM_
-More than 4,000 residents and 1,000 homes affected by upper bukit timah bomb disposal operation" }
-WouUBTlynakxi@{ shape: win-pane, label: "_Published Sep 26, 2023, 12:00 AM_
-Wwii bomb found in upper bukit timah likely to contain about 47kg of explosives" }
-CelaaesgmfWmoo@{ shape: win-pane, label: "_Published Sep 26, 2023, 10:35 PM_
-Cracked ceilings and shattered glass: slight damage after wwii bomb detonation" }
-ReaumeWmpuiusyr@{ shape: win-pane, label: "_Published Sep 26, 2023, 11:42 AM_
-Residents can return home after 100kg wwii bomb in upper bukit timah successfully destroyed" }
-ReaumeWmpuiusyr@{ shape: win-pane, label: "_Published Sep 26, 2023, 11:42 AM_
-Residents can return home after 100kg wwii bomb in upper bukit timah successfully destroyed" }
-Wrbhvfia@{ shape: win-pane, label: "_Published Jul 14, 2025, 09:45 PM_
-Wwii-era bomb weighing over 200kg found in melaka" }
-Botsldnodlnin@{ shape: win-pane, label: "_Published Jan 05, 2024, 07:30 PM_
-‘bomb’ found at industrial building in ang mo kio a dud, police investigating" }
-Renspkmeamretfbnd@{ shape: win-pane, label: "_Published Sep 24, 2023, 09:06 PM_
-Residents in parts of upper bukit timah to evacuate homes during detonation of wwii bomb on tuesday" }
-ReaumeWmpuiusyr@{ shape: win-pane, label: "_Published Sep 26, 2023, 11:42 AM_
-Residents can return home after 100kg wwii bomb in upper bukit timah successfully destroyed" }
-ReaumeWmpuiusyr@{ shape: win-pane, label: "_Published Sep 26, 2023, 11:42 AM_
-Residents can return home after 100kg wwii bomb in upper bukit timah successfully destroyed" }
-MhsthatUBTbiarn@{ shape: win-pane, label: "_Published Sep 25, 2023, 06:06 PM_
-More than 4,000 residents and 1,000 homes affected by upper bukit timah bomb disposal operation" }
-WouUBTlynakxi@{ shape: win-pane, label: "_Published Sep 26, 2023, 12:00 AM_
-Wwii bomb found in upper bukit timah likely to contain about 47kg of explosives" }
-
-kIreed:::txtsize --> UlWrcorgotit:::txtsize
-UlWrcorgotit:::txtsize --> ReaumeWmpuiusyr:::txtsize
-ReaumeWmpuiusyr:::txtsize --> MhsthatUBTbiarn:::txtsize
-ReaumeWmpuiusyr:::txtsize --> WouUBTlynakxi:::txtsize
-UlWrcorgotit:::txtsize --> CelaaesgmfWmoo:::txtsize
-CelaaesgmfWmoo:::txtsize --> ReaumeWmpuiusyr:::txtsize
-CelaaesgmfWmoo:::txtsize --> ReaumeWmpuiusyr:::txtsize
-kIreed:::txtsize --> Wrbhvfia:::txtsize
-Wrbhvfia:::txtsize --> Botsldnodlnin:::txtsize
-Botsldnodlnin:::txtsize --> Renspkmeamretfbnd:::txtsize
-Botsldnodlnin:::txtsize --> ReaumeWmpuiusyr:::txtsize
-Wrbhvfia:::txtsize --> ReaumeWmpuiusyr:::txtsize
-ReaumeWmpuiusyr:::txtsize --> MhsthatUBTbiarn:::txtsize
-ReaumeWmpuiusyr:::txtsize --> WouUBTlynakxi:::txtsize
+Ilsaivgenedt:::txtsize --> Iletvlosapnen:::txtsize
+Iletvlosapnen:::txtsize --> Ilttieeibes:::txtsize
+Iletvlosapnen:::txtsize --> Ilsmvtauyis:::txtsize
+IleroWawea:::txtsize --> Ilsaivgenedt:::txtsize
+Ilsaivgenedt:::txtsize --> Ptnsagagela:::txtsize
+Ptnsagagela:::txtsize --> Sbsrcdnacaale:::txtsize
+Ptnsagagela:::txtsize --> Iletvlosapnen:::txtsize
+Ilsaivgenedt:::txtsize --> Iletvlosapnen:::txtsize
+Iletvlosapnen:::txtsize --> Ilttieeibes:::txtsize
+Iletvlosapnen:::txtsize --> Ilsmvtauyis:::txtsize
 
 ```
-<i>Last updated: 2025-12-29 00:00:56.504474 (GMT+8)</i>
+<i>Last updated: 2025-12-29 04:00:22.893511 (GMT+8)</i>
 <!-- END -->
