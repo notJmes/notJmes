@@ -16,8 +16,97 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-EepoaoiaIlldgo@{ shape: win-pane, label: "_Published Dec 28, 2025, 03:50 PM_
-Eu urges respect for somalia sovereignty after israel somaliland recognition" }
+kIreed@{ shape: win-pane, label: "_Published Dec 28, 2025, 07:39 PM_
+470kg wwii bomb removed in belgrade" }
+UlWrcorgotit@{ shape: win-pane, label: "_Published Jun 29, 2024, 05:47 PM_
+Unexploded wwii ordnance removed from ang mo kio construction site" }
+ReaumeWmpuiusyr@{ shape: win-pane, label: "_Published Sep 26, 2023, 11:42 AM_
+Residents can return home after 100kg wwii bomb in upper bukit timah successfully destroyed" }
+MhsthatUBTbiarn@{ shape: win-pane, label: "_Published Sep 25, 2023, 06:06 PM_
+More than 4,000 residents and 1,000 homes affected by upper bukit timah bomb disposal operation" }
+WouUBTlynakxi@{ shape: win-pane, label: "_Published Sep 26, 2023, 12:00 AM_
+Wwii bomb found in upper bukit timah likely to contain about 47kg of explosives" }
+CelaaesgmfWmoo@{ shape: win-pane, label: "_Published Sep 26, 2023, 10:35 PM_
+Cracked ceilings and shattered glass: slight damage after wwii bomb detonation" }
+ReaumeWmpuiusyr@{ shape: win-pane, label: "_Published Sep 26, 2023, 11:42 AM_
+Residents can return home after 100kg wwii bomb in upper bukit timah successfully destroyed" }
+ReaumeWmpuiusyr@{ shape: win-pane, label: "_Published Sep 26, 2023, 11:42 AM_
+Residents can return home after 100kg wwii bomb in upper bukit timah successfully destroyed" }
+Wrbhvfia@{ shape: win-pane, label: "_Published Jul 14, 2025, 09:45 PM_
+Wwii-era bomb weighing over 200kg found in melaka" }
+Botsldnodlnin@{ shape: win-pane, label: "_Published Jan 05, 2024, 07:30 PM_
+‘bomb’ found at industrial building in ang mo kio a dud, police investigating" }
+Renspkmeamretfbnd@{ shape: win-pane, label: "_Published Sep 24, 2023, 09:06 PM_
+Residents in parts of upper bukit timah to evacuate homes during detonation of wwii bomb on tuesday" }
+ReaumeWmpuiusyr@{ shape: win-pane, label: "_Published Sep 26, 2023, 11:42 AM_
+Residents can return home after 100kg wwii bomb in upper bukit timah successfully destroyed" }
+ReaumeWmpuiusyr@{ shape: win-pane, label: "_Published Sep 26, 2023, 11:42 AM_
+Residents can return home after 100kg wwii bomb in upper bukit timah successfully destroyed" }
+MhsthatUBTbiarn@{ shape: win-pane, label: "_Published Sep 25, 2023, 06:06 PM_
+More than 4,000 residents and 1,000 homes affected by upper bukit timah bomb disposal operation" }
+WouUBTlynakxi@{ shape: win-pane, label: "_Published Sep 26, 2023, 12:00 AM_
+Wwii bomb found in upper bukit timah likely to contain about 47kg of explosives" }
+
+kIreed:::txtsize --> UlWrcorgotit:::txtsize
+UlWrcorgotit:::txtsize --> ReaumeWmpuiusyr:::txtsize
+ReaumeWmpuiusyr:::txtsize --> MhsthatUBTbiarn:::txtsize
+ReaumeWmpuiusyr:::txtsize --> WouUBTlynakxi:::txtsize
+UlWrcorgotit:::txtsize --> CelaaesgmfWmoo:::txtsize
+CelaaesgmfWmoo:::txtsize --> ReaumeWmpuiusyr:::txtsize
+CelaaesgmfWmoo:::txtsize --> ReaumeWmpuiusyr:::txtsize
+kIreed:::txtsize --> Wrbhvfia:::txtsize
+Wrbhvfia:::txtsize --> Botsldnodlnin:::txtsize
+Botsldnodlnin:::txtsize --> Renspkmeamretfbnd:::txtsize
+Botsldnodlnin:::txtsize --> ReaumeWmpuiusyr:::txtsize
+Wrbhvfia:::txtsize --> ReaumeWmpuiusyr:::txtsize
+ReaumeWmpuiusyr:::txtsize --> MhsthatUBTbiarn:::txtsize
+ReaumeWmpuiusyr:::txtsize --> WouUBTlynakxi:::txtsize
+
+Brouirna@{ shape: win-pane, label: "_Published Dec 28, 2025, 04:15 PM_
+Bulgaria adopts euro amid fear and uncertainty" }
+Bromesrsrrtiot@{ shape: win-pane, label: "_Published Dec 11, 2025, 08:58 PM_
+Bulgarian government resigns after weeks of street protests against corruption" }
+BrcsbaefUnt@{ shape: win-pane, label: "_Published Jul 08, 2025, 08:35 PM_
+Bulgaria becomes 21st member to adopt euro after eu green light" }
+HrocwinTsi@{ shape: win-pane, label: "_Published Jul 07, 2025, 01:15 PM_
+How europe got stuck between xi’s china and trump’s america" }
+DrfsloUnMvsoepn@{ shape: win-pane, label: "_Published Jul 05, 2025, 09:05 PM_
+Denmark confronts familiar foes on ukraine and moldova’s push to join the european union" }
+Gillepsairyoacs@{ shape: win-pane, label: "_Published Oct 05, 2025, 09:06 AM_
+Georgian police clash, detain protesters as ruling party says it won local elections" }
+Peofesoeytenpe@{ shape: win-pane, label: "_Published Oct 05, 2025, 01:06 AM_
+Police in georgia fire tear gas as protesters try to enter presidential palace" }
+Mvolairerntt@{ shape: win-pane, label: "_Published Sep 29, 2025, 06:28 AM_
+Moldova’s pro-eu ruling party wins surprise majority in pivotal vote" }
+EeatsesPmna@{ shape: win-pane, label: "_Published Sep 01, 2025, 07:39 PM_
+Eu chief’s plane hit by suspected russian gps jamming in bulgaria" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
+Explosions heard in ukraine capital kyiv, other cities" }
+OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
+Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
+Apapoeafe@{ shape: win-pane, label: "_Published Aug 22, 2025, 05:00 AM_
+A trumpian game of ping pong over ukraine’s future" }
+Wteisoseiueguhni@{ shape: win-pane, label: "_Published Aug 20, 2025, 01:15 AM_
+With ‘stop the killing’ instead of ‘ceasefire’, eu tries trump-pleasing language shift on ukraine" }
+
+Brouirna:::txtsize --> Bromesrsrrtiot:::txtsize
+Bromesrsrrtiot:::txtsize --> BrcsbaefUnt:::txtsize
+BrcsbaefUnt:::txtsize --> HrocwinTsi:::txtsize
+BrcsbaefUnt:::txtsize --> DrfsloUnMvsoepn:::txtsize
+Bromesrsrrtiot:::txtsize --> Gillepsairyoacs:::txtsize
+Gillepsairyoacs:::txtsize --> Peofesoeytenpe:::txtsize
+Gillepsairyoacs:::txtsize --> Mvolairerntt:::txtsize
+Brouirna:::txtsize --> EeatsesPmna:::txtsize
+EeatsesPmna:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
+DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
+EeatsesPmna:::txtsize --> Apapoeafe:::txtsize
+Apapoeafe:::txtsize --> Wteisoseiueguhni:::txtsize
+
+Eepoaseyreoean@{ shape: win-pane, label: "_Published Dec 28, 2025, 03:50 PM_
+Eu urges respect for somalia’s sovereignty after israel recognises somaliland" }
 Ilmrutmrnolspnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:49 PM_
 Israel becomes first country to formally recognise somaliland as independent state" }
 WrAao@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:46 PM_
@@ -47,14 +136,14 @@ Israel targets hamas leadership in military strikes on qatar, officials say" }
 Hmdulnrecsud@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:15 PM_
 How hamas’ audacious, well-planned surprise attack on israel unfolded" }
 
-EepoaoiaIlldgo:::txtsize --> Ilmrutmrnolspnt:::txtsize
+Eepoaseyreoean:::txtsize --> Ilmrutmrnolspnt:::txtsize
 Ilmrutmrnolspnt:::txtsize --> WrAao:::txtsize
 WrAao:::txtsize --> Ilemahmaroais:::txtsize
 WrAao:::txtsize --> Hmdulnrecsud:::txtsize
 Ilmrutmrnolspnt:::txtsize --> Upneockecdr:::txtsize
 Upneockecdr:::txtsize --> TaniliEtrnn:::txtsize
 Upneockecdr:::txtsize --> Gtuuelrima:::txtsize
-EepoaoiaIlldgo:::txtsize --> Siosectfld:::txtsize
+Eepoaseyreoean:::txtsize --> Siosectfld:::txtsize
 Siosectfld:::txtsize --> Ilmrutmrnolspnt:::txtsize
 Ilmrutmrnolspnt:::txtsize --> WrAao:::txtsize
 Ilmrutmrnolspnt:::txtsize --> Upneockecdr:::txtsize
@@ -62,83 +151,6 @@ Siosectfld:::txtsize --> WrAao:::txtsize
 WrAao:::txtsize --> Ilemahmaroais:::txtsize
 WrAao:::txtsize --> Hmdulnrecsud:::txtsize
 
-Zsmrnirsrpp@{ shape: win-pane, label: "_Published Dec 28, 2025, 01:05 PM_
-Zelensky to meet trump in florida for talks on ukraine peace plan" }
-RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
-Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
-Zsmrnnidscmk@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:08 PM_
-Zelensky to meet trump on dec 28 in florida to discuss peace framework" }
-Unlydprstowren@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:43 PM_
-Ukraine’s zelensky says draft plan freezes front line, opens way for concessions" }
-PiaucbnrrprkeRt@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:59 PM_
-Putin indicated russia could be open to territory swop as part of ukraine deal: report" }
-Rarnkoaudhntp@{ shape: win-pane, label: "_Published Dec 27, 2025, 05:25 PM_
-Russian barrage on kyiv kills one, leaves hundreds of thousands without power" }
-RaUnkoelUcn@{ shape: win-pane, label: "_Published Dec 27, 2025, 02:34 AM_
-Russia says ukraine seeking to ‘torpedo’ talks on us peace plan" }
-RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
-Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
-Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
-Trump’s 28-point ukraine plan" }
-Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
-Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
-EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
-Europeans push back at us plan that would force concessions from ukraine" }
-Atdretahfunceni@{ shape: win-pane, label: "_Published Nov 20, 2025, 09:24 PM_
-A relative’s desperate search then fading hope after russian attack in western ukraine" }
-Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
-Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
-EeucStooosfke@{ shape: win-pane, label: "_Published Nov 20, 2025, 06:38 PM_
-Europeans push back at us plan that would force concessions from ukraine" }
-Atdretahfunceni@{ shape: win-pane, label: "_Published Nov 20, 2025, 09:24 PM_
-A relative’s desperate search then fading hope after russian attack in western ukraine" }
-
-Zsmrnirsrpp:::txtsize --> RanssdieZsue:::txtsize
-RanssdieZsue:::txtsize --> Zsmrnnidscmk:::txtsize
-Zsmrnnidscmk:::txtsize --> Unlydprstowren:::txtsize
-Zsmrnnidscmk:::txtsize --> PiaucbnrrprkeRt:::txtsize
-RanssdieZsue:::txtsize --> Rarnkoaudhntp:::txtsize
-Rarnkoaudhntp:::txtsize --> RaUnkoelUcn:::txtsize
-Rarnkoaudhntp:::txtsize --> RanssdieZsue:::txtsize
-Zsmrnirsrpp:::txtsize --> Tstia:::txtsize
-Tstia:::txtsize --> Zsarskbdaosb:::txtsize
-Zsarskbdaosb:::txtsize --> EeucStooosfke:::txtsize
-Zsarskbdaosb:::txtsize --> Atdretahfunceni:::txtsize
-Tstia:::txtsize --> Zsarskbdaosb:::txtsize
-Zsarskbdaosb:::txtsize --> EeucStooosfke:::txtsize
-Zsarskbdaosb:::txtsize --> Atdretahfunceni:::txtsize
-
-Isrwlcao@{ shape: win-pane, label: "_Published Dec 28, 2025, 12:03 PM_
-Iraqis cover soil with clay to curb sandstorms" }
-Ifstfeasd@{ shape: win-pane, label: "_Published Apr 01, 2023, 01:53 AM_
-Iraq's first sandstorm of the year blankets baghdad" }
-RgdspstasiE@{ shape: win-pane, label: "_Published Jul 06, 2022, 11:00 AM_
-Rising heat drives crippling sandstorms across the middle east" }
-Inctiwtmce@{ shape: win-pane, label: "_Published Aug 12, 2025, 06:36 AM_
-Iraq announces nationwide power outage amid ‘record’ heat" }
-Umeaserdsreei@{ shape: win-pane, label: "_Published Aug 04, 2025, 09:15 PM_
-Uae summer temperatures surge near record highs after hottest-ever spring" }
-wetadfamcia@{ shape: win-pane, label: "_Published Jan 10, 2025, 11:07 AM_
-2024 was the first year above 1.5 deg c of global warming, scientists say" }
-hesea@{ shape: win-pane, label: "_Published Aug 04, 2025, 04:22 PM_
-17 heat records broken in japan" }
-JatitooaangTy@{ shape: win-pane, label: "_Published Aug 07, 2025, 10:31 AM_
-July was earth’s third-hottest on record; it also marked new high for turkey" }
-Tysheitt@{ shape: win-pane, label: "_Published Jul 27, 2025, 05:12 AM_
-Turkey marks 50.5 deg c heat record in south-east" }
-Vulxelnosue@{ shape: win-pane, label: "_Published Mar 25, 2025, 03:38 PM_
-Vicious cycle of extreme heat leading to more fossil fuel use" }
-
-Isrwlcao:::txtsize --> Ifstfeasd:::txtsize
-Ifstfeasd:::txtsize --> RgdspstasiE:::txtsize
-Isrwlcao:::txtsize --> Inctiwtmce:::txtsize
-Inctiwtmce:::txtsize --> Umeaserdsreei:::txtsize
-Umeaserdsreei:::txtsize --> wetadfamcia:::txtsize
-Umeaserdsreei:::txtsize --> hesea:::txtsize
-Inctiwtmce:::txtsize --> JatitooaangTy:::txtsize
-JatitooaangTy:::txtsize --> Tysheitt:::txtsize
-JatitooaangTy:::txtsize --> Vulxelnosue:::txtsize
-
 ```
-<i>Last updated: 2025-12-28 16:01:00.042773 (GMT+8)</i>
+<i>Last updated: 2025-12-28 20:00:27.977800 (GMT+8)</i>
 <!-- END -->
