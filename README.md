@@ -16,6 +16,80 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Snrokhisleevsogor@{ shape: win-pane, label: "_Published Dec 28, 2025, 10:38 PM_
+Syrian security forces kill 2 while dispersing alawite protests over mosque bombing: war monitor" }
+Estisnasst@{ shape: win-pane, label: "_Published Dec 27, 2025, 12:29 AM_
+Explosion at alawite mosque in syria’s homs kills eight" }
+Swrtpmachctep@{ shape: win-pane, label: "_Published Jun 25, 2025, 12:06 AM_
+Shadowy extremist group claims damascus church attack that killed 25 people" }
+Asljicogmsc@{ shape: win-pane, label: "_Published Jun 23, 2025, 01:28 AM_
+At least 20 killed, 52 injured in suicide bombing at damascus church" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
+Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Hmsis@{ shape: win-pane, label: "_Published Dec 08, 2024, 04:00 PM_
+How damascus fell in 11 days" }
+
+Snrokhisleevsogor:::txtsize --> Estisnasst:::txtsize
+Estisnasst:::txtsize --> Swrtpmachctep:::txtsize
+Swrtpmachctep:::txtsize --> Asljicogmsc:::txtsize
+Swrtpmachctep:::txtsize --> SnltiARahtoy:::txtsize
+Snrokhisleevsogor:::txtsize --> SnltiARahtoy:::txtsize
+SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
+Wasrsnnafriben:::txtsize --> SnltiARahtoy:::txtsize
+Wasrsnnafriben:::txtsize --> Hmsis:::txtsize
+
+SrrlfirbrlGs@{ shape: win-pane, label: "_Published Dec 28, 2025, 09:55 PM_
+‘shivering from cold and fear’: winter rains batter displaced gazans" }
+Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
+Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
+Israel marks oct 7 anniversary as talks are held to end gaza war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Pgoihfcfge@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:53 AM_
+Pm wong welcomes first phase of gaza ceasefire agreement" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+SpeeamaeihfptGoc@{ shape: win-pane, label: "_Published Oct 09, 2025, 11:04 PM_
+Singapore welcomes israel-hamas deal to begin first phase of trump plan to end gaza conflict: mfa" }
+Fhgczptpors@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:55 PM_
+Fuel shortage forces gaza hospital to suspend most services" }
+Ptnsagagela@{ shape: win-pane, label: "_Published Dec 26, 2025, 08:30 PM_
+Palestinian kills 2 in stabbing and ramming, israeli police say" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+Iletvlosapnen@{ shape: win-pane, label: "_Published Dec 26, 2025, 07:14 PM_
+Israeli reservist rams vehicle into palestinian man praying in west bank" }
+Ilttieeibes@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:00 AM_
+Israeli settler attack injures palestinian baby, five arrested" }
+Hrhotciakxais@{ shape: win-pane, label: "_Published Dec 24, 2025, 05:24 PM_
+How israel’s hilltop settlers coordinate attacks to expel palestinians" }
+Siecsyoafoenlnit@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:16 PM_
+S’pore imposes sanctions, entry bans on 4 israelis for violence against palestinians in west bank" }
+
+SrrlfirbrlGs:::txtsize --> Iliaeseoewa:::txtsize
+Iliaeseoewa:::txtsize --> TssHaossaaorslaoe:::txtsize
+TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
+TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
+Iliaeseoewa:::txtsize --> Pgoihfcfge:::txtsize
+Pgoihfcfge:::txtsize --> TssHaossaaorslaoe:::txtsize
+Pgoihfcfge:::txtsize --> SpeeamaeihfptGoc:::txtsize
+SrrlfirbrlGs:::txtsize --> Fhgczptpors:::txtsize
+Fhgczptpors:::txtsize --> Ptnsagagela:::txtsize
+Ptnsagagela:::txtsize --> Sbsrcdnacaale:::txtsize
+Ptnsagagela:::txtsize --> Iletvlosapnen:::txtsize
+Fhgczptpors:::txtsize --> Ilttieeibes:::txtsize
+Ilttieeibes:::txtsize --> Hrhotciakxais:::txtsize
+Ilttieeibes:::txtsize --> Siecsyoafoenlnit:::txtsize
+
 kIreed@{ shape: win-pane, label: "_Published Dec 28, 2025, 07:39 PM_
 470kg wwii bomb removed in belgrade" }
 UlWrcorgotit@{ shape: win-pane, label: "_Published Jun 29, 2024, 05:47 PM_
@@ -62,95 +136,6 @@ Wrbhvfia:::txtsize --> ReaumeWmpuiusyr:::txtsize
 ReaumeWmpuiusyr:::txtsize --> MhsthatUBTbiarn:::txtsize
 ReaumeWmpuiusyr:::txtsize --> WouUBTlynakxi:::txtsize
 
-Brouirna@{ shape: win-pane, label: "_Published Dec 28, 2025, 04:15 PM_
-Bulgaria adopts euro amid fear and uncertainty" }
-Bromesrsrrtiot@{ shape: win-pane, label: "_Published Dec 11, 2025, 08:58 PM_
-Bulgarian government resigns after weeks of street protests against corruption" }
-BrcsbaefUnt@{ shape: win-pane, label: "_Published Jul 08, 2025, 08:35 PM_
-Bulgaria becomes 21st member to adopt euro after eu green light" }
-HrocwinTsi@{ shape: win-pane, label: "_Published Jul 07, 2025, 01:15 PM_
-How europe got stuck between xi’s china and trump’s america" }
-DrfsloUnMvsoepn@{ shape: win-pane, label: "_Published Jul 05, 2025, 09:05 PM_
-Denmark confronts familiar foes on ukraine and moldova’s push to join the european union" }
-Gillepsairyoacs@{ shape: win-pane, label: "_Published Oct 05, 2025, 09:06 AM_
-Georgian police clash, detain protesters as ruling party says it won local elections" }
-Peofesoeytenpe@{ shape: win-pane, label: "_Published Oct 05, 2025, 01:06 AM_
-Police in georgia fire tear gas as protesters try to enter presidential palace" }
-Mvolairerntt@{ shape: win-pane, label: "_Published Sep 29, 2025, 06:28 AM_
-Moldova’s pro-eu ruling party wins surprise majority in pivotal vote" }
-EeatsesPmna@{ shape: win-pane, label: "_Published Sep 01, 2025, 07:39 PM_
-Eu chief’s plane hit by suspected russian gps jamming in bulgaria" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
-Explosions heard in ukraine capital kyiv, other cities" }
-OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
-Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
-Apapoeafe@{ shape: win-pane, label: "_Published Aug 22, 2025, 05:00 AM_
-A trumpian game of ping pong over ukraine’s future" }
-Wteisoseiueguhni@{ shape: win-pane, label: "_Published Aug 20, 2025, 01:15 AM_
-With ‘stop the killing’ instead of ‘ceasefire’, eu tries trump-pleasing language shift on ukraine" }
-
-Brouirna:::txtsize --> Bromesrsrrtiot:::txtsize
-Bromesrsrrtiot:::txtsize --> BrcsbaefUnt:::txtsize
-BrcsbaefUnt:::txtsize --> HrocwinTsi:::txtsize
-BrcsbaefUnt:::txtsize --> DrfsloUnMvsoepn:::txtsize
-Bromesrsrrtiot:::txtsize --> Gillepsairyoacs:::txtsize
-Gillepsairyoacs:::txtsize --> Peofesoeytenpe:::txtsize
-Gillepsairyoacs:::txtsize --> Mvolairerntt:::txtsize
-Brouirna:::txtsize --> EeatsesPmna:::txtsize
-EeatsesPmna:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
-DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
-EeatsesPmna:::txtsize --> Apapoeafe:::txtsize
-Apapoeafe:::txtsize --> Wteisoseiueguhni:::txtsize
-
-Eepoaseyreoean@{ shape: win-pane, label: "_Published Dec 28, 2025, 03:50 PM_
-Eu urges respect for somalia’s sovereignty after israel recognises somaliland" }
-Ilmrutmrnolspnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:49 PM_
-Israel becomes first country to formally recognise somaliland as independent state" }
-WrAao@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:46 PM_
-What are the abraham accords?" }
-Ilemahmaroais@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:27 PM_
-Israel targets hamas leadership in military strikes on qatar, officials say" }
-Hmdulnrecsud@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:15 PM_
-How hamas’ audacious, well-planned surprise attack on israel unfolded" }
-Upneockecdr@{ shape: win-pane, label: "_Published May 17, 2025, 02:21 PM_
-Uae is pouring money into africa, seeking resources and power" }
-TaniliEtrnn@{ shape: win-pane, label: "_Published May 16, 2025, 01:27 AM_
-Trump announces $260b in deals during uae visit, ai agreement signed" }
-Gtuuelrima@{ shape: win-pane, label: "_Published May 17, 2025, 12:38 AM_
-Gulf states use opulence and flattery to win trump’s heart" }
-Siosectfld@{ shape: win-pane, label: "_Published Dec 27, 2025, 10:36 AM_
-Somalia denounces israeli recognition of somaliland" }
-Ilmrutmrnolspnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:49 PM_
-Israel becomes first country to formally recognise somaliland as independent state" }
-WrAao@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:46 PM_
-What are the abraham accords?" }
-Upneockecdr@{ shape: win-pane, label: "_Published May 17, 2025, 02:21 PM_
-Uae is pouring money into africa, seeking resources and power" }
-WrAao@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:46 PM_
-What are the abraham accords?" }
-Ilemahmaroais@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:27 PM_
-Israel targets hamas leadership in military strikes on qatar, officials say" }
-Hmdulnrecsud@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:15 PM_
-How hamas’ audacious, well-planned surprise attack on israel unfolded" }
-
-Eepoaseyreoean:::txtsize --> Ilmrutmrnolspnt:::txtsize
-Ilmrutmrnolspnt:::txtsize --> WrAao:::txtsize
-WrAao:::txtsize --> Ilemahmaroais:::txtsize
-WrAao:::txtsize --> Hmdulnrecsud:::txtsize
-Ilmrutmrnolspnt:::txtsize --> Upneockecdr:::txtsize
-Upneockecdr:::txtsize --> TaniliEtrnn:::txtsize
-Upneockecdr:::txtsize --> Gtuuelrima:::txtsize
-Eepoaseyreoean:::txtsize --> Siosectfld:::txtsize
-Siosectfld:::txtsize --> Ilmrutmrnolspnt:::txtsize
-Ilmrutmrnolspnt:::txtsize --> WrAao:::txtsize
-Ilmrutmrnolspnt:::txtsize --> Upneockecdr:::txtsize
-Siosectfld:::txtsize --> WrAao:::txtsize
-WrAao:::txtsize --> Ilemahmaroais:::txtsize
-WrAao:::txtsize --> Hmdulnrecsud:::txtsize
-
 ```
-<i>Last updated: 2025-12-28 20:00:27.977800 (GMT+8)</i>
+<i>Last updated: 2025-12-29 00:00:56.504474 (GMT+8)</i>
 <!-- END -->
