@@ -66,12 +66,6 @@ Nigtkaaiwnnyasi@{ shape: win-pane, label: "_Published Dec 23, 2025, 03:38 PM_
 Nankai trough earthquake: not all evacuation towers in japan ready for major tsunami" }
 Tnbssogfeo@{ shape: win-pane, label: "_Published Dec 24, 2025, 02:12 PM_
 Taiwan celebrates christmas once again after 25 years. sort of" }
-Tnlmtauodrta@{ shape: win-pane, label: "_Published Dec 18, 2025, 07:55 PM_
-Taiwan rattled by 5.1-magnitude earthquake; no immediate reports of damage" }
-Jlmudreeetr@{ shape: win-pane, label: "_Published Dec 16, 2025, 12:14 PM_
-Japan lifts mega quake advisory a week after powerful tremor" }
-Tngaunsedrnd@{ shape: win-pane, label: "_Published Apr 03, 2024, 08:49 AM_
-Taiwan’s biggest earthquake in 25 years leaves 9 dead, hundreds injured" }
 Vgnyrtecafefl@{ shape: win-pane, label: "_Published Dec 28, 2025, 05:41 AM_
 Voting begins in myanmar’s restricted election after five years of civil war" }
 Matkicloeel@{ shape: win-pane, label: "_Published Dec 23, 2025, 02:25 PM_
@@ -91,9 +85,6 @@ WYresemhiD:::txtsize --> Tnlmtu:::txtsize
 Tnlmtu:::txtsize --> Serwayiqneerde:::txtsize
 Serwayiqneerde:::txtsize --> Nigtkaaiwnnyasi:::txtsize
 Serwayiqneerde:::txtsize --> Tnbssogfeo:::txtsize
-Tnlmtu:::txtsize --> Tnlmtauodrta:::txtsize
-Tnlmtauodrta:::txtsize --> Jlmudreeetr:::txtsize
-Tnlmtauodrta:::txtsize --> Tngaunsedrnd:::txtsize
 WYresemhiD:::txtsize --> Vgnyrtecafefl:::txtsize
 Vgnyrtecafefl:::txtsize --> Matkicloeel:::txtsize
 Matkicloeel:::txtsize --> Maygwtaoatmnurutt:::txtsize
@@ -149,5 +140,5 @@ RanssdieZsue:::txtsize --> Zsmrnnidscmk:::txtsize
 RanssdieZsue:::txtsize --> Rarnkoaudhntp:::txtsize
 
 ```
-<i>Last updated: 2025-12-28 08:01:03.236345 (GMT+8)</i>
+<i>Last updated: 2025-12-28 12:00:31.326785 (GMT+8)</i>
 <!-- END -->
