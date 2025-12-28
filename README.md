@@ -16,54 +16,94 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ilsaivgenedt@{ shape: win-pane, label: "_Published Dec 28, 2025, 03:44 AM_
-Israel seals off palestinian village in west bank after deadly attack" }
-Ptnsagagela@{ shape: win-pane, label: "_Published Dec 26, 2025, 08:30 PM_
-Palestinian kills 2 in stabbing and ramming, israeli police say" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Iletvlosapnen@{ shape: win-pane, label: "_Published Dec 26, 2025, 07:14 PM_
-Israeli reservist rams vehicle into palestinian man praying in west bank" }
-Ilttieeibes@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:00 AM_
-Israeli settler attack injures palestinian baby, five arrested" }
-Ilsmvtauyis@{ shape: win-pane, label: "_Published Dec 24, 2025, 09:38 PM_
-Israel accuses hamas of violating gaza truce, says it will respond" }
-Iletvlosapnen@{ shape: win-pane, label: "_Published Dec 26, 2025, 07:14 PM_
-Israeli reservist rams vehicle into palestinian man praying in west bank" }
-Ilttieeibes@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:00 AM_
-Israeli settler attack injures palestinian baby, five arrested" }
-Hrhotciakxais@{ shape: win-pane, label: "_Published Dec 24, 2025, 05:24 PM_
-How israel’s hilltop settlers coordinate attacks to expel palestinians" }
-Siecsyoafoenlnit@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:16 PM_
-S’pore imposes sanctions, entry bans on 4 israelis for violence against palestinians in west bank" }
-Ilsmvtauyis@{ shape: win-pane, label: "_Published Dec 24, 2025, 09:38 PM_
-Israel accuses hamas of violating gaza truce, says it will respond" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Ilcfntutrkla@{ shape: win-pane, label: "_Published Oct 20, 2025, 06:50 AM_
-Israel says ceasefire and aid to resume after airstrikes kill 26 in gaza" }
+Blreisotru@{ shape: win-pane, label: "_Published Dec 28, 2025, 06:45 AM_
+Brazil’s ex-president jair bolsonaro treated for hiccups" }
+BleBnecyisrp@{ shape: win-pane, label: "_Published Sep 12, 2025, 04:02 AM_
+Brazil’s ex-leader bolsonaro sentenced to 27 years in prison for coup plot" }
+Aeoataperi@{ shape: win-pane, label: "_Published Jul 11, 2025, 06:43 AM_
+All eyes on bolsonaro with lula, trump locked in trade fight" }
+Tieinielah@{ shape: win-pane, label: "_Published Jul 10, 2025, 06:02 AM_
+Trump imposes 50% tariffs on brazil after public spat with lula" }
+Blagttopftsoo@{ shape: win-pane, label: "_Published Jul 11, 2025, 06:30 AM_
+Brazil’s lula pledges retaliation to trump tariffs but keeps diplomacy open" }
+Weotozom@{ shape: win-pane, label: "_Published Jan 10, 2023, 10:27 AM_
+What led up to the attack on brazil’s government?" }
+Ezensoclcietpeiet@{ shape: win-pane, label: "_Published Jan 09, 2023, 05:30 AM_
+Ex-brazil president bolsonaro rejects lula’s accusations he incited supporters to invade capital" }
+BleBnecyisrp@{ shape: win-pane, label: "_Published Sep 12, 2025, 04:02 AM_
+Brazil’s ex-leader bolsonaro sentenced to 27 years in prison for coup plot" }
+Aeoataperi@{ shape: win-pane, label: "_Published Jul 11, 2025, 06:43 AM_
+All eyes on bolsonaro with lula, trump locked in trade fight" }
+Tieinielah@{ shape: win-pane, label: "_Published Jul 10, 2025, 06:02 AM_
+Trump imposes 50% tariffs on brazil after public spat with lula" }
+Blagttopftsoo@{ shape: win-pane, label: "_Published Jul 11, 2025, 06:30 AM_
+Brazil’s lula pledges retaliation to trump tariffs but keeps diplomacy open" }
+Weotozom@{ shape: win-pane, label: "_Published Jan 10, 2023, 10:27 AM_
+What led up to the attack on brazil’s government?" }
+Ezensoclcietpeiet@{ shape: win-pane, label: "_Published Jan 09, 2023, 05:30 AM_
+Ex-brazil president bolsonaro rejects lula’s accusations he incited supporters to invade capital" }
 
-Ilsaivgenedt:::txtsize --> Ptnsagagela:::txtsize
-Ptnsagagela:::txtsize --> Sbsrcdnacaale:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Sbsrcdnacaale:::txtsize --> NyeeawHakl:::txtsize
-Ptnsagagela:::txtsize --> Iletvlosapnen:::txtsize
-Iletvlosapnen:::txtsize --> Ilttieeibes:::txtsize
-Iletvlosapnen:::txtsize --> Ilsmvtauyis:::txtsize
-Ilsaivgenedt:::txtsize --> Iletvlosapnen:::txtsize
-Iletvlosapnen:::txtsize --> Ilttieeibes:::txtsize
-Ilttieeibes:::txtsize --> Hrhotciakxais:::txtsize
-Ilttieeibes:::txtsize --> Siecsyoafoenlnit:::txtsize
-Iletvlosapnen:::txtsize --> Ilsmvtauyis:::txtsize
-Ilsmvtauyis:::txtsize --> AtHfezerydatoGel:::txtsize
-Ilsmvtauyis:::txtsize --> Ilcfntutrkla:::txtsize
+Blreisotru:::txtsize --> BleBnecyisrp:::txtsize
+BleBnecyisrp:::txtsize --> Aeoataperi:::txtsize
+Aeoataperi:::txtsize --> Tieinielah:::txtsize
+Aeoataperi:::txtsize --> Blagttopftsoo:::txtsize
+BleBnecyisrp:::txtsize --> Weotozom:::txtsize
+Weotozom:::txtsize --> Ezensoclcietpeiet:::txtsize
+Blreisotru:::txtsize --> BleBnecyisrp:::txtsize
+BleBnecyisrp:::txtsize --> Aeoataperi:::txtsize
+Aeoataperi:::txtsize --> Tieinielah:::txtsize
+Aeoataperi:::txtsize --> Blagttopftsoo:::txtsize
+BleBnecyisrp:::txtsize --> Weotozom:::txtsize
+Weotozom:::txtsize --> Ezensoclcietpeiet:::txtsize
 
-Pskehtccnrt@{ shape: win-pane, label: "_Published Dec 28, 2025, 02:34 AM_
-Putin says ukraine in no hurry to reach peace, agencies report" }
+WYresemhiD@{ shape: win-pane, label: "_Published Dec 28, 2025, 06:06 AM_
+While you were sleeping: 5 stories you might have missed, dec 28, 2025" }
+Tnlmtu@{ shape: win-pane, label: "_Published Dec 27, 2025, 11:36 PM_
+Taiwan rattled by 7-magnitude quake" }
+Serwayiqneerde@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:18 PM_
+South-eastern taiwan shaken by 6.1-magnitude quake; no immediate reports of damage" }
+Nigtkaaiwnnyasi@{ shape: win-pane, label: "_Published Dec 23, 2025, 03:38 PM_
+Nankai trough earthquake: not all evacuation towers in japan ready for major tsunami" }
+Tnbssogfeo@{ shape: win-pane, label: "_Published Dec 24, 2025, 02:12 PM_
+Taiwan celebrates christmas once again after 25 years. sort of" }
+Tnlmtauodrta@{ shape: win-pane, label: "_Published Dec 18, 2025, 07:55 PM_
+Taiwan rattled by 5.1-magnitude earthquake; no immediate reports of damage" }
+Jlmudreeetr@{ shape: win-pane, label: "_Published Dec 16, 2025, 12:14 PM_
+Japan lifts mega quake advisory a week after powerful tremor" }
+Tngaunsedrnd@{ shape: win-pane, label: "_Published Apr 03, 2024, 08:49 AM_
+Taiwan’s biggest earthquake in 25 years leaves 9 dead, hundreds injured" }
+Vgnyrtecafefl@{ shape: win-pane, label: "_Published Dec 28, 2025, 05:41 AM_
+Voting begins in myanmar’s restricted election after five years of civil war" }
+Matkicloeel@{ shape: win-pane, label: "_Published Dec 23, 2025, 02:25 PM_
+Myanmar junta seeks legitimacy in election widely seen as flawed" }
+Maygwtaoatmnurutt@{ shape: win-pane, label: "_Published Feb 01, 2021, 07:07 AM_
+Myanmar army pledges new elections after one-year state of emergency; suu kyi urges public to protest" }
+Matgenryoi@{ shape: win-pane, label: "_Published Dec 23, 2025, 02:11 PM_
+Myanmar junta stages election after five years of civil war" }
+Cidsmngayrt@{ shape: win-pane, label: "_Published Dec 27, 2025, 11:29 AM_
+Conflict and fear sap campaign energy ahead of myanmar election" }
+Matkicloeel@{ shape: win-pane, label: "_Published Dec 23, 2025, 02:25 PM_
+Myanmar junta seeks legitimacy in election widely seen as flawed" }
+SloyMaene@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:15 AM_
+Stateless rohingya rue myanmar’s election from exile" }
+
+WYresemhiD:::txtsize --> Tnlmtu:::txtsize
+Tnlmtu:::txtsize --> Serwayiqneerde:::txtsize
+Serwayiqneerde:::txtsize --> Nigtkaaiwnnyasi:::txtsize
+Serwayiqneerde:::txtsize --> Tnbssogfeo:::txtsize
+Tnlmtu:::txtsize --> Tnlmtauodrta:::txtsize
+Tnlmtauodrta:::txtsize --> Jlmudreeetr:::txtsize
+Tnlmtauodrta:::txtsize --> Tngaunsedrnd:::txtsize
+WYresemhiD:::txtsize --> Vgnyrtecafefl:::txtsize
+Vgnyrtecafefl:::txtsize --> Matkicloeel:::txtsize
+Matkicloeel:::txtsize --> Maygwtaoatmnurutt:::txtsize
+Matkicloeel:::txtsize --> Matgenryoi:::txtsize
+Vgnyrtecafefl:::txtsize --> Cidsmngayrt:::txtsize
+Cidsmngayrt:::txtsize --> Matkicloeel:::txtsize
+Cidsmngayrt:::txtsize --> SloyMaene:::txtsize
+
+Zsltirtsimke@{ shape: win-pane, label: "_Published Dec 28, 2025, 05:24 AM_
+Zelensky talks with allies en route to us as russia pummels ukraine" }
 RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
 Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
 Zsmrnnidscmk@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:08 PM_
@@ -78,82 +118,36 @@ RaUnkoelUcn@{ shape: win-pane, label: "_Published Dec 27, 2025, 02:34 AM_
 Russia says ukraine seeking to ‘torpedo’ talks on us peace plan" }
 RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
 Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
+Pskehtcc@{ shape: win-pane, label: "_Published Dec 28, 2025, 02:34 AM_
+Putin says ukraine in no hurry to reach peace" }
 RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
 Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
 Zsmrnnidscmk@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:08 PM_
 Zelensky to meet trump on dec 28 in florida to discuss peace framework" }
-Unlydprstowren@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:43 PM_
-Ukraine’s zelensky says draft plan freezes front line, opens way for concessions" }
-PiaucbnrrprkeRt@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:59 PM_
-Putin indicated russia could be open to territory swop as part of ukraine deal: report" }
 Rarnkoaudhntp@{ shape: win-pane, label: "_Published Dec 27, 2025, 05:25 PM_
 Russian barrage on kyiv kills one, leaves hundreds of thousands without power" }
-RaUnkoelUcn@{ shape: win-pane, label: "_Published Dec 27, 2025, 02:34 AM_
-Russia says ukraine seeking to ‘torpedo’ talks on us peace plan" }
 RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
 Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
+Zsmrnnidscmk@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:08 PM_
+Zelensky to meet trump on dec 28 in florida to discuss peace framework" }
+Rarnkoaudhntp@{ shape: win-pane, label: "_Published Dec 27, 2025, 05:25 PM_
+Russian barrage on kyiv kills one, leaves hundreds of thousands without power" }
 
-Pskehtccnrt:::txtsize --> RanssdieZsue:::txtsize
+Zsltirtsimke:::txtsize --> RanssdieZsue:::txtsize
 RanssdieZsue:::txtsize --> Zsmrnnidscmk:::txtsize
 Zsmrnnidscmk:::txtsize --> Unlydprstowren:::txtsize
 Zsmrnnidscmk:::txtsize --> PiaucbnrrprkeRt:::txtsize
 RanssdieZsue:::txtsize --> Rarnkoaudhntp:::txtsize
 Rarnkoaudhntp:::txtsize --> RaUnkoelUcn:::txtsize
 Rarnkoaudhntp:::txtsize --> RanssdieZsue:::txtsize
-Pskehtccnrt:::txtsize --> RanssdieZsue:::txtsize
+Zsltirtsimke:::txtsize --> Pskehtcc:::txtsize
+Pskehtcc:::txtsize --> RanssdieZsue:::txtsize
 RanssdieZsue:::txtsize --> Zsmrnnidscmk:::txtsize
-Zsmrnnidscmk:::txtsize --> Unlydprstowren:::txtsize
-Zsmrnnidscmk:::txtsize --> PiaucbnrrprkeRt:::txtsize
 RanssdieZsue:::txtsize --> Rarnkoaudhntp:::txtsize
-Rarnkoaudhntp:::txtsize --> RaUnkoelUcn:::txtsize
-Rarnkoaudhntp:::txtsize --> RanssdieZsue:::txtsize
-
-AsdrGmui@{ shape: win-pane, label: "_Published Dec 28, 2025, 02:14 AM_
-At least 15 dead, 19 injured in guatemala bus accident" }
-AslVaeou@{ shape: win-pane, label: "_Published Dec 27, 2025, 12:24 PM_
-At least 7 killed in vietnam after bus overturns" }
-dndhespphoy@{ shape: win-pane, label: "_Published Dec 27, 2025, 09:54 AM_
-2 dead, 26 injured in 67-vehicle expressway pile-up north-west of tokyo" }
-ieulnkpwlSpna@{ shape: win-pane, label: "_Published Apr 06, 2025, 10:10 AM_
-47 injured in bus collision on tokyo expressway; at least 1 singaporean on board" }
-Snswtsltio@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:00 AM_
-Season’s first snowfall throws seoul into traffic chaos" }
-Ssisatstsdi@{ shape: win-pane, label: "_Published Dec 27, 2025, 02:52 PM_
-Spanish family missing after tourist boat sinks in indonesia" }
-EkdrldysdihR@{ shape: win-pane, label: "_Published Nov 15, 2025, 11:55 AM_
-Eight killed after overloaded ferry sinks in indonesia’s mahakam river" }
-digrysydil@{ shape: win-pane, label: "_Published Jul 03, 2025, 09:06 AM_
-4 dead, 30 missing after ferry sinks on way to indonesia’s bali" }
-Ieuslca@{ shape: win-pane, label: "_Published Dec 22, 2025, 11:45 AM_
-Indonesia bus crash kills 16, rescuer says" }
-ieaunushNJtmro@{ shape: win-pane, label: "_Published Dec 11, 2025, 04:50 PM_
-21 injured as car ploughs into students, teacher at north jakarta elementary school" }
-Ieraejufoiytc@{ shape: win-pane, label: "_Published Nov 12, 2025, 08:17 PM_
-Indonesia free meal scheme major cause of food poisoning, says govt official" }
-EkdrldysdihR@{ shape: win-pane, label: "_Published Nov 15, 2025, 11:55 AM_
-Eight killed after overloaded ferry sinks in indonesia’s mahakam river" }
-Fheiiiicnnsa@{ shape: win-pane, label: "_Published Nov 14, 2025, 03:21 PM_
-Five chinese tourists killed in minibus accident in indonesia’s bali" }
-Tinneennitltd@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:34 PM_
-Two chinese nationals dead, one indonesian missing after bali boat accident" }
-TslbaeIeB@{ shape: win-pane, label: "_Published Mar 22, 2025, 01:50 PM_
-Tourist killed as boat capsizes off indonesia’s bali" }
-
-AsdrGmui:::txtsize --> AslVaeou:::txtsize
-AslVaeou:::txtsize --> dndhespphoy:::txtsize
-dndhespphoy:::txtsize --> ieulnkpwlSpna:::txtsize
-dndhespphoy:::txtsize --> Snswtsltio:::txtsize
-AslVaeou:::txtsize --> Ssisatstsdi:::txtsize
-Ssisatstsdi:::txtsize --> EkdrldysdihR:::txtsize
-Ssisatstsdi:::txtsize --> digrysydil:::txtsize
-AsdrGmui:::txtsize --> Ieuslca:::txtsize
-Ieuslca:::txtsize --> ieaunushNJtmro:::txtsize
-ieaunushNJtmro:::txtsize --> Ieraejufoiytc:::txtsize
-ieaunushNJtmro:::txtsize --> EkdrldysdihR:::txtsize
-Ieuslca:::txtsize --> Fheiiiicnnsa:::txtsize
-Fheiiiicnnsa:::txtsize --> Tinneennitltd:::txtsize
-Fheiiiicnnsa:::txtsize --> TslbaeIeB:::txtsize
+Pskehtcc:::txtsize --> RanssdieZsue:::txtsize
+RanssdieZsue:::txtsize --> Zsmrnnidscmk:::txtsize
+RanssdieZsue:::txtsize --> Rarnkoaudhntp:::txtsize
 
 ```
-<i>Last updated: 2025-12-28 04:00:38.150639 (GMT+8)</i>
+<i>Last updated: 2025-12-28 08:01:03.236345 (GMT+8)</i>
 <!-- END -->
