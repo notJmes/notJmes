@@ -16,117 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+TNyouxsaa@{ shape: win-pane, label: "_Published Dec 29, 2025, 07:05 AM_
+Trump, netanyahu to discuss next phase of gaza plan" }
+NyoTieeafa@{ shape: win-pane, label: "_Published Dec 27, 2025, 10:42 PM_
+Netanyahu to meet trump in us next week: israeli official" }
+HsonsGrhscnii@{ shape: win-pane, label: "_Published Dec 09, 2025, 10:23 PM_
+Hamas says no second phase for gaza truce while israel ‘continues violations’" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
+Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Pgoihfcfge@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:53 AM_
+Pm wong welcomes first phase of gaza ceasefire agreement" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
+Israel marks oct 7 anniversary as talks are held to end gaza war" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+Hatmzcnhodro@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:11 PM_
+Hamas accepts trump’s gaza peace plan, but the bloodshed is far from over" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+
+TNyouxsaa:::txtsize --> NyoTieeafa:::txtsize
+NyoTieeafa:::txtsize --> HsonsGrhscnii:::txtsize
+HsonsGrhscnii:::txtsize --> Tdrcaaededlncbs:::txtsize
+HsonsGrhscnii:::txtsize --> NyeeawHakl:::txtsize
+NyoTieeafa:::txtsize --> Iliaeseoewa:::txtsize
+Iliaeseoewa:::txtsize --> TssHaossaaorslaoe:::txtsize
+Iliaeseoewa:::txtsize --> Pgoihfcfge:::txtsize
+TNyouxsaa:::txtsize --> TssHaossaaorslaoe:::txtsize
+TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
+Ilsnrakhoar:::txtsize --> Sbsrcdnacaale:::txtsize
+Ilsnrakhoar:::txtsize --> Hatmzcnhodro:::txtsize
+TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+
+Tskecrokutlyi@{ shape: win-pane, label: "_Published Dec 29, 2025, 07:03 AM_
+Trump says ukraine deal closer but no breakthrough after zelensky meeting" }
+Zsmrnirsrpp@{ shape: win-pane, label: "_Published Dec 28, 2025, 01:05 PM_
+Zelensky to meet trump in florida for talks on ukraine peace plan" }
+RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
+Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
+Zsmrnnidscmk@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:08 PM_
+Zelensky to meet trump on dec 28 in florida to discuss peace framework" }
+Rarnkoaudhntp@{ shape: win-pane, label: "_Published Dec 27, 2025, 05:25 PM_
+Russian barrage on kyiv kills one, leaves hundreds of thousands without power" }
+Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
+Trump’s 28-point ukraine plan" }
+Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
+Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
+Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
+Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
 Tsadvkhnrem@{ shape: win-pane, label: "_Published Dec 29, 2025, 02:09 AM_
 Trump says has 'productive' talks with putin before zelensky meet" }
 RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
 Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
 Zsmrnnidscmk@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:08 PM_
 Zelensky to meet trump on dec 28 in florida to discuss peace framework" }
-Unlydprstowren@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:43 PM_
-Ukraine’s zelensky says draft plan freezes front line, opens way for concessions" }
-PiaucbnrrprkeRt@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:59 PM_
-Putin indicated russia could be open to territory swop as part of ukraine deal: report" }
 Rarnkoaudhntp@{ shape: win-pane, label: "_Published Dec 27, 2025, 05:25 PM_
 Russian barrage on kyiv kills one, leaves hundreds of thousands without power" }
-RaUnkoelUcn@{ shape: win-pane, label: "_Published Dec 27, 2025, 02:34 AM_
-Russia says ukraine seeking to ‘torpedo’ talks on us peace plan" }
-RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
-Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
 Psuwcekebcyeaa@{ shape: win-pane, label: "_Published Dec 28, 2025, 02:34 AM_
 Putin says russia will achieve its ukraine aims by force if kyiv doesn’t want peace" }
+RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
+Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
+Zsmrnirsrpp@{ shape: win-pane, label: "_Published Dec 28, 2025, 01:05 PM_
+Zelensky to meet trump in florida for talks on ukraine peace plan" }
+
+Tskecrokutlyi:::txtsize --> Zsmrnirsrpp:::txtsize
+Zsmrnirsrpp:::txtsize --> RanssdieZsue:::txtsize
+RanssdieZsue:::txtsize --> Zsmrnnidscmk:::txtsize
+RanssdieZsue:::txtsize --> Rarnkoaudhntp:::txtsize
+Zsmrnirsrpp:::txtsize --> Tstia:::txtsize
+Tstia:::txtsize --> Zsarskbdaosb:::txtsize
+Tstia:::txtsize --> Zsarskbdaosb:::txtsize
+Tskecrokutlyi:::txtsize --> Tsadvkhnrem:::txtsize
+Tsadvkhnrem:::txtsize --> RanssdieZsue:::txtsize
+RanssdieZsue:::txtsize --> Zsmrnnidscmk:::txtsize
+RanssdieZsue:::txtsize --> Rarnkoaudhntp:::txtsize
+Tsadvkhnrem:::txtsize --> Psuwcekebcyeaa:::txtsize
+Psuwcekebcyeaa:::txtsize --> RanssdieZsue:::txtsize
+Psuwcekebcyeaa:::txtsize --> Zsmrnirsrpp:::txtsize
+
+WYresemhiD@{ shape: win-pane, label: "_Published Dec 29, 2025, 06:00 AM_
+While you were sleeping: 5 stories you might have missed, dec 29, 2025" }
+Tsadvkhnrem@{ shape: win-pane, label: "_Published Dec 29, 2025, 02:09 AM_
+Trump says has 'productive' talks with putin before zelensky meet" }
 RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
 Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
 Zsmrnnidscmk@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:08 PM_
 Zelensky to meet trump on dec 28 in florida to discuss peace framework" }
 Rarnkoaudhntp@{ shape: win-pane, label: "_Published Dec 27, 2025, 05:25 PM_
 Russian barrage on kyiv kills one, leaves hundreds of thousands without power" }
-Zsmrnirsrpp@{ shape: win-pane, label: "_Published Dec 28, 2025, 01:05 PM_
-Zelensky to meet trump in florida for talks on ukraine peace plan" }
+Psuwcekebcyeaa@{ shape: win-pane, label: "_Published Dec 28, 2025, 02:34 AM_
+Putin says russia will achieve its ukraine aims by force if kyiv doesn’t want peace" }
 RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
 Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
-Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
-Trump’s 28-point ukraine plan" }
+Zsmrnirsrpp@{ shape: win-pane, label: "_Published Dec 28, 2025, 01:05 PM_
+Zelensky to meet trump in florida for talks on ukraine peace plan" }
+Oamnorieo@{ shape: win-pane, label: "_Published Dec 29, 2025, 12:27 AM_
+One dead, two missing in southern spain after flooding" }
+Oaioefsdeu@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:55 AM_
+One year on, victim of valencia floods found buried in mud" }
+Ssoleranie@{ shape: win-pane, label: "_Published Oct 31, 2024, 01:40 AM_
+Spanish floods kill 95 as year of rain falls in a day in valencia" }
+Ssrsotnrseprsc@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:18 AM_
+Spain suffers fresh floods as torrential rains strike, trapping drivers amid ‘chaos’" }
+Hrffseharoan@{ shape: win-pane, label: "_Published Dec 27, 2025, 09:06 AM_
+Heavy rains, flash floods leave southern california homes caked in mud" }
+Hrllhln@{ shape: win-pane, label: "_Published Dec 26, 2025, 06:45 AM_
+Heavy rain, flash floods hit california" }
+Apcrcoerreao@{ shape: win-pane, label: "_Published Dec 25, 2025, 07:29 AM_
+Atmospheric river drenches los angeles, triggers widespread flooding" }
 
+WYresemhiD:::txtsize --> Tsadvkhnrem:::txtsize
 Tsadvkhnrem:::txtsize --> RanssdieZsue:::txtsize
 RanssdieZsue:::txtsize --> Zsmrnnidscmk:::txtsize
-Zsmrnnidscmk:::txtsize --> Unlydprstowren:::txtsize
-Zsmrnnidscmk:::txtsize --> PiaucbnrrprkeRt:::txtsize
 RanssdieZsue:::txtsize --> Rarnkoaudhntp:::txtsize
-Rarnkoaudhntp:::txtsize --> RaUnkoelUcn:::txtsize
-Rarnkoaudhntp:::txtsize --> RanssdieZsue:::txtsize
 Tsadvkhnrem:::txtsize --> Psuwcekebcyeaa:::txtsize
 Psuwcekebcyeaa:::txtsize --> RanssdieZsue:::txtsize
-RanssdieZsue:::txtsize --> Zsmrnnidscmk:::txtsize
-RanssdieZsue:::txtsize --> Rarnkoaudhntp:::txtsize
 Psuwcekebcyeaa:::txtsize --> Zsmrnirsrpp:::txtsize
-Zsmrnirsrpp:::txtsize --> RanssdieZsue:::txtsize
-Zsmrnirsrpp:::txtsize --> Tstia:::txtsize
-
-Iauselssfu@{ shape: win-pane, label: "_Published Dec 29, 2025, 12:48 AM_
-Iran says launches three satellites into space from russia" }
-Deacssarixs@{ shape: win-pane, label: "_Published Jun 14, 2025, 04:24 AM_
-Damage to iran’s nuclear sites so far appears limited, experts say" }
-TtIodirsdelmutt@{ shape: win-pane, label: "_Published Jun 13, 2025, 08:20 AM_
-Trump tells iran to ‘make deal’ with israel as world leaders call for ‘maximum restraint’" }
-IamrnaetlIli@{ shape: win-pane, label: "_Published Jun 13, 2025, 04:29 PM_
-Iranian commanders and nuclear scientists killed in israeli strikes" }
-AIlintdantsoee@{ shape: win-pane, label: "_Published Jun 13, 2025, 05:50 PM_
-After israel’s strikes on iran, the middle east confronts prospect of more violence" }
-TtIodirsdelmutt@{ shape: win-pane, label: "_Published Jun 13, 2025, 08:20 AM_
-Trump tells iran to ‘make deal’ with israel as world leaders call for ‘maximum restraint’" }
-
-Iauselssfu:::txtsize --> Deacssarixs:::txtsize
-Deacssarixs:::txtsize --> TtIodirsdelmutt:::txtsize
-TtIodirsdelmutt:::txtsize --> IamrnaetlIli:::txtsize
-Deacssarixs:::txtsize --> AIlintdantsoee:::txtsize
-AIlintdantsoee:::txtsize --> TtIodirsdelmutt:::txtsize
-
-IleroWawea@{ shape: win-pane, label: "_Published Dec 29, 2025, 12:39 AM_
-Israel army ends crackdown on west bank town after attack" }
-Ilsaivgenedt@{ shape: win-pane, label: "_Published Dec 28, 2025, 03:44 AM_
-Israel seals off palestinian village in west bank after deadly attack" }
-Ptnsagagela@{ shape: win-pane, label: "_Published Dec 26, 2025, 08:30 PM_
-Palestinian kills 2 in stabbing and ramming, israeli police say" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-Iletvlosapnen@{ shape: win-pane, label: "_Published Dec 26, 2025, 07:14 PM_
-Israeli reservist rams vehicle into palestinian man praying in west bank" }
-Iletvlosapnen@{ shape: win-pane, label: "_Published Dec 26, 2025, 07:14 PM_
-Israeli reservist rams vehicle into palestinian man praying in west bank" }
-Ilttieeibes@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:00 AM_
-Israeli settler attack injures palestinian baby, five arrested" }
-Ilsmvtauyis@{ shape: win-pane, label: "_Published Dec 24, 2025, 09:38 PM_
-Israel accuses hamas of violating gaza truce, says it will respond" }
-Ilsaivgenedt@{ shape: win-pane, label: "_Published Dec 28, 2025, 03:44 AM_
-Israel seals off palestinian village in west bank after deadly attack" }
-Ptnsagagela@{ shape: win-pane, label: "_Published Dec 26, 2025, 08:30 PM_
-Palestinian kills 2 in stabbing and ramming, israeli police say" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-Iletvlosapnen@{ shape: win-pane, label: "_Published Dec 26, 2025, 07:14 PM_
-Israeli reservist rams vehicle into palestinian man praying in west bank" }
-Iletvlosapnen@{ shape: win-pane, label: "_Published Dec 26, 2025, 07:14 PM_
-Israeli reservist rams vehicle into palestinian man praying in west bank" }
-Ilttieeibes@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:00 AM_
-Israeli settler attack injures palestinian baby, five arrested" }
-Ilsmvtauyis@{ shape: win-pane, label: "_Published Dec 24, 2025, 09:38 PM_
-Israel accuses hamas of violating gaza truce, says it will respond" }
-
-IleroWawea:::txtsize --> Ilsaivgenedt:::txtsize
-Ilsaivgenedt:::txtsize --> Ptnsagagela:::txtsize
-Ptnsagagela:::txtsize --> Sbsrcdnacaale:::txtsize
-Ptnsagagela:::txtsize --> Iletvlosapnen:::txtsize
-Ilsaivgenedt:::txtsize --> Iletvlosapnen:::txtsize
-Iletvlosapnen:::txtsize --> Ilttieeibes:::txtsize
-Iletvlosapnen:::txtsize --> Ilsmvtauyis:::txtsize
-IleroWawea:::txtsize --> Ilsaivgenedt:::txtsize
-Ilsaivgenedt:::txtsize --> Ptnsagagela:::txtsize
-Ptnsagagela:::txtsize --> Sbsrcdnacaale:::txtsize
-Ptnsagagela:::txtsize --> Iletvlosapnen:::txtsize
-Ilsaivgenedt:::txtsize --> Iletvlosapnen:::txtsize
-Iletvlosapnen:::txtsize --> Ilttieeibes:::txtsize
-Iletvlosapnen:::txtsize --> Ilsmvtauyis:::txtsize
+WYresemhiD:::txtsize --> Oamnorieo:::txtsize
+Oamnorieo:::txtsize --> Oaioefsdeu:::txtsize
+Oaioefsdeu:::txtsize --> Ssoleranie:::txtsize
+Oaioefsdeu:::txtsize --> Ssrsotnrseprsc:::txtsize
+Oamnorieo:::txtsize --> Hrffseharoan:::txtsize
+Hrffseharoan:::txtsize --> Hrllhln:::txtsize
+Hrffseharoan:::txtsize --> Apcrcoerreao:::txtsize
 
 ```
-<i>Last updated: 2025-12-29 04:00:22.893511 (GMT+8)</i>
+<i>Last updated: 2025-12-29 08:00:48.830204 (GMT+8)</i>
 <!-- END -->
