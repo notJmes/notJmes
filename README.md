@@ -16,6 +16,16 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+ScnrilnhsiEo@{ shape: win-pane, label: "_Published Dec 29, 2025, 09:45 AM_
+Six, including 2-year-old girl, killed in beachside shooting in ecuador" }
+Ieeioupnan@{ shape: win-pane, label: "_Published Sep 26, 2025, 01:22 AM_
+Inmates beheaded in second ecuador prison massacre in days" }
+EostrgtstntVi@{ shape: win-pane, label: "_Published Jan 10, 2024, 04:20 PM_
+Ecuador president orders gangs ‘neutralised’ after gunmen storm tv studio" }
+
+ScnrilnhsiEo:::txtsize --> Ieeioupnan:::txtsize
+Ieeioupnan:::txtsize --> EostrgtstntVi:::txtsize
+
 TNyouxsaa@{ shape: win-pane, label: "_Published Dec 29, 2025, 07:05 AM_
 Trump, netanyahu to discuss next phase of gaza plan" }
 NyoTieeafa@{ shape: win-pane, label: "_Published Dec 27, 2025, 10:42 PM_
@@ -108,52 +118,6 @@ Tsadvkhnrem:::txtsize --> Psuwcekebcyeaa:::txtsize
 Psuwcekebcyeaa:::txtsize --> RanssdieZsue:::txtsize
 Psuwcekebcyeaa:::txtsize --> Zsmrnirsrpp:::txtsize
 
-WYresemhiD@{ shape: win-pane, label: "_Published Dec 29, 2025, 06:00 AM_
-While you were sleeping: 5 stories you might have missed, dec 29, 2025" }
-Tsadvkhnrem@{ shape: win-pane, label: "_Published Dec 29, 2025, 02:09 AM_
-Trump says has 'productive' talks with putin before zelensky meet" }
-RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
-Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
-Zsmrnnidscmk@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:08 PM_
-Zelensky to meet trump on dec 28 in florida to discuss peace framework" }
-Rarnkoaudhntp@{ shape: win-pane, label: "_Published Dec 27, 2025, 05:25 PM_
-Russian barrage on kyiv kills one, leaves hundreds of thousands without power" }
-Psuwcekebcyeaa@{ shape: win-pane, label: "_Published Dec 28, 2025, 02:34 AM_
-Putin says russia will achieve its ukraine aims by force if kyiv doesn’t want peace" }
-RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
-Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
-Zsmrnirsrpp@{ shape: win-pane, label: "_Published Dec 28, 2025, 01:05 PM_
-Zelensky to meet trump in florida for talks on ukraine peace plan" }
-Oamnorieo@{ shape: win-pane, label: "_Published Dec 29, 2025, 12:27 AM_
-One dead, two missing in southern spain after flooding" }
-Oaioefsdeu@{ shape: win-pane, label: "_Published Oct 25, 2025, 05:55 AM_
-One year on, victim of valencia floods found buried in mud" }
-Ssoleranie@{ shape: win-pane, label: "_Published Oct 31, 2024, 01:40 AM_
-Spanish floods kill 95 as year of rain falls in a day in valencia" }
-Ssrsotnrseprsc@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:18 AM_
-Spain suffers fresh floods as torrential rains strike, trapping drivers amid ‘chaos’" }
-Hrffseharoan@{ shape: win-pane, label: "_Published Dec 27, 2025, 09:06 AM_
-Heavy rains, flash floods leave southern california homes caked in mud" }
-Hrllhln@{ shape: win-pane, label: "_Published Dec 26, 2025, 06:45 AM_
-Heavy rain, flash floods hit california" }
-Apcrcoerreao@{ shape: win-pane, label: "_Published Dec 25, 2025, 07:29 AM_
-Atmospheric river drenches los angeles, triggers widespread flooding" }
-
-WYresemhiD:::txtsize --> Tsadvkhnrem:::txtsize
-Tsadvkhnrem:::txtsize --> RanssdieZsue:::txtsize
-RanssdieZsue:::txtsize --> Zsmrnnidscmk:::txtsize
-RanssdieZsue:::txtsize --> Rarnkoaudhntp:::txtsize
-Tsadvkhnrem:::txtsize --> Psuwcekebcyeaa:::txtsize
-Psuwcekebcyeaa:::txtsize --> RanssdieZsue:::txtsize
-Psuwcekebcyeaa:::txtsize --> Zsmrnirsrpp:::txtsize
-WYresemhiD:::txtsize --> Oamnorieo:::txtsize
-Oamnorieo:::txtsize --> Oaioefsdeu:::txtsize
-Oaioefsdeu:::txtsize --> Ssoleranie:::txtsize
-Oaioefsdeu:::txtsize --> Ssrsotnrseprsc:::txtsize
-Oamnorieo:::txtsize --> Hrffseharoan:::txtsize
-Hrffseharoan:::txtsize --> Hrllhln:::txtsize
-Hrffseharoan:::txtsize --> Apcrcoerreao:::txtsize
-
 ```
-<i>Last updated: 2025-12-29 08:00:48.830204 (GMT+8)</i>
+<i>Last updated: 2025-12-29 12:01:14.537501 (GMT+8)</i>
 <!-- END -->
