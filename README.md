@@ -16,108 +16,126 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-ScnrilnhsiEo@{ shape: win-pane, label: "_Published Dec 29, 2025, 09:45 AM_
-Six, including 2-year-old girl, killed in beachside shooting in ecuador" }
-Ieeioupnan@{ shape: win-pane, label: "_Published Sep 26, 2025, 01:22 AM_
-Inmates beheaded in second ecuador prison massacre in days" }
-EostrgtstntVi@{ shape: win-pane, label: "_Published Jan 10, 2024, 04:20 PM_
-Ecuador president orders gangs ‘neutralised’ after gunmen storm tv studio" }
+Gnktamsus@{ shape: win-pane, label: "_Published Dec 31, 2025, 12:49 AM_
+Germany bank heist nets about $45m in cash, valuables" }
+Leaaeliuyvstlt@{ shape: win-pane, label: "_Published Dec 23, 2025, 08:22 PM_
+Louvre installs bars over gallery window used by thieves in sensational heist" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
+‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
+Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
+Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
+Leudecafexdrl@{ shape: win-pane, label: "_Published Nov 19, 2025, 06:53 PM_
+Louvre museum to add 100 external cameras by 2026 after heist exposed security flaws" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+Coievitecjs@{ shape: win-pane, label: "_Published Oct 31, 2025, 07:06 PM_
+Count of paris urges louvre thieves to ‘give us back our jewels’" }
+cerfietepeTnv@{ shape: win-pane, label: "_Published Nov 13, 2025, 01:45 PM_
+3 charged over stuffed animal heist at amusement park seen in tom hanks movie" }
+Scseloitluau@{ shape: win-pane, label: "_Published Nov 11, 2025, 10:16 PM_
+Six ancient statues stolen from syria’s national museum of damascus" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Leulytsisturs@{ shape: win-pane, label: "_Published Nov 06, 2025, 05:30 PM_
+Louvre museum will need years to fix security issues, state auditor finds" }
 
-ScnrilnhsiEo:::txtsize --> Ieeioupnan:::txtsize
-Ieeioupnan:::txtsize --> EostrgtstntVi:::txtsize
+Gnktamsus:::txtsize --> Leaaeliuyvstlt:::txtsize
+Leaaeliuyvstlt:::txtsize --> Ptineluiisey:::txtsize
+Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
+Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
+Leaaeliuyvstlt:::txtsize --> Leudecafexdrl:::txtsize
+Leudecafexdrl:::txtsize --> Ptineluiisey:::txtsize
+Leudecafexdrl:::txtsize --> Coievitecjs:::txtsize
+Gnktamsus:::txtsize --> cerfietepeTnv:::txtsize
+cerfietepeTnv:::txtsize --> Scseloitluau:::txtsize
+Scseloitluau:::txtsize --> SnltiARahtoy:::txtsize
+Scseloitluau:::txtsize --> Leulytsisturs:::txtsize
 
-TNyouxsaa@{ shape: win-pane, label: "_Published Dec 29, 2025, 07:05 AM_
-Trump, netanyahu to discuss next phase of gaza plan" }
-NyoTieeafa@{ shape: win-pane, label: "_Published Dec 27, 2025, 10:42 PM_
-Netanyahu to meet trump in us next week: israeli official" }
-HsonsGrhscnii@{ shape: win-pane, label: "_Published Dec 09, 2025, 10:23 PM_
-Hamas says no second phase for gaza truce while israel ‘continues violations’" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
+GutnrtfonsCacos@{ shape: win-pane, label: "_Published Dec 31, 2025, 12:09 AM_
+Gaza humanitarian deterioration of serious concern, say uk, canada, france and others" }
+SrrlfirbrlGs@{ shape: win-pane, label: "_Published Dec 28, 2025, 09:55 PM_
+‘shivering from cold and fear’: winter rains batter displaced gazans" }
 Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
 Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
 TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
 Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
 Pgoihfcfge@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:53 AM_
 Pm wong welcomes first phase of gaza ceasefire agreement" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
-Israel marks oct 7 anniversary as talks are held to end gaza war" }
+Fhgczptpors@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:55 PM_
+Fuel shortage forces gaza hospital to suspend most services" }
+Ptnsagagela@{ shape: win-pane, label: "_Published Dec 26, 2025, 08:30 PM_
+Palestinian kills 2 in stabbing and ramming, israeli police say" }
+Ilttieeibes@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:00 AM_
+Israeli settler attack injures palestinian baby, five arrested" }
+Fhgczptpors@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:55 PM_
+Fuel shortage forces gaza hospital to suspend most services" }
+Ptnsagagela@{ shape: win-pane, label: "_Published Dec 26, 2025, 08:30 PM_
+Palestinian kills 2 in stabbing and ramming, israeli police say" }
 Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
 ‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-Hatmzcnhodro@{ shape: win-pane, label: "_Published Oct 04, 2025, 05:11 PM_
-Hamas accepts trump’s gaza peace plan, but the bloodshed is far from over" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
+Iletvlosapnen@{ shape: win-pane, label: "_Published Dec 26, 2025, 07:14 PM_
+Israeli reservist rams vehicle into palestinian man praying in west bank" }
+Ilttieeibes@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:00 AM_
+Israeli settler attack injures palestinian baby, five arrested" }
+Hrhotciakxais@{ shape: win-pane, label: "_Published Dec 24, 2025, 05:24 PM_
+How israel’s hilltop settlers coordinate attacks to expel palestinians" }
+Siecsyoafoenlnit@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:16 PM_
+S’pore imposes sanctions, entry bans on 4 israelis for violence against palestinians in west bank" }
 
-TNyouxsaa:::txtsize --> NyoTieeafa:::txtsize
-NyoTieeafa:::txtsize --> HsonsGrhscnii:::txtsize
-HsonsGrhscnii:::txtsize --> Tdrcaaededlncbs:::txtsize
-HsonsGrhscnii:::txtsize --> NyeeawHakl:::txtsize
-NyoTieeafa:::txtsize --> Iliaeseoewa:::txtsize
+GutnrtfonsCacos:::txtsize --> SrrlfirbrlGs:::txtsize
+SrrlfirbrlGs:::txtsize --> Iliaeseoewa:::txtsize
 Iliaeseoewa:::txtsize --> TssHaossaaorslaoe:::txtsize
 Iliaeseoewa:::txtsize --> Pgoihfcfge:::txtsize
-TNyouxsaa:::txtsize --> TssHaossaaorslaoe:::txtsize
-TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
-Ilsnrakhoar:::txtsize --> Sbsrcdnacaale:::txtsize
-Ilsnrakhoar:::txtsize --> Hatmzcnhodro:::txtsize
-TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+SrrlfirbrlGs:::txtsize --> Fhgczptpors:::txtsize
+Fhgczptpors:::txtsize --> Ptnsagagela:::txtsize
+Fhgczptpors:::txtsize --> Ilttieeibes:::txtsize
+GutnrtfonsCacos:::txtsize --> Fhgczptpors:::txtsize
+Fhgczptpors:::txtsize --> Ptnsagagela:::txtsize
+Ptnsagagela:::txtsize --> Sbsrcdnacaale:::txtsize
+Ptnsagagela:::txtsize --> Iletvlosapnen:::txtsize
+Fhgczptpors:::txtsize --> Ilttieeibes:::txtsize
+Ilttieeibes:::txtsize --> Hrhotciakxais:::txtsize
+Ilttieeibes:::txtsize --> Siecsyoafoenlnit:::txtsize
 
-Tskecrokutlyi@{ shape: win-pane, label: "_Published Dec 29, 2025, 07:03 AM_
-Trump says ukraine deal closer but no breakthrough after zelensky meeting" }
-Zsmrnirsrpp@{ shape: win-pane, label: "_Published Dec 28, 2025, 01:05 PM_
-Zelensky to meet trump in florida for talks on ukraine peace plan" }
-RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
-Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
-Zsmrnnidscmk@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:08 PM_
-Zelensky to meet trump on dec 28 in florida to discuss peace framework" }
-Rarnkoaudhntp@{ shape: win-pane, label: "_Published Dec 27, 2025, 05:25 PM_
-Russian barrage on kyiv kills one, leaves hundreds of thousands without power" }
-Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
-Trump’s 28-point ukraine plan" }
-Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
-Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
-Zsarskbdaosb@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:17 AM_
-Zelensky ready for ‘honest’ work on us-backed plan as europeans push back" }
-Tsadvkhnrem@{ shape: win-pane, label: "_Published Dec 29, 2025, 02:09 AM_
-Trump says has 'productive' talks with putin before zelensky meet" }
-RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
-Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
-Zsmrnnidscmk@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:08 PM_
-Zelensky to meet trump on dec 28 in florida to discuss peace framework" }
-Rarnkoaudhntp@{ shape: win-pane, label: "_Published Dec 27, 2025, 05:25 PM_
-Russian barrage on kyiv kills one, leaves hundreds of thousands without power" }
-Psuwcekebcyeaa@{ shape: win-pane, label: "_Published Dec 28, 2025, 02:34 AM_
-Putin says russia will achieve its ukraine aims by force if kyiv doesn’t want peace" }
-RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
-Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
-Zsmrnirsrpp@{ shape: win-pane, label: "_Published Dec 28, 2025, 01:05 PM_
-Zelensky to meet trump in florida for talks on ukraine peace plan" }
+Sinevaicai@{ shape: win-pane, label: "_Published Dec 30, 2025, 11:34 PM_
+Shootings in sweden halved in 2025 as police tackle gang crime" }
+Snseepl@{ shape: win-pane, label: "_Published May 01, 2025, 01:53 AM_
+Sweden arrests teen after triple killing" }
+Tpeehnwpe@{ shape: win-pane, label: "_Published Apr 30, 2025, 01:27 AM_
+Three people killed in shooting in sweden, police say" }
+Gneslaisifrioo@{ shape: win-pane, label: "_Published Feb 05, 2025, 03:58 PM_
+Gunman in swedish school massacre likely shot himself after killing 10 people: police" }
+Snsnabasuenme@{ shape: win-pane, label: "_Published Jan 29, 2025, 07:59 PM_
+Sweden eyes sending inmates abroad as prisons full due to gang crime wave" }
+Snscordcnimsaoe@{ shape: win-pane, label: "_Published Dec 19, 2024, 12:12 AM_
+Sweden wants police to monitor children’s communications, amid rise in gang violence" }
+Snicegitnciuo@{ shape: win-pane, label: "_Published Dec 10, 2024, 12:22 AM_
+Sweden mulling social media age limit to stop gangs recruiting young people" }
+Aaaslaolu@{ shape: win-pane, label: "_Published Nov 28, 2024, 08:33 PM_
+Australia passes social media ban for children under 16" }
+Sndgrapbynrlam@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:32 PM_
+Sweden to reduce age of criminal responsibility as gangs hire children as hitmen" }
+Hxclrhegtnl@{ shape: win-pane, label: "_Published May 28, 2025, 06:04 PM_
+How mexico’s cartels recruit children and groom them into killers" }
+TsSgoirr@{ shape: win-pane, label: "_Published Mar 05, 2025, 08:00 PM_
+Trump says us to 'wage war' on mexican drug cartels" }
+MowcUaihias@{ shape: win-pane, label: "_Published Feb 20, 2025, 11:07 PM_
+Mexico says won’t accept us ‘invasion’ in fight against cartels" }
 
-Tskecrokutlyi:::txtsize --> Zsmrnirsrpp:::txtsize
-Zsmrnirsrpp:::txtsize --> RanssdieZsue:::txtsize
-RanssdieZsue:::txtsize --> Zsmrnnidscmk:::txtsize
-RanssdieZsue:::txtsize --> Rarnkoaudhntp:::txtsize
-Zsmrnirsrpp:::txtsize --> Tstia:::txtsize
-Tstia:::txtsize --> Zsarskbdaosb:::txtsize
-Tstia:::txtsize --> Zsarskbdaosb:::txtsize
-Tskecrokutlyi:::txtsize --> Tsadvkhnrem:::txtsize
-Tsadvkhnrem:::txtsize --> RanssdieZsue:::txtsize
-RanssdieZsue:::txtsize --> Zsmrnnidscmk:::txtsize
-RanssdieZsue:::txtsize --> Rarnkoaudhntp:::txtsize
-Tsadvkhnrem:::txtsize --> Psuwcekebcyeaa:::txtsize
-Psuwcekebcyeaa:::txtsize --> RanssdieZsue:::txtsize
-Psuwcekebcyeaa:::txtsize --> Zsmrnirsrpp:::txtsize
+Sinevaicai:::txtsize --> Snseepl:::txtsize
+Snseepl:::txtsize --> Tpeehnwpe:::txtsize
+Tpeehnwpe:::txtsize --> Gneslaisifrioo:::txtsize
+Tpeehnwpe:::txtsize --> Snsnabasuenme:::txtsize
+Snseepl:::txtsize --> Snscordcnimsaoe:::txtsize
+Snscordcnimsaoe:::txtsize --> Snicegitnciuo:::txtsize
+Snscordcnimsaoe:::txtsize --> Aaaslaolu:::txtsize
+Sinevaicai:::txtsize --> Sndgrapbynrlam:::txtsize
+Sndgrapbynrlam:::txtsize --> Hxclrhegtnl:::txtsize
+Hxclrhegtnl:::txtsize --> TsSgoirr:::txtsize
+Hxclrhegtnl:::txtsize --> MowcUaihias:::txtsize
 
 ```
-<i>Last updated: 2025-12-29 12:01:14.537501 (GMT+8)</i>
+<i>Last updated: 2025-12-31 01:01:09.923246 (GMT+8)</i>
 <!-- END -->
