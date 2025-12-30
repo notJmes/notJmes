@@ -16,6 +16,31 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+OnsaiVueeoes@{ shape: win-pane, label: "_Published Dec 31, 2025, 03:09 AM_
+Oil tankers still arriving in venezuela despite us blockade, data shows" }
+Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
+Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
+TenurneCbVuo@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:52 PM_
+Trump eyes anti-drug operations in mexico, colombia as venezuela looms" }
+Siurymeoarnolu@{ shape: win-pane, label: "_Published Dec 06, 2025, 02:26 AM_
+Sweeping trump strategy document seeks to reframe us’ role in the world, slams europe" }
+Uirdotoeramzsho@{ shape: win-pane, label: "_Published Dec 02, 2025, 04:09 AM_
+Us admiral ordered follow-up strike on alleged drug boat from venezuela, says white house" }
+VulScpifromlMo@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:49 AM_
+Venezuela slams us attack preparations after trump confirms call with maduro" }
+Tsicvsugztliee@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:19 PM_
+Trump says airspace above and surrounding venezuela to be closed in its entirety" }
+UgVuMoceoyRllk@{ shape: win-pane, label: "_Published Dec 01, 2025, 05:07 AM_
+Us has given venezuela’s maduro chance to leave country, says republican lawmaker" }
+
+OnsaiVueeoes:::txtsize --> Uzlecoeapageo:::txtsize
+Uzlecoeapageo:::txtsize --> TenurneCbVuo:::txtsize
+TenurneCbVuo:::txtsize --> Siurymeoarnolu:::txtsize
+TenurneCbVuo:::txtsize --> Uirdotoeramzsho:::txtsize
+Uzlecoeapageo:::txtsize --> VulScpifromlMo:::txtsize
+VulScpifromlMo:::txtsize --> Tsicvsugztliee:::txtsize
+VulScpifromlMo:::txtsize --> UgVuMoceoyRllk:::txtsize
+
 Gnktamsus@{ shape: win-pane, label: "_Published Dec 31, 2025, 12:49 AM_
 Germany bank heist nets about $45m in cash, valuables" }
 Leaaeliuyvstlt@{ shape: win-pane, label: "_Published Dec 23, 2025, 08:22 PM_
@@ -99,43 +124,6 @@ Fhgczptpors:::txtsize --> Ilttieeibes:::txtsize
 Ilttieeibes:::txtsize --> Hrhotciakxais:::txtsize
 Ilttieeibes:::txtsize --> Siecsyoafoenlnit:::txtsize
 
-Sinevaicai@{ shape: win-pane, label: "_Published Dec 30, 2025, 11:34 PM_
-Shootings in sweden halved in 2025 as police tackle gang crime" }
-Snseepl@{ shape: win-pane, label: "_Published May 01, 2025, 01:53 AM_
-Sweden arrests teen after triple killing" }
-Tpeehnwpe@{ shape: win-pane, label: "_Published Apr 30, 2025, 01:27 AM_
-Three people killed in shooting in sweden, police say" }
-Gneslaisifrioo@{ shape: win-pane, label: "_Published Feb 05, 2025, 03:58 PM_
-Gunman in swedish school massacre likely shot himself after killing 10 people: police" }
-Snsnabasuenme@{ shape: win-pane, label: "_Published Jan 29, 2025, 07:59 PM_
-Sweden eyes sending inmates abroad as prisons full due to gang crime wave" }
-Snscordcnimsaoe@{ shape: win-pane, label: "_Published Dec 19, 2024, 12:12 AM_
-Sweden wants police to monitor children’s communications, amid rise in gang violence" }
-Snicegitnciuo@{ shape: win-pane, label: "_Published Dec 10, 2024, 12:22 AM_
-Sweden mulling social media age limit to stop gangs recruiting young people" }
-Aaaslaolu@{ shape: win-pane, label: "_Published Nov 28, 2024, 08:33 PM_
-Australia passes social media ban for children under 16" }
-Sndgrapbynrlam@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:32 PM_
-Sweden to reduce age of criminal responsibility as gangs hire children as hitmen" }
-Hxclrhegtnl@{ shape: win-pane, label: "_Published May 28, 2025, 06:04 PM_
-How mexico’s cartels recruit children and groom them into killers" }
-TsSgoirr@{ shape: win-pane, label: "_Published Mar 05, 2025, 08:00 PM_
-Trump says us to 'wage war' on mexican drug cartels" }
-MowcUaihias@{ shape: win-pane, label: "_Published Feb 20, 2025, 11:07 PM_
-Mexico says won’t accept us ‘invasion’ in fight against cartels" }
-
-Sinevaicai:::txtsize --> Snseepl:::txtsize
-Snseepl:::txtsize --> Tpeehnwpe:::txtsize
-Tpeehnwpe:::txtsize --> Gneslaisifrioo:::txtsize
-Tpeehnwpe:::txtsize --> Snsnabasuenme:::txtsize
-Snseepl:::txtsize --> Snscordcnimsaoe:::txtsize
-Snscordcnimsaoe:::txtsize --> Snicegitnciuo:::txtsize
-Snscordcnimsaoe:::txtsize --> Aaaslaolu:::txtsize
-Sinevaicai:::txtsize --> Sndgrapbynrlam:::txtsize
-Sndgrapbynrlam:::txtsize --> Hxclrhegtnl:::txtsize
-Hxclrhegtnl:::txtsize --> TsSgoirr:::txtsize
-Hxclrhegtnl:::txtsize --> MowcUaihias:::txtsize
-
 ```
-<i>Last updated: 2025-12-31 01:01:09.923246 (GMT+8)</i>
+<i>Last updated: 2025-12-31 04:00:35.602140 (GMT+8)</i>
 <!-- END -->
