@@ -16,138 +16,111 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Fastlspeee@{ shape: win-pane, label: "_Published Dec 31, 2025, 07:35 PM_
-From battleships to buildings: trump’s name is everywhere" }
-Tsatnefeace@{ shape: win-pane, label: "_Published Dec 20, 2025, 08:59 AM_
-Trump’s name added to kennedy center facade, a day after change" }
-TnCrdsdpsdnk@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:34 AM_
-The kennedy center board votes to add ‘trump’ to its name, drawing backlash" }
-TteeaohotvKdt@{ shape: win-pane, label: "_Published Feb 08, 2025, 09:30 AM_
-Trump to make himself head of top washington cultural venue kennedy centre" }
-Tperoneisioh@{ shape: win-pane, label: "_Published Mar 18, 2025, 12:15 PM_
-Trump pledges overhaul of kennedy centre in first visit as board chair" }
-Niuaakpoidsu@{ shape: win-pane, label: "_Published Dec 18, 2025, 05:45 AM_
-New white house plaques attack trump’s democratic predecessors, bush" }
-TsoastneRrols@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:14 AM_
-Trump’s approval rating slips to 39%, economy weighs, reuters/ipsos poll finds" }
-Thcirlhffesiblr@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:34 AM_
-Trump has ‘alcoholic’s personality’, chief of staff susie wiles says in bombshell interview" }
-TsatnuPaocli@{ shape: win-pane, label: "_Published Dec 04, 2025, 08:45 AM_
-Trump’s name added to us institute of peace ahead of peace deal signing" }
-Tthptcurtm@{ shape: win-pane, label: "_Published Aug 21, 2025, 02:57 AM_
-Trump touts his diplomatic record, but the results are mixed" }
-CPdoTwelee@{ shape: win-pane, label: "_Published Jul 09, 2025, 05:22 AM_
-Can us president donald trump win the nobel peace prize?" }
-TaneetAaam@{ shape: win-pane, label: "_Published Aug 09, 2025, 05:01 AM_
-Trump announces peace deal between azerbaijan and armenia" }
-RaoiaaSdtttst@{ shape: win-pane, label: "_Published Jun 28, 2025, 02:51 AM_
-Rwanda and congo sign peace deal in us to end fighting, attract investment" }
-TcrCRaegstlee@{ shape: win-pane, label: "_Published Jun 21, 2025, 09:40 AM_
-Trump confirms dr congo-rwanda peace deal, gripes about nobel peace prize snub" }
+Fnzilrsfutbbele@{ shape: win-pane, label: "_Published Dec 31, 2025, 11:58 PM_
+Finland seizes ship sailing from russia after suspected cable sabotage in baltic sea" }
+Notlyenifwutbedae@{ shape: win-pane, label: "_Published Dec 26, 2024, 11:46 PM_
+Nato to bolster military presence in baltic sea following suspected sabotage of undersea cable" }
+FnooaiaBcd@{ shape: win-pane, label: "_Published Dec 25, 2024, 09:59 PM_
+Finland-estonia power cable hit in latest baltic incident" }
+Eetdnshdcbten@{ shape: win-pane, label: "_Published Nov 19, 2024, 10:02 PM_
+European nations denounce russian hybrid attacks, cable cut probes launched" }
+EsunhCspricsed@{ shape: win-pane, label: "_Published Nov 28, 2024, 10:51 AM_
+Eu vessels surround anchored chinese ship after baltic sea cables are severed" }
+Skleokusnde@{ shape: win-pane, label: "_Published Dec 17, 2024, 03:10 AM_
+Stricken oil tankers show risks of russia’s ageing ‘shadow fleet’" }
+Raklnmliohi@{ shape: win-pane, label: "_Published Dec 15, 2024, 11:35 PM_
+Russian tanker splits in storm, spilling oil into kerch strait" }
+ZsysdyorrriKrn@{ shape: win-pane, label: "_Published Dec 14, 2024, 11:25 PM_
+Zelensky says russia is deploying more north korean troops in its kursk region" }
+Epebortra@{ shape: win-pane, label: "_Published Feb 21, 2025, 10:37 PM_
+Eu to spend nearly $1.4 billion to protect undersea cables" }
+SnstsecaSb@{ shape: win-pane, label: "_Published Feb 21, 2025, 05:40 PM_
+Sweden investigates possible breach of baltic sea cable" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+NyeoihieaSilao@{ shape: win-pane, label: "_Published Jan 31, 2025, 08:44 PM_
+Norway seizes second ship, with russian crew, in baltic sea amid cable damage probe" }
+FnwnbentraaU@{ shape: win-pane, label: "_Published Feb 18, 2025, 01:30 PM_
+Fishing trawlers, not sabotage, behind most undersea cable damage: un" }
+Notipntdarrabn@{ shape: win-pane, label: "_Published Dec 28, 2024, 12:41 AM_
+Nato to boost baltic sea presence after undersea power, internet cables broken" }
+NyeoihieaSilao@{ shape: win-pane, label: "_Published Jan 31, 2025, 08:44 PM_
+Norway seizes second ship, with russian crew, in baltic sea amid cable damage probe" }
 
-Fastlspeee:::txtsize --> Tsatnefeace:::txtsize
-Tsatnefeace:::txtsize --> TnCrdsdpsdnk:::txtsize
-TnCrdsdpsdnk:::txtsize --> TteeaohotvKdt:::txtsize
-TnCrdsdpsdnk:::txtsize --> Tperoneisioh:::txtsize
-Tsatnefeace:::txtsize --> Niuaakpoidsu:::txtsize
-Niuaakpoidsu:::txtsize --> TsoastneRrols:::txtsize
-Niuaakpoidsu:::txtsize --> Thcirlhffesiblr:::txtsize
-Fastlspeee:::txtsize --> TsatnuPaocli:::txtsize
-TsatnuPaocli:::txtsize --> Tthptcurtm:::txtsize
-Tthptcurtm:::txtsize --> CPdoTwelee:::txtsize
-Tthptcurtm:::txtsize --> TaneetAaam:::txtsize
-TsatnuPaocli:::txtsize --> RaoiaaSdtttst:::txtsize
-RaoiaaSdtttst:::txtsize --> TcrCRaegstlee:::txtsize
+Fnzilrsfutbbele:::txtsize --> Notlyenifwutbedae:::txtsize
+Notlyenifwutbedae:::txtsize --> FnooaiaBcd:::txtsize
+FnooaiaBcd:::txtsize --> Eetdnshdcbten:::txtsize
+FnooaiaBcd:::txtsize --> EsunhCspricsed:::txtsize
+Notlyenifwutbedae:::txtsize --> Skleokusnde:::txtsize
+Skleokusnde:::txtsize --> Raklnmliohi:::txtsize
+Skleokusnde:::txtsize --> ZsysdyorrriKrn:::txtsize
+Fnzilrsfutbbele:::txtsize --> Epebortra:::txtsize
+Epebortra:::txtsize --> SnstsecaSb:::txtsize
+SnstsecaSb:::txtsize --> DsruasvUn:::txtsize
+SnstsecaSb:::txtsize --> NyeoihieaSilao:::txtsize
+Epebortra:::txtsize --> FnwnbentraaU:::txtsize
+FnwnbentraaU:::txtsize --> Notipntdarrabn:::txtsize
+FnwnbentraaU:::txtsize --> NyeoihieaSilao:::txtsize
 
-Etylnirerrcrahnp@{ shape: win-pane, label: "_Published Dec 31, 2025, 06:45 PM_
-Eurostar says full train service to resume after power glitch sparks travel chaos in europe" }
-Etssnneeeoro@{ shape: win-pane, label: "_Published Dec 30, 2025, 08:41 PM_
-Eurostar suspends channel tunnel services after ‘major disruption’" }
-Ctitnsssrc@{ shape: win-pane, label: "_Published Jun 25, 2025, 07:29 PM_
-Cable theft in north france disrupts eurostar traffic" }
-EtauiodFfe@{ shape: win-pane, label: "_Published Jun 11, 2025, 07:04 AM_
-Eurostar plans 5-hour trains from london to frankfurt, geneva" }
-Pnsxinauaip@{ shape: win-pane, label: "_Published Jan 24, 2024, 11:32 AM_
-Passengers snub ‘expensive’ london-paris eurostar train for plane" }
-Ctitnsssrc@{ shape: win-pane, label: "_Published Jun 25, 2025, 07:29 PM_
-Cable theft in north france disrupts eurostar traffic" }
-EtauiodFfe@{ shape: win-pane, label: "_Published Jun 11, 2025, 07:04 AM_
-Eurostar plans 5-hour trains from london to frankfurt, geneva" }
-Pnsxinauaip@{ shape: win-pane, label: "_Published Jan 24, 2024, 11:32 AM_
-Passengers snub ‘expensive’ london-paris eurostar train for plane" }
-Eiaruilet@{ shape: win-pane, label: "_Published Oct 12, 2025, 11:19 AM_
-Eu begins gradual roll-out of digital border system" }
-BinumogIwrellgo@{ shape: win-pane, label: "_Published Sep 26, 2025, 02:42 PM_
-Britain to introduce compulsory digital id for workers to deter illegal immigration" }
-Bisictotmho@{ shape: win-pane, label: "_Published Aug 24, 2025, 09:45 AM_
-Britain’s mass facial recognition roll-out alarms rights groups" }
-ThnealmeEerdnrnt@{ shape: win-pane, label: "_Published Jun 12, 2025, 06:20 PM_
-The schengen agreement at 40: will free movement in europe endure amid rising migrant antipathy?" }
-Bisictotmho@{ shape: win-pane, label: "_Published Aug 24, 2025, 09:45 AM_
-Britain’s mass facial recognition roll-out alarms rights groups" }
-Lncesiceit@{ shape: win-pane, label: "_Published Dec 07, 2024, 03:32 AM_
-London police make 500 arrests using facial recognition tech" }
-Flgohibeinhler@{ shape: win-pane, label: "_Published Dec 05, 2023, 10:05 AM_
-Facial recognition tech reunites abducted boy in china with family after 25 years" }
+Raaioeagvaestent@{ shape: win-pane, label: "_Published Dec 31, 2025, 11:44 PM_
+Russia releases video footage to challenge kyiv over alleged presidential residence attack" }
+ZsserrckeT@{ shape: win-pane, label: "_Published Dec 31, 2025, 02:19 AM_
+Zelensky discusses us troop presence in ukraine with trump" }
+Tskecrokutlyi@{ shape: win-pane, label: "_Published Dec 29, 2025, 07:03 AM_
+Trump says ukraine deal closer but no breakthrough after zelensky meeting" }
+Zsmrnirsrpp@{ shape: win-pane, label: "_Published Dec 28, 2025, 01:05 PM_
+Zelensky to meet trump in florida for talks on ukraine peace plan" }
+Tsadvkhnrem@{ shape: win-pane, label: "_Published Dec 29, 2025, 02:09 AM_
+Trump says has 'productive' talks with putin before zelensky meet" }
+Ueyasiaely@{ shape: win-pane, label: "_Published Dec 29, 2025, 09:18 PM_
+Us offered kyiv 15 years of security guarantees: zelensky" }
+RaUnkoelUcn@{ shape: win-pane, label: "_Published Dec 27, 2025, 02:34 AM_
+Russia says ukraine seeking to ‘torpedo’ talks on us peace plan" }
+RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
+Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
+UOystsctkecure@{ shape: win-pane, label: "_Published Dec 31, 2025, 03:39 AM_
+Us nato envoy casts doubt on russian claim that ukraine attacked putin’s residence" }
+RaUnaPsKahieiaf@{ shape: win-pane, label: "_Published Dec 29, 2025, 11:40 PM_
+Russia says ukraine attacked putin’s home; kyiv calls this a ‘lie’ undermining peace efforts" }
+RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
+Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
+Ueyasiaely@{ shape: win-pane, label: "_Published Dec 29, 2025, 09:18 PM_
+Us offered kyiv 15 years of security guarantees: zelensky" }
+Woouscttkecuen@{ shape: win-pane, label: "_Published Dec 30, 2025, 07:39 PM_
+What do we know about russia’s accusations that ukraine attacked putin residence?" }
+RaUnaPsKahieiaf@{ shape: win-pane, label: "_Published Dec 29, 2025, 11:40 PM_
+Russia says ukraine attacked putin’s home; kyiv calls this a ‘lie’ undermining peace efforts" }
+Tvnbldcure@{ shape: win-pane, label: "_Published Dec 30, 2025, 04:10 AM_
+Trump ‘very angry’ about alleged attack on putin’s residence" }
 
-Etylnirerrcrahnp:::txtsize --> Etssnneeeoro:::txtsize
-Etssnneeeoro:::txtsize --> Ctitnsssrc:::txtsize
-Ctitnsssrc:::txtsize --> EtauiodFfe:::txtsize
-Ctitnsssrc:::txtsize --> Pnsxinauaip:::txtsize
-Etssnneeeoro:::txtsize --> Ctitnsssrc:::txtsize
-Ctitnsssrc:::txtsize --> EtauiodFfe:::txtsize
-Ctitnsssrc:::txtsize --> Pnsxinauaip:::txtsize
-Etylnirerrcrahnp:::txtsize --> Eiaruilet:::txtsize
-Eiaruilet:::txtsize --> BinumogIwrellgo:::txtsize
-BinumogIwrellgo:::txtsize --> Bisictotmho:::txtsize
-BinumogIwrellgo:::txtsize --> ThnealmeEerdnrnt:::txtsize
-Eiaruilet:::txtsize --> Bisictotmho:::txtsize
-Bisictotmho:::txtsize --> Lncesiceit:::txtsize
-Bisictotmho:::txtsize --> Flgohibeinhler:::txtsize
+Raaioeagvaestent:::txtsize --> ZsserrckeT:::txtsize
+ZsserrckeT:::txtsize --> Tskecrokutlyi:::txtsize
+Tskecrokutlyi:::txtsize --> Zsmrnirsrpp:::txtsize
+Tskecrokutlyi:::txtsize --> Tsadvkhnrem:::txtsize
+ZsserrckeT:::txtsize --> Ueyasiaely:::txtsize
+Ueyasiaely:::txtsize --> RaUnkoelUcn:::txtsize
+Ueyasiaely:::txtsize --> RanssdieZsue:::txtsize
+Raaioeagvaestent:::txtsize --> UOystsctkecure:::txtsize
+UOystsctkecure:::txtsize --> RaUnaPsKahieiaf:::txtsize
+RaUnaPsKahieiaf:::txtsize --> RanssdieZsue:::txtsize
+RaUnaPsKahieiaf:::txtsize --> Ueyasiaely:::txtsize
+UOystsctkecure:::txtsize --> Woouscttkecuen:::txtsize
+Woouscttkecuen:::txtsize --> RaUnaPsKahieiaf:::txtsize
+Woouscttkecuen:::txtsize --> Tvnbldcure:::txtsize
 
-QClcsgubaer@{ shape: win-pane, label: "_Published Dec 31, 2025, 05:54 PM_
-Queen camilla describes being assaulted by man as a teenager" }
-Binrannriisa@{ shape: win-pane, label: "_Published Dec 25, 2025, 11:04 PM_
-Britain’s king charles lauds unity in diversity in christmas message" }
-Bihlotipaelid@{ shape: win-pane, label: "_Published Oct 24, 2025, 10:25 PM_
-Britain pushes allies to boost ukraine support as zelensky lands in london" }
-EsnbnUndozsas@{ shape: win-pane, label: "_Published Oct 23, 2025, 11:00 PM_
-Eu vows financial backing for ukraine, holds off on frozen russian assets plan" }
-Ucsilrrionitncr@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:27 PM_
-Us sanctions russian oil majors over ukraine, prompting india jitters and moscow fury" }
-KhsLaeiasanth@{ shape: win-pane, label: "_Published Oct 23, 2025, 06:17 PM_
-King charles, pope leo pray together in a 500-year first in vatican’s sistine chapel" }
-UdPscooimat@{ shape: win-pane, label: "_Published May 09, 2025, 12:09 AM_
-Us cardinal prevost elected pope leo xiv, first american pontiff" }
-Wanrsfeytffecnd@{ shape: win-pane, label: "_Published Oct 03, 2025, 05:12 PM_
-Woman appointed archbishop of canterbury a historic first for the church of england" }
-DtfCetnjofrav@{ shape: win-pane, label: "_Published Dec 25, 2025, 08:54 PM_
-Daughters of king charles’ brother andrew join royals for christmas service" }
-Binrtberrtssm@{ shape: win-pane, label: "_Published Oct 31, 2025, 03:36 AM_
-Britain’s king charles strips brother andrew of royal titles, windsor home" }
-Vnumroeieryin@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:12 PM_
-Virginia giuffre memoir goes on sale, heaping fresh scrutiny on prince andrew" }
-Biinastiifeal@{ shape: win-pane, label: "_Published Feb 16, 2022, 12:22 AM_
-Britain's prince andrew agrees to settle virginia giuffre sex assault claim" }
-Weatwldorhc@{ shape: win-pane, label: "_Published Oct 31, 2025, 11:05 AM_
-What we know about the downfall of andrew, born a british prince" }
-Vnumroeieryin@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:12 PM_
-Virginia giuffre memoir goes on sale, heaping fresh scrutiny on prince andrew" }
+MnaaNryeo@{ shape: win-pane, label: "_Published Dec 31, 2025, 08:44 PM_
+Mamdani's inauguration: new york, new year, new mayor" }
+Mntshul@{ shape: win-pane, label: "_Published Nov 07, 2025, 05:00 AM_
+Mamdani and the rise of the populist left" }
+HhaiTbdemek@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:08 PM_
+How zohran mamdani beat trump-backed andrew cuomo in new york" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
 
-QClcsgubaer:::txtsize --> Binrannriisa:::txtsize
-Binrannriisa:::txtsize --> Bihlotipaelid:::txtsize
-Bihlotipaelid:::txtsize --> EsnbnUndozsas:::txtsize
-Bihlotipaelid:::txtsize --> Ucsilrrionitncr:::txtsize
-Binrannriisa:::txtsize --> KhsLaeiasanth:::txtsize
-KhsLaeiasanth:::txtsize --> UdPscooimat:::txtsize
-KhsLaeiasanth:::txtsize --> Wanrsfeytffecnd:::txtsize
-QClcsgubaer:::txtsize --> DtfCetnjofrav:::txtsize
-DtfCetnjofrav:::txtsize --> Binrtberrtssm:::txtsize
-Binrtberrtssm:::txtsize --> Vnumroeieryin:::txtsize
-Binrtberrtssm:::txtsize --> Biinastiifeal:::txtsize
-DtfCetnjofrav:::txtsize --> Weatwldorhc:::txtsize
-Weatwldorhc:::txtsize --> Vnumroeieryin:::txtsize
+MnaaNryeo:::txtsize --> Mntshul:::txtsize
+Mntshul:::txtsize --> HhaiTbdemek:::txtsize
+HhaiTbdemek:::txtsize --> YMmnoihaiYilehpea:::txtsize
 
 ```
-<i>Last updated: 2025-12-31 20:00:30.105991 (GMT+8)</i>
+<i>Last updated: 2026-01-01 00:00:53.498410 (GMT+8)</i>
 <!-- END -->
