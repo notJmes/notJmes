@@ -16,141 +16,129 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Rnmteseoed@{ shape: win-pane, label: "_Published Dec 31, 2025, 11:45 AM_
-Regional temperature records broken across the world in 2025" }
-Aoevtfncaano@{ shape: win-pane, label: "_Published Aug 14, 2025, 08:10 AM_
-As europe’s heatwaves intensify, france bickers about air-conditioning" }
-Eeaeetiste@{ shape: win-pane, label: "_Published Jul 09, 2025, 12:42 PM_
-European heatwave caused 2,300 deaths, scientists estimate" }
-Harulsalmmthc@{ shape: win-pane, label: "_Published Jul 03, 2025, 01:05 AM_
-Heatwave across europe leaves 8 dead as early summer temperatures hit records" }
-Aohurhdaecr@{ shape: win-pane, label: "_Published Jul 08, 2025, 06:41 PM_
-Acropolis shuts, outdoor work halted as heatwave scorches greece" }
-Sshrrnnolds@{ shape: win-pane, label: "_Published Aug 14, 2025, 04:33 AM_
-Spain seeks help from european partners to tackle wildfires" }
-kdrnfatissadeasc@{ shape: win-pane, label: "_Published Aug 13, 2025, 07:39 AM_
-3 killed in european wildfires as heatwave intensifies with above 40 deg c temperatures expected" }
-WicGesdhnae@{ shape: win-pane, label: "_Published Aug 13, 2025, 04:38 PM_
-Wildfires scorch greece for a second day, thousands evacuated" }
-Scwintsasa@{ shape: win-pane, label: "_Published Aug 26, 2025, 10:45 PM_
-Spain calls wildfires one of its worst disasters in years" }
-Wicmeep@{ shape: win-pane, label: "_Published Aug 19, 2025, 04:45 PM_
-Wildfires scorch 30,000 more hectares in spain" }
-Sbeoehvbnotee@{ shape: win-pane, label: "_Published Aug 15, 2025, 05:24 PM_
-Spain battles 14 major fires with ‘unfavourable conditions’ set to fuel more" }
-Sbeodsshepmr@{ shape: win-pane, label: "_Published Aug 18, 2025, 02:15 AM_
-Spain battles 20 major wildfires amid scorching heat, deploys more troops" }
-Emtsegehntcdt@{ shape: win-pane, label: "_Published May 30, 2025, 04:08 PM_
-Extreme heatwaves are getting longer and hitting the tropics hardest: study" }
-Cefnraeasfae@{ shape: win-pane, label: "_Published May 29, 2025, 06:00 PM_
-Cool relief for singapore on may 29 as temperatures dip after warm spell" }
-Nnaeolitiootahes@{ shape: win-pane, label: "_Published Apr 04, 2025, 12:00 PM_
-National heatwave response plan a signal that singapore should start taking heat seriously" }
+TMeypodumhTr@{ shape: win-pane, label: "_Published Dec 31, 2025, 02:57 PM_
+Trump mobile delays shipment of gold-coloured smartphone, ft reports" }
+TOioeoriube@{ shape: win-pane, label: "_Published Jun 16, 2025, 09:37 PM_
+Trump organisation enters phone market with $638 trump mobile device" }
+Tumsgnyrtmonoln@{ shape: win-pane, label: "_Published Apr 13, 2025, 09:30 AM_
+The trump family is going all in on crypto projects, from bitcoin mining to stablecoins" }
+TMtiosyoMniF@{ shape: win-pane, label: "_Published Mar 25, 2025, 09:18 AM_
+Trump media taps singapore-based crypto.com for made-in-america etfs" }
+Humucohyanr@{ shape: win-pane, label: "_Published Jan 12, 2025, 10:00 AM_
+How trump came around to crypto – and what crypto wants in return" }
+Tbanydhrd@{ shape: win-pane, label: "_Published Mar 22, 2025, 10:38 AM_
+Trump brand alternately loved, loathed worldwide" }
+TspoifiErreicmo@{ shape: win-pane, label: "_Published Feb 05, 2025, 08:40 PM_
+Trump’s gaza plan for ‘riviera of the middle east’ triggers international condemnation" }
+IeaepoasTpr@{ shape: win-pane, label: "_Published Feb 07, 2025, 05:48 PM_
+Indonesia halts development of estate hosting trump properties" }
+UecectnDom@{ shape: win-pane, label: "_Published Dec 03, 2025, 10:40 AM_
+Us wireless carrier at&t commits to ending dei programmes" }
+Utedsfsplageeh@{ shape: win-pane, label: "_Published Jan 22, 2025, 05:18 PM_
+Us govt workers in diversity offices to be put on leave as programmes ordered shut" }
+TcioirdsGi@{ shape: win-pane, label: "_Published Jan 21, 2025, 10:16 AM_
+Trump curtails protections around diversity, lgbtq rights" }
+TcioirdsGi@{ shape: win-pane, label: "_Published Jan 21, 2025, 10:16 AM_
+Trump curtails protections around diversity, lgbtq rights" }
+MSeiiiegpftoeia@{ shape: win-pane, label: "_Published Oct 17, 2025, 08:50 AM_
+More us universities join mit in rejecting trump’s preferential college funding plan" }
+TosoeftugrtM@{ shape: win-pane, label: "_Published Oct 14, 2025, 08:00 AM_
+Trump offers all colleges preferential funding plan rejected by mit" }
+BUrrtiuasaat@{ shape: win-pane, label: "_Published Oct 16, 2025, 07:00 AM_
+Brown university rejects a white house deal for special treatment" }
 
-Rnmteseoed:::txtsize --> Aoevtfncaano:::txtsize
-Aoevtfncaano:::txtsize --> Eeaeetiste:::txtsize
-Eeaeetiste:::txtsize --> Harulsalmmthc:::txtsize
-Eeaeetiste:::txtsize --> Aohurhdaecr:::txtsize
-Aoevtfncaano:::txtsize --> Sshrrnnolds:::txtsize
-Sshrrnnolds:::txtsize --> kdrnfatissadeasc:::txtsize
-Sshrrnnolds:::txtsize --> WicGesdhnae:::txtsize
-Rnmteseoed:::txtsize --> Scwintsasa:::txtsize
-Scwintsasa:::txtsize --> Wicmeep:::txtsize
-Wicmeep:::txtsize --> Sbeoehvbnotee:::txtsize
-Wicmeep:::txtsize --> Sbeodsshepmr:::txtsize
-Scwintsasa:::txtsize --> Emtsegehntcdt:::txtsize
-Emtsegehntcdt:::txtsize --> Cefnraeasfae:::txtsize
-Emtsegehntcdt:::txtsize --> Nnaeolitiootahes:::txtsize
+TMeypodumhTr:::txtsize --> TOioeoriube:::txtsize
+TOioeoriube:::txtsize --> Tumsgnyrtmonoln:::txtsize
+Tumsgnyrtmonoln:::txtsize --> TMtiosyoMniF:::txtsize
+Tumsgnyrtmonoln:::txtsize --> Humucohyanr:::txtsize
+TOioeoriube:::txtsize --> Tbanydhrd:::txtsize
+Tbanydhrd:::txtsize --> TspoifiErreicmo:::txtsize
+Tbanydhrd:::txtsize --> IeaepoasTpr:::txtsize
+TMeypodumhTr:::txtsize --> UecectnDom:::txtsize
+UecectnDom:::txtsize --> Utedsfsplageeh:::txtsize
+Utedsfsplageeh:::txtsize --> TcioirdsGi:::txtsize
+Utedsfsplageeh:::txtsize --> TcioirdsGi:::txtsize
+UecectnDom:::txtsize --> MSeiiiegpftoeia:::txtsize
+MSeiiiegpftoeia:::txtsize --> TosoeftugrtM:::txtsize
+MSeiiiegpftoeia:::txtsize --> BUrrtiuasaat:::txtsize
 
-Wbalyfpeti@{ shape: win-pane, label: "_Published Dec 31, 2025, 10:20 AM_
-World bids farewell to 2025, a year of trump, truces and turmoil" }
-Cdepletstft@{ shape: win-pane, label: "_Published Aug 12, 2025, 08:18 PM_
-‘cooked alive’: europe’s wildfires hit tourism spots and forests" }
-Emtsegehntcdt@{ shape: win-pane, label: "_Published May 30, 2025, 04:08 PM_
-Extreme heatwaves are getting longer and hitting the tropics hardest: study" }
-Cefnraeasfae@{ shape: win-pane, label: "_Published May 29, 2025, 06:00 PM_
-Cool relief for singapore on may 29 as temperatures dip after warm spell" }
-Nnaeolitiootahes@{ shape: win-pane, label: "_Published Apr 04, 2025, 12:00 PM_
-National heatwave response plan a signal that singapore should start taking heat seriously" }
-Firtrrnea@{ shape: win-pane, label: "_Published Aug 11, 2025, 07:52 PM_
-Firefighters battle ‘fire whirls’ in northern spain" }
-Wianotuco@{ shape: win-pane, label: "_Published Aug 08, 2025, 03:44 PM_
-Wildfire near spanish tourist town under control" }
-Eeeerhatoru@{ shape: win-pane, label: "_Published Aug 01, 2025, 06:03 PM_
-Europe braces itself for next heatwave after cool start to august" }
-DydSesmart@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:15 PM_
-Deadly floods hit south-east asia as more rain forecast" }
-Tasifrooirni@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:48 PM_
-Thailand to send aircraft carrier for flood relief as rain intensifies" }
-Taadrieeeisoveir@{ shape: win-pane, label: "_Published Nov 24, 2025, 04:37 PM_
-Thailand’s hat yai declared a disaster zone as it experiences the most severe deluge in 300 years" }
-HidltiiMsetclr@{ shape: win-pane, label: "_Published Nov 25, 2025, 01:19 PM_
-Hat yai floods deal blow to thai tourism as malaysians expected to cancel all trips" }
-HidltiiMsetclr@{ shape: win-pane, label: "_Published Nov 25, 2025, 01:19 PM_
-Hat yai floods deal blow to thai tourism as malaysians expected to cancel all trips" }
-Taadrieeeisoveir@{ shape: win-pane, label: "_Published Nov 24, 2025, 04:37 PM_
-Thailand’s hat yai declared a disaster zone as it experiences the most severe deluge in 300 years" }
-Hieflsrrroksmi@{ shape: win-pane, label: "_Published Nov 22, 2025, 03:49 PM_
-Hat yai issues ‘red-flag’ alert as 595mm of rain triggers flood risk across 103 communities" }
+Utilpotionw@{ shape: win-pane, label: "_Published Dec 31, 2025, 01:54 PM_
+Us doj to review 5.2 million pages of epstein files, document shows" }
+Dvflotatonlura@{ shape: win-pane, label: "_Published Dec 25, 2025, 03:54 AM_
+Discovery of a million more potential epstein documents delays further releases" }
+LflleedigpoltEia@{ shape: win-pane, label: "_Published Dec 24, 2025, 01:08 AM_
+‘love of nubile girls’: us releases card mentioning trump, purportedly sent from epstein to nassar" }
+EGsdryatdarasote@{ shape: win-pane, label: "_Published Jan 25, 2018, 01:37 AM_
+Ex-usa gymnastics doctor larry nassar sentenced to 175 years for sexual abuse of young athletes" }
+Tfnetseogpce@{ shape: win-pane, label: "_Published Dec 24, 2025, 01:08 AM_
+Trump flew on epstein jet 8 times in the 1990s, according to us prosecutor e-mail" }
+Titiaaoel@{ shape: win-pane, label: "_Published Dec 24, 2025, 08:02 AM_
+Trump in epstein files: 5 takeaways from latest release" }
+LflleedigpoltEia@{ shape: win-pane, label: "_Published Dec 24, 2025, 01:08 AM_
+‘love of nubile girls’: us releases card mentioning trump, purportedly sent from epstein to nassar" }
+Tfnetseogpce@{ shape: win-pane, label: "_Published Dec 24, 2025, 01:08 AM_
+Trump flew on epstein jet 8 times in the 1990s, according to us prosecutor e-mail" }
+LflleedigpoltEia@{ shape: win-pane, label: "_Published Dec 24, 2025, 01:08 AM_
+‘love of nubile girls’: us releases card mentioning trump, purportedly sent from epstein to nassar" }
+EGsdryatdarasote@{ shape: win-pane, label: "_Published Jan 25, 2018, 01:37 AM_
+Ex-usa gymnastics doctor larry nassar sentenced to 175 years for sexual abuse of young athletes" }
+Tfnetseogpce@{ shape: win-pane, label: "_Published Dec 24, 2025, 01:08 AM_
+Trump flew on epstein jet 8 times in the 1990s, according to us prosecutor e-mail" }
+AsEikctebuert@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:00 PM_
+At least 8,000 new epstein-linked documents released by us justice department" }
+LflleedigpoltEia@{ shape: win-pane, label: "_Published Dec 24, 2025, 01:08 AM_
+‘love of nubile girls’: us releases card mentioning trump, purportedly sent from epstein to nassar" }
 
-Wbalyfpeti:::txtsize --> Cdepletstft:::txtsize
-Cdepletstft:::txtsize --> Emtsegehntcdt:::txtsize
-Emtsegehntcdt:::txtsize --> Cefnraeasfae:::txtsize
-Emtsegehntcdt:::txtsize --> Nnaeolitiootahes:::txtsize
-Cdepletstft:::txtsize --> Firtrrnea:::txtsize
-Firtrrnea:::txtsize --> Wianotuco:::txtsize
-Firtrrnea:::txtsize --> Eeeerhatoru:::txtsize
-Wbalyfpeti:::txtsize --> DydSesmart:::txtsize
-DydSesmart:::txtsize --> Tasifrooirni:::txtsize
-Tasifrooirni:::txtsize --> Taadrieeeisoveir:::txtsize
-Tasifrooirni:::txtsize --> HidltiiMsetclr:::txtsize
-DydSesmart:::txtsize --> HidltiiMsetclr:::txtsize
-HidltiiMsetclr:::txtsize --> Taadrieeeisoveir:::txtsize
-HidltiiMsetclr:::txtsize --> Hieflsrrroksmi:::txtsize
+Utilpotionw:::txtsize --> Dvflotatonlura:::txtsize
+Dvflotatonlura:::txtsize --> LflleedigpoltEia:::txtsize
+LflleedigpoltEia:::txtsize --> EGsdryatdarasote:::txtsize
+LflleedigpoltEia:::txtsize --> Tfnetseogpce:::txtsize
+Dvflotatonlura:::txtsize --> Titiaaoel:::txtsize
+Titiaaoel:::txtsize --> LflleedigpoltEia:::txtsize
+Titiaaoel:::txtsize --> Tfnetseogpce:::txtsize
+Utilpotionw:::txtsize --> LflleedigpoltEia:::txtsize
+LflleedigpoltEia:::txtsize --> EGsdryatdarasote:::txtsize
+LflleedigpoltEia:::txtsize --> Tfnetseogpce:::txtsize
+Tfnetseogpce:::txtsize --> AsEikctebuert:::txtsize
+Tfnetseogpce:::txtsize --> LflleedigpoltEia:::txtsize
 
-TvaUlstamo@{ shape: win-pane, label: "_Published Dec 31, 2025, 10:05 AM_
-Trump v ‘obamacare’: us health costs set to soar for millions in 2026" }
-UsspcaalhCsel@{ shape: win-pane, label: "_Published Dec 18, 2025, 09:35 AM_
-Us house passes republican healthcare bill without aca subsidy renewal" }
-OcesdnSteune@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:20 AM_
-Obamacare health subsidy to end as us senate rejects duelling remedies" }
-Tsohgenanr@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:35 AM_
-Trump says money should go to people, not health insurers" }
-TtaOcsoeldid@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:20 AM_
-Trump takes aim at obamacare as historic federal shutdown hits 40th day" }
-PeipsTvsoaei@{ shape: win-pane, label: "_Published Dec 13, 2025, 06:39 PM_
-Pinched by higher prices, many trump voters say: don’t blame the president" }
-Tbsnncpini@{ shape: win-pane, label: "_Published Feb 13, 2025, 04:29 AM_
-Trump blames biden for unexpected uptick in us inflation" }
-OcesdnSteune@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:20 AM_
-Obamacare health subsidy to end as us senate rejects duelling remedies" }
-Tsohgenanr@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:35 AM_
-Trump says money should go to people, not health insurers" }
-Kdcdrnccoertae@{ shape: win-pane, label: "_Published Dec 08, 2025, 07:15 AM_
-Kennedy vaccine advisers ‘turned back the clock’ on disease prevention, say experts" }
-UniMaveelragop@{ shape: win-pane, label: "_Published Aug 01, 2025, 07:10 PM_
-Us plans medicare, medicaid coverage for weight-loss drugs, washington post reports" }
-TtaOcsoeldid@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:20 AM_
-Trump takes aim at obamacare as historic federal shutdown hits 40th day" }
-Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
-Us government shutdown becomes longest in history" }
-UajBoodwresdrd@{ shape: win-pane, label: "_Published Nov 08, 2025, 08:50 AM_
-Us senate rejects bill to restore federal worker pay, remains at odds over shutdown" }
+Taiteoueroir@{ shape: win-pane, label: "_Published Dec 31, 2025, 12:25 PM_
+Trump administration seizes on fraud case to target somali immigrants" }
+Wttragtlit@{ shape: win-pane, label: "_Published Dec 03, 2025, 07:40 AM_
+‘we don’t want them’: trump rages against somali immigrants" }
+Tuaarottiou@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:50 PM_
+Trump uses national guard shooting to cast suspicion on refugees" }
+TsniGmrstogi@{ shape: win-pane, label: "_Published Nov 28, 2025, 09:30 AM_
+Trump says one national guard member in washington shooting has died" }
+TvozrnTWcrfagt@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:11 PM_
+Trump vows to freeze migration from ‘third world countries’ after washington attack" }
+Tsedeaptrtfmina@{ shape: win-pane, label: "_Published Nov 22, 2025, 01:24 PM_
+Trump says he is ending temporary deportation protections for somalis in minnesota" }
+Tpoiraoitmecr@{ shape: win-pane, label: "_Published Nov 15, 2025, 08:54 AM_
+Trump plan could limit green cards for immigrants from travel ban countries" }
+Tseonsifeoe@{ shape: win-pane, label: "_Published Jun 08, 2025, 06:07 PM_
+Trump’s travel ban on 12 countries goes into effect early on june 9" }
+WosnalabfaTit@{ shape: win-pane, label: "_Published Dec 05, 2025, 07:11 PM_
+‘we’re not trash’: minnesota somalis fearful but defiant after trump insults" }
+Wttragtlit@{ shape: win-pane, label: "_Published Dec 03, 2025, 07:40 AM_
+‘we don’t want them’: trump rages against somali immigrants" }
+Tuaarottiou@{ shape: win-pane, label: "_Published Nov 28, 2025, 01:50 PM_
+Trump uses national guard shooting to cast suspicion on refugees" }
+Tsedeaptrtfmina@{ shape: win-pane, label: "_Published Nov 22, 2025, 01:24 PM_
+Trump says he is ending temporary deportation protections for somalis in minnesota" }
 
-TvaUlstamo:::txtsize --> UsspcaalhCsel:::txtsize
-UsspcaalhCsel:::txtsize --> OcesdnSteune:::txtsize
-OcesdnSteune:::txtsize --> Tsohgenanr:::txtsize
-OcesdnSteune:::txtsize --> TtaOcsoeldid:::txtsize
-UsspcaalhCsel:::txtsize --> PeipsTvsoaei:::txtsize
-PeipsTvsoaei:::txtsize --> Tbsnncpini:::txtsize
-TvaUlstamo:::txtsize --> OcesdnSteune:::txtsize
-OcesdnSteune:::txtsize --> Tsohgenanr:::txtsize
-Tsohgenanr:::txtsize --> Kdcdrnccoertae:::txtsize
-Tsohgenanr:::txtsize --> UniMaveelragop:::txtsize
-OcesdnSteune:::txtsize --> TtaOcsoeldid:::txtsize
-TtaOcsoeldid:::txtsize --> Uentbegno:::txtsize
-TtaOcsoeldid:::txtsize --> UajBoodwresdrd:::txtsize
+Taiteoueroir:::txtsize --> Wttragtlit:::txtsize
+Wttragtlit:::txtsize --> Tuaarottiou:::txtsize
+Tuaarottiou:::txtsize --> TsniGmrstogi:::txtsize
+Tuaarottiou:::txtsize --> TvozrnTWcrfagt:::txtsize
+Wttragtlit:::txtsize --> Tsedeaptrtfmina:::txtsize
+Tsedeaptrtfmina:::txtsize --> Tpoiraoitmecr:::txtsize
+Tsedeaptrtfmina:::txtsize --> Tseonsifeoe:::txtsize
+Taiteoueroir:::txtsize --> WosnalabfaTit:::txtsize
+WosnalabfaTit:::txtsize --> Wttragtlit:::txtsize
+Wttragtlit:::txtsize --> Tuaarottiou:::txtsize
+Wttragtlit:::txtsize --> Tsedeaptrtfmina:::txtsize
 
 ```
-<i>Last updated: 2025-12-31 12:00:31.140171 (GMT+8)</i>
+<i>Last updated: 2025-12-31 16:01:02.600884 (GMT+8)</i>
 <!-- END -->
