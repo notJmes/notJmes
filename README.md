@@ -16,114 +16,141 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tsicetnaiiuo@{ shape: win-pane, label: "_Published Dec 31, 2025, 07:30 AM_
-‘this is our time’: acclaimed poet to honour mamdani with inaugural poem" }
-NamfwC@{ shape: win-pane, label: "_Published Dec 30, 2025, 08:30 AM_
-New year, new mayor for new york city" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
-Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
-Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
-Takeaways from us election night 2025" }
-GjesnmcgtoLiera@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 AM_
-Grand jury rejects second criminal case against new york a-g letitia james, sources say" }
-UgstiagtIfsyoLie@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:16 AM_
-Us judge tosses out criminal cases against ex-fbi chief james comey, new york a-g letitia james" }
-TstseydtrBesn@{ shape: win-pane, label: "_Published Oct 10, 2025, 09:14 PM_
-Trump’s call to prosecute comey could bolster former fbi director's defence" }
+Rnmteseoed@{ shape: win-pane, label: "_Published Dec 31, 2025, 11:45 AM_
+Regional temperature records broken across the world in 2025" }
+Aoevtfncaano@{ shape: win-pane, label: "_Published Aug 14, 2025, 08:10 AM_
+As europe’s heatwaves intensify, france bickers about air-conditioning" }
+Eeaeetiste@{ shape: win-pane, label: "_Published Jul 09, 2025, 12:42 PM_
+European heatwave caused 2,300 deaths, scientists estimate" }
+Harulsalmmthc@{ shape: win-pane, label: "_Published Jul 03, 2025, 01:05 AM_
+Heatwave across europe leaves 8 dead as early summer temperatures hit records" }
+Aohurhdaecr@{ shape: win-pane, label: "_Published Jul 08, 2025, 06:41 PM_
+Acropolis shuts, outdoor work halted as heatwave scorches greece" }
+Sshrrnnolds@{ shape: win-pane, label: "_Published Aug 14, 2025, 04:33 AM_
+Spain seeks help from european partners to tackle wildfires" }
+kdrnfatissadeasc@{ shape: win-pane, label: "_Published Aug 13, 2025, 07:39 AM_
+3 killed in european wildfires as heatwave intensifies with above 40 deg c temperatures expected" }
+WicGesdhnae@{ shape: win-pane, label: "_Published Aug 13, 2025, 04:38 PM_
+Wildfires scorch greece for a second day, thousands evacuated" }
+Scwintsasa@{ shape: win-pane, label: "_Published Aug 26, 2025, 10:45 PM_
+Spain calls wildfires one of its worst disasters in years" }
+Wicmeep@{ shape: win-pane, label: "_Published Aug 19, 2025, 04:45 PM_
+Wildfires scorch 30,000 more hectares in spain" }
+Sbeoehvbnotee@{ shape: win-pane, label: "_Published Aug 15, 2025, 05:24 PM_
+Spain battles 14 major fires with ‘unfavourable conditions’ set to fuel more" }
+Sbeodsshepmr@{ shape: win-pane, label: "_Published Aug 18, 2025, 02:15 AM_
+Spain battles 20 major wildfires amid scorching heat, deploys more troops" }
+Emtsegehntcdt@{ shape: win-pane, label: "_Published May 30, 2025, 04:08 PM_
+Extreme heatwaves are getting longer and hitting the tropics hardest: study" }
+Cefnraeasfae@{ shape: win-pane, label: "_Published May 29, 2025, 06:00 PM_
+Cool relief for singapore on may 29 as temperatures dip after warm spell" }
+Nnaeolitiootahes@{ shape: win-pane, label: "_Published Apr 04, 2025, 12:00 PM_
+National heatwave response plan a signal that singapore should start taking heat seriously" }
 
-Tsicetnaiiuo:::txtsize --> NamfwC:::txtsize
-NamfwC:::txtsize --> YMmnoihaiYilehpea:::txtsize
-YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
-YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
-NamfwC:::txtsize --> GjesnmcgtoLiera:::txtsize
-GjesnmcgtoLiera:::txtsize --> UgstiagtIfsyoLie:::txtsize
-GjesnmcgtoLiera:::txtsize --> TstseydtrBesn:::txtsize
+Rnmteseoed:::txtsize --> Aoevtfncaano:::txtsize
+Aoevtfncaano:::txtsize --> Eeaeetiste:::txtsize
+Eeaeetiste:::txtsize --> Harulsalmmthc:::txtsize
+Eeaeetiste:::txtsize --> Aohurhdaecr:::txtsize
+Aoevtfncaano:::txtsize --> Sshrrnnolds:::txtsize
+Sshrrnnolds:::txtsize --> kdrnfatissadeasc:::txtsize
+Sshrrnnolds:::txtsize --> WicGesdhnae:::txtsize
+Rnmteseoed:::txtsize --> Scwintsasa:::txtsize
+Scwintsasa:::txtsize --> Wicmeep:::txtsize
+Wicmeep:::txtsize --> Sbeoehvbnotee:::txtsize
+Wicmeep:::txtsize --> Sbeodsshepmr:::txtsize
+Scwintsasa:::txtsize --> Emtsegehntcdt:::txtsize
+Emtsegehntcdt:::txtsize --> Cefnraeasfae:::txtsize
+Emtsegehntcdt:::txtsize --> Nnaeolitiootahes:::txtsize
 
-DyealollcpcvtJct@{ shape: win-pane, label: "_Published Dec 31, 2025, 07:04 AM_
-Disney agrees to pay $12.8 million to resolve alleged child privacy law violations, justice dept says" }
-MraanattrhivVeu@{ shape: win-pane, label: "_Published Jul 24, 2025, 03:39 AM_
-Media regulator calls on lawmakers to protect british public service tv in age of youtube" }
-Yboeores@{ shape: win-pane, label: "_Published Feb 11, 2025, 11:29 AM_
-Youtube, the online video powerhouse, turns 20" }
-Ybmsnalthtstee@{ shape: win-pane, label: "_Published Sep 21, 2024, 07:00 PM_
-Youtube premium users in singapore latest to be hit with subscription fee hikes" }
-Ybeabatascees@{ shape: win-pane, label: "_Published Aug 18, 2023, 06:26 AM_
-Youtube defeats racial bias lawsuit by black, hispanic content creators" }
-Nioeeetneese@{ shape: win-pane, label: "_Published Mar 29, 2025, 12:00 PM_
-Netflix’s adolescence: deciphering the language of the manosphere" }
-Nisseckpti@{ shape: win-pane, label: "_Published Mar 24, 2025, 11:30 AM_
-Netflix hit series adolescence stokes uk parents’ anxiety" }
-Iuiledmoeoenoy@{ shape: win-pane, label: "_Published Feb 16, 2025, 05:00 AM_
-Involuntarily celibate: inside the minds of ‘incels’ who blame women and society" }
-DyeWrsiArixogfe@{ shape: win-pane, label: "_Published Sep 17, 2025, 07:39 AM_
-Disney, universal, warner bros sue chinese ai start-up minimax for copyright infringement" }
-Aosfimevliroytie@{ shape: win-pane, label: "_Published Jun 11, 2025, 10:54 PM_
-A ‘bottomless pit of plagiarism’: disney, universal sue midjourney for copyright infringement" }
-MieenurtnisoIrce@{ shape: win-pane, label: "_Published Feb 25, 2025, 02:00 PM_
-Musicians release silent album to protest against britain’s proposed ai copyright changes" }
-WsrsnnbriitIu@{ shape: win-pane, label: "_Published Apr 06, 2025, 05:00 AM_
-Will users, organisations be in trouble for posting ghibli-style ai pictures?" }
-CPitmgasphss@{ shape: win-pane, label: "_Published Mar 28, 2025, 10:10 AM_
-Chatgpt’s ghibli-style images go viral, raises copyright questions" }
-SpCProbnoeacc@{ shape: win-pane, label: "_Published Apr 01, 2025, 05:47 PM_
-Singapore’s chatgpt users hop on ghibli bandwagon to become anime characters" }
+Wbalyfpeti@{ shape: win-pane, label: "_Published Dec 31, 2025, 10:20 AM_
+World bids farewell to 2025, a year of trump, truces and turmoil" }
+Cdepletstft@{ shape: win-pane, label: "_Published Aug 12, 2025, 08:18 PM_
+‘cooked alive’: europe’s wildfires hit tourism spots and forests" }
+Emtsegehntcdt@{ shape: win-pane, label: "_Published May 30, 2025, 04:08 PM_
+Extreme heatwaves are getting longer and hitting the tropics hardest: study" }
+Cefnraeasfae@{ shape: win-pane, label: "_Published May 29, 2025, 06:00 PM_
+Cool relief for singapore on may 29 as temperatures dip after warm spell" }
+Nnaeolitiootahes@{ shape: win-pane, label: "_Published Apr 04, 2025, 12:00 PM_
+National heatwave response plan a signal that singapore should start taking heat seriously" }
+Firtrrnea@{ shape: win-pane, label: "_Published Aug 11, 2025, 07:52 PM_
+Firefighters battle ‘fire whirls’ in northern spain" }
+Wianotuco@{ shape: win-pane, label: "_Published Aug 08, 2025, 03:44 PM_
+Wildfire near spanish tourist town under control" }
+Eeeerhatoru@{ shape: win-pane, label: "_Published Aug 01, 2025, 06:03 PM_
+Europe braces itself for next heatwave after cool start to august" }
+DydSesmart@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:15 PM_
+Deadly floods hit south-east asia as more rain forecast" }
+Tasifrooirni@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:48 PM_
+Thailand to send aircraft carrier for flood relief as rain intensifies" }
+Taadrieeeisoveir@{ shape: win-pane, label: "_Published Nov 24, 2025, 04:37 PM_
+Thailand’s hat yai declared a disaster zone as it experiences the most severe deluge in 300 years" }
+HidltiiMsetclr@{ shape: win-pane, label: "_Published Nov 25, 2025, 01:19 PM_
+Hat yai floods deal blow to thai tourism as malaysians expected to cancel all trips" }
+HidltiiMsetclr@{ shape: win-pane, label: "_Published Nov 25, 2025, 01:19 PM_
+Hat yai floods deal blow to thai tourism as malaysians expected to cancel all trips" }
+Taadrieeeisoveir@{ shape: win-pane, label: "_Published Nov 24, 2025, 04:37 PM_
+Thailand’s hat yai declared a disaster zone as it experiences the most severe deluge in 300 years" }
+Hieflsrrroksmi@{ shape: win-pane, label: "_Published Nov 22, 2025, 03:49 PM_
+Hat yai issues ‘red-flag’ alert as 595mm of rain triggers flood risk across 103 communities" }
 
-DyealollcpcvtJct:::txtsize --> MraanattrhivVeu:::txtsize
-MraanattrhivVeu:::txtsize --> Yboeores:::txtsize
-Yboeores:::txtsize --> Ybmsnalthtstee:::txtsize
-Yboeores:::txtsize --> Ybeabatascees:::txtsize
-MraanattrhivVeu:::txtsize --> Nioeeetneese:::txtsize
-Nioeeetneese:::txtsize --> Nisseckpti:::txtsize
-Nioeeetneese:::txtsize --> Iuiledmoeoenoy:::txtsize
-DyealollcpcvtJct:::txtsize --> DyeWrsiArixogfe:::txtsize
-DyeWrsiArixogfe:::txtsize --> Aosfimevliroytie:::txtsize
-Aosfimevliroytie:::txtsize --> MieenurtnisoIrce:::txtsize
-DyeWrsiArixogfe:::txtsize --> WsrsnnbriitIu:::txtsize
-WsrsnnbriitIu:::txtsize --> CPitmgasphss:::txtsize
-WsrsnnbriitIu:::txtsize --> SpCProbnoeacc:::txtsize
+Wbalyfpeti:::txtsize --> Cdepletstft:::txtsize
+Cdepletstft:::txtsize --> Emtsegehntcdt:::txtsize
+Emtsegehntcdt:::txtsize --> Cefnraeasfae:::txtsize
+Emtsegehntcdt:::txtsize --> Nnaeolitiootahes:::txtsize
+Cdepletstft:::txtsize --> Firtrrnea:::txtsize
+Firtrrnea:::txtsize --> Wianotuco:::txtsize
+Firtrrnea:::txtsize --> Eeeerhatoru:::txtsize
+Wbalyfpeti:::txtsize --> DydSesmart:::txtsize
+DydSesmart:::txtsize --> Tasifrooirni:::txtsize
+Tasifrooirni:::txtsize --> Taadrieeeisoveir:::txtsize
+Tasifrooirni:::txtsize --> HidltiiMsetclr:::txtsize
+DydSesmart:::txtsize --> HidltiiMsetclr:::txtsize
+HidltiiMsetclr:::txtsize --> Taadrieeeisoveir:::txtsize
+HidltiiMsetclr:::txtsize --> Hieflsrrroksmi:::txtsize
 
-Votrilngi@{ shape: win-pane, label: "_Published Dec 31, 2025, 06:40 AM_
-Video of protester defying police in iran goes viral" }
-Ignososeptvt@{ shape: win-pane, label: "_Published Dec 31, 2025, 03:24 AM_
-Iran’s government offers dialogue as protests spread to universities" }
-TwIfituHtateNy@{ shape: win-pane, label: "_Published Dec 30, 2025, 07:33 AM_
-Trump warns iran of possible strike, urges hamas to disarm after meeting netanyahu" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-Inapradehw@{ shape: win-pane, label: "_Published Jun 13, 2025, 12:15 PM_
-Iran and israel’s open warfare after decades of shadow war" }
-Uunnaoanlpr@{ shape: win-pane, label: "_Published Dec 31, 2025, 12:09 AM_
-Us issues sanctions related to iran and venezuela weapons trade" }
-OnsaiVueeoes@{ shape: win-pane, label: "_Published Dec 31, 2025, 03:09 AM_
-Oil tankers still arriving in venezuela despite us blockade, data shows" }
-Ignososeptvt@{ shape: win-pane, label: "_Published Dec 31, 2025, 03:24 AM_
-Iran’s government offers dialogue as protests spread to universities" }
-TwIfituHtateNy@{ shape: win-pane, label: "_Published Dec 30, 2025, 07:33 AM_
-Trump warns iran of possible strike, urges hamas to disarm after meeting netanyahu" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-Inapradehw@{ shape: win-pane, label: "_Published Jun 13, 2025, 12:15 PM_
-Iran and israel’s open warfare after decades of shadow war" }
-Uunnaoanlpr@{ shape: win-pane, label: "_Published Dec 31, 2025, 12:09 AM_
-Us issues sanctions related to iran and venezuela weapons trade" }
-OnsaiVueeoes@{ shape: win-pane, label: "_Published Dec 31, 2025, 03:09 AM_
-Oil tankers still arriving in venezuela despite us blockade, data shows" }
+TvaUlstamo@{ shape: win-pane, label: "_Published Dec 31, 2025, 10:05 AM_
+Trump v ‘obamacare’: us health costs set to soar for millions in 2026" }
+UsspcaalhCsel@{ shape: win-pane, label: "_Published Dec 18, 2025, 09:35 AM_
+Us house passes republican healthcare bill without aca subsidy renewal" }
+OcesdnSteune@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:20 AM_
+Obamacare health subsidy to end as us senate rejects duelling remedies" }
+Tsohgenanr@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:35 AM_
+Trump says money should go to people, not health insurers" }
+TtaOcsoeldid@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:20 AM_
+Trump takes aim at obamacare as historic federal shutdown hits 40th day" }
+PeipsTvsoaei@{ shape: win-pane, label: "_Published Dec 13, 2025, 06:39 PM_
+Pinched by higher prices, many trump voters say: don’t blame the president" }
+Tbsnncpini@{ shape: win-pane, label: "_Published Feb 13, 2025, 04:29 AM_
+Trump blames biden for unexpected uptick in us inflation" }
+OcesdnSteune@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:20 AM_
+Obamacare health subsidy to end as us senate rejects duelling remedies" }
+Tsohgenanr@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:35 AM_
+Trump says money should go to people, not health insurers" }
+Kdcdrnccoertae@{ shape: win-pane, label: "_Published Dec 08, 2025, 07:15 AM_
+Kennedy vaccine advisers ‘turned back the clock’ on disease prevention, say experts" }
+UniMaveelragop@{ shape: win-pane, label: "_Published Aug 01, 2025, 07:10 PM_
+Us plans medicare, medicaid coverage for weight-loss drugs, washington post reports" }
+TtaOcsoeldid@{ shape: win-pane, label: "_Published Nov 10, 2025, 07:20 AM_
+Trump takes aim at obamacare as historic federal shutdown hits 40th day" }
+Uentbegno@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:27 PM_
+Us government shutdown becomes longest in history" }
+UajBoodwresdrd@{ shape: win-pane, label: "_Published Nov 08, 2025, 08:50 AM_
+Us senate rejects bill to restore federal worker pay, remains at odds over shutdown" }
 
-Votrilngi:::txtsize --> Ignososeptvt:::txtsize
-Ignososeptvt:::txtsize --> TwIfituHtateNy:::txtsize
-TwIfituHtateNy:::txtsize --> Tdrcaaededlncbs:::txtsize
-TwIfituHtateNy:::txtsize --> Inapradehw:::txtsize
-Ignososeptvt:::txtsize --> Uunnaoanlpr:::txtsize
-Uunnaoanlpr:::txtsize --> OnsaiVueeoes:::txtsize
-Votrilngi:::txtsize --> Ignososeptvt:::txtsize
-Ignososeptvt:::txtsize --> TwIfituHtateNy:::txtsize
-TwIfituHtateNy:::txtsize --> Tdrcaaededlncbs:::txtsize
-TwIfituHtateNy:::txtsize --> Inapradehw:::txtsize
-Ignososeptvt:::txtsize --> Uunnaoanlpr:::txtsize
-Uunnaoanlpr:::txtsize --> OnsaiVueeoes:::txtsize
+TvaUlstamo:::txtsize --> UsspcaalhCsel:::txtsize
+UsspcaalhCsel:::txtsize --> OcesdnSteune:::txtsize
+OcesdnSteune:::txtsize --> Tsohgenanr:::txtsize
+OcesdnSteune:::txtsize --> TtaOcsoeldid:::txtsize
+UsspcaalhCsel:::txtsize --> PeipsTvsoaei:::txtsize
+PeipsTvsoaei:::txtsize --> Tbsnncpini:::txtsize
+TvaUlstamo:::txtsize --> OcesdnSteune:::txtsize
+OcesdnSteune:::txtsize --> Tsohgenanr:::txtsize
+Tsohgenanr:::txtsize --> Kdcdrnccoertae:::txtsize
+Tsohgenanr:::txtsize --> UniMaveelragop:::txtsize
+OcesdnSteune:::txtsize --> TtaOcsoeldid:::txtsize
+TtaOcsoeldid:::txtsize --> Uentbegno:::txtsize
+TtaOcsoeldid:::txtsize --> UajBoodwresdrd:::txtsize
 
 ```
-<i>Last updated: 2025-12-31 08:01:03.662778 (GMT+8)</i>
+<i>Last updated: 2025-12-31 12:00:31.140171 (GMT+8)</i>
 <!-- END -->
