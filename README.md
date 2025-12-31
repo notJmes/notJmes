@@ -16,114 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Tsicetnaiiuo@{ shape: win-pane, label: "_Published Dec 31, 2025, 07:30 AM_
+‘this is our time’: acclaimed poet to honour mamdani with inaugural poem" }
+NamfwC@{ shape: win-pane, label: "_Published Dec 30, 2025, 08:30 AM_
+New year, new mayor for new york city" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
+Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
+Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
+Takeaways from us election night 2025" }
+GjesnmcgtoLiera@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:40 AM_
+Grand jury rejects second criminal case against new york a-g letitia james, sources say" }
+UgstiagtIfsyoLie@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:16 AM_
+Us judge tosses out criminal cases against ex-fbi chief james comey, new york a-g letitia james" }
+TstseydtrBesn@{ shape: win-pane, label: "_Published Oct 10, 2025, 09:14 PM_
+Trump’s call to prosecute comey could bolster former fbi director's defence" }
+
+Tsicetnaiiuo:::txtsize --> NamfwC:::txtsize
+NamfwC:::txtsize --> YMmnoihaiYilehpea:::txtsize
+YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
+YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
+NamfwC:::txtsize --> GjesnmcgtoLiera:::txtsize
+GjesnmcgtoLiera:::txtsize --> UgstiagtIfsyoLie:::txtsize
+GjesnmcgtoLiera:::txtsize --> TstseydtrBesn:::txtsize
+
+DyealollcpcvtJct@{ shape: win-pane, label: "_Published Dec 31, 2025, 07:04 AM_
+Disney agrees to pay $12.8 million to resolve alleged child privacy law violations, justice dept says" }
+MraanattrhivVeu@{ shape: win-pane, label: "_Published Jul 24, 2025, 03:39 AM_
+Media regulator calls on lawmakers to protect british public service tv in age of youtube" }
+Yboeores@{ shape: win-pane, label: "_Published Feb 11, 2025, 11:29 AM_
+Youtube, the online video powerhouse, turns 20" }
+Ybmsnalthtstee@{ shape: win-pane, label: "_Published Sep 21, 2024, 07:00 PM_
+Youtube premium users in singapore latest to be hit with subscription fee hikes" }
+Ybeabatascees@{ shape: win-pane, label: "_Published Aug 18, 2023, 06:26 AM_
+Youtube defeats racial bias lawsuit by black, hispanic content creators" }
+Nioeeetneese@{ shape: win-pane, label: "_Published Mar 29, 2025, 12:00 PM_
+Netflix’s adolescence: deciphering the language of the manosphere" }
+Nisseckpti@{ shape: win-pane, label: "_Published Mar 24, 2025, 11:30 AM_
+Netflix hit series adolescence stokes uk parents’ anxiety" }
+Iuiledmoeoenoy@{ shape: win-pane, label: "_Published Feb 16, 2025, 05:00 AM_
+Involuntarily celibate: inside the minds of ‘incels’ who blame women and society" }
+DyeWrsiArixogfe@{ shape: win-pane, label: "_Published Sep 17, 2025, 07:39 AM_
+Disney, universal, warner bros sue chinese ai start-up minimax for copyright infringement" }
+Aosfimevliroytie@{ shape: win-pane, label: "_Published Jun 11, 2025, 10:54 PM_
+A ‘bottomless pit of plagiarism’: disney, universal sue midjourney for copyright infringement" }
+MieenurtnisoIrce@{ shape: win-pane, label: "_Published Feb 25, 2025, 02:00 PM_
+Musicians release silent album to protest against britain’s proposed ai copyright changes" }
+WsrsnnbriitIu@{ shape: win-pane, label: "_Published Apr 06, 2025, 05:00 AM_
+Will users, organisations be in trouble for posting ghibli-style ai pictures?" }
+CPitmgasphss@{ shape: win-pane, label: "_Published Mar 28, 2025, 10:10 AM_
+Chatgpt’s ghibli-style images go viral, raises copyright questions" }
+SpCProbnoeacc@{ shape: win-pane, label: "_Published Apr 01, 2025, 05:47 PM_
+Singapore’s chatgpt users hop on ghibli bandwagon to become anime characters" }
+
+DyealollcpcvtJct:::txtsize --> MraanattrhivVeu:::txtsize
+MraanattrhivVeu:::txtsize --> Yboeores:::txtsize
+Yboeores:::txtsize --> Ybmsnalthtstee:::txtsize
+Yboeores:::txtsize --> Ybeabatascees:::txtsize
+MraanattrhivVeu:::txtsize --> Nioeeetneese:::txtsize
+Nioeeetneese:::txtsize --> Nisseckpti:::txtsize
+Nioeeetneese:::txtsize --> Iuiledmoeoenoy:::txtsize
+DyealollcpcvtJct:::txtsize --> DyeWrsiArixogfe:::txtsize
+DyeWrsiArixogfe:::txtsize --> Aosfimevliroytie:::txtsize
+Aosfimevliroytie:::txtsize --> MieenurtnisoIrce:::txtsize
+DyeWrsiArixogfe:::txtsize --> WsrsnnbriitIu:::txtsize
+WsrsnnbriitIu:::txtsize --> CPitmgasphss:::txtsize
+WsrsnnbriitIu:::txtsize --> SpCProbnoeacc:::txtsize
+
+Votrilngi@{ shape: win-pane, label: "_Published Dec 31, 2025, 06:40 AM_
+Video of protester defying police in iran goes viral" }
+Ignososeptvt@{ shape: win-pane, label: "_Published Dec 31, 2025, 03:24 AM_
+Iran’s government offers dialogue as protests spread to universities" }
+TwIfituHtateNy@{ shape: win-pane, label: "_Published Dec 30, 2025, 07:33 AM_
+Trump warns iran of possible strike, urges hamas to disarm after meeting netanyahu" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+Inapradehw@{ shape: win-pane, label: "_Published Jun 13, 2025, 12:15 PM_
+Iran and israel’s open warfare after decades of shadow war" }
+Uunnaoanlpr@{ shape: win-pane, label: "_Published Dec 31, 2025, 12:09 AM_
+Us issues sanctions related to iran and venezuela weapons trade" }
 OnsaiVueeoes@{ shape: win-pane, label: "_Published Dec 31, 2025, 03:09 AM_
 Oil tankers still arriving in venezuela despite us blockade, data shows" }
-Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
-Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
-TenurneCbVuo@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:52 PM_
-Trump eyes anti-drug operations in mexico, colombia as venezuela looms" }
-Siurymeoarnolu@{ shape: win-pane, label: "_Published Dec 06, 2025, 02:26 AM_
-Sweeping trump strategy document seeks to reframe us’ role in the world, slams europe" }
-Uirdotoeramzsho@{ shape: win-pane, label: "_Published Dec 02, 2025, 04:09 AM_
-Us admiral ordered follow-up strike on alleged drug boat from venezuela, says white house" }
-VulScpifromlMo@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:49 AM_
-Venezuela slams us attack preparations after trump confirms call with maduro" }
-Tsicvsugztliee@{ shape: win-pane, label: "_Published Nov 29, 2025, 09:19 PM_
-Trump says airspace above and surrounding venezuela to be closed in its entirety" }
-UgVuMoceoyRllk@{ shape: win-pane, label: "_Published Dec 01, 2025, 05:07 AM_
-Us has given venezuela’s maduro chance to leave country, says republican lawmaker" }
+Ignososeptvt@{ shape: win-pane, label: "_Published Dec 31, 2025, 03:24 AM_
+Iran’s government offers dialogue as protests spread to universities" }
+TwIfituHtateNy@{ shape: win-pane, label: "_Published Dec 30, 2025, 07:33 AM_
+Trump warns iran of possible strike, urges hamas to disarm after meeting netanyahu" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+Inapradehw@{ shape: win-pane, label: "_Published Jun 13, 2025, 12:15 PM_
+Iran and israel’s open warfare after decades of shadow war" }
+Uunnaoanlpr@{ shape: win-pane, label: "_Published Dec 31, 2025, 12:09 AM_
+Us issues sanctions related to iran and venezuela weapons trade" }
+OnsaiVueeoes@{ shape: win-pane, label: "_Published Dec 31, 2025, 03:09 AM_
+Oil tankers still arriving in venezuela despite us blockade, data shows" }
 
-OnsaiVueeoes:::txtsize --> Uzlecoeapageo:::txtsize
-Uzlecoeapageo:::txtsize --> TenurneCbVuo:::txtsize
-TenurneCbVuo:::txtsize --> Siurymeoarnolu:::txtsize
-TenurneCbVuo:::txtsize --> Uirdotoeramzsho:::txtsize
-Uzlecoeapageo:::txtsize --> VulScpifromlMo:::txtsize
-VulScpifromlMo:::txtsize --> Tsicvsugztliee:::txtsize
-VulScpifromlMo:::txtsize --> UgVuMoceoyRllk:::txtsize
-
-Gnktamsus@{ shape: win-pane, label: "_Published Dec 31, 2025, 12:49 AM_
-Germany bank heist nets about $45m in cash, valuables" }
-Leaaeliuyvstlt@{ shape: win-pane, label: "_Published Dec 23, 2025, 08:22 PM_
-Louvre installs bars over gallery window used by thieves in sensational heist" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
-‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
-Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
-Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
-Leudecafexdrl@{ shape: win-pane, label: "_Published Nov 19, 2025, 06:53 PM_
-Louvre museum to add 100 external cameras by 2026 after heist exposed security flaws" }
-Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
-Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
-Coievitecjs@{ shape: win-pane, label: "_Published Oct 31, 2025, 07:06 PM_
-Count of paris urges louvre thieves to ‘give us back our jewels’" }
-cerfietepeTnv@{ shape: win-pane, label: "_Published Nov 13, 2025, 01:45 PM_
-3 charged over stuffed animal heist at amusement park seen in tom hanks movie" }
-Scseloitluau@{ shape: win-pane, label: "_Published Nov 11, 2025, 10:16 PM_
-Six ancient statues stolen from syria’s national museum of damascus" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Leulytsisturs@{ shape: win-pane, label: "_Published Nov 06, 2025, 05:30 PM_
-Louvre museum will need years to fix security issues, state auditor finds" }
-
-Gnktamsus:::txtsize --> Leaaeliuyvstlt:::txtsize
-Leaaeliuyvstlt:::txtsize --> Ptineluiisey:::txtsize
-Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
-Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
-Leaaeliuyvstlt:::txtsize --> Leudecafexdrl:::txtsize
-Leudecafexdrl:::txtsize --> Ptineluiisey:::txtsize
-Leudecafexdrl:::txtsize --> Coievitecjs:::txtsize
-Gnktamsus:::txtsize --> cerfietepeTnv:::txtsize
-cerfietepeTnv:::txtsize --> Scseloitluau:::txtsize
-Scseloitluau:::txtsize --> SnltiARahtoy:::txtsize
-Scseloitluau:::txtsize --> Leulytsisturs:::txtsize
-
-GutnrtfonsCacos@{ shape: win-pane, label: "_Published Dec 31, 2025, 12:09 AM_
-Gaza humanitarian deterioration of serious concern, say uk, canada, france and others" }
-SrrlfirbrlGs@{ shape: win-pane, label: "_Published Dec 28, 2025, 09:55 PM_
-‘shivering from cold and fear’: winter rains batter displaced gazans" }
-Iliaeseoewa@{ shape: win-pane, label: "_Published Oct 10, 2025, 07:10 AM_
-Israeli cabinet ratifies ceasefire and hostage deal with hamas" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Pgoihfcfge@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:53 AM_
-Pm wong welcomes first phase of gaza ceasefire agreement" }
-Fhgczptpors@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:55 PM_
-Fuel shortage forces gaza hospital to suspend most services" }
-Ptnsagagela@{ shape: win-pane, label: "_Published Dec 26, 2025, 08:30 PM_
-Palestinian kills 2 in stabbing and ramming, israeli police say" }
-Ilttieeibes@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:00 AM_
-Israeli settler attack injures palestinian baby, five arrested" }
-Fhgczptpors@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:55 PM_
-Fuel shortage forces gaza hospital to suspend most services" }
-Ptnsagagela@{ shape: win-pane, label: "_Published Dec 26, 2025, 08:30 PM_
-Palestinian kills 2 in stabbing and ramming, israeli police say" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-Iletvlosapnen@{ shape: win-pane, label: "_Published Dec 26, 2025, 07:14 PM_
-Israeli reservist rams vehicle into palestinian man praying in west bank" }
-Ilttieeibes@{ shape: win-pane, label: "_Published Dec 26, 2025, 03:00 AM_
-Israeli settler attack injures palestinian baby, five arrested" }
-Hrhotciakxais@{ shape: win-pane, label: "_Published Dec 24, 2025, 05:24 PM_
-How israel’s hilltop settlers coordinate attacks to expel palestinians" }
-Siecsyoafoenlnit@{ shape: win-pane, label: "_Published Nov 21, 2025, 12:16 PM_
-S’pore imposes sanctions, entry bans on 4 israelis for violence against palestinians in west bank" }
-
-GutnrtfonsCacos:::txtsize --> SrrlfirbrlGs:::txtsize
-SrrlfirbrlGs:::txtsize --> Iliaeseoewa:::txtsize
-Iliaeseoewa:::txtsize --> TssHaossaaorslaoe:::txtsize
-Iliaeseoewa:::txtsize --> Pgoihfcfge:::txtsize
-SrrlfirbrlGs:::txtsize --> Fhgczptpors:::txtsize
-Fhgczptpors:::txtsize --> Ptnsagagela:::txtsize
-Fhgczptpors:::txtsize --> Ilttieeibes:::txtsize
-GutnrtfonsCacos:::txtsize --> Fhgczptpors:::txtsize
-Fhgczptpors:::txtsize --> Ptnsagagela:::txtsize
-Ptnsagagela:::txtsize --> Sbsrcdnacaale:::txtsize
-Ptnsagagela:::txtsize --> Iletvlosapnen:::txtsize
-Fhgczptpors:::txtsize --> Ilttieeibes:::txtsize
-Ilttieeibes:::txtsize --> Hrhotciakxais:::txtsize
-Ilttieeibes:::txtsize --> Siecsyoafoenlnit:::txtsize
+Votrilngi:::txtsize --> Ignososeptvt:::txtsize
+Ignososeptvt:::txtsize --> TwIfituHtateNy:::txtsize
+TwIfituHtateNy:::txtsize --> Tdrcaaededlncbs:::txtsize
+TwIfituHtateNy:::txtsize --> Inapradehw:::txtsize
+Ignososeptvt:::txtsize --> Uunnaoanlpr:::txtsize
+Uunnaoanlpr:::txtsize --> OnsaiVueeoes:::txtsize
+Votrilngi:::txtsize --> Ignososeptvt:::txtsize
+Ignososeptvt:::txtsize --> TwIfituHtateNy:::txtsize
+TwIfituHtateNy:::txtsize --> Tdrcaaededlncbs:::txtsize
+TwIfituHtateNy:::txtsize --> Inapradehw:::txtsize
+Ignososeptvt:::txtsize --> Uunnaoanlpr:::txtsize
+Uunnaoanlpr:::txtsize --> OnsaiVueeoes:::txtsize
 
 ```
-<i>Last updated: 2025-12-31 04:00:35.602140 (GMT+8)</i>
+<i>Last updated: 2025-12-31 08:01:03.662778 (GMT+8)</i>
 <!-- END -->
