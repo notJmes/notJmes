@@ -16,97 +16,8 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tgroygidr@{ shape: win-pane, label: "_Published Jan 01, 2026, 03:43 AM_
-Trump gets wrong country, wrong bird in windmill rant" }
-TahUswrtitlr@{ shape: win-pane, label: "_Published Dec 23, 2025, 05:15 AM_
-Trump admin halts us offshore wind projects citing ‘national security’" }
-Tbwnpcllbu@{ shape: win-pane, label: "_Published Dec 09, 2025, 11:41 AM_
-Trump ban on wind energy projects ruled illegal by us judge" }
-Tmstasdenrn@{ shape: win-pane, label: "_Published Jul 30, 2025, 07:50 AM_
-Trump mounts new attack against wind projects on federal land" }
-Tsuoonnieadlroce@{ shape: win-pane, label: "_Published Oct 23, 2025, 08:30 AM_
-Trump’s assault on offshore wind brings ship orders to a standstill, seatrium contract affected" }
-WirtjfSanr@{ shape: win-pane, label: "_Published Oct 10, 2025, 08:32 AM_
-Wind giant orsted to axe 2,000 jobs after us setbacks under trump" }
-Sgsrdsiecdigs@{ shape: win-pane, label: "_Published Oct 07, 2025, 02:17 AM_
-Solar groups sue trump administration over cancelled $9 billion in grants" }
-Oieoiasanrrbior@{ shape: win-pane, label: "_Published Sep 11, 2025, 02:05 PM_
-Ozempic-maker novo and wind giant orsted made denmark rich. are the boom times now over?" }
-Wbalyfpeti@{ shape: win-pane, label: "_Published Dec 31, 2025, 10:20 AM_
-World bids farewell to 2025, a year of trump, truces and turmoil" }
-Cdepletstft@{ shape: win-pane, label: "_Published Aug 12, 2025, 08:18 PM_
-‘cooked alive’: europe’s wildfires hit tourism spots and forests" }
-Emtsegehntcdt@{ shape: win-pane, label: "_Published May 30, 2025, 04:08 PM_
-Extreme heatwaves are getting longer and hitting the tropics hardest: study" }
-Firtrrnea@{ shape: win-pane, label: "_Published Aug 11, 2025, 07:52 PM_
-Firefighters battle ‘fire whirls’ in northern spain" }
-DydSesmart@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:15 PM_
-Deadly floods hit south-east asia as more rain forecast" }
-Tasifrooirni@{ shape: win-pane, label: "_Published Nov 25, 2025, 02:48 PM_
-Thailand to send aircraft carrier for flood relief as rain intensifies" }
-HidltiiMsetclr@{ shape: win-pane, label: "_Published Nov 25, 2025, 01:19 PM_
-Hat yai floods deal blow to thai tourism as malaysians expected to cancel all trips" }
-
-Tgroygidr:::txtsize --> TahUswrtitlr:::txtsize
-TahUswrtitlr:::txtsize --> Tbwnpcllbu:::txtsize
-Tbwnpcllbu:::txtsize --> Tmstasdenrn:::txtsize
-Tbwnpcllbu:::txtsize --> Tsuoonnieadlroce:::txtsize
-TahUswrtitlr:::txtsize --> WirtjfSanr:::txtsize
-WirtjfSanr:::txtsize --> Sgsrdsiecdigs:::txtsize
-WirtjfSanr:::txtsize --> Oieoiasanrrbior:::txtsize
-Tgroygidr:::txtsize --> Wbalyfpeti:::txtsize
-Wbalyfpeti:::txtsize --> Cdepletstft:::txtsize
-Cdepletstft:::txtsize --> Emtsegehntcdt:::txtsize
-Cdepletstft:::txtsize --> Firtrrnea:::txtsize
-Wbalyfpeti:::txtsize --> DydSesmart:::txtsize
-DydSesmart:::txtsize --> Tasifrooirni:::txtsize
-DydSesmart:::txtsize --> HidltiiMsetclr:::txtsize
-
-Fssoairfsd@{ shape: win-pane, label: "_Published Jan 01, 2026, 03:22 AM_
-Flu cases rise across us as holiday travel fuels spread" }
-Biaeeyrua@{ shape: win-pane, label: "_Published Dec 12, 2025, 06:28 PM_
-Britain’s health service hit by ‘super flu’ outbreak" }
-Vnnudrgana@{ shape: win-pane, label: "_Published Dec 05, 2025, 11:10 AM_
-Vaccination encouraged amid rising flu cases in china" }
-Cshhiufcms@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:10 AM_
-China’s $1 flu shots show price squeeze for vaccine makers" }
-Ruiocnspta@{ shape: win-pane, label: "_Published Sep 13, 2025, 03:40 PM_
-Rare but serious complication shows flu’s potential harm" }
-Jsainetece@{ shape: win-pane, label: "_Published Nov 21, 2025, 06:01 PM_
-Japan’s flu cases hit warning level at fastest pace in 10 years" }
-Ntserfzcoienr@{ shape: win-pane, label: "_Published Nov 18, 2025, 12:30 PM_
-New intranasal, needle-free influenza vaccine now available in singapore" }
-Hessdnaaiiuer@{ shape: win-pane, label: "_Published Dec 13, 2025, 12:53 AM_
-Hundreds of storks found dead near madrid amid wider bird flu surge in europe" }
-Uoehblt@{ shape: win-pane, label: "_Published Nov 23, 2025, 04:44 PM_
-Us records second human bird flu death of 2025" }
-Liestfldi@{ shape: win-pane, label: "_Published Jan 07, 2025, 06:26 AM_
-Louisiana reports first bird flu-related death in us" }
-ZctfsttyafoeaoeEt@{ shape: win-pane, label: "_Published Nov 23, 2025, 12:00 PM_
-Zoo vaccination efforts don’t target every animal, but focus on rare, disease-prone species: experts" }
-BlulkeohvaItss@{ shape: win-pane, label: "_Published Nov 27, 2025, 08:13 PM_
-Bird flu virus could risk pandemic worse than covid-19, france’s institut pasteur says" }
-Uoehblt@{ shape: win-pane, label: "_Published Nov 23, 2025, 04:44 PM_
-Us records second human bird flu death of 2025" }
-Ssswehiuesemab@{ shape: win-pane, label: "_Published Nov 11, 2024, 05:00 AM_
-Study suggests new manner in which bird flu can be transmitted from migratory birds" }
-
-Fssoairfsd:::txtsize --> Biaeeyrua:::txtsize
-Biaeeyrua:::txtsize --> Vnnudrgana:::txtsize
-Vnnudrgana:::txtsize --> Cshhiufcms:::txtsize
-Vnnudrgana:::txtsize --> Ruiocnspta:::txtsize
-Biaeeyrua:::txtsize --> Jsainetece:::txtsize
-Jsainetece:::txtsize --> Ntserfzcoienr:::txtsize
-Fssoairfsd:::txtsize --> Hessdnaaiiuer:::txtsize
-Hessdnaaiiuer:::txtsize --> Uoehblt:::txtsize
-Uoehblt:::txtsize --> Liestfldi:::txtsize
-Uoehblt:::txtsize --> ZctfsttyafoeaoeEt:::txtsize
-Hessdnaaiiuer:::txtsize --> BlulkeohvaItss:::txtsize
-BlulkeohvaItss:::txtsize --> Uoehblt:::txtsize
-BlulkeohvaItss:::txtsize --> Ssswehiuesemab:::txtsize
-
-Ucsnkerutil@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:09 AM_
-Us discusses stronger ukraine security guarantees with allies" }
+Unlyhtwealpnwu@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:29 AM_
+Ukraine’s zelensky says he won’t sign weak deal that will only prolong war with russia" }
 Tskecrokutlyi@{ shape: win-pane, label: "_Published Dec 29, 2025, 07:03 AM_
 Trump says ukraine deal closer but no breakthrough after zelensky meeting" }
 Zsmrnirsrpp@{ shape: win-pane, label: "_Published Dec 28, 2025, 01:05 PM_
@@ -121,36 +32,116 @@ RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
 Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
 Psuwcekebcyeaa@{ shape: win-pane, label: "_Published Dec 28, 2025, 02:34 AM_
 Putin says russia will achieve its ukraine aims by force if kyiv doesn’t want peace" }
-Ueyasiaely@{ shape: win-pane, label: "_Published Dec 29, 2025, 09:18 PM_
-Us offered kyiv 15 years of security guarantees: zelensky" }
-RaUnkoelUcn@{ shape: win-pane, label: "_Published Dec 27, 2025, 02:34 AM_
-Russia says ukraine seeking to ‘torpedo’ talks on us peace plan" }
-Zsmrnnidscmk@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:08 PM_
-Zelensky to meet trump on dec 28 in florida to discuss peace framework" }
-Unlydprstowren@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:43 PM_
-Ukraine’s zelensky says draft plan freezes front line, opens way for concessions" }
-RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
-Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
-Zsmrnnidscmk@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:08 PM_
-Zelensky to meet trump on dec 28 in florida to discuss peace framework" }
-Rarnkoaudhntp@{ shape: win-pane, label: "_Published Dec 27, 2025, 05:25 PM_
-Russian barrage on kyiv kills one, leaves hundreds of thousands without power" }
+UnfasaeaPre@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:04 AM_
+Ukraine, eu officials dismiss alleged attack on putin residence" }
+Tvnbldcure@{ shape: win-pane, label: "_Published Dec 30, 2025, 04:10 AM_
+Trump ‘very angry’ about alleged attack on putin’s residence" }
+RaUnaPsKahieiaf@{ shape: win-pane, label: "_Published Dec 29, 2025, 11:40 PM_
+Russia says ukraine attacked putin’s home; kyiv calls this a ‘lie’ undermining peace efforts" }
+Tskecrokutlyi@{ shape: win-pane, label: "_Published Dec 29, 2025, 07:03 AM_
+Trump says ukraine deal closer but no breakthrough after zelensky meeting" }
+Woouscttkecuen@{ shape: win-pane, label: "_Published Dec 30, 2025, 07:39 PM_
+What do we know about russia’s accusations that ukraine attacked putin residence?" }
+RaUnaPsKahieiaf@{ shape: win-pane, label: "_Published Dec 29, 2025, 11:40 PM_
+Russia says ukraine attacked putin’s home; kyiv calls this a ‘lie’ undermining peace efforts" }
+Tvnbldcure@{ shape: win-pane, label: "_Published Dec 30, 2025, 04:10 AM_
+Trump ‘very angry’ about alleged attack on putin’s residence" }
 
-Ucsnkerutil:::txtsize --> Tskecrokutlyi:::txtsize
+Unlyhtwealpnwu:::txtsize --> Tskecrokutlyi:::txtsize
 Tskecrokutlyi:::txtsize --> Zsmrnirsrpp:::txtsize
 Zsmrnirsrpp:::txtsize --> RanssdieZsue:::txtsize
 Zsmrnirsrpp:::txtsize --> Tstia:::txtsize
 Tskecrokutlyi:::txtsize --> Tsadvkhnrem:::txtsize
 Tsadvkhnrem:::txtsize --> RanssdieZsue:::txtsize
 Tsadvkhnrem:::txtsize --> Psuwcekebcyeaa:::txtsize
+Unlyhtwealpnwu:::txtsize --> UnfasaeaPre:::txtsize
+UnfasaeaPre:::txtsize --> Tvnbldcure:::txtsize
+Tvnbldcure:::txtsize --> RaUnaPsKahieiaf:::txtsize
+Tvnbldcure:::txtsize --> Tskecrokutlyi:::txtsize
+UnfasaeaPre:::txtsize --> Woouscttkecuen:::txtsize
+Woouscttkecuen:::txtsize --> RaUnaPsKahieiaf:::txtsize
+Woouscttkecuen:::txtsize --> Tvnbldcure:::txtsize
+
+Usrrfrreiscrs@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:44 AM_
+Us coast guard searches for survivors after strike on suspected drug vessels" }
+Irseravrrfas@{ shape: win-pane, label: "_Published Oct 17, 2025, 08:00 AM_
+In a first, us strike in caribbean leaves survivors, us official says" }
+UiaegonllTs@{ shape: win-pane, label: "_Published Oct 15, 2025, 04:50 AM_
+Us strike on alleged drug boat off venezuela kills six, trump says" }
+Ugcumtoeonns@{ shape: win-pane, label: "_Published Sep 02, 2025, 09:49 PM_
+Us judge blocks trump administration’s use of troops in los angeles" }
+UuCiboontnls@{ shape: win-pane, label: "_Published Oct 11, 2025, 07:58 AM_
+Un security council members voice concern about us-venezuela tensions" }
+Voiriorrlisms@{ shape: win-pane, label: "_Published Dec 05, 2025, 01:36 AM_
+Video of us military strike shows survivors in ‘clear distress’, lawmaker says" }
+UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
+Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
+Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
+Us builds up forces in caribbean as officials, experts, ask why" }
+VuMoUswieggoy@{ shape: win-pane, label: "_Published Sep 02, 2025, 01:19 AM_
+Venezuela’s maduro says us warships with 1,200 missiles targeting his country" }
+PgvaHtrasoei@{ shape: win-pane, label: "_Published Dec 04, 2025, 05:30 AM_
+Pentagon review faults hegseth over signal messages on yemen strikes" }
+WHmkssnliui@{ shape: win-pane, label: "_Published Mar 25, 2025, 04:50 AM_
+White house mistakenly shares yemen war plans with journalist" }
+Pgitsahltnkldb@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:21 AM_
+Pentagon chief pete hegseth says us has ‘only just begun’ striking alleged drug boats" }
+
+Usrrfrreiscrs:::txtsize --> Irseravrrfas:::txtsize
+Irseravrrfas:::txtsize --> UiaegonllTs:::txtsize
+UiaegonllTs:::txtsize --> Ugcumtoeonns:::txtsize
+Irseravrrfas:::txtsize --> UuCiboontnls:::txtsize
+Usrrfrreiscrs:::txtsize --> Voiriorrlisms:::txtsize
+Voiriorrlisms:::txtsize --> UikperngutVura:::txtsize
+UikperngutVura:::txtsize --> Ulfsrafapay:::txtsize
+UikperngutVura:::txtsize --> VuMoUswieggoy:::txtsize
+Voiriorrlisms:::txtsize --> PgvaHtrasoei:::txtsize
+PgvaHtrasoei:::txtsize --> WHmkssnliui:::txtsize
+PgvaHtrasoei:::txtsize --> Pgitsahltnkldb:::txtsize
+
+WYresemhiJ@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:35 AM_
+While you were sleeping: 5 stories you might have missed, jan 1, 2026" }
+Speehlirane@{ shape: win-pane, label: "_Published Jan 01, 2026, 01:13 AM_
+Singapore welcomes 2026 with dazzling fireworks, heartland cheer" }
+Nanniocosniyaeo@{ shape: win-pane, label: "_Published Dec 31, 2025, 08:06 PM_
+New year 2026 countdowns: police close access to areas around marina bay, kallang due to crowds" }
+SppHnoTl@{ shape: win-pane, label: "_Published Nov 28, 2025, 07:42 PM_
+Singapore sports hub is now known as the kallang" }
+SemwrybrdapiW@{ shape: win-pane, label: "_Published Dec 31, 2025, 06:00 PM_
+S’pore economy grew 4.8% in 2025, strategy must be refreshed to stay competitive: pm wong" }
+PrWovdpo@{ shape: win-pane, label: "_Published Dec 29, 2025, 10:00 AM_
+Pm lawrence wong to deliver budget speech on feb 12" }
+Sgawhsdnarldnos@{ shape: win-pane, label: "_Published Dec 27, 2025, 05:00 AM_
+Strong job market, wealth gains to underpin singapore retail spending in 2026: economists" }
+Ucsnkerutil@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:09 AM_
+Us discusses stronger ukraine security guarantees with allies" }
+Tskecrokutlyi@{ shape: win-pane, label: "_Published Dec 29, 2025, 07:03 AM_
+Trump says ukraine deal closer but no breakthrough after zelensky meeting" }
+Zsmrnirsrpp@{ shape: win-pane, label: "_Published Dec 28, 2025, 01:05 PM_
+Zelensky to meet trump in florida for talks on ukraine peace plan" }
+Tsadvkhnrem@{ shape: win-pane, label: "_Published Dec 29, 2025, 02:09 AM_
+Trump says has 'productive' talks with putin before zelensky meet" }
+Ueyasiaely@{ shape: win-pane, label: "_Published Dec 29, 2025, 09:18 PM_
+Us offered kyiv 15 years of security guarantees: zelensky" }
+RaUnkoelUcn@{ shape: win-pane, label: "_Published Dec 27, 2025, 02:34 AM_
+Russia says ukraine seeking to ‘torpedo’ talks on us peace plan" }
+RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
+Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
+
+WYresemhiJ:::txtsize --> Speehlirane:::txtsize
+Speehlirane:::txtsize --> Nanniocosniyaeo:::txtsize
+Nanniocosniyaeo:::txtsize --> SppHnoTl:::txtsize
+Speehlirane:::txtsize --> SemwrybrdapiW:::txtsize
+SemwrybrdapiW:::txtsize --> PrWovdpo:::txtsize
+SemwrybrdapiW:::txtsize --> Sgawhsdnarldnos:::txtsize
+WYresemhiJ:::txtsize --> Ucsnkerutil:::txtsize
+Ucsnkerutil:::txtsize --> Tskecrokutlyi:::txtsize
+Tskecrokutlyi:::txtsize --> Zsmrnirsrpp:::txtsize
+Tskecrokutlyi:::txtsize --> Tsadvkhnrem:::txtsize
 Ucsnkerutil:::txtsize --> Ueyasiaely:::txtsize
 Ueyasiaely:::txtsize --> RaUnkoelUcn:::txtsize
-RaUnkoelUcn:::txtsize --> Zsmrnnidscmk:::txtsize
-RaUnkoelUcn:::txtsize --> Unlydprstowren:::txtsize
 Ueyasiaely:::txtsize --> RanssdieZsue:::txtsize
-RanssdieZsue:::txtsize --> Zsmrnnidscmk:::txtsize
-RanssdieZsue:::txtsize --> Rarnkoaudhntp:::txtsize
 
 ```
-<i>Last updated: 2026-01-01 04:00:20.107377 (GMT+8)</i>
+<i>Last updated: 2026-01-01 08:00:47.821617 (GMT+8)</i>
 <!-- END -->
