@@ -16,114 +16,102 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-UedIlbiecaoWie@{ shape: win-pane, label: "_Published Jan 01, 2026, 09:14 AM_
-Un chief condemns israeli law blocking electricity, water for unrwa facilities" }
-Udiarutahu@{ shape: win-pane, label: "_Published Dec 29, 2025, 07:26 PM_
-Us pledges $2.6b in humanitarian support to un after huge cuts in 2025" }
-Uwrgyeasuaaura@{ shape: win-pane, label: "_Published Feb 28, 2025, 01:14 AM_
-Usaid workers say goodbye to headquarters as trump drastically cuts foreign aid" }
-Taitahnetidr@{ shape: win-pane, label: "_Published Feb 27, 2025, 09:53 AM_
-Trump administration says it has cancelled most foreign aid contracts" }
-Uuoenidrpri@{ shape: win-pane, label: "_Published Jan 25, 2025, 03:12 AM_
-Us issues broad freeze on foreign aid after trump orders review" }
-Usierian@{ shape: win-pane, label: "_Published Dec 08, 2025, 01:06 PM_
-Un cuts its aid appeal for 2026 despite soaring need" }
-TfsoaeivtacWudfa@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:40 PM_
-Tens of thousands of gazans need medical evacuation, says doctors without borders official" }
-UsloolAfoia@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:00 AM_
-Us sets 2027 deadline for europe to lead nato defence, officials say" }
+Fesgueytliuieim@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:30 PM_
+For vietnam’s young, favoured germany vocational path is fraught with greedy middlemen" }
+Vardinlaclone@{ shape: win-pane, label: "_Published Jul 02, 2025, 10:55 AM_
+Vietnam approves dual citizenship law to attract skilled foreign workers" }
+Vapdpysiuit@{ shape: win-pane, label: "_Published Apr 10, 2025, 09:25 AM_
+Vietnam’s expanded visa policy a boost for its tourism, investment" }
+Vautroofattyy@{ shape: win-pane, label: "_Published Feb 28, 2025, 12:14 PM_
+Vietnam to support deportations from us after tariff threats, lawyer says" }
+Vautroofattyy@{ shape: win-pane, label: "_Published Feb 28, 2025, 12:14 PM_
+Vietnam to support deportations from us after tariff threats, lawyer says" }
 
-UedIlbiecaoWie:::txtsize --> Udiarutahu:::txtsize
-Udiarutahu:::txtsize --> Uwrgyeasuaaura:::txtsize
-Uwrgyeasuaaura:::txtsize --> Taitahnetidr:::txtsize
-Uwrgyeasuaaura:::txtsize --> Uuoenidrpri:::txtsize
-Udiarutahu:::txtsize --> Usierian:::txtsize
-Usierian:::txtsize --> TfsoaeivtacWudfa:::txtsize
-Usierian:::txtsize --> UsloolAfoia:::txtsize
+Fesgueytliuieim:::txtsize --> Vardinlaclone:::txtsize
+Vardinlaclone:::txtsize --> Vapdpysiuit:::txtsize
+Vapdpysiuit:::txtsize --> Vautroofattyy:::txtsize
+Vardinlaclone:::txtsize --> Vautroofattyy:::txtsize
 
-TsaarnoriLPa@{ shape: win-pane, label: "_Published Jan 01, 2026, 08:10 AM_
-Trump says national guard being removed from chicago, la and portland" }
-Taiteeiwniinorem@{ shape: win-pane, label: "_Published Oct 06, 2025, 12:28 AM_
-Trump administration declares us cities war zones amid rising tension over troop deployment" }
-UgcuemfoiGttfw@{ shape: win-pane, label: "_Published Oct 05, 2025, 09:28 AM_
-Us judge blocks trump’s deployment of oregon national guard to portland for now" }
-OntpplnStol@{ shape: win-pane, label: "_Published Sep 29, 2025, 07:15 AM_
-Oregon sues to stop trump’s deployment of us military to portland" }
-Twtfattaawrtr@{ shape: win-pane, label: "_Published Oct 04, 2025, 09:32 AM_
-Trump wants to cut federal aid to portland as his anger with protesters grows" }
-BronomCgrtonpn@{ shape: win-pane, label: "_Published Oct 05, 2025, 05:40 AM_
-Border patrol agents shoot woman in chicago as protesters confront ice personnel" }
-Pefttrshoatev@{ shape: win-pane, label: "_Published Oct 04, 2025, 03:30 AM_
-Police scuffle with protesters outside chicago ice facility, arrest several" }
-Pefttrshoatev@{ shape: win-pane, label: "_Published Oct 04, 2025, 03:30 AM_
-Police scuffle with protesters outside chicago ice facility, arrest several" }
-Uroespidyicrr@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:14 AM_
-Us supreme court rejects trump’s military deployment in chicago area, for now" }
-NnaioraTcfiDrlr@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:58 AM_
-National guard poised to enter chicago as trump calls for jailing democratic leaders" }
-TcfiDrlrrprCgln@{ shape: win-pane, label: "_Published Oct 08, 2025, 09:31 PM_
-Trump calls for jailing democratic leaders as troops prepare for chicago deployment" }
-TsanIroeahwhcce@{ shape: win-pane, label: "_Published Oct 08, 2025, 12:02 AM_
-Trump’s threat to invoke insurrection act escalates showdown with democratic cities" }
+Sadpowkownto@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Several dead in explosion at swiss ski resort town crans montana: police" }
+ieerychp@{ shape: win-pane, label: "_Published Jan 01, 2026, 01:59 PM_
+22 injured in new year party attack in philippines" }
+Sadpowkownto@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Several dead in explosion at swiss ski resort town crans montana: police" }
+ieerychp@{ shape: win-pane, label: "_Published Jan 01, 2026, 01:59 PM_
+22 injured in new year party attack in philippines" }
+BBsiaaoeoevod@{ shape: win-pane, label: "_Published Dec 19, 2025, 11:05 PM_
+Bondi beach shooting: what it says about the terror threat moving forward" }
+Speehlirane@{ shape: win-pane, label: "_Published Jan 01, 2026, 01:13 AM_
+Singapore welcomes 2026 with dazzling fireworks, heartland cheer" }
+Nanniocosniyaeo@{ shape: win-pane, label: "_Published Dec 31, 2025, 08:06 PM_
+New year 2026 countdowns: police close access to areas around marina bay, kallang due to crowds" }
+SemwrybrdapiW@{ shape: win-pane, label: "_Published Dec 31, 2025, 06:00 PM_
+S’pore economy grew 4.8% in 2025, strategy must be refreshed to stay competitive: pm wong" }
+BBsiaaoeoevod@{ shape: win-pane, label: "_Published Dec 19, 2025, 11:05 PM_
+Bondi beach shooting: what it says about the terror threat moving forward" }
+Asdrttenaleeoie@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:30 PM_
+At least 16 dead after shooting at sydney’s bondi beach; police declare ‘terrorist incident’" }
+Prolmnnaogee@{ shape: win-pane, label: "_Published Dec 14, 2025, 08:54 PM_
+Passer-by who tackled armed man at bondi beach shooting hailed as hero" }
+AeccAaitfw@{ shape: win-pane, label: "_Published Dec 14, 2025, 07:28 PM_
+Anti-semitic attacks in australia since start of gaza war" }
+Frueynnoehnrioa@{ shape: win-pane, label: "_Published Dec 15, 2025, 05:14 AM_
+Father-son duo allegedly behind sydney’s bondi beach shooting; 10-year-old girl among 16 dead" }
+Aolaaunoaksina@{ shape: win-pane, label: "_Published Dec 14, 2025, 10:50 PM_
+‘an act of evil’: at least 16 dead, 40 injured in terrorist attack at australia’s bondi beach" }
+BBsioryeceiWrtta@{ shape: win-pane, label: "_Published Dec 15, 2025, 12:18 AM_
+Bondi beach shooting: s’pore strongly condemns act of terrorism, pm wong writes to australian pm" }
 
-TsaarnoriLPa:::txtsize --> Taiteeiwniinorem:::txtsize
-Taiteeiwniinorem:::txtsize --> UgcuemfoiGttfw:::txtsize
-UgcuemfoiGttfw:::txtsize --> OntpplnStol:::txtsize
-UgcuemfoiGttfw:::txtsize --> Twtfattaawrtr:::txtsize
-Taiteeiwniinorem:::txtsize --> BronomCgrtonpn:::txtsize
-BronomCgrtonpn:::txtsize --> Pefttrshoatev:::txtsize
-BronomCgrtonpn:::txtsize --> Pefttrshoatev:::txtsize
-TsaarnoriLPa:::txtsize --> Uroespidyicrr:::txtsize
-Uroespidyicrr:::txtsize --> NnaioraTcfiDrlr:::txtsize
-NnaioraTcfiDrlr:::txtsize --> TcfiDrlrrprCgln:::txtsize
-NnaioraTcfiDrlr:::txtsize --> TsanIroeahwhcce:::txtsize
+Sadpowkownto:::txtsize --> ieerychp:::txtsize
+ieerychp:::txtsize --> Sadpowkownto:::txtsize
+Sadpowkownto:::txtsize --> ieerychp:::txtsize
+Sadpowkownto:::txtsize --> BBsiaaoeoevod:::txtsize
+ieerychp:::txtsize --> Speehlirane:::txtsize
+Speehlirane:::txtsize --> Nanniocosniyaeo:::txtsize
+Speehlirane:::txtsize --> SemwrybrdapiW:::txtsize
+Sadpowkownto:::txtsize --> BBsiaaoeoevod:::txtsize
+BBsiaaoeoevod:::txtsize --> Asdrttenaleeoie:::txtsize
+Asdrttenaleeoie:::txtsize --> Prolmnnaogee:::txtsize
+Asdrttenaleeoie:::txtsize --> AeccAaitfw:::txtsize
+BBsiaaoeoevod:::txtsize --> Frueynnoehnrioa:::txtsize
+Frueynnoehnrioa:::txtsize --> Aolaaunoaksina:::txtsize
+Frueynnoehnrioa:::txtsize --> BBsioryeceiWrtta:::txtsize
 
-Unlyhtwealpnwu@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:29 AM_
-Ukraine’s zelensky says he won’t sign weak deal that will only prolong war with russia" }
-Tskecrokutlyi@{ shape: win-pane, label: "_Published Dec 29, 2025, 07:03 AM_
-Trump says ukraine deal closer but no breakthrough after zelensky meeting" }
-Zsmrnirsrpp@{ shape: win-pane, label: "_Published Dec 28, 2025, 01:05 PM_
-Zelensky to meet trump in florida for talks on ukraine peace plan" }
-RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
-Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
-Tstia@{ shape: win-pane, label: "_Published Nov 21, 2025, 04:26 PM_
-Trump’s 28-point ukraine plan" }
-Tsadvkhnrem@{ shape: win-pane, label: "_Published Dec 29, 2025, 02:09 AM_
-Trump says has 'productive' talks with putin before zelensky meet" }
-RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
-Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
-Psuwcekebcyeaa@{ shape: win-pane, label: "_Published Dec 28, 2025, 02:34 AM_
-Putin says russia will achieve its ukraine aims by force if kyiv doesn’t want peace" }
-UnfasaeaPre@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:04 AM_
-Ukraine, eu officials dismiss alleged attack on putin residence" }
-Tvnbldcure@{ shape: win-pane, label: "_Published Dec 30, 2025, 04:10 AM_
-Trump ‘very angry’ about alleged attack on putin’s residence" }
-RaUnaPsKahieiaf@{ shape: win-pane, label: "_Published Dec 29, 2025, 11:40 PM_
-Russia says ukraine attacked putin’s home; kyiv calls this a ‘lie’ undermining peace efforts" }
-Tskecrokutlyi@{ shape: win-pane, label: "_Published Dec 29, 2025, 07:03 AM_
-Trump says ukraine deal closer but no breakthrough after zelensky meeting" }
-Woouscttkecuen@{ shape: win-pane, label: "_Published Dec 30, 2025, 07:39 PM_
-What do we know about russia’s accusations that ukraine attacked putin residence?" }
-RaUnaPsKahieiaf@{ shape: win-pane, label: "_Published Dec 29, 2025, 11:40 PM_
-Russia says ukraine attacked putin’s home; kyiv calls this a ‘lie’ undermining peace efforts" }
-Tvnbldcure@{ shape: win-pane, label: "_Published Dec 30, 2025, 04:10 AM_
-Trump ‘very angry’ about alleged attack on putin’s residence" }
+LsdavNroemd@{ shape: win-pane, label: "_Published Jan 01, 2026, 01:57 PM_
+Leftist mamdani takes over as new york mayor under trump shadow" }
+TwruhoegNryrtad@{ shape: win-pane, label: "_Published Nov 22, 2025, 07:14 AM_
+Takeaways from trump’s white house meeting with new york city mayor-elect zohran mamdani" }
+TcncoYaloMnhoeg@{ shape: win-pane, label: "_Published Nov 22, 2025, 04:54 AM_
+Trump commends victory of new york mayor-elect zohran mamdani at white house meeting" }
+ThuMnlmenekmae@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:15 PM_
+‘turn the volume up,’ mamdani tells trump after winning new york city mayoral race" }
+TarwsekaMn@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:10 AM_
+Trump aides review funds for new york city after mamdani win" }
+TarwsekaMn@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:10 AM_
+Trump aides review funds for new york city after mamdani win" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+Tcsbcaomhwes@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:55 AM_
+Trump claims ‘very big victory’ as us government shutdown vote nears" }
+Mntshul@{ shape: win-pane, label: "_Published Nov 07, 2025, 05:00 AM_
+Mamdani and the rise of the populist left" }
+HhaiTbdemek@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:08 PM_
+How zohran mamdani beat trump-backed andrew cuomo in new york" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
 
-Unlyhtwealpnwu:::txtsize --> Tskecrokutlyi:::txtsize
-Tskecrokutlyi:::txtsize --> Zsmrnirsrpp:::txtsize
-Zsmrnirsrpp:::txtsize --> RanssdieZsue:::txtsize
-Zsmrnirsrpp:::txtsize --> Tstia:::txtsize
-Tskecrokutlyi:::txtsize --> Tsadvkhnrem:::txtsize
-Tsadvkhnrem:::txtsize --> RanssdieZsue:::txtsize
-Tsadvkhnrem:::txtsize --> Psuwcekebcyeaa:::txtsize
-Unlyhtwealpnwu:::txtsize --> UnfasaeaPre:::txtsize
-UnfasaeaPre:::txtsize --> Tvnbldcure:::txtsize
-Tvnbldcure:::txtsize --> RaUnaPsKahieiaf:::txtsize
-Tvnbldcure:::txtsize --> Tskecrokutlyi:::txtsize
-UnfasaeaPre:::txtsize --> Woouscttkecuen:::txtsize
-Woouscttkecuen:::txtsize --> RaUnaPsKahieiaf:::txtsize
-Woouscttkecuen:::txtsize --> Tvnbldcure:::txtsize
+LsdavNroemd:::txtsize --> TwruhoegNryrtad:::txtsize
+TwruhoegNryrtad:::txtsize --> TcncoYaloMnhoeg:::txtsize
+TcncoYaloMnhoeg:::txtsize --> ThuMnlmenekmae:::txtsize
+TcncoYaloMnhoeg:::txtsize --> TarwsekaMn:::txtsize
+TwruhoegNryrtad:::txtsize --> TarwsekaMn:::txtsize
+TarwsekaMn:::txtsize --> YMmnoihaiYilehpea:::txtsize
+TarwsekaMn:::txtsize --> Tcsbcaomhwes:::txtsize
+LsdavNroemd:::txtsize --> Mntshul:::txtsize
+Mntshul:::txtsize --> HhaiTbdemek:::txtsize
+HhaiTbdemek:::txtsize --> YMmnoihaiYilehpea:::txtsize
 
 ```
-<i>Last updated: 2026-01-01 12:01:15.843715 (GMT+8)</i>
+<i>Last updated: 2026-01-01 16:00:39.647130 (GMT+8)</i>
 <!-- END -->
