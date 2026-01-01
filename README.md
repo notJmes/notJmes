@@ -16,6 +16,68 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+UedIlbiecaoWie@{ shape: win-pane, label: "_Published Jan 01, 2026, 09:14 AM_
+Un chief condemns israeli law blocking electricity, water for unrwa facilities" }
+Udiarutahu@{ shape: win-pane, label: "_Published Dec 29, 2025, 07:26 PM_
+Us pledges $2.6b in humanitarian support to un after huge cuts in 2025" }
+Uwrgyeasuaaura@{ shape: win-pane, label: "_Published Feb 28, 2025, 01:14 AM_
+Usaid workers say goodbye to headquarters as trump drastically cuts foreign aid" }
+Taitahnetidr@{ shape: win-pane, label: "_Published Feb 27, 2025, 09:53 AM_
+Trump administration says it has cancelled most foreign aid contracts" }
+Uuoenidrpri@{ shape: win-pane, label: "_Published Jan 25, 2025, 03:12 AM_
+Us issues broad freeze on foreign aid after trump orders review" }
+Usierian@{ shape: win-pane, label: "_Published Dec 08, 2025, 01:06 PM_
+Un cuts its aid appeal for 2026 despite soaring need" }
+TfsoaeivtacWudfa@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:40 PM_
+Tens of thousands of gazans need medical evacuation, says doctors without borders official" }
+UsloolAfoia@{ shape: win-pane, label: "_Published Dec 06, 2025, 01:00 AM_
+Us sets 2027 deadline for europe to lead nato defence, officials say" }
+
+UedIlbiecaoWie:::txtsize --> Udiarutahu:::txtsize
+Udiarutahu:::txtsize --> Uwrgyeasuaaura:::txtsize
+Uwrgyeasuaaura:::txtsize --> Taitahnetidr:::txtsize
+Uwrgyeasuaaura:::txtsize --> Uuoenidrpri:::txtsize
+Udiarutahu:::txtsize --> Usierian:::txtsize
+Usierian:::txtsize --> TfsoaeivtacWudfa:::txtsize
+Usierian:::txtsize --> UsloolAfoia:::txtsize
+
+TsaarnoriLPa@{ shape: win-pane, label: "_Published Jan 01, 2026, 08:10 AM_
+Trump says national guard being removed from chicago, la and portland" }
+Taiteeiwniinorem@{ shape: win-pane, label: "_Published Oct 06, 2025, 12:28 AM_
+Trump administration declares us cities war zones amid rising tension over troop deployment" }
+UgcuemfoiGttfw@{ shape: win-pane, label: "_Published Oct 05, 2025, 09:28 AM_
+Us judge blocks trump’s deployment of oregon national guard to portland for now" }
+OntpplnStol@{ shape: win-pane, label: "_Published Sep 29, 2025, 07:15 AM_
+Oregon sues to stop trump’s deployment of us military to portland" }
+Twtfattaawrtr@{ shape: win-pane, label: "_Published Oct 04, 2025, 09:32 AM_
+Trump wants to cut federal aid to portland as his anger with protesters grows" }
+BronomCgrtonpn@{ shape: win-pane, label: "_Published Oct 05, 2025, 05:40 AM_
+Border patrol agents shoot woman in chicago as protesters confront ice personnel" }
+Pefttrshoatev@{ shape: win-pane, label: "_Published Oct 04, 2025, 03:30 AM_
+Police scuffle with protesters outside chicago ice facility, arrest several" }
+Pefttrshoatev@{ shape: win-pane, label: "_Published Oct 04, 2025, 03:30 AM_
+Police scuffle with protesters outside chicago ice facility, arrest several" }
+Uroespidyicrr@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:14 AM_
+Us supreme court rejects trump’s military deployment in chicago area, for now" }
+NnaioraTcfiDrlr@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:58 AM_
+National guard poised to enter chicago as trump calls for jailing democratic leaders" }
+TcfiDrlrrprCgln@{ shape: win-pane, label: "_Published Oct 08, 2025, 09:31 PM_
+Trump calls for jailing democratic leaders as troops prepare for chicago deployment" }
+TsanIroeahwhcce@{ shape: win-pane, label: "_Published Oct 08, 2025, 12:02 AM_
+Trump’s threat to invoke insurrection act escalates showdown with democratic cities" }
+
+TsaarnoriLPa:::txtsize --> Taiteeiwniinorem:::txtsize
+Taiteeiwniinorem:::txtsize --> UgcuemfoiGttfw:::txtsize
+UgcuemfoiGttfw:::txtsize --> OntpplnStol:::txtsize
+UgcuemfoiGttfw:::txtsize --> Twtfattaawrtr:::txtsize
+Taiteeiwniinorem:::txtsize --> BronomCgrtonpn:::txtsize
+BronomCgrtonpn:::txtsize --> Pefttrshoatev:::txtsize
+BronomCgrtonpn:::txtsize --> Pefttrshoatev:::txtsize
+TsaarnoriLPa:::txtsize --> Uroespidyicrr:::txtsize
+Uroespidyicrr:::txtsize --> NnaioraTcfiDrlr:::txtsize
+NnaioraTcfiDrlr:::txtsize --> TcfiDrlrrprCgln:::txtsize
+NnaioraTcfiDrlr:::txtsize --> TsanIroeahwhcce:::txtsize
+
 Unlyhtwealpnwu@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:29 AM_
 Ukraine’s zelensky says he won’t sign weak deal that will only prolong war with russia" }
 Tskecrokutlyi@{ shape: win-pane, label: "_Published Dec 29, 2025, 07:03 AM_
@@ -62,86 +124,6 @@ UnfasaeaPre:::txtsize --> Woouscttkecuen:::txtsize
 Woouscttkecuen:::txtsize --> RaUnaPsKahieiaf:::txtsize
 Woouscttkecuen:::txtsize --> Tvnbldcure:::txtsize
 
-Usrrfrreiscrs@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:44 AM_
-Us coast guard searches for survivors after strike on suspected drug vessels" }
-Irseravrrfas@{ shape: win-pane, label: "_Published Oct 17, 2025, 08:00 AM_
-In a first, us strike in caribbean leaves survivors, us official says" }
-UiaegonllTs@{ shape: win-pane, label: "_Published Oct 15, 2025, 04:50 AM_
-Us strike on alleged drug boat off venezuela kills six, trump says" }
-Ugcumtoeonns@{ shape: win-pane, label: "_Published Sep 02, 2025, 09:49 PM_
-Us judge blocks trump administration’s use of troops in los angeles" }
-UuCiboontnls@{ shape: win-pane, label: "_Published Oct 11, 2025, 07:58 AM_
-Un security council members voice concern about us-venezuela tensions" }
-Voiriorrlisms@{ shape: win-pane, label: "_Published Dec 05, 2025, 01:36 AM_
-Video of us military strike shows survivors in ‘clear distress’, lawmaker says" }
-UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
-Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
-Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
-Us builds up forces in caribbean as officials, experts, ask why" }
-VuMoUswieggoy@{ shape: win-pane, label: "_Published Sep 02, 2025, 01:19 AM_
-Venezuela’s maduro says us warships with 1,200 missiles targeting his country" }
-PgvaHtrasoei@{ shape: win-pane, label: "_Published Dec 04, 2025, 05:30 AM_
-Pentagon review faults hegseth over signal messages on yemen strikes" }
-WHmkssnliui@{ shape: win-pane, label: "_Published Mar 25, 2025, 04:50 AM_
-White house mistakenly shares yemen war plans with journalist" }
-Pgitsahltnkldb@{ shape: win-pane, label: "_Published Dec 03, 2025, 03:21 AM_
-Pentagon chief pete hegseth says us has ‘only just begun’ striking alleged drug boats" }
-
-Usrrfrreiscrs:::txtsize --> Irseravrrfas:::txtsize
-Irseravrrfas:::txtsize --> UiaegonllTs:::txtsize
-UiaegonllTs:::txtsize --> Ugcumtoeonns:::txtsize
-Irseravrrfas:::txtsize --> UuCiboontnls:::txtsize
-Usrrfrreiscrs:::txtsize --> Voiriorrlisms:::txtsize
-Voiriorrlisms:::txtsize --> UikperngutVura:::txtsize
-UikperngutVura:::txtsize --> Ulfsrafapay:::txtsize
-UikperngutVura:::txtsize --> VuMoUswieggoy:::txtsize
-Voiriorrlisms:::txtsize --> PgvaHtrasoei:::txtsize
-PgvaHtrasoei:::txtsize --> WHmkssnliui:::txtsize
-PgvaHtrasoei:::txtsize --> Pgitsahltnkldb:::txtsize
-
-WYresemhiJ@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:35 AM_
-While you were sleeping: 5 stories you might have missed, jan 1, 2026" }
-Speehlirane@{ shape: win-pane, label: "_Published Jan 01, 2026, 01:13 AM_
-Singapore welcomes 2026 with dazzling fireworks, heartland cheer" }
-Nanniocosniyaeo@{ shape: win-pane, label: "_Published Dec 31, 2025, 08:06 PM_
-New year 2026 countdowns: police close access to areas around marina bay, kallang due to crowds" }
-SppHnoTl@{ shape: win-pane, label: "_Published Nov 28, 2025, 07:42 PM_
-Singapore sports hub is now known as the kallang" }
-SemwrybrdapiW@{ shape: win-pane, label: "_Published Dec 31, 2025, 06:00 PM_
-S’pore economy grew 4.8% in 2025, strategy must be refreshed to stay competitive: pm wong" }
-PrWovdpo@{ shape: win-pane, label: "_Published Dec 29, 2025, 10:00 AM_
-Pm lawrence wong to deliver budget speech on feb 12" }
-Sgawhsdnarldnos@{ shape: win-pane, label: "_Published Dec 27, 2025, 05:00 AM_
-Strong job market, wealth gains to underpin singapore retail spending in 2026: economists" }
-Ucsnkerutil@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:09 AM_
-Us discusses stronger ukraine security guarantees with allies" }
-Tskecrokutlyi@{ shape: win-pane, label: "_Published Dec 29, 2025, 07:03 AM_
-Trump says ukraine deal closer but no breakthrough after zelensky meeting" }
-Zsmrnirsrpp@{ shape: win-pane, label: "_Published Dec 28, 2025, 01:05 PM_
-Zelensky to meet trump in florida for talks on ukraine peace plan" }
-Tsadvkhnrem@{ shape: win-pane, label: "_Published Dec 29, 2025, 02:09 AM_
-Trump says has 'productive' talks with putin before zelensky meet" }
-Ueyasiaely@{ shape: win-pane, label: "_Published Dec 29, 2025, 09:18 PM_
-Us offered kyiv 15 years of security guarantees: zelensky" }
-RaUnkoelUcn@{ shape: win-pane, label: "_Published Dec 27, 2025, 02:34 AM_
-Russia says ukraine seeking to ‘torpedo’ talks on us peace plan" }
-RanssdieZsue@{ shape: win-pane, label: "_Published Dec 27, 2025, 08:49 AM_
-Russian drones, missiles pound ukraine ahead of zelensky-trump meeting" }
-
-WYresemhiJ:::txtsize --> Speehlirane:::txtsize
-Speehlirane:::txtsize --> Nanniocosniyaeo:::txtsize
-Nanniocosniyaeo:::txtsize --> SppHnoTl:::txtsize
-Speehlirane:::txtsize --> SemwrybrdapiW:::txtsize
-SemwrybrdapiW:::txtsize --> PrWovdpo:::txtsize
-SemwrybrdapiW:::txtsize --> Sgawhsdnarldnos:::txtsize
-WYresemhiJ:::txtsize --> Ucsnkerutil:::txtsize
-Ucsnkerutil:::txtsize --> Tskecrokutlyi:::txtsize
-Tskecrokutlyi:::txtsize --> Zsmrnirsrpp:::txtsize
-Tskecrokutlyi:::txtsize --> Tsadvkhnrem:::txtsize
-Ucsnkerutil:::txtsize --> Ueyasiaely:::txtsize
-Ueyasiaely:::txtsize --> RaUnkoelUcn:::txtsize
-Ueyasiaely:::txtsize --> RanssdieZsue:::txtsize
-
 ```
-<i>Last updated: 2026-01-01 08:00:47.821617 (GMT+8)</i>
+<i>Last updated: 2026-01-01 12:01:15.843715 (GMT+8)</i>
 <!-- END -->
