@@ -16,102 +16,111 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Fesgueytliuieim@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:30 PM_
-For vietnam’s young, favoured germany vocational path is fraught with greedy middlemen" }
-Vardinlaclone@{ shape: win-pane, label: "_Published Jul 02, 2025, 10:55 AM_
-Vietnam approves dual citizenship law to attract skilled foreign workers" }
-Vapdpysiuit@{ shape: win-pane, label: "_Published Apr 10, 2025, 09:25 AM_
-Vietnam’s expanded visa policy a boost for its tourism, investment" }
-Vautroofattyy@{ shape: win-pane, label: "_Published Feb 28, 2025, 12:14 PM_
-Vietnam to support deportations from us after tariff threats, lawyer says" }
-Vautroofattyy@{ shape: win-pane, label: "_Published Feb 28, 2025, 12:14 PM_
-Vietnam to support deportations from us after tariff threats, lawyer says" }
+IlilrnOa@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:49 PM_
+Israel says it will enforce ban on 37 ngos in gaza" }
+Ilnttotcbiddpnu@{ shape: win-pane, label: "_Published Dec 24, 2025, 11:53 PM_
+Israel green lights contentious oct 7 attack probe, families demand independent inquiry" }
+Ilvinviddrdy@{ shape: win-pane, label: "_Published Dec 25, 2025, 01:52 AM_
+Israel to invest $140 billion in developing independent arms industry" }
+Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
+‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
+Ilnwbosealcy@{ shape: win-pane, label: "_Published Dec 23, 2025, 08:04 PM_
+Israel extends power to ban broadcasts deemed harmful to security" }
+Ilnwbosealcy@{ shape: win-pane, label: "_Published Dec 23, 2025, 08:04 PM_
+Israel extends power to ban broadcasts deemed harmful to security" }
+Nyutteffraa@{ shape: win-pane, label: "_Published Apr 01, 2024, 09:57 PM_
+Netanyahu pushes to shut israeli office of qatar’s al jazeera tv" }
+Ilnnrtyzaho@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:54 PM_
+Israel defence minister vows to stay in gaza, establish outposts" }
+NpyosbSphdtnlnm@{ shape: win-pane, label: "_Published Dec 31, 2025, 03:15 PM_
+No happy new year for those hit by war; singapore should do what it can to help: shanmugam" }
+AvtheeSpoesast@{ shape: win-pane, label: "_Published Dec 20, 2025, 11:05 AM_
+About 200 volunteers hit the streets of singapore to raise funds for gaza residents" }
+Goefeiimccybnor@{ shape: win-pane, label: "_Published Dec 19, 2025, 08:11 PM_
+Gaza no longer has famine but situation remains critical, says global hunger monitor" }
+SputnpeenaGaedii@{ shape: win-pane, label: "_Published Nov 17, 2024, 07:00 PM_
+Singapore humanitarian group has sent over 50 tonnes of aid to gaza, launches fund-raising drive" }
+WcehaavnpsUBTR@{ shape: win-pane, label: "_Published Dec 27, 2025, 12:15 PM_
+Woman charged with vandalism at salvation army premises in upper bukit timah road" }
+Wldloyaiebrn@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:20 PM_
+Woman linked to salvation army vandalism incident to be charged on dec 27" }
+Wattaidlhsloyinth@{ shape: win-pane, label: "_Published Dec 25, 2025, 04:21 PM_
+Woman arrested after graffiti found on walls, vehicles at salvation army premises in bukit timah" }
 
-Fesgueytliuieim:::txtsize --> Vardinlaclone:::txtsize
-Vardinlaclone:::txtsize --> Vapdpysiuit:::txtsize
-Vapdpysiuit:::txtsize --> Vautroofattyy:::txtsize
-Vardinlaclone:::txtsize --> Vautroofattyy:::txtsize
+IlilrnOa:::txtsize --> Ilnttotcbiddpnu:::txtsize
+Ilnttotcbiddpnu:::txtsize --> Ilvinviddrdy:::txtsize
+Ilvinviddrdy:::txtsize --> Sbsrcdnacaale:::txtsize
+Ilvinviddrdy:::txtsize --> Ilnwbosealcy:::txtsize
+Ilnttotcbiddpnu:::txtsize --> Ilnwbosealcy:::txtsize
+Ilnwbosealcy:::txtsize --> Nyutteffraa:::txtsize
+Ilnwbosealcy:::txtsize --> Ilnnrtyzaho:::txtsize
+IlilrnOa:::txtsize --> NpyosbSphdtnlnm:::txtsize
+NpyosbSphdtnlnm:::txtsize --> AvtheeSpoesast:::txtsize
+AvtheeSpoesast:::txtsize --> Goefeiimccybnor:::txtsize
+AvtheeSpoesast:::txtsize --> SputnpeenaGaedii:::txtsize
+NpyosbSphdtnlnm:::txtsize --> WcehaavnpsUBTR:::txtsize
+WcehaavnpsUBTR:::txtsize --> Wldloyaiebrn:::txtsize
+WcehaavnpsUBTR:::txtsize --> Wattaidlhsloyinth:::txtsize
 
-Sadpowkownto@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Several dead in explosion at swiss ski resort town crans montana: police" }
-ieerychp@{ shape: win-pane, label: "_Published Jan 01, 2026, 01:59 PM_
-22 injured in new year party attack in philippines" }
-Sadpowkownto@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Several dead in explosion at swiss ski resort town crans montana: police" }
-ieerychp@{ shape: win-pane, label: "_Published Jan 01, 2026, 01:59 PM_
-22 injured in new year party attack in philippines" }
-BBsiaaoeoevod@{ shape: win-pane, label: "_Published Dec 19, 2025, 11:05 PM_
-Bondi beach shooting: what it says about the terror threat moving forward" }
-Speehlirane@{ shape: win-pane, label: "_Published Jan 01, 2026, 01:13 AM_
-Singapore welcomes 2026 with dazzling fireworks, heartland cheer" }
-Nanniocosniyaeo@{ shape: win-pane, label: "_Published Dec 31, 2025, 08:06 PM_
-New year 2026 countdowns: police close access to areas around marina bay, kallang due to crowds" }
-SemwrybrdapiW@{ shape: win-pane, label: "_Published Dec 31, 2025, 06:00 PM_
-S’pore economy grew 4.8% in 2025, strategy must be refreshed to stay competitive: pm wong" }
-BBsiaaoeoevod@{ shape: win-pane, label: "_Published Dec 19, 2025, 11:05 PM_
-Bondi beach shooting: what it says about the terror threat moving forward" }
-Asdrttenaleeoie@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:30 PM_
-At least 16 dead after shooting at sydney’s bondi beach; police declare ‘terrorist incident’" }
-Prolmnnaogee@{ shape: win-pane, label: "_Published Dec 14, 2025, 08:54 PM_
-Passer-by who tackled armed man at bondi beach shooting hailed as hero" }
-AeccAaitfw@{ shape: win-pane, label: "_Published Dec 14, 2025, 07:28 PM_
-Anti-semitic attacks in australia since start of gaza war" }
-Frueynnoehnrioa@{ shape: win-pane, label: "_Published Dec 15, 2025, 05:14 AM_
-Father-son duo allegedly behind sydney’s bondi beach shooting; 10-year-old girl among 16 dead" }
-Aolaaunoaksina@{ shape: win-pane, label: "_Published Dec 14, 2025, 10:50 PM_
-‘an act of evil’: at least 16 dead, 40 injured in terrorist attack at australia’s bondi beach" }
-BBsioryeceiWrtta@{ shape: win-pane, label: "_Published Dec 15, 2025, 12:18 AM_
-Bondi beach shooting: s’pore strongly condemns act of terrorism, pm wong writes to australian pm" }
+Taieooi@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:30 PM_
+They want to influence you to do… nothing" }
+Igntygckhwce@{ shape: win-pane, label: "_Published Dec 01, 2025, 06:21 PM_
+In an age of instant everything, postcards keep the slow magic alive" }
+Plyaaaadaeisl@{ shape: win-pane, label: "_Published Oct 24, 2025, 01:15 PM_
+Pen pals for 43 years, a singaporean and a canadian had never met in person – till now" }
+TeleSslrtegntgt@{ shape: win-pane, label: "_Published May 15, 2025, 12:15 PM_
+‘tell her you like her’: the s’pore social experiment connecting strangers through letters" }
 
-Sadpowkownto:::txtsize --> ieerychp:::txtsize
-ieerychp:::txtsize --> Sadpowkownto:::txtsize
-Sadpowkownto:::txtsize --> ieerychp:::txtsize
-Sadpowkownto:::txtsize --> BBsiaaoeoevod:::txtsize
-ieerychp:::txtsize --> Speehlirane:::txtsize
-Speehlirane:::txtsize --> Nanniocosniyaeo:::txtsize
-Speehlirane:::txtsize --> SemwrybrdapiW:::txtsize
-Sadpowkownto:::txtsize --> BBsiaaoeoevod:::txtsize
-BBsiaaoeoevod:::txtsize --> Asdrttenaleeoie:::txtsize
-Asdrttenaleeoie:::txtsize --> Prolmnnaogee:::txtsize
-Asdrttenaleeoie:::txtsize --> AeccAaitfw:::txtsize
-BBsiaaoeoevod:::txtsize --> Frueynnoehnrioa:::txtsize
-Frueynnoehnrioa:::txtsize --> Aolaaunoaksina:::txtsize
-Frueynnoehnrioa:::txtsize --> BBsioryeceiWrtta:::txtsize
+Taieooi:::txtsize --> Igntygckhwce:::txtsize
+Igntygckhwce:::txtsize --> Plyaaaadaeisl:::txtsize
+Plyaaaadaeisl:::txtsize --> TeleSslrtegntgt:::txtsize
 
-LsdavNroemd@{ shape: win-pane, label: "_Published Jan 01, 2026, 01:57 PM_
-Leftist mamdani takes over as new york mayor under trump shadow" }
-TwruhoegNryrtad@{ shape: win-pane, label: "_Published Nov 22, 2025, 07:14 AM_
-Takeaways from trump’s white house meeting with new york city mayor-elect zohran mamdani" }
-TcncoYaloMnhoeg@{ shape: win-pane, label: "_Published Nov 22, 2025, 04:54 AM_
-Trump commends victory of new york mayor-elect zohran mamdani at white house meeting" }
-ThuMnlmenekmae@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:15 PM_
-‘turn the volume up,’ mamdani tells trump after winning new york city mayoral race" }
-TarwsekaMn@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:10 AM_
-Trump aides review funds for new york city after mamdani win" }
-TarwsekaMn@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:10 AM_
-Trump aides review funds for new york city after mamdani win" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-Tcsbcaomhwes@{ shape: win-pane, label: "_Published Nov 12, 2025, 06:55 AM_
-Trump claims ‘very big victory’ as us government shutdown vote nears" }
-Mntshul@{ shape: win-pane, label: "_Published Nov 07, 2025, 05:00 AM_
-Mamdani and the rise of the populist left" }
-HhaiTbdemek@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:08 PM_
-How zohran mamdani beat trump-backed andrew cuomo in new york" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+BrierpfmooBiCtae@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:19 PM_
+Bulgaria joining euro area is powerful symbol for europe: ecb president christine lagarde" }
+Brouirna@{ shape: win-pane, label: "_Published Dec 28, 2025, 04:15 PM_
+Bulgaria adopts euro amid fear and uncertainty" }
+Bromesrsrrtiot@{ shape: win-pane, label: "_Published Dec 11, 2025, 08:58 PM_
+Bulgarian government resigns after weeks of street protests against corruption" }
+BrcsbaefUnt@{ shape: win-pane, label: "_Published Jul 08, 2025, 08:35 PM_
+Bulgaria becomes 21st member to adopt euro after eu green light" }
+Gillepsairyoacs@{ shape: win-pane, label: "_Published Oct 05, 2025, 09:06 AM_
+Georgian police clash, detain protesters as ruling party says it won local elections" }
+EeatsesPmna@{ shape: win-pane, label: "_Published Sep 01, 2025, 07:39 PM_
+Eu chief’s plane hit by suspected russian gps jamming in bulgaria" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Apapoeafe@{ shape: win-pane, label: "_Published Aug 22, 2025, 05:00 AM_
+A trumpian game of ping pong over ukraine’s future" }
+Brouirna@{ shape: win-pane, label: "_Published Dec 28, 2025, 04:15 PM_
+Bulgaria adopts euro amid fear and uncertainty" }
+Bromesrsrrtiot@{ shape: win-pane, label: "_Published Dec 11, 2025, 08:58 PM_
+Bulgarian government resigns after weeks of street protests against corruption" }
+BrcsbaefUnt@{ shape: win-pane, label: "_Published Jul 08, 2025, 08:35 PM_
+Bulgaria becomes 21st member to adopt euro after eu green light" }
+Gillepsairyoacs@{ shape: win-pane, label: "_Published Oct 05, 2025, 09:06 AM_
+Georgian police clash, detain protesters as ruling party says it won local elections" }
+EeatsesPmna@{ shape: win-pane, label: "_Published Sep 01, 2025, 07:39 PM_
+Eu chief’s plane hit by suspected russian gps jamming in bulgaria" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Apapoeafe@{ shape: win-pane, label: "_Published Aug 22, 2025, 05:00 AM_
+A trumpian game of ping pong over ukraine’s future" }
 
-LsdavNroemd:::txtsize --> TwruhoegNryrtad:::txtsize
-TwruhoegNryrtad:::txtsize --> TcncoYaloMnhoeg:::txtsize
-TcncoYaloMnhoeg:::txtsize --> ThuMnlmenekmae:::txtsize
-TcncoYaloMnhoeg:::txtsize --> TarwsekaMn:::txtsize
-TwruhoegNryrtad:::txtsize --> TarwsekaMn:::txtsize
-TarwsekaMn:::txtsize --> YMmnoihaiYilehpea:::txtsize
-TarwsekaMn:::txtsize --> Tcsbcaomhwes:::txtsize
-LsdavNroemd:::txtsize --> Mntshul:::txtsize
-Mntshul:::txtsize --> HhaiTbdemek:::txtsize
-HhaiTbdemek:::txtsize --> YMmnoihaiYilehpea:::txtsize
+BrierpfmooBiCtae:::txtsize --> Brouirna:::txtsize
+Brouirna:::txtsize --> Bromesrsrrtiot:::txtsize
+Bromesrsrrtiot:::txtsize --> BrcsbaefUnt:::txtsize
+Bromesrsrrtiot:::txtsize --> Gillepsairyoacs:::txtsize
+Brouirna:::txtsize --> EeatsesPmna:::txtsize
+EeatsesPmna:::txtsize --> DsruasvUn:::txtsize
+EeatsesPmna:::txtsize --> Apapoeafe:::txtsize
+BrierpfmooBiCtae:::txtsize --> Brouirna:::txtsize
+Brouirna:::txtsize --> Bromesrsrrtiot:::txtsize
+Bromesrsrrtiot:::txtsize --> BrcsbaefUnt:::txtsize
+Bromesrsrrtiot:::txtsize --> Gillepsairyoacs:::txtsize
+Brouirna:::txtsize --> EeatsesPmna:::txtsize
+EeatsesPmna:::txtsize --> DsruasvUn:::txtsize
+EeatsesPmna:::txtsize --> Apapoeafe:::txtsize
 
 ```
-<i>Last updated: 2026-01-01 16:00:39.647130 (GMT+8)</i>
+<i>Last updated: 2026-01-01 20:01:03.911977 (GMT+8)</i>
 <!-- END -->
