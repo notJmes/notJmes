@@ -16,111 +16,132 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-IlilrnOa@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:49 PM_
-Israel says it will enforce ban on 37 ngos in gaza" }
-Ilnttotcbiddpnu@{ shape: win-pane, label: "_Published Dec 24, 2025, 11:53 PM_
-Israel green lights contentious oct 7 attack probe, families demand independent inquiry" }
-Ilvinviddrdy@{ shape: win-pane, label: "_Published Dec 25, 2025, 01:52 AM_
-Israel to invest $140 billion in developing independent arms industry" }
-Sbsrcdnacaale@{ shape: win-pane, label: "_Published Oct 08, 2023, 12:45 AM_
-‘sea of bodies’ in israel, scores dead in gaza as shock hamas attack unleashes war" }
-Ilnwbosealcy@{ shape: win-pane, label: "_Published Dec 23, 2025, 08:04 PM_
-Israel extends power to ban broadcasts deemed harmful to security" }
-Ilnwbosealcy@{ shape: win-pane, label: "_Published Dec 23, 2025, 08:04 PM_
-Israel extends power to ban broadcasts deemed harmful to security" }
-Nyutteffraa@{ shape: win-pane, label: "_Published Apr 01, 2024, 09:57 PM_
-Netanyahu pushes to shut israeli office of qatar’s al jazeera tv" }
-Ilnnrtyzaho@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:54 PM_
-Israel defence minister vows to stay in gaza, establish outposts" }
-NpyosbSphdtnlnm@{ shape: win-pane, label: "_Published Dec 31, 2025, 03:15 PM_
-No happy new year for those hit by war; singapore should do what it can to help: shanmugam" }
-AvtheeSpoesast@{ shape: win-pane, label: "_Published Dec 20, 2025, 11:05 AM_
-About 200 volunteers hit the streets of singapore to raise funds for gaza residents" }
-Goefeiimccybnor@{ shape: win-pane, label: "_Published Dec 19, 2025, 08:11 PM_
-Gaza no longer has famine but situation remains critical, says global hunger monitor" }
-SputnpeenaGaedii@{ shape: win-pane, label: "_Published Nov 17, 2024, 07:00 PM_
-Singapore humanitarian group has sent over 50 tonnes of aid to gaza, launches fund-raising drive" }
-WcehaavnpsUBTR@{ shape: win-pane, label: "_Published Dec 27, 2025, 12:15 PM_
-Woman charged with vandalism at salvation army premises in upper bukit timah road" }
-Wldloyaiebrn@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:20 PM_
-Woman linked to salvation army vandalism incident to be charged on dec 27" }
-Wattaidlhsloyinth@{ shape: win-pane, label: "_Published Dec 25, 2025, 04:21 PM_
-Woman arrested after graffiti found on walls, vehicles at salvation army premises in bukit timah" }
+BleujBnetorolns@{ shape: win-pane, label: "_Published Jan 01, 2026, 10:58 PM_
+Brazil supreme court rejects bolsonaro request for house arrest on health concerns" }
+BlteBohestost@{ shape: win-pane, label: "_Published Dec 17, 2025, 12:36 PM_
+Brazil senate to debate bill to slash former president  bolsonaro’s jail term" }
+BleBnecyisrp@{ shape: win-pane, label: "_Published Sep 12, 2025, 04:02 AM_
+Brazil’s ex-leader bolsonaro sentenced to 27 years in prison for coup plot" }
+Aeoataperi@{ shape: win-pane, label: "_Published Jul 11, 2025, 06:43 AM_
+All eyes on bolsonaro with lula, trump locked in trade fight" }
+Weotozom@{ shape: win-pane, label: "_Published Jan 10, 2023, 10:27 AM_
+What led up to the attack on brazil’s government?" }
+Bnsnsistuiiel@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:52 PM_
+Bolsonaro’s son confirms brazil presidential run, decision ‘irreversible’" }
+Bnsyarrist@{ shape: win-pane, label: "_Published Dec 08, 2025, 04:16 AM_
+Bolsonaro’s son says he may not run for brazil president" }
+Blreisotru@{ shape: win-pane, label: "_Published Dec 28, 2025, 06:45 AM_
+Brazil’s ex-president jair bolsonaro treated for hiccups" }
+BleBnecyisrp@{ shape: win-pane, label: "_Published Sep 12, 2025, 04:02 AM_
+Brazil’s ex-leader bolsonaro sentenced to 27 years in prison for coup plot" }
+Aeoataperi@{ shape: win-pane, label: "_Published Jul 11, 2025, 06:43 AM_
+All eyes on bolsonaro with lula, trump locked in trade fight" }
+Weotozom@{ shape: win-pane, label: "_Published Jan 10, 2023, 10:27 AM_
+What led up to the attack on brazil’s government?" }
+BleBnecyisrp@{ shape: win-pane, label: "_Published Sep 12, 2025, 04:02 AM_
+Brazil’s ex-leader bolsonaro sentenced to 27 years in prison for coup plot" }
+Aeoataperi@{ shape: win-pane, label: "_Published Jul 11, 2025, 06:43 AM_
+All eyes on bolsonaro with lula, trump locked in trade fight" }
+Weotozom@{ shape: win-pane, label: "_Published Jan 10, 2023, 10:27 AM_
+What led up to the attack on brazil’s government?" }
 
-IlilrnOa:::txtsize --> Ilnttotcbiddpnu:::txtsize
-Ilnttotcbiddpnu:::txtsize --> Ilvinviddrdy:::txtsize
-Ilvinviddrdy:::txtsize --> Sbsrcdnacaale:::txtsize
-Ilvinviddrdy:::txtsize --> Ilnwbosealcy:::txtsize
-Ilnttotcbiddpnu:::txtsize --> Ilnwbosealcy:::txtsize
-Ilnwbosealcy:::txtsize --> Nyutteffraa:::txtsize
-Ilnwbosealcy:::txtsize --> Ilnnrtyzaho:::txtsize
-IlilrnOa:::txtsize --> NpyosbSphdtnlnm:::txtsize
-NpyosbSphdtnlnm:::txtsize --> AvtheeSpoesast:::txtsize
-AvtheeSpoesast:::txtsize --> Goefeiimccybnor:::txtsize
-AvtheeSpoesast:::txtsize --> SputnpeenaGaedii:::txtsize
-NpyosbSphdtnlnm:::txtsize --> WcehaavnpsUBTR:::txtsize
-WcehaavnpsUBTR:::txtsize --> Wldloyaiebrn:::txtsize
-WcehaavnpsUBTR:::txtsize --> Wattaidlhsloyinth:::txtsize
+BleujBnetorolns:::txtsize --> BlteBohestost:::txtsize
+BlteBohestost:::txtsize --> BleBnecyisrp:::txtsize
+BleBnecyisrp:::txtsize --> Aeoataperi:::txtsize
+BleBnecyisrp:::txtsize --> Weotozom:::txtsize
+BlteBohestost:::txtsize --> Bnsnsistuiiel:::txtsize
+Bnsnsistuiiel:::txtsize --> Bnsyarrist:::txtsize
+BleujBnetorolns:::txtsize --> Blreisotru:::txtsize
+Blreisotru:::txtsize --> BleBnecyisrp:::txtsize
+BleBnecyisrp:::txtsize --> Aeoataperi:::txtsize
+BleBnecyisrp:::txtsize --> Weotozom:::txtsize
+Blreisotru:::txtsize --> BleBnecyisrp:::txtsize
+BleBnecyisrp:::txtsize --> Aeoataperi:::txtsize
+BleBnecyisrp:::txtsize --> Weotozom:::txtsize
 
-Taieooi@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:30 PM_
-They want to influence you to do… nothing" }
-Igntygckhwce@{ shape: win-pane, label: "_Published Dec 01, 2025, 06:21 PM_
-In an age of instant everything, postcards keep the slow magic alive" }
-Plyaaaadaeisl@{ shape: win-pane, label: "_Published Oct 24, 2025, 01:15 PM_
-Pen pals for 43 years, a singaporean and a canadian had never met in person – till now" }
-TeleSslrtegntgt@{ shape: win-pane, label: "_Published May 15, 2025, 12:15 PM_
-‘tell her you like her’: the s’pore social experiment connecting strangers through letters" }
+TtWiirihcrm@{ shape: win-pane, label: "_Published Jan 01, 2026, 10:44 PM_
+Trump tells wsj he is taking more aspirin than doctors recommend" }
+IbhahrnrccidraHs@{ shape: win-pane, label: "_Published Jul 22, 2024, 01:59 AM_
+‘it has been the greatest honour’: biden ends re-election campaign and endorses kamala harris" }
+WaHscwbaUtfsi@{ shape: win-pane, label: "_Published Jul 21, 2024, 10:29 PM_
+With kamala harris, democrats would bet against us history of sexism, racism" }
+Seocesnned@{ shape: win-pane, label: "_Published Jul 18, 2024, 07:39 AM_
+Schumer, pelosi increase pressure on biden to step aside" }
+Btpirdemnc@{ shape: win-pane, label: "_Published Jul 18, 2024, 06:27 AM_
+Biden tests positive for covid-19, cancels campaign speech" }
+Tseraenn@{ shape: win-pane, label: "_Published Oct 27, 2025, 05:25 PM_
+Trump says he underwent an mri examination" }
+TdragnfitirsPd@{ shape: win-pane, label: "_Published Jan 21, 2025, 01:02 AM_
+Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
+Tpsrmtioutv@{ shape: win-pane, label: "_Published Jan 20, 2025, 05:54 AM_
+Trump promises harsh immigration limits on inauguration eve" }
+TttSecaaxhue@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:40 AM_
+Trump threatens us trade policy of ‘tariff and tax’ on other countries" }
+Thraylty@{ shape: win-pane, label: "_Published Oct 11, 2025, 11:00 AM_
+Trump, 79, has ‘cardiac age’ of 65-year-old, doctor says" }
+Tgemacha@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:24 PM_
+Trump, 79, gets second medical check-up this year" }
+Ttehamauon@{ shape: win-pane, label: "_Published Oct 09, 2025, 11:16 AM_
+Trump to undergo physical exam as health questions linger" }
 
-Taieooi:::txtsize --> Igntygckhwce:::txtsize
-Igntygckhwce:::txtsize --> Plyaaaadaeisl:::txtsize
-Plyaaaadaeisl:::txtsize --> TeleSslrtegntgt:::txtsize
+TtWiirihcrm:::txtsize --> IbhahrnrccidraHs:::txtsize
+IbhahrnrccidraHs:::txtsize --> WaHscwbaUtfsi:::txtsize
+WaHscwbaUtfsi:::txtsize --> Seocesnned:::txtsize
+WaHscwbaUtfsi:::txtsize --> Btpirdemnc:::txtsize
+TtWiirihcrm:::txtsize --> Tseraenn:::txtsize
+Tseraenn:::txtsize --> TdragnfitirsPd:::txtsize
+TdragnfitirsPd:::txtsize --> Tpsrmtioutv:::txtsize
+TdragnfitirsPd:::txtsize --> TttSecaaxhue:::txtsize
+Tseraenn:::txtsize --> Thraylty:::txtsize
+Thraylty:::txtsize --> Tgemacha:::txtsize
+Thraylty:::txtsize --> Ttehamauon:::txtsize
 
-BrierpfmooBiCtae@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:19 PM_
-Bulgaria joining euro area is powerful symbol for europe: ecb president christine lagarde" }
-Brouirna@{ shape: win-pane, label: "_Published Dec 28, 2025, 04:15 PM_
-Bulgaria adopts euro amid fear and uncertainty" }
-Bromesrsrrtiot@{ shape: win-pane, label: "_Published Dec 11, 2025, 08:58 PM_
-Bulgarian government resigns after weeks of street protests against corruption" }
-BrcsbaefUnt@{ shape: win-pane, label: "_Published Jul 08, 2025, 08:35 PM_
-Bulgaria becomes 21st member to adopt euro after eu green light" }
-Gillepsairyoacs@{ shape: win-pane, label: "_Published Oct 05, 2025, 09:06 AM_
-Georgian police clash, detain protesters as ruling party says it won local elections" }
-EeatsesPmna@{ shape: win-pane, label: "_Published Sep 01, 2025, 07:39 PM_
-Eu chief’s plane hit by suspected russian gps jamming in bulgaria" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Apapoeafe@{ shape: win-pane, label: "_Published Aug 22, 2025, 05:00 AM_
-A trumpian game of ping pong over ukraine’s future" }
-Brouirna@{ shape: win-pane, label: "_Published Dec 28, 2025, 04:15 PM_
-Bulgaria adopts euro amid fear and uncertainty" }
-Bromesrsrrtiot@{ shape: win-pane, label: "_Published Dec 11, 2025, 08:58 PM_
-Bulgarian government resigns after weeks of street protests against corruption" }
-BrcsbaefUnt@{ shape: win-pane, label: "_Published Jul 08, 2025, 08:35 PM_
-Bulgaria becomes 21st member to adopt euro after eu green light" }
-Gillepsairyoacs@{ shape: win-pane, label: "_Published Oct 05, 2025, 09:06 AM_
-Georgian police clash, detain protesters as ruling party says it won local elections" }
-EeatsesPmna@{ shape: win-pane, label: "_Published Sep 01, 2025, 07:39 PM_
-Eu chief’s plane hit by suspected russian gps jamming in bulgaria" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Apapoeafe@{ shape: win-pane, label: "_Published Aug 22, 2025, 05:00 AM_
-A trumpian game of ping pong over ukraine’s future" }
+Sidsltsarb@{ shape: win-pane, label: "_Published Jan 01, 2026, 10:36 PM_
+Somaliland denies it will host palestinians, israeli base" }
+Ilmrutmrnolspnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:49 PM_
+Israel becomes first country to formally recognise somaliland as independent state" }
+WrAao@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:46 PM_
+What are the abraham accords?" }
+Ilemahmaroais@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:27 PM_
+Israel targets hamas leadership in military strikes on qatar, officials say" }
+Hmdulnrecsud@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:15 PM_
+How hamas’ audacious, well-planned surprise attack on israel unfolded" }
+Upneockecdr@{ shape: win-pane, label: "_Published May 17, 2025, 02:21 PM_
+Uae is pouring money into africa, seeking resources and power" }
+TaniliEtrnn@{ shape: win-pane, label: "_Published May 16, 2025, 01:27 AM_
+Trump announces $260b in deals during uae visit, ai agreement signed" }
+Gtuuelrima@{ shape: win-pane, label: "_Published May 17, 2025, 12:38 AM_
+Gulf states use opulence and flattery to win trump’s heart" }
+IlnmavNcreav@{ shape: win-pane, label: "_Published Dec 30, 2025, 07:26 AM_
+Israel defends somaliland move at un amid concerns over gaza motives" }
+Ilmrutmrnolspnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:49 PM_
+Israel becomes first country to formally recognise somaliland as independent state" }
+WrAao@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:46 PM_
+What are the abraham accords?" }
+Upneockecdr@{ shape: win-pane, label: "_Published May 17, 2025, 02:21 PM_
+Uae is pouring money into africa, seeking resources and power" }
+WlrlilntoUySs@{ shape: win-pane, label: "_Published Sep 23, 2025, 03:40 AM_
+World leaders rally behind palestinian statehood at un, defying us and israel" }
+BvrsPtnegoaNi@{ shape: win-pane, label: "_Published Sep 21, 2025, 03:54 PM_
+Bereaved israelis urge palestinian state recognition ahead of un summit" }
+Sweiooaisteosa@{ shape: win-pane, label: "_Published Sep 22, 2025, 03:12 PM_
+S’pore will reconsider position on palestine if situation deteriorates: vivian" }
 
-BrierpfmooBiCtae:::txtsize --> Brouirna:::txtsize
-Brouirna:::txtsize --> Bromesrsrrtiot:::txtsize
-Bromesrsrrtiot:::txtsize --> BrcsbaefUnt:::txtsize
-Bromesrsrrtiot:::txtsize --> Gillepsairyoacs:::txtsize
-Brouirna:::txtsize --> EeatsesPmna:::txtsize
-EeatsesPmna:::txtsize --> DsruasvUn:::txtsize
-EeatsesPmna:::txtsize --> Apapoeafe:::txtsize
-BrierpfmooBiCtae:::txtsize --> Brouirna:::txtsize
-Brouirna:::txtsize --> Bromesrsrrtiot:::txtsize
-Bromesrsrrtiot:::txtsize --> BrcsbaefUnt:::txtsize
-Bromesrsrrtiot:::txtsize --> Gillepsairyoacs:::txtsize
-Brouirna:::txtsize --> EeatsesPmna:::txtsize
-EeatsesPmna:::txtsize --> DsruasvUn:::txtsize
-EeatsesPmna:::txtsize --> Apapoeafe:::txtsize
+Sidsltsarb:::txtsize --> Ilmrutmrnolspnt:::txtsize
+Ilmrutmrnolspnt:::txtsize --> WrAao:::txtsize
+WrAao:::txtsize --> Ilemahmaroais:::txtsize
+WrAao:::txtsize --> Hmdulnrecsud:::txtsize
+Ilmrutmrnolspnt:::txtsize --> Upneockecdr:::txtsize
+Upneockecdr:::txtsize --> TaniliEtrnn:::txtsize
+Upneockecdr:::txtsize --> Gtuuelrima:::txtsize
+Sidsltsarb:::txtsize --> IlnmavNcreav:::txtsize
+IlnmavNcreav:::txtsize --> Ilmrutmrnolspnt:::txtsize
+Ilmrutmrnolspnt:::txtsize --> WrAao:::txtsize
+Ilmrutmrnolspnt:::txtsize --> Upneockecdr:::txtsize
+IlnmavNcreav:::txtsize --> WlrlilntoUySs:::txtsize
+WlrlilntoUySs:::txtsize --> BvrsPtnegoaNi:::txtsize
+WlrlilntoUySs:::txtsize --> Sweiooaisteosa:::txtsize
 
 ```
-<i>Last updated: 2026-01-01 20:01:03.911977 (GMT+8)</i>
+<i>Last updated: 2026-01-02 00:00:38.674681 (GMT+8)</i>
 <!-- END -->
