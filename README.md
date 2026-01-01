@@ -16,6 +16,49 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Rakeegniaanea@{ shape: win-pane, label: "_Published Jan 02, 2026, 12:25 AM_
+Russia and ukraine trade allegations of civilian attacks on new year's day" }
+TsegemnaSikke@{ shape: win-pane, label: "_Published Dec 19, 2025, 04:20 AM_
+Trump says ‘getting close to something’ ahead of us, russia talks on ukraine" }
+EdaueosrRaeri@{ shape: win-pane, label: "_Published Dec 18, 2025, 03:36 PM_
+Eu leaders face crunch decision on using frozen russian assets for ukraine" }
+Crsvhhral@{ shape: win-pane, label: "_Published Dec 18, 2025, 02:05 PM_
+Can ukraine survive without the eu’s ‘reparation loan’?" }
+Crsvhhral@{ shape: win-pane, label: "_Published Dec 18, 2025, 02:05 PM_
+Can ukraine survive without the eu’s ‘reparation loan’?" }
+EaeyiElernpoa@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:15 AM_
+Ecb’s lagarde ‘fully confident’ eu will agree reparation loan plan for ukraine" }
+EdaueosrRaeri@{ shape: win-pane, label: "_Published Dec 18, 2025, 03:36 PM_
+Eu leaders face crunch decision on using frozen russian assets for ukraine" }
+EdaueosrRaeri@{ shape: win-pane, label: "_Published Dec 18, 2025, 03:36 PM_
+Eu leaders face crunch decision on using frozen russian assets for ukraine" }
+Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
+Timeline: how russia's attack on ukraine unfolded" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
+Explosions heard in ukraine capital kyiv, other cities" }
+OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
+Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
+BsSeloutdcuoa@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:18 PM_
+Biden says us, allies will respond to 'unjustified' attack by russia on ukraine" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+
+Rakeegniaanea:::txtsize --> TsegemnaSikke:::txtsize
+TsegemnaSikke:::txtsize --> EdaueosrRaeri:::txtsize
+EdaueosrRaeri:::txtsize --> Crsvhhral:::txtsize
+EdaueosrRaeri:::txtsize --> Crsvhhral:::txtsize
+TsegemnaSikke:::txtsize --> EaeyiElernpoa:::txtsize
+EaeyiElernpoa:::txtsize --> EdaueosrRaeri:::txtsize
+EaeyiElernpoa:::txtsize --> EdaueosrRaeri:::txtsize
+Rakeegniaanea:::txtsize --> Tiwitnifd:::txtsize
+Tiwitnifd:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
+DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
+Tiwitnifd:::txtsize --> BsSeloutdcuoa:::txtsize
+BsSeloutdcuoa:::txtsize --> DsruasvUn:::txtsize
+
 BleujBnetorolns@{ shape: win-pane, label: "_Published Jan 01, 2026, 10:58 PM_
 Brazil supreme court rejects bolsonaro request for house arrest on health concerns" }
 BlteBohestost@{ shape: win-pane, label: "_Published Dec 17, 2025, 12:36 PM_
@@ -59,89 +102,43 @@ Blreisotru:::txtsize --> BleBnecyisrp:::txtsize
 BleBnecyisrp:::txtsize --> Aeoataperi:::txtsize
 BleBnecyisrp:::txtsize --> Weotozom:::txtsize
 
-TtWiirihcrm@{ shape: win-pane, label: "_Published Jan 01, 2026, 10:44 PM_
-Trump tells wsj he is taking more aspirin than doctors recommend" }
-IbhahrnrccidraHs@{ shape: win-pane, label: "_Published Jul 22, 2024, 01:59 AM_
-‘it has been the greatest honour’: biden ends re-election campaign and endorses kamala harris" }
-WaHscwbaUtfsi@{ shape: win-pane, label: "_Published Jul 21, 2024, 10:29 PM_
-With kamala harris, democrats would bet against us history of sexism, racism" }
-Seocesnned@{ shape: win-pane, label: "_Published Jul 18, 2024, 07:39 AM_
-Schumer, pelosi increase pressure on biden to step aside" }
-Btpirdemnc@{ shape: win-pane, label: "_Published Jul 18, 2024, 06:27 AM_
-Biden tests positive for covid-19, cancels campaign speech" }
-Tseraenn@{ shape: win-pane, label: "_Published Oct 27, 2025, 05:25 PM_
-Trump says he underwent an mri examination" }
-TdragnfitirsPd@{ shape: win-pane, label: "_Published Jan 21, 2025, 01:02 AM_
-Trump declares start of ‘golden age of america’ after he is sworn in as 47th us president" }
-Tpsrmtioutv@{ shape: win-pane, label: "_Published Jan 20, 2025, 05:54 AM_
-Trump promises harsh immigration limits on inauguration eve" }
-TttSecaaxhue@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:40 AM_
-Trump threatens us trade policy of ‘tariff and tax’ on other countries" }
+Tbssnsnels@{ shape: win-pane, label: "_Published Jan 01, 2026, 10:44 PM_
+Trump blames bruised hand on aspirin, denies falling asleep" }
 Thraylty@{ shape: win-pane, label: "_Published Oct 11, 2025, 11:00 AM_
 Trump, 79, has ‘cardiac age’ of 65-year-old, doctor says" }
 Tgemacha@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:24 PM_
 Trump, 79, gets second medical check-up this year" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+IbhahrnrccidraHs@{ shape: win-pane, label: "_Published Jul 22, 2024, 01:59 AM_
+‘it has been the greatest honour’: biden ends re-election campaign and endorses kamala harris" }
 Ttehamauon@{ shape: win-pane, label: "_Published Oct 09, 2025, 11:16 AM_
 Trump to undergo physical exam as health questions linger" }
+Tdoiidniglho@{ shape: win-pane, label: "_Published Jul 18, 2025, 02:46 AM_
+Trump diagnosed with vein condition causing leg swelling: white house" }
+IbhahrnrccidraHs@{ shape: win-pane, label: "_Published Jul 22, 2024, 01:59 AM_
+‘it has been the greatest honour’: biden ends re-election campaign and endorses kamala harris" }
+WHbspdhnss@{ shape: win-pane, label: "_Published Dec 12, 2025, 07:10 AM_
+White house blames trump’s bandaged hand on handshakes" }
+Tseadieael@{ shape: win-pane, label: "_Published Dec 10, 2025, 12:40 PM_
+Trump says he ‘aced’ a third cognitive exam taken recently" }
+Tddnrdnvraraoips@{ shape: win-pane, label: "_Published Dec 10, 2025, 12:00 PM_
+Trump defends economic record at pennsylvania rally amid frustration over rising prices" }
+UsteSndtesodg@{ shape: win-pane, label: "_Published Jun 28, 2024, 01:35 PM_
+Us presidential debate: some undecided voters see a disastrous biden night" }
 
-TtWiirihcrm:::txtsize --> IbhahrnrccidraHs:::txtsize
-IbhahrnrccidraHs:::txtsize --> WaHscwbaUtfsi:::txtsize
-WaHscwbaUtfsi:::txtsize --> Seocesnned:::txtsize
-WaHscwbaUtfsi:::txtsize --> Btpirdemnc:::txtsize
-TtWiirihcrm:::txtsize --> Tseraenn:::txtsize
-Tseraenn:::txtsize --> TdragnfitirsPd:::txtsize
-TdragnfitirsPd:::txtsize --> Tpsrmtioutv:::txtsize
-TdragnfitirsPd:::txtsize --> TttSecaaxhue:::txtsize
-Tseraenn:::txtsize --> Thraylty:::txtsize
+Tbssnsnels:::txtsize --> Thraylty:::txtsize
 Thraylty:::txtsize --> Tgemacha:::txtsize
+Tgemacha:::txtsize --> TssHaossaaorslaoe:::txtsize
+Tgemacha:::txtsize --> IbhahrnrccidraHs:::txtsize
 Thraylty:::txtsize --> Ttehamauon:::txtsize
-
-Sidsltsarb@{ shape: win-pane, label: "_Published Jan 01, 2026, 10:36 PM_
-Somaliland denies it will host palestinians, israeli base" }
-Ilmrutmrnolspnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:49 PM_
-Israel becomes first country to formally recognise somaliland as independent state" }
-WrAao@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:46 PM_
-What are the abraham accords?" }
-Ilemahmaroais@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:27 PM_
-Israel targets hamas leadership in military strikes on qatar, officials say" }
-Hmdulnrecsud@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:15 PM_
-How hamas’ audacious, well-planned surprise attack on israel unfolded" }
-Upneockecdr@{ shape: win-pane, label: "_Published May 17, 2025, 02:21 PM_
-Uae is pouring money into africa, seeking resources and power" }
-TaniliEtrnn@{ shape: win-pane, label: "_Published May 16, 2025, 01:27 AM_
-Trump announces $260b in deals during uae visit, ai agreement signed" }
-Gtuuelrima@{ shape: win-pane, label: "_Published May 17, 2025, 12:38 AM_
-Gulf states use opulence and flattery to win trump’s heart" }
-IlnmavNcreav@{ shape: win-pane, label: "_Published Dec 30, 2025, 07:26 AM_
-Israel defends somaliland move at un amid concerns over gaza motives" }
-Ilmrutmrnolspnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:49 PM_
-Israel becomes first country to formally recognise somaliland as independent state" }
-WrAao@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:46 PM_
-What are the abraham accords?" }
-Upneockecdr@{ shape: win-pane, label: "_Published May 17, 2025, 02:21 PM_
-Uae is pouring money into africa, seeking resources and power" }
-WlrlilntoUySs@{ shape: win-pane, label: "_Published Sep 23, 2025, 03:40 AM_
-World leaders rally behind palestinian statehood at un, defying us and israel" }
-BvrsPtnegoaNi@{ shape: win-pane, label: "_Published Sep 21, 2025, 03:54 PM_
-Bereaved israelis urge palestinian state recognition ahead of un summit" }
-Sweiooaisteosa@{ shape: win-pane, label: "_Published Sep 22, 2025, 03:12 PM_
-S’pore will reconsider position on palestine if situation deteriorates: vivian" }
-
-Sidsltsarb:::txtsize --> Ilmrutmrnolspnt:::txtsize
-Ilmrutmrnolspnt:::txtsize --> WrAao:::txtsize
-WrAao:::txtsize --> Ilemahmaroais:::txtsize
-WrAao:::txtsize --> Hmdulnrecsud:::txtsize
-Ilmrutmrnolspnt:::txtsize --> Upneockecdr:::txtsize
-Upneockecdr:::txtsize --> TaniliEtrnn:::txtsize
-Upneockecdr:::txtsize --> Gtuuelrima:::txtsize
-Sidsltsarb:::txtsize --> IlnmavNcreav:::txtsize
-IlnmavNcreav:::txtsize --> Ilmrutmrnolspnt:::txtsize
-Ilmrutmrnolspnt:::txtsize --> WrAao:::txtsize
-Ilmrutmrnolspnt:::txtsize --> Upneockecdr:::txtsize
-IlnmavNcreav:::txtsize --> WlrlilntoUySs:::txtsize
-WlrlilntoUySs:::txtsize --> BvrsPtnegoaNi:::txtsize
-WlrlilntoUySs:::txtsize --> Sweiooaisteosa:::txtsize
+Ttehamauon:::txtsize --> Tdoiidniglho:::txtsize
+Ttehamauon:::txtsize --> IbhahrnrccidraHs:::txtsize
+Tbssnsnels:::txtsize --> WHbspdhnss:::txtsize
+WHbspdhnss:::txtsize --> Tseadieael:::txtsize
+Tseadieael:::txtsize --> Tddnrdnvraraoips:::txtsize
+Tseadieael:::txtsize --> UsteSndtesodg:::txtsize
 
 ```
-<i>Last updated: 2026-01-02 00:00:38.674681 (GMT+8)</i>
+<i>Last updated: 2026-01-02 04:01:08.333575 (GMT+8)</i>
 <!-- END -->
