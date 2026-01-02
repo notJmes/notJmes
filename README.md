@@ -16,8 +16,8 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-TanfStdtess@{ shape: win-pane, label: "_Published Jan 02, 2026, 09:55 AM_
-The crans-montana fire: a swiss tragedy that raises questions" }
+CMnesghiuo@{ shape: win-pane, label: "_Published Jan 02, 2026, 09:55 AM_
+Crans-montana fire: a swiss tragedy that raises questions" }
 Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
 Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
 CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
@@ -47,14 +47,14 @@ Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, p
 Pesmeryianrteodtn@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
 ‘people were screaming’: new year party at swiss crans-montana resort turned into fire disaster zone" }
 
-TanfStdtess:::txtsize --> Dserrftssairpe:::txtsize
+CMnesghiuo:::txtsize --> Dserrftssairpe:::txtsize
 Dserrftssairpe:::txtsize --> CMnsoceaaeltrcs:::txtsize
 CMnsoceaaeltrcs:::txtsize --> Dserrftssairpe:::txtsize
 CMnsoceaaeltrcs:::txtsize --> Dserrftssairpe:::txtsize
 Dserrftssairpe:::txtsize --> Pesmeryianrteodtn:::txtsize
 Pesmeryianrteodtn:::txtsize --> Dserrftssairpe:::txtsize
 Pesmeryianrteodtn:::txtsize --> CMnsoceaaeltrcs:::txtsize
-TanfStdtess:::txtsize --> CMneznrtvewis:::txtsize
+CMnesghiuo:::txtsize --> CMneznrtvewis:::txtsize
 CMneznrtvewis:::txtsize --> Dserrftssairpe:::txtsize
 Dserrftssairpe:::txtsize --> CMnsoceaaeltrcs:::txtsize
 Dserrftssairpe:::txtsize --> Pesmeryianrteodtn:::txtsize
@@ -155,5 +155,5 @@ CMnesaukeyisaae:::txtsize --> Dserrftssairpe:::txtsize
 CMnesaukeyisaae:::txtsize --> Pesmeryianrteodtn:::txtsize
 
 ```
-<i>Last updated: 2026-01-02 12:00:54.365354 (GMT+8)</i>
+<i>Last updated: 2026-01-02 16:00:16.736376 (GMT+8)</i>
 <!-- END -->
