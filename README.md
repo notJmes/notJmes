@@ -16,141 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tausciosei@{ shape: win-pane, label: "_Published Jan 02, 2026, 07:58 AM_
-Tears and stunned silence at vigil for swiss fire victims" }
-Sfrsonicodr@{ shape: win-pane, label: "_Published Jan 02, 2026, 07:14 AM_
-Swiss face arduous task of identifying victims of deadly bar fire" }
-Dserrftsebla@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss ski resort bar, police say" }
+TanfStdtess@{ shape: win-pane, label: "_Published Jan 02, 2026, 09:55 AM_
+The crans-montana fire: a swiss tragedy that raises questions" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
 CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
 Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
-Pesmeryiirntdraz@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
-‘people were screaming’: new year party at swiss ski resort turned into deadly fire disaster zone" }
-Pesmeryiirntdraz@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
-‘people were screaming’: new year party at swiss ski resort turned into deadly fire disaster zone" }
-Dserrftsebla@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss ski resort bar, police say" }
-Dserrftsebla@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss ski resort bar, police say" }
-Pesmeryiirntdraz@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
-‘people were screaming’: new year party at swiss ski resort turned into deadly fire disaster zone" }
-Dserrftsebla@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss ski resort bar, police say" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
+Pesmeryianrteodtn@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
+‘people were screaming’: new year party at swiss crans-montana resort turned into fire disaster zone" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
 CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
 Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
-Pesmeryiirntdraz@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
-‘people were screaming’: new year party at swiss ski resort turned into deadly fire disaster zone" }
-Dserrftsebla@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss ski resort bar, police say" }
+CMneznrtvewis@{ shape: win-pane, label: "_Published Jan 02, 2026, 09:10 AM_
+Crans-montana fire: switzerland’s burn centres overwhelmed with victims" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
 CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
 Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
-Pesmeryiirntdraz@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
-‘people were screaming’: new year party at swiss ski resort turned into deadly fire disaster zone" }
+Pesmeryianrteodtn@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
+‘people were screaming’: new year party at swiss crans-montana resort turned into fire disaster zone" }
+CMnesaukeyisaae@{ shape: win-pane, label: "_Published Jan 02, 2026, 07:14 AM_
+Crans-montana fire: swiss face arduous task of identifying victims of deadly bar inferno" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
+Pesmeryianrteodtn@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
+‘people were screaming’: new year party at swiss crans-montana resort turned into fire disaster zone" }
 
-Tausciosei:::txtsize --> Sfrsonicodr:::txtsize
-Sfrsonicodr:::txtsize --> Dserrftsebla:::txtsize
-Dserrftsebla:::txtsize --> CMnsoceaaeltrcs:::txtsize
-Dserrftsebla:::txtsize --> Pesmeryiirntdraz:::txtsize
-Sfrsonicodr:::txtsize --> Pesmeryiirntdraz:::txtsize
-Pesmeryiirntdraz:::txtsize --> Dserrftsebla:::txtsize
-Pesmeryiirntdraz:::txtsize --> Dserrftsebla:::txtsize
-Tausciosei:::txtsize --> Pesmeryiirntdraz:::txtsize
-Pesmeryiirntdraz:::txtsize --> Dserrftsebla:::txtsize
-Dserrftsebla:::txtsize --> CMnsoceaaeltrcs:::txtsize
-Dserrftsebla:::txtsize --> Pesmeryiirntdraz:::txtsize
-Pesmeryiirntdraz:::txtsize --> Dserrftsebla:::txtsize
-Dserrftsebla:::txtsize --> CMnsoceaaeltrcs:::txtsize
-Dserrftsebla:::txtsize --> Pesmeryiirntdraz:::txtsize
+TanfStdtess:::txtsize --> Dserrftssairpe:::txtsize
+Dserrftssairpe:::txtsize --> CMnsoceaaeltrcs:::txtsize
+CMnsoceaaeltrcs:::txtsize --> Dserrftssairpe:::txtsize
+CMnsoceaaeltrcs:::txtsize --> Dserrftssairpe:::txtsize
+Dserrftssairpe:::txtsize --> Pesmeryianrteodtn:::txtsize
+Pesmeryianrteodtn:::txtsize --> Dserrftssairpe:::txtsize
+Pesmeryianrteodtn:::txtsize --> CMnsoceaaeltrcs:::txtsize
+TanfStdtess:::txtsize --> CMneznrtvewis:::txtsize
+CMneznrtvewis:::txtsize --> Dserrftssairpe:::txtsize
+Dserrftssairpe:::txtsize --> CMnsoceaaeltrcs:::txtsize
+Dserrftssairpe:::txtsize --> Pesmeryianrteodtn:::txtsize
+CMneznrtvewis:::txtsize --> CMnesaukeyisaae:::txtsize
+CMnesaukeyisaae:::txtsize --> Dserrftssairpe:::txtsize
+CMnesaukeyisaae:::txtsize --> Pesmeryianrteodtn:::txtsize
 
-Sfrsonicodr@{ shape: win-pane, label: "_Published Jan 02, 2026, 07:14 AM_
-Swiss face arduous task of identifying victims of deadly bar fire" }
-Dserrftsebla@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss ski resort bar, police say" }
+CMneznrtvewis@{ shape: win-pane, label: "_Published Jan 02, 2026, 09:10 AM_
+Crans-montana fire: switzerland’s burn centres overwhelmed with victims" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
 CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
 Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
-Dserrftsebla@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss ski resort bar, police say" }
-Dserrftsebla@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss ski resort bar, police say" }
-Pesmeryiirntdraz@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
-‘people were screaming’: new year party at swiss ski resort turned into deadly fire disaster zone" }
-Dserrftsebla@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss ski resort bar, police say" }
-Dserrftsebla@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss ski resort bar, police say" }
-Pesmeryiirntdraz@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
-‘people were screaming’: new year party at swiss ski resort turned into deadly fire disaster zone" }
-Dserrftsebla@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss ski resort bar, police say" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
+Pesmeryianrteodtn@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
+‘people were screaming’: new year party at swiss crans-montana resort turned into fire disaster zone" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
 CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
 Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
-Pesmeryiirntdraz@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
-‘people were screaming’: new year party at swiss ski resort turned into deadly fire disaster zone" }
-Dserrftsebla@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss ski resort bar, police say" }
+CMnesaukeyisaae@{ shape: win-pane, label: "_Published Jan 02, 2026, 07:14 AM_
+Crans-montana fire: swiss face arduous task of identifying victims of deadly bar inferno" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
 CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
 Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
-Pesmeryiirntdraz@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
-‘people were screaming’: new year party at swiss ski resort turned into deadly fire disaster zone" }
+Pesmeryianrteodtn@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
+‘people were screaming’: new year party at swiss crans-montana resort turned into fire disaster zone" }
+Pesmeryianrteodtn@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
+‘people were screaming’: new year party at swiss crans-montana resort turned into fire disaster zone" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
+CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
+Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
 
-Sfrsonicodr:::txtsize --> Dserrftsebla:::txtsize
-Dserrftsebla:::txtsize --> CMnsoceaaeltrcs:::txtsize
-CMnsoceaaeltrcs:::txtsize --> Dserrftsebla:::txtsize
-CMnsoceaaeltrcs:::txtsize --> Dserrftsebla:::txtsize
-Dserrftsebla:::txtsize --> Pesmeryiirntdraz:::txtsize
-Pesmeryiirntdraz:::txtsize --> Dserrftsebla:::txtsize
-Pesmeryiirntdraz:::txtsize --> Dserrftsebla:::txtsize
-Sfrsonicodr:::txtsize --> Pesmeryiirntdraz:::txtsize
-Pesmeryiirntdraz:::txtsize --> Dserrftsebla:::txtsize
-Dserrftsebla:::txtsize --> CMnsoceaaeltrcs:::txtsize
-Dserrftsebla:::txtsize --> Pesmeryiirntdraz:::txtsize
-Pesmeryiirntdraz:::txtsize --> Dserrftsebla:::txtsize
-Dserrftsebla:::txtsize --> CMnsoceaaeltrcs:::txtsize
-Dserrftsebla:::txtsize --> Pesmeryiirntdraz:::txtsize
+CMneznrtvewis:::txtsize --> Dserrftssairpe:::txtsize
+Dserrftssairpe:::txtsize --> CMnsoceaaeltrcs:::txtsize
+CMnsoceaaeltrcs:::txtsize --> Dserrftssairpe:::txtsize
+CMnsoceaaeltrcs:::txtsize --> Dserrftssairpe:::txtsize
+Dserrftssairpe:::txtsize --> Pesmeryianrteodtn:::txtsize
+Pesmeryianrteodtn:::txtsize --> Dserrftssairpe:::txtsize
+Pesmeryianrteodtn:::txtsize --> CMnsoceaaeltrcs:::txtsize
+CMneznrtvewis:::txtsize --> CMnesaukeyisaae:::txtsize
+CMnesaukeyisaae:::txtsize --> Dserrftssairpe:::txtsize
+Dserrftssairpe:::txtsize --> CMnsoceaaeltrcs:::txtsize
+Dserrftssairpe:::txtsize --> Pesmeryianrteodtn:::txtsize
+CMnesaukeyisaae:::txtsize --> Pesmeryianrteodtn:::txtsize
+Pesmeryianrteodtn:::txtsize --> Dserrftssairpe:::txtsize
+Pesmeryianrteodtn:::txtsize --> CMnsoceaaeltrcs:::txtsize
 
-Nrormautogncl@{ shape: win-pane, label: "_Published Jan 02, 2026, 07:00 AM_
-New york mayor zohran mamdani, at inauguration, vows to govern ‘audaciously’" }
-LsdavNroemd@{ shape: win-pane, label: "_Published Jan 01, 2026, 01:57 PM_
-Leftist mamdani takes over as new york mayor under trump shadow" }
-TwruhoegNryrtad@{ shape: win-pane, label: "_Published Nov 22, 2025, 07:14 AM_
-Takeaways from trump’s white house meeting with new york city mayor-elect zohran mamdani" }
-TcncoYaloMnhoeg@{ shape: win-pane, label: "_Published Nov 22, 2025, 04:54 AM_
-Trump commends victory of new york mayor-elect zohran mamdani at white house meeting" }
-TarwsekaMn@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:10 AM_
-Trump aides review funds for new york city after mamdani win" }
-Mntshul@{ shape: win-pane, label: "_Published Nov 07, 2025, 05:00 AM_
-Mamdani and the rise of the populist left" }
-HhaiTbdemek@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:08 PM_
-How zohran mamdani beat trump-backed andrew cuomo in new york" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
-Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
-TbCttousoscolsdsr@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:15 AM_
-Trump backs cuomo, threatens to cut funds as new yorkers expected to pick leftist mamdani as mayor" }
-OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
-Obama calls mamdani, praises campaign ahead of new york mayoral election" }
-Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
-Takeaways from us election night 2025" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
-Democrats sweep first major elections of second trump term" }
+SCMnestdnvfc@{ shape: win-pane, label: "_Published Jan 02, 2026, 07:58 AM_
+Swiss crans-montana fire: tears and stunned silence at vigil for victims" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
+CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
+Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
+Pesmeryianrteodtn@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
+‘people were screaming’: new year party at swiss crans-montana resort turned into fire disaster zone" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
+CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
+Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
+CMneznrtvewis@{ shape: win-pane, label: "_Published Jan 02, 2026, 09:10 AM_
+Crans-montana fire: switzerland’s burn centres overwhelmed with victims" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
+CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
+Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
+Pesmeryianrteodtn@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
+‘people were screaming’: new year party at swiss crans-montana resort turned into fire disaster zone" }
+CMnesaukeyisaae@{ shape: win-pane, label: "_Published Jan 02, 2026, 07:14 AM_
+Crans-montana fire: swiss face arduous task of identifying victims of deadly bar inferno" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
+Pesmeryianrteodtn@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
+‘people were screaming’: new year party at swiss crans-montana resort turned into fire disaster zone" }
 
-Nrormautogncl:::txtsize --> LsdavNroemd:::txtsize
-LsdavNroemd:::txtsize --> TwruhoegNryrtad:::txtsize
-TwruhoegNryrtad:::txtsize --> TcncoYaloMnhoeg:::txtsize
-TwruhoegNryrtad:::txtsize --> TarwsekaMn:::txtsize
-LsdavNroemd:::txtsize --> Mntshul:::txtsize
-Mntshul:::txtsize --> HhaiTbdemek:::txtsize
-Nrormautogncl:::txtsize --> YMmnoihaiYilehpea:::txtsize
-YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
-YMmimociYaoauoc:::txtsize --> TbCttousoscolsdsr:::txtsize
-YMmimociYaoauoc:::txtsize --> OcMniagaekren:::txtsize
-YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
-Twreig:::txtsize --> YMmnoihaiYilehpea:::txtsize
-Twreig:::txtsize --> Drwialosdp:::txtsize
+SCMnestdnvfc:::txtsize --> Dserrftssairpe:::txtsize
+Dserrftssairpe:::txtsize --> CMnsoceaaeltrcs:::txtsize
+CMnsoceaaeltrcs:::txtsize --> Dserrftssairpe:::txtsize
+CMnsoceaaeltrcs:::txtsize --> Dserrftssairpe:::txtsize
+Dserrftssairpe:::txtsize --> Pesmeryianrteodtn:::txtsize
+Pesmeryianrteodtn:::txtsize --> Dserrftssairpe:::txtsize
+Pesmeryianrteodtn:::txtsize --> CMnsoceaaeltrcs:::txtsize
+SCMnestdnvfc:::txtsize --> CMneznrtvewis:::txtsize
+CMneznrtvewis:::txtsize --> Dserrftssairpe:::txtsize
+Dserrftssairpe:::txtsize --> CMnsoceaaeltrcs:::txtsize
+Dserrftssairpe:::txtsize --> Pesmeryianrteodtn:::txtsize
+CMneznrtvewis:::txtsize --> CMnesaukeyisaae:::txtsize
+CMnesaukeyisaae:::txtsize --> Dserrftssairpe:::txtsize
+CMnesaukeyisaae:::txtsize --> Pesmeryianrteodtn:::txtsize
 
 ```
-<i>Last updated: 2026-01-02 08:00:32.503213 (GMT+8)</i>
+<i>Last updated: 2026-01-02 12:00:54.365354 (GMT+8)</i>
 <!-- END -->
