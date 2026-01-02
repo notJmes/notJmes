@@ -16,8 +16,8 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-CMneiahorrats@{ shape: win-pane, label: "_Published Jan 02, 2026, 11:40 PM_
-Crans-montana fire: it’s likely a flashover occurred. here’s what that means" }
+OosefNaesfooe@{ shape: win-pane, label: "_Published Jan 03, 2026, 03:49 AM_
+Owner of swiss bar engulfed in new year fire insists safety norms followed" }
 Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
 Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
 CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
@@ -32,125 +32,128 @@ Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
 Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
 CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
 Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
-CMnesaukeyisaae@{ shape: win-pane, label: "_Published Jan 02, 2026, 07:14 AM_
-Crans-montana fire: swiss face arduous task of identifying victims of deadly bar inferno" }
-Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
-CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
-Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
-Pesmeryianrteodtn@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
-‘people were screaming’: new year party at swiss crans-montana resort turned into fire disaster zone" }
-Pesmeryianrteodtn@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
-‘people were screaming’: new year party at swiss crans-montana resort turned into fire disaster zone" }
-Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
-CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
-Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
-
-CMneiahorrats:::txtsize --> Dserrftssairpe:::txtsize
-Dserrftssairpe:::txtsize --> CMnsoceaaeltrcs:::txtsize
-CMnsoceaaeltrcs:::txtsize --> Dserrftssairpe:::txtsize
-CMnsoceaaeltrcs:::txtsize --> Dserrftssairpe:::txtsize
-Dserrftssairpe:::txtsize --> Pesmeryianrteodtn:::txtsize
-Pesmeryianrteodtn:::txtsize --> Dserrftssairpe:::txtsize
-Pesmeryianrteodtn:::txtsize --> CMnsoceaaeltrcs:::txtsize
-CMneiahorrats:::txtsize --> CMnesaukeyisaae:::txtsize
-CMnesaukeyisaae:::txtsize --> Dserrftssairpe:::txtsize
-Dserrftssairpe:::txtsize --> CMnsoceaaeltrcs:::txtsize
-Dserrftssairpe:::txtsize --> Pesmeryianrteodtn:::txtsize
-CMnesaukeyisaae:::txtsize --> Pesmeryianrteodtn:::txtsize
-Pesmeryianrteodtn:::txtsize --> Dserrftssairpe:::txtsize
-Pesmeryianrteodtn:::txtsize --> CMnsoceaaeltrcs:::txtsize
-
 CMneserfanmvreb@{ shape: win-pane, label: "_Published Jan 02, 2026, 11:40 PM_
 Crans-montana fire: swiss prosecutor says ‘fountain candles’ may have started deadly blaze" }
 Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
 Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
 CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
 Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
-Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
-Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
 Pesmeryianrteodtn@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
 ‘people were screaming’: new year party at swiss crans-montana resort turned into fire disaster zone" }
-Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
-CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
-Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
 CMneiahorrats@{ shape: win-pane, label: "_Published Jan 02, 2026, 11:40 PM_
 Crans-montana fire: it’s likely a flashover occurred. here’s what that means" }
 Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
 Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
-CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
-Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
-Pesmeryianrteodtn@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
-‘people were screaming’: new year party at swiss crans-montana resort turned into fire disaster zone" }
 CMnesaukeyisaae@{ shape: win-pane, label: "_Published Jan 02, 2026, 07:14 AM_
 Crans-montana fire: swiss face arduous task of identifying victims of deadly bar inferno" }
-Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
-Pesmeryianrteodtn@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
-‘people were screaming’: new year party at swiss crans-montana resort turned into fire disaster zone" }
 
-CMneserfanmvreb:::txtsize --> Dserrftssairpe:::txtsize
+OosefNaesfooe:::txtsize --> Dserrftssairpe:::txtsize
 Dserrftssairpe:::txtsize --> CMnsoceaaeltrcs:::txtsize
 CMnsoceaaeltrcs:::txtsize --> Dserrftssairpe:::txtsize
 CMnsoceaaeltrcs:::txtsize --> Dserrftssairpe:::txtsize
 Dserrftssairpe:::txtsize --> Pesmeryianrteodtn:::txtsize
 Pesmeryianrteodtn:::txtsize --> Dserrftssairpe:::txtsize
 Pesmeryianrteodtn:::txtsize --> CMnsoceaaeltrcs:::txtsize
-CMneserfanmvreb:::txtsize --> CMneiahorrats:::txtsize
-CMneiahorrats:::txtsize --> Dserrftssairpe:::txtsize
+OosefNaesfooe:::txtsize --> CMneserfanmvreb:::txtsize
+CMneserfanmvreb:::txtsize --> Dserrftssairpe:::txtsize
 Dserrftssairpe:::txtsize --> CMnsoceaaeltrcs:::txtsize
 Dserrftssairpe:::txtsize --> Pesmeryianrteodtn:::txtsize
+CMneserfanmvreb:::txtsize --> CMneiahorrats:::txtsize
+CMneiahorrats:::txtsize --> Dserrftssairpe:::txtsize
 CMneiahorrats:::txtsize --> CMnesaukeyisaae:::txtsize
-CMnesaukeyisaae:::txtsize --> Dserrftssairpe:::txtsize
-CMnesaukeyisaae:::txtsize --> Pesmeryianrteodtn:::txtsize
 
-Bisrhttmwsu@{ shape: win-pane, label: "_Published Jan 02, 2026, 11:06 PM_
-Britain sees record-high electricity from renewables in 2025: study" }
-BirNWsosller@{ shape: win-pane, label: "_Published Nov 13, 2025, 09:16 AM_
-Britain approves north wales site for first small nuclear reactors" }
-Bielogurrnir@{ shape: win-pane, label: "_Published Jan 11, 2024, 02:40 PM_
-Britain unveils plans for ‘biggest nuclear power expansion in 70 years’" }
-Biretodie@{ shape: win-pane, label: "_Published Jul 31, 2023, 03:09 PM_
-Britain to grant new north sea oil and gas licences" }
-Binmoenicfrm@{ shape: win-pane, label: "_Published Jan 07, 2024, 10:40 AM_
-Britain to invest $508 million in next-generation nuclear fuel programme" }
-Binmoenicfrm@{ shape: win-pane, label: "_Published Jan 07, 2024, 10:40 AM_
-Britain to invest $508 million in next-generation nuclear fuel programme" }
-Cueerranthof@{ shape: win-pane, label: "_Published Dec 02, 2023, 03:17 PM_
-Cop28: 118 countries agree to triple renewable energy to push out fossil fuels" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Urcrigtsttgsita@{ shape: win-pane, label: "_Published Feb 18, 2025, 01:00 AM_
-Us energy secretary chris wright attacks ‘sinister’ net-zero goals, singling out britain" }
-Bcfrelrve@{ shape: win-pane, label: "_Published Dec 09, 2021, 06:03 AM_
-Biden calls for carbon-neutral federal government by 2050" }
-WhladciC@{ shape: win-pane, label: "_Published Nov 20, 2021, 05:00 AM_
-What the world did and didn't accomplish at cop26" }
-TsctieekhleitEt@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:40 PM_
-Trump’s anti-climate action steps a setback for the world and especially the us: experts" }
-Twrrriamg@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:36 AM_
-Trump withdraws from paris climate agreement, again" }
-TlunlAcsuaicrn@{ shape: win-pane, label: "_Published Jan 21, 2025, 09:54 AM_
-Trump lays out plan to unleash american fossil fuels, halt climate cooperation" }
+Ugenspipbagoiuy@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:30 AM_
+Us judge orders man accused of planting pipe bombs in washington to remain in custody" }
+Vnngtnponfpr@{ shape: win-pane, label: "_Published Dec 05, 2025, 07:05 AM_
+Virginia man charged with planting pipe bombs on eve of us capitol riot" }
+Fgoykiealccs@{ shape: win-pane, label: "_Published Jun 07, 2025, 03:06 AM_
+Far right proud boys seek $129 million over us capitol riot convictions" }
+Eusetdairnpak@{ shape: win-pane, label: "_Published Sep 06, 2023, 07:10 AM_
+Ex-proud boys leader sentenced to 22 years’ jail for role in us capitol attack" }
+TaitotiwserSto@{ shape: win-pane, label: "_Published May 20, 2025, 04:24 AM_
+Trump administration to pay $6.5m to family of woman shot dead during us capitol riot" }
+TaitotiwserSto@{ shape: win-pane, label: "_Published May 20, 2025, 04:24 AM_
+Trump administration to pay $6.5m to family of woman shot dead during us capitol riot" }
+Pnirmalcoomrlii@{ shape: win-pane, label: "_Published Jan 21, 2025, 07:36 PM_
+Pardoned prisoners from jan 6 capitol attack to go free on trump’s first full day in office" }
+UeerghIlnto@{ shape: win-pane, label: "_Published Apr 10, 2025, 07:40 AM_
+Us intelligence probing whether fbi involved in 2021 capitol riot" }
+Vnngtnponfpr@{ shape: win-pane, label: "_Published Dec 05, 2025, 07:05 AM_
+Virginia man charged with planting pipe bombs on eve of us capitol riot" }
+Fgoykiealccs@{ shape: win-pane, label: "_Published Jun 07, 2025, 03:06 AM_
+Far right proud boys seek $129 million over us capitol riot convictions" }
+Eusetdairnpak@{ shape: win-pane, label: "_Published Sep 06, 2023, 07:10 AM_
+Ex-proud boys leader sentenced to 22 years’ jail for role in us capitol attack" }
+TaitotiwserSto@{ shape: win-pane, label: "_Published May 20, 2025, 04:24 AM_
+Trump administration to pay $6.5m to family of woman shot dead during us capitol riot" }
+TaitotiwserSto@{ shape: win-pane, label: "_Published May 20, 2025, 04:24 AM_
+Trump administration to pay $6.5m to family of woman shot dead during us capitol riot" }
+Pnirmalcoomrlii@{ shape: win-pane, label: "_Published Jan 21, 2025, 07:36 PM_
+Pardoned prisoners from jan 6 capitol attack to go free on trump’s first full day in office" }
+UeerghIlnto@{ shape: win-pane, label: "_Published Apr 10, 2025, 07:40 AM_
+Us intelligence probing whether fbi involved in 2021 capitol riot" }
 
-Bisrhttmwsu:::txtsize --> BirNWsosller:::txtsize
-BirNWsosller:::txtsize --> Bielogurrnir:::txtsize
-Bielogurrnir:::txtsize --> Biretodie:::txtsize
-Bielogurrnir:::txtsize --> Binmoenicfrm:::txtsize
-BirNWsosller:::txtsize --> Binmoenicfrm:::txtsize
-Binmoenicfrm:::txtsize --> Cueerranthof:::txtsize
-Binmoenicfrm:::txtsize --> DsruasvUn:::txtsize
-Bisrhttmwsu:::txtsize --> Urcrigtsttgsita:::txtsize
-Urcrigtsttgsita:::txtsize --> Bcfrelrve:::txtsize
-Bcfrelrve:::txtsize --> WhladciC:::txtsize
-Urcrigtsttgsita:::txtsize --> TsctieekhleitEt:::txtsize
-TsctieekhleitEt:::txtsize --> Twrrriamg:::txtsize
-TsctieekhleitEt:::txtsize --> TlunlAcsuaicrn:::txtsize
+Ugenspipbagoiuy:::txtsize --> Vnngtnponfpr:::txtsize
+Vnngtnponfpr:::txtsize --> Fgoykiealccs:::txtsize
+Fgoykiealccs:::txtsize --> Eusetdairnpak:::txtsize
+Fgoykiealccs:::txtsize --> TaitotiwserSto:::txtsize
+Vnngtnponfpr:::txtsize --> TaitotiwserSto:::txtsize
+TaitotiwserSto:::txtsize --> Pnirmalcoomrlii:::txtsize
+TaitotiwserSto:::txtsize --> UeerghIlnto:::txtsize
+Ugenspipbagoiuy:::txtsize --> Vnngtnponfpr:::txtsize
+Vnngtnponfpr:::txtsize --> Fgoykiealccs:::txtsize
+Fgoykiealccs:::txtsize --> Eusetdairnpak:::txtsize
+Fgoykiealccs:::txtsize --> TaitotiwserSto:::txtsize
+Vnngtnponfpr:::txtsize --> TaitotiwserSto:::txtsize
+TaitotiwserSto:::txtsize --> Pnirmalcoomrlii:::txtsize
+TaitotiwserSto:::txtsize --> UeerghIlnto:::txtsize
+
+UswdnIneYEtnhl@{ shape: win-pane, label: "_Published Jan 03, 2026, 01:55 AM_
+Us says it thwarted potential isis-inspired new year’s eve attack in north carolina" }
+ieerychp@{ shape: win-pane, label: "_Published Jan 01, 2026, 01:59 PM_
+22 injured in new year party attack in philippines" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
+CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
+Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
+Pesmeryianrteodtn@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
+‘people were screaming’: new year party at swiss crans-montana resort turned into fire disaster zone" }
+Speehlirane@{ shape: win-pane, label: "_Published Jan 01, 2026, 01:13 AM_
+Singapore welcomes 2026 with dazzling fireworks, heartland cheer" }
+Nanniocosniyaeo@{ shape: win-pane, label: "_Published Dec 31, 2025, 08:06 PM_
+New year 2026 countdowns: police close access to areas around marina bay, kallang due to crowds" }
+SemwrybrdapiW@{ shape: win-pane, label: "_Published Dec 31, 2025, 06:00 PM_
+S’pore economy grew 4.8% in 2025, strategy must be refreshed to stay competitive: pm wong" }
+BBakseertce@{ shape: win-pane, label: "_Published Dec 29, 2025, 02:19 PM_
+Bondi beach attack hero says he wanted to protect ‘innocent people’" }
+BBtdroea@{ shape: win-pane, label: "_Published Dec 21, 2025, 06:38 PM_
+Bondi beach tragedy : in praise of male courage" }
+Asdrttenaleeoie@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:30 PM_
+At least 16 dead after shooting at sydney’s bondi beach; police declare ‘terrorist incident’" }
+TaiaceiyoBseise@{ shape: win-pane, label: "_Published Dec 16, 2025, 04:24 PM_
+‘they saved lives’: man and couple who died trying to stop bondi shooters hailed as heroes" }
+Aapegeoiweiufe@{ shape: win-pane, label: "_Published Dec 17, 2025, 01:45 PM_
+Australian police charge alleged bondi killer with terrorism, 15 counts of murder" }
+Frueynnoehnrioa@{ shape: win-pane, label: "_Published Dec 15, 2025, 05:14 AM_
+Father-son duo allegedly behind sydney’s bondi beach shooting; 10-year-old girl among 16 dead" }
+NdortnfoustPps@{ shape: win-pane, label: "_Published Dec 17, 2025, 02:39 PM_
+No evidence of ‘terrorist training’ after bondi gunmen’s visit, says philippines" }
+
+UswdnIneYEtnhl:::txtsize --> ieerychp:::txtsize
+ieerychp:::txtsize --> Dserrftssairpe:::txtsize
+Dserrftssairpe:::txtsize --> CMnsoceaaeltrcs:::txtsize
+Dserrftssairpe:::txtsize --> Pesmeryianrteodtn:::txtsize
+ieerychp:::txtsize --> Speehlirane:::txtsize
+Speehlirane:::txtsize --> Nanniocosniyaeo:::txtsize
+Speehlirane:::txtsize --> SemwrybrdapiW:::txtsize
+UswdnIneYEtnhl:::txtsize --> BBakseertce:::txtsize
+BBakseertce:::txtsize --> BBtdroea:::txtsize
+BBtdroea:::txtsize --> Asdrttenaleeoie:::txtsize
+BBtdroea:::txtsize --> TaiaceiyoBseise:::txtsize
+BBakseertce:::txtsize --> Aapegeoiweiufe:::txtsize
+Aapegeoiweiufe:::txtsize --> Frueynnoehnrioa:::txtsize
+Aapegeoiweiufe:::txtsize --> NdortnfoustPps:::txtsize
 
 ```
-<i>Last updated: 2026-01-03 00:01:09.436209 (GMT+8)</i>
+<i>Last updated: 2026-01-03 04:00:33.421057 (GMT+8)</i>
 <!-- END -->
