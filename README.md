@@ -16,129 +16,141 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Rakeegniaanea@{ shape: win-pane, label: "_Published Jan 02, 2026, 12:25 AM_
-Russia and ukraine trade allegations of civilian attacks on new year's day" }
-TsegemnaSikke@{ shape: win-pane, label: "_Published Dec 19, 2025, 04:20 AM_
-Trump says ‘getting close to something’ ahead of us, russia talks on ukraine" }
-EdaueosrRaeri@{ shape: win-pane, label: "_Published Dec 18, 2025, 03:36 PM_
-Eu leaders face crunch decision on using frozen russian assets for ukraine" }
-Crsvhhral@{ shape: win-pane, label: "_Published Dec 18, 2025, 02:05 PM_
-Can ukraine survive without the eu’s ‘reparation loan’?" }
-Crsvhhral@{ shape: win-pane, label: "_Published Dec 18, 2025, 02:05 PM_
-Can ukraine survive without the eu’s ‘reparation loan’?" }
-EaeyiElernpoa@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:15 AM_
-Ecb’s lagarde ‘fully confident’ eu will agree reparation loan plan for ukraine" }
-EdaueosrRaeri@{ shape: win-pane, label: "_Published Dec 18, 2025, 03:36 PM_
-Eu leaders face crunch decision on using frozen russian assets for ukraine" }
-EdaueosrRaeri@{ shape: win-pane, label: "_Published Dec 18, 2025, 03:36 PM_
-Eu leaders face crunch decision on using frozen russian assets for ukraine" }
-Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
-Timeline: how russia's attack on ukraine unfolded" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
-Explosions heard in ukraine capital kyiv, other cities" }
-OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
-Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
-BsSeloutdcuoa@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:18 PM_
-Biden says us, allies will respond to 'unjustified' attack by russia on ukraine" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
+Tausciosei@{ shape: win-pane, label: "_Published Jan 02, 2026, 07:58 AM_
+Tears and stunned silence at vigil for swiss fire victims" }
+Sfrsonicodr@{ shape: win-pane, label: "_Published Jan 02, 2026, 07:14 AM_
+Swiss face arduous task of identifying victims of deadly bar fire" }
+Dserrftsebla@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss ski resort bar, police say" }
+CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
+Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
+Pesmeryiirntdraz@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
+‘people were screaming’: new year party at swiss ski resort turned into deadly fire disaster zone" }
+Pesmeryiirntdraz@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
+‘people were screaming’: new year party at swiss ski resort turned into deadly fire disaster zone" }
+Dserrftsebla@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss ski resort bar, police say" }
+Dserrftsebla@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss ski resort bar, police say" }
+Pesmeryiirntdraz@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
+‘people were screaming’: new year party at swiss ski resort turned into deadly fire disaster zone" }
+Dserrftsebla@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss ski resort bar, police say" }
+CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
+Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
+Pesmeryiirntdraz@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
+‘people were screaming’: new year party at swiss ski resort turned into deadly fire disaster zone" }
+Dserrftsebla@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss ski resort bar, police say" }
+CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
+Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
+Pesmeryiirntdraz@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
+‘people were screaming’: new year party at swiss ski resort turned into deadly fire disaster zone" }
 
-Rakeegniaanea:::txtsize --> TsegemnaSikke:::txtsize
-TsegemnaSikke:::txtsize --> EdaueosrRaeri:::txtsize
-EdaueosrRaeri:::txtsize --> Crsvhhral:::txtsize
-EdaueosrRaeri:::txtsize --> Crsvhhral:::txtsize
-TsegemnaSikke:::txtsize --> EaeyiElernpoa:::txtsize
-EaeyiElernpoa:::txtsize --> EdaueosrRaeri:::txtsize
-EaeyiElernpoa:::txtsize --> EdaueosrRaeri:::txtsize
-Rakeegniaanea:::txtsize --> Tiwitnifd:::txtsize
-Tiwitnifd:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
-DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
-Tiwitnifd:::txtsize --> BsSeloutdcuoa:::txtsize
-BsSeloutdcuoa:::txtsize --> DsruasvUn:::txtsize
+Tausciosei:::txtsize --> Sfrsonicodr:::txtsize
+Sfrsonicodr:::txtsize --> Dserrftsebla:::txtsize
+Dserrftsebla:::txtsize --> CMnsoceaaeltrcs:::txtsize
+Dserrftsebla:::txtsize --> Pesmeryiirntdraz:::txtsize
+Sfrsonicodr:::txtsize --> Pesmeryiirntdraz:::txtsize
+Pesmeryiirntdraz:::txtsize --> Dserrftsebla:::txtsize
+Pesmeryiirntdraz:::txtsize --> Dserrftsebla:::txtsize
+Tausciosei:::txtsize --> Pesmeryiirntdraz:::txtsize
+Pesmeryiirntdraz:::txtsize --> Dserrftsebla:::txtsize
+Dserrftsebla:::txtsize --> CMnsoceaaeltrcs:::txtsize
+Dserrftsebla:::txtsize --> Pesmeryiirntdraz:::txtsize
+Pesmeryiirntdraz:::txtsize --> Dserrftsebla:::txtsize
+Dserrftsebla:::txtsize --> CMnsoceaaeltrcs:::txtsize
+Dserrftsebla:::txtsize --> Pesmeryiirntdraz:::txtsize
 
-BleujBnetorolns@{ shape: win-pane, label: "_Published Jan 01, 2026, 10:58 PM_
-Brazil supreme court rejects bolsonaro request for house arrest on health concerns" }
-BlteBohestost@{ shape: win-pane, label: "_Published Dec 17, 2025, 12:36 PM_
-Brazil senate to debate bill to slash former president  bolsonaro’s jail term" }
-BleBnecyisrp@{ shape: win-pane, label: "_Published Sep 12, 2025, 04:02 AM_
-Brazil’s ex-leader bolsonaro sentenced to 27 years in prison for coup plot" }
-Aeoataperi@{ shape: win-pane, label: "_Published Jul 11, 2025, 06:43 AM_
-All eyes on bolsonaro with lula, trump locked in trade fight" }
-Weotozom@{ shape: win-pane, label: "_Published Jan 10, 2023, 10:27 AM_
-What led up to the attack on brazil’s government?" }
-Bnsnsistuiiel@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:52 PM_
-Bolsonaro’s son confirms brazil presidential run, decision ‘irreversible’" }
-Bnsyarrist@{ shape: win-pane, label: "_Published Dec 08, 2025, 04:16 AM_
-Bolsonaro’s son says he may not run for brazil president" }
-Blreisotru@{ shape: win-pane, label: "_Published Dec 28, 2025, 06:45 AM_
-Brazil’s ex-president jair bolsonaro treated for hiccups" }
-BleBnecyisrp@{ shape: win-pane, label: "_Published Sep 12, 2025, 04:02 AM_
-Brazil’s ex-leader bolsonaro sentenced to 27 years in prison for coup plot" }
-Aeoataperi@{ shape: win-pane, label: "_Published Jul 11, 2025, 06:43 AM_
-All eyes on bolsonaro with lula, trump locked in trade fight" }
-Weotozom@{ shape: win-pane, label: "_Published Jan 10, 2023, 10:27 AM_
-What led up to the attack on brazil’s government?" }
-BleBnecyisrp@{ shape: win-pane, label: "_Published Sep 12, 2025, 04:02 AM_
-Brazil’s ex-leader bolsonaro sentenced to 27 years in prison for coup plot" }
-Aeoataperi@{ shape: win-pane, label: "_Published Jul 11, 2025, 06:43 AM_
-All eyes on bolsonaro with lula, trump locked in trade fight" }
-Weotozom@{ shape: win-pane, label: "_Published Jan 10, 2023, 10:27 AM_
-What led up to the attack on brazil’s government?" }
+Sfrsonicodr@{ shape: win-pane, label: "_Published Jan 02, 2026, 07:14 AM_
+Swiss face arduous task of identifying victims of deadly bar fire" }
+Dserrftsebla@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss ski resort bar, police say" }
+CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
+Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
+Dserrftsebla@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss ski resort bar, police say" }
+Dserrftsebla@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss ski resort bar, police say" }
+Pesmeryiirntdraz@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
+‘people were screaming’: new year party at swiss ski resort turned into deadly fire disaster zone" }
+Dserrftsebla@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss ski resort bar, police say" }
+Dserrftsebla@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss ski resort bar, police say" }
+Pesmeryiirntdraz@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
+‘people were screaming’: new year party at swiss ski resort turned into deadly fire disaster zone" }
+Dserrftsebla@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss ski resort bar, police say" }
+CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
+Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
+Pesmeryiirntdraz@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
+‘people were screaming’: new year party at swiss ski resort turned into deadly fire disaster zone" }
+Dserrftsebla@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss ski resort bar, police say" }
+CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
+Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
+Pesmeryiirntdraz@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
+‘people were screaming’: new year party at swiss ski resort turned into deadly fire disaster zone" }
 
-BleujBnetorolns:::txtsize --> BlteBohestost:::txtsize
-BlteBohestost:::txtsize --> BleBnecyisrp:::txtsize
-BleBnecyisrp:::txtsize --> Aeoataperi:::txtsize
-BleBnecyisrp:::txtsize --> Weotozom:::txtsize
-BlteBohestost:::txtsize --> Bnsnsistuiiel:::txtsize
-Bnsnsistuiiel:::txtsize --> Bnsyarrist:::txtsize
-BleujBnetorolns:::txtsize --> Blreisotru:::txtsize
-Blreisotru:::txtsize --> BleBnecyisrp:::txtsize
-BleBnecyisrp:::txtsize --> Aeoataperi:::txtsize
-BleBnecyisrp:::txtsize --> Weotozom:::txtsize
-Blreisotru:::txtsize --> BleBnecyisrp:::txtsize
-BleBnecyisrp:::txtsize --> Aeoataperi:::txtsize
-BleBnecyisrp:::txtsize --> Weotozom:::txtsize
+Sfrsonicodr:::txtsize --> Dserrftsebla:::txtsize
+Dserrftsebla:::txtsize --> CMnsoceaaeltrcs:::txtsize
+CMnsoceaaeltrcs:::txtsize --> Dserrftsebla:::txtsize
+CMnsoceaaeltrcs:::txtsize --> Dserrftsebla:::txtsize
+Dserrftsebla:::txtsize --> Pesmeryiirntdraz:::txtsize
+Pesmeryiirntdraz:::txtsize --> Dserrftsebla:::txtsize
+Pesmeryiirntdraz:::txtsize --> Dserrftsebla:::txtsize
+Sfrsonicodr:::txtsize --> Pesmeryiirntdraz:::txtsize
+Pesmeryiirntdraz:::txtsize --> Dserrftsebla:::txtsize
+Dserrftsebla:::txtsize --> CMnsoceaaeltrcs:::txtsize
+Dserrftsebla:::txtsize --> Pesmeryiirntdraz:::txtsize
+Pesmeryiirntdraz:::txtsize --> Dserrftsebla:::txtsize
+Dserrftsebla:::txtsize --> CMnsoceaaeltrcs:::txtsize
+Dserrftsebla:::txtsize --> Pesmeryiirntdraz:::txtsize
 
-Tbssnsnels@{ shape: win-pane, label: "_Published Jan 01, 2026, 10:44 PM_
-Trump blames bruised hand on aspirin, denies falling asleep" }
-Thraylty@{ shape: win-pane, label: "_Published Oct 11, 2025, 11:00 AM_
-Trump, 79, has ‘cardiac age’ of 65-year-old, doctor says" }
-Tgemacha@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:24 PM_
-Trump, 79, gets second medical check-up this year" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-IbhahrnrccidraHs@{ shape: win-pane, label: "_Published Jul 22, 2024, 01:59 AM_
-‘it has been the greatest honour’: biden ends re-election campaign and endorses kamala harris" }
-Ttehamauon@{ shape: win-pane, label: "_Published Oct 09, 2025, 11:16 AM_
-Trump to undergo physical exam as health questions linger" }
-Tdoiidniglho@{ shape: win-pane, label: "_Published Jul 18, 2025, 02:46 AM_
-Trump diagnosed with vein condition causing leg swelling: white house" }
-IbhahrnrccidraHs@{ shape: win-pane, label: "_Published Jul 22, 2024, 01:59 AM_
-‘it has been the greatest honour’: biden ends re-election campaign and endorses kamala harris" }
-WHbspdhnss@{ shape: win-pane, label: "_Published Dec 12, 2025, 07:10 AM_
-White house blames trump’s bandaged hand on handshakes" }
-Tseadieael@{ shape: win-pane, label: "_Published Dec 10, 2025, 12:40 PM_
-Trump says he ‘aced’ a third cognitive exam taken recently" }
-Tddnrdnvraraoips@{ shape: win-pane, label: "_Published Dec 10, 2025, 12:00 PM_
-Trump defends economic record at pennsylvania rally amid frustration over rising prices" }
-UsteSndtesodg@{ shape: win-pane, label: "_Published Jun 28, 2024, 01:35 PM_
-Us presidential debate: some undecided voters see a disastrous biden night" }
+Nrormautogncl@{ shape: win-pane, label: "_Published Jan 02, 2026, 07:00 AM_
+New york mayor zohran mamdani, at inauguration, vows to govern ‘audaciously’" }
+LsdavNroemd@{ shape: win-pane, label: "_Published Jan 01, 2026, 01:57 PM_
+Leftist mamdani takes over as new york mayor under trump shadow" }
+TwruhoegNryrtad@{ shape: win-pane, label: "_Published Nov 22, 2025, 07:14 AM_
+Takeaways from trump’s white house meeting with new york city mayor-elect zohran mamdani" }
+TcncoYaloMnhoeg@{ shape: win-pane, label: "_Published Nov 22, 2025, 04:54 AM_
+Trump commends victory of new york mayor-elect zohran mamdani at white house meeting" }
+TarwsekaMn@{ shape: win-pane, label: "_Published Nov 12, 2025, 07:10 AM_
+Trump aides review funds for new york city after mamdani win" }
+Mntshul@{ shape: win-pane, label: "_Published Nov 07, 2025, 05:00 AM_
+Mamdani and the rise of the populist left" }
+HhaiTbdemek@{ shape: win-pane, label: "_Published Nov 05, 2025, 02:08 PM_
+How zohran mamdani beat trump-backed andrew cuomo in new york" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
+Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
+TbCttousoscolsdsr@{ shape: win-pane, label: "_Published Nov 04, 2025, 07:15 AM_
+Trump backs cuomo, threatens to cut funds as new yorkers expected to pick leftist mamdani as mayor" }
+OcMniagaekren@{ shape: win-pane, label: "_Published Nov 02, 2025, 06:21 AM_
+Obama calls mamdani, praises campaign ahead of new york mayoral election" }
+Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
+Takeaways from us election night 2025" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+Drwialosdp@{ shape: win-pane, label: "_Published Nov 05, 2025, 09:46 AM_
+Democrats sweep first major elections of second trump term" }
 
-Tbssnsnels:::txtsize --> Thraylty:::txtsize
-Thraylty:::txtsize --> Tgemacha:::txtsize
-Tgemacha:::txtsize --> TssHaossaaorslaoe:::txtsize
-Tgemacha:::txtsize --> IbhahrnrccidraHs:::txtsize
-Thraylty:::txtsize --> Ttehamauon:::txtsize
-Ttehamauon:::txtsize --> Tdoiidniglho:::txtsize
-Ttehamauon:::txtsize --> IbhahrnrccidraHs:::txtsize
-Tbssnsnels:::txtsize --> WHbspdhnss:::txtsize
-WHbspdhnss:::txtsize --> Tseadieael:::txtsize
-Tseadieael:::txtsize --> Tddnrdnvraraoips:::txtsize
-Tseadieael:::txtsize --> UsteSndtesodg:::txtsize
+Nrormautogncl:::txtsize --> LsdavNroemd:::txtsize
+LsdavNroemd:::txtsize --> TwruhoegNryrtad:::txtsize
+TwruhoegNryrtad:::txtsize --> TcncoYaloMnhoeg:::txtsize
+TwruhoegNryrtad:::txtsize --> TarwsekaMn:::txtsize
+LsdavNroemd:::txtsize --> Mntshul:::txtsize
+Mntshul:::txtsize --> HhaiTbdemek:::txtsize
+Nrormautogncl:::txtsize --> YMmnoihaiYilehpea:::txtsize
+YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
+YMmimociYaoauoc:::txtsize --> TbCttousoscolsdsr:::txtsize
+YMmimociYaoauoc:::txtsize --> OcMniagaekren:::txtsize
+YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
+Twreig:::txtsize --> YMmnoihaiYilehpea:::txtsize
+Twreig:::txtsize --> Drwialosdp:::txtsize
 
 ```
-<i>Last updated: 2026-01-02 04:01:08.333575 (GMT+8)</i>
+<i>Last updated: 2026-01-02 08:00:32.503213 (GMT+8)</i>
 <!-- END -->
