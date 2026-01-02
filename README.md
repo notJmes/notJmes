@@ -16,97 +16,8 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Dlvetegod@{ shape: win-pane, label: "_Published Jan 02, 2026, 06:20 PM_
-Dog helps save owner lost in freezing oregon woods" }
-yartgasml@{ shape: win-pane, label: "_Published Dec 30, 2025, 06:30 PM_
-7-year wait for shelter dog, then a christmas miracle" }
-UeetiwMusmndtyc@{ shape: win-pane, label: "_Published Dec 09, 2025, 03:00 PM_
-‘unable to sleep not knowing how he is’: man reunites with missing pet dog after 2-day search" }
-Nsisotartblnntmat@{ shape: win-pane, label: "_Published Nov 03, 2025, 07:43 PM_
-Nparks probing case of dog that died after reportedly being left unattended at grooming facility" }
-Knrynaisddkeaieoh@{ shape: win-pane, label: "_Published Jun 27, 2025, 01:30 PM_
-Kitten reportedly put in container in tuas now adopted, nparks ‘investigating incident thoroughly’" }
-Hotumubbkcer@{ shape: win-pane, label: "_Published Oct 06, 2025, 05:30 PM_
-‘hero dog’ that rescued family during big cebu quake rescued, recovering" }
-Rensvfhpdiunadle@{ shape: win-pane, label: "_Published Oct 01, 2025, 06:26 AM_
-Rescuers hunt for survivors after philippines’ deadliest quake in over a decade kills at least 69" }
-Worrlearreratlb@{ shape: win-pane, label: "_Published Oct 02, 2025, 12:45 PM_
-‘wiped out our entire village’: cebu quake survivors appeal for help as death toll climbs" }
-UeetiwMusmndtyc@{ shape: win-pane, label: "_Published Dec 09, 2025, 03:00 PM_
-‘unable to sleep not knowing how he is’: man reunites with missing pet dog after 2-day search" }
-Nsisotartblnntmat@{ shape: win-pane, label: "_Published Nov 03, 2025, 07:43 PM_
-Nparks probing case of dog that died after reportedly being left unattended at grooming facility" }
-fogefdcotae@{ shape: win-pane, label: "_Published Apr 08, 2025, 02:35 PM_
-$10,000 fine for pet groomer who failed to secure dog that fell and died" }
-Nsidhekoos@{ shape: win-pane, label: "_Published Nov 06, 2024, 10:30 PM_
-Nparks probing video of handler kicking dog on coney island" }
-Knrynaisddkeaieoh@{ shape: win-pane, label: "_Published Jun 27, 2025, 01:30 PM_
-Kitten reportedly put in container in tuas now adopted, nparks ‘investigating incident thoroughly’" }
-NsisirtseonT@{ shape: win-pane, label: "_Published Jun 26, 2025, 12:07 PM_
-Nparks probing case of kitten reportedly stuffed in container in tuas" }
-Wsdnenaee@{ shape: win-pane, label: "_Published May 17, 2025, 03:00 PM_
-Why we should be concerned when animals are abused" }
-
-Dlvetegod:::txtsize --> yartgasml:::txtsize
-yartgasml:::txtsize --> UeetiwMusmndtyc:::txtsize
-UeetiwMusmndtyc:::txtsize --> Nsisotartblnntmat:::txtsize
-UeetiwMusmndtyc:::txtsize --> Knrynaisddkeaieoh:::txtsize
-yartgasml:::txtsize --> Hotumubbkcer:::txtsize
-Hotumubbkcer:::txtsize --> Rensvfhpdiunadle:::txtsize
-Hotumubbkcer:::txtsize --> Worrlearreratlb:::txtsize
-Dlvetegod:::txtsize --> UeetiwMusmndtyc:::txtsize
-UeetiwMusmndtyc:::txtsize --> Nsisotartblnntmat:::txtsize
-Nsisotartblnntmat:::txtsize --> fogefdcotae:::txtsize
-Nsisotartblnntmat:::txtsize --> Nsidhekoos:::txtsize
-UeetiwMusmndtyc:::txtsize --> Knrynaisddkeaieoh:::txtsize
-Knrynaisddkeaieoh:::txtsize --> NsisirtseonT:::txtsize
-Knrynaisddkeaieoh:::txtsize --> Wsdnenaee:::txtsize
-
-VuMoslrtutkirak@{ shape: win-pane, label: "_Published Jan 02, 2026, 06:14 PM_
-Venezuela’s maduro holds out olive branch to us, suggests talks against drug trafficking" }
-Usrrfrreiscrs@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:44 AM_
-Us coast guard searches for survivors after strike on suspected drug vessels" }
-Irseravrrfas@{ shape: win-pane, label: "_Published Oct 17, 2025, 08:00 AM_
-In a first, us strike in caribbean leaves survivors, us official says" }
-UiaegonllTs@{ shape: win-pane, label: "_Published Oct 15, 2025, 04:50 AM_
-Us strike on alleged drug boat off venezuela kills six, trump says" }
-UuCiboontnls@{ shape: win-pane, label: "_Published Oct 11, 2025, 07:58 AM_
-Un security council members voice concern about us-venezuela tensions" }
-Voiriorrlisms@{ shape: win-pane, label: "_Published Dec 05, 2025, 01:36 AM_
-Video of us military strike shows survivors in ‘clear distress’, lawmaker says" }
-UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
-Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
-PgvaHtrasoei@{ shape: win-pane, label: "_Published Dec 04, 2025, 05:30 AM_
-Pentagon review faults hegseth over signal messages on yemen strikes" }
-Uuennggzse@{ shape: win-pane, label: "_Published Jan 01, 2026, 05:49 AM_
-Us issues fresh sanctions targeting venezuela’s oil sector" }
-Uuennggrmeenik@{ shape: win-pane, label: "_Published Dec 12, 2025, 04:18 AM_
-Us issues fresh sanctions targeting maduro’s family, venezuela-linked oil tankers" }
-Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
-Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
-Oaohnzakrnee@{ shape: win-pane, label: "_Published Dec 11, 2025, 12:52 PM_
-Over 30 sanctioned ships in venezuela at risk after us tanker seizure" }
-Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
-Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
-UeoVugartipu@{ shape: win-pane, label: "_Published Nov 24, 2025, 10:38 PM_
-Us labels another venezuelan group as terrorist, ramping up pressure" }
-
-VuMoslrtutkirak:::txtsize --> Usrrfrreiscrs:::txtsize
-Usrrfrreiscrs:::txtsize --> Irseravrrfas:::txtsize
-Irseravrrfas:::txtsize --> UiaegonllTs:::txtsize
-Irseravrrfas:::txtsize --> UuCiboontnls:::txtsize
-Usrrfrreiscrs:::txtsize --> Voiriorrlisms:::txtsize
-Voiriorrlisms:::txtsize --> UikperngutVura:::txtsize
-Voiriorrlisms:::txtsize --> PgvaHtrasoei:::txtsize
-VuMoslrtutkirak:::txtsize --> Uuennggzse:::txtsize
-Uuennggzse:::txtsize --> Uuennggrmeenik:::txtsize
-Uuennggrmeenik:::txtsize --> Uzlecoeapageo:::txtsize
-Uuennggzse:::txtsize --> Oaohnzakrnee:::txtsize
-Oaohnzakrnee:::txtsize --> Uzlecoeapageo:::txtsize
-Oaohnzakrnee:::txtsize --> UeoVugartipu:::txtsize
-
-Ygrdravmire@{ shape: win-pane, label: "_Published Jan 02, 2026, 06:04 PM_
-Young golfer named as first italian victim of swiss bar blaze" }
+CMneiahorrats@{ shape: win-pane, label: "_Published Jan 02, 2026, 11:40 PM_
+Crans-montana fire: it’s likely a flashover occurred. here’s what that means" }
 Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
 Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
 CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
@@ -136,14 +47,14 @@ Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, p
 CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
 Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
 
-Ygrdravmire:::txtsize --> Dserrftssairpe:::txtsize
+CMneiahorrats:::txtsize --> Dserrftssairpe:::txtsize
 Dserrftssairpe:::txtsize --> CMnsoceaaeltrcs:::txtsize
 CMnsoceaaeltrcs:::txtsize --> Dserrftssairpe:::txtsize
 CMnsoceaaeltrcs:::txtsize --> Dserrftssairpe:::txtsize
 Dserrftssairpe:::txtsize --> Pesmeryianrteodtn:::txtsize
 Pesmeryianrteodtn:::txtsize --> Dserrftssairpe:::txtsize
 Pesmeryianrteodtn:::txtsize --> CMnsoceaaeltrcs:::txtsize
-Ygrdravmire:::txtsize --> CMnesaukeyisaae:::txtsize
+CMneiahorrats:::txtsize --> CMnesaukeyisaae:::txtsize
 CMnesaukeyisaae:::txtsize --> Dserrftssairpe:::txtsize
 Dserrftssairpe:::txtsize --> CMnsoceaaeltrcs:::txtsize
 Dserrftssairpe:::txtsize --> Pesmeryianrteodtn:::txtsize
@@ -151,6 +62,95 @@ CMnesaukeyisaae:::txtsize --> Pesmeryianrteodtn:::txtsize
 Pesmeryianrteodtn:::txtsize --> Dserrftssairpe:::txtsize
 Pesmeryianrteodtn:::txtsize --> CMnsoceaaeltrcs:::txtsize
 
+CMneserfanmvreb@{ shape: win-pane, label: "_Published Jan 02, 2026, 11:40 PM_
+Crans-montana fire: swiss prosecutor says ‘fountain candles’ may have started deadly blaze" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
+CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
+Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
+Pesmeryianrteodtn@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
+‘people were screaming’: new year party at swiss crans-montana resort turned into fire disaster zone" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
+CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
+Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
+CMneiahorrats@{ shape: win-pane, label: "_Published Jan 02, 2026, 11:40 PM_
+Crans-montana fire: it’s likely a flashover occurred. here’s what that means" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
+CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
+Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
+Pesmeryianrteodtn@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
+‘people were screaming’: new year party at swiss crans-montana resort turned into fire disaster zone" }
+CMnesaukeyisaae@{ shape: win-pane, label: "_Published Jan 02, 2026, 07:14 AM_
+Crans-montana fire: swiss face arduous task of identifying victims of deadly bar inferno" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
+Pesmeryianrteodtn@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
+‘people were screaming’: new year party at swiss crans-montana resort turned into fire disaster zone" }
+
+CMneserfanmvreb:::txtsize --> Dserrftssairpe:::txtsize
+Dserrftssairpe:::txtsize --> CMnsoceaaeltrcs:::txtsize
+CMnsoceaaeltrcs:::txtsize --> Dserrftssairpe:::txtsize
+CMnsoceaaeltrcs:::txtsize --> Dserrftssairpe:::txtsize
+Dserrftssairpe:::txtsize --> Pesmeryianrteodtn:::txtsize
+Pesmeryianrteodtn:::txtsize --> Dserrftssairpe:::txtsize
+Pesmeryianrteodtn:::txtsize --> CMnsoceaaeltrcs:::txtsize
+CMneserfanmvreb:::txtsize --> CMneiahorrats:::txtsize
+CMneiahorrats:::txtsize --> Dserrftssairpe:::txtsize
+Dserrftssairpe:::txtsize --> CMnsoceaaeltrcs:::txtsize
+Dserrftssairpe:::txtsize --> Pesmeryianrteodtn:::txtsize
+CMneiahorrats:::txtsize --> CMnesaukeyisaae:::txtsize
+CMnesaukeyisaae:::txtsize --> Dserrftssairpe:::txtsize
+CMnesaukeyisaae:::txtsize --> Pesmeryianrteodtn:::txtsize
+
+Bisrhttmwsu@{ shape: win-pane, label: "_Published Jan 02, 2026, 11:06 PM_
+Britain sees record-high electricity from renewables in 2025: study" }
+BirNWsosller@{ shape: win-pane, label: "_Published Nov 13, 2025, 09:16 AM_
+Britain approves north wales site for first small nuclear reactors" }
+Bielogurrnir@{ shape: win-pane, label: "_Published Jan 11, 2024, 02:40 PM_
+Britain unveils plans for ‘biggest nuclear power expansion in 70 years’" }
+Biretodie@{ shape: win-pane, label: "_Published Jul 31, 2023, 03:09 PM_
+Britain to grant new north sea oil and gas licences" }
+Binmoenicfrm@{ shape: win-pane, label: "_Published Jan 07, 2024, 10:40 AM_
+Britain to invest $508 million in next-generation nuclear fuel programme" }
+Binmoenicfrm@{ shape: win-pane, label: "_Published Jan 07, 2024, 10:40 AM_
+Britain to invest $508 million in next-generation nuclear fuel programme" }
+Cueerranthof@{ shape: win-pane, label: "_Published Dec 02, 2023, 03:17 PM_
+Cop28: 118 countries agree to triple renewable energy to push out fossil fuels" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Urcrigtsttgsita@{ shape: win-pane, label: "_Published Feb 18, 2025, 01:00 AM_
+Us energy secretary chris wright attacks ‘sinister’ net-zero goals, singling out britain" }
+Bcfrelrve@{ shape: win-pane, label: "_Published Dec 09, 2021, 06:03 AM_
+Biden calls for carbon-neutral federal government by 2050" }
+WhladciC@{ shape: win-pane, label: "_Published Nov 20, 2021, 05:00 AM_
+What the world did and didn't accomplish at cop26" }
+TsctieekhleitEt@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:40 PM_
+Trump’s anti-climate action steps a setback for the world and especially the us: experts" }
+Twrrriamg@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:36 AM_
+Trump withdraws from paris climate agreement, again" }
+TlunlAcsuaicrn@{ shape: win-pane, label: "_Published Jan 21, 2025, 09:54 AM_
+Trump lays out plan to unleash american fossil fuels, halt climate cooperation" }
+
+Bisrhttmwsu:::txtsize --> BirNWsosller:::txtsize
+BirNWsosller:::txtsize --> Bielogurrnir:::txtsize
+Bielogurrnir:::txtsize --> Biretodie:::txtsize
+Bielogurrnir:::txtsize --> Binmoenicfrm:::txtsize
+BirNWsosller:::txtsize --> Binmoenicfrm:::txtsize
+Binmoenicfrm:::txtsize --> Cueerranthof:::txtsize
+Binmoenicfrm:::txtsize --> DsruasvUn:::txtsize
+Bisrhttmwsu:::txtsize --> Urcrigtsttgsita:::txtsize
+Urcrigtsttgsita:::txtsize --> Bcfrelrve:::txtsize
+Bcfrelrve:::txtsize --> WhladciC:::txtsize
+Urcrigtsttgsita:::txtsize --> TsctieekhleitEt:::txtsize
+TsctieekhleitEt:::txtsize --> Twrrriamg:::txtsize
+TsctieekhleitEt:::txtsize --> TlunlAcsuaicrn:::txtsize
+
 ```
-<i>Last updated: 2026-01-02 20:00:42.630148 (GMT+8)</i>
+<i>Last updated: 2026-01-03 00:01:09.436209 (GMT+8)</i>
 <!-- END -->
