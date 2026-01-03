@@ -16,144 +16,141 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-OosefNaesfooe@{ shape: win-pane, label: "_Published Jan 03, 2026, 03:49 AM_
-Owner of swiss bar engulfed in new year fire insists safety norms followed" }
-Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
-CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
-Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
-Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
-Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
-Pesmeryianrteodtn@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
-‘people were screaming’: new year party at swiss crans-montana resort turned into fire disaster zone" }
-Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
-CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
-Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
-CMneserfanmvreb@{ shape: win-pane, label: "_Published Jan 02, 2026, 11:40 PM_
-Crans-montana fire: swiss prosecutor says ‘fountain candles’ may have started deadly blaze" }
-Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
-CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
-Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
-Pesmeryianrteodtn@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
-‘people were screaming’: new year party at swiss crans-montana resort turned into fire disaster zone" }
-CMneiahorrats@{ shape: win-pane, label: "_Published Jan 02, 2026, 11:40 PM_
-Crans-montana fire: it’s likely a flashover occurred. here’s what that means" }
-Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
-CMnesaukeyisaae@{ shape: win-pane, label: "_Published Jan 02, 2026, 07:14 AM_
-Crans-montana fire: swiss face arduous task of identifying victims of deadly bar inferno" }
+Btwcarremheymhes@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:55 AM_
+Bbc settles with oct 7 attack survivors after filming their destroyed home ‘without permission’" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
+Singapore strongly condemns terror attacks on israel, calls for end to violence" }
+TslhBleioe@{ shape: win-pane, label: "_Published Nov 25, 2025, 08:18 PM_
+Trump’s battle with the bbc could threaten its global reach" }
+Bunsoadtadnp@{ shape: win-pane, label: "_Published Nov 15, 2025, 10:53 PM_
+Bbc caught in crossfire of polarised political and media landscape" }
+BiCosueoshrtaoi@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:07 AM_
+Britain’s bbc apologises to trump over panorama speech edit, rejects defamation claim" }
+Tsieooieet@{ shape: win-pane, label: "_Published Nov 15, 2025, 10:09 AM_
+Trump says will sue bbc for up to $6.4 billion over video edit" }
+Bunsoadtadnp@{ shape: win-pane, label: "_Published Nov 15, 2025, 10:53 PM_
+Bbc caught in crossfire of polarised political and media landscape" }
+BiCosueoshrtaoi@{ shape: win-pane, label: "_Published Nov 14, 2025, 05:07 AM_
+Britain’s bbc apologises to trump over panorama speech edit, rejects defamation claim" }
+Tsieooieet@{ shape: win-pane, label: "_Published Nov 15, 2025, 10:09 AM_
+Trump says will sue bbc for up to $6.4 billion over video edit" }
 
-OosefNaesfooe:::txtsize --> Dserrftssairpe:::txtsize
-Dserrftssairpe:::txtsize --> CMnsoceaaeltrcs:::txtsize
-CMnsoceaaeltrcs:::txtsize --> Dserrftssairpe:::txtsize
-CMnsoceaaeltrcs:::txtsize --> Dserrftssairpe:::txtsize
-Dserrftssairpe:::txtsize --> Pesmeryianrteodtn:::txtsize
-Pesmeryianrteodtn:::txtsize --> Dserrftssairpe:::txtsize
-Pesmeryianrteodtn:::txtsize --> CMnsoceaaeltrcs:::txtsize
-OosefNaesfooe:::txtsize --> CMneserfanmvreb:::txtsize
-CMneserfanmvreb:::txtsize --> Dserrftssairpe:::txtsize
-Dserrftssairpe:::txtsize --> CMnsoceaaeltrcs:::txtsize
-Dserrftssairpe:::txtsize --> Pesmeryianrteodtn:::txtsize
-CMneserfanmvreb:::txtsize --> CMneiahorrats:::txtsize
-CMneiahorrats:::txtsize --> Dserrftssairpe:::txtsize
-CMneiahorrats:::txtsize --> CMnesaukeyisaae:::txtsize
+Btwcarremheymhes:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+WzptIleint:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
+Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
+Btwcarremheymhes:::txtsize --> TslhBleioe:::txtsize
+TslhBleioe:::txtsize --> Bunsoadtadnp:::txtsize
+Bunsoadtadnp:::txtsize --> BiCosueoshrtaoi:::txtsize
+Bunsoadtadnp:::txtsize --> Tsieooieet:::txtsize
+TslhBleioe:::txtsize --> Bunsoadtadnp:::txtsize
+Bunsoadtadnp:::txtsize --> BiCosueoshrtaoi:::txtsize
+Bunsoadtadnp:::txtsize --> Tsieooieet:::txtsize
 
-Ugenspipbagoiuy@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:30 AM_
-Us judge orders man accused of planting pipe bombs in washington to remain in custody" }
-Vnngtnponfpr@{ shape: win-pane, label: "_Published Dec 05, 2025, 07:05 AM_
-Virginia man charged with planting pipe bombs on eve of us capitol riot" }
-Fgoykiealccs@{ shape: win-pane, label: "_Published Jun 07, 2025, 03:06 AM_
-Far right proud boys seek $129 million over us capitol riot convictions" }
-Eusetdairnpak@{ shape: win-pane, label: "_Published Sep 06, 2023, 07:10 AM_
-Ex-proud boys leader sentenced to 22 years’ jail for role in us capitol attack" }
-TaitotiwserSto@{ shape: win-pane, label: "_Published May 20, 2025, 04:24 AM_
-Trump administration to pay $6.5m to family of woman shot dead during us capitol riot" }
-TaitotiwserSto@{ shape: win-pane, label: "_Published May 20, 2025, 04:24 AM_
-Trump administration to pay $6.5m to family of woman shot dead during us capitol riot" }
-Pnirmalcoomrlii@{ shape: win-pane, label: "_Published Jan 21, 2025, 07:36 PM_
-Pardoned prisoners from jan 6 capitol attack to go free on trump’s first full day in office" }
-UeerghIlnto@{ shape: win-pane, label: "_Published Apr 10, 2025, 07:40 AM_
-Us intelligence probing whether fbi involved in 2021 capitol riot" }
-Vnngtnponfpr@{ shape: win-pane, label: "_Published Dec 05, 2025, 07:05 AM_
-Virginia man charged with planting pipe bombs on eve of us capitol riot" }
-Fgoykiealccs@{ shape: win-pane, label: "_Published Jun 07, 2025, 03:06 AM_
-Far right proud boys seek $129 million over us capitol riot convictions" }
-Eusetdairnpak@{ shape: win-pane, label: "_Published Sep 06, 2023, 07:10 AM_
-Ex-proud boys leader sentenced to 22 years’ jail for role in us capitol attack" }
-TaitotiwserSto@{ shape: win-pane, label: "_Published May 20, 2025, 04:24 AM_
-Trump administration to pay $6.5m to family of woman shot dead during us capitol riot" }
-TaitotiwserSto@{ shape: win-pane, label: "_Published May 20, 2025, 04:24 AM_
-Trump administration to pay $6.5m to family of woman shot dead during us capitol riot" }
-Pnirmalcoomrlii@{ shape: win-pane, label: "_Published Jan 21, 2025, 07:36 PM_
-Pardoned prisoners from jan 6 capitol attack to go free on trump’s first full day in office" }
-UeerghIlnto@{ shape: win-pane, label: "_Published Apr 10, 2025, 07:40 AM_
-Us intelligence probing whether fbi involved in 2021 capitol riot" }
+Ilenuaitioald@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:49 AM_
+Israeli government accuses mamdani of anti-semitism over cancelled orders" }
+Nrormautogncl@{ shape: win-pane, label: "_Published Jan 02, 2026, 07:00 AM_
+New york mayor zohran mamdani, at inauguration, vows to govern ‘audaciously’" }
+LsdavNroemd@{ shape: win-pane, label: "_Published Jan 01, 2026, 01:57 PM_
+Leftist mamdani takes over as new york mayor under trump shadow" }
+TwruhoegNryrtad@{ shape: win-pane, label: "_Published Nov 22, 2025, 07:14 AM_
+Takeaways from trump’s white house meeting with new york city mayor-elect zohran mamdani" }
+Mntshul@{ shape: win-pane, label: "_Published Nov 07, 2025, 05:00 AM_
+Mamdani and the rise of the populist left" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
+YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
+Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
+Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
+Takeaways from us election night 2025" }
+Nodespetrhess@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:30 AM_
+Ny mayor mamdani defends scrapping executive orders his predecessor issued" }
+Ilenuaitioald@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:49 AM_
+Israeli government accuses mamdani of anti-semitism over cancelled orders" }
+Nrormautogncl@{ shape: win-pane, label: "_Published Jan 02, 2026, 07:00 AM_
+New york mayor zohran mamdani, at inauguration, vows to govern ‘audaciously’" }
+Nodespetrhess@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:30 AM_
+Ny mayor mamdani defends scrapping executive orders his predecessor issued" }
+Nrormautogncl@{ shape: win-pane, label: "_Published Jan 02, 2026, 07:00 AM_
+New york mayor zohran mamdani, at inauguration, vows to govern ‘audaciously’" }
+LsdavNroemd@{ shape: win-pane, label: "_Published Jan 01, 2026, 01:57 PM_
+Leftist mamdani takes over as new york mayor under trump shadow" }
+YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
+Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
 
-Ugenspipbagoiuy:::txtsize --> Vnngtnponfpr:::txtsize
-Vnngtnponfpr:::txtsize --> Fgoykiealccs:::txtsize
-Fgoykiealccs:::txtsize --> Eusetdairnpak:::txtsize
-Fgoykiealccs:::txtsize --> TaitotiwserSto:::txtsize
-Vnngtnponfpr:::txtsize --> TaitotiwserSto:::txtsize
-TaitotiwserSto:::txtsize --> Pnirmalcoomrlii:::txtsize
-TaitotiwserSto:::txtsize --> UeerghIlnto:::txtsize
-Ugenspipbagoiuy:::txtsize --> Vnngtnponfpr:::txtsize
-Vnngtnponfpr:::txtsize --> Fgoykiealccs:::txtsize
-Fgoykiealccs:::txtsize --> Eusetdairnpak:::txtsize
-Fgoykiealccs:::txtsize --> TaitotiwserSto:::txtsize
-Vnngtnponfpr:::txtsize --> TaitotiwserSto:::txtsize
-TaitotiwserSto:::txtsize --> Pnirmalcoomrlii:::txtsize
-TaitotiwserSto:::txtsize --> UeerghIlnto:::txtsize
+Ilenuaitioald:::txtsize --> Nrormautogncl:::txtsize
+Nrormautogncl:::txtsize --> LsdavNroemd:::txtsize
+LsdavNroemd:::txtsize --> TwruhoegNryrtad:::txtsize
+LsdavNroemd:::txtsize --> Mntshul:::txtsize
+Nrormautogncl:::txtsize --> YMmnoihaiYilehpea:::txtsize
+YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
+YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
+Ilenuaitioald:::txtsize --> Nodespetrhess:::txtsize
+Nodespetrhess:::txtsize --> Ilenuaitioald:::txtsize
+Ilenuaitioald:::txtsize --> Nrormautogncl:::txtsize
+Ilenuaitioald:::txtsize --> Nodespetrhess:::txtsize
+Nodespetrhess:::txtsize --> Nrormautogncl:::txtsize
+Nrormautogncl:::txtsize --> LsdavNroemd:::txtsize
+Nrormautogncl:::txtsize --> YMmnoihaiYilehpea:::txtsize
 
-UswdnIneYEtnhl@{ shape: win-pane, label: "_Published Jan 03, 2026, 01:55 AM_
-Us says it thwarted potential isis-inspired new year’s eve attack in north carolina" }
-ieerychp@{ shape: win-pane, label: "_Published Jan 01, 2026, 01:59 PM_
-22 injured in new year party attack in philippines" }
-Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
-CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
-Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
-Pesmeryianrteodtn@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
-‘people were screaming’: new year party at swiss crans-montana resort turned into fire disaster zone" }
-Speehlirane@{ shape: win-pane, label: "_Published Jan 01, 2026, 01:13 AM_
-Singapore welcomes 2026 with dazzling fireworks, heartland cheer" }
-Nanniocosniyaeo@{ shape: win-pane, label: "_Published Dec 31, 2025, 08:06 PM_
-New year 2026 countdowns: police close access to areas around marina bay, kallang due to crowds" }
-SemwrybrdapiW@{ shape: win-pane, label: "_Published Dec 31, 2025, 06:00 PM_
-S’pore economy grew 4.8% in 2025, strategy must be refreshed to stay competitive: pm wong" }
-BBakseertce@{ shape: win-pane, label: "_Published Dec 29, 2025, 02:19 PM_
-Bondi beach attack hero says he wanted to protect ‘innocent people’" }
-BBtdroea@{ shape: win-pane, label: "_Published Dec 21, 2025, 06:38 PM_
-Bondi beach tragedy : in praise of male courage" }
-Asdrttenaleeoie@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:30 PM_
-At least 16 dead after shooting at sydney’s bondi beach; police declare ‘terrorist incident’" }
-TaiaceiyoBseise@{ shape: win-pane, label: "_Published Dec 16, 2025, 04:24 PM_
-‘they saved lives’: man and couple who died trying to stop bondi shooters hailed as heroes" }
-Aapegeoiweiufe@{ shape: win-pane, label: "_Published Dec 17, 2025, 01:45 PM_
-Australian police charge alleged bondi killer with terrorism, 15 counts of murder" }
-Frueynnoehnrioa@{ shape: win-pane, label: "_Published Dec 15, 2025, 05:14 AM_
-Father-son duo allegedly behind sydney’s bondi beach shooting; 10-year-old girl among 16 dead" }
-NdortnfoustPps@{ shape: win-pane, label: "_Published Dec 17, 2025, 02:39 PM_
-No evidence of ‘terrorist training’ after bondi gunmen’s visit, says philippines" }
+UelsteGnz@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:37 AM_
+Un chief calls on israel to reverse ngos ban in gaza" }
+IlilrnOa@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:49 PM_
+Israel says it will enforce ban on 37 ngos in gaza" }
+Ilnttotcbiddpnu@{ shape: win-pane, label: "_Published Dec 24, 2025, 11:53 PM_
+Israel green lights contentious oct 7 attack probe, families demand independent inquiry" }
+Ilvinviddrdy@{ shape: win-pane, label: "_Published Dec 25, 2025, 01:52 AM_
+Israel to invest $140 billion in developing independent arms industry" }
+Ilnwbosealcy@{ shape: win-pane, label: "_Published Dec 23, 2025, 08:04 PM_
+Israel extends power to ban broadcasts deemed harmful to security" }
+NpyosbSphdtnlnm@{ shape: win-pane, label: "_Published Dec 31, 2025, 03:15 PM_
+No happy new year for those hit by war; singapore should do what it can to help: shanmugam" }
+AvtheeSpoesast@{ shape: win-pane, label: "_Published Dec 20, 2025, 11:05 AM_
+About 200 volunteers hit the streets of singapore to raise funds for gaza residents" }
+WcehaavnpsUBTR@{ shape: win-pane, label: "_Published Dec 27, 2025, 12:15 PM_
+Woman charged with vandalism at salvation army premises in upper bukit timah road" }
+HrmtumphhC@{ shape: win-pane, label: "_Published Dec 31, 2025, 04:24 PM_
+How israel’s multi-ton truck bombs ripped through gaza city" }
+TeTbilptGel@{ shape: win-pane, label: "_Published Dec 10, 2025, 07:10 PM_
+Tussle over turks bedevils talks on phase two of gaza peace plan" }
+Gnresisano@{ shape: win-pane, label: "_Published Dec 06, 2025, 07:25 PM_
+Germany’s merz makes first visit to israel as chancellor" }
+NyiemaDoes@{ shape: win-pane, label: "_Published Dec 08, 2025, 10:21 PM_
+Netanyahu will meet trump on gaza on dec 29, spokesperson says" }
+Ptnossbtrem@{ shape: win-pane, label: "_Published Dec 31, 2025, 04:00 PM_
+Palestinian authority sparks fury by cutting prisoner payments" }
+Ptnissoatedis@{ shape: win-pane, label: "_Published Feb 11, 2025, 03:48 AM_
+Palestinian president scraps prisoner payment system amid us criticism" }
+Wooumzl@{ shape: win-pane, label: "_Published Oct 09, 2025, 10:43 AM_
+What do we know about trump’s gaza deal?" }
 
-UswdnIneYEtnhl:::txtsize --> ieerychp:::txtsize
-ieerychp:::txtsize --> Dserrftssairpe:::txtsize
-Dserrftssairpe:::txtsize --> CMnsoceaaeltrcs:::txtsize
-Dserrftssairpe:::txtsize --> Pesmeryianrteodtn:::txtsize
-ieerychp:::txtsize --> Speehlirane:::txtsize
-Speehlirane:::txtsize --> Nanniocosniyaeo:::txtsize
-Speehlirane:::txtsize --> SemwrybrdapiW:::txtsize
-UswdnIneYEtnhl:::txtsize --> BBakseertce:::txtsize
-BBakseertce:::txtsize --> BBtdroea:::txtsize
-BBtdroea:::txtsize --> Asdrttenaleeoie:::txtsize
-BBtdroea:::txtsize --> TaiaceiyoBseise:::txtsize
-BBakseertce:::txtsize --> Aapegeoiweiufe:::txtsize
-Aapegeoiweiufe:::txtsize --> Frueynnoehnrioa:::txtsize
-Aapegeoiweiufe:::txtsize --> NdortnfoustPps:::txtsize
+UelsteGnz:::txtsize --> IlilrnOa:::txtsize
+IlilrnOa:::txtsize --> Ilnttotcbiddpnu:::txtsize
+Ilnttotcbiddpnu:::txtsize --> Ilvinviddrdy:::txtsize
+Ilnttotcbiddpnu:::txtsize --> Ilnwbosealcy:::txtsize
+IlilrnOa:::txtsize --> NpyosbSphdtnlnm:::txtsize
+NpyosbSphdtnlnm:::txtsize --> AvtheeSpoesast:::txtsize
+NpyosbSphdtnlnm:::txtsize --> WcehaavnpsUBTR:::txtsize
+UelsteGnz:::txtsize --> HrmtumphhC:::txtsize
+HrmtumphhC:::txtsize --> TeTbilptGel:::txtsize
+TeTbilptGel:::txtsize --> Gnresisano:::txtsize
+TeTbilptGel:::txtsize --> NyiemaDoes:::txtsize
+HrmtumphhC:::txtsize --> Ptnossbtrem:::txtsize
+Ptnossbtrem:::txtsize --> Ptnissoatedis:::txtsize
+Ptnossbtrem:::txtsize --> Wooumzl:::txtsize
 
 ```
-<i>Last updated: 2026-01-03 04:00:33.421057 (GMT+8)</i>
+<i>Last updated: 2026-01-03 08:01:00.881503 (GMT+8)</i>
 <!-- END -->
