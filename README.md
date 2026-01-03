@@ -16,141 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-CMnechusuoaz@{ shape: win-pane, label: "_Published Jan 03, 2026, 11:34 AM_
-Crans-montana fire: ‘my face was half-burned’ says survivor of bar blaze" }
-CMnesercapektdlz@{ shape: win-pane, label: "_Published Jan 02, 2026, 11:40 PM_
-Crans-montana fire: swiss prosecutor says champagne sparklers likely started deadly blaze" }
-Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
-CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
-Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
-Pesmeryianrteodtn@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
-‘people were screaming’: new year party at swiss crans-montana resort turned into fire disaster zone" }
-CMneiahorrats@{ shape: win-pane, label: "_Published Jan 02, 2026, 11:40 PM_
-Crans-montana fire: it’s likely a flashover occurred. here’s what that means" }
-Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
-CMnesaukeyisaae@{ shape: win-pane, label: "_Published Jan 02, 2026, 07:14 AM_
-Crans-montana fire: swiss face arduous task of identifying victims of deadly bar inferno" }
-CMnesercapektdlz@{ shape: win-pane, label: "_Published Jan 02, 2026, 11:40 PM_
-Crans-montana fire: swiss prosecutor says champagne sparklers likely started deadly blaze" }
-Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
-CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
-Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
-Pesmeryianrteodtn@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
-‘people were screaming’: new year party at swiss crans-montana resort turned into fire disaster zone" }
-CMneiahorrats@{ shape: win-pane, label: "_Published Jan 02, 2026, 11:40 PM_
-Crans-montana fire: it’s likely a flashover occurred. here’s what that means" }
-Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
-CMnesaukeyisaae@{ shape: win-pane, label: "_Published Jan 02, 2026, 07:14 AM_
-Crans-montana fire: swiss face arduous task of identifying victims of deadly bar inferno" }
+ScYshandgRh@{ shape: win-pane, label: "_Published Jan 03, 2026, 03:20 PM_
+Saudi calls yemen’s southern factions for ‘dialogue’ in riyadh" }
+Sasrwheub@{ shape: win-pane, label: "_Published Mar 30, 2023, 05:10 AM_
+Saudi agrees to partner with china-led security bloc" }
+Indbrreileiie@{ shape: win-pane, label: "_Published Mar 10, 2023, 08:37 PM_
+Iran and saudi arabia agree to resume ties in deal brokered with china’s help" }
+Iolhfstfi@{ shape: win-pane, label: "_Published Jan 13, 2023, 09:41 PM_
+Iran top diplomat hopes for restoration of saudi ties" }
+Utwageenihii@{ shape: win-pane, label: "_Published Dec 30, 2025, 10:54 PM_
+Uae withdraws remaining forces in yemen in crisis with saudi arabia" }
+SsAkvieeset@{ shape: win-pane, label: "_Published Dec 30, 2025, 04:58 PM_
+Saudi says uae-backed advance in yemen threatens its security" }
+Hieenexgrir@{ shape: win-pane, label: "_Published Dec 23, 2025, 10:22 PM_
+Houthis, yemen government agree to exchange nearly 3,000 prisoners" }
+Ilkblerecon@{ shape: win-pane, label: "_Published Sep 16, 2025, 08:55 PM_
+Israel strikes rebel-held yemeni port after evacuation warnings" }
 
-CMnechusuoaz:::txtsize --> CMnesercapektdlz:::txtsize
-CMnesercapektdlz:::txtsize --> Dserrftssairpe:::txtsize
-Dserrftssairpe:::txtsize --> CMnsoceaaeltrcs:::txtsize
-Dserrftssairpe:::txtsize --> Pesmeryianrteodtn:::txtsize
-CMnesercapektdlz:::txtsize --> CMneiahorrats:::txtsize
-CMneiahorrats:::txtsize --> Dserrftssairpe:::txtsize
-CMneiahorrats:::txtsize --> CMnesaukeyisaae:::txtsize
-CMnechusuoaz:::txtsize --> CMnesercapektdlz:::txtsize
-CMnesercapektdlz:::txtsize --> Dserrftssairpe:::txtsize
-Dserrftssairpe:::txtsize --> CMnsoceaaeltrcs:::txtsize
-Dserrftssairpe:::txtsize --> Pesmeryianrteodtn:::txtsize
-CMnesercapektdlz:::txtsize --> CMneiahorrats:::txtsize
-CMneiahorrats:::txtsize --> Dserrftssairpe:::txtsize
-CMneiahorrats:::txtsize --> CMnesaukeyisaae:::txtsize
+ScYshandgRh:::txtsize --> Sasrwheub:::txtsize
+Sasrwheub:::txtsize --> Indbrreileiie:::txtsize
+Indbrreileiie:::txtsize --> Iolhfstfi:::txtsize
+ScYshandgRh:::txtsize --> Utwageenihii:::txtsize
+Utwageenihii:::txtsize --> SsAkvieeset:::txtsize
+SsAkvieeset:::txtsize --> Hieenexgrir:::txtsize
+SsAkvieeset:::txtsize --> Ilkblerecon:::txtsize
 
-TsPioalnnt@{ shape: win-pane, label: "_Published Jan 03, 2026, 11:21 AM_
-Trump super pac raised more than $128 million in recent months" }
-Taddhhiss@{ shape: win-pane, label: "_Published Jan 02, 2026, 09:41 PM_
-Trump again defends his health, cognitive skills" }
-Tbssnsnels@{ shape: win-pane, label: "_Published Jan 01, 2026, 10:44 PM_
-Trump blames bruised hand on aspirin, denies falling asleep" }
-Thraylty@{ shape: win-pane, label: "_Published Oct 11, 2025, 11:00 AM_
-Trump, 79, has ‘cardiac age’ of 65-year-old, doctor says" }
-WHbspdhnss@{ shape: win-pane, label: "_Published Dec 12, 2025, 07:10 AM_
-White house blames trump’s bandaged hand on handshakes" }
-WHbspdhnss@{ shape: win-pane, label: "_Published Dec 12, 2025, 07:10 AM_
-White house blames trump’s bandaged hand on handshakes" }
-Tseadieael@{ shape: win-pane, label: "_Published Dec 10, 2025, 12:40 PM_
-Trump says he ‘aced’ a third cognitive exam taken recently" }
-Nrormautogncl@{ shape: win-pane, label: "_Published Jan 02, 2026, 07:00 AM_
-New york mayor zohran mamdani, at inauguration, vows to govern ‘audaciously’" }
-LsdavNroemd@{ shape: win-pane, label: "_Published Jan 01, 2026, 01:57 PM_
-Leftist mamdani takes over as new york mayor under trump shadow" }
-TwruhoegNryrtad@{ shape: win-pane, label: "_Published Nov 22, 2025, 07:14 AM_
-Takeaways from trump’s white house meeting with new york city mayor-elect zohran mamdani" }
-Mntshul@{ shape: win-pane, label: "_Published Nov 07, 2025, 05:00 AM_
-Mamdani and the rise of the populist left" }
-YMmnoihaiYilehpea@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:55 AM_
-Young, muslim, asian and socialist: zohran mamdani’s new york win challenges both trump and democrats" }
-YMmimociYaoauoc@{ shape: win-pane, label: "_Published Nov 05, 2025, 01:27 AM_
-Young muslim leftist mamdani on track to win new york mayor vote, shaking up us politics" }
-Twreig@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:50 AM_
-Takeaways from us election night 2025" }
+ToeseinllgtataSr@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Trump ordered the strikes inside venezuela, including military facilities, says a us reporter" }
+Tstdarzsrtw@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:48 AM_
+Trump says it would be ‘smart’ for venezuela’s maduro to step down" }
+Ustonenlis@{ shape: win-pane, label: "_Published Dec 21, 2025, 11:56 PM_
+Us pursuing third oil tanker near venezuela: officials" }
+Uettreeofay@{ shape: win-pane, label: "_Published Dec 21, 2025, 12:31 AM_
+Us intercepts oil tanker off venezuelan coast, officials say" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
+Us military says it carried out strikes on three vessels in eastern pacific" }
+TsSbrltsurnama@{ shape: win-pane, label: "_Published Dec 13, 2025, 07:41 AM_
+Trump says us will be ‘starting’ land strikes on drug operations in latin america" }
+RararoVuMouaps@{ shape: win-pane, label: "_Published Dec 12, 2025, 01:23 AM_
+Russia, belarus leaders reach out to venezuela’s maduro, as trump cranks up pressure" }
+Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
+Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
+Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
+Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
+Upgirkfeasespncy@{ shape: win-pane, label: "_Published Dec 12, 2025, 10:13 AM_
+Us preparing to seize more tankers off venezuela’s coast after first ship taken, sources say" }
 
-TsPioalnnt:::txtsize --> Taddhhiss:::txtsize
-Taddhhiss:::txtsize --> Tbssnsnels:::txtsize
-Tbssnsnels:::txtsize --> Thraylty:::txtsize
-Tbssnsnels:::txtsize --> WHbspdhnss:::txtsize
-Taddhhiss:::txtsize --> WHbspdhnss:::txtsize
-WHbspdhnss:::txtsize --> Tseadieael:::txtsize
-TsPioalnnt:::txtsize --> Nrormautogncl:::txtsize
-Nrormautogncl:::txtsize --> LsdavNroemd:::txtsize
-LsdavNroemd:::txtsize --> TwruhoegNryrtad:::txtsize
-LsdavNroemd:::txtsize --> Mntshul:::txtsize
-Nrormautogncl:::txtsize --> YMmnoihaiYilehpea:::txtsize
-YMmnoihaiYilehpea:::txtsize --> YMmimociYaoauoc:::txtsize
-YMmnoihaiYilehpea:::txtsize --> Twreig:::txtsize
+ToeseinllgtataSr:::txtsize --> Tstdarzsrtw:::txtsize
+Tstdarzsrtw:::txtsize --> Ustonenlis:::txtsize
+Ustonenlis:::txtsize --> Uettreeofay:::txtsize
+Ustonenlis:::txtsize --> Toskftdasitgz:::txtsize
+ToeseinllgtataSr:::txtsize --> Toskftdasitgz:::txtsize
+Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
+Uistitktvlanf:::txtsize --> TsSbrltsurnama:::txtsize
+Uistitktvlanf:::txtsize --> RararoVuMouaps:::txtsize
+Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
+Uznenltrwtphoon:::txtsize --> Uzlecoeapageo:::txtsize
+Uznenltrwtphoon:::txtsize --> Upgirkfeasespncy:::txtsize
 
-Coboyyuustlts@{ shape: win-pane, label: "_Published Jan 03, 2026, 10:23 AM_
-California ban on openly carrying guns is unconstitutional, court rules" }
-AaNulsornratnaog@{ shape: win-pane, label: "_Published Dec 24, 2025, 07:03 AM_
-Australia’s new south wales passes tougher gun, anti-terror laws after bondi beach shooting" }
-Aolaaunoaksina@{ shape: win-pane, label: "_Published Dec 14, 2025, 10:50 PM_
-‘an act of evil’: at least 16 dead, 40 injured in terrorist attack at australia’s bondi beach" }
-Asdrttenaleeoie@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:30 PM_
-At least 16 dead after shooting at sydney’s bondi beach; police declare ‘terrorist incident’" }
-BBsioryeceiWrtta@{ shape: win-pane, label: "_Published Dec 15, 2025, 12:18 AM_
-Bondi beach shooting: s’pore strongly condemns act of terrorism, pm wong writes to australian pm" }
-Asdrttenaleeoie@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:30 PM_
-At least 16 dead after shooting at sydney’s bondi beach; police declare ‘terrorist incident’" }
-Prolmnnaogee@{ shape: win-pane, label: "_Published Dec 14, 2025, 08:54 PM_
-Passer-by who tackled armed man at bondi beach shooting hailed as hero" }
-AeccAaitfw@{ shape: win-pane, label: "_Published Dec 14, 2025, 07:28 PM_
-Anti-semitic attacks in australia since start of gaza war" }
-SfictgoiTaita@{ shape: win-pane, label: "_Published Nov 09, 2025, 06:30 AM_
-Shots fired in chicago at immigration officers, trump administration says" }
-Asdriveatiirnk@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:30 AM_
-Agents raid daycare, senior living centre as part of chicago immigration crackdown" }
-IfkmCgurrap@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:45 AM_
-Ice officer kills man in chicago suburb during arrest attempt" }
-Ialttuoigcrhmtfe@{ shape: win-pane, label: "_Published Nov 06, 2025, 05:05 AM_
-Ice plans call centre to track unaccompanied migrant children, other immigration offenders" }
-Ugeomrlrieltocho@{ shape: win-pane, label: "_Published Nov 07, 2025, 04:41 AM_
-Us judge rejects government's riot claims, restricts federal agents' use of force in chicago" }
-IfkmCgurrap@{ shape: win-pane, label: "_Published Sep 13, 2025, 07:45 AM_
-Ice officer kills man in chicago suburb during arrest attempt" }
-Asdriveatiirnk@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:30 AM_
-Agents raid daycare, senior living centre as part of chicago immigration crackdown" }
+Untkhrliv@{ shape: win-pane, label: "_Published Jan 03, 2026, 01:55 PM_
+Ukraine hosts talks with security allies in kyiv" }
+Unlyhtwealpnwu@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:29 AM_
+Ukraine’s zelensky says he won’t sign weak deal that will only prolong war with russia" }
+Tskecrokutlyi@{ shape: win-pane, label: "_Published Dec 29, 2025, 07:03 AM_
+Trump says ukraine deal closer but no breakthrough after zelensky meeting" }
+Zsmrnirsrpp@{ shape: win-pane, label: "_Published Dec 28, 2025, 01:05 PM_
+Zelensky to meet trump in florida for talks on ukraine peace plan" }
+Tsadvkhnrem@{ shape: win-pane, label: "_Published Dec 29, 2025, 02:09 AM_
+Trump says has 'productive' talks with putin before zelensky meet" }
+UnfasaeaPre@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:04 AM_
+Ukraine, eu officials dismiss alleged attack on putin residence" }
+Tvnbldcure@{ shape: win-pane, label: "_Published Dec 30, 2025, 04:10 AM_
+Trump ‘very angry’ about alleged attack on putin’s residence" }
+Woouscttkecuen@{ shape: win-pane, label: "_Published Dec 30, 2025, 07:39 PM_
+What do we know about russia’s accusations that ukraine attacked putin residence?" }
+Unirnisrosl@{ shape: win-pane, label: "_Published Jan 02, 2026, 08:34 PM_
+Ukraine denies targeting civilians after moscow says hotel hit" }
+Rakeegntsvner@{ shape: win-pane, label: "_Published Jan 02, 2026, 12:25 AM_
+Russia and ukraine trade allegations of attacks on civilians on new year’s day" }
+TsegemnaSikke@{ shape: win-pane, label: "_Published Dec 19, 2025, 04:20 AM_
+Trump says ‘getting close to something’ ahead of us, russia talks on ukraine" }
+Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
+Timeline: how russia's attack on ukraine unfolded" }
+Rakeegntsvner@{ shape: win-pane, label: "_Published Jan 02, 2026, 12:25 AM_
+Russia and ukraine trade allegations of attacks on civilians on new year’s day" }
+TsegemnaSikke@{ shape: win-pane, label: "_Published Dec 19, 2025, 04:20 AM_
+Trump says ‘getting close to something’ ahead of us, russia talks on ukraine" }
+Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
+Timeline: how russia's attack on ukraine unfolded" }
 
-Coboyyuustlts:::txtsize --> AaNulsornratnaog:::txtsize
-AaNulsornratnaog:::txtsize --> Aolaaunoaksina:::txtsize
-Aolaaunoaksina:::txtsize --> Asdrttenaleeoie:::txtsize
-Aolaaunoaksina:::txtsize --> BBsioryeceiWrtta:::txtsize
-AaNulsornratnaog:::txtsize --> Asdrttenaleeoie:::txtsize
-Asdrttenaleeoie:::txtsize --> Prolmnnaogee:::txtsize
-Asdrttenaleeoie:::txtsize --> AeccAaitfw:::txtsize
-Coboyyuustlts:::txtsize --> SfictgoiTaita:::txtsize
-SfictgoiTaita:::txtsize --> Asdriveatiirnk:::txtsize
-Asdriveatiirnk:::txtsize --> IfkmCgurrap:::txtsize
-Asdriveatiirnk:::txtsize --> Ialttuoigcrhmtfe:::txtsize
-SfictgoiTaita:::txtsize --> Ugeomrlrieltocho:::txtsize
-Ugeomrlrieltocho:::txtsize --> IfkmCgurrap:::txtsize
-Ugeomrlrieltocho:::txtsize --> Asdriveatiirnk:::txtsize
+Untkhrliv:::txtsize --> Unlyhtwealpnwu:::txtsize
+Unlyhtwealpnwu:::txtsize --> Tskecrokutlyi:::txtsize
+Tskecrokutlyi:::txtsize --> Zsmrnirsrpp:::txtsize
+Tskecrokutlyi:::txtsize --> Tsadvkhnrem:::txtsize
+Unlyhtwealpnwu:::txtsize --> UnfasaeaPre:::txtsize
+UnfasaeaPre:::txtsize --> Tvnbldcure:::txtsize
+UnfasaeaPre:::txtsize --> Woouscttkecuen:::txtsize
+Untkhrliv:::txtsize --> Unirnisrosl:::txtsize
+Unirnisrosl:::txtsize --> Rakeegntsvner:::txtsize
+Rakeegntsvner:::txtsize --> TsegemnaSikke:::txtsize
+Rakeegntsvner:::txtsize --> Tiwitnifd:::txtsize
+Unirnisrosl:::txtsize --> Rakeegntsvner:::txtsize
+Rakeegntsvner:::txtsize --> TsegemnaSikke:::txtsize
+Rakeegntsvner:::txtsize --> Tiwitnifd:::txtsize
 
 ```
-<i>Last updated: 2026-01-03 12:00:25.951254 (GMT+8)</i>
+<i>Last updated: 2026-01-03 16:00:50.576422 (GMT+8)</i>
 <!-- END -->
