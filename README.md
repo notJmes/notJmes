@@ -16,132 +16,135 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Baomfldei@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:42 PM_
-Bombs away for trump, self-proclaimed peace president" }
-TseeadetaUi@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Trump says venezuela’s maduro deposed, captured after us strikes" }
+Ltisreieastrp@{ shape: win-pane, label: "_Published Jan 03, 2026, 11:48 PM_
+‘like a television show’: trump revels in venezuelan president maduro’s capture" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
 Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
 Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
 TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
 Trump says not winning nobel peace prize would be ‘insult’ to us" }
 TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
 Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Tstdarzsrtw@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:48 AM_
-Trump says it would be ‘smart’ for venezuela’s maduro to step down" }
-Ustonenlis@{ shape: win-pane, label: "_Published Dec 21, 2025, 11:56 PM_
-Us pursuing third oil tanker near venezuela: officials" }
-TseeadetaUi@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Trump says venezuela’s maduro deposed, captured after us strikes" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
-Trump says not winning nobel peace prize would be ‘insult’ to us" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Tstdarzsrtw@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:48 AM_
-Trump says it would be ‘smart’ for venezuela’s maduro to step down" }
-Ustonenlis@{ shape: win-pane, label: "_Published Dec 21, 2025, 11:56 PM_
-Us pursuing third oil tanker near venezuela: officials" }
-
-Baomfldei:::txtsize --> TseeadetaUi:::txtsize
-TseeadetaUi:::txtsize --> Vuoilranhibai:::txtsize
-Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
-Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
-TseeadetaUi:::txtsize --> Tstdarzsrtw:::txtsize
-Tstdarzsrtw:::txtsize --> Ustonenlis:::txtsize
-Baomfldei:::txtsize --> TseeadetaUi:::txtsize
-TseeadetaUi:::txtsize --> Vuoilranhibai:::txtsize
-Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
-Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
-TseeadetaUi:::txtsize --> Tstdarzsrtw:::txtsize
-Tstdarzsrtw:::txtsize --> Ustonenlis:::txtsize
-
-WNaunlen@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
-Who is nicolas maduro, venezuela’s president?" }
-TseeadetaUi@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Trump says venezuela’s maduro deposed, captured after us strikes" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
-Trump says not winning nobel peace prize would be ‘insult’ to us" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Tstdarzsrtw@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:48 AM_
-Trump says it would be ‘smart’ for venezuela’s maduro to step down" }
-Ustonenlis@{ shape: win-pane, label: "_Published Dec 21, 2025, 11:56 PM_
-Us pursuing third oil tanker near venezuela: officials" }
-Wugheeea@{ shape: win-pane, label: "_Published Jan 03, 2026, 06:30 PM_
-Why trump argues the us deserves venezuela’s oil" }
 Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
 Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
 Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
 Us military says it carried out strikes on three vessels in eastern pacific" }
 Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
 Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
-Uildcisiiig@{ shape: win-pane, label: "_Published Nov 10, 2025, 09:20 PM_
-Us strikes alleged drug-carrying vessels in pacific, killing six" }
-Nseldolrytc@{ shape: win-pane, label: "_Published Nov 07, 2025, 12:27 PM_
-New us strike on alleged drug boat kills three, says pentagon chief" }
-Eirdyroersl@{ shape: win-pane, label: "_Published Oct 31, 2025, 06:16 PM_
-Explainer: are the deadly us strikes on alleged drug vessels legal?​" }
-
-WNaunlen:::txtsize --> TseeadetaUi:::txtsize
-TseeadetaUi:::txtsize --> Vuoilranhibai:::txtsize
-Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
-Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
-TseeadetaUi:::txtsize --> Tstdarzsrtw:::txtsize
-Tstdarzsrtw:::txtsize --> Ustonenlis:::txtsize
-WNaunlen:::txtsize --> Wugheeea:::txtsize
-Wugheeea:::txtsize --> Toskftdasitgz:::txtsize
-Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
-Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
-Wugheeea:::txtsize --> Uildcisiiig:::txtsize
-Uildcisiiig:::txtsize --> Nseldolrytc:::txtsize
-Uildcisiiig:::txtsize --> Eirdyroersl:::txtsize
-
-Sosdfaltnz@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:20 PM_
-Spain offers to mediate for ‘peaceful solution’ in venezuela" }
-TseeadetaUi@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Trump says venezuela’s maduro deposed, captured after us strikes" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
 Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
 Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
 TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
 Trump says not winning nobel peace prize would be ‘insult’ to us" }
 TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
 Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Tstdarzsrtw@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:48 AM_
-Trump says it would be ‘smart’ for venezuela’s maduro to step down" }
-Ustonenlis@{ shape: win-pane, label: "_Published Dec 21, 2025, 11:56 PM_
-Us pursuing third oil tanker near venezuela: officials" }
-DepcseeeVu@{ shape: win-pane, label: "_Published Dec 12, 2025, 06:30 PM_
-Dark, wet, choppy: machado’s secret sea escape from venezuela" }
-NPlacsSelVuotwo@{ shape: win-pane, label: "_Published Dec 11, 2025, 08:12 AM_
-Nobel peace laureate machado says us helped her leave venezuela; vows to take award home" }
-DrsffeNlacs@{ shape: win-pane, label: "_Published Dec 10, 2025, 10:22 PM_
-Democracies must fight for freedom, nobel laureate machado says" }
-Vupthaoseczr@{ shape: win-pane, label: "_Published Dec 10, 2025, 02:32 PM_
-Venezuela opposition chief machado to miss nobel peace prize award" }
-NItafhroehfeem@{ shape: win-pane, label: "_Published Dec 10, 2025, 03:07 AM_
-Nobel institute calls off machado press conference ahead of peace prize ceremony" }
-VuMdskecze@{ shape: win-pane, label: "_Published Dec 06, 2025, 09:25 PM_
-Venezuela’s machado vows to make nobel peace prize ceremony" }
-Vuclshtdsnrri@{ shape: win-pane, label: "_Published Dec 08, 2025, 06:45 AM_
-Venezuela acknowledges death of detained opposition figure alfredo diaz" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
+Us military says it carried out strikes on three vessels in eastern pacific" }
+Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
+Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
 
-Sosdfaltnz:::txtsize --> TseeadetaUi:::txtsize
-TseeadetaUi:::txtsize --> Vuoilranhibai:::txtsize
+Ltisreieastrp:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
 Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
 Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
-TseeadetaUi:::txtsize --> Tstdarzsrtw:::txtsize
-Tstdarzsrtw:::txtsize --> Ustonenlis:::txtsize
-Sosdfaltnz:::txtsize --> DepcseeeVu:::txtsize
-DepcseeeVu:::txtsize --> NPlacsSelVuotwo:::txtsize
-NPlacsSelVuotwo:::txtsize --> DrsffeNlacs:::txtsize
-NPlacsSelVuotwo:::txtsize --> Vupthaoseczr:::txtsize
-DepcseeeVu:::txtsize --> NItafhroehfeem:::txtsize
-NItafhroehfeem:::txtsize --> VuMdskecze:::txtsize
-NItafhroehfeem:::txtsize --> Vuclshtdsnrri:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
+Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
+Ltisreieastrp:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
+Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
+Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
+
+CunVugnhdkr@{ shape: win-pane, label: "_Published Jan 03, 2026, 11:44 PM_
+Cia source inside venezuelan government helped track maduro" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
+Trump says not winning nobel peace prize would be ‘insult’ to us" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
+Us military says it carried out strikes on three vessels in eastern pacific" }
+Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
+Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
+Nauearnzianyp@{ shape: win-pane, label: "_Published Jan 03, 2026, 09:50 PM_
+Nicolas maduro’s heavy-handed rule in venezuela is finally ended by trump" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+
+CunVugnhdkr:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
+Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
+Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
+CunVugnhdkr:::txtsize --> Nauearnzianyp:::txtsize
+Nauearnzianyp:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+
+Eetterroaee@{ shape: win-pane, label: "_Published Jan 03, 2026, 10:49 PM_
+Eu urges ‘restraint’, respect for international law in venezuela" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
+Trump says not winning nobel peace prize would be ‘insult’ to us" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
+Us military says it carried out strikes on three vessels in eastern pacific" }
+Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
+Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
+Trump says not winning nobel peace prize would be ‘insult’ to us" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
+Us military says it carried out strikes on three vessels in eastern pacific" }
+Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
+Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
+
+Eetterroaee:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
+Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
+Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
+Eetterroaee:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
+Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
+Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
 
 ```
-<i>Last updated: 2026-01-03 20:01:16.837373 (GMT+8)</i>
+<i>Last updated: 2026-01-04 00:00:40.175623 (GMT+8)</i>
 <!-- END -->
