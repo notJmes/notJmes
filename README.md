@@ -16,8 +16,8 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ltisreieastrp@{ shape: win-pane, label: "_Published Jan 03, 2026, 11:48 PM_
-‘like a television show’: trump revels in venezuelan president maduro’s capture" }
+Tsetltirni@{ shape: win-pane, label: "_Published Jan 04, 2026, 03:35 AM_
+Trump says he's 'not thrilled' with putin over war in ukraine" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
 Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
@@ -32,54 +32,43 @@ Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
 Us military says it carried out strikes on three vessels in eastern pacific" }
 Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
 Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
-Trump says not winning nobel peace prize would be ‘insult’ to us" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
-Us military says it carried out strikes on three vessels in eastern pacific" }
-Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
-Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
+Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
+Timeline: how russia's attack on ukraine unfolded" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
+Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
+Explosions heard in ukraine capital kyiv, other cities" }
+OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
+Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
+BsSeloutdcuoa@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:18 PM_
+Biden says us, allies will respond to 'unjustified' attack by russia on ukraine" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
 
-Ltisreieastrp:::txtsize --> UtVuMorkms:::txtsize
+Tsetltirni:::txtsize --> UtVuMorkms:::txtsize
 UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
 Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
 Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
 UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
 Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
 Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
-Ltisreieastrp:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
-Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
-Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
+Tsetltirni:::txtsize --> Tiwitnifd:::txtsize
+Tiwitnifd:::txtsize --> DsruasvUn:::txtsize
+DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
+DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
+Tiwitnifd:::txtsize --> BsSeloutdcuoa:::txtsize
+BsSeloutdcuoa:::txtsize --> DsruasvUn:::txtsize
 
-CunVugnhdkr@{ shape: win-pane, label: "_Published Jan 03, 2026, 11:44 PM_
-Cia source inside venezuelan government helped track maduro" }
+Vuhfdsvpiaao@{ shape: win-pane, label: "_Published Jan 04, 2026, 03:04 AM_
+Venezuela's 'hour of freedom' has arrived: opposition leader machado" }
+TsSnzatidntt@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
+Trump says us to ‘run’ venezuela after toppling maduro in military attack" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
 Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
 Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
-Trump says not winning nobel peace prize would be ‘insult’ to us" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
 Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
 Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
-Us military says it carried out strikes on three vessels in eastern pacific" }
-Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
-Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
-Nauearnzianyp@{ shape: win-pane, label: "_Published Jan 03, 2026, 09:50 PM_
-Nicolas maduro’s heavy-handed rule in venezuela is finally ended by trump" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
 Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
@@ -87,20 +76,16 @@ Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
 Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
 Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
 
-CunVugnhdkr:::txtsize --> UtVuMorkms:::txtsize
+Vuhfdsvpiaao:::txtsize --> TsSnzatidntt:::txtsize
+TsSnzatidntt:::txtsize --> UtVuMorkms:::txtsize
 UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
-Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
 UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
-Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
-CunVugnhdkr:::txtsize --> Nauearnzianyp:::txtsize
-Nauearnzianyp:::txtsize --> UtVuMorkms:::txtsize
+TsSnzatidntt:::txtsize --> UtVuMorkms:::txtsize
 UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
 UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
 
-Eetterroaee@{ shape: win-pane, label: "_Published Jan 03, 2026, 10:49 PM_
-Eu urges ‘restraint’, respect for international law in venezuela" }
+TsSnzatidntt@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
+Trump says us to ‘run’ venezuela after toppling maduro in military attack" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
 Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
@@ -130,14 +115,14 @@ Us military says it carried out strikes on three vessels in eastern pacific" }
 Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
 Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
 
-Eetterroaee:::txtsize --> UtVuMorkms:::txtsize
+TsSnzatidntt:::txtsize --> UtVuMorkms:::txtsize
 UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
 Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
 Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
 UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
 Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
 Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
-Eetterroaee:::txtsize --> UtVuMorkms:::txtsize
+TsSnzatidntt:::txtsize --> UtVuMorkms:::txtsize
 UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
 Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
 Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
@@ -146,5 +131,5 @@ Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
 Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
 
 ```
-<i>Last updated: 2026-01-04 00:00:40.175623 (GMT+8)</i>
+<i>Last updated: 2026-01-04 04:01:02.491194 (GMT+8)</i>
 <!-- END -->
