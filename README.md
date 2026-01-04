@@ -16,129 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Sbnailieerl@{ shape: win-pane, label: "_Published Jan 04, 2026, 11:54 AM_
-Swiss bar owners face criminal negligence probe after fatal fire" }
-Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
-CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
-Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
-Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
-Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
-Pesmeryianrteodtn@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
-‘people were screaming’: new year party at swiss crans-montana resort turned into fire disaster zone" }
-Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
-CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
-Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
-OosefNaesfooe@{ shape: win-pane, label: "_Published Jan 03, 2026, 03:49 AM_
-Owner of swiss bar engulfed in new year fire insists safety norms followed" }
-Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
-CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
-Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
-Pesmeryianrteodtn@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
-‘people were screaming’: new year party at swiss crans-montana resort turned into fire disaster zone" }
-CMnesercapektdlz@{ shape: win-pane, label: "_Published Jan 02, 2026, 11:40 PM_
-Crans-montana fire: swiss prosecutor says champagne sparklers likely started deadly blaze" }
-Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
-Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
-CMneiahorrats@{ shape: win-pane, label: "_Published Jan 02, 2026, 11:40 PM_
-Crans-montana fire: it’s likely a flashover occurred. here’s what that means" }
-
-Sbnailieerl:::txtsize --> Dserrftssairpe:::txtsize
-Dserrftssairpe:::txtsize --> CMnsoceaaeltrcs:::txtsize
-CMnsoceaaeltrcs:::txtsize --> Dserrftssairpe:::txtsize
-CMnsoceaaeltrcs:::txtsize --> Dserrftssairpe:::txtsize
-Dserrftssairpe:::txtsize --> Pesmeryianrteodtn:::txtsize
-Pesmeryianrteodtn:::txtsize --> Dserrftssairpe:::txtsize
-Pesmeryianrteodtn:::txtsize --> CMnsoceaaeltrcs:::txtsize
-Sbnailieerl:::txtsize --> OosefNaesfooe:::txtsize
-OosefNaesfooe:::txtsize --> Dserrftssairpe:::txtsize
-Dserrftssairpe:::txtsize --> CMnsoceaaeltrcs:::txtsize
-Dserrftssairpe:::txtsize --> Pesmeryianrteodtn:::txtsize
-OosefNaesfooe:::txtsize --> CMnesercapektdlz:::txtsize
-CMnesercapektdlz:::txtsize --> Dserrftssairpe:::txtsize
-CMnesercapektdlz:::txtsize --> CMneiahorrats:::txtsize
-
-AcutrthoinUiivoee@{ shape: win-pane, label: "_Published Jan 04, 2026, 11:35 AM_
-Americans turn out for protests in chicago, washington over us military intervention in venezuela" }
-TsSrnlaeunNr@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
-Trump says us will run venezuela as captured maduro lands in new york" }
+CsSleelVuMo@{ shape: win-pane, label: "_Published Jan 04, 2026, 02:45 PM_
+China says us should immediately release venezuela’s maduro" }
+VuMosTsSret@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
+Venezuela’s maduro in custody, trump says us will run the country" }
+Usrrfrreiscrs@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:44 AM_
+Us coast guard searches for survivors after strike on suspected drug vessels" }
+Irseravrrfas@{ shape: win-pane, label: "_Published Oct 17, 2025, 08:00 AM_
+In a first, us strike in caribbean leaves survivors, us official says" }
+Voiriorrlisms@{ shape: win-pane, label: "_Published Dec 05, 2025, 01:36 AM_
+Video of us military strike shows survivors in ‘clear distress’, lawmaker says" }
+Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
+Trump’s maduro capture is about drugs, immigrants and china" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
+Who is venezuela’s president nicolas maduro?" }
+Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
+Trump’s maduro capture is about drugs, immigrants and china" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
 Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
 Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
 Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
 Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Vuhfdsvpiaao@{ shape: win-pane, label: "_Published Jan 04, 2026, 03:04 AM_
-Venezuela's 'hour of freedom' has arrived: opposition leader machado" }
-TsSrnlaeunNr@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
-Trump says us will run venezuela as captured maduro lands in new york" }
-Hnllonepou@{ shape: win-pane, label: "_Published Jan 04, 2026, 10:25 AM_
-How venezuelan oil factored into the us capture of maduro" }
+WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
+Who is venezuela’s president nicolas maduro?" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Tstdarzsrtw@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:48 AM_
+Trump says it would be ‘smart’ for venezuela’s maduro to step down" }
+
+CsSleelVuMo:::txtsize --> VuMosTsSret:::txtsize
+VuMosTsSret:::txtsize --> Usrrfrreiscrs:::txtsize
+Usrrfrreiscrs:::txtsize --> Irseravrrfas:::txtsize
+Usrrfrreiscrs:::txtsize --> Voiriorrlisms:::txtsize
+VuMosTsSret:::txtsize --> Tsrtstsgsh:::txtsize
+Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
+Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
+CsSleelVuMo:::txtsize --> Tsrtstsgsh:::txtsize
+Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
+WVuPdisr:::txtsize --> UtVuMorkms:::txtsize
+WVuPdisr:::txtsize --> Tstdarzsrtw:::txtsize
+
+MsaniarnGm@{ shape: win-pane, label: "_Published Jan 04, 2026, 02:35 PM_
+Malaysia, france, india hit out at x for ‘offensive’ grok images" }
+Atrsxmootpngs@{ shape: win-pane, label: "_Published Jan 02, 2026, 08:15 PM_
+Ai chatbot grok posts sexual images of minors after ‘lapses in safeguards’" }
+Coeirhweo@{ shape: win-pane, label: "_Published Sep 28, 2025, 01:15 PM_
+Chatbots are hurting our kids – here’s what we can do" }
+OIsdhTrneUnc@{ shape: win-pane, label: "_Published Aug 27, 2025, 07:50 AM_
+Openai plans to update chatgpt after parents sue over us teen’s suicide" }
+OIdnolhTrea@{ shape: win-pane, label: "_Published Sep 02, 2025, 11:06 PM_
+Openai to add parental controls to chatgpt after us teen’s death" }
+AaeIbmeecpcs@{ shape: win-pane, label: "_Published Oct 22, 2025, 09:29 PM_
+Australia tells ai chatbot companies to detail child protection steps" }
+UhehtCcIlrsd@{ shape: win-pane, label: "_Published Oct 24, 2024, 08:35 AM_
+Us mother sues ai chatbot firm character.ai, google over son’s suicide" }
+Aaaceaogfinci@{ shape: win-pane, label: "_Published Oct 14, 2025, 03:15 PM_
+Australia says social media ban is ‘for the good of our kids’ in new ad campaign" }
+Atrsxmootpngs@{ shape: win-pane, label: "_Published Jan 02, 2026, 08:15 PM_
+Ai chatbot grok posts sexual images of minors after ‘lapses in safeguards’" }
+Coeirhweo@{ shape: win-pane, label: "_Published Sep 28, 2025, 01:15 PM_
+Chatbots are hurting our kids – here’s what we can do" }
+OIsdhTrneUnc@{ shape: win-pane, label: "_Published Aug 27, 2025, 07:50 AM_
+Openai plans to update chatgpt after parents sue over us teen’s suicide" }
+OIdnolhTrea@{ shape: win-pane, label: "_Published Sep 02, 2025, 11:06 PM_
+Openai to add parental controls to chatgpt after us teen’s death" }
+AaeIbmeecpcs@{ shape: win-pane, label: "_Published Oct 22, 2025, 09:29 PM_
+Australia tells ai chatbot companies to detail child protection steps" }
+UhehtCcIlrsd@{ shape: win-pane, label: "_Published Oct 24, 2024, 08:35 AM_
+Us mother sues ai chatbot firm character.ai, google over son’s suicide" }
+Aaaceaogfinci@{ shape: win-pane, label: "_Published Oct 14, 2025, 03:15 PM_
+Australia says social media ban is ‘for the good of our kids’ in new ad campaign" }
+
+MsaniarnGm:::txtsize --> Atrsxmootpngs:::txtsize
+Atrsxmootpngs:::txtsize --> Coeirhweo:::txtsize
+Coeirhweo:::txtsize --> OIsdhTrneUnc:::txtsize
+Coeirhweo:::txtsize --> OIdnolhTrea:::txtsize
+Atrsxmootpngs:::txtsize --> AaeIbmeecpcs:::txtsize
+AaeIbmeecpcs:::txtsize --> UhehtCcIlrsd:::txtsize
+AaeIbmeecpcs:::txtsize --> Aaaceaogfinci:::txtsize
+MsaniarnGm:::txtsize --> Atrsxmootpngs:::txtsize
+Atrsxmootpngs:::txtsize --> Coeirhweo:::txtsize
+Coeirhweo:::txtsize --> OIsdhTrneUnc:::txtsize
+Coeirhweo:::txtsize --> OIdnolhTrea:::txtsize
+Atrsxmootpngs:::txtsize --> AaeIbmeecpcs:::txtsize
+AaeIbmeecpcs:::txtsize --> UhehtCcIlrsd:::txtsize
+AaeIbmeecpcs:::txtsize --> Aaaceaogfinci:::txtsize
+
+Cslaspuvata@{ shape: win-pane, label: "_Published Jan 04, 2026, 02:15 PM_
+China social media hails trump’s maduro move as taiwan template" }
+Csirloaceusy@{ shape: win-pane, label: "_Published Dec 31, 2025, 04:45 PM_
+China says live-fire drills around taiwan ‘completed successfully’" }
+Cssrlsdcea@{ shape: win-pane, label: "_Published Dec 29, 2025, 08:25 AM_
+China stages record drills designed to encircle taiwan" }
+PiewtneltUtphrmsi@{ shape: win-pane, label: "_Published Aug 03, 2022, 09:41 AM_
+Pelosi leaves taiwan after controversial visit, says us wants taipei to have freedom with security" }
+Paadenkicoiiese@{ shape: win-pane, label: "_Published Dec 12, 2025, 09:08 AM_
+Prep materials indicate japan pm takaichi made controversial taiwan remarks on the spot" }
+Tnsgrhesbfael@{ shape: win-pane, label: "_Published Dec 31, 2025, 11:09 AM_
+Taiwan stays on high alert as chinese ships pull back after massive drills" }
+Cfrtaaigsaba@{ shape: win-pane, label: "_Published Dec 30, 2025, 08:41 AM_
+China fires rockets towards taiwan in war games simulating blockade" }
+Cslattisrwny@{ shape: win-pane, label: "_Published Dec 29, 2025, 07:54 PM_
+Chinese drills to affect more than 100,000 air passengers, taiwan ministry says" }
+Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
+Trump’s maduro capture is about drugs, immigrants and china" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
 Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
 Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
 Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
 Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-TsSrnlaeunNr@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
-Trump says us will run venezuela as captured maduro lands in new york" }
+WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
+Who is venezuela’s president nicolas maduro?" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
-Vuhfdsvpiaao@{ shape: win-pane, label: "_Published Jan 04, 2026, 03:04 AM_
-Venezuela's 'hour of freedom' has arrived: opposition leader machado" }
+Tstdarzsrtw@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:48 AM_
+Trump says it would be ‘smart’ for venezuela’s maduro to step down" }
 
-AcutrthoinUiivoee:::txtsize --> TsSrnlaeunNr:::txtsize
-TsSrnlaeunNr:::txtsize --> UtVuMorkms:::txtsize
+Cslaspuvata:::txtsize --> Csirloaceusy:::txtsize
+Csirloaceusy:::txtsize --> Cssrlsdcea:::txtsize
+Cssrlsdcea:::txtsize --> PiewtneltUtphrmsi:::txtsize
+Cssrlsdcea:::txtsize --> Paadenkicoiiese:::txtsize
+Csirloaceusy:::txtsize --> Tnsgrhesbfael:::txtsize
+Tnsgrhesbfael:::txtsize --> Cfrtaaigsaba:::txtsize
+Tnsgrhesbfael:::txtsize --> Cslattisrwny:::txtsize
+Cslaspuvata:::txtsize --> Tsrtstsgsh:::txtsize
+Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
 UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
 UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-TsSrnlaeunNr:::txtsize --> Vuhfdsvpiaao:::txtsize
-Vuhfdsvpiaao:::txtsize --> TsSrnlaeunNr:::txtsize
-AcutrthoinUiivoee:::txtsize --> Hnllonepou:::txtsize
-Hnllonepou:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Hnllonepou:::txtsize --> TsSrnlaeunNr:::txtsize
-TsSrnlaeunNr:::txtsize --> UtVuMorkms:::txtsize
-TsSrnlaeunNr:::txtsize --> Vuhfdsvpiaao:::txtsize
-
-Yshetwmdliudii@{ shape: win-pane, label: "_Published Jan 04, 2026, 11:17 AM_
-Yemen’s southern separatists welcome saudi call for dialogue amid saudi-uae rift" }
-Rhsoenntals@{ shape: win-pane, label: "_Published Jan 03, 2026, 03:20 PM_
-Riyadh urges dialogue between yemeni factions amid clashes" }
-Utwageenihii@{ shape: win-pane, label: "_Published Dec 30, 2025, 10:54 PM_
-Uae withdraws remaining forces in yemen in crisis with saudi arabia" }
-SsAkvieeset@{ shape: win-pane, label: "_Published Dec 30, 2025, 04:58 PM_
-Saudi says uae-backed advance in yemen threatens its security" }
-SsAkvieeset@{ shape: win-pane, label: "_Published Dec 30, 2025, 04:58 PM_
-Saudi says uae-backed advance in yemen threatens its security" }
-Hieenexgrir@{ shape: win-pane, label: "_Published Dec 23, 2025, 10:22 PM_
-Houthis, yemen government agree to exchange nearly 3,000 prisoners" }
-Ilkblerecon@{ shape: win-pane, label: "_Published Sep 16, 2025, 08:55 PM_
-Israel strikes rebel-held yemeni port after evacuation warnings" }
-Utwageenihii@{ shape: win-pane, label: "_Published Dec 30, 2025, 10:54 PM_
-Uae withdraws remaining forces in yemen in crisis with saudi arabia" }
-SsAkvieeset@{ shape: win-pane, label: "_Published Dec 30, 2025, 04:58 PM_
-Saudi says uae-backed advance in yemen threatens its security" }
-Hieenexgrir@{ shape: win-pane, label: "_Published Dec 23, 2025, 10:22 PM_
-Houthis, yemen government agree to exchange nearly 3,000 prisoners" }
-Ilkblerecon@{ shape: win-pane, label: "_Published Sep 16, 2025, 08:55 PM_
-Israel strikes rebel-held yemeni port after evacuation warnings" }
-
-Yshetwmdliudii:::txtsize --> Rhsoenntals:::txtsize
-Rhsoenntals:::txtsize --> Utwageenihii:::txtsize
-Utwageenihii:::txtsize --> SsAkvieeset:::txtsize
-Rhsoenntals:::txtsize --> SsAkvieeset:::txtsize
-SsAkvieeset:::txtsize --> Hieenexgrir:::txtsize
-SsAkvieeset:::txtsize --> Ilkblerecon:::txtsize
-Yshetwmdliudii:::txtsize --> Utwageenihii:::txtsize
-Utwageenihii:::txtsize --> SsAkvieeset:::txtsize
-SsAkvieeset:::txtsize --> Hieenexgrir:::txtsize
-SsAkvieeset:::txtsize --> Ilkblerecon:::txtsize
+Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
+WVuPdisr:::txtsize --> UtVuMorkms:::txtsize
+WVuPdisr:::txtsize --> Tstdarzsrtw:::txtsize
 
 ```
-<i>Last updated: 2026-01-04 12:00:49.641542 (GMT+8)</i>
+<i>Last updated: 2026-01-04 16:01:13.817522 (GMT+8)</i>
 <!-- END -->
