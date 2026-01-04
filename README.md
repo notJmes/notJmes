@@ -16,144 +16,129 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-UaVuittirb@{ shape: win-pane, label: "_Published Jan 04, 2026, 07:15 AM_
-Us attack on venezuela disrupts air traffic over caribbean" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
-Trump says not winning nobel peace prize would be ‘insult’ to us" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
-Us military says it carried out strikes on three vessels in eastern pacific" }
-Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
-Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
-Uuearlaiiakp@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
-Us to ‘run’ venezuela after toppling maduro in military attack: trump" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+Sbnailieerl@{ shape: win-pane, label: "_Published Jan 04, 2026, 11:54 AM_
+Swiss bar owners face criminal negligence probe after fatal fire" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
+CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
+Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
+Pesmeryianrteodtn@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
+‘people were screaming’: new year party at swiss crans-montana resort turned into fire disaster zone" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
+CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
+Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
+OosefNaesfooe@{ shape: win-pane, label: "_Published Jan 03, 2026, 03:49 AM_
+Owner of swiss bar engulfed in new year fire insists safety norms followed" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
+CMnsoceaaeltrcs@{ shape: win-pane, label: "_Published Jan 01, 2026, 11:24 PM_
+Crans-montana: swiss resort at centre of deadly bar fire popular with tourists, celebs" }
+Pesmeryianrteodtn@{ shape: win-pane, label: "_Published Jan 02, 2026, 02:44 AM_
+‘people were screaming’: new year party at swiss crans-montana resort turned into fire disaster zone" }
+CMnesercapektdlz@{ shape: win-pane, label: "_Published Jan 02, 2026, 11:40 PM_
+Crans-montana fire: swiss prosecutor says champagne sparklers likely started deadly blaze" }
+Dserrftssairpe@{ shape: win-pane, label: "_Published Jan 01, 2026, 02:15 PM_
+Dozens killed, over 100 injured in fire at swiss crans-montana ski resort bar, police say" }
+CMneiahorrats@{ shape: win-pane, label: "_Published Jan 02, 2026, 11:40 PM_
+Crans-montana fire: it’s likely a flashover occurred. here’s what that means" }
 
-UaVuittirb:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
-Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
-Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
-UaVuittirb:::txtsize --> Uuearlaiiakp:::txtsize
-Uuearlaiiakp:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Uuearlaiiakp:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+Sbnailieerl:::txtsize --> Dserrftssairpe:::txtsize
+Dserrftssairpe:::txtsize --> CMnsoceaaeltrcs:::txtsize
+CMnsoceaaeltrcs:::txtsize --> Dserrftssairpe:::txtsize
+CMnsoceaaeltrcs:::txtsize --> Dserrftssairpe:::txtsize
+Dserrftssairpe:::txtsize --> Pesmeryianrteodtn:::txtsize
+Pesmeryianrteodtn:::txtsize --> Dserrftssairpe:::txtsize
+Pesmeryianrteodtn:::txtsize --> CMnsoceaaeltrcs:::txtsize
+Sbnailieerl:::txtsize --> OosefNaesfooe:::txtsize
+OosefNaesfooe:::txtsize --> Dserrftssairpe:::txtsize
+Dserrftssairpe:::txtsize --> CMnsoceaaeltrcs:::txtsize
+Dserrftssairpe:::txtsize --> Pesmeryianrteodtn:::txtsize
+OosefNaesfooe:::txtsize --> CMnesercapektdlz:::txtsize
+CMnesercapektdlz:::txtsize --> Dserrftssairpe:::txtsize
+CMnesercapektdlz:::txtsize --> CMneiahorrats:::txtsize
 
-TbnmnVu@{ shape: win-pane, label: "_Published Jan 04, 2026, 07:15 AM_
-Trump bets on regime change in venezuela" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
-Trump says not winning nobel peace prize would be ‘insult’ to us" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
-Us military says it carried out strikes on three vessels in eastern pacific" }
-Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
-Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
-Uuearlaiiakp@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
-Us to ‘run’ venezuela after toppling maduro in military attack: trump" }
+AcutrthoinUiivoee@{ shape: win-pane, label: "_Published Jan 04, 2026, 11:35 AM_
+Americans turn out for protests in chicago, washington over us military intervention in venezuela" }
+TsSrnlaeunNr@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
+Trump says us will run venezuela as captured maduro lands in new york" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
 Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
 Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
 Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
 Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+Vuhfdsvpiaao@{ shape: win-pane, label: "_Published Jan 04, 2026, 03:04 AM_
+Venezuela's 'hour of freedom' has arrived: opposition leader machado" }
+TsSrnlaeunNr@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
+Trump says us will run venezuela as captured maduro lands in new york" }
+Hnllonepou@{ shape: win-pane, label: "_Published Jan 04, 2026, 10:25 AM_
+How venezuelan oil factored into the us capture of maduro" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
 Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
 Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
 Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
 Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+TsSrnlaeunNr@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
+Trump says us will run venezuela as captured maduro lands in new york" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Vuhfdsvpiaao@{ shape: win-pane, label: "_Published Jan 04, 2026, 03:04 AM_
+Venezuela's 'hour of freedom' has arrived: opposition leader machado" }
 
-TbnmnVu:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
-Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
-Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
-TbnmnVu:::txtsize --> Uuearlaiiakp:::txtsize
-Uuearlaiiakp:::txtsize --> UtVuMorkms:::txtsize
+AcutrthoinUiivoee:::txtsize --> TsSrnlaeunNr:::txtsize
+TsSrnlaeunNr:::txtsize --> UtVuMorkms:::txtsize
 UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
 UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Uuearlaiiakp:::txtsize --> UtVuMorkms:::txtsize
+TsSrnlaeunNr:::txtsize --> Vuhfdsvpiaao:::txtsize
+Vuhfdsvpiaao:::txtsize --> TsSrnlaeunNr:::txtsize
+AcutrthoinUiivoee:::txtsize --> Hnllonepou:::txtsize
+Hnllonepou:::txtsize --> UtVuMorkms:::txtsize
 UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
 UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+Hnllonepou:::txtsize --> TsSrnlaeunNr:::txtsize
+TsSrnlaeunNr:::txtsize --> UtVuMorkms:::txtsize
+TsSrnlaeunNr:::txtsize --> Vuhfdsvpiaao:::txtsize
 
-Vuireeuetoss@{ shape: win-pane, label: "_Published Jan 04, 2026, 06:50 AM_
-Venezuela diaspora celebrates maduro’s deposition, wonders what’s next" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
-Trump says not winning nobel peace prize would be ‘insult’ to us" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
-Us military says it carried out strikes on three vessels in eastern pacific" }
-Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
-Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
-CmoauLAceeVuMo@{ shape: win-pane, label: "_Published Jan 04, 2026, 05:50 AM_
-Condemnation and applause in latin america after us seizes venezuela’s maduro" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Glenetnz@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:10 PM_
-Global leaders denounce us attack on venezuela" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
+Yshetwmdliudii@{ shape: win-pane, label: "_Published Jan 04, 2026, 11:17 AM_
+Yemen’s southern separatists welcome saudi call for dialogue amid saudi-uae rift" }
+Rhsoenntals@{ shape: win-pane, label: "_Published Jan 03, 2026, 03:20 PM_
+Riyadh urges dialogue between yemeni factions amid clashes" }
+Utwageenihii@{ shape: win-pane, label: "_Published Dec 30, 2025, 10:54 PM_
+Uae withdraws remaining forces in yemen in crisis with saudi arabia" }
+SsAkvieeset@{ shape: win-pane, label: "_Published Dec 30, 2025, 04:58 PM_
+Saudi says uae-backed advance in yemen threatens its security" }
+SsAkvieeset@{ shape: win-pane, label: "_Published Dec 30, 2025, 04:58 PM_
+Saudi says uae-backed advance in yemen threatens its security" }
+Hieenexgrir@{ shape: win-pane, label: "_Published Dec 23, 2025, 10:22 PM_
+Houthis, yemen government agree to exchange nearly 3,000 prisoners" }
+Ilkblerecon@{ shape: win-pane, label: "_Published Sep 16, 2025, 08:55 PM_
+Israel strikes rebel-held yemeni port after evacuation warnings" }
+Utwageenihii@{ shape: win-pane, label: "_Published Dec 30, 2025, 10:54 PM_
+Uae withdraws remaining forces in yemen in crisis with saudi arabia" }
+SsAkvieeset@{ shape: win-pane, label: "_Published Dec 30, 2025, 04:58 PM_
+Saudi says uae-backed advance in yemen threatens its security" }
+Hieenexgrir@{ shape: win-pane, label: "_Published Dec 23, 2025, 10:22 PM_
+Houthis, yemen government agree to exchange nearly 3,000 prisoners" }
+Ilkblerecon@{ shape: win-pane, label: "_Published Sep 16, 2025, 08:55 PM_
+Israel strikes rebel-held yemeni port after evacuation warnings" }
 
-Vuireeuetoss:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
-Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
-Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
-Vuireeuetoss:::txtsize --> CmoauLAceeVuMo:::txtsize
-CmoauLAceeVuMo:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-CmoauLAceeVuMo:::txtsize --> Glenetnz:::txtsize
-Glenetnz:::txtsize --> UtVuMorkms:::txtsize
-Glenetnz:::txtsize --> UtVuMorkms:::txtsize
+Yshetwmdliudii:::txtsize --> Rhsoenntals:::txtsize
+Rhsoenntals:::txtsize --> Utwageenihii:::txtsize
+Utwageenihii:::txtsize --> SsAkvieeset:::txtsize
+Rhsoenntals:::txtsize --> SsAkvieeset:::txtsize
+SsAkvieeset:::txtsize --> Hieenexgrir:::txtsize
+SsAkvieeset:::txtsize --> Ilkblerecon:::txtsize
+Yshetwmdliudii:::txtsize --> Utwageenihii:::txtsize
+Utwageenihii:::txtsize --> SsAkvieeset:::txtsize
+SsAkvieeset:::txtsize --> Hieenexgrir:::txtsize
+SsAkvieeset:::txtsize --> Ilkblerecon:::txtsize
 
 ```
-<i>Last updated: 2026-01-04 08:00:25.664768 (GMT+8)</i>
+<i>Last updated: 2026-01-04 12:00:49.641542 (GMT+8)</i>
 <!-- END -->
