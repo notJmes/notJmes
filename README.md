@@ -16,144 +16,105 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-CsSleelVuMo@{ shape: win-pane, label: "_Published Jan 04, 2026, 02:45 PM_
-China says us should immediately release venezuela’s maduro" }
-VuMosTsSret@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
-Venezuela’s maduro in custody, trump says us will run the country" }
-Usrrfrreiscrs@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:44 AM_
-Us coast guard searches for survivors after strike on suspected drug vessels" }
-Irseravrrfas@{ shape: win-pane, label: "_Published Oct 17, 2025, 08:00 AM_
-In a first, us strike in caribbean leaves survivors, us official says" }
-Voiriorrlisms@{ shape: win-pane, label: "_Published Dec 05, 2025, 01:36 AM_
-Video of us military strike shows survivors in ‘clear distress’, lawmaker says" }
-Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
-Trump’s maduro capture is about drugs, immigrants and china" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
-Who is venezuela’s president nicolas maduro?" }
-Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
-Trump’s maduro capture is about drugs, immigrants and china" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
-Who is venezuela’s president nicolas maduro?" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Tstdarzsrtw@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:48 AM_
-Trump says it would be ‘smart’ for venezuela’s maduro to step down" }
+Sesimuntna@{ shape: win-pane, label: "_Published Jan 04, 2026, 07:27 PM_
+Starmer says ousting him in 2026 would send britain into chaos" }
+UotiLuacihyol@{ shape: win-pane, label: "_Published Feb 05, 2023, 06:48 PM_
+Uk's shortest-serving pm liz truss blames economic 'orthodoxy' for downfall" }
+Ktroreoiensnnsa@{ shape: win-pane, label: "_Published Jul 05, 2024, 12:05 PM_
+Keir starmer’s labour party sweeps to british election win as pm sunak concedes defeat" }
+Upmtzsstoei@{ shape: win-pane, label: "_Published Jul 05, 2024, 02:25 PM_
+Uk’s ex-prime minister liz truss loses seat to labour in election" }
+Ktroreoiensnnsa@{ shape: win-pane, label: "_Published Jul 05, 2024, 12:05 PM_
+Keir starmer’s labour party sweeps to british election win as pm sunak concedes defeat" }
 
-CsSleelVuMo:::txtsize --> VuMosTsSret:::txtsize
-VuMosTsSret:::txtsize --> Usrrfrreiscrs:::txtsize
-Usrrfrreiscrs:::txtsize --> Irseravrrfas:::txtsize
-Usrrfrreiscrs:::txtsize --> Voiriorrlisms:::txtsize
-VuMosTsSret:::txtsize --> Tsrtstsgsh:::txtsize
-Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
-Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
-CsSleelVuMo:::txtsize --> Tsrtstsgsh:::txtsize
-Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
-WVuPdisr:::txtsize --> UtVuMorkms:::txtsize
-WVuPdisr:::txtsize --> Tstdarzsrtw:::txtsize
+Sesimuntna:::txtsize --> UotiLuacihyol:::txtsize
+Sesimuntna:::txtsize --> Ktroreoiensnnsa:::txtsize
+Ktroreoiensnnsa:::txtsize --> Upmtzsstoei:::txtsize
+Upmtzsstoei:::txtsize --> Ktroreoiensnnsa:::txtsize
 
-MsaniarnGm@{ shape: win-pane, label: "_Published Jan 04, 2026, 02:35 PM_
-Malaysia, france, india hit out at x for ‘offensive’ grok images" }
-Atrsxmootpngs@{ shape: win-pane, label: "_Published Jan 02, 2026, 08:15 PM_
-Ai chatbot grok posts sexual images of minors after ‘lapses in safeguards’" }
-Coeirhweo@{ shape: win-pane, label: "_Published Sep 28, 2025, 01:15 PM_
-Chatbots are hurting our kids – here’s what we can do" }
-OIsdhTrneUnc@{ shape: win-pane, label: "_Published Aug 27, 2025, 07:50 AM_
-Openai plans to update chatgpt after parents sue over us teen’s suicide" }
-OIdnolhTrea@{ shape: win-pane, label: "_Published Sep 02, 2025, 11:06 PM_
-Openai to add parental controls to chatgpt after us teen’s death" }
-AaeIbmeecpcs@{ shape: win-pane, label: "_Published Oct 22, 2025, 09:29 PM_
-Australia tells ai chatbot companies to detail child protection steps" }
-UhehtCcIlrsd@{ shape: win-pane, label: "_Published Oct 24, 2024, 08:35 AM_
-Us mother sues ai chatbot firm character.ai, google over son’s suicide" }
-Aaaceaogfinci@{ shape: win-pane, label: "_Published Oct 14, 2025, 03:15 PM_
-Australia says social media ban is ‘for the good of our kids’ in new ad campaign" }
-Atrsxmootpngs@{ shape: win-pane, label: "_Published Jan 02, 2026, 08:15 PM_
-Ai chatbot grok posts sexual images of minors after ‘lapses in safeguards’" }
-Coeirhweo@{ shape: win-pane, label: "_Published Sep 28, 2025, 01:15 PM_
-Chatbots are hurting our kids – here’s what we can do" }
-OIsdhTrneUnc@{ shape: win-pane, label: "_Published Aug 27, 2025, 07:50 AM_
-Openai plans to update chatgpt after parents sue over us teen’s suicide" }
-OIdnolhTrea@{ shape: win-pane, label: "_Published Sep 02, 2025, 11:06 PM_
-Openai to add parental controls to chatgpt after us teen’s death" }
-AaeIbmeecpcs@{ shape: win-pane, label: "_Published Oct 22, 2025, 09:29 PM_
-Australia tells ai chatbot companies to detail child protection steps" }
-UhehtCcIlrsd@{ shape: win-pane, label: "_Published Oct 24, 2024, 08:35 AM_
-Us mother sues ai chatbot firm character.ai, google over son’s suicide" }
-Aaaceaogfinci@{ shape: win-pane, label: "_Published Oct 14, 2025, 03:15 PM_
-Australia says social media ban is ‘for the good of our kids’ in new ad campaign" }
-
-MsaniarnGm:::txtsize --> Atrsxmootpngs:::txtsize
-Atrsxmootpngs:::txtsize --> Coeirhweo:::txtsize
-Coeirhweo:::txtsize --> OIsdhTrneUnc:::txtsize
-Coeirhweo:::txtsize --> OIdnolhTrea:::txtsize
-Atrsxmootpngs:::txtsize --> AaeIbmeecpcs:::txtsize
-AaeIbmeecpcs:::txtsize --> UhehtCcIlrsd:::txtsize
-AaeIbmeecpcs:::txtsize --> Aaaceaogfinci:::txtsize
-MsaniarnGm:::txtsize --> Atrsxmootpngs:::txtsize
-Atrsxmootpngs:::txtsize --> Coeirhweo:::txtsize
-Coeirhweo:::txtsize --> OIsdhTrneUnc:::txtsize
-Coeirhweo:::txtsize --> OIdnolhTrea:::txtsize
-Atrsxmootpngs:::txtsize --> AaeIbmeecpcs:::txtsize
-AaeIbmeecpcs:::txtsize --> UhehtCcIlrsd:::txtsize
-AaeIbmeecpcs:::txtsize --> Aaaceaogfinci:::txtsize
-
-Cslaspuvata@{ shape: win-pane, label: "_Published Jan 04, 2026, 02:15 PM_
-China social media hails trump’s maduro move as taiwan template" }
-Csirloaceusy@{ shape: win-pane, label: "_Published Dec 31, 2025, 04:45 PM_
-China says live-fire drills around taiwan ‘completed successfully’" }
-Cssrlsdcea@{ shape: win-pane, label: "_Published Dec 29, 2025, 08:25 AM_
-China stages record drills designed to encircle taiwan" }
-PiewtneltUtphrmsi@{ shape: win-pane, label: "_Published Aug 03, 2022, 09:41 AM_
-Pelosi leaves taiwan after controversial visit, says us wants taipei to have freedom with security" }
-Paadenkicoiiese@{ shape: win-pane, label: "_Published Dec 12, 2025, 09:08 AM_
-Prep materials indicate japan pm takaichi made controversial taiwan remarks on the spot" }
-Tnsgrhesbfael@{ shape: win-pane, label: "_Published Dec 31, 2025, 11:09 AM_
-Taiwan stays on high alert as chinese ships pull back after massive drills" }
-Cfrtaaigsaba@{ shape: win-pane, label: "_Published Dec 30, 2025, 08:41 AM_
-China fires rockets towards taiwan in war games simulating blockade" }
-Cslattisrwny@{ shape: win-pane, label: "_Published Dec 29, 2025, 07:54 PM_
-Chinese drills to affect more than 100,000 air passengers, taiwan ministry says" }
-Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
-Trump’s maduro capture is about drugs, immigrants and china" }
+TsSrnleui@{ shape: win-pane, label: "_Published Jan 04, 2026, 07:03 PM_
+Trump says us will run venezuela after maduro seized" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
 Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
 Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
+Trump says not winning nobel peace prize would be ‘insult’ to us" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
 Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
 Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
-Who is venezuela’s president nicolas maduro?" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Tstdarzsrtw@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:48 AM_
-Trump says it would be ‘smart’ for venezuela’s maduro to step down" }
+Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
+Us military says it carried out strikes on three vessels in eastern pacific" }
+Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
+Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
+WNPlarrao@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:18 PM_
+Who is nobel peace laureate maria corina machado?" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
+Trump says not winning nobel peace prize would be ‘insult’ to us" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+VupteMderfngndsln@{ shape: win-pane, label: "_Published Jan 10, 2025, 04:14 AM_
+Venezuela opposition leader machado free after brief detention, government denies involvement" }
+Vuifndrtlc@{ shape: win-pane, label: "_Published Jan 10, 2025, 12:57 AM_
+‘venezuela will be free’: anti-maduro protests roil caracas" }
+BlcCblVuoalstol@{ shape: win-pane, label: "_Published Aug 02, 2024, 07:44 AM_
+Brazil, mexico and colombia call for venezuela to release full presidential vote tallies" }
 
-Cslaspuvata:::txtsize --> Csirloaceusy:::txtsize
-Csirloaceusy:::txtsize --> Cssrlsdcea:::txtsize
-Cssrlsdcea:::txtsize --> PiewtneltUtphrmsi:::txtsize
-Cssrlsdcea:::txtsize --> Paadenkicoiiese:::txtsize
-Csirloaceusy:::txtsize --> Tnsgrhesbfael:::txtsize
-Tnsgrhesbfael:::txtsize --> Cfrtaaigsaba:::txtsize
-Tnsgrhesbfael:::txtsize --> Cslattisrwny:::txtsize
-Cslaspuvata:::txtsize --> Tsrtstsgsh:::txtsize
-Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
+TsSrnleui:::txtsize --> UtVuMorkms:::txtsize
 UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
+Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
 UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
-WVuPdisr:::txtsize --> UtVuMorkms:::txtsize
-WVuPdisr:::txtsize --> Tstdarzsrtw:::txtsize
+Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
+Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
+TsSrnleui:::txtsize --> WNPlarrao:::txtsize
+WNPlarrao:::txtsize --> Vuoilranhibai:::txtsize
+Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
+Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
+WNPlarrao:::txtsize --> VupteMderfngndsln:::txtsize
+VupteMderfngndsln:::txtsize --> Vuifndrtlc:::txtsize
+VupteMderfngndsln:::txtsize --> BlcCblVuoalstol:::txtsize
+
+Garlguarns@{ shape: win-pane, label: "_Published Jan 04, 2026, 06:50 PM_
+Greek airports halt flights due to radio frequency issues" }
+Dfsshrorerilge@{ shape: win-pane, label: "_Published Jan 01, 2026, 04:55 PM_
+Dense fog disrupts flights across northern and eastern india, including new delhi" }
+Aiidlpifnmrtmaooi@{ shape: win-pane, label: "_Published Dec 06, 2025, 06:00 PM_
+‘all being poisoned slowly’: air purifiers offer only limited respite from india’s chronic pollution" }
+Istcopgaarnmoios@{ shape: win-pane, label: "_Published Dec 02, 2025, 05:00 AM_
+India’s capital accused of tampering with air quality readings to make pollution look less dire" }
+Drderryesexr@{ shape: win-pane, label: "_Published Dec 03, 2025, 08:25 PM_
+Delhi records more than 200,000 respiratory illness cases due to toxic air" }
+WrhUttsodldsei@{ shape: win-pane, label: "_Published Dec 27, 2025, 11:01 PM_
+Winter weather in us north-east leads to thousands of flight delays, cancellations" }
+Olssrenoasot@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:32 PM_
+Over 1,700 flights across us grounded as snowstorm blankets new york city" }
+AsgalnassatYirs@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:36 PM_
+At least 400 flights cancelled, many delayed as snowstorm affects new york city airports" }
+Spiegmudcdwdstnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 02:46 PM_
+Singapore airlines flights among hundreds cancelled in new york due to snowstorm in us city" }
+Olssrenoasot@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:32 PM_
+Over 1,700 flights across us grounded as snowstorm blankets new york city" }
+AsgalnassatYirs@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:36 PM_
+At least 400 flights cancelled, many delayed as snowstorm affects new york city airports" }
+Spiegmudcdwdstnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 02:46 PM_
+Singapore airlines flights among hundreds cancelled in new york due to snowstorm in us city" }
+
+Garlguarns:::txtsize --> Dfsshrorerilge:::txtsize
+Dfsshrorerilge:::txtsize --> Aiidlpifnmrtmaooi:::txtsize
+Aiidlpifnmrtmaooi:::txtsize --> Istcopgaarnmoios:::txtsize
+Aiidlpifnmrtmaooi:::txtsize --> Drderryesexr:::txtsize
+Garlguarns:::txtsize --> WrhUttsodldsei:::txtsize
+WrhUttsodldsei:::txtsize --> Olssrenoasot:::txtsize
+Olssrenoasot:::txtsize --> AsgalnassatYirs:::txtsize
+Olssrenoasot:::txtsize --> Spiegmudcdwdstnt:::txtsize
+WrhUttsodldsei:::txtsize --> Olssrenoasot:::txtsize
+Olssrenoasot:::txtsize --> AsgalnassatYirs:::txtsize
+Olssrenoasot:::txtsize --> Spiegmudcdwdstnt:::txtsize
 
 ```
-<i>Last updated: 2026-01-04 16:01:13.817522 (GMT+8)</i>
+<i>Last updated: 2026-01-04 20:00:39.152001 (GMT+8)</i>
 <!-- END -->
