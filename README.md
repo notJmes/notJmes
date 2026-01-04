@@ -16,22 +16,54 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Uotreeaiyrdib@{ shape: win-pane, label: "_Published Jan 04, 2026, 11:10 PM_
-Us to work with current venezuela leaders if they make ‘right decision’: rubio" }
-Tnnea@{ shape: win-pane, label: "_Published Jan 04, 2026, 02:30 PM_
-Trump now owns venezuela" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+RsSulaeveVu@{ shape: win-pane, label: "_Published Jan 05, 2026, 03:52 AM_
+Rubio says us will use oil ‘quarantine’ as leverage over venezuela" }
+Tshduvsmhoeao@{ shape: win-pane, label: "_Published Jan 05, 2026, 01:14 AM_
+Trump snatches maduro but leaves his regime in charge of venezuela for now" }
 TsSnzaraeu@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
 Trump says us to run venezuela after raid captures maduro" }
 Usrrfrreiscrs@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:44 AM_
 Us coast guard searches for survivors after strike on suspected drug vessels" }
 Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
 Trump’s maduro capture is about drugs, immigrants and china" }
+VuMoiuyytdn@{ shape: win-pane, label: "_Published Jan 04, 2026, 07:03 PM_
+Venezuela’s maduro sits in us custody as loyalists vow defiance" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+WNPlarrao@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:18 PM_
+Who is nobel peace laureate maria corina machado?" }
+Vuiienythaahcr@{ shape: win-pane, label: "_Published Jan 05, 2026, 03:36 AM_
+Venezuela’s interim government stays united behind maduro after his us capture" }
+VuMoiuyytdn@{ shape: win-pane, label: "_Published Jan 04, 2026, 07:03 PM_
+Venezuela’s maduro sits in us custody as loyalists vow defiance" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+WNPlarrao@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:18 PM_
+Who is nobel peace laureate maria corina machado?" }
+TwVuVcrzpgeenpe@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:15 AM_
+Trump warns venezuelan v-p delcy rodriguez will pay ‘big price’ if she doesn’t cooperate" }
+Vuoiyeewiit@{ shape: win-pane, label: "_Published Jan 04, 2026, 09:30 AM_
+Venezuelan official says at least 40 people were killed in us attack" }
+TsSnzaraeu@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
+Trump says us to run venezuela after raid captures maduro" }
+
+RsSulaeveVu:::txtsize --> Tshduvsmhoeao:::txtsize
+Tshduvsmhoeao:::txtsize --> TsSnzaraeu:::txtsize
+TsSnzaraeu:::txtsize --> Usrrfrreiscrs:::txtsize
+TsSnzaraeu:::txtsize --> Tsrtstsgsh:::txtsize
+Tshduvsmhoeao:::txtsize --> VuMoiuyytdn:::txtsize
+VuMoiuyytdn:::txtsize --> UtVuMorkms:::txtsize
+VuMoiuyytdn:::txtsize --> WNPlarrao:::txtsize
+RsSulaeveVu:::txtsize --> Vuiienythaahcr:::txtsize
+Vuiienythaahcr:::txtsize --> VuMoiuyytdn:::txtsize
+VuMoiuyytdn:::txtsize --> UtVuMorkms:::txtsize
+VuMoiuyytdn:::txtsize --> WNPlarrao:::txtsize
+Vuiienythaahcr:::txtsize --> TwVuVcrzpgeenpe:::txtsize
+TwVuVcrzpgeenpe:::txtsize --> Vuoiyeewiit:::txtsize
+TwVuVcrzpgeenpe:::txtsize --> TsSnzaraeu:::txtsize
+
+Vuiienythaahcr@{ shape: win-pane, label: "_Published Jan 05, 2026, 03:36 AM_
+Venezuela’s interim government stays united behind maduro after his us capture" }
 VuMoiuyytdn@{ shape: win-pane, label: "_Published Jan 04, 2026, 07:03 PM_
 Venezuela’s maduro sits in us custody as loyalists vow defiance" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
@@ -46,93 +78,82 @@ Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
 Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
 VupteMderfngndsln@{ shape: win-pane, label: "_Published Jan 10, 2025, 04:14 AM_
 Venezuela opposition leader machado free after brief detention, government denies involvement" }
+TwVuVcrzpgeenpe@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:15 AM_
+Trump warns venezuelan v-p delcy rodriguez will pay ‘big price’ if she doesn’t cooperate" }
+Vuoiyeewiit@{ shape: win-pane, label: "_Published Jan 04, 2026, 09:30 AM_
+Venezuelan official says at least 40 people were killed in us attack" }
+TsSnzaraeu@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
+Trump says us to run venezuela after raid captures maduro" }
+NcsSpVuossidcr@{ shape: win-pane, label: "_Published Jan 04, 2026, 08:55 AM_
+No quick wins for us in tapping venezuela’s oil reserves despite maduro’s capture" }
+TsSnzaraeu@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
+Trump says us to run venezuela after raid captures maduro" }
+Usrrfrreiscrs@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:44 AM_
+Us coast guard searches for survivors after strike on suspected drug vessels" }
+Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
+Trump’s maduro capture is about drugs, immigrants and china" }
 
-Uotreeaiyrdib:::txtsize --> Tnnea:::txtsize
-Tnnea:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Tnnea:::txtsize --> TsSnzaraeu:::txtsize
-TsSnzaraeu:::txtsize --> Usrrfrreiscrs:::txtsize
-TsSnzaraeu:::txtsize --> Tsrtstsgsh:::txtsize
-Uotreeaiyrdib:::txtsize --> VuMoiuyytdn:::txtsize
+Vuiienythaahcr:::txtsize --> VuMoiuyytdn:::txtsize
 VuMoiuyytdn:::txtsize --> UtVuMorkms:::txtsize
 UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
 UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
 VuMoiuyytdn:::txtsize --> WNPlarrao:::txtsize
 WNPlarrao:::txtsize --> Vuoilranhibai:::txtsize
 WNPlarrao:::txtsize --> VupteMderfngndsln:::txtsize
+Vuiienythaahcr:::txtsize --> TwVuVcrzpgeenpe:::txtsize
+TwVuVcrzpgeenpe:::txtsize --> Vuoiyeewiit:::txtsize
+Vuoiyeewiit:::txtsize --> TsSnzaraeu:::txtsize
+Vuoiyeewiit:::txtsize --> NcsSpVuossidcr:::txtsize
+TwVuVcrzpgeenpe:::txtsize --> TsSnzaraeu:::txtsize
+TsSnzaraeu:::txtsize --> Usrrfrreiscrs:::txtsize
+TsSnzaraeu:::txtsize --> Tsrtstsgsh:::txtsize
 
-Vubodedhntl@{ shape: win-pane, label: "_Published Jan 04, 2026, 10:20 PM_
-Venezuela’s billions in distressed debt: who is in line to collect?" }
+TwVuVcrzpgeenpe@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:15 AM_
+Trump warns venezuelan v-p delcy rodriguez will pay ‘big price’ if she doesn’t cooperate" }
+Vuoiyeewiit@{ shape: win-pane, label: "_Published Jan 04, 2026, 09:30 AM_
+Venezuelan official says at least 40 people were killed in us attack" }
+TsSnzaraeu@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
+Trump says us to run venezuela after raid captures maduro" }
+Usrrfrreiscrs@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:44 AM_
+Us coast guard searches for survivors after strike on suspected drug vessels" }
+Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
+Trump’s maduro capture is about drugs, immigrants and china" }
+NcsSpVuossidcr@{ shape: win-pane, label: "_Published Jan 04, 2026, 08:55 AM_
+No quick wins for us in tapping venezuela’s oil reserves despite maduro’s capture" }
+Vuodydgeeaist@{ shape: win-pane, label: "_Published Jan 03, 2026, 10:43 PM_
+Venezuelan oil industry: world’s largest reserves, decaying infrastructure" }
+Wraneeusdaeenrie@{ shape: win-pane, label: "_Published Jan 04, 2026, 09:30 AM_
+Will trump’s actions in venezuela spur russia and china to erect their own spheres of influence?" }
+TsSnzaraeu@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
+Trump says us to run venezuela after raid captures maduro" }
+Usrrfrreiscrs@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:44 AM_
+Us coast guard searches for survivors after strike on suspected drug vessels" }
+Irseravrrfas@{ shape: win-pane, label: "_Published Oct 17, 2025, 08:00 AM_
+In a first, us strike in caribbean leaves survivors, us official says" }
+Voiriorrlisms@{ shape: win-pane, label: "_Published Dec 05, 2025, 01:36 AM_
+Video of us military strike shows survivors in ‘clear distress’, lawmaker says" }
 Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
 Trump’s maduro capture is about drugs, immigrants and china" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
 WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
 Who is venezuela’s president nicolas maduro?" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Tstdarzsrtw@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:48 AM_
-Trump says it would be ‘smart’ for venezuela’s maduro to step down" }
-Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
-Trump’s maduro capture is about drugs, immigrants and china" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
-Who is venezuela’s president nicolas maduro?" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Tstdarzsrtw@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:48 AM_
-Trump says it would be ‘smart’ for venezuela’s maduro to step down" }
 
-Vubodedhntl:::txtsize --> Tsrtstsgsh:::txtsize
+TwVuVcrzpgeenpe:::txtsize --> Vuoiyeewiit:::txtsize
+Vuoiyeewiit:::txtsize --> TsSnzaraeu:::txtsize
+TsSnzaraeu:::txtsize --> Usrrfrreiscrs:::txtsize
+TsSnzaraeu:::txtsize --> Tsrtstsgsh:::txtsize
+Vuoiyeewiit:::txtsize --> NcsSpVuossidcr:::txtsize
+NcsSpVuossidcr:::txtsize --> Vuodydgeeaist:::txtsize
+NcsSpVuossidcr:::txtsize --> Wraneeusdaeenrie:::txtsize
+TwVuVcrzpgeenpe:::txtsize --> TsSnzaraeu:::txtsize
+TsSnzaraeu:::txtsize --> Usrrfrreiscrs:::txtsize
+Usrrfrreiscrs:::txtsize --> Irseravrrfas:::txtsize
+Usrrfrreiscrs:::txtsize --> Voiriorrlisms:::txtsize
+TsSnzaraeu:::txtsize --> Tsrtstsgsh:::txtsize
 Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
 Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
-WVuPdisr:::txtsize --> UtVuMorkms:::txtsize
-WVuPdisr:::txtsize --> Tstdarzsrtw:::txtsize
-Vubodedhntl:::txtsize --> Tsrtstsgsh:::txtsize
-Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
-WVuPdisr:::txtsize --> UtVuMorkms:::txtsize
-WVuPdisr:::txtsize --> Tstdarzsrtw:::txtsize
-
-Fenittnriei@{ shape: win-pane, label: "_Published Jan 04, 2026, 10:05 PM_
-France to ban food imports containing eu-prohibited pesticides" }
-Fekwubdigi@{ shape: win-pane, label: "_Published Aug 08, 2025, 03:01 AM_
-France strikes down return of banned bee-killing pesticide" }
-Aioieeoirnkigi@{ shape: win-pane, label: "_Published Jul 21, 2025, 01:34 AM_
-A million people sign french petition against bringing back bee-killing pesticide" }
-Aioieeoirnkigi@{ shape: win-pane, label: "_Published Jul 21, 2025, 01:34 AM_
-A million people sign french petition against bringing back bee-killing pesticide" }
-Fhyssdcw@{ shape: win-pane, label: "_Published Apr 07, 2023, 01:11 AM_
-French study warns of pesticide traces in water" }
-Hetotrpsiein@{ shape: win-pane, label: "_Published Feb 08, 2023, 06:21 PM_
-Hundreds of tractors enter paris in protest against pesticide bans" }
-Fhgntlcasa@{ shape: win-pane, label: "_Published Dec 10, 2022, 05:00 AM_
-French foie gras in short supply, forcing farmers to adapt" }
-Fhhredhhalp@{ shape: win-pane, label: "_Published Aug 15, 2022, 05:18 PM_
-French sorghum farmer defies drought with sustainable crop" }
-
-Fenittnriei:::txtsize --> Fekwubdigi:::txtsize
-Fekwubdigi:::txtsize --> Aioieeoirnkigi:::txtsize
-Fekwubdigi:::txtsize --> Aioieeoirnkigi:::txtsize
-Fenittnriei:::txtsize --> Fhyssdcw:::txtsize
-Fhyssdcw:::txtsize --> Hetotrpsiein:::txtsize
-Hetotrpsiein:::txtsize --> Fhgntlcasa:::txtsize
-Hetotrpsiein:::txtsize --> Fhhredhhalp:::txtsize
 
 ```
-<i>Last updated: 2026-01-05 00:01:03.052034 (GMT+8)</i>
+<i>Last updated: 2026-01-05 04:00:27.527537 (GMT+8)</i>
 <!-- END -->
