@@ -16,105 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Sesimuntna@{ shape: win-pane, label: "_Published Jan 04, 2026, 07:27 PM_
-Starmer says ousting him in 2026 would send britain into chaos" }
-UotiLuacihyol@{ shape: win-pane, label: "_Published Feb 05, 2023, 06:48 PM_
-Uk's shortest-serving pm liz truss blames economic 'orthodoxy' for downfall" }
-Ktroreoiensnnsa@{ shape: win-pane, label: "_Published Jul 05, 2024, 12:05 PM_
-Keir starmer’s labour party sweeps to british election win as pm sunak concedes defeat" }
-Upmtzsstoei@{ shape: win-pane, label: "_Published Jul 05, 2024, 02:25 PM_
-Uk’s ex-prime minister liz truss loses seat to labour in election" }
-Ktroreoiensnnsa@{ shape: win-pane, label: "_Published Jul 05, 2024, 12:05 PM_
-Keir starmer’s labour party sweeps to british election win as pm sunak concedes defeat" }
-
-Sesimuntna:::txtsize --> UotiLuacihyol:::txtsize
-Sesimuntna:::txtsize --> Ktroreoiensnnsa:::txtsize
-Ktroreoiensnnsa:::txtsize --> Upmtzsstoei:::txtsize
-Upmtzsstoei:::txtsize --> Ktroreoiensnnsa:::txtsize
-
-TsSrnleui@{ shape: win-pane, label: "_Published Jan 04, 2026, 07:03 PM_
-Trump says us will run venezuela after maduro seized" }
+Uotreeaiyrdib@{ shape: win-pane, label: "_Published Jan 04, 2026, 11:10 PM_
+Us to work with current venezuela leaders if they make ‘right decision’: rubio" }
+Tnnea@{ shape: win-pane, label: "_Published Jan 04, 2026, 02:30 PM_
+Trump now owns venezuela" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
 Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
 Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
-Trump says not winning nobel peace prize would be ‘insult’ to us" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
 Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
 Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
-Us military says it carried out strikes on three vessels in eastern pacific" }
-Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
-Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
+TsSnzaraeu@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
+Trump says us to run venezuela after raid captures maduro" }
+Usrrfrreiscrs@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:44 AM_
+Us coast guard searches for survivors after strike on suspected drug vessels" }
+Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
+Trump’s maduro capture is about drugs, immigrants and china" }
+VuMoiuyytdn@{ shape: win-pane, label: "_Published Jan 04, 2026, 07:03 PM_
+Venezuela’s maduro sits in us custody as loyalists vow defiance" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
 WNPlarrao@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:18 PM_
 Who is nobel peace laureate maria corina machado?" }
 Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
 Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
-Trump says not winning nobel peace prize would be ‘insult’ to us" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
 VupteMderfngndsln@{ shape: win-pane, label: "_Published Jan 10, 2025, 04:14 AM_
 Venezuela opposition leader machado free after brief detention, government denies involvement" }
-Vuifndrtlc@{ shape: win-pane, label: "_Published Jan 10, 2025, 12:57 AM_
-‘venezuela will be free’: anti-maduro protests roil caracas" }
-BlcCblVuoalstol@{ shape: win-pane, label: "_Published Aug 02, 2024, 07:44 AM_
-Brazil, mexico and colombia call for venezuela to release full presidential vote tallies" }
 
-TsSrnleui:::txtsize --> UtVuMorkms:::txtsize
+Uotreeaiyrdib:::txtsize --> Tnnea:::txtsize
+Tnnea:::txtsize --> UtVuMorkms:::txtsize
 UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
-Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
 UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
-Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
-TsSrnleui:::txtsize --> WNPlarrao:::txtsize
+Tnnea:::txtsize --> TsSnzaraeu:::txtsize
+TsSnzaraeu:::txtsize --> Usrrfrreiscrs:::txtsize
+TsSnzaraeu:::txtsize --> Tsrtstsgsh:::txtsize
+Uotreeaiyrdib:::txtsize --> VuMoiuyytdn:::txtsize
+VuMoiuyytdn:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+VuMoiuyytdn:::txtsize --> WNPlarrao:::txtsize
 WNPlarrao:::txtsize --> Vuoilranhibai:::txtsize
-Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
-Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
 WNPlarrao:::txtsize --> VupteMderfngndsln:::txtsize
-VupteMderfngndsln:::txtsize --> Vuifndrtlc:::txtsize
-VupteMderfngndsln:::txtsize --> BlcCblVuoalstol:::txtsize
 
-Garlguarns@{ shape: win-pane, label: "_Published Jan 04, 2026, 06:50 PM_
-Greek airports halt flights due to radio frequency issues" }
-Dfsshrorerilge@{ shape: win-pane, label: "_Published Jan 01, 2026, 04:55 PM_
-Dense fog disrupts flights across northern and eastern india, including new delhi" }
-Aiidlpifnmrtmaooi@{ shape: win-pane, label: "_Published Dec 06, 2025, 06:00 PM_
-‘all being poisoned slowly’: air purifiers offer only limited respite from india’s chronic pollution" }
-Istcopgaarnmoios@{ shape: win-pane, label: "_Published Dec 02, 2025, 05:00 AM_
-India’s capital accused of tampering with air quality readings to make pollution look less dire" }
-Drderryesexr@{ shape: win-pane, label: "_Published Dec 03, 2025, 08:25 PM_
-Delhi records more than 200,000 respiratory illness cases due to toxic air" }
-WrhUttsodldsei@{ shape: win-pane, label: "_Published Dec 27, 2025, 11:01 PM_
-Winter weather in us north-east leads to thousands of flight delays, cancellations" }
-Olssrenoasot@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:32 PM_
-Over 1,700 flights across us grounded as snowstorm blankets new york city" }
-AsgalnassatYirs@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:36 PM_
-At least 400 flights cancelled, many delayed as snowstorm affects new york city airports" }
-Spiegmudcdwdstnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 02:46 PM_
-Singapore airlines flights among hundreds cancelled in new york due to snowstorm in us city" }
-Olssrenoasot@{ shape: win-pane, label: "_Published Dec 26, 2025, 10:32 PM_
-Over 1,700 flights across us grounded as snowstorm blankets new york city" }
-AsgalnassatYirs@{ shape: win-pane, label: "_Published Dec 26, 2025, 01:36 PM_
-At least 400 flights cancelled, many delayed as snowstorm affects new york city airports" }
-Spiegmudcdwdstnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 02:46 PM_
-Singapore airlines flights among hundreds cancelled in new york due to snowstorm in us city" }
+Vubodedhntl@{ shape: win-pane, label: "_Published Jan 04, 2026, 10:20 PM_
+Venezuela’s billions in distressed debt: who is in line to collect?" }
+Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
+Trump’s maduro capture is about drugs, immigrants and china" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
+Who is venezuela’s president nicolas maduro?" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Tstdarzsrtw@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:48 AM_
+Trump says it would be ‘smart’ for venezuela’s maduro to step down" }
+Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
+Trump’s maduro capture is about drugs, immigrants and china" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
+Who is venezuela’s president nicolas maduro?" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Tstdarzsrtw@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:48 AM_
+Trump says it would be ‘smart’ for venezuela’s maduro to step down" }
 
-Garlguarns:::txtsize --> Dfsshrorerilge:::txtsize
-Dfsshrorerilge:::txtsize --> Aiidlpifnmrtmaooi:::txtsize
-Aiidlpifnmrtmaooi:::txtsize --> Istcopgaarnmoios:::txtsize
-Aiidlpifnmrtmaooi:::txtsize --> Drderryesexr:::txtsize
-Garlguarns:::txtsize --> WrhUttsodldsei:::txtsize
-WrhUttsodldsei:::txtsize --> Olssrenoasot:::txtsize
-Olssrenoasot:::txtsize --> AsgalnassatYirs:::txtsize
-Olssrenoasot:::txtsize --> Spiegmudcdwdstnt:::txtsize
-WrhUttsodldsei:::txtsize --> Olssrenoasot:::txtsize
-Olssrenoasot:::txtsize --> AsgalnassatYirs:::txtsize
-Olssrenoasot:::txtsize --> Spiegmudcdwdstnt:::txtsize
+Vubodedhntl:::txtsize --> Tsrtstsgsh:::txtsize
+Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
+WVuPdisr:::txtsize --> UtVuMorkms:::txtsize
+WVuPdisr:::txtsize --> Tstdarzsrtw:::txtsize
+Vubodedhntl:::txtsize --> Tsrtstsgsh:::txtsize
+Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
+WVuPdisr:::txtsize --> UtVuMorkms:::txtsize
+WVuPdisr:::txtsize --> Tstdarzsrtw:::txtsize
+
+Fenittnriei@{ shape: win-pane, label: "_Published Jan 04, 2026, 10:05 PM_
+France to ban food imports containing eu-prohibited pesticides" }
+Fekwubdigi@{ shape: win-pane, label: "_Published Aug 08, 2025, 03:01 AM_
+France strikes down return of banned bee-killing pesticide" }
+Aioieeoirnkigi@{ shape: win-pane, label: "_Published Jul 21, 2025, 01:34 AM_
+A million people sign french petition against bringing back bee-killing pesticide" }
+Aioieeoirnkigi@{ shape: win-pane, label: "_Published Jul 21, 2025, 01:34 AM_
+A million people sign french petition against bringing back bee-killing pesticide" }
+Fhyssdcw@{ shape: win-pane, label: "_Published Apr 07, 2023, 01:11 AM_
+French study warns of pesticide traces in water" }
+Hetotrpsiein@{ shape: win-pane, label: "_Published Feb 08, 2023, 06:21 PM_
+Hundreds of tractors enter paris in protest against pesticide bans" }
+Fhgntlcasa@{ shape: win-pane, label: "_Published Dec 10, 2022, 05:00 AM_
+French foie gras in short supply, forcing farmers to adapt" }
+Fhhredhhalp@{ shape: win-pane, label: "_Published Aug 15, 2022, 05:18 PM_
+French sorghum farmer defies drought with sustainable crop" }
+
+Fenittnriei:::txtsize --> Fekwubdigi:::txtsize
+Fekwubdigi:::txtsize --> Aioieeoirnkigi:::txtsize
+Fekwubdigi:::txtsize --> Aioieeoirnkigi:::txtsize
+Fenittnriei:::txtsize --> Fhyssdcw:::txtsize
+Fhyssdcw:::txtsize --> Hetotrpsiein:::txtsize
+Hetotrpsiein:::txtsize --> Fhgntlcasa:::txtsize
+Hetotrpsiein:::txtsize --> Fhhredhhalp:::txtsize
 
 ```
-<i>Last updated: 2026-01-04 20:00:39.152001 (GMT+8)</i>
+<i>Last updated: 2026-01-05 00:01:03.052034 (GMT+8)</i>
 <!-- END -->
