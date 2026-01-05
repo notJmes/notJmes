@@ -16,114 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-CbrejTttssem@{ shape: win-pane, label: "_Published Jan 05, 2026, 03:53 PM_
-Colombian president rejects trump threats, says ‘stop slandering me’" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
-Trump says not winning nobel peace prize would be ‘insult’ to us" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
-Us military says it carried out strikes on three vessels in eastern pacific" }
-Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
-Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
-TseVutpbgndope@{ shape: win-pane, label: "_Published Jan 05, 2026, 09:30 AM_
-Trump says second venezuela strike possible if government does not cooperate" }
-VuMoiuyytdn@{ shape: win-pane, label: "_Published Jan 04, 2026, 07:03 PM_
-Venezuela’s maduro sits in us custody as loyalists vow defiance" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-WNPlarrao@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:18 PM_
-Who is nobel peace laureate maria corina machado?" }
-Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
-Trump’s maduro capture is about drugs, immigrants and china" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
-Who is venezuela’s president nicolas maduro?" }
+PLeunsatosfmi@{ shape: win-pane, label: "_Published Jan 05, 2026, 07:45 PM_
+Paris’ louvre museum opens but some parts stay closed as staff resume strike" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+GpboiPoidaes@{ shape: win-pane, label: "_Published Apr 28, 2025, 01:06 PM_
+‘grandpa robbers’ go on trial in paris over kim kardashian jewel heist" }
+NegaTrah@{ shape: win-pane, label: "_Published Feb 20, 2025, 01:00 PM_
+Nike bets big on reality tv star kim kardashian" }
+Kriinucneida@{ shape: win-pane, label: "_Published May 17, 2023, 12:00 PM_
+Kim kardashian's $1.34 billion buyout pitch leans on her social media reach" }
+Gpssofemmnsrt@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:15 PM_
+Greenpeace steals $59,000 macron wax figure from museum for anti-russia protest" }
+GpmglnolN@{ shape: win-pane, label: "_Published Mar 21, 2025, 02:52 PM_
+Greenpeace $880m damages ruling in us shocks global ngos" }
+Leforutnrnme@{ shape: win-pane, label: "_Published Dec 19, 2025, 06:50 PM_
+Louvre staff call off strike, museum to open ‘as normal’: unions, management" }
+Leteidlaerrsl@{ shape: win-pane, label: "_Published Oct 22, 2025, 02:52 AM_
+Louvre heist losses estimated at $133 million as museum director faces grilling" }
+Ptineluiisey@{ shape: win-pane, label: "_Published Oct 19, 2025, 05:51 PM_
+Power tool-wielding thieves flee louvre with ‘priceless’ jewellery" }
+PLeubhwitea@{ shape: win-pane, label: "_Published Oct 20, 2025, 02:36 AM_
+Paris’ louvre museum robbery: what jewels did the thieves steal?" }
 
-CbrejTttssem:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
-Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
-Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
-CbrejTttssem:::txtsize --> TseVutpbgndope:::txtsize
-TseVutpbgndope:::txtsize --> VuMoiuyytdn:::txtsize
-VuMoiuyytdn:::txtsize --> UtVuMorkms:::txtsize
-VuMoiuyytdn:::txtsize --> WNPlarrao:::txtsize
-TseVutpbgndope:::txtsize --> Tsrtstsgsh:::txtsize
-Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
-Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
+PLeunsatosfmi:::txtsize --> Ptineluiisey:::txtsize
+Ptineluiisey:::txtsize --> GpboiPoidaes:::txtsize
+GpboiPoidaes:::txtsize --> NegaTrah:::txtsize
+GpboiPoidaes:::txtsize --> Kriinucneida:::txtsize
+Ptineluiisey:::txtsize --> Gpssofemmnsrt:::txtsize
+Gpssofemmnsrt:::txtsize --> GpmglnolN:::txtsize
+PLeunsatosfmi:::txtsize --> Leforutnrnme:::txtsize
+Leforutnrnme:::txtsize --> Leteidlaerrsl:::txtsize
+Leteidlaerrsl:::txtsize --> Ptineluiisey:::txtsize
+Leteidlaerrsl:::txtsize --> PLeubhwitea:::txtsize
 
-FeesutnGloiareme@{ shape: win-pane, label: "_Published Jan 05, 2026, 03:30 PM_
-France reiterates its support of denmark, greenland sovereignty after renewed trump threats" }
-Trsteed@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:16 PM_
-Trump renews push to annex greenland" }
-EihspGlnle@{ shape: win-pane, label: "_Published Jan 08, 2025, 09:36 PM_
-Explainer: why does trump want greenland and could he get it?" }
-DdpGlniyahery@{ shape: win-pane, label: "_Published Jan 07, 2025, 11:20 PM_
-Donald trump jr in greenland on ‘tourist’ day trip as father eyes territory" }
-Tnluiemtsenoanen@{ shape: win-pane, label: "_Published Jan 08, 2025, 01:26 AM_
-Trump not ruling out military, economic action as he seeks control of panama canal, greenland" }
-Fueeoyreht@{ shape: win-pane, label: "_Published Dec 12, 2025, 05:00 AM_
-For trump, the hottest property on earth lies in the arctic" }
-TseVutpbgndope@{ shape: win-pane, label: "_Published Jan 05, 2026, 09:30 AM_
-Trump says second venezuela strike possible if government does not cooperate" }
-VuMoiuyytdn@{ shape: win-pane, label: "_Published Jan 04, 2026, 07:03 PM_
-Venezuela’s maduro sits in us custody as loyalists vow defiance" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-WNPlarrao@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:18 PM_
-Who is nobel peace laureate maria corina machado?" }
-Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
-Trump’s maduro capture is about drugs, immigrants and china" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
-Who is venezuela’s president nicolas maduro?" }
+Sretaafnel@{ shape: win-pane, label: "_Published Jan 05, 2026, 07:25 PM_
+Snow cripples air, train and road traffic in the netherlands" }
+Tfsilcsow@{ shape: win-pane, label: "_Published Jan 04, 2026, 12:14 AM_
+Tens of thousands in berlin face days without power" }
+Gdsoesodifiatarl@{ shape: win-pane, label: "_Published May 14, 2025, 09:32 PM_
+Granada substation power loss pinpointed as origin of massive blackout in spain, portugal" }
+Lnmiluhe@{ shape: win-pane, label: "_Published May 04, 2025, 06:00 PM_
+Lessons from the first blackout of the green era" }
+Pbstfutiadu@{ shape: win-pane, label: "_Published Apr 29, 2025, 05:00 AM_
+Power begins to return after huge outage hits spain and portugal" }
+SbwrnSbhhybo@{ shape: win-pane, label: "_Published Apr 28, 2025, 10:45 PM_
+Scramble to withdraw money as spain brought to a halt by huge blackout" }
+Houpyafnoa@{ shape: win-pane, label: "_Published Apr 28, 2025, 08:57 PM_
+Huge power outage paralyses parts of spain and portugal" }
+Sgerhyrtfntsts@{ shape: win-pane, label: "_Published Oct 01, 2025, 03:09 PM_
+Swiss glaciers shrank sharply after light snowfall and heatwave, scientists say" }
+Gelbsznlnnkemn@{ shape: win-pane, label: "_Published May 28, 2025, 11:04 PM_
+Glacier collapse buries switzerland village in mud and rock, one person missing" }
+Mvkemssa@{ shape: win-pane, label: "_Published Jun 17, 2023, 01:13 AM_
+Massive rockslide just misses swiss village" }
+Fesavnkhhrrai@{ shape: win-pane, label: "_Published May 22, 2025, 05:55 PM_
+Four dead, 17 missing as heavy rains soak southern china, triggering landslides" }
+Sednecegaic@{ shape: win-pane, label: "_Published Sep 22, 2025, 06:46 PM_
+Switzerland’s ‘dying’ gries glacier melting at an alarming pace" }
+Stwgtsticoes@{ shape: win-pane, label: "_Published Sep 09, 2025, 07:00 PM_
+Scientists warn against plans to artificially cool polar regions" }
+Bfindlgeer@{ shape: win-pane, label: "_Published Aug 07, 2025, 04:59 PM_
+Body of missing man found on melting glacier after 28 years" }
 
-FeesutnGloiareme:::txtsize --> Trsteed:::txtsize
-Trsteed:::txtsize --> EihspGlnle:::txtsize
-EihspGlnle:::txtsize --> DdpGlniyahery:::txtsize
-EihspGlnle:::txtsize --> Tnluiemtsenoanen:::txtsize
-Trsteed:::txtsize --> Fueeoyreht:::txtsize
-FeesutnGloiareme:::txtsize --> TseVutpbgndope:::txtsize
-TseVutpbgndope:::txtsize --> VuMoiuyytdn:::txtsize
-VuMoiuyytdn:::txtsize --> UtVuMorkms:::txtsize
-VuMoiuyytdn:::txtsize --> WNPlarrao:::txtsize
-TseVutpbgndope:::txtsize --> Tsrtstsgsh:::txtsize
-Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
-Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
+Sretaafnel:::txtsize --> Tfsilcsow:::txtsize
+Tfsilcsow:::txtsize --> Gdsoesodifiatarl:::txtsize
+Gdsoesodifiatarl:::txtsize --> Lnmiluhe:::txtsize
+Tfsilcsow:::txtsize --> Pbstfutiadu:::txtsize
+Pbstfutiadu:::txtsize --> SbwrnSbhhybo:::txtsize
+Pbstfutiadu:::txtsize --> Houpyafnoa:::txtsize
+Sretaafnel:::txtsize --> Sgerhyrtfntsts:::txtsize
+Sgerhyrtfntsts:::txtsize --> Gelbsznlnnkemn:::txtsize
+Gelbsznlnnkemn:::txtsize --> Mvkemssa:::txtsize
+Gelbsznlnnkemn:::txtsize --> Fesavnkhhrrai:::txtsize
+Sgerhyrtfntsts:::txtsize --> Sednecegaic:::txtsize
+Sednecegaic:::txtsize --> Stwgtsticoes:::txtsize
+Sednecegaic:::txtsize --> Bfindlgeer:::txtsize
 
-Birnndnial@{ shape: win-pane, label: "_Published Jan 05, 2026, 03:30 PM_
-Britain starts ban on junk food ads on daytime tv and online" }
-Binmnisirgx@{ shape: win-pane, label: "_Published Nov 25, 2025, 09:41 PM_
-Britain to end exemption for milk-based drinks from sugar tax" }
-Eheeceloi@{ shape: win-pane, label: "_Published Mar 14, 2025, 05:00 PM_
-Even short-term dietary changes can lead to obesity" }
-Rgernououdsrnun@{ shape: win-pane, label: "_Published Sep 09, 2025, 12:44 AM_
-Rising temperatures linked to consumption of sugary drinks, ice cream in us, study finds" }
-Wthdeda@{ shape: win-pane, label: "_Published Sep 06, 2025, 02:10 PM_
-When it’s too hot to deliver food in italy" }
-BsrHnelsmotnns@{ shape: win-pane, label: "_Published Dec 07, 2025, 06:09 PM_
-British star chef heston blumenthal redesigns menu for dieters on skinny jabs" }
-Tondyueaadulesdo@{ shape: win-pane, label: "_Published Nov 27, 2025, 06:00 PM_
-Taste of france and italy at moutarde, sundae royale and laurus table at resorts world sentosa" }
+IlbGecsdCde@{ shape: win-pane, label: "_Published Jan 05, 2026, 06:44 PM_
+Israel says ban on gaza media access should stay: court document" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
+Why gaza is epicentre of israeli-palestinian conflict" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
+World in shock after hamas surprise attacks on israel" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
+Singapore strongly condemns terror attacks on israel, calls for end to violence" }
+Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
+Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
+PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
+Peace finally descends on the middle east: now the battle to make it last begins" }
+TjIlmnest@{ shape: win-pane, label: "_Published Oct 13, 2025, 03:10 PM_
+Tears, joy in israel as hamas hands over first hostages" }
 
-Birnndnial:::txtsize --> Binmnisirgx:::txtsize
-Binmnisirgx:::txtsize --> Eheeceloi:::txtsize
-Binmnisirgx:::txtsize --> Rgernououdsrnun:::txtsize
-Rgernououdsrnun:::txtsize --> Wthdeda:::txtsize
-Birnndnial:::txtsize --> BsrHnelsmotnns:::txtsize
-BsrHnelsmotnns:::txtsize --> Tondyueaadulesdo:::txtsize
+IlbGecsdCde:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> WzptIleint:::txtsize
+WzptIleint:::txtsize --> NyeeawHakl:::txtsize
+NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
+Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
+Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
+IlbGecsdCde:::txtsize --> Tdrcaaededlncbs:::txtsize
+Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
+PflcoMeNelale:::txtsize --> TjIlmnest:::txtsize
 
 ```
-<i>Last updated: 2026-01-05 16:00:59.018925 (GMT+8)</i>
+<i>Last updated: 2026-01-05 20:00:33.215981 (GMT+8)</i>
 <!-- END -->
