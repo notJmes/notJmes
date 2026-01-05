@@ -16,132 +16,141 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-EPnmeioein@{ shape: win-pane, label: "_Published Jan 05, 2026, 11:47 PM_
-Ex-us v-p nominee tim walz ends minnesota reelection run" }
-KaiknaWsiencd@{ shape: win-pane, label: "_Published Aug 06, 2024, 09:01 PM_
-Kamala harris picks minnesota’s tim walz as her vice-presidential candidate" }
-Kaiuetedbeccn@{ shape: win-pane, label: "_Published Aug 03, 2024, 02:19 AM_
-Kamala harris secures delegate votes needed to become democratic nominee" }
-Kaiahaeyoncrt@{ shape: win-pane, label: "_Published Aug 01, 2024, 04:15 PM_
-Kamala harris created a huge wave of energy... how long can democrats ride it?" }
-TaHsymt@{ shape: win-pane, label: "_Published Aug 02, 2024, 05:00 AM_
-This kamala harris honeymoon may not last" }
-WaSsrimosns@{ shape: win-pane, label: "_Published Oct 02, 2024, 10:30 AM_
-Walz was in us, not asia, during tiananmen protests, he confirms" }
-JcWlolohUeiib@{ shape: win-pane, label: "_Published Oct 02, 2024, 08:15 AM_
-J.d. vance, tim walz clash, politely, at policy-heavy us vice-presidential debate" }
-ScaTasitcehr@{ shape: win-pane, label: "_Published Sep 16, 2024, 03:00 AM_
-Suspect in latest trump assassination attempt charged with gun crimes" }
-Twreimrelt@{ shape: win-pane, label: "_Published Sep 11, 2024, 10:12 AM_
-Takeaways from the harris-trump us presidential debate" }
-IilvAcnamani@{ shape: win-pane, label: "_Published Sep 15, 2024, 02:59 PM_
-In politically divided america, even the walz family has painful rifts" }
-KaisiewoTbla@{ shape: win-pane, label: "_Published Sep 11, 2024, 03:40 PM_
-Kamala harris wins the first debate with donald trump, but will it matter?" }
+VuaeflkrmSu@{ shape: win-pane, label: "_Published Jan 06, 2026, 03:45 AM_
+Venezuela lawmakers defiantly back maduro, slam his us capture" }
+Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
+Trump’s maduro capture is about drugs, immigrants and china" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
+Who is venezuela’s president nicolas maduro?" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Tstdarzsrtw@{ shape: win-pane, label: "_Published Dec 23, 2025, 07:48 AM_
+Trump says it would be ‘smart’ for venezuela’s maduro to step down" }
+TwVuVcrzpegeenpe@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:15 AM_
+Trump warns venezuelan v-p delcy rodriguez will pay a ‘very big price’ if she doesn’t cooperate" }
+Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
+Trump’s maduro capture is about drugs, immigrants and china" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
+Who is venezuela’s president nicolas maduro?" }
+TsSnzaraeu@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
+Trump says us to run venezuela after raid captures maduro" }
+Usrrfrreiscrs@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:44 AM_
+Us coast guard searches for survivors after strike on suspected drug vessels" }
+Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
+Trump’s maduro capture is about drugs, immigrants and china" }
 
-EPnmeioein:::txtsize --> KaiknaWsiencd:::txtsize
-KaiknaWsiencd:::txtsize --> Kaiuetedbeccn:::txtsize
-Kaiuetedbeccn:::txtsize --> Kaiahaeyoncrt:::txtsize
-Kaiuetedbeccn:::txtsize --> TaHsymt:::txtsize
-EPnmeioein:::txtsize --> WaSsrimosns:::txtsize
-WaSsrimosns:::txtsize --> JcWlolohUeiib:::txtsize
-JcWlolohUeiib:::txtsize --> ScaTasitcehr:::txtsize
-JcWlolohUeiib:::txtsize --> Twreimrelt:::txtsize
-WaSsrimosns:::txtsize --> IilvAcnamani:::txtsize
-IilvAcnamani:::txtsize --> KaisiewoTbla:::txtsize
+VuaeflkrmSu:::txtsize --> Tsrtstsgsh:::txtsize
+Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
+WVuPdisr:::txtsize --> UtVuMorkms:::txtsize
+WVuPdisr:::txtsize --> Tstdarzsrtw:::txtsize
+VuaeflkrmSu:::txtsize --> TwVuVcrzpegeenpe:::txtsize
+TwVuVcrzpegeenpe:::txtsize --> Tsrtstsgsh:::txtsize
+Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
+Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
+TwVuVcrzpegeenpe:::txtsize --> TsSnzaraeu:::txtsize
+TsSnzaraeu:::txtsize --> Usrrfrreiscrs:::txtsize
+TsSnzaraeu:::txtsize --> Tsrtstsgsh:::txtsize
 
-Ueersebniiealfeo@{ shape: win-pane, label: "_Published Jan 05, 2026, 11:31 PM_
-Un chief guterres raises concerns about instability in venezuela, legality of us operation" }
-MooaStccrmg@{ shape: win-pane, label: "_Published Jan 05, 2026, 03:20 PM_
-Maduro set to appear in us court to face narco-terrorism charges" }
+Ilrutpsannlka@{ shape: win-pane, label: "_Published Jan 06, 2026, 02:20 AM_
+Iran’s leaders struggle to end protests, us action in venezuela stokes fears" }
+Iniitgdbiciaenld@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:29 PM_
+It was not an invasion, not illegal and not about oil: marco rubio on capture of venezuela’s maduro" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
 VuMoiuyytdn@{ shape: win-pane, label: "_Published Jan 04, 2026, 07:03 PM_
 Venezuela’s maduro sits in us custody as loyalists vow defiance" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
 WNPlarrao@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:18 PM_
 Who is nobel peace laureate maria corina machado?" }
-MoibadwWocma@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:15 PM_
-Maduro and wife to be arraigned in new york: what to expect from the case" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-VuMogaodkalnty@{ shape: win-pane, label: "_Published Jan 05, 2026, 07:20 AM_
-Venezuela’s maduro being held at a troubled brooklyn jail following capture by us" }
-Vucdamaoaet@{ shape: win-pane, label: "_Published Jan 05, 2026, 05:40 PM_
-Venezuela action displays us military’s ‘most fearsome’ might" }
+IeeuniiidgdSt@{ shape: win-pane, label: "_Published Jan 05, 2026, 12:16 PM_
+Iran, venezuela found kinship in anti-american ideology, evading us sanctions" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
 Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
 Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
 Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
 Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-Eshiaalocs@{ shape: win-pane, label: "_Published Feb 24, 2022, 12:41 PM_
-Explosions heard in ukraine capital kyiv, other cities" }
-OaUuakaogrmc@{ shape: win-pane, label: "_Published Feb 24, 2022, 05:20 PM_
-Oil soars to us$105 as russia attacks ukraine, topping us$100 for 1st time since 2014" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
 
-Ueersebniiealfeo:::txtsize --> MooaStccrmg:::txtsize
-MooaStccrmg:::txtsize --> VuMoiuyytdn:::txtsize
+Ilrutpsannlka:::txtsize --> Iniitgdbiciaenld:::txtsize
+Iniitgdbiciaenld:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+Iniitgdbiciaenld:::txtsize --> VuMoiuyytdn:::txtsize
 VuMoiuyytdn:::txtsize --> UtVuMorkms:::txtsize
 VuMoiuyytdn:::txtsize --> WNPlarrao:::txtsize
-MooaStccrmg:::txtsize --> MoibadwWocma:::txtsize
-MoibadwWocma:::txtsize --> UtVuMorkms:::txtsize
-MoibadwWocma:::txtsize --> VuMogaodkalnty:::txtsize
-Ueersebniiealfeo:::txtsize --> Vucdamaoaet:::txtsize
-Vucdamaoaet:::txtsize --> UtVuMorkms:::txtsize
+Ilrutpsannlka:::txtsize --> IeeuniiidgdSt:::txtsize
+IeeuniiidgdSt:::txtsize --> UtVuMorkms:::txtsize
 UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
 UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Vucdamaoaet:::txtsize --> DsruasvUn:::txtsize
-DsruasvUn:::txtsize --> Eshiaalocs:::txtsize
-DsruasvUn:::txtsize --> OaUuakaogrmc:::txtsize
-
-Cbreatpieur@{ shape: win-pane, label: "_Published Jan 05, 2026, 11:01 PM_
-Colombian president ready to ‘take up arms’ in face of trump threats" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
-Trump says not winning nobel peace prize would be ‘insult’ to us" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
-Us military says it carried out strikes on three vessels in eastern pacific" }
-Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
-Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
-UikperngutVura@{ shape: win-pane, label: "_Published Sep 03, 2025, 04:19 AM_
-Us military kills 11 people in strike on alleged drug boat from venezuela, trump says" }
-Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
-Us builds up forces in caribbean as officials, experts, ask why" }
-Ursratnldoi@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:51 AM_
-Us increases reward for arrest of venezeula’s maduro to $64 million" }
-Ursratnldoi@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:51 AM_
-Us increases reward for arrest of venezeula’s maduro to $64 million" }
-VuMoUswieggoy@{ shape: win-pane, label: "_Published Sep 02, 2025, 01:19 AM_
-Venezuela’s maduro says us warships with 1,200 missiles targeting his country" }
-Ulfsrafapay@{ shape: win-pane, label: "_Published Aug 30, 2025, 03:43 AM_
-Us builds up forces in caribbean as officials, experts, ask why" }
-Ursratnldoi@{ shape: win-pane, label: "_Published Aug 08, 2025, 06:51 AM_
-Us increases reward for arrest of venezeula’s maduro to $64 million" }
-
-Cbreatpieur:::txtsize --> UtVuMorkms:::txtsize
+IeeuniiidgdSt:::txtsize --> UtVuMorkms:::txtsize
 UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
-Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
 UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
-Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
-Cbreatpieur:::txtsize --> UikperngutVura:::txtsize
-UikperngutVura:::txtsize --> Ulfsrafapay:::txtsize
-Ulfsrafapay:::txtsize --> Ursratnldoi:::txtsize
-Ulfsrafapay:::txtsize --> Ursratnldoi:::txtsize
-UikperngutVura:::txtsize --> VuMoUswieggoy:::txtsize
-VuMoUswieggoy:::txtsize --> Ulfsrafapay:::txtsize
-VuMoUswieggoy:::txtsize --> Ursratnldoi:::txtsize
+
+Ilnifoamria@{ shape: win-pane, label: "_Published Jan 06, 2026, 12:40 AM_
+Israel begins strikes of hezbollah and hamas ‘targets’ in lebanon" }
+Ilcrtsub@{ shape: win-pane, label: "_Published Dec 05, 2025, 09:55 AM_
+Israel launches fresh strikes on south lebanon" }
+TafnemsHleikl@{ shape: win-pane, label: "_Published Nov 27, 2024, 02:56 AM_
+Thousands of lebanese head home as israel-hezbollah ceasefire takes hold" }
+IlocfheUktid@{ shape: win-pane, label: "_Published Nov 27, 2024, 05:28 AM_
+Israel-hezbollah ceasefire: what does the us-brokered truce include?" }
+PeLoseeaeao@{ shape: win-pane, label: "_Published Nov 26, 2024, 07:13 PM_
+Prospect of lebanon ceasefire leaves gazans feeling abandoned" }
+EdIlinn@{ shape: win-pane, label: "_Published Nov 08, 2025, 06:35 PM_
+Eu condemns israeli strikes in lebanon" }
+Ilamliiaiitacpaou@{ shape: win-pane, label: "_Published Jun 14, 2025, 07:54 AM_
+Israel exchanges missile strikes with iran as bid to wipe out tehran’s nuclear programme continues" }
+HlahemioneaIl@{ shape: win-pane, label: "_Published Nov 06, 2025, 07:20 PM_
+Hezbollah says it has a ‘legitimate right’ to defend itself against israel" }
+IueeslyatsrSa@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:35 PM_
+Iran supreme leader says he will not yield as protests simmer and us threatens" }
+Tttreteaea@{ shape: win-pane, label: "_Published Jan 02, 2026, 04:25 PM_
+Trump threatens iran over protest deaths as unrest flares" }
+Saokdatocis@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:34 PM_
+Several reported killed in iran protests over economic woes" }
+CdnerneMA@{ shape: win-pane, label: "_Published Sep 16, 2023, 04:22 PM_
+Clampdown and grief as iranians remember mahsa amini" }
+Wraeid@{ shape: win-pane, label: "_Published Jun 19, 2025, 05:00 PM_
+Will iran’s hated regime implode?" }
+TuTnunaantrt@{ shape: win-pane, label: "_Published Jun 17, 2025, 09:10 AM_
+Trump urges tehran evacuation as iran-israel conflict enters fifth day" }
+
+Ilnifoamria:::txtsize --> Ilcrtsub:::txtsize
+Ilcrtsub:::txtsize --> TafnemsHleikl:::txtsize
+TafnemsHleikl:::txtsize --> IlocfheUktid:::txtsize
+TafnemsHleikl:::txtsize --> PeLoseeaeao:::txtsize
+Ilcrtsub:::txtsize --> EdIlinn:::txtsize
+EdIlinn:::txtsize --> Ilamliiaiitacpaou:::txtsize
+EdIlinn:::txtsize --> HlahemioneaIl:::txtsize
+Ilnifoamria:::txtsize --> IueeslyatsrSa:::txtsize
+IueeslyatsrSa:::txtsize --> Tttreteaea:::txtsize
+Tttreteaea:::txtsize --> Saokdatocis:::txtsize
+Tttreteaea:::txtsize --> CdnerneMA:::txtsize
+IueeslyatsrSa:::txtsize --> Wraeid:::txtsize
+Wraeid:::txtsize --> TuTnunaantrt:::txtsize
 
 ```
-<i>Last updated: 2026-01-06 00:01:00.359352 (GMT+8)</i>
+<i>Last updated: 2026-01-06 04:00:27.799228 (GMT+8)</i>
 <!-- END -->
