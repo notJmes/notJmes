@@ -16,98 +16,122 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Pslcypaagitlue@{ shape: win-pane, label: "_Published Jan 06, 2026, 07:50 PM_
-Protests, ailing economy, trump threats: iran’s regime might struggle to survive" }
-Rspasdat@{ shape: win-pane, label: "_Published Jan 06, 2026, 07:16 PM_
-Rights groups say at least 25 dead in iran protests" }
-Tttreteaea@{ shape: win-pane, label: "_Published Jan 02, 2026, 04:25 PM_
-Trump threatens iran over protest deaths as unrest flares" }
-Saokdatocis@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:34 PM_
-Several reported killed in iran protests over economic woes" }
-CdnerneMA@{ shape: win-pane, label: "_Published Sep 16, 2023, 04:22 PM_
-Clampdown and grief as iranians remember mahsa amini" }
-Ilrutpsannlka@{ shape: win-pane, label: "_Published Jan 06, 2026, 02:20 AM_
-Iran’s leaders struggle to end protests, us action in venezuela stokes fears" }
-Iniitgdbiciaenld@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:29 PM_
-It was not an invasion, not illegal and not about oil: marco rubio on capture of venezuela’s maduro" }
-IeeuniiidgdSt@{ shape: win-pane, label: "_Published Jan 05, 2026, 12:16 PM_
-Iran, venezuela found kinship in anti-american ideology, evading us sanctions" }
+Knodnipssa@{ shape: win-pane, label: "_Published Jan 06, 2026, 11:21 PM_
+Klm running out of de-icing fluid for planes in amsterdam" }
+IlpshEeuge@{ shape: win-pane, label: "_Published Jan 06, 2026, 08:50 PM_
+Icy cold snap grips swathes of europe, disrupting travel" }
+Sretaafnel@{ shape: win-pane, label: "_Published Jan 05, 2026, 07:25 PM_
+Snow cripples air, train and road traffic in the netherlands" }
+Tfsilcsow@{ shape: win-pane, label: "_Published Jan 04, 2026, 12:14 AM_
+Tens of thousands in berlin face days without power" }
+Sgerhyrtfntsts@{ shape: win-pane, label: "_Published Oct 01, 2025, 03:09 PM_
+Swiss glaciers shrank sharply after light snowfall and heatwave, scientists say" }
+AsrrtcsiboBn@{ shape: win-pane, label: "_Published Jan 06, 2026, 03:56 PM_
+Anger simmers as arson attack causes mid-winter blackout in berlin" }
+Aioaesiriea@{ shape: win-pane, label: "_Published Jan 05, 2026, 09:26 AM_
+Activist group claims responsibility for berlin power outage" }
+Bnrsfrreett@{ shape: win-pane, label: "_Published Jan 06, 2026, 01:50 AM_
+Berlin mayor warns on infrastructure after power station attack" }
+ActsrrsUuec@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:00 AM_
+Arctic blast grips central, north-eastern us in sub-freezing cold" }
+NrysoleavwutEn@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:22 PM_
+New york city faces risk of airline delays as heavy snow hits upstate, new england" }
+Uphdpsdaitl@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:30 PM_
+Us airports hit by disruptions ahead of thanksgiving travel boom" }
+Lotlrehuoogene@{ shape: win-pane, label: "_Published Nov 13, 2025, 02:45 PM_
+Look cool in the cold: your winter fashion guide to tokyo, shanghai, seoul and more" }
+Snswtsltio@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:00 AM_
+Season’s first snowfall throws seoul into traffic chaos" }
+MFeafsasru@{ shape: win-pane, label: "_Published Oct 23, 2025, 12:00 PM_
+Mount fuji gets season’s first snowcap, 21 days later than usual" }
+NrysoleavwutEn@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:22 PM_
+New york city faces risk of airline delays as heavy snow hits upstate, new england" }
 
-Pslcypaagitlue:::txtsize --> Rspasdat:::txtsize
-Rspasdat:::txtsize --> Tttreteaea:::txtsize
-Tttreteaea:::txtsize --> Saokdatocis:::txtsize
-Tttreteaea:::txtsize --> CdnerneMA:::txtsize
-Rspasdat:::txtsize --> Ilrutpsannlka:::txtsize
-Ilrutpsannlka:::txtsize --> Iniitgdbiciaenld:::txtsize
-Ilrutpsannlka:::txtsize --> IeeuniiidgdSt:::txtsize
+Knodnipssa:::txtsize --> IlpshEeuge:::txtsize
+IlpshEeuge:::txtsize --> Sretaafnel:::txtsize
+Sretaafnel:::txtsize --> Tfsilcsow:::txtsize
+Sretaafnel:::txtsize --> Sgerhyrtfntsts:::txtsize
+IlpshEeuge:::txtsize --> AsrrtcsiboBn:::txtsize
+AsrrtcsiboBn:::txtsize --> Aioaesiriea:::txtsize
+AsrrtcsiboBn:::txtsize --> Bnrsfrreett:::txtsize
+Knodnipssa:::txtsize --> ActsrrsUuec:::txtsize
+ActsrrsUuec:::txtsize --> NrysoleavwutEn:::txtsize
+NrysoleavwutEn:::txtsize --> Uphdpsdaitl:::txtsize
+NrysoleavwutEn:::txtsize --> Lotlrehuoogene:::txtsize
+ActsrrsUuec:::txtsize --> Snswtsltio:::txtsize
+Snswtsltio:::txtsize --> MFeafsasru:::txtsize
+Snswtsltio:::txtsize --> NrysoleavwutEn:::txtsize
 
-Rspasdat@{ shape: win-pane, label: "_Published Jan 06, 2026, 07:16 PM_
-Rights groups say at least 25 dead in iran protests" }
-Tttreteaea@{ shape: win-pane, label: "_Published Jan 02, 2026, 04:25 PM_
-Trump threatens iran over protest deaths as unrest flares" }
-Saokdatocis@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:34 PM_
-Several reported killed in iran protests over economic woes" }
-Tsrseeworre@{ shape: win-pane, label: "_Published Jun 22, 2025, 08:14 AM_
-Trump says iran must make peace or ‘we will go after’ other targets" }
-Tsrdeecedletdr@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:17 AM_
-Trump says iran and israel agree to a ‘complete and total’ ceasefire to end 12-day war" }
-CdnerneMA@{ shape: win-pane, label: "_Published Sep 16, 2023, 04:22 PM_
-Clampdown and grief as iranians remember mahsa amini" }
-Blnssinonans@{ shape: win-pane, label: "_Published Sep 16, 2023, 08:05 AM_
-Biden leads new western sanctions on iran on amini’s death anniversary" }
-Ilrutpsannlka@{ shape: win-pane, label: "_Published Jan 06, 2026, 02:20 AM_
-Iran’s leaders struggle to end protests, us action in venezuela stokes fears" }
-Iniitgdbiciaenld@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:29 PM_
-It was not an invasion, not illegal and not about oil: marco rubio on capture of venezuela’s maduro" }
+Eereftleeudl@{ shape: win-pane, label: "_Published Jan 06, 2026, 11:06 PM_
+Eu offers farmers extra funds to quell anger at mercosur trade deal" }
+EcdedrsBeoo@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:56 PM_
+Eu-mercosur deal delayed as farmers stage brussels show of force" }
+Ereeweuccrlpi@{ shape: win-pane, label: "_Published Sep 03, 2025, 12:19 PM_
+Eu to propose trade deal with mercosur bloc, in face of france-led opposition" }
+EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
+Eu reaches long-sought mercosur deal over macron’s objections" }
+EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
+Eu reaches long-sought mercosur deal over macron’s objections" }
+Gniebeudtrrt@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:20 PM_
+Germany, spain urge eu to back mercosur trade pact, but france resists" }
+EcdedrsBeoo@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:56 PM_
+Eu-mercosur deal delayed as farmers stage brussels show of force" }
+EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
+Eu reaches long-sought mercosur deal over macron’s objections" }
+EcdedrsBeoo@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:56 PM_
+Eu-mercosur deal delayed as farmers stage brussels show of force" }
+Ereeweuccrlpi@{ shape: win-pane, label: "_Published Sep 03, 2025, 12:19 PM_
+Eu to propose trade deal with mercosur bloc, in face of france-led opposition" }
+EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
+Eu reaches long-sought mercosur deal over macron’s objections" }
+EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
+Eu reaches long-sought mercosur deal over macron’s objections" }
+Gniebeudtrrt@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:20 PM_
+Germany, spain urge eu to back mercosur trade pact, but france resists" }
+EcdedrsBeoo@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:56 PM_
+Eu-mercosur deal delayed as farmers stage brussels show of force" }
+EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
+Eu reaches long-sought mercosur deal over macron’s objections" }
+
+Eereftleeudl:::txtsize --> EcdedrsBeoo:::txtsize
+EcdedrsBeoo:::txtsize --> Ereeweuccrlpi:::txtsize
+Ereeweuccrlpi:::txtsize --> EcoueulMnen:::txtsize
+Ereeweuccrlpi:::txtsize --> EcoueulMnen:::txtsize
+EcdedrsBeoo:::txtsize --> Gniebeudtrrt:::txtsize
+Gniebeudtrrt:::txtsize --> EcdedrsBeoo:::txtsize
+Gniebeudtrrt:::txtsize --> EcoueulMnen:::txtsize
+Eereftleeudl:::txtsize --> EcdedrsBeoo:::txtsize
+EcdedrsBeoo:::txtsize --> Ereeweuccrlpi:::txtsize
+Ereeweuccrlpi:::txtsize --> EcoueulMnen:::txtsize
+Ereeweuccrlpi:::txtsize --> EcoueulMnen:::txtsize
+EcdedrsBeoo:::txtsize --> Gniebeudtrrt:::txtsize
+Gniebeudtrrt:::txtsize --> EcdedrsBeoo:::txtsize
+Gniebeudtrrt:::txtsize --> EcoueulMnen:::txtsize
+
+TudeSioGl@{ shape: win-pane, label: "_Published Jan 06, 2026, 11:05 PM_
+Top trump aide asserts us has right to take greenland" }
+DridfrispUgra@{ shape: win-pane, label: "_Published Jan 04, 2026, 09:44 PM_
+Denmark irritated by wife of trump aide posting pic of us-flagged greenland" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
 VuMoiuyytdn@{ shape: win-pane, label: "_Published Jan 04, 2026, 07:03 PM_
 Venezuela’s maduro sits in us custody as loyalists vow defiance" }
-IeeuniiidgdSt@{ shape: win-pane, label: "_Published Jan 05, 2026, 12:16 PM_
-Iran, venezuela found kinship in anti-american ideology, evading us sanctions" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-
-Rspasdat:::txtsize --> Tttreteaea:::txtsize
-Tttreteaea:::txtsize --> Saokdatocis:::txtsize
-Saokdatocis:::txtsize --> Tsrseeworre:::txtsize
-Saokdatocis:::txtsize --> Tsrdeecedletdr:::txtsize
-Tttreteaea:::txtsize --> CdnerneMA:::txtsize
-CdnerneMA:::txtsize --> Blnssinonans:::txtsize
-Rspasdat:::txtsize --> Ilrutpsannlka:::txtsize
-Ilrutpsannlka:::txtsize --> Iniitgdbiciaenld:::txtsize
-Iniitgdbiciaenld:::txtsize --> UtVuMorkms:::txtsize
-Iniitgdbiciaenld:::txtsize --> VuMoiuyytdn:::txtsize
-Ilrutpsannlka:::txtsize --> IeeuniiidgdSt:::txtsize
-IeeuniiidgdSt:::txtsize --> UtVuMorkms:::txtsize
-IeeuniiidgdSt:::txtsize --> UtVuMorkms:::txtsize
-
-TdotceetUt@{ shape: win-pane, label: "_Published Jan 06, 2026, 07:03 PM_
-Trump does not want to occupy venezuela, us tells un meeting" }
-TsSnzaraeu@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
-Trump says us to run venezuela after raid captures maduro" }
-Usrrfrreiscrs@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:44 AM_
-Us coast guard searches for survivors after strike on suspected drug vessels" }
-Irseravrrfas@{ shape: win-pane, label: "_Published Oct 17, 2025, 08:00 AM_
-In a first, us strike in caribbean leaves survivors, us official says" }
-Voiriorrlisms@{ shape: win-pane, label: "_Published Dec 05, 2025, 01:36 AM_
-Video of us military strike shows survivors in ‘clear distress’, lawmaker says" }
+WNPlarrao@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:18 PM_
+Who is nobel peace laureate maria corina machado?" }
+Drrrottaeed@{ shape: win-pane, label: "_Published Jan 05, 2026, 04:45 AM_
+Denmark pm urges trump to stop threats to take over greenland" }
+TwVuVcrzpegeenpe@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:15 AM_
+Trump warns venezuelan v-p delcy rodriguez will pay a ‘very big price’ if she doesn’t cooperate" }
 Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
 Trump’s maduro capture is about drugs, immigrants and china" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
-Who is venezuela’s president nicolas maduro?" }
 TsSnzaraeu@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
 Trump says us to run venezuela after raid captures maduro" }
-Usrrfrreiscrs@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:44 AM_
-Us coast guard searches for survivors after strike on suspected drug vessels" }
-Irseravrrfas@{ shape: win-pane, label: "_Published Oct 17, 2025, 08:00 AM_
-In a first, us strike in caribbean leaves survivors, us official says" }
-Voiriorrlisms@{ shape: win-pane, label: "_Published Dec 05, 2025, 01:36 AM_
-Video of us military strike shows survivors in ‘clear distress’, lawmaker says" }
 Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
 Trump’s maduro capture is about drugs, immigrants and china" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
@@ -115,21 +139,21 @@ Us captured venezuela’s maduro after strike, trump says" }
 WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
 Who is venezuela’s president nicolas maduro?" }
 
-TdotceetUt:::txtsize --> TsSnzaraeu:::txtsize
-TsSnzaraeu:::txtsize --> Usrrfrreiscrs:::txtsize
-Usrrfrreiscrs:::txtsize --> Irseravrrfas:::txtsize
-Usrrfrreiscrs:::txtsize --> Voiriorrlisms:::txtsize
-TsSnzaraeu:::txtsize --> Tsrtstsgsh:::txtsize
-Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
-Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
-TdotceetUt:::txtsize --> TsSnzaraeu:::txtsize
-TsSnzaraeu:::txtsize --> Usrrfrreiscrs:::txtsize
-Usrrfrreiscrs:::txtsize --> Irseravrrfas:::txtsize
-Usrrfrreiscrs:::txtsize --> Voiriorrlisms:::txtsize
-TsSnzaraeu:::txtsize --> Tsrtstsgsh:::txtsize
+TudeSioGl:::txtsize --> DridfrispUgra:::txtsize
+DridfrispUgra:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+DridfrispUgra:::txtsize --> VuMoiuyytdn:::txtsize
+VuMoiuyytdn:::txtsize --> UtVuMorkms:::txtsize
+VuMoiuyytdn:::txtsize --> WNPlarrao:::txtsize
+TudeSioGl:::txtsize --> Drrrottaeed:::txtsize
+Drrrottaeed:::txtsize --> TwVuVcrzpegeenpe:::txtsize
+TwVuVcrzpegeenpe:::txtsize --> Tsrtstsgsh:::txtsize
+TwVuVcrzpegeenpe:::txtsize --> TsSnzaraeu:::txtsize
+Drrrottaeed:::txtsize --> Tsrtstsgsh:::txtsize
 Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
 Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
 
 ```
-<i>Last updated: 2026-01-06 20:00:58.417525 (GMT+8)</i>
+<i>Last updated: 2026-01-07 00:00:33.915459 (GMT+8)</i>
 <!-- END -->
