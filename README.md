@@ -16,144 +16,141 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Knodnipssa@{ shape: win-pane, label: "_Published Jan 06, 2026, 11:21 PM_
-Klm running out of de-icing fluid for planes in amsterdam" }
-IlpshEeuge@{ shape: win-pane, label: "_Published Jan 06, 2026, 08:50 PM_
-Icy cold snap grips swathes of europe, disrupting travel" }
-Sretaafnel@{ shape: win-pane, label: "_Published Jan 05, 2026, 07:25 PM_
-Snow cripples air, train and road traffic in the netherlands" }
-Tfsilcsow@{ shape: win-pane, label: "_Published Jan 04, 2026, 12:14 AM_
-Tens of thousands in berlin face days without power" }
-Sgerhyrtfntsts@{ shape: win-pane, label: "_Published Oct 01, 2025, 03:09 PM_
-Swiss glaciers shrank sharply after light snowfall and heatwave, scientists say" }
-AsrrtcsiboBn@{ shape: win-pane, label: "_Published Jan 06, 2026, 03:56 PM_
-Anger simmers as arson attack causes mid-winter blackout in berlin" }
-Aioaesiriea@{ shape: win-pane, label: "_Published Jan 05, 2026, 09:26 AM_
-Activist group claims responsibility for berlin power outage" }
-Bnrsfrreett@{ shape: win-pane, label: "_Published Jan 06, 2026, 01:50 AM_
-Berlin mayor warns on infrastructure after power station attack" }
-ActsrrsUuec@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:00 AM_
-Arctic blast grips central, north-eastern us in sub-freezing cold" }
-NrysoleavwutEn@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:22 PM_
-New york city faces risk of airline delays as heavy snow hits upstate, new england" }
-Uphdpsdaitl@{ shape: win-pane, label: "_Published Nov 27, 2025, 01:30 PM_
-Us airports hit by disruptions ahead of thanksgiving travel boom" }
-Lotlrehuoogene@{ shape: win-pane, label: "_Published Nov 13, 2025, 02:45 PM_
-Look cool in the cold: your winter fashion guide to tokyo, shanghai, seoul and more" }
-Snswtsltio@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:00 AM_
-Season’s first snowfall throws seoul into traffic chaos" }
-MFeafsasru@{ shape: win-pane, label: "_Published Oct 23, 2025, 12:00 PM_
-Mount fuji gets season’s first snowcap, 21 days later than usual" }
-NrysoleavwutEn@{ shape: win-pane, label: "_Published Dec 02, 2025, 09:22 PM_
-New york city faces risk of airline delays as heavy snow hits upstate, new england" }
+UenogryiieCsaik@{ shape: win-pane, label: "_Published Jan 07, 2026, 03:50 AM_
+Us government is ‘working feverishly’ on nvidia licences for china, ship date still unknown" }
+Naawnsalte@{ shape: win-pane, label: "_Published Jan 06, 2026, 08:15 AM_
+Nvidia ceo says new rubin chips on track, helping to speed ai" }
+Cahsodcaesiee@{ shape: win-pane, label: "_Published Jan 05, 2026, 07:45 PM_
+Ces 2026: brands showcase ai-powered devices that offer personalised services" }
+Bgdrstepcglehgoon@{ shape: win-pane, label: "_Published Jan 05, 2026, 01:01 PM_
+Baggage-handling robots, smart systems to predict flight delays: new tech being explored for changi’s t5" }
+Oottedorf@{ shape: win-pane, label: "_Published Dec 29, 2025, 05:00 AM_
+2026 outlook: what’s next for tech – and the top stories of 2025" }
+TnCisesunsaniuc@{ shape: win-pane, label: "_Published Dec 31, 2025, 10:15 AM_
+Taiwan’s tsmc says it has started mass production of ‘most advanced’ 2nm semiconductor chips" }
+Tegwaneh@{ shape: win-pane, label: "_Published Dec 31, 2025, 10:15 AM_
+Tiny tech, big ai power: what are 2-nanometre chips?" }
+Cfrtaaigsaba@{ shape: win-pane, label: "_Published Dec 30, 2025, 08:41 AM_
+China fires rockets towards taiwan in war games simulating blockade" }
+NaneeGednb@{ shape: win-pane, label: "_Published Dec 26, 2025, 08:42 AM_
+Nvidia expands ai empire with groq tech and talent grab" }
+MsontIitogstf@{ shape: win-pane, label: "_Published Mar 22, 2024, 09:15 AM_
+Microsoft to pay inflection ai $873 million after scooping up most of its staff" }
+Msisoseveni@{ shape: win-pane, label: "_Published Mar 15, 2024, 08:40 AM_
+Microsoft singles out google’s competitive edge in generative ai" }
+Msnsdestsupgl@{ shape: win-pane, label: "_Published Feb 07, 2024, 07:50 PM_
+Microsoft in talks to end trade body’s eu antitrust cloud-computing complaint" }
+MaanmnekC@{ shape: win-pane, label: "_Published Jun 13, 2025, 12:40 PM_
+Meta makes major investment in scale ai, takes in ceo" }
+MosecfoSeear@{ shape: win-pane, label: "_Published Jun 12, 2025, 08:22 AM_
+Meta poaches top researchers from google, sesame for new ai lab: sources" }
+Socrsornlta@{ shape: win-pane, label: "_Published Jun 11, 2025, 10:58 AM_
+Snap to launch smart glasses for users in 2026 in challenge to meta" }
 
-Knodnipssa:::txtsize --> IlpshEeuge:::txtsize
-IlpshEeuge:::txtsize --> Sretaafnel:::txtsize
-Sretaafnel:::txtsize --> Tfsilcsow:::txtsize
-Sretaafnel:::txtsize --> Sgerhyrtfntsts:::txtsize
-IlpshEeuge:::txtsize --> AsrrtcsiboBn:::txtsize
-AsrrtcsiboBn:::txtsize --> Aioaesiriea:::txtsize
-AsrrtcsiboBn:::txtsize --> Bnrsfrreett:::txtsize
-Knodnipssa:::txtsize --> ActsrrsUuec:::txtsize
-ActsrrsUuec:::txtsize --> NrysoleavwutEn:::txtsize
-NrysoleavwutEn:::txtsize --> Uphdpsdaitl:::txtsize
-NrysoleavwutEn:::txtsize --> Lotlrehuoogene:::txtsize
-ActsrrsUuec:::txtsize --> Snswtsltio:::txtsize
-Snswtsltio:::txtsize --> MFeafsasru:::txtsize
-Snswtsltio:::txtsize --> NrysoleavwutEn:::txtsize
+UenogryiieCsaik:::txtsize --> Naawnsalte:::txtsize
+Naawnsalte:::txtsize --> Cahsodcaesiee:::txtsize
+Cahsodcaesiee:::txtsize --> Bgdrstepcglehgoon:::txtsize
+Cahsodcaesiee:::txtsize --> Oottedorf:::txtsize
+Naawnsalte:::txtsize --> TnCisesunsaniuc:::txtsize
+TnCisesunsaniuc:::txtsize --> Tegwaneh:::txtsize
+TnCisesunsaniuc:::txtsize --> Cfrtaaigsaba:::txtsize
+UenogryiieCsaik:::txtsize --> NaneeGednb:::txtsize
+NaneeGednb:::txtsize --> MsontIitogstf:::txtsize
+MsontIitogstf:::txtsize --> Msisoseveni:::txtsize
+MsontIitogstf:::txtsize --> Msnsdestsupgl:::txtsize
+NaneeGednb:::txtsize --> MaanmnekC:::txtsize
+MaanmnekC:::txtsize --> MosecfoSeear:::txtsize
+MaanmnekC:::txtsize --> Socrsornlta:::txtsize
 
-Eereftleeudl@{ shape: win-pane, label: "_Published Jan 06, 2026, 11:06 PM_
-Eu offers farmers extra funds to quell anger at mercosur trade deal" }
-EcdedrsBeoo@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:56 PM_
-Eu-mercosur deal delayed as farmers stage brussels show of force" }
-Ereeweuccrlpi@{ shape: win-pane, label: "_Published Sep 03, 2025, 12:19 PM_
-Eu to propose trade deal with mercosur bloc, in face of france-led opposition" }
-EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
-Eu reaches long-sought mercosur deal over macron’s objections" }
-EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
-Eu reaches long-sought mercosur deal over macron’s objections" }
-Gniebeudtrrt@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:20 PM_
-Germany, spain urge eu to back mercosur trade pact, but france resists" }
-EcdedrsBeoo@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:56 PM_
-Eu-mercosur deal delayed as farmers stage brussels show of force" }
-EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
-Eu reaches long-sought mercosur deal over macron’s objections" }
-EcdedrsBeoo@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:56 PM_
-Eu-mercosur deal delayed as farmers stage brussels show of force" }
-Ereeweuccrlpi@{ shape: win-pane, label: "_Published Sep 03, 2025, 12:19 PM_
-Eu to propose trade deal with mercosur bloc, in face of france-led opposition" }
-EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
-Eu reaches long-sought mercosur deal over macron’s objections" }
-EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
-Eu reaches long-sought mercosur deal over macron’s objections" }
-Gniebeudtrrt@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:20 PM_
-Germany, spain urge eu to back mercosur trade pact, but france resists" }
-EcdedrsBeoo@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:56 PM_
-Eu-mercosur deal delayed as farmers stage brussels show of force" }
-EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
-Eu reaches long-sought mercosur deal over macron’s objections" }
-
-Eereftleeudl:::txtsize --> EcdedrsBeoo:::txtsize
-EcdedrsBeoo:::txtsize --> Ereeweuccrlpi:::txtsize
-Ereeweuccrlpi:::txtsize --> EcoueulMnen:::txtsize
-Ereeweuccrlpi:::txtsize --> EcoueulMnen:::txtsize
-EcdedrsBeoo:::txtsize --> Gniebeudtrrt:::txtsize
-Gniebeudtrrt:::txtsize --> EcdedrsBeoo:::txtsize
-Gniebeudtrrt:::txtsize --> EcoueulMnen:::txtsize
-Eereftleeudl:::txtsize --> EcdedrsBeoo:::txtsize
-EcdedrsBeoo:::txtsize --> Ereeweuccrlpi:::txtsize
-Ereeweuccrlpi:::txtsize --> EcoueulMnen:::txtsize
-Ereeweuccrlpi:::txtsize --> EcoueulMnen:::txtsize
-EcdedrsBeoo:::txtsize --> Gniebeudtrrt:::txtsize
-Gniebeudtrrt:::txtsize --> EcdedrsBeoo:::txtsize
-Gniebeudtrrt:::txtsize --> EcoueulMnen:::txtsize
-
-TudeSioGl@{ shape: win-pane, label: "_Published Jan 06, 2026, 11:05 PM_
-Top trump aide asserts us has right to take greenland" }
-DridfrispUgra@{ shape: win-pane, label: "_Published Jan 04, 2026, 09:44 PM_
-Denmark irritated by wife of trump aide posting pic of us-flagged greenland" }
+Ucialeeuirslda@{ shape: win-pane, label: "_Published Jan 07, 2026, 03:34 AM_
+Us forces said to have killed 55 venezuelan, cuban military personnel in maduro raid" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
 Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
 Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
+Trump says not winning nobel peace prize would be ‘insult’ to us" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
 Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
 Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-VuMoiuyytdn@{ shape: win-pane, label: "_Published Jan 04, 2026, 07:03 PM_
-Venezuela’s maduro sits in us custody as loyalists vow defiance" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-WNPlarrao@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:18 PM_
-Who is nobel peace laureate maria corina machado?" }
-Drrrottaeed@{ shape: win-pane, label: "_Published Jan 05, 2026, 04:45 AM_
-Denmark pm urges trump to stop threats to take over greenland" }
-TwVuVcrzpegeenpe@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:15 AM_
-Trump warns venezuelan v-p delcy rodriguez will pay a ‘very big price’ if she doesn’t cooperate" }
-Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
-Trump’s maduro capture is about drugs, immigrants and china" }
-TsSnzaraeu@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
-Trump says us to run venezuela after raid captures maduro" }
+Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
+Us military says it carried out strikes on three vessels in eastern pacific" }
+Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
+Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
+Iienytnldlniorcr@{ shape: win-pane, label: "_Published Jan 06, 2026, 12:23 AM_
+‘i am still president of my country’: venezuela’s maduro pleads not guilty to us narcotics charges" }
 Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
 Trump’s maduro capture is about drugs, immigrants and china" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
 WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
 Who is venezuela’s president nicolas maduro?" }
+Ucnatugasnlss@{ shape: win-pane, label: "_Published Jan 06, 2026, 12:32 AM_
+Us oil companies gain after trump signals access to venezuela’s reserves" }
+Tnsenm@{ shape: win-pane, label: "_Published Jan 05, 2026, 06:00 PM_
+Trump now has his very own oil empire" }
+Aanetrtziksoree@{ shape: win-pane, label: "_Published Jan 05, 2026, 06:00 PM_
+About a dozen loaded oil tankers left venezuela in dark mode, says monitoring service" }
 
-TudeSioGl:::txtsize --> DridfrispUgra:::txtsize
-DridfrispUgra:::txtsize --> UtVuMorkms:::txtsize
+Ucialeeuirslda:::txtsize --> UtVuMorkms:::txtsize
 UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
+Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
 UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-DridfrispUgra:::txtsize --> VuMoiuyytdn:::txtsize
-VuMoiuyytdn:::txtsize --> UtVuMorkms:::txtsize
-VuMoiuyytdn:::txtsize --> WNPlarrao:::txtsize
-TudeSioGl:::txtsize --> Drrrottaeed:::txtsize
-Drrrottaeed:::txtsize --> TwVuVcrzpegeenpe:::txtsize
-TwVuVcrzpegeenpe:::txtsize --> Tsrtstsgsh:::txtsize
-TwVuVcrzpegeenpe:::txtsize --> TsSnzaraeu:::txtsize
-Drrrottaeed:::txtsize --> Tsrtstsgsh:::txtsize
+Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
+Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
+Ucialeeuirslda:::txtsize --> Iienytnldlniorcr:::txtsize
+Iienytnldlniorcr:::txtsize --> Tsrtstsgsh:::txtsize
 Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
 Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
+Iienytnldlniorcr:::txtsize --> Ucnatugasnlss:::txtsize
+Ucnatugasnlss:::txtsize --> Tnsenm:::txtsize
+Ucnatugasnlss:::txtsize --> Aanetrtziksoree:::txtsize
+
+Gnernrrnrlu@{ shape: win-pane, label: "_Published Jan 07, 2026, 03:19 AM_
+German prosecutors launch ‘terror’ probe into berlin blackout" }
+Tfsilcsow@{ shape: win-pane, label: "_Published Jan 04, 2026, 12:14 AM_
+Tens of thousands in berlin face days without power" }
+Gdsoesodifiatarl@{ shape: win-pane, label: "_Published May 14, 2025, 09:32 PM_
+Granada substation power loss pinpointed as origin of massive blackout in spain, portugal" }
+Lnmiluhe@{ shape: win-pane, label: "_Published May 04, 2025, 06:00 PM_
+Lessons from the first blackout of the green era" }
+Pbstfutiadu@{ shape: win-pane, label: "_Published Apr 29, 2025, 05:00 AM_
+Power begins to return after huge outage hits spain and portugal" }
+SbwrnSbhhybo@{ shape: win-pane, label: "_Published Apr 28, 2025, 10:45 PM_
+Scramble to withdraw money as spain brought to a halt by huge blackout" }
+Houpyafnoa@{ shape: win-pane, label: "_Published Apr 28, 2025, 08:57 PM_
+Huge power outage paralyses parts of spain and portugal" }
+Aioaesiriea@{ shape: win-pane, label: "_Published Jan 05, 2026, 09:26 AM_
+Activist group claims responsibility for berlin power outage" }
+Bnrakexeiais@{ shape: win-pane, label: "_Published Jan 05, 2026, 12:15 AM_
+Berlin power grid attack caused by ‘extreme leftists’, say officials" }
+Tfsilcsow@{ shape: win-pane, label: "_Published Jan 04, 2026, 12:14 AM_
+Tens of thousands in berlin face days without power" }
+Perpsccrao@{ shape: win-pane, label: "_Published Aug 01, 2025, 05:54 PM_
+Police in germany probe suspected acts of railway sabotage" }
+Tfsilcsow@{ shape: win-pane, label: "_Published Jan 04, 2026, 12:14 AM_
+Tens of thousands in berlin face days without power" }
+Gdsoesodifiatarl@{ shape: win-pane, label: "_Published May 14, 2025, 09:32 PM_
+Granada substation power loss pinpointed as origin of massive blackout in spain, portugal" }
+Pbstfutiadu@{ shape: win-pane, label: "_Published Apr 29, 2025, 05:00 AM_
+Power begins to return after huge outage hits spain and portugal" }
+
+Gnernrrnrlu:::txtsize --> Tfsilcsow:::txtsize
+Tfsilcsow:::txtsize --> Gdsoesodifiatarl:::txtsize
+Gdsoesodifiatarl:::txtsize --> Lnmiluhe:::txtsize
+Tfsilcsow:::txtsize --> Pbstfutiadu:::txtsize
+Pbstfutiadu:::txtsize --> SbwrnSbhhybo:::txtsize
+Pbstfutiadu:::txtsize --> Houpyafnoa:::txtsize
+Gnernrrnrlu:::txtsize --> Aioaesiriea:::txtsize
+Aioaesiriea:::txtsize --> Bnrakexeiais:::txtsize
+Bnrakexeiais:::txtsize --> Tfsilcsow:::txtsize
+Bnrakexeiais:::txtsize --> Perpsccrao:::txtsize
+Aioaesiriea:::txtsize --> Tfsilcsow:::txtsize
+Tfsilcsow:::txtsize --> Gdsoesodifiatarl:::txtsize
+Tfsilcsow:::txtsize --> Pbstfutiadu:::txtsize
 
 ```
-<i>Last updated: 2026-01-07 00:00:33.915459 (GMT+8)</i>
+<i>Last updated: 2026-01-07 04:00:59.424691 (GMT+8)</i>
 <!-- END -->
