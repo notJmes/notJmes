@@ -16,144 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-AVuirarurassk@{ shape: win-pane, label: "_Published Jan 07, 2026, 03:45 PM_
-After venezuela, five targets appear in trump’s crosshairs. is it just talk?" }
-Iienytnldlniorcr@{ shape: win-pane, label: "_Published Jan 06, 2026, 12:23 AM_
-‘i am still president of my country’: venezuela’s maduro pleads not guilty to us narcotics charges" }
-Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
-Trump’s maduro capture is about drugs, immigrants and china" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
-Who is venezuela’s president nicolas maduro?" }
-Ucnatugasnlss@{ shape: win-pane, label: "_Published Jan 06, 2026, 12:32 AM_
-Us oil companies gain after trump signals access to venezuela’s reserves" }
-Tnsenm@{ shape: win-pane, label: "_Published Jan 05, 2026, 06:00 PM_
-Trump now has his very own oil empire" }
-Aanetrtziksoree@{ shape: win-pane, label: "_Published Jan 05, 2026, 06:00 PM_
-About a dozen loaded oil tankers left venezuela in dark mode, says monitoring service" }
-HueetnreMer@{ shape: win-pane, label: "_Published Jan 07, 2026, 08:15 AM_
-How trump’s venezuela intervention revived the monroe doctrine" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+PmtnagpRat@{ shape: win-pane, label: "_Published Jan 07, 2026, 07:49 PM_
+Putin meets talking cat and dog in popular russian cartoon" }
+Mrigama@{ shape: win-pane, label: "_Published Jul 15, 2025, 05:00 AM_
+Masters of wit caught in a storm of change" }
+TnSpteftss@{ shape: win-pane, label: "_Published Jul 15, 2025, 05:00 AM_
+Telling the singapore story: 180 years of the straits times" }
+Fisorcoipwhpn@{ shape: win-pane, label: "_Published Nov 20, 2025, 11:10 PM_
+From hip-hop song to satirical cartoons, china-japan row ratchets up online" }
+JPaaddwmaCstm@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:44 PM_
+Japan pm sanae takaichi defends taiwan remarks after chinese criticism" }
+JpsaCdmitarkiwm@{ shape: win-pane, label: "_Published Nov 10, 2025, 02:00 PM_
+Japan protests against china diplomat’s violent threat over pm takaichi’s taiwan remark" }
+ChuaSTcriioi@{ shape: win-pane, label: "_Published Nov 02, 2025, 11:37 AM_
+China hits out at japan’s sanae takaichi for meeting taiwan’s officials" }
+Onamcslwrahi@{ shape: win-pane, label: "_Published Nov 20, 2025, 12:38 PM_
+Offhand remark, symbolic suit signal long winter for japan-china ties" }
+Ceaaptefoea@{ shape: win-pane, label: "_Published Nov 17, 2025, 04:17 PM_
+China escalates japan spat with threats of economic reprisal" }
+Ispflatbeatri@{ shape: win-pane, label: "_Published Nov 19, 2025, 07:18 PM_
+Images of japan official appearing to bow before china counterpart go viral" }
+
+PmtnagpRat:::txtsize --> Mrigama:::txtsize
+Mrigama:::txtsize --> TnSpteftss:::txtsize
+PmtnagpRat:::txtsize --> Fisorcoipwhpn:::txtsize
+Fisorcoipwhpn:::txtsize --> JPaaddwmaCstm:::txtsize
+JPaaddwmaCstm:::txtsize --> JpsaCdmitarkiwm:::txtsize
+JPaaddwmaCstm:::txtsize --> ChuaSTcriioi:::txtsize
+Fisorcoipwhpn:::txtsize --> Onamcslwrahi:::txtsize
+Onamcslwrahi:::txtsize --> Ceaaptefoea:::txtsize
+Onamcslwrahi:::txtsize --> Ispflatbeatri:::txtsize
+
+RlCenleuger@{ shape: win-pane, label: "_Published Jan 07, 2026, 07:25 PM_
+Republican congressman lamalfa dies at 65, cutting house majority" }
+Ttsuawtimlic@{ shape: win-pane, label: "_Published Jan 07, 2026, 01:30 AM_
+Trump to house republicans: if we don’t win midterms, i will get impeached" }
+TnCrdsdpsdnk@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:34 AM_
+The kennedy center board votes to add ‘trump’ to its name, drawing backlash" }
+TteeaohotvKdt@{ shape: win-pane, label: "_Published Feb 08, 2025, 09:30 AM_
+Trump to make himself head of top washington cultural venue kennedy centre" }
+Tperoneisioh@{ shape: win-pane, label: "_Published Mar 18, 2025, 12:15 PM_
+Trump pledges overhaul of kennedy centre in first visit as board chair" }
+Tiencyit@{ shape: win-pane, label: "_Published Jan 06, 2026, 02:00 PM_
+Trump is unleashing forces beyond his control" }
 TsSnzaraeu@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
 Trump says us to run venezuela after raid captures maduro" }
-Usrrfrreiscrs@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:44 AM_
-Us coast guard searches for survivors after strike on suspected drug vessels" }
-Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
-Trump’s maduro capture is about drugs, immigrants and china" }
+UmMryrtitaihp@{ shape: win-pane, label: "_Published Nov 22, 2025, 10:04 AM_
+Us lawmaker marjorie taylor greene to resign after spat, split with trump" }
+TwrutomyoaGe@{ shape: win-pane, label: "_Published Nov 15, 2025, 02:43 PM_
+Trump withdraws support for long-time ally marjorie taylor greene" }
+Lsounenonmr@{ shape: win-pane, label: "_Published Nov 13, 2025, 12:01 PM_
+Longest us govt shutdown is over but new showdowns loom for trump" }
+TsBrnuertlEie@{ shape: win-pane, label: "_Published Nov 20, 2025, 10:06 AM_
+Trump signs bill ordering us justice department to release epstein files" }
+Ugpsufrspnsitm@{ shape: win-pane, label: "_Published Nov 19, 2025, 04:23 AM_
+Us congress passes measure to force release of epstein files, sending it to trump" }
+Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
+Epstein files to be released to us public: what are they?" }
 
-AVuirarurassk:::txtsize --> Iienytnldlniorcr:::txtsize
-Iienytnldlniorcr:::txtsize --> Tsrtstsgsh:::txtsize
-Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
-Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
-Iienytnldlniorcr:::txtsize --> Ucnatugasnlss:::txtsize
-Ucnatugasnlss:::txtsize --> Tnsenm:::txtsize
-Ucnatugasnlss:::txtsize --> Aanetrtziksoree:::txtsize
-AVuirarurassk:::txtsize --> HueetnreMer:::txtsize
-HueetnreMer:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-HueetnreMer:::txtsize --> TsSnzaraeu:::txtsize
-TsSnzaraeu:::txtsize --> Usrrfrreiscrs:::txtsize
-TsSnzaraeu:::txtsize --> Tsrtstsgsh:::txtsize
+RlCenleuger:::txtsize --> Ttsuawtimlic:::txtsize
+Ttsuawtimlic:::txtsize --> TnCrdsdpsdnk:::txtsize
+TnCrdsdpsdnk:::txtsize --> TteeaohotvKdt:::txtsize
+TnCrdsdpsdnk:::txtsize --> Tperoneisioh:::txtsize
+Ttsuawtimlic:::txtsize --> Tiencyit:::txtsize
+Tiencyit:::txtsize --> TsSnzaraeu:::txtsize
+RlCenleuger:::txtsize --> UmMryrtitaihp:::txtsize
+UmMryrtitaihp:::txtsize --> TwrutomyoaGe:::txtsize
+TwrutomyoaGe:::txtsize --> Lsounenonmr:::txtsize
+UmMryrtitaihp:::txtsize --> TsBrnuertlEie:::txtsize
+TsBrnuertlEie:::txtsize --> Ugpsufrspnsitm:::txtsize
+TsBrnuertlEie:::txtsize --> Eieeaobhe:::txtsize
 
-CreoiMoetwubee@{ shape: win-pane, label: "_Published Jan 07, 2026, 03:30 PM_
-‘comfortable for long flights’: maduro’s nike sweatsuit was bound to become a meme" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
-Trump says not winning nobel peace prize would be ‘insult’ to us" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
-Us military says it carried out strikes on three vessels in eastern pacific" }
-Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
-Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
-Utfrlmuinuiama@{ shape: win-pane, label: "_Published Jan 05, 2026, 11:45 PM_
-Us capture of maduro could prompt caution in china’s courtship of latin america" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-CstoeueiwjaUtMo@{ shape: win-pane, label: "_Published Jan 05, 2026, 09:35 AM_
-China says it cannot accept countries acting as ‘world judge’ after us captures maduro" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-VuMogaodkalnty@{ shape: win-pane, label: "_Published Jan 05, 2026, 07:20 AM_
-Venezuela’s maduro being held at a troubled brooklyn jail following capture by us" }
+Eesscadlpi@{ shape: win-pane, label: "_Published Jan 07, 2026, 07:16 PM_
+Europe faces transport chaos as deadly cold snap persists" }
+SaerdadgEe@{ shape: win-pane, label: "_Published Jan 07, 2026, 02:11 AM_
+Six dead in weather accidents as cold snap grips europe" }
+Knodnipssa@{ shape: win-pane, label: "_Published Jan 06, 2026, 11:21 PM_
+Klm running out of de-icing fluid for planes in amsterdam" }
+IlpshEeuge@{ shape: win-pane, label: "_Published Jan 06, 2026, 08:50 PM_
+Icy cold snap grips swathes of europe, disrupting travel" }
+ActsrrsUuec@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:00 AM_
+Arctic blast grips central, north-eastern us in sub-freezing cold" }
+Nyhsrcn@{ shape: win-pane, label: "_Published Jan 07, 2026, 06:24 PM_
+Norway sees hottest year on record in 2025" }
+Eeaeetiste@{ shape: win-pane, label: "_Published Jul 09, 2025, 12:42 PM_
+European heatwave caused 2,300 deaths, scientists estimate" }
+Biootusrishr@{ shape: win-pane, label: "_Published Jan 02, 2026, 09:04 PM_
+Britain records hottest and sunniest year ever in 2025, says weather service" }
+SaerdadgEe@{ shape: win-pane, label: "_Published Jan 07, 2026, 02:11 AM_
+Six dead in weather accidents as cold snap grips europe" }
+Knodnipssa@{ shape: win-pane, label: "_Published Jan 06, 2026, 11:21 PM_
+Klm running out of de-icing fluid for planes in amsterdam" }
+IlpshEeuge@{ shape: win-pane, label: "_Published Jan 06, 2026, 08:50 PM_
+Icy cold snap grips swathes of europe, disrupting travel" }
+ActsrrsUuec@{ shape: win-pane, label: "_Published Dec 06, 2025, 08:00 AM_
+Arctic blast grips central, north-eastern us in sub-freezing cold" }
+Nyhsrcn@{ shape: win-pane, label: "_Published Jan 07, 2026, 06:24 PM_
+Norway sees hottest year on record in 2025" }
+Eeaeetiste@{ shape: win-pane, label: "_Published Jul 09, 2025, 12:42 PM_
+European heatwave caused 2,300 deaths, scientists estimate" }
+Biootusrishr@{ shape: win-pane, label: "_Published Jan 02, 2026, 09:04 PM_
+Britain records hottest and sunniest year ever in 2025, says weather service" }
 
-CreoiMoetwubee:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
-Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
-Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
-CreoiMoetwubee:::txtsize --> Utfrlmuinuiama:::txtsize
-Utfrlmuinuiama:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Utfrlmuinuiama:::txtsize --> CstoeueiwjaUtMo:::txtsize
-CstoeueiwjaUtMo:::txtsize --> UtVuMorkms:::txtsize
-CstoeueiwjaUtMo:::txtsize --> VuMogaodkalnty:::txtsize
-
-Ristrnoase@{ shape: win-pane, label: "_Published Jan 07, 2026, 02:15 PM_
-Rob reiner’s son set for arraignment over parents’ murder" }
-Uivgghoorreafpni@{ shape: win-pane, label: "_Published Dec 15, 2025, 11:45 AM_
-Us police investigating deaths of hollywood director rob reiner and wife as apparent homicide" }
-WfHaroetimsrit@{ shape: win-pane, label: "_Published Apr 16, 2025, 09:39 AM_
-Wife of gene hackman searched online about flu-like symptoms before their deaths" }
-Lcecsdttltraht@{ shape: win-pane, label: "_Published Mar 18, 2025, 02:00 PM_
-Late actor gene hackman’s wife died at least a day later than originally thought" }
-PfnoGaneqihecn@{ shape: win-pane, label: "_Published Feb 28, 2025, 05:49 AM_
-Pills found near body of gene hackman’s wife as inquiry into their deaths continues" }
-TnalaCCuuaoa@{ shape: win-pane, label: "_Published Mar 16, 2025, 05:51 PM_
-Taiwanese martial arts actor chang chen-huan found dead at home at age 65" }
-Duklrruosrers@{ shape: win-pane, label: "_Published Feb 16, 2025, 06:00 PM_
-Dee hsu thanks public for their tributes to late sister, actress barbie hsu" }
-FTnuaeLins@{ shape: win-pane, label: "_Published Dec 04, 2024, 05:50 PM_
-Famed taiwanese musician-director liu chia-chang dies at 81" }
-Sfaonpirhsrdn@{ shape: win-pane, label: "_Published Dec 18, 2025, 02:35 AM_
-Son of film-maker rob reiner appears in court on charges he murdered parents" }
-Nesgwresnst@{ shape: win-pane, label: "_Published Dec 16, 2025, 12:22 PM_
-Nick reiner’s struggles with drugs left his parents ‘desperate’" }
-Uivgghoorreafpni@{ shape: win-pane, label: "_Published Dec 15, 2025, 11:45 AM_
-Us police investigating deaths of hollywood director rob reiner and wife as apparent homicide" }
-Risrdaseudddi@{ shape: win-pane, label: "_Published Dec 16, 2025, 04:39 AM_
-Rob reiner’s son, arrested for parents’ murder, struggled with drug addiction" }
-Uivgghoorreafpni@{ shape: win-pane, label: "_Published Dec 15, 2025, 11:45 AM_
-Us police investigating deaths of hollywood director rob reiner and wife as apparent homicide" }
-WfHaroetimsrit@{ shape: win-pane, label: "_Published Apr 16, 2025, 09:39 AM_
-Wife of gene hackman searched online about flu-like symptoms before their deaths" }
-TnalaCCuuaoa@{ shape: win-pane, label: "_Published Mar 16, 2025, 05:51 PM_
-Taiwanese martial arts actor chang chen-huan found dead at home at age 65" }
-
-Ristrnoase:::txtsize --> Uivgghoorreafpni:::txtsize
-Uivgghoorreafpni:::txtsize --> WfHaroetimsrit:::txtsize
-WfHaroetimsrit:::txtsize --> Lcecsdttltraht:::txtsize
-WfHaroetimsrit:::txtsize --> PfnoGaneqihecn:::txtsize
-Uivgghoorreafpni:::txtsize --> TnalaCCuuaoa:::txtsize
-TnalaCCuuaoa:::txtsize --> Duklrruosrers:::txtsize
-TnalaCCuuaoa:::txtsize --> FTnuaeLins:::txtsize
-Ristrnoase:::txtsize --> Sfaonpirhsrdn:::txtsize
-Sfaonpirhsrdn:::txtsize --> Nesgwresnst:::txtsize
-Nesgwresnst:::txtsize --> Uivgghoorreafpni:::txtsize
-Nesgwresnst:::txtsize --> Risrdaseudddi:::txtsize
-Sfaonpirhsrdn:::txtsize --> Uivgghoorreafpni:::txtsize
-Uivgghoorreafpni:::txtsize --> WfHaroetimsrit:::txtsize
-Uivgghoorreafpni:::txtsize --> TnalaCCuuaoa:::txtsize
+Eesscadlpi:::txtsize --> SaerdadgEe:::txtsize
+SaerdadgEe:::txtsize --> Knodnipssa:::txtsize
+Knodnipssa:::txtsize --> IlpshEeuge:::txtsize
+Knodnipssa:::txtsize --> ActsrrsUuec:::txtsize
+SaerdadgEe:::txtsize --> Nyhsrcn:::txtsize
+Nyhsrcn:::txtsize --> Eeaeetiste:::txtsize
+Nyhsrcn:::txtsize --> Biootusrishr:::txtsize
+Eesscadlpi:::txtsize --> SaerdadgEe:::txtsize
+SaerdadgEe:::txtsize --> Knodnipssa:::txtsize
+Knodnipssa:::txtsize --> IlpshEeuge:::txtsize
+Knodnipssa:::txtsize --> ActsrrsUuec:::txtsize
+SaerdadgEe:::txtsize --> Nyhsrcn:::txtsize
+Nyhsrcn:::txtsize --> Eeaeetiste:::txtsize
+Nyhsrcn:::txtsize --> Biootusrishr:::txtsize
 
 ```
-<i>Last updated: 2026-01-07 16:01:07.930508 (GMT+8)</i>
+<i>Last updated: 2026-01-07 20:01:30.087697 (GMT+8)</i>
 <!-- END -->
