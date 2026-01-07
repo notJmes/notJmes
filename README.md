@@ -16,54 +16,8 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-UenogryiieCsaik@{ shape: win-pane, label: "_Published Jan 07, 2026, 03:50 AM_
-Us government is ‘working feverishly’ on nvidia licences for china, ship date still unknown" }
-Naawnsalte@{ shape: win-pane, label: "_Published Jan 06, 2026, 08:15 AM_
-Nvidia ceo says new rubin chips on track, helping to speed ai" }
-Cahsodcaesiee@{ shape: win-pane, label: "_Published Jan 05, 2026, 07:45 PM_
-Ces 2026: brands showcase ai-powered devices that offer personalised services" }
-Bgdrstepcglehgoon@{ shape: win-pane, label: "_Published Jan 05, 2026, 01:01 PM_
-Baggage-handling robots, smart systems to predict flight delays: new tech being explored for changi’s t5" }
-Oottedorf@{ shape: win-pane, label: "_Published Dec 29, 2025, 05:00 AM_
-2026 outlook: what’s next for tech – and the top stories of 2025" }
-TnCisesunsaniuc@{ shape: win-pane, label: "_Published Dec 31, 2025, 10:15 AM_
-Taiwan’s tsmc says it has started mass production of ‘most advanced’ 2nm semiconductor chips" }
-Tegwaneh@{ shape: win-pane, label: "_Published Dec 31, 2025, 10:15 AM_
-Tiny tech, big ai power: what are 2-nanometre chips?" }
-Cfrtaaigsaba@{ shape: win-pane, label: "_Published Dec 30, 2025, 08:41 AM_
-China fires rockets towards taiwan in war games simulating blockade" }
-NaneeGednb@{ shape: win-pane, label: "_Published Dec 26, 2025, 08:42 AM_
-Nvidia expands ai empire with groq tech and talent grab" }
-MsontIitogstf@{ shape: win-pane, label: "_Published Mar 22, 2024, 09:15 AM_
-Microsoft to pay inflection ai $873 million after scooping up most of its staff" }
-Msisoseveni@{ shape: win-pane, label: "_Published Mar 15, 2024, 08:40 AM_
-Microsoft singles out google’s competitive edge in generative ai" }
-Msnsdestsupgl@{ shape: win-pane, label: "_Published Feb 07, 2024, 07:50 PM_
-Microsoft in talks to end trade body’s eu antitrust cloud-computing complaint" }
-MaanmnekC@{ shape: win-pane, label: "_Published Jun 13, 2025, 12:40 PM_
-Meta makes major investment in scale ai, takes in ceo" }
-MosecfoSeear@{ shape: win-pane, label: "_Published Jun 12, 2025, 08:22 AM_
-Meta poaches top researchers from google, sesame for new ai lab: sources" }
-Socrsornlta@{ shape: win-pane, label: "_Published Jun 11, 2025, 10:58 AM_
-Snap to launch smart glasses for users in 2026 in challenge to meta" }
-
-UenogryiieCsaik:::txtsize --> Naawnsalte:::txtsize
-Naawnsalte:::txtsize --> Cahsodcaesiee:::txtsize
-Cahsodcaesiee:::txtsize --> Bgdrstepcglehgoon:::txtsize
-Cahsodcaesiee:::txtsize --> Oottedorf:::txtsize
-Naawnsalte:::txtsize --> TnCisesunsaniuc:::txtsize
-TnCisesunsaniuc:::txtsize --> Tegwaneh:::txtsize
-TnCisesunsaniuc:::txtsize --> Cfrtaaigsaba:::txtsize
-UenogryiieCsaik:::txtsize --> NaneeGednb:::txtsize
-NaneeGednb:::txtsize --> MsontIitogstf:::txtsize
-MsontIitogstf:::txtsize --> Msisoseveni:::txtsize
-MsontIitogstf:::txtsize --> Msnsdestsupgl:::txtsize
-NaneeGednb:::txtsize --> MaanmnekC:::txtsize
-MaanmnekC:::txtsize --> MosecfoSeear:::txtsize
-MaanmnekC:::txtsize --> Socrsornlta:::txtsize
-
-Ucialeeuirslda@{ shape: win-pane, label: "_Published Jan 07, 2026, 03:34 AM_
-Us forces said to have killed 55 venezuelan, cuban military personnel in maduro raid" }
+Vurfocarba@{ shape: win-pane, label: "_Published Jan 07, 2026, 07:46 AM_
+Venezuela braces for economic collapse from us blockade" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
 Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
@@ -78,79 +32,77 @@ Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
 Us military says it carried out strikes on three vessels in eastern pacific" }
 Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
 Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
-Iienytnldlniorcr@{ shape: win-pane, label: "_Published Jan 06, 2026, 12:23 AM_
-‘i am still president of my country’: venezuela’s maduro pleads not guilty to us narcotics charges" }
-Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
-Trump’s maduro capture is about drugs, immigrants and china" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
-Who is venezuela’s president nicolas maduro?" }
-Ucnatugasnlss@{ shape: win-pane, label: "_Published Jan 06, 2026, 12:32 AM_
-Us oil companies gain after trump signals access to venezuela’s reserves" }
-Tnsenm@{ shape: win-pane, label: "_Published Jan 05, 2026, 06:00 PM_
-Trump now has his very own oil empire" }
-Aanetrtziksoree@{ shape: win-pane, label: "_Published Jan 05, 2026, 06:00 PM_
-About a dozen loaded oil tankers left venezuela in dark mode, says monitoring service" }
 
-Ucialeeuirslda:::txtsize --> UtVuMorkms:::txtsize
+Vurfocarba:::txtsize --> UtVuMorkms:::txtsize
 UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
 Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
 Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
 UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
 Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
 Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
-Ucialeeuirslda:::txtsize --> Iienytnldlniorcr:::txtsize
-Iienytnldlniorcr:::txtsize --> Tsrtstsgsh:::txtsize
+
+Anonecsfguitrl@{ shape: win-pane, label: "_Published Jan 07, 2026, 07:38 AM_
+Amazon ai tool blindsides merchants by offering products without their knowledge" }
+OIseea@{ shape: win-pane, label: "_Published Dec 30, 2025, 06:02 PM_
+Openai faces a make-or-break year in 2026" }
+DdarnhOIetirNa@{ shape: win-pane, label: "_Published Dec 16, 2025, 10:41 AM_
+‘doomed and haemorrhaging cash’: will openai be the next tech giant or next netscape?" }
+OIsaniorsarui@{ shape: win-pane, label: "_Published Nov 04, 2025, 05:20 AM_
+Openai turns to amazon in $50 billion cloud services deal after restructuring" }
+OIAnsrapsle@{ shape: win-pane, label: "_Published Dec 03, 2025, 08:58 AM_
+Openai’s sam altman urges ‘code red’ chatgpt push as rivals move in" }
+
+Anonecsfguitrl:::txtsize --> OIseea:::txtsize
+OIseea:::txtsize --> DdarnhOIetirNa:::txtsize
+DdarnhOIetirNa:::txtsize --> OIsaniorsarui:::txtsize
+DdarnhOIetirNa:::txtsize --> OIAnsrapsle:::txtsize
+
+Cahoaoreatos@{ shape: win-pane, label: "_Published Jan 07, 2026, 06:56 AM_
+Caracas, washington in talks to export venezuelan oil to us, sources say" }
+TttoiWHaVu@{ shape: win-pane, label: "_Published Jan 07, 2026, 06:20 AM_
+Trump to meet oil companies at white house about venezuela" }
+Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
+Trump’s maduro capture is about drugs, immigrants and china" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
+Who is venezuela’s president nicolas maduro?" }
+TdotceetUt@{ shape: win-pane, label: "_Published Jan 06, 2026, 07:03 PM_
+Trump does not want to occupy venezuela, us tells un meeting" }
+TsSnzaraeu@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
+Trump says us to run venezuela after raid captures maduro" }
+TsSnzaraeu@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
+Trump says us to run venezuela after raid captures maduro" }
+TttoiWHaVu@{ shape: win-pane, label: "_Published Jan 07, 2026, 06:20 AM_
+Trump to meet oil companies at white house about venezuela" }
+Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
+Trump’s maduro capture is about drugs, immigrants and china" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
+Who is venezuela’s president nicolas maduro?" }
+TdotceetUt@{ shape: win-pane, label: "_Published Jan 06, 2026, 07:03 PM_
+Trump does not want to occupy venezuela, us tells un meeting" }
+TsSnzaraeu@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
+Trump says us to run venezuela after raid captures maduro" }
+TsSnzaraeu@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
+Trump says us to run venezuela after raid captures maduro" }
+
+Cahoaoreatos:::txtsize --> TttoiWHaVu:::txtsize
+TttoiWHaVu:::txtsize --> Tsrtstsgsh:::txtsize
 Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
 Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
-Iienytnldlniorcr:::txtsize --> Ucnatugasnlss:::txtsize
-Ucnatugasnlss:::txtsize --> Tnsenm:::txtsize
-Ucnatugasnlss:::txtsize --> Aanetrtziksoree:::txtsize
-
-Gnernrrnrlu@{ shape: win-pane, label: "_Published Jan 07, 2026, 03:19 AM_
-German prosecutors launch ‘terror’ probe into berlin blackout" }
-Tfsilcsow@{ shape: win-pane, label: "_Published Jan 04, 2026, 12:14 AM_
-Tens of thousands in berlin face days without power" }
-Gdsoesodifiatarl@{ shape: win-pane, label: "_Published May 14, 2025, 09:32 PM_
-Granada substation power loss pinpointed as origin of massive blackout in spain, portugal" }
-Lnmiluhe@{ shape: win-pane, label: "_Published May 04, 2025, 06:00 PM_
-Lessons from the first blackout of the green era" }
-Pbstfutiadu@{ shape: win-pane, label: "_Published Apr 29, 2025, 05:00 AM_
-Power begins to return after huge outage hits spain and portugal" }
-SbwrnSbhhybo@{ shape: win-pane, label: "_Published Apr 28, 2025, 10:45 PM_
-Scramble to withdraw money as spain brought to a halt by huge blackout" }
-Houpyafnoa@{ shape: win-pane, label: "_Published Apr 28, 2025, 08:57 PM_
-Huge power outage paralyses parts of spain and portugal" }
-Aioaesiriea@{ shape: win-pane, label: "_Published Jan 05, 2026, 09:26 AM_
-Activist group claims responsibility for berlin power outage" }
-Bnrakexeiais@{ shape: win-pane, label: "_Published Jan 05, 2026, 12:15 AM_
-Berlin power grid attack caused by ‘extreme leftists’, say officials" }
-Tfsilcsow@{ shape: win-pane, label: "_Published Jan 04, 2026, 12:14 AM_
-Tens of thousands in berlin face days without power" }
-Perpsccrao@{ shape: win-pane, label: "_Published Aug 01, 2025, 05:54 PM_
-Police in germany probe suspected acts of railway sabotage" }
-Tfsilcsow@{ shape: win-pane, label: "_Published Jan 04, 2026, 12:14 AM_
-Tens of thousands in berlin face days without power" }
-Gdsoesodifiatarl@{ shape: win-pane, label: "_Published May 14, 2025, 09:32 PM_
-Granada substation power loss pinpointed as origin of massive blackout in spain, portugal" }
-Pbstfutiadu@{ shape: win-pane, label: "_Published Apr 29, 2025, 05:00 AM_
-Power begins to return after huge outage hits spain and portugal" }
-
-Gnernrrnrlu:::txtsize --> Tfsilcsow:::txtsize
-Tfsilcsow:::txtsize --> Gdsoesodifiatarl:::txtsize
-Gdsoesodifiatarl:::txtsize --> Lnmiluhe:::txtsize
-Tfsilcsow:::txtsize --> Pbstfutiadu:::txtsize
-Pbstfutiadu:::txtsize --> SbwrnSbhhybo:::txtsize
-Pbstfutiadu:::txtsize --> Houpyafnoa:::txtsize
-Gnernrrnrlu:::txtsize --> Aioaesiriea:::txtsize
-Aioaesiriea:::txtsize --> Bnrakexeiais:::txtsize
-Bnrakexeiais:::txtsize --> Tfsilcsow:::txtsize
-Bnrakexeiais:::txtsize --> Perpsccrao:::txtsize
-Aioaesiriea:::txtsize --> Tfsilcsow:::txtsize
-Tfsilcsow:::txtsize --> Gdsoesodifiatarl:::txtsize
-Tfsilcsow:::txtsize --> Pbstfutiadu:::txtsize
+TttoiWHaVu:::txtsize --> TdotceetUt:::txtsize
+TdotceetUt:::txtsize --> TsSnzaraeu:::txtsize
+TdotceetUt:::txtsize --> TsSnzaraeu:::txtsize
+Cahoaoreatos:::txtsize --> TttoiWHaVu:::txtsize
+TttoiWHaVu:::txtsize --> Tsrtstsgsh:::txtsize
+Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
+Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
+TttoiWHaVu:::txtsize --> TdotceetUt:::txtsize
+TdotceetUt:::txtsize --> TsSnzaraeu:::txtsize
+TdotceetUt:::txtsize --> TsSnzaraeu:::txtsize
 
 ```
-<i>Last updated: 2026-01-07 04:00:59.424691 (GMT+8)</i>
+<i>Last updated: 2026-01-07 08:00:18.764575 (GMT+8)</i>
 <!-- END -->
