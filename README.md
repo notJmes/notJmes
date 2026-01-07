@@ -16,8 +16,8 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Vurfocarba@{ shape: win-pane, label: "_Published Jan 07, 2026, 07:46 AM_
-Venezuela braces for economic collapse from us blockade" }
+CbullgzaUiyi@{ shape: win-pane, label: "_Published Jan 07, 2026, 11:19 AM_
+Colombian guerrillas fleeing venezuela after us strike, says officer" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
 Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
@@ -32,77 +32,125 @@ Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
 Us military says it carried out strikes on three vessels in eastern pacific" }
 Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
 Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
+Iienytnldlniorcr@{ shape: win-pane, label: "_Published Jan 06, 2026, 12:23 AM_
+‘i am still president of my country’: venezuela’s maduro pleads not guilty to us narcotics charges" }
+Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
+Trump’s maduro capture is about drugs, immigrants and china" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
+Who is venezuela’s president nicolas maduro?" }
+Ucnatugasnlss@{ shape: win-pane, label: "_Published Jan 06, 2026, 12:32 AM_
+Us oil companies gain after trump signals access to venezuela’s reserves" }
+Tnsenm@{ shape: win-pane, label: "_Published Jan 05, 2026, 06:00 PM_
+Trump now has his very own oil empire" }
+Aanetrtziksoree@{ shape: win-pane, label: "_Published Jan 05, 2026, 06:00 PM_
+About a dozen loaded oil tankers left venezuela in dark mode, says monitoring service" }
 
-Vurfocarba:::txtsize --> UtVuMorkms:::txtsize
+CbullgzaUiyi:::txtsize --> UtVuMorkms:::txtsize
 UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
 Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
 Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
 UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
 Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
 Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
+CbullgzaUiyi:::txtsize --> Iienytnldlniorcr:::txtsize
+Iienytnldlniorcr:::txtsize --> Tsrtstsgsh:::txtsize
+Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
+Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
+Iienytnldlniorcr:::txtsize --> Ucnatugasnlss:::txtsize
+Ucnatugasnlss:::txtsize --> Tnsenm:::txtsize
+Ucnatugasnlss:::txtsize --> Aanetrtziksoree:::txtsize
 
-Anonecsfguitrl@{ shape: win-pane, label: "_Published Jan 07, 2026, 07:38 AM_
-Amazon ai tool blindsides merchants by offering products without their knowledge" }
-OIseea@{ shape: win-pane, label: "_Published Dec 30, 2025, 06:02 PM_
-Openai faces a make-or-break year in 2026" }
-DdarnhOIetirNa@{ shape: win-pane, label: "_Published Dec 16, 2025, 10:41 AM_
-‘doomed and haemorrhaging cash’: will openai be the next tech giant or next netscape?" }
-OIsaniorsarui@{ shape: win-pane, label: "_Published Nov 04, 2025, 05:20 AM_
-Openai turns to amazon in $50 billion cloud services deal after restructuring" }
-OIAnsrapsle@{ shape: win-pane, label: "_Published Dec 03, 2025, 08:58 AM_
-Openai’s sam altman urges ‘code red’ chatgpt push as rivals move in" }
+Crtiehdosa@{ shape: win-pane, label: "_Published Jan 07, 2026, 11:07 AM_
+Cia turncoat aldrich ames, who helped the soviets, dies at 84" }
+Stitgdeoepni@{ shape: win-pane, label: "_Published Jun 08, 2025, 08:00 AM_
+Secret russian intelligence document shows deep suspicion of china" }
+Xmlalalsrautsias@{ shape: win-pane, label: "_Published Jun 06, 2025, 09:20 PM_
+Xi-trump call signals political will to resume trade talks but obstacles remain, say analysts" }
+Tsatreytos@{ shape: win-pane, label: "_Published Jun 05, 2025, 09:33 PM_
+Trump says call with xi produced ‘very positive conclusion’" }
+RabpeoinasgrdwS@{ shape: win-pane, label: "_Published Jun 06, 2025, 02:51 PM_
+Russia sees bleak prospects for expiring nuclear arms pact given ‘ruined’ ties with us" }
+TpdnGnmlehanolr@{ shape: win-pane, label: "_Published May 21, 2025, 05:07 AM_
+Trump picks design for $226b golden dome missile defence shield, appoints project leader" }
+Untbotunemgducyca@{ shape: win-pane, label: "_Published Jun 02, 2025, 03:13 AM_
+Ukraine destroys $9 billion worth of russian bombers in major ground assault, security official says" }
+Uwpisarosdey@{ shape: win-pane, label: "_Published Oct 14, 2025, 02:14 AM_
+Uk’s mi5 warns politicians they are targets of russia and chinese spying" }
+Bssoydeiseiiylu@{ shape: win-pane, label: "_Published Oct 08, 2025, 03:47 AM_
+British prosecutors say they did ‘everything possible’ to bring china spy trial to court" }
+Upenocdyon@{ shape: win-pane, label: "_Published Sep 15, 2025, 06:20 PM_
+Uk drops case against two men accused of spying for china" }
+Uiawwpfi@{ shape: win-pane, label: "_Published Apr 22, 2024, 10:10 PM_
+Uk police charge two men with spying for china" }
+BsisiPrCpysg@{ shape: win-pane, label: "_Published Oct 13, 2025, 06:42 AM_
+British ministers criticise pm starmer’s china policy amid spying row" }
+Upenocdyon@{ shape: win-pane, label: "_Published Sep 15, 2025, 06:20 PM_
+Uk drops case against two men accused of spying for china" }
+Hnruosd@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:32 AM_
+How donald trump pulled off his gaza deal" }
 
-Anonecsfguitrl:::txtsize --> OIseea:::txtsize
-OIseea:::txtsize --> DdarnhOIetirNa:::txtsize
-DdarnhOIetirNa:::txtsize --> OIsaniorsarui:::txtsize
-DdarnhOIetirNa:::txtsize --> OIAnsrapsle:::txtsize
+Crtiehdosa:::txtsize --> Stitgdeoepni:::txtsize
+Stitgdeoepni:::txtsize --> Xmlalalsrautsias:::txtsize
+Xmlalalsrautsias:::txtsize --> Tsatreytos:::txtsize
+Stitgdeoepni:::txtsize --> RabpeoinasgrdwS:::txtsize
+RabpeoinasgrdwS:::txtsize --> TpdnGnmlehanolr:::txtsize
+RabpeoinasgrdwS:::txtsize --> Untbotunemgducyca:::txtsize
+Crtiehdosa:::txtsize --> Uwpisarosdey:::txtsize
+Uwpisarosdey:::txtsize --> Bssoydeiseiiylu:::txtsize
+Bssoydeiseiiylu:::txtsize --> Upenocdyon:::txtsize
+Bssoydeiseiiylu:::txtsize --> Uiawwpfi:::txtsize
+Uwpisarosdey:::txtsize --> BsisiPrCpysg:::txtsize
+BsisiPrCpysg:::txtsize --> Upenocdyon:::txtsize
+BsisiPrCpysg:::txtsize --> Hnruosd:::txtsize
 
-Cahoaoreatos@{ shape: win-pane, label: "_Published Jan 07, 2026, 06:56 AM_
-Caracas, washington in talks to export venezuelan oil to us, sources say" }
-TttoiWHaVu@{ shape: win-pane, label: "_Published Jan 07, 2026, 06:20 AM_
-Trump to meet oil companies at white house about venezuela" }
+Usnnlgzttsdc@{ shape: win-pane, label: "_Published Jan 07, 2026, 10:51 AM_
+Us adds more nations, including venezuela, to costly visa bond policy" }
+Uieidsotnineo@{ shape: win-pane, label: "_Published Aug 04, 2025, 10:59 PM_
+Us may impose up to $19,300 in bonds for some tourist, business visas under new pilot" }
+Tseonsifeoe@{ shape: win-pane, label: "_Published Jun 08, 2025, 06:07 PM_
+Trump’s travel ban on 12 countries goes into effect early on june 9" }
+Tbinmtidyrtlt@{ shape: win-pane, label: "_Published Jun 05, 2025, 07:46 AM_
+Trump bans citizens from 12 countries, including myanmar, from travelling to us" }
+MtCaoteslu@{ shape: win-pane, label: "_Published Jun 02, 2025, 06:15 AM_
+Man attacks colorado crowd with firebombs, 8 people injured" }
+Ulcetlaritt@{ shape: win-pane, label: "_Published Jul 22, 2025, 11:35 AM_
+Us will soon charge most travellers an extra $320 in ‘visa integrity fee’" }
+Tulsloraesfn@{ shape: win-pane, label: "_Published Apr 04, 2025, 05:11 PM_
+Trump unveils first $6.6 million ‘gold card’ visa – pricey version of green card" }
+Tvudfeneusfmaa@{ shape: win-pane, label: "_Published Apr 22, 2025, 10:39 AM_
+Trump visa cuts and tariff hikes turn chinese students away from american dream" }
+Iienytnldlniorcr@{ shape: win-pane, label: "_Published Jan 06, 2026, 12:23 AM_
+‘i am still president of my country’: venezuela’s maduro pleads not guilty to us narcotics charges" }
 Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
 Trump’s maduro capture is about drugs, immigrants and china" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
 WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
 Who is venezuela’s president nicolas maduro?" }
-TdotceetUt@{ shape: win-pane, label: "_Published Jan 06, 2026, 07:03 PM_
-Trump does not want to occupy venezuela, us tells un meeting" }
-TsSnzaraeu@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
-Trump says us to run venezuela after raid captures maduro" }
-TsSnzaraeu@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
-Trump says us to run venezuela after raid captures maduro" }
-TttoiWHaVu@{ shape: win-pane, label: "_Published Jan 07, 2026, 06:20 AM_
-Trump to meet oil companies at white house about venezuela" }
-Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
-Trump’s maduro capture is about drugs, immigrants and china" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
-Who is venezuela’s president nicolas maduro?" }
-TdotceetUt@{ shape: win-pane, label: "_Published Jan 06, 2026, 07:03 PM_
-Trump does not want to occupy venezuela, us tells un meeting" }
-TsSnzaraeu@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
-Trump says us to run venezuela after raid captures maduro" }
-TsSnzaraeu@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
-Trump says us to run venezuela after raid captures maduro" }
+Ucnatugasnlss@{ shape: win-pane, label: "_Published Jan 06, 2026, 12:32 AM_
+Us oil companies gain after trump signals access to venezuela’s reserves" }
+Tnsenm@{ shape: win-pane, label: "_Published Jan 05, 2026, 06:00 PM_
+Trump now has his very own oil empire" }
+Aanetrtziksoree@{ shape: win-pane, label: "_Published Jan 05, 2026, 06:00 PM_
+About a dozen loaded oil tankers left venezuela in dark mode, says monitoring service" }
 
-Cahoaoreatos:::txtsize --> TttoiWHaVu:::txtsize
-TttoiWHaVu:::txtsize --> Tsrtstsgsh:::txtsize
+Usnnlgzttsdc:::txtsize --> Uieidsotnineo:::txtsize
+Uieidsotnineo:::txtsize --> Tseonsifeoe:::txtsize
+Tseonsifeoe:::txtsize --> Tbinmtidyrtlt:::txtsize
+Tseonsifeoe:::txtsize --> MtCaoteslu:::txtsize
+Uieidsotnineo:::txtsize --> Ulcetlaritt:::txtsize
+Ulcetlaritt:::txtsize --> Tulsloraesfn:::txtsize
+Ulcetlaritt:::txtsize --> Tvudfeneusfmaa:::txtsize
+Usnnlgzttsdc:::txtsize --> Iienytnldlniorcr:::txtsize
+Iienytnldlniorcr:::txtsize --> Tsrtstsgsh:::txtsize
 Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
 Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
-TttoiWHaVu:::txtsize --> TdotceetUt:::txtsize
-TdotceetUt:::txtsize --> TsSnzaraeu:::txtsize
-TdotceetUt:::txtsize --> TsSnzaraeu:::txtsize
-Cahoaoreatos:::txtsize --> TttoiWHaVu:::txtsize
-TttoiWHaVu:::txtsize --> Tsrtstsgsh:::txtsize
-Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
-Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
-TttoiWHaVu:::txtsize --> TdotceetUt:::txtsize
-TdotceetUt:::txtsize --> TsSnzaraeu:::txtsize
-TdotceetUt:::txtsize --> TsSnzaraeu:::txtsize
+Iienytnldlniorcr:::txtsize --> Ucnatugasnlss:::txtsize
+Ucnatugasnlss:::txtsize --> Tnsenm:::txtsize
+Ucnatugasnlss:::txtsize --> Aanetrtziksoree:::txtsize
 
 ```
-<i>Last updated: 2026-01-07 08:00:18.764575 (GMT+8)</i>
+<i>Last updated: 2026-01-07 12:00:43.673463 (GMT+8)</i>
 <!-- END -->
