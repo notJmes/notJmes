@@ -16,141 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Fesrfiafete@{ shape: win-pane, label: "_Published Jan 07, 2026, 11:14 PM_
-France halts imports of food with traces of banned pesticides" }
-EcdedrsBeoo@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:56 PM_
-Eu-mercosur deal delayed as farmers stage brussels show of force" }
-Ereeweuccrlpi@{ shape: win-pane, label: "_Published Sep 03, 2025, 12:19 PM_
-Eu to propose trade deal with mercosur bloc, in face of france-led opposition" }
-EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
-Eu reaches long-sought mercosur deal over macron’s objections" }
-EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
-Eu reaches long-sought mercosur deal over macron’s objections" }
-Gniebeudtrrt@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:20 PM_
-Germany, spain urge eu to back mercosur trade pact, but france resists" }
-EcdedrsBeoo@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:56 PM_
-Eu-mercosur deal delayed as farmers stage brussels show of force" }
-EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
-Eu reaches long-sought mercosur deal over macron’s objections" }
-Eereftleeudl@{ shape: win-pane, label: "_Published Jan 06, 2026, 11:06 PM_
-Eu offers farmers extra funds to quell anger at mercosur trade deal" }
-EcdedrsBeoo@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:56 PM_
-Eu-mercosur deal delayed as farmers stage brussels show of force" }
-Ereeweuccrlpi@{ shape: win-pane, label: "_Published Sep 03, 2025, 12:19 PM_
-Eu to propose trade deal with mercosur bloc, in face of france-led opposition" }
-Gniebeudtrrt@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:20 PM_
-Germany, spain urge eu to back mercosur trade pact, but france resists" }
-EcdedrsBeoo@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:56 PM_
-Eu-mercosur deal delayed as farmers stage brussels show of force" }
-Ereeweuccrlpi@{ shape: win-pane, label: "_Published Sep 03, 2025, 12:19 PM_
-Eu to propose trade deal with mercosur bloc, in face of france-led opposition" }
-Gniebeudtrrt@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:20 PM_
-Germany, spain urge eu to back mercosur trade pact, but france resists" }
+Vudiocdsho@{ shape: win-pane, label: "_Published Jan 08, 2026, 02:39 AM_
+Venezuela’s decisions to be ‘dictated’ by us, says white house" }
+UneeslernsnR@{ shape: win-pane, label: "_Published Jan 08, 2026, 01:51 AM_
+Us plan for venezuela is stability, recovery, then transition, says rubio" }
+Vudiocdsho@{ shape: win-pane, label: "_Published Jan 08, 2026, 02:39 AM_
+Venezuela’s decisions to be ‘dictated’ by us, says white house" }
+UneeslernsnR@{ shape: win-pane, label: "_Published Jan 08, 2026, 01:51 AM_
+Us plan for venezuela is stability, recovery, then transition, says rubio" }
+TsteznnCpsen@{ shape: win-pane, label: "_Published Jan 07, 2026, 07:56 PM_
+Trump’s plan to take venezuelan oil angers china, pushes prices down" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+TseesitoiU@{ shape: win-pane, label: "_Published Jan 07, 2026, 08:20 AM_
+Trump says venezuela to send oil worth up to $3.6 billion to us" }
 
-Fesrfiafete:::txtsize --> EcdedrsBeoo:::txtsize
-EcdedrsBeoo:::txtsize --> Ereeweuccrlpi:::txtsize
-Ereeweuccrlpi:::txtsize --> EcoueulMnen:::txtsize
-Ereeweuccrlpi:::txtsize --> EcoueulMnen:::txtsize
-EcdedrsBeoo:::txtsize --> Gniebeudtrrt:::txtsize
-Gniebeudtrrt:::txtsize --> EcdedrsBeoo:::txtsize
-Gniebeudtrrt:::txtsize --> EcoueulMnen:::txtsize
-Fesrfiafete:::txtsize --> Eereftleeudl:::txtsize
-Eereftleeudl:::txtsize --> EcdedrsBeoo:::txtsize
-EcdedrsBeoo:::txtsize --> Ereeweuccrlpi:::txtsize
-EcdedrsBeoo:::txtsize --> Gniebeudtrrt:::txtsize
-Eereftleeudl:::txtsize --> EcdedrsBeoo:::txtsize
-EcdedrsBeoo:::txtsize --> Ereeweuccrlpi:::txtsize
-EcdedrsBeoo:::txtsize --> Gniebeudtrrt:::txtsize
+Vudiocdsho:::txtsize --> UneeslernsnR:::txtsize
+UneeslernsnR:::txtsize --> Vudiocdsho:::txtsize
+Vudiocdsho:::txtsize --> UneeslernsnR:::txtsize
+UneeslernsnR:::txtsize --> TsteznnCpsen:::txtsize
+TsteznnCpsen:::txtsize --> UtVuMorkms:::txtsize
+TsteznnCpsen:::txtsize --> TseesitoiU:::txtsize
 
-ZsyosnqcsblRacra@{ shape: win-pane, label: "_Published Jan 07, 2026, 10:42 PM_
-Zelensky says europeans gave no ‘unequivocal answer’ about plan if russia attacks ukraine again" }
-UkugnframKasr@{ shape: win-pane, label: "_Published Jan 07, 2026, 04:11 AM_
-Us backs security guarantees for ukraine at summit of kyiv’s allies in paris" }
-RaiirriaKioyi@{ shape: win-pane, label: "_Published Jan 06, 2026, 06:30 AM_
-Russian strikes hit energy targets in ukraine’s kharkiv, us company in dnipro" }
-Ungodwrisypnao@{ shape: win-pane, label: "_Published Jan 05, 2026, 07:35 AM_
-Ukraine targets moscow daily with drones in 2026, russia says, in apparent escalation" }
-Zssrttiiusu@{ shape: win-pane, label: "_Published Jan 05, 2026, 08:51 PM_
-Zelensky ousts ukraine top intel chief amid security shake-up" }
-UtLereteirnsot@{ shape: win-pane, label: "_Published Jan 07, 2026, 01:06 AM_
-Us pentagon, lockheed strike deal to triple patriot air defence missile output" }
-Unlywlmiefesei@{ shape: win-pane, label: "_Published Nov 16, 2025, 04:39 AM_
-Ukraine’s zelensky renews calls for more air defence after deadly strike on kyiv" }
-Uasemfpkedtbln@{ shape: win-pane, label: "_Published Jan 07, 2026, 08:46 PM_
-Uk’s starmer says deployment of troops to ukraine would be voted on by parliament" }
-UnhmrbCsssiy@{ shape: win-pane, label: "_Published Jan 07, 2026, 09:46 PM_
-Ukraine pushes eu membership bid as cyprus takes bloc’s presidency" }
-UndasiiEfas@{ shape: win-pane, label: "_Published Dec 13, 2025, 12:16 AM_
-Us plan to end the war sees ukraine joining eu in 2027, official says" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
-UkugnframKasr@{ shape: win-pane, label: "_Published Jan 07, 2026, 04:11 AM_
-Us backs security guarantees for ukraine at summit of kyiv’s allies in paris" }
-RaiirriaKioyi@{ shape: win-pane, label: "_Published Jan 06, 2026, 06:30 AM_
-Russian strikes hit energy targets in ukraine’s kharkiv, us company in dnipro" }
-UtLereteirnsot@{ shape: win-pane, label: "_Published Jan 07, 2026, 01:06 AM_
-Us pentagon, lockheed strike deal to triple patriot air defence missile output" }
-
-ZsyosnqcsblRacra:::txtsize --> UkugnframKasr:::txtsize
-UkugnframKasr:::txtsize --> RaiirriaKioyi:::txtsize
-RaiirriaKioyi:::txtsize --> Ungodwrisypnao:::txtsize
-RaiirriaKioyi:::txtsize --> Zssrttiiusu:::txtsize
-UkugnframKasr:::txtsize --> UtLereteirnsot:::txtsize
-UtLereteirnsot:::txtsize --> Unlywlmiefesei:::txtsize
-ZsyosnqcsblRacra:::txtsize --> Uasemfpkedtbln:::txtsize
-Uasemfpkedtbln:::txtsize --> UnhmrbCsssiy:::txtsize
-UnhmrbCsssiy:::txtsize --> UndasiiEfas:::txtsize
-UnhmrbCsssiy:::txtsize --> DsruasvUn:::txtsize
-Uasemfpkedtbln:::txtsize --> UkugnframKasr:::txtsize
-UkugnframKasr:::txtsize --> RaiirriaKioyi:::txtsize
-UkugnframKasr:::txtsize --> UtLereteirnsot:::txtsize
-
-Uznlksfetrrspi@{ shape: win-pane, label: "_Published Jan 07, 2026, 10:41 PM_
-Us seizes venezuela-linked, russian-flagged oil tanker after weeks-long pursuit" }
-Ustonenlis@{ shape: win-pane, label: "_Published Dec 21, 2025, 11:56 PM_
-Us pursuing third oil tanker near venezuela: officials" }
-Uettreeofay@{ shape: win-pane, label: "_Published Dec 21, 2025, 12:31 AM_
-Us intercepts oil tanker off venezuelan coast, officials say" }
-Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
-Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
-Us military says it carried out strikes on three vessels in eastern pacific" }
-Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
-Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
+Netiafldmood@{ shape: win-pane, label: "_Published Jan 08, 2026, 02:26 AM_
+‘never expected this’: creator of viral ai maduro image comes forward" }
+CreoiMoetwubee@{ shape: win-pane, label: "_Published Jan 07, 2026, 03:30 PM_
+‘comfortable for long flights’: maduro’s nike sweatsuit was bound to become a meme" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
 Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
 Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
-Trump says not winning nobel peace prize would be ‘insult’ to us" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
 Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
 Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
-Us military says it carried out strikes on three vessels in eastern pacific" }
-Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
-Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
+Utfrlmuinuiama@{ shape: win-pane, label: "_Published Jan 05, 2026, 11:45 PM_
+Us capture of maduro could prompt caution in china’s courtship of latin america" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+CstoeueiwjaUtMo@{ shape: win-pane, label: "_Published Jan 05, 2026, 09:35 AM_
+China says it cannot accept countries acting as ‘world judge’ after us captures maduro" }
+AVuirarurassk@{ shape: win-pane, label: "_Published Jan 07, 2026, 03:45 PM_
+After venezuela, five targets appear in trump’s crosshairs. is it just talk?" }
+Iienytnldlniorcr@{ shape: win-pane, label: "_Published Jan 06, 2026, 12:23 AM_
+‘i am still president of my country’: venezuela’s maduro pleads not guilty to us narcotics charges" }
+Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
+Trump’s maduro capture is about drugs, immigrants and china" }
+Ucnatugasnlss@{ shape: win-pane, label: "_Published Jan 06, 2026, 12:32 AM_
+Us oil companies gain after trump signals access to venezuela’s reserves" }
+twoaTsaause@{ shape: win-pane, label: "_Published Dec 06, 2025, 07:14 PM_
+5 takeaways for asia from trump’s new national security strategy" }
 
-Uznlksfetrrspi:::txtsize --> Ustonenlis:::txtsize
-Ustonenlis:::txtsize --> Uettreeofay:::txtsize
-Uettreeofay:::txtsize --> Uzlecoeapageo:::txtsize
-Uettreeofay:::txtsize --> Toskftdasitgz:::txtsize
-Ustonenlis:::txtsize --> Toskftdasitgz:::txtsize
-Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
-Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
-Uznlksfetrrspi:::txtsize --> UtVuMorkms:::txtsize
+Netiafldmood:::txtsize --> CreoiMoetwubee:::txtsize
+CreoiMoetwubee:::txtsize --> UtVuMorkms:::txtsize
 UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
-Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
 UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
-Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
+CreoiMoetwubee:::txtsize --> Utfrlmuinuiama:::txtsize
+Utfrlmuinuiama:::txtsize --> UtVuMorkms:::txtsize
+Utfrlmuinuiama:::txtsize --> CstoeueiwjaUtMo:::txtsize
+Netiafldmood:::txtsize --> AVuirarurassk:::txtsize
+AVuirarurassk:::txtsize --> Iienytnldlniorcr:::txtsize
+Iienytnldlniorcr:::txtsize --> Tsrtstsgsh:::txtsize
+Iienytnldlniorcr:::txtsize --> Ucnatugasnlss:::txtsize
+AVuirarurassk:::txtsize --> twoaTsaause:::txtsize
+
+Taesireensee@{ shape: win-pane, label: "_Published Jan 08, 2026, 01:59 AM_
+Trump ‘actively’ discussing purchase of greenland, says white house" }
+TdsharedlyypWH@{ shape: win-pane, label: "_Published Jan 07, 2026, 05:46 AM_
+Trump discussing how to acquire greenland; us military always an option: white house" }
+Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
+Trump’s maduro capture is about drugs, immigrants and china" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
+Who is venezuela’s president nicolas maduro?" }
+EearbdnienUe@{ shape: win-pane, label: "_Published Jan 06, 2026, 09:26 PM_
+European leaders rally behind greenland in face of renewed us interest" }
+Trsteed@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:16 PM_
+Trump renews push to annex greenland" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+CTsrGllN@{ shape: win-pane, label: "_Published Jan 07, 2026, 09:34 PM_
+Could trump’s desire for greenland blow up nato?" }
+TdsharedlyypWH@{ shape: win-pane, label: "_Published Jan 07, 2026, 05:46 AM_
+Trump discussing how to acquire greenland; us military always an option: white house" }
+Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
+Trump’s maduro capture is about drugs, immigrants and china" }
+EearbdnienUe@{ shape: win-pane, label: "_Published Jan 06, 2026, 09:26 PM_
+European leaders rally behind greenland in face of renewed us interest" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+
+Taesireensee:::txtsize --> TdsharedlyypWH:::txtsize
+TdsharedlyypWH:::txtsize --> Tsrtstsgsh:::txtsize
+Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
+Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
+TdsharedlyypWH:::txtsize --> EearbdnienUe:::txtsize
+EearbdnienUe:::txtsize --> Trsteed:::txtsize
+EearbdnienUe:::txtsize --> UtVuMorkms:::txtsize
+Taesireensee:::txtsize --> CTsrGllN:::txtsize
+CTsrGllN:::txtsize --> TdsharedlyypWH:::txtsize
+TdsharedlyypWH:::txtsize --> Tsrtstsgsh:::txtsize
+TdsharedlyypWH:::txtsize --> EearbdnienUe:::txtsize
+CTsrGllN:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
 
 ```
-<i>Last updated: 2026-01-08 00:00:55.326179 (GMT+8)</i>
+<i>Last updated: 2026-01-08 04:00:17.970520 (GMT+8)</i>
 <!-- END -->
