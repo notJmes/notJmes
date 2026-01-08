@@ -16,132 +16,132 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-WsNayelo@{ shape: win-pane, label: "_Published Jan 08, 2026, 11:50 AM_
-What is the unfccc and why is the us pulling out?" }
-TwrSdsttlni@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:46 AM_
-Trump withdraws us from dozens of international organisations" }
-WHdWTOiomodu@{ shape: win-pane, label: "_Published Sep 04, 2025, 09:05 AM_
-White house drops world trade organisation from list of funding cuts" }
-Frhtsbusoomr@{ shape: win-pane, label: "_Published Sep 04, 2025, 08:26 AM_
-Fed survey shows strains felt by us businesses, households amid tariffs" }
-Tufcladegsdl@{ shape: win-pane, label: "_Published Sep 04, 2025, 05:15 AM_
-Trump unlawfully cancelled harvard’s research grants, us judge rules" }
-Tbsregderts@{ shape: win-pane, label: "_Published Sep 24, 2025, 12:57 AM_
-Trump blasts un for not helping us-led peace efforts, but backs it 100%" }
-TtUtaastogl@{ shape: win-pane, label: "_Published Sep 24, 2025, 12:17 AM_
-Trump tells un that climate change is ‘greatest con job’ globally" }
-TwdrcWlytic@{ shape: win-pane, label: "_Published Sep 23, 2025, 11:37 PM_
-Trump warns drug traffickers: ‘we will blow you out of existence’" }
-TwrSdsttlni@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:46 AM_
-Trump withdraws us from dozens of international organisations" }
-WHdWTOiomodu@{ shape: win-pane, label: "_Published Sep 04, 2025, 09:05 AM_
-White house drops world trade organisation from list of funding cuts" }
-Frhtsbusoomr@{ shape: win-pane, label: "_Published Sep 04, 2025, 08:26 AM_
-Fed survey shows strains felt by us businesses, households amid tariffs" }
-Tufcladegsdl@{ shape: win-pane, label: "_Published Sep 04, 2025, 05:15 AM_
-Trump unlawfully cancelled harvard’s research grants, us judge rules" }
-Tbsregderts@{ shape: win-pane, label: "_Published Sep 24, 2025, 12:57 AM_
-Trump blasts un for not helping us-led peace efforts, but backs it 100%" }
-TtUtaastogl@{ shape: win-pane, label: "_Published Sep 24, 2025, 12:17 AM_
-Trump tells un that climate change is ‘greatest con job’ globally" }
-TwdrcWlytic@{ shape: win-pane, label: "_Published Sep 23, 2025, 11:37 PM_
-Trump warns drug traffickers: ‘we will blow you out of existence’" }
+sgareeuruabeugeg@{ shape: win-pane, label: "_Published Jan 08, 2026, 03:50 PM_
+50 sheep go on baa-zarre adventure through german supermarket, before ewe-turning and leaving" }
+Decslnairtfrriisr@{ shape: win-pane, label: "_Published Dec 15, 2025, 05:45 PM_
+Drunken raccoon a serial offender, says animal protection officer after virginia liquor store raid" }
+StacriSorskaobo@{ shape: win-pane, label: "_Published Dec 03, 2025, 01:38 PM_
+‘spirit animal’: raccoon breaks into us liquor store, gets drunk and passes out in bathroom" }
+Aahhnrhfomaerdyi@{ shape: win-pane, label: "_Published Nov 14, 2025, 08:30 PM_
+Ay, caramba! chihuahua lands forever home after foster mum learns he understands only spanish" }
+Aahhnrhfomaerdyi@{ shape: win-pane, label: "_Published Nov 14, 2025, 08:30 PM_
+Ay, caramba! chihuahua lands forever home after foster mum learns he understands only spanish" }
+LHtuefedddidac@{ shape: win-pane, label: "_Published Sep 29, 2025, 10:00 PM_
+Lewis hamilton mourns death of his beloved bulldog and f1 social media star roscoe" }
+Mnflnekulun@{ shape: win-pane, label: "_Published Nov 13, 2025, 01:34 PM_
+Missing dog finally found after 7 weeks in australia’s bushland" }
+Mnoshiirnr@{ shape: win-pane, label: "_Published Dec 10, 2025, 03:40 PM_
+Moo dunnit? dog lets bull, horse into living room in australia" }
+StacriSorskaobo@{ shape: win-pane, label: "_Published Dec 03, 2025, 01:38 PM_
+‘spirit animal’: raccoon breaks into us liquor store, gets drunk and passes out in bathroom" }
+Aahhnrhfomaerdyi@{ shape: win-pane, label: "_Published Nov 14, 2025, 08:30 PM_
+Ay, caramba! chihuahua lands forever home after foster mum learns he understands only spanish" }
+Gnisbadskersyi@{ shape: win-pane, label: "_Published Aug 10, 2023, 07:30 PM_
+Golden retriever stops burglar dead in his tracks – by being irresistibly adoring" }
+Jenpeocmrdhnn@{ shape: win-pane, label: "_Published Jul 27, 2023, 07:45 PM_
+Japanese man who spent nearly $20,000 on dog costume shares video of his fun outing" }
 
-WsNayelo:::txtsize --> TwrSdsttlni:::txtsize
-TwrSdsttlni:::txtsize --> WHdWTOiomodu:::txtsize
-WHdWTOiomodu:::txtsize --> Frhtsbusoomr:::txtsize
-WHdWTOiomodu:::txtsize --> Tufcladegsdl:::txtsize
-TwrSdsttlni:::txtsize --> Tbsregderts:::txtsize
-Tbsregderts:::txtsize --> TtUtaastogl:::txtsize
-Tbsregderts:::txtsize --> TwdrcWlytic:::txtsize
-WsNayelo:::txtsize --> TwrSdsttlni:::txtsize
-TwrSdsttlni:::txtsize --> WHdWTOiomodu:::txtsize
-WHdWTOiomodu:::txtsize --> Frhtsbusoomr:::txtsize
-WHdWTOiomodu:::txtsize --> Tufcladegsdl:::txtsize
-TwrSdsttlni:::txtsize --> Tbsregderts:::txtsize
-Tbsregderts:::txtsize --> TtUtaastogl:::txtsize
-Tbsregderts:::txtsize --> TwdrcWlytic:::txtsize
+sgareeuruabeugeg:::txtsize --> Decslnairtfrriisr:::txtsize
+Decslnairtfrriisr:::txtsize --> StacriSorskaobo:::txtsize
+StacriSorskaobo:::txtsize --> Aahhnrhfomaerdyi:::txtsize
+Decslnairtfrriisr:::txtsize --> Aahhnrhfomaerdyi:::txtsize
+Aahhnrhfomaerdyi:::txtsize --> LHtuefedddidac:::txtsize
+Aahhnrhfomaerdyi:::txtsize --> Mnflnekulun:::txtsize
+sgareeuruabeugeg:::txtsize --> Mnoshiirnr:::txtsize
+Mnoshiirnr:::txtsize --> StacriSorskaobo:::txtsize
+StacriSorskaobo:::txtsize --> Aahhnrhfomaerdyi:::txtsize
+Mnoshiirnr:::txtsize --> Gnisbadskersyi:::txtsize
+Gnisbadskersyi:::txtsize --> Jenpeocmrdhnn:::txtsize
 
-RaUzfaieaeli@{ shape: win-pane, label: "_Published Jan 08, 2026, 11:33 AM_
-Russia says us seizure of oil tanker is illegal, lawmaker calls it piracy" }
-Uznlksfetrrspi@{ shape: win-pane, label: "_Published Jan 07, 2026, 10:41 PM_
-Us seizes venezuela-linked, russian-flagged oil tanker after weeks-long pursuit" }
-Ustonenlis@{ shape: win-pane, label: "_Published Dec 21, 2025, 11:56 PM_
-Us pursuing third oil tanker near venezuela: officials" }
-Uettreeofay@{ shape: win-pane, label: "_Published Dec 21, 2025, 12:31 AM_
-Us intercepts oil tanker off venezuelan coast, officials say" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
-Trump says not winning nobel peace prize would be ‘insult’ to us" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
-Us military says it carried out strikes on three vessels in eastern pacific" }
-Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
-Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
+PsFheiasrn@{ shape: win-pane, label: "_Published Jan 08, 2026, 03:25 PM_
+Protesting french farmers bring tractors to paris centre" }
+Fetrrlciosmos@{ shape: win-pane, label: "_Published Dec 19, 2025, 01:14 AM_
+France drafts in army for cattle vaccinations to defuse farmer protests" }
+Shurcmlovwal@{ shape: win-pane, label: "_Published Dec 14, 2025, 03:12 AM_
+‘stop the slaughter’: french farmers block roads over cow disease cull" }
+Bleprnewiir@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:10 AM_
+Bird flu wiped out poultry, and now the screw worm is coming for beef" }
+Blbboaaaet@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:25 AM_
+Bird flu may be airborne on us dairy farms, say scientists" }
+EcdedrsBeoo@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:56 PM_
+Eu-mercosur deal delayed as farmers stage brussels show of force" }
+Ereeweuccrlpi@{ shape: win-pane, label: "_Published Sep 03, 2025, 12:19 PM_
+Eu to propose trade deal with mercosur bloc, in face of france-led opposition" }
+Gniebeudtrrt@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:20 PM_
+Germany, spain urge eu to back mercosur trade pact, but france resists" }
+Gniebeudtrrt@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:20 PM_
+Germany, spain urge eu to back mercosur trade pact, but france resists" }
+EcdedrsBeoo@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:56 PM_
+Eu-mercosur deal delayed as farmers stage brussels show of force" }
+Ereeweuccrlpi@{ shape: win-pane, label: "_Published Sep 03, 2025, 12:19 PM_
+Eu to propose trade deal with mercosur bloc, in face of france-led opposition" }
+Gniebeudtrrt@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:20 PM_
+Germany, spain urge eu to back mercosur trade pact, but france resists" }
+EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
+Eu reaches long-sought mercosur deal over macron’s objections" }
+Wulearhma@{ shape: win-pane, label: "_Published Nov 07, 2024, 08:34 AM_
+Why trump’s plan to escalate tariffs has so many haters" }
+Fgferytter@{ shape: win-pane, label: "_Published Nov 06, 2024, 10:27 PM_
+Facing tariff threat, europe eyes options to appease trump" }
 
-RaUzfaieaeli:::txtsize --> Uznlksfetrrspi:::txtsize
-Uznlksfetrrspi:::txtsize --> Ustonenlis:::txtsize
-Ustonenlis:::txtsize --> Uettreeofay:::txtsize
-Ustonenlis:::txtsize --> Toskftdasitgz:::txtsize
-Uznlksfetrrspi:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-RaUzfaieaeli:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
-Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
-Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
+PsFheiasrn:::txtsize --> Fetrrlciosmos:::txtsize
+Fetrrlciosmos:::txtsize --> Shurcmlovwal:::txtsize
+Shurcmlovwal:::txtsize --> Bleprnewiir:::txtsize
+Shurcmlovwal:::txtsize --> Blbboaaaet:::txtsize
+Fetrrlciosmos:::txtsize --> EcdedrsBeoo:::txtsize
+EcdedrsBeoo:::txtsize --> Ereeweuccrlpi:::txtsize
+EcdedrsBeoo:::txtsize --> Gniebeudtrrt:::txtsize
+PsFheiasrn:::txtsize --> Gniebeudtrrt:::txtsize
+Gniebeudtrrt:::txtsize --> EcdedrsBeoo:::txtsize
+EcdedrsBeoo:::txtsize --> Ereeweuccrlpi:::txtsize
+EcdedrsBeoo:::txtsize --> Gniebeudtrrt:::txtsize
+Gniebeudtrrt:::txtsize --> EcoueulMnen:::txtsize
+EcoueulMnen:::txtsize --> Wulearhma:::txtsize
+EcoueulMnen:::txtsize --> Fgferytter:::txtsize
 
-ChdleUgicttiimp@{ shape: win-pane, label: "_Published Jan 08, 2026, 10:52 AM_
-China hacked e-mail systems of us congressional committee staff: financial times report" }
-Cseanarueainio@{ shape: win-pane, label: "_Published Jan 05, 2026, 12:10 PM_
-Chinese cyberattacks on taiwan infrastructure averaged 2.6 million a day in 2025: report" }
-Hirgripihaaado@{ shape: win-pane, label: "_Published Jul 19, 2025, 04:45 PM_
-How china’s growing cyber-hacking capabilities have raised alarm around the world" }
-Ccfrrpntbeiepm@{ shape: win-pane, label: "_Published Jul 18, 2025, 07:34 PM_
-Critical infrastructure in s’pore under attack by cyber espionage group: shanmugam" }
-Tncshercroel@{ shape: win-pane, label: "_Published Oct 14, 2025, 04:45 PM_
-Taiwan detects rise in chinese cyber attacks, warns of ‘online troll army’" }
-Cseanaenrmoyp@{ shape: win-pane, label: "_Published Jan 06, 2025, 01:21 PM_
-Chinese cyber attacks on taiwan government averaged 2.4 million a day in 2024: report" }
-Cosrdhraeama@{ shape: win-pane, label: "_Published Jun 05, 2025, 09:11 AM_
-China offers cash rewards for hackers it says are taiwanese military" }
-Cskcucroibedd@{ shape: win-pane, label: "_Published Dec 05, 2025, 06:10 AM_
-Chinese-linked hackers use back door for potential ‘sabotage’, us and canada say" }
-HriIacsadlas@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:40 AM_
-Hackers strike us ivy league schools already under political pressure" }
-Jemecmemtsbil@{ shape: win-pane, label: "_Published Oct 23, 2025, 11:30 AM_
-Japanese companies brace themselves for more attacks as cybercrimes climb" }
-CsaUeodoetis@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:00 AM_
-China sees gaps in us defences, ousted national security official says" }
+Noerlceosaele@{ shape: win-pane, label: "_Published Jan 08, 2026, 02:11 PM_
+Nasa considers rare early iss crew return over astronaut’s medical issue" }
+RosvptnuattS@{ shape: win-pane, label: "_Published Nov 13, 2025, 11:01 PM_
+Race for first private space station hots up as nasa set to retire iss" }
+AptpanloctoesS@{ shape: win-pane, label: "_Published Oct 14, 2024, 02:50 PM_
+Aerospace start-up vast announces plans for space station to succeed nasa’s iss" }
+Isetasaneeaeeoa@{ shape: win-pane, label: "_Published Oct 14, 2024, 10:36 AM_
+India’s space strategy: harness data and tiny satellites to capture market beyond spacex" }
+NproyhpsEaar@{ shape: win-pane, label: "_Published Oct 14, 2024, 02:11 AM_
+Nasa spacecraft to study whether jupiter’s moon europa can harbour life" }
+NotvrtrEoia@{ shape: win-pane, label: "_Published Apr 20, 2025, 05:05 PM_
+Nasa’s oldest active astronaut returns to earth on 70th birthday" }
+Urtdocpadoaas@{ shape: win-pane, label: "_Published Mar 18, 2025, 01:02 AM_
+Us astronauts head home on spacex capsule after drawn-out space station stay" }
+Biistcholils@{ shape: win-pane, label: "_Published Apr 17, 2025, 02:15 PM_
+Bringing a little spice to space with the monse blue origin flight suits" }
+Raslolnotde@{ shape: win-pane, label: "_Published Dec 24, 2025, 09:13 PM_
+Russia plans a nuclear power plant on the moon within a decade" }
+Tuanoniespyr@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:50 AM_
+Trump urges 2028 astronaut moon landing in sweeping space policy order" }
+Caarjsladtrr@{ shape: win-pane, label: "_Published Dec 10, 2025, 11:47 PM_
+China and brazil create joint space laboratory, despite us pressure" }
+NccDiscteoap@{ shape: win-pane, label: "_Published Aug 05, 2025, 07:25 AM_
+Nasa acting chief duffy issues directive to speed up moon reactor plans" }
+TnTpteafiiana@{ shape: win-pane, label: "_Published Jul 10, 2025, 10:16 AM_
+Trump names transportation secretary duffy as interim nasa administrator" }
+UsphtootnFdt@{ shape: win-pane, label: "_Published Aug 01, 2025, 05:44 AM_
+Us, russian space chiefs talk moon cooperation in rare florida meeting" }
 
-ChdleUgicttiimp:::txtsize --> Cseanarueainio:::txtsize
-Cseanarueainio:::txtsize --> Hirgripihaaado:::txtsize
-Hirgripihaaado:::txtsize --> Ccfrrpntbeiepm:::txtsize
-Cseanarueainio:::txtsize --> Tncshercroel:::txtsize
-Tncshercroel:::txtsize --> Cseanaenrmoyp:::txtsize
-Tncshercroel:::txtsize --> Cosrdhraeama:::txtsize
-ChdleUgicttiimp:::txtsize --> Cskcucroibedd:::txtsize
-Cskcucroibedd:::txtsize --> HriIacsadlas:::txtsize
-HriIacsadlas:::txtsize --> Jemecmemtsbil:::txtsize
-HriIacsadlas:::txtsize --> CsaUeodoetis:::txtsize
+Noerlceosaele:::txtsize --> RosvptnuattS:::txtsize
+RosvptnuattS:::txtsize --> AptpanloctoesS:::txtsize
+AptpanloctoesS:::txtsize --> Isetasaneeaeeoa:::txtsize
+AptpanloctoesS:::txtsize --> NproyhpsEaar:::txtsize
+RosvptnuattS:::txtsize --> NotvrtrEoia:::txtsize
+NotvrtrEoia:::txtsize --> Urtdocpadoaas:::txtsize
+NotvrtrEoia:::txtsize --> Biistcholils:::txtsize
+Noerlceosaele:::txtsize --> Raslolnotde:::txtsize
+Raslolnotde:::txtsize --> Tuanoniespyr:::txtsize
+Tuanoniespyr:::txtsize --> Caarjsladtrr:::txtsize
+Raslolnotde:::txtsize --> NccDiscteoap:::txtsize
+NccDiscteoap:::txtsize --> TnTpteafiiana:::txtsize
+NccDiscteoap:::txtsize --> UsphtootnFdt:::txtsize
 
 ```
-<i>Last updated: 2026-01-08 12:01:15.271775 (GMT+8)</i>
+<i>Last updated: 2026-01-08 16:00:50.891756 (GMT+8)</i>
 <!-- END -->
