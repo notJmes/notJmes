@@ -16,117 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-EihaiYayaraene@{ shape: win-pane, label: "_Published Jan 08, 2026, 11:41 PM_
-Explainer: what’s happening in yemen, and why are saudi arabia and the uae involved?" }
-Slaosnrteinh@{ shape: win-pane, label: "_Published Jan 08, 2026, 12:36 PM_
-Saudi-led coalition says yemen separatist leader arrives in abu dhabi" }
-Ulrraster@{ shape: win-pane, label: "_Published Jan 03, 2026, 05:40 PM_
-Uae calls for restraint amid escalating yemen crisis" }
-Rhsoenntals@{ shape: win-pane, label: "_Published Jan 03, 2026, 03:20 PM_
-Riyadh urges dialogue between yemeni factions amid clashes" }
-FfnrteporsSUnse@{ shape: win-pane, label: "_Published Jan 07, 2026, 12:36 PM_
-Fate of yemen separatist leader deepens southern crisis as saudi-uae tensions linger" }
-TsrdmloeJfl@{ shape: win-pane, label: "_Published Jan 06, 2026, 06:50 PM_
-Tourists stranded on yemen island to leave from jan 7: official" }
-Spnngiteeidrgint@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:49 PM_
-Singaporean woman among 420 tourists stranded on yemeni island amid rising tensions in country" }
-tsuidihdYfi@{ shape: win-pane, label: "_Published Jan 05, 2026, 09:04 PM_
-400 tourists stuck on island as flights halted over yemen fighting" }
-Ulrraster@{ shape: win-pane, label: "_Published Jan 03, 2026, 05:40 PM_
-Uae calls for restraint amid escalating yemen crisis" }
-Rhsoenntals@{ shape: win-pane, label: "_Published Jan 03, 2026, 03:20 PM_
-Riyadh urges dialogue between yemeni factions amid clashes" }
-Spnngiteeidrgint@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:49 PM_
-Singaporean woman among 420 tourists stranded on yemeni island amid rising tensions in country" }
-Ulrraster@{ shape: win-pane, label: "_Published Jan 03, 2026, 05:40 PM_
-Uae calls for restraint amid escalating yemen crisis" }
+EeoGonredadou@{ shape: win-pane, label: "_Published Jan 09, 2026, 03:33 AM_
+Eu orders x to keep grok documents for longer, amid sexualised ai photos furore" }
+Bislsoetefbht@{ shape: win-pane, label: "_Published Jan 06, 2026, 11:56 PM_
+Britain presses elon musk’s x to address  intimate ‘deepfakes’ by ai chatbot grok" }
+EssuogMGIslfoo@{ shape: win-pane, label: "_Published Jan 05, 2026, 09:20 PM_
+Eu says it is ‘seriously looking’ into musk’s grok ai over sexual deepfakes of minors" }
+Atrsxmootpngs@{ shape: win-pane, label: "_Published Jan 02, 2026, 08:15 PM_
+Ai chatbot grok posts sexual images of minors after ‘lapses in safeguards’" }
+EernbhncneTtwos@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:05 PM_
+Eu fines x more than $180m for breaching online content rules, tiktok settles with concessions" }
+MsaniarnGm@{ shape: win-pane, label: "_Published Jan 04, 2026, 02:35 PM_
+Malaysia, france, india hit out at x for ‘offensive’ grok images" }
+Atrsxmootpngs@{ shape: win-pane, label: "_Published Jan 02, 2026, 08:15 PM_
+Ai chatbot grok posts sexual images of minors after ‘lapses in safeguards’" }
+Atrsxmootpngs@{ shape: win-pane, label: "_Published Jan 02, 2026, 08:15 PM_
+Ai chatbot grok posts sexual images of minors after ‘lapses in safeguards’" }
+GnsaoetvogEupo@{ shape: win-pane, label: "_Published Jan 07, 2026, 01:15 AM_
+German minister calls for eu legal steps over grok images on elon musk’s x platform" }
+Bislsoetefbht@{ shape: win-pane, label: "_Published Jan 06, 2026, 11:56 PM_
+Britain presses elon musk’s x to address  intimate ‘deepfakes’ by ai chatbot grok" }
+EssuogMGIslfoo@{ shape: win-pane, label: "_Published Jan 05, 2026, 09:20 PM_
+Eu says it is ‘seriously looking’ into musk’s grok ai over sexual deepfakes of minors" }
+MsaniarnGm@{ shape: win-pane, label: "_Published Jan 04, 2026, 02:35 PM_
+Malaysia, france, india hit out at x for ‘offensive’ grok images" }
+EssuogMGIslfoo@{ shape: win-pane, label: "_Published Jan 05, 2026, 09:20 PM_
+Eu says it is ‘seriously looking’ into musk’s grok ai over sexual deepfakes of minors" }
+Atrsxmootpngs@{ shape: win-pane, label: "_Published Jan 02, 2026, 08:15 PM_
+Ai chatbot grok posts sexual images of minors after ‘lapses in safeguards’" }
+EernbhncneTtwos@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:05 PM_
+Eu fines x more than $180m for breaching online content rules, tiktok settles with concessions" }
 
-EihaiYayaraene:::txtsize --> Slaosnrteinh:::txtsize
-Slaosnrteinh:::txtsize --> Ulrraster:::txtsize
-Ulrraster:::txtsize --> Rhsoenntals:::txtsize
-Slaosnrteinh:::txtsize --> FfnrteporsSUnse:::txtsize
-FfnrteporsSUnse:::txtsize --> TsrdmloeJfl:::txtsize
-FfnrteporsSUnse:::txtsize --> Spnngiteeidrgint:::txtsize
-EihaiYayaraene:::txtsize --> tsuidihdYfi:::txtsize
-tsuidihdYfi:::txtsize --> Ulrraster:::txtsize
-Ulrraster:::txtsize --> Rhsoenntals:::txtsize
-tsuidihdYfi:::txtsize --> Spnngiteeidrgint:::txtsize
-Spnngiteeidrgint:::txtsize --> Ulrraster:::txtsize
+EeoGonredadou:::txtsize --> Bislsoetefbht:::txtsize
+Bislsoetefbht:::txtsize --> EssuogMGIslfoo:::txtsize
+EssuogMGIslfoo:::txtsize --> Atrsxmootpngs:::txtsize
+EssuogMGIslfoo:::txtsize --> EernbhncneTtwos:::txtsize
+Bislsoetefbht:::txtsize --> MsaniarnGm:::txtsize
+MsaniarnGm:::txtsize --> Atrsxmootpngs:::txtsize
+MsaniarnGm:::txtsize --> Atrsxmootpngs:::txtsize
+EeoGonredadou:::txtsize --> GnsaoetvogEupo:::txtsize
+GnsaoetvogEupo:::txtsize --> Bislsoetefbht:::txtsize
+Bislsoetefbht:::txtsize --> EssuogMGIslfoo:::txtsize
+Bislsoetefbht:::txtsize --> MsaniarnGm:::txtsize
+GnsaoetvogEupo:::txtsize --> EssuogMGIslfoo:::txtsize
+EssuogMGIslfoo:::txtsize --> Atrsxmootpngs:::txtsize
+EssuogMGIslfoo:::txtsize --> EernbhncneTtwos:::txtsize
 
-RailUndiusok@{ shape: win-pane, label: "_Published Jan 08, 2026, 11:27 PM_
-Russian strikes plunge ukraine’s industrial south-east into blackouts" }
-UkugnframKasr@{ shape: win-pane, label: "_Published Jan 07, 2026, 04:11 AM_
-Us backs security guarantees for ukraine at summit of kyiv’s allies in paris" }
-RaiirriaKioyi@{ shape: win-pane, label: "_Published Jan 06, 2026, 06:30 AM_
-Russian strikes hit energy targets in ukraine’s kharkiv, us company in dnipro" }
-Ungodwrisypnao@{ shape: win-pane, label: "_Published Jan 05, 2026, 07:35 AM_
-Ukraine targets moscow daily with drones in 2026, russia says, in apparent escalation" }
-Zssrttiiusu@{ shape: win-pane, label: "_Published Jan 05, 2026, 08:51 PM_
-Zelensky ousts ukraine top intel chief amid security shake-up" }
-UtLereteirnsot@{ shape: win-pane, label: "_Published Jan 07, 2026, 01:06 AM_
-Us pentagon, lockheed strike deal to triple patriot air defence missile output" }
-Unlywlmiefesei@{ shape: win-pane, label: "_Published Nov 16, 2025, 04:39 AM_
-Ukraine’s zelensky renews calls for more air defence after deadly strike on kyiv" }
-UnlyUugndetfiiu@{ shape: win-pane, label: "_Published Jan 08, 2026, 09:36 PM_
-Ukraine’s zelensky says us security guarantees document set to be finalised with trump" }
-UkugnframKasr@{ shape: win-pane, label: "_Published Jan 07, 2026, 04:11 AM_
-Us backs security guarantees for ukraine at summit of kyiv’s allies in paris" }
-RaiirriaKioyi@{ shape: win-pane, label: "_Published Jan 06, 2026, 06:30 AM_
-Russian strikes hit energy targets in ukraine’s kharkiv, us company in dnipro" }
-UtLereteirnsot@{ shape: win-pane, label: "_Published Jan 07, 2026, 01:06 AM_
-Us pentagon, lockheed strike deal to triple patriot air defence missile output" }
-EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
-Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
-Ranaomedrhuaiuv@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
-Russia says no ukraine compromise reached after five-hour putin talks with trump envoys" }
+AaofshoiiolWi@{ shape: win-pane, label: "_Published Jan 09, 2026, 03:03 AM_
+African union reaffirms one china policy in visit by top diplomat wang yi" }
+Ilmrutmrnolspnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:49 PM_
+Israel becomes first country to formally recognise somaliland as independent state" }
+WrAao@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:46 PM_
+What are the abraham accords?" }
+Ilemahmaroais@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:27 PM_
+Israel targets hamas leadership in military strikes on qatar, officials say" }
+Hmdulnrecsud@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:15 PM_
+How hamas’ audacious, well-planned surprise attack on israel unfolded" }
+Upneockecdr@{ shape: win-pane, label: "_Published May 17, 2025, 02:21 PM_
+Uae is pouring money into africa, seeking resources and power" }
+TaniliEtrnn@{ shape: win-pane, label: "_Published May 16, 2025, 01:27 AM_
+Trump announces $260b in deals during uae visit, ai agreement signed" }
+Gtuuelrima@{ shape: win-pane, label: "_Published May 17, 2025, 12:38 AM_
+Gulf states use opulence and flattery to win trump’s heart" }
+Ilmrutmrnolspnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:49 PM_
+Israel becomes first country to formally recognise somaliland as independent state" }
+WrAao@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:46 PM_
+What are the abraham accords?" }
+Ilemahmaroais@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:27 PM_
+Israel targets hamas leadership in military strikes on qatar, officials say" }
+Hmdulnrecsud@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:15 PM_
+How hamas’ audacious, well-planned surprise attack on israel unfolded" }
+Upneockecdr@{ shape: win-pane, label: "_Published May 17, 2025, 02:21 PM_
+Uae is pouring money into africa, seeking resources and power" }
+TaniliEtrnn@{ shape: win-pane, label: "_Published May 16, 2025, 01:27 AM_
+Trump announces $260b in deals during uae visit, ai agreement signed" }
+Gtuuelrima@{ shape: win-pane, label: "_Published May 17, 2025, 12:38 AM_
+Gulf states use opulence and flattery to win trump’s heart" }
 
-RailUndiusok:::txtsize --> UkugnframKasr:::txtsize
-UkugnframKasr:::txtsize --> RaiirriaKioyi:::txtsize
-RaiirriaKioyi:::txtsize --> Ungodwrisypnao:::txtsize
-RaiirriaKioyi:::txtsize --> Zssrttiiusu:::txtsize
-UkugnframKasr:::txtsize --> UtLereteirnsot:::txtsize
-UtLereteirnsot:::txtsize --> Unlywlmiefesei:::txtsize
-RailUndiusok:::txtsize --> UnlyUugndetfiiu:::txtsize
-UnlyUugndetfiiu:::txtsize --> UkugnframKasr:::txtsize
-UkugnframKasr:::txtsize --> RaiirriaKioyi:::txtsize
-UkugnframKasr:::txtsize --> UtLereteirnsot:::txtsize
-UnlyUugndetfiiu:::txtsize --> EihaDsitnnannsake:::txtsize
-EihaDsitnnannsake:::txtsize --> Ranaomedrhuaiuv:::txtsize
+AaofshoiiolWi:::txtsize --> Ilmrutmrnolspnt:::txtsize
+Ilmrutmrnolspnt:::txtsize --> WrAao:::txtsize
+WrAao:::txtsize --> Ilemahmaroais:::txtsize
+WrAao:::txtsize --> Hmdulnrecsud:::txtsize
+Ilmrutmrnolspnt:::txtsize --> Upneockecdr:::txtsize
+Upneockecdr:::txtsize --> TaniliEtrnn:::txtsize
+Upneockecdr:::txtsize --> Gtuuelrima:::txtsize
+AaofshoiiolWi:::txtsize --> Ilmrutmrnolspnt:::txtsize
+Ilmrutmrnolspnt:::txtsize --> WrAao:::txtsize
+WrAao:::txtsize --> Ilemahmaroais:::txtsize
+WrAao:::txtsize --> Hmdulnrecsud:::txtsize
+Ilmrutmrnolspnt:::txtsize --> Upneockecdr:::txtsize
+Upneockecdr:::txtsize --> TaniliEtrnn:::txtsize
+Upneockecdr:::txtsize --> Gtuuelrima:::txtsize
 
-Utkctaissag@{ shape: win-pane, label: "_Published Jan 08, 2026, 10:46 PM_
-Us’ exit from key un climate treaty criticised as self-sabotage" }
-Tpoglae@{ shape: win-pane, label: "_Published Jan 08, 2026, 09:33 AM_
-Trump pulls out of global climate treaty" }
-Twrrriamg@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:36 AM_
-Trump withdraws from paris climate agreement, again" }
-Feuiea@{ shape: win-pane, label: "_Published Feb 24, 2023, 05:54 PM_
-Feb 24, 2022: the day russia invaded ukraine" }
-TwrSdsttlni@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:46 AM_
-Trump withdraws us from dozens of international organisations" }
-WsNayeloi@{ shape: win-pane, label: "_Published Jan 08, 2026, 11:50 AM_
-What is the unfccc and why is the us pulling out of it?" }
-Tbsregderts@{ shape: win-pane, label: "_Published Sep 24, 2025, 12:57 AM_
-Trump blasts un for not helping us-led peace efforts, but backs it 100%" }
-Twrrriamg@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:36 AM_
-Trump withdraws from paris climate agreement, again" }
-Feuiea@{ shape: win-pane, label: "_Published Feb 24, 2023, 05:54 PM_
-Feb 24, 2022: the day russia invaded ukraine" }
-Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
-Timeline: how russia's attack on ukraine unfolded" }
-DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
-'darkest hours of europe' as russia invades ukraine" }
+Tshoteasapyer@{ shape: win-pane, label: "_Published Jan 09, 2026, 02:55 AM_
+Three ships head to us with venezuela oil, as storage capacity concerns grow" }
+Oaohnzakrnee@{ shape: win-pane, label: "_Published Dec 11, 2025, 12:52 PM_
+Over 30 sanctioned ships in venezuela at risk after us tanker seizure" }
+Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
+Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
+TenurneCbVuo@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:52 PM_
+Trump eyes anti-drug operations in mexico, colombia as venezuela looms" }
+VulScpifromlMo@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:49 AM_
+Venezuela slams us attack preparations after trump confirms call with maduro" }
+UeoVugartipu@{ shape: win-pane, label: "_Published Nov 24, 2025, 10:38 PM_
+Us labels another venezuelan group as terrorist, ramping up pressure" }
+Taitrrwdaghe@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:17 AM_
+Trump administration orders review of biden-era refugees, shows memo" }
+Saeiannhlsnleag@{ shape: win-pane, label: "_Published Nov 23, 2025, 05:12 AM_
+Several international airlines cancel their flights in venezuela after us warning" }
+TsSsoeady@{ shape: win-pane, label: "_Published Jan 08, 2026, 08:11 PM_
+Trump says us oversight of venezuela could last years" }
+Tieosoiutrttlyo@{ shape: win-pane, label: "_Published Jan 08, 2026, 08:46 AM_
+Trump invites colombia’s petro to white house after earlier threat of military action" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Cbcnrhdrcgns@{ shape: win-pane, label: "_Published Jan 06, 2026, 06:05 AM_
+Colombia to continue work with us on drug trafficking, government says" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
 
-Utkctaissag:::txtsize --> Tpoglae:::txtsize
-Tpoglae:::txtsize --> Twrrriamg:::txtsize
-Twrrriamg:::txtsize --> Feuiea:::txtsize
-Tpoglae:::txtsize --> TwrSdsttlni:::txtsize
-TwrSdsttlni:::txtsize --> WsNayeloi:::txtsize
-TwrSdsttlni:::txtsize --> Tbsregderts:::txtsize
-Utkctaissag:::txtsize --> Twrrriamg:::txtsize
-Twrrriamg:::txtsize --> Feuiea:::txtsize
-Feuiea:::txtsize --> Tiwitnifd:::txtsize
-Feuiea:::txtsize --> DsruasvUn:::txtsize
+Tshoteasapyer:::txtsize --> Oaohnzakrnee:::txtsize
+Oaohnzakrnee:::txtsize --> Uzlecoeapageo:::txtsize
+Uzlecoeapageo:::txtsize --> TenurneCbVuo:::txtsize
+Uzlecoeapageo:::txtsize --> VulScpifromlMo:::txtsize
+Oaohnzakrnee:::txtsize --> UeoVugartipu:::txtsize
+UeoVugartipu:::txtsize --> Taitrrwdaghe:::txtsize
+UeoVugartipu:::txtsize --> Saeiannhlsnleag:::txtsize
+Tshoteasapyer:::txtsize --> TsSsoeady:::txtsize
+TsSsoeady:::txtsize --> Tieosoiutrttlyo:::txtsize
+Tieosoiutrttlyo:::txtsize --> UtVuMorkms:::txtsize
+Tieosoiutrttlyo:::txtsize --> Cbcnrhdrcgns:::txtsize
+TsSsoeady:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
 
 ```
-<i>Last updated: 2026-01-09 00:01:02.536755 (GMT+8)</i>
+<i>Last updated: 2026-01-09 04:00:29.241523 (GMT+8)</i>
 <!-- END -->
