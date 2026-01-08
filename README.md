@@ -16,132 +16,102 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-sgareeuruabeugeg@{ shape: win-pane, label: "_Published Jan 08, 2026, 03:50 PM_
-50 sheep go on baa-zarre adventure through german supermarket, before ewe-turning and leaving" }
-Decslnairtfrriisr@{ shape: win-pane, label: "_Published Dec 15, 2025, 05:45 PM_
-Drunken raccoon a serial offender, says animal protection officer after virginia liquor store raid" }
-StacriSorskaobo@{ shape: win-pane, label: "_Published Dec 03, 2025, 01:38 PM_
-‘spirit animal’: raccoon breaks into us liquor store, gets drunk and passes out in bathroom" }
-Aahhnrhfomaerdyi@{ shape: win-pane, label: "_Published Nov 14, 2025, 08:30 PM_
-Ay, caramba! chihuahua lands forever home after foster mum learns he understands only spanish" }
-Aahhnrhfomaerdyi@{ shape: win-pane, label: "_Published Nov 14, 2025, 08:30 PM_
-Ay, caramba! chihuahua lands forever home after foster mum learns he understands only spanish" }
-LHtuefedddidac@{ shape: win-pane, label: "_Published Sep 29, 2025, 10:00 PM_
-Lewis hamilton mourns death of his beloved bulldog and f1 social media star roscoe" }
-Mnflnekulun@{ shape: win-pane, label: "_Published Nov 13, 2025, 01:34 PM_
-Missing dog finally found after 7 weeks in australia’s bushland" }
-Mnoshiirnr@{ shape: win-pane, label: "_Published Dec 10, 2025, 03:40 PM_
-Moo dunnit? dog lets bull, horse into living room in australia" }
-StacriSorskaobo@{ shape: win-pane, label: "_Published Dec 03, 2025, 01:38 PM_
-‘spirit animal’: raccoon breaks into us liquor store, gets drunk and passes out in bathroom" }
-Aahhnrhfomaerdyi@{ shape: win-pane, label: "_Published Nov 14, 2025, 08:30 PM_
-Ay, caramba! chihuahua lands forever home after foster mum learns he understands only spanish" }
-Gnisbadskersyi@{ shape: win-pane, label: "_Published Aug 10, 2023, 07:30 PM_
-Golden retriever stops burglar dead in his tracks – by being irresistibly adoring" }
-Jenpeocmrdhnn@{ shape: win-pane, label: "_Published Jul 27, 2023, 07:45 PM_
-Japanese man who spent nearly $20,000 on dog costume shares video of his fun outing" }
+GieagtooJiead@{ shape: win-pane, label: "_Published Jan 08, 2026, 07:52 PM_
+‘girl with a pearl earring’ painting to be shown in japan, in rare trip abroad" }
+npsenoaeddoab@{ shape: win-pane, label: "_Published Dec 17, 2025, 02:30 PM_
+5 niche places to see art in tokyo, from a former cardboard factory to a cafe-bar" }
+WionnAeyvoealrg@{ shape: win-pane, label: "_Published Dec 17, 2025, 02:30 PM_
+What singapore can learn from art week tokyo’s move beyond the art fair to longer-term gains" }
+Hfuommgrtekot@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:30 AM_
+Hop on free buses to over 50 museums and galleries at art week tokyo from nov 7 to 9" }
+SneiAanreoceo@{ shape: win-pane, label: "_Published Jan 16, 2019, 06:50 PM_
+Sudden cancellation of art stage singapore likely a commercial decision" }
 
-sgareeuruabeugeg:::txtsize --> Decslnairtfrriisr:::txtsize
-Decslnairtfrriisr:::txtsize --> StacriSorskaobo:::txtsize
-StacriSorskaobo:::txtsize --> Aahhnrhfomaerdyi:::txtsize
-Decslnairtfrriisr:::txtsize --> Aahhnrhfomaerdyi:::txtsize
-Aahhnrhfomaerdyi:::txtsize --> LHtuefedddidac:::txtsize
-Aahhnrhfomaerdyi:::txtsize --> Mnflnekulun:::txtsize
-sgareeuruabeugeg:::txtsize --> Mnoshiirnr:::txtsize
-Mnoshiirnr:::txtsize --> StacriSorskaobo:::txtsize
-StacriSorskaobo:::txtsize --> Aahhnrhfomaerdyi:::txtsize
-Mnoshiirnr:::txtsize --> Gnisbadskersyi:::txtsize
-Gnisbadskersyi:::txtsize --> Jenpeocmrdhnn:::txtsize
+GieagtooJiead:::txtsize --> npsenoaeddoab:::txtsize
+npsenoaeddoab:::txtsize --> WionnAeyvoealrg:::txtsize
+WionnAeyvoealrg:::txtsize --> Hfuommgrtekot:::txtsize
+WionnAeyvoealrg:::txtsize --> SneiAanreoceo:::txtsize
 
-PsFheiasrn@{ shape: win-pane, label: "_Published Jan 08, 2026, 03:25 PM_
-Protesting french farmers bring tractors to paris centre" }
-Fetrrlciosmos@{ shape: win-pane, label: "_Published Dec 19, 2025, 01:14 AM_
-France drafts in army for cattle vaccinations to defuse farmer protests" }
-Shurcmlovwal@{ shape: win-pane, label: "_Published Dec 14, 2025, 03:12 AM_
-‘stop the slaughter’: french farmers block roads over cow disease cull" }
-Bleprnewiir@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:10 AM_
-Bird flu wiped out poultry, and now the screw worm is coming for beef" }
-Blbboaaaet@{ shape: win-pane, label: "_Published Aug 05, 2025, 09:25 AM_
-Bird flu may be airborne on us dairy farms, say scientists" }
-EcdedrsBeoo@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:56 PM_
-Eu-mercosur deal delayed as farmers stage brussels show of force" }
-Ereeweuccrlpi@{ shape: win-pane, label: "_Published Sep 03, 2025, 12:19 PM_
-Eu to propose trade deal with mercosur bloc, in face of france-led opposition" }
-Gniebeudtrrt@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:20 PM_
-Germany, spain urge eu to back mercosur trade pact, but france resists" }
-Gniebeudtrrt@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:20 PM_
-Germany, spain urge eu to back mercosur trade pact, but france resists" }
-EcdedrsBeoo@{ shape: win-pane, label: "_Published Dec 18, 2025, 10:56 PM_
-Eu-mercosur deal delayed as farmers stage brussels show of force" }
-Ereeweuccrlpi@{ shape: win-pane, label: "_Published Sep 03, 2025, 12:19 PM_
-Eu to propose trade deal with mercosur bloc, in face of france-led opposition" }
-Gniebeudtrrt@{ shape: win-pane, label: "_Published Dec 18, 2025, 11:20 PM_
-Germany, spain urge eu to back mercosur trade pact, but france resists" }
-EcoueulMnen@{ shape: win-pane, label: "_Published Dec 06, 2024, 10:07 PM_
-Eu reaches long-sought mercosur deal over macron’s objections" }
-Wulearhma@{ shape: win-pane, label: "_Published Nov 07, 2024, 08:34 AM_
-Why trump’s plan to escalate tariffs has so many haters" }
-Fgferytter@{ shape: win-pane, label: "_Published Nov 06, 2024, 10:27 PM_
-Facing tariff threat, europe eyes options to appease trump" }
+GlhhaietDroody@{ shape: win-pane, label: "_Published Jan 08, 2026, 07:46 PM_
+Greenland should hold talks with the us without denmark, opposition leader says" }
+TdsharedlyypWH@{ shape: win-pane, label: "_Published Jan 07, 2026, 05:46 AM_
+Trump discussing how to acquire greenland; us military always an option: white house" }
+Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
+Trump’s maduro capture is about drugs, immigrants and china" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
+Who is venezuela’s president nicolas maduro?" }
+EearbdnienUe@{ shape: win-pane, label: "_Published Jan 06, 2026, 09:26 PM_
+European leaders rally behind greenland in face of renewed us interest" }
+Trsteed@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:16 PM_
+Trump renews push to annex greenland" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+UstpsdtgGlh@{ shape: win-pane, label: "_Published Jan 05, 2026, 10:15 PM_
+Us president trump is obsessed with taking over greenland. why?" }
+Trsteed@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:16 PM_
+Trump renews push to annex greenland" }
+EihspGlnle@{ shape: win-pane, label: "_Published Jan 08, 2025, 09:36 PM_
+Explainer: why does trump want greenland and could he get it?" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
 
-PsFheiasrn:::txtsize --> Fetrrlciosmos:::txtsize
-Fetrrlciosmos:::txtsize --> Shurcmlovwal:::txtsize
-Shurcmlovwal:::txtsize --> Bleprnewiir:::txtsize
-Shurcmlovwal:::txtsize --> Blbboaaaet:::txtsize
-Fetrrlciosmos:::txtsize --> EcdedrsBeoo:::txtsize
-EcdedrsBeoo:::txtsize --> Ereeweuccrlpi:::txtsize
-EcdedrsBeoo:::txtsize --> Gniebeudtrrt:::txtsize
-PsFheiasrn:::txtsize --> Gniebeudtrrt:::txtsize
-Gniebeudtrrt:::txtsize --> EcdedrsBeoo:::txtsize
-EcdedrsBeoo:::txtsize --> Ereeweuccrlpi:::txtsize
-EcdedrsBeoo:::txtsize --> Gniebeudtrrt:::txtsize
-Gniebeudtrrt:::txtsize --> EcoueulMnen:::txtsize
-EcoueulMnen:::txtsize --> Wulearhma:::txtsize
-EcoueulMnen:::txtsize --> Fgferytter:::txtsize
+GlhhaietDroody:::txtsize --> TdsharedlyypWH:::txtsize
+TdsharedlyypWH:::txtsize --> Tsrtstsgsh:::txtsize
+Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
+Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
+TdsharedlyypWH:::txtsize --> EearbdnienUe:::txtsize
+EearbdnienUe:::txtsize --> Trsteed:::txtsize
+EearbdnienUe:::txtsize --> UtVuMorkms:::txtsize
+GlhhaietDroody:::txtsize --> UstpsdtgGlh:::txtsize
+UstpsdtgGlh:::txtsize --> Trsteed:::txtsize
+Trsteed:::txtsize --> EihspGlnle:::txtsize
+Trsteed:::txtsize --> UtVuMorkms:::txtsize
+UstpsdtgGlh:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
 
-Noerlceosaele@{ shape: win-pane, label: "_Published Jan 08, 2026, 02:11 PM_
-Nasa considers rare early iss crew return over astronaut’s medical issue" }
-RosvptnuattS@{ shape: win-pane, label: "_Published Nov 13, 2025, 11:01 PM_
-Race for first private space station hots up as nasa set to retire iss" }
-AptpanloctoesS@{ shape: win-pane, label: "_Published Oct 14, 2024, 02:50 PM_
-Aerospace start-up vast announces plans for space station to succeed nasa’s iss" }
-Isetasaneeaeeoa@{ shape: win-pane, label: "_Published Oct 14, 2024, 10:36 AM_
-India’s space strategy: harness data and tiny satellites to capture market beyond spacex" }
-NproyhpsEaar@{ shape: win-pane, label: "_Published Oct 14, 2024, 02:11 AM_
-Nasa spacecraft to study whether jupiter’s moon europa can harbour life" }
-NotvrtrEoia@{ shape: win-pane, label: "_Published Apr 20, 2025, 05:05 PM_
-Nasa’s oldest active astronaut returns to earth on 70th birthday" }
-Urtdocpadoaas@{ shape: win-pane, label: "_Published Mar 18, 2025, 01:02 AM_
-Us astronauts head home on spacex capsule after drawn-out space station stay" }
-Biistcholils@{ shape: win-pane, label: "_Published Apr 17, 2025, 02:15 PM_
-Bringing a little spice to space with the monse blue origin flight suits" }
-Raslolnotde@{ shape: win-pane, label: "_Published Dec 24, 2025, 09:13 PM_
-Russia plans a nuclear power plant on the moon within a decade" }
-Tuanoniespyr@{ shape: win-pane, label: "_Published Dec 19, 2025, 07:50 AM_
-Trump urges 2028 astronaut moon landing in sweeping space policy order" }
-Caarjsladtrr@{ shape: win-pane, label: "_Published Dec 10, 2025, 11:47 PM_
-China and brazil create joint space laboratory, despite us pressure" }
-NccDiscteoap@{ shape: win-pane, label: "_Published Aug 05, 2025, 07:25 AM_
-Nasa acting chief duffy issues directive to speed up moon reactor plans" }
-TnTpteafiiana@{ shape: win-pane, label: "_Published Jul 10, 2025, 10:16 AM_
-Trump names transportation secretary duffy as interim nasa administrator" }
-UsphtootnFdt@{ shape: win-pane, label: "_Published Aug 01, 2025, 05:44 AM_
-Us, russian space chiefs talk moon cooperation in rare florida meeting" }
+EiaIeoaeiaru@{ shape: win-pane, label: "_Published Jan 08, 2026, 07:26 PM_
+Explainer: can the ice agent who shot a minneapolis woman be prosecuted?" }
+UiifflomMas@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:35 AM_
+Us immigration officer fatally shoots woman in minneapolis" }
+Coboyyuustlts@{ shape: win-pane, label: "_Published Jan 03, 2026, 10:23 AM_
+California ban on openly carrying guns is unconstitutional, court rules" }
+AaNulsornratnaog@{ shape: win-pane, label: "_Published Dec 24, 2025, 07:03 AM_
+Australia’s new south wales passes tougher gun, anti-terror laws after bondi beach shooting" }
+SfictgoiTaita@{ shape: win-pane, label: "_Published Nov 09, 2025, 06:30 AM_
+Shots fired in chicago at immigration officers, trump administration says" }
+UgelbGaarmtei@{ shape: win-pane, label: "_Published Dec 12, 2025, 12:45 AM_
+Us judge orders kilmar abrego garcia released from immigration detention" }
+LieatgpdaraUs@{ shape: win-pane, label: "_Published Oct 25, 2025, 04:25 AM_
+Liberia agrees to accept wrongly deported migrant abrego garcia, us says" }
+Taitanrolrr@{ shape: win-pane, label: "_Published Apr 01, 2025, 09:02 PM_
+Trump administration says man deported to el salvador ‘in error’" }
+Tsedgocnsbnk@{ shape: win-pane, label: "_Published Dec 21, 2025, 07:31 PM_
+Trump set to expand immigration crackdown in 2026 despite brewing backlash" }
+TlhmtroNl@{ shape: win-pane, label: "_Published Dec 04, 2025, 03:20 AM_
+Trump launches immigration crackdown in new orleans" }
+TlhmtroNl@{ shape: win-pane, label: "_Published Dec 04, 2025, 03:20 AM_
+Trump launches immigration crackdown in new orleans" }
 
-Noerlceosaele:::txtsize --> RosvptnuattS:::txtsize
-RosvptnuattS:::txtsize --> AptpanloctoesS:::txtsize
-AptpanloctoesS:::txtsize --> Isetasaneeaeeoa:::txtsize
-AptpanloctoesS:::txtsize --> NproyhpsEaar:::txtsize
-RosvptnuattS:::txtsize --> NotvrtrEoia:::txtsize
-NotvrtrEoia:::txtsize --> Urtdocpadoaas:::txtsize
-NotvrtrEoia:::txtsize --> Biistcholils:::txtsize
-Noerlceosaele:::txtsize --> Raslolnotde:::txtsize
-Raslolnotde:::txtsize --> Tuanoniespyr:::txtsize
-Tuanoniespyr:::txtsize --> Caarjsladtrr:::txtsize
-Raslolnotde:::txtsize --> NccDiscteoap:::txtsize
-NccDiscteoap:::txtsize --> TnTpteafiiana:::txtsize
-NccDiscteoap:::txtsize --> UsphtootnFdt:::txtsize
+EiaIeoaeiaru:::txtsize --> UiifflomMas:::txtsize
+UiifflomMas:::txtsize --> Coboyyuustlts:::txtsize
+Coboyyuustlts:::txtsize --> AaNulsornratnaog:::txtsize
+Coboyyuustlts:::txtsize --> SfictgoiTaita:::txtsize
+UiifflomMas:::txtsize --> UgelbGaarmtei:::txtsize
+UgelbGaarmtei:::txtsize --> LieatgpdaraUs:::txtsize
+UgelbGaarmtei:::txtsize --> Taitanrolrr:::txtsize
+EiaIeoaeiaru:::txtsize --> Tsedgocnsbnk:::txtsize
+Tsedgocnsbnk:::txtsize --> TlhmtroNl:::txtsize
+Tsedgocnsbnk:::txtsize --> TlhmtroNl:::txtsize
 
 ```
-<i>Last updated: 2026-01-08 16:00:50.891756 (GMT+8)</i>
+<i>Last updated: 2026-01-08 20:01:28.209428 (GMT+8)</i>
 <!-- END -->
