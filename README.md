@@ -16,102 +16,117 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-GieagtooJiead@{ shape: win-pane, label: "_Published Jan 08, 2026, 07:52 PM_
-‘girl with a pearl earring’ painting to be shown in japan, in rare trip abroad" }
-npsenoaeddoab@{ shape: win-pane, label: "_Published Dec 17, 2025, 02:30 PM_
-5 niche places to see art in tokyo, from a former cardboard factory to a cafe-bar" }
-WionnAeyvoealrg@{ shape: win-pane, label: "_Published Dec 17, 2025, 02:30 PM_
-What singapore can learn from art week tokyo’s move beyond the art fair to longer-term gains" }
-Hfuommgrtekot@{ shape: win-pane, label: "_Published Nov 05, 2025, 10:30 AM_
-Hop on free buses to over 50 museums and galleries at art week tokyo from nov 7 to 9" }
-SneiAanreoceo@{ shape: win-pane, label: "_Published Jan 16, 2019, 06:50 PM_
-Sudden cancellation of art stage singapore likely a commercial decision" }
+EihaiYayaraene@{ shape: win-pane, label: "_Published Jan 08, 2026, 11:41 PM_
+Explainer: what’s happening in yemen, and why are saudi arabia and the uae involved?" }
+Slaosnrteinh@{ shape: win-pane, label: "_Published Jan 08, 2026, 12:36 PM_
+Saudi-led coalition says yemen separatist leader arrives in abu dhabi" }
+Ulrraster@{ shape: win-pane, label: "_Published Jan 03, 2026, 05:40 PM_
+Uae calls for restraint amid escalating yemen crisis" }
+Rhsoenntals@{ shape: win-pane, label: "_Published Jan 03, 2026, 03:20 PM_
+Riyadh urges dialogue between yemeni factions amid clashes" }
+FfnrteporsSUnse@{ shape: win-pane, label: "_Published Jan 07, 2026, 12:36 PM_
+Fate of yemen separatist leader deepens southern crisis as saudi-uae tensions linger" }
+TsrdmloeJfl@{ shape: win-pane, label: "_Published Jan 06, 2026, 06:50 PM_
+Tourists stranded on yemen island to leave from jan 7: official" }
+Spnngiteeidrgint@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:49 PM_
+Singaporean woman among 420 tourists stranded on yemeni island amid rising tensions in country" }
+tsuidihdYfi@{ shape: win-pane, label: "_Published Jan 05, 2026, 09:04 PM_
+400 tourists stuck on island as flights halted over yemen fighting" }
+Ulrraster@{ shape: win-pane, label: "_Published Jan 03, 2026, 05:40 PM_
+Uae calls for restraint amid escalating yemen crisis" }
+Rhsoenntals@{ shape: win-pane, label: "_Published Jan 03, 2026, 03:20 PM_
+Riyadh urges dialogue between yemeni factions amid clashes" }
+Spnngiteeidrgint@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:49 PM_
+Singaporean woman among 420 tourists stranded on yemeni island amid rising tensions in country" }
+Ulrraster@{ shape: win-pane, label: "_Published Jan 03, 2026, 05:40 PM_
+Uae calls for restraint amid escalating yemen crisis" }
 
-GieagtooJiead:::txtsize --> npsenoaeddoab:::txtsize
-npsenoaeddoab:::txtsize --> WionnAeyvoealrg:::txtsize
-WionnAeyvoealrg:::txtsize --> Hfuommgrtekot:::txtsize
-WionnAeyvoealrg:::txtsize --> SneiAanreoceo:::txtsize
+EihaiYayaraene:::txtsize --> Slaosnrteinh:::txtsize
+Slaosnrteinh:::txtsize --> Ulrraster:::txtsize
+Ulrraster:::txtsize --> Rhsoenntals:::txtsize
+Slaosnrteinh:::txtsize --> FfnrteporsSUnse:::txtsize
+FfnrteporsSUnse:::txtsize --> TsrdmloeJfl:::txtsize
+FfnrteporsSUnse:::txtsize --> Spnngiteeidrgint:::txtsize
+EihaiYayaraene:::txtsize --> tsuidihdYfi:::txtsize
+tsuidihdYfi:::txtsize --> Ulrraster:::txtsize
+Ulrraster:::txtsize --> Rhsoenntals:::txtsize
+tsuidihdYfi:::txtsize --> Spnngiteeidrgint:::txtsize
+Spnngiteeidrgint:::txtsize --> Ulrraster:::txtsize
 
-GlhhaietDroody@{ shape: win-pane, label: "_Published Jan 08, 2026, 07:46 PM_
-Greenland should hold talks with the us without denmark, opposition leader says" }
-TdsharedlyypWH@{ shape: win-pane, label: "_Published Jan 07, 2026, 05:46 AM_
-Trump discussing how to acquire greenland; us military always an option: white house" }
-Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
-Trump’s maduro capture is about drugs, immigrants and china" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
-Who is venezuela’s president nicolas maduro?" }
-EearbdnienUe@{ shape: win-pane, label: "_Published Jan 06, 2026, 09:26 PM_
-European leaders rally behind greenland in face of renewed us interest" }
-Trsteed@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:16 PM_
-Trump renews push to annex greenland" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-UstpsdtgGlh@{ shape: win-pane, label: "_Published Jan 05, 2026, 10:15 PM_
-Us president trump is obsessed with taking over greenland. why?" }
-Trsteed@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:16 PM_
-Trump renews push to annex greenland" }
-EihspGlnle@{ shape: win-pane, label: "_Published Jan 08, 2025, 09:36 PM_
-Explainer: why does trump want greenland and could he get it?" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+RailUndiusok@{ shape: win-pane, label: "_Published Jan 08, 2026, 11:27 PM_
+Russian strikes plunge ukraine’s industrial south-east into blackouts" }
+UkugnframKasr@{ shape: win-pane, label: "_Published Jan 07, 2026, 04:11 AM_
+Us backs security guarantees for ukraine at summit of kyiv’s allies in paris" }
+RaiirriaKioyi@{ shape: win-pane, label: "_Published Jan 06, 2026, 06:30 AM_
+Russian strikes hit energy targets in ukraine’s kharkiv, us company in dnipro" }
+Ungodwrisypnao@{ shape: win-pane, label: "_Published Jan 05, 2026, 07:35 AM_
+Ukraine targets moscow daily with drones in 2026, russia says, in apparent escalation" }
+Zssrttiiusu@{ shape: win-pane, label: "_Published Jan 05, 2026, 08:51 PM_
+Zelensky ousts ukraine top intel chief amid security shake-up" }
+UtLereteirnsot@{ shape: win-pane, label: "_Published Jan 07, 2026, 01:06 AM_
+Us pentagon, lockheed strike deal to triple patriot air defence missile output" }
+Unlywlmiefesei@{ shape: win-pane, label: "_Published Nov 16, 2025, 04:39 AM_
+Ukraine’s zelensky renews calls for more air defence after deadly strike on kyiv" }
+UnlyUugndetfiiu@{ shape: win-pane, label: "_Published Jan 08, 2026, 09:36 PM_
+Ukraine’s zelensky says us security guarantees document set to be finalised with trump" }
+UkugnframKasr@{ shape: win-pane, label: "_Published Jan 07, 2026, 04:11 AM_
+Us backs security guarantees for ukraine at summit of kyiv’s allies in paris" }
+RaiirriaKioyi@{ shape: win-pane, label: "_Published Jan 06, 2026, 06:30 AM_
+Russian strikes hit energy targets in ukraine’s kharkiv, us company in dnipro" }
+UtLereteirnsot@{ shape: win-pane, label: "_Published Jan 07, 2026, 01:06 AM_
+Us pentagon, lockheed strike deal to triple patriot air defence missile output" }
+EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
+Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
+Ranaomedrhuaiuv@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
+Russia says no ukraine compromise reached after five-hour putin talks with trump envoys" }
 
-GlhhaietDroody:::txtsize --> TdsharedlyypWH:::txtsize
-TdsharedlyypWH:::txtsize --> Tsrtstsgsh:::txtsize
-Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
-Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
-TdsharedlyypWH:::txtsize --> EearbdnienUe:::txtsize
-EearbdnienUe:::txtsize --> Trsteed:::txtsize
-EearbdnienUe:::txtsize --> UtVuMorkms:::txtsize
-GlhhaietDroody:::txtsize --> UstpsdtgGlh:::txtsize
-UstpsdtgGlh:::txtsize --> Trsteed:::txtsize
-Trsteed:::txtsize --> EihspGlnle:::txtsize
-Trsteed:::txtsize --> UtVuMorkms:::txtsize
-UstpsdtgGlh:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+RailUndiusok:::txtsize --> UkugnframKasr:::txtsize
+UkugnframKasr:::txtsize --> RaiirriaKioyi:::txtsize
+RaiirriaKioyi:::txtsize --> Ungodwrisypnao:::txtsize
+RaiirriaKioyi:::txtsize --> Zssrttiiusu:::txtsize
+UkugnframKasr:::txtsize --> UtLereteirnsot:::txtsize
+UtLereteirnsot:::txtsize --> Unlywlmiefesei:::txtsize
+RailUndiusok:::txtsize --> UnlyUugndetfiiu:::txtsize
+UnlyUugndetfiiu:::txtsize --> UkugnframKasr:::txtsize
+UkugnframKasr:::txtsize --> RaiirriaKioyi:::txtsize
+UkugnframKasr:::txtsize --> UtLereteirnsot:::txtsize
+UnlyUugndetfiiu:::txtsize --> EihaDsitnnannsake:::txtsize
+EihaDsitnnannsake:::txtsize --> Ranaomedrhuaiuv:::txtsize
 
-EiaIeoaeiaru@{ shape: win-pane, label: "_Published Jan 08, 2026, 07:26 PM_
-Explainer: can the ice agent who shot a minneapolis woman be prosecuted?" }
-UiifflomMas@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:35 AM_
-Us immigration officer fatally shoots woman in minneapolis" }
-Coboyyuustlts@{ shape: win-pane, label: "_Published Jan 03, 2026, 10:23 AM_
-California ban on openly carrying guns is unconstitutional, court rules" }
-AaNulsornratnaog@{ shape: win-pane, label: "_Published Dec 24, 2025, 07:03 AM_
-Australia’s new south wales passes tougher gun, anti-terror laws after bondi beach shooting" }
-SfictgoiTaita@{ shape: win-pane, label: "_Published Nov 09, 2025, 06:30 AM_
-Shots fired in chicago at immigration officers, trump administration says" }
-UgelbGaarmtei@{ shape: win-pane, label: "_Published Dec 12, 2025, 12:45 AM_
-Us judge orders kilmar abrego garcia released from immigration detention" }
-LieatgpdaraUs@{ shape: win-pane, label: "_Published Oct 25, 2025, 04:25 AM_
-Liberia agrees to accept wrongly deported migrant abrego garcia, us says" }
-Taitanrolrr@{ shape: win-pane, label: "_Published Apr 01, 2025, 09:02 PM_
-Trump administration says man deported to el salvador ‘in error’" }
-Tsedgocnsbnk@{ shape: win-pane, label: "_Published Dec 21, 2025, 07:31 PM_
-Trump set to expand immigration crackdown in 2026 despite brewing backlash" }
-TlhmtroNl@{ shape: win-pane, label: "_Published Dec 04, 2025, 03:20 AM_
-Trump launches immigration crackdown in new orleans" }
-TlhmtroNl@{ shape: win-pane, label: "_Published Dec 04, 2025, 03:20 AM_
-Trump launches immigration crackdown in new orleans" }
+Utkctaissag@{ shape: win-pane, label: "_Published Jan 08, 2026, 10:46 PM_
+Us’ exit from key un climate treaty criticised as self-sabotage" }
+Tpoglae@{ shape: win-pane, label: "_Published Jan 08, 2026, 09:33 AM_
+Trump pulls out of global climate treaty" }
+Twrrriamg@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:36 AM_
+Trump withdraws from paris climate agreement, again" }
+Feuiea@{ shape: win-pane, label: "_Published Feb 24, 2023, 05:54 PM_
+Feb 24, 2022: the day russia invaded ukraine" }
+TwrSdsttlni@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:46 AM_
+Trump withdraws us from dozens of international organisations" }
+WsNayeloi@{ shape: win-pane, label: "_Published Jan 08, 2026, 11:50 AM_
+What is the unfccc and why is the us pulling out of it?" }
+Tbsregderts@{ shape: win-pane, label: "_Published Sep 24, 2025, 12:57 AM_
+Trump blasts un for not helping us-led peace efforts, but backs it 100%" }
+Twrrriamg@{ shape: win-pane, label: "_Published Jan 21, 2025, 02:36 AM_
+Trump withdraws from paris climate agreement, again" }
+Feuiea@{ shape: win-pane, label: "_Published Feb 24, 2023, 05:54 PM_
+Feb 24, 2022: the day russia invaded ukraine" }
+Tiwitnifd@{ shape: win-pane, label: "_Published Feb 25, 2022, 08:15 AM_
+Timeline: how russia's attack on ukraine unfolded" }
+DsruasvUn@{ shape: win-pane, label: "_Published Feb 24, 2022, 11:01 AM_
+'darkest hours of europe' as russia invades ukraine" }
 
-EiaIeoaeiaru:::txtsize --> UiifflomMas:::txtsize
-UiifflomMas:::txtsize --> Coboyyuustlts:::txtsize
-Coboyyuustlts:::txtsize --> AaNulsornratnaog:::txtsize
-Coboyyuustlts:::txtsize --> SfictgoiTaita:::txtsize
-UiifflomMas:::txtsize --> UgelbGaarmtei:::txtsize
-UgelbGaarmtei:::txtsize --> LieatgpdaraUs:::txtsize
-UgelbGaarmtei:::txtsize --> Taitanrolrr:::txtsize
-EiaIeoaeiaru:::txtsize --> Tsedgocnsbnk:::txtsize
-Tsedgocnsbnk:::txtsize --> TlhmtroNl:::txtsize
-Tsedgocnsbnk:::txtsize --> TlhmtroNl:::txtsize
+Utkctaissag:::txtsize --> Tpoglae:::txtsize
+Tpoglae:::txtsize --> Twrrriamg:::txtsize
+Twrrriamg:::txtsize --> Feuiea:::txtsize
+Tpoglae:::txtsize --> TwrSdsttlni:::txtsize
+TwrSdsttlni:::txtsize --> WsNayeloi:::txtsize
+TwrSdsttlni:::txtsize --> Tbsregderts:::txtsize
+Utkctaissag:::txtsize --> Twrrriamg:::txtsize
+Twrrriamg:::txtsize --> Feuiea:::txtsize
+Feuiea:::txtsize --> Tiwitnifd:::txtsize
+Feuiea:::txtsize --> DsruasvUn:::txtsize
 
 ```
-<i>Last updated: 2026-01-08 20:01:28.209428 (GMT+8)</i>
+<i>Last updated: 2026-01-09 00:01:02.536755 (GMT+8)</i>
 <!-- END -->
