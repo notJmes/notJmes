@@ -16,141 +16,132 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Rainueoanieirs@{ shape: win-pane, label: "_Published Jan 08, 2026, 07:41 AM_
-Russian strikes knock out power in southeastern ukraine, energy ministry says" }
-Unlysregagtals@{ shape: win-pane, label: "_Published Jan 08, 2026, 12:01 AM_
-Ukraine’s zelensky seeks new trump meeting, as peace negotiators tackle land issue" }
-EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
-Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
-Ranaomedrhuaiuv@{ shape: win-pane, label: "_Published Dec 03, 2025, 05:20 AM_
-Russia says no ukraine compromise reached after five-hour putin talks with trump envoys" }
-UeenzfidmeoZsy@{ shape: win-pane, label: "_Published Dec 12, 2025, 03:33 AM_
-Us offers ‘free economic zone’ if ukraine cedes remainder of donbas, zelensky says" }
-EihaDsitnnannsake@{ shape: win-pane, label: "_Published Dec 04, 2025, 01:40 AM_
-Explainer: why is fate of donetsk region a sticking point in talks on ending russia’s war in ukraine?" }
-Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
-Us peace plan for ukraine drew from russian document, sources say" }
-ZsyosnqcsblRacra@{ shape: win-pane, label: "_Published Jan 07, 2026, 10:42 PM_
-Zelensky says europeans gave no ‘unequivocal answer’ about plan if russia attacks ukraine again" }
-UkugnframKasr@{ shape: win-pane, label: "_Published Jan 07, 2026, 04:11 AM_
-Us backs security guarantees for ukraine at summit of kyiv’s allies in paris" }
-RaiirriaKioyi@{ shape: win-pane, label: "_Published Jan 06, 2026, 06:30 AM_
-Russian strikes hit energy targets in ukraine’s kharkiv, us company in dnipro" }
-UtLereteirnsot@{ shape: win-pane, label: "_Published Jan 07, 2026, 01:06 AM_
-Us pentagon, lockheed strike deal to triple patriot air defence missile output" }
-Uasemfpkedtbln@{ shape: win-pane, label: "_Published Jan 07, 2026, 08:46 PM_
-Uk’s starmer says deployment of troops to ukraine would be voted on by parliament" }
-UnhmrbCsssiy@{ shape: win-pane, label: "_Published Jan 07, 2026, 09:46 PM_
-Ukraine pushes eu membership bid as cyprus takes bloc’s presidency" }
-UkugnframKasr@{ shape: win-pane, label: "_Published Jan 07, 2026, 04:11 AM_
-Us backs security guarantees for ukraine at summit of kyiv’s allies in paris" }
+WsNayelo@{ shape: win-pane, label: "_Published Jan 08, 2026, 11:50 AM_
+What is the unfccc and why is the us pulling out?" }
+TwrSdsttlni@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:46 AM_
+Trump withdraws us from dozens of international organisations" }
+WHdWTOiomodu@{ shape: win-pane, label: "_Published Sep 04, 2025, 09:05 AM_
+White house drops world trade organisation from list of funding cuts" }
+Frhtsbusoomr@{ shape: win-pane, label: "_Published Sep 04, 2025, 08:26 AM_
+Fed survey shows strains felt by us businesses, households amid tariffs" }
+Tufcladegsdl@{ shape: win-pane, label: "_Published Sep 04, 2025, 05:15 AM_
+Trump unlawfully cancelled harvard’s research grants, us judge rules" }
+Tbsregderts@{ shape: win-pane, label: "_Published Sep 24, 2025, 12:57 AM_
+Trump blasts un for not helping us-led peace efforts, but backs it 100%" }
+TtUtaastogl@{ shape: win-pane, label: "_Published Sep 24, 2025, 12:17 AM_
+Trump tells un that climate change is ‘greatest con job’ globally" }
+TwdrcWlytic@{ shape: win-pane, label: "_Published Sep 23, 2025, 11:37 PM_
+Trump warns drug traffickers: ‘we will blow you out of existence’" }
+TwrSdsttlni@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:46 AM_
+Trump withdraws us from dozens of international organisations" }
+WHdWTOiomodu@{ shape: win-pane, label: "_Published Sep 04, 2025, 09:05 AM_
+White house drops world trade organisation from list of funding cuts" }
+Frhtsbusoomr@{ shape: win-pane, label: "_Published Sep 04, 2025, 08:26 AM_
+Fed survey shows strains felt by us businesses, households amid tariffs" }
+Tufcladegsdl@{ shape: win-pane, label: "_Published Sep 04, 2025, 05:15 AM_
+Trump unlawfully cancelled harvard’s research grants, us judge rules" }
+Tbsregderts@{ shape: win-pane, label: "_Published Sep 24, 2025, 12:57 AM_
+Trump blasts un for not helping us-led peace efforts, but backs it 100%" }
+TtUtaastogl@{ shape: win-pane, label: "_Published Sep 24, 2025, 12:17 AM_
+Trump tells un that climate change is ‘greatest con job’ globally" }
+TwdrcWlytic@{ shape: win-pane, label: "_Published Sep 23, 2025, 11:37 PM_
+Trump warns drug traffickers: ‘we will blow you out of existence’" }
 
-Rainueoanieirs:::txtsize --> Unlysregagtals:::txtsize
-Unlysregagtals:::txtsize --> EihaDsitnnannsake:::txtsize
-EihaDsitnnannsake:::txtsize --> Ranaomedrhuaiuv:::txtsize
-Unlysregagtals:::txtsize --> UeenzfidmeoZsy:::txtsize
-UeenzfidmeoZsy:::txtsize --> EihaDsitnnannsake:::txtsize
-UeenzfidmeoZsy:::txtsize --> Ucnkefunmos:::txtsize
-Rainueoanieirs:::txtsize --> ZsyosnqcsblRacra:::txtsize
-ZsyosnqcsblRacra:::txtsize --> UkugnframKasr:::txtsize
-UkugnframKasr:::txtsize --> RaiirriaKioyi:::txtsize
-UkugnframKasr:::txtsize --> UtLereteirnsot:::txtsize
-ZsyosnqcsblRacra:::txtsize --> Uasemfpkedtbln:::txtsize
-Uasemfpkedtbln:::txtsize --> UnhmrbCsssiy:::txtsize
-Uasemfpkedtbln:::txtsize --> UkugnframKasr:::txtsize
+WsNayelo:::txtsize --> TwrSdsttlni:::txtsize
+TwrSdsttlni:::txtsize --> WHdWTOiomodu:::txtsize
+WHdWTOiomodu:::txtsize --> Frhtsbusoomr:::txtsize
+WHdWTOiomodu:::txtsize --> Tufcladegsdl:::txtsize
+TwrSdsttlni:::txtsize --> Tbsregderts:::txtsize
+Tbsregderts:::txtsize --> TtUtaastogl:::txtsize
+Tbsregderts:::txtsize --> TwdrcWlytic:::txtsize
+WsNayelo:::txtsize --> TwrSdsttlni:::txtsize
+TwrSdsttlni:::txtsize --> WHdWTOiomodu:::txtsize
+WHdWTOiomodu:::txtsize --> Frhtsbusoomr:::txtsize
+WHdWTOiomodu:::txtsize --> Tufcladegsdl:::txtsize
+TwrSdsttlni:::txtsize --> Tbsregderts:::txtsize
+Tbsregderts:::txtsize --> TtUtaastogl:::txtsize
+Tbsregderts:::txtsize --> TwdrcWlytic:::txtsize
 
-Tseepagwiln@{ shape: win-pane, label: "_Published Jan 08, 2026, 07:38 AM_
-Trump says venezuela to purchase us goods with oil deal revenue" }
-Cahoaoreatos@{ shape: win-pane, label: "_Published Jan 07, 2026, 06:56 AM_
-Caracas, washington in talks to export venezuelan oil to us, sources say" }
-TttoiWHaVu@{ shape: win-pane, label: "_Published Jan 07, 2026, 06:20 AM_
-Trump to meet oil companies at white house about venezuela" }
-Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
-Trump’s maduro capture is about drugs, immigrants and china" }
-TdotceetUt@{ shape: win-pane, label: "_Published Jan 06, 2026, 07:03 PM_
-Trump does not want to occupy venezuela, us tells un meeting" }
-TwVuVcrzpegeenpe@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:15 AM_
-Trump warns venezuelan v-p delcy rodriguez will pay a ‘very big price’ if she doesn’t cooperate" }
-Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
-Trump’s maduro capture is about drugs, immigrants and china" }
-TsSnzaraeu@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
-Trump says us to run venezuela after raid captures maduro" }
-MoIrdirhpicru@{ shape: win-pane, label: "_Published Jan 04, 2026, 02:35 AM_
-Mock house, cia source and special forces: the us operation to capture maduro" }
+RaUzfaieaeli@{ shape: win-pane, label: "_Published Jan 08, 2026, 11:33 AM_
+Russia says us seizure of oil tanker is illegal, lawmaker calls it piracy" }
+Uznlksfetrrspi@{ shape: win-pane, label: "_Published Jan 07, 2026, 10:41 PM_
+Us seizes venezuela-linked, russian-flagged oil tanker after weeks-long pursuit" }
+Ustonenlis@{ shape: win-pane, label: "_Published Dec 21, 2025, 11:56 PM_
+Us pursuing third oil tanker near venezuela: officials" }
+Uettreeofay@{ shape: win-pane, label: "_Published Dec 21, 2025, 12:31 AM_
+Us intercepts oil tanker off venezuelan coast, officials say" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
 Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
 Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
 Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
 Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-TsSnzaraeu@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
-Trump says us to run venezuela after raid captures maduro" }
-Usrrfrreiscrs@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:44 AM_
-Us coast guard searches for survivors after strike on suspected drug vessels" }
-Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
-Trump’s maduro capture is about drugs, immigrants and china" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
+Trump says not winning nobel peace prize would be ‘insult’ to us" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
+Us military says it carried out strikes on three vessels in eastern pacific" }
+Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
+Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
 
-Tseepagwiln:::txtsize --> Cahoaoreatos:::txtsize
-Cahoaoreatos:::txtsize --> TttoiWHaVu:::txtsize
-TttoiWHaVu:::txtsize --> Tsrtstsgsh:::txtsize
-TttoiWHaVu:::txtsize --> TdotceetUt:::txtsize
-Cahoaoreatos:::txtsize --> TwVuVcrzpegeenpe:::txtsize
-TwVuVcrzpegeenpe:::txtsize --> Tsrtstsgsh:::txtsize
-TwVuVcrzpegeenpe:::txtsize --> TsSnzaraeu:::txtsize
-Tseepagwiln:::txtsize --> MoIrdirhpicru:::txtsize
-MoIrdirhpicru:::txtsize --> UtVuMorkms:::txtsize
+RaUzfaieaeli:::txtsize --> Uznlksfetrrspi:::txtsize
+Uznlksfetrrspi:::txtsize --> Ustonenlis:::txtsize
+Ustonenlis:::txtsize --> Uettreeofay:::txtsize
+Ustonenlis:::txtsize --> Toskftdasitgz:::txtsize
+Uznlksfetrrspi:::txtsize --> UtVuMorkms:::txtsize
 UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
 UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-MoIrdirhpicru:::txtsize --> TsSnzaraeu:::txtsize
-TsSnzaraeu:::txtsize --> Usrrfrreiscrs:::txtsize
-TsSnzaraeu:::txtsize --> Tsrtstsgsh:::txtsize
+RaUzfaieaeli:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
+Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
+Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
 
-Nesplyipcntvrmon@{ shape: win-pane, label: "_Published Jan 08, 2026, 07:00 AM_
-Nick reiner’s high-profile lawyer quits as public defenders take over; arraignment postponed" }
-Uivgghoorreafpni@{ shape: win-pane, label: "_Published Dec 15, 2025, 11:45 AM_
-Us police investigating deaths of hollywood director rob reiner and wife as apparent homicide" }
-WfHaroetimsrit@{ shape: win-pane, label: "_Published Apr 16, 2025, 09:39 AM_
-Wife of gene hackman searched online about flu-like symptoms before their deaths" }
-Lcecsdttltraht@{ shape: win-pane, label: "_Published Mar 18, 2025, 02:00 PM_
-Late actor gene hackman’s wife died at least a day later than originally thought" }
-PfnoGaneqihecn@{ shape: win-pane, label: "_Published Feb 28, 2025, 05:49 AM_
-Pills found near body of gene hackman’s wife as inquiry into their deaths continues" }
-TnalaCCuuaoa@{ shape: win-pane, label: "_Published Mar 16, 2025, 05:51 PM_
-Taiwanese martial arts actor chang chen-huan found dead at home at age 65" }
-Duklrruosrers@{ shape: win-pane, label: "_Published Feb 16, 2025, 06:00 PM_
-Dee hsu thanks public for their tributes to late sister, actress barbie hsu" }
-FTnuaeLins@{ shape: win-pane, label: "_Published Dec 04, 2024, 05:50 PM_
-Famed taiwanese musician-director liu chia-chang dies at 81" }
-Sfaonpirhsrdn@{ shape: win-pane, label: "_Published Dec 18, 2025, 02:35 AM_
-Son of film-maker rob reiner appears in court on charges he murdered parents" }
-Nesgwresnst@{ shape: win-pane, label: "_Published Dec 16, 2025, 12:22 PM_
-Nick reiner’s struggles with drugs left his parents ‘desperate’" }
-Uivgghoorreafpni@{ shape: win-pane, label: "_Published Dec 15, 2025, 11:45 AM_
-Us police investigating deaths of hollywood director rob reiner and wife as apparent homicide" }
-Risrdaseudddi@{ shape: win-pane, label: "_Published Dec 16, 2025, 04:39 AM_
-Rob reiner’s son, arrested for parents’ murder, struggled with drug addiction" }
-Uivgghoorreafpni@{ shape: win-pane, label: "_Published Dec 15, 2025, 11:45 AM_
-Us police investigating deaths of hollywood director rob reiner and wife as apparent homicide" }
-WfHaroetimsrit@{ shape: win-pane, label: "_Published Apr 16, 2025, 09:39 AM_
-Wife of gene hackman searched online about flu-like symptoms before their deaths" }
-TnalaCCuuaoa@{ shape: win-pane, label: "_Published Mar 16, 2025, 05:51 PM_
-Taiwanese martial arts actor chang chen-huan found dead at home at age 65" }
+ChdleUgicttiimp@{ shape: win-pane, label: "_Published Jan 08, 2026, 10:52 AM_
+China hacked e-mail systems of us congressional committee staff: financial times report" }
+Cseanarueainio@{ shape: win-pane, label: "_Published Jan 05, 2026, 12:10 PM_
+Chinese cyberattacks on taiwan infrastructure averaged 2.6 million a day in 2025: report" }
+Hirgripihaaado@{ shape: win-pane, label: "_Published Jul 19, 2025, 04:45 PM_
+How china’s growing cyber-hacking capabilities have raised alarm around the world" }
+Ccfrrpntbeiepm@{ shape: win-pane, label: "_Published Jul 18, 2025, 07:34 PM_
+Critical infrastructure in s’pore under attack by cyber espionage group: shanmugam" }
+Tncshercroel@{ shape: win-pane, label: "_Published Oct 14, 2025, 04:45 PM_
+Taiwan detects rise in chinese cyber attacks, warns of ‘online troll army’" }
+Cseanaenrmoyp@{ shape: win-pane, label: "_Published Jan 06, 2025, 01:21 PM_
+Chinese cyber attacks on taiwan government averaged 2.4 million a day in 2024: report" }
+Cosrdhraeama@{ shape: win-pane, label: "_Published Jun 05, 2025, 09:11 AM_
+China offers cash rewards for hackers it says are taiwanese military" }
+Cskcucroibedd@{ shape: win-pane, label: "_Published Dec 05, 2025, 06:10 AM_
+Chinese-linked hackers use back door for potential ‘sabotage’, us and canada say" }
+HriIacsadlas@{ shape: win-pane, label: "_Published Nov 25, 2025, 07:40 AM_
+Hackers strike us ivy league schools already under political pressure" }
+Jemecmemtsbil@{ shape: win-pane, label: "_Published Oct 23, 2025, 11:30 AM_
+Japanese companies brace themselves for more attacks as cybercrimes climb" }
+CsaUeodoetis@{ shape: win-pane, label: "_Published Jul 30, 2025, 08:00 AM_
+China sees gaps in us defences, ousted national security official says" }
 
-Nesplyipcntvrmon:::txtsize --> Uivgghoorreafpni:::txtsize
-Uivgghoorreafpni:::txtsize --> WfHaroetimsrit:::txtsize
-WfHaroetimsrit:::txtsize --> Lcecsdttltraht:::txtsize
-WfHaroetimsrit:::txtsize --> PfnoGaneqihecn:::txtsize
-Uivgghoorreafpni:::txtsize --> TnalaCCuuaoa:::txtsize
-TnalaCCuuaoa:::txtsize --> Duklrruosrers:::txtsize
-TnalaCCuuaoa:::txtsize --> FTnuaeLins:::txtsize
-Nesplyipcntvrmon:::txtsize --> Sfaonpirhsrdn:::txtsize
-Sfaonpirhsrdn:::txtsize --> Nesgwresnst:::txtsize
-Nesgwresnst:::txtsize --> Uivgghoorreafpni:::txtsize
-Nesgwresnst:::txtsize --> Risrdaseudddi:::txtsize
-Sfaonpirhsrdn:::txtsize --> Uivgghoorreafpni:::txtsize
-Uivgghoorreafpni:::txtsize --> WfHaroetimsrit:::txtsize
-Uivgghoorreafpni:::txtsize --> TnalaCCuuaoa:::txtsize
+ChdleUgicttiimp:::txtsize --> Cseanarueainio:::txtsize
+Cseanarueainio:::txtsize --> Hirgripihaaado:::txtsize
+Hirgripihaaado:::txtsize --> Ccfrrpntbeiepm:::txtsize
+Cseanarueainio:::txtsize --> Tncshercroel:::txtsize
+Tncshercroel:::txtsize --> Cseanaenrmoyp:::txtsize
+Tncshercroel:::txtsize --> Cosrdhraeama:::txtsize
+ChdleUgicttiimp:::txtsize --> Cskcucroibedd:::txtsize
+Cskcucroibedd:::txtsize --> HriIacsadlas:::txtsize
+HriIacsadlas:::txtsize --> Jemecmemtsbil:::txtsize
+HriIacsadlas:::txtsize --> CsaUeodoetis:::txtsize
 
 ```
-<i>Last updated: 2026-01-08 08:00:45.509623 (GMT+8)</i>
+<i>Last updated: 2026-01-08 12:01:15.271775 (GMT+8)</i>
 <!-- END -->
