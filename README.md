@@ -16,144 +16,108 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Tszffrtdramrcs@{ shape: win-pane, label: "_Published Jan 09, 2026, 07:12 PM_
-Trump’s venezuela focus frustrates top aides worried about midterm elections" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
-Trump says not winning nobel peace prize would be ‘insult’ to us" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
-Us military says it carried out strikes on three vessels in eastern pacific" }
-Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
-Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
-TsoastneRrols@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:14 AM_
-Trump’s approval rating slips to 39%, economy weighs, reuters/ipsos poll finds" }
-Hthnndwrust@{ shape: win-pane, label: "_Published Nov 14, 2025, 08:52 AM_
-‘hope it won’t happen again’: us federal workers return post-shutdown" }
-Tsdootveuns@{ shape: win-pane, label: "_Published Nov 13, 2025, 07:48 AM_
-Trump signs deal to end longest us government shutdown in history" }
-Annoalsvuni@{ shape: win-pane, label: "_Published Nov 10, 2025, 10:23 PM_
-Airlines cancel more than 1,500 us flights on nov 10 as shutdown persists" }
-Thcirlhffesiblr@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:34 AM_
-Trump has ‘alcoholic’s personality’, chief of staff susie wiles says in bombshell interview" }
-Tapsiecofieelers@{ shape: win-pane, label: "_Published Dec 17, 2025, 06:45 AM_
-Trump and top aides publicly defend chief of staff susie wiles after explosive interviews" }
-TsoastneRrols@{ shape: win-pane, label: "_Published Dec 17, 2025, 03:14 AM_
-Trump’s approval rating slips to 39%, economy weighs, reuters/ipsos poll finds" }
+Urootenras@{ shape: win-pane, label: "_Published Jan 09, 2026, 11:31 PM_
+Us supreme court does not issue ruling in trump tariffs case" }
+WaknpfcSmr@{ shape: win-pane, label: "_Published Nov 05, 2025, 06:08 PM_
+What’s at stake when trump tariffs face the supreme court" }
+Tflfnccrudi@{ shape: win-pane, label: "_Published Nov 05, 2025, 08:08 AM_
+Trump formalises fentanyl, reciprocal tariff cuts in deal with xi" }
+Anmubsirooe@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:05 PM_
+‘amazing’ trump-xi summit brings tactical truce, not major reset" }
+CuUveeectt@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:36 AM_
+China urges us to avoid ‘red lines’ after reaching trade truce" }
+Apeurewatuty@{ shape: win-pane, label: "_Published Nov 07, 2025, 04:40 AM_
+A trump supreme court tariff defeat would add to trade uncertainty" }
+Unloehmsewne@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:01 AM_
+Us, china seal deal on rare earths; trump says xi meeting was a 12 on scale of 1 to 10" }
+LnmegvpSaee@{ shape: win-pane, label: "_Published Oct 30, 2025, 12:05 AM_
+Looming trump-xi meeting revives hope of us-china trade truce" }
+Wrteamdar@{ shape: win-pane, label: "_Published Oct 21, 2025, 09:47 PM_
+Why rare earths are china’s trump card in trade war" }
 
-Tszffrtdramrcs:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
-Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
-Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
-Tszffrtdramrcs:::txtsize --> TsoastneRrols:::txtsize
-TsoastneRrols:::txtsize --> Hthnndwrust:::txtsize
-Hthnndwrust:::txtsize --> Tsdootveuns:::txtsize
-Hthnndwrust:::txtsize --> Annoalsvuni:::txtsize
-TsoastneRrols:::txtsize --> Thcirlhffesiblr:::txtsize
-Thcirlhffesiblr:::txtsize --> Tapsiecofieelers:::txtsize
-Thcirlhffesiblr:::txtsize --> TsoastneRrols:::txtsize
+Urootenras:::txtsize --> WaknpfcSmr:::txtsize
+WaknpfcSmr:::txtsize --> Tflfnccrudi:::txtsize
+Tflfnccrudi:::txtsize --> Anmubsirooe:::txtsize
+Tflfnccrudi:::txtsize --> CuUveeectt:::txtsize
+Urootenras:::txtsize --> Apeurewatuty:::txtsize
+Apeurewatuty:::txtsize --> Unloehmsewne:::txtsize
+Unloehmsewne:::txtsize --> LnmegvpSaee:::txtsize
+Unloehmsewne:::txtsize --> Wrteamdar:::txtsize
 
-Perozoirip@{ shape: win-pane, label: "_Published Jan 09, 2026, 06:32 PM_
-Pope leo decries world’s ‘zeal for war’ in fiery vatican speech" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
-Trump says not winning nobel peace prize would be ‘insult’ to us" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
-Us military says it carried out strikes on three vessels in eastern pacific" }
-Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
-Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
-Prsa@{ shape: win-pane, label: "_Published Apr 21, 2025, 04:01 PM_
-Pope francis dies at age 88" }
-Prsdafoaaos@{ shape: win-pane, label: "_Published Mar 23, 2025, 01:28 AM_
-Pope francis to be discharged from hospital on march 23, doctor says" }
-Prsrrpfxtpds@{ shape: win-pane, label: "_Published Mar 22, 2025, 03:53 AM_
-Pope francis must relearn to speak after oxygen therapy, cardinal says" }
-Aecllsoud@{ shape: win-pane, label: "_Published Mar 19, 2025, 09:05 PM_
-As pope francis ails, outlandish rumours run wild" }
-PrsrVaeessl@{ shape: win-pane, label: "_Published Mar 23, 2025, 07:19 PM_
-Pope francis returns to vatican after five weeks in hospital" }
-Prsrrpfxtpds@{ shape: win-pane, label: "_Published Mar 22, 2025, 03:53 AM_
-Pope francis must relearn to speak after oxygen therapy, cardinal says" }
-AgFincadno@{ shape: win-pane, label: "_Published Mar 09, 2025, 04:10 PM_
-Ailing pope francis thanks doctors as condition improves" }
+Eedipoiimst@{ shape: win-pane, label: "_Published Jan 09, 2026, 11:06 PM_
+Eu chief pledges $930m in support for syria during damascus visit" }
+EiloaoS@{ shape: win-pane, label: "_Published May 21, 2025, 01:05 AM_
+Eu to lift all economic sanctions on syria" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
+Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
+Tsynctrhntoi@{ shape: win-pane, label: "_Published May 15, 2025, 05:47 AM_
+Trump’s big syria announcement surprised his own sanctions officials" }
+TmSniSasobtir@{ shape: win-pane, label: "_Published May 14, 2025, 03:47 PM_
+Trump meets syrian president sharaa, urges him to establish ties with israel" }
+Tpekvgniiie@{ shape: win-pane, label: "_Published May 14, 2025, 07:20 AM_
+Trump puts deal-making over rights in saudi arabia policy speech" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
+Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Hmsis@{ shape: win-pane, label: "_Published Dec 08, 2024, 04:00 PM_
+How damascus fell in 11 days" }
 
-Perozoirip:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
-Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
-Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
-Perozoirip:::txtsize --> Prsa:::txtsize
-Prsa:::txtsize --> Prsdafoaaos:::txtsize
-Prsdafoaaos:::txtsize --> Prsrrpfxtpds:::txtsize
-Prsdafoaaos:::txtsize --> Aecllsoud:::txtsize
-Prsa:::txtsize --> PrsrVaeessl:::txtsize
-PrsrVaeessl:::txtsize --> Prsrrpfxtpds:::txtsize
-PrsrVaeessl:::txtsize --> AgFincadno:::txtsize
+Eedipoiimst:::txtsize --> EiloaoS:::txtsize
+EiloaoS:::txtsize --> SnltiARahtoy:::txtsize
+SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
+EiloaoS:::txtsize --> Tsynctrhntoi:::txtsize
+Tsynctrhntoi:::txtsize --> TmSniSasobtir:::txtsize
+Tsynctrhntoi:::txtsize --> Tpekvgniiie:::txtsize
+Eedipoiimst:::txtsize --> SnltiARahtoy:::txtsize
+SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
+Wasrsnnafriben:::txtsize --> SnltiARahtoy:::txtsize
+Wasrsnnafriben:::txtsize --> Hmsis:::txtsize
 
-Tclovtsnlepi@{ shape: win-pane, label: "_Published Jan 09, 2026, 06:31 PM_
-Trump cancels second wave of attacks on venezuela after cooperation" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
-Trump says not winning nobel peace prize would be ‘insult’ to us" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
-Us military says it carried out strikes on three vessels in eastern pacific" }
-Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
-Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
-Trump says not winning nobel peace prize would be ‘insult’ to us" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
-Us military says it carried out strikes on three vessels in eastern pacific" }
-Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
-Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
+KarrnisaRac@{ shape: win-pane, label: "_Published Jan 09, 2026, 10:59 PM_
+Kyiv mayor urges freezing residents to leave as russia attacks" }
+Rasrchiererseh@{ shape: win-pane, label: "_Published Jan 09, 2026, 03:56 PM_
+Russia fires hypersonic oreshnik missile at target near ukraine’s border with nato" }
+Ppeatrcnswn@{ shape: win-pane, label: "_Published Nov 05, 2025, 04:52 AM_
+Putin praises capabilities, prospects of new russian weapons" }
+Rasniurruie@{ shape: win-pane, label: "_Published Oct 26, 2025, 04:01 PM_
+Russia tests new ‘invincible’ nuclear-powered cruise missile" }
+RasepPdprPs@{ shape: win-pane, label: "_Published Oct 29, 2025, 08:36 PM_
+Russia tests nuclear-capable poseidon super torpedo, putin says" }
+Rarnksdpeue@{ shape: win-pane, label: "_Published Nov 25, 2025, 04:43 PM_
+Russian barrage on kyiv kills seven, disrupts energy supplies" }
+UKisrlerr@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:43 PM_
+Us and kyiv discuss reworked plan to end war in ukraine" }
+Rasrchiererseh@{ shape: win-pane, label: "_Published Jan 09, 2026, 03:56 PM_
+Russia fires hypersonic oreshnik missile at target near ukraine’s border with nato" }
+Ppeatrcnswn@{ shape: win-pane, label: "_Published Nov 05, 2025, 04:52 AM_
+Putin praises capabilities, prospects of new russian weapons" }
+Rasniurruie@{ shape: win-pane, label: "_Published Oct 26, 2025, 04:01 PM_
+Russia tests new ‘invincible’ nuclear-powered cruise missile" }
+RasepPdprPs@{ shape: win-pane, label: "_Published Oct 29, 2025, 08:36 PM_
+Russia tests nuclear-capable poseidon super torpedo, putin says" }
+Rarnksdpeue@{ shape: win-pane, label: "_Published Nov 25, 2025, 04:43 PM_
+Russian barrage on kyiv kills seven, disrupts energy supplies" }
+UKisrlerr@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:43 PM_
+Us and kyiv discuss reworked plan to end war in ukraine" }
 
-Tclovtsnlepi:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
-Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
-Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
-Tclovtsnlepi:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
-Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
-Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
+KarrnisaRac:::txtsize --> Rasrchiererseh:::txtsize
+Rasrchiererseh:::txtsize --> Ppeatrcnswn:::txtsize
+Ppeatrcnswn:::txtsize --> Rasniurruie:::txtsize
+Ppeatrcnswn:::txtsize --> RasepPdprPs:::txtsize
+Rasrchiererseh:::txtsize --> Rarnksdpeue:::txtsize
+Rarnksdpeue:::txtsize --> UKisrlerr:::txtsize
+KarrnisaRac:::txtsize --> Rasrchiererseh:::txtsize
+Rasrchiererseh:::txtsize --> Ppeatrcnswn:::txtsize
+Ppeatrcnswn:::txtsize --> Rasniurruie:::txtsize
+Ppeatrcnswn:::txtsize --> RasepPdprPs:::txtsize
+Rasrchiererseh:::txtsize --> Rarnksdpeue:::txtsize
+Rarnksdpeue:::txtsize --> UKisrlerr:::txtsize
 
 ```
-<i>Last updated: 2026-01-09 20:01:20.023223 (GMT+8)</i>
+<i>Last updated: 2026-01-10 00:00:43.446698 (GMT+8)</i>
 <!-- END -->
