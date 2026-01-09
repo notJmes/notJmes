@@ -16,108 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Urootenras@{ shape: win-pane, label: "_Published Jan 09, 2026, 11:31 PM_
-Us supreme court does not issue ruling in trump tariffs case" }
-WaknpfcSmr@{ shape: win-pane, label: "_Published Nov 05, 2025, 06:08 PM_
-What’s at stake when trump tariffs face the supreme court" }
-Tflfnccrudi@{ shape: win-pane, label: "_Published Nov 05, 2025, 08:08 AM_
-Trump formalises fentanyl, reciprocal tariff cuts in deal with xi" }
-Anmubsirooe@{ shape: win-pane, label: "_Published Oct 30, 2025, 05:05 PM_
-‘amazing’ trump-xi summit brings tactical truce, not major reset" }
-CuUveeectt@{ shape: win-pane, label: "_Published Nov 04, 2025, 10:36 AM_
-China urges us to avoid ‘red lines’ after reaching trade truce" }
-Apeurewatuty@{ shape: win-pane, label: "_Published Nov 07, 2025, 04:40 AM_
-A trump supreme court tariff defeat would add to trade uncertainty" }
-Unloehmsewne@{ shape: win-pane, label: "_Published Oct 30, 2025, 10:01 AM_
-Us, china seal deal on rare earths; trump says xi meeting was a 12 on scale of 1 to 10" }
-LnmegvpSaee@{ shape: win-pane, label: "_Published Oct 30, 2025, 12:05 AM_
-Looming trump-xi meeting revives hope of us-china trade truce" }
-Wrteamdar@{ shape: win-pane, label: "_Published Oct 21, 2025, 09:47 PM_
-Why rare earths are china’s trump card in trade war" }
+SIlhsrcomne@{ shape: win-pane, label: "_Published Jan 10, 2026, 02:11 AM_
+Son of iran’s late shah issues ‘urgent’ call for trump to intervene" }
+Ihfeatrreine@{ shape: win-pane, label: "_Published Jan 09, 2026, 06:01 PM_
+Iran shuts off internet as protesters start fires in widening unrest" }
+Saokdatocis@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:34 PM_
+Several reported killed in iran protests over economic woes" }
+Tsrseeworre@{ shape: win-pane, label: "_Published Jun 22, 2025, 08:14 AM_
+Trump says iran must make peace or ‘we will go after’ other targets" }
+Tsrdeecedletdr@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:17 AM_
+Trump says iran and israel agree to a ‘complete and total’ ceasefire to end 12-day war" }
+Uaseynncueoiu@{ shape: win-pane, label: "_Published Jan 09, 2026, 05:41 AM_
+Us treasury’s bessent says iran facing precarious moment, economy in trouble" }
+Uunnaoanlpr@{ shape: win-pane, label: "_Published Dec 31, 2025, 12:09 AM_
+Us issues sanctions related to iran and venezuela weapons trade" }
+Iaerteoune@{ shape: win-pane, label: "_Published Jan 09, 2026, 06:26 AM_
+Iranians step up protests as death toll mounts, internet cut" }
+Ihfeatrreine@{ shape: win-pane, label: "_Published Jan 09, 2026, 06:01 PM_
+Iran shuts off internet as protesters start fires in widening unrest" }
+Saokdatocis@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:34 PM_
+Several reported killed in iran protests over economic woes" }
+Tsrseeworre@{ shape: win-pane, label: "_Published Jun 22, 2025, 08:14 AM_
+Trump says iran must make peace or ‘we will go after’ other targets" }
+Tsrdeecedletdr@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:17 AM_
+Trump says iran and israel agree to a ‘complete and total’ ceasefire to end 12-day war" }
+Uaseynncueoiu@{ shape: win-pane, label: "_Published Jan 09, 2026, 05:41 AM_
+Us treasury’s bessent says iran facing precarious moment, economy in trouble" }
+Uunnaoanlpr@{ shape: win-pane, label: "_Published Dec 31, 2025, 12:09 AM_
+Us issues sanctions related to iran and venezuela weapons trade" }
+Iaerteoune@{ shape: win-pane, label: "_Published Jan 09, 2026, 06:26 AM_
+Iranians step up protests as death toll mounts, internet cut" }
 
-Urootenras:::txtsize --> WaknpfcSmr:::txtsize
-WaknpfcSmr:::txtsize --> Tflfnccrudi:::txtsize
-Tflfnccrudi:::txtsize --> Anmubsirooe:::txtsize
-Tflfnccrudi:::txtsize --> CuUveeectt:::txtsize
-Urootenras:::txtsize --> Apeurewatuty:::txtsize
-Apeurewatuty:::txtsize --> Unloehmsewne:::txtsize
-Unloehmsewne:::txtsize --> LnmegvpSaee:::txtsize
-Unloehmsewne:::txtsize --> Wrteamdar:::txtsize
+SIlhsrcomne:::txtsize --> Ihfeatrreine:::txtsize
+Ihfeatrreine:::txtsize --> Saokdatocis:::txtsize
+Saokdatocis:::txtsize --> Tsrseeworre:::txtsize
+Saokdatocis:::txtsize --> Tsrdeecedletdr:::txtsize
+Ihfeatrreine:::txtsize --> Uaseynncueoiu:::txtsize
+Uaseynncueoiu:::txtsize --> Uunnaoanlpr:::txtsize
+Uaseynncueoiu:::txtsize --> Iaerteoune:::txtsize
+SIlhsrcomne:::txtsize --> Ihfeatrreine:::txtsize
+Ihfeatrreine:::txtsize --> Saokdatocis:::txtsize
+Saokdatocis:::txtsize --> Tsrseeworre:::txtsize
+Saokdatocis:::txtsize --> Tsrdeecedletdr:::txtsize
+Ihfeatrreine:::txtsize --> Uaseynncueoiu:::txtsize
+Uaseynncueoiu:::txtsize --> Uunnaoanlpr:::txtsize
+Uaseynncueoiu:::txtsize --> Iaerteoune:::txtsize
 
-Eedipoiimst@{ shape: win-pane, label: "_Published Jan 09, 2026, 11:06 PM_
-Eu chief pledges $930m in support for syria during damascus visit" }
-EiloaoS@{ shape: win-pane, label: "_Published May 21, 2025, 01:05 AM_
-Eu to lift all economic sanctions on syria" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
-Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
-Tsynctrhntoi@{ shape: win-pane, label: "_Published May 15, 2025, 05:47 AM_
-Trump’s big syria announcement surprised his own sanctions officials" }
-TmSniSasobtir@{ shape: win-pane, label: "_Published May 14, 2025, 03:47 PM_
-Trump meets syrian president sharaa, urges him to establish ties with israel" }
-Tpekvgniiie@{ shape: win-pane, label: "_Published May 14, 2025, 07:20 AM_
-Trump puts deal-making over rights in saudi arabia policy speech" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
-Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Hmsis@{ shape: win-pane, label: "_Published Dec 08, 2024, 04:00 PM_
-How damascus fell in 11 days" }
+Namgroraycn@{ shape: win-pane, label: "_Published Jan 10, 2026, 12:48 AM_
+Nato ‘far from being in a crisis’ over greenland, says top commander" }
+TdsharedlyypWH@{ shape: win-pane, label: "_Published Jan 07, 2026, 05:46 AM_
+Trump discussing how to acquire greenland; us military always an option: white house" }
+Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
+Trump’s maduro capture is about drugs, immigrants and china" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
+Who is venezuela’s president nicolas maduro?" }
+EearbdnienUe@{ shape: win-pane, label: "_Published Jan 06, 2026, 09:26 PM_
+European leaders rally behind greenland in face of renewed us interest" }
+Trsteed@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:16 PM_
+Trump renews push to annex greenland" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
+Trump says not winning nobel peace prize would be ‘insult’ to us" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
+Us military says it carried out strikes on three vessels in eastern pacific" }
+Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
+Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
 
-Eedipoiimst:::txtsize --> EiloaoS:::txtsize
-EiloaoS:::txtsize --> SnltiARahtoy:::txtsize
-SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
-EiloaoS:::txtsize --> Tsynctrhntoi:::txtsize
-Tsynctrhntoi:::txtsize --> TmSniSasobtir:::txtsize
-Tsynctrhntoi:::txtsize --> Tpekvgniiie:::txtsize
-Eedipoiimst:::txtsize --> SnltiARahtoy:::txtsize
-SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
-Wasrsnnafriben:::txtsize --> SnltiARahtoy:::txtsize
-Wasrsnnafriben:::txtsize --> Hmsis:::txtsize
+Namgroraycn:::txtsize --> TdsharedlyypWH:::txtsize
+TdsharedlyypWH:::txtsize --> Tsrtstsgsh:::txtsize
+Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
+Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
+TdsharedlyypWH:::txtsize --> EearbdnienUe:::txtsize
+EearbdnienUe:::txtsize --> Trsteed:::txtsize
+EearbdnienUe:::txtsize --> UtVuMorkms:::txtsize
+Namgroraycn:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
+Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
+Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
 
-KarrnisaRac@{ shape: win-pane, label: "_Published Jan 09, 2026, 10:59 PM_
-Kyiv mayor urges freezing residents to leave as russia attacks" }
-Rasrchiererseh@{ shape: win-pane, label: "_Published Jan 09, 2026, 03:56 PM_
-Russia fires hypersonic oreshnik missile at target near ukraine’s border with nato" }
-Ppeatrcnswn@{ shape: win-pane, label: "_Published Nov 05, 2025, 04:52 AM_
-Putin praises capabilities, prospects of new russian weapons" }
-Rasniurruie@{ shape: win-pane, label: "_Published Oct 26, 2025, 04:01 PM_
-Russia tests new ‘invincible’ nuclear-powered cruise missile" }
-RasepPdprPs@{ shape: win-pane, label: "_Published Oct 29, 2025, 08:36 PM_
-Russia tests nuclear-capable poseidon super torpedo, putin says" }
-Rarnksdpeue@{ shape: win-pane, label: "_Published Nov 25, 2025, 04:43 PM_
-Russian barrage on kyiv kills seven, disrupts energy supplies" }
-UKisrlerr@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:43 PM_
-Us and kyiv discuss reworked plan to end war in ukraine" }
-Rasrchiererseh@{ shape: win-pane, label: "_Published Jan 09, 2026, 03:56 PM_
-Russia fires hypersonic oreshnik missile at target near ukraine’s border with nato" }
-Ppeatrcnswn@{ shape: win-pane, label: "_Published Nov 05, 2025, 04:52 AM_
-Putin praises capabilities, prospects of new russian weapons" }
-Rasniurruie@{ shape: win-pane, label: "_Published Oct 26, 2025, 04:01 PM_
-Russia tests new ‘invincible’ nuclear-powered cruise missile" }
-RasepPdprPs@{ shape: win-pane, label: "_Published Oct 29, 2025, 08:36 PM_
-Russia tests nuclear-capable poseidon super torpedo, putin says" }
-Rarnksdpeue@{ shape: win-pane, label: "_Published Nov 25, 2025, 04:43 PM_
-Russian barrage on kyiv kills seven, disrupts energy supplies" }
-UKisrlerr@{ shape: win-pane, label: "_Published Nov 24, 2025, 05:43 PM_
-Us and kyiv discuss reworked plan to end war in ukraine" }
+Kasicvlleiebl@{ shape: win-pane, label: "_Published Jan 10, 2026, 12:41 AM_
+Kyiv says russia hit two cargo vessels in black sea, syrian crew member killed" }
+Racoirmgeins@{ shape: win-pane, label: "_Published Dec 12, 2025, 11:43 PM_
+Russia attacks two ukraine ports, damaging three turkish-owned vessels" }
+UnaRadesiaele@{ shape: win-pane, label: "_Published Dec 11, 2025, 04:22 AM_
+Ukraine disables russian ‘shadow fleet’ vessel with sea drones in black sea" }
+UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
+Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
+Eeadsaiuccmoc@{ shape: win-pane, label: "_Published Dec 11, 2025, 01:32 AM_
+European leaders discuss ukraine with trump at ‘critical moment’ for peace" }
+Zssuskekrflo@{ shape: win-pane, label: "_Published Dec 12, 2025, 09:58 PM_
+Zelensky visits kupyansk as ukraine retakes parts of front-line town" }
+UnlyiRaitsuiKn@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:19 AM_
+Ukraine’s military dismisses russia’s claim that it has captured city of kupyansk" }
+Unsltnoiabs@{ shape: win-pane, label: "_Published Dec 03, 2025, 12:53 AM_
+Ukraine says still fighting in pokrovsk, city claimed by russia" }
+UnaRadesiaele@{ shape: win-pane, label: "_Published Dec 11, 2025, 04:22 AM_
+Ukraine disables russian ‘shadow fleet’ vessel with sea drones in black sea" }
+UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
+Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
+Skleokusnde@{ shape: win-pane, label: "_Published Dec 17, 2024, 03:10 AM_
+Stricken oil tankers show risks of russia’s ageing ‘shadow fleet’" }
+SiRadentokfler@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:04 AM_
+Sanctioned russian ‘shadow fleet’ tanker at risk of sinking after blast near turkey" }
+Eeadsaiuccmoc@{ shape: win-pane, label: "_Published Dec 11, 2025, 01:32 AM_
+European leaders discuss ukraine with trump at ‘critical moment’ for peace" }
+Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
+Us peace plan for ukraine drew from russian document, sources say" }
+UnhedewScna@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:20 PM_
+Ukraine to share revised peace plan with us on dec 9, zelensky says" }
 
-KarrnisaRac:::txtsize --> Rasrchiererseh:::txtsize
-Rasrchiererseh:::txtsize --> Ppeatrcnswn:::txtsize
-Ppeatrcnswn:::txtsize --> Rasniurruie:::txtsize
-Ppeatrcnswn:::txtsize --> RasepPdprPs:::txtsize
-Rasrchiererseh:::txtsize --> Rarnksdpeue:::txtsize
-Rarnksdpeue:::txtsize --> UKisrlerr:::txtsize
-KarrnisaRac:::txtsize --> Rasrchiererseh:::txtsize
-Rasrchiererseh:::txtsize --> Ppeatrcnswn:::txtsize
-Ppeatrcnswn:::txtsize --> Rasniurruie:::txtsize
-Ppeatrcnswn:::txtsize --> RasepPdprPs:::txtsize
-Rasrchiererseh:::txtsize --> Rarnksdpeue:::txtsize
-Rarnksdpeue:::txtsize --> UKisrlerr:::txtsize
+Kasicvlleiebl:::txtsize --> Racoirmgeins:::txtsize
+Racoirmgeins:::txtsize --> UnaRadesiaele:::txtsize
+UnaRadesiaele:::txtsize --> UntaluneBScyca:::txtsize
+UnaRadesiaele:::txtsize --> Eeadsaiuccmoc:::txtsize
+Racoirmgeins:::txtsize --> Zssuskekrflo:::txtsize
+Zssuskekrflo:::txtsize --> UnlyiRaitsuiKn:::txtsize
+Zssuskekrflo:::txtsize --> Unsltnoiabs:::txtsize
+Kasicvlleiebl:::txtsize --> UnaRadesiaele:::txtsize
+UnaRadesiaele:::txtsize --> UntaluneBScyca:::txtsize
+UntaluneBScyca:::txtsize --> Skleokusnde:::txtsize
+UntaluneBScyca:::txtsize --> SiRadentokfler:::txtsize
+UnaRadesiaele:::txtsize --> Eeadsaiuccmoc:::txtsize
+Eeadsaiuccmoc:::txtsize --> Ucnkefunmos:::txtsize
+Eeadsaiuccmoc:::txtsize --> UnhedewScna:::txtsize
 
 ```
-<i>Last updated: 2026-01-10 00:00:43.446698 (GMT+8)</i>
+<i>Last updated: 2026-01-10 04:01:09.759280 (GMT+8)</i>
 <!-- END -->
