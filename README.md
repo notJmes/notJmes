@@ -16,144 +16,135 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-EeoGonredadou@{ shape: win-pane, label: "_Published Jan 09, 2026, 03:33 AM_
-Eu orders x to keep grok documents for longer, amid sexualised ai photos furore" }
-Bislsoetefbht@{ shape: win-pane, label: "_Published Jan 06, 2026, 11:56 PM_
-Britain presses elon musk’s x to address  intimate ‘deepfakes’ by ai chatbot grok" }
-EssuogMGIslfoo@{ shape: win-pane, label: "_Published Jan 05, 2026, 09:20 PM_
-Eu says it is ‘seriously looking’ into musk’s grok ai over sexual deepfakes of minors" }
-Atrsxmootpngs@{ shape: win-pane, label: "_Published Jan 02, 2026, 08:15 PM_
-Ai chatbot grok posts sexual images of minors after ‘lapses in safeguards’" }
-EernbhncneTtwos@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:05 PM_
-Eu fines x more than $180m for breaching online content rules, tiktok settles with concessions" }
-MsaniarnGm@{ shape: win-pane, label: "_Published Jan 04, 2026, 02:35 PM_
-Malaysia, france, india hit out at x for ‘offensive’ grok images" }
-Atrsxmootpngs@{ shape: win-pane, label: "_Published Jan 02, 2026, 08:15 PM_
-Ai chatbot grok posts sexual images of minors after ‘lapses in safeguards’" }
-Atrsxmootpngs@{ shape: win-pane, label: "_Published Jan 02, 2026, 08:15 PM_
-Ai chatbot grok posts sexual images of minors after ‘lapses in safeguards’" }
-GnsaoetvogEupo@{ shape: win-pane, label: "_Published Jan 07, 2026, 01:15 AM_
-German minister calls for eu legal steps over grok images on elon musk’s x platform" }
-Bislsoetefbht@{ shape: win-pane, label: "_Published Jan 06, 2026, 11:56 PM_
-Britain presses elon musk’s x to address  intimate ‘deepfakes’ by ai chatbot grok" }
-EssuogMGIslfoo@{ shape: win-pane, label: "_Published Jan 05, 2026, 09:20 PM_
-Eu says it is ‘seriously looking’ into musk’s grok ai over sexual deepfakes of minors" }
-MsaniarnGm@{ shape: win-pane, label: "_Published Jan 04, 2026, 02:35 PM_
-Malaysia, france, india hit out at x for ‘offensive’ grok images" }
-EssuogMGIslfoo@{ shape: win-pane, label: "_Published Jan 05, 2026, 09:20 PM_
-Eu says it is ‘seriously looking’ into musk’s grok ai over sexual deepfakes of minors" }
-Atrsxmootpngs@{ shape: win-pane, label: "_Published Jan 02, 2026, 08:15 PM_
-Ai chatbot grok posts sexual images of minors after ‘lapses in safeguards’" }
-EernbhncneTtwos@{ shape: win-pane, label: "_Published Dec 05, 2025, 08:05 PM_
-Eu fines x more than $180m for breaching online content rules, tiktok settles with concessions" }
-
-EeoGonredadou:::txtsize --> Bislsoetefbht:::txtsize
-Bislsoetefbht:::txtsize --> EssuogMGIslfoo:::txtsize
-EssuogMGIslfoo:::txtsize --> Atrsxmootpngs:::txtsize
-EssuogMGIslfoo:::txtsize --> EernbhncneTtwos:::txtsize
-Bislsoetefbht:::txtsize --> MsaniarnGm:::txtsize
-MsaniarnGm:::txtsize --> Atrsxmootpngs:::txtsize
-MsaniarnGm:::txtsize --> Atrsxmootpngs:::txtsize
-EeoGonredadou:::txtsize --> GnsaoetvogEupo:::txtsize
-GnsaoetvogEupo:::txtsize --> Bislsoetefbht:::txtsize
-Bislsoetefbht:::txtsize --> EssuogMGIslfoo:::txtsize
-Bislsoetefbht:::txtsize --> MsaniarnGm:::txtsize
-GnsaoetvogEupo:::txtsize --> EssuogMGIslfoo:::txtsize
-EssuogMGIslfoo:::txtsize --> Atrsxmootpngs:::txtsize
-EssuogMGIslfoo:::txtsize --> EernbhncneTtwos:::txtsize
-
-AaofshoiiolWi@{ shape: win-pane, label: "_Published Jan 09, 2026, 03:03 AM_
-African union reaffirms one china policy in visit by top diplomat wang yi" }
-Ilmrutmrnolspnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:49 PM_
-Israel becomes first country to formally recognise somaliland as independent state" }
-WrAao@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:46 PM_
-What are the abraham accords?" }
-Ilemahmaroais@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:27 PM_
-Israel targets hamas leadership in military strikes on qatar, officials say" }
-Hmdulnrecsud@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:15 PM_
-How hamas’ audacious, well-planned surprise attack on israel unfolded" }
-Upneockecdr@{ shape: win-pane, label: "_Published May 17, 2025, 02:21 PM_
-Uae is pouring money into africa, seeking resources and power" }
-TaniliEtrnn@{ shape: win-pane, label: "_Published May 16, 2025, 01:27 AM_
-Trump announces $260b in deals during uae visit, ai agreement signed" }
-Gtuuelrima@{ shape: win-pane, label: "_Published May 17, 2025, 12:38 AM_
-Gulf states use opulence and flattery to win trump’s heart" }
-Ilmrutmrnolspnt@{ shape: win-pane, label: "_Published Dec 26, 2025, 11:49 PM_
-Israel becomes first country to formally recognise somaliland as independent state" }
-WrAao@{ shape: win-pane, label: "_Published Sep 15, 2025, 05:46 PM_
-What are the abraham accords?" }
-Ilemahmaroais@{ shape: win-pane, label: "_Published Sep 09, 2025, 09:27 PM_
-Israel targets hamas leadership in military strikes on qatar, officials say" }
-Hmdulnrecsud@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:15 PM_
-How hamas’ audacious, well-planned surprise attack on israel unfolded" }
-Upneockecdr@{ shape: win-pane, label: "_Published May 17, 2025, 02:21 PM_
-Uae is pouring money into africa, seeking resources and power" }
-TaniliEtrnn@{ shape: win-pane, label: "_Published May 16, 2025, 01:27 AM_
-Trump announces $260b in deals during uae visit, ai agreement signed" }
-Gtuuelrima@{ shape: win-pane, label: "_Published May 17, 2025, 12:38 AM_
-Gulf states use opulence and flattery to win trump’s heart" }
-
-AaofshoiiolWi:::txtsize --> Ilmrutmrnolspnt:::txtsize
-Ilmrutmrnolspnt:::txtsize --> WrAao:::txtsize
-WrAao:::txtsize --> Ilemahmaroais:::txtsize
-WrAao:::txtsize --> Hmdulnrecsud:::txtsize
-Ilmrutmrnolspnt:::txtsize --> Upneockecdr:::txtsize
-Upneockecdr:::txtsize --> TaniliEtrnn:::txtsize
-Upneockecdr:::txtsize --> Gtuuelrima:::txtsize
-AaofshoiiolWi:::txtsize --> Ilmrutmrnolspnt:::txtsize
-Ilmrutmrnolspnt:::txtsize --> WrAao:::txtsize
-WrAao:::txtsize --> Ilemahmaroais:::txtsize
-WrAao:::txtsize --> Hmdulnrecsud:::txtsize
-Ilmrutmrnolspnt:::txtsize --> Upneockecdr:::txtsize
-Upneockecdr:::txtsize --> TaniliEtrnn:::txtsize
-Upneockecdr:::txtsize --> Gtuuelrima:::txtsize
-
-Tshoteasapyer@{ shape: win-pane, label: "_Published Jan 09, 2026, 02:55 AM_
-Three ships head to us with venezuela oil, as storage capacity concerns grow" }
-Oaohnzakrnee@{ shape: win-pane, label: "_Published Dec 11, 2025, 12:52 PM_
-Over 30 sanctioned ships in venezuela at risk after us tanker seizure" }
-Uzlecoeapageo@{ shape: win-pane, label: "_Published Dec 11, 2025, 06:22 AM_
-Us seizes oil tanker off coast of venezuela, trump says, adding ‘we keep’ the oil" }
-TenurneCbVuo@{ shape: win-pane, label: "_Published Dec 09, 2025, 09:52 PM_
-Trump eyes anti-drug operations in mexico, colombia as venezuela looms" }
-VulScpifromlMo@{ shape: win-pane, label: "_Published Dec 01, 2025, 07:49 AM_
-Venezuela slams us attack preparations after trump confirms call with maduro" }
-UeoVugartipu@{ shape: win-pane, label: "_Published Nov 24, 2025, 10:38 PM_
-Us labels another venezuelan group as terrorist, ramping up pressure" }
-Taitrrwdaghe@{ shape: win-pane, label: "_Published Nov 25, 2025, 05:17 AM_
-Trump administration orders review of biden-era refugees, shows memo" }
-Saeiannhlsnleag@{ shape: win-pane, label: "_Published Nov 23, 2025, 05:12 AM_
-Several international airlines cancel their flights in venezuela after us warning" }
-TsSsoeady@{ shape: win-pane, label: "_Published Jan 08, 2026, 08:11 PM_
-Trump says us oversight of venezuela could last years" }
-Tieosoiutrttlyo@{ shape: win-pane, label: "_Published Jan 08, 2026, 08:46 AM_
-Trump invites colombia’s petro to white house after earlier threat of military action" }
+Tsyotnsnlp@{ shape: win-pane, label: "_Published Jan 09, 2026, 07:50 AM_
+Trump says ‘my own morality’ is only restraint on global power" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
-Cbcnrhdrcgns@{ shape: win-pane, label: "_Published Jan 06, 2026, 06:05 AM_
-Colombia to continue work with us on drug trafficking, government says" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
+Trump says not winning nobel peace prize would be ‘insult’ to us" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
+Us military says it carried out strikes on three vessels in eastern pacific" }
+Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
+Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
+TresGlaau@{ shape: win-pane, label: "_Published Jan 09, 2026, 05:28 AM_
+Take trump seriously on greenland, vance warns europe" }
+TpotGlsaekh@{ shape: win-pane, label: "_Published Jan 08, 2026, 01:59 AM_
+Trump plots offer to buy greenland as nato ally denmark seethes" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+UaGloeefDr@{ shape: win-pane, label: "_Published Jan 05, 2026, 11:40 PM_
+Us attack on greenland would mean the end of nato: denmark pm" }
+
+Tsyotnsnlp:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
+Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
+Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
+Tsyotnsnlp:::txtsize --> TresGlaau:::txtsize
+TresGlaau:::txtsize --> TpotGlsaekh:::txtsize
+TpotGlsaekh:::txtsize --> UtVuMorkms:::txtsize
+TpotGlsaekh:::txtsize --> UaGloeefDr:::txtsize
+
+Ttiseeroedtttsg@{ shape: win-pane, label: "_Published Jan 09, 2026, 07:45 AM_
+Trump team pitches white house ballroom, considers adding storey to part of west wing" }
+WHEilowboudioo@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:39 AM_
+White house east wing will be torn down for ballroom, trump had promised not to do so" }
+Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
+‘music to my ears’: trump brushes off critics of white house demolition" }
+DibsrhoanTbo@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:35 AM_
+Demolition begins on part of white house east wing for trump ballroom" }
+TttCosneetsd@{ shape: win-pane, label: "_Published Sep 04, 2025, 10:43 AM_
+Trump to host tech ceos for first event in newly renovated rose garden" }
+Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
+‘music to my ears’: trump brushes off critics of white house demolition" }
+DibsrhoanTbo@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:35 AM_
+Demolition begins on part of white house east wing for trump ballroom" }
+TttCosneetsd@{ shape: win-pane, label: "_Published Sep 04, 2025, 10:43 AM_
+Trump to host tech ceos for first event in newly renovated rose garden" }
+WHtseaomsgrnaa@{ shape: win-pane, label: "_Published Dec 26, 2025, 08:19 AM_
+White house to present new details for trump’s east wing ballroom in january hearing" }
+WHEilowboudioo@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:39 AM_
+White house east wing will be torn down for ballroom, trump had promised not to do so" }
+Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
+‘music to my ears’: trump brushes off critics of white house demolition" }
+Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
+‘music to my ears’: trump brushes off critics of white house demolition" }
+Jasplpcrdo@{ shape: win-pane, label: "_Published Dec 18, 2025, 07:59 AM_
+Judge allows trump’s ballroom project to proceed for now" }
+WHEilowboudioo@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:39 AM_
+White house east wing will be torn down for ballroom, trump had promised not to do so" }
+Tstatoslmeiuy@{ shape: win-pane, label: "_Published Dec 05, 2025, 07:00 AM_
+Trump selects new architect to oversee ballroom project, white house says" }
+
+Ttiseeroedtttsg:::txtsize --> WHEilowboudioo:::txtsize
+WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
+Mtauuoiotsoo:::txtsize --> DibsrhoanTbo:::txtsize
+Mtauuoiotsoo:::txtsize --> TttCosneetsd:::txtsize
+WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
+Mtauuoiotsoo:::txtsize --> DibsrhoanTbo:::txtsize
+Mtauuoiotsoo:::txtsize --> TttCosneetsd:::txtsize
+Ttiseeroedtttsg:::txtsize --> WHtseaomsgrnaa:::txtsize
+WHtseaomsgrnaa:::txtsize --> WHEilowboudioo:::txtsize
+WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
+WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
+WHtseaomsgrnaa:::txtsize --> Jasplpcrdo:::txtsize
+Jasplpcrdo:::txtsize --> WHEilowboudioo:::txtsize
+Jasplpcrdo:::txtsize --> Tstatoslmeiuy:::txtsize
+
+TseeeghTnebsX@{ shape: win-pane, label: "_Published Jan 09, 2026, 07:36 AM_
+Trump says venezuela does not give china a taiwan precedent, but ‘it’s up to’ xi" }
+Crepowaanl@{ shape: win-pane, label: "_Published Jan 08, 2026, 10:57 AM_
+China refutes comparison between taiwan and venezuela" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
 Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
 Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
 Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
 Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
+Trump’s maduro capture is about drugs, immigrants and china" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
+Who is venezuela’s president nicolas maduro?" }
+Glhhaiwumptes@{ shape: win-pane, label: "_Published Jan 08, 2026, 07:46 PM_
+Greenland should hold talks with us without denmark, opposition leader says" }
+TdsharedlyypWH@{ shape: win-pane, label: "_Published Jan 07, 2026, 05:46 AM_
+Trump discussing how to acquire greenland; us military always an option: white house" }
+Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
+Trump’s maduro capture is about drugs, immigrants and china" }
+EearbdnienUe@{ shape: win-pane, label: "_Published Jan 06, 2026, 09:26 PM_
+European leaders rally behind greenland in face of renewed us interest" }
+UstpsdtgGlh@{ shape: win-pane, label: "_Published Jan 05, 2026, 10:15 PM_
+Us president trump is obsessed with taking over greenland. why?" }
+Trsteed@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:16 PM_
+Trump renews push to annex greenland" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
 
-Tshoteasapyer:::txtsize --> Oaohnzakrnee:::txtsize
-Oaohnzakrnee:::txtsize --> Uzlecoeapageo:::txtsize
-Uzlecoeapageo:::txtsize --> TenurneCbVuo:::txtsize
-Uzlecoeapageo:::txtsize --> VulScpifromlMo:::txtsize
-Oaohnzakrnee:::txtsize --> UeoVugartipu:::txtsize
-UeoVugartipu:::txtsize --> Taitrrwdaghe:::txtsize
-UeoVugartipu:::txtsize --> Saeiannhlsnleag:::txtsize
-Tshoteasapyer:::txtsize --> TsSsoeady:::txtsize
-TsSsoeady:::txtsize --> Tieosoiutrttlyo:::txtsize
-Tieosoiutrttlyo:::txtsize --> UtVuMorkms:::txtsize
-Tieosoiutrttlyo:::txtsize --> Cbcnrhdrcgns:::txtsize
-TsSsoeady:::txtsize --> UtVuMorkms:::txtsize
+TseeeghTnebsX:::txtsize --> Crepowaanl:::txtsize
+Crepowaanl:::txtsize --> UtVuMorkms:::txtsize
 UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
 UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+Crepowaanl:::txtsize --> Tsrtstsgsh:::txtsize
+Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
+Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
+TseeeghTnebsX:::txtsize --> Glhhaiwumptes:::txtsize
+Glhhaiwumptes:::txtsize --> TdsharedlyypWH:::txtsize
+TdsharedlyypWH:::txtsize --> Tsrtstsgsh:::txtsize
+TdsharedlyypWH:::txtsize --> EearbdnienUe:::txtsize
+Glhhaiwumptes:::txtsize --> UstpsdtgGlh:::txtsize
+UstpsdtgGlh:::txtsize --> Trsteed:::txtsize
+UstpsdtgGlh:::txtsize --> UtVuMorkms:::txtsize
 
 ```
-<i>Last updated: 2026-01-09 04:00:29.241523 (GMT+8)</i>
+<i>Last updated: 2026-01-09 08:00:53.811255 (GMT+8)</i>
 <!-- END -->
