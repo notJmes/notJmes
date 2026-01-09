@@ -16,8 +16,94 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+TsSgawinirr@{ shape: win-pane, label: "_Published Jan 09, 2026, 11:46 AM_
+Trump says us ‘going to start now hitting land’ against drug cartels" }
 Tsyotnsnlp@{ shape: win-pane, label: "_Published Jan 09, 2026, 07:50 AM_
 Trump says ‘my own morality’ is only restraint on global power" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+TresGlaau@{ shape: win-pane, label: "_Published Jan 09, 2026, 05:28 AM_
+Take trump seriously on greenland, vance warns europe" }
+TpotGlsaekh@{ shape: win-pane, label: "_Published Jan 08, 2026, 01:59 AM_
+Trump plots offer to buy greenland as nato ally denmark seethes" }
+Tseminlcne@{ shape: win-pane, label: "_Published Jan 09, 2026, 10:46 AM_
+Trump says he will meet with venezuela’s machado next week" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+DrsffeNlacs@{ shape: win-pane, label: "_Published Dec 10, 2025, 10:22 PM_
+Democracies must fight for freedom, nobel laureate machado says" }
+Vupthaoseczr@{ shape: win-pane, label: "_Published Dec 10, 2025, 02:32 PM_
+Venezuela opposition chief machado to miss nobel peace prize award" }
+Vuapiaaobiitloteb@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:47 AM_
+Venezuela says opposition leader machado will be ‘fugitive’ if she travels to norway to accept nobel" }
+
+TsSgawinirr:::txtsize --> Tsyotnsnlp:::txtsize
+Tsyotnsnlp:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+Tsyotnsnlp:::txtsize --> TresGlaau:::txtsize
+TresGlaau:::txtsize --> TpotGlsaekh:::txtsize
+TsSgawinirr:::txtsize --> Tseminlcne:::txtsize
+Tseminlcne:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+Tseminlcne:::txtsize --> DrsffeNlacs:::txtsize
+DrsffeNlacs:::txtsize --> Vupthaoseczr:::txtsize
+DrsffeNlacs:::txtsize --> Vuapiaaobiitloteb:::txtsize
+
+Arttgtesciee@{ shape: win-pane, label: "_Published Jan 09, 2026, 11:34 AM_
+Amid protests, ice told agents to take ‘decisive action’ if threatened" }
+UiifflomMas@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:35 AM_
+Us immigration officer fatally shoots woman in minneapolis" }
+Coboyyuustlts@{ shape: win-pane, label: "_Published Jan 03, 2026, 10:23 AM_
+California ban on openly carrying guns is unconstitutional, court rules" }
+AaNulsornratnaog@{ shape: win-pane, label: "_Published Dec 24, 2025, 07:03 AM_
+Australia’s new south wales passes tougher gun, anti-terror laws after bondi beach shooting" }
+SfictgoiTaita@{ shape: win-pane, label: "_Published Nov 09, 2025, 06:30 AM_
+Shots fired in chicago at immigration officers, trump administration says" }
+UgelbGaarmtei@{ shape: win-pane, label: "_Published Dec 12, 2025, 12:45 AM_
+Us judge orders kilmar abrego garcia released from immigration detention" }
+LieatgpdaraUs@{ shape: win-pane, label: "_Published Oct 25, 2025, 04:25 AM_
+Liberia agrees to accept wrongly deported migrant abrego garcia, us says" }
+Taitanrolrr@{ shape: win-pane, label: "_Published Apr 01, 2025, 09:02 PM_
+Trump administration says man deported to el salvador ‘in error’" }
+IogVmeldmded@{ shape: win-pane, label: "_Published Jan 08, 2026, 10:23 AM_
+Ice shooting in us: victim renee nicole good remembered for her kindness" }
+UiifflomMas@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:35 AM_
+Us immigration officer fatally shoots woman in minneapolis" }
+Coboyyuustlts@{ shape: win-pane, label: "_Published Jan 03, 2026, 10:23 AM_
+California ban on openly carrying guns is unconstitutional, court rules" }
+UgelbGaarmtei@{ shape: win-pane, label: "_Published Dec 12, 2025, 12:45 AM_
+Us judge orders kilmar abrego garcia released from immigration detention" }
+Uroespidyicrr@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:14 AM_
+Us supreme court rejects trump’s military deployment in chicago area, for now" }
+NnaioraTcfiDrlr@{ shape: win-pane, label: "_Published Oct 09, 2025, 09:58 AM_
+National guard poised to enter chicago as trump calls for jailing democratic leaders" }
+
+Arttgtesciee:::txtsize --> UiifflomMas:::txtsize
+UiifflomMas:::txtsize --> Coboyyuustlts:::txtsize
+Coboyyuustlts:::txtsize --> AaNulsornratnaog:::txtsize
+Coboyyuustlts:::txtsize --> SfictgoiTaita:::txtsize
+UiifflomMas:::txtsize --> UgelbGaarmtei:::txtsize
+UgelbGaarmtei:::txtsize --> LieatgpdaraUs:::txtsize
+UgelbGaarmtei:::txtsize --> Taitanrolrr:::txtsize
+Arttgtesciee:::txtsize --> IogVmeldmded:::txtsize
+IogVmeldmded:::txtsize --> UiifflomMas:::txtsize
+UiifflomMas:::txtsize --> Coboyyuustlts:::txtsize
+UiifflomMas:::txtsize --> UgelbGaarmtei:::txtsize
+IogVmeldmded:::txtsize --> Uroespidyicrr:::txtsize
+Uroespidyicrr:::txtsize --> NnaioraTcfiDrlr:::txtsize
+
+Tseminlcne@{ shape: win-pane, label: "_Published Jan 09, 2026, 10:46 AM_
+Trump says he will meet with venezuela’s machado next week" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
 Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
@@ -32,119 +118,36 @@ Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
 Us military says it carried out strikes on three vessels in eastern pacific" }
 Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
 Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
-TresGlaau@{ shape: win-pane, label: "_Published Jan 09, 2026, 05:28 AM_
-Take trump seriously on greenland, vance warns europe" }
-TpotGlsaekh@{ shape: win-pane, label: "_Published Jan 08, 2026, 01:59 AM_
-Trump plots offer to buy greenland as nato ally denmark seethes" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-UaGloeefDr@{ shape: win-pane, label: "_Published Jan 05, 2026, 11:40 PM_
-Us attack on greenland would mean the end of nato: denmark pm" }
+DrsffeNlacs@{ shape: win-pane, label: "_Published Dec 10, 2025, 10:22 PM_
+Democracies must fight for freedom, nobel laureate machado says" }
+Vupthaoseczr@{ shape: win-pane, label: "_Published Dec 10, 2025, 02:32 PM_
+Venezuela opposition chief machado to miss nobel peace prize award" }
+NItafhroehfeem@{ shape: win-pane, label: "_Published Dec 10, 2025, 03:07 AM_
+Nobel institute calls off machado press conference ahead of peace prize ceremony" }
+NseldoPilr@{ shape: win-pane, label: "_Published Dec 05, 2025, 09:30 AM_
+New us strike on alleged drug boat in pacific kills four" }
+Vuapiaaobiitloteb@{ shape: win-pane, label: "_Published Nov 21, 2025, 11:47 AM_
+Venezuela says opposition leader machado will be ‘fugitive’ if she travels to norway to accept nobel" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+TfsztaaMort@{ shape: win-pane, label: "_Published Nov 17, 2025, 08:57 AM_
+Trump floats venezuela talks as us labels maduro a terrorist" }
 
-Tsyotnsnlp:::txtsize --> UtVuMorkms:::txtsize
+Tseminlcne:::txtsize --> UtVuMorkms:::txtsize
 UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
 Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
 Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
 UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
 Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
 Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
-Tsyotnsnlp:::txtsize --> TresGlaau:::txtsize
-TresGlaau:::txtsize --> TpotGlsaekh:::txtsize
-TpotGlsaekh:::txtsize --> UtVuMorkms:::txtsize
-TpotGlsaekh:::txtsize --> UaGloeefDr:::txtsize
-
-Ttiseeroedtttsg@{ shape: win-pane, label: "_Published Jan 09, 2026, 07:45 AM_
-Trump team pitches white house ballroom, considers adding storey to part of west wing" }
-WHEilowboudioo@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:39 AM_
-White house east wing will be torn down for ballroom, trump had promised not to do so" }
-Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
-‘music to my ears’: trump brushes off critics of white house demolition" }
-DibsrhoanTbo@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:35 AM_
-Demolition begins on part of white house east wing for trump ballroom" }
-TttCosneetsd@{ shape: win-pane, label: "_Published Sep 04, 2025, 10:43 AM_
-Trump to host tech ceos for first event in newly renovated rose garden" }
-Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
-‘music to my ears’: trump brushes off critics of white house demolition" }
-DibsrhoanTbo@{ shape: win-pane, label: "_Published Oct 21, 2025, 06:35 AM_
-Demolition begins on part of white house east wing for trump ballroom" }
-TttCosneetsd@{ shape: win-pane, label: "_Published Sep 04, 2025, 10:43 AM_
-Trump to host tech ceos for first event in newly renovated rose garden" }
-WHtseaomsgrnaa@{ shape: win-pane, label: "_Published Dec 26, 2025, 08:19 AM_
-White house to present new details for trump’s east wing ballroom in january hearing" }
-WHEilowboudioo@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:39 AM_
-White house east wing will be torn down for ballroom, trump had promised not to do so" }
-Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
-‘music to my ears’: trump brushes off critics of white house demolition" }
-Mtauuoiotsoo@{ shape: win-pane, label: "_Published Oct 22, 2025, 07:16 AM_
-‘music to my ears’: trump brushes off critics of white house demolition" }
-Jasplpcrdo@{ shape: win-pane, label: "_Published Dec 18, 2025, 07:59 AM_
-Judge allows trump’s ballroom project to proceed for now" }
-WHEilowboudioo@{ shape: win-pane, label: "_Published Oct 23, 2025, 04:39 AM_
-White house east wing will be torn down for ballroom, trump had promised not to do so" }
-Tstatoslmeiuy@{ shape: win-pane, label: "_Published Dec 05, 2025, 07:00 AM_
-Trump selects new architect to oversee ballroom project, white house says" }
-
-Ttiseeroedtttsg:::txtsize --> WHEilowboudioo:::txtsize
-WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
-Mtauuoiotsoo:::txtsize --> DibsrhoanTbo:::txtsize
-Mtauuoiotsoo:::txtsize --> TttCosneetsd:::txtsize
-WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
-Mtauuoiotsoo:::txtsize --> DibsrhoanTbo:::txtsize
-Mtauuoiotsoo:::txtsize --> TttCosneetsd:::txtsize
-Ttiseeroedtttsg:::txtsize --> WHtseaomsgrnaa:::txtsize
-WHtseaomsgrnaa:::txtsize --> WHEilowboudioo:::txtsize
-WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
-WHEilowboudioo:::txtsize --> Mtauuoiotsoo:::txtsize
-WHtseaomsgrnaa:::txtsize --> Jasplpcrdo:::txtsize
-Jasplpcrdo:::txtsize --> WHEilowboudioo:::txtsize
-Jasplpcrdo:::txtsize --> Tstatoslmeiuy:::txtsize
-
-TseeeghTnebsX@{ shape: win-pane, label: "_Published Jan 09, 2026, 07:36 AM_
-Trump says venezuela does not give china a taiwan precedent, but ‘it’s up to’ xi" }
-Crepowaanl@{ shape: win-pane, label: "_Published Jan 08, 2026, 10:57 AM_
-China refutes comparison between taiwan and venezuela" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
-Trump’s maduro capture is about drugs, immigrants and china" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
-Who is venezuela’s president nicolas maduro?" }
-Glhhaiwumptes@{ shape: win-pane, label: "_Published Jan 08, 2026, 07:46 PM_
-Greenland should hold talks with us without denmark, opposition leader says" }
-TdsharedlyypWH@{ shape: win-pane, label: "_Published Jan 07, 2026, 05:46 AM_
-Trump discussing how to acquire greenland; us military always an option: white house" }
-Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
-Trump’s maduro capture is about drugs, immigrants and china" }
-EearbdnienUe@{ shape: win-pane, label: "_Published Jan 06, 2026, 09:26 PM_
-European leaders rally behind greenland in face of renewed us interest" }
-UstpsdtgGlh@{ shape: win-pane, label: "_Published Jan 05, 2026, 10:15 PM_
-Us president trump is obsessed with taking over greenland. why?" }
-Trsteed@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:16 PM_
-Trump renews push to annex greenland" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-
-TseeeghTnebsX:::txtsize --> Crepowaanl:::txtsize
-Crepowaanl:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Crepowaanl:::txtsize --> Tsrtstsgsh:::txtsize
-Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
-Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
-TseeeghTnebsX:::txtsize --> Glhhaiwumptes:::txtsize
-Glhhaiwumptes:::txtsize --> TdsharedlyypWH:::txtsize
-TdsharedlyypWH:::txtsize --> Tsrtstsgsh:::txtsize
-TdsharedlyypWH:::txtsize --> EearbdnienUe:::txtsize
-Glhhaiwumptes:::txtsize --> UstpsdtgGlh:::txtsize
-UstpsdtgGlh:::txtsize --> Trsteed:::txtsize
-UstpsdtgGlh:::txtsize --> UtVuMorkms:::txtsize
+Tseminlcne:::txtsize --> DrsffeNlacs:::txtsize
+DrsffeNlacs:::txtsize --> Vupthaoseczr:::txtsize
+Vupthaoseczr:::txtsize --> NItafhroehfeem:::txtsize
+Vupthaoseczr:::txtsize --> NseldoPilr:::txtsize
+DrsffeNlacs:::txtsize --> Vuapiaaobiitloteb:::txtsize
+Vuapiaaobiitloteb:::txtsize --> Vuoilranhibai:::txtsize
+Vuapiaaobiitloteb:::txtsize --> TfsztaaMort:::txtsize
 
 ```
-<i>Last updated: 2026-01-09 08:00:53.811255 (GMT+8)</i>
+<i>Last updated: 2026-01-09 12:00:26.210225 (GMT+8)</i>
 <!-- END -->
