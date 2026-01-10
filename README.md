@@ -16,135 +16,99 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Urooslncpirao@{ shape: win-pane, label: "_Published Jan 10, 2026, 07:45 AM_
-Us supreme court to hear suit claiming cisco helped china pursue falun gong" }
-kfnuaadepceovt@{ shape: win-pane, label: "_Published May 13, 2025, 05:55 PM_
-$1k fine for man who hung placard around his neck to publicise religious movement" }
-wcehieefllancoss@{ shape: win-pane, label: "_Published Jun 27, 2024, 11:44 AM_
-3 women charged with public order offences for allegedly organising procession outside istana" }
-Peiotioltamnt@{ shape: win-pane, label: "_Published Feb 13, 2024, 10:08 PM_
-Police probing two events in singapore related to israel-hamas conflict" }
-Pektgtsctitamrese@{ shape: win-pane, label: "_Published Apr 30, 2024, 10:13 PM_
-Police, nparks caution against plans for activities linked to israel-hamas war at speakers’ corner" }
-Trdroustvoemteeo@{ shape: win-pane, label: "_Published May 08, 2025, 12:00 AM_
-Two arrested after video of brutal assault goes viral on facebook; machetes, axe seized by police" }
-SupeoiftnwTyv@{ shape: win-pane, label: "_Published Mar 18, 2025, 02:45 PM_
-‘sir, you can’t park here’: photos, video of car stuck in walkway in toa payoh go viral" }
-TtghdaeeTlelgo@{ shape: win-pane, label: "_Published Mar 18, 2025, 07:00 PM_
-Three teenagers charged over alleged roles in ite college west bullying video" }
-UrwhnegcaiFG@{ shape: win-pane, label: "_Published May 27, 2023, 09:45 AM_
-Us charges two with acting in beijing-directed targeting of falun gong" }
-UewsnheeiaiY@{ shape: win-pane, label: "_Published Apr 18, 2023, 06:09 AM_
-Us arrests two for setting up chinese 'secret police station' in new york" }
-Hioasnusssa@{ shape: win-pane, label: "_Published Feb 15, 2023, 05:00 PM_
-How china’s police are ensnaring thousands of suspects abroad" }
-UsemekwrIilut@{ shape: win-pane, label: "_Published Feb 25, 2023, 07:20 AM_
-Us house select committee seeks answers from fbi on china police 'outposts'" }
-UewsnheeiaiY@{ shape: win-pane, label: "_Published Apr 18, 2023, 06:09 AM_
-Us arrests two for setting up chinese 'secret police station' in new york" }
-Hioasnusssa@{ shape: win-pane, label: "_Published Feb 15, 2023, 05:00 PM_
-How china’s police are ensnaring thousands of suspects abroad" }
-UsemekwrIilut@{ shape: win-pane, label: "_Published Feb 25, 2023, 07:20 AM_
-Us house select committee seeks answers from fbi on china police 'outposts'" }
+BmnvttoE@{ shape: win-pane, label: "_Published Jan 10, 2026, 11:25 AM_
+Brew, smell, and serve: ai steals the show at ces 2026" }
+Cahsodcaesiee@{ shape: win-pane, label: "_Published Jan 05, 2026, 07:45 PM_
+Ces 2026: brands showcase ai-powered devices that offer personalised services" }
+Bgdrstepcglehgoon@{ shape: win-pane, label: "_Published Jan 05, 2026, 01:01 PM_
+Baggage-handling robots, smart systems to predict flight delays: new tech being explored for changi’s t5" }
+CiohrhieoTbllgne@{ shape: win-pane, label: "_Published Dec 15, 2025, 12:42 PM_
+Changi airport to hold free exhibition in early 2026 on how t5 will be built; public sign-ups now open" }
+PgkuCiolSftoeep@{ shape: win-pane, label: "_Published May 14, 2025, 03:37 PM_
+Pm wong breaks ground on changi airport t5; all sia, scoot flights to move there when it opens" }
+Oottedorf@{ shape: win-pane, label: "_Published Dec 29, 2025, 05:00 AM_
+2026 outlook: what’s next for tech – and the top stories of 2025" }
+Spamaoesamhgude@{ shape: win-pane, label: "_Published Nov 05, 2025, 08:53 PM_
+Singapore parliament passes online harms bill after more than eight hours of debate" }
+Cpteckibooscbges@{ shape: win-pane, label: "_Published Jan 07, 2026, 07:45 PM_
+Ces 2026: paper batteries, blackjack-playing robot among products showcased by singapore firms" }
+Fuorntpob@{ shape: win-pane, label: "_Published Jan 07, 2026, 11:35 AM_
+From music to mind reading: ai start-ups bet on earbuds" }
+Cahsodcaesiee@{ shape: win-pane, label: "_Published Jan 05, 2026, 07:45 PM_
+Ces 2026: brands showcase ai-powered devices that offer personalised services" }
+Snoimecmot@{ shape: win-pane, label: "_Published Jan 05, 2026, 04:45 PM_
+Samsung to double its ai mobile devices to 800 million units in 2026" }
+Cahsodcaesiee@{ shape: win-pane, label: "_Published Jan 05, 2026, 07:45 PM_
+Ces 2026: brands showcase ai-powered devices that offer personalised services" }
+Bgdrstepcglehgoon@{ shape: win-pane, label: "_Published Jan 05, 2026, 01:01 PM_
+Baggage-handling robots, smart systems to predict flight delays: new tech being explored for changi’s t5" }
+Oottedorf@{ shape: win-pane, label: "_Published Dec 29, 2025, 05:00 AM_
+2026 outlook: what’s next for tech – and the top stories of 2025" }
 
-Urooslncpirao:::txtsize --> kfnuaadepceovt:::txtsize
-kfnuaadepceovt:::txtsize --> wcehieefllancoss:::txtsize
-wcehieefllancoss:::txtsize --> Peiotioltamnt:::txtsize
-wcehieefllancoss:::txtsize --> Pektgtsctitamrese:::txtsize
-kfnuaadepceovt:::txtsize --> Trdroustvoemteeo:::txtsize
-Trdroustvoemteeo:::txtsize --> SupeoiftnwTyv:::txtsize
-Trdroustvoemteeo:::txtsize --> TtghdaeeTlelgo:::txtsize
-Urooslncpirao:::txtsize --> UrwhnegcaiFG:::txtsize
-UrwhnegcaiFG:::txtsize --> UewsnheeiaiY:::txtsize
-UewsnheeiaiY:::txtsize --> Hioasnusssa:::txtsize
-UewsnheeiaiY:::txtsize --> UsemekwrIilut:::txtsize
-UrwhnegcaiFG:::txtsize --> UewsnheeiaiY:::txtsize
-UewsnheeiaiY:::txtsize --> Hioasnusssa:::txtsize
-UewsnheeiaiY:::txtsize --> UsemekwrIilut:::txtsize
+BmnvttoE:::txtsize --> Cahsodcaesiee:::txtsize
+Cahsodcaesiee:::txtsize --> Bgdrstepcglehgoon:::txtsize
+Bgdrstepcglehgoon:::txtsize --> CiohrhieoTbllgne:::txtsize
+Bgdrstepcglehgoon:::txtsize --> PgkuCiolSftoeep:::txtsize
+Cahsodcaesiee:::txtsize --> Oottedorf:::txtsize
+Oottedorf:::txtsize --> Spamaoesamhgude:::txtsize
+BmnvttoE:::txtsize --> Cpteckibooscbges:::txtsize
+Cpteckibooscbges:::txtsize --> Fuorntpob:::txtsize
+Fuorntpob:::txtsize --> Cahsodcaesiee:::txtsize
+Fuorntpob:::txtsize --> Snoimecmot:::txtsize
+Cpteckibooscbges:::txtsize --> Cahsodcaesiee:::txtsize
+Cahsodcaesiee:::txtsize --> Bgdrstepcglehgoon:::txtsize
+Cahsodcaesiee:::txtsize --> Oottedorf:::txtsize
 
-YnearantGlorin@{ shape: win-pane, label: "_Published Jan 10, 2026, 06:31 AM_
-‘you don’t defend leases’: trump says us needs to own greenland to deter russia, china" }
-TpotGlsaekh@{ shape: win-pane, label: "_Published Jan 08, 2026, 01:59 AM_
-Trump plots offer to buy greenland as nato ally denmark seethes" }
+TiiolLAcCieh@{ shape: win-pane, label: "_Published Jan 10, 2026, 11:22 AM_
+Trump is making a power play in latin america, but china is already there" }
+TcdacoeeDonpsae@{ shape: win-pane, label: "_Published Jan 08, 2026, 11:12 AM_
+Trump considers taking control of venezuela’s pdvsa, lowering oil prices to us$50 a barrel: wsj" }
+Cahoaoreatos@{ shape: win-pane, label: "_Published Jan 07, 2026, 06:56 AM_
+Caracas, washington in talks to export venezuelan oil to us, sources say" }
+TttoiWHaVu@{ shape: win-pane, label: "_Published Jan 07, 2026, 06:20 AM_
+Trump to meet oil companies at white house about venezuela" }
+TwVuVcrzpegeenpe@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:15 AM_
+Trump warns venezuelan v-p delcy rodriguez will pay a ‘very big price’ if she doesn’t cooperate" }
+TsteznnCpsen@{ shape: win-pane, label: "_Published Jan 07, 2026, 07:56 PM_
+Trump’s plan to take venezuelan oil angers china, pushes prices down" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+TseesitoiU@{ shape: win-pane, label: "_Published Jan 07, 2026, 08:20 AM_
+Trump says venezuela to send oil worth up to $3.6 billion to us" }
+
+TiiolLAcCieh:::txtsize --> TcdacoeeDonpsae:::txtsize
+TcdacoeeDonpsae:::txtsize --> Cahoaoreatos:::txtsize
+Cahoaoreatos:::txtsize --> TttoiWHaVu:::txtsize
+Cahoaoreatos:::txtsize --> TwVuVcrzpegeenpe:::txtsize
+TcdacoeeDonpsae:::txtsize --> TsteznnCpsen:::txtsize
+TsteznnCpsen:::txtsize --> UtVuMorkms:::txtsize
+TsteznnCpsen:::txtsize --> TseesitoiU:::txtsize
+
+Vufuereotri@{ shape: win-pane, label: "_Published Jan 10, 2026, 10:52 AM_
+Venezuela's furious street forces ready to 'fight' after us raid" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
 Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
 Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
+Trump says not winning nobel peace prize would be ‘insult’ to us" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
 Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
 Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-UaGloeefDr@{ shape: win-pane, label: "_Published Jan 05, 2026, 11:40 PM_
-Us attack on greenland would mean the end of nato: denmark pm" }
-FeesutnGloiareme@{ shape: win-pane, label: "_Published Jan 05, 2026, 03:30 PM_
-France reiterates its support of denmark, greenland sovereignty after renewed trump threats" }
-UstpsdtgGlh@{ shape: win-pane, label: "_Published Jan 05, 2026, 10:15 PM_
-Us president trump is obsessed with taking over greenland. why?" }
-Namgroraycn@{ shape: win-pane, label: "_Published Jan 10, 2026, 12:48 AM_
-Nato ‘far from being in a crisis’ over greenland, says top commander" }
-TdsharedlyypWH@{ shape: win-pane, label: "_Published Jan 07, 2026, 05:46 AM_
-Trump discussing how to acquire greenland; us military always an option: white house" }
-Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
-Trump’s maduro capture is about drugs, immigrants and china" }
-EearbdnienUe@{ shape: win-pane, label: "_Published Jan 06, 2026, 09:26 PM_
-European leaders rally behind greenland in face of renewed us interest" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
+Us military says it carried out strikes on three vessels in eastern pacific" }
+Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
+Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
 
-YnearantGlorin:::txtsize --> TpotGlsaekh:::txtsize
-TpotGlsaekh:::txtsize --> UtVuMorkms:::txtsize
+Vufuereotri:::txtsize --> UtVuMorkms:::txtsize
 UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
+Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
 UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-TpotGlsaekh:::txtsize --> UaGloeefDr:::txtsize
-UaGloeefDr:::txtsize --> FeesutnGloiareme:::txtsize
-UaGloeefDr:::txtsize --> UstpsdtgGlh:::txtsize
-YnearantGlorin:::txtsize --> Namgroraycn:::txtsize
-Namgroraycn:::txtsize --> TdsharedlyypWH:::txtsize
-TdsharedlyypWH:::txtsize --> Tsrtstsgsh:::txtsize
-TdsharedlyypWH:::txtsize --> EearbdnienUe:::txtsize
-Namgroraycn:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-
-WYresemhiJ@{ shape: win-pane, label: "_Published Jan 10, 2026, 06:16 AM_
-While you were sleeping: 5 stories you might have missed, jan 10, 2026" }
-JPacdgeiFamnaa@{ shape: win-pane, label: "_Published Jan 09, 2026, 11:17 PM_
-Japan pm takaichi considering snap election in february, yomiuri newspaper says" }
-STcksaarminr@{ shape: win-pane, label: "_Published Oct 21, 2025, 12:50 PM_
-Sanae takaichi makes history as japan’s first woman prime minister" }
-STctJstnesfignst@{ shape: win-pane, label: "_Published Oct 04, 2025, 12:57 PM_
-Sanae takaichi set to be japan’s first woman prime minister after winning ruling ldp’s election" }
-Puaaorbensoctar@{ shape: win-pane, label: "_Published Oct 16, 2025, 09:42 PM_
-‘pitiful’ sanae takaichi on course to become japan pm as she woos new coalition partner" }
-SIlhsrcomne@{ shape: win-pane, label: "_Published Jan 10, 2026, 02:11 AM_
-Son of iran’s late shah issues ‘urgent’ call for trump to intervene" }
-Ihfeatrreine@{ shape: win-pane, label: "_Published Jan 09, 2026, 06:01 PM_
-Iran shuts off internet as protesters start fires in widening unrest" }
-Saokdatocis@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:34 PM_
-Several reported killed in iran protests over economic woes" }
-Uaseynncueoiu@{ shape: win-pane, label: "_Published Jan 09, 2026, 05:41 AM_
-Us treasury’s bessent says iran facing precarious moment, economy in trouble" }
-Ihfeatrreine@{ shape: win-pane, label: "_Published Jan 09, 2026, 06:01 PM_
-Iran shuts off internet as protesters start fires in widening unrest" }
-Saokdatocis@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:34 PM_
-Several reported killed in iran protests over economic woes" }
-Uaseynncueoiu@{ shape: win-pane, label: "_Published Jan 09, 2026, 05:41 AM_
-Us treasury’s bessent says iran facing precarious moment, economy in trouble" }
-
-WYresemhiJ:::txtsize --> JPacdgeiFamnaa:::txtsize
-JPacdgeiFamnaa:::txtsize --> STcksaarminr:::txtsize
-STcksaarminr:::txtsize --> STctJstnesfignst:::txtsize
-STcksaarminr:::txtsize --> Puaaorbensoctar:::txtsize
-WYresemhiJ:::txtsize --> SIlhsrcomne:::txtsize
-SIlhsrcomne:::txtsize --> Ihfeatrreine:::txtsize
-Ihfeatrreine:::txtsize --> Saokdatocis:::txtsize
-Ihfeatrreine:::txtsize --> Uaseynncueoiu:::txtsize
-SIlhsrcomne:::txtsize --> Ihfeatrreine:::txtsize
-Ihfeatrreine:::txtsize --> Saokdatocis:::txtsize
-Ihfeatrreine:::txtsize --> Uaseynncueoiu:::txtsize
+Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
+Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
 
 ```
-<i>Last updated: 2026-01-10 08:00:33.757054 (GMT+8)</i>
+<i>Last updated: 2026-01-10 12:00:53.803753 (GMT+8)</i>
 <!-- END -->
