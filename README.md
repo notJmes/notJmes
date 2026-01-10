@@ -16,6 +16,89 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+FIognocsseaat@{ shape: win-pane, label: "_Published Jan 10, 2026, 03:27 PM_
+Fatal ice shooting of minneapolis activist sets stage for national protests" }
+ToietafganefwaCo@{ shape: win-pane, label: "_Published Jan 10, 2026, 09:40 AM_
+Trump officials reopen thousands of refugee claims in minnesota following fatal ice shooting" }
+PsUhiaMasrhneiG@{ shape: win-pane, label: "_Published Jan 09, 2026, 07:04 AM_
+Protesters, us authorities clash in minneapolis after ice shooting of renee nicole good" }
+Itogntase@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:11 PM_
+Ice fatal shooting of minnesota woman puts us on edge" }
+UiifflomMas@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:35 AM_
+Us immigration officer fatally shoots woman in minneapolis" }
+VseiderrtiutsDt@{ shape: win-pane, label: "_Published Jan 09, 2026, 08:07 AM_
+Vance says new anti-fraud prosecutor will report to white house, not us justice department" }
+UiifflomMas@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:35 AM_
+Us immigration officer fatally shoots woman in minneapolis" }
+PsUhiaMasrhneiG@{ shape: win-pane, label: "_Published Jan 09, 2026, 07:04 AM_
+Protesters, us authorities clash in minneapolis after ice shooting of renee nicole good" }
+Ndeonahntnins@{ shape: win-pane, label: "_Published Jan 10, 2026, 09:28 AM_
+New video emerges of minnesota ice shooting, further inflaming tensions" }
+UiifflomMas@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:35 AM_
+Us immigration officer fatally shoots woman in minneapolis" }
+Coboyyuustlts@{ shape: win-pane, label: "_Published Jan 03, 2026, 10:23 AM_
+California ban on openly carrying guns is unconstitutional, court rules" }
+UgelbGaarmtei@{ shape: win-pane, label: "_Published Dec 12, 2025, 12:45 AM_
+Us judge orders kilmar abrego garcia released from immigration detention" }
+ToietafganefwaCo@{ shape: win-pane, label: "_Published Jan 10, 2026, 09:40 AM_
+Trump officials reopen thousands of refugee claims in minnesota following fatal ice shooting" }
+PsUhiaMasrhneiG@{ shape: win-pane, label: "_Published Jan 09, 2026, 07:04 AM_
+Protesters, us authorities clash in minneapolis after ice shooting of renee nicole good" }
+VseiderrtiutsDt@{ shape: win-pane, label: "_Published Jan 09, 2026, 08:07 AM_
+Vance says new anti-fraud prosecutor will report to white house, not us justice department" }
+
+FIognocsseaat:::txtsize --> ToietafganefwaCo:::txtsize
+ToietafganefwaCo:::txtsize --> PsUhiaMasrhneiG:::txtsize
+PsUhiaMasrhneiG:::txtsize --> Itogntase:::txtsize
+PsUhiaMasrhneiG:::txtsize --> UiifflomMas:::txtsize
+ToietafganefwaCo:::txtsize --> VseiderrtiutsDt:::txtsize
+VseiderrtiutsDt:::txtsize --> UiifflomMas:::txtsize
+VseiderrtiutsDt:::txtsize --> PsUhiaMasrhneiG:::txtsize
+FIognocsseaat:::txtsize --> Ndeonahntnins:::txtsize
+Ndeonahntnins:::txtsize --> UiifflomMas:::txtsize
+UiifflomMas:::txtsize --> Coboyyuustlts:::txtsize
+UiifflomMas:::txtsize --> UgelbGaarmtei:::txtsize
+Ndeonahntnins:::txtsize --> ToietafganefwaCo:::txtsize
+ToietafganefwaCo:::txtsize --> PsUhiaMasrhneiG:::txtsize
+ToietafganefwaCo:::txtsize --> VseiderrtiutsDt:::txtsize
+
+Dreneeieorowt@{ shape: win-pane, label: "_Published Jan 10, 2026, 02:06 PM_
+Denmark’s greenland dilemma: defending a territory already on its way out" }
+TresGlaau@{ shape: win-pane, label: "_Published Jan 09, 2026, 05:28 AM_
+Take trump seriously on greenland, vance warns europe" }
+TpotGlsaekh@{ shape: win-pane, label: "_Published Jan 08, 2026, 01:59 AM_
+Trump plots offer to buy greenland as nato ally denmark seethes" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+UaGloeefDr@{ shape: win-pane, label: "_Published Jan 05, 2026, 11:40 PM_
+Us attack on greenland would mean the end of nato: denmark pm" }
+TdsharedlyypWH@{ shape: win-pane, label: "_Published Jan 07, 2026, 05:46 AM_
+Trump discussing how to acquire greenland; us military always an option: white house" }
+Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
+Trump’s maduro capture is about drugs, immigrants and china" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
+Who is venezuela’s president nicolas maduro?" }
+EearbdnienUe@{ shape: win-pane, label: "_Published Jan 06, 2026, 09:26 PM_
+European leaders rally behind greenland in face of renewed us interest" }
+Trsteed@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:16 PM_
+Trump renews push to annex greenland" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+
+Dreneeieorowt:::txtsize --> TresGlaau:::txtsize
+TresGlaau:::txtsize --> TpotGlsaekh:::txtsize
+TpotGlsaekh:::txtsize --> UtVuMorkms:::txtsize
+TpotGlsaekh:::txtsize --> UaGloeefDr:::txtsize
+Dreneeieorowt:::txtsize --> TdsharedlyypWH:::txtsize
+TdsharedlyypWH:::txtsize --> Tsrtstsgsh:::txtsize
+Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
+Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
+TdsharedlyypWH:::txtsize --> EearbdnienUe:::txtsize
+EearbdnienUe:::txtsize --> Trsteed:::txtsize
+EearbdnienUe:::txtsize --> UtVuMorkms:::txtsize
+
 Vuaiaierrlis@{ shape: win-pane, label: "_Published Jan 10, 2026, 01:00 PM_
 Venezuela says it is in talks with the us to restore diplomatic ties" }
 Tshduvsmhoeao@{ shape: win-pane, label: "_Published Jan 05, 2026, 01:14 AM_
@@ -62,74 +145,6 @@ Tclovtsnlepi:::txtsize --> UtVuMorkms:::txtsize
 UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
 UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
 
-BmnvttoE@{ shape: win-pane, label: "_Published Jan 10, 2026, 11:25 AM_
-Brew, smell, and serve: ai steals the show at ces 2026" }
-Cahsodcaesiee@{ shape: win-pane, label: "_Published Jan 05, 2026, 07:45 PM_
-Ces 2026: brands showcase ai-powered devices that offer personalised services" }
-Bgdrstepcglehgoon@{ shape: win-pane, label: "_Published Jan 05, 2026, 01:01 PM_
-Baggage-handling robots, smart systems to predict flight delays: new tech being explored for changi’s t5" }
-CiohrhieoTbllgne@{ shape: win-pane, label: "_Published Dec 15, 2025, 12:42 PM_
-Changi airport to hold free exhibition in early 2026 on how t5 will be built; public sign-ups now open" }
-PgkuCiolSftoeep@{ shape: win-pane, label: "_Published May 14, 2025, 03:37 PM_
-Pm wong breaks ground on changi airport t5; all sia, scoot flights to move there when it opens" }
-Oottedorf@{ shape: win-pane, label: "_Published Dec 29, 2025, 05:00 AM_
-2026 outlook: what’s next for tech – and the top stories of 2025" }
-Spamaoesamhgude@{ shape: win-pane, label: "_Published Nov 05, 2025, 08:53 PM_
-Singapore parliament passes online harms bill after more than eight hours of debate" }
-Cpteckibooscbges@{ shape: win-pane, label: "_Published Jan 07, 2026, 07:45 PM_
-Ces 2026: paper batteries, blackjack-playing robot among products showcased by singapore firms" }
-Fuorntpob@{ shape: win-pane, label: "_Published Jan 07, 2026, 11:35 AM_
-From music to mind reading: ai start-ups bet on earbuds" }
-Cahsodcaesiee@{ shape: win-pane, label: "_Published Jan 05, 2026, 07:45 PM_
-Ces 2026: brands showcase ai-powered devices that offer personalised services" }
-Snoimecmot@{ shape: win-pane, label: "_Published Jan 05, 2026, 04:45 PM_
-Samsung to double its ai mobile devices to 800 million units in 2026" }
-Cahsodcaesiee@{ shape: win-pane, label: "_Published Jan 05, 2026, 07:45 PM_
-Ces 2026: brands showcase ai-powered devices that offer personalised services" }
-Bgdrstepcglehgoon@{ shape: win-pane, label: "_Published Jan 05, 2026, 01:01 PM_
-Baggage-handling robots, smart systems to predict flight delays: new tech being explored for changi’s t5" }
-Oottedorf@{ shape: win-pane, label: "_Published Dec 29, 2025, 05:00 AM_
-2026 outlook: what’s next for tech – and the top stories of 2025" }
-
-BmnvttoE:::txtsize --> Cahsodcaesiee:::txtsize
-Cahsodcaesiee:::txtsize --> Bgdrstepcglehgoon:::txtsize
-Bgdrstepcglehgoon:::txtsize --> CiohrhieoTbllgne:::txtsize
-Bgdrstepcglehgoon:::txtsize --> PgkuCiolSftoeep:::txtsize
-Cahsodcaesiee:::txtsize --> Oottedorf:::txtsize
-Oottedorf:::txtsize --> Spamaoesamhgude:::txtsize
-BmnvttoE:::txtsize --> Cpteckibooscbges:::txtsize
-Cpteckibooscbges:::txtsize --> Fuorntpob:::txtsize
-Fuorntpob:::txtsize --> Cahsodcaesiee:::txtsize
-Fuorntpob:::txtsize --> Snoimecmot:::txtsize
-Cpteckibooscbges:::txtsize --> Cahsodcaesiee:::txtsize
-Cahsodcaesiee:::txtsize --> Bgdrstepcglehgoon:::txtsize
-Cahsodcaesiee:::txtsize --> Oottedorf:::txtsize
-
-TiiolLAcCieh@{ shape: win-pane, label: "_Published Jan 10, 2026, 11:22 AM_
-Trump is making a power play in latin america, but china is already there" }
-TcdacoeeDonpsae@{ shape: win-pane, label: "_Published Jan 08, 2026, 11:12 AM_
-Trump considers taking control of venezuela’s pdvsa, lowering oil prices to us$50 a barrel: wsj" }
-Cahoaoreatos@{ shape: win-pane, label: "_Published Jan 07, 2026, 06:56 AM_
-Caracas, washington in talks to export venezuelan oil to us, sources say" }
-TttoiWHaVu@{ shape: win-pane, label: "_Published Jan 07, 2026, 06:20 AM_
-Trump to meet oil companies at white house about venezuela" }
-TwVuVcrzpegeenpe@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:15 AM_
-Trump warns venezuelan v-p delcy rodriguez will pay a ‘very big price’ if she doesn’t cooperate" }
-TsteznnCpsen@{ shape: win-pane, label: "_Published Jan 07, 2026, 07:56 PM_
-Trump’s plan to take venezuelan oil angers china, pushes prices down" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-TseesitoiU@{ shape: win-pane, label: "_Published Jan 07, 2026, 08:20 AM_
-Trump says venezuela to send oil worth up to $3.6 billion to us" }
-
-TiiolLAcCieh:::txtsize --> TcdacoeeDonpsae:::txtsize
-TcdacoeeDonpsae:::txtsize --> Cahoaoreatos:::txtsize
-Cahoaoreatos:::txtsize --> TttoiWHaVu:::txtsize
-Cahoaoreatos:::txtsize --> TwVuVcrzpegeenpe:::txtsize
-TcdacoeeDonpsae:::txtsize --> TsteznnCpsen:::txtsize
-TsteznnCpsen:::txtsize --> UtVuMorkms:::txtsize
-TsteznnCpsen:::txtsize --> TseesitoiU:::txtsize
-
 ```
-<i>Last updated: 2026-01-10 13:25:40.233013 (GMT+8)</i>
+<i>Last updated: 2026-01-10 16:01:01.760237 (GMT+8)</i>
 <!-- END -->
