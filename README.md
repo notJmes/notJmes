@@ -16,144 +16,132 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Aahatttoo@{ shape: win-pane, label: "_Published Jan 10, 2026, 06:45 PM_
-Ankara city hall says water cuts due to ‘record drought’" }
-SskehdritEe@{ shape: win-pane, label: "_Published Jan 09, 2026, 02:35 PM_
-Storms spark travel mayhem and power cuts in northern europe" }
-Eesscadlpi@{ shape: win-pane, label: "_Published Jan 07, 2026, 07:16 PM_
-Europe faces transport chaos as deadly cold snap persists" }
-SaerdadgEe@{ shape: win-pane, label: "_Published Jan 07, 2026, 02:11 AM_
-Six dead in weather accidents as cold snap grips europe" }
-SaerdadgEe@{ shape: win-pane, label: "_Published Jan 07, 2026, 02:11 AM_
-Six dead in weather accidents as cold snap grips europe" }
-SaerdadgEe@{ shape: win-pane, label: "_Published Jan 07, 2026, 02:11 AM_
-Six dead in weather accidents as cold snap grips europe" }
-Knodnipssa@{ shape: win-pane, label: "_Published Jan 06, 2026, 11:21 PM_
-Klm running out of de-icing fluid for planes in amsterdam" }
-Nyhsrcn@{ shape: win-pane, label: "_Published Jan 07, 2026, 06:24 PM_
-Norway sees hottest year on record in 2025" }
-Etoseehei@{ shape: win-pane, label: "_Published Jan 09, 2026, 04:30 PM_
-Experts say oceans soaked up record heat levels in 2025" }
-Ostamnalo@{ shape: win-pane, label: "_Published Jun 02, 2025, 01:21 PM_
-Oceans feel the heat from human climate pollution" }
-Ituwofoei@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:53 AM_
-In a hotter future, what comes after coral reefs die?" }
-Rrsdmemthwr@{ shape: win-pane, label: "_Published Jan 12, 2023, 10:16 AM_
-Researchers sound alarm as ocean temperatures hit new record" }
-Rdhetrcei@{ shape: win-pane, label: "_Published Mar 06, 2024, 02:53 PM_
-Record-smashing heat in the world’s oceans, explained" }
-Bbesdrcted@{ shape: win-pane, label: "_Published Mar 06, 2024, 12:28 PM_
-Birds, beetles, bugs could help replace pesticides: study" }
-Mnnasvunosnht@{ shape: win-pane, label: "_Published Mar 05, 2024, 03:10 PM_
-Many environmentalists don’t vote, but a us non-profit is trying to change that" }
+Scaasodsiaaoecd@{ shape: win-pane, label: "_Published Jan 10, 2026, 11:11 PM_
+Suspect detained after six shot dead in mississippi, say us law enforcement, local media" }
+UiifflomMas@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:35 AM_
+Us immigration officer fatally shoots woman in minneapolis" }
+Coboyyuustlts@{ shape: win-pane, label: "_Published Jan 03, 2026, 10:23 AM_
+California ban on openly carrying guns is unconstitutional, court rules" }
+AaNulsornratnaog@{ shape: win-pane, label: "_Published Dec 24, 2025, 07:03 AM_
+Australia’s new south wales passes tougher gun, anti-terror laws after bondi beach shooting" }
+SfictgoiTaita@{ shape: win-pane, label: "_Published Nov 09, 2025, 06:30 AM_
+Shots fired in chicago at immigration officers, trump administration says" }
+UgelbGaarmtei@{ shape: win-pane, label: "_Published Dec 12, 2025, 12:45 AM_
+Us judge orders kilmar abrego garcia released from immigration detention" }
+LieatgpdaraUs@{ shape: win-pane, label: "_Published Oct 25, 2025, 04:25 AM_
+Liberia agrees to accept wrongly deported migrant abrego garcia, us says" }
+Taitanrolrr@{ shape: win-pane, label: "_Published Apr 01, 2025, 09:02 PM_
+Trump administration says man deported to el salvador ‘in error’" }
+Teoglechitrj@{ shape: win-pane, label: "_Published Jan 08, 2026, 01:11 PM_
+Two die in shooting at salt lake city church parking lot, several injured" }
+IogVmeldmded@{ shape: win-pane, label: "_Published Jan 08, 2026, 10:23 AM_
+Ice shooting in us: victim renee nicole good remembered for her kindness" }
+UiifflomMas@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:35 AM_
+Us immigration officer fatally shoots woman in minneapolis" }
+Uroespidyicrr@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:14 AM_
+Us supreme court rejects trump’s military deployment in chicago area, for now" }
+Bcstildcsmr@{ shape: win-pane, label: "_Published Jan 07, 2026, 08:57 AM_
+Brown campus shooter said he plotted attack for ‘six semesters’" }
+GoereBUr@{ shape: win-pane, label: "_Published Dec 15, 2025, 02:06 PM_
+Gunshots, then 12 hours of fear at brown university" }
+GoereBUr@{ shape: win-pane, label: "_Published Dec 15, 2025, 02:06 PM_
+Gunshots, then 12 hours of fear at brown university" }
 
-Aahatttoo:::txtsize --> SskehdritEe:::txtsize
-SskehdritEe:::txtsize --> Eesscadlpi:::txtsize
-Eesscadlpi:::txtsize --> SaerdadgEe:::txtsize
-Eesscadlpi:::txtsize --> SaerdadgEe:::txtsize
-SskehdritEe:::txtsize --> SaerdadgEe:::txtsize
-SaerdadgEe:::txtsize --> Knodnipssa:::txtsize
-SaerdadgEe:::txtsize --> Nyhsrcn:::txtsize
-Aahatttoo:::txtsize --> Etoseehei:::txtsize
-Etoseehei:::txtsize --> Ostamnalo:::txtsize
-Ostamnalo:::txtsize --> Ituwofoei:::txtsize
-Ostamnalo:::txtsize --> Rrsdmemthwr:::txtsize
-Etoseehei:::txtsize --> Rdhetrcei:::txtsize
-Rdhetrcei:::txtsize --> Bbesdrcted:::txtsize
-Rdhetrcei:::txtsize --> Mnnasvunosnht:::txtsize
+Scaasodsiaaoecd:::txtsize --> UiifflomMas:::txtsize
+UiifflomMas:::txtsize --> Coboyyuustlts:::txtsize
+Coboyyuustlts:::txtsize --> AaNulsornratnaog:::txtsize
+Coboyyuustlts:::txtsize --> SfictgoiTaita:::txtsize
+UiifflomMas:::txtsize --> UgelbGaarmtei:::txtsize
+UgelbGaarmtei:::txtsize --> LieatgpdaraUs:::txtsize
+UgelbGaarmtei:::txtsize --> Taitanrolrr:::txtsize
+Scaasodsiaaoecd:::txtsize --> Teoglechitrj:::txtsize
+Teoglechitrj:::txtsize --> IogVmeldmded:::txtsize
+IogVmeldmded:::txtsize --> UiifflomMas:::txtsize
+IogVmeldmded:::txtsize --> Uroespidyicrr:::txtsize
+Teoglechitrj:::txtsize --> Bcstildcsmr:::txtsize
+Bcstildcsmr:::txtsize --> GoereBUr:::txtsize
+Bcstildcsmr:::txtsize --> GoereBUr:::txtsize
 
-Glpawrodidshsyey@{ shape: win-pane, label: "_Published Jan 10, 2026, 06:26 PM_
-Greenland’s parliament will bring forward meeting to discuss us threats, party leaders say" }
-UstpsdtgGlh@{ shape: win-pane, label: "_Published Jan 05, 2026, 10:15 PM_
-Us president trump is obsessed with taking over greenland. why?" }
-Trsteed@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:16 PM_
-Trump renews push to annex greenland" }
-EihspGlnle@{ shape: win-pane, label: "_Published Jan 08, 2025, 09:36 PM_
-Explainer: why does trump want greenland and could he get it?" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-YnearantGlorin@{ shape: win-pane, label: "_Published Jan 10, 2026, 06:31 AM_
-‘you don’t defend leases’: trump says us needs to own greenland to deter russia, china" }
-TpotGlsaekh@{ shape: win-pane, label: "_Published Jan 08, 2026, 01:59 AM_
-Trump plots offer to buy greenland as nato ally denmark seethes" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-UaGloeefDr@{ shape: win-pane, label: "_Published Jan 05, 2026, 11:40 PM_
-Us attack on greenland would mean the end of nato: denmark pm" }
-Namgroraycn@{ shape: win-pane, label: "_Published Jan 10, 2026, 12:48 AM_
-Nato ‘far from being in a crisis’ over greenland, says top commander" }
-TdsharedlyypWH@{ shape: win-pane, label: "_Published Jan 07, 2026, 05:46 AM_
-Trump discussing how to acquire greenland; us military always an option: white house" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
+NenarwhnOaa@{ shape: win-pane, label: "_Published Jan 10, 2026, 11:10 PM_
+Nestle’s tainted baby formula woes challenge ceo’s revamp plan" }
+NelfoavEeue@{ shape: win-pane, label: "_Published Jan 06, 2026, 10:16 AM_
+Nestle recalls infant formula in several european countries" }
+Grsteeiorncna@{ shape: win-pane, label: "_Published Feb 17, 2025, 11:54 PM_
+Gerber baby snack to be recalled in singapore for potential choking hazard" }
+wtpcliuhasa@{ shape: win-pane, label: "_Published Feb 11, 2025, 06:35 PM_
+2 weight-loss products sold online found to have banned substances" }
+Sdeodopcrionlce@{ shape: win-pane, label: "_Published Feb 07, 2025, 11:55 PM_
+Sfa orders recall of food seasoning products for possibly containing plastic pieces" }
+lfabmeeSrnuoess@{ shape: win-pane, label: "_Published Nov 09, 2025, 02:18 PM_
+2 lots of byheart baby formula recalled in us after infant botulism outbreak in 10 states" }
+Grsteeiorncna@{ shape: win-pane, label: "_Published Feb 17, 2025, 11:54 PM_
+Gerber baby snack to be recalled in singapore for potential choking hazard" }
+FrellSSsrith@{ shape: win-pane, label: "_Published Oct 14, 2024, 11:45 AM_
+Fisher-price recalls 2 million ‘snuga swings’ after five infant deaths" }
+SolassAardpbeex@{ shape: win-pane, label: "_Published Jan 08, 2026, 10:35 PM_
+Sfa stops sale of 5 batches of nestle nan infant formula due to possible presence of toxin" }
+NelfoavEeue@{ shape: win-pane, label: "_Published Jan 06, 2026, 10:16 AM_
+Nestle recalls infant formula in several european countries" }
+Grsteeiorncna@{ shape: win-pane, label: "_Published Feb 17, 2025, 11:54 PM_
+Gerber baby snack to be recalled in singapore for potential choking hazard" }
+lfabmeeSrnuoess@{ shape: win-pane, label: "_Published Nov 09, 2025, 02:18 PM_
+2 lots of byheart baby formula recalled in us after infant botulism outbreak in 10 states" }
+Nenmewsrhrai@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:25 AM_
+Nestle infant formula recall widens to africa, the americas and asia" }
+NelfoavEeue@{ shape: win-pane, label: "_Published Jan 06, 2026, 10:16 AM_
+Nestle recalls infant formula in several european countries" }
+NelfoavEeue@{ shape: win-pane, label: "_Published Jan 06, 2026, 10:16 AM_
+Nestle recalls infant formula in several european countries" }
 
-Glpawrodidshsyey:::txtsize --> UstpsdtgGlh:::txtsize
-UstpsdtgGlh:::txtsize --> Trsteed:::txtsize
-Trsteed:::txtsize --> EihspGlnle:::txtsize
-Trsteed:::txtsize --> UtVuMorkms:::txtsize
-UstpsdtgGlh:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Glpawrodidshsyey:::txtsize --> YnearantGlorin:::txtsize
-YnearantGlorin:::txtsize --> TpotGlsaekh:::txtsize
-TpotGlsaekh:::txtsize --> UtVuMorkms:::txtsize
-TpotGlsaekh:::txtsize --> UaGloeefDr:::txtsize
-YnearantGlorin:::txtsize --> Namgroraycn:::txtsize
-Namgroraycn:::txtsize --> TdsharedlyypWH:::txtsize
-Namgroraycn:::txtsize --> UtVuMorkms:::txtsize
+NenarwhnOaa:::txtsize --> NelfoavEeue:::txtsize
+NelfoavEeue:::txtsize --> Grsteeiorncna:::txtsize
+Grsteeiorncna:::txtsize --> wtpcliuhasa:::txtsize
+Grsteeiorncna:::txtsize --> Sdeodopcrionlce:::txtsize
+NelfoavEeue:::txtsize --> lfabmeeSrnuoess:::txtsize
+lfabmeeSrnuoess:::txtsize --> Grsteeiorncna:::txtsize
+lfabmeeSrnuoess:::txtsize --> FrellSSsrith:::txtsize
+NenarwhnOaa:::txtsize --> SolassAardpbeex:::txtsize
+SolassAardpbeex:::txtsize --> NelfoavEeue:::txtsize
+NelfoavEeue:::txtsize --> Grsteeiorncna:::txtsize
+NelfoavEeue:::txtsize --> lfabmeeSrnuoess:::txtsize
+SolassAardpbeex:::txtsize --> Nenmewsrhrai:::txtsize
+Nenmewsrhrai:::txtsize --> NelfoavEeue:::txtsize
+Nenmewsrhrai:::txtsize --> NelfoavEeue:::txtsize
 
-GnRagrnwuetttrai@{ shape: win-pane, label: "_Published Jan 10, 2026, 06:11 PM_
-Governor of russia’s belgorod region says 600,000 without power, heat, or water after ukrainian strike" }
-KarrnisaRac@{ shape: win-pane, label: "_Published Jan 09, 2026, 10:59 PM_
-Kyiv mayor urges freezing residents to leave as russia attacks" }
-Rasrchiererseh@{ shape: win-pane, label: "_Published Jan 09, 2026, 03:56 PM_
-Russia fires hypersonic oreshnik missile at target near ukraine’s border with nato" }
-Ppeatrcnswn@{ shape: win-pane, label: "_Published Nov 05, 2025, 04:52 AM_
-Putin praises capabilities, prospects of new russian weapons" }
-Rarnksdpeue@{ shape: win-pane, label: "_Published Nov 25, 2025, 04:43 PM_
-Russian barrage on kyiv kills seven, disrupts energy supplies" }
-Rasrchiererseh@{ shape: win-pane, label: "_Published Jan 09, 2026, 03:56 PM_
-Russia fires hypersonic oreshnik missile at target near ukraine’s border with nato" }
-Ppeatrcnswn@{ shape: win-pane, label: "_Published Nov 05, 2025, 04:52 AM_
-Putin praises capabilities, prospects of new russian weapons" }
-Rarnksdpeue@{ shape: win-pane, label: "_Published Nov 25, 2025, 04:43 PM_
-Russian barrage on kyiv kills seven, disrupts energy supplies" }
-SskehdritEe@{ shape: win-pane, label: "_Published Jan 09, 2026, 02:35 PM_
-Storms spark travel mayhem and power cuts in northern europe" }
-Eesscadlpi@{ shape: win-pane, label: "_Published Jan 07, 2026, 07:16 PM_
-Europe faces transport chaos as deadly cold snap persists" }
-SaerdadgEe@{ shape: win-pane, label: "_Published Jan 07, 2026, 02:11 AM_
-Six dead in weather accidents as cold snap grips europe" }
-SaerdadgEe@{ shape: win-pane, label: "_Published Jan 07, 2026, 02:11 AM_
-Six dead in weather accidents as cold snap grips europe" }
-SaerdadgEe@{ shape: win-pane, label: "_Published Jan 07, 2026, 02:11 AM_
-Six dead in weather accidents as cold snap grips europe" }
-Knodnipssa@{ shape: win-pane, label: "_Published Jan 06, 2026, 11:21 PM_
-Klm running out of de-icing fluid for planes in amsterdam" }
-Nyhsrcn@{ shape: win-pane, label: "_Published Jan 07, 2026, 06:24 PM_
-Norway sees hottest year on record in 2025" }
+Ycevtfnotoan@{ shape: win-pane, label: "_Published Jan 10, 2026, 11:06 PM_
+Yemen completes evacuation of stranded tourists on socotra island" }
+Spnngiteeidrgint@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:49 PM_
+Singaporean woman among 420 tourists stranded on yemeni island amid rising tensions in country" }
+Ulrraster@{ shape: win-pane, label: "_Published Jan 03, 2026, 05:40 PM_
+Uae calls for restraint amid escalating yemen crisis" }
+Rhsoenntals@{ shape: win-pane, label: "_Published Jan 03, 2026, 03:20 PM_
+Riyadh urges dialogue between yemeni factions amid clashes" }
+Yssagdsdn@{ shape: win-pane, label: "_Published Jan 10, 2026, 08:06 PM_
+Yemen’s main separatist group denies it is disbanding" }
+EihaiYayaraene@{ shape: win-pane, label: "_Published Jan 08, 2026, 11:41 PM_
+Explainer: what’s happening in yemen, and why are saudi arabia and the uae involved?" }
+Slaosnrteinh@{ shape: win-pane, label: "_Published Jan 08, 2026, 12:36 PM_
+Saudi-led coalition says yemen separatist leader arrives in abu dhabi" }
+tsuidihdYfi@{ shape: win-pane, label: "_Published Jan 05, 2026, 09:04 PM_
+400 tourists stuck on island as flights halted over yemen fighting" }
+Slaosnrteinh@{ shape: win-pane, label: "_Published Jan 08, 2026, 12:36 PM_
+Saudi-led coalition says yemen separatist leader arrives in abu dhabi" }
+Ulrraster@{ shape: win-pane, label: "_Published Jan 03, 2026, 05:40 PM_
+Uae calls for restraint amid escalating yemen crisis" }
+FfnrteporsSUnse@{ shape: win-pane, label: "_Published Jan 07, 2026, 12:36 PM_
+Fate of yemen separatist leader deepens southern crisis as saudi-uae tensions linger" }
 
-GnRagrnwuetttrai:::txtsize --> KarrnisaRac:::txtsize
-KarrnisaRac:::txtsize --> Rasrchiererseh:::txtsize
-Rasrchiererseh:::txtsize --> Ppeatrcnswn:::txtsize
-Rasrchiererseh:::txtsize --> Rarnksdpeue:::txtsize
-KarrnisaRac:::txtsize --> Rasrchiererseh:::txtsize
-Rasrchiererseh:::txtsize --> Ppeatrcnswn:::txtsize
-Rasrchiererseh:::txtsize --> Rarnksdpeue:::txtsize
-GnRagrnwuetttrai:::txtsize --> SskehdritEe:::txtsize
-SskehdritEe:::txtsize --> Eesscadlpi:::txtsize
-Eesscadlpi:::txtsize --> SaerdadgEe:::txtsize
-Eesscadlpi:::txtsize --> SaerdadgEe:::txtsize
-SskehdritEe:::txtsize --> SaerdadgEe:::txtsize
-SaerdadgEe:::txtsize --> Knodnipssa:::txtsize
-SaerdadgEe:::txtsize --> Nyhsrcn:::txtsize
+Ycevtfnotoan:::txtsize --> Spnngiteeidrgint:::txtsize
+Spnngiteeidrgint:::txtsize --> Ulrraster:::txtsize
+Ulrraster:::txtsize --> Rhsoenntals:::txtsize
+Ycevtfnotoan:::txtsize --> Yssagdsdn:::txtsize
+Yssagdsdn:::txtsize --> EihaiYayaraene:::txtsize
+EihaiYayaraene:::txtsize --> Slaosnrteinh:::txtsize
+EihaiYayaraene:::txtsize --> tsuidihdYfi:::txtsize
+Yssagdsdn:::txtsize --> Slaosnrteinh:::txtsize
+Slaosnrteinh:::txtsize --> Ulrraster:::txtsize
+Slaosnrteinh:::txtsize --> FfnrteporsSUnse:::txtsize
 
 ```
-<i>Last updated: 2026-01-10 20:00:25.523399 (GMT+8)</i>
+<i>Last updated: 2026-01-11 00:00:48.675654 (GMT+8)</i>
 <!-- END -->
