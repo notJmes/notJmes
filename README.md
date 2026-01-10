@@ -16,8 +16,8 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Scaasodsiaaoecd@{ shape: win-pane, label: "_Published Jan 10, 2026, 11:11 PM_
-Suspect detained after six shot dead in mississippi, say us law enforcement, local media" }
+AfIogeioeisoua@{ shape: win-pane, label: "_Published Jan 11, 2026, 03:40 AM_
+After fatal ice shooting, minneapolis mayor urges activists to avoid trump’s ‘bait’" }
 UiifflomMas@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:35 AM_
 Us immigration officer fatally shoots woman in minneapolis" }
 Coboyyuustlts@{ shape: win-pane, label: "_Published Jan 03, 2026, 10:23 AM_
@@ -32,116 +32,128 @@ LieatgpdaraUs@{ shape: win-pane, label: "_Published Oct 25, 2025, 04:25 AM_
 Liberia agrees to accept wrongly deported migrant abrego garcia, us says" }
 Taitanrolrr@{ shape: win-pane, label: "_Published Apr 01, 2025, 09:02 PM_
 Trump administration says man deported to el salvador ‘in error’" }
-Teoglechitrj@{ shape: win-pane, label: "_Published Jan 08, 2026, 01:11 PM_
-Two die in shooting at salt lake city church parking lot, several injured" }
-IogVmeldmded@{ shape: win-pane, label: "_Published Jan 08, 2026, 10:23 AM_
-Ice shooting in us: victim renee nicole good remembered for her kindness" }
+PsUhiaMasrhneiG@{ shape: win-pane, label: "_Published Jan 09, 2026, 07:04 AM_
+Protesters, us authorities clash in minneapolis after ice shooting of renee nicole good" }
+Itogntase@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:11 PM_
+Ice fatal shooting of minnesota woman puts us on edge" }
 UiifflomMas@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:35 AM_
 Us immigration officer fatally shoots woman in minneapolis" }
-Uroespidyicrr@{ shape: win-pane, label: "_Published Dec 24, 2025, 06:14 AM_
-Us supreme court rejects trump’s military deployment in chicago area, for now" }
-Bcstildcsmr@{ shape: win-pane, label: "_Published Jan 07, 2026, 08:57 AM_
-Brown campus shooter said he plotted attack for ‘six semesters’" }
-GoereBUr@{ shape: win-pane, label: "_Published Dec 15, 2025, 02:06 PM_
-Gunshots, then 12 hours of fear at brown university" }
-GoereBUr@{ shape: win-pane, label: "_Published Dec 15, 2025, 02:06 PM_
-Gunshots, then 12 hours of fear at brown university" }
+Tsedgocnsbnk@{ shape: win-pane, label: "_Published Dec 21, 2025, 07:31 PM_
+Trump set to expand immigration crackdown in 2026 despite brewing backlash" }
+UiifflomMas@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:35 AM_
+Us immigration officer fatally shoots woman in minneapolis" }
+Coboyyuustlts@{ shape: win-pane, label: "_Published Jan 03, 2026, 10:23 AM_
+California ban on openly carrying guns is unconstitutional, court rules" }
+UgelbGaarmtei@{ shape: win-pane, label: "_Published Dec 12, 2025, 12:45 AM_
+Us judge orders kilmar abrego garcia released from immigration detention" }
 
-Scaasodsiaaoecd:::txtsize --> UiifflomMas:::txtsize
+AfIogeioeisoua:::txtsize --> UiifflomMas:::txtsize
 UiifflomMas:::txtsize --> Coboyyuustlts:::txtsize
 Coboyyuustlts:::txtsize --> AaNulsornratnaog:::txtsize
 Coboyyuustlts:::txtsize --> SfictgoiTaita:::txtsize
 UiifflomMas:::txtsize --> UgelbGaarmtei:::txtsize
 UgelbGaarmtei:::txtsize --> LieatgpdaraUs:::txtsize
 UgelbGaarmtei:::txtsize --> Taitanrolrr:::txtsize
-Scaasodsiaaoecd:::txtsize --> Teoglechitrj:::txtsize
-Teoglechitrj:::txtsize --> IogVmeldmded:::txtsize
-IogVmeldmded:::txtsize --> UiifflomMas:::txtsize
-IogVmeldmded:::txtsize --> Uroespidyicrr:::txtsize
-Teoglechitrj:::txtsize --> Bcstildcsmr:::txtsize
-Bcstildcsmr:::txtsize --> GoereBUr:::txtsize
-Bcstildcsmr:::txtsize --> GoereBUr:::txtsize
+AfIogeioeisoua:::txtsize --> PsUhiaMasrhneiG:::txtsize
+PsUhiaMasrhneiG:::txtsize --> Itogntase:::txtsize
+Itogntase:::txtsize --> UiifflomMas:::txtsize
+Itogntase:::txtsize --> Tsedgocnsbnk:::txtsize
+PsUhiaMasrhneiG:::txtsize --> UiifflomMas:::txtsize
+UiifflomMas:::txtsize --> Coboyyuustlts:::txtsize
+UiifflomMas:::txtsize --> UgelbGaarmtei:::txtsize
 
-NenarwhnOaa@{ shape: win-pane, label: "_Published Jan 10, 2026, 11:10 PM_
-Nestle’s tainted baby formula woes challenge ceo’s revamp plan" }
-NelfoavEeue@{ shape: win-pane, label: "_Published Jan 06, 2026, 10:16 AM_
-Nestle recalls infant formula in several european countries" }
-Grsteeiorncna@{ shape: win-pane, label: "_Published Feb 17, 2025, 11:54 PM_
-Gerber baby snack to be recalled in singapore for potential choking hazard" }
-wtpcliuhasa@{ shape: win-pane, label: "_Published Feb 11, 2025, 06:35 PM_
-2 weight-loss products sold online found to have banned substances" }
-Sdeodopcrionlce@{ shape: win-pane, label: "_Published Feb 07, 2025, 11:55 PM_
-Sfa orders recall of food seasoning products for possibly containing plastic pieces" }
-lfabmeeSrnuoess@{ shape: win-pane, label: "_Published Nov 09, 2025, 02:18 PM_
-2 lots of byheart baby formula recalled in us after infant botulism outbreak in 10 states" }
-Grsteeiorncna@{ shape: win-pane, label: "_Published Feb 17, 2025, 11:54 PM_
-Gerber baby snack to be recalled in singapore for potential choking hazard" }
-FrellSSsrith@{ shape: win-pane, label: "_Published Oct 14, 2024, 11:45 AM_
-Fisher-price recalls 2 million ‘snuga swings’ after five infant deaths" }
-SolassAardpbeex@{ shape: win-pane, label: "_Published Jan 08, 2026, 10:35 PM_
-Sfa stops sale of 5 batches of nestle nan infant formula due to possible presence of toxin" }
-NelfoavEeue@{ shape: win-pane, label: "_Published Jan 06, 2026, 10:16 AM_
-Nestle recalls infant formula in several european countries" }
-Grsteeiorncna@{ shape: win-pane, label: "_Published Feb 17, 2025, 11:54 PM_
-Gerber baby snack to be recalled in singapore for potential choking hazard" }
-lfabmeeSrnuoess@{ shape: win-pane, label: "_Published Nov 09, 2025, 02:18 PM_
-2 lots of byheart baby formula recalled in us after infant botulism outbreak in 10 states" }
-Nenmewsrhrai@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:25 AM_
-Nestle infant formula recall widens to africa, the americas and asia" }
-NelfoavEeue@{ shape: win-pane, label: "_Published Jan 06, 2026, 10:16 AM_
-Nestle recalls infant formula in several european countries" }
-NelfoavEeue@{ shape: win-pane, label: "_Published Jan 06, 2026, 10:16 AM_
-Nestle recalls infant formula in several european countries" }
+Psuemviagnmy@{ shape: win-pane, label: "_Published Jan 11, 2026, 03:15 AM_
+Protester puts pre-islamic revolution iran flag on london embassy" }
+Nlinnalcessd@{ shape: win-pane, label: "_Published Jan 10, 2026, 05:44 PM_
+New rallies in iran as son of shah calls for city centres to be seized" }
+Irslicssdn@{ shape: win-pane, label: "_Published Jan 09, 2026, 01:06 PM_
+Iran’s rulers face legitimacy crisis amid spreading unrest" }
+Iaoirceptecd@{ shape: win-pane, label: "_Published Jan 04, 2026, 04:52 PM_
+Iranians protest in tehran as clashes grip country’s west: local media" }
+Iaerteoune@{ shape: win-pane, label: "_Published Jan 09, 2026, 06:26 AM_
+Iranians step up protests as death toll mounts, internet cut" }
+Nahaptrrti@{ shape: win-pane, label: "_Published Jan 08, 2026, 05:30 PM_
+New clashes hit iran as opposition urges protests, strikes" }
+Itdroeniaers@{ shape: win-pane, label: "_Published Jan 07, 2026, 07:51 PM_
+Iran’s top judge warns protesters of ‘no leniency’ as unrest persists" }
+Ixeaepfr@{ shape: win-pane, label: "_Published Jan 07, 2026, 01:10 PM_
+Iran executes man accused of spying for israel" }
+Ihfeatrreine@{ shape: win-pane, label: "_Published Jan 09, 2026, 06:01 PM_
+Iran shuts off internet as protesters start fires in widening unrest" }
+Saokdatocis@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:34 PM_
+Several reported killed in iran protests over economic woes" }
+Tsrseeworre@{ shape: win-pane, label: "_Published Jun 22, 2025, 08:14 AM_
+Trump says iran must make peace or ‘we will go after’ other targets" }
+Tsrdeecedletdr@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:17 AM_
+Trump says iran and israel agree to a ‘complete and total’ ceasefire to end 12-day war" }
+Uaseynncueoiu@{ shape: win-pane, label: "_Published Jan 09, 2026, 05:41 AM_
+Us treasury’s bessent says iran facing precarious moment, economy in trouble" }
+Uunnaoanlpr@{ shape: win-pane, label: "_Published Dec 31, 2025, 12:09 AM_
+Us issues sanctions related to iran and venezuela weapons trade" }
+Iaerteoune@{ shape: win-pane, label: "_Published Jan 09, 2026, 06:26 AM_
+Iranians step up protests as death toll mounts, internet cut" }
 
-NenarwhnOaa:::txtsize --> NelfoavEeue:::txtsize
-NelfoavEeue:::txtsize --> Grsteeiorncna:::txtsize
-Grsteeiorncna:::txtsize --> wtpcliuhasa:::txtsize
-Grsteeiorncna:::txtsize --> Sdeodopcrionlce:::txtsize
-NelfoavEeue:::txtsize --> lfabmeeSrnuoess:::txtsize
-lfabmeeSrnuoess:::txtsize --> Grsteeiorncna:::txtsize
-lfabmeeSrnuoess:::txtsize --> FrellSSsrith:::txtsize
-NenarwhnOaa:::txtsize --> SolassAardpbeex:::txtsize
-SolassAardpbeex:::txtsize --> NelfoavEeue:::txtsize
-NelfoavEeue:::txtsize --> Grsteeiorncna:::txtsize
-NelfoavEeue:::txtsize --> lfabmeeSrnuoess:::txtsize
-SolassAardpbeex:::txtsize --> Nenmewsrhrai:::txtsize
-Nenmewsrhrai:::txtsize --> NelfoavEeue:::txtsize
-Nenmewsrhrai:::txtsize --> NelfoavEeue:::txtsize
+Psuemviagnmy:::txtsize --> Nlinnalcessd:::txtsize
+Nlinnalcessd:::txtsize --> Irslicssdn:::txtsize
+Irslicssdn:::txtsize --> Iaoirceptecd:::txtsize
+Irslicssdn:::txtsize --> Iaerteoune:::txtsize
+Nlinnalcessd:::txtsize --> Nahaptrrti:::txtsize
+Nahaptrrti:::txtsize --> Itdroeniaers:::txtsize
+Nahaptrrti:::txtsize --> Ixeaepfr:::txtsize
+Psuemviagnmy:::txtsize --> Ihfeatrreine:::txtsize
+Ihfeatrreine:::txtsize --> Saokdatocis:::txtsize
+Saokdatocis:::txtsize --> Tsrseeworre:::txtsize
+Saokdatocis:::txtsize --> Tsrdeecedletdr:::txtsize
+Ihfeatrreine:::txtsize --> Uaseynncueoiu:::txtsize
+Uaseynncueoiu:::txtsize --> Uunnaoanlpr:::txtsize
+Uaseynncueoiu:::txtsize --> Iaerteoune:::txtsize
 
-Ycevtfnotoan@{ shape: win-pane, label: "_Published Jan 10, 2026, 11:06 PM_
-Yemen completes evacuation of stranded tourists on socotra island" }
-Spnngiteeidrgint@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:49 PM_
-Singaporean woman among 420 tourists stranded on yemeni island amid rising tensions in country" }
-Ulrraster@{ shape: win-pane, label: "_Published Jan 03, 2026, 05:40 PM_
-Uae calls for restraint amid escalating yemen crisis" }
-Rhsoenntals@{ shape: win-pane, label: "_Published Jan 03, 2026, 03:20 PM_
-Riyadh urges dialogue between yemeni factions amid clashes" }
-Yssagdsdn@{ shape: win-pane, label: "_Published Jan 10, 2026, 08:06 PM_
-Yemen’s main separatist group denies it is disbanding" }
-EihaiYayaraene@{ shape: win-pane, label: "_Published Jan 08, 2026, 11:41 PM_
-Explainer: what’s happening in yemen, and why are saudi arabia and the uae involved?" }
-Slaosnrteinh@{ shape: win-pane, label: "_Published Jan 08, 2026, 12:36 PM_
-Saudi-led coalition says yemen separatist leader arrives in abu dhabi" }
-tsuidihdYfi@{ shape: win-pane, label: "_Published Jan 05, 2026, 09:04 PM_
-400 tourists stuck on island as flights halted over yemen fighting" }
-Slaosnrteinh@{ shape: win-pane, label: "_Published Jan 08, 2026, 12:36 PM_
-Saudi-led coalition says yemen separatist leader arrives in abu dhabi" }
-Ulrraster@{ shape: win-pane, label: "_Published Jan 03, 2026, 05:40 PM_
-Uae calls for restraint amid escalating yemen crisis" }
-FfnrteporsSUnse@{ shape: win-pane, label: "_Published Jan 07, 2026, 12:36 PM_
-Fate of yemen separatist leader deepens southern crisis as saudi-uae tensions linger" }
+Tmtcrozeeiencs@{ shape: win-pane, label: "_Published Jan 11, 2026, 02:28 AM_
+Trump moves to block courts from seizing venezuelan oil revenue in us accounts" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
+Trump says not winning nobel peace prize would be ‘insult’ to us" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
+Us military says it carried out strikes on three vessels in eastern pacific" }
+Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
+Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
+Vuaiaittiai@{ shape: win-pane, label: "_Published Jan 10, 2026, 01:00 PM_
+Venezuela says it is in talks with us to restore diplomatic ties" }
+Tshduvsmhoeao@{ shape: win-pane, label: "_Published Jan 05, 2026, 01:14 AM_
+Trump snatches maduro but leaves his regime in charge of venezuela for now" }
+TsSnzaraeu@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
+Trump says us to run venezuela after raid captures maduro" }
+VuMoiuyytdn@{ shape: win-pane, label: "_Published Jan 04, 2026, 07:03 PM_
+Venezuela’s maduro sits in us custody as loyalists vow defiance" }
+Tclovtsnlepi@{ shape: win-pane, label: "_Published Jan 09, 2026, 06:31 PM_
+Trump cancels second wave of attacks on venezuela after cooperation" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
 
-Ycevtfnotoan:::txtsize --> Spnngiteeidrgint:::txtsize
-Spnngiteeidrgint:::txtsize --> Ulrraster:::txtsize
-Ulrraster:::txtsize --> Rhsoenntals:::txtsize
-Ycevtfnotoan:::txtsize --> Yssagdsdn:::txtsize
-Yssagdsdn:::txtsize --> EihaiYayaraene:::txtsize
-EihaiYayaraene:::txtsize --> Slaosnrteinh:::txtsize
-EihaiYayaraene:::txtsize --> tsuidihdYfi:::txtsize
-Yssagdsdn:::txtsize --> Slaosnrteinh:::txtsize
-Slaosnrteinh:::txtsize --> Ulrraster:::txtsize
-Slaosnrteinh:::txtsize --> FfnrteporsSUnse:::txtsize
+Tmtcrozeeiencs:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
+Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
+Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
+Tmtcrozeeiencs:::txtsize --> Vuaiaittiai:::txtsize
+Vuaiaittiai:::txtsize --> Tshduvsmhoeao:::txtsize
+Tshduvsmhoeao:::txtsize --> TsSnzaraeu:::txtsize
+Tshduvsmhoeao:::txtsize --> VuMoiuyytdn:::txtsize
+Vuaiaittiai:::txtsize --> Tclovtsnlepi:::txtsize
+Tclovtsnlepi:::txtsize --> UtVuMorkms:::txtsize
+Tclovtsnlepi:::txtsize --> UtVuMorkms:::txtsize
 
 ```
-<i>Last updated: 2026-01-11 00:00:48.675654 (GMT+8)</i>
+<i>Last updated: 2026-01-11 04:01:12.184975 (GMT+8)</i>
 <!-- END -->
