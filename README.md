@@ -16,135 +16,144 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-FIognocsseaat@{ shape: win-pane, label: "_Published Jan 10, 2026, 03:27 PM_
-Fatal ice shooting of minneapolis activist sets stage for national protests" }
-ToietafganefwaCo@{ shape: win-pane, label: "_Published Jan 10, 2026, 09:40 AM_
-Trump officials reopen thousands of refugee claims in minnesota following fatal ice shooting" }
-PsUhiaMasrhneiG@{ shape: win-pane, label: "_Published Jan 09, 2026, 07:04 AM_
-Protesters, us authorities clash in minneapolis after ice shooting of renee nicole good" }
-Itogntase@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:11 PM_
-Ice fatal shooting of minnesota woman puts us on edge" }
-UiifflomMas@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:35 AM_
-Us immigration officer fatally shoots woman in minneapolis" }
-VseiderrtiutsDt@{ shape: win-pane, label: "_Published Jan 09, 2026, 08:07 AM_
-Vance says new anti-fraud prosecutor will report to white house, not us justice department" }
-UiifflomMas@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:35 AM_
-Us immigration officer fatally shoots woman in minneapolis" }
-PsUhiaMasrhneiG@{ shape: win-pane, label: "_Published Jan 09, 2026, 07:04 AM_
-Protesters, us authorities clash in minneapolis after ice shooting of renee nicole good" }
-Ndeonahntnins@{ shape: win-pane, label: "_Published Jan 10, 2026, 09:28 AM_
-New video emerges of minnesota ice shooting, further inflaming tensions" }
-UiifflomMas@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:35 AM_
-Us immigration officer fatally shoots woman in minneapolis" }
-Coboyyuustlts@{ shape: win-pane, label: "_Published Jan 03, 2026, 10:23 AM_
-California ban on openly carrying guns is unconstitutional, court rules" }
-UgelbGaarmtei@{ shape: win-pane, label: "_Published Dec 12, 2025, 12:45 AM_
-Us judge orders kilmar abrego garcia released from immigration detention" }
-ToietafganefwaCo@{ shape: win-pane, label: "_Published Jan 10, 2026, 09:40 AM_
-Trump officials reopen thousands of refugee claims in minnesota following fatal ice shooting" }
-PsUhiaMasrhneiG@{ shape: win-pane, label: "_Published Jan 09, 2026, 07:04 AM_
-Protesters, us authorities clash in minneapolis after ice shooting of renee nicole good" }
-VseiderrtiutsDt@{ shape: win-pane, label: "_Published Jan 09, 2026, 08:07 AM_
-Vance says new anti-fraud prosecutor will report to white house, not us justice department" }
+Aahatttoo@{ shape: win-pane, label: "_Published Jan 10, 2026, 06:45 PM_
+Ankara city hall says water cuts due to ‘record drought’" }
+SskehdritEe@{ shape: win-pane, label: "_Published Jan 09, 2026, 02:35 PM_
+Storms spark travel mayhem and power cuts in northern europe" }
+Eesscadlpi@{ shape: win-pane, label: "_Published Jan 07, 2026, 07:16 PM_
+Europe faces transport chaos as deadly cold snap persists" }
+SaerdadgEe@{ shape: win-pane, label: "_Published Jan 07, 2026, 02:11 AM_
+Six dead in weather accidents as cold snap grips europe" }
+SaerdadgEe@{ shape: win-pane, label: "_Published Jan 07, 2026, 02:11 AM_
+Six dead in weather accidents as cold snap grips europe" }
+SaerdadgEe@{ shape: win-pane, label: "_Published Jan 07, 2026, 02:11 AM_
+Six dead in weather accidents as cold snap grips europe" }
+Knodnipssa@{ shape: win-pane, label: "_Published Jan 06, 2026, 11:21 PM_
+Klm running out of de-icing fluid for planes in amsterdam" }
+Nyhsrcn@{ shape: win-pane, label: "_Published Jan 07, 2026, 06:24 PM_
+Norway sees hottest year on record in 2025" }
+Etoseehei@{ shape: win-pane, label: "_Published Jan 09, 2026, 04:30 PM_
+Experts say oceans soaked up record heat levels in 2025" }
+Ostamnalo@{ shape: win-pane, label: "_Published Jun 02, 2025, 01:21 PM_
+Oceans feel the heat from human climate pollution" }
+Ituwofoei@{ shape: win-pane, label: "_Published Jun 02, 2025, 11:53 AM_
+In a hotter future, what comes after coral reefs die?" }
+Rrsdmemthwr@{ shape: win-pane, label: "_Published Jan 12, 2023, 10:16 AM_
+Researchers sound alarm as ocean temperatures hit new record" }
+Rdhetrcei@{ shape: win-pane, label: "_Published Mar 06, 2024, 02:53 PM_
+Record-smashing heat in the world’s oceans, explained" }
+Bbesdrcted@{ shape: win-pane, label: "_Published Mar 06, 2024, 12:28 PM_
+Birds, beetles, bugs could help replace pesticides: study" }
+Mnnasvunosnht@{ shape: win-pane, label: "_Published Mar 05, 2024, 03:10 PM_
+Many environmentalists don’t vote, but a us non-profit is trying to change that" }
 
-FIognocsseaat:::txtsize --> ToietafganefwaCo:::txtsize
-ToietafganefwaCo:::txtsize --> PsUhiaMasrhneiG:::txtsize
-PsUhiaMasrhneiG:::txtsize --> Itogntase:::txtsize
-PsUhiaMasrhneiG:::txtsize --> UiifflomMas:::txtsize
-ToietafganefwaCo:::txtsize --> VseiderrtiutsDt:::txtsize
-VseiderrtiutsDt:::txtsize --> UiifflomMas:::txtsize
-VseiderrtiutsDt:::txtsize --> PsUhiaMasrhneiG:::txtsize
-FIognocsseaat:::txtsize --> Ndeonahntnins:::txtsize
-Ndeonahntnins:::txtsize --> UiifflomMas:::txtsize
-UiifflomMas:::txtsize --> Coboyyuustlts:::txtsize
-UiifflomMas:::txtsize --> UgelbGaarmtei:::txtsize
-Ndeonahntnins:::txtsize --> ToietafganefwaCo:::txtsize
-ToietafganefwaCo:::txtsize --> PsUhiaMasrhneiG:::txtsize
-ToietafganefwaCo:::txtsize --> VseiderrtiutsDt:::txtsize
+Aahatttoo:::txtsize --> SskehdritEe:::txtsize
+SskehdritEe:::txtsize --> Eesscadlpi:::txtsize
+Eesscadlpi:::txtsize --> SaerdadgEe:::txtsize
+Eesscadlpi:::txtsize --> SaerdadgEe:::txtsize
+SskehdritEe:::txtsize --> SaerdadgEe:::txtsize
+SaerdadgEe:::txtsize --> Knodnipssa:::txtsize
+SaerdadgEe:::txtsize --> Nyhsrcn:::txtsize
+Aahatttoo:::txtsize --> Etoseehei:::txtsize
+Etoseehei:::txtsize --> Ostamnalo:::txtsize
+Ostamnalo:::txtsize --> Ituwofoei:::txtsize
+Ostamnalo:::txtsize --> Rrsdmemthwr:::txtsize
+Etoseehei:::txtsize --> Rdhetrcei:::txtsize
+Rdhetrcei:::txtsize --> Bbesdrcted:::txtsize
+Rdhetrcei:::txtsize --> Mnnasvunosnht:::txtsize
 
-Dreneeieorowt@{ shape: win-pane, label: "_Published Jan 10, 2026, 02:06 PM_
-Denmark’s greenland dilemma: defending a territory already on its way out" }
-TresGlaau@{ shape: win-pane, label: "_Published Jan 09, 2026, 05:28 AM_
-Take trump seriously on greenland, vance warns europe" }
+Glpawrodidshsyey@{ shape: win-pane, label: "_Published Jan 10, 2026, 06:26 PM_
+Greenland’s parliament will bring forward meeting to discuss us threats, party leaders say" }
+UstpsdtgGlh@{ shape: win-pane, label: "_Published Jan 05, 2026, 10:15 PM_
+Us president trump is obsessed with taking over greenland. why?" }
+Trsteed@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:16 PM_
+Trump renews push to annex greenland" }
+EihspGlnle@{ shape: win-pane, label: "_Published Jan 08, 2025, 09:36 PM_
+Explainer: why does trump want greenland and could he get it?" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+YnearantGlorin@{ shape: win-pane, label: "_Published Jan 10, 2026, 06:31 AM_
+‘you don’t defend leases’: trump says us needs to own greenland to deter russia, china" }
 TpotGlsaekh@{ shape: win-pane, label: "_Published Jan 08, 2026, 01:59 AM_
 Trump plots offer to buy greenland as nato ally denmark seethes" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
 UaGloeefDr@{ shape: win-pane, label: "_Published Jan 05, 2026, 11:40 PM_
 Us attack on greenland would mean the end of nato: denmark pm" }
+Namgroraycn@{ shape: win-pane, label: "_Published Jan 10, 2026, 12:48 AM_
+Nato ‘far from being in a crisis’ over greenland, says top commander" }
 TdsharedlyypWH@{ shape: win-pane, label: "_Published Jan 07, 2026, 05:46 AM_
 Trump discussing how to acquire greenland; us military always an option: white house" }
-Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
-Trump’s maduro capture is about drugs, immigrants and china" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
-Who is venezuela’s president nicolas maduro?" }
-EearbdnienUe@{ shape: win-pane, label: "_Published Jan 06, 2026, 09:26 PM_
-European leaders rally behind greenland in face of renewed us interest" }
-Trsteed@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:16 PM_
-Trump renews push to annex greenland" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
 
-Dreneeieorowt:::txtsize --> TresGlaau:::txtsize
-TresGlaau:::txtsize --> TpotGlsaekh:::txtsize
+Glpawrodidshsyey:::txtsize --> UstpsdtgGlh:::txtsize
+UstpsdtgGlh:::txtsize --> Trsteed:::txtsize
+Trsteed:::txtsize --> EihspGlnle:::txtsize
+Trsteed:::txtsize --> UtVuMorkms:::txtsize
+UstpsdtgGlh:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+Glpawrodidshsyey:::txtsize --> YnearantGlorin:::txtsize
+YnearantGlorin:::txtsize --> TpotGlsaekh:::txtsize
 TpotGlsaekh:::txtsize --> UtVuMorkms:::txtsize
 TpotGlsaekh:::txtsize --> UaGloeefDr:::txtsize
-Dreneeieorowt:::txtsize --> TdsharedlyypWH:::txtsize
-TdsharedlyypWH:::txtsize --> Tsrtstsgsh:::txtsize
-Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
-Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
-TdsharedlyypWH:::txtsize --> EearbdnienUe:::txtsize
-EearbdnienUe:::txtsize --> Trsteed:::txtsize
-EearbdnienUe:::txtsize --> UtVuMorkms:::txtsize
+YnearantGlorin:::txtsize --> Namgroraycn:::txtsize
+Namgroraycn:::txtsize --> TdsharedlyypWH:::txtsize
+Namgroraycn:::txtsize --> UtVuMorkms:::txtsize
 
-Vuaiaierrlis@{ shape: win-pane, label: "_Published Jan 10, 2026, 01:00 PM_
-Venezuela says it is in talks with the us to restore diplomatic ties" }
-Tshduvsmhoeao@{ shape: win-pane, label: "_Published Jan 05, 2026, 01:14 AM_
-Trump snatches maduro but leaves his regime in charge of venezuela for now" }
-TsSnzaraeu@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
-Trump says us to run venezuela after raid captures maduro" }
-Usrrfrreiscrs@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:44 AM_
-Us coast guard searches for survivors after strike on suspected drug vessels" }
-Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
-Trump’s maduro capture is about drugs, immigrants and china" }
-VuMoiuyytdn@{ shape: win-pane, label: "_Published Jan 04, 2026, 07:03 PM_
-Venezuela’s maduro sits in us custody as loyalists vow defiance" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-WNPlarrao@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:18 PM_
-Who is nobel peace laureate maria corina machado?" }
-Tclovtsnlepi@{ shape: win-pane, label: "_Published Jan 09, 2026, 06:31 PM_
-Trump cancels second wave of attacks on venezuela after cooperation" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+GnRagrnwuetttrai@{ shape: win-pane, label: "_Published Jan 10, 2026, 06:11 PM_
+Governor of russia’s belgorod region says 600,000 without power, heat, or water after ukrainian strike" }
+KarrnisaRac@{ shape: win-pane, label: "_Published Jan 09, 2026, 10:59 PM_
+Kyiv mayor urges freezing residents to leave as russia attacks" }
+Rasrchiererseh@{ shape: win-pane, label: "_Published Jan 09, 2026, 03:56 PM_
+Russia fires hypersonic oreshnik missile at target near ukraine’s border with nato" }
+Ppeatrcnswn@{ shape: win-pane, label: "_Published Nov 05, 2025, 04:52 AM_
+Putin praises capabilities, prospects of new russian weapons" }
+Rarnksdpeue@{ shape: win-pane, label: "_Published Nov 25, 2025, 04:43 PM_
+Russian barrage on kyiv kills seven, disrupts energy supplies" }
+Rasrchiererseh@{ shape: win-pane, label: "_Published Jan 09, 2026, 03:56 PM_
+Russia fires hypersonic oreshnik missile at target near ukraine’s border with nato" }
+Ppeatrcnswn@{ shape: win-pane, label: "_Published Nov 05, 2025, 04:52 AM_
+Putin praises capabilities, prospects of new russian weapons" }
+Rarnksdpeue@{ shape: win-pane, label: "_Published Nov 25, 2025, 04:43 PM_
+Russian barrage on kyiv kills seven, disrupts energy supplies" }
+SskehdritEe@{ shape: win-pane, label: "_Published Jan 09, 2026, 02:35 PM_
+Storms spark travel mayhem and power cuts in northern europe" }
+Eesscadlpi@{ shape: win-pane, label: "_Published Jan 07, 2026, 07:16 PM_
+Europe faces transport chaos as deadly cold snap persists" }
+SaerdadgEe@{ shape: win-pane, label: "_Published Jan 07, 2026, 02:11 AM_
+Six dead in weather accidents as cold snap grips europe" }
+SaerdadgEe@{ shape: win-pane, label: "_Published Jan 07, 2026, 02:11 AM_
+Six dead in weather accidents as cold snap grips europe" }
+SaerdadgEe@{ shape: win-pane, label: "_Published Jan 07, 2026, 02:11 AM_
+Six dead in weather accidents as cold snap grips europe" }
+Knodnipssa@{ shape: win-pane, label: "_Published Jan 06, 2026, 11:21 PM_
+Klm running out of de-icing fluid for planes in amsterdam" }
+Nyhsrcn@{ shape: win-pane, label: "_Published Jan 07, 2026, 06:24 PM_
+Norway sees hottest year on record in 2025" }
 
-Vuaiaierrlis:::txtsize --> Tshduvsmhoeao:::txtsize
-Tshduvsmhoeao:::txtsize --> TsSnzaraeu:::txtsize
-TsSnzaraeu:::txtsize --> Usrrfrreiscrs:::txtsize
-TsSnzaraeu:::txtsize --> Tsrtstsgsh:::txtsize
-Tshduvsmhoeao:::txtsize --> VuMoiuyytdn:::txtsize
-VuMoiuyytdn:::txtsize --> UtVuMorkms:::txtsize
-VuMoiuyytdn:::txtsize --> WNPlarrao:::txtsize
-Vuaiaierrlis:::txtsize --> Tclovtsnlepi:::txtsize
-Tclovtsnlepi:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Tclovtsnlepi:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+GnRagrnwuetttrai:::txtsize --> KarrnisaRac:::txtsize
+KarrnisaRac:::txtsize --> Rasrchiererseh:::txtsize
+Rasrchiererseh:::txtsize --> Ppeatrcnswn:::txtsize
+Rasrchiererseh:::txtsize --> Rarnksdpeue:::txtsize
+KarrnisaRac:::txtsize --> Rasrchiererseh:::txtsize
+Rasrchiererseh:::txtsize --> Ppeatrcnswn:::txtsize
+Rasrchiererseh:::txtsize --> Rarnksdpeue:::txtsize
+GnRagrnwuetttrai:::txtsize --> SskehdritEe:::txtsize
+SskehdritEe:::txtsize --> Eesscadlpi:::txtsize
+Eesscadlpi:::txtsize --> SaerdadgEe:::txtsize
+Eesscadlpi:::txtsize --> SaerdadgEe:::txtsize
+SskehdritEe:::txtsize --> SaerdadgEe:::txtsize
+SaerdadgEe:::txtsize --> Knodnipssa:::txtsize
+SaerdadgEe:::txtsize --> Nyhsrcn:::txtsize
 
 ```
-<i>Last updated: 2026-01-10 16:01:01.760237 (GMT+8)</i>
+<i>Last updated: 2026-01-10 20:00:25.523399 (GMT+8)</i>
 <!-- END -->
