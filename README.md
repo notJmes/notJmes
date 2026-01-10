@@ -16,144 +16,135 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-SIlhsrcomne@{ shape: win-pane, label: "_Published Jan 10, 2026, 02:11 AM_
-Son of iran’s late shah issues ‘urgent’ call for trump to intervene" }
-Ihfeatrreine@{ shape: win-pane, label: "_Published Jan 09, 2026, 06:01 PM_
-Iran shuts off internet as protesters start fires in widening unrest" }
-Saokdatocis@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:34 PM_
-Several reported killed in iran protests over economic woes" }
-Tsrseeworre@{ shape: win-pane, label: "_Published Jun 22, 2025, 08:14 AM_
-Trump says iran must make peace or ‘we will go after’ other targets" }
-Tsrdeecedletdr@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:17 AM_
-Trump says iran and israel agree to a ‘complete and total’ ceasefire to end 12-day war" }
-Uaseynncueoiu@{ shape: win-pane, label: "_Published Jan 09, 2026, 05:41 AM_
-Us treasury’s bessent says iran facing precarious moment, economy in trouble" }
-Uunnaoanlpr@{ shape: win-pane, label: "_Published Dec 31, 2025, 12:09 AM_
-Us issues sanctions related to iran and venezuela weapons trade" }
-Iaerteoune@{ shape: win-pane, label: "_Published Jan 09, 2026, 06:26 AM_
-Iranians step up protests as death toll mounts, internet cut" }
-Ihfeatrreine@{ shape: win-pane, label: "_Published Jan 09, 2026, 06:01 PM_
-Iran shuts off internet as protesters start fires in widening unrest" }
-Saokdatocis@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:34 PM_
-Several reported killed in iran protests over economic woes" }
-Tsrseeworre@{ shape: win-pane, label: "_Published Jun 22, 2025, 08:14 AM_
-Trump says iran must make peace or ‘we will go after’ other targets" }
-Tsrdeecedletdr@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:17 AM_
-Trump says iran and israel agree to a ‘complete and total’ ceasefire to end 12-day war" }
-Uaseynncueoiu@{ shape: win-pane, label: "_Published Jan 09, 2026, 05:41 AM_
-Us treasury’s bessent says iran facing precarious moment, economy in trouble" }
-Uunnaoanlpr@{ shape: win-pane, label: "_Published Dec 31, 2025, 12:09 AM_
-Us issues sanctions related to iran and venezuela weapons trade" }
-Iaerteoune@{ shape: win-pane, label: "_Published Jan 09, 2026, 06:26 AM_
-Iranians step up protests as death toll mounts, internet cut" }
+Urooslncpirao@{ shape: win-pane, label: "_Published Jan 10, 2026, 07:45 AM_
+Us supreme court to hear suit claiming cisco helped china pursue falun gong" }
+kfnuaadepceovt@{ shape: win-pane, label: "_Published May 13, 2025, 05:55 PM_
+$1k fine for man who hung placard around his neck to publicise religious movement" }
+wcehieefllancoss@{ shape: win-pane, label: "_Published Jun 27, 2024, 11:44 AM_
+3 women charged with public order offences for allegedly organising procession outside istana" }
+Peiotioltamnt@{ shape: win-pane, label: "_Published Feb 13, 2024, 10:08 PM_
+Police probing two events in singapore related to israel-hamas conflict" }
+Pektgtsctitamrese@{ shape: win-pane, label: "_Published Apr 30, 2024, 10:13 PM_
+Police, nparks caution against plans for activities linked to israel-hamas war at speakers’ corner" }
+Trdroustvoemteeo@{ shape: win-pane, label: "_Published May 08, 2025, 12:00 AM_
+Two arrested after video of brutal assault goes viral on facebook; machetes, axe seized by police" }
+SupeoiftnwTyv@{ shape: win-pane, label: "_Published Mar 18, 2025, 02:45 PM_
+‘sir, you can’t park here’: photos, video of car stuck in walkway in toa payoh go viral" }
+TtghdaeeTlelgo@{ shape: win-pane, label: "_Published Mar 18, 2025, 07:00 PM_
+Three teenagers charged over alleged roles in ite college west bullying video" }
+UrwhnegcaiFG@{ shape: win-pane, label: "_Published May 27, 2023, 09:45 AM_
+Us charges two with acting in beijing-directed targeting of falun gong" }
+UewsnheeiaiY@{ shape: win-pane, label: "_Published Apr 18, 2023, 06:09 AM_
+Us arrests two for setting up chinese 'secret police station' in new york" }
+Hioasnusssa@{ shape: win-pane, label: "_Published Feb 15, 2023, 05:00 PM_
+How china’s police are ensnaring thousands of suspects abroad" }
+UsemekwrIilut@{ shape: win-pane, label: "_Published Feb 25, 2023, 07:20 AM_
+Us house select committee seeks answers from fbi on china police 'outposts'" }
+UewsnheeiaiY@{ shape: win-pane, label: "_Published Apr 18, 2023, 06:09 AM_
+Us arrests two for setting up chinese 'secret police station' in new york" }
+Hioasnusssa@{ shape: win-pane, label: "_Published Feb 15, 2023, 05:00 PM_
+How china’s police are ensnaring thousands of suspects abroad" }
+UsemekwrIilut@{ shape: win-pane, label: "_Published Feb 25, 2023, 07:20 AM_
+Us house select committee seeks answers from fbi on china police 'outposts'" }
 
-SIlhsrcomne:::txtsize --> Ihfeatrreine:::txtsize
-Ihfeatrreine:::txtsize --> Saokdatocis:::txtsize
-Saokdatocis:::txtsize --> Tsrseeworre:::txtsize
-Saokdatocis:::txtsize --> Tsrdeecedletdr:::txtsize
-Ihfeatrreine:::txtsize --> Uaseynncueoiu:::txtsize
-Uaseynncueoiu:::txtsize --> Uunnaoanlpr:::txtsize
-Uaseynncueoiu:::txtsize --> Iaerteoune:::txtsize
-SIlhsrcomne:::txtsize --> Ihfeatrreine:::txtsize
-Ihfeatrreine:::txtsize --> Saokdatocis:::txtsize
-Saokdatocis:::txtsize --> Tsrseeworre:::txtsize
-Saokdatocis:::txtsize --> Tsrdeecedletdr:::txtsize
-Ihfeatrreine:::txtsize --> Uaseynncueoiu:::txtsize
-Uaseynncueoiu:::txtsize --> Uunnaoanlpr:::txtsize
-Uaseynncueoiu:::txtsize --> Iaerteoune:::txtsize
+Urooslncpirao:::txtsize --> kfnuaadepceovt:::txtsize
+kfnuaadepceovt:::txtsize --> wcehieefllancoss:::txtsize
+wcehieefllancoss:::txtsize --> Peiotioltamnt:::txtsize
+wcehieefllancoss:::txtsize --> Pektgtsctitamrese:::txtsize
+kfnuaadepceovt:::txtsize --> Trdroustvoemteeo:::txtsize
+Trdroustvoemteeo:::txtsize --> SupeoiftnwTyv:::txtsize
+Trdroustvoemteeo:::txtsize --> TtghdaeeTlelgo:::txtsize
+Urooslncpirao:::txtsize --> UrwhnegcaiFG:::txtsize
+UrwhnegcaiFG:::txtsize --> UewsnheeiaiY:::txtsize
+UewsnheeiaiY:::txtsize --> Hioasnusssa:::txtsize
+UewsnheeiaiY:::txtsize --> UsemekwrIilut:::txtsize
+UrwhnegcaiFG:::txtsize --> UewsnheeiaiY:::txtsize
+UewsnheeiaiY:::txtsize --> Hioasnusssa:::txtsize
+UewsnheeiaiY:::txtsize --> UsemekwrIilut:::txtsize
 
+YnearantGlorin@{ shape: win-pane, label: "_Published Jan 10, 2026, 06:31 AM_
+‘you don’t defend leases’: trump says us needs to own greenland to deter russia, china" }
+TpotGlsaekh@{ shape: win-pane, label: "_Published Jan 08, 2026, 01:59 AM_
+Trump plots offer to buy greenland as nato ally denmark seethes" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+UaGloeefDr@{ shape: win-pane, label: "_Published Jan 05, 2026, 11:40 PM_
+Us attack on greenland would mean the end of nato: denmark pm" }
+FeesutnGloiareme@{ shape: win-pane, label: "_Published Jan 05, 2026, 03:30 PM_
+France reiterates its support of denmark, greenland sovereignty after renewed trump threats" }
+UstpsdtgGlh@{ shape: win-pane, label: "_Published Jan 05, 2026, 10:15 PM_
+Us president trump is obsessed with taking over greenland. why?" }
 Namgroraycn@{ shape: win-pane, label: "_Published Jan 10, 2026, 12:48 AM_
 Nato ‘far from being in a crisis’ over greenland, says top commander" }
 TdsharedlyypWH@{ shape: win-pane, label: "_Published Jan 07, 2026, 05:46 AM_
 Trump discussing how to acquire greenland; us military always an option: white house" }
 Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
 Trump’s maduro capture is about drugs, immigrants and china" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-WVuPdisr@{ shape: win-pane, label: "_Published Jan 03, 2026, 07:25 PM_
-Who is venezuela’s president nicolas maduro?" }
 EearbdnienUe@{ shape: win-pane, label: "_Published Jan 06, 2026, 09:26 PM_
 European leaders rally behind greenland in face of renewed us interest" }
-Trsteed@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:16 PM_
-Trump renews push to annex greenland" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
 UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
 Us captured venezuela’s maduro after strike, trump says" }
 Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
 Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
-Trump says not winning nobel peace prize would be ‘insult’ to us" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
 Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
 Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
-Us military says it carried out strikes on three vessels in eastern pacific" }
-Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
-Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
 
+YnearantGlorin:::txtsize --> TpotGlsaekh:::txtsize
+TpotGlsaekh:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+TpotGlsaekh:::txtsize --> UaGloeefDr:::txtsize
+UaGloeefDr:::txtsize --> FeesutnGloiareme:::txtsize
+UaGloeefDr:::txtsize --> UstpsdtgGlh:::txtsize
+YnearantGlorin:::txtsize --> Namgroraycn:::txtsize
 Namgroraycn:::txtsize --> TdsharedlyypWH:::txtsize
 TdsharedlyypWH:::txtsize --> Tsrtstsgsh:::txtsize
-Tsrtstsgsh:::txtsize --> UtVuMorkms:::txtsize
-Tsrtstsgsh:::txtsize --> WVuPdisr:::txtsize
 TdsharedlyypWH:::txtsize --> EearbdnienUe:::txtsize
-EearbdnienUe:::txtsize --> Trsteed:::txtsize
-EearbdnienUe:::txtsize --> UtVuMorkms:::txtsize
 Namgroraycn:::txtsize --> UtVuMorkms:::txtsize
 UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
-Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
 UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
-Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
 
-Kasicvlleiebl@{ shape: win-pane, label: "_Published Jan 10, 2026, 12:41 AM_
-Kyiv says russia hit two cargo vessels in black sea, syrian crew member killed" }
-Racoirmgeins@{ shape: win-pane, label: "_Published Dec 12, 2025, 11:43 PM_
-Russia attacks two ukraine ports, damaging three turkish-owned vessels" }
-UnaRadesiaele@{ shape: win-pane, label: "_Published Dec 11, 2025, 04:22 AM_
-Ukraine disables russian ‘shadow fleet’ vessel with sea drones in black sea" }
-UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
-Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
-Eeadsaiuccmoc@{ shape: win-pane, label: "_Published Dec 11, 2025, 01:32 AM_
-European leaders discuss ukraine with trump at ‘critical moment’ for peace" }
-Zssuskekrflo@{ shape: win-pane, label: "_Published Dec 12, 2025, 09:58 PM_
-Zelensky visits kupyansk as ukraine retakes parts of front-line town" }
-UnlyiRaitsuiKn@{ shape: win-pane, label: "_Published Nov 21, 2025, 03:19 AM_
-Ukraine’s military dismisses russia’s claim that it has captured city of kupyansk" }
-Unsltnoiabs@{ shape: win-pane, label: "_Published Dec 03, 2025, 12:53 AM_
-Ukraine says still fighting in pokrovsk, city claimed by russia" }
-UnaRadesiaele@{ shape: win-pane, label: "_Published Dec 11, 2025, 04:22 AM_
-Ukraine disables russian ‘shadow fleet’ vessel with sea drones in black sea" }
-UntaluneBScyca@{ shape: win-pane, label: "_Published Nov 29, 2025, 08:09 PM_
-Ukraine hit two ‘shadow fleet’ russian tankers in black sea, security official says" }
-Skleokusnde@{ shape: win-pane, label: "_Published Dec 17, 2024, 03:10 AM_
-Stricken oil tankers show risks of russia’s ageing ‘shadow fleet’" }
-SiRadentokfler@{ shape: win-pane, label: "_Published Nov 29, 2025, 12:04 AM_
-Sanctioned russian ‘shadow fleet’ tanker at risk of sinking after blast near turkey" }
-Eeadsaiuccmoc@{ shape: win-pane, label: "_Published Dec 11, 2025, 01:32 AM_
-European leaders discuss ukraine with trump at ‘critical moment’ for peace" }
-Ucnkefunmos@{ shape: win-pane, label: "_Published Nov 26, 2025, 02:13 PM_
-Us peace plan for ukraine drew from russian document, sources say" }
-UnhedewScna@{ shape: win-pane, label: "_Published Dec 08, 2025, 11:20 PM_
-Ukraine to share revised peace plan with us on dec 9, zelensky says" }
+WYresemhiJ@{ shape: win-pane, label: "_Published Jan 10, 2026, 06:16 AM_
+While you were sleeping: 5 stories you might have missed, jan 10, 2026" }
+JPacdgeiFamnaa@{ shape: win-pane, label: "_Published Jan 09, 2026, 11:17 PM_
+Japan pm takaichi considering snap election in february, yomiuri newspaper says" }
+STcksaarminr@{ shape: win-pane, label: "_Published Oct 21, 2025, 12:50 PM_
+Sanae takaichi makes history as japan’s first woman prime minister" }
+STctJstnesfignst@{ shape: win-pane, label: "_Published Oct 04, 2025, 12:57 PM_
+Sanae takaichi set to be japan’s first woman prime minister after winning ruling ldp’s election" }
+Puaaorbensoctar@{ shape: win-pane, label: "_Published Oct 16, 2025, 09:42 PM_
+‘pitiful’ sanae takaichi on course to become japan pm as she woos new coalition partner" }
+SIlhsrcomne@{ shape: win-pane, label: "_Published Jan 10, 2026, 02:11 AM_
+Son of iran’s late shah issues ‘urgent’ call for trump to intervene" }
+Ihfeatrreine@{ shape: win-pane, label: "_Published Jan 09, 2026, 06:01 PM_
+Iran shuts off internet as protesters start fires in widening unrest" }
+Saokdatocis@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:34 PM_
+Several reported killed in iran protests over economic woes" }
+Uaseynncueoiu@{ shape: win-pane, label: "_Published Jan 09, 2026, 05:41 AM_
+Us treasury’s bessent says iran facing precarious moment, economy in trouble" }
+Ihfeatrreine@{ shape: win-pane, label: "_Published Jan 09, 2026, 06:01 PM_
+Iran shuts off internet as protesters start fires in widening unrest" }
+Saokdatocis@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:34 PM_
+Several reported killed in iran protests over economic woes" }
+Uaseynncueoiu@{ shape: win-pane, label: "_Published Jan 09, 2026, 05:41 AM_
+Us treasury’s bessent says iran facing precarious moment, economy in trouble" }
 
-Kasicvlleiebl:::txtsize --> Racoirmgeins:::txtsize
-Racoirmgeins:::txtsize --> UnaRadesiaele:::txtsize
-UnaRadesiaele:::txtsize --> UntaluneBScyca:::txtsize
-UnaRadesiaele:::txtsize --> Eeadsaiuccmoc:::txtsize
-Racoirmgeins:::txtsize --> Zssuskekrflo:::txtsize
-Zssuskekrflo:::txtsize --> UnlyiRaitsuiKn:::txtsize
-Zssuskekrflo:::txtsize --> Unsltnoiabs:::txtsize
-Kasicvlleiebl:::txtsize --> UnaRadesiaele:::txtsize
-UnaRadesiaele:::txtsize --> UntaluneBScyca:::txtsize
-UntaluneBScyca:::txtsize --> Skleokusnde:::txtsize
-UntaluneBScyca:::txtsize --> SiRadentokfler:::txtsize
-UnaRadesiaele:::txtsize --> Eeadsaiuccmoc:::txtsize
-Eeadsaiuccmoc:::txtsize --> Ucnkefunmos:::txtsize
-Eeadsaiuccmoc:::txtsize --> UnhedewScna:::txtsize
+WYresemhiJ:::txtsize --> JPacdgeiFamnaa:::txtsize
+JPacdgeiFamnaa:::txtsize --> STcksaarminr:::txtsize
+STcksaarminr:::txtsize --> STctJstnesfignst:::txtsize
+STcksaarminr:::txtsize --> Puaaorbensoctar:::txtsize
+WYresemhiJ:::txtsize --> SIlhsrcomne:::txtsize
+SIlhsrcomne:::txtsize --> Ihfeatrreine:::txtsize
+Ihfeatrreine:::txtsize --> Saokdatocis:::txtsize
+Ihfeatrreine:::txtsize --> Uaseynncueoiu:::txtsize
+SIlhsrcomne:::txtsize --> Ihfeatrreine:::txtsize
+Ihfeatrreine:::txtsize --> Saokdatocis:::txtsize
+Ihfeatrreine:::txtsize --> Uaseynncueoiu:::txtsize
 
 ```
-<i>Last updated: 2026-01-10 04:01:09.759280 (GMT+8)</i>
+<i>Last updated: 2026-01-10 08:00:33.757054 (GMT+8)</i>
 <!-- END -->
