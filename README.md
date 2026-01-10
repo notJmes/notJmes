@@ -16,6 +16,52 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Vuaiaierrlis@{ shape: win-pane, label: "_Published Jan 10, 2026, 01:00 PM_
+Venezuela says it is in talks with the us to restore diplomatic ties" }
+Tshduvsmhoeao@{ shape: win-pane, label: "_Published Jan 05, 2026, 01:14 AM_
+Trump snatches maduro but leaves his regime in charge of venezuela for now" }
+TsSnzaraeu@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:05 AM_
+Trump says us to run venezuela after raid captures maduro" }
+Usrrfrreiscrs@{ shape: win-pane, label: "_Published Jan 01, 2026, 06:44 AM_
+Us coast guard searches for survivors after strike on suspected drug vessels" }
+Tsrtstsgsh@{ shape: win-pane, label: "_Published Jan 04, 2026, 01:10 PM_
+Trump’s maduro capture is about drugs, immigrants and china" }
+VuMoiuyytdn@{ shape: win-pane, label: "_Published Jan 04, 2026, 07:03 PM_
+Venezuela’s maduro sits in us custody as loyalists vow defiance" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+WNPlarrao@{ shape: win-pane, label: "_Published Oct 10, 2025, 06:18 PM_
+Who is nobel peace laureate maria corina machado?" }
+Tclovtsnlepi@{ shape: win-pane, label: "_Published Jan 09, 2026, 06:31 PM_
+Trump cancels second wave of attacks on venezuela after cooperation" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+
+Vuaiaierrlis:::txtsize --> Tshduvsmhoeao:::txtsize
+Tshduvsmhoeao:::txtsize --> TsSnzaraeu:::txtsize
+TsSnzaraeu:::txtsize --> Usrrfrreiscrs:::txtsize
+TsSnzaraeu:::txtsize --> Tsrtstsgsh:::txtsize
+Tshduvsmhoeao:::txtsize --> VuMoiuyytdn:::txtsize
+VuMoiuyytdn:::txtsize --> UtVuMorkms:::txtsize
+VuMoiuyytdn:::txtsize --> WNPlarrao:::txtsize
+Vuaiaierrlis:::txtsize --> Tclovtsnlepi:::txtsize
+Tclovtsnlepi:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+Tclovtsnlepi:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+
 BmnvttoE@{ shape: win-pane, label: "_Published Jan 10, 2026, 11:25 AM_
 Brew, smell, and serve: ai steals the show at ces 2026" }
 Cahsodcaesiee@{ shape: win-pane, label: "_Published Jan 05, 2026, 07:45 PM_
@@ -84,31 +130,6 @@ TcdacoeeDonpsae:::txtsize --> TsteznnCpsen:::txtsize
 TsteznnCpsen:::txtsize --> UtVuMorkms:::txtsize
 TsteznnCpsen:::txtsize --> TseesitoiU:::txtsize
 
-Vufuereotri@{ shape: win-pane, label: "_Published Jan 10, 2026, 10:52 AM_
-Venezuela's furious street forces ready to 'fight' after us raid" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
-Trump says not winning nobel peace prize would be ‘insult’ to us" }
-TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
-Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
-Us military says it carried out strikes on three vessels in eastern pacific" }
-Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
-Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
-
-Vufuereotri:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
-Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
-Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
-
 ```
-<i>Last updated: 2026-01-10 12:31:18.215211 (GMT+8)</i>
+<i>Last updated: 2026-01-10 13:25:40.233013 (GMT+8)</i>
 <!-- END -->
