@@ -16,6 +16,25 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Ilgrpbyivorus@{ shape: win-pane, label: "_Published Jan 11, 2026, 02:47 PM_
+Israel on high alert for possibility of us intervention in iran, sources say" }
+Bastnroon@{ shape: win-pane, label: "_Published Jan 11, 2026, 06:56 AM_
+Bangladesh seeks to join international force in gaza" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Ilsnrakhoar@{ shape: win-pane, label: "_Published Oct 07, 2025, 04:43 PM_
+Israel marks oct 7 anniversary as talks are held to end gaza war" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+SctFcuicisroritn@{ shape: win-pane, label: "_Published Jan 09, 2026, 04:48 PM_
+S’pore charity rlaf launches fund-raising campaign to support recovery, rehabilitation in gaza" }
+
+Ilgrpbyivorus:::txtsize --> Bastnroon:::txtsize
+Bastnroon:::txtsize --> TssHaossaaorslaoe:::txtsize
+TssHaossaaorslaoe:::txtsize --> Ilsnrakhoar:::txtsize
+TssHaossaaorslaoe:::txtsize --> NyeeawHakl:::txtsize
+Bastnroon:::txtsize --> SctFcuicisroritn:::txtsize
+
 Canatreorhi@{ shape: win-pane, label: "_Published Jan 11, 2026, 11:17 AM_
 Canada’s carney plans to talk trade, relations during china visit" }
 CarotaldhUiiw@{ shape: win-pane, label: "_Published Jan 07, 2026, 09:51 PM_
@@ -87,31 +106,6 @@ Fasleedoeiws:::txtsize --> UtVuMorkms:::txtsize
 UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
 UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
 
-FnyIognoaoaWHsr@{ shape: win-pane, label: "_Published Jan 11, 2026, 07:55 AM_
-Fbi’s inquiry into ice shooting in minneapolis faces doubts after white house’s remarks" }
-PsUhiaMasrhneiG@{ shape: win-pane, label: "_Published Jan 09, 2026, 07:04 AM_
-Protesters, us authorities clash in minneapolis after ice shooting of renee nicole good" }
-Itogntase@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:11 PM_
-Ice fatal shooting of minnesota woman puts us on edge" }
-UiifflomMas@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:35 AM_
-Us immigration officer fatally shoots woman in minneapolis" }
-Tsedgocnsbnk@{ shape: win-pane, label: "_Published Dec 21, 2025, 07:31 PM_
-Trump set to expand immigration crackdown in 2026 despite brewing backlash" }
-UiifflomMas@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:35 AM_
-Us immigration officer fatally shoots woman in minneapolis" }
-Coboyyuustlts@{ shape: win-pane, label: "_Published Jan 03, 2026, 10:23 AM_
-California ban on openly carrying guns is unconstitutional, court rules" }
-UgelbGaarmtei@{ shape: win-pane, label: "_Published Dec 12, 2025, 12:45 AM_
-Us judge orders kilmar abrego garcia released from immigration detention" }
-
-FnyIognoaoaWHsr:::txtsize --> PsUhiaMasrhneiG:::txtsize
-PsUhiaMasrhneiG:::txtsize --> Itogntase:::txtsize
-Itogntase:::txtsize --> UiifflomMas:::txtsize
-Itogntase:::txtsize --> Tsedgocnsbnk:::txtsize
-PsUhiaMasrhneiG:::txtsize --> UiifflomMas:::txtsize
-UiifflomMas:::txtsize --> Coboyyuustlts:::txtsize
-UiifflomMas:::txtsize --> UgelbGaarmtei:::txtsize
-
 ```
-<i>Last updated: 2026-01-11 12:00:56.181237 (GMT+8)</i>
+<i>Last updated: 2026-01-11 16:00:23.441628 (GMT+8)</i>
 <!-- END -->
