@@ -16,6 +16,77 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
+Canatreorhi@{ shape: win-pane, label: "_Published Jan 11, 2026, 11:17 AM_
+Canada’s carney plans to talk trade, relations during china visit" }
+CarotaldhUiiw@{ shape: win-pane, label: "_Published Jan 07, 2026, 09:51 PM_
+Canada pm carney to visit china to talk trade with xi as us tariffs hit growth" }
+DnnnkpslypGls@{ shape: win-pane, label: "_Published Sep 02, 2021, 12:19 PM_
+Detained canadians linked by photos of military equipment: global times" }
+Ccsnaahptrrfy@{ shape: win-pane, label: "_Published Aug 11, 2021, 10:42 AM_
+China court sentences canadian michael spavor to 11 years in prison for spying" }
+ChaCafauef@{ shape: win-pane, label: "_Published Mar 08, 2025, 09:31 AM_
+China hits back at canada with fresh agriculture tariffs" }
+Ftfhatiarmedvn@{ shape: win-pane, label: "_Published Mar 07, 2025, 05:00 AM_
+‘fight to the finish’: china vows to resist trade war, back more tech and innovation" }
+TwrspCacnhpf@{ shape: win-pane, label: "_Published Mar 04, 2025, 01:30 PM_
+Trade wars erupt as trump hits canada, mexico, china with steep tariffs" }
+ChSbiaooserinnur@{ shape: win-pane, label: "_Published Mar 05, 2025, 08:25 AM_
+China hits us soya bean firms, halts log imports as it steps up retaliation against trump tariffs" }
+Chaaltrbgoet@{ shape: win-pane, label: "_Published Mar 04, 2025, 09:45 PM_
+China hits back against latest us tariffs, but signals openness to talks" }
+ChaUospsiaf@{ shape: win-pane, label: "_Published Mar 04, 2025, 01:18 PM_
+China hits back at us imports as trump’s fresh tariffs take effect" }
+TcrroadcbeC@{ shape: win-pane, label: "_Published Mar 04, 2025, 05:03 AM_
+Trump confirms 25% tariffs on canada and mexico, doubles levy on china" }
+
+Canatreorhi:::txtsize --> CarotaldhUiiw:::txtsize
+CarotaldhUiiw:::txtsize --> DnnnkpslypGls:::txtsize
+DnnnkpslypGls:::txtsize --> Ccsnaahptrrfy:::txtsize
+Canatreorhi:::txtsize --> ChaCafauef:::txtsize
+ChaCafauef:::txtsize --> Ftfhatiarmedvn:::txtsize
+Ftfhatiarmedvn:::txtsize --> TwrspCacnhpf:::txtsize
+Ftfhatiarmedvn:::txtsize --> ChSbiaooserinnur:::txtsize
+ChaCafauef:::txtsize --> Chaaltrbgoet:::txtsize
+Chaaltrbgoet:::txtsize --> ChaUospsiaf:::txtsize
+Chaaltrbgoet:::txtsize --> TcrroadcbeC:::txtsize
+
+Vurocirdouu@{ shape: win-pane, label: "_Published Jan 11, 2026, 10:39 AM_
+Venezuela frees political prisoners, pledges to ‘rescue’ maduro" }
+Vupverorthea@{ shape: win-pane, label: "_Published Jan 10, 2026, 10:52 AM_
+Venezuela’s pro-government street forces ready to ‘fight’ after us raid" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+Fasleedoeiws@{ shape: win-pane, label: "_Published Jan 10, 2026, 09:31 PM_
+Four tankers that left venezuela in ‘dark mode’ are back in its waters" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
+Us military says it carried out strikes on three vessels in eastern pacific" }
+Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
+Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+
+Vurocirdouu:::txtsize --> Vupverorthea:::txtsize
+Vupverorthea:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+Vurocirdouu:::txtsize --> Fasleedoeiws:::txtsize
+Fasleedoeiws:::txtsize --> Toskftdasitgz:::txtsize
+Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
+Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
+Fasleedoeiws:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+
 FnyIognoaoaWHsr@{ shape: win-pane, label: "_Published Jan 11, 2026, 07:55 AM_
 Fbi’s inquiry into ice shooting in minneapolis faces doubts after white house’s remarks" }
 PsUhiaMasrhneiG@{ shape: win-pane, label: "_Published Jan 09, 2026, 07:04 AM_
@@ -41,92 +112,6 @@ PsUhiaMasrhneiG:::txtsize --> UiifflomMas:::txtsize
 UiifflomMas:::txtsize --> Coboyyuustlts:::txtsize
 UiifflomMas:::txtsize --> UgelbGaarmtei:::txtsize
 
-Dsedabgrte@{ shape: win-pane, label: "_Published Jan 11, 2026, 07:26 AM_
-Dozens feared dead as iran hit by largest protests in years" }
-Saokdatocis@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:34 PM_
-Several reported killed in iran protests over economic woes" }
-Tsrseeworre@{ shape: win-pane, label: "_Published Jun 22, 2025, 08:14 AM_
-Trump says iran must make peace or ‘we will go after’ other targets" }
-Tsrseeworre@{ shape: win-pane, label: "_Published Jun 22, 2025, 08:14 AM_
-Trump says iran must make peace or ‘we will go after’ other targets" }
-Ulbrrlonncy@{ shape: win-pane, label: "_Published Jun 22, 2025, 01:12 AM_
-Us deploys b-2 bombers as trump plans to meet national security team" }
-Tsrdeecedletdr@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:17 AM_
-Trump says iran and israel agree to a ‘complete and total’ ceasefire to end 12-day war" }
-IiieSaQTcrnaec@{ shape: win-pane, label: "_Published Jun 24, 2025, 01:23 AM_
-Iran fires missiles at us airbase in qatar, trump calls response ‘weak’, urges peace" }
-Saokdatocis@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:34 PM_
-Several reported killed in iran protests over economic woes" }
-Tsrseeworre@{ shape: win-pane, label: "_Published Jun 22, 2025, 08:14 AM_
-Trump says iran must make peace or ‘we will go after’ other targets" }
-Tsrseeworre@{ shape: win-pane, label: "_Published Jun 22, 2025, 08:14 AM_
-Trump says iran must make peace or ‘we will go after’ other targets" }
-Ulbrrlonncy@{ shape: win-pane, label: "_Published Jun 22, 2025, 01:12 AM_
-Us deploys b-2 bombers as trump plans to meet national security team" }
-Tsrdeecedletdr@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:17 AM_
-Trump says iran and israel agree to a ‘complete and total’ ceasefire to end 12-day war" }
-IiieSaQTcrnaec@{ shape: win-pane, label: "_Published Jun 24, 2025, 01:23 AM_
-Iran fires missiles at us airbase in qatar, trump calls response ‘weak’, urges peace" }
-
-Dsedabgrte:::txtsize --> Saokdatocis:::txtsize
-Saokdatocis:::txtsize --> Tsrseeworre:::txtsize
-Tsrseeworre:::txtsize --> Tsrseeworre:::txtsize
-Tsrseeworre:::txtsize --> Ulbrrlonncy:::txtsize
-Saokdatocis:::txtsize --> Tsrdeecedletdr:::txtsize
-Tsrdeecedletdr:::txtsize --> IiieSaQTcrnaec:::txtsize
-Dsedabgrte:::txtsize --> Saokdatocis:::txtsize
-Saokdatocis:::txtsize --> Tsrseeworre:::txtsize
-Tsrseeworre:::txtsize --> Tsrseeworre:::txtsize
-Tsrseeworre:::txtsize --> Ulbrrlonncy:::txtsize
-Saokdatocis:::txtsize --> Tsrdeecedletdr:::txtsize
-Tsrdeecedletdr:::txtsize --> IiieSaQTcrnaec:::txtsize
-
-WYresemhiJ@{ shape: win-pane, label: "_Published Jan 11, 2026, 07:04 AM_
-While you were sleeping: 5 stories you might have missed, jan 11, 2026" }
-UoseekaIna@{ shape: win-pane, label: "_Published Jan 11, 2026, 05:26 AM_
-Us announces ‘large-scale’ strikes against isis in syria" }
-Uolnahcy@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:18 PM_
-Us troops killed in isis ambush attack in syria" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Smoaepoa@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:31 PM_
-Syria marks one year after toppling of assad" }
-Usiihelrifay@{ shape: win-pane, label: "_Published Dec 20, 2025, 07:01 AM_
-Us hits isis in syria with large retaliatory strikes, officials say" }
-TveaaUdkdrt@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:09 AM_
-Trump vows retaliation after us soldiers killed in syria attack" }
-Ttsgidsociu@{ shape: win-pane, label: "_Published Dec 18, 2025, 07:00 AM_
-Trump to vow ‘stronger’ us in tv address as economic worries mount" }
-Euyleltersd@{ shape: win-pane, label: "_Published Jan 11, 2026, 04:35 AM_
-Elon musk says x will make its algorithm open source in seven days" }
-Eulfsoromea@{ shape: win-pane, label: "_Published Jan 11, 2026, 01:18 AM_
-Elon musk calls uk ‘fascist’ as row over x’s grok ai images escalates" }
-Ieeabssreueg@{ shape: win-pane, label: "_Published Jan 10, 2026, 03:27 PM_
-Indonesia temporarily blocks access to grok over sexualised images" }
-MAGiigaopsfas@{ shape: win-pane, label: "_Published Jan 09, 2026, 08:12 PM_
-Musk’s ai bot grok limits image generation on x to paid users after backlash" }
-Ieeabssreueg@{ shape: win-pane, label: "_Published Jan 10, 2026, 03:27 PM_
-Indonesia temporarily blocks access to grok over sexualised images" }
-GnsaoetvogEupo@{ shape: win-pane, label: "_Published Jan 07, 2026, 01:15 AM_
-German minister calls for eu legal steps over grok images on elon musk’s x platform" }
-MAGiigaopsfas@{ shape: win-pane, label: "_Published Jan 09, 2026, 08:12 PM_
-Musk’s ai bot grok limits image generation on x to paid users after backlash" }
-
-WYresemhiJ:::txtsize --> UoseekaIna:::txtsize
-UoseekaIna:::txtsize --> Uolnahcy:::txtsize
-Uolnahcy:::txtsize --> SnltiARahtoy:::txtsize
-Uolnahcy:::txtsize --> Smoaepoa:::txtsize
-UoseekaIna:::txtsize --> Usiihelrifay:::txtsize
-Usiihelrifay:::txtsize --> TveaaUdkdrt:::txtsize
-Usiihelrifay:::txtsize --> Ttsgidsociu:::txtsize
-WYresemhiJ:::txtsize --> Euyleltersd:::txtsize
-Euyleltersd:::txtsize --> Eulfsoromea:::txtsize
-Eulfsoromea:::txtsize --> Ieeabssreueg:::txtsize
-Eulfsoromea:::txtsize --> MAGiigaopsfas:::txtsize
-Euyleltersd:::txtsize --> Ieeabssreueg:::txtsize
-Ieeabssreueg:::txtsize --> GnsaoetvogEupo:::txtsize
-Ieeabssreueg:::txtsize --> MAGiigaopsfas:::txtsize
-
 ```
-<i>Last updated: 2026-01-11 08:00:33.975003 (GMT+8)</i>
+<i>Last updated: 2026-01-11 12:00:56.181237 (GMT+8)</i>
 <!-- END -->
