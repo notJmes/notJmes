@@ -16,111 +16,114 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-IlitiNy@{ shape: win-pane, label: "_Published Jan 11, 2026, 07:25 PM_
-Israeli police detain aide to netanyahu" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-WzptIleint@{ shape: win-pane, label: "_Published Oct 07, 2023, 05:15 PM_
-Why gaza is epicentre of israeli-palestinian conflict" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-Wiceapaks@{ shape: win-pane, label: "_Published Oct 07, 2023, 06:44 PM_
-World in shock after hamas surprise attacks on israel" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-SptldtrcIlsnic@{ shape: win-pane, label: "_Published Oct 07, 2023, 10:24 PM_
-Singapore strongly condemns terror attacks on israel, calls for end to violence" }
-Ilclrztikui@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:27 PM_
-Israeli forces kill four in gaza, say they hit rocket launch site" }
+Ileselarnnt@{ shape: win-pane, label: "_Published Jan 11, 2026, 11:12 PM_
+Israeli fire kills three people in gaza, three months on from truce" }
+TsnaaPtaor@{ shape: win-pane, label: "_Published Jan 11, 2026, 09:00 PM_
+Trump set to name gaza ‘board of peace’ to advance rocky truce" }
+Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
+Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
+AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
+Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
+Mmenwniuaa@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:36 AM_
+Muslim states join eu powers in backing trump’s gaza plan" }
+HserelsiaoG@{ shape: win-pane, label: "_Published Jan 07, 2026, 10:26 PM_
+Hamas says search resumes for last israeli hostage’s body in gaza" }
 Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
 Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-PflcoMeNelale@{ shape: win-pane, label: "_Published Oct 14, 2025, 12:05 AM_
-Peace finally descends on the middle east: now the battle to make it last begins" }
+NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
+Netanyahu declares israel at war as hamas attacks kill over 100" }
+SctFcuicisroritn@{ shape: win-pane, label: "_Published Jan 09, 2026, 04:48 PM_
+S’pore charity rlaf launches fund-raising campaign to support recovery, rehabilitation in gaza" }
 
-IlitiNy:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> WzptIleint:::txtsize
-WzptIleint:::txtsize --> NyeeawHakl:::txtsize
-NyeeawHakl:::txtsize --> Wiceapaks:::txtsize
-Wiceapaks:::txtsize --> NyeeawHakl:::txtsize
-Wiceapaks:::txtsize --> SptldtrcIlsnic:::txtsize
-IlitiNy:::txtsize --> Ilclrztikui:::txtsize
-Ilclrztikui:::txtsize --> Tdrcaaededlncbs:::txtsize
-Tdrcaaededlncbs:::txtsize --> PflcoMeNelale:::txtsize
+Ileselarnnt:::txtsize --> TsnaaPtaor:::txtsize
+TsnaaPtaor:::txtsize --> Tseaupoabmrnluo:::txtsize
+Tseaupoabmrnluo:::txtsize --> AtHfezerydatoGel:::txtsize
+Tseaupoabmrnluo:::txtsize --> Mmenwniuaa:::txtsize
+TsnaaPtaor:::txtsize --> HserelsiaoG:::txtsize
+HserelsiaoG:::txtsize --> Tdrcaaededlncbs:::txtsize
+HserelsiaoG:::txtsize --> NyeeawHakl:::txtsize
+Ileselarnnt:::txtsize --> SctFcuicisroritn:::txtsize
 
-SItehseosn@{ shape: win-pane, label: "_Published Jan 11, 2026, 06:57 PM_
-Son of iran’s toppled shah seeks a role as protests expand" }
-IDrenuibe@{ shape: win-pane, label: "_Published Jun 25, 2025, 05:00 AM_
-Iran’s ‘12-day war’ leaves plenty of unfinished business" }
-BenmTsueIlcfe@{ shape: win-pane, label: "_Published Jun 24, 2025, 02:30 PM_
-Big questions loom over trump’s announcement of israel-iran ceasefire deal" }
-Tsrdeecedletdr@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:17 AM_
-Trump says iran and israel agree to a ‘complete and total’ ceasefire to end 12-day war" }
-IatlauciUett@{ shape: win-pane, label: "_Published Jun 20, 2025, 10:10 PM_
-Iran says no to nuclear talks during conflict, as un urges restraint" }
-Ihfeatrreine@{ shape: win-pane, label: "_Published Jan 09, 2026, 06:01 PM_
-Iran shuts off internet as protesters start fires in widening unrest" }
-Saokdatocis@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:34 PM_
-Several reported killed in iran protests over economic woes" }
-Tsrseeworre@{ shape: win-pane, label: "_Published Jun 22, 2025, 08:14 AM_
-Trump says iran must make peace or ‘we will go after’ other targets" }
-Tsrdeecedletdr@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:17 AM_
-Trump says iran and israel agree to a ‘complete and total’ ceasefire to end 12-day war" }
-Uaseynncueoiu@{ shape: win-pane, label: "_Published Jan 09, 2026, 05:41 AM_
-Us treasury’s bessent says iran facing precarious moment, economy in trouble" }
-Uunnaoanlpr@{ shape: win-pane, label: "_Published Dec 31, 2025, 12:09 AM_
-Us issues sanctions related to iran and venezuela weapons trade" }
-Iaerteoune@{ shape: win-pane, label: "_Published Jan 09, 2026, 06:26 AM_
-Iranians step up protests as death toll mounts, internet cut" }
+Sgnfscolsiiud@{ shape: win-pane, label: "_Published Jan 11, 2026, 10:55 PM_
+Syria government forces take control of aleppo’s kurdish neighbourhoods" }
+Ueskwyomufece@{ shape: win-pane, label: "_Published Jan 10, 2026, 11:31 PM_
+Us urges fresh talks between syria government, kurds after deadly clashes" }
+SicrlasnitgnKsh@{ shape: win-pane, label: "_Published Jan 09, 2026, 04:46 AM_
+Shelling rocks syria’s aleppo as clashes intensify between government, kurdish fighters" }
+Estisnasst@{ shape: win-pane, label: "_Published Dec 27, 2025, 12:29 AM_
+Explosion at alawite mosque in syria’s homs kills eight" }
+Tdvuiwrtycloia@{ shape: win-pane, label: "_Published Dec 29, 2025, 02:40 AM_
+Three dead, over 40 wounded in alawite protests on syrian coast, local officials say" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
+Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
+UoseekaIna@{ shape: win-pane, label: "_Published Jan 11, 2026, 05:26 AM_
+Us announces ‘large-scale’ strikes against isis in syria" }
+Uolnahcy@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:18 PM_
+Us troops killed in isis ambush attack in syria" }
+SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
+Syrian rebels oust president assad; russia says he left the country" }
+Smoaepoa@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:31 PM_
+Syria marks one year after toppling of assad" }
+Usiihelrifay@{ shape: win-pane, label: "_Published Dec 20, 2025, 07:01 AM_
+Us hits isis in syria with large retaliatory strikes, officials say" }
+TveaaUdkdrt@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:09 AM_
+Trump vows retaliation after us soldiers killed in syria attack" }
+Ttsgidsociu@{ shape: win-pane, label: "_Published Dec 18, 2025, 07:00 AM_
+Trump to vow ‘stronger’ us in tv address as economic worries mount" }
 
-SItehseosn:::txtsize --> IDrenuibe:::txtsize
-IDrenuibe:::txtsize --> BenmTsueIlcfe:::txtsize
-BenmTsueIlcfe:::txtsize --> Tsrdeecedletdr:::txtsize
-BenmTsueIlcfe:::txtsize --> IatlauciUett:::txtsize
-SItehseosn:::txtsize --> Ihfeatrreine:::txtsize
-Ihfeatrreine:::txtsize --> Saokdatocis:::txtsize
-Saokdatocis:::txtsize --> Tsrseeworre:::txtsize
-Saokdatocis:::txtsize --> Tsrdeecedletdr:::txtsize
-Ihfeatrreine:::txtsize --> Uaseynncueoiu:::txtsize
-Uaseynncueoiu:::txtsize --> Uunnaoanlpr:::txtsize
-Uaseynncueoiu:::txtsize --> Iaerteoune:::txtsize
+Sgnfscolsiiud:::txtsize --> Ueskwyomufece:::txtsize
+Ueskwyomufece:::txtsize --> SicrlasnitgnKsh:::txtsize
+SicrlasnitgnKsh:::txtsize --> Estisnasst:::txtsize
+SicrlasnitgnKsh:::txtsize --> Tdvuiwrtycloia:::txtsize
+Ueskwyomufece:::txtsize --> SnltiARahtoy:::txtsize
+SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
+Sgnfscolsiiud:::txtsize --> UoseekaIna:::txtsize
+UoseekaIna:::txtsize --> Uolnahcy:::txtsize
+Uolnahcy:::txtsize --> SnltiARahtoy:::txtsize
+Uolnahcy:::txtsize --> Smoaepoa:::txtsize
+UoseekaIna:::txtsize --> Usiihelrifay:::txtsize
+Usiihelrifay:::txtsize --> TveaaUdkdrt:::txtsize
+Usiihelrifay:::txtsize --> Ttsgidsociu:::txtsize
 
-Ioseits@{ shape: win-pane, label: "_Published Jan 11, 2026, 05:10 PM_
-Iran vows to strike back if us attacks" }
-Dsedabgrte@{ shape: win-pane, label: "_Published Jan 11, 2026, 07:26 AM_
-Dozens feared dead as iran hit by largest protests in years" }
-Saokdatocis@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:34 PM_
-Several reported killed in iran protests over economic woes" }
-Tsrseeworre@{ shape: win-pane, label: "_Published Jun 22, 2025, 08:14 AM_
-Trump says iran must make peace or ‘we will go after’ other targets" }
-Tsrdeecedletdr@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:17 AM_
-Trump says iran and israel agree to a ‘complete and total’ ceasefire to end 12-day war" }
-Saokdatocis@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:34 PM_
-Several reported killed in iran protests over economic woes" }
-Tsrseeworre@{ shape: win-pane, label: "_Published Jun 22, 2025, 08:14 AM_
-Trump says iran must make peace or ‘we will go after’ other targets" }
-Tsrdeecedletdr@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:17 AM_
-Trump says iran and israel agree to a ‘complete and total’ ceasefire to end 12-day war" }
-IDrenuibe@{ shape: win-pane, label: "_Published Jun 25, 2025, 05:00 AM_
-Iran’s ‘12-day war’ leaves plenty of unfinished business" }
-BenmTsueIlcfe@{ shape: win-pane, label: "_Published Jun 24, 2025, 02:30 PM_
-Big questions loom over trump’s announcement of israel-iran ceasefire deal" }
-Tsrdeecedletdr@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:17 AM_
-Trump says iran and israel agree to a ‘complete and total’ ceasefire to end 12-day war" }
-IatlauciUett@{ shape: win-pane, label: "_Published Jun 20, 2025, 10:10 PM_
-Iran says no to nuclear talks during conflict, as un urges restraint" }
+Tdeligiburdi@{ shape: win-pane, label: "_Published Jan 11, 2026, 09:47 PM_
+Trump delivers oil warning, suggesting cuba should strike a deal with us" }
+TseesitoiU@{ shape: win-pane, label: "_Published Jan 07, 2026, 08:20 AM_
+Trump says venezuela to send oil worth up to $3.6 billion to us" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+Cahoaoreatos@{ shape: win-pane, label: "_Published Jan 07, 2026, 06:56 AM_
+Caracas, washington in talks to export venezuelan oil to us, sources say" }
+TttoiWHaVu@{ shape: win-pane, label: "_Published Jan 07, 2026, 06:20 AM_
+Trump to meet oil companies at white house about venezuela" }
+TwVuVcrzpegeenpe@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:15 AM_
+Trump warns venezuelan v-p delcy rodriguez will pay a ‘very big price’ if she doesn’t cooperate" }
+TiiolLAcCieh@{ shape: win-pane, label: "_Published Jan 10, 2026, 11:22 AM_
+Trump is making a power play in latin america, but china is already there" }
+TcdacoeeDonpsae@{ shape: win-pane, label: "_Published Jan 08, 2026, 11:12 AM_
+Trump considers taking control of venezuela’s pdvsa, lowering oil prices to us$50 a barrel: wsj" }
+Cahoaoreatos@{ shape: win-pane, label: "_Published Jan 07, 2026, 06:56 AM_
+Caracas, washington in talks to export venezuelan oil to us, sources say" }
+TsteznnCpsen@{ shape: win-pane, label: "_Published Jan 07, 2026, 07:56 PM_
+Trump’s plan to take venezuelan oil angers china, pushes prices down" }
 
-Ioseits:::txtsize --> Dsedabgrte:::txtsize
-Dsedabgrte:::txtsize --> Saokdatocis:::txtsize
-Saokdatocis:::txtsize --> Tsrseeworre:::txtsize
-Saokdatocis:::txtsize --> Tsrdeecedletdr:::txtsize
-Dsedabgrte:::txtsize --> Saokdatocis:::txtsize
-Saokdatocis:::txtsize --> Tsrseeworre:::txtsize
-Saokdatocis:::txtsize --> Tsrdeecedletdr:::txtsize
-Ioseits:::txtsize --> IDrenuibe:::txtsize
-IDrenuibe:::txtsize --> BenmTsueIlcfe:::txtsize
-BenmTsueIlcfe:::txtsize --> Tsrdeecedletdr:::txtsize
-BenmTsueIlcfe:::txtsize --> IatlauciUett:::txtsize
+Tdeligiburdi:::txtsize --> TseesitoiU:::txtsize
+TseesitoiU:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+TseesitoiU:::txtsize --> Cahoaoreatos:::txtsize
+Cahoaoreatos:::txtsize --> TttoiWHaVu:::txtsize
+Cahoaoreatos:::txtsize --> TwVuVcrzpegeenpe:::txtsize
+Tdeligiburdi:::txtsize --> TiiolLAcCieh:::txtsize
+TiiolLAcCieh:::txtsize --> TcdacoeeDonpsae:::txtsize
+TcdacoeeDonpsae:::txtsize --> Cahoaoreatos:::txtsize
+TcdacoeeDonpsae:::txtsize --> TsteznnCpsen:::txtsize
 
 ```
-<i>Last updated: 2026-01-11 20:00:45.921857 (GMT+8)</i>
+<i>Last updated: 2026-01-12 00:01:11.880310 (GMT+8)</i>
 <!-- END -->
