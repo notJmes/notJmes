@@ -16,114 +16,117 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Ileselarnnt@{ shape: win-pane, label: "_Published Jan 11, 2026, 11:12 PM_
-Israeli fire kills three people in gaza, three months on from truce" }
-TsnaaPtaor@{ shape: win-pane, label: "_Published Jan 11, 2026, 09:00 PM_
-Trump set to name gaza ‘board of peace’ to advance rocky truce" }
-Tseaupoabmrnluo@{ shape: win-pane, label: "_Published Sep 30, 2025, 12:11 AM_
-Trump secures netanyahu’s support for gaza deal, but hamas’ agreement still in question" }
-AtHfezerydatoGel@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:45 AM_
-Amnesty for hamas fighters, gaza to be governed by ‘board of peace’: details of the gaza peace plan" }
-Mmenwniuaa@{ shape: win-pane, label: "_Published Sep 30, 2025, 06:36 AM_
-Muslim states join eu powers in backing trump’s gaza plan" }
-HserelsiaoG@{ shape: win-pane, label: "_Published Jan 07, 2026, 10:26 PM_
-Hamas says search resumes for last israeli hostage’s body in gaza" }
-Tdrcaaededlncbs@{ shape: win-pane, label: "_Published Oct 14, 2025, 07:45 PM_
-Trump declares victory as gaza ceasefire deal reached, but a lasting peace may be elusive" }
-NyeeawHakl@{ shape: win-pane, label: "_Published Oct 07, 2023, 12:04 PM_
-Netanyahu declares israel at war as hamas attacks kill over 100" }
-SctFcuicisroritn@{ shape: win-pane, label: "_Published Jan 09, 2026, 04:48 PM_
-S’pore charity rlaf launches fund-raising campaign to support recovery, rehabilitation in gaza" }
+Uesisudecoeartrlhn@{ shape: win-pane, label: "_Published Jan 12, 2026, 01:52 AM_
+Us homeland security to send hundreds more officers to minnesota amid protests over fatal ice shooting" }
+FnyIognoaoaWHsr@{ shape: win-pane, label: "_Published Jan 11, 2026, 07:55 AM_
+Fbi’s inquiry into ice shooting in minneapolis faces doubts after white house’s remarks" }
+PsUhiaMasrhneiG@{ shape: win-pane, label: "_Published Jan 09, 2026, 07:04 AM_
+Protesters, us authorities clash in minneapolis after ice shooting of renee nicole good" }
+Itogntase@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:11 PM_
+Ice fatal shooting of minnesota woman puts us on edge" }
+UiifflomMas@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:35 AM_
+Us immigration officer fatally shoots woman in minneapolis" }
+Ndeonahntnins@{ shape: win-pane, label: "_Published Jan 10, 2026, 09:28 AM_
+New video emerges of minnesota ice shooting, further inflaming tensions" }
+UiifflomMas@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:35 AM_
+Us immigration officer fatally shoots woman in minneapolis" }
+Coboyyuustlts@{ shape: win-pane, label: "_Published Jan 03, 2026, 10:23 AM_
+California ban on openly carrying guns is unconstitutional, court rules" }
+UgelbGaarmtei@{ shape: win-pane, label: "_Published Dec 12, 2025, 12:45 AM_
+Us judge orders kilmar abrego garcia released from immigration detention" }
+ToietafganefwaCo@{ shape: win-pane, label: "_Published Jan 10, 2026, 09:40 AM_
+Trump officials reopen thousands of refugee claims in minnesota following fatal ice shooting" }
+PsUhiaMasrhneiG@{ shape: win-pane, label: "_Published Jan 09, 2026, 07:04 AM_
+Protesters, us authorities clash in minneapolis after ice shooting of renee nicole good" }
+VseiderrtiutsDt@{ shape: win-pane, label: "_Published Jan 09, 2026, 08:07 AM_
+Vance says new anti-fraud prosecutor will report to white house, not us justice department" }
 
-Ileselarnnt:::txtsize --> TsnaaPtaor:::txtsize
-TsnaaPtaor:::txtsize --> Tseaupoabmrnluo:::txtsize
-Tseaupoabmrnluo:::txtsize --> AtHfezerydatoGel:::txtsize
-Tseaupoabmrnluo:::txtsize --> Mmenwniuaa:::txtsize
-TsnaaPtaor:::txtsize --> HserelsiaoG:::txtsize
-HserelsiaoG:::txtsize --> Tdrcaaededlncbs:::txtsize
-HserelsiaoG:::txtsize --> NyeeawHakl:::txtsize
-Ileselarnnt:::txtsize --> SctFcuicisroritn:::txtsize
+Uesisudecoeartrlhn:::txtsize --> FnyIognoaoaWHsr:::txtsize
+FnyIognoaoaWHsr:::txtsize --> PsUhiaMasrhneiG:::txtsize
+PsUhiaMasrhneiG:::txtsize --> Itogntase:::txtsize
+PsUhiaMasrhneiG:::txtsize --> UiifflomMas:::txtsize
+Uesisudecoeartrlhn:::txtsize --> Ndeonahntnins:::txtsize
+Ndeonahntnins:::txtsize --> UiifflomMas:::txtsize
+UiifflomMas:::txtsize --> Coboyyuustlts:::txtsize
+UiifflomMas:::txtsize --> UgelbGaarmtei:::txtsize
+Ndeonahntnins:::txtsize --> ToietafganefwaCo:::txtsize
+ToietafganefwaCo:::txtsize --> PsUhiaMasrhneiG:::txtsize
+ToietafganefwaCo:::txtsize --> VseiderrtiutsDt:::txtsize
 
-Sgnfscolsiiud@{ shape: win-pane, label: "_Published Jan 11, 2026, 10:55 PM_
-Syria government forces take control of aleppo’s kurdish neighbourhoods" }
-Ueskwyomufece@{ shape: win-pane, label: "_Published Jan 10, 2026, 11:31 PM_
-Us urges fresh talks between syria government, kurds after deadly clashes" }
-SicrlasnitgnKsh@{ shape: win-pane, label: "_Published Jan 09, 2026, 04:46 AM_
-Shelling rocks syria’s aleppo as clashes intensify between government, kurdish fighters" }
-Estisnasst@{ shape: win-pane, label: "_Published Dec 27, 2025, 12:29 AM_
-Explosion at alawite mosque in syria’s homs kills eight" }
-Tdvuiwrtycloia@{ shape: win-pane, label: "_Published Dec 29, 2025, 02:40 AM_
-Three dead, over 40 wounded in alawite protests on syrian coast, local officials say" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Wasrsnnafriben@{ shape: win-pane, label: "_Published Dec 08, 2024, 06:07 PM_
-Whereabouts of syria's assad unknown, with army officers saying he boarded plane" }
-UoseekaIna@{ shape: win-pane, label: "_Published Jan 11, 2026, 05:26 AM_
-Us announces ‘large-scale’ strikes against isis in syria" }
-Uolnahcy@{ shape: win-pane, label: "_Published Dec 13, 2025, 10:18 PM_
-Us troops killed in isis ambush attack in syria" }
-SnltiARahtoy@{ shape: win-pane, label: "_Published Dec 08, 2024, 08:51 AM_
-Syrian rebels oust president assad; russia says he left the country" }
-Smoaepoa@{ shape: win-pane, label: "_Published Dec 08, 2025, 03:31 PM_
-Syria marks one year after toppling of assad" }
-Usiihelrifay@{ shape: win-pane, label: "_Published Dec 20, 2025, 07:01 AM_
-Us hits isis in syria with large retaliatory strikes, officials say" }
-TveaaUdkdrt@{ shape: win-pane, label: "_Published Dec 14, 2025, 04:09 AM_
-Trump vows retaliation after us soldiers killed in syria attack" }
-Ttsgidsociu@{ shape: win-pane, label: "_Published Dec 18, 2025, 07:00 AM_
-Trump to vow ‘stronger’ us in tv address as economic worries mount" }
+DsIrtcersp@{ shape: win-pane, label: "_Published Jan 12, 2026, 01:35 AM_
+Deaths from iran protests reach more than 500, rights group says" }
+Ioseits@{ shape: win-pane, label: "_Published Jan 11, 2026, 05:10 PM_
+Iran vows to strike back if us attacks" }
+Dsedabgrte@{ shape: win-pane, label: "_Published Jan 11, 2026, 07:26 AM_
+Dozens feared dead as iran hit by largest protests in years" }
+Saokdatocis@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:34 PM_
+Several reported killed in iran protests over economic woes" }
+Saokdatocis@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:34 PM_
+Several reported killed in iran protests over economic woes" }
+IDrenuibe@{ shape: win-pane, label: "_Published Jun 25, 2025, 05:00 AM_
+Iran’s ‘12-day war’ leaves plenty of unfinished business" }
+BenmTsueIlcfe@{ shape: win-pane, label: "_Published Jun 24, 2025, 02:30 PM_
+Big questions loom over trump’s announcement of israel-iran ceasefire deal" }
+TbiIpsnres@{ shape: win-pane, label: "_Published Jan 12, 2026, 12:57 AM_
+Trump briefing on iran options planned for jan 13, report says" }
+SItehseosn@{ shape: win-pane, label: "_Published Jan 11, 2026, 06:57 PM_
+Son of iran’s toppled shah seeks a role as protests expand" }
+IDrenuibe@{ shape: win-pane, label: "_Published Jun 25, 2025, 05:00 AM_
+Iran’s ‘12-day war’ leaves plenty of unfinished business" }
+Ihfeatrreine@{ shape: win-pane, label: "_Published Jan 09, 2026, 06:01 PM_
+Iran shuts off internet as protesters start fires in widening unrest" }
+Ilrfgftfeoawlle@{ shape: win-pane, label: "_Published Jan 11, 2026, 09:45 PM_
+Iran’s leaders are facing a perfect storm of crises. bloody crackdown could spell the end" }
+Irthrarwrkmc@{ shape: win-pane, label: "_Published Jan 11, 2026, 04:30 PM_
+Iran protest death toll rises as alarm grows over crackdown ‘massacre’" }
 
-Sgnfscolsiiud:::txtsize --> Ueskwyomufece:::txtsize
-Ueskwyomufece:::txtsize --> SicrlasnitgnKsh:::txtsize
-SicrlasnitgnKsh:::txtsize --> Estisnasst:::txtsize
-SicrlasnitgnKsh:::txtsize --> Tdvuiwrtycloia:::txtsize
-Ueskwyomufece:::txtsize --> SnltiARahtoy:::txtsize
-SnltiARahtoy:::txtsize --> Wasrsnnafriben:::txtsize
-Sgnfscolsiiud:::txtsize --> UoseekaIna:::txtsize
-UoseekaIna:::txtsize --> Uolnahcy:::txtsize
-Uolnahcy:::txtsize --> SnltiARahtoy:::txtsize
-Uolnahcy:::txtsize --> Smoaepoa:::txtsize
-UoseekaIna:::txtsize --> Usiihelrifay:::txtsize
-Usiihelrifay:::txtsize --> TveaaUdkdrt:::txtsize
-Usiihelrifay:::txtsize --> Ttsgidsociu:::txtsize
+DsIrtcersp:::txtsize --> Ioseits:::txtsize
+Ioseits:::txtsize --> Dsedabgrte:::txtsize
+Dsedabgrte:::txtsize --> Saokdatocis:::txtsize
+Dsedabgrte:::txtsize --> Saokdatocis:::txtsize
+Ioseits:::txtsize --> IDrenuibe:::txtsize
+IDrenuibe:::txtsize --> BenmTsueIlcfe:::txtsize
+DsIrtcersp:::txtsize --> TbiIpsnres:::txtsize
+TbiIpsnres:::txtsize --> SItehseosn:::txtsize
+SItehseosn:::txtsize --> IDrenuibe:::txtsize
+SItehseosn:::txtsize --> Ihfeatrreine:::txtsize
+TbiIpsnres:::txtsize --> Ilrfgftfeoawlle:::txtsize
+Ilrfgftfeoawlle:::txtsize --> Irthrarwrkmc:::txtsize
 
-Tdeligiburdi@{ shape: win-pane, label: "_Published Jan 11, 2026, 09:47 PM_
-Trump delivers oil warning, suggesting cuba should strike a deal with us" }
-TseesitoiU@{ shape: win-pane, label: "_Published Jan 07, 2026, 08:20 AM_
-Trump says venezuela to send oil worth up to $3.6 billion to us" }
-UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
-Us captured venezuela’s maduro after strike, trump says" }
-Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
-Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
-Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
-Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
-Cahoaoreatos@{ shape: win-pane, label: "_Published Jan 07, 2026, 06:56 AM_
-Caracas, washington in talks to export venezuelan oil to us, sources say" }
-TttoiWHaVu@{ shape: win-pane, label: "_Published Jan 07, 2026, 06:20 AM_
-Trump to meet oil companies at white house about venezuela" }
-TwVuVcrzpegeenpe@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:15 AM_
-Trump warns venezuelan v-p delcy rodriguez will pay a ‘very big price’ if she doesn’t cooperate" }
-TiiolLAcCieh@{ shape: win-pane, label: "_Published Jan 10, 2026, 11:22 AM_
-Trump is making a power play in latin america, but china is already there" }
-TcdacoeeDonpsae@{ shape: win-pane, label: "_Published Jan 08, 2026, 11:12 AM_
-Trump considers taking control of venezuela’s pdvsa, lowering oil prices to us$50 a barrel: wsj" }
-Cahoaoreatos@{ shape: win-pane, label: "_Published Jan 07, 2026, 06:56 AM_
-Caracas, washington in talks to export venezuelan oil to us, sources say" }
-TsteznnCpsen@{ shape: win-pane, label: "_Published Jan 07, 2026, 07:56 PM_
-Trump’s plan to take venezuelan oil angers china, pushes prices down" }
+TbiIpsnres@{ shape: win-pane, label: "_Published Jan 12, 2026, 12:57 AM_
+Trump briefing on iran options planned for jan 13, report says" }
+SItehseosn@{ shape: win-pane, label: "_Published Jan 11, 2026, 06:57 PM_
+Son of iran’s toppled shah seeks a role as protests expand" }
+IDrenuibe@{ shape: win-pane, label: "_Published Jun 25, 2025, 05:00 AM_
+Iran’s ‘12-day war’ leaves plenty of unfinished business" }
+BenmTsueIlcfe@{ shape: win-pane, label: "_Published Jun 24, 2025, 02:30 PM_
+Big questions loom over trump’s announcement of israel-iran ceasefire deal" }
+Ihfeatrreine@{ shape: win-pane, label: "_Published Jan 09, 2026, 06:01 PM_
+Iran shuts off internet as protesters start fires in widening unrest" }
+Saokdatocis@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:34 PM_
+Several reported killed in iran protests over economic woes" }
+Uaseynncueoiu@{ shape: win-pane, label: "_Published Jan 09, 2026, 05:41 AM_
+Us treasury’s bessent says iran facing precarious moment, economy in trouble" }
+Ilrfgftfeoawlle@{ shape: win-pane, label: "_Published Jan 11, 2026, 09:45 PM_
+Iran’s leaders are facing a perfect storm of crises. bloody crackdown could spell the end" }
+Irthrarwrkmc@{ shape: win-pane, label: "_Published Jan 11, 2026, 04:30 PM_
+Iran protest death toll rises as alarm grows over crackdown ‘massacre’" }
+Saokdatocis@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:34 PM_
+Several reported killed in iran protests over economic woes" }
+IDrenuibe@{ shape: win-pane, label: "_Published Jun 25, 2025, 05:00 AM_
+Iran’s ‘12-day war’ leaves plenty of unfinished business" }
 
-Tdeligiburdi:::txtsize --> TseesitoiU:::txtsize
-TseesitoiU:::txtsize --> UtVuMorkms:::txtsize
-UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
-UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
-TseesitoiU:::txtsize --> Cahoaoreatos:::txtsize
-Cahoaoreatos:::txtsize --> TttoiWHaVu:::txtsize
-Cahoaoreatos:::txtsize --> TwVuVcrzpegeenpe:::txtsize
-Tdeligiburdi:::txtsize --> TiiolLAcCieh:::txtsize
-TiiolLAcCieh:::txtsize --> TcdacoeeDonpsae:::txtsize
-TcdacoeeDonpsae:::txtsize --> Cahoaoreatos:::txtsize
-TcdacoeeDonpsae:::txtsize --> TsteznnCpsen:::txtsize
+TbiIpsnres:::txtsize --> SItehseosn:::txtsize
+SItehseosn:::txtsize --> IDrenuibe:::txtsize
+IDrenuibe:::txtsize --> BenmTsueIlcfe:::txtsize
+SItehseosn:::txtsize --> Ihfeatrreine:::txtsize
+Ihfeatrreine:::txtsize --> Saokdatocis:::txtsize
+Ihfeatrreine:::txtsize --> Uaseynncueoiu:::txtsize
+TbiIpsnres:::txtsize --> Ilrfgftfeoawlle:::txtsize
+Ilrfgftfeoawlle:::txtsize --> Irthrarwrkmc:::txtsize
+Irthrarwrkmc:::txtsize --> Saokdatocis:::txtsize
+Irthrarwrkmc:::txtsize --> IDrenuibe:::txtsize
 
 ```
-<i>Last updated: 2026-01-12 00:01:11.880310 (GMT+8)</i>
+<i>Last updated: 2026-01-12 04:00:35.085591 (GMT+8)</i>
 <!-- END -->
