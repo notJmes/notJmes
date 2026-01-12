@@ -16,117 +16,120 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Uesisudecoeartrlhn@{ shape: win-pane, label: "_Published Jan 12, 2026, 01:52 AM_
-Us homeland security to send hundreds more officers to minnesota amid protests over fatal ice shooting" }
-FnyIognoaoaWHsr@{ shape: win-pane, label: "_Published Jan 11, 2026, 07:55 AM_
-Fbi’s inquiry into ice shooting in minneapolis faces doubts after white house’s remarks" }
-PsUhiaMasrhneiG@{ shape: win-pane, label: "_Published Jan 09, 2026, 07:04 AM_
-Protesters, us authorities clash in minneapolis after ice shooting of renee nicole good" }
-Itogntase@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:11 PM_
-Ice fatal shooting of minnesota woman puts us on edge" }
-UiifflomMas@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:35 AM_
-Us immigration officer fatally shoots woman in minneapolis" }
-Ndeonahntnins@{ shape: win-pane, label: "_Published Jan 10, 2026, 09:28 AM_
-New video emerges of minnesota ice shooting, further inflaming tensions" }
-UiifflomMas@{ shape: win-pane, label: "_Published Jan 08, 2026, 06:35 AM_
-Us immigration officer fatally shoots woman in minneapolis" }
-Coboyyuustlts@{ shape: win-pane, label: "_Published Jan 03, 2026, 10:23 AM_
-California ban on openly carrying guns is unconstitutional, court rules" }
-UgelbGaarmtei@{ shape: win-pane, label: "_Published Dec 12, 2025, 12:45 AM_
-Us judge orders kilmar abrego garcia released from immigration detention" }
-ToietafganefwaCo@{ shape: win-pane, label: "_Published Jan 10, 2026, 09:40 AM_
-Trump officials reopen thousands of refugee claims in minnesota following fatal ice shooting" }
-PsUhiaMasrhneiG@{ shape: win-pane, label: "_Published Jan 09, 2026, 07:04 AM_
-Protesters, us authorities clash in minneapolis after ice shooting of renee nicole good" }
-VseiderrtiutsDt@{ shape: win-pane, label: "_Published Jan 09, 2026, 08:07 AM_
-Vance says new anti-fraud prosecutor will report to white house, not us justice department" }
+Trtgotomtlr@{ shape: win-pane, label: "_Published Jan 12, 2026, 07:14 AM_
+Trump reposts suggestion that rubio become next cuba leader" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+Vuoilranhibai@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:02 PM_
+Venezuelan opposition leader maria corina machado wins 2025 nobel peace prize" }
+TsonoeroelS@{ shape: win-pane, label: "_Published Oct 01, 2025, 05:12 AM_
+Trump says not winning nobel peace prize would be ‘insult’ to us" }
+TssHaossaaorslaoe@{ shape: win-pane, label: "_Published Oct 09, 2025, 05:09 AM_
+Trump says israel, hamas agree on first phase of gaza deal, allowing release of all israeli hostages" }
+Toskftdasitgz@{ shape: win-pane, label: "_Published Dec 17, 2025, 08:34 AM_
+Trump orders blockade of sanctioned oil tankers leaving, entering venezuela" }
+Uistitktvlanf@{ shape: win-pane, label: "_Published Dec 16, 2025, 11:09 AM_
+Us military says it carried out strikes on three vessels in eastern pacific" }
+Uznenltrwtphoon@{ shape: win-pane, label: "_Published Dec 13, 2025, 11:10 AM_
+Us seized tanker near venezuela just as warrant was set to expire, shows court document" }
+Vusnefpiresredoe@{ shape: win-pane, label: "_Published Jan 11, 2026, 08:20 PM_
+Venezuelans demand release of more political prisoners; ousted president maduro ‘doing well’" }
+TsSsoeady@{ shape: win-pane, label: "_Published Jan 08, 2026, 08:11 PM_
+Trump says us oversight of venezuela could last years" }
+Tieosoiutrttlyo@{ shape: win-pane, label: "_Published Jan 08, 2026, 08:46 AM_
+Trump invites colombia’s petro to white house after earlier threat of military action" }
+UtVuMorkms@{ shape: win-pane, label: "_Published Jan 03, 2026, 02:58 PM_
+Us captured venezuela’s maduro after strike, trump says" }
+MooaStccrmg@{ shape: win-pane, label: "_Published Jan 05, 2026, 03:20 PM_
+Maduro set to appear in us court to face narco-terrorism charges" }
+VuMoiuyytdn@{ shape: win-pane, label: "_Published Jan 04, 2026, 07:03 PM_
+Venezuela’s maduro sits in us custody as loyalists vow defiance" }
+MoibadwWocma@{ shape: win-pane, label: "_Published Jan 05, 2026, 02:15 PM_
+Maduro and wife to be arraigned in new york: what to expect from the case" }
 
-Uesisudecoeartrlhn:::txtsize --> FnyIognoaoaWHsr:::txtsize
-FnyIognoaoaWHsr:::txtsize --> PsUhiaMasrhneiG:::txtsize
-PsUhiaMasrhneiG:::txtsize --> Itogntase:::txtsize
-PsUhiaMasrhneiG:::txtsize --> UiifflomMas:::txtsize
-Uesisudecoeartrlhn:::txtsize --> Ndeonahntnins:::txtsize
-Ndeonahntnins:::txtsize --> UiifflomMas:::txtsize
-UiifflomMas:::txtsize --> Coboyyuustlts:::txtsize
-UiifflomMas:::txtsize --> UgelbGaarmtei:::txtsize
-Ndeonahntnins:::txtsize --> ToietafganefwaCo:::txtsize
-ToietafganefwaCo:::txtsize --> PsUhiaMasrhneiG:::txtsize
-ToietafganefwaCo:::txtsize --> VseiderrtiutsDt:::txtsize
+Trtgotomtlr:::txtsize --> UtVuMorkms:::txtsize
+UtVuMorkms:::txtsize --> Vuoilranhibai:::txtsize
+Vuoilranhibai:::txtsize --> TsonoeroelS:::txtsize
+Vuoilranhibai:::txtsize --> TssHaossaaorslaoe:::txtsize
+UtVuMorkms:::txtsize --> Toskftdasitgz:::txtsize
+Toskftdasitgz:::txtsize --> Uistitktvlanf:::txtsize
+Toskftdasitgz:::txtsize --> Uznenltrwtphoon:::txtsize
+Trtgotomtlr:::txtsize --> Vusnefpiresredoe:::txtsize
+Vusnefpiresredoe:::txtsize --> TsSsoeady:::txtsize
+TsSsoeady:::txtsize --> Tieosoiutrttlyo:::txtsize
+TsSsoeady:::txtsize --> UtVuMorkms:::txtsize
+Vusnefpiresredoe:::txtsize --> MooaStccrmg:::txtsize
+MooaStccrmg:::txtsize --> VuMoiuyytdn:::txtsize
+MooaStccrmg:::txtsize --> MoibadwWocma:::txtsize
 
+DsoLnsnaat@{ shape: win-pane, label: "_Published Jan 12, 2026, 06:59 AM_
+Demonstrators in london, paris, istanbul back iran protests" }
+Irthrarwrkmc@{ shape: win-pane, label: "_Published Jan 11, 2026, 04:30 PM_
+Iran protest death toll rises as alarm grows over crackdown ‘massacre’" }
+Saokdatocis@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:34 PM_
+Several reported killed in iran protests over economic woes" }
+Tsrseeworre@{ shape: win-pane, label: "_Published Jun 22, 2025, 08:14 AM_
+Trump says iran must make peace or ‘we will go after’ other targets" }
+Tsrdeecedletdr@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:17 AM_
+Trump says iran and israel agree to a ‘complete and total’ ceasefire to end 12-day war" }
+IDrenuibe@{ shape: win-pane, label: "_Published Jun 25, 2025, 05:00 AM_
+Iran’s ‘12-day war’ leaves plenty of unfinished business" }
+BenmTsueIlcfe@{ shape: win-pane, label: "_Published Jun 24, 2025, 02:30 PM_
+Big questions loom over trump’s announcement of israel-iran ceasefire deal" }
 DsIrtcersp@{ shape: win-pane, label: "_Published Jan 12, 2026, 01:35 AM_
 Deaths from iran protests reach more than 500, rights group says" }
 Ioseits@{ shape: win-pane, label: "_Published Jan 11, 2026, 05:10 PM_
 Iran vows to strike back if us attacks" }
 Dsedabgrte@{ shape: win-pane, label: "_Published Jan 11, 2026, 07:26 AM_
 Dozens feared dead as iran hit by largest protests in years" }
-Saokdatocis@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:34 PM_
-Several reported killed in iran protests over economic woes" }
-Saokdatocis@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:34 PM_
-Several reported killed in iran protests over economic woes" }
 IDrenuibe@{ shape: win-pane, label: "_Published Jun 25, 2025, 05:00 AM_
 Iran’s ‘12-day war’ leaves plenty of unfinished business" }
-BenmTsueIlcfe@{ shape: win-pane, label: "_Published Jun 24, 2025, 02:30 PM_
-Big questions loom over trump’s announcement of israel-iran ceasefire deal" }
 TbiIpsnres@{ shape: win-pane, label: "_Published Jan 12, 2026, 12:57 AM_
 Trump briefing on iran options planned for jan 13, report says" }
 SItehseosn@{ shape: win-pane, label: "_Published Jan 11, 2026, 06:57 PM_
 Son of iran’s toppled shah seeks a role as protests expand" }
-IDrenuibe@{ shape: win-pane, label: "_Published Jun 25, 2025, 05:00 AM_
-Iran’s ‘12-day war’ leaves plenty of unfinished business" }
-Ihfeatrreine@{ shape: win-pane, label: "_Published Jan 09, 2026, 06:01 PM_
-Iran shuts off internet as protesters start fires in widening unrest" }
 Ilrfgftfeoawlle@{ shape: win-pane, label: "_Published Jan 11, 2026, 09:45 PM_
 Iran’s leaders are facing a perfect storm of crises. bloody crackdown could spell the end" }
-Irthrarwrkmc@{ shape: win-pane, label: "_Published Jan 11, 2026, 04:30 PM_
-Iran protest death toll rises as alarm grows over crackdown ‘massacre’" }
 
+DsoLnsnaat:::txtsize --> Irthrarwrkmc:::txtsize
+Irthrarwrkmc:::txtsize --> Saokdatocis:::txtsize
+Saokdatocis:::txtsize --> Tsrseeworre:::txtsize
+Saokdatocis:::txtsize --> Tsrdeecedletdr:::txtsize
+Irthrarwrkmc:::txtsize --> IDrenuibe:::txtsize
+IDrenuibe:::txtsize --> BenmTsueIlcfe:::txtsize
+DsoLnsnaat:::txtsize --> DsIrtcersp:::txtsize
 DsIrtcersp:::txtsize --> Ioseits:::txtsize
 Ioseits:::txtsize --> Dsedabgrte:::txtsize
-Dsedabgrte:::txtsize --> Saokdatocis:::txtsize
-Dsedabgrte:::txtsize --> Saokdatocis:::txtsize
 Ioseits:::txtsize --> IDrenuibe:::txtsize
-IDrenuibe:::txtsize --> BenmTsueIlcfe:::txtsize
 DsIrtcersp:::txtsize --> TbiIpsnres:::txtsize
 TbiIpsnres:::txtsize --> SItehseosn:::txtsize
-SItehseosn:::txtsize --> IDrenuibe:::txtsize
-SItehseosn:::txtsize --> Ihfeatrreine:::txtsize
 TbiIpsnres:::txtsize --> Ilrfgftfeoawlle:::txtsize
-Ilrfgftfeoawlle:::txtsize --> Irthrarwrkmc:::txtsize
 
-TbiIpsnres@{ shape: win-pane, label: "_Published Jan 12, 2026, 12:57 AM_
-Trump briefing on iran options planned for jan 13, report says" }
-SItehseosn@{ shape: win-pane, label: "_Published Jan 11, 2026, 06:57 PM_
-Son of iran’s toppled shah seeks a role as protests expand" }
-IDrenuibe@{ shape: win-pane, label: "_Published Jun 25, 2025, 05:00 AM_
-Iran’s ‘12-day war’ leaves plenty of unfinished business" }
-BenmTsueIlcfe@{ shape: win-pane, label: "_Published Jun 24, 2025, 02:30 PM_
-Big questions loom over trump’s announcement of israel-iran ceasefire deal" }
-Ihfeatrreine@{ shape: win-pane, label: "_Published Jan 09, 2026, 06:01 PM_
-Iran shuts off internet as protesters start fires in widening unrest" }
-Saokdatocis@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:34 PM_
-Several reported killed in iran protests over economic woes" }
-Uaseynncueoiu@{ shape: win-pane, label: "_Published Jan 09, 2026, 05:41 AM_
-Us treasury’s bessent says iran facing precarious moment, economy in trouble" }
-Ilrfgftfeoawlle@{ shape: win-pane, label: "_Published Jan 11, 2026, 09:45 PM_
-Iran’s leaders are facing a perfect storm of crises. bloody crackdown could spell the end" }
-Irthrarwrkmc@{ shape: win-pane, label: "_Published Jan 11, 2026, 04:30 PM_
-Iran protest death toll rises as alarm grows over crackdown ‘massacre’" }
-Saokdatocis@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:34 PM_
-Several reported killed in iran protests over economic woes" }
-IDrenuibe@{ shape: win-pane, label: "_Published Jun 25, 2025, 05:00 AM_
-Iran’s ‘12-day war’ leaves plenty of unfinished business" }
+BirSyednagoieti@{ shape: win-pane, label: "_Published Jan 12, 2026, 06:37 AM_
+Britain’s former us envoy mandelson declines to apologise to victims over epstein ties" }
+Rlluioiut@{ shape: win-pane, label: "_Published Jan 09, 2026, 05:31 AM_
+Republican-led house fails to override trump vetoes" }
+Togposfsf@{ shape: win-pane, label: "_Published Dec 19, 2025, 12:55 PM_
+‘took too long’: trump supporters wait for epstein files" }
+Eieeaobhe@{ shape: win-pane, label: "_Published Nov 19, 2025, 08:35 AM_
+Epstein files to be released to us public: what are they?" }
+Jetisdntigntvem@{ shape: win-pane, label: "_Published Jul 08, 2025, 04:02 AM_
+Jeffrey epstein died by suicide, has no sex trafficking ‘client list’: us government memo" }
+Ugiptpboeineti@{ shape: win-pane, label: "_Published Jan 08, 2026, 11:51 AM_
+Us congressional panel to subpoena billionaire leslie wexner over epstein ties" }
+Utilpotionw@{ shape: win-pane, label: "_Published Dec 31, 2025, 01:54 PM_
+Us doj to review 5.2 million pages of epstein files, document shows" }
+Tfnetseogpce@{ shape: win-pane, label: "_Published Dec 24, 2025, 01:08 AM_
+Trump flew on epstein jet 8 times in the 1990s, according to us prosecutor e-mail" }
 
-TbiIpsnres:::txtsize --> SItehseosn:::txtsize
-SItehseosn:::txtsize --> IDrenuibe:::txtsize
-IDrenuibe:::txtsize --> BenmTsueIlcfe:::txtsize
-SItehseosn:::txtsize --> Ihfeatrreine:::txtsize
-Ihfeatrreine:::txtsize --> Saokdatocis:::txtsize
-Ihfeatrreine:::txtsize --> Uaseynncueoiu:::txtsize
-TbiIpsnres:::txtsize --> Ilrfgftfeoawlle:::txtsize
-Ilrfgftfeoawlle:::txtsize --> Irthrarwrkmc:::txtsize
-Irthrarwrkmc:::txtsize --> Saokdatocis:::txtsize
-Irthrarwrkmc:::txtsize --> IDrenuibe:::txtsize
+BirSyednagoieti:::txtsize --> Rlluioiut:::txtsize
+Rlluioiut:::txtsize --> Togposfsf:::txtsize
+Togposfsf:::txtsize --> Eieeaobhe:::txtsize
+Togposfsf:::txtsize --> Jetisdntigntvem:::txtsize
+Rlluioiut:::txtsize --> Ugiptpboeineti:::txtsize
+Ugiptpboeineti:::txtsize --> Utilpotionw:::txtsize
+Ugiptpboeineti:::txtsize --> Tfnetseogpce:::txtsize
 
 ```
-<i>Last updated: 2026-01-12 04:00:35.085591 (GMT+8)</i>
+<i>Last updated: 2026-01-12 08:00:58.168429 (GMT+8)</i>
 <!-- END -->
