@@ -16,120 +16,123 @@
 flowchart LR
 classDef txtsize font-size:20px;
 
-Cyjioarpfntttii@{ shape: win-pane, label: "_Published Jan 12, 2026, 11:49 AM_
-Carney’s beijing visit could mark turning point for canada’s tumultuous ties with china" }
-Canatreorhi@{ shape: win-pane, label: "_Published Jan 11, 2026, 11:17 AM_
-Canada’s carney plans to talk trade, relations during china visit" }
-CarotaldhUiiw@{ shape: win-pane, label: "_Published Jan 07, 2026, 09:51 PM_
-Canada pm carney to visit china to talk trade with xi as us tariffs hit growth" }
-DnnnkpslypGls@{ shape: win-pane, label: "_Published Sep 02, 2021, 12:19 PM_
-Detained canadians linked by photos of military equipment: global times" }
-ChaCafauef@{ shape: win-pane, label: "_Published Mar 08, 2025, 09:31 AM_
-China hits back at canada with fresh agriculture tariffs" }
-Ftfhatiarmedvn@{ shape: win-pane, label: "_Published Mar 07, 2025, 05:00 AM_
-‘fight to the finish’: china vows to resist trade war, back more tech and innovation" }
-Chaaltrbgoet@{ shape: win-pane, label: "_Published Mar 04, 2025, 09:45 PM_
-China hits back against latest us tariffs, but signals openness to talks" }
-CarotaldhUiiw@{ shape: win-pane, label: "_Published Jan 07, 2026, 09:51 PM_
-Canada pm carney to visit china to talk trade with xi as us tariffs hit growth" }
-DnnnkpslypGls@{ shape: win-pane, label: "_Published Sep 02, 2021, 12:19 PM_
-Detained canadians linked by photos of military equipment: global times" }
-Ccsnaahptrrfy@{ shape: win-pane, label: "_Published Aug 11, 2021, 10:42 AM_
-China court sentences canadian michael spavor to 11 years in prison for spying" }
-
-Cyjioarpfntttii:::txtsize --> Canatreorhi:::txtsize
-Canatreorhi:::txtsize --> CarotaldhUiiw:::txtsize
-CarotaldhUiiw:::txtsize --> DnnnkpslypGls:::txtsize
-Canatreorhi:::txtsize --> ChaCafauef:::txtsize
-ChaCafauef:::txtsize --> Ftfhatiarmedvn:::txtsize
-ChaCafauef:::txtsize --> Chaaltrbgoet:::txtsize
-Cyjioarpfntttii:::txtsize --> CarotaldhUiiw:::txtsize
-CarotaldhUiiw:::txtsize --> DnnnkpslypGls:::txtsize
-DnnnkpslypGls:::txtsize --> Ccsnaahptrrfy:::txtsize
-
-Nrkoetafis@{ shape: win-pane, label: "_Published Jan 12, 2026, 11:25 AM_
-New york seeks ban on ai-generated images of candidates" }
-Adoefgct@{ shape: win-pane, label: "_Published Jan 07, 2026, 05:00 AM_
-As ai adoption rises, job fears grow across the us" }
-Fmtrtdnusbww@{ shape: win-pane, label: "_Published Dec 22, 2025, 01:50 PM_
-From amazon to microsoft, ai is driving thousands of job cuts worldwide" }
-CnrmpyIeojt@{ shape: win-pane, label: "_Published Nov 20, 2025, 07:59 AM_
-Companies are warming up to saying ai is the reason for job cuts" }
-Fwdroisp@{ shape: win-pane, label: "_Published Sep 19, 2025, 05:00 AM_
-For now, ai is devouring jobs. this, too, shall pass" }
-Eulfsoromea@{ shape: win-pane, label: "_Published Jan 11, 2026, 01:18 AM_
-Elon musk calls uk ‘fascist’ as row over x’s grok ai images escalates" }
-Ieeabssreueg@{ shape: win-pane, label: "_Published Jan 10, 2026, 03:27 PM_
-Indonesia temporarily blocks access to grok over sexualised images" }
-GnsaoetvogEupo@{ shape: win-pane, label: "_Published Jan 07, 2026, 01:15 AM_
-German minister calls for eu legal steps over grok images on elon musk’s x platform" }
-MAGiigaopsfas@{ shape: win-pane, label: "_Published Jan 09, 2026, 08:12 PM_
-Musk’s ai bot grok limits image generation on x to paid users after backlash" }
-MAGiigaopsfas@{ shape: win-pane, label: "_Published Jan 09, 2026, 08:12 PM_
-Musk’s ai bot grok limits image generation on x to paid users after backlash" }
-MsaniarnGm@{ shape: win-pane, label: "_Published Jan 04, 2026, 02:35 PM_
-Malaysia, france, india hit out at x for ‘offensive’ grok images" }
-Atrsxmootpngs@{ shape: win-pane, label: "_Published Jan 02, 2026, 08:15 PM_
-Ai chatbot grok posts sexual images of minors after ‘lapses in safeguards’" }
-
-Nrkoetafis:::txtsize --> Adoefgct:::txtsize
-Adoefgct:::txtsize --> Fmtrtdnusbww:::txtsize
-Adoefgct:::txtsize --> CnrmpyIeojt:::txtsize
-CnrmpyIeojt:::txtsize --> Fwdroisp:::txtsize
-Nrkoetafis:::txtsize --> Eulfsoromea:::txtsize
-Eulfsoromea:::txtsize --> Ieeabssreueg:::txtsize
-Ieeabssreueg:::txtsize --> GnsaoetvogEupo:::txtsize
-Ieeabssreueg:::txtsize --> MAGiigaopsfas:::txtsize
-Eulfsoromea:::txtsize --> MAGiigaopsfas:::txtsize
-MAGiigaopsfas:::txtsize --> MsaniarnGm:::txtsize
-MAGiigaopsfas:::txtsize --> Atrsxmootpngs:::txtsize
-
-TsSenialps@{ shape: win-pane, label: "_Published Jan 12, 2026, 10:14 AM_
-Trump says us closely monitoring iran, mulling options" }
+FVuonibdypee@{ shape: win-pane, label: "_Published Jan 12, 2026, 03:00 PM_
+First venezuela, now iran: americans befuddled by trump’s power moves" }
+TsSomoIugon@{ shape: win-pane, label: "_Published Jan 12, 2026, 10:14 AM_
+Trump says us is closely monitoring iran, mulling over options" }
 DsIrtcersp@{ shape: win-pane, label: "_Published Jan 12, 2026, 01:35 AM_
 Deaths from iran protests reach more than 500, rights group says" }
 Ioseits@{ shape: win-pane, label: "_Published Jan 11, 2026, 05:10 PM_
 Iran vows to strike back if us attacks" }
-Dsedabgrte@{ shape: win-pane, label: "_Published Jan 11, 2026, 07:26 AM_
-Dozens feared dead as iran hit by largest protests in years" }
-IDrenuibe@{ shape: win-pane, label: "_Published Jun 25, 2025, 05:00 AM_
-Iran’s ‘12-day war’ leaves plenty of unfinished business" }
-TbiIpsnres@{ shape: win-pane, label: "_Published Jan 12, 2026, 12:57 AM_
-Trump briefing on iran options planned for jan 13, report says" }
-SItehseosn@{ shape: win-pane, label: "_Published Jan 11, 2026, 06:57 PM_
-Son of iran’s toppled shah seeks a role as protests expand" }
-Ilrfgftfeoawlle@{ shape: win-pane, label: "_Published Jan 11, 2026, 09:45 PM_
-Iran’s leaders are facing a perfect storm of crises. bloody crackdown could spell the end" }
+TbionrnIrtnort@{ shape: win-pane, label: "_Published Jan 12, 2026, 12:57 AM_
+Trump briefing on options for response to iran protests planned for jan 13, report says" }
 Ihfeatrreine@{ shape: win-pane, label: "_Published Jan 09, 2026, 06:01 PM_
 Iran shuts off internet as protesters start fires in widening unrest" }
+Saokdatocis@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:34 PM_
+Several reported killed in iran protests over economic woes" }
+Uaseynncueoiu@{ shape: win-pane, label: "_Published Jan 09, 2026, 05:41 AM_
+Us treasury’s bessent says iran facing precarious moment, economy in trouble" }
+Tttreteaea@{ shape: win-pane, label: "_Published Jan 02, 2026, 04:25 PM_
+Trump threatens iran over protest deaths as unrest flares" }
 Saokdatocis@{ shape: win-pane, label: "_Published Jan 01, 2026, 07:34 PM_
 Several reported killed in iran protests over economic woes" }
 Tsrseeworre@{ shape: win-pane, label: "_Published Jun 22, 2025, 08:14 AM_
 Trump says iran must make peace or ‘we will go after’ other targets" }
 Tsrdeecedletdr@{ shape: win-pane, label: "_Published Jun 24, 2025, 06:17 AM_
 Trump says iran and israel agree to a ‘complete and total’ ceasefire to end 12-day war" }
-Uaseynncueoiu@{ shape: win-pane, label: "_Published Jan 09, 2026, 05:41 AM_
-Us treasury’s bessent says iran facing precarious moment, economy in trouble" }
-Uunnaoanlpr@{ shape: win-pane, label: "_Published Dec 31, 2025, 12:09 AM_
-Us issues sanctions related to iran and venezuela weapons trade" }
-Iaerteoune@{ shape: win-pane, label: "_Published Jan 09, 2026, 06:26 AM_
-Iranians step up protests as death toll mounts, internet cut" }
+CdnerneMA@{ shape: win-pane, label: "_Published Sep 16, 2023, 04:22 PM_
+Clampdown and grief as iranians remember mahsa amini" }
+Blnssinonans@{ shape: win-pane, label: "_Published Sep 16, 2023, 08:05 AM_
+Biden leads new western sanctions on iran on amini’s death anniversary" }
 
-TsSenialps:::txtsize --> DsIrtcersp:::txtsize
+FVuonibdypee:::txtsize --> TsSomoIugon:::txtsize
+TsSomoIugon:::txtsize --> DsIrtcersp:::txtsize
 DsIrtcersp:::txtsize --> Ioseits:::txtsize
-Ioseits:::txtsize --> Dsedabgrte:::txtsize
-Ioseits:::txtsize --> IDrenuibe:::txtsize
-DsIrtcersp:::txtsize --> TbiIpsnres:::txtsize
-TbiIpsnres:::txtsize --> SItehseosn:::txtsize
-TbiIpsnres:::txtsize --> Ilrfgftfeoawlle:::txtsize
-TsSenialps:::txtsize --> Ihfeatrreine:::txtsize
+DsIrtcersp:::txtsize --> TbionrnIrtnort:::txtsize
+TsSomoIugon:::txtsize --> Ihfeatrreine:::txtsize
 Ihfeatrreine:::txtsize --> Saokdatocis:::txtsize
+Ihfeatrreine:::txtsize --> Uaseynncueoiu:::txtsize
+FVuonibdypee:::txtsize --> Tttreteaea:::txtsize
+Tttreteaea:::txtsize --> Saokdatocis:::txtsize
 Saokdatocis:::txtsize --> Tsrseeworre:::txtsize
 Saokdatocis:::txtsize --> Tsrdeecedletdr:::txtsize
-Ihfeatrreine:::txtsize --> Uaseynncueoiu:::txtsize
-Uaseynncueoiu:::txtsize --> Uunnaoanlpr:::txtsize
-Uaseynncueoiu:::txtsize --> Iaerteoune:::txtsize
+Tttreteaea:::txtsize --> CdnerneMA:::txtsize
+CdnerneMA:::txtsize --> Blnssinonans:::txtsize
+
+Tsiieoiehebvard@{ shape: win-pane, label: "_Published Jan 12, 2026, 01:33 PM_
+Trump says civil rights-era protections led to white people being ‘very badly treated’" }
+TcioirdsGi@{ shape: win-pane, label: "_Published Jan 21, 2025, 10:16 AM_
+Trump curtails protections around diversity, lgbtq rights" }
+Asdmseetiralavtge@{ shape: win-pane, label: "_Published Jan 12, 2025, 10:55 AM_
+Apple’s board recommends shareholders vote against proposal to eliminate diversity programmes" }
+MmsbiiomeTiuo@{ shape: win-pane, label: "_Published Jan 11, 2025, 08:43 AM_
+Meta, amazon scale back diversity programmes ahead of trump inauguration" }
+MmsbiiomeTiuo@{ shape: win-pane, label: "_Published Jan 11, 2025, 08:43 AM_
+Meta, amazon scale back diversity programmes ahead of trump inauguration" }
+MmsbiiomeTiuo@{ shape: win-pane, label: "_Published Jan 11, 2025, 08:43 AM_
+Meta, amazon scale back diversity programmes ahead of trump inauguration" }
+Aieihpaassneii@{ shape: win-pane, label: "_Published Jan 09, 2025, 07:10 AM_
+Activists fear spike in hate speech as meta lifts curbs on gender, sexual identity" }
+FwSAarnTcsfimi@{ shape: win-pane, label: "_Published May 13, 2025, 04:01 AM_
+First white south africans arrive in us as trump claims they face discrimination" }
+FwSAaaarduivul@{ shape: win-pane, label: "_Published May 12, 2025, 05:01 AM_
+First white south africans board plane for us under trump’s divisive refugee plan" }
+Tssniofswplec@{ shape: win-pane, label: "_Published Feb 11, 2025, 08:13 PM_
+Trump’s accusations against south africa spark ‘white privilege’ self-mockery" }
+Ueuraschctmar@{ shape: win-pane, label: "_Published Mar 15, 2025, 06:11 AM_
+Us expels south africa’s ambassador, calls him ‘race-baiting’ america hater" }
+Eluretashirt@{ shape: win-pane, label: "_Published Mar 23, 2025, 07:00 PM_
+Expelled south african envoy to us says he’s back home ‘with no regrets’" }
+TfeSAaictfas@{ shape: win-pane, label: "_Published Feb 09, 2025, 02:40 AM_
+Trump freezes all south african assistance as stand-off escalates" }
+AmntteeCbdie@{ shape: win-pane, label: "_Published Mar 23, 2025, 11:59 AM_
+Academia confronts a watershed moment at columbia, and the right revels" }
+
+Tsiieoiehebvard:::txtsize --> TcioirdsGi:::txtsize
+TcioirdsGi:::txtsize --> Asdmseetiralavtge:::txtsize
+Asdmseetiralavtge:::txtsize --> MmsbiiomeTiuo:::txtsize
+Asdmseetiralavtge:::txtsize --> MmsbiiomeTiuo:::txtsize
+TcioirdsGi:::txtsize --> MmsbiiomeTiuo:::txtsize
+MmsbiiomeTiuo:::txtsize --> Aieihpaassneii:::txtsize
+Tsiieoiehebvard:::txtsize --> FwSAarnTcsfimi:::txtsize
+FwSAarnTcsfimi:::txtsize --> FwSAaaarduivul:::txtsize
+FwSAaaarduivul:::txtsize --> Tssniofswplec:::txtsize
+FwSAaaarduivul:::txtsize --> Ueuraschctmar:::txtsize
+FwSAarnTcsfimi:::txtsize --> Eluretashirt:::txtsize
+Eluretashirt:::txtsize --> TfeSAaictfas:::txtsize
+Eluretashirt:::txtsize --> AmntteeCbdie:::txtsize
+
+Nsnhysiasnsig@{ shape: win-pane, label: "_Published Jan 12, 2026, 01:00 PM_
+New fossil unearths tiny dinosaur with weaponised hand for stealing eggs" }
+Isloiuttntenlce@{ shape: win-pane, label: "_Published Dec 17, 2025, 04:01 PM_
+‘immense’ collection of dinosaur footprints found in italy near 2026 winter olympics site" }
+TftciefaPinrpsod@{ shape: win-pane, label: "_Published Aug 11, 2025, 12:40 PM_
+Texas flood turns creek into real-life jurassic park, with 15 dinosaur footprints discovered" }
+AdoiieeCNatut@{ shape: win-pane, label: "_Published Apr 18, 2025, 07:00 AM_
+A decade of zoological discovery: lee kong chian natural history museum turns 10" }
+Toofrfatao@{ shape: win-pane, label: "_Published Mar 12, 2025, 01:10 PM_
+Trove of dinosaur footprints found at australian school" }
+Toofrfatao@{ shape: win-pane, label: "_Published Mar 12, 2025, 01:10 PM_
+Trove of dinosaur footprints found at australian school" }
+JsgHedaonuUr@{ shape: win-pane, label: "_Published Jan 02, 2025, 11:33 PM_
+Jurassic highway: hundreds of dinosaur footprints found in uk quarry" }
+Jssriwsobvi@{ shape: win-pane, label: "_Published Feb 13, 2025, 12:14 AM_
+Jurassic fossil from china rewrites history of bird evolution" }
+Nxosdahntrit@{ shape: win-pane, label: "_Published Oct 24, 2025, 06:39 PM_
+New mexico fossils show dinosaurs thriving just before annihilation" }
+Fgsteeesenoec@{ shape: win-pane, label: "_Published Oct 10, 2025, 05:00 AM_
+From a giant ‘squid’ to a t-rex: science centre’s biggest dino expo to open on oct 11" }
+
+Nsnhysiasnsig:::txtsize --> Isloiuttntenlce:::txtsize
+Isloiuttntenlce:::txtsize --> TftciefaPinrpsod:::txtsize
+TftciefaPinrpsod:::txtsize --> AdoiieeCNatut:::txtsize
+TftciefaPinrpsod:::txtsize --> Toofrfatao:::txtsize
+Isloiuttntenlce:::txtsize --> Toofrfatao:::txtsize
+Toofrfatao:::txtsize --> JsgHedaonuUr:::txtsize
+Toofrfatao:::txtsize --> Jssriwsobvi:::txtsize
+Nsnhysiasnsig:::txtsize --> Nxosdahntrit:::txtsize
+Nxosdahntrit:::txtsize --> Fgsteeesenoec:::txtsize
 
 ```
-<i>Last updated: 2026-01-12 12:00:23.113680 (GMT+8)</i>
+<i>Last updated: 2026-01-12 16:00:57.861816 (GMT+8)</i>
 <!-- END -->
